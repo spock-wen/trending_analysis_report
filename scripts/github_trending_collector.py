@@ -29,6 +29,7 @@ import sqlite3
 import subprocess
 import sys
 import time
+from collections import Counter
 from datetime import datetime, timedelta
 
 # ========== 配置 ==========
@@ -364,6 +365,78 @@ def save_to_db(projects, date_str, period='daily'):
         conn.close()
 
 
+
+
+# ========== P1: 描述变更检测 ==========
+def detect_description_changes(projects, date_str):
+    """检测今日项目描述与数据库中上次记录是否不同，输出变更信号"""
+    changes = []
+    if not os.path.exists(DB_PATH):
+        return changes
+
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+
+    for p in projects:
+        cursor.execute("""
+            SELECT description FROM trending_daily
+            WHERE repo_full_name=? AND period='daily' AND date != ?
+            ORDER BY date DESC LIMIT 1
+        """, (p['repo'], date_str))
+        row = cursor.fetchone()
+        if row and row[0] and row[0] != p['description']:
+            changes.append({
+                "repo": p['repo'],
+                "old_description": row[0],
+                "new_description": p['description'],
+                "date": date_str
+            })
+
+    conn.close()
+
+    if changes:
+        signals_dir = os.path.join(WIKI_PATH, "data")
+        os.makedirs(signals_dir, exist_ok=True)
+        out_path = os.path.join(signals_dir, "description_changes.json")
+        with open(out_path, 'w', encoding='utf-8') as f:
+            json.dump(changes, f, ensure_ascii=False, indent=2)
+        log.info(f"检测到 {len(changes)} 个描述变更 → {out_path}")
+    else:
+        log.info("无描述变更")
+
+    return changes
+
+
+# ========== P2: 趋势信号检测 ==========
+def detect_trends(projects, date_str):
+    """按语言统计今日上榜项目数，>=3 的领域输出趋势信号"""
+    lang_counts = Counter(p['language'] for p in projects if p['language'])
+
+    signals = []
+    for lang, count in lang_counts.items():
+        if count >= 3:
+            signals.append({
+                "type": "language_surge",
+                "key": lang,
+                "count": count,
+                "date": date_str,
+                "projects": [p['repo'] for p in projects if p['language'] == lang]
+            })
+
+    if signals:
+        signals_dir = os.path.join(WIKI_PATH, "data")
+        os.makedirs(signals_dir, exist_ok=True)
+        out_path = os.path.join(signals_dir, "trend_signals.json")
+        with open(out_path, 'w', encoding='utf-8') as f:
+            json.dump(signals, f, ensure_ascii=False, indent=2)
+        for s in signals:
+            log.info(f"趋势信号: {s['key']} 领域 {s['count']} 个项目上榜")
+    else:
+        log.info("无趋势信号（各语言均 <3 个项目）")
+
+    return signals
+
+
 # ========== 主函数 ==========
 def main():
     dry_run = '--dry-run' in sys.argv
@@ -405,6 +478,14 @@ def main():
         log.info("DRY-RUN: 跳过数据库写入")
         for p in projects[:5]:
             log.info(f"  #{p['rank']} {p['repo']} ⭐{p['total_stars']}(+{p['stars_today']}) [{p['language']}]")
+
+    # 5. P1: 描述变更检测
+    if not dry_run:
+        detect_description_changes(projects, date_str)
+
+    # 6. P2: 趋势信号检测
+    if not dry_run:
+        detect_trends(projects, date_str)
 
     log.info(f"=== 采集完成: {len(projects)} 个项目 ===")
 

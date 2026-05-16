@@ -162,6 +162,17 @@ def lint_pages():
         if content.count('## ') >= 5 and '^[' not in content:
             issues['info'].append(f"缺少来源标注: {fname} — 多章节页面建议添加 provenance markers")
 
+    # 9. 矛盾页面超期检查（contested > 30 天未解决 → critical）
+    contested_cutoff = (datetime.now() - timedelta(days=30)).strftime("%Y-%m-%d")
+    for page_path in pages:
+        fname = os.path.basename(page_path)
+        content = open(page_path, encoding='utf-8').read()
+        fm = parse_frontmatter(content)
+        if fm and fm.get('contested') == 'true':
+            updated = fm.get('updated', '9999')
+            if updated < contested_cutoff:
+                issues['critical'].append(f"矛盾页面超期 (>30天未解决): {fname} (updated: {updated}) — 需要人工审查并解决")
+
     return issues
 
 

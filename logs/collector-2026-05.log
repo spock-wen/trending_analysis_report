@@ -1,0 +1,13 @@
+[2026-05-16 18:22:28] [INFO] === GitHub Trending 采集开始 (2026-05-16) ===
+[2026-05-16 18:22:28] [INFO] >>> DRY-RUN 模式，不写数据库/JSON <<<
+[2026-05-16 18:22:28] [INFO] 抓取 https://github.com/trending (proxy=http://127.0.0.1:7890)
+[2026-05-16 18:22:30] [INFO] 抓取成功，HTML 大小: 583542 bytes
+[2026-05-16 18:22:30] [INFO] 解析到 12 个项目
+[2026-05-16 18:22:30] [INFO] DRY-RUN: 跳过 JSON 保存
+[2026-05-16 18:22:30] [INFO] DRY-RUN: 跳过数据库写入
+[2026-05-16 18:22:30] [INFO]   #1 tinyhumansai/openhuman ⭐9742(+1271) [Rust]
+[2026-05-16 18:22:30] [INFO]   #2 obra/superpowers ⭐193339(+1648) [Shell]
+[2026-05-16 18:22:30] [INFO]   #3 K-Dense-AI/scientific-agent-skills ⭐22728(+646) [Python]
+[2026-05-16 18:22:30] [INFO]   #4 supertone-inc/supertonic ⭐6329(+719) [Swift]
+[2026-05-16 18:22:30] [INFO]   #5 ruvnet/RuView ⭐57814(+1859) [Rust]
+[2026-05-16 18:22:30] [INFO] === 采集完成: 12 个项目 ===

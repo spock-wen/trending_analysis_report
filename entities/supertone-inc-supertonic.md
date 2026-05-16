@@ -32,12 +32,16 @@ license: MIT (sample code), OpenRAIL-M (model)
 - **自然文本处理** — 自动解析货币、电话号码、单位等复杂文本（如 "$5.2M" → "five point two million dollars"）
 - **跨平台 SDK** — Python、Node.js、Browser（WebGPU/WASM）、Java、C++、C#、Go、Swift、iOS、Rust、Flutter
 
+^[raw/trending/2026-05-16.json]
+
 ## 技术栈
 
 - Swift（核心）
 - ONNX Runtime
 - SupertonicTTS 架构（语音自编码器 + flow-matching）
 - Length-Aware RoPE（改进文本-语音对齐）
+
+^[GitHub Trending 页面 + 项目 README]
 
 ## 使用场景
 
@@ -53,6 +57,9 @@ license: MIT (sample code), OpenRAIL-M (model)
 | 2026-05-16 | 4 | +719 | 6,294 |
 
 ## 同类项目
+
+- [[joeseesun-qiaomu-anything-to-notebooklm]] — 多源内容处理器
+- [[agent-skills-ecosystem]] — Agent Skills 领域趋势分析
 
 - [[ruvnet-RuView]] — 同为边缘设备 AI，但专注空间感知而非语音
 - [[tinyhumansai-openhuman]] — 集成 TTS 的 AI 助手（ElevenLabs TTS）

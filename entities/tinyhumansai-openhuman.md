@@ -32,12 +32,16 @@ license: GPL-3.0
 - **TokenJuice 压缩** — 所有工具调用结果、抓取内容、邮件等在发送给 LLM 前压缩，降低 80% 成本和延迟
 - **模型路由** — 自动将任务分配给合适的 LLM（推理、快速或视觉模型）
 
+^[raw/trending/2026-05-16.json]
+
 ## 技术栈
 
 - Rust + Node.js（桌面应用）
 - SQLite 本地存储
 - Obsidian 兼容 Markdown
 - 支持 Ollama 本地模型
+
+^[GitHub Trending 页面 + 项目 README]
 
 ## 使用场景
 
@@ -52,6 +56,9 @@ license: GPL-3.0
 | 2026-05-16 | 1 | +1271 | 9,679 |
 
 ## 同类项目
+
+- [[joeseesun-qiaomu-anything-to-notebooklm]] — 多源内容处理器
+- [[agent-skills-ecosystem]] — Agent Skills 领域趋势分析
 
 - [[oven-sh-bun]] — 同为 Rust 构建的高性能工具，但专注 JS 运行时
 - [[obra-superpowers]] — 同为 AI Agent 框架，但专注开发工作流

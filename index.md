@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-05-16 | 总页面：13
+> 最后更新：2026-05-16 | 总页面：14
 
 ## Entities
 
@@ -9,7 +9,8 @@
 - [[czlonkowski-n8n-mcp]] — MCP 服务器，让 AI 助手操作 n8n 工作流，1,650 节点覆盖
 - [[influxdata-telegraf]] — InfluxData 数据采集 Agent，300+ 插件，Go 实现
 - [[joeseesun-qiaomu-anything-to-notebooklm]] — Claude Skill，多源内容处理器，支持付费墙绕过
-- [[K-Dense-AI-scientific-agent-skills]] — 135 个科研 Agent 技能，78+ 科学数据库
+- [[K-Dense-AI-scientific-agent-skills]]
+- [[mattpocock-skills]] — 工程实践 Agent Skills，修复 AI 编码四大失败模式，85K star — 135 个科研 Agent 技能，78+ 科学数据库
 - [[mattpocock/skills]] — 工程实践 Agent 技能，修复 AI 编码四大失败模式，今日 +3132 star
 - [[NVIDIA-AI-Blueprints-video-search-and-summarization]] — NVIDIA 视频搜索与摘要蓝图，GPU 加速视觉 Agent
 - [[obra-superpowers]] — 最成熟的 agentic skills 框架，193K star，强制 TDD

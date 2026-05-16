@@ -32,6 +32,8 @@ NVIDIA 视频搜索与摘要（VSS）蓝图，提供 GPU 加速视觉 Agent 和 
 - **5 大工作流** — Q&A 报告生成、告警验证、实时告警、视频搜索、长视频摘要
 - **10 个 VSS 技能** — alerts、deploy、report、rt-vlm、video-analytics 等
 
+^[raw/trending/2026-05-16.json]
+
 ## 技术栈
 
 - Python（57.2%）+ TypeScript（35.5%）
@@ -39,6 +41,8 @@ NVIDIA 视频搜索与摘要（VSS）蓝图，提供 GPU 加速视觉 Agent 和 
 - Next.js UI
 - Docker Compose 部署
 - MCP（Model Context Protocol）
+
+^[GitHub Trending 页面 + 项目 README]
 
 ## 使用场景
 
@@ -54,6 +58,9 @@ NVIDIA 视频搜索与摘要（VSS）蓝图，提供 GPU 加速视觉 Agent 和 
 | 2026-05-16 | 9 | +308 | 1,261 |
 
 ## 同类项目
+
+- [[joeseesun-qiaomu-anything-to-notebooklm]] — 多源内容处理器
+- [[agent-skills-ecosystem]] — Agent Skills 领域趋势分析
 
 - [[ruvnet-RuView]] — 同为感知/监控领域，但基于 WiFi 而非视频
 - [[influxdata-telegraf]] — 同为数据采集，但专注指标而非视频分析

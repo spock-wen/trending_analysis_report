@@ -32,11 +32,15 @@ license: Unknown
 - **跨平台兼容** — Claude Code、Codex、Gemini CLI、Cursor 均可使用
 - **K-Dense BYOK** — 配套免费桌面应用，40+ 模型可选
 
+^[raw/trending/2026-05-16.json]
+
 ## 技术栈
 
 - Python（主要）
 - Agent Skills 标准（agentskills.io）
 - uv 包管理器
+
+^[GitHub Trending 页面 + 项目 README]
 
 ## 使用场景
 
@@ -51,6 +55,9 @@ license: Unknown
 | 2026-05-16 | 3 | +646 | 22,705 |
 
 ## 同类项目
+
+- [[joeseesun-qiaomu-anything-to-notebooklm]] — 多源内容处理器
+- [[agent-skills-ecosystem]] — Agent Skills 领域趋势分析
 
 - [[anthropics-skills]] — Anthropic 官方技能库，更通用
 - [[obra-superpowers]] — Agent 技能框架，侧重开发工作流

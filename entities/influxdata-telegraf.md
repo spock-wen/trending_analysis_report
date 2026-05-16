@@ -32,11 +32,15 @@ InfluxData 开发的开源数据采集 Agent，用于收集、处理、聚合和
 - **用户自定义代码** — 支持自定义数据采集、转换和传输逻辑
 - **活跃社区** — 1,200+ 社区贡献者
 
+^[raw/trending/2026-05-16.json]
+
 ## 技术栈
 
 - Go（99.5%）
 - TOML 配置
 - 插件架构（输入/处理器/聚合器/输出）
+
+^[GitHub Trending 页面 + 项目 README]
 
 ## 使用场景
 
@@ -52,6 +56,9 @@ InfluxData 开发的开源数据采集 Agent，用于收集、处理、聚合和
 | 2026-05-16 | 6 | +212 | 17,479 |
 
 ## 同类项目
+
+- [[joeseesun-qiaomu-anything-to-notebooklm]] — 多源内容处理器
+- [[agent-skills-ecosystem]] — Agent Skills 领域趋势分析
 
 - [[czlonkowski-n8n-mcp]] — 同为数据/工作流自动化，但专注 n8n + MCP
 - [[ruvnet-RuView]] — 同为感知/监控，但基于 WiFi 信号而非传统指标

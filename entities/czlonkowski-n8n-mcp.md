@@ -32,12 +32,16 @@ MCP（模型上下文协议）服务器，为 Claude Desktop、Claude Code、Win
 - **托管或自托管** — 提供 dashboard.n8n-mcp.com 托管服务，也支持 Docker/Railway 自托管
 - **Claude 技能增强** — 配套 n8n-skills 仓库，教授 AI 构建生产级工作流
 
+^[raw/trending/2026-05-16.json]
+
 ## 技术栈
 
 - TypeScript
 - MCP（Model Context Protocol）
 - n8n API 集成
 - Docker / Railway 部署
+
+^[GitHub Trending 页面 + 项目 README]
 
 ## 使用场景
 
@@ -52,6 +56,9 @@ MCP（模型上下文协议）服务器，为 Claude Desktop、Claude Code、Win
 | 2026-05-16 | 8 | +68 | 20,971 |
 
 ## 同类项目
+
+- [[joeseesun-qiaomu-anything-to-notebooklm]] — 多源内容处理器
+- [[agent-skills-ecosystem]] — Agent Skills 领域趋势分析
 
 - [[influxdata-telegraf]] — 同为数据自动化领域，但专注指标采集
 - [[anthropics-skills]] — 同为 MCP/技能生态，但更通用

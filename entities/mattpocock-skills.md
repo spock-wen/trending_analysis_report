@@ -32,11 +32,15 @@ license: MIT
 - **PRD 生成** — `/to-prd` 将对话转化为 PRD，`/to-issues` 将 PRD 拆分为独立 GitHub issue
 - **极简通信** — `/caveman` 压缩 token 使用量约 75%
 
+^[raw/trending/2026-05-16.json]
+
 ## 技术栈
 
 - Shell（主要语言）
 - 兼容 Claude Code、Codex、Gemini CLI、Cursor 等主流 AI 编码工具
 - 通过 `npx skills@latest add mattpocock/skills` 安装
+
+^[GitHub Trending 页面 + 项目 README]
 
 ## 使用场景
 
@@ -51,6 +55,9 @@ license: MIT
 | 2026-05-16 | 11 | +3132 | 85,724 |
 
 ## 同类项目
+
+- [[joeseesun-qiaomu-anything-to-notebooklm]] — 多源内容处理器
+- [[agent-skills-ecosystem]] — Agent Skills 领域趋势分析
 
 - [[obra-superpowers]] — 同为 agentic skills 框架，侧重工作流纪律
 - [[anthropics-skills]] — Anthropic 官方技能库，更偏展示和教育

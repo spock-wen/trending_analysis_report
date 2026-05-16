@@ -32,12 +32,16 @@ license: Unknown
 - **边缘智能** — 60 个 WASM 模块（5-30KB），直接在 ESP32 上运行，<10ms 延迟
 - **零摄像头训练** — 10 个传感器信号，无需标签，M4 Pro 上 84 秒完成训练
 
+^[raw/trending/2026-05-16.json]
+
 ## 技术栈
 
 - Rust（核心）
 - ESP32-S3 硬件 + WiFi CSI
 - WASM 边缘模块
 - 注意力机制 + 图算法 + 压缩模型
+
+^[GitHub Trending 页面 + 项目 README]
 
 ## 使用场景
 
@@ -54,6 +58,9 @@ license: Unknown
 | 2026-05-16 | 5 | +1859 | 57,787 |
 
 ## 同类项目
+
+- [[joeseesun-qiaomu-anything-to-notebooklm]] — 多源内容处理器
+- [[agent-skills-ecosystem]] — Agent Skills 领域趋势分析
 
 - [[supertone-inc-supertonic]] — 同为边缘设备 AI，专注语音而非空间感知
 - [[NVIDIA-AI-Blueprints-video-search-and-summarization]] — 同为感知/监控领域，但基于视频

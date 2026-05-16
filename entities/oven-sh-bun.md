@@ -32,11 +32,15 @@ license: Custom
 - **打包器** — 内置 `Bun.build` 打包工具
 - **丰富 API** — Bun.serve、Bun.sqlite、Bun.redis、Bun.s3、Bun.cron、Bun.YAML 等
 
+^[raw/trending/2026-05-16.json]
+
 ## 技术栈
 
 - Zig（核心实现）
 - JavaScriptCore（JS 引擎，非 V8）
 - 单一二进制分发
+
+^[GitHub Trending 页面 + 项目 README]
 
 ## 使用场景
 
@@ -51,6 +55,9 @@ license: Custom
 | 2026-05-16 | 10 | +448 | 90,705 |
 
 ## 同类项目
+
+- [[joeseesun-qiaomu-anything-to-notebooklm]] — 多源内容处理器
+- [[agent-skills-ecosystem]] — Agent Skills 领域趋势分析
 
 - [[tinyhumansai-openhuman]] — 同为 Rust 构建的高性能工具
 - [[supertone-inc-supertonic]] — 同为跨平台工具，但专注 TTS

@@ -32,11 +32,15 @@ license: MIT
 - **跨平台兼容** — 支持 Claude Code、Codex CLI/App、Gemini CLI、Cursor、GitHub Copilot CLI
 - **v5.1 性能优化** — 用轻量内联自审清单（~30秒）替代子 Agent 审查循环（~25分钟）
 
+^[raw/trending/2026-05-16.json]
+
 ## 技术栈
 
 - Shell（66.4%）+ JavaScript（24.8%）
 - Git Worktree 隔离工作区
 - 多平台插件系统
+
+^[GitHub Trending 页面 + 项目 README]
 
 ## 使用场景
 
@@ -51,6 +55,9 @@ license: MIT
 | 2026-05-16 | 2 | +1648 | 193,299 |
 
 ## 同类项目
+
+- [[joeseesun-qiaomu-anything-to-notebooklm]] — 多源内容处理器
+- [[agent-skills-ecosystem]] — Agent Skills 领域趋势分析
 
 - [[mattpocock-skills]] — 同为 Agent 技能框架，更聚焦工程实践四大失败模式
 - [[anthropics-skills]] — Anthropic 官方技能库，偏展示性质

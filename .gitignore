@@ -1,0 +1,11 @@
+# 数据库文件（二进制，不适合 git）
+data/
+backups/
+
+# 调试文件
+raw/trending/debug/
+
+# 系统文件
+.DS_Store
+*.swp
+*.swo

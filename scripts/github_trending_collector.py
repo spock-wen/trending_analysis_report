@@ -21,7 +21,7 @@ from pathlib import Path
 # ========== 配置 ==========
 PROXY = "http://127.0.0.1:7890"
 TRENDING_URL = "https://github.com/trending"
-WIKI_PATH = "/root/wiki/github"
+WIKI_PATH = "/srv/www/github-trending-wiki"
 DB_PATH = os.path.join(WIKI_PATH, "data", "github_trending.db")
 RAW_DIR = os.path.join(WIKI_PATH, "raw", "trending")
 DEBUG_DIR = os.path.join(RAW_DIR, "debug")

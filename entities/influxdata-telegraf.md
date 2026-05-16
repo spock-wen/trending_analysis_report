@@ -1,17 +1,17 @@
 ---
 title: "influxdata/telegraf"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-17
 type: entity
 tags: [devops, tool, go, trending]
 sources: [raw/trending/2026-05-16.json]
-confidence: low
-trending_count_daily: 1
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-05-16
-last_trending: 2026-05-16
+last_trending: 2026-05-17
 peak_rank: 6
 total_stars: 17479
 language: Go
@@ -54,6 +54,7 @@ InfluxData 开发的开源数据采集 Agent，用于收集、处理、聚合和
 | 日期 | 排名 | 当日新增 star | 总 star |
 |------|------|--------------|---------|
 | 2026-05-16 | 6 | +212 | 17,479 |
+| 2026-05-17 | 6 | +212 | 17,479 |
 
 ## 同类项目
 

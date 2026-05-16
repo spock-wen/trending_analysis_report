@@ -1,17 +1,17 @@
 ---
 title: "oven-sh/bun"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-17
 type: entity
 tags: [web, tool, rust, trending]
 sources: [raw/trending/2026-05-16.json]
-confidence: low
-trending_count_daily: 1
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-05-16
-last_trending: 2026-05-16
+last_trending: 2026-05-17
 peak_rank: 10
 total_stars: 90705
 language: Rust
@@ -53,6 +53,7 @@ license: Custom
 | 日期 | 排名 | 当日新增 star | 总 star |
 |------|------|--------------|---------|
 | 2026-05-16 | 10 | +448 | 90,705 |
+| 2026-05-17 | 10 | +448 | 90,705 |
 
 ## 同类项目
 

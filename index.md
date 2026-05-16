@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-05-16 | 总页面：14
+> 最后更新：2026-05-17 | 总页面：14
 
 ## Entities
 
@@ -30,3 +30,4 @@
 ## Reports
 
 - [[reports/2026-05-16]] — 首日日报，12 个项目，Agent Skills 生态爆发
+- [[reports/2026-05-17]] — 第 2 日日报，12 个项目全部连续上榜

@@ -32,3 +32,11 @@
 ## [2026-05-16] update | 目录迁移
 - 从 /root/wiki/github 迁移到 /srv/www/github-trending-wiki/
 - 统一管理所有系统文件
+
+## [2026-05-17] update | 第 2 日 trending 数据（12 个项目连续上榜）
+- 来源：raw/trending/2026-05-17.json
+- 12/12 项目全部连续第 2 天上榜，无新上榜项目
+- 更新 12 个 entity 页面（consecutive_days=2, confidence→medium）
+- 更新 concept: agent-skills-ecosystem（追加第 2 天数据）
+- 生成 reports/2026-05-17.md
+- 当日 star 增长 Top 3: mattpocock/skills +3132, ruvnet/RuView +1859, obra/superpowers +1648

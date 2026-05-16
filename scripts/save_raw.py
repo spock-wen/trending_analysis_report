@@ -1,0 +1,25 @@
+import json, hashlib
+
+data = [
+    {"rank": 1, "repo": "tinyhumansai/openhuman", "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.", "language": "Rust", "stars_today": 1271, "total_stars": 9679},
+    {"rank": 2, "repo": "obra/superpowers", "description": "An agentic skills framework and software development methodology that works.", "language": "Shell", "stars_today": 1648, "total_stars": 193299},
+    {"rank": 3, "repo": "K-Dense-AI/scientific-agent-skills", "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.", "language": "Python", "stars_today": 646, "total_stars": 22705},
+    {"rank": 4, "repo": "supertone-inc/supertonic", "description": "Lightning-Fast, On-Device, Multilingual TTS running natively via ONNX.", "language": "Swift", "stars_today": 719, "total_stars": 6294},
+    {"rank": 5, "repo": "ruvnet/RuView", "description": "RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection.", "language": "Rust", "stars_today": 1859, "total_stars": 57787},
+    {"rank": 6, "repo": "influxdata/telegraf", "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.", "language": "Go", "stars_today": 212, "total_stars": 17479},
+    {"rank": 7, "repo": "anthropics/skills", "description": "Public repository for Agent Skills", "language": "Python", "stars_today": 689, "total_stars": 135502},
+    {"rank": 8, "repo": "czlonkowski/n8n-mcp", "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you", "language": "TypeScript", "stars_today": 68, "total_stars": 20971},
+    {"rank": 9, "repo": "NVIDIA-AI-Blueprints/video-search-and-summarization", "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.", "language": "Python", "stars_today": 308, "total_stars": 1261},
+    {"rank": 10, "repo": "oven-sh/bun", "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager all in one", "language": "Rust", "stars_today": 448, "total_stars": 90705},
+    {"rank": 11, "repo": "mattpocock/skills", "description": "Skills for Real Engineers. Straight from my .claude directory.", "language": "Shell", "stars_today": 3132, "total_stars": 85724},
+    {"rank": 12, "repo": "joeseesun/qiaomu-anything-to-notebooklm", "description": "Claude Skill: Multi-source content processor for NotebookLM.", "language": "Python", "stars_today": 438, "total_stars": 2907},
+]
+
+body = json.dumps(data, indent=2, ensure_ascii=False)
+sha = hashlib.sha256(body.encode()).hexdigest()
+raw = {"source_url": "https://github.com/trending", "ingested": "2026-05-17", "sha256": sha, "date": "2026-05-17", "projects": data}
+
+with open("/srv/www/github-trending-wiki/raw/trending/2026-05-17.json", "w") as f:
+    json.dump(raw, f, indent=2, ensure_ascii=False)
+
+print(f"Saved raw/trending/2026-05-17.json (sha256: {sha[:16]}...)")

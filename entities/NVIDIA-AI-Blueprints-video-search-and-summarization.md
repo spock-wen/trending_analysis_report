@@ -1,17 +1,17 @@
 ---
 title: "NVIDIA-AI-Blueprints/video-search-and-summarization"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-17
 type: entity
 tags: [ai-agent, framework, python, trending]
 sources: [raw/trending/2026-05-16.json]
-confidence: low
-trending_count_daily: 1
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-05-16
-last_trending: 2026-05-16
+last_trending: 2026-05-17
 peak_rank: 9
 total_stars: 1261
 language: Python
@@ -56,6 +56,7 @@ NVIDIA 视频搜索与摘要（VSS）蓝图，提供 GPU 加速视觉 Agent 和 
 | 日期 | 排名 | 当日新增 star | 总 star |
 |------|------|--------------|---------|
 | 2026-05-16 | 9 | +308 | 1,261 |
+| 2026-05-17 | 9 | +308 | 1,261 |
 
 ## 同类项目
 

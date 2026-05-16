@@ -1,17 +1,17 @@
 ---
 title: "mattpocock/skills"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-17
 type: entity
 tags: [ai-agent, tool, shell, trending]
 sources: [raw/trending/2026-05-16.json]
-confidence: low
-trending_count_daily: 1
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-05-16
-last_trending: 2026-05-16
+last_trending: 2026-05-17
 peak_rank: 11
 total_stars: 85724
 language: Shell
@@ -53,6 +53,7 @@ license: MIT
 | 日期 | 排名 | 当日新增 star | 总 star |
 |------|------|--------------|---------|
 | 2026-05-16 | 11 | +3132 | 85,724 |
+| 2026-05-17 | 11 | +3,132 | 85,724 |
 
 ## 同类项目
 

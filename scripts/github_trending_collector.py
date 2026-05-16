@@ -32,17 +32,37 @@ import time
 from datetime import datetime, timedelta
 
 # ========== 配置 ==========
-PROXY = "http://127.0.0.1:7890"
-TRENDING_URL = "https://github.com/trending"
-WIKI_PATH = "/srv/www/github-trending-wiki"
+def load_env():
+    """从 .env 文件加载配置"""
+    env_paths = [
+        os.path.join(os.path.dirname(__file__), '..', '.env'),
+        os.path.join(os.path.dirname(__file__), '.env'),
+    ]
+    for env_path in env_paths:
+        env_path = os.path.abspath(env_path)
+        if os.path.exists(env_path):
+            with open(env_path, encoding='utf-8') as f:
+                for line in f:
+                    line = line.strip()
+                    if line and not line.startswith('#') and '=' in line:
+                        key, _, value = line.partition('=')
+                        os.environ.setdefault(key.strip(), value.strip())
+            break
+
+load_env()
+
+# ========== 配置（从环境变量读取）==========
+PROXY = os.environ.get("GITHUB_TRENDING_PROXY", "http://127.0.0.1:7890")
+TRENDING_URL = os.environ.get("GITHUB_TRENDING_URL", "https://github.com/trending")
+WIKI_PATH = os.environ.get("GITHUB_TRENDING_WIKI_PATH", "/srv/www/github-trending-wiki")
 DB_PATH = os.path.join(WIKI_PATH, "data", "github_trending.db")
 RAW_DIR = os.path.join(WIKI_PATH, "raw", "trending")
 DEBUG_DIR = os.path.join(RAW_DIR, "debug")
 LOG_DIR = os.path.join(WIKI_PATH, "logs")
-MAX_RETRIES = 3
-RETRY_DELAY = 5
-TIMEOUT = 30
-MIN_PROJECTS = 5  # 低于此数量报警
+MAX_RETRIES = int(os.environ.get("GITHUB_TRENDING_MAX_RETRIES", "3"))
+RETRY_DELAY = int(os.environ.get("GITHUB_TRENDING_RETRY_DELAY", "5"))
+TIMEOUT = int(os.environ.get("GITHUB_TRENDING_TIMEOUT", "30"))
+MIN_PROJECTS = int(os.environ.get("GITHUB_TRENDING_MIN_PROJECTS", "5"))
 
 
 # ========== 日志 ==========

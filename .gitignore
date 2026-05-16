@@ -5,6 +5,12 @@ backups/
 # 调试文件
 raw/trending/debug/
 
+# 环境配置（可能含敏感信息）
+.env
+
+# 日志
+logs/
+
 # 系统文件
 .DS_Store
 *.swp

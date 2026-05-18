@@ -40,3 +40,10 @@
 - 更新 concept: agent-skills-ecosystem（追加第 2 天数据）
 - 生成 reports/2026-05-17.md
 - 当日 star 增长 Top 3: mattpocock/skills +3132, ruvnet/RuView +1859, obra/superpowers +1648
+
+## [2026-05-18] update | GitHub Trending 日报
+- 采集 17 个项目（raw/trending/2026-05-18.json）
+- 新建 entity: 8 个
+- 更新 entity: 9 个
+- 趋势: Python 5 个, TypeScript 4 个
+- AI Agent 生态集中上榜

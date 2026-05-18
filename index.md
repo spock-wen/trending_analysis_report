@@ -19,6 +19,22 @@
 - [[supertone-inc-supertonic]] — 端侧多语言 TTS，31 语言，99M 参数，ONNX 推理
 - [[tinyhumansai-openhuman]] — 个人 AI 超级智能，118+ 集成，本地记忆树
 
+
+- [[anil-matcha-open-generative-ai|Open-Generative-AI]] — GitHub Trending entity
+- [[bigbodycobain-shadowbroker|Shadowbroker]] — GitHub Trending entity
+- [[colbymchenry-codegraph|codegraph]] — GitHub Trending entity
+- [[dograh-hq-dograh|dograh]] — GitHub Trending entity
+- [[hkuds-cli-anything|CLI-Anything]] — GitHub Trending entity
+- [[keygraphhq-shannon|shannon]] — GitHub Trending entity
+- [[knadh-listmonk|listmonk]] — GitHub Trending entity
+- [[light-heart-labs-dreamserver|DreamServer]] — GitHub Trending entity
+- [[medusajs-medusa|medusa]] — GitHub Trending entity
+- [[microsoft-ai-agents-for-beginners|ai-agents-for-beginners]] — GitHub Trending entity
+- [[nirdiamant-agents-towards-production|agents-towards-production]] — GitHub Trending entity
+- [[plausible-analytics|analytics]] — GitHub Trending entity
+- [[tech-leads-club-agent-skills|agent-skills]] — GitHub Trending entity
+- [[tryghost-ghost|Ghost]] — GitHub Trending entity
+
 ## Concepts
 
 - [[agent-skills-ecosystem]] — Agent Skills 生态趋势分析，5/12 项目上榜

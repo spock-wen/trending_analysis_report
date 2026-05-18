@@ -1,7 +1,7 @@
 ---
 title: "oven-sh/bun"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-05-18
 type: entity
 tags: [web, tool, rust, trending]
 sources: [raw/trending/2026-05-16.json]

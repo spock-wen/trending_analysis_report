@@ -1,7 +1,7 @@
 ---
 title: "K-Dense-AI/scientific-agent-skills"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-05-18
 type: entity
 tags: [ai-agent, tool, python, trending]
 sources: [raw/trending/2026-05-16.json]

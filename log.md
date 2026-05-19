@@ -56,3 +56,13 @@
 - 连续 4 天上榜: tinyhumansai/openhuman, K-Dense-AI/scientific-agent-skills, supertone-inc/supertonic, ruvnet/RuView（confidence → high）
 - 连续 2 天上榜: HKUDS/CLI-Anything, tech-leads-club/agent-skills, BigBodyCobain/Shadowbroker, microsoft/ai-agents-for-beginners, plausible/analytics
 - 当日 star 增长 Top 3: tinyhumansai/openhuman +3941, CloakHQ/CloakBrowser +1420, Imbad0202/academic-research-skills +1439
+
+## [2026-05-20] update | GitHub Trending 日报
+- 采集 18 个项目（raw/trending/2026-05-20.json）
+- 新建 entity: 12 个（anthropics/claude-plugins-official, rohitg00/agentmemory, rtk-ai/rtk, msitarzewski/agency-agents, multica-ai/andrej-karpathy-skills, Diolinux/PhotoGIMP, Alishahryar1/free-claude-code, pascalorg/editor, frappe/erpnext, HKUDS/ViMax, Imbad0202/academic-research-skills, CloakHQ/CloakBrowser）
+- 更新 entity: 6 个
+- 趋势: Python 7 个, Rust 2 个, TypeScript 3 个, Shell 1 个, CSS 1 个, Jupyter Notebook 1 个
+- 连续 5 天上榜: tinyhumansai/openhuman（confidence → high）
+- 连续 3 天上榜: HKUDS/CLI-Anything, obra/superpowers, microsoft/ai-agents-for-beginners（confidence → high）
+- 连续 2 天上榜: humanlayer/12-factor-agents
+- 当日 star 增长 Top 3: tinyhumansai/openhuman +3991, Imbad0202/academic-research-skills +3184, multica-ai/andrej-karpathy-skills +1935

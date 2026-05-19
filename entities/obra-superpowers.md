@@ -1,21 +1,20 @@
 ---
 title: "obra/superpowers"
 created: 2026-05-16
-updated: 2026-05-17
-type: entity
-tags: [ai-agent, framework, shell, trending]
-sources: [raw/trending/2026-05-16.json]
-confidence: medium
-trending_count_daily: 2
+updated: 2026-05-20
+type: framework
+tags: [shell, ai-agent, framework, framework, rising]
+sources: [raw/trending/2026-05-20.json]
+confidence: high
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 3
 first_trending: 2026-05-16
-last_trending: 2026-05-17
+last_trending: 2026-05-20
 peak_rank: 2
 total_stars: 193299
 language: Shell
-license: MIT
 ---
 
 # obra/superpowers

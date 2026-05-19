@@ -1,17 +1,17 @@
 ---
 title: "microsoft/ai-agents-for-beginners"
 created: 2026-05-18
-updated: 2026-05-19
-type: entity
-tags: [ai-agent, tutorial, trending]
-sources: [raw/trending/2026-05-19.json]
+updated: 2026-05-20
+type: tutorial
+tags: [python, ai-agent, tutorial, rising]
+sources: [raw/trending/2026-05-20.json]
 confidence: high
-trending_count_daily: 2
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 3
 first_trending: 2026-05-18
-last_trending: 2026-05-19
+last_trending: 2026-05-20
 peak_rank: 12
 total_stars: 63453
 language: Jupyter Notebook

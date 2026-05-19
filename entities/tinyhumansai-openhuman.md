@@ -1,21 +1,20 @@
 ---
 title: "tinyhumansai/openhuman"
 created: 2026-05-16
-updated: 2026-05-19
-type: entity
-tags: [ai-agent, framework, rust, trending]
-sources: [raw/trending/2026-05-16.json]
+updated: 2026-05-20
+type: tool
+tags: [rust, rising]
+sources: [raw/trending/2026-05-20.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 4
+consecutive_days: 5
 first_trending: 2026-05-16
-last_trending: 2026-05-19
+last_trending: 2026-05-20
 peak_rank: 1
 total_stars: 17201
 language: Rust
-license: GPL-3.0
 ---
 
 # tinyhumansai/openhuman

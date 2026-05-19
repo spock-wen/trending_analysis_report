@@ -1,19 +1,19 @@
 ---
 title: "ruvnet/RuView"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-05-19
 type: entity
 tags: [iot, tool, rust, trending]
 sources: [raw/trending/2026-05-16.json]
-confidence: medium
-trending_count_daily: 2
+confidence: high
+trending_count_daily: 4
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 4
 first_trending: 2026-05-16
-last_trending: 2026-05-17
+last_trending: 2026-05-19
 peak_rank: 5
-total_stars: 57787
+total_stars: 59903
 language: Rust
 license: Unknown
 ---

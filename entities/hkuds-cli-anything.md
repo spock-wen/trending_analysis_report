@@ -1,19 +1,35 @@
 ---
-title: CLI-Anything
+title: "HKUDS/CLI-Anything"
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-05-19
 type: entity
-tags: [github-trending, python]
-sources: [raw/trending/2026-05-18.json]
+tags: [ai-agent, tool, python, trending]
+sources: [raw/trending/2026-05-19.json]
 confidence: high
+trending_count_daily: 2
+trending_count_weekly: 0
+trending_count_monthly: 0
+consecutive_days: 2
+first_trending: 2026-05-18
+last_trending: 2026-05-19
+peak_rank: 2
+total_stars: 36632
+language: Python
 ---
 
 # HKUDS/CLI-Anything
 
-"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+## 概述
+
+"CLI-Anything: Making ALL Software Agent-Native" — 将所有软件 CLI 化为 Agent 可操作接口，配套 CLI-Hub 平台。
 
 - **Language:** Python
-- **Stars today:** +306
-- **Total stars:** 35562
+- **Stars today:** +1049
+- **Total stars:** 36,632
 - **GitHub:** [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- **Rank:** #2 on GitHub Trending (2026-05-18)
+- **Rank:** #3 on GitHub Trending (2026-05-19)
+
+## 同类项目
+
+- [[tech-leads-club-agent-skills]] — Agent Skills 注册中心
+- [[K-Dense-AI-scientific-agent-skills]] — 科研 Agent 技能集

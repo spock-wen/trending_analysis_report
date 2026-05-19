@@ -1,15 +1,10 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-05-20 | 总页面：51
+> 最后更新：2026-05-20 | 总页面：44
 
 ## Entities
 
-- [[CloakHQ-CloakBrowser|CloakBrowser"]] — 隐身 Chromium 浏览器，通过所有机器人检测测试。可直接替换 Playwright，内置源码级指纹补丁，30/30...
-- [[Imbad0202-academic-research-skills|academic-research-skills"]] — 学术研究技能集，为 Claude Code 设计的完整研究工作流：研究 → 撰写 → 审阅 → 修订 → 定稿。
-- [[K-Dense-AI-scientific-agent-skills|scientific-agent-skills"]] — 135 个即用型科研 Agent 技能集合，覆盖癌症基因组学、药物发现、分子动力学、RNA 速度、地理空间科学、时间序列... 🔥
-- [[NVIDIA-AI-Blueprints-video-search-and-summarization|video-search-and-summarization"]] — NVIDIA 视频搜索与摘要（VSS）蓝图，提供 GPU 加速视觉 Agent 和 AI 视频分析应用的参考架构。集成视... 🆕
-- [[NVlabs-Sana|Sana"]] — NVIDIA 研究院的高效高分辨率图像合成模型，基于线性扩散 Transformer（Linear DiT），实现快速高...
 - [[alishahryar1-free-claude-code|free-claude-code"]] — Use claude-code for free in the terminal, VSCode extension o... 🆕
 - [[anil-matcha-open-generative-ai|Open-Generative-AI"]] — Open-source alternative to AI video platforms — Free AI imag...
 - [[anthropics-claude-plugins-official|claude-plugins-official"]] — Official, Anthropic-managed directory of high quality Claude... 🆕
@@ -45,7 +40,6 @@
 - [[plausible-analytics|analytics"]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
 - [[rohitg00-agentmemory|agentmemory"]] — - 语言: TypeScript 🆕
 - [[rtk-ai-rtk|rtk"]] — CLI proxy that reduces LLM token consumption by 60-90% on co... 🆕
-- [[ruvnet-RuView|RuView"]] — 将普通 WiFi 信号转化为空间智能感知系统。利用 ESP32 传感器的 CSI（信道状态信息），实现穿墙人体检测、生命... 🔥
 - [[ruvnet-ruview|RuView"]] — π RuView turns commodity WiFi signals into real-time spatial...
 - [[supertone-inc-supertonic|supertonic"]] — Lightning-Fast, On-Device, Multilingual TTS — running native...
 - [[tech-leads-club-agent-skills|agent-skills"]] — The secure, validated skill registry for professional AI cod... 🆕
@@ -54,7 +48,6 @@
 
 ## Concepts
 
-- [[agent-skills-ecosystem]] — agent-skills-ecosystem 领域趋势分析
 - [[ai-agent]] — ai-agent 领域趋势分析
 - [[cli]] — cli 领域趋势分析
 - [[erp]] — erp 领域趋势分析

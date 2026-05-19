@@ -33,5 +33,5 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[obra-superpowers]] [[colbymchenry-codegraph]] [[hkuds-cli-anything]] [[rtk-ai-rtk]] [[msitarzewski-agency-agents]]
+[[rtk-ai-rtk]] [[tinyhumansai-openhuman]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]] [[obra-superpowers]]
 

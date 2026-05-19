@@ -34,5 +34,5 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[bigbodycobain-shadowbroker]] [[nvidia-ai-blueprints-video-search-and-summarization]] [[hkuds-cli-anything]] [[influxdata-telegraf]] [[msitarzewski-agency-agents]]
+[[msitarzewski-agency-agents]] [[bigbodycobain-shadowbroker]] [[nvidia-ai-blueprints-video-search-and-summarization]] [[hkuds-cli-anything]] [[influxdata-telegraf]]
 

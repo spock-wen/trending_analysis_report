@@ -33,5 +33,5 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[obra-superpowers]] [[hkuds-cli-anything]] [[msitarzewski-agency-agents]] [[frappe-erpnext]] [[cloakhq-cloakbrowser]]
+[[frappe-erpnext]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]] [[obra-superpowers]] [[cloakhq-cloakbrowser]]
 

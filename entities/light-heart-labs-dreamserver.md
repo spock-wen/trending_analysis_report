@@ -33,5 +33,5 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[obra-superpowers]] [[colbymchenry-codegraph]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[nvlabs-sana]]
+[[hkuds-vimax]] [[nvlabs-sana]] [[anthropics-claude-plugins-official]] [[dograh-hq-dograh]] [[alishahryar1-free-claude-code]]
 

@@ -34,5 +34,5 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[obra-superpowers]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[plausible-analytics]] [[msitarzewski-agency-agents]]
+[[frappe-erpnext]] [[anthropics-claude-plugins-official]] [[plausible-analytics]] [[msitarzewski-agency-agents]] [[imbad0202-academic-research-skills]]
 

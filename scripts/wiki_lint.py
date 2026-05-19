@@ -19,7 +19,7 @@ CONCEPTS_DIR = os.path.join(WIKI_PATH, "concepts")
 REPORTS_DIR = os.path.join(WIKI_PATH, "reports")
 
 REQUIRED_FRONTMATTER = ['title', 'created', 'updated', 'type', 'tags', 'confidence']
-VALID_TYPES = ['entity', 'concept', 'comparison', 'query']
+VALID_TYPES = ['entity', 'concept', 'comparison', 'query', 'tool', 'framework', 'tutorial', 'library', 'app', 'model', 'dataset', 'benchmark', 'awesome-list']
 VALID_CONFIDENCE = ['high', 'medium', 'low']
 
 # Tag taxonomy (from SCHEMA.md)

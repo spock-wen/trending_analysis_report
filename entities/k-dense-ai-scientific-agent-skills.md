@@ -35,5 +35,5 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[obra-superpowers]] [[colbymchenry-codegraph]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[imbad0202-academic-research-skills]]
+[[anthropics-claude-plugins-official]] [[tinyhumansai-openhuman]] [[imbad0202-academic-research-skills]] [[hkuds-cli-anything]] [[obra-superpowers]]
 

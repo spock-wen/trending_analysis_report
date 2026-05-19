@@ -1,6 +1,6 @@
 {
   "date": "2026-05-20",
-  "scraped_at": "2026-05-20T07:57:14.876371",
+  "scraped_at": "2026-05-20T07:58:28.862882",
   "period": "daily",
   "count": 18,
   "projects": [
@@ -10,7 +10,7 @@
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
       "stars_today": 3991,
-      "total_stars": 21126,
+      "total_stars": 21129,
       "url": "https://github.com/tinyhumansai/openhuman"
     },
     {
@@ -28,7 +28,7 @@
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
       "stars_today": 3184,
-      "total_stars": 14083,
+      "total_stars": 14085,
       "url": "https://github.com/Imbad0202/academic-research-skills"
     },
     {
@@ -37,7 +37,7 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "stars_today": 1620,
-      "total_stars": 198337,
+      "total_stars": 198338,
       "url": "https://github.com/obra/superpowers"
     },
     {
@@ -46,7 +46,7 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "stars_today": 127,
-      "total_stars": 20163,
+      "total_stars": 20164,
       "url": "https://github.com/anthropics/claude-plugins-official"
     },
     {
@@ -55,7 +55,7 @@
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
       "stars_today": 1626,
-      "total_stars": 14116,
+      "total_stars": 14117,
       "url": "https://github.com/rohitg00/agentmemory"
     },
     {
@@ -73,7 +73,7 @@
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "language": "Rust",
       "stars_today": 667,
-      "total_stars": 50853,
+      "total_stars": 50854,
       "url": "https://github.com/rtk-ai/rtk"
     },
     {
@@ -81,8 +81,8 @@
       "repo": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": 983,
-      "total_stars": 101563,
+      "stars_today": 1610,
+      "total_stars": 101565,
       "url": "https://github.com/msitarzewski/agency-agents"
     },
     {
@@ -91,7 +91,7 @@
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
       "stars_today": 1869,
-      "total_stars": 6550,
+      "total_stars": 6552,
       "url": "https://github.com/colbymchenry/codegraph"
     },
     {
@@ -100,7 +100,7 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "stars_today": 1935,
-      "total_stars": 137937,
+      "total_stars": 137938,
       "url": "https://github.com/multica-ai/andrej-karpathy-skills"
     },
     {
@@ -127,7 +127,7 @@
       "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
       "language": "Python",
       "stars_today": 543,
-      "total_stars": 26349,
+      "total_stars": 26351,
       "url": "https://github.com/Alishahryar1/free-claude-code"
     },
     {
@@ -163,7 +163,7 @@
       "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
       "language": "Python",
       "stars_today": 504,
-      "total_stars": 5399,
+      "total_stars": 5400,
       "url": "https://github.com/HKUDS/ViMax"
     }
   ]

@@ -34,5 +34,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
 
 ## 相关项目
 
-[[rtk-ai-rtk]] [[ruvnet-ruview]] [[tinyhumansai-openhuman]] [[tryghost-ghost]] [[pascalorg-editor]]
+[[ruvnet-ruview]] [[rtk-ai-rtk]] [[pascalorg-editor]] [[tryghost-ghost]] [[tinyhumansai-openhuman]]
 

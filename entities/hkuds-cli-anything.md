@@ -35,5 +35,5 @@ language: Python
 
 ## 相关项目
 
-[[obra-superpowers]] [[colbymchenry-codegraph]] [[anthropics-claude-plugins-official]] [[rtk-ai-rtk]] [[msitarzewski-agency-agents]]
+[[rtk-ai-rtk]] [[anthropics-claude-plugins-official]] [[tinyhumansai-openhuman]] [[msitarzewski-agency-agents]] [[imbad0202-academic-research-skills]]
 

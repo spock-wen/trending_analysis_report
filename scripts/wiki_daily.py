@@ -58,7 +58,84 @@ def collect():
         data = json.load(f)
     projects = data.get('projects', [])
     print(f"  采集完成: {len(projects)} 个项目")
+    
+    # 确保 DB repo_stats 与今日数据同步
+    sync_db_stats(projects)
     return True
+
+def sync_db_stats(projects):
+    """确保 DB repo_stats 与今日 trending 数据一致。
+    采集脚本在重复运行时会跳过 repo_stats 递增，
+    这里强制重新计算，保证 DB 是唯一数据源。
+    """
+    print(f"  同步 DB repo_stats...")
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+    
+    for p in projects:
+        repo = p['repo']
+        # 查询该 repo 的所有上榜日期
+        cursor.execute(
+            'SELECT date FROM trending_daily WHERE repo_full_name=? AND period=? ORDER BY date DESC',
+            (repo, 'daily')
+        )
+        dates = [row[0] for row in cursor.fetchall()]
+        
+        if not dates:
+            continue
+        
+        count = len(dates)
+        first_seen = dates[-1]
+        last_seen = dates[0]
+        
+        # 计算连续天数
+        consecutive = 1
+        for i in range(1, len(dates)):
+            prev = datetime.datetime.strptime(dates[i-1], '%Y-%m-%d')
+            curr = datetime.datetime.strptime(dates[i], '%Y-%m-%d')
+            if (prev - curr).days <= 1:
+                consecutive += 1
+            else:
+                break
+        
+        # 查询最高排名和最大 star
+        cursor.execute(
+            'SELECT MIN(rank), MAX(stars_today) FROM trending_daily WHERE repo_full_name=? AND period=?',
+            (repo, 'daily')
+        )
+        row = cursor.fetchone()
+        peak_rank = row[0] or p.get('rank', 999)
+        max_stars = row[1] or p.get('stars_today', 0)
+        
+        # 更新或插入
+        cursor.execute('SELECT 1 FROM repo_stats WHERE repo_full_name=?', (repo,))
+        exists = cursor.fetchone()
+        
+        if exists:
+            cursor.execute('''
+                UPDATE repo_stats SET
+                    last_seen=?, trending_count_daily=?, consecutive_days=?,
+                    max_consecutive_days=MAX(max_consecutive_days, ?),
+                    peak_rank=?, max_stars_today=?, last_stars=?,
+                    description=?, language=?
+                WHERE repo_full_name=?
+            ''', (last_seen, count, consecutive, consecutive,
+                  peak_rank, max_stars, p.get('total_stars', 0),
+                  p.get('description', ''), p.get('language', ''), repo))
+        else:
+            cursor.execute('''
+                INSERT INTO repo_stats
+                (repo_full_name, description, language, first_seen, last_seen,
+                 trending_count_daily, trending_count_weekly, trending_count_monthly,
+                 consecutive_days, max_consecutive_days, peak_rank, max_stars_today, last_stars)
+                VALUES (?, ?, ?, ?, ?, ?, 0, 0, ?, ?, ?, ?, ?)
+            ''', (repo, p.get('description', ''), p.get('language', ''),
+                  first_seen, last_seen, count, consecutive, consecutive,
+                  peak_rank, max_stars, p.get('total_stars', 0)))
+    
+    conn.commit()
+    conn.close()
+    print(f"  DB 同步完成")
 
 # ============ 第二步：从 DB 生成 entity 页面 ============
 def generate_entities():

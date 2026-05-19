@@ -90,3 +90,14 @@
 [2026-05-20 07:57:14] [INFO] 趋势信号: Python 领域 7 个项目上榜
 [2026-05-20 07:57:14] [INFO] 趋势信号: TypeScript 领域 4 个项目上榜
 [2026-05-20 07:57:14] [INFO] === 采集完成: 18 个项目 ===
+[2026-05-20 07:58:26] [INFO] === GitHub Trending 采集开始 (2026-05-20) ===
+[2026-05-20 07:58:26] [INFO] 抓取 https://github.com/trending (proxy=http://127.0.0.1:7890)
+[2026-05-20 07:58:28] [INFO] 抓取成功，HTML 大小: 655000 bytes
+[2026-05-20 07:58:28] [INFO] 解析到 18 个项目
+[2026-05-20 07:58:28] [INFO] 原始数据已保存: /srv/www/github-trending-wiki/raw/trending/2026-05-20.json
+[2026-05-20 07:58:28] [WARNING] 今天已采集过 18 个项目，将跳过 repo_stats 递增
+[2026-05-20 07:58:28] [INFO] 数据库写入成功: 18 条记录 (首次运行: False)
+[2026-05-20 07:58:28] [INFO] 检测到 2 个描述变更 → /srv/www/github-trending-wiki/data/description_changes.json
+[2026-05-20 07:58:28] [INFO] 趋势信号: Python 领域 7 个项目上榜
+[2026-05-20 07:58:28] [INFO] 趋势信号: TypeScript 领域 4 个项目上榜
+[2026-05-20 07:58:28] [INFO] === 采集完成: 18 个项目 ===

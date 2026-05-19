@@ -47,3 +47,12 @@
 - 更新 entity: 9 个
 - 趋势: Python 5 个, TypeScript 4 个
 - AI Agent 生态集中上榜
+
+## [2026-05-19] update | GitHub Trending 日报
+- 采集 13 个项目（raw/trending/2026-05-19.json）
+- 新建 entity: 4 个（Imbad0202/academic-research-skills, CloakHQ/CloakBrowser, humanlayer/12-factor-agents, NVlabs/Sana）
+- 更新 entity: 9 个
+- 趋势: Python 6 个, Rust 2 个, TypeScript 2 个, Swift 1 个, Elixir 1 个, Jupyter Notebook 1 个
+- 连续 4 天上榜: tinyhumansai/openhuman, K-Dense-AI/scientific-agent-skills, supertone-inc/supertonic, ruvnet/RuView（confidence → high）
+- 连续 2 天上榜: HKUDS/CLI-Anything, tech-leads-club/agent-skills, BigBodyCobain/Shadowbroker, microsoft/ai-agents-for-beginners, plausible/analytics
+- 当日 star 增长 Top 3: tinyhumansai/openhuman +3941, CloakHQ/CloakBrowser +1420, Imbad0202/academic-research-skills +1439

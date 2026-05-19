@@ -3,13 +3,13 @@ title: "obra/superpowers"
 created: 2026-05-16
 updated: 2026-05-20
 type: framework
-tags: [shell, ai-agent, framework, framework, rising]
+tags: [shell, ai-agent, framework, rising]
 sources: [raw/trending/2026-05-20.json]
 confidence: high
-trending_count_daily: 3
+trending_count_daily: 4
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 3
+consecutive_days: 4
 first_trending: 2026-05-16
 last_trending: 2026-05-20
 peak_rank: 2

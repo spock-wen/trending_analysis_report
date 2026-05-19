@@ -66,3 +66,41 @@
 - 连续 3 天上榜: HKUDS/CLI-Anything, obra/superpowers, microsoft/ai-agents-for-beginners（confidence → high）
 - 连续 2 天上榜: humanlayer/12-factor-agents
 - 当日 star 增长 Top 3: tinyhumansai/openhuman +3991, Imbad0202/academic-research-skills +3184, multica-ai/andrej-karpathy-skills +1935
+
+## [2026-05-20] update | GitHub Trending 日报
+- 采集 18 个项目（raw/trending/2026-05-20.json）
+- 新建 entity: 0 个（）
+- 更新 entity: 18 个
+- 趋势: Python 7个, TypeScript 4个, Rust 2个, Shell 2个, 其他 1个
+- 连续 6 天上榜: "tinyhumansai/openhuman"
+- 连续 4 天上榜: "K-Dense-AI/scientific-agent-skills"
+- 连续 4 天上榜: "HKUDS/CLI-Anything"
+- 连续 4 天上榜: "microsoft/ai-agents-for-beginners"
+- 连续 4 天上榜: "obra/superpowers"
+- 连续 4 天上榜: "ruvnet/RuView"
+- 连续 4 天上榜: "supertone-inc/supertonic"
+- 连续 3 天上榜: "humanlayer/12-factor-agents"
+- 连续 2 天上榜: "NVIDIA-AI-Blueprints/video-search-and-summarization"
+- 连续 2 天上榜: "Alishahryar1/free-claude-code"
+- 连续 2 天上榜: "anthropics/claude-plugins-official"
+- 连续 2 天上榜: "anthropics/skills"
+- 连续 2 天上榜: "BigBodyCobain/Shadowbroker"
+- 连续 2 天上榜: "CloakHQ/CloakBrowser"
+- 连续 2 天上榜: "colbymchenry/codegraph"
+- 连续 2 天上榜: "czlonkowski/n8n-mcp"
+- 连续 2 天上榜: "Diolinux/PhotoGIMP"
+- 连续 2 天上榜: "frappe/erpnext"
+- 连续 2 天上榜: "HKUDS/ViMax"
+- 连续 2 天上榜: "Imbad0202/academic-research-skills"
+- 连续 2 天上榜: "influxdata/telegraf"
+- 连续 2 天上榜: "joeseesun/qiaomu-anything-to-notebooklm"
+- 连续 2 天上榜: "mattpocock/skills"
+- 连续 2 天上榜: "msitarzewski/agency-agents"
+- 连续 2 天上榜: "multica-ai/andrej-karpathy-skills"
+- 连续 2 天上榜: "oven-sh/bun"
+- 连续 2 天上榜: "pascalorg/editor"
+- 连续 2 天上榜: "plausible/analytics"
+- 连续 2 天上榜: "rohitg00/agentmemory"
+- 连续 2 天上榜: "rtk-ai/rtk"
+- 连续 2 天上榜: "tech-leads-club/agent-skills"
+- 当日 star 增长 Top 3: tinyhumansai/openhuman +3991⭐, Imbad0202/academic-research-skills +3184⭐, multica-ai/andrej-karpathy-skills +1935⭐

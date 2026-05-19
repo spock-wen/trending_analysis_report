@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-05-20 | 总页面：42
+> 最后更新：2026-05-20 | 总页面：51
 
 ## Entities
 
@@ -11,46 +11,54 @@
 - [[NVIDIA-AI-Blueprints-video-search-and-summarization|video-search-and-summarization"]] — NVIDIA 视频搜索与摘要（VSS）蓝图，提供 GPU 加速视觉 Agent 和 AI 视频分析应用的参考架构。集成视... 🆕
 - [[NVlabs-Sana|Sana"]] — NVIDIA 研究院的高效高分辨率图像合成模型，基于线性扩散 Transformer（Linear DiT），实现快速高...
 - [[alishahryar1-free-claude-code|free-claude-code"]] — Use claude-code for free in the terminal, VSCode extension o... 🆕
-- [[anil-matcha-open-generative-ai|Open-Generative-AI]] — Open-source alternative to AI video platforms — Free AI imag...
+- [[anil-matcha-open-generative-ai|Open-Generative-AI"]] — Open-source alternative to AI video platforms — Free AI imag...
 - [[anthropics-claude-plugins-official|claude-plugins-official"]] — Official, Anthropic-managed directory of high quality Claude... 🆕
-- [[anthropics-skills|skills"]] — Anthropic 官方的 Agent Skills 公开仓库。Skills 是由指令、脚本和资源组成的文件夹，Clau... 🆕
-- [[bigbodycobain-shadowbroker|Shadowbroker"]] — 开源全球情报聚合平台。追踪富豪私人飞机、间谍卫星、地震事件等，统一界面展示。可接入 AI Agent 自动解析数据、发现... 🆕
+- [[anthropics-skills|skills"]] — Public repository for Agent Skills
+- [[bigbodycobain-shadowbroker|Shadowbroker"]] — Open-source intelligence for the global theater. Track every... 🆕
 - [[cloakhq-cloakbrowser|CloakBrowser"]] — Stealth Chromium that passes every bot detection test. Drop-... 🆕
-- [[colbymchenry-codegraph|codegraph"]] — Pre-indexed code knowledge graph for Claude Code — fewer tok... 🆕
-- [[czlonkowski-n8n-mcp|n8n-mcp"]] — MCP（模型上下文协议）服务器，为 Claude Desktop、Claude Code、Windsurf、Cursor... 🆕
+- [[colbymchenry-codegraph|codegraph"]] — Pre-indexed code knowledge graph for Claude Code, Codex, Cur...
+- [[czlonkowski-n8n-mcp|n8n-mcp"]] — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor t...
 - [[diolinux-photogimp|PhotoGIMP"]] — A Patch for GIMP 3+ for Photoshop Users 🆕
-- [[dograh-hq-dograh|dograh]] — Open Source Voice Agent Platform
+- [[dograh-hq-dograh|dograh"]] — Open Source Voice Agent Platform
 - [[frappe-erpnext|erpnext"]] — Free and Open Source Enterprise Resource Planning (ERP) 🆕
-- [[hkuds-cli-anything|CLI-Anything"]] — "CLI-Anything: Making ALL Software Agent-Native" — 将所有软件 CLI... 🔥
+- [[hkuds-cli-anything|CLI-Anything"]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:... 🔥
 - [[hkuds-vimax|ViMax"]] — "ViMax: Agentic Video Generation (Director, Screenwriter, Pr... 🆕
-- [[humanlayer-12-factor-agents|12-factor-agents"]] — 构建生产级 LLM 应用的十二要素原则。探讨如何让 LLM 驱动的软件达到足以交付生产客户的质量标准。 🔥
+- [[humanlayer-12-factor-agents|12-factor-agents"]] — What are the principles we can use to build LLM-powered soft... 🆕
 - [[imbad0202-academic-research-skills|academic-research-skills"]] — Academic Research Skills for Claude Code: research → write →... 🆕
-- [[influxdata-telegraf|telegraf"]] — InfluxData 开发的开源数据采集 Agent，用于收集、处理、聚合和写入指标、日志及其他任意数据。插件驱动架构，... 🆕
-- [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm"]] — Claude Code Skill，将 15+ 种来源内容（含付费内容）自动处理并上传至 Google Notebook... 🆕
-- [[keygraphhq-shannon|shannon]] — Shannon Lite is an autonomous, white-box AI pentester for we...
-- [[knadh-listmonk|listmonk]] — High performance, self-hosted, newsletter and mailing list m...
-- [[light-heart-labs-dreamserver|DreamServer]] — Local AI anywhere, for everyone — LLM inference, chat UI, vo...
-- [[mattpocock-skills|skills"]] — 面向真实工程师的 AI 编码 Agent 技能集合。基于数十年工程经验，解决 AI 辅助开发中的四大失败模式：对齐偏差、... 🆕
-- [[medusajs-medusa|medusa]] — The world's most flexible commerce platform.
-- [[microsoft-ai-agents-for-beginners|ai-agents-for-beginners"]] — 微软出品的 AI Agent 入门教程，12 节课程带你从零开始构建 AI Agent。 🔥
+- [[influxdata-telegraf|telegraf"]] — Agent for collecting, processing, aggregating, and writing m...
+- [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm"]] — Claude Skill: Multi-source content processor for NotebookLM....
+- [[k-dense-ai-scientific-agent-skills|scientific-agent-skills"]] — A set of ready to use Agent Skills for research, science, en... 🆕
+- [[keygraphhq-shannon|shannon"]] — Shannon Lite is an autonomous, white-box AI pentester for we...
+- [[knadh-listmonk|listmonk"]] — High performance, self-hosted, newsletter and mailing list m...
+- [[light-heart-labs-dreamserver|DreamServer"]] — Local AI anywhere, for everyone — LLM inference, chat UI, vo...
+- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .claude director...
+- [[medusajs-medusa|medusa"]] — The world's most flexible commerce platform.
+- [[microsoft-ai-agents-for-beginners|ai-agents-for-beginners"]] — 12 Lessons to Get Started Building AI Agents 🔥
 - [[msitarzewski-agency-agents|agency-agents"]] — A complete AI agency at your fingertips - From frontend wiza... 🆕
 - [[multica-ai-andrej-karpathy-skills|andrej-karpathy-skills"]] — A single CLAUDE.md file to improve Claude Code behavior, der... 🆕
-- [[nirdiamant-agents-towards-production|agents-towards-production]] — End-to-end, code-first tutorials for building production-gra...
-- [[obra-superpowers|superpowers"]] — 面向编码 Agent 的技能框架和软件开发方法论。通过可组合的技能和结构化指令，确保 Agent 遵循纪律化的工作流程—... 🔥
-- [[oven-sh-bun|bun"]] — 极速 JavaScript/TypeScript 一体化工具包：运行时 + 包管理器 + 测试运行器 + 打包器。用 Z... 🆕
+- [[nirdiamant-agents-towards-production|agents-towards-production"]] — End-to-end, code-first tutorials for building production-gra...
+- [[nvidia-ai-blueprints-video-search-and-summarization|video-search-and-summarization"]] — Suite of reference architectures for building GPU-accelerate...
+- [[nvlabs-sana|Sana"]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
+- [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo...
+- [[oven-sh-bun|bun"]] — Incredibly fast JavaScript runtime, bundler, test runner, an...
 - [[pascalorg-editor|editor"]] — Create and share 3D architectural projects. 🆕
-- [[plausible-analytics|analytics"]] — 开源隐私优先的网站分析工具。轻量、无 Cookie 的 Google Analytics 替代品，支持自托管或云服务。 🆕
+- [[plausible-analytics|analytics"]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
 - [[rohitg00-agentmemory|agentmemory"]] — - 语言: TypeScript 🆕
 - [[rtk-ai-rtk|rtk"]] — CLI proxy that reduces LLM token consumption by 60-90% on co... 🆕
 - [[ruvnet-RuView|RuView"]] — 将普通 WiFi 信号转化为空间智能感知系统。利用 ESP32 传感器的 CSI（信道状态信息），实现穿墙人体检测、生命... 🔥
-- [[supertone-inc-supertonic|supertonic"]] — 闪电般快速的端侧多语言 TTS（文本转语音）系统，通过 ONNX Runtime 原生运行。完全本地推理，无云端依赖，支... 🔥
-- [[tech-leads-club-agent-skills|agent-skills"]] — 面向专业 AI 编码 Agent 的安全验证技能注册中心。扩展 Antigravity、Claude Code、Curs... 🆕
-- [[tinyhumansai-openhuman|openhuman"]] — 个人 AI 超级智能助手，强调隐私、简洁和强大。开源桌面 UI 驱动的 Agent，集成 118+ 第三方服务，具备本地... 🔥
-- [[tryghost-ghost|Ghost]] — Independent technology for modern publishing, memberships, s...
+- [[ruvnet-ruview|RuView"]] — π RuView turns commodity WiFi signals into real-time spatial...
+- [[supertone-inc-supertonic|supertonic"]] — Lightning-Fast, On-Device, Multilingual TTS — running native...
+- [[tech-leads-club-agent-skills|agent-skills"]] — The secure, validated skill registry for professional AI cod... 🆕
+- [[tinyhumansai-openhuman|openhuman"]] — Your Personal AI super intelligence. Private, Simple and ext... 🔥
+- [[tryghost-ghost|Ghost"]] — Independent technology for modern publishing, memberships, s...
 
 ## Concepts
 
-- [[agent-skills-ecosystem]] — Agent Skills 生态趋势分析
+- [[agent-skills-ecosystem]] — agent-skills-ecosystem 领域趋势分析
+- [[ai-agent]] — ai-agent 领域趋势分析
+- [[cli]] — cli 领域趋势分析
+- [[erp]] — erp 领域趋势分析
+- [[web]] — web 领域趋势分析
 
 ## Comparisons
 

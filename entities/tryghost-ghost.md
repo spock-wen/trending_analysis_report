@@ -1,19 +1,37 @@
 ---
-title: Ghost
+title: "TryGhost/Ghost"
 created: 2026-05-18
 updated: 2026-05-18
-type: entity
-tags: [github-trending, javascript]
+type: tool
+tags: [uncategorized]
 sources: [raw/trending/2026-05-18.json]
-confidence: high
+confidence: low
+trending_count_daily: 1
+trending_count_weekly: 0
+trending_count_monthly: 0
+consecutive_days: 1
+first_trending: 2026-05-18
+last_trending: 2026-05-18
+peak_rank: 13
+total_stars: 53278
+language: JavaScript
 ---
 
 # TryGhost/Ghost
 
 Independent technology for modern publishing, memberships, subscriptions and newsletters.
 
-- **Language:** JavaScript
-- **Stars today:** +209
-- **Total stars:** 53278
-- **GitHub:** [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
-- **Rank:** #13 on GitHub Trending (2026-05-18)
+- 语言: JavaScript
+- 上榜次数: 1 次
+- 连续上榜: 1 天
+- 最高排名: #13
+- 链接: [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
+
+## 上榜历史
+
+  - 2026-05-18: #13, +209⭐
+
+## 相关项目
+
+[[anil-matcha-open-generative-ai]] [[oven-sh-bun]] [[pascalorg-editor]]
+

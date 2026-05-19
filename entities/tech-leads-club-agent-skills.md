@@ -2,10 +2,10 @@
 title: "tech-leads-club/agent-skills"
 created: 2026-05-18
 updated: 2026-05-19
-type: entity
-tags: [ai-agent, tool, typescript, trending]
+type: tool
+tags: [typescript, ai-agent]
 sources: [raw/trending/2026-05-19.json]
-confidence: high
+confidence: medium
 trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
@@ -19,17 +19,20 @@ language: TypeScript
 
 # tech-leads-club/agent-skills
 
-## 概述
+The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
 
-面向专业 AI 编码 Agent 的安全验证技能注册中心。扩展 Antigravity、Claude Code、Cursor、Copilot 等，提供可信赖的技能分发。
+- 语言: TypeScript
+- 上榜次数: 2 次
+- 连续上榜: 2 天
+- 最高排名: #7
+- 链接: [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)
 
-- **Language:** TypeScript
-- **Stars today:** +1244
-- **Total stars:** 4,038
-- **GitHub:** [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)
-- **Rank:** #9 on GitHub Trending (2026-05-19)
+## 上榜历史
 
-## 同类项目
+  - 2026-05-19: #9, +1244⭐
+  - 2026-05-18: #7, +923⭐
 
-- [[K-Dense-AI-scientific-agent-skills]] — 科研领域 Agent 技能
-- [[Imbad0202-academic-research-skills]] — 学术研究 Agent 技能
+## 相关项目
+
+[[obra-superpowers]] [[colbymchenry-codegraph]] [[hkuds-cli-anything]] [[rohitg00-agentmemory]] [[tinyhumansai-openhuman]]
+

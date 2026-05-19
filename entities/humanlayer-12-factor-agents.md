@@ -3,33 +3,36 @@ title: "humanlayer/12-factor-agents"
 created: 2026-05-19
 updated: 2026-05-20
 type: tool
-tags: [typescript, ai-agent, llm, rising]
+tags: [typescript, ai-agent]
 sources: [raw/trending/2026-05-20.json]
-confidence: high
-trending_count_daily: 3
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 3
+consecutive_days: 2
 first_trending: 2026-05-19
 last_trending: 2026-05-20
 peak_rank: 11
-total_stars: 20566
+total_stars: 21166
 language: TypeScript
 ---
 
 # humanlayer/12-factor-agents
 
-## 概述
+What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 
-构建生产级 LLM 应用的十二要素原则。探讨如何让 LLM 驱动的软件达到足以交付生产客户的质量标准。
+- 语言: TypeScript
+- 上榜次数: 2 次
+- 连续上榜: 2 天
+- 最高排名: #11
+- 链接: [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)
 
-- **Language:** TypeScript
-- **Stars today:** +399
-- **Total stars:** 20,566
-- **GitHub:** [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)
-- **Rank:** #11 on GitHub Trending (2026-05-19)
+## 上榜历史
 
-## 同类项目
+  - 2026-05-20: #12, +733⭐
+  - 2026-05-19: #11, +399⭐
 
-- [[microsoft-ai-agents-for-beginners]] — 同为 AI Agent 方法论/教程
-- [[tech-leads-club-agent-skills]] — Agent Skills 生态
+## 相关项目
+
+[[obra-superpowers]] [[colbymchenry-codegraph]] [[hkuds-cli-anything]] [[rohitg00-agentmemory]] [[tinyhumansai-openhuman]]
+

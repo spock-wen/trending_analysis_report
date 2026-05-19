@@ -1,16 +1,48 @@
 #!/usr/bin/env python3
-"""GitHub Trending Wiki 编译脚本 - 一键完成采集、编译、git commit、飞书推送"""
+"""GitHub Trending Wiki 日报脚本 v2
+- SQLite 作为唯一数据源，markdown entity 从 DB 生成（消除双写不一致）
+- 自动关联：同语言/同领域项目生成 [[wikilinks]]
+- Concept 自动生成：同领域≥3项目上榜时创建/更新 concept 页面
+- 飞书推送 + Git commit
+"""
 
-import json, os, sys, subprocess, datetime, requests
+import json, os, sys, subprocess, datetime, requests, sqlite3, re
+from collections import defaultdict
 
 BASE = '/srv/www/github-trending-wiki'
 ENTITIES_DIR = f'{BASE}/entities'
+CONCEPTS_DIR = f'{BASE}/concepts'
 RAW_DIR = f'{BASE}/raw/trending'
+DB_PATH = f'{BASE}/data/github_trending.db'
 TODAY = datetime.date.today().isoformat()
+
+# ============ 领域关键词映射 ============
+DOMAIN_KEYWORDS = {
+    'ai-agent': ['agent', 'agentic', 'skill', 'mcp', 'claude', 'gpt', 'llm', 'ai', 'copilot', 'autonomous'],
+    'web': ['browser', 'web', 'http', 'frontend', 'css', 'html', 'chrome'],
+    'cli': ['cli', 'terminal', 'command', 'shell', 'console'],
+    'data': ['data', 'analytics', 'etl', 'pipeline', 'database', 'sql', 'metric'],
+    'devops': ['deploy', 'infra', 'monitor', 'observability', 'devops', 'ci/cd'],
+    'security': ['security', 'privacy', 'encrypt', 'cloak', 'vpn', 'firewall'],
+    'education': ['tutorial', 'beginner', 'course', 'learn', 'teach'],
+    'erp': ['erp', 'business', 'commerce', 'shop', 'invoice'],
+    'image-gen': ['diffusion', 'image', 'generation', 'synthesis', 'sana', 'stable'],
+    'audio': ['tts', 'speech', 'audio', 'voice', 'music', 'supertonic'],
+    'science': ['research', 'scientific', 'academic', 'paper', 'arxiv'],
+}
+
+def detect_domains(repo, desc, language=''):
+    """检测项目所属领域"""
+    text = f"{repo} {desc} {language}".lower()
+    domains = []
+    for domain, keywords in DOMAIN_KEYWORDS.items():
+        if any(kw in text for kw in keywords):
+            domains.append(domain)
+    return domains if domains else ['uncategorized']
 
 # ============ 第一步：采集 ============
 def collect():
-    print(f"[1/4] 采集 GitHub Trending 数据...")
+    print(f"[1/5] 采集 GitHub Trending 数据...")
     result = subprocess.run(
         ['python3', f'{BASE}/scripts/github_trending_collector.py'],
         capture_output=True, text=True, cwd=BASE, timeout=120
@@ -28,170 +60,274 @@ def collect():
     print(f"  采集完成: {len(projects)} 个项目")
     return True
 
-# ============ 第二步：Wiki 编译 ============
-def read_frontmatter(path):
-    fm = {}
-    in_fm = False
-    with open(path) as f:
-        for line in f:
-            if line.strip() == '---':
-                if in_fm:
-                    break
-                in_fm = True
-                continue
-            if in_fm and ':' in line:
-                k, v = line.strip().split(':', 1)
-                fm[k.strip()] = v.strip()
-    return fm
-
-def assign_tags(p):
-    tags = []
-    lang = (p.get('language', '') or '').lower()
-    lang_map = {
-        'python': 'python', 'rust': 'rust', 'typescript': 'typescript',
-        'go': 'go', 'java': 'java', 'c++': 'cpp', 'shell': 'shell',
-        'jupyter notebook': 'python', 'css': 'python',
-    }
-    if lang in lang_map:
-        tags.append(lang_map[lang])
-    desc = (p.get('description', '') or '').lower()
-    repo = p.get('repo', '').lower()
-    if any(w in desc or w in repo for w in ['agent', 'agentic', 'skill', 'mcp']):
-        tags.append('ai-agent')
-    if any(w in desc or w in repo for w in ['llm', 'gpt', 'claude', 'model']):
-        tags.append('llm')
-    if any(w in desc or w in repo for w in ['web', 'browser']):
-        tags.append('web')
-    if any(w in desc or w in repo for w in ['cli', 'terminal']):
-        tags.append('cli')
-    if any(w in desc or w in repo for w in ['framework', 'sdk']):
-        tags.append('framework')
-    if any(w in desc or w in repo for w in ['tool']):
-        tags.append('tool')
-    if any(w in desc or w in repo for w in ['tutorial', 'beginner', 'course']):
-        tags.append('tutorial')
-    if not tags:
-        tags.append('tool')
-    return tags
-
-def assign_type(p):
-    desc = (p.get('description', '') or '').lower()
-    repo = p.get('repo', '').lower()
-    if any(w in desc or w in repo for w in ['tutorial', 'beginner', 'course', 'awesome']):
-        return 'tutorial'
-    if any(w in desc or w in repo for w in ['framework', 'sdk', 'engine']):
-        return 'framework'
-    return 'tool'
-
-def compile_wiki():
-    print(f"[2/4] Wiki 编译...")
-    today_file = f'{RAW_DIR}/{TODAY}.json'
-    with open(today_file) as f:
-        data = json.load(f)
-    projects = data.get('projects', [])
+# ============ 第二步：从 DB 生成 entity 页面 ============
+def generate_entities():
+    print(f"[2/5] 从 DB 生成 entity 页面...")
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
     
-    existing = set(os.listdir(ENTITIES_DIR))
+    # 获取所有 repo_stats
+    cursor = conn.execute('SELECT * FROM repo_stats ORDER BY last_seen DESC')
+    all_repos = [dict(row) for row in cursor.fetchall()]
+    
+    # 获取每个 repo 的上榜历史
+    cursor = conn.execute('SELECT repo_full_name, date, rank, stars_today FROM trending_daily ORDER BY date DESC')
+    history = defaultdict(list)
+    for row in cursor.fetchall():
+        history[row[0]].append({'date': row[1], 'rank': row[2], 'stars': row[3]})
+    
+    # 按领域分组（用于自动关联）
+    domain_map = defaultdict(list)  # domain -> [repo_full_name]
+    repo_domains = {}  # repo_full_name -> [domains]
+    for r in all_repos:
+        domains = detect_domains(r['repo_full_name'], r.get('description', ''), r.get('language', ''))
+        repo_domains[r['repo_full_name']] = domains
+        for d in domains:
+            domain_map[d].append(r['repo_full_name'])
+    
+    # 按语言分组
+    lang_map = defaultdict(list)
+    for r in all_repos:
+        lang = r.get('language', '其他') or '其他'
+        lang_map[lang].append(r['repo_full_name'])
+    
+    os.makedirs(ENTITIES_DIR, exist_ok=True)
     new_count = 0
     update_count = 0
     
-    for p in projects:
-        repo = p['repo']
+    for r in all_repos:
+        repo = r['repo_full_name']
         slug = repo.replace('/', '-').lower()
-        lang = p.get('language', '') or '?'
-        stars_today = p.get('stars_today', 0)
-        rank = p.get('rank', 0)
-        desc = p.get('description', '') or ''
-        url = p.get('url', f'https://github.com/{repo}')
-        tags = assign_tags(p)
-        ptype = assign_type(p)
         entity_path = f'{ENTITIES_DIR}/{slug}.md'
         
-        if slug + '.md' in existing:
-            # Update existing
-            fm = read_frontmatter(entity_path)
-            first_seen = fm.get('first_trending', fm.get('created', TODAY))
-            old_count = int(fm.get('trending_count_daily', '0') or '0')
-            old_consecutive = int(fm.get('consecutive_days', '0') or '0')
-            old_peak = int(fm.get('peak_rank', '999') or '999')
-            old_total_stars = fm.get('total_stars', '?')
-            
-            new_c = old_count + 1
-            new_cons = old_consecutive + 1
-            new_peak = min(old_peak, rank)
-            confidence = 'high' if new_c >= 3 else ('medium' if new_c >= 2 else 'low')
-            if new_cons >= 3 and 'rising' not in tags:
-                tags.append('rising')
-            
-            with open(entity_path) as f:
-                content = f.read()
-            parts = content.split('---')
-            body = '---'.join(parts[2:]).strip() if len(parts) >= 3 else desc
-            
-            new_fm = f"""---
-title: "{repo}"
-created: {fm.get('created', TODAY)}
-updated: {TODAY}
-type: {ptype}
-tags: [{', '.join(tags)}]
-sources: [raw/trending/{TODAY}.json]
-confidence: {confidence}
-trending_count_daily: {new_c}
-trending_count_weekly: 0
-trending_count_monthly: 0
-consecutive_days: {new_cons}
-first_trending: {first_seen}
-last_trending: {TODAY}
-peak_rank: {new_peak}
-total_stars: {old_total_stars}
-language: {lang}
----"""
-            with open(entity_path, 'w') as f:
-                f.write(f"{new_fm}\n\n{body}\n")
-            update_count += 1
+        # 判断是否新建
+        is_new = not os.path.exists(entity_path)
+        
+        # Confidence
+        count = r.get('trending_count_daily', 1) or 1
+        if count >= 3:
+            confidence = 'high'
+        elif count >= 2:
+            confidence = 'medium'
         else:
-            # Create new
-            new_fm = f"""---
+            confidence = 'low'
+        
+        # Tags
+        tags = []
+        lang = r.get('language', '') or ''
+        lang_lower = lang.lower()
+        lang_tag_map = {
+            'python': 'python', 'rust': 'rust', 'typescript': 'typescript',
+            'go': 'go', 'java': 'java', 'c++': 'cpp', 'shell': 'shell',
+            'jupyter notebook': 'python', 'css': 'python',
+        }
+        if lang_lower in lang_tag_map:
+            tags.append(lang_tag_map[lang_lower])
+        for d in repo_domains.get(repo, []):
+            tags.append(d)
+        consec = r.get('consecutive_days', 0) or 0
+        if consec >= 3:
+            tags.append('rising')
+        if not tags:
+            tags.append('tool')
+        # Deduplicate while preserving order
+        seen = set()
+        unique_tags = []
+        for t in tags:
+            if t not in seen:
+                seen.add(t)
+                unique_tags.append(t)
+        tags = unique_tags
+        
+        # Type
+        desc = (r.get('description', '') or '').lower()
+        if any(w in desc for w in ['tutorial', 'beginner', 'course']):
+            ptype = 'tutorial'
+        elif any(w in desc for w in ['framework', 'sdk', 'engine']):
+            ptype = 'framework'
+        else:
+            ptype = 'tool'
+        
+        # 上榜历史（最近5次）
+        hist_lines = []
+        for h in history.get(repo, [])[:5]:
+            hist_lines.append(f"  - {h['date']}: #{h['rank']}, +{h['stars']}⭐")
+        
+        # 自动关联：同语言 + 同领域的其他项目
+        related = set()
+        # 同语言（最多3个）
+        for other in lang_map.get(lang, [])[:4]:
+            if other != repo:
+                related.add(other)
+        # 同领域（最多3个）
+        for d in repo_domains.get(repo, []):
+            for other in domain_map.get(d, [])[:4]:
+                if other != repo:
+                    related.add(other)
+        related = list(related)[:5]
+        related_links = [f'[[{r2.replace("/", "-").lower()}]]' for r2 in related]
+        
+        # Frontmatter
+        fm = f"""---
 title: "{repo}"
-created: {TODAY}
-updated: {TODAY}
+created: {r.get('first_seen', TODAY)}
+updated: {r.get('last_seen', TODAY)}
 type: {ptype}
 tags: [{', '.join(tags)}]
-sources: [raw/trending/{TODAY}.json]
-confidence: low
-trending_count_daily: 1
-trending_count_weekly: 0
-trending_count_monthly: 0
-consecutive_days: 1
-first_trending: {TODAY}
-last_trending: {TODAY}
-peak_rank: {rank}
-total_stars: ?
-language: {lang}
+sources: [raw/trending/{r.get('last_seen', TODAY)}.json]
+confidence: {confidence}
+trending_count_daily: {count}
+trending_count_weekly: {r.get('trending_count_weekly', 0) or 0}
+trending_count_monthly: {r.get('trending_count_monthly', 0) or 0}
+consecutive_days: {consec}
+first_trending: {r.get('first_seen', TODAY)}
+last_trending: {r.get('last_seen', TODAY)}
+peak_rank: {r.get('peak_rank', 0) or 0}
+total_stars: {r.get('last_stars', '?') or '?'}
+language: {lang or '?'}
 ---"""
-            body = f"""# {repo}
+        
+        # Body
+        body = f"""# {repo}
 
-{desc}
+{r.get('description', '') or 'No description'}
 
-- 语言: {lang}
-- 今日排名: #{rank}
-- 今日新增: +{stars_today}⭐
-- 链接: [{repo}]({url})
+- 语言: {lang or '?'}
+- 上榜次数: {count} 次
+- 连续上榜: {consec} 天
+- 最高排名: #{r.get('peak_rank', '?') or '?'}
+- 链接: [{repo}](https://github.com/{repo})
+
+## 上榜历史
+
+{chr(10).join(hist_lines) if hist_lines else '- 首次上榜'}
+
+## 相关项目
+
+{' '.join(related_links) if related_links else '- 暂无'}
 """
-            with open(entity_path, 'w') as f:
-                f.write(f"{new_fm}\n\n{body}\n")
+        
+        with open(entity_path, 'w') as f:
+            f.write(f"{fm}\n\n{body}\n")
+        
+        if is_new:
             new_count += 1
+        else:
+            update_count += 1
     
-    # Update index.md
+    conn.close()
+    print(f"  新建: {new_count}, 更新: {update_count}, 总 entity: {len(all_repos)}")
+    return all_repos, repo_domains, domain_map
+
+# ============ 第三步：Concept 自动生成 ============
+def generate_concepts(all_repos, repo_domains, domain_map):
+    print(f"[3/5] 生成 Concept 页面...")
+    os.makedirs(CONCEPTS_DIR, exist_ok=True)
+    
+    # 获取今日上榜的 repo
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.execute(
+        'SELECT repo_full_name FROM trending_daily WHERE date = ? AND period = ?',
+        (TODAY, 'daily')
+    )
+    today_repos = {row[0] for row in cursor.fetchall()}
+    conn.close()
+    
+    new_concepts = 0
+    updated_concepts = 0
+    
+    for domain, repos in domain_map.items():
+        if domain == 'uncategorized':
+            continue
+        
+        # 今日上榜的同领域项目
+        today_in_domain = [r for r in repos if r in today_repos]
+        if len(today_in_domain) < 2:  # 至少2个才值得建 concept
+            continue
+        
+        concept_path = f'{CONCEPTS_DIR}/{domain}.md'
+        is_new = not os.path.exists(concept_path)
+        
+        # 生成 wikilinks
+        links = [f'[[{r.replace("/", "-").lower()}]]' for r in today_in_domain]
+        
+        # 统计
+        lang_dist = defaultdict(int)
+        total_stars_today = 0
+        for r in today_in_domain:
+            # 从 repo_stats 获取语言
+            repo_data = next((x for x in all_repos if x['repo_full_name'] == r), None)
+            if repo_data:
+                lang_dist[repo_data.get('language', '?') or '?'] += 1
+        
+        lang_str = ', '.join([f'{l} {c}个' for l, c in sorted(lang_dist.items(), key=lambda x: -x[1])])
+        
+        fm = f"""---
+title: "{domain}"
+created: {TODAY if is_new else 'unknown'}
+updated: {TODAY}
+type: concept
+tags: [{domain}]
+---"""
+        
+        body = f"""# {domain}
+
+## 今日上榜项目（{len(today_in_domain)} 个）
+
+{' '.join(links)}
+
+## 语言分布
+
+{lang_str}
+
+## 趋势观察
+
+{len(today_in_domain)} 个 {domain} 领域项目今日同时上榜，反映该领域持续活跃。
+"""
+        
+        with open(concept_path, 'w') as f:
+            f.write(f"{fm}\n\n{body}\n")
+        
+        if is_new:
+            new_concepts += 1
+        else:
+            updated_concepts += 1
+    
+    print(f"  新建 concept: {new_concepts}, 更新: {updated_concepts}")
+
+# ============ 更新 index.md 和 log.md ============
+def update_index_and_log(all_repos):
+    print(f"  更新 index.md 和 log.md...")
+    
     entities = sorted([f for f in os.listdir(ENTITIES_DIR) if f.endswith('.md')])
-    total_pages = len(entities)
+    concepts = sorted([f for f in os.listdir(CONCEPTS_DIR) if f.endswith('.md')])
+    total_pages = len(entities) + len(concepts)
     
+    # Entity entries
     entity_entries = []
     for fname in entities:
         slug = fname.replace('.md', '')
-        fm = read_frontmatter(f'{ENTITIES_DIR}/{fname}')
+        # 从 DB 获取信息
+        repo_name = slug.replace('-', '/', 1)  # rough reverse
+        # Read frontmatter for display
+        fm = {}
+        in_fm = False
+        with open(f'{ENTITIES_DIR}/{fname}') as f:
+            for line in f:
+                if line.strip() == '---':
+                    if in_fm:
+                        break
+                    in_fm = True
+                    continue
+                if in_fm and ':' in line:
+                    k, v = line.strip().split(':', 1)
+                    fm[k.strip()] = v.strip()
+        
         title_fm = fm.get('title', slug)
         consecutive = int(fm.get('consecutive_days', '0') or '0')
+        confidence = fm.get('confidence', 'low')
         
+        # Short description from body
         body_lines = []
         in_body = False
         dash_count = 0
@@ -207,7 +343,7 @@ language: {lang}
                     if len(body_lines) >= 1:
                         break
         short_desc = body_lines[0][:60] if body_lines else ''
-        if len(body_lines[0] if body_lines else '') > 60:
+        if len((body_lines[0] if body_lines else '')) > 60:
             short_desc += '...'
         
         badge = ''
@@ -218,6 +354,12 @@ language: {lang}
         
         display_name = title_fm.split('/')[-1] if '/' in title_fm else title_fm
         entity_entries.append(f'- [[{slug}|{display_name}]] — {short_desc}{badge}')
+    
+    # Concept entries
+    concept_entries = []
+    for fname in concepts:
+        slug = fname.replace('.md', '')
+        concept_entries.append(f'- [[{slug}]] — {slug} 领域趋势分析')
     
     index_content = f"""# GitHub Trending Wiki Index
 
@@ -230,11 +372,12 @@ language: {lang}
     for entry in sorted(entity_entries):
         index_content += entry + '\n'
     
+    if concept_entries:
+        index_content += '\n## Concepts\n\n'
+        for entry in sorted(concept_entries):
+            index_content += entry + '\n'
+    
     index_content += """
-## Concepts
-
-- [[agent-skills-ecosystem]] — Agent Skills 生态趋势分析
-
 ## Comparisons
 
 <!-- 项目对比分析 -->
@@ -248,56 +391,58 @@ language: {lang}
         f.write(index_content)
     
     # Update log.md
-    # 统计连续上榜
-    consecutive_list = []
-    for fname in entities:
-        fm = read_frontmatter(f'{ENTITIES_DIR}/{fname}')
-        cons = int(fm.get('consecutive_days', '0') or '0')
-        if cons >= 2:
-            consecutive_list.append((fm.get('title', ''), cons))
-    consecutive_list.sort(key=lambda x: -x[1])
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.execute(
+        'SELECT repo_full_name, rank, stars_today, language FROM trending_daily WHERE date = ? AND period = ?',
+        (TODAY, 'daily')
+    )
+    today_projects = cursor.fetchall()
     
     # 语言分布
-    lang_count = {}
-    for p in projects:
-        lang = p.get('language', '其他') or '其他'
-        lang_count[lang] = lang_count.get(lang, 0) + 1
+    lang_count = defaultdict(int)
+    for p in today_projects:
+        lang_count[p[3] or '其他'] += 1
     
-    # star top3
-    top3 = sorted(projects, key=lambda x: -int(x.get('stars_today', 0)))[:3]
+    # 连续上榜
+    cursor = conn.execute(
+        'SELECT repo_full_name, consecutive_days FROM repo_stats WHERE consecutive_days >= 2 ORDER BY consecutive_days DESC'
+    )
+    consecutive_list = cursor.fetchall()
     
-    new_names = []
-    for p in projects:
-        slug = p['repo'].replace('/', '-').lower()
-        if slug + '.md' not in existing:
-            new_names.append(p['repo'])
+    # Star top3
+    top3 = sorted(today_projects, key=lambda x: -int(x[2] or 0))[:3]
+    top3_str = ', '.join([p[0] + ' +' + str(p[2]) + '⭐' for p in top3])
+    
+    # 新项目
+    cursor = conn.execute(
+        'SELECT repo_full_name FROM repo_stats WHERE first_seen = ?',
+        (TODAY,)
+    )
+    new_repos = [r[0] for r in cursor.fetchall()]
+    conn.close()
+    
+    new_names_str = ', '.join(new_repos[:5]) + ('...' if len(new_repos) > 5 else '')
+    lang_str = ', '.join([f'{l} {c}个' for l, c in sorted(lang_count.items(), key=lambda x: -x[1])[:5]])
     
     log_entry = f"""
 ## [{TODAY}] update | GitHub Trending 日报
-- 采集 {len(projects)} 个项目（raw/trending/{TODAY}.json）
-- 新建 entity: {new_count} 个（{', '.join(new_names[:5])}{'...' if len(new_names) > 5 else ''}）
-- 更新 entity: {update_count} 个
-- 趋势: {', '.join([f'{l} {c}个' for l, c in sorted(lang_count.items(), key=lambda x: -x[1])[:5]])}
+- 采集 {len(today_projects)} 个项目（raw/trending/{TODAY}.json）
+- 新建 entity: {len(new_repos)} 个（{new_names_str}）
+- 趋势: {lang_str}
 """
     for repo, days in consecutive_list:
         log_entry += f"- 连续 {days} 天上榜: {repo}\n"
-    top3_str = ', '.join([p['repo'] + ' +' + str(p.get('stars_today', 0)) + '⭐' for p in top3])
     log_entry += f"- 当日 star 增长 Top 3: {top3_str}\n"
     
     with open(f'{BASE}/log.md', 'a') as f:
         f.write(log_entry)
-    
-    print(f"  新建: {new_count}, 更新: {update_count}, 总 entity: {total_pages}")
-    return True
 
-# ============ 第三步：Git Commit ============
+# ============ 第四步：Git Commit ============
 def git_commit():
-    print(f"[3/4] Git commit...")
+    print(f"[3/5] Git commit...")
     env = os.environ.copy()
     env['GIT_SSH_COMMAND'] = 'ssh -o StrictHostKeyChecking=no -i /root/.ssh/id_ed25519'
-    result = subprocess.run(
-        ['git', 'add', '-A'], cwd=BASE, capture_output=True, text=True, env=env
-    )
+    subprocess.run(['git', 'add', '-A'], cwd=BASE, capture_output=True, env=env)
     result = subprocess.run(
         ['git', 'commit', '-m', f'wiki: {TODAY} compilation'],
         cwd=BASE, capture_output=True, text=True, env=env
@@ -305,14 +450,12 @@ def git_commit():
     if result.returncode == 0:
         print(f"  Commit 成功")
     else:
-        print(f"  Commit 结果: {result.stdout.strip() or result.stderr.strip()[:200]}")
-    return True
+        print(f"  Commit: {result.stdout.strip() or result.stderr.strip()[:200]}")
 
-# ============ 第四步：飞书推送 ============
+# ============ 第五步：飞书推送 ============
 def push_feishu():
-    print(f"[4/4] 飞书推送...")
+    print(f"[5/5] 飞书推送...")
     
-    # 获取 token
     result = subprocess.run(
         ['bash', '-c', 'source /root/.hermes/profiles/radar/.env && echo $FEISHU_APP_SECRET'],
         capture_output=True, text=True
@@ -329,29 +472,31 @@ def push_feishu():
         print(f"  Token 获取失败: {resp.json()}")
         return False
     
-    # 读取数据
-    today_file = f'{RAW_DIR}/{TODAY}.json'
-    with open(today_file) as f:
-        data = json.load(f)
-    projects = data.get('projects', [])
+    # 从 DB 读取今日数据
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
+    cursor = conn.execute('''
+        SELECT td.repo_full_name, td.rank, td.stars_today, td.language, td.description,
+               rs.consecutive_days, rs.trending_count_daily
+        FROM trending_daily td
+        LEFT JOIN repo_stats rs ON td.repo_full_name = rs.repo_full_name
+        WHERE td.date = ? AND td.period = ?
+        ORDER BY td.rank
+    ''', (TODAY, 'daily'))
+    projects = [dict(row) for row in cursor.fetchall()]
+    conn.close()
     
     # 语言分布
-    lang_count = {}
+    lang_count = defaultdict(int)
     for p in projects:
-        lang = p.get('language', '其他') or '其他'
-        lang_count[lang] = lang_count.get(lang, 0) + 1
+        lang_count[p.get('language', '其他') or '其他'] += 1
     top_lang = sorted(lang_count.items(), key=lambda x: -x[1])[:5]
     lang_str = " | ".join([f"{l} {c}个" for l, c in top_lang])
     
     # 连续上榜
-    consecutive_info = []
-    for p in projects:
-        slug = p['repo'].replace('/', '-').lower()
-        fm = read_frontmatter(f'{ENTITIES_DIR}/{slug}.md')
-        cons = int(fm.get('consecutive_days', '0') or '0')
-        if cons >= 2:
-            consecutive_info.append((p['repo'], cons, f"+{p.get('stars_today',0)}⭐"))
-    consecutive_info.sort(key=lambda x: -x[1])
+    consecutive = [(p['repo_full_name'], p.get('consecutive_days', 0) or 0, f"+{p.get('stars_today',0)}⭐")
+                   for p in projects if (p.get('consecutive_days', 0) or 0) >= 2]
+    consecutive.sort(key=lambda x: -x[1])
     
     rows = []
     rows.append([{"tag": "md", "text": f"📊 **GitHub Trending 日报 | {TODAY}**"}])
@@ -359,9 +504,9 @@ def push_feishu():
     rows.append([{"tag": "md", "text": f"**今日概览**：{len(projects)} 个项目上榜 | 语言分布：{lang_str}"}])
     rows.append([{"tag": "text", "text": " "}])
     
-    if consecutive_info:
+    if consecutive:
         rows.append([{"tag": "md", "text": "**🔥 连续上榜**"}])
-        for repo, days, stars in consecutive_info:
+        for repo, days, stars in consecutive:
             name = repo.split('/')[1]
             url = f"https://github.com/{repo}"
             rows.append([{"tag": "md", "text": f"- [{name}]({url}) — 连续 {days} 天 | {stars}"}])
@@ -370,11 +515,11 @@ def push_feishu():
     rows.append([{"tag": "md", "text": f"**📋 完整榜单（{len(projects)} 个项目）**"}])
     for p in projects:
         rank = p.get('rank', '?')
-        repo = p['repo']
+        repo = p['repo_full_name']
         name = repo.split('/')[1]
         lang = p.get('language', '?') or '?'
         stars = p.get('stars_today', '?')
-        url = p.get('url', f"https://github.com/{repo}")
+        url = f"https://github.com/{repo}"
         rows.append([{"tag": "md", "text": f"#{rank} [{name}]({url}) — {lang} | +{stars}⭐"}])
     
     post_payload = json.dumps({"zh_cn": {"content": rows}}, ensure_ascii=False)
@@ -394,13 +539,85 @@ def push_feishu():
         print(f"  推送失败: {result}")
         return False
 
+def run_lint_and_alert():
+    """编译后自动跑 lint，critical 问题飞书告警"""
+    print(f"[Lint] 自动检查...")
+    result = subprocess.run(
+        ['python3', f'{BASE}/scripts/wiki_lint.py'],
+        capture_output=True, text=True, cwd=BASE, timeout=30
+    )
+    lint_output = result.stdout
+    
+    # 检查是否有 critical 问题
+    critical_count = 0
+    for line in lint_output.split('\n'):
+        if '🔴 Critical:' in line:
+            try:
+                critical_count = int(line.split(':')[1].strip())
+            except:
+                pass
+    
+    if critical_count > 0:
+        # 飞书告警
+        print(f"  ⚠️ 发现 {critical_count} 个 critical 问题，推送飞书告警...")
+        try:
+            sub_result = subprocess.run(
+                ['bash', '-c', 'source /root/.hermes/profiles/radar/.env && echo $FEISHU_APP_SECRET'],
+                capture_output=True, text=True
+            )
+            APP_SECRET = sub_result.stdout.strip()
+            APP_ID = 'cli_a916e5b5a1b8dcd4'
+            
+            resp = requests.post(
+                'https://open.feishu.cn/open-apis/auth/v3/tenant_access_token/internal',
+                json={"app_id": APP_ID, "app_secret": APP_SECRET}, timeout=10
+            )
+            tenant_token = resp.json().get('tenant_access_token', '')
+            
+            if tenant_token:
+                # 提取 critical 问题列表
+                critical_lines = []
+                in_critical = False
+                for line in lint_output.split('\n'):
+                    if '## 🔴 Critical' in line:
+                        in_critical = True
+                        continue
+                    if in_critical and line.startswith('## '):
+                        break
+                    if in_critical and line.strip().startswith('-'):
+                        critical_lines.append(line.strip())
+                
+                rows = []
+                rows.append([{"tag": "md", "text": f"⚠️ **Wiki Lint 告警 | {TODAY}**"}])
+                rows.append([{"tag": "md", "text": f"发现 {critical_count} 个 critical 问题："}])
+                for cl in critical_lines[:10]:
+                    rows.append([{"tag": "md", "text": cl}])
+                
+                post_payload = json.dumps({"zh_cn": {"content": rows}}, ensure_ascii=False)
+                headers = {"Authorization": f"Bearer {tenant_token}", "Content-Type": "application/json; charset=utf-8"}
+                requests.post(
+                    "https://open.feishu.cn/open-apis/im/v1/messages",
+                    params={"receive_id_type": "chat_id"},
+                    headers=headers,
+                    json={"receive_id": "oc_b269ff6fab6e321a35e344ea5984e985", "msg_type": "post", "content": post_payload},
+                    timeout=10
+                )
+                print(f"  告警推送完成")
+        except Exception as e:
+            print(f"  告警推送失败: {e}")
+    else:
+        print(f"  ✅ Lint 通过，无 critical 问题")
+
 # ============ Main ============
 if __name__ == '__main__':
     if not collect():
         print("[SILENT]")
         sys.exit(1)
-    if not compile_wiki():
-        sys.exit(1)
+    
+    all_repos, repo_domains, domain_map = generate_entities()
+    generate_concepts(all_repos, repo_domains, domain_map)
+    update_index_and_log(all_repos)
     git_commit()
+    run_lint_and_alert()
     push_feishu()
     print(f"\n✅ {TODAY} 日报完成")

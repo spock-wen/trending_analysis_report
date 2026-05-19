@@ -2,10 +2,10 @@
 title: "BigBodyCobain/Shadowbroker"
 created: 2026-05-18
 updated: 2026-05-19
-type: entity
-tags: [security, tool, python, trending]
+type: tool
+tags: [python, ai-agent, data]
 sources: [raw/trending/2026-05-19.json]
-confidence: high
+confidence: medium
 trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
@@ -19,17 +19,20 @@ language: Python
 
 # BigBodyCobain/Shadowbroker
 
-## 概述
+Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.
 
-开源全球情报聚合平台。追踪富豪私人飞机、间谍卫星、地震事件等，统一界面展示。可接入 AI Agent 自动解析数据、发现隐藏关联。
+- 语言: Python
+- 上榜次数: 2 次
+- 连续上榜: 2 天
+- 最高排名: #6
+- 链接: [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)
 
-- **Language:** Python
-- **Stars today:** +767
-- **Total stars:** 7,723
-- **GitHub:** [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)
-- **Rank:** #10 on GitHub Trending (2026-05-19)
+## 上榜历史
 
-## 同类项目
+  - 2026-05-19: #10, +767⭐
+  - 2026-05-18: #6, +405⭐
 
-- [[CloakHQ-CloakBrowser]] — 同为安全/隐身领域工具
-- [[ruvnet-RuView]] — 同为感知/信号处理领域
+## 相关项目
+
+[[obra-superpowers]] [[colbymchenry-codegraph]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[nvidia-ai-blueprints-video-search-and-summarization]]
+

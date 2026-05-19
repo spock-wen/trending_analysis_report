@@ -173,6 +173,39 @@ def lint_pages():
             if updated < contested_cutoff:
                 issues['critical'].append(f"矛盾页面超期 (>30天未解决): {fname} (updated: {updated}) — 需要人工审查并解决")
 
+    # 10. DB vs Markdown 一致性检查
+    try:
+        import sqlite3
+        db_path = os.path.join(WIKI_PATH, "data", "github_trending.db")
+        if os.path.exists(db_path):
+            conn = sqlite3.connect(db_path)
+            cursor = conn.execute('SELECT repo_full_name, consecutive_days, trending_count_daily, last_seen FROM repo_stats')
+            db_data = {row[0]: {'consecutive_days': row[1], 'count': row[2], 'last_seen': row[3]} for row in cursor.fetchall()}
+            conn.close()
+            
+            for page_path in pages:
+                fname = os.path.basename(page_path)
+                if not fname.endswith('.md') or not os.path.dirname(page_path).endswith('entities'):
+                    continue
+                content = open(page_path, encoding='utf-8').read()
+                fm = parse_frontmatter(content)
+                if not fm or 'title' not in fm:
+                    continue
+                title = fm.get('title', '').strip('"')
+                if title not in db_data:
+                    continue
+                db = db_data[title]
+                md_cons = int(fm.get('consecutive_days', '0') or '0')
+                md_count = int(fm.get('trending_count_daily', '0') or '0')
+                md_last = fm.get('last_trending', '')
+                if db['consecutive_days'] != md_cons or db['count'] != md_count or db['last_seen'] != md_last:
+                    issues['critical'].append(
+                        f"DB/MD不一致: {fname} — DB(cons={db['consecutive_days']},count={db['count']},last={db['last_seen']}) "
+                        f"vs MD(cons={md_cons},count={md_count},last={md_last})"
+                    )
+    except Exception as e:
+        issues['warning'].append(f"DB一致性检查失败: {e}")
+
     return issues
 
 

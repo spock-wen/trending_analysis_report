@@ -104,3 +104,19 @@
 - 连续 2 天上榜: "rtk-ai/rtk"
 - 连续 2 天上榜: "tech-leads-club/agent-skills"
 - 当日 star 增长 Top 3: tinyhumansai/openhuman +3991⭐, Imbad0202/academic-research-skills +3184⭐, multica-ai/andrej-karpathy-skills +1935⭐
+
+## [2026-05-20] update | GitHub Trending 日报
+- 采集 18 个项目（raw/trending/2026-05-20.json）
+- 新建 entity: 10 个（anthropics/claude-plugins-official, rohitg00/agentmemory, rtk-ai/rtk, msitarzewski/agency-agents, multica-ai/andrej-karpathy-skills...）
+- 趋势: Python 7个, TypeScript 4个, Shell 2个, Rust 2个, CSS 1个
+- 连续 3 天上榜: tinyhumansai/openhuman
+- 连续 3 天上榜: HKUDS/CLI-Anything
+- 连续 3 天上榜: microsoft/ai-agents-for-beginners
+- 连续 2 天上榜: K-Dense-AI/scientific-agent-skills
+- 连续 2 天上榜: BigBodyCobain/Shadowbroker
+- 连续 2 天上榜: tech-leads-club/agent-skills
+- 连续 2 天上榜: plausible/analytics
+- 连续 2 天上榜: Imbad0202/academic-research-skills
+- 连续 2 天上榜: CloakHQ/CloakBrowser
+- 连续 2 天上榜: humanlayer/12-factor-agents
+- 当日 star 增长 Top 3: tinyhumansai/openhuman +3991⭐, Imbad0202/academic-research-skills +3184⭐, multica-ai/andrej-karpathy-skills +1935⭐

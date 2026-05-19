@@ -2,10 +2,10 @@
 title: "plausible/analytics"
 created: 2026-05-18
 updated: 2026-05-19
-type: entity
-tags: [web, tool, elixir, trending]
+type: tool
+tags: [web, data, security]
 sources: [raw/trending/2026-05-19.json]
-confidence: high
+confidence: medium
 trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
@@ -19,17 +19,20 @@ language: Elixir
 
 # plausible/analytics
 
-## 概述
+Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 
-开源隐私优先的网站分析工具。轻量、无 Cookie 的 Google Analytics 替代品，支持自托管或云服务。
+- 语言: Elixir
+- 上榜次数: 2 次
+- 连续上榜: 2 天
+- 最高排名: #15
+- 链接: [plausible/analytics](https://github.com/plausible/analytics)
 
-- **Language:** Elixir
-- **Stars today:** +638
-- **Total stars:** 25,967
-- **GitHub:** [plausible/analytics](https://github.com/plausible/analytics)
-- **Rank:** #15 on GitHub Trending (2026-05-19)
+## 上榜历史
 
-## 同类项目
+  - 2026-05-19: #15, +638⭐
+  - 2026-05-18: #16, +128⭐
 
-- [[knadh-listmonk]] — 同为开源自托管工具
-- [[tryghost-ghost]] — 同为开源 Web 平台
+## 相关项目
+
+[[bigbodycobain-shadowbroker]] [[nvidia-ai-blueprints-video-search-and-summarization]] [[hkuds-cli-anything]] [[influxdata-telegraf]] [[msitarzewski-agency-agents]]
+

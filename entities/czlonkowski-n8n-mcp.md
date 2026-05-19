@@ -1,65 +1,37 @@
 ---
 title: "czlonkowski/n8n-mcp"
 created: 2026-05-16
-updated: 2026-05-17
-type: entity
-tags: [ai-agent, tool, typescript, trending]
+updated: 2026-05-16
+type: tool
+tags: [typescript, ai-agent]
 sources: [raw/trending/2026-05-16.json]
-confidence: medium
-trending_count_daily: 2
+confidence: low
+trending_count_daily: 1
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 1
 first_trending: 2026-05-16
-last_trending: 2026-05-17
+last_trending: 2026-05-16
 peak_rank: 8
 total_stars: 20971
 language: TypeScript
-license: MIT
 ---
 
 # czlonkowski/n8n-mcp
 
-## 概述
+A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 
-MCP（模型上下文协议）服务器，为 Claude Desktop、Claude Code、Windsurf、Cursor 等 AI 助手提供对 n8n 工作流自动化平台 1,650 个节点的全面访问能力。让 AI 能够理解和使用 n8n 节点来构建、管理工作流。
-
-## 核心功能
-
-- **1,650 节点覆盖** — 820 个核心节点 + 830 个社区节点的结构化访问
-- **7 个核心工具** — 搜索节点、获取节点详情、验证节点/工作流、搜索模板等
-- **13 个管理工具** — 创建/更新/删除/部署工作流、执行管理、凭证管理、审计
-- **托管或自托管** — 提供 dashboard.n8n-mcp.com 托管服务，也支持 Docker/Railway 自托管
-- **Claude 技能增强** — 配套 n8n-skills 仓库，教授 AI 构建生产级工作流
-
-^[raw/trending/2026-05-16.json]
-
-## 技术栈
-
-- TypeScript
-- MCP（Model Context Protocol）
-- n8n API 集成
-- Docker / Railway 部署
-
-^[GitHub Trending 页面 + 项目 README]
-
-## 使用场景
-
-- 用自然语言构建 n8n 自动化工作流
-- AI 辅助的 n8n 实例管理和审计
-- 快速原型：从模板部署工作流
+- 语言: TypeScript
+- 上榜次数: 1 次
+- 连续上榜: 1 天
+- 最高排名: #8
+- 链接: [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
 
 ## 上榜历史
 
-| 日期 | 排名 | 当日新增 star | 总 star |
-|------|------|--------------|---------|
-| 2026-05-16 | 8 | +68 | 20,971 |
-| 2026-05-17 | 8 | +68 | 20,971 |
+  - 2026-05-16: #8, +68⭐
 
-## 同类项目
+## 相关项目
 
-- [[joeseesun-qiaomu-anything-to-notebooklm]] — 多源内容处理器
-- [[agent-skills-ecosystem]] — Agent Skills 领域趋势分析
+[[obra-superpowers]] [[colbymchenry-codegraph]] [[hkuds-cli-anything]] [[rohitg00-agentmemory]] [[tinyhumansai-openhuman]]
 
-- [[influxdata-telegraf]] — 同为数据自动化领域，但专注指标采集
-- [[anthropics-skills]] — 同为 MCP/技能生态，但更通用

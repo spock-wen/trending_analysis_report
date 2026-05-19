@@ -1,19 +1,19 @@
 ---
 title: "CloakHQ/CloakBrowser"
-created: 2026-05-20
+created: 2026-05-19
 updated: 2026-05-20
 type: tool
-tags: [python, web]
+tags: [python, web, security, erp]
 sources: [raw/trending/2026-05-20.json]
 confidence: medium
 trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 2
-first_trending: 2026-05-20
+first_trending: 2026-05-19
 last_trending: 2026-05-20
 peak_rank: 7
-total_stars: ?
+total_stars: 16555
 language: Python
 ---
 
@@ -22,6 +22,17 @@ language: Python
 Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 
 - 语言: Python
-- 今日排名: #7
-- 今日新增: +1466⭐
+- 上榜次数: 2 次
+- 连续上榜: 2 天
+- 最高排名: #7
 - 链接: [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+
+## 上榜历史
+
+  - 2026-05-20: #7, +1466⭐
+  - 2026-05-19: #8, +1420⭐
+
+## 相关项目
+
+[[obra-superpowers]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[plausible-analytics]] [[msitarzewski-agency-agents]]
+

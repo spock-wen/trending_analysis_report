@@ -13,7 +13,7 @@ consecutive_days: 1
 first_trending: 2026-05-20
 last_trending: 2026-05-20
 peak_rank: 15
-total_stars: 15868
+total_stars: 15887
 language: TypeScript
 ---
 
@@ -29,9 +29,9 @@ Create and share 3D architectural projects.
 
 ## 上榜历史
 
-  - 2026-05-20: #15, +88⭐
+  - 2026-05-20: #15, +110⭐
 
 ## 相关项目
 
-[[humanlayer-12-factor-agents]] [[oven-sh-bun]] [[tryghost-ghost]] [[rohitg00-agentmemory]] [[colbymchenry-codegraph]]
+[[colbymchenry-codegraph]] [[tryghost-ghost]] [[humanlayer-12-factor-agents]] [[rohitg00-agentmemory]] [[oven-sh-bun]]
 

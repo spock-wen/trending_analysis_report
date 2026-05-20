@@ -33,5 +33,5 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[humanlayer-12-factor-agents]] [[frappe-erpnext]] [[pascalorg-editor]] [[rohitg00-agentmemory]] [[obra-superpowers]]
+[[colbymchenry-codegraph]] [[frappe-erpnext]] [[humanlayer-12-factor-agents]] [[cloakhq-cloakbrowser]] [[obra-superpowers]]
 

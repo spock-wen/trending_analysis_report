@@ -13,7 +13,7 @@ consecutive_days: 1
 first_trending: 2026-05-20
 last_trending: 2026-05-20
 peak_rank: 13
-total_stars: 10759
+total_stars: 10788
 language: CSS
 ---
 
@@ -29,9 +29,9 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 上榜历史
 
-  - 2026-05-20: #13, +930⭐
+  - 2026-05-20: #13, +493⭐
 
 ## 相关项目
 
-[[frappe-erpnext]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]] [[obra-superpowers]] [[cloakhq-cloakbrowser]]
+[[frappe-erpnext]] [[hkuds-cli-anything]] [[cloakhq-cloakbrowser]] [[obra-superpowers]] [[msitarzewski-agency-agents]]
 

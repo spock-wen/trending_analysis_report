@@ -33,5 +33,5 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ## 相关项目
 
-[[humanlayer-12-factor-agents]] [[pascalorg-editor]] [[tinyhumansai-openhuman]] [[rohitg00-agentmemory]] [[hkuds-cli-anything]]
+[[colbymchenry-codegraph]] [[tinyhumansai-openhuman]] [[hkuds-cli-anything]] [[humanlayer-12-factor-agents]] [[obra-superpowers]]
 

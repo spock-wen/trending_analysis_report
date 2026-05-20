@@ -530,6 +530,164 @@ def git_commit():
         print(f"  Commit: {result.stdout.strip() or result.stderr.strip()[:200]}")
 
 # ============ 第五步：飞书推送 ============
+# ============ LLM 深度分析 ============
+def llm_analyze():
+    """调用 LLM 对今日数据进行深度分析，返回分析文本"""
+    print(f"[4/5] LLM 深度分析...")
+    
+    # 从 DB 读取今日和近期数据
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
+    
+    # 今日项目
+    cursor = conn.execute('''
+        SELECT td.repo_full_name, td.rank, td.stars_today, td.language, td.description,
+               rs.consecutive_days, rs.trending_count_daily, rs.last_stars
+        FROM trending_daily td
+        LEFT JOIN repo_stats rs ON td.repo_full_name = rs.repo_full_name
+        WHERE td.date = ? AND td.period = ?
+        ORDER BY td.rank
+    ''', (TODAY, 'daily'))
+    today_projects = [dict(row) for row in cursor.fetchall()]
+    
+    # 近5天的每日项目数和语言分布（用于趋势对比）
+    cursor = conn.execute('''
+        SELECT date, COUNT(*) as count
+        FROM trending_daily
+        WHERE period = 'daily' AND date >= date(?, '-4 days')
+        GROUP BY date
+        ORDER BY date
+    ''', (TODAY,))
+    daily_counts = [dict(row) for row in cursor.fetchall()]
+    
+    # 近5天语言趋势
+    cursor = conn.execute('''
+        SELECT date, language, COUNT(*) as count
+        FROM trending_daily
+        WHERE period = 'daily' AND date >= date(?, '-4 days')
+        GROUP BY date, language
+        ORDER BY date, count DESC
+    ''', (TODAY,))
+    lang_trend = [dict(row) for row in cursor.fetchall()]
+    
+    # 连续上榜项目
+    cursor = conn.execute('''
+        SELECT repo_full_name, consecutive_days, trending_count_daily, last_stars
+        FROM repo_stats
+        WHERE consecutive_days >= 2
+        ORDER BY consecutive_days DESC
+    ''')
+    consecutive = [dict(row) for row in cursor.fetchall()]
+    
+    conn.close()
+    
+    # 构建分析输入
+    today_list = []
+    for p in today_projects:
+        repo = p['repo_full_name']
+        rank = p.get('rank', '?')
+        stars = p.get('stars_today', 0)
+        lang = p.get('language', '?') or '?'
+        desc = p.get('description', '') or ''
+        cons = p.get('consecutive_days', 0) or 0
+        count = p.get('trending_count_daily', 0) or 0
+        today_list.append(f"#{rank} {repo} [{lang}] +{stars}⭐ 连续{cons}天/共{count}次 | {desc}")
+    
+    consec_list = []
+    for c in consecutive:
+        consec_list.append(f"{c['repo_full_name']}: 连续{c['consecutive_days']}天, 共{c['trending_count_daily']}次上榜, {c.get('last_stars', '?')} stars")
+    
+    # 语言趋势摘要
+    lang_by_date = defaultdict(lambda: defaultdict(int))
+    for lt in lang_trend:
+        lang_by_date[lt['date']][lt['language'] or '其他'] = lt['count']
+    
+    trend_lines = []
+    for d in sorted(lang_by_date.keys()):
+        langs = lang_by_date[d]
+        top3 = sorted(langs.items(), key=lambda x: -x[1])[:3]
+        trend_lines.append(f"  {d}: {', '.join([f'{l}({c})' for l, c in top3])}")
+    
+    prompt = f"""你是技术趋势分析师。基于今日 GitHub Trending 数据，输出深度分析。
+
+## 今日数据（{TODAY}）
+{len(today_projects)} 个项目上榜：
+{chr(10).join(today_list)}
+
+## 连续上榜项目
+{chr(10).join(consec_list) if consec_list else '无'}
+
+## 近5天语言趋势
+{chr(10).join(trend_lines)}
+
+## 每日项目数
+{chr(10).join([f"  {d['date']}: {d['count']}个" for d in daily_counts])}
+
+## 输出要求（严格按此格式，总字数≤400字）
+
+**🔍 趋势洞察**
+（2-3句：今天和近期比，什么在变？哪些领域升温/降温？）
+
+**💡 亮点解读**
+（2-3个值得注意的项目，每个1句：为什么值得关注，不只是复读描述）
+
+**📌 行动建议**
+（1-2句：对全栈架构师来说，哪些值得深入看？）
+
+注意：
+- 不要复读项目描述，要有判断和分析
+- 用中文，术语保留英文
+- 不要用 markdown 标题（#），用加粗（**）代替"""
+
+    # 调用 LLM API
+    try:
+        # 读取 API 配置
+        import yaml
+        with open('/root/.hermes/profiles/radar/config.yaml') as f:
+            cfg = yaml.safe_load(f)
+        
+        xc = cfg.get('xunfei-coding', {})
+        api_key = xc.get('api_key', '')
+        base_url = xc.get('base_url', '')
+        model = xc.get('model', 'astron-code-latest')
+        
+        if not api_key or not base_url:
+            print(f"  LLM API 配置缺失，跳过分析")
+            return ""
+        
+        resp = requests.post(
+            f'{base_url}/chat/completions',
+            headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
+            json={
+                "model": model,
+                "messages": [
+                    {"role": "system", "content": "你是技术趋势分析师，输出简洁有洞察的中文分析。"},
+                    {"role": "user", "content": prompt}
+                ],
+                "max_tokens": 800,
+                "temperature": 0.7,
+            },
+            timeout=30
+        )
+        
+        if resp.status_code != 200:
+            print(f"  LLM API 错误: {resp.status_code}")
+            return ""
+        
+        result = resp.json()
+        analysis = result.get('choices', [{}])[0].get('message', {}).get('content', '')
+        
+        if analysis:
+            print(f"  分析完成: {len(analysis)} 字")
+            return analysis.strip()
+        else:
+            print(f"  LLM 返回空内容")
+            return ""
+            
+    except Exception as e:
+        print(f"  LLM 分析失败: {e}")
+        return ""
+
 def push_feishu():
     print(f"[5/5] 飞书推送...")
     
@@ -554,7 +712,7 @@ def push_feishu():
     conn.row_factory = sqlite3.Row
     cursor = conn.execute('''
         SELECT td.repo_full_name, td.rank, td.stars_today, td.language, td.description,
-               rs.consecutive_days, rs.trending_count_daily
+               rs.consecutive_days, rs.trending_count_daily, rs.last_stars
         FROM trending_daily td
         LEFT JOIN repo_stats rs ON td.repo_full_name = rs.repo_full_name
         WHERE td.date = ? AND td.period = ?
@@ -571,50 +729,60 @@ def push_feishu():
     lang_str = " | ".join([f"{l} {c}个" for l, c in top_lang])
     
     # 连续上榜
-    consecutive = [(p['repo_full_name'], p.get('consecutive_days', 0) or 0, f"+{p.get('stars_today',0)}⭐")
+    consecutive = [(p['repo_full_name'], p.get('consecutive_days', 0) or 0, p.get('stars_today', 0))
                    for p in projects if (p.get('consecutive_days', 0) or 0) >= 2]
     consecutive.sort(key=lambda x: -x[1])
     
+    # LLM 分析
+    analysis = llm_analyze()
+    
+    # ===== 构建富文本 post =====
     rows = []
-    rows.append([{"tag": "md", "text": f"📊 **GitHub Trending 日报 | {TODAY}**"}])
-    rows.append([{"tag": "text", "text": " "}])
-    rows.append([{"tag": "md", "text": f"**今日概览**：{len(projects)} 个项目上榜 | 语言分布：{lang_str}"}])
+    
+    # 标题
+    rows.append([{"tag": "md", "text": f"📊 **GitHub Trending 日报** `{TODAY}`"}])
     rows.append([{"tag": "text", "text": " "}])
     
-    if consecutive:
-        rows.append([{"tag": "md", "text": "**🔥 连续上榜**"}])
-        for repo, days, stars in consecutive:
-            name = repo.split('/')[1]
-            url = f"https://github.com/{repo}"
-            rows.append([{"tag": "md", "text": f"- [{name}]({url}) — 连续 {days} 天 | {stars}"}])
+    # 概览
+    rows.append([{"tag": "md", "text": f"**{len(projects)}** 个项目上榜 ｜ 语言：{lang_str}"}])
+    rows.append([{"tag": "text", "text": " "}])
+    
+    # 深度分析区（如果有）
+    if analysis:
+        rows.append([{"tag": "md", "text": "🧠 **深度分析**"}])
+        # 把分析文本按行拆分，每行一个 row
+        for line in analysis.split('\n'):
+            line = line.strip()
+            if line:
+                rows.append([{"tag": "md", "text": line}])
         rows.append([{"tag": "text", "text": " "}])
     
-    rows.append([{"tag": "md", "text": f"**📋 完整榜单（{len(projects)} 个项目）**"}])
+    # 连续上榜区
+    if consecutive:
+        rows.append([{"tag": "md", "text": "🔥 **连续上榜**"}])
+        for repo, days, stars in consecutive:
+            name = repo.split('/')[1]
+            org = repo.split('/')[0]
+            url = f"https://github.com/{repo}"
+            rows.append([{"tag": "md", "text": f"  [{name}]({url}) `{org}` — 连续 **{days}** 天 ｜ +{stars}⭐"}])
+        rows.append([{"tag": "text", "text": " "}])
+    
+    # 完整榜单
+    rows.append([{"tag": "md", "text": "📋 **今日榜单**"}])
     for p in projects:
         rank = p.get('rank', '?')
         repo = p['repo_full_name']
         name = repo.split('/')[1]
+        org = repo.split('/')[0]
         lang = p.get('language', '?') or '?'
         stars = p.get('stars_today', '?')
         url = f"https://github.com/{repo}"
-        rows.append([{"tag": "md", "text": f"#{rank} [{name}]({url}) — {lang} | +{stars}⭐"}])
-    
-    post_payload = json.dumps({"zh_cn": {"content": rows}}, ensure_ascii=False)
-    headers = {"Authorization": f"Bearer {tenant_token}", "Content-Type": "application/json; charset=utf-8"}
-    resp = requests.post(
-        "https://open.feishu.cn/open-apis/im/v1/messages",
-        params={"receive_id_type": "chat_id"},
-        headers=headers,
-        json={"receive_id": "oc_b269ff6fab6e321a35e344ea5984e985", "msg_type": "post", "content": post_payload},
-        timeout=10
-    )
-    result = resp.json()
-    if result.get('code') == 0:
-        print(f"  推送成功")
-        return True
-    else:
-        print(f"  推送失败: {result}")
-        return False
+        desc = p.get('description', '') or ''
+        # 截断过长描述
+        if len(desc) > 60:
+            desc = desc[:57] + '...'
+        rows.append([{"tag": "md", "text": f"**{rank}.** [{name}]({url}) — {desc}"}])
+        rows.append([{"tag": "md", "text": f"  `{lang}` `{org}` +{stars}⭐"}])
 
 def run_lint_and_alert():
     """编译后自动跑 lint，critical 问题飞书告警"""

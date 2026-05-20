@@ -13,7 +13,7 @@ consecutive_days: 1
 first_trending: 2026-05-20
 last_trending: 2026-05-20
 peak_rank: 18
-total_stars: 5400
+total_stars: 5447
 language: Python
 ---
 
@@ -29,9 +29,9 @@ language: Python
 
 ## 上榜历史
 
-  - 2026-05-20: #18, +504⭐
+  - 2026-05-20: #18, +503⭐
 
 ## 相关项目
 
-[[nvlabs-sana]] [[anthropics-claude-plugins-official]] [[light-heart-labs-dreamserver]] [[tinyhumansai-openhuman]] [[imbad0202-academic-research-skills]]
+[[colbymchenry-codegraph]] [[tinyhumansai-openhuman]] [[anil-matcha-open-generative-ai]] [[hkuds-cli-anything]] [[cloakhq-cloakbrowser]]
 

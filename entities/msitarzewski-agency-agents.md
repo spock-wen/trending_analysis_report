@@ -13,7 +13,7 @@ consecutive_days: 1
 first_trending: 2026-05-20
 last_trending: 2026-05-20
 peak_rank: 9
-total_stars: 101660
+total_stars: 101662
 language: Shell
 ---
 
@@ -33,5 +33,5 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[rtk-ai-rtk]] [[hkuds-cli-anything]] [[diolinux-photogimp]] [[obra-superpowers]] [[mattpocock-skills]]
+[[obra-superpowers]] [[rtk-ai-rtk]] [[hkuds-cli-anything]] [[tinyhumansai-openhuman]] [[diolinux-photogimp]]
 

@@ -33,5 +33,5 @@ Public repository for Agent Skills
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[imbad0202-academic-research-skills]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[tinyhumansai-openhuman]]
+[[obra-superpowers]] [[hkuds-cli-anything]] [[imbad0202-academic-research-skills]] [[tinyhumansai-openhuman]] [[cloakhq-cloakbrowser]]
 

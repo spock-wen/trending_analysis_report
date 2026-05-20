@@ -13,7 +13,7 @@ consecutive_days: 1
 first_trending: 2026-05-20
 last_trending: 2026-05-20
 peak_rank: 5
-total_stars: 20220
+total_stars: 20222
 language: Python
 ---
 
@@ -33,5 +33,5 @@ Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[imbad0202-academic-research-skills]] [[obra-superpowers]] [[tinyhumansai-openhuman]] [[colbymchenry-codegraph]]
+[[obra-superpowers]] [[hkuds-cli-anything]] [[imbad0202-academic-research-skills]] [[tinyhumansai-openhuman]] [[cloakhq-cloakbrowser]]
 

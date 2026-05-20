@@ -13,7 +13,7 @@ consecutive_days: 2
 first_trending: 2026-05-19
 last_trending: 2026-05-20
 peak_rank: 2
-total_stars: 14171
+total_stars: 14175
 language: Python
 ---
 
@@ -34,5 +34,5 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[tinyhumansai-openhuman]]
+[[obra-superpowers]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]] [[tinyhumansai-openhuman]] [[cloakhq-cloakbrowser]]
 

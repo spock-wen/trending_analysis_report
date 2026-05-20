@@ -13,7 +13,7 @@ consecutive_days: 2
 first_trending: 2026-05-19
 last_trending: 2026-05-20
 peak_rank: 7
-total_stars: 16640
+total_stars: 16644
 language: Python
 ---
 
@@ -34,5 +34,5 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[plausible-analytics]] [[hkuds-cli-anything]] [[msitarzewski-agency-agents]] [[imbad0202-academic-research-skills]] [[diolinux-photogimp]]
+[[obra-superpowers]] [[plausible-analytics]] [[hkuds-cli-anything]] [[imbad0202-academic-research-skills]] [[diolinux-photogimp]]
 

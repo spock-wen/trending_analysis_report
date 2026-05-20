@@ -33,5 +33,5 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[pascalorg-editor]] [[diolinux-photogimp]] [[obra-superpowers]] [[humanlayer-12-factor-agents]] [[rohitg00-agentmemory]]
+[[obra-superpowers]] [[humanlayer-12-factor-agents]] [[rohitg00-agentmemory]] [[cloakhq-cloakbrowser]] [[pascalorg-editor]]
 

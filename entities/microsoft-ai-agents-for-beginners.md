@@ -13,7 +13,7 @@ consecutive_days: 3
 first_trending: 2026-05-18
 last_trending: 2026-05-20
 peak_rank: 13
-total_stars: 64383
+total_stars: 64386
 language: Jupyter Notebook
 ---
 
@@ -35,5 +35,5 @@ language: Jupyter Notebook
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[obra-superpowers]] [[nirdiamant-agents-towards-production]] [[tinyhumansai-openhuman]] [[colbymchenry-codegraph]]
+[[obra-superpowers]] [[hkuds-cli-anything]] [[tinyhumansai-openhuman]] [[nirdiamant-agents-towards-production]] [[colbymchenry-codegraph]]
 

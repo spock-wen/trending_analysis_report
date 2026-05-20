@@ -13,7 +13,7 @@ consecutive_days: 1
 first_trending: 2026-05-20
 last_trending: 2026-05-20
 peak_rank: 14
-total_stars: 26387
+total_stars: 26389
 language: Python
 ---
 
@@ -33,5 +33,5 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[rtk-ai-rtk]] [[hkuds-cli-anything]] [[imbad0202-academic-research-skills]] [[msitarzewski-agency-agents]] [[supertone-inc-supertonic]]
+[[obra-superpowers]] [[supertone-inc-supertonic]] [[rtk-ai-rtk]] [[hkuds-cli-anything]] [[imbad0202-academic-research-skills]]
 

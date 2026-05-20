@@ -13,7 +13,7 @@ consecutive_days: 1
 first_trending: 2026-05-20
 last_trending: 2026-05-20
 peak_rank: 18
-total_stars: 5453
+total_stars: 5454
 language: Python
 ---
 
@@ -33,5 +33,5 @@ language: Python
 
 ## 相关项目
 
-[[nvlabs-sana]] [[hkuds-cli-anything]] [[imbad0202-academic-research-skills]] [[anthropics-claude-plugins-official]] [[obra-superpowers]]
+[[obra-superpowers]] [[hkuds-cli-anything]] [[imbad0202-academic-research-skills]] [[tinyhumansai-openhuman]] [[light-heart-labs-dreamserver]]
 

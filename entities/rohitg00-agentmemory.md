@@ -13,7 +13,7 @@ consecutive_days: 1
 first_trending: 2026-05-20
 last_trending: 2026-05-20
 peak_rank: 6
-total_stars: 14182
+total_stars: 14189
 language: TypeScript
 ---
 
@@ -33,5 +33,5 @@ language: TypeScript
 
 ## 相关项目
 
-[[pascalorg-editor]] [[hkuds-cli-anything]] [[obra-superpowers]] [[humanlayer-12-factor-agents]] [[tinyhumansai-openhuman]]
+[[obra-superpowers]] [[humanlayer-12-factor-agents]] [[hkuds-cli-anything]] [[tinyhumansai-openhuman]] [[pascalorg-editor]]
 

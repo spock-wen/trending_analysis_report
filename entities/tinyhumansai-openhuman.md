@@ -13,7 +13,7 @@ consecutive_days: 3
 first_trending: 2026-05-16
 last_trending: 2026-05-20
 peak_rank: 1
-total_stars: 21346
+total_stars: 21361
 language: Rust
 ---
 
@@ -36,5 +36,5 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[rtk-ai-rtk]] [[oven-sh-bun]] [[hkuds-cli-anything]] [[obra-superpowers]] [[colbymchenry-codegraph]]
+[[obra-superpowers]] [[oven-sh-bun]] [[rtk-ai-rtk]] [[hkuds-cli-anything]] [[ruvnet-ruview]]
 

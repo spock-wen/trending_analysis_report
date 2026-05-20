@@ -34,5 +34,5 @@ Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 
 ## 相关项目
 
-[[dograh-hq-dograh]] [[alishahryar1-free-claude-code]] [[light-heart-labs-dreamserver]]
+[[alishahryar1-free-claude-code]] [[dograh-hq-dograh]] [[light-heart-labs-dreamserver]]
 

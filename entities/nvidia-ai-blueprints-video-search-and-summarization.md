@@ -33,5 +33,5 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[plausible-analytics]] [[hkuds-cli-anything]] [[imbad0202-academic-research-skills]] [[influxdata-telegraf]] [[anthropics-claude-plugins-official]]
+[[obra-superpowers]] [[plausible-analytics]] [[hkuds-cli-anything]] [[imbad0202-academic-research-skills]] [[tinyhumansai-openhuman]]
 

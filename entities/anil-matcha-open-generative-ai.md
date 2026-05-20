@@ -33,5 +33,5 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[obra-superpowers]] [[tryghost-ghost]] [[hkuds-cli-anything]] [[tinyhumansai-openhuman]] [[light-heart-labs-dreamserver]]
+[[hkuds-vimax]] [[hkuds-cli-anything]] [[truelockmc-streambert]] [[nvlabs-sana]] [[obra-superpowers]]
 

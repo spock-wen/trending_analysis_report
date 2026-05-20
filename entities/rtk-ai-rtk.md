@@ -33,5 +33,5 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[obra-superpowers]] [[oven-sh-bun]] [[hkuds-cli-anything]] [[tinyhumansai-openhuman]] [[msitarzewski-agency-agents]]
+[[oven-sh-bun]] [[can1357-oh-my-pi]] [[hkuds-cli-anything]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
 

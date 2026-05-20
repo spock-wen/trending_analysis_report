@@ -33,5 +33,5 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[obra-superpowers]] [[humanlayer-12-factor-agents]] [[rohitg00-agentmemory]] [[cloakhq-cloakbrowser]] [[pascalorg-editor]]
+[[can1357-oh-my-pi]] [[cloakhq-cloakbrowser]] [[obra-superpowers]] [[rmyndharis-openwa]] [[rohitg00-agentmemory]]
 

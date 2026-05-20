@@ -1,19 +1,19 @@
 ---
 title: "HKUDS/ViMax"
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-05-21
 type: tool
 tags: [python, ai-agent, image-gen]
-sources: [raw/trending/2026-05-20.json]
-confidence: low
-trending_count_daily: 1
+sources: [raw/trending/2026-05-21.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-05-20
-last_trending: 2026-05-20
-peak_rank: 18
-total_stars: 5454
+last_trending: 2026-05-21
+peak_rank: 17
+total_stars: 6015
 language: Python
 ---
 
@@ -22,16 +22,17 @@ language: Python
 "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
 
 - 语言: Python
-- 上榜次数: 1 次
-- 连续上榜: 1 天
-- 最高排名: #18
+- 上榜次数: 2 次
+- 连续上榜: 2 天
+- 最高排名: #17
 - 链接: [HKUDS/ViMax](https://github.com/HKUDS/ViMax)
 
 ## 上榜历史
 
+  - 2026-05-21: #17, +692⭐
   - 2026-05-20: #18, +503⭐
 
 ## 相关项目
 
-[[obra-superpowers]] [[hkuds-cli-anything]] [[imbad0202-academic-research-skills]] [[tinyhumansai-openhuman]] [[light-heart-labs-dreamserver]]
+[[hkuds-cli-anything]] [[anthropics-claude-plugins-official]] [[anil-matcha-open-generative-ai]] [[nvlabs-sana]] [[obra-superpowers]]
 

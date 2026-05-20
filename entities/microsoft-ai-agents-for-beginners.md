@@ -35,5 +35,5 @@ language: Jupyter Notebook
 
 ## 相关项目
 
-[[obra-superpowers]] [[hkuds-cli-anything]] [[tinyhumansai-openhuman]] [[nirdiamant-agents-towards-production]] [[colbymchenry-codegraph]]
+[[rohitg00-ai-engineering-from-scratch]] [[hkuds-cli-anything]] [[nirdiamant-agents-towards-production]] [[obra-superpowers]] [[colbymchenry-codegraph]]
 

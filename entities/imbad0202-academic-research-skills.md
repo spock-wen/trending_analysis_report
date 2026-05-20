@@ -1,19 +1,19 @@
 ---
 title: "Imbad0202/academic-research-skills"
 created: 2026-05-19
-updated: 2026-05-20
+updated: 2026-05-21
 type: tool
-tags: [python, ai-agent, science]
-sources: [raw/trending/2026-05-20.json]
-confidence: medium
-trending_count_daily: 2
+tags: [python, ai-agent, science, rising]
+sources: [raw/trending/2026-05-21.json]
+confidence: high
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 3
 first_trending: 2026-05-19
-last_trending: 2026-05-20
+last_trending: 2026-05-21
 peak_rank: 2
-total_stars: 14175
+total_stars: 16067
 language: Python
 ---
 
@@ -22,17 +22,18 @@ language: Python
 Academic Research Skills for Claude Code: research → write → review → revise → finalize
 
 - 语言: Python
-- 上榜次数: 2 次
-- 连续上榜: 2 天
+- 上榜次数: 3 次
+- 连续上榜: 3 天
 - 最高排名: #2
 - 链接: [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
 
 ## 上榜历史
 
+  - 2026-05-21: #2, +1639⭐
   - 2026-05-20: #3, +3164⭐
   - 2026-05-19: #2, +1439⭐
 
 ## 相关项目
 
-[[obra-superpowers]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]] [[tinyhumansai-openhuman]] [[cloakhq-cloakbrowser]]
+[[hkuds-cli-anything]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[colbymchenry-codegraph]] [[tinyhumansai-openhuman]]
 

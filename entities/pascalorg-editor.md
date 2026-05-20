@@ -33,5 +33,5 @@ Create and share 3D architectural projects.
 
 ## 相关项目
 
-[[oven-sh-bun]] [[humanlayer-12-factor-agents]] [[tryghost-ghost]] [[rohitg00-agentmemory]] [[colbymchenry-codegraph]]
+[[can1357-oh-my-pi]] [[truelockmc-streambert]] [[rmyndharis-openwa]] [[rohitg00-agentmemory]] [[colbymchenry-codegraph]]
 

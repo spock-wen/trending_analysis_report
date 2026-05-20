@@ -1,19 +1,19 @@
 ---
 title: "tinyhumansai/openhuman"
 created: 2026-05-16
-updated: 2026-05-20
+updated: 2026-05-21
 type: tool
 tags: [rust, ai-agent, rising]
-sources: [raw/trending/2026-05-20.json]
+sources: [raw/trending/2026-05-21.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 3
+consecutive_days: 4
 first_trending: 2026-05-16
-last_trending: 2026-05-20
+last_trending: 2026-05-21
 peak_rank: 1
-total_stars: 21361
+total_stars: 23549
 language: Rust
 ---
 
@@ -22,13 +22,14 @@ language: Rust
 Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 - 语言: Rust
-- 上榜次数: 4 次
-- 连续上榜: 3 天
+- 上榜次数: 5 次
+- 连续上榜: 4 天
 - 最高排名: #1
 - 链接: [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
 
 ## 上榜历史
 
+  - 2026-05-21: #3, +3603⭐
   - 2026-05-20: #1, +3973⭐
   - 2026-05-19: #1, +3941⭐
   - 2026-05-18: #1, +1694⭐
@@ -36,5 +37,5 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[obra-superpowers]] [[oven-sh-bun]] [[rtk-ai-rtk]] [[hkuds-cli-anything]] [[ruvnet-ruview]]
+[[oven-sh-bun]] [[hkuds-cli-anything]] [[rtk-ai-rtk]] [[obra-superpowers]] [[ruvnet-ruview]]
 

@@ -34,5 +34,5 @@ What are the principles we can use to build LLM-powered software that is actuall
 
 ## 相关项目
 
-[[obra-superpowers]] [[hkuds-cli-anything]] [[tinyhumansai-openhuman]] [[rohitg00-agentmemory]] [[pascalorg-editor]]
+[[can1357-oh-my-pi]] [[hkuds-cli-anything]] [[rmyndharis-openwa]] [[obra-superpowers]] [[rohitg00-agentmemory]]
 

@@ -33,5 +33,5 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[obra-superpowers]] [[hkuds-cli-anything]] [[frappe-erpnext]] [[tinyhumansai-openhuman]] [[microsoft-ai-agents-for-beginners]]
+[[rohitg00-ai-engineering-from-scratch]] [[hkuds-cli-anything]] [[cloakhq-cloakbrowser]] [[obra-superpowers]] [[ruvnet-ruview]]
 

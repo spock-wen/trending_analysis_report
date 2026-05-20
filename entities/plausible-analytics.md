@@ -34,5 +34,5 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[nvidia-ai-blueprints-video-search-and-summarization]] [[can1357-oh-my-pi]] [[hkuds-cli-anything]] [[influxdata-telegraf]] [[msitarzewski-agency-agents]]
+[[influxdata-telegraf]] [[msitarzewski-agency-agents]] [[can1357-oh-my-pi]] [[nvidia-ai-blueprints-video-search-and-summarization]] [[hkuds-cli-anything]]
 

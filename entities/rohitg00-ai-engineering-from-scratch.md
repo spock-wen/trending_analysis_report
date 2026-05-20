@@ -13,7 +13,7 @@ consecutive_days: 1
 first_trending: 2026-05-21
 last_trending: 2026-05-21
 peak_rank: 5
-total_stars: 9484
+total_stars: 9502
 language: Python
 ---
 
@@ -33,5 +33,5 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[nirdiamant-agents-towards-production]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[colbymchenry-codegraph]]
+[[colbymchenry-codegraph]] [[obra-superpowers]] [[nirdiamant-agents-towards-production]] [[tinyhumansai-openhuman]] [[imbad0202-academic-research-skills]]
 

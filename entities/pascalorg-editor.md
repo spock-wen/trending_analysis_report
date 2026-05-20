@@ -33,5 +33,5 @@ Create and share 3D architectural projects.
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[truelockmc-streambert]] [[rmyndharis-openwa]] [[rohitg00-agentmemory]] [[colbymchenry-codegraph]]
+[[truelockmc-streambert]] [[colbymchenry-codegraph]] [[rohitg00-agentmemory]] [[opentoonz-opentoonz]] [[can1357-oh-my-pi]]
 

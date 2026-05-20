@@ -13,7 +13,7 @@ consecutive_days: 1
 first_trending: 2026-05-21
 last_trending: 2026-05-21
 peak_rank: 12
-total_stars: 2930
+total_stars: 2950
 language: JavaScript
 ---
 
@@ -33,5 +33,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[anil-matcha-open-generative-ai]] [[rmyndharis-openwa]] [[pascalorg-editor]] [[opentoonz-opentoonz]] [[tryghost-ghost]]
+[[anil-matcha-open-generative-ai]] [[pascalorg-editor]] [[opentoonz-opentoonz]] [[rmyndharis-openwa]] [[tryghost-ghost]]
 

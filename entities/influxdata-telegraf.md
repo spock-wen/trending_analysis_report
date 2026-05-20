@@ -33,5 +33,5 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[nvidia-ai-blueprints-video-search-and-summarization]] [[hkuds-cli-anything]] [[obra-superpowers]] [[colbymchenry-codegraph]] [[tinyhumansai-openhuman]]
+[[knadh-listmonk]] [[colbymchenry-codegraph]] [[obra-superpowers]] [[tinyhumansai-openhuman]] [[plausible-analytics]]
 

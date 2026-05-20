@@ -33,5 +33,5 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[hkuds-cli-anything]] [[anthropics-claude-plugins-official]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
+[[dograh-hq-dograh]] [[colbymchenry-codegraph]] [[supertone-inc-supertonic]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
 

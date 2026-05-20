@@ -33,5 +33,5 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[cloakhq-cloakbrowser]] [[obra-superpowers]] [[rmyndharis-openwa]] [[rohitg00-agentmemory]]
+[[frappe-erpnext]] [[colbymchenry-codegraph]] [[obra-superpowers]] [[rohitg00-agentmemory]] [[diolinux-photogimp]]
 

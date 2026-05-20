@@ -33,5 +33,5 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[hkuds-cli-anything]] [[anthropics-claude-plugins-official]] [[anil-matcha-open-generative-ai]] [[nvlabs-sana]]
+[[anil-matcha-open-generative-ai]] [[dograh-hq-dograh]] [[colbymchenry-codegraph]] [[alishahryar1-free-claude-code]] [[supertone-inc-supertonic]]
 

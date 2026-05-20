@@ -13,7 +13,7 @@ consecutive_days: 4
 first_trending: 2026-05-18
 last_trending: 2026-05-21
 peak_rank: 2
-total_stars: 38503
+total_stars: 38511
 language: Python
 ---
 
@@ -36,5 +36,5 @@ language: Python
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[anthropics-claude-plugins-official]] [[msitarzewski-agency-agents]] [[cloakhq-cloakbrowser]] [[obra-superpowers]]
+[[colbymchenry-codegraph]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[tinyhumansai-openhuman]] [[can1357-oh-my-pi]]
 

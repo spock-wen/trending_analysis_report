@@ -34,5 +34,5 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[hkuds-cli-anything]] [[anthropics-claude-plugins-official]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
+[[frappe-erpnext]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[diolinux-photogimp]] [[can1357-oh-my-pi]]
 

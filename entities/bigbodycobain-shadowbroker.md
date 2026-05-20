@@ -34,5 +34,5 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[nvidia-ai-blueprints-video-search-and-summarization]] [[hkuds-cli-anything]] [[influxdata-telegraf]] [[anthropics-claude-plugins-official]] [[obra-superpowers]]
+[[colbymchenry-codegraph]] [[influxdata-telegraf]] [[obra-superpowers]] [[tinyhumansai-openhuman]] [[imbad0202-academic-research-skills]]
 

@@ -33,5 +33,5 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[tinyhumansai-openhuman]] [[hkuds-cli-anything]] [[tryghost-ghost]] [[nvlabs-sana]]
+[[nvlabs-sana]] [[hkuds-vimax]] [[hkuds-cli-anything]] [[obra-superpowers]] [[light-heart-labs-dreamserver]]
 

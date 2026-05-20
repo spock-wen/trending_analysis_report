@@ -33,5 +33,5 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[tinyhumansai-openhuman]] [[anil-matcha-open-generative-ai]] [[hkuds-cli-anything]] [[cloakhq-cloakbrowser]]
+[[nvlabs-sana]] [[hkuds-vimax]] [[hkuds-cli-anything]] [[imbad0202-academic-research-skills]] [[supertone-inc-supertonic]]
 

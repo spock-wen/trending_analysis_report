@@ -33,5 +33,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[pascalorg-editor]] [[anil-matcha-open-generative-ai]] [[oven-sh-bun]]
+[[oven-sh-bun]] [[pascalorg-editor]] [[anil-matcha-open-generative-ai]]
 

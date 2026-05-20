@@ -33,5 +33,5 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[tinyhumansai-openhuman]] [[hkuds-cli-anything]] [[cloakhq-cloakbrowser]] [[supertone-inc-supertonic]]
+[[rtk-ai-rtk]] [[hkuds-cli-anything]] [[imbad0202-academic-research-skills]] [[msitarzewski-agency-agents]] [[supertone-inc-supertonic]]
 

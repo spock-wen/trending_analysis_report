@@ -33,5 +33,5 @@ Shannon Lite is an autonomous, white-box AI pentester for web applications and A
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[tinyhumansai-openhuman]] [[hkuds-cli-anything]] [[humanlayer-12-factor-agents]] [[cloakhq-cloakbrowser]]
+[[pascalorg-editor]] [[hkuds-cli-anything]] [[msitarzewski-agency-agents]] [[diolinux-photogimp]] [[obra-superpowers]]
 

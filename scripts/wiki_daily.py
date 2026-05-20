@@ -530,10 +530,10 @@ def git_commit():
         print(f"  Commit: {result.stdout.strip() or result.stderr.strip()[:200]}")
 
 # ============ 第五步：飞书推送 ============
-# ============ LLM 深度分析 ============
-def llm_analyze():
-    """调用 LLM 对今日数据进行深度分析，返回分析文本"""
-    print(f"[4/5] LLM 深度分析...")
+# ============ LLM 深度分析 + 描述翻译 ============
+def llm_enrich():
+    """调用 LLM 对今日数据进行深度分析 + 描述翻译，返回 (analysis_text, desc_zh_dict)"""
+    print(f"[4/5] LLM 深度分析 + 描述翻译...")
     
     # 从 DB 读取今日和近期数据
     conn = sqlite3.connect(DB_PATH)
@@ -608,7 +608,14 @@ def llm_analyze():
         top3 = sorted(langs.items(), key=lambda x: -x[1])[:3]
         trend_lines.append(f"  {d}: {', '.join([f'{l}({c})' for l, c in top3])}")
     
-    prompt = f"""你是技术趋势分析师。基于今日 GitHub Trending 数据，输出深度分析。
+    # 项目列表（用于翻译）
+    repo_list = []
+    for p in today_projects:
+        repo = p['repo_full_name']
+        desc = p.get('description', '') or ''
+        repo_list.append(f"{repo}: {desc}")
+    
+    prompt = f"""你是技术趋势分析师。基于今日 GitHub Trending 数据，完成两个任务。
 
 ## 今日数据（{TODAY}）
 {len(today_projects)} 个项目上榜：
@@ -623,7 +630,7 @@ def llm_analyze():
 ## 每日项目数
 {chr(10).join([f"  {d['date']}: {d['count']}个" for d in daily_counts])}
 
-## 输出要求（严格按此格式，总字数≤400字）
+## 任务一：深度分析（≤400字）
 
 **🔍 趋势洞察**
 （2-3句：今天和近期比，什么在变？哪些领域升温/降温？）
@@ -634,14 +641,21 @@ def llm_analyze():
 **📌 行动建议**
 （1-2句：对全栈架构师来说，哪些值得深入看？）
 
-注意：
-- 不要复读项目描述，要有判断和分析
-- 用中文，术语保留英文
-- 不要用 markdown 标题（#），用加粗（**）代替"""
+## 任务二：项目描述翻译
+
+将以下项目描述翻译成简洁的中文（保留技术术语英文，每个≤30字）：
+
+{chr(10).join(repo_list)}
+
+输出格式（严格遵循）：
+
+---ANALYSIS---
+（深度分析内容）
+---DESCRIPTIONS---
+（每行一个：repo: 中文描述）"""
 
     # 调用 LLM API
     try:
-        # 读取 API 配置
         import yaml
         with open('/root/.hermes/profiles/radar/config.yaml') as f:
             cfg = yaml.safe_load(f)
@@ -653,7 +667,7 @@ def llm_analyze():
         
         if not api_key or not base_url:
             print(f"  LLM API 配置缺失，跳过分析")
-            return ""
+            return "", {}
         
         resp = requests.post(
             f'{base_url}/chat/completions',
@@ -661,32 +675,53 @@ def llm_analyze():
             json={
                 "model": model,
                 "messages": [
-                    {"role": "system", "content": "你是技术趋势分析师，输出简洁有洞察的中文分析。"},
+                    {"role": "system", "content": "你是技术趋势分析师，输出简洁有洞察的中文分析。严格按指定格式输出。"},
                     {"role": "user", "content": prompt}
                 ],
-                "max_tokens": 800,
+                "max_tokens": 1200,
                 "temperature": 0.7,
             },
-            timeout=30
+            timeout=60
         )
         
         if resp.status_code != 200:
             print(f"  LLM API 错误: {resp.status_code}")
-            return ""
+            return "", {}
         
         result = resp.json()
-        analysis = result.get('choices', [{}])[0].get('message', {}).get('content', '')
+        content = result.get('choices', [{}])[0].get('message', {}).get('content', '')
         
-        if analysis:
-            print(f"  分析完成: {len(analysis)} 字")
-            return analysis.strip()
-        else:
+        if not content:
             print(f"  LLM 返回空内容")
-            return ""
+            return "", {}
+        
+        # 解析输出
+        analysis = ""
+        desc_zh = {}
+        
+        if '---ANALYSIS---' in content and '---DESCRIPTIONS---' in content:
+            parts = content.split('---ANALYSIS---', 1)[1].split('---DESCRIPTIONS---', 1)
+            analysis = parts[0].strip()
+            desc_section = parts[1].strip()
+            
+            for line in desc_section.split('\n'):
+                line = line.strip()
+                if ':' in line and '/' in line:
+                    # 格式: owner/repo: 中文描述
+                    colon_idx = line.index(':')
+                    repo = line[:colon_idx].strip()
+                    zh_desc = line[colon_idx+1:].strip()
+                    desc_zh[repo] = zh_desc
+        else:
+            # 降级：整个内容作为分析
+            analysis = content.strip()
+        
+        print(f"  分析完成: {len(analysis)} 字, 翻译: {len(desc_zh)} 个项目")
+        return analysis, desc_zh
             
     except Exception as e:
         print(f"  LLM 分析失败: {e}")
-        return ""
+        return "", {}
 
 def push_feishu():
     print(f"[5/5] 飞书推送...")
@@ -733,8 +768,8 @@ def push_feishu():
                    for p in projects if (p.get('consecutive_days', 0) or 0) >= 2]
     consecutive.sort(key=lambda x: -x[1])
     
-    # LLM 分析
-    analysis = llm_analyze()
+    # LLM 分析 + 描述翻译
+    analysis, desc_zh = llm_enrich()
     
     # ===== 构建富文本 post =====
     rows = []
@@ -777,8 +812,8 @@ def push_feishu():
         lang = p.get('language', '?') or '?'
         stars = p.get('stars_today', '?')
         url = f"https://github.com/{repo}"
-        desc = p.get('description', '') or ''
-        # 截断过长描述
+        # 优先用 LLM 翻译的中文描述，降级用英文描述
+        desc = desc_zh.get(repo, p.get('description', '') or '')
         if len(desc) > 60:
             desc = desc[:57] + '...'
         rows.append([{"tag": "md", "text": f"**{rank}.** [{name}]({url}) — {desc}"}])

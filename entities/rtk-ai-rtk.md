@@ -13,7 +13,7 @@ consecutive_days: 1
 first_trending: 2026-05-20
 last_trending: 2026-05-20
 peak_rank: 8
-total_stars: 50917
+total_stars: 50925
 language: Rust
 ---
 
@@ -33,5 +33,5 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[tinyhumansai-openhuman]] [[hkuds-cli-anything]] [[obra-superpowers]] [[ruvnet-ruview]]
+[[oven-sh-bun]] [[hkuds-cli-anything]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[tinyhumansai-openhuman]]
 

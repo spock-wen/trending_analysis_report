@@ -34,5 +34,5 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[tinyhumansai-openhuman]] [[hkuds-cli-anything]] [[cloakhq-cloakbrowser]] [[anthropics-claude-plugins-official]]
+[[plausible-analytics]] [[hkuds-cli-anything]] [[imbad0202-academic-research-skills]] [[influxdata-telegraf]] [[anthropics-claude-plugins-official]]
 

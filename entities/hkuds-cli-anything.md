@@ -13,7 +13,7 @@ consecutive_days: 3
 first_trending: 2026-05-18
 last_trending: 2026-05-20
 peak_rank: 2
-total_stars: 37725
+total_stars: 37731
 language: Python
 ---
 
@@ -35,5 +35,5 @@ language: Python
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[tinyhumansai-openhuman]] [[cloakhq-cloakbrowser]] [[anthropics-claude-plugins-official]] [[obra-superpowers]]
+[[rtk-ai-rtk]] [[imbad0202-academic-research-skills]] [[msitarzewski-agency-agents]] [[diolinux-photogimp]] [[anthropics-claude-plugins-official]]
 

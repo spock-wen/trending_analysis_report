@@ -13,7 +13,7 @@ consecutive_days: 2
 first_trending: 2026-05-19
 last_trending: 2026-05-20
 peak_rank: 11
-total_stars: 21191
+total_stars: 21193
 language: TypeScript
 ---
 
@@ -34,5 +34,5 @@ What are the principles we can use to build LLM-powered software that is actuall
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[tinyhumansai-openhuman]] [[hkuds-cli-anything]] [[obra-superpowers]] [[pascalorg-editor]]
+[[pascalorg-editor]] [[hkuds-cli-anything]] [[obra-superpowers]] [[rohitg00-agentmemory]] [[tinyhumansai-openhuman]]
 

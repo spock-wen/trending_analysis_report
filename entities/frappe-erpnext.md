@@ -13,7 +13,7 @@ consecutive_days: 1
 first_trending: 2026-05-20
 last_trending: 2026-05-20
 peak_rank: 16
-total_stars: 34288
+total_stars: 34290
 language: Python
 ---
 
@@ -33,5 +33,5 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[cloakhq-cloakbrowser]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[imbad0202-academic-research-skills]]
+[[hkuds-cli-anything]] [[imbad0202-academic-research-skills]] [[diolinux-photogimp]] [[anthropics-claude-plugins-official]] [[obra-superpowers]]
 

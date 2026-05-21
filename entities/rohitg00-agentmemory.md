@@ -13,7 +13,7 @@ consecutive_days: 2
 first_trending: 2026-05-20
 last_trending: 2026-05-21
 peak_rank: 6
-total_stars: 15095
+total_stars: 15144
 language: TypeScript
 ---
 
@@ -29,10 +29,10 @@ language: TypeScript
 
 ## 上榜历史
 
-  - 2026-05-21: #15, +1121⭐
+  - 2026-05-21: #15, +1080⭐
   - 2026-05-20: #6, +1609⭐
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[obra-superpowers]] [[tinyhumansai-openhuman]] [[can1357-oh-my-pi]] [[rmyndharis-openwa]]
+[[rmyndharis-openwa]] [[hkuds-cli-anything]] [[tinyhumansai-openhuman]] [[obra-superpowers]] [[can1357-oh-my-pi]]
 

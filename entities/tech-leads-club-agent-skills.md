@@ -34,5 +34,5 @@ The secure, validated skill registry for professional AI coding agents. Extend A
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[obra-superpowers]] [[rohitg00-agentmemory]] [[tinyhumansai-openhuman]] [[can1357-oh-my-pi]]
+[[rmyndharis-openwa]] [[hkuds-cli-anything]] [[tinyhumansai-openhuman]] [[obra-superpowers]] [[rohitg00-agentmemory]]
 

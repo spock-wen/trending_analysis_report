@@ -1,6 +1,6 @@
 {
   "date": "2026-05-21",
-  "scraped_at": "2026-05-21T07:37:47.528238",
+  "scraped_at": "2026-05-21T09:04:50.213331",
   "period": "daily",
   "count": 15,
   "projects": [
@@ -9,8 +9,8 @@
       "repo": "colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_today": 1910,
-      "total_stars": 9387,
+      "stars_today": 2123,
+      "total_stars": 9597,
       "url": "https://github.com/colbymchenry/codegraph"
     },
     {
@@ -18,8 +18,8 @@
       "repo": "Imbad0202/academic-research-skills",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
-      "stars_today": 1639,
-      "total_stars": 16096,
+      "stars_today": 1667,
+      "total_stars": 16194,
       "url": "https://github.com/Imbad0202/academic-research-skills"
     },
     {
@@ -27,8 +27,8 @@
       "repo": "tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "stars_today": 3603,
-      "total_stars": 23565,
+      "stars_today": 3394,
+      "total_stars": 23651,
       "url": "https://github.com/tinyhumansai/openhuman"
     },
     {
@@ -36,8 +36,8 @@
       "repo": "multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
-      "stars_today": 2620,
-      "total_stars": 140719,
+      "stars_today": 2679,
+      "total_stars": 140854,
       "url": "https://github.com/multica-ai/andrej-karpathy-skills"
     },
     {
@@ -45,8 +45,8 @@
       "repo": "rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": 762,
-      "total_stars": 9502,
+      "stars_today": 765,
+      "total_stars": 9572,
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
     {
@@ -54,8 +54,8 @@
       "repo": "HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
-      "stars_today": 930,
-      "total_stars": 38511,
+      "stars_today": 890,
+      "total_stars": 38541,
       "url": "https://github.com/HKUDS/CLI-Anything"
     },
     {
@@ -63,8 +63,8 @@
       "repo": "can1357/oh-my-pi",
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "language": "TypeScript",
-      "stars_today": 237,
-      "total_stars": 5380,
+      "stars_today": 270,
+      "total_stars": 5415,
       "url": "https://github.com/can1357/oh-my-pi"
     },
     {
@@ -72,8 +72,8 @@
       "repo": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": 1776,
-      "total_stars": 199973,
+      "stars_today": 1743,
+      "total_stars": 200037,
       "url": "https://github.com/obra/superpowers"
     },
     {
@@ -81,8 +81,8 @@
       "repo": "anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": 706,
-      "total_stars": 20754,
+      "stars_today": 674,
+      "total_stars": 20794,
       "url": "https://github.com/anthropics/claude-plugins-official"
     },
     {
@@ -90,8 +90,8 @@
       "repo": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": 1714,
-      "total_stars": 102801,
+      "stars_today": 1636,
+      "total_stars": 102843,
       "url": "https://github.com/msitarzewski/agency-agents"
     },
     {
@@ -99,8 +99,8 @@
       "repo": "rmyndharis/OpenWA",
       "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
       "language": "TypeScript",
-      "stars_today": 726,
-      "total_stars": 4833,
+      "stars_today": 741,
+      "total_stars": 4867,
       "url": "https://github.com/rmyndharis/OpenWA"
     },
     {
@@ -108,8 +108,8 @@
       "repo": "truelockmc/streambert",
       "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
       "language": "JavaScript",
-      "stars_today": 652,
-      "total_stars": 2950,
+      "stars_today": 582,
+      "total_stars": 3027,
       "url": "https://github.com/truelockmc/streambert"
     },
     {
@@ -117,8 +117,8 @@
       "repo": "opentoonz/opentoonz",
       "description": "OpenToonz - An open-source full-featured 2D animation creation software",
       "language": "C++",
-      "stars_today": 206,
-      "total_stars": 6312,
+      "stars_today": 236,
+      "total_stars": 6348,
       "url": "https://github.com/opentoonz/opentoonz"
     },
     {
@@ -126,8 +126,8 @@
       "repo": "rohitg00/agentmemory",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
-      "stars_today": 1121,
-      "total_stars": 15095,
+      "stars_today": 1080,
+      "total_stars": 15144,
       "url": "https://github.com/rohitg00/agentmemory"
     },
     {
@@ -135,8 +135,8 @@
       "repo": "HKUDS/ViMax",
       "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
       "language": "Python",
-      "stars_today": 692,
-      "total_stars": 6033,
+      "stars_today": 674,
+      "total_stars": 6065,
       "url": "https://github.com/HKUDS/ViMax"
     }
   ]

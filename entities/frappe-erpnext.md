@@ -33,5 +33,5 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[obra-superpowers]] [[diolinux-photogimp]] [[imbad0202-academic-research-skills]] [[hkuds-cli-anything]] [[hkuds-vimax]]
+[[diolinux-photogimp]] [[anthropics-claude-plugins-official]] [[hkuds-vimax]] [[hkuds-cli-anything]] [[cloakhq-cloakbrowser]]
 

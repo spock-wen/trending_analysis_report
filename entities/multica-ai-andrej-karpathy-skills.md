@@ -13,7 +13,7 @@ consecutive_days: 2
 first_trending: 2026-05-20
 last_trending: 2026-05-21
 peak_rank: 4
-total_stars: 140719
+total_stars: 140854
 language: ?
 ---
 
@@ -29,10 +29,10 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 上榜历史
 
-  - 2026-05-21: #4, +2620⭐
+  - 2026-05-21: #4, +2679⭐
   - 2026-05-20: #11, +1955⭐
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[hkuds-cli-anything]] [[obra-superpowers]] [[tinyhumansai-openhuman]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[tinyhumansai-openhuman]] [[colbymchenry-codegraph]]
 

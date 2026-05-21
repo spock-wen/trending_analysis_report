@@ -13,7 +13,7 @@ consecutive_days: 1
 first_trending: 2026-05-21
 last_trending: 2026-05-21
 peak_rank: 11
-total_stars: 4833
+total_stars: 4867
 language: TypeScript
 ---
 
@@ -29,9 +29,9 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 上榜历史
 
-  - 2026-05-21: #11, +726⭐
+  - 2026-05-21: #11, +741⭐
 
 ## 相关项目
 
-[[pascalorg-editor]] [[truelockmc-streambert]] [[colbymchenry-codegraph]] [[rohitg00-agentmemory]] [[opentoonz-opentoonz]]
+[[truelockmc-streambert]] [[opentoonz-opentoonz]] [[pascalorg-editor]] [[rohitg00-agentmemory]] [[can1357-oh-my-pi]]
 

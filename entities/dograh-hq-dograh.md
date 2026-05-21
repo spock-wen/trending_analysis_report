@@ -33,5 +33,5 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[alishahryar1-free-claude-code]] [[supertone-inc-supertonic]] [[obra-superpowers]] [[light-heart-labs-dreamserver]]
+[[anthropics-claude-plugins-official]] [[hkuds-vimax]] [[hkuds-cli-anything]] [[light-heart-labs-dreamserver]] [[tinyhumansai-openhuman]]
 

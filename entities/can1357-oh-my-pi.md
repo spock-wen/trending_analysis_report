@@ -13,7 +13,7 @@ consecutive_days: 1
 first_trending: 2026-05-21
 last_trending: 2026-05-21
 peak_rank: 7
-total_stars: 5380
+total_stars: 5415
 language: TypeScript
 ---
 
@@ -29,9 +29,9 @@ language: TypeScript
 
 ## 上榜历史
 
-  - 2026-05-21: #7, +237⭐
+  - 2026-05-21: #7, +270⭐
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[rohitg00-agentmemory]] [[tinyhumansai-openhuman]]
+[[rmyndharis-openwa]] [[hkuds-cli-anything]] [[tinyhumansai-openhuman]] [[cloakhq-cloakbrowser]] [[msitarzewski-agency-agents]]
 

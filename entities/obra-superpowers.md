@@ -13,7 +13,7 @@ consecutive_days: 2
 first_trending: 2026-05-16
 last_trending: 2026-05-21
 peak_rank: 2
-total_stars: 199973
+total_stars: 200037
 language: Shell
 ---
 
@@ -29,11 +29,11 @@ An agentic skills framework & software development methodology that works.
 
 ## 上榜历史
 
-  - 2026-05-21: #8, +1776⭐
+  - 2026-05-21: #8, +1743⭐
   - 2026-05-20: #4, +1623⭐
   - 2026-05-16: #2, +1648⭐
 
 ## 相关项目
 
-[[frappe-erpnext]] [[colbymchenry-codegraph]] [[msitarzewski-agency-agents]] [[diolinux-photogimp]] [[tinyhumansai-openhuman]]
+[[diolinux-photogimp]] [[hkuds-cli-anything]] [[tinyhumansai-openhuman]] [[cloakhq-cloakbrowser]] [[msitarzewski-agency-agents]]
 

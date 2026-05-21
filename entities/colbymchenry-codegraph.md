@@ -13,7 +13,7 @@ consecutive_days: 2
 first_trending: 2026-05-18
 last_trending: 2026-05-21
 peak_rank: 1
-total_stars: 9387
+total_stars: 9597
 language: TypeScript
 ---
 
@@ -29,11 +29,11 @@ Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode �
 
 ## 上榜历史
 
-  - 2026-05-21: #1, +1910⭐
+  - 2026-05-21: #1, +2123⭐
   - 2026-05-20: #10, +1850⭐
   - 2026-05-18: #17, +860⭐
 
 ## 相关项目
 
-[[obra-superpowers]] [[rohitg00-agentmemory]] [[tinyhumansai-openhuman]] [[can1357-oh-my-pi]] [[rmyndharis-openwa]]
+[[rmyndharis-openwa]] [[hkuds-cli-anything]] [[tinyhumansai-openhuman]] [[obra-superpowers]] [[rohitg00-agentmemory]]
 

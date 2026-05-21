@@ -13,7 +13,7 @@ consecutive_days: 1
 first_trending: 2026-05-21
 last_trending: 2026-05-21
 peak_rank: 5
-total_stars: 9502
+total_stars: 9572
 language: Python
 ---
 
@@ -29,9 +29,9 @@ Learn it. Build it. Ship it for others.
 
 ## 上榜历史
 
-  - 2026-05-21: #5, +762⭐
+  - 2026-05-21: #5, +765⭐
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[obra-superpowers]] [[nirdiamant-agents-towards-production]] [[tinyhumansai-openhuman]] [[imbad0202-academic-research-skills]]
+[[anthropics-claude-plugins-official]] [[hkuds-vimax]] [[hkuds-cli-anything]] [[tinyhumansai-openhuman]] [[microsoft-ai-agents-for-beginners]]
 

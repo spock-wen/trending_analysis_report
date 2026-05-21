@@ -13,7 +13,7 @@ consecutive_days: 2
 first_trending: 2026-05-20
 last_trending: 2026-05-21
 peak_rank: 17
-total_stars: 6033
+total_stars: 6065
 language: Python
 ---
 
@@ -29,10 +29,10 @@ language: Python
 
 ## 上榜历史
 
-  - 2026-05-21: #17, +692⭐
+  - 2026-05-21: #17, +674⭐
   - 2026-05-20: #18, +503⭐
 
 ## 相关项目
 
-[[anil-matcha-open-generative-ai]] [[colbymchenry-codegraph]] [[obra-superpowers]] [[light-heart-labs-dreamserver]] [[tinyhumansai-openhuman]]
+[[anthropics-claude-plugins-official]] [[light-heart-labs-dreamserver]] [[hkuds-cli-anything]] [[anil-matcha-open-generative-ai]] [[tinyhumansai-openhuman]]
 

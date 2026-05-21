@@ -13,7 +13,7 @@ consecutive_days: 2
 first_trending: 2026-05-20
 last_trending: 2026-05-21
 peak_rank: 9
-total_stars: 102801
+total_stars: 102843
 language: Shell
 ---
 
@@ -29,10 +29,10 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 上榜历史
 
-  - 2026-05-21: #10, +1714⭐
+  - 2026-05-21: #10, +1636⭐
   - 2026-05-20: #9, +1120⭐
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[obra-superpowers]] [[tinyhumansai-openhuman]] [[can1357-oh-my-pi]] [[hkuds-cli-anything]]
+[[hkuds-cli-anything]] [[tinyhumansai-openhuman]] [[cloakhq-cloakbrowser]] [[obra-superpowers]] [[mattpocock-skills]]
 

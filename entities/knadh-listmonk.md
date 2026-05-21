@@ -33,5 +33,5 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[influxdata-telegraf]] [[colbymchenry-codegraph]] [[obra-superpowers]] [[tinyhumansai-openhuman]] [[hkuds-cli-anything]]
+[[hkuds-cli-anything]] [[tinyhumansai-openhuman]] [[obra-superpowers]] [[colbymchenry-codegraph]] [[influxdata-telegraf]]
 

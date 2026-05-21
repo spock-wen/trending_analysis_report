@@ -33,5 +33,5 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[bigbodycobain-shadowbroker]] [[hkuds-vimax]] [[hkuds-cli-anything]] [[tinyhumansai-openhuman]]
+[[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[bigbodycobain-shadowbroker]] [[hkuds-cli-anything]] [[plausible-analytics]]
 

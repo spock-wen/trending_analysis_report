@@ -33,5 +33,5 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[truelockmc-streambert]] [[colbymchenry-codegraph]] [[hkuds-vimax]] [[hkuds-cli-anything]] [[light-heart-labs-dreamserver]]
+[[tryghost-ghost]] [[hkuds-cli-anything]] [[truelockmc-streambert]] [[hkuds-vimax]] [[obra-superpowers]]
 

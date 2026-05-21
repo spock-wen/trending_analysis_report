@@ -35,5 +35,5 @@ language: Jupyter Notebook
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[hkuds-cli-anything]] [[tinyhumansai-openhuman]] [[nirdiamant-agents-towards-production]] [[obra-superpowers]]
+[[rohitg00-ai-engineering-from-scratch]] [[hkuds-cli-anything]] [[nirdiamant-agents-towards-production]] [[lum1104-understand-anything]] [[obra-superpowers]]
 

@@ -34,5 +34,5 @@ language: Python
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[light-heart-labs-dreamserver]] [[hkuds-cli-anything]] [[anil-matcha-open-generative-ai]] [[tinyhumansai-openhuman]]
+[[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[imbad0202-academic-research-skills]] [[obra-superpowers]]
 

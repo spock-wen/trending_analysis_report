@@ -35,5 +35,5 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[hkuds-vimax]] [[hkuds-cli-anything]] [[tinyhumansai-openhuman]] [[imbad0202-academic-research-skills]]
+[[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[imbad0202-academic-research-skills]] [[obra-superpowers]]
 

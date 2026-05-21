@@ -33,5 +33,5 @@ Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat art
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[hkuds-vimax]] [[hkuds-cli-anything]] [[tinyhumansai-openhuman]] [[cloakhq-cloakbrowser]]
+[[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[imbad0202-academic-research-skills]]
 

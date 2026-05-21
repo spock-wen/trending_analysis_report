@@ -33,5 +33,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[truelockmc-streambert]] [[opentoonz-opentoonz]] [[pascalorg-editor]] [[rmyndharis-openwa]] [[anil-matcha-open-generative-ai]]
+[[truelockmc-streambert]] [[opentoonz-opentoonz]] [[anil-matcha-open-generative-ai]] [[pascalorg-editor]] [[rmyndharis-openwa]]
 

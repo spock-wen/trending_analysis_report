@@ -34,5 +34,5 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[diolinux-photogimp]] [[anthropics-claude-plugins-official]] [[hkuds-vimax]] [[hkuds-cli-anything]] [[msitarzewski-agency-agents]]
+[[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[plausible-analytics]]
 

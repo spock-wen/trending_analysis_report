@@ -34,5 +34,5 @@ language: Rust
 
 ## 相关项目
 
-[[nirdiamant-agents-towards-production]] [[oven-sh-bun]] [[tinyhumansai-openhuman]] [[rtk-ai-rtk]]
+[[tinyhumansai-openhuman]] [[nirdiamant-agents-towards-production]] [[rtk-ai-rtk]] [[oven-sh-bun]]
 

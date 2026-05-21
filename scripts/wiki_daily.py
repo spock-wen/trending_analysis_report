@@ -732,20 +732,17 @@ def push_feishu():
     )
     APP_SECRET = result.stdout.strip()
     APP_ID = 'cli_a916e5b5a1b8dcd4'
-    print(f"  [DEBUG] APP_SECRET len={len(APP_SECRET)}")
     
     resp = requests.post(
         'https://open.feishu.cn/open-apis/auth/v3/tenant_access_token/internal',
         json={"app_id": APP_ID, "app_secret": APP_SECRET}, timeout=10
     )
     tenant_token = resp.json().get('tenant_access_token', '')
-    print(f"  [DEBUG] token={'OK' if tenant_token else 'FAILED'}")
     if not tenant_token:
         print(f"  Token 获取失败: {resp.json()}")
         return False
     
     # 从 DB 读取今日数据
-    print(f"  [DEBUG] 查询 DB...")
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
     cursor = conn.execute('''
@@ -758,7 +755,6 @@ def push_feishu():
     ''', (TODAY, 'daily'))
     projects = [dict(row) for row in cursor.fetchall()]
     conn.close()
-    print(f"  [DEBUG] projects={len(projects)}")
     
     # 语言分布
     lang_count = defaultdict(int)
@@ -773,12 +769,9 @@ def push_feishu():
     consecutive.sort(key=lambda x: -x[1])
     
     # LLM 分析 + 描述翻译
-    print(f"  [DEBUG] 调用 llm_enrich...")
     analysis, desc_zh = llm_enrich()
-    print(f"  [DEBUG] llm_enrich 返回, analysis len={len(analysis)}, desc_zh count={len(desc_zh)}")
     
     # ===== 构建富文本 post =====
-    print(f"  [DEBUG] 构建 rows...")
     rows = []
     
     # 标题

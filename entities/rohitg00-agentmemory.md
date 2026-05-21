@@ -34,5 +34,5 @@ language: TypeScript
 
 ## 相关项目
 
-[[rmyndharis-openwa]] [[hkuds-cli-anything]] [[tinyhumansai-openhuman]] [[obra-superpowers]] [[can1357-oh-my-pi]]
+[[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[obra-superpowers]] [[imbad0202-academic-research-skills]] [[chromedevtools-chrome-devtools-mcp]]
 

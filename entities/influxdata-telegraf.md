@@ -33,5 +33,5 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[knadh-listmonk]] [[bigbodycobain-shadowbroker]] [[hkuds-cli-anything]] [[tinyhumansai-openhuman]] [[obra-superpowers]]
+[[knadh-listmonk]] [[multica-ai-multica]] [[bigbodycobain-shadowbroker]] [[hkuds-cli-anything]] [[plausible-analytics]]
 

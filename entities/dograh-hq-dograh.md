@@ -33,5 +33,5 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[hkuds-vimax]] [[hkuds-cli-anything]] [[light-heart-labs-dreamserver]] [[tinyhumansai-openhuman]]
+[[supertone-inc-supertonic]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]]
 

@@ -33,5 +33,5 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[diolinux-photogimp]] [[rohitg00-ai-engineering-from-scratch]] [[hkuds-cli-anything]] [[tinyhumansai-openhuman]] [[microsoft-ai-agents-for-beginners]]
+[[ruvnet-ruview]] [[rohitg00-ai-engineering-from-scratch]] [[hkuds-cli-anything]] [[microsoft-ai-agents-for-beginners]] [[lum1104-understand-anything]]
 

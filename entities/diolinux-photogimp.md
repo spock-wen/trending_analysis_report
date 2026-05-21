@@ -33,5 +33,5 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[cloakhq-cloakbrowser]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[can1357-oh-my-pi]]
+[[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]]
 

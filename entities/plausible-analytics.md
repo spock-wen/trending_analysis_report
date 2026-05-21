@@ -34,5 +34,5 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[bigbodycobain-shadowbroker]] [[hkuds-cli-anything]] [[cloakhq-cloakbrowser]] [[msitarzewski-agency-agents]] [[can1357-oh-my-pi]]
+[[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[msitarzewski-agency-agents]] [[chromedevtools-chrome-devtools-mcp]] [[cloakhq-cloakbrowser]]
 

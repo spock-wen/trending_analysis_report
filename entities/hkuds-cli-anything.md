@@ -1,19 +1,19 @@
 ---
 title: "HKUDS/CLI-Anything"
 created: 2026-05-18
-updated: 2026-05-21
+updated: 2026-05-22
 type: tool
 tags: [python, ai-agent, web, cli, rising]
-sources: [raw/trending/2026-05-21.json]
+sources: [raw/trending/2026-05-22.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 4
+consecutive_days: 5
 first_trending: 2026-05-18
-last_trending: 2026-05-21
+last_trending: 2026-05-22
 peak_rank: 2
-total_stars: 38541
+total_stars: 39086
 language: Python
 ---
 
@@ -22,13 +22,14 @@ language: Python
 "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 
 - 语言: Python
-- 上榜次数: 4 次
-- 连续上榜: 4 天
+- 上榜次数: 5 次
+- 连续上榜: 5 天
 - 最高排名: #2
 - 链接: [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 
 ## 上榜历史
 
+  - 2026-05-22: #6, +644⭐
   - 2026-05-21: #6, +890⭐
   - 2026-05-20: #2, +1038⭐
   - 2026-05-19: #3, +1049⭐
@@ -36,5 +37,5 @@ language: Python
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[hkuds-vimax]] [[tinyhumansai-openhuman]] [[cloakhq-cloakbrowser]] [[msitarzewski-agency-agents]]
+[[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[can1357-oh-my-pi]] [[imbad0202-academic-research-skills]] [[obra-superpowers]]
 

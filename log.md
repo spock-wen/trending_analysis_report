@@ -253,3 +253,30 @@
 - 连续 2 天上榜: multica-ai/andrej-karpathy-skills
 - 连续 2 天上榜: HKUDS/ViMax
 - 当日 star 增长 Top 3: tinyhumansai/openhuman +3394⭐, multica-ai/andrej-karpathy-skills +2679⭐, colbymchenry/codegraph +2123⭐
+
+## [2026-05-22] update | GitHub Trending 日报
+- 采集 19 个项目（raw/trending/2026-05-22.json）
+- 新建 entity: 8 个（dotnet/skills, ChromeDevTools/chrome-devtools-mcp, teng-lin/notebooklm-py, antoinezambelli/forge, multica-ai/multica...）
+- 趋势: Python 6个, TypeScript 5个, Go 2个, Shell 2个, 其他 2个
+- 连续 5 天上榜: HKUDS/CLI-Anything
+- 连续 4 天上榜: tinyhumansai/openhuman
+- 连续 4 天上榜: Imbad0202/academic-research-skills
+- 连续 3 天上榜: obra/superpowers
+- 连续 3 天上榜: colbymchenry/codegraph
+- 连续 3 天上榜: microsoft/ai-agents-for-beginners
+- 连续 3 天上榜: anthropics/claude-plugins-official
+- 连续 3 天上榜: msitarzewski/agency-agents
+- 连续 3 天上榜: multica-ai/andrej-karpathy-skills
+- 连续 2 天上榜: K-Dense-AI/scientific-agent-skills
+- 连续 2 天上榜: BigBodyCobain/Shadowbroker
+- 连续 2 天上榜: tech-leads-club/agent-skills
+- 连续 2 天上榜: plausible/analytics
+- 连续 2 天上榜: CloakHQ/CloakBrowser
+- 连续 2 天上榜: humanlayer/12-factor-agents
+- 连续 2 天上榜: rohitg00/agentmemory
+- 连续 2 天上榜: HKUDS/ViMax
+- 连续 2 天上榜: rohitg00/ai-engineering-from-scratch
+- 连续 2 天上榜: can1357/oh-my-pi
+- 连续 2 天上榜: rmyndharis/OpenWA
+- 连续 2 天上榜: truelockmc/streambert
+- 当日 star 增长 Top 3: colbymchenry/codegraph +4222⭐, multica-ai/andrej-karpathy-skills +2590⭐, Imbad0202/academic-research-skills +2502⭐

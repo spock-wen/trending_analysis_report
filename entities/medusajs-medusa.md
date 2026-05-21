@@ -33,5 +33,5 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[diolinux-photogimp]] [[rmyndharis-openwa]] [[cloakhq-cloakbrowser]] [[obra-superpowers]] [[rohitg00-agentmemory]]
+[[can1357-oh-my-pi]] [[obra-superpowers]] [[diolinux-photogimp]] [[chromedevtools-chrome-devtools-mcp]] [[cloakhq-cloakbrowser]]
 

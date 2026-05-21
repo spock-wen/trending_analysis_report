@@ -34,5 +34,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
 
 ## 相关项目
 
-[[truelockmc-streambert]] [[rmyndharis-openwa]] [[opentoonz-opentoonz]] [[pascalorg-editor]] [[tinyhumansai-openhuman]]
+[[ruvnet-ruview]] [[tinyhumansai-openhuman]] [[truelockmc-streambert]] [[rtk-ai-rtk]] [[opentoonz-opentoonz]]
 

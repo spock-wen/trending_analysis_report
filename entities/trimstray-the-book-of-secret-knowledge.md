@@ -14,7 +14,7 @@ first_trending: 2026-05-22
 last_trending: 2026-05-22
 peak_rank: 15
 total_stars: 222380
-language: ?
+language: ""
 ---
 
 # trimstray/the-book-of-secret-knowledge

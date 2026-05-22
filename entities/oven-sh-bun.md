@@ -3,7 +3,7 @@ title: "oven-sh/bun"
 created: 2026-05-16
 updated: 2026-05-18
 type: tool
-tags: [rust, uncategorized]
+tags: [rust]
 sources: [raw/trending/2026-05-18.json]
 confidence: medium
 trending_count_daily: 2

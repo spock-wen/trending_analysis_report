@@ -4,6 +4,7 @@ created: unknown
 updated: 2026-05-22
 type: concept
 tags: [cli]
+confidence: medium
 ---
 
 # cli

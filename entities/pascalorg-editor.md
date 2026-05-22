@@ -3,7 +3,7 @@ title: "pascalorg/editor"
 created: 2026-05-20
 updated: 2026-05-20
 type: tool
-tags: [typescript, uncategorized]
+tags: [typescript]
 sources: [raw/trending/2026-05-20.json]
 confidence: low
 trending_count_daily: 1

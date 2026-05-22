@@ -38,7 +38,7 @@ def detect_domains(repo, desc, language=''):
     for domain, keywords in DOMAIN_KEYWORDS.items():
         if any(kw in text for kw in keywords):
             domains.append(domain)
-    return domains if domains else ['uncategorized']
+    return domains  # empty list means no domain detected, don't add meaningless tag
 
 # ============ 第一步：采集 ============
 def collect():
@@ -260,8 +260,8 @@ consecutive_days: {consec}
 first_trending: {r.get('first_seen', TODAY)}
 last_trending: {r.get('last_seen', TODAY)}
 peak_rank: {r.get('peak_rank', 0) or 0}
-total_stars: {r.get('last_stars', '?') or '?'}
-language: {lang or '?'}
+total_stars: {r.get('last_stars', 0) or 0}
+language: "{lang}"
 ---"""
         
         # Body
@@ -269,7 +269,7 @@ language: {lang or '?'}
 
 {r.get('description', '') or 'No description'}
 
-- 语言: {lang or '?'}
+- 语言: {lang if lang else '未标注'}
 - 上榜次数: {count} 次
 - 连续上榜: {consec} 天
 - 最高排名: #{r.get('peak_rank', '?') or '?'}
@@ -345,6 +345,7 @@ created: {TODAY if is_new else 'unknown'}
 updated: {TODAY}
 type: concept
 tags: [{domain}]
+confidence: medium
 ---"""
         
         body = f"""# {domain}

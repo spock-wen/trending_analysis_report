@@ -4,6 +4,7 @@ created: unknown
 updated: 2026-05-22
 type: concept
 tags: [ai-agent]
+confidence: medium
 ---
 
 # ai-agent

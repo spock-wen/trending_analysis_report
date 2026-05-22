@@ -3,7 +3,7 @@ title: "TryGhost/Ghost"
 created: 2026-05-18
 updated: 2026-05-18
 type: tool
-tags: [uncategorized]
+tags: [tool]
 sources: [raw/trending/2026-05-18.json]
 confidence: low
 trending_count_daily: 1

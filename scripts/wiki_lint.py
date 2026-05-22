@@ -25,7 +25,8 @@ VALID_CONFIDENCE = ['high', 'medium', 'low']
 # Tag taxonomy (from SCHEMA.md)
 VALID_TAGS = {
     'ai-agent', 'llm', 'web', 'cli', 'mobile', 'data', 'devops', 'security', 'game',
-    'blockchain', 'iot', 'ar-vr', 'education', 'healthcare', 'finance',
+    'blockchain', 'iot', 'ar-vr', 'education', 'healthcare', 'finance', 'erp', 'science',
+    'image-gen', 'audio', 'video', 'nlp', 'computer-vision', 'search',
     'rust', 'python', 'typescript', 'go', 'java', 'cpp', 'c', 'zig', 'ruby', 'php',
     'swift', 'kotlin', 'dart', 'shell',
     'framework', 'tool', 'library', 'app', 'model', 'dataset', 'benchmark', 'tutorial', 'awesome-list',

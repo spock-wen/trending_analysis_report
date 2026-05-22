@@ -14,7 +14,7 @@ first_trending: 2026-05-20
 last_trending: 2026-05-22
 peak_rank: 3
 total_stars: 143052
-language: ?
+language: ""
 ---
 
 # multica-ai/andrej-karpathy-skills

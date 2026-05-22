@@ -14,7 +14,7 @@ first_trending: 2026-05-20
 last_trending: 2026-05-21
 peak_rank: 17
 total_stars: 6065
-language: Python
+language: "Python"
 ---
 
 # HKUDS/ViMax
@@ -34,5 +34,5 @@ language: Python
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[imbad0202-academic-research-skills]] [[obra-superpowers]]
+[[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[nvlabs-sana]] [[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]]
 

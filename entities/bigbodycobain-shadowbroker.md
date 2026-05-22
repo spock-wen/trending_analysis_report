@@ -14,7 +14,7 @@ first_trending: 2026-05-18
 last_trending: 2026-05-19
 peak_rank: 6
 total_stars: 7723
-language: Python
+language: "Python"
 ---
 
 # BigBodyCobain/Shadowbroker
@@ -34,5 +34,5 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[plausible-analytics]] [[imbad0202-academic-research-skills]]
+[[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]] [[anthropics-claude-plugins-official]]
 

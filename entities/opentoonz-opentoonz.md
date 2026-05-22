@@ -14,7 +14,7 @@ first_trending: 2026-05-21
 last_trending: 2026-05-21
 peak_rank: 13
 total_stars: 6348
-language: C++
+language: "C++"
 ---
 
 # opentoonz/opentoonz
@@ -33,5 +33,5 @@ OpenToonz - An open-source full-featured 2D animation creation software
 
 ## 相关项目
 
-[[pascalorg-editor]] [[truelockmc-streambert]] [[rmyndharis-openwa]]
+- 暂无
 

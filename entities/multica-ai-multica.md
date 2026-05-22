@@ -14,7 +14,7 @@ first_trending: 2026-05-22
 last_trending: 2026-05-22
 peak_rank: 13
 total_stars: 30686
-language: Go
+language: "Go"
 ---
 
 # multica-ai/multica
@@ -33,5 +33,5 @@ The open-source managed agents platform. Turn coding agents into real teammates 
 
 ## 相关项目
 
-[[knadh-listmonk]] [[hkuds-cli-anything]] [[obra-superpowers]] [[imbad0202-academic-research-skills]] [[influxdata-telegraf]]
+[[alireza0-s-ui]] [[rohitg00-ai-engineering-from-scratch]] [[can1357-oh-my-pi]] [[colbymchenry-codegraph]] [[knadh-listmonk]]
 

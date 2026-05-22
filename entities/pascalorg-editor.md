@@ -14,7 +14,7 @@ first_trending: 2026-05-20
 last_trending: 2026-05-20
 peak_rank: 15
 total_stars: 15895
-language: TypeScript
+language: "TypeScript"
 ---
 
 # pascalorg/editor
@@ -33,5 +33,5 @@ Create and share 3D architectural projects.
 
 ## 相关项目
 
-[[truelockmc-streambert]] [[can1357-oh-my-pi]] [[chromedevtools-chrome-devtools-mcp]] [[opentoonz-opentoonz]] [[colbymchenry-codegraph]]
+[[chromedevtools-chrome-devtools-mcp]] [[lum1104-understand-anything]] [[colbymchenry-codegraph]] [[can1357-oh-my-pi]]
 

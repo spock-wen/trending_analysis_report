@@ -14,7 +14,7 @@ first_trending: 2026-05-16
 last_trending: 2026-05-16
 peak_rank: 12
 total_stars: 2907
-language: Python
+language: "Python"
 ---
 
 # joeseesun/qiaomu-anything-to-notebooklm
@@ -33,5 +33,5 @@ Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat art
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[imbad0202-academic-research-skills]]
+[[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[trimstray-the-book-of-secret-knowledge]] [[colbymchenry-codegraph]]
 

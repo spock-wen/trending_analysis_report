@@ -14,7 +14,7 @@ first_trending: 2026-05-16
 last_trending: 2026-05-21
 peak_rank: 1
 total_stars: 23651
-language: Rust
+language: "Rust"
 ---
 
 # tinyhumansai/openhuman
@@ -37,5 +37,5 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[hkuds-cli-anything]] [[rtk-ai-rtk]] [[obra-superpowers]] [[imbad0202-academic-research-skills]]
+[[oven-sh-bun]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[colbymchenry-codegraph]] [[ruvnet-ruview]]
 

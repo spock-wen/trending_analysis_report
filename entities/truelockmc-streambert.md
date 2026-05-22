@@ -14,7 +14,7 @@ first_trending: 2026-05-21
 last_trending: 2026-05-22
 peak_rank: 12
 total_stars: 3932
-language: JavaScript
+language: "JavaScript"
 ---
 
 # truelockmc/streambert
@@ -34,5 +34,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[tryghost-ghost]] [[opentoonz-opentoonz]] [[anil-matcha-open-generative-ai]] [[pascalorg-editor]] [[rmyndharis-openwa]]
+[[tryghost-ghost]] [[anil-matcha-open-generative-ai]]
 

@@ -14,7 +14,7 @@ first_trending: 2026-05-16
 last_trending: 2026-05-16
 peak_rank: 8
 total_stars: 20971
-language: TypeScript
+language: "TypeScript"
 ---
 
 # czlonkowski/n8n-mcp
@@ -33,5 +33,5 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[obra-superpowers]] [[imbad0202-academic-research-skills]] [[chromedevtools-chrome-devtools-mcp]]
+[[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[colbymchenry-codegraph]] [[chromedevtools-chrome-devtools-mcp]]
 

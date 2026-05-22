@@ -14,7 +14,7 @@ first_trending: 2026-05-18
 last_trending: 2026-05-18
 peak_rank: 5
 total_stars: 15075
-language: JavaScript
+language: "JavaScript"
 ---
 
 # Anil-matcha/Open-Generative-AI
@@ -33,5 +33,5 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[tryghost-ghost]] [[hkuds-cli-anything]] [[truelockmc-streambert]] [[hkuds-vimax]] [[obra-superpowers]]
+[[tryghost-ghost]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[hkuds-vimax]] [[nvlabs-sana]]
 

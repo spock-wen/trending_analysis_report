@@ -14,7 +14,7 @@ first_trending: 2026-05-18
 last_trending: 2026-05-19
 peak_rank: 15
 total_stars: 25967
-language: Elixir
+language: "Elixir"
 ---
 
 # plausible/analytics
@@ -34,5 +34,5 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[msitarzewski-agency-agents]] [[chromedevtools-chrome-devtools-mcp]] [[cloakhq-cloakbrowser]]
+[[bigbodycobain-shadowbroker]] [[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[cloakhq-cloakbrowser]] [[trimstray-the-book-of-secret-knowledge]]
 

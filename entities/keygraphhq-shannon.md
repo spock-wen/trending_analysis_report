@@ -14,7 +14,7 @@ first_trending: 2026-05-18
 last_trending: 2026-05-18
 peak_rank: 12
 total_stars: 42691
-language: TypeScript
+language: "TypeScript"
 ---
 
 # KeygraphHQ/shannon
@@ -33,5 +33,5 @@ Shannon Lite is an autonomous, white-box AI pentester for web applications and A
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[obra-superpowers]] [[imbad0202-academic-research-skills]] [[msitarzewski-agency-agents]]
+[[lum1104-understand-anything]] [[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[trimstray-the-book-of-secret-knowledge]]
 

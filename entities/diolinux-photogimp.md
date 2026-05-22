@@ -14,7 +14,7 @@ first_trending: 2026-05-20
 last_trending: 2026-05-20
 peak_rank: 13
 total_stars: 10795
-language: CSS
+language: "CSS"
 ---
 
 # Diolinux/PhotoGIMP
@@ -33,5 +33,5 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]]
+[[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[cloakhq-cloakbrowser]] [[trimstray-the-book-of-secret-knowledge]] [[obra-superpowers]]
 

@@ -14,7 +14,7 @@ first_trending: 2026-05-19
 last_trending: 2026-05-22
 peak_rank: 2
 total_stars: 18122
-language: Python
+language: "Python"
 ---
 
 # Imbad0202/academic-research-skills
@@ -36,5 +36,5 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[obra-superpowers]]
+[[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]] [[anthropics-claude-plugins-official]]
 

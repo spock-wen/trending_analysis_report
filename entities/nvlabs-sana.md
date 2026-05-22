@@ -14,7 +14,7 @@ first_trending: 2026-05-19
 last_trending: 2026-05-19
 peak_rank: 12
 total_stars: 6519
-language: Python
+language: "Python"
 ---
 
 # NVlabs/Sana
@@ -33,5 +33,5 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[hkuds-vimax]] [[imbad0202-academic-research-skills]]
+[[hkuds-vimax]] [[rohitg00-ai-engineering-from-scratch]] [[fincept-corporation-finceptterminal]] [[anthropics-claude-plugins-official]] [[odoo-odoo]]
 

@@ -14,7 +14,7 @@ first_trending: 2026-05-16
 last_trending: 2026-05-16
 peak_rank: 11
 total_stars: 85724
-language: Shell
+language: "Shell"
 ---
 
 # mattpocock/skills
@@ -33,5 +33,5 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[imbad0202-academic-research-skills]]
+[[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[trimstray-the-book-of-secret-knowledge]] [[colbymchenry-codegraph]]
 

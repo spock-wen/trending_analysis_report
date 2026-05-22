@@ -14,7 +14,7 @@ first_trending: 2026-05-16
 last_trending: 2026-05-18
 peak_rank: 4
 total_stars: 91706
-language: Rust
+language: "Rust"
 ---
 
 # oven-sh/bun
@@ -34,5 +34,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[tinyhumansai-openhuman]] [[truelockmc-streambert]] [[rtk-ai-rtk]] [[opentoonz-opentoonz]]
+[[ruvnet-ruview]] [[rtk-ai-rtk]] [[tinyhumansai-openhuman]]
 

@@ -14,7 +14,7 @@ first_trending: 2026-05-22
 last_trending: 2026-05-22
 peak_rank: 10
 total_stars: 14355
-language: Python
+language: "Python"
 ---
 
 # teng-lin/notebooklm-py
@@ -33,5 +33,5 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[imbad0202-academic-research-skills]]
+[[lum1104-understand-anything]] [[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[trimstray-the-book-of-secret-knowledge]]
 

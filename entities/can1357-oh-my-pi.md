@@ -1,20 +1,20 @@
 ---
 title: "can1357/oh-my-pi"
 created: 2026-05-21
-updated: 2026-05-22
+updated: 2026-05-23
 type: tool
-tags: [typescript, ai-agent, web, cli]
-sources: [raw/trending/2026-05-22.json]
-confidence: medium
-trending_count_daily: 2
+tags: [typescript, ai-agent, web, cli, rising]
+sources: [raw/trending/2026-05-23.json]
+confidence: high
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 3
 first_trending: 2026-05-21
-last_trending: 2026-05-22
+last_trending: 2026-05-23
 peak_rank: 7
-total_stars: 5822
-language: TypeScript
+total_stars: 6317
+language: "TypeScript"
 ---
 
 # can1357/oh-my-pi
@@ -22,17 +22,18 @@ language: TypeScript
 ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 
 - 语言: TypeScript
-- 上榜次数: 2 次
-- 连续上榜: 2 天
+- 上榜次数: 3 次
+- 连续上榜: 3 天
 - 最高排名: #7
 - 链接: [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
 
 ## 上榜历史
 
+  - 2026-05-23: #12, +455⭐
   - 2026-05-22: #11, +483⭐
   - 2026-05-21: #7, +270⭐
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[obra-superpowers]] [[imbad0202-academic-research-skills]] [[msitarzewski-agency-agents]] [[chromedevtools-chrome-devtools-mcp]]
+[[lum1104-understand-anything]] [[hkuds-cli-anything]] [[rohitg00-ai-engineering-from-scratch]] [[trimstray-the-book-of-secret-knowledge]] [[colbymchenry-codegraph]]
 

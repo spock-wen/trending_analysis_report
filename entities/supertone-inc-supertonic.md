@@ -14,7 +14,7 @@ first_trending: 2026-05-16
 last_trending: 2026-05-19
 peak_rank: 4
 total_stars: 8338
-language: Swift
+language: "Swift"
 ---
 
 # supertone-inc/supertonic
@@ -34,5 +34,5 @@ Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 
 ## 相关项目
 
-[[light-heart-labs-dreamserver]] [[dograh-hq-dograh]] [[alishahryar1-free-claude-code]]
+[[yt-dlp-yt-dlp]] [[alishahryar1-free-claude-code]] [[dograh-hq-dograh]]
 

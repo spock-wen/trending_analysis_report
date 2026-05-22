@@ -14,7 +14,7 @@ first_trending: 2026-05-16
 last_trending: 2026-05-19
 peak_rank: 3
 total_stars: 24387
-language: Python
+language: "Python"
 ---
 
 # K-Dense-AI/scientific-agent-skills
@@ -35,5 +35,5 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[imbad0202-academic-research-skills]] [[obra-superpowers]]
+[[imbad0202-academic-research-skills]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]]
 

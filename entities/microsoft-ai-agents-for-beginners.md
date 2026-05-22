@@ -14,7 +14,7 @@ first_trending: 2026-05-18
 last_trending: 2026-05-20
 peak_rank: 13
 total_stars: 64386
-language: Jupyter Notebook
+language: "Jupyter Notebook"
 ---
 
 # microsoft/ai-agents-for-beginners
@@ -35,5 +35,5 @@ language: Jupyter Notebook
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[hkuds-cli-anything]] [[nirdiamant-agents-towards-production]] [[lum1104-understand-anything]] [[obra-superpowers]]
+[[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[colbymchenry-codegraph]] [[anthropics-claude-plugins-official]]
 

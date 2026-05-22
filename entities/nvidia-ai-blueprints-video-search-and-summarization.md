@@ -14,7 +14,7 @@ first_trending: 2026-05-16
 last_trending: 2026-05-16
 peak_rank: 9
 total_stars: 1261
-language: Python
+language: "Python"
 ---
 
 # NVIDIA-AI-Blueprints/video-search-and-summarization
@@ -33,5 +33,5 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[bigbodycobain-shadowbroker]] [[hkuds-cli-anything]] [[plausible-analytics]]
+[[bigbodycobain-shadowbroker]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]]
 

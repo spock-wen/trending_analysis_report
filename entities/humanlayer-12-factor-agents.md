@@ -14,7 +14,7 @@ first_trending: 2026-05-19
 last_trending: 2026-05-20
 peak_rank: 11
 total_stars: 21196
-language: TypeScript
+language: "TypeScript"
 ---
 
 # humanlayer/12-factor-agents
@@ -34,5 +34,5 @@ What are the principles we can use to build LLM-powered software that is actuall
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[obra-superpowers]] [[imbad0202-academic-research-skills]] [[chromedevtools-chrome-devtools-mcp]]
+[[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[colbymchenry-codegraph]] [[chromedevtools-chrome-devtools-mcp]]
 

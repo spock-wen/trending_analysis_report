@@ -14,7 +14,7 @@ first_trending: 2026-05-18
 last_trending: 2026-05-18
 peak_rank: 11
 total_stars: 1140
-language: Python
+language: "Python"
 ---
 
 # Light-Heart-Labs/DreamServer
@@ -33,5 +33,5 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[supertone-inc-supertonic]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[hkuds-vimax]]
+[[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[hkuds-vimax]] [[nvlabs-sana]] [[supertone-inc-supertonic]]
 

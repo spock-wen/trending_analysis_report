@@ -14,7 +14,7 @@ first_trending: 2026-05-22
 last_trending: 2026-05-22
 peak_rank: 12
 total_stars: 1468
-language: Python
+language: "Python"
 ---
 
 # antoinezambelli/forge
@@ -33,5 +33,5 @@ A Python framework for self-hosted LLM tool-calling and multi-step agentic workf
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[imbad0202-academic-research-skills]] [[obra-superpowers]]
+[[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]] [[anthropics-claude-plugins-official]]
 

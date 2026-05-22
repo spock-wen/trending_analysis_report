@@ -14,7 +14,7 @@ first_trending: 2026-05-16
 last_trending: 2026-05-22
 peak_rank: 2
 total_stars: 201453
-language: Shell
+language: "Shell"
 ---
 
 # obra/superpowers
@@ -36,5 +36,5 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[msitarzewski-agency-agents]] [[imbad0202-academic-research-skills]]
+[[mattpocock-skills]] [[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[cloakhq-cloakbrowser]]
 

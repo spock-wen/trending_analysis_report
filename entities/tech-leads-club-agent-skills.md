@@ -14,7 +14,7 @@ first_trending: 2026-05-18
 last_trending: 2026-05-19
 peak_rank: 7
 total_stars: 4038
-language: TypeScript
+language: "TypeScript"
 ---
 
 # tech-leads-club/agent-skills
@@ -34,5 +34,5 @@ The secure, validated skill registry for professional AI coding agents. Extend A
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[obra-superpowers]] [[imbad0202-academic-research-skills]] [[chromedevtools-chrome-devtools-mcp]]
+[[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[colbymchenry-codegraph]] [[chromedevtools-chrome-devtools-mcp]]
 

@@ -14,7 +14,7 @@ first_trending: 2026-05-18
 last_trending: 2026-05-22
 peak_rank: 2
 total_stars: 39086
-language: Python
+language: "Python"
 ---
 
 # HKUDS/CLI-Anything
@@ -37,5 +37,5 @@ language: Python
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[can1357-oh-my-pi]] [[imbad0202-academic-research-skills]] [[obra-superpowers]]
+[[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[trimstray-the-book-of-secret-knowledge]] [[colbymchenry-codegraph]]
 

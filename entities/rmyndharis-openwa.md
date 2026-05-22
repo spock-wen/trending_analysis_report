@@ -14,7 +14,7 @@ first_trending: 2026-05-21
 last_trending: 2026-05-22
 peak_rank: 7
 total_stars: 5379
-language: TypeScript
+language: "TypeScript"
 ---
 
 # rmyndharis/OpenWA
@@ -34,5 +34,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[truelockmc-streambert]] [[can1357-oh-my-pi]] [[chromedevtools-chrome-devtools-mcp]] [[opentoonz-opentoonz]] [[pascalorg-editor]]
+[[chromedevtools-chrome-devtools-mcp]] [[lum1104-understand-anything]] [[colbymchenry-codegraph]] [[can1357-oh-my-pi]]
 

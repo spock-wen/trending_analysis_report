@@ -14,7 +14,7 @@ first_trending: 2026-05-20
 last_trending: 2026-05-22
 peak_rank: 9
 total_stars: 103627
-language: Shell
+language: "Shell"
 ---
 
 # msitarzewski/agency-agents
@@ -35,5 +35,5 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[obra-superpowers]] [[imbad0202-academic-research-skills]]
+[[mattpocock-skills]] [[lum1104-understand-anything]] [[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]]
 

@@ -14,7 +14,7 @@ first_trending: 2026-05-18
 last_trending: 2026-05-18
 peak_rank: 15
 total_stars: 20582
-language: Go
+language: "Go"
 ---
 
 # knadh/listmonk
@@ -33,5 +33,5 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[multica-ai-multica]] [[hkuds-cli-anything]] [[obra-superpowers]] [[imbad0202-academic-research-skills]] [[influxdata-telegraf]]
+[[alireza0-s-ui]] [[rohitg00-ai-engineering-from-scratch]] [[can1357-oh-my-pi]] [[colbymchenry-codegraph]] [[anthropics-claude-plugins-official]]
 

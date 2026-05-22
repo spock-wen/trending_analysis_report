@@ -14,7 +14,7 @@ first_trending: 2026-05-18
 last_trending: 2026-05-18
 peak_rank: 14
 total_stars: 33469
-language: TypeScript
+language: "TypeScript"
 ---
 
 # medusajs/medusa
@@ -33,5 +33,5 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[obra-superpowers]] [[diolinux-photogimp]] [[chromedevtools-chrome-devtools-mcp]] [[cloakhq-cloakbrowser]]
+[[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[cloakhq-cloakbrowser]] [[colbymchenry-codegraph]] [[obra-superpowers]]
 

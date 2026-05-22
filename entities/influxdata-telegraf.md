@@ -14,7 +14,7 @@ first_trending: 2026-05-16
 last_trending: 2026-05-16
 peak_rank: 6
 total_stars: 17479
-language: Go
+language: "Go"
 ---
 
 # influxdata/telegraf
@@ -33,5 +33,5 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[knadh-listmonk]] [[multica-ai-multica]] [[bigbodycobain-shadowbroker]] [[hkuds-cli-anything]] [[plausible-analytics]]
+[[bigbodycobain-shadowbroker]] [[alireza0-s-ui]] [[rohitg00-ai-engineering-from-scratch]] [[can1357-oh-my-pi]] [[colbymchenry-codegraph]]
 

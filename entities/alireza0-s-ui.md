@@ -14,7 +14,7 @@ first_trending: 2026-05-22
 last_trending: 2026-05-22
 peak_rank: 18
 total_stars: 8916
-language: Go
+language: "Go"
 ---
 
 # alireza0/s-ui
@@ -33,5 +33,5 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[knadh-listmonk]] [[multica-ai-multica]] [[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[msitarzewski-agency-agents]]
+[[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[trimstray-the-book-of-secret-knowledge]] [[knadh-listmonk]] [[chromedevtools-chrome-devtools-mcp]]
 

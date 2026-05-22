@@ -14,7 +14,7 @@ first_trending: 2026-05-19
 last_trending: 2026-05-20
 peak_rank: 7
 total_stars: 16644
-language: Python
+language: "Python"
 ---
 
 # CloakHQ/CloakBrowser
@@ -34,5 +34,5 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[plausible-analytics]]
+[[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[trimstray-the-book-of-secret-knowledge]] [[obra-superpowers]]
 

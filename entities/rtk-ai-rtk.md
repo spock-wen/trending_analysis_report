@@ -14,7 +14,7 @@ first_trending: 2026-05-20
 last_trending: 2026-05-20
 peak_rank: 8
 total_stars: 50931
-language: Rust
+language: "Rust"
 ---
 
 # rtk-ai/rtk
@@ -33,5 +33,5 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[tinyhumansai-openhuman]] [[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[obra-superpowers]]
+[[oven-sh-bun]] [[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[trimstray-the-book-of-secret-knowledge]]
 

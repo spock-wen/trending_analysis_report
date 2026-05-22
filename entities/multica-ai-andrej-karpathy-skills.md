@@ -21,7 +21,7 @@ language: ""
 
 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 
-- 语言: ?
+- 语言: 未标注
 - 上榜次数: 3 次
 - 连续上榜: 3 天
 - 最高排名: #3
@@ -35,5 +35,5 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[obra-superpowers]] [[hkuds-cli-anything]] [[colbymchenry-codegraph]] [[imbad0202-academic-research-skills]]
+[[anthropics-claude-plugins-official]] [[rohitg00-ai-engineering-from-scratch]] [[colbymchenry-codegraph]] [[can1357-oh-my-pi]]
 

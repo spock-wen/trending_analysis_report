@@ -14,7 +14,7 @@ first_trending: 2026-05-18
 last_trending: 2026-05-18
 peak_rank: 8
 total_stars: 19896
-language: Jupyter Notebook
+language: "Jupyter Notebook"
 ---
 
 # NirDiamant/agents-towards-production
@@ -33,5 +33,5 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[rohitg00-ai-engineering-from-scratch]] [[hkuds-cli-anything]] [[microsoft-ai-agents-for-beginners]] [[lum1104-understand-anything]]
+[[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[cloakhq-cloakbrowser]] [[colbymchenry-codegraph]]
 

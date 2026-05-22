@@ -14,7 +14,7 @@ first_trending: 2026-05-18
 last_trending: 2026-05-18
 peak_rank: 13
 total_stars: 53278
-language: JavaScript
+language: "JavaScript"
 ---
 
 # TryGhost/Ghost
@@ -33,5 +33,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[truelockmc-streambert]] [[opentoonz-opentoonz]] [[anil-matcha-open-generative-ai]] [[pascalorg-editor]] [[rmyndharis-openwa]]
+[[anil-matcha-open-generative-ai]] [[truelockmc-streambert]]
 

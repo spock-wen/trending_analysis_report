@@ -909,6 +909,9 @@ def run_lint_and_alert():
 
 # ============ Main ============
 if __name__ == '__main__':
+    import sys as _sys
+    skip_push = '--no-push' in _sys.argv
+    
     if not collect():
         print("[SILENT]")
         sys.exit(1)
@@ -918,5 +921,9 @@ if __name__ == '__main__':
     update_index_and_log(all_repos)
     git_commit()
     run_lint_and_alert()
-    push_feishu()
-    print(f"\n✅ {TODAY} 日报完成")
+    
+    if not skip_push:
+        push_feishu()
+    
+    action = "脚本任务完成（无推送）" if skip_push else "日报推送完成"
+    print(f"\n✅ {TODAY} {action}")

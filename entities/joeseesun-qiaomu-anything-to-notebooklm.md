@@ -33,5 +33,5 @@ Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat art
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[trimstray-the-book-of-secret-knowledge]] [[colbymchenry-codegraph]]
+[[colbymchenry-codegraph]] [[hkuds-cli-anything]] [[fincept-corporation-finceptterminal]] [[chromedevtools-chrome-devtools-mcp]] [[odoo-odoo]]
 

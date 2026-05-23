@@ -13,7 +13,7 @@ consecutive_days: 3
 first_trending: 2026-05-21
 last_trending: 2026-05-23
 peak_rank: 4
-total_stars: 11837
+total_stars: 11886
 language: "Python"
 ---
 
@@ -35,5 +35,5 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]] [[anthropics-claude-plugins-official]]
+[[lum1104-understand-anything]] [[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]] [[odoo-odoo]] [[can1357-oh-my-pi]]
 

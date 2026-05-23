@@ -13,7 +13,7 @@ consecutive_days: 1
 first_trending: 2026-05-23
 last_trending: 2026-05-23
 peak_rank: 11
-total_stars: 22609
+total_stars: 22628
 language: "Python"
 ---
 
@@ -29,9 +29,9 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 
 ## 上榜历史
 
-  - 2026-05-23: #11, +337⭐
+  - 2026-05-23: #11, +367⭐
 
 ## 相关项目
 
-[[bigbodycobain-shadowbroker]] [[lum1104-understand-anything]] [[imbad0202-academic-research-skills]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]]
+[[lum1104-understand-anything]] [[imbad0202-academic-research-skills]] [[bigbodycobain-shadowbroker]] [[plausible-analytics]] [[odoo-odoo]]
 

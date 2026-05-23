@@ -13,7 +13,7 @@ consecutive_days: 1
 first_trending: 2026-05-23
 last_trending: 2026-05-23
 peak_rank: 8
-total_stars: 51106
+total_stars: 51121
 language: "Python"
 ---
 
@@ -29,9 +29,9 @@ Odoo. Open Source Apps To Grow Your Business.
 
 ## 上榜历史
 
-  - 2026-05-23: #8, +48⭐
+  - 2026-05-23: #8, +79⭐
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[cloakhq-cloakbrowser]] [[obra-superpowers]] [[fincept-corporation-finceptterminal]] [[anthropics-claude-plugins-official]]
+[[obra-superpowers]] [[fincept-corporation-finceptterminal]] [[anthropics-claude-plugins-official]] [[cloakhq-cloakbrowser]] [[rohitg00-ai-engineering-from-scratch]]
 

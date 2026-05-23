@@ -33,5 +33,5 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[tryghost-ghost]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[hkuds-vimax]] [[nvlabs-sana]]
+[[colbymchenry-codegraph]] [[hkuds-vimax]] [[truelockmc-streambert]] [[can1357-oh-my-pi]] [[anthropics-claude-plugins-official]]
 

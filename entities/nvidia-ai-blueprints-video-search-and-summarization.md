@@ -33,5 +33,5 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[bigbodycobain-shadowbroker]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]]
+[[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]] [[bigbodycobain-shadowbroker]] [[plausible-analytics]] [[odoo-odoo]]
 

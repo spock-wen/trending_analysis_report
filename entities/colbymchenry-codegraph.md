@@ -13,7 +13,7 @@ consecutive_days: 4
 first_trending: 2026-05-18
 last_trending: 2026-05-23
 peak_rank: 1
-total_stars: 16425
+total_stars: 16495
 language: "TypeScript"
 ---
 
@@ -29,7 +29,7 @@ Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H
 
 ## 上榜历史
 
-  - 2026-05-23: #2, +3688⭐
+  - 2026-05-23: #2, +3684⭐
   - 2026-05-22: #2, +4222⭐
   - 2026-05-21: #1, +2123⭐
   - 2026-05-20: #10, +1850⭐
@@ -37,5 +37,5 @@ Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[chromedevtools-chrome-devtools-mcp]] [[anthropics-claude-plugins-official]]
+[[lum1104-understand-anything]] [[chromedevtools-chrome-devtools-mcp]] [[can1357-oh-my-pi]] [[anthropics-claude-plugins-official]] [[rohitg00-ai-engineering-from-scratch]]
 

@@ -13,7 +13,7 @@ consecutive_days: 2
 first_trending: 2026-05-22
 last_trending: 2026-05-23
 peak_rank: 5
-total_stars: 40946
+total_stars: 40965
 language: "TypeScript"
 ---
 
@@ -29,10 +29,10 @@ Chrome DevTools for coding agents
 
 ## 上榜历史
 
-  - 2026-05-23: #5, +499⭐
+  - 2026-05-23: #5, +501⭐
   - 2026-05-22: #8, +132⭐
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[trimstray-the-book-of-secret-knowledge]]
+[[lum1104-understand-anything]] [[colbymchenry-codegraph]] [[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[anthropics-claude-plugins-official]]
 

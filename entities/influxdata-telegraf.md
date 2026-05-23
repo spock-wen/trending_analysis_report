@@ -33,5 +33,5 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[bigbodycobain-shadowbroker]] [[alireza0-s-ui]] [[rohitg00-ai-engineering-from-scratch]] [[can1357-oh-my-pi]] [[colbymchenry-codegraph]]
+[[colbymchenry-codegraph]] [[alireza0-s-ui]] [[knadh-listmonk]] [[fincept-corporation-finceptterminal]] [[bigbodycobain-shadowbroker]]
 

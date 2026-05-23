@@ -13,7 +13,7 @@ consecutive_days: 2
 first_trending: 2026-05-22
 last_trending: 2026-05-23
 peak_rank: 10
-total_stars: 223171
+total_stars: 223187
 language: ""
 ---
 
@@ -29,10 +29,10 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 上榜历史
 
-  - 2026-05-23: #10, +964⭐
+  - 2026-05-23: #10, +969⭐
   - 2026-05-22: #15, +429⭐
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[fincept-corporation-finceptterminal]] [[chromedevtools-chrome-devtools-mcp]]
+[[lum1104-understand-anything]] [[hkuds-cli-anything]] [[chromedevtools-chrome-devtools-mcp]] [[fincept-corporation-finceptterminal]] [[can1357-oh-my-pi]]
 

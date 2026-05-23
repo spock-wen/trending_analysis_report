@@ -35,5 +35,5 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[mattpocock-skills]] [[lum1104-understand-anything]] [[hkuds-cli-anything]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]]
+[[lum1104-understand-anything]] [[obra-superpowers]] [[colbymchenry-codegraph]] [[hkuds-cli-anything]] [[chromedevtools-chrome-devtools-mcp]]
 

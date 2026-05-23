@@ -13,7 +13,7 @@ consecutive_days: 1
 first_trending: 2026-05-23
 last_trending: 2026-05-23
 peak_rank: 14
-total_stars: 22311
+total_stars: 22329
 language: "Jupyter Notebook"
 ---
 
@@ -29,7 +29,7 @@ Neural Networks: Zero to Hero
 
 ## 上榜历史
 
-  - 2026-05-23: #14, +270⭐
+  - 2026-05-23: #14, +159⭐
 
 ## 相关项目
 

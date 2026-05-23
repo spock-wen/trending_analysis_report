@@ -33,5 +33,5 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[supertone-inc-supertonic]] [[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]]
+[[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]] [[odoo-odoo]] [[alishahryar1-free-claude-code]] [[can1357-oh-my-pi]]
 

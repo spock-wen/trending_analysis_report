@@ -33,5 +33,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[anil-matcha-open-generative-ai]] [[truelockmc-streambert]]
+[[truelockmc-streambert]] [[anil-matcha-open-generative-ai]]
 

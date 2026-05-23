@@ -13,7 +13,7 @@ consecutive_days: 2
 first_trending: 2026-05-22
 last_trending: 2026-05-23
 peak_rank: 4
-total_stars: 2515
+total_stars: 2522
 language: "C#"
 ---
 
@@ -29,10 +29,10 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 上榜历史
 
-  - 2026-05-23: #6, +391⭐
+  - 2026-05-23: #6, +389⭐
   - 2026-05-22: #4, +179⭐
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[rohitg00-ai-engineering-from-scratch]] [[colbymchenry-codegraph]] [[can1357-oh-my-pi]]
+[[can1357-oh-my-pi]] [[colbymchenry-codegraph]] [[anthropics-claude-plugins-official]] [[rohitg00-ai-engineering-from-scratch]]
 

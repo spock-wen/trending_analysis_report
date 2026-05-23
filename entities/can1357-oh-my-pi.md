@@ -13,7 +13,7 @@ consecutive_days: 3
 first_trending: 2026-05-21
 last_trending: 2026-05-23
 peak_rank: 7
-total_stars: 6317
+total_stars: 6329
 language: "TypeScript"
 ---
 
@@ -29,11 +29,11 @@ language: "TypeScript"
 
 ## 上榜历史
 
-  - 2026-05-23: #12, +455⭐
+  - 2026-05-23: #12, +457⭐
   - 2026-05-22: #11, +483⭐
   - 2026-05-21: #7, +270⭐
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[hkuds-cli-anything]] [[rohitg00-ai-engineering-from-scratch]] [[trimstray-the-book-of-secret-knowledge]] [[colbymchenry-codegraph]]
+[[lum1104-understand-anything]] [[colbymchenry-codegraph]] [[hkuds-cli-anything]] [[chromedevtools-chrome-devtools-mcp]] [[fincept-corporation-finceptterminal]]
 

@@ -34,5 +34,5 @@ What are the principles we can use to build LLM-powered software that is actuall
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[colbymchenry-codegraph]] [[chromedevtools-chrome-devtools-mcp]]
+[[lum1104-understand-anything]] [[colbymchenry-codegraph]] [[chromedevtools-chrome-devtools-mcp]] [[can1357-oh-my-pi]] [[anthropics-claude-plugins-official]]
 

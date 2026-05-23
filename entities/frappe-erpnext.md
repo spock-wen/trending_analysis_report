@@ -33,5 +33,5 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[cloakhq-cloakbrowser]] [[obra-superpowers]] [[fincept-corporation-finceptterminal]] [[anthropics-claude-plugins-official]]
+[[obra-superpowers]] [[fincept-corporation-finceptterminal]] [[odoo-odoo]] [[anthropics-claude-plugins-official]] [[cloakhq-cloakbrowser]]
 

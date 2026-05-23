@@ -13,7 +13,7 @@ consecutive_days: 1
 first_trending: 2026-05-23
 last_trending: 2026-05-23
 peak_rank: 9
-total_stars: 13289
+total_stars: 13295
 language: ""
 ---
 
@@ -29,7 +29,7 @@ No description
 
 ## 上榜历史
 
-  - 2026-05-23: #9, +85⭐
+  - 2026-05-23: #9, +87⭐
 
 ## 相关项目
 

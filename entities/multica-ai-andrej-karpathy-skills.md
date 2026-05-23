@@ -35,5 +35,5 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[rohitg00-ai-engineering-from-scratch]] [[colbymchenry-codegraph]] [[can1357-oh-my-pi]]
+[[can1357-oh-my-pi]] [[colbymchenry-codegraph]] [[anthropics-claude-plugins-official]] [[rohitg00-ai-engineering-from-scratch]]
 

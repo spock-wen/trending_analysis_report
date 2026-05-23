@@ -34,5 +34,5 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]] [[anthropics-claude-plugins-official]]
+[[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]] [[plausible-analytics]] [[odoo-odoo]] [[can1357-oh-my-pi]]
 

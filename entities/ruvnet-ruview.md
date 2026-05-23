@@ -13,7 +13,7 @@ consecutive_days: 1
 first_trending: 2026-05-16
 last_trending: 2026-05-23
 peak_rank: 3
-total_stars: 63970
+total_stars: 63993
 language: "Rust"
 ---
 
@@ -29,11 +29,11 @@ language: "Rust"
 
 ## 上榜历史
 
-  - 2026-05-23: #3, +992⭐
+  - 2026-05-23: #3, +978⭐
   - 2026-05-19: #7, +700⭐
   - 2026-05-16: #5, +1859⭐
 
 ## 相关项目
 
-[[oven-sh-bun]] [[rtk-ai-rtk]] [[nirdiamant-agents-towards-production]] [[tinyhumansai-openhuman]]
+[[oven-sh-bun]] [[tinyhumansai-openhuman]] [[rtk-ai-rtk]] [[nirdiamant-agents-towards-production]]
 

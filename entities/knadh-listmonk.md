@@ -33,5 +33,5 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[alireza0-s-ui]] [[rohitg00-ai-engineering-from-scratch]] [[can1357-oh-my-pi]] [[colbymchenry-codegraph]] [[anthropics-claude-plugins-official]]
+[[colbymchenry-codegraph]] [[alireza0-s-ui]] [[multica-ai-multica]] [[can1357-oh-my-pi]] [[influxdata-telegraf]]
 

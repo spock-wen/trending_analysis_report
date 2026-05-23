@@ -34,5 +34,5 @@ language: "Python"
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[nvlabs-sana]] [[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]]
+[[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]] [[odoo-odoo]] [[can1357-oh-my-pi]] [[anthropics-claude-plugins-official]]
 

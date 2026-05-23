@@ -33,5 +33,5 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[trimstray-the-book-of-secret-knowledge]] [[colbymchenry-codegraph]]
+[[lum1104-understand-anything]] [[obra-superpowers]] [[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]] [[can1357-oh-my-pi]]
 

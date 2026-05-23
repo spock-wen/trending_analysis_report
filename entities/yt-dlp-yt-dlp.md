@@ -13,7 +13,7 @@ consecutive_days: 1
 first_trending: 2026-05-23
 last_trending: 2026-05-23
 peak_rank: 13
-total_stars: 164296
+total_stars: 164321
 language: "Python"
 ---
 
@@ -29,9 +29,9 @@ A feature-rich command-line audio/video downloader
 
 ## 上榜历史
 
-  - 2026-05-23: #13, +536⭐
+  - 2026-05-23: #13, +444⭐
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[supertone-inc-supertonic]] [[trimstray-the-book-of-secret-knowledge]]
+[[lum1104-understand-anything]] [[fincept-corporation-finceptterminal]] [[odoo-odoo]] [[alishahryar1-free-claude-code]] [[can1357-oh-my-pi]]
 

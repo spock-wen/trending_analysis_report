@@ -33,5 +33,5 @@ The open-source managed agents platform. Turn coding agents into real teammates 
 
 ## 相关项目
 
-[[alireza0-s-ui]] [[rohitg00-ai-engineering-from-scratch]] [[can1357-oh-my-pi]] [[colbymchenry-codegraph]] [[knadh-listmonk]]
+[[colbymchenry-codegraph]] [[alireza0-s-ui]] [[knadh-listmonk]] [[can1357-oh-my-pi]] [[influxdata-telegraf]]
 

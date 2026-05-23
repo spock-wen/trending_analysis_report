@@ -33,5 +33,5 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[hkuds-vimax]] [[nvlabs-sana]] [[supertone-inc-supertonic]]
+[[colbymchenry-codegraph]] [[hkuds-vimax]] [[fincept-corporation-finceptterminal]] [[odoo-odoo]] [[alishahryar1-free-claude-code]]
 

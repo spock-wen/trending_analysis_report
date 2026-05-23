@@ -35,5 +35,5 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[rohitg00-ai-engineering-from-scratch]] [[colbymchenry-codegraph]] [[anthropics-claude-plugins-official]]
+[[lum1104-understand-anything]] [[colbymchenry-codegraph]] [[karpathy-nn-zero-to-hero]] [[can1357-oh-my-pi]] [[anthropics-claude-plugins-official]]
 

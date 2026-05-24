@@ -34,5 +34,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[colbymchenry-codegraph]] [[chromedevtools-chrome-devtools-mcp]] [[lum1104-understand-anything]]
+[[lum1104-understand-anything]] [[multica-ai-multica]] [[colbymchenry-codegraph]] [[earendil-works-pi]]
 

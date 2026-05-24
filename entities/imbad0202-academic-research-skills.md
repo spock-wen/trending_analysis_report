@@ -36,5 +36,5 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]] [[odoo-odoo]] [[can1357-oh-my-pi]] [[k-dense-ai-scientific-agent-skills]]
+[[fincept-corporation-finceptterminal]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[anthropics-knowledge-work-plugins]] [[multica-ai-andrej-karpathy-skills]]
 

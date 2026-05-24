@@ -35,5 +35,5 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[colbymchenry-codegraph]] [[karpathy-nn-zero-to-hero]] [[can1357-oh-my-pi]] [[anthropics-claude-plugins-official]]
+[[karpathy-nn-zero-to-hero]] [[lum1104-understand-anything]] [[nirdiamant-agents-towards-production]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]]
 

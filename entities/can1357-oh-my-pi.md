@@ -35,5 +35,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[colbymchenry-codegraph]] [[hkuds-cli-anything]] [[chromedevtools-chrome-devtools-mcp]] [[fincept-corporation-finceptterminal]]
+[[lum1104-understand-anything]] [[anthropics-claude-plugins-official]] [[trimstray-the-book-of-secret-knowledge]] [[chromedevtools-chrome-devtools-mcp]] [[multica-ai-andrej-karpathy-skills]]
 

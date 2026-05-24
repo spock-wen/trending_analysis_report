@@ -33,5 +33,5 @@ A Python framework for self-hosted LLM tool-calling and multi-step agentic workf
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]] [[odoo-odoo]] [[can1357-oh-my-pi]] [[anthropics-claude-plugins-official]]
+[[anthropics-claude-plugins-official]] [[anthropics-knowledge-work-plugins]] [[multica-ai-andrej-karpathy-skills]] [[colbymchenry-codegraph]] [[rohitg00-ai-engineering-from-scratch]]
 

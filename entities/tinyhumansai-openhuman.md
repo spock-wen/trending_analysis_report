@@ -37,5 +37,5 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[ruvnet-ruview]] [[can1357-oh-my-pi]] [[oven-sh-bun]] [[anthropics-claude-plugins-official]]
+[[anthropics-claude-plugins-official]] [[rtk-ai-rtk]] [[multica-ai-andrej-karpathy-skills]] [[colbymchenry-codegraph]] [[ruvnet-ruview]]
 

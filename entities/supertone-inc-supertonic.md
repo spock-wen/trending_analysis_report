@@ -34,5 +34,5 @@ Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 
 ## 相关项目
 
-[[yt-dlp-yt-dlp]] [[alishahryar1-free-claude-code]] [[dograh-hq-dograh]]
+[[manaflow-ai-cmux]] [[yt-dlp-yt-dlp]] [[alishahryar1-free-claude-code]] [[dograh-hq-dograh]]
 

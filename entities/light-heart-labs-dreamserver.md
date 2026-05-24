@@ -33,5 +33,5 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[hkuds-vimax]] [[fincept-corporation-finceptterminal]] [[odoo-odoo]] [[alishahryar1-free-claude-code]]
+[[hkuds-vimax]] [[dograh-hq-dograh]] [[anil-matcha-open-generative-ai]] [[yt-dlp-yt-dlp]] [[nvlabs-sana]]
 

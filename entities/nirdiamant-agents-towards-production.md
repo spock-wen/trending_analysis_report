@@ -33,5 +33,5 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[colbymchenry-codegraph]] [[obra-superpowers]] [[karpathy-nn-zero-to-hero]] [[ruvnet-ruview]]
+[[karpathy-nn-zero-to-hero]] [[lum1104-understand-anything]] [[cloakhq-cloakbrowser]] [[diolinux-photogimp]] [[anthropics-claude-plugins-official]]
 

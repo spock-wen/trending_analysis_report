@@ -33,5 +33,5 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[fincept-corporation-finceptterminal]] [[odoo-odoo]] [[alishahryar1-free-claude-code]] [[can1357-oh-my-pi]]
+[[lum1104-understand-anything]] [[dograh-hq-dograh]] [[anthropics-claude-plugins-official]] [[anthropics-knowledge-work-plugins]] [[earendil-works-pi]]
 

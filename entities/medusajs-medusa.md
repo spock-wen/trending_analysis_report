@@ -33,5 +33,5 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[colbymchenry-codegraph]] [[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]] [[odoo-odoo]]
+[[lum1104-understand-anything]] [[cloakhq-cloakbrowser]] [[diolinux-photogimp]] [[odoo-odoo]] [[obra-superpowers]]
 

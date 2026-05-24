@@ -37,5 +37,5 @@ language: "Python"
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]] [[chromedevtools-chrome-devtools-mcp]] [[odoo-odoo]]
+[[lum1104-understand-anything]] [[anthropics-claude-plugins-official]] [[can1357-oh-my-pi]] [[trimstray-the-book-of-secret-knowledge]] [[anthropics-knowledge-work-plugins]]
 

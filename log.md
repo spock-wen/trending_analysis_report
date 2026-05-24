@@ -342,3 +342,28 @@
 - 连续 2 天上榜: trimstray/the-book-of-secret-knowledge
 - 连续 2 天上榜: Lum1104/Understand-Anything
 - 当日 star 增长 Top 3: colbymchenry/codegraph +3684⭐, anthropics/claude-plugins-official +2549⭐, Lum1104/Understand-Anything +1393⭐
+
+## [2026-05-25] update | GitHub Trending 日报
+- 采集 16 个项目（raw/trending/2026-05-25.json）
+- 新建 entity: 8 个（anthropics/knowledge-work-plugins, earendil-works/pi, shiyu-coder/Kronos, manaflow-ai/cmux, 666ghj/MiroFish...）
+- 趋势: Python 7个, TypeScript 5个, Markdown 1个, C# 1个, Swift 1个
+- 连续 5 天上榜: HKUDS/CLI-Anything
+- 连续 4 天上榜: tinyhumansai/openhuman
+- 连续 4 天上榜: Imbad0202/academic-research-skills
+- 连续 3 天上榜: obra/superpowers
+- 连续 3 天上榜: microsoft/ai-agents-for-beginners
+- 连续 3 天上榜: msitarzewski/agency-agents
+- 连续 3 天上榜: can1357/oh-my-pi
+- 连续 2 天上榜: K-Dense-AI/scientific-agent-skills
+- 连续 2 天上榜: BigBodyCobain/Shadowbroker
+- 连续 2 天上榜: tech-leads-club/agent-skills
+- 连续 2 天上榜: plausible/analytics
+- 连续 2 天上榜: CloakHQ/CloakBrowser
+- 连续 2 天上榜: humanlayer/12-factor-agents
+- 连续 2 天上榜: rohitg00/agentmemory
+- 连续 2 天上榜: HKUDS/ViMax
+- 连续 2 天上榜: rmyndharis/OpenWA
+- 连续 2 天上榜: truelockmc/streambert
+- 连续 2 天上榜: ChromeDevTools/chrome-devtools-mcp
+- 连续 2 天上榜: trimstray/the-book-of-secret-knowledge
+- 当日 star 增长 Top 3: Lum1104/Understand-Anything +3987⭐, colbymchenry/codegraph +2993⭐, multica-ai/andrej-karpathy-skills +2555⭐

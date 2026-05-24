@@ -33,5 +33,5 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]] [[ruvnet-ruview]] [[can1357-oh-my-pi]]
+[[lum1104-understand-anything]] [[manaflow-ai-cmux]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]] [[colbymchenry-codegraph]]
 

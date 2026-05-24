@@ -1,7 +1,7 @@
 ---
 title: "cli"
 created: unknown
-updated: 2026-05-23
+updated: 2026-05-25
 type: concept
 tags: [cli]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 今日上榜项目（5 个）
 
-[[can1357-oh-my-pi]] [[trimstray-the-book-of-secret-knowledge]] [[lum1104-understand-anything]] [[fincept-corporation-finceptterminal]] [[yt-dlp-yt-dlp]]
+[[alishahryar1-free-claude-code]] [[lum1104-understand-anything]] [[earendil-works-pi]] [[manaflow-ai-cmux]] [[mukul975-anthropic-cybersecurity-skills]]
 
 ## 语言分布
 
-TypeScript 2个, Python 2个, ? 1个
+Python 2个, TypeScript 2个, Swift 1个
 
 ## 趋势观察
 

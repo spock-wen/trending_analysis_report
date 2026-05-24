@@ -34,5 +34,5 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[chromedevtools-chrome-devtools-mcp]] [[fincept-corporation-finceptterminal]] [[bigbodycobain-shadowbroker]] [[can1357-oh-my-pi]]
+[[cloakhq-cloakbrowser]] [[fincept-corporation-finceptterminal]] [[influxdata-telegraf]] [[bigbodycobain-shadowbroker]] [[can1357-oh-my-pi]]
 

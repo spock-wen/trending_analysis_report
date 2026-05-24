@@ -33,5 +33,5 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[imbad0202-academic-research-skills]] [[bigbodycobain-shadowbroker]] [[plausible-analytics]] [[odoo-odoo]]
+[[lum1104-understand-anything]] [[k-dense-ai-scientific-agent-skills]] [[influxdata-telegraf]] [[bigbodycobain-shadowbroker]] [[anthropics-claude-plugins-official]]
 

@@ -35,5 +35,5 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[imbad0202-academic-research-skills]] [[fincept-corporation-finceptterminal]] [[odoo-odoo]] [[can1357-oh-my-pi]]
+[[fincept-corporation-finceptterminal]] [[anthropics-claude-plugins-official]] [[imbad0202-academic-research-skills]] [[anthropics-knowledge-work-plugins]] [[multica-ai-andrej-karpathy-skills]]
 

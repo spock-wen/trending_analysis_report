@@ -33,5 +33,5 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[colbymchenry-codegraph]] [[chromedevtools-chrome-devtools-mcp]] [[can1357-oh-my-pi]] [[anthropics-claude-plugins-official]]
+[[lum1104-understand-anything]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]] [[multica-ai-multica]] [[colbymchenry-codegraph]]
 

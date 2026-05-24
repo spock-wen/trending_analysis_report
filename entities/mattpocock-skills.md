@@ -33,5 +33,5 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[obra-superpowers]] [[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]] [[can1357-oh-my-pi]]
+[[lum1104-understand-anything]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]] [[obra-superpowers]] [[colbymchenry-codegraph]]
 

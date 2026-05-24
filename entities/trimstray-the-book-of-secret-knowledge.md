@@ -34,5 +34,5 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[hkuds-cli-anything]] [[chromedevtools-chrome-devtools-mcp]] [[fincept-corporation-finceptterminal]] [[can1357-oh-my-pi]]
+[[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[chromedevtools-chrome-devtools-mcp]] [[earendil-works-pi]] [[manaflow-ai-cmux]]
 

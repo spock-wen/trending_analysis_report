@@ -33,5 +33,5 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]] [[odoo-odoo]] [[alishahryar1-free-claude-code]] [[can1357-oh-my-pi]]
+[[yt-dlp-yt-dlp]] [[anthropics-claude-plugins-official]] [[anthropics-knowledge-work-plugins]] [[multica-ai-andrej-karpathy-skills]] [[colbymchenry-codegraph]]
 

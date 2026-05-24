@@ -1,19 +1,19 @@
 ---
 title: "Alishahryar1/free-claude-code"
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-05-25
 type: tool
 tags: [python, ai-agent, cli, audio]
-sources: [raw/trending/2026-05-20.json]
-confidence: low
-trending_count_daily: 1
+sources: [raw/trending/2026-05-25.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-05-20
-last_trending: 2026-05-20
-peak_rank: 14
-total_stars: 26389
+last_trending: 2026-05-25
+peak_rank: 7
+total_stars: 29121
 language: "Python"
 ---
 
@@ -22,16 +22,17 @@ language: "Python"
 Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
 
 - 语言: Python
-- 上榜次数: 1 次
+- 上榜次数: 2 次
 - 连续上榜: 1 天
-- 最高排名: #14
+- 最高排名: #7
 - 链接: [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
 
 ## 上榜历史
 
+  - 2026-05-25: #7, +557⭐
   - 2026-05-20: #14, +563⭐
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]] [[odoo-odoo]] [[dograh-hq-dograh]]
+[[lum1104-understand-anything]] [[dograh-hq-dograh]] [[yt-dlp-yt-dlp]] [[supertone-inc-supertonic]] [[anthropics-claude-plugins-official]]
 

@@ -36,5 +36,5 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]] [[odoo-odoo]] [[can1357-oh-my-pi]]
+[[lum1104-understand-anything]] [[cloakhq-cloakbrowser]] [[mattpocock-skills]] [[diolinux-photogimp]] [[anthropics-claude-plugins-official]]
 

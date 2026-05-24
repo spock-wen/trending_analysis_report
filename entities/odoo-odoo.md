@@ -33,5 +33,5 @@ Odoo. Open Source Apps To Grow Your Business.
 
 ## 相关项目
 
-[[obra-superpowers]] [[fincept-corporation-finceptterminal]] [[anthropics-claude-plugins-official]] [[cloakhq-cloakbrowser]] [[rohitg00-ai-engineering-from-scratch]]
+[[cloakhq-cloakbrowser]] [[diolinux-photogimp]] [[anthropics-claude-plugins-official]] [[anthropics-knowledge-work-plugins]] [[obra-superpowers]]
 

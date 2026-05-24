@@ -33,5 +33,5 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[knadh-listmonk]] [[chromedevtools-chrome-devtools-mcp]] [[multica-ai-multica]] [[can1357-oh-my-pi]]
+[[influxdata-telegraf]] [[knadh-listmonk]] [[can1357-oh-my-pi]] [[trimstray-the-book-of-secret-knowledge]] [[chromedevtools-chrome-devtools-mcp]]
 

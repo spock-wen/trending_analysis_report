@@ -34,5 +34,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[tryghost-ghost]] [[anil-matcha-open-generative-ai]]
+[[anil-matcha-open-generative-ai]] [[tryghost-ghost]]
 

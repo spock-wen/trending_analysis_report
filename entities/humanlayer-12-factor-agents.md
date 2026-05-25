@@ -34,5 +34,5 @@ What are the principles we can use to build LLM-powered software that is actuall
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]] [[multica-ai-multica]] [[colbymchenry-codegraph]]
+[[moeru-ai-airi]] [[multica-ai-andrej-karpathy-skills]] [[garrytan-gstack]] [[lum1104-understand-anything]] [[colbymchenry-codegraph]]
 

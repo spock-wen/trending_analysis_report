@@ -34,5 +34,5 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[anthropics-claude-plugins-official]] [[can1357-oh-my-pi]] [[trimstray-the-book-of-secret-knowledge]] [[multica-ai-andrej-karpathy-skills]]
+[[moeru-ai-airi]] [[multica-ai-andrej-karpathy-skills]] [[garrytan-gstack]] [[lum1104-understand-anything]] [[earendil-works-pi]]
 

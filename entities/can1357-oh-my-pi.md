@@ -35,5 +35,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[anthropics-claude-plugins-official]] [[trimstray-the-book-of-secret-knowledge]] [[chromedevtools-chrome-devtools-mcp]] [[multica-ai-andrej-karpathy-skills]]
+[[moeru-ai-airi]] [[multica-ai-andrej-karpathy-skills]] [[chromedevtools-chrome-devtools-mcp]] [[garrytan-gstack]] [[lum1104-understand-anything]]
 

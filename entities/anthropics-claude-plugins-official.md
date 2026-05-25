@@ -3,17 +3,17 @@ title: "anthropics/claude-plugins-official"
 created: 2026-05-20
 updated: 2026-05-25
 type: tool
-tags: [python, ai-agent]
+tags: [python, ai-agent, rising]
 sources: [raw/trending/2026-05-25.json]
 confidence: high
-trending_count_daily: 5
+trending_count_daily: 6
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 6
 first_trending: 2026-05-20
 last_trending: 2026-05-25
 peak_rank: 1
-total_stars: 27210
+total_stars: 27213
 language: "Python"
 ---
 
@@ -22,20 +22,20 @@ language: "Python"
 Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 - 语言: Python
-- 上榜次数: 5 次
-- 连续上榜: 1 天
+- 上榜次数: 6 次
+- 连续上榜: 6 天
 - 最高排名: #1
 - 链接: [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 
 ## 上榜历史
 
   - 2026-05-25: #3, +1179⭐
+  - 2026-05-24: #3, +1179⭐
   - 2026-05-23: #1, +2549⭐
   - 2026-05-22: #1, +891⭐
   - 2026-05-21: #9, +674⭐
-  - 2026-05-20: #5, +171⭐
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[multica-ai-andrej-karpathy-skills]] [[colbymchenry-codegraph]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]]
+[[multica-ai-andrej-karpathy-skills]] [[shiyu-coder-kronos]] [[lum1104-understand-anything]] [[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]]
 

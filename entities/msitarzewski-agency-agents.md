@@ -35,5 +35,5 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[mattpocock-skills]] [[anthropics-claude-plugins-official]] [[can1357-oh-my-pi]] [[trimstray-the-book-of-secret-knowledge]]
+[[multica-ai-andrej-karpathy-skills]] [[moeru-ai-airi]] [[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]] [[lum1104-understand-anything]]
 

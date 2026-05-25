@@ -1,19 +1,19 @@
 ---
 title: "mukul975/Anthropic-Cybersecurity-Skills"
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-26
 type: framework
-tags: [python, ai-agent, cli, security]
-sources: [raw/trending/2026-05-25.json]
-confidence: low
-trending_count_daily: 1
+tags: [python, ai-agent, cli, security, rising]
+sources: [raw/trending/2026-05-26.json]
+confidence: high
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 3
 first_trending: 2026-05-25
-last_trending: 2026-05-25
-peak_rank: 16
-total_stars: 8261
+last_trending: 2026-05-26
+peak_rank: 5
+total_stars: 9172
 language: "Python"
 ---
 
@@ -22,16 +22,18 @@ language: "Python"
 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
 
 - 语言: Python
-- 上榜次数: 1 次
-- 连续上榜: 1 天
-- 最高排名: #16
+- 上榜次数: 3 次
+- 连续上榜: 3 天
+- 最高排名: #5
 - 链接: [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
 
 ## 上榜历史
 
+  - 2026-05-26: #5, +999⭐
   - 2026-05-25: #16, +934⭐
+  - 2026-05-24: #16, +934⭐
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[cloakhq-cloakbrowser]] [[anthropics-claude-plugins-official]] [[anthropics-knowledge-work-plugins]] [[plausible-analytics]]
+[[multica-ai-andrej-karpathy-skills]] [[cloakhq-cloakbrowser]] [[shiyu-coder-kronos]] [[lum1104-understand-anything]] [[plausible-analytics]]
 

@@ -1,17 +1,17 @@
 ---
 title: "joeseesun/qiaomu-anything-to-notebooklm"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-17
 type: tool
-tags: [python, ai-agent, web]
-sources: [raw/trending/2026-05-16.json]
-confidence: low
-trending_count_daily: 1
+tags: [python, ai-agent]
+sources: [raw/trending/2026-05-17.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-05-16
-last_trending: 2026-05-16
+last_trending: 2026-05-17
 peak_rank: 12
 total_stars: 2907
 language: "Python"
@@ -19,19 +19,20 @@ language: "Python"
 
 # joeseesun/qiaomu-anything-to-notebooklm
 
-Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.
+Claude Skill: Multi-source content processor for NotebookLM.
 
 - 语言: Python
-- 上榜次数: 1 次
-- 连续上榜: 1 天
+- 上榜次数: 2 次
+- 连续上榜: 2 天
 - 最高排名: #12
 - 链接: [joeseesun/qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm)
 
 ## 上榜历史
 
+  - 2026-05-17: #12, +438⭐
   - 2026-05-16: #12, +438⭐
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[can1357-oh-my-pi]] [[trimstray-the-book-of-secret-knowledge]] [[anthropics-knowledge-work-plugins]] [[chromedevtools-chrome-devtools-mcp]]
+[[multica-ai-andrej-karpathy-skills]] [[shiyu-coder-kronos]] [[lum1104-understand-anything]] [[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]]
 

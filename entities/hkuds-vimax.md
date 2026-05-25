@@ -34,5 +34,5 @@ language: "Python"
 
 ## 相关项目
 
-[[anil-matcha-open-generative-ai]] [[nvlabs-sana]] [[anthropics-claude-plugins-official]] [[anthropics-knowledge-work-plugins]] [[multica-ai-andrej-karpathy-skills]]
+[[multica-ai-andrej-karpathy-skills]] [[shiyu-coder-kronos]] [[lum1104-understand-anything]] [[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]]
 

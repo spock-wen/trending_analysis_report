@@ -33,5 +33,5 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[dograh-hq-dograh]] [[anthropics-claude-plugins-official]] [[anthropics-knowledge-work-plugins]] [[earendil-works-pi]]
+[[moeru-ai-airi]] [[shiyu-coder-kronos]] [[supertone-inc-supertonic]] [[lum1104-understand-anything]] [[mukul975-anthropic-cybersecurity-skills]]
 

@@ -33,5 +33,5 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[yt-dlp-yt-dlp]] [[anthropics-claude-plugins-official]] [[anthropics-knowledge-work-plugins]] [[multica-ai-andrej-karpathy-skills]] [[colbymchenry-codegraph]]
+[[multica-ai-andrej-karpathy-skills]] [[moeru-ai-airi]] [[yt-dlp-yt-dlp]] [[shiyu-coder-kronos]] [[supertone-inc-supertonic]]
 

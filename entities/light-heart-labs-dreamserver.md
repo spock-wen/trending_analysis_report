@@ -33,5 +33,5 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[hkuds-vimax]] [[dograh-hq-dograh]] [[anil-matcha-open-generative-ai]] [[yt-dlp-yt-dlp]] [[nvlabs-sana]]
+[[multica-ai-andrej-karpathy-skills]] [[moeru-ai-airi]] [[yt-dlp-yt-dlp]] [[shiyu-coder-kronos]] [[supertone-inc-supertonic]]
 

@@ -5,15 +5,15 @@ updated: 2026-05-25
 type: tool
 tags: [typescript, ai-agent, web, cli]
 sources: [raw/trending/2026-05-25.json]
-confidence: low
-trending_count_daily: 1
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-05-25
 last_trending: 2026-05-25
 peak_rank: 6
-total_stars: 53893
+total_stars: 53901
 language: "TypeScript"
 ---
 
@@ -22,16 +22,17 @@ language: "TypeScript"
 AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
 - 语言: TypeScript
-- 上榜次数: 1 次
-- 连续上榜: 1 天
+- 上榜次数: 2 次
+- 连续上榜: 2 天
 - 最高排名: #6
 - 链接: [earendil-works/pi](https://github.com/earendil-works/pi)
 
 ## 上榜历史
 
   - 2026-05-25: #6, +444⭐
+  - 2026-05-24: #6, +444⭐
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[anthropics-claude-plugins-official]] [[can1357-oh-my-pi]] [[trimstray-the-book-of-secret-knowledge]] [[chromedevtools-chrome-devtools-mcp]]
+[[moeru-ai-airi]] [[multica-ai-andrej-karpathy-skills]] [[chromedevtools-chrome-devtools-mcp]] [[garrytan-gstack]] [[lum1104-understand-anything]]
 

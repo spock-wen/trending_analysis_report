@@ -33,5 +33,5 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[cloakhq-cloakbrowser]] [[diolinux-photogimp]] [[odoo-odoo]] [[obra-superpowers]]
+[[moeru-ai-airi]] [[cloakhq-cloakbrowser]] [[garrytan-gstack]] [[lum1104-understand-anything]] [[diolinux-photogimp]]
 

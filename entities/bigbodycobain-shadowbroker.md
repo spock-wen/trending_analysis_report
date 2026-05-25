@@ -34,5 +34,5 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[fincept-corporation-finceptterminal]] [[influxdata-telegraf]] [[anthropics-claude-plugins-official]] [[anthropics-knowledge-work-plugins]] [[plausible-analytics]]
+[[influxdata-telegraf]] [[multica-ai-andrej-karpathy-skills]] [[shiyu-coder-kronos]] [[lum1104-understand-anything]] [[plausible-analytics]]
 

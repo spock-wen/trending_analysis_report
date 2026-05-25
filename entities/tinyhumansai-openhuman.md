@@ -6,14 +6,14 @@ type: tool
 tags: [rust, ai-agent, rising]
 sources: [raw/trending/2026-05-21.json]
 confidence: high
-trending_count_daily: 5
+trending_count_daily: 6
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 4
+consecutive_days: 6
 first_trending: 2026-05-16
 last_trending: 2026-05-21
 peak_rank: 1
-total_stars: 23651
+total_stars: 9679
 language: "Rust"
 ---
 
@@ -22,8 +22,8 @@ language: "Rust"
 Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 - 语言: Rust
-- 上榜次数: 5 次
-- 连续上榜: 4 天
+- 上榜次数: 6 次
+- 连续上榜: 6 天
 - 最高排名: #1
 - 链接: [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
 
@@ -33,9 +33,9 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
   - 2026-05-20: #1, +3973⭐
   - 2026-05-19: #1, +3941⭐
   - 2026-05-18: #1, +1694⭐
-  - 2026-05-16: #1, +1271⭐
+  - 2026-05-17: #1, +1271⭐
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[rtk-ai-rtk]] [[multica-ai-andrej-karpathy-skills]] [[colbymchenry-codegraph]] [[ruvnet-ruview]]
+[[multica-ai-andrej-karpathy-skills]] [[ruvnet-ruview]] [[lum1104-understand-anything]] [[colbymchenry-codegraph]] [[rtk-ai-rtk]]
 

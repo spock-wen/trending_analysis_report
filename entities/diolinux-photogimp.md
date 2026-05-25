@@ -33,5 +33,5 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[cloakhq-cloakbrowser]] [[can1357-oh-my-pi]] [[trimstray-the-book-of-secret-knowledge]] [[odoo-odoo]] [[chromedevtools-chrome-devtools-mcp]]
+[[moeru-ai-airi]] [[cloakhq-cloakbrowser]] [[chromedevtools-chrome-devtools-mcp]] [[earendil-works-pi]] [[can1357-oh-my-pi]]
 

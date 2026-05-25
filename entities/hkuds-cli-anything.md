@@ -37,5 +37,5 @@ language: "Python"
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[anthropics-claude-plugins-official]] [[can1357-oh-my-pi]] [[trimstray-the-book-of-secret-knowledge]] [[anthropics-knowledge-work-plugins]]
+[[multica-ai-andrej-karpathy-skills]] [[moeru-ai-airi]] [[chromedevtools-chrome-devtools-mcp]] [[shiyu-coder-kronos]] [[lum1104-understand-anything]]
 

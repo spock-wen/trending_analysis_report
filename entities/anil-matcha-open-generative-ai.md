@@ -33,5 +33,5 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[hkuds-vimax]] [[truelockmc-streambert]] [[nvlabs-sana]] [[anthropics-claude-plugins-official]] [[alishahryar1-free-claude-code]]
+[[multica-ai-andrej-karpathy-skills]] [[lum1104-understand-anything]] [[hkuds-vimax]] [[colbymchenry-codegraph]] [[truelockmc-streambert]]
 

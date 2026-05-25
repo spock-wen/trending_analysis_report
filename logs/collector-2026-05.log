@@ -226,3 +226,13 @@
 [2026-05-25 07:02:53] [WARNING] 尝试 2/3 失败: curl 失败: returncode=28, stderr=，10s 后重试...
 [2026-05-25 07:03:03] [INFO] 抓取 https://github.com/trending (proxy=http://127.0.0.1:7890)
 [2026-05-25 07:03:18] [ERROR] 抓取失败，已重试 3 次: curl 失败: returncode=28, stderr=
+[2026-05-26 07:00:18] [INFO] === GitHub Trending 采集开始 (2026-05-26) ===
+[2026-05-26 07:00:18] [INFO] 抓取 https://github.com/trending (proxy=http://127.0.0.1:7890)
+[2026-05-26 07:00:20] [INFO] 抓取成功，HTML 大小: 642539 bytes
+[2026-05-26 07:00:20] [INFO] 解析到 17 个项目
+[2026-05-26 07:00:20] [INFO] 原始数据已保存: /srv/www/github-trending-wiki/raw/trending/2026-05-26.json
+[2026-05-26 07:00:20] [INFO] 数据库写入成功: 17 条记录 (首次运行: True)
+[2026-05-26 07:00:20] [INFO] 无描述变更
+[2026-05-26 07:00:20] [INFO] 趋势信号: TypeScript 领域 4 个项目上榜
+[2026-05-26 07:00:20] [INFO] 趋势信号: Python 领域 6 个项目上榜
+[2026-05-26 07:00:20] [INFO] === 采集完成: 17 个项目 ===

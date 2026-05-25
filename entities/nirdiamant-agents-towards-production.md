@@ -33,5 +33,5 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[karpathy-nn-zero-to-hero]] [[lum1104-understand-anything]] [[cloakhq-cloakbrowser]] [[diolinux-photogimp]] [[anthropics-claude-plugins-official]]
+[[multica-ai-andrej-karpathy-skills]] [[cloakhq-cloakbrowser]] [[microsoft-ai-agents-for-beginners]] [[ruvnet-ruview]] [[karpathy-nn-zero-to-hero]]
 

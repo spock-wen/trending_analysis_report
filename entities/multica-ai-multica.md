@@ -5,15 +5,15 @@ updated: 2026-05-25
 type: tool
 tags: [typescript, ai-agent]
 sources: [raw/trending/2026-05-25.json]
-confidence: medium
-trending_count_daily: 2
+confidence: high
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-05-22
 last_trending: 2026-05-25
 peak_rank: 9
-total_stars: 32454
+total_stars: 32460
 language: "TypeScript"
 ---
 
@@ -22,17 +22,18 @@ language: "TypeScript"
 The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 
 - 语言: TypeScript
-- 上榜次数: 2 次
-- 连续上榜: 1 天
+- 上榜次数: 3 次
+- 连续上榜: 2 天
 - 最高排名: #9
 - 链接: [multica-ai/multica](https://github.com/multica-ai/multica)
 
 ## 上榜历史
 
   - 2026-05-25: #9, +584⭐
+  - 2026-05-24: #9, +584⭐
   - 2026-05-22: #13, +511⭐
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]] [[earendil-works-pi]] [[colbymchenry-codegraph]]
+[[moeru-ai-airi]] [[multica-ai-andrej-karpathy-skills]] [[garrytan-gstack]] [[lum1104-understand-anything]] [[colbymchenry-codegraph]]
 

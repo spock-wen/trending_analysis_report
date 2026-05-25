@@ -11,7 +11,8 @@ GitHub Trending Wiki Lint / Health Check
 import os
 import re
 import sys
-from datetime import datetime, timedelta
+import sqlite3
+from datetime import datetime, timedelta, date
 
 WIKI_PATH = "/srv/www/github-trending-wiki"
 ENTITIES_DIR = os.path.join(WIKI_PATH, "entities")
@@ -21,6 +22,40 @@ REPORTS_DIR = os.path.join(WIKI_PATH, "reports")
 REQUIRED_FRONTMATTER = ['title', 'created', 'updated', 'type', 'tags', 'confidence']
 VALID_TYPES = ['entity', 'concept', 'comparison', 'query', 'tool', 'framework', 'tutorial', 'library', 'app', 'model', 'dataset', 'benchmark', 'awesome-list']
 VALID_CONFIDENCE = ['high', 'medium', 'low']
+
+DB_PATH = os.path.join(WIKI_PATH, "data", "github_trending.db")
+
+
+def check_db_integrity():
+    """检查 DB 数据完整性（最近 3 天是否有缺失）"""
+    issues = {'critical': [], 'warning': [], 'info': []}
+    if not os.path.exists(DB_PATH):
+        issues['warning'].append("DB 文件不存在: data/github_trending.db")
+        return issues
+    try:
+        import sqlite3 as db_lib
+        conn = db_lib.connect(DB_PATH)
+        today = date.today()
+        for offset in range(1, 4):
+            check_date = (today - timedelta(days=offset)).isoformat()
+            count = conn.execute(
+                'SELECT COUNT(*) FROM trending_daily WHERE date=? AND period="daily"',
+                (check_date,)
+            ).fetchone()[0]
+            if count == 0:
+                raw_file = os.path.join(WIKI_PATH, 'raw', 'trending', f'{check_date}.json')
+                if os.path.exists(raw_file):
+                    issues['critical'].append(
+                        f"DB 缺失 {check_date} 数据，但 raw 文件存在 — 可运行 `python3 scripts/backfill.py {check_date}` 补采"
+                    )
+                else:
+                    issues['critical'].append(
+                        f"DB 缺失 {check_date} 数据，且无 raw 文件 — 数据可能永久丢失"
+                    )
+        conn.close()
+    except Exception as e:
+        issues['warning'].append(f"DB 完整性检查失败: {e}")
+    return issues
 
 # Tag taxonomy (from SCHEMA.md)
 VALID_TAGS = {
@@ -69,6 +104,7 @@ def extract_wikilinks(content):
 def lint_pages():
     """运行所有 lint 检查"""
     issues = {'critical': [], 'warning': [], 'info': []}
+
     pages = get_all_wiki_pages()
     page_slugs = {os.path.splitext(os.path.basename(p))[0]: p for p in pages}
 
@@ -252,8 +288,14 @@ def generate_report(issues):
 def main():
     fix_mode = '--fix' in sys.argv
 
-    print("=== GitHub Trending Wiki Lint ===")
+    print("=== GitHub Trending Wiki Lint ===\n")
     issues = lint_pages()
+    
+    # DB 数据完整性检查（独立运行，避免局部 import 冲突）
+    db_issues = check_db_integrity()
+    for severity in db_issues:
+        issues[severity].extend(db_issues[severity])
+    
     report = generate_report(issues)
 
     # 输出到终端

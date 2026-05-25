@@ -6,7 +6,7 @@
 - 飞书推送 + Git commit
 """
 
-import json, os, sys, subprocess, datetime, requests, sqlite3, re
+import json, os, sys, subprocess, datetime, requests, sqlite3, re, time
 from collections import defaultdict
 
 BASE = '/srv/www/github-trending-wiki'
@@ -43,13 +43,56 @@ def detect_domains(repo, desc, language=''):
 # ============ 第一步：采集 ============
 def collect():
     print(f"[1/5] 采集 GitHub Trending 数据...")
-    result = subprocess.run(
-        ['python3', f'{BASE}/scripts/github_trending_collector.py'],
-        capture_output=True, text=True, cwd=BASE, timeout=120
-    )
-    if result.returncode != 0:
-        print(f"  采集失败: {result.stderr[-500:]}")
-        return False
+    
+    # 先检查今天是否已有数据，避免重复采集
+    conn = sqlite3.connect(DB_PATH)
+    existing = conn.execute(
+        'SELECT COUNT(*) FROM trending_daily WHERE date=? AND period="daily"',
+        (TODAY,)
+    ).fetchone()[0]
+    conn.close()
+    if existing > 0:
+        print(f"  今日数据已存在 ({existing} 条记录)，跳过采集")
+        return True
+    
+    # 检查昨天数据是否缺失，缺失则先补采昨天
+    yesterday = (datetime.date.today() - datetime.timedelta(days=1)).isoformat()
+    conn = sqlite3.connect(DB_PATH)
+    y_exists = conn.execute(
+        'SELECT COUNT(*) FROM trending_daily WHERE date=? AND period="daily"',
+        (yesterday,)
+    ).fetchone()[0]
+    conn.close()
+    if y_exists == 0:
+        y_file = f'{RAW_DIR}/{yesterday}.json'
+        if os.path.exists(y_file):
+            print(f"  检测到昨日 ({yesterday}) 数据缺失，raw 文件存在，尝试补采...")
+            result = subprocess.run(
+                ['python3', f'{BASE}/scripts/backfill.py', yesterday],
+                capture_output=True, text=True, cwd=BASE, timeout=60
+            )
+            if result.returncode == 0:
+                print(f"  昨日数据补采成功")
+            else:
+                print(f"  昨日数据补采失败: {result.stderr[-200:]}")
+    
+    # 采集今日数据（带重试）
+    max_attempts = 3
+    for attempt in range(1, max_attempts + 1):
+        result = subprocess.run(
+            ['python3', f'{BASE}/scripts/github_trending_collector.py'],
+            capture_output=True, text=True, cwd=BASE, timeout=180  # 延长到 3 分钟
+        )
+        if result.returncode == 0:
+            break
+        if attempt < max_attempts:
+            print(f"  采集失败 (attempt {attempt}/{max_attempts})，60s 后重试...")
+            print(f"  stderr: {result.stderr[-200:]}")
+            time.sleep(60)
+        else:
+            print(f"  采集失败 (attempt {attempt}/{max_attempts}): {result.stderr[-500:]}")
+            return False
+    
     today_file = f'{RAW_DIR}/{TODAY}.json'
     if not os.path.exists(today_file):
         print(f"  今日数据文件不存在: {today_file}")
@@ -57,6 +100,9 @@ def collect():
     with open(today_file) as f:
         data = json.load(f)
     projects = data.get('projects', [])
+    if not projects:
+        print(f"  今日数据为空")
+        return False
     print(f"  采集完成: {len(projects)} 个项目")
     
     # 确保 DB repo_stats 与今日数据同步

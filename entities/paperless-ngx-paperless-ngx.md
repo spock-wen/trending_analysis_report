@@ -33,5 +33,5 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[imbad0202-academic-research-skills]] [[fincept-corporation-finceptterminal]] [[rohitg00-ai-engineering-from-scratch]] [[affaan-m-ecc]]
+[[anthropics-knowledge-work-plugins]] [[st-tech-ppf-contact-solver]] [[rohitg00-ai-engineering-from-scratch]] [[affaan-m-ecc]] [[fincept-corporation-finceptterminal]]
 

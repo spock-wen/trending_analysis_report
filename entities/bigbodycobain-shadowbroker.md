@@ -34,5 +34,5 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[influxdata-telegraf]] [[multica-ai-andrej-karpathy-skills]] [[shiyu-coder-kronos]] [[lum1104-understand-anything]] [[plausible-analytics]]
+[[lum1104-understand-anything]] [[plausible-analytics]] [[anthropics-knowledge-work-plugins]] [[influxdata-telegraf]] [[st-tech-ppf-contact-solver]]
 

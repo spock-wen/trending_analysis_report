@@ -36,5 +36,5 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[shiyu-coder-kronos]] [[lum1104-understand-anything]] [[paperless-ngx-paperless-ngx]] [[colbymchenry-codegraph]]
+[[lum1104-understand-anything]] [[paperless-ngx-paperless-ngx]] [[anthropics-knowledge-work-plugins]] [[st-tech-ppf-contact-solver]] [[rohitg00-ai-engineering-from-scratch]]
 

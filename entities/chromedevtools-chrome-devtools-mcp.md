@@ -34,5 +34,5 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[multica-ai-andrej-karpathy-skills]] [[garrytan-gstack]] [[lum1104-understand-anything]] [[earendil-works-pi]]
+[[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[anthropics-knowledge-work-plugins]] [[moeru-ai-airi]] [[twentyhq-twenty]]
 

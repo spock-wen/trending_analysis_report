@@ -34,5 +34,5 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[influxdata-telegraf]] [[multica-ai-andrej-karpathy-skills]] [[shiyu-coder-kronos]] [[lum1104-understand-anything]] [[plausible-analytics]]
+[[lum1104-understand-anything]] [[plausible-analytics]] [[anthropics-knowledge-work-plugins]] [[bigbodycobain-shadowbroker]] [[influxdata-telegraf]]
 

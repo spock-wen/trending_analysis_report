@@ -33,5 +33,5 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[cloakhq-cloakbrowser]] [[shiyu-coder-kronos]] [[diolinux-photogimp]] [[fincept-corporation-finceptterminal]] [[obra-superpowers]]
+[[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[cloakhq-cloakbrowser]] [[st-tech-ppf-contact-solver]] [[rohitg00-ai-engineering-from-scratch]]
 

@@ -36,5 +36,5 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[shiyu-coder-kronos]] [[imbad0202-academic-research-skills]] [[lum1104-understand-anything]] [[paperless-ngx-paperless-ngx]]
+[[lum1104-understand-anything]] [[paperless-ngx-paperless-ngx]] [[anthropics-knowledge-work-plugins]] [[st-tech-ppf-contact-solver]] [[rohitg00-ai-engineering-from-scratch]]
 

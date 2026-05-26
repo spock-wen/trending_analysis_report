@@ -35,5 +35,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[multica-ai-andrej-karpathy-skills]] [[chromedevtools-chrome-devtools-mcp]] [[garrytan-gstack]] [[lum1104-understand-anything]]
+[[lum1104-understand-anything]] [[anthropics-knowledge-work-plugins]] [[moeru-ai-airi]] [[twentyhq-twenty]] [[st-tech-ppf-contact-solver]]
 

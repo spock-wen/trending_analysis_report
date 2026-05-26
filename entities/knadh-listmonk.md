@@ -33,5 +33,5 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[influxdata-telegraf]] [[multica-ai-andrej-karpathy-skills]] [[alireza0-s-ui]] [[lum1104-understand-anything]] [[colbymchenry-codegraph]]
+[[lum1104-understand-anything]] [[anthropics-knowledge-work-plugins]] [[influxdata-telegraf]] [[rohitg00-ai-engineering-from-scratch]] [[alireza0-s-ui]]
 

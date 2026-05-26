@@ -33,5 +33,5 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[microsoft-ai-agents-for-beginners]] [[karpathy-nn-zero-to-hero]] [[lum1104-understand-anything]] [[colbymchenry-codegraph]]
+[[lum1104-understand-anything]] [[microsoft-ai-agents-for-beginners]] [[anthropics-knowledge-work-plugins]] [[rohitg00-ai-engineering-from-scratch]] [[nirdiamant-agents-towards-production]]
 

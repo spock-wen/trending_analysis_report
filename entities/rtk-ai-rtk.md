@@ -33,5 +33,5 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[ruvnet-ruview]] [[lum1104-understand-anything]] [[mukul975-anthropic-cybersecurity-skills]] [[colbymchenry-codegraph]]
+[[lum1104-understand-anything]] [[ruvnet-ruview]] [[anthropics-knowledge-work-plugins]] [[st-tech-ppf-contact-solver]] [[rohitg00-ai-engineering-from-scratch]]
 

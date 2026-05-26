@@ -33,5 +33,5 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[moeru-ai-airi]] [[yt-dlp-yt-dlp]] [[shiyu-coder-kronos]] [[supertone-inc-supertonic]]
+[[hkuds-vimax]] [[lum1104-understand-anything]] [[alishahryar1-free-claude-code]] [[anthropics-knowledge-work-plugins]] [[yt-dlp-yt-dlp]]
 

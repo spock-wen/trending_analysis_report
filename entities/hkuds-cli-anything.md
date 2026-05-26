@@ -37,5 +37,5 @@ language: "Python"
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[moeru-ai-airi]] [[chromedevtools-chrome-devtools-mcp]] [[shiyu-coder-kronos]] [[lum1104-understand-anything]]
+[[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[anthropics-knowledge-work-plugins]] [[st-tech-ppf-contact-solver]] [[moeru-ai-airi]]
 

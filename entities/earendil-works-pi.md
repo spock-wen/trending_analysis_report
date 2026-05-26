@@ -34,5 +34,5 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[multica-ai-andrej-karpathy-skills]] [[chromedevtools-chrome-devtools-mcp]] [[garrytan-gstack]] [[lum1104-understand-anything]]
+[[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[anthropics-knowledge-work-plugins]] [[moeru-ai-airi]] [[twentyhq-twenty]]
 

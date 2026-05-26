@@ -37,5 +37,5 @@ An agentic skills framework and software development methodology that works.
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[cloakhq-cloakbrowser]] [[mattpocock-skills]] [[lum1104-understand-anything]] [[mukul975-anthropic-cybersecurity-skills]]
+[[lum1104-understand-anything]] [[anthropics-knowledge-work-plugins]] [[cloakhq-cloakbrowser]] [[st-tech-ppf-contact-solver]] [[rohitg00-ai-engineering-from-scratch]]
 

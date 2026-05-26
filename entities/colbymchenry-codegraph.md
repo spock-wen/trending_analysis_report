@@ -37,5 +37,5 @@ Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[multica-ai-andrej-karpathy-skills]] [[garrytan-gstack]] [[lum1104-understand-anything]] [[rohitg00-ai-engineering-from-scratch]]
+[[lum1104-understand-anything]] [[anthropics-knowledge-work-plugins]] [[twentyhq-twenty]] [[rohitg00-ai-engineering-from-scratch]] [[thedotmack-claude-mem]]
 

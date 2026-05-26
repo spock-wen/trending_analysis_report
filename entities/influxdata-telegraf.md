@@ -34,5 +34,5 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[alireza0-s-ui]] [[lum1104-understand-anything]] [[plausible-analytics]] [[colbymchenry-codegraph]]
+[[lum1104-understand-anything]] [[plausible-analytics]] [[anthropics-knowledge-work-plugins]] [[bigbodycobain-shadowbroker]] [[knadh-listmonk]]
 

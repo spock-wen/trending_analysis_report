@@ -37,5 +37,5 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[ruvnet-ruview]] [[lum1104-understand-anything]] [[colbymchenry-codegraph]] [[rtk-ai-rtk]]
+[[lum1104-understand-anything]] [[ruvnet-ruview]] [[anthropics-knowledge-work-plugins]] [[rohitg00-ai-engineering-from-scratch]] [[rtk-ai-rtk]]
 

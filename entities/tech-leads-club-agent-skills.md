@@ -34,5 +34,5 @@ The secure, validated skill registry for professional AI coding agents. Extend A
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[multica-ai-andrej-karpathy-skills]] [[garrytan-gstack]] [[lum1104-understand-anything]] [[colbymchenry-codegraph]]
+[[lum1104-understand-anything]] [[anthropics-knowledge-work-plugins]] [[twentyhq-twenty]] [[rohitg00-ai-engineering-from-scratch]] [[thedotmack-claude-mem]]
 

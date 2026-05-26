@@ -34,5 +34,5 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[lum1104-understand-anything]] [[mukul975-anthropic-cybersecurity-skills]] [[msitarzewski-agency-agents]] [[colbymchenry-codegraph]]
+[[lum1104-understand-anything]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[st-tech-ppf-contact-solver]] [[rohitg00-ai-engineering-from-scratch]]
 

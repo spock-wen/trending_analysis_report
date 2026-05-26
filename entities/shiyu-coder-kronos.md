@@ -35,5 +35,5 @@ Kronos: A Foundation Model for the Language of Financial Markets
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[anthropics-knowledge-work-plugins]] [[fincept-corporation-finceptterminal]]
+[[mukul975-anthropic-cybersecurity-skills]] [[st-tech-ppf-contact-solver]] [[anthropics-knowledge-work-plugins]] [[rohitg00-ai-engineering-from-scratch]]
 

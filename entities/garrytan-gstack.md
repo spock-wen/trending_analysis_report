@@ -33,5 +33,5 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[multica-ai-andrej-karpathy-skills]] [[lum1104-understand-anything]] [[colbymchenry-codegraph]] [[rohitg00-ai-engineering-from-scratch]]
+[[lum1104-understand-anything]] [[anthropics-knowledge-work-plugins]] [[twentyhq-twenty]] [[rohitg00-ai-engineering-from-scratch]] [[thedotmack-claude-mem]]
 

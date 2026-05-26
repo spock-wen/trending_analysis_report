@@ -33,5 +33,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[chromedevtools-chrome-devtools-mcp]] [[yt-dlp-yt-dlp]] [[garrytan-gstack]] [[lum1104-understand-anything]]
+[[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[alishahryar1-free-claude-code]] [[anthropics-knowledge-work-plugins]] [[yt-dlp-yt-dlp]]
 

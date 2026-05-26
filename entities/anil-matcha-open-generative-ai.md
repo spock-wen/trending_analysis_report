@@ -33,5 +33,5 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[lum1104-understand-anything]] [[hkuds-vimax]] [[colbymchenry-codegraph]] [[truelockmc-streambert]]
+[[hkuds-vimax]] [[lum1104-understand-anything]] [[anthropics-knowledge-work-plugins]] [[nvlabs-sana]] [[rohitg00-ai-engineering-from-scratch]]
 

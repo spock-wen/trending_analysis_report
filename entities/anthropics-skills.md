@@ -34,5 +34,5 @@ Public repository for Agent Skills
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[shiyu-coder-kronos]] [[lum1104-understand-anything]] [[colbymchenry-codegraph]] [[fincept-corporation-finceptterminal]]
+[[lum1104-understand-anything]] [[anthropics-knowledge-work-plugins]] [[st-tech-ppf-contact-solver]] [[rohitg00-ai-engineering-from-scratch]] [[mukul975-anthropic-cybersecurity-skills]]
 

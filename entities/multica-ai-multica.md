@@ -35,5 +35,5 @@ The open-source managed agents platform. Turn coding agents into real teammates 
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[multica-ai-andrej-karpathy-skills]] [[garrytan-gstack]] [[lum1104-understand-anything]] [[colbymchenry-codegraph]]
+[[lum1104-understand-anything]] [[anthropics-knowledge-work-plugins]] [[twentyhq-twenty]] [[rohitg00-ai-engineering-from-scratch]] [[thedotmack-claude-mem]]
 

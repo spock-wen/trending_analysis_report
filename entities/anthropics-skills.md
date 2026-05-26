@@ -34,5 +34,5 @@ Public repository for Agent Skills
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[anthropics-knowledge-work-plugins]] [[st-tech-ppf-contact-solver]] [[rohitg00-ai-engineering-from-scratch]] [[mukul975-anthropic-cybersecurity-skills]]
+[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[lum1104-understand-anything]] [[rohitg00-ai-engineering-from-scratch]] [[st-tech-ppf-contact-solver]]
 

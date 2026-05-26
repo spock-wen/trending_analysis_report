@@ -33,5 +33,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[alishahryar1-free-claude-code]] [[anthropics-knowledge-work-plugins]] [[yt-dlp-yt-dlp]]
+[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[yt-dlp-yt-dlp]] [[twentyhq-twenty]] [[lum1104-understand-anything]]
 

@@ -34,5 +34,5 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[plausible-analytics]] [[anthropics-knowledge-work-plugins]] [[influxdata-telegraf]] [[st-tech-ppf-contact-solver]]
+[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[lum1104-understand-anything]] [[plausible-analytics]] [[influxdata-telegraf]]
 

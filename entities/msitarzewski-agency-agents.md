@@ -35,5 +35,5 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[obra-superpowers]] [[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[anthropics-knowledge-work-plugins]] [[moeru-ai-airi]]
+[[mukul975-anthropic-cybersecurity-skills]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[leonxlnx-taste-skill]] [[moeru-ai-airi]]
 

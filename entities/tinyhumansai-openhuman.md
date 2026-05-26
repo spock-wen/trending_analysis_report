@@ -37,5 +37,5 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[ruvnet-ruview]] [[anthropics-knowledge-work-plugins]] [[rohitg00-ai-engineering-from-scratch]] [[rtk-ai-rtk]]
+[[oven-sh-bun]] [[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[ruvnet-ruview]] [[lum1104-understand-anything]]
 

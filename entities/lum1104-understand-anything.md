@@ -37,5 +37,5 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[microsoft-ai-agents-for-beginners]] [[st-tech-ppf-contact-solver]] [[twentyhq-twenty]] [[rohitg00-ai-engineering-from-scratch]]
+[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[leonxlnx-taste-skill]] [[microsoft-ai-agents-for-beginners]] [[twentyhq-twenty]]
 

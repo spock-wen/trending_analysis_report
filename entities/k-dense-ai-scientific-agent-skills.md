@@ -36,5 +36,5 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[paperless-ngx-paperless-ngx]] [[anthropics-knowledge-work-plugins]] [[st-tech-ppf-contact-solver]] [[rohitg00-ai-engineering-from-scratch]]
+[[mukul975-anthropic-cybersecurity-skills]] [[affaan-m-ecc]] [[paperless-ngx-paperless-ngx]] [[imbad0202-academic-research-skills]] [[anthropics-knowledge-work-plugins]]
 

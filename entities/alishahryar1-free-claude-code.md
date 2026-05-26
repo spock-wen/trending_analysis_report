@@ -35,5 +35,5 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[anthropics-knowledge-work-plugins]] [[yt-dlp-yt-dlp]] [[st-tech-ppf-contact-solver]] [[moeru-ai-airi]]
+[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[leonxlnx-taste-skill]] [[moeru-ai-airi]] [[yt-dlp-yt-dlp]]
 

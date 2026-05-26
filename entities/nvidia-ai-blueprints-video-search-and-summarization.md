@@ -34,5 +34,5 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[plausible-analytics]] [[anthropics-knowledge-work-plugins]] [[bigbodycobain-shadowbroker]] [[influxdata-telegraf]]
+[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[lum1104-understand-anything]] [[plausible-analytics]] [[influxdata-telegraf]]
 

@@ -33,5 +33,5 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[can1357-oh-my-pi]] [[anthropics-knowledge-work-plugins]] [[moeru-ai-airi]] [[rohitg00-ai-engineering-from-scratch]]
+[[mukul975-anthropic-cybersecurity-skills]] [[moeru-ai-airi]] [[anthropics-knowledge-work-plugins]] [[lum1104-understand-anything]] [[earendil-works-pi]]
 

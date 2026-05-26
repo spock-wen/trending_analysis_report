@@ -37,5 +37,5 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[rohitg00-ai-engineering-from-scratch]]
+[[rohitg00-ai-engineering-from-scratch]] [[lum1104-understand-anything]] [[anthropics-knowledge-work-plugins]] [[mukul975-anthropic-cybersecurity-skills]]
 

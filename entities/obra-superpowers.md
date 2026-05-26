@@ -37,5 +37,5 @@ An agentic skills framework and software development methodology that works.
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[anthropics-knowledge-work-plugins]] [[cloakhq-cloakbrowser]] [[st-tech-ppf-contact-solver]] [[rohitg00-ai-engineering-from-scratch]]
+[[mukul975-anthropic-cybersecurity-skills]] [[odoo-odoo]] [[cloakhq-cloakbrowser]] [[anthropics-knowledge-work-plugins]] [[leonxlnx-taste-skill]]
 

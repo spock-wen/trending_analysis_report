@@ -37,5 +37,5 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[anthropics-knowledge-work-plugins]] [[microsoft-ai-agents-for-beginners]] [[st-tech-ppf-contact-solver]] [[nirdiamant-agents-towards-production]]
+[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[microsoft-ai-agents-for-beginners]] [[lum1104-understand-anything]] [[nirdiamant-agents-towards-production]]
 

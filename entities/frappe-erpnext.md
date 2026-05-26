@@ -33,5 +33,5 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[cloakhq-cloakbrowser]] [[st-tech-ppf-contact-solver]] [[rohitg00-ai-engineering-from-scratch]]
+[[mukul975-anthropic-cybersecurity-skills]] [[odoo-odoo]] [[obra-superpowers]] [[cloakhq-cloakbrowser]] [[anthropics-knowledge-work-plugins]]
 

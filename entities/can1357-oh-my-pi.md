@@ -35,5 +35,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[anthropics-knowledge-work-plugins]] [[moeru-ai-airi]] [[twentyhq-twenty]] [[st-tech-ppf-contact-solver]]
+[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[moeru-ai-airi]] [[leonxlnx-taste-skill]] [[twentyhq-twenty]]
 

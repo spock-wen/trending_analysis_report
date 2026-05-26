@@ -33,5 +33,5 @@ The open alternative to Salesforce, designed for AI.
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[anthropics-knowledge-work-plugins]] [[rohitg00-ai-engineering-from-scratch]] [[thedotmack-claude-mem]] [[open-dev-society-openstock]]
+[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[lum1104-understand-anything]] [[open-dev-society-openstock]] [[rohitg00-ai-engineering-from-scratch]]
 

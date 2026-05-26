@@ -36,5 +36,5 @@ language: "Python"
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[plausible-analytics]] [[anthropics-knowledge-work-plugins]] [[cloakhq-cloakbrowser]] [[st-tech-ppf-contact-solver]]
+[[cloakhq-cloakbrowser]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[leonxlnx-taste-skill]] [[lum1104-understand-anything]]
 

@@ -33,5 +33,5 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[alishahryar1-free-claude-code]] [[anthropics-knowledge-work-plugins]] [[st-tech-ppf-contact-solver]] [[moeru-ai-airi]]
+[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[leonxlnx-taste-skill]] [[moeru-ai-airi]] [[lum1104-understand-anything]]
 

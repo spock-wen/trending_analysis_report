@@ -36,5 +36,5 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[anthropics-knowledge-work-plugins]] [[jellyfin-jellyfin]] [[rohitg00-ai-engineering-from-scratch]] [[mukul975-anthropic-cybersecurity-skills]]
+[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[jellyfin-jellyfin]] [[lum1104-understand-anything]] [[rohitg00-ai-engineering-from-scratch]]
 

@@ -33,5 +33,5 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[anthropics-knowledge-work-plugins]] [[rohitg00-ai-engineering-from-scratch]] [[leonxlnx-taste-skill]] [[mukul975-anthropic-cybersecurity-skills]]
+[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[leonxlnx-taste-skill]] [[lum1104-understand-anything]] [[rohitg00-ai-engineering-from-scratch]]
 

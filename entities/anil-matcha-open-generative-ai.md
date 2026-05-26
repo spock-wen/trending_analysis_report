@@ -33,5 +33,5 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[hkuds-vimax]] [[lum1104-understand-anything]] [[anthropics-knowledge-work-plugins]] [[nvlabs-sana]] [[rohitg00-ai-engineering-from-scratch]]
+[[mukul975-anthropic-cybersecurity-skills]] [[affaan-m-ecc]] [[hkuds-vimax]] [[anthropics-knowledge-work-plugins]] [[truelockmc-streambert]]
 

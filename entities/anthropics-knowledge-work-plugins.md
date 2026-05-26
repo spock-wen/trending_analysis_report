@@ -36,5 +36,5 @@ Open source repository of plugins primarily intended for knowledge workers to us
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[mukul975-anthropic-cybersecurity-skills]] [[st-tech-ppf-contact-solver]] [[rohitg00-ai-engineering-from-scratch]]
+[[rohitg00-ai-engineering-from-scratch]] [[mukul975-anthropic-cybersecurity-skills]] [[lum1104-understand-anything]] [[st-tech-ppf-contact-solver]]
 

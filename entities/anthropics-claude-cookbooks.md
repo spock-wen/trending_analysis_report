@@ -33,5 +33,5 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[microsoft-ai-agents-for-beginners]] [[anthropics-knowledge-work-plugins]] [[rohitg00-ai-engineering-from-scratch]] [[nirdiamant-agents-towards-production]]
+[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[microsoft-ai-agents-for-beginners]] [[lum1104-understand-anything]] [[karpathy-nn-zero-to-hero]]
 

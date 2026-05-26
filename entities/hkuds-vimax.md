@@ -34,5 +34,5 @@ language: "Python"
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[anthropics-knowledge-work-plugins]] [[nvlabs-sana]] [[anil-matcha-open-generative-ai]] [[st-tech-ppf-contact-solver]]
+[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[lum1104-understand-anything]] [[anil-matcha-open-generative-ai]] [[rohitg00-ai-engineering-from-scratch]]
 

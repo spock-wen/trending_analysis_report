@@ -33,5 +33,5 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[st-tech-ppf-contact-solver]] [[rohitg00-ai-engineering-from-scratch]] [[affaan-m-ecc]] [[fincept-corporation-finceptterminal]]
+[[mukul975-anthropic-cybersecurity-skills]] [[affaan-m-ecc]] [[imbad0202-academic-research-skills]] [[anthropics-knowledge-work-plugins]] [[rohitg00-ai-engineering-from-scratch]]
 

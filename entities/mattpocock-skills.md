@@ -34,5 +34,5 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[st-tech-ppf-contact-solver]] [[rohitg00-ai-engineering-from-scratch]]
+[[mukul975-anthropic-cybersecurity-skills]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[leonxlnx-taste-skill]] [[lum1104-understand-anything]]
 

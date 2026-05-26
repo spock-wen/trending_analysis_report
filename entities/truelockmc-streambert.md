@@ -34,5 +34,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[anil-matcha-open-generative-ai]] [[axorax-awesome-free-apps]] [[affaan-m-ecc]]
+[[anil-matcha-open-generative-ai]] [[affaan-m-ecc]] [[axorax-awesome-free-apps]]
 

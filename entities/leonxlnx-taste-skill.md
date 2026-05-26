@@ -34,5 +34,5 @@ Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[st-tech-ppf-contact-solver]] [[rohitg00-ai-engineering-from-scratch]]
+[[mukul975-anthropic-cybersecurity-skills]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[lum1104-understand-anything]] [[mattpocock-skills]]
 

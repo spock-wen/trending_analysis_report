@@ -37,5 +37,5 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[microsoft-ai-agents-for-beginners]] [[lum1104-understand-anything]] [[nirdiamant-agents-towards-production]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[mukul975-anthropic-cybersecurity-skills]] [[microsoft-ai-agents-for-beginners]]
 

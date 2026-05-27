@@ -33,5 +33,5 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[affaan-m-ecc]] [[hkuds-vimax]] [[anthropics-knowledge-work-plugins]] [[truelockmc-streambert]]
+[[affaan-m-ecc]] [[axorax-awesome-free-apps]] [[obra-superpowers]] [[light-heart-labs-dreamserver]] [[anthropics-knowledge-work-plugins]]
 

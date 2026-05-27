@@ -1,7 +1,7 @@
 ---
 title: "cli"
 created: unknown
-updated: 2026-05-27
+updated: 2026-05-28
 type: concept
 tags: [cli]
 confidence: medium
@@ -9,15 +9,15 @@ confidence: medium
 
 # cli
 
-## 今日上榜项目（4 个）
+## 今日上榜项目（6 个）
 
-[[lum1104-understand-anything]] [[mukul975-anthropic-cybersecurity-skills]] [[leonxlnx-taste-skill]] [[st-tech-ppf-contact-solver]]
+[[obra-superpowers]] [[lum1104-understand-anything]] [[mukul975-anthropic-cybersecurity-skills]] [[leonxlnx-taste-skill]] [[harry0703-moneyprinterturbo]] [[chachamaru127-claude-code-harness]]
 
 ## 语言分布
 
-Python 2个, TypeScript 1个, Shell 1个
+Shell 3个, Python 2个, TypeScript 1个
 
 ## 趋势观察
 
-4 个 cli 领域项目今日同时上榜，反映该领域持续活跃。
+6 个 cli 领域项目今日同时上榜，反映该领域持续活跃。
 

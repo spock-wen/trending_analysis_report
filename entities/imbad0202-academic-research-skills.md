@@ -36,5 +36,5 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[affaan-m-ecc]] [[paperless-ngx-paperless-ngx]] [[anthropics-knowledge-work-plugins]] [[lum1104-understand-anything]]
+[[harry0703-moneyprinterturbo]] [[affaan-m-ecc]] [[fincept-corporation-finceptterminal]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]]
 

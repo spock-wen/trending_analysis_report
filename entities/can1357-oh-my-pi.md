@@ -35,5 +35,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[moeru-ai-airi]] [[leonxlnx-taste-skill]] [[twentyhq-twenty]]
+[[digitalplatdev-freedomain]] [[moeru-ai-airi]] [[obra-superpowers]] [[earendil-works-pi]] [[open-dev-society-openstock]]
 

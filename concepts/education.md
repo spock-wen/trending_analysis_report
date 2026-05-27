@@ -1,7 +1,7 @@
 ---
 title: "education"
 created: unknown
-updated: 2026-05-27
+updated: 2026-05-28
 type: concept
 tags: [education]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 今日上榜项目（2 个）
 
-[[rohitg00-ai-engineering-from-scratch]] [[lum1104-understand-anything]]
+[[lum1104-understand-anything]] [[byoungd-english-level-up-tips]]
 
 ## 语言分布
 
-Python 1个, TypeScript 1个
+TypeScript 1个, ? 1个
 
 ## 趋势观察
 

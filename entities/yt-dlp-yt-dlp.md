@@ -33,5 +33,5 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[leonxlnx-taste-skill]] [[moeru-ai-airi]] [[lum1104-understand-anything]]
+[[harry0703-moneyprinterturbo]] [[supertone-inc-supertonic]] [[moeru-ai-airi]] [[obra-superpowers]] [[alishahryar1-free-claude-code]]
 

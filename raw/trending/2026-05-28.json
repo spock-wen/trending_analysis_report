@@ -1,0 +1,161 @@
+{
+  "date": "2026-05-28",
+  "scraped_at": "2026-05-28T07:01:01.384858",
+  "period": "daily",
+  "count": 17,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars_today": 1737,
+      "total_stars": 61785,
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+    },
+    {
+      "rank": 2,
+      "repo": "Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "stars_today": 4466,
+      "total_stars": 39616,
+      "url": "https://github.com/Lum1104/Understand-Anything"
+    },
+    {
+      "rank": 3,
+      "repo": "hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "language": "",
+      "stars_today": 664,
+      "total_stars": 5637,
+      "url": "https://github.com/hardikpandya/stop-slop"
+    },
+    {
+      "rank": 4,
+      "repo": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": 2062,
+      "total_stars": 195964,
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "rank": 5,
+      "repo": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars_today": 695,
+      "total_stars": 17231,
+      "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+      "rank": 6,
+      "repo": "Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "stars_today": 2715,
+      "total_stars": 24109,
+      "url": "https://github.com/Leonxlnx/taste-skill"
+    },
+    {
+      "rank": 7,
+      "repo": "p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "stars_today": 219,
+      "total_stars": 21989,
+      "url": "https://github.com/p-e-w/heretic"
+    },
+    {
+      "rank": 8,
+      "repo": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars_today": 402,
+      "total_stars": 26860,
+      "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+      "rank": 9,
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "stars_today": 885,
+      "total_stars": 10906,
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "rank": 10,
+      "repo": "twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "language": "TypeScript",
+      "stars_today": 520,
+      "total_stars": 47306,
+      "url": "https://github.com/twentyhq/twenty"
+    },
+    {
+      "rank": 11,
+      "repo": "Chachamaru127/claude-code-harness",
+      "description": "Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle",
+      "language": "Shell",
+      "stars_today": 143,
+      "total_stars": 1798,
+      "url": "https://github.com/Chachamaru127/claude-code-harness"
+    },
+    {
+      "rank": 12,
+      "repo": "DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "language": "HTML",
+      "stars_today": 2223,
+      "total_stars": 169056,
+      "url": "https://github.com/DigitalPlatDev/FreeDomain"
+    },
+    {
+      "rank": 13,
+      "repo": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": 1680,
+      "total_stars": 209460,
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "rank": 14,
+      "repo": "byoungd/English-level-up-tips",
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "",
+      "stars_today": 1133,
+      "total_stars": 46450,
+      "url": "https://github.com/byoungd/English-level-up-tips"
+    },
+    {
+      "rank": 15,
+      "repo": "iii-hq/iii",
+      "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
+      "language": "Rust",
+      "stars_today": 427,
+      "total_stars": 16829,
+      "url": "https://github.com/iii-hq/iii"
+    },
+    {
+      "rank": 16,
+      "repo": "Axorax/awesome-free-apps",
+      "description": "Curated list of the best free apps for PC and mobile",
+      "language": "JavaScript",
+      "stars_today": 728,
+      "total_stars": 5841,
+      "url": "https://github.com/Axorax/awesome-free-apps"
+    },
+    {
+      "rank": 17,
+      "repo": "moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars_today": 56,
+      "total_stars": 40196,
+      "url": "https://github.com/moeru-ai/airi"
+    }
+  ]
+}

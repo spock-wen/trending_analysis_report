@@ -33,5 +33,5 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[cloakhq-cloakbrowser]] [[odoo-odoo]] [[obra-superpowers]] [[diolinux-photogimp]] [[twentyhq-twenty]]
+[[moeru-ai-airi]] [[obra-superpowers]] [[open-dev-society-openstock]] [[twentyhq-twenty]] [[odoo-odoo]]
 

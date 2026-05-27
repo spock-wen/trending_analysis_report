@@ -33,5 +33,5 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[affaan-m-ecc]] [[imbad0202-academic-research-skills]] [[anthropics-knowledge-work-plugins]] [[rohitg00-ai-engineering-from-scratch]]
+[[harry0703-moneyprinterturbo]] [[affaan-m-ecc]] [[fincept-corporation-finceptterminal]] [[anthropics-knowledge-work-plugins]] [[mukul975-anthropic-cybersecurity-skills]]
 

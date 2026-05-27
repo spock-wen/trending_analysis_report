@@ -33,5 +33,5 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[hkuds-vimax]] [[anthropics-knowledge-work-plugins]] [[moeru-ai-airi]] [[yt-dlp-yt-dlp]]
+[[harry0703-moneyprinterturbo]] [[supertone-inc-supertonic]] [[moeru-ai-airi]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]]
 

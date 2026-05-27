@@ -33,5 +33,5 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[hkuds-vimax]] [[anthropics-knowledge-work-plugins]] [[anil-matcha-open-generative-ai]] [[rohitg00-ai-engineering-from-scratch]]
+[[harry0703-moneyprinterturbo]] [[light-heart-labs-dreamserver]] [[anthropics-knowledge-work-plugins]] [[mukul975-anthropic-cybersecurity-skills]] [[anil-matcha-open-generative-ai]]
 

@@ -33,5 +33,5 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[moeru-ai-airi]] [[yt-dlp-yt-dlp]] [[lum1104-understand-anything]]
+[[harry0703-moneyprinterturbo]] [[supertone-inc-supertonic]] [[moeru-ai-airi]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]]
 

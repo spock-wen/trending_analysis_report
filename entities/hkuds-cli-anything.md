@@ -37,5 +37,5 @@ language: "Python"
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[moeru-ai-airi]] [[leonxlnx-taste-skill]] [[lum1104-understand-anything]]
+[[harry0703-moneyprinterturbo]] [[digitalplatdev-freedomain]] [[can1357-oh-my-pi]] [[moeru-ai-airi]] [[obra-superpowers]]
 

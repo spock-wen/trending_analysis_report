@@ -34,5 +34,5 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[leonxlnx-taste-skill]] [[lum1104-understand-anything]]
+[[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[mukul975-anthropic-cybersecurity-skills]] [[msitarzewski-agency-agents]] [[chachamaru127-claude-code-harness]]
 

@@ -34,5 +34,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[twentyhq-twenty]] [[lum1104-understand-anything]] [[open-dev-society-openstock]]
+[[moeru-ai-airi]] [[obra-superpowers]] [[open-dev-society-openstock]] [[twentyhq-twenty]] [[anthropics-knowledge-work-plugins]]
 

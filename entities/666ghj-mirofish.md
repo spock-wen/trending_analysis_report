@@ -34,5 +34,5 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[mukul975-anthropic-cybersecurity-skills]] [[st-tech-ppf-contact-solver]] [[anthropics-knowledge-work-plugins]]
+[[harry0703-moneyprinterturbo]] [[anthropics-knowledge-work-plugins]] [[mukul975-anthropic-cybersecurity-skills]] [[shiyu-coder-kronos]]
 

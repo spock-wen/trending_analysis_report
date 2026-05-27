@@ -34,5 +34,5 @@ language: "Python"
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[lum1104-understand-anything]] [[anil-matcha-open-generative-ai]] [[rohitg00-ai-engineering-from-scratch]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[light-heart-labs-dreamserver]] [[anthropics-knowledge-work-plugins]] [[mukul975-anthropic-cybersecurity-skills]]
 

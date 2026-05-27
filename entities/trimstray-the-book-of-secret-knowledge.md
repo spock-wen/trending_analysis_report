@@ -34,5 +34,5 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[moeru-ai-airi]] [[leonxlnx-taste-skill]] [[lum1104-understand-anything]] [[earendil-works-pi]]
+[[digitalplatdev-freedomain]] [[can1357-oh-my-pi]] [[moeru-ai-airi]] [[obra-superpowers]] [[earendil-works-pi]]
 

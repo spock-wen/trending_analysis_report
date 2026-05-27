@@ -35,5 +35,5 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-knowledge-work-plugins]] [[lum1104-understand-anything]] [[karpathy-nn-zero-to-hero]] [[nirdiamant-agents-towards-production]]
+[[rohitg00-ai-engineering-from-scratch]] [[karpathy-nn-zero-to-hero]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[mukul975-anthropic-cybersecurity-skills]]
 

@@ -37,5 +37,5 @@ language: "Python"
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[affaan-m-ecc]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[plausible-analytics]]
+[[affaan-m-ecc]] [[cloakhq-cloakbrowser]] [[leonxlnx-taste-skill]] [[anthropics-skills]] [[unclecode-crawl4ai]]
 

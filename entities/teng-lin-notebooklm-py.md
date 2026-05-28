@@ -33,5 +33,5 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[digitalplatdev-freedomain]] [[can1357-oh-my-pi]] [[moeru-ai-airi]] [[obra-superpowers]]
+[[affaan-m-ecc]] [[leonxlnx-taste-skill]] [[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]]
 

@@ -33,5 +33,5 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[obra-superpowers]] [[open-dev-society-openstock]] [[twentyhq-twenty]] [[anthropics-knowledge-work-plugins]]
+[[affaan-m-ecc]] [[twentyhq-twenty]] [[anthropics-skills]] [[lum1104-understand-anything]] [[everyinc-compound-engineering-plugin]]
 

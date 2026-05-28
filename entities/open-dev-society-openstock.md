@@ -33,5 +33,5 @@ OpenStock is an open-source alternative to expensive market platforms. Track rea
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[obra-superpowers]] [[twentyhq-twenty]] [[anthropics-knowledge-work-plugins]] [[mukul975-anthropic-cybersecurity-skills]]
+[[affaan-m-ecc]] [[twentyhq-twenty]] [[anthropics-skills]] [[lum1104-understand-anything]] [[everyinc-compound-engineering-plugin]]
 

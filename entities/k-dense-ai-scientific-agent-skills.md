@@ -36,5 +36,5 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[affaan-m-ecc]] [[fincept-corporation-finceptterminal]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]]
+[[affaan-m-ecc]] [[imbad0202-academic-research-skills]] [[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]]
 

@@ -35,5 +35,5 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[can1357-oh-my-pi]] [[moeru-ai-airi]] [[obra-superpowers]] [[earendil-works-pi]]
+[[affaan-m-ecc]] [[leonxlnx-taste-skill]] [[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]]
 

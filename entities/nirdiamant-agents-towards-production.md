@@ -33,5 +33,5 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[karpathy-nn-zero-to-hero]] [[obra-superpowers]] [[ruvnet-ruview]] [[anthropics-knowledge-work-plugins]]
+[[affaan-m-ecc]] [[cloakhq-cloakbrowser]] [[anthropics-skills]] [[byoungd-english-level-up-tips]] [[rohitg00-ai-engineering-from-scratch]]
 

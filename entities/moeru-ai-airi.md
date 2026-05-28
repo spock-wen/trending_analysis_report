@@ -34,5 +34,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[supertone-inc-supertonic]] [[digitalplatdev-freedomain]] [[can1357-oh-my-pi]] [[earendil-works-pi]] [[obra-superpowers]]
+[[affaan-m-ecc]] [[twentyhq-twenty]] [[openmoss-moss-tts]] [[alishahryar1-free-claude-code]] [[anthropics-skills]]
 

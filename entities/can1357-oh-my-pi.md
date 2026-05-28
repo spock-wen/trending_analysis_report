@@ -35,5 +35,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[moeru-ai-airi]] [[obra-superpowers]] [[earendil-works-pi]] [[open-dev-society-openstock]]
+[[affaan-m-ecc]] [[twentyhq-twenty]] [[leonxlnx-taste-skill]] [[anthropics-skills]] [[unclecode-crawl4ai]]
 

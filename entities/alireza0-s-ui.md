@@ -33,5 +33,5 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[can1357-oh-my-pi]] [[moeru-ai-airi]] [[earendil-works-pi]] [[influxdata-telegraf]]
+[[unclecode-crawl4ai]] [[influxdata-telegraf]] [[knadh-listmonk]] [[revfactory-harness]] [[digitalplatdev-freedomain]]
 

@@ -34,5 +34,5 @@ language: "Python"
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[light-heart-labs-dreamserver]] [[anthropics-knowledge-work-plugins]] [[mukul975-anthropic-cybersecurity-skills]]
+[[affaan-m-ecc]] [[openmoss-moss-tts]] [[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]]
 

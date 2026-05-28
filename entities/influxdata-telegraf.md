@@ -34,5 +34,5 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[alireza0-s-ui]] [[fincept-corporation-finceptterminal]] [[bigbodycobain-shadowbroker]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]]
+[[affaan-m-ecc]] [[anthropics-skills]] [[lum1104-understand-anything]] [[plausible-analytics]] [[fincept-corporation-finceptterminal]]
 

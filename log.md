@@ -571,3 +571,56 @@
 - 连续 2 天上榜: DigitalPlatDev/FreeDomain
 - 连续 2 天上榜: twentyhq/twenty
 - 当日 star 增长 Top 3: Lum1104/Understand-Anything +4466⭐, Leonxlnx/taste-skill +2715⭐, DigitalPlatDev/FreeDomain +2223⭐
+
+## [2026-05-29] update | GitHub Trending 日报
+- 采集 16 个项目（raw/trending/2026-05-29.json）
+- 新建 entity: 5 个（microsoft/markitdown, revfactory/harness, unclecode/crawl4ai, OpenMOSS/MOSS-TTS, EveryInc/compound-engineering-plugin）
+- 趋势: Python 5个, TypeScript 3个, HTML 2个, Shell 2个, 其他 2个
+- 连续 8 天上榜: Lum1104/Understand-Anything
+- 连续 7 天上榜: colbymchenry/codegraph
+- 连续 7 天上榜: rohitg00/ai-engineering-from-scratch
+- 连续 6 天上榜: tinyhumansai/openhuman
+- 连续 6 天上榜: anthropics/claude-plugins-official
+- 连续 5 天上榜: HKUDS/CLI-Anything
+- 连续 5 天上榜: anthropics/knowledge-work-plugins
+- 连续 5 天上榜: mukul975/Anthropic-Cybersecurity-Skills
+- 连续 4 天上榜: K-Dense-AI/scientific-agent-skills
+- 连续 4 天上榜: Imbad0202/academic-research-skills
+- 连续 4 天上榜: dotnet/skills
+- 连续 4 天上榜: affaan-m/ECC
+- 连续 4 天上榜: Leonxlnx/taste-skill
+- 连续 4 天上榜: hardikpandya/stop-slop
+- 连续 3 天上榜: oven-sh/bun
+- 连续 3 天上榜: microsoft/ai-agents-for-beginners
+- 连续 3 天上榜: msitarzewski/agency-agents
+- 连续 3 天上榜: multica-ai/andrej-karpathy-skills
+- 连续 3 天上榜: can1357/oh-my-pi
+- 连续 3 天上榜: manaflow-ai/cmux
+- 连续 3 天上榜: Axorax/awesome-free-apps
+- 连续 3 天上榜: DigitalPlatDev/FreeDomain
+- 连续 3 天上榜: twentyhq/twenty
+- 连续 2 天上榜: obra/superpowers
+- 连续 2 天上榜: influxdata/telegraf
+- 连续 2 天上榜: czlonkowski/n8n-mcp
+- 连续 2 天上榜: NVIDIA-AI-Blueprints/video-search-and-summarization
+- 连续 2 天上榜: mattpocock/skills
+- 连续 2 天上榜: joeseesun/qiaomu-anything-to-notebooklm
+- 连续 2 天上榜: BigBodyCobain/Shadowbroker
+- 连续 2 天上榜: tech-leads-club/agent-skills
+- 连续 2 天上榜: plausible/analytics
+- 连续 2 天上榜: CloakHQ/CloakBrowser
+- 连续 2 天上榜: humanlayer/12-factor-agents
+- 连续 2 天上榜: rohitg00/agentmemory
+- 连续 2 天上榜: Alishahryar1/free-claude-code
+- 连续 2 天上榜: HKUDS/ViMax
+- 连续 2 天上榜: rmyndharis/OpenWA
+- 连续 2 天上榜: truelockmc/streambert
+- 连续 2 天上榜: ChromeDevTools/chrome-devtools-mcp
+- 连续 2 天上榜: multica-ai/multica
+- 连续 2 天上榜: trimstray/the-book-of-secret-knowledge
+- 连续 2 天上榜: earendil-works/pi
+- 连续 2 天上榜: 666ghj/MiroFish
+- 连续 2 天上榜: blakeblackshear/frigate
+- 连续 2 天上榜: harry0703/MoneyPrinterTurbo
+- 连续 2 天上榜: byoungd/English-level-up-tips
+- 当日 star 增长 Top 3: harry0703/MoneyPrinterTurbo +4685⭐, Lum1104/Understand-Anything +3766⭐, Leonxlnx/taste-skill +2235⭐

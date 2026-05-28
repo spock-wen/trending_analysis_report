@@ -1,19 +1,19 @@
 ---
 title: "Lum1104/Understand-Anything"
 created: 2026-05-22
-updated: 2026-05-28
+updated: 2026-05-29
 type: tool
 tags: [typescript, ai-agent, cli, education, rising]
-sources: [raw/trending/2026-05-28.json]
+sources: [raw/trending/2026-05-29.json]
 confidence: high
-trending_count_daily: 7
+trending_count_daily: 8
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 7
+consecutive_days: 8
 first_trending: 2026-05-22
-last_trending: 2026-05-28
+last_trending: 2026-05-29
 peak_rank: 1
-total_stars: 39616
+total_stars: 42655
 language: "TypeScript"
 ---
 
@@ -22,20 +22,20 @@ language: "TypeScript"
 Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 
 - 语言: TypeScript
-- 上榜次数: 7 次
-- 连续上榜: 7 天
+- 上榜次数: 8 次
+- 连续上榜: 8 天
 - 最高排名: #1
 - 链接: [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
 
 ## 上榜历史
 
+  - 2026-05-29: #12, +3766⭐
   - 2026-05-28: #2, +4466⭐
   - 2026-05-27: #1, +4721⭐
   - 2026-05-26: #1, +5625⭐
   - 2026-05-25: #1, +3987⭐
-  - 2026-05-24: #1, +3987⭐
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[moeru-ai-airi]] [[obra-superpowers]] [[open-dev-society-openstock]] [[twentyhq-twenty]]
+[[affaan-m-ecc]] [[twentyhq-twenty]] [[leonxlnx-taste-skill]] [[anthropics-skills]] [[byoungd-english-level-up-tips]]
 

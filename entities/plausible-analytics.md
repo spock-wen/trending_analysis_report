@@ -34,5 +34,5 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[fincept-corporation-finceptterminal]] [[moeru-ai-airi]] [[earendil-works-pi]] [[can1357-oh-my-pi]]
+[[affaan-m-ecc]] [[cloakhq-cloakbrowser]] [[unclecode-crawl4ai]] [[influxdata-telegraf]] [[fincept-corporation-finceptterminal]]
 

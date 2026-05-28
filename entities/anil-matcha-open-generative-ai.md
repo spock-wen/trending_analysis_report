@@ -33,5 +33,5 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[axorax-awesome-free-apps]] [[obra-superpowers]] [[light-heart-labs-dreamserver]] [[anthropics-knowledge-work-plugins]]
+[[affaan-m-ecc]] [[openmoss-moss-tts]] [[hkuds-vimax]] [[anthropics-skills]] [[lum1104-understand-anything]]
 

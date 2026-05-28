@@ -34,5 +34,5 @@ The secure, validated skill registry for professional AI coding agents. Extend A
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[obra-superpowers]] [[open-dev-society-openstock]] [[twentyhq-twenty]] [[anthropics-knowledge-work-plugins]]
+[[affaan-m-ecc]] [[twentyhq-twenty]] [[anthropics-skills]] [[lum1104-understand-anything]] [[everyinc-compound-engineering-plugin]]
 

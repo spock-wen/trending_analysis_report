@@ -33,5 +33,5 @@ A Python framework for self-hosted LLM tool-calling and multi-step agentic workf
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[mukul975-anthropic-cybersecurity-skills]] [[shiyu-coder-kronos]]
+[[affaan-m-ecc]] [[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]] [[harry0703-moneyprinterturbo]]
 

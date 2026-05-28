@@ -34,5 +34,5 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[obra-superpowers]] [[open-dev-society-openstock]] [[twentyhq-twenty]] [[anthropics-knowledge-work-plugins]]
+[[affaan-m-ecc]] [[twentyhq-twenty]] [[anthropics-skills]] [[lum1104-understand-anything]] [[everyinc-compound-engineering-plugin]]
 

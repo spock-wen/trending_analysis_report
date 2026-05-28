@@ -36,5 +36,5 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[affaan-m-ecc]] [[fincept-corporation-finceptterminal]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]]
+[[affaan-m-ecc]] [[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]] [[fincept-corporation-finceptterminal]]
 

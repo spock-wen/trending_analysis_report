@@ -34,5 +34,5 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[can1357-oh-my-pi]] [[moeru-ai-airi]] [[obra-superpowers]] [[open-dev-society-openstock]]
+[[affaan-m-ecc]] [[twentyhq-twenty]] [[leonxlnx-taste-skill]] [[anthropics-skills]] [[unclecode-crawl4ai]]
 

@@ -35,5 +35,5 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[supertone-inc-supertonic]] [[moeru-ai-airi]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]]
+[[affaan-m-ecc]] [[openmoss-moss-tts]] [[leonxlnx-taste-skill]] [[yt-dlp-yt-dlp]] [[anthropics-skills]]
 

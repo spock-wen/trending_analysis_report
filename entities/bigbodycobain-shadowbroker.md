@@ -34,5 +34,5 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[fincept-corporation-finceptterminal]] [[obra-superpowers]] [[influxdata-telegraf]] [[anthropics-knowledge-work-plugins]]
+[[affaan-m-ecc]] [[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]] [[influxdata-telegraf]]
 

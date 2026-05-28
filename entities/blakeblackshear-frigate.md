@@ -34,5 +34,5 @@ NVR with realtime local object detection for IP cameras
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[moeru-ai-airi]] [[lum1104-understand-anything]] [[open-dev-society-openstock]]
+[[lum1104-understand-anything]] [[moeru-ai-airi]] [[twentyhq-twenty]] [[everyinc-compound-engineering-plugin]]
 

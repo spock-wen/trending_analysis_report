@@ -35,5 +35,5 @@ Public repository for Agent Skills
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[affaan-m-ecc]] [[lum1104-understand-anything]] [[harry0703-moneyprinterturbo]] [[unclecode-crawl4ai]]
+[[affaan-m-ecc]] [[lum1104-understand-anything]] [[microsoft-markitdown]] [[obra-superpowers]] [[unclecode-crawl4ai]]
 

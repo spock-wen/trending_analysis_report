@@ -33,5 +33,5 @@ Odoo. Open Source Apps To Grow Your Business.
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[diolinux-photogimp]] [[cloakhq-cloakbrowser]] [[anthropics-skills]] [[harry0703-moneyprinterturbo]]
+[[cloakhq-cloakbrowser]] [[microsoft-markitdown]] [[obra-superpowers]] [[harry0703-moneyprinterturbo]] [[unclecode-crawl4ai]]
 

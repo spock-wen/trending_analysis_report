@@ -34,5 +34,5 @@ language: "Python"
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[nvlabs-sana]] [[affaan-m-ecc]] [[lum1104-understand-anything]] [[anthropics-skills]]
+[[affaan-m-ecc]] [[lum1104-understand-anything]] [[microsoft-markitdown]] [[obra-superpowers]] [[harry0703-moneyprinterturbo]]
 

@@ -37,5 +37,5 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[affaan-m-ecc]] [[microsoft-ai-agents-for-beginners]] [[lum1104-understand-anything]] [[anthropics-skills]]
+[[affaan-m-ecc]] [[lum1104-understand-anything]] [[microsoft-markitdown]] [[byoungd-english-level-up-tips]] [[microsoft-ai-agents-for-beginners]]
 

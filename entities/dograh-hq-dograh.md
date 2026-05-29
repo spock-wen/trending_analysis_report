@@ -33,5 +33,5 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[yt-dlp-yt-dlp]] [[microsoft-markitdown]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[lum1104-understand-anything]]
+[[moeru-ai-airi]] [[affaan-m-ecc]] [[alishahryar1-free-claude-code]] [[lum1104-understand-anything]] [[microsoft-markitdown]]
 

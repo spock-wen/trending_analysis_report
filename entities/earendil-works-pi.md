@@ -34,5 +34,5 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[twentyhq-twenty]] [[affaan-m-ecc]] [[everyinc-compound-engineering-plugin]] [[lum1104-understand-anything]]
+[[leonxlnx-taste-skill]] [[moeru-ai-airi]] [[affaan-m-ecc]] [[revfactory-harness]] [[lum1104-understand-anything]]
 

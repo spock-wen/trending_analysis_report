@@ -36,5 +36,5 @@ RuView turns commodity WiFi signals into real-time spatial intelligence, vital s
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[rtk-ai-rtk]] [[iii-hq-iii]] [[nirdiamant-agents-towards-production]]
+[[iii-hq-iii]] [[rtk-ai-rtk]] [[tinyhumansai-openhuman]] [[nirdiamant-agents-towards-production]]
 

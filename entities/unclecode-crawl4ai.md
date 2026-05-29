@@ -33,5 +33,5 @@ language: "Python"
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[affaan-m-ecc]] [[lum1104-understand-anything]] [[anthropics-skills]] [[digitalplatdev-freedomain]]
+[[moeru-ai-airi]] [[affaan-m-ecc]] [[revfactory-harness]] [[lum1104-understand-anything]] [[digitalplatdev-freedomain]]
 

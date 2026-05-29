@@ -34,5 +34,5 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[plausible-analytics]] [[microsoft-markitdown]] [[bigbodycobain-shadowbroker]] [[fincept-corporation-finceptterminal]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[plausible-analytics]] [[influxdata-telegraf]] [[lum1104-understand-anything]] [[microsoft-markitdown]]
 

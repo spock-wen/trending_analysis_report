@@ -34,5 +34,5 @@ What are the principles we can use to build LLM-powered software that is actuall
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[affaan-m-ecc]] [[everyinc-compound-engineering-plugin]] [[lum1104-understand-anything]] [[anthropics-skills]]
+[[moeru-ai-airi]] [[affaan-m-ecc]] [[lum1104-understand-anything]] [[obra-superpowers]] [[everyinc-compound-engineering-plugin]]
 

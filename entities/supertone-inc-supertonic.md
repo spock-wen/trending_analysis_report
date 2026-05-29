@@ -35,5 +35,5 @@ Lightning-Fast, On-Device, Multilingual TTS running natively via ONNX.
 
 ## 相关项目
 
-[[yt-dlp-yt-dlp]] [[alishahryar1-free-claude-code]] [[manaflow-ai-cmux]] [[moeru-ai-airi]] [[openmoss-moss-tts]]
+[[moeru-ai-airi]] [[alishahryar1-free-claude-code]] [[yt-dlp-yt-dlp]] [[manaflow-ai-cmux]] [[openmoss-moss-tts]]
 

@@ -37,5 +37,5 @@ language: "Python"
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[plausible-analytics]] [[microsoft-markitdown]] [[cloakhq-cloakbrowser]] [[affaan-m-ecc]]
+[[leonxlnx-taste-skill]] [[affaan-m-ecc]] [[plausible-analytics]] [[lum1104-understand-anything]] [[cloakhq-cloakbrowser]]
 

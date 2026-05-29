@@ -37,5 +37,5 @@ Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[affaan-m-ecc]] [[lum1104-understand-anything]] [[anthropics-skills]] [[harry0703-moneyprinterturbo]]
+[[affaan-m-ecc]] [[lum1104-understand-anything]] [[microsoft-markitdown]] [[obra-superpowers]] [[harry0703-moneyprinterturbo]]
 

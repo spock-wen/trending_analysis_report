@@ -33,5 +33,5 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[affaan-m-ecc]] [[everyinc-compound-engineering-plugin]] [[lum1104-understand-anything]] [[anthropics-skills]]
+[[moeru-ai-airi]] [[affaan-m-ecc]] [[lum1104-understand-anything]] [[obra-superpowers]] [[everyinc-compound-engineering-plugin]]
 

@@ -33,5 +33,5 @@ Fully automatic censorship removal for language models
 
 ## 相关项目
 
-[[unclecode-crawl4ai]] [[anthropics-skills]] [[microsoft-markitdown]] [[harry0703-moneyprinterturbo]]
+[[anthropics-skills]] [[microsoft-markitdown]] [[harry0703-moneyprinterturbo]] [[unclecode-crawl4ai]]
 

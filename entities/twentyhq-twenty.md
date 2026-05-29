@@ -35,5 +35,5 @@ The open alternative to Salesforce, designed for AI.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[everyinc-compound-engineering-plugin]] [[lum1104-understand-anything]] [[anthropics-skills]] [[moeru-ai-airi]]
+[[moeru-ai-airi]] [[affaan-m-ecc]] [[lum1104-understand-anything]] [[obra-superpowers]] [[everyinc-compound-engineering-plugin]]
 

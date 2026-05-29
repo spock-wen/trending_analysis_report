@@ -33,5 +33,5 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[karpathy-nn-zero-to-hero]] [[diolinux-photogimp]] [[cloakhq-cloakbrowser]] [[affaan-m-ecc]] [[microsoft-ai-agents-for-beginners]]
+[[rohitg00-ai-engineering-from-scratch]] [[affaan-m-ecc]] [[lum1104-understand-anything]] [[cloakhq-cloakbrowser]] [[microsoft-ai-agents-for-beginners]]
 

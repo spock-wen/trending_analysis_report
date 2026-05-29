@@ -34,5 +34,5 @@ language: "Python"
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[microsoft-markitdown]] [[affaan-m-ecc]] [[lum1104-understand-anything]] [[anthropics-skills]]
+[[leonxlnx-taste-skill]] [[affaan-m-ecc]] [[lum1104-understand-anything]] [[microsoft-markitdown]] [[obra-superpowers]]
 

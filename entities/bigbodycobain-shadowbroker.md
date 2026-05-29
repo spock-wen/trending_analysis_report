@@ -34,5 +34,5 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[plausible-analytics]] [[microsoft-markitdown]] [[fincept-corporation-finceptterminal]] [[affaan-m-ecc]] [[lum1104-understand-anything]]
+[[affaan-m-ecc]] [[plausible-analytics]] [[influxdata-telegraf]] [[lum1104-understand-anything]] [[microsoft-markitdown]]
 

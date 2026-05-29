@@ -37,5 +37,5 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[lum1104-understand-anything]] [[anthropics-skills]] [[ruvnet-ruview]] [[rtk-ai-rtk]]
+[[affaan-m-ecc]] [[rtk-ai-rtk]] [[lum1104-understand-anything]] [[iii-hq-iii]] [[obra-superpowers]]
 

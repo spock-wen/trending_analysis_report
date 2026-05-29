@@ -36,5 +36,5 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[plausible-analytics]] [[mukul975-anthropic-cybersecurity-skills]] [[truelockmc-streambert]] [[cloakhq-cloakbrowser]] [[lum1104-understand-anything]]
+[[imbad0202-academic-research-skills]] [[plausible-analytics]] [[lum1104-understand-anything]] [[cloakhq-cloakbrowser]] [[paperless-ngx-paperless-ngx]]
 

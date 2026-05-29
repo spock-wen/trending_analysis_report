@@ -35,5 +35,5 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[yt-dlp-yt-dlp]] [[microsoft-markitdown]] [[affaan-m-ecc]] [[lum1104-understand-anything]]
+[[leonxlnx-taste-skill]] [[moeru-ai-airi]] [[affaan-m-ecc]] [[lum1104-understand-anything]] [[microsoft-markitdown]]
 

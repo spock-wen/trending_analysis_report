@@ -37,5 +37,5 @@ Open source repository of plugins primarily intended for knowledge workers to us
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[affaan-m-ecc]] [[lum1104-understand-anything]] [[anthropics-skills]] [[harry0703-moneyprinterturbo]]
+[[affaan-m-ecc]] [[lum1104-understand-anything]] [[microsoft-markitdown]] [[obra-superpowers]] [[harry0703-moneyprinterturbo]]
 

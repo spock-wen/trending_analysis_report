@@ -34,5 +34,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[yt-dlp-yt-dlp]] [[twentyhq-twenty]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[everyinc-compound-engineering-plugin]]
+[[affaan-m-ecc]] [[revfactory-harness]] [[alishahryar1-free-claude-code]] [[lum1104-understand-anything]] [[digitalplatdev-freedomain]]
 

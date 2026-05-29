@@ -33,5 +33,5 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[lum1104-understand-anything]] [[microsoft-markitdown]] [[obra-superpowers]] [[harry0703-moneyprinterturbo]]
+[[microsoft-markitdown]] [[galilai-group-stable-worldmodel]] [[anthropics-claude-code]] [[obra-superpowers]] [[leonxlnx-taste-skill]]
 

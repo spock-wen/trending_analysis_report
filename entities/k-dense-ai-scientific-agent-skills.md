@@ -36,5 +36,5 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[imbad0202-academic-research-skills]] [[lum1104-understand-anything]] [[paperless-ngx-paperless-ngx]] [[microsoft-markitdown]]
+[[digitalplatdev-freedomain]] [[microsoft-markitdown]] [[fincept-corporation-finceptterminal]] [[paperless-ngx-paperless-ngx]] [[galilai-group-stable-worldmodel]]
 

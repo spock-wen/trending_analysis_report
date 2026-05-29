@@ -33,5 +33,5 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[affaan-m-ecc]] [[lum1104-understand-anything]] [[digitalplatdev-freedomain]] [[obra-superpowers]]
+[[digitalplatdev-freedomain]] [[hardikpandya-stop-slop]] [[moeru-ai-airi]] [[affaan-m-ecc]] [[leonxlnx-taste-skill]]
 

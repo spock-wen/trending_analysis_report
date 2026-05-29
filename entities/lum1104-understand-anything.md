@@ -37,5 +37,5 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[moeru-ai-airi]] [[affaan-m-ecc]] [[rohitg00-ai-engineering-from-scratch]] [[byoungd-english-level-up-tips]]
+[[twentyhq-twenty]] [[digitalplatdev-freedomain]] [[everyinc-compound-engineering-plugin]] [[cursor-plugins]] [[byoungd-english-level-up-tips]]
 

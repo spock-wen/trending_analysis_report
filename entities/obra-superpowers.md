@@ -37,5 +37,5 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[affaan-m-ecc]] [[lum1104-understand-anything]] [[cloakhq-cloakbrowser]] [[chachamaru127-claude-code-harness]]
+[[digitalplatdev-freedomain]] [[leonxlnx-taste-skill]] [[cloakhq-cloakbrowser]] [[hardikpandya-stop-slop]] [[anthropics-claude-code]]
 

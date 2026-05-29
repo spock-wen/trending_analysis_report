@@ -36,5 +36,5 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[lum1104-understand-anything]] [[paperless-ngx-paperless-ngx]] [[microsoft-markitdown]] [[fincept-corporation-finceptterminal]]
+[[digitalplatdev-freedomain]] [[microsoft-markitdown]] [[fincept-corporation-finceptterminal]] [[paperless-ngx-paperless-ngx]] [[galilai-group-stable-worldmodel]]
 

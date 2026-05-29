@@ -36,5 +36,5 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[lum1104-understand-anything]] [[obra-superpowers]] [[anthropics-skills]] [[jellyfin-jellyfin]]
+[[digitalplatdev-freedomain]] [[hardikpandya-stop-slop]] [[jellyfin-jellyfin]] [[affaan-m-ecc]] [[leonxlnx-taste-skill]]
 

@@ -35,5 +35,5 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[affaan-m-ecc]] [[lum1104-understand-anything]] [[byoungd-english-level-up-tips]] [[obra-superpowers]]
+[[digitalplatdev-freedomain]] [[byoungd-english-level-up-tips]] [[biohub-esm]] [[rohitg00-ai-engineering-from-scratch]] [[karpathy-nn-zero-to-hero]]
 

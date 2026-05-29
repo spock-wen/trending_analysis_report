@@ -1,19 +1,19 @@
 ---
 title: "codecrafters-io/build-your-own-x"
 created: 2026-05-25
-updated: 2026-05-29
+updated: 2026-05-30
 type: tool
 tags: [tool]
-sources: [raw/trending/2026-05-29.json]
+sources: [raw/trending/2026-05-30.json]
 confidence: high
-trending_count_daily: 3
+trending_count_daily: 4
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-05-25
-last_trending: 2026-05-29
+last_trending: 2026-05-30
 peak_rank: 11
-total_stars: 506508
+total_stars: 507315
 language: "Markdown"
 ---
 
@@ -22,13 +22,14 @@ language: "Markdown"
 Master programming by recreating your favorite technologies from scratch.
 
 - 语言: Markdown
-- 上榜次数: 3 次
-- 连续上榜: 1 天
+- 上榜次数: 4 次
+- 连续上榜: 2 天
 - 最高排名: #11
 - 链接: [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
 ## 上榜历史
 
+  - 2026-05-30: #17, +867⭐
   - 2026-05-29: #11, +866⭐
   - 2026-05-25: #13, +590⭐
   - 2026-05-24: #13, +590⭐

@@ -34,5 +34,5 @@ Claude Skill: Multi-source content processor for NotebookLM.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[lum1104-understand-anything]] [[microsoft-markitdown]] [[obra-superpowers]] [[harry0703-moneyprinterturbo]]
+[[digitalplatdev-freedomain]] [[microsoft-markitdown]] [[galilai-group-stable-worldmodel]] [[hardikpandya-stop-slop]] [[anthropics-claude-code]]
 

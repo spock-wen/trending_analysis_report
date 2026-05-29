@@ -33,5 +33,5 @@ A Python framework for self-hosted LLM tool-calling and multi-step agentic workf
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[lum1104-understand-anything]] [[microsoft-markitdown]] [[obra-superpowers]] [[harry0703-moneyprinterturbo]]
+[[digitalplatdev-freedomain]] [[microsoft-markitdown]] [[galilai-group-stable-worldmodel]] [[hardikpandya-stop-slop]] [[anthropics-claude-code]]
 

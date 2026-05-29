@@ -35,5 +35,5 @@ Public repository for Agent Skills
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[lum1104-understand-anything]] [[microsoft-markitdown]] [[obra-superpowers]] [[unclecode-crawl4ai]]
+[[digitalplatdev-freedomain]] [[microsoft-markitdown]] [[galilai-group-stable-worldmodel]] [[hardikpandya-stop-slop]] [[anthropics-claude-code]]
 

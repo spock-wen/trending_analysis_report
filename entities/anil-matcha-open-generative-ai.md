@@ -33,5 +33,5 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[lum1104-understand-anything]] [[axorax-awesome-free-apps]] [[obra-superpowers]] [[hkuds-vimax]]
+[[nvlabs-sana]] [[digitalplatdev-freedomain]] [[axorax-awesome-free-apps]] [[galilai-group-stable-worldmodel]] [[hardikpandya-stop-slop]]
 

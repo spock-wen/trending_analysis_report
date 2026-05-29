@@ -33,5 +33,5 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[affaan-m-ecc]] [[alishahryar1-free-claude-code]] [[lum1104-understand-anything]] [[microsoft-markitdown]]
+[[nvlabs-sana]] [[digitalplatdev-freedomain]] [[microsoft-markitdown]] [[galilai-group-stable-worldmodel]] [[hardikpandya-stop-slop]]
 

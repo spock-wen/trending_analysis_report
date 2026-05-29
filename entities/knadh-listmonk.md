@@ -33,5 +33,5 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[influxdata-telegraf]] [[lum1104-understand-anything]] [[obra-superpowers]] [[alireza0-s-ui]]
+[[digitalplatdev-freedomain]] [[influxdata-telegraf]] [[hardikpandya-stop-slop]] [[affaan-m-ecc]] [[alireza0-s-ui]]
 

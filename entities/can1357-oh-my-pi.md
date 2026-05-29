@@ -35,5 +35,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[moeru-ai-airi]] [[affaan-m-ecc]] [[revfactory-harness]] [[lum1104-understand-anything]]
+[[twentyhq-twenty]] [[digitalplatdev-freedomain]] [[everyinc-compound-engineering-plugin]] [[cursor-plugins]] [[revfactory-harness]]
 

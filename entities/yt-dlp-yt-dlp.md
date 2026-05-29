@@ -33,5 +33,5 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[moeru-ai-airi]] [[alishahryar1-free-claude-code]] [[lum1104-understand-anything]] [[microsoft-markitdown]]
+[[microsoft-markitdown]] [[galilai-group-stable-worldmodel]] [[moeru-ai-airi]] [[anthropics-claude-code]] [[alishahryar1-free-claude-code]]
 

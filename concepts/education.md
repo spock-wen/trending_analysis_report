@@ -1,7 +1,7 @@
 ---
 title: "education"
 created: unknown
-updated: 2026-05-29
+updated: 2026-05-30
 type: concept
 tags: [education]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 今日上榜项目（2 个）
 
-[[lum1104-understand-anything]] [[byoungd-english-level-up-tips]]
+[[byoungd-english-level-up-tips]] [[datatalksclub-data-engineering-zoomcamp]]
 
 ## 语言分布
 
-TypeScript 1个, ? 1个
+? 1个, Jupyter Notebook 1个
 
 ## 趋势观察
 

@@ -35,5 +35,5 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[moeru-ai-airi]] [[affaan-m-ecc]] [[revfactory-harness]] [[lum1104-understand-anything]]
+[[digitalplatdev-freedomain]] [[revfactory-harness]] [[hardikpandya-stop-slop]] [[moeru-ai-airi]] [[anthropics-claude-code]]
 

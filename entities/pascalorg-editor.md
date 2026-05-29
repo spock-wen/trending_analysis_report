@@ -33,5 +33,5 @@ Create and share 3D architectural projects.
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[everyinc-compound-engineering-plugin]] [[lum1104-understand-anything]] [[twentyhq-twenty]]
+[[twentyhq-twenty]] [[crosstalk-solutions-project-nomad]] [[everyinc-compound-engineering-plugin]] [[cursor-plugins]]
 

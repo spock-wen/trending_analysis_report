@@ -34,5 +34,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[revfactory-harness]] [[alishahryar1-free-claude-code]] [[lum1104-understand-anything]] [[digitalplatdev-freedomain]]
+[[twentyhq-twenty]] [[digitalplatdev-freedomain]] [[everyinc-compound-engineering-plugin]] [[cursor-plugins]] [[revfactory-harness]]
 

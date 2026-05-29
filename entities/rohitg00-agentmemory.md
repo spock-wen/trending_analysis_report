@@ -34,5 +34,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[affaan-m-ecc]] [[lum1104-understand-anything]] [[obra-superpowers]] [[everyinc-compound-engineering-plugin]]
+[[twentyhq-twenty]] [[digitalplatdev-freedomain]] [[everyinc-compound-engineering-plugin]] [[cursor-plugins]] [[hardikpandya-stop-slop]]
 

@@ -34,5 +34,5 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[moeru-ai-airi]] [[revfactory-harness]] [[lum1104-understand-anything]] [[digitalplatdev-freedomain]]
+[[digitalplatdev-freedomain]] [[revfactory-harness]] [[moeru-ai-airi]] [[anthropics-claude-code]] [[obra-superpowers]]
 

@@ -34,5 +34,5 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[plausible-analytics]] [[lum1104-understand-anything]] [[bigbodycobain-shadowbroker]] [[fincept-corporation-finceptterminal]]
+[[digitalplatdev-freedomain]] [[bigbodycobain-shadowbroker]] [[knadh-listmonk]] [[fincept-corporation-finceptterminal]] [[hardikpandya-stop-slop]]
 

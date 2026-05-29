@@ -37,5 +37,5 @@ language: "Python"
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[affaan-m-ecc]] [[plausible-analytics]] [[lum1104-understand-anything]] [[cloakhq-cloakbrowser]]
+[[digitalplatdev-freedomain]] [[cloakhq-cloakbrowser]] [[microsoft-markitdown]] [[galilai-group-stable-worldmodel]] [[hardikpandya-stop-slop]]
 

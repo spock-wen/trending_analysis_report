@@ -37,5 +37,5 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[anthropics-skills]] [[affaan-m-ecc]] [[obra-superpowers]] [[lum1104-understand-anything]]
+[[hardikpandya-stop-slop]] [[digitalplatdev-freedomain]] [[leonxlnx-taste-skill]] [[affaan-m-ecc]]
 

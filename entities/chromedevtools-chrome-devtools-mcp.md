@@ -34,5 +34,5 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[affaan-m-ecc]] [[revfactory-harness]] [[lum1104-understand-anything]] [[digitalplatdev-freedomain]]
+[[twentyhq-twenty]] [[digitalplatdev-freedomain]] [[everyinc-compound-engineering-plugin]] [[cursor-plugins]] [[revfactory-harness]]
 

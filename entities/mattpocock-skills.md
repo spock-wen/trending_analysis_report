@@ -34,5 +34,5 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[affaan-m-ecc]] [[lum1104-understand-anything]] [[chachamaru127-claude-code-harness]] [[obra-superpowers]]
+[[digitalplatdev-freedomain]] [[leonxlnx-taste-skill]] [[hardikpandya-stop-slop]] [[anthropics-claude-code]] [[chachamaru127-claude-code-harness]]
 

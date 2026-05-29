@@ -35,5 +35,5 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[chachamaru127-claude-code-harness]] [[unclecode-crawl4ai]] [[obra-superpowers]] [[harry0703-moneyprinterturbo]]
+[[chachamaru127-claude-code-harness]] [[revfactory-harness]] [[obra-superpowers]] [[harry0703-moneyprinterturbo]] [[unclecode-crawl4ai]]
 

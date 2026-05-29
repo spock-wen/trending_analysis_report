@@ -35,5 +35,5 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[nirdiamant-agents-towards-production]] [[karpathy-nn-zero-to-hero]] [[byoungd-english-level-up-tips]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]]
+[[anthropics-claude-cookbooks]] [[obra-superpowers]] [[anthropics-skills]] [[byoungd-english-level-up-tips]] [[karpathy-nn-zero-to-hero]]
 

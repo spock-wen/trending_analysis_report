@@ -35,5 +35,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[unclecode-crawl4ai]] [[obra-superpowers]] [[harry0703-moneyprinterturbo]] [[everyinc-compound-engineering-plugin]]
+[[revfactory-harness]] [[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[unclecode-crawl4ai]] [[anthropics-skills]]
 

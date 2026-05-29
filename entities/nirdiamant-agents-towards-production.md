@@ -33,5 +33,5 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[karpathy-nn-zero-to-hero]] [[microsoft-ai-agents-for-beginners]] [[ruvnet-ruview]] [[byoungd-english-level-up-tips]] [[cloakhq-cloakbrowser]]
+[[anthropics-claude-cookbooks]] [[obra-superpowers]] [[anthropics-skills]] [[odoo-odoo]] [[microsoft-ai-agents-for-beginners]]
 

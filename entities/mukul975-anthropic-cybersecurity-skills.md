@@ -37,5 +37,5 @@ language: "Python"
 
 ## 相关项目
 
-[[cloakhq-cloakbrowser]] [[unclecode-crawl4ai]] [[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[microsoft-markitdown]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[plausible-analytics]] [[anthropics-skills]] [[cloakhq-cloakbrowser]]
 

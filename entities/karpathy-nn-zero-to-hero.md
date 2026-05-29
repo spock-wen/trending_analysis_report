@@ -33,5 +33,5 @@ Neural Networks: Zero to Hero
 
 ## 相关项目
 
-[[nirdiamant-agents-towards-production]] [[anthropics-claude-cookbooks]] [[microsoft-ai-agents-for-beginners]]
+[[microsoft-ai-agents-for-beginners]] [[anthropics-claude-cookbooks]] [[nirdiamant-agents-towards-production]]
 

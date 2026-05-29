@@ -34,5 +34,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[lum1104-understand-anything]] [[twentyhq-twenty]] [[moeru-ai-airi]]
+[[lum1104-understand-anything]] [[twentyhq-twenty]] [[everyinc-compound-engineering-plugin]] [[moeru-ai-airi]]
 

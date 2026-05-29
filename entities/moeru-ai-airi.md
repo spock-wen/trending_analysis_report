@@ -34,5 +34,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[alishahryar1-free-claude-code]] [[yt-dlp-yt-dlp]] [[unclecode-crawl4ai]] [[obra-superpowers]]
+[[revfactory-harness]] [[obra-superpowers]] [[openmoss-moss-tts]] [[unclecode-crawl4ai]] [[anthropics-skills]]
 

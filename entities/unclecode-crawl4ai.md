@@ -33,5 +33,5 @@ language: "Python"
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[microsoft-markitdown]] [[revfactory-harness]]
+[[revfactory-harness]] [[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[anthropics-skills]] [[microsoft-markitdown]]
 

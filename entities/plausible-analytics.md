@@ -34,5 +34,5 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[cloakhq-cloakbrowser]] [[unclecode-crawl4ai]] [[influxdata-telegraf]] [[bigbodycobain-shadowbroker]] [[moeru-ai-airi]]
+[[revfactory-harness]] [[unclecode-crawl4ai]] [[mukul975-anthropic-cybersecurity-skills]] [[fincept-corporation-finceptterminal]] [[cloakhq-cloakbrowser]]
 

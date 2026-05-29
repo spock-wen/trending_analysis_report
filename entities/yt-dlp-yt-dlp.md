@@ -33,5 +33,5 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[unclecode-crawl4ai]] [[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[openmoss-moss-tts]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[openmoss-moss-tts]] [[anthropics-skills]] [[microsoft-markitdown]]
 

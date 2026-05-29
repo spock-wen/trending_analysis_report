@@ -34,5 +34,5 @@ language: "Python"
 
 ## 相关项目
 
-[[nvlabs-sana]] [[unclecode-crawl4ai]] [[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[openmoss-moss-tts]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[openmoss-moss-tts]] [[anil-matcha-open-generative-ai]] [[anthropics-skills]]
 

@@ -33,5 +33,5 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[nvlabs-sana]] [[hkuds-vimax]] [[alishahryar1-free-claude-code]] [[yt-dlp-yt-dlp]] [[unclecode-crawl4ai]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[openmoss-moss-tts]] [[anil-matcha-open-generative-ai]] [[anthropics-skills]]
 

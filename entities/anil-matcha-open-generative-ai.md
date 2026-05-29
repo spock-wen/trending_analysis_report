@@ -33,5 +33,5 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[nvlabs-sana]] [[hkuds-vimax]] [[axorax-awesome-free-apps]] [[truelockmc-streambert]] [[obra-superpowers]]
+[[obra-superpowers]] [[openmoss-moss-tts]] [[anthropics-skills]] [[truelockmc-streambert]] [[nvlabs-sana]]
 

@@ -35,5 +35,5 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[yt-dlp-yt-dlp]] [[unclecode-crawl4ai]] [[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[openmoss-moss-tts]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[openmoss-moss-tts]] [[anthropics-skills]] [[yt-dlp-yt-dlp]]
 

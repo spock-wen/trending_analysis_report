@@ -34,5 +34,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[revfactory-harness]] [[obra-superpowers]] [[openmoss-moss-tts]] [[unclecode-crawl4ai]] [[anthropics-skills]]
+[[yt-dlp-yt-dlp]] [[twentyhq-twenty]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[everyinc-compound-engineering-plugin]]
 

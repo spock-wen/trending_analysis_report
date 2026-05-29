@@ -33,5 +33,5 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[obra-superpowers]] [[anthropics-skills]] [[microsoft-ai-agents-for-beginners]] [[karpathy-nn-zero-to-hero]] [[lum1104-understand-anything]]
+[[karpathy-nn-zero-to-hero]] [[nirdiamant-agents-towards-production]] [[affaan-m-ecc]] [[microsoft-ai-agents-for-beginners]] [[lum1104-understand-anything]]
 

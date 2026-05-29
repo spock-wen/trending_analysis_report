@@ -35,5 +35,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[revfactory-harness]] [[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[unclecode-crawl4ai]] [[anthropics-skills]]
+[[leonxlnx-taste-skill]] [[twentyhq-twenty]] [[affaan-m-ecc]] [[everyinc-compound-engineering-plugin]] [[lum1104-understand-anything]]
 

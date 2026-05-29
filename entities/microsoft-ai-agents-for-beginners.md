@@ -35,5 +35,5 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[obra-superpowers]] [[anthropics-skills]] [[byoungd-english-level-up-tips]] [[karpathy-nn-zero-to-hero]]
+[[karpathy-nn-zero-to-hero]] [[nirdiamant-agents-towards-production]] [[affaan-m-ecc]] [[lum1104-understand-anything]] [[anthropics-skills]]
 

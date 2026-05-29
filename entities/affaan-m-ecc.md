@@ -36,5 +36,5 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[anil-matcha-open-generative-ai]] [[obra-superpowers]] [[plausible-analytics]] [[mukul975-anthropic-cybersecurity-skills]] [[anthropics-skills]]
+[[plausible-analytics]] [[mukul975-anthropic-cybersecurity-skills]] [[truelockmc-streambert]] [[cloakhq-cloakbrowser]] [[lum1104-understand-anything]]
 

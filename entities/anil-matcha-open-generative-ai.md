@@ -33,5 +33,5 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[obra-superpowers]] [[openmoss-moss-tts]] [[anthropics-skills]] [[truelockmc-streambert]] [[nvlabs-sana]]
+[[nvlabs-sana]] [[affaan-m-ecc]] [[truelockmc-streambert]] [[lum1104-understand-anything]] [[anthropics-skills]]
 

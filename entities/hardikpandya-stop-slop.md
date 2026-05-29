@@ -36,5 +36,5 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[obra-superpowers]] [[lum1104-understand-anything]] [[anthropics-skills]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[lum1104-understand-anything]] [[anthropics-skills]] [[obra-superpowers]]
 

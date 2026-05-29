@@ -34,5 +34,5 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[revfactory-harness]] [[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]]
+[[leonxlnx-taste-skill]] [[lum1104-understand-anything]] [[digitalplatdev-freedomain]] [[moeru-ai-airi]] [[harry0703-moneyprinterturbo]]
 

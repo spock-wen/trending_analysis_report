@@ -33,5 +33,5 @@ Create and share 3D architectural projects.
 
 ## 相关项目
 
-[[lum1104-understand-anything]] [[twentyhq-twenty]] [[everyinc-compound-engineering-plugin]] [[moeru-ai-airi]]
+[[moeru-ai-airi]] [[everyinc-compound-engineering-plugin]] [[lum1104-understand-anything]] [[twentyhq-twenty]]
 

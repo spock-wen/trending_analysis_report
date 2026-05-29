@@ -33,5 +33,5 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[openmoss-moss-tts]] [[anil-matcha-open-generative-ai]] [[anthropics-skills]] [[microsoft-markitdown]]
+[[microsoft-markitdown]] [[anthropics-skills]] [[anil-matcha-open-generative-ai]] [[openmoss-moss-tts]] [[harry0703-moneyprinterturbo]]
 

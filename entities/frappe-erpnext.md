@@ -33,5 +33,5 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[anthropics-skills]] [[odoo-odoo]] [[diolinux-photogimp]]
+[[microsoft-markitdown]] [[diolinux-photogimp]] [[cloakhq-cloakbrowser]] [[anthropics-skills]] [[odoo-odoo]]
 

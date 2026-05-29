@@ -33,5 +33,5 @@ Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 
 ## 相关项目
 
-[[obra-superpowers]] [[anthropics-skills]] [[lum1104-understand-anything]] [[moeru-ai-airi]] [[affaan-m-ecc]]
+[[twentyhq-twenty]] [[affaan-m-ecc]] [[lum1104-understand-anything]] [[anthropics-skills]] [[moeru-ai-airi]]
 

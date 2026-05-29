@@ -35,5 +35,5 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[revfactory-harness]] [[obra-superpowers]] [[anthropics-skills]] [[lum1104-understand-anything]] [[moeru-ai-airi]]
+[[affaan-m-ecc]] [[lum1104-understand-anything]] [[anthropics-skills]] [[moeru-ai-airi]] [[unclecode-crawl4ai]]
 

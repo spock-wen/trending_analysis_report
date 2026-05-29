@@ -37,5 +37,5 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[anthropics-skills]] [[microsoft-ai-agents-for-beginners]] [[byoungd-english-level-up-tips]]
+[[microsoft-markitdown]] [[affaan-m-ecc]] [[microsoft-ai-agents-for-beginners]] [[lum1104-understand-anything]] [[anthropics-skills]]
 

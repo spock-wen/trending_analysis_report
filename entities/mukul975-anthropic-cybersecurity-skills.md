@@ -37,5 +37,5 @@ language: "Python"
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[plausible-analytics]] [[anthropics-skills]] [[cloakhq-cloakbrowser]]
+[[leonxlnx-taste-skill]] [[plausible-analytics]] [[microsoft-markitdown]] [[cloakhq-cloakbrowser]] [[affaan-m-ecc]]
 

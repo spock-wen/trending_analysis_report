@@ -34,5 +34,5 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[plausible-analytics]] [[anthropics-skills]] [[fincept-corporation-finceptterminal]]
+[[plausible-analytics]] [[microsoft-markitdown]] [[bigbodycobain-shadowbroker]] [[fincept-corporation-finceptterminal]] [[affaan-m-ecc]]
 

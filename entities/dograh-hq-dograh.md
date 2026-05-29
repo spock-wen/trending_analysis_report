@@ -33,5 +33,5 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[openmoss-moss-tts]] [[anthropics-skills]] [[microsoft-markitdown]]
+[[yt-dlp-yt-dlp]] [[microsoft-markitdown]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[lum1104-understand-anything]]
 

@@ -33,5 +33,5 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[openmoss-moss-tts]] [[anthropics-skills]] [[microsoft-markitdown]]
+[[leonxlnx-taste-skill]] [[microsoft-markitdown]] [[alishahryar1-free-claude-code]] [[lum1104-understand-anything]] [[anthropics-skills]]
 

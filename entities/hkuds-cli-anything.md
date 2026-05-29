@@ -37,5 +37,5 @@ language: "Python"
 
 ## 相关项目
 
-[[revfactory-harness]] [[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[digitalplatdev-freedomain]] [[anthropics-skills]]
+[[leonxlnx-taste-skill]] [[microsoft-markitdown]] [[affaan-m-ecc]] [[lum1104-understand-anything]] [[anthropics-skills]]
 

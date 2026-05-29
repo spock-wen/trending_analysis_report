@@ -37,5 +37,5 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[anthropics-skills]] [[microsoft-ai-agents-for-beginners]] [[byoungd-english-level-up-tips]]
+[[leonxlnx-taste-skill]] [[twentyhq-twenty]] [[affaan-m-ecc]] [[microsoft-ai-agents-for-beginners]] [[everyinc-compound-engineering-plugin]]
 

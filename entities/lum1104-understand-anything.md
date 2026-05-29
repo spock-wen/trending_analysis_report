@@ -37,5 +37,5 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[twentyhq-twenty]] [[leonxlnx-taste-skill]] [[anthropics-skills]] [[byoungd-english-level-up-tips]]
+[[moeru-ai-airi]] [[anthropics-skills]] [[twentyhq-twenty]] [[microsoft-ai-agents-for-beginners]] [[byoungd-english-level-up-tips]]
 

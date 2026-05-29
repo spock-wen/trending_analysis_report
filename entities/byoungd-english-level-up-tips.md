@@ -34,5 +34,5 @@ An advanced guide to learn English which might benefit you a lot 🎉 . 离谱�
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[lum1104-understand-anything]] [[microsoft-ai-agents-for-beginners]]
+[[lum1104-understand-anything]] [[microsoft-ai-agents-for-beginners]] [[rohitg00-ai-engineering-from-scratch]]
 

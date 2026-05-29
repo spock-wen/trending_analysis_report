@@ -37,5 +37,5 @@ Open source repository of plugins primarily intended for knowledge workers to us
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]] [[harry0703-moneyprinterturbo]]
+[[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]] [[microsoft-markitdown]] [[obra-superpowers]]
 

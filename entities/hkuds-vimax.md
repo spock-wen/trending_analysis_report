@@ -34,5 +34,5 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[openmoss-moss-tts]] [[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]]
+[[anil-matcha-open-generative-ai]] [[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]] [[microsoft-markitdown]]
 

@@ -33,5 +33,5 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[leonxlnx-taste-skill]] [[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]]
+[[moeru-ai-airi]] [[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]] [[microsoft-markitdown]]
 

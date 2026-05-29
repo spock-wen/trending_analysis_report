@@ -33,5 +33,5 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[openmoss-moss-tts]] [[alishahryar1-free-claude-code]] [[leonxlnx-taste-skill]] [[anthropics-skills]] [[unclecode-crawl4ai]]
+[[moeru-ai-airi]] [[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]] [[microsoft-markitdown]]
 

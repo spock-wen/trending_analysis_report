@@ -33,5 +33,5 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[openmoss-moss-tts]] [[alishahryar1-free-claude-code]] [[yt-dlp-yt-dlp]] [[anthropics-skills]]
+[[moeru-ai-airi]] [[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]] [[microsoft-markitdown]]
 

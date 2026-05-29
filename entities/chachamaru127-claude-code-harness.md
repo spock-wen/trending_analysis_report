@@ -33,5 +33,5 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[leonxlnx-taste-skill]] [[msitarzewski-agency-agents]] [[anthropics-skills]] [[lum1104-understand-anything]]
+[[anthropics-skills]] [[lum1104-understand-anything]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[harry0703-moneyprinterturbo]]
 

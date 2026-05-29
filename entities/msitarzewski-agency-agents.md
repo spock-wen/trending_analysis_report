@@ -35,5 +35,5 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[leonxlnx-taste-skill]] [[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]]
+[[moeru-ai-airi]] [[chachamaru127-claude-code-harness]] [[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]]
 

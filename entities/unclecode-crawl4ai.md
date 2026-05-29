@@ -33,5 +33,5 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[anthropics-skills]] [[lum1104-understand-anything]] [[harry0703-moneyprinterturbo]] [[revfactory-harness]]
+[[moeru-ai-airi]] [[anthropics-skills]] [[lum1104-understand-anything]] [[microsoft-markitdown]] [[obra-superpowers]]
 

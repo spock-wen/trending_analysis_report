@@ -34,5 +34,5 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[leonxlnx-taste-skill]] [[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]]
+[[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]] [[microsoft-markitdown]] [[leonxlnx-taste-skill]]
 

@@ -33,5 +33,5 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[anthropics-skills]] [[lum1104-understand-anything]] [[influxdata-telegraf]] [[obra-superpowers]]
+[[influxdata-telegraf]] [[anthropics-skills]] [[lum1104-understand-anything]] [[obra-superpowers]] [[affaan-m-ecc]]
 

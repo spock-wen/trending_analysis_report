@@ -35,5 +35,5 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[supertone-inc-supertonic]] [[leonxlnx-taste-skill]] [[anthropics-skills]] [[lum1104-understand-anything]]
+[[anthropics-skills]] [[lum1104-understand-anything]] [[supertone-inc-supertonic]] [[leonxlnx-taste-skill]] [[obra-superpowers]]
 

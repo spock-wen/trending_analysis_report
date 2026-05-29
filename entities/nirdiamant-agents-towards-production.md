@@ -33,5 +33,5 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[cloakhq-cloakbrowser]] [[anthropics-skills]] [[byoungd-english-level-up-tips]] [[rohitg00-ai-engineering-from-scratch]]
+[[anthropics-skills]] [[anthropics-claude-cookbooks]] [[lum1104-understand-anything]] [[microsoft-ai-agents-for-beginners]] [[byoungd-english-level-up-tips]]
 

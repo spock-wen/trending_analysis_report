@@ -34,5 +34,5 @@ The secure, validated skill registry for professional AI coding agents. Extend A
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[twentyhq-twenty]] [[anthropics-skills]] [[lum1104-understand-anything]] [[everyinc-compound-engineering-plugin]]
+[[moeru-ai-airi]] [[anthropics-skills]] [[lum1104-understand-anything]] [[twentyhq-twenty]] [[obra-superpowers]]
 

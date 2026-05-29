@@ -37,5 +37,5 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[anthropics-skills]] [[byoungd-english-level-up-tips]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]]
+[[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]] [[microsoft-markitdown]] [[microsoft-ai-agents-for-beginners]]
 

@@ -34,5 +34,5 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]] [[influxdata-telegraf]]
+[[influxdata-telegraf]] [[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]] [[microsoft-markitdown]]
 

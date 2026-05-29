@@ -34,5 +34,5 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]] [[microsoft-markitdown]] [[leonxlnx-taste-skill]]
+[[unclecode-crawl4ai]] [[obra-superpowers]] [[microsoft-markitdown]] [[affaan-m-ecc]] [[lum1104-understand-anything]]
 

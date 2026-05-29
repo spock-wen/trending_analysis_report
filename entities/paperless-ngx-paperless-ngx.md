@@ -33,5 +33,5 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[anthropics-skills]] [[unclecode-crawl4ai]] [[microsoft-markitdown]] [[fincept-corporation-finceptterminal]] [[harry0703-moneyprinterturbo]]
+[[fincept-corporation-finceptterminal]] [[unclecode-crawl4ai]] [[harry0703-moneyprinterturbo]] [[microsoft-markitdown]] [[imbad0202-academic-research-skills]]
 

@@ -34,5 +34,5 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通
 
 ## 相关项目
 
-[[unclecode-crawl4ai]] [[microsoft-markitdown]] [[harry0703-moneyprinterturbo]] [[anthropics-skills]]
+[[harry0703-moneyprinterturbo]] [[microsoft-markitdown]] [[unclecode-crawl4ai]] [[anthropics-skills]]
 

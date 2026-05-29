@@ -37,5 +37,5 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]] [[microsoft-markitdown]] [[cloakhq-cloakbrowser]]
+[[cloakhq-cloakbrowser]] [[unclecode-crawl4ai]] [[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[microsoft-markitdown]]
 

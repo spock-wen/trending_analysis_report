@@ -34,5 +34,5 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[anthropics-skills]] [[knadh-listmonk]] [[lum1104-understand-anything]] [[bigbodycobain-shadowbroker]] [[fincept-corporation-finceptterminal]]
+[[fincept-corporation-finceptterminal]] [[obra-superpowers]] [[alireza0-s-ui]] [[bigbodycobain-shadowbroker]] [[knadh-listmonk]]
 

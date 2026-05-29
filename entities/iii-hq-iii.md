@@ -33,5 +33,5 @@ Effortlessly compose, extend, and observe every service in real-time for the fir
 
 ## 相关项目
 
-[[rtk-ai-rtk]] [[ruvnet-ruview]] [[tinyhumansai-openhuman]]
+[[ruvnet-ruview]] [[tinyhumansai-openhuman]] [[rtk-ai-rtk]]
 

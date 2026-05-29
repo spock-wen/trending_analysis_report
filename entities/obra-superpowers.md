@@ -37,5 +37,5 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[chachamaru127-claude-code-harness]] [[anthropics-skills]] [[lum1104-understand-anything]] [[msitarzewski-agency-agents]] [[cloakhq-cloakbrowser]]
+[[chachamaru127-claude-code-harness]] [[cloakhq-cloakbrowser]] [[harry0703-moneyprinterturbo]] [[odoo-odoo]] [[leonxlnx-taste-skill]]
 

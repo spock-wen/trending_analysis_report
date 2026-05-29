@@ -34,5 +34,5 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[chachamaru127-claude-code-harness]] [[anthropics-skills]] [[lum1104-understand-anything]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
+[[obra-superpowers]] [[harry0703-moneyprinterturbo]] [[msitarzewski-agency-agents]] [[lum1104-understand-anything]] [[affaan-m-ecc]]
 

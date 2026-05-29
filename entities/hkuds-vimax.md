@@ -34,5 +34,5 @@ language: "Python"
 
 ## 相关项目
 
-[[anil-matcha-open-generative-ai]] [[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]] [[microsoft-markitdown]]
+[[nvlabs-sana]] [[unclecode-crawl4ai]] [[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[openmoss-moss-tts]]
 

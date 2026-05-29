@@ -34,5 +34,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[openmoss-moss-tts]] [[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]] [[twentyhq-twenty]]
+[[digitalplatdev-freedomain]] [[alishahryar1-free-claude-code]] [[yt-dlp-yt-dlp]] [[unclecode-crawl4ai]] [[obra-superpowers]]
 

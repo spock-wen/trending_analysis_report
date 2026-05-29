@@ -34,5 +34,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[anthropics-skills]] [[lum1104-understand-anything]] [[twentyhq-twenty]] [[obra-superpowers]]
+[[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[moeru-ai-airi]] [[affaan-m-ecc]] [[lum1104-understand-anything]]
 

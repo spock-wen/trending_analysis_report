@@ -33,5 +33,5 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[unclecode-crawl4ai]] [[cloakhq-cloakbrowser]] [[obra-superpowers]] [[digitalplatdev-freedomain]]
+[[cloakhq-cloakbrowser]] [[unclecode-crawl4ai]] [[obra-superpowers]] [[odoo-odoo]] [[moeru-ai-airi]]
 

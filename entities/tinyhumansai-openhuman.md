@@ -37,5 +37,5 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[anthropics-skills]] [[iii-hq-iii]] [[lum1104-understand-anything]] [[ruvnet-ruview]] [[obra-superpowers]]
+[[ruvnet-ruview]] [[obra-superpowers]] [[iii-hq-iii]] [[affaan-m-ecc]] [[lum1104-understand-anything]]
 

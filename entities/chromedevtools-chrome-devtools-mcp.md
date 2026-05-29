@@ -34,5 +34,5 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[anthropics-skills]] [[unclecode-crawl4ai]] [[lum1104-understand-anything]] [[twentyhq-twenty]]
+[[digitalplatdev-freedomain]] [[unclecode-crawl4ai]] [[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[moeru-ai-airi]]
 

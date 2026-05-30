@@ -1,6 +1,6 @@
 ---
 title: "education"
-created: unknown
+created: 2026-05-22
 updated: 2026-05-30
 type: concept
 tags: [education]

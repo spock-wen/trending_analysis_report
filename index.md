@@ -121,3 +121,6 @@
 
 - [[reports/2026-05-16]] — 首日日报，12 个项目，Agent Skills 生态爆发
 - [[reports/2026-05-17]] — 第 2 日日报，12 个项目全部连续上榜
+- [[reports/retrospective-2026-05-16]] — 近一周问题回溯报告
+- 每日趋势分析已迁移到 wiki entity 系统，详见 [[entities/]] 目录（97 个项目）
+- 每周健康检查报告见 [[reports/lint-YYYY-MM-DD]] 格式

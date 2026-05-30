@@ -1,6 +1,6 @@
 ---
 title: "science"
-created: unknown
+created: 2026-05-26
 updated: 2026-05-30
 type: concept
 tags: [science]

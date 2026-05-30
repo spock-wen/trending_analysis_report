@@ -1,0 +1,304 @@
+{
+  "date": "2026-05-30",
+  "project_count": {
+    "today": 17,
+    "yesterday": 16,
+    "last_week_same": 14
+  },
+  "total_stars": {
+    "today": 16366,
+    "yesterday": 22430,
+    "last_week_same": 13044
+  },
+  "language_share": [
+    {
+      "lang": "TypeScript",
+      "today": 4,
+      "share": "24%",
+      "last_week_share": "29%",
+      "trend": "down"
+    },
+    {
+      "lang": "Python",
+      "today": 4,
+      "share": "24%",
+      "last_week_share": "36%",
+      "trend": "down"
+    },
+    {
+      "lang": "Jupyter Notebook",
+      "today": 2,
+      "share": "12%",
+      "last_week_share": "7%",
+      "trend": "up"
+    },
+    {
+      "lang": "未标注",
+      "today": 2,
+      "share": "12%",
+      "last_week_share": "14%",
+      "trend": "flat"
+    },
+    {
+      "lang": "Shell",
+      "today": 1,
+      "share": "6%",
+      "last_week_share": "0%",
+      "trend": "new"
+    },
+    {
+      "lang": "Rust",
+      "today": 1,
+      "share": "6%",
+      "last_week_share": "7%",
+      "trend": "flat"
+    },
+    {
+      "lang": "Markdown",
+      "today": 1,
+      "share": "6%",
+      "last_week_share": "0%",
+      "trend": "new"
+    },
+    {
+      "lang": "JavaScript",
+      "today": 1,
+      "share": "6%",
+      "last_week_share": "0%",
+      "trend": "new"
+    },
+    {
+      "lang": "HTML",
+      "today": 1,
+      "share": "6%",
+      "last_week_share": "0%",
+      "trend": "new"
+    }
+  ],
+  "category_heat": [
+    {
+      "category": "agent-skills",
+      "today": 6,
+      "7d_avg": 8.4,
+      "change_pct": -29,
+      "trend": "down"
+    },
+    {
+      "category": "ai-quality",
+      "today": 2,
+      "7d_avg": 1.9,
+      "change_pct": 5,
+      "trend": "flat"
+    },
+    {
+      "category": "ai-video-audio",
+      "today": 1,
+      "7d_avg": 1.3,
+      "change_pct": -23,
+      "trend": "down"
+    },
+    {
+      "category": "code-visualization",
+      "today": 2,
+      "7d_avg": 2.4,
+      "change_pct": -17,
+      "trend": "flat"
+    },
+    {
+      "category": "education",
+      "today": 2,
+      "7d_avg": 1.6,
+      "change_pct": 25,
+      "trend": "up"
+    },
+    {
+      "category": "open-source-alt",
+      "today": 1,
+      "7d_avg": 1.2,
+      "change_pct": -17,
+      "trend": "flat"
+    },
+    {
+      "category": "other",
+      "today": 4,
+      "7d_avg": 3.5,
+      "change_pct": 14,
+      "trend": "flat"
+    },
+    {
+      "category": "web-infra",
+      "today": 2,
+      "7d_avg": 1.9,
+      "change_pct": 5,
+      "trend": "flat"
+    }
+  ],
+  "newcomer_ratio": {
+    "first_timers": 7,
+    "total": 17,
+    "ratio": "41%",
+    "7d_avg_ratio": "34%",
+    "first_timer_list": [
+      "Biohub/esm",
+      "Crosstalk-Solutions/project-nomad",
+      "DataTalksClub/data-engineering-zoomcamp",
+      "anthropics/claude-code",
+      "cursor/plugins",
+      "galilai-group/stable-worldmodel",
+      "run-llama/liteparse"
+    ]
+  },
+  "accelerating": [
+    {
+      "repo": "Lum1104/Understand-Anything",
+      "days": 8,
+      "latest_stars": 3766,
+      "prev_avg": 4594,
+      "trend": "stable"
+    },
+    {
+      "repo": "colbymchenry/codegraph",
+      "days": 7,
+      "latest_stars": 3171,
+      "prev_avg": 2993,
+      "trend": "stable"
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "days": 7,
+      "latest_stars": 2169,
+      "prev_avg": 2502,
+      "trend": "stable"
+    },
+    {
+      "repo": "tinyhumansai/openhuman",
+      "days": 6,
+      "latest_stars": 3394,
+      "prev_avg": 3957,
+      "trend": "stable"
+    },
+    {
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "days": 5,
+      "latest_stars": 885,
+      "prev_avg": 935,
+      "trend": "stable"
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "days": 5,
+      "latest_stars": 1413,
+      "prev_avg": 1725,
+      "trend": "stable"
+    },
+    {
+      "repo": "Leonxlnx/taste-skill",
+      "days": 5,
+      "latest_stars": 2066,
+      "prev_avg": 2475,
+      "trend": "stable"
+    },
+    {
+      "repo": "hardikpandya/stop-slop",
+      "days": 5,
+      "latest_stars": 618,
+      "prev_avg": 710,
+      "trend": "stable"
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "days": 4,
+      "latest_stars": 609,
+      "prev_avg": 705,
+      "trend": "stable"
+    },
+    {
+      "repo": "Imbad0202/academic-research-skills",
+      "days": 4,
+      "latest_stars": 2502,
+      "prev_avg": 2416,
+      "trend": "stable"
+    },
+    {
+      "repo": "twentyhq/twenty",
+      "days": 4,
+      "latest_stars": 575,
+      "prev_avg": 508,
+      "trend": "up"
+    },
+    {
+      "repo": "oven-sh/bun",
+      "days": 3,
+      "latest_stars": 908,
+      "prev_avg": 448,
+      "trend": "up"
+    },
+    {
+      "repo": "microsoft/ai-agents-for-beginners",
+      "days": 3,
+      "latest_stars": 818,
+      "prev_avg": 895,
+      "trend": "stable"
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "days": 3,
+      "latest_stars": 990,
+      "prev_avg": 1378,
+      "trend": "stable"
+    },
+    {
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "days": 3,
+      "latest_stars": 2753,
+      "prev_avg": 2555,
+      "trend": "stable"
+    },
+    {
+      "repo": "can1357/oh-my-pi",
+      "days": 3,
+      "latest_stars": 457,
+      "prev_avg": 376,
+      "trend": "up"
+    },
+    {
+      "repo": "manaflow-ai/cmux",
+      "days": 3,
+      "latest_stars": 598,
+      "prev_avg": 634,
+      "trend": "stable"
+    },
+    {
+      "repo": "Axorax/awesome-free-apps",
+      "days": 3,
+      "latest_stars": 728,
+      "prev_avg": 440,
+      "trend": "up"
+    },
+    {
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "days": 3,
+      "latest_stars": 3563,
+      "prev_avg": 3211,
+      "trend": "up"
+    },
+    {
+      "repo": "byoungd/English-level-up-tips",
+      "days": 3,
+      "latest_stars": 1564,
+      "prev_avg": 1574,
+      "trend": "stable"
+    }
+  ],
+  "decelerating": [],
+  "dark_horse": [
+    {
+      "repo": "run-llama/liteparse",
+      "stars": 680
+    }
+  ],
+  "consecutive_trend": {
+    "total_sustained": 50,
+    "yesterday_sustained": 12
+  }
+}

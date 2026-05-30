@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-05-30 | 总页面：104
+> 最后更新：2026-05-31 | 总页面：111
 
 ## Entities
 
@@ -18,15 +18,16 @@
 - [[antoinezambelli-forge|forge"]] — A Python framework for self-hosted LLM tool-calling and mult...
 - [[axorax-awesome-free-apps|awesome-free-apps"]] — Curated list of the best free apps for PC and mobile 🔥
 - [[bigbodycobain-shadowbroker|Shadowbroker"]] — Open-source intelligence for the global theater. Track every... 🆕
-- [[biohub-esm|esm"]] — No description 🆕
+- [[biohub-esm|esm"]] — No description
 - [[blakeblackshear-frigate|frigate"]] — NVR with realtime local object detection for IP cameras 🆕
 - [[byjoey-cfnew|cfnew"]] — No description
 - [[byoungd-english-level-up-tips|English-level-up-tips"]] — An advanced guide to learn English which might benefit you a... 🔥
 - [[can1357-oh-my-pi|oh-my-pi"]] — ⌥ AI Coding agent for the terminal — hash-anchored edits, op... 🔥
 - [[chachamaru127-claude-code-harness|claude-code-harness"]] — Claude Code Dedicated Development Harness - Achieving High-Q...
+- [[chen08209-flclash|FlClash"]] — A multi-platform proxy client based on ClashMeta,simple and ... 🆕
 - [[chromedevtools-chrome-devtools-mcp|chrome-devtools-mcp"]] — Chrome DevTools for coding agents 🆕
 - [[cloakhq-cloakbrowser|CloakBrowser"]] — Stealth Chromium that passes every bot detection test. Drop-... 🆕
-- [[codecrafters-io-build-your-own-x|build-your-own-x"]] — Master programming by recreating your favorite technologies ... 🆕
+- [[codecrafters-io-build-your-own-x|build-your-own-x"]] — Master programming by recreating your favorite technologies ... 🔥
 - [[colbymchenry-codegraph|codegraph"]] — Pre-indexed code knowledge graph for Claude Code, Codex, Cur... 🔥
 - [[crosstalk-solutions-project-nomad|project-nomad"]] — Project N.O.M.A.D, is a self-contained, offline survival com... 🆕
 - [[cursor-plugins|plugins"]] — Cursor plugin specification and official plugins 🆕
@@ -36,8 +37,10 @@
 - [[diolinux-photogimp|PhotoGIMP"]] — A Patch for GIMP 3+ for Photoshop Users
 - [[dograh-hq-dograh|dograh"]] — Open Source Voice Agent Platform
 - [[dotnet-skills|skills"]] — Repository for skills to assist AI coding agents with .NET a... 🔥
+- [[dreammis-social-auto-upload|social-auto-upload"]] — 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili 🆕
 - [[earendil-works-pi|pi"]] — AI agent toolkit: coding agent CLI, unified LLM API, TUI & w... 🆕
-- [[everyinc-compound-engineering-plugin|compound-engineering-plugin"]] — Official Compound Engineering plugin for Claude Code, Codex,... 🆕
+- [[everyinc-compound-engineering-plugin|compound-engineering-plugin"]] — Official Compound Engineering plugin for Claude Code, Codex,... 🔥
+- [[fareedkhan-dev-train-llm-from-scratch|train-llm-from-scratch"]] — A straightforward method for training your LLM, from downloa... 🆕
 - [[fincept-corporation-finceptterminal|FinceptTerminal"]] — FinceptTerminal is a modern finance application offering adv...
 - [[frappe-erpnext|erpnext"]] — Free and Open Source Enterprise Resource Planning (ERP)
 - [[galilai-group-stable-worldmodel|stable-worldmodel"]] — A platform for reproducible world model research and evaluat... 🆕
@@ -63,7 +66,7 @@
 - [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .claude director... 🆕
 - [[medusajs-medusa|medusa"]] — The world's most flexible commerce platform.
 - [[microsoft-ai-agents-for-beginners|ai-agents-for-beginners"]] — 12 Lessons to Get Started Building AI Agents 🔥
-- [[microsoft-markitdown|markitdown"]] — Python tool for converting files and office documents to Mar... 🆕
+- [[microsoft-markitdown|markitdown"]] — Python tool for converting files and office documents to Mar... 🔥
 - [[moeru-ai-airi|airi"]] — 💖🧸 Self hosted, you-owned Grok Companion, a container of sou...
 - [[msitarzewski-agency-agents|agency-agents"]] — A complete AI agency at your fingertips - From frontend wiza... 🔥
 - [[mukul975-anthropic-cybersecurity-skills|Anthropic-Cybersecurity-Skills"]] — 754 structured cybersecurity skills for AI agents · Mapped t... 🔥
@@ -75,6 +78,7 @@
 - [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo... 🆕
 - [[odoo-odoo|odoo"]] — Odoo. Open Source Apps To Grow Your Business.
 - [[open-dev-society-openstock|OpenStock"]] — OpenStock is an open-source alternative to expensive market ...
+- [[openbmb-voxcpm|VoxCPM"]] — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generati... 🆕
 - [[openmoss-moss-tts|MOSS-TTS"]] — MOSS‑TTS Family is an open‑source speech and sound generatio...
 - [[opentoonz-opentoonz|opentoonz"]] — OpenToonz - An open-source full-featured 2D animation creati...
 - [[oven-sh-bun|bun"]] — Incredibly fast JavaScript runtime, bundler, test runner, an... 🔥
@@ -88,7 +92,7 @@
 - [[rohitg00-ai-engineering-from-scratch|ai-engineering-from-scratch"]] — Learn it. Build it. Ship it for others. 🔥
 - [[rtk-ai-rtk|rtk"]] — CLI proxy that reduces LLM token consumption by 60-90% on co...
 - [[run-llama-liteparse|liteparse"]] — A fast, helpful, and open-source document parser 🆕
-- [[ruvnet-ruview|RuView"]] — RuView turns commodity WiFi signals into real-time spatial i...
+- [[ruvnet-ruview|RuView"]] — π RuView turns commodity WiFi signals into real-time spatial...
 - [[shiyu-coder-kronos|Kronos"]] — Kronos: A Foundation Model for the Language of Financial Mar...
 - [[st-tech-ppf-contact-solver|ppf-contact-solver"]] — A contact solver for physics-based simulations involving 👚 s...
 - [[supertone-inc-supertonic|supertonic"]] — Lightning-Fast, On-Device, Multilingual TTS running natively...
@@ -106,9 +110,12 @@
 ## Concepts
 
 - [[ai-agent]] — ai-agent 领域趋势分析
+- [[audio]] — audio 领域趋势分析
 - [[cli]] — cli 领域趋势分析
+- [[data]] — data 领域趋势分析
 - [[education]] — education 领域趋势分析
 - [[erp]] — erp 领域趋势分析
+- [[image-gen]] — image-gen 领域趋势分析
 - [[science]] — science 领域趋势分析
 - [[security]] — security 领域趋势分析
 - [[web]] — web 领域趋势分析
@@ -121,6 +128,3 @@
 
 - [[reports/2026-05-16]] — 首日日报，12 个项目，Agent Skills 生态爆发
 - [[reports/2026-05-17]] — 第 2 日日报，12 个项目全部连续上榜
-- [[reports/retrospective-2026-05-16]] — 近一周问题回溯报告
-- 每日趋势分析已迁移到 wiki entity 系统，详见 [[entities/]] 目录（97 个项目）
-- 每周健康检查报告见 [[reports/lint-YYYY-MM-DD]] 格式

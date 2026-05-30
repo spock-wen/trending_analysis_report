@@ -34,5 +34,5 @@ NVR with realtime local object detection for IP cameras
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[crosstalk-solutions-project-nomad]] [[everyinc-compound-engineering-plugin]] [[cursor-plugins]]
+[[crosstalk-solutions-project-nomad]] [[twentyhq-twenty]] [[cursor-plugins]] [[everyinc-compound-engineering-plugin]]
 

@@ -34,5 +34,5 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[anthropics-claude-code]] [[galilai-group-stable-worldmodel]] [[harry0703-moneyprinterturbo]]
+[[microsoft-markitdown]] [[anthropics-skills]] [[harry0703-moneyprinterturbo]] [[openmoss-moss-tts]]
 

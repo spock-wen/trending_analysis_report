@@ -37,5 +37,5 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[leonxlnx-taste-skill]] [[cloakhq-cloakbrowser]] [[hardikpandya-stop-slop]] [[anthropics-claude-code]]
+[[msitarzewski-agency-agents]] [[harry0703-moneyprinterturbo]] [[leonxlnx-taste-skill]] [[revfactory-harness]] [[anthropics-claude-code]]
 

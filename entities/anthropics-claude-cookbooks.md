@@ -33,5 +33,5 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[biohub-esm]] [[karpathy-nn-zero-to-hero]] [[hardikpandya-stop-slop]] [[datatalksclub-data-engineering-zoomcamp]]
+[[fareedkhan-dev-train-llm-from-scratch]] [[harry0703-moneyprinterturbo]] [[revfactory-harness]] [[biohub-esm]] [[datatalksclub-data-engineering-zoomcamp]]
 

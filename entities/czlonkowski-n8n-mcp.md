@@ -34,5 +34,5 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[digitalplatdev-freedomain]] [[everyinc-compound-engineering-plugin]] [[cursor-plugins]] [[hardikpandya-stop-slop]]
+[[twentyhq-twenty]] [[harry0703-moneyprinterturbo]] [[cursor-plugins]] [[crosstalk-solutions-project-nomad]] [[revfactory-harness]]
 

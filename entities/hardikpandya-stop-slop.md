@@ -37,5 +37,5 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[leonxlnx-taste-skill]] [[affaan-m-ecc]]
+[[anthropics-skills]] [[revfactory-harness]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]]
 

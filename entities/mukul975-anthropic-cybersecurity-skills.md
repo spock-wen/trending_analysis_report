@@ -37,5 +37,5 @@ language: "Python"
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[cloakhq-cloakbrowser]] [[microsoft-markitdown]] [[galilai-group-stable-worldmodel]] [[hardikpandya-stop-slop]]
+[[harry0703-moneyprinterturbo]] [[leonxlnx-taste-skill]] [[microsoft-markitdown]] [[revfactory-harness]] [[plausible-analytics]]
 

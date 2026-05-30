@@ -33,5 +33,5 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[galilai-group-stable-worldmodel]] [[moeru-ai-airi]] [[anthropics-claude-code]] [[alishahryar1-free-claude-code]]
+[[harry0703-moneyprinterturbo]] [[moeru-ai-airi]] [[leonxlnx-taste-skill]] [[microsoft-markitdown]] [[openbmb-voxcpm]]
 

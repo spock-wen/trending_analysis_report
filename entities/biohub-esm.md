@@ -33,5 +33,5 @@ No description
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[datatalksclub-data-engineering-zoomcamp]] [[karpathy-nn-zero-to-hero]]
+[[fareedkhan-dev-train-llm-from-scratch]] [[anthropics-claude-cookbooks]] [[datatalksclub-data-engineering-zoomcamp]]
 

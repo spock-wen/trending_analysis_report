@@ -36,5 +36,5 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[revfactory-harness]] [[hardikpandya-stop-slop]] [[moeru-ai-airi]] [[affaan-m-ecc]] [[leonxlnx-taste-skill]]
+[[harry0703-moneyprinterturbo]] [[moeru-ai-airi]] [[revfactory-harness]] [[affaan-m-ecc]] [[anthropics-skills]]
 

@@ -33,5 +33,5 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[cloakhq-cloakbrowser]] [[microsoft-markitdown]] [[galilai-group-stable-worldmodel]] [[anthropics-claude-code]] [[diolinux-photogimp]]
+[[harry0703-moneyprinterturbo]] [[microsoft-markitdown]] [[cloakhq-cloakbrowser]] [[anthropics-skills]] [[diolinux-photogimp]]
 

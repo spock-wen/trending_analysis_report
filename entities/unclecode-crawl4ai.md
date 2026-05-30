@@ -33,5 +33,5 @@ language: "Python"
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[revfactory-harness]] [[microsoft-markitdown]] [[galilai-group-stable-worldmodel]] [[hardikpandya-stop-slop]]
+[[harry0703-moneyprinterturbo]] [[moeru-ai-airi]] [[microsoft-markitdown]] [[revfactory-harness]] [[affaan-m-ecc]]
 

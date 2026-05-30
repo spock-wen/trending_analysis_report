@@ -35,5 +35,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager al
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[ruvnet-ruview]] [[iii-hq-iii]] [[run-llama-liteparse]]
+[[tinyhumansai-openhuman]] [[iii-hq-iii]] [[ruvnet-ruview]] [[run-llama-liteparse]]
 

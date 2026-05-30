@@ -37,5 +37,5 @@ Open source repository of plugins primarily intended for knowledge workers to us
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[microsoft-markitdown]] [[galilai-group-stable-worldmodel]] [[hardikpandya-stop-slop]] [[anthropics-claude-code]]
+[[harry0703-moneyprinterturbo]] [[microsoft-markitdown]] [[revfactory-harness]] [[affaan-m-ecc]] [[anthropics-skills]]
 

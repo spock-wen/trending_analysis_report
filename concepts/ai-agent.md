@@ -1,7 +1,7 @@
 ---
 title: "ai-agent"
-created: 2026-05-20
-updated: 2026-05-30
+created: unknown
+updated: 2026-05-31
 type: concept
 tags: [ai-agent]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 今日上榜项目（10 个）
 
-[[affaan-m-ecc]] [[leonxlnx-taste-skill]] [[hardikpandya-stop-slop]] [[digitalplatdev-freedomain]] [[twentyhq-twenty]] [[harry0703-moneyprinterturbo]] [[everyinc-compound-engineering-plugin]] [[anthropics-claude-code]] [[galilai-group-stable-worldmodel]] [[crosstalk-solutions-project-nomad]]
+[[anthropics-skills]] [[affaan-m-ecc]] [[harry0703-moneyprinterturbo]] [[revfactory-harness]] [[openmoss-moss-tts]] [[everyinc-compound-engineering-plugin]] [[anthropics-claude-code]] [[galilai-group-stable-worldmodel]] [[crosstalk-solutions-project-nomad]] [[fareedkhan-dev-train-llm-from-scratch]]
 
 ## 语言分布
 
-TypeScript 3个, Python 3个, JavaScript 1个, Shell 1个, ? 1个, HTML 1个
+Python 5个, TypeScript 2个, JavaScript 1个, HTML 1个, Jupyter Notebook 1个
 
 ## 趋势观察
 

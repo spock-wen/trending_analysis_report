@@ -34,5 +34,5 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[revfactory-harness]] [[moeru-ai-airi]] [[anthropics-claude-code]] [[obra-superpowers]]
+[[harry0703-moneyprinterturbo]] [[moeru-ai-airi]] [[leonxlnx-taste-skill]] [[revfactory-harness]] [[anthropics-claude-code]]
 

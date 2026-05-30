@@ -34,5 +34,5 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[bigbodycobain-shadowbroker]] [[revfactory-harness]] [[cloakhq-cloakbrowser]] [[fincept-corporation-finceptterminal]]
+[[fareedkhan-dev-train-llm-from-scratch]] [[moeru-ai-airi]] [[mukul975-anthropic-cybersecurity-skills]] [[bigbodycobain-shadowbroker]] [[revfactory-harness]]
 

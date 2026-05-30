@@ -36,5 +36,5 @@ The open alternative to Salesforce, designed for AI.
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[everyinc-compound-engineering-plugin]] [[cursor-plugins]] [[hardikpandya-stop-slop]] [[crosstalk-solutions-project-nomad]]
+[[harry0703-moneyprinterturbo]] [[cursor-plugins]] [[crosstalk-solutions-project-nomad]] [[revfactory-harness]] [[affaan-m-ecc]]
 

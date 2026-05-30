@@ -37,5 +37,5 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[digitalplatdev-freedomain]] [[everyinc-compound-engineering-plugin]] [[cursor-plugins]] [[byoungd-english-level-up-tips]]
+[[twentyhq-twenty]] [[harry0703-moneyprinterturbo]] [[byoungd-english-level-up-tips]] [[cursor-plugins]] [[crosstalk-solutions-project-nomad]]
 

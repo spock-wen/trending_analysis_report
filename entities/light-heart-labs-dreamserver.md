@@ -33,5 +33,5 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[nvlabs-sana]] [[digitalplatdev-freedomain]] [[microsoft-markitdown]] [[galilai-group-stable-worldmodel]] [[hardikpandya-stop-slop]]
+[[harry0703-moneyprinterturbo]] [[moeru-ai-airi]] [[openbmb-voxcpm]] [[microsoft-markitdown]] [[revfactory-harness]]
 

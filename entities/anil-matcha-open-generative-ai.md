@@ -33,5 +33,5 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[nvlabs-sana]] [[digitalplatdev-freedomain]] [[axorax-awesome-free-apps]] [[galilai-group-stable-worldmodel]] [[hardikpandya-stop-slop]]
+[[harry0703-moneyprinterturbo]] [[openbmb-voxcpm]] [[revfactory-harness]] [[affaan-m-ecc]] [[hkuds-vimax]]
 

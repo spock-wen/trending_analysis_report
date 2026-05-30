@@ -34,5 +34,5 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[microsoft-markitdown]] [[fincept-corporation-finceptterminal]] [[galilai-group-stable-worldmodel]] [[hardikpandya-stop-slop]]
+[[fareedkhan-dev-train-llm-from-scratch]] [[harry0703-moneyprinterturbo]] [[microsoft-markitdown]] [[revfactory-harness]] [[datatalksclub-data-engineering-zoomcamp]]
 

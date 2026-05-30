@@ -35,5 +35,5 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[byoungd-english-level-up-tips]] [[biohub-esm]] [[rohitg00-ai-engineering-from-scratch]] [[karpathy-nn-zero-to-hero]]
+[[fareedkhan-dev-train-llm-from-scratch]] [[harry0703-moneyprinterturbo]] [[byoungd-english-level-up-tips]] [[revfactory-harness]] [[biohub-esm]]
 

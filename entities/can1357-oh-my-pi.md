@@ -35,5 +35,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[digitalplatdev-freedomain]] [[everyinc-compound-engineering-plugin]] [[cursor-plugins]] [[revfactory-harness]]
+[[twentyhq-twenty]] [[harry0703-moneyprinterturbo]] [[moeru-ai-airi]] [[cursor-plugins]] [[crosstalk-solutions-project-nomad]]
 

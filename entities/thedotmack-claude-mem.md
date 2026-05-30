@@ -33,5 +33,5 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[digitalplatdev-freedomain]] [[everyinc-compound-engineering-plugin]] [[cursor-plugins]] [[hardikpandya-stop-slop]]
+[[twentyhq-twenty]] [[harry0703-moneyprinterturbo]] [[cursor-plugins]] [[crosstalk-solutions-project-nomad]] [[revfactory-harness]]
 

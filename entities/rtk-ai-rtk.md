@@ -33,5 +33,5 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[run-llama-liteparse]] [[iii-hq-iii]] [[tinyhumansai-openhuman]] [[hardikpandya-stop-slop]]
+[[tinyhumansai-openhuman]] [[harry0703-moneyprinterturbo]] [[run-llama-liteparse]] [[leonxlnx-taste-skill]] [[revfactory-harness]]
 

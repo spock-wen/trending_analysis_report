@@ -34,5 +34,5 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[bigbodycobain-shadowbroker]] [[knadh-listmonk]] [[fincept-corporation-finceptterminal]] [[hardikpandya-stop-slop]]
+[[fareedkhan-dev-train-llm-from-scratch]] [[fincept-corporation-finceptterminal]] [[harry0703-moneyprinterturbo]] [[alireza0-s-ui]] [[bigbodycobain-shadowbroker]]
 

@@ -33,5 +33,5 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[microsoft-markitdown]] [[galilai-group-stable-worldmodel]] [[hardikpandya-stop-slop]] [[moeru-ai-airi]]
+[[harry0703-moneyprinterturbo]] [[moeru-ai-airi]] [[openbmb-voxcpm]] [[microsoft-markitdown]] [[revfactory-harness]]
 

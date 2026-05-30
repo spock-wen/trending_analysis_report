@@ -37,5 +37,5 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[byoungd-english-level-up-tips]] [[microsoft-markitdown]] [[galilai-group-stable-worldmodel]] [[hardikpandya-stop-slop]]
+[[harry0703-moneyprinterturbo]] [[byoungd-english-level-up-tips]] [[microsoft-markitdown]] [[revfactory-harness]] [[datatalksclub-data-engineering-zoomcamp]]
 

@@ -33,5 +33,5 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[everyinc-compound-engineering-plugin]] [[cursor-plugins]] [[cloakhq-cloakbrowser]] [[crosstalk-solutions-project-nomad]]
+[[twentyhq-twenty]] [[cursor-plugins]] [[crosstalk-solutions-project-nomad]] [[cloakhq-cloakbrowser]] [[diolinux-photogimp]]
 

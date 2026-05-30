@@ -1,19 +1,19 @@
 ---
 title: "revfactory/harness"
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-05-31
 type: tool
 tags: [ai-agent, web]
-sources: [raw/trending/2026-05-29.json]
-confidence: low
-trending_count_daily: 1
+sources: [raw/trending/2026-05-31.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-05-29
-last_trending: 2026-05-29
-peak_rank: 10
-total_stars: 3859
+last_trending: 2026-05-31
+peak_rank: 5
+total_stars: 4237
 language: "HTML"
 ---
 
@@ -22,16 +22,17 @@ language: "HTML"
 A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 
 - 语言: HTML
-- 上榜次数: 1 次
+- 上榜次数: 2 次
 - 连续上榜: 1 天
-- 最高排名: #10
+- 最高排名: #5
 - 链接: [revfactory/harness](https://github.com/revfactory/harness)
 
 ## 上榜历史
 
+  - 2026-05-31: #5, +80⭐
   - 2026-05-29: #10, +190⭐
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[hardikpandya-stop-slop]] [[moeru-ai-airi]] [[affaan-m-ecc]] [[leonxlnx-taste-skill]]
+[[harry0703-moneyprinterturbo]] [[moeru-ai-airi]] [[affaan-m-ecc]] [[anthropics-skills]] [[digitalplatdev-freedomain]]
 

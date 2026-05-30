@@ -95,9 +95,41 @@ def calculate_signals(week_start, week_end):
         'SELECT DISTINCT repo_full_name FROM trending_daily WHERE date >= ? AND date <= ?',
         (prev_ws, prev_we)).fetchall())
 
+    # ---- 4. 从 repo_stats 获取历史信息 ----
+    repo_history = {}
+    try:
+        stats_rows = conn.execute('''
+            SELECT repo_full_name, trending_count_daily, trending_count_weekly,
+                   max_consecutive_days, peak_rank, first_seen, last_seen
+            FROM repo_stats
+        ''').fetchall()
+        for r in stats_rows:
+            repo_history[r[0]] = {
+                'total_daily_appearances': r[1] or 0,
+                'total_weekly_appearances': r[2] or 0,
+                'max_consecutive_days': r[3] or 0,
+                'alltime_peak_rank': r[4],
+                'first_seen': r[5] or '',
+                'last_seen': r[6] or '',
+            }
+    except Exception as e:
+        repo_history = {}  # 表结构可能不完整，静默降级
+
     conn.close()
 
-    # ---- 4. 组装所有项目信号 ----
+    # ---- 5. 判断是否首次上榜周榜 ----
+    # 查 weekly_trending 表，去重统计每个 repo 出现过的周数（不包含本周）
+    conn2 = sqlite3.connect(DB_PATH)
+    prev_weekly_counts = conn2.execute('''
+        SELECT repo_full_name, COUNT(DISTINCT week_start) as total_weeks
+        FROM weekly_trending
+        WHERE week_start < ?
+        GROUP BY repo_full_name
+    ''', (week_start,)).fetchall()
+    prev_weekly_map = dict(prev_weekly_counts)
+    conn2.close()
+
+    # ---- 6. 组装所有项目信号 ----
     all_repos = set(list(daily_projects.keys()) + list(weekly_map.keys()))
     projects = []
 
@@ -108,6 +140,9 @@ def calculate_signals(week_start, week_end):
         consec_days = daily.get('days_on_chart', 0)
         weekly_stars = weekly.get('weekly_stars', 0)
         weekly_rank = weekly.get('weekly_rank', 999)
+
+        hist = repo_history.get(repo, {})
+        prev_weekly_count = prev_weekly_map.get(repo, 0)
 
         signals = {
             'repo': repo,
@@ -126,6 +161,17 @@ def calculate_signals(week_start, week_end):
             'weekly_rank': weekly_rank,
             'has_weekly_data': repo in weekly_map,
             'is_new_this_week': repo not in prev_active and consec_days > 0,
+            # ---- 历史数据 ----
+            'historical': {
+                'total_daily_appearances': hist.get('total_daily_appearances', 0),
+                'total_weekly_appearances': hist.get('total_weekly_appearances', 0),
+                'max_consecutive_days': hist.get('max_consecutive_days', 0),
+                'alltime_peak_rank': hist.get('alltime_peak_rank'),
+                'first_seen': hist.get('first_seen', ''),
+                'last_seen': hist.get('last_seen', ''),
+                'prev_weekly_count': prev_weekly_count,
+                'is_first_weekly': prev_weekly_count == 0 and repo in weekly_map,
+            },
         }
 
         # ---- 5. 交叉信号分类 ----
@@ -165,6 +211,7 @@ def calculate_signals(week_start, week_end):
             'persistent_leaders': sum(1 for p in projects if p['signal_type'] == 'persistent_leader'),
             'burst_stars': sum(1 for p in projects if p['signal_type'] == 'burst_star'),
             'comebacks': sum(1 for p in projects if p['signal_type'] == 'comeback'),
+            'first_timers_on_weekly': sum(1 for p in projects if p.get('historical', {}).get('is_first_weekly')),
             'language_distribution': lang_dist_sorted,
         },
         'top_by_daily_stars': top_by_daily,

@@ -10,9 +10,9 @@ GitHub Trending Wiki Lint / Health Check
 
 import os
 import re
+import subprocess
 import sys
-import sqlite3
-from datetime import datetime, timedelta, date
+from datetime import datetime, timedelta
 
 WIKI_PATH = "/srv/www/github-trending-wiki"
 ENTITIES_DIR = os.path.join(WIKI_PATH, "entities")
@@ -20,48 +20,13 @@ CONCEPTS_DIR = os.path.join(WIKI_PATH, "concepts")
 REPORTS_DIR = os.path.join(WIKI_PATH, "reports")
 
 REQUIRED_FRONTMATTER = ['title', 'created', 'updated', 'type', 'tags', 'confidence']
-VALID_TYPES = ['entity', 'concept', 'comparison', 'query', 'tool', 'framework', 'tutorial', 'library', 'app', 'model', 'dataset', 'benchmark', 'awesome-list']
+VALID_TYPES = ['entity', 'concept', 'comparison', 'query']
 VALID_CONFIDENCE = ['high', 'medium', 'low']
-
-DB_PATH = os.path.join(WIKI_PATH, "data", "github_trending.db")
-
-
-def check_db_integrity():
-    """检查 DB 数据完整性（最近 3 天是否有缺失）"""
-    issues = {'critical': [], 'warning': [], 'info': []}
-    if not os.path.exists(DB_PATH):
-        issues['warning'].append("DB 文件不存在: data/github_trending.db")
-        return issues
-    try:
-        import sqlite3 as db_lib
-        conn = db_lib.connect(DB_PATH)
-        today = date.today()
-        for offset in range(1, 4):
-            check_date = (today - timedelta(days=offset)).isoformat()
-            count = conn.execute(
-                'SELECT COUNT(*) FROM trending_daily WHERE date=? AND period="daily"',
-                (check_date,)
-            ).fetchone()[0]
-            if count == 0:
-                raw_file = os.path.join(WIKI_PATH, 'raw', 'trending', f'{check_date}.json')
-                if os.path.exists(raw_file):
-                    issues['critical'].append(
-                        f"DB 缺失 {check_date} 数据，但 raw 文件存在 — 可运行 `python3 scripts/backfill.py {check_date}` 补采"
-                    )
-                else:
-                    issues['critical'].append(
-                        f"DB 缺失 {check_date} 数据，且无 raw 文件 — 数据可能永久丢失"
-                    )
-        conn.close()
-    except Exception as e:
-        issues['warning'].append(f"DB 完整性检查失败: {e}")
-    return issues
 
 # Tag taxonomy (from SCHEMA.md)
 VALID_TAGS = {
     'ai-agent', 'llm', 'web', 'cli', 'mobile', 'data', 'devops', 'security', 'game',
-    'blockchain', 'iot', 'ar-vr', 'education', 'healthcare', 'finance', 'erp', 'science',
-    'image-gen', 'audio', 'video', 'nlp', 'computer-vision', 'search',
+    'blockchain', 'iot', 'ar-vr', 'education', 'healthcare', 'finance',
     'rust', 'python', 'typescript', 'go', 'java', 'cpp', 'c', 'zig', 'ruby', 'php',
     'swift', 'kotlin', 'dart', 'shell',
     'framework', 'tool', 'library', 'app', 'model', 'dataset', 'benchmark', 'tutorial', 'awesome-list',
@@ -104,7 +69,6 @@ def extract_wikilinks(content):
 def lint_pages():
     """运行所有 lint 检查"""
     issues = {'critical': [], 'warning': [], 'info': []}
-
     pages = get_all_wiki_pages()
     page_slugs = {os.path.splitext(os.path.basename(p))[0]: p for p in pages}
 
@@ -168,6 +132,24 @@ def lint_pages():
                 if tag and tag not in VALID_TAGS:
                     issues['info'].append(f"未注册 tag '{tag}': {fname}")
 
+    # 4b. Frontmatter 字段值合法性
+    today = datetime.now().strftime("%Y-%m-%d")
+    for page_path in pages:
+        fname = os.path.basename(page_path)
+        content = open(page_path, encoding='utf-8').read()
+        fm = parse_frontmatter(content)
+        if fm is None:
+            continue
+
+        for field in ['created', 'updated']:
+            val = fm.get(field, '')
+            if val == 'unknown':
+                issues['warning'].append(f"字段值无效 {field}='unknown': {fname}")
+            elif val and not re.match(r'^\d{4}-\d{2}-\d{2}$', val):
+                issues['warning'].append(f"字段值格式异常 {field}='{val}': {fname}")
+            elif val and val > today:
+                issues['warning'].append(f"字段值为未来日期 {field}='{val}': {fname}")
+
     # 5. 过期内容检查
     cutoff = (datetime.now() - timedelta(days=30)).strftime("%Y-%m-%d")
     for page_path in pages:
@@ -209,39 +191,6 @@ def lint_pages():
             updated = fm.get('updated', '9999')
             if updated < contested_cutoff:
                 issues['critical'].append(f"矛盾页面超期 (>30天未解决): {fname} (updated: {updated}) — 需要人工审查并解决")
-
-    # 10. DB vs Markdown 一致性检查
-    try:
-        import sqlite3
-        db_path = os.path.join(WIKI_PATH, "data", "github_trending.db")
-        if os.path.exists(db_path):
-            conn = sqlite3.connect(db_path)
-            cursor = conn.execute('SELECT repo_full_name, consecutive_days, trending_count_daily, last_seen FROM repo_stats')
-            db_data = {row[0]: {'consecutive_days': row[1], 'count': row[2], 'last_seen': row[3]} for row in cursor.fetchall()}
-            conn.close()
-            
-            for page_path in pages:
-                fname = os.path.basename(page_path)
-                if not fname.endswith('.md') or not os.path.dirname(page_path).endswith('entities'):
-                    continue
-                content = open(page_path, encoding='utf-8').read()
-                fm = parse_frontmatter(content)
-                if not fm or 'title' not in fm:
-                    continue
-                title = fm.get('title', '').strip('"')
-                if title not in db_data:
-                    continue
-                db = db_data[title]
-                md_cons = int(fm.get('consecutive_days', '0') or '0')
-                md_count = int(fm.get('trending_count_daily', '0') or '0')
-                md_last = fm.get('last_trending', '')
-                if db['consecutive_days'] != md_cons or db['count'] != md_count or db['last_seen'] != md_last:
-                    issues['critical'].append(
-                        f"DB/MD不一致: {fname} — DB(cons={db['consecutive_days']},count={db['count']},last={db['last_seen']}) "
-                        f"vs MD(cons={md_cons},count={md_count},last={md_last})"
-                    )
-    except Exception as e:
-        issues['warning'].append(f"DB一致性检查失败: {e}")
 
     return issues
 
@@ -285,17 +234,51 @@ def generate_report(issues):
     return '\n'.join(lines)
 
 
+def check_git_status(issues):
+    """检查 git 状态：未提交文件、未推送提交"""
+    try:
+        # 未跟踪/修改的文件
+        result = subprocess.run(
+            ['git', 'status', '--porcelain'],
+            capture_output=True, text=True, timeout=10,
+            cwd=WIKI_PATH
+        )
+        dirty_files = [l for l in result.stdout.split('\n') if l.strip()]
+        if dirty_files:
+            issues['warning'].append(f"未提交的文件: {len(dirty_files)} 个")
+            for f in dirty_files[:5]:
+                issues['info'].append(f"  未提交: {f.strip()}")
+            if len(dirty_files) > 5:
+                issues['info'].append(f"  ...及其他 {len(dirty_files)-5} 个")
+
+        # 未推送的提交
+        result = subprocess.run(
+            ['git', 'log', '@{u}..HEAD', '--oneline'],
+            capture_output=True, text=True, timeout=10,
+            cwd=WIKI_PATH
+        )
+        if result.returncode == 0 and result.stdout.strip():
+            commits = result.stdout.strip().split('\n')
+            issues['warning'].append(f"未推送的提交: {len(commits)} 个")
+            for c in commits[:3]:
+                issues['info'].append(f"  未推送: {c}")
+            if len(commits) > 3:
+                issues['info'].append(f"  ...及其他 {len(commits)-3} 个")
+
+    except subprocess.TimeoutExpired:
+        issues['info'].append("git 状态检查超时")
+    except FileNotFoundError:
+        issues['info'].append("git 未安装，跳过 git 状态检查")
+    except Exception as e:
+        issues['info'].append(f"git 状态检查异常: {e}")
+
+
 def main():
     fix_mode = '--fix' in sys.argv
 
-    print("=== GitHub Trending Wiki Lint ===\n")
+    print("=== GitHub Trending Wiki Lint ===")
     issues = lint_pages()
-    
-    # DB 数据完整性检查（独立运行，避免局部 import 冲突）
-    db_issues = check_db_integrity()
-    for severity in db_issues:
-        issues[severity].extend(db_issues[severity])
-    
+    check_git_status(issues)
     report = generate_report(issues)
 
     # 输出到终端

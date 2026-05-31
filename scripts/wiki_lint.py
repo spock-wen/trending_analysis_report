@@ -20,7 +20,7 @@ CONCEPTS_DIR = os.path.join(WIKI_PATH, "concepts")
 REPORTS_DIR = os.path.join(WIKI_PATH, "reports")
 
 REQUIRED_FRONTMATTER = ['title', 'created', 'updated', 'type', 'tags', 'confidence']
-VALID_TYPES = ['entity', 'concept', 'comparison', 'query']
+VALID_TYPES = ['entity', 'concept', 'comparison', 'query', 'tool', 'framework', 'tutorial']
 VALID_CONFIDENCE = ['high', 'medium', 'low']
 
 # Tag taxonomy (from SCHEMA.md)
@@ -30,7 +30,8 @@ VALID_TAGS = {
     'rust', 'python', 'typescript', 'go', 'java', 'cpp', 'c', 'zig', 'ruby', 'php',
     'swift', 'kotlin', 'dart', 'shell',
     'framework', 'tool', 'library', 'app', 'model', 'dataset', 'benchmark', 'tutorial', 'awesome-list',
-    'trending', 'rising', 'viral', 'new', 'returning', 'github'
+    'trending', 'rising', 'viral', 'new', 'returning', 'github',
+    'erp', 'audio', 'image-gen', 'science'
 }
 
 

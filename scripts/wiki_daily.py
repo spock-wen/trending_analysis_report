@@ -242,7 +242,7 @@ def generate_entities():
         lang_tag_map = {
             'python': 'python', 'rust': 'rust', 'typescript': 'typescript',
             'go': 'go', 'java': 'java', 'c++': 'cpp', 'shell': 'shell',
-            'jupyter notebook': 'python', 'css': 'python',
+            'jupyter notebook': 'python',
         }
         if lang_lower in lang_tag_map:
             tags.append(lang_tag_map[lang_lower])
@@ -371,6 +371,14 @@ def generate_concepts(all_repos, repo_domains, domain_map):
         concept_path = f'{CONCEPTS_DIR}/{domain}.md'
         is_new = not os.path.exists(concept_path)
         
+        # 如果是已有页面，保留原始 created 日期
+        if is_new:
+            orig_created = TODAY
+        else:
+            orig_content = open(concept_path, encoding='utf-8').read()
+            m = re.search(r'^created:\s*(\S+)', orig_content, re.MULTILINE)
+            orig_created = m.group(1) if m else TODAY
+        
         # 生成 wikilinks
         links = [f'[[{r.replace("/", "-").lower()}]]' for r in today_in_domain]
         
@@ -387,7 +395,7 @@ def generate_concepts(all_repos, repo_domains, domain_map):
         
         fm = f"""---
 title: "{domain}"
-created: {TODAY if is_new else 'unknown'}
+created: {orig_created}
 updated: {TODAY}
 type: concept
 tags: [{domain}]

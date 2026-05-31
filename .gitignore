@@ -11,6 +11,11 @@ raw/trending/debug/
 # 日志
 logs/
 
+# 自动生成的日常文件
+reports/
+raw/signals/
+*.db
+
 # 系统文件
 .DS_Store
 *.swp

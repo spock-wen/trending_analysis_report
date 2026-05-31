@@ -1,6 +1,6 @@
 ---
 title: "ai-agent"
-created: unknown
+created: 2026-05-20
 updated: 2026-05-31
 type: concept
 tags: [ai-agent]

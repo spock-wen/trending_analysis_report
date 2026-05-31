@@ -33,5 +33,5 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[fareedkhan-dev-train-llm-from-scratch]] [[harry0703-moneyprinterturbo]] [[revfactory-harness]] [[biohub-esm]] [[datatalksclub-data-engineering-zoomcamp]]
+[[datatalksclub-data-engineering-zoomcamp]] [[everyinc-compound-engineering-plugin]] [[biohub-esm]] [[harry0703-moneyprinterturbo]] [[anthropics-claude-code]]
 

@@ -35,5 +35,5 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[moeru-ai-airi]] [[leonxlnx-taste-skill]] [[revfactory-harness]] [[anthropics-claude-code]]
+[[everyinc-compound-engineering-plugin]] [[chachamaru127-claude-code-harness]] [[chen08209-flclash]] [[leonxlnx-taste-skill]] [[digitalplatdev-freedomain]]
 

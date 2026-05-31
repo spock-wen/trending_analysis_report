@@ -37,5 +37,5 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[anthropics-skills]] [[revfactory-harness]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]]
+[[anthropics-claude-code]] [[revfactory-harness]] [[everyinc-compound-engineering-plugin]] [[harry0703-moneyprinterturbo]]
 

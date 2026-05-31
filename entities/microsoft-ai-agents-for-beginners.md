@@ -35,5 +35,5 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[fareedkhan-dev-train-llm-from-scratch]] [[harry0703-moneyprinterturbo]] [[byoungd-english-level-up-tips]] [[revfactory-harness]] [[biohub-esm]]
+[[datatalksclub-data-engineering-zoomcamp]] [[everyinc-compound-engineering-plugin]] [[byoungd-english-level-up-tips]] [[anthropics-claude-cookbooks]] [[biohub-esm]]
 

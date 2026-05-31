@@ -34,5 +34,5 @@ language: "Python"
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[openbmb-voxcpm]] [[microsoft-markitdown]] [[revfactory-harness]] [[affaan-m-ecc]]
+[[everyinc-compound-engineering-plugin]] [[microsoft-markitdown]] [[galilai-group-stable-worldmodel]] [[harry0703-moneyprinterturbo]] [[openmoss-moss-tts]]
 

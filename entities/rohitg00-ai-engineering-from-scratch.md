@@ -37,5 +37,5 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[byoungd-english-level-up-tips]] [[microsoft-markitdown]] [[revfactory-harness]] [[datatalksclub-data-engineering-zoomcamp]]
+[[datatalksclub-data-engineering-zoomcamp]] [[everyinc-compound-engineering-plugin]] [[microsoft-markitdown]] [[byoungd-english-level-up-tips]] [[harry0703-moneyprinterturbo]]
 

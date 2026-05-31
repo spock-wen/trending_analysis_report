@@ -37,5 +37,5 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[harry0703-moneyprinterturbo]] [[leonxlnx-taste-skill]] [[revfactory-harness]] [[anthropics-claude-code]]
+[[everyinc-compound-engineering-plugin]] [[chachamaru127-claude-code-harness]] [[diolinux-photogimp]] [[msitarzewski-agency-agents]] [[chen08209-flclash]]
 

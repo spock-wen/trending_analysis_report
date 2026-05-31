@@ -1,0 +1,45 @@
+{
+  "month": "2026-06",
+  "date_range": "2026-06-01 ~ 2026-06-30",
+  "overview": {
+    "total_repos": 0,
+    "total_stars": 0,
+    "days_with_data": 0,
+    "date_range": "2026-06-01 ~ 2026-06-30",
+    "avg_daily_repos": 0.0
+  },
+  "retention": {
+    "bucket_1day": {
+      "count": 0,
+      "ratio": 0.0
+    },
+    "bucket_2_3days": {
+      "count": 0,
+      "ratio": 0.0
+    },
+    "bucket_4_7days": {
+      "count": 0,
+      "ratio": 0.0
+    },
+    "bucket_8plus": {
+      "count": 0,
+      "ratio": 0.0
+    }
+  },
+  "weekly_domains": {},
+  "top_repos": {
+    "endurance": [],
+    "explosiveness": [],
+    "newcomer": [],
+    "veteran": []
+  },
+  "month_over_month": {
+    "prev_month_days": 16,
+    "prev_month_repos": 101,
+    "prev_month_stars": 265799,
+    "repo_change": -101,
+    "stars_change": -265799,
+    "repo_change_pct": -100.0,
+    "stars_change_pct": -100.0
+  }
+}

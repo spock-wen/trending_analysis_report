@@ -36,5 +36,5 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[moeru-ai-airi]] [[revfactory-harness]] [[affaan-m-ecc]] [[anthropics-skills]]
+[[everyinc-compound-engineering-plugin]] [[harry0703-moneyprinterturbo]] [[nesquena-hermes-webui]] [[anthropics-claude-code]] [[revfactory-harness]]
 

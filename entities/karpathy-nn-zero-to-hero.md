@@ -33,5 +33,5 @@ Neural Networks: Zero to Hero
 
 ## 相关项目
 
-[[fareedkhan-dev-train-llm-from-scratch]] [[anthropics-claude-cookbooks]] [[biohub-esm]] [[datatalksclub-data-engineering-zoomcamp]]
+[[datatalksclub-data-engineering-zoomcamp]] [[biohub-esm]] [[anthropics-claude-cookbooks]] [[fareedkhan-dev-train-llm-from-scratch]]
 

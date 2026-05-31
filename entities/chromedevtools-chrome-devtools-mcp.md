@@ -34,5 +34,5 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[harry0703-moneyprinterturbo]] [[moeru-ai-airi]] [[cursor-plugins]] [[crosstalk-solutions-project-nomad]]
+[[everyinc-compound-engineering-plugin]] [[crosstalk-solutions-project-nomad]] [[github-docs]] [[digitalplatdev-freedomain]] [[supermemoryai-supermemory]]
 

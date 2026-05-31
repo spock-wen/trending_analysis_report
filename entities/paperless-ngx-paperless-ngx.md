@@ -33,5 +33,5 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[microsoft-markitdown]] [[affaan-m-ecc]] [[anthropics-skills]] [[galilai-group-stable-worldmodel]]
+[[affaan-m-ecc]] [[microsoft-markitdown]] [[galilai-group-stable-worldmodel]] [[fincept-corporation-finceptterminal]] [[harry0703-moneyprinterturbo]]
 

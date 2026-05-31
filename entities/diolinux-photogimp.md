@@ -3,7 +3,7 @@ title: "Diolinux/PhotoGIMP"
 created: 2026-05-20
 updated: 2026-05-20
 type: tool
-tags: [python, web, erp]
+tags: [web, erp]
 sources: [raw/trending/2026-05-20.json]
 confidence: low
 trending_count_daily: 1
@@ -33,5 +33,5 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[revfactory-harness]] [[cloakhq-cloakbrowser]] [[obra-superpowers]] [[odoo-odoo]]
+[[digitalplatdev-freedomain]] [[nesquena-hermes-webui]] [[odoo-odoo]] [[cloakhq-cloakbrowser]] [[revfactory-harness]]
 

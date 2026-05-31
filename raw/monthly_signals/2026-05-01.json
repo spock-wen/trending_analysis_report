@@ -1,0 +1,261 @@
+{
+  "month": "2026-05",
+  "date_range": "2026-05-01 ~ 2026-05-31",
+  "overview": {
+    "total_repos": 101,
+    "total_stars": 265799,
+    "days_with_data": 16,
+    "date_range": "2026-05-01 ~ 2026-05-31",
+    "avg_daily_repos": 6.3
+  },
+  "retention": {
+    "bucket_1day": {
+      "count": 37,
+      "ratio": 0.366
+    },
+    "bucket_2_3days": {
+      "count": 41,
+      "ratio": 0.406
+    },
+    "bucket_4_7days": {
+      "count": 21,
+      "ratio": 0.208
+    },
+    "bucket_8plus": {
+      "count": 2,
+      "ratio": 0.02
+    }
+  },
+  "weekly_domains": {
+    "week_3": {
+      "Python": 16,
+      "TypeScript": 10,
+      "Rust": 4,
+      "Shell": 3,
+      "JavaScript": 3,
+      "Go": 2,
+      "Jupyter Notebook": 2,
+      "Swift": 1,
+      "Elixir": 1,
+      "CSS": 1
+    },
+    "week_4": {
+      "Python": 18,
+      "TypeScript": 13,
+      "unknown": 5,
+      "Shell": 4,
+      "JavaScript": 3,
+      "Go": 2,
+      "C#": 2,
+      "Jupyter Notebook": 2,
+      "Rust": 2,
+      "Markdown": 1
+    },
+    "week_5": {
+      "Python": 9,
+      "TypeScript": 5,
+      "Jupyter Notebook": 3,
+      "HTML": 2,
+      "Shell": 2,
+      "unknown": 2,
+      "Rust": 2,
+      "JavaScript": 1,
+      "Markdown": 1,
+      "Dart": 1
+    }
+  },
+  "top_repos": {
+    "endurance": [
+      {
+        "repo": "Lum1104/Understand-Anything",
+        "days_on_chart": 8,
+        "language": "TypeScript",
+        "total_monthly_stars": 28799,
+        "best_rank": 1,
+        "peak_daily_stars": 5625
+      },
+      {
+        "repo": "colbymchenry/codegraph",
+        "days_on_chart": 8,
+        "language": "TypeScript",
+        "total_monthly_stars": 21896,
+        "best_rank": 1,
+        "peak_daily_stars": 4222
+      },
+      {
+        "repo": "obra/superpowers",
+        "days_on_chart": 7,
+        "language": "Shell",
+        "total_monthly_stars": 11640,
+        "best_rank": 2,
+        "peak_daily_stars": 1743
+      },
+      {
+        "repo": "rohitg00/ai-engineering-from-scratch",
+        "days_on_chart": 7,
+        "language": "Python",
+        "total_monthly_stars": 12079,
+        "best_rank": 2,
+        "peak_daily_stars": 3167
+      },
+      {
+        "repo": "affaan-m/ECC",
+        "days_on_chart": 6,
+        "language": "JavaScript",
+        "total_monthly_stars": 9745,
+        "best_rank": 2,
+        "peak_daily_stars": 2062
+      },
+      {
+        "repo": "anthropics/claude-plugins-official",
+        "days_on_chart": 6,
+        "language": "Python",
+        "total_monthly_stars": 6643,
+        "best_rank": 1,
+        "peak_daily_stars": 2549
+      },
+      {
+        "repo": "multica-ai/andrej-karpathy-skills",
+        "days_on_chart": 6,
+        "language": "?",
+        "total_monthly_stars": 15087,
+        "best_rank": 3,
+        "peak_daily_stars": 2753
+      },
+      {
+        "repo": "tinyhumansai/openhuman",
+        "days_on_chart": 6,
+        "language": "Rust",
+        "total_monthly_stars": 15544,
+        "best_rank": 1,
+        "peak_daily_stars": 3973
+      }
+    ],
+    "explosiveness": [
+      {
+        "repo": "Lum1104/Understand-Anything",
+        "peak_daily_stars": 5625,
+        "peak_date": "2026-05-26",
+        "language": "TypeScript"
+      },
+      {
+        "repo": "harry0703/MoneyPrinterTurbo",
+        "peak_daily_stars": 4685,
+        "peak_date": "2026-05-29",
+        "language": "Python"
+      },
+      {
+        "repo": "colbymchenry/codegraph",
+        "peak_daily_stars": 4222,
+        "peak_date": "2026-05-22",
+        "language": "TypeScript"
+      },
+      {
+        "repo": "tinyhumansai/openhuman",
+        "peak_daily_stars": 3973,
+        "peak_date": "2026-05-20",
+        "language": "Rust"
+      },
+      {
+        "repo": "rohitg00/ai-engineering-from-scratch",
+        "peak_daily_stars": 3167,
+        "peak_date": "2026-05-26",
+        "language": "Python"
+      },
+      {
+        "repo": "Imbad0202/academic-research-skills",
+        "peak_daily_stars": 3164,
+        "peak_date": "2026-05-20",
+        "language": "Python"
+      },
+      {
+        "repo": "mattpocock/skills",
+        "peak_daily_stars": 3132,
+        "peak_date": "2026-05-16",
+        "language": "Shell"
+      },
+      {
+        "repo": "multica-ai/andrej-karpathy-skills",
+        "peak_daily_stars": 2753,
+        "peak_date": "2026-05-26",
+        "language": "?"
+      }
+    ],
+    "newcomer": [
+      {
+        "repo": "Lum1104/Understand-Anything",
+        "days_on_chart": 8,
+        "peak_daily_stars": 5625,
+        "best_rank": 1,
+        "first_appearance": "2026-05-22",
+        "language": "TypeScript"
+      },
+      {
+        "repo": "harry0703/MoneyPrinterTurbo",
+        "days_on_chart": 4,
+        "peak_daily_stars": 4685,
+        "best_rank": 1,
+        "first_appearance": "2026-05-28",
+        "language": "Python"
+      },
+      {
+        "repo": "colbymchenry/codegraph",
+        "days_on_chart": 8,
+        "peak_daily_stars": 4222,
+        "best_rank": 1,
+        "first_appearance": "2026-05-18",
+        "language": "TypeScript"
+      },
+      {
+        "repo": "tinyhumansai/openhuman",
+        "days_on_chart": 6,
+        "peak_daily_stars": 3973,
+        "best_rank": 1,
+        "first_appearance": "2026-05-16",
+        "language": "Rust"
+      },
+      {
+        "repo": "rohitg00/ai-engineering-from-scratch",
+        "days_on_chart": 7,
+        "peak_daily_stars": 3167,
+        "best_rank": 2,
+        "first_appearance": "2026-05-21",
+        "language": "Python"
+      },
+      {
+        "repo": "Imbad0202/academic-research-skills",
+        "days_on_chart": 4,
+        "peak_daily_stars": 3164,
+        "best_rank": 2,
+        "first_appearance": "2026-05-19",
+        "language": "Python"
+      },
+      {
+        "repo": "mattpocock/skills",
+        "days_on_chart": 2,
+        "peak_daily_stars": 3132,
+        "best_rank": 11,
+        "first_appearance": "2026-05-16",
+        "language": "Shell"
+      },
+      {
+        "repo": "multica-ai/andrej-karpathy-skills",
+        "days_on_chart": 6,
+        "peak_daily_stars": 2753,
+        "best_rank": 3,
+        "first_appearance": "2026-05-20",
+        "language": "?"
+      }
+    ],
+    "veteran": []
+  },
+  "month_over_month": {
+    "prev_month_days": 0,
+    "prev_month_repos": 0,
+    "prev_month_stars": 0,
+    "repo_change": 101,
+    "stars_change": 265799,
+    "repo_change_pct": null,
+    "stars_change_pct": null
+  }
+}

@@ -36,5 +36,5 @@ The open alternative to Salesforce, designed for AI.
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[cursor-plugins]] [[crosstalk-solutions-project-nomad]] [[revfactory-harness]] [[affaan-m-ecc]]
+[[everyinc-compound-engineering-plugin]] [[crosstalk-solutions-project-nomad]] [[github-docs]] [[supermemoryai-supermemory]] [[harry0703-moneyprinterturbo]]
 

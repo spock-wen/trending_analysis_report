@@ -37,5 +37,5 @@ Open source repository of plugins primarily intended for knowledge workers to us
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[microsoft-markitdown]] [[revfactory-harness]] [[affaan-m-ecc]] [[anthropics-skills]]
+[[everyinc-compound-engineering-plugin]] [[microsoft-markitdown]] [[harry0703-moneyprinterturbo]] [[anthropics-claude-code]] [[revfactory-harness]]
 

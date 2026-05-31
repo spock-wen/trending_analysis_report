@@ -33,5 +33,5 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[fareedkhan-dev-train-llm-from-scratch]] [[harry0703-moneyprinterturbo]] [[byoungd-english-level-up-tips]] [[revfactory-harness]] [[biohub-esm]]
+[[datatalksclub-data-engineering-zoomcamp]] [[everyinc-compound-engineering-plugin]] [[ruvnet-ruview]] [[diolinux-photogimp]] [[byoungd-english-level-up-tips]]
 

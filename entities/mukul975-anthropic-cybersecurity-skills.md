@@ -37,5 +37,5 @@ language: "Python"
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[leonxlnx-taste-skill]] [[microsoft-markitdown]] [[revfactory-harness]] [[plausible-analytics]]
+[[plausible-analytics]] [[everyinc-compound-engineering-plugin]] [[affaan-m-ecc]] [[microsoft-markitdown]] [[chen08209-flclash]]
 

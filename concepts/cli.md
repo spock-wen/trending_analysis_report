@@ -1,7 +1,7 @@
 ---
 title: "cli"
 created: 2026-05-20
-updated: 2026-05-31
+updated: 2026-06-01
 type: concept
 tags: [cli]
 confidence: medium
@@ -9,15 +9,15 @@ confidence: medium
 
 # cli
 
-## 今日上榜项目（3 个）
+## 今日上榜项目（2 个）
 
-[[harry0703-moneyprinterturbo]] [[anthropics-claude-code]] [[chen08209-flclash]]
+[[harry0703-moneyprinterturbo]] [[anthropics-claude-code]]
 
 ## 语言分布
 
-Python 2个, Dart 1个
+Python 2个
 
 ## 趋势观察
 
-3 个 cli 领域项目今日同时上榜，反映该领域持续活跃。
+2 个 cli 领域项目今日同时上榜，反映该领域持续活跃。
 

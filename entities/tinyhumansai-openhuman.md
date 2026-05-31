@@ -37,5 +37,5 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[run-llama-liteparse]] [[revfactory-harness]] [[ruvnet-ruview]] [[affaan-m-ecc]]
+[[ruvnet-ruview]] [[everyinc-compound-engineering-plugin]] [[iii-hq-iii]] [[run-llama-liteparse]] [[harry0703-moneyprinterturbo]]
 

@@ -33,5 +33,5 @@ Create and share 3D architectural projects.
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[twentyhq-twenty]] [[cursor-plugins]] [[everyinc-compound-engineering-plugin]]
+[[supermemoryai-supermemory]] [[everyinc-compound-engineering-plugin]] [[github-docs]] [[crosstalk-solutions-project-nomad]]
 

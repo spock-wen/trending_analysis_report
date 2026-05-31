@@ -33,5 +33,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[anil-matcha-open-generative-ai]] [[axorax-awesome-free-apps]] [[truelockmc-streambert]] [[affaan-m-ecc]]
+[[truelockmc-streambert]] [[anil-matcha-open-generative-ai]] [[affaan-m-ecc]] [[axorax-awesome-free-apps]]
 

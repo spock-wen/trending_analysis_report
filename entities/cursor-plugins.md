@@ -34,5 +34,5 @@ Cursor plugin specification and official plugins
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[twentyhq-twenty]] [[everyinc-compound-engineering-plugin]]
+[[supermemoryai-supermemory]] [[everyinc-compound-engineering-plugin]] [[github-docs]] [[crosstalk-solutions-project-nomad]]
 

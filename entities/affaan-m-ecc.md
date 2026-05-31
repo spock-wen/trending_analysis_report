@@ -37,5 +37,5 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[mukul975-anthropic-cybersecurity-skills]] [[paperless-ngx-paperless-ngx]] [[revfactory-harness]] [[plausible-analytics]]
+[[plausible-analytics]] [[everyinc-compound-engineering-plugin]] [[mukul975-anthropic-cybersecurity-skills]] [[truelockmc-streambert]] [[anil-matcha-open-generative-ai]]
 

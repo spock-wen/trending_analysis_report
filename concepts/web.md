@@ -1,7 +1,7 @@
 ---
 title: "web"
 created: 2026-05-20
-updated: 2026-05-29
+updated: 2026-06-01
 type: concept
 tags: [web]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 今日上榜项目（3 个）
 
-[[digitalplatdev-freedomain]] [[revfactory-harness]] [[unclecode-crawl4ai]]
+[[revfactory-harness]] [[d4vinci-scrapling]] [[nesquena-hermes-webui]]
 
 ## 语言分布
 
-HTML 2个, Python 1个
+Python 2个, HTML 1个
 
 ## 趋势观察
 

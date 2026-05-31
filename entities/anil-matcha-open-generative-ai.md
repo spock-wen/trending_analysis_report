@@ -33,5 +33,5 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[openbmb-voxcpm]] [[revfactory-harness]] [[affaan-m-ecc]] [[hkuds-vimax]]
+[[affaan-m-ecc]] [[everyinc-compound-engineering-plugin]] [[truelockmc-streambert]] [[galilai-group-stable-worldmodel]] [[harry0703-moneyprinterturbo]]
 

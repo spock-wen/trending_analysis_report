@@ -33,5 +33,5 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[alireza0-s-ui]] [[revfactory-harness]] [[affaan-m-ecc]] [[influxdata-telegraf]]
+[[everyinc-compound-engineering-plugin]] [[influxdata-telegraf]] [[harry0703-moneyprinterturbo]] [[alireza0-s-ui]] [[anthropics-claude-code]]
 

@@ -35,5 +35,5 @@ Curated list of the best free apps for PC and mobile
 
 ## 相关项目
 
-[[anil-matcha-open-generative-ai]] [[truelockmc-streambert]] [[affaan-m-ecc]]
+[[truelockmc-streambert]] [[anil-matcha-open-generative-ai]] [[affaan-m-ecc]]
 

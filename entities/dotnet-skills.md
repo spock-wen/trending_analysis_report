@@ -36,5 +36,5 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[jellyfin-jellyfin]] [[revfactory-harness]] [[affaan-m-ecc]] [[anthropics-skills]]
+[[everyinc-compound-engineering-plugin]] [[jellyfin-jellyfin]] [[harry0703-moneyprinterturbo]] [[anthropics-claude-code]] [[revfactory-harness]]
 

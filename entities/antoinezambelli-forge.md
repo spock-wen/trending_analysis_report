@@ -33,5 +33,5 @@ A Python framework for self-hosted LLM tool-calling and multi-step agentic workf
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[microsoft-markitdown]] [[revfactory-harness]] [[affaan-m-ecc]] [[anthropics-skills]]
+[[everyinc-compound-engineering-plugin]] [[microsoft-markitdown]] [[harry0703-moneyprinterturbo]] [[anthropics-claude-code]] [[revfactory-harness]]
 

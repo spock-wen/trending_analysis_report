@@ -34,5 +34,5 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[fareedkhan-dev-train-llm-from-scratch]] [[harry0703-moneyprinterturbo]] [[microsoft-markitdown]] [[revfactory-harness]] [[datatalksclub-data-engineering-zoomcamp]]
+[[datatalksclub-data-engineering-zoomcamp]] [[everyinc-compound-engineering-plugin]] [[microsoft-markitdown]] [[fincept-corporation-finceptterminal]] [[harry0703-moneyprinterturbo]]
 

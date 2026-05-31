@@ -34,5 +34,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[harry0703-moneyprinterturbo]] [[cursor-plugins]] [[crosstalk-solutions-project-nomad]] [[openbmb-voxcpm]]
+[[openbmb-voxcpm]] [[everyinc-compound-engineering-plugin]] [[alishahryar1-free-claude-code]] [[crosstalk-solutions-project-nomad]] [[github-docs]]
 

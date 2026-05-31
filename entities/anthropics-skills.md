@@ -36,5 +36,5 @@ Public repository for Agent Skills
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[microsoft-markitdown]] [[revfactory-harness]] [[affaan-m-ecc]] [[openmoss-moss-tts]]
+[[everyinc-compound-engineering-plugin]] [[microsoft-markitdown]] [[harry0703-moneyprinterturbo]] [[anthropics-claude-code]] [[revfactory-harness]]
 

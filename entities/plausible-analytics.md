@@ -34,5 +34,5 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[fareedkhan-dev-train-llm-from-scratch]] [[moeru-ai-airi]] [[mukul975-anthropic-cybersecurity-skills]] [[bigbodycobain-shadowbroker]] [[revfactory-harness]]
+[[datatalksclub-data-engineering-zoomcamp]] [[affaan-m-ecc]] [[bigbodycobain-shadowbroker]] [[mukul975-anthropic-cybersecurity-skills]] [[digitalplatdev-freedomain]]
 

@@ -33,5 +33,5 @@ No description
 
 ## 相关项目
 
-[[fareedkhan-dev-train-llm-from-scratch]] [[anthropics-claude-cookbooks]] [[datatalksclub-data-engineering-zoomcamp]]
+[[datatalksclub-data-engineering-zoomcamp]] [[anthropics-claude-cookbooks]] [[fareedkhan-dev-train-llm-from-scratch]]
 

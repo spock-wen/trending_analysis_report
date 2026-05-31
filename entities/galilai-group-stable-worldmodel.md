@@ -34,5 +34,5 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[openbmb-voxcpm]] [[microsoft-markitdown]] [[paperless-ngx-paperless-ngx]] [[revfactory-harness]]
+[[everyinc-compound-engineering-plugin]] [[affaan-m-ecc]] [[microsoft-markitdown]] [[fincept-corporation-finceptterminal]] [[paperless-ngx-paperless-ngx]]
 

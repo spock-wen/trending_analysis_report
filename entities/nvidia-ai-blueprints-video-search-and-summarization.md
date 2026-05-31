@@ -34,5 +34,5 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[fareedkhan-dev-train-llm-from-scratch]] [[harry0703-moneyprinterturbo]] [[microsoft-markitdown]] [[bigbodycobain-shadowbroker]] [[revfactory-harness]]
+[[datatalksclub-data-engineering-zoomcamp]] [[everyinc-compound-engineering-plugin]] [[bigbodycobain-shadowbroker]] [[microsoft-markitdown]] [[fincept-corporation-finceptterminal]]
 

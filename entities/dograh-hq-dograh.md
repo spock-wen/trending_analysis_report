@@ -33,5 +33,5 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[moeru-ai-airi]] [[openbmb-voxcpm]] [[microsoft-markitdown]] [[revfactory-harness]]
+[[everyinc-compound-engineering-plugin]] [[alishahryar1-free-claude-code]] [[moeru-ai-airi]] [[microsoft-markitdown]] [[harry0703-moneyprinterturbo]]
 

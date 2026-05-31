@@ -33,5 +33,5 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[harry0703-moneyprinterturbo]] [[leonxlnx-taste-skill]] [[revfactory-harness]] [[anthropics-claude-code]]
+[[everyinc-compound-engineering-plugin]] [[msitarzewski-agency-agents]] [[chen08209-flclash]] [[leonxlnx-taste-skill]] [[harry0703-moneyprinterturbo]]
 

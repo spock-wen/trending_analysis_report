@@ -36,5 +36,5 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[microsoft-markitdown]] [[paperless-ngx-paperless-ngx]] [[revfactory-harness]] [[affaan-m-ecc]]
+[[everyinc-compound-engineering-plugin]] [[affaan-m-ecc]] [[microsoft-markitdown]] [[galilai-group-stable-worldmodel]] [[fincept-corporation-finceptterminal]]
 

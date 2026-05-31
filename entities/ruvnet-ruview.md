@@ -37,5 +37,5 @@ language: "Rust"
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[iii-hq-iii]] [[nirdiamant-agents-towards-production]] [[run-llama-liteparse]]
+[[iii-hq-iii]] [[tinyhumansai-openhuman]] [[run-llama-liteparse]] [[nirdiamant-agents-towards-production]]
 

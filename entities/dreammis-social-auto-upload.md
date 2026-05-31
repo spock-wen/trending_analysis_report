@@ -33,5 +33,5 @@ language: "Python"
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[anthropics-skills]] [[harry0703-moneyprinterturbo]] [[openmoss-moss-tts]]
+[[anthropics-claude-code]] [[microsoft-markitdown]] [[harry0703-moneyprinterturbo]] [[openbmb-voxcpm]]
 

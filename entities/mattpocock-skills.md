@@ -34,5 +34,5 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[harry0703-moneyprinterturbo]] [[leonxlnx-taste-skill]] [[revfactory-harness]] [[anthropics-claude-code]]
+[[everyinc-compound-engineering-plugin]] [[chachamaru127-claude-code-harness]] [[msitarzewski-agency-agents]] [[chen08209-flclash]] [[leonxlnx-taste-skill]]
 

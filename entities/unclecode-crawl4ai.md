@@ -33,5 +33,5 @@ language: "Python"
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[moeru-ai-airi]] [[microsoft-markitdown]] [[revfactory-harness]] [[affaan-m-ecc]]
+[[d4vinci-scrapling]] [[everyinc-compound-engineering-plugin]] [[microsoft-markitdown]] [[digitalplatdev-freedomain]] [[harry0703-moneyprinterturbo]]
 

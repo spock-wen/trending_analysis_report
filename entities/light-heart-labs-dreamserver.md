@@ -33,5 +33,5 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[moeru-ai-airi]] [[openbmb-voxcpm]] [[microsoft-markitdown]] [[revfactory-harness]]
+[[everyinc-compound-engineering-plugin]] [[alishahryar1-free-claude-code]] [[moeru-ai-airi]] [[microsoft-markitdown]] [[galilai-group-stable-worldmodel]]
 

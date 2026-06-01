@@ -33,5 +33,5 @@ Shannon Lite is an autonomous, white-box AI pentester for web applications and A
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[crosstalk-solutions-project-nomad]] [[github-docs]] [[digitalplatdev-freedomain]] [[supermemoryai-supermemory]]
+[[can1357-oh-my-pi]] [[crosstalk-solutions-project-nomad]] [[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[everyinc-compound-engineering-plugin]]
 

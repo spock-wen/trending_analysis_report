@@ -35,5 +35,5 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[microsoft-markitdown]] [[chen08209-flclash]] [[leonxlnx-taste-skill]] [[harry0703-moneyprinterturbo]]
+[[chen08209-flclash]] [[can1357-oh-my-pi]] [[microsoft-markitdown]] [[openbmb-voxcpm]] [[everyinc-compound-engineering-plugin]]
 

@@ -35,5 +35,5 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[chachamaru127-claude-code-harness]] [[chen08209-flclash]] [[leonxlnx-taste-skill]] [[digitalplatdev-freedomain]]
+[[chen08209-flclash]] [[can1357-oh-my-pi]] [[nesquena-hermes-webui]] [[chachamaru127-claude-code-harness]] [[leonxlnx-taste-skill]]
 

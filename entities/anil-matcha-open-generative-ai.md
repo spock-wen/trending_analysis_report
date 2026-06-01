@@ -33,5 +33,5 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[everyinc-compound-engineering-plugin]] [[truelockmc-streambert]] [[galilai-group-stable-worldmodel]] [[harry0703-moneyprinterturbo]]
+[[can1357-oh-my-pi]] [[galilai-group-stable-worldmodel]] [[truelockmc-streambert]] [[pbakaus-impeccable]] [[openbmb-voxcpm]]
 

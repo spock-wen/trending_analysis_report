@@ -1,19 +1,19 @@
 ---
 title: "microsoft/markitdown"
 created: 2026-05-29
-updated: 2026-06-01
+updated: 2026-06-02
 type: tool
 tags: [python, rising]
-sources: [raw/trending/2026-06-01.json]
+sources: [raw/trending/2026-06-02.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 4
+consecutive_days: 5
 first_trending: 2026-05-29
-last_trending: 2026-06-01
+last_trending: 2026-06-02
 peak_rank: 1
-total_stars: 134834
+total_stars: 138218
 language: "Python"
 ---
 
@@ -22,13 +22,14 @@ language: "Python"
 Python tool for converting files and office documents to Markdown.
 
 - 语言: Python
-- 上榜次数: 4 次
-- 连续上榜: 4 天
+- 上榜次数: 5 次
+- 连续上榜: 5 天
 - 最高排名: #1
 - 链接: [microsoft/markitdown](https://github.com/microsoft/markitdown)
 
 ## 上榜历史
 
+  - 2026-06-02: #1, +3086⭐
   - 2026-06-01: #2, +2759⭐
   - 2026-05-31: #1, +2473⭐
   - 2026-05-30: #2, +1876⭐
@@ -36,5 +37,5 @@ Python tool for converting files and office documents to Markdown.
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[harry0703-moneyprinterturbo]] [[openbmb-voxcpm]]
+[[harry0703-moneyprinterturbo]] [[p-e-w-heretic]] [[openbmb-voxcpm]]
 

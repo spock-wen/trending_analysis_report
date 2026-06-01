@@ -37,5 +37,5 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[everyinc-compound-engineering-plugin]] [[crosstalk-solutions-project-nomad]] [[byoungd-english-level-up-tips]] [[github-docs]]
+[[datatalksclub-data-engineering-zoomcamp]] [[chen08209-flclash]] [[can1357-oh-my-pi]] [[crosstalk-solutions-project-nomad]] [[stefan-jansen-machine-learning-for-trading]]
 

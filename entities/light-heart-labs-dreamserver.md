@@ -33,5 +33,5 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[alishahryar1-free-claude-code]] [[moeru-ai-airi]] [[microsoft-markitdown]] [[galilai-group-stable-worldmodel]]
+[[alishahryar1-free-claude-code]] [[moeru-ai-airi]] [[can1357-oh-my-pi]] [[galilai-group-stable-worldmodel]] [[microsoft-markitdown]]
 

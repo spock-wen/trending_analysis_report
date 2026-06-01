@@ -34,5 +34,5 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[everyinc-compound-engineering-plugin]] [[microsoft-markitdown]] [[fincept-corporation-finceptterminal]] [[harry0703-moneyprinterturbo]]
+[[datatalksclub-data-engineering-zoomcamp]] [[fincept-corporation-finceptterminal]] [[can1357-oh-my-pi]] [[microsoft-markitdown]] [[openbmb-voxcpm]]
 

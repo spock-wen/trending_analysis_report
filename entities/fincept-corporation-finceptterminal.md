@@ -34,5 +34,5 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[affaan-m-ecc]] [[bigbodycobain-shadowbroker]] [[microsoft-markitdown]] [[chen08209-flclash]]
+[[datatalksclub-data-engineering-zoomcamp]] [[tauricresearch-tradingagents]] [[chen08209-flclash]] [[can1357-oh-my-pi]] [[bigbodycobain-shadowbroker]]
 

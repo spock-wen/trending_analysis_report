@@ -37,5 +37,5 @@ language: "Python"
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[everyinc-compound-engineering-plugin]] [[microsoft-markitdown]] [[chen08209-flclash]] [[leonxlnx-taste-skill]]
+[[chen08209-flclash]] [[can1357-oh-my-pi]] [[microsoft-markitdown]] [[nesquena-hermes-webui]] [[openbmb-voxcpm]]
 

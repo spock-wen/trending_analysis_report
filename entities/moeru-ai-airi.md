@@ -34,5 +34,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[everyinc-compound-engineering-plugin]] [[alishahryar1-free-claude-code]] [[crosstalk-solutions-project-nomad]] [[github-docs]]
+[[alishahryar1-free-claude-code]] [[can1357-oh-my-pi]] [[crosstalk-solutions-project-nomad]] [[nesquena-hermes-webui]] [[supermemoryai-supermemory]]
 

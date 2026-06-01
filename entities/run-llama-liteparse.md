@@ -34,5 +34,5 @@ A fast, helpful, and open-source document parser
 
 ## 相关项目
 
-[[iii-hq-iii]] [[tinyhumansai-openhuman]] [[ruvnet-ruview]]
+[[iii-hq-iii]] [[ruvnet-ruview]] [[dmtrkovalenko-fff]]
 

@@ -37,5 +37,5 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[revfactory-harness]] [[everyinc-compound-engineering-plugin]] [[harry0703-moneyprinterturbo]]
+[[harry0703-moneyprinterturbo]] [[everyinc-compound-engineering-plugin]] [[revfactory-harness]] [[can1357-oh-my-pi]]
 

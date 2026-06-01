@@ -34,5 +34,5 @@ What are the principles we can use to build LLM-powered software that is actuall
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[crosstalk-solutions-project-nomad]] [[github-docs]] [[supermemoryai-supermemory]] [[harry0703-moneyprinterturbo]]
+[[can1357-oh-my-pi]] [[crosstalk-solutions-project-nomad]] [[supermemoryai-supermemory]] [[everyinc-compound-engineering-plugin]] [[revfactory-harness]]
 

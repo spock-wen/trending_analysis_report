@@ -35,5 +35,5 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[everyinc-compound-engineering-plugin]] [[byoungd-english-level-up-tips]] [[anthropics-claude-cookbooks]] [[biohub-esm]]
+[[datatalksclub-data-engineering-zoomcamp]] [[can1357-oh-my-pi]] [[stefan-jansen-machine-learning-for-trading]] [[byoungd-english-level-up-tips]] [[everyinc-compound-engineering-plugin]]
 

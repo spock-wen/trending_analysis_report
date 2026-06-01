@@ -34,5 +34,5 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[affaan-m-ecc]] [[microsoft-markitdown]] [[fincept-corporation-finceptterminal]] [[paperless-ngx-paperless-ngx]]
+[[tauricresearch-tradingagents]] [[fincept-corporation-finceptterminal]] [[can1357-oh-my-pi]] [[microsoft-markitdown]] [[affaan-m-ecc]]
 

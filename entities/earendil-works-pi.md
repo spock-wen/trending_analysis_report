@@ -34,5 +34,5 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[crosstalk-solutions-project-nomad]] [[github-docs]] [[chen08209-flclash]] [[leonxlnx-taste-skill]]
+[[chen08209-flclash]] [[can1357-oh-my-pi]] [[crosstalk-solutions-project-nomad]] [[nesquena-hermes-webui]] [[supermemoryai-supermemory]]
 

@@ -34,5 +34,5 @@ language: "Python"
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[microsoft-markitdown]] [[galilai-group-stable-worldmodel]] [[harry0703-moneyprinterturbo]] [[openmoss-moss-tts]]
+[[can1357-oh-my-pi]] [[galilai-group-stable-worldmodel]] [[microsoft-markitdown]] [[openbmb-voxcpm]] [[everyinc-compound-engineering-plugin]]
 

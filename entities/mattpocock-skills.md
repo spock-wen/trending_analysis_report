@@ -34,5 +34,5 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[chachamaru127-claude-code-harness]] [[msitarzewski-agency-agents]] [[chen08209-flclash]] [[leonxlnx-taste-skill]]
+[[chen08209-flclash]] [[can1357-oh-my-pi]] [[chachamaru127-claude-code-harness]] [[leonxlnx-taste-skill]] [[everyinc-compound-engineering-plugin]]
 

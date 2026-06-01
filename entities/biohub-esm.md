@@ -33,5 +33,5 @@ No description
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[anthropics-claude-cookbooks]] [[fareedkhan-dev-train-llm-from-scratch]]
+[[stefan-jansen-machine-learning-for-trading]] [[datatalksclub-data-engineering-zoomcamp]] [[fareedkhan-dev-train-llm-from-scratch]]
 

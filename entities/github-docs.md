@@ -33,5 +33,5 @@ The open-source repo for docs.github.com
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[supermemoryai-supermemory]] [[crosstalk-solutions-project-nomad]]
+[[everyinc-compound-engineering-plugin]] [[crosstalk-solutions-project-nomad]] [[supermemoryai-supermemory]] [[can1357-oh-my-pi]]
 

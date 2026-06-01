@@ -35,5 +35,5 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[moeru-ai-airi]] [[microsoft-markitdown]] [[chen08209-flclash]] [[leonxlnx-taste-skill]]
+[[moeru-ai-airi]] [[chen08209-flclash]] [[can1357-oh-my-pi]] [[microsoft-markitdown]] [[openbmb-voxcpm]]
 

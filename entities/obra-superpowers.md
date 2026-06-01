@@ -37,5 +37,5 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[chachamaru127-claude-code-harness]] [[diolinux-photogimp]] [[msitarzewski-agency-agents]] [[chen08209-flclash]]
+[[chen08209-flclash]] [[can1357-oh-my-pi]] [[cloakhq-cloakbrowser]] [[chachamaru127-claude-code-harness]] [[leonxlnx-taste-skill]]
 

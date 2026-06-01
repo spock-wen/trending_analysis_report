@@ -33,5 +33,5 @@ Effortlessly compose, extend, and observe every service in real-time for the fir
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[ruvnet-ruview]] [[run-llama-liteparse]]
+[[run-llama-liteparse]] [[ruvnet-ruview]] [[dmtrkovalenko-fff]]
 

@@ -37,5 +37,5 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[plausible-analytics]] [[everyinc-compound-engineering-plugin]] [[mukul975-anthropic-cybersecurity-skills]] [[truelockmc-streambert]] [[anil-matcha-open-generative-ai]]
+[[plausible-analytics]] [[tauricresearch-tradingagents]] [[fincept-corporation-finceptterminal]] [[can1357-oh-my-pi]] [[galilai-group-stable-worldmodel]]
 

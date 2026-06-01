@@ -37,5 +37,5 @@ language: "Python"
 
 ## 相关项目
 
-[[plausible-analytics]] [[everyinc-compound-engineering-plugin]] [[affaan-m-ecc]] [[microsoft-markitdown]] [[chen08209-flclash]]
+[[plausible-analytics]] [[chen08209-flclash]] [[can1357-oh-my-pi]] [[microsoft-markitdown]] [[cloakhq-cloakbrowser]]
 

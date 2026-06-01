@@ -33,5 +33,5 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[influxdata-telegraf]] [[nesquena-hermes-webui]] [[revfactory-harness]] [[knadh-listmonk]]
+[[can1357-oh-my-pi]] [[nesquena-hermes-webui]] [[knadh-listmonk]] [[influxdata-telegraf]] [[revfactory-harness]]
 

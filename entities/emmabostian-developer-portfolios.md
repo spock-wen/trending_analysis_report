@@ -33,5 +33,5 @@ A list of developer portfolios for your inspiration
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[microsoft-markitdown]] [[harry0703-moneyprinterturbo]] [[openbmb-voxcpm]]
+[[harry0703-moneyprinterturbo]] [[microsoft-markitdown]] [[p-e-w-heretic]] [[openbmb-voxcpm]]
 

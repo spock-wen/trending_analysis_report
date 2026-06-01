@@ -37,5 +37,5 @@ Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[chachamaru127-claude-code-harness]] [[msitarzewski-agency-agents]] [[chen08209-flclash]] [[harry0703-moneyprinterturbo]]
+[[chen08209-flclash]] [[can1357-oh-my-pi]] [[chachamaru127-claude-code-harness]] [[everyinc-compound-engineering-plugin]] [[anthropics-claude-code]]
 

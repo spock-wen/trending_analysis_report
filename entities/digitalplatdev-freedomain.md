@@ -36,5 +36,5 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[harry0703-moneyprinterturbo]] [[nesquena-hermes-webui]] [[anthropics-claude-code]] [[revfactory-harness]]
+[[can1357-oh-my-pi]] [[nesquena-hermes-webui]] [[everyinc-compound-engineering-plugin]] [[revfactory-harness]] [[d4vinci-scrapling]]
 

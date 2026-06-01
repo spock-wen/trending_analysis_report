@@ -37,5 +37,5 @@ Open source repository of plugins primarily intended for knowledge workers to us
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[microsoft-markitdown]] [[harry0703-moneyprinterturbo]] [[anthropics-claude-code]] [[revfactory-harness]]
+[[can1357-oh-my-pi]] [[microsoft-markitdown]] [[openbmb-voxcpm]] [[everyinc-compound-engineering-plugin]] [[revfactory-harness]]
 

@@ -33,5 +33,5 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[nesquena-hermes-webui]] [[odoo-odoo]] [[cloakhq-cloakbrowser]] [[revfactory-harness]]
+[[can1357-oh-my-pi]] [[cloakhq-cloakbrowser]] [[nesquena-hermes-webui]] [[revfactory-harness]] [[obra-superpowers]]
 

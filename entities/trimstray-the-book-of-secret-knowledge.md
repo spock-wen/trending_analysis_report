@@ -34,5 +34,5 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[chen08209-flclash]] [[leonxlnx-taste-skill]] [[digitalplatdev-freedomain]] [[harry0703-moneyprinterturbo]] [[nesquena-hermes-webui]]
+[[chen08209-flclash]] [[can1357-oh-my-pi]] [[nesquena-hermes-webui]] [[anthropics-claude-code]] [[revfactory-harness]]
 

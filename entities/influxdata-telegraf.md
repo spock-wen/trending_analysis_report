@@ -34,5 +34,5 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[fareedkhan-dev-train-llm-from-scratch]] [[everyinc-compound-engineering-plugin]] [[bigbodycobain-shadowbroker]] [[fincept-corporation-finceptterminal]]
+[[datatalksclub-data-engineering-zoomcamp]] [[fincept-corporation-finceptterminal]] [[can1357-oh-my-pi]] [[bigbodycobain-shadowbroker]] [[knadh-listmonk]]
 

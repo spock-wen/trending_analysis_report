@@ -33,5 +33,5 @@ language: "Python"
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[everyinc-compound-engineering-plugin]] [[microsoft-markitdown]] [[digitalplatdev-freedomain]] [[harry0703-moneyprinterturbo]]
+[[can1357-oh-my-pi]] [[microsoft-markitdown]] [[nesquena-hermes-webui]] [[openbmb-voxcpm]] [[everyinc-compound-engineering-plugin]]
 

@@ -33,5 +33,5 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[everyinc-compound-engineering-plugin]] [[biohub-esm]] [[harry0703-moneyprinterturbo]] [[anthropics-claude-code]]
+[[datatalksclub-data-engineering-zoomcamp]] [[can1357-oh-my-pi]] [[stefan-jansen-machine-learning-for-trading]] [[everyinc-compound-engineering-plugin]] [[fareedkhan-dev-train-llm-from-scratch]]
 

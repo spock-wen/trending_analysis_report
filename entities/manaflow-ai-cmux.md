@@ -35,5 +35,5 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[chen08209-flclash]] [[can1357-oh-my-pi]] [[supertone-inc-supertonic]] [[everyinc-compound-engineering-plugin]] [[anthropics-claude-code]]
+[[affaan-m-ecc]] [[harry0703-moneyprinterturbo]] [[can1357-oh-my-pi]] [[supermemoryai-supermemory]] [[supertone-inc-supertonic]]
 

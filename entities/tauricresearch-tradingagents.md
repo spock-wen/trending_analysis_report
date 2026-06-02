@@ -33,5 +33,5 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[fincept-corporation-finceptterminal]] [[can1357-oh-my-pi]] [[galilai-group-stable-worldmodel]] [[microsoft-markitdown]] [[openbmb-voxcpm]]
+[[affaan-m-ecc]] [[galilai-group-stable-worldmodel]] [[openbmb-voxcpm]] [[supermemoryai-supermemory]] [[nesquena-hermes-webui]]
 

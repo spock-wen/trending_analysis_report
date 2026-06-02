@@ -37,5 +37,5 @@ Open source repository of plugins primarily intended for knowledge workers to us
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[microsoft-markitdown]] [[openbmb-voxcpm]] [[everyinc-compound-engineering-plugin]] [[revfactory-harness]]
+[[affaan-m-ecc]] [[openbmb-voxcpm]] [[supermemoryai-supermemory]] [[nesquena-hermes-webui]] [[d4vinci-scrapling]]
 

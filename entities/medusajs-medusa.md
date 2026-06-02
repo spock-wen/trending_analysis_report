@@ -33,5 +33,5 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[crosstalk-solutions-project-nomad]] [[cloakhq-cloakbrowser]] [[supermemoryai-supermemory]] [[everyinc-compound-engineering-plugin]]
+[[everyinc-compound-engineering-plugin]] [[can1357-oh-my-pi]] [[supermemoryai-supermemory]] [[diolinux-photogimp]] [[obra-superpowers]]
 

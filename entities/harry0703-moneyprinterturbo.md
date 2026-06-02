@@ -37,5 +37,5 @@ language: "Python"
 
 ## 相关项目
 
-[[chen08209-flclash]] [[can1357-oh-my-pi]] [[microsoft-markitdown]] [[openbmb-voxcpm]] [[everyinc-compound-engineering-plugin]]
+[[affaan-m-ecc]] [[openbmb-voxcpm]] [[supermemoryai-supermemory]] [[can1357-oh-my-pi]] [[anthropics-claude-code]]
 

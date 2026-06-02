@@ -34,5 +34,5 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[microsoft-markitdown]] [[p-e-w-heretic]] [[openbmb-voxcpm]]
+[[nesquena-hermes-webui]] [[microsoft-markitdown]] [[d4vinci-scrapling]] [[openbmb-voxcpm]]
 

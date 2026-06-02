@@ -34,5 +34,5 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[fincept-corporation-finceptterminal]] [[can1357-oh-my-pi]] [[bigbodycobain-shadowbroker]] [[cloakhq-cloakbrowser]]
+[[affaan-m-ecc]] [[can1357-oh-my-pi]] [[bigbodycobain-shadowbroker]] [[nesquena-hermes-webui]] [[fareedkhan-dev-train-llm-from-scratch]]
 

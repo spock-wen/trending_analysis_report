@@ -33,5 +33,5 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[can1357-oh-my-pi]] [[stefan-jansen-machine-learning-for-trading]] [[everyinc-compound-engineering-plugin]] [[fareedkhan-dev-train-llm-from-scratch]]
+[[biohub-esm]] [[affaan-m-ecc]] [[supermemoryai-supermemory]] [[stefan-jansen-machine-learning-for-trading]] [[fareedkhan-dev-train-llm-from-scratch]]
 

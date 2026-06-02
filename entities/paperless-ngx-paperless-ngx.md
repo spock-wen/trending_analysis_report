@@ -33,5 +33,5 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[fincept-corporation-finceptterminal]] [[galilai-group-stable-worldmodel]] [[microsoft-markitdown]] [[openbmb-voxcpm]]
+[[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[galilai-group-stable-worldmodel]] [[openbmb-voxcpm]] [[nesquena-hermes-webui]]
 

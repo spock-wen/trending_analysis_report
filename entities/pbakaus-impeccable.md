@@ -33,5 +33,5 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[truelockmc-streambert]] [[everyinc-compound-engineering-plugin]] [[revfactory-harness]] [[harry0703-moneyprinterturbo]]
+[[affaan-m-ecc]] [[supermemoryai-supermemory]] [[axorax-awesome-free-apps]] [[nesquena-hermes-webui]] [[truelockmc-streambert]]
 

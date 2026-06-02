@@ -37,5 +37,5 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[can1357-oh-my-pi]] [[stefan-jansen-machine-learning-for-trading]] [[microsoft-markitdown]] [[byoungd-english-level-up-tips]]
+[[affaan-m-ecc]] [[openbmb-voxcpm]] [[supermemoryai-supermemory]] [[jamwithai-production-agentic-rag-course]] [[datatalksclub-data-engineering-zoomcamp]]
 

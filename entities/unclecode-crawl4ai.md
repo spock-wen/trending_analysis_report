@@ -33,5 +33,5 @@ language: "Python"
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[microsoft-markitdown]] [[nesquena-hermes-webui]] [[openbmb-voxcpm]] [[everyinc-compound-engineering-plugin]]
+[[affaan-m-ecc]] [[openbmb-voxcpm]] [[supermemoryai-supermemory]] [[can1357-oh-my-pi]] [[nesquena-hermes-webui]]
 

@@ -34,5 +34,5 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[crosstalk-solutions-project-nomad]] [[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[everyinc-compound-engineering-plugin]]
+[[affaan-m-ecc]] [[everyinc-compound-engineering-plugin]] [[can1357-oh-my-pi]] [[supermemoryai-supermemory]] [[nesquena-hermes-webui]]
 

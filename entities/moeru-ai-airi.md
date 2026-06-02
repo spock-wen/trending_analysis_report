@@ -34,5 +34,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[can1357-oh-my-pi]] [[crosstalk-solutions-project-nomad]] [[nesquena-hermes-webui]] [[supermemoryai-supermemory]]
+[[affaan-m-ecc]] [[everyinc-compound-engineering-plugin]] [[openmoss-moss-tts]] [[can1357-oh-my-pi]] [[supermemoryai-supermemory]]
 

@@ -36,5 +36,5 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[fincept-corporation-finceptterminal]] [[can1357-oh-my-pi]] [[galilai-group-stable-worldmodel]] [[microsoft-markitdown]]
+[[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[galilai-group-stable-worldmodel]] [[openbmb-voxcpm]] [[supermemoryai-supermemory]]
 

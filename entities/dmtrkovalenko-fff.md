@@ -33,5 +33,5 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[can1357-oh-my-pi]] [[everyinc-compound-engineering-plugin]] [[revfactory-harness]] [[iii-hq-iii]]
+[[affaan-m-ecc]] [[supermemoryai-supermemory]] [[run-llama-liteparse]] [[iii-hq-iii]] [[nesquena-hermes-webui]]
 

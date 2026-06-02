@@ -33,5 +33,5 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[alireza0-s-ui]] [[everyinc-compound-engineering-plugin]] [[influxdata-telegraf]] [[revfactory-harness]]
+[[affaan-m-ecc]] [[supermemoryai-supermemory]] [[influxdata-telegraf]] [[nesquena-hermes-webui]] [[alireza0-s-ui]]
 

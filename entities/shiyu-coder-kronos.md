@@ -36,5 +36,5 @@ Kronos: A Foundation Model for the Language of Financial Markets
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[microsoft-markitdown]] [[p-e-w-heretic]] [[openbmb-voxcpm]]
+[[nesquena-hermes-webui]] [[microsoft-markitdown]] [[d4vinci-scrapling]] [[openbmb-voxcpm]]
 

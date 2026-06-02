@@ -33,5 +33,5 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[cloakhq-cloakbrowser]] [[nesquena-hermes-webui]] [[revfactory-harness]] [[obra-superpowers]]
+[[can1357-oh-my-pi]] [[nesquena-hermes-webui]] [[obra-superpowers]] [[d4vinci-scrapling]] [[revfactory-harness]]
 

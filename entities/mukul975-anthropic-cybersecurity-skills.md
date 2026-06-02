@@ -37,5 +37,5 @@ language: "Python"
 
 ## 相关项目
 
-[[plausible-analytics]] [[chen08209-flclash]] [[can1357-oh-my-pi]] [[microsoft-markitdown]] [[cloakhq-cloakbrowser]]
+[[affaan-m-ecc]] [[harry0703-moneyprinterturbo]] [[openbmb-voxcpm]] [[supermemoryai-supermemory]] [[can1357-oh-my-pi]]
 

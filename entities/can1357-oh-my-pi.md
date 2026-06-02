@@ -36,5 +36,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[chen08209-flclash]] [[crosstalk-solutions-project-nomad]] [[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[everyinc-compound-engineering-plugin]]
+[[affaan-m-ecc]] [[everyinc-compound-engineering-plugin]] [[harry0703-moneyprinterturbo]] [[supermemoryai-supermemory]] [[anthropics-claude-code]]
 

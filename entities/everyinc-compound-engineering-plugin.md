@@ -37,5 +37,5 @@ Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[crosstalk-solutions-project-nomad]] [[supermemoryai-supermemory]] [[revfactory-harness]] [[harry0703-moneyprinterturbo]]
+[[affaan-m-ecc]] [[can1357-oh-my-pi]] [[supermemoryai-supermemory]] [[nesquena-hermes-webui]] [[reconurge-flowsint]]
 

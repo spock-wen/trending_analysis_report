@@ -1,19 +1,19 @@
 ---
 title: "affaan-m/ECC"
 created: 2026-05-26
-updated: 2026-05-31
+updated: 2026-06-03
 type: tool
-tags: [ai-agent, security, science, rising]
-sources: [raw/trending/2026-05-31.json]
+tags: [ai-agent, security, science]
+sources: [raw/trending/2026-06-03.json]
 confidence: high
-trending_count_daily: 6
+trending_count_daily: 7
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 6
+consecutive_days: 1
 first_trending: 2026-05-26
-last_trending: 2026-05-31
+last_trending: 2026-06-03
 peak_rank: 2
-total_stars: 199246
+total_stars: 203829
 language: "JavaScript"
 ---
 
@@ -22,20 +22,20 @@ language: "JavaScript"
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 - 语言: JavaScript
-- 上榜次数: 6 次
-- 连续上榜: 6 天
+- 上榜次数: 7 次
+- 连续上榜: 1 天
 - 最高排名: #2
 - 链接: [affaan-m/ECC](https://github.com/affaan-m/ECC)
 
 ## 上榜历史
 
+  - 2026-06-03: #3, +1597⭐
   - 2026-05-31: #7, +918⭐
   - 2026-05-30: #14, +1413⭐
   - 2026-05-29: #2, +1388⭐
   - 2026-05-28: #4, +2062⭐
-  - 2026-05-27: #2, +1912⭐
 
 ## 相关项目
 
-[[plausible-analytics]] [[tauricresearch-tradingagents]] [[fincept-corporation-finceptterminal]] [[can1357-oh-my-pi]] [[galilai-group-stable-worldmodel]]
+[[tauricresearch-tradingagents]] [[galilai-group-stable-worldmodel]] [[supermemoryai-supermemory]] [[pbakaus-impeccable]] [[axorax-awesome-free-apps]]
 

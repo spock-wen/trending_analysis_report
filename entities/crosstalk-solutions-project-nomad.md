@@ -35,5 +35,5 @@ Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[supermemoryai-supermemory]] [[everyinc-compound-engineering-plugin]] [[revfactory-harness]] [[harry0703-moneyprinterturbo]]
+[[affaan-m-ecc]] [[everyinc-compound-engineering-plugin]] [[can1357-oh-my-pi]] [[supermemoryai-supermemory]] [[nesquena-hermes-webui]]
 

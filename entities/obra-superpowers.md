@@ -37,5 +37,5 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[chen08209-flclash]] [[can1357-oh-my-pi]] [[cloakhq-cloakbrowser]] [[chachamaru127-claude-code-harness]] [[leonxlnx-taste-skill]]
+[[msitarzewski-agency-agents]] [[affaan-m-ecc]] [[harry0703-moneyprinterturbo]] [[can1357-oh-my-pi]] [[supermemoryai-supermemory]]
 

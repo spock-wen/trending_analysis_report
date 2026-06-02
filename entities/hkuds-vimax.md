@@ -34,5 +34,5 @@ language: "Python"
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[galilai-group-stable-worldmodel]] [[microsoft-markitdown]] [[openbmb-voxcpm]] [[everyinc-compound-engineering-plugin]]
+[[affaan-m-ecc]] [[openmoss-moss-tts]] [[galilai-group-stable-worldmodel]] [[openbmb-voxcpm]] [[supermemoryai-supermemory]]
 

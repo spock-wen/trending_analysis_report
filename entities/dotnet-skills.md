@@ -36,5 +36,5 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[everyinc-compound-engineering-plugin]] [[revfactory-harness]] [[harry0703-moneyprinterturbo]] [[jellyfin-jellyfin]]
+[[affaan-m-ecc]] [[supermemoryai-supermemory]] [[nesquena-hermes-webui]] [[jellyfin-jellyfin]] [[chopratejas-headroom]]
 

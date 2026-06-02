@@ -34,5 +34,5 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[fincept-corporation-finceptterminal]] [[can1357-oh-my-pi]] [[microsoft-markitdown]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[openmoss-moss-tts]] [[openbmb-voxcpm]] [[supermemoryai-supermemory]]
 

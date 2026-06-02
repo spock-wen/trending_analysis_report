@@ -33,5 +33,5 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[moeru-ai-airi]] [[can1357-oh-my-pi]] [[microsoft-markitdown]] [[openbmb-voxcpm]]
+[[affaan-m-ecc]] [[moeru-ai-airi]] [[openmoss-moss-tts]] [[openbmb-voxcpm]] [[supermemoryai-supermemory]]
 

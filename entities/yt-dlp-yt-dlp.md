@@ -33,5 +33,5 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[moeru-ai-airi]] [[chen08209-flclash]] [[can1357-oh-my-pi]] [[microsoft-markitdown]]
+[[moeru-ai-airi]] [[harry0703-moneyprinterturbo]] [[openmoss-moss-tts]] [[can1357-oh-my-pi]] [[openbmb-voxcpm]]
 

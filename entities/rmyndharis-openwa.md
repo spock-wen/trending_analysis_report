@@ -34,5 +34,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[crosstalk-solutions-project-nomad]] [[supermemoryai-supermemory]] [[can1357-oh-my-pi]]
+[[supermemoryai-supermemory]] [[everyinc-compound-engineering-plugin]] [[reconurge-flowsint]] [[can1357-oh-my-pi]]
 

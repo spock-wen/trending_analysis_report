@@ -35,5 +35,5 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[fincept-corporation-finceptterminal]] [[can1357-oh-my-pi]] [[bigbodycobain-shadowbroker]] [[stefan-jansen-machine-learning-for-trading]]
+[[biohub-esm]] [[affaan-m-ecc]] [[supermemoryai-supermemory]] [[stefan-jansen-machine-learning-for-trading]] [[bigbodycobain-shadowbroker]]
 

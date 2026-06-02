@@ -34,5 +34,5 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[crosstalk-solutions-project-nomad]] [[supermemoryai-supermemory]] [[everyinc-compound-engineering-plugin]] [[revfactory-harness]]
+[[affaan-m-ecc]] [[everyinc-compound-engineering-plugin]] [[can1357-oh-my-pi]] [[supermemoryai-supermemory]] [[nesquena-hermes-webui]]
 

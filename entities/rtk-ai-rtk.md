@@ -33,5 +33,5 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[chen08209-flclash]] [[can1357-oh-my-pi]] [[everyinc-compound-engineering-plugin]] [[anthropics-claude-code]]
+[[affaan-m-ecc]] [[harry0703-moneyprinterturbo]] [[can1357-oh-my-pi]] [[supermemoryai-supermemory]] [[run-llama-liteparse]]
 

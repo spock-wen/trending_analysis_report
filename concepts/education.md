@@ -1,7 +1,7 @@
 ---
 title: "education"
 created: 2026-05-22
-updated: 2026-05-30
+updated: 2026-06-03
 type: concept
 tags: [education]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 今日上榜项目（2 个）
 
-[[byoungd-english-level-up-tips]] [[datatalksclub-data-engineering-zoomcamp]]
+[[stefan-jansen-machine-learning-for-trading]] [[jamwithai-production-agentic-rag-course]]
 
 ## 语言分布
 
-? 1个, Jupyter Notebook 1个
+Jupyter Notebook 1个, Python 1个
 
 ## 趋势观察
 

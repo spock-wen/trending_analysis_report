@@ -1,7 +1,7 @@
 ---
 title: "audio"
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-03
 type: concept
 tags: [audio]
 confidence: medium
@@ -11,7 +11,7 @@ confidence: medium
 
 ## 今日上榜项目（2 个）
 
-[[openmoss-moss-tts]] [[openbmb-voxcpm]]
+[[openbmb-voxcpm]] [[open-llm-vtuber-open-llm-vtuber]]
 
 ## 语言分布
 

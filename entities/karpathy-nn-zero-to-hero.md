@@ -33,5 +33,5 @@ Neural Networks: Zero to Hero
 
 ## 相关项目
 
-[[stefan-jansen-machine-learning-for-trading]] [[datatalksclub-data-engineering-zoomcamp]] [[fareedkhan-dev-train-llm-from-scratch]] [[biohub-esm]]
+[[fareedkhan-dev-train-llm-from-scratch]] [[stefan-jansen-machine-learning-for-trading]] [[datatalksclub-data-engineering-zoomcamp]] [[biohub-esm]]
 

@@ -1,7 +1,7 @@
 ---
 title: "security"
 created: 2026-05-26
-updated: 2026-05-28
+updated: 2026-06-03
 type: concept
 tags: [security]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 今日上榜项目（2 个）
 
-[[mukul975-anthropic-cybersecurity-skills]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[reconurge-flowsint]]
 
 ## 语言分布
 
-Python 1个, JavaScript 1个
+JavaScript 1个, TypeScript 1个
 
 ## 趋势观察
 

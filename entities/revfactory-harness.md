@@ -36,5 +36,5 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[nesquena-hermes-webui]] [[everyinc-compound-engineering-plugin]] [[digitalplatdev-freedomain]] [[d4vinci-scrapling]]
+[[affaan-m-ecc]] [[can1357-oh-my-pi]] [[supermemoryai-supermemory]] [[nesquena-hermes-webui]] [[d4vinci-scrapling]]
 

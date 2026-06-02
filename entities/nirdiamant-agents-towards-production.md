@@ -33,5 +33,5 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[ruvnet-ruview]] [[can1357-oh-my-pi]] [[stefan-jansen-machine-learning-for-trading]] [[cloakhq-cloakbrowser]]
+[[biohub-esm]] [[affaan-m-ecc]] [[supermemoryai-supermemory]] [[jamwithai-production-agentic-rag-course]] [[diolinux-photogimp]]
 

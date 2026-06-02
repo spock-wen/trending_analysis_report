@@ -33,5 +33,5 @@ Create and share 3D architectural projects.
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[crosstalk-solutions-project-nomad]] [[supermemoryai-supermemory]] [[can1357-oh-my-pi]]
+[[supermemoryai-supermemory]] [[everyinc-compound-engineering-plugin]] [[reconurge-flowsint]] [[can1357-oh-my-pi]]
 

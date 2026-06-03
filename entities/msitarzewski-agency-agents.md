@@ -35,5 +35,5 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[harry0703-moneyprinterturbo]] [[can1357-oh-my-pi]] [[supermemoryai-supermemory]] [[anthropics-claude-code]]
+[[obra-superpowers]] [[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[harry0703-moneyprinterturbo]] [[leonxlnx-taste-skill]]
 

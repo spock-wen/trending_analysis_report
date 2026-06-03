@@ -34,5 +34,5 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[supermemoryai-supermemory]] [[datatalksclub-data-engineering-zoomcamp]] [[bigbodycobain-shadowbroker]] [[nesquena-hermes-webui]]
+[[knadh-listmonk]] [[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[aquasecurity-trivy]] [[opendataloader-project-opendataloader-pdf]]
 

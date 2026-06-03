@@ -37,5 +37,5 @@ language: "Rust"
 
 ## 相关项目
 
-[[dmtrkovalenko-fff]] [[run-llama-liteparse]] [[nirdiamant-agents-towards-production]] [[iii-hq-iii]]
+[[run-llama-liteparse]] [[dmtrkovalenko-fff]] [[iii-hq-iii]] [[nirdiamant-agents-towards-production]]
 

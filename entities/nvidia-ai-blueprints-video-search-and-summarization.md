@@ -34,5 +34,5 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[openbmb-voxcpm]] [[supermemoryai-supermemory]] [[datatalksclub-data-engineering-zoomcamp]] [[bigbodycobain-shadowbroker]]
+[[nesquena-hermes-webui]] [[odoo-odoo]] [[supermemoryai-supermemory]] [[opendataloader-project-opendataloader-pdf]] [[microsoft-markitdown]]
 

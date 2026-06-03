@@ -34,5 +34,5 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[everyinc-compound-engineering-plugin]] [[can1357-oh-my-pi]] [[supermemoryai-supermemory]] [[nesquena-hermes-webui]]
+[[everyinc-compound-engineering-plugin]] [[reconurge-flowsint]] [[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[affaan-m-ecc]]
 

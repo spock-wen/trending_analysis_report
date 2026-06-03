@@ -33,5 +33,5 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[openmoss-moss-tts]] [[galilai-group-stable-worldmodel]] [[openbmb-voxcpm]] [[supermemoryai-supermemory]]
+[[truelockmc-streambert]] [[galilai-group-stable-worldmodel]] [[openmoss-moss-tts]] [[nesquena-hermes-webui]] [[pbakaus-impeccable]]
 

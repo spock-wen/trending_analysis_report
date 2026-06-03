@@ -33,5 +33,5 @@ No description
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[openbmb-voxcpm]] [[supermemoryai-supermemory]] [[datatalksclub-data-engineering-zoomcamp]] [[stefan-jansen-machine-learning-for-trading]]
+[[nesquena-hermes-webui]] [[odoo-odoo]] [[supermemoryai-supermemory]] [[stefan-jansen-machine-learning-for-trading]] [[microsoft-markitdown]]
 

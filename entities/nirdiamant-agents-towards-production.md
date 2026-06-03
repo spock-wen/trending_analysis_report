@@ -33,5 +33,5 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[biohub-esm]] [[affaan-m-ecc]] [[supermemoryai-supermemory]] [[jamwithai-production-agentic-rag-course]] [[diolinux-photogimp]]
+[[obra-superpowers]] [[nesquena-hermes-webui]] [[odoo-odoo]] [[supermemoryai-supermemory]] [[stefan-jansen-machine-learning-for-trading]]
 

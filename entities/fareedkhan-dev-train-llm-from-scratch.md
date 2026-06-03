@@ -35,5 +35,5 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[biohub-esm]] [[affaan-m-ecc]] [[supermemoryai-supermemory]] [[stefan-jansen-machine-learning-for-trading]] [[bigbodycobain-shadowbroker]]
+[[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[opendataloader-project-opendataloader-pdf]] [[stefan-jansen-machine-learning-for-trading]] [[affaan-m-ecc]]
 

@@ -33,5 +33,5 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[galilai-group-stable-worldmodel]] [[openbmb-voxcpm]] [[nesquena-hermes-webui]]
+[[galilai-group-stable-worldmodel]] [[nesquena-hermes-webui]] [[odoo-odoo]] [[tauricresearch-tradingagents]] [[microsoft-markitdown]]
 

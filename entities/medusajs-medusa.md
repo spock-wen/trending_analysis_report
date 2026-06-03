@@ -33,5 +33,5 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[can1357-oh-my-pi]] [[supermemoryai-supermemory]] [[diolinux-photogimp]] [[obra-superpowers]]
+[[everyinc-compound-engineering-plugin]] [[obra-superpowers]] [[reconurge-flowsint]] [[odoo-odoo]] [[supermemoryai-supermemory]]
 

@@ -36,5 +36,5 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[galilai-group-stable-worldmodel]] [[openbmb-voxcpm]] [[supermemoryai-supermemory]]
+[[galilai-group-stable-worldmodel]] [[nesquena-hermes-webui]] [[odoo-odoo]] [[supermemoryai-supermemory]] [[tauricresearch-tradingagents]]
 

@@ -33,5 +33,5 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[diolinux-photogimp]] [[nesquena-hermes-webui]] [[obra-superpowers]] [[d4vinci-scrapling]]
+[[obra-superpowers]] [[nesquena-hermes-webui]] [[odoo-odoo]] [[microsoft-markitdown]] [[diolinux-photogimp]]
 

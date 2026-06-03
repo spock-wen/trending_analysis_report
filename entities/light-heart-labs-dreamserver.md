@@ -33,5 +33,5 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[moeru-ai-airi]] [[openmoss-moss-tts]] [[galilai-group-stable-worldmodel]] [[openbmb-voxcpm]]
+[[galilai-group-stable-worldmodel]] [[openmoss-moss-tts]] [[nesquena-hermes-webui]] [[odoo-odoo]] [[supermemoryai-supermemory]]
 

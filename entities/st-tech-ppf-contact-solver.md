@@ -33,5 +33,5 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[can1357-oh-my-pi]] [[openbmb-voxcpm]] [[anthropics-claude-code]] [[chen08209-flclash]]
+[[nesquena-hermes-webui]] [[odoo-odoo]] [[harry0703-moneyprinterturbo]] [[microsoft-markitdown]] [[can1357-oh-my-pi]]
 

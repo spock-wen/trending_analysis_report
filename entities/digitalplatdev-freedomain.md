@@ -36,5 +36,5 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[can1357-oh-my-pi]] [[supermemoryai-supermemory]] [[nesquena-hermes-webui]] [[d4vinci-scrapling]]
+[[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[can1357-oh-my-pi]]
 

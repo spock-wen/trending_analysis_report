@@ -33,5 +33,5 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[everyinc-compound-engineering-plugin]] [[can1357-oh-my-pi]] [[supermemoryai-supermemory]] [[mukul975-anthropic-cybersecurity-skills]]
+[[everyinc-compound-engineering-plugin]] [[supermemoryai-supermemory]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[can1357-oh-my-pi]]
 

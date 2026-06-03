@@ -33,5 +33,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[affaan-m-ecc]] [[axorax-awesome-free-apps]] [[truelockmc-streambert]]
+[[truelockmc-streambert]] [[pbakaus-impeccable]] [[affaan-m-ecc]] [[axorax-awesome-free-apps]]
 

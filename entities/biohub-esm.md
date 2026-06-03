@@ -33,5 +33,5 @@ No description
 
 ## 相关项目
 
-[[fareedkhan-dev-train-llm-from-scratch]] [[stefan-jansen-machine-learning-for-trading]] [[datatalksclub-data-engineering-zoomcamp]]
+[[fareedkhan-dev-train-llm-from-scratch]] [[stefan-jansen-machine-learning-for-trading]] [[datatalksclub-data-engineering-zoomcamp]] [[lyogavin-airllm]]
 

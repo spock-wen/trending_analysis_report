@@ -34,5 +34,5 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[can1357-oh-my-pi]] [[anthropics-claude-code]] [[chen08209-flclash]] [[nesquena-hermes-webui]]
+[[nesquena-hermes-webui]] [[harry0703-moneyprinterturbo]] [[can1357-oh-my-pi]] [[revfactory-harness]] [[d4vinci-scrapling]]
 

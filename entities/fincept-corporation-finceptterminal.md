@@ -34,5 +34,5 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[harry0703-moneyprinterturbo]] [[tauricresearch-tradingagents]] [[galilai-group-stable-worldmodel]] [[can1357-oh-my-pi]]
+[[galilai-group-stable-worldmodel]] [[nesquena-hermes-webui]] [[odoo-odoo]] [[harry0703-moneyprinterturbo]] [[opendataloader-project-opendataloader-pdf]]
 

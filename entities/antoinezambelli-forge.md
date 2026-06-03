@@ -33,5 +33,5 @@ A Python framework for self-hosted LLM tool-calling and multi-step agentic workf
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[openbmb-voxcpm]] [[supermemoryai-supermemory]] [[nesquena-hermes-webui]] [[d4vinci-scrapling]]
+[[nesquena-hermes-webui]] [[odoo-odoo]] [[supermemoryai-supermemory]] [[microsoft-markitdown]] [[affaan-m-ecc]]
 

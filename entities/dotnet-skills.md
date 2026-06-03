@@ -36,5 +36,5 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[supermemoryai-supermemory]] [[nesquena-hermes-webui]] [[jellyfin-jellyfin]] [[chopratejas-headroom]]
+[[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[jellyfin-jellyfin]]
 

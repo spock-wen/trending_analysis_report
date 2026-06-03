@@ -33,5 +33,5 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[harry0703-moneyprinterturbo]] [[openmoss-moss-tts]] [[can1357-oh-my-pi]] [[openbmb-voxcpm]]
+[[openmoss-moss-tts]] [[nesquena-hermes-webui]] [[odoo-odoo]] [[harry0703-moneyprinterturbo]] [[openbmb-voxcpm]]
 

@@ -34,5 +34,5 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[openbmb-voxcpm]] [[supermemoryai-supermemory]] [[datatalksclub-data-engineering-zoomcamp]] [[nesquena-hermes-webui]]
+[[nesquena-hermes-webui]] [[odoo-odoo]] [[supermemoryai-supermemory]] [[opendataloader-project-opendataloader-pdf]] [[microsoft-markitdown]]
 

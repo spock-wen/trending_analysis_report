@@ -33,5 +33,5 @@ The open-source repo for docs.github.com
 
 ## 相关项目
 
-[[supermemoryai-supermemory]] [[everyinc-compound-engineering-plugin]] [[reconurge-flowsint]] [[can1357-oh-my-pi]]
+[[everyinc-compound-engineering-plugin]] [[reconurge-flowsint]] [[can1357-oh-my-pi]] [[supermemoryai-supermemory]]
 

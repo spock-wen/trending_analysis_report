@@ -36,5 +36,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[everyinc-compound-engineering-plugin]] [[harry0703-moneyprinterturbo]] [[supermemoryai-supermemory]] [[anthropics-claude-code]]
+[[everyinc-compound-engineering-plugin]] [[reconurge-flowsint]] [[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[harry0703-moneyprinterturbo]]
 

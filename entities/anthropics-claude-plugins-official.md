@@ -37,5 +37,5 @@ Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[openbmb-voxcpm]] [[supermemoryai-supermemory]] [[nesquena-hermes-webui]] [[d4vinci-scrapling]]
+[[nesquena-hermes-webui]] [[odoo-odoo]] [[supermemoryai-supermemory]] [[microsoft-markitdown]] [[affaan-m-ecc]]
 

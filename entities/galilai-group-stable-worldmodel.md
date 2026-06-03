@@ -34,5 +34,5 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[openmoss-moss-tts]] [[openbmb-voxcpm]] [[supermemoryai-supermemory]]
+[[openmoss-moss-tts]] [[nesquena-hermes-webui]] [[odoo-odoo]] [[supermemoryai-supermemory]] [[openbmb-voxcpm]]
 

@@ -33,5 +33,5 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[influxdata-telegraf]] [[nesquena-hermes-webui]] [[d4vinci-scrapling]] [[revfactory-harness]]
+[[knadh-listmonk]] [[nesquena-hermes-webui]] [[aquasecurity-trivy]] [[influxdata-telegraf]] [[can1357-oh-my-pi]]
 

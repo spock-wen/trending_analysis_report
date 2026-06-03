@@ -33,5 +33,5 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[moeru-ai-airi]] [[openmoss-moss-tts]] [[openbmb-voxcpm]] [[supermemoryai-supermemory]]
+[[openmoss-moss-tts]] [[nesquena-hermes-webui]] [[odoo-odoo]] [[supermemoryai-supermemory]] [[openbmb-voxcpm]]
 

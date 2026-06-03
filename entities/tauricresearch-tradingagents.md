@@ -33,5 +33,5 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[galilai-group-stable-worldmodel]] [[openbmb-voxcpm]] [[supermemoryai-supermemory]] [[nesquena-hermes-webui]]
+[[galilai-group-stable-worldmodel]] [[nesquena-hermes-webui]] [[odoo-odoo]] [[supermemoryai-supermemory]] [[microsoft-markitdown]]
 

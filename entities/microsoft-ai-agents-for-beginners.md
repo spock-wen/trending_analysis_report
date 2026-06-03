@@ -35,5 +35,5 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[biohub-esm]] [[affaan-m-ecc]] [[supermemoryai-supermemory]] [[jamwithai-production-agentic-rag-course]] [[stefan-jansen-machine-learning-for-trading]]
+[[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[stefan-jansen-machine-learning-for-trading]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]]
 

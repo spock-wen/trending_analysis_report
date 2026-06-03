@@ -33,5 +33,5 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[harry0703-moneyprinterturbo]] [[openbmb-voxcpm]] [[supermemoryai-supermemory]] [[can1357-oh-my-pi]]
+[[nesquena-hermes-webui]] [[odoo-odoo]] [[supermemoryai-supermemory]] [[harry0703-moneyprinterturbo]] [[microsoft-markitdown]]
 

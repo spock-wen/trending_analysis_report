@@ -34,5 +34,5 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[can1357-oh-my-pi]] [[openbmb-voxcpm]] [[diolinux-photogimp]] [[nesquena-hermes-webui]]
+[[obra-superpowers]] [[reconurge-flowsint]] [[nesquena-hermes-webui]] [[odoo-odoo]] [[aquasecurity-trivy]]
 

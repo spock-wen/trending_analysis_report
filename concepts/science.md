@@ -1,7 +1,7 @@
 ---
 title: "science"
 created: 2026-05-26
-updated: 2026-05-31
+updated: 2026-06-04
 type: concept
 tags: [science]
 confidence: medium
@@ -11,7 +11,7 @@ confidence: medium
 
 ## 今日上榜项目（2 个）
 
-[[affaan-m-ecc]] [[galilai-group-stable-worldmodel]]
+[[affaan-m-ecc]] [[nousresearch-hermes-agent]]
 
 ## 语言分布
 

@@ -34,5 +34,5 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[openmoss-moss-tts]] [[galilai-group-stable-worldmodel]] [[openbmb-voxcpm]] [[supermemoryai-supermemory]]
+[[galilai-group-stable-worldmodel]] [[openmoss-moss-tts]] [[nesquena-hermes-webui]] [[odoo-odoo]] [[supermemoryai-supermemory]]
 

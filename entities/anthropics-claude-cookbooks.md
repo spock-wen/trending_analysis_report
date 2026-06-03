@@ -33,5 +33,5 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[biohub-esm]] [[affaan-m-ecc]] [[supermemoryai-supermemory]] [[stefan-jansen-machine-learning-for-trading]] [[fareedkhan-dev-train-llm-from-scratch]]
+[[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[stefan-jansen-machine-learning-for-trading]] [[affaan-m-ecc]] [[chopratejas-headroom]]
 

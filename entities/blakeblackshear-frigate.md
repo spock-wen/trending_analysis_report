@@ -34,5 +34,5 @@ NVR with realtime local object detection for IP cameras
 
 ## 相关项目
 
-[[supermemoryai-supermemory]] [[everyinc-compound-engineering-plugin]] [[reconurge-flowsint]] [[can1357-oh-my-pi]]
+[[everyinc-compound-engineering-plugin]] [[reconurge-flowsint]] [[can1357-oh-my-pi]] [[supermemoryai-supermemory]]
 

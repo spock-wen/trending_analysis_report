@@ -33,5 +33,5 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[openmoss-moss-tts]] [[nesquena-hermes-webui]] [[odoo-odoo]] [[supermemoryai-supermemory]] [[openbmb-voxcpm]]
+[[openbmb-voxcpm]] [[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]]
 

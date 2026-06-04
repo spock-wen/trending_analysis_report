@@ -33,5 +33,5 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[dmtrkovalenko-fff]] [[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[harry0703-moneyprinterturbo]]
+[[ruvnet-ruview]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[anthropics-claude-code]]
 

@@ -33,5 +33,5 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[openmoss-moss-tts]] [[nesquena-hermes-webui]] [[odoo-odoo]] [[harry0703-moneyprinterturbo]] [[openbmb-voxcpm]]
+[[openbmb-voxcpm]] [[nousresearch-hermes-agent]] [[anthropics-claude-code]] [[chopratejas-headroom]] [[openclaw-openclaw-windows-node]]
 

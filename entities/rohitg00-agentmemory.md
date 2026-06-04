@@ -34,5 +34,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[reconurge-flowsint]] [[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[affaan-m-ecc]]
+[[reconurge-flowsint]] [[lfnovo-open-notebook]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[aquasecurity-trivy]]
 

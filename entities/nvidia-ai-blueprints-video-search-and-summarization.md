@@ -34,5 +34,5 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[odoo-odoo]] [[supermemoryai-supermemory]] [[opendataloader-project-opendataloader-pdf]] [[microsoft-markitdown]]
+[[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[fareedkhan-dev-train-llm-from-scratch]]
 

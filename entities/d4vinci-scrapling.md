@@ -36,5 +36,5 @@ language: "Python"
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[odoo-odoo]] [[microsoft-markitdown]] [[can1357-oh-my-pi]] [[revfactory-harness]]
+[[nousresearch-hermes-agent]] [[chopratejas-headroom]] [[mvanhorn-last30days-skill]] [[can1357-oh-my-pi]] [[open-llm-vtuber-open-llm-vtuber]]
 

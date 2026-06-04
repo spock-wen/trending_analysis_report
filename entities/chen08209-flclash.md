@@ -33,5 +33,5 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[anthropics-claude-code]] [[harry0703-moneyprinterturbo]]
+[[harry0703-moneyprinterturbo]] [[can1357-oh-my-pi]] [[anthropics-claude-code]] [[openclaw-openclaw-windows-node]]
 

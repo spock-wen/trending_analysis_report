@@ -33,5 +33,5 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[run-llama-liteparse]]
+[[ruvnet-ruview]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[run-llama-liteparse]]
 

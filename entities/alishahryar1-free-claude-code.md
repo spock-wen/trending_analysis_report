@@ -35,5 +35,5 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[openmoss-moss-tts]] [[nesquena-hermes-webui]] [[odoo-odoo]] [[supermemoryai-supermemory]] [[harry0703-moneyprinterturbo]]
+[[openbmb-voxcpm]] [[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]]
 

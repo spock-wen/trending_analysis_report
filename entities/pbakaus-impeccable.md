@@ -33,5 +33,5 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[truelockmc-streambert]] [[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[axorax-awesome-free-apps]]
+[[aquasecurity-trivy]] [[affaan-m-ecc]] [[truelockmc-streambert]] [[chopratejas-headroom]] [[open-llm-vtuber-open-llm-vtuber]]
 

@@ -36,5 +36,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[reconurge-flowsint]] [[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[harry0703-moneyprinterturbo]]
+[[nesquena-hermes-webui]] [[reconurge-flowsint]] [[lfnovo-open-notebook]] [[affaan-m-ecc]] [[chopratejas-headroom]]
 

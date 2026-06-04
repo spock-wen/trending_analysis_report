@@ -37,5 +37,5 @@ Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 
 ## 相关项目
 
-[[reconurge-flowsint]] [[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[chopratejas-headroom]]
+[[reconurge-flowsint]] [[lfnovo-open-notebook]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[aquasecurity-trivy]]
 

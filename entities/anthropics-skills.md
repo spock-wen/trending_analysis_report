@@ -36,5 +36,5 @@ Public repository for Agent Skills
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[odoo-odoo]] [[supermemoryai-supermemory]] [[microsoft-markitdown]] [[affaan-m-ecc]]
+[[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[open-llm-vtuber-open-llm-vtuber]]
 

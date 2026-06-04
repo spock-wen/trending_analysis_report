@@ -37,5 +37,5 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[affaan-m-ecc]] [[supermemoryai-supermemory]] [[chopratejas-headroom]]
+[[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[open-llm-vtuber-open-llm-vtuber]]
 

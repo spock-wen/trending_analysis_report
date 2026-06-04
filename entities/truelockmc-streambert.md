@@ -34,5 +34,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[affaan-m-ecc]] [[axorax-awesome-free-apps]]
+[[affaan-m-ecc]] [[axorax-awesome-free-apps]] [[pbakaus-impeccable]]
 

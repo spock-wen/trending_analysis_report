@@ -34,5 +34,5 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[reconurge-flowsint]] [[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[affaan-m-ecc]]
+[[nesquena-hermes-webui]] [[reconurge-flowsint]] [[lfnovo-open-notebook]] [[affaan-m-ecc]] [[chopratejas-headroom]]
 

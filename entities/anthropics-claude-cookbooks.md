@@ -33,5 +33,5 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[stefan-jansen-machine-learning-for-trading]] [[affaan-m-ecc]] [[chopratejas-headroom]]
+[[lyogavin-airllm]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[stefan-jansen-machine-learning-for-trading]]
 

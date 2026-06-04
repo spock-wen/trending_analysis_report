@@ -37,5 +37,5 @@ Python tool for converting files and office documents to Markdown.
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[nesquena-hermes-webui]] [[odoo-odoo]]
+[[chopratejas-headroom]] [[open-llm-vtuber-open-llm-vtuber]] [[paddlepaddle-paddleocr]] [[nousresearch-hermes-agent]]
 

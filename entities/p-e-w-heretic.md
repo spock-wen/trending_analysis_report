@@ -34,5 +34,5 @@ Fully automatic censorship removal for language models
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[microsoft-markitdown]] [[d4vinci-scrapling]] [[odoo-odoo]]
+[[chopratejas-headroom]] [[open-llm-vtuber-open-llm-vtuber]] [[paddlepaddle-paddleocr]] [[nousresearch-hermes-agent]]
 

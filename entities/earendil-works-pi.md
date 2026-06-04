@@ -34,5 +34,5 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[reconurge-flowsint]] [[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[harry0703-moneyprinterturbo]]
+[[nesquena-hermes-webui]] [[reconurge-flowsint]] [[lfnovo-open-notebook]] [[affaan-m-ecc]] [[chopratejas-headroom]]
 

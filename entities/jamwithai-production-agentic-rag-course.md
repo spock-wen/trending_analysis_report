@@ -33,5 +33,5 @@ No description
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[odoo-odoo]] [[supermemoryai-supermemory]] [[stefan-jansen-machine-learning-for-trading]] [[microsoft-markitdown]]
+[[datatalksclub-data-engineering-zoomcamp]] [[byoungd-english-level-up-tips]] [[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[affaan-m-ecc]]
 

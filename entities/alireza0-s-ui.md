@@ -33,5 +33,5 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[knadh-listmonk]] [[nesquena-hermes-webui]] [[aquasecurity-trivy]] [[influxdata-telegraf]] [[can1357-oh-my-pi]]
+[[influxdata-telegraf]] [[knadh-listmonk]] [[aquasecurity-trivy]] [[d4vinci-scrapling]] [[mvanhorn-last30days-skill]]
 

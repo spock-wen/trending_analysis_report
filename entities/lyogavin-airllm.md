@@ -33,5 +33,5 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[stefan-jansen-machine-learning-for-trading]] [[affaan-m-ecc]] [[chopratejas-headroom]]
+[[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[stefan-jansen-machine-learning-for-trading]] [[fareedkhan-dev-train-llm-from-scratch]]
 

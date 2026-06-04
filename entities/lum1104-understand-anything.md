@@ -37,5 +37,5 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[reconurge-flowsint]] [[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[harry0703-moneyprinterturbo]]
+[[datatalksclub-data-engineering-zoomcamp]] [[byoungd-english-level-up-tips]] [[reconurge-flowsint]] [[lfnovo-open-notebook]] [[affaan-m-ecc]]
 

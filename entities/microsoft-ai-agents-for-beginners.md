@@ -35,5 +35,5 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[stefan-jansen-machine-learning-for-trading]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]]
+[[datatalksclub-data-engineering-zoomcamp]] [[lyogavin-airllm]] [[byoungd-english-level-up-tips]] [[aquasecurity-trivy]] [[affaan-m-ecc]]
 

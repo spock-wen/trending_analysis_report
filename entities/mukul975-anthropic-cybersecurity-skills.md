@@ -37,5 +37,5 @@ language: "Python"
 
 ## 相关项目
 
-[[reconurge-flowsint]] [[nesquena-hermes-webui]] [[odoo-odoo]] [[supermemoryai-supermemory]] [[harry0703-moneyprinterturbo]]
+[[nousresearch-hermes-agent]] [[reconurge-flowsint]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]]
 

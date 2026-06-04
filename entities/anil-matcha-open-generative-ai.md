@@ -33,5 +33,5 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[truelockmc-streambert]] [[galilai-group-stable-worldmodel]] [[openmoss-moss-tts]] [[nesquena-hermes-webui]] [[pbakaus-impeccable]]
+[[openbmb-voxcpm]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[truelockmc-streambert]] [[chopratejas-headroom]]
 

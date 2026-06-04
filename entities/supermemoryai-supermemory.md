@@ -36,5 +36,5 @@ Memory engine and app that is extremely fast, scalable. The Memory API for the A
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[reconurge-flowsint]] [[nesquena-hermes-webui]] [[affaan-m-ecc]] [[chopratejas-headroom]]
+[[reconurge-flowsint]] [[lfnovo-open-notebook]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[aquasecurity-trivy]]
 

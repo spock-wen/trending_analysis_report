@@ -35,5 +35,5 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[odoo-odoo]] [[supermemoryai-supermemory]] [[harry0703-moneyprinterturbo]] [[microsoft-markitdown]]
+[[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[openclaw-openclaw-windows-node]]
 

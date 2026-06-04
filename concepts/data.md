@@ -1,7 +1,7 @@
 ---
 title: "data"
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-05
 type: concept
 tags: [data]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 今日上榜项目（2 个）
 
-[[datatalksclub-data-engineering-zoomcamp]] [[fareedkhan-dev-train-llm-from-scratch]]
+[[paddlepaddle-paddleocr]] [[nvidia-cosmos]]
 
 ## 语言分布
 
-Jupyter Notebook 2个
+Python 1个, Jupyter Notebook 1个
 
 ## 趋势观察
 

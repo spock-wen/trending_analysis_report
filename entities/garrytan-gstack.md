@@ -33,5 +33,5 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[reconurge-flowsint]] [[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[affaan-m-ecc]]
+[[reconurge-flowsint]] [[lfnovo-open-notebook]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[aquasecurity-trivy]]
 

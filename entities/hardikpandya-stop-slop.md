@@ -37,5 +37,5 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[affaan-m-ecc]] [[supermemoryai-supermemory]] [[chopratejas-headroom]]
+[[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[open-llm-vtuber-open-llm-vtuber]]
 

@@ -37,5 +37,5 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[dmtrkovalenko-fff]] [[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[chopratejas-headroom]]
+[[ruvnet-ruview]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[run-llama-liteparse]]
 

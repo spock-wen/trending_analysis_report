@@ -33,5 +33,5 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[aquasecurity-trivy]] [[influxdata-telegraf]] [[affaan-m-ecc]]
+[[influxdata-telegraf]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[alireza0-s-ui]]
 

@@ -34,5 +34,5 @@ Cursor plugin specification and official plugins
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[reconurge-flowsint]] [[can1357-oh-my-pi]] [[supermemoryai-supermemory]]
+[[lfnovo-open-notebook]] [[supermemoryai-supermemory]] [[can1357-oh-my-pi]] [[reconurge-flowsint]]
 

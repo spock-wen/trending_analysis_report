@@ -34,5 +34,5 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[knadh-listmonk]] [[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[aquasecurity-trivy]] [[opendataloader-project-opendataloader-pdf]]
+[[knadh-listmonk]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[alireza0-s-ui]]
 

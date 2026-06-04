@@ -33,5 +33,5 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[obra-superpowers]] [[nesquena-hermes-webui]] [[odoo-odoo]] [[supermemoryai-supermemory]] [[stefan-jansen-machine-learning-for-trading]]
+[[datatalksclub-data-engineering-zoomcamp]] [[lyogavin-airllm]] [[byoungd-english-level-up-tips]] [[ruvnet-ruview]] [[obra-superpowers]]
 

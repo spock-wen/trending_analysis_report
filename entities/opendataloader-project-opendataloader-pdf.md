@@ -33,5 +33,5 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[datatalksclub-data-engineering-zoomcamp]]
+[[github-copilot-sdk]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[fareedkhan-dev-train-llm-from-scratch]]
 

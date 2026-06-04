@@ -36,5 +36,5 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[odoo-odoo]] [[supermemoryai-supermemory]] [[microsoft-markitdown]] [[affaan-m-ecc]] [[chopratejas-headroom]]
+[[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[d4vinci-scrapling]]
 

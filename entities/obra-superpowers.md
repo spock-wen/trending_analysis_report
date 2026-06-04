@@ -37,5 +37,5 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[odoo-odoo]] [[supermemoryai-supermemory]] [[harry0703-moneyprinterturbo]] [[leonxlnx-taste-skill]]
+[[leonxlnx-taste-skill]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[anthropics-claude-code]]
 

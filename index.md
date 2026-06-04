@@ -1,12 +1,12 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-06-04 | 总页面：132
+> 最后更新：2026-06-05 | 总页面：139
 
 ## Entities
 
 - [[666ghj-mirofish|MiroFish"]] — A Simple and Universal Swarm Intelligence Engine, Predicting... 🆕
-- [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i... 🆕
+- [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i... 🔥
 - [[alireza0-s-ui|s-ui"]] — An advanced Web Panel • Built for SagerNet/Sing-Box
 - [[alishahryar1-free-claude-code|free-claude-code"]] — Use claude-code for free in the terminal, VSCode extension o... 🆕
 - [[anil-matcha-open-generative-ai|Open-Generative-AI"]] — Open-source alternative to AI video platforms — Free AI imag...
@@ -26,7 +26,7 @@
 - [[can1357-oh-my-pi|oh-my-pi"]] — ⌥ AI Coding agent for the terminal — hash-anchored edits, op...
 - [[chachamaru127-claude-code-harness|claude-code-harness"]] — Claude Code Dedicated Development Harness - Achieving High-Q...
 - [[chen08209-flclash|FlClash"]] — A multi-platform proxy client based on ClashMeta,simple and ...
-- [[chopratejas-headroom|headroom"]] — Compress tool outputs, logs, files, and RAG chunks before th... 🆕
+- [[chopratejas-headroom|headroom"]] — Compress tool outputs, logs, files, and RAG chunks before th... 🔥
 - [[chromedevtools-chrome-devtools-mcp|chrome-devtools-mcp"]] — Chrome DevTools for coding agents 🆕
 - [[cloakhq-cloakbrowser|CloakBrowser"]] — Stealth Chromium that passes every bot detection test. Drop-... 🆕
 - [[codecrafters-io-build-your-own-x|build-your-own-x"]] — Master programming by recreating your favorite technologies ... 🔥
@@ -50,12 +50,14 @@
 - [[frappe-erpnext|erpnext"]] — Free and Open Source Enterprise Resource Planning (ERP)
 - [[galilai-group-stable-worldmodel|stable-worldmodel"]] — A platform for reproducible world model research and evaluat... 🆕
 - [[garrytan-gstack|gstack"]] — Use Garry Tan's exact Claude Code setup: 23 opinionated tool...
+- [[github-copilot-sdk|copilot-sdk"]] — Multi-platform SDK for integrating GitHub Copilot Agent into... 🆕
 - [[github-docs|docs"]] — The open-source repo for docs.github.com
+- [[github-spec-kit|spec-kit"]] — 💫 Toolkit to help you get started with Spec-Driven Developme... 🆕
 - [[godotengine-godot|godot"]] — Godot Engine – Multi-platform 2D and 3D game engine
 - [[hardikpandya-stop-slop|stop-slop"]] — A skill file for removing AI tells from prose 🔥
 - [[harry0703-moneyprinterturbo|MoneyPrinterTurbo"]] — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using... 🔥
 - [[hkuds-cli-anything|CLI-Anything"]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:... 🔥
-- [[hkuds-vibe-trading|Vibe-Trading"]] — "Vibe-Trading: Your Personal Trading Agent" 🆕
+- [[hkuds-vibe-trading|Vibe-Trading"]] — "Vibe-Trading: Your Personal Trading Agent"
 - [[hkuds-vimax|ViMax"]] — "ViMax: Agentic Video Generation (Director, Screenwriter, Pr... 🆕
 - [[humanlayer-12-factor-agents|12-factor-agents"]] — What are the principles we can use to build LLM-powered soft... 🆕
 - [[iii-hq-iii|iii"]] — Effortlessly compose, extend, and observe every service in r...
@@ -70,9 +72,10 @@
 - [[keygraphhq-shannon|shannon"]] — Shannon Lite is an autonomous, white-box AI pentester for we...
 - [[knadh-listmonk|listmonk"]] — High performance, self-hosted, newsletter and mailing list m...
 - [[leonxlnx-taste-skill|taste-skill"]] — Taste-Skill - gives your AI good taste. stops the AI from ge... 🔥
+- [[lfnovo-open-notebook|open-notebook"]] — An Open Source implementation of Notebook LM with more flexi... 🆕
 - [[light-heart-labs-dreamserver|DreamServer"]] — Local AI anywhere, for everyone — LLM inference, chat UI, vo...
 - [[lum1104-understand-anything|Understand-Anything"]] — Graphs that teach > graphs that impress. Turn any code into ... 🔥
-- [[lyogavin-airllm|airllm"]] — AirLLM 70B inference with single 4GB GPU 🆕
+- [[lyogavin-airllm|airllm"]] — AirLLM 70B inference with single 4GB GPU
 - [[manaflow-ai-cmux|cmux"]] — Ghostty-based macOS terminal with vertical tabs and notifica... 🔥
 - [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .claude director... 🆕
 - [[medusajs-medusa|medusa"]] — The world's most flexible commerce platform.
@@ -83,22 +86,26 @@
 - [[mukul975-anthropic-cybersecurity-skills|Anthropic-Cybersecurity-Skills"]] — 754 structured cybersecurity skills for AI agents · Mapped t... 🔥
 - [[multica-ai-andrej-karpathy-skills|andrej-karpathy-skills"]] — A single CLAUDE.md file to improve Claude Code behavior, der... 🔥
 - [[multica-ai-multica|multica"]] — The open-source managed agents platform. Turn coding agents ... 🆕
+- [[mvanhorn-last30days-skill|last30days-skill"]] — AI agent skill that researches any topic across Reddit, X, Y... 🆕
 - [[nesquena-hermes-webui|hermes-webui"]] — Hermes WebUI: The best way to use Hermes Agent from the web ... 🔥
 - [[nicobailon-pi-subagents|pi-subagents"]] — Pi extension for async subagent delegation with truncation, ...
 - [[nirdiamant-agents-towards-production|agents-towards-production"]] — End-to-end, code-first tutorials for building production-gra...
 - [[nousresearch-hermes-agent|hermes-agent"]] — The agent that grows with you 🆕
 - [[nvidia-ai-blueprints-video-search-and-summarization|video-search-and-summarization"]] — Suite of reference architectures for building GPU-accelerate... 🆕
+- [[nvidia-cosmos|cosmos"]] — NVIDIA Cosmos is an open platform of world models, datasets,... 🆕
 - [[nvlabs-sana|Sana"]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
 - [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo... 🆕
 - [[odoo-odoo|odoo"]] — Odoo. Open Source Apps To Grow Your Business.
 - [[open-dev-society-openstock|OpenStock"]] — OpenStock is an open-source alternative to expensive market ...
-- [[open-llm-vtuber-open-llm-vtuber|Open-LLM-VTuber"]] — Talk to any LLM with hands-free voice interaction, voice int... 🆕
+- [[open-llm-vtuber-open-llm-vtuber|Open-LLM-VTuber"]] — Talk to any LLM with hands-free voice interaction, voice int... 🔥
 - [[openbmb-voxcpm|VoxCPM"]] — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generati... 🔥
-- [[opendataloader-project-opendataloader-pdf|opendataloader-pdf"]] — PDF Parser for AI-ready data. Automate PDF accessibility. Op... 🆕
+- [[openclaw-openclaw-windows-node|openclaw-windows-node"]] — Windows companion suite for OpenClaw - System Tray app, Shar... 🆕
+- [[opendataloader-project-opendataloader-pdf|opendataloader-pdf"]] — PDF Parser for AI-ready data. Automate PDF accessibility. Op...
 - [[openmoss-moss-tts|MOSS-TTS"]] — MOSS‑TTS Family is an open‑source speech and sound generatio...
 - [[opentoonz-opentoonz|opentoonz"]] — OpenToonz - An open-source full-featured 2D animation creati...
 - [[oven-sh-bun|bun"]] — Incredibly fast JavaScript runtime, bundler, test runner, an... 🔥
 - [[p-e-w-heretic|heretic"]] — Fully automatic censorship removal for language models
+- [[paddlepaddle-paddleocr|PaddleOCR"]] — Turn any PDF or image document into structured data for your... 🆕
 - [[paperless-ngx-paperless-ngx|paperless-ngx"]] — A community-supported supercharged document management syste...
 - [[pascalorg-editor|editor"]] — Create and share 3D architectural projects.
 - [[pbakaus-impeccable|impeccable"]] — The design language that makes your AI harness better at des...

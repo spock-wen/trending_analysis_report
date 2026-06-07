@@ -33,7 +33,7 @@ A Python framework for self-hosted LLM tool-calling and multi-step agentic workf
 
 ## 相关项目
 
-[[open-llm-vtuber-open-llm-vtuber]] [[nousresearch-hermes-agent]] [[chopratejas-headroom]] [[aquasecurity-trivy]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[aquasecurity-trivy]] [[nousresearch-hermes-agent]] [[666ghj-mirofish]] [[open-llm-vtuber-open-llm-vtuber]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[d4vinci-scrapling]] [[reconurge-flowsint]] [[fareedkhan-dev-train-llm-from-scratch]] [[mukul975-anthropic-cybersecurity-skills]]
+[[affaan-m-ecc]] [[aquasecurity-trivy]] [[reconurge-flowsint]] [[copilotkit-copilotkit]] [[opendataloader-project-opendataloader-pdf]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

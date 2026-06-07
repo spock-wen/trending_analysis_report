@@ -36,7 +36,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[open-llm-vtuber-open-llm-vtuber]] [[mvanhorn-last30days-skill]] [[d4vinci-scrapling]] [[chopratejas-headroom]] [[nesquena-hermes-webui]]
+[[affaan-m-ecc]] [[aquasecurity-trivy]] [[copilotkit-copilotkit]] [[digitalplatdev-freedomain]] [[nesquena-hermes-webui]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

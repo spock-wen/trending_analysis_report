@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-06-07 | 总页面：143
+> 最后更新：2026-06-07 | 总页面：144
 
 ## Entities
 
@@ -148,6 +148,7 @@
 - [[education]] — education 领域趋势分析
 - [[erp]] — erp 领域趋势分析
 - [[image-gen]] — image-gen 领域趋势分析
+- [[python-surge]] — python-surge 领域趋势分析
 - [[science]] — science 领域趋势分析
 - [[security]] — security 领域趋势分析
 - [[web]] — web 领域趋势分析

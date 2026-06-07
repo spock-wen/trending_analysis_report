@@ -33,7 +33,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[open-llm-vtuber-open-llm-vtuber]] [[nousresearch-hermes-agent]] [[mvanhorn-last30days-skill]] [[chopratejas-headroom]] [[aquasecurity-trivy]]
+[[affaan-m-ecc]] [[aquasecurity-trivy]] [[nousresearch-hermes-agent]] [[666ghj-mirofish]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

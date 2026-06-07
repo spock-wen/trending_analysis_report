@@ -34,7 +34,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## 相关项目
 
-[[open-llm-vtuber-open-llm-vtuber]] [[nousresearch-hermes-agent]] [[chopratejas-headroom]] [[can1357-oh-my-pi]] [[aquasecurity-trivy]]
+[[affaan-m-ecc]] [[aquasecurity-trivy]] [[nousresearch-hermes-agent]] [[can1357-oh-my-pi]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

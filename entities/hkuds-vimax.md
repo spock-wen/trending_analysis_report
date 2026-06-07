@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[open-llm-vtuber-open-llm-vtuber]] [[nousresearch-hermes-agent]] [[galilai-group-stable-worldmodel]] [[chopratejas-headroom]] [[aquasecurity-trivy]]
+[[affaan-m-ecc]] [[aquasecurity-trivy]] [[galilai-group-stable-worldmodel]] [[openmoss-moss-tts]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

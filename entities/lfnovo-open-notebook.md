@@ -35,5 +35,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[reconurge-flowsint]] [[supermemoryai-supermemory]] [[copilotkit-copilotkit]]
+[[copilotkit-copilotkit]] [[reconurge-flowsint]] [[supermemoryai-supermemory]]
 

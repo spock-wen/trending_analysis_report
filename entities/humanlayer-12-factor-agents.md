@@ -34,7 +34,7 @@ What are the principles we can use to build LLM-powered software that is actuall
 
 ## 相关项目
 
-[[open-llm-vtuber-open-llm-vtuber]] [[lfnovo-open-notebook]] [[reconurge-flowsint]] [[chopratejas-headroom]] [[aquasecurity-trivy]]
+[[affaan-m-ecc]] [[aquasecurity-trivy]] [[reconurge-flowsint]] [[copilotkit-copilotkit]] [[lfnovo-open-notebook]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[open-llm-vtuber-open-llm-vtuber]] [[nousresearch-hermes-agent]] [[moeru-ai-airi]] [[chopratejas-headroom]] [[panniantong-agent-reach]]
+[[affaan-m-ecc]] [[aquasecurity-trivy]] [[moeru-ai-airi]] [[openmoss-moss-tts]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

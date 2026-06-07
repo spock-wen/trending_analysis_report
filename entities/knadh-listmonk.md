@@ -33,7 +33,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[open-llm-vtuber-open-llm-vtuber]] [[influxdata-telegraf]] [[chopratejas-headroom]] [[aquasecurity-trivy]] [[affaan-m-ecc]]
+[[aquasecurity-trivy]] [[affaan-m-ecc]] [[influxdata-telegraf]] [[alireza0-s-ui]] [[open-llm-vtuber-open-llm-vtuber]]
 
 **所属领域**: [[ai-agent]]
 

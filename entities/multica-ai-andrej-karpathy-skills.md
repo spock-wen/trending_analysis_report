@@ -37,7 +37,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[open-llm-vtuber-open-llm-vtuber]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[aquasecurity-trivy]]
+[[affaan-m-ecc]] [[aquasecurity-trivy]] [[open-llm-vtuber-open-llm-vtuber]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]]
 

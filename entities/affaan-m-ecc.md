@@ -37,7 +37,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[open-llm-vtuber-open-llm-vtuber]] [[nousresearch-hermes-agent]] [[mvanhorn-last30days-skill]] [[reconurge-flowsint]] [[tauricresearch-tradingagents]]
+[[aquasecurity-trivy]] [[axorax-awesome-free-apps]] [[reconurge-flowsint]] [[tauricresearch-tradingagents]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

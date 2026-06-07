@@ -34,5 +34,5 @@ Fully automatic censorship removal for language models
 
 ## 相关项目
 
-[[open-llm-vtuber-open-llm-vtuber]] [[chopratejas-headroom]] [[666ghj-mirofish]] [[nousresearch-hermes-agent]]
+[[666ghj-mirofish]] [[open-llm-vtuber-open-llm-vtuber]] [[nousresearch-hermes-agent]] [[chopratejas-headroom]]
 

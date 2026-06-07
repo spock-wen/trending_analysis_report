@@ -36,7 +36,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[moeru-ai-airi]] [[chopratejas-headroom]] [[aquasecurity-trivy]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[aquasecurity-trivy]] [[moeru-ai-airi]] [[openmoss-moss-tts]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

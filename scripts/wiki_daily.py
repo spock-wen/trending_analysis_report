@@ -199,6 +199,19 @@ def generate_entities():
     for row in cursor.fetchall():
         history[row[0]].append({'date': row[1], 'rank': row[2], 'stars': row[3]})
     
+    # P1: 读取描述变更信号
+    desc_changes_path = f'{BASE}/data/description_changes.json'
+    desc_changes = {}
+    if os.path.exists(desc_changes_path):
+        try:
+            with open(desc_changes_path, 'r', encoding='utf-8') as f:
+                changes = json.load(f)
+                for c in changes:
+                    desc_changes[c['repo']] = c
+            print(f"  P1: 加载 {len(desc_changes)} 个描述变更")
+        except Exception as e:
+            print(f"  P1: 读取 description_changes.json 失败: {e}")
+    
     # 按领域分组（用于自动关联）
     domain_map = defaultdict(list)  # domain -> [repo_full_name]
     repo_domains = {}  # repo_full_name -> [domains]
@@ -290,6 +303,22 @@ def generate_entities():
         related = list(related)[:5]
         related_links = [f'[[{r2.replace("/", "-").lower()}]]' for r2 in related]
         
+        # P1: 检查是否有描述变更
+        has_desc_change = repo in desc_changes
+        contested_line = ''
+        if has_desc_change:
+            change = desc_changes[repo]
+            # 判断是否是重大变化（核心身份变化）
+            old_desc = change.get('old_description', '').lower()
+            new_desc = change.get('new_description', '').lower()
+            # 简单启发式：如果关键词变化超过 30%，认为是重大变化
+            old_words = set(old_desc.split())
+            new_words = set(new_desc.split())
+            if old_words or new_words:
+                change_ratio = len(old_words.symmetric_difference(new_words)) / max(len(old_words | new_words), 1)
+                if change_ratio > 0.3:
+                    contested_line = '\ncontested: true'
+        
         # Frontmatter
         fm = f"""---
 title: "{repo}"
@@ -307,7 +336,7 @@ first_trending: {r.get('first_seen', TODAY)}
 last_trending: {r.get('last_seen', TODAY)}
 peak_rank: {r.get('peak_rank', 0) or 0}
 total_stars: {r.get('last_stars', 0) or 0}
-language: "{lang}"
+language: "{lang}"{contested_line}
 ---"""
         
         # 相关项目链接（entity + concept）
@@ -330,6 +359,25 @@ language: "{lang}"
         else:
             all_related = '- 暂无'
         
+        # P1: 如果有描述变更，加矛盾段落
+        contradiction_section = ''
+        if has_desc_change:
+            change = desc_changes[repo]
+            old_desc = change.get('old_description', 'N/A')
+            new_desc = change.get('new_description', 'N/A')
+            change_date = change.get('date', 'unknown')
+            contradiction_section = f"""
+
+## ⚠️ 描述变更（{change_date}）
+
+该项目描述近期发生过重大变化，可能存在定位调整：
+
+- **旧描述**: {old_desc}
+- **新描述**: {new_desc}
+
+> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
+"""
+        
         # Body
         body = f"""# {repo}
 
@@ -348,7 +396,7 @@ language: "{lang}"
 ## 相关项目
 
 {all_related}
-"""
+{contradiction_section}"""
         
         with open(entity_path, 'w') as f:
             f.write(f"{fm}\n\n{body}\n")
@@ -366,6 +414,84 @@ language: "{lang}"
 def generate_concepts(all_repos, repo_domains, domain_map):
     print(f"[3/5] 生成 Concept 页面...")
     os.makedirs(CONCEPTS_DIR, exist_ok=True)
+    
+    # P2: 读取趋势信号（语言 surge）
+    trend_signals_path = f'{BASE}/data/trend_signals.json'
+    lang_surges = {}
+    if os.path.exists(trend_signals_path):
+        try:
+            with open(trend_signals_path, 'r', encoding='utf-8') as f:
+                signals = json.load(f)
+                for s in signals:
+                    if s.get('type') == 'language_surge':
+                        lang_surges[s['key']] = s
+            print(f"  P2: 加载 {len(lang_surges)} 个语言 surge 信号")
+        except Exception as e:
+            print(f"  P2: 读取 trend_signals.json 失败: {e}")
+    
+    # P2: 为语言 surge 创建 concept 页面
+    for lang, signal in lang_surges.items():
+        lang_slug = lang.lower().replace(' ', '-').replace('+', 'plus').replace('#', 'sharp')
+        concept_path = f'{CONCEPTS_DIR}/{lang_slug}-surge.md'
+        is_new = not os.path.exists(concept_path)
+        
+        if is_new:
+            orig_created = TODAY
+        else:
+            orig_content = open(concept_path, encoding='utf-8').read()
+            m = re.search(r'^created:\s*(\S+)', orig_content, re.MULTILINE)
+            orig_created = m.group(1) if m else TODAY
+        
+        # 生成 wikilinks
+        projects = signal.get('projects', [])
+        links = [f'[[{r.replace("/", "-").lower()}]]' for r in projects]
+        
+        # 统计语言分布
+        lang_dist = defaultdict(int)
+        for r in projects:
+            repo_data = next((x for x in all_repos if x['repo_full_name'] == r), None)
+            if repo_data:
+                lang_dist[repo_data.get('language', '?') or '?'] += 1
+        lang_str = ', '.join([f'{l} {c}个' for l, c in sorted(lang_dist.items(), key=lambda x: -x[1])])
+        
+        fm = f"""---
+title: "{lang} Ecosystem Surge"
+created: {orig_created}
+updated: {TODAY}
+type: concept
+tags: [{lang_slug}, surge]
+confidence: medium
+---"""
+        
+        body = f"""# {lang} Ecosystem Surge
+
+## 信号概述
+
+{signal.get('date', TODAY)} 检测到 {lang} 领域有 {signal.get('count', len(projects))} 个项目同时上榜，表明该语言生态近期活跃度显著上升。
+
+## 上榜项目（{len(projects)} 个）
+
+{' '.join(links)}
+
+## 语言分布
+
+{lang_str}
+
+## 趋势分析
+
+{lang} 领域 {signal.get('count', len(projects))} 个项目同时上榜，可能反映：
+- 该语言在特定领域（如 AI、Web、系统编程）的技术突破
+- 社区活跃度提升，新项目涌现
+- 现有项目获得广泛关注
+
+> 此页面由 P2 Trend Detection 自动生成，建议结合具体项目分析趋势原因。
+"""
+        
+        with open(concept_path, 'w', encoding='utf-8') as f:
+            f.write(f"{fm}\n\n{body}\n")
+        
+        if is_new:
+            print(f"  P2: 新建 {lang_slug}-surge.md（{len(projects)} 个项目）")
     
     # 获取今日上榜的 repo（用于统计，但链接所有同领域项目）
     conn = sqlite3.connect(DB_PATH)

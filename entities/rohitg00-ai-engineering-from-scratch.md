@@ -37,7 +37,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[open-llm-vtuber-open-llm-vtuber]] [[nousresearch-hermes-agent]] [[byoungd-english-level-up-tips]] [[stefan-jansen-machine-learning-for-trading]] [[chopratejas-headroom]]
+[[affaan-m-ecc]] [[aquasecurity-trivy]] [[nousresearch-hermes-agent]] [[666ghj-mirofish]] [[byoungd-english-level-up-tips]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

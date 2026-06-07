@@ -34,5 +34,5 @@ NVR with realtime local object detection for IP cameras
 
 ## 相关项目
 
-[[reconurge-flowsint]] [[lfnovo-open-notebook]] [[supermemoryai-supermemory]] [[copilotkit-copilotkit]]
+[[copilotkit-copilotkit]] [[reconurge-flowsint]] [[lfnovo-open-notebook]] [[supermemoryai-supermemory]]
 

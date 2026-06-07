@@ -33,7 +33,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[open-llm-vtuber-open-llm-vtuber]] [[nousresearch-hermes-agent]] [[moeru-ai-airi]] [[galilai-group-stable-worldmodel]] [[chopratejas-headroom]]
+[[affaan-m-ecc]] [[aquasecurity-trivy]] [[galilai-group-stable-worldmodel]] [[moeru-ai-airi]] [[openmoss-moss-tts]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

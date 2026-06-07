@@ -33,7 +33,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[open-llm-vtuber-open-llm-vtuber]] [[chopratejas-headroom]] [[panniantong-agent-reach]] [[can1357-oh-my-pi]] [[aquasecurity-trivy]]
+[[affaan-m-ecc]] [[obra-superpowers]] [[aquasecurity-trivy]] [[harry0703-moneyprinterturbo]] [[can1357-oh-my-pi]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -33,7 +33,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[open-llm-vtuber-open-llm-vtuber]] [[nousresearch-hermes-agent]] [[moeru-ai-airi]] [[chopratejas-headroom]] [[aquasecurity-trivy]]
+[[affaan-m-ecc]] [[aquasecurity-trivy]] [[moeru-ai-airi]] [[openmoss-moss-tts]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

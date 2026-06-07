@@ -33,5 +33,5 @@ No description
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[fareedkhan-dev-train-llm-from-scratch]] [[nvidia-cosmos]] [[stefan-jansen-machine-learning-for-trading]]
+[[nvidia-cosmos]] [[fareedkhan-dev-train-llm-from-scratch]] [[stefan-jansen-machine-learning-for-trading]] [[lyogavin-airllm]]
 

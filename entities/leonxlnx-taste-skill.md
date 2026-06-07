@@ -37,7 +37,7 @@ Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
 
 ## 相关项目
 
-[[open-llm-vtuber-open-llm-vtuber]] [[chopratejas-headroom]] [[panniantong-agent-reach]] [[can1357-oh-my-pi]] [[aquasecurity-trivy]]
+[[affaan-m-ecc]] [[obra-superpowers]] [[aquasecurity-trivy]] [[harry0703-moneyprinterturbo]] [[can1357-oh-my-pi]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

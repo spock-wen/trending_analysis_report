@@ -37,7 +37,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[open-llm-vtuber-open-llm-vtuber]] [[cloakhq-cloakbrowser]] [[chopratejas-headroom]] [[panniantong-agent-reach]] [[can1357-oh-my-pi]]
+[[affaan-m-ecc]] [[aquasecurity-trivy]] [[harry0703-moneyprinterturbo]] [[can1357-oh-my-pi]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

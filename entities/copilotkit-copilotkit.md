@@ -34,7 +34,7 @@ The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG
 
 ## 相关项目
 
-[[open-llm-vtuber-open-llm-vtuber]] [[mvanhorn-last30days-skill]] [[d4vinci-scrapling]] [[lfnovo-open-notebook]] [[reconurge-flowsint]]
+[[affaan-m-ecc]] [[aquasecurity-trivy]] [[reconurge-flowsint]] [[lfnovo-open-notebook]] [[supermemoryai-supermemory]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

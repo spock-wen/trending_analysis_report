@@ -35,7 +35,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[open-llm-vtuber-open-llm-vtuber]] [[mvanhorn-last30days-skill]] [[d4vinci-scrapling]] [[chopratejas-headroom]] [[nesquena-hermes-webui]]
+[[affaan-m-ecc]] [[obra-superpowers]] [[aquasecurity-trivy]] [[harry0703-moneyprinterturbo]] [[copilotkit-copilotkit]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -33,7 +33,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[open-llm-vtuber-open-llm-vtuber]] [[iii-hq-iii]] [[chopratejas-headroom]] [[run-llama-liteparse]] [[aquasecurity-trivy]]
+[[affaan-m-ecc]] [[aquasecurity-trivy]] [[ruvnet-ruview]] [[iii-hq-iii]] [[run-llama-liteparse]]
 
 **所属领域**: [[ai-agent]]
 

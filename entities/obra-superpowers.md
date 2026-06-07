@@ -29,13 +29,13 @@ An agentic skills framework & software development methodology that works.
 
 ## 上榜历史
 
+  - 2026-06-07: #1, +1008⭐
   - 2026-05-29: #9, +1726⭐
   - 2026-05-28: #13, +1680⭐
   - 2026-05-22: #5, +1572⭐
   - 2026-05-21: #8, +1743⭐
-  - 2026-05-20: #4, +1623⭐
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[anthropics-claude-code]]
+[[harry0703-moneyprinterturbo]] [[can1357-oh-my-pi]] [[diolinux-photogimp]] [[msitarzewski-agency-agents]] [[openclaw-openclaw-windows-node]]
 

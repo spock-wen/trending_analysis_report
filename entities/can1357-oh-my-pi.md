@@ -36,5 +36,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[reconurge-flowsint]] [[lfnovo-open-notebook]] [[affaan-m-ecc]] [[chopratejas-headroom]]
+[[copilotkit-copilotkit]] [[harry0703-moneyprinterturbo]] [[nesquena-hermes-webui]] [[mvanhorn-last30days-skill]] [[openclaw-openclaw-windows-node]]
 

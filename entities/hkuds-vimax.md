@@ -34,5 +34,5 @@ language: "Python"
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]]
+[[openbmb-voxcpm]] [[paddlepaddle-paddleocr]] [[aquasecurity-trivy]] [[nousresearch-hermes-agent]] [[galilai-group-stable-worldmodel]]
 

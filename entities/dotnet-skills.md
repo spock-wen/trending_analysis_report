@@ -36,5 +36,5 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[jellyfin-jellyfin]] [[openclaw-openclaw-windows-node]]
+[[jellyfin-jellyfin]] [[openclaw-openclaw-windows-node]] [[aquasecurity-trivy]] [[chopratejas-headroom]] [[affaan-m-ecc]]
 

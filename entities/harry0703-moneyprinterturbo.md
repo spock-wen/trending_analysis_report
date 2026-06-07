@@ -37,5 +37,5 @@ language: "Python"
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[anthropics-claude-code]]
+[[can1357-oh-my-pi]] [[openclaw-openclaw-windows-node]] [[aquasecurity-trivy]] [[nousresearch-hermes-agent]] [[666ghj-mirofish]]
 

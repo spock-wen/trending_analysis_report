@@ -33,5 +33,5 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[influxdata-telegraf]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[alireza0-s-ui]]
+[[aquasecurity-trivy]] [[influxdata-telegraf]] [[chopratejas-headroom]] [[affaan-m-ecc]] [[open-llm-vtuber-open-llm-vtuber]]
 

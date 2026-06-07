@@ -37,5 +37,5 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[open-llm-vtuber-open-llm-vtuber]]
+[[affaan-m-ecc]] [[open-llm-vtuber-open-llm-vtuber]] [[chopratejas-headroom]] [[aquasecurity-trivy]]
 

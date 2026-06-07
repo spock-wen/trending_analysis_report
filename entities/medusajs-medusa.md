@@ -33,5 +33,5 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[obra-superpowers]] [[reconurge-flowsint]] [[lfnovo-open-notebook]] [[can1357-oh-my-pi]] [[cloakhq-cloakbrowser]]
+[[copilotkit-copilotkit]] [[obra-superpowers]] [[diolinux-photogimp]] [[cloakhq-cloakbrowser]] [[supermemoryai-supermemory]]
 

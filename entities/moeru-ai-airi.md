@@ -34,5 +34,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[openbmb-voxcpm]] [[reconurge-flowsint]] [[lfnovo-open-notebook]] [[affaan-m-ecc]]
+[[openbmb-voxcpm]] [[copilotkit-copilotkit]] [[nesquena-hermes-webui]] [[mvanhorn-last30days-skill]] [[supermemoryai-supermemory]]
 

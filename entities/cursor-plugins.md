@@ -34,5 +34,5 @@ Cursor plugin specification and official plugins
 
 ## 相关项目
 
-[[lfnovo-open-notebook]] [[supermemoryai-supermemory]] [[can1357-oh-my-pi]] [[reconurge-flowsint]]
+[[copilotkit-copilotkit]] [[supermemoryai-supermemory]] [[lfnovo-open-notebook]] [[reconurge-flowsint]]
 

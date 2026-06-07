@@ -37,5 +37,5 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[byoungd-english-level-up-tips]] [[reconurge-flowsint]] [[lfnovo-open-notebook]] [[affaan-m-ecc]]
+[[copilotkit-copilotkit]] [[harry0703-moneyprinterturbo]] [[can1357-oh-my-pi]] [[openclaw-openclaw-windows-node]] [[supermemoryai-supermemory]]
 

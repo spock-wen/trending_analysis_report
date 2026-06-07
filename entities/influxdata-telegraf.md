@@ -34,5 +34,5 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[knadh-listmonk]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[alireza0-s-ui]]
+[[nvidia-cosmos]] [[knadh-listmonk]] [[paddlepaddle-paddleocr]] [[fareedkhan-dev-train-llm-from-scratch]] [[aquasecurity-trivy]]
 

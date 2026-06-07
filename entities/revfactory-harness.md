@@ -36,5 +36,5 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[d4vinci-scrapling]] [[mvanhorn-last30days-skill]]
+[[copilotkit-copilotkit]] [[nesquena-hermes-webui]] [[mvanhorn-last30days-skill]] [[aquasecurity-trivy]] [[digitalplatdev-freedomain]]
 

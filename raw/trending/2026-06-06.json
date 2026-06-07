@@ -1,0 +1,179 @@
+{
+  "date": "2026-06-06",
+  "scraped_at": "2026-06-06T07:15:00.000000",
+  "period": "daily",
+  "count": 19,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars_today": 2503,
+      "total_stars": 14426,
+      "url": "https://github.com/chopratejas/headroom"
+    },
+    {
+      "rank": 2,
+      "repo": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars_today": 1821,
+      "total_stars": 182999,
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "rank": 3,
+      "repo": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": 1368,
+      "total_stars": 208278,
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "rank": 4,
+      "repo": "lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "TypeScript",
+      "stars_today": 1142,
+      "total_stars": 25928,
+      "url": "https://github.com/lfnovo/open-notebook"
+    },
+    {
+      "rank": 5,
+      "repo": "PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "language": "Python",
+      "stars_today": 755,
+      "total_stars": 80497,
+      "url": "https://github.com/PaddlePaddle/PaddleOCR"
+    },
+    {
+      "rank": 6,
+      "repo": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_today": 738,
+      "total_stars": 28171,
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "rank": 7,
+      "repo": "jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": "",
+      "stars_today": 681,
+      "total_stars": 350368,
+      "url": "https://github.com/jwasham/coding-interview-university"
+    },
+    {
+      "rank": 8,
+      "repo": "github/spec-kit",
+      "description": "Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars_today": 612,
+      "total_stars": 109159,
+      "url": "https://github.com/github/spec-kit"
+    },
+    {
+      "rank": 9,
+      "repo": "NVIDIA/cosmos",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "language": "Jupyter Notebook",
+      "stars_today": 494,
+      "total_stars": 9378,
+      "url": "https://github.com/NVIDIA/cosmos"
+    },
+    {
+      "rank": 10,
+      "repo": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "language": "Python",
+      "stars_today": 440,
+      "total_stars": 9996,
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
+    },
+    {
+      "rank": 11,
+      "repo": "CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
+      "language": "TypeScript",
+      "stars_today": 350,
+      "total_stars": 32624,
+      "url": "https://github.com/CopilotKit/CopilotKit"
+    },
+    {
+      "rank": 12,
+      "repo": "openclaw/openclaw-windows-node",
+      "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
+      "language": "C#",
+      "stars_today": 329,
+      "total_stars": 1584,
+      "url": "https://github.com/openclaw/openclaw-windows-node"
+    },
+    {
+      "rank": 13,
+      "repo": "666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything.",
+      "language": "Python",
+      "stars_today": 324,
+      "total_stars": 64653,
+      "url": "https://github.com/666ghj/MiroFish"
+    },
+    {
+      "rank": 14,
+      "repo": "github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars_today": 310,
+      "total_stars": 9212,
+      "url": "https://github.com/github/copilot-sdk"
+    },
+    {
+      "rank": 15,
+      "repo": "reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "language": "TypeScript",
+      "stars_today": 246,
+      "total_stars": 5529,
+      "url": "https://github.com/reconurge/flowsint"
+    },
+    {
+      "rank": 16,
+      "repo": "MemPalace/mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "language": "Python",
+      "stars_today": 228,
+      "total_stars": 53835,
+      "url": "https://github.com/MemPalace/mempalace"
+    },
+    {
+      "rank": 17,
+      "repo": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars_today": 208,
+      "total_stars": 35834,
+      "url": "https://github.com/aquasecurity/trivy"
+    },
+    {
+      "rank": 18,
+      "repo": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_today": 127,
+      "total_stars": 21501,
+      "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+      "rank": 19,
+      "repo": "openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars_today": 82,
+      "total_stars": 1508,
+      "url": "https://github.com/openai/plugins"
+    }
+  ]
+}

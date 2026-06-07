@@ -34,5 +34,5 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[obra-superpowers]] [[leonxlnx-taste-skill]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[can1357-oh-my-pi]] [[msitarzewski-agency-agents]] [[openclaw-openclaw-windows-node]]
 

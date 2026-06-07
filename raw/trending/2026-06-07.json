@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-07",
+  "period": "daily",
+  "collected_at": "2026-06-07T07:11:51+08:00",
+  "source": "github_trending",
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "obra/superpowers",
+      "repo_full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 219566,
+      "forks": 19535,
+      "stars_today": 1008,
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "rank": 2,
+      "repo": "lfnovo/open-notebook",
+      "repo_full_name": "lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "TypeScript",
+      "stars": 26529,
+      "forks": 3034,
+      "stars_today": 783,
+      "url": "https://github.com/lfnovo/open-notebook"
+    },
+    {
+      "rank": 3,
+      "repo": "Panniantong/Agent-Reach",
+      "repo_full_name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 22215,
+      "forks": 1896,
+      "stars_today": 700,
+      "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+      "rank": 4,
+      "repo": "CopilotKit/CopilotKit",
+      "repo_full_name": "CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+      "language": "TypeScript",
+      "stars": 33124,
+      "forks": 4233,
+      "stars_today": 613,
+      "url": "https://github.com/CopilotKit/CopilotKit"
+    },
+    {
+      "rank": 5,
+      "repo": "mvanhorn/last30days-skill",
+      "repo_full_name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 28677,
+      "forks": 2427,
+      "stars_today": 441,
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "rank": 6,
+      "repo": "MemPalace/mempalace",
+      "repo_full_name": "MemPalace/mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "language": "Python",
+      "stars": 54193,
+      "forks": 7103,
+      "stars_today": 441,
+      "url": "https://github.com/MemPalace/mempalace"
+    },
+    {
+      "rank": 7,
+      "repo": "santifer/career-ops",
+      "repo_full_name": "santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "stars": 49208,
+      "forks": 10190,
+      "stars_today": 203,
+      "url": "https://github.com/santifer/career-ops"
+    },
+    {
+      "rank": 8,
+      "repo": "openai/plugins",
+      "repo_full_name": "openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars": 1724,
+      "forks": 255,
+      "stars_today": 215,
+      "url": "https://github.com/openai/plugins"
+    },
+    {
+      "rank": 9,
+      "repo": "danielmiessler/Personal_AI_Infrastructure",
+      "repo_full_name": "danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "stars": 14893,
+      "forks": 2116,
+      "stars_today": 63,
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+    },
+    {
+      "rank": 10,
+      "repo": "PaddlePaddle/PaddleOCR",
+      "repo_full_name": "PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "language": "Python",
+      "stars": 80899,
+      "forks": 10654,
+      "stars_today": 449,
+      "url": "https://github.com/PaddlePaddle/PaddleOCR"
+    },
+    {
+      "rank": 11,
+      "repo": "microsoft/VibeVoice",
+      "repo_full_name": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": 48418,
+      "forks": 5389,
+      "stars_today": 219,
+      "url": "https://github.com/microsoft/VibeVoice"
+    },
+    {
+      "rank": 12,
+      "repo": "openai/whisper",
+      "repo_full_name": "openai/whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "language": "Python",
+      "stars": 101796,
+      "forks": 12436,
+      "stars_today": 155,
+      "url": "https://github.com/openai/whisper"
+    },
+    {
+      "rank": 13,
+      "repo": "sveltejs/svelte",
+      "repo_full_name": "sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "language": "JavaScript",
+      "stars": 86936,
+      "forks": 4937,
+      "stars_today": 34,
+      "url": "https://github.com/sveltejs/svelte"
+    },
+    {
+      "rank": 14,
+      "repo": "vitejs/vite",
+      "repo_full_name": "vitejs/vite",
+      "description": "Next generation frontend tooling. It's fast!",
+      "language": "TypeScript",
+      "stars": 81143,
+      "forks": 8274,
+      "stars_today": 73,
+      "url": "https://github.com/vitejs/vite"
+    },
+    {
+      "rank": 15,
+      "repo": "aquasecurity/trivy",
+      "repo_full_name": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": 35971,
+      "forks": 452,
+      "stars_today": 159,
+      "url": "https://github.com/aquasecurity/trivy"
+    },
+    {
+      "rank": 16,
+      "repo": "nginx/nginx",
+      "repo_full_name": "nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "stars": 30652,
+      "forks": 7955,
+      "stars_today": 37,
+      "url": "https://github.com/nginx/nginx"
+    },
+    {
+      "rank": 17,
+      "repo": "golang/go",
+      "repo_full_name": "golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 134484,
+      "forks": 19089,
+      "stars_today": 24,
+      "url": "https://github.com/golang/go"
+    },
+    {
+      "rank": 18,
+      "repo": "microsoft/mxc",
+      "repo_full_name": "microsoft/mxc",
+      "description": "Policy-driven, layered isolation and containment",
+      "language": "Rust",
+      "stars": 540,
+      "forks": 24,
+      "stars_today": 57,
+      "url": "https://github.com/microsoft/mxc"
+    }
+  ]
+}

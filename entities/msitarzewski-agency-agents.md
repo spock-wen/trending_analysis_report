@@ -35,5 +35,5 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[obra-superpowers]] [[leonxlnx-taste-skill]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]]
+[[copilotkit-copilotkit]] [[obra-superpowers]] [[can1357-oh-my-pi]] [[harry0703-moneyprinterturbo]] [[nesquena-hermes-webui]]
 

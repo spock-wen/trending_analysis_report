@@ -33,5 +33,5 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[influxdata-telegraf]] [[knadh-listmonk]] [[aquasecurity-trivy]] [[d4vinci-scrapling]] [[mvanhorn-last30days-skill]]
+[[knadh-listmonk]] [[copilotkit-copilotkit]] [[mvanhorn-last30days-skill]] [[aquasecurity-trivy]] [[influxdata-telegraf]]
 

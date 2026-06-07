@@ -35,5 +35,5 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[lyogavin-airllm]] [[byoungd-english-level-up-tips]] [[aquasecurity-trivy]] [[affaan-m-ecc]]
+[[nvidia-cosmos]] [[fareedkhan-dev-train-llm-from-scratch]] [[stefan-jansen-machine-learning-for-trading]] [[lyogavin-airllm]] [[aquasecurity-trivy]]
 

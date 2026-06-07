@@ -33,5 +33,5 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[lyogavin-airllm]] [[byoungd-english-level-up-tips]] [[ruvnet-ruview]] [[obra-superpowers]]
+[[nvidia-cosmos]] [[obra-superpowers]] [[fareedkhan-dev-train-llm-from-scratch]] [[diolinux-photogimp]] [[cloakhq-cloakbrowser]]
 

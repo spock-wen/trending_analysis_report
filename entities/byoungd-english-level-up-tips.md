@@ -35,5 +35,5 @@ An advanced guide to learn English which might benefit you a lot 🎉 . 离谱�
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[stefan-jansen-machine-learning-for-trading]] [[jamwithai-production-agentic-rag-course]]
+[[stefan-jansen-machine-learning-for-trading]] [[jamwithai-production-agentic-rag-course]] [[datatalksclub-data-engineering-zoomcamp]]
 

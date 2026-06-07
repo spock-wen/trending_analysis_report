@@ -33,5 +33,5 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[truelockmc-streambert]] [[chopratejas-headroom]]
+[[openbmb-voxcpm]] [[pbakaus-impeccable]] [[paddlepaddle-paddleocr]] [[openai-plugins]] [[aquasecurity-trivy]]
 

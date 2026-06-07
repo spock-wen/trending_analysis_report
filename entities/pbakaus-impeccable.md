@@ -33,5 +33,5 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[aquasecurity-trivy]] [[affaan-m-ecc]] [[truelockmc-streambert]] [[chopratejas-headroom]] [[open-llm-vtuber-open-llm-vtuber]]
+[[openai-plugins]] [[aquasecurity-trivy]] [[chopratejas-headroom]] [[affaan-m-ecc]] [[open-llm-vtuber-open-llm-vtuber]]
 

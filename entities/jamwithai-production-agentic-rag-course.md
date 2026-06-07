@@ -33,5 +33,5 @@ No description
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[byoungd-english-level-up-tips]] [[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[affaan-m-ecc]]
+[[stefan-jansen-machine-learning-for-trading]] [[aquasecurity-trivy]] [[byoungd-english-level-up-tips]] [[nousresearch-hermes-agent]] [[666ghj-mirofish]]
 

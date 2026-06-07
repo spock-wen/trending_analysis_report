@@ -33,5 +33,5 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[anthropics-claude-code]] [[chopratejas-headroom]] [[openclaw-openclaw-windows-node]] [[harry0703-moneyprinterturbo]]
+[[harry0703-moneyprinterturbo]] [[can1357-oh-my-pi]] [[openclaw-openclaw-windows-node]] [[nousresearch-hermes-agent]] [[666ghj-mirofish]]
 

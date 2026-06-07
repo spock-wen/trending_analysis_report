@@ -1,7 +1,7 @@
 ---
 title: "cli"
 created: 2026-05-20
-updated: 2026-06-02
+updated: 2026-06-07
 type: concept
 tags: [cli]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 今日上榜项目（2 个）
 
-[[can1357-oh-my-pi]] [[harry0703-moneyprinterturbo]]
+[[panniantong-agent-reach]] [[obra-superpowers]]
 
 ## 语言分布
 
-TypeScript 1个, Python 1个
+Python 1个, Shell 1个
 
 ## 趋势观察
 

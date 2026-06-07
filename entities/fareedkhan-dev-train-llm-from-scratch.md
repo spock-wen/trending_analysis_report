@@ -35,5 +35,5 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[chopratejas-headroom]] [[stefan-jansen-machine-learning-for-trading]]
+[[nvidia-cosmos]] [[paddlepaddle-paddleocr]] [[stefan-jansen-machine-learning-for-trading]] [[lyogavin-airllm]] [[aquasecurity-trivy]]
 

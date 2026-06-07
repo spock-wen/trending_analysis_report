@@ -1,7 +1,7 @@
 ---
 title: "web"
 created: 2026-05-20
-updated: 2026-06-04
+updated: 2026-06-07
 type: concept
 tags: [web]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 今日上榜项目（2 个）
 
-[[d4vinci-scrapling]] [[nesquena-hermes-webui]]
+[[mvanhorn-last30days-skill]] [[copilotkit-copilotkit]]
 
 ## 语言分布
 
-Python 2个
+Python 1个, TypeScript 1个
 
 ## 趋势观察
 

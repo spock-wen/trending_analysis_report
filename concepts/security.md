@@ -1,7 +1,7 @@
 ---
 title: "security"
 created: 2026-05-26
-updated: 2026-06-05
+updated: 2026-06-07
 type: concept
 tags: [security]
 confidence: medium
@@ -9,15 +9,15 @@ confidence: medium
 
 # security
 
-## 今日上榜项目（3 个）
+## 领域项目（共 6 个，今日上榜 1 个）
 
-[[affaan-m-ecc]] [[reconurge-flowsint]] [[aquasecurity-trivy]]
+[[affaan-m-ecc]] [[reconurge-flowsint]] [[aquasecurity-trivy]] [[mukul975-anthropic-cybersecurity-skills]] [[cloakhq-cloakbrowser]] [[plausible-analytics]]
 
 ## 语言分布
 
-JavaScript 1个, TypeScript 1个, Go 1个
+Python 2个, JavaScript 1个, TypeScript 1个, Go 1个, Elixir 1个
 
 ## 趋势观察
 
-3 个 security 领域项目今日同时上榜，反映该领域持续活跃。
+6 个 security 领域项目被追踪，其中 1 个今日同时上榜，反映该领域持续活跃。
 

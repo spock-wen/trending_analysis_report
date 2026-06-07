@@ -35,7 +35,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[666ghj-mirofish]] [[open-llm-vtuber-open-llm-vtuber]]
+[[open-llm-vtuber-open-llm-vtuber]] [[mvanhorn-last30days-skill]] [[tauricresearch-tradingagents]] [[chopratejas-headroom]] [[aquasecurity-trivy]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

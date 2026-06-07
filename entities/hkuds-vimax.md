@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[openbmb-voxcpm]] [[affaan-m-ecc]] [[666ghj-mirofish]]
+[[open-llm-vtuber-open-llm-vtuber]] [[nousresearch-hermes-agent]] [[galilai-group-stable-worldmodel]] [[chopratejas-headroom]] [[aquasecurity-trivy]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

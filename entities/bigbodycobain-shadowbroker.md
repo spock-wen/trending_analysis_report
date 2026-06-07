@@ -34,7 +34,7 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[fareedkhan-dev-train-llm-from-scratch]] [[affaan-m-ecc]] [[666ghj-mirofish]]
+[[open-llm-vtuber-open-llm-vtuber]] [[nousresearch-hermes-agent]] [[fareedkhan-dev-train-llm-from-scratch]] [[chopratejas-headroom]] [[aquasecurity-trivy]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

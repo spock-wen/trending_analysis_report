@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[fareedkhan-dev-train-llm-from-scratch]] [[aquasecurity-trivy]] [[byoungd-english-level-up-tips]] [[lyogavin-airllm]] [[stefan-jansen-machine-learning-for-trading]]
+[[open-llm-vtuber-open-llm-vtuber]] [[byoungd-english-level-up-tips]] [[stefan-jansen-machine-learning-for-trading]] [[fareedkhan-dev-train-llm-from-scratch]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

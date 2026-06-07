@@ -33,7 +33,7 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 
 ## 相关项目
 
-[[aquasecurity-trivy]] [[supermemoryai-supermemory]] [[reconurge-flowsint]] [[affaan-m-ecc]] [[lfnovo-open-notebook]]
+[[open-llm-vtuber-open-llm-vtuber]] [[lfnovo-open-notebook]] [[reconurge-flowsint]] [[chopratejas-headroom]] [[aquasecurity-trivy]]
 
 **所属领域**: [[ai-agent]]
 

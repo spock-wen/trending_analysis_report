@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[nesquena-hermes-webui]] [[d4vinci-scrapling]]
+[[open-llm-vtuber-open-llm-vtuber]] [[nousresearch-hermes-agent]] [[mvanhorn-last30days-skill]] [[d4vinci-scrapling]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

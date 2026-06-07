@@ -34,7 +34,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[openbmb-voxcpm]] [[affaan-m-ecc]]
+[[open-llm-vtuber-open-llm-vtuber]] [[nousresearch-hermes-agent]] [[mvanhorn-last30days-skill]] [[tauricresearch-tradingagents]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

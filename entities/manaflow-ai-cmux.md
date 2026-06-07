@@ -35,7 +35,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[aquasecurity-trivy]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]] [[open-llm-vtuber-open-llm-vtuber]]
+[[open-llm-vtuber-open-llm-vtuber]] [[chopratejas-headroom]] [[panniantong-agent-reach]] [[can1357-oh-my-pi]] [[aquasecurity-trivy]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

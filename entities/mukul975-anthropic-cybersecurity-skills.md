@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[harry0703-moneyprinterturbo]] [[reconurge-flowsint]]
+[[open-llm-vtuber-open-llm-vtuber]] [[nousresearch-hermes-agent]] [[reconurge-flowsint]] [[chopratejas-headroom]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

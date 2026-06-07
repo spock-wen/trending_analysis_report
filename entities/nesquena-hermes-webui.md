@@ -36,7 +36,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[666ghj-mirofish]]
+[[open-llm-vtuber-open-llm-vtuber]] [[nousresearch-hermes-agent]] [[mvanhorn-last30days-skill]] [[d4vinci-scrapling]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

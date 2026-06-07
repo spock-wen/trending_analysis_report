@@ -34,7 +34,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[nesquena-hermes-webui]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[openclaw-openclaw-windows-node]]
+[[mvanhorn-last30days-skill]] [[d4vinci-scrapling]] [[nesquena-hermes-webui]] [[panniantong-agent-reach]] [[can1357-oh-my-pi]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[aquasecurity-trivy]] [[nesquena-hermes-webui]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[supermemoryai-supermemory]]
+[[open-llm-vtuber-open-llm-vtuber]] [[mvanhorn-last30days-skill]] [[d4vinci-scrapling]] [[lfnovo-open-notebook]] [[reconurge-flowsint]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

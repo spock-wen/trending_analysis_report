@@ -385,11 +385,14 @@ def generate_concepts(all_repos, repo_domains, domain_map):
         
         # 今日上榜的同领域项目（用于统计）
         today_in_domain = [r for r in repos if r in today_repos]
-        if len(today_in_domain) < 2:  # 至少2个今日上榜才值得更新 concept
-            continue
         
         concept_path = f'{CONCEPTS_DIR}/{domain}.md'
         is_new = not os.path.exists(concept_path)
+        
+        # 如果是新 concept，至少需要 2 个今日上榜才创建
+        # 如果是已有 concept，无论如何都更新（链接所有同领域项目）
+        if is_new and len(today_in_domain) < 2:
+            continue
         
         # 如果是已有页面，保留原始 created 日期
         if is_new:

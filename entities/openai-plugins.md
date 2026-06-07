@@ -34,7 +34,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[aquasecurity-trivy]] [[pbakaus-impeccable]] [[affaan-m-ecc]] [[axorax-awesome-free-apps]] [[open-llm-vtuber-open-llm-vtuber]]
+[[open-llm-vtuber-open-llm-vtuber]] [[chopratejas-headroom]] [[axorax-awesome-free-apps]] [[aquasecurity-trivy]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

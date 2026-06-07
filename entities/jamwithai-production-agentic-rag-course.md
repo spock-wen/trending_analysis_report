@@ -33,7 +33,7 @@ No description
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[byoungd-english-level-up-tips]] [[stefan-jansen-machine-learning-for-trading]] [[affaan-m-ecc]]
+[[open-llm-vtuber-open-llm-vtuber]] [[nousresearch-hermes-agent]] [[byoungd-english-level-up-tips]] [[stefan-jansen-machine-learning-for-trading]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

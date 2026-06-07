@@ -34,7 +34,7 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[can1357-oh-my-pi]] [[aquasecurity-trivy]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[harry0703-moneyprinterturbo]]
+[[open-llm-vtuber-open-llm-vtuber]] [[chopratejas-headroom]] [[panniantong-agent-reach]] [[can1357-oh-my-pi]] [[aquasecurity-trivy]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

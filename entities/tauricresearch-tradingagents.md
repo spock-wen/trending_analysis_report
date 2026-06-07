@@ -33,7 +33,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[aquasecurity-trivy]] [[nousresearch-hermes-agent]] [[666ghj-mirofish]] [[mvanhorn-last30days-skill]]
+[[leonxlnx-taste-skill]] [[hunxbyts-ghosttrack]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

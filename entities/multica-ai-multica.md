@@ -35,7 +35,7 @@ The open-source managed agents platform. Turn coding agents into real teammates 
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[aquasecurity-trivy]] [[reconurge-flowsint]] [[copilotkit-copilotkit]] [[lfnovo-open-notebook]]
+[[leonxlnx-taste-skill]] [[refactoringhq-tolaria]] [[yikart-aitoearn]] [[mvanhorn-last30days-skill]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]]
 

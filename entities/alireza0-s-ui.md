@@ -33,7 +33,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[aquasecurity-trivy]] [[knadh-listmonk]] [[copilotkit-copilotkit]] [[influxdata-telegraf]] [[nesquena-hermes-webui]]
+[[nesquena-hermes-webui]] [[knadh-listmonk]] [[mvanhorn-last30days-skill]] [[aquasecurity-trivy]] [[d4vinci-scrapling]]
 
 **所属领域**: [[web]]
 

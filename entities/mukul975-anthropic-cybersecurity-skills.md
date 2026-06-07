@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[aquasecurity-trivy]] [[reconurge-flowsint]] [[nousresearch-hermes-agent]] [[can1357-oh-my-pi]]
+[[leonxlnx-taste-skill]] [[panniantong-agent-reach]] [[reconurge-flowsint]] [[can1357-oh-my-pi]] [[hunxbyts-ghosttrack]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

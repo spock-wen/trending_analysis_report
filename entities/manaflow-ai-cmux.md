@@ -35,7 +35,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[aquasecurity-trivy]] [[harry0703-moneyprinterturbo]] [[can1357-oh-my-pi]] [[panniantong-agent-reach]]
+[[leonxlnx-taste-skill]] [[supertone-inc-supertonic]] [[panniantong-agent-reach]] [[can1357-oh-my-pi]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

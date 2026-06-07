@@ -37,7 +37,7 @@ Open source repository of plugins primarily intended for knowledge workers to us
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[aquasecurity-trivy]] [[nousresearch-hermes-agent]] [[666ghj-mirofish]] [[open-llm-vtuber-open-llm-vtuber]]
+[[leonxlnx-taste-skill]] [[hunxbyts-ghosttrack]] [[mvanhorn-last30days-skill]] [[ryancodrai-turbovec]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]]
 

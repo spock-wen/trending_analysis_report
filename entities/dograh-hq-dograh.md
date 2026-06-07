@@ -33,7 +33,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[aquasecurity-trivy]] [[moeru-ai-airi]] [[openmoss-moss-tts]] [[nousresearch-hermes-agent]]
+[[leonxlnx-taste-skill]] [[open-llm-vtuber-open-llm-vtuber]] [[openmoss-moss-tts]] [[openbmb-voxcpm]] [[hunxbyts-ghosttrack]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

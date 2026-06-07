@@ -33,7 +33,7 @@ No description
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[aquasecurity-trivy]] [[nousresearch-hermes-agent]] [[666ghj-mirofish]] [[byoungd-english-level-up-tips]]
+[[stefan-jansen-machine-learning-for-trading]] [[leonxlnx-taste-skill]] [[byoungd-english-level-up-tips]] [[hunxbyts-ghosttrack]] [[datatalksclub-data-engineering-zoomcamp]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

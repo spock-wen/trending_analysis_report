@@ -35,5 +35,5 @@ Curated list of the best free apps for PC and mobile
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[openai-plugins]] [[pbakaus-impeccable]]
+[[pbakaus-impeccable]] [[openai-plugins]] [[affaan-m-ecc]]
 

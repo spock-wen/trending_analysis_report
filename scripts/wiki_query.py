@@ -151,7 +151,15 @@ def format_rows(rows, as_json=False):
     if as_json:
         results = []
         for row in rows:
-            if hasattr(row, 'keys'):
+            if isinstance(row, dict):
+                # from tag query
+                results.append({
+                    'repo': row.get('title', row.get('file', '')),
+                    'language': row.get('language', ''),
+                    'stars': row.get('stars', 0),
+                })
+            else:
+                # sqlite3.Row
                 results.append({
                     'repo': row['repo_full_name'],
                     'description': row['description'] or '',
@@ -160,13 +168,14 @@ def format_rows(rows, as_json=False):
                     'trending_count': row['trending_count_daily'] or 0,
                     'consecutive_days': row['consecutive_days'] or 0,
                 })
-            elif isinstance(row, dict):
-                results.append(row)
         return json.dumps(results, ensure_ascii=False, indent=2)
     
     lines = []
     for i, row in enumerate(rows, 1):
-        if hasattr(row, 'keys'):
+        if isinstance(row, dict):
+            # from tag query
+            lines.append(f"{i}. {row['title']} ⭐{row['stars']:,} | {row['language']}")
+        else:
             # sqlite3.Row
             repo = row['repo_full_name']
             desc = (row['description'] or '')[:60]
@@ -177,9 +186,6 @@ def format_rows(rows, as_json=False):
             lines.append(f"{i}. {repo} ⭐{stars:,} | {lang} | 上榜{count}次 连续{consec}天")
             if desc:
                 lines.append(f"   {desc}")
-        elif isinstance(row, dict):
-            # from tag query
-            lines.append(f"{i}. {row['title']} ⭐{row['stars']:,} | {row['language']}")
     return '\n'.join(lines)
 
 

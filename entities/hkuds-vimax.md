@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[aquasecurity-trivy]] [[galilai-group-stable-worldmodel]] [[openmoss-moss-tts]] [[nousresearch-hermes-agent]]
+[[leonxlnx-taste-skill]] [[paddlepaddle-paddleocr]] [[openmoss-moss-tts]] [[openbmb-voxcpm]] [[galilai-group-stable-worldmodel]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

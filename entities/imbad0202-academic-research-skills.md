@@ -36,7 +36,7 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[aquasecurity-trivy]] [[tauricresearch-tradingagents]] [[nousresearch-hermes-agent]] [[666ghj-mirofish]]
+[[leonxlnx-taste-skill]] [[tauricresearch-tradingagents]] [[hunxbyts-ghosttrack]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

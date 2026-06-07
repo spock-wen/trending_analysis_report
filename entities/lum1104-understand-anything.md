@@ -37,7 +37,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[aquasecurity-trivy]] [[reconurge-flowsint]] [[harry0703-moneyprinterturbo]] [[copilotkit-copilotkit]]
+[[stefan-jansen-machine-learning-for-trading]] [[leonxlnx-taste-skill]] [[byoungd-english-level-up-tips]] [[refactoringhq-tolaria]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

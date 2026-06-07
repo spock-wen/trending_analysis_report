@@ -1,19 +1,19 @@
 ---
 title: "lfnovo/open-notebook"
 created: 2026-06-05
-updated: 2026-06-06
+updated: 2026-06-08
 type: tool
-tags: [typescript]
-sources: [raw/trending/2026-06-06.json]
-confidence: medium
-trending_count_daily: 2
+tags: [typescript, rising]
+sources: [raw/trending/2026-06-08.json]
+confidence: high
+trending_count_daily: 4
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 4
 first_trending: 2026-06-05
-last_trending: 2026-06-06
-peak_rank: 7
-total_stars: 25928
+last_trending: 2026-06-08
+peak_rank: 2
+total_stars: 27200
 language: "TypeScript"
 ---
 
@@ -22,18 +22,19 @@ language: "TypeScript"
 An Open Source implementation of Notebook LM with more flexibility and features
 
 - 语言: TypeScript
-- 上榜次数: 2 次
-- 连续上榜: 2 天
-- 最高排名: #7
+- 上榜次数: 4 次
+- 连续上榜: 4 天
+- 最高排名: #2
 - 链接: [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
 
 ## 上榜历史
 
+  - 2026-06-08: #5, +555⭐
   - 2026-06-07: #2, +783⭐
   - 2026-06-06: #4, +1142⭐
   - 2026-06-05: #7, +482⭐
 
 ## 相关项目
 
-[[copilotkit-copilotkit]] [[reconurge-flowsint]] [[supermemoryai-supermemory]]
+[[crosstalk-solutions-project-nomad]] [[yikart-aitoearn]] [[refactoringhq-tolaria]]
 

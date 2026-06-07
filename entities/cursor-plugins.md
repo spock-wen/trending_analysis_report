@@ -34,5 +34,5 @@ Cursor plugin specification and official plugins
 
 ## 相关项目
 
-[[copilotkit-copilotkit]] [[reconurge-flowsint]] [[lfnovo-open-notebook]] [[supermemoryai-supermemory]]
+[[crosstalk-solutions-project-nomad]] [[yikart-aitoearn]] [[refactoringhq-tolaria]] [[lfnovo-open-notebook]]
 

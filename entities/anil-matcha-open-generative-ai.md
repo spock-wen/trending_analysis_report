@@ -33,7 +33,7 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[aquasecurity-trivy]] [[axorax-awesome-free-apps]] [[galilai-group-stable-worldmodel]] [[openmoss-moss-tts]]
+[[pbakaus-impeccable]] [[leonxlnx-taste-skill]] [[paddlepaddle-paddleocr]] [[openmoss-moss-tts]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

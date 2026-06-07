@@ -34,5 +34,5 @@ Toolkit to help you get started with Spec-Driven Development
 
 ## 相关项目
 
-[[666ghj-mirofish]] [[open-llm-vtuber-open-llm-vtuber]] [[nousresearch-hermes-agent]] [[chopratejas-headroom]]
+[[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[nousresearch-hermes-agent]] [[hunxbyts-ghosttrack]]
 

@@ -34,7 +34,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[aquasecurity-trivy]] [[opendataloader-project-opendataloader-pdf]] [[open-llm-vtuber-open-llm-vtuber]] [[chopratejas-headroom]]
+[[leonxlnx-taste-skill]] [[opendataloader-project-opendataloader-pdf]] [[mvanhorn-last30days-skill]] [[crosstalk-solutions-project-nomad]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]]
 

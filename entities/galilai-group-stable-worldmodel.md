@@ -34,7 +34,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[aquasecurity-trivy]] [[openmoss-moss-tts]] [[tauricresearch-tradingagents]] [[nousresearch-hermes-agent]]
+[[leonxlnx-taste-skill]] [[paddlepaddle-paddleocr]] [[openmoss-moss-tts]] [[tauricresearch-tradingagents]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

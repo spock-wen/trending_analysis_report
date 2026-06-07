@@ -36,7 +36,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[aquasecurity-trivy]] [[revfactory-harness]] [[copilotkit-copilotkit]] [[nesquena-hermes-webui]]
+[[nesquena-hermes-webui]] [[leonxlnx-taste-skill]] [[revfactory-harness]] [[copilotkit-copilotkit]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

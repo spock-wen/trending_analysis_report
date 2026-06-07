@@ -33,7 +33,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[aquasecurity-trivy]] [[nousresearch-hermes-agent]] [[copilotkit-copilotkit]] [[666ghj-mirofish]]
+[[nesquena-hermes-webui]] [[leonxlnx-taste-skill]] [[copilotkit-copilotkit]] [[hunxbyts-ghosttrack]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

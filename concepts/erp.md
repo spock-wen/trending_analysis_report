@@ -1,7 +1,7 @@
 ---
 title: "erp"
 created: 2026-05-20
-updated: 2026-06-07
+updated: 2026-06-08
 type: concept
 tags: [erp]
 confidence: medium
@@ -9,7 +9,7 @@ confidence: medium
 
 # erp
 
-## 领域项目（共 7 个，今日上榜 1 个）
+## 领域项目（共 7 个，今日上榜 0 个）
 
 [[odoo-odoo]] [[obra-superpowers]] [[cloakhq-cloakbrowser]] [[diolinux-photogimp]] [[frappe-erpnext]] [[nirdiamant-agents-towards-production]] [[medusajs-medusa]]
 
@@ -19,5 +19,5 @@ Python 3个, Shell 1个, CSS 1个, Jupyter Notebook 1个, TypeScript 1个
 
 ## 趋势观察
 
-7 个 erp 领域项目被追踪，其中 1 个今日同时上榜，反映该领域持续活跃。
+7 个 erp 领域项目被追踪，其中 0 个今日同时上榜，反映该领域持续活跃。
 

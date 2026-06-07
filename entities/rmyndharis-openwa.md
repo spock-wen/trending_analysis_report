@@ -34,5 +34,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[copilotkit-copilotkit]] [[reconurge-flowsint]] [[lfnovo-open-notebook]] [[supermemoryai-supermemory]]
+[[crosstalk-solutions-project-nomad]] [[yikart-aitoearn]] [[refactoringhq-tolaria]] [[lfnovo-open-notebook]]
 

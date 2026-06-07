@@ -34,7 +34,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[aquasecurity-trivy]] [[affaan-m-ecc]] [[knadh-listmonk]] [[opendataloader-project-opendataloader-pdf]] [[fareedkhan-dev-train-llm-from-scratch]]
+[[leonxlnx-taste-skill]] [[paddlepaddle-paddleocr]] [[knadh-listmonk]] [[alireza0-s-ui]] [[opendataloader-project-opendataloader-pdf]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

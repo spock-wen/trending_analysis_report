@@ -37,7 +37,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[aquasecurity-trivy]] [[harry0703-moneyprinterturbo]] [[can1357-oh-my-pi]] [[panniantong-agent-reach]]
+[[msitarzewski-agency-agents]] [[odoo-odoo]] [[leonxlnx-taste-skill]] [[panniantong-agent-reach]] [[diolinux-photogimp]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

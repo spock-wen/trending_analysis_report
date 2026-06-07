@@ -33,7 +33,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[aquasecurity-trivy]] [[nousresearch-hermes-agent]] [[copilotkit-copilotkit]] [[can1357-oh-my-pi]]
+[[nesquena-hermes-webui]] [[leonxlnx-taste-skill]] [[panniantong-agent-reach]] [[copilotkit-copilotkit]] [[can1357-oh-my-pi]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

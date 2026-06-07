@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[aquasecurity-trivy]] [[reconurge-flowsint]] [[openmoss-moss-tts]] [[copilotkit-copilotkit]]
+[[nesquena-hermes-webui]] [[leonxlnx-taste-skill]] [[refactoringhq-tolaria]] [[openmoss-moss-tts]] [[copilotkit-copilotkit]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

@@ -33,7 +33,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[nousresearch-hermes-agent]] [[666ghj-mirofish]] [[mvanhorn-last30days-skill]]
+[[tauricresearch-tradingagents]] [[hunxbyts-ghosttrack]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[science]]
 

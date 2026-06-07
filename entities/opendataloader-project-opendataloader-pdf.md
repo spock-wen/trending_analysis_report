@@ -33,7 +33,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[aquasecurity-trivy]] [[github-copilot-sdk]] [[fareedkhan-dev-train-llm-from-scratch]] [[paddlepaddle-paddleocr]]
+[[leonxlnx-taste-skill]] [[github-copilot-sdk]] [[paddlepaddle-paddleocr]] [[fareedkhan-dev-train-llm-from-scratch]] [[nvidia-cosmos]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

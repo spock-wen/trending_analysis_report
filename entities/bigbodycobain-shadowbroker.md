@@ -34,7 +34,7 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[aquasecurity-trivy]] [[nousresearch-hermes-agent]] [[opendataloader-project-opendataloader-pdf]] [[fareedkhan-dev-train-llm-from-scratch]]
+[[leonxlnx-taste-skill]] [[paddlepaddle-paddleocr]] [[fareedkhan-dev-train-llm-from-scratch]] [[opendataloader-project-opendataloader-pdf]] [[nvidia-cosmos]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

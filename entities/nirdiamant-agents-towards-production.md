@@ -33,7 +33,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[aquasecurity-trivy]] [[obra-superpowers]] [[ruvnet-ruview]] [[lyogavin-airllm]]
+[[stefan-jansen-machine-learning-for-trading]] [[odoo-odoo]] [[obra-superpowers]] [[leonxlnx-taste-skill]] [[byoungd-english-level-up-tips]]
 
 **所属领域**: [[ai-agent]] [[education]] [[erp]]
 

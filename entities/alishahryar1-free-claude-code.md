@@ -35,7 +35,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[666ghj-mirofish]] [[chopratejas-headroom]] [[can1357-oh-my-pi]] [[moeru-ai-airi]] [[affaan-m-ecc]]
+[[can1357-oh-my-pi]] [[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[harry0703-moneyprinterturbo]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

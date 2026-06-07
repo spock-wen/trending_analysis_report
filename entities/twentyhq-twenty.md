@@ -36,7 +36,7 @@ The open alternative to Salesforce, designed for AI.
 
 ## 相关项目
 
-[[supermemoryai-supermemory]] [[chopratejas-headroom]] [[affaan-m-ecc]] [[copilotkit-copilotkit]] [[reconurge-flowsint]]
+[[aquasecurity-trivy]] [[supermemoryai-supermemory]] [[reconurge-flowsint]] [[affaan-m-ecc]] [[lfnovo-open-notebook]]
 
 **所属领域**: [[ai-agent]]
 

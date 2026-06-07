@@ -34,7 +34,7 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[chopratejas-headroom]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]]
+[[can1357-oh-my-pi]] [[aquasecurity-trivy]] [[nesquena-hermes-webui]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

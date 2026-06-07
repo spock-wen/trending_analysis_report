@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[666ghj-mirofish]] [[chopratejas-headroom]] [[can1357-oh-my-pi]] [[affaan-m-ecc]] [[openclaw-openclaw-windows-node]]
+[[can1357-oh-my-pi]] [[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[affaan-m-ecc]] [[666ghj-mirofish]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

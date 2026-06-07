@@ -36,7 +36,7 @@ Memory engine and app that is extremely fast, scalable. The Memory API for the A
 
 ## 相关项目
 
-[[chopratejas-headroom]] [[affaan-m-ecc]] [[copilotkit-copilotkit]] [[reconurge-flowsint]] [[lfnovo-open-notebook]]
+[[aquasecurity-trivy]] [[reconurge-flowsint]] [[affaan-m-ecc]] [[lfnovo-open-notebook]] [[open-llm-vtuber-open-llm-vtuber]]
 
 **所属领域**: [[ai-agent]]
 

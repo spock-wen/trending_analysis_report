@@ -33,7 +33,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[chopratejas-headroom]] [[affaan-m-ecc]] [[axorax-awesome-free-apps]] [[open-llm-vtuber-open-llm-vtuber]] [[aquasecurity-trivy]]
+[[aquasecurity-trivy]] [[affaan-m-ecc]] [[axorax-awesome-free-apps]] [[openai-plugins]] [[open-llm-vtuber-open-llm-vtuber]]
 
 **所属领域**: [[ai-agent]]
 

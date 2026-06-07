@@ -34,7 +34,7 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[666ghj-mirofish]] [[chopratejas-headroom]] [[affaan-m-ecc]] [[opendataloader-project-opendataloader-pdf]] [[nvidia-cosmos]]
+[[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[fareedkhan-dev-train-llm-from-scratch]] [[affaan-m-ecc]] [[666ghj-mirofish]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -34,7 +34,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[chopratejas-headroom]] [[affaan-m-ecc]] [[opendataloader-project-opendataloader-pdf]] [[nvidia-cosmos]] [[knadh-listmonk]]
+[[fareedkhan-dev-train-llm-from-scratch]] [[aquasecurity-trivy]] [[alireza0-s-ui]] [[affaan-m-ecc]] [[open-llm-vtuber-open-llm-vtuber]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

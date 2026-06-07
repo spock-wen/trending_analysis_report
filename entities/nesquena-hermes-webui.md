@@ -36,7 +36,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[666ghj-mirofish]] [[chopratejas-headroom]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[copilotkit-copilotkit]]
+[[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[666ghj-mirofish]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

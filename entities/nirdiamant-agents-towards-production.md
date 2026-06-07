@@ -33,7 +33,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[chopratejas-headroom]] [[affaan-m-ecc]] [[nvidia-cosmos]] [[jamwithai-production-agentic-rag-course]] [[cloakhq-cloakbrowser]]
+[[ruvnet-ruview]] [[fareedkhan-dev-train-llm-from-scratch]] [[aquasecurity-trivy]] [[byoungd-english-level-up-tips]] [[diolinux-photogimp]]
 
-**所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
+**所属领域**: [[ai-agent]] [[education]] [[erp]]
 

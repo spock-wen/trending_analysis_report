@@ -33,7 +33,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[666ghj-mirofish]] [[chopratejas-headroom]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]]
+[[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[nesquena-hermes-webui]] [[d4vinci-scrapling]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -33,7 +33,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[supermemoryai-supermemory]] [[copilotkit-copilotkit]] [[reconurge-flowsint]] [[obra-superpowers]] [[diolinux-photogimp]]
+[[diolinux-photogimp]] [[obra-superpowers]] [[supermemoryai-supermemory]] [[reconurge-flowsint]] [[odoo-odoo]]
 
 **所属领域**: [[erp]]
 

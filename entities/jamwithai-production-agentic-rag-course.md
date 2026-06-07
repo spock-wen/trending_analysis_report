@@ -33,7 +33,7 @@ No description
 
 ## 相关项目
 
-[[666ghj-mirofish]] [[chopratejas-headroom]] [[affaan-m-ecc]] [[stefan-jansen-machine-learning-for-trading]] [[datatalksclub-data-engineering-zoomcamp]]
+[[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[byoungd-english-level-up-tips]] [[stefan-jansen-machine-learning-for-trading]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

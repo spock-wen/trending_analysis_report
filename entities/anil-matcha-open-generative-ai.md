@@ -33,7 +33,7 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[chopratejas-headroom]] [[affaan-m-ecc]] [[axorax-awesome-free-apps]] [[pbakaus-impeccable]] [[open-llm-vtuber-open-llm-vtuber]]
+[[aquasecurity-trivy]] [[pbakaus-impeccable]] [[openbmb-voxcpm]] [[affaan-m-ecc]] [[axorax-awesome-free-apps]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

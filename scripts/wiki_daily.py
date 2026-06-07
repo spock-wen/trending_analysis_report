@@ -313,7 +313,12 @@ language: "{lang}"
         # 相关项目链接（entity + concept）
         related_links_str = ' '.join(related_links) if related_links else ''
         # 加上所属 concept 页面的链接（解决 concept 页面孤立问题）
-        concept_links = [f'[[{d}]]' for d in repo_domains.get(repo, [])]
+        # 只链接到已存在的 concept 页面，避免断裂链接
+        concept_links = []
+        for d in repo_domains.get(repo, []):
+            concept_path = f'{CONCEPTS_DIR}/{d}.md'
+            if os.path.exists(concept_path):
+                concept_links.append(f'[[{d}]]')
         concept_links_str = ' '.join(concept_links) if concept_links else ''
         
         if related_links_str and concept_links_str:

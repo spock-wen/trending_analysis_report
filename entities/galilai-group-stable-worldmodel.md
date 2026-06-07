@@ -34,7 +34,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[666ghj-mirofish]] [[chopratejas-headroom]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]]
+[[tauricresearch-tradingagents]] [[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[openbmb-voxcpm]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

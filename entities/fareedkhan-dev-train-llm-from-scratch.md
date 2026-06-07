@@ -35,7 +35,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[chopratejas-headroom]] [[affaan-m-ecc]] [[opendataloader-project-opendataloader-pdf]] [[nvidia-cosmos]] [[stefan-jansen-machine-learning-for-trading]]
+[[aquasecurity-trivy]] [[lyogavin-airllm]] [[stefan-jansen-machine-learning-for-trading]] [[affaan-m-ecc]] [[open-llm-vtuber-open-llm-vtuber]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

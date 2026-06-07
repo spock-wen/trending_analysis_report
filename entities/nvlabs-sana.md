@@ -33,7 +33,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[666ghj-mirofish]] [[chopratejas-headroom]] [[nousresearch-hermes-agent]] [[openmoss-moss-tts]] [[open-llm-vtuber-open-llm-vtuber]]
+[[nousresearch-hermes-agent]] [[openbmb-voxcpm]] [[666ghj-mirofish]] [[open-llm-vtuber-open-llm-vtuber]] [[openmoss-moss-tts]]
 
 **所属领域**: [[image-gen]]
 

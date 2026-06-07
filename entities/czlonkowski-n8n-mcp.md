@@ -34,7 +34,7 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ## 相关项目
 
-[[supermemoryai-supermemory]] [[chopratejas-headroom]] [[affaan-m-ecc]] [[copilotkit-copilotkit]] [[reconurge-flowsint]]
+[[aquasecurity-trivy]] [[supermemoryai-supermemory]] [[reconurge-flowsint]] [[affaan-m-ecc]] [[lfnovo-open-notebook]]
 
 **所属领域**: [[ai-agent]]
 

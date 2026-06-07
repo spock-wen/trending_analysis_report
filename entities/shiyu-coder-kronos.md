@@ -36,5 +36,5 @@ Kronos: A Foundation Model for the Language of Financial Markets
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[666ghj-mirofish]] [[chopratejas-headroom]] [[open-llm-vtuber-open-llm-vtuber]]
+[[open-llm-vtuber-open-llm-vtuber]] [[chopratejas-headroom]] [[nousresearch-hermes-agent]] [[666ghj-mirofish]]
 

@@ -34,7 +34,7 @@ The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[chopratejas-headroom]] [[supermemoryai-supermemory]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]]
+[[aquasecurity-trivy]] [[nesquena-hermes-webui]] [[d4vinci-scrapling]] [[supermemoryai-supermemory]] [[reconurge-flowsint]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

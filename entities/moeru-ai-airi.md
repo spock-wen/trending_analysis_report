@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[chopratejas-headroom]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]]
+[[aquasecurity-trivy]] [[nesquena-hermes-webui]] [[d4vinci-scrapling]] [[supermemoryai-supermemory]] [[reconurge-flowsint]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

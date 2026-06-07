@@ -37,7 +37,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[supermemoryai-supermemory]] [[chopratejas-headroom]] [[can1357-oh-my-pi]] [[affaan-m-ecc]] [[openclaw-openclaw-windows-node]]
+[[can1357-oh-my-pi]] [[aquasecurity-trivy]] [[byoungd-english-level-up-tips]] [[harry0703-moneyprinterturbo]] [[supermemoryai-supermemory]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[666ghj-mirofish]] [[chopratejas-headroom]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[openmoss-moss-tts]]
+[[nousresearch-hermes-agent]] [[aquasecurity-trivy]] [[openbmb-voxcpm]] [[affaan-m-ecc]] [[666ghj-mirofish]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

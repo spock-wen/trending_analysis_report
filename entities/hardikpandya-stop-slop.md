@@ -37,7 +37,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[aquasecurity-trivy]] [[chopratejas-headroom]] [[open-llm-vtuber-open-llm-vtuber]]
+[[open-llm-vtuber-open-llm-vtuber]] [[chopratejas-headroom]] [[aquasecurity-trivy]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

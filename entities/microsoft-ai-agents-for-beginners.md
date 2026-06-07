@@ -35,5 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[stefan-jansen-machine-learning-for-trading]] [[fareedkhan-dev-train-llm-from-scratch]] [[affaan-m-ecc]] [[lyogavin-airllm]] [[byoungd-english-level-up-tips]]
+[[chopratejas-headroom]] [[affaan-m-ecc]] [[nvidia-cosmos]] [[jamwithai-production-agentic-rag-course]] [[stefan-jansen-machine-learning-for-trading]]
+
+**所属领域**: [[ai-agent]] [[education]]
 

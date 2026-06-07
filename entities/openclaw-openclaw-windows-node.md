@@ -34,5 +34,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[dotnet-skills]] [[can1357-oh-my-pi]] [[panniantong-agent-reach]] [[harry0703-moneyprinterturbo]] [[jellyfin-jellyfin]]
+[[dotnet-skills]] [[jellyfin-jellyfin]] [[harry0703-moneyprinterturbo]] [[can1357-oh-my-pi]] [[panniantong-agent-reach]]
+
+**所属领域**: [[cli]]
 

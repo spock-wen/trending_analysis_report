@@ -35,5 +35,7 @@ Lightning-Fast, On-Device, Multilingual TTS running natively via ONNX.
 
 ## 相关项目
 
-[[openmoss-moss-tts]] [[openbmb-voxcpm]] [[moeru-ai-airi]] [[manaflow-ai-cmux]] [[open-llm-vtuber-open-llm-vtuber]]
+[[moeru-ai-airi]] [[manaflow-ai-cmux]] [[openmoss-moss-tts]] [[open-llm-vtuber-open-llm-vtuber]] [[openbmb-voxcpm]]
+
+**所属领域**: [[audio]]
 

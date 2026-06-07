@@ -33,5 +33,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[openclaw-openclaw-windows-node]] [[open-llm-vtuber-open-llm-vtuber]] [[can1357-oh-my-pi]] [[affaan-m-ecc]] [[aquasecurity-trivy]]
+[[msitarzewski-agency-agents]] [[chopratejas-headroom]] [[can1357-oh-my-pi]] [[affaan-m-ecc]] [[openclaw-openclaw-windows-node]]
+
+**所属领域**: [[ai-agent]] [[cli]]
 

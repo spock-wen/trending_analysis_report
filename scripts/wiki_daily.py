@@ -310,6 +310,21 @@ total_stars: {r.get('last_stars', 0) or 0}
 language: "{lang}"
 ---"""
         
+        # 相关项目链接（entity + concept）
+        related_links_str = ' '.join(related_links) if related_links else ''
+        # 加上所属 concept 页面的链接（解决 concept 页面孤立问题）
+        concept_links = [f'[[{d}]]' for d in repo_domains.get(repo, [])]
+        concept_links_str = ' '.join(concept_links) if concept_links else ''
+        
+        if related_links_str and concept_links_str:
+            all_related = f"{related_links_str}\n\n**所属领域**: {concept_links_str}"
+        elif concept_links_str:
+            all_related = f"**所属领域**: {concept_links_str}"
+        elif related_links_str:
+            all_related = related_links_str
+        else:
+            all_related = '- 暂无'
+        
         # Body
         body = f"""# {repo}
 
@@ -327,7 +342,7 @@ language: "{lang}"
 
 ## 相关项目
 
-{' '.join(related_links) if related_links else '- 暂无'}
+{all_related}
 """
         
         with open(entity_path, 'w') as f:

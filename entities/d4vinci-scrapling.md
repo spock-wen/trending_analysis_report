@@ -36,5 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[nousresearch-hermes-agent]] [[mvanhorn-last30days-skill]] [[open-llm-vtuber-open-llm-vtuber]] [[copilotkit-copilotkit]]
+[[nesquena-hermes-webui]] [[666ghj-mirofish]] [[mvanhorn-last30days-skill]] [[chopratejas-headroom]] [[copilotkit-copilotkit]]
+
+**所属领域**: [[web]]
 

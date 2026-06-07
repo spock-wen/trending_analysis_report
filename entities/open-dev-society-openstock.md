@@ -33,5 +33,7 @@ OpenStock is an open-source alternative to expensive market platforms. Track rea
 
 ## 相关项目
 
-[[reconurge-flowsint]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[aquasecurity-trivy]] [[open-llm-vtuber-open-llm-vtuber]]
+[[supermemoryai-supermemory]] [[chopratejas-headroom]] [[affaan-m-ecc]] [[copilotkit-copilotkit]] [[reconurge-flowsint]]
+
+**所属领域**: [[ai-agent]]
 

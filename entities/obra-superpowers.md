@@ -37,5 +37,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[openclaw-openclaw-windows-node]] [[diolinux-photogimp]] [[open-llm-vtuber-open-llm-vtuber]] [[can1357-oh-my-pi]] [[affaan-m-ecc]]
+[[harry0703-moneyprinterturbo]] [[msitarzewski-agency-agents]] [[chopratejas-headroom]] [[can1357-oh-my-pi]] [[affaan-m-ecc]]
+
+**所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

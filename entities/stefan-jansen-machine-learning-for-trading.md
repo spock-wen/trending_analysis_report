@@ -34,5 +34,7 @@ Code for Machine Learning for Algorithmic Trading, 2nd edition.
 
 ## 相关项目
 
-[[fareedkhan-dev-train-llm-from-scratch]] [[byoungd-english-level-up-tips]] [[lyogavin-airllm]] [[nvidia-cosmos]] [[datatalksclub-data-engineering-zoomcamp]]
+[[nvidia-cosmos]] [[jamwithai-production-agentic-rag-course]] [[datatalksclub-data-engineering-zoomcamp]] [[lyogavin-airllm]] [[byoungd-english-level-up-tips]]
+
+**所属领域**: [[education]]
 

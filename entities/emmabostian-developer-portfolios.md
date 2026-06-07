@@ -33,5 +33,5 @@ A list of developer portfolios for your inspiration
 
 ## 相关项目
 
-[[open-llm-vtuber-open-llm-vtuber]] [[nousresearch-hermes-agent]] [[666ghj-mirofish]] [[chopratejas-headroom]]
+[[nousresearch-hermes-agent]] [[666ghj-mirofish]] [[chopratejas-headroom]] [[open-llm-vtuber-open-llm-vtuber]]
 

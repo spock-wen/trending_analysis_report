@@ -36,5 +36,7 @@ Public repository for Agent Skills
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[aquasecurity-trivy]] [[open-llm-vtuber-open-llm-vtuber]] [[666ghj-mirofish]]
+[[666ghj-mirofish]] [[chopratejas-headroom]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[open-llm-vtuber-open-llm-vtuber]]
+
+**所属领域**: [[ai-agent]]
 

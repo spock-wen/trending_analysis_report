@@ -37,5 +37,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[openclaw-openclaw-windows-node]] [[reconurge-flowsint]] [[supermemoryai-supermemory]] [[stefan-jansen-machine-learning-for-trading]]
+[[supermemoryai-supermemory]] [[chopratejas-headroom]] [[can1357-oh-my-pi]] [[affaan-m-ecc]] [[openclaw-openclaw-windows-node]]
+
+**所属领域**: [[ai-agent]] [[cli]] [[education]]
 

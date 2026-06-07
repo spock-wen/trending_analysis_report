@@ -36,5 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[openclaw-openclaw-windows-node]] [[reconurge-flowsint]] [[supermemoryai-supermemory]] [[affaan-m-ecc]]
+[[nesquena-hermes-webui]] [[supermemoryai-supermemory]] [[chopratejas-headroom]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]]
+
+**所属领域**: [[ai-agent]] [[web]] [[cli]]
 

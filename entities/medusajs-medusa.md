@@ -33,5 +33,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[reconurge-flowsint]] [[diolinux-photogimp]] [[supermemoryai-supermemory]] [[cloakhq-cloakbrowser]] [[copilotkit-copilotkit]]
+[[supermemoryai-supermemory]] [[copilotkit-copilotkit]] [[reconurge-flowsint]] [[obra-superpowers]] [[diolinux-photogimp]]
+
+**所属领域**: [[erp]]
 

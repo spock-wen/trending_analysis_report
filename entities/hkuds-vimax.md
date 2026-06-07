@@ -34,5 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[galilai-group-stable-worldmodel]] [[nousresearch-hermes-agent]] [[paddlepaddle-paddleocr]] [[affaan-m-ecc]] [[openmoss-moss-tts]]
+[[666ghj-mirofish]] [[chopratejas-headroom]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[openmoss-moss-tts]]
+
+**所属领域**: [[ai-agent]] [[image-gen]]
 

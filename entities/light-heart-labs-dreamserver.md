@@ -33,5 +33,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[galilai-group-stable-worldmodel]] [[nousresearch-hermes-agent]] [[paddlepaddle-paddleocr]] [[affaan-m-ecc]] [[openmoss-moss-tts]]
+[[666ghj-mirofish]] [[chopratejas-headroom]] [[moeru-ai-airi]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]]
+
+**所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

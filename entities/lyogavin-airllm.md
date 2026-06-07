@@ -33,5 +33,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[stefan-jansen-machine-learning-for-trading]] [[fareedkhan-dev-train-llm-from-scratch]] [[affaan-m-ecc]] [[aquasecurity-trivy]] [[nvidia-cosmos]]
+[[chopratejas-headroom]] [[affaan-m-ecc]] [[nvidia-cosmos]] [[stefan-jansen-machine-learning-for-trading]] [[open-llm-vtuber-open-llm-vtuber]]
+
+**所属领域**: [[ai-agent]]
 

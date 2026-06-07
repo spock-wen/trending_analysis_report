@@ -37,5 +37,7 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[iii-hq-iii]] [[dmtrkovalenko-fff]] [[affaan-m-ecc]] [[aquasecurity-trivy]] [[run-llama-liteparse]]
+[[chopratejas-headroom]] [[dmtrkovalenko-fff]] [[affaan-m-ecc]] [[ruvnet-ruview]] [[iii-hq-iii]]
+
+**所属领域**: [[ai-agent]]
 

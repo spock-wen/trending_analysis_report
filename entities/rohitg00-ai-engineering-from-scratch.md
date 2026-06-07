@@ -37,5 +37,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[stefan-jansen-machine-learning-for-trading]] [[nousresearch-hermes-agent]] [[byoungd-english-level-up-tips]] [[affaan-m-ecc]] [[aquasecurity-trivy]]
+[[666ghj-mirofish]] [[chopratejas-headroom]] [[affaan-m-ecc]] [[jamwithai-production-agentic-rag-course]] [[stefan-jansen-machine-learning-for-trading]]
+
+**所属领域**: [[ai-agent]] [[education]]
 

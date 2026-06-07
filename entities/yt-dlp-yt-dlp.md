@@ -33,5 +33,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[openclaw-openclaw-windows-node]] [[nousresearch-hermes-agent]] [[can1357-oh-my-pi]] [[openmoss-moss-tts]] [[openbmb-voxcpm]]
+[[666ghj-mirofish]] [[chopratejas-headroom]] [[can1357-oh-my-pi]] [[moeru-ai-airi]] [[nousresearch-hermes-agent]]
+
+**所属领域**: [[cli]] [[audio]]
 

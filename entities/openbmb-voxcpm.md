@@ -36,5 +36,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[galilai-group-stable-worldmodel]] [[nousresearch-hermes-agent]] [[paddlepaddle-paddleocr]] [[openmoss-moss-tts]] [[moeru-ai-airi]]
+[[666ghj-mirofish]] [[chopratejas-headroom]] [[moeru-ai-airi]] [[nousresearch-hermes-agent]] [[openmoss-moss-tts]]
+
+**所属领域**: [[image-gen]] [[audio]]
 

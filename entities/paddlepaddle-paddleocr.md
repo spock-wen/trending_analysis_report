@@ -35,5 +35,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[galilai-group-stable-worldmodel]] [[nousresearch-hermes-agent]] [[fareedkhan-dev-train-llm-from-scratch]] [[affaan-m-ecc]] [[openmoss-moss-tts]]
+[[galilai-group-stable-worldmodel]] [[666ghj-mirofish]] [[chopratejas-headroom]] [[affaan-m-ecc]] [[opendataloader-project-opendataloader-pdf]]
+
+**所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

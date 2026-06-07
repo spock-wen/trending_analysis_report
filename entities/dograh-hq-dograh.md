@@ -33,5 +33,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[openmoss-moss-tts]] [[aquasecurity-trivy]] [[openbmb-voxcpm]]
+[[666ghj-mirofish]] [[chopratejas-headroom]] [[moeru-ai-airi]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]]
+
+**所属领域**: [[ai-agent]] [[audio]]
 

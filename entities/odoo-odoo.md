@@ -34,5 +34,7 @@ Odoo. Open Source Apps To Grow Your Business.
 
 ## 相关项目
 
-[[diolinux-photogimp]] [[nousresearch-hermes-agent]] [[cloakhq-cloakbrowser]] [[open-llm-vtuber-open-llm-vtuber]] [[666ghj-mirofish]]
+[[666ghj-mirofish]] [[chopratejas-headroom]] [[obra-superpowers]] [[diolinux-photogimp]] [[nousresearch-hermes-agent]]
+
+**所属领域**: [[erp]]
 

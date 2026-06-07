@@ -33,5 +33,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[mvanhorn-last30days-skill]] [[cloakhq-cloakbrowser]] [[d4vinci-scrapling]] [[copilotkit-copilotkit]]
+[[nesquena-hermes-webui]] [[mvanhorn-last30days-skill]] [[copilotkit-copilotkit]] [[d4vinci-scrapling]] [[obra-superpowers]]
+
+**所属领域**: [[web]] [[erp]]
 

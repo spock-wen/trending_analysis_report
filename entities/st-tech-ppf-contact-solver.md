@@ -33,5 +33,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[openclaw-openclaw-windows-node]] [[nousresearch-hermes-agent]] [[can1357-oh-my-pi]] [[panniantong-agent-reach]] [[open-llm-vtuber-open-llm-vtuber]]
+[[666ghj-mirofish]] [[chopratejas-headroom]] [[can1357-oh-my-pi]] [[nousresearch-hermes-agent]] [[open-llm-vtuber-open-llm-vtuber]]
+
+**所属领域**: [[cli]]
 

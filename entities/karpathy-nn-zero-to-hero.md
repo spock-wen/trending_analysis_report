@@ -33,5 +33,5 @@ Neural Networks: Zero to Hero
 
 ## 相关项目
 
-[[nvidia-cosmos]] [[fareedkhan-dev-train-llm-from-scratch]] [[lyogavin-airllm]] [[stefan-jansen-machine-learning-for-trading]]
+[[stefan-jansen-machine-learning-for-trading]] [[nvidia-cosmos]] [[lyogavin-airllm]] [[fareedkhan-dev-train-llm-from-scratch]]
 

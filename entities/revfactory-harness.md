@@ -36,5 +36,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[copilotkit-copilotkit]] [[aquasecurity-trivy]]
+[[nesquena-hermes-webui]] [[chopratejas-headroom]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[copilotkit-copilotkit]]
+
+**所属领域**: [[ai-agent]] [[web]]
 

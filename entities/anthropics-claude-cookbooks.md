@@ -33,5 +33,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[stefan-jansen-machine-learning-for-trading]] [[fareedkhan-dev-train-llm-from-scratch]] [[affaan-m-ecc]] [[lyogavin-airllm]] [[aquasecurity-trivy]]
+[[chopratejas-headroom]] [[affaan-m-ecc]] [[nvidia-cosmos]] [[stefan-jansen-machine-learning-for-trading]] [[lyogavin-airllm]]
+
+**所属领域**: [[ai-agent]]
 

@@ -34,5 +34,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[reconurge-flowsint]] [[mukul975-anthropic-cybersecurity-skills]] [[paddlepaddle-paddleocr]] [[fareedkhan-dev-train-llm-from-scratch]]
+[[nesquena-hermes-webui]] [[mvanhorn-last30days-skill]] [[mukul975-anthropic-cybersecurity-skills]] [[affaan-m-ecc]] [[opendataloader-project-opendataloader-pdf]]
+
+**所属领域**: [[web]] [[data]] [[security]]
 

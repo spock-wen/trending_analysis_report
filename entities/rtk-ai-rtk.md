@@ -33,5 +33,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[openclaw-openclaw-windows-node]] [[iii-hq-iii]] [[dmtrkovalenko-fff]] [[affaan-m-ecc]] [[can1357-oh-my-pi]]
+[[chopratejas-headroom]] [[can1357-oh-my-pi]] [[dmtrkovalenko-fff]] [[affaan-m-ecc]] [[openclaw-openclaw-windows-node]]
+
+**所属领域**: [[ai-agent]] [[cli]]
 

@@ -35,5 +35,5 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[copilotkit-copilotkit]] [[mukul975-anthropic-cybersecurity-skills]] [[supermemoryai-supermemory]] [[aquasecurity-trivy]] [[lfnovo-open-notebook]]
+[[supermemoryai-supermemory]] [[mukul975-anthropic-cybersecurity-skills]] [[affaan-m-ecc]] [[aquasecurity-trivy]] [[copilotkit-copilotkit]]
 

@@ -37,5 +37,5 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[stefan-jansen-machine-learning-for-trading]] [[aquasecurity-trivy]] [[byoungd-english-level-up-tips]] [[nousresearch-hermes-agent]] [[666ghj-mirofish]]
+[[stefan-jansen-machine-learning-for-trading]] [[nousresearch-hermes-agent]] [[byoungd-english-level-up-tips]] [[affaan-m-ecc]] [[aquasecurity-trivy]]
 

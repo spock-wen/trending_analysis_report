@@ -33,5 +33,5 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[copilotkit-copilotkit]] [[obra-superpowers]] [[mvanhorn-last30days-skill]] [[cloakhq-cloakbrowser]] [[odoo-odoo]]
+[[nesquena-hermes-webui]] [[mvanhorn-last30days-skill]] [[cloakhq-cloakbrowser]] [[d4vinci-scrapling]] [[copilotkit-copilotkit]]
 

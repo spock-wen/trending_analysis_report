@@ -37,5 +37,5 @@ language: "Python"
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[can1357-oh-my-pi]] [[openclaw-openclaw-windows-node]] [[aquasecurity-trivy]] [[nousresearch-hermes-agent]]
+[[openclaw-openclaw-windows-node]] [[reconurge-flowsint]] [[nousresearch-hermes-agent]] [[can1357-oh-my-pi]] [[affaan-m-ecc]]
 

@@ -34,5 +34,5 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[nvidia-cosmos]] [[paddlepaddle-paddleocr]] [[fareedkhan-dev-train-llm-from-scratch]] [[aquasecurity-trivy]] [[nousresearch-hermes-agent]]
+[[nousresearch-hermes-agent]] [[paddlepaddle-paddleocr]] [[affaan-m-ecc]] [[fareedkhan-dev-train-llm-from-scratch]] [[aquasecurity-trivy]]
 

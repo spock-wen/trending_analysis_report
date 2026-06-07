@@ -35,5 +35,5 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[copilotkit-copilotkit]] [[nesquena-hermes-webui]] [[aquasecurity-trivy]] [[nousresearch-hermes-agent]] [[666ghj-mirofish]]
+[[nesquena-hermes-webui]] [[tauricresearch-tradingagents]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[aquasecurity-trivy]]
 

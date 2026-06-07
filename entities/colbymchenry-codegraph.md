@@ -37,5 +37,5 @@ Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H
 
 ## 相关项目
 
-[[copilotkit-copilotkit]] [[supermemoryai-supermemory]] [[aquasecurity-trivy]] [[lfnovo-open-notebook]] [[reconurge-flowsint]]
+[[reconurge-flowsint]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[aquasecurity-trivy]] [[open-llm-vtuber-open-llm-vtuber]]
 

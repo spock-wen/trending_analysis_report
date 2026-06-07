@@ -34,5 +34,5 @@ What are the principles we can use to build LLM-powered software that is actuall
 
 ## 相关项目
 
-[[copilotkit-copilotkit]] [[supermemoryai-supermemory]] [[aquasecurity-trivy]] [[lfnovo-open-notebook]] [[reconurge-flowsint]]
+[[reconurge-flowsint]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[aquasecurity-trivy]] [[open-llm-vtuber-open-llm-vtuber]]
 

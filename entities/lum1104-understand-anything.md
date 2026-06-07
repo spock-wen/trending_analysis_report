@@ -37,5 +37,5 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[copilotkit-copilotkit]] [[harry0703-moneyprinterturbo]] [[can1357-oh-my-pi]] [[openclaw-openclaw-windows-node]] [[supermemoryai-supermemory]]
+[[datatalksclub-data-engineering-zoomcamp]] [[openclaw-openclaw-windows-node]] [[reconurge-flowsint]] [[supermemoryai-supermemory]] [[stefan-jansen-machine-learning-for-trading]]
 

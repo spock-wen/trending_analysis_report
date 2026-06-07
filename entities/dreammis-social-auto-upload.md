@@ -33,5 +33,5 @@ language: "Python"
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[open-llm-vtuber-open-llm-vtuber]] [[666ghj-mirofish]] [[chopratejas-headroom]]
+[[open-llm-vtuber-open-llm-vtuber]] [[nousresearch-hermes-agent]] [[666ghj-mirofish]] [[chopratejas-headroom]]
 

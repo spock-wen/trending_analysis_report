@@ -35,5 +35,5 @@ The agent that grows with you
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[aquasecurity-trivy]] [[666ghj-mirofish]] [[chopratejas-headroom]] [[tauricresearch-tradingagents]]
+[[tauricresearch-tradingagents]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[aquasecurity-trivy]] [[open-llm-vtuber-open-llm-vtuber]]
 

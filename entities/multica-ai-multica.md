@@ -35,5 +35,5 @@ The open-source managed agents platform. Turn coding agents into real teammates 
 
 ## 相关项目
 
-[[copilotkit-copilotkit]] [[supermemoryai-supermemory]] [[aquasecurity-trivy]] [[lfnovo-open-notebook]] [[reconurge-flowsint]]
+[[reconurge-flowsint]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[aquasecurity-trivy]] [[open-llm-vtuber-open-llm-vtuber]]
 

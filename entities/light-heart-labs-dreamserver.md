@@ -33,5 +33,5 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[paddlepaddle-paddleocr]] [[aquasecurity-trivy]] [[nousresearch-hermes-agent]] [[galilai-group-stable-worldmodel]]
+[[galilai-group-stable-worldmodel]] [[nousresearch-hermes-agent]] [[paddlepaddle-paddleocr]] [[affaan-m-ecc]] [[openmoss-moss-tts]]
 

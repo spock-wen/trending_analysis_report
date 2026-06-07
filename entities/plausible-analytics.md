@@ -34,5 +34,5 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[nvidia-cosmos]] [[copilotkit-copilotkit]] [[paddlepaddle-paddleocr]] [[fareedkhan-dev-train-llm-from-scratch]] [[mvanhorn-last30days-skill]]
+[[nesquena-hermes-webui]] [[reconurge-flowsint]] [[mukul975-anthropic-cybersecurity-skills]] [[paddlepaddle-paddleocr]] [[fareedkhan-dev-train-llm-from-scratch]]
 

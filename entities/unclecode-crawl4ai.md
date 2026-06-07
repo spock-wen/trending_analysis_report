@@ -33,5 +33,5 @@ language: "Python"
 
 ## 相关项目
 
-[[copilotkit-copilotkit]] [[nesquena-hermes-webui]] [[mvanhorn-last30days-skill]] [[aquasecurity-trivy]] [[nousresearch-hermes-agent]]
+[[nesquena-hermes-webui]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[aquasecurity-trivy]]
 

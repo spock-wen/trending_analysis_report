@@ -33,5 +33,5 @@ A Python framework for self-hosted LLM tool-calling and multi-step agentic workf
 
 ## 相关项目
 
-[[aquasecurity-trivy]] [[nousresearch-hermes-agent]] [[666ghj-mirofish]] [[chopratejas-headroom]] [[affaan-m-ecc]]
+[[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[aquasecurity-trivy]] [[open-llm-vtuber-open-llm-vtuber]] [[666ghj-mirofish]]
 

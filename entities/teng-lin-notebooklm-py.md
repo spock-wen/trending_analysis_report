@@ -33,5 +33,5 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[copilotkit-copilotkit]] [[harry0703-moneyprinterturbo]] [[can1357-oh-my-pi]] [[nesquena-hermes-webui]] [[mvanhorn-last30days-skill]]
+[[nesquena-hermes-webui]] [[openclaw-openclaw-windows-node]] [[nousresearch-hermes-agent]] [[can1357-oh-my-pi]] [[affaan-m-ecc]]
 

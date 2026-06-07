@@ -33,5 +33,5 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[can1357-oh-my-pi]] [[msitarzewski-agency-agents]] [[openclaw-openclaw-windows-node]]
+[[openclaw-openclaw-windows-node]] [[open-llm-vtuber-open-llm-vtuber]] [[can1357-oh-my-pi]] [[affaan-m-ecc]] [[aquasecurity-trivy]]
 

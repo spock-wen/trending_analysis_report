@@ -36,5 +36,5 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[aquasecurity-trivy]] [[nousresearch-hermes-agent]] [[666ghj-mirofish]] [[chopratejas-headroom]]
+[[tauricresearch-tradingagents]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[aquasecurity-trivy]]
 

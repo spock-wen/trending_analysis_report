@@ -33,5 +33,5 @@ Create and share 3D architectural projects.
 
 ## 相关项目
 
-[[copilotkit-copilotkit]] [[supermemoryai-supermemory]] [[lfnovo-open-notebook]] [[reconurge-flowsint]]
+[[copilotkit-copilotkit]] [[lfnovo-open-notebook]] [[reconurge-flowsint]] [[supermemoryai-supermemory]]
 

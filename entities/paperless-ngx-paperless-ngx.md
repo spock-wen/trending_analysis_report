@@ -33,5 +33,5 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[nousresearch-hermes-agent]] [[666ghj-mirofish]] [[chopratejas-headroom]] [[tauricresearch-tradingagents]]
+[[tauricresearch-tradingagents]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[open-llm-vtuber-open-llm-vtuber]]
 

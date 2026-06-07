@@ -34,5 +34,5 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[paddlepaddle-paddleocr]] [[mvanhorn-last30days-skill]] [[aquasecurity-trivy]] [[nousresearch-hermes-agent]]
+[[tauricresearch-tradingagents]] [[nousresearch-hermes-agent]] [[paddlepaddle-paddleocr]] [[affaan-m-ecc]] [[openmoss-moss-tts]]
 

@@ -36,5 +36,5 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60
 
 ## 相关项目
 
-[[aquasecurity-trivy]] [[nousresearch-hermes-agent]] [[666ghj-mirofish]] [[affaan-m-ecc]] [[open-llm-vtuber-open-llm-vtuber]]
+[[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[aquasecurity-trivy]] [[open-llm-vtuber-open-llm-vtuber]] [[666ghj-mirofish]]
 

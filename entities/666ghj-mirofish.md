@@ -35,5 +35,5 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything.
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[open-llm-vtuber-open-llm-vtuber]] [[chopratejas-headroom]]
+[[open-llm-vtuber-open-llm-vtuber]] [[nousresearch-hermes-agent]] [[chopratejas-headroom]]
 

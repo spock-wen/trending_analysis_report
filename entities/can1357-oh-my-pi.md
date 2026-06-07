@@ -36,5 +36,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[copilotkit-copilotkit]] [[harry0703-moneyprinterturbo]] [[nesquena-hermes-webui]] [[mvanhorn-last30days-skill]] [[openclaw-openclaw-windows-node]]
+[[nesquena-hermes-webui]] [[openclaw-openclaw-windows-node]] [[reconurge-flowsint]] [[supermemoryai-supermemory]] [[affaan-m-ecc]]
 

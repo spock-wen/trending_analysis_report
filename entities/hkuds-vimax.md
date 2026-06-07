@@ -34,5 +34,5 @@ language: "Python"
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[paddlepaddle-paddleocr]] [[aquasecurity-trivy]] [[nousresearch-hermes-agent]] [[galilai-group-stable-worldmodel]]
+[[galilai-group-stable-worldmodel]] [[nousresearch-hermes-agent]] [[paddlepaddle-paddleocr]] [[affaan-m-ecc]] [[openmoss-moss-tts]]
 

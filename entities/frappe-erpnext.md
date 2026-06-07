@@ -33,5 +33,5 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[obra-superpowers]] [[diolinux-photogimp]] [[cloakhq-cloakbrowser]] [[odoo-odoo]] [[nousresearch-hermes-agent]]
+[[diolinux-photogimp]] [[nousresearch-hermes-agent]] [[cloakhq-cloakbrowser]] [[open-llm-vtuber-open-llm-vtuber]] [[666ghj-mirofish]]
 

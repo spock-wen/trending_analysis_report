@@ -33,5 +33,5 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[harry0703-moneyprinterturbo]] [[can1357-oh-my-pi]] [[openclaw-openclaw-windows-node]] [[nousresearch-hermes-agent]]
+[[openclaw-openclaw-windows-node]] [[nousresearch-hermes-agent]] [[can1357-oh-my-pi]] [[openmoss-moss-tts]] [[openbmb-voxcpm]]
 

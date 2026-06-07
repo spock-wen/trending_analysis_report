@@ -34,5 +34,5 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[copilotkit-copilotkit]] [[nesquena-hermes-webui]] [[mvanhorn-last30days-skill]] [[supermemoryai-supermemory]] [[aquasecurity-trivy]]
+[[nesquena-hermes-webui]] [[reconurge-flowsint]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]]
 

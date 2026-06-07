@@ -35,5 +35,5 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[copilotkit-copilotkit]] [[obra-superpowers]] [[can1357-oh-my-pi]] [[harry0703-moneyprinterturbo]] [[nesquena-hermes-webui]]
+[[nesquena-hermes-webui]] [[openclaw-openclaw-windows-node]] [[open-llm-vtuber-open-llm-vtuber]] [[can1357-oh-my-pi]] [[affaan-m-ecc]]
 

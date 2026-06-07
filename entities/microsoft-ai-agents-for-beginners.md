@@ -35,5 +35,5 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[nvidia-cosmos]] [[fareedkhan-dev-train-llm-from-scratch]] [[stefan-jansen-machine-learning-for-trading]] [[lyogavin-airllm]] [[aquasecurity-trivy]]
+[[stefan-jansen-machine-learning-for-trading]] [[fareedkhan-dev-train-llm-from-scratch]] [[affaan-m-ecc]] [[lyogavin-airllm]] [[byoungd-english-level-up-tips]]
 

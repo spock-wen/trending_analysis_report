@@ -33,5 +33,5 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[affaan-m-ecc]] [[can1357-oh-my-pi]] [[run-llama-liteparse]] [[openclaw-openclaw-windows-node]]
+[[openclaw-openclaw-windows-node]] [[iii-hq-iii]] [[dmtrkovalenko-fff]] [[affaan-m-ecc]] [[can1357-oh-my-pi]]
 

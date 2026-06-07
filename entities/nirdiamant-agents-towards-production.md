@@ -33,5 +33,5 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[nvidia-cosmos]] [[obra-superpowers]] [[fareedkhan-dev-train-llm-from-scratch]] [[diolinux-photogimp]] [[cloakhq-cloakbrowser]]
+[[diolinux-photogimp]] [[stefan-jansen-machine-learning-for-trading]] [[fareedkhan-dev-train-llm-from-scratch]] [[affaan-m-ecc]] [[lyogavin-airllm]]
 

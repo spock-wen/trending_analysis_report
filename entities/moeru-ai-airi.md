@@ -34,5 +34,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[copilotkit-copilotkit]] [[nesquena-hermes-webui]] [[mvanhorn-last30days-skill]] [[supermemoryai-supermemory]]
+[[nesquena-hermes-webui]] [[reconurge-flowsint]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]]
 

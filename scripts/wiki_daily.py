@@ -347,7 +347,7 @@ def generate_concepts(all_repos, repo_domains, domain_map):
     print(f"[3/5] 生成 Concept 页面...")
     os.makedirs(CONCEPTS_DIR, exist_ok=True)
     
-    # 获取今日上榜的 repo
+    # 获取今日上榜的 repo（用于统计，但链接所有同领域项目）
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.execute(
         'SELECT repo_full_name FROM trending_daily WHERE date = ? AND period = ?',
@@ -363,9 +363,9 @@ def generate_concepts(all_repos, repo_domains, domain_map):
         if domain == 'uncategorized':
             continue
         
-        # 今日上榜的同领域项目
+        # 今日上榜的同领域项目（用于统计）
         today_in_domain = [r for r in repos if r in today_repos]
-        if len(today_in_domain) < 2:  # 至少2个才值得建 concept
+        if len(today_in_domain) < 2:  # 至少2个今日上榜才值得更新 concept
             continue
         
         concept_path = f'{CONCEPTS_DIR}/{domain}.md'
@@ -379,14 +379,12 @@ def generate_concepts(all_repos, repo_domains, domain_map):
             m = re.search(r'^created:\s*(\S+)', orig_content, re.MULTILINE)
             orig_created = m.group(1) if m else TODAY
         
-        # 生成 wikilinks
-        links = [f'[[{r.replace("/", "-").lower()}]]' for r in today_in_domain]
+        # 生成 wikilinks — 链接所有同领域项目（解决孤立页面问题）
+        links = [f'[[{r.replace("/", "-").lower()}]]' for r in repos]
         
-        # 统计
+        # 统计（基于所有同领域项目）
         lang_dist = defaultdict(int)
-        total_stars_today = 0
-        for r in today_in_domain:
-            # 从 repo_stats 获取语言
+        for r in repos:
             repo_data = next((x for x in all_repos if x['repo_full_name'] == r), None)
             if repo_data:
                 lang_dist[repo_data.get('language', '?') or '?'] += 1
@@ -404,7 +402,7 @@ confidence: medium
         
         body = f"""# {domain}
 
-## 今日上榜项目（{len(today_in_domain)} 个）
+## 领域项目（共 {len(repos)} 个，今日上榜 {len(today_in_domain)} 个）
 
 {' '.join(links)}
 
@@ -414,7 +412,7 @@ confidence: medium
 
 ## 趋势观察
 
-{len(today_in_domain)} 个 {domain} 领域项目今日同时上榜，反映该领域持续活跃。
+{len(repos)} 个 {domain} 领域项目被追踪，其中 {len(today_in_domain)} 个今日同时上榜，反映该领域持续活跃。
 """
         
         with open(concept_path, 'w') as f:

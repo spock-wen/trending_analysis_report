@@ -34,5 +34,5 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[copilotkit-copilotkit]] [[harry0703-moneyprinterturbo]] [[can1357-oh-my-pi]] [[mvanhorn-last30days-skill]] [[openclaw-openclaw-windows-node]]
+[[nesquena-hermes-webui]] [[openclaw-openclaw-windows-node]] [[can1357-oh-my-pi]] [[mvanhorn-last30days-skill]] [[harry0703-moneyprinterturbo]]
 

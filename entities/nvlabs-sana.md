@@ -33,5 +33,5 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[paddlepaddle-paddleocr]] [[nousresearch-hermes-agent]] [[galilai-group-stable-worldmodel]] [[666ghj-mirofish]]
+[[galilai-group-stable-worldmodel]] [[nousresearch-hermes-agent]] [[paddlepaddle-paddleocr]] [[openmoss-moss-tts]] [[openbmb-voxcpm]]
 

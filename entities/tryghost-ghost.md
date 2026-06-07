@@ -33,5 +33,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[affaan-m-ecc]] [[openai-plugins]] [[axorax-awesome-free-apps]]
+[[pbakaus-impeccable]] [[axorax-awesome-free-apps]] [[affaan-m-ecc]] [[openai-plugins]]
 

@@ -34,5 +34,5 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 ## 相关项目
 
-[[aquasecurity-trivy]] [[nousresearch-hermes-agent]] [[666ghj-mirofish]] [[chopratejas-headroom]] [[affaan-m-ecc]]
+[[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[aquasecurity-trivy]] [[open-llm-vtuber-open-llm-vtuber]] [[666ghj-mirofish]]
 

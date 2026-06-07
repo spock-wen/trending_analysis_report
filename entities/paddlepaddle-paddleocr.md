@@ -35,5 +35,5 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[nvidia-cosmos]] [[openbmb-voxcpm]] [[fareedkhan-dev-train-llm-from-scratch]] [[aquasecurity-trivy]] [[nousresearch-hermes-agent]]
+[[galilai-group-stable-worldmodel]] [[nousresearch-hermes-agent]] [[fareedkhan-dev-train-llm-from-scratch]] [[affaan-m-ecc]] [[openmoss-moss-tts]]
 

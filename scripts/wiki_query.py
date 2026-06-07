@@ -143,10 +143,27 @@ def query_stats():
     return {'total': total, 'by_lang': by_lang, 'recent_7d': recent}
 
 
-def format_rows(rows):
+def format_rows(rows, as_json=False):
     """格式化查询结果"""
     if not rows:
-        return "无结果"
+        return "无结果" if not as_json else "[]"
+    
+    if as_json:
+        results = []
+        for row in rows:
+            if hasattr(row, 'keys'):
+                results.append({
+                    'repo': row['repo_full_name'],
+                    'description': row['description'] or '',
+                    'language': row['language'] or '',
+                    'stars': row['last_stars'] or 0,
+                    'trending_count': row['trending_count_daily'] or 0,
+                    'consecutive_days': row['consecutive_days'] or 0,
+                })
+            elif isinstance(row, dict):
+                results.append(row)
+        return json.dumps(results, ensure_ascii=False, indent=2)
+    
     lines = []
     for i, row in enumerate(rows, 1):
         if hasattr(row, 'keys'):
@@ -192,23 +209,23 @@ def main():
     if args.lang:
         rows = query_by_language(args.lang, args.sort, args.limit)
         print(f"🔍 语言: {args.lang} ({len(rows)} 个结果)")
-        print(format_rows(rows))
+        print(format_rows(rows, as_json=args.json))
     elif args.tag:
         rows = query_by_tag(args.tag, args.limit)
         print(f"🔍 标签: {args.tag} ({len(rows)} 个结果)")
-        print(format_rows(rows))
+        print(format_rows(rows, as_json=args.json))
     elif args.keyword:
         rows = query_by_keyword(args.keyword, args.limit)
         print(f"🔍 关键词: {args.keyword} ({len(rows)} 个结果)")
-        print(format_rows(rows))
+        print(format_rows(rows, as_json=args.json))
     elif args.rising:
         rows = query_rising(args.min_days, args.limit)
         print(f"🔍 连续上榜 >= {args.min_days} 天 ({len(rows)} 个结果)")
-        print(format_rows(rows))
+        print(format_rows(rows, as_json=args.json))
     elif args.top:
         rows = query_top(args.sort, args.top)
         print(f"🔍 Top {args.top} (按{args.sort})")
-        print(format_rows(rows))
+        print(format_rows(rows, as_json=args.json))
     else:
         parser.print_help()
 

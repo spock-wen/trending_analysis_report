@@ -36,7 +36,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[openmoss-moss-tts]] [[panniantong-agent-reach]] [[copilotkit-copilotkit]]
+[[andyyyy64-whichllm]] [[yikart-aitoearn]] [[openmoss-moss-tts]] [[openbmb-voxcpm]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

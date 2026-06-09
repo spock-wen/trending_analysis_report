@@ -1,0 +1,152 @@
+{
+  "date": "2026-06-10",
+  "scraped_at": "2026-06-10T07:00:33.204870",
+  "period": "daily",
+  "count": 16,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_today": 3177,
+      "total_stars": 37205,
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "rank": 2,
+      "repo": "RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Python",
+      "stars_today": 1800,
+      "total_stars": 10119,
+      "url": "https://github.com/RyanCodrai/turbovec"
+    },
+    {
+      "rank": 3,
+      "repo": "roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars_today": 735,
+      "total_stars": 42954,
+      "url": "https://github.com/roboflow/supervision"
+    },
+    {
+      "rank": 4,
+      "repo": "opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars_today": 169,
+      "total_stars": 88604,
+      "url": "https://github.com/opencv/opencv"
+    },
+    {
+      "rank": 5,
+      "repo": "refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars_today": 821,
+      "total_stars": 14281,
+      "url": "https://github.com/refactoringhq/tolaria"
+    },
+    {
+      "rank": 6,
+      "repo": "aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars_today": 490,
+      "total_stars": 48477,
+      "url": "https://github.com/aaif-goose/goose"
+    },
+    {
+      "rank": 7,
+      "repo": "Andyyyy64/whichllm",
+      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+      "language": "Python",
+      "stars_today": 631,
+      "total_stars": 4049,
+      "url": "https://github.com/Andyyyy64/whichllm"
+    },
+    {
+      "rank": 8,
+      "repo": "TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars_today": 517,
+      "total_stars": 73447,
+      "url": "https://github.com/TapXWorld/ChinaTextbook"
+    },
+    {
+      "rank": 9,
+      "repo": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": "",
+      "stars_today": 66,
+      "total_stars": 139131,
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    },
+    {
+      "rank": 10,
+      "repo": "yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars_today": 423,
+      "total_stars": 19882,
+      "url": "https://github.com/yikart/AiToEarn"
+    },
+    {
+      "rank": 11,
+      "repo": "phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "",
+      "stars_today": 808,
+      "total_stars": 13385,
+      "url": "https://github.com/phuryn/pm-skills"
+    },
+    {
+      "rank": 12,
+      "repo": "santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "stars_today": 1114,
+      "total_stars": 51584,
+      "url": "https://github.com/santifer/career-ops"
+    },
+    {
+      "rank": 13,
+      "repo": "openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars_today": 284,
+      "total_stars": 2582,
+      "url": "https://github.com/openai/plugins"
+    },
+    {
+      "rank": 14,
+      "repo": "maziyarpanahi/openmed",
+      "description": "open-source healthcare ai",
+      "language": "Python",
+      "stars_today": 165,
+      "total_stars": 1822,
+      "url": "https://github.com/maziyarpanahi/openmed"
+    },
+    {
+      "rank": 15,
+      "repo": "francescopace/espectre",
+      "description": "🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.",
+      "language": "Python",
+      "stars_today": 112,
+      "total_stars": 8181,
+      "url": "https://github.com/francescopace/espectre"
+    },
+    {
+      "rank": 16,
+      "repo": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars_today": 348,
+      "total_stars": 49789,
+      "url": "https://github.com/addyosmani/agent-skills"
+    }
+  ]
+}

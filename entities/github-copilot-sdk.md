@@ -34,7 +34,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[opendataloader-project-opendataloader-pdf]] [[copilotkit-copilotkit]] [[mempalace-mempalace]]
+[[yikart-aitoearn]] [[mvanhorn-last30days-skill]] [[opendataloader-project-opendataloader-pdf]] [[openai-plugins]] [[aaif-goose-goose]]
 
 **所属领域**: [[ai-agent]]
 

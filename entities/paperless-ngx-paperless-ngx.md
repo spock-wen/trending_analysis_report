@@ -33,7 +33,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[affaan-m-ecc]]
+[[andyyyy64-whichllm]] [[tauricresearch-tradingagents]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[roboflow-supervision]]
 
 **所属领域**: [[science]]
 

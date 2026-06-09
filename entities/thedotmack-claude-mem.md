@@ -33,7 +33,7 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 
 ## 相关项目
 
-[[refactoringhq-tolaria]] [[mvanhorn-last30days-skill]] [[lfnovo-open-notebook]] [[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]]
+[[yikart-aitoearn]] [[mvanhorn-last30days-skill]] [[crosstalk-solutions-project-nomad]] [[openai-plugins]] [[copilotkit-copilotkit]]
 
 **所属领域**: [[ai-agent]]
 

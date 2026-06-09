@@ -1,19 +1,19 @@
 ---
 title: "RyanCodrai/turbovec"
 created: 2026-06-08
-updated: 2026-06-09
+updated: 2026-06-10
 type: tool
-tags: [python, ai-agent]
-sources: [raw/trending/2026-06-09.json]
-confidence: medium
-trending_count_daily: 2
+tags: [python, ai-agent, rising]
+sources: [raw/trending/2026-06-10.json]
+confidence: high
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 3
 first_trending: 2026-06-08
-last_trending: 2026-06-09
+last_trending: 2026-06-10
 peak_rank: 2
-total_stars: 8825
+total_stars: 10119
 language: "Python"
 ---
 
@@ -22,19 +22,20 @@ language: "Python"
 A vector index built on TurboQuant, written in Rust with Python bindings
 
 - 语言: Python
-- 上榜次数: 2 次
-- 连续上榜: 2 天
+- 上榜次数: 3 次
+- 连续上榜: 3 天
 - 最高排名: #2
 - 链接: [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)
 
 ## 上榜历史
 
+  - 2026-06-10: #2, +1800⭐
   - 2026-06-09: #2, +1729⭐
   - 2026-06-08: #10, +1533⭐
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mempalace-mempalace]] [[mvanhorn-last30days-skill]] [[copilotkit-copilotkit]]
+[[andyyyy64-whichllm]] [[yikart-aitoearn]] [[mvanhorn-last30days-skill]] [[roboflow-supervision]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]]
 

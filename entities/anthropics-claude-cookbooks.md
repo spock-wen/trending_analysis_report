@@ -33,7 +33,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[stefan-jansen-machine-learning-for-trading]] [[fareedkhan-dev-train-llm-from-scratch]] [[copilotkit-copilotkit]]
+[[yikart-aitoearn]] [[nvidia-cosmos]] [[mvanhorn-last30days-skill]] [[lyogavin-airllm]] [[fareedkhan-dev-train-llm-from-scratch]]
 
 **所属领域**: [[ai-agent]]
 

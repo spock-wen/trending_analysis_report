@@ -36,7 +36,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[revfactory-harness]] [[d4vinci-scrapling]] [[panniantong-agent-reach]] [[nesquena-hermes-webui]]
+[[revfactory-harness]] [[d4vinci-scrapling]] [[yikart-aitoearn]] [[nesquena-hermes-webui]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

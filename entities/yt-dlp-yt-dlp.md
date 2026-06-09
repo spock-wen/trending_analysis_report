@@ -33,7 +33,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[openmoss-moss-tts]] [[open-llm-vtuber-open-llm-vtuber]] [[panniantong-agent-reach]]
+[[andyyyy64-whichllm]] [[openmoss-moss-tts]] [[openbmb-voxcpm]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[cli]] [[audio]]
 

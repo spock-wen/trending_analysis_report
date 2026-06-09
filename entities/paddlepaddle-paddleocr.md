@@ -35,7 +35,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[openmoss-moss-tts]] [[panniantong-agent-reach]] [[fareedkhan-dev-train-llm-from-scratch]]
+[[andyyyy64-whichllm]] [[yikart-aitoearn]] [[nvidia-cosmos]] [[openmoss-moss-tts]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

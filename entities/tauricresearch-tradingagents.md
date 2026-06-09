@@ -33,7 +33,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[copilotkit-copilotkit]]
+[[andyyyy64-whichllm]] [[yikart-aitoearn]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[roboflow-supervision]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -33,7 +33,7 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[openmoss-moss-tts]] [[panniantong-agent-reach]] [[paddlepaddle-paddleocr]] [[pbakaus-impeccable]]
+[[paddlepaddle-paddleocr]] [[yikart-aitoearn]] [[openmoss-moss-tts]] [[openbmb-voxcpm]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -33,7 +33,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[obra-superpowers]] [[datatalksclub-data-engineering-zoomcamp]] [[ruvnet-ruview]] [[mvanhorn-last30days-skill]] [[byoungd-english-level-up-tips]]
+[[datatalksclub-data-engineering-zoomcamp]] [[yikart-aitoearn]] [[odoo-odoo]] [[nvidia-cosmos]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[education]] [[erp]]
 

@@ -37,7 +37,7 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[run-llama-liteparse]] [[aaif-goose-goose]] [[ruvnet-ruview]] [[mvanhorn-last30days-skill]] [[panniantong-agent-reach]]
+[[yikart-aitoearn]] [[dmtrkovalenko-fff]] [[run-llama-liteparse]] [[ruvnet-ruview]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

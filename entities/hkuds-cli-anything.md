@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[d4vinci-scrapling]] [[nesquena-hermes-webui]] [[panniantong-agent-reach]]
+[[d4vinci-scrapling]] [[andyyyy64-whichllm]] [[yikart-aitoearn]] [[nesquena-hermes-webui]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

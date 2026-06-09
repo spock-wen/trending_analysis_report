@@ -1,12 +1,13 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-06-09 | 总页面：158
+> 最后更新：2026-06-10 | 总页面：162
 
 ## Entities
 
 - [[666ghj-mirofish|MiroFish"]] — A Simple and Universal Swarm Intelligence Engine, Predicting...
-- [[aaif-goose-goose|goose"]] — an open source, extensible AI agent that goes beyond code su... 🆕
+- [[aaif-goose-goose|goose"]] — an open source, extensible AI agent that goes beyond code su... 🔥
+- [[addyosmani-agent-skills|agent-skills"]] — Production-grade engineering skills for AI coding agents. 🆕
 - [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i... 🔥
 - [[alireza0-s-ui|s-ui"]] — An advanced Web Panel • Built for SagerNet/Sing-Box
 - [[alishahryar1-free-claude-code|free-claude-code"]] — Use claude-code for free in the terminal, VSCode extension o... 🆕
@@ -50,6 +51,7 @@
 - [[everyinc-compound-engineering-plugin|compound-engineering-plugin"]] — Official Compound Engineering plugin for Claude Code, Codex,... 🔥
 - [[fareedkhan-dev-train-llm-from-scratch|train-llm-from-scratch"]] — A straightforward method for training your LLM, from downloa... 🔥
 - [[fincept-corporation-finceptterminal|FinceptTerminal"]] — FinceptTerminal is a modern finance application offering adv...
+- [[francescopace-espectre|espectre"]] — 🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectr... 🆕
 - [[frappe-erpnext|erpnext"]] — Free and Open Source Enterprise Resource Planning (ERP)
 - [[galilai-group-stable-worldmodel|stable-worldmodel"]] — A platform for reproducible world model research and evaluat... 🆕
 - [[garrytan-gstack|gstack"]] — Use Garry Tan's exact Claude Code setup: 23 opinionated tool...
@@ -57,7 +59,7 @@
 - [[github-docs|docs"]] — The open-source repo for docs.github.com
 - [[github-spec-kit|spec-kit"]] — Toolkit to help you get started with Spec-Driven Development 🆕
 - [[godotengine-godot|godot"]] — Godot Engine – Multi-platform 2D and 3D game engine
-- [[google-skills|skills"]] — Agent Skills for Google products and technologies 🆕
+- [[google-skills|skills"]] — Agent Skills for Google products and technologies
 - [[hardikpandya-stop-slop|stop-slop"]] — A skill file for removing AI tells from prose 🔥
 - [[harry0703-moneyprinterturbo|MoneyPrinterTurbo"]] — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using... 🔥
 - [[hkuds-cli-anything|CLI-Anything"]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:... 🔥
@@ -80,10 +82,11 @@
 - [[lfnovo-open-notebook|open-notebook"]] — An Open Source implementation of Notebook LM with more flexi... 🔥
 - [[light-heart-labs-dreamserver|DreamServer"]] — Local AI anywhere, for everyone — LLM inference, chat UI, vo...
 - [[lum1104-understand-anything|Understand-Anything"]] — Graphs that teach > graphs that impress. Turn any code into ... 🔥
-- [[luongnv89-claude-howto|claude-howto"]] — A visual, example-driven guide to Claude Code — from basic c... 🆕
+- [[luongnv89-claude-howto|claude-howto"]] — A visual, example-driven guide to Claude Code — from basic c...
 - [[lyogavin-airllm|airllm"]] — AirLLM 70B inference with single 4GB GPU
 - [[manaflow-ai-cmux|cmux"]] — Ghostty-based macOS terminal with vertical tabs and notifica... 🔥
 - [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .claude director... 🆕
+- [[maziyarpanahi-openmed|openmed"]] — open-source healthcare ai 🆕
 - [[medusajs-medusa|medusa"]] — The world's most flexible commerce platform.
 - [[mempalace-mempalace|mempalace"]] — The best-benchmarked open-source AI memory system. And it's ...
 - [[microsoft-ai-agents-for-beginners|ai-agents-for-beginners"]] — 12 Lessons to Get Started Building AI Agents 🔥
@@ -122,7 +125,7 @@
 - [[phuryn-pm-skills|pm-skills"]] — PM Skills Marketplace: 100+ agentic skills, commands, and pl... 🆕
 - [[plausible-analytics|analytics"]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
 - [[reconurge-flowsint|flowsint"]] — A modern platform for visual, flexible, and extensible graph... 🆕
-- [[refactoringhq-tolaria|tolaria"]] — Desktop app to manage markdown knowledge bases 🆕
+- [[refactoringhq-tolaria|tolaria"]] — Desktop app to manage markdown knowledge bases 🔥
 - [[revfactory-harness|harness"]] — A meta-skill that designs domain-specific agent teams, defin... 🔥
 - [[rmyndharis-openwa|OpenWA"]] — Free, Open Source, Self-Hosted WhatsApp API Gateway 🆕
 - [[roboflow-supervision|supervision"]] — We write your reusable computer vision tools. 💜 🆕
@@ -131,14 +134,14 @@
 - [[rtk-ai-rtk|rtk"]] — CLI proxy that reduces LLM token consumption by 60-90% on co...
 - [[run-llama-liteparse|liteparse"]] — A fast, helpful, and open-source document parser 🆕
 - [[ruvnet-ruview|RuView"]] — π RuView turns commodity WiFi signals into real-time spatial...
-- [[ryancodrai-turbovec|turbovec"]] — A vector index built on TurboQuant, written in Rust with Pyt... 🆕
+- [[ryancodrai-turbovec|turbovec"]] — A vector index built on TurboQuant, written in Rust with Pyt... 🔥
 - [[santifer-career-ops|career-ops"]] — AI-powered job search system built on Claude Code. 14 skill ... 🆕
 - [[shiyu-coder-kronos|Kronos"]] — Kronos: A Foundation Model for the Language of Financial Mar...
 - [[st-tech-ppf-contact-solver|ppf-contact-solver"]] — A contact solver for physics-based simulations involving 👚 s...
 - [[stefan-jansen-machine-learning-for-trading|machine-learning-for-trading"]] — Code for Machine Learning for Algorithmic Trading, 2nd editi... 🆕
 - [[supermemoryai-supermemory|supermemory"]] — Memory engine and app that is extremely fast, scalable. The ... 🔥
 - [[supertone-inc-supertonic|supertonic"]] — Lightning-Fast, On-Device, Multilingual TTS running natively...
-- [[tapxworld-chinatextbook|ChinaTextbook"]] — 所有小初高、大学PDF教材。 🆕
+- [[tapxworld-chinatextbook|ChinaTextbook"]] — 所有小初高、大学PDF教材。 🔥
 - [[tauricresearch-tradingagents|TradingAgents"]] — TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [[tech-leads-club-agent-skills|agent-skills"]] — The secure, validated skill registry for professional AI cod... 🆕
 - [[teng-lin-notebooklm-py|notebooklm-py"]] — Unofficial Python API and agentic skill for Google NotebookL...
@@ -149,6 +152,7 @@
 - [[tryghost-ghost|Ghost"]] — Independent technology for modern publishing, memberships, s...
 - [[twentyhq-twenty|twenty"]] — The open alternative to Salesforce, designed for AI. 🔥
 - [[unclecode-crawl4ai|crawl4ai"]] — 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper....
+- [[x1xhlol-system-prompts-and-models-of-ai-tools|system-prompts-and-models-of-ai-tools"]] — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cu... 🆕
 - [[yikart-aitoearn|AiToEarn"]] — Let's use AI to Earn!
 - [[yt-dlp-yt-dlp|yt-dlp"]] — A feature-rich command-line audio/video downloader
 

@@ -35,7 +35,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[obra-superpowers]] [[mvanhorn-last30days-skill]] [[d4vinci-scrapling]] [[nesquena-hermes-webui]] [[panniantong-agent-reach]]
+[[d4vinci-scrapling]] [[andyyyy64-whichllm]] [[yikart-aitoearn]] [[nesquena-hermes-webui]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

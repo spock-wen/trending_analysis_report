@@ -37,7 +37,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[mvanhorn-last30days-skill]] [[reconurge-flowsint]] [[panniantong-agent-reach]] [[mukul975-anthropic-cybersecurity-skills]]
+[[reconurge-flowsint]] [[yikart-aitoearn]] [[mukul975-anthropic-cybersecurity-skills]] [[tauricresearch-tradingagents]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

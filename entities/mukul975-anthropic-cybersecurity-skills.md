@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[reconurge-flowsint]] [[panniantong-agent-reach]] [[andyyyy64-whichllm]]
+[[reconurge-flowsint]] [[andyyyy64-whichllm]] [[yikart-aitoearn]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

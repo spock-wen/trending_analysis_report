@@ -33,7 +33,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[obra-superpowers]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[odoo-odoo]] [[panniantong-agent-reach]]
+[[andyyyy64-whichllm]] [[obra-superpowers]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[cloakhq-cloakbrowser]]
 
 **所属领域**: [[erp]]
 

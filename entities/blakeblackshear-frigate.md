@@ -34,5 +34,5 @@ NVR with realtime local object detection for IP cameras
 
 ## 相关项目
 
-[[refactoringhq-tolaria]] [[crosstalk-solutions-project-nomad]] [[lfnovo-open-notebook]] [[copilotkit-copilotkit]]
+[[copilotkit-copilotkit]] [[refactoringhq-tolaria]] [[yikart-aitoearn]] [[crosstalk-solutions-project-nomad]]
 

@@ -33,7 +33,7 @@ Agent Skills for Google products and technologies
 
 ## 相关项目
 
-[[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[copilotkit-copilotkit]] [[mempalace-mempalace]]
+[[andyyyy64-whichllm]] [[yikart-aitoearn]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[roboflow-supervision]]
 
 **所属领域**: [[ai-agent]]
 

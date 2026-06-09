@@ -37,7 +37,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mempalace-mempalace]] [[mvanhorn-last30days-skill]] [[copilotkit-copilotkit]]
+[[openai-plugins]] [[aaif-goose-goose]] [[mvanhorn-last30days-skill]] [[yikart-aitoearn]]
 
 **所属领域**: [[ai-agent]]
 

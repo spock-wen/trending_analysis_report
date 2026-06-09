@@ -33,7 +33,7 @@ No description
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[byoungd-english-level-up-tips]] [[panniantong-agent-reach]]
+[[datatalksclub-data-engineering-zoomcamp]] [[andyyyy64-whichllm]] [[yikart-aitoearn]] [[stefan-jansen-machine-learning-for-trading]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

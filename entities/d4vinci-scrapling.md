@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[nesquena-hermes-webui]] [[panniantong-agent-reach]] [[copilotkit-copilotkit]]
+[[andyyyy64-whichllm]] [[nesquena-hermes-webui]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[roboflow-supervision]]
 
 **所属领域**: [[web]]
 

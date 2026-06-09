@@ -36,5 +36,5 @@ Kronos: A Foundation Model for the Language of Financial Markets
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[ryancodrai-turbovec]] [[mempalace-mempalace]] [[mvanhorn-last30days-skill]]
+[[ryancodrai-turbovec]] [[roboflow-supervision]] [[andyyyy64-whichllm]] [[mvanhorn-last30days-skill]]
 

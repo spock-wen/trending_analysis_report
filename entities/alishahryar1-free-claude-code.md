@@ -35,7 +35,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[openmoss-moss-tts]] [[open-llm-vtuber-open-llm-vtuber]] [[panniantong-agent-reach]]
+[[andyyyy64-whichllm]] [[yikart-aitoearn]] [[openmoss-moss-tts]] [[openbmb-voxcpm]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

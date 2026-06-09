@@ -33,7 +33,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[openmoss-moss-tts]] [[open-llm-vtuber-open-llm-vtuber]] [[panniantong-agent-reach]]
+[[andyyyy64-whichllm]] [[yikart-aitoearn]] [[openmoss-moss-tts]] [[openbmb-voxcpm]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

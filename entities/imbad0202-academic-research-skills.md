@@ -36,7 +36,7 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[copilotkit-copilotkit]]
+[[andyyyy64-whichllm]] [[yikart-aitoearn]] [[tauricresearch-tradingagents]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -35,7 +35,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## 相关项目
 
-[[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[andyyyy64-whichllm]] [[leonxlnx-taste-skill]] [[copilotkit-copilotkit]]
+[[andyyyy64-whichllm]] [[yikart-aitoearn]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

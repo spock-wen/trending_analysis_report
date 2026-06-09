@@ -36,7 +36,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[copilotkit-copilotkit]] [[affaan-m-ecc]]
+[[andyyyy64-whichllm]] [[yikart-aitoearn]] [[tauricresearch-tradingagents]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

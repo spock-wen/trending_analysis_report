@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[mvanhorn-last30days-skill]] [[byoungd-english-level-up-tips]] [[panniantong-agent-reach]] [[stefan-jansen-machine-learning-for-trading]]
+[[datatalksclub-data-engineering-zoomcamp]] [[yikart-aitoearn]] [[nvidia-cosmos]] [[mvanhorn-last30days-skill]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

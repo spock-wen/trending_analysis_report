@@ -33,7 +33,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[obra-superpowers]] [[msitarzewski-agency-agents]] [[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[andyyyy64-whichllm]]
+[[andyyyy64-whichllm]] [[yikart-aitoearn]] [[obra-superpowers]] [[mvanhorn-last30days-skill]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

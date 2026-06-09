@@ -34,7 +34,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[d4vinci-scrapling]] [[nesquena-hermes-webui]] [[panniantong-agent-reach]] [[andyyyy64-whichllm]]
+[[d4vinci-scrapling]] [[andyyyy64-whichllm]] [[nesquena-hermes-webui]] [[mvanhorn-last30days-skill]] [[panniantong-agent-reach]]
 
 **所属领域**: [[web]] [[cli]]
 

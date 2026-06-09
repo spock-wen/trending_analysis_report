@@ -36,7 +36,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[openclaw-openclaw-windows-node]] [[mvanhorn-last30days-skill]] [[jellyfin-jellyfin]] [[panniantong-agent-reach]] [[copilotkit-copilotkit]]
+[[openclaw-openclaw-windows-node]] [[yikart-aitoearn]] [[mvanhorn-last30days-skill]] [[jellyfin-jellyfin]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[tauricresearch-tradingagents]] [[hunxbyts-ghosttrack]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]]
+[[nousresearch-hermes-agent]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[copilotkit-copilotkit]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

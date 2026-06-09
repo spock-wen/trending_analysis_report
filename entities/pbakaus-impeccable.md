@@ -33,7 +33,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[openai-plugins]] [[axorax-awesome-free-apps]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]]
+[[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[copilotkit-copilotkit]] [[openai-plugins]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

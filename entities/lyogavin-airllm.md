@@ -33,7 +33,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[stefan-jansen-machine-learning-for-trading]] [[leonxlnx-taste-skill]] [[fareedkhan-dev-train-llm-from-scratch]] [[nvidia-cosmos]] [[mvanhorn-last30days-skill]]
+[[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[stefan-jansen-machine-learning-for-trading]] [[fareedkhan-dev-train-llm-from-scratch]] [[copilotkit-copilotkit]]
 
 **所属领域**: [[ai-agent]]
 

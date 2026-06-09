@@ -33,7 +33,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[leonxlnx-taste-skill]] [[copilotkit-copilotkit]] [[hunxbyts-ghosttrack]] [[mvanhorn-last30days-skill]]
+[[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[d4vinci-scrapling]] [[nesquena-hermes-webui]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -36,5 +36,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[yikart-aitoearn]] [[refactoringhq-tolaria]]
+[[refactoringhq-tolaria]] [[crosstalk-solutions-project-nomad]] [[copilotkit-copilotkit]]
 

@@ -37,7 +37,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[leonxlnx-taste-skill]] [[nousresearch-hermes-agent]] [[mvanhorn-last30days-skill]]
+[[panniantong-agent-reach]] [[mempalace-mempalace]] [[mvanhorn-last30days-skill]] [[copilotkit-copilotkit]]
 
 **所属领域**: [[ai-agent]]
 

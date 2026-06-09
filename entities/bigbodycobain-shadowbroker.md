@@ -34,7 +34,7 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[paddlepaddle-paddleocr]] [[fareedkhan-dev-train-llm-from-scratch]] [[opendataloader-project-opendataloader-pdf]] [[nvidia-cosmos]]
+[[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[paddlepaddle-paddleocr]] [[fareedkhan-dev-train-llm-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

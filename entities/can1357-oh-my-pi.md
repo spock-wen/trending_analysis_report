@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[leonxlnx-taste-skill]] [[refactoringhq-tolaria]] [[panniantong-agent-reach]] [[copilotkit-copilotkit]]
+[[refactoringhq-tolaria]] [[mvanhorn-last30days-skill]] [[lfnovo-open-notebook]] [[crosstalk-solutions-project-nomad]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

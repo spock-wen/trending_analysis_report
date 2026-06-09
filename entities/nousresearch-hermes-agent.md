@@ -36,7 +36,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[tauricresearch-tradingagents]] [[hunxbyts-ghosttrack]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]]
+[[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[copilotkit-copilotkit]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

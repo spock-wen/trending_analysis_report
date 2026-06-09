@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[stefan-jansen-machine-learning-for-trading]] [[leonxlnx-taste-skill]] [[byoungd-english-level-up-tips]] [[jamwithai-production-agentic-rag-course]] [[fareedkhan-dev-train-llm-from-scratch]]
+[[datatalksclub-data-engineering-zoomcamp]] [[mvanhorn-last30days-skill]] [[byoungd-english-level-up-tips]] [[panniantong-agent-reach]] [[stefan-jansen-machine-learning-for-trading]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

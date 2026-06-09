@@ -34,7 +34,7 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[obra-superpowers]] [[leonxlnx-taste-skill]] [[panniantong-agent-reach]] [[chachamaru127-claude-code-harness]]
+[[obra-superpowers]] [[msitarzewski-agency-agents]] [[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[andyyyy64-whichllm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

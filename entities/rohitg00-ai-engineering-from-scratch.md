@@ -37,7 +37,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[stefan-jansen-machine-learning-for-trading]] [[leonxlnx-taste-skill]] [[byoungd-english-level-up-tips]] [[jamwithai-production-agentic-rag-course]] [[hunxbyts-ghosttrack]]
+[[datatalksclub-data-engineering-zoomcamp]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[byoungd-english-level-up-tips]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

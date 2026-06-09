@@ -33,7 +33,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[panniantong-agent-reach]] [[can1357-oh-my-pi]] [[hunxbyts-ghosttrack]] [[mvanhorn-last30days-skill]]
+[[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[andyyyy64-whichllm]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[cli]]
 

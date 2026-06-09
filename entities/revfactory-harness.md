@@ -36,7 +36,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[leonxlnx-taste-skill]] [[copilotkit-copilotkit]] [[mvanhorn-last30days-skill]] [[d4vinci-scrapling]]
+[[digitalplatdev-freedomain]] [[mvanhorn-last30days-skill]] [[d4vinci-scrapling]] [[nesquena-hermes-webui]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

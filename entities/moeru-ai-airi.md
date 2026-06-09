@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[nesquena-hermes-webui]] [[leonxlnx-taste-skill]] [[refactoringhq-tolaria]] [[openmoss-moss-tts]] [[copilotkit-copilotkit]]
+[[refactoringhq-tolaria]] [[mvanhorn-last30days-skill]] [[lfnovo-open-notebook]] [[crosstalk-solutions-project-nomad]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

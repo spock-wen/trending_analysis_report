@@ -33,7 +33,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[open-llm-vtuber-open-llm-vtuber]] [[paddlepaddle-paddleocr]] [[openmoss-moss-tts]] [[openbmb-voxcpm]]
+[[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[openmoss-moss-tts]] [[open-llm-vtuber-open-llm-vtuber]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

@@ -33,5 +33,5 @@ The open-source repo for docs.github.com
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[yikart-aitoearn]] [[refactoringhq-tolaria]] [[lfnovo-open-notebook]]
+[[refactoringhq-tolaria]] [[crosstalk-solutions-project-nomad]] [[lfnovo-open-notebook]] [[copilotkit-copilotkit]]
 

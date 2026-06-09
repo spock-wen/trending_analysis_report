@@ -36,7 +36,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[copilotkit-copilotkit]] [[hunxbyts-ghosttrack]] [[mvanhorn-last30days-skill]] [[d4vinci-scrapling]]
+[[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[d4vinci-scrapling]] [[panniantong-agent-reach]] [[copilotkit-copilotkit]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

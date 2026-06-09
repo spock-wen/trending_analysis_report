@@ -37,7 +37,7 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[dmtrkovalenko-fff]] [[ruvnet-ruview]] [[run-llama-liteparse]] [[mvanhorn-last30days-skill]]
+[[run-llama-liteparse]] [[aaif-goose-goose]] [[ruvnet-ruview]] [[mvanhorn-last30days-skill]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]]
 

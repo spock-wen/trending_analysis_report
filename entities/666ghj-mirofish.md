@@ -35,5 +35,5 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything.
 
 ## 相关项目
 
-[[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[nousresearch-hermes-agent]] [[hunxbyts-ghosttrack]]
+[[panniantong-agent-reach]] [[ryancodrai-turbovec]] [[mempalace-mempalace]] [[mvanhorn-last30days-skill]]
 

@@ -33,7 +33,7 @@ Let's use AI to Earn!
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[refactoringhq-tolaria]] [[mvanhorn-last30days-skill]] [[crosstalk-solutions-project-nomad]] [[nousresearch-hermes-agent]]
+[[refactoringhq-tolaria]] [[mvanhorn-last30days-skill]] [[lfnovo-open-notebook]] [[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]]
 

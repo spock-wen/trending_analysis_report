@@ -36,7 +36,7 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[hunxbyts-ghosttrack]] [[mvanhorn-last30days-skill]] [[ryancodrai-turbovec]] [[crosstalk-solutions-project-nomad]]
+[[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[copilotkit-copilotkit]] [[mempalace-mempalace]]
 
 **所属领域**: [[ai-agent]]
 

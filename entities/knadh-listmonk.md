@@ -33,7 +33,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[alireza0-s-ui]] [[aquasecurity-trivy]] [[mvanhorn-last30days-skill]] [[crosstalk-solutions-project-nomad]]
+[[influxdata-telegraf]] [[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[copilotkit-copilotkit]] [[aquasecurity-trivy]]
 
 **所属领域**: [[ai-agent]]
 

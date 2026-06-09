@@ -35,7 +35,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[refactoringhq-tolaria]] [[mukul975-anthropic-cybersecurity-skills]] [[yikart-aitoearn]] [[aquasecurity-trivy]] [[affaan-m-ecc]]
+[[refactoringhq-tolaria]] [[lfnovo-open-notebook]] [[crosstalk-solutions-project-nomad]] [[mukul975-anthropic-cybersecurity-skills]] [[copilotkit-copilotkit]]
 
 **所属领域**: [[security]]
 

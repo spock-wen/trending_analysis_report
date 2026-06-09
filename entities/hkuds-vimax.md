@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[paddlepaddle-paddleocr]] [[openmoss-moss-tts]] [[openbmb-voxcpm]] [[galilai-group-stable-worldmodel]]
+[[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[openmoss-moss-tts]] [[panniantong-agent-reach]] [[paddlepaddle-paddleocr]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

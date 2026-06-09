@@ -33,7 +33,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[stefan-jansen-machine-learning-for-trading]] [[odoo-odoo]] [[obra-superpowers]] [[leonxlnx-taste-skill]] [[byoungd-english-level-up-tips]]
+[[obra-superpowers]] [[datatalksclub-data-engineering-zoomcamp]] [[ruvnet-ruview]] [[mvanhorn-last30days-skill]] [[byoungd-english-level-up-tips]]
 
 **所属领域**: [[ai-agent]] [[education]] [[erp]]
 

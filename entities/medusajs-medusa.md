@@ -33,7 +33,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[odoo-odoo]] [[obra-superpowers]] [[refactoringhq-tolaria]] [[diolinux-photogimp]] [[cloakhq-cloakbrowser]]
+[[refactoringhq-tolaria]] [[obra-superpowers]] [[lfnovo-open-notebook]] [[crosstalk-solutions-project-nomad]] [[odoo-odoo]]
 
 **所属领域**: [[erp]]
 

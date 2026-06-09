@@ -34,7 +34,7 @@ NVIDIA Cosmos is an open platform of world models, datasets, and tools that enab
 
 ## 相关项目
 
-[[stefan-jansen-machine-learning-for-trading]] [[leonxlnx-taste-skill]] [[paddlepaddle-paddleocr]] [[fareedkhan-dev-train-llm-from-scratch]] [[opendataloader-project-opendataloader-pdf]]
+[[ruvnet-ruview]] [[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[paddlepaddle-paddleocr]] [[stefan-jansen-machine-learning-for-trading]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

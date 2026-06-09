@@ -35,7 +35,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[stefan-jansen-machine-learning-for-trading]] [[leonxlnx-taste-skill]] [[paddlepaddle-paddleocr]] [[opendataloader-project-opendataloader-pdf]] [[lyogavin-airllm]]
+[[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[paddlepaddle-paddleocr]] [[stefan-jansen-machine-learning-for-trading]] [[opendataloader-project-opendataloader-pdf]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

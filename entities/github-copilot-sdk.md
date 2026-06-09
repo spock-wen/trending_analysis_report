@@ -34,7 +34,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[opendataloader-project-opendataloader-pdf]] [[mvanhorn-last30days-skill]] [[crosstalk-solutions-project-nomad]] [[nousresearch-hermes-agent]]
+[[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[opendataloader-project-opendataloader-pdf]] [[copilotkit-copilotkit]] [[mempalace-mempalace]]
 
 **所属领域**: [[ai-agent]]
 

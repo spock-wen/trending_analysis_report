@@ -33,7 +33,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[hunxbyts-ghosttrack]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[ryancodrai-turbovec]]
+[[nousresearch-hermes-agent]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[copilotkit-copilotkit]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

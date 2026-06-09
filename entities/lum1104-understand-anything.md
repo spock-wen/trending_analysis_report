@@ -37,7 +37,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[stefan-jansen-machine-learning-for-trading]] [[leonxlnx-taste-skill]] [[byoungd-english-level-up-tips]] [[refactoringhq-tolaria]] [[panniantong-agent-reach]]
+[[refactoringhq-tolaria]] [[datatalksclub-data-engineering-zoomcamp]] [[mvanhorn-last30days-skill]] [[lfnovo-open-notebook]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

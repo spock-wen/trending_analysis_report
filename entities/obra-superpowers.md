@@ -37,7 +37,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[odoo-odoo]] [[leonxlnx-taste-skill]] [[panniantong-agent-reach]] [[diolinux-photogimp]]
+[[msitarzewski-agency-agents]] [[mvanhorn-last30days-skill]] [[odoo-odoo]] [[panniantong-agent-reach]] [[andyyyy64-whichllm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

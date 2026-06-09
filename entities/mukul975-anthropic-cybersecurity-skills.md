@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[panniantong-agent-reach]] [[reconurge-flowsint]] [[can1357-oh-my-pi]] [[hunxbyts-ghosttrack]]
+[[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[reconurge-flowsint]] [[panniantong-agent-reach]] [[andyyyy64-whichllm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

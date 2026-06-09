@@ -34,7 +34,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[paddlepaddle-paddleocr]] [[knadh-listmonk]] [[alireza0-s-ui]] [[opendataloader-project-opendataloader-pdf]]
+[[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[paddlepaddle-paddleocr]] [[fareedkhan-dev-train-llm-from-scratch]] [[opendataloader-project-opendataloader-pdf]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

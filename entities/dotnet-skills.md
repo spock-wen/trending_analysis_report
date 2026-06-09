@@ -36,7 +36,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[mvanhorn-last30days-skill]] [[jellyfin-jellyfin]] [[crosstalk-solutions-project-nomad]] [[nousresearch-hermes-agent]]
+[[openclaw-openclaw-windows-node]] [[mvanhorn-last30days-skill]] [[jellyfin-jellyfin]] [[panniantong-agent-reach]] [[copilotkit-copilotkit]]
 
 **所属领域**: [[ai-agent]]
 

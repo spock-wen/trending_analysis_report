@@ -36,7 +36,7 @@ The open alternative to Salesforce, designed for AI.
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[refactoringhq-tolaria]] [[yikart-aitoearn]] [[mvanhorn-last30days-skill]] [[crosstalk-solutions-project-nomad]]
+[[refactoringhq-tolaria]] [[mvanhorn-last30days-skill]] [[lfnovo-open-notebook]] [[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]]
 

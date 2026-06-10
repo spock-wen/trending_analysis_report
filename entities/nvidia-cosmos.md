@@ -34,7 +34,7 @@ NVIDIA Cosmos is an open platform of world models, datasets, and tools that enab
 
 ## 相关项目
 
-[[paddlepaddle-paddleocr]] [[yikart-aitoearn]] [[nirdiamant-agents-towards-production]] [[ruvnet-ruview]] [[mvanhorn-last30days-skill]]
+[[harry0703-moneyprinterturbo]] [[ruvnet-ruview]] [[mvanhorn-last30days-skill]] [[nirdiamant-agents-towards-production]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

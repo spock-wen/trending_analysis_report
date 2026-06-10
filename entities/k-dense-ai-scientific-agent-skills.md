@@ -36,7 +36,7 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[andyyyy64-whichllm]] [[yikart-aitoearn]] [[tauricresearch-tradingagents]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]]
+[[nousresearch-hermes-agent]] [[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[tauricresearch-tradingagents]] [[google-skills]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

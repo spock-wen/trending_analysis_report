@@ -34,7 +34,7 @@ Find the local LLM that actually runs and performs best on your hardware. Ranked
 
 ## 相关项目
 
-[[yikart-aitoearn]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[addyosmani-agent-skills]]
+[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[phuryn-pm-skills]] [[google-skills]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

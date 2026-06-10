@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[reconurge-flowsint]] [[andyyyy64-whichllm]] [[yikart-aitoearn]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]]
+[[reconurge-flowsint]] [[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[phuryn-pm-skills]] [[google-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

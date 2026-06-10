@@ -34,7 +34,7 @@ Let's use AI to Earn!
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[crosstalk-solutions-project-nomad]] [[refactoringhq-tolaria]] [[copilotkit-copilotkit]] [[openai-plugins]]
+[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[activeloopai-hivemind]] [[obra-superpowers]] [[refactoringhq-tolaria]]
 
 **所属领域**: [[ai-agent]]
 

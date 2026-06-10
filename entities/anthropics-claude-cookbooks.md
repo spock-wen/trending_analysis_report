@@ -33,7 +33,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[yikart-aitoearn]] [[nvidia-cosmos]] [[mvanhorn-last30days-skill]] [[lyogavin-airllm]] [[fareedkhan-dev-train-llm-from-scratch]]
+[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[lyogavin-airllm]] [[datatalksclub-data-engineering-zoomcamp]] [[stefan-jansen-machine-learning-for-trading]]
 
 **所属领域**: [[ai-agent]]
 

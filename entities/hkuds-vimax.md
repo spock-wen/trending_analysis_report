@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[paddlepaddle-paddleocr]] [[andyyyy64-whichllm]] [[yikart-aitoearn]] [[openmoss-moss-tts]] [[openbmb-voxcpm]]
+[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[openbmb-voxcpm]] [[paddlepaddle-paddleocr]] [[google-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

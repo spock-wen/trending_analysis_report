@@ -36,7 +36,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[andyyyy64-whichllm]] [[yikart-aitoearn]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]]
+[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[google-skills]] [[obra-superpowers]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

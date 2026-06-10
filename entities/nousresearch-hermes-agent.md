@@ -36,7 +36,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[andyyyy64-whichllm]] [[yikart-aitoearn]] [[tauricresearch-tradingagents]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]]
+[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[tauricresearch-tradingagents]] [[google-skills]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

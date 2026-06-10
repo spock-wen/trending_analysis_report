@@ -37,7 +37,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[openai-plugins]] [[aaif-goose-goose]] [[mvanhorn-last30days-skill]] [[yikart-aitoearn]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[mvanhorn-last30days-skill]] [[fareedkhan-dev-train-llm-from-scratch]]
 
 **所属领域**: [[ai-agent]]
 

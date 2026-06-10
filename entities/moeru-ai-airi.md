@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[yikart-aitoearn]] [[nesquena-hermes-webui]] [[openmoss-moss-tts]] [[openbmb-voxcpm]]
+[[harry0703-moneyprinterturbo]] [[yikart-aitoearn]] [[mvanhorn-last30days-skill]] [[openbmb-voxcpm]] [[open-llm-vtuber-open-llm-vtuber]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

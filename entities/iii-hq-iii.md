@@ -33,5 +33,5 @@ Effortlessly compose, extend, and observe every service in real-time for the fir
 
 ## 相关项目
 
-[[run-llama-liteparse]] [[ruvnet-ruview]] [[dmtrkovalenko-fff]] [[aaif-goose-goose]]
+[[dmtrkovalenko-fff]] [[run-llama-liteparse]] [[ruvnet-ruview]] [[aaif-goose-goose]]
 

@@ -35,5 +35,5 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything.
 
 ## 相关项目
 
-[[ryancodrai-turbovec]] [[roboflow-supervision]] [[andyyyy64-whichllm]] [[mvanhorn-last30days-skill]]
+[[google-skills]] [[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[fareedkhan-dev-train-llm-from-scratch]]
 

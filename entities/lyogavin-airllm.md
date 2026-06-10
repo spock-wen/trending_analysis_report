@@ -33,7 +33,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[yikart-aitoearn]] [[nvidia-cosmos]] [[mvanhorn-last30days-skill]] [[fareedkhan-dev-train-llm-from-scratch]] [[aaif-goose-goose]]
+[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[datatalksclub-data-engineering-zoomcamp]] [[stefan-jansen-machine-learning-for-trading]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[paddlepaddle-paddleocr]] [[andyyyy64-whichllm]] [[yikart-aitoearn]] [[nvidia-cosmos]] [[ryancodrai-turbovec]]
+[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[paddlepaddle-paddleocr]] [[google-skills]] [[opendataloader-project-opendataloader-pdf]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

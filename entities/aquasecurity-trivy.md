@@ -36,7 +36,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[reconurge-flowsint]] [[alireza0-s-ui]] [[yikart-aitoearn]] [[mukul975-anthropic-cybersecurity-skills]] [[knadh-listmonk]]
+[[reconurge-flowsint]] [[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[knadh-listmonk]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

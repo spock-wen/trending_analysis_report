@@ -2,44 +2,311 @@
   "month": "2026-06",
   "date_range": "2026-06-01 ~ 2026-06-30",
   "overview": {
-    "total_repos": 0,
-    "total_stars": 0,
-    "days_with_data": 0,
+    "total_repos": 73,
+    "total_stars": 110020,
+    "days_with_data": 10,
     "date_range": "2026-06-01 ~ 2026-06-30",
-    "avg_daily_repos": 0.0
+    "avg_daily_repos": 7.3
   },
   "retention": {
     "bucket_1day": {
-      "count": 0,
-      "ratio": 0.0
+      "count": 33,
+      "ratio": 0.452
     },
     "bucket_2_3days": {
-      "count": 0,
-      "ratio": 0.0
+      "count": 28,
+      "ratio": 0.384
     },
     "bucket_4_7days": {
-      "count": 0,
-      "ratio": 0.0
+      "count": 12,
+      "ratio": 0.164
     },
     "bucket_8plus": {
       "count": 0,
       "ratio": 0.0
     }
   },
-  "weekly_domains": {},
+  "weekly_domains": {
+    "week_1": {
+      "Python": 23,
+      "TypeScript": 11,
+      "JavaScript": 5,
+      "Jupyter Notebook": 4,
+      "Rust": 2,
+      "Go": 2,
+      "Java": 2,
+      "Markdown": 1,
+      "HTML": 1,
+      "C++": 1
+    },
+    "week_2": {
+      "Python": 12,
+      "TypeScript": 5,
+      "Shell": 2,
+      "JavaScript": 2,
+      "unknown": 2,
+      "Roff": 1,
+      "Rust": 1,
+      "C++": 1
+    }
+  },
   "top_repos": {
-    "endurance": [],
-    "explosiveness": [],
-    "newcomer": [],
-    "veteran": []
+    "endurance": [
+      {
+        "repo": "mvanhorn/last30days-skill",
+        "days_on_chart": 6,
+        "language": "Python",
+        "total_monthly_stars": 9184,
+        "best_rank": 1,
+        "peak_daily_stars": 3558
+      },
+      {
+        "repo": "openai/plugins",
+        "days_on_chart": 5,
+        "language": "JavaScript",
+        "total_monthly_stars": 1139,
+        "best_rank": 8,
+        "peak_daily_stars": 296
+      },
+      {
+        "repo": "D4Vinci/Scrapling",
+        "days_on_chart": 4,
+        "language": "Python",
+        "total_monthly_stars": 4388,
+        "best_rank": 3,
+        "peak_daily_stars": 1475
+      },
+      {
+        "repo": "NousResearch/hermes-agent",
+        "days_on_chart": 4,
+        "language": "Python",
+        "total_monthly_stars": 6625,
+        "best_rank": 2,
+        "peak_daily_stars": 1951
+      },
+      {
+        "repo": "Open-LLM-VTuber/Open-LLM-VTuber",
+        "days_on_chart": 4,
+        "language": "Python",
+        "total_monthly_stars": 1790,
+        "best_rank": 8,
+        "peak_daily_stars": 702
+      },
+      {
+        "repo": "affaan-m/ECC",
+        "days_on_chart": 4,
+        "language": "JavaScript",
+        "total_monthly_stars": 6848,
+        "best_rank": 2,
+        "peak_daily_stars": 2147
+      },
+      {
+        "repo": "aquasecurity/trivy",
+        "days_on_chart": 4,
+        "language": "Go",
+        "total_monthly_stars": 648,
+        "best_rank": 3,
+        "peak_daily_stars": 255
+      },
+      {
+        "repo": "chopratejas/headroom",
+        "days_on_chart": 4,
+        "language": "Python",
+        "total_monthly_stars": 10436,
+        "best_rank": 1,
+        "peak_daily_stars": 3528
+      }
+    ],
+    "explosiveness": [
+      {
+        "repo": "microsoft/markitdown",
+        "peak_daily_stars": 3616,
+        "peak_date": "2026-06-03",
+        "language": "Python"
+      },
+      {
+        "repo": "mvanhorn/last30days-skill",
+        "peak_daily_stars": 3558,
+        "peak_date": "2026-06-09",
+        "language": "Python"
+      },
+      {
+        "repo": "chopratejas/headroom",
+        "peak_daily_stars": 3528,
+        "peak_date": "2026-06-04",
+        "language": "Python"
+      },
+      {
+        "repo": "harry0703/MoneyPrinterTurbo",
+        "peak_daily_stars": 3325,
+        "peak_date": "2026-06-02",
+        "language": "Python"
+      },
+      {
+        "repo": "affaan-m/ECC",
+        "peak_daily_stars": 2147,
+        "peak_date": "2026-06-04",
+        "language": "JavaScript"
+      },
+      {
+        "repo": "NousResearch/hermes-agent",
+        "peak_daily_stars": 1951,
+        "peak_date": "2026-06-05",
+        "language": "Python"
+      },
+      {
+        "repo": "RyanCodrai/turbovec",
+        "peak_daily_stars": 1800,
+        "peak_date": "2026-06-10",
+        "language": "Python"
+      },
+      {
+        "repo": "nesquena/hermes-webui",
+        "peak_daily_stars": 1725,
+        "peak_date": "2026-06-03",
+        "language": "Python"
+      }
+    ],
+    "newcomer": [
+      {
+        "repo": "mvanhorn/last30days-skill",
+        "days_on_chart": 6,
+        "peak_daily_stars": 3558,
+        "best_rank": 1,
+        "first_appearance": "2026-06-05",
+        "language": "Python"
+      },
+      {
+        "repo": "chopratejas/headroom",
+        "days_on_chart": 4,
+        "peak_daily_stars": 3528,
+        "best_rank": 1,
+        "first_appearance": "2026-06-03",
+        "language": "Python"
+      },
+      {
+        "repo": "NousResearch/hermes-agent",
+        "days_on_chart": 4,
+        "peak_daily_stars": 1951,
+        "best_rank": 2,
+        "first_appearance": "2026-06-04",
+        "language": "Python"
+      },
+      {
+        "repo": "RyanCodrai/turbovec",
+        "days_on_chart": 3,
+        "peak_daily_stars": 1800,
+        "best_rank": 2,
+        "first_appearance": "2026-06-08",
+        "language": "Python"
+      },
+      {
+        "repo": "nesquena/hermes-webui",
+        "days_on_chart": 4,
+        "peak_daily_stars": 1725,
+        "best_rank": 2,
+        "first_appearance": "2026-06-01",
+        "language": "Python"
+      },
+      {
+        "repo": "D4Vinci/Scrapling",
+        "days_on_chart": 4,
+        "peak_daily_stars": 1475,
+        "best_rank": 3,
+        "first_appearance": "2026-06-01",
+        "language": "Python"
+      },
+      {
+        "repo": "roboflow/supervision",
+        "days_on_chart": 2,
+        "peak_daily_stars": 1288,
+        "best_rank": 3,
+        "first_appearance": "2026-06-09",
+        "language": "Python"
+      },
+      {
+        "repo": "lfnovo/open-notebook",
+        "days_on_chart": 4,
+        "peak_daily_stars": 1142,
+        "best_rank": 2,
+        "first_appearance": "2026-06-05",
+        "language": "TypeScript"
+      }
+    ],
+    "veteran": [
+      {
+        "repo": "affaan-m/ECC",
+        "total_daily_count": 10,
+        "max_consecutive_days": 6,
+        "this_month_days": 4,
+        "this_month_stars": 6848,
+        "peak_stars": 2147
+      },
+      {
+        "repo": "microsoft/markitdown",
+        "total_daily_count": 7,
+        "max_consecutive_days": 7,
+        "this_month_days": 4,
+        "this_month_stars": 11467,
+        "peak_stars": 3616
+      },
+      {
+        "repo": "OpenBMB/VoxCPM",
+        "total_daily_count": 4,
+        "max_consecutive_days": 4,
+        "this_month_days": 3,
+        "this_month_stars": 2298,
+        "peak_stars": 880
+      },
+      {
+        "repo": "Crosstalk-Solutions/project-nomad",
+        "total_daily_count": 4,
+        "max_consecutive_days": 3,
+        "this_month_days": 2,
+        "this_month_stars": 676,
+        "peak_stars": 473
+      },
+      {
+        "repo": "EveryInc/compound-engineering-plugin",
+        "total_daily_count": 5,
+        "max_consecutive_days": 5,
+        "this_month_days": 2,
+        "this_month_stars": 671,
+        "peak_stars": 428
+      },
+      {
+        "repo": "FareedKhan-dev/train-llm-from-scratch",
+        "total_daily_count": 3,
+        "max_consecutive_days": 3,
+        "this_month_days": 2,
+        "this_month_stars": 1487,
+        "peak_stars": 860
+      },
+      {
+        "repo": "codecrafters-io/build-your-own-x",
+        "total_daily_count": 7,
+        "max_consecutive_days": 5,
+        "this_month_days": 2,
+        "this_month_stars": 2306,
+        "peak_stars": 1194
+      },
+      {
+        "repo": "harry0703/MoneyPrinterTurbo",
+        "total_daily_count": 6,
+        "max_consecutive_days": 6,
+        "this_month_days": 2,
+        "this_month_stars": 5262,
+        "peak_stars": 4685
+      }
+    ]
   },
   "month_over_month": {
     "prev_month_days": 16,
     "prev_month_repos": 101,
     "prev_month_stars": 265799,
-    "repo_change": -101,
-    "stars_change": -265799,
-    "repo_change_pct": -100.0,
-    "stars_change_pct": -100.0
+    "repo_change": -28,
+    "stars_change": -155779,
+    "repo_change_pct": -27.7,
+    "stars_change_pct": -58.6
   }
 }

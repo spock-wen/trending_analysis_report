@@ -35,7 +35,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[yikart-aitoearn]] [[dmtrkovalenko-fff]] [[run-llama-liteparse]] [[ruvnet-ruview]] [[mvanhorn-last30days-skill]]
+[[harry0703-moneyprinterturbo]] [[ruvnet-ruview]] [[mvanhorn-last30days-skill]] [[obra-superpowers]] [[run-llama-liteparse]]
 
 **所属领域**: [[ai-agent]]
 

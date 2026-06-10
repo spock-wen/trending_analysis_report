@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[yikart-aitoearn]] [[nvidia-cosmos]] [[mvanhorn-last30days-skill]] [[lyogavin-airllm]]
+[[jamwithai-production-agentic-rag-course]] [[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[byoungd-english-level-up-tips]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

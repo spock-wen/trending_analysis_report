@@ -34,7 +34,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[paddlepaddle-paddleocr]] [[andyyyy64-whichllm]] [[yikart-aitoearn]] [[openmoss-moss-tts]] [[tauricresearch-tradingagents]]
+[[nousresearch-hermes-agent]] [[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[tauricresearch-tradingagents]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

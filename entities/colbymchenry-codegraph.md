@@ -37,7 +37,7 @@ Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H
 
 ## 相关项目
 
-[[yikart-aitoearn]] [[mvanhorn-last30days-skill]] [[crosstalk-solutions-project-nomad]] [[openai-plugins]] [[copilotkit-copilotkit]]
+[[harry0703-moneyprinterturbo]] [[yikart-aitoearn]] [[mvanhorn-last30days-skill]] [[obra-superpowers]] [[refactoringhq-tolaria]]
 
 **所属领域**: [[ai-agent]]
 

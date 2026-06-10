@@ -33,7 +33,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[andyyyy64-whichllm]] [[openmoss-moss-tts]] [[openbmb-voxcpm]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]]
+[[harry0703-moneyprinterturbo]] [[moeru-ai-airi]] [[mvanhorn-last30days-skill]] [[phuryn-pm-skills]] [[openbmb-voxcpm]]
 
 **所属领域**: [[cli]] [[audio]]
 

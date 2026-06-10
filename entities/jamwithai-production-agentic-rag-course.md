@@ -33,7 +33,7 @@ No description
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[andyyyy64-whichllm]] [[yikart-aitoearn]] [[stefan-jansen-machine-learning-for-trading]] [[ryancodrai-turbovec]]
+[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[byoungd-english-level-up-tips]] [[datatalksclub-data-engineering-zoomcamp]] [[stefan-jansen-machine-learning-for-trading]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

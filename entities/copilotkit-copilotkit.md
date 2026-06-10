@@ -35,7 +35,7 @@ The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, an
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[yikart-aitoearn]] [[mvanhorn-last30days-skill]] [[crosstalk-solutions-project-nomad]] [[refactoringhq-tolaria]]
+[[harry0703-moneyprinterturbo]] [[yikart-aitoearn]] [[mvanhorn-last30days-skill]] [[obra-superpowers]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

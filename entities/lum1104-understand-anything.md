@@ -37,7 +37,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[andyyyy64-whichllm]] [[yikart-aitoearn]] [[stefan-jansen-machine-learning-for-trading]] [[byoungd-english-level-up-tips]]
+[[jamwithai-production-agentic-rag-course]] [[harry0703-moneyprinterturbo]] [[addyosmani-agent-skills]] [[yikart-aitoearn]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

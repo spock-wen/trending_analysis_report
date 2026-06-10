@@ -35,7 +35,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 ## 相关项目
 
-[[andyyyy64-whichllm]] [[yikart-aitoearn]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[roboflow-supervision]]
+[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[google-skills]] [[obra-superpowers]] [[fareedkhan-dev-train-llm-from-scratch]]
 
 **所属领域**: [[ai-agent]]
 

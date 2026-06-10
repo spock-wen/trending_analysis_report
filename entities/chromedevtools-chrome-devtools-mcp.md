@@ -34,7 +34,7 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[yikart-aitoearn]] [[nesquena-hermes-webui]] [[mvanhorn-last30days-skill]] [[crosstalk-solutions-project-nomad]]
+[[harry0703-moneyprinterturbo]] [[yikart-aitoearn]] [[mvanhorn-last30days-skill]] [[obra-superpowers]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -33,7 +33,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[andyyyy64-whichllm]] [[yikart-aitoearn]] [[dmtrkovalenko-fff]] [[run-llama-liteparse]] [[ruvnet-ruview]]
+[[harry0703-moneyprinterturbo]] [[ruvnet-ruview]] [[mvanhorn-last30days-skill]] [[phuryn-pm-skills]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -34,7 +34,7 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[andyyyy64-whichllm]] [[yikart-aitoearn]] [[nesquena-hermes-webui]] [[mvanhorn-last30days-skill]]
+[[harry0703-moneyprinterturbo]] [[addyosmani-agent-skills]] [[yikart-aitoearn]] [[mvanhorn-last30days-skill]] [[phuryn-pm-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

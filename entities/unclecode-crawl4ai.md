@@ -33,7 +33,7 @@ language: "Python"
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[andyyyy64-whichllm]] [[yikart-aitoearn]] [[nesquena-hermes-webui]] [[ryancodrai-turbovec]]
+[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[google-skills]] [[obra-superpowers]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

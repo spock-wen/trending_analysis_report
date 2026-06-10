@@ -33,7 +33,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[yikart-aitoearn]] [[run-llama-liteparse]] [[ruvnet-ruview]] [[mvanhorn-last30days-skill]] [[openai-plugins]]
+[[harry0703-moneyprinterturbo]] [[ruvnet-ruview]] [[mvanhorn-last30days-skill]] [[obra-superpowers]] [[run-llama-liteparse]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[reconurge-flowsint]] [[nousresearch-hermes-agent]] [[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[tauricresearch-tradingagents]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

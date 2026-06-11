@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[openbmb-voxcpm]] [[paddlepaddle-paddleocr]] [[google-skills]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[paddlepaddle-paddleocr]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

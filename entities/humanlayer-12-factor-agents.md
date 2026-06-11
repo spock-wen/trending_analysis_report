@@ -34,7 +34,7 @@ What are the principles we can use to build LLM-powered software that is actuall
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[yikart-aitoearn]] [[mvanhorn-last30days-skill]] [[obra-superpowers]] [[refactoringhq-tolaria]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[refactoringhq-tolaria]] [[phuryn-pm-skills]]
 
 **所属领域**: [[ai-agent]]
 

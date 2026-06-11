@@ -36,7 +36,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[moeru-ai-airi]] [[mvanhorn-last30days-skill]] [[paddlepaddle-paddleocr]] [[google-skills]]
+[[paddlepaddle-paddleocr]] [[soxoj-maigret]] [[santifer-career-ops]] [[openmoss-moss-tts]] [[moeru-ai-airi]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

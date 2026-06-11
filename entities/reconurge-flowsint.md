@@ -35,7 +35,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[yikart-aitoearn]] [[affaan-m-ecc]] [[aquasecurity-trivy]] [[refactoringhq-tolaria]] [[masterking32-masterdnsvpn]]
+[[refactoringhq-tolaria]] [[activeloopai-hivemind]] [[masterking32-masterdnsvpn]] [[yikart-aitoearn]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

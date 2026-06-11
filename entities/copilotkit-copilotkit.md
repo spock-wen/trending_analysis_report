@@ -35,7 +35,7 @@ The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, an
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[yikart-aitoearn]] [[mvanhorn-last30days-skill]] [[obra-superpowers]] [[d4vinci-scrapling]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[refactoringhq-tolaria]] [[phuryn-pm-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

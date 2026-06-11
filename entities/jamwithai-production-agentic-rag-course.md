@@ -33,7 +33,7 @@ No description
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[byoungd-english-level-up-tips]] [[datatalksclub-data-engineering-zoomcamp]] [[stefan-jansen-machine-learning-for-trading]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[stefan-jansen-machine-learning-for-trading]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

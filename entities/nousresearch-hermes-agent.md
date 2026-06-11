@@ -36,7 +36,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[tauricresearch-tradingagents]] [[google-skills]] [[obra-superpowers]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

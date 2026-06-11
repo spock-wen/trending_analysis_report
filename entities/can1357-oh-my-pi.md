@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[addyosmani-agent-skills]] [[yikart-aitoearn]] [[mvanhorn-last30days-skill]] [[phuryn-pm-skills]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[refactoringhq-tolaria]] [[phuryn-pm-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

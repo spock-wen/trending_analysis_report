@@ -34,7 +34,7 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[phuryn-pm-skills]] [[leonxlnx-taste-skill]] [[chachamaru127-claude-code-harness]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

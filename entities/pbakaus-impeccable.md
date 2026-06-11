@@ -33,7 +33,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[openai-plugins]] [[obra-superpowers]] [[affaan-m-ecc]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]]
 

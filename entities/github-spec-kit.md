@@ -34,5 +34,5 @@ Toolkit to help you get started with Spec-Driven Development
 
 ## 相关项目
 
-[[google-skills]] [[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[fareedkhan-dev-train-llm-from-scratch]]
+[[nvidia-skillspector]] [[maziyarpanahi-openmed]] [[soxoj-maigret]] [[hexo-ai-sia]]
 

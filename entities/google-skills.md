@@ -34,7 +34,7 @@ Agent Skills for Google products and technologies
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[mvanhorn-last30days-skill]] [[fareedkhan-dev-train-llm-from-scratch]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[soxoj-maigret]]
 
 **所属领域**: [[ai-agent]]
 

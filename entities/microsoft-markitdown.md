@@ -37,5 +37,5 @@ Python tool for converting files and office documents to Markdown.
 
 ## 相关项目
 
-[[google-skills]] [[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[fareedkhan-dev-train-llm-from-scratch]]
+[[nvidia-skillspector]] [[maziyarpanahi-openmed]] [[soxoj-maigret]] [[hexo-ai-sia]]
 

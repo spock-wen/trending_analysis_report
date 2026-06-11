@@ -33,7 +33,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[phuryn-pm-skills]] [[google-skills]] [[obra-superpowers]]
+[[msitarzewski-agency-agents]] [[obra-superpowers]] [[phuryn-pm-skills]] [[addyosmani-agent-skills]] [[soxoj-maigret]]
 
 **所属领域**: [[cli]]
 

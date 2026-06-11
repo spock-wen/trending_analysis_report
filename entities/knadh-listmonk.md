@@ -33,7 +33,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[obra-superpowers]] [[aquasecurity-trivy]] [[masterking32-masterdnsvpn]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[aquasecurity-trivy]] [[phuryn-pm-skills]]
 
 **所属领域**: [[ai-agent]]
 

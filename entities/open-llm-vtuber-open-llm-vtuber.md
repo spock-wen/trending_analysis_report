@@ -36,7 +36,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[moeru-ai-airi]] [[mvanhorn-last30days-skill]] [[openbmb-voxcpm]] [[google-skills]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

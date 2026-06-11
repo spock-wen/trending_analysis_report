@@ -35,7 +35,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[moeru-ai-airi]] [[mvanhorn-last30days-skill]] [[phuryn-pm-skills]] [[openbmb-voxcpm]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

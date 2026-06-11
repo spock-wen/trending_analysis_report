@@ -36,7 +36,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[digitalplatdev-freedomain]] [[obra-superpowers]] [[d4vinci-scrapling]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

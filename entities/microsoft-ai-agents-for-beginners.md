@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[jamwithai-production-agentic-rag-course]] [[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[byoungd-english-level-up-tips]] [[lyogavin-airllm]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[stefan-jansen-machine-learning-for-trading]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

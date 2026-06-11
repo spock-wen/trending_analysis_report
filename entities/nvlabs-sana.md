@@ -33,7 +33,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[openbmb-voxcpm]] [[paddlepaddle-paddleocr]] [[google-skills]]
+[[paddlepaddle-paddleocr]] [[openbmb-voxcpm]] [[soxoj-maigret]] [[santifer-career-ops]] [[openmoss-moss-tts]]
 
 **所属领域**: [[image-gen]]
 

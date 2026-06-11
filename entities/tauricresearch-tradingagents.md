@@ -33,7 +33,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[google-skills]] [[obra-superpowers]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

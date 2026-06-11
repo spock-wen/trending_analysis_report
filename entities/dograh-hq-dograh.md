@@ -33,7 +33,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[moeru-ai-airi]] [[mvanhorn-last30days-skill]] [[openbmb-voxcpm]] [[google-skills]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

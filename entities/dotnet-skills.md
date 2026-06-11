@@ -36,7 +36,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[jellyfin-jellyfin]] [[harry0703-moneyprinterturbo]] [[openclaw-openclaw-windows-node]] [[mvanhorn-last30days-skill]] [[obra-superpowers]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[openclaw-openclaw-windows-node]]
 
 **所属领域**: [[ai-agent]]
 

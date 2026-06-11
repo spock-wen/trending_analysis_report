@@ -33,7 +33,7 @@ language: "Python"
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[google-skills]] [[obra-superpowers]] [[fareedkhan-dev-train-llm-from-scratch]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[soxoj-maigret]]
 
 **所属领域**: [[ai-agent]]
 

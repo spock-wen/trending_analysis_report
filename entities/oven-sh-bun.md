@@ -35,5 +35,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager al
 
 ## 相关项目
 
-[[dmtrkovalenko-fff]] [[run-llama-liteparse]] [[ruvnet-ruview]] [[aaif-goose-goose]]
+[[ruvnet-ruview]] [[dmtrkovalenko-fff]] [[run-llama-liteparse]] [[aaif-goose-goose]]
 

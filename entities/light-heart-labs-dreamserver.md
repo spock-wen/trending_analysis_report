@@ -33,7 +33,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[moeru-ai-airi]] [[mvanhorn-last30days-skill]] [[openbmb-voxcpm]] [[paddlepaddle-paddleocr]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[paddlepaddle-paddleocr]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

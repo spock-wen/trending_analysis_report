@@ -37,7 +37,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[harry0703-moneyprinterturbo]] [[tauricresearch-tradingagents]] [[google-skills]] [[obra-superpowers]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

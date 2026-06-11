@@ -33,7 +33,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[cloakhq-cloakbrowser]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[yikart-aitoearn]] [[obra-superpowers]] [[refactoringhq-tolaria]]
+[[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[refactoringhq-tolaria]] [[activeloopai-hivemind]] [[yikart-aitoearn]]
 
 **所属领域**: [[erp]]
 

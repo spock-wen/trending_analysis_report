@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[google-skills]] [[nesquena-hermes-webui]] [[copilotkit-copilotkit]]
+[[msitarzewski-agency-agents]] [[mvanhorn-last30days-skill]] [[soxoj-maigret]] [[copilotkit-copilotkit]] [[nvidia-skillspector]]
 
 **所属领域**: [[web]]
 

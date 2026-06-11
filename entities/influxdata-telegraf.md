@@ -34,7 +34,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[knadh-listmonk]] [[paddlepaddle-paddleocr]] [[opendataloader-project-opendataloader-pdf]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[aquasecurity-trivy]] [[phuryn-pm-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

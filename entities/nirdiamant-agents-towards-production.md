@@ -33,7 +33,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[jamwithai-production-agentic-rag-course]] [[cloakhq-cloakbrowser]] [[harry0703-moneyprinterturbo]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[ruvnet-ruview]]
+[[ruvnet-ruview]] [[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[odoo-odoo]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[education]] [[erp]]
 

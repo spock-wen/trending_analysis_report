@@ -37,7 +37,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[pbakaus-impeccable]] [[obra-superpowers]] [[affaan-m-ecc]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

@@ -1,19 +1,19 @@
 ---
 title: "x1xhlol/system-prompts-and-models-of-ai-tools"
 created: 2026-06-10
-updated: 2026-06-11
+updated: 2026-06-12
 type: tool
-tags: [ai-agent, erp]
-sources: [raw/trending/2026-06-11.json]
-confidence: medium
-trending_count_daily: 2
+tags: [ai-agent, erp, rising]
+sources: [raw/trending/2026-06-12.json]
+confidence: high
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 3
 first_trending: 2026-06-10
-last_trending: 2026-06-11
+last_trending: 2026-06-12
 peak_rank: 6
-total_stars: 139495
+total_stars: 139851
 language: ""
 ---
 
@@ -22,19 +22,20 @@ language: ""
 FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 
 - 语言: 未标注
-- 上榜次数: 2 次
-- 连续上榜: 2 天
+- 上榜次数: 3 次
+- 连续上榜: 3 天
 - 最高排名: #6
 - 链接: [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
 ## 上榜历史
 
+  - 2026-06-12: #7, +369⭐
   - 2026-06-11: #6, +397⭐
   - 2026-06-10: #9, +66⭐
 
 ## 相关项目
 
-[[cloakhq-cloakbrowser]] [[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[obra-superpowers]] [[odoo-odoo]]
+[[msitarzewski-agency-agents]] [[obra-superpowers]] [[phuryn-pm-skills]] [[cloakhq-cloakbrowser]] [[odoo-odoo]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

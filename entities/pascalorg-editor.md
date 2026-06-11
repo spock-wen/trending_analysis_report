@@ -33,5 +33,5 @@ Create and share 3D architectural projects.
 
 ## 相关项目
 
-[[refactoringhq-tolaria]] [[yikart-aitoearn]] [[activeloopai-hivemind]] [[copilotkit-copilotkit]]
+[[activeloopai-hivemind]] [[refactoringhq-tolaria]] [[yikart-aitoearn]] [[mattermost-mattermost]]
 

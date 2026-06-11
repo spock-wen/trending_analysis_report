@@ -34,7 +34,7 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[paddlepaddle-paddleocr]] [[google-skills]] [[opendataloader-project-opendataloader-pdf]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[paddlepaddle-paddleocr]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

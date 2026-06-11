@@ -34,5 +34,5 @@ A fast, helpful, and open-source document parser
 
 ## 相关项目
 
-[[dmtrkovalenko-fff]] [[ruvnet-ruview]] [[aaif-goose-goose]]
+[[ruvnet-ruview]] [[dmtrkovalenko-fff]] [[aaif-goose-goose]]
 

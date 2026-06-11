@@ -34,7 +34,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[phuryn-pm-skills]] [[obra-superpowers]] [[d4vinci-scrapling]]
+[[msitarzewski-agency-agents]] [[obra-superpowers]] [[d4vinci-scrapling]] [[phuryn-pm-skills]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -33,7 +33,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[datatalksclub-data-engineering-zoomcamp]] [[stefan-jansen-machine-learning-for-trading]] [[obra-superpowers]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[stefan-jansen-machine-learning-for-trading]]
 
 **所属领域**: [[ai-agent]]
 

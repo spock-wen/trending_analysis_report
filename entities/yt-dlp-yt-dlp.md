@@ -33,7 +33,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[moeru-ai-airi]] [[mvanhorn-last30days-skill]] [[phuryn-pm-skills]] [[openbmb-voxcpm]]
+[[msitarzewski-agency-agents]] [[obra-superpowers]] [[phuryn-pm-skills]] [[openbmb-voxcpm]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[cli]] [[audio]]
 

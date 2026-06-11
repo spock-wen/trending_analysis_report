@@ -36,7 +36,7 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[harry0703-moneyprinterturbo]] [[mvanhorn-last30days-skill]] [[tauricresearch-tradingagents]] [[google-skills]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

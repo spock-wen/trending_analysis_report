@@ -33,7 +33,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[cloakhq-cloakbrowser]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[mvanhorn-last30days-skill]] [[obra-superpowers]] [[d4vinci-scrapling]]
+[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[d4vinci-scrapling]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]] [[erp]]
 

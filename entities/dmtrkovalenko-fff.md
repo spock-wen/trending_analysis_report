@@ -33,7 +33,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]]
+[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[ruvnet-ruview]] [[run-llama-liteparse]]
 
 **所属领域**: [[ai-agent]]
 

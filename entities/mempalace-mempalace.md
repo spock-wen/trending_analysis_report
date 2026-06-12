@@ -35,7 +35,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[soxoj-maigret]]
+[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[lmcache-lmcache]] [[music-assistant-server]]
 
 **所属领域**: [[ai-agent]]
 

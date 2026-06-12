@@ -33,7 +33,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]]
+[[maziyarpanahi-openmed]] [[dmtrkovalenko-fff]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

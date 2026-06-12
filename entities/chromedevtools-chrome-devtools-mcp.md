@@ -34,7 +34,7 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[refactoringhq-tolaria]] [[phuryn-pm-skills]]
+[[maziyarpanahi-openmed]] [[refactoringhq-tolaria]] [[msitarzewski-agency-agents]] [[iptv-org-iptv]] [[copilotkit-copilotkit]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -33,7 +33,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[aquasecurity-trivy]] [[phuryn-pm-skills]]
+[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[aquasecurity-trivy]] [[paddlepaddle-paddleocr]] [[masterking32-masterdnsvpn]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

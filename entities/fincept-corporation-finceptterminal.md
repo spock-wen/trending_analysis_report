@@ -34,7 +34,7 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[obra-superpowers]] [[phuryn-pm-skills]] [[paddlepaddle-paddleocr]] [[addyosmani-agent-skills]]
+[[maziyarpanahi-openmed]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[paddlepaddle-paddleocr]]
 
 **所属领域**: [[cli]] [[data]] [[science]]
 

@@ -33,7 +33,7 @@ language: ""
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]]
+[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[phuryn-pm-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[mvanhorn-last30days-skill]] [[soxoj-maigret]] [[copilotkit-copilotkit]] [[nvidia-skillspector]]
+[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[copilotkit-copilotkit]] [[lmcache-lmcache]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]]
 

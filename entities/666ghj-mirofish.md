@@ -35,5 +35,5 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything.
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[maziyarpanahi-openmed]] [[soxoj-maigret]] [[hexo-ai-sia]]
+[[maziyarpanahi-openmed]] [[lmcache-lmcache]] [[music-assistant-server]] [[soxoj-maigret]]
 

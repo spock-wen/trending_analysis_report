@@ -33,7 +33,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[soxoj-maigret]]
+[[maziyarpanahi-openmed]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[reconurge-flowsint]] [[masterking32-masterdnsvpn]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

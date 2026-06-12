@@ -37,7 +37,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[stefan-jansen-machine-learning-for-trading]]
+[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[datatalksclub-data-engineering-zoomcamp]] [[obra-superpowers]] [[stefan-jansen-machine-learning-for-trading]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

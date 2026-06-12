@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[addyosmani-agent-skills]]
+[[maziyarpanahi-openmed]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

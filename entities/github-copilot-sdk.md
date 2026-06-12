@@ -34,7 +34,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[opendataloader-project-opendataloader-pdf]]
+[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[phuryn-pm-skills]] [[opendataloader-project-opendataloader-pdf]]
 
 **所属领域**: [[ai-agent]]
 

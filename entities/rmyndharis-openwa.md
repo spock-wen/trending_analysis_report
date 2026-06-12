@@ -34,5 +34,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[activeloopai-hivemind]] [[refactoringhq-tolaria]] [[yikart-aitoearn]] [[mattermost-mattermost]]
+[[iptv-org-iptv]] [[activeloopai-hivemind]] [[refactoringhq-tolaria]] [[mattermost-mattermost]]
 

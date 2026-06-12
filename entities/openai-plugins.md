@@ -37,7 +37,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[pbakaus-impeccable]]
+[[affaan-m-ecc]] [[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[d4vinci-scrapling]]
+[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[copilotkit-copilotkit]] [[obra-superpowers]] [[revfactory-harness]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

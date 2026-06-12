@@ -34,7 +34,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[paddlepaddle-paddleocr]] [[d4vinci-scrapling]] [[fareedkhan-dev-train-llm-from-scratch]] [[mvanhorn-last30days-skill]]
+[[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[nvidia-skillspector]] [[paddlepaddle-paddleocr]] [[kenn-io-agentsview]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

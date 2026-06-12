@@ -37,5 +37,5 @@ language: "Rust"
 
 ## 相关项目
 
-[[aaif-goose-goose]] [[dmtrkovalenko-fff]] [[run-llama-liteparse]] [[nvidia-cosmos]] [[nirdiamant-agents-towards-production]]
+[[dmtrkovalenko-fff]] [[nirdiamant-agents-towards-production]] [[run-llama-liteparse]] [[aaif-goose-goose]] [[nvidia-cosmos]]
 

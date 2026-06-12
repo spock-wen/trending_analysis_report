@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-06-12 | 总页面：176
+> 最后更新：2026-06-13 | 总页面：180
 
 ## Entities
 
@@ -10,7 +10,7 @@
 - [[activeloopai-hivemind|hivemind"]] — One brain for all your agents
 - [[addyosmani-agent-skills|agent-skills"]] — Production-grade engineering skills for AI coding agents. 🔥
 - [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i... 🔥
-- [[alchaincyf-zhangxuefeng-skill|zhangxuefeng-skill"]] — 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。 🆕
+- [[alchaincyf-zhangxuefeng-skill|zhangxuefeng-skill"]] — 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 - [[alireza0-s-ui|s-ui"]] — An advanced Web Panel • Built for SagerNet/Sing-Box
 - [[alishahryar1-free-claude-code|free-claude-code"]] — Use claude-code for free in the terminal, VSCode extension o... 🆕
 - [[andyyyy64-whichllm|whichllm"]] — Find the local LLM that actually runs and performs best on y... 🆕
@@ -21,10 +21,10 @@
 - [[anthropics-knowledge-work-plugins|knowledge-work-plugins"]] — Open source repository of plugins primarily intended for kno... 🔥
 - [[anthropics-skills|skills"]] — Public repository for Agent Skills
 - [[antoinezambelli-forge|forge"]] — A Python framework for self-hosted LLM tool-calling and mult...
-- [[apple-container|container"]] — A tool for creating and running Linux containers using light... 🆕
+- [[apple-container|container"]] — A tool for creating and running Linux containers using light... 🔥
 - [[aquasecurity-trivy|trivy"]] — Find vulnerabilities, misconfigurations, secrets, SBOM in co... 🔥
 - [[axorax-awesome-free-apps|awesome-free-apps"]] — Curated list of the best free apps for PC and mobile 🔥
-- [[bannedbook-fanqiang|fanqiang"]] — 翻墙-科学上网 🆕
+- [[bannedbook-fanqiang|fanqiang"]] — 翻墙-科学上网
 - [[bigbodycobain-shadowbroker|Shadowbroker"]] — Open-source intelligence for the global theater. Track every... 🆕
 - [[biohub-esm|esm"]] — No description
 - [[blakeblackshear-frigate|frigate"]] — NVR with realtime local object detection for IP cameras 🆕
@@ -32,7 +32,7 @@
 - [[byoungd-english-level-up-tips|English-level-up-tips"]] — An advanced guide to learn English which might benefit you a... 🔥
 - [[can1357-oh-my-pi|oh-my-pi"]] — ⌥ AI Coding agent for the terminal — hash-anchored edits, op...
 - [[chachamaru127-claude-code-harness|claude-code-harness"]] — Claude Code Dedicated Development Harness - Achieving High-Q...
-- [[chatwoot-chatwoot|chatwoot"]] — Open-source live-chat, email support, omni-channel desk. An ... 🆕
+- [[chatwoot-chatwoot|chatwoot"]] — Open-source live-chat, email support, omni-channel desk. An ...
 - [[chen08209-flclash|FlClash"]] — A multi-platform proxy client based on ClashMeta,simple and ...
 - [[chopratejas-headroom|headroom"]] — Compress tool outputs, logs, files, and RAG chunks before th... 🔥
 - [[chromedevtools-chrome-devtools-mcp|chrome-devtools-mcp"]] — Chrome DevTools for coding agents 🆕
@@ -67,7 +67,7 @@
 - [[google-skills|skills"]] — Agent Skills for Google products and technologies
 - [[hardikpandya-stop-slop|stop-slop"]] — A skill file for removing AI tells from prose 🔥
 - [[harry0703-moneyprinterturbo|MoneyPrinterTurbo"]] — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using...
-- [[hexo-ai-sia|sia"]] — SIA is a Self Improving AI framework to autonomously improve... 🆕
+- [[hexo-ai-sia|sia"]] — SIA is a Self Improving AI framework to autonomously improve...
 - [[hkuds-cli-anything|CLI-Anything"]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:... 🔥
 - [[hkuds-vibe-trading|Vibe-Trading"]] — "Vibe-Trading: Your Personal Trading Agent"
 - [[hkuds-vimax|ViMax"]] — "ViMax: Agentic Video Generation (Director, Screenwriter, Pr... 🆕
@@ -76,23 +76,25 @@
 - [[iii-hq-iii|iii"]] — Effortlessly compose, extend, and observe every service in r...
 - [[imbad0202-academic-research-skills|academic-research-skills"]] — Academic Research Skills for Claude Code: research → write →... 🔥
 - [[influxdata-telegraf|telegraf"]] — Agent for collecting, processing, aggregating, and writing m... 🆕
+- [[iptv-org-iptv|iptv"]] — Collection of publicly available IPTV channels from all over... 🆕
 - [[jamwithai-production-agentic-rag-course|production-agentic-rag-course"]] — No description
 - [[jellyfin-jellyfin|jellyfin"]] — The Free Software Media System - Server Backend & API
 - [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm"]] — Claude Skill: Multi-source content processor for NotebookLM. 🆕
 - [[jwasham-coding-interview-university|coding-interview-university"]] — A complete computer science study plan to become a software ... 🔥
 - [[k-dense-ai-scientific-agent-skills|scientific-agent-skills"]] — A set of ready to use Agent Skills for research, science, en... 🔥
 - [[karpathy-nn-zero-to-hero|nn-zero-to-hero"]] — Neural Networks: Zero to Hero
-- [[kenn-io-agentsview|agentsview"]] — Local-first session intelligence and analytics for coding ag... 🆕
+- [[kenn-io-agentsview|agentsview"]] — Local-first session intelligence and analytics for coding ag...
 - [[keygraphhq-shannon|shannon"]] — Shannon Lite is an autonomous, white-box AI pentester for we...
 - [[knadh-listmonk|listmonk"]] — High performance, self-hosted, newsletter and mailing list m...
 - [[leonxlnx-taste-skill|taste-skill"]] — Taste-Skill - gives your AI good taste. stops the AI from ge...
 - [[lfnovo-open-notebook|open-notebook"]] — An Open Source implementation of Notebook LM with more flexi... 🔥
 - [[light-heart-labs-dreamserver|DreamServer"]] — Local AI anywhere, for everyone — LLM inference, chat UI, vo...
+- [[lmcache-lmcache|LMCache"]] — LMCache: Supercharge Your LLM with the Fastest KV Cache Laye... 🆕
 - [[lum1104-understand-anything|Understand-Anything"]] — Graphs that teach > graphs that impress. Turn any code into ... 🔥
 - [[luongnv89-claude-howto|claude-howto"]] — A visual, example-driven guide to Claude Code — from basic c...
 - [[lyogavin-airllm|airllm"]] — AirLLM 70B inference with single 4GB GPU
 - [[manaflow-ai-cmux|cmux"]] — Ghostty-based macOS terminal with vertical tabs and notifica... 🔥
-- [[masterking32-masterdnsvpn|MasterDnsVPN"]] — Advanced DNS tunneling VPN for censorship bypass, optimized ... 🆕
+- [[masterking32-masterdnsvpn|MasterDnsVPN"]] — Advanced DNS tunneling VPN for censorship bypass, optimized ... 🔥
 - [[mattermost-mattermost|mattermost"]] — Mattermost is an open source platform for secure collaborati... 🆕
 - [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .claude director... 🆕
 - [[maziyarpanahi-openmed|openmed"]] — open-source healthcare ai 🔥
@@ -100,11 +102,13 @@
 - [[mempalace-mempalace|mempalace"]] — The best-benchmarked open-source AI memory system. And it's ...
 - [[microsoft-ai-agents-for-beginners|ai-agents-for-beginners"]] — 12 Lessons to Get Started Building AI Agents 🔥
 - [[microsoft-markitdown|markitdown"]] — Python tool for converting files and office documents to Mar... 🔥
+- [[microsoft-powertoys|PowerToys"]] — Microsoft PowerToys is a collection of utilities that superc... 🆕
 - [[moeru-ai-airi|airi"]] — 💖🧸 Self hosted, you-owned Grok Companion, a container of sou...
-- [[msitarzewski-agency-agents|agency-agents"]] — A complete AI agency at your fingertips - From frontend wiza...
+- [[msitarzewski-agency-agents|agency-agents"]] — A complete AI agency at your fingertips - From frontend wiza... 🆕
 - [[mukul975-anthropic-cybersecurity-skills|Anthropic-Cybersecurity-Skills"]] — 754 structured cybersecurity skills for AI agents · Mapped t... 🔥
 - [[multica-ai-andrej-karpathy-skills|andrej-karpathy-skills"]] — A single CLAUDE.md file to improve Claude Code behavior, der... 🔥
 - [[multica-ai-multica|multica"]] — The open-source managed agents platform. Turn coding agents ... 🆕
+- [[music-assistant-server|server"]] — Music Assistant is a free, opensource Media library manager ... 🆕
 - [[mvanhorn-last30days-skill|last30days-skill"]] — AI agent skill that researches any topic across Reddit, X, Y... 🔥
 - [[nesquena-hermes-webui|hermes-webui"]] — Hermes WebUI: The best way to use Hermes Agent from the web ... 🔥
 - [[nicobailon-pi-subagents|pi-subagents"]] — Pi extension for async subagent delegation with truncation, ...
@@ -112,9 +116,9 @@
 - [[nousresearch-hermes-agent|hermes-agent"]] — The agent that grows with you
 - [[nvidia-ai-blueprints-video-search-and-summarization|video-search-and-summarization"]] — Suite of reference architectures for building GPU-accelerate... 🆕
 - [[nvidia-cosmos|cosmos"]] — NVIDIA Cosmos is an open platform of world models, datasets,... 🆕
-- [[nvidia-skillspector|SkillSpector"]] — Security scanner for AI agent skills. Detect vulnerabilities... 🆕
+- [[nvidia-skillspector|SkillSpector"]] — Security scanner for AI agent skills. Detect vulnerabilities...
 - [[nvlabs-sana|Sana"]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
-- [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo... 🆕
+- [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo... 🔥
 - [[odoo-odoo|odoo"]] — Odoo. Open Source Apps To Grow Your Business.
 - [[open-dev-society-openstock|OpenStock"]] — OpenStock is an open-source alternative to expensive market ...
 - [[open-llm-vtuber-open-llm-vtuber|Open-LLM-VTuber"]] — Talk to any LLM with hands-free voice interaction, voice int... 🔥
@@ -136,7 +140,7 @@
 - [[plausible-analytics|analytics"]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
 - [[reconurge-flowsint|flowsint"]] — A modern platform for visual, flexible, and extensible graph... 🆕
 - [[refactoringhq-tolaria|tolaria"]] — Desktop app to manage markdown knowledge bases 🔥
-- [[restic-restic|restic"]] — Fast, secure, efficient backup program 🆕
+- [[restic-restic|restic"]] — Fast, secure, efficient backup program
 - [[revfactory-harness|harness"]] — A meta-skill that designs domain-specific agent teams, defin... 🔥
 - [[rmyndharis-openwa|OpenWA"]] — Free, Open Source, Self-Hosted WhatsApp API Gateway 🆕
 - [[roboflow-supervision|supervision"]] — We write your reusable computer vision tools. 💜 🔥

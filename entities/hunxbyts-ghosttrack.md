@@ -33,5 +33,5 @@ Useful tool to track location or mobile number
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[maziyarpanahi-openmed]] [[soxoj-maigret]] [[hexo-ai-sia]]
+[[maziyarpanahi-openmed]] [[lmcache-lmcache]] [[music-assistant-server]] [[soxoj-maigret]]
 

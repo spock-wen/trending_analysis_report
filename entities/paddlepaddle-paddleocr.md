@@ -35,7 +35,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[openbmb-voxcpm]]
+[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[kenn-io-agentsview]] [[obra-superpowers]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

@@ -35,7 +35,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[obra-superpowers]] [[phuryn-pm-skills]] [[cloakhq-cloakbrowser]] [[odoo-odoo]]
+[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[odoo-odoo]] [[obra-superpowers]] [[cloakhq-cloakbrowser]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

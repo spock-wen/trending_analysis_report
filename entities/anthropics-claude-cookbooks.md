@@ -33,7 +33,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[stefan-jansen-machine-learning-for-trading]]
+[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[lyogavin-airllm]] [[stefan-jansen-machine-learning-for-trading]] [[datatalksclub-data-engineering-zoomcamp]]
 
 **所属领域**: [[ai-agent]]
 

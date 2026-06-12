@@ -36,7 +36,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]] [[tauricresearch-tradingagents]]
+[[maziyarpanahi-openmed]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[tauricresearch-tradingagents]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

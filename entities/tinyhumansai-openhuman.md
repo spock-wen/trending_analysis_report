@@ -37,7 +37,7 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[phuryn-pm-skills]]
+[[maziyarpanahi-openmed]] [[dmtrkovalenko-fff]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]]
 

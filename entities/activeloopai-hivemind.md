@@ -33,7 +33,7 @@ One brain for all your agents
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[refactoringhq-tolaria]] [[phuryn-pm-skills]]
+[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[refactoringhq-tolaria]] [[iptv-org-iptv]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

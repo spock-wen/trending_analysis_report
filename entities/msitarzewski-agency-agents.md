@@ -37,7 +37,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[addyosmani-agent-skills]] [[copilotkit-copilotkit]] [[obra-superpowers]] [[d4vinci-scrapling]]
+[[phuryn-pm-skills]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[copilotkit-copilotkit]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

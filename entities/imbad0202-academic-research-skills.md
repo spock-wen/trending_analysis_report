@@ -36,7 +36,7 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[tauricresearch-tradingagents]] [[obra-superpowers]]
+[[nvidia-skillspector]] [[lmcache-lmcache]] [[affaan-m-ecc]] [[andrewyng-aisuite]] [[apple-container]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

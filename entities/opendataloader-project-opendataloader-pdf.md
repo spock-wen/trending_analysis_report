@@ -33,7 +33,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[paddlepaddle-paddleocr]] [[kenn-io-agentsview]] [[obra-superpowers]]
+[[nvidia-cosmos]] [[apple-container]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

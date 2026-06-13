@@ -34,7 +34,7 @@ The secure, validated skill registry for professional AI coding agents. Extend A
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[refactoringhq-tolaria]] [[msitarzewski-agency-agents]] [[iptv-org-iptv]] [[obra-superpowers]]
+[[iptv-org-iptv]] [[activeloopai-hivemind]] [[mattermost-mattermost]] [[refactoringhq-tolaria]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

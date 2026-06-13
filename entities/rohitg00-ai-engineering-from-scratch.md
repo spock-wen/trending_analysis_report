@@ -37,7 +37,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[datatalksclub-data-engineering-zoomcamp]] [[obra-superpowers]] [[stefan-jansen-machine-learning-for-trading]]
+[[datatalksclub-data-engineering-zoomcamp]] [[nvidia-skillspector]] [[stefan-jansen-machine-learning-for-trading]] [[lmcache-lmcache]] [[andrewyng-aisuite]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

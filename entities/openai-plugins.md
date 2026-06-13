@@ -37,7 +37,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[santifer-career-ops]]
+[[santifer-career-ops]] [[affaan-m-ecc]] [[pbakaus-impeccable]] [[apple-container]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

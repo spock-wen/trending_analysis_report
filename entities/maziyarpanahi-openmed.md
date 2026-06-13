@@ -36,7 +36,7 @@ open-source healthcare ai
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[obra-superpowers]] [[lmcache-lmcache]] [[music-assistant-server]] [[phuryn-pm-skills]]
+[[nvidia-skillspector]] [[lmcache-lmcache]] [[andrewyng-aisuite]] [[apple-container]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

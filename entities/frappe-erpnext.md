@@ -33,7 +33,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[odoo-odoo]] [[obra-superpowers]] [[cloakhq-cloakbrowser]]
+[[nvidia-skillspector]] [[lmcache-lmcache]] [[odoo-odoo]] [[andrewyng-aisuite]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

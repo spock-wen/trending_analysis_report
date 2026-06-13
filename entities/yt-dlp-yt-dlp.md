@@ -33,7 +33,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[lmcache-lmcache]]
+[[nvidia-skillspector]] [[openbmb-voxcpm]] [[lmcache-lmcache]] [[andrewyng-aisuite]] [[open-llm-vtuber-open-llm-vtuber]]
 
 **所属领域**: [[cli]] [[audio]]
 

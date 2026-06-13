@@ -34,7 +34,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[aquasecurity-trivy]] [[kenn-io-agentsview]] [[paddlepaddle-paddleocr]]
+[[nvidia-cosmos]] [[fareedkhan-dev-train-llm-from-scratch]] [[apple-container]] [[addyosmani-agent-skills]] [[masterking32-masterdnsvpn]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

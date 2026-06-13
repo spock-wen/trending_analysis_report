@@ -34,7 +34,7 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[paddlepaddle-paddleocr]] [[kenn-io-agentsview]] [[obra-superpowers]]
+[[nvidia-skillspector]] [[lmcache-lmcache]] [[nvidia-cosmos]] [[andrewyng-aisuite]] [[apple-container]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[copilotkit-copilotkit]] [[lmcache-lmcache]] [[mvanhorn-last30days-skill]]
+[[nvidia-skillspector]] [[lmcache-lmcache]] [[andrewyng-aisuite]] [[copilotkit-copilotkit]] [[music-assistant-server]]
 
 **所属领域**: [[web]]
 

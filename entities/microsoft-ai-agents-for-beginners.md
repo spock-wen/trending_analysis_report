@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[lyogavin-airllm]] [[stefan-jansen-machine-learning-for-trading]] [[datatalksclub-data-engineering-zoomcamp]]
+[[datatalksclub-data-engineering-zoomcamp]] [[stefan-jansen-machine-learning-for-trading]] [[nvidia-cosmos]] [[lyogavin-airllm]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

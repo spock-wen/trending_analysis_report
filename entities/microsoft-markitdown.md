@@ -37,5 +37,5 @@ Python tool for converting files and office documents to Markdown.
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[lmcache-lmcache]] [[music-assistant-server]] [[soxoj-maigret]]
+[[nvidia-skillspector]] [[music-assistant-server]] [[andrewyng-aisuite]] [[lmcache-lmcache]]
 

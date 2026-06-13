@@ -1,19 +1,19 @@
 ---
 title: "kenn-io/agentsview"
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-06-14
 type: tool
 tags: [go, ai-agent, data]
-sources: [raw/trending/2026-06-12.json]
-confidence: low
-trending_count_daily: 1
+sources: [raw/trending/2026-06-14.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-12
-last_trending: 2026-06-12
-peak_rank: 14
-total_stars: 1607
+last_trending: 2026-06-14
+peak_rank: 7
+total_stars: 2340
 language: "Go"
 ---
 
@@ -22,18 +22,19 @@ language: "Go"
 Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!
 
 - 语言: Go
-- 上榜次数: 1 次
+- 上榜次数: 2 次
 - 连续上榜: 1 天
-- 最高排名: #14
+- 最高排名: #7
 - 链接: [kenn-io/agentsview](https://github.com/kenn-io/agentsview)
 
 ## 上榜历史
 
+  - 2026-06-14: #7, +187⭐
   - 2026-06-12: #14, +98⭐
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[aquasecurity-trivy]] [[paddlepaddle-paddleocr]] [[masterking32-masterdnsvpn]]
+[[nvidia-cosmos]] [[fareedkhan-dev-train-llm-from-scratch]] [[apple-container]] [[addyosmani-agent-skills]] [[masterking32-masterdnsvpn]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -33,5 +33,5 @@ A list of developer portfolios for your inspiration
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[lmcache-lmcache]] [[music-assistant-server]] [[soxoj-maigret]]
+[[nvidia-skillspector]] [[music-assistant-server]] [[andrewyng-aisuite]] [[lmcache-lmcache]]
 

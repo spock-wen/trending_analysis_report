@@ -36,7 +36,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[lmcache-lmcache]] [[openmoss-moss-tts]]
+[[nvidia-skillspector]] [[openbmb-voxcpm]] [[lmcache-lmcache]] [[andrewyng-aisuite]] [[apple-container]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

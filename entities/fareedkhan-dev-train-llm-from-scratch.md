@@ -36,7 +36,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[paddlepaddle-paddleocr]] [[kenn-io-agentsview]] [[obra-superpowers]]
+[[nvidia-skillspector]] [[lmcache-lmcache]] [[nvidia-cosmos]] [[andrewyng-aisuite]] [[apple-container]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

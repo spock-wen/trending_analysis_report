@@ -33,7 +33,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[refactoringhq-tolaria]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[iptv-org-iptv]] [[odoo-odoo]] [[obra-superpowers]]
+[[iptv-org-iptv]] [[odoo-odoo]] [[activeloopai-hivemind]] [[mattermost-mattermost]] [[refactoringhq-tolaria]]
 
 **所属领域**: [[erp]]
 

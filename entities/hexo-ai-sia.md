@@ -33,7 +33,7 @@ SIA is a Self Improving AI framework to autonomously improve the performance of 
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[lmcache-lmcache]] [[music-assistant-server]]
+[[nvidia-skillspector]] [[lmcache-lmcache]] [[andrewyng-aisuite]] [[apple-container]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

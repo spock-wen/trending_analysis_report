@@ -34,5 +34,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[openai-plugins]] [[pbakaus-impeccable]] [[santifer-career-ops]]
+[[openai-plugins]] [[pbakaus-impeccable]] [[santifer-career-ops]] [[affaan-m-ecc]]
 

@@ -36,7 +36,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[digitalplatdev-freedomain]] [[msitarzewski-agency-agents]] [[copilotkit-copilotkit]] [[obra-superpowers]]
+[[digitalplatdev-freedomain]] [[apple-container]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[copilotkit-copilotkit]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

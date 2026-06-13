@@ -37,7 +37,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[addyosmani-agent-skills]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
+[[apple-container]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

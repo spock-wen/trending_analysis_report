@@ -37,7 +37,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[phuryn-pm-skills]]
+[[obra-superpowers]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[apple-container]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

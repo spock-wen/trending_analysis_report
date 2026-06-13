@@ -33,7 +33,7 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[paddlepaddle-paddleocr]] [[openai-plugins]]
+[[santifer-career-ops]] [[openbmb-voxcpm]] [[affaan-m-ecc]] [[pbakaus-impeccable]] [[apple-container]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

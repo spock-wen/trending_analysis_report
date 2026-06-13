@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[refactoringhq-tolaria]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[iptv-org-iptv]]
+[[iptv-org-iptv]] [[activeloopai-hivemind]] [[mattermost-mattermost]] [[refactoringhq-tolaria]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

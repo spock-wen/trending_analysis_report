@@ -33,7 +33,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[lmcache-lmcache]]
+[[nvidia-skillspector]] [[lmcache-lmcache]] [[affaan-m-ecc]] [[andrewyng-aisuite]] [[apple-container]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

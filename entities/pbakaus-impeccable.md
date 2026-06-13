@@ -33,7 +33,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[openai-plugins]] [[obra-superpowers]]
+[[santifer-career-ops]] [[affaan-m-ecc]] [[apple-container]] [[addyosmani-agent-skills]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]]
 

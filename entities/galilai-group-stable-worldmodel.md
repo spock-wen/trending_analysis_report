@@ -34,7 +34,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[paddlepaddle-paddleocr]] [[tauricresearch-tradingagents]]
+[[nvidia-skillspector]] [[santifer-career-ops]] [[openbmb-voxcpm]] [[lmcache-lmcache]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

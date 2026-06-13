@@ -37,7 +37,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[refactoringhq-tolaria]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[iptv-org-iptv]]
+[[datatalksclub-data-engineering-zoomcamp]] [[iptv-org-iptv]] [[stefan-jansen-machine-learning-for-trading]] [[activeloopai-hivemind]] [[mattermost-mattermost]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

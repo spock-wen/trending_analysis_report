@@ -33,7 +33,7 @@ One brain for all your agents
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[refactoringhq-tolaria]] [[iptv-org-iptv]] [[obra-superpowers]]
+[[iptv-org-iptv]] [[apple-container]] [[mattermost-mattermost]] [[refactoringhq-tolaria]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[paddlepaddle-paddleocr]] [[openai-plugins]]
+[[openbmb-voxcpm]] [[affaan-m-ecc]] [[pbakaus-impeccable]] [[apple-container]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

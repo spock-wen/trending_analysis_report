@@ -37,7 +37,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[copilotkit-copilotkit]] [[tauricresearch-tradingagents]]
+[[nvidia-skillspector]] [[lmcache-lmcache]] [[affaan-m-ecc]] [[andrewyng-aisuite]] [[apple-container]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

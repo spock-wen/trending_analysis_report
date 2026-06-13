@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[refactoringhq-tolaria]] [[msitarzewski-agency-agents]] [[iptv-org-iptv]] [[copilotkit-copilotkit]]
+[[iptv-org-iptv]] [[openbmb-voxcpm]] [[open-llm-vtuber-open-llm-vtuber]] [[activeloopai-hivemind]] [[mattermost-mattermost]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

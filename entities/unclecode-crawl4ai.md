@@ -33,7 +33,7 @@ language: "Python"
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[copilotkit-copilotkit]] [[obra-superpowers]] [[lmcache-lmcache]]
+[[nvidia-skillspector]] [[lmcache-lmcache]] [[andrewyng-aisuite]] [[apple-container]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

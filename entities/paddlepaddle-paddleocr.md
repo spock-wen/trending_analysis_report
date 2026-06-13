@@ -35,7 +35,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[kenn-io-agentsview]] [[obra-superpowers]] [[santifer-career-ops]]
+[[nvidia-skillspector]] [[santifer-career-ops]] [[openbmb-voxcpm]] [[lmcache-lmcache]] [[nvidia-cosmos]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

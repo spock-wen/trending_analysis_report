@@ -36,7 +36,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[copilotkit-copilotkit]] [[obra-superpowers]] [[revfactory-harness]]
+[[revfactory-harness]] [[apple-container]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[copilotkit-copilotkit]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

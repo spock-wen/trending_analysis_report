@@ -33,7 +33,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[maziyarpanahi-openmed]] [[msitarzewski-agency-agents]] [[paddlepaddle-paddleocr]] [[obra-superpowers]] [[santifer-career-ops]]
+[[nvidia-skillspector]] [[santifer-career-ops]] [[openbmb-voxcpm]] [[lmcache-lmcache]] [[andrewyng-aisuite]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

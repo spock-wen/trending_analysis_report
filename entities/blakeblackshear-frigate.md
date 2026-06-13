@@ -34,5 +34,5 @@ NVR with realtime local object detection for IP cameras
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[activeloopai-hivemind]] [[refactoringhq-tolaria]] [[mattermost-mattermost]]
+[[activeloopai-hivemind]] [[iptv-org-iptv]] [[mattermost-mattermost]] [[refactoringhq-tolaria]]
 

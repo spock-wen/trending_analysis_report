@@ -34,7 +34,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[copilotkit-copilotkit]] [[obra-superpowers]] [[d4vinci-scrapling]]
+[[phuryn-pm-skills]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[copilotkit-copilotkit]] [[swc-project-swc]]
 
 **所属领域**: [[web]] [[cli]]
 

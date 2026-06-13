@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-06-13 | 总页面：180
+> 最后更新：2026-06-14 | 总页面：182
 
 ## Entities
 
@@ -13,6 +13,7 @@
 - [[alchaincyf-zhangxuefeng-skill|zhangxuefeng-skill"]] — 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 - [[alireza0-s-ui|s-ui"]] — An advanced Web Panel • Built for SagerNet/Sing-Box
 - [[alishahryar1-free-claude-code|free-claude-code"]] — Use claude-code for free in the terminal, VSCode extension o... 🆕
+- [[andrewyng-aisuite|aisuite"]] — Simple, unified interface to multiple Generative AI provider... 🆕
 - [[andyyyy64-whichllm|whichllm"]] — Find the local LLM that actually runs and performs best on y... 🆕
 - [[anil-matcha-open-generative-ai|Open-Generative-AI"]] — Open-source alternative to AI video platforms — Free AI imag...
 - [[anthropics-claude-code|claude-code"]] — Claude Code is an agentic coding tool that lives in your ter... 🔥
@@ -157,6 +158,7 @@
 - [[stefan-jansen-machine-learning-for-trading|machine-learning-for-trading"]] — Code for Machine Learning for Algorithmic Trading, 2nd editi... 🆕
 - [[supermemoryai-supermemory|supermemory"]] — Memory engine and app that is extremely fast, scalable. The ... 🔥
 - [[supertone-inc-supertonic|supertonic"]] — Lightning-Fast, On-Device, Multilingual TTS running natively...
+- [[swc-project-swc|swc"]] — Rust-based platform for the Web 🆕
 - [[tapxworld-chinatextbook|ChinaTextbook"]] — 所有小初高、大学PDF教材。
 - [[tauricresearch-tradingagents|TradingAgents"]] — TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [[tech-leads-club-agent-skills|agent-skills"]] — The secure, validated skill registry for professional AI cod... 🆕
@@ -168,7 +170,7 @@
 - [[tryghost-ghost|Ghost"]] — Independent technology for modern publishing, memberships, s...
 - [[twentyhq-twenty|twenty"]] — The open alternative to Salesforce, designed for AI. 🔥
 - [[unclecode-crawl4ai|crawl4ai"]] — 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper....
-- [[x1xhlol-system-prompts-and-models-of-ai-tools|system-prompts-and-models-of-ai-tools"]] — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cu... 🔥
+- [[x1xhlol-system-prompts-and-models-of-ai-tools|system-prompts-and-models-of-ai-tools"]] — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cu...
 - [[yikart-aitoearn|AiToEarn"]] — Let's use AI to Earn!
 - [[yt-dlp-yt-dlp|yt-dlp"]] — A feature-rich command-line audio/video downloader
 

@@ -36,7 +36,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[santifer-career-ops]] [[nvidia-skillspector]] [[lmcache-lmcache]] [[andrewyng-aisuite]] [[open-llm-vtuber-open-llm-vtuber]]
+[[santifer-career-ops]] [[shiyu-coder-kronos]] [[openmoss-moss-tts]] [[music-assistant-server]] [[nvidia-skillspector]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

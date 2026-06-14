@@ -33,7 +33,7 @@ OpenStock is an open-source alternative to expensive market platforms. Track rea
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[activeloopai-hivemind]] [[mattermost-mattermost]] [[refactoringhq-tolaria]] [[addyosmani-agent-skills]]
+[[iptv-org-iptv]] [[cypress-io-cypress]] [[freecodecamp-freecodecamp]] [[chatwoot-chatwoot]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]]
 

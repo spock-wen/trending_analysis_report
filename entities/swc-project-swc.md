@@ -1,19 +1,19 @@
 ---
 title: "swc-project/swc"
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-06-15
 type: tool
 tags: [rust, web]
-sources: [raw/trending/2026-06-14.json]
-confidence: low
-trending_count_daily: 1
+sources: [raw/trending/2026-06-15.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-06-14
-last_trending: 2026-06-14
-peak_rank: 13
-total_stars: 33624
+last_trending: 2026-06-15
+peak_rank: 4
+total_stars: 33766
 language: "Rust"
 ---
 
@@ -22,18 +22,19 @@ language: "Rust"
 Rust-based platform for the Web
 
 - 语言: Rust
-- 上榜次数: 1 次
-- 连续上榜: 1 天
-- 最高排名: #13
+- 上榜次数: 2 次
+- 连续上榜: 2 天
+- 最高排名: #4
 - 链接: [swc-project/swc](https://github.com/swc-project/swc)
 
 ## 上榜历史
 
+  - 2026-06-15: #4, +163⭐
   - 2026-06-14: #13, +12⭐
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[dmtrkovalenko-fff]] [[copilotkit-copilotkit]] [[msitarzewski-agency-agents]] [[aaif-goose-goose]]
+[[aaif-goose-goose]] [[cypress-io-cypress]] [[msitarzewski-agency-agents]] [[puppeteer-puppeteer]] [[dmtrkovalenko-fff]]
 
 **所属领域**: [[web]]
 

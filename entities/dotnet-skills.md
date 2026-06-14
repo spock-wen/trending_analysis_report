@@ -36,7 +36,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[jellyfin-jellyfin]] [[apple-container]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[x1xhlol-system-prompts-and-models-of-ai-tools]]
+[[iptv-org-iptv]] [[openclaw-openclaw-windows-node]] [[chatwoot-chatwoot]] [[jellyfin-jellyfin]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]]
 

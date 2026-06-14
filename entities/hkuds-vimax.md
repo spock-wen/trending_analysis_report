@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[santifer-career-ops]] [[openbmb-voxcpm]] [[lmcache-lmcache]] [[andrewyng-aisuite]]
+[[iptv-org-iptv]] [[santifer-career-ops]] [[shiyu-coder-kronos]] [[openmoss-moss-tts]] [[chatwoot-chatwoot]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

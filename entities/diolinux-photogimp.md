@@ -33,7 +33,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[odoo-odoo]] [[obra-superpowers]] [[copilotkit-copilotkit]] [[swc-project-swc]] [[cloakhq-cloakbrowser]]
+[[cypress-io-cypress]] [[msitarzewski-agency-agents]] [[puppeteer-puppeteer]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[cloakhq-cloakbrowser]]
 
 **所属领域**: [[web]] [[erp]]
 

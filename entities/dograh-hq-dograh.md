@@ -33,7 +33,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[openbmb-voxcpm]] [[lmcache-lmcache]] [[andrewyng-aisuite]] [[open-llm-vtuber-open-llm-vtuber]]
+[[iptv-org-iptv]] [[shiyu-coder-kronos]] [[openmoss-moss-tts]] [[chatwoot-chatwoot]] [[music-assistant-server]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

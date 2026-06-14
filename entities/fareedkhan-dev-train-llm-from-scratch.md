@@ -36,7 +36,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[lmcache-lmcache]] [[nvidia-cosmos]] [[andrewyng-aisuite]] [[apple-container]]
+[[iptv-org-iptv]] [[shiyu-coder-kronos]] [[nvidia-cosmos]] [[chatwoot-chatwoot]] [[music-assistant-server]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -36,7 +36,7 @@ Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[activeloopai-hivemind]] [[mattermost-mattermost]] [[refactoringhq-tolaria]] [[addyosmani-agent-skills]]
+[[iptv-org-iptv]] [[cypress-io-cypress]] [[freecodecamp-freecodecamp]] [[chatwoot-chatwoot]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]]
 

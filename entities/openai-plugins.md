@@ -37,7 +37,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[santifer-career-ops]] [[affaan-m-ecc]] [[pbakaus-impeccable]] [[apple-container]] [[addyosmani-agent-skills]]
+[[iptv-org-iptv]] [[pbakaus-impeccable]] [[santifer-career-ops]] [[chatwoot-chatwoot]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]]
 

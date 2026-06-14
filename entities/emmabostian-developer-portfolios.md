@@ -33,5 +33,5 @@ A list of developer portfolios for your inspiration
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[music-assistant-server]] [[andrewyng-aisuite]] [[lmcache-lmcache]]
+[[music-assistant-server]] [[shiyu-coder-kronos]] [[nvidia-skillspector]] [[andrewyng-aisuite]]
 

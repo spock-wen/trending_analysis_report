@@ -37,7 +37,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[lmcache-lmcache]] [[affaan-m-ecc]] [[andrewyng-aisuite]] [[apple-container]]
+[[iptv-org-iptv]] [[shiyu-coder-kronos]] [[cypress-io-cypress]] [[chatwoot-chatwoot]] [[music-assistant-server]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

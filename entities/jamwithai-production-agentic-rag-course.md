@@ -33,7 +33,7 @@ No description
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[nvidia-skillspector]] [[stefan-jansen-machine-learning-for-trading]] [[lmcache-lmcache]] [[andrewyng-aisuite]]
+[[iptv-org-iptv]] [[shiyu-coder-kronos]] [[chatwoot-chatwoot]] [[music-assistant-server]] [[freecodecamp-freecodecamp]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

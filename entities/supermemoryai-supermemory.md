@@ -36,7 +36,7 @@ Memory engine and app that is extremely fast, scalable. The Memory API for the A
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[activeloopai-hivemind]] [[mattermost-mattermost]] [[refactoringhq-tolaria]] [[addyosmani-agent-skills]]
+[[iptv-org-iptv]] [[cypress-io-cypress]] [[freecodecamp-freecodecamp]] [[chatwoot-chatwoot]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]]
 

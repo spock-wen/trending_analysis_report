@@ -33,7 +33,7 @@ One brain for all your agents
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[apple-container]] [[mattermost-mattermost]] [[refactoringhq-tolaria]] [[addyosmani-agent-skills]]
+[[iptv-org-iptv]] [[cypress-io-cypress]] [[freecodecamp-freecodecamp]] [[chatwoot-chatwoot]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]]
 

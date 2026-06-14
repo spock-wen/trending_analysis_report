@@ -33,7 +33,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[lmcache-lmcache]] [[andrewyng-aisuite]] [[phuryn-pm-skills]] [[addyosmani-agent-skills]]
+[[shiyu-coder-kronos]] [[msitarzewski-agency-agents]] [[music-assistant-server]] [[obra-superpowers]] [[nvidia-skillspector]]
 
 **所属领域**: [[cli]]
 

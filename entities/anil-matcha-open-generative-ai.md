@@ -33,7 +33,7 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[santifer-career-ops]] [[openbmb-voxcpm]] [[affaan-m-ecc]] [[pbakaus-impeccable]] [[apple-container]]
+[[iptv-org-iptv]] [[pbakaus-impeccable]] [[santifer-career-ops]] [[openmoss-moss-tts]] [[chatwoot-chatwoot]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

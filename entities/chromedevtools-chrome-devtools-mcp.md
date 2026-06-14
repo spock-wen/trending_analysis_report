@@ -34,7 +34,7 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[activeloopai-hivemind]] [[mattermost-mattermost]] [[refactoringhq-tolaria]] [[addyosmani-agent-skills]]
+[[iptv-org-iptv]] [[cypress-io-cypress]] [[freecodecamp-freecodecamp]] [[chatwoot-chatwoot]] [[puppeteer-puppeteer]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

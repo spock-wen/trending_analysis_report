@@ -34,5 +34,5 @@ Cursor plugin specification and official plugins
 
 ## 相关项目
 
-[[activeloopai-hivemind]] [[iptv-org-iptv]] [[mattermost-mattermost]] [[refactoringhq-tolaria]]
+[[iptv-org-iptv]] [[cypress-io-cypress]] [[meshery-meshery]] [[freecodecamp-freecodecamp]]
 

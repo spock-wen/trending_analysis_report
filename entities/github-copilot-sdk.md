@@ -34,7 +34,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[apple-container]] [[addyosmani-agent-skills]] [[opendataloader-project-opendataloader-pdf]] [[obra-superpowers]] [[x1xhlol-system-prompts-and-models-of-ai-tools]]
+[[iptv-org-iptv]] [[chatwoot-chatwoot]] [[nvidia-skillspector]] [[andrewyng-aisuite]] [[opendataloader-project-opendataloader-pdf]]
 
 **所属领域**: [[ai-agent]]
 

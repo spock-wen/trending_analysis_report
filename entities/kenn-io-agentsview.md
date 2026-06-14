@@ -34,7 +34,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[nvidia-cosmos]] [[fareedkhan-dev-train-llm-from-scratch]] [[apple-container]] [[addyosmani-agent-skills]] [[masterking32-masterdnsvpn]]
+[[iptv-org-iptv]] [[nvidia-cosmos]] [[chatwoot-chatwoot]] [[aquasecurity-trivy]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

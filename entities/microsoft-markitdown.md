@@ -37,5 +37,5 @@ Python tool for converting files and office documents to Markdown.
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[music-assistant-server]] [[andrewyng-aisuite]] [[lmcache-lmcache]]
+[[music-assistant-server]] [[shiyu-coder-kronos]] [[nvidia-skillspector]] [[andrewyng-aisuite]]
 

@@ -34,7 +34,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[phuryn-pm-skills]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[copilotkit-copilotkit]] [[swc-project-swc]]
+[[cypress-io-cypress]] [[msitarzewski-agency-agents]] [[puppeteer-puppeteer]] [[obra-superpowers]] [[phuryn-pm-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

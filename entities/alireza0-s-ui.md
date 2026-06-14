@@ -33,7 +33,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[masterking32-masterdnsvpn]] [[copilotkit-copilotkit]] [[swc-project-swc]] [[aquasecurity-trivy]] [[restic-restic]]
+[[cypress-io-cypress]] [[kenn-io-agentsview]] [[puppeteer-puppeteer]] [[msitarzewski-agency-agents]] [[aquasecurity-trivy]]
 
 **所属领域**: [[web]]
 

@@ -1,7 +1,7 @@
 ---
 title: "TypeScript Ecosystem Surge"
 created: 2026-06-08
-updated: 2026-06-13
+updated: 2026-06-15
 type: concept
 tags: [typescript, surge]
 confidence: medium
@@ -11,19 +11,19 @@ confidence: medium
 
 ## 信号概述
 
-2026-06-13 检测到 TypeScript 领域有 3 个项目同时上榜，表明该语言生态近期活跃度显著上升。
+2026-06-15 检测到 TypeScript 领域有 5 个项目同时上榜，表明该语言生态近期活跃度显著上升。
 
-## 上榜项目（3 个）
+## 上榜项目（5 个）
 
-[[mattermost-mattermost]] [[iptv-org-iptv]] [[refactoringhq-tolaria]]
+[[iptv-org-iptv]] [[freecodecamp-freecodecamp]] [[meshery-meshery]] [[cypress-io-cypress]] [[puppeteer-puppeteer]]
 
 ## 语言分布
 
-TypeScript 3个
+TypeScript 5个
 
 ## 趋势分析
 
-TypeScript 领域 3 个项目同时上榜，可能反映：
+TypeScript 领域 5 个项目同时上榜，可能反映：
 - 该语言在特定领域（如 AI、Web、系统编程）的技术突破
 - 社区活跃度提升，新项目涌现
 - 现有项目获得广泛关注

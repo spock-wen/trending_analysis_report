@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-06-14 | 总页面：182
+> 最后更新：2026-06-15 | 总页面：190
 
 ## Entities
 
@@ -33,7 +33,7 @@
 - [[byoungd-english-level-up-tips|English-level-up-tips"]] — An advanced guide to learn English which might benefit you a... 🔥
 - [[can1357-oh-my-pi|oh-my-pi"]] — ⌥ AI Coding agent for the terminal — hash-anchored edits, op...
 - [[chachamaru127-claude-code-harness|claude-code-harness"]] — Claude Code Dedicated Development Harness - Achieving High-Q...
-- [[chatwoot-chatwoot|chatwoot"]] — Open-source live-chat, email support, omni-channel desk. An ...
+- [[chatwoot-chatwoot|chatwoot"]] — Open-source live-chat, email support, omni-channel desk. An ... 🆕
 - [[chen08209-flclash|FlClash"]] — A multi-platform proxy client based on ClashMeta,simple and ...
 - [[chopratejas-headroom|headroom"]] — Compress tool outputs, logs, files, and RAG chunks before th... 🔥
 - [[chromedevtools-chrome-devtools-mcp|chrome-devtools-mcp"]] — Chrome DevTools for coding agents 🆕
@@ -43,6 +43,7 @@
 - [[copilotkit-copilotkit|CopilotKit"]] — The Frontend Stack for Agents & Generative UI. React, Angula...
 - [[crosstalk-solutions-project-nomad|project-nomad"]] — Project N.O.M.A.D, is a self-contained, offline survival com...
 - [[cursor-plugins|plugins"]] — Cursor plugin specification and official plugins 🆕
+- [[cypress-io-cypress|cypress"]] — Fast, easy and reliable testing for anything that runs in a ... 🆕
 - [[czlonkowski-n8n-mcp|n8n-mcp"]] — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor t... 🆕
 - [[d4vinci-scrapling|Scrapling"]] — 🕷️ An adaptive Web Scraping framework that handles everythin... 🔥
 - [[datatalksclub-data-engineering-zoomcamp|data-engineering-zoomcamp"]] — Data Engineering Zoomcamp is a free 9-week course on buildin... 🆕
@@ -59,6 +60,8 @@
 - [[fincept-corporation-finceptterminal|FinceptTerminal"]] — FinceptTerminal is a modern finance application offering adv...
 - [[francescopace-espectre|espectre"]] — 🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectr...
 - [[frappe-erpnext|erpnext"]] — Free and Open Source Enterprise Resource Planning (ERP)
+- [[free-tv-iptv|IPTV"]] — M3U Playlist for free TV channels 🆕
+- [[freecodecamp-freecodecamp|freeCodeCamp"]] — freeCodeCamp.org's open-source codebase and curriculum. Lear... 🆕
 - [[galilai-group-stable-worldmodel|stable-worldmodel"]] — A platform for reproducible world model research and evaluat... 🆕
 - [[garrytan-gstack|gstack"]] — Use Garry Tan's exact Claude Code setup: 23 opinionated tool...
 - [[github-copilot-sdk|copilot-sdk"]] — Multi-platform SDK for integrating GitHub Copilot Agent into... 🆕
@@ -66,6 +69,7 @@
 - [[github-spec-kit|spec-kit"]] — Toolkit to help you get started with Spec-Driven Development 🆕
 - [[godotengine-godot|godot"]] — Godot Engine – Multi-platform 2D and 3D game engine
 - [[google-skills|skills"]] — Agent Skills for Google products and technologies
+- [[gorvgoyl-clone-wars|Clone-Wars"]] — 100+ open-source clones of popular sites like Airbnb, Amazon... 🆕
 - [[hardikpandya-stop-slop|stop-slop"]] — A skill file for removing AI tells from prose 🔥
 - [[harry0703-moneyprinterturbo|MoneyPrinterTurbo"]] — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using...
 - [[hexo-ai-sia|sia"]] — SIA is a Self Improving AI framework to autonomously improve...
@@ -77,7 +81,8 @@
 - [[iii-hq-iii|iii"]] — Effortlessly compose, extend, and observe every service in r...
 - [[imbad0202-academic-research-skills|academic-research-skills"]] — Academic Research Skills for Claude Code: research → write →... 🔥
 - [[influxdata-telegraf|telegraf"]] — Agent for collecting, processing, aggregating, and writing m... 🆕
-- [[iptv-org-iptv|iptv"]] — Collection of publicly available IPTV channels from all over... 🆕
+- [[introduction-to-autonomous-robots-introduction-to-autonomous-robots|Introduction-to-Autonomous-Robots"]] — Introduction to Autonomous Robots 🆕
+- [[iptv-org-iptv|iptv"]] — Collection of publicly available IPTV channels from all over... 🔥
 - [[jamwithai-production-agentic-rag-course|production-agentic-rag-course"]] — No description
 - [[jellyfin-jellyfin|jellyfin"]] — The Free Software Media System - Server Backend & API
 - [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm"]] — Claude Skill: Multi-source content processor for NotebookLM. 🆕
@@ -101,6 +106,7 @@
 - [[maziyarpanahi-openmed|openmed"]] — open-source healthcare ai 🔥
 - [[medusajs-medusa|medusa"]] — The world's most flexible commerce platform.
 - [[mempalace-mempalace|mempalace"]] — The best-benchmarked open-source AI memory system. And it's ...
+- [[meshery-meshery|meshery"]] — Meshery, the cloud native manager 🆕
 - [[microsoft-ai-agents-for-beginners|ai-agents-for-beginners"]] — 12 Lessons to Get Started Building AI Agents 🔥
 - [[microsoft-markitdown|markitdown"]] — Python tool for converting files and office documents to Mar... 🔥
 - [[microsoft-powertoys|PowerToys"]] — Microsoft PowerToys is a collection of utilities that superc... 🆕
@@ -109,7 +115,7 @@
 - [[mukul975-anthropic-cybersecurity-skills|Anthropic-Cybersecurity-Skills"]] — 754 structured cybersecurity skills for AI agents · Mapped t... 🔥
 - [[multica-ai-andrej-karpathy-skills|andrej-karpathy-skills"]] — A single CLAUDE.md file to improve Claude Code behavior, der... 🔥
 - [[multica-ai-multica|multica"]] — The open-source managed agents platform. Turn coding agents ... 🆕
-- [[music-assistant-server|server"]] — Music Assistant is a free, opensource Media library manager ... 🆕
+- [[music-assistant-server|server"]] — Music Assistant is a free, opensource Media library manager ... 🔥
 - [[mvanhorn-last30days-skill|last30days-skill"]] — AI agent skill that researches any topic across Reddit, X, Y... 🔥
 - [[nesquena-hermes-webui|hermes-webui"]] — Hermes WebUI: The best way to use Hermes Agent from the web ... 🔥
 - [[nicobailon-pi-subagents|pi-subagents"]] — Pi extension for async subagent delegation with truncation, ...
@@ -117,7 +123,7 @@
 - [[nousresearch-hermes-agent|hermes-agent"]] — The agent that grows with you
 - [[nvidia-ai-blueprints-video-search-and-summarization|video-search-and-summarization"]] — Suite of reference architectures for building GPU-accelerate... 🆕
 - [[nvidia-cosmos|cosmos"]] — NVIDIA Cosmos is an open platform of world models, datasets,... 🆕
-- [[nvidia-skillspector|SkillSpector"]] — Security scanner for AI agent skills. Detect vulnerabilities...
+- [[nvidia-skillspector|SkillSpector"]] — Security scanner for AI agent skills. Detect vulnerabilities... 🆕
 - [[nvlabs-sana|Sana"]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
 - [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo... 🔥
 - [[odoo-odoo|odoo"]] — Odoo. Open Source Apps To Grow Your Business.
@@ -139,6 +145,8 @@
 - [[pbakaus-impeccable|impeccable"]] — The design language that makes your AI harness better at des...
 - [[phuryn-pm-skills|pm-skills"]] — PM Skills Marketplace: 100+ agentic skills, commands, and pl... 🔥
 - [[plausible-analytics|analytics"]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
+- [[puppeteer-puppeteer|puppeteer"]] — JavaScript API for Chrome and Firefox 🆕
+- [[pytest-dev-pytest|pytest"]] — The pytest framework makes it easy to write small tests, yet... 🆕
 - [[reconurge-flowsint|flowsint"]] — A modern platform for visual, flexible, and extensible graph... 🆕
 - [[refactoringhq-tolaria|tolaria"]] — Desktop app to manage markdown knowledge bases 🔥
 - [[restic-restic|restic"]] — Fast, secure, efficient backup program

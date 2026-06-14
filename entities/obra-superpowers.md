@@ -37,7 +37,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[odoo-odoo]] [[phuryn-pm-skills]] [[addyosmani-agent-skills]] [[leonxlnx-taste-skill]] [[x1xhlol-system-prompts-and-models-of-ai-tools]]
+[[iptv-org-iptv]] [[chatwoot-chatwoot]] [[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[cloakhq-cloakbrowser]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

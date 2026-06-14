@@ -37,7 +37,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[phuryn-pm-skills]] [[obra-superpowers]] [[leonxlnx-taste-skill]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[apple-container]]
+[[iptv-org-iptv]] [[chatwoot-chatwoot]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

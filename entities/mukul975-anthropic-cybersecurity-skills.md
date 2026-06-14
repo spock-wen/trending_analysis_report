@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[lmcache-lmcache]] [[affaan-m-ecc]] [[andrewyng-aisuite]] [[apple-container]]
+[[iptv-org-iptv]] [[shiyu-coder-kronos]] [[chatwoot-chatwoot]] [[music-assistant-server]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

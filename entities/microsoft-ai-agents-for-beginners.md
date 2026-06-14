@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[stefan-jansen-machine-learning-for-trading]] [[nvidia-cosmos]] [[lyogavin-airllm]] [[addyosmani-agent-skills]]
+[[iptv-org-iptv]] [[nvidia-cosmos]] [[datatalksclub-data-engineering-zoomcamp]] [[chatwoot-chatwoot]] [[freecodecamp-freecodecamp]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -36,7 +36,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[supertone-inc-supertonic]] [[x1xhlol-system-prompts-and-models-of-ai-tools]]
+[[iptv-org-iptv]] [[chatwoot-chatwoot]] [[supertone-inc-supertonic]] [[manaflow-ai-cmux]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]]
 

@@ -1,19 +1,19 @@
 ---
 title: "NVIDIA/SkillSpector"
 created: 2026-06-12
-updated: 2026-06-14
+updated: 2026-06-15
 type: tool
 tags: [python, ai-agent, security]
-sources: [raw/trending/2026-06-14.json]
-confidence: medium
-trending_count_daily: 2
+sources: [raw/trending/2026-06-15.json]
+confidence: high
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-06-12
-last_trending: 2026-06-14
+last_trending: 2026-06-15
 peak_rank: 5
-total_stars: 4381
+total_stars: 5223
 language: "Python"
 ---
 
@@ -22,19 +22,20 @@ language: "Python"
 Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
 
 - 语言: Python
-- 上榜次数: 2 次
-- 连续上榜: 1 天
+- 上榜次数: 3 次
+- 连续上榜: 2 天
 - 最高排名: #5
 - 链接: [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
 
 ## 上榜历史
 
+  - 2026-06-15: #6, +962⭐
   - 2026-06-14: #11, +809⭐
   - 2026-06-12: #5, +308⭐
 
 ## 相关项目
 
-[[lmcache-lmcache]] [[affaan-m-ecc]] [[andrewyng-aisuite]] [[apple-container]] [[addyosmani-agent-skills]]
+[[iptv-org-iptv]] [[shiyu-coder-kronos]] [[chatwoot-chatwoot]] [[music-assistant-server]] [[reconurge-flowsint]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

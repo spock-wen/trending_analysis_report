@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[lmcache-lmcache]] [[andrewyng-aisuite]] [[copilotkit-copilotkit]] [[music-assistant-server]]
+[[shiyu-coder-kronos]] [[cypress-io-cypress]] [[msitarzewski-agency-agents]] [[music-assistant-server]] [[puppeteer-puppeteer]]
 
 **所属领域**: [[web]]
 

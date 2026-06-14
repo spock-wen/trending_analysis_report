@@ -37,7 +37,7 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[apple-container]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[dmtrkovalenko-fff]]
+[[iptv-org-iptv]] [[aaif-goose-goose]] [[chatwoot-chatwoot]] [[nvidia-skillspector]] [[andrewyng-aisuite]]
 
 **所属领域**: [[ai-agent]]
 

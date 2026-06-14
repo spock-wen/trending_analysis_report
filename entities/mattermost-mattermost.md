@@ -34,5 +34,5 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[activeloopai-hivemind]] [[refactoringhq-tolaria]]
+[[iptv-org-iptv]] [[cypress-io-cypress]] [[meshery-meshery]] [[freecodecamp-freecodecamp]]
 

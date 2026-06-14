@@ -33,7 +33,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[obra-superpowers]] [[msitarzewski-agency-agents]] [[phuryn-pm-skills]] [[addyosmani-agent-skills]]
+[[addyosmani-agent-skills]] [[obra-superpowers]] [[phuryn-pm-skills]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[cli]]
 

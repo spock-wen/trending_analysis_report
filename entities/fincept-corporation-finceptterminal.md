@@ -34,7 +34,7 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[lmcache-lmcache]] [[nvidia-cosmos]] [[affaan-m-ecc]] [[andrewyng-aisuite]]
+[[shiyu-coder-kronos]] [[nvidia-cosmos]] [[msitarzewski-agency-agents]] [[music-assistant-server]] [[kenn-io-agentsview]]
 
 **所属领域**: [[cli]] [[data]] [[science]]
 

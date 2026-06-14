@@ -37,7 +37,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[nvidia-skillspector]] [[stefan-jansen-machine-learning-for-trading]] [[lmcache-lmcache]] [[andrewyng-aisuite]]
+[[iptv-org-iptv]] [[shiyu-coder-kronos]] [[jamwithai-production-agentic-rag-course]] [[chatwoot-chatwoot]] [[music-assistant-server]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -34,7 +34,7 @@ LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[andrewyng-aisuite]] [[apple-container]] [[addyosmani-agent-skills]] [[obra-superpowers]]
+[[iptv-org-iptv]] [[shiyu-coder-kronos]] [[chatwoot-chatwoot]] [[music-assistant-server]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]]
 

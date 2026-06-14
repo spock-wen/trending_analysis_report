@@ -37,7 +37,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[obra-superpowers]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[apple-container]] [[addyosmani-agent-skills]]
+[[iptv-org-iptv]] [[nvidia-skillspector]] [[andrewyng-aisuite]] [[chatwoot-chatwoot]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[apple-container]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[copilotkit-copilotkit]]
+[[iptv-org-iptv]] [[digitalplatdev-freedomain]] [[cypress-io-cypress]] [[chatwoot-chatwoot]] [[puppeteer-puppeteer]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

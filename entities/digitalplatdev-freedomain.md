@@ -36,7 +36,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[revfactory-harness]] [[apple-container]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[copilotkit-copilotkit]]
+[[iptv-org-iptv]] [[cypress-io-cypress]] [[chatwoot-chatwoot]] [[puppeteer-puppeteer]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -33,7 +33,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[santifer-career-ops]] [[affaan-m-ecc]] [[apple-container]] [[addyosmani-agent-skills]] [[openai-plugins]]
+[[iptv-org-iptv]] [[santifer-career-ops]] [[chatwoot-chatwoot]] [[nvidia-skillspector]] [[andrewyng-aisuite]]
 
 **所属领域**: [[ai-agent]]
 

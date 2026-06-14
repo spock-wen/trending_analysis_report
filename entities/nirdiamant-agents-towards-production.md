@@ -33,7 +33,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[stefan-jansen-machine-learning-for-trading]] [[ruvnet-ruview]] [[odoo-odoo]] [[nvidia-cosmos]]
+[[iptv-org-iptv]] [[nvidia-cosmos]] [[datatalksclub-data-engineering-zoomcamp]] [[chatwoot-chatwoot]] [[freecodecamp-freecodecamp]]
 
 **所属领域**: [[ai-agent]] [[education]] [[erp]]
 

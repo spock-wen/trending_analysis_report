@@ -34,7 +34,7 @@ Find the local LLM that actually runs and performs best on your hardware. Ranked
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[lmcache-lmcache]] [[andrewyng-aisuite]] [[apple-container]] [[addyosmani-agent-skills]]
+[[iptv-org-iptv]] [[shiyu-coder-kronos]] [[chatwoot-chatwoot]] [[music-assistant-server]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

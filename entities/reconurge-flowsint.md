@@ -35,7 +35,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[iptv-org-iptv]] [[affaan-m-ecc]] [[activeloopai-hivemind]] [[mattermost-mattermost]]
+[[iptv-org-iptv]] [[cypress-io-cypress]] [[freecodecamp-freecodecamp]] [[nvidia-skillspector]] [[meshery-meshery]]
 
 **所属领域**: [[security]]
 

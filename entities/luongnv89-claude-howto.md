@@ -34,7 +34,7 @@ A visual, example-driven guide to Claude Code — from basic concepts to advance
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[lmcache-lmcache]] [[andrewyng-aisuite]] [[apple-container]] [[addyosmani-agent-skills]]
+[[iptv-org-iptv]] [[shiyu-coder-kronos]] [[chatwoot-chatwoot]] [[music-assistant-server]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]]
 

@@ -33,7 +33,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[odoo-odoo]] [[activeloopai-hivemind]] [[mattermost-mattermost]] [[refactoringhq-tolaria]]
+[[iptv-org-iptv]] [[cypress-io-cypress]] [[freecodecamp-freecodecamp]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[cloakhq-cloakbrowser]]
 
 **所属领域**: [[erp]]
 

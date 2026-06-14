@@ -35,7 +35,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[apple-container]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[dmtrkovalenko-fff]]
+[[iptv-org-iptv]] [[chatwoot-chatwoot]] [[nvidia-skillspector]] [[andrewyng-aisuite]] [[dmtrkovalenko-fff]]
 
 **所属领域**: [[ai-agent]]
 

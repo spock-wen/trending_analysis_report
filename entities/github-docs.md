@@ -33,5 +33,5 @@ The open-source repo for docs.github.com
 
 ## 相关项目
 
-[[activeloopai-hivemind]] [[iptv-org-iptv]] [[mattermost-mattermost]] [[refactoringhq-tolaria]]
+[[iptv-org-iptv]] [[cypress-io-cypress]] [[meshery-meshery]] [[freecodecamp-freecodecamp]]
 

@@ -34,7 +34,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[lmcache-lmcache]] [[affaan-m-ecc]] [[odoo-odoo]] [[andrewyng-aisuite]]
+[[shiyu-coder-kronos]] [[cypress-io-cypress]] [[msitarzewski-agency-agents]] [[music-assistant-server]] [[puppeteer-puppeteer]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

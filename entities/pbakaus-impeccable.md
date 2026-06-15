@@ -33,7 +33,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[santifer-career-ops]] [[chatwoot-chatwoot]] [[nvidia-skillspector]] [[andrewyng-aisuite]]
+[[santifer-career-ops]] [[nvidia-skillspector]] [[affaan-m-ecc]] [[rohitg00-ai-engineering-from-scratch]] [[chatwoot-chatwoot]]
 
 **所属领域**: [[ai-agent]]
 

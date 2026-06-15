@@ -33,7 +33,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[nvidia-cosmos]] [[datatalksclub-data-engineering-zoomcamp]] [[chatwoot-chatwoot]] [[nvidia-skillspector]]
+[[stefan-jansen-machine-learning-for-trading]] [[nvidia-skillspector]] [[rohitg00-ai-engineering-from-scratch]] [[lyogavin-airllm]] [[nvidia-cosmos]]
 
 **所属领域**: [[ai-agent]]
 

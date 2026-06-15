@@ -34,7 +34,7 @@ Find the local LLM that actually runs and performs best on your hardware. Ranked
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[shiyu-coder-kronos]] [[chatwoot-chatwoot]] [[music-assistant-server]] [[msitarzewski-agency-agents]]
+[[shiyu-coder-kronos]] [[obra-superpowers]] [[nvidia-skillspector]] [[addyosmani-agent-skills]] [[chatwoot-chatwoot]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

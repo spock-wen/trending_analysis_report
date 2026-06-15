@@ -36,7 +36,7 @@ The open alternative to Salesforce, designed for AI.
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[cypress-io-cypress]] [[freecodecamp-freecodecamp]] [[chatwoot-chatwoot]] [[nvidia-skillspector]]
+[[meshery-meshery]] [[nvidia-skillspector]] [[freecodecamp-freecodecamp]] [[iptv-org-iptv]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[pbakaus-impeccable]] [[santifer-career-ops]] [[chatwoot-chatwoot]] [[nvidia-skillspector]]
+[[santifer-career-ops]] [[pbakaus-impeccable]] [[nvidia-skillspector]] [[affaan-m-ecc]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]]
 

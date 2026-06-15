@@ -37,7 +37,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[chatwoot-chatwoot]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[nvidia-skillspector]]
+[[obra-superpowers]] [[nvidia-skillspector]] [[raphire-win11debloat]] [[leonxlnx-taste-skill]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

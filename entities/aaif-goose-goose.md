@@ -35,7 +35,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[chatwoot-chatwoot]] [[nvidia-skillspector]] [[andrewyng-aisuite]] [[dmtrkovalenko-fff]]
+[[dmtrkovalenko-fff]] [[nvidia-skillspector]] [[ruvnet-ruview]] [[rohitg00-ai-engineering-from-scratch]] [[chatwoot-chatwoot]]
 
 **所属领域**: [[ai-agent]]
 

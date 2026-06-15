@@ -36,7 +36,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[digitalplatdev-freedomain]] [[cypress-io-cypress]] [[chatwoot-chatwoot]] [[puppeteer-puppeteer]]
+[[nvidia-skillspector]] [[digitalplatdev-freedomain]] [[cypress-io-cypress]] [[rohitg00-ai-engineering-from-scratch]] [[chatwoot-chatwoot]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

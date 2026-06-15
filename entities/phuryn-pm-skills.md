@@ -37,7 +37,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[chatwoot-chatwoot]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[nvidia-skillspector]]
+[[obra-superpowers]] [[nvidia-skillspector]] [[addyosmani-agent-skills]] [[chatwoot-chatwoot]] [[raphire-win11debloat]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

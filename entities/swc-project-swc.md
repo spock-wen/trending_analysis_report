@@ -34,7 +34,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[aaif-goose-goose]] [[cypress-io-cypress]] [[msitarzewski-agency-agents]] [[puppeteer-puppeteer]] [[dmtrkovalenko-fff]]
+[[dmtrkovalenko-fff]] [[aaif-goose-goose]] [[ruvnet-ruview]] [[cypress-io-cypress]] [[mikeroyal-self-hosting-guide]]
 
 **所属领域**: [[web]]
 

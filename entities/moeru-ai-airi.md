@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[openmoss-moss-tts]] [[cypress-io-cypress]] [[freecodecamp-freecodecamp]] [[chatwoot-chatwoot]]
+[[meshery-meshery]] [[openbmb-voxcpm]] [[open-llm-vtuber-open-llm-vtuber]] [[openmoss-moss-tts]] [[music-assistant-server]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

@@ -36,7 +36,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[chatwoot-chatwoot]] [[kenn-io-agentsview]] [[reconurge-flowsint]] [[nvidia-skillspector]]
+[[itsfatduck-optimizerduck]] [[restic-restic]] [[nvidia-skillspector]] [[kenn-io-agentsview]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

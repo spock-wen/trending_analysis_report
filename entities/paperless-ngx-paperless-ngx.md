@@ -33,7 +33,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[music-assistant-server]] [[nvidia-skillspector]] [[andrewyng-aisuite]] [[tauricresearch-tradingagents]]
+[[mvanhorn-last30days-skill]] [[shiyu-coder-kronos]] [[tauricresearch-tradingagents]] [[nvidia-skillspector]] [[affaan-m-ecc]]
 
 **所属领域**: [[science]]
 

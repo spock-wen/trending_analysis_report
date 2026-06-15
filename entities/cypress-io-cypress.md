@@ -33,7 +33,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[freecodecamp-freecodecamp]] [[puppeteer-puppeteer]] [[msitarzewski-agency-agents]] [[meshery-meshery]]
+[[meshery-meshery]] [[freecodecamp-freecodecamp]] [[iptv-org-iptv]] [[mikeroyal-self-hosting-guide]] [[trycua-cua]]
 
 **所属领域**: [[web]]
 

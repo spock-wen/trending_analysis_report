@@ -36,7 +36,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[shiyu-coder-kronos]] [[cypress-io-cypress]] [[chatwoot-chatwoot]] [[music-assistant-server]]
+[[shiyu-coder-kronos]] [[nvidia-skillspector]] [[cypress-io-cypress]] [[chatwoot-chatwoot]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

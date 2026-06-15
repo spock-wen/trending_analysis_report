@@ -34,7 +34,7 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[shiyu-coder-kronos]] [[nvidia-cosmos]] [[chatwoot-chatwoot]] [[music-assistant-server]]
+[[shiyu-coder-kronos]] [[teslamate-org-teslamate]] [[nvidia-skillspector]] [[paddlepaddle-paddleocr]] [[kenn-io-agentsview]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

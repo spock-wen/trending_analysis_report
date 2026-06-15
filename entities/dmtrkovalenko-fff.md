@@ -33,7 +33,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[aaif-goose-goose]] [[chatwoot-chatwoot]] [[nvidia-skillspector]] [[andrewyng-aisuite]]
+[[aaif-goose-goose]] [[nvidia-skillspector]] [[ruvnet-ruview]] [[rohitg00-ai-engineering-from-scratch]] [[chatwoot-chatwoot]]
 
 **所属领域**: [[ai-agent]]
 

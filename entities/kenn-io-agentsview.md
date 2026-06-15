@@ -34,7 +34,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[nvidia-cosmos]] [[chatwoot-chatwoot]] [[aquasecurity-trivy]] [[nvidia-skillspector]]
+[[teslamate-org-teslamate]] [[restic-restic]] [[aquasecurity-trivy]] [[nvidia-skillspector]] [[paddlepaddle-paddleocr]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

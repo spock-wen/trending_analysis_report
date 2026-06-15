@@ -33,7 +33,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[aaif-goose-goose]] [[chatwoot-chatwoot]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
+[[dmtrkovalenko-fff]] [[aaif-goose-goose]] [[obra-superpowers]] [[nvidia-skillspector]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[cypress-io-cypress]] [[msitarzewski-agency-agents]] [[music-assistant-server]] [[puppeteer-puppeteer]]
+[[shiyu-coder-kronos]] [[nvidia-skillspector]] [[rohitg00-ai-engineering-from-scratch]] [[cypress-io-cypress]] [[mikeroyal-self-hosting-guide]]
 
 **所属领域**: [[web]]
 

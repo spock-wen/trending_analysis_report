@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[shiyu-coder-kronos]] [[cypress-io-cypress]] [[chatwoot-chatwoot]] [[music-assistant-server]]
+[[shiyu-coder-kronos]] [[obra-superpowers]] [[nvidia-skillspector]] [[addyosmani-agent-skills]] [[cypress-io-cypress]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

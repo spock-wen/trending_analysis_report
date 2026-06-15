@@ -35,5 +35,5 @@ We write your reusable computer vision tools. 💜
 
 ## 相关项目
 
-[[music-assistant-server]] [[shiyu-coder-kronos]] [[nvidia-skillspector]] [[andrewyng-aisuite]]
+[[shiyu-coder-kronos]] [[nvidia-skillspector]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
 

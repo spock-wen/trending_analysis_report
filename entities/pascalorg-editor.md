@@ -33,5 +33,5 @@ Create and share 3D architectural projects.
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[cypress-io-cypress]] [[meshery-meshery]] [[freecodecamp-freecodecamp]]
+[[meshery-meshery]] [[freecodecamp-freecodecamp]] [[iptv-org-iptv]] [[cypress-io-cypress]]
 

@@ -33,7 +33,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[shiyu-coder-kronos]] [[openmoss-moss-tts]] [[chatwoot-chatwoot]] [[music-assistant-server]]
+[[openbmb-voxcpm]] [[shiyu-coder-kronos]] [[open-llm-vtuber-open-llm-vtuber]] [[openmoss-moss-tts]] [[music-assistant-server]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

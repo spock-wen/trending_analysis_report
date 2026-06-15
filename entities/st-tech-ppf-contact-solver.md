@@ -33,7 +33,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[msitarzewski-agency-agents]] [[music-assistant-server]] [[obra-superpowers]] [[nvidia-skillspector]]
+[[shiyu-coder-kronos]] [[obra-superpowers]] [[nvidia-skillspector]] [[addyosmani-agent-skills]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[cli]]
 

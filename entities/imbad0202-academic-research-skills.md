@@ -36,7 +36,7 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[shiyu-coder-kronos]] [[chatwoot-chatwoot]] [[music-assistant-server]] [[nvidia-skillspector]]
+[[mvanhorn-last30days-skill]] [[shiyu-coder-kronos]] [[tauricresearch-tradingagents]] [[nvidia-skillspector]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

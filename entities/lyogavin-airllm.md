@@ -33,7 +33,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[nvidia-cosmos]] [[chatwoot-chatwoot]] [[datatalksclub-data-engineering-zoomcamp]] [[nvidia-skillspector]]
+[[stefan-jansen-machine-learning-for-trading]] [[nvidia-skillspector]] [[rohitg00-ai-engineering-from-scratch]] [[chatwoot-chatwoot]] [[nvidia-cosmos]]
 
 **所属领域**: [[ai-agent]]
 

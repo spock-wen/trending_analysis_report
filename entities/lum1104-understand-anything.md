@@ -37,7 +37,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[cypress-io-cypress]] [[freecodecamp-freecodecamp]] [[chatwoot-chatwoot]] [[msitarzewski-agency-agents]]
+[[meshery-meshery]] [[obra-superpowers]] [[stefan-jansen-machine-learning-for-trading]] [[nvidia-skillspector]] [[freecodecamp-freecodecamp]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

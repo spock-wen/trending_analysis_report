@@ -33,5 +33,5 @@ Effortlessly compose, extend, and observe every service in real-time for the fir
 
 ## 相关项目
 
-[[aaif-goose-goose]] [[ruvnet-ruview]] [[dmtrkovalenko-fff]] [[swc-project-swc]]
+[[dmtrkovalenko-fff]] [[aaif-goose-goose]] [[ruvnet-ruview]] [[swc-project-swc]]
 

@@ -34,7 +34,7 @@ Simple, unified interface to multiple Generative AI providers
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[shiyu-coder-kronos]] [[chatwoot-chatwoot]] [[music-assistant-server]] [[nvidia-skillspector]]
+[[shiyu-coder-kronos]] [[nvidia-skillspector]] [[chatwoot-chatwoot]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]]
 

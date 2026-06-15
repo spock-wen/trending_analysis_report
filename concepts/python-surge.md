@@ -1,7 +1,7 @@
 ---
 title: "Python Ecosystem Surge"
 created: 2026-06-07
-updated: 2026-06-15
+updated: 2026-06-16
 type: concept
 tags: [python, surge]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 信号概述
 
-2026-06-15 检测到 Python 领域有 6 个项目同时上榜，表明该语言生态近期活跃度显著上升。
+2026-06-16 检测到 Python 领域有 6 个项目同时上榜，表明该语言生态近期活跃度显著上升。
 
 ## 上榜项目（6 个）
 
-[[pytest-dev-pytest]] [[nvidia-skillspector]] [[shiyu-coder-kronos]] [[music-assistant-server]] [[free-tv-iptv]] [[andrewyng-aisuite]]
+[[panniantong-agent-reach]] [[rohitg00-ai-engineering-from-scratch]] [[music-assistant-server]] [[free-tv-iptv]] [[nvidia-skillspector]] [[shiyu-coder-kronos]]
 
 ## 语言分布
 

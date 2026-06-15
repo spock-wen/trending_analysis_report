@@ -36,7 +36,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[shiyu-coder-kronos]] [[nvidia-cosmos]] [[chatwoot-chatwoot]] [[music-assistant-server]]
+[[shiyu-coder-kronos]] [[teslamate-org-teslamate]] [[nvidia-skillspector]] [[paddlepaddle-paddleocr]] [[kenn-io-agentsview]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -36,7 +36,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[cypress-io-cypress]] [[chatwoot-chatwoot]] [[puppeteer-puppeteer]] [[msitarzewski-agency-agents]]
+[[nvidia-skillspector]] [[revfactory-harness]] [[rohitg00-ai-engineering-from-scratch]] [[chatwoot-chatwoot]] [[cypress-io-cypress]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

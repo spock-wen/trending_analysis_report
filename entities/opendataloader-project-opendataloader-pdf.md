@@ -33,7 +33,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[nvidia-cosmos]] [[chatwoot-chatwoot]] [[kenn-io-agentsview]] [[nvidia-skillspector]]
+[[teslamate-org-teslamate]] [[github-copilot-sdk]] [[nvidia-skillspector]] [[paddlepaddle-paddleocr]] [[kenn-io-agentsview]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

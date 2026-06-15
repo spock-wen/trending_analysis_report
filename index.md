@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-06-15 | 总页面：190
+> 最后更新：2026-06-16 | 总页面：196
 
 ## Entities
 
@@ -33,7 +33,7 @@
 - [[byoungd-english-level-up-tips|English-level-up-tips"]] — An advanced guide to learn English which might benefit you a... 🔥
 - [[can1357-oh-my-pi|oh-my-pi"]] — ⌥ AI Coding agent for the terminal — hash-anchored edits, op...
 - [[chachamaru127-claude-code-harness|claude-code-harness"]] — Claude Code Dedicated Development Harness - Achieving High-Q...
-- [[chatwoot-chatwoot|chatwoot"]] — Open-source live-chat, email support, omni-channel desk. An ... 🆕
+- [[chatwoot-chatwoot|chatwoot"]] — Open-source live-chat, email support, omni-channel desk. An ... 🔥
 - [[chen08209-flclash|FlClash"]] — A multi-platform proxy client based on ClashMeta,simple and ...
 - [[chopratejas-headroom|headroom"]] — Compress tool outputs, logs, files, and RAG chunks before th... 🔥
 - [[chromedevtools-chrome-devtools-mcp|chrome-devtools-mcp"]] — Chrome DevTools for coding agents 🆕
@@ -43,7 +43,7 @@
 - [[copilotkit-copilotkit|CopilotKit"]] — The Frontend Stack for Agents & Generative UI. React, Angula...
 - [[crosstalk-solutions-project-nomad|project-nomad"]] — Project N.O.M.A.D, is a self-contained, offline survival com...
 - [[cursor-plugins|plugins"]] — Cursor plugin specification and official plugins 🆕
-- [[cypress-io-cypress|cypress"]] — Fast, easy and reliable testing for anything that runs in a ... 🆕
+- [[cypress-io-cypress|cypress"]] — Fast, easy and reliable testing for anything that runs in a ...
 - [[czlonkowski-n8n-mcp|n8n-mcp"]] — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor t... 🆕
 - [[d4vinci-scrapling|Scrapling"]] — 🕷️ An adaptive Web Scraping framework that handles everythin... 🔥
 - [[datatalksclub-data-engineering-zoomcamp|data-engineering-zoomcamp"]] — Data Engineering Zoomcamp is a free 9-week course on buildin... 🆕
@@ -69,7 +69,7 @@
 - [[github-spec-kit|spec-kit"]] — Toolkit to help you get started with Spec-Driven Development 🆕
 - [[godotengine-godot|godot"]] — Godot Engine – Multi-platform 2D and 3D game engine
 - [[google-skills|skills"]] — Agent Skills for Google products and technologies
-- [[gorvgoyl-clone-wars|Clone-Wars"]] — 100+ open-source clones of popular sites like Airbnb, Amazon... 🆕
+- [[gorvgoyl-clone-wars|Clone-Wars"]] — 100+ open-source clones of popular sites like Airbnb, Amazon...
 - [[hardikpandya-stop-slop|stop-slop"]] — A skill file for removing AI tells from prose 🔥
 - [[harry0703-moneyprinterturbo|MoneyPrinterTurbo"]] — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using...
 - [[hexo-ai-sia|sia"]] — SIA is a Self Improving AI framework to autonomously improve...
@@ -83,15 +83,17 @@
 - [[influxdata-telegraf|telegraf"]] — Agent for collecting, processing, aggregating, and writing m... 🆕
 - [[introduction-to-autonomous-robots-introduction-to-autonomous-robots|Introduction-to-Autonomous-Robots"]] — Introduction to Autonomous Robots 🆕
 - [[iptv-org-iptv|iptv"]] — Collection of publicly available IPTV channels from all over... 🔥
+- [[itsfatduck-optimizerduck|optimizerDuck"]] — Free, open-source Windows optimization tool for performance,... 🆕
 - [[jamwithai-production-agentic-rag-course|production-agentic-rag-course"]] — No description
 - [[jellyfin-jellyfin|jellyfin"]] — The Free Software Media System - Server Backend & API
 - [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm"]] — Claude Skill: Multi-source content processor for NotebookLM. 🆕
-- [[jwasham-coding-interview-university|coding-interview-university"]] — A complete computer science study plan to become a software ... 🔥
+- [[jwasham-coding-interview-university|coding-interview-university"]] — A complete computer science study plan to become a software ...
 - [[k-dense-ai-scientific-agent-skills|scientific-agent-skills"]] — A set of ready to use Agent Skills for research, science, en... 🔥
 - [[karpathy-nn-zero-to-hero|nn-zero-to-hero"]] — Neural Networks: Zero to Hero
 - [[kenn-io-agentsview|agentsview"]] — Local-first session intelligence and analytics for coding ag...
 - [[keygraphhq-shannon|shannon"]] — Shannon Lite is an autonomous, white-box AI pentester for we...
 - [[knadh-listmonk|listmonk"]] — High performance, self-hosted, newsletter and mailing list m...
+- [[krahets-hello-algo|hello-algo"]] — 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python... 🆕
 - [[leonxlnx-taste-skill|taste-skill"]] — Taste-Skill - gives your AI good taste. stops the AI from ge...
 - [[lfnovo-open-notebook|open-notebook"]] — An Open Source implementation of Notebook LM with more flexi... 🔥
 - [[light-heart-labs-dreamserver|DreamServer"]] — Local AI anywhere, for everyone — LLM inference, chat UI, vo...
@@ -110,6 +112,7 @@
 - [[microsoft-ai-agents-for-beginners|ai-agents-for-beginners"]] — 12 Lessons to Get Started Building AI Agents 🔥
 - [[microsoft-markitdown|markitdown"]] — Python tool for converting files and office documents to Mar... 🔥
 - [[microsoft-powertoys|PowerToys"]] — Microsoft PowerToys is a collection of utilities that superc... 🆕
+- [[mikeroyal-self-hosting-guide|Self-Hosting-Guide"]] — Self-Hosting Guide. Learn all about locally hosting (on prem... 🆕
 - [[moeru-ai-airi|airi"]] — 💖🧸 Self hosted, you-owned Grok Companion, a container of sou...
 - [[msitarzewski-agency-agents|agency-agents"]] — A complete AI agency at your fingertips - From frontend wiza... 🆕
 - [[mukul975-anthropic-cybersecurity-skills|Anthropic-Cybersecurity-Skills"]] — 754 structured cybersecurity skills for AI agents · Mapped t... 🔥
@@ -123,7 +126,7 @@
 - [[nousresearch-hermes-agent|hermes-agent"]] — The agent that grows with you
 - [[nvidia-ai-blueprints-video-search-and-summarization|video-search-and-summarization"]] — Suite of reference architectures for building GPU-accelerate... 🆕
 - [[nvidia-cosmos|cosmos"]] — NVIDIA Cosmos is an open platform of world models, datasets,... 🆕
-- [[nvidia-skillspector|SkillSpector"]] — Security scanner for AI agent skills. Detect vulnerabilities... 🆕
+- [[nvidia-skillspector|SkillSpector"]] — Security scanner for AI agent skills. Detect vulnerabilities... 🔥
 - [[nvlabs-sana|Sana"]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
 - [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo... 🔥
 - [[odoo-odoo|odoo"]] — Odoo. Open Source Apps To Grow Your Business.
@@ -145,8 +148,9 @@
 - [[pbakaus-impeccable|impeccable"]] — The design language that makes your AI harness better at des...
 - [[phuryn-pm-skills|pm-skills"]] — PM Skills Marketplace: 100+ agentic skills, commands, and pl... 🔥
 - [[plausible-analytics|analytics"]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
-- [[puppeteer-puppeteer|puppeteer"]] — JavaScript API for Chrome and Firefox 🆕
-- [[pytest-dev-pytest|pytest"]] — The pytest framework makes it easy to write small tests, yet... 🆕
+- [[puppeteer-puppeteer|puppeteer"]] — JavaScript API for Chrome and Firefox
+- [[pytest-dev-pytest|pytest"]] — The pytest framework makes it easy to write small tests, yet...
+- [[raphire-win11debloat|Win11Debloat"]] — A simple, lightweight PowerShell script that allows you to r... 🆕
 - [[reconurge-flowsint|flowsint"]] — A modern platform for visual, flexible, and extensible graph... 🆕
 - [[refactoringhq-tolaria|tolaria"]] — Desktop app to manage markdown knowledge bases 🔥
 - [[restic-restic|restic"]] — Fast, secure, efficient backup program
@@ -154,13 +158,13 @@
 - [[rmyndharis-openwa|OpenWA"]] — Free, Open Source, Self-Hosted WhatsApp API Gateway 🆕
 - [[roboflow-supervision|supervision"]] — We write your reusable computer vision tools. 💜 🔥
 - [[rohitg00-agentmemory|agentmemory"]] — - 语言: TypeScript 🆕
-- [[rohitg00-ai-engineering-from-scratch|ai-engineering-from-scratch"]] — Learn it. Build it. Ship it for others. 🔥
+- [[rohitg00-ai-engineering-from-scratch|ai-engineering-from-scratch"]] — Learn it. Build it. Ship it for others.
 - [[rtk-ai-rtk|rtk"]] — CLI proxy that reduces LLM token consumption by 60-90% on co...
 - [[run-llama-liteparse|liteparse"]] — A fast, helpful, and open-source document parser 🆕
 - [[ruvnet-ruview|RuView"]] — π RuView turns commodity WiFi signals into real-time spatial...
 - [[ryancodrai-turbovec|turbovec"]] — A vector index built on TurboQuant, written in Rust with Pyt... 🔥
 - [[santifer-career-ops|career-ops"]] — AI-powered job search system built on Claude Code. 14 skill ... 🆕
-- [[shiyu-coder-kronos|Kronos"]] — Kronos: A Foundation Model for the Language of Financial Mar...
+- [[shiyu-coder-kronos|Kronos"]] — Kronos: A Foundation Model for the Language of Financial Mar... 🆕
 - [[soxoj-maigret|maigret"]] — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ s... 🆕
 - [[st-tech-ppf-contact-solver|ppf-contact-solver"]] — A contact solver for physics-based simulations involving 👚 s...
 - [[stefan-jansen-machine-learning-for-trading|machine-learning-for-trading"]] — Code for Machine Learning for Algorithmic Trading, 2nd editi... 🆕
@@ -171,10 +175,12 @@
 - [[tauricresearch-tradingagents|TradingAgents"]] — TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [[tech-leads-club-agent-skills|agent-skills"]] — The secure, validated skill registry for professional AI cod... 🆕
 - [[teng-lin-notebooklm-py|notebooklm-py"]] — Unofficial Python API and agentic skill for Google NotebookL...
+- [[teslamate-org-teslamate|teslamate"]] — A self-hosted data logger for your Tesla 🚘 [main maintainer=... 🆕
 - [[thedotmack-claude-mem|claude-mem"]] — Persistent Context Across Sessions for Every Agent – Capture...
 - [[tinyhumansai-openhuman|openhuman"]] — Your Personal AI super intelligence. Private, Simple and ext... 🔥
 - [[trimstray-the-book-of-secret-knowledge|the-book-of-secret-knowledge"]] — A collection of inspiring lists, manuals, cheatsheets, blogs... 🆕
 - [[truelockmc-streambert|streambert"]] — A cross-platform Electron Desktop App to stream and download... 🆕
+- [[trycua-cua|cua"]] — Open-source infrastructure for Computer-Use Agents. Sandboxe... 🆕
 - [[tryghost-ghost|Ghost"]] — Independent technology for modern publishing, memberships, s...
 - [[twentyhq-twenty|twenty"]] — The open alternative to Salesforce, designed for AI. 🔥
 - [[unclecode-crawl4ai|crawl4ai"]] — 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper....

@@ -33,7 +33,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[cypress-io-cypress]] [[freecodecamp-freecodecamp]] [[msitarzewski-agency-agents]] [[meshery-meshery]]
+[[meshery-meshery]] [[freecodecamp-freecodecamp]] [[iptv-org-iptv]] [[cypress-io-cypress]] [[mikeroyal-self-hosting-guide]]
 
 **所属领域**: [[web]]
 

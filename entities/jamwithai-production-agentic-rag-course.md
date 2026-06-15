@@ -33,7 +33,7 @@ No description
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[shiyu-coder-kronos]] [[chatwoot-chatwoot]] [[music-assistant-server]] [[freecodecamp-freecodecamp]]
+[[shiyu-coder-kronos]] [[stefan-jansen-machine-learning-for-trading]] [[nvidia-skillspector]] [[freecodecamp-freecodecamp]] [[chatwoot-chatwoot]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

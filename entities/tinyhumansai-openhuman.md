@@ -37,7 +37,7 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[aaif-goose-goose]] [[chatwoot-chatwoot]] [[nvidia-skillspector]] [[andrewyng-aisuite]]
+[[dmtrkovalenko-fff]] [[aaif-goose-goose]] [[nvidia-skillspector]] [[ruvnet-ruview]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]]
 

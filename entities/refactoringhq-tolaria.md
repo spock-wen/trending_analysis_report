@@ -37,5 +37,5 @@ Desktop app to manage markdown knowledge bases
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[cypress-io-cypress]] [[meshery-meshery]] [[freecodecamp-freecodecamp]]
+[[meshery-meshery]] [[freecodecamp-freecodecamp]] [[iptv-org-iptv]] [[cypress-io-cypress]]
 

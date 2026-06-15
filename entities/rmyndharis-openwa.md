@@ -34,5 +34,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[cypress-io-cypress]] [[meshery-meshery]] [[freecodecamp-freecodecamp]]
+[[meshery-meshery]] [[freecodecamp-freecodecamp]] [[iptv-org-iptv]] [[cypress-io-cypress]]
 

@@ -34,7 +34,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[santifer-career-ops]] [[shiyu-coder-kronos]] [[openmoss-moss-tts]] [[chatwoot-chatwoot]]
+[[santifer-career-ops]] [[openbmb-voxcpm]] [[shiyu-coder-kronos]] [[mvanhorn-last30days-skill]] [[openmoss-moss-tts]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

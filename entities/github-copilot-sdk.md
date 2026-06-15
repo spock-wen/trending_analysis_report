@@ -34,7 +34,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[chatwoot-chatwoot]] [[nvidia-skillspector]] [[andrewyng-aisuite]] [[opendataloader-project-opendataloader-pdf]]
+[[opendataloader-project-opendataloader-pdf]] [[nvidia-skillspector]] [[rohitg00-ai-engineering-from-scratch]] [[chatwoot-chatwoot]] [[krahets-hello-algo]]
 
 **所属领域**: [[ai-agent]]
 

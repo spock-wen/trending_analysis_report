@@ -33,7 +33,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[shiyu-coder-kronos]] [[chatwoot-chatwoot]] [[music-assistant-server]] [[nvidia-skillspector]]
+[[mvanhorn-last30days-skill]] [[shiyu-coder-kronos]] [[nvidia-skillspector]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

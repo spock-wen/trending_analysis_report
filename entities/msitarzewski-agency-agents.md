@@ -37,7 +37,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[cypress-io-cypress]] [[chatwoot-chatwoot]] [[puppeteer-puppeteer]] [[obra-superpowers]]
+[[obra-superpowers]] [[nvidia-skillspector]] [[leonxlnx-taste-skill]] [[addyosmani-agent-skills]] [[cypress-io-cypress]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

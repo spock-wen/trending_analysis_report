@@ -34,7 +34,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[cypress-io-cypress]] [[kenn-io-agentsview]] [[puppeteer-puppeteer]] [[msitarzewski-agency-agents]] [[nvidia-cosmos]]
+[[teslamate-org-teslamate]] [[itsfatduck-optimizerduck]] [[paddlepaddle-paddleocr]] [[nvidia-skillspector]] [[kenn-io-agentsview]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

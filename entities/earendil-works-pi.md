@@ -34,7 +34,7 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[cypress-io-cypress]] [[freecodecamp-freecodecamp]] [[chatwoot-chatwoot]] [[puppeteer-puppeteer]]
+[[meshery-meshery]] [[obra-superpowers]] [[nvidia-skillspector]] [[freecodecamp-freecodecamp]] [[iptv-org-iptv]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

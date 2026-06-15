@@ -33,7 +33,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[santifer-career-ops]] [[shiyu-coder-kronos]] [[openmoss-moss-tts]] [[chatwoot-chatwoot]]
+[[santifer-career-ops]] [[openbmb-voxcpm]] [[shiyu-coder-kronos]] [[openmoss-moss-tts]] [[open-llm-vtuber-open-llm-vtuber]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

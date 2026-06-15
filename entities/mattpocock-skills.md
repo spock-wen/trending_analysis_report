@@ -34,7 +34,7 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[chatwoot-chatwoot]] [[obra-superpowers]] [[nvidia-skillspector]]
+[[obra-superpowers]] [[nvidia-skillspector]] [[raphire-win11debloat]] [[leonxlnx-taste-skill]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -33,7 +33,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[kenn-io-agentsview]] [[chatwoot-chatwoot]] [[aquasecurity-trivy]] [[nvidia-skillspector]]
+[[restic-restic]] [[aquasecurity-trivy]] [[nvidia-skillspector]] [[kenn-io-agentsview]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]]
 

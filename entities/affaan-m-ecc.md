@@ -37,7 +37,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[pbakaus-impeccable]] [[santifer-career-ops]] [[chatwoot-chatwoot]] [[reconurge-flowsint]]
+[[santifer-career-ops]] [[mvanhorn-last30days-skill]] [[pbakaus-impeccable]] [[itsfatduck-optimizerduck]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

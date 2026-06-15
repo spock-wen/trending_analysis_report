@@ -36,7 +36,7 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[shiyu-coder-kronos]] [[chatwoot-chatwoot]] [[music-assistant-server]] [[nvidia-skillspector]]
+[[shiyu-coder-kronos]] [[nvidia-skillspector]] [[chatwoot-chatwoot]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]]
 

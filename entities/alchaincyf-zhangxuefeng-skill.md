@@ -33,7 +33,7 @@ language: ""
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[nvidia-skillspector]] [[andrewyng-aisuite]] [[chatwoot-chatwoot]]
+[[nvidia-skillspector]] [[chatwoot-chatwoot]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]]
 

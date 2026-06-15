@@ -33,7 +33,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[openmoss-moss-tts]] [[msitarzewski-agency-agents]] [[music-assistant-server]] [[obra-superpowers]]
+[[openbmb-voxcpm]] [[shiyu-coder-kronos]] [[obra-superpowers]] [[open-llm-vtuber-open-llm-vtuber]] [[openmoss-moss-tts]]
 
 **所属领域**: [[cli]] [[audio]]
 

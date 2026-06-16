@@ -34,7 +34,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[santifer-career-ops]] [[openbmb-voxcpm]] [[shiyu-coder-kronos]] [[mvanhorn-last30days-skill]] [[openmoss-moss-tts]]
+[[paddlepaddle-paddleocr]] [[teslamate-org-teslamate]] [[santifer-career-ops]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

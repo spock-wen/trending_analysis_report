@@ -33,7 +33,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[shiyu-coder-kronos]] [[nvidia-skillspector]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]]
+[[teslamate-org-teslamate]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

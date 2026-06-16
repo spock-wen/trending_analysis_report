@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-17",
+  "scraped_at": "2026-06-17T07:00:43.753066",
+  "period": "daily",
+  "count": 13,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars_today": 640,
+      "total_stars": 448514,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+    },
+    {
+      "rank": 2,
+      "repo": "swc-project/swc",
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "stars_today": 21,
+      "total_stars": 33960,
+      "url": "https://github.com/swc-project/swc"
+    },
+    {
+      "rank": 3,
+      "repo": "teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "stars_today": 214,
+      "total_stars": 8394,
+      "url": "https://github.com/teslamate-org/teslamate"
+    },
+    {
+      "rank": 4,
+      "repo": "iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars_today": 1196,
+      "total_stars": 123986,
+      "url": "https://github.com/iptv-org/iptv"
+    },
+    {
+      "rank": 5,
+      "repo": "puppeteer/puppeteer",
+      "description": "JavaScript API for Chrome and Firefox",
+      "language": "TypeScript",
+      "stars_today": 80,
+      "total_stars": 94870,
+      "url": "https://github.com/puppeteer/puppeteer"
+    },
+    {
+      "rank": 6,
+      "repo": "meshery/meshery",
+      "description": "Meshery, the cloud native manager",
+      "language": "TypeScript",
+      "stars_today": 229,
+      "total_stars": 10833,
+      "url": "https://github.com/meshery/meshery"
+    },
+    {
+      "rank": 7,
+      "repo": "cypress-io/cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "language": "TypeScript",
+      "stars_today": 11,
+      "total_stars": 50187,
+      "url": "https://github.com/cypress-io/cypress"
+    },
+    {
+      "rank": 8,
+      "repo": "music-assistant/server",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "language": "Python",
+      "stars_today": 157,
+      "total_stars": 2549,
+      "url": "https://github.com/music-assistant/server"
+    },
+    {
+      "rank": 9,
+      "repo": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "language": "Rust",
+      "stars_today": 146,
+      "total_stars": 7270,
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation"
+    },
+    {
+      "rank": 10,
+      "repo": "OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars_today": 413,
+      "total_stars": 30105,
+      "url": "https://github.com/OpenBMB/VoxCPM"
+    },
+    {
+      "rank": 11,
+      "repo": "alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars_today": 188,
+      "total_stars": 10423,
+      "url": "https://github.com/alibaba/zvec"
+    },
+    {
+      "rank": 12,
+      "repo": "rmyndharis/OpenWA",
+      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+      "language": "TypeScript",
+      "stars_today": 185,
+      "total_stars": 9057,
+      "url": "https://github.com/rmyndharis/OpenWA"
+    },
+    {
+      "rank": 13,
+      "repo": "n0-computer/iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "language": "Rust",
+      "stars_today": 326,
+      "total_stars": 9257,
+      "url": "https://github.com/n0-computer/iroh"
+    }
+  ]
+}

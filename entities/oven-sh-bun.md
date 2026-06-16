@@ -35,5 +35,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager al
 
 ## 相关项目
 
-[[dmtrkovalenko-fff]] [[aaif-goose-goose]] [[ruvnet-ruview]] [[swc-project-swc]]
+[[ruvnet-ruview]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[swc-project-swc]] [[n0-computer-iroh]]
 

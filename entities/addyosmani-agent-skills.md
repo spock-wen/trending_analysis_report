@@ -37,7 +37,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[obra-superpowers]] [[nvidia-skillspector]] [[raphire-win11debloat]] [[leonxlnx-taste-skill]] [[rohitg00-ai-engineering-from-scratch]]
+[[obra-superpowers]] [[teslamate-org-teslamate]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

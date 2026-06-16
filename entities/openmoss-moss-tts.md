@@ -34,7 +34,7 @@ MOSS‑TTS Family is an open‑source speech and sound generation model family f
 
 ## 相关项目
 
-[[santifer-career-ops]] [[openbmb-voxcpm]] [[shiyu-coder-kronos]] [[open-llm-vtuber-open-llm-vtuber]] [[music-assistant-server]]
+[[paddlepaddle-paddleocr]] [[teslamate-org-teslamate]] [[santifer-career-ops]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

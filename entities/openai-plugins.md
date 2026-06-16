@@ -37,7 +37,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[santifer-career-ops]] [[pbakaus-impeccable]] [[nvidia-skillspector]] [[affaan-m-ecc]] [[rohitg00-ai-engineering-from-scratch]]
+[[teslamate-org-teslamate]] [[santifer-career-ops]] [[affaan-m-ecc]] [[pbakaus-impeccable]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]]
 

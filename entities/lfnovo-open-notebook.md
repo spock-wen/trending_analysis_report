@@ -36,5 +36,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[meshery-meshery]] [[freecodecamp-freecodecamp]] [[iptv-org-iptv]] [[cypress-io-cypress]]
+[[iptv-org-iptv]] [[rmyndharis-openwa]] [[meshery-meshery]] [[freecodecamp-freecodecamp]]
 

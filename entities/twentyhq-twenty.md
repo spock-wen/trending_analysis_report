@@ -36,7 +36,7 @@ The open alternative to Salesforce, designed for AI.
 
 ## 相关项目
 
-[[meshery-meshery]] [[nvidia-skillspector]] [[freecodecamp-freecodecamp]] [[iptv-org-iptv]] [[rohitg00-ai-engineering-from-scratch]]
+[[teslamate-org-teslamate]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[rmyndharis-openwa]] [[iptv-org-iptv]]
 
 **所属领域**: [[ai-agent]]
 

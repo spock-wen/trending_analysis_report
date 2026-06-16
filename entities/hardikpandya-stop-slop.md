@@ -37,7 +37,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[chatwoot-chatwoot]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
+[[iptv-org-iptv]] [[rohitg00-ai-engineering-from-scratch]] [[teslamate-org-teslamate]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]]
 

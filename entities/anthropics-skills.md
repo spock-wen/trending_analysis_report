@@ -36,7 +36,7 @@ Public repository for Agent Skills
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[nvidia-skillspector]] [[chatwoot-chatwoot]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
+[[teslamate-org-teslamate]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[ai-agent]]
 

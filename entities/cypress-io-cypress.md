@@ -1,19 +1,19 @@
 ---
 title: "cypress-io/cypress"
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-06-17
 type: tool
 tags: [typescript, web]
-sources: [raw/trending/2026-06-15.json]
-confidence: low
-trending_count_daily: 1
+sources: [raw/trending/2026-06-17.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-15
-last_trending: 2026-06-15
-peak_rank: 8
-total_stars: 49916
+last_trending: 2026-06-17
+peak_rank: 7
+total_stars: 50187
 language: "TypeScript"
 ---
 
@@ -22,18 +22,19 @@ language: "TypeScript"
 Fast, easy and reliable testing for anything that runs in a browser.
 
 - 语言: TypeScript
-- 上榜次数: 1 次
+- 上榜次数: 2 次
 - 连续上榜: 1 天
-- 最高排名: #8
+- 最高排名: #7
 - 链接: [cypress-io/cypress](https://github.com/cypress-io/cypress)
 
 ## 上榜历史
 
+  - 2026-06-17: #7, +11⭐
   - 2026-06-15: #8, +121⭐
 
 ## 相关项目
 
-[[meshery-meshery]] [[freecodecamp-freecodecamp]] [[iptv-org-iptv]] [[mikeroyal-self-hosting-guide]] [[trycua-cua]]
+[[trycua-cua]] [[rmyndharis-openwa]] [[iptv-org-iptv]] [[puppeteer-puppeteer]] [[swc-project-swc]]
 
 **所属领域**: [[web]]
 

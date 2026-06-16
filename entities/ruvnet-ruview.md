@@ -37,5 +37,5 @@ language: "Rust"
 
 ## 相关项目
 
-[[dmtrkovalenko-fff]] [[aaif-goose-goose]] [[nirdiamant-agents-towards-production]] [[nvidia-cosmos]] [[trycua-cua]]
+[[nvidia-cosmos]] [[trycua-cua]] [[nirdiamant-agents-towards-production]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[n0-computer-iroh]]
 

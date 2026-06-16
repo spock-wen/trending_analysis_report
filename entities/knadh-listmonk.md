@@ -33,7 +33,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[restic-restic]] [[aquasecurity-trivy]] [[nvidia-skillspector]] [[kenn-io-agentsview]] [[rohitg00-ai-engineering-from-scratch]]
+[[teslamate-org-teslamate]] [[restic-restic]] [[aquasecurity-trivy]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[restic-restic]] [[aquasecurity-trivy]] [[nvidia-skillspector]] [[paddlepaddle-paddleocr]]
+[[teslamate-org-teslamate]] [[restic-restic]] [[aquasecurity-trivy]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

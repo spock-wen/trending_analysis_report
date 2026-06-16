@@ -33,7 +33,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[obra-superpowers]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[nvidia-skillspector]] [[odoo-odoo]]
+[[obra-superpowers]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[shiyu-coder-kronos]] [[openbmb-voxcpm]]
 
 **所属领域**: [[erp]]
 

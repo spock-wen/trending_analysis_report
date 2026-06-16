@@ -34,7 +34,7 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[obra-superpowers]] [[nvidia-skillspector]] [[raphire-win11debloat]] [[leonxlnx-taste-skill]] [[addyosmani-agent-skills]]
+[[obra-superpowers]] [[teslamate-org-teslamate]] [[addyosmani-agent-skills]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

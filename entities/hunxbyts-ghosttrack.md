@@ -33,5 +33,5 @@ Useful tool to track location or mobile number
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[nvidia-skillspector]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
+[[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[shiyu-coder-kronos]] [[openbmb-voxcpm]]
 

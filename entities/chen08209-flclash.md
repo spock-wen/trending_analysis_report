@@ -33,7 +33,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[obra-superpowers]] [[addyosmani-agent-skills]] [[raphire-win11debloat]] [[panniantong-agent-reach]]
+[[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[obra-superpowers]] [[raphire-win11debloat]]
 
 **所属领域**: [[cli]]
 

@@ -36,7 +36,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[itsfatduck-optimizerduck]] [[jellyfin-jellyfin]] [[nvidia-skillspector]] [[rohitg00-ai-engineering-from-scratch]] [[chatwoot-chatwoot]]
+[[teslamate-org-teslamate]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[itsfatduck-optimizerduck]] [[iptv-org-iptv]]
 
 **所属领域**: [[ai-agent]]
 

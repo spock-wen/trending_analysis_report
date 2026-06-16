@@ -36,7 +36,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[itsfatduck-optimizerduck]] [[restic-restic]] [[nvidia-skillspector]] [[kenn-io-agentsview]] [[affaan-m-ecc]]
+[[teslamate-org-teslamate]] [[restic-restic]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[universal-debloater-alliance-universal-android-debloater-next-generation]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

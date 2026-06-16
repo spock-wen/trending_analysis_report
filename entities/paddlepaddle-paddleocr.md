@@ -35,7 +35,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[santifer-career-ops]] [[openbmb-voxcpm]] [[shiyu-coder-kronos]] [[teslamate-org-teslamate]] [[openmoss-moss-tts]]
+[[teslamate-org-teslamate]] [[santifer-career-ops]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[meshery-meshery]] [[openbmb-voxcpm]] [[open-llm-vtuber-open-llm-vtuber]] [[openmoss-moss-tts]] [[music-assistant-server]]
+[[teslamate-org-teslamate]] [[trycua-cua]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

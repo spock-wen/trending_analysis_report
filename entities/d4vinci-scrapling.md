@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[nvidia-skillspector]] [[rohitg00-ai-engineering-from-scratch]] [[cypress-io-cypress]] [[mikeroyal-self-hosting-guide]]
+[[trycua-cua]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[shiyu-coder-kronos]] [[openbmb-voxcpm]]
 
 **所属领域**: [[web]]
 

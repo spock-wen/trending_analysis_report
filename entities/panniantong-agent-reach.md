@@ -36,7 +36,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[obra-superpowers]] [[nvidia-skillspector]] [[addyosmani-agent-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[obra-superpowers]] [[teslamate-org-teslamate]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

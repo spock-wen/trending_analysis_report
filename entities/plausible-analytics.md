@@ -34,7 +34,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[itsfatduck-optimizerduck]] [[paddlepaddle-paddleocr]] [[nvidia-skillspector]] [[kenn-io-agentsview]]
+[[teslamate-org-teslamate]] [[trycua-cua]] [[masterking32-masterdnsvpn]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[itsfatduck-optimizerduck]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

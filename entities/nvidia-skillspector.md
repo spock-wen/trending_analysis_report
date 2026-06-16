@@ -36,7 +36,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[itsfatduck-optimizerduck]] [[affaan-m-ecc]] [[chatwoot-chatwoot]] [[rohitg00-ai-engineering-from-scratch]]
+[[teslamate-org-teslamate]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[universal-debloater-alliance-universal-android-debloater-next-generation]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

@@ -34,7 +34,7 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[meshery-meshery]] [[obra-superpowers]] [[nvidia-skillspector]] [[freecodecamp-freecodecamp]] [[iptv-org-iptv]]
+[[obra-superpowers]] [[teslamate-org-teslamate]] [[trycua-cua]] [[addyosmani-agent-skills]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

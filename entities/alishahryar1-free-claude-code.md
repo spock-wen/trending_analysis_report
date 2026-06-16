@@ -35,7 +35,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[shiyu-coder-kronos]] [[obra-superpowers]] [[open-llm-vtuber-open-llm-vtuber]] [[openmoss-moss-tts]]
+[[obra-superpowers]] [[teslamate-org-teslamate]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

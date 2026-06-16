@@ -35,7 +35,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[pbakaus-impeccable]] [[openmoss-moss-tts]] [[nvidia-skillspector]] [[paddlepaddle-paddleocr]]
+[[paddlepaddle-paddleocr]] [[teslamate-org-teslamate]] [[affaan-m-ecc]] [[pbakaus-impeccable]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

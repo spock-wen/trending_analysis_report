@@ -36,7 +36,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[digitalplatdev-freedomain]] [[cypress-io-cypress]] [[rohitg00-ai-engineering-from-scratch]] [[chatwoot-chatwoot]]
+[[teslamate-org-teslamate]] [[trycua-cua]] [[digitalplatdev-freedomain]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

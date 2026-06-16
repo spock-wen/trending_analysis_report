@@ -37,7 +37,7 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[dmtrkovalenko-fff]] [[aaif-goose-goose]] [[nvidia-skillspector]] [[ruvnet-ruview]] [[panniantong-agent-reach]]
+[[ruvnet-ruview]] [[teslamate-org-teslamate]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[universal-debloater-alliance-universal-android-debloater-next-generation]]
 
 **所属领域**: [[ai-agent]]
 

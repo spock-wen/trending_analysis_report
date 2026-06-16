@@ -33,5 +33,5 @@ language: "Java"
 
 ## 相关项目
 
-[[opendataloader-project-opendataloader-pdf]] [[github-copilot-sdk]]
+[[github-copilot-sdk]] [[opendataloader-project-opendataloader-pdf]]
 

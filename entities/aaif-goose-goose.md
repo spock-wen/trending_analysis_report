@@ -35,7 +35,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[dmtrkovalenko-fff]] [[nvidia-skillspector]] [[ruvnet-ruview]] [[rohitg00-ai-engineering-from-scratch]] [[chatwoot-chatwoot]]
+[[ruvnet-ruview]] [[teslamate-org-teslamate]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[universal-debloater-alliance-universal-android-debloater-next-generation]]
 
 **所属领域**: [[ai-agent]]
 

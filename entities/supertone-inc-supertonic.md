@@ -35,7 +35,7 @@ Lightning-Fast, On-Device, Multilingual TTS running natively via ONNX.
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[open-llm-vtuber-open-llm-vtuber]] [[openmoss-moss-tts]] [[music-assistant-server]] [[apple-container]]
+[[music-assistant-server]] [[openbmb-voxcpm]] [[open-llm-vtuber-open-llm-vtuber]] [[openmoss-moss-tts]] [[apple-container]]
 
 **所属领域**: [[audio]]
 

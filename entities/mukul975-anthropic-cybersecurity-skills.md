@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[obra-superpowers]] [[itsfatduck-optimizerduck]] [[nvidia-skillspector]] [[addyosmani-agent-skills]]
+[[obra-superpowers]] [[teslamate-org-teslamate]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

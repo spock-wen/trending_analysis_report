@@ -34,7 +34,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[obra-superpowers]] [[addyosmani-agent-skills]] [[cypress-io-cypress]] [[mikeroyal-self-hosting-guide]] [[trycua-cua]]
+[[obra-superpowers]] [[trycua-cua]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[raphire-win11debloat]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -36,7 +36,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[shiyu-coder-kronos]] [[openmoss-moss-tts]] [[music-assistant-server]] [[nvidia-skillspector]]
+[[teslamate-org-teslamate]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

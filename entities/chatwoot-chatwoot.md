@@ -36,7 +36,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
+[[iptv-org-iptv]] [[rohitg00-ai-engineering-from-scratch]] [[teslamate-org-teslamate]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]]
 

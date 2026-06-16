@@ -37,7 +37,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[meshery-meshery]] [[obra-superpowers]] [[stefan-jansen-machine-learning-for-trading]] [[nvidia-skillspector]] [[freecodecamp-freecodecamp]]
+[[obra-superpowers]] [[teslamate-org-teslamate]] [[addyosmani-agent-skills]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

@@ -34,7 +34,7 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[meshery-meshery]] [[nvidia-skillspector]] [[freecodecamp-freecodecamp]] [[iptv-org-iptv]] [[rohitg00-ai-engineering-from-scratch]]
+[[teslamate-org-teslamate]] [[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[rmyndharis-openwa]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

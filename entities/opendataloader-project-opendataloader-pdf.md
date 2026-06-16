@@ -33,7 +33,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[github-copilot-sdk]] [[nvidia-skillspector]] [[paddlepaddle-paddleocr]] [[kenn-io-agentsview]]
+[[teslamate-org-teslamate]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[iptv-org-iptv]] [[kenn-io-agentsview]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

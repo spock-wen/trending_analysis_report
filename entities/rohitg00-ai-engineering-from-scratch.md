@@ -37,7 +37,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[stefan-jansen-machine-learning-for-trading]] [[nvidia-skillspector]] [[freecodecamp-freecodecamp]] [[chatwoot-chatwoot]]
+[[teslamate-org-teslamate]] [[music-assistant-server]] [[panniantong-agent-reach]] [[stefan-jansen-machine-learning-for-trading]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

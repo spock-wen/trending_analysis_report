@@ -34,5 +34,5 @@ NVR with realtime local object detection for IP cameras
 
 ## 相关项目
 
-[[meshery-meshery]] [[freecodecamp-freecodecamp]] [[iptv-org-iptv]] [[cypress-io-cypress]]
+[[iptv-org-iptv]] [[rmyndharis-openwa]] [[meshery-meshery]] [[freecodecamp-freecodecamp]]
 

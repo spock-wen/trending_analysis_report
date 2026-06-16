@@ -33,7 +33,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[meshery-meshery]] [[obra-superpowers]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[odoo-odoo]] [[freecodecamp-freecodecamp]]
+[[obra-superpowers]] [[rmyndharis-openwa]] [[iptv-org-iptv]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[cloakhq-cloakbrowser]]
 
 **所属领域**: [[erp]]
 

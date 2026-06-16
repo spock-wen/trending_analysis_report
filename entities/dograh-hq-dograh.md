@@ -33,7 +33,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[shiyu-coder-kronos]] [[open-llm-vtuber-open-llm-vtuber]] [[openmoss-moss-tts]] [[music-assistant-server]]
+[[teslamate-org-teslamate]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

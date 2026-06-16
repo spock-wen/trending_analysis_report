@@ -1,19 +1,19 @@
 ---
 title: "puppeteer/puppeteer"
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-06-17
 type: tool
 tags: [typescript, web]
-sources: [raw/trending/2026-06-15.json]
-confidence: low
-trending_count_daily: 1
+sources: [raw/trending/2026-06-17.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-15
-last_trending: 2026-06-15
-peak_rank: 14
-total_stars: 94632
+last_trending: 2026-06-17
+peak_rank: 5
+total_stars: 94870
 language: "TypeScript"
 ---
 
@@ -22,18 +22,19 @@ language: "TypeScript"
 JavaScript API for Chrome and Firefox
 
 - 语言: TypeScript
-- 上榜次数: 1 次
+- 上榜次数: 2 次
 - 连续上榜: 1 天
-- 最高排名: #14
+- 最高排名: #5
 - 链接: [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
 
 ## 上榜历史
 
+  - 2026-06-17: #5, +80⭐
   - 2026-06-15: #14, +59⭐
 
 ## 相关项目
 
-[[meshery-meshery]] [[freecodecamp-freecodecamp]] [[iptv-org-iptv]] [[cypress-io-cypress]] [[mikeroyal-self-hosting-guide]]
+[[trycua-cua]] [[rmyndharis-openwa]] [[iptv-org-iptv]] [[cypress-io-cypress]] [[swc-project-swc]]
 
 **所属领域**: [[web]]
 

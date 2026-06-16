@@ -37,7 +37,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[obra-superpowers]] [[nvidia-skillspector]] [[addyosmani-agent-skills]] [[chatwoot-chatwoot]] [[raphire-win11debloat]]
+[[obra-superpowers]] [[teslamate-org-teslamate]] [[addyosmani-agent-skills]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

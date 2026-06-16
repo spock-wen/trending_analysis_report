@@ -35,7 +35,7 @@ Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli
 
 ## 相关项目
 
-[[itsfatduck-optimizerduck]] [[restic-restic]] [[aquasecurity-trivy]] [[nvidia-skillspector]] [[kenn-io-agentsview]]
+[[restic-restic]] [[aquasecurity-trivy]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[itsfatduck-optimizerduck]] [[nvidia-skillspector]]
 
 **所属领域**: [[security]]
 

@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[santifer-career-ops]] [[openbmb-voxcpm]] [[shiyu-coder-kronos]] [[openmoss-moss-tts]] [[nvidia-skillspector]]
+[[paddlepaddle-paddleocr]] [[teslamate-org-teslamate]] [[santifer-career-ops]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

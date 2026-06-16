@@ -33,7 +33,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[obra-superpowers]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[mikeroyal-self-hosting-guide]] [[stefan-jansen-machine-learning-for-trading]] [[nvidia-skillspector]]
+[[nvidia-cosmos]] [[ruvnet-ruview]] [[obra-superpowers]] [[teslamate-org-teslamate]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[education]] [[erp]]
 

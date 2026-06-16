@@ -37,7 +37,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[x1xhlol-system-prompts-and-models-of-ai-tools]] [[nvidia-skillspector]] [[raphire-win11debloat]] [[odoo-odoo]] [[leonxlnx-taste-skill]]
+[[teslamate-org-teslamate]] [[addyosmani-agent-skills]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

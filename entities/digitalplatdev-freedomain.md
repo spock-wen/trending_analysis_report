@@ -36,7 +36,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[revfactory-harness]] [[rohitg00-ai-engineering-from-scratch]] [[chatwoot-chatwoot]] [[cypress-io-cypress]]
+[[teslamate-org-teslamate]] [[revfactory-harness]] [[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

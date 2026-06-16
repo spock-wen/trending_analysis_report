@@ -37,5 +37,5 @@ Kronos: A Foundation Model for the Language of Financial Markets
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
+[[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[openbmb-voxcpm]]
 

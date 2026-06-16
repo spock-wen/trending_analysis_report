@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[mikeroyal-self-hosting-guide]] [[stefan-jansen-machine-learning-for-trading]] [[nvidia-skillspector]] [[freecodecamp-freecodecamp]] [[rohitg00-ai-engineering-from-scratch]]
+[[nvidia-cosmos]] [[teslamate-org-teslamate]] [[rohitg00-ai-engineering-from-scratch]] [[stefan-jansen-machine-learning-for-trading]] [[datatalksclub-data-engineering-zoomcamp]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

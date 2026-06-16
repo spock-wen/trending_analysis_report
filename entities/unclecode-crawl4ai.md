@@ -33,7 +33,7 @@ language: "Python"
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[nvidia-skillspector]] [[cypress-io-cypress]] [[chatwoot-chatwoot]] [[rohitg00-ai-engineering-from-scratch]]
+[[teslamate-org-teslamate]] [[trycua-cua]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

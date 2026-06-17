@@ -35,5 +35,5 @@ We write your reusable computer vision tools. 💜
 
 ## 相关项目
 
-[[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[shiyu-coder-kronos]] [[openbmb-voxcpm]]
+[[calesthio-openmontage]] [[alexzhang13-rlm]] [[panniantong-agent-reach]] [[google-research-timesfm]]
 

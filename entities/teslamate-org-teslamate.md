@@ -34,7 +34,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[iptv-org-iptv]] [[fareedkhan-dev-train-llm-from-scratch]] [[kenn-io-agentsview]]
+[[panniantong-agent-reach]] [[mattpocock-skills]] [[deusdata-codebase-memory-mcp]] [[calesthio-openmontage]] [[alibaba-zvec]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -33,7 +33,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[nvidia-cosmos]] [[ruvnet-ruview]] [[obra-superpowers]] [[teslamate-org-teslamate]] [[trycua-cua]]
+[[panniantong-agent-reach]] [[mikeroyal-self-hosting-guide]] [[mattpocock-skills]] [[cloakhq-cloakbrowser]] [[odoo-odoo]]
 
 **所属领域**: [[ai-agent]] [[education]] [[erp]]
 

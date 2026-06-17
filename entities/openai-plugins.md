@@ -37,7 +37,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[santifer-career-ops]] [[affaan-m-ecc]] [[pbakaus-impeccable]] [[rohitg00-ai-engineering-from-scratch]]
+[[panniantong-agent-reach]] [[mattpocock-skills]] [[affaan-m-ecc]] [[santifer-career-ops]] [[chatwoot-chatwoot]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[rmyndharis-openwa]]
+[[continuedev-continue]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[meshery-meshery]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

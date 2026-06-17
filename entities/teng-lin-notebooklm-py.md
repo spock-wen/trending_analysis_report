@@ -33,7 +33,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[obra-superpowers]] [[teslamate-org-teslamate]] [[trycua-cua]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]]
+[[panniantong-agent-reach]] [[mattpocock-skills]] [[calesthio-openmontage]] [[google-research-timesfm]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

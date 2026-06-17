@@ -35,5 +35,5 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything.
 
 ## 相关项目
 
-[[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[shiyu-coder-kronos]] [[openbmb-voxcpm]]
+[[calesthio-openmontage]] [[alexzhang13-rlm]] [[panniantong-agent-reach]] [[google-research-timesfm]]
 

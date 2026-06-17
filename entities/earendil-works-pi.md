@@ -34,7 +34,7 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[obra-superpowers]] [[teslamate-org-teslamate]] [[trycua-cua]] [[addyosmani-agent-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[continuedev-continue]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[meshery-meshery]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

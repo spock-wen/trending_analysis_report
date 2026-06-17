@@ -36,7 +36,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[revfactory-harness]] [[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
+[[revfactory-harness]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[trycua-cua]] [[swc-project-swc]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

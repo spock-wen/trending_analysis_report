@@ -37,5 +37,5 @@ language: "Rust"
 
 ## 相关项目
 
-[[nvidia-cosmos]] [[trycua-cua]] [[nirdiamant-agents-towards-production]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[n0-computer-iroh]]
+[[n0-computer-iroh]] [[trycua-cua]] [[swc-project-swc]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[nvidia-cosmos]]
 

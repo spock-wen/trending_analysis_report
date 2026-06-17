@@ -33,7 +33,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[santifer-career-ops]] [[affaan-m-ecc]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
+[[panniantong-agent-reach]] [[mattpocock-skills]] [[affaan-m-ecc]] [[openai-plugins]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]]
 

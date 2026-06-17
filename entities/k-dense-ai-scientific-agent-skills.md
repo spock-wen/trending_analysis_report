@@ -36,7 +36,7 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[affaan-m-ecc]]
+[[nousresearch-hermes-agent]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[affaan-m-ecc]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

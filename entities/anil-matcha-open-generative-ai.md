@@ -33,7 +33,7 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[paddlepaddle-paddleocr]] [[teslamate-org-teslamate]] [[santifer-career-ops]] [[affaan-m-ecc]] [[pbakaus-impeccable]]
+[[panniantong-agent-reach]] [[affaan-m-ecc]] [[mattpocock-skills]] [[openai-plugins]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

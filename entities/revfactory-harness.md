@@ -36,7 +36,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[trycua-cua]] [[digitalplatdev-freedomain]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
+[[digitalplatdev-freedomain]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[trycua-cua]] [[swc-project-swc]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

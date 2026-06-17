@@ -36,7 +36,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[affaan-m-ecc]]
+[[panniantong-agent-reach]] [[mattpocock-skills]] [[affaan-m-ecc]] [[calesthio-openmontage]] [[google-research-timesfm]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

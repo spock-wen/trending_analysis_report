@@ -33,7 +33,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[obra-superpowers]] [[teslamate-org-teslamate]] [[addyosmani-agent-skills]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
+[[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[chatwoot-chatwoot]] [[makeplane-plane]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -33,7 +33,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[universal-debloater-alliance-universal-android-debloater-next-generation]] [[nvidia-skillspector]] [[dotnet-skills]] [[masterking32-masterdnsvpn]] [[jellyfin-jellyfin]]
+[[nvidia-skillspector]] [[jellyfin-jellyfin]] [[masterking32-masterdnsvpn]] [[dotnet-skills]] [[universal-debloater-alliance-universal-android-debloater-next-generation]]
 
 **所属领域**: [[security]]
 

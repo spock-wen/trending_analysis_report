@@ -33,5 +33,5 @@ Create and share 3D architectural projects.
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[rmyndharis-openwa]] [[meshery-meshery]] [[freecodecamp-freecodecamp]]
+[[meshery-meshery]] [[continuedev-continue]] [[bytedance-ui-tars-desktop]] [[freecodecamp-freecodecamp]]
 

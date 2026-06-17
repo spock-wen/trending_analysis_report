@@ -35,7 +35,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[obra-superpowers]] [[teslamate-org-teslamate]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
+[[panniantong-agent-reach]] [[music-assistant-server]] [[mattpocock-skills]] [[calesthio-openmontage]] [[google-research-timesfm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

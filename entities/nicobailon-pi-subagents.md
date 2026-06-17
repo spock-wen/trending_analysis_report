@@ -33,7 +33,7 @@ Pi extension for async subagent delegation with truncation, artifacts, and sessi
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[rmyndharis-openwa]] [[iptv-org-iptv]]
+[[continuedev-continue]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[meshery-meshery]] [[freecodecamp-freecodecamp]]
 
 **所属领域**: [[ai-agent]]
 

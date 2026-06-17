@@ -33,7 +33,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[obra-superpowers]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[shiyu-coder-kronos]] [[openbmb-voxcpm]]
+[[panniantong-agent-reach]] [[calesthio-openmontage]] [[cloakhq-cloakbrowser]] [[odoo-odoo]] [[google-research-timesfm]]
 
 **所属领域**: [[erp]]
 

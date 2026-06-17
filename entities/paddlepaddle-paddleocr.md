@@ -35,7 +35,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[santifer-career-ops]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
+[[panniantong-agent-reach]] [[mattpocock-skills]] [[teslamate-org-teslamate]] [[calesthio-openmontage]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

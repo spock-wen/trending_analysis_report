@@ -33,7 +33,7 @@ No description
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[stefan-jansen-machine-learning-for-trading]]
+[[panniantong-agent-reach]] [[mikeroyal-self-hosting-guide]] [[mattpocock-skills]] [[calesthio-openmontage]] [[google-research-timesfm]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

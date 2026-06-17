@@ -37,7 +37,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[obra-superpowers]] [[teslamate-org-teslamate]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[leonxlnx-taste-skill]]
+[[panniantong-agent-reach]] [[mattpocock-skills]] [[chatwoot-chatwoot]] [[makeplane-plane]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

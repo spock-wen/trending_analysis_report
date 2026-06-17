@@ -34,7 +34,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[paddlepaddle-paddleocr]] [[teslamate-org-teslamate]] [[santifer-career-ops]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]]
+[[nousresearch-hermes-agent]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[affaan-m-ecc]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

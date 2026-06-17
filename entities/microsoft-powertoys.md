@@ -34,5 +34,5 @@ Microsoft PowerToys is a collection of utilities that supercharge productivity a
 
 ## 相关项目
 
-- 暂无
+[[deusdata-codebase-memory-mcp]]
 

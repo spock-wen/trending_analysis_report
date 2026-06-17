@@ -37,7 +37,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[rohitg00-ai-engineering-from-scratch]] [[teslamate-org-teslamate]] [[panniantong-agent-reach]]
+[[chatwoot-chatwoot]] [[panniantong-agent-reach]] [[obra-superpowers]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

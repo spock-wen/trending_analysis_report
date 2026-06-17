@@ -33,7 +33,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[affaan-m-ecc]] [[shiyu-coder-kronos]] [[openbmb-voxcpm]]
+[[nousresearch-hermes-agent]] [[panniantong-agent-reach]] [[affaan-m-ecc]] [[calesthio-openmontage]] [[google-research-timesfm]]
 
 **所属领域**: [[science]]
 

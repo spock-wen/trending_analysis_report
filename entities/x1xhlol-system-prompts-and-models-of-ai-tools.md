@@ -36,7 +36,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ## 相关项目
 
-[[obra-superpowers]] [[teslamate-org-teslamate]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[iptv-org-iptv]]
+[[panniantong-agent-reach]] [[mattpocock-skills]] [[cloakhq-cloakbrowser]] [[odoo-odoo]] [[chatwoot-chatwoot]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

@@ -33,7 +33,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[stefan-jansen-machine-learning-for-trading]]
+[[panniantong-agent-reach]] [[mattpocock-skills]] [[trycua-cua]] [[freecodecamp-freecodecamp]] [[swc-project-swc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

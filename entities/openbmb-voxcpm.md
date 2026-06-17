@@ -37,7 +37,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[paddlepaddle-paddleocr]] [[santifer-career-ops]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[universal-debloater-alliance-universal-android-debloater-next-generation]]
+[[panniantong-agent-reach]] [[music-assistant-server]] [[calesthio-openmontage]] [[google-research-timesfm]] [[santifer-career-ops]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

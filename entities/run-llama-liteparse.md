@@ -34,5 +34,5 @@ A fast, helpful, and open-source document parser
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[swc-project-swc]] [[n0-computer-iroh]]
+[[ruvnet-ruview]] [[swc-project-swc]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[n0-computer-iroh]]
 

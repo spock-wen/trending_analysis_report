@@ -33,7 +33,7 @@ Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 
 ## 相关项目
 
-[[nvidia-cosmos]] [[ruvnet-ruview]] [[revfactory-harness]] [[teslamate-org-teslamate]] [[nirdiamant-agents-towards-production]]
+[[revfactory-harness]] [[digitalplatdev-freedomain]] [[panniantong-agent-reach]] [[nvidia-cosmos]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

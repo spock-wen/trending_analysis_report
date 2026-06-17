@@ -34,7 +34,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[obra-superpowers]] [[trycua-cua]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[raphire-win11debloat]]
+[[panniantong-agent-reach]] [[mattpocock-skills]] [[trycua-cua]] [[swc-project-swc]] [[makeplane-plane]]
 
 **所属领域**: [[web]] [[cli]]
 

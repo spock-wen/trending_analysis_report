@@ -37,7 +37,7 @@ Collection of publicly available IPTV channels from all over the world
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]] [[rmyndharis-openwa]] [[meshery-meshery]]
+[[continuedev-continue]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[meshery-meshery]] [[freecodecamp-freecodecamp]]
 
 **所属领域**: [[ai-agent]]
 

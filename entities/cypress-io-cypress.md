@@ -34,7 +34,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[trycua-cua]] [[rmyndharis-openwa]] [[iptv-org-iptv]] [[puppeteer-puppeteer]] [[swc-project-swc]]
+[[continuedev-continue]] [[meshery-meshery]] [[trycua-cua]] [[freecodecamp-freecodecamp]] [[swc-project-swc]]
 
 **所属领域**: [[web]]
 

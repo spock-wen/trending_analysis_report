@@ -35,7 +35,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[obra-superpowers]] [[teslamate-org-teslamate]] [[supertone-inc-supertonic]] [[addyosmani-agent-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[panniantong-agent-reach]] [[mattpocock-skills]] [[apple-container]] [[chatwoot-chatwoot]] [[makeplane-plane]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

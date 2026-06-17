@@ -34,7 +34,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[trycua-cua]] [[rmyndharis-openwa]] [[iptv-org-iptv]] [[cypress-io-cypress]] [[swc-project-swc]]
+[[continuedev-continue]] [[meshery-meshery]] [[trycua-cua]] [[freecodecamp-freecodecamp]] [[swc-project-swc]]
 
 **所属领域**: [[web]]
 

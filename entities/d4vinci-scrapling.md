@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[trycua-cua]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[shiyu-coder-kronos]] [[openbmb-voxcpm]]
+[[panniantong-agent-reach]] [[calesthio-openmontage]] [[google-research-timesfm]] [[trycua-cua]] [[swc-project-swc]]
 
 **所属领域**: [[web]]
 

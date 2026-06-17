@@ -37,7 +37,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[obra-superpowers]] [[teslamate-org-teslamate]] [[trycua-cua]] [[addyosmani-agent-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[trycua-cua]] [[swc-project-swc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

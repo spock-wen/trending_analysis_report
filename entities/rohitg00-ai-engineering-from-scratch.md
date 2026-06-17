@@ -37,7 +37,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[music-assistant-server]] [[panniantong-agent-reach]] [[stefan-jansen-machine-learning-for-trading]] [[shiyu-coder-kronos]]
+[[panniantong-agent-reach]] [[mikeroyal-self-hosting-guide]] [[mattpocock-skills]] [[calesthio-openmontage]] [[google-research-timesfm]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

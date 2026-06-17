@@ -35,7 +35,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[universal-debloater-alliance-universal-android-debloater-next-generation]] [[rmyndharis-openwa]] [[itsfatduck-optimizerduck]] [[iptv-org-iptv]] [[nvidia-skillspector]]
+[[continuedev-continue]] [[nvidia-skillspector]] [[meshery-meshery]] [[itsfatduck-optimizerduck]] [[freecodecamp-freecodecamp]]
 
 **所属领域**: [[security]]
 

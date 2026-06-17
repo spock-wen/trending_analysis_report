@@ -33,7 +33,7 @@ language: "Python"
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[trycua-cua]] [[music-assistant-server]] [[rohitg00-ai-engineering-from-scratch]] [[panniantong-agent-reach]]
+[[panniantong-agent-reach]] [[mattpocock-skills]] [[calesthio-openmontage]] [[google-research-timesfm]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

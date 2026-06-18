@@ -33,7 +33,7 @@ World's first open-source, agentic video production system. 12 pipelines, 52 too
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mattpocock-skills]] [[teslamate-org-teslamate]] [[deusdata-codebase-memory-mcp]] [[alibaba-zvec]]
+[[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

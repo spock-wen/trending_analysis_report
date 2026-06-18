@@ -33,5 +33,5 @@ Useful tool to track location or mobile number
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[alexzhang13-rlm]] [[panniantong-agent-reach]] [[google-research-timesfm]]
+[[libretranslate-libretranslate]] [[lightricks-ltx-2]] [[yifanfeng97-hyper-extract]] [[google-research-timesfm]]
 

@@ -37,7 +37,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mikeroyal-self-hosting-guide]] [[mattpocock-skills]] [[calesthio-openmontage]] [[google-research-timesfm]]
+[[owainlewis-awesome-artificial-intelligence]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

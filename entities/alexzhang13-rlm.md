@@ -33,5 +33,5 @@ General plug-and-play inference library for Recursive Language Models (RLMs), su
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[panniantong-agent-reach]] [[google-research-timesfm]]
+[[libretranslate-libretranslate]] [[lightricks-ltx-2]] [[yifanfeng97-hyper-extract]] [[google-research-timesfm]]
 

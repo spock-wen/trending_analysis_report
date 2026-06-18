@@ -1,7 +1,7 @@
 ---
 title: "TypeScript Ecosystem Surge"
 created: 2026-06-08
-updated: 2026-06-18
+updated: 2026-06-19
 type: concept
 tags: [typescript, surge]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 信号概述
 
-2026-06-18 检测到 TypeScript 领域有 5 个项目同时上榜，表明该语言生态近期活跃度显著上升。
+2026-06-19 检测到 TypeScript 领域有 5 个项目同时上榜，表明该语言生态近期活跃度显著上升。
 
 ## 上榜项目（5 个）
 
-[[meshery-meshery]] [[continuedev-continue]] [[freecodecamp-freecodecamp]] [[bytedance-ui-tars-desktop]] [[makeplane-plane]]
+[[freecodecamp-freecodecamp]] [[withastro-flue]] [[kilo-org-kilocode]] [[makeplane-plane]] [[kong-insomnia]]
 
 ## 语言分布
 

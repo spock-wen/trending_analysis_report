@@ -35,7 +35,7 @@ The open-source managed agents platform. Turn coding agents into real teammates 
 
 ## 相关项目
 
-[[continuedev-continue]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[meshery-meshery]] [[freecodecamp-freecodecamp]]
+[[withastro-flue]] [[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[makeplane-plane]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

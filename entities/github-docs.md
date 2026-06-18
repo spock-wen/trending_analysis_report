@@ -33,5 +33,5 @@ The open-source repo for docs.github.com
 
 ## 相关项目
 
-[[meshery-meshery]] [[continuedev-continue]] [[bytedance-ui-tars-desktop]] [[freecodecamp-freecodecamp]]
+[[kilo-org-kilocode]] [[makeplane-plane]] [[withastro-flue]] [[freecodecamp-freecodecamp]]
 

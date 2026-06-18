@@ -36,7 +36,7 @@ Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr
 
 ## 相关项目
 
-[[continuedev-continue]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[meshery-meshery]] [[freecodecamp-freecodecamp]]
+[[withastro-flue]] [[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[makeplane-plane]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[continuedev-continue]] [[meshery-meshery]] [[trycua-cua]] [[freecodecamp-freecodecamp]] [[swc-project-swc]]
+[[kong-insomnia]] [[withastro-flue]] [[makeplane-plane]] [[swc-project-swc]] [[freecodecamp-freecodecamp]]
 
 **所属领域**: [[web]]
 

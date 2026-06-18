@@ -35,7 +35,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mattpocock-skills]] [[n0-computer-iroh]] [[swc-project-swc]] [[chatwoot-chatwoot]]
+[[n0-computer-iroh]] [[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[swc-project-swc]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

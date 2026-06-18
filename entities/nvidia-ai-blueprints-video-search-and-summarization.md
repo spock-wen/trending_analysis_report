@@ -34,7 +34,7 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mattpocock-skills]] [[teslamate-org-teslamate]] [[calesthio-openmontage]] [[deusdata-codebase-memory-mcp]]
+[[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

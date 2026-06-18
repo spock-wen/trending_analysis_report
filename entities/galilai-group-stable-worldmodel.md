@@ -34,7 +34,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[affaan-m-ecc]] [[calesthio-openmontage]]
+[[paddlepaddle-paddleocr]] [[nousresearch-hermes-agent]] [[santifer-career-ops]] [[owainlewis-awesome-artificial-intelligence]] [[google-research-timesfm]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

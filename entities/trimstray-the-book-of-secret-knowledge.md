@@ -34,7 +34,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mattpocock-skills]] [[trycua-cua]] [[swc-project-swc]] [[makeplane-plane]]
+[[kong-insomnia]] [[makeplane-plane]] [[swc-project-swc]] [[obra-superpowers]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -36,7 +36,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[revfactory-harness]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[trycua-cua]] [[swc-project-swc]]
+[[kong-insomnia]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[revfactory-harness]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

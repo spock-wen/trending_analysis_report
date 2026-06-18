@@ -33,7 +33,7 @@ No description
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mikeroyal-self-hosting-guide]] [[mattpocock-skills]] [[calesthio-openmontage]] [[google-research-timesfm]]
+[[rohitg00-ai-engineering-from-scratch]] [[owainlewis-awesome-artificial-intelligence]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

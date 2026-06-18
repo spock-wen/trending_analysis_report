@@ -34,7 +34,7 @@ What are the principles we can use to build LLM-powered software that is actuall
 
 ## 相关项目
 
-[[continuedev-continue]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[meshery-meshery]] [[freecodecamp-freecodecamp]]
+[[withastro-flue]] [[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[makeplane-plane]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

@@ -33,7 +33,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mattpocock-skills]] [[bannedbook-fanqiang]] [[chatwoot-chatwoot]] [[obra-superpowers]]
+[[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[obra-superpowers]] [[zai-org-glm-5]] [[bannedbook-fanqiang]]
 
 **所属领域**: [[ai-agent]]
 

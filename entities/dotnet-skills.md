@@ -36,7 +36,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mattpocock-skills]] [[jellyfin-jellyfin]] [[chatwoot-chatwoot]] [[obra-superpowers]]
+[[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[obra-superpowers]] [[zai-org-glm-5]] [[jellyfin-jellyfin]]
 
 **所属领域**: [[ai-agent]]
 

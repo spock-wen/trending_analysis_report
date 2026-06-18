@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mattpocock-skills]] [[calesthio-openmontage]] [[google-research-timesfm]] [[openbmb-voxcpm]]
+[[paddlepaddle-paddleocr]] [[santifer-career-ops]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -33,7 +33,7 @@ Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 
 ## 相关项目
 
-[[revfactory-harness]] [[digitalplatdev-freedomain]] [[panniantong-agent-reach]] [[nvidia-cosmos]] [[mattpocock-skills]]
+[[kong-insomnia]] [[digitalplatdev-freedomain]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[revfactory-harness]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

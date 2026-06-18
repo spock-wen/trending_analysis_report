@@ -33,7 +33,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mattpocock-skills]] [[affaan-m-ecc]] [[openai-plugins]] [[santifer-career-ops]]
+[[openai-plugins]] [[santifer-career-ops]] [[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[teslamate-org-teslamate]] [[deusdata-codebase-memory-mcp]] [[calesthio-openmontage]] [[alibaba-zvec]]
+[[kong-insomnia]] [[nvidia-skillspector]] [[deusdata-codebase-memory-mcp]] [[swc-project-swc]] [[itsfatduck-optimizerduck]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

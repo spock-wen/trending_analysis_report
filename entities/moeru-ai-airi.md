@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[continuedev-continue]] [[panniantong-agent-reach]] [[music-assistant-server]] [[mattpocock-skills]] [[meshery-meshery]]
+[[kong-insomnia]] [[music-assistant-server]] [[withastro-flue]] [[deusdata-codebase-memory-mcp]] [[google-research-timesfm]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

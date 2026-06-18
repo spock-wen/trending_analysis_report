@@ -35,7 +35,7 @@ The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, an
 
 ## 相关项目
 
-[[continuedev-continue]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[meshery-meshery]] [[trycua-cua]]
+[[kong-insomnia]] [[withastro-flue]] [[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[makeplane-plane]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

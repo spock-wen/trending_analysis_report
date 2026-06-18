@@ -36,7 +36,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[nvidia-skillspector]] [[mattpocock-skills]] [[itsfatduck-optimizerduck]] [[kenn-io-agentsview]]
+[[nvidia-skillspector]] [[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

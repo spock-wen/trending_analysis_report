@@ -35,7 +35,7 @@ An advanced guide to learn English which might benefit you a lot 🎉 . 离谱�
 
 ## 相关项目
 
-[[stefan-jansen-machine-learning-for-trading]] [[rohitg00-ai-engineering-from-scratch]] [[mikeroyal-self-hosting-guide]] [[freecodecamp-freecodecamp]]
+[[rohitg00-ai-engineering-from-scratch]] [[owainlewis-awesome-artificial-intelligence]] [[freecodecamp-freecodecamp]] [[mikeroyal-self-hosting-guide]]
 
 **所属领域**: [[education]]
 

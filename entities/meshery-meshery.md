@@ -36,5 +36,5 @@ Meshery, the cloud native manager
 
 ## 相关项目
 
-[[continuedev-continue]] [[bytedance-ui-tars-desktop]] [[freecodecamp-freecodecamp]]
+[[kilo-org-kilocode]] [[makeplane-plane]] [[withastro-flue]] [[freecodecamp-freecodecamp]]
 

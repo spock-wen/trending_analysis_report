@@ -33,7 +33,7 @@ language: "Python"
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mattpocock-skills]] [[calesthio-openmontage]] [[google-research-timesfm]] [[trycua-cua]]
+[[kong-insomnia]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

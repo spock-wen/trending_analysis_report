@@ -34,7 +34,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[panniantong-agent-reach]] [[obra-superpowers]] [[mattpocock-skills]]
+[[google-research-timesfm]] [[obra-superpowers]] [[zai-org-glm-5]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]]
 

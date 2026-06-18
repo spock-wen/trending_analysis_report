@@ -33,7 +33,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[affaan-m-ecc]] [[calesthio-openmontage]]
+[[nousresearch-hermes-agent]] [[owainlewis-awesome-artificial-intelligence]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

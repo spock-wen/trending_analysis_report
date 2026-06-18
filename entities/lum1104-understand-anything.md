@@ -37,7 +37,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[continuedev-continue]] [[panniantong-agent-reach]] [[mikeroyal-self-hosting-guide]] [[mattpocock-skills]] [[meshery-meshery]]
+[[kong-insomnia]] [[rohitg00-ai-engineering-from-scratch]] [[withastro-flue]] [[owainlewis-awesome-artificial-intelligence]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

@@ -37,7 +37,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mattpocock-skills]] [[affaan-m-ecc]] [[santifer-career-ops]] [[chatwoot-chatwoot]]
+[[santifer-career-ops]] [[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[obra-superpowers]] [[zai-org-glm-5]]
 
 **所属领域**: [[ai-agent]]
 

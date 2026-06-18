@@ -34,7 +34,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[nvidia-skillspector]] [[calesthio-openmontage]] [[odoo-odoo]] [[google-research-timesfm]]
+[[x1xhlol-system-prompts-and-models-of-ai-tools]] [[kong-insomnia]] [[nvidia-skillspector]] [[google-research-timesfm]] [[odoo-odoo]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

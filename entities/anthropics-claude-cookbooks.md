@@ -33,7 +33,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mattpocock-skills]] [[lyogavin-airllm]] [[chatwoot-chatwoot]] [[stefan-jansen-machine-learning-for-trading]]
+[[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[lyogavin-airllm]] [[obra-superpowers]] [[zai-org-glm-5]]
 
 **所属领域**: [[ai-agent]]
 

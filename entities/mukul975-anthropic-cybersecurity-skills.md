@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[nvidia-skillspector]] [[mattpocock-skills]] [[calesthio-openmontage]] [[google-research-timesfm]]
+[[kong-insomnia]] [[nvidia-skillspector]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

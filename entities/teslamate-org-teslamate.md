@@ -34,7 +34,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mattpocock-skills]] [[deusdata-codebase-memory-mcp]] [[calesthio-openmontage]] [[alibaba-zvec]]
+[[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[obra-superpowers]] [[zai-org-glm-5]] [[alibaba-zvec]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -34,7 +34,7 @@ Data Engineering Zoomcamp is a free 9-week course on building production-ready d
 
 ## 相关项目
 
-[[mikeroyal-self-hosting-guide]] [[teslamate-org-teslamate]] [[deusdata-codebase-memory-mcp]] [[calesthio-openmontage]] [[lyogavin-airllm]]
+[[rohitg00-ai-engineering-from-scratch]] [[owainlewis-awesome-artificial-intelligence]] [[deusdata-codebase-memory-mcp]] [[lyogavin-airllm]] [[mikeroyal-self-hosting-guide]]
 
 **所属领域**: [[data]] [[education]]
 

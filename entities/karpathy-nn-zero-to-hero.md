@@ -33,5 +33,5 @@ Neural Networks: Zero to Hero
 
 ## 相关项目
 
-[[stefan-jansen-machine-learning-for-trading]] [[lyogavin-airllm]] [[datatalksclub-data-engineering-zoomcamp]] [[nvidia-cosmos]]
+[[stefan-jansen-machine-learning-for-trading]] [[lyogavin-airllm]] [[nvidia-cosmos]] [[datatalksclub-data-engineering-zoomcamp]]
 

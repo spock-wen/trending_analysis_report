@@ -37,7 +37,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## 相关项目
 
-[[mattpocock-skills]] [[calesthio-openmontage]] [[google-research-timesfm]] [[alexzhang13-rlm]] [[chatwoot-chatwoot]]
+[[kong-insomnia]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

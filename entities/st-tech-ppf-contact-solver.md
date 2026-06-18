@@ -33,7 +33,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mattpocock-skills]] [[calesthio-openmontage]] [[google-research-timesfm]] [[alexzhang13-rlm]]
+[[kong-insomnia]] [[google-research-timesfm]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

@@ -33,7 +33,7 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[affaan-m-ecc]] [[mattpocock-skills]] [[openai-plugins]] [[openbmb-voxcpm]]
+[[paddlepaddle-paddleocr]] [[openai-plugins]] [[santifer-career-ops]] [[deusdata-codebase-memory-mcp]] [[google-research-timesfm]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

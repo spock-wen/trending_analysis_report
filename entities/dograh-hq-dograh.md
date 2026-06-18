@@ -33,7 +33,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[music-assistant-server]] [[mattpocock-skills]] [[calesthio-openmontage]] [[google-research-timesfm]]
+[[music-assistant-server]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

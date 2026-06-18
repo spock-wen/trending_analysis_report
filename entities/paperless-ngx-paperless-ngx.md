@@ -33,7 +33,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[panniantong-agent-reach]] [[affaan-m-ecc]] [[calesthio-openmontage]] [[google-research-timesfm]]
+[[nousresearch-hermes-agent]] [[owainlewis-awesome-artificial-intelligence]] [[google-research-timesfm]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]]
 
 **所属领域**: [[science]]
 

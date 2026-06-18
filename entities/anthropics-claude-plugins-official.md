@@ -37,7 +37,7 @@ Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mattpocock-skills]] [[calesthio-openmontage]] [[google-research-timesfm]] [[alexzhang13-rlm]]
+[[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

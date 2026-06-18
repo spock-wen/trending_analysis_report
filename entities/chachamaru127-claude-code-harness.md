@@ -33,7 +33,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[chatwoot-chatwoot]] [[makeplane-plane]]
+[[kong-insomnia]] [[deusdata-codebase-memory-mcp]] [[addyosmani-agent-skills]] [[google-research-timesfm]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -1,19 +1,19 @@
 ---
 title: "freeCodeCamp/freeCodeCamp"
 created: 2026-06-15
-updated: 2026-06-18
+updated: 2026-06-19
 type: tool
 tags: [typescript, education, rising]
-sources: [raw/trending/2026-06-18.json]
+sources: [raw/trending/2026-06-19.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 4
+consecutive_days: 5
 first_trending: 2026-06-15
-last_trending: 2026-06-18
+last_trending: 2026-06-19
 peak_rank: 1
-total_stars: 449119
+total_stars: 449523
 language: "TypeScript"
 ---
 
@@ -22,13 +22,14 @@ language: "TypeScript"
 freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
 - 语言: TypeScript
-- 上榜次数: 4 次
-- 连续上榜: 4 天
+- 上榜次数: 5 次
+- 连续上榜: 5 天
 - 最高排名: #1
 - 链接: [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
 ## 上榜历史
 
+  - 2026-06-19: #3, +417⭐
   - 2026-06-18: #14, +764⭐
   - 2026-06-17: #1, +640⭐
   - 2026-06-16: #7, +738⭐
@@ -36,7 +37,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[continuedev-continue]] [[mikeroyal-self-hosting-guide]] [[meshery-meshery]] [[stefan-jansen-machine-learning-for-trading]] [[rohitg00-ai-engineering-from-scratch]]
+[[rohitg00-ai-engineering-from-scratch]] [[withastro-flue]] [[owainlewis-awesome-artificial-intelligence]] [[makeplane-plane]] [[mikeroyal-self-hosting-guide]]
 
 **所属领域**: [[education]]
 

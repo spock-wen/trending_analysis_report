@@ -34,5 +34,5 @@ M3U Playlist for free TV channels
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[alexzhang13-rlm]] [[panniantong-agent-reach]] [[google-research-timesfm]]
+[[libretranslate-libretranslate]] [[lightricks-ltx-2]] [[yifanfeng97-hyper-extract]] [[google-research-timesfm]]
 

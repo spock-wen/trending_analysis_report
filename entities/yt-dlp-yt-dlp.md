@@ -33,7 +33,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[music-assistant-server]] [[mattpocock-skills]] [[calesthio-openmontage]] [[google-research-timesfm]]
+[[kong-insomnia]] [[music-assistant-server]] [[google-research-timesfm]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]]
 
 **所属领域**: [[cli]] [[audio]]
 

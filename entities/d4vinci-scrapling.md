@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[calesthio-openmontage]] [[google-research-timesfm]] [[trycua-cua]] [[swc-project-swc]]
+[[kong-insomnia]] [[google-research-timesfm]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]] [[swc-project-swc]]
 
 **所属领域**: [[web]]
 

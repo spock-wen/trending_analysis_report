@@ -36,7 +36,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mattpocock-skills]] [[manaflow-ai-cmux]] [[chatwoot-chatwoot]] [[obra-superpowers]]
+[[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[manaflow-ai-cmux]] [[obra-superpowers]] [[zai-org-glm-5]]
 
 **所属领域**: [[ai-agent]]
 

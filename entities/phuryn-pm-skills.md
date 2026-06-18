@@ -37,7 +37,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mattpocock-skills]] [[makeplane-plane]] [[chatwoot-chatwoot]] [[obra-superpowers]]
+[[kong-insomnia]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[makeplane-plane]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

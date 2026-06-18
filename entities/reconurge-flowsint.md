@@ -35,7 +35,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[continuedev-continue]] [[nvidia-skillspector]] [[meshery-meshery]] [[itsfatduck-optimizerduck]] [[freecodecamp-freecodecamp]]
+[[nvidia-skillspector]] [[withastro-flue]] [[makeplane-plane]] [[freecodecamp-freecodecamp]] [[itsfatduck-optimizerduck]]
 
 **所属领域**: [[security]]
 

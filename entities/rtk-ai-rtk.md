@@ -33,7 +33,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mattpocock-skills]] [[n0-computer-iroh]] [[swc-project-swc]] [[chatwoot-chatwoot]]
+[[kong-insomnia]] [[n0-computer-iroh]] [[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[makeplane-plane]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

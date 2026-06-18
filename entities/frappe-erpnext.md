@@ -33,7 +33,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[calesthio-openmontage]] [[cloakhq-cloakbrowser]] [[odoo-odoo]] [[google-research-timesfm]]
+[[x1xhlol-system-prompts-and-models-of-ai-tools]] [[google-research-timesfm]] [[odoo-odoo]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]]
 
 **所属领域**: [[erp]]
 

@@ -37,7 +37,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mattpocock-skills]] [[chatwoot-chatwoot]] [[makeplane-plane]] [[obra-superpowers]]
+[[kong-insomnia]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

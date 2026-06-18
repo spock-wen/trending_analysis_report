@@ -33,7 +33,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mattpocock-skills]] [[kenn-io-agentsview]] [[aquasecurity-trivy]] [[chatwoot-chatwoot]]
+[[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[aquasecurity-trivy]] [[obra-superpowers]] [[zai-org-glm-5]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mikeroyal-self-hosting-guide]] [[mattpocock-skills]] [[lyogavin-airllm]] [[freecodecamp-freecodecamp]]
+[[rohitg00-ai-engineering-from-scratch]] [[owainlewis-awesome-artificial-intelligence]] [[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

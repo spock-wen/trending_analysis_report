@@ -36,5 +36,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[meshery-meshery]] [[continuedev-continue]] [[bytedance-ui-tars-desktop]] [[freecodecamp-freecodecamp]]
+[[kilo-org-kilocode]] [[makeplane-plane]] [[withastro-flue]] [[freecodecamp-freecodecamp]]
 

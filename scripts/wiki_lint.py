@@ -31,7 +31,7 @@ VALID_TAGS = {
     'swift', 'kotlin', 'dart', 'shell',
     'framework', 'tool', 'library', 'app', 'model', 'dataset', 'benchmark', 'tutorial', 'awesome-list',
     'trending', 'rising', 'viral', 'new', 'returning', 'github',
-    'erp', 'audio', 'image-gen', 'science'
+    'erp', 'audio', 'image-gen', 'science', 'surge'
 }
 
 
@@ -73,13 +73,18 @@ def lint_pages():
     pages = get_all_wiki_pages()
     page_slugs = {os.path.splitext(os.path.basename(p))[0]: p for p in pages}
 
-    # 收集所有 wikilinks
+    # 收集所有 wikilinks（包括 index.md）
     all_links = {}  # slug -> [linking_slugs]
     for page_path in pages:
         slug = os.path.splitext(os.path.basename(page_path))[0]
         content = open(page_path, encoding='utf-8').read()
         links = extract_wikilinks(content)
         all_links[slug] = links
+    # index.md 不在 entities/concepts 目录，但它的链接应计入引用
+    index_path = os.path.join(WIKI_PATH, "index.md")
+    if os.path.exists(index_path):
+        index_content = open(index_path, encoding='utf-8').read()
+        all_links['__index__'] = extract_wikilinks(index_content)
 
     # 1. 孤立页面检查
     linked_slugs = set()

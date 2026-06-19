@@ -86,20 +86,22 @@ def lint_pages():
         index_content = open(index_path, encoding='utf-8').read()
         all_links['__index__'] = extract_wikilinks(index_content)
 
-    # 1. 孤立页面检查
+    # 1. 孤立页面检查（normalize wikilink → slug）
     linked_slugs = set()
     for links in all_links.values():
-        linked_slugs.update(links)
+        for link in links:
+            linked_slugs.add(link.split('|')[0].split('#')[0].strip())
     for slug in page_slugs:
         if slug not in linked_slugs and slug != 'index':
-            inbound = sum(1 for links in all_links.values() if slug in links)
+            inbound = sum(1 for links in all_links.values() if any(l.split('|')[0].split('#')[0].strip() == slug for l in links))
             if inbound == 0:
                 issues['warning'].append(f"孤立页面: {slug} — 没有其他页面引用")
 
-    # 2. 断裂链接检查
+    # 1b. 断裂链接检查（normalize wikilink → slug）
     for source_slug, links in all_links.items():
         for link in links:
-            if link not in page_slugs:
+            target = link.split('|')[0].split('#')[0].strip()
+            if target not in page_slugs:
                 issues['critical'].append(f"断裂链接: {source_slug} → [[{link}]] 目标不存在")
 
     # 3. 索引完整性

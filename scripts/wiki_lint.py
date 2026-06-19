@@ -97,10 +97,12 @@ def lint_pages():
             if inbound == 0:
                 issues['warning'].append(f"孤立页面: {slug} — 没有其他页面引用")
 
-    # 1b. 断裂链接检查（normalize wikilink → slug）
+    # 1b. 断裂链接检查（normalize wikilink → slug，跳过非实体路径如 reports/）
     for source_slug, links in all_links.items():
         for link in links:
             target = link.split('|')[0].split('#')[0].strip()
+            if '/' in target:
+                continue  # 跳过 reports/xxx 等非实体引用
             if target not in page_slugs:
                 issues['critical'].append(f"断裂链接: {source_slug} → [[{link}]] 目标不存在")
 

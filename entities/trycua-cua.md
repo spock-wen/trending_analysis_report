@@ -33,7 +33,7 @@ Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 
 ## 相关项目
 
-[[kong-insomnia]] [[digitalplatdev-freedomain]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[revfactory-harness]]
+[[bytedance-ui-tars-desktop]] [[google-research-timesfm]] [[koala73-worldmonitor]] [[digitalplatdev-freedomain]] [[swc-project-swc]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -36,7 +36,7 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[owainlewis-awesome-artificial-intelligence]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[lightricks-ltx-2]]
+[[owainlewis-awesome-artificial-intelligence]] [[mvanhorn-last30days-skill]] [[google-research-timesfm]] [[chopratejas-headroom]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

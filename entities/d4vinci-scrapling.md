@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[kong-insomnia]] [[google-research-timesfm]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]] [[swc-project-swc]]
+[[google-research-timesfm]] [[swc-project-swc]] [[chopratejas-headroom]] [[kong-insomnia]] [[calesthio-openmontage]]
 
 **所属领域**: [[web]]
 

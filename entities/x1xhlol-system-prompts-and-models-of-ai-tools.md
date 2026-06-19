@@ -36,7 +36,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ## 相关项目
 
-[[odoo-odoo]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[obra-superpowers]] [[zai-org-glm-5]]
+[[google-research-timesfm]] [[cloakhq-cloakbrowser]] [[chopratejas-headroom]] [[odoo-odoo]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

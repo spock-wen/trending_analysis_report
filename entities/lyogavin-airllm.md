@@ -33,7 +33,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[obra-superpowers]] [[zai-org-glm-5]] [[datatalksclub-data-engineering-zoomcamp]]
+[[stefan-jansen-machine-learning-for-trading]] [[google-research-timesfm]] [[chopratejas-headroom]] [[nvidia-cosmos]] [[datatalksclub-data-engineering-zoomcamp]]
 
 **所属领域**: [[ai-agent]]
 

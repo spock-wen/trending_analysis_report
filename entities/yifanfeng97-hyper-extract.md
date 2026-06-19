@@ -33,7 +33,7 @@ Transform unstructured text into structured knowledge with LLMs. Graphs, hypergr
 
 ## 相关项目
 
-[[kong-insomnia]] [[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[lightricks-ltx-2]] [[obra-superpowers]]
+[[google-research-timesfm]] [[makeplane-plane]] [[chopratejas-headroom]] [[kong-insomnia]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

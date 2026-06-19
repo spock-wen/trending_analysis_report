@@ -37,7 +37,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## 相关项目
 
-[[kong-insomnia]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]]
+[[yifanfeng97-hyper-extract]] [[google-research-timesfm]] [[makeplane-plane]] [[chopratejas-headroom]] [[kong-insomnia]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

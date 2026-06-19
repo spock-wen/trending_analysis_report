@@ -37,7 +37,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[kong-insomnia]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[addyosmani-agent-skills]] [[makeplane-plane]]
+[[yifanfeng97-hyper-extract]] [[google-research-timesfm]] [[mattpocock-skills]] [[makeplane-plane]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

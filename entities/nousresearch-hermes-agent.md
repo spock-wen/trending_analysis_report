@@ -36,7 +36,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[owainlewis-awesome-artificial-intelligence]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]]
+[[owainlewis-awesome-artificial-intelligence]] [[mvanhorn-last30days-skill]] [[google-research-timesfm]] [[chopratejas-headroom]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

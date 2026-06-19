@@ -33,7 +33,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[aquasecurity-trivy]] [[obra-superpowers]] [[zai-org-glm-5]]
+[[google-research-timesfm]] [[kenn-io-agentsview]] [[aquasecurity-trivy]] [[masterking32-masterdnsvpn]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]]
 

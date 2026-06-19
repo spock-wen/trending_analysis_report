@@ -33,7 +33,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[music-assistant-server]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]]
+[[google-research-timesfm]] [[openbmb-voxcpm]] [[music-assistant-server]] [[open-llm-vtuber-open-llm-vtuber]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

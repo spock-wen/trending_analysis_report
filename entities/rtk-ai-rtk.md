@@ -33,7 +33,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[kong-insomnia]] [[n0-computer-iroh]] [[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[makeplane-plane]]
+[[yifanfeng97-hyper-extract]] [[google-research-timesfm]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[makeplane-plane]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

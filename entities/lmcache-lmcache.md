@@ -34,7 +34,7 @@ LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
 
 ## 相关项目
 
-[[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]] [[obra-superpowers]]
+[[google-research-timesfm]] [[chopratejas-headroom]] [[calesthio-openmontage]] [[lightricks-ltx-2]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]]
 

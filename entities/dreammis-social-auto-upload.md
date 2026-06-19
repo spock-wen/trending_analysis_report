@@ -33,5 +33,5 @@ language: "Python"
 
 ## 相关项目
 
-[[libretranslate-libretranslate]] [[lightricks-ltx-2]] [[yifanfeng97-hyper-extract]] [[google-research-timesfm]]
+[[lightricks-ltx-2]] [[chopratejas-headroom]] [[calesthio-openmontage]] [[google-research-timesfm]]
 

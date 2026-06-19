@@ -33,7 +33,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[paddlepaddle-paddleocr]] [[music-assistant-server]] [[santifer-career-ops]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]]
+[[google-research-timesfm]] [[openbmb-voxcpm]] [[music-assistant-server]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

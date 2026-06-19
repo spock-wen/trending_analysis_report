@@ -33,7 +33,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[obra-superpowers]] [[zai-org-glm-5]] [[bannedbook-fanqiang]]
+[[bannedbook-fanqiang]] [[google-research-timesfm]] [[chopratejas-headroom]] [[deusdata-codebase-memory-mcp]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

@@ -33,7 +33,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[rohitg00-ai-engineering-from-scratch]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[obra-superpowers]]
+[[mvanhorn-last30days-skill]] [[google-research-timesfm]] [[freecodecamp-freecodecamp]] [[mikeroyal-self-hosting-guide]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

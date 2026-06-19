@@ -37,5 +37,5 @@ Desktop app to manage markdown knowledge bases
 
 ## 相关项目
 
-[[kilo-org-kilocode]] [[makeplane-plane]] [[withastro-flue]] [[freecodecamp-freecodecamp]]
+[[koala73-worldmonitor]] [[kong-insomnia]] [[builderio-agent-native]] [[withastro-flue]]
 

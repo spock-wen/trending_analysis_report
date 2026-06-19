@@ -33,7 +33,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[kong-insomnia]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]]
+[[yifanfeng97-hyper-extract]] [[google-research-timesfm]] [[swc-project-swc]] [[makeplane-plane]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

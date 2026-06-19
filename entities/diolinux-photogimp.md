@@ -33,7 +33,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[x1xhlol-system-prompts-and-models-of-ai-tools]] [[kong-insomnia]] [[odoo-odoo]] [[swc-project-swc]] [[obra-superpowers]]
+[[x1xhlol-system-prompts-and-models-of-ai-tools]] [[cloakhq-cloakbrowser]] [[kong-insomnia]] [[odoo-odoo]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[web]] [[erp]]
 

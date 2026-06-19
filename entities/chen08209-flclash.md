@@ -33,7 +33,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[yifanfeng97-hyper-extract]] [[kong-insomnia]] [[makeplane-plane]] [[obra-superpowers]]
+[[makeplane-plane]] [[kong-insomnia]] [[obra-superpowers]] [[yifanfeng97-hyper-extract]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[kong-insomnia]] [[withastro-flue]] [[makeplane-plane]] [[swc-project-swc]] [[freecodecamp-freecodecamp]]
+[[koala73-worldmonitor]] [[withastro-flue]] [[kong-insomnia]] [[dotnet-aspnetcore]] [[aishwaryanr-awesome-generative-ai-guide]]
 
 **所属领域**: [[web]]
 

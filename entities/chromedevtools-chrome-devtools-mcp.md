@@ -34,7 +34,7 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[kong-insomnia]] [[withastro-flue]] [[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[makeplane-plane]]
+[[google-research-timesfm]] [[koala73-worldmonitor]] [[withastro-flue]] [[kong-insomnia]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

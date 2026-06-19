@@ -33,5 +33,5 @@ No description
 
 ## 相关项目
 
-[[stefan-jansen-machine-learning-for-trading]] [[lyogavin-airllm]] [[nvidia-cosmos]] [[datatalksclub-data-engineering-zoomcamp]]
+[[lyogavin-airllm]] [[nvidia-cosmos]] [[datatalksclub-data-engineering-zoomcamp]] [[stefan-jansen-machine-learning-for-trading]]
 

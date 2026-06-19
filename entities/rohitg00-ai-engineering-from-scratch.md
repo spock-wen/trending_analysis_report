@@ -37,7 +37,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[owainlewis-awesome-artificial-intelligence]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]]
+[[owainlewis-awesome-artificial-intelligence]] [[google-research-timesfm]] [[freecodecamp-freecodecamp]] [[mikeroyal-self-hosting-guide]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

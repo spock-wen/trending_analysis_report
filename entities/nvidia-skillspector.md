@@ -36,7 +36,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]] [[obra-superpowers]]
+[[google-research-timesfm]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[masterking32-masterdnsvpn]] [[chopratejas-headroom]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

@@ -36,7 +36,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[manaflow-ai-cmux]] [[obra-superpowers]] [[zai-org-glm-5]]
+[[google-research-timesfm]] [[chopratejas-headroom]] [[supertone-inc-supertonic]] [[manaflow-ai-cmux]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]]
 

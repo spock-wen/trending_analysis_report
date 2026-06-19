@@ -35,7 +35,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[santifer-career-ops]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]]
+[[google-research-timesfm]] [[openbmb-voxcpm]] [[alibaba-zvec]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

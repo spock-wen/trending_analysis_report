@@ -33,5 +33,5 @@ Effortlessly compose, extend, and observe every service in real-time for the fir
 
 ## 相关项目
 
-[[universal-debloater-alliance-universal-android-debloater-next-generation]] [[ruvnet-ruview]] [[n0-computer-iroh]] [[swc-project-swc]]
+[[swc-project-swc]] [[ruvnet-ruview]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[n0-computer-iroh]]
 

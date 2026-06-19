@@ -33,7 +33,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[kong-insomnia]] [[google-research-timesfm]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]] [[obra-superpowers]]
+[[yifanfeng97-hyper-extract]] [[google-research-timesfm]] [[makeplane-plane]] [[chopratejas-headroom]] [[kong-insomnia]]
 
 **所属领域**: [[cli]]
 

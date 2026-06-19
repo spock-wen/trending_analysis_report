@@ -37,7 +37,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[openai-plugins]] [[nvidia-skillspector]] [[santifer-career-ops]] [[owainlewis-awesome-artificial-intelligence]]
+[[owainlewis-awesome-artificial-intelligence]] [[openai-plugins]] [[google-research-timesfm]] [[mvanhorn-last30days-skill]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

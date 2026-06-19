@@ -36,7 +36,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[kong-insomnia]] [[digitalplatdev-freedomain]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[obra-superpowers]]
+[[google-research-timesfm]] [[trycua-cua]] [[digitalplatdev-freedomain]] [[chopratejas-headroom]] [[kong-insomnia]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

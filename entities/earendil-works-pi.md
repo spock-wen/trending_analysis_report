@@ -34,7 +34,7 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[kong-insomnia]] [[withastro-flue]] [[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[makeplane-plane]]
+[[yifanfeng97-hyper-extract]] [[google-research-timesfm]] [[koala73-worldmonitor]] [[withastro-flue]] [[makeplane-plane]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

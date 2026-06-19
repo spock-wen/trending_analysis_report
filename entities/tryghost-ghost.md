@@ -33,5 +33,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[openai-plugins]] [[santifer-career-ops]] [[pbakaus-impeccable]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[santifer-career-ops]] [[openai-plugins]] [[pbakaus-impeccable]]
 

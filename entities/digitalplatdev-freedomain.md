@@ -36,7 +36,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[kong-insomnia]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[revfactory-harness]] [[obra-superpowers]]
+[[google-research-timesfm]] [[trycua-cua]] [[swc-project-swc]] [[chopratejas-headroom]] [[kong-insomnia]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

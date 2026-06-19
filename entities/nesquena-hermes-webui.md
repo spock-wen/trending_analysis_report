@@ -36,7 +36,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[kong-insomnia]] [[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]]
+[[google-research-timesfm]] [[swc-project-swc]] [[chopratejas-headroom]] [[kong-insomnia]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

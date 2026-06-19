@@ -33,7 +33,7 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[paddlepaddle-paddleocr]] [[openai-plugins]] [[santifer-career-ops]] [[deusdata-codebase-memory-mcp]] [[google-research-timesfm]]
+[[openai-plugins]] [[google-research-timesfm]] [[openbmb-voxcpm]] [[affaan-m-ecc]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

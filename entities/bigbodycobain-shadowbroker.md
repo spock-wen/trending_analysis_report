@@ -34,7 +34,7 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[google-research-timesfm]] [[deusdata-codebase-memory-mcp]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]] [[obra-superpowers]]
+[[google-research-timesfm]] [[alibaba-zvec]] [[chopratejas-headroom]] [[calesthio-openmontage]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

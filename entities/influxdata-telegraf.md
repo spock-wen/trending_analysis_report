@@ -34,7 +34,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[aquasecurity-trivy]] [[obra-superpowers]] [[zai-org-glm-5]]
+[[google-research-timesfm]] [[kenn-io-agentsview]] [[aquasecurity-trivy]] [[alibaba-zvec]] [[masterking32-masterdnsvpn]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

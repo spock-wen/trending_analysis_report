@@ -35,7 +35,7 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[kong-insomnia]] [[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[addyosmani-agent-skills]] [[msitarzewski-agency-agents]]
+[[yifanfeng97-hyper-extract]] [[google-research-timesfm]] [[msitarzewski-agency-agents]] [[makeplane-plane]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

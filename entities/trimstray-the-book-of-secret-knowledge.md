@@ -34,7 +34,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[kong-insomnia]] [[makeplane-plane]] [[swc-project-swc]] [[obra-superpowers]] [[dotnet-aspnetcore]]
+[[yifanfeng97-hyper-extract]] [[makeplane-plane]] [[kong-insomnia]] [[dotnet-aspnetcore]] [[aishwaryanr-awesome-generative-ai-guide]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -35,5 +35,5 @@ Curated list of the best free apps for PC and mobile
 
 ## 相关项目
 
-[[openai-plugins]] [[santifer-career-ops]] [[pbakaus-impeccable]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[santifer-career-ops]] [[openai-plugins]] [[pbakaus-impeccable]]
 

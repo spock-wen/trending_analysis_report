@@ -34,7 +34,7 @@ What are the principles we can use to build LLM-powered software that is actuall
 
 ## 相关项目
 
-[[withastro-flue]] [[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[makeplane-plane]] [[obra-superpowers]]
+[[google-research-timesfm]] [[koala73-worldmonitor]] [[withastro-flue]] [[kong-insomnia]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]]
 

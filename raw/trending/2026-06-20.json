@@ -1,0 +1,143 @@
+{
+  "date": "2026-06-20",
+  "scraped_at": "2026-06-20T07:00:28.170396",
+  "period": "daily",
+  "count": 15,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars_today": 1055,
+      "total_stars": 8166,
+      "url": "https://github.com/DeusData/codebase-memory-mcp"
+    },
+    {
+      "rank": 2,
+      "repo": "google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars_today": 1516,
+      "total_stars": 24061,
+      "url": "https://github.com/google-research/timesfm"
+    },
+    {
+      "rank": 3,
+      "repo": "palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "stars_today": 749,
+      "total_stars": 1833,
+      "url": "https://github.com/palmier-io/palmier-pro"
+    },
+    {
+      "rank": 4,
+      "repo": "koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars_today": 300,
+      "total_stars": 57201,
+      "url": "https://github.com/koala73/worldmonitor"
+    },
+    {
+      "rank": 5,
+      "repo": "aishwaryanr/awesome-generative-ai-guide",
+      "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+      "language": "HTML",
+      "stars_today": 155,
+      "total_stars": 27596,
+      "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide"
+    },
+    {
+      "rank": 6,
+      "repo": "BuilderIO/agent-native",
+      "description": "A framework for building agent-native applications.",
+      "language": "TypeScript",
+      "stars_today": 210,
+      "total_stars": 1013,
+      "url": "https://github.com/BuilderIO/agent-native"
+    },
+    {
+      "rank": 7,
+      "repo": "chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars_today": 3938,
+      "total_stars": 38529,
+      "url": "https://github.com/chopratejas/headroom"
+    },
+    {
+      "rank": 8,
+      "repo": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars_today": 236,
+      "total_stars": 6243,
+      "url": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+      "rank": 9,
+      "repo": "zai-org/GLM-5",
+      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "language": "",
+      "stars_today": 478,
+      "total_stars": 4554,
+      "url": "https://github.com/zai-org/GLM-5"
+    },
+    {
+      "rank": 10,
+      "repo": "withastro/flue",
+      "description": "The sandbox agent framework.",
+      "language": "TypeScript",
+      "stars_today": 305,
+      "total_stars": 5816,
+      "url": "https://github.com/withastro/flue"
+    },
+    {
+      "rank": 11,
+      "repo": "n0-computer/iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "language": "Rust",
+      "stars_today": 307,
+      "total_stars": 10242,
+      "url": "https://github.com/n0-computer/iroh"
+    },
+    {
+      "rank": 12,
+      "repo": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": 1113,
+      "total_stars": 233305,
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "rank": 13,
+      "repo": "penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars_today": 213,
+      "total_stars": 50568,
+      "url": "https://github.com/penpot/penpot"
+    },
+    {
+      "rank": 14,
+      "repo": "Kong/insomnia",
+      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "language": "TypeScript",
+      "stars_today": 291,
+      "total_stars": 38960,
+      "url": "https://github.com/Kong/insomnia"
+    },
+    {
+      "rank": 15,
+      "repo": "Lightricks/LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "language": "Python",
+      "stars_today": 196,
+      "total_stars": 7660,
+      "url": "https://github.com/Lightricks/LTX-2"
+    }
+  ]
+}

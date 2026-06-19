@@ -34,7 +34,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[obra-superpowers]] [[zai-org-glm-5]] [[opendataloader-project-opendataloader-pdf]]
+[[krahets-hello-algo]] [[google-research-timesfm]] [[chopratejas-headroom]] [[opendataloader-project-opendataloader-pdf]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]]
 

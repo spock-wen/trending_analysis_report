@@ -33,7 +33,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[kong-insomnia]] [[music-assistant-server]] [[google-research-timesfm]] [[lightricks-ltx-2]] [[libretranslate-libretranslate]]
+[[yifanfeng97-hyper-extract]] [[google-research-timesfm]] [[openbmb-voxcpm]] [[music-assistant-server]] [[open-llm-vtuber-open-llm-vtuber]]
 
 **所属领域**: [[cli]] [[audio]]
 

@@ -33,7 +33,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[x1xhlol-system-prompts-and-models-of-ai-tools]] [[rohitg00-ai-engineering-from-scratch]] [[owainlewis-awesome-artificial-intelligence]] [[deusdata-codebase-memory-mcp]] [[google-research-timesfm]]
+[[stefan-jansen-machine-learning-for-trading]] [[google-research-timesfm]] [[freecodecamp-freecodecamp]] [[chopratejas-headroom]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]] [[education]] [[erp]]
 

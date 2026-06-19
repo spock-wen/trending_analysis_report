@@ -35,7 +35,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[kong-insomnia]] [[n0-computer-iroh]] [[dotnet-aspnetcore]] [[cypress-io-cypress]] [[universal-debloater-alliance-universal-android-debloater-next-generation]]
+[[universal-debloater-alliance-universal-android-debloater-next-generation]] [[kong-insomnia]] [[dotnet-aspnetcore]] [[aishwaryanr-awesome-generative-ai-guide]] [[ruvnet-ruview]]
 
 **所属领域**: [[web]]
 

@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[yifanfeng97-hyper-extract]] [[google-research-timesfm]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[makeplane-plane]] [[masterking32-masterdnsvpn]]
+[[deusdata-codebase-memory-mcp]] [[kong-insomnia]] [[google-research-timesfm]] [[calesthio-openmontage]] [[universal-debloater-alliance-universal-android-debloater-next-generation]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

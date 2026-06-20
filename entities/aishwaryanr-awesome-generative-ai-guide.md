@@ -33,7 +33,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[owainlewis-awesome-artificial-intelligence]] [[mvanhorn-last30days-skill]] [[google-research-timesfm]] [[trycua-cua]] [[digitalplatdev-freedomain]]
+[[digitalplatdev-freedomain]] [[deusdata-codebase-memory-mcp]] [[revfactory-harness]] [[owainlewis-awesome-artificial-intelligence]] [[kong-insomnia]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

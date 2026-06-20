@@ -33,5 +33,5 @@ Free and Open Source Machine Translation API. Self-hosted, offline capable and e
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[chopratejas-headroom]] [[calesthio-openmontage]] [[google-research-timesfm]]
+[[google-research-timesfm]] [[calesthio-openmontage]] [[chopratejas-headroom]] [[lightricks-ltx-2]]
 

@@ -37,7 +37,7 @@ Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H
 
 ## 相关项目
 
-[[google-research-timesfm]] [[koala73-worldmonitor]] [[withastro-flue]] [[kong-insomnia]] [[chopratejas-headroom]]
+[[deusdata-codebase-memory-mcp]] [[kong-insomnia]] [[chopratejas-headroom]] [[twentyhq-twenty]] [[withastro-flue]]
 
 **所属领域**: [[ai-agent]]
 

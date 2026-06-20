@@ -37,7 +37,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[yifanfeng97-hyper-extract]] [[google-research-timesfm]] [[makeplane-plane]] [[kong-insomnia]] [[chopratejas-headroom]]
+[[deusdata-codebase-memory-mcp]] [[kong-insomnia]] [[chopratejas-headroom]] [[twentyhq-twenty]] [[tw93-pake]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

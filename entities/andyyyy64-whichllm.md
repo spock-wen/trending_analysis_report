@@ -34,7 +34,7 @@ Find the local LLM that actually runs and performs best on your hardware. Ranked
 
 ## 相关项目
 
-[[yifanfeng97-hyper-extract]] [[google-research-timesfm]] [[makeplane-plane]] [[chopratejas-headroom]] [[kong-insomnia]]
+[[deusdata-codebase-memory-mcp]] [[kong-insomnia]] [[google-research-timesfm]] [[calesthio-openmontage]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -35,7 +35,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[santifer-career-ops]] [[masterking32-masterdnsvpn]] [[itsfatduck-optimizerduck]] [[swc-project-swc]]
+[[tursodatabase-turso]] [[paddlepaddle-paddleocr]] [[1jehuang-jcode]] [[itsfatduck-optimizerduck]] [[masterking32-masterdnsvpn]]
 
 **所属领域**: [[security]] [[image-gen]]
 

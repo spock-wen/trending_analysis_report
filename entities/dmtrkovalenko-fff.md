@@ -33,7 +33,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[google-research-timesfm]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[chopratejas-headroom]] [[swc-project-swc]] [[ruvnet-ruview]]
+[[tursodatabase-turso]] [[deusdata-codebase-memory-mcp]] [[1jehuang-jcode]] [[chopratejas-headroom]] [[twentyhq-twenty]]
 
 **所属领域**: [[ai-agent]]
 

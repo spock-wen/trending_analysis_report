@@ -35,7 +35,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[universal-debloater-alliance-universal-android-debloater-next-generation]] [[kong-insomnia]] [[dotnet-aspnetcore]] [[aishwaryanr-awesome-generative-ai-guide]] [[ruvnet-ruview]]
+[[tursodatabase-turso]] [[kong-insomnia]] [[1jehuang-jcode]] [[pppscn-smsforwarder]] [[tw93-pake]]
 
 **所属领域**: [[web]]
 

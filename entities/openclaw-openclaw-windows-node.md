@@ -34,7 +34,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[yifanfeng97-hyper-extract]] [[jellyfin-jellyfin]] [[makeplane-plane]] [[kong-insomnia]] [[dotnet-aspnetcore]]
+[[dotnet-aspnetcore]] [[kong-insomnia]] [[itsfatduck-optimizerduck]] [[jellyfin-jellyfin]] [[tw93-pake]]
 
 **所属领域**: [[cli]]
 

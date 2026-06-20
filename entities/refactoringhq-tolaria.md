@@ -37,5 +37,5 @@ Desktop app to manage markdown knowledge bases
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[kong-insomnia]] [[builderio-agent-native]] [[withastro-flue]]
+[[withastro-flue]] [[kong-insomnia]] [[kilo-org-kilocode]] [[twentyhq-twenty]]
 

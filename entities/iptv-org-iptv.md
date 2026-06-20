@@ -37,7 +37,7 @@ Collection of publicly available IPTV channels from all over the world
 
 ## 相关项目
 
-[[google-research-timesfm]] [[koala73-worldmonitor]] [[withastro-flue]] [[kong-insomnia]] [[chopratejas-headroom]]
+[[deusdata-codebase-memory-mcp]] [[kong-insomnia]] [[chopratejas-headroom]] [[twentyhq-twenty]] [[withastro-flue]]
 
 **所属领域**: [[ai-agent]]
 

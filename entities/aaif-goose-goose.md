@@ -35,7 +35,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[google-research-timesfm]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[chopratejas-headroom]] [[swc-project-swc]] [[ruvnet-ruview]]
+[[tursodatabase-turso]] [[deusdata-codebase-memory-mcp]] [[1jehuang-jcode]] [[chopratejas-headroom]] [[twentyhq-twenty]]
 
 **所属领域**: [[ai-agent]]
 

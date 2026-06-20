@@ -34,7 +34,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[withastro-flue]] [[kong-insomnia]] [[dotnet-aspnetcore]] [[aishwaryanr-awesome-generative-ai-guide]]
+[[kong-insomnia]] [[twentyhq-twenty]] [[withastro-flue]] [[pppscn-smsforwarder]] [[tw93-pake]]
 
 **所属领域**: [[web]]
 

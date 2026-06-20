@@ -33,7 +33,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[bytedance-ui-tars-desktop]] [[google-research-timesfm]] [[trycua-cua]] [[withastro-flue]] [[kong-insomnia]]
+[[ruvnet-ruview]] [[deusdata-codebase-memory-mcp]] [[kong-insomnia]] [[chopratejas-headroom]] [[twentyhq-twenty]]
 
 **所属领域**: [[ai-agent]]
 

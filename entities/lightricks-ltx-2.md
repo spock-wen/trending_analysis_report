@@ -34,7 +34,7 @@ Official Python inference and LoRA trainer package for the LTX-2 audio–video g
 
 ## 相关项目
 
-[[google-research-timesfm]] [[openbmb-voxcpm]] [[music-assistant-server]] [[open-llm-vtuber-open-llm-vtuber]] [[chopratejas-headroom]]
+[[deusdata-codebase-memory-mcp]] [[jamiepine-voicebox]] [[google-research-timesfm]] [[calesthio-openmontage]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

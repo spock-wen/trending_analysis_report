@@ -36,7 +36,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[google-research-timesfm]] [[openbmb-voxcpm]] [[music-assistant-server]] [[chopratejas-headroom]] [[calesthio-openmontage]]
+[[deusdata-codebase-memory-mcp]] [[jamiepine-voicebox]] [[google-research-timesfm]] [[calesthio-openmontage]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

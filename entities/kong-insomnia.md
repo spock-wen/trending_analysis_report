@@ -1,19 +1,19 @@
 ---
 title: "Kong/insomnia"
 created: 2026-06-19
-updated: 2026-06-20
+updated: 2026-06-21
 type: tool
-tags: [typescript, web, cli]
-sources: [raw/trending/2026-06-20.json]
-confidence: medium
-trending_count_daily: 2
+tags: [typescript, web, cli, rising]
+sources: [raw/trending/2026-06-21.json]
+confidence: high
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 3
 first_trending: 2026-06-19
-last_trending: 2026-06-20
-peak_rank: 12
-total_stars: 38960
+last_trending: 2026-06-21
+peak_rank: 8
+total_stars: 39303
 language: "TypeScript"
 ---
 
@@ -22,19 +22,20 @@ language: "TypeScript"
 The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 
 - 语言: TypeScript
-- 上榜次数: 2 次
-- 连续上榜: 2 天
-- 最高排名: #12
+- 上榜次数: 3 次
+- 连续上榜: 3 天
+- 最高排名: #8
 - 链接: [Kong/insomnia](https://github.com/Kong/insomnia)
 
 ## 上榜历史
 
+  - 2026-06-21: #8, +327⭐
   - 2026-06-20: #14, +291⭐
   - 2026-06-19: #12, +13⭐
 
 ## 相关项目
 
-[[yifanfeng97-hyper-extract]] [[koala73-worldmonitor]] [[withastro-flue]] [[makeplane-plane]] [[dotnet-aspnetcore]]
+[[obra-superpowers]] [[twentyhq-twenty]] [[withastro-flue]] [[pppscn-smsforwarder]] [[tw93-pake]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -37,7 +37,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[yifanfeng97-hyper-extract]] [[google-research-timesfm]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[cloakhq-cloakbrowser]] [[mattpocock-skills]]
+[[deusdata-codebase-memory-mcp]] [[cloakhq-cloakbrowser]] [[addyosmani-agent-skills]] [[kong-insomnia]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

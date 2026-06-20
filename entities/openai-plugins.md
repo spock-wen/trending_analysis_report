@@ -37,7 +37,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[google-research-timesfm]] [[affaan-m-ecc]] [[santifer-career-ops]] [[pbakaus-impeccable]] [[chopratejas-headroom]]
+[[deusdata-codebase-memory-mcp]] [[chopratejas-headroom]] [[twentyhq-twenty]] [[affaan-m-ecc]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]]
 

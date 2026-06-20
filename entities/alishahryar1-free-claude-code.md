@@ -35,7 +35,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[yifanfeng97-hyper-extract]] [[google-research-timesfm]] [[openbmb-voxcpm]] [[music-assistant-server]] [[open-llm-vtuber-open-llm-vtuber]]
+[[deusdata-codebase-memory-mcp]] [[jamiepine-voicebox]] [[kong-insomnia]] [[google-research-timesfm]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

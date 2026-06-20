@@ -1,19 +1,19 @@
 ---
 title: "Kilo-Org/kilocode"
 created: 2026-06-19
-updated: 2026-06-19
+updated: 2026-06-21
 type: framework
 tags: [typescript, ai-agent]
-sources: [raw/trending/2026-06-19.json]
-confidence: low
-trending_count_daily: 1
+sources: [raw/trending/2026-06-21.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-19
-last_trending: 2026-06-19
+last_trending: 2026-06-21
 peak_rank: 10
-total_stars: 22069
+total_stars: 23323
 language: "TypeScript"
 ---
 
@@ -22,18 +22,19 @@ language: "TypeScript"
 Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 
 - 语言: TypeScript
-- 上榜次数: 1 次
+- 上榜次数: 2 次
 - 连续上榜: 1 天
 - 最高排名: #10
 - 链接: [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)
 
 ## 上榜历史
 
+  - 2026-06-21: #12, +470⭐
   - 2026-06-19: #10, +1339⭐
 
 ## 相关项目
 
-[[google-research-timesfm]] [[koala73-worldmonitor]] [[withastro-flue]] [[kong-insomnia]] [[chopratejas-headroom]]
+[[deusdata-codebase-memory-mcp]] [[kong-insomnia]] [[chopratejas-headroom]] [[twentyhq-twenty]] [[withastro-flue]]
 
 **所属领域**: [[ai-agent]]
 

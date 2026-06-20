@@ -33,7 +33,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[krahets-hello-algo]] [[google-research-timesfm]] [[alibaba-zvec]] [[chopratejas-headroom]] [[calesthio-openmontage]]
+[[tursodatabase-turso]] [[alibaba-zvec]] [[deusdata-codebase-memory-mcp]] [[calesthio-openmontage]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

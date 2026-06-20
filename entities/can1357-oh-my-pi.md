@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[yifanfeng97-hyper-extract]] [[google-research-timesfm]] [[koala73-worldmonitor]] [[withastro-flue]] [[makeplane-plane]]
+[[deusdata-codebase-memory-mcp]] [[obra-superpowers]] [[kong-insomnia]] [[chopratejas-headroom]] [[twentyhq-twenty]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

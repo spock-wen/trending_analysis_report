@@ -34,7 +34,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[alibaba-zvec]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[nvidia-skillspector]] [[masterking32-masterdnsvpn]] [[kong-insomnia]]
+[[tursodatabase-turso]] [[alibaba-zvec]] [[deusdata-codebase-memory-mcp]] [[teslamate-org-teslamate]] [[kong-insomnia]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

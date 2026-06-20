@@ -37,7 +37,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[yifanfeng97-hyper-extract]] [[owainlewis-awesome-artificial-intelligence]] [[google-research-timesfm]] [[koala73-worldmonitor]] [[freecodecamp-freecodecamp]]
+[[deusdata-codebase-memory-mcp]] [[obra-superpowers]] [[kong-insomnia]] [[owainlewis-awesome-artificial-intelligence]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

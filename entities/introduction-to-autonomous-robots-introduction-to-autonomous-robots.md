@@ -34,7 +34,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[chopratejas-headroom]] [[deusdata-codebase-memory-mcp]] [[obra-superpowers]] [[google-research-timesfm]]
+[[chopratejas-headroom]] [[deusdata-codebase-memory-mcp]] [[mattpocock-skills]] [[twentyhq-twenty]]
 
 **所属领域**: [[ai-agent]]
 

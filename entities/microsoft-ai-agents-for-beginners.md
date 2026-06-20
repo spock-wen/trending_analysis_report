@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[owainlewis-awesome-artificial-intelligence]] [[stefan-jansen-machine-learning-for-trading]] [[google-research-timesfm]] [[lyogavin-airllm]] [[freecodecamp-freecodecamp]]
+[[deusdata-codebase-memory-mcp]] [[owainlewis-awesome-artificial-intelligence]] [[datatalksclub-data-engineering-zoomcamp]] [[lyogavin-airllm]] [[twentyhq-twenty]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

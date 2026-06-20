@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[yifanfeng97-hyper-extract]] [[google-research-timesfm]] [[swc-project-swc]] [[makeplane-plane]] [[chopratejas-headroom]]
+[[deusdata-codebase-memory-mcp]] [[kong-insomnia]] [[google-research-timesfm]] [[calesthio-openmontage]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -33,7 +33,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[google-research-timesfm]] [[openbmb-voxcpm]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[santifer-career-ops]] [[chopratejas-headroom]]
+[[paddlepaddle-paddleocr]] [[google-research-timesfm]] [[calesthio-openmontage]] [[chopratejas-headroom]] [[santifer-career-ops]]
 
 **所属领域**: [[image-gen]]
 

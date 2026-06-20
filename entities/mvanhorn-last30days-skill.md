@@ -37,7 +37,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[owainlewis-awesome-artificial-intelligence]] [[google-research-timesfm]] [[swc-project-swc]] [[chopratejas-headroom]] [[kong-insomnia]]
+[[deusdata-codebase-memory-mcp]] [[owainlewis-awesome-artificial-intelligence]] [[kong-insomnia]] [[google-research-timesfm]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

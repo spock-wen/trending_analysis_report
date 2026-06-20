@@ -36,7 +36,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[openclaw-openclaw-windows-node]] [[google-research-timesfm]] [[jellyfin-jellyfin]] [[chopratejas-headroom]] [[dotnet-aspnetcore]]
+[[deusdata-codebase-memory-mcp]] [[dotnet-aspnetcore]] [[itsfatduck-optimizerduck]] [[jellyfin-jellyfin]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]]
 

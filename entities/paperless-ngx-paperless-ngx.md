@@ -33,7 +33,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[google-research-timesfm]] [[chopratejas-headroom]] [[calesthio-openmontage]] [[aishwaryanr-awesome-generative-ai-guide]]
+[[owainlewis-awesome-artificial-intelligence]] [[google-research-timesfm]] [[calesthio-openmontage]] [[chopratejas-headroom]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[science]]
 

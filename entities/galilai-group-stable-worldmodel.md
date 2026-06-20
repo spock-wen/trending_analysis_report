@@ -34,7 +34,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[owainlewis-awesome-artificial-intelligence]] [[mvanhorn-last30days-skill]] [[google-research-timesfm]] [[openbmb-voxcpm]] [[universal-debloater-alliance-universal-android-debloater-next-generation]]
+[[deusdata-codebase-memory-mcp]] [[paddlepaddle-paddleocr]] [[owainlewis-awesome-artificial-intelligence]] [[google-research-timesfm]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

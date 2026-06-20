@@ -33,7 +33,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[cloakhq-cloakbrowser]] [[withastro-flue]] [[kong-insomnia]]
+[[cloakhq-cloakbrowser]] [[kong-insomnia]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[twentyhq-twenty]] [[withastro-flue]]
 
 **所属领域**: [[erp]]
 

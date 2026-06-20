@@ -33,7 +33,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[makeplane-plane]] [[kong-insomnia]] [[obra-superpowers]] [[yifanfeng97-hyper-extract]]
+[[kong-insomnia]] [[obra-superpowers]] [[mattpocock-skills]] [[tw93-pake]]
 
 **所属领域**: [[cli]]
 

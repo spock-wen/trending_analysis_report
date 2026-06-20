@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[google-research-timesfm]] [[openbmb-voxcpm]] [[music-assistant-server]] [[koala73-worldmonitor]] [[lightricks-ltx-2]]
+[[deusdata-codebase-memory-mcp]] [[jamiepine-voicebox]] [[kong-insomnia]] [[chopratejas-headroom]] [[twentyhq-twenty]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

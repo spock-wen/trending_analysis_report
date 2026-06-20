@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[yifanfeng97-hyper-extract]] [[koala73-worldmonitor]] [[withastro-flue]] [[kong-insomnia]] [[builderio-agent-native]]
+[[obra-superpowers]] [[kong-insomnia]] [[twentyhq-twenty]] [[withastro-flue]] [[tw93-pake]]
 
 **所属领域**: [[cli]]
 

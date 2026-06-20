@@ -34,7 +34,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[google-research-timesfm]] [[alibaba-zvec]] [[chopratejas-headroom]] [[plausible-analytics]] [[calesthio-openmontage]]
+[[plausible-analytics]] [[tursodatabase-turso]] [[alibaba-zvec]] [[deusdata-codebase-memory-mcp]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

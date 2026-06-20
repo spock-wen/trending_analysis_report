@@ -33,7 +33,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[owainlewis-awesome-artificial-intelligence]] [[google-research-timesfm]] [[freecodecamp-freecodecamp]] [[kong-insomnia]] [[chopratejas-headroom]]
+[[deusdata-codebase-memory-mcp]] [[owainlewis-awesome-artificial-intelligence]] [[kong-insomnia]] [[chopratejas-headroom]] [[twentyhq-twenty]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

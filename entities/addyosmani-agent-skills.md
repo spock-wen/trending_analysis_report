@@ -37,7 +37,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[yifanfeng97-hyper-extract]] [[google-research-timesfm]] [[mattpocock-skills]] [[msitarzewski-agency-agents]] [[makeplane-plane]]
+[[deusdata-codebase-memory-mcp]] [[kong-insomnia]] [[chopratejas-headroom]] [[twentyhq-twenty]] [[tw93-pake]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

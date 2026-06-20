@@ -37,5 +37,5 @@ language: "Rust"
 
 ## 相关项目
 
-[[bytedance-ui-tars-desktop]] [[koala73-worldmonitor]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[trycua-cua]] [[swc-project-swc]]
+[[tursodatabase-turso]] [[1jehuang-jcode]] [[bytedance-ui-tars-desktop]] [[koala73-worldmonitor]] [[trycua-cua]]
 

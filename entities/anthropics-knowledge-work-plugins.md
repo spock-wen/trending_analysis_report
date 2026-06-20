@@ -37,7 +37,7 @@ Open source repository of plugins primarily intended for knowledge workers to us
 
 ## 相关项目
 
-[[google-research-timesfm]] [[chopratejas-headroom]] [[calesthio-openmontage]] [[lightricks-ltx-2]] [[deusdata-codebase-memory-mcp]]
+[[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[calesthio-openmontage]] [[chopratejas-headroom]] [[twentyhq-twenty]]
 
 **所属领域**: [[ai-agent]]
 

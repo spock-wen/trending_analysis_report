@@ -33,7 +33,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[chopratejas-headroom]] [[twentyhq-twenty]] [[bannedbook-fanqiang]] [[pppscn-smsforwarder]]
+[[pppscn-smsforwarder]] [[chopratejas-headroom]] [[bannedbook-fanqiang]] [[mattpocock-skills]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]]
 

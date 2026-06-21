@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[obra-superpowers]] [[kong-insomnia]] [[twentyhq-twenty]] [[withastro-flue]] [[tw93-pake]]
+[[twentyhq-twenty]] [[kilo-org-kilocode]] [[tw93-pake]] [[koala73-worldmonitor]] [[kong-insomnia]]
 
 **所属领域**: [[cli]]
 

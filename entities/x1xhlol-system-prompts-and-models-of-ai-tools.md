@@ -36,7 +36,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[cloakhq-cloakbrowser]] [[chopratejas-headroom]] [[twentyhq-twenty]] [[obra-superpowers]]
+[[cloakhq-cloakbrowser]] [[chopratejas-headroom]] [[obra-superpowers]] [[odoo-odoo]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

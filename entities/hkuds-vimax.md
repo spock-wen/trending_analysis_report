@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[paddlepaddle-paddleocr]] [[google-research-timesfm]] [[calesthio-openmontage]] [[chopratejas-headroom]]
+[[bytedance-deer-flow]] [[openbmb-voxcpm]] [[chopratejas-headroom]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

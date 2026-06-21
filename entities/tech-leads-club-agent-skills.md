@@ -34,7 +34,7 @@ The secure, validated skill registry for professional AI coding agents. Extend A
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[kong-insomnia]] [[chopratejas-headroom]] [[twentyhq-twenty]] [[withastro-flue]]
+[[twentyhq-twenty]] [[kilo-org-kilocode]] [[chopratejas-headroom]] [[koala73-worldmonitor]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

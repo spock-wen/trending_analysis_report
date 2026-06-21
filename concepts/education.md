@@ -1,7 +1,7 @@
 ---
 title: "education"
 created: 2026-05-22
-updated: 2026-06-21
+updated: 2026-06-22
 type: concept
 tags: [education]
 confidence: medium
@@ -11,7 +11,7 @@ confidence: medium
 
 ## 领域项目（共 11 个，今日上榜 1 个）
 
-[[owainlewis-awesome-artificial-intelligence]] [[freecodecamp-freecodecamp]] [[rohitg00-ai-engineering-from-scratch]] [[mikeroyal-self-hosting-guide]] [[stefan-jansen-machine-learning-for-trading]] [[jamwithai-production-agentic-rag-course]] [[datatalksclub-data-engineering-zoomcamp]] [[byoungd-english-level-up-tips]] [[lum1104-understand-anything]] [[microsoft-ai-agents-for-beginners]] [[nirdiamant-agents-towards-production]]
+[[byoungd-english-level-up-tips]] [[owainlewis-awesome-artificial-intelligence]] [[freecodecamp-freecodecamp]] [[rohitg00-ai-engineering-from-scratch]] [[mikeroyal-self-hosting-guide]] [[stefan-jansen-machine-learning-for-trading]] [[jamwithai-production-agentic-rag-course]] [[datatalksclub-data-engineering-zoomcamp]] [[lum1104-understand-anything]] [[microsoft-ai-agents-for-beginners]] [[nirdiamant-agents-towards-production]]
 
 ## 语言分布
 

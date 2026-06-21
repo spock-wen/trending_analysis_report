@@ -33,7 +33,7 @@ Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[ruvnet-ruview]] [[deusdata-codebase-memory-mcp]] [[revfactory-harness]] [[kong-insomnia]]
+[[bytedance-ui-tars-desktop]] [[digitalplatdev-freedomain]] [[tw93-pake]] [[aishwaryanr-awesome-generative-ai-guide]] [[pppscn-smsforwarder]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

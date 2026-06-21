@@ -33,7 +33,7 @@ No description
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[owainlewis-awesome-artificial-intelligence]] [[google-research-timesfm]] [[calesthio-openmontage]] [[chopratejas-headroom]]
+[[bytedance-deer-flow]] [[chopratejas-headroom]] [[owainlewis-awesome-artificial-intelligence]] [[freecodecamp-freecodecamp]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

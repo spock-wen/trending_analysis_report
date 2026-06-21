@@ -1,7 +1,7 @@
 ---
 title: "security"
 created: 2026-05-26
-updated: 2026-06-21
+updated: 2026-06-22
 type: concept
 tags: [security]
 confidence: medium
@@ -9,9 +9,9 @@ confidence: medium
 
 # security
 
-## 领域项目（共 10 个，今日上榜 0 个）
+## 领域项目（共 10 个，今日上榜 1 个）
 
-[[universal-debloater-alliance-universal-android-debloater-next-generation]] [[nvidia-skillspector]] [[itsfatduck-optimizerduck]] [[masterking32-masterdnsvpn]] [[affaan-m-ecc]] [[reconurge-flowsint]] [[aquasecurity-trivy]] [[mukul975-anthropic-cybersecurity-skills]] [[cloakhq-cloakbrowser]] [[plausible-analytics]]
+[[mukul975-anthropic-cybersecurity-skills]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[nvidia-skillspector]] [[itsfatduck-optimizerduck]] [[masterking32-masterdnsvpn]] [[affaan-m-ecc]] [[reconurge-flowsint]] [[aquasecurity-trivy]] [[cloakhq-cloakbrowser]] [[plausible-analytics]]
 
 ## 语言分布
 
@@ -19,5 +19,5 @@ Python 3个, Go 2个, Rust 1个, C# 1个, JavaScript 1个, TypeScript 1个, Elix
 
 ## 趋势观察
 
-10 个 security 领域项目被追踪，其中 0 个今日同时上榜，反映该领域持续活跃。
+10 个 security 领域项目被追踪，其中 1 个今日同时上榜，反映该领域持续活跃。
 

@@ -33,7 +33,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[restic-restic]] [[kong-insomnia]] [[aquasecurity-trivy]] [[kenn-io-agentsview]] [[pppscn-smsforwarder]]
+[[restic-restic]] [[tw93-pake]] [[pppscn-smsforwarder]] [[aishwaryanr-awesome-generative-ai-guide]] [[aquasecurity-trivy]]
 
 **所属领域**: [[web]]
 

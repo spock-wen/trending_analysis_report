@@ -36,5 +36,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[withastro-flue]] [[kong-insomnia]] [[kilo-org-kilocode]] [[twentyhq-twenty]]
+[[withastro-flue]] [[twentyhq-twenty]] [[kilo-org-kilocode]] [[koala73-worldmonitor]]
 

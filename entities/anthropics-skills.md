@@ -36,7 +36,7 @@ Public repository for Agent Skills
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[calesthio-openmontage]] [[chopratejas-headroom]] [[twentyhq-twenty]]
+[[bytedance-deer-flow]] [[chopratejas-headroom]] [[calesthio-openmontage]] [[mattpocock-skills]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]]
 

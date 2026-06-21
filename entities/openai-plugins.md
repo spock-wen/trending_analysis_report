@@ -37,7 +37,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[chopratejas-headroom]] [[twentyhq-twenty]] [[affaan-m-ecc]] [[santifer-career-ops]]
+[[affaan-m-ecc]] [[chopratejas-headroom]] [[santifer-career-ops]] [[mattpocock-skills]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]]
 

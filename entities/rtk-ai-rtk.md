@@ -33,7 +33,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[tursodatabase-turso]] [[deusdata-codebase-memory-mcp]] [[kong-insomnia]] [[1jehuang-jcode]] [[chopratejas-headroom]]
+[[tw93-pake]] [[chopratejas-headroom]] [[1jehuang-jcode]] [[n0-computer-iroh]] [[kong-insomnia]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

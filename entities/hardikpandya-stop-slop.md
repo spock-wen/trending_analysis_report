@@ -37,7 +37,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[chopratejas-headroom]] [[deusdata-codebase-memory-mcp]] [[mattpocock-skills]] [[twentyhq-twenty]]
+[[mukul975-anthropic-cybersecurity-skills]] [[mattpocock-skills]] [[chopratejas-headroom]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]]
 

@@ -33,7 +33,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[deusdata-codebase-memory-mcp]] [[revfactory-harness]] [[owainlewis-awesome-artificial-intelligence]] [[kong-insomnia]]
+[[bytedance-deer-flow]] [[google-research-timesfm]] [[digitalplatdev-freedomain]] [[tw93-pake]] [[pppscn-smsforwarder]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

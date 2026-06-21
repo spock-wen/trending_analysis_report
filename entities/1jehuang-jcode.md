@@ -33,7 +33,7 @@ Coding Agent Harness
 
 ## 相关项目
 
-[[tursodatabase-turso]] [[deusdata-codebase-memory-mcp]] [[chopratejas-headroom]] [[twentyhq-twenty]] [[tw93-pake]]
+[[tw93-pake]] [[chopratejas-headroom]] [[n0-computer-iroh]] [[mattpocock-skills]] [[tursodatabase-turso]]
 
 **所属领域**: [[ai-agent]]
 

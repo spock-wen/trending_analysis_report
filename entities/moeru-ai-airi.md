@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[jamiepine-voicebox]] [[kong-insomnia]] [[chopratejas-headroom]] [[twentyhq-twenty]]
+[[twentyhq-twenty]] [[kilo-org-kilocode]] [[tw93-pake]] [[openbmb-voxcpm]] [[pppscn-smsforwarder]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

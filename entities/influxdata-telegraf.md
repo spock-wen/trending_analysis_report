@@ -34,7 +34,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[restic-restic]] [[tursodatabase-turso]] [[alibaba-zvec]] [[deusdata-codebase-memory-mcp]] [[calesthio-openmontage]]
+[[restic-restic]] [[alibaba-zvec]] [[chopratejas-headroom]] [[aquasecurity-trivy]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

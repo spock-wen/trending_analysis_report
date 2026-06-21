@@ -33,7 +33,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[tursodatabase-turso]] [[deusdata-codebase-memory-mcp]] [[1jehuang-jcode]] [[chopratejas-headroom]] [[twentyhq-twenty]]
+[[tw93-pake]] [[chopratejas-headroom]] [[1jehuang-jcode]] [[n0-computer-iroh]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

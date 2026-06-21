@@ -36,7 +36,7 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[owainlewis-awesome-artificial-intelligence]] [[google-research-timesfm]] [[calesthio-openmontage]] [[chopratejas-headroom]]
+[[bytedance-deer-flow]] [[google-research-timesfm]] [[aishwaryanr-awesome-generative-ai-guide]] [[chopratejas-headroom]] [[owainlewis-awesome-artificial-intelligence]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

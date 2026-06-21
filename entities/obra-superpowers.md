@@ -37,7 +37,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[cloakhq-cloakbrowser]] [[addyosmani-agent-skills]] [[kong-insomnia]] [[chopratejas-headroom]]
+[[cloakhq-cloakbrowser]] [[tw93-pake]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[chopratejas-headroom]] [[kong-insomnia]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

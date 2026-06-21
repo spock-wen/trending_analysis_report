@@ -35,7 +35,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[tursodatabase-turso]] [[alibaba-zvec]] [[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[calesthio-openmontage]]
+[[bytedance-deer-flow]] [[openbmb-voxcpm]] [[alibaba-zvec]] [[chopratejas-headroom]] [[universal-debloater-alliance-universal-android-debloater-next-generation]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

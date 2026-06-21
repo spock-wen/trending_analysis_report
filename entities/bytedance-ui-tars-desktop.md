@@ -33,7 +33,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[deusdata-codebase-memory-mcp]] [[kong-insomnia]] [[chopratejas-headroom]] [[twentyhq-twenty]]
+[[twentyhq-twenty]] [[kilo-org-kilocode]] [[trycua-cua]] [[chopratejas-headroom]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]]
 

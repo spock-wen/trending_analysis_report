@@ -35,7 +35,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[obra-superpowers]] [[twentyhq-twenty]] [[withastro-flue]] [[pppscn-smsforwarder]] [[tw93-pake]]
+[[twentyhq-twenty]] [[kilo-org-kilocode]] [[tw93-pake]] [[pppscn-smsforwarder]] [[aishwaryanr-awesome-generative-ai-guide]]
 
 **所属领域**: [[web]] [[cli]]
 

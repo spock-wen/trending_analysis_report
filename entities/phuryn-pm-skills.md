@@ -37,7 +37,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[kong-insomnia]] [[chopratejas-headroom]] [[twentyhq-twenty]] [[tw93-pake]]
+[[tw93-pake]] [[chopratejas-headroom]] [[kong-insomnia]] [[mattpocock-skills]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

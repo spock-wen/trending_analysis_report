@@ -36,7 +36,7 @@ TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[owainlewis-awesome-artificial-intelligence]] [[calesthio-openmontage]] [[chopratejas-headroom]] [[twentyhq-twenty]]
+[[bytedance-deer-flow]] [[aishwaryanr-awesome-generative-ai-guide]] [[chopratejas-headroom]] [[owainlewis-awesome-artificial-intelligence]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

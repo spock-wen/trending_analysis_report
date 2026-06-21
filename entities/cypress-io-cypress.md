@@ -34,7 +34,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[kong-insomnia]] [[twentyhq-twenty]] [[withastro-flue]] [[pppscn-smsforwarder]] [[tw93-pake]]
+[[twentyhq-twenty]] [[kilo-org-kilocode]] [[tw93-pake]] [[pppscn-smsforwarder]] [[aishwaryanr-awesome-generative-ai-guide]]
 
 **所属领域**: [[web]]
 

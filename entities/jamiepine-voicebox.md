@@ -33,7 +33,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[kong-insomnia]] [[chopratejas-headroom]] [[twentyhq-twenty]] [[withastro-flue]]
+[[twentyhq-twenty]] [[kilo-org-kilocode]] [[openbmb-voxcpm]] [[chopratejas-headroom]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

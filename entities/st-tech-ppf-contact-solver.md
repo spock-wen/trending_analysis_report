@@ -33,7 +33,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[kong-insomnia]] [[google-research-timesfm]] [[calesthio-openmontage]] [[chopratejas-headroom]] [[lightricks-ltx-2]]
+[[bytedance-deer-flow]] [[tw93-pake]] [[chopratejas-headroom]] [[kong-insomnia]] [[calesthio-openmontage]]
 
 **所属领域**: [[cli]]
 

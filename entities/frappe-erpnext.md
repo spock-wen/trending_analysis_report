@@ -33,7 +33,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[cloakhq-cloakbrowser]] [[google-research-timesfm]] [[calesthio-openmontage]] [[chopratejas-headroom]] [[x1xhlol-system-prompts-and-models-of-ai-tools]]
+[[cloakhq-cloakbrowser]] [[bytedance-deer-flow]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[chopratejas-headroom]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

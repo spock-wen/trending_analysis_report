@@ -37,5 +37,5 @@ language: "Rust"
 
 ## 相关项目
 
-[[tursodatabase-turso]] [[1jehuang-jcode]] [[bytedance-ui-tars-desktop]] [[koala73-worldmonitor]] [[trycua-cua]]
+[[bytedance-ui-tars-desktop]] [[tw93-pake]] [[trycua-cua]] [[koala73-worldmonitor]] [[n0-computer-iroh]]
 

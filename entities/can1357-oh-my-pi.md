@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[obra-superpowers]] [[kong-insomnia]] [[chopratejas-headroom]] [[twentyhq-twenty]]
+[[twentyhq-twenty]] [[kilo-org-kilocode]] [[tw93-pake]] [[pppscn-smsforwarder]] [[aishwaryanr-awesome-generative-ai-guide]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

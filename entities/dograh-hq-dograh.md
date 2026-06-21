@@ -33,7 +33,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[jamiepine-voicebox]] [[google-research-timesfm]] [[calesthio-openmontage]] [[chopratejas-headroom]]
+[[bytedance-deer-flow]] [[openbmb-voxcpm]] [[chopratejas-headroom]] [[music-assistant-server]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

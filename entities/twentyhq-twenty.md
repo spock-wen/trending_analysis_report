@@ -37,7 +37,7 @@ The open alternative to Salesforce, designed for AI.
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[kilo-org-kilocode]] [[kong-insomnia]] [[chopratejas-headroom]] [[withastro-flue]]
+[[kilo-org-kilocode]] [[chopratejas-headroom]] [[koala73-worldmonitor]] [[mattpocock-skills]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[jamiepine-voicebox]] [[kong-insomnia]] [[google-research-timesfm]] [[calesthio-openmontage]]
+[[bytedance-deer-flow]] [[tw93-pake]] [[openbmb-voxcpm]] [[chopratejas-headroom]] [[kong-insomnia]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

@@ -37,7 +37,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[addyosmani-agent-skills]] [[kong-insomnia]] [[chopratejas-headroom]] [[twentyhq-twenty]]
+[[tw93-pake]] [[pppscn-smsforwarder]] [[aishwaryanr-awesome-generative-ai-guide]] [[chopratejas-headroom]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

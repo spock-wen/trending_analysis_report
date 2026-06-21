@@ -33,7 +33,7 @@ ASP.NET Core is a cross-platform .NET framework for building modern cloud-based 
 
 ## 相关项目
 
-[[kong-insomnia]] [[itsfatduck-optimizerduck]] [[jellyfin-jellyfin]] [[pppscn-smsforwarder]] [[tw93-pake]]
+[[tw93-pake]] [[pppscn-smsforwarder]] [[aishwaryanr-awesome-generative-ai-guide]] [[kong-insomnia]] [[openclaw-openclaw-windows-node]]
 
 **所属领域**: [[web]]
 

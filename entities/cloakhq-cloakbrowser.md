@@ -34,7 +34,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[obra-superpowers]] [[kong-insomnia]] [[google-research-timesfm]] [[calesthio-openmontage]] [[universal-debloater-alliance-universal-android-debloater-next-generation]]
+[[bytedance-deer-flow]] [[tw93-pake]] [[pppscn-smsforwarder]] [[aishwaryanr-awesome-generative-ai-guide]] [[chopratejas-headroom]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

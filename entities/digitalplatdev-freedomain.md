@@ -36,7 +36,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[revfactory-harness]] [[kong-insomnia]] [[chopratejas-headroom]] [[twentyhq-twenty]]
+[[tw93-pake]] [[aishwaryanr-awesome-generative-ai-guide]] [[trycua-cua]] [[chopratejas-headroom]] [[pppscn-smsforwarder]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

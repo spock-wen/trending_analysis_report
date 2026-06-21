@@ -35,7 +35,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[tursodatabase-turso]] [[kong-insomnia]] [[1jehuang-jcode]] [[pppscn-smsforwarder]] [[tw93-pake]]
+[[tw93-pake]] [[pppscn-smsforwarder]] [[aishwaryanr-awesome-generative-ai-guide]] [[1jehuang-jcode]] [[n0-computer-iroh]]
 
 **所属领域**: [[web]]
 

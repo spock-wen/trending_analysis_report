@@ -33,5 +33,5 @@ language: "Python"
 
 ## 相关项目
 
-[[google-research-timesfm]] [[calesthio-openmontage]] [[chopratejas-headroom]] [[lightricks-ltx-2]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bytedance-deer-flow]] [[chopratejas-headroom]] [[calesthio-openmontage]]
 

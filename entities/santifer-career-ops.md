@@ -35,7 +35,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[paddlepaddle-paddleocr]] [[chopratejas-headroom]] [[twentyhq-twenty]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[openbmb-voxcpm]] [[chopratejas-headroom]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

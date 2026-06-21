@@ -35,7 +35,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[tursodatabase-turso]] [[deusdata-codebase-memory-mcp]] [[1jehuang-jcode]] [[chopratejas-headroom]] [[twentyhq-twenty]]
+[[tw93-pake]] [[chopratejas-headroom]] [[1jehuang-jcode]] [[n0-computer-iroh]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[tursodatabase-turso]] [[paddlepaddle-paddleocr]] [[1jehuang-jcode]] [[itsfatduck-optimizerduck]] [[masterking32-masterdnsvpn]]
+[[tw93-pake]] [[openbmb-voxcpm]] [[1jehuang-jcode]] [[n0-computer-iroh]] [[itsfatduck-optimizerduck]]
 
 **所属领域**: [[security]] [[image-gen]]
 

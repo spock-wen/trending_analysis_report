@@ -36,7 +36,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[tursodatabase-turso]] [[alibaba-zvec]] [[deusdata-codebase-memory-mcp]] [[google-research-timesfm]] [[calesthio-openmontage]]
+[[bytedance-deer-flow]] [[alibaba-zvec]] [[chopratejas-headroom]] [[calesthio-openmontage]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

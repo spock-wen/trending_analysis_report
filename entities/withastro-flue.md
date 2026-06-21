@@ -35,7 +35,7 @@ The sandbox agent framework.
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[kilo-org-kilocode]] [[kong-insomnia]] [[chopratejas-headroom]] [[twentyhq-twenty]]
+[[twentyhq-twenty]] [[kilo-org-kilocode]] [[chopratejas-headroom]] [[koala73-worldmonitor]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

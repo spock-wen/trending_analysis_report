@@ -33,7 +33,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[kong-insomnia]] [[yairm210-unciv]] [[bannedbook-fanqiang]] [[tw93-pake]] [[aishwaryanr-awesome-generative-ai-guide]]
+[[tw93-pake]] [[aishwaryanr-awesome-generative-ai-guide]] [[kong-insomnia]] [[bannedbook-fanqiang]] [[yairm210-unciv]]
 
 **所属领域**: [[web]]
 

@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[kong-insomnia]] [[google-research-timesfm]] [[calesthio-openmontage]] [[chopratejas-headroom]] [[pppscn-smsforwarder]]
+[[bytedance-deer-flow]] [[tw93-pake]] [[pppscn-smsforwarder]] [[aishwaryanr-awesome-generative-ai-guide]] [[chopratejas-headroom]]
 
 **所属领域**: [[web]]
 

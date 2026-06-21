@@ -34,7 +34,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[kong-insomnia]] [[pppscn-smsforwarder]] [[tw93-pake]] [[obra-superpowers]] [[aishwaryanr-awesome-generative-ai-guide]]
+[[tw93-pake]] [[pppscn-smsforwarder]] [[aishwaryanr-awesome-generative-ai-guide]] [[kong-insomnia]] [[mattpocock-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -35,7 +35,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[supertone-inc-supertonic]] [[deusdata-codebase-memory-mcp]] [[kong-insomnia]] [[palmier-io-palmier-pro]] [[chopratejas-headroom]]
+[[tw93-pake]] [[chopratejas-headroom]] [[kong-insomnia]] [[apple-container]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

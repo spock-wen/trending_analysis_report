@@ -33,7 +33,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[kong-insomnia]] [[google-research-timesfm]] [[calesthio-openmontage]] [[chopratejas-headroom]]
+[[bytedance-deer-flow]] [[tw93-pake]] [[openbmb-voxcpm]] [[chopratejas-headroom]] [[kong-insomnia]]
 
 **所属领域**: [[cli]] [[audio]]
 

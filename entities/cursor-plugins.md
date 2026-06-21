@@ -34,5 +34,5 @@ Cursor plugin specification and official plugins
 
 ## 相关项目
 
-[[withastro-flue]] [[kong-insomnia]] [[kilo-org-kilocode]] [[twentyhq-twenty]]
+[[withastro-flue]] [[twentyhq-twenty]] [[kilo-org-kilocode]] [[koala73-worldmonitor]]
 

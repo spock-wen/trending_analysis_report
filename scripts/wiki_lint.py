@@ -283,8 +283,45 @@ def check_git_status(issues):
         issues['info'].append(f"git 状态检查异常: {e}")
 
 
+def git_push():
+    """推送本地提交到远程"""
+    ssh_cmd = "ssh -o StrictHostKeyChecking=no -i /root/.ssh/id_ed25519"
+    try:
+        # 先 fetch 检查是否有差异
+        subprocess.run(
+            ['git', 'fetch', 'origin'],
+            capture_output=True, text=True, timeout=30, cwd=WIKI_PATH,
+            env={**os.environ, 'GIT_SSH_COMMAND': ssh_cmd}
+        )
+        result = subprocess.run(
+            ['git', 'log', '@{u}..HEAD', '--oneline'],
+            capture_output=True, text=True, timeout=10, cwd=WIKI_PATH
+        )
+        if not result.stdout.strip():
+            print("✅ 远程已是最新，无需推送。")
+            return True
+
+        commits = result.stdout.strip().split('\n')
+        print(f"⬆️ 推送 {len(commits)} 个提交到远程...")
+        push_result = subprocess.run(
+            ['git', 'push', 'origin', 'main'],
+            capture_output=True, text=True, timeout=60, cwd=WIKI_PATH,
+            env={**os.environ, 'GIT_SSH_COMMAND': ssh_cmd}
+        )
+        if push_result.returncode == 0:
+            print("✅ 推送成功。")
+            return True
+        else:
+            print(f"❌ 推送失败: {push_result.stderr}")
+            return False
+    except Exception as e:
+        print(f"❌ 推送异常: {e}")
+        return False
+
+
 def main():
     fix_mode = '--fix' in sys.argv
+    push_mode = '--push' in sys.argv
 
     print("=== GitHub Trending Wiki Lint ===")
     issues = lint_pages()
@@ -301,6 +338,11 @@ def main():
     with open(report_path, 'w', encoding='utf-8') as f:
         f.write(report)
     print(f"\n报告已保存: {report_path}")
+
+    # 自动推送未同步的提交
+    if push_mode:
+        print("\n=== Git Push ===")
+        git_push()
 
     total = sum(len(v) for v in issues.values())
     if total > 0:

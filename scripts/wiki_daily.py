@@ -731,6 +731,16 @@ def git_commit():
     else:
         print(f"  Commit: {result.stdout.strip() or result.stderr.strip()[:200]}")
 
+    # 推送到远程
+    push_result = subprocess.run(
+        ['git', 'push', 'origin', 'main'],
+        cwd=BASE, capture_output=True, text=True, env=env, timeout=60
+    )
+    if push_result.returncode == 0:
+        print(f"  Push 成功")
+    else:
+        print(f"  Push: {push_result.stderr.strip()[:200]}")
+
 # ============ 第五步：飞书推送 ============
 # ============ LLM 深度分析 + 描述翻译 ============
 def llm_enrich():

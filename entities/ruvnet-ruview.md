@@ -37,5 +37,5 @@ language: "Rust"
 
 ## 相关项目
 
-[[bytedance-ui-tars-desktop]] [[tw93-pake]] [[trycua-cua]] [[koala73-worldmonitor]] [[n0-computer-iroh]]
+[[trycua-cua]] [[1jehuang-jcode]] [[n0-computer-iroh]] [[koala73-worldmonitor]] [[tw93-pake]]
 

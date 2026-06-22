@@ -33,7 +33,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[tw93-pake]] [[openbmb-voxcpm]] [[chopratejas-headroom]] [[kong-insomnia]]
+[[openbmb-voxcpm]] [[bytedance-deer-flow]] [[tw93-pake]] [[music-assistant-server]] [[chopratejas-headroom]]
 
 **所属领域**: [[cli]] [[audio]]
 

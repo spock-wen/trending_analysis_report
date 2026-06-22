@@ -37,7 +37,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[chopratejas-headroom]] [[santifer-career-ops]] [[mattpocock-skills]] [[deusdata-codebase-memory-mcp]]
+[[lyogavin-airllm]] [[garrytan-gstack]] [[pbakaus-impeccable]] [[affaan-m-ecc]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,17 +37,7 @@ Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[kilo-org-kilocode]] [[chopratejas-headroom]] [[koala73-worldmonitor]] [[mattpocock-skills]]
+[[stirling-tools-stirling-pdf]] [[lyogavin-airllm]] [[garrytan-gstack]] [[jamiepine-voicebox]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[ai-agent]]
-
-
-## ⚠️ 描述变更（2026-05-23）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
-- **新描述**: Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

@@ -33,7 +33,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[cloakhq-cloakbrowser]] [[tw93-pake]] [[pppscn-smsforwarder]] [[aishwaryanr-awesome-generative-ai-guide]] [[x1xhlol-system-prompts-and-models-of-ai-tools]]
+[[x1xhlol-system-prompts-and-models-of-ai-tools]] [[tw93-pake]] [[odoo-odoo]] [[cloakhq-cloakbrowser]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[erp]]
 

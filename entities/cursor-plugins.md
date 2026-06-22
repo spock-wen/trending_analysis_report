@@ -34,5 +34,5 @@ Cursor plugin specification and official plugins
 
 ## 相关项目
 
-[[withastro-flue]] [[twentyhq-twenty]] [[kilo-org-kilocode]] [[koala73-worldmonitor]]
+[[stirling-tools-stirling-pdf]] [[jamiepine-voicebox]] [[garrytan-gstack]] [[heygen-com-hyperframes]]
 

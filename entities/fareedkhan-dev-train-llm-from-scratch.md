@@ -36,7 +36,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[alibaba-zvec]] [[chopratejas-headroom]] [[calesthio-openmontage]] [[mattpocock-skills]]
+[[bytedance-deer-flow]] [[deusdata-codebase-memory-mcp]] [[lyogavin-airllm]] [[alibaba-zvec]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

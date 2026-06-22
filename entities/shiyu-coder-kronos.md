@@ -37,5 +37,5 @@ Kronos: A Foundation Model for the Language of Financial Markets
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[bytedance-deer-flow]] [[chopratejas-headroom]] [[calesthio-openmontage]]
+[[mukul975-anthropic-cybersecurity-skills]] [[chopratejas-headroom]] [[bytedance-deer-flow]] [[calesthio-openmontage]]
 

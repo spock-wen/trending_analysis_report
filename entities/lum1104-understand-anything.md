@@ -37,7 +37,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[kilo-org-kilocode]] [[tw93-pake]] [[chopratejas-headroom]] [[owainlewis-awesome-artificial-intelligence]]
+[[freecodecamp-freecodecamp]] [[stirling-tools-stirling-pdf]] [[lyogavin-airllm]] [[tw93-pake]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

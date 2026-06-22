@@ -34,7 +34,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[pppscn-smsforwarder]] [[aishwaryanr-awesome-generative-ai-guide]] [[1jehuang-jcode]] [[n0-computer-iroh]] [[kong-insomnia]]
+[[1jehuang-jcode]] [[n0-computer-iroh]] [[heygen-com-hyperframes]] [[mukul975-anthropic-cybersecurity-skills]] [[mattpocock-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

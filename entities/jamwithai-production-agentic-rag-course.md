@@ -33,7 +33,7 @@ No description
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[chopratejas-headroom]] [[owainlewis-awesome-artificial-intelligence]] [[freecodecamp-freecodecamp]] [[rohitg00-ai-engineering-from-scratch]]
+[[bytedance-deer-flow]] [[freecodecamp-freecodecamp]] [[lyogavin-airllm]] [[garrytan-gstack]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

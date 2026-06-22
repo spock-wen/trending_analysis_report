@@ -34,7 +34,7 @@ Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate fa
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[chopratejas-headroom]] [[koala73-worldmonitor]] [[mattpocock-skills]] [[deusdata-codebase-memory-mcp]]
+[[stirling-tools-stirling-pdf]] [[lyogavin-airllm]] [[garrytan-gstack]] [[jamiepine-voicebox]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[ai-agent]]
 

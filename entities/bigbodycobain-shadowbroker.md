@@ -34,7 +34,7 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[alibaba-zvec]] [[chopratejas-headroom]] [[calesthio-openmontage]] [[mattpocock-skills]]
+[[bytedance-deer-flow]] [[deusdata-codebase-memory-mcp]] [[lyogavin-airllm]] [[alibaba-zvec]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

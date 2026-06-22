@@ -35,7 +35,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[tw93-pake]] [[chopratejas-headroom]] [[1jehuang-jcode]] [[n0-computer-iroh]] [[mattpocock-skills]]
+[[lyogavin-airllm]] [[1jehuang-jcode]] [[n0-computer-iroh]] [[tw93-pake]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]]
 

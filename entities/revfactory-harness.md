@@ -36,7 +36,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[digitalplatdev-freedomain]] [[tw93-pake]] [[aishwaryanr-awesome-generative-ai-guide]] [[trycua-cua]] [[chopratejas-headroom]]
+[[lyogavin-airllm]] [[mukul975-anthropic-cybersecurity-skills]] [[aishwaryanr-awesome-generative-ai-guide]] [[tw93-pake]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

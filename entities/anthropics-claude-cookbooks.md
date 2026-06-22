@@ -33,7 +33,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[stefan-jansen-machine-learning-for-trading]] [[lyogavin-airllm]] [[chopratejas-headroom]] [[nvidia-cosmos]] [[datatalksclub-data-engineering-zoomcamp]]
+[[lyogavin-airllm]] [[nvidia-cosmos]] [[stefan-jansen-machine-learning-for-trading]] [[garrytan-gstack]] [[datatalksclub-data-engineering-zoomcamp]]
 
 **所属领域**: [[ai-agent]]
 

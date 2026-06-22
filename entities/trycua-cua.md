@@ -33,7 +33,7 @@ Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 
 ## 相关项目
 
-[[bytedance-ui-tars-desktop]] [[digitalplatdev-freedomain]] [[tw93-pake]] [[aishwaryanr-awesome-generative-ai-guide]] [[pppscn-smsforwarder]]
+[[bytedance-ui-tars-desktop]] [[lyogavin-airllm]] [[ruvnet-ruview]] [[aishwaryanr-awesome-generative-ai-guide]] [[tw93-pake]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

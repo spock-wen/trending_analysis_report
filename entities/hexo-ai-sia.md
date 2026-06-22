@@ -33,7 +33,7 @@ SIA is a Self Improving AI framework to autonomously improve the performance of 
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[chopratejas-headroom]] [[calesthio-openmontage]] [[mattpocock-skills]] [[deusdata-codebase-memory-mcp]]
+[[bytedance-deer-flow]] [[lyogavin-airllm]] [[garrytan-gstack]] [[chopratejas-headroom]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]]
 

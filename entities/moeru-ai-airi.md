@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[kilo-org-kilocode]] [[tw93-pake]] [[openbmb-voxcpm]] [[pppscn-smsforwarder]]
+[[openbmb-voxcpm]] [[stirling-tools-stirling-pdf]] [[lyogavin-airllm]] [[tw93-pake]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

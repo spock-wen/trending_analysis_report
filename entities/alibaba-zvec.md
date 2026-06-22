@@ -34,7 +34,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[opentoonz-opentoonz]] [[opencv-opencv]] [[calesthio-openmontage]] [[tursodatabase-turso]] [[deusdata-codebase-memory-mcp]]
+[[deusdata-codebase-memory-mcp]] [[opentoonz-opentoonz]] [[godotengine-godot]] [[calesthio-openmontage]] [[opencv-opencv]]
 
 **所属领域**: [[data]]
 

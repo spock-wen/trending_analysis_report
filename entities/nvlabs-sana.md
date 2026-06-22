@@ -33,7 +33,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[openbmb-voxcpm]] [[chopratejas-headroom]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[santifer-career-ops]]
+[[openbmb-voxcpm]] [[bytedance-deer-flow]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[chopratejas-headroom]] [[calesthio-openmontage]]
 
 **所属领域**: [[image-gen]]
 

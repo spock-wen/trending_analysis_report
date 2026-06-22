@@ -35,7 +35,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[tw93-pake]] [[pppscn-smsforwarder]] [[aishwaryanr-awesome-generative-ai-guide]] [[1jehuang-jcode]] [[n0-computer-iroh]]
+[[1jehuang-jcode]] [[n0-computer-iroh]] [[tw93-pake]] [[heygen-com-hyperframes]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[web]]
 

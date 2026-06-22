@@ -33,7 +33,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[tw93-pake]] [[chopratejas-headroom]] [[kong-insomnia]] [[calesthio-openmontage]]
+[[bytedance-deer-flow]] [[tw93-pake]] [[chopratejas-headroom]] [[calesthio-openmontage]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[cli]]
 

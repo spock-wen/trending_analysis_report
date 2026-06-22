@@ -36,7 +36,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[tw93-pake]] [[aishwaryanr-awesome-generative-ai-guide]] [[trycua-cua]] [[chopratejas-headroom]] [[pppscn-smsforwarder]]
+[[lyogavin-airllm]] [[mukul975-anthropic-cybersecurity-skills]] [[aishwaryanr-awesome-generative-ai-guide]] [[tw93-pake]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -34,7 +34,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[tw93-pake]] [[pppscn-smsforwarder]] [[aishwaryanr-awesome-generative-ai-guide]] [[alibaba-zvec]] [[teslamate-org-teslamate]]
+[[teslamate-org-teslamate]] [[deusdata-codebase-memory-mcp]] [[alibaba-zvec]] [[tursodatabase-turso]] [[itsfatduck-optimizerduck]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

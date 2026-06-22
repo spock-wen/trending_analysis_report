@@ -34,7 +34,7 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[google-research-timesfm]] [[tw93-pake]] [[aishwaryanr-awesome-generative-ai-guide]] [[alibaba-zvec]]
+[[bytedance-deer-flow]] [[deusdata-codebase-memory-mcp]] [[alibaba-zvec]] [[aishwaryanr-awesome-generative-ai-guide]] [[tw93-pake]]
 
 **所属领域**: [[cli]] [[data]] [[science]]
 

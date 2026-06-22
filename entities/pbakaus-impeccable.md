@@ -33,7 +33,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[chopratejas-headroom]] [[santifer-career-ops]] [[mattpocock-skills]] [[deusdata-codebase-memory-mcp]]
+[[lyogavin-airllm]] [[openai-plugins]] [[garrytan-gstack]] [[affaan-m-ecc]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[ai-agent]]
 

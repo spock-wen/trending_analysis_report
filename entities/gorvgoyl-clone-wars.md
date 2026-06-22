@@ -33,7 +33,7 @@ language: ""
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[mattpocock-skills]] [[chopratejas-headroom]] [[deusdata-codebase-memory-mcp]]
+[[mukul975-anthropic-cybersecurity-skills]] [[mattpocock-skills]] [[lyogavin-airllm]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]]
 

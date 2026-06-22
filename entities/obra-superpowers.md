@@ -37,7 +37,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[cloakhq-cloakbrowser]] [[tw93-pake]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[chopratejas-headroom]] [[kong-insomnia]]
+[[cloakhq-cloakbrowser]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[lyogavin-airllm]] [[tw93-pake]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

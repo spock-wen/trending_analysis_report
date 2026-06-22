@@ -33,7 +33,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[openbmb-voxcpm]] [[chopratejas-headroom]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[santifer-career-ops]]
+[[openbmb-voxcpm]] [[bytedance-deer-flow]] [[lyogavin-airllm]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

@@ -34,7 +34,7 @@ Let's use AI to Earn!
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[kilo-org-kilocode]] [[chopratejas-headroom]] [[koala73-worldmonitor]] [[mattpocock-skills]]
+[[stirling-tools-stirling-pdf]] [[lyogavin-airllm]] [[garrytan-gstack]] [[jamiepine-voicebox]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[ai-agent]]
 

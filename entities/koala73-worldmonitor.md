@@ -34,7 +34,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[kilo-org-kilocode]] [[bytedance-ui-tars-desktop]] [[trycua-cua]] [[chopratejas-headroom]]
+[[bytedance-ui-tars-desktop]] [[trycua-cua]] [[stirling-tools-stirling-pdf]] [[lyogavin-airllm]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]]
 

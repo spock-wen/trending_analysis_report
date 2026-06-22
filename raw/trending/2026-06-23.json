@@ -1,0 +1,143 @@
+{
+  "date": "2026-06-23",
+  "scraped_at": "2026-06-23T07:00:22.277295",
+  "period": "daily",
+  "count": 15,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars_today": 2935,
+      "total_stars": 11857,
+      "url": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+      "rank": 2,
+      "repo": "palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "stars_today": 2462,
+      "total_stars": 7264,
+      "url": "https://github.com/palmier-io/palmier-pro"
+    },
+    {
+      "rank": 3,
+      "repo": "jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars_today": 508,
+      "total_stars": 32171,
+      "url": "https://github.com/jamiepine/voicebox"
+    },
+    {
+      "rank": 4,
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars_today": 957,
+      "total_stars": 18630,
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "rank": 5,
+      "repo": "penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars_today": 730,
+      "total_stars": 52831,
+      "url": "https://github.com/penpot/penpot"
+    },
+    {
+      "rank": 6,
+      "repo": "Stirling-Tools/Stirling-PDF",
+      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+      "language": "TypeScript",
+      "stars_today": 691,
+      "total_stars": 82842,
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF"
+    },
+    {
+      "rank": 7,
+      "repo": "garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "stars_today": 649,
+      "total_stars": 113095,
+      "url": "https://github.com/garrytan/gstack"
+    },
+    {
+      "rank": 8,
+      "repo": "heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars_today": 369,
+      "total_stars": 29939,
+      "url": "https://github.com/heygen-com/hyperframes"
+    },
+    {
+      "rank": 9,
+      "repo": "tursodatabase/turso",
+      "description": "Turso is an in-process SQL database, compatible with SQLite.",
+      "language": "Rust",
+      "stars_today": 538,
+      "total_stars": 21433,
+      "url": "https://github.com/tursodatabase/turso"
+    },
+    {
+      "rank": 10,
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "stars_today": 736,
+      "total_stars": 73204,
+      "url": "https://github.com/bytedance/deer-flow"
+    },
+    {
+      "rank": 11,
+      "repo": "DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars_today": 1186,
+      "total_stars": 11461,
+      "url": "https://github.com/DeusData/codebase-memory-mcp"
+    },
+    {
+      "rank": 13,
+      "repo": "firecrawl/firecrawl",
+      "description": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "language": "TypeScript",
+      "stars_today": 736,
+      "total_stars": 137200,
+      "url": "https://github.com/firecrawl/firecrawl"
+    },
+    {
+      "rank": 14,
+      "repo": "JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "language": "TypeScript",
+      "stars_today": 63,
+      "total_stars": 17677,
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template"
+    },
+    {
+      "rank": 15,
+      "repo": "lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars_today": 187,
+      "total_stars": 21024,
+      "url": "https://github.com/lyogavin/airllm"
+    },
+    {
+      "rank": 16,
+      "repo": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_today": 2051,
+      "total_stars": 141559,
+      "url": "https://github.com/mattpocock/skills"
+    }
+  ]
+}

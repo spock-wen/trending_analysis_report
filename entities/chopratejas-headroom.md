@@ -37,7 +37,7 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[calesthio-openmontage]] [[mattpocock-skills]] [[deusdata-codebase-memory-mcp]] [[mukul975-anthropic-cybersecurity-skills]]
+[[bytedance-deer-flow]] [[lyogavin-airllm]] [[garrytan-gstack]] [[calesthio-openmontage]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[ai-agent]]
 

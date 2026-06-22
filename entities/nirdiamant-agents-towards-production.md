@@ -33,7 +33,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[stefan-jansen-machine-learning-for-trading]] [[cloakhq-cloakbrowser]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[freecodecamp-freecodecamp]] [[owainlewis-awesome-artificial-intelligence]]
+[[freecodecamp-freecodecamp]] [[ruvnet-ruview]] [[bytedance-ui-tars-desktop]] [[cloakhq-cloakbrowser]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[education]] [[erp]]
 

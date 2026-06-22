@@ -33,7 +33,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[kilo-org-kilocode]] [[cloakhq-cloakbrowser]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[koala73-worldmonitor]]
+[[x1xhlol-system-prompts-and-models-of-ai-tools]] [[stirling-tools-stirling-pdf]] [[garrytan-gstack]] [[jamiepine-voicebox]] [[odoo-odoo]]
 
 **所属领域**: [[erp]]
 

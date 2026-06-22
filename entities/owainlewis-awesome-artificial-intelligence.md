@@ -34,7 +34,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[google-research-timesfm]] [[aishwaryanr-awesome-generative-ai-guide]] [[chopratejas-headroom]] [[freecodecamp-freecodecamp]]
+[[freecodecamp-freecodecamp]] [[bytedance-deer-flow]] [[lyogavin-airllm]] [[aishwaryanr-awesome-generative-ai-guide]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

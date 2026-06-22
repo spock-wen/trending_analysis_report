@@ -35,7 +35,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[kilo-org-kilocode]] [[koala73-worldmonitor]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[itsfatduck-optimizerduck]]
+[[stirling-tools-stirling-pdf]] [[itsfatduck-optimizerduck]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[garrytan-gstack]] [[nvidia-skillspector]]
 
 **所属领域**: [[security]]
 

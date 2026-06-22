@@ -33,7 +33,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[tw93-pake]] [[pppscn-smsforwarder]] [[aishwaryanr-awesome-generative-ai-guide]] [[chopratejas-headroom]] [[owainlewis-awesome-artificial-intelligence]]
+[[freecodecamp-freecodecamp]] [[lyogavin-airllm]] [[tw93-pake]] [[garrytan-gstack]] [[byoungd-english-level-up-tips]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

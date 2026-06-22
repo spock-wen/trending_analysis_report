@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[kilo-org-kilocode]] [[tw93-pake]] [[koala73-worldmonitor]] [[kong-insomnia]]
+[[stirling-tools-stirling-pdf]] [[tw93-pake]] [[garrytan-gstack]] [[jamiepine-voicebox]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[cli]]
 

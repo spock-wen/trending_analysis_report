@@ -34,5 +34,5 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[pppscn-smsforwarder]] [[yairm210-unciv]]
+[[yairm210-unciv]] [[pppscn-smsforwarder]]
 

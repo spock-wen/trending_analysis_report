@@ -33,7 +33,7 @@ A Python framework for self-hosted LLM tool-calling and multi-step agentic workf
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[chopratejas-headroom]] [[calesthio-openmontage]] [[mattpocock-skills]] [[deusdata-codebase-memory-mcp]]
+[[bytedance-deer-flow]] [[lyogavin-airllm]] [[garrytan-gstack]] [[chopratejas-headroom]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]]
 

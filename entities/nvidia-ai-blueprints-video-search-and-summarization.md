@@ -34,7 +34,7 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[alibaba-zvec]] [[chopratejas-headroom]] [[calesthio-openmontage]] [[mattpocock-skills]]
+[[bytedance-deer-flow]] [[deusdata-codebase-memory-mcp]] [[lyogavin-airllm]] [[alibaba-zvec]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

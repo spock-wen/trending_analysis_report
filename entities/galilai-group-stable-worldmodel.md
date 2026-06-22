@@ -34,7 +34,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[google-research-timesfm]] [[openbmb-voxcpm]] [[aishwaryanr-awesome-generative-ai-guide]] [[chopratejas-headroom]]
+[[openbmb-voxcpm]] [[bytedance-deer-flow]] [[lyogavin-airllm]] [[aishwaryanr-awesome-generative-ai-guide]] [[universal-debloater-alliance-universal-android-debloater-next-generation]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

@@ -33,7 +33,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[google-research-timesfm]] [[digitalplatdev-freedomain]] [[tw93-pake]] [[pppscn-smsforwarder]]
+[[bytedance-deer-flow]] [[lyogavin-airllm]] [[mukul975-anthropic-cybersecurity-skills]] [[tw93-pake]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

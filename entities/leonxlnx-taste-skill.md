@@ -37,7 +37,7 @@ Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
 
 ## 相关项目
 
-[[tw93-pake]] [[chopratejas-headroom]] [[obra-superpowers]] [[kong-insomnia]] [[mattpocock-skills]]
+[[lyogavin-airllm]] [[tw93-pake]] [[garrytan-gstack]] [[addyosmani-agent-skills]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

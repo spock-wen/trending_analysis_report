@@ -34,7 +34,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[restic-restic]] [[alibaba-zvec]] [[chopratejas-headroom]] [[aquasecurity-trivy]] [[calesthio-openmontage]]
+[[deusdata-codebase-memory-mcp]] [[lyogavin-airllm]] [[alibaba-zvec]] [[masterking32-masterdnsvpn]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

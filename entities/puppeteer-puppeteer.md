@@ -34,7 +34,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[kilo-org-kilocode]] [[tw93-pake]] [[pppscn-smsforwarder]] [[aishwaryanr-awesome-generative-ai-guide]]
+[[stirling-tools-stirling-pdf]] [[tw93-pake]] [[garrytan-gstack]] [[jamiepine-voicebox]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[web]]
 

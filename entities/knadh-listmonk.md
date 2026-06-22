@@ -33,7 +33,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[restic-restic]] [[chopratejas-headroom]] [[aquasecurity-trivy]] [[mattpocock-skills]] [[deusdata-codebase-memory-mcp]]
+[[lyogavin-airllm]] [[masterking32-masterdnsvpn]] [[garrytan-gstack]] [[restic-restic]] [[kenn-io-agentsview]]
 
 **所属领域**: [[ai-agent]]
 

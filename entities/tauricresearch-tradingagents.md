@@ -33,7 +33,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[google-research-timesfm]] [[aishwaryanr-awesome-generative-ai-guide]] [[chopratejas-headroom]] [[owainlewis-awesome-artificial-intelligence]]
+[[bytedance-deer-flow]] [[lyogavin-airllm]] [[aishwaryanr-awesome-generative-ai-guide]] [[garrytan-gstack]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

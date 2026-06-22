@@ -37,7 +37,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[tw93-pake]] [[chopratejas-headroom]] [[kong-insomnia]] [[calesthio-openmontage]]
+[[bytedance-deer-flow]] [[lyogavin-airllm]] [[tw93-pake]] [[garrytan-gstack]] [[chopratejas-headroom]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

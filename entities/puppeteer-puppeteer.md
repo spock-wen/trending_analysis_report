@@ -34,7 +34,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[stirling-tools-stirling-pdf]] [[tw93-pake]] [[garrytan-gstack]] [[jamiepine-voicebox]] [[firecrawl-firecrawl]]
+[[koala73-worldmonitor]] [[revfactory-harness]] [[heygen-com-hyperframes]] [[garrytan-gstack]] [[jcodesmore-ai-website-cloner-template]]
 
 **所属领域**: [[web]]
 

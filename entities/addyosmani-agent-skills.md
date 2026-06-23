@@ -37,7 +37,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[tw93-pake]] [[garrytan-gstack]] [[msitarzewski-agency-agents]] [[mukul975-anthropic-cybersecurity-skills]]
+[[affaan-m-ecc]] [[tw93-pake]] [[anthropics-claude-plugins-official]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

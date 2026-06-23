@@ -34,7 +34,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[nvidia-cosmos]] [[stefan-jansen-machine-learning-for-trading]] [[garrytan-gstack]] [[datatalksclub-data-engineering-zoomcamp]] [[mukul975-anthropic-cybersecurity-skills]]
+[[affaan-m-ecc]] [[stefan-jansen-machine-learning-for-trading]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[nvidia-cosmos]]
 
 **所属领域**: [[ai-agent]]
 

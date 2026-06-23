@@ -34,7 +34,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[mattpocock-skills]] [[lyogavin-airllm]] [[garrytan-gstack]]
+[[mukul975-anthropic-cybersecurity-skills]] [[affaan-m-ecc]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]]
 

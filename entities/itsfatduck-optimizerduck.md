@@ -33,7 +33,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[openclaw-openclaw-windows-node]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[dotnet-aspnetcore]] [[jellyfin-jellyfin]] [[nvidia-skillspector]]
+[[affaan-m-ecc]] [[openclaw-openclaw-windows-node]] [[jellyfin-jellyfin]] [[nvidia-skillspector]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[security]]
 

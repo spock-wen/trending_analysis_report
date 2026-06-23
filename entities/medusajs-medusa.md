@@ -33,7 +33,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[x1xhlol-system-prompts-and-models-of-ai-tools]] [[stirling-tools-stirling-pdf]] [[garrytan-gstack]] [[jamiepine-voicebox]] [[odoo-odoo]]
+[[koala73-worldmonitor]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[odoo-odoo]] [[garrytan-gstack]]
 
 **所属领域**: [[erp]]
 

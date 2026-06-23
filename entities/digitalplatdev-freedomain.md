@@ -36,7 +36,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[mukul975-anthropic-cybersecurity-skills]] [[aishwaryanr-awesome-generative-ai-guide]] [[tw93-pake]] [[garrytan-gstack]]
+[[revfactory-harness]] [[affaan-m-ecc]] [[trycua-cua]] [[heygen-com-hyperframes]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

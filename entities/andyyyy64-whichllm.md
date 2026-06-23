@@ -34,7 +34,7 @@ Find the local LLM that actually runs and performs best on your hardware. Ranked
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[lyogavin-airllm]] [[tw93-pake]] [[garrytan-gstack]] [[chopratejas-headroom]]
+[[affaan-m-ecc]] [[tw93-pake]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

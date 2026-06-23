@@ -35,7 +35,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[stirling-tools-stirling-pdf]] [[itsfatduck-optimizerduck]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[garrytan-gstack]] [[nvidia-skillspector]]
+[[koala73-worldmonitor]] [[affaan-m-ecc]] [[garrytan-gstack]] [[jcodesmore-ai-website-cloner-template]] [[jamiepine-voicebox]]
 
 **所属领域**: [[security]]
 

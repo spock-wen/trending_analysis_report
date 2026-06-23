@@ -33,5 +33,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[garrytan-gstack]] [[heygen-com-hyperframes]]
+[[koala73-worldmonitor]] [[garrytan-gstack]] [[jcodesmore-ai-website-cloner-template]] [[jamiepine-voicebox]]
 

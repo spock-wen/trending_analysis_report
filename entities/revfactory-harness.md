@@ -1,19 +1,19 @@
 ---
 title: "revfactory/harness"
 created: 2026-05-29
-updated: 2026-06-02
+updated: 2026-06-24
 type: tool
-tags: [ai-agent, web, rising]
-sources: [raw/trending/2026-06-02.json]
+tags: [ai-agent, web]
+sources: [raw/trending/2026-06-24.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 3
+consecutive_days: 1
 first_trending: 2026-05-29
-last_trending: 2026-06-02
+last_trending: 2026-06-24
 peak_rank: 5
-total_stars: 5117
+total_stars: 7427
 language: "HTML"
 ---
 
@@ -22,13 +22,14 @@ language: "HTML"
 A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 
 - 语言: HTML
-- 上榜次数: 4 次
-- 连续上榜: 3 天
+- 上榜次数: 5 次
+- 连续上榜: 1 天
 - 最高排名: #5
 - 链接: [revfactory/harness](https://github.com/revfactory/harness)
 
 ## 上榜历史
 
+  - 2026-06-24: #10, +123⭐
   - 2026-06-02: #10, +527⭐
   - 2026-06-01: #8, +318⭐
   - 2026-05-31: #5, +80⭐
@@ -36,7 +37,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[mukul975-anthropic-cybersecurity-skills]] [[aishwaryanr-awesome-generative-ai-guide]] [[tw93-pake]] [[garrytan-gstack]]
+[[affaan-m-ecc]] [[trycua-cua]] [[heygen-com-hyperframes]] [[anthropics-claude-plugins-official]] [[aishwaryanr-awesome-generative-ai-guide]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

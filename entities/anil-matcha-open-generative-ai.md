@@ -33,7 +33,7 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[lyogavin-airllm]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[openai-plugins]] [[garrytan-gstack]]
+[[affaan-m-ecc]] [[paddlepaddle-paddleocr]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -34,7 +34,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[bytedance-deer-flow]] [[lyogavin-airllm]] [[aishwaryanr-awesome-generative-ai-guide]] [[universal-debloater-alliance-universal-android-debloater-next-generation]]
+[[bytedance-deer-flow]] [[affaan-m-ecc]] [[paddlepaddle-paddleocr]] [[google-research-timesfm]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

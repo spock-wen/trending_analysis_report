@@ -34,7 +34,7 @@ What are the principles we can use to build LLM-powered software that is actuall
 
 ## 相关项目
 
-[[stirling-tools-stirling-pdf]] [[lyogavin-airllm]] [[garrytan-gstack]] [[jamiepine-voicebox]] [[mukul975-anthropic-cybersecurity-skills]]
+[[koala73-worldmonitor]] [[affaan-m-ecc]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[jcodesmore-ai-website-cloner-template]]
 
 **所属领域**: [[ai-agent]]
 

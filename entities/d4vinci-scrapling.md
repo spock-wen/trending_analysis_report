@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[tw93-pake]] [[chopratejas-headroom]] [[calesthio-openmontage]] [[mukul975-anthropic-cybersecurity-skills]]
+[[revfactory-harness]] [[heygen-com-hyperframes]] [[anthropics-claude-plugins-official]] [[calesthio-openmontage]] [[jcodesmore-ai-website-cloner-template]]
 
 **所属领域**: [[web]]
 

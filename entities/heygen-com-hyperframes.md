@@ -33,7 +33,7 @@ Write HTML. Render video. Built for agents.
 
 ## 相关项目
 
-[[stirling-tools-stirling-pdf]] [[lyogavin-airllm]] [[tw93-pake]] [[garrytan-gstack]] [[jamiepine-voicebox]]
+[[koala73-worldmonitor]] [[revfactory-harness]] [[affaan-m-ecc]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

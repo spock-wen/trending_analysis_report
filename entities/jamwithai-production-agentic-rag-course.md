@@ -33,7 +33,7 @@ No description
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[freecodecamp-freecodecamp]] [[lyogavin-airllm]] [[garrytan-gstack]] [[rohitg00-ai-engineering-from-scratch]]
+[[rohitg00-ai-engineering-from-scratch]] [[byoungd-english-level-up-tips]] [[freecodecamp-freecodecamp]] [[affaan-m-ecc]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -33,5 +33,5 @@ Free and Open Source Machine Translation API. Self-hosted, offline capable and e
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[chopratejas-headroom]] [[bytedance-deer-flow]] [[calesthio-openmontage]]
+[[nousresearch-hermes-agent]] [[mukul975-anthropic-cybersecurity-skills]] [[calesthio-openmontage]] [[anthropics-claude-plugins-official]]
 

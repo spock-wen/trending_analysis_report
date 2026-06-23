@@ -33,7 +33,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[1jehuang-jcode]] [[n0-computer-iroh]] [[tw93-pake]] [[garrytan-gstack]]
+[[affaan-m-ecc]] [[1jehuang-jcode]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[tursodatabase-turso]]
 
 **所属领域**: [[ai-agent]]
 

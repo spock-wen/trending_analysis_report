@@ -37,5 +37,5 @@ Python tool for converting files and office documents to Markdown.
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[chopratejas-headroom]] [[bytedance-deer-flow]] [[calesthio-openmontage]]
+[[nousresearch-hermes-agent]] [[mukul975-anthropic-cybersecurity-skills]] [[calesthio-openmontage]] [[anthropics-claude-plugins-official]]
 

@@ -34,7 +34,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[opendataloader-project-opendataloader-pdf]] [[garrytan-gstack]] [[krahets-hello-algo]] [[mukul975-anthropic-cybersecurity-skills]]
+[[affaan-m-ecc]] [[anthropics-claude-plugins-official]] [[opendataloader-project-opendataloader-pdf]] [[garrytan-gstack]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[ai-agent]]
 

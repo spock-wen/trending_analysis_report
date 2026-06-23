@@ -35,7 +35,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[stirling-tools-stirling-pdf]] [[tw93-pake]] [[garrytan-gstack]] [[jamiepine-voicebox]] [[mukul975-anthropic-cybersecurity-skills]]
+[[koala73-worldmonitor]] [[revfactory-harness]] [[heygen-com-hyperframes]] [[tw93-pake]] [[garrytan-gstack]]
 
 **所属领域**: [[web]] [[cli]]
 

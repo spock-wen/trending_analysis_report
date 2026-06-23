@@ -36,7 +36,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[bytedance-deer-flow]] [[lyogavin-airllm]] [[garrytan-gstack]] [[music-assistant-server]]
+[[affaan-m-ecc]] [[music-assistant-server]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

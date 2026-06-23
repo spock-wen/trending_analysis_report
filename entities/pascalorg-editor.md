@@ -33,5 +33,5 @@ Create and share 3D architectural projects.
 
 ## 相关项目
 
-[[stirling-tools-stirling-pdf]] [[jamiepine-voicebox]] [[garrytan-gstack]] [[heygen-com-hyperframes]]
+[[koala73-worldmonitor]] [[garrytan-gstack]] [[jcodesmore-ai-website-cloner-template]] [[jamiepine-voicebox]]
 

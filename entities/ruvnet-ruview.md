@@ -37,5 +37,5 @@ language: "Rust"
 
 ## 相关项目
 
-[[trycua-cua]] [[1jehuang-jcode]] [[n0-computer-iroh]] [[koala73-worldmonitor]] [[tw93-pake]]
+[[koala73-worldmonitor]] [[trycua-cua]] [[1jehuang-jcode]] [[tursodatabase-turso]] [[n0-computer-iroh]]
 

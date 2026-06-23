@@ -33,7 +33,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[lyogavin-airllm]] [[tw93-pake]] [[garrytan-gstack]] [[chopratejas-headroom]]
+[[revfactory-harness]] [[affaan-m-ecc]] [[heygen-com-hyperframes]] [[tw93-pake]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

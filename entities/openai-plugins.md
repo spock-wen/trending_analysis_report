@@ -37,7 +37,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[garrytan-gstack]] [[pbakaus-impeccable]] [[affaan-m-ecc]] [[mukul975-anthropic-cybersecurity-skills]]
+[[affaan-m-ecc]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[pbakaus-impeccable]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]]
 

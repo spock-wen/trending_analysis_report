@@ -33,7 +33,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[1jehuang-jcode]] [[n0-computer-iroh]] [[tw93-pake]] [[garrytan-gstack]]
+[[affaan-m-ecc]] [[1jehuang-jcode]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[tursodatabase-turso]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

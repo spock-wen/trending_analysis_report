@@ -36,7 +36,7 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[lyogavin-airllm]] [[aishwaryanr-awesome-generative-ai-guide]] [[garrytan-gstack]] [[chopratejas-headroom]]
+[[bytedance-deer-flow]] [[affaan-m-ecc]] [[google-research-timesfm]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[bytedance-deer-flow]] [[lyogavin-airllm]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[garrytan-gstack]]
+[[affaan-m-ecc]] [[paddlepaddle-paddleocr]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -1,19 +1,19 @@
 ---
 title: "NousResearch/hermes-agent"
 created: 2026-06-04
-updated: 2026-06-08
+updated: 2026-06-24
 type: tool
 tags: [python, ai-agent, science]
-sources: [raw/trending/2026-06-08.json]
+sources: [raw/trending/2026-06-24.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-04
-last_trending: 2026-06-08
+last_trending: 2026-06-24
 peak_rank: 2
-total_stars: 185856
+total_stars: 200884
 language: "Python"
 ---
 
@@ -22,13 +22,14 @@ language: "Python"
 The agent that grows with you
 
 - 语言: Python
-- 上榜次数: 4 次
+- 上榜次数: 5 次
 - 连续上榜: 1 天
 - 最高排名: #2
 - 链接: [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 
 ## 上榜历史
 
+  - 2026-06-24: #15, +933⭐
   - 2026-06-08: #4, +1117⭐
   - 2026-06-06: #2, +1821⭐
   - 2026-06-05: #2, +1951⭐
@@ -36,7 +37,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[lyogavin-airllm]] [[aishwaryanr-awesome-generative-ai-guide]] [[garrytan-gstack]] [[chopratejas-headroom]]
+[[bytedance-deer-flow]] [[affaan-m-ecc]] [[google-research-timesfm]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

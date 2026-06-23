@@ -36,7 +36,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[itsfatduck-optimizerduck]] [[masterking32-masterdnsvpn]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[garrytan-gstack]]
+[[affaan-m-ecc]] [[kenn-io-agentsview]] [[anthropics-claude-plugins-official]] [[masterking32-masterdnsvpn]] [[restic-restic]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

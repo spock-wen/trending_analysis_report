@@ -37,7 +37,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[freecodecamp-freecodecamp]] [[stirling-tools-stirling-pdf]] [[lyogavin-airllm]] [[tw93-pake]] [[garrytan-gstack]]
+[[koala73-worldmonitor]] [[rohitg00-ai-engineering-from-scratch]] [[byoungd-english-level-up-tips]] [[freecodecamp-freecodecamp]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

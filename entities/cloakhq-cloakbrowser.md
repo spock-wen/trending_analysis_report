@@ -34,7 +34,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[itsfatduck-optimizerduck]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[tw93-pake]]
+[[revfactory-harness]] [[affaan-m-ecc]] [[heygen-com-hyperframes]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

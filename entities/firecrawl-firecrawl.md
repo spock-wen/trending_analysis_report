@@ -33,7 +33,7 @@ The API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[stirling-tools-stirling-pdf]] [[tw93-pake]] [[garrytan-gstack]] [[jamiepine-voicebox]] [[heygen-com-hyperframes]]
+[[koala73-worldmonitor]] [[revfactory-harness]] [[heygen-com-hyperframes]] [[garrytan-gstack]] [[jcodesmore-ai-website-cloner-template]]
 
 **所属领域**: [[web]]
 

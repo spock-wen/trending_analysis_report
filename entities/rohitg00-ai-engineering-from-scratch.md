@@ -37,7 +37,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[freecodecamp-freecodecamp]] [[lyogavin-airllm]] [[garrytan-gstack]] [[byoungd-english-level-up-tips]]
+[[byoungd-english-level-up-tips]] [[freecodecamp-freecodecamp]] [[affaan-m-ecc]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

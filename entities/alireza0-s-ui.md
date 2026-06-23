@@ -33,7 +33,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[masterking32-masterdnsvpn]] [[tw93-pake]] [[restic-restic]] [[kenn-io-agentsview]] [[aquasecurity-trivy]]
+[[aquasecurity-trivy]] [[revfactory-harness]] [[heygen-com-hyperframes]] [[kenn-io-agentsview]] [[masterking32-masterdnsvpn]]
 
 **所属领域**: [[web]]
 

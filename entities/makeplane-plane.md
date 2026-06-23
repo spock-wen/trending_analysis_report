@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[stirling-tools-stirling-pdf]] [[tw93-pake]] [[garrytan-gstack]] [[jamiepine-voicebox]] [[mukul975-anthropic-cybersecurity-skills]]
+[[koala73-worldmonitor]] [[tw93-pake]] [[garrytan-gstack]] [[jcodesmore-ai-website-cloner-template]] [[jamiepine-voicebox]]
 
 **所属领域**: [[cli]]
 

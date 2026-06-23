@@ -33,7 +33,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[bytedance-deer-flow]] [[lyogavin-airllm]] [[garrytan-gstack]] [[music-assistant-server]]
+[[affaan-m-ecc]] [[music-assistant-server]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -37,7 +37,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[tw93-pake]] [[garrytan-gstack]] [[addyosmani-agent-skills]] [[mukul975-anthropic-cybersecurity-skills]]
+[[revfactory-harness]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[heygen-com-hyperframes]] [[tw93-pake]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

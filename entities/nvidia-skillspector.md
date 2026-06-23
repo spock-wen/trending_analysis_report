@@ -36,7 +36,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[lyogavin-airllm]] [[itsfatduck-optimizerduck]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[garrytan-gstack]]
+[[affaan-m-ecc]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[calesthio-openmontage]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

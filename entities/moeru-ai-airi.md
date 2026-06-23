@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[stirling-tools-stirling-pdf]] [[lyogavin-airllm]] [[tw93-pake]] [[garrytan-gstack]]
+[[koala73-worldmonitor]] [[revfactory-harness]] [[affaan-m-ecc]] [[heygen-com-hyperframes]] [[music-assistant-server]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

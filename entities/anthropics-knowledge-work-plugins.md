@@ -37,7 +37,7 @@ Open source repository of plugins primarily intended for knowledge workers to us
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[lyogavin-airllm]] [[garrytan-gstack]] [[chopratejas-headroom]] [[calesthio-openmontage]]
+[[affaan-m-ecc]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[calesthio-openmontage]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]]
 

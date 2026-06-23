@@ -33,7 +33,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[trycua-cua]] [[stirling-tools-stirling-pdf]] [[lyogavin-airllm]] [[ruvnet-ruview]] [[koala73-worldmonitor]]
+[[koala73-worldmonitor]] [[affaan-m-ecc]] [[trycua-cua]] [[anthropics-claude-plugins-official]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]]
 

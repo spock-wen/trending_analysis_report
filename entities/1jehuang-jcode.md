@@ -33,7 +33,7 @@ Coding Agent Harness
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[n0-computer-iroh]] [[tw93-pake]] [[garrytan-gstack]] [[mukul975-anthropic-cybersecurity-skills]]
+[[affaan-m-ecc]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[tursodatabase-turso]] [[n0-computer-iroh]]
 
 **所属领域**: [[ai-agent]]
 

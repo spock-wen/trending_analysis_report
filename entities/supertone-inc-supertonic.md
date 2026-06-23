@@ -35,7 +35,7 @@ Lightning-Fast, On-Device, Multilingual TTS running natively via ONNX.
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[music-assistant-server]] [[manaflow-ai-cmux]] [[jamiepine-voicebox]] [[lightricks-ltx-2]]
+[[palmier-io-palmier-pro]] [[manaflow-ai-cmux]] [[music-assistant-server]] [[openbmb-voxcpm]] [[apple-container]]
 
 **所属领域**: [[audio]]
 

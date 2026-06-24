@@ -33,7 +33,7 @@ Shannon Lite is an autonomous, white-box AI pentester for web applications and A
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[revfactory-harness]] [[affaan-m-ecc]] [[heygen-com-hyperframes]] [[anthropics-claude-plugins-official]]
+[[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[heygen-com-hyperframes]] [[stablyai-orca]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

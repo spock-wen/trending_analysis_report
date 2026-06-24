@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[byoungd-english-level-up-tips]] [[freecodecamp-freecodecamp]] [[affaan-m-ecc]] [[stefan-jansen-machine-learning-for-trading]]
+[[nvidia-cosmos]] [[freecodecamp-freecodecamp]] [[owainlewis-awesome-artificial-intelligence]] [[byoungd-english-level-up-tips]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

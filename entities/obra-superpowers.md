@@ -37,7 +37,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[tw93-pake]] [[anthropics-claude-plugins-official]]
+[[msitarzewski-agency-agents]] [[tw93-pake]] [[nousresearch-hermes-agent]] [[odoo-odoo]] [[x1xhlol-system-prompts-and-models-of-ai-tools]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

@@ -33,7 +33,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[affaan-m-ecc]] [[trycua-cua]] [[anthropics-claude-plugins-official]] [[ruvnet-ruview]]
+[[trycua-cua]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[stablyai-orca]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]]
 

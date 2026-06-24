@@ -34,7 +34,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[aquasecurity-trivy]] [[deusdata-codebase-memory-mcp]] [[affaan-m-ecc]] [[anthropics-claude-plugins-official]] [[masterking32-masterdnsvpn]]
+[[restic-restic]] [[masterking32-masterdnsvpn]] [[alibaba-zvec]] [[nousresearch-hermes-agent]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

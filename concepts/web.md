@@ -1,7 +1,7 @@
 ---
 title: "web"
 created: 2026-05-20
-updated: 2026-06-24
+updated: 2026-06-25
 type: concept
 tags: [web]
 confidence: medium
@@ -9,7 +9,7 @@ confidence: medium
 
 # web
 
-## 领域项目（共 34 个，今日上榜 3 个）
+## 领域项目（共 34 个，今日上榜 2 个）
 
 [[revfactory-harness]] [[jcodesmore-ai-website-cloner-template]] [[shanraisshan-claude-code-best-practice]] [[heygen-com-hyperframes]] [[firecrawl-firecrawl]] [[tw93-pake]] [[kong-insomnia]] [[pppscn-smsforwarder]] [[aishwaryanr-awesome-generative-ai-guide]] [[dotnet-aspnetcore]] [[swc-project-swc]] [[cypress-io-cypress]] [[puppeteer-puppeteer]] [[trycua-cua]] [[mikeroyal-self-hosting-guide]] [[msitarzewski-agency-agents]] [[mvanhorn-last30days-skill]] [[copilotkit-copilotkit]] [[d4vinci-scrapling]] [[nesquena-hermes-webui]] [[can1357-oh-my-pi]] [[digitalplatdev-freedomain]] [[unclecode-crawl4ai]] [[moeru-ai-airi]] [[earendil-works-pi]] [[chromedevtools-chrome-devtools-mcp]] [[trimstray-the-book-of-secret-knowledge]] [[hkuds-cli-anything]] [[teng-lin-notebooklm-py]] [[alireza0-s-ui]] [[cloakhq-cloakbrowser]] [[diolinux-photogimp]] [[plausible-analytics]] [[keygraphhq-shannon]]
 
@@ -19,5 +19,5 @@ TypeScript 12个, Python 7个, HTML 5个, Rust 2个, Kotlin 1个, C# 1个, Docke
 
 ## 趋势观察
 
-34 个 web 领域项目被追踪，其中 3 个今日同时上榜，反映该领域持续活跃。
+34 个 web 领域项目被追踪，其中 2 个今日同时上榜，反映该领域持续活跃。
 

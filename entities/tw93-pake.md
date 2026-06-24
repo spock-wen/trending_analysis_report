@@ -34,7 +34,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[revfactory-harness]] [[1jehuang-jcode]] [[heygen-com-hyperframes]] [[tursodatabase-turso]] [[n0-computer-iroh]]
+[[heygen-com-hyperframes]] [[1jehuang-jcode]] [[mattpocock-skills]] [[tursodatabase-turso]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

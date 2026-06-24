@@ -33,7 +33,7 @@ ASP.NET Core is a cross-platform .NET framework for building modern cloud-based 
 
 ## 相关项目
 
-[[revfactory-harness]] [[heygen-com-hyperframes]] [[itsfatduck-optimizerduck]] [[openclaw-openclaw-windows-node]] [[jcodesmore-ai-website-cloner-template]]
+[[jellyfin-jellyfin]] [[heygen-com-hyperframes]] [[itsfatduck-optimizerduck]] [[openclaw-openclaw-windows-node]] [[shanraisshan-claude-code-best-practice]]
 
 **所属领域**: [[web]]
 

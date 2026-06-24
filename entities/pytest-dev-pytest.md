@@ -33,5 +33,5 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[mukul975-anthropic-cybersecurity-skills]] [[calesthio-openmontage]] [[anthropics-claude-plugins-official]]
+[[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[anthropics-claude-plugins-official]] [[calesthio-openmontage]]
 

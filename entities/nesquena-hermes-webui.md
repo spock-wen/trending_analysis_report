@@ -36,7 +36,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[revfactory-harness]] [[affaan-m-ecc]] [[heygen-com-hyperframes]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]]
+[[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[heygen-com-hyperframes]] [[shanraisshan-claude-code-best-practice]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

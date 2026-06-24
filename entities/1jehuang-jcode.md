@@ -33,7 +33,7 @@ Coding Agent Harness
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[tursodatabase-turso]] [[n0-computer-iroh]]
+[[tw93-pake]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[tursodatabase-turso]] [[n0-computer-iroh]]
 
 **所属领域**: [[ai-agent]]
 

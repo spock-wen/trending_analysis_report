@@ -37,7 +37,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tw93-pake]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[jcodesmore-ai-website-cloner-template]]
+[[tw93-pake]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[mattpocock-skills]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

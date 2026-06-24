@@ -37,7 +37,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[revfactory-harness]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[heygen-com-hyperframes]] [[tw93-pake]]
+[[obra-superpowers]] [[tw93-pake]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

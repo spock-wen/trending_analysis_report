@@ -37,7 +37,7 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[anthropics-claude-plugins-official]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
+[[msitarzewski-agency-agents]] [[obra-superpowers]] [[tw93-pake]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

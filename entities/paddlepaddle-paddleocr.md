@@ -35,7 +35,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[affaan-m-ecc]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[tursodatabase-turso]]
+[[interviewstreet-hiring-agent]] [[alibaba-zvec]] [[nousresearch-hermes-agent]] [[deusdata-codebase-memory-mcp]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

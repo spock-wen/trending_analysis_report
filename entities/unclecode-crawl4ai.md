@@ -33,7 +33,7 @@ language: "Python"
 
 ## 相关项目
 
-[[revfactory-harness]] [[affaan-m-ecc]] [[heygen-com-hyperframes]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]]
+[[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[heygen-com-hyperframes]] [[shanraisshan-claude-code-best-practice]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

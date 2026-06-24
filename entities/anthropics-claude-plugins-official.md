@@ -37,7 +37,7 @@ Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[garrytan-gstack]] [[calesthio-openmontage]] [[nousresearch-hermes-agent]] [[mukul975-anthropic-cybersecurity-skills]]
+[[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[revfactory-harness]] [[apple-container]]
 
 **所属领域**: [[ai-agent]]
 

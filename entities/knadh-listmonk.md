@@ -33,7 +33,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[aquasecurity-trivy]] [[affaan-m-ecc]] [[kenn-io-agentsview]] [[anthropics-claude-plugins-official]] [[masterking32-masterdnsvpn]]
+[[restic-restic]] [[masterking32-masterdnsvpn]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[kunchenguid-no-mistakes]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[1jehuang-jcode]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[tursodatabase-turso]]
+[[tw93-pake]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[1jehuang-jcode]] [[tursodatabase-turso]]
 
 **所属领域**: [[ai-agent]]
 

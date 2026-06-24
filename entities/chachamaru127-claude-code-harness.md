@@ -33,7 +33,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[tw93-pake]] [[anthropics-claude-plugins-official]] [[msitarzewski-agency-agents]]
+[[msitarzewski-agency-agents]] [[obra-superpowers]] [[tw93-pake]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

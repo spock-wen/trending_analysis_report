@@ -37,7 +37,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[microsoft-powertoys]] [[affaan-m-ecc]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[tursodatabase-turso]]
+[[microsoft-powertoys]] [[alibaba-zvec]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[tursodatabase-turso]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

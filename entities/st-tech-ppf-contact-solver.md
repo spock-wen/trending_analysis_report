@@ -33,7 +33,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[tw93-pake]] [[anthropics-claude-plugins-official]] [[calesthio-openmontage]] [[jcodesmore-ai-website-cloner-template]] [[nousresearch-hermes-agent]]
+[[tw93-pake]] [[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

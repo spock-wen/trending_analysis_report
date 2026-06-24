@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[revfactory-harness]] [[affaan-m-ecc]] [[heygen-com-hyperframes]] [[music-assistant-server]]
+[[nousresearch-hermes-agent]] [[openbmb-voxcpm]] [[calesthio-openmontage]] [[heygen-com-hyperframes]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

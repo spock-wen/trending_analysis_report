@@ -35,7 +35,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[affaan-m-ecc]] [[garrytan-gstack]] [[jcodesmore-ai-website-cloner-template]] [[jamiepine-voicebox]]
+[[stablyai-orca]] [[garrytan-gstack]] [[koala73-worldmonitor]] [[mukul975-anthropic-cybersecurity-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

@@ -37,7 +37,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[byoungd-english-level-up-tips]] [[freecodecamp-freecodecamp]] [[affaan-m-ecc]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]]
+[[freecodecamp-freecodecamp]] [[interviewstreet-hiring-agent]] [[owainlewis-awesome-artificial-intelligence]] [[byoungd-english-level-up-tips]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

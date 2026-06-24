@@ -33,7 +33,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[affaan-m-ecc]] [[anthropics-claude-plugins-official]] [[github-copilot-sdk]] [[garrytan-gstack]]
+[[github-copilot-sdk]] [[alibaba-zvec]] [[nousresearch-hermes-agent]] [[krahets-hello-algo]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

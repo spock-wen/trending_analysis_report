@@ -33,7 +33,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[revfactory-harness]] [[affaan-m-ecc]] [[trycua-cua]] [[heygen-com-hyperframes]] [[anthropics-claude-plugins-official]]
+[[trycua-cua]] [[aishwaryanr-awesome-generative-ai-guide]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

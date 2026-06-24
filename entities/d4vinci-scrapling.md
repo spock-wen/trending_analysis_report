@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[revfactory-harness]] [[heygen-com-hyperframes]] [[anthropics-claude-plugins-official]] [[calesthio-openmontage]] [[jcodesmore-ai-website-cloner-template]]
+[[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[heygen-com-hyperframes]] [[shanraisshan-claude-code-best-practice]]
 
 **所属领域**: [[web]]
 

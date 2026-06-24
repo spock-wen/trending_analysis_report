@@ -33,7 +33,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[mattpocock-skills]] [[jcodesmore-ai-website-cloner-template]] [[tw93-pake]] [[mukul975-anthropic-cybersecurity-skills]]
+[[tw93-pake]] [[mattpocock-skills]] [[mukul975-anthropic-cybersecurity-skills]] [[flutter-flutter]] [[jcodesmore-ai-website-cloner-template]]
 
 **所属领域**: [[cli]]
 

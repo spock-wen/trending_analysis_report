@@ -34,7 +34,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[revfactory-harness]] [[deusdata-codebase-memory-mcp]] [[affaan-m-ecc]] [[heygen-com-hyperframes]] [[alibaba-zvec]]
+[[nvidia-skillspector]] [[alibaba-zvec]] [[deusdata-codebase-memory-mcp]] [[heygen-com-hyperframes]] [[calesthio-openmontage]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

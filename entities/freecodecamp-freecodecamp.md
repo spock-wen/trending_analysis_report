@@ -37,7 +37,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[rohitg00-ai-engineering-from-scratch]] [[byoungd-english-level-up-tips]] [[garrytan-gstack]] [[jcodesmore-ai-website-cloner-template]]
+[[owainlewis-awesome-artificial-intelligence]] [[byoungd-english-level-up-tips]] [[stablyai-orca]] [[garrytan-gstack]] [[koala73-worldmonitor]]
 
 **所属领域**: [[education]]
 

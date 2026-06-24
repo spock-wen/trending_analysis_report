@@ -33,7 +33,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[revfactory-harness]] [[affaan-m-ecc]] [[heygen-com-hyperframes]] [[tw93-pake]] [[anthropics-claude-plugins-official]]
+[[tw93-pake]] [[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

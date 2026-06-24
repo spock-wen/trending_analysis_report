@@ -37,7 +37,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[revfactory-harness]] [[bytedance-deer-flow]] [[affaan-m-ecc]] [[heygen-com-hyperframes]] [[google-research-timesfm]]
+[[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[heygen-com-hyperframes]] [[google-research-timesfm]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

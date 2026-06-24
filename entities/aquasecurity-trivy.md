@@ -36,7 +36,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[kenn-io-agentsview]] [[anthropics-claude-plugins-official]] [[masterking32-masterdnsvpn]] [[restic-restic]]
+[[restic-restic]] [[masterking32-masterdnsvpn]] [[nvidia-skillspector]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

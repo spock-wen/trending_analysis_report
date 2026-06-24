@@ -1,19 +1,19 @@
 ---
 title: "revfactory/harness"
 created: 2026-05-29
-updated: 2026-06-24
+updated: 2026-06-25
 type: tool
 tags: [ai-agent, web]
-sources: [raw/trending/2026-06-24.json]
+sources: [raw/trending/2026-06-25.json]
 confidence: high
-trending_count_daily: 5
+trending_count_daily: 6
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-05-29
-last_trending: 2026-06-24
+last_trending: 2026-06-25
 peak_rank: 5
-total_stars: 7427
+total_stars: 7709
 language: "HTML"
 ---
 
@@ -22,22 +22,22 @@ language: "HTML"
 A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 
 - 语言: HTML
-- 上榜次数: 5 次
-- 连续上榜: 1 天
+- 上榜次数: 6 次
+- 连续上榜: 2 天
 - 最高排名: #5
 - 链接: [revfactory/harness](https://github.com/revfactory/harness)
 
 ## 上榜历史
 
+  - 2026-06-25: #6, +274⭐
   - 2026-06-24: #10, +123⭐
   - 2026-06-02: #10, +527⭐
   - 2026-06-01: #8, +318⭐
   - 2026-05-31: #5, +80⭐
-  - 2026-05-29: #10, +190⭐
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[trycua-cua]] [[heygen-com-hyperframes]] [[anthropics-claude-plugins-official]] [[aishwaryanr-awesome-generative-ai-guide]]
+[[trycua-cua]] [[aishwaryanr-awesome-generative-ai-guide]] [[nousresearch-hermes-agent]] [[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -35,7 +35,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[google-research-timesfm]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[calesthio-openmontage]]
+[[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[google-research-timesfm]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

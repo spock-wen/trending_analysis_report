@@ -33,5 +33,5 @@ Create and share 3D architectural projects.
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[garrytan-gstack]] [[jcodesmore-ai-website-cloner-template]] [[jamiepine-voicebox]]
+[[stablyai-orca]] [[garrytan-gstack]] [[koala73-worldmonitor]] [[jcodesmore-ai-website-cloner-template]]
 

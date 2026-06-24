@@ -33,7 +33,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[santifer-career-ops]] [[mukul975-anthropic-cybersecurity-skills]]
+[[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[affaan-m-ecc]] [[santifer-career-ops]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]]
 

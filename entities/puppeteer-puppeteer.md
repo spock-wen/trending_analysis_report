@@ -34,7 +34,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[revfactory-harness]] [[heygen-com-hyperframes]] [[garrytan-gstack]] [[jcodesmore-ai-website-cloner-template]]
+[[heygen-com-hyperframes]] [[stablyai-orca]] [[garrytan-gstack]] [[koala73-worldmonitor]] [[shanraisshan-claude-code-best-practice]]
 
 **所属领域**: [[web]]
 

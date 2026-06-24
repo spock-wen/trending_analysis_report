@@ -33,7 +33,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[revfactory-harness]] [[heygen-com-hyperframes]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[odoo-odoo]]
+[[obra-superpowers]] [[odoo-odoo]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[heygen-com-hyperframes]] [[shanraisshan-claude-code-best-practice]]
 
 **所属领域**: [[web]] [[erp]]
 

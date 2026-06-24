@@ -37,7 +37,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tw93-pake]] [[anthropics-claude-plugins-official]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
+[[msitarzewski-agency-agents]] [[obra-superpowers]] [[tw93-pake]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

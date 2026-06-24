@@ -33,7 +33,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[music-assistant-server]] [[paddlepaddle-paddleocr]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]]
+[[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[openbmb-voxcpm]] [[calesthio-openmontage]] [[universal-debloater-alliance-universal-android-debloater-next-generation]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

@@ -35,7 +35,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[trycua-cua]] [[anthropics-claude-plugins-official]] [[ruvnet-ruview]] [[garrytan-gstack]]
+[[trycua-cua]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[bytedance-ui-tars-desktop]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]]
 

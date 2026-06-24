@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[tw93-pake]] [[garrytan-gstack]] [[jcodesmore-ai-website-cloner-template]] [[jamiepine-voicebox]]
+[[tw93-pake]] [[stablyai-orca]] [[garrytan-gstack]] [[koala73-worldmonitor]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[cli]]
 

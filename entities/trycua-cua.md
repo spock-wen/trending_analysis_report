@@ -33,7 +33,7 @@ Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[revfactory-harness]] [[affaan-m-ecc]] [[heygen-com-hyperframes]] [[anthropics-claude-plugins-official]]
+[[aishwaryanr-awesome-generative-ai-guide]] [[nousresearch-hermes-agent]] [[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

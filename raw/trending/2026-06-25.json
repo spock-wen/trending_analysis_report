@@ -1,0 +1,107 @@
+{
+  "date": "2026-06-25",
+  "scraped_at": "2026-06-25T07:02:19.801681",
+  "period": "daily",
+  "count": 11,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars_today": 3703,
+      "total_stars": 19196,
+      "url": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+      "rank": 3,
+      "repo": "apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars_today": 1746,
+      "total_stars": 42148,
+      "url": "https://github.com/apple/container"
+    },
+    {
+      "rank": 4,
+      "repo": "interviewstreet/hiring-agent",
+      "description": "AI agent to evaluate and score resumes.",
+      "language": "Python",
+      "stars_today": 152,
+      "total_stars": 2112,
+      "url": "https://github.com/interviewstreet/hiring-agent"
+    },
+    {
+      "rank": 5,
+      "repo": "JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "language": "TypeScript",
+      "stars_today": 693,
+      "total_stars": 19258,
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template"
+    },
+    {
+      "rank": 6,
+      "repo": "revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars_today": 274,
+      "total_stars": 7709,
+      "url": "https://github.com/revfactory/harness"
+    },
+    {
+      "rank": 7,
+      "repo": "flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "stars_today": 200,
+      "total_stars": 177292,
+      "url": "https://github.com/flutter/flutter"
+    },
+    {
+      "rank": 8,
+      "repo": "andreknieriem/headunit-revived",
+      "description": "Headunit App for displaying Android Auto",
+      "language": "Kotlin",
+      "stars_today": 62,
+      "total_stars": 1407,
+      "url": "https://github.com/andreknieriem/headunit-revived"
+    },
+    {
+      "rank": 9,
+      "repo": "stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "language": "TypeScript",
+      "stars_today": 387,
+      "total_stars": 6735,
+      "url": "https://github.com/stablyai/orca"
+    },
+    {
+      "rank": 11,
+      "repo": "Flowseal/zapret-discord-youtube",
+      "description": "",
+      "language": "Batchfile",
+      "stars_today": 103,
+      "total_stars": 30023,
+      "url": "https://github.com/Flowseal/zapret-discord-youtube"
+    },
+    {
+      "rank": 12,
+      "repo": "kunchenguid/no-mistakes",
+      "description": "git push no-mistakes",
+      "language": "Go",
+      "stars_today": 182,
+      "total_stars": 2005,
+      "url": "https://github.com/kunchenguid/no-mistakes"
+    },
+    {
+      "rank": 13,
+      "repo": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars_today": 1174,
+      "total_stars": 202009,
+      "url": "https://github.com/NousResearch/hermes-agent"
+    }
+  ]
+}

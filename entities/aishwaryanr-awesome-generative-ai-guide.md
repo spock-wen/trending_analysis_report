@@ -33,7 +33,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[revfactory-harness]] [[bytedance-deer-flow]] [[affaan-m-ecc]] [[trycua-cua]] [[heygen-com-hyperframes]]
+[[trycua-cua]] [[nousresearch-hermes-agent]] [[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

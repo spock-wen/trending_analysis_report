@@ -33,7 +33,7 @@ Write HTML. Render video. Built for agents.
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[revfactory-harness]] [[affaan-m-ecc]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]]
+[[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[stablyai-orca]] [[garrytan-gstack]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

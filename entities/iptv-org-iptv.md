@@ -37,7 +37,7 @@ Collection of publicly available IPTV channels from all over the world
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[affaan-m-ecc]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[jcodesmore-ai-website-cloner-template]]
+[[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[stablyai-orca]] [[garrytan-gstack]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]]
 

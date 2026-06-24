@@ -34,7 +34,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[aquasecurity-trivy]] [[deusdata-codebase-memory-mcp]] [[affaan-m-ecc]] [[kenn-io-agentsview]] [[anthropics-claude-plugins-official]]
+[[restic-restic]] [[masterking32-masterdnsvpn]] [[alibaba-zvec]] [[nousresearch-hermes-agent]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

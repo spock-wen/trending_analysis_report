@@ -33,7 +33,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[music-assistant-server]] [[tw93-pake]] [[anthropics-claude-plugins-official]] [[openbmb-voxcpm]] [[calesthio-openmontage]]
+[[music-assistant-server]] [[tw93-pake]] [[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[openbmb-voxcpm]]
 
 **所属领域**: [[cli]] [[audio]]
 

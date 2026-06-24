@@ -36,7 +36,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[music-assistant-server]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[openbmb-voxcpm]]
+[[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[openbmb-voxcpm]] [[calesthio-openmontage]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -35,7 +35,7 @@ The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, an
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[revfactory-harness]] [[affaan-m-ecc]] [[heygen-com-hyperframes]] [[anthropics-claude-plugins-official]]
+[[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[heygen-com-hyperframes]] [[stablyai-orca]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -35,7 +35,7 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[affaan-m-ecc]] [[anthropics-claude-plugins-official]] [[jcodesmore-ai-website-cloner-template]] [[jamiepine-voicebox]]
+[[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[stablyai-orca]] [[koala73-worldmonitor]] [[revfactory-harness]]
 
 **所属领域**: [[ai-agent]]
 

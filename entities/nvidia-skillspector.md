@@ -36,7 +36,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[calesthio-openmontage]] [[nousresearch-hermes-agent]]
+[[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

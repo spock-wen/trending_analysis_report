@@ -35,7 +35,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[music-assistant-server]] [[tw93-pake]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]]
+[[music-assistant-server]] [[tw93-pake]] [[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

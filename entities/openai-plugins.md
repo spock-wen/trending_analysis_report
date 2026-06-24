@@ -37,7 +37,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[pbakaus-impeccable]] [[santifer-career-ops]]
+[[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[affaan-m-ecc]] [[pbakaus-impeccable]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]]
 

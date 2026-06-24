@@ -35,5 +35,5 @@ We write your reusable computer vision tools. 💜
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[mukul975-anthropic-cybersecurity-skills]] [[calesthio-openmontage]] [[anthropics-claude-plugins-official]]
+[[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[anthropics-claude-plugins-official]] [[calesthio-openmontage]]
 

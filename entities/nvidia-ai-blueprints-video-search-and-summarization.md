@@ -34,7 +34,7 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[affaan-m-ecc]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[tursodatabase-turso]]
+[[interviewstreet-hiring-agent]] [[alibaba-zvec]] [[nousresearch-hermes-agent]] [[deusdata-codebase-memory-mcp]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -36,7 +36,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[revfactory-harness]] [[affaan-m-ecc]] [[trycua-cua]] [[heygen-com-hyperframes]] [[anthropics-claude-plugins-official]]
+[[trycua-cua]] [[aishwaryanr-awesome-generative-ai-guide]] [[nousresearch-hermes-agent]] [[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

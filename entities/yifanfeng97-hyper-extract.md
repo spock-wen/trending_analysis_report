@@ -33,7 +33,7 @@ Transform unstructured text into structured knowledge with LLMs. Graphs, hypergr
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tw93-pake]] [[anthropics-claude-plugins-official]] [[garrytan-gstack]] [[calesthio-openmontage]]
+[[tw93-pake]] [[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

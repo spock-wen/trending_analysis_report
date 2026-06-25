@@ -34,7 +34,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[opendataloader-project-opendataloader-pdf]] [[krahets-hello-algo]] [[calesthio-openmontage]] [[revfactory-harness]]
+[[calesthio-openmontage]] [[garrytan-gstack]] [[apple-container]] [[opendataloader-project-opendataloader-pdf]] [[krahets-hello-algo]]
 
 **所属领域**: [[ai-agent]]
 

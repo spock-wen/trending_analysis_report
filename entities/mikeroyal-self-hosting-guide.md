@@ -33,7 +33,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[freecodecamp-freecodecamp]] [[owainlewis-awesome-artificial-intelligence]] [[byoungd-english-level-up-tips]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]]
+[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[shanraisshan-claude-code-best-practice]] [[garrytan-gstack]] [[owainlewis-awesome-artificial-intelligence]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

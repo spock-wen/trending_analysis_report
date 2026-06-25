@@ -33,7 +33,7 @@ AI agent to evaluate and score resumes.
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[revfactory-harness]] [[anthropics-claude-plugins-official]] [[apple-container]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]] [[apple-container]] [[free-tv-iptv]]
 
 **所属领域**: [[ai-agent]]
 

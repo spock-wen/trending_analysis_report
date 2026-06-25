@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[openbmb-voxcpm]] [[calesthio-openmontage]] [[universal-debloater-alliance-universal-android-debloater-next-generation]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[apple-container]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

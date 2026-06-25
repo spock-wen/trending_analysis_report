@@ -35,7 +35,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[stablyai-orca]] [[garrytan-gstack]] [[koala73-worldmonitor]] [[mukul975-anthropic-cybersecurity-skills]] [[affaan-m-ecc]]
+[[jcodesmore-ai-website-cloner-template]] [[nvidia-skillspector]] [[every-app-open-seo]] [[garrytan-gstack]] [[universal-debloater-alliance-universal-android-debloater-next-generation]]
 
 **所属领域**: [[security]]
 

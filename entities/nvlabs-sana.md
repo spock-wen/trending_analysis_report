@@ -33,7 +33,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[openbmb-voxcpm]] [[calesthio-openmontage]] [[universal-debloater-alliance-universal-android-debloater-next-generation]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[santifer-career-ops]] [[openbmb-voxcpm]]
 
 **所属领域**: [[image-gen]]
 

@@ -37,7 +37,7 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[tw93-pake]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[1jehuang-jcode]] [[tursodatabase-turso]]
+[[calesthio-openmontage]] [[garrytan-gstack]] [[tursodatabase-turso]] [[apple-container]] [[n0-computer-iroh]]
 
 **所属领域**: [[ai-agent]]
 

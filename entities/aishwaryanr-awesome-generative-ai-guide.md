@@ -33,7 +33,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[trycua-cua]] [[nousresearch-hermes-agent]] [[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[heygen-com-hyperframes]]
+[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[xbtlin-ai-berkshire]] [[shanraisshan-claude-code-best-practice]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

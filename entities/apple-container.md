@@ -1,19 +1,19 @@
 ---
 title: "apple/container"
 created: 2026-06-11
-updated: 2026-06-25
+updated: 2026-06-26
 type: tool
 tags: [ai-agent]
-sources: [raw/trending/2026-06-25.json]
+sources: [raw/trending/2026-06-26.json]
 confidence: high
-trending_count_daily: 5
+trending_count_daily: 6
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-06-11
-last_trending: 2026-06-25
+last_trending: 2026-06-26
 peak_rank: 1
-total_stars: 42148
+total_stars: 43176
 language: "Swift"
 ---
 
@@ -22,22 +22,22 @@ language: "Swift"
 A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 
 - 语言: Swift
-- 上榜次数: 5 次
-- 连续上榜: 1 天
+- 上榜次数: 6 次
+- 连续上榜: 2 天
 - 最高排名: #1
 - 链接: [apple/container](https://github.com/apple/container)
 
 ## 上榜历史
 
+  - 2026-06-26: #5, +1366⭐
   - 2026-06-25: #3, +1746⭐
   - 2026-06-14: #5, +1471⭐
   - 2026-06-13: #4, +3513⭐
   - 2026-06-12: #1, +2419⭐
-  - 2026-06-11: #17, +1358⭐
 
 ## 相关项目
 
-[[palmier-io-palmier-pro]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[supertone-inc-supertonic]] [[revfactory-harness]]
+[[calesthio-openmontage]] [[garrytan-gstack]] [[supertone-inc-supertonic]] [[palmier-io-palmier-pro]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[tw93-pake]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[heygen-com-hyperframes]] [[stablyai-orca]]
+[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[every-app-open-seo]] [[shanraisshan-claude-code-best-practice]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

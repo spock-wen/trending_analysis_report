@@ -35,7 +35,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[openbmb-voxcpm]] [[calesthio-openmontage]] [[stablyai-orca]] [[garrytan-gstack]]
+[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[every-app-open-seo]] [[garrytan-gstack]] [[apple-container]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

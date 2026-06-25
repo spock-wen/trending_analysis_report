@@ -33,7 +33,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[trycua-cua]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[stablyai-orca]] [[garrytan-gstack]]
+[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[every-app-open-seo]] [[garrytan-gstack]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[restic-restic]] [[masterking32-masterdnsvpn]] [[nvidia-skillspector]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]]
+[[calesthio-openmontage]] [[nvidia-skillspector]] [[garrytan-gstack]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[kunchenguid-no-mistakes]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

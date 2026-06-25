@@ -33,7 +33,7 @@ OpenStock is an open-source alternative to expensive market platforms. Track rea
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[stablyai-orca]] [[garrytan-gstack]] [[koala73-worldmonitor]]
+[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[every-app-open-seo]] [[garrytan-gstack]] [[apple-container]]
 
 **所属领域**: [[ai-agent]]
 

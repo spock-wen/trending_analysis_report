@@ -33,7 +33,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[openbmb-voxcpm]] [[calesthio-openmontage]] [[lightricks-ltx-2]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]] [[jamiepine-voicebox]] [[apple-container]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

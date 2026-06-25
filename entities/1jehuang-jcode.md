@@ -33,7 +33,7 @@ Coding Agent Harness
 
 ## 相关项目
 
-[[tw93-pake]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[tursodatabase-turso]] [[n0-computer-iroh]]
+[[calesthio-openmontage]] [[garrytan-gstack]] [[tursodatabase-turso]] [[apple-container]] [[n0-computer-iroh]]
 
 **所属领域**: [[ai-agent]]
 

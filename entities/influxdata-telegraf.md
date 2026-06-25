@@ -34,7 +34,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[restic-restic]] [[masterking32-masterdnsvpn]] [[alibaba-zvec]] [[nousresearch-hermes-agent]] [[deusdata-codebase-memory-mcp]]
+[[calesthio-openmontage]] [[garrytan-gstack]] [[deusdata-codebase-memory-mcp]] [[tursodatabase-turso]] [[kunchenguid-no-mistakes]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -35,7 +35,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[tw93-pake]] [[heygen-com-hyperframes]] [[stablyai-orca]] [[garrytan-gstack]] [[koala73-worldmonitor]]
+[[jcodesmore-ai-website-cloner-template]] [[every-app-open-seo]] [[shanraisshan-claude-code-best-practice]] [[garrytan-gstack]] [[alibaba-page-agent]]
 
 **所属领域**: [[web]] [[cli]]
 

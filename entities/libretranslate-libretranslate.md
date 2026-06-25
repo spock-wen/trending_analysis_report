@@ -33,5 +33,5 @@ Free and Open Source Machine Translation API. Self-hosted, offline capable and e
 
 ## 相关项目
 
-[[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[anthropics-claude-plugins-official]] [[calesthio-openmontage]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[free-tv-iptv]] [[mukul975-anthropic-cybersecurity-skills]]
 

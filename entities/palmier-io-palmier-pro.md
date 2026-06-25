@@ -37,7 +37,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[supertone-inc-supertonic]] [[revfactory-harness]] [[manaflow-ai-cmux]]
+[[calesthio-openmontage]] [[garrytan-gstack]] [[supertone-inc-supertonic]] [[manaflow-ai-cmux]] [[apple-container]]
 
 **所属领域**: [[ai-agent]]
 

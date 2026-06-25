@@ -34,7 +34,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[1jehuang-jcode]] [[mattpocock-skills]] [[tursodatabase-turso]] [[mukul975-anthropic-cybersecurity-skills]]
+[[jcodesmore-ai-website-cloner-template]] [[shanraisshan-claude-code-best-practice]] [[alibaba-page-agent]] [[n0-computer-iroh]] [[1jehuang-jcode]]
 
 **所属领域**: [[web]] [[cli]]
 

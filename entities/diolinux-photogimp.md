@@ -33,7 +33,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[obra-superpowers]] [[odoo-odoo]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[heygen-com-hyperframes]] [[shanraisshan-claude-code-best-practice]]
+[[jcodesmore-ai-website-cloner-template]] [[shanraisshan-claude-code-best-practice]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[alibaba-page-agent]]
 
 **所属领域**: [[web]] [[erp]]
 

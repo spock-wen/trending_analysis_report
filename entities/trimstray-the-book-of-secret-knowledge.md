@@ -34,7 +34,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[tw93-pake]] [[heygen-com-hyperframes]] [[mattpocock-skills]] [[mukul975-anthropic-cybersecurity-skills]] [[shanraisshan-claude-code-best-practice]]
+[[jcodesmore-ai-website-cloner-template]] [[shanraisshan-claude-code-best-practice]] [[alibaba-page-agent]] [[mattpocock-skills]] [[tw93-pake]]
 
 **所属领域**: [[web]] [[cli]]
 

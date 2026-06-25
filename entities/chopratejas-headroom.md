@@ -37,7 +37,7 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60
 
 ## 相关项目
 
-[[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[revfactory-harness]] [[anthropics-claude-plugins-official]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]] [[apple-container]] [[free-tv-iptv]]
 
 **所属领域**: [[ai-agent]]
 

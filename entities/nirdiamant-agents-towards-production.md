@@ -33,7 +33,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[owainlewis-awesome-artificial-intelligence]] [[bytedance-ui-tars-desktop]] [[revfactory-harness]] [[rohitg00-ai-engineering-from-scratch]] [[trycua-cua]]
+[[datatalksclub-data-engineering-zoomcamp]] [[owainlewis-awesome-artificial-intelligence]] [[apple-container]] [[cloakhq-cloakbrowser]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[education]] [[erp]]
 

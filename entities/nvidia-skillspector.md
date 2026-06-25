@@ -36,7 +36,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[mukul975-anthropic-cybersecurity-skills]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

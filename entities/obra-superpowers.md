@@ -37,7 +37,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[tw93-pake]] [[nousresearch-hermes-agent]] [[odoo-odoo]] [[x1xhlol-system-prompts-and-models-of-ai-tools]]
+[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[msitarzewski-agency-agents]] [[garrytan-gstack]] [[x1xhlol-system-prompts-and-models-of-ai-tools]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

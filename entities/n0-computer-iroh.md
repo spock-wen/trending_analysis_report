@@ -36,5 +36,5 @@ IP addresses break, dial keys instead. Modular networking stack in Rust.
 
 ## 相关项目
 
-[[tursodatabase-turso]] [[tw93-pake]] [[1jehuang-jcode]]
+[[tw93-pake]] [[1jehuang-jcode]] [[tursodatabase-turso]]
 

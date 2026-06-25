@@ -37,7 +37,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[interviewstreet-hiring-agent]] [[calesthio-openmontage]] [[google-research-timesfm]] [[bytedance-deer-flow]] [[affaan-m-ecc]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]] [[bytedance-deer-flow]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

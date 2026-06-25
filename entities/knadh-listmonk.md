@@ -33,7 +33,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[restic-restic]] [[masterking32-masterdnsvpn]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[kunchenguid-no-mistakes]]
+[[calesthio-openmontage]] [[garrytan-gstack]] [[kunchenguid-no-mistakes]] [[apple-container]] [[icewhaletech-casaos]]
 
 **所属领域**: [[ai-agent]]
 

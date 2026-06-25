@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[nvidia-cosmos]] [[freecodecamp-freecodecamp]] [[owainlewis-awesome-artificial-intelligence]] [[byoungd-english-level-up-tips]] [[nousresearch-hermes-agent]]
+[[calesthio-openmontage]] [[nvidia-cosmos]] [[datatalksclub-data-engineering-zoomcamp]] [[garrytan-gstack]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

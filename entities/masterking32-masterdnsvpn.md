@@ -35,7 +35,7 @@ Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli
 
 ## 相关项目
 
-[[restic-restic]] [[kunchenguid-no-mistakes]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[mukul975-anthropic-cybersecurity-skills]] [[affaan-m-ecc]]
+[[nvidia-skillspector]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[kunchenguid-no-mistakes]] [[affaan-m-ecc]] [[icewhaletech-casaos]]
 
 **所属领域**: [[security]]
 

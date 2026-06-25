@@ -33,7 +33,7 @@ The API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[stablyai-orca]] [[garrytan-gstack]] [[koala73-worldmonitor]] [[shanraisshan-claude-code-best-practice]]
+[[jcodesmore-ai-website-cloner-template]] [[every-app-open-seo]] [[shanraisshan-claude-code-best-practice]] [[garrytan-gstack]] [[alibaba-page-agent]]
 
 **所属领域**: [[web]]
 

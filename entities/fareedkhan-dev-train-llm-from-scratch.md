@@ -36,7 +36,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[interviewstreet-hiring-agent]] [[alibaba-zvec]] [[nousresearch-hermes-agent]] [[deusdata-codebase-memory-mcp]] [[calesthio-openmontage]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]] [[deusdata-codebase-memory-mcp]] [[tursodatabase-turso]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

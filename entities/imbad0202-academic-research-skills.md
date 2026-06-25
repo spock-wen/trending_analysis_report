@@ -36,7 +36,7 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[google-research-timesfm]] [[bytedance-deer-flow]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]] [[bytedance-deer-flow]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

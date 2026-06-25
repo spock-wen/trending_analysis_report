@@ -33,7 +33,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[music-assistant-server]] [[tw93-pake]] [[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[openbmb-voxcpm]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[jcodesmore-ai-website-cloner-template]] [[openbmb-voxcpm]] [[jamiepine-voicebox]]
 
 **所属领域**: [[cli]] [[audio]]
 

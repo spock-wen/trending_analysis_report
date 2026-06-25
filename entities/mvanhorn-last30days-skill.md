@@ -37,7 +37,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[heygen-com-hyperframes]] [[google-research-timesfm]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[jcodesmore-ai-website-cloner-template]] [[shanraisshan-claude-code-best-practice]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

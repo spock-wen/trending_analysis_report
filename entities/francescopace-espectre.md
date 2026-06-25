@@ -33,5 +33,5 @@ language: "Python"
 
 ## 相关项目
 
-[[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[anthropics-claude-plugins-official]] [[calesthio-openmontage]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[free-tv-iptv]] [[mukul975-anthropic-cybersecurity-skills]]
 

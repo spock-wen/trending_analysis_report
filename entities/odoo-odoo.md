@@ -34,7 +34,7 @@ Odoo. Open Source Apps To Grow Your Business.
 
 ## 相关项目
 
-[[obra-superpowers]] [[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[calesthio-openmontage]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[cloakhq-cloakbrowser]]
 
 **所属领域**: [[erp]]
 

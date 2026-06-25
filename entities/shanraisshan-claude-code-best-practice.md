@@ -1,19 +1,19 @@
 ---
 title: "shanraisshan/claude-code-best-practice"
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-06-26
 type: framework
 tags: [ai-agent, web]
-sources: [raw/trending/2026-06-24.json]
-confidence: low
-trending_count_daily: 1
+sources: [raw/trending/2026-06-26.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-24
-last_trending: 2026-06-24
+last_trending: 2026-06-26
 peak_rank: 9
-total_stars: 59389
+total_stars: 60486
 language: "HTML"
 ---
 
@@ -22,18 +22,19 @@ language: "HTML"
 from vibe coding to agentic engineering - practice makes claude perfect
 
 - 语言: HTML
-- 上榜次数: 1 次
+- 上榜次数: 2 次
 - 连续上榜: 1 天
 - 最高排名: #9
 - 链接: [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
 
 ## 上榜历史
 
+  - 2026-06-26: #15, +450⭐
   - 2026-06-24: #9, +329⭐
 
 ## 相关项目
 
-[[trycua-cua]] [[aishwaryanr-awesome-generative-ai-guide]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[heygen-com-hyperframes]]
+[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[aishwaryanr-awesome-generative-ai-guide]] [[garrytan-gstack]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

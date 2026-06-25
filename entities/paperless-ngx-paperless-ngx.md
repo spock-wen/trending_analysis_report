@@ -33,7 +33,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[google-research-timesfm]] [[bytedance-deer-flow]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[bytedance-deer-flow]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[science]]
 

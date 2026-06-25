@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[heygen-com-hyperframes]] [[shanraisshan-claude-code-best-practice]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[jcodesmore-ai-website-cloner-template]] [[shanraisshan-claude-code-best-practice]] [[alibaba-page-agent]]
 
 **所属领域**: [[web]]
 

@@ -35,5 +35,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[stablyai-orca]] [[garrytan-gstack]] [[koala73-worldmonitor]] [[jcodesmore-ai-website-cloner-template]]
+[[jcodesmore-ai-website-cloner-template]] [[mauriceboe-trek]] [[every-app-open-seo]] [[garrytan-gstack]]
 

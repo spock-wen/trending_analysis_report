@@ -34,7 +34,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[openbmb-voxcpm]] [[calesthio-openmontage]] [[google-research-timesfm]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]] [[bytedance-deer-flow]] [[universal-debloater-alliance-universal-android-debloater-next-generation]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

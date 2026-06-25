@@ -36,5 +36,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[stablyai-orca]] [[garrytan-gstack]] [[koala73-worldmonitor]] [[jcodesmore-ai-website-cloner-template]]
+[[jcodesmore-ai-website-cloner-template]] [[mauriceboe-trek]] [[every-app-open-seo]] [[garrytan-gstack]]
 

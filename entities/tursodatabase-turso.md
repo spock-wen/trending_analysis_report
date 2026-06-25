@@ -35,7 +35,7 @@ Turso is an in-process SQL database, compatible with SQLite.
 
 ## 相关项目
 
-[[tw93-pake]] [[alibaba-zvec]] [[deusdata-codebase-memory-mcp]] [[calesthio-openmontage]] [[1jehuang-jcode]]
+[[calesthio-openmontage]] [[deusdata-codebase-memory-mcp]] [[1jehuang-jcode]] [[n0-computer-iroh]] [[opendatalab-mineru]]
 
 **所属领域**: [[data]]
 

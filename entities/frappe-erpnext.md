@@ -33,7 +33,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[obra-superpowers]] [[interviewstreet-hiring-agent]] [[nousresearch-hermes-agent]] [[odoo-odoo]] [[x1xhlol-system-prompts-and-models-of-ai-tools]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[cloakhq-cloakbrowser]]
 
 **所属领域**: [[erp]]
 

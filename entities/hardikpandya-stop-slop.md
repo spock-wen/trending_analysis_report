@@ -37,7 +37,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[revfactory-harness]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[apple-container]]
+[[calesthio-openmontage]] [[apple-container]] [[garrytan-gstack]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[ai-agent]]
 

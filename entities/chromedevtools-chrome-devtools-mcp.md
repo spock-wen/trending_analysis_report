@@ -34,7 +34,7 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[heygen-com-hyperframes]] [[stablyai-orca]] [[garrytan-gstack]]
+[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[every-app-open-seo]] [[shanraisshan-claude-code-best-practice]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

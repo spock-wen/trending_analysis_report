@@ -34,5 +34,5 @@ Open Source Computer Vision Library
 
 ## 相关项目
 
-[[godotengine-godot]] [[alibaba-zvec]] [[opentoonz-opentoonz]]
+[[alibaba-zvec]] [[opentoonz-opentoonz]] [[godotengine-godot]]
 

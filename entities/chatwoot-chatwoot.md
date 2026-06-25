@@ -37,7 +37,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[revfactory-harness]] [[nousresearch-hermes-agent]] [[calesthio-openmontage]] [[apple-container]]
+[[calesthio-openmontage]] [[apple-container]] [[garrytan-gstack]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[ai-agent]]
 

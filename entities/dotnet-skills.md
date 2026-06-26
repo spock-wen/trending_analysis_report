@@ -36,7 +36,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[garrytan-gstack]] [[itsfatduck-optimizerduck]] [[jellyfin-jellyfin]] [[dotnet-aspnetcore]]
+[[calesthio-openmontage]] [[openclaw-openclaw-windows-node]] [[itsfatduck-optimizerduck]] [[garrytan-gstack]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[ai-agent]]
 

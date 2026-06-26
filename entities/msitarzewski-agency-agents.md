@@ -37,7 +37,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[shanraisshan-claude-code-best-practice]] [[garrytan-gstack]] [[addyosmani-agent-skills]]
+[[jcodesmore-ai-website-cloner-template]] [[mattpocock-skills]] [[calesthio-openmontage]] [[garrytan-gstack]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

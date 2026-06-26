@@ -34,7 +34,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[garrytan-gstack]] [[deusdata-codebase-memory-mcp]] [[tursodatabase-turso]] [[kunchenguid-no-mistakes]]
+[[opendatalab-mineru]] [[kunchenguid-no-mistakes]] [[calesthio-openmontage]] [[grafana-grafana]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

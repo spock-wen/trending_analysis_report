@@ -33,7 +33,7 @@ Orca is the ADE for working with a fleet of parallel agents. Run any coding agen
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[every-app-open-seo]] [[garrytan-gstack]] [[apple-container]]
+[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[grafana-grafana]] [[garrytan-gstack]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]]
 

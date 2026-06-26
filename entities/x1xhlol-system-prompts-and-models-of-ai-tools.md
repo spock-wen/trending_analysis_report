@@ -36,7 +36,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[garrytan-gstack]] [[obra-superpowers]] [[apple-container]] [[cloakhq-cloakbrowser]]
+[[calesthio-openmontage]] [[garrytan-gstack]] [[obra-superpowers]] [[panniantong-agent-reach]] [[odoo-odoo]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

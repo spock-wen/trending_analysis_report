@@ -1,0 +1,152 @@
+{
+  "date": "2026-06-27",
+  "scraped_at": "2026-06-27T07:02:44.975380",
+  "period": "daily",
+  "count": 16,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "stars_today": 191,
+      "total_stars": 12483,
+      "url": "https://github.com/simplex-chat/simplex-chat"
+    },
+    {
+      "rank": 3,
+      "repo": "commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "language": "Python",
+      "stars_today": 67,
+      "total_stars": 61769,
+      "url": "https://github.com/commaai/openpilot"
+    },
+    {
+      "rank": 4,
+      "repo": "kunchenguid/no-mistakes",
+      "description": "git push no-mistakes",
+      "language": "Go",
+      "stars_today": 412,
+      "total_stars": 3400,
+      "url": "https://github.com/kunchenguid/no-mistakes"
+    },
+    {
+      "rank": 5,
+      "repo": "grafana/grafana",
+      "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+      "language": "TypeScript",
+      "stars_today": 17,
+      "total_stars": 74880,
+      "url": "https://github.com/grafana/grafana"
+    },
+    {
+      "rank": 6,
+      "repo": "ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "stars_today": 137,
+      "total_stars": 123709,
+      "url": "https://github.com/ripienaar/free-for-dev"
+    },
+    {
+      "rank": 7,
+      "repo": "opendatalab/MinerU",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "language": "Python",
+      "stars_today": 944,
+      "total_stars": 70373,
+      "url": "https://github.com/opendatalab/MinerU"
+    },
+    {
+      "rank": 8,
+      "repo": "alchaincyf/zhangxuefeng-skill",
+      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+      "language": "",
+      "stars_today": 185,
+      "total_stars": 9241,
+      "url": "https://github.com/alchaincyf/zhangxuefeng-skill"
+    },
+    {
+      "rank": 9,
+      "repo": "mauriceboe/TREK",
+      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "language": "TypeScript",
+      "stars_today": 1063,
+      "total_stars": 7619,
+      "url": "https://github.com/mauriceboe/TREK"
+    },
+    {
+      "rank": 10,
+      "repo": "xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars_today": 1270,
+      "total_stars": 3082,
+      "url": "https://github.com/xbtlin/ai-berkshire"
+    },
+    {
+      "rank": 11,
+      "repo": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars_today": 1674,
+      "total_stars": 23545,
+      "url": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+      "rank": 12,
+      "repo": "aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "language": "Python",
+      "stars_today": 238,
+      "total_stars": 1343,
+      "url": "https://github.com/aws/agent-toolkit-for-aws"
+    },
+    {
+      "rank": 13,
+      "repo": "NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars_today": 640,
+      "total_stars": 53337,
+      "url": "https://github.com/NanmiCoder/MediaCrawler"
+    },
+    {
+      "rank": 14,
+      "repo": "garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "stars_today": 919,
+      "total_stars": 116599,
+      "url": "https://github.com/garrytan/gstack"
+    },
+    {
+      "rank": 15,
+      "repo": "IceWhaleTech/CasaOS",
+      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "language": "Go",
+      "stars_today": 612,
+      "total_stars": 35341,
+      "url": "https://github.com/IceWhaleTech/CasaOS"
+    },
+    {
+      "rank": 16,
+      "repo": "JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "language": "TypeScript",
+      "stars_today": 1076,
+      "total_stars": 21322,
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template"
+    },
+    {
+      "rank": 17,
+      "repo": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_today": 1164,
+      "total_stars": 42290,
+      "url": "https://github.com/Panniantong/Agent-Reach"
+    }
+  ]
+}

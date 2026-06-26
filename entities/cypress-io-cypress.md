@@ -34,7 +34,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[every-app-open-seo]] [[shanraisshan-claude-code-best-practice]] [[garrytan-gstack]] [[alibaba-page-agent]]
+[[jcodesmore-ai-website-cloner-template]] [[grafana-grafana]] [[garrytan-gstack]] [[shanraisshan-claude-code-best-practice]] [[alibaba-page-agent]]
 
 **所属领域**: [[web]]
 

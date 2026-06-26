@@ -37,7 +37,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[msitarzewski-agency-agents]] [[garrytan-gstack]] [[obra-superpowers]]
+[[msitarzewski-agency-agents]] [[mattpocock-skills]] [[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -33,7 +33,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[garrytan-gstack]] [[tursodatabase-turso]] [[apple-container]]
+[[n0-computer-iroh]] [[jcodesmore-ai-website-cloner-template]] [[mattpocock-skills]] [[tursodatabase-turso]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

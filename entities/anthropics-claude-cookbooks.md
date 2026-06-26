@@ -33,7 +33,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[nvidia-cosmos]] [[datatalksclub-data-engineering-zoomcamp]] [[garrytan-gstack]] [[lyogavin-airllm]]
+[[nvidia-cosmos]] [[calesthio-openmontage]] [[garrytan-gstack]] [[panniantong-agent-reach]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[jcodesmore-ai-website-cloner-template]] [[deusdata-codebase-memory-mcp]] [[bytedance-deer-flow]]
+[[opendatalab-mineru]] [[jcodesmore-ai-website-cloner-template]] [[mattpocock-skills]] [[xbtlin-ai-berkshire]] [[calesthio-openmontage]]
 
 **所属领域**: [[cli]] [[data]] [[science]]
 

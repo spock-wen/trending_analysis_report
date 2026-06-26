@@ -33,7 +33,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[jcodesmore-ai-website-cloner-template]] [[mattpocock-skills]] [[tw93-pake]]
+[[jcodesmore-ai-website-cloner-template]] [[mattpocock-skills]] [[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[cli]]
 

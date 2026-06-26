@@ -34,7 +34,7 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]] [[deusdata-codebase-memory-mcp]] [[tursodatabase-turso]]
+[[opendatalab-mineru]] [[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[grafana-grafana]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

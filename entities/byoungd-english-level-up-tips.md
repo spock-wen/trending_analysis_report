@@ -37,7 +37,7 @@ An advanced guide to learn English which might benefit you a lot 🎉 . 人生�
 
 ## 相关项目
 
-[[owainlewis-awesome-artificial-intelligence]] [[freecodecamp-freecodecamp]] [[rohitg00-ai-engineering-from-scratch]]
+[[freecodecamp-freecodecamp]] [[owainlewis-awesome-artificial-intelligence]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[education]]
 

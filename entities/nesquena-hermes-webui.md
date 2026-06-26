@@ -36,7 +36,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[jcodesmore-ai-website-cloner-template]] [[shanraisshan-claude-code-best-practice]] [[garrytan-gstack]]
+[[jcodesmore-ai-website-cloner-template]] [[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]] [[shanraisshan-claude-code-best-practice]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

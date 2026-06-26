@@ -37,7 +37,7 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[msitarzewski-agency-agents]] [[garrytan-gstack]] [[addyosmani-agent-skills]]
+[[msitarzewski-agency-agents]] [[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[garrytan-gstack]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

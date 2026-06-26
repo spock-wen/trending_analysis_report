@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[jcodesmore-ai-website-cloner-template]] [[shanraisshan-claude-code-best-practice]] [[alibaba-page-agent]]
+[[jcodesmore-ai-website-cloner-template]] [[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[shanraisshan-claude-code-best-practice]] [[alibaba-page-agent]]
 
 **所属领域**: [[web]]
 

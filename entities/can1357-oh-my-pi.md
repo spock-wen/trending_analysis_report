@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[every-app-open-seo]] [[shanraisshan-claude-code-best-practice]] [[garrytan-gstack]]
+[[jcodesmore-ai-website-cloner-template]] [[mattpocock-skills]] [[calesthio-openmontage]] [[grafana-grafana]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

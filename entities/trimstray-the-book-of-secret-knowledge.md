@@ -34,7 +34,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[shanraisshan-claude-code-best-practice]] [[alibaba-page-agent]] [[mattpocock-skills]] [[tw93-pake]]
+[[jcodesmore-ai-website-cloner-template]] [[mattpocock-skills]] [[shanraisshan-claude-code-best-practice]] [[alibaba-page-agent]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[web]] [[cli]]
 

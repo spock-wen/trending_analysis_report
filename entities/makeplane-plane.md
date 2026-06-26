@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[every-app-open-seo]] [[garrytan-gstack]] [[mauriceboe-trek]] [[mattpocock-skills]]
+[[jcodesmore-ai-website-cloner-template]] [[mattpocock-skills]] [[grafana-grafana]] [[garrytan-gstack]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[cli]]
 

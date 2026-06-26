@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[apple-container]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[paddlepaddle-paddleocr]] [[santifer-career-ops]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

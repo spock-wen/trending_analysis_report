@@ -33,7 +33,7 @@ Cognee is the open-source AI memory platform for agents. Give your AI agents per
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]] [[apple-container]] [[free-tv-iptv]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]] [[panniantong-agent-reach]] [[aws-agent-toolkit-for-aws]]
 
 **所属领域**: [[ai-agent]]
 

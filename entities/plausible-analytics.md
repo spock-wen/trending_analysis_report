@@ -34,7 +34,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[nvidia-skillspector]] [[shanraisshan-claude-code-best-practice]] [[deusdata-codebase-memory-mcp]]
+[[opendatalab-mineru]] [[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[grafana-grafana]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

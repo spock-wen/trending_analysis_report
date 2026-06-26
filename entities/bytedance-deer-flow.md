@@ -35,7 +35,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]] [[affaan-m-ecc]] [[apple-container]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]] [[panniantong-agent-reach]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

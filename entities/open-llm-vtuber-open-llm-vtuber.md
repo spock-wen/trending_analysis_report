@@ -36,7 +36,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]] [[jamiepine-voicebox]] [[apple-container]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[music-assistant-server]] [[garrytan-gstack]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

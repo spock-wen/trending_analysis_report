@@ -33,7 +33,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[jcodesmore-ai-website-cloner-template]] [[shanraisshan-claude-code-best-practice]] [[garrytan-gstack]]
+[[jcodesmore-ai-website-cloner-template]] [[mattpocock-skills]] [[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

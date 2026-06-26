@@ -33,5 +33,5 @@ Open source alternative to Semrush and Ahrefs
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[mauriceboe-trek]] [[garrytan-gstack]]
+[[jcodesmore-ai-website-cloner-template]] [[garrytan-gstack]] [[mauriceboe-trek]] [[grafana-grafana]]
 

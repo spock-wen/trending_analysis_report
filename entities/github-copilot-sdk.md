@@ -34,7 +34,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[garrytan-gstack]] [[apple-container]] [[opendataloader-project-opendataloader-pdf]] [[krahets-hello-algo]]
+[[opendataloader-project-opendataloader-pdf]] [[calesthio-openmontage]] [[garrytan-gstack]] [[krahets-hello-algo]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]]
 

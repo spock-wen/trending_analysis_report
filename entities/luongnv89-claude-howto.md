@@ -34,7 +34,7 @@ A visual, example-driven guide to Claude Code — from basic concepts to advance
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]] [[apple-container]] [[free-tv-iptv]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]] [[panniantong-agent-reach]] [[aws-agent-toolkit-for-aws]]
 
 **所属领域**: [[ai-agent]]
 

@@ -33,7 +33,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[garrytan-gstack]] [[kunchenguid-no-mistakes]] [[apple-container]] [[icewhaletech-casaos]]
+[[kunchenguid-no-mistakes]] [[calesthio-openmontage]] [[garrytan-gstack]] [[alchaincyf-zhangxuefeng-skill]] [[kenn-io-agentsview]]
 
 **所属领域**: [[ai-agent]]
 

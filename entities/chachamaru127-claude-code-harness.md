@@ -33,7 +33,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[msitarzewski-agency-agents]] [[garrytan-gstack]] [[addyosmani-agent-skills]]
+[[msitarzewski-agency-agents]] [[mattpocock-skills]] [[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

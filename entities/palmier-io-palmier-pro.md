@@ -37,7 +37,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[garrytan-gstack]] [[supertone-inc-supertonic]] [[manaflow-ai-cmux]] [[apple-container]]
+[[calesthio-openmontage]] [[supertone-inc-supertonic]] [[apple-container]] [[garrytan-gstack]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]]
 

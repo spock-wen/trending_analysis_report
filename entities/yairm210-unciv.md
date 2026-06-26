@@ -33,7 +33,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[garrytan-gstack]] [[bannedbook-fanqiang]] [[pppscn-smsforwarder]] [[apple-container]]
+[[pppscn-smsforwarder]] [[calesthio-openmontage]] [[bannedbook-fanqiang]] [[garrytan-gstack]] [[alchaincyf-zhangxuefeng-skill]]
 
 **所属领域**: [[ai-agent]]
 

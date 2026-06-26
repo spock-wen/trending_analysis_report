@@ -33,7 +33,7 @@ Open-source alternative to AI video platforms — Free AI image & video generati
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[garrytan-gstack]] [[openai-plugins]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[affaan-m-ecc]]
+[[openai-plugins]] [[calesthio-openmontage]] [[paddlepaddle-paddleocr]] [[santifer-career-ops]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

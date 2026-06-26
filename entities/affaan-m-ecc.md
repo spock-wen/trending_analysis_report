@@ -37,7 +37,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[nvidia-skillspector]] [[garrytan-gstack]] [[openai-plugins]]
+[[openai-plugins]] [[calesthio-openmontage]] [[xbtlin-ai-berkshire]] [[santifer-career-ops]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

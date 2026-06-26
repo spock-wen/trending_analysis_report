@@ -35,7 +35,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[jcodesmore-ai-website-cloner-template]] [[garrytan-gstack]] [[openbmb-voxcpm]]
+[[jcodesmore-ai-website-cloner-template]] [[mattpocock-skills]] [[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[music-assistant-server]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

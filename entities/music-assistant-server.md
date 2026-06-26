@@ -37,7 +37,7 @@ Music Assistant is a free, opensource Media library manager that connects to you
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[jamiepine-voicebox]] [[lightricks-ltx-2]] [[openbmb-voxcpm]]
+[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[panniantong-agent-reach]] [[jamiepine-voicebox]] [[openbmb-voxcpm]]
 
 **所属领域**: [[audio]]
 

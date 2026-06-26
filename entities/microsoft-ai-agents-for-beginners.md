@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[nvidia-cosmos]] [[datatalksclub-data-engineering-zoomcamp]] [[garrytan-gstack]] [[lyogavin-airllm]]
+[[nvidia-cosmos]] [[calesthio-openmontage]] [[garrytan-gstack]] [[panniantong-agent-reach]] [[byoungd-english-level-up-tips]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

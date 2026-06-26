@@ -34,5 +34,5 @@ Cursor plugin specification and official plugins
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[mauriceboe-trek]] [[every-app-open-seo]] [[garrytan-gstack]]
+[[jcodesmore-ai-website-cloner-template]] [[garrytan-gstack]] [[mauriceboe-trek]] [[grafana-grafana]]
 

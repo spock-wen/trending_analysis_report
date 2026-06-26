@@ -35,7 +35,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[shanraisshan-claude-code-best-practice]] [[alibaba-page-agent]] [[n0-computer-iroh]] [[1jehuang-jcode]]
+[[n0-computer-iroh]] [[jcodesmore-ai-website-cloner-template]] [[tursodatabase-turso]] [[shanraisshan-claude-code-best-practice]] [[alibaba-page-agent]]
 
 **所属领域**: [[web]]
 

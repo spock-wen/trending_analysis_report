@@ -33,7 +33,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[obra-superpowers]] [[shanraisshan-claude-code-best-practice]] [[alibaba-page-agent]] [[ripienaar-free-for-dev]]
+[[ripienaar-free-for-dev]] [[hugohe3-ppt-master]] [[shanraisshan-claude-code-best-practice]] [[jcodesmore-ai-website-cloner-template]] [[alibaba-page-agent]]
 
 **所属领域**: [[web]] [[erp]]
 

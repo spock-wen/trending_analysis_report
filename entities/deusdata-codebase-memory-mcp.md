@@ -37,7 +37,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[opendatalab-mineru]] [[calesthio-openmontage]] [[grafana-grafana]] [[garrytan-gstack]] [[microsoft-powertoys]]
+[[microsoft-powertoys]] [[calesthio-openmontage]] [[grafana-grafana]] [[hkuds-vibe-trading]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

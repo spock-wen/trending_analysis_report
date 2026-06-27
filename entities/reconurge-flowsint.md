@@ -35,7 +35,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[grafana-grafana]] [[garrytan-gstack]] [[mukul975-anthropic-cybersecurity-skills]] [[universal-debloater-alliance-universal-android-debloater-next-generation]]
+[[every-app-open-seo]] [[jcodesmore-ai-website-cloner-template]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[mukul975-anthropic-cybersecurity-skills]] [[keycloak-keycloak]]
 
 **所属领域**: [[security]]
 

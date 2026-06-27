@@ -34,7 +34,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[garrytan-gstack]] [[alibaba-page-agent]] [[ripienaar-free-for-dev]]
+[[ripienaar-free-for-dev]] [[revfactory-harness]] [[jcodesmore-ai-website-cloner-template]] [[aishwaryanr-awesome-generative-ai-guide]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

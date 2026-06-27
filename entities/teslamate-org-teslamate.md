@@ -34,7 +34,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[opendatalab-mineru]] [[calesthio-openmontage]] [[grafana-grafana]] [[garrytan-gstack]] [[plausible-analytics]]
+[[calesthio-openmontage]] [[grafana-grafana]] [[plausible-analytics]] [[hkuds-vibe-trading]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -36,7 +36,7 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]] [[panniantong-agent-reach]] [[nousresearch-hermes-agent]]
+[[bytedance-deer-flow]] [[nousresearch-hermes-agent]] [[topoteretes-cognee]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

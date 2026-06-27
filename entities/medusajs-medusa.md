@@ -33,7 +33,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[grafana-grafana]] [[garrytan-gstack]] [[obra-superpowers]] [[x1xhlol-system-prompts-and-models-of-ai-tools]]
+[[every-app-open-seo]] [[hugohe3-ppt-master]] [[jcodesmore-ai-website-cloner-template]] [[obra-superpowers]] [[anomalyco-opencode]]
 
 **所属领域**: [[erp]]
 

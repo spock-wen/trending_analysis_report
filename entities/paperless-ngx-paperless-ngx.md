@@ -33,7 +33,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[panniantong-agent-reach]] [[nousresearch-hermes-agent]] [[aws-agent-toolkit-for-aws]]
+[[bytedance-deer-flow]] [[nousresearch-hermes-agent]] [[topoteretes-cognee]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[science]]
 

@@ -37,7 +37,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[supertone-inc-supertonic]] [[garrytan-gstack]] [[panniantong-agent-reach]] [[palmier-io-palmier-pro]]
+[[supertone-inc-supertonic]] [[palmier-io-palmier-pro]] [[hkuds-vibe-trading]] [[luongnv89-claude-howto]] [[anil-matcha-open-generative-ai]]
 
 **所属领域**: [[ai-agent]]
 

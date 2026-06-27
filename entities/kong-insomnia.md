@@ -35,7 +35,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[mattpocock-skills]] [[grafana-grafana]] [[garrytan-gstack]] [[shanraisshan-claude-code-best-practice]]
+[[mattpocock-skills]] [[every-app-open-seo]] [[ripienaar-free-for-dev]] [[shanraisshan-claude-code-best-practice]] [[jcodesmore-ai-website-cloner-template]]
 
 **所属领域**: [[web]] [[cli]]
 

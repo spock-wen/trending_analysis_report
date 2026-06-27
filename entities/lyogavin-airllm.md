@@ -34,7 +34,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[nvidia-cosmos]] [[calesthio-openmontage]] [[garrytan-gstack]] [[panniantong-agent-reach]] [[datatalksclub-data-engineering-zoomcamp]]
+[[nvidia-cosmos]] [[stefan-jansen-machine-learning-for-trading]] [[hkuds-vibe-trading]] [[luongnv89-claude-howto]] [[anil-matcha-open-generative-ai]]
 
 **所属领域**: [[ai-agent]]
 

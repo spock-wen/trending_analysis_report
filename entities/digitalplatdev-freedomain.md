@@ -36,7 +36,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[garrytan-gstack]] [[shanraisshan-claude-code-best-practice]] [[alibaba-page-agent]]
+[[ripienaar-free-for-dev]] [[revfactory-harness]] [[shanraisshan-claude-code-best-practice]] [[jcodesmore-ai-website-cloner-template]] [[aishwaryanr-awesome-generative-ai-guide]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

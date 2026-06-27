@@ -35,7 +35,7 @@ The open-source managed agents platform. Turn coding agents into real teammates 
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[grafana-grafana]] [[garrytan-gstack]] [[panniantong-agent-reach]]
+[[every-app-open-seo]] [[jcodesmore-ai-website-cloner-template]] [[hkuds-vibe-trading]] [[luongnv89-claude-howto]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]]
 

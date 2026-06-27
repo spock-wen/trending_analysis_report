@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[nvidia-cosmos]] [[calesthio-openmontage]] [[garrytan-gstack]] [[panniantong-agent-reach]] [[byoungd-english-level-up-tips]]
+[[rohitg00-ai-engineering-from-scratch]] [[nvidia-cosmos]] [[owainlewis-awesome-artificial-intelligence]] [[stefan-jansen-machine-learning-for-trading]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

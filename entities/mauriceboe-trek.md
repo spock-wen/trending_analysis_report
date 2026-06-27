@@ -34,5 +34,5 @@ A self-hosted travel/trip planner with real-time collaboration, interactive maps
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[garrytan-gstack]] [[grafana-grafana]]
+[[jcodesmore-ai-website-cloner-template]] [[every-app-open-seo]] [[anomalyco-opencode]] [[garrytan-gstack]]
 

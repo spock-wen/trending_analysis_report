@@ -33,7 +33,7 @@ Coding Agent Harness
 
 ## 相关项目
 
-[[n0-computer-iroh]] [[tursodatabase-turso]] [[calesthio-openmontage]] [[garrytan-gstack]] [[panniantong-agent-reach]]
+[[tw93-pake]] [[hkuds-vibe-trading]] [[luongnv89-claude-howto]] [[anil-matcha-open-generative-ai]] [[dbt-labs-dbt-core]]
 
 **所属领域**: [[ai-agent]]
 

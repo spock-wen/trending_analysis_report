@@ -33,7 +33,7 @@ Transform unstructured text into structured knowledge with LLMs. Graphs, hypergr
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[mattpocock-skills]] [[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]]
+[[mattpocock-skills]] [[topoteretes-cognee]] [[jcodesmore-ai-website-cloner-template]] [[xbtlin-ai-berkshire]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

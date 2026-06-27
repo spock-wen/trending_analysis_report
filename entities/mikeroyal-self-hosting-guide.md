@@ -33,7 +33,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[garrytan-gstack]] [[shanraisshan-claude-code-best-practice]] [[alibaba-page-agent]]
+[[rohitg00-ai-engineering-from-scratch]] [[ripienaar-free-for-dev]] [[owainlewis-awesome-artificial-intelligence]] [[shanraisshan-claude-code-best-practice]] [[jcodesmore-ai-website-cloner-template]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

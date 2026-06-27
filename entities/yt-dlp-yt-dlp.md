@@ -33,7 +33,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[mattpocock-skills]] [[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[music-assistant-server]]
+[[mattpocock-skills]] [[topoteretes-cognee]] [[hugohe3-ppt-master]] [[jcodesmore-ai-website-cloner-template]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[cli]] [[audio]]
 

@@ -34,7 +34,7 @@ Official, AWS-supported MCP servers, skills, and plugins to help AI agents build
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]] [[panniantong-agent-reach]] [[alchaincyf-zhangxuefeng-skill]]
+[[topoteretes-cognee]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]] [[luongnv89-claude-howto]] [[anil-matcha-open-generative-ai]]
 
 **所属领域**: [[ai-agent]]
 

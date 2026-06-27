@@ -34,7 +34,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[paddlepaddle-paddleocr]] [[santifer-career-ops]] [[garrytan-gstack]]
+[[bytedance-deer-flow]] [[nousresearch-hermes-agent]] [[topoteretes-cognee]] [[hugohe3-ppt-master]] [[universal-debloater-alliance-universal-android-debloater-next-generation]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

@@ -33,7 +33,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[opendatalab-mineru]] [[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[garrytan-gstack]] [[ripienaar-free-for-dev]]
+[[every-app-open-seo]] [[calesthio-openmontage]] [[ripienaar-free-for-dev]] [[jcodesmore-ai-website-cloner-template]] [[koala73-worldmonitor]]
 
-**所属领域**: [[data]]
+**所属领域**: [[data]] [[devops]]
 

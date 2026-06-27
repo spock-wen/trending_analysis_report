@@ -33,7 +33,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[kunchenguid-no-mistakes]] [[calesthio-openmontage]] [[garrytan-gstack]] [[alchaincyf-zhangxuefeng-skill]] [[kenn-io-agentsview]]
+[[masterking32-masterdnsvpn]] [[kenn-io-agentsview]] [[kunchenguid-no-mistakes]] [[hkuds-vibe-trading]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[santifer-career-ops]] [[pbakaus-impeccable]] [[garrytan-gstack]] [[alchaincyf-zhangxuefeng-skill]]
+[[santifer-career-ops]] [[hkuds-vibe-trading]] [[luongnv89-claude-howto]] [[anil-matcha-open-generative-ai]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

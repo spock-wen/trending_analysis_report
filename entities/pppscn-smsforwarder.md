@@ -33,7 +33,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[bannedbook-fanqiang]] [[shanraisshan-claude-code-best-practice]] [[alibaba-page-agent]] [[ripienaar-free-for-dev]]
+[[ripienaar-free-for-dev]] [[shanraisshan-claude-code-best-practice]] [[jcodesmore-ai-website-cloner-template]] [[andreknieriem-headunit-revived]] [[alibaba-page-agent]]
 
 **所属领域**: [[web]]
 

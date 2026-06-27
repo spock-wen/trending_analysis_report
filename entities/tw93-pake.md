@@ -34,7 +34,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[n0-computer-iroh]] [[jcodesmore-ai-website-cloner-template]] [[mattpocock-skills]] [[tursodatabase-turso]] [[shanraisshan-claude-code-best-practice]]
+[[mattpocock-skills]] [[ripienaar-free-for-dev]] [[shanraisshan-claude-code-best-practice]] [[jcodesmore-ai-website-cloner-template]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

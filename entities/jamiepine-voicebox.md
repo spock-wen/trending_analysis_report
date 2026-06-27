@@ -35,7 +35,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[music-assistant-server]] [[calesthio-openmontage]] [[grafana-grafana]] [[garrytan-gstack]]
+[[every-app-open-seo]] [[hugohe3-ppt-master]] [[jcodesmore-ai-website-cloner-template]] [[hkuds-vibe-trading]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

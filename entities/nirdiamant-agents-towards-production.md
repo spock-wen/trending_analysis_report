@@ -33,7 +33,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[x1xhlol-system-prompts-and-models-of-ai-tools]] [[byoungd-english-level-up-tips]] [[odoo-odoo]] [[lyogavin-airllm]] [[rohitg00-ai-engineering-from-scratch]]
+[[ripienaar-free-for-dev]] [[grafana-grafana]] [[hugohe3-ppt-master]] [[bytedance-ui-tars-desktop]] [[lyogavin-airllm]]
 
-**所属领域**: [[ai-agent]] [[education]] [[erp]]
+**所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

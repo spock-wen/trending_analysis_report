@@ -1,19 +1,19 @@
 ---
 title: "JCodesMore/ai-website-cloner-template"
 created: 2026-06-23
-updated: 2026-06-27
+updated: 2026-06-28
 type: tool
 tags: [typescript, ai-agent, web, cli, rising]
-sources: [raw/trending/2026-06-27.json]
+sources: [raw/trending/2026-06-28.json]
 confidence: high
-trending_count_daily: 5
+trending_count_daily: 6
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 5
+consecutive_days: 6
 first_trending: 2026-06-23
-last_trending: 2026-06-27
+last_trending: 2026-06-28
 peak_rank: 5
-total_stars: 21322
+total_stars: 22083
 language: "TypeScript"
 ---
 
@@ -22,22 +22,22 @@ language: "TypeScript"
 Clone any website with one command using AI coding agents
 
 - 语言: TypeScript
-- 上榜次数: 5 次
-- 连续上榜: 5 天
+- 上榜次数: 6 次
+- 连续上榜: 6 天
 - 最高排名: #5
 - 链接: [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
 
 ## 上榜历史
 
+  - 2026-06-28: #9, +750⭐
   - 2026-06-27: #16, +1076⭐
   - 2026-06-26: #6, +1021⭐
   - 2026-06-25: #5, +693⭐
   - 2026-06-24: #12, +827⭐
-  - 2026-06-23: #14, +63⭐
 
 ## 相关项目
 
-[[mattpocock-skills]] [[calesthio-openmontage]] [[grafana-grafana]] [[garrytan-gstack]] [[shanraisshan-claude-code-best-practice]]
+[[mattpocock-skills]] [[every-app-open-seo]] [[ripienaar-free-for-dev]] [[shanraisshan-claude-code-best-practice]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

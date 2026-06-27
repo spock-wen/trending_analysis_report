@@ -33,7 +33,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[obra-superpowers]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[panniantong-agent-reach]]
+[[hugohe3-ppt-master]] [[topoteretes-cognee]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[erp]]
 

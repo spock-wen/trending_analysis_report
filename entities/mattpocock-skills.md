@@ -37,7 +37,7 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[garrytan-gstack]] [[obra-superpowers]]
+[[msitarzewski-agency-agents]] [[jcodesmore-ai-website-cloner-template]] [[mukul975-anthropic-cybersecurity-skills]] [[hkuds-vibe-trading]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -34,7 +34,7 @@ Data Engineering Zoomcamp is a free 9-week course on building production-ready d
 
 ## 相关项目
 
-[[nvidia-cosmos]] [[opendatalab-mineru]] [[calesthio-openmontage]] [[freecodecamp-freecodecamp]] [[grafana-grafana]]
+[[rohitg00-ai-engineering-from-scratch]] [[nvidia-cosmos]] [[calesthio-openmontage]] [[grafana-grafana]] [[owainlewis-awesome-artificial-intelligence]]
 
 **所属领域**: [[data]] [[education]]
 

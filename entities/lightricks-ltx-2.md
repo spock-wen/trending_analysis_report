@@ -34,7 +34,7 @@ Official Python inference and LoRA trainer package for the LTX-2 audio–video g
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[music-assistant-server]] [[garrytan-gstack]] [[panniantong-agent-reach]]
+[[topoteretes-cognee]] [[hugohe3-ppt-master]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

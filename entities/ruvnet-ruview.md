@@ -37,5 +37,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[n0-computer-iroh]] [[tursodatabase-turso]] [[grafana-grafana]] [[ripienaar-free-for-dev]] [[bytedance-ui-tars-desktop]]
+[[ripienaar-free-for-dev]] [[grafana-grafana]] [[tw93-pake]] [[koala73-worldmonitor]] [[bytedance-ui-tars-desktop]]
+
+**所属领域**: [[devops]]
 

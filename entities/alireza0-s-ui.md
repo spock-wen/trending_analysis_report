@@ -33,7 +33,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[kunchenguid-no-mistakes]] [[shanraisshan-claude-code-best-practice]] [[alibaba-page-agent]] [[ripienaar-free-for-dev]]
+[[ripienaar-free-for-dev]] [[shanraisshan-claude-code-best-practice]] [[jcodesmore-ai-website-cloner-template]] [[masterking32-masterdnsvpn]] [[kenn-io-agentsview]]
 
 **所属领域**: [[web]]
 

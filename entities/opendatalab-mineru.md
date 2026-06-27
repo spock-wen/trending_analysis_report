@@ -34,7 +34,7 @@ Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[grafana-grafana]] [[garrytan-gstack]] [[panniantong-agent-reach]]
+[[calesthio-openmontage]] [[grafana-grafana]] [[topoteretes-cognee]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

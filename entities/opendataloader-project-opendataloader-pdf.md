@@ -33,7 +33,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[opendatalab-mineru]] [[calesthio-openmontage]] [[grafana-grafana]] [[garrytan-gstack]] [[github-copilot-sdk]]
+[[calesthio-openmontage]] [[github-copilot-sdk]] [[grafana-grafana]] [[krahets-hello-algo]] [[keycloak-keycloak]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

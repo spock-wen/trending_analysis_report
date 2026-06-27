@@ -35,7 +35,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[opendatalab-mineru]] [[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[grafana-grafana]] [[santifer-career-ops]]
+[[calesthio-openmontage]] [[grafana-grafana]] [[topoteretes-cognee]] [[hugohe3-ppt-master]] [[universal-debloater-alliance-universal-android-debloater-next-generation]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

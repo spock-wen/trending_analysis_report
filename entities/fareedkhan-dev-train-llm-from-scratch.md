@@ -36,7 +36,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[opendatalab-mineru]] [[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[grafana-grafana]] [[garrytan-gstack]]
+[[calesthio-openmontage]] [[grafana-grafana]] [[topoteretes-cognee]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

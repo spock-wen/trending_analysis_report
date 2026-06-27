@@ -34,7 +34,7 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[grafana-grafana]] [[garrytan-gstack]] [[panniantong-agent-reach]]
+[[every-app-open-seo]] [[jcodesmore-ai-website-cloner-template]] [[hkuds-vibe-trading]] [[luongnv89-claude-howto]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]]
 

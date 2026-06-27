@@ -37,7 +37,7 @@ World's first open-source, agentic video production system. 12 pipelines, 52 too
 
 ## 相关项目
 
-[[opendatalab-mineru]] [[xbtlin-ai-berkshire]] [[grafana-grafana]] [[garrytan-gstack]] [[panniantong-agent-reach]]
+[[grafana-grafana]] [[topoteretes-cognee]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

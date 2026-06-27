@@ -35,7 +35,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[n0-computer-iroh]] [[tursodatabase-turso]] [[calesthio-openmontage]] [[garrytan-gstack]] [[panniantong-agent-reach]]
+[[tw93-pake]] [[hkuds-vibe-trading]] [[luongnv89-claude-howto]] [[1jehuang-jcode]] [[anil-matcha-open-generative-ai]]
 
 **所属领域**: [[ai-agent]]
 

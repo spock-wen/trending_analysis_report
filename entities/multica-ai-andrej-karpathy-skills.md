@@ -37,7 +37,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[garrytan-gstack]] [[calesthio-openmontage]] [[alchaincyf-zhangxuefeng-skill]]
+[[hkuds-vibe-trading]] [[luongnv89-claude-howto]] [[garrytan-gstack]] [[anil-matcha-open-generative-ai]]
 
 **所属领域**: [[ai-agent]]
 

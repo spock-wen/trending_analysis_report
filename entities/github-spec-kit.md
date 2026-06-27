@@ -34,5 +34,5 @@ Toolkit to help you get started with Spec-Driven Development
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[aws-agent-toolkit-for-aws]]
+[[hkuds-vibe-trading]] [[luongnv89-claude-howto]] [[xbtlin-ai-berkshire]] [[topoteretes-cognee]]
 

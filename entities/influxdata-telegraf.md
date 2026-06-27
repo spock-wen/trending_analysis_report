@@ -34,7 +34,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[opendatalab-mineru]] [[kunchenguid-no-mistakes]] [[calesthio-openmontage]] [[grafana-grafana]] [[garrytan-gstack]]
+[[calesthio-openmontage]] [[grafana-grafana]] [[masterking32-masterdnsvpn]] [[kenn-io-agentsview]] [[kunchenguid-no-mistakes]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -33,7 +33,7 @@ Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[calesthio-openmontage]] [[grafana-grafana]] [[garrytan-gstack]] [[shanraisshan-claude-code-best-practice]]
+[[ripienaar-free-for-dev]] [[revfactory-harness]] [[grafana-grafana]] [[shanraisshan-claude-code-best-practice]] [[jcodesmore-ai-website-cloner-template]]
 
-**所属领域**: [[ai-agent]] [[web]]
+**所属领域**: [[ai-agent]] [[web]] [[devops]]
 

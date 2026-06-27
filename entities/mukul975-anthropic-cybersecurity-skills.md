@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[mattpocock-skills]] [[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]]
+[[mattpocock-skills]] [[topoteretes-cognee]] [[jcodesmore-ai-website-cloner-template]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

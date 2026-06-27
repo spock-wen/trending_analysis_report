@@ -37,7 +37,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[garrytan-gstack]] [[calesthio-openmontage]] [[alchaincyf-zhangxuefeng-skill]]
+[[hkuds-vibe-trading]] [[luongnv89-claude-howto]] [[garrytan-gstack]] [[anil-matcha-open-generative-ai]]
 
 **所属领域**: [[ai-agent]]
 

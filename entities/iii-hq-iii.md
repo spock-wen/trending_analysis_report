@@ -33,5 +33,5 @@ Effortlessly compose, extend, and observe every service in real-time for the fir
 
 ## 相关项目
 
-[[n0-computer-iroh]] [[tw93-pake]] [[tursodatabase-turso]] [[1jehuang-jcode]]
+[[tw93-pake]] [[1jehuang-jcode]] [[dbt-labs-dbt-core]] [[tursodatabase-turso]]
 

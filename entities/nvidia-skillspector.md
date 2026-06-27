@@ -36,7 +36,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]] [[mukul975-anthropic-cybersecurity-skills]] [[panniantong-agent-reach]]
+[[topoteretes-cognee]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[xbtlin-ai-berkshire]] [[mukul975-anthropic-cybersecurity-skills]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

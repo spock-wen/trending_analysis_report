@@ -33,7 +33,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[xbtlin-ai-berkshire]] [[calesthio-openmontage]] [[garrytan-gstack]] [[shanraisshan-claude-code-best-practice]]
+[[ripienaar-free-for-dev]] [[revfactory-harness]] [[bytedance-deer-flow]] [[nousresearch-hermes-agent]] [[shanraisshan-claude-code-best-practice]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

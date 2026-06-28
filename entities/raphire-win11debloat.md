@@ -33,7 +33,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[mukul975-anthropic-cybersecurity-skills]]
+[[mattpocock-skills]] [[jcodesmore-ai-website-cloner-template]] [[panniantong-agent-reach]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[cli]]
 

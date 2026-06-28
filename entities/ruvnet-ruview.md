@@ -37,7 +37,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[grafana-grafana]] [[tw93-pake]] [[koala73-worldmonitor]] [[bytedance-ui-tars-desktop]]
+[[grafana-grafana]] [[tw93-pake]] [[ripienaar-free-for-dev]] [[tursodatabase-turso]] [[bytedance-ui-tars-desktop]]
 
 **所属领域**: [[devops]]
 

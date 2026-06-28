@@ -37,7 +37,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[mattpocock-skills]] [[every-app-open-seo]] [[owainlewis-awesome-artificial-intelligence]] [[rohitg00-ai-engineering-from-scratch]] [[jcodesmore-ai-website-cloner-template]]
+[[freecodecamp-freecodecamp]] [[panniantong-agent-reach]] [[byoungd-english-level-up-tips]] [[garrytan-gstack]] [[opendatalab-mineru]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

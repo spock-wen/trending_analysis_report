@@ -35,7 +35,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[mattpocock-skills]] [[topoteretes-cognee]] [[hugohe3-ppt-master]] [[jcodesmore-ai-website-cloner-template]] [[xbtlin-ai-berkshire]]
+[[jamiepine-voicebox]] [[commaai-openpilot]] [[panniantong-agent-reach]] [[altic-dev-fluidvoice]] [[opendatalab-mineru]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

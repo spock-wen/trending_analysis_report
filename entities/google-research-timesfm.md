@@ -36,7 +36,7 @@ TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[nousresearch-hermes-agent]] [[topoteretes-cognee]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]]
+[[affaan-m-ecc]] [[commaai-openpilot]] [[nousresearch-hermes-agent]] [[opendatalab-mineru]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

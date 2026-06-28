@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[every-app-open-seo]] [[ripienaar-free-for-dev]] [[shanraisshan-claude-code-best-practice]] [[hugohe3-ppt-master]] [[jcodesmore-ai-website-cloner-template]]
+[[jamiepine-voicebox]] [[ripienaar-free-for-dev]] [[altic-dev-fluidvoice]] [[garrytan-gstack]] [[opendatalab-mineru]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

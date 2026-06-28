@@ -34,7 +34,7 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[mattpocock-skills]] [[every-app-open-seo]] [[ripienaar-free-for-dev]] [[shanraisshan-claude-code-best-practice]] [[jcodesmore-ai-website-cloner-template]]
+[[ripienaar-free-for-dev]] [[panniantong-agent-reach]] [[garrytan-gstack]] [[opendatalab-mineru]] [[every-app-open-seo]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

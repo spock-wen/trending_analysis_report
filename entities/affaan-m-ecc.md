@@ -37,7 +37,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[santifer-career-ops]] [[bytedance-deer-flow]] [[nousresearch-hermes-agent]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[xbtlin-ai-berkshire]]
+[[keycloak-keycloak]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[nousresearch-hermes-agent]] [[opendatalab-mineru]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

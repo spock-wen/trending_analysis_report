@@ -33,7 +33,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[grafana-grafana]] [[tw93-pake]] [[opendatalab-mineru]] [[1jehuang-jcode]]
+[[tw93-pake]] [[opendatalab-mineru]] [[tursodatabase-turso]] [[deusdata-codebase-memory-mcp]] [[1jehuang-jcode]]
 
 **所属领域**: [[data]]
 

@@ -37,7 +37,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[luongnv89-claude-howto]] [[garrytan-gstack]] [[anil-matcha-open-generative-ai]]
+[[deusdata-codebase-memory-mcp]] [[hkuds-vibe-trading]] [[opendatalab-mineru]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]]
 

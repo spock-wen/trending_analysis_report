@@ -34,7 +34,7 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[grafana-grafana]] [[topoteretes-cognee]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]]
+[[commaai-openpilot]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[deusdata-codebase-memory-mcp]] [[dbt-labs-dbt-core]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -34,7 +34,7 @@ Find the local LLM that actually runs and performs best on your hardware. Ranked
 
 ## 相关项目
 
-[[mattpocock-skills]] [[topoteretes-cognee]] [[jcodesmore-ai-website-cloner-template]] [[xbtlin-ai-berkshire]] [[mukul975-anthropic-cybersecurity-skills]]
+[[commaai-openpilot]] [[panniantong-agent-reach]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

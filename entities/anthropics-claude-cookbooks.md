@@ -33,7 +33,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[nvidia-cosmos]] [[stefan-jansen-machine-learning-for-trading]] [[hkuds-vibe-trading]] [[luongnv89-claude-howto]] [[anil-matcha-open-generative-ai]]
+[[stefan-jansen-machine-learning-for-trading]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[deusdata-codebase-memory-mcp]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

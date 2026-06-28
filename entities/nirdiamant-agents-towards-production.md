@@ -33,7 +33,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[grafana-grafana]] [[hugohe3-ppt-master]] [[bytedance-ui-tars-desktop]] [[lyogavin-airllm]]
+[[opendatalab-mineru]] [[hkuds-vibe-trading]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[koala73-worldmonitor]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

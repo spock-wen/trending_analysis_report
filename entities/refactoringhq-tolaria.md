@@ -37,5 +37,5 @@ Desktop app to manage markdown knowledge bases
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[every-app-open-seo]] [[anomalyco-opencode]] [[garrytan-gstack]]
+[[anomalyco-opencode]] [[jcodesmore-ai-website-cloner-template]] [[every-app-open-seo]] [[garrytan-gstack]]
 

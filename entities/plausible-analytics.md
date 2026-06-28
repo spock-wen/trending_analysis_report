@@ -34,7 +34,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[calesthio-openmontage]] [[grafana-grafana]] [[shanraisshan-claude-code-best-practice]] [[jcodesmore-ai-website-cloner-template]]
+[[keycloak-keycloak]] [[affaan-m-ecc]] [[ripienaar-free-for-dev]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[teslamate-org-teslamate]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

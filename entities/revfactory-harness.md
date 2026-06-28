@@ -37,7 +37,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[shanraisshan-claude-code-best-practice]] [[jcodesmore-ai-website-cloner-template]] [[aishwaryanr-awesome-generative-ai-guide]] [[alibaba-page-agent]]
+[[ripienaar-free-for-dev]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[browser-use-video-use]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

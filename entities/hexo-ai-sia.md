@@ -33,7 +33,7 @@ SIA is a Self Improving AI framework to autonomously improve the performance of 
 
 ## 相关项目
 
-[[topoteretes-cognee]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]] [[luongnv89-claude-howto]] [[anil-matcha-open-generative-ai]]
+[[commaai-openpilot]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[deusdata-codebase-memory-mcp]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]]
 

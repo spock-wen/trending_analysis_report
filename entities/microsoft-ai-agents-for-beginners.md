@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[nvidia-cosmos]] [[owainlewis-awesome-artificial-intelligence]] [[stefan-jansen-machine-learning-for-trading]] [[hkuds-vibe-trading]]
+[[stefan-jansen-machine-learning-for-trading]] [[freecodecamp-freecodecamp]] [[byoungd-english-level-up-tips]] [[opendatalab-mineru]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

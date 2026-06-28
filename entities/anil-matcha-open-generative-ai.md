@@ -34,17 +34,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[santifer-career-ops]] [[hugohe3-ppt-master]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[hkuds-vibe-trading]] [[openbmb-voxcpm]]
+[[universal-debloater-alliance-universal-android-debloater-next-generation]] [[affaan-m-ecc]] [[opendatalab-mineru]] [[openbmb-voxcpm]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
-
-
-## ⚠️ 描述变更（2026-06-28）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
-- **新描述**: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

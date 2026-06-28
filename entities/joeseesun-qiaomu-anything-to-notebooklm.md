@@ -34,7 +34,7 @@ Claude Skill: Multi-source content processor for NotebookLM.
 
 ## 相关项目
 
-[[topoteretes-cognee]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]] [[luongnv89-claude-howto]] [[anil-matcha-open-generative-ai]]
+[[commaai-openpilot]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[deusdata-codebase-memory-mcp]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]]
 

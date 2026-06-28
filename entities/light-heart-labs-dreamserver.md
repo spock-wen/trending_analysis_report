@@ -33,7 +33,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[topoteretes-cognee]] [[hugohe3-ppt-master]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]]
+[[universal-debloater-alliance-universal-android-debloater-next-generation]] [[jamiepine-voicebox]] [[commaai-openpilot]] [[altic-dev-fluidvoice]] [[opendatalab-mineru]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

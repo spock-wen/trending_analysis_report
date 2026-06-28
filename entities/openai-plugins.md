@@ -37,7 +37,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[santifer-career-ops]] [[hkuds-vibe-trading]] [[luongnv89-claude-howto]] [[anil-matcha-open-generative-ai]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[opendatalab-mineru]] [[santifer-career-ops]] [[hkuds-vibe-trading]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]]
 

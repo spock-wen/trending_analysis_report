@@ -37,7 +37,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[mattpocock-skills]] [[msitarzewski-agency-agents]] [[hugohe3-ppt-master]] [[jcodesmore-ai-website-cloner-template]] [[mukul975-anthropic-cybersecurity-skills]]
+[[addyosmani-agent-skills]] [[msitarzewski-agency-agents]] [[panniantong-agent-reach]] [[opendatalab-mineru]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

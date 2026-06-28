@@ -37,7 +37,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[every-app-open-seo]] [[owainlewis-awesome-artificial-intelligence]] [[jcodesmore-ai-website-cloner-template]] [[anomalyco-opencode]]
+[[byoungd-english-level-up-tips]] [[garrytan-gstack]] [[every-app-open-seo]] [[rohitg00-ai-engineering-from-scratch]] [[anomalyco-opencode]]
 
 **所属领域**: [[education]]
 

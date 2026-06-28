@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[topoteretes-cognee]] [[jcodesmore-ai-website-cloner-template]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[xbtlin-ai-berkshire]]
+[[keycloak-keycloak]] [[affaan-m-ecc]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[commaai-openpilot]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

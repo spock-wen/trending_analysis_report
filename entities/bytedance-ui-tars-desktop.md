@@ -33,7 +33,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[every-app-open-seo]] [[ripienaar-free-for-dev]] [[grafana-grafana]] [[jcodesmore-ai-website-cloner-template]] [[hkuds-vibe-trading]]
+[[grafana-grafana]] [[ripienaar-free-for-dev]] [[koala73-worldmonitor]] [[garrytan-gstack]] [[opendatalab-mineru]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

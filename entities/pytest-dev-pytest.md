@@ -33,5 +33,5 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[luongnv89-claude-howto]] [[xbtlin-ai-berkshire]] [[topoteretes-cognee]]
+[[opendatalab-mineru]] [[commaai-openpilot]] [[hkuds-vibe-trading]] [[xbtlin-ai-berkshire]]
 

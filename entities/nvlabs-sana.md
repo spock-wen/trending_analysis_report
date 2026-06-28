@@ -33,7 +33,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[topoteretes-cognee]] [[hugohe3-ppt-master]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]]
+[[universal-debloater-alliance-universal-android-debloater-next-generation]] [[commaai-openpilot]] [[opendatalab-mineru]] [[openbmb-voxcpm]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[image-gen]]
 

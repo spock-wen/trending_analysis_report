@@ -35,5 +35,5 @@ We write your reusable computer vision tools. 💜
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[luongnv89-claude-howto]] [[xbtlin-ai-berkshire]] [[topoteretes-cognee]]
+[[opendatalab-mineru]] [[commaai-openpilot]] [[hkuds-vibe-trading]] [[xbtlin-ai-berkshire]]
 

@@ -34,7 +34,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[mattpocock-skills]] [[ripienaar-free-for-dev]] [[shanraisshan-claude-code-best-practice]] [[jcodesmore-ai-website-cloner-template]] [[mukul975-anthropic-cybersecurity-skills]]
+[[ripienaar-free-for-dev]] [[panniantong-agent-reach]] [[browser-use-video-use]] [[mattpocock-skills]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

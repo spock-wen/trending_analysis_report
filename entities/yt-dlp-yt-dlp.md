@@ -33,7 +33,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[mattpocock-skills]] [[topoteretes-cognee]] [[hugohe3-ppt-master]] [[jcodesmore-ai-website-cloner-template]] [[xbtlin-ai-berkshire]]
+[[jamiepine-voicebox]] [[commaai-openpilot]] [[panniantong-agent-reach]] [[altic-dev-fluidvoice]] [[opendatalab-mineru]]
 
 **所属领域**: [[cli]] [[audio]]
 

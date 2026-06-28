@@ -37,7 +37,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[topoteretes-cognee]] [[hugohe3-ppt-master]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]]
+[[universal-debloater-alliance-universal-android-debloater-next-generation]] [[jamiepine-voicebox]] [[commaai-openpilot]] [[altic-dev-fluidvoice]] [[opendatalab-mineru]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

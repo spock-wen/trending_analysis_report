@@ -33,7 +33,7 @@ No description
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[owainlewis-awesome-artificial-intelligence]] [[topoteretes-cognee]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]]
+[[freecodecamp-freecodecamp]] [[commaai-openpilot]] [[byoungd-english-level-up-tips]] [[opendatalab-mineru]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

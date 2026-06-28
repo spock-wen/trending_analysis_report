@@ -34,7 +34,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[grafana-grafana]] [[masterking32-masterdnsvpn]] [[kunchenguid-no-mistakes]] [[hkuds-vibe-trading]]
+[[opendatalab-mineru]] [[hkuds-vibe-trading]] [[icewhaletech-casaos]] [[deusdata-codebase-memory-mcp]] [[kunchenguid-no-mistakes]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -35,7 +35,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[hkuds-vibe-trading]] [[openbmb-voxcpm]] [[luongnv89-claude-howto]]
+[[universal-debloater-alliance-universal-android-debloater-next-generation]] [[affaan-m-ecc]] [[opendatalab-mineru]] [[openbmb-voxcpm]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

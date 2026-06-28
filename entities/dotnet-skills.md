@@ -36,7 +36,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[itsfatduck-optimizerduck]] [[openclaw-openclaw-windows-node]] [[hkuds-vibe-trading]] [[luongnv89-claude-howto]] [[anil-matcha-open-generative-ai]]
+[[itsfatduck-optimizerduck]] [[dotnet-aspnetcore]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]]
 

@@ -33,7 +33,7 @@ AI generates a real, editable PowerPoint from any document — native shapes & a
 
 ## 相关项目
 
-[[topoteretes-cognee]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]] [[openbmb-voxcpm]]
+[[universal-debloater-alliance-universal-android-debloater-next-generation]] [[jamiepine-voicebox]] [[commaai-openpilot]] [[altic-dev-fluidvoice]] [[opendatalab-mineru]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[image-gen]] [[audio]]
 

@@ -33,7 +33,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[revfactory-harness]] [[bytedance-deer-flow]] [[nousresearch-hermes-agent]] [[shanraisshan-claude-code-best-practice]]
+[[affaan-m-ecc]] [[ripienaar-free-for-dev]] [[nousresearch-hermes-agent]] [[opendatalab-mineru]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

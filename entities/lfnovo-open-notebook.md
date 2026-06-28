@@ -36,5 +36,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[every-app-open-seo]] [[anomalyco-opencode]] [[garrytan-gstack]]
+[[anomalyco-opencode]] [[jcodesmore-ai-website-cloner-template]] [[every-app-open-seo]] [[garrytan-gstack]]
 

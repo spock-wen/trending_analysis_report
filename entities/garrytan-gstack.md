@@ -37,7 +37,7 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 
 ## 相关项目
 
-[[every-app-open-seo]] [[jcodesmore-ai-website-cloner-template]] [[hkuds-vibe-trading]] [[luongnv89-claude-howto]] [[anomalyco-opencode]]
+[[opendatalab-mineru]] [[every-app-open-seo]] [[hkuds-vibe-trading]] [[deusdata-codebase-memory-mcp]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]]
 

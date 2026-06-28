@@ -37,7 +37,7 @@ The open alternative to Salesforce, designed for AI.
 
 ## 相关项目
 
-[[every-app-open-seo]] [[jcodesmore-ai-website-cloner-template]] [[hkuds-vibe-trading]] [[luongnv89-claude-howto]] [[anomalyco-opencode]]
+[[garrytan-gstack]] [[opendatalab-mineru]] [[every-app-open-seo]] [[hkuds-vibe-trading]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]]
 

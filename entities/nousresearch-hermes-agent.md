@@ -37,7 +37,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[topoteretes-cognee]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]] [[luongnv89-claude-howto]]
+[[affaan-m-ecc]] [[commaai-openpilot]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[bytedance-deer-flow]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

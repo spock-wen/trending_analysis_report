@@ -35,7 +35,7 @@ A visual, example-driven guide to Claude Code — from basic concepts to advance
 
 ## 相关项目
 
-[[topoteretes-cognee]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]] [[anil-matcha-open-generative-ai]] [[garrytan-gstack]]
+[[commaai-openpilot]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[deusdata-codebase-memory-mcp]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]]
 

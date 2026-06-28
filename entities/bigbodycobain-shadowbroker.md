@@ -34,7 +34,7 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[grafana-grafana]] [[topoteretes-cognee]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]]
+[[commaai-openpilot]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[deusdata-codebase-memory-mcp]] [[dbt-labs-dbt-core]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

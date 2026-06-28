@@ -37,7 +37,7 @@ Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
 
 ## 相关项目
 
-[[mattpocock-skills]] [[msitarzewski-agency-agents]] [[jcodesmore-ai-website-cloner-template]] [[mukul975-anthropic-cybersecurity-skills]] [[hkuds-vibe-trading]]
+[[addyosmani-agent-skills]] [[msitarzewski-agency-agents]] [[panniantong-agent-reach]] [[opendatalab-mineru]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -33,7 +33,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[nousresearch-hermes-agent]] [[topoteretes-cognee]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]]
+[[affaan-m-ecc]] [[commaai-openpilot]] [[nousresearch-hermes-agent]] [[opendatalab-mineru]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[science]]
 

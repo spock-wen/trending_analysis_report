@@ -35,7 +35,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[tw93-pake]] [[hkuds-vibe-trading]] [[luongnv89-claude-howto]] [[1jehuang-jcode]] [[anil-matcha-open-generative-ai]]
+[[tw93-pake]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[tursodatabase-turso]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]]
 

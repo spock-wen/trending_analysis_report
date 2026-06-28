@@ -37,7 +37,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[mattpocock-skills]] [[msitarzewski-agency-agents]] [[jcodesmore-ai-website-cloner-template]] [[mukul975-anthropic-cybersecurity-skills]] [[hkuds-vibe-trading]]
+[[msitarzewski-agency-agents]] [[panniantong-agent-reach]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

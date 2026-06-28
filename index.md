@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-06-28 | 总页面：260
+> 最后更新：2026-06-29 | 总页面：266
 
 ## Entities
 
@@ -18,11 +18,12 @@
 - [[alibaba-zvec|zvec"]] — A lightweight, lightning-fast, in-process vector database
 - [[alireza0-s-ui|s-ui"]] — An advanced Web Panel • Built for SagerNet/Sing-Box
 - [[alishahryar1-free-claude-code|free-claude-code"]] — Use claude-code for free in the terminal, VSCode extension o... 🆕
+- [[altic-dev-fluidvoice|FluidVoice"]] — FluidVoice - Fastest macOS Offline Dictation app - Voice to ... 🆕
 - [[andreknieriem-headunit-revived|headunit-revived"]] — Headunit App for displaying Android Auto
 - [[andrewyng-aisuite|aisuite"]] — Simple, unified interface to multiple Generative AI provider... 🆕
 - [[andyyyy64-whichllm|whichllm"]] — Find the local LLM that actually runs and performs best on y... 🆕
 - [[anil-matcha-open-generative-ai|Open-Generative-AI"]] — Unrestricted Open-source alternative to AI video platforms —...
-- [[anomalyco-opencode|opencode"]] — The open source coding agent. 🆕
+- [[anomalyco-opencode|opencode"]] — The open source coding agent.
 - [[anthropics-claude-code|claude-code"]] — Claude Code is an agentic coding tool that lives in your ter... 🔥
 - [[anthropics-claude-cookbooks|claude-cookbooks"]] — A collection of notebooks/recipes showcasing some fun and ef...
 - [[anthropics-claude-plugins-official|claude-plugins-official"]] — Official, Anthropic-managed directory of high quality Claude...
@@ -37,9 +38,11 @@
 - [[bigbodycobain-shadowbroker|Shadowbroker"]] — Open-source intelligence for the global theater. Track every... 🆕
 - [[biohub-esm|esm"]] — No description
 - [[blakeblackshear-frigate|frigate"]] — NVR with realtime local object detection for IP cameras 🆕
+- [[browser-use-video-use|video-use"]] — Edit videos with coding agents 🆕
 - [[builderio-agent-native|agent-native"]] — A framework for building agent-native applications.
 - [[byjoey-cfnew|cfnew"]] — No description
 - [[byoungd-english-level-up-tips|English-level-up-tips"]] — An advanced guide to learn English which might benefit you a...
+- [[bytebytegohq-system-design-101|system-design-101"]] — Explain complex systems using visuals and simple terms. Help... 🆕
 - [[bytedance-deer-flow|deer-flow"]] — An open-source long-horizon SuperAgent harness that research... 🔥
 - [[bytedance-ui-tars-desktop|UI-TARS-desktop"]] — The Open-Source Multimodal AI Agent Stack: Connecting Cuttin...
 - [[calesthio-openmontage|OpenMontage"]] — World's first open-source, agentic video production system. ... 🔥
@@ -52,17 +55,18 @@
 - [[cloakhq-cloakbrowser|CloakBrowser"]] — Stealth Chromium that passes every bot detection test. Drop-... 🆕
 - [[codecrafters-io-build-your-own-x|build-your-own-x"]] — Master programming by recreating your favorite technologies ... 🔥
 - [[colbymchenry-codegraph|codegraph"]] — Pre-indexed code knowledge graph for Claude Code, Codex, Cur... 🔥
-- [[commaai-openpilot|openpilot"]] — openpilot is an operating system for robotics. Currently, it... 🆕
+- [[commaai-openpilot|openpilot"]] — openpilot is an operating system for robotics. Currently, it... 🔥
 - [[continuedev-continue|continue"]] — open-source coding agent
 - [[copilotkit-copilotkit|CopilotKit"]] — The Frontend Stack for Agents & Generative UI. React, Angula...
 - [[crosstalk-solutions-project-nomad|project-nomad"]] — Project N.O.M.A.D, is a self-contained, offline survival com...
+- [[cupy-cupy|cupy"]] — NumPy & SciPy for GPU 🆕
 - [[cursor-plugins|plugins"]] — Cursor plugin specification and official plugins 🆕
 - [[cypress-io-cypress|cypress"]] — Fast, easy and reliable testing for anything that runs in a ...
 - [[czlonkowski-n8n-mcp|n8n-mcp"]] — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor t... 🆕
 - [[d4vinci-scrapling|Scrapling"]] — 🕷️ An adaptive Web Scraping framework that handles everythin... 🔥
 - [[datatalksclub-data-engineering-zoomcamp|data-engineering-zoomcamp"]] — Data Engineering Zoomcamp is a free 9-week course on buildin... 🆕
-- [[dbt-labs-dbt-core|dbt-core"]] — dbt enables data analysts and engineers to transform their d... 🆕
-- [[deusdata-codebase-memory-mcp|codebase-memory-mcp"]] — High-performance code intelligence MCP server. Indexes codeb... 🔥
+- [[dbt-labs-dbt-core|dbt-core"]] — dbt enables data analysts and engineers to transform their d...
+- [[deusdata-codebase-memory-mcp|codebase-memory-mcp"]] — High-performance code intelligence MCP server. Indexes codeb...
 - [[digitalplatdev-freedomain|FreeDomain"]] — DigitalPlat FreeDomain: Free Domain For Everyone 🔥
 - [[diolinux-photogimp|PhotoGIMP"]] — A Patch for GIMP 3+ for Photoshop Users
 - [[dmtrkovalenko-fff|fff"]] — The fastest and the most accurate file search toolkit for AI...
@@ -77,7 +81,7 @@
 - [[fareedkhan-dev-train-llm-from-scratch|train-llm-from-scratch"]] — A straightforward method for training your LLM, from downloa...
 - [[fincept-corporation-finceptterminal|FinceptTerminal"]] — FinceptTerminal is a modern finance application offering adv...
 - [[firecrawl-firecrawl|firecrawl"]] — The API to search, scrape, and interact with the web at scal...
-- [[fission-ai-openspec|OpenSpec"]] — Spec-driven development (SDD) for AI coding assistants. 🆕
+- [[fission-ai-openspec|OpenSpec"]] — Spec-driven development (SDD) for AI coding assistants.
 - [[flowseal-zapret-discord-youtube|zapret-discord-youtube"]] — No description
 - [[flutter-flutter|flutter"]] — Flutter makes it easy and fast to build beautiful apps for m...
 - [[francescopace-espectre|espectre"]] — 🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectr...
@@ -99,9 +103,9 @@
 - [[hexo-ai-sia|sia"]] — SIA is a Self Improving AI framework to autonomously improve...
 - [[heygen-com-hyperframes|hyperframes"]] — Write HTML. Render video. Built for agents.
 - [[hkuds-cli-anything|CLI-Anything"]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:... 🔥
-- [[hkuds-vibe-trading|Vibe-Trading"]] — "Vibe-Trading: Your Personal Trading Agent"
+- [[hkuds-vibe-trading|Vibe-Trading"]] — "Vibe-Trading: Your Personal Trading Agent" 🆕
 - [[hkuds-vimax|ViMax"]] — "ViMax: Agentic Video Generation (Director, Screenwriter, Pr... 🆕
-- [[hugohe3-ppt-master|ppt-master"]] — AI generates a real, editable PowerPoint from any document —... 🆕
+- [[hugohe3-ppt-master|ppt-master"]] — AI generates a real, editable PowerPoint from any document —...
 - [[humanlayer-12-factor-agents|12-factor-agents"]] — What are the principles we can use to build LLM-powered soft... 🆕
 - [[hunxbyts-ghosttrack|GhostTrack"]] — Useful tool to track location or mobile number
 - [[icewhaletech-casaos|CasaOS"]] — CasaOS - A simple, easy-to-use, elegant open-source Personal... 🔥
@@ -121,7 +125,7 @@
 - [[k-dense-ai-scientific-agent-skills|scientific-agent-skills"]] — A set of ready to use Agent Skills for research, science, en... 🔥
 - [[karpathy-nn-zero-to-hero|nn-zero-to-hero"]] — Neural Networks: Zero to Hero
 - [[kenn-io-agentsview|agentsview"]] — Local-first session intelligence and analytics for coding ag...
-- [[keycloak-keycloak|keycloak"]] — Open Source Identity and Access Management For Modern Applic... 🆕
+- [[keycloak-keycloak|keycloak"]] — Open Source Identity and Access Management For Modern Applic...
 - [[keygraphhq-shannon|shannon"]] — Shannon Lite is an autonomous, white-box AI pentester for we...
 - [[kilo-org-kilocode|kilocode"]] — Kilo is the all-in-one agentic engineering platform. Build, ...
 - [[knadh-listmonk|listmonk"]] — High performance, self-hosted, newsletter and mailing list m...
@@ -178,7 +182,7 @@
 - [[openbmb-voxcpm|VoxCPM"]] — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generati...
 - [[openclaw-openclaw-windows-node|openclaw-windows-node"]] — Windows companion suite for OpenClaw - System Tray app, Shar... 🆕
 - [[opencv-opencv|opencv"]] — Open Source Computer Vision Library
-- [[opendatalab-mineru|MinerU"]] — Transforms complex documents like PDFs and Office docs into ... 🆕
+- [[opendatalab-mineru|MinerU"]] — Transforms complex documents like PDFs and Office docs into ...
 - [[opendataloader-project-opendataloader-pdf|opendataloader-pdf"]] — PDF Parser for AI-ready data. Automate PDF accessibility. Op...
 - [[openmoss-moss-tts|MOSS-TTS"]] — MOSS‑TTS Family is an open‑source speech and sound generatio...
 - [[opentoonz-opentoonz|opentoonz"]] — OpenToonz - An open-source full-featured 2D animation creati...
@@ -202,8 +206,9 @@
 - [[refactoringhq-tolaria|tolaria"]] — Desktop app to manage markdown knowledge bases 🔥
 - [[restic-restic|restic"]] — Fast, secure, efficient backup program
 - [[revfactory-harness|harness"]] — A meta-skill that designs domain-specific agent teams, defin... 🆕
-- [[ripienaar-free-for-dev|free-for-dev"]] — A list of SaaS, PaaS and IaaS offerings that have free tiers... 🆕
+- [[ripienaar-free-for-dev|free-for-dev"]] — A list of SaaS, PaaS and IaaS offerings that have free tiers... 🔥
 - [[rmyndharis-openwa|OpenWA"]] — Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [[robbyant-lingbot-map|lingbot-map"]] — A feed-forward 3D foundation model for reconstructing scenes... 🆕
 - [[roboflow-supervision|supervision"]] — We write your reusable computer vision tools. 💜 🔥
 - [[rohitg00-agentmemory|agentmemory"]] — - 语言: TypeScript 🆕
 - [[rohitg00-ai-engineering-from-scratch|ai-engineering-from-scratch"]] — Learn it. Build it. Ship it for others.
@@ -214,7 +219,7 @@
 - [[santifer-career-ops|career-ops"]] — AI-powered job search system built on Claude Code. 14 skill ... 🆕
 - [[shanraisshan-claude-code-best-practice|claude-code-best-practice"]] — from vibe coding to agentic engineering - practice makes cla...
 - [[shiyu-coder-kronos|Kronos"]] — Kronos: A Foundation Model for the Language of Financial Mar... 🆕
-- [[simplex-chat-simplex-chat|simplex-chat"]] — SimpleX - the first messaging network operating without user... 🆕
+- [[simplex-chat-simplex-chat|simplex-chat"]] — SimpleX - the first messaging network operating without user... 🔥
 - [[smicallef-spiderfoot|spiderfoot"]] — SpiderFoot automates OSINT for threat intelligence and mappi...
 - [[soxoj-maigret|maigret"]] — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ s... 🆕
 - [[st-tech-ppf-contact-solver|ppf-contact-solver"]] — A contact solver for physics-based simulations involving 👚 s...
@@ -241,9 +246,10 @@
 - [[twentyhq-twenty|twenty"]] — The open alternative to Salesforce, designed for AI.
 - [[unclecode-crawl4ai|crawl4ai"]] — 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper....
 - [[universal-debloater-alliance-universal-android-debloater-next-generation|universal-android-debloater-next-generation"]] — Cross-platform GUI written in Rust using ADB to debloat non-... 🔥
+- [[usestrix-strix|strix"]] — Open-source AI hackers to find and fix your app’s vulnerabil... 🆕
 - [[withastro-flue|flue"]] — The sandbox agent framework. 🔥
 - [[x1xhlol-system-prompts-and-models-of-ai-tools|system-prompts-and-models-of-ai-tools"]] — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cu...
-- [[xbtlin-ai-berkshire|ai-berkshire"]] — AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多A... 🔥
+- [[xbtlin-ai-berkshire|ai-berkshire"]] — AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师... 🔥
 - [[yairm210-unciv|Unciv"]] — Open-source Android/Desktop remake of Civ V
 - [[yifanfeng97-hyper-extract|Hyper-Extract"]] — Transform unstructured text into structured knowledge with L...
 - [[yikart-aitoearn|AiToEarn"]] — Let's use AI to Earn!

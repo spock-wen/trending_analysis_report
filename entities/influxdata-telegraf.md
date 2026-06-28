@@ -34,7 +34,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[grafana-grafana]] [[masterking32-masterdnsvpn]] [[kenn-io-agentsview]] [[kunchenguid-no-mistakes]]
+[[opendatalab-mineru]] [[kenn-io-agentsview]] [[hkuds-vibe-trading]] [[icewhaletech-casaos]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

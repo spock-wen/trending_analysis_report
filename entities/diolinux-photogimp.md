@@ -33,7 +33,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[odoo-odoo]] [[hugohe3-ppt-master]] [[browser-use-video-use]] [[x1xhlol-system-prompts-and-models-of-ai-tools]]
+[[jcodesmore-ai-website-cloner-template]] [[obra-superpowers]] [[ripienaar-free-for-dev]] [[odoo-odoo]] [[browser-use-video-use]]
 
 **所属领域**: [[web]] [[erp]]
 

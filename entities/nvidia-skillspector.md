@@ -36,7 +36,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[keycloak-keycloak]] [[affaan-m-ecc]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[commaai-openpilot]] [[opendatalab-mineru]]
+[[keycloak-keycloak]] [[mukul975-anthropic-cybersecurity-skills]] [[veracrypt-veracrypt]] [[hkuds-vibe-trading]] [[soxoj-maigret]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

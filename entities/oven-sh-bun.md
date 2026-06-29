@@ -35,5 +35,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager al
 
 ## 相关项目
 
-[[tw93-pake]] [[1jehuang-jcode]] [[dbt-labs-dbt-core]] [[tursodatabase-turso]]
+[[1jehuang-jcode]] [[tw93-pake]] [[tursodatabase-turso]] [[dbt-labs-dbt-core]]
 

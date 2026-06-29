@@ -35,7 +35,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[garrytan-gstack]] [[opendatalab-mineru]] [[hugohe3-ppt-master]] [[every-app-open-seo]]
+[[jcodesmore-ai-website-cloner-template]] [[altic-dev-fluidvoice]] [[logto-io-logto]] [[lightricks-ltx-2]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

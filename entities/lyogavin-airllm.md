@@ -34,7 +34,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[stefan-jansen-machine-learning-for-trading]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[deusdata-codebase-memory-mcp]] [[nvidia-cosmos]]
+[[datatalksclub-data-engineering-zoomcamp]] [[xbtlin-ai-berkshire]] [[stefan-jansen-machine-learning-for-trading]] [[hkuds-vibe-trading]] [[soxoj-maigret]]
 
 **所属领域**: [[ai-agent]]
 

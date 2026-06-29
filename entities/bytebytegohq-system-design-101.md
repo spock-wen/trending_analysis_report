@@ -33,7 +33,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[hkuds-vibe-trading]] [[opendatalab-mineru]] [[xbtlin-ai-berkshire]]
+[[soxoj-maigret]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

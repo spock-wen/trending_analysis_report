@@ -35,7 +35,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[commaai-openpilot]] [[nousresearch-hermes-agent]] [[opendatalab-mineru]] [[hkuds-vibe-trading]]
+[[nousresearch-hermes-agent]] [[hkuds-vibe-trading]] [[soxoj-maigret]] [[commaai-openpilot]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

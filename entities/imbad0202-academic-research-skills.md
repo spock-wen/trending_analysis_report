@@ -36,7 +36,7 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[commaai-openpilot]] [[nousresearch-hermes-agent]] [[opendatalab-mineru]] [[hkuds-vibe-trading]]
+[[bytedance-deer-flow]] [[nousresearch-hermes-agent]] [[hkuds-vibe-trading]] [[soxoj-maigret]] [[commaai-openpilot]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

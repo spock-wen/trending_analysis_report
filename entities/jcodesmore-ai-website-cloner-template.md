@@ -37,7 +37,7 @@ Clone any website with one command using AI coding agents
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[panniantong-agent-reach]] [[garrytan-gstack]] [[opendatalab-mineru]] [[every-app-open-seo]]
+[[logto-io-logto]] [[ripienaar-free-for-dev]] [[garrytan-gstack]] [[xbtlin-ai-berkshire]] [[refactoringhq-tolaria]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

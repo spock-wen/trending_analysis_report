@@ -34,7 +34,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[freecodecamp-freecodecamp]] [[nousresearch-hermes-agent]] [[byoungd-english-level-up-tips]] [[opendatalab-mineru]]
+[[bytedance-deer-flow]] [[nousresearch-hermes-agent]] [[freecodecamp-freecodecamp]] [[hkuds-vibe-trading]] [[byoungd-english-level-up-tips]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

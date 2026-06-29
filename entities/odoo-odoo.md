@@ -34,7 +34,7 @@ Odoo. Open Source Apps To Grow Your Business.
 
 ## 相关项目
 
-[[commaai-openpilot]] [[opendatalab-mineru]] [[hugohe3-ppt-master]] [[hkuds-vibe-trading]] [[x1xhlol-system-prompts-and-models-of-ai-tools]]
+[[obra-superpowers]] [[hkuds-vibe-trading]] [[soxoj-maigret]] [[commaai-openpilot]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[erp]]
 

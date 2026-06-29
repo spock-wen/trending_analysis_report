@@ -33,5 +33,5 @@ b站会员购购票辅助工具
 
 ## 相关项目
 
-[[opendatalab-mineru]] [[commaai-openpilot]] [[hkuds-vibe-trading]] [[xbtlin-ai-berkshire]]
+[[soxoj-maigret]] [[commaai-openpilot]] [[hkuds-vibe-trading]] [[xbtlin-ai-berkshire]]
 

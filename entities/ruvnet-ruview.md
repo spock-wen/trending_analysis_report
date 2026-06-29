@@ -37,7 +37,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[grafana-grafana]] [[tw93-pake]] [[ripienaar-free-for-dev]] [[tursodatabase-turso]] [[bytedance-ui-tars-desktop]]
+[[1jehuang-jcode]] [[logto-io-logto]] [[ripienaar-free-for-dev]] [[dbt-labs-dbt-core]] [[grafana-grafana]]
 
 **所属领域**: [[devops]]
 

@@ -37,7 +37,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[commaai-openpilot]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[bytedance-deer-flow]]
+[[bytedance-deer-flow]] [[hkuds-vibe-trading]] [[soxoj-maigret]] [[commaai-openpilot]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

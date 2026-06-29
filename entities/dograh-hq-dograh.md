@@ -33,7 +33,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[commaai-openpilot]] [[altic-dev-fluidvoice]] [[opendatalab-mineru]] [[hugohe3-ppt-master]]
+[[altic-dev-fluidvoice]] [[lightricks-ltx-2]] [[jamiepine-voicebox]] [[hkuds-vibe-trading]] [[soxoj-maigret]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

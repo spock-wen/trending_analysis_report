@@ -33,7 +33,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[universal-debloater-alliance-universal-android-debloater-next-generation]] [[affaan-m-ecc]] [[github-copilot-sdk]] [[opendataloader-project-opendataloader-pdf]] [[mukul975-anthropic-cybersecurity-skills]]
+[[mukul975-anthropic-cybersecurity-skills]] [[veracrypt-veracrypt]] [[github-copilot-sdk]] [[opendataloader-project-opendataloader-pdf]] [[krahets-hello-algo]]
 
 **所属领域**: [[security]]
 

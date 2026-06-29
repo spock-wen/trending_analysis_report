@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[commaai-openpilot]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[browser-use-video-use]]
+[[jcodesmore-ai-website-cloner-template]] [[ripienaar-free-for-dev]] [[hkuds-vibe-trading]] [[soxoj-maigret]] [[commaai-openpilot]]
 
 **所属领域**: [[web]]
 

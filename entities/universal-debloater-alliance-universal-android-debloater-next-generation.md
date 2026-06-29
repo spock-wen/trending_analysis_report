@@ -35,7 +35,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[keycloak-keycloak]] [[affaan-m-ecc]] [[tw93-pake]] [[openbmb-voxcpm]] [[hugohe3-ppt-master]]
+[[1jehuang-jcode]] [[keycloak-keycloak]] [[mukul975-anthropic-cybersecurity-skills]] [[dbt-labs-dbt-core]] [[veracrypt-veracrypt]]
 
 **所属领域**: [[security]] [[image-gen]]
 

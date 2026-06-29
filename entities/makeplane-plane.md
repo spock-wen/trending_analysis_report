@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[garrytan-gstack]] [[every-app-open-seo]] [[mattpocock-skills]] [[mukul975-anthropic-cybersecurity-skills]]
+[[jcodesmore-ai-website-cloner-template]] [[logto-io-logto]] [[garrytan-gstack]] [[refactoringhq-tolaria]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]]
 

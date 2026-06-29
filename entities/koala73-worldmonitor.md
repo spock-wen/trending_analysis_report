@@ -35,7 +35,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[grafana-grafana]] [[ripienaar-free-for-dev]] [[garrytan-gstack]] [[opendatalab-mineru]] [[every-app-open-seo]]
+[[jcodesmore-ai-website-cloner-template]] [[logto-io-logto]] [[ripienaar-free-for-dev]] [[garrytan-gstack]] [[grafana-grafana]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

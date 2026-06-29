@@ -37,7 +37,7 @@ Open source repository of plugins primarily intended for knowledge workers to us
 
 ## 相关项目
 
-[[commaai-openpilot]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[deusdata-codebase-memory-mcp]] [[xbtlin-ai-berkshire]]
+[[hkuds-vibe-trading]] [[soxoj-maigret]] [[commaai-openpilot]] [[xbtlin-ai-berkshire]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

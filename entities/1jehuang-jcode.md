@@ -33,7 +33,7 @@ Coding Agent Harness
 
 ## 相关项目
 
-[[tw93-pake]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[tursodatabase-turso]] [[deusdata-codebase-memory-mcp]]
+[[dbt-labs-dbt-core]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]] [[tw93-pake]] [[tursodatabase-turso]]
 
 **所属领域**: [[ai-agent]]
 

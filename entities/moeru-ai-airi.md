@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[ripienaar-free-for-dev]] [[altic-dev-fluidvoice]] [[garrytan-gstack]] [[opendatalab-mineru]]
+[[jcodesmore-ai-website-cloner-template]] [[altic-dev-fluidvoice]] [[logto-io-logto]] [[ripienaar-free-for-dev]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

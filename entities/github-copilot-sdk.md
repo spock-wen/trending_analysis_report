@@ -34,7 +34,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[keycloak-keycloak]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[deusdata-codebase-memory-mcp]] [[opendataloader-project-opendataloader-pdf]]
+[[keycloak-keycloak]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]] [[opendataloader-project-opendataloader-pdf]] [[krahets-hello-algo]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[opendatalab-mineru]] [[kenn-io-agentsview]] [[hkuds-vibe-trading]] [[icewhaletech-casaos]] [[deusdata-codebase-memory-mcp]]
+[[robbyant-lingbot-map]] [[dbt-labs-dbt-core]] [[opendatalab-mineru]] [[xbtlin-ai-berkshire]] [[masterking32-masterdnsvpn]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

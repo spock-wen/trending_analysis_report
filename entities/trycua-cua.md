@@ -33,7 +33,7 @@ Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 
 ## 相关项目
 
-[[grafana-grafana]] [[ripienaar-free-for-dev]] [[koala73-worldmonitor]] [[opendatalab-mineru]] [[hkuds-vibe-trading]]
+[[jcodesmore-ai-website-cloner-template]] [[logto-io-logto]] [[ripienaar-free-for-dev]] [[grafana-grafana]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

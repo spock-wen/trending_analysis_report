@@ -33,7 +33,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[commaai-openpilot]] [[panniantong-agent-reach]] [[altic-dev-fluidvoice]] [[opendatalab-mineru]]
+[[jcodesmore-ai-website-cloner-template]] [[altic-dev-fluidvoice]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[jamiepine-voicebox]]
 
 **所属领域**: [[cli]] [[audio]]
 

@@ -33,7 +33,7 @@ The API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[garrytan-gstack]] [[every-app-open-seo]] [[browser-use-video-use]] [[anomalyco-opencode]]
+[[jcodesmore-ai-website-cloner-template]] [[logto-io-logto]] [[ripienaar-free-for-dev]] [[garrytan-gstack]] [[refactoringhq-tolaria]]
 
 **所属领域**: [[web]]
 

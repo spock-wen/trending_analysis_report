@@ -37,7 +37,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[freecodecamp-freecodecamp]] [[commaai-openpilot]] [[byoungd-english-level-up-tips]] [[opendatalab-mineru]] [[hkuds-vibe-trading]]
+[[owainlewis-awesome-artificial-intelligence]] [[freecodecamp-freecodecamp]] [[hkuds-vibe-trading]] [[byoungd-english-level-up-tips]] [[soxoj-maigret]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

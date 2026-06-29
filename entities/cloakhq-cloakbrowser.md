@@ -34,7 +34,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[keycloak-keycloak]] [[affaan-m-ecc]] [[ripienaar-free-for-dev]] [[commaai-openpilot]] [[universal-debloater-alliance-universal-android-debloater-next-generation]]
+[[jcodesmore-ai-website-cloner-template]] [[keycloak-keycloak]] [[mukul975-anthropic-cybersecurity-skills]] [[hugohe3-ppt-master]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

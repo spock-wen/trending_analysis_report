@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[keycloak-keycloak]] [[affaan-m-ecc]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[commaai-openpilot]] [[panniantong-agent-reach]]
+[[jcodesmore-ai-website-cloner-template]] [[keycloak-keycloak]] [[affaan-m-ecc]] [[veracrypt-veracrypt]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

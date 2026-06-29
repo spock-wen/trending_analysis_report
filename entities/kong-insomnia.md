@@ -35,7 +35,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[panniantong-agent-reach]] [[garrytan-gstack]] [[every-app-open-seo]] [[browser-use-video-use]]
+[[jcodesmore-ai-website-cloner-template]] [[logto-io-logto]] [[ripienaar-free-for-dev]] [[garrytan-gstack]] [[refactoringhq-tolaria]]
 
 **所属领域**: [[web]] [[cli]]
 

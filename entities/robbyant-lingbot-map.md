@@ -33,7 +33,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[commaai-openpilot]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[deusdata-codebase-memory-mcp]] [[dbt-labs-dbt-core]]
+[[dbt-labs-dbt-core]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[deusdata-codebase-memory-mcp]] [[soxoj-maigret]]
 
 **所属领域**: [[data]]
 

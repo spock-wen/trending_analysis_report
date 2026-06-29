@@ -1,10 +1,11 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-06-29 | 总页面：266
+> 最后更新：2026-06-30 | 总页面：270
 
 ## Entities
 
+- [[0xnyk-council-of-high-intelligence|council-of-high-intelligence"]] — 18 AI personas deliberate your hardest decisions across mult... 🆕
 - [[1jehuang-jcode|jcode"]] — Coding Agent Harness
 - [[666ghj-mirofish|MiroFish"]] — A Simple and Universal Swarm Intelligence Engine, Predicting...
 - [[aaif-goose-goose|goose"]] — an open source, extensible AI agent that goes beyond code su... 🔥
@@ -42,7 +43,7 @@
 - [[builderio-agent-native|agent-native"]] — A framework for building agent-native applications.
 - [[byjoey-cfnew|cfnew"]] — No description
 - [[byoungd-english-level-up-tips|English-level-up-tips"]] — An advanced guide to learn English which might benefit you a...
-- [[bytebytegohq-system-design-101|system-design-101"]] — Explain complex systems using visuals and simple terms. Help... 🆕
+- [[bytebytegohq-system-design-101|system-design-101"]] — Explain complex systems using visuals and simple terms. Help...
 - [[bytedance-deer-flow|deer-flow"]] — An open-source long-horizon SuperAgent harness that research... 🔥
 - [[bytedance-ui-tars-desktop|UI-TARS-desktop"]] — The Open-Source Multimodal AI Agent Stack: Connecting Cuttin...
 - [[calesthio-openmontage|OpenMontage"]] — World's first open-source, agentic video production system. ... 🔥
@@ -103,7 +104,7 @@
 - [[hexo-ai-sia|sia"]] — SIA is a Self Improving AI framework to autonomously improve...
 - [[heygen-com-hyperframes|hyperframes"]] — Write HTML. Render video. Built for agents.
 - [[hkuds-cli-anything|CLI-Anything"]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:... 🔥
-- [[hkuds-vibe-trading|Vibe-Trading"]] — "Vibe-Trading: Your Personal Trading Agent" 🆕
+- [[hkuds-vibe-trading|Vibe-Trading"]] — "Vibe-Trading: Your Personal Trading Agent" 🔥
 - [[hkuds-vimax|ViMax"]] — "ViMax: Agentic Video Generation (Director, Screenwriter, Pr... 🆕
 - [[hugohe3-ppt-master|ppt-master"]] — AI generates a real, editable PowerPoint from any document —...
 - [[humanlayer-12-factor-agents|12-factor-agents"]] — What are the principles we can use to build LLM-powered soft... 🆕
@@ -139,6 +140,7 @@
 - [[light-heart-labs-dreamserver|DreamServer"]] — Local AI anywhere, for everyone — LLM inference, chat UI, vo...
 - [[lightricks-ltx-2|LTX-2"]] — Official Python inference and LoRA trainer package for the L... 🆕
 - [[lmcache-lmcache|LMCache"]] — LMCache: Supercharge Your LLM with the Fastest KV Cache Laye... 🆕
+- [[logto-io-logto|logto"]] — 🧑‍🚀 Authentication and authorization infrastructure for SaaS... 🆕
 - [[lum1104-understand-anything|Understand-Anything"]] — Graphs that teach > graphs that impress. Turn any code into ... 🔥
 - [[luongnv89-claude-howto|claude-howto"]] — A visual, example-driven guide to Claude Code — from basic c...
 - [[lyogavin-airllm|airllm"]] — AirLLM 70B inference with single 4GB GPU
@@ -158,7 +160,7 @@
 - [[mikeroyal-self-hosting-guide|Self-Hosting-Guide"]] — Self-Hosting Guide. Learn all about locally hosting (on prem...
 - [[mikumifa-bilitickerbuy|biliTickerBuy"]] — b站会员购购票辅助工具
 - [[moeru-ai-airi|airi"]] — 💖🧸 Self hosted, you-owned Grok Companion, a container of sou...
-- [[msitarzewski-agency-agents|agency-agents"]] — A complete AI agency at your fingertips - From frontend wiza... 🆕
+- [[msitarzewski-agency-agents|agency-agents"]] — A complete AI agency at your fingertips - From frontend wiza...
 - [[mukul975-anthropic-cybersecurity-skills|Anthropic-Cybersecurity-Skills"]] — 817 structured cybersecurity skills for AI agents · Mapped t...
 - [[multica-ai-andrej-karpathy-skills|andrej-karpathy-skills"]] — A single CLAUDE.md file to improve Claude Code behavior, der... 🔥
 - [[multica-ai-multica|multica"]] — The open-source managed agents platform. Turn coding agents ... 🆕
@@ -203,12 +205,12 @@
 - [[pytest-dev-pytest|pytest"]] — The pytest framework makes it easy to write small tests, yet...
 - [[raphire-win11debloat|Win11Debloat"]] — A simple, lightweight PowerShell script that allows you to r...
 - [[reconurge-flowsint|flowsint"]] — A modern platform for visual, flexible, and extensible graph... 🆕
-- [[refactoringhq-tolaria|tolaria"]] — Desktop app to manage markdown knowledge bases 🔥
+- [[refactoringhq-tolaria|tolaria"]] — Desktop app to manage markdown knowledge bases
 - [[restic-restic|restic"]] — Fast, secure, efficient backup program
 - [[revfactory-harness|harness"]] — A meta-skill that designs domain-specific agent teams, defin... 🆕
 - [[ripienaar-free-for-dev|free-for-dev"]] — A list of SaaS, PaaS and IaaS offerings that have free tiers... 🔥
 - [[rmyndharis-openwa|OpenWA"]] — Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [[robbyant-lingbot-map|lingbot-map"]] — A feed-forward 3D foundation model for reconstructing scenes... 🆕
+- [[robbyant-lingbot-map|lingbot-map"]] — A feed-forward 3D foundation model for reconstructing scenes...
 - [[roboflow-supervision|supervision"]] — We write your reusable computer vision tools. 💜 🔥
 - [[rohitg00-agentmemory|agentmemory"]] — - 语言: TypeScript 🆕
 - [[rohitg00-ai-engineering-from-scratch|ai-engineering-from-scratch"]] — Learn it. Build it. Ship it for others.
@@ -221,7 +223,7 @@
 - [[shiyu-coder-kronos|Kronos"]] — Kronos: A Foundation Model for the Language of Financial Mar... 🆕
 - [[simplex-chat-simplex-chat|simplex-chat"]] — SimpleX - the first messaging network operating without user... 🔥
 - [[smicallef-spiderfoot|spiderfoot"]] — SpiderFoot automates OSINT for threat intelligence and mappi...
-- [[soxoj-maigret|maigret"]] — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ s... 🆕
+- [[soxoj-maigret|maigret"]] — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ s...
 - [[st-tech-ppf-contact-solver|ppf-contact-solver"]] — A contact solver for physics-based simulations involving 👚 s...
 - [[stablyai-orca|orca"]] — Orca is the ADE for working with a fleet of parallel agents....
 - [[stefan-jansen-machine-learning-for-trading|machine-learning-for-trading"]] — Code for Machine Learning for Algorithmic Trading, 2nd editi... 🆕
@@ -244,9 +246,11 @@
 - [[tursodatabase-turso|turso"]] — Turso is an in-process SQL database, compatible with SQLite. 🔥
 - [[tw93-pake|Pake"]] — 🤱🏻 Turn any webpage into a desktop app with one command. 🆕
 - [[twentyhq-twenty|twenty"]] — The open alternative to Salesforce, designed for AI.
+- [[unclecheng-li-vulnclaw|VulnClaw"]] — 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「... 🆕
 - [[unclecode-crawl4ai|crawl4ai"]] — 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper....
 - [[universal-debloater-alliance-universal-android-debloater-next-generation|universal-android-debloater-next-generation"]] — Cross-platform GUI written in Rust using ADB to debloat non-... 🔥
-- [[usestrix-strix|strix"]] — Open-source AI hackers to find and fix your app’s vulnerabil... 🆕
+- [[usestrix-strix|strix"]] — Open-source AI hackers to find and fix your app’s vulnerabil...
+- [[veracrypt-veracrypt|VeraCrypt"]] — Disk encryption with strong security based on TrueCrypt 🆕
 - [[withastro-flue|flue"]] — The sandbox agent framework. 🔥
 - [[x1xhlol-system-prompts-and-models-of-ai-tools|system-prompts-and-models-of-ai-tools"]] — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cu...
 - [[xbtlin-ai-berkshire|ai-berkshire"]] — AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师... 🔥

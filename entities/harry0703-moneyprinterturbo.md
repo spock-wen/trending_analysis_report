@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[commaai-openpilot]] [[panniantong-agent-reach]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[deusdata-codebase-memory-mcp]]
+[[jcodesmore-ai-website-cloner-template]] [[hkuds-vibe-trading]] [[panniantong-agent-reach]] [[soxoj-maigret]] [[commaai-openpilot]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

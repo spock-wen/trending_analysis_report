@@ -35,7 +35,7 @@ Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J
 
 ## 相关项目
 
-[[commaai-openpilot]] [[hkuds-vibe-trading]] [[deusdata-codebase-memory-mcp]] [[dbt-labs-dbt-core]] [[robbyant-lingbot-map]]
+[[robbyant-lingbot-map]] [[dbt-labs-dbt-core]] [[hkuds-vibe-trading]] [[deusdata-codebase-memory-mcp]] [[soxoj-maigret]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

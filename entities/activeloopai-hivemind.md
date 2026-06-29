@@ -33,7 +33,7 @@ One brain for all your agents
 
 ## 相关项目
 
-[[garrytan-gstack]] [[opendatalab-mineru]] [[every-app-open-seo]] [[hkuds-vibe-trading]] [[deusdata-codebase-memory-mcp]]
+[[jcodesmore-ai-website-cloner-template]] [[logto-io-logto]] [[garrytan-gstack]] [[xbtlin-ai-berkshire]] [[refactoringhq-tolaria]]
 
 **所属领域**: [[ai-agent]]
 

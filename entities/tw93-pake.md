@@ -34,7 +34,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[panniantong-agent-reach]] [[browser-use-video-use]] [[tursodatabase-turso]] [[1jehuang-jcode]]
+[[jcodesmore-ai-website-cloner-template]] [[1jehuang-jcode]] [[ripienaar-free-for-dev]] [[dbt-labs-dbt-core]] [[panniantong-agent-reach]]
 
 **所属领域**: [[web]] [[cli]]
 

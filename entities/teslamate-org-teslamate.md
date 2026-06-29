@@ -34,7 +34,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[opendatalab-mineru]] [[hkuds-vibe-trading]] [[plausible-analytics]] [[deusdata-codebase-memory-mcp]] [[dbt-labs-dbt-core]]
+[[robbyant-lingbot-map]] [[dbt-labs-dbt-core]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

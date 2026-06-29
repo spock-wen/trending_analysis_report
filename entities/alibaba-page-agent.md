@@ -33,7 +33,7 @@ JavaScript in-page GUI agent. Control web interfaces with natural language.
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[garrytan-gstack]] [[opendatalab-mineru]] [[every-app-open-seo]] [[hkuds-vibe-trading]]
+[[jcodesmore-ai-website-cloner-template]] [[logto-io-logto]] [[ripienaar-free-for-dev]] [[garrytan-gstack]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

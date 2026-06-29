@@ -37,7 +37,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[deusdata-codebase-memory-mcp]] [[mattpocock-skills]]
+[[jcodesmore-ai-website-cloner-template]] [[hkuds-vibe-trading]] [[panniantong-agent-reach]] [[soxoj-maigret]] [[0xnyk-council-of-high-intelligence]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -34,7 +34,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[opendatalab-mineru]] [[hkuds-vibe-trading]] [[icewhaletech-casaos]] [[deusdata-codebase-memory-mcp]] [[kunchenguid-no-mistakes]]
+[[robbyant-lingbot-map]] [[dbt-labs-dbt-core]] [[opendatalab-mineru]] [[xbtlin-ai-berkshire]] [[masterking32-masterdnsvpn]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -37,7 +37,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[ripienaar-free-for-dev]] [[commaai-openpilot]] [[nousresearch-hermes-agent]] [[opendatalab-mineru]]
+[[jcodesmore-ai-website-cloner-template]] [[bytedance-deer-flow]] [[ripienaar-free-for-dev]] [[nousresearch-hermes-agent]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

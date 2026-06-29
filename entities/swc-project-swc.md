@@ -35,7 +35,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[tw93-pake]] [[ripienaar-free-for-dev]] [[tursodatabase-turso]] [[browser-use-video-use]] [[1jehuang-jcode]]
+[[jcodesmore-ai-website-cloner-template]] [[1jehuang-jcode]] [[ripienaar-free-for-dev]] [[dbt-labs-dbt-core]] [[tw93-pake]]
 
 **所属领域**: [[web]]
 

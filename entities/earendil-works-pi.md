@@ -34,7 +34,7 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[panniantong-agent-reach]] [[garrytan-gstack]] [[opendatalab-mineru]] [[every-app-open-seo]]
+[[jcodesmore-ai-website-cloner-template]] [[logto-io-logto]] [[ripienaar-free-for-dev]] [[garrytan-gstack]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

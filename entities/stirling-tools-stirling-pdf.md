@@ -33,5 +33,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[jcodesmore-ai-website-cloner-template]] [[every-app-open-seo]] [[garrytan-gstack]]
+[[refactoringhq-tolaria]] [[logto-io-logto]] [[jcodesmore-ai-website-cloner-template]] [[garrytan-gstack]]
 

@@ -34,7 +34,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[universal-debloater-alliance-universal-android-debloater-next-generation]] [[affaan-m-ecc]] [[commaai-openpilot]] [[nousresearch-hermes-agent]] [[opendatalab-mineru]]
+[[bytedance-deer-flow]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

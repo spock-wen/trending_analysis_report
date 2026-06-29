@@ -33,7 +33,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[opendatalab-mineru]] [[kenn-io-agentsview]] [[hkuds-vibe-trading]] [[icewhaletech-casaos]] [[deusdata-codebase-memory-mcp]]
+[[xbtlin-ai-berkshire]] [[masterking32-masterdnsvpn]] [[hkuds-vibe-trading]] [[icewhaletech-casaos]] [[kenn-io-agentsview]]
 
 **所属领域**: [[ai-agent]]
 

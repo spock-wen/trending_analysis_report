@@ -34,7 +34,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[garrytan-gstack]] [[every-app-open-seo]] [[browser-use-video-use]] [[anomalyco-opencode]]
+[[jcodesmore-ai-website-cloner-template]] [[logto-io-logto]] [[ripienaar-free-for-dev]] [[garrytan-gstack]] [[refactoringhq-tolaria]]
 
 **所属领域**: [[web]]
 

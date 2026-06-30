@@ -34,7 +34,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[1jehuang-jcode]] [[ripienaar-free-for-dev]] [[dbt-labs-dbt-core]] [[panniantong-agent-reach]]
+[[hasaneyldrm-exercises-dataset]] [[ogulcancelik-herdr]] [[tursodatabase-turso]] [[diegosouzapw-omniroute]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[web]] [[cli]]
 

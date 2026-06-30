@@ -33,7 +33,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[obra-superpowers]] [[xbtlin-ai-berkshire]] [[mattpocock-skills]] [[hkuds-vibe-trading]]
+[[mattpocock-skills]] [[diegosouzapw-omniroute]] [[xbtlin-ai-berkshire]] [[google-agents-cli]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

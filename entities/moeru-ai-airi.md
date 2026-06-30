@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[altic-dev-fluidvoice]] [[logto-io-logto]] [[ripienaar-free-for-dev]] [[garrytan-gstack]]
+[[altic-dev-fluidvoice]] [[hasaneyldrm-exercises-dataset]] [[jamiepine-voicebox]] [[diegosouzapw-omniroute]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

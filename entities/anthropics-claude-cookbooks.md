@@ -33,7 +33,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[xbtlin-ai-berkshire]] [[stefan-jansen-machine-learning-for-trading]] [[hkuds-vibe-trading]] [[soxoj-maigret]]
+[[nvidia-cosmos]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[xbtlin-ai-berkshire]] [[stefan-jansen-machine-learning-for-trading]]
 
 **所属领域**: [[ai-agent]]
 

@@ -33,7 +33,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[obra-superpowers]] [[xbtlin-ai-berkshire]] [[mattpocock-skills]] [[hkuds-vibe-trading]]
+[[0xnyk-council-of-high-intelligence]] [[mattpocock-skills]] [[diegosouzapw-omniroute]] [[xbtlin-ai-berkshire]] [[google-agents-cli]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

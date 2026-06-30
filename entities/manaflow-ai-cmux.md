@@ -35,7 +35,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[jcodesmore-ai-website-cloner-template]] [[xbtlin-ai-berkshire]] [[apple-container]] [[hkuds-vibe-trading]]
+[[altic-dev-fluidvoice]] [[palmier-io-palmier-pro]] [[diegosouzapw-omniroute]] [[xbtlin-ai-berkshire]] [[google-agents-cli]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

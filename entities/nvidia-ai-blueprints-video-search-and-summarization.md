@@ -34,7 +34,7 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[dbt-labs-dbt-core]] [[opendatalab-mineru]] [[hkuds-vibe-trading]] [[deusdata-codebase-memory-mcp]]
+[[hasaneyldrm-exercises-dataset]] [[roboflow-supervision]] [[opendatalab-mineru]] [[robbyant-lingbot-map]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

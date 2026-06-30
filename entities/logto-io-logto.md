@@ -33,7 +33,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[ripienaar-free-for-dev]] [[garrytan-gstack]] [[grafana-grafana]] [[xbtlin-ai-berkshire]]
+[[diegosouzapw-omniroute]] [[grafana-grafana]] [[ripienaar-free-for-dev]] [[facebook-astryx]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

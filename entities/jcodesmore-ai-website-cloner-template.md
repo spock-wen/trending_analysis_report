@@ -37,7 +37,7 @@ Clone any website with one command using AI coding agents
 
 ## 相关项目
 
-[[logto-io-logto]] [[ripienaar-free-for-dev]] [[garrytan-gstack]] [[xbtlin-ai-berkshire]] [[refactoringhq-tolaria]]
+[[hasaneyldrm-exercises-dataset]] [[diegosouzapw-omniroute]] [[ripienaar-free-for-dev]] [[facebook-astryx]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

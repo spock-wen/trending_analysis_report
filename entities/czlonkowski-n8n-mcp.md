@@ -34,7 +34,7 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[logto-io-logto]] [[garrytan-gstack]] [[xbtlin-ai-berkshire]] [[refactoringhq-tolaria]]
+[[diegosouzapw-omniroute]] [[facebook-astryx]] [[xbtlin-ai-berkshire]] [[corebunch-instatic]] [[refactoringhq-tolaria]]
 
 **所属领域**: [[ai-agent]]
 

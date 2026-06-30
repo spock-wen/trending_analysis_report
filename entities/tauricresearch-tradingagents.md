@@ -33,7 +33,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[nousresearch-hermes-agent]] [[hkuds-vibe-trading]] [[soxoj-maigret]] [[commaai-openpilot]]
+[[nousresearch-hermes-agent]] [[roboflow-supervision]] [[robbyant-lingbot-map]] [[xbtlin-ai-berkshire]] [[bytedance-deer-flow]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

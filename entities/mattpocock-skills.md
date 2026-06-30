@@ -37,7 +37,7 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[obra-superpowers]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]] [[panniantong-agent-reach]]
+[[0xnyk-council-of-high-intelligence]] [[diegosouzapw-omniroute]] [[xbtlin-ai-berkshire]] [[google-agents-cli]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

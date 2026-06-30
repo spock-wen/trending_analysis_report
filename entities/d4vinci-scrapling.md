@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[ripienaar-free-for-dev]] [[hkuds-vibe-trading]] [[soxoj-maigret]] [[commaai-openpilot]]
+[[hasaneyldrm-exercises-dataset]] [[roboflow-supervision]] [[ripienaar-free-for-dev]] [[robbyant-lingbot-map]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[web]]
 

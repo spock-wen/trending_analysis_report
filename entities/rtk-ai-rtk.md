@@ -33,7 +33,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[1jehuang-jcode]] [[dbt-labs-dbt-core]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]]
+[[ogulcancelik-herdr]] [[tursodatabase-turso]] [[diegosouzapw-omniroute]] [[dbt-labs-dbt-core]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

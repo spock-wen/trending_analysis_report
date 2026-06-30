@@ -34,7 +34,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[universal-debloater-alliance-universal-android-debloater-next-generation]] [[santifer-career-ops]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]] [[soxoj-maigret]]
+[[hasaneyldrm-exercises-dataset]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[hkuds-vibe-trading]] [[hugohe3-ppt-master]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

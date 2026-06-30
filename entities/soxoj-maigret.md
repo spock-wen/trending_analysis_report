@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[commaai-openpilot]] [[hkuds-vibe-trading]] [[xbtlin-ai-berkshire]] [[msitarzewski-agency-agents]]
+[[roboflow-supervision]] [[robbyant-lingbot-map]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

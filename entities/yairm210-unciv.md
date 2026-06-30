@@ -33,7 +33,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[pppscn-smsforwarder]] [[andreknieriem-headunit-revived]] [[xbtlin-ai-berkshire]] [[bannedbook-fanqiang]] [[hkuds-vibe-trading]]
+[[pppscn-smsforwarder]] [[bannedbook-fanqiang]] [[andreknieriem-headunit-revived]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]]
 

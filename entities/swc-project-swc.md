@@ -35,7 +35,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[1jehuang-jcode]] [[ripienaar-free-for-dev]] [[dbt-labs-dbt-core]] [[tw93-pake]]
+[[hasaneyldrm-exercises-dataset]] [[ogulcancelik-herdr]] [[tursodatabase-turso]] [[dbt-labs-dbt-core]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[web]]
 

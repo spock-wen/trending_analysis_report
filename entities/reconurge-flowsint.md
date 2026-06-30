@@ -35,7 +35,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[keycloak-keycloak]] [[logto-io-logto]] [[mukul975-anthropic-cybersecurity-skills]] [[garrytan-gstack]]
+[[keycloak-keycloak]] [[mukul975-anthropic-cybersecurity-skills]] [[diegosouzapw-omniroute]] [[facebook-astryx]] [[corebunch-instatic]]
 
 **所属领域**: [[security]]
 

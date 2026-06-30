@@ -34,7 +34,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[logto-io-logto]] [[ripienaar-free-for-dev]] [[garrytan-gstack]] [[refactoringhq-tolaria]]
+[[hasaneyldrm-exercises-dataset]] [[diegosouzapw-omniroute]] [[ripienaar-free-for-dev]] [[facebook-astryx]] [[corebunch-instatic]]
 
 **所属领域**: [[web]]
 

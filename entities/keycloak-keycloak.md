@@ -33,7 +33,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[veracrypt-veracrypt]] [[github-copilot-sdk]] [[opendataloader-project-opendataloader-pdf]] [[krahets-hello-algo]]
+[[github-copilot-sdk]] [[opendataloader-project-opendataloader-pdf]] [[mukul975-anthropic-cybersecurity-skills]] [[krahets-hello-algo]] [[veracrypt-veracrypt]]
 
 **所属领域**: [[security]]
 

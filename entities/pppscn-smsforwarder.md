@@ -33,7 +33,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[andreknieriem-headunit-revived]] [[ripienaar-free-for-dev]] [[bannedbook-fanqiang]] [[yairm210-unciv]]
+[[hasaneyldrm-exercises-dataset]] [[bannedbook-fanqiang]] [[andreknieriem-headunit-revived]] [[yairm210-unciv]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[web]]
 

@@ -35,7 +35,7 @@ Lightning-Fast, On-Device, Multilingual TTS running natively via ONNX.
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[lightricks-ltx-2]] [[manaflow-ai-cmux]] [[jamiepine-voicebox]] [[apple-container]]
+[[altic-dev-fluidvoice]] [[manaflow-ai-cmux]] [[jamiepine-voicebox]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]]
 
 **所属领域**: [[audio]]
 

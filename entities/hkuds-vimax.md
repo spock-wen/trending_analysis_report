@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[universal-debloater-alliance-universal-android-debloater-next-generation]] [[hkuds-vibe-trading]] [[openbmb-voxcpm]] [[soxoj-maigret]] [[commaai-openpilot]]
+[[hasaneyldrm-exercises-dataset]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[roboflow-supervision]] [[hugohe3-ppt-master]] [[anil-matcha-open-generative-ai]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

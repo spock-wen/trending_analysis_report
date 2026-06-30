@@ -33,7 +33,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[jcodesmore-ai-website-cloner-template]] [[logto-io-logto]] [[ripienaar-free-for-dev]] [[garrytan-gstack]]
+[[hasaneyldrm-exercises-dataset]] [[diegosouzapw-omniroute]] [[opendatalab-mineru]] [[ripienaar-free-for-dev]] [[facebook-astryx]]
 
 **所属领域**: [[data]] [[devops]]
 

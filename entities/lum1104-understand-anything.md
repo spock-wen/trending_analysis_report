@@ -37,7 +37,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[logto-io-logto]] [[garrytan-gstack]] [[xbtlin-ai-berkshire]] [[owainlewis-awesome-artificial-intelligence]]
+[[owainlewis-awesome-artificial-intelligence]] [[diegosouzapw-omniroute]] [[microsoft-ai-for-beginners]] [[facebook-astryx]] [[byoungd-english-level-up-tips]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

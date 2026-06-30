@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[logto-io-logto]] [[garrytan-gstack]] [[refactoringhq-tolaria]] [[panniantong-agent-reach]]
+[[diegosouzapw-omniroute]] [[facebook-astryx]] [[corebunch-instatic]] [[google-agents-cli]] [[refactoringhq-tolaria]]
 
 **所属领域**: [[cli]]
 

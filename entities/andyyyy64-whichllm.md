@@ -34,7 +34,7 @@ Find the local LLM that actually runs and performs best on your hardware. Ranked
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[hkuds-vibe-trading]] [[panniantong-agent-reach]] [[soxoj-maigret]] [[commaai-openpilot]]
+[[roboflow-supervision]] [[diegosouzapw-omniroute]] [[robbyant-lingbot-map]] [[xbtlin-ai-berkshire]] [[google-agents-cli]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

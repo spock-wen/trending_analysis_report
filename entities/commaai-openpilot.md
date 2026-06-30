@@ -36,7 +36,7 @@ openpilot is an operating system for robotics. Currently, it upgrades the driver
 
 ## 相关项目
 
-[[soxoj-maigret]] [[hkuds-vibe-trading]] [[xbtlin-ai-berkshire]] [[msitarzewski-agency-agents]]
+[[roboflow-supervision]] [[robbyant-lingbot-map]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

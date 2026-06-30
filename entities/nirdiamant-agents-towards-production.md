@@ -33,7 +33,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[stefan-jansen-machine-learning-for-trading]] [[freecodecamp-freecodecamp]] [[hkuds-vibe-trading]] [[byoungd-english-level-up-tips]] [[nvidia-cosmos]]
+[[owainlewis-awesome-artificial-intelligence]] [[nvidia-cosmos]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[grafana-grafana]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

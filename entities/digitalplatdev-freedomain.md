@@ -36,7 +36,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[ripienaar-free-for-dev]] [[xbtlin-ai-berkshire]] [[shanraisshan-claude-code-best-practice]] [[revfactory-harness]]
+[[hasaneyldrm-exercises-dataset]] [[shanraisshan-claude-code-best-practice]] [[revfactory-harness]] [[ripienaar-free-for-dev]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

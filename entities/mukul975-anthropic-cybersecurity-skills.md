@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[keycloak-keycloak]] [[affaan-m-ecc]] [[veracrypt-veracrypt]] [[hkuds-vibe-trading]]
+[[keycloak-keycloak]] [[roboflow-supervision]] [[diegosouzapw-omniroute]] [[robbyant-lingbot-map]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

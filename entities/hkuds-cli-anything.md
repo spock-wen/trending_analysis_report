@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[ripienaar-free-for-dev]] [[hkuds-vibe-trading]] [[panniantong-agent-reach]] [[soxoj-maigret]]
+[[hasaneyldrm-exercises-dataset]] [[roboflow-supervision]] [[diegosouzapw-omniroute]] [[ripienaar-free-for-dev]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

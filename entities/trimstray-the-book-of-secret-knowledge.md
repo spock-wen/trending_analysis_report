@@ -34,7 +34,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[ripienaar-free-for-dev]] [[panniantong-agent-reach]] [[browser-use-video-use]] [[0xnyk-council-of-high-intelligence]]
+[[hasaneyldrm-exercises-dataset]] [[diegosouzapw-omniroute]] [[ripienaar-free-for-dev]] [[browser-use-video-use]] [[google-agents-cli]]
 
 **所属领域**: [[web]] [[cli]]
 

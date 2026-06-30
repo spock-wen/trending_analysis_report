@@ -34,7 +34,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[ripienaar-free-for-dev]] [[xbtlin-ai-berkshire]] [[revfactory-harness]] [[hkuds-vibe-trading]]
+[[hasaneyldrm-exercises-dataset]] [[revfactory-harness]] [[ripienaar-free-for-dev]] [[xbtlin-ai-berkshire]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

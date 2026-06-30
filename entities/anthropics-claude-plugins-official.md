@@ -37,7 +37,7 @@ Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[soxoj-maigret]] [[commaai-openpilot]] [[xbtlin-ai-berkshire]] [[msitarzewski-agency-agents]]
+[[roboflow-supervision]] [[robbyant-lingbot-map]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

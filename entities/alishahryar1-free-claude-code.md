@@ -35,7 +35,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[jcodesmore-ai-website-cloner-template]] [[altic-dev-fluidvoice]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[jamiepine-voicebox]]
+[[altic-dev-fluidvoice]] [[jamiepine-voicebox]] [[roboflow-supervision]] [[diegosouzapw-omniroute]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

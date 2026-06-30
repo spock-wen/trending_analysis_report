@@ -33,7 +33,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[masterking32-masterdnsvpn]] [[hkuds-vibe-trading]] [[icewhaletech-casaos]] [[kenn-io-agentsview]]
+[[kenn-io-agentsview]] [[icewhaletech-casaos]] [[kunchenguid-no-mistakes]] [[masterking32-masterdnsvpn]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]]
 

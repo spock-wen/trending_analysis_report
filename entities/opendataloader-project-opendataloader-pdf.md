@@ -33,7 +33,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[keycloak-keycloak]] [[dbt-labs-dbt-core]] [[opendatalab-mineru]] [[xbtlin-ai-berkshire]]
+[[keycloak-keycloak]] [[github-copilot-sdk]] [[hasaneyldrm-exercises-dataset]] [[opendatalab-mineru]] [[krahets-hello-algo]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

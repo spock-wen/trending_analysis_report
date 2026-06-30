@@ -34,7 +34,7 @@ Code for Machine Learning for Algorithmic Trading, 2nd edition.
 
 ## 相关项目
 
-[[datatalksclub-data-engineering-zoomcamp]] [[owainlewis-awesome-artificial-intelligence]] [[freecodecamp-freecodecamp]] [[byoungd-english-level-up-tips]] [[lyogavin-airllm]]
+[[owainlewis-awesome-artificial-intelligence]] [[nvidia-cosmos]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[byoungd-english-level-up-tips]]
 
 **所属领域**: [[education]]
 

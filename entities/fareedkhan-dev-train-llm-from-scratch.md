@@ -36,7 +36,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[opendatalab-mineru]] [[msitarzewski-agency-agents]] [[roboflow-supervision]]
+[[roboflow-supervision]] [[robbyant-lingbot-map]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

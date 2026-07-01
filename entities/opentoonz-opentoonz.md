@@ -33,5 +33,5 @@ OpenToonz - An open-source full-featured 2D animation creation software
 
 ## 相关项目
 
-[[opencv-opencv]] [[godotengine-godot]] [[alibaba-zvec]]
+[[alibaba-zvec]] [[opencv-opencv]] [[godotengine-godot]]
 

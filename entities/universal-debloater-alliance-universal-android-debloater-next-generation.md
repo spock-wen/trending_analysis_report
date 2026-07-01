@@ -35,7 +35,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[dbt-labs-dbt-core]] [[hasaneyldrm-exercises-dataset]] [[tursodatabase-turso]] [[mukul975-anthropic-cybersecurity-skills]] [[tw93-pake]]
+[[mukul975-anthropic-cybersecurity-skills]] [[hasaneyldrm-exercises-dataset]] [[keycloak-keycloak]] [[tursodatabase-turso]] [[dbt-labs-dbt-core]]
 
 **所属领域**: [[security]] [[image-gen]]
 

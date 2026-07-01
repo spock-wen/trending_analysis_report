@@ -33,7 +33,7 @@ agent multiplexer that lives in your terminal.
 
 ## 相关项目
 
-[[dbt-labs-dbt-core]] [[hkuds-vibe-trading]] [[tursodatabase-turso]] [[msitarzewski-agency-agents]] [[tw93-pake]]
+[[diegosouzapw-omniroute]] [[msitarzewski-agency-agents]] [[google-agents-cli]] [[tursodatabase-turso]] [[dbt-labs-dbt-core]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

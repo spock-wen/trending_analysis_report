@@ -33,7 +33,7 @@ The API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[facebook-astryx]] [[hasaneyldrm-exercises-dataset]] [[browser-use-video-use]] [[msitarzewski-agency-agents]] [[ripienaar-free-for-dev]]
+[[browser-use-video-use]] [[facebook-astryx]] [[diegosouzapw-omniroute]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[web]]
 

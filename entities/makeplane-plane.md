@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[facebook-astryx]] [[msitarzewski-agency-agents]] [[google-agents-cli]] [[refactoringhq-tolaria]] [[diegosouzapw-omniroute]]
+[[facebook-astryx]] [[diegosouzapw-omniroute]] [[msitarzewski-agency-agents]] [[google-agents-cli]] [[refactoringhq-tolaria]]
 
 **所属领域**: [[cli]]
 

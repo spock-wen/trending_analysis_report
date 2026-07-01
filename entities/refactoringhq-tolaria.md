@@ -37,5 +37,5 @@ Desktop app to manage markdown knowledge bases
 
 ## 相关项目
 
-[[facebook-astryx]] [[diegosouzapw-omniroute]] [[corebunch-instatic]]
+[[corebunch-instatic]] [[facebook-astryx]] [[diegosouzapw-omniroute]]
 

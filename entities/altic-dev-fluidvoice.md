@@ -36,7 +36,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[jamiepine-voicebox]] [[msitarzewski-agency-agents]] [[manaflow-ai-cmux]] [[lightricks-ltx-2]]
+[[palmier-io-palmier-pro]] [[apple-container]] [[manaflow-ai-cmux]] [[msitarzewski-agency-agents]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

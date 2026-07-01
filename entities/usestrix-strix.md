@@ -35,7 +35,7 @@ Open-source AI penetration testing tool to find and fix your app’s vulnerabili
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[roboflow-supervision]] [[robbyant-lingbot-map]] [[xbtlin-ai-berkshire]]
+[[roboflow-supervision]] [[robbyant-lingbot-map]] [[msitarzewski-agency-agents]] [[hkuds-vibe-trading]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]]
 

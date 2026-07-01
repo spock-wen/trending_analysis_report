@@ -34,7 +34,7 @@ Official Python inference and LoRA trainer package for the LTX-2 audio–video g
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[jamiepine-voicebox]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[roboflow-supervision]]
+[[roboflow-supervision]] [[robbyant-lingbot-map]] [[msitarzewski-agency-agents]] [[hkuds-vibe-trading]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

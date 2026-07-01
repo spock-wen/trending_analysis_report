@@ -33,7 +33,7 @@ No description
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[owainlewis-awesome-artificial-intelligence]] [[msitarzewski-agency-agents]] [[byoungd-english-level-up-tips]] [[roboflow-supervision]]
+[[roboflow-supervision]] [[freecodecamp-freecodecamp]] [[robbyant-lingbot-map]] [[msitarzewski-agency-agents]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -37,7 +37,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[browser-use-video-use]] [[shanraisshan-claude-code-best-practice]] [[msitarzewski-agency-agents]]
+[[browser-use-video-use]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

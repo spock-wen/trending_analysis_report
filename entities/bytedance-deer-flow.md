@@ -35,7 +35,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[roboflow-supervision]] [[robbyant-lingbot-map]] [[nousresearch-hermes-agent]]
+[[roboflow-supervision]] [[robbyant-lingbot-map]] [[msitarzewski-agency-agents]] [[hkuds-vibe-trading]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

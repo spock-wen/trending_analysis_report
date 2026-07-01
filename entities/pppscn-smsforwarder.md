@@ -33,7 +33,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[browser-use-video-use]] [[bannedbook-fanqiang]] [[andreknieriem-headunit-revived]] [[msitarzewski-agency-agents]]
+[[bannedbook-fanqiang]] [[browser-use-video-use]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]] [[andreknieriem-headunit-revived]]
 
 **所属领域**: [[web]]
 

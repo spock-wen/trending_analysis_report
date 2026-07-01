@@ -34,7 +34,7 @@ Odoo. Open Source Apps To Grow Your Business.
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[roboflow-supervision]] [[robbyant-lingbot-map]] [[hugohe3-ppt-master]] [[x1xhlol-system-prompts-and-models-of-ai-tools]]
+[[roboflow-supervision]] [[robbyant-lingbot-map]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[hkuds-vibe-trading]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[erp]]
 

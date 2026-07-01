@@ -37,7 +37,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[santifer-career-ops]] [[hkuds-vibe-trading]] [[mukul975-anthropic-cybersecurity-skills]] [[msitarzewski-agency-agents]] [[keycloak-keycloak]]
+[[mukul975-anthropic-cybersecurity-skills]] [[msitarzewski-agency-agents]] [[openai-plugins]] [[bytedance-deer-flow]] [[anil-matcha-open-generative-ai]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

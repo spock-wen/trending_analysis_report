@@ -34,5 +34,5 @@ A self-hosted travel/trip planner with real-time collaboration, interactive maps
 
 ## 相关项目
 
-[[facebook-astryx]] [[diegosouzapw-omniroute]] [[corebunch-instatic]] [[refactoringhq-tolaria]]
+[[refactoringhq-tolaria]] [[corebunch-instatic]] [[facebook-astryx]] [[diegosouzapw-omniroute]]
 

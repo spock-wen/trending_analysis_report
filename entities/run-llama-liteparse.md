@@ -34,5 +34,5 @@ A fast, helpful, and open-source document parser
 
 ## 相关项目
 
-[[dbt-labs-dbt-core]] [[tw93-pake]] [[tursodatabase-turso]] [[ogulcancelik-herdr]]
+[[ogulcancelik-herdr]] [[tursodatabase-turso]] [[tw93-pake]] [[dbt-labs-dbt-core]]
 

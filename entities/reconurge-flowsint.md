@@ -35,7 +35,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[facebook-astryx]] [[mukul975-anthropic-cybersecurity-skills]] [[refactoringhq-tolaria]] [[keycloak-keycloak]] [[diegosouzapw-omniroute]]
+[[facebook-astryx]] [[diegosouzapw-omniroute]] [[mukul975-anthropic-cybersecurity-skills]] [[keycloak-keycloak]] [[refactoringhq-tolaria]]
 
 **所属领域**: [[security]]
 

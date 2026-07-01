@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[google-agents-cli]] [[roboflow-supervision]] [[robbyant-lingbot-map]]
+[[roboflow-supervision]] [[diegosouzapw-omniroute]] [[robbyant-lingbot-map]] [[msitarzewski-agency-agents]] [[google-agents-cli]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

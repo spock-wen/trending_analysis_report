@@ -36,7 +36,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[browser-use-video-use]] [[msitarzewski-agency-agents]] [[ripienaar-free-for-dev]]
+[[roboflow-supervision]] [[browser-use-video-use]] [[robbyant-lingbot-map]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

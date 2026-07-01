@@ -35,7 +35,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[google-agents-cli]] [[apple-container]]
+[[palmier-io-palmier-pro]] [[apple-container]] [[diegosouzapw-omniroute]] [[msitarzewski-agency-agents]] [[google-agents-cli]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -34,7 +34,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[browser-use-video-use]] [[revfactory-harness]] [[msitarzewski-agency-agents]]
+[[browser-use-video-use]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[revfactory-harness]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

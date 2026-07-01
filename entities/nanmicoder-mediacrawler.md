@@ -35,5 +35,5 @@ language: "Python"
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[xbtlin-ai-berkshire]] [[roboflow-supervision]] [[robbyant-lingbot-map]]
+[[roboflow-supervision]] [[hkuds-vibe-trading]] [[xbtlin-ai-berkshire]] [[robbyant-lingbot-map]]
 

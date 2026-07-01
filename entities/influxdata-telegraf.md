@@ -34,7 +34,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[kunchenguid-no-mistakes]] [[hkuds-vibe-trading]] [[opendatalab-mineru]] [[kenn-io-agentsview]]
+[[kenn-io-agentsview]] [[masterking32-masterdnsvpn]] [[icewhaletech-casaos]] [[robbyant-lingbot-map]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

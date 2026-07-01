@@ -33,5 +33,5 @@ Effortlessly compose, extend, and observe every service in real-time for the fir
 
 ## 相关项目
 
-[[dbt-labs-dbt-core]] [[tw93-pake]] [[tursodatabase-turso]] [[ogulcancelik-herdr]]
+[[ogulcancelik-herdr]] [[tursodatabase-turso]] [[tw93-pake]] [[dbt-labs-dbt-core]]
 

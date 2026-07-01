@@ -36,7 +36,7 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[roboflow-supervision]] [[robbyant-lingbot-map]] [[bytedance-deer-flow]]
+[[roboflow-supervision]] [[robbyant-lingbot-map]] [[msitarzewski-agency-agents]] [[bytedance-deer-flow]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

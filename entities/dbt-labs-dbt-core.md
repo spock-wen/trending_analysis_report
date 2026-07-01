@@ -33,7 +33,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[opendatalab-mineru]] [[tursodatabase-turso]] [[tw93-pake]] [[robbyant-lingbot-map]]
+[[deusdata-codebase-memory-mcp]] [[hasaneyldrm-exercises-dataset]] [[opendatalab-mineru]] [[tursodatabase-turso]] [[tw93-pake]]
 
 **所属领域**: [[data]]
 

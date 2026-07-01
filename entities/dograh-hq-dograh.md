@@ -33,7 +33,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[jamiepine-voicebox]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[lightricks-ltx-2]]
+[[roboflow-supervision]] [[robbyant-lingbot-map]] [[msitarzewski-agency-agents]] [[lightricks-ltx-2]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

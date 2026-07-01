@@ -37,7 +37,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[manaflow-ai-cmux]] [[altic-dev-fluidvoice]] [[xbtlin-ai-berkshire]]
+[[palmier-io-palmier-pro]] [[manaflow-ai-cmux]] [[msitarzewski-agency-agents]] [[hkuds-vibe-trading]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]]
 

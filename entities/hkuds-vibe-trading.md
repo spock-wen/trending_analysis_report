@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[robbyant-lingbot-map]] [[roboflow-supervision]] [[xbtlin-ai-berkshire]] [[obra-superpowers]]
+[[roboflow-supervision]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[xbtlin-ai-berkshire]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]]
 

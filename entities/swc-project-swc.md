@@ -35,7 +35,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[dbt-labs-dbt-core]] [[hasaneyldrm-exercises-dataset]] [[tursodatabase-turso]] [[browser-use-video-use]] [[msitarzewski-agency-agents]]
+[[browser-use-video-use]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]] [[tursodatabase-turso]] [[dbt-labs-dbt-core]]
 
 **所属领域**: [[web]]
 

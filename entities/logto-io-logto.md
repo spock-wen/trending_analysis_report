@@ -33,7 +33,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[facebook-astryx]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[ripienaar-free-for-dev]] [[google-agents-cli]]
+[[facebook-astryx]] [[diegosouzapw-omniroute]] [[msitarzewski-agency-agents]] [[google-agents-cli]] [[grafana-grafana]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

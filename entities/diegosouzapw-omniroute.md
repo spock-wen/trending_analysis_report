@@ -33,7 +33,7 @@ Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), con
 
 ## 相关项目
 
-[[facebook-astryx]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[google-agents-cli]] [[refactoringhq-tolaria]]
+[[facebook-astryx]] [[msitarzewski-agency-agents]] [[google-agents-cli]] [[refactoringhq-tolaria]] [[corebunch-instatic]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -37,7 +37,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[opendatalab-mineru]] [[microsoft-powertoys]] [[msitarzewski-agency-agents]]
+[[microsoft-powertoys]] [[robbyant-lingbot-map]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]] [[opendatalab-mineru]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

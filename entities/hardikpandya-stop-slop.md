@@ -37,7 +37,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[xbtlin-ai-berkshire]] [[obra-superpowers]] [[hkuds-vibe-trading]]
+[[xbtlin-ai-berkshire]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]]
 

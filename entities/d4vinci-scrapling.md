@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[browser-use-video-use]] [[msitarzewski-agency-agents]] [[ripienaar-free-for-dev]]
+[[roboflow-supervision]] [[browser-use-video-use]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[web]]
 

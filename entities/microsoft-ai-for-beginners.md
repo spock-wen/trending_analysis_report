@@ -33,7 +33,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[nvidia-cosmos]] [[hkuds-vibe-trading]] [[owainlewis-awesome-artificial-intelligence]] [[msitarzewski-agency-agents]] [[byoungd-english-level-up-tips]]
+[[lyogavin-airllm]] [[freecodecamp-freecodecamp]] [[stefan-jansen-machine-learning-for-trading]] [[msitarzewski-agency-agents]] [[byoungd-english-level-up-tips]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

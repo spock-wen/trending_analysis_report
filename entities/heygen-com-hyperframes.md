@@ -33,7 +33,7 @@ Write HTML. Render video. Built for agents.
 
 ## 相关项目
 
-[[facebook-astryx]] [[hkuds-vibe-trading]] [[hasaneyldrm-exercises-dataset]] [[browser-use-video-use]] [[msitarzewski-agency-agents]]
+[[browser-use-video-use]] [[facebook-astryx]] [[diegosouzapw-omniroute]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

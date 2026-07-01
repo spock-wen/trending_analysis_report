@@ -35,7 +35,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[jamiepine-voicebox]] [[msitarzewski-agency-agents]] [[google-agents-cli]] [[altic-dev-fluidvoice]]
+[[roboflow-supervision]] [[diegosouzapw-omniroute]] [[robbyant-lingbot-map]] [[msitarzewski-agency-agents]] [[google-agents-cli]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

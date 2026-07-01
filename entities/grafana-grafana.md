@@ -33,7 +33,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[facebook-astryx]] [[hasaneyldrm-exercises-dataset]] [[opendatalab-mineru]] [[ripienaar-free-for-dev]] [[google-agents-cli]]
+[[facebook-astryx]] [[diegosouzapw-omniroute]] [[logto-io-logto]] [[deusdata-codebase-memory-mcp]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[data]] [[devops]]
 

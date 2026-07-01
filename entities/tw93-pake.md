@@ -34,7 +34,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[dbt-labs-dbt-core]] [[hasaneyldrm-exercises-dataset]] [[tursodatabase-turso]] [[browser-use-video-use]] [[msitarzewski-agency-agents]]
+[[browser-use-video-use]] [[diegosouzapw-omniroute]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]] [[google-agents-cli]]
 
 **所属领域**: [[web]] [[cli]]
 

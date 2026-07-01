@@ -33,7 +33,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[jamiepine-voicebox]] [[msitarzewski-agency-agents]] [[google-agents-cli]] [[altic-dev-fluidvoice]]
+[[roboflow-supervision]] [[diegosouzapw-omniroute]] [[robbyant-lingbot-map]] [[msitarzewski-agency-agents]] [[google-agents-cli]]
 
 **所属领域**: [[cli]] [[audio]]
 

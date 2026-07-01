@@ -34,7 +34,7 @@ What are the principles we can use to build LLM-powered software that is actuall
 
 ## 相关项目
 
-[[facebook-astryx]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[refactoringhq-tolaria]] [[diegosouzapw-omniroute]]
+[[facebook-astryx]] [[diegosouzapw-omniroute]] [[msitarzewski-agency-agents]] [[refactoringhq-tolaria]] [[corebunch-instatic]]
 
 **所属领域**: [[ai-agent]]
 

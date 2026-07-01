@@ -34,7 +34,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[browser-use-video-use]] [[msitarzewski-agency-agents]] [[ripienaar-free-for-dev]] [[google-agents-cli]]
+[[browser-use-video-use]] [[diegosouzapw-omniroute]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]] [[google-agents-cli]]
 
 **所属领域**: [[web]] [[cli]]
 

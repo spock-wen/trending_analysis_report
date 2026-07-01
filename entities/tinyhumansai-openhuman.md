@@ -37,7 +37,7 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[dbt-labs-dbt-core]] [[hkuds-vibe-trading]] [[tursodatabase-turso]] [[msitarzewski-agency-agents]] [[tw93-pake]]
+[[msitarzewski-agency-agents]] [[tursodatabase-turso]] [[dbt-labs-dbt-core]] [[hkuds-vibe-trading]] [[tw93-pake]]
 
 **所属领域**: [[ai-agent]]
 

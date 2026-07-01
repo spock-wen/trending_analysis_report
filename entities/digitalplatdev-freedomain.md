@@ -36,7 +36,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[browser-use-video-use]] [[revfactory-harness]] [[shanraisshan-claude-code-best-practice]]
+[[browser-use-video-use]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[revfactory-harness]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

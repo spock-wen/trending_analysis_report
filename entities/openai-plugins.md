@@ -37,7 +37,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[santifer-career-ops]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[xbtlin-ai-berkshire]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[msitarzewski-agency-agents]] [[anil-matcha-open-generative-ai]] [[hkuds-vibe-trading]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]]
 

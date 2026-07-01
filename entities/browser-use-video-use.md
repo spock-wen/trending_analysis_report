@@ -35,7 +35,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[ripienaar-free-for-dev]] [[roboflow-supervision]]
+[[roboflow-supervision]] [[robbyant-lingbot-map]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

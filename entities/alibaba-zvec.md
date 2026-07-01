@@ -34,7 +34,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[opendatalab-mineru]] [[robbyant-lingbot-map]] [[deusdata-codebase-memory-mcp]] [[opencv-opencv]]
+[[godotengine-godot]] [[deusdata-codebase-memory-mcp]] [[hasaneyldrm-exercises-dataset]] [[opendatalab-mineru]] [[opentoonz-opentoonz]]
 
 **所属领域**: [[data]]
 

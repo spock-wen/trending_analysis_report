@@ -37,7 +37,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[dbt-labs-dbt-core]] [[tursodatabase-turso]] [[ripienaar-free-for-dev]] [[tw93-pake]] [[google-agents-cli]]
+[[logto-io-logto]] [[google-agents-cli]] [[grafana-grafana]] [[tursodatabase-turso]] [[dbt-labs-dbt-core]]
 
 **所属领域**: [[devops]]
 

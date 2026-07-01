@@ -34,5 +34,5 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## 相关项目
 
-[[facebook-astryx]] [[diegosouzapw-omniroute]] [[corebunch-instatic]] [[refactoringhq-tolaria]]
+[[refactoringhq-tolaria]] [[corebunch-instatic]] [[facebook-astryx]] [[diegosouzapw-omniroute]]
 

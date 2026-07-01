@@ -34,7 +34,7 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[roboflow-supervision]] [[opendatalab-mineru]] [[robbyant-lingbot-map]] [[xbtlin-ai-berkshire]]
+[[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[opendatalab-mineru]] [[msitarzewski-agency-agents]] [[roboflow-supervision]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -37,7 +37,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[roboflow-supervision]] [[robbyant-lingbot-map]] [[xbtlin-ai-berkshire]] [[bytedance-deer-flow]] [[affaan-m-ecc]]
+[[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[roboflow-supervision]] [[robbyant-lingbot-map]] [[bytedance-deer-flow]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -37,7 +37,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[diegosouzapw-omniroute]] [[xbtlin-ai-berkshire]] [[google-agents-cli]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]]
+[[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[google-agents-cli]] [[diegosouzapw-omniroute]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

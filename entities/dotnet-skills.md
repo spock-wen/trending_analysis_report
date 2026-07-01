@@ -36,7 +36,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[jellyfin-jellyfin]] [[xbtlin-ai-berkshire]] [[itsfatduck-optimizerduck]] [[msitarzewski-agency-agents]] [[openclaw-openclaw-windows-node]]
+[[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[jellyfin-jellyfin]] [[openclaw-openclaw-windows-node]] [[itsfatduck-optimizerduck]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[0xnyk-council-of-high-intelligence]] [[mattpocock-skills]] [[hasaneyldrm-exercises-dataset]] [[diegosouzapw-omniroute]] [[ripienaar-free-for-dev]]
+[[hasaneyldrm-exercises-dataset]] [[0xnyk-council-of-high-intelligence]] [[hkuds-vibe-trading]] [[browser-use-video-use]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

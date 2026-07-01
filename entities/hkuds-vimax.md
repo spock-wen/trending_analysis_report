@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[roboflow-supervision]] [[hugohe3-ppt-master]] [[anil-matcha-open-generative-ai]]
+[[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[anil-matcha-open-generative-ai]] [[msitarzewski-agency-agents]] [[roboflow-supervision]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

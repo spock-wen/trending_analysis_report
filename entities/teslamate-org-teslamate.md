@@ -34,7 +34,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[opendatalab-mineru]] [[robbyant-lingbot-map]] [[xbtlin-ai-berkshire]] [[plausible-analytics]]
+[[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[opendatalab-mineru]] [[msitarzewski-agency-agents]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

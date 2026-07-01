@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[keycloak-keycloak]] [[roboflow-supervision]] [[diegosouzapw-omniroute]] [[robbyant-lingbot-map]] [[xbtlin-ai-berkshire]]
+[[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[google-agents-cli]] [[roboflow-supervision]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

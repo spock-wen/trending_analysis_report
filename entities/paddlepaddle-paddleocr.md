@@ -35,7 +35,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[roboflow-supervision]] [[opendatalab-mineru]] [[hugohe3-ppt-master]]
+[[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[opendatalab-mineru]] [[anil-matcha-open-generative-ai]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

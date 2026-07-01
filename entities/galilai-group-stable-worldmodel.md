@@ -34,7 +34,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[nousresearch-hermes-agent]] [[roboflow-supervision]] [[hugohe3-ppt-master]]
+[[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[anil-matcha-open-generative-ai]] [[msitarzewski-agency-agents]] [[roboflow-supervision]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

@@ -33,7 +33,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[diegosouzapw-omniroute]] [[xbtlin-ai-berkshire]] [[google-agents-cli]] [[hkuds-vibe-trading]]
+[[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[mattpocock-skills]] [[google-agents-cli]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

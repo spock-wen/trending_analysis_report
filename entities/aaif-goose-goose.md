@@ -35,7 +35,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[ogulcancelik-herdr]] [[tursodatabase-turso]] [[dbt-labs-dbt-core]] [[xbtlin-ai-berkshire]] [[tw93-pake]]
+[[dbt-labs-dbt-core]] [[hkuds-vibe-trading]] [[tursodatabase-turso]] [[msitarzewski-agency-agents]] [[tw93-pake]]
 
 **所属领域**: [[ai-agent]]
 

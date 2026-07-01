@@ -33,7 +33,7 @@ A comprehensive dataset of 433 fitness exercises. Each entry includes name, cate
 
 ## 相关项目
 
-[[universal-debloater-alliance-universal-android-debloater-next-generation]] [[shanraisshan-claude-code-best-practice]] [[revfactory-harness]] [[opendatalab-mineru]] [[hugohe3-ppt-master]]
+[[hkuds-vibe-trading]] [[opendatalab-mineru]] [[anil-matcha-open-generative-ai]] [[browser-use-video-use]] [[revfactory-harness]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

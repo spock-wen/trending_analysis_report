@@ -34,7 +34,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[ogulcancelik-herdr]] [[tursodatabase-turso]] [[diegosouzapw-omniroute]] [[ripienaar-free-for-dev]]
+[[dbt-labs-dbt-core]] [[hasaneyldrm-exercises-dataset]] [[tursodatabase-turso]] [[browser-use-video-use]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]] [[cli]]
 

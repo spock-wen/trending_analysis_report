@@ -37,7 +37,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
+[[msitarzewski-agency-agents]] [[xbtlin-ai-berkshire]] [[obra-superpowers]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]]
 

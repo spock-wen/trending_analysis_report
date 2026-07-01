@@ -33,7 +33,7 @@ An open source design system that's fully customizable and agent ready
 
 ## 相关项目
 
-[[diegosouzapw-omniroute]] [[xbtlin-ai-berkshire]] [[corebunch-instatic]] [[refactoringhq-tolaria]] [[hkuds-vibe-trading]]
+[[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[refactoringhq-tolaria]] [[diegosouzapw-omniroute]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]]
 

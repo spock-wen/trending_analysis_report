@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[hasaneyldrm-exercises-dataset]] [[jamiepine-voicebox]] [[diegosouzapw-omniroute]] [[hugohe3-ppt-master]]
+[[facebook-astryx]] [[hkuds-vibe-trading]] [[hasaneyldrm-exercises-dataset]] [[browser-use-video-use]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

@@ -37,7 +37,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[owainlewis-awesome-artificial-intelligence]] [[roboflow-supervision]] [[microsoft-ai-for-beginners]] [[robbyant-lingbot-map]] [[byoungd-english-level-up-tips]]
+[[hkuds-vibe-trading]] [[owainlewis-awesome-artificial-intelligence]] [[msitarzewski-agency-agents]] [[byoungd-english-level-up-tips]] [[roboflow-supervision]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

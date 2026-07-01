@@ -33,7 +33,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[roboflow-supervision]] [[robbyant-lingbot-map]] [[xbtlin-ai-berkshire]] [[bytedance-deer-flow]]
+[[hkuds-vibe-trading]] [[roboflow-supervision]] [[robbyant-lingbot-map]] [[xbtlin-ai-berkshire]] [[bytedance-deer-flow]]
 
 **所属领域**: [[science]]
 

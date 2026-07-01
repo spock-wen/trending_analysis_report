@@ -33,7 +33,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[owainlewis-awesome-artificial-intelligence]] [[nvidia-cosmos]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[grafana-grafana]]
+[[nvidia-cosmos]] [[hkuds-vibe-trading]] [[owainlewis-awesome-artificial-intelligence]] [[odoo-odoo]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

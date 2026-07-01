@@ -34,7 +34,7 @@ Cognee is the open-source AI memory platform for agents. Give your AI agents per
 
 ## 相关项目
 
-[[roboflow-supervision]] [[robbyant-lingbot-map]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]]
+[[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[roboflow-supervision]] [[robbyant-lingbot-map]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]]
 

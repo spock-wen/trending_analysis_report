@@ -33,7 +33,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[anil-matcha-open-generative-ai]] [[santifer-career-ops]] [[xbtlin-ai-berkshire]] [[affaan-m-ecc]]
+[[santifer-career-ops]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[xbtlin-ai-berkshire]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

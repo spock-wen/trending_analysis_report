@@ -35,7 +35,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[diegosouzapw-omniroute]] [[ripienaar-free-for-dev]] [[facebook-astryx]] [[corebunch-instatic]]
+[[facebook-astryx]] [[hasaneyldrm-exercises-dataset]] [[browser-use-video-use]] [[msitarzewski-agency-agents]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[web]] [[cli]]
 

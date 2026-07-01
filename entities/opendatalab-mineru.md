@@ -35,7 +35,7 @@ Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[roboflow-supervision]] [[robbyant-lingbot-map]] [[xbtlin-ai-berkshire]] [[deusdata-codebase-memory-mcp]]
+[[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[roboflow-supervision]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

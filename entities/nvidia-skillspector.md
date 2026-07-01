@@ -36,7 +36,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[keycloak-keycloak]] [[mukul975-anthropic-cybersecurity-skills]] [[roboflow-supervision]] [[robbyant-lingbot-map]] [[xbtlin-ai-berkshire]]
+[[hkuds-vibe-trading]] [[mukul975-anthropic-cybersecurity-skills]] [[msitarzewski-agency-agents]] [[roboflow-supervision]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

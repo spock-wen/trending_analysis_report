@@ -37,7 +37,7 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[0xnyk-council-of-high-intelligence]] [[diegosouzapw-omniroute]] [[xbtlin-ai-berkshire]] [[google-agents-cli]] [[hkuds-vibe-trading]]
+[[0xnyk-council-of-high-intelligence]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[google-agents-cli]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

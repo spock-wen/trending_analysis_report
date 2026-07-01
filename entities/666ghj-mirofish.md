@@ -35,5 +35,5 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything.
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[roboflow-supervision]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]]
+[[hkuds-vibe-trading]] [[xbtlin-ai-berkshire]] [[roboflow-supervision]] [[robbyant-lingbot-map]]
 

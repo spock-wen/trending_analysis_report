@@ -37,7 +37,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[hasaneyldrm-exercises-dataset]] [[jamiepine-voicebox]] [[roboflow-supervision]] [[hugohe3-ppt-master]]
+[[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[anil-matcha-open-generative-ai]] [[jamiepine-voicebox]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

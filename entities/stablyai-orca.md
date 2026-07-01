@@ -33,7 +33,7 @@ Orca is the ADE for working with a fleet of parallel agents. Run any coding agen
 
 ## 相关项目
 
-[[diegosouzapw-omniroute]] [[facebook-astryx]] [[xbtlin-ai-berkshire]] [[corebunch-instatic]] [[refactoringhq-tolaria]]
+[[facebook-astryx]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[refactoringhq-tolaria]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]]
 

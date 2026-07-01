@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[roboflow-supervision]] [[diegosouzapw-omniroute]] [[ripienaar-free-for-dev]] [[robbyant-lingbot-map]]
+[[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[browser-use-video-use]] [[msitarzewski-agency-agents]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

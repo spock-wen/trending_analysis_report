@@ -35,7 +35,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[ogulcancelik-herdr]] [[tursodatabase-turso]] [[dbt-labs-dbt-core]] [[ripienaar-free-for-dev]]
+[[dbt-labs-dbt-core]] [[hasaneyldrm-exercises-dataset]] [[tursodatabase-turso]] [[browser-use-video-use]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]]
 

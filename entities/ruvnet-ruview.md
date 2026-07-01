@@ -37,7 +37,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[ogulcancelik-herdr]] [[tursodatabase-turso]] [[grafana-grafana]] [[ripienaar-free-for-dev]] [[dbt-labs-dbt-core]]
+[[dbt-labs-dbt-core]] [[tursodatabase-turso]] [[ripienaar-free-for-dev]] [[tw93-pake]] [[google-agents-cli]]
 
 **所属领域**: [[devops]]
 

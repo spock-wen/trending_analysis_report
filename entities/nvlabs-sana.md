@@ -33,7 +33,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[roboflow-supervision]] [[hugohe3-ppt-master]] [[anil-matcha-open-generative-ai]] [[robbyant-lingbot-map]]
+[[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[anil-matcha-open-generative-ai]] [[roboflow-supervision]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[image-gen]]
 

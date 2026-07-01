@@ -33,7 +33,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[keycloak-keycloak]] [[github-copilot-sdk]] [[hasaneyldrm-exercises-dataset]] [[opendatalab-mineru]] [[krahets-hello-algo]]
+[[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[opendatalab-mineru]] [[github-copilot-sdk]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

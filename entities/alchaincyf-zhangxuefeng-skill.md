@@ -34,7 +34,7 @@ language: ""
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
+[[msitarzewski-agency-agents]] [[xbtlin-ai-berkshire]] [[obra-superpowers]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]]
 

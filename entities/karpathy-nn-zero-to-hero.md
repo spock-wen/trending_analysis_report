@@ -33,5 +33,5 @@ Neural Networks: Zero to Hero
 
 ## 相关项目
 
-[[nvidia-cosmos]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[stefan-jansen-machine-learning-for-trading]]
+[[nvidia-cosmos]] [[lyogavin-airllm]] [[stefan-jansen-machine-learning-for-trading]] [[microsoft-ai-for-beginners]]
 

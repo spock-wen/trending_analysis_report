@@ -36,7 +36,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ## 相关项目
 
-[[odoo-odoo]] [[hugohe3-ppt-master]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]]
+[[hkuds-vibe-trading]] [[odoo-odoo]] [[msitarzewski-agency-agents]] [[hugohe3-ppt-master]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

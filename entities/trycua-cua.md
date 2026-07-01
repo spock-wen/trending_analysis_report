@@ -33,7 +33,7 @@ Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[shanraisshan-claude-code-best-practice]] [[revfactory-harness]] [[grafana-grafana]] [[ripienaar-free-for-dev]]
+[[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[browser-use-video-use]] [[revfactory-harness]] [[shanraisshan-claude-code-best-practice]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

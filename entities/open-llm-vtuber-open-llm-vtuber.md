@@ -36,7 +36,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[jamiepine-voicebox]] [[roboflow-supervision]] [[hugohe3-ppt-master]] [[robbyant-lingbot-map]]
+[[hkuds-vibe-trading]] [[jamiepine-voicebox]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

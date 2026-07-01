@@ -34,7 +34,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[roboflow-supervision]] [[opendatalab-mineru]] [[xbtlin-ai-berkshire]] [[deusdata-codebase-memory-mcp]]
+[[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[opendatalab-mineru]] [[roboflow-supervision]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[data]]
 

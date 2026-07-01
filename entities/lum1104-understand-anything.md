@@ -37,7 +37,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[owainlewis-awesome-artificial-intelligence]] [[diegosouzapw-omniroute]] [[microsoft-ai-for-beginners]] [[facebook-astryx]] [[byoungd-english-level-up-tips]]
+[[facebook-astryx]] [[hkuds-vibe-trading]] [[owainlewis-awesome-artificial-intelligence]] [[msitarzewski-agency-agents]] [[byoungd-english-level-up-tips]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

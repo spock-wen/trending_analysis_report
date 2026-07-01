@@ -34,7 +34,7 @@ Find the local LLM that actually runs and performs best on your hardware. Ranked
 
 ## 相关项目
 
-[[roboflow-supervision]] [[diegosouzapw-omniroute]] [[robbyant-lingbot-map]] [[xbtlin-ai-berkshire]] [[google-agents-cli]]
+[[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[google-agents-cli]] [[roboflow-supervision]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

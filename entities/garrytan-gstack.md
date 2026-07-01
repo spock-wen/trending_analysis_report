@@ -37,7 +37,7 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 
 ## 相关项目
 
-[[diegosouzapw-omniroute]] [[facebook-astryx]] [[xbtlin-ai-berkshire]] [[corebunch-instatic]] [[refactoringhq-tolaria]]
+[[facebook-astryx]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[refactoringhq-tolaria]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]]
 

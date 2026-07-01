@@ -35,7 +35,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[diegosouzapw-omniroute]] [[hugohe3-ppt-master]] [[facebook-astryx]] [[lightricks-ltx-2]]
+[[facebook-astryx]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

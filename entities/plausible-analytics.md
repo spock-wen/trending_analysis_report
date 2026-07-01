@@ -34,7 +34,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[keycloak-keycloak]] [[hasaneyldrm-exercises-dataset]] [[mukul975-anthropic-cybersecurity-skills]] [[opendatalab-mineru]] [[ripienaar-free-for-dev]]
+[[hasaneyldrm-exercises-dataset]] [[opendatalab-mineru]] [[teslamate-org-teslamate]] [[browser-use-video-use]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

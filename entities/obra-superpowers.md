@@ -37,7 +37,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[0xnyk-council-of-high-intelligence]] [[mattpocock-skills]] [[diegosouzapw-omniroute]] [[odoo-odoo]] [[hugohe3-ppt-master]]
+[[0xnyk-council-of-high-intelligence]] [[hkuds-vibe-trading]] [[odoo-odoo]] [[msitarzewski-agency-agents]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

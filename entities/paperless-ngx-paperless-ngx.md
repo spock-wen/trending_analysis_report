@@ -33,7 +33,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[roboflow-supervision]] [[bytedance-deer-flow]] [[hkuds-vibe-trading]] [[nousresearch-hermes-agent]] [[xbtlin-ai-berkshire]]
+[[affaan-m-ecc]] [[xbtlin-ai-berkshire]] [[browser-use-video-use]] [[hkuds-vibe-trading]] [[usestrix-strix]]
 
 **所属领域**: [[science]]
 

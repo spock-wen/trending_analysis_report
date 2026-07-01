@@ -34,7 +34,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[xbtlin-ai-berkshire]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[hkuds-vibe-trading]]
+[[altic-dev-fluidvoice]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[yikart-aitoearn]]
 
 **所属领域**: [[ai-agent]]
 

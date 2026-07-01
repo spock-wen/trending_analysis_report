@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[roboflow-supervision]] [[browser-use-video-use]] [[diegosouzapw-omniroute]] [[robbyant-lingbot-map]] [[msitarzewski-agency-agents]]
+[[ripienaar-free-for-dev]] [[diegosouzapw-omniroute]] [[browser-use-video-use]] [[hkuds-vibe-trading]] [[usestrix-strix]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

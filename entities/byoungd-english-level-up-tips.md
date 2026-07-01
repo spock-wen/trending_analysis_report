@@ -37,7 +37,7 @@ An advanced guide to learn English which might benefit you a lot 🎉 . 人生�
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[owainlewis-awesome-artificial-intelligence]] [[freecodecamp-freecodecamp]]
+[[owainlewis-awesome-artificial-intelligence]] [[freecodecamp-freecodecamp]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[education]]
 

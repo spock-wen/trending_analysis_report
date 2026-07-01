@@ -33,7 +33,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[freecodecamp-freecodecamp]] [[logto-io-logto]] [[stefan-jansen-machine-learning-for-trading]] [[microsoft-ai-for-beginners]]
+[[ripienaar-free-for-dev]] [[lyogavin-airllm]] [[obra-superpowers]] [[odoo-odoo]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

@@ -33,7 +33,7 @@ A framework for building agent-native applications.
 
 ## 相关项目
 
-[[facebook-astryx]] [[diegosouzapw-omniroute]] [[msitarzewski-agency-agents]] [[refactoringhq-tolaria]] [[corebunch-instatic]]
+[[diegosouzapw-omniroute]] [[logto-io-logto]] [[refactoringhq-tolaria]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

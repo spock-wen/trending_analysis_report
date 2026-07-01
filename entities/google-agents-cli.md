@@ -33,7 +33,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[roboflow-supervision]] [[diegosouzapw-omniroute]] [[robbyant-lingbot-map]] [[logto-io-logto]] [[msitarzewski-agency-agents]]
+[[ripienaar-free-for-dev]] [[diegosouzapw-omniroute]] [[logto-io-logto]] [[browser-use-video-use]] [[grafana-grafana]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

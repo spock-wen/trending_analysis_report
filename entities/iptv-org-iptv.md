@@ -37,7 +37,7 @@ Collection of publicly available IPTV channels from all over the world
 
 ## 相关项目
 
-[[facebook-astryx]] [[diegosouzapw-omniroute]] [[msitarzewski-agency-agents]] [[refactoringhq-tolaria]] [[corebunch-instatic]]
+[[diegosouzapw-omniroute]] [[logto-io-logto]] [[refactoringhq-tolaria]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

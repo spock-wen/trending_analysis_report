@@ -33,7 +33,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[browser-use-video-use]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]] [[bytedance-deer-flow]] [[hkuds-vibe-trading]]
+[[ripienaar-free-for-dev]] [[xbtlin-ai-berkshire]] [[affaan-m-ecc]] [[browser-use-video-use]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

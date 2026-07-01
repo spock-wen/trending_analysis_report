@@ -35,5 +35,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[refactoringhq-tolaria]] [[corebunch-instatic]] [[facebook-astryx]] [[diegosouzapw-omniroute]]
+[[diegosouzapw-omniroute]] [[refactoringhq-tolaria]] [[logto-io-logto]] [[yikart-aitoearn]]
 

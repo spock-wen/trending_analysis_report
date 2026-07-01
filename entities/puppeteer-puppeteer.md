@@ -34,7 +34,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[browser-use-video-use]] [[facebook-astryx]] [[diegosouzapw-omniroute]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]]
+[[ripienaar-free-for-dev]] [[diegosouzapw-omniroute]] [[logto-io-logto]] [[browser-use-video-use]] [[refactoringhq-tolaria]]
 
 **所属领域**: [[web]]
 

@@ -35,7 +35,7 @@ Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli
 
 ## 相关项目
 
-[[kenn-io-agentsview]] [[icewhaletech-casaos]] [[mukul975-anthropic-cybersecurity-skills]] [[keycloak-keycloak]] [[kunchenguid-no-mistakes]]
+[[affaan-m-ecc]] [[kunchenguid-no-mistakes]] [[veracrypt-veracrypt]] [[mukul975-anthropic-cybersecurity-skills]] [[keycloak-keycloak]]
 
 **所属领域**: [[security]]
 

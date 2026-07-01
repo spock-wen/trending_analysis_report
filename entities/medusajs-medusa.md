@@ -33,7 +33,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[facebook-astryx]] [[diegosouzapw-omniroute]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[refactoringhq-tolaria]] [[corebunch-instatic]]
+[[diegosouzapw-omniroute]] [[logto-io-logto]] [[refactoringhq-tolaria]] [[obra-superpowers]] [[odoo-odoo]]
 
 **所属领域**: [[erp]]
 

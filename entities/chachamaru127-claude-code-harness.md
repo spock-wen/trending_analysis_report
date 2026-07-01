@@ -33,7 +33,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[mattpocock-skills]] [[diegosouzapw-omniroute]] [[msitarzewski-agency-agents]] [[google-agents-cli]] [[hkuds-vibe-trading]]
+[[diegosouzapw-omniroute]] [[hkuds-vibe-trading]] [[mattpocock-skills]] [[obra-superpowers]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

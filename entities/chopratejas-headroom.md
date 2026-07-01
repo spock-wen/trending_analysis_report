@@ -37,7 +37,7 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60
 
 ## 相关项目
 
-[[roboflow-supervision]] [[robbyant-lingbot-map]] [[msitarzewski-agency-agents]] [[hkuds-vibe-trading]] [[xbtlin-ai-berkshire]]
+[[browser-use-video-use]] [[hkuds-vibe-trading]] [[usestrix-strix]] [[msitarzewski-agency-agents]] [[yikart-aitoearn]]
 
 **所属领域**: [[ai-agent]]
 

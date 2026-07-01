@@ -34,7 +34,7 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[roboflow-supervision]] [[robbyant-lingbot-map]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]] [[deusdata-codebase-memory-mcp]]
+[[deusdata-codebase-memory-mcp]] [[browser-use-video-use]] [[allenai-olmocr]] [[hkuds-vibe-trading]] [[usestrix-strix]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

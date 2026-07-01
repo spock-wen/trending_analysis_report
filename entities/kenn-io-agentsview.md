@@ -34,7 +34,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[masterking32-masterdnsvpn]] [[icewhaletech-casaos]] [[robbyant-lingbot-map]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]]
+[[deusdata-codebase-memory-mcp]] [[kunchenguid-no-mistakes]] [[altic-dev-fluidvoice]] [[allenai-olmocr]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

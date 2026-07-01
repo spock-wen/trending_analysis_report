@@ -35,7 +35,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[facebook-astryx]] [[diegosouzapw-omniroute]] [[msitarzewski-agency-agents]] [[lightricks-ltx-2]] [[refactoringhq-tolaria]]
+[[diegosouzapw-omniroute]] [[logto-io-logto]] [[lightricks-ltx-2]] [[refactoringhq-tolaria]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

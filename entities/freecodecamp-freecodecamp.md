@@ -37,7 +37,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[facebook-astryx]] [[diegosouzapw-omniroute]] [[byoungd-english-level-up-tips]] [[microsoft-ai-for-beginners]] [[refactoringhq-tolaria]]
+[[diegosouzapw-omniroute]] [[logto-io-logto]] [[refactoringhq-tolaria]] [[owainlewis-awesome-artificial-intelligence]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[education]]
 

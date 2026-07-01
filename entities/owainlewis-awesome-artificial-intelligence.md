@@ -34,7 +34,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[freecodecamp-freecodecamp]] [[msitarzewski-agency-agents]] [[microsoft-ai-for-beginners]] [[byoungd-english-level-up-tips]] [[bytedance-deer-flow]]
+[[affaan-m-ecc]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]] [[nousresearch-hermes-agent]] [[bytedance-deer-flow]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

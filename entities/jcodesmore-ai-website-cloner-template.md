@@ -37,7 +37,7 @@ Clone any website with one command using AI coding agents
 
 ## 相关项目
 
-[[browser-use-video-use]] [[facebook-astryx]] [[diegosouzapw-omniroute]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]]
+[[ripienaar-free-for-dev]] [[diegosouzapw-omniroute]] [[logto-io-logto]] [[browser-use-video-use]] [[refactoringhq-tolaria]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

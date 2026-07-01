@@ -37,7 +37,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[facebook-astryx]] [[diegosouzapw-omniroute]] [[freecodecamp-freecodecamp]] [[msitarzewski-agency-agents]] [[google-agents-cli]]
+[[diegosouzapw-omniroute]] [[logto-io-logto]] [[refactoringhq-tolaria]] [[owainlewis-awesome-artificial-intelligence]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

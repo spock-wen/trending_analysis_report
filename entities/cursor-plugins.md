@@ -34,5 +34,5 @@ Cursor plugin specification and official plugins
 
 ## 相关项目
 
-[[refactoringhq-tolaria]] [[corebunch-instatic]] [[facebook-astryx]] [[diegosouzapw-omniroute]]
+[[diegosouzapw-omniroute]] [[refactoringhq-tolaria]] [[logto-io-logto]] [[yikart-aitoearn]]
 

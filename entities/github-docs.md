@@ -33,5 +33,5 @@ The open-source repo for docs.github.com
 
 ## 相关项目
 
-[[refactoringhq-tolaria]] [[corebunch-instatic]] [[facebook-astryx]] [[diegosouzapw-omniroute]]
+[[diegosouzapw-omniroute]] [[refactoringhq-tolaria]] [[logto-io-logto]] [[yikart-aitoearn]]
 

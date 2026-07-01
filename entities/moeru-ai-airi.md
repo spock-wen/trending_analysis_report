@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[browser-use-video-use]] [[facebook-astryx]] [[diegosouzapw-omniroute]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]]
+[[ripienaar-free-for-dev]] [[diegosouzapw-omniroute]] [[logto-io-logto]] [[lightricks-ltx-2]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

@@ -34,7 +34,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[browser-use-video-use]] [[mukul975-anthropic-cybersecurity-skills]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]] [[deusdata-codebase-memory-mcp]]
+[[ripienaar-free-for-dev]] [[deusdata-codebase-memory-mcp]] [[affaan-m-ecc]] [[veracrypt-veracrypt]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

@@ -33,5 +33,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[santifer-career-ops]] [[affaan-m-ecc]] [[openai-plugins]] [[anil-matcha-open-generative-ai]]
+[[affaan-m-ecc]] [[openai-plugins]] [[santifer-career-ops]] [[anil-matcha-open-generative-ai]]
 

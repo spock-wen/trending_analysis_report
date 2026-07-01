@@ -34,7 +34,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[stefan-jansen-machine-learning-for-trading]] [[microsoft-ai-for-beginners]] [[msitarzewski-agency-agents]] [[nvidia-cosmos]] [[hkuds-vibe-trading]]
+[[nvidia-cosmos]] [[hkuds-vibe-trading]] [[stefan-jansen-machine-learning-for-trading]] [[msitarzewski-agency-agents]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

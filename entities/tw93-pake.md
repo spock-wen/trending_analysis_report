@@ -34,7 +34,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[browser-use-video-use]] [[diegosouzapw-omniroute]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]] [[google-agents-cli]]
+[[ripienaar-free-for-dev]] [[diegosouzapw-omniroute]] [[tencentcloud-cubesandbox]] [[browser-use-video-use]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[web]] [[cli]]
 

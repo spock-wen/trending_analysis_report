@@ -35,5 +35,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager al
 
 ## 相关项目
 
-[[ogulcancelik-herdr]] [[tursodatabase-turso]] [[tw93-pake]] [[dbt-labs-dbt-core]]
+[[togatoga-karukan]] [[tencentcloud-cubesandbox]] [[dbt-labs-dbt-core]] [[ogulcancelik-herdr]]
 

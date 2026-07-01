@@ -1,19 +1,19 @@
 ---
 title: "ogulcancelik/herdr"
 created: 2026-07-01
-updated: 2026-07-01
+updated: 2026-07-02
 type: tool
 tags: [rust, ai-agent, cli]
-sources: [raw/trending/2026-07-01.json]
-confidence: low
-trending_count_daily: 1
+sources: [raw/trending/2026-07-02.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-07-01
-last_trending: 2026-07-01
+last_trending: 2026-07-02
 peak_rank: 12
-total_stars: 8972
+total_stars: 9562
 language: "Rust"
 ---
 
@@ -22,18 +22,19 @@ language: "Rust"
 agent multiplexer that lives in your terminal.
 
 - 语言: Rust
-- 上榜次数: 1 次
-- 连续上榜: 1 天
+- 上榜次数: 2 次
+- 连续上榜: 2 天
 - 最高排名: #12
 - 链接: [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
 
 ## 上榜历史
 
+  - 2026-07-02: #14, +611⭐
   - 2026-07-01: #12, +485⭐
 
 ## 相关项目
 
-[[diegosouzapw-omniroute]] [[msitarzewski-agency-agents]] [[google-agents-cli]] [[tursodatabase-turso]] [[dbt-labs-dbt-core]]
+[[diegosouzapw-omniroute]] [[tencentcloud-cubesandbox]] [[hkuds-vibe-trading]] [[togatoga-karukan]] [[0xnyk-council-of-high-intelligence]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

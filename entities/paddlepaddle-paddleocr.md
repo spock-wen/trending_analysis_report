@@ -35,7 +35,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[roboflow-supervision]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[robbyant-lingbot-map]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]]
+[[deusdata-codebase-memory-mcp]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[browser-use-video-use]] [[allenai-olmocr]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

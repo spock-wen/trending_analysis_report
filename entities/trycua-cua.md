@@ -33,7 +33,7 @@ Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 
 ## 相关项目
 
-[[browser-use-video-use]] [[logto-io-logto]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]] [[google-agents-cli]]
+[[ripienaar-free-for-dev]] [[logto-io-logto]] [[google-agents-cli]] [[browser-use-video-use]] [[grafana-grafana]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

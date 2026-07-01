@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[freecodecamp-freecodecamp]] [[stefan-jansen-machine-learning-for-trading]] [[microsoft-ai-for-beginners]] [[msitarzewski-agency-agents]]
+[[nvidia-cosmos]] [[lyogavin-airllm]] [[owainlewis-awesome-artificial-intelligence]] [[hkuds-vibe-trading]] [[stefan-jansen-machine-learning-for-trading]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

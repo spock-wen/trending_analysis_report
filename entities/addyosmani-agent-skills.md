@@ -37,7 +37,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[mattpocock-skills]] [[diegosouzapw-omniroute]] [[msitarzewski-agency-agents]] [[google-agents-cli]] [[hkuds-vibe-trading]]
+[[diegosouzapw-omniroute]] [[hkuds-vibe-trading]] [[mattpocock-skills]] [[obra-superpowers]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

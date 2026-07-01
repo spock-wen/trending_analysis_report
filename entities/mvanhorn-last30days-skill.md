@@ -37,7 +37,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[roboflow-supervision]] [[browser-use-video-use]] [[robbyant-lingbot-map]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]]
+[[ripienaar-free-for-dev]] [[xbtlin-ai-berkshire]] [[affaan-m-ecc]] [[browser-use-video-use]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

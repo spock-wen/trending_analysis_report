@@ -33,7 +33,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[tursodatabase-turso]] [[dbt-labs-dbt-core]] [[hkuds-vibe-trading]] [[tw93-pake]]
+[[tencentcloud-cubesandbox]] [[hkuds-vibe-trading]] [[ogulcancelik-herdr]] [[togatoga-karukan]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

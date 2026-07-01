@@ -33,7 +33,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[microsoft-powertoys]] [[mukul975-anthropic-cybersecurity-skills]] [[deusdata-codebase-memory-mcp]] [[keycloak-keycloak]] [[affaan-m-ecc]]
+[[deusdata-codebase-memory-mcp]] [[affaan-m-ecc]] [[microsoft-powertoys]] [[mukul975-anthropic-cybersecurity-skills]] [[keycloak-keycloak]]
 
 **所属领域**: [[security]]
 

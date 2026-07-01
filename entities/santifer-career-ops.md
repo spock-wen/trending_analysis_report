@@ -35,7 +35,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 ## 相关项目
 
-[[universal-debloater-alliance-universal-android-debloater-next-generation]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[openai-plugins]] [[hasaneyldrm-exercises-dataset]]
+[[affaan-m-ecc]] [[openai-plugins]] [[hkuds-vibe-trading]] [[anil-matcha-open-generative-ai]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

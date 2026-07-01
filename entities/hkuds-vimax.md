@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[roboflow-supervision]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[robbyant-lingbot-map]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]]
+[[browser-use-video-use]] [[hkuds-vibe-trading]] [[usestrix-strix]] [[anil-matcha-open-generative-ai]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

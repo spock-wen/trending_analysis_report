@@ -35,7 +35,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[tursodatabase-turso]] [[dbt-labs-dbt-core]] [[hkuds-vibe-trading]] [[tw93-pake]]
+[[tencentcloud-cubesandbox]] [[hkuds-vibe-trading]] [[ogulcancelik-herdr]] [[togatoga-karukan]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

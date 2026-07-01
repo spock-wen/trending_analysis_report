@@ -34,7 +34,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[universal-debloater-alliance-universal-android-debloater-next-generation]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[openai-plugins]] [[hasaneyldrm-exercises-dataset]]
+[[affaan-m-ecc]] [[openai-plugins]] [[santifer-career-ops]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

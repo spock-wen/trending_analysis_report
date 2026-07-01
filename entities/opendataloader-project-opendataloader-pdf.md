@@ -33,7 +33,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[krahets-hello-algo]] [[robbyant-lingbot-map]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]] [[deusdata-codebase-memory-mcp]]
+[[deusdata-codebase-memory-mcp]] [[altic-dev-fluidvoice]] [[allenai-olmocr]] [[hkuds-vibe-trading]] [[keycloak-keycloak]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

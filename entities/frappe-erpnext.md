@@ -33,7 +33,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[roboflow-supervision]] [[robbyant-lingbot-map]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[hkuds-vibe-trading]] [[xbtlin-ai-berkshire]]
+[[browser-use-video-use]] [[obra-superpowers]] [[hkuds-vibe-trading]] [[usestrix-strix]] [[odoo-odoo]]
 
 **所属领域**: [[erp]]
 

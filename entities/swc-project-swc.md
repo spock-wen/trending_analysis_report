@@ -35,7 +35,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[tencentcloud-cubesandbox]] [[browser-use-video-use]] [[ogulcancelik-herdr]] [[togatoga-karukan]]
+[[hasaneyldrm-exercises-dataset]] [[dbt-labs-dbt-core]] [[msitarzewski-agency-agents]] [[ogulcancelik-herdr]] [[browser-use-video-use]]
 
 **所属领域**: [[web]]
 

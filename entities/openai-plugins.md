@@ -37,7 +37,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[santifer-career-ops]] [[hkuds-vibe-trading]] [[anil-matcha-open-generative-ai]] [[msitarzewski-agency-agents]]
+[[msitarzewski-agency-agents]] [[obra-superpowers]] [[santifer-career-ops]] [[juliusbrussee-caveman]] [[openai-codex-plugin-cc]]
 
 **所属领域**: [[ai-agent]]
 

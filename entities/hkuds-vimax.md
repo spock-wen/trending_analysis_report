@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[browser-use-video-use]] [[hkuds-vibe-trading]] [[usestrix-strix]] [[anil-matcha-open-generative-ai]] [[msitarzewski-agency-agents]]
+[[hasaneyldrm-exercises-dataset]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

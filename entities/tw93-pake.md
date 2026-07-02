@@ -34,7 +34,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[diegosouzapw-omniroute]] [[tencentcloud-cubesandbox]] [[browser-use-video-use]] [[ogulcancelik-herdr]]
+[[0xnyk-council-of-high-intelligence]] [[hasaneyldrm-exercises-dataset]] [[dbt-labs-dbt-core]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[cli]]
 

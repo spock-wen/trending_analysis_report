@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[diegosouzapw-omniroute]] [[logto-io-logto]] [[refactoringhq-tolaria]] [[ogulcancelik-herdr]] [[0xnyk-council-of-high-intelligence]]
+[[0xnyk-council-of-high-intelligence]] [[refactoringhq-tolaria]] [[actions-checkout]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

@@ -36,5 +36,5 @@ We write your reusable computer vision tools. 💜
 
 ## 相关项目
 
-[[unclecheng-li-vulnclaw]] [[browser-use-video-use]] [[hkuds-vibe-trading]] [[usestrix-strix]]
+[[agentskills-agentskills]] [[hkuds-vibe-trading]] [[usestrix-strix]] [[browser-use-video-use]]
 

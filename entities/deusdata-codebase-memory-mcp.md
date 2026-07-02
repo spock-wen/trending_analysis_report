@@ -37,7 +37,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[microsoft-powertoys]] [[veracrypt-veracrypt]] [[allenai-olmocr]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]]
+[[hasaneyldrm-exercises-dataset]] [[msitarzewski-agency-agents]] [[veracrypt-veracrypt]] [[obra-superpowers]] [[allenai-olmocr]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

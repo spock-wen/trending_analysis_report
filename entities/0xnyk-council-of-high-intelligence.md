@@ -34,7 +34,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[diegosouzapw-omniroute]] [[hkuds-vibe-trading]] [[mattpocock-skills]] [[obra-superpowers]] [[ogulcancelik-herdr]]
+[[msitarzewski-agency-agents]] [[mattpocock-skills]] [[obra-superpowers]] [[diegosouzapw-omniroute]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

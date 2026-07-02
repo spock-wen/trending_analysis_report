@@ -34,7 +34,7 @@ GLM-5: From Vibe Coding to Agentic Engineering
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[yikart-aitoearn]]
+[[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]] [[msitarzewski-agency-agents]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ agent multiplexer that lives in your terminal.
 
 ## 相关项目
 
-[[diegosouzapw-omniroute]] [[tencentcloud-cubesandbox]] [[hkuds-vibe-trading]] [[togatoga-karukan]] [[0xnyk-council-of-high-intelligence]]
+[[0xnyk-council-of-high-intelligence]] [[dbt-labs-dbt-core]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -37,5 +37,5 @@ Python tool for converting files and office documents to Markdown.
 
 ## 相关项目
 
-[[unclecheng-li-vulnclaw]] [[browser-use-video-use]] [[hkuds-vibe-trading]] [[usestrix-strix]]
+[[agentskills-agentskills]] [[hkuds-vibe-trading]] [[usestrix-strix]] [[browser-use-video-use]]
 

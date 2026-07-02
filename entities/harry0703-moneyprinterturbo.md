@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[diegosouzapw-omniroute]] [[browser-use-video-use]] [[hkuds-vibe-trading]] [[usestrix-strix]] [[ogulcancelik-herdr]]
+[[0xnyk-council-of-high-intelligence]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[usestrix-strix]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

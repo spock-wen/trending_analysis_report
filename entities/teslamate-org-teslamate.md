@@ -34,7 +34,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[plausible-analytics]] [[allenai-olmocr]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]]
+[[hasaneyldrm-exercises-dataset]] [[plausible-analytics]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[allenai-olmocr]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -36,5 +36,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[diegosouzapw-omniroute]] [[refactoringhq-tolaria]] [[logto-io-logto]] [[yikart-aitoearn]]
+[[actions-checkout]] [[chromedevtools-chrome-devtools-mcp]] [[refactoringhq-tolaria]] [[yikart-aitoearn]]
 

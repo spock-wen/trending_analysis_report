@@ -33,7 +33,7 @@ Pi extension for async subagent delegation with truncation, artifacts, and sessi
 
 ## 相关项目
 
-[[diegosouzapw-omniroute]] [[logto-io-logto]] [[refactoringhq-tolaria]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]]
+[[refactoringhq-tolaria]] [[actions-checkout]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

@@ -33,7 +33,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[xbtlin-ai-berkshire]] [[affaan-m-ecc]] [[browser-use-video-use]] [[hkuds-vibe-trading]]
+[[hasaneyldrm-exercises-dataset]] [[revfactory-harness]] [[ripienaar-free-for-dev]] [[nousresearch-hermes-agent]] [[shanraisshan-claude-code-best-practice]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

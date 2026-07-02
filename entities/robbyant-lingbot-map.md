@@ -34,7 +34,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[browser-use-video-use]] [[allenai-olmocr]] [[hkuds-vibe-trading]] [[usestrix-strix]]
+[[hasaneyldrm-exercises-dataset]] [[deusdata-codebase-memory-mcp]] [[allenai-olmocr]] [[usestrix-strix]] [[browser-use-video-use]]
 
 **所属领域**: [[data]]
 

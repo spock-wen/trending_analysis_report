@@ -33,7 +33,7 @@ No description
 
 ## 相关项目
 
-[[browser-use-video-use]] [[owainlewis-awesome-artificial-intelligence]] [[hkuds-vibe-trading]] [[usestrix-strix]] [[msitarzewski-agency-agents]]
+[[byoungd-english-level-up-tips]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[owainlewis-awesome-artificial-intelligence]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

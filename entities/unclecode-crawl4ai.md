@@ -33,7 +33,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[browser-use-video-use]] [[hkuds-vibe-trading]] [[usestrix-strix]] [[msitarzewski-agency-agents]]
+[[hasaneyldrm-exercises-dataset]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[usestrix-strix]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

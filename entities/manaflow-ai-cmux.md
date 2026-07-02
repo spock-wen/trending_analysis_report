@@ -35,7 +35,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[diegosouzapw-omniroute]] [[palmier-io-palmier-pro]] [[apple-container]] [[hkuds-vibe-trading]] [[ogulcancelik-herdr]]
+[[0xnyk-council-of-high-intelligence]] [[altic-dev-fluidvoice]] [[msitarzewski-agency-agents]] [[chromedevtools-chrome-devtools-mcp]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -33,7 +33,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[browser-use-video-use]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]]
+[[hasaneyldrm-exercises-dataset]] [[odoo-odoo]] [[msitarzewski-agency-agents]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[erp]]
 

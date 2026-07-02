@@ -33,7 +33,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[browser-use-video-use]] [[jamiepine-voicebox]] [[hkuds-vibe-trading]] [[usestrix-strix]]
+[[lightricks-ltx-2]] [[hasaneyldrm-exercises-dataset]] [[altic-dev-fluidvoice]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

@@ -37,7 +37,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[logto-io-logto]] [[google-agents-cli]] [[browser-use-video-use]] [[grafana-grafana]] [[shanraisshan-claude-code-best-practice]]
+[[hasaneyldrm-exercises-dataset]] [[revfactory-harness]] [[shanraisshan-claude-code-best-practice]] [[msitarzewski-agency-agents]] [[langflow-ai-langflow]]
 
 **所属领域**: [[web]] [[devops]]
 

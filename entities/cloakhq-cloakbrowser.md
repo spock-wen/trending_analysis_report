@@ -34,7 +34,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[affaan-m-ecc]] [[veracrypt-veracrypt]] [[mukul975-anthropic-cybersecurity-skills]] [[browser-use-video-use]]
+[[hasaneyldrm-exercises-dataset]] [[mukul975-anthropic-cybersecurity-skills]] [[odoo-odoo]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

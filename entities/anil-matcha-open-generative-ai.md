@@ -34,7 +34,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[openai-plugins]] [[santifer-career-ops]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]]
+[[hasaneyldrm-exercises-dataset]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[hugohe3-ppt-master]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

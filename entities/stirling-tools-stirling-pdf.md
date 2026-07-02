@@ -33,5 +33,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[diegosouzapw-omniroute]] [[refactoringhq-tolaria]] [[logto-io-logto]] [[yikart-aitoearn]]
+[[actions-checkout]] [[chromedevtools-chrome-devtools-mcp]] [[refactoringhq-tolaria]] [[yikart-aitoearn]]
 

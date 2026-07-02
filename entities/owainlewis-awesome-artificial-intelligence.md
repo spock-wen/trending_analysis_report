@@ -34,7 +34,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[xbtlin-ai-berkshire]] [[hkuds-vibe-trading]] [[nousresearch-hermes-agent]] [[bytedance-deer-flow]]
+[[byoungd-english-level-up-tips]] [[nousresearch-hermes-agent]] [[msitarzewski-agency-agents]] [[xbtlin-ai-berkshire]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

@@ -33,5 +33,5 @@ Free and Open Source Machine Translation API. Self-hosted, offline capable and e
 
 ## 相关项目
 
-[[unclecheng-li-vulnclaw]] [[browser-use-video-use]] [[hkuds-vibe-trading]] [[usestrix-strix]]
+[[agentskills-agentskills]] [[hkuds-vibe-trading]] [[usestrix-strix]] [[browser-use-video-use]]
 

@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[diegosouzapw-omniroute]] [[veracrypt-veracrypt]] [[browser-use-video-use]] [[hkuds-vibe-trading]]
+[[0xnyk-council-of-high-intelligence]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[keycloak-keycloak]] [[veracrypt-veracrypt]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

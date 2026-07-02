@@ -35,7 +35,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tencentcloud-cubesandbox]] [[veracrypt-veracrypt]] [[mukul975-anthropic-cybersecurity-skills]] [[anil-matcha-open-generative-ai]]
+[[mukul975-anthropic-cybersecurity-skills]] [[hasaneyldrm-exercises-dataset]] [[dbt-labs-dbt-core]] [[veracrypt-veracrypt]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[security]] [[image-gen]]
 

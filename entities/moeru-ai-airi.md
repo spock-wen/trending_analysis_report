@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[diegosouzapw-omniroute]] [[logto-io-logto]] [[lightricks-ltx-2]] [[browser-use-video-use]]
+[[lightricks-ltx-2]] [[hasaneyldrm-exercises-dataset]] [[refactoringhq-tolaria]] [[altic-dev-fluidvoice]] [[actions-checkout]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

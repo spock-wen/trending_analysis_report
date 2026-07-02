@@ -33,7 +33,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[browser-use-video-use]] [[jamiepine-voicebox]] [[hkuds-vibe-trading]] [[usestrix-strix]]
+[[lightricks-ltx-2]] [[altic-dev-fluidvoice]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

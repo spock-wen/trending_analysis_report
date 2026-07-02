@@ -37,7 +37,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[xbtlin-ai-berkshire]] [[browser-use-video-use]] [[hkuds-vibe-trading]] [[usestrix-strix]]
+[[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[xbtlin-ai-berkshire]] [[bytedance-deer-flow]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

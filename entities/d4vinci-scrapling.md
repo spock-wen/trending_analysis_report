@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[browser-use-video-use]] [[hkuds-vibe-trading]] [[usestrix-strix]] [[msitarzewski-agency-agents]]
+[[hasaneyldrm-exercises-dataset]] [[msitarzewski-agency-agents]] [[usestrix-strix]] [[browser-use-video-use]] [[agentskills-agentskills]]
 
 **所属领域**: [[web]]
 

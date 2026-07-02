@@ -34,5 +34,5 @@ language: "Java"
 
 ## 相关项目
 
-[[opendataloader-project-opendataloader-pdf]] [[keycloak-keycloak]] [[github-copilot-sdk]]
+[[github-copilot-sdk]] [[keycloak-keycloak]] [[opendataloader-project-opendataloader-pdf]]
 

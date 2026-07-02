@@ -34,7 +34,7 @@ Simple, unified interface to multiple Generative AI providers
 
 ## 相关项目
 
-[[browser-use-video-use]] [[hkuds-vibe-trading]] [[usestrix-strix]] [[msitarzewski-agency-agents]] [[yikart-aitoearn]]
+[[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[usestrix-strix]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]]
 

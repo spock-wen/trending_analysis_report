@@ -34,7 +34,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[xbtlin-ai-berkshire]] [[browser-use-video-use]] [[hkuds-vibe-trading]] [[usestrix-strix]]
+[[hasaneyldrm-exercises-dataset]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[xbtlin-ai-berkshire]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

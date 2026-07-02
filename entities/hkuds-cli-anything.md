@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[diegosouzapw-omniroute]] [[browser-use-video-use]] [[hkuds-vibe-trading]] [[usestrix-strix]]
+[[0xnyk-council-of-high-intelligence]] [[hasaneyldrm-exercises-dataset]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

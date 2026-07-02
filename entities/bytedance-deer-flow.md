@@ -35,7 +35,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[xbtlin-ai-berkshire]] [[browser-use-video-use]] [[hkuds-vibe-trading]] [[usestrix-strix]]
+[[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[xbtlin-ai-berkshire]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[diegosouzapw-omniroute]] [[google-agents-cli]] [[grafana-grafana]] [[refactoringhq-tolaria]]
+[[refactoringhq-tolaria]] [[ripienaar-free-for-dev]] [[actions-checkout]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

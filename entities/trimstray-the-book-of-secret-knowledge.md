@@ -34,7 +34,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[diegosouzapw-omniroute]] [[browser-use-video-use]] [[ogulcancelik-herdr]] [[0xnyk-council-of-high-intelligence]]
+[[0xnyk-council-of-high-intelligence]] [[hasaneyldrm-exercises-dataset]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[web]] [[cli]]
 

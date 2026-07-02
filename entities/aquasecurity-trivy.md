@@ -36,7 +36,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[kunchenguid-no-mistakes]] [[veracrypt-veracrypt]] [[altic-dev-fluidvoice]] [[mukul975-anthropic-cybersecurity-skills]]
+[[mukul975-anthropic-cybersecurity-skills]] [[icewhaletech-casaos]] [[msitarzewski-agency-agents]] [[veracrypt-veracrypt]] [[kenn-io-agentsview]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

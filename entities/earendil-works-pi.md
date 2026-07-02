@@ -34,7 +34,7 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[diegosouzapw-omniroute]] [[logto-io-logto]] [[browser-use-video-use]] [[refactoringhq-tolaria]]
+[[0xnyk-council-of-high-intelligence]] [[hasaneyldrm-exercises-dataset]] [[refactoringhq-tolaria]] [[actions-checkout]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

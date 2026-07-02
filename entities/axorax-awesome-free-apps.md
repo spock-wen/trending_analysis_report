@@ -35,5 +35,5 @@ Curated list of the best free apps for PC and mobile
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[openai-plugins]] [[santifer-career-ops]] [[anil-matcha-open-generative-ai]]
+[[affaan-m-ecc]] [[santifer-career-ops]] [[juliusbrussee-caveman]] [[openai-codex-plugin-cc]]
 

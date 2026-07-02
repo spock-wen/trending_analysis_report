@@ -37,7 +37,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[apple-container]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[yikart-aitoearn]] [[manaflow-ai-cmux]]
+[[altic-dev-fluidvoice]] [[msitarzewski-agency-agents]] [[chromedevtools-chrome-devtools-mcp]] [[obra-superpowers]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[ai-agent]]
 

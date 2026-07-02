@@ -33,7 +33,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[diegosouzapw-omniroute]] [[logto-io-logto]] [[refactoringhq-tolaria]] [[obra-superpowers]] [[odoo-odoo]]
+[[refactoringhq-tolaria]] [[odoo-odoo]] [[actions-checkout]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

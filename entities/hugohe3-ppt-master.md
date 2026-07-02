@@ -33,7 +33,7 @@ AI generates a real, editable PowerPoint from any document — native shapes & a
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[browser-use-video-use]] [[jamiepine-voicebox]] [[hkuds-vibe-trading]] [[usestrix-strix]]
+[[lightricks-ltx-2]] [[hasaneyldrm-exercises-dataset]] [[odoo-odoo]] [[altic-dev-fluidvoice]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[image-gen]] [[audio]]
 

@@ -33,7 +33,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[lyogavin-airllm]] [[obra-superpowers]] [[odoo-odoo]] [[hugohe3-ppt-master]]
+[[odoo-odoo]] [[ripienaar-free-for-dev]] [[lyogavin-airllm]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

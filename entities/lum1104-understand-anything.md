@@ -37,7 +37,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[diegosouzapw-omniroute]] [[logto-io-logto]] [[refactoringhq-tolaria]] [[owainlewis-awesome-artificial-intelligence]] [[hkuds-vibe-trading]]
+[[0xnyk-council-of-high-intelligence]] [[refactoringhq-tolaria]] [[byoungd-english-level-up-tips]] [[actions-checkout]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

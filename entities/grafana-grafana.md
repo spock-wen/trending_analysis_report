@@ -33,7 +33,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[diegosouzapw-omniroute]] [[logto-io-logto]] [[ripienaar-free-for-dev]] [[google-agents-cli]]
+[[hasaneyldrm-exercises-dataset]] [[refactoringhq-tolaria]] [[ripienaar-free-for-dev]] [[actions-checkout]] [[langflow-ai-langflow]]
 
 **所属领域**: [[data]] [[devops]]
 

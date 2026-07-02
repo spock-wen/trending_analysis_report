@@ -33,7 +33,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[diegosouzapw-omniroute]] [[lightricks-ltx-2]] [[browser-use-video-use]] [[jamiepine-voicebox]] [[hkuds-vibe-trading]]
+[[lightricks-ltx-2]] [[0xnyk-council-of-high-intelligence]] [[altic-dev-fluidvoice]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
 
 **所属领域**: [[cli]] [[audio]]
 

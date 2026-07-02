@@ -33,7 +33,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[diegosouzapw-omniroute]] [[0xnyk-council-of-high-intelligence]] [[msitarzewski-agency-agents]] [[ogulcancelik-herdr]]
+[[obra-superpowers]] [[0xnyk-council-of-high-intelligence]] [[diegosouzapw-omniroute]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[cli]]
 

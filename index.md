@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-07-02 | 总页面：281
+> 最后更新：2026-07-03 | 总页面：289
 
 ## Entities
 
@@ -9,9 +9,11 @@
 - [[1jehuang-jcode|jcode"]] — Coding Agent Harness
 - [[666ghj-mirofish|MiroFish"]] — A Simple and Universal Swarm Intelligence Engine, Predicting...
 - [[aaif-goose-goose|goose"]] — an open source, extensible AI agent that goes beyond code su... 🔥
+- [[actions-checkout|checkout"]] — Action for checking out a repo 🆕
 - [[activeloopai-hivemind|hivemind"]] — One brain for all your agents
 - [[addyosmani-agent-skills|agent-skills"]] — Production-grade engineering skills for AI coding agents. 🔥
 - [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i...
+- [[agentskills-agentskills|agentskills"]] — Specification and documentation for Agent Skills 🆕
 - [[aishwaryanr-awesome-generative-ai-guide|awesome-generative-ai-guide"]] — A one stop repository for generative AI research updates, in...
 - [[alchaincyf-zhangxuefeng-skill|zhangxuefeng-skill"]] — 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 - [[alexzhang13-rlm|rlm"]] — General plug-and-play inference library for Recursive Langua...
@@ -19,7 +21,7 @@
 - [[alibaba-zvec|zvec"]] — A lightweight, lightning-fast, in-process vector database
 - [[alireza0-s-ui|s-ui"]] — An advanced Web Panel • Built for SagerNet/Sing-Box
 - [[alishahryar1-free-claude-code|free-claude-code"]] — Use claude-code for free in the terminal, VSCode extension o... 🆕
-- [[allenai-olmocr|olmocr"]] — Toolkit for linearizing PDFs for LLM datasets/training 🆕
+- [[allenai-olmocr|olmocr"]] — Toolkit for linearizing PDFs for LLM datasets/training
 - [[altic-dev-fluidvoice|FluidVoice"]] — Fastest and only macOS Dictation app with on-device STT and ... 🔥
 - [[andreknieriem-headunit-revived|headunit-revived"]] — Headunit App for displaying Android Auto
 - [[andrewyng-aisuite|aisuite"]] — Simple, unified interface to multiple Generative AI provider... 🆕
@@ -53,7 +55,7 @@
 - [[chatwoot-chatwoot|chatwoot"]] — Open-source live-chat, email support, omni-channel desk. An ...
 - [[chen08209-flclash|FlClash"]] — A multi-platform proxy client based on ClashMeta,simple and ...
 - [[chopratejas-headroom|headroom"]] — Compress tool outputs, logs, files, and RAG chunks before th... 🔥
-- [[chromedevtools-chrome-devtools-mcp|chrome-devtools-mcp"]] — Chrome DevTools for coding agents 🆕
+- [[chromedevtools-chrome-devtools-mcp|chrome-devtools-mcp"]] — Chrome DevTools for coding agents
 - [[cloakhq-cloakbrowser|CloakBrowser"]] — Stealth Chromium that passes every bot detection test. Drop-... 🆕
 - [[codecrafters-io-build-your-own-x|build-your-own-x"]] — Master programming by recreating your favorite technologies ... 🔥
 - [[colbymchenry-codegraph|codegraph"]] — Pre-indexed code knowledge graph for Claude Code, Codex, Cur... 🔥
@@ -106,7 +108,7 @@
 - [[grafana-grafana|grafana"]] — The open and composable observability and data visualization...
 - [[hardikpandya-stop-slop|stop-slop"]] — A skill file for removing AI tells from prose 🔥
 - [[harry0703-moneyprinterturbo|MoneyPrinterTurbo"]] — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using...
-- [[hasaneyldrm-exercises-dataset|exercises-dataset"]] — A comprehensive dataset of 433 fitness exercises. Each entry... 🆕
+- [[hasaneyldrm-exercises-dataset|exercises-dataset"]] — A comprehensive dataset of 433 fitness exercises. Each entry... 🔥
 - [[hexo-ai-sia|sia"]] — SIA is a Self Improving AI framework to autonomously improve...
 - [[heygen-com-hyperframes|hyperframes"]] — Write HTML. Render video. Built for agents.
 - [[hkuds-cli-anything|CLI-Anything"]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:... 🔥
@@ -128,6 +130,7 @@
 - [[jcodesmore-ai-website-cloner-template|ai-website-cloner-template"]] — Clone any website with one command using AI coding agents 🔥
 - [[jellyfin-jellyfin|jellyfin"]] — The Free Software Media System - Server Backend & API
 - [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm"]] — Claude Skill: Multi-source content processor for NotebookLM. 🆕
+- [[juliusbrussee-caveman|caveman"]] — 🪨 why use many token when few token do trick — Claude Code s... 🆕
 - [[jwasham-coding-interview-university|coding-interview-university"]] — A complete computer science study plan to become a software ...
 - [[k-dense-ai-scientific-agent-skills|scientific-agent-skills"]] — A set of ready to use Agent Skills for research, science, en... 🔥
 - [[karpathy-nn-zero-to-hero|nn-zero-to-hero"]] — Neural Networks: Zero to Hero
@@ -140,6 +143,7 @@
 - [[kong-insomnia|insomnia"]] — The open-source, cross-platform API client for GraphQL, REST... 🔥
 - [[krahets-hello-algo|hello-algo"]] — 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python...
 - [[kunchenguid-no-mistakes|no-mistakes"]] — git push no-mistakes
+- [[langflow-ai-langflow|langflow"]] — Langflow is a powerful tool for building and deploying AI-po... 🆕
 - [[leonxlnx-taste-skill|taste-skill"]] — Taste-Skill - gives your AI good taste. stops the AI from ge...
 - [[lfnovo-open-notebook|open-notebook"]] — An Open Source implementation of Notebook LM with more flexi... 🔥
 - [[libretranslate-libretranslate|LibreTranslate"]] — Free and Open Source Machine Translation API. Self-hosted, o...
@@ -189,6 +193,7 @@
 - [[ogulcancelik-herdr|herdr"]] — agent multiplexer that lives in your terminal. 🆕
 - [[open-dev-society-openstock|OpenStock"]] — OpenStock is an open-source alternative to expensive market ...
 - [[open-llm-vtuber-open-llm-vtuber|Open-LLM-VTuber"]] — Talk to any LLM with hands-free voice interaction, voice int... 🔥
+- [[openai-codex-plugin-cc|codex-plugin-cc"]] — Use Codex from Claude Code to review code or delegate tasks. 🆕
 - [[openai-plugins|plugins"]] — OpenAI Plugins 🔥
 - [[openbmb-voxcpm|VoxCPM"]] — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generati...
 - [[openclaw-openclaw-windows-node|openclaw-windows-node"]] — Windows companion suite for OpenClaw - System Tray app, Shar... 🆕
@@ -212,6 +217,7 @@
 - [[pppscn-smsforwarder|SmsForwarder"]] — 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内...
 - [[puppeteer-puppeteer|puppeteer"]] — JavaScript API for Chrome and Firefox
 - [[pytest-dev-pytest|pytest"]] — The pytest framework makes it easy to write small tests, yet...
+- [[pytorch-pytorch|pytorch"]] — Tensors and Dynamic neural networks in Python with strong GP... 🆕
 - [[raphire-win11debloat|Win11Debloat"]] — A simple, lightweight PowerShell script that allows you to r...
 - [[reconurge-flowsint|flowsint"]] — A modern platform for visual, flexible, and extensible graph... 🆕
 - [[refactoringhq-tolaria|tolaria"]] — Desktop app to manage markdown knowledge bases
@@ -227,7 +233,8 @@
 - [[run-llama-liteparse|liteparse"]] — A fast, helpful, and open-source document parser 🆕
 - [[ruvnet-ruview|RuView"]] — π RuView turns commodity WiFi signals into real-time spatial...
 - [[ryancodrai-turbovec|turbovec"]] — A vector index built on TurboQuant, written in Rust with Pyt... 🔥
-- [[santifer-career-ops|career-ops"]] — AI-powered job search system built on Claude Code. 14 skill ... 🆕
+- [[ryanmcdermott-clean-code-javascript|clean-code-javascript"]] — Clean Code concepts adapted for JavaScript 🆕
+- [[santifer-career-ops|career-ops"]] — AI-powered job search system built on Claude Code. 14 skill ...
 - [[shanraisshan-claude-code-best-practice|claude-code-best-practice"]] — from vibe coding to agentic engineering - practice makes cla...
 - [[shiyu-coder-kronos|Kronos"]] — Kronos: A Foundation Model for the Language of Financial Mar... 🆕
 - [[simplex-chat-simplex-chat|simplex-chat"]] — SimpleX - the first messaging network operating without user... 🔥
@@ -243,12 +250,12 @@
 - [[tapxworld-chinatextbook|ChinaTextbook"]] — 所有小初高、大学PDF教材。
 - [[tauricresearch-tradingagents|TradingAgents"]] — TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [[tech-leads-club-agent-skills|agent-skills"]] — The secure, validated skill registry for professional AI cod... 🆕
-- [[tencentcloud-cubesandbox|CubeSandbox"]] — Instant, Concurrent, Secure & Lightweight Sandbox for AI Age... 🆕
+- [[tencentcloud-cubesandbox|CubeSandbox"]] — Instant, Concurrent, Secure & Lightweight Sandbox for AI Age...
 - [[teng-lin-notebooklm-py|notebooklm-py"]] — Unofficial Python API and agentic skill for Google NotebookL...
 - [[teslamate-org-teslamate|teslamate"]] — A self-hosted data logger for your Tesla 🚘 [main maintainer=... 🆕
 - [[thedotmack-claude-mem|claude-mem"]] — Persistent Context Across Sessions for Every Agent – Capture...
 - [[tinyhumansai-openhuman|openhuman"]] — Your Personal AI super intelligence. Private, Simple and ext... 🔥
-- [[togatoga-karukan|karukan"]] — Japanese Input Method System for Linux, macOS, Neural Kana-K... 🆕
+- [[togatoga-karukan|karukan"]] — Japanese Input Method System for Linux, macOS, Neural Kana-K...
 - [[topoteretes-cognee|cognee"]] — Cognee is the open-source AI memory platform for agents. Giv...
 - [[trimstray-the-book-of-secret-knowledge|the-book-of-secret-knowledge"]] — A collection of inspiring lists, manuals, cheatsheets, blogs... 🆕
 - [[truelockmc-streambert|streambert"]] — A cross-platform Electron Desktop App to stream and download... 🆕
@@ -260,7 +267,7 @@
 - [[unclecheng-li-vulnclaw|VulnClaw"]] — 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「...
 - [[unclecode-crawl4ai|crawl4ai"]] — 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper....
 - [[universal-debloater-alliance-universal-android-debloater-next-generation|universal-android-debloater-next-generation"]] — Cross-platform GUI written in Rust using ADB to debloat non-... 🔥
-- [[usestrix-strix|strix"]] — Open-source AI penetration testing tool to find and fix your... 🆕
+- [[usestrix-strix|strix"]] — Open-source AI penetration testing tool to find and fix your... 🔥
 - [[veracrypt-veracrypt|VeraCrypt"]] — Disk encryption with strong security based on TrueCrypt
 - [[withastro-flue|flue"]] — The sandbox agent framework. 🔥
 - [[x1xhlol-system-prompts-and-models-of-ai-tools|system-prompts-and-models-of-ai-tools"]] — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cu...
@@ -282,6 +289,7 @@
 - [[erp]] — erp 领域趋势分析
 - [[go-surge]] — go-surge 领域趋势分析
 - [[image-gen]] — image-gen 领域趋势分析
+- [[javascript-surge]] — javascript-surge 领域趋势分析
 - [[python-surge]] — python-surge 领域趋势分析
 - [[rust-surge]] — rust-surge 领域趋势分析
 - [[science]] — science 领域趋势分析

@@ -37,5 +37,5 @@ Desktop app to manage markdown knowledge bases
 
 ## 相关项目
 
-[[diegosouzapw-omniroute]] [[logto-io-logto]] [[yikart-aitoearn]]
+[[actions-checkout]] [[chromedevtools-chrome-devtools-mcp]] [[yikart-aitoearn]]
 

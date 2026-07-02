@@ -34,7 +34,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[kunchenguid-no-mistakes]] [[altic-dev-fluidvoice]] [[allenai-olmocr]] [[hkuds-vibe-trading]]
+[[hasaneyldrm-exercises-dataset]] [[deusdata-codebase-memory-mcp]] [[icewhaletech-casaos]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

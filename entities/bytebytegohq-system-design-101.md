@@ -33,7 +33,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[hkuds-vibe-trading]] [[msitarzewski-agency-agents]] [[yikart-aitoearn]]
+[[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]] [[msitarzewski-agency-agents]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), con
 
 ## 相关项目
 
-[[logto-io-logto]] [[refactoringhq-tolaria]] [[hkuds-vibe-trading]] [[ogulcancelik-herdr]] [[0xnyk-council-of-high-intelligence]]
+[[0xnyk-council-of-high-intelligence]] [[refactoringhq-tolaria]] [[actions-checkout]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

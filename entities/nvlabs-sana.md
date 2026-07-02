@@ -33,7 +33,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[browser-use-video-use]] [[hkuds-vibe-trading]] [[usestrix-strix]] [[anil-matcha-open-generative-ai]] [[hasaneyldrm-exercises-dataset]]
+[[hasaneyldrm-exercises-dataset]] [[hugohe3-ppt-master]] [[santifer-career-ops]] [[usestrix-strix]] [[browser-use-video-use]]
 
 **所属领域**: [[image-gen]]
 

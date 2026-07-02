@@ -34,7 +34,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[kunchenguid-no-mistakes]] [[altic-dev-fluidvoice]] [[allenai-olmocr]] [[hkuds-vibe-trading]]
+[[hasaneyldrm-exercises-dataset]] [[deusdata-codebase-memory-mcp]] [[icewhaletech-casaos]] [[msitarzewski-agency-agents]] [[kenn-io-agentsview]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

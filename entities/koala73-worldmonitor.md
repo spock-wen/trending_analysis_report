@@ -35,7 +35,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[diegosouzapw-omniroute]] [[logto-io-logto]] [[google-agents-cli]] [[grafana-grafana]]
+[[refactoringhq-tolaria]] [[ripienaar-free-for-dev]] [[actions-checkout]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

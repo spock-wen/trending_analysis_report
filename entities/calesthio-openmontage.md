@@ -37,7 +37,7 @@ World's first open-source, agentic video production system. 12 pipelines, 52 too
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[browser-use-video-use]] [[allenai-olmocr]] [[hkuds-vibe-trading]] [[usestrix-strix]]
+[[hasaneyldrm-exercises-dataset]] [[deusdata-codebase-memory-mcp]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

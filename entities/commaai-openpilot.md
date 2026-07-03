@@ -36,7 +36,7 @@ openpilot is an operating system for robotics. Currently, it upgrades the driver
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[usestrix-strix]] [[browser-use-video-use]]
+[[obra-superpowers]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[agentskills-agentskills]] [[pytorch-pytorch]]
 
 **所属领域**: [[ai-agent]]
 

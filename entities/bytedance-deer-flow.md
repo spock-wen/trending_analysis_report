@@ -35,7 +35,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[xbtlin-ai-berkshire]] [[obra-superpowers]]
+[[safishamsi-graphify]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[obra-superpowers]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

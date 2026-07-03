@@ -37,7 +37,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[xbtlin-ai-berkshire]] [[bytedance-deer-flow]] [[obra-superpowers]]
+[[safishamsi-graphify]] [[affaan-m-ecc]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

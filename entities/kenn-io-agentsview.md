@@ -34,7 +34,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[deusdata-codebase-memory-mcp]] [[icewhaletech-casaos]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
+[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[icewhaletech-casaos]] [[allenai-olmocr]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

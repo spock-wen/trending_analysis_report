@@ -33,5 +33,5 @@ No description
 
 ## 相关项目
 
-[[nvidia-cosmos]] [[stefan-jansen-machine-learning-for-trading]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]]
+[[nvidia-cosmos]] [[stefan-jansen-machine-learning-for-trading]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]]
 

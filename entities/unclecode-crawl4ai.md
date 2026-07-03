@@ -33,7 +33,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[usestrix-strix]]
+[[ansible-ansible]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[agentskills-agentskills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

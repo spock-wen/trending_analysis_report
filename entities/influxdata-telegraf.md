@@ -34,7 +34,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[deusdata-codebase-memory-mcp]] [[icewhaletech-casaos]] [[msitarzewski-agency-agents]] [[kenn-io-agentsview]]
+[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[icewhaletech-casaos]] [[allenai-olmocr]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

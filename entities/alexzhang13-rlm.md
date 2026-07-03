@@ -33,5 +33,5 @@ General plug-and-play inference library for Recursive Language Models (RLMs), su
 
 ## 相关项目
 
-[[agentskills-agentskills]] [[hkuds-vibe-trading]] [[usestrix-strix]] [[browser-use-video-use]]
+[[agentskills-agentskills]] [[pytorch-pytorch]] [[anthropics-claude-code]] [[usestrix-strix]]
 

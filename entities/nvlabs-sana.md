@@ -33,7 +33,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[hugohe3-ppt-master]] [[santifer-career-ops]] [[usestrix-strix]] [[browser-use-video-use]]
+[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[anthropics-claude-code]] [[agentskills-agentskills]] [[pytorch-pytorch]]
 
 **所属领域**: [[image-gen]]
 

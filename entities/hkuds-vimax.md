@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[hugohe3-ppt-master]]
+[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

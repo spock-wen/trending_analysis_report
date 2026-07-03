@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[msitarzewski-agency-agents]] [[usestrix-strix]] [[browser-use-video-use]] [[agentskills-agentskills]]
+[[ansible-ansible]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[agentskills-agentskills]] [[pytorch-pytorch]]
 
 **所属领域**: [[web]]
 

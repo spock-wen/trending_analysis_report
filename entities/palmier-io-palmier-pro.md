@@ -37,7 +37,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[msitarzewski-agency-agents]] [[chromedevtools-chrome-devtools-mcp]] [[obra-superpowers]] [[manaflow-ai-cmux]]
+[[apple-container]] [[manaflow-ai-cmux]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

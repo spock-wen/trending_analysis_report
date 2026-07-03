@@ -36,7 +36,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[icewhaletech-casaos]] [[msitarzewski-agency-agents]] [[veracrypt-veracrypt]] [[kenn-io-agentsview]]
+[[keycloak-keycloak]] [[affaan-m-ecc]] [[icewhaletech-casaos]] [[obra-superpowers]] [[masterking32-masterdnsvpn]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

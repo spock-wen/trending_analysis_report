@@ -34,7 +34,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[0xnyk-council-of-high-intelligence]] [[hasaneyldrm-exercises-dataset]] [[dbt-labs-dbt-core]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
+[[tencentcloud-cubesandbox]] [[ansible-ansible]] [[togatoga-karukan]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]] [[cli]]
 

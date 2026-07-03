@@ -33,7 +33,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[0xnyk-council-of-high-intelligence]] [[dbt-labs-dbt-core]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[ogulcancelik-herdr]]
+[[tencentcloud-cubesandbox]] [[obra-superpowers]] [[togatoga-karukan]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

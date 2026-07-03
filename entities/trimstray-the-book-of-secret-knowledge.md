@@ -34,7 +34,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[0xnyk-council-of-high-intelligence]] [[hasaneyldrm-exercises-dataset]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[diegosouzapw-omniroute]]
+[[ansible-ansible]] [[obra-superpowers]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]]
 
 **所属领域**: [[web]] [[cli]]
 

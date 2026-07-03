@@ -36,7 +36,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[deusdata-codebase-memory-mcp]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
+[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[allenai-olmocr]] [[obra-superpowers]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

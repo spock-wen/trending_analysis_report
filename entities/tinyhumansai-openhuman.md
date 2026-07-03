@@ -37,7 +37,7 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[dbt-labs-dbt-core]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[ogulcancelik-herdr]] [[togatoga-karukan]]
+[[tencentcloud-cubesandbox]] [[obra-superpowers]] [[togatoga-karukan]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

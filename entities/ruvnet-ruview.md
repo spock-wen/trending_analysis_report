@@ -37,7 +37,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[dbt-labs-dbt-core]] [[ripienaar-free-for-dev]] [[langflow-ai-langflow]] [[ogulcancelik-herdr]] [[togatoga-karukan]]
+[[safishamsi-graphify]] [[ansible-ansible]] [[tencentcloud-cubesandbox]] [[logto-io-logto]] [[togatoga-karukan]]
 
 **所属领域**: [[devops]]
 

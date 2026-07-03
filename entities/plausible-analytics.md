@@ -34,7 +34,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[mukul975-anthropic-cybersecurity-skills]] [[msitarzewski-agency-agents]] [[keycloak-keycloak]] [[chromedevtools-chrome-devtools-mcp]]
+[[keycloak-keycloak]] [[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[allenai-olmocr]] [[ansible-ansible]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

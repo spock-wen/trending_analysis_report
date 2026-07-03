@@ -37,7 +37,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[msitarzewski-agency-agents]] [[veracrypt-veracrypt]] [[obra-superpowers]] [[allenai-olmocr]]
+[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[allenai-olmocr]] [[veracrypt-veracrypt]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

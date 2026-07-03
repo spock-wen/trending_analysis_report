@@ -37,5 +37,5 @@ Desktop app to manage markdown knowledge bases
 
 ## 相关项目
 
-[[actions-checkout]] [[chromedevtools-chrome-devtools-mcp]] [[yikart-aitoearn]]
+[[supabase-supabase]] [[chromedevtools-chrome-devtools-mcp]] [[facebook-astryx]] [[actions-checkout]]
 

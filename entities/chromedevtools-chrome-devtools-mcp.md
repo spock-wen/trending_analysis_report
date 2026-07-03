@@ -1,19 +1,19 @@
 ---
 title: "ChromeDevTools/chrome-devtools-mcp"
 created: 2026-05-22
-updated: 2026-07-03
+updated: 2026-07-04
 type: tool
 tags: [typescript, ai-agent, web]
-sources: [raw/trending/2026-07-03.json]
+sources: [raw/trending/2026-07-04.json]
 confidence: high
-trending_count_daily: 3
+trending_count_daily: 4
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-05-22
-last_trending: 2026-07-03
+last_trending: 2026-07-04
 peak_rank: 5
-total_stars: 45069
+total_stars: 45464
 language: "TypeScript"
 ---
 
@@ -22,20 +22,21 @@ language: "TypeScript"
 Chrome DevTools for coding agents
 
 - 语言: TypeScript
-- 上榜次数: 3 次
-- 连续上榜: 1 天
+- 上榜次数: 4 次
+- 连续上榜: 2 天
 - 最高排名: #5
 - 链接: [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
 ## 上榜历史
 
+  - 2026-07-04: #6, +404⭐
   - 2026-07-03: #7, +141⭐
   - 2026-05-23: #5, +501⭐
   - 2026-05-22: #8, +132⭐
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[refactoringhq-tolaria]] [[actions-checkout]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
+[[ansible-ansible]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[facebook-astryx]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

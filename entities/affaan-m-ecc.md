@@ -37,7 +37,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[nousresearch-hermes-agent]] [[msitarzewski-agency-agents]] [[xbtlin-ai-berkshire]] [[veracrypt-veracrypt]]
+[[juliusbrussee-caveman]] [[keycloak-keycloak]] [[safishamsi-graphify]] [[nousresearch-hermes-agent]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

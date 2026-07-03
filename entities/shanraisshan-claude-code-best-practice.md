@@ -34,7 +34,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[revfactory-harness]] [[ripienaar-free-for-dev]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
+[[revfactory-harness]] [[hasaneyldrm-exercises-dataset]] [[ansible-ansible]] [[obra-superpowers]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

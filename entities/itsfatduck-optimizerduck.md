@@ -33,7 +33,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[dotnet-aspnetcore]] [[mukul975-anthropic-cybersecurity-skills]] [[veracrypt-veracrypt]] [[affaan-m-ecc]] [[openclaw-openclaw-windows-node]]
+[[keycloak-keycloak]] [[dotnet-aspnetcore]] [[affaan-m-ecc]] [[openclaw-openclaw-windows-node]] [[jellyfin-jellyfin]]
 
 **所属领域**: [[security]]
 

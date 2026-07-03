@@ -34,5 +34,5 @@ git push no-mistakes
 
 ## 相关项目
 
-[[masterking32-masterdnsvpn]] [[icewhaletech-casaos]] [[kenn-io-agentsview]]
+[[icewhaletech-casaos]] [[masterking32-masterdnsvpn]] [[kenn-io-agentsview]]
 

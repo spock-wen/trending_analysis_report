@@ -36,7 +36,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[dotnet-aspnetcore]] [[msitarzewski-agency-agents]] [[itsfatduck-optimizerduck]] [[chromedevtools-chrome-devtools-mcp]] [[obra-superpowers]]
+[[dotnet-aspnetcore]] [[openclaw-openclaw-windows-node]] [[obra-superpowers]] [[jellyfin-jellyfin]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

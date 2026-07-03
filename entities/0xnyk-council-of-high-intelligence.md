@@ -34,7 +34,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[mattpocock-skills]] [[obra-superpowers]] [[diegosouzapw-omniroute]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

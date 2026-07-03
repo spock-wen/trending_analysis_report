@@ -37,7 +37,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[byoungd-english-level-up-tips]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[owainlewis-awesome-artificial-intelligence]] [[microsoft-ai-for-beginners]]
+[[freecodecamp-freecodecamp]] [[byoungd-english-level-up-tips]] [[owainlewis-awesome-artificial-intelligence]] [[obra-superpowers]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

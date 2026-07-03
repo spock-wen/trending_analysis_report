@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[0xnyk-council-of-high-intelligence]] [[hasaneyldrm-exercises-dataset]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
+[[ansible-ansible]] [[obra-superpowers]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

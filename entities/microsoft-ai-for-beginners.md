@@ -34,7 +34,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[byoungd-english-level-up-tips]] [[lyogavin-airllm]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[stefan-jansen-machine-learning-for-trading]]
+[[freecodecamp-freecodecamp]] [[byoungd-english-level-up-tips]] [[owainlewis-awesome-artificial-intelligence]] [[obra-superpowers]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

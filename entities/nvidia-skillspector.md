@@ -36,7 +36,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[keycloak-keycloak]] [[veracrypt-veracrypt]]
+[[keycloak-keycloak]] [[affaan-m-ecc]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

@@ -36,7 +36,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[altic-dev-fluidvoice]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
+[[altic-dev-fluidvoice]] [[obra-superpowers]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

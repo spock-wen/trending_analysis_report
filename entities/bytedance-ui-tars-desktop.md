@@ -33,7 +33,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[refactoringhq-tolaria]] [[ripienaar-free-for-dev]] [[actions-checkout]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
+[[safishamsi-graphify]] [[ansible-ansible]] [[logto-io-logto]] [[obra-superpowers]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -35,7 +35,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[0xnyk-council-of-high-intelligence]] [[altic-dev-fluidvoice]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]]
+[[altic-dev-fluidvoice]] [[obra-superpowers]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

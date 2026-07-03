@@ -33,7 +33,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[revfactory-harness]] [[ripienaar-free-for-dev]] [[nousresearch-hermes-agent]] [[shanraisshan-claude-code-best-practice]]
+[[revfactory-harness]] [[hasaneyldrm-exercises-dataset]] [[safishamsi-graphify]] [[affaan-m-ecc]] [[ansible-ansible]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

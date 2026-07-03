@@ -37,7 +37,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[0xnyk-council-of-high-intelligence]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[diegosouzapw-omniroute]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

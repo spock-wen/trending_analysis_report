@@ -33,7 +33,7 @@ Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[revfactory-harness]] [[ripienaar-free-for-dev]] [[shanraisshan-claude-code-best-practice]] [[msitarzewski-agency-agents]]
+[[revfactory-harness]] [[hasaneyldrm-exercises-dataset]] [[safishamsi-graphify]] [[ansible-ansible]] [[logto-io-logto]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

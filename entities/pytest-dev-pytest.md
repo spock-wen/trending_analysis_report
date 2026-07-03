@@ -33,5 +33,5 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 
 ## 相关项目
 
-[[agentskills-agentskills]] [[hkuds-vibe-trading]] [[usestrix-strix]] [[browser-use-video-use]]
+[[agentskills-agentskills]] [[pytorch-pytorch]] [[anthropics-claude-code]] [[usestrix-strix]]
 

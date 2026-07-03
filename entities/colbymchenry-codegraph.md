@@ -37,7 +37,7 @@ Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H
 
 ## 相关项目
 
-[[refactoringhq-tolaria]] [[actions-checkout]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[msitarzewski-agency-agents]] [[facebook-astryx]] [[anthropics-claude-code]] [[actions-checkout]]
 
 **所属领域**: [[ai-agent]]
 

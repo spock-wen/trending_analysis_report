@@ -33,7 +33,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[odoo-odoo]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[hugohe3-ppt-master]] [[usestrix-strix]]
+[[obra-superpowers]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[hugohe3-ppt-master]] [[anthropics-claude-code]] [[agentskills-agentskills]]
 
 **所属领域**: [[erp]]
 

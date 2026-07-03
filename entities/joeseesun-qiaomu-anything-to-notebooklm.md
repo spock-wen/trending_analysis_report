@@ -34,7 +34,7 @@ Claude Skill: Multi-source content processor for NotebookLM.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[usestrix-strix]] [[browser-use-video-use]]
+[[obra-superpowers]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[agentskills-agentskills]] [[pytorch-pytorch]]
 
 **所属领域**: [[ai-agent]]
 

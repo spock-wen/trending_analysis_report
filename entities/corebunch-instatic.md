@@ -34,5 +34,5 @@ Instatic is a modern self-hosted visual CMS - get it running in 1 minute
 
 ## 相关项目
 
-[[actions-checkout]] [[chromedevtools-chrome-devtools-mcp]] [[refactoringhq-tolaria]] [[yikart-aitoearn]]
+[[supabase-supabase]] [[chromedevtools-chrome-devtools-mcp]] [[facebook-astryx]] [[actions-checkout]]
 

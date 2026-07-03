@@ -34,7 +34,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[opendataloader-project-opendataloader-pdf]] [[obra-superpowers]] [[affaan-m-ecc]] [[chromedevtools-chrome-devtools-mcp]]
+[[keycloak-keycloak]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[apache-maven]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

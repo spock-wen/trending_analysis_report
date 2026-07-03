@@ -34,7 +34,7 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ## 相关项目
 
-[[refactoringhq-tolaria]] [[actions-checkout]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[msitarzewski-agency-agents]] [[facebook-astryx]] [[anthropics-claude-code]] [[actions-checkout]]
 
 **所属领域**: [[ai-agent]]
 

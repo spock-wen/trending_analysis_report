@@ -33,7 +33,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[0xnyk-council-of-high-intelligence]] [[ripienaar-free-for-dev]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
+[[safishamsi-graphify]] [[ansible-ansible]] [[logto-io-logto]] [[obra-superpowers]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

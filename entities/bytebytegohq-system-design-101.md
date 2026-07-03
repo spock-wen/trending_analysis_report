@@ -33,7 +33,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]] [[msitarzewski-agency-agents]] [[affaan-m-ecc]]
+[[chromedevtools-chrome-devtools-mcp]] [[anthropics-claude-code]] [[obra-superpowers]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

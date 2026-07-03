@@ -33,7 +33,7 @@ Toolkit for linearizing PDFs for LLM datasets/training
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[deusdata-codebase-memory-mcp]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
+[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

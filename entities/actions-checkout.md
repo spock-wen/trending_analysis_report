@@ -1,19 +1,19 @@
 ---
 title: "actions/checkout"
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-07-04
 type: tool
 tags: [typescript]
-sources: [raw/trending/2026-07-03.json]
-confidence: low
-trending_count_daily: 1
+sources: [raw/trending/2026-07-04.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-07-03
-last_trending: 2026-07-03
-peak_rank: 9
-total_stars: 8151
+last_trending: 2026-07-04
+peak_rank: 5
+total_stars: 8258
 language: "TypeScript"
 ---
 
@@ -22,16 +22,17 @@ language: "TypeScript"
 Action for checking out a repo
 
 - 语言: TypeScript
-- 上榜次数: 1 次
-- 连续上榜: 1 天
-- 最高排名: #9
+- 上榜次数: 2 次
+- 连续上榜: 2 天
+- 最高排名: #5
 - 链接: [actions/checkout](https://github.com/actions/checkout)
 
 ## 上榜历史
 
+  - 2026-07-04: #5, +129⭐
   - 2026-07-03: #9, +5⭐
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[refactoringhq-tolaria]] [[yikart-aitoearn]]
+[[supabase-supabase]] [[chromedevtools-chrome-devtools-mcp]] [[facebook-astryx]]
 

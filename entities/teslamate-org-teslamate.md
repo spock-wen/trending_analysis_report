@@ -34,7 +34,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[plausible-analytics]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[allenai-olmocr]]
+[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[allenai-olmocr]] [[obra-superpowers]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -33,7 +33,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[odoo-odoo]] [[ripienaar-free-for-dev]] [[lyogavin-airllm]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]]
+[[freecodecamp-freecodecamp]] [[byoungd-english-level-up-tips]] [[owainlewis-awesome-artificial-intelligence]] [[safishamsi-graphify]] [[ansible-ansible]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

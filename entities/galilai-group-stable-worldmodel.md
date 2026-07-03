@@ -34,7 +34,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[xbtlin-ai-berkshire]]
+[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

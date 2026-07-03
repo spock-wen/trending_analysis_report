@@ -34,5 +34,5 @@ A self-hosted travel/trip planner with real-time collaboration, interactive maps
 
 ## 相关项目
 
-[[actions-checkout]] [[chromedevtools-chrome-devtools-mcp]] [[refactoringhq-tolaria]] [[yikart-aitoearn]]
+[[supabase-supabase]] [[chromedevtools-chrome-devtools-mcp]] [[facebook-astryx]] [[actions-checkout]]
 

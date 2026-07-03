@@ -37,7 +37,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[0xnyk-council-of-high-intelligence]] [[msitarzewski-agency-agents]] [[mattpocock-skills]] [[obra-superpowers]] [[diegosouzapw-omniroute]]
+[[0xnyk-council-of-high-intelligence]] [[obra-superpowers]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

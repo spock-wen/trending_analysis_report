@@ -35,5 +35,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[actions-checkout]] [[chromedevtools-chrome-devtools-mcp]] [[refactoringhq-tolaria]] [[yikart-aitoearn]]
+[[supabase-supabase]] [[chromedevtools-chrome-devtools-mcp]] [[facebook-astryx]] [[actions-checkout]]
 

@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[hasaneyldrm-exercises-dataset]] [[refactoringhq-tolaria]] [[altic-dev-fluidvoice]] [[actions-checkout]]
+[[ansible-ansible]] [[obra-superpowers]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[facebook-astryx]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

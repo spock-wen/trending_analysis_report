@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[0xnyk-council-of-high-intelligence]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[keycloak-keycloak]] [[veracrypt-veracrypt]]
+[[keycloak-keycloak]] [[affaan-m-ecc]] [[obra-superpowers]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

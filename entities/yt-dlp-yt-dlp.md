@@ -33,7 +33,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[0xnyk-council-of-high-intelligence]] [[altic-dev-fluidvoice]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
+[[altic-dev-fluidvoice]] [[obra-superpowers]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[cli]] [[audio]]
 

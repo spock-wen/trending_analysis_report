@@ -34,7 +34,7 @@ GLM-5: From Vibe Coding to Agentic Engineering
 
 ## 相关项目
 
-[[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]] [[msitarzewski-agency-agents]] [[affaan-m-ecc]]
+[[chromedevtools-chrome-devtools-mcp]] [[anthropics-claude-code]] [[obra-superpowers]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

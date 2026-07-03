@@ -35,7 +35,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[refactoringhq-tolaria]] [[actions-checkout]] [[veracrypt-veracrypt]] [[affaan-m-ecc]]
+[[keycloak-keycloak]] [[affaan-m-ecc]] [[facebook-astryx]] [[actions-checkout]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[security]]
 

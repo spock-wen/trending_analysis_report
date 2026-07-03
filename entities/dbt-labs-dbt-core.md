@@ -33,7 +33,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[ogulcancelik-herdr]] [[allenai-olmocr]] [[togatoga-karukan]] [[tencentcloud-cubesandbox]]
+[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[allenai-olmocr]] [[tencentcloud-cubesandbox]] [[togatoga-karukan]]
 
 **所属领域**: [[data]]
 

@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[0xnyk-council-of-high-intelligence]] [[refactoringhq-tolaria]] [[actions-checkout]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
+[[obra-superpowers]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]] [[facebook-astryx]] [[anthropics-claude-code]]
 
 **所属领域**: [[cli]]
 

@@ -33,7 +33,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[stefan-jansen-machine-learning-for-trading]] [[microsoft-ai-for-beginners]]
+[[obra-superpowers]] [[msitarzewski-agency-agents]] [[stefan-jansen-machine-learning-for-trading]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

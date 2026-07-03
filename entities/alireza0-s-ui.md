@@ -33,7 +33,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[icewhaletech-casaos]] [[msitarzewski-agency-agents]] [[kenn-io-agentsview]] [[masterking32-masterdnsvpn]]
+[[icewhaletech-casaos]] [[ansible-ansible]] [[masterking32-masterdnsvpn]] [[msitarzewski-agency-agents]] [[kenn-io-agentsview]]
 
 **所属领域**: [[web]]
 

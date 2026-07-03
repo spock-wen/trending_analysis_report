@@ -35,7 +35,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[usestrix-strix]] [[browser-use-video-use]]
+[[obra-superpowers]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[agentskills-agentskills]] [[pytorch-pytorch]]
 
 **所属领域**: [[ai-agent]]
 

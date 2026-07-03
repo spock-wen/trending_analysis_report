@@ -37,5 +37,5 @@ Kronos: A Foundation Model for the Language of Financial Markets
 
 ## 相关项目
 
-[[agentskills-agentskills]] [[hkuds-vibe-trading]] [[usestrix-strix]] [[browser-use-video-use]]
+[[agentskills-agentskills]] [[pytorch-pytorch]] [[anthropics-claude-code]] [[usestrix-strix]]
 

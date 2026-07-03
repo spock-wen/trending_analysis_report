@@ -33,7 +33,7 @@ Write HTML. Render video. Built for agents.
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[refactoringhq-tolaria]] [[actions-checkout]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
+[[ansible-ansible]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[facebook-astryx]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

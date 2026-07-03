@@ -37,7 +37,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[chromedevtools-chrome-devtools-mcp]] [[obra-superpowers]] [[hugohe3-ppt-master]]
+[[apple-container]] [[palmier-io-palmier-pro]] [[manaflow-ai-cmux]] [[obra-superpowers]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

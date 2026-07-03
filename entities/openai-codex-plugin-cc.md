@@ -1,19 +1,19 @@
 ---
 title: "openai/codex-plugin-cc"
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-07-04
 type: tool
 tags: [ai-agent]
-sources: [raw/trending/2026-07-03.json]
-confidence: low
-trending_count_daily: 1
+sources: [raw/trending/2026-07-04.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-07-03
-last_trending: 2026-07-03
-peak_rank: 13
-total_stars: 22585
+last_trending: 2026-07-04
+peak_rank: 2
+total_stars: 23176
 language: "JavaScript"
 ---
 
@@ -22,18 +22,19 @@ language: "JavaScript"
 Use Codex from Claude Code to review code or delegate tasks.
 
 - 语言: JavaScript
-- 上榜次数: 1 次
-- 连续上榜: 1 天
-- 最高排名: #13
+- 上榜次数: 2 次
+- 连续上榜: 2 天
+- 最高排名: #2
 - 链接: [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
 
 ## 上榜历史
 
+  - 2026-07-04: #2, +629⭐
   - 2026-07-03: #13, +448⭐
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[obra-superpowers]] [[santifer-career-ops]] [[juliusbrussee-caveman]] [[affaan-m-ecc]]
+[[juliusbrussee-caveman]] [[affaan-m-ecc]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]]
 

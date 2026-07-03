@@ -37,7 +37,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[revfactory-harness]] [[shanraisshan-claude-code-best-practice]] [[msitarzewski-agency-agents]] [[langflow-ai-langflow]]
+[[revfactory-harness]] [[hasaneyldrm-exercises-dataset]] [[safishamsi-graphify]] [[ansible-ansible]] [[logto-io-logto]]
 
 **所属领域**: [[web]] [[devops]]
 

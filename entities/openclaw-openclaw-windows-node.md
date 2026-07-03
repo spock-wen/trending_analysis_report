@@ -34,7 +34,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[0xnyk-council-of-high-intelligence]] [[dotnet-aspnetcore]] [[msitarzewski-agency-agents]] [[itsfatduck-optimizerduck]] [[obra-superpowers]]
+[[dotnet-aspnetcore]] [[obra-superpowers]] [[jellyfin-jellyfin]] [[msitarzewski-agency-agents]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[cli]]
 

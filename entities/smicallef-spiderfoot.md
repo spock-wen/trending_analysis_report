@@ -33,5 +33,5 @@ SpiderFoot automates OSINT for threat intelligence and mapping your attack surfa
 
 ## 相关项目
 
-[[agentskills-agentskills]] [[hkuds-vibe-trading]] [[usestrix-strix]] [[browser-use-video-use]]
+[[agentskills-agentskills]] [[pytorch-pytorch]] [[anthropics-claude-code]] [[usestrix-strix]]
 

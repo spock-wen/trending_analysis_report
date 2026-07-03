@@ -33,7 +33,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[byoungd-english-level-up-tips]] [[msitarzewski-agency-agents]] [[owainlewis-awesome-artificial-intelligence]] [[microsoft-ai-for-beginners]]
+[[freecodecamp-freecodecamp]] [[byoungd-english-level-up-tips]] [[owainlewis-awesome-artificial-intelligence]] [[ansible-ansible]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

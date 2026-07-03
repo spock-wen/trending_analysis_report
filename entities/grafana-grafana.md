@@ -33,7 +33,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[refactoringhq-tolaria]] [[ripienaar-free-for-dev]] [[actions-checkout]] [[langflow-ai-langflow]]
+[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[allenai-olmocr]] [[ansible-ansible]] [[logto-io-logto]]
 
 **所属领域**: [[data]] [[devops]]
 

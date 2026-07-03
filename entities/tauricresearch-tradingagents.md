@@ -33,7 +33,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[xbtlin-ai-berkshire]] [[bytedance-deer-flow]]
+[[safishamsi-graphify]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[obra-superpowers]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

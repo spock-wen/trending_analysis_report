@@ -33,7 +33,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[0xnyk-council-of-high-intelligence]] [[msitarzewski-agency-agents]] [[flutter-flutter]] [[obra-superpowers]] [[diegosouzapw-omniroute]]
+[[flutter-flutter]] [[obra-superpowers]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]]
 
 **所属领域**: [[cli]]
 

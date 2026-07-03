@@ -34,7 +34,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[hugohe3-ppt-master]] [[santifer-career-ops]]
+[[juliusbrussee-caveman]] [[affaan-m-ecc]] [[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

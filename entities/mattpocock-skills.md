@@ -37,7 +37,7 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[0xnyk-council-of-high-intelligence]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[diegosouzapw-omniroute]] [[affaan-m-ecc]]
+[[0xnyk-council-of-high-intelligence]] [[obra-superpowers]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

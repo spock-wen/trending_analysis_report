@@ -34,5 +34,5 @@ NVR with realtime local object detection for IP cameras
 
 ## 相关项目
 
-[[actions-checkout]] [[chromedevtools-chrome-devtools-mcp]] [[refactoringhq-tolaria]] [[yikart-aitoearn]]
+[[supabase-supabase]] [[chromedevtools-chrome-devtools-mcp]] [[facebook-astryx]] [[actions-checkout]]
 

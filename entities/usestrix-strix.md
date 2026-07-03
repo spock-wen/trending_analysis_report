@@ -1,19 +1,19 @@
 ---
 title: "usestrix/strix"
 created: 2026-06-29
-updated: 2026-07-03
+updated: 2026-07-04
 type: tool
 tags: [python, ai-agent, rising]
-sources: [raw/trending/2026-07-03.json]
+sources: [raw/trending/2026-07-04.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 3
+consecutive_days: 4
 first_trending: 2026-06-29
-last_trending: 2026-07-03
+last_trending: 2026-07-04
 peak_rank: 1
-total_stars: 32055
+total_stars: 34535
 language: "Python"
 contested: true
 ---
@@ -23,13 +23,14 @@ contested: true
 Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 
 - 语言: Python
-- 上榜次数: 4 次
-- 连续上榜: 3 天
+- 上榜次数: 5 次
+- 连续上榜: 4 天
 - 最高排名: #1
 - 链接: [usestrix/strix](https://github.com/usestrix/strix)
 
 ## 上榜历史
 
+  - 2026-07-04: #1, +2804⭐
   - 2026-07-03: #1, +2167⭐
   - 2026-07-02: #2, +1195⭐
   - 2026-07-01: #2, +395⭐
@@ -37,7 +38,7 @@ Open-source AI penetration testing tool to find and fix your app’s vulnerabili
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[browser-use-video-use]] [[agentskills-agentskills]]
+[[obra-superpowers]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[pytorch-pytorch]] [[agentskills-agentskills]]
 
 **所属领域**: [[ai-agent]]
 

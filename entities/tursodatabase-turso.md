@@ -35,7 +35,7 @@ Turso is an in-process SQL database, compatible with SQLite.
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[dbt-labs-dbt-core]] [[ogulcancelik-herdr]] [[allenai-olmocr]] [[togatoga-karukan]]
+[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[allenai-olmocr]] [[tencentcloud-cubesandbox]] [[togatoga-karukan]]
 
 **所属领域**: [[data]]
 

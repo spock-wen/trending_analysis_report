@@ -33,7 +33,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[apache-maven]] [[elastic-elasticsearch]] [[veracrypt-veracrypt]] [[mukul975-anthropic-cybersecurity-skills]]
+[[apache-maven]] [[zackriya-solutions-meetily]] [[krahets-hello-algo]] [[affaan-m-ecc]] [[elastic-elasticsearch]]
 
 **所属领域**: [[security]]
 

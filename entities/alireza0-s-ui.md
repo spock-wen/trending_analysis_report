@@ -33,7 +33,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[icewhaletech-casaos]] [[ansible-ansible]] [[masterking32-masterdnsvpn]] [[msitarzewski-agency-agents]] [[kenn-io-agentsview]]
+[[icewhaletech-casaos]] [[masterking32-masterdnsvpn]] [[kenn-io-agentsview]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]]
 

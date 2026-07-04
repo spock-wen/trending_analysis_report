@@ -35,7 +35,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[allenai-olmocr]] [[obra-superpowers]] [[msitarzewski-agency-agents]]
+[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[santifer-career-ops]] [[mattpocock-skills]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

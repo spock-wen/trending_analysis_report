@@ -34,5 +34,5 @@ A fast, helpful, and open-source document parser
 
 ## 相关项目
 
-[[tencentcloud-cubesandbox]] [[dbt-labs-dbt-core]] [[togatoga-karukan]] [[ogulcancelik-herdr]]
+[[togatoga-karukan]] [[tencentcloud-cubesandbox]] [[ogulcancelik-herdr]] [[zackriya-solutions-meetily]]
 

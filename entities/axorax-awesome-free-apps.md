@@ -35,5 +35,5 @@ Curated list of the best free apps for PC and mobile
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[openai-codex-plugin-cc]] [[santifer-career-ops]] [[affaan-m-ecc]]
+[[santifer-career-ops]] [[juliusbrussee-caveman]] [[affaan-m-ecc]] [[openai-codex-plugin-cc]]
 

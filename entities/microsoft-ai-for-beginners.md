@@ -34,7 +34,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[freecodecamp-freecodecamp]] [[byoungd-english-level-up-tips]] [[owainlewis-awesome-artificial-intelligence]] [[obra-superpowers]] [[msitarzewski-agency-agents]]
+[[freecodecamp-freecodecamp]] [[owainlewis-awesome-artificial-intelligence]] [[mattpocock-skills]] [[alibaba-page-agent]] [[dotnet-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

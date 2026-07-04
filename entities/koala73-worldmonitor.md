@@ -35,7 +35,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[ansible-ansible]] [[logto-io-logto]] [[obra-superpowers]] [[msitarzewski-agency-agents]]
+[[safishamsi-graphify]] [[mattpocock-skills]] [[ansible-ansible]] [[immich-app-immich]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

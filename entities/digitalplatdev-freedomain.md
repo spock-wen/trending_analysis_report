@@ -36,7 +36,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[revfactory-harness]] [[hasaneyldrm-exercises-dataset]] [[ansible-ansible]] [[obra-superpowers]] [[msitarzewski-agency-agents]]
+[[hasaneyldrm-exercises-dataset]] [[revfactory-harness]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

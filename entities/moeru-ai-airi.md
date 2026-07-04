@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[ansible-ansible]] [[obra-superpowers]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[facebook-astryx]]
+[[hugohe3-ppt-master]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[lightricks-ltx-2]] [[immich-app-immich]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

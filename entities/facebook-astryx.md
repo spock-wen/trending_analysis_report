@@ -35,7 +35,7 @@ An open source design system that's fully customizable and agent ready
 
 ## 相关项目
 
-[[obra-superpowers]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[actions-checkout]] [[chromedevtools-chrome-devtools-mcp]]
+[[mattpocock-skills]] [[immich-app-immich]] [[alibaba-page-agent]] [[chthollyphile-folia-major]] [[dotnet-skills]]
 
 **所属领域**: [[ai-agent]]
 

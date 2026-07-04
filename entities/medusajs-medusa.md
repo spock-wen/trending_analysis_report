@@ -33,7 +33,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[obra-superpowers]] [[odoo-odoo]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[facebook-astryx]] [[hugohe3-ppt-master]]
+[[hugohe3-ppt-master]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[immich-app-immich]] [[alibaba-page-agent]] [[chthollyphile-folia-major]]
 
 **所属领域**: [[erp]]
 

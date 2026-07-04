@@ -33,5 +33,5 @@ Effortlessly compose, extend, and observe every service in real-time for the fir
 
 ## 相关项目
 
-[[tencentcloud-cubesandbox]] [[dbt-labs-dbt-core]] [[togatoga-karukan]] [[ogulcancelik-herdr]]
+[[togatoga-karukan]] [[tencentcloud-cubesandbox]] [[ogulcancelik-herdr]] [[zackriya-solutions-meetily]]
 

@@ -1,19 +1,19 @@
 ---
 title: "dotnet/skills"
 created: 2026-05-22
-updated: 2026-05-25
+updated: 2026-07-05
 type: tool
-tags: [ai-agent, rising]
-sources: [raw/trending/2026-05-25.json]
+tags: [ai-agent]
+sources: [raw/trending/2026-07-05.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 4
+consecutive_days: 1
 first_trending: 2026-05-22
-last_trending: 2026-05-25
+last_trending: 2026-07-05
 peak_rank: 4
-total_stars: 2950
+total_stars: 3796
 language: "C#"
 ---
 
@@ -22,13 +22,14 @@ language: "C#"
 Repository for skills to assist AI coding agents with .NET and C#
 
 - 语言: C#
-- 上榜次数: 4 次
-- 连续上榜: 4 天
+- 上榜次数: 5 次
+- 连续上榜: 1 天
 - 最高排名: #4
 - 链接: [dotnet/skills](https://github.com/dotnet/skills)
 
 ## 上榜历史
 
+  - 2026-07-05: #11, +57⭐
   - 2026-05-25: #14, +181⭐
   - 2026-05-24: #14, +181⭐
   - 2026-05-23: #6, +389⭐
@@ -36,7 +37,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[dotnet-aspnetcore]] [[openclaw-openclaw-windows-node]] [[obra-superpowers]] [[jellyfin-jellyfin]] [[msitarzewski-agency-agents]]
+[[dotnet-aspnetcore]] [[mattpocock-skills]] [[alibaba-page-agent]] [[chromedevtools-chrome-devtools-mcp]] [[itsfatduck-optimizerduck]]
 
 **所属领域**: [[ai-agent]]
 

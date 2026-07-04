@@ -33,7 +33,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[obra-superpowers]] [[msitarzewski-agency-agents]]
+[[safishamsi-graphify]] [[mattpocock-skills]] [[alibaba-page-agent]] [[agentskills-agentskills]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

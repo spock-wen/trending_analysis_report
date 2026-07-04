@@ -34,7 +34,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[tencentcloud-cubesandbox]] [[ansible-ansible]] [[togatoga-karukan]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]]
+[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]] [[tencentcloud-cubesandbox]]
 
 **所属领域**: [[web]] [[cli]]
 

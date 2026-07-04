@@ -36,7 +36,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[ansible-ansible]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[agentskills-agentskills]]
+[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]] [[agentskills-agentskills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

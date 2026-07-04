@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[keycloak-keycloak]] [[affaan-m-ecc]] [[obra-superpowers]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]]
+[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[alibaba-page-agent]] [[keycloak-keycloak]] [[agentskills-agentskills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

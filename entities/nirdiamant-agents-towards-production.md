@@ -33,7 +33,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[freecodecamp-freecodecamp]] [[byoungd-english-level-up-tips]] [[owainlewis-awesome-artificial-intelligence]] [[safishamsi-graphify]] [[ansible-ansible]]
+[[hugohe3-ppt-master]] [[owainlewis-awesome-artificial-intelligence]] [[ansible-ansible]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

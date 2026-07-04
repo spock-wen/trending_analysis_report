@@ -34,7 +34,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[godotengine-godot]] [[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[allenai-olmocr]] [[opencv-opencv]]
+[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[opencv-opencv]] [[zackriya-solutions-meetily]] [[opentoonz-opentoonz]]
 
 **所属领域**: [[data]]
 

@@ -33,7 +33,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[logto-io-logto]] [[supabase-supabase]] [[xbtlin-ai-berkshire]] [[hasaneyldrm-exercises-dataset]] [[affaan-m-ecc]]
+[[ansible-ansible]] [[ogulcancelik-herdr]] [[chromedevtools-chrome-devtools-mcp]] [[anil-matcha-open-generative-ai]] [[logto-io-logto]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

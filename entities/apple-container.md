@@ -37,7 +37,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[palmier-io-palmier-pro]] [[manaflow-ai-cmux]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]]
+[[palmier-io-palmier-pro]] [[mattpocock-skills]] [[alibaba-page-agent]] [[dotnet-skills]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]]
 

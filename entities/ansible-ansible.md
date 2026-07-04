@@ -33,7 +33,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[logto-io-logto]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]]
+[[safishamsi-graphify]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

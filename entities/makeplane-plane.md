@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[obra-superpowers]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]] [[facebook-astryx]] [[anthropics-claude-code]]
+[[mattpocock-skills]] [[immich-app-immich]] [[alibaba-page-agent]] [[chthollyphile-folia-major]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[cli]]
 

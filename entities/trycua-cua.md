@@ -33,7 +33,7 @@ Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 
 ## 相关项目
 
-[[revfactory-harness]] [[hasaneyldrm-exercises-dataset]] [[safishamsi-graphify]] [[ansible-ansible]] [[logto-io-logto]]
+[[hasaneyldrm-exercises-dataset]] [[revfactory-harness]] [[safishamsi-graphify]] [[mattpocock-skills]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

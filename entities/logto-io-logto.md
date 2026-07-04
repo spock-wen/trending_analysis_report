@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[ansible-ansible]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[facebook-astryx]]
+[[safishamsi-graphify]] [[mattpocock-skills]] [[ansible-ansible]] [[immich-app-immich]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

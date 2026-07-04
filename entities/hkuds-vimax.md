@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]]
+[[safishamsi-graphify]] [[santifer-career-ops]] [[hasaneyldrm-exercises-dataset]] [[mattpocock-skills]] [[anil-matcha-open-generative-ai]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

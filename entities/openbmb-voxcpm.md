@@ -37,7 +37,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[altic-dev-fluidvoice]] [[lightricks-ltx-2]] [[hugohe3-ppt-master]]
+[[safishamsi-graphify]] [[santifer-career-ops]] [[hasaneyldrm-exercises-dataset]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

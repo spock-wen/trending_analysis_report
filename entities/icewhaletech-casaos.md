@@ -35,5 +35,5 @@ CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
 ## 相关项目
 
-[[kenn-io-agentsview]] [[masterking32-masterdnsvpn]] [[kunchenguid-no-mistakes]]
+[[masterking32-masterdnsvpn]] [[kenn-io-agentsview]] [[kunchenguid-no-mistakes]]
 

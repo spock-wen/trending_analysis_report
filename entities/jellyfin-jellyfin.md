@@ -33,5 +33,5 @@ The Free Software Media System - Server Backend & API
 
 ## 相关项目
 
-[[itsfatduck-optimizerduck]] [[dotnet-aspnetcore]] [[openclaw-openclaw-windows-node]]
+[[dotnet-skills]] [[itsfatduck-optimizerduck]] [[coplaydev-unity-mcp]] [[dotnet-aspnetcore]]
 

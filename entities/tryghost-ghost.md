@@ -33,5 +33,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[openai-codex-plugin-cc]] [[santifer-career-ops]] [[affaan-m-ecc]]
+[[santifer-career-ops]] [[juliusbrussee-caveman]] [[affaan-m-ecc]] [[openai-codex-plugin-cc]]
 

@@ -37,7 +37,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[0xnyk-council-of-high-intelligence]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]] [[odoo-odoo]] [[x1xhlol-system-prompts-and-models-of-ai-tools]]
+[[hugohe3-ppt-master]] [[mattpocock-skills]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

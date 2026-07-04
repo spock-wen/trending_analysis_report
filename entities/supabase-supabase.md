@@ -33,7 +33,7 @@ The Postgres development platform. Supabase gives you a dedicated Postgres datab
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[allenai-olmocr]] [[ansible-ansible]] [[obra-superpowers]]
+[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[immich-app-immich]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

@@ -33,7 +33,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[ansible-ansible]] [[logto-io-logto]] [[obra-superpowers]] [[ogulcancelik-herdr]]
+[[safishamsi-graphify]] [[mattpocock-skills]] [[ansible-ansible]] [[alibaba-page-agent]] [[logto-io-logto]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

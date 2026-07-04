@@ -37,7 +37,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[ansible-ansible]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[shanraisshan-claude-code-best-practice]]
+[[hasaneyldrm-exercises-dataset]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

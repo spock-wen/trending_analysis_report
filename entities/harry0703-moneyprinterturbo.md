@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[obra-superpowers]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[agentskills-agentskills]]
+[[mattpocock-skills]] [[alibaba-page-agent]] [[agentskills-agentskills]] [[ogulcancelik-herdr]] [[dotnet-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

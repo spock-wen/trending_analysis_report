@@ -33,7 +33,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[obra-superpowers]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[agentskills-agentskills]]
+[[mattpocock-skills]] [[agentskills-agentskills]] [[ogulcancelik-herdr]] [[rommapp-romm]] [[crynta-terax-ai]]
 
 **所属领域**: [[cli]]
 

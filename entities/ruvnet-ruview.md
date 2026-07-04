@@ -37,7 +37,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[ansible-ansible]] [[tencentcloud-cubesandbox]] [[logto-io-logto]] [[togatoga-karukan]]
+[[safishamsi-graphify]] [[ansible-ansible]] [[zackriya-solutions-meetily]] [[logto-io-logto]] [[langflow-ai-langflow]]
 
 **所属领域**: [[devops]]
 

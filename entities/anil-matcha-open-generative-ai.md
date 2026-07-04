@@ -34,7 +34,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[affaan-m-ecc]] [[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[obra-superpowers]]
+[[santifer-career-ops]] [[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[mattpocock-skills]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -35,7 +35,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[keycloak-keycloak]] [[affaan-m-ecc]] [[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[tencentcloud-cubesandbox]]
+[[safishamsi-graphify]] [[santifer-career-ops]] [[hasaneyldrm-exercises-dataset]] [[zackriya-solutions-meetily]] [[keycloak-keycloak]]
 
 **所属领域**: [[security]] [[image-gen]]
 

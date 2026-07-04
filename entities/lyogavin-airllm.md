@@ -34,7 +34,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[obra-superpowers]] [[msitarzewski-agency-agents]] [[stefan-jansen-machine-learning-for-trading]] [[microsoft-ai-for-beginners]] [[anthropics-claude-code]]
+[[mattpocock-skills]] [[alibaba-page-agent]] [[dotnet-skills]] [[microsoft-ai-for-beginners]] [[nvidia-cosmos]]
 
 **所属领域**: [[ai-agent]]
 

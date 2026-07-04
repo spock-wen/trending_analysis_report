@@ -34,7 +34,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[anthropics-claude-code]] [[obra-superpowers]] [[msitarzewski-agency-agents]]
+[[chromedevtools-chrome-devtools-mcp]] [[dotnet-skills]] [[alibaba-page-agent]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

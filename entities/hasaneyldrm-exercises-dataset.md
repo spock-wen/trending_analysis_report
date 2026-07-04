@@ -35,7 +35,7 @@ A comprehensive dataset of 433 fitness exercises. Each entry includes name, cate
 
 ## 相关项目
 
-[[revfactory-harness]] [[safishamsi-graphify]] [[allenai-olmocr]] [[ansible-ansible]] [[obra-superpowers]]
+[[safishamsi-graphify]] [[revfactory-harness]] [[santifer-career-ops]] [[mattpocock-skills]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

@@ -33,5 +33,5 @@ Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engi
 
 ## 相关项目
 
-[[tencentcloud-cubesandbox]] [[dbt-labs-dbt-core]] [[ogulcancelik-herdr]]
+[[tencentcloud-cubesandbox]] [[ogulcancelik-herdr]] [[zackriya-solutions-meetily]]
 

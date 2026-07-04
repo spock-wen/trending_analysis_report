@@ -37,7 +37,7 @@ Collection of publicly available IPTV channels from all over the world
 
 ## 相关项目
 
-[[obra-superpowers]] [[msitarzewski-agency-agents]] [[facebook-astryx]] [[anthropics-claude-code]] [[actions-checkout]]
+[[mattpocock-skills]] [[immich-app-immich]] [[alibaba-page-agent]] [[chthollyphile-folia-major]] [[dotnet-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,5 +34,5 @@ Action for checking out a repo
 
 ## 相关项目
 
-[[supabase-supabase]] [[chromedevtools-chrome-devtools-mcp]] [[facebook-astryx]]
+[[immich-app-immich]] [[chthollyphile-folia-major]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-page-agent]]
 

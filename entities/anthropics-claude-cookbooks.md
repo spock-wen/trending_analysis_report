@@ -33,7 +33,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[obra-superpowers]] [[msitarzewski-agency-agents]] [[stefan-jansen-machine-learning-for-trading]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]]
+[[mattpocock-skills]] [[alibaba-page-agent]] [[dotnet-skills]] [[microsoft-ai-for-beginners]] [[nvidia-cosmos]]
 
 **所属领域**: [[ai-agent]]
 

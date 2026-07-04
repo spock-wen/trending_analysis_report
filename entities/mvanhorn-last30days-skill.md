@@ -37,7 +37,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[affaan-m-ecc]] [[ansible-ansible]] [[nousresearch-hermes-agent]] [[obra-superpowers]]
+[[safishamsi-graphify]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

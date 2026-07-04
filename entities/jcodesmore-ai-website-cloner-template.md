@@ -37,7 +37,7 @@ Clone any website with one command using AI coding agents
 
 ## 相关项目
 
-[[ansible-ansible]] [[obra-superpowers]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]] [[facebook-astryx]]
+[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[immich-app-immich]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

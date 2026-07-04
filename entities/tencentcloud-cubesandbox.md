@@ -34,7 +34,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ## 相关项目
 
-[[obra-superpowers]] [[togatoga-karukan]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]]
+[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[alibaba-page-agent]] [[ogulcancelik-herdr]] [[dotnet-skills]]
 
 **所属领域**: [[ai-agent]]
 

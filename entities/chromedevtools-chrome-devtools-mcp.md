@@ -1,19 +1,19 @@
 ---
 title: "ChromeDevTools/chrome-devtools-mcp"
 created: 2026-05-22
-updated: 2026-07-04
+updated: 2026-07-05
 type: tool
-tags: [typescript, ai-agent, web]
-sources: [raw/trending/2026-07-04.json]
+tags: [typescript, ai-agent, web, rising]
+sources: [raw/trending/2026-07-05.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 3
 first_trending: 2026-05-22
-last_trending: 2026-07-04
+last_trending: 2026-07-05
 peak_rank: 5
-total_stars: 45464
+total_stars: 45755
 language: "TypeScript"
 ---
 
@@ -22,13 +22,14 @@ language: "TypeScript"
 Chrome DevTools for coding agents
 
 - 语言: TypeScript
-- 上榜次数: 4 次
-- 连续上榜: 2 天
+- 上榜次数: 5 次
+- 连续上榜: 3 天
 - 最高排名: #5
 - 链接: [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
 ## 上榜历史
 
+  - 2026-07-05: #5, +303⭐
   - 2026-07-04: #6, +404⭐
   - 2026-07-03: #7, +141⭐
   - 2026-05-23: #5, +501⭐
@@ -36,7 +37,7 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[ansible-ansible]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[facebook-astryx]] [[anthropics-claude-code]]
+[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[immich-app-immich]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

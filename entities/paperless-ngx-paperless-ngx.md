@@ -33,7 +33,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[anthropics-claude-code]] [[agentskills-agentskills]]
+[[safishamsi-graphify]] [[agentskills-agentskills]] [[affaan-m-ecc]] [[xbtlin-ai-berkshire]] [[rommapp-romm]]
 
 **所属领域**: [[science]]
 

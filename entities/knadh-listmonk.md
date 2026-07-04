@@ -33,7 +33,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[icewhaletech-casaos]] [[obra-superpowers]] [[masterking32-masterdnsvpn]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]]
+[[icewhaletech-casaos]] [[mattpocock-skills]] [[masterking32-masterdnsvpn]] [[kenn-io-agentsview]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]]
 

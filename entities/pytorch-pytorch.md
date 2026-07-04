@@ -34,5 +34,5 @@ Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## 相关项目
 
-[[agentskills-agentskills]] [[anthropics-claude-code]] [[usestrix-strix]]
+[[agentskills-agentskills]] [[alirezarezvani-claude-skills]] [[rommapp-romm]] [[usestrix-strix]]
 

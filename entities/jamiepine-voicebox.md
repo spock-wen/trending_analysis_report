@@ -35,7 +35,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[obra-superpowers]] [[msitarzewski-agency-agents]] [[facebook-astryx]] [[anthropics-claude-code]] [[actions-checkout]]
+[[hugohe3-ppt-master]] [[mattpocock-skills]] [[lightricks-ltx-2]] [[immich-app-immich]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

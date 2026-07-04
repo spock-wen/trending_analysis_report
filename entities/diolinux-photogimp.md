@@ -33,7 +33,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[ansible-ansible]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[odoo-odoo]] [[x1xhlol-system-prompts-and-models-of-ai-tools]]
+[[hugohe3-ppt-master]] [[zackriya-solutions-meetily]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]]
 
 **所属领域**: [[web]] [[erp]]
 

@@ -33,7 +33,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[allenai-olmocr]] [[ansible-ansible]] [[logto-io-logto]]
+[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[ansible-ansible]] [[zackriya-solutions-meetily]] [[immich-app-immich]]
 
 **所属领域**: [[data]] [[devops]]
 

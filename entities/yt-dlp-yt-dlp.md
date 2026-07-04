@@ -33,7 +33,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[obra-superpowers]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]] [[hugohe3-ppt-master]]
+[[hugohe3-ppt-master]] [[mattpocock-skills]] [[lightricks-ltx-2]] [[agentskills-agentskills]] [[jamiepine-voicebox]]
 
 **所属领域**: [[cli]] [[audio]]
 

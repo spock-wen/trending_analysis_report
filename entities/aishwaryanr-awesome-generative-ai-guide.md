@@ -33,7 +33,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[revfactory-harness]] [[hasaneyldrm-exercises-dataset]] [[safishamsi-graphify]] [[affaan-m-ecc]] [[ansible-ansible]]
+[[hasaneyldrm-exercises-dataset]] [[revfactory-harness]] [[safishamsi-graphify]] [[mattpocock-skills]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

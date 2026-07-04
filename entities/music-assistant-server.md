@@ -37,7 +37,7 @@ Music Assistant is a free, opensource Media library manager that connects to you
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[hugohe3-ppt-master]] [[anthropics-claude-code]] [[agentskills-agentskills]] [[pytorch-pytorch]]
+[[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[agentskills-agentskills]] [[jamiepine-voicebox]] [[rommapp-romm]]
 
 **所属领域**: [[audio]]
 

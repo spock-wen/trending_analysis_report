@@ -35,7 +35,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[apple-container]] [[palmier-io-palmier-pro]] [[obra-superpowers]] [[ogulcancelik-herdr]] [[msitarzewski-agency-agents]]
+[[palmier-io-palmier-pro]] [[mattpocock-skills]] [[alibaba-page-agent]] [[ogulcancelik-herdr]] [[dotnet-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

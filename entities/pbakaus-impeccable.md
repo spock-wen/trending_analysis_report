@@ -33,7 +33,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[affaan-m-ecc]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[openai-codex-plugin-cc]]
+[[santifer-career-ops]] [[mattpocock-skills]] [[juliusbrussee-caveman]] [[alibaba-page-agent]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

@@ -2,6 +2,7 @@
 title: "D4Vinci/Scrapling"
 created: 2026-06-01
 updated: 2026-06-04
+last_active: 2026-06-04
 type: framework
 tags: [python, web, rising]
 sources: [raw/trending/2026-06-04.json]
@@ -36,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]] [[agentskills-agentskills]] [[rommapp-romm]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[web]]
 

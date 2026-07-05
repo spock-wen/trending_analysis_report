@@ -2,6 +2,7 @@
 title: "Imbad0202/academic-research-skills"
 created: 2026-05-19
 updated: 2026-05-22
+last_active: 2026-05-22
 type: tool
 tags: [python, ai-agent, science, rising]
 sources: [raw/trending/2026-05-22.json]
@@ -36,7 +37,7 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[mattpocock-skills]] [[alibaba-page-agent]] [[agentskills-agentskills]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[safishamsi-graphify]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

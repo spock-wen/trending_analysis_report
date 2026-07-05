@@ -2,6 +2,7 @@
 title: "bytedance/UI-TARS-desktop"
 created: 2026-06-18
 updated: 2026-06-18
+last_active: 2026-06-18
 type: tool
 tags: [typescript, ai-agent, devops]
 sources: [raw/trending/2026-06-18.json]
@@ -33,7 +34,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[mattpocock-skills]] [[ansible-ansible]] [[immich-app-immich]] [[alibaba-page-agent]]
+[[ansible-ansible]] [[langflow-ai-langflow]] [[anthropics-claude-code]] [[ruvnet-ruview]] [[immich-app-immich]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

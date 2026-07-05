@@ -2,6 +2,7 @@
 title: "yt-dlp/yt-dlp"
 created: 2026-05-23
 updated: 2026-05-23
+last_active: 2026-05-23
 type: tool
 tags: [python, cli, audio]
 sources: [raw/trending/2026-05-23.json]
@@ -33,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[mattpocock-skills]] [[lightricks-ltx-2]] [[agentskills-agentskills]] [[jamiepine-voicebox]]
+[[anthropics-claude-code]] [[lightricks-ltx-2]] [[othmanadi-planning-with-files]] [[hugohe3-ppt-master]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[cli]] [[audio]]
 

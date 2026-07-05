@@ -2,6 +2,7 @@
 title: "supertone-inc/supertonic"
 created: 2026-05-16
 updated: 2026-05-19
+last_active: 2026-05-19
 type: tool
 tags: [audio]
 sources: [raw/trending/2026-05-19.json]
@@ -35,7 +36,7 @@ Lightning-Fast, On-Device, Multilingual TTS running natively via ONNX.
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[palmier-io-palmier-pro]] [[apple-container]] [[lightricks-ltx-2]] [[altic-dev-fluidvoice]]
+[[palmier-io-palmier-pro]] [[lightricks-ltx-2]] [[hugohe3-ppt-master]] [[altic-dev-fluidvoice]] [[apple-container]]
 
 **所属领域**: [[audio]]
 

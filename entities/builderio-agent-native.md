@@ -2,6 +2,7 @@
 title: "BuilderIO/agent-native"
 created: 2026-06-20
 updated: 2026-06-20
+last_active: 2026-06-20
 type: framework
 tags: [typescript, ai-agent]
 sources: [raw/trending/2026-06-20.json]
@@ -33,7 +34,7 @@ A framework for building agent-native applications.
 
 ## 相关项目
 
-[[mattpocock-skills]] [[immich-app-immich]] [[alibaba-page-agent]] [[chthollyphile-folia-major]] [[dotnet-skills]]
+[[anthropics-claude-code]] [[immich-app-immich]] [[facebook-astryx]] [[leonxlnx-taste-skill]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]]
 

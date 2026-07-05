@@ -2,6 +2,7 @@
 title: "Panniantong/Agent-Reach"
 created: 2026-06-06
 updated: 2026-06-27
+last_active: 2026-06-27
 type: tool
 tags: [python, ai-agent, cli]
 sources: [raw/trending/2026-06-27.json]
@@ -37,7 +38,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## 相关项目
 
-[[mattpocock-skills]] [[alibaba-page-agent]] [[agentskills-agentskills]] [[ogulcancelik-herdr]] [[dotnet-skills]]
+[[anthropics-claude-code]] [[alibaba-page-agent]] [[othmanadi-planning-with-files]] [[leonxlnx-taste-skill]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

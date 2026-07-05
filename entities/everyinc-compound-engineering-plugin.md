@@ -2,6 +2,7 @@
 title: "EveryInc/compound-engineering-plugin"
 created: 2026-05-29
 updated: 2026-06-02
+last_active: 2026-06-02
 type: framework
 tags: [typescript, ai-agent, rising]
 sources: [raw/trending/2026-06-02.json]
@@ -37,7 +38,7 @@ Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 
 ## 相关项目
 
-[[mattpocock-skills]] [[immich-app-immich]] [[alibaba-page-agent]] [[chthollyphile-folia-major]] [[dotnet-skills]]
+[[anthropics-claude-code]] [[immich-app-immich]] [[facebook-astryx]] [[leonxlnx-taste-skill]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]]
 

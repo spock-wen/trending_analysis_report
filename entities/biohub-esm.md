@@ -2,6 +2,7 @@
 title: "Biohub/esm"
 created: 2026-05-30
 updated: 2026-05-30
+last_active: 2026-05-30
 type: tool
 tags: [python]
 sources: [raw/trending/2026-05-30.json]
@@ -33,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[nvidia-cosmos]] [[stefan-jansen-machine-learning-for-trading]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]]
+[[nvidia-cosmos]] [[stefan-jansen-machine-learning-for-trading]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]]
 

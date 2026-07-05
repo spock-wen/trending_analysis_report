@@ -2,6 +2,7 @@
 title: "TauricResearch/TradingAgents"
 created: 2026-06-02
 updated: 2026-06-02
+last_active: 2026-06-02
 type: framework
 tags: [python, ai-agent, science]
 sources: [raw/trending/2026-06-02.json]
@@ -33,7 +34,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[mattpocock-skills]] [[alibaba-page-agent]] [[agentskills-agentskills]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[safishamsi-graphify]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

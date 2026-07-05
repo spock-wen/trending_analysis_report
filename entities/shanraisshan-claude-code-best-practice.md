@@ -2,6 +2,7 @@
 title: "shanraisshan/claude-code-best-practice"
 created: 2026-06-24
 updated: 2026-06-26
+last_active: 2026-06-26
 type: framework
 tags: [ai-agent, web]
 sources: [raw/trending/2026-06-26.json]
@@ -34,7 +35,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[revfactory-harness]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[hasaneyldrm-exercises-dataset]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

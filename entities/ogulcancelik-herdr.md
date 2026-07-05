@@ -1,19 +1,20 @@
 ---
 title: "ogulcancelik/herdr"
 created: 2026-07-01
-updated: 2026-07-05
+updated: 2026-07-06
+last_active: 2026-07-06
 type: tool
-tags: [rust, ai-agent, cli]
-sources: [raw/trending/2026-07-05.json]
+tags: [rust, ai-agent, cli, rising]
+sources: [raw/trending/2026-07-06.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 3
 first_trending: 2026-07-01
-last_trending: 2026-07-05
-peak_rank: 10
-total_stars: 11402
+last_trending: 2026-07-06
+peak_rank: 7
+total_stars: 12019
 language: "Rust"
 ---
 
@@ -22,13 +23,14 @@ language: "Rust"
 agent multiplexer that lives in your terminal.
 
 - 语言: Rust
-- 上榜次数: 4 次
-- 连续上榜: 2 天
-- 最高排名: #10
+- 上榜次数: 5 次
+- 连续上榜: 3 天
+- 最高排名: #7
 - 链接: [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
 
 ## 上榜历史
 
+  - 2026-07-06: #7, +650⭐
   - 2026-07-05: #10, +706⭐
   - 2026-07-04: #15, +513⭐
   - 2026-07-02: #14, +611⭐
@@ -36,7 +38,7 @@ agent multiplexer that lives in your terminal.
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[alibaba-page-agent]] [[tencentcloud-cubesandbox]] [[dotnet-skills]]
+[[zackriya-solutions-meetily]] [[anthropics-claude-code]] [[ruvnet-ruview]] [[othmanadi-planning-with-files]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

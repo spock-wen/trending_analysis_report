@@ -2,6 +2,7 @@
 title: "codecrafters-io/build-your-own-x"
 created: 2026-05-25
 updated: 2026-06-02
+last_active: 2026-06-02
 type: tool
 tags: [rising]
 sources: [raw/trending/2026-06-02.json]

@@ -2,6 +2,7 @@
 title: "opendataloader-project/opendataloader-pdf"
 created: 2026-06-04
 updated: 2026-06-04
+last_active: 2026-06-04
 type: tool
 tags: [java, ai-agent, data]
 sources: [raw/trending/2026-06-04.json]
@@ -33,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[apache-maven]] [[hasaneyldrm-exercises-dataset]] [[mattpocock-skills]] [[zackriya-solutions-meetily]]
+[[krahets-hello-algo]] [[keycloak-keycloak]] [[zackriya-solutions-meetily]] [[anthropics-claude-code]] [[supabase-supabase]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

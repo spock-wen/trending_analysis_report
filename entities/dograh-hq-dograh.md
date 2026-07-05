@@ -2,6 +2,7 @@
 title: "dograh-hq/dograh"
 created: 2026-05-18
 updated: 2026-05-18
+last_active: 2026-05-18
 type: tool
 tags: [python, ai-agent, audio]
 sources: [raw/trending/2026-05-18.json]
@@ -33,7 +34,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[mattpocock-skills]] [[lightricks-ltx-2]] [[alibaba-page-agent]] [[agentskills-agentskills]]
+[[anthropics-claude-code]] [[alibaba-page-agent]] [[lightricks-ltx-2]] [[hugohe3-ppt-master]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

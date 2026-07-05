@@ -2,6 +2,7 @@
 title: "opencv/opencv"
 created: 2026-06-08
 updated: 2026-06-10
+last_active: 2026-06-10
 type: tool
 tags: [cpp]
 sources: [raw/trending/2026-06-10.json]
@@ -34,5 +35,5 @@ Open Source Computer Vision Library
 
 ## 相关项目
 
-[[godotengine-godot]] [[alibaba-zvec]] [[opentoonz-opentoonz]]
+[[godotengine-godot]] [[opentoonz-opentoonz]] [[alibaba-zvec]]
 

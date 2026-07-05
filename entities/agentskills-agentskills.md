@@ -2,6 +2,7 @@
 title: "agentskills/agentskills"
 created: 2026-07-03
 updated: 2026-07-05
+last_active: 2026-07-05
 type: tool
 tags: [python, ai-agent, rising]
 sources: [raw/trending/2026-07-05.json]
@@ -35,7 +36,7 @@ Specification and documentation for Agent Skills
 
 ## 相关项目
 
-[[mattpocock-skills]] [[alibaba-page-agent]] [[dotnet-skills]] [[rommapp-romm]] [[chromedevtools-chrome-devtools-mcp]]
+[[anthropics-claude-code]] [[alibaba-page-agent]] [[leonxlnx-taste-skill]] [[alirezarezvani-claude-skills]] [[rommapp-romm]]
 
 **所属领域**: [[ai-agent]]
 

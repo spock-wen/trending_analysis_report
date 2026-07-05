@@ -2,6 +2,7 @@
 title: "microsoft/PowerToys"
 created: 2026-06-13
 updated: 2026-06-28
+last_active: 2026-06-28
 type: tool
 tags: [tool]
 sources: [raw/trending/2026-06-28.json]

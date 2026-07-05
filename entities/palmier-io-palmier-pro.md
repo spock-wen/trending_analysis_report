@@ -2,6 +2,7 @@
 title: "palmier-io/palmier-pro"
 created: 2026-06-20
 updated: 2026-06-24
+last_active: 2026-06-24
 type: tool
 tags: [ai-agent, rising]
 sources: [raw/trending/2026-06-24.json]
@@ -37,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[apple-container]] [[mattpocock-skills]] [[alibaba-page-agent]] [[dotnet-skills]] [[altic-dev-fluidvoice]]
+[[apple-container]] [[anthropics-claude-code]] [[leonxlnx-taste-skill]] [[altic-dev-fluidvoice]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]]
 

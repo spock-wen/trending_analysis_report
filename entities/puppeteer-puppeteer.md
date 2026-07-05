@@ -2,6 +2,7 @@
 title: "puppeteer/puppeteer"
 created: 2026-06-15
 updated: 2026-06-17
+last_active: 2026-06-17
 type: tool
 tags: [typescript, web]
 sources: [raw/trending/2026-06-17.json]
@@ -34,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[immich-app-immich]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]] [[chthollyphile-folia-major]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[immich-app-immich]] [[facebook-astryx]] [[alibaba-page-agent]]
 
 **所属领域**: [[web]]
 

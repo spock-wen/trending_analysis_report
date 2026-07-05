@@ -2,6 +2,7 @@
 title: "jwasham/coding-interview-university"
 created: 2026-06-04
 updated: 2026-06-16
+last_active: 2026-06-16
 type: framework
 tags: [tool]
 sources: [raw/trending/2026-06-16.json]

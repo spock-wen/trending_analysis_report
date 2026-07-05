@@ -2,6 +2,7 @@
 title: "browser-use/video-use"
 created: 2026-06-29
 updated: 2026-07-03
+last_active: 2026-07-03
 type: tool
 tags: [python, ai-agent, web, rising]
 sources: [raw/trending/2026-07-03.json]
@@ -37,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]] [[agentskills-agentskills]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

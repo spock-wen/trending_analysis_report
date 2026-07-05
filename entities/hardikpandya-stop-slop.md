@@ -2,6 +2,7 @@
 title: "hardikpandya/stop-slop"
 created: 2026-05-26
 updated: 2026-05-30
+last_active: 2026-05-30
 type: tool
 tags: [ai-agent, rising]
 sources: [raw/trending/2026-05-30.json]
@@ -37,7 +38,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[dotnet-skills]] [[alibaba-page-agent]] [[mattpocock-skills]]
+[[alibaba-page-agent]] [[leonxlnx-taste-skill]] [[dotnet-skills]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

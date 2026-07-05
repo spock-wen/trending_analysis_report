@@ -2,6 +2,7 @@
 title: "kenn-io/agentsview"
 created: 2026-06-12
 updated: 2026-06-14
+last_active: 2026-06-14
 type: tool
 tags: [go, ai-agent, data]
 sources: [raw/trending/2026-06-14.json]
@@ -34,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[icewhaletech-casaos]] [[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[mattpocock-skills]] [[masterking32-masterdnsvpn]]
+[[zackriya-solutions-meetily]] [[gastownhall-gastown]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[supabase-supabase]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

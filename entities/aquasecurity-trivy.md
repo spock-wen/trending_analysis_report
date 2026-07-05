@@ -2,6 +2,7 @@
 title: "aquasecurity/trivy"
 created: 2026-06-04
 updated: 2026-06-06
+last_active: 2026-06-06
 type: tool
 tags: [go, ai-agent, security, rising]
 sources: [raw/trending/2026-06-06.json]
@@ -36,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[icewhaletech-casaos]] [[mattpocock-skills]] [[masterking32-masterdnsvpn]] [[kenn-io-agentsview]] [[zackriya-solutions-meetily]]
+[[zackriya-solutions-meetily]] [[gastownhall-gastown]] [[keycloak-keycloak]] [[anthropics-claude-code]] [[kenn-io-agentsview]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

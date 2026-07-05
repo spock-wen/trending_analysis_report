@@ -2,6 +2,7 @@
 title: "influxdata/telegraf"
 created: 2026-05-16
 updated: 2026-05-17
+last_active: 2026-05-17
 type: tool
 tags: [go, ai-agent, data]
 sources: [raw/trending/2026-05-17.json]
@@ -34,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[icewhaletech-casaos]] [[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[mattpocock-skills]] [[masterking32-masterdnsvpn]]
+[[zackriya-solutions-meetily]] [[gastownhall-gastown]] [[anthropics-claude-code]] [[kenn-io-agentsview]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

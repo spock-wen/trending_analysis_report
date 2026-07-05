@@ -2,6 +2,7 @@
 title: "byoungd/English-level-up-tips"
 created: 2026-05-28
 updated: 2026-06-24
+last_active: 2026-06-24
 type: tool
 tags: [education]
 sources: [raw/trending/2026-06-24.json]
@@ -37,7 +38,7 @@ An advanced guide to learn English which might benefit you a lot 🎉 . 人生�
 
 ## 相关项目
 
-[[freecodecamp-freecodecamp]] [[owainlewis-awesome-artificial-intelligence]] [[microsoft-ai-for-beginners]]
+[[owainlewis-awesome-artificial-intelligence]] [[freecodecamp-freecodecamp]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[education]]
 

@@ -2,6 +2,7 @@
 title: "cursor/plugins"
 created: 2026-05-30
 updated: 2026-05-31
+last_active: 2026-05-31
 type: tool
 tags: [typescript]
 sources: [raw/trending/2026-05-31.json]
@@ -34,5 +35,5 @@ Cursor plugin specification and official plugins
 
 ## 相关项目
 
-[[immich-app-immich]] [[chthollyphile-folia-major]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-page-agent]]
+[[alibaba-page-agent]] [[facebook-astryx]] [[chromedevtools-chrome-devtools-mcp]] [[immich-app-immich]]
 

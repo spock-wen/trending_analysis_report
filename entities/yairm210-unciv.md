@@ -2,6 +2,7 @@
 title: "yairm210/Unciv"
 created: 2026-06-18
 updated: 2026-06-18
+last_active: 2026-06-18
 type: tool
 tags: [ai-agent]
 sources: [raw/trending/2026-06-18.json]
@@ -33,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[andreknieriem-headunit-revived]] [[mattpocock-skills]] [[alibaba-page-agent]] [[bannedbook-fanqiang]] [[dotnet-skills]]
+[[anthropics-claude-code]] [[pppscn-smsforwarder]] [[leonxlnx-taste-skill]] [[bannedbook-fanqiang]] [[andreknieriem-headunit-revived]]
 
 **所属领域**: [[ai-agent]]
 

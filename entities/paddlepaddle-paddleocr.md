@@ -2,6 +2,7 @@
 title: "PaddlePaddle/PaddleOCR"
 created: 2026-06-05
 updated: 2026-06-06
+last_active: 2026-06-06
 type: tool
 tags: [python, ai-agent, data, image-gen]
 sources: [raw/trending/2026-06-06.json]
@@ -35,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[santifer-career-ops]] [[mattpocock-skills]] [[zackriya-solutions-meetily]]
+[[zackriya-solutions-meetily]] [[santifer-career-ops]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[anil-matcha-open-generative-ai]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

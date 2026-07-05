@@ -2,6 +2,7 @@
 title: "grafana/grafana"
 created: 2026-06-27
 updated: 2026-06-27
+last_active: 2026-06-27
 type: tool
 tags: [typescript, data, devops]
 sources: [raw/trending/2026-06-27.json]
@@ -33,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[ansible-ansible]] [[zackriya-solutions-meetily]] [[immich-app-immich]]
+[[ansible-ansible]] [[zackriya-solutions-meetily]] [[langflow-ai-langflow]] [[ruvnet-ruview]] [[immich-app-immich]]
 
 **所属领域**: [[data]] [[devops]]
 

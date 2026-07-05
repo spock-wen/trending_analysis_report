@@ -2,6 +2,7 @@
 title: "Kong/insomnia"
 created: 2026-06-19
 updated: 2026-06-21
+last_active: 2026-06-21
 type: tool
 tags: [typescript, web, cli, rising]
 sources: [raw/trending/2026-06-21.json]
@@ -35,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[immich-app-immich]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[immich-app-immich]] [[othmanadi-planning-with-files]]
 
 **所属领域**: [[web]] [[cli]]
 

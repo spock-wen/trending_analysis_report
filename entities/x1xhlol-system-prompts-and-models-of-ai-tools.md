@@ -2,6 +2,7 @@
 title: "x1xhlol/system-prompts-and-models-of-ai-tools"
 created: 2026-06-10
 updated: 2026-06-14
+last_active: 2026-06-14
 type: tool
 tags: [ai-agent, erp]
 sources: [raw/trending/2026-06-14.json]
@@ -36,7 +37,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[mattpocock-skills]] [[alibaba-page-agent]] [[obra-superpowers]] [[dotnet-skills]]
+[[anthropics-claude-code]] [[hugohe3-ppt-master]] [[leonxlnx-taste-skill]] [[obra-superpowers]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

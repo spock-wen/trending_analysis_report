@@ -2,6 +2,7 @@
 title: "every-app/open-seo"
 created: 2026-06-26
 updated: 2026-06-28
+last_active: 2026-06-28
 type: tool
 tags: [typescript]
 sources: [raw/trending/2026-06-28.json]
@@ -34,5 +35,5 @@ Open source alternative to Semrush and Ahrefs
 
 ## 相关项目
 
-[[immich-app-immich]] [[chthollyphile-folia-major]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-page-agent]]
+[[alibaba-page-agent]] [[facebook-astryx]] [[chromedevtools-chrome-devtools-mcp]] [[immich-app-immich]]
 

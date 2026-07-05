@@ -2,6 +2,7 @@
 title: "multica-ai/multica"
 created: 2026-05-22
 updated: 2026-05-25
+last_active: 2026-05-25
 type: tool
 tags: [typescript, ai-agent]
 sources: [raw/trending/2026-05-25.json]
@@ -35,7 +36,7 @@ The open-source managed agents platform. Turn coding agents into real teammates 
 
 ## 相关项目
 
-[[mattpocock-skills]] [[immich-app-immich]] [[alibaba-page-agent]] [[chthollyphile-folia-major]] [[dotnet-skills]]
+[[anthropics-claude-code]] [[immich-app-immich]] [[facebook-astryx]] [[leonxlnx-taste-skill]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]]
 

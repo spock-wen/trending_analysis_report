@@ -2,6 +2,7 @@
 title: "simplex-chat/simplex-chat"
 created: 2026-06-27
 updated: 2026-07-01
+last_active: 2026-07-01
 type: tool
 tags: [rising]
 sources: [raw/trending/2026-07-01.json]

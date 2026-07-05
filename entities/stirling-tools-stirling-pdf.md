@@ -2,6 +2,7 @@
 title: "Stirling-Tools/Stirling-PDF"
 created: 2026-06-23
 updated: 2026-06-23
+last_active: 2026-06-23
 type: tool
 tags: [typescript]
 sources: [raw/trending/2026-06-23.json]
@@ -33,5 +34,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[immich-app-immich]] [[chthollyphile-folia-major]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-page-agent]]
+[[alibaba-page-agent]] [[facebook-astryx]] [[chromedevtools-chrome-devtools-mcp]] [[immich-app-immich]]
 

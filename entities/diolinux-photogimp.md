@@ -2,6 +2,7 @@
 title: "Diolinux/PhotoGIMP"
 created: 2026-05-20
 updated: 2026-05-20
+last_active: 2026-05-20
 type: tool
 tags: [web, erp]
 sources: [raw/trending/2026-05-20.json]
@@ -33,7 +34,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[zackriya-solutions-meetily]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[hugohe3-ppt-master]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[erp]]
 

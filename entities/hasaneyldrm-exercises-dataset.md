@@ -2,6 +2,7 @@
 title: "hasaneyldrm/exercises-dataset"
 created: 2026-07-01
 updated: 2026-07-03
+last_active: 2026-07-03
 type: tool
 tags: [ai-agent, web, data, image-gen, rising]
 sources: [raw/trending/2026-07-03.json]
@@ -35,7 +36,7 @@ A comprehensive dataset of 433 fitness exercises. Each entry includes name, cate
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[revfactory-harness]] [[santifer-career-ops]] [[mattpocock-skills]] [[zackriya-solutions-meetily]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[santifer-career-ops]] [[anthropics-claude-code]] [[anil-matcha-open-generative-ai]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

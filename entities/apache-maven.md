@@ -2,6 +2,7 @@
 title: "apache/maven"
 created: 2026-07-04
 updated: 2026-07-04
+last_active: 2026-07-04
 type: tool
 tags: [java]
 sources: [raw/trending/2026-07-04.json]

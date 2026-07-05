@@ -2,6 +2,7 @@
 title: "flutter/flutter"
 created: 2026-06-25
 updated: 2026-06-25
+last_active: 2026-06-25
 type: tool
 tags: [tool]
 sources: [raw/trending/2026-06-25.json]

@@ -2,6 +2,7 @@
 title: "unclecode/crawl4ai"
 created: 2026-05-29
 updated: 2026-05-29
+last_active: 2026-05-29
 type: tool
 tags: [python, ai-agent, web]
 sources: [raw/trending/2026-05-29.json]
@@ -33,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]] [[agentskills-agentskills]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

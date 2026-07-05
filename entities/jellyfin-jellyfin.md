@@ -2,6 +2,7 @@
 title: "jellyfin/jellyfin"
 created: 2026-05-27
 updated: 2026-05-27
+last_active: 2026-05-27
 type: tool
 tags: [tool]
 sources: [raw/trending/2026-05-27.json]
@@ -33,5 +34,5 @@ The Free Software Media System - Server Backend & API
 
 ## 相关项目
 
-[[dotnet-skills]] [[itsfatduck-optimizerduck]] [[coplaydev-unity-mcp]] [[dotnet-aspnetcore]]
+[[itsfatduck-optimizerduck]] [[dotnet-skills]] [[coplaydev-unity-mcp]] [[dotnet-aspnetcore]]
 

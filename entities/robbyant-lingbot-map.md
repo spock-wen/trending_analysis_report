@@ -2,6 +2,7 @@
 title: "Robbyant/lingbot-map"
 created: 2026-06-29
 updated: 2026-07-01
+last_active: 2026-07-01
 type: tool
 tags: [python, data]
 sources: [raw/trending/2026-07-01.json]
@@ -34,7 +35,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[zackriya-solutions-meetily]] [[agentskills-agentskills]] [[rommapp-romm]]
+[[zackriya-solutions-meetily]] [[anthropics-claude-code]] [[supabase-supabase]] [[safishamsi-graphify]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[data]]
 

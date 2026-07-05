@@ -2,6 +2,7 @@
 title: "godotengine/godot"
 created: 2026-06-02
 updated: 2026-06-02
+last_active: 2026-06-02
 type: framework
 tags: [cpp]
 sources: [raw/trending/2026-06-02.json]
@@ -33,5 +34,5 @@ Godot Engine – Multi-platform 2D and 3D game engine
 
 ## 相关项目
 
-[[opencv-opencv]] [[alibaba-zvec]] [[opentoonz-opentoonz]]
+[[opencv-opencv]] [[opentoonz-opentoonz]] [[alibaba-zvec]]
 

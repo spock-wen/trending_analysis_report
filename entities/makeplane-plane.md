@@ -2,6 +2,7 @@
 title: "makeplane/plane"
 created: 2026-06-18
 updated: 2026-06-19
+last_active: 2026-06-19
 type: tool
 tags: [typescript, cli]
 sources: [raw/trending/2026-06-19.json]
@@ -34,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[immich-app-immich]] [[alibaba-page-agent]] [[chthollyphile-folia-major]] [[ogulcancelik-herdr]]
+[[anthropics-claude-code]] [[immich-app-immich]] [[othmanadi-planning-with-files]] [[facebook-astryx]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[cli]]
 

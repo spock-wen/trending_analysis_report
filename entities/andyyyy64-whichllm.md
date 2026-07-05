@@ -2,6 +2,7 @@
 title: "Andyyyy64/whichllm"
 created: 2026-06-09
 updated: 2026-06-10
+last_active: 2026-06-10
 type: tool
 tags: [python, ai-agent, cli]
 sources: [raw/trending/2026-06-10.json]
@@ -34,7 +35,7 @@ Find the local LLM that actually runs and performs best on your hardware. Ranked
 
 ## 相关项目
 
-[[mattpocock-skills]] [[alibaba-page-agent]] [[agentskills-agentskills]] [[ogulcancelik-herdr]] [[dotnet-skills]]
+[[anthropics-claude-code]] [[alibaba-page-agent]] [[othmanadi-planning-with-files]] [[leonxlnx-taste-skill]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

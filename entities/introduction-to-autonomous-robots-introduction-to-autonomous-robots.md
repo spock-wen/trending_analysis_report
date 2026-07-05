@@ -2,6 +2,7 @@
 title: "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots"
 created: 2026-06-15
 updated: 2026-06-16
+last_active: 2026-06-16
 type: tool
 tags: [ai-agent]
 sources: [raw/trending/2026-06-16.json]
@@ -34,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[dotnet-skills]] [[alibaba-page-agent]] [[mattpocock-skills]]
+[[alibaba-page-agent]] [[leonxlnx-taste-skill]] [[dotnet-skills]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

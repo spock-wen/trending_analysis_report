@@ -2,6 +2,7 @@
 title: "CopilotKit/CopilotKit"
 created: 2026-06-06
 updated: 2026-06-09
+last_active: 2026-06-09
 type: tool
 tags: [typescript, ai-agent, web]
 sources: [raw/trending/2026-06-09.json]
@@ -35,7 +36,7 @@ The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, an
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[immich-app-immich]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[immich-app-immich]] [[facebook-astryx]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

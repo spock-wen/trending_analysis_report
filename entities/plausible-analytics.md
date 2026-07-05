@@ -2,6 +2,7 @@
 title: "plausible/analytics"
 created: 2026-05-18
 updated: 2026-05-19
+last_active: 2026-05-19
 type: tool
 tags: [web, data, security]
 sources: [raw/trending/2026-05-19.json]
@@ -34,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[keycloak-keycloak]] [[supabase-supabase]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

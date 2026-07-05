@@ -2,6 +2,7 @@
 title: "KeygraphHQ/shannon"
 created: 2026-05-18
 updated: 2026-05-18
+last_active: 2026-05-18
 type: tool
 tags: [typescript, ai-agent, web]
 sources: [raw/trending/2026-05-18.json]
@@ -33,7 +34,7 @@ Shannon Lite is an autonomous, white-box AI pentester for web applications and A
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[immich-app-immich]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[immich-app-immich]] [[facebook-astryx]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

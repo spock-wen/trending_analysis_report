@@ -2,6 +2,7 @@
 title: "rmyndharis/OpenWA"
 created: 2026-05-21
 updated: 2026-06-17
+last_active: 2026-06-17
 type: tool
 tags: [typescript]
 sources: [raw/trending/2026-06-17.json]
@@ -35,5 +36,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[immich-app-immich]] [[chthollyphile-folia-major]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-page-agent]]
+[[alibaba-page-agent]] [[facebook-astryx]] [[chromedevtools-chrome-devtools-mcp]] [[immich-app-immich]]
 

@@ -2,6 +2,7 @@
 title: "CloakHQ/CloakBrowser"
 created: 2026-05-19
 updated: 2026-05-20
+last_active: 2026-05-20
 type: tool
 tags: [python, web, security, erp]
 sources: [raw/trending/2026-05-20.json]
@@ -34,7 +35,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[zackriya-solutions-meetily]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[keycloak-keycloak]] [[affaan-m-ecc]] [[anthropics-claude-code]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

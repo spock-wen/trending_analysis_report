@@ -2,6 +2,7 @@
 title: "st-tech/ppf-contact-solver"
 created: 2026-05-27
 updated: 2026-05-27
+last_active: 2026-05-27
 type: tool
 tags: [python, cli]
 sources: [raw/trending/2026-05-27.json]
@@ -33,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[mattpocock-skills]] [[agentskills-agentskills]] [[ogulcancelik-herdr]] [[rommapp-romm]] [[crynta-terax-ai]]
+[[anthropics-claude-code]] [[othmanadi-planning-with-files]] [[ogulcancelik-herdr]] [[alirezarezvani-claude-skills]] [[rommapp-romm]]
 
 **所属领域**: [[cli]]
 

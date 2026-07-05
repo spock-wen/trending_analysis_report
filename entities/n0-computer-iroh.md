@@ -2,6 +2,7 @@
 title: "n0-computer/iroh"
 created: 2026-06-17
 updated: 2026-06-20
+last_active: 2026-06-20
 type: tool
 tags: [rust, rising]
 sources: [raw/trending/2026-06-20.json]
@@ -36,5 +37,5 @@ IP addresses break, dial keys instead. Modular networking stack in Rust.
 
 ## 相关项目
 
-[[togatoga-karukan]] [[tencentcloud-cubesandbox]] [[ogulcancelik-herdr]] [[zackriya-solutions-meetily]]
+[[tencentcloud-cubesandbox]] [[zackriya-solutions-meetily]] [[ogulcancelik-herdr]] [[ruvnet-ruview]]
 

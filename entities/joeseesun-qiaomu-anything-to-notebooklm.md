@@ -2,6 +2,7 @@
 title: "joeseesun/qiaomu-anything-to-notebooklm"
 created: 2026-05-16
 updated: 2026-05-17
+last_active: 2026-05-17
 type: tool
 tags: [python, ai-agent]
 sources: [raw/trending/2026-05-17.json]
@@ -34,7 +35,7 @@ Claude Skill: Multi-source content processor for NotebookLM.
 
 ## 相关项目
 
-[[mattpocock-skills]] [[alibaba-page-agent]] [[agentskills-agentskills]] [[dotnet-skills]] [[rommapp-romm]]
+[[anthropics-claude-code]] [[alibaba-page-agent]] [[leonxlnx-taste-skill]] [[alirezarezvani-claude-skills]] [[rommapp-romm]]
 
 **所属领域**: [[ai-agent]]
 

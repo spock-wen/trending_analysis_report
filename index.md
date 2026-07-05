@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-07-05 | 总页面：301
+> 最后更新：2026-07-06 | 总页面：306
 
 ## Entities
 
@@ -17,7 +17,7 @@
 - [[aishwaryanr-awesome-generative-ai-guide|awesome-generative-ai-guide"]] — A one stop repository for generative AI research updates, in...
 - [[alchaincyf-zhangxuefeng-skill|zhangxuefeng-skill"]] — 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 - [[alexzhang13-rlm|rlm"]] — General plug-and-play inference library for Recursive Langua...
-- [[alibaba-page-agent|page-agent"]] — JavaScript in-page GUI agent. Control web interfaces with na...
+- [[alibaba-page-agent|page-agent"]] — JavaScript in-page GUI agent. Control web interfaces with na... 🆕
 - [[alibaba-zvec|zvec"]] — A lightweight, lightning-fast, in-process vector database
 - [[alireza0-s-ui|s-ui"]] — An advanced Web Panel • Built for SagerNet/Sing-Box
 - [[alirezarezvani-claude-skills|claude-skills"]] — 337 Claude Code skills & agent skills & plugins (30+ Agents,... 🆕
@@ -59,7 +59,7 @@
 - [[chen08209-flclash|FlClash"]] — A multi-platform proxy client based on ClashMeta,simple and ...
 - [[chopratejas-headroom|headroom"]] — Compress tool outputs, logs, files, and RAG chunks before th... 🔥
 - [[chromedevtools-chrome-devtools-mcp|chrome-devtools-mcp"]] — Chrome DevTools for coding agents 🔥
-- [[chthollyphile-folia-major|folia-major"]] — 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器 🆕
+- [[chthollyphile-folia-major|folia-major"]] — 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
 - [[cloakhq-cloakbrowser|CloakBrowser"]] — Stealth Chromium that passes every bot detection test. Drop-... 🆕
 - [[codecrafters-io-build-your-own-x|build-your-own-x"]] — Master programming by recreating your favorite technologies ... 🔥
 - [[colbymchenry-codegraph|codegraph"]] — Pre-indexed code knowledge graph for Claude Code, Codex, Cur... 🔥
@@ -68,8 +68,9 @@
 - [[copilotkit-copilotkit|CopilotKit"]] — The Frontend Stack for Agents & Generative UI. React, Angula...
 - [[coplaydev-unity-mcp|unity-mcp"]] — Unity MCP acts as a bridge between AI assistants and your Un... 🆕
 - [[corebunch-instatic|Instatic"]] — Instatic is a modern self-hosted visual CMS - get it running... 🆕
+- [[coreyhaines31-marketingskills|marketingskills"]] — Marketing skills for Claude Code and AI agents. CRO, copywri... 🆕
 - [[crosstalk-solutions-project-nomad|project-nomad"]] — Project N.O.M.A.D, is a self-contained, offline survival com...
-- [[crynta-terax-ai|terax-ai"]] — Lightweight (7MB) Terminal-first AI-native dev workspace 🆕
+- [[crynta-terax-ai|terax-ai"]] — Lightweight (7MB) Terminal-first AI-native dev workspace
 - [[cupy-cupy|cupy"]] — NumPy & SciPy for GPU 🆕
 - [[cursor-plugins|plugins"]] — Cursor plugin specification and official plugins 🆕
 - [[cypress-io-cypress|cypress"]] — Fast, easy and reliable testing for anything that runs in a ...
@@ -84,7 +85,7 @@
 - [[dmtrkovalenko-fff|fff"]] — The fastest and the most accurate file search toolkit for AI...
 - [[dograh-hq-dograh|dograh"]] — Open Source Voice Agent Platform
 - [[dotnet-aspnetcore|aspnetcore"]] — ASP.NET Core is a cross-platform .NET framework for building...
-- [[dotnet-skills|skills"]] — Repository for skills to assist AI coding agents with .NET a...
+- [[dotnet-skills|skills"]] — Repository for skills to assist AI coding agents with .NET a... 🆕
 - [[dreammis-social-auto-upload|social-auto-upload"]] — 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 - [[earendil-works-pi|pi"]] — AI agent toolkit: coding agent CLI, unified LLM API, TUI & w... 🆕
 - [[elastic-elasticsearch|elasticsearch"]] — Free and Open Source, Distributed, RESTful Search Engine
@@ -104,6 +105,7 @@
 - [[freecodecamp-freecodecamp|freeCodeCamp"]] — freeCodeCamp.org's open-source codebase and curriculum. Lear... 🔥
 - [[galilai-group-stable-worldmodel|stable-worldmodel"]] — A platform for reproducible world model research and evaluat... 🆕
 - [[garrytan-gstack|gstack"]] — Use Garry Tan's exact Claude Code setup: 23 opinionated tool... 🔥
+- [[gastownhall-gastown|gastown"]] — Gas Town - multi-agent workspace manager 🆕
 - [[github-copilot-sdk|copilot-sdk"]] — Multi-platform SDK for integrating GitHub Copilot Agent into... 🆕
 - [[github-docs|docs"]] — The open-source repo for docs.github.com
 - [[github-spec-kit|spec-kit"]] — Toolkit to help you get started with Spec-Driven Development 🆕
@@ -116,6 +118,7 @@
 - [[hardikpandya-stop-slop|stop-slop"]] — A skill file for removing AI tells from prose 🔥
 - [[harry0703-moneyprinterturbo|MoneyPrinterTurbo"]] — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using...
 - [[hasaneyldrm-exercises-dataset|exercises-dataset"]] — A comprehensive dataset of 433 fitness exercises. Each entry... 🔥
+- [[hesreallyhim-awesome-claude-code|awesome-claude-code"]] — A hand-picked collection of the finest of resources for the ... 🆕
 - [[hexo-ai-sia|sia"]] — SIA is a Self Improving AI framework to autonomously improve...
 - [[heygen-com-hyperframes|hyperframes"]] — Write HTML. Render video. Built for agents.
 - [[hkuds-cli-anything|CLI-Anything"]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:... 🔥
@@ -198,7 +201,7 @@
 - [[nvlabs-sana|Sana"]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
 - [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo... 🆕
 - [[odoo-odoo|odoo"]] — Odoo. Open Source Apps To Grow Your Business.
-- [[ogulcancelik-herdr|herdr"]] — agent multiplexer that lives in your terminal. 🆕
+- [[ogulcancelik-herdr|herdr"]] — agent multiplexer that lives in your terminal. 🔥
 - [[open-dev-society-openstock|OpenStock"]] — OpenStock is an open-source alternative to expensive market ...
 - [[open-llm-vtuber-open-llm-vtuber|Open-LLM-VTuber"]] — Talk to any LLM with hands-free voice interaction, voice int... 🔥
 - [[openai-codex-plugin-cc|codex-plugin-cc"]] — Use Codex from Claude Code to review code or delegate tasks. 🔥
@@ -210,6 +213,7 @@
 - [[opendataloader-project-opendataloader-pdf|opendataloader-pdf"]] — PDF Parser for AI-ready data. Automate PDF accessibility. Op...
 - [[openmoss-moss-tts|MOSS-TTS"]] — MOSS‑TTS Family is an open‑source speech and sound generatio...
 - [[opentoonz-opentoonz|opentoonz"]] — OpenToonz - An open-source full-featured 2D animation creati...
+- [[othmanadi-planning-with-files|planning-with-files"]] — Persistent file-based planning for AI coding agents and long... 🆕
 - [[oven-sh-bun|bun"]] — Incredibly fast JavaScript runtime, bundler, test runner, an... 🔥
 - [[owainlewis-awesome-artificial-intelligence|awesome-artificial-intelligence"]] — A curated list of Artificial Intelligence (AI) courses, book...
 - [[p-e-w-heretic|heretic"]] — Fully automatic censorship removal for language models
@@ -237,7 +241,7 @@
 - [[roboflow-supervision|supervision"]] — We write your reusable computer vision tools. 💜
 - [[rohitg00-agentmemory|agentmemory"]] — - 语言: TypeScript 🆕
 - [[rohitg00-ai-engineering-from-scratch|ai-engineering-from-scratch"]] — Learn it. Build it. Ship it for others.
-- [[rommapp-romm|romm"]] — A beautiful, powerful, self-hosted rom manager and player. 🆕
+- [[rommapp-romm|romm"]] — A beautiful, powerful, self-hosted rom manager and player. 🔥
 - [[rtk-ai-rtk|rtk"]] — CLI proxy that reduces LLM token consumption by 60-90% on co...
 - [[run-llama-liteparse|liteparse"]] — A fast, helpful, and open-source document parser 🆕
 - [[ruvnet-ruview|RuView"]] — π RuView turns commodity WiFi signals into real-time spatial...
@@ -253,6 +257,7 @@
 - [[st-tech-ppf-contact-solver|ppf-contact-solver"]] — A contact solver for physics-based simulations involving 👚 s...
 - [[stablyai-orca|orca"]] — Orca is the ADE for working with a fleet of parallel agents....
 - [[stefan-jansen-machine-learning-for-trading|machine-learning-for-trading"]] — Code for Machine Learning for Algorithmic Trading, 2nd editi... 🆕
+- [[steipete-codexbar|CodexBar"]] — Show usage stats for OpenAI Codex and Claude Code, without h... 🆕
 - [[stirling-tools-stirling-pdf|Stirling-PDF"]] — - 语言: TypeScript
 - [[supabase-supabase|supabase"]] — The Postgres development platform. Supabase gives you a dedi...
 - [[supermemoryai-supermemory|supermemory"]] — Memory engine and app that is extremely fast, scalable. The ... 🔥

@@ -2,6 +2,7 @@
 title: "trimstray/the-book-of-secret-knowledge"
 created: 2026-05-22
 updated: 2026-05-23
+last_active: 2026-05-23
 type: tool
 tags: [web, cli]
 sources: [raw/trending/2026-05-23.json]
@@ -34,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]] [[ogulcancelik-herdr]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[othmanadi-planning-with-files]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[web]] [[cli]]
 

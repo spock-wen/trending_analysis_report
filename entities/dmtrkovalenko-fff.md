@@ -2,6 +2,7 @@
 title: "dmtrKovalenko/fff"
 created: 2026-06-02
 updated: 2026-06-02
+last_active: 2026-06-02
 type: tool
 tags: [rust, ai-agent]
 sources: [raw/trending/2026-06-02.json]
@@ -33,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[alibaba-page-agent]] [[tencentcloud-cubesandbox]] [[ogulcancelik-herdr]]
+[[zackriya-solutions-meetily]] [[anthropics-claude-code]] [[ruvnet-ruview]] [[leonxlnx-taste-skill]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[ai-agent]]
 

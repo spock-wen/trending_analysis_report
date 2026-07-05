@@ -2,6 +2,7 @@
 title: "allenai/olmocr"
 created: 2026-07-02
 updated: 2026-07-02
+last_active: 2026-07-02
 type: tool
 tags: [python, ai-agent, data]
 sources: [raw/trending/2026-07-02.json]
@@ -33,7 +34,7 @@ Toolkit for linearizing PDFs for LLM datasets/training
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[alibaba-page-agent]]
+[[zackriya-solutions-meetily]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[supabase-supabase]] [[safishamsi-graphify]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

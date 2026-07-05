@@ -2,6 +2,7 @@
 title: "Open-LLM-VTuber/Open-LLM-VTuber"
 created: 2026-06-03
 updated: 2026-06-06
+last_active: 2026-06-06
 type: tool
 tags: [python, ai-agent, audio, rising]
 sources: [raw/trending/2026-06-06.json]
@@ -36,7 +37,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[mattpocock-skills]] [[lightricks-ltx-2]] [[alibaba-page-agent]] [[agentskills-agentskills]]
+[[anthropics-claude-code]] [[alibaba-page-agent]] [[lightricks-ltx-2]] [[hugohe3-ppt-master]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -2,6 +2,7 @@
 title: "chopratejas/headroom"
 created: 2026-06-03
 updated: 2026-06-22
+last_active: 2026-06-22
 type: tool
 tags: [python, ai-agent, rising]
 sources: [raw/trending/2026-06-22.json]
@@ -37,7 +38,7 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60
 
 ## 相关项目
 
-[[mattpocock-skills]] [[alibaba-page-agent]] [[agentskills-agentskills]] [[dotnet-skills]] [[rommapp-romm]]
+[[anthropics-claude-code]] [[alibaba-page-agent]] [[leonxlnx-taste-skill]] [[alirezarezvani-claude-skills]] [[rommapp-romm]]
 
 **所属领域**: [[ai-agent]]
 

@@ -2,6 +2,7 @@
 title: "music-assistant/server"
 created: 2026-06-13
 updated: 2026-06-17
+last_active: 2026-06-17
 type: tool
 tags: [python, audio, rising]
 sources: [raw/trending/2026-06-17.json]
@@ -37,7 +38,7 @@ Music Assistant is a free, opensource Media library manager that connects to you
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[agentskills-agentskills]] [[jamiepine-voicebox]] [[rommapp-romm]]
+[[anthropics-claude-code]] [[lightricks-ltx-2]] [[hugohe3-ppt-master]] [[altic-dev-fluidvoice]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[audio]]
 

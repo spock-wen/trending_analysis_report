@@ -2,6 +2,7 @@
 title: "galilai-group/stable-worldmodel"
 created: 2026-05-30
 updated: 2026-05-31
+last_active: 2026-05-31
 type: tool
 tags: [python, ai-agent, image-gen, science]
 sources: [raw/trending/2026-05-31.json]
@@ -34,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[santifer-career-ops]] [[hasaneyldrm-exercises-dataset]] [[mattpocock-skills]] [[anil-matcha-open-generative-ai]]
+[[santifer-career-ops]] [[affaan-m-ecc]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[anil-matcha-open-generative-ai]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

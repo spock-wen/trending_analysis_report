@@ -2,6 +2,7 @@
 title: "humanlayer/12-factor-agents"
 created: 2026-05-19
 updated: 2026-05-20
+last_active: 2026-05-20
 type: tool
 tags: [typescript, ai-agent]
 sources: [raw/trending/2026-05-20.json]
@@ -34,7 +35,7 @@ What are the principles we can use to build LLM-powered software that is actuall
 
 ## 相关项目
 
-[[mattpocock-skills]] [[immich-app-immich]] [[alibaba-page-agent]] [[chthollyphile-folia-major]] [[dotnet-skills]]
+[[anthropics-claude-code]] [[immich-app-immich]] [[facebook-astryx]] [[leonxlnx-taste-skill]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]]
 

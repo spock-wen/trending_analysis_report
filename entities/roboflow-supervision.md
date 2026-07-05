@@ -2,6 +2,7 @@
 title: "roboflow/supervision"
 created: 2026-06-09
 updated: 2026-07-01
+last_active: 2026-07-01
 type: tool
 tags: [python]
 sources: [raw/trending/2026-07-01.json]
@@ -36,5 +37,5 @@ We write your reusable computer vision tools. 💜
 
 ## 相关项目
 
-[[agentskills-agentskills]] [[alirezarezvani-claude-skills]] [[rommapp-romm]] [[usestrix-strix]]
+[[rommapp-romm]] [[alirezarezvani-claude-skills]] [[anthropics-claude-code]] [[usestrix-strix]]
 

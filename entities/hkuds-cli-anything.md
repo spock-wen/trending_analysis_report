@@ -2,6 +2,7 @@
 title: "HKUDS/CLI-Anything"
 created: 2026-05-18
 updated: 2026-05-22
+last_active: 2026-05-22
 type: tool
 tags: [python, ai-agent, web, cli, rising]
 sources: [raw/trending/2026-05-22.json]
@@ -37,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]] [[agentskills-agentskills]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[othmanadi-planning-with-files]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -2,6 +2,7 @@
 title: "alchaincyf/zhangxuefeng-skill"
 created: 2026-06-12
 updated: 2026-06-27
+last_active: 2026-06-27
 type: tool
 tags: [ai-agent]
 sources: [raw/trending/2026-06-27.json]
@@ -34,7 +35,7 @@ language: ""
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[dotnet-skills]] [[alibaba-page-agent]] [[mattpocock-skills]]
+[[alibaba-page-agent]] [[leonxlnx-taste-skill]] [[dotnet-skills]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

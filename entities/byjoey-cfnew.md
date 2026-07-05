@@ -2,6 +2,7 @@
 title: "byJoey/cfnew"
 created: 2026-05-23
 updated: 2026-05-23
+last_active: 2026-05-23
 type: tool
 tags: [tool]
 sources: [raw/trending/2026-05-23.json]

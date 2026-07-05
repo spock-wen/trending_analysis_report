@@ -2,6 +2,7 @@
 title: "pytest-dev/pytest"
 created: 2026-06-15
 updated: 2026-06-15
+last_active: 2026-06-15
 type: framework
 tags: [python]
 sources: [raw/trending/2026-06-15.json]
@@ -33,5 +34,5 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 
 ## 相关项目
 
-[[agentskills-agentskills]] [[alirezarezvani-claude-skills]] [[rommapp-romm]] [[usestrix-strix]]
+[[rommapp-romm]] [[alirezarezvani-claude-skills]] [[anthropics-claude-code]] [[usestrix-strix]]
 

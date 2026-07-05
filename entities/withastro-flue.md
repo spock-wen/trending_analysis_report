@@ -2,6 +2,7 @@
 title: "withastro/flue"
 created: 2026-06-19
 updated: 2026-06-21
+last_active: 2026-06-21
 type: framework
 tags: [typescript, ai-agent, rising]
 sources: [raw/trending/2026-06-21.json]
@@ -35,7 +36,7 @@ The sandbox agent framework.
 
 ## 相关项目
 
-[[mattpocock-skills]] [[immich-app-immich]] [[alibaba-page-agent]] [[chthollyphile-folia-major]] [[dotnet-skills]]
+[[anthropics-claude-code]] [[immich-app-immich]] [[facebook-astryx]] [[leonxlnx-taste-skill]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]]
 

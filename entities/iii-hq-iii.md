@@ -2,6 +2,7 @@
 title: "iii-hq/iii"
 created: 2026-05-28
 updated: 2026-05-28
+last_active: 2026-05-28
 type: tool
 tags: [rust]
 sources: [raw/trending/2026-05-28.json]
@@ -33,5 +34,5 @@ Effortlessly compose, extend, and observe every service in real-time for the fir
 
 ## 相关项目
 
-[[togatoga-karukan]] [[tencentcloud-cubesandbox]] [[ogulcancelik-herdr]] [[zackriya-solutions-meetily]]
+[[tencentcloud-cubesandbox]] [[zackriya-solutions-meetily]] [[ogulcancelik-herdr]] [[ruvnet-ruview]]
 

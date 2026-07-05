@@ -2,6 +2,7 @@
 title: "apple/container"
 created: 2026-06-11
 updated: 2026-06-26
+last_active: 2026-06-26
 type: tool
 tags: [ai-agent]
 sources: [raw/trending/2026-06-26.json]
@@ -37,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[palmier-io-palmier-pro]] [[mattpocock-skills]] [[alibaba-page-agent]] [[dotnet-skills]] [[altic-dev-fluidvoice]]
+[[palmier-io-palmier-pro]] [[anthropics-claude-code]] [[leonxlnx-taste-skill]] [[altic-dev-fluidvoice]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]]
 

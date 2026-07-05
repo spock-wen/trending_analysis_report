@@ -2,6 +2,7 @@
 title: "ryanmcdermott/clean-code-javascript"
 created: 2026-07-03
 updated: 2026-07-03
+last_active: 2026-07-03
 type: tool
 tags: [tool]
 sources: [raw/trending/2026-07-03.json]
@@ -33,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[santifer-career-ops]] [[juliusbrussee-caveman]] [[affaan-m-ecc]] [[openai-codex-plugin-cc]]
+[[leonxlnx-taste-skill]] [[coreyhaines31-marketingskills]] [[juliusbrussee-caveman]] [[openai-codex-plugin-cc]]
 

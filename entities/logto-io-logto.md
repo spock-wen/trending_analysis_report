@@ -2,6 +2,7 @@
 title: "logto-io/logto"
 created: 2026-06-30
 updated: 2026-07-02
+last_active: 2026-07-02
 type: tool
 tags: [typescript, ai-agent, devops]
 sources: [raw/trending/2026-07-02.json]
@@ -34,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[mattpocock-skills]] [[ansible-ansible]] [[immich-app-immich]] [[alibaba-page-agent]]
+[[ansible-ansible]] [[langflow-ai-langflow]] [[anthropics-claude-code]] [[ruvnet-ruview]] [[immich-app-immich]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

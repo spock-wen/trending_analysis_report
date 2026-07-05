@@ -2,6 +2,7 @@
 title: "HKUDS/ViMax"
 created: 2026-05-20
 updated: 2026-05-21
+last_active: 2026-05-21
 type: tool
 tags: [python, ai-agent, image-gen]
 sources: [raw/trending/2026-05-21.json]
@@ -34,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[santifer-career-ops]] [[hasaneyldrm-exercises-dataset]] [[mattpocock-skills]] [[anil-matcha-open-generative-ai]]
+[[santifer-career-ops]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[anil-matcha-open-generative-ai]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

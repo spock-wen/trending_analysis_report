@@ -2,6 +2,7 @@
 title: "knadh/listmonk"
 created: 2026-05-18
 updated: 2026-05-18
+last_active: 2026-05-18
 type: tool
 tags: [go, ai-agent]
 sources: [raw/trending/2026-05-18.json]
@@ -33,7 +34,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[icewhaletech-casaos]] [[mattpocock-skills]] [[masterking32-masterdnsvpn]] [[kenn-io-agentsview]] [[alibaba-page-agent]]
+[[gastownhall-gastown]] [[anthropics-claude-code]] [[kenn-io-agentsview]] [[alibaba-page-agent]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]]
 

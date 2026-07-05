@@ -2,6 +2,7 @@
 title: "NanmiCoder/MediaCrawler"
 created: 2026-06-26
 updated: 2026-06-28
+last_active: 2026-06-28
 type: tool
 tags: [python, rising]
 sources: [raw/trending/2026-06-28.json]
@@ -35,5 +36,5 @@ language: "Python"
 
 ## 相关项目
 
-[[agentskills-agentskills]] [[alirezarezvani-claude-skills]] [[rommapp-romm]] [[usestrix-strix]]
+[[rommapp-romm]] [[alirezarezvani-claude-skills]] [[anthropics-claude-code]] [[usestrix-strix]]
 

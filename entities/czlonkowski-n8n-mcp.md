@@ -2,6 +2,7 @@
 title: "czlonkowski/n8n-mcp"
 created: 2026-05-16
 updated: 2026-05-17
+last_active: 2026-05-17
 type: tool
 tags: [typescript, ai-agent]
 sources: [raw/trending/2026-05-17.json]
@@ -34,7 +35,7 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ## 相关项目
 
-[[mattpocock-skills]] [[immich-app-immich]] [[alibaba-page-agent]] [[chthollyphile-folia-major]] [[dotnet-skills]]
+[[anthropics-claude-code]] [[immich-app-immich]] [[facebook-astryx]] [[leonxlnx-taste-skill]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]]
 

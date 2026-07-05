@@ -2,6 +2,7 @@
 title: "itsfatduck/optimizerDuck"
 created: 2026-06-16
 updated: 2026-06-16
+last_active: 2026-06-16
 type: tool
 tags: [security]
 sources: [raw/trending/2026-06-16.json]
@@ -33,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[dotnet-aspnetcore]] [[zackriya-solutions-meetily]] [[keycloak-keycloak]] [[affaan-m-ecc]] [[dotnet-skills]]
+[[zackriya-solutions-meetily]] [[keycloak-keycloak]] [[coplaydev-unity-mcp]] [[dotnet-aspnetcore]] [[veracrypt-veracrypt]]
 
 **所属领域**: [[security]]
 

@@ -2,6 +2,7 @@
 title: "chthollyphile/folia-major"
 created: 2026-07-05
 updated: 2026-07-05
+last_active: 2026-07-05
 type: tool
 tags: [typescript]
 sources: [raw/trending/2026-07-05.json]
@@ -33,5 +34,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[immich-app-immich]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-page-agent]]
+[[alibaba-page-agent]] [[facebook-astryx]] [[chromedevtools-chrome-devtools-mcp]] [[immich-app-immich]]
 

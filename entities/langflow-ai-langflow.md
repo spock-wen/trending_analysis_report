@@ -2,6 +2,7 @@
 title: "langflow-ai/langflow"
 created: 2026-07-03
 updated: 2026-07-03
+last_active: 2026-07-03
 type: tool
 tags: [python, ai-agent, devops]
 sources: [raw/trending/2026-07-03.json]
@@ -33,7 +34,7 @@ Langflow is a powerful tool for building and deploying AI-powered agents and wor
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[mattpocock-skills]] [[ansible-ansible]] [[alibaba-page-agent]] [[logto-io-logto]]
+[[ansible-ansible]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[ruvnet-ruview]] [[safishamsi-graphify]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

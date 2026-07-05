@@ -2,6 +2,7 @@
 title: "TapXWorld/ChinaTextbook"
 created: 2026-06-08
 updated: 2026-06-12
+last_active: 2026-06-12
 type: tool
 tags: [tool]
 sources: [raw/trending/2026-06-12.json]

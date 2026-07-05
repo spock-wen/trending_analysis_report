@@ -2,6 +2,7 @@
 title: "JCodesMore/ai-website-cloner-template"
 created: 2026-06-23
 updated: 2026-06-28
+last_active: 2026-06-28
 type: tool
 tags: [typescript, ai-agent, web, cli, rising]
 sources: [raw/trending/2026-06-28.json]
@@ -37,7 +38,7 @@ Clone any website with one command using AI coding agents
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[immich-app-immich]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[immich-app-immich]] [[othmanadi-planning-with-files]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

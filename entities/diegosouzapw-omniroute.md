@@ -2,6 +2,7 @@
 title: "diegosouzapw/OmniRoute"
 created: 2026-07-01
 updated: 2026-07-02
+last_active: 2026-07-02
 type: tool
 tags: [typescript, ai-agent, cli]
 sources: [raw/trending/2026-07-02.json]
@@ -34,7 +35,7 @@ Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), con
 
 ## 相关项目
 
-[[mattpocock-skills]] [[immich-app-immich]] [[alibaba-page-agent]] [[chthollyphile-folia-major]] [[ogulcancelik-herdr]]
+[[anthropics-claude-code]] [[immich-app-immich]] [[othmanadi-planning-with-files]] [[facebook-astryx]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

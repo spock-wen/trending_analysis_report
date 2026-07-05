@@ -2,6 +2,7 @@
 title: "HunxByts/GhostTrack"
 created: 2026-06-08
 updated: 2026-06-08
+last_active: 2026-06-08
 type: tool
 tags: [python]
 sources: [raw/trending/2026-06-08.json]
@@ -33,5 +34,5 @@ Useful tool to track location or mobile number
 
 ## 相关项目
 
-[[agentskills-agentskills]] [[alirezarezvani-claude-skills]] [[rommapp-romm]] [[usestrix-strix]]
+[[rommapp-romm]] [[alirezarezvani-claude-skills]] [[anthropics-claude-code]] [[usestrix-strix]]
 

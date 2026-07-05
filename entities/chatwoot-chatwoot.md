@@ -2,6 +2,7 @@
 title: "chatwoot/chatwoot"
 created: 2026-06-12
 updated: 2026-06-18
+last_active: 2026-06-18
 type: tool
 tags: [ai-agent]
 sources: [raw/trending/2026-06-18.json]
@@ -37,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[dotnet-skills]] [[alibaba-page-agent]] [[mattpocock-skills]]
+[[alibaba-page-agent]] [[leonxlnx-taste-skill]] [[dotnet-skills]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

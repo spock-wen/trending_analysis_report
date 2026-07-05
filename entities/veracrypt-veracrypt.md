@@ -2,6 +2,7 @@
 title: "veracrypt/VeraCrypt"
 created: 2026-06-30
 updated: 2026-06-30
+last_active: 2026-06-30
 type: tool
 tags: [security]
 sources: [raw/trending/2026-06-30.json]
@@ -33,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[keycloak-keycloak]] [[microsoft-powertoys]] [[affaan-m-ecc]] [[deusdata-codebase-memory-mcp]]
+[[zackriya-solutions-meetily]] [[keycloak-keycloak]] [[microsoft-powertoys]] [[deusdata-codebase-memory-mcp]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

@@ -2,6 +2,7 @@
 title: "earendil-works/pi"
 created: 2026-05-25
 updated: 2026-05-25
+last_active: 2026-05-25
 type: tool
 tags: [typescript, ai-agent, web, cli]
 sources: [raw/trending/2026-05-25.json]
@@ -34,7 +35,7 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[immich-app-immich]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[immich-app-immich]] [[othmanadi-planning-with-files]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

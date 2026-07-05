@@ -2,6 +2,7 @@
 title: "masterking32/MasterDnsVPN"
 created: 2026-06-11
 updated: 2026-06-13
+last_active: 2026-06-13
 type: tool
 tags: [go, security, rising]
 sources: [raw/trending/2026-06-13.json]
@@ -35,7 +36,7 @@ Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli
 
 ## 相关项目
 
-[[icewhaletech-casaos]] [[zackriya-solutions-meetily]] [[kenn-io-agentsview]] [[keycloak-keycloak]] [[affaan-m-ecc]]
+[[zackriya-solutions-meetily]] [[gastownhall-gastown]] [[keycloak-keycloak]] [[kenn-io-agentsview]] [[veracrypt-veracrypt]]
 
 **所属领域**: [[security]]
 

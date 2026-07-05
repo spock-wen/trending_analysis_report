@@ -2,6 +2,7 @@
 title: "chen08209/FlClash"
 created: 2026-05-31
 updated: 2026-05-31
+last_active: 2026-05-31
 type: tool
 tags: [cli]
 sources: [raw/trending/2026-05-31.json]
@@ -33,7 +34,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[mattpocock-skills]] [[flutter-flutter]] [[ogulcancelik-herdr]] [[crynta-terax-ai]] [[alirezarezvani-claude-skills]]
+[[flutter-flutter]] [[anthropics-claude-code]] [[othmanadi-planning-with-files]] [[alirezarezvani-claude-skills]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[cli]]
 

@@ -2,6 +2,7 @@
 title: "lyogavin/airllm"
 created: 2026-06-04
 updated: 2026-06-23
+last_active: 2026-06-23
 type: tool
 tags: [python, ai-agent]
 sources: [raw/trending/2026-06-23.json]
@@ -34,7 +35,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[mattpocock-skills]] [[alibaba-page-agent]] [[dotnet-skills]] [[microsoft-ai-for-beginners]] [[nvidia-cosmos]]
+[[anthropics-claude-code]] [[leonxlnx-taste-skill]] [[stefan-jansen-machine-learning-for-trading]] [[nvidia-cosmos]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

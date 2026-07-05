@@ -2,6 +2,7 @@
 title: "phuryn/pm-skills"
 created: 2026-06-09
 updated: 2026-06-13
+last_active: 2026-06-13
 type: tool
 tags: [ai-agent, cli, rising]
 sources: [raw/trending/2026-06-13.json]
@@ -37,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[mattpocock-skills]] [[alibaba-page-agent]] [[ogulcancelik-herdr]] [[dotnet-skills]] [[chromedevtools-chrome-devtools-mcp]]
+[[anthropics-claude-code]] [[othmanadi-planning-with-files]] [[leonxlnx-taste-skill]] [[ogulcancelik-herdr]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

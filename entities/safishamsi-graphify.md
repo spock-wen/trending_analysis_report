@@ -2,6 +2,7 @@
 title: "safishamsi/graphify"
 created: 2026-07-04
 updated: 2026-07-04
+last_active: 2026-07-04
 type: tool
 tags: [python, ai-agent, cli, data, devops, image-gen, science]
 sources: [raw/trending/2026-07-04.json]
@@ -33,7 +34,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[ansible-ansible]] [[ogulcancelik-herdr]] [[chromedevtools-chrome-devtools-mcp]] [[anil-matcha-open-generative-ai]] [[logto-io-logto]]
+[[ansible-ansible]] [[supabase-supabase]] [[alirezarezvani-claude-skills]] [[langflow-ai-langflow]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

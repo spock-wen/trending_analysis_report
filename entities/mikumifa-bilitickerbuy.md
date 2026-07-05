@@ -2,6 +2,7 @@
 title: "mikumifa/biliTickerBuy"
 created: 2026-06-22
 updated: 2026-06-22
+last_active: 2026-06-22
 type: tool
 tags: [python]
 sources: [raw/trending/2026-06-22.json]
@@ -33,5 +34,5 @@ b站会员购购票辅助工具
 
 ## 相关项目
 
-[[agentskills-agentskills]] [[alirezarezvani-claude-skills]] [[rommapp-romm]] [[usestrix-strix]]
+[[rommapp-romm]] [[alirezarezvani-claude-skills]] [[anthropics-claude-code]] [[usestrix-strix]]
 

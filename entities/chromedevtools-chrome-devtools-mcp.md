@@ -2,6 +2,7 @@
 title: "ChromeDevTools/chrome-devtools-mcp"
 created: 2026-05-22
 updated: 2026-07-05
+last_active: 2026-07-05
 type: tool
 tags: [typescript, ai-agent, web, rising]
 sources: [raw/trending/2026-07-05.json]
@@ -37,7 +38,7 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[immich-app-immich]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[immich-app-immich]] [[facebook-astryx]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

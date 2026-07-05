@@ -2,6 +2,7 @@
 title: "tw93/Pake"
 created: 2026-06-21
 updated: 2026-06-22
+last_active: 2026-06-22
 type: tool
 tags: [rust, web, cli]
 sources: [raw/trending/2026-06-22.json]
@@ -34,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]] [[tencentcloud-cubesandbox]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[ruvnet-ruview]] [[othmanadi-planning-with-files]]
 
 **所属领域**: [[web]] [[cli]]
 

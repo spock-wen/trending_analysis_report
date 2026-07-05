@@ -2,6 +2,7 @@
 title: "Axorax/awesome-free-apps"
 created: 2026-05-26
 updated: 2026-05-28
+last_active: 2026-05-28
 type: tool
 tags: [rising]
 sources: [raw/trending/2026-05-28.json]
@@ -35,5 +36,5 @@ Curated list of the best free apps for PC and mobile
 
 ## 相关项目
 
-[[santifer-career-ops]] [[juliusbrussee-caveman]] [[affaan-m-ecc]] [[openai-codex-plugin-cc]]
+[[leonxlnx-taste-skill]] [[coreyhaines31-marketingskills]] [[juliusbrussee-caveman]] [[openai-codex-plugin-cc]]
 

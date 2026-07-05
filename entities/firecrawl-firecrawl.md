@@ -2,6 +2,7 @@
 title: "firecrawl/firecrawl"
 created: 2026-06-23
 updated: 2026-06-23
+last_active: 2026-06-23
 type: tool
 tags: [typescript, web]
 sources: [raw/trending/2026-06-23.json]
@@ -33,7 +34,7 @@ The API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[immich-app-immich]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]] [[chthollyphile-folia-major]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[immich-app-immich]] [[facebook-astryx]] [[alibaba-page-agent]]
 
 **所属领域**: [[web]]
 

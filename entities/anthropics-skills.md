@@ -2,6 +2,7 @@
 title: "anthropics/skills"
 created: 2026-05-16
 updated: 2026-05-31
+last_active: 2026-05-31
 type: tool
 tags: [python, ai-agent]
 sources: [raw/trending/2026-05-31.json]
@@ -36,7 +37,7 @@ Public repository for Agent Skills
 
 ## 相关项目
 
-[[mattpocock-skills]] [[alibaba-page-agent]] [[agentskills-agentskills]] [[dotnet-skills]] [[rommapp-romm]]
+[[anthropics-claude-code]] [[alibaba-page-agent]] [[leonxlnx-taste-skill]] [[alirezarezvani-claude-skills]] [[rommapp-romm]]
 
 **所属领域**: [[ai-agent]]
 

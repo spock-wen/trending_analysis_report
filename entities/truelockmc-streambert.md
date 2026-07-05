@@ -2,6 +2,7 @@
 title: "truelockmc/streambert"
 created: 2026-05-21
 updated: 2026-05-22
+last_active: 2026-05-22
 type: tool
 tags: [tool]
 sources: [raw/trending/2026-05-22.json]
@@ -34,5 +35,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[santifer-career-ops]] [[juliusbrussee-caveman]] [[affaan-m-ecc]] [[openai-codex-plugin-cc]]
+[[leonxlnx-taste-skill]] [[coreyhaines31-marketingskills]] [[juliusbrussee-caveman]] [[openai-codex-plugin-cc]]
 

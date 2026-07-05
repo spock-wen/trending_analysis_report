@@ -2,6 +2,7 @@
 title: "DigitalPlatDev/FreeDomain"
 created: 2026-05-27
 updated: 2026-05-30
+last_active: 2026-05-30
 type: tool
 tags: [ai-agent, web, rising]
 sources: [raw/trending/2026-05-30.json]
@@ -36,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[revfactory-harness]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[hasaneyldrm-exercises-dataset]] [[shanraisshan-claude-code-best-practice]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

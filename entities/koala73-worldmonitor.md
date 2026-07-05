@@ -2,6 +2,7 @@
 title: "koala73/worldmonitor"
 created: 2026-06-20
 updated: 2026-06-24
+last_active: 2026-06-24
 type: tool
 tags: [typescript, ai-agent, devops]
 sources: [raw/trending/2026-06-24.json]
@@ -35,7 +36,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[mattpocock-skills]] [[ansible-ansible]] [[immich-app-immich]] [[alibaba-page-agent]]
+[[ansible-ansible]] [[langflow-ai-langflow]] [[anthropics-claude-code]] [[ruvnet-ruview]] [[immich-app-immich]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

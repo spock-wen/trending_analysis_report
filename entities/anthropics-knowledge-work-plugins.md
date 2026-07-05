@@ -2,6 +2,7 @@
 title: "anthropics/knowledge-work-plugins"
 created: 2026-05-25
 updated: 2026-05-28
+last_active: 2026-05-28
 type: tool
 tags: [python, ai-agent, rising]
 sources: [raw/trending/2026-05-28.json]
@@ -37,7 +38,7 @@ Open source repository of plugins primarily intended for knowledge workers to us
 
 ## 相关项目
 
-[[mattpocock-skills]] [[alibaba-page-agent]] [[agentskills-agentskills]] [[dotnet-skills]] [[rommapp-romm]]
+[[anthropics-claude-code]] [[alibaba-page-agent]] [[leonxlnx-taste-skill]] [[alirezarezvani-claude-skills]] [[rommapp-romm]]
 
 **所属领域**: [[ai-agent]]
 

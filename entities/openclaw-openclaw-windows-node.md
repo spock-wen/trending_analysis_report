@@ -2,6 +2,7 @@
 title: "openclaw/openclaw-windows-node"
 created: 2026-06-05
 updated: 2026-06-06
+last_active: 2026-06-06
 type: tool
 tags: [cli]
 sources: [raw/trending/2026-06-06.json]
@@ -34,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[dotnet-aspnetcore]] [[mattpocock-skills]] [[ogulcancelik-herdr]] [[dotnet-skills]] [[crynta-terax-ai]]
+[[coplaydev-unity-mcp]] [[anthropics-claude-code]] [[itsfatduck-optimizerduck]] [[othmanadi-planning-with-files]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[cli]]
 

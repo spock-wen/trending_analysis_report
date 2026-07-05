@@ -2,6 +2,7 @@
 title: "oven-sh/bun"
 created: 2026-05-16
 updated: 2026-05-18
+last_active: 2026-05-18
 type: tool
 tags: [rust, rising]
 sources: [raw/trending/2026-05-18.json]
@@ -35,5 +36,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager al
 
 ## 相关项目
 
-[[togatoga-karukan]] [[tencentcloud-cubesandbox]] [[ogulcancelik-herdr]] [[zackriya-solutions-meetily]]
+[[tencentcloud-cubesandbox]] [[zackriya-solutions-meetily]] [[ogulcancelik-herdr]] [[ruvnet-ruview]]
 

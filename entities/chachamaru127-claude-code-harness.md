@@ -2,6 +2,7 @@
 title: "Chachamaru127/claude-code-harness"
 created: 2026-05-28
 updated: 2026-05-28
+last_active: 2026-05-28
 type: tool
 tags: [shell, ai-agent, cli]
 sources: [raw/trending/2026-05-28.json]
@@ -33,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[mattpocock-skills]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]] [[obra-superpowers]] [[dotnet-skills]]
+[[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[othmanadi-planning-with-files]] [[leonxlnx-taste-skill]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

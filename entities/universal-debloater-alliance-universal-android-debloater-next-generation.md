@@ -2,6 +2,7 @@
 title: "Universal-Debloater-Alliance/universal-android-debloater-next-generation"
 created: 2026-06-17
 updated: 2026-06-19
+last_active: 2026-06-19
 type: tool
 tags: [rust, security, image-gen, rising]
 sources: [raw/trending/2026-06-19.json]
@@ -35,7 +36,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[santifer-career-ops]] [[hasaneyldrm-exercises-dataset]] [[zackriya-solutions-meetily]] [[keycloak-keycloak]]
+[[zackriya-solutions-meetily]] [[keycloak-keycloak]] [[santifer-career-ops]] [[anil-matcha-open-generative-ai]] [[ruvnet-ruview]]
 
 **所属领域**: [[security]] [[image-gen]]
 

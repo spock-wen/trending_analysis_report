@@ -2,6 +2,7 @@
 title: "rohitg00/ai-engineering-from-scratch"
 created: 2026-05-21
 updated: 2026-06-16
+last_active: 2026-06-16
 type: tool
 tags: [python, ai-agent, education]
 sources: [raw/trending/2026-06-16.json]
@@ -37,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[freecodecamp-freecodecamp]] [[owainlewis-awesome-artificial-intelligence]] [[mattpocock-skills]] [[alibaba-page-agent]] [[agentskills-agentskills]]
+[[anthropics-claude-code]] [[alibaba-page-agent]] [[byoungd-english-level-up-tips]] [[owainlewis-awesome-artificial-intelligence]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

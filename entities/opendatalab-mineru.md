@@ -2,6 +2,7 @@
 title: "opendatalab/MinerU"
 created: 2026-06-26
 updated: 2026-06-29
+last_active: 2026-06-29
 type: tool
 tags: [python, ai-agent, data]
 sources: [raw/trending/2026-06-29.json]
@@ -35,7 +36,7 @@ Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[alibaba-page-agent]]
+[[zackriya-solutions-meetily]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[supabase-supabase]] [[safishamsi-graphify]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -2,6 +2,7 @@
 title: "nesquena/hermes-webui"
 created: 2026-06-01
 updated: 2026-06-04
+last_active: 2026-06-04
 type: tool
 tags: [python, ai-agent, web, rising]
 sources: [raw/trending/2026-06-04.json]
@@ -36,7 +37,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]] [[agentskills-agentskills]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -2,6 +2,7 @@
 title: "Lum1104/Understand-Anything"
 created: 2026-05-22
 updated: 2026-05-29
+last_active: 2026-05-29
 type: tool
 tags: [typescript, ai-agent, cli, education, rising]
 sources: [raw/trending/2026-05-29.json]
@@ -37,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[freecodecamp-freecodecamp]] [[owainlewis-awesome-artificial-intelligence]] [[mattpocock-skills]] [[immich-app-immich]] [[alibaba-page-agent]]
+[[anthropics-claude-code]] [[immich-app-immich]] [[othmanadi-planning-with-files]] [[byoungd-english-level-up-tips]] [[facebook-astryx]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

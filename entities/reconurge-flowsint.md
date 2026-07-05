@@ -2,6 +2,7 @@
 title: "reconurge/flowsint"
 created: 2026-06-03
 updated: 2026-06-06
+last_active: 2026-06-06
 type: tool
 tags: [typescript, security]
 sources: [raw/trending/2026-06-06.json]
@@ -35,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[immich-app-immich]] [[alibaba-page-agent]] [[keycloak-keycloak]] [[affaan-m-ecc]]
+[[zackriya-solutions-meetily]] [[keycloak-keycloak]] [[immich-app-immich]] [[facebook-astryx]] [[veracrypt-veracrypt]]
 
 **所属领域**: [[security]]
 

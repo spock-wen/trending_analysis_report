@@ -2,6 +2,7 @@
 title: "medusajs/medusa"
 created: 2026-05-18
 updated: 2026-05-18
+last_active: 2026-05-18
 type: tool
 tags: [typescript, erp]
 sources: [raw/trending/2026-05-18.json]
@@ -33,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[immich-app-immich]] [[alibaba-page-agent]] [[chthollyphile-folia-major]]
+[[immich-app-immich]] [[hugohe3-ppt-master]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[facebook-astryx]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

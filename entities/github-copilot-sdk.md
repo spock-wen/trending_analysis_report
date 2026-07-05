@@ -2,6 +2,7 @@
 title: "github/copilot-sdk"
 created: 2026-06-05
 updated: 2026-06-06
+last_active: 2026-06-06
 type: framework
 tags: [java, ai-agent]
 sources: [raw/trending/2026-06-06.json]
@@ -34,7 +35,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[apache-maven]] [[mattpocock-skills]] [[krahets-hello-algo]] [[alibaba-page-agent]] [[keycloak-keycloak]]
+[[krahets-hello-algo]] [[keycloak-keycloak]] [[anthropics-claude-code]] [[elastic-elasticsearch]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]]
 

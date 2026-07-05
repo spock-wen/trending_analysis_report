@@ -2,6 +2,7 @@
 title: "jamiepine/voicebox"
 created: 2026-06-21
 updated: 2026-06-24
+last_active: 2026-06-24
 type: tool
 tags: [typescript, ai-agent, audio]
 sources: [raw/trending/2026-06-24.json]
@@ -35,7 +36,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[mattpocock-skills]] [[lightricks-ltx-2]] [[immich-app-immich]] [[alibaba-page-agent]]
+[[anthropics-claude-code]] [[lightricks-ltx-2]] [[immich-app-immich]] [[hugohe3-ppt-master]] [[facebook-astryx]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

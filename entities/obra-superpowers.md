@@ -2,6 +2,7 @@
 title: "obra/superpowers"
 created: 2026-05-16
 updated: 2026-07-04
+last_active: 2026-07-04
 type: framework
 tags: [shell, ai-agent, cli, erp]
 sources: [raw/trending/2026-07-04.json]
@@ -37,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[mattpocock-skills]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]]
+[[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[othmanadi-planning-with-files]] [[hugohe3-ppt-master]] [[x1xhlol-system-prompts-and-models-of-ai-tools]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

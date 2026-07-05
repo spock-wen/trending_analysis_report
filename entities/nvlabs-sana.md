@@ -2,6 +2,7 @@
 title: "NVlabs/Sana"
 created: 2026-05-19
 updated: 2026-05-19
+last_active: 2026-05-19
 type: tool
 tags: [python, image-gen]
 sources: [raw/trending/2026-05-19.json]
@@ -33,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[santifer-career-ops]] [[hasaneyldrm-exercises-dataset]] [[anil-matcha-open-generative-ai]] [[agentskills-agentskills]]
+[[santifer-career-ops]] [[anthropics-claude-code]] [[anil-matcha-open-generative-ai]] [[hasaneyldrm-exercises-dataset]] [[safishamsi-graphify]]
 
 **所属领域**: [[image-gen]]
 

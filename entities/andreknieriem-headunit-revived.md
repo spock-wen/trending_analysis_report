@@ -2,6 +2,7 @@
 title: "andreknieriem/headunit-revived"
 created: 2026-06-25
 updated: 2026-06-25
+last_active: 2026-06-25
 type: tool
 tags: [tool]
 sources: [raw/trending/2026-06-25.json]
@@ -33,5 +34,5 @@ Headunit App for displaying Android Auto
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[pppscn-smsforwarder]] [[yairm210-unciv]]
+[[yairm210-unciv]] [[pppscn-smsforwarder]] [[bannedbook-fanqiang]]
 

@@ -2,6 +2,7 @@
 title: "shiyu-coder/Kronos"
 created: 2026-05-25
 updated: 2026-06-16
+last_active: 2026-06-16
 type: tool
 tags: [python]
 sources: [raw/trending/2026-06-16.json]
@@ -37,5 +38,5 @@ Kronos: A Foundation Model for the Language of Financial Markets
 
 ## 相关项目
 
-[[agentskills-agentskills]] [[alirezarezvani-claude-skills]] [[rommapp-romm]] [[usestrix-strix]]
+[[rommapp-romm]] [[alirezarezvani-claude-skills]] [[anthropics-claude-code]] [[usestrix-strix]]
 

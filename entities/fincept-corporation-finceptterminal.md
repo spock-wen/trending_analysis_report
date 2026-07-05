@@ -2,6 +2,7 @@
 title: "Fincept-Corporation/FinceptTerminal"
 created: 2026-05-23
 updated: 2026-05-26
+last_active: 2026-05-26
 type: tool
 tags: [python, cli, data, science]
 sources: [raw/trending/2026-05-26.json]
@@ -34,7 +35,7 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[agentskills-agentskills]]
+[[zackriya-solutions-meetily]] [[affaan-m-ecc]] [[anthropics-claude-code]] [[othmanadi-planning-with-files]] [[supabase-supabase]]
 
 **所属领域**: [[cli]] [[data]] [[science]]
 

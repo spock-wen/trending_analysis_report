@@ -2,6 +2,7 @@
 title: "owainlewis/awesome-artificial-intelligence"
 created: 2026-06-19
 updated: 2026-06-21
+last_active: 2026-06-21
 type: tutorial
 tags: [ai-agent, education, science]
 sources: [raw/trending/2026-06-21.json]
@@ -34,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[freecodecamp-freecodecamp]] [[safishamsi-graphify]] [[mattpocock-skills]] [[alibaba-page-agent]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[anthropics-claude-code]] [[byoungd-english-level-up-tips]] [[safishamsi-graphify]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

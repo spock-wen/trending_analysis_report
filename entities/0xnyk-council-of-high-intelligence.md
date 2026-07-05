@@ -2,6 +2,7 @@
 title: "0xNyk/council-of-high-intelligence"
 created: 2026-06-30
 updated: 2026-07-02
+last_active: 2026-07-02
 type: tool
 tags: [shell, ai-agent, cli]
 sources: [raw/trending/2026-07-02.json]
@@ -34,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]] [[obra-superpowers]] [[dotnet-skills]]
+[[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[othmanadi-planning-with-files]] [[leonxlnx-taste-skill]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

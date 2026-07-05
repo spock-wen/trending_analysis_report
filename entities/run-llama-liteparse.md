@@ -2,6 +2,7 @@
 title: "run-llama/liteparse"
 created: 2026-05-30
 updated: 2026-05-31
+last_active: 2026-05-31
 type: tool
 tags: [rust]
 sources: [raw/trending/2026-05-31.json]
@@ -34,5 +35,5 @@ A fast, helpful, and open-source document parser
 
 ## 相关项目
 
-[[togatoga-karukan]] [[tencentcloud-cubesandbox]] [[ogulcancelik-herdr]] [[zackriya-solutions-meetily]]
+[[tencentcloud-cubesandbox]] [[zackriya-solutions-meetily]] [[ogulcancelik-herdr]] [[ruvnet-ruview]]
 

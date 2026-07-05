@@ -2,6 +2,7 @@
 title: "restic/restic"
 created: 2026-06-12
 updated: 2026-06-12
+last_active: 2026-06-12
 type: tool
 tags: [go]
 sources: [raw/trending/2026-06-12.json]
@@ -33,5 +34,5 @@ Fast, secure, efficient backup program
 
 ## 相关项目
 
-[[icewhaletech-casaos]] [[masterking32-masterdnsvpn]] [[kenn-io-agentsview]] [[kunchenguid-no-mistakes]]
+[[kunchenguid-no-mistakes]] [[gastownhall-gastown]] [[icewhaletech-casaos]] [[kenn-io-agentsview]]
 

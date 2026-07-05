@@ -2,6 +2,7 @@
 title: "twentyhq/twenty"
 created: 2026-05-27
 updated: 2026-06-21
+last_active: 2026-06-21
 type: tool
 tags: [typescript, ai-agent]
 sources: [raw/trending/2026-06-21.json]
@@ -37,7 +38,7 @@ The open alternative to Salesforce, designed for AI.
 
 ## 相关项目
 
-[[mattpocock-skills]] [[immich-app-immich]] [[alibaba-page-agent]] [[chthollyphile-folia-major]] [[dotnet-skills]]
+[[anthropics-claude-code]] [[immich-app-immich]] [[facebook-astryx]] [[leonxlnx-taste-skill]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]]
 

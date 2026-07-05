@@ -2,6 +2,7 @@
 title: "andrewyng/aisuite"
 created: 2026-06-14
 updated: 2026-06-15
+last_active: 2026-06-15
 type: tool
 tags: [python, ai-agent]
 sources: [raw/trending/2026-06-15.json]
@@ -34,7 +35,7 @@ Simple, unified interface to multiple Generative AI providers
 
 ## 相关项目
 
-[[mattpocock-skills]] [[alibaba-page-agent]] [[agentskills-agentskills]] [[dotnet-skills]] [[rommapp-romm]]
+[[anthropics-claude-code]] [[alibaba-page-agent]] [[leonxlnx-taste-skill]] [[alirezarezvani-claude-skills]] [[rommapp-romm]]
 
 **所属领域**: [[ai-agent]]
 

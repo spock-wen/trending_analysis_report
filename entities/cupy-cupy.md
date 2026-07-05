@@ -2,6 +2,7 @@
 title: "cupy/cupy"
 created: 2026-06-29
 updated: 2026-06-30
+last_active: 2026-06-30
 type: tool
 tags: [python]
 sources: [raw/trending/2026-06-30.json]
@@ -34,5 +35,5 @@ NumPy & SciPy for GPU
 
 ## 相关项目
 
-[[agentskills-agentskills]] [[alirezarezvani-claude-skills]] [[rommapp-romm]] [[usestrix-strix]]
+[[rommapp-romm]] [[alirezarezvani-claude-skills]] [[anthropics-claude-code]] [[usestrix-strix]]
 

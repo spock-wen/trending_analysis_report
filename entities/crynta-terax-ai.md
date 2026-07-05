@@ -2,6 +2,7 @@
 title: "crynta/terax-ai"
 created: 2026-07-05
 updated: 2026-07-05
+last_active: 2026-07-05
 type: tool
 tags: [typescript, ai-agent, cli]
 sources: [raw/trending/2026-07-05.json]
@@ -33,7 +34,7 @@ Lightweight (7MB) Terminal-first AI-native dev workspace
 
 ## 相关项目
 
-[[mattpocock-skills]] [[immich-app-immich]] [[alibaba-page-agent]] [[chthollyphile-folia-major]] [[ogulcancelik-herdr]]
+[[anthropics-claude-code]] [[immich-app-immich]] [[othmanadi-planning-with-files]] [[facebook-astryx]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

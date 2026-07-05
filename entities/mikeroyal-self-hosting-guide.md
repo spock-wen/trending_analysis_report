@@ -2,6 +2,7 @@
 title: "mikeroyal/Self-Hosting-Guide"
 created: 2026-06-16
 updated: 2026-06-16
+last_active: 2026-06-16
 type: tool
 tags: [ai-agent, web, education]
 sources: [raw/trending/2026-06-16.json]
@@ -33,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[freecodecamp-freecodecamp]] [[owainlewis-awesome-artificial-intelligence]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[byoungd-english-level-up-tips]] [[owainlewis-awesome-artificial-intelligence]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

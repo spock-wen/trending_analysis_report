@@ -2,6 +2,7 @@
 title: "can1357/oh-my-pi"
 created: 2026-05-21
 updated: 2026-06-02
+last_active: 2026-06-02
 type: tool
 tags: [typescript, ai-agent, web, cli]
 sources: [raw/trending/2026-06-02.json]
@@ -36,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[immich-app-immich]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[immich-app-immich]] [[othmanadi-planning-with-files]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

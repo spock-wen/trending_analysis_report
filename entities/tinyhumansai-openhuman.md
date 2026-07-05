@@ -2,6 +2,7 @@
 title: "tinyhumansai/openhuman"
 created: 2026-05-16
 updated: 2026-05-21
+last_active: 2026-05-21
 type: tool
 tags: [rust, ai-agent, rising]
 sources: [raw/trending/2026-05-21.json]
@@ -37,7 +38,7 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[alibaba-page-agent]] [[tencentcloud-cubesandbox]] [[ogulcancelik-herdr]]
+[[zackriya-solutions-meetily]] [[anthropics-claude-code]] [[ruvnet-ruview]] [[leonxlnx-taste-skill]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[ai-agent]]
 

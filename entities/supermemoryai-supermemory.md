@@ -2,6 +2,7 @@
 title: "supermemoryai/supermemory"
 created: 2026-06-01
 updated: 2026-06-04
+last_active: 2026-06-04
 type: framework
 tags: [typescript, ai-agent, rising]
 sources: [raw/trending/2026-06-04.json]
@@ -36,7 +37,7 @@ Memory engine and app that is extremely fast, scalable. The Memory API for the A
 
 ## 相关项目
 
-[[mattpocock-skills]] [[immich-app-immich]] [[alibaba-page-agent]] [[chthollyphile-folia-major]] [[dotnet-skills]]
+[[anthropics-claude-code]] [[immich-app-immich]] [[facebook-astryx]] [[leonxlnx-taste-skill]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]]
 

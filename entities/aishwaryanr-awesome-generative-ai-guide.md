@@ -2,6 +2,7 @@
 title: "aishwaryanr/awesome-generative-ai-guide"
 created: 2026-06-20
 updated: 2026-06-20
+last_active: 2026-06-20
 type: tool
 tags: [ai-agent, web, science]
 sources: [raw/trending/2026-06-20.json]
@@ -33,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[revfactory-harness]] [[safishamsi-graphify]] [[mattpocock-skills]] [[zackriya-solutions-meetily]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[hasaneyldrm-exercises-dataset]] [[shanraisshan-claude-code-best-practice]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

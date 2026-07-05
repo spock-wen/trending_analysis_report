@@ -2,6 +2,7 @@
 title: "pppscn/SmsForwarder"
 created: 2026-06-21
 updated: 2026-06-21
+last_active: 2026-06-21
 type: tool
 tags: [web]
 sources: [raw/trending/2026-06-21.json]
@@ -33,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[andreknieriem-headunit-revived]] [[zackriya-solutions-meetily]] [[yairm210-unciv]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[yairm210-unciv]] [[bannedbook-fanqiang]] [[andreknieriem-headunit-revived]]
 
 **所属领域**: [[web]]
 

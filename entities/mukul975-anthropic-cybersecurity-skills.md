@@ -2,6 +2,7 @@
 title: "mukul975/Anthropic-Cybersecurity-Skills"
 created: 2026-05-25
 updated: 2026-06-26
+last_active: 2026-06-26
 type: framework
 tags: [python, ai-agent, cli, security]
 sources: [raw/trending/2026-06-26.json]
@@ -37,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[alibaba-page-agent]] [[keycloak-keycloak]] [[agentskills-agentskills]]
+[[zackriya-solutions-meetily]] [[keycloak-keycloak]] [[affaan-m-ecc]] [[anthropics-claude-code]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

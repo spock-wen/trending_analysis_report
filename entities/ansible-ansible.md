@@ -2,6 +2,7 @@
 title: "ansible/ansible"
 created: 2026-07-04
 updated: 2026-07-04
+last_active: 2026-07-04
 type: tool
 tags: [python, ai-agent, web, devops]
 sources: [raw/trending/2026-07-04.json]
@@ -33,7 +34,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[langflow-ai-langflow]] [[anthropics-claude-code]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

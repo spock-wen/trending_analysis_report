@@ -2,6 +2,7 @@
 title: "hugohe3/ppt-master"
 created: 2026-06-28
 updated: 2026-06-28
+last_active: 2026-06-28
 type: tool
 tags: [python, ai-agent, erp, image-gen, audio]
 sources: [raw/trending/2026-06-28.json]
@@ -33,7 +34,7 @@ AI generates a real, editable PowerPoint from any document — native shapes & a
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[santifer-career-ops]] [[hasaneyldrm-exercises-dataset]] [[mattpocock-skills]] [[x1xhlol-system-prompts-and-models-of-ai-tools]]
+[[santifer-career-ops]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[anil-matcha-open-generative-ai]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[image-gen]] [[audio]]
 

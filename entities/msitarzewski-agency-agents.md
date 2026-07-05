@@ -2,6 +2,7 @@
 title: "msitarzewski/agency-agents"
 created: 2026-05-20
 updated: 2026-07-04
+last_active: 2026-07-04
 type: tool
 tags: [shell, ai-agent, web, cli, rising]
 sources: [raw/trending/2026-07-04.json]
@@ -37,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[alibaba-page-agent]] [[obra-superpowers]] [[dotnet-skills]]
+[[zackriya-solutions-meetily]] [[anthropics-claude-code]] [[othmanadi-planning-with-files]] [[chromedevtools-chrome-devtools-mcp]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -2,6 +2,7 @@
 title: "multica-ai/andrej-karpathy-skills"
 created: 2026-05-20
 updated: 2026-05-26
+last_active: 2026-05-26
 type: tool
 tags: [ai-agent, rising]
 sources: [raw/trending/2026-05-26.json]
@@ -37,7 +38,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[dotnet-skills]] [[alibaba-page-agent]] [[mattpocock-skills]]
+[[alibaba-page-agent]] [[leonxlnx-taste-skill]] [[dotnet-skills]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

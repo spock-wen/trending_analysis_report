@@ -2,6 +2,7 @@
 title: "luongnv89/claude-howto"
 created: 2026-06-09
 updated: 2026-06-28
+last_active: 2026-06-28
 type: tool
 tags: [python, ai-agent]
 sources: [raw/trending/2026-06-28.json]
@@ -35,7 +36,7 @@ A visual, example-driven guide to Claude Code — from basic concepts to advance
 
 ## 相关项目
 
-[[mattpocock-skills]] [[alibaba-page-agent]] [[agentskills-agentskills]] [[dotnet-skills]] [[rommapp-romm]]
+[[anthropics-claude-code]] [[alibaba-page-agent]] [[leonxlnx-taste-skill]] [[alirezarezvani-claude-skills]] [[rommapp-romm]]
 
 **所属领域**: [[ai-agent]]
 

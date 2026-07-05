@@ -2,6 +2,7 @@
 title: "kunchenguid/no-mistakes"
 created: 2026-06-25
 updated: 2026-06-27
+last_active: 2026-06-27
 type: tool
 tags: [go]
 sources: [raw/trending/2026-06-27.json]
@@ -34,5 +35,5 @@ git push no-mistakes
 
 ## 相关项目
 
-[[icewhaletech-casaos]] [[masterking32-masterdnsvpn]] [[kenn-io-agentsview]]
+[[gastownhall-gastown]] [[icewhaletech-casaos]] [[kenn-io-agentsview]]
 

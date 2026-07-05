@@ -2,6 +2,7 @@
 title: "NVIDIA-AI-Blueprints/video-search-and-summarization"
 created: 2026-05-16
 updated: 2026-05-17
+last_active: 2026-05-17
 type: tool
 tags: [python, ai-agent, data]
 sources: [raw/trending/2026-05-17.json]
@@ -34,7 +35,7 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[alibaba-page-agent]]
+[[zackriya-solutions-meetily]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[supabase-supabase]] [[safishamsi-graphify]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

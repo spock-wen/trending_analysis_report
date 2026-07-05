@@ -2,6 +2,7 @@
 title: "krahets/hello-algo"
 created: 2026-06-16
 updated: 2026-06-18
+last_active: 2026-06-18
 type: tool
 tags: [java]
 sources: [raw/trending/2026-06-18.json]
@@ -34,5 +35,5 @@ language: "Java"
 
 ## 相关项目
 
-[[apache-maven]] [[keycloak-keycloak]] [[elastic-elasticsearch]]
+[[keycloak-keycloak]] [[elastic-elasticsearch]] [[apache-maven]]
 

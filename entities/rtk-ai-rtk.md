@@ -2,6 +2,7 @@
 title: "rtk-ai/rtk"
 created: 2026-05-20
 updated: 2026-05-20
+last_active: 2026-05-20
 type: tool
 tags: [rust, ai-agent, cli]
 sources: [raw/trending/2026-05-20.json]
@@ -33,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[alibaba-page-agent]] [[tencentcloud-cubesandbox]] [[ogulcancelik-herdr]]
+[[zackriya-solutions-meetily]] [[anthropics-claude-code]] [[ruvnet-ruview]] [[othmanadi-planning-with-files]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

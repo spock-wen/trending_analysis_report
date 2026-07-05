@@ -2,6 +2,7 @@
 title: "Anil-matcha/Open-Generative-AI"
 created: 2026-05-18
 updated: 2026-06-28
+last_active: 2026-06-28
 type: tool
 tags: [ai-agent, image-gen]
 sources: [raw/trending/2026-06-28.json]
@@ -34,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[santifer-career-ops]] [[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[mattpocock-skills]] [[juliusbrussee-caveman]]
+[[juliusbrussee-caveman]] [[santifer-career-ops]] [[anthropics-claude-code]] [[hasaneyldrm-exercises-dataset]] [[safishamsi-graphify]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

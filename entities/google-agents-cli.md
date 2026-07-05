@@ -2,6 +2,7 @@
 title: "google/agents-cli"
 created: 2026-07-01
 updated: 2026-07-01
+last_active: 2026-07-01
 type: tool
 tags: [python, ai-agent, cli, devops]
 sources: [raw/trending/2026-07-01.json]
@@ -33,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[mattpocock-skills]] [[ansible-ansible]] [[alibaba-page-agent]] [[logto-io-logto]]
+[[ansible-ansible]] [[langflow-ai-langflow]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[othmanadi-planning-with-files]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

@@ -2,6 +2,7 @@
 title: "togatoga/karukan"
 created: 2026-07-02
 updated: 2026-07-02
+last_active: 2026-07-02
 type: framework
 tags: [rust]
 sources: [raw/trending/2026-07-02.json]
@@ -33,5 +34,5 @@ Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engi
 
 ## 相关项目
 
-[[tencentcloud-cubesandbox]] [[ogulcancelik-herdr]] [[zackriya-solutions-meetily]]
+[[tencentcloud-cubesandbox]] [[zackriya-solutions-meetily]] [[ogulcancelik-herdr]] [[ruvnet-ruview]]
 

@@ -2,6 +2,7 @@
 title: "alireza0/s-ui"
 created: 2026-05-22
 updated: 2026-05-22
+last_active: 2026-05-22
 type: tool
 tags: [go, web]
 sources: [raw/trending/2026-05-22.json]
@@ -33,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[icewhaletech-casaos]] [[masterking32-masterdnsvpn]] [[kenn-io-agentsview]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]]
+[[zackriya-solutions-meetily]] [[gastownhall-gastown]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]] [[kenn-io-agentsview]]
 
 **所属领域**: [[web]]
 

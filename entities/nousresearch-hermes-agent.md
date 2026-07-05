@@ -2,6 +2,7 @@
 title: "NousResearch/hermes-agent"
 created: 2026-06-04
 updated: 2026-06-25
+last_active: 2026-06-25
 type: tool
 tags: [python, ai-agent, science]
 sources: [raw/trending/2026-06-25.json]
@@ -37,7 +38,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[mattpocock-skills]] [[alibaba-page-agent]] [[agentskills-agentskills]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[safishamsi-graphify]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

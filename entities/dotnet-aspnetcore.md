@@ -2,6 +2,7 @@
 title: "dotnet/aspnetcore"
 created: 2026-06-19
 updated: 2026-06-19
+last_active: 2026-06-19
 type: framework
 tags: [web]
 sources: [raw/trending/2026-06-19.json]
@@ -33,7 +34,7 @@ ASP.NET Core is a cross-platform .NET framework for building modern cloud-based 
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]] [[dotnet-skills]] [[chromedevtools-chrome-devtools-mcp]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[coplaydev-unity-mcp]] [[itsfatduck-optimizerduck]] [[alibaba-page-agent]]
 
 **所属领域**: [[web]]
 

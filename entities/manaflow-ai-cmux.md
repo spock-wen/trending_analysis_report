@@ -2,6 +2,7 @@
 title: "manaflow-ai/cmux"
 created: 2026-05-25
 updated: 2026-05-26
+last_active: 2026-05-26
 type: tool
 tags: [ai-agent, cli, rising]
 sources: [raw/trending/2026-05-26.json]
@@ -35,7 +36,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[palmier-io-palmier-pro]] [[mattpocock-skills]] [[alibaba-page-agent]] [[ogulcancelik-herdr]] [[dotnet-skills]]
+[[apple-container]] [[palmier-io-palmier-pro]] [[anthropics-claude-code]] [[othmanadi-planning-with-files]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

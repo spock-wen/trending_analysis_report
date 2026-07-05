@@ -2,6 +2,7 @@
 title: "K-Dense-AI/scientific-agent-skills"
 created: 2026-05-16
 updated: 2026-05-19
+last_active: 2026-05-19
 type: framework
 tags: [python, ai-agent, science, rising]
 sources: [raw/trending/2026-05-19.json]
@@ -36,7 +37,7 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[mattpocock-skills]] [[alibaba-page-agent]] [[agentskills-agentskills]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[safishamsi-graphify]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

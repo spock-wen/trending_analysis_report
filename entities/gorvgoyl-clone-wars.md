@@ -2,6 +2,7 @@
 title: "GorvGoyl/Clone-Wars"
 created: 2026-06-15
 updated: 2026-06-15
+last_active: 2026-06-15
 type: tool
 tags: [ai-agent]
 sources: [raw/trending/2026-06-15.json]
@@ -33,7 +34,7 @@ language: ""
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[dotnet-skills]] [[alibaba-page-agent]] [[mattpocock-skills]]
+[[alibaba-page-agent]] [[leonxlnx-taste-skill]] [[dotnet-skills]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

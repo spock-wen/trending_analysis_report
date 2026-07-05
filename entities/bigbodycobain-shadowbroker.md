@@ -2,6 +2,7 @@
 title: "BigBodyCobain/Shadowbroker"
 created: 2026-05-18
 updated: 2026-05-19
+last_active: 2026-05-19
 type: tool
 tags: [python, ai-agent, data]
 sources: [raw/trending/2026-05-19.json]
@@ -34,7 +35,7 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[alibaba-page-agent]]
+[[zackriya-solutions-meetily]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[supabase-supabase]] [[safishamsi-graphify]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

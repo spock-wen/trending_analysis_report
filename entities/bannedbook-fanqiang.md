@@ -2,6 +2,7 @@
 title: "bannedbook/fanqiang"
 created: 2026-06-12
 updated: 2026-06-14
+last_active: 2026-06-14
 type: tool
 tags: [tool]
 sources: [raw/trending/2026-06-14.json]
@@ -34,5 +35,5 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[andreknieriem-headunit-revived]] [[pppscn-smsforwarder]] [[yairm210-unciv]]
+[[yairm210-unciv]] [[pppscn-smsforwarder]] [[andreknieriem-headunit-revived]]
 

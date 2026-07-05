@@ -2,6 +2,7 @@
 title: "alibaba/zvec"
 created: 2026-06-17
 updated: 2026-06-19
+last_active: 2026-06-19
 type: tool
 tags: [cpp, data]
 sources: [raw/trending/2026-06-19.json]
@@ -34,7 +35,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[opencv-opencv]] [[zackriya-solutions-meetily]] [[opentoonz-opentoonz]]
+[[zackriya-solutions-meetily]] [[opencv-opencv]] [[opentoonz-opentoonz]] [[supabase-supabase]] [[safishamsi-graphify]]
 
 **所属领域**: [[data]]
 

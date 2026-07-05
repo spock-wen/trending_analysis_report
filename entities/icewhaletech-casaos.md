@@ -2,6 +2,7 @@
 title: "IceWhaleTech/CasaOS"
 created: 2026-06-26
 updated: 2026-06-28
+last_active: 2026-06-28
 type: tool
 tags: [go, rising]
 sources: [raw/trending/2026-06-28.json]
@@ -35,5 +36,5 @@ CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
 ## 相关项目
 
-[[masterking32-masterdnsvpn]] [[kenn-io-agentsview]] [[kunchenguid-no-mistakes]]
+[[kunchenguid-no-mistakes]] [[gastownhall-gastown]] [[kenn-io-agentsview]]
 

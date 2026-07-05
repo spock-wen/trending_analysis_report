@@ -2,6 +2,7 @@
 title: "Raphire/Win11Debloat"
 created: 2026-06-16
 updated: 2026-06-16
+last_active: 2026-06-16
 type: tool
 tags: [cli]
 sources: [raw/trending/2026-06-16.json]
@@ -33,7 +34,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[alirezarezvani-claude-skills]] [[ogulcancelik-herdr]] [[crynta-terax-ai]] [[mattpocock-skills]]
+[[alirezarezvani-claude-skills]] [[ogulcancelik-herdr]] [[anthropics-claude-code]] [[othmanadi-planning-with-files]]
 
 **所属领域**: [[cli]]
 

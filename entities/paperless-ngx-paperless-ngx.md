@@ -2,6 +2,7 @@
 title: "paperless-ngx/paperless-ngx"
 created: 2026-05-26
 updated: 2026-05-26
+last_active: 2026-05-26
 type: tool
 tags: [python, science]
 sources: [raw/trending/2026-05-26.json]
@@ -33,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[agentskills-agentskills]] [[affaan-m-ecc]] [[xbtlin-ai-berkshire]] [[rommapp-romm]]
+[[affaan-m-ecc]] [[anthropics-claude-code]] [[safishamsi-graphify]] [[xbtlin-ai-berkshire]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[science]]
 

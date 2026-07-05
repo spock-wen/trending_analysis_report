@@ -2,6 +2,7 @@
 title: "NVIDIA/SkillSpector"
 created: 2026-06-12
 updated: 2026-06-16
+last_active: 2026-06-16
 type: tool
 tags: [python, ai-agent, security, rising]
 sources: [raw/trending/2026-06-16.json]
@@ -36,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[alibaba-page-agent]] [[keycloak-keycloak]] [[agentskills-agentskills]]
+[[zackriya-solutions-meetily]] [[keycloak-keycloak]] [[affaan-m-ecc]] [[anthropics-claude-code]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

@@ -2,6 +2,7 @@
 title: "alexzhang13/rlm"
 created: 2026-06-18
 updated: 2026-06-18
+last_active: 2026-06-18
 type: tool
 tags: [python]
 sources: [raw/trending/2026-06-18.json]
@@ -33,5 +34,5 @@ General plug-and-play inference library for Recursive Language Models (RLMs), su
 
 ## 相关项目
 
-[[agentskills-agentskills]] [[alirezarezvani-claude-skills]] [[rommapp-romm]] [[usestrix-strix]]
+[[rommapp-romm]] [[alirezarezvani-claude-skills]] [[anthropics-claude-code]] [[usestrix-strix]]
 

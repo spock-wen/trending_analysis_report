@@ -2,6 +2,7 @@
 title: "revfactory/harness"
 created: 2026-05-29
 updated: 2026-06-25
+last_active: 2026-06-25
 type: tool
 tags: [ai-agent, web]
 sources: [raw/trending/2026-06-25.json]
@@ -37,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[hasaneyldrm-exercises-dataset]] [[shanraisshan-claude-code-best-practice]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

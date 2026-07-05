@@ -2,6 +2,7 @@
 title: "dbt-labs/dbt-core"
 created: 2026-06-28
 updated: 2026-06-28
+last_active: 2026-06-28
 type: framework
 tags: [rust, data]
 sources: [raw/trending/2026-06-28.json]
@@ -33,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[zackriya-solutions-meetily]] [[tencentcloud-cubesandbox]] [[ogulcancelik-herdr]]
+[[zackriya-solutions-meetily]] [[ruvnet-ruview]] [[supabase-supabase]] [[safishamsi-graphify]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[data]]
 

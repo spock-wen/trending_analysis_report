@@ -2,6 +2,7 @@
 title: "santifer/career-ops"
 created: 2026-06-09
 updated: 2026-07-03
+last_active: 2026-07-03
 type: tool
 tags: [ai-agent, image-gen]
 sources: [raw/trending/2026-07-03.json]
@@ -36,7 +37,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[mattpocock-skills]] [[anil-matcha-open-generative-ai]] [[juliusbrussee-caveman]]
+[[juliusbrussee-caveman]] [[anthropics-claude-code]] [[anil-matcha-open-generative-ai]] [[hasaneyldrm-exercises-dataset]] [[safishamsi-graphify]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

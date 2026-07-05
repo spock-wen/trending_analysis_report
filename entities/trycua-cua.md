@@ -2,6 +2,7 @@
 title: "trycua/cua"
 created: 2026-06-16
 updated: 2026-06-16
+last_active: 2026-06-16
 type: framework
 tags: [ai-agent, web, devops]
 sources: [raw/trending/2026-06-16.json]
@@ -33,7 +34,7 @@ Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[revfactory-harness]] [[safishamsi-graphify]] [[mattpocock-skills]] [[zackriya-solutions-meetily]]
+[[ansible-ansible]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[langflow-ai-langflow]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

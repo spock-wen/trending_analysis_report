@@ -2,6 +2,7 @@
 title: "anthropics/claude-cookbooks"
 created: 2026-05-26
 updated: 2026-05-26
+last_active: 2026-05-26
 type: tool
 tags: [python, ai-agent]
 sources: [raw/trending/2026-05-26.json]
@@ -33,7 +34,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[mattpocock-skills]] [[alibaba-page-agent]] [[dotnet-skills]] [[microsoft-ai-for-beginners]] [[nvidia-cosmos]]
+[[anthropics-claude-code]] [[leonxlnx-taste-skill]] [[stefan-jansen-machine-learning-for-trading]] [[nvidia-cosmos]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

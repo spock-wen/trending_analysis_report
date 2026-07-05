@@ -2,6 +2,7 @@
 title: "penpot/penpot"
 created: 2026-06-18
 updated: 2026-06-23
+last_active: 2026-06-23
 type: tool
 tags: [rising]
 sources: [raw/trending/2026-06-23.json]

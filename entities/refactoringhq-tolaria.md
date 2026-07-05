@@ -2,6 +2,7 @@
 title: "refactoringhq/tolaria"
 created: 2026-06-08
 updated: 2026-07-02
+last_active: 2026-07-02
 type: tool
 tags: [typescript]
 sources: [raw/trending/2026-07-02.json]
@@ -37,5 +38,5 @@ Desktop app to manage markdown knowledge bases
 
 ## 相关项目
 
-[[immich-app-immich]] [[chthollyphile-folia-major]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-page-agent]]
+[[alibaba-page-agent]] [[facebook-astryx]] [[chromedevtools-chrome-devtools-mcp]] [[immich-app-immich]]
 

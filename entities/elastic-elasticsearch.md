@@ -2,6 +2,7 @@
 title: "elastic/elasticsearch"
 created: 2026-07-04
 updated: 2026-07-04
+last_active: 2026-07-04
 type: framework
 tags: [java]
 sources: [raw/trending/2026-07-04.json]
@@ -33,5 +34,5 @@ Free and Open Source, Distributed, RESTful Search Engine
 
 ## 相关项目
 
-[[apache-maven]] [[krahets-hello-algo]] [[keycloak-keycloak]]
+[[krahets-hello-algo]] [[keycloak-keycloak]] [[apache-maven]]
 

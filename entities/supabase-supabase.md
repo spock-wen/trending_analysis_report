@@ -2,6 +2,7 @@
 title: "supabase/supabase"
 created: 2026-07-04
 updated: 2026-07-04
+last_active: 2026-07-04
 type: tool
 tags: [typescript, ai-agent, web, data]
 sources: [raw/trending/2026-07-04.json]
@@ -33,7 +34,7 @@ The Postgres development platform. Supabase gives you a dedicated Postgres datab
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[immich-app-immich]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[immich-app-immich]] [[facebook-astryx]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

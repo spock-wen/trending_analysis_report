@@ -2,6 +2,7 @@
 title: "frappe/erpnext"
 created: 2026-05-20
 updated: 2026-05-20
+last_active: 2026-05-20
 type: tool
 tags: [python, erp]
 sources: [raw/trending/2026-05-20.json]
@@ -33,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[agentskills-agentskills]] [[obra-superpowers]] [[rommapp-romm]]
+[[anthropics-claude-code]] [[hugohe3-ppt-master]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[erp]]
 

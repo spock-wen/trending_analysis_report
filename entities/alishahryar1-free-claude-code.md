@@ -2,6 +2,7 @@
 title: "Alishahryar1/free-claude-code"
 created: 2026-05-20
 updated: 2026-05-25
+last_active: 2026-05-25
 type: tool
 tags: [python, ai-agent, cli, audio]
 sources: [raw/trending/2026-05-25.json]
@@ -35,7 +36,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[mattpocock-skills]] [[lightricks-ltx-2]] [[alibaba-page-agent]] [[agentskills-agentskills]]
+[[anthropics-claude-code]] [[alibaba-page-agent]] [[othmanadi-planning-with-files]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

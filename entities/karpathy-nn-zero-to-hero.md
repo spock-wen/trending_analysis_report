@@ -2,6 +2,7 @@
 title: "karpathy/nn-zero-to-hero"
 created: 2026-05-23
 updated: 2026-05-23
+last_active: 2026-05-23
 type: tool
 tags: [python]
 sources: [raw/trending/2026-05-23.json]
@@ -33,5 +34,5 @@ Neural Networks: Zero to Hero
 
 ## 相关项目
 
-[[nvidia-cosmos]] [[stefan-jansen-machine-learning-for-trading]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]]
+[[nvidia-cosmos]] [[stefan-jansen-machine-learning-for-trading]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]]
 

@@ -2,6 +2,7 @@
 title: "bytedance/deer-flow"
 created: 2026-06-22
 updated: 2026-06-24
+last_active: 2026-06-24
 type: tool
 tags: [python, ai-agent, science, rising]
 sources: [raw/trending/2026-06-24.json]
@@ -35,7 +36,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[mattpocock-skills]] [[alibaba-page-agent]] [[agentskills-agentskills]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[safishamsi-graphify]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

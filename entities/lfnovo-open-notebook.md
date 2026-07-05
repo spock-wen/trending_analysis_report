@@ -2,6 +2,7 @@
 title: "lfnovo/open-notebook"
 created: 2026-06-05
 updated: 2026-06-08
+last_active: 2026-06-08
 type: tool
 tags: [typescript, rising]
 sources: [raw/trending/2026-06-08.json]
@@ -36,5 +37,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[immich-app-immich]] [[chthollyphile-folia-major]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-page-agent]]
+[[alibaba-page-agent]] [[facebook-astryx]] [[chromedevtools-chrome-devtools-mcp]] [[immich-app-immich]]
 

@@ -2,6 +2,7 @@
 title: "aaif-goose/goose"
 created: 2026-06-08
 updated: 2026-06-10
+last_active: 2026-06-10
 type: tool
 tags: [rust, ai-agent, rising]
 sources: [raw/trending/2026-06-10.json]
@@ -35,7 +36,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[alibaba-page-agent]] [[tencentcloud-cubesandbox]] [[ogulcancelik-herdr]]
+[[zackriya-solutions-meetily]] [[anthropics-claude-code]] [[ruvnet-ruview]] [[leonxlnx-taste-skill]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[ai-agent]]
 

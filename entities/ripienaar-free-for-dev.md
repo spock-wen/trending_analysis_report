@@ -2,6 +2,7 @@
 title: "ripienaar/free-for-dev"
 created: 2026-06-27
 updated: 2026-07-01
+last_active: 2026-07-01
 type: tool
 tags: [web, devops, rising]
 sources: [raw/trending/2026-07-01.json]
@@ -37,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[revfactory-harness]] [[safishamsi-graphify]] [[ansible-ansible]] [[zackriya-solutions-meetily]]
+[[ansible-ansible]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[langflow-ai-langflow]] [[ruvnet-ruview]]
 
 **所属领域**: [[web]] [[devops]]
 

@@ -2,6 +2,7 @@
 title: "DeusData/codebase-memory-mcp"
 created: 2026-06-18
 updated: 2026-06-29
+last_active: 2026-06-29
 type: tool
 tags: [ai-agent, data]
 sources: [raw/trending/2026-06-29.json]
@@ -37,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[alibaba-page-agent]]
+[[zackriya-solutions-meetily]] [[anthropics-claude-code]] [[supabase-supabase]] [[safishamsi-graphify]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

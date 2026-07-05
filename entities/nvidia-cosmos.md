@@ -2,6 +2,7 @@
 title: "NVIDIA/cosmos"
 created: 2026-06-05
 updated: 2026-06-06
+last_active: 2026-06-06
 type: tool
 tags: [python, ai-agent, data, devops]
 sources: [raw/trending/2026-06-06.json]
@@ -34,7 +35,7 @@ NVIDIA Cosmos is an open platform of world models, datasets, and tools that enab
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[ansible-ansible]]
+[[ansible-ansible]] [[zackriya-solutions-meetily]] [[langflow-ai-langflow]] [[anthropics-claude-code]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

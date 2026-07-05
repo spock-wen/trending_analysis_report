@@ -2,6 +2,7 @@
 title: "mattpocock/skills"
 created: 2026-05-16
 updated: 2026-07-05
+last_active: 2026-07-05
 type: framework
 tags: [shell, ai-agent, cli]
 sources: [raw/trending/2026-07-05.json]
@@ -37,7 +38,7 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[alibaba-page-agent]] [[obra-superpowers]] [[dotnet-skills]] [[ogulcancelik-herdr]]
+[[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[othmanadi-planning-with-files]] [[leonxlnx-taste-skill]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

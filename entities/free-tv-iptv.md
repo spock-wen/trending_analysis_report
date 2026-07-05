@@ -2,6 +2,7 @@
 title: "Free-TV/IPTV"
 created: 2026-06-15
 updated: 2026-06-26
+last_active: 2026-06-26
 type: tool
 tags: [python]
 sources: [raw/trending/2026-06-26.json]
@@ -35,5 +36,5 @@ M3U Playlist for free TV channels
 
 ## 相关项目
 
-[[agentskills-agentskills]] [[alirezarezvani-claude-skills]] [[rommapp-romm]] [[usestrix-strix]]
+[[rommapp-romm]] [[alirezarezvani-claude-skills]] [[anthropics-claude-code]] [[usestrix-strix]]
 

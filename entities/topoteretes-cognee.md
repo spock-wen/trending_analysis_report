@@ -2,6 +2,7 @@
 title: "topoteretes/cognee"
 created: 2026-06-22
 updated: 2026-06-28
+last_active: 2026-06-28
 type: framework
 tags: [python, ai-agent]
 sources: [raw/trending/2026-06-28.json]
@@ -34,7 +35,7 @@ Cognee is the open-source AI memory platform for agents. Give your AI agents per
 
 ## 相关项目
 
-[[mattpocock-skills]] [[alibaba-page-agent]] [[agentskills-agentskills]] [[dotnet-skills]] [[rommapp-romm]]
+[[anthropics-claude-code]] [[alibaba-page-agent]] [[leonxlnx-taste-skill]] [[alirezarezvani-claude-skills]] [[rommapp-romm]]
 
 **所属领域**: [[ai-agent]]
 

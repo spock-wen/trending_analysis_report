@@ -2,6 +2,7 @@
 title: "1jehuang/jcode"
 created: 2026-06-21
 updated: 2026-06-21
+last_active: 2026-06-21
 type: tool
 tags: [rust, ai-agent]
 sources: [raw/trending/2026-06-21.json]
@@ -33,7 +34,7 @@ Coding Agent Harness
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[alibaba-page-agent]] [[tencentcloud-cubesandbox]] [[ogulcancelik-herdr]]
+[[zackriya-solutions-meetily]] [[anthropics-claude-code]] [[ruvnet-ruview]] [[leonxlnx-taste-skill]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[ai-agent]]
 

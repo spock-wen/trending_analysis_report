@@ -2,6 +2,7 @@
 title: "keycloak/keycloak"
 created: 2026-06-28
 updated: 2026-06-28
+last_active: 2026-06-28
 type: tool
 tags: [java, security]
 sources: [raw/trending/2026-06-28.json]
@@ -33,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[apache-maven]] [[zackriya-solutions-meetily]] [[krahets-hello-algo]] [[affaan-m-ecc]] [[elastic-elasticsearch]]
+[[krahets-hello-algo]] [[zackriya-solutions-meetily]] [[elastic-elasticsearch]] [[veracrypt-veracrypt]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

@@ -2,6 +2,7 @@
 title: "HKUDS/Vibe-Trading"
 created: 2026-06-04
 updated: 2026-07-03
+last_active: 2026-07-03
 type: tool
 tags: [python, ai-agent, rising]
 sources: [raw/trending/2026-07-03.json]
@@ -37,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[alibaba-page-agent]] [[agentskills-agentskills]] [[dotnet-skills]] [[rommapp-romm]]
+[[anthropics-claude-code]] [[alibaba-page-agent]] [[leonxlnx-taste-skill]] [[alirezarezvani-claude-skills]] [[rommapp-romm]]
 
 **所属领域**: [[ai-agent]]
 

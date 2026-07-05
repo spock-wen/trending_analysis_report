@@ -2,6 +2,7 @@
 title: "Light-Heart-Labs/DreamServer"
 created: 2026-05-18
 updated: 2026-05-18
+last_active: 2026-05-18
 type: tool
 tags: [python, ai-agent, image-gen, audio]
 sources: [raw/trending/2026-05-18.json]
@@ -33,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[santifer-career-ops]] [[hasaneyldrm-exercises-dataset]] [[hugohe3-ppt-master]] [[mattpocock-skills]]
+[[santifer-career-ops]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[anil-matcha-open-generative-ai]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

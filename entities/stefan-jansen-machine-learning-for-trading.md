@@ -2,6 +2,7 @@
 title: "stefan-jansen/machine-learning-for-trading"
 created: 2026-06-02
 updated: 2026-06-03
+last_active: 2026-06-03
 type: tool
 tags: [python, education]
 sources: [raw/trending/2026-06-03.json]
@@ -34,7 +35,7 @@ Code for Machine Learning for Algorithmic Trading, 2nd edition.
 
 ## 相关项目
 
-[[freecodecamp-freecodecamp]] [[owainlewis-awesome-artificial-intelligence]] [[microsoft-ai-for-beginners]] [[nvidia-cosmos]] [[byoungd-english-level-up-tips]]
+[[byoungd-english-level-up-tips]] [[owainlewis-awesome-artificial-intelligence]] [[nvidia-cosmos]] [[microsoft-ai-for-beginners]] [[freecodecamp-freecodecamp]]
 
 **所属领域**: [[education]]
 

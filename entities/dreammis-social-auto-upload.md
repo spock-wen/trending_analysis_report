@@ -2,6 +2,7 @@
 title: "dreammis/social-auto-upload"
 created: 2026-05-31
 updated: 2026-05-31
+last_active: 2026-05-31
 type: tool
 tags: [python]
 sources: [raw/trending/2026-05-31.json]
@@ -33,5 +34,5 @@ language: "Python"
 
 ## 相关项目
 
-[[agentskills-agentskills]] [[alirezarezvani-claude-skills]] [[rommapp-romm]] [[usestrix-strix]]
+[[rommapp-romm]] [[alirezarezvani-claude-skills]] [[anthropics-claude-code]] [[usestrix-strix]]
 

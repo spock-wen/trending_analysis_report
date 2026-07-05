@@ -2,6 +2,7 @@
 title: "altic-dev/FluidVoice"
 created: 2026-06-29
 updated: 2026-07-02
+last_active: 2026-07-02
 type: tool
 tags: [ai-agent, audio, rising]
 sources: [raw/trending/2026-07-02.json]
@@ -37,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[apple-container]] [[palmier-io-palmier-pro]] [[hugohe3-ppt-master]] [[mattpocock-skills]] [[lightricks-ltx-2]]
+[[apple-container]] [[palmier-io-palmier-pro]] [[anthropics-claude-code]] [[lightricks-ltx-2]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

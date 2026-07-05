@@ -2,6 +2,7 @@
 title: "freeCodeCamp/freeCodeCamp"
 created: 2026-06-15
 updated: 2026-06-19
+last_active: 2026-06-19
 type: tool
 tags: [typescript, education, rising]
 sources: [raw/trending/2026-06-19.json]
@@ -37,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[owainlewis-awesome-artificial-intelligence]] [[immich-app-immich]] [[alibaba-page-agent]] [[chthollyphile-folia-major]] [[byoungd-english-level-up-tips]]
+[[immich-app-immich]] [[byoungd-english-level-up-tips]] [[facebook-astryx]] [[owainlewis-awesome-artificial-intelligence]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[education]]
 

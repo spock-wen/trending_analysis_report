@@ -2,6 +2,7 @@
 title: "Open-Dev-Society/OpenStock"
 created: 2026-05-27
 updated: 2026-05-27
+last_active: 2026-05-27
 type: tool
 tags: [typescript, ai-agent]
 sources: [raw/trending/2026-05-27.json]
@@ -33,7 +34,7 @@ OpenStock is an open-source alternative to expensive market platforms. Track rea
 
 ## 相关项目
 
-[[mattpocock-skills]] [[immich-app-immich]] [[alibaba-page-agent]] [[chthollyphile-folia-major]] [[dotnet-skills]]
+[[anthropics-claude-code]] [[immich-app-immich]] [[facebook-astryx]] [[leonxlnx-taste-skill]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]]
 

@@ -2,6 +2,7 @@
 title: "ByteByteGoHq/system-design-101"
 created: 2026-06-29
 updated: 2026-06-29
+last_active: 2026-06-29
 type: tool
 tags: [ai-agent]
 sources: [raw/trending/2026-06-29.json]
@@ -33,7 +34,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[dotnet-skills]] [[alibaba-page-agent]] [[mattpocock-skills]]
+[[alibaba-page-agent]] [[leonxlnx-taste-skill]] [[dotnet-skills]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

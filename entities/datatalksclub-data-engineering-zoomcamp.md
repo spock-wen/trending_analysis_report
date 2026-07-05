@@ -2,6 +2,7 @@
 title: "DataTalksClub/data-engineering-zoomcamp"
 created: 2026-05-30
 updated: 2026-05-31
+last_active: 2026-05-31
 type: tutorial
 tags: [python, data, education]
 sources: [raw/trending/2026-05-31.json]
@@ -34,7 +35,7 @@ Data Engineering Zoomcamp is a free 9-week course on building production-ready d
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[freecodecamp-freecodecamp]] [[owainlewis-awesome-artificial-intelligence]] [[zackriya-solutions-meetily]]
+[[zackriya-solutions-meetily]] [[byoungd-english-level-up-tips]] [[supabase-supabase]] [[safishamsi-graphify]] [[owainlewis-awesome-artificial-intelligence]]
 
 **所属领域**: [[data]] [[education]]
 

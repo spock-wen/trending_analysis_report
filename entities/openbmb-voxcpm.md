@@ -2,6 +2,7 @@
 title: "OpenBMB/VoxCPM"
 created: 2026-05-31
 updated: 2026-06-17
+last_active: 2026-06-17
 type: tool
 tags: [python, image-gen, audio]
 sources: [raw/trending/2026-06-17.json]
@@ -37,7 +38,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[santifer-career-ops]] [[hasaneyldrm-exercises-dataset]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]]
+[[santifer-career-ops]] [[anthropics-claude-code]] [[anil-matcha-open-generative-ai]] [[lightricks-ltx-2]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

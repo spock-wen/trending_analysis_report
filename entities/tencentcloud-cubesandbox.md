@@ -2,6 +2,7 @@
 title: "TencentCloud/CubeSandbox"
 created: 2026-07-02
 updated: 2026-07-04
+last_active: 2026-07-04
 type: tool
 tags: [rust, ai-agent]
 sources: [raw/trending/2026-07-04.json]
@@ -34,7 +35,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[alibaba-page-agent]] [[ogulcancelik-herdr]] [[dotnet-skills]]
+[[zackriya-solutions-meetily]] [[anthropics-claude-code]] [[ruvnet-ruview]] [[leonxlnx-taste-skill]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[ai-agent]]
 

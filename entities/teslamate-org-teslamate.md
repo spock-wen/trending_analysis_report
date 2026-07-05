@@ -2,6 +2,7 @@
 title: "teslamate-org/teslamate"
 created: 2026-06-16
 updated: 2026-06-17
+last_active: 2026-06-17
 type: tool
 tags: [ai-agent, data]
 sources: [raw/trending/2026-06-17.json]
@@ -34,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[hasaneyldrm-exercises-dataset]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[alibaba-page-agent]]
+[[plausible-analytics]] [[zackriya-solutions-meetily]] [[anthropics-claude-code]] [[supabase-supabase]] [[safishamsi-graphify]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

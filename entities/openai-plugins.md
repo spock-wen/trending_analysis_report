@@ -2,6 +2,7 @@
 title: "openai/plugins"
 created: 2026-06-06
 updated: 2026-06-10
+last_active: 2026-06-10
 type: tool
 tags: [ai-agent, rising]
 sources: [raw/trending/2026-06-10.json]
@@ -37,7 +38,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[santifer-career-ops]] [[mattpocock-skills]] [[juliusbrussee-caveman]] [[alibaba-page-agent]] [[affaan-m-ecc]]
+[[juliusbrussee-caveman]] [[anthropics-claude-code]] [[leonxlnx-taste-skill]] [[coreyhaines31-marketingskills]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]]
 

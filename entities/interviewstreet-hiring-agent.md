@@ -2,6 +2,7 @@
 title: "interviewstreet/hiring-agent"
 created: 2026-06-25
 updated: 2026-06-25
+last_active: 2026-06-25
 type: tool
 tags: [python, ai-agent]
 sources: [raw/trending/2026-06-25.json]
@@ -33,7 +34,7 @@ AI agent to evaluate and score resumes.
 
 ## 相关项目
 
-[[mattpocock-skills]] [[alibaba-page-agent]] [[agentskills-agentskills]] [[dotnet-skills]] [[rommapp-romm]]
+[[anthropics-claude-code]] [[alibaba-page-agent]] [[leonxlnx-taste-skill]] [[alirezarezvani-claude-skills]] [[rommapp-romm]]
 
 **所属领域**: [[ai-agent]]
 

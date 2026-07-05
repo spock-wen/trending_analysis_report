@@ -2,6 +2,7 @@
 title: "OpenMOSS/MOSS-TTS"
 created: 2026-05-29
 updated: 2026-05-31
+last_active: 2026-05-31
 type: tool
 tags: [python, ai-agent, image-gen, audio]
 sources: [raw/trending/2026-05-31.json]
@@ -34,7 +35,7 @@ MOSS‑TTS Family is an open‑source speech and sound generation model family f
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[santifer-career-ops]] [[hasaneyldrm-exercises-dataset]] [[hugohe3-ppt-master]] [[mattpocock-skills]]
+[[santifer-career-ops]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[anil-matcha-open-generative-ai]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

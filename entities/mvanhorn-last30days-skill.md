@@ -2,6 +2,7 @@
 title: "mvanhorn/last30days-skill"
 created: 2026-06-05
 updated: 2026-06-11
+last_active: 2026-06-11
 type: tool
 tags: [python, ai-agent, web, science, rising]
 sources: [raw/trending/2026-06-11.json]
@@ -37,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[affaan-m-ecc]] [[anthropics-claude-code]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

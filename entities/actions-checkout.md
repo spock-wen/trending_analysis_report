@@ -2,6 +2,7 @@
 title: "actions/checkout"
 created: 2026-07-03
 updated: 2026-07-04
+last_active: 2026-07-04
 type: tool
 tags: [typescript]
 sources: [raw/trending/2026-07-04.json]
@@ -34,5 +35,5 @@ Action for checking out a repo
 
 ## 相关项目
 
-[[immich-app-immich]] [[chthollyphile-folia-major]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-page-agent]]
+[[alibaba-page-agent]] [[facebook-astryx]] [[chromedevtools-chrome-devtools-mcp]] [[immich-app-immich]]
 

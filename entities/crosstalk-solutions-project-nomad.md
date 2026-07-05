@@ -2,6 +2,7 @@
 title: "Crosstalk-Solutions/project-nomad"
 created: 2026-05-30
 updated: 2026-06-08
+last_active: 2026-06-08
 type: tool
 tags: [typescript, ai-agent]
 sources: [raw/trending/2026-06-08.json]
@@ -36,7 +37,7 @@ Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr
 
 ## 相关项目
 
-[[mattpocock-skills]] [[immich-app-immich]] [[alibaba-page-agent]] [[chthollyphile-folia-major]] [[dotnet-skills]]
+[[anthropics-claude-code]] [[immich-app-immich]] [[facebook-astryx]] [[leonxlnx-taste-skill]] [[alibaba-page-agent]]
 
 **所属领域**: [[ai-agent]]
 

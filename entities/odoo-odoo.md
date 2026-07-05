@@ -2,6 +2,7 @@
 title: "odoo/odoo"
 created: 2026-05-23
 updated: 2026-06-04
+last_active: 2026-06-04
 type: tool
 tags: [python, erp]
 sources: [raw/trending/2026-06-04.json]
@@ -34,7 +35,7 @@ Odoo. Open Source Apps To Grow Your Business.
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[agentskills-agentskills]] [[obra-superpowers]] [[rommapp-romm]]
+[[anthropics-claude-code]] [[hugohe3-ppt-master]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[obra-superpowers]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[erp]]
 

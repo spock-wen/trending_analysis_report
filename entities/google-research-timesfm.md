@@ -2,6 +2,7 @@
 title: "google-research/timesfm"
 created: 2026-06-18
 updated: 2026-06-21
+last_active: 2026-06-21
 type: tool
 tags: [python, ai-agent, science, rising]
 sources: [raw/trending/2026-06-21.json]
@@ -36,7 +37,7 @@ TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[mattpocock-skills]] [[alibaba-page-agent]] [[agentskills-agentskills]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[safishamsi-graphify]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

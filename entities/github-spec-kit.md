@@ -2,6 +2,7 @@
 title: "github/spec-kit"
 created: 2026-06-05
 updated: 2026-06-06
+last_active: 2026-06-06
 type: tool
 tags: [python]
 sources: [raw/trending/2026-06-06.json]
@@ -34,5 +35,5 @@ Toolkit to help you get started with Spec-Driven Development
 
 ## 相关项目
 
-[[agentskills-agentskills]] [[alirezarezvani-claude-skills]] [[rommapp-romm]] [[usestrix-strix]]
+[[rommapp-romm]] [[alirezarezvani-claude-skills]] [[anthropics-claude-code]] [[usestrix-strix]]
 

@@ -2,6 +2,7 @@
 title: "microsoft/ai-agents-for-beginners"
 created: 2026-05-18
 updated: 2026-05-20
+last_active: 2026-05-20
 type: tool
 tags: [python, ai-agent, education, rising]
 sources: [raw/trending/2026-05-20.json]
@@ -35,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[freecodecamp-freecodecamp]] [[owainlewis-awesome-artificial-intelligence]] [[mattpocock-skills]] [[alibaba-page-agent]] [[dotnet-skills]]
+[[anthropics-claude-code]] [[byoungd-english-level-up-tips]] [[owainlewis-awesome-artificial-intelligence]] [[leonxlnx-taste-skill]] [[stefan-jansen-machine-learning-for-trading]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

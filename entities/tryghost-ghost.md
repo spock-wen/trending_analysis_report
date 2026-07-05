@@ -2,6 +2,7 @@
 title: "TryGhost/Ghost"
 created: 2026-05-18
 updated: 2026-05-18
+last_active: 2026-05-18
 type: tool
 tags: [tool]
 sources: [raw/trending/2026-05-18.json]
@@ -33,5 +34,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[santifer-career-ops]] [[juliusbrussee-caveman]] [[affaan-m-ecc]] [[openai-codex-plugin-cc]]
+[[leonxlnx-taste-skill]] [[coreyhaines31-marketingskills]] [[juliusbrussee-caveman]] [[openai-codex-plugin-cc]]
 

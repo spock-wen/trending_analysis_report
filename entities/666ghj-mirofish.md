@@ -2,6 +2,7 @@
 title: "666ghj/MiroFish"
 created: 2026-05-25
 updated: 2026-06-06
+last_active: 2026-06-06
 type: framework
 tags: [python]
 sources: [raw/trending/2026-06-06.json]
@@ -35,5 +36,5 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything.
 
 ## 相关项目
 
-[[agentskills-agentskills]] [[alirezarezvani-claude-skills]] [[rommapp-romm]] [[usestrix-strix]]
+[[rommapp-romm]] [[alirezarezvani-claude-skills]] [[anthropics-claude-code]] [[usestrix-strix]]
 

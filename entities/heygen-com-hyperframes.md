@@ -2,6 +2,7 @@
 title: "heygen-com/hyperframes"
 created: 2026-06-23
 updated: 2026-06-23
+last_active: 2026-06-23
 type: tool
 tags: [typescript, ai-agent, web]
 sources: [raw/trending/2026-06-23.json]
@@ -33,7 +34,7 @@ Write HTML. Render video. Built for agents.
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zackriya-solutions-meetily]] [[immich-app-immich]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[immich-app-immich]] [[facebook-astryx]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

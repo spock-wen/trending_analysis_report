@@ -2,6 +2,7 @@
 title: "NirDiamant/agents-towards-production"
 created: 2026-05-18
 updated: 2026-05-18
+last_active: 2026-05-18
 type: tutorial
 tags: [python, ai-agent, devops, education, erp]
 sources: [raw/trending/2026-05-18.json]
@@ -33,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[owainlewis-awesome-artificial-intelligence]] [[ansible-ansible]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[microsoft-ai-for-beginners]]
+[[ansible-ansible]] [[byoungd-english-level-up-tips]] [[hugohe3-ppt-master]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[stefan-jansen-machine-learning-for-trading]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

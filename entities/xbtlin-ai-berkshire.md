@@ -2,6 +2,7 @@
 title: "xbtlin/ai-berkshire"
 created: 2026-06-26
 updated: 2026-07-01
+last_active: 2026-07-01
 type: framework
 tags: [python, ai-agent, science, rising]
 sources: [raw/trending/2026-07-01.json]
@@ -37,7 +38,7 @@ AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框�
 
 ## 相关项目
 
-[[safishamsi-graphify]] [[mattpocock-skills]] [[alibaba-page-agent]] [[agentskills-agentskills]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[safishamsi-graphify]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

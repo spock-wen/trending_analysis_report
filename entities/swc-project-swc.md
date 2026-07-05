@@ -2,6 +2,7 @@
 title: "swc-project/swc"
 created: 2026-06-14
 updated: 2026-06-17
+last_active: 2026-06-17
 type: tool
 tags: [rust, web]
 sources: [raw/trending/2026-06-17.json]
@@ -35,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]] [[tencentcloud-cubesandbox]] [[ogulcancelik-herdr]]
+[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[ruvnet-ruview]] [[ogulcancelik-herdr]] [[alibaba-page-agent]]
 
 **所属领域**: [[web]]
 

@@ -324,6 +324,7 @@ def generate_entities():
 title: "{repo}"
 created: {r.get('first_seen', TODAY)}
 updated: {r.get('last_seen', TODAY)}
+last_active: {r.get('last_seen', TODAY)}
 type: {ptype}
 tags: [{', '.join(tags)}]
 sources: [raw/trending/{r.get('last_seen', TODAY)}.json]

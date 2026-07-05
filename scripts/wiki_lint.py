@@ -160,14 +160,17 @@ def lint_pages():
             elif val and val > today:
                 issues['warning'].append(f"字段值为未来日期 {field}='{val}': {fname}")
 
-    # 5. 过期内容检查
+    # 5. 过期内容检查（优先使用 last_active，向后兼容 updated）
     cutoff = (datetime.now() - timedelta(days=30)).strftime("%Y-%m-%d")
     for page_path in pages:
         fname = os.path.basename(page_path)
         content = open(page_path, encoding='utf-8').read()
         fm = parse_frontmatter(content)
-        if fm and fm.get('updated', '9999') < cutoff:
-            issues['info'].append(f"过期内容 (>30天): {fname} (updated: {fm.get('updated')})")
+        if not fm:
+            continue
+        last_active = fm.get('last_active', fm.get('updated', '9999'))
+        if last_active < cutoff:
+            issues['info'].append(f"沉寂内容 (>30天未活跃): {fname} (last_active: {last_active})")
 
     # 6. 矛盾页面检查
     for page_path in pages:

@@ -16,7 +16,6 @@ last_trending: 2026-07-06
 peak_rank: 1
 total_stars: 37041
 language: "Python"
-contested: true
 ---
 
 # usestrix/strix
@@ -39,17 +38,7 @@ Open-source AI penetration testing tool to find and fix your app’s vulnerabili
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[alibaba-page-agent]] [[leonxlnx-taste-skill]] [[alirezarezvani-claude-skills]] [[rommapp-romm]]
+[[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[anthropics-claude-code]] [[bradautomates-claude-video]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[ai-agent]]
-
-
-## ⚠️ 描述变更（2026-07-01）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: Open-source AI hackers to find and fix your app’s vulnerabilities.
-- **新描述**: Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

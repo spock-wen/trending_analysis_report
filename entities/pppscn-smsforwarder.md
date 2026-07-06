@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[yairm210-unciv]] [[bannedbook-fanqiang]] [[andreknieriem-headunit-revived]]
+[[yairm210-unciv]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[alibaba-page-agent]]
 
 **所属领域**: [[web]]
 

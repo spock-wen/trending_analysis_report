@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[othmanadi-planning-with-files]] [[leonxlnx-taste-skill]] [[obra-superpowers]]
+[[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[mattpocock-skills]] [[anthropics-claude-code]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

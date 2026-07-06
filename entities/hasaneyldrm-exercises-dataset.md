@@ -36,7 +36,7 @@ A comprehensive dataset of 433 fitness exercises. Each entry includes name, cate
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[santifer-career-ops]] [[anthropics-claude-code]] [[anil-matcha-open-generative-ai]]
+[[revfactory-harness]] [[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[alibaba-zvec]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

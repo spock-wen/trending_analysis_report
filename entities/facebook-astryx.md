@@ -37,7 +37,7 @@ An open source design system that's fully customizable and agent ready
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[immich-app-immich]] [[leonxlnx-taste-skill]] [[alibaba-page-agent]] [[dotnet-skills]]
+[[karakeep-app-karakeep]] [[firecrawl-firecrawl]] [[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[alibaba-page-agent]] [[lightricks-ltx-2]] [[hugohe3-ppt-master]] [[leonxlnx-taste-skill]]
+[[addyosmani-agent-skills]] [[jamiepine-voicebox]] [[altic-dev-fluidvoice]] [[mvanhorn-last30days-skill]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

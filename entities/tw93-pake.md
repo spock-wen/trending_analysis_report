@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[ruvnet-ruview]] [[othmanadi-planning-with-files]]
+[[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[tencentcloud-cubesandbox]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -36,7 +36,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[anthropics-claude-code]] [[ruvnet-ruview]] [[leonxlnx-taste-skill]] [[ogulcancelik-herdr]]
+[[addyosmani-agent-skills]] [[zackriya-solutions-meetily]] [[tencentcloud-cubesandbox]] [[mvanhorn-last30days-skill]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]]
 

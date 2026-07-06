@@ -16,7 +16,6 @@ last_trending: 2026-07-02
 peak_rank: 4
 total_stars: 5453
 language: "Swift"
-contested: true
 ---
 
 # altic-dev/FluidVoice
@@ -38,17 +37,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[apple-container]] [[palmier-io-palmier-pro]] [[anthropics-claude-code]] [[lightricks-ltx-2]] [[hugohe3-ppt-master]]
+[[addyosmani-agent-skills]] [[jamiepine-voicebox]] [[lightricks-ltx-2]] [[mvanhorn-last30days-skill]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[audio]]
-
-
-## ⚠️ 描述变更（2026-07-01）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))
-- **新描述**: Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

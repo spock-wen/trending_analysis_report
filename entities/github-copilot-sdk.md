@@ -35,7 +35,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[krahets-hello-algo]] [[keycloak-keycloak]] [[anthropics-claude-code]] [[elastic-elasticsearch]] [[leonxlnx-taste-skill]]
+[[apache-maven]] [[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[leonxlnx-taste-skill]] [[elastic-elasticsearch]]
 
 **所属领域**: [[ai-agent]]
 

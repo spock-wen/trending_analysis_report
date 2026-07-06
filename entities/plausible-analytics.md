@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[keycloak-keycloak]] [[supabase-supabase]] [[chromedevtools-chrome-devtools-mcp]]
+[[firecrawl-firecrawl]] [[alibaba-zvec]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[safishamsi-graphify]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

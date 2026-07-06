@@ -34,5 +34,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[coreyhaines31-marketingskills]] [[juliusbrussee-caveman]] [[openai-codex-plugin-cc]]
+[[juliusbrussee-caveman]] [[openai-codex-plugin-cc]] [[coreyhaines31-marketingskills]] [[leonxlnx-taste-skill]]
 

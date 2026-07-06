@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[immich-app-immich]] [[byoungd-english-level-up-tips]] [[facebook-astryx]] [[owainlewis-awesome-artificial-intelligence]] [[microsoft-ai-for-beginners]]
+[[byoungd-english-level-up-tips]] [[microsoft-ai-for-beginners]] [[karakeep-app-karakeep]] [[firecrawl-firecrawl]] [[facebook-astryx]]
 
 **所属领域**: [[education]]
 

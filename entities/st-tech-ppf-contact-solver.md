@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[othmanadi-planning-with-files]] [[ogulcancelik-herdr]] [[alirezarezvani-claude-skills]] [[rommapp-romm]]
+[[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[anthropics-claude-code]] [[bradautomates-claude-video]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[cli]]
 

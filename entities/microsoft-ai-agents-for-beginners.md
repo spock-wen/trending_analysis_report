@@ -36,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[byoungd-english-level-up-tips]] [[owainlewis-awesome-artificial-intelligence]] [[leonxlnx-taste-skill]] [[stefan-jansen-machine-learning-for-trading]]
+[[byoungd-english-level-up-tips]] [[microsoft-ai-for-beginners]] [[freecodecamp-freecodecamp]] [[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -36,7 +36,7 @@ JavaScript in-page GUI agent. Control web interfaces with natural language.
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[immich-app-immich]] [[facebook-astryx]]
+[[karakeep-app-karakeep]] [[firecrawl-firecrawl]] [[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[facebook-astryx]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[othmanadi-planning-with-files]] [[hugohe3-ppt-master]] [[x1xhlol-system-prompts-and-models-of-ai-tools]]
+[[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[mattpocock-skills]] [[anthropics-claude-code]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

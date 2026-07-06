@@ -34,5 +34,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[alibaba-page-agent]] [[facebook-astryx]] [[chromedevtools-chrome-devtools-mcp]] [[immich-app-immich]]
+[[firecrawl-firecrawl]] [[facebook-astryx]] [[alibaba-page-agent]] [[karakeep-app-karakeep]]
 

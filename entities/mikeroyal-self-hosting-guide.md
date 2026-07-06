@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[byoungd-english-level-up-tips]] [[owainlewis-awesome-artificial-intelligence]]
+[[byoungd-english-level-up-tips]] [[microsoft-ai-for-beginners]] [[freecodecamp-freecodecamp]] [[addyosmani-agent-skills]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

@@ -36,7 +36,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[alibaba-page-agent]] [[othmanadi-planning-with-files]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]]
+[[addyosmani-agent-skills]] [[jamiepine-voicebox]] [[altic-dev-fluidvoice]] [[mvanhorn-last30days-skill]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

@@ -34,7 +34,7 @@ Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 
 ## 相关项目
 
-[[ansible-ansible]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[langflow-ai-langflow]] [[anthropics-claude-code]]
+[[revfactory-harness]] [[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[ansible-ansible]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

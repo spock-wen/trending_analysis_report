@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[krahets-hello-algo]] [[keycloak-keycloak]] [[zackriya-solutions-meetily]] [[anthropics-claude-code]] [[supabase-supabase]]
+[[apache-maven]] [[addyosmani-agent-skills]] [[alibaba-zvec]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

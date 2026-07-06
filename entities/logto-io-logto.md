@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[ansible-ansible]] [[langflow-ai-langflow]] [[anthropics-claude-code]] [[ruvnet-ruview]] [[immich-app-immich]]
+[[karakeep-app-karakeep]] [[firecrawl-firecrawl]] [[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[facebook-astryx]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

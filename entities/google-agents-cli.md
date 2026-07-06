@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[ansible-ansible]] [[langflow-ai-langflow]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[othmanadi-planning-with-files]]
+[[addyosmani-agent-skills]] [[ansible-ansible]] [[mvanhorn-last30days-skill]] [[safishamsi-graphify]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

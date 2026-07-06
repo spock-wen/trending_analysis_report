@@ -34,7 +34,7 @@ Lightweight (7MB) Terminal-first AI-native dev workspace
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[immich-app-immich]] [[othmanadi-planning-with-files]] [[facebook-astryx]] [[leonxlnx-taste-skill]]
+[[karakeep-app-karakeep]] [[firecrawl-firecrawl]] [[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[facebook-astryx]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

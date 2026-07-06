@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[alibaba-page-agent]] [[byoungd-english-level-up-tips]] [[owainlewis-awesome-artificial-intelligence]] [[leonxlnx-taste-skill]]
+[[byoungd-english-level-up-tips]] [[microsoft-ai-for-beginners]] [[freecodecamp-freecodecamp]] [[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

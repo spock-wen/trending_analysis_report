@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[immich-app-immich]] [[othmanadi-planning-with-files]] [[facebook-astryx]] [[ogulcancelik-herdr]]
+[[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[karakeep-app-karakeep]] [[facebook-astryx]] [[anthropics-claude-code]]
 
 **所属领域**: [[cli]]
 

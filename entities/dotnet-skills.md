@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[coplaydev-unity-mcp]] [[anthropics-claude-code]] [[itsfatduck-optimizerduck]] [[leonxlnx-taste-skill]] [[alibaba-page-agent]]
+[[coplaydev-unity-mcp]] [[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[leonxlnx-taste-skill]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[keycloak-keycloak]] [[affaan-m-ecc]] [[anthropics-claude-code]] [[alibaba-page-agent]]
+[[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[anthropics-claude-code]] [[bradautomates-claude-video]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

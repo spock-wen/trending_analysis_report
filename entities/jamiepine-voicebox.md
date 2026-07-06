@@ -36,7 +36,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[lightricks-ltx-2]] [[immich-app-immich]] [[hugohe3-ppt-master]] [[facebook-astryx]]
+[[karakeep-app-karakeep]] [[firecrawl-firecrawl]] [[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[facebook-astryx]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

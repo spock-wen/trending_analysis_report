@@ -1,20 +1,20 @@
 ---
 title: "ogulcancelik/herdr"
 created: 2026-07-01
-updated: 2026-07-06
-last_active: 2026-07-06
+updated: 2026-07-07
+last_active: 2026-07-07
 type: tool
 tags: [rust, ai-agent, cli, rising]
-sources: [raw/trending/2026-07-06.json]
+sources: [raw/trending/2026-07-07.json]
 confidence: high
-trending_count_daily: 5
+trending_count_daily: 6
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 3
+consecutive_days: 4
 first_trending: 2026-07-01
-last_trending: 2026-07-06
+last_trending: 2026-07-07
 peak_rank: 7
-total_stars: 12019
+total_stars: 12827
 language: "Rust"
 ---
 
@@ -23,22 +23,22 @@ language: "Rust"
 agent multiplexer that lives in your terminal.
 
 - 语言: Rust
-- 上榜次数: 5 次
-- 连续上榜: 3 天
+- 上榜次数: 6 次
+- 连续上榜: 4 天
 - 最高排名: #7
 - 链接: [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
 
 ## 上榜历史
 
+  - 2026-07-07: #9, +783⭐
   - 2026-07-06: #7, +650⭐
   - 2026-07-05: #10, +706⭐
   - 2026-07-04: #15, +513⭐
   - 2026-07-02: #14, +611⭐
-  - 2026-07-01: #12, +485⭐
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[anthropics-claude-code]] [[ruvnet-ruview]] [[othmanadi-planning-with-files]] [[leonxlnx-taste-skill]]
+[[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[tencentcloud-cubesandbox]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

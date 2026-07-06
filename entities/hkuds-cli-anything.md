@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[othmanadi-planning-with-files]]
+[[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

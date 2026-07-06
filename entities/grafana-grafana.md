@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[ansible-ansible]] [[zackriya-solutions-meetily]] [[langflow-ai-langflow]] [[ruvnet-ruview]] [[immich-app-immich]]
+[[karakeep-app-karakeep]] [[firecrawl-firecrawl]] [[alibaba-zvec]] [[zackriya-solutions-meetily]] [[facebook-astryx]]
 
 **所属领域**: [[data]] [[devops]]
 

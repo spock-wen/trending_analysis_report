@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[keycloak-keycloak]] [[immich-app-immich]] [[facebook-astryx]] [[veracrypt-veracrypt]]
+[[karakeep-app-karakeep]] [[firecrawl-firecrawl]] [[zackriya-solutions-meetily]] [[facebook-astryx]] [[veracrypt-veracrypt]]
 
 **所属领域**: [[security]]
 

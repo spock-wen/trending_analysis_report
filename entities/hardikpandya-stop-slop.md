@@ -38,7 +38,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[alibaba-page-agent]] [[leonxlnx-taste-skill]] [[dotnet-skills]] [[anthropics-claude-code]]
+[[mvanhorn-last30days-skill]] [[addyosmani-agent-skills]] [[ogulcancelik-herdr]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]]
 

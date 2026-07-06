@@ -34,7 +34,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[gastownhall-gastown]] [[anthropics-claude-code]] [[kenn-io-agentsview]] [[alibaba-page-agent]] [[leonxlnx-taste-skill]]
+[[gastownhall-gastown]] [[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[icewhaletech-casaos]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]]
 

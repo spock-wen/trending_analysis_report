@@ -37,7 +37,7 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[safishamsi-graphify]] [[leonxlnx-taste-skill]]
+[[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[safishamsi-graphify]] [[anthropics-claude-code]] [[bradautomates-claude-video]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -36,7 +36,7 @@ Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[supabase-supabase]] [[safishamsi-graphify]]
+[[addyosmani-agent-skills]] [[alibaba-zvec]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[safishamsi-graphify]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

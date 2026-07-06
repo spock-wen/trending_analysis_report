@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[immich-app-immich]] [[othmanadi-planning-with-files]] [[byoungd-english-level-up-tips]] [[facebook-astryx]]
+[[byoungd-english-level-up-tips]] [[microsoft-ai-for-beginners]] [[freecodecamp-freecodecamp]] [[karakeep-app-karakeep]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

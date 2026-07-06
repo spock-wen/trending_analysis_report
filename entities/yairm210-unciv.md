@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[pppscn-smsforwarder]] [[leonxlnx-taste-skill]] [[bannedbook-fanqiang]] [[andreknieriem-headunit-revived]]
+[[pppscn-smsforwarder]] [[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[leonxlnx-taste-skill]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[ai-agent]]
 

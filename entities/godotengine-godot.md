@@ -34,5 +34,5 @@ Godot Engine – Multi-platform 2D and 3D game engine
 
 ## 相关项目
 
-[[opencv-opencv]] [[opentoonz-opentoonz]] [[alibaba-zvec]]
+[[alibaba-zvec]] [[opentoonz-opentoonz]] [[opencv-opencv]]
 

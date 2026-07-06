@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[gastownhall-gastown]] [[anthropics-claude-code]] [[alibaba-page-agent]] [[supabase-supabase]]
+[[gastownhall-gastown]] [[addyosmani-agent-skills]] [[alibaba-zvec]] [[mvanhorn-last30days-skill]] [[icewhaletech-casaos]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

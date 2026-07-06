@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[ruvnet-ruview]] [[ogulcancelik-herdr]] [[alibaba-page-agent]]
+[[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[tencentcloud-cubesandbox]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[web]]
 

@@ -34,7 +34,7 @@ Transform unstructured text into structured knowledge with LLMs. Graphs, hypergr
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[alibaba-page-agent]] [[othmanadi-planning-with-files]] [[leonxlnx-taste-skill]] [[alirezarezvani-claude-skills]]
+[[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[anthropics-claude-code]] [[bradautomates-claude-video]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -34,7 +34,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[leonxlnx-taste-skill]] [[stefan-jansen-machine-learning-for-trading]] [[nvidia-cosmos]] [[microsoft-ai-for-beginners]]
+[[microsoft-ai-for-beginners]] [[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[leonxlnx-taste-skill]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[ai-agent]]
 

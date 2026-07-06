@@ -35,5 +35,5 @@ High performance self-hosted photo and video management solution.
 
 ## 相关项目
 
-[[alibaba-page-agent]] [[facebook-astryx]] [[chromedevtools-chrome-devtools-mcp]]
+[[firecrawl-firecrawl]] [[facebook-astryx]] [[alibaba-page-agent]] [[karakeep-app-karakeep]]
 

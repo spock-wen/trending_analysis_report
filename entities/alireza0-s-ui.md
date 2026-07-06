@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[gastownhall-gastown]] [[msitarzewski-agency-agents]] [[alibaba-page-agent]] [[kenn-io-agentsview]]
+[[gastownhall-gastown]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[icewhaletech-casaos]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[web]]
 

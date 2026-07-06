@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[immich-app-immich]] [[facebook-astryx]] [[alibaba-page-agent]]
+[[karakeep-app-karakeep]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[facebook-astryx]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[web]]
 

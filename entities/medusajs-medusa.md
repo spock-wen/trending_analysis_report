@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[immich-app-immich]] [[hugohe3-ppt-master]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[facebook-astryx]] [[obra-superpowers]]
+[[karakeep-app-karakeep]] [[firecrawl-firecrawl]] [[facebook-astryx]] [[hugohe3-ppt-master]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[erp]]
 

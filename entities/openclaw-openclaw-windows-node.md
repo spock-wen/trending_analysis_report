@@ -35,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[coplaydev-unity-mcp]] [[anthropics-claude-code]] [[itsfatduck-optimizerduck]] [[othmanadi-planning-with-files]] [[ogulcancelik-herdr]]
+[[coplaydev-unity-mcp]] [[addyosmani-agent-skills]] [[anthropics-claude-code]] [[alirezarezvani-claude-skills]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[cli]]
 

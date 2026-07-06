@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[gastownhall-gastown]] [[anthropics-claude-code]] [[kenn-io-agentsview]] [[alibaba-page-agent]]
+[[gastownhall-gastown]] [[addyosmani-agent-skills]] [[alibaba-zvec]] [[mvanhorn-last30days-skill]] [[icewhaletech-casaos]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

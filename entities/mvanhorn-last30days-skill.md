@@ -1,20 +1,20 @@
 ---
 title: "mvanhorn/last30days-skill"
 created: 2026-06-05
-updated: 2026-06-11
-last_active: 2026-06-11
+updated: 2026-07-07
+last_active: 2026-07-07
 type: tool
-tags: [python, ai-agent, web, science, rising]
-sources: [raw/trending/2026-06-11.json]
+tags: [python, ai-agent, web, science]
+sources: [raw/trending/2026-07-07.json]
 confidence: high
-trending_count_daily: 7
+trending_count_daily: 8
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 7
+consecutive_days: 1
 first_trending: 2026-06-05
-last_trending: 2026-06-11
+last_trending: 2026-07-07
 peak_rank: 1
-total_stars: 39013
+total_stars: 49704
 language: "Python"
 ---
 
@@ -23,22 +23,22 @@ language: "Python"
 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
 - 语言: Python
-- 上榜次数: 7 次
-- 连续上榜: 7 天
+- 上榜次数: 8 次
+- 连续上榜: 1 天
 - 最高排名: #1
 - 链接: [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
 
 ## 上榜历史
 
+  - 2026-07-07: #8, +511⭐
   - 2026-06-11: #4, +2561⭐
   - 2026-06-10: #1, +3177⭐
   - 2026-06-09: #1, +3558⭐
   - 2026-06-08: #1, +1097⭐
-  - 2026-06-07: #5, +441⭐
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]] [[affaan-m-ecc]] [[anthropics-claude-code]] [[alibaba-page-agent]]
+[[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[zackriya-solutions-meetily]] [[safishamsi-graphify]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

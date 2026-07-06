@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[lightricks-ltx-2]] [[othmanadi-planning-with-files]] [[hugohe3-ppt-master]] [[altic-dev-fluidvoice]]
+[[addyosmani-agent-skills]] [[jamiepine-voicebox]] [[altic-dev-fluidvoice]] [[mvanhorn-last30days-skill]] [[lightricks-ltx-2]]
 
 **所属领域**: [[cli]] [[audio]]
 

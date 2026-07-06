@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[anthropics-claude-code]] [[othmanadi-planning-with-files]] [[chromedevtools-chrome-devtools-mcp]] [[leonxlnx-taste-skill]]
+[[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

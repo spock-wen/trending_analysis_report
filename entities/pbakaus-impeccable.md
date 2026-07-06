@@ -34,7 +34,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[anthropics-claude-code]] [[leonxlnx-taste-skill]] [[coreyhaines31-marketingskills]] [[alibaba-page-agent]]
+[[addyosmani-agent-skills]] [[openai-codex-plugin-cc]] [[mvanhorn-last30days-skill]] [[coreyhaines31-marketingskills]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]]
 

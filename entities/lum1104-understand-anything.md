@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[byoungd-english-level-up-tips]] [[microsoft-ai-for-beginners]] [[freecodecamp-freecodecamp]] [[karakeep-app-karakeep]] [[firecrawl-firecrawl]]
+[[freecodecamp-freecodecamp]] [[iofficeai-officecli]] [[owainlewis-awesome-artificial-intelligence]] [[tencentcloud-cubesandbox]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

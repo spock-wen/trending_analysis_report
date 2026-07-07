@@ -38,7 +38,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[openai-codex-plugin-cc]] [[mvanhorn-last30days-skill]] [[coreyhaines31-marketingskills]] [[leonxlnx-taste-skill]]
+[[leonxlnx-taste-skill]] [[tencentcloud-cubesandbox]] [[dotnet-skills]] [[zackriya-solutions-meetily]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

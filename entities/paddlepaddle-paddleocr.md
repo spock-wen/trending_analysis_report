@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[karakeep-app-karakeep]] [[alibaba-zvec]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]]
+[[kyutai-labs-pocket-tts]] [[coreyhaines31-marketingskills]] [[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[hesreallyhim-awesome-claude-code]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

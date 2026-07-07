@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[hasaneyldrm-exercises-dataset]]
+[[hasaneyldrm-exercises-dataset]] [[tencentcloud-cubesandbox]] [[firecrawl-firecrawl]] [[dotnet-skills]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

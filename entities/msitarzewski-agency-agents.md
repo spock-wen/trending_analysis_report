@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[mattpocock-skills]]
+[[iofficeai-officecli]] [[0xnyk-council-of-high-intelligence]] [[tencentcloud-cubesandbox]] [[obra-superpowers]] [[dotnet-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

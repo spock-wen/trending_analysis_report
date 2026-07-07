@@ -34,7 +34,7 @@ A Python framework for self-hosted LLM tool-calling and multi-step agentic workf
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[anthropics-claude-code]] [[bradautomates-claude-video]] [[alirezarezvani-claude-skills]]
+[[kyutai-labs-pocket-tts]] [[tencentcloud-cubesandbox]] [[hesreallyhim-awesome-claude-code]] [[dotnet-skills]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[ai-agent]]
 

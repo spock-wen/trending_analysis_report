@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[karakeep-app-karakeep]] [[firecrawl-firecrawl]] [[facebook-astryx]] [[hugohe3-ppt-master]] [[alirezarezvani-claude-skills]]
+[[iofficeai-officecli]] [[firecrawl-firecrawl]] [[obra-superpowers]] [[karakeep-app-karakeep]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[erp]]
 

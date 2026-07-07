@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[karakeep-app-karakeep]] [[santifer-career-ops]] [[mvanhorn-last30days-skill]] [[safishamsi-graphify]]
+[[kyutai-labs-pocket-tts]] [[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[hesreallyhim-awesome-claude-code]] [[dotnet-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -34,7 +34,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[hugohe3-ppt-master]] [[alirezarezvani-claude-skills]]
+[[iofficeai-officecli]] [[firecrawl-firecrawl]] [[obra-superpowers]] [[alirezarezvani-claude-skills]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[web]] [[erp]]
 

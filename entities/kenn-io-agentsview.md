@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[gastownhall-gastown]] [[addyosmani-agent-skills]] [[alibaba-zvec]] [[mvanhorn-last30days-skill]] [[icewhaletech-casaos]]
+[[kunchenguid-no-mistakes]] [[coreyhaines31-marketingskills]] [[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[dotnet-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

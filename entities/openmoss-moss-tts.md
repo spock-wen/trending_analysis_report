@@ -35,7 +35,7 @@ MOSS‑TTS Family is an open‑source speech and sound generation model family f
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[karakeep-app-karakeep]] [[santifer-career-ops]] [[mvanhorn-last30days-skill]] [[safishamsi-graphify]]
+[[kyutai-labs-pocket-tts]] [[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[altic-dev-fluidvoice]] [[hesreallyhim-awesome-claude-code]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

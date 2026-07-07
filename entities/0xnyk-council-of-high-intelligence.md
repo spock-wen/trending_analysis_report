@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[mattpocock-skills]] [[anthropics-claude-code]] [[alirezarezvani-claude-skills]]
+[[iofficeai-officecli]] [[tencentcloud-cubesandbox]] [[obra-superpowers]] [[dotnet-skills]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

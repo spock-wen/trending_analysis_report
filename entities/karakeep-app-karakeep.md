@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[santifer-career-ops]] [[mvanhorn-last30days-skill]] [[facebook-astryx]]
+[[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[firecrawl-firecrawl]] [[dotnet-skills]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

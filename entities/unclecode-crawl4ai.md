@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[anthropics-claude-code]]
+[[kyutai-labs-pocket-tts]] [[tencentcloud-cubesandbox]] [[firecrawl-firecrawl]] [[hesreallyhim-awesome-claude-code]] [[dotnet-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

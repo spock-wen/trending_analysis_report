@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[byoungd-english-level-up-tips]] [[microsoft-ai-for-beginners]] [[freecodecamp-freecodecamp]] [[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]]
+[[freecodecamp-freecodecamp]] [[kyutai-labs-pocket-tts]] [[owainlewis-awesome-artificial-intelligence]] [[tencentcloud-cubesandbox]] [[hesreallyhim-awesome-claude-code]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

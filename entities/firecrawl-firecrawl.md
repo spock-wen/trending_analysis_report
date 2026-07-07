@@ -35,7 +35,7 @@ The API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[karakeep-app-karakeep]] [[zackriya-solutions-meetily]] [[mvanhorn-last30days-skill]] [[facebook-astryx]] [[alibaba-page-agent]]
+[[karakeep-app-karakeep]] [[zackriya-solutions-meetily]] [[alibaba-page-agent]] [[madslorentzen-ai-job-search]] [[ahmadibrahiim-website-downloader]]
 
 **所属领域**: [[web]]
 

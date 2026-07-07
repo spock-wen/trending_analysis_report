@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[safishamsi-graphify]] [[bradautomates-claude-video]] [[anthropics-claude-code]]
+[[kyutai-labs-pocket-tts]] [[iofficeai-officecli]] [[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

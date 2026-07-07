@@ -34,7 +34,7 @@ Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 
 ## 相关项目
 
-[[revfactory-harness]] [[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[ansible-ansible]] [[mvanhorn-last30days-skill]]
+[[ruvnet-ruview]] [[hasaneyldrm-exercises-dataset]] [[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

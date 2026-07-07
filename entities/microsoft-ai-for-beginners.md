@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[byoungd-english-level-up-tips]] [[freecodecamp-freecodecamp]] [[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[leonxlnx-taste-skill]]
+[[freecodecamp-freecodecamp]] [[owainlewis-awesome-artificial-intelligence]] [[stefan-jansen-machine-learning-for-trading]] [[lyogavin-airllm]] [[tencentcloud-cubesandbox]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

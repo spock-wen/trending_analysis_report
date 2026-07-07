@@ -35,5 +35,5 @@ A self-hosted travel/trip planner with real-time collaboration, interactive maps
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[facebook-astryx]] [[alibaba-page-agent]] [[karakeep-app-karakeep]]
+[[alibaba-page-agent]] [[madslorentzen-ai-job-search]] [[karakeep-app-karakeep]] [[firecrawl-firecrawl]]
 

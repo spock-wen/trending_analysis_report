@@ -38,7 +38,7 @@ World's first open-source, agentic video production system. 12 pipelines, 52 too
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[alibaba-zvec]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[safishamsi-graphify]]
+[[kyutai-labs-pocket-tts]] [[coreyhaines31-marketingskills]] [[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[hesreallyhim-awesome-claude-code]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

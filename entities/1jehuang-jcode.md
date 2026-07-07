@@ -34,7 +34,7 @@ Coding Agent Harness
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[zackriya-solutions-meetily]] [[tencentcloud-cubesandbox]] [[mvanhorn-last30days-skill]] [[leonxlnx-taste-skill]]
+[[tencentcloud-cubesandbox]] [[ogulcancelik-herdr]] [[dotnet-skills]] [[zackriya-solutions-meetily]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

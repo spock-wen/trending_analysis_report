@@ -38,7 +38,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[bradautomates-claude-video]] [[alirezarezvani-claude-skills]] [[leonxlnx-taste-skill]]
+[[kyutai-labs-pocket-tts]] [[iofficeai-officecli]] [[tencentcloud-cubesandbox]] [[hesreallyhim-awesome-claude-code]] [[dotnet-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

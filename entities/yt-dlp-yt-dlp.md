@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[jamiepine-voicebox]] [[altic-dev-fluidvoice]] [[mvanhorn-last30days-skill]] [[lightricks-ltx-2]]
+[[kyutai-labs-pocket-tts]] [[iofficeai-officecli]] [[altic-dev-fluidvoice]] [[hesreallyhim-awesome-claude-code]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[cli]] [[audio]]
 

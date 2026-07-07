@@ -35,7 +35,7 @@ Official Python inference and LoRA trainer package for the LTX-2 audio–video g
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[jamiepine-voicebox]] [[altic-dev-fluidvoice]] [[mvanhorn-last30days-skill]] [[anthropics-claude-code]]
+[[kyutai-labs-pocket-tts]] [[tencentcloud-cubesandbox]] [[altic-dev-fluidvoice]] [[hesreallyhim-awesome-claude-code]] [[dotnet-skills]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

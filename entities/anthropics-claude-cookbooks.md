@@ -34,7 +34,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[leonxlnx-taste-skill]] [[ogulcancelik-herdr]]
+[[stefan-jansen-machine-learning-for-trading]] [[lyogavin-airllm]] [[tencentcloud-cubesandbox]] [[dotnet-skills]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[ai-agent]]
 

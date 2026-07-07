@@ -35,7 +35,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[alibaba-zvec]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[safishamsi-graphify]] [[anthropics-claude-code]]
+[[kyutai-labs-pocket-tts]] [[coreyhaines31-marketingskills]] [[safishamsi-graphify]] [[hesreallyhim-awesome-claude-code]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[data]]
 

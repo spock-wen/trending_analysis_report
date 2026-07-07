@@ -34,7 +34,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[ogulcancelik-herdr]] [[anthropics-claude-code]] [[alirezarezvani-claude-skills]] [[addyosmani-agent-skills]]
+[[iofficeai-officecli]] [[ogulcancelik-herdr]] [[alirezarezvani-claude-skills]] [[anthropics-claude-code]]
 
 **所属领域**: [[cli]]
 

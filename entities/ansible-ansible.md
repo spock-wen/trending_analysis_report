@@ -34,7 +34,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[safishamsi-graphify]]
+[[kyutai-labs-pocket-tts]] [[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[firecrawl-firecrawl]] [[hesreallyhim-awesome-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

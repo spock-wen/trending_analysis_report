@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[safishamsi-graphify]] [[hugohe3-ppt-master]] [[stefan-jansen-machine-learning-for-trading]] [[byoungd-english-level-up-tips]]
+[[owainlewis-awesome-artificial-intelligence]] [[stefan-jansen-machine-learning-for-trading]] [[tencentcloud-cubesandbox]] [[alirezarezvani-claude-skills]] [[byoungd-english-level-up-tips]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

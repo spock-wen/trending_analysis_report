@@ -35,5 +35,5 @@ Open source alternative to Semrush and Ahrefs
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[facebook-astryx]] [[alibaba-page-agent]] [[karakeep-app-karakeep]]
+[[alibaba-page-agent]] [[madslorentzen-ai-job-search]] [[karakeep-app-karakeep]] [[firecrawl-firecrawl]]
 

@@ -37,7 +37,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[karakeep-app-karakeep]] [[openai-codex-plugin-cc]] [[mvanhorn-last30days-skill]] [[safishamsi-graphify]]
+[[leonxlnx-taste-skill]] [[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[dotnet-skills]] [[karakeep-app-karakeep]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

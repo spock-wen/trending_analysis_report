@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[karakeep-app-karakeep]] [[santifer-career-ops]] [[mvanhorn-last30days-skill]] [[safishamsi-graphify]]
+[[kyutai-labs-pocket-tts]] [[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[affaan-m-ecc]] [[hesreallyhim-awesome-claude-code]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

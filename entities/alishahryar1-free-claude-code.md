@@ -36,7 +36,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[jamiepine-voicebox]] [[altic-dev-fluidvoice]] [[mvanhorn-last30days-skill]] [[lightricks-ltx-2]]
+[[kyutai-labs-pocket-tts]] [[iofficeai-officecli]] [[tencentcloud-cubesandbox]] [[altic-dev-fluidvoice]] [[hesreallyhim-awesome-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

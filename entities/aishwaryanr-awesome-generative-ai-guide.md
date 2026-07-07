@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[revfactory-harness]] [[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]]
+[[hasaneyldrm-exercises-dataset]] [[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[firecrawl-firecrawl]] [[dotnet-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

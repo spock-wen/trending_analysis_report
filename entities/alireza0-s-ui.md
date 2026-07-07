@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[gastownhall-gastown]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[icewhaletech-casaos]] [[zackriya-solutions-meetily]]
+[[kunchenguid-no-mistakes]] [[firecrawl-firecrawl]] [[gastownhall-gastown]] [[zackriya-solutions-meetily]] [[icewhaletech-casaos]]
 
 **所属领域**: [[web]]
 

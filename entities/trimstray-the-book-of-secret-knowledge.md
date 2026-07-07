@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[anthropics-claude-code]]
+[[iofficeai-officecli]] [[firecrawl-firecrawl]] [[ogulcancelik-herdr]] [[alirezarezvani-claude-skills]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[web]] [[cli]]
 

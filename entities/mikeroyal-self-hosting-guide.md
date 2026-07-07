@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[byoungd-english-level-up-tips]] [[microsoft-ai-for-beginners]] [[freecodecamp-freecodecamp]] [[addyosmani-agent-skills]] [[firecrawl-firecrawl]]
+[[freecodecamp-freecodecamp]] [[owainlewis-awesome-artificial-intelligence]] [[tencentcloud-cubesandbox]] [[firecrawl-firecrawl]] [[dotnet-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

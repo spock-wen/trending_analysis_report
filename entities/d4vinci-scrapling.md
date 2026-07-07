@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[anthropics-claude-code]] [[bradautomates-claude-video]]
+[[kyutai-labs-pocket-tts]] [[firecrawl-firecrawl]] [[hesreallyhim-awesome-claude-code]] [[zackriya-solutions-meetily]] [[bradautomates-claude-video]]
 
 **所属领域**: [[web]]
 

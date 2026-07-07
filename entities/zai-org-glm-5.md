@@ -35,7 +35,7 @@ GLM-5: From Vibe Coding to Agentic Engineering
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[addyosmani-agent-skills]] [[ogulcancelik-herdr]] [[leonxlnx-taste-skill]]
+[[tencentcloud-cubesandbox]] [[dotnet-skills]] [[zackriya-solutions-meetily]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[safishamsi-graphify]] [[anthropics-claude-code]] [[bradautomates-claude-video]]
+[[kyutai-labs-pocket-tts]] [[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[affaan-m-ecc]] [[hesreallyhim-awesome-claude-code]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[ansible-ansible]] [[mvanhorn-last30days-skill]] [[safishamsi-graphify]] [[anthropics-claude-code]]
+[[kyutai-labs-pocket-tts]] [[iofficeai-officecli]] [[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[hesreallyhim-awesome-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

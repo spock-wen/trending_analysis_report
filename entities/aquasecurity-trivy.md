@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[gastownhall-gastown]] [[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[icewhaletech-casaos]] [[zackriya-solutions-meetily]]
+[[kunchenguid-no-mistakes]] [[tencentcloud-cubesandbox]] [[affaan-m-ecc]] [[dotnet-skills]] [[gastownhall-gastown]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

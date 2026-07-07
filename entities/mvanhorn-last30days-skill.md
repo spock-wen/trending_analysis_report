@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[zackriya-solutions-meetily]] [[safishamsi-graphify]] [[anthropics-claude-code]]
+[[kyutai-labs-pocket-tts]] [[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[firecrawl-firecrawl]] [[hesreallyhim-awesome-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

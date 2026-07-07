@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[tencentcloud-cubesandbox]] [[ogulcancelik-herdr]]
+[[tencentcloud-cubesandbox]] [[firecrawl-firecrawl]] [[ogulcancelik-herdr]] [[zackriya-solutions-meetily]] [[ahmadibrahiim-website-downloader]]
 
 **所属领域**: [[web]]
 

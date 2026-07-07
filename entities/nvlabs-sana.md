@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[karakeep-app-karakeep]] [[santifer-career-ops]] [[mvanhorn-last30days-skill]] [[safishamsi-graphify]] [[anthropics-claude-code]]
+[[kyutai-labs-pocket-tts]] [[safishamsi-graphify]] [[hesreallyhim-awesome-claude-code]] [[karakeep-app-karakeep]] [[santifer-career-ops]]
 
 **所属领域**: [[image-gen]]
 

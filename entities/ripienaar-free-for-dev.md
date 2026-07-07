@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[revfactory-harness]] [[firecrawl-firecrawl]] [[ansible-ansible]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]]
+[[hasaneyldrm-exercises-dataset]] [[safishamsi-graphify]] [[firecrawl-firecrawl]] [[langflow-ai-langflow]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[web]] [[devops]]
 

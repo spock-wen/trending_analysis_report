@@ -38,7 +38,7 @@ Clone any website with one command using AI coding agents
 
 ## 相关项目
 
-[[karakeep-app-karakeep]] [[firecrawl-firecrawl]] [[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[facebook-astryx]]
+[[iofficeai-officecli]] [[tencentcloud-cubesandbox]] [[firecrawl-firecrawl]] [[dotnet-skills]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

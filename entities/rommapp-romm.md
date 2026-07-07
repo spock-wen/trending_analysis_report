@@ -36,5 +36,5 @@ A beautiful, powerful, self-hosted rom manager and player.
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[mvanhorn-last30days-skill]] [[bradautomates-claude-video]] [[alirezarezvani-claude-skills]]
+[[kyutai-labs-pocket-tts]] [[hesreallyhim-awesome-claude-code]] [[bradautomates-claude-video]] [[mvanhorn-last30days-skill]]
 

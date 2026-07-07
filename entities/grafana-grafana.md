@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[karakeep-app-karakeep]] [[firecrawl-firecrawl]] [[alibaba-zvec]] [[zackriya-solutions-meetily]] [[facebook-astryx]]
+[[coreyhaines31-marketingskills]] [[safishamsi-graphify]] [[firecrawl-firecrawl]] [[karakeep-app-karakeep]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[data]] [[devops]]
 

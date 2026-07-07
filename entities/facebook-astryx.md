@@ -37,7 +37,7 @@ An open source design system that's fully customizable and agent ready
 
 ## 相关项目
 
-[[karakeep-app-karakeep]] [[firecrawl-firecrawl]] [[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[leonxlnx-taste-skill]]
+[[tencentcloud-cubesandbox]] [[firecrawl-firecrawl]] [[dotnet-skills]] [[karakeep-app-karakeep]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[ai-agent]]
 

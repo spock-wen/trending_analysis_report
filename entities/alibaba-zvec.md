@@ -36,7 +36,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[opentoonz-opentoonz]] [[opencv-opencv]] [[zackriya-solutions-meetily]] [[safishamsi-graphify]] [[coreyhaines31-marketingskills]]
+[[coreyhaines31-marketingskills]] [[opencv-opencv]] [[safishamsi-graphify]] [[zackriya-solutions-meetily]] [[godotengine-godot]]
 
 **所属领域**: [[data]]
 

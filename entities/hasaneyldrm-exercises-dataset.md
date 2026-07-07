@@ -36,7 +36,7 @@ A comprehensive dataset of 433 fitness exercises. Each entry includes name, cate
 
 ## 相关项目
 
-[[revfactory-harness]] [[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[alibaba-zvec]] [[mvanhorn-last30days-skill]]
+[[coreyhaines31-marketingskills]] [[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[firecrawl-firecrawl]] [[dotnet-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

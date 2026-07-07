@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[karakeep-app-karakeep]] [[santifer-career-ops]] [[openai-codex-plugin-cc]] [[mvanhorn-last30days-skill]]
+[[leonxlnx-taste-skill]] [[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[dotnet-skills]] [[karakeep-app-karakeep]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

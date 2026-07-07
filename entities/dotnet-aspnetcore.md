@@ -34,7 +34,7 @@ ASP.NET Core is a cross-platform .NET framework for building modern cloud-based 
 
 ## 相关项目
 
-[[coplaydev-unity-mcp]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[dotnet-skills]]
+[[iofficeai-officecli]] [[coplaydev-unity-mcp]] [[firecrawl-firecrawl]] [[dotnet-skills]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[web]]
 

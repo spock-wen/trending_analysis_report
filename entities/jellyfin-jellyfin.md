@@ -34,5 +34,5 @@ The Free Software Media System - Server Backend & API
 
 ## 相关项目
 
-[[dotnet-aspnetcore]] [[itsfatduck-optimizerduck]] [[dotnet-skills]] [[coplaydev-unity-mcp]]
+[[iofficeai-officecli]] [[dotnet-skills]] [[dotnet-aspnetcore]] [[coplaydev-unity-mcp]]
 

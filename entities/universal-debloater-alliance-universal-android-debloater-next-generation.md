@@ -36,7 +36,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[karakeep-app-karakeep]] [[santifer-career-ops]] [[zackriya-solutions-meetily]] [[tencentcloud-cubesandbox]] [[safishamsi-graphify]]
+[[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[affaan-m-ecc]] [[ogulcancelik-herdr]] [[veracrypt-veracrypt]]
 
 **所属领域**: [[security]] [[image-gen]]
 

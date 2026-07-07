@@ -38,7 +38,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[safishamsi-graphify]] [[anthropics-claude-code]] [[bradautomates-claude-video]]
+[[kyutai-labs-pocket-tts]] [[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[affaan-m-ecc]] [[hesreallyhim-awesome-claude-code]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

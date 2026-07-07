@@ -38,7 +38,7 @@ Collection of publicly available IPTV channels from all over the world
 
 ## 相关项目
 
-[[karakeep-app-karakeep]] [[firecrawl-firecrawl]] [[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[facebook-astryx]]
+[[tencentcloud-cubesandbox]] [[firecrawl-firecrawl]] [[dotnet-skills]] [[karakeep-app-karakeep]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[ai-agent]]
 

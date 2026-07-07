@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[yairm210-unciv]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[alibaba-page-agent]]
+[[bannedbook-fanqiang]] [[firecrawl-firecrawl]] [[zackriya-solutions-meetily]] [[mvanhorn-last30days-skill]] [[ahmadibrahiim-website-downloader]]
 
 **所属领域**: [[web]]
 

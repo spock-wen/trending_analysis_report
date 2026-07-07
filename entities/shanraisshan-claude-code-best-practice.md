@@ -35,7 +35,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[revfactory-harness]] [[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]]
+[[hasaneyldrm-exercises-dataset]] [[tencentcloud-cubesandbox]] [[firecrawl-firecrawl]] [[dotnet-skills]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

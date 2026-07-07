@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[zackriya-solutions-meetily]] [[tencentcloud-cubesandbox]] [[mvanhorn-last30days-skill]] [[anthropics-claude-code]]
+[[iofficeai-officecli]] [[tencentcloud-cubesandbox]] [[ogulcancelik-herdr]] [[dotnet-skills]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

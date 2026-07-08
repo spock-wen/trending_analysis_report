@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[karakeep-app-karakeep]] [[zackriya-solutions-meetily]] [[alibaba-page-agent]] [[madslorentzen-ai-job-search]]
+[[madslorentzen-ai-job-search]] [[mvanhorn-last30days-skill]] [[prisma-prisma]] [[tencentcloud-tencentdb-agent-memory]] [[wonderwhy-er-desktopcommandermcp]]
 
 **所属领域**: [[web]]
 

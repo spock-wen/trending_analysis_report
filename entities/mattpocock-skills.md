@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[iofficeai-officecli]] [[0xnyk-council-of-high-intelligence]] [[tencentcloud-cubesandbox]] [[obra-superpowers]] [[dotnet-skills]]
+[[0xnyk-council-of-high-intelligence]] [[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]] [[addyosmani-agent-skills]] [[tencentcloud-cubesandbox]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

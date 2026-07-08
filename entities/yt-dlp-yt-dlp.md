@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[kyutai-labs-pocket-tts]] [[iofficeai-officecli]] [[altic-dev-fluidvoice]] [[hesreallyhim-awesome-claude-code]] [[ogulcancelik-herdr]]
+[[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]] [[bradautomates-claude-video]] [[hugohe3-ppt-master]] [[wonderwhy-er-desktopcommandermcp]]
 
 **所属领域**: [[cli]] [[audio]]
 

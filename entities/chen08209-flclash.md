@@ -34,7 +34,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[iofficeai-officecli]] [[ogulcancelik-herdr]] [[flutter-flutter]] [[alirezarezvani-claude-skills]] [[anthropics-claude-code]]
+[[flutter-flutter]] [[ogulcancelik-herdr]] [[wonderwhy-er-desktopcommandermcp]] [[iofficeai-officecli]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

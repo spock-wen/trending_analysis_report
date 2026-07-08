@@ -34,7 +34,7 @@ Write HTML. Render video. Built for agents.
 
 ## 相关项目
 
-[[tencentcloud-cubesandbox]] [[firecrawl-firecrawl]] [[dotnet-skills]] [[karakeep-app-karakeep]] [[zackriya-solutions-meetily]]
+[[madslorentzen-ai-job-search]] [[mvanhorn-last30days-skill]] [[prisma-prisma]] [[addyosmani-agent-skills]] [[ahmadibrahiim-website-downloader]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

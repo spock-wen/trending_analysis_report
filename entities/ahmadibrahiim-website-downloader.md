@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[safishamsi-graphify]] [[firecrawl-firecrawl]] [[karakeep-app-karakeep]] [[zackriya-solutions-meetily]]
+[[mvanhorn-last30days-skill]] [[prisma-prisma]] [[ripienaar-free-for-dev]] [[hasaneyldrm-exercises-dataset]] [[karakeep-app-karakeep]]
 
 **所属领域**: [[web]] [[image-gen]]
 

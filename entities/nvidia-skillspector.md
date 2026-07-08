@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[kyutai-labs-pocket-tts]] [[tencentcloud-cubesandbox]] [[affaan-m-ecc]] [[hesreallyhim-awesome-claude-code]] [[dotnet-skills]]
+[[mvanhorn-last30days-skill]] [[veracrypt-veracrypt]] [[bradautomates-claude-video]] [[addyosmani-agent-skills]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

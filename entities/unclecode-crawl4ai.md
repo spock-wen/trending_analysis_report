@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[kyutai-labs-pocket-tts]] [[tencentcloud-cubesandbox]] [[firecrawl-firecrawl]] [[hesreallyhim-awesome-claude-code]] [[dotnet-skills]]
+[[mvanhorn-last30days-skill]] [[bradautomates-claude-video]] [[addyosmani-agent-skills]] [[zackriya-solutions-meetily]] [[ahmadibrahiim-website-downloader]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

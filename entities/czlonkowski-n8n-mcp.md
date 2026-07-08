@@ -35,7 +35,7 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ## 相关项目
 
-[[tencentcloud-cubesandbox]] [[firecrawl-firecrawl]] [[dotnet-skills]] [[karakeep-app-karakeep]] [[zackriya-solutions-meetily]]
+[[madslorentzen-ai-job-search]] [[mvanhorn-last30days-skill]] [[prisma-prisma]] [[addyosmani-agent-skills]] [[tencentcloud-cubesandbox]]
 
 **所属领域**: [[ai-agent]]
 

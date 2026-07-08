@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[firecrawl-firecrawl]] [[dotnet-skills]] [[karakeep-app-karakeep]]
+[[madslorentzen-ai-job-search]] [[mvanhorn-last30days-skill]] [[ruvnet-ruview]] [[prisma-prisma]] [[argoproj-argo-cd]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

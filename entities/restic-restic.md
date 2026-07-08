@@ -34,5 +34,5 @@ Fast, secure, efficient backup program
 
 ## 相关项目
 
-[[kunchenguid-no-mistakes]] [[gastownhall-gastown]] [[kenn-io-agentsview]] [[icewhaletech-casaos]]
+[[gastownhall-gastown]] [[icewhaletech-casaos]] [[argoproj-argo-cd]] [[kunchenguid-no-mistakes]]
 

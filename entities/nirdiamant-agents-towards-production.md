@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[owainlewis-awesome-artificial-intelligence]] [[stefan-jansen-machine-learning-for-trading]] [[tencentcloud-cubesandbox]] [[alirezarezvani-claude-skills]] [[byoungd-english-level-up-tips]]
+[[mvanhorn-last30days-skill]] [[ruvnet-ruview]] [[argoproj-argo-cd]] [[addyosmani-agent-skills]] [[freecodecamp-freecodecamp]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

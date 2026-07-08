@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[iofficeai-officecli]] [[tencentcloud-cubesandbox]] [[coplaydev-unity-mcp]] [[zackriya-solutions-meetily]] [[addyosmani-agent-skills]]
+[[mvanhorn-last30days-skill]] [[coplaydev-unity-mcp]] [[addyosmani-agent-skills]] [[tencentcloud-cubesandbox]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[ai-agent]]
 

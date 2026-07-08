@@ -34,5 +34,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[alibaba-page-agent]] [[madslorentzen-ai-job-search]] [[karakeep-app-karakeep]] [[firecrawl-firecrawl]]
+[[madslorentzen-ai-job-search]] [[tencentcloud-tencentdb-agent-memory]] [[wonderwhy-er-desktopcommandermcp]] [[prisma-prisma]]
 

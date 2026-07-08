@@ -34,7 +34,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[tencentcloud-cubesandbox]] [[hesreallyhim-awesome-claude-code]] [[alirezarezvani-claude-skills]] [[santifer-career-ops]] [[langflow-ai-langflow]]
+[[mvanhorn-last30days-skill]] [[karakeep-app-karakeep]] [[obra-superpowers]] [[tencentcloud-tencentdb-agent-memory]] [[wonderwhy-er-desktopcommandermcp]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

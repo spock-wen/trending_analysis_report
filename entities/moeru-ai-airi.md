@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[kyutai-labs-pocket-tts]] [[tencentcloud-cubesandbox]] [[firecrawl-firecrawl]] [[dotnet-skills]] [[altic-dev-fluidvoice]]
+[[madslorentzen-ai-job-search]] [[mvanhorn-last30days-skill]] [[prisma-prisma]] [[addyosmani-agent-skills]] [[ahmadibrahiim-website-downloader]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

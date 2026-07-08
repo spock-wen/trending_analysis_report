@@ -35,7 +35,7 @@ Data Engineering Zoomcamp is a free 9-week course on building production-ready d
 
 ## 相关项目
 
-[[freecodecamp-freecodecamp]] [[owainlewis-awesome-artificial-intelligence]] [[stefan-jansen-machine-learning-for-trading]] [[lyogavin-airllm]] [[coreyhaines31-marketingskills]]
+[[prisma-prisma]] [[freecodecamp-freecodecamp]] [[alibaba-zvec]] [[stefan-jansen-machine-learning-for-trading]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[data]] [[education]]
 

@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[plausible-analytics]] [[dotnet-skills]]
+[[mvanhorn-last30days-skill]] [[prisma-prisma]] [[addyosmani-agent-skills]] [[alibaba-zvec]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[affaan-m-ecc]] [[karakeep-app-karakeep]] [[zackriya-solutions-meetily]] [[alibaba-page-agent]]
+[[madslorentzen-ai-job-search]] [[veracrypt-veracrypt]] [[prisma-prisma]] [[keycloak-keycloak]] [[tencentcloud-tencentdb-agent-memory]]
 
 **所属领域**: [[security]]
 

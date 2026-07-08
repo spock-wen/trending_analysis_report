@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[firecrawl-firecrawl]] [[dotnet-skills]]
+[[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[addyosmani-agent-skills]] [[ripienaar-free-for-dev]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

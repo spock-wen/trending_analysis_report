@@ -34,7 +34,7 @@ AI-powered job application framework built on Claude Code. Fork it, fill in your
 
 ## 相关项目
 
-[[tencentcloud-cubesandbox]] [[firecrawl-firecrawl]] [[dotnet-skills]] [[karakeep-app-karakeep]] [[zackriya-solutions-meetily]]
+[[mvanhorn-last30days-skill]] [[prisma-prisma]] [[addyosmani-agent-skills]] [[tencentcloud-cubesandbox]] [[tencentcloud-tencentdb-agent-memory]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[safishamsi-graphify]] [[firecrawl-firecrawl]] [[langflow-ai-langflow]] [[zackriya-solutions-meetily]]
+[[mvanhorn-last30days-skill]] [[ruvnet-ruview]] [[argoproj-argo-cd]] [[hasaneyldrm-exercises-dataset]] [[shanraisshan-claude-code-best-practice]]
 
 **所属领域**: [[web]] [[devops]]
 

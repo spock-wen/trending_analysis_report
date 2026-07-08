@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[iofficeai-officecli]] [[firecrawl-firecrawl]] [[ogulcancelik-herdr]] [[karakeep-app-karakeep]] [[alirezarezvani-claude-skills]]
+[[madslorentzen-ai-job-search]] [[ogulcancelik-herdr]] [[prisma-prisma]] [[tencentcloud-tencentdb-agent-memory]] [[wonderwhy-er-desktopcommandermcp]]
 
 **所属领域**: [[cli]]
 

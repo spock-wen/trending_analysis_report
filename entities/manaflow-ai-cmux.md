@@ -36,7 +36,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[iofficeai-officecli]] [[tencentcloud-cubesandbox]] [[altic-dev-fluidvoice]] [[dotnet-skills]] [[ogulcancelik-herdr]]
+[[palmier-io-palmier-pro]] [[mvanhorn-last30days-skill]] [[steipete-codexbar]] [[ogulcancelik-herdr]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

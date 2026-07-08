@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[zackriya-solutions-meetily]] [[microsoft-powertoys]] [[deusdata-codebase-memory-mcp]] [[keycloak-keycloak]]
+[[keycloak-keycloak]] [[affaan-m-ecc]] [[deusdata-codebase-memory-mcp]] [[zackriya-solutions-meetily]] [[microsoft-powertoys]]
 
 **所属领域**: [[security]]
 

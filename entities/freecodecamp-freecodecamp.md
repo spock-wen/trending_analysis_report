@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[owainlewis-awesome-artificial-intelligence]] [[firecrawl-firecrawl]] [[karakeep-app-karakeep]] [[alibaba-page-agent]] [[madslorentzen-ai-job-search]]
+[[madslorentzen-ai-job-search]] [[prisma-prisma]] [[owainlewis-awesome-artificial-intelligence]] [[microsoft-ai-for-beginners]] [[tencentcloud-tencentdb-agent-memory]]
 
 **所属领域**: [[education]]
 

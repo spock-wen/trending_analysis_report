@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[iofficeai-officecli]] [[firecrawl-firecrawl]] [[ogulcancelik-herdr]] [[karakeep-app-karakeep]] [[zackriya-solutions-meetily]]
+[[madslorentzen-ai-job-search]] [[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]] [[prisma-prisma]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[cli]]
 

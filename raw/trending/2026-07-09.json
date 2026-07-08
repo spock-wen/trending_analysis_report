@@ -1,0 +1,134 @@
+{
+  "date": "2026-07-09",
+  "scraped_at": "2026-07-09T07:01:01.974786",
+  "period": "daily",
+  "count": 14,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": 1322,
+      "total_stars": 73926,
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "rank": 2,
+      "repo": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_today": 793,
+      "total_stars": 79101,
+      "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+      "rank": 3,
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "language": "TypeScript",
+      "stars_today": 351,
+      "total_stars": 7601,
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+    },
+    {
+      "rank": 4,
+      "repo": "prisma/prisma",
+      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "language": "TypeScript",
+      "stars_today": 30,
+      "total_stars": 46531,
+      "url": "https://github.com/prisma/prisma"
+    },
+    {
+      "rank": 5,
+      "repo": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_today": 373,
+      "total_stars": 50713,
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "rank": 6,
+      "repo": "argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars_today": 20,
+      "total_stars": 23416,
+      "url": "https://github.com/argoproj/argo-cd"
+    },
+    {
+      "rank": 7,
+      "repo": "iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars_today": 1712,
+      "total_stars": 11696,
+      "url": "https://github.com/iOfficeAI/OfficeCLI"
+    },
+    {
+      "rank": 9,
+      "repo": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": 1170,
+      "total_stars": 249776,
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "rank": 10,
+      "repo": "alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars_today": 370,
+      "total_stars": 14375,
+      "url": "https://github.com/alibaba/zvec"
+    },
+    {
+      "rank": 11,
+      "repo": "Diolinux/PhotoGIMP",
+      "description": "A Patch for GIMP 3+ for Photoshop Users",
+      "language": "CSS",
+      "stars_today": 916,
+      "total_stars": 15001,
+      "url": "https://github.com/Diolinux/PhotoGIMP"
+    },
+    {
+      "rank": 12,
+      "repo": "wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars_today": 20,
+      "total_stars": 6363,
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+    },
+    {
+      "rank": 13,
+      "repo": "huxingyi/autoremesher",
+      "description": "Automatic quad remeshing tool",
+      "language": "C++",
+      "stars_today": 292,
+      "total_stars": 1977,
+      "url": "https://github.com/huxingyi/autoremesher"
+    },
+    {
+      "rank": 14,
+      "repo": "bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars_today": 948,
+      "total_stars": 6012,
+      "url": "https://github.com/bradautomates/claude-video"
+    },
+    {
+      "rank": 15,
+      "repo": "TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Rust",
+      "stars_today": 555,
+      "total_stars": 8906,
+      "url": "https://github.com/TencentCloud/CubeSandbox"
+    }
+  ]
+}

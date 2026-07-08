@@ -37,7 +37,7 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[kyutai-labs-pocket-tts]] [[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[affaan-m-ecc]] [[hesreallyhim-awesome-claude-code]]
+[[mvanhorn-last30days-skill]] [[bradautomates-claude-video]] [[addyosmani-agent-skills]] [[alirezarezvani-claude-skills]] [[tencentcloud-cubesandbox]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

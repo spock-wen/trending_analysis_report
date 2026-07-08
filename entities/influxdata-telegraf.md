@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[kunchenguid-no-mistakes]] [[coreyhaines31-marketingskills]] [[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[dotnet-skills]]
+[[gastownhall-gastown]] [[mvanhorn-last30days-skill]] [[argoproj-argo-cd]] [[prisma-prisma]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

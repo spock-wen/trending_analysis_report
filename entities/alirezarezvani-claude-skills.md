@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[kyutai-labs-pocket-tts]] [[iofficeai-officecli]] [[tencentcloud-cubesandbox]] [[safishamsi-graphify]] [[obra-superpowers]]
+[[mvanhorn-last30days-skill]] [[safishamsi-graphify]] [[affaan-m-ecc]] [[ogulcancelik-herdr]] [[bradautomates-claude-video]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

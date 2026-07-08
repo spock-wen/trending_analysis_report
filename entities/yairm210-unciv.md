@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[tencentcloud-cubesandbox]] [[dotnet-skills]] [[zackriya-solutions-meetily]] [[addyosmani-agent-skills]]
+[[mvanhorn-last30days-skill]] [[bannedbook-fanqiang]] [[addyosmani-agent-skills]] [[pppscn-smsforwarder]] [[tencentcloud-cubesandbox]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[freecodecamp-freecodecamp]] [[kyutai-labs-pocket-tts]] [[owainlewis-awesome-artificial-intelligence]] [[tencentcloud-cubesandbox]] [[hesreallyhim-awesome-claude-code]]
+[[mvanhorn-last30days-skill]] [[bradautomates-claude-video]] [[addyosmani-agent-skills]] [[freecodecamp-freecodecamp]] [[tencentcloud-cubesandbox]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

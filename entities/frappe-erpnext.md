@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[kyutai-labs-pocket-tts]] [[iofficeai-officecli]] [[obra-superpowers]] [[hesreallyhim-awesome-claude-code]] [[alirezarezvani-claude-skills]]
+[[mvanhorn-last30days-skill]] [[bradautomates-claude-video]] [[alirezarezvani-claude-skills]] [[diolinux-photogimp]] [[iofficeai-officecli]]
 
 **所属领域**: [[erp]]
 

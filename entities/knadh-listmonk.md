@@ -34,7 +34,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[kunchenguid-no-mistakes]] [[tencentcloud-cubesandbox]] [[dotnet-skills]] [[gastownhall-gastown]] [[zackriya-solutions-meetily]]
+[[gastownhall-gastown]] [[mvanhorn-last30days-skill]] [[argoproj-argo-cd]] [[addyosmani-agent-skills]] [[kunchenguid-no-mistakes]]
 
 **所属领域**: [[ai-agent]]
 

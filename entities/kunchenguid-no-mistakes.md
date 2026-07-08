@@ -35,5 +35,5 @@ git push no-mistakes
 
 ## 相关项目
 
-[[kenn-io-agentsview]] [[gastownhall-gastown]] [[icewhaletech-casaos]]
+[[gastownhall-gastown]] [[icewhaletech-casaos]] [[argoproj-argo-cd]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[kyutai-labs-pocket-tts]] [[iofficeai-officecli]] [[tencentcloud-cubesandbox]] [[affaan-m-ecc]] [[hesreallyhim-awesome-claude-code]]
+[[mvanhorn-last30days-skill]] [[veracrypt-veracrypt]] [[ogulcancelik-herdr]] [[bradautomates-claude-video]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

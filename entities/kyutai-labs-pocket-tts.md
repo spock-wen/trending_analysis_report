@@ -34,7 +34,7 @@ A TTS that fits in your CPU (and pocket)
 
 ## 相关项目
 
-[[tencentcloud-cubesandbox]] [[altic-dev-fluidvoice]] [[hesreallyhim-awesome-claude-code]] [[dotnet-skills]] [[hugohe3-ppt-master]]
+[[mvanhorn-last30days-skill]] [[bradautomates-claude-video]] [[addyosmani-agent-skills]] [[tencentcloud-cubesandbox]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

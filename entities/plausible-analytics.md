@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[safishamsi-graphify]] [[firecrawl-firecrawl]] [[affaan-m-ecc]] [[veracrypt-veracrypt]]
+[[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[veracrypt-veracrypt]] [[prisma-prisma]] [[alibaba-zvec]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

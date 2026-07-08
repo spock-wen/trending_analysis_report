@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[iofficeai-officecli]] [[tencentcloud-cubesandbox]] [[firecrawl-firecrawl]] [[ogulcancelik-herdr]] [[alirezarezvani-claude-skills]]
+[[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]] [[ruvnet-ruview]] [[obra-superpowers]] [[tencentcloud-cubesandbox]]
 
 **所属领域**: [[web]] [[cli]]
 

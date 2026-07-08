@@ -35,7 +35,7 @@ Gas Town - multi-agent workspace manager
 
 ## 相关项目
 
-[[kunchenguid-no-mistakes]] [[tencentcloud-cubesandbox]] [[dotnet-skills]] [[zackriya-solutions-meetily]] [[addyosmani-agent-skills]]
+[[mvanhorn-last30days-skill]] [[argoproj-argo-cd]] [[addyosmani-agent-skills]] [[kunchenguid-no-mistakes]] [[icewhaletech-casaos]]
 
 **所属领域**: [[ai-agent]]
 

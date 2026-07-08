@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[iofficeai-officecli]] [[firecrawl-firecrawl]] [[obra-superpowers]] [[karakeep-app-karakeep]] [[alirezarezvani-claude-skills]]
+[[madslorentzen-ai-job-search]] [[prisma-prisma]] [[alirezarezvani-claude-skills]] [[tencentcloud-tencentdb-agent-memory]] [[wonderwhy-er-desktopcommandermcp]]
 
 **所属领域**: [[erp]]
 

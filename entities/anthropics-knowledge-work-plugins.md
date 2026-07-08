@@ -38,7 +38,7 @@ Open source repository of plugins primarily intended for knowledge workers to us
 
 ## 相关项目
 
-[[kyutai-labs-pocket-tts]] [[tencentcloud-cubesandbox]] [[hesreallyhim-awesome-claude-code]] [[dotnet-skills]] [[zackriya-solutions-meetily]]
+[[mvanhorn-last30days-skill]] [[bradautomates-claude-video]] [[addyosmani-agent-skills]] [[tencentcloud-cubesandbox]] [[kyutai-labs-pocket-tts]]
 
 **所属领域**: [[ai-agent]]
 

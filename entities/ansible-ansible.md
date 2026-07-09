@@ -34,7 +34,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[ruvnet-ruview]] [[argoproj-argo-cd]] [[bradautomates-claude-video]] [[addyosmani-agent-skills]]
+[[diolinux-photogimp]] [[bradautomates-claude-video]] [[ruvnet-ruview]] [[mvanhorn-last30days-skill]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

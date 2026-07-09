@@ -34,7 +34,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[iofficeai-officecli]] [[ogulcancelik-herdr]] [[wonderwhy-er-desktopcommandermcp]] [[obra-superpowers]]
+[[obra-superpowers]] [[iofficeai-officecli]] [[ogulcancelik-herdr]] [[wonderwhy-er-desktopcommandermcp]]
 
 **所属领域**: [[cli]]
 

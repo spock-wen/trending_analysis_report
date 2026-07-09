@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[0xnyk-council-of-high-intelligence]] [[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]] [[addyosmani-agent-skills]] [[ahmadibrahiim-website-downloader]]
+[[mattpocock-skills]] [[diolinux-photogimp]] [[0xnyk-council-of-high-intelligence]] [[bradautomates-claude-video]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

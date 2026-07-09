@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]] [[prisma-prisma]] [[addyosmani-agent-skills]]
+[[prisma-prisma]] [[freecodecamp-freecodecamp]] [[madslorentzen-ai-job-search]] [[owainlewis-awesome-artificial-intelligence]] [[tencentcloud-tencentdb-agent-memory]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

@@ -37,7 +37,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]] [[ruvnet-ruview]] [[addyosmani-agent-skills]] [[zackriya-solutions-meetily]]
+[[ruvnet-ruview]] [[bradautomates-claude-video]] [[ogulcancelik-herdr]] [[addyosmani-agent-skills]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]]
 

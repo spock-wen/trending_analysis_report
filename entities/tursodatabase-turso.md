@@ -36,7 +36,7 @@ Turso is an in-process SQL database, compatible with SQLite.
 
 ## 相关项目
 
-[[ogulcancelik-herdr]] [[ruvnet-ruview]] [[prisma-prisma]] [[alibaba-zvec]] [[tencentcloud-cubesandbox]]
+[[prisma-prisma]] [[ruvnet-ruview]] [[alibaba-zvec]] [[tencentcloud-tencentdb-agent-memory]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[data]]
 

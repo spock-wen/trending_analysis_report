@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]] [[ahmadibrahiim-website-downloader]] [[wonderwhy-er-desktopcommandermcp]] [[diolinux-photogimp]]
+[[diolinux-photogimp]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[ogulcancelik-herdr]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[web]] [[cli]]
 

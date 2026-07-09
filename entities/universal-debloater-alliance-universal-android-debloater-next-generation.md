@@ -36,7 +36,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[veracrypt-veracrypt]] [[ogulcancelik-herdr]] [[ruvnet-ruview]] [[prisma-prisma]] [[karakeep-app-karakeep]]
+[[prisma-prisma]] [[ruvnet-ruview]] [[ogulcancelik-herdr]] [[safishamsi-graphify]] [[keycloak-keycloak]]
 
 **所属领域**: [[security]] [[image-gen]]
 

@@ -36,7 +36,7 @@ JavaScript in-page GUI agent. Control web interfaces with natural language.
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[mvanhorn-last30days-skill]] [[prisma-prisma]] [[addyosmani-agent-skills]] [[ahmadibrahiim-website-downloader]]
+[[prisma-prisma]] [[madslorentzen-ai-job-search]] [[tencentcloud-tencentdb-agent-memory]] [[bradautomates-claude-video]] [[diolinux-photogimp]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

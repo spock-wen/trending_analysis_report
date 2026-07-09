@@ -35,7 +35,7 @@ Find the local LLM that actually runs and performs best on your hardware. Ranked
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]] [[bradautomates-claude-video]] [[addyosmani-agent-skills]] [[tencentcloud-cubesandbox]]
+[[bradautomates-claude-video]] [[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]] [[addyosmani-agent-skills]] [[kyutai-labs-pocket-tts]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

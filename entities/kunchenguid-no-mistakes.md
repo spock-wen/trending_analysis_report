@@ -35,5 +35,5 @@ git push no-mistakes
 
 ## 相关项目
 
-[[gastownhall-gastown]] [[icewhaletech-casaos]] [[argoproj-argo-cd]]
+[[vxcontrol-pentagi]] [[argoproj-argo-cd]] [[icewhaletech-casaos]] [[gastownhall-gastown]]
 

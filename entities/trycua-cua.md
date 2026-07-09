@@ -34,7 +34,7 @@ Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[ruvnet-ruview]] [[argoproj-argo-cd]] [[addyosmani-agent-skills]] [[ripienaar-free-for-dev]]
+[[ansible-ansible]] [[diolinux-photogimp]] [[bradautomates-claude-video]] [[hasaneyldrm-exercises-dataset]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

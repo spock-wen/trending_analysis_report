@@ -35,7 +35,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[addyosmani-agent-skills]] [[ripienaar-free-for-dev]] [[hasaneyldrm-exercises-dataset]] [[ahmadibrahiim-website-downloader]]
+[[diolinux-photogimp]] [[bradautomates-claude-video]] [[hasaneyldrm-exercises-dataset]] [[mvanhorn-last30days-skill]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

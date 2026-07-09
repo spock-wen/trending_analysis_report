@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[ahmadibrahiim-website-downloader]] [[alirezarezvani-claude-skills]] [[iofficeai-officecli]] [[zackriya-solutions-meetily]]
+[[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[alirezarezvani-claude-skills]] [[unclecode-crawl4ai]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[erp]]
 

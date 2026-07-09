@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[veracrypt-veracrypt]] [[prisma-prisma]] [[keycloak-keycloak]] [[tencentcloud-tencentdb-agent-memory]]
+[[prisma-prisma]] [[madslorentzen-ai-job-search]] [[tencentcloud-tencentdb-agent-memory]] [[veracrypt-veracrypt]] [[keycloak-keycloak]]
 
 **所属领域**: [[security]]
 

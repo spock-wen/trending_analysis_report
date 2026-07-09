@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[gastownhall-gastown]] [[mvanhorn-last30days-skill]] [[kunchenguid-no-mistakes]] [[ahmadibrahiim-website-downloader]] [[icewhaletech-casaos]]
+[[icewhaletech-casaos]] [[diolinux-photogimp]] [[mvanhorn-last30days-skill]] [[gastownhall-gastown]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[web]]
 

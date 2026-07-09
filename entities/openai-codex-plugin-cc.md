@@ -38,7 +38,7 @@ Use Codex from Claude Code to review code or delegate tasks.
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[addyosmani-agent-skills]] [[tencentcloud-cubesandbox]] [[leonxlnx-taste-skill]] [[juliusbrussee-caveman]]
+[[bradautomates-claude-video]] [[leonxlnx-taste-skill]] [[addyosmani-agent-skills]] [[juliusbrussee-caveman]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]]
 

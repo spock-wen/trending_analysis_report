@@ -35,7 +35,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[prisma-prisma]] [[bradautomates-claude-video]] [[alibaba-zvec]] [[zackriya-solutions-meetily]]
+[[prisma-prisma]] [[tencentcloud-tencentdb-agent-memory]] [[bradautomates-claude-video]] [[alibaba-zvec]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[data]]
 

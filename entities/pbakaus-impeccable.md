@@ -34,7 +34,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[openai-codex-plugin-cc]] [[addyosmani-agent-skills]] [[tencentcloud-cubesandbox]] [[leonxlnx-taste-skill]]
+[[bradautomates-claude-video]] [[leonxlnx-taste-skill]] [[openai-codex-plugin-cc]] [[addyosmani-agent-skills]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]]
 

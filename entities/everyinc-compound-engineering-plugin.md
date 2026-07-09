@@ -38,7 +38,7 @@ Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[mvanhorn-last30days-skill]] [[prisma-prisma]] [[addyosmani-agent-skills]] [[tencentcloud-cubesandbox]]
+[[prisma-prisma]] [[madslorentzen-ai-job-search]] [[tencentcloud-tencentdb-agent-memory]] [[bradautomates-claude-video]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

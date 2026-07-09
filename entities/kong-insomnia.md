@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]] [[prisma-prisma]] [[obra-superpowers]]
+[[prisma-prisma]] [[madslorentzen-ai-job-search]] [[tencentcloud-tencentdb-agent-memory]] [[diolinux-photogimp]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]] [[cli]]
 

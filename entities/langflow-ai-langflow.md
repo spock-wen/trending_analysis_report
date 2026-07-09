@@ -34,7 +34,7 @@ Langflow is a powerful tool for building and deploying AI-powered agents and wor
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[ruvnet-ruview]] [[argoproj-argo-cd]] [[bradautomates-claude-video]] [[addyosmani-agent-skills]]
+[[ansible-ansible]] [[ruvnet-ruview]] [[bradautomates-claude-video]] [[mvanhorn-last30days-skill]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

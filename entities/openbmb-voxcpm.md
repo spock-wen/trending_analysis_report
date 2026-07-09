@@ -38,7 +38,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[prisma-prisma]] [[bradautomates-claude-video]] [[karakeep-app-karakeep]] [[hugohe3-ppt-master]]
+[[prisma-prisma]] [[hugohe3-ppt-master]] [[altic-dev-fluidvoice]] [[bradautomates-claude-video]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

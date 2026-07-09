@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[veracrypt-veracrypt]] [[prisma-prisma]] [[alibaba-zvec]]
+[[prisma-prisma]] [[diolinux-photogimp]] [[alibaba-zvec]] [[teslamate-org-teslamate]] [[tencentcloud-tencentdb-agent-memory]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

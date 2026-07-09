@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[tencentcloud-cubesandbox]] [[obra-superpowers]]
+[[bradautomates-claude-video]] [[addyosmani-agent-skills]] [[unclecode-crawl4ai]] [[anthropics-claude-cookbooks]]
 
 **所属领域**: [[ai-agent]]
 

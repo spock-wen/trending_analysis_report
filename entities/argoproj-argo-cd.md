@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[gastownhall-gastown]] [[ruvnet-ruview]] [[kunchenguid-no-mistakes]] [[icewhaletech-casaos]] [[ansible-ansible]]
+[[ansible-ansible]] [[icewhaletech-casaos]] [[ruvnet-ruview]] [[gastownhall-gastown]] [[safishamsi-graphify]]
 
 **所属领域**: [[devops]]
 

@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[huxingyi-autoremesher]] [[prisma-prisma]] [[opencv-opencv]] [[tencentcloud-tencentdb-agent-memory]] [[godotengine-godot]]
+[[prisma-prisma]] [[tencentcloud-tencentdb-agent-memory]] [[opencv-opencv]] [[godotengine-godot]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[data]]
 

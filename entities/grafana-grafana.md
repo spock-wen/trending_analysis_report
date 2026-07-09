@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[ruvnet-ruview]] [[prisma-prisma]] [[alibaba-zvec]] [[ansible-ansible]]
+[[prisma-prisma]] [[ansible-ansible]] [[madslorentzen-ai-job-search]] [[tencentcloud-tencentdb-agent-memory]] [[alibaba-zvec]]
 
 **所属领域**: [[data]] [[devops]]
 

@@ -35,5 +35,5 @@ Open source alternative to Semrush and Ahrefs
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[tencentcloud-tencentdb-agent-memory]] [[wonderwhy-er-desktopcommandermcp]] [[prisma-prisma]]
+[[prisma-prisma]] [[wonderwhy-er-desktopcommandermcp]] [[tencentcloud-tencentdb-agent-memory]] [[madslorentzen-ai-job-search]]
 

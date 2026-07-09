@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[bradautomates-claude-video]] [[addyosmani-agent-skills]] [[freecodecamp-freecodecamp]] [[tencentcloud-cubesandbox]]
+[[freecodecamp-freecodecamp]] [[owainlewis-awesome-artificial-intelligence]] [[bradautomates-claude-video]] [[mvanhorn-last30days-skill]] [[byoungd-english-level-up-tips]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

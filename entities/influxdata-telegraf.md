@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[gastownhall-gastown]] [[mvanhorn-last30days-skill]] [[argoproj-argo-cd]] [[prisma-prisma]] [[addyosmani-agent-skills]]
+[[prisma-prisma]] [[icewhaletech-casaos]] [[tencentcloud-tencentdb-agent-memory]] [[bradautomates-claude-video]] [[alibaba-zvec]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[bradautomates-claude-video]] [[zackriya-solutions-meetily]] [[diolinux-photogimp]] [[kyutai-labs-pocket-tts]]
+[[diolinux-photogimp]] [[bradautomates-claude-video]] [[mvanhorn-last30days-skill]] [[kyutai-labs-pocket-tts]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[web]]
 

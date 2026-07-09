@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]] [[bradautomates-claude-video]] [[addyosmani-agent-skills]] [[zackriya-solutions-meetily]]
+[[diolinux-photogimp]] [[bradautomates-claude-video]] [[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

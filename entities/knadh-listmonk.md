@@ -34,7 +34,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[gastownhall-gastown]] [[mvanhorn-last30days-skill]] [[argoproj-argo-cd]] [[addyosmani-agent-skills]] [[kunchenguid-no-mistakes]]
+[[icewhaletech-casaos]] [[bradautomates-claude-video]] [[gastownhall-gastown]] [[addyosmani-agent-skills]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[ruvnet-ruview]] [[argoproj-argo-cd]] [[hasaneyldrm-exercises-dataset]] [[shanraisshan-claude-code-best-practice]]
+[[ansible-ansible]] [[diolinux-photogimp]] [[ruvnet-ruview]] [[hasaneyldrm-exercises-dataset]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]] [[devops]]
 

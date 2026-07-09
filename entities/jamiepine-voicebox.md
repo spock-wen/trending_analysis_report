@@ -36,7 +36,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[mvanhorn-last30days-skill]] [[prisma-prisma]] [[addyosmani-agent-skills]] [[tencentcloud-cubesandbox]]
+[[prisma-prisma]] [[hugohe3-ppt-master]] [[madslorentzen-ai-job-search]] [[altic-dev-fluidvoice]] [[tencentcloud-tencentdb-agent-memory]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

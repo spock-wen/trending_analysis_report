@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[veracrypt-veracrypt]] [[ogulcancelik-herdr]] [[ruvnet-ruview]]
+[[prisma-prisma]] [[ruvnet-ruview]] [[bradautomates-claude-video]] [[diolinux-photogimp]] [[alibaba-zvec]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

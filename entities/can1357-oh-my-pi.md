@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]] [[prisma-prisma]] [[addyosmani-agent-skills]]
+[[prisma-prisma]] [[madslorentzen-ai-job-search]] [[tencentcloud-tencentdb-agent-memory]] [[bradautomates-claude-video]] [[diolinux-photogimp]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

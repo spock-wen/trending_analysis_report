@@ -37,7 +37,7 @@ Public repository for Agent Skills
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[bradautomates-claude-video]] [[addyosmani-agent-skills]] [[tencentcloud-cubesandbox]] [[kyutai-labs-pocket-tts]]
+[[bradautomates-claude-video]] [[mvanhorn-last30days-skill]] [[addyosmani-agent-skills]] [[kyutai-labs-pocket-tts]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[prisma-prisma]] [[bradautomates-claude-video]] [[addyosmani-agent-skills]] [[karakeep-app-karakeep]]
+[[prisma-prisma]] [[bradautomates-claude-video]] [[mvanhorn-last30days-skill]] [[addyosmani-agent-skills]] [[safishamsi-graphify]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[prisma-prisma]] [[alirezarezvani-claude-skills]] [[tencentcloud-tencentdb-agent-memory]] [[wonderwhy-er-desktopcommandermcp]]
+[[prisma-prisma]] [[madslorentzen-ai-job-search]] [[tencentcloud-tencentdb-agent-memory]] [[diolinux-photogimp]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[erp]]
 

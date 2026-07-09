@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[prisma-prisma]] [[addyosmani-agent-skills]] [[alibaba-zvec]] [[tencentcloud-cubesandbox]]
+[[prisma-prisma]] [[tencentcloud-tencentdb-agent-memory]] [[bradautomates-claude-video]] [[krahets-hello-algo]] [[elastic-elasticsearch]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

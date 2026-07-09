@@ -35,5 +35,5 @@ A self-hosted travel/trip planner with real-time collaboration, interactive maps
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[tencentcloud-tencentdb-agent-memory]] [[wonderwhy-er-desktopcommandermcp]] [[prisma-prisma]]
+[[prisma-prisma]] [[wonderwhy-er-desktopcommandermcp]] [[tencentcloud-tencentdb-agent-memory]] [[madslorentzen-ai-job-search]]
 

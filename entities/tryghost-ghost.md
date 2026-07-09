@@ -34,5 +34,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[leonxlnx-taste-skill]] [[openai-codex-plugin-cc]] [[juliusbrussee-caveman]]
+[[openai-codex-plugin-cc]] [[juliusbrussee-caveman]] [[leonxlnx-taste-skill]] [[addyosmani-agent-skills]]
 

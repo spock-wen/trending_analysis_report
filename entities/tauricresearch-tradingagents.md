@@ -34,7 +34,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[bradautomates-claude-video]] [[addyosmani-agent-skills]] [[alirezarezvani-claude-skills]] [[tencentcloud-cubesandbox]]
+[[bradautomates-claude-video]] [[mvanhorn-last30days-skill]] [[alirezarezvani-claude-skills]] [[addyosmani-agent-skills]] [[safishamsi-graphify]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

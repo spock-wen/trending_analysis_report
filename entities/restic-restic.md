@@ -34,5 +34,5 @@ Fast, secure, efficient backup program
 
 ## 相关项目
 
-[[gastownhall-gastown]] [[icewhaletech-casaos]] [[argoproj-argo-cd]] [[kunchenguid-no-mistakes]]
+[[vxcontrol-pentagi]] [[argoproj-argo-cd]] [[icewhaletech-casaos]] [[gastownhall-gastown]]
 

@@ -37,7 +37,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[addyosmani-agent-skills]] [[alirezarezvani-claude-skills]] [[tencentcloud-cubesandbox]] [[diolinux-photogimp]]
+[[diolinux-photogimp]] [[bradautomates-claude-video]] [[alirezarezvani-claude-skills]] [[addyosmani-agent-skills]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

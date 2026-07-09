@@ -35,5 +35,5 @@ Open Source Computer Vision Library
 
 ## 相关项目
 
-[[godotengine-godot]] [[huxingyi-autoremesher]] [[alibaba-zvec]]
+[[godotengine-godot]] [[alibaba-zvec]] [[huxingyi-autoremesher]]
 

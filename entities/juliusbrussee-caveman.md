@@ -37,7 +37,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[openai-codex-plugin-cc]] [[addyosmani-agent-skills]] [[tencentcloud-cubesandbox]] [[leonxlnx-taste-skill]]
+[[bradautomates-claude-video]] [[leonxlnx-taste-skill]] [[openai-codex-plugin-cc]] [[addyosmani-agent-skills]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]]
 

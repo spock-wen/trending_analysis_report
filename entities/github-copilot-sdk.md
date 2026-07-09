@@ -35,7 +35,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[addyosmani-agent-skills]] [[tencentcloud-cubesandbox]] [[keycloak-keycloak]] [[krahets-hello-algo]]
+[[bradautomates-claude-video]] [[krahets-hello-algo]] [[elastic-elasticsearch]] [[apache-maven]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

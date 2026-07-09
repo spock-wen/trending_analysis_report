@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[ruvnet-ruview]] [[argoproj-argo-cd]] [[addyosmani-agent-skills]] [[freecodecamp-freecodecamp]]
+[[ansible-ansible]] [[freecodecamp-freecodecamp]] [[owainlewis-awesome-artificial-intelligence]] [[ruvnet-ruview]] [[bradautomates-claude-video]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]] [[ruvnet-ruview]] [[obra-superpowers]] [[tencentcloud-cubesandbox]]
+[[ruvnet-ruview]] [[diolinux-photogimp]] [[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]] [[tencentcloud-cubesandbox]]
 
 **所属领域**: [[web]] [[cli]]
 

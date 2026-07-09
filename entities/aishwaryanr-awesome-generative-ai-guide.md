@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[addyosmani-agent-skills]] [[ripienaar-free-for-dev]] [[hasaneyldrm-exercises-dataset]]
+[[diolinux-photogimp]] [[bradautomates-claude-video]] [[hasaneyldrm-exercises-dataset]] [[mvanhorn-last30days-skill]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

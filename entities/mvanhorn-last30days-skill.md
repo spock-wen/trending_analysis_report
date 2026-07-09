@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[bradautomates-claude-video]] [[addyosmani-agent-skills]] [[zackriya-solutions-meetily]] [[ahmadibrahiim-website-downloader]]
+[[diolinux-photogimp]] [[bradautomates-claude-video]] [[alirezarezvani-claude-skills]] [[addyosmani-agent-skills]] [[safishamsi-graphify]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

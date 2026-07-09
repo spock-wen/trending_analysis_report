@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[palmier-io-palmier-pro]] [[mvanhorn-last30days-skill]] [[steipete-codexbar]] [[addyosmani-agent-skills]] [[tencentcloud-cubesandbox]]
+[[palmier-io-palmier-pro]] [[altic-dev-fluidvoice]] [[steipete-codexbar]] [[bradautomates-claude-video]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

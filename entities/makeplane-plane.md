@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[ogulcancelik-herdr]] [[prisma-prisma]] [[tencentcloud-tencentdb-agent-memory]] [[wonderwhy-er-desktopcommandermcp]]
+[[prisma-prisma]] [[madslorentzen-ai-job-search]] [[tencentcloud-tencentdb-agent-memory]] [[ogulcancelik-herdr]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

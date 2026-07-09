@@ -35,7 +35,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[addyosmani-agent-skills]] [[tencentcloud-cubesandbox]] [[stefan-jansen-machine-learning-for-trading]] [[microsoft-ai-for-beginners]]
+[[bradautomates-claude-video]] [[addyosmani-agent-skills]] [[nvidia-cosmos]] [[unclecode-crawl4ai]] [[anthropics-claude-cookbooks]]
 
 **所属领域**: [[ai-agent]]
 

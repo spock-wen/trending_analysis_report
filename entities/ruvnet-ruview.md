@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[ogulcancelik-herdr]] [[tencentcloud-cubesandbox]] [[ansible-ansible]] [[safishamsi-graphify]] [[zackriya-solutions-meetily]]
+[[ansible-ansible]] [[ogulcancelik-herdr]] [[safishamsi-graphify]] [[tencentcloud-cubesandbox]] [[argoproj-argo-cd]]
 
 **所属领域**: [[devops]]
 

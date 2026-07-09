@@ -35,7 +35,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[veracrypt-veracrypt]] [[bradautomates-claude-video]] [[zackriya-solutions-meetily]]
+[[diolinux-photogimp]] [[bradautomates-claude-video]] [[mvanhorn-last30days-skill]] [[alirezarezvani-claude-skills]] [[keycloak-keycloak]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

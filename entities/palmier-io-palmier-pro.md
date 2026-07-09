@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[steipete-codexbar]] [[addyosmani-agent-skills]] [[tencentcloud-cubesandbox]] [[altic-dev-fluidvoice]]
+[[altic-dev-fluidvoice]] [[steipete-codexbar]] [[bradautomates-claude-video]] [[apple-container]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[veracrypt-veracrypt]] [[krahets-hello-algo]] [[affaan-m-ecc]] [[apache-maven]] [[zackriya-solutions-meetily]]
+[[krahets-hello-algo]] [[elastic-elasticsearch]] [[apache-maven]] [[affaan-m-ecc]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[security]]
 

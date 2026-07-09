@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[prisma-prisma]] [[bradautomates-claude-video]] [[addyosmani-agent-skills]] [[karakeep-app-karakeep]]
+[[prisma-prisma]] [[hugohe3-ppt-master]] [[altic-dev-fluidvoice]] [[bradautomates-claude-video]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

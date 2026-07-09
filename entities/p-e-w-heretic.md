@@ -35,5 +35,5 @@ Fully automatic censorship removal for language models
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[kyutai-labs-pocket-tts]] [[hesreallyhim-awesome-claude-code]] [[bradautomates-claude-video]]
+[[kyutai-labs-pocket-tts]] [[bradautomates-claude-video]] [[mvanhorn-last30days-skill]] [[unclecode-crawl4ai]]
 

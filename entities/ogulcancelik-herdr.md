@@ -38,7 +38,7 @@ agent multiplexer that lives in your terminal.
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[ruvnet-ruview]] [[addyosmani-agent-skills]] [[tencentcloud-cubesandbox]] [[wonderwhy-er-desktopcommandermcp]]
+[[ruvnet-ruview]] [[bradautomates-claude-video]] [[addyosmani-agent-skills]] [[tencentcloud-cubesandbox]] [[iofficeai-officecli]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

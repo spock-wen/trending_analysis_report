@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[prisma-prisma]] [[ripienaar-free-for-dev]] [[hasaneyldrm-exercises-dataset]] [[karakeep-app-karakeep]]
+[[prisma-prisma]] [[diolinux-photogimp]] [[hasaneyldrm-exercises-dataset]] [[mvanhorn-last30days-skill]] [[safishamsi-graphify]]
 
 **所属领域**: [[web]] [[image-gen]]
 

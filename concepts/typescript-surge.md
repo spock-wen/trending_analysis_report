@@ -1,7 +1,7 @@
 ---
 title: "TypeScript Ecosystem Surge"
 created: 2026-06-08
-updated: 2026-07-09
+updated: 2026-07-10
 type: concept
 tags: [typescript, surge]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 信号概述
 
-2026-07-09 检测到 TypeScript 领域有 3 个项目同时上榜，表明该语言生态近期活跃度显著上升。
+2026-07-10 检测到 TypeScript 领域有 3 个项目同时上榜，表明该语言生态近期活跃度显著上升。
 
 ## 上榜项目（3 个）
 
-[[tencentcloud-tencentdb-agent-memory]] [[prisma-prisma]] [[wonderwhy-er-desktopcommandermcp]]
+[[madslorentzen-ai-job-search]] [[wonderwhy-er-desktopcommandermcp]] [[prisma-prisma]]
 
 ## 语言分布
 

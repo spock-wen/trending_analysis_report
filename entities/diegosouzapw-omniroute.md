@@ -35,7 +35,7 @@ Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), con
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]] [[prisma-prisma]] [[addyosmani-agent-skills]]
+[[prisma-prisma]] [[madslorentzen-ai-job-search]] [[tencentcloud-tencentdb-agent-memory]] [[bradautomates-claude-video]] [[ogulcancelik-herdr]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

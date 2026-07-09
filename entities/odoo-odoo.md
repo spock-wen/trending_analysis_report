@@ -35,7 +35,7 @@ Odoo. Open Source Apps To Grow Your Business.
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[bradautomates-claude-video]] [[alirezarezvani-claude-skills]] [[diolinux-photogimp]] [[iofficeai-officecli]]
+[[diolinux-photogimp]] [[bradautomates-claude-video]] [[mvanhorn-last30days-skill]] [[alirezarezvani-claude-skills]] [[kyutai-labs-pocket-tts]]
 
 **所属领域**: [[erp]]
 

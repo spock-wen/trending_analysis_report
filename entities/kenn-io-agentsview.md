@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[gastownhall-gastown]] [[mvanhorn-last30days-skill]] [[argoproj-argo-cd]] [[prisma-prisma]] [[addyosmani-agent-skills]]
+[[prisma-prisma]] [[icewhaletech-casaos]] [[tencentcloud-tencentdb-agent-memory]] [[bradautomates-claude-video]] [[alibaba-zvec]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

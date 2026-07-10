@@ -34,5 +34,5 @@ Fast, secure, efficient backup program
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[argoproj-argo-cd]] [[icewhaletech-casaos]] [[gastownhall-gastown]]
+[[hashicorp-terraform]] [[vxcontrol-pentagi]] [[argoproj-argo-cd]] [[tailscale-tailscale]]
 

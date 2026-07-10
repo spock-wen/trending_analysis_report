@@ -35,7 +35,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[bradautomates-claude-video]] [[lyogavin-airllm]] [[addyosmani-agent-skills]] [[nvidia-cosmos]] [[unclecode-crawl4ai]]
+[[obra-superpowers]] [[mattpocock-skills]] [[iofficeai-officecli]] [[addyosmani-agent-skills]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

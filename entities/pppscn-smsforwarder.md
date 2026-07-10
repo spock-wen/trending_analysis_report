@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[diolinux-photogimp]] [[mvanhorn-last30days-skill]] [[unclecode-crawl4ai]] [[yairm210-unciv]] [[andreknieriem-headunit-revived]]
+[[andreknieriem-headunit-revived]] [[diolinux-photogimp]] [[mvanhorn-last30days-skill]] [[bannedbook-fanqiang]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[web]]
 

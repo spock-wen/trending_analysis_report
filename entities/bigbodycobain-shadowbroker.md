@@ -35,7 +35,7 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[prisma-prisma]] [[tencentcloud-tencentdb-agent-memory]] [[bradautomates-claude-video]] [[alibaba-zvec]] [[mvanhorn-last30days-skill]]
+[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[prisma-prisma]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

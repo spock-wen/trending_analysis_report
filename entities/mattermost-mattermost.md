@@ -35,5 +35,5 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## 相关项目
 
-[[prisma-prisma]] [[wonderwhy-er-desktopcommandermcp]] [[tencentcloud-tencentdb-agent-memory]] [[madslorentzen-ai-job-search]]
+[[google-labs-code-stitch-skills]] [[wonderwhy-er-desktopcommandermcp]] [[tencentcloud-tencentdb-agent-memory]] [[microsoft-typescript]]
 

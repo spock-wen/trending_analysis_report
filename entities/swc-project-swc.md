@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[diolinux-photogimp]] [[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]] [[tencentcloud-cubesandbox]]
+[[diolinux-photogimp]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[oven-sh-bun]] [[tencentcloud-cubesandbox]]
 
 **所属领域**: [[web]]
 

@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[diolinux-photogimp]] [[bradautomates-claude-video]] [[hasaneyldrm-exercises-dataset]] [[mvanhorn-last30days-skill]] [[alirezarezvani-claude-skills]]
+[[obra-superpowers]] [[mattpocock-skills]] [[diolinux-photogimp]] [[hasaneyldrm-exercises-dataset]] [[shanraisshan-claude-code-best-practice]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

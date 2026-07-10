@@ -34,7 +34,7 @@ Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 
 ## 相关项目
 
-[[ansible-ansible]] [[diolinux-photogimp]] [[bradautomates-claude-video]] [[hasaneyldrm-exercises-dataset]] [[ruvnet-ruview]]
+[[obra-superpowers]] [[mattpocock-skills]] [[hashicorp-terraform]] [[diolinux-photogimp]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

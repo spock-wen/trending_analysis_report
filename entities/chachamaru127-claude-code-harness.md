@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[mattpocock-skills]] [[0xnyk-council-of-high-intelligence]] [[bradautomates-claude-video]] [[ogulcancelik-herdr]] [[addyosmani-agent-skills]]
+[[obra-superpowers]] [[mattpocock-skills]] [[msitarzewski-agency-agents]] [[iofficeai-officecli]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

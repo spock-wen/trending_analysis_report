@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[prisma-prisma]] [[bradautomates-claude-video]] [[mvanhorn-last30days-skill]] [[alirezarezvani-claude-skills]] [[addyosmani-agent-skills]]
+[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[mvanhorn-last30days-skill]] [[prisma-prisma]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

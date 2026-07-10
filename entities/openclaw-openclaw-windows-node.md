@@ -35,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[ogulcancelik-herdr]] [[coplaydev-unity-mcp]] [[obra-superpowers]] [[dotnet-skills]] [[iofficeai-officecli]]
+[[obra-superpowers]] [[mattpocock-skills]] [[smartlydressedgames-u3-sdk]] [[iofficeai-officecli]] [[dotnet-skills]]
 
 **所属领域**: [[cli]]
 

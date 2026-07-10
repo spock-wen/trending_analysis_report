@@ -34,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[coplaydev-unity-mcp]] [[keycloak-keycloak]] [[affaan-m-ecc]] [[dotnet-skills]]
+[[smartlydressedgames-u3-sdk]] [[zackriya-solutions-meetily]] [[veracrypt-veracrypt]] [[iofficeai-officecli]] [[dotnet-skills]]
 
 **所属领域**: [[security]]
 

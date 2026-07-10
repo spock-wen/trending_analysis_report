@@ -34,5 +34,5 @@ The Free Software Media System - Server Backend & API
 
 ## 相关项目
 
-[[dotnet-skills]] [[iofficeai-officecli]] [[smartlydressedgames-u3-sdk]] [[coplaydev-unity-mcp]]
+[[dotnet-skills]] [[coplaydev-unity-mcp]] [[smartlydressedgames-u3-sdk]] [[iofficeai-officecli]]
 

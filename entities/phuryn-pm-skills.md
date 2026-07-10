@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[bradautomates-claude-video]] [[ogulcancelik-herdr]] [[addyosmani-agent-skills]] [[unclecode-crawl4ai]] [[anthropics-claude-cookbooks]]
+[[obra-superpowers]] [[mattpocock-skills]] [[iofficeai-officecli]] [[addyosmani-agent-skills]] [[wonderwhy-er-desktopcommandermcp]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

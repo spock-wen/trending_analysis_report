@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[prisma-prisma]] [[ruvnet-ruview]] [[alibaba-zvec]] [[tencentcloud-tencentdb-agent-memory]] [[ogulcancelik-herdr]]
+[[zackriya-solutions-meetily]] [[oven-sh-bun]] [[prisma-prisma]] [[tencentcloud-tencentdb-agent-memory]] [[tencentcloud-cubesandbox]]
 
 **所属领域**: [[data]]
 

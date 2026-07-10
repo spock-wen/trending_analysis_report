@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[prisma-prisma]] [[bradautomates-claude-video]] [[mvanhorn-last30days-skill]] [[addyosmani-agent-skills]] [[safishamsi-graphify]]
+[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[prisma-prisma]] [[iofficeai-officecli]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[prisma-prisma]] [[madslorentzen-ai-job-search]] [[tencentcloud-tencentdb-agent-memory]] [[bradautomates-claude-video]] [[addyosmani-agent-skills]]
+[[obra-superpowers]] [[mattpocock-skills]] [[tencentcloud-tencentdb-agent-memory]] [[addyosmani-agent-skills]] [[iofficeai-officecli]]
 
 **所属领域**: [[ai-agent]]
 

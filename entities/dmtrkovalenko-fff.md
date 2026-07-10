@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[bradautomates-claude-video]] [[ogulcancelik-herdr]] [[addyosmani-agent-skills]] [[tencentcloud-cubesandbox]]
+[[obra-superpowers]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[oven-sh-bun]] [[tencentcloud-cubesandbox]]
 
 **所属领域**: [[ai-agent]]
 

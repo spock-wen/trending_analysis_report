@@ -37,7 +37,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ## 相关项目
 
-[[diolinux-photogimp]] [[bradautomates-claude-video]] [[alirezarezvani-claude-skills]] [[addyosmani-agent-skills]] [[unclecode-crawl4ai]]
+[[obra-superpowers]] [[mattpocock-skills]] [[diolinux-photogimp]] [[zeux-meshoptimizer]] [[iofficeai-officecli]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

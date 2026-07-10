@@ -37,7 +37,7 @@ Give Claude the ability to watch any video. /watch downloads, extracts frames, t
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[addyosmani-agent-skills]] [[kyutai-labs-pocket-tts]] [[unclecode-crawl4ai]] [[anthropics-claude-cookbooks]]
+[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[iofficeai-officecli]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

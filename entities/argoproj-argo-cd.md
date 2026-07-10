@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[ansible-ansible]] [[icewhaletech-casaos]] [[ruvnet-ruview]] [[gastownhall-gastown]] [[safishamsi-graphify]]
+[[hashicorp-terraform]] [[davila7-claude-code-templates]] [[ruvnet-ruview]] [[tailscale-tailscale]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[devops]]
 

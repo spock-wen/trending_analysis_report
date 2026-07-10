@@ -36,7 +36,7 @@ Lightning-Fast, On-Device, Multilingual TTS running natively via ONNX.
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[palmier-io-palmier-pro]] [[altic-dev-fluidvoice]] [[steipete-codexbar]] [[apple-container]]
+[[kyutai-labs-pocket-tts]] [[steipete-codexbar]] [[jamiepine-voicebox]] [[palmier-io-palmier-pro]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[audio]]
 

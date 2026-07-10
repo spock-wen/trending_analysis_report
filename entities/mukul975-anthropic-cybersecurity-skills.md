@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[bradautomates-claude-video]] [[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]] [[addyosmani-agent-skills]] [[zackriya-solutions-meetily]]
+[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[veracrypt-veracrypt]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

@@ -36,5 +36,5 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything.
 
 ## 相关项目
 
-[[kyutai-labs-pocket-tts]] [[bradautomates-claude-video]] [[mvanhorn-last30days-skill]] [[unclecode-crawl4ai]]
+[[bradautomates-claude-video]] [[davila7-claude-code-templates]] [[unclecode-crawl4ai]] [[kyutai-labs-pocket-tts]]
 

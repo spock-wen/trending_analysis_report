@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[diolinux-photogimp]] [[bradautomates-claude-video]] [[hasaneyldrm-exercises-dataset]] [[mvanhorn-last30days-skill]] [[addyosmani-agent-skills]]
+[[obra-superpowers]] [[mattpocock-skills]] [[diolinux-photogimp]] [[hasaneyldrm-exercises-dataset]] [[shanraisshan-claude-code-best-practice]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

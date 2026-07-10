@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[prisma-prisma]] [[tencentcloud-tencentdb-agent-memory]] [[bradautomates-claude-video]] [[alibaba-zvec]] [[mvanhorn-last30days-skill]]
+[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[prisma-prisma]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

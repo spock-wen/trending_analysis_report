@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[prisma-prisma]] [[tencentcloud-tencentdb-agent-memory]] [[opencv-opencv]] [[godotengine-godot]] [[zackriya-solutions-meetily]]
+[[abseil-abseil-cpp]] [[zackriya-solutions-meetily]] [[prisma-prisma]] [[tencentcloud-tencentdb-agent-memory]] [[chriskohlhoff-asio]]
 
 **所属领域**: [[data]]
 

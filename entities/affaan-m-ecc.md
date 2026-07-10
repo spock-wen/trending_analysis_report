@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[bradautomates-claude-video]] [[mvanhorn-last30days-skill]] [[leonxlnx-taste-skill]] [[openai-codex-plugin-cc]] [[addyosmani-agent-skills]]
+[[obra-superpowers]] [[mattpocock-skills]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[veracrypt-veracrypt]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

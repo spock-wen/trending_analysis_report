@@ -34,7 +34,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[prisma-prisma]] [[ansible-ansible]] [[madslorentzen-ai-job-search]] [[tencentcloud-tencentdb-agent-memory]] [[bradautomates-claude-video]]
+[[obra-superpowers]] [[mattpocock-skills]] [[hashicorp-terraform]] [[argoproj-argo-cd]] [[tencentcloud-tencentdb-agent-memory]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

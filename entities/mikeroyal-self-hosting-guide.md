@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[freecodecamp-freecodecamp]] [[owainlewis-awesome-artificial-intelligence]] [[diolinux-photogimp]] [[bradautomates-claude-video]] [[mvanhorn-last30days-skill]]
+[[obra-superpowers]] [[mattpocock-skills]] [[diolinux-photogimp]] [[freecodecamp-freecodecamp]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

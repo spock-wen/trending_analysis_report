@@ -35,7 +35,7 @@ Find the local LLM that actually runs and performs best on your hardware. Ranked
 
 ## 相关项目
 
-[[bradautomates-claude-video]] [[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]] [[addyosmani-agent-skills]] [[kyutai-labs-pocket-tts]]
+[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[iofficeai-officecli]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

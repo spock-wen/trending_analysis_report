@@ -35,7 +35,7 @@ Gas Town - multi-agent workspace manager
 
 ## 相关项目
 
-[[icewhaletech-casaos]] [[bradautomates-claude-video]] [[addyosmani-agent-skills]] [[vxcontrol-pentagi]] [[argoproj-argo-cd]]
+[[obra-superpowers]] [[mattpocock-skills]] [[hashicorp-terraform]] [[argoproj-argo-cd]] [[iofficeai-officecli]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[bradautomates-claude-video]] [[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]] [[kyutai-labs-pocket-tts]] [[unclecode-crawl4ai]]
+[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[iofficeai-officecli]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[cli]]
 

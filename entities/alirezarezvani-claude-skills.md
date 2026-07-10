@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[diolinux-photogimp]] [[bradautomates-claude-video]] [[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]] [[addyosmani-agent-skills]]
+[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[diolinux-photogimp]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

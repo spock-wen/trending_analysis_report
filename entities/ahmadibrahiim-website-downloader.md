@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[prisma-prisma]] [[diolinux-photogimp]] [[hasaneyldrm-exercises-dataset]] [[mvanhorn-last30days-skill]] [[safishamsi-graphify]]
+[[diolinux-photogimp]] [[hasaneyldrm-exercises-dataset]] [[shanraisshan-claude-code-best-practice]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[web]] [[image-gen]]
 

@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[prisma-prisma]] [[hugohe3-ppt-master]] [[madslorentzen-ai-job-search]] [[altic-dev-fluidvoice]] [[tencentcloud-tencentdb-agent-memory]]
+[[obra-superpowers]] [[mattpocock-skills]] [[kyutai-labs-pocket-tts]] [[diolinux-photogimp]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

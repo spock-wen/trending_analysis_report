@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[freecodecamp-freecodecamp]] [[bradautomates-claude-video]] [[byoungd-english-level-up-tips]] [[mvanhorn-last30days-skill]] [[addyosmani-agent-skills]]
+[[obra-superpowers]] [[mattpocock-skills]] [[freecodecamp-freecodecamp]] [[mvanhorn-last30days-skill]] [[iofficeai-officecli]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

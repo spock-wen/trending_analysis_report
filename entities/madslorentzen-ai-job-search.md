@@ -35,7 +35,7 @@ AI-powered job application framework built on Claude Code. Fork it, fill in your
 
 ## 相关项目
 
-[[prisma-prisma]] [[tencentcloud-tencentdb-agent-memory]] [[bradautomates-claude-video]] [[addyosmani-agent-skills]] [[unclecode-crawl4ai]]
+[[obra-superpowers]] [[mattpocock-skills]] [[tencentcloud-tencentdb-agent-memory]] [[addyosmani-agent-skills]] [[iofficeai-officecli]]
 
 **所属领域**: [[ai-agent]]
 

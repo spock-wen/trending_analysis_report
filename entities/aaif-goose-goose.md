@@ -36,7 +36,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[bradautomates-claude-video]] [[ogulcancelik-herdr]] [[addyosmani-agent-skills]] [[tencentcloud-cubesandbox]]
+[[obra-superpowers]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[oven-sh-bun]] [[tencentcloud-cubesandbox]]
 
 **所属领域**: [[ai-agent]]
 

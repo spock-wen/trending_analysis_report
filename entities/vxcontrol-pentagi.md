@@ -34,7 +34,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[icewhaletech-casaos]] [[bradautomates-claude-video]] [[gastownhall-gastown]] [[addyosmani-agent-skills]] [[argoproj-argo-cd]]
+[[obra-superpowers]] [[mattpocock-skills]] [[hashicorp-terraform]] [[argoproj-argo-cd]] [[iofficeai-officecli]]
 
 **所属领域**: [[ai-agent]]
 

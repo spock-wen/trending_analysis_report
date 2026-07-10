@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[bradautomates-claude-video]] [[alirezarezvani-claude-skills]] [[mvanhorn-last30days-skill]] [[safishamsi-graphify]] [[kyutai-labs-pocket-tts]]
+[[kyutai-labs-pocket-tts]] [[mvanhorn-last30days-skill]] [[davila7-claude-code-templates]] [[safishamsi-graphify]] [[affaan-m-ecc]]
 
 **所属领域**: [[science]]
 

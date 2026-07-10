@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[prisma-prisma]] [[madslorentzen-ai-job-search]] [[tencentcloud-tencentdb-agent-memory]] [[diolinux-photogimp]] [[mvanhorn-last30days-skill]]
+[[diolinux-photogimp]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[tencentcloud-tencentdb-agent-memory]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[web]]
 

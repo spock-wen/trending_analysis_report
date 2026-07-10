@@ -36,5 +36,5 @@ CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[argoproj-argo-cd]] [[gastownhall-gastown]]
+[[hashicorp-terraform]] [[vxcontrol-pentagi]] [[argoproj-argo-cd]] [[tailscale-tailscale]]
 

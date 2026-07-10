@@ -37,7 +37,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[bradautomates-claude-video]] [[leonxlnx-taste-skill]] [[openai-codex-plugin-cc]] [[addyosmani-agent-skills]] [[unclecode-crawl4ai]]
+[[obra-superpowers]] [[mattpocock-skills]] [[openai-codex-plugin-cc]] [[iofficeai-officecli]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]]
 

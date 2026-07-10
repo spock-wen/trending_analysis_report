@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[bradautomates-claude-video]] [[addyosmani-agent-skills]] [[unclecode-crawl4ai]] [[anthropics-claude-cookbooks]]
+[[obra-superpowers]] [[mattpocock-skills]] [[iofficeai-officecli]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

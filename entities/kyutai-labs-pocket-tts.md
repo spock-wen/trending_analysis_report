@@ -35,7 +35,7 @@ A TTS that fits in your CPU (and pocket)
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[altic-dev-fluidvoice]] [[bradautomates-claude-video]] [[mvanhorn-last30days-skill]] [[jamiepine-voicebox]]
+[[obra-superpowers]] [[mattpocock-skills]] [[jamiepine-voicebox]] [[iofficeai-officecli]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

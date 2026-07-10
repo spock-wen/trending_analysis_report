@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[ansible-ansible]] [[ruvnet-ruview]] [[bradautomates-claude-video]] [[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]]
+[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[hashicorp-terraform]] [[argoproj-argo-cd]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

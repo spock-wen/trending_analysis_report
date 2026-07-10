@@ -35,5 +35,5 @@ Cursor plugin specification and official plugins
 
 ## 相关项目
 
-[[prisma-prisma]] [[wonderwhy-er-desktopcommandermcp]] [[tencentcloud-tencentdb-agent-memory]] [[madslorentzen-ai-job-search]]
+[[google-labs-code-stitch-skills]] [[wonderwhy-er-desktopcommandermcp]] [[tencentcloud-tencentdb-agent-memory]] [[microsoft-typescript]]
 

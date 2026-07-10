@@ -34,7 +34,7 @@ AI generates a real, editable PowerPoint from any document — native shapes & a
 
 ## 相关项目
 
-[[prisma-prisma]] [[altic-dev-fluidvoice]] [[diolinux-photogimp]] [[bradautomates-claude-video]] [[mvanhorn-last30days-skill]]
+[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[diolinux-photogimp]] [[zeux-meshoptimizer]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[image-gen]] [[audio]]
 

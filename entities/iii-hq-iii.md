@@ -34,5 +34,5 @@ Effortlessly compose, extend, and observe every service in real-time for the fir
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[tencentcloud-cubesandbox]] [[zackriya-solutions-meetily]] [[ogulcancelik-herdr]]
+[[ruvnet-ruview]] [[zackriya-solutions-meetily]] [[tencentcloud-cubesandbox]] [[oven-sh-bun]]
 

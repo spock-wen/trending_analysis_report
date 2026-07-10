@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[icewhaletech-casaos]] [[diolinux-photogimp]] [[mvanhorn-last30days-skill]] [[gastownhall-gastown]] [[vxcontrol-pentagi]]
+[[hashicorp-terraform]] [[diolinux-photogimp]] [[mvanhorn-last30days-skill]] [[argoproj-argo-cd]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[web]]
 

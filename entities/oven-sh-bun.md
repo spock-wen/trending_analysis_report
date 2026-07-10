@@ -1,40 +1,41 @@
 ---
 title: "oven-sh/bun"
 created: 2026-05-16
-updated: 2026-05-18
-last_active: 2026-05-18
+updated: 2026-07-11
+last_active: 2026-07-11
 type: tool
-tags: [rust, rising]
-sources: [raw/trending/2026-05-18.json]
+tags: [rust]
+sources: [raw/trending/2026-07-11.json]
 confidence: high
-trending_count_daily: 3
+trending_count_daily: 4
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 3
+consecutive_days: 1
 first_trending: 2026-05-16
-last_trending: 2026-05-18
-peak_rank: 4
-total_stars: 90705
+last_trending: 2026-07-11
+peak_rank: 2
+total_stars: 94183
 language: "Rust"
 ---
 
 # oven-sh/bun
 
-Incredibly fast JavaScript runtime, bundler, test runner, and package manager all in one
+Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 - 语言: Rust
-- 上榜次数: 3 次
-- 连续上榜: 3 天
-- 最高排名: #4
+- 上榜次数: 4 次
+- 连续上榜: 1 天
+- 最高排名: #2
 - 链接: [oven-sh/bun](https://github.com/oven-sh/bun)
 
 ## 上榜历史
 
+  - 2026-07-11: #2, +307⭐
   - 2026-05-18: #4, +908⭐
   - 2026-05-17: #10, +448⭐
   - 2026-05-16: #10, +448⭐
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[tencentcloud-cubesandbox]] [[zackriya-solutions-meetily]] [[ogulcancelik-herdr]]
+[[ruvnet-ruview]] [[tencentcloud-cubesandbox]] [[zackriya-solutions-meetily]]
 

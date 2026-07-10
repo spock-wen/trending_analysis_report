@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[bradautomates-claude-video]] [[ogulcancelik-herdr]] [[addyosmani-agent-skills]] [[msitarzewski-agency-agents]]
+[[obra-superpowers]] [[mattpocock-skills]] [[msitarzewski-agency-agents]] [[iofficeai-officecli]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

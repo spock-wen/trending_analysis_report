@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[altic-dev-fluidvoice]] [[bradautomates-claude-video]] [[mvanhorn-last30days-skill]] [[ogulcancelik-herdr]]
+[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[jamiepine-voicebox]] [[iofficeai-officecli]]
 
 **所属领域**: [[cli]] [[audio]]
 

@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[freecodecamp-freecodecamp]] [[bradautomates-claude-video]] [[lyogavin-airllm]] [[byoungd-english-level-up-tips]] [[addyosmani-agent-skills]]
+[[obra-superpowers]] [[mattpocock-skills]] [[freecodecamp-freecodecamp]] [[owainlewis-awesome-artificial-intelligence]] [[byoungd-english-level-up-tips]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

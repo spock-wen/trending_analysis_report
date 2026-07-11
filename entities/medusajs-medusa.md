@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[obra-superpowers]] [[diolinux-photogimp]] [[zeux-meshoptimizer]] [[tencentcloud-tencentdb-agent-memory]] [[iofficeai-officecli]]
+[[iofficeai-officecli]] [[cypress-io-cypress]] [[diolinux-photogimp]] [[obra-superpowers]] [[prisma-prisma]]
 
 **所属领域**: [[erp]]
 

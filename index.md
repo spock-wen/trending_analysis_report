@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-07-11 | 总页面：334
+> 最后更新：2026-07-12 | 总页面：339
 
 ## Entities
 
@@ -10,7 +10,7 @@
 - [[666ghj-mirofish|MiroFish"]] — A Simple and Universal Swarm Intelligence Engine, Predicting...
 - [[aaif-goose-goose|goose"]] — an open source, extensible AI agent that goes beyond code su... 🔥
 - [[abseil-abseil-cpp|abseil-cpp"]] — Abseil Common Libraries (C++) 🆕
-- [[actions-checkout|checkout"]] — Action for checking out a repo 🆕
+- [[actions-checkout|checkout"]] — Action for checking out a repo
 - [[activeloopai-hivemind|hivemind"]] — One brain for all your agents
 - [[addyosmani-agent-skills|agent-skills"]] — Production-grade engineering skills for AI coding agents. 🔥
 - [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i...
@@ -84,6 +84,7 @@
 - [[d4vinci-scrapling|Scrapling"]] — 🕷️ An adaptive Web Scraping framework that handles everythin... 🔥
 - [[datatalksclub-data-engineering-zoomcamp|data-engineering-zoomcamp"]] — Data Engineering Zoomcamp is a free 9-week course on buildin... 🆕
 - [[davila7-claude-code-templates|claude-code-templates"]] — CLI tool for configuring and monitoring Claude Code 🆕
+- [[dayuanjiang-next-ai-draw-io|next-ai-draw-io"]] — A next.js web application that integrates AI capabilities wi... 🆕
 - [[dbt-labs-dbt-core|dbt-core"]] — dbt enables data analysts and engineers to transform their d...
 - [[deusdata-codebase-memory-mcp|codebase-memory-mcp"]] — High-performance code intelligence MCP server. Indexes codeb...
 - [[diegosouzapw-omniroute|OmniRoute"]] — Never stop coding. Free AI gateway: one endpoint, 231+ provi... 🆕
@@ -123,7 +124,7 @@
 - [[google-skills|skills"]] — Agent Skills for Google products and technologies
 - [[gorvgoyl-clone-wars|Clone-Wars"]] — 100+ open-source clones of popular sites like Airbnb, Amazon...
 - [[grafana-grafana|grafana"]] — The open and composable observability and data visualization...
-- [[grpc-grpc|grpc"]] — C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) 🆕
+- [[grpc-grpc|grpc"]] — C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [[hardikpandya-stop-slop|stop-slop"]] — A skill file for removing AI tells from prose 🔥
 - [[harry0703-moneyprinterturbo|MoneyPrinterTurbo"]] — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using...
 - [[hasaneyldrm-exercises-dataset|exercises-dataset"]] — A comprehensive dataset of 433 fitness exercises. Each entry... 🔥
@@ -134,6 +135,7 @@
 - [[hkuds-cli-anything|CLI-Anything"]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:... 🔥
 - [[hkuds-vibe-trading|Vibe-Trading"]] — "Vibe-Trading: Your Personal Trading Agent" 🔥
 - [[hkuds-vimax|ViMax"]] — "ViMax: Agentic Video Generation (Director, Screenwriter, Pr... 🆕
+- [[home-assistant-core|core"]] — 🏡 Open source home automation that puts local control and pr... 🆕
 - [[hugohe3-ppt-master|ppt-master"]] — AI generates a real, editable PowerPoint from any document —...
 - [[humanlayer-12-factor-agents|12-factor-agents"]] — What are the principles we can use to build LLM-powered soft... 🆕
 - [[hunxbyts-ghosttrack|GhostTrack"]] — Useful tool to track location or mobile number
@@ -151,7 +153,7 @@
 - [[itsfatduck-optimizerduck|optimizerDuck"]] — Free, open-source Windows optimization tool for performance,...
 - [[jamiepine-voicebox|voicebox"]] — The open-source AI voice studio. Clone, dictate, create. 🆕
 - [[jamwithai-production-agentic-rag-course|production-agentic-rag-course"]] — No description
-- [[jbeder-yaml-cpp|yaml-cpp"]] — A YAML parser and emitter in C++ 🆕
+- [[jbeder-yaml-cpp|yaml-cpp"]] — A YAML parser and emitter in C++
 - [[jcodesmore-ai-website-cloner-template|ai-website-cloner-template"]] — Clone any website with one command using AI coding agents 🔥
 - [[jellyfin-jellyfin|jellyfin"]] — The Free Software Media System - Server Backend & API
 - [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm"]] — Claude Skill: Multi-source content processor for NotebookLM. 🆕
@@ -183,6 +185,7 @@
 - [[lyogavin-airllm|airllm"]] — AirLLM 70B inference with single 4GB GPU
 - [[madslorentzen-ai-job-search|ai-job-search"]] — AI-powered job application framework built on Claude Code. F...
 - [[makeplane-plane|plane"]] — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternativ... 🆕
+- [[malisper-pgrust|pgrust"]] — Postgres rewritten in Rust, now passing 100% of the Postgres... 🆕
 - [[manaflow-ai-cmux|cmux"]] — Ghostty-based macOS terminal with vertical tabs and notifica... 🔥
 - [[masterking32-masterdnsvpn|MasterDnsVPN"]] — Advanced DNS tunneling VPN for censorship bypass, optimized ... 🔥
 - [[mattermost-mattermost|mattermost"]] — Mattermost is an open source platform for secure collaborati... 🆕
@@ -197,7 +200,7 @@
 - [[microsoft-ai-for-beginners|AI-For-Beginners"]] — 12 Weeks, 24 Lessons, AI for All! 🆕
 - [[microsoft-markitdown|markitdown"]] — Python tool for converting files and office documents to Mar... 🔥
 - [[microsoft-powertoys|PowerToys"]] — Microsoft PowerToys is a collection of utilities that superc...
-- [[microsoft-typescript|TypeScript"]] — TypeScript is a superset of JavaScript that compiles to clea... 🆕
+- [[microsoft-typescript|TypeScript"]] — TypeScript is a superset of JavaScript that compiles to clea...
 - [[mikeroyal-self-hosting-guide|Self-Hosting-Guide"]] — Self-Hosting Guide. Learn all about locally hosting (on prem...
 - [[mikumifa-bilitickerbuy|biliTickerBuy"]] — b站会员购购票辅助工具
 - [[moeru-ai-airi|airi"]] — 💖🧸 Self hosted, you-owned Grok Companion, a container of sou...
@@ -209,21 +212,23 @@
 - [[mvanhorn-last30days-skill|last30days-skill"]] — AI agent skill that researches any topic across Reddit, X, Y...
 - [[n0-computer-iroh|iroh"]] — IP addresses break, dial keys instead. Modular networking st... 🔥
 - [[nanmicoder-mediacrawler|MediaCrawler"]] — 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬... 🔥
+- [[nasa-fprime|fprime"]] — F´ - A flight software and embedded systems framework 🆕
 - [[nesquena-hermes-webui|hermes-webui"]] — Hermes WebUI: The best way to use Hermes Agent from the web ... 🔥
 - [[nicobailon-pi-subagents|pi-subagents"]] — Pi extension for async subagent delegation with truncation, ...
 - [[nirdiamant-agents-towards-production|agents-towards-production"]] — End-to-end, code-first tutorials for building production-gra...
 - [[nousresearch-hermes-agent|hermes-agent"]] — The agent that grows with you 🆕
+- [[nuxt-nuxt|nuxt"]] — the full-stack Vue framework 🆕
 - [[nvidia-ai-blueprints-video-search-and-summarization|video-search-and-summarization"]] — Suite of reference architectures for building GPU-accelerate... 🆕
 - [[nvidia-cosmos|cosmos"]] — NVIDIA Cosmos is an open platform of world models, datasets,... 🆕
 - [[nvidia-skillspector|SkillSpector"]] — Security scanner for AI agent skills. Detect vulnerabilities... 🔥
 - [[nvlabs-sana|Sana"]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
-- [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo...
+- [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo... 🆕
 - [[odoo-odoo|odoo"]] — Odoo. Open Source Apps To Grow Your Business.
 - [[ogulcancelik-herdr|herdr"]] — agent multiplexer that lives in your terminal. 🔥
 - [[open-dev-society-openstock|OpenStock"]] — OpenStock is an open-source alternative to expensive market ...
 - [[open-llm-vtuber-open-llm-vtuber|Open-LLM-VTuber"]] — Talk to any LLM with hands-free voice interaction, voice int... 🔥
 - [[openai-codex-plugin-cc|codex-plugin-cc"]] — Use Codex from Claude Code to review code or delegate tasks. 🔥
-- [[openai-plugins|plugins"]] — OpenAI Plugins 🔥
+- [[openai-plugins|plugins"]] — OpenAI Plugins
 - [[openbmb-voxcpm|VoxCPM"]] — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generati...
 - [[openclaw-openclaw-windows-node|openclaw-windows-node"]] — Windows companion suite for OpenClaw - System Tray app, Shar... 🆕
 - [[opencv-opencv|opencv"]] — Open Source Computer Vision Library
@@ -232,7 +237,7 @@
 - [[openmoss-moss-tts|MOSS-TTS"]] — MOSS‑TTS Family is an open‑source speech and sound generatio...
 - [[opentoonz-opentoonz|opentoonz"]] — OpenToonz - An open-source full-featured 2D animation creati...
 - [[othmanadi-planning-with-files|planning-with-files"]] — Persistent file-based planning for AI coding agents and long...
-- [[oven-sh-bun|bun"]] — Incredibly fast JavaScript runtime, bundler, test runner, an...
+- [[oven-sh-bun|bun"]] — Incredibly fast JavaScript runtime, bundler, test runner, an... 🆕
 - [[owainlewis-awesome-artificial-intelligence|awesome-artificial-intelligence"]] — A curated list of Artificial Intelligence (AI) courses, book...
 - [[p-e-w-heretic|heretic"]] — Fully automatic censorship removal for language models
 - [[paddlepaddle-paddleocr|PaddleOCR"]] — Turn any PDF or image document into structured data for your... 🆕
@@ -245,7 +250,7 @@
 - [[phuryn-pm-skills|pm-skills"]] — PM Skills Marketplace: 100+ agentic skills, commands, and pl... 🔥
 - [[plausible-analytics|analytics"]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
 - [[pppscn-smsforwarder|SmsForwarder"]] — 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内...
-- [[prisma-prisma|prisma"]] — Next-generation ORM for Node.js & TypeScript | PostgreSQL, M... 🆕
+- [[prisma-prisma|prisma"]] — Next-generation ORM for Node.js & TypeScript | PostgreSQL, M...
 - [[puppeteer-puppeteer|puppeteer"]] — JavaScript API for Chrome and Firefox
 - [[pytest-dev-pytest|pytest"]] — The pytest framework makes it easy to write small tests, yet...
 - [[pytorch-pytorch|pytorch"]] — Tensors and Dynamic neural networks in Python with strong GP... 🆕
@@ -284,7 +289,7 @@
 - [[supermemoryai-supermemory|supermemory"]] — Memory engine and app that is extremely fast, scalable. The ... 🔥
 - [[supertone-inc-supertonic|supertonic"]] — Lightning-Fast, On-Device, Multilingual TTS running natively...
 - [[swc-project-swc|swc"]] — Rust-based platform for the Web
-- [[tailscale-tailscale|tailscale"]] — The easiest, most secure way to use WireGuard and 2FA. 🆕
+- [[tailscale-tailscale|tailscale"]] — The easiest, most secure way to use WireGuard and 2FA.
 - [[tapxworld-chinatextbook|ChinaTextbook"]] — 所有小初高、大学PDF教材。
 - [[tauricresearch-tradingagents|TradingAgents"]] — TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [[tech-leads-club-agent-skills|agent-skills"]] — The secure, validated skill registry for professional AI cod... 🆕

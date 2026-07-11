@@ -38,7 +38,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[kyutai-labs-pocket-tts]] [[jamiepine-voicebox]] [[prisma-prisma]] [[karakeep-app-karakeep]] [[davila7-claude-code-templates]]
+[[unclecode-crawl4ai]] [[home-assistant-core]] [[davila7-claude-code-templates]] [[prisma-prisma]] [[jamiepine-voicebox]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

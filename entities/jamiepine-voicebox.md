@@ -36,7 +36,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[kyutai-labs-pocket-tts]] [[tencentcloud-tencentdb-agent-memory]] [[addyosmani-agent-skills]]
+[[anthropics-claude-cookbooks]] [[cypress-io-cypress]] [[obra-superpowers]] [[prisma-prisma]] [[kyutai-labs-pocket-tts]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

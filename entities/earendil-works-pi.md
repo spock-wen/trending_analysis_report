@@ -35,7 +35,7 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[diolinux-photogimp]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]]
+[[anthropics-claude-cookbooks]] [[google-labs-code-stitch-skills]] [[cypress-io-cypress]] [[obra-superpowers]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

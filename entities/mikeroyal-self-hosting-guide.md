@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[diolinux-photogimp]] [[freecodecamp-freecodecamp]] [[mvanhorn-last30days-skill]]
+[[anthropics-claude-cookbooks]] [[cypress-io-cypress]] [[freecodecamp-freecodecamp]] [[obra-superpowers]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

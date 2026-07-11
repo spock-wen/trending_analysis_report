@@ -35,5 +35,5 @@ git push no-mistakes
 
 ## 相关项目
 
-[[hashicorp-terraform]] [[vxcontrol-pentagi]] [[argoproj-argo-cd]] [[tailscale-tailscale]]
+[[argoproj-argo-cd]] [[hashicorp-terraform]] [[tailscale-tailscale]] [[vxcontrol-pentagi]]
 

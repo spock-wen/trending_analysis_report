@@ -37,7 +37,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[diolinux-photogimp]] [[mvanhorn-last30days-skill]]
+[[anthropics-claude-cookbooks]] [[unclecode-crawl4ai]] [[cypress-io-cypress]] [[home-assistant-core]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

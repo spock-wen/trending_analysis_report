@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[diolinux-photogimp]] [[hasaneyldrm-exercises-dataset]] [[shanraisshan-claude-code-best-practice]]
+[[shanraisshan-claude-code-best-practice]] [[alirezarezvani-claude-skills]] [[mvanhorn-last30days-skill]] [[anthropics-claude-cookbooks]] [[cypress-io-cypress]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

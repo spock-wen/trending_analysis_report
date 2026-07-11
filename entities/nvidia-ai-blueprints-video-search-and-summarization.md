@@ -35,7 +35,7 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[prisma-prisma]]
+[[alibaba-zvec]] [[zackriya-solutions-meetily]] [[anthropics-claude-cookbooks]] [[unclecode-crawl4ai]] [[home-assistant-core]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

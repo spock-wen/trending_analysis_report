@@ -35,7 +35,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[diolinux-photogimp]] [[hasaneyldrm-exercises-dataset]] [[mvanhorn-last30days-skill]]
+[[anthropics-claude-cookbooks]] [[cypress-io-cypress]] [[obra-superpowers]] [[dotnet-aspnetcore]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

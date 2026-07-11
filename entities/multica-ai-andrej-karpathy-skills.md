@@ -38,7 +38,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[iofficeai-officecli]] [[addyosmani-agent-skills]]
+[[ansible-ansible]] [[obra-superpowers]] [[anthropics-claude-cookbooks]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]]
 

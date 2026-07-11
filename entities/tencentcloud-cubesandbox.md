@@ -37,7 +37,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[oven-sh-bun]] [[iofficeai-officecli]]
+[[anthropics-claude-cookbooks]] [[oven-sh-bun]] [[obra-superpowers]] [[malisper-pgrust]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]]
 

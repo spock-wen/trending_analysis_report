@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[prisma-prisma]] [[tencentcloud-tencentdb-agent-memory]] [[addyosmani-agent-skills]]
+[[anthropics-claude-cookbooks]] [[cypress-io-cypress]] [[obra-superpowers]] [[prisma-prisma]] [[actions-checkout]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

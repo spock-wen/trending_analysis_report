@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[diolinux-photogimp]] [[mvanhorn-last30days-skill]]
+[[iofficeai-officecli]] [[mvanhorn-last30days-skill]] [[anthropics-claude-cookbooks]] [[google-labs-code-stitch-skills]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

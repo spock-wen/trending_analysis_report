@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[andreknieriem-headunit-revived]] [[diolinux-photogimp]] [[mvanhorn-last30days-skill]] [[bannedbook-fanqiang]] [[zackriya-solutions-meetily]]
+[[cypress-io-cypress]] [[dotnet-aspnetcore]] [[bannedbook-fanqiang]] [[ansible-ansible]] [[dayuanjiang-next-ai-draw-io]]
 
 **所属领域**: [[web]]
 

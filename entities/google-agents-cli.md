@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[hashicorp-terraform]] [[argoproj-argo-cd]]
+[[anthropics-claude-cookbooks]] [[google-labs-code-stitch-skills]] [[unclecode-crawl4ai]] [[home-assistant-core]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

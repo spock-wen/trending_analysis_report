@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[hashicorp-terraform]] [[argoproj-argo-cd]] [[zackriya-solutions-meetily]] [[oven-sh-bun]] [[tencentcloud-cubesandbox]]
+[[oven-sh-bun]] [[malisper-pgrust]] [[davila7-claude-code-templates]] [[hashicorp-terraform]] [[ansible-ansible]]
 
 **所属领域**: [[devops]]
 

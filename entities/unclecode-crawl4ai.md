@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[diolinux-photogimp]] [[mvanhorn-last30days-skill]]
+[[anthropics-claude-cookbooks]] [[cypress-io-cypress]] [[home-assistant-core]] [[obra-superpowers]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

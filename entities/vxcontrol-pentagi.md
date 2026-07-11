@@ -34,7 +34,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[hashicorp-terraform]] [[argoproj-argo-cd]] [[iofficeai-officecli]]
+[[anthropics-claude-cookbooks]] [[obra-superpowers]] [[hashicorp-terraform]] [[openai-plugins]] [[ansible-ansible]]
 
 **所属领域**: [[ai-agent]]
 

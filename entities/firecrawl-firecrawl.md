@@ -35,7 +35,7 @@ The API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[diolinux-photogimp]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[tencentcloud-tencentdb-agent-memory]] [[google-labs-code-stitch-skills]]
+[[cypress-io-cypress]] [[dotnet-aspnetcore]] [[prisma-prisma]] [[actions-checkout]] [[dayuanjiang-next-ai-draw-io]]
 
 **所属领域**: [[web]]
 

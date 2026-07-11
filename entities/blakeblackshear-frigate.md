@@ -35,5 +35,5 @@ NVR with realtime local object detection for IP cameras
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[wonderwhy-er-desktopcommandermcp]] [[tencentcloud-tencentdb-agent-memory]] [[microsoft-typescript]]
+[[prisma-prisma]] [[actions-checkout]] [[wonderwhy-er-desktopcommandermcp]] [[cypress-io-cypress]]
 

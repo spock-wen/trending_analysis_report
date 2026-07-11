@@ -35,5 +35,5 @@ Toolkit to help you get started with Spec-Driven Development
 
 ## 相关项目
 
-[[bradautomates-claude-video]] [[davila7-claude-code-templates]] [[unclecode-crawl4ai]] [[kyutai-labs-pocket-tts]]
+[[home-assistant-core]] [[davila7-claude-code-templates]] [[ansible-ansible]] [[unclecode-crawl4ai]]
 

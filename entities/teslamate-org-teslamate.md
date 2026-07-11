@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[prisma-prisma]] [[iofficeai-officecli]]
+[[alibaba-zvec]] [[zackriya-solutions-meetily]] [[anthropics-claude-cookbooks]] [[plausible-analytics]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -34,7 +34,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[iofficeai-officecli]] [[addyosmani-agent-skills]]
+[[ansible-ansible]] [[obra-superpowers]] [[anthropics-claude-cookbooks]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]]
 

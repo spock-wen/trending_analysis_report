@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[jamiepine-voicebox]] [[prisma-prisma]]
+[[anthropics-claude-cookbooks]] [[unclecode-crawl4ai]] [[home-assistant-core]] [[obra-superpowers]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

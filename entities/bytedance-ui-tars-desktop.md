@@ -34,7 +34,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[hashicorp-terraform]] [[argoproj-argo-cd]] [[tencentcloud-tencentdb-agent-memory]]
+[[anthropics-claude-cookbooks]] [[cypress-io-cypress]] [[obra-superpowers]] [[davila7-claude-code-templates]] [[prisma-prisma]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

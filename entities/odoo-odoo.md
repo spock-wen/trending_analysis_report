@@ -35,7 +35,7 @@ Odoo. Open Source Apps To Grow Your Business.
 
 ## 相关项目
 
-[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[diolinux-photogimp]] [[zeux-meshoptimizer]] [[iofficeai-officecli]]
+[[iofficeai-officecli]] [[unclecode-crawl4ai]] [[diolinux-photogimp]] [[home-assistant-core]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

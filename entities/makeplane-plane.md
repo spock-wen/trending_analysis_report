@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[tencentcloud-tencentdb-agent-memory]] [[iofficeai-officecli]] [[google-labs-code-stitch-skills]]
+[[google-labs-code-stitch-skills]] [[cypress-io-cypress]] [[obra-superpowers]] [[davila7-claude-code-templates]] [[prisma-prisma]]
 
 **所属领域**: [[cli]]
 

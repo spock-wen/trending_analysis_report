@@ -38,7 +38,7 @@ Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 ## 相关项目
 
-[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[iofficeai-officecli]] [[addyosmani-agent-skills]]
+[[anthropics-claude-cookbooks]] [[unclecode-crawl4ai]] [[home-assistant-core]] [[obra-superpowers]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]]
 

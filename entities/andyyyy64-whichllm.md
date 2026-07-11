@@ -35,7 +35,7 @@ Find the local LLM that actually runs and performs best on your hardware. Ranked
 
 ## 相关项目
 
-[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[iofficeai-officecli]] [[addyosmani-agent-skills]]
+[[anthropics-claude-cookbooks]] [[google-labs-code-stitch-skills]] [[unclecode-crawl4ai]] [[home-assistant-core]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

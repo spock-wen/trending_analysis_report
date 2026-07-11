@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[freecodecamp-freecodecamp]] [[owainlewis-awesome-artificial-intelligence]]
+[[anthropics-claude-cookbooks]] [[unclecode-crawl4ai]] [[freecodecamp-freecodecamp]] [[home-assistant-core]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

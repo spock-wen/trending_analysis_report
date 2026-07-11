@@ -35,5 +35,5 @@ Open source alternative to Semrush and Ahrefs
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[wonderwhy-er-desktopcommandermcp]] [[tencentcloud-tencentdb-agent-memory]] [[microsoft-typescript]]
+[[prisma-prisma]] [[actions-checkout]] [[wonderwhy-er-desktopcommandermcp]] [[cypress-io-cypress]]
 

@@ -35,7 +35,7 @@ Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate fa
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[tencentcloud-tencentdb-agent-memory]] [[addyosmani-agent-skills]] [[iofficeai-officecli]]
+[[anthropics-claude-cookbooks]] [[cypress-io-cypress]] [[obra-superpowers]] [[prisma-prisma]] [[actions-checkout]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[hashicorp-terraform]] [[diolinux-photogimp]] [[mvanhorn-last30days-skill]] [[argoproj-argo-cd]] [[zackriya-solutions-meetily]]
+[[cypress-io-cypress]] [[dotnet-aspnetcore]] [[vxcontrol-pentagi]] [[hashicorp-terraform]] [[dayuanjiang-next-ai-draw-io]]
 
 **所属领域**: [[web]]
 

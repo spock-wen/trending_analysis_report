@@ -38,7 +38,7 @@ agent multiplexer that lives in your terminal.
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[oven-sh-bun]] [[tencentcloud-cubesandbox]]
+[[anthropics-claude-cookbooks]] [[google-labs-code-stitch-skills]] [[oven-sh-bun]] [[obra-superpowers]] [[malisper-pgrust]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

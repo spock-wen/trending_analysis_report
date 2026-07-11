@@ -34,7 +34,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[openai-codex-plugin-cc]] [[juliusbrussee-caveman]]
+[[alibaba-zvec]] [[zackriya-solutions-meetily]] [[anthropics-claude-cookbooks]] [[obra-superpowers]] [[prisma-prisma]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

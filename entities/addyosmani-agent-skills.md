@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[openai-codex-plugin-cc]] [[juliusbrussee-caveman]] [[leonxlnx-taste-skill]]
+[[anthropics-claude-cookbooks]] [[obra-superpowers]] [[leonxlnx-taste-skill]] [[openai-codex-plugin-cc]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]]
 

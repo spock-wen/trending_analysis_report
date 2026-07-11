@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[obra-superpowers]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[zeux-meshoptimizer]] [[iofficeai-officecli]]
+[[iofficeai-officecli]] [[cypress-io-cypress]] [[obra-superpowers]] [[dotnet-aspnetcore]] [[dayuanjiang-next-ai-draw-io]]
 
 **所属领域**: [[web]] [[erp]]
 

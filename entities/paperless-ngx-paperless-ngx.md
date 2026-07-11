@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[kyutai-labs-pocket-tts]] [[mvanhorn-last30days-skill]] [[davila7-claude-code-templates]] [[safishamsi-graphify]] [[affaan-m-ecc]]
+[[alirezarezvani-claude-skills]] [[mvanhorn-last30days-skill]] [[unclecode-crawl4ai]] [[home-assistant-core]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[science]]
 

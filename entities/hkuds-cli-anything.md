@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[diolinux-photogimp]] [[mvanhorn-last30days-skill]]
+[[anthropics-claude-cookbooks]] [[google-labs-code-stitch-skills]] [[unclecode-crawl4ai]] [[cypress-io-cypress]] [[home-assistant-core]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

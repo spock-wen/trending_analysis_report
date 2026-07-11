@@ -1,20 +1,20 @@
 ---
 title: "cypress-io/cypress"
 created: 2026-06-15
-updated: 2026-06-17
-last_active: 2026-06-17
+updated: 2026-07-12
+last_active: 2026-07-12
 type: tool
 tags: [typescript, web]
-sources: [raw/trending/2026-06-17.json]
-confidence: medium
-trending_count_daily: 2
+sources: [raw/trending/2026-07-12.json]
+confidence: high
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-15
-last_trending: 2026-06-17
+last_trending: 2026-07-12
 peak_rank: 7
-total_stars: 50187
+total_stars: 50610
 language: "TypeScript"
 ---
 
@@ -23,19 +23,20 @@ language: "TypeScript"
 Fast, easy and reliable testing for anything that runs in a browser.
 
 - 语言: TypeScript
-- 上榜次数: 2 次
+- 上榜次数: 3 次
 - 连续上榜: 1 天
 - 最高排名: #7
 - 链接: [cypress-io/cypress](https://github.com/cypress-io/cypress)
 
 ## 上榜历史
 
+  - 2026-07-12: #14, +43⭐
   - 2026-06-17: #7, +11⭐
   - 2026-06-15: #8, +121⭐
 
 ## 相关项目
 
-[[diolinux-photogimp]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[tencentcloud-tencentdb-agent-memory]] [[google-labs-code-stitch-skills]]
+[[dotnet-aspnetcore]] [[prisma-prisma]] [[actions-checkout]] [[dayuanjiang-next-ai-draw-io]] [[ansible-ansible]]
 
 **所属领域**: [[web]]
 

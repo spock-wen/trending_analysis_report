@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[hashicorp-terraform]] [[argoproj-argo-cd]] [[zackriya-solutions-meetily]]
+[[zackriya-solutions-meetily]] [[anthropics-claude-cookbooks]] [[home-assistant-core]] [[obra-superpowers]] [[veracrypt-veracrypt]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

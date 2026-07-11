@@ -37,7 +37,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[openai-codex-plugin-cc]] [[juliusbrussee-caveman]] [[leonxlnx-taste-skill]]
+[[anthropics-claude-cookbooks]] [[obra-superpowers]] [[prisma-prisma]] [[leonxlnx-taste-skill]] [[openai-codex-plugin-cc]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

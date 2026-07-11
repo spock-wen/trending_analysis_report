@@ -35,7 +35,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[diolinux-photogimp]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]]
+[[iofficeai-officecli]] [[zackriya-solutions-meetily]] [[cypress-io-cypress]] [[unclecode-crawl4ai]] [[diolinux-photogimp]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

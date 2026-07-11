@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[steipete-codexbar]] [[iofficeai-officecli]] [[addyosmani-agent-skills]]
+[[steipete-codexbar]] [[apple-container]] [[anthropics-claude-cookbooks]] [[obra-superpowers]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]]
 

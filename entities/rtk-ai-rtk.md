@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[oven-sh-bun]] [[tencentcloud-cubesandbox]]
+[[anthropics-claude-cookbooks]] [[google-labs-code-stitch-skills]] [[oven-sh-bun]] [[obra-superpowers]] [[malisper-pgrust]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

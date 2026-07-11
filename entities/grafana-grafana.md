@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[hashicorp-terraform]] [[argoproj-argo-cd]] [[zackriya-solutions-meetily]] [[prisma-prisma]] [[tencentcloud-tencentdb-agent-memory]]
+[[alibaba-zvec]] [[zackriya-solutions-meetily]] [[cypress-io-cypress]] [[davila7-claude-code-templates]] [[prisma-prisma]]
 
 **所属领域**: [[data]] [[devops]]
 

@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[freecodecamp-freecodecamp]] [[owainlewis-awesome-artificial-intelligence]] [[byoungd-english-level-up-tips]]
+[[anthropics-claude-cookbooks]] [[google-labs-code-stitch-skills]] [[cypress-io-cypress]] [[freecodecamp-freecodecamp]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

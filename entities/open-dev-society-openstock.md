@@ -34,7 +34,7 @@ OpenStock is an open-source alternative to expensive market platforms. Track rea
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[tencentcloud-tencentdb-agent-memory]] [[addyosmani-agent-skills]] [[iofficeai-officecli]]
+[[anthropics-claude-cookbooks]] [[cypress-io-cypress]] [[obra-superpowers]] [[prisma-prisma]] [[actions-checkout]]
 
 **所属领域**: [[ai-agent]]
 

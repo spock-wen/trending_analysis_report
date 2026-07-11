@@ -34,7 +34,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[hashicorp-terraform]] [[argoproj-argo-cd]] [[iofficeai-officecli]]
+[[anthropics-claude-cookbooks]] [[obra-superpowers]] [[vxcontrol-pentagi]] [[hashicorp-terraform]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]]
 

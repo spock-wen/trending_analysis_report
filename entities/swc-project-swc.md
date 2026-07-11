@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[diolinux-photogimp]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[oven-sh-bun]] [[tencentcloud-cubesandbox]]
+[[cypress-io-cypress]] [[oven-sh-bun]] [[malisper-pgrust]] [[dotnet-aspnetcore]] [[dayuanjiang-next-ai-draw-io]]
 
 **所属领域**: [[web]]
 

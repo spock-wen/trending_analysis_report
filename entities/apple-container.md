@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[steipete-codexbar]] [[iofficeai-officecli]] [[addyosmani-agent-skills]]
+[[steipete-codexbar]] [[anthropics-claude-cookbooks]] [[obra-superpowers]] [[palmier-io-palmier-pro]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]]
 

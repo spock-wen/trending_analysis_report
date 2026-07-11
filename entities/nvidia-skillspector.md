@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[zackriya-solutions-meetily]] [[veracrypt-veracrypt]]
+[[zackriya-solutions-meetily]] [[anthropics-claude-cookbooks]] [[unclecode-crawl4ai]] [[home-assistant-core]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

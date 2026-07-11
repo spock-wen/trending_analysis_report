@@ -36,7 +36,7 @@ Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[iofficeai-officecli]] [[addyosmani-agent-skills]] [[palmier-io-palmier-pro]]
+[[apple-container]] [[anthropics-claude-cookbooks]] [[obra-superpowers]] [[palmier-io-palmier-pro]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]]
 

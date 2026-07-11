@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[kyutai-labs-pocket-tts]] [[diolinux-photogimp]] [[mvanhorn-last30days-skill]]
+[[anthropics-claude-cookbooks]] [[cypress-io-cypress]] [[obra-superpowers]] [[dotnet-aspnetcore]] [[prisma-prisma]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

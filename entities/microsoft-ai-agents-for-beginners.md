@@ -36,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[freecodecamp-freecodecamp]] [[owainlewis-awesome-artificial-intelligence]] [[byoungd-english-level-up-tips]]
+[[anthropics-claude-cookbooks]] [[freecodecamp-freecodecamp]] [[obra-superpowers]] [[owainlewis-awesome-artificial-intelligence]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

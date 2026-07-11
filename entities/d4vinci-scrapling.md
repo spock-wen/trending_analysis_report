@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[kyutai-labs-pocket-tts]] [[diolinux-photogimp]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]] [[davila7-claude-code-templates]]
+[[cypress-io-cypress]] [[unclecode-crawl4ai]] [[home-assistant-core]] [[davila7-claude-code-templates]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[web]]
 

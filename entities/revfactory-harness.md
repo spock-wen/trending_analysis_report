@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[diolinux-photogimp]] [[hasaneyldrm-exercises-dataset]] [[shanraisshan-claude-code-best-practice]]
+[[shanraisshan-claude-code-best-practice]] [[anthropics-claude-cookbooks]] [[cypress-io-cypress]] [[obra-superpowers]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

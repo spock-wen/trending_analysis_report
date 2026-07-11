@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[hashicorp-terraform]] [[argoproj-argo-cd]] [[zackriya-solutions-meetily]]
+[[alibaba-zvec]] [[zackriya-solutions-meetily]] [[anthropics-claude-cookbooks]] [[obra-superpowers]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

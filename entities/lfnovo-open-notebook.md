@@ -37,5 +37,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[wonderwhy-er-desktopcommandermcp]] [[tencentcloud-tencentdb-agent-memory]] [[microsoft-typescript]]
+[[prisma-prisma]] [[actions-checkout]] [[wonderwhy-er-desktopcommandermcp]] [[cypress-io-cypress]]
 

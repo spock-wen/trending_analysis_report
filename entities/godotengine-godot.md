@@ -34,5 +34,5 @@ Godot Engine – Multi-platform 2D and 3D game engine
 
 ## 相关项目
 
-[[chriskohlhoff-asio]] [[abseil-abseil-cpp]] [[catchorg-catch2]] [[jbeder-yaml-cpp]]
+[[zeux-meshoptimizer]] [[catchorg-catch2]] [[chriskohlhoff-asio]] [[abseil-abseil-cpp]]
 

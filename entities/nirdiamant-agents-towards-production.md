@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[hashicorp-terraform]] [[diolinux-photogimp]] [[freecodecamp-freecodecamp]]
+[[iofficeai-officecli]] [[anthropics-claude-cookbooks]] [[freecodecamp-freecodecamp]] [[diolinux-photogimp]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

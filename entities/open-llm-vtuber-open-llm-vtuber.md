@@ -37,7 +37,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[jamiepine-voicebox]] [[iofficeai-officecli]]
+[[anthropics-claude-cookbooks]] [[unclecode-crawl4ai]] [[home-assistant-core]] [[obra-superpowers]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

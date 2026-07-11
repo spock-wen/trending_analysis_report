@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[obra-superpowers]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[diolinux-photogimp]] [[mvanhorn-last30days-skill]]
+[[anthropics-claude-cookbooks]] [[unclecode-crawl4ai]] [[cypress-io-cypress]] [[home-assistant-core]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

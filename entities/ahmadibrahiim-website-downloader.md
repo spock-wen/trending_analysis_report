@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[diolinux-photogimp]] [[hasaneyldrm-exercises-dataset]] [[shanraisshan-claude-code-best-practice]] [[mvanhorn-last30days-skill]] [[zackriya-solutions-meetily]]
+[[shanraisshan-claude-code-best-practice]] [[cypress-io-cypress]] [[dotnet-aspnetcore]] [[prisma-prisma]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[web]] [[image-gen]]
 

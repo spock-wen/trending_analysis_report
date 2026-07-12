@@ -35,7 +35,7 @@ A TTS that fits in your CPU (and pocket)
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[unclecode-crawl4ai]] [[home-assistant-core]] [[obra-superpowers]] [[davila7-claude-code-templates]]
+[[jamiepine-voicebox]] [[davila7-claude-code-templates]] [[altic-dev-fluidvoice]] [[prefecthq-prefect]] [[home-assistant-core]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

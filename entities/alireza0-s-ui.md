@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[cypress-io-cypress]] [[dotnet-aspnetcore]] [[vxcontrol-pentagi]] [[hashicorp-terraform]] [[dayuanjiang-next-ai-draw-io]]
+[[tailscale-tailscale]] [[hashicorp-terraform]] [[cypress-io-cypress]] [[argoproj-argo-cd]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[web]]
 

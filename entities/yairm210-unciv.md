@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[obra-superpowers]] [[bannedbook-fanqiang]] [[openai-plugins]] [[ansible-ansible]]
+[[pppscn-smsforwarder]] [[wonderwhy-er-desktopcommandermcp]] [[bannedbook-fanqiang]] [[andreknieriem-headunit-revived]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,5 +35,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[openai-codex-plugin-cc]] [[addyosmani-agent-skills]] [[openai-plugins]]
+[[openai-plugins]] [[openai-codex-plugin-cc]] [[leonxlnx-taste-skill]] [[addyosmani-agent-skills]]
 

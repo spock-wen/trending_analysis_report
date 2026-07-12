@@ -1,20 +1,20 @@
 ---
 title: "HKUDS/Vibe-Trading"
 created: 2026-06-04
-updated: 2026-07-03
-last_active: 2026-07-03
+updated: 2026-07-13
+last_active: 2026-07-13
 type: tool
-tags: [python, ai-agent, rising]
-sources: [raw/trending/2026-07-03.json]
+tags: [python, ai-agent]
+sources: [raw/trending/2026-07-13.json]
 confidence: high
-trending_count_daily: 7
+trending_count_daily: 8
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 6
+consecutive_days: 1
 first_trending: 2026-06-04
-last_trending: 2026-07-03
+last_trending: 2026-07-13
 peak_rank: 3
-total_stars: 17306
+total_stars: 20498
 language: "Python"
 ---
 
@@ -23,22 +23,22 @@ language: "Python"
 "Vibe-Trading: Your Personal Trading Agent"
 
 - 语言: Python
-- 上榜次数: 7 次
-- 连续上榜: 6 天
+- 上榜次数: 8 次
+- 连续上榜: 1 天
 - 最高排名: #3
 - 链接: [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
 
 ## 上榜历史
 
+  - 2026-07-13: #3, +776⭐
   - 2026-07-03: #11, +918⭐
   - 2026-07-02: #3, +682⭐
   - 2026-07-01: #17, +719⭐
   - 2026-06-30: #13, +840⭐
-  - 2026-06-29: #10, +490⭐
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[unclecode-crawl4ai]] [[home-assistant-core]] [[obra-superpowers]] [[davila7-claude-code-templates]]
+[[davila7-claude-code-templates]] [[home-assistant-core]] [[wonderwhy-er-desktopcommandermcp]] [[crosstalk-solutions-project-nomad]] [[anthropics-claude-cookbooks]]
 
 **所属领域**: [[ai-agent]]
 

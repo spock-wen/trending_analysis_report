@@ -36,7 +36,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[cypress-io-cypress]] [[obra-superpowers]] [[davila7-claude-code-templates]] [[prisma-prisma]]
+[[davila7-claude-code-templates]] [[ruvnet-ruview]] [[hashicorp-terraform]] [[pingdotgg-t3code]] [[wonderwhy-er-desktopcommandermcp]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

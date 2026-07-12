@@ -35,7 +35,7 @@ The API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[cypress-io-cypress]] [[dotnet-aspnetcore]] [[prisma-prisma]] [[actions-checkout]] [[dayuanjiang-next-ai-draw-io]]
+[[cypress-io-cypress]] [[pingdotgg-t3code]] [[dotnet-aspnetcore]] [[nutlope-hallmark]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[web]]
 

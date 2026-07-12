@@ -34,7 +34,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[wonderwhy-er-desktopcommandermcp]] [[obra-superpowers]] [[google-labs-code-stitch-skills]] [[davila7-claude-code-templates]]
+[[chen08209-flclash]] [[obra-superpowers]] [[davila7-claude-code-templates]] [[wonderwhy-er-desktopcommandermcp]]
 
 **所属领域**: [[cli]]
 

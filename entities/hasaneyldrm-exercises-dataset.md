@@ -36,7 +36,7 @@ A comprehensive dataset of 433 fitness exercises. Each entry includes name, cate
 
 ## 相关项目
 
-[[shanraisshan-claude-code-best-practice]] [[alibaba-zvec]] [[zackriya-solutions-meetily]] [[anthropics-claude-cookbooks]] [[cypress-io-cypress]]
+[[cypress-io-cypress]] [[anthropics-claude-cookbooks]] [[prefecthq-prefect]] [[ahmadibrahiim-website-downloader]] [[tencentcloud-tencentdb-agent-memory]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

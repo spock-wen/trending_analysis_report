@@ -38,7 +38,7 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[cypress-io-cypress]] [[obra-superpowers]] [[prisma-prisma]] [[actions-checkout]]
+[[pingdotgg-t3code]] [[wonderwhy-er-desktopcommandermcp]] [[crosstalk-solutions-project-nomad]] [[anthropics-claude-cookbooks]] [[colemurray-background-agents]]
 
 **所属领域**: [[ai-agent]]
 

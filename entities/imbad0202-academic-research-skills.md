@@ -37,7 +37,7 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[alirezarezvani-claude-skills]] [[mvanhorn-last30days-skill]] [[anthropics-claude-cookbooks]] [[unclecode-crawl4ai]] [[home-assistant-core]]
+[[davila7-claude-code-templates]] [[affaan-m-ecc]] [[prefecthq-prefect]] [[alirezarezvani-claude-skills]] [[home-assistant-core]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

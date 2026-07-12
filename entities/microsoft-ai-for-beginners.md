@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[freecodecamp-freecodecamp]] [[obra-superpowers]] [[openai-plugins]] [[ansible-ansible]]
+[[nvidia-cosmos]] [[lyogavin-airllm]] [[byoungd-english-level-up-tips]] [[wonderwhy-er-desktopcommandermcp]] [[freecodecamp-freecodecamp]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

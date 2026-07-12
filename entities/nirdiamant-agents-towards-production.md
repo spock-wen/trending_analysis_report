@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[iofficeai-officecli]] [[anthropics-claude-cookbooks]] [[freecodecamp-freecodecamp]] [[diolinux-photogimp]] [[obra-superpowers]]
+[[microsoft-ai-for-beginners]] [[nvidia-cosmos]] [[davila7-claude-code-templates]] [[lyogavin-airllm]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

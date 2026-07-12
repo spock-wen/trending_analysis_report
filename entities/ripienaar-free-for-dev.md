@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[shanraisshan-claude-code-best-practice]] [[cypress-io-cypress]] [[dotnet-aspnetcore]] [[davila7-claude-code-templates]] [[hashicorp-terraform]]
+[[davila7-claude-code-templates]] [[ruvnet-ruview]] [[cypress-io-cypress]] [[hashicorp-terraform]] [[ahmadibrahiim-website-downloader]]
 
 **所属领域**: [[web]] [[devops]]
 

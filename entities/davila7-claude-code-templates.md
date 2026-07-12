@@ -1,20 +1,20 @@
 ---
 title: "davila7/claude-code-templates"
 created: 2026-07-11
-updated: 2026-07-12
-last_active: 2026-07-12
+updated: 2026-07-13
+last_active: 2026-07-13
 type: tool
-tags: [python, ai-agent, cli, devops]
-sources: [raw/trending/2026-07-12.json]
-confidence: medium
-trending_count_daily: 2
+tags: [python, ai-agent, cli, devops, rising]
+sources: [raw/trending/2026-07-13.json]
+confidence: high
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 3
 first_trending: 2026-07-11
-last_trending: 2026-07-12
+last_trending: 2026-07-13
 peak_rank: 3
-total_stars: 29002
+total_stars: 29222
 language: "Python"
 ---
 
@@ -23,19 +23,20 @@ language: "Python"
 CLI tool for configuring and monitoring Claude Code
 
 - 语言: Python
-- 上榜次数: 2 次
-- 连续上榜: 2 天
+- 上榜次数: 3 次
+- 连续上榜: 3 天
 - 最高排名: #3
 - 链接: [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
 
 ## 上榜历史
 
+  - 2026-07-13: #14, +274⭐
   - 2026-07-12: #3, +230⭐
   - 2026-07-11: #12, +104⭐
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[google-labs-code-stitch-skills]] [[unclecode-crawl4ai]] [[home-assistant-core]] [[obra-superpowers]]
+[[ruvnet-ruview]] [[hashicorp-terraform]] [[prefecthq-prefect]] [[chen08209-flclash]] [[home-assistant-core]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

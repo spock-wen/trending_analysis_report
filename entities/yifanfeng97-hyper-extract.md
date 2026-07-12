@@ -34,7 +34,7 @@ Transform unstructured text into structured knowledge with LLMs. Graphs, hypergr
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[google-labs-code-stitch-skills]] [[unclecode-crawl4ai]] [[home-assistant-core]] [[obra-superpowers]]
+[[davila7-claude-code-templates]] [[prefecthq-prefect]] [[chen08209-flclash]] [[home-assistant-core]] [[wonderwhy-er-desktopcommandermcp]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

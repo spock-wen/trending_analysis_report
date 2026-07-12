@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[cypress-io-cypress]] [[obra-superpowers]] [[davila7-claude-code-templates]] [[prisma-prisma]]
+[[davila7-claude-code-templates]] [[chen08209-flclash]] [[pingdotgg-t3code]] [[obra-superpowers]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[cli]]
 

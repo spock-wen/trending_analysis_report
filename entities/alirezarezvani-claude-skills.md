@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[iofficeai-officecli]] [[mvanhorn-last30days-skill]] [[anthropics-claude-cookbooks]] [[google-labs-code-stitch-skills]] [[unclecode-crawl4ai]]
+[[davila7-claude-code-templates]] [[affaan-m-ecc]] [[zeux-meshoptimizer]] [[prefecthq-prefect]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

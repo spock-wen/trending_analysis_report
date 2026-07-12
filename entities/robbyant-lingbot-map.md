@@ -35,7 +35,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[alibaba-zvec]] [[zackriya-solutions-meetily]] [[unclecode-crawl4ai]] [[home-assistant-core]] [[davila7-claude-code-templates]]
+[[davila7-claude-code-templates]] [[prefecthq-prefect]] [[tencentcloud-tencentdb-agent-memory]] [[home-assistant-core]] [[prisma-prisma]]
 
 **所属领域**: [[data]]
 

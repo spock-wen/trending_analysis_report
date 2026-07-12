@@ -34,7 +34,7 @@ AI generates a real, editable PowerPoint from any document — native shapes & a
 
 ## 相关项目
 
-[[iofficeai-officecli]] [[anthropics-claude-cookbooks]] [[unclecode-crawl4ai]] [[diolinux-photogimp]] [[home-assistant-core]]
+[[kyutai-labs-pocket-tts]] [[davila7-claude-code-templates]] [[jamiepine-voicebox]] [[zeux-meshoptimizer]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[image-gen]] [[audio]]
 

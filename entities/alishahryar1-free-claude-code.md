@@ -36,7 +36,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[google-labs-code-stitch-skills]] [[unclecode-crawl4ai]] [[home-assistant-core]] [[obra-superpowers]]
+[[kyutai-labs-pocket-tts]] [[davila7-claude-code-templates]] [[jamiepine-voicebox]] [[altic-dev-fluidvoice]] [[prefecthq-prefect]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

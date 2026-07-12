@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[google-labs-code-stitch-skills]] [[cypress-io-cypress]] [[freecodecamp-freecodecamp]] [[obra-superpowers]]
+[[microsoft-ai-for-beginners]] [[davila7-claude-code-templates]] [[chen08209-flclash]] [[owainlewis-awesome-artificial-intelligence]] [[pingdotgg-t3code]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[shanraisshan-claude-code-best-practice]] [[alirezarezvani-claude-skills]] [[mvanhorn-last30days-skill]] [[anthropics-claude-cookbooks]] [[cypress-io-cypress]]
+[[affaan-m-ecc]] [[cypress-io-cypress]] [[alirezarezvani-claude-skills]] [[ahmadibrahiim-website-downloader]] [[shanraisshan-claude-code-best-practice]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

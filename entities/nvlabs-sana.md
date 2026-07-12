@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[unclecode-crawl4ai]] [[home-assistant-core]] [[davila7-claude-code-templates]] [[prisma-prisma]] [[ansible-ansible]]
+[[davila7-claude-code-templates]] [[prefecthq-prefect]] [[ahmadibrahiim-website-downloader]] [[home-assistant-core]] [[prisma-prisma]]
 
 **所属领域**: [[image-gen]]
 

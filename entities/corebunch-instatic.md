@@ -35,5 +35,5 @@ Instatic is a modern self-hosted visual CMS - get it running in 1 minute
 
 ## 相关项目
 
-[[prisma-prisma]] [[actions-checkout]] [[wonderwhy-er-desktopcommandermcp]] [[cypress-io-cypress]]
+[[crosstalk-solutions-project-nomad]] [[wonderwhy-er-desktopcommandermcp]] [[colemurray-background-agents]] [[pingdotgg-t3code]]
 

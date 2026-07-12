@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[google-labs-code-stitch-skills]] [[unclecode-crawl4ai]] [[cypress-io-cypress]] [[home-assistant-core]]
+[[davila7-claude-code-templates]] [[cypress-io-cypress]] [[prefecthq-prefect]] [[chen08209-flclash]] [[home-assistant-core]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

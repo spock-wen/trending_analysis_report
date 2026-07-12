@@ -36,5 +36,5 @@ Curated list of the best free apps for PC and mobile
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[openai-codex-plugin-cc]] [[addyosmani-agent-skills]] [[openai-plugins]]
+[[openai-plugins]] [[openai-codex-plugin-cc]] [[leonxlnx-taste-skill]] [[addyosmani-agent-skills]]
 

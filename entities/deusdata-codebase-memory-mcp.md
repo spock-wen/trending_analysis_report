@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[alibaba-zvec]] [[zackriya-solutions-meetily]] [[anthropics-claude-cookbooks]] [[obra-superpowers]] [[veracrypt-veracrypt]]
+[[prefecthq-prefect]] [[tencentcloud-tencentdb-agent-memory]] [[microsoft-powertoys]] [[wonderwhy-er-desktopcommandermcp]] [[prisma-prisma]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

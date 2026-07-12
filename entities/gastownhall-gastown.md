@@ -35,7 +35,7 @@ Gas Town - multi-agent workspace manager
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[obra-superpowers]] [[vxcontrol-pentagi]] [[hashicorp-terraform]] [[openai-plugins]]
+[[tailscale-tailscale]] [[hashicorp-terraform]] [[argoproj-argo-cd]] [[vxcontrol-pentagi]] [[wonderwhy-er-desktopcommandermcp]]
 
 **所属领域**: [[ai-agent]]
 

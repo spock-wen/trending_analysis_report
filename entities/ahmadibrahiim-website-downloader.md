@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[shanraisshan-claude-code-best-practice]] [[cypress-io-cypress]] [[dotnet-aspnetcore]] [[prisma-prisma]] [[ripienaar-free-for-dev]]
+[[cypress-io-cypress]] [[ripienaar-free-for-dev]] [[dotnet-aspnetcore]] [[prisma-prisma]] [[safishamsi-graphify]]
 
 **所属领域**: [[web]] [[image-gen]]
 

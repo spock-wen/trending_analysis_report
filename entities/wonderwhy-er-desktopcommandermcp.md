@@ -1,20 +1,20 @@
 ---
 title: "wonderwhy-er/DesktopCommanderMCP"
 created: 2026-07-09
-updated: 2026-07-12
-last_active: 2026-07-12
+updated: 2026-07-13
+last_active: 2026-07-13
 type: tool
 tags: [typescript, ai-agent, cli, rising]
-sources: [raw/trending/2026-07-12.json]
+sources: [raw/trending/2026-07-13.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 4
+consecutive_days: 5
 first_trending: 2026-07-09
-last_trending: 2026-07-12
+last_trending: 2026-07-13
 peak_rank: 1
-total_stars: 7757
+total_stars: 7968
 language: "TypeScript"
 ---
 
@@ -23,13 +23,14 @@ language: "TypeScript"
 This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 - 语言: TypeScript
-- 上榜次数: 4 次
-- 连续上榜: 4 天
+- 上榜次数: 5 次
+- 连续上榜: 5 天
 - 最高排名: #1
 - 链接: [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
 
 ## 上榜历史
 
+  - 2026-07-13: #2, +207⭐
   - 2026-07-12: #8, +900⭐
   - 2026-07-11: #1, +349⭐
   - 2026-07-10: #6, +185⭐
@@ -37,7 +38,7 @@ This is MCP server for Claude that gives it terminal control, file system search
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[google-labs-code-stitch-skills]] [[cypress-io-cypress]] [[obra-superpowers]] [[davila7-claude-code-templates]]
+[[davila7-claude-code-templates]] [[chen08209-flclash]] [[pingdotgg-t3code]] [[obra-superpowers]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

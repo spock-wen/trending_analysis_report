@@ -38,7 +38,7 @@ Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[obra-superpowers]] [[openai-codex-plugin-cc]] [[addyosmani-agent-skills]] [[openai-plugins]]
+[[hkuds-vibe-trading]] [[openai-plugins]] [[addyosmani-agent-skills]] [[wonderwhy-er-desktopcommandermcp]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[cypress-io-cypress]] [[obra-superpowers]] [[dotnet-aspnetcore]] [[prisma-prisma]]
+[[kyutai-labs-pocket-tts]] [[jamiepine-voicebox]] [[altic-dev-fluidvoice]] [[cypress-io-cypress]] [[pingdotgg-t3code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

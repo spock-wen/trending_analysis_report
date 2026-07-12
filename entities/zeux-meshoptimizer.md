@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[iofficeai-officecli]] [[catchorg-catch2]] [[diolinux-photogimp]] [[obra-superpowers]] [[abseil-abseil-cpp]]
+[[catchorg-catch2]] [[iofficeai-officecli]] [[chriskohlhoff-asio]] [[obra-superpowers]] [[diolinux-photogimp]]
 
 **所属领域**: [[erp]]
 

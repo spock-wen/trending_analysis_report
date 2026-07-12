@@ -34,7 +34,7 @@ The Postgres development platform. Supabase gives you a dedicated Postgres datab
 
 ## 相关项目
 
-[[alibaba-zvec]] [[zackriya-solutions-meetily]] [[anthropics-claude-cookbooks]] [[cypress-io-cypress]] [[obra-superpowers]]
+[[cypress-io-cypress]] [[prefecthq-prefect]] [[tencentcloud-tencentdb-agent-memory]] [[pingdotgg-t3code]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[cypress-io-cypress]] [[unclecode-crawl4ai]] [[home-assistant-core]] [[davila7-claude-code-templates]] [[dotnet-aspnetcore]]
+[[davila7-claude-code-templates]] [[cypress-io-cypress]] [[prefecthq-prefect]] [[home-assistant-core]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[web]]
 

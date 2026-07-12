@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[google-labs-code-stitch-skills]] [[obra-superpowers]] [[davila7-claude-code-templates]] [[msitarzewski-agency-agents]]
+[[davila7-claude-code-templates]] [[mattpocock-skills]] [[chen08209-flclash]] [[obra-superpowers]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

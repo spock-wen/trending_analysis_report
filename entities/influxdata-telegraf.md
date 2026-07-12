@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[alibaba-zvec]] [[zackriya-solutions-meetily]] [[anthropics-claude-cookbooks]] [[obra-superpowers]] [[vxcontrol-pentagi]]
+[[tailscale-tailscale]] [[hashicorp-terraform]] [[prefecthq-prefect]] [[argoproj-argo-cd]] [[tencentcloud-tencentdb-agent-memory]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

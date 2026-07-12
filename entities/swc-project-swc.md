@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[cypress-io-cypress]] [[oven-sh-bun]] [[malisper-pgrust]] [[dotnet-aspnetcore]] [[dayuanjiang-next-ai-draw-io]]
+[[ruvnet-ruview]] [[malisper-pgrust]] [[cypress-io-cypress]] [[dotnet-aspnetcore]] [[oven-sh-bun]]
 
 **所属领域**: [[web]]
 

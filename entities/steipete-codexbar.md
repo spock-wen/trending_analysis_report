@@ -36,7 +36,7 @@ Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 ## 相关项目
 
-[[apple-container]] [[anthropics-claude-cookbooks]] [[obra-superpowers]] [[palmier-io-palmier-pro]] [[openai-plugins]]
+[[altic-dev-fluidvoice]] [[wonderwhy-er-desktopcommandermcp]] [[palmier-io-palmier-pro]] [[apple-container]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]]
 

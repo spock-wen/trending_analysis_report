@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[unclecode-crawl4ai]] [[freecodecamp-freecodecamp]] [[home-assistant-core]] [[obra-superpowers]]
+[[microsoft-ai-for-beginners]] [[davila7-claude-code-templates]] [[prefecthq-prefect]] [[home-assistant-core]] [[byoungd-english-level-up-tips]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

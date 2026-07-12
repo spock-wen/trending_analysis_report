@@ -34,5 +34,5 @@ Effortlessly compose, extend, and observe every service in real-time for the fir
 
 ## 相关项目
 
-[[oven-sh-bun]] [[tencentcloud-cubesandbox]] [[malisper-pgrust]] [[ruvnet-ruview]]
+[[ruvnet-ruview]] [[tencentcloud-cubesandbox]] [[oven-sh-bun]] [[malisper-pgrust]]
 

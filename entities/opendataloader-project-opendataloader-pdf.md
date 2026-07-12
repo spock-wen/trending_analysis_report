@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[alibaba-zvec]] [[zackriya-solutions-meetily]] [[anthropics-claude-cookbooks]] [[apache-maven]] [[krahets-hello-algo]]
+[[hkuds-vibe-trading]] [[anthropics-claude-cookbooks]] [[prefecthq-prefect]] [[tencentcloud-tencentdb-agent-memory]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

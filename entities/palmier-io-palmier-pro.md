@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[steipete-codexbar]] [[apple-container]] [[anthropics-claude-cookbooks]] [[obra-superpowers]] [[openai-plugins]]
+[[altic-dev-fluidvoice]] [[steipete-codexbar]] [[wonderwhy-er-desktopcommandermcp]] [[apple-container]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]]
 

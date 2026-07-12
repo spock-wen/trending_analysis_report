@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[unclecode-crawl4ai]] [[cypress-io-cypress]] [[home-assistant-core]] [[obra-superpowers]]
+[[davila7-claude-code-templates]] [[cypress-io-cypress]] [[prefecthq-prefect]] [[home-assistant-core]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

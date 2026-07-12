@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[iofficeai-officecli]] [[anthropics-claude-cookbooks]] [[obra-superpowers]] [[dotnet-aspnetcore]] [[openai-plugins]]
+[[par274-sharpemu]] [[iofficeai-officecli]] [[k1tbyte-wand-enhancer]] [[dotnet-aspnetcore]] [[wonderwhy-er-desktopcommandermcp]]
 
 **所属领域**: [[ai-agent]]
 

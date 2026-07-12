@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[alirezarezvani-claude-skills]] [[anthropics-claude-cookbooks]] [[unclecode-crawl4ai]] [[cypress-io-cypress]] [[home-assistant-core]]
+[[davila7-claude-code-templates]] [[affaan-m-ecc]] [[cypress-io-cypress]] [[prefecthq-prefect]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

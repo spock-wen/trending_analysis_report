@@ -35,7 +35,7 @@ Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), con
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[google-labs-code-stitch-skills]] [[cypress-io-cypress]] [[obra-superpowers]] [[davila7-claude-code-templates]]
+[[davila7-claude-code-templates]] [[chen08209-flclash]] [[pingdotgg-t3code]] [[wonderwhy-er-desktopcommandermcp]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

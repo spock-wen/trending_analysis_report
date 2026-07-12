@@ -34,7 +34,7 @@ The easiest, most secure way to use WireGuard and 2FA.
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[obra-superpowers]] [[vxcontrol-pentagi]] [[hashicorp-terraform]] [[openai-plugins]]
+[[hashicorp-terraform]] [[argoproj-argo-cd]] [[vxcontrol-pentagi]] [[wonderwhy-er-desktopcommandermcp]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]]
 

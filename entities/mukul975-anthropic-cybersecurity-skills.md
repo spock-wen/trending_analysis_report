@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[anthropics-claude-cookbooks]] [[google-labs-code-stitch-skills]] [[unclecode-crawl4ai]] [[home-assistant-core]]
+[[davila7-claude-code-templates]] [[affaan-m-ecc]] [[prefecthq-prefect]] [[chen08209-flclash]] [[home-assistant-core]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

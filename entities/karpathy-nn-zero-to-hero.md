@@ -34,5 +34,5 @@ Neural Networks: Zero to Hero
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[nvidia-cosmos]] [[anthropics-claude-cookbooks]]
+[[microsoft-ai-for-beginners]] [[anthropics-claude-cookbooks]] [[lyogavin-airllm]] [[nvidia-cosmos]]
 

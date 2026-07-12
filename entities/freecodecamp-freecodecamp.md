@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[cypress-io-cypress]] [[prisma-prisma]] [[owainlewis-awesome-artificial-intelligence]] [[actions-checkout]] [[microsoft-ai-for-beginners]]
+[[microsoft-ai-for-beginners]] [[owainlewis-awesome-artificial-intelligence]] [[pingdotgg-t3code]] [[byoungd-english-level-up-tips]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[education]]
 

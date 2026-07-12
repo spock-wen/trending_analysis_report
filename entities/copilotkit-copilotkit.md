@@ -36,7 +36,7 @@ The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, an
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[cypress-io-cypress]] [[obra-superpowers]] [[dotnet-aspnetcore]] [[prisma-prisma]]
+[[cypress-io-cypress]] [[pingdotgg-t3code]] [[dotnet-aspnetcore]] [[wonderwhy-er-desktopcommandermcp]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

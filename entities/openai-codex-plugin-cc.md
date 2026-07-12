@@ -38,7 +38,7 @@ Use Codex from Claude Code to review code or delegate tasks.
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[obra-superpowers]] [[leonxlnx-taste-skill]] [[addyosmani-agent-skills]] [[openai-plugins]]
+[[openai-plugins]] [[addyosmani-agent-skills]] [[wonderwhy-er-desktopcommandermcp]] [[leonxlnx-taste-skill]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]]
 

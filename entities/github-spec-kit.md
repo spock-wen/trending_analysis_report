@@ -35,5 +35,5 @@ Toolkit to help you get started with Spec-Driven Development
 
 ## 相关项目
 
-[[home-assistant-core]] [[davila7-claude-code-templates]] [[ansible-ansible]] [[unclecode-crawl4ai]]
+[[davila7-claude-code-templates]] [[home-assistant-core]] [[hkuds-vibe-trading]] [[prefecthq-prefect]]
 

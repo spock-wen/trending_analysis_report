@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[obra-superpowers]] [[davila7-claude-code-templates]] [[vxcontrol-pentagi]] [[ruvnet-ruview]]
+[[davila7-claude-code-templates]] [[tailscale-tailscale]] [[ruvnet-ruview]] [[argoproj-argo-cd]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

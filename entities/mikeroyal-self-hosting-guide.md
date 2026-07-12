@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[cypress-io-cypress]] [[freecodecamp-freecodecamp]] [[obra-superpowers]] [[dotnet-aspnetcore]]
+[[microsoft-ai-for-beginners]] [[cypress-io-cypress]] [[crosstalk-solutions-project-nomad]] [[dotnet-aspnetcore]] [[byoungd-english-level-up-tips]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

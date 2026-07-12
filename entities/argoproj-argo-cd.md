@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[vxcontrol-pentagi]] [[hashicorp-terraform]] [[ruvnet-ruview]] [[ansible-ansible]]
+[[davila7-claude-code-templates]] [[tailscale-tailscale]] [[ruvnet-ruview]] [[hashicorp-terraform]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[devops]]
 

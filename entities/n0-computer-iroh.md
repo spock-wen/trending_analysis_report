@@ -37,5 +37,5 @@ IP addresses break, dial keys instead. Modular networking stack in Rust.
 
 ## 相关项目
 
-[[oven-sh-bun]] [[tencentcloud-cubesandbox]] [[malisper-pgrust]] [[ruvnet-ruview]]
+[[ruvnet-ruview]] [[tencentcloud-cubesandbox]] [[oven-sh-bun]] [[malisper-pgrust]]
 

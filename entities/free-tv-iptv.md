@@ -36,5 +36,5 @@ M3U Playlist for free TV channels
 
 ## 相关项目
 
-[[home-assistant-core]] [[davila7-claude-code-templates]] [[ansible-ansible]] [[unclecode-crawl4ai]]
+[[davila7-claude-code-templates]] [[home-assistant-core]] [[hkuds-vibe-trading]] [[prefecthq-prefect]]
 

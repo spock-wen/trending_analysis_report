@@ -35,7 +35,7 @@ A hand-picked collection of the finest of resources for the most awesome of agen
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[unclecode-crawl4ai]] [[home-assistant-core]] [[obra-superpowers]] [[davila7-claude-code-templates]]
+[[davila7-claude-code-templates]] [[prefecthq-prefect]] [[home-assistant-core]] [[wonderwhy-er-desktopcommandermcp]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]]
 

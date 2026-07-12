@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[cypress-io-cypress]] [[dotnet-aspnetcore]] [[prisma-prisma]] [[actions-checkout]] [[dayuanjiang-next-ai-draw-io]]
+[[cypress-io-cypress]] [[pingdotgg-t3code]] [[dotnet-aspnetcore]] [[nutlope-hallmark]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[web]]
 

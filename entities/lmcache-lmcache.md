@@ -35,7 +35,7 @@ LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[unclecode-crawl4ai]] [[home-assistant-core]] [[obra-superpowers]] [[davila7-claude-code-templates]]
+[[davila7-claude-code-templates]] [[prefecthq-prefect]] [[home-assistant-core]] [[wonderwhy-er-desktopcommandermcp]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]]
 

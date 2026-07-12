@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[google-labs-code-stitch-skills]] [[cypress-io-cypress]] [[obra-superpowers]] [[dotnet-aspnetcore]]
+[[davila7-claude-code-templates]] [[cypress-io-cypress]] [[chen08209-flclash]] [[pingdotgg-t3code]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

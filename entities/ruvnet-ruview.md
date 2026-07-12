@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[oven-sh-bun]] [[malisper-pgrust]] [[davila7-claude-code-templates]] [[hashicorp-terraform]] [[ansible-ansible]]
+[[davila7-claude-code-templates]] [[malisper-pgrust]] [[hashicorp-terraform]] [[oven-sh-bun]] [[tencentcloud-cubesandbox]]
 
 **所属领域**: [[devops]]
 

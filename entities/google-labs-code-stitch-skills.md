@@ -35,7 +35,7 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[cypress-io-cypress]] [[obra-superpowers]] [[davila7-claude-code-templates]] [[prisma-prisma]]
+[[davila7-claude-code-templates]] [[chen08209-flclash]] [[pingdotgg-t3code]] [[wonderwhy-er-desktopcommandermcp]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -35,7 +35,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[unclecode-crawl4ai]] [[cypress-io-cypress]] [[home-assistant-core]] [[obra-superpowers]]
+[[davila7-claude-code-templates]] [[ruvnet-ruview]] [[cypress-io-cypress]] [[prefecthq-prefect]] [[hashicorp-terraform]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

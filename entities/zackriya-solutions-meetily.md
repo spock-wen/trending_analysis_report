@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[alibaba-zvec]] [[anthropics-claude-cookbooks]] [[cypress-io-cypress]] [[oven-sh-bun]] [[home-assistant-core]]
+[[affaan-m-ecc]] [[ruvnet-ruview]] [[prisma-prisma]] [[prefecthq-prefect]] [[cypress-io-cypress]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

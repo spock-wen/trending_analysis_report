@@ -34,7 +34,7 @@ Langflow is a powerful tool for building and deploying AI-powered agents and wor
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[unclecode-crawl4ai]] [[home-assistant-core]] [[obra-superpowers]] [[davila7-claude-code-templates]]
+[[davila7-claude-code-templates]] [[ruvnet-ruview]] [[hashicorp-terraform]] [[prefecthq-prefect]] [[home-assistant-core]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

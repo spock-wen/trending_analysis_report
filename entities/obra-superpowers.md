@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[iofficeai-officecli]] [[anthropics-claude-cookbooks]] [[google-labs-code-stitch-skills]] [[diolinux-photogimp]] [[davila7-claude-code-templates]]
+[[davila7-claude-code-templates]] [[zeux-meshoptimizer]] [[iofficeai-officecli]] [[mattpocock-skills]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

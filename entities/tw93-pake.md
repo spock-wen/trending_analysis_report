@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[cypress-io-cypress]] [[oven-sh-bun]] [[malisper-pgrust]] [[dotnet-aspnetcore]]
+[[davila7-claude-code-templates]] [[ruvnet-ruview]] [[malisper-pgrust]] [[cypress-io-cypress]] [[chen08209-flclash]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[anthropics-claude-cookbooks]] [[unclecode-crawl4ai]] [[home-assistant-core]] [[obra-superpowers]]
+[[davila7-claude-code-templates]] [[affaan-m-ecc]] [[prefecthq-prefect]] [[home-assistant-core]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

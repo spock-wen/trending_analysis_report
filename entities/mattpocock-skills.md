@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[google-labs-code-stitch-skills]] [[obra-superpowers]] [[davila7-claude-code-templates]] [[msitarzewski-agency-agents]]
+[[davila7-claude-code-templates]] [[chen08209-flclash]] [[obra-superpowers]] [[0xnyk-council-of-high-intelligence]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

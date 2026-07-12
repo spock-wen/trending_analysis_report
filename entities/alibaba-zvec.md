@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[catchorg-catch2]] [[zackriya-solutions-meetily]] [[prisma-prisma]] [[abseil-abseil-cpp]] [[tencentcloud-tencentdb-agent-memory]]
+[[zeux-meshoptimizer]] [[catchorg-catch2]] [[tencentcloud-tencentdb-agent-memory]] [[chriskohlhoff-asio]] [[prisma-prisma]]
 
 **所属领域**: [[data]]
 

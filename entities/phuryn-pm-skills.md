@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[google-labs-code-stitch-skills]] [[obra-superpowers]] [[davila7-claude-code-templates]] [[ansible-ansible]]
+[[davila7-claude-code-templates]] [[chen08209-flclash]] [[crosstalk-solutions-project-nomad]] [[obra-superpowers]] [[wonderwhy-er-desktopcommandermcp]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

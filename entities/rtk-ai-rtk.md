@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[google-labs-code-stitch-skills]] [[oven-sh-bun]] [[obra-superpowers]] [[malisper-pgrust]]
+[[davila7-claude-code-templates]] [[ruvnet-ruview]] [[malisper-pgrust]] [[chen08209-flclash]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -36,7 +36,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[cypress-io-cypress]] [[obra-superpowers]] [[prisma-prisma]] [[kyutai-labs-pocket-tts]]
+[[kyutai-labs-pocket-tts]] [[altic-dev-fluidvoice]] [[pingdotgg-t3code]] [[wonderwhy-er-desktopcommandermcp]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[ansible-ansible]] [[obra-superpowers]] [[anthropics-claude-cookbooks]] [[openai-plugins]]
+[[wonderwhy-er-desktopcommandermcp]] [[crosstalk-solutions-project-nomad]] [[anthropics-claude-cookbooks]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]]
 

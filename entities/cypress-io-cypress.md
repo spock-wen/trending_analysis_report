@@ -36,7 +36,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[dotnet-aspnetcore]] [[nutlope-hallmark]] [[crosstalk-solutions-project-nomad]] [[wonderwhy-er-desktopcommandermcp]]
+[[hasaneyldrm-exercises-dataset]] [[moeru-ai-airi]] [[crosstalk-solutions-project-nomad]] [[opencut-app-opencut]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]]
 

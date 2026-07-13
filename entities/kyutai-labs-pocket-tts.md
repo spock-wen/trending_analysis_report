@@ -35,7 +35,7 @@ A TTS that fits in your CPU (and pocket)
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[davila7-claude-code-templates]] [[altic-dev-fluidvoice]] [[prefecthq-prefect]] [[home-assistant-core]]
+[[coreyhaines31-marketingskills]] [[shubhamsaboo-awesome-llm-apps]] [[hugohe3-ppt-master]] [[hasaneyldrm-exercises-dataset]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

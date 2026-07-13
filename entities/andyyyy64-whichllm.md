@@ -35,7 +35,7 @@ Find the local LLM that actually runs and performs best on your hardware. Ranked
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[prefecthq-prefect]] [[chen08209-flclash]] [[home-assistant-core]] [[wonderwhy-er-desktopcommandermcp]]
+[[coreyhaines31-marketingskills]] [[shubhamsaboo-awesome-llm-apps]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[github-spec-kit]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

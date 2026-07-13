@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[cypress-io-cypress]] [[prefecthq-prefect]] [[home-assistant-core]] [[dotnet-aspnetcore]]
+[[coreyhaines31-marketingskills]] [[shubhamsaboo-awesome-llm-apps]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[github-spec-kit]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -35,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[par274-sharpemu]] [[iofficeai-officecli]] [[chen08209-flclash]] [[k1tbyte-wand-enhancer]]
+[[par274-sharpemu]] [[k1tbyte-wand-enhancer]] [[iofficeai-officecli]] [[graphify-labs-graphify]] [[chen08209-flclash]]
 
 **所属领域**: [[cli]]
 

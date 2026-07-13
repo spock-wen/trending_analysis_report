@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[cypress-io-cypress]] [[teslamate-org-teslamate]] [[tencentcloud-tencentdb-agent-memory]] [[home-assistant-core]]
+[[home-assistant-core]] [[coreyhaines31-marketingskills]] [[prefecthq-prefect]] [[hasaneyldrm-exercises-dataset]] [[moeru-ai-airi]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[chen08209-flclash]] [[pingdotgg-t3code]] [[obra-superpowers]] [[crosstalk-solutions-project-nomad]]
+[[moeru-ai-airi]] [[crosstalk-solutions-project-nomad]] [[chen08209-flclash]] [[opencut-app-opencut]] [[graphify-labs-graphify]]
 
 **所属领域**: [[cli]]
 

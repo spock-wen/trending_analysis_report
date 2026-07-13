@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[cypress-io-cypress]] [[ahmadibrahiim-website-downloader]] [[shanraisshan-claude-code-best-practice]] [[ripienaar-free-for-dev]] [[dotnet-aspnetcore]]
+[[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[ahmadibrahiim-website-downloader]] [[moeru-ai-airi]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

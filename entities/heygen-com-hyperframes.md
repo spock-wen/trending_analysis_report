@@ -34,7 +34,7 @@ Write HTML. Render video. Built for agents.
 
 ## 相关项目
 
-[[cypress-io-cypress]] [[pingdotgg-t3code]] [[dotnet-aspnetcore]] [[wonderwhy-er-desktopcommandermcp]] [[nutlope-hallmark]]
+[[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

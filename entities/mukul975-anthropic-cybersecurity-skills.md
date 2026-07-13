@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[affaan-m-ecc]] [[prefecthq-prefect]] [[chen08209-flclash]] [[home-assistant-core]]
+[[home-assistant-core]] [[coreyhaines31-marketingskills]] [[shubhamsaboo-awesome-llm-apps]] [[hasaneyldrm-exercises-dataset]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

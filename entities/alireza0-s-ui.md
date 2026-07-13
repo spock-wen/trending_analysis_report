@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[tailscale-tailscale]] [[hashicorp-terraform]] [[cypress-io-cypress]] [[argoproj-argo-cd]] [[vxcontrol-pentagi]]
+[[hashicorp-terraform]] [[vxcontrol-pentagi]] [[hasaneyldrm-exercises-dataset]] [[tailscale-tailscale]] [[moeru-ai-airi]]
 
 **所属领域**: [[web]]
 

@@ -34,7 +34,7 @@ An open-source background agents coding system
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[pingdotgg-t3code]] [[crosstalk-solutions-project-nomad]] [[wonderwhy-er-desktopcommandermcp]] [[hkuds-vibe-trading]]
+[[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]]
 

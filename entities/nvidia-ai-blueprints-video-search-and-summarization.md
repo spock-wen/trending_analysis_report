@@ -35,7 +35,7 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[prefecthq-prefect]] [[tencentcloud-tencentdb-agent-memory]] [[home-assistant-core]] [[wonderwhy-er-desktopcommandermcp]]
+[[coreyhaines31-marketingskills]] [[prefecthq-prefect]] [[shubhamsaboo-awesome-llm-apps]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

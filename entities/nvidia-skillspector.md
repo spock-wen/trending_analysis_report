@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[affaan-m-ecc]] [[prefecthq-prefect]] [[home-assistant-core]] [[zackriya-solutions-meetily]]
+[[home-assistant-core]] [[coreyhaines31-marketingskills]] [[shubhamsaboo-awesome-llm-apps]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

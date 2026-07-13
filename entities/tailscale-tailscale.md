@@ -34,7 +34,7 @@ The easiest, most secure way to use WireGuard and 2FA.
 
 ## 相关项目
 
-[[hashicorp-terraform]] [[argoproj-argo-cd]] [[vxcontrol-pentagi]] [[wonderwhy-er-desktopcommandermcp]] [[crosstalk-solutions-project-nomad]]
+[[coreyhaines31-marketingskills]] [[hashicorp-terraform]] [[vxcontrol-pentagi]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]]
 

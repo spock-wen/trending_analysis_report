@@ -35,5 +35,5 @@ A self-hosted travel/trip planner with real-time collaboration, interactive maps
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[wonderwhy-er-desktopcommandermcp]] [[colemurray-background-agents]] [[pingdotgg-t3code]]
+[[moeru-ai-airi]] [[wonderwhy-er-desktopcommandermcp]] [[opencut-app-opencut]] [[crosstalk-solutions-project-nomad]]
 

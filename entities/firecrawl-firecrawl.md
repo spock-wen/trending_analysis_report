@@ -35,7 +35,7 @@ The API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[cypress-io-cypress]] [[pingdotgg-t3code]] [[dotnet-aspnetcore]] [[nutlope-hallmark]] [[crosstalk-solutions-project-nomad]]
+[[hasaneyldrm-exercises-dataset]] [[moeru-ai-airi]] [[crosstalk-solutions-project-nomad]] [[opencut-app-opencut]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]]
 

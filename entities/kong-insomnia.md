@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[cypress-io-cypress]] [[chen08209-flclash]] [[pingdotgg-t3code]] [[dotnet-aspnetcore]]
+[[hasaneyldrm-exercises-dataset]] [[moeru-ai-airi]] [[crosstalk-solutions-project-nomad]] [[chen08209-flclash]] [[opencut-app-opencut]]
 
 **所属领域**: [[web]] [[cli]]
 

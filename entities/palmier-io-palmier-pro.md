@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[steipete-codexbar]] [[wonderwhy-er-desktopcommandermcp]] [[apple-container]] [[crosstalk-solutions-project-nomad]]
+[[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[altic-dev-fluidvoice]] [[hkuds-vibe-trading]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]]
 

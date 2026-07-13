@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[cypress-io-cypress]] [[prefecthq-prefect]] [[chen08209-flclash]] [[home-assistant-core]]
+[[coreyhaines31-marketingskills]] [[shubhamsaboo-awesome-llm-apps]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[github-spec-kit]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

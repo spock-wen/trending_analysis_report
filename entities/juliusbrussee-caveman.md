@@ -37,7 +37,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[openai-plugins]] [[addyosmani-agent-skills]] [[wonderwhy-er-desktopcommandermcp]] [[leonxlnx-taste-skill]]
+[[leonxlnx-taste-skill]] [[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]]
 

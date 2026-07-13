@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[malisper-pgrust]] [[crosstalk-solutions-project-nomad]] [[oven-sh-bun]] [[wonderwhy-er-desktopcommandermcp]]
+[[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[oven-sh-bun]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]]
 

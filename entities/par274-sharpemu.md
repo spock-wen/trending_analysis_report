@@ -34,5 +34,5 @@ An experimental PlayStation 5 emulator project.
 
 ## 相关项目
 
-[[k1tbyte-wand-enhancer]] [[dotnet-aspnetcore]] [[iofficeai-officecli]]
+[[iofficeai-officecli]] [[k1tbyte-wand-enhancer]] [[dotnet-aspnetcore]]
 

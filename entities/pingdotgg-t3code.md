@@ -34,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[wonderwhy-er-desktopcommandermcp]] [[colemurray-background-agents]]
+[[moeru-ai-airi]] [[wonderwhy-er-desktopcommandermcp]] [[opencut-app-opencut]] [[crosstalk-solutions-project-nomad]]
 

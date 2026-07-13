@@ -35,7 +35,7 @@ GLM-5: From Vibe Coding to Agentic Engineering
 
 ## 相关项目
 
-[[wonderwhy-er-desktopcommandermcp]] [[crosstalk-solutions-project-nomad]] [[anthropics-claude-cookbooks]] [[hkuds-vibe-trading]]
+[[hasaneyldrm-exercises-dataset]] [[coreyhaines31-marketingskills]] [[hkuds-vibe-trading]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]]
 

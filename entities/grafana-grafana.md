@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[ruvnet-ruview]] [[hashicorp-terraform]] [[tencentcloud-tencentdb-agent-memory]] [[pingdotgg-t3code]]
+[[coreyhaines31-marketingskills]] [[prefecthq-prefect]] [[hashicorp-terraform]] [[hasaneyldrm-exercises-dataset]] [[moeru-ai-airi]]
 
 **所属领域**: [[data]] [[devops]]
 

@@ -36,7 +36,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[kyutai-labs-pocket-tts]] [[altic-dev-fluidvoice]] [[pingdotgg-t3code]] [[wonderwhy-er-desktopcommandermcp]] [[hugohe3-ppt-master]]
+[[coreyhaines31-marketingskills]] [[hugohe3-ppt-master]] [[hasaneyldrm-exercises-dataset]] [[altic-dev-fluidvoice]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[zeux-meshoptimizer]] [[catchorg-catch2]] [[tencentcloud-tencentdb-agent-memory]] [[chriskohlhoff-asio]] [[prisma-prisma]]
+[[chriskohlhoff-asio]] [[abseil-abseil-cpp]] [[coreyhaines31-marketingskills]] [[prefecthq-prefect]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[data]]
 

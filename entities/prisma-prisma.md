@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[ahmadibrahiim-website-downloader]] [[pingdotgg-t3code]] [[alibaba-zvec]] [[safishamsi-graphify]]
+[[coreyhaines31-marketingskills]] [[prefecthq-prefect]] [[hasaneyldrm-exercises-dataset]] [[ahmadibrahiim-website-downloader]] [[moeru-ai-airi]]
 
 **所属领域**: [[data]] [[image-gen]]
 

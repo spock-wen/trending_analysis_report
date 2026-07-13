@@ -38,7 +38,7 @@ Collection of publicly available IPTV channels from all over the world
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[wonderwhy-er-desktopcommandermcp]] [[crosstalk-solutions-project-nomad]] [[anthropics-claude-cookbooks]] [[colemurray-background-agents]]
+[[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]]
 

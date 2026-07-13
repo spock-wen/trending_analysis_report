@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[affaan-m-ecc]] [[prefecthq-prefect]] [[zackriya-solutions-meetily]] [[veracrypt-veracrypt]]
+[[shubhamsaboo-awesome-llm-apps]] [[hkuds-vibe-trading]] [[github-spec-kit]] [[veracrypt-veracrypt]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

@@ -37,7 +37,7 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[affaan-m-ecc]] [[prefecthq-prefect]] [[alirezarezvani-claude-skills]] [[home-assistant-core]]
+[[coreyhaines31-marketingskills]] [[shubhamsaboo-awesome-llm-apps]] [[mvanhorn-last30days-skill]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

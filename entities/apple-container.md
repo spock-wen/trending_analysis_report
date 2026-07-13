@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[steipete-codexbar]] [[wonderwhy-er-desktopcommandermcp]] [[palmier-io-palmier-pro]] [[crosstalk-solutions-project-nomad]]
+[[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[altic-dev-fluidvoice]] [[hkuds-vibe-trading]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]]
 

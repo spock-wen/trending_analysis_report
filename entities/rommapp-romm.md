@@ -36,5 +36,5 @@ A beautiful, powerful, self-hosted rom manager and player.
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[home-assistant-core]] [[hkuds-vibe-trading]] [[prefecthq-prefect]]
+[[graphify-labs-graphify]] [[hkuds-vibe-trading]] [[github-spec-kit]] [[shubhamsaboo-awesome-llm-apps]]
 

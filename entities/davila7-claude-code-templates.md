@@ -36,7 +36,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[hashicorp-terraform]] [[prefecthq-prefect]] [[chen08209-flclash]] [[home-assistant-core]]
+[[coreyhaines31-marketingskills]] [[shubhamsaboo-awesome-llm-apps]] [[hashicorp-terraform]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

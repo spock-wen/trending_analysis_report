@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[davila7-claude-code-templates]] [[chen08209-flclash]] [[owainlewis-awesome-artificial-intelligence]] [[pingdotgg-t3code]]
+[[microsoft-ai-for-beginners]] [[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[byoungd-english-level-up-tips]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

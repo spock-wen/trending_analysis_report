@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[davila7-claude-code-templates]] [[prefecthq-prefect]] [[home-assistant-core]] [[byoungd-english-level-up-tips]]
+[[microsoft-ai-for-beginners]] [[coreyhaines31-marketingskills]] [[shubhamsaboo-awesome-llm-apps]] [[hasaneyldrm-exercises-dataset]] [[byoungd-english-level-up-tips]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

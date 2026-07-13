@@ -35,7 +35,7 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[cypress-io-cypress]] [[chen08209-flclash]] [[pingdotgg-t3code]] [[dotnet-aspnetcore]]
+[[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

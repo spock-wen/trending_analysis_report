@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[nvidia-cosmos]] [[davila7-claude-code-templates]] [[lyogavin-airllm]] [[ruvnet-ruview]]
+[[hashicorp-terraform]] [[davila7-claude-code-templates]] [[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[nvidia-cosmos]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

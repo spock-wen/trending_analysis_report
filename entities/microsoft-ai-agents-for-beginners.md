@@ -36,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[nvidia-cosmos]] [[lyogavin-airllm]] [[byoungd-english-level-up-tips]] [[wonderwhy-er-desktopcommandermcp]]
+[[microsoft-ai-for-beginners]] [[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[byoungd-english-level-up-tips]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

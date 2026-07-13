@@ -38,7 +38,7 @@ agent multiplexer that lives in your terminal.
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[ruvnet-ruview]] [[malisper-pgrust]] [[chen08209-flclash]] [[crosstalk-solutions-project-nomad]]
+[[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[oven-sh-bun]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

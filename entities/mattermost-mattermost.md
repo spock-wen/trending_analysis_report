@@ -35,5 +35,5 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[wonderwhy-er-desktopcommandermcp]] [[colemurray-background-agents]] [[pingdotgg-t3code]]
+[[moeru-ai-airi]] [[wonderwhy-er-desktopcommandermcp]] [[opencut-app-opencut]] [[crosstalk-solutions-project-nomad]]
 

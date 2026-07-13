@@ -36,7 +36,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[ruvnet-ruview]] [[hashicorp-terraform]] [[pingdotgg-t3code]] [[wonderwhy-er-desktopcommandermcp]]
+[[coreyhaines31-marketingskills]] [[hashicorp-terraform]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

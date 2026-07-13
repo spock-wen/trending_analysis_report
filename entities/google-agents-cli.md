@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[ruvnet-ruview]] [[hashicorp-terraform]] [[prefecthq-prefect]] [[chen08209-flclash]]
+[[coreyhaines31-marketingskills]] [[shubhamsaboo-awesome-llm-apps]] [[hashicorp-terraform]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

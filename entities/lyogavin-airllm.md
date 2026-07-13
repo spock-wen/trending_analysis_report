@@ -35,7 +35,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[nvidia-cosmos]] [[wonderwhy-er-desktopcommandermcp]] [[crosstalk-solutions-project-nomad]] [[anthropics-claude-cookbooks]]
+[[microsoft-ai-for-beginners]] [[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]]
 

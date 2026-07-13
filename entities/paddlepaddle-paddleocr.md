@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[prefecthq-prefect]] [[tencentcloud-tencentdb-agent-memory]] [[ahmadibrahiim-website-downloader]] [[home-assistant-core]]
+[[coreyhaines31-marketingskills]] [[prefecthq-prefect]] [[shubhamsaboo-awesome-llm-apps]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

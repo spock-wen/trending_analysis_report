@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[mattpocock-skills]] [[chen08209-flclash]] [[obra-superpowers]] [[msitarzewski-agency-agents]]
+[[msitarzewski-agency-agents]] [[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

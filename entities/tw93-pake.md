@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[ruvnet-ruview]] [[malisper-pgrust]] [[cypress-io-cypress]] [[chen08209-flclash]]
+[[hasaneyldrm-exercises-dataset]] [[oven-sh-bun]] [[moeru-ai-airi]] [[tencentcloud-cubesandbox]] [[raphire-win11debloat]]
 
 **所属领域**: [[web]] [[cli]]
 

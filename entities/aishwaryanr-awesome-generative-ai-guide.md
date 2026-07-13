@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[cypress-io-cypress]] [[alirezarezvani-claude-skills]] [[ahmadibrahiim-website-downloader]] [[shanraisshan-claude-code-best-practice]]
+[[coreyhaines31-marketingskills]] [[mvanhorn-last30days-skill]] [[hasaneyldrm-exercises-dataset]] [[ahmadibrahiim-website-downloader]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

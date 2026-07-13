@@ -35,7 +35,7 @@ TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a
 
 ## 相关项目
 
-[[prefecthq-prefect]] [[pingdotgg-t3code]] [[wonderwhy-er-desktopcommandermcp]] [[prisma-prisma]] [[alibaba-zvec]]
+[[coreyhaines31-marketingskills]] [[prefecthq-prefect]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

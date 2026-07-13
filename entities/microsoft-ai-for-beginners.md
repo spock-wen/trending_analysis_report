@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[nvidia-cosmos]] [[lyogavin-airllm]] [[byoungd-english-level-up-tips]] [[wonderwhy-er-desktopcommandermcp]] [[freecodecamp-freecodecamp]]
+[[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[byoungd-english-level-up-tips]] [[hkuds-vibe-trading]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

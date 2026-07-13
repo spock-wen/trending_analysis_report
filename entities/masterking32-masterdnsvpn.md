@@ -36,7 +36,7 @@ Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tailscale-tailscale]] [[hashicorp-terraform]] [[argoproj-argo-cd]] [[home-assistant-core]]
+[[home-assistant-core]] [[hashicorp-terraform]] [[vxcontrol-pentagi]] [[tailscale-tailscale]] [[veracrypt-veracrypt]]
 
 **所属领域**: [[security]]
 

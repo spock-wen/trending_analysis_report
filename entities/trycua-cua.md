@@ -34,7 +34,7 @@ Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[ruvnet-ruview]] [[cypress-io-cypress]] [[hashicorp-terraform]] [[ahmadibrahiim-website-downloader]]
+[[coreyhaines31-marketingskills]] [[hashicorp-terraform]] [[hasaneyldrm-exercises-dataset]] [[ahmadibrahiim-website-downloader]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

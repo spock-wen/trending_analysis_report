@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[zeux-meshoptimizer]] [[prefecthq-prefect]] [[iofficeai-officecli]] [[home-assistant-core]]
+[[shubhamsaboo-awesome-llm-apps]] [[hkuds-vibe-trading]] [[github-spec-kit]] [[iofficeai-officecli]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

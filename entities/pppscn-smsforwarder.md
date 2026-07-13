@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[cypress-io-cypress]] [[dotnet-aspnetcore]] [[yairm210-unciv]] [[bannedbook-fanqiang]] [[andreknieriem-headunit-revived]]
+[[andreknieriem-headunit-revived]] [[hasaneyldrm-exercises-dataset]] [[moeru-ai-airi]] [[cypress-io-cypress]] [[yairm210-unciv]]
 
 **所属领域**: [[web]]
 

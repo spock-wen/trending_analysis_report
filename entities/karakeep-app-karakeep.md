@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[ahmadibrahiim-website-downloader]] [[pingdotgg-t3code]] [[wonderwhy-er-desktopcommandermcp]] [[prisma-prisma]] [[safishamsi-graphify]]
+[[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[ahmadibrahiim-website-downloader]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

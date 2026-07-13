@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[zeux-meshoptimizer]] [[iofficeai-officecli]] [[pingdotgg-t3code]] [[obra-superpowers]] [[diolinux-photogimp]]
+[[moeru-ai-airi]] [[crosstalk-solutions-project-nomad]] [[iofficeai-officecli]] [[obra-superpowers]] [[diolinux-photogimp]]
 
 **所属领域**: [[erp]]
 

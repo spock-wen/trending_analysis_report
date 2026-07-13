@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-07-13 | 总页面：347
+> 最后更新：2026-07-14 | 总页面：349
 
 ## Entities
 
@@ -69,7 +69,7 @@
 - [[cloakhq-cloakbrowser|CloakBrowser"]] — Stealth Chromium that passes every bot detection test. Drop-... 🆕
 - [[codecrafters-io-build-your-own-x|build-your-own-x"]] — Master programming by recreating your favorite technologies ... 🔥
 - [[colbymchenry-codegraph|codegraph"]] — Pre-indexed code knowledge graph for Claude Code, Codex, Cur... 🔥
-- [[colemurray-background-agents|background-agents"]] — An open-source background agents coding system 🆕
+- [[colemurray-background-agents|background-agents"]] — An open-source background agents coding system
 - [[commaai-openpilot|openpilot"]] — openpilot is an operating system for robotics. Currently, it... 🔥
 - [[continuedev-continue|continue"]] — open-source coding agent
 - [[copilotkit-copilotkit|CopilotKit"]] — The Frontend Stack for Agents & Generative UI. React, Angula...
@@ -117,7 +117,7 @@
 - [[gastownhall-gastown|gastown"]] — Gas Town - multi-agent workspace manager 🆕
 - [[github-copilot-sdk|copilot-sdk"]] — Multi-platform SDK for integrating GitHub Copilot Agent into... 🆕
 - [[github-docs|docs"]] — The open-source repo for docs.github.com
-- [[github-spec-kit|spec-kit"]] — Toolkit to help you get started with Spec-Driven Development 🆕
+- [[github-spec-kit|spec-kit"]] — 💫 Toolkit to help you get started with Spec-Driven Developme...
 - [[godotengine-godot|godot"]] — Godot Engine – Multi-platform 2D and 3D game engine
 - [[google-agents-cli|agents-cli"]] — The CLI and skills that turn any coding assistant into an ex...
 - [[google-labs-code-stitch-skills|stitch-skills"]] — A library of Agent Skills designed to work with the Stitch M... 🆕
@@ -125,16 +125,17 @@
 - [[google-skills|skills"]] — Agent Skills for Google products and technologies
 - [[gorvgoyl-clone-wars|Clone-Wars"]] — 100+ open-source clones of popular sites like Airbnb, Amazon...
 - [[grafana-grafana|grafana"]] — The open and composable observability and data visualization...
+- [[graphify-labs-graphify|graphify"]] — AI coding assistant skill (Claude Code, Codex, OpenCode, Cur... 🆕
 - [[grpc-grpc|grpc"]] — C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [[hardikpandya-stop-slop|stop-slop"]] — A skill file for removing AI tells from prose 🔥
 - [[harry0703-moneyprinterturbo|MoneyPrinterTurbo"]] — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using...
-- [[hasaneyldrm-exercises-dataset|exercises-dataset"]] — A comprehensive dataset of 433 fitness exercises. Each entry... 🔥
+- [[hasaneyldrm-exercises-dataset|exercises-dataset"]] — 1,324-exercise fitness dataset — animation GIFs, 180×180 thu...
 - [[hashicorp-terraform|terraform"]] — Terraform enables you to safely and predictably create, chan... 🆕
 - [[hesreallyhim-awesome-claude-code|awesome-claude-code"]] — A hand-picked collection of the finest of resources for the ...
 - [[hexo-ai-sia|sia"]] — SIA is a Self Improving AI framework to autonomously improve...
 - [[heygen-com-hyperframes|hyperframes"]] — Write HTML. Render video. Built for agents.
 - [[hkuds-cli-anything|CLI-Anything"]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:... 🔥
-- [[hkuds-vibe-trading|Vibe-Trading"]] — "Vibe-Trading: Your Personal Trading Agent"
+- [[hkuds-vibe-trading|Vibe-Trading"]] — "Vibe-Trading: Your Personal Trading Agent" 🆕
 - [[hkuds-vimax|ViMax"]] — "ViMax: Agentic Video Generation (Director, Screenwriter, Pr... 🆕
 - [[home-assistant-core|core"]] — 🏡 Open source home automation that puts local control and pr... 🆕
 - [[hugohe3-ppt-master|ppt-master"]] — AI generates a real, editable PowerPoint from any document —...
@@ -161,7 +162,7 @@
 - [[juliusbrussee-caveman|caveman"]] — 🪨 why use many token when few token do trick — Claude Code s... 🔥
 - [[jwasham-coding-interview-university|coding-interview-university"]] — A complete computer science study plan to become a software ...
 - [[k-dense-ai-scientific-agent-skills|scientific-agent-skills"]] — A set of ready to use Agent Skills for research, science, en... 🔥
-- [[k1tbyte-wand-enhancer|Wand-Enhancer"]] — Advanced UX and interoperability extension for Wand (WeMod) ... 🆕
+- [[k1tbyte-wand-enhancer|Wand-Enhancer"]] — Advanced UX and interoperability extension for Wand (WeMod) ...
 - [[karakeep-app-karakeep|karakeep"]] — A self-hostable bookmark-everything app (links, notes and im...
 - [[karpathy-nn-zero-to-hero|nn-zero-to-hero"]] — Neural Networks: Zero to Hero
 - [[kenn-io-agentsview|agentsview"]] — Local-first session intelligence and analytics for coding ag...
@@ -234,6 +235,7 @@
 - [[openai-plugins|plugins"]] — OpenAI Plugins
 - [[openbmb-voxcpm|VoxCPM"]] — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generati...
 - [[openclaw-openclaw-windows-node|openclaw-windows-node"]] — Windows companion suite for OpenClaw - System Tray app, Shar... 🆕
+- [[opencut-app-opencut|OpenCut"]] — The open-source CapCut alternative 🆕
 - [[opencv-opencv|opencv"]] — Open Source Computer Vision Library
 - [[opendatalab-mineru|MinerU"]] — Transforms complex documents like PDFs and Office docs into ...
 - [[opendataloader-project-opendataloader-pdf|opendataloader-pdf"]] — PDF Parser for AI-ready data. Automate PDF accessibility. Op...
@@ -247,15 +249,15 @@
 - [[palmier-io-palmier-pro|palmier-pro"]] — macOS video editor built for AI 🔥
 - [[panniantong-agent-reach|Agent-Reach"]] — Give your AI agent eyes to see the entire internet. Read & s...
 - [[paperless-ngx-paperless-ngx|paperless-ngx"]] — A community-supported supercharged document management syste...
-- [[par274-sharpemu|sharpemu"]] — An experimental PlayStation 5 emulator project. 🆕
+- [[par274-sharpemu|sharpemu"]] — An experimental PlayStation 5 emulator project.
 - [[pascalorg-editor|editor"]] — Create and share 3D architectural projects.
 - [[pbakaus-impeccable|impeccable"]] — The design language that makes your AI harness better at des...
 - [[penpot-penpot|penpot"]] — Penpot: The open-source design tool for design and code coll... 🔥
 - [[phuryn-pm-skills|pm-skills"]] — PM Skills Marketplace: 100+ agentic skills, commands, and pl... 🔥
-- [[pingdotgg-t3code|t3code"]] — No description 🆕
+- [[pingdotgg-t3code|t3code"]] — No description
 - [[plausible-analytics|analytics"]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
 - [[pppscn-smsforwarder|SmsForwarder"]] — 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内...
-- [[prefecthq-prefect|prefect"]] — Prefect is a workflow orchestration framework for building r... 🆕
+- [[prefecthq-prefect|prefect"]] — Prefect is a workflow orchestration framework for building r...
 - [[prisma-prisma|prisma"]] — Next-generation ORM for Node.js & TypeScript | PostgreSQL, M...
 - [[puppeteer-puppeteer|puppeteer"]] — JavaScript API for Chrome and Firefox
 - [[pytest-dev-pytest|pytest"]] — The pytest framework makes it easy to write small tests, yet...
@@ -320,7 +322,7 @@
 - [[universal-debloater-alliance-universal-android-debloater-next-generation|universal-android-debloater-next-generation"]] — Cross-platform GUI written in Rust using ADB to debloat non-... 🔥
 - [[usestrix-strix|strix"]] — Open-source AI penetration testing tool to find and fix your... 🔥
 - [[veracrypt-veracrypt|VeraCrypt"]] — Disk encryption with strong security based on TrueCrypt
-- [[virattt-ai-hedge-fund|ai-hedge-fund"]] — An AI Hedge Fund Team 🆕
+- [[virattt-ai-hedge-fund|ai-hedge-fund"]] — An AI Hedge Fund Team
 - [[voltagent-awesome-design-md|awesome-design-md"]] — A collection of DESIGN.md files analysis by popular brand de...
 - [[vxcontrol-pentagi|pentagi"]] — Fully autonomous AI Agents system capable of performing comp...
 - [[withastro-flue|flue"]] — The sandbox agent framework. 🔥

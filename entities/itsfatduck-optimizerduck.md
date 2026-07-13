@@ -34,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[par274-sharpemu]] [[iofficeai-officecli]] [[k1tbyte-wand-enhancer]] [[home-assistant-core]]
+[[home-assistant-core]] [[par274-sharpemu]] [[zackriya-solutions-meetily]] [[k1tbyte-wand-enhancer]] [[iofficeai-officecli]]
 
 **所属领域**: [[security]]
 

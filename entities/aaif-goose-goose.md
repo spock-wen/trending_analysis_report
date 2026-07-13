@@ -36,7 +36,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[malisper-pgrust]] [[crosstalk-solutions-project-nomad]] [[oven-sh-bun]] [[wonderwhy-er-desktopcommandermcp]]
+[[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[oven-sh-bun]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]]
 

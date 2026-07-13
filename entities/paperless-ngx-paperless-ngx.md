@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[affaan-m-ecc]] [[prefecthq-prefect]] [[alirezarezvani-claude-skills]] [[home-assistant-core]]
+[[shubhamsaboo-awesome-llm-apps]] [[mvanhorn-last30days-skill]] [[hkuds-vibe-trading]] [[github-spec-kit]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[science]]
 

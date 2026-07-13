@@ -38,7 +38,7 @@ This is MCP server for Claude that gives it terminal control, file system search
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[chen08209-flclash]] [[pingdotgg-t3code]] [[obra-superpowers]] [[crosstalk-solutions-project-nomad]]
+[[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -37,7 +37,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ## 相关项目
 
-[[zeux-meshoptimizer]] [[iofficeai-officecli]] [[crosstalk-solutions-project-nomad]] [[obra-superpowers]] [[diolinux-photogimp]]
+[[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[iofficeai-officecli]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

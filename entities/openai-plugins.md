@@ -38,7 +38,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[addyosmani-agent-skills]] [[wonderwhy-er-desktopcommandermcp]] [[leonxlnx-taste-skill]] [[crosstalk-solutions-project-nomad]]
+[[leonxlnx-taste-skill]] [[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cypress-io-cypress]] [[ripienaar-free-for-dev]] [[dotnet-aspnetcore]] [[prisma-prisma]] [[safishamsi-graphify]]
+[[hasaneyldrm-exercises-dataset]] [[moeru-ai-airi]] [[shanraisshan-claude-code-best-practice]] [[ripienaar-free-for-dev]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]] [[image-gen]]
 

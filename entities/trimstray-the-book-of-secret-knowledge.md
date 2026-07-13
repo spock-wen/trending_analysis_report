@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[cypress-io-cypress]] [[chen08209-flclash]] [[dotnet-aspnetcore]] [[obra-superpowers]]
+[[hasaneyldrm-exercises-dataset]] [[moeru-ai-airi]] [[chen08209-flclash]] [[nutlope-hallmark]] [[graphify-labs-graphify]]
 
 **所属领域**: [[web]] [[cli]]
 

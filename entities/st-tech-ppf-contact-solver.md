@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[prefecthq-prefect]] [[chen08209-flclash]] [[home-assistant-core]] [[obra-superpowers]]
+[[shubhamsaboo-awesome-llm-apps]] [[hkuds-vibe-trading]] [[github-spec-kit]] [[chen08209-flclash]] [[graphify-labs-graphify]]
 
 **所属领域**: [[cli]]
 

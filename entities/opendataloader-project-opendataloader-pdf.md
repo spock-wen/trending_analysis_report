@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[anthropics-claude-cookbooks]] [[prefecthq-prefect]] [[tencentcloud-tencentdb-agent-memory]] [[crosstalk-solutions-project-nomad]]
+[[coreyhaines31-marketingskills]] [[prefecthq-prefect]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

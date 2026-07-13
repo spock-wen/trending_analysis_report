@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[cypress-io-cypress]] [[pingdotgg-t3code]] [[dotnet-aspnetcore]] [[nutlope-hallmark]] [[crosstalk-solutions-project-nomad]]
+[[hasaneyldrm-exercises-dataset]] [[moeru-ai-airi]] [[crosstalk-solutions-project-nomad]] [[opencut-app-opencut]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]]
 

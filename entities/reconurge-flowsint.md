@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[home-assistant-core]] [[veracrypt-veracrypt]] [[pingdotgg-t3code]] [[zackriya-solutions-meetily]]
+[[home-assistant-core]] [[moeru-ai-airi]] [[crosstalk-solutions-project-nomad]] [[veracrypt-veracrypt]] [[opencut-app-opencut]]
 
 **所属领域**: [[security]]
 

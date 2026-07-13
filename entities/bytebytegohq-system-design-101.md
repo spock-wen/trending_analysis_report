@@ -34,7 +34,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[wonderwhy-er-desktopcommandermcp]] [[crosstalk-solutions-project-nomad]] [[anthropics-claude-cookbooks]] [[hkuds-vibe-trading]]
+[[hasaneyldrm-exercises-dataset]] [[coreyhaines31-marketingskills]] [[hkuds-vibe-trading]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]]
 

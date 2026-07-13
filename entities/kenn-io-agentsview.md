@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[tailscale-tailscale]] [[hashicorp-terraform]] [[prefecthq-prefect]] [[argoproj-argo-cd]] [[tencentcloud-tencentdb-agent-memory]]
+[[coreyhaines31-marketingskills]] [[prefecthq-prefect]] [[hashicorp-terraform]] [[vxcontrol-pentagi]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

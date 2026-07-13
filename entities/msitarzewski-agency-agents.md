@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[cypress-io-cypress]] [[mattpocock-skills]] [[chen08209-flclash]] [[dotnet-aspnetcore]]
+[[coreyhaines31-marketingskills]] [[0xnyk-council-of-high-intelligence]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

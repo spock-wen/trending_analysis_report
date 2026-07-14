@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[prefecthq-prefect]] [[hasaneyldrm-exercises-dataset]] [[oven-sh-bun]] [[tencentcloud-cubesandbox]]
+[[oven-sh-bun]] [[tencentcloud-cubesandbox]] [[graphify-labs-graphify]] [[ruvnet-ruview]] [[prefecthq-prefect]]
 
 **所属领域**: [[data]]
 

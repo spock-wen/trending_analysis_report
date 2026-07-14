@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[coreyhaines31-marketingskills]] [[mvanhorn-last30days-skill]] [[hasaneyldrm-exercises-dataset]] [[byoungd-english-level-up-tips]]
+[[shubhamsaboo-awesome-llm-apps]] [[freecodecamp-freecodecamp]] [[mattpocock-skills]] [[microsoft-ai-for-beginners]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

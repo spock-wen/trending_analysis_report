@@ -34,5 +34,5 @@ SpiderFoot automates OSINT for threat intelligence and mapping your attack surfa
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[hkuds-vibe-trading]] [[github-spec-kit]] [[shubhamsaboo-awesome-llm-apps]]
+[[virattt-ai-hedge-fund]] [[shubhamsaboo-awesome-llm-apps]] [[hkuds-vibe-trading]] [[graphify-labs-graphify]]
 

@@ -1,20 +1,20 @@
 ---
 title: "HKUDS/Vibe-Trading"
 created: 2026-06-04
-updated: 2026-07-14
-last_active: 2026-07-14
+updated: 2026-07-15
+last_active: 2026-07-15
 type: tool
-tags: [python, ai-agent]
-sources: [raw/trending/2026-07-14.json]
+tags: [python, ai-agent, rising]
+sources: [raw/trending/2026-07-15.json]
 confidence: high
-trending_count_daily: 9
+trending_count_daily: 10
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 3
 first_trending: 2026-06-04
-last_trending: 2026-07-14
+last_trending: 2026-07-15
 peak_rank: 2
-total_stars: 21683
+total_stars: 22800
 language: "Python"
 ---
 
@@ -23,22 +23,22 @@ language: "Python"
 "Vibe-Trading: Your Personal Trading Agent"
 
 - 语言: Python
-- 上榜次数: 9 次
-- 连续上榜: 2 天
+- 上榜次数: 10 次
+- 连续上榜: 3 天
 - 最高排名: #2
 - 链接: [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
 
 ## 上榜历史
 
+  - 2026-07-15: #7, +1265⭐
   - 2026-07-14: #2, +1148⭐
   - 2026-07-13: #3, +776⭐
   - 2026-07-03: #11, +918⭐
   - 2026-07-02: #3, +682⭐
-  - 2026-07-01: #17, +719⭐
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[shubhamsaboo-awesome-llm-apps]] [[hasaneyldrm-exercises-dataset]] [[github-spec-kit]] [[moeru-ai-airi]]
+[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[graphify-labs-graphify]] [[virattt-ai-hedge-fund]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[ai-agent]]
 

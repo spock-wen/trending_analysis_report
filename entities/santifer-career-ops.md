@@ -37,7 +37,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[moeru-ai-airi]]
+[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[leonxlnx-taste-skill]] [[ahmadibrahiim-website-downloader]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

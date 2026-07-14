@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[prefecthq-prefect]] [[hashicorp-terraform]] [[vxcontrol-pentagi]] [[hasaneyldrm-exercises-dataset]]
+[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[tailscale-tailscale]] [[graphify-labs-graphify]] [[prefecthq-prefect]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

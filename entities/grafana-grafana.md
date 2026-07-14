@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[prefecthq-prefect]] [[hashicorp-terraform]] [[hasaneyldrm-exercises-dataset]] [[moeru-ai-airi]]
+[[moeru-ai-airi]] [[henryndubuaku-maths-cs-ai-compendium]] [[graphify-labs-graphify]] [[ansible-ansible]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[data]] [[devops]]
 

@@ -34,5 +34,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[coreyhaines31-marketingskills]] [[openai-plugins]] [[addyosmani-agent-skills]]
+[[coreyhaines31-marketingskills]] [[openai-plugins]] [[addyosmani-agent-skills]] [[leonxlnx-taste-skill]]
 

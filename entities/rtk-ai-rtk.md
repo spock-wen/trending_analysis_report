@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[oven-sh-bun]] [[moeru-ai-airi]]
+[[raphire-win11debloat]] [[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[oven-sh-bun]] [[tencentcloud-cubesandbox]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

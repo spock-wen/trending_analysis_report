@@ -35,7 +35,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[ahmadibrahiim-website-downloader]] [[moeru-ai-airi]] [[hkuds-vibe-trading]]
+[[shubhamsaboo-awesome-llm-apps]] [[ahmadibrahiim-website-downloader]] [[mattpocock-skills]] [[nutlope-hallmark]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

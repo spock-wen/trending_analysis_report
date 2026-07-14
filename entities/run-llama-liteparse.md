@@ -35,5 +35,5 @@ A fast, helpful, and open-source document parser
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[tencentcloud-cubesandbox]] [[oven-sh-bun]] [[malisper-pgrust]]
+[[malisper-pgrust]] [[ruvnet-ruview]] [[oven-sh-bun]] [[tencentcloud-cubesandbox]]
 

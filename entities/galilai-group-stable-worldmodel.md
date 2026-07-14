@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[shubhamsaboo-awesome-llm-apps]] [[mvanhorn-last30days-skill]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]]
+[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[ahmadibrahiim-website-downloader]] [[henryndubuaku-maths-cs-ai-compendium]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[coreyhaines31-marketingskills]] [[0xnyk-council-of-high-intelligence]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]]
+[[raphire-win11debloat]] [[obra-superpowers]] [[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

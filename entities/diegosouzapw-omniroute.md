@@ -35,7 +35,7 @@ Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), con
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[crosstalk-solutions-project-nomad]]
+[[raphire-win11debloat]] [[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[moeru-ai-airi]] [[henryndubuaku-maths-cs-ai-compendium]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

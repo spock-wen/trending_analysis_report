@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[vxcontrol-pentagi]] [[hasaneyldrm-exercises-dataset]] [[tailscale-tailscale]] [[moeru-ai-airi]]
+[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[ansible-ansible]] [[tailscale-tailscale]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

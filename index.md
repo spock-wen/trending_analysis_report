@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-07-14 | 总页面：349
+> 最后更新：2026-07-15 | 总页面：352
 
 ## Entities
 
@@ -16,6 +16,7 @@
 - [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i...
 - [[agentskills-agentskills|agentskills"]] — Specification and documentation for Agent Skills 🔥
 - [[ahmadibrahiim-website-downloader|Website-downloader"]] — 💡 Download the complete source code of any website (includin...
+- [[aieradev-clypra|Clypra"]] — A modern video editor built with Tauri, React, and TypeScrip... 🆕
 - [[aishwaryanr-awesome-generative-ai-guide|awesome-generative-ai-guide"]] — A one stop repository for generative AI research updates, in...
 - [[alchaincyf-zhangxuefeng-skill|zhangxuefeng-skill"]] — 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 - [[alexzhang13-rlm|rlm"]] — General plug-and-play inference library for Recursive Langua...
@@ -62,6 +63,7 @@
 - [[chachamaru127-claude-code-harness|claude-code-harness"]] — Claude Code Dedicated Development Harness - Achieving High-Q...
 - [[chatwoot-chatwoot|chatwoot"]] — Open-source live-chat, email support, omni-channel desk. An ...
 - [[chen08209-flclash|FlClash"]] — A multi-platform proxy client based on ClashMeta,simple and ...
+- [[chenyme-grok2api|grok2api"]] — 面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关 🆕
 - [[chopratejas-headroom|headroom"]] — Compress tool outputs, logs, files, and RAG chunks before th... 🔥
 - [[chriskohlhoff-asio|asio"]] — Asio C++ Library 🆕
 - [[chromedevtools-chrome-devtools-mcp|chrome-devtools-mcp"]] — Chrome DevTools for coding agents 🔥
@@ -129,13 +131,14 @@
 - [[grpc-grpc|grpc"]] — C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [[hardikpandya-stop-slop|stop-slop"]] — A skill file for removing AI tells from prose 🔥
 - [[harry0703-moneyprinterturbo|MoneyPrinterTurbo"]] — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using...
-- [[hasaneyldrm-exercises-dataset|exercises-dataset"]] — 1,324-exercise fitness dataset — animation GIFs, 180×180 thu...
+- [[hasaneyldrm-exercises-dataset|exercises-dataset"]] — 1,324-exercise fitness dataset — animation GIFs, 180×180 thu... 🆕
 - [[hashicorp-terraform|terraform"]] — Terraform enables you to safely and predictably create, chan... 🆕
+- [[henryndubuaku-maths-cs-ai-compendium|maths-cs-ai-compendium"]] — Become a cracked AI/ML Research Engineer 🆕
 - [[hesreallyhim-awesome-claude-code|awesome-claude-code"]] — A hand-picked collection of the finest of resources for the ...
 - [[hexo-ai-sia|sia"]] — SIA is a Self Improving AI framework to autonomously improve...
 - [[heygen-com-hyperframes|hyperframes"]] — Write HTML. Render video. Built for agents.
 - [[hkuds-cli-anything|CLI-Anything"]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:... 🔥
-- [[hkuds-vibe-trading|Vibe-Trading"]] — "Vibe-Trading: Your Personal Trading Agent" 🆕
+- [[hkuds-vibe-trading|Vibe-Trading"]] — "Vibe-Trading: Your Personal Trading Agent" 🔥
 - [[hkuds-vimax|ViMax"]] — "ViMax: Agentic Video Generation (Director, Screenwriter, Pr... 🆕
 - [[home-assistant-core|core"]] — 🏡 Open source home automation that puts local control and pr... 🆕
 - [[hugohe3-ppt-master|ppt-master"]] — AI generates a real, editable PowerPoint from any document —...
@@ -220,7 +223,7 @@
 - [[nicobailon-pi-subagents|pi-subagents"]] — Pi extension for async subagent delegation with truncation, ...
 - [[nirdiamant-agents-towards-production|agents-towards-production"]] — End-to-end, code-first tutorials for building production-gra...
 - [[nousresearch-hermes-agent|hermes-agent"]] — The agent that grows with you 🆕
-- [[nutlope-hallmark|hallmark"]] — Anti-AI-slop design skill for Claude Code, Cursor, and Codex... 🆕
+- [[nutlope-hallmark|hallmark"]] — Anti-AI-slop design skill for Claude Code, Cursor, and Codex... 🔥
 - [[nuxt-nuxt|nuxt"]] — the full-stack Vue framework
 - [[nvidia-ai-blueprints-video-search-and-summarization|video-search-and-summarization"]] — Suite of reference architectures for building GPU-accelerate... 🆕
 - [[nvidia-cosmos|cosmos"]] — NVIDIA Cosmos is an open platform of world models, datasets,... 🆕
@@ -252,7 +255,7 @@
 - [[par274-sharpemu|sharpemu"]] — An experimental PlayStation 5 emulator project.
 - [[pascalorg-editor|editor"]] — Create and share 3D architectural projects.
 - [[pbakaus-impeccable|impeccable"]] — The design language that makes your AI harness better at des...
-- [[penpot-penpot|penpot"]] — Penpot: The open-source design tool for design and code coll... 🔥
+- [[penpot-penpot|penpot"]] — Penpot: The open-source design platform for Product teams th...
 - [[phuryn-pm-skills|pm-skills"]] — PM Skills Marketplace: 100+ agentic skills, commands, and pl... 🔥
 - [[pingdotgg-t3code|t3code"]] — No description
 - [[plausible-analytics|analytics"]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
@@ -262,7 +265,7 @@
 - [[puppeteer-puppeteer|puppeteer"]] — JavaScript API for Chrome and Firefox
 - [[pytest-dev-pytest|pytest"]] — The pytest framework makes it easy to write small tests, yet...
 - [[pytorch-pytorch|pytorch"]] — Tensors and Dynamic neural networks in Python with strong GP... 🆕
-- [[raphire-win11debloat|Win11Debloat"]] — A simple, lightweight PowerShell script that allows you to r...
+- [[raphire-win11debloat|Win11Debloat"]] — A simple, lightweight PowerShell script that allows you to r... 🆕
 - [[reconurge-flowsint|flowsint"]] — A modern platform for visual, flexible, and extensible graph... 🆕
 - [[refactoringhq-tolaria|tolaria"]] — Desktop app to manage markdown knowledge bases
 - [[restic-restic|restic"]] — Fast, secure, efficient backup program
@@ -283,7 +286,7 @@
 - [[santifer-career-ops|career-ops"]] — AI-powered job search system built on Claude Code. 14 skill ...
 - [[shanraisshan-claude-code-best-practice|claude-code-best-practice"]] — from vibe coding to agentic engineering - practice makes cla...
 - [[shiyu-coder-kronos|Kronos"]] — Kronos: A Foundation Model for the Language of Financial Mar... 🆕
-- [[shubhamsaboo-awesome-llm-apps|awesome-llm-apps"]] — 100+ AI Agent & RAG apps you can actually run — clone, custo... 🆕
+- [[shubhamsaboo-awesome-llm-apps|awesome-llm-apps"]] — 100+ AI Agent & RAG apps you can actually run — clone, custo... 🔥
 - [[simplex-chat-simplex-chat|simplex-chat"]] — SimpleX - the first messaging network operating without user... 🔥
 - [[sindresorhus-awesome|awesome"]] — 😎 Awesome lists about all kinds of interesting topics
 - [[smartlydressedgames-u3-sdk|U3-SDK"]] — Source code for Unturned, a free open-world zombie survival ...

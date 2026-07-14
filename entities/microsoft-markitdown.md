@@ -38,5 +38,5 @@ Python tool for converting files and office documents to Markdown.
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[hkuds-vibe-trading]] [[github-spec-kit]] [[shubhamsaboo-awesome-llm-apps]]
+[[virattt-ai-hedge-fund]] [[shubhamsaboo-awesome-llm-apps]] [[hkuds-vibe-trading]] [[graphify-labs-graphify]]
 

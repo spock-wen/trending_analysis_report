@@ -38,7 +38,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[shubhamsaboo-awesome-llm-apps]] [[mvanhorn-last30days-skill]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]]
+[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[henryndubuaku-maths-cs-ai-compendium]] [[graphify-labs-graphify]] [[virattt-ai-hedge-fund]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

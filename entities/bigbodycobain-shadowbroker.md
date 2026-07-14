@@ -35,7 +35,7 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[prefecthq-prefect]] [[shubhamsaboo-awesome-llm-apps]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]]
+[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[graphify-labs-graphify]] [[virattt-ai-hedge-fund]] [[prefecthq-prefect]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

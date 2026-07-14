@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[hashicorp-terraform]] [[vxcontrol-pentagi]] [[hasaneyldrm-exercises-dataset]] [[tailscale-tailscale]] [[moeru-ai-airi]]
+[[nutlope-hallmark]] [[moeru-ai-airi]] [[tailscale-tailscale]] [[chenyme-grok2api]] [[hashicorp-terraform]]
 
 **所属领域**: [[web]]
 

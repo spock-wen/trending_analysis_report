@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[byoungd-english-level-up-tips]] [[moeru-ai-airi]] [[crosstalk-solutions-project-nomad]] [[opencut-app-opencut]]
+[[moeru-ai-airi]] [[microsoft-ai-for-beginners]] [[henryndubuaku-maths-cs-ai-compendium]] [[byoungd-english-level-up-tips]] [[opencut-app-opencut]]
 
 **所属领域**: [[education]]
 

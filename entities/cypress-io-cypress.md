@@ -36,7 +36,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[moeru-ai-airi]] [[crosstalk-solutions-project-nomad]] [[opencut-app-opencut]] [[nutlope-hallmark]]
+[[nutlope-hallmark]] [[moeru-ai-airi]] [[henryndubuaku-maths-cs-ai-compendium]] [[chenyme-grok2api]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[web]]
 

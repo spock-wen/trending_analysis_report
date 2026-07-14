@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[shubhamsaboo-awesome-llm-apps]] [[mvanhorn-last30days-skill]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]]
+[[raphire-win11debloat]] [[shubhamsaboo-awesome-llm-apps]] [[obra-superpowers]] [[mattpocock-skills]] [[iofficeai-officecli]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

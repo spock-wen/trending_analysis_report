@@ -37,5 +37,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[wonderwhy-er-desktopcommandermcp]] [[opencut-app-opencut]] [[crosstalk-solutions-project-nomad]]
+[[aieradev-clypra]] [[henryndubuaku-maths-cs-ai-compendium]] [[opencut-app-opencut]] [[moeru-ai-airi]]
 

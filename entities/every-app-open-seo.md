@@ -35,5 +35,5 @@ Open source alternative to Semrush and Ahrefs
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[wonderwhy-er-desktopcommandermcp]] [[opencut-app-opencut]] [[crosstalk-solutions-project-nomad]]
+[[aieradev-clypra]] [[henryndubuaku-maths-cs-ai-compendium]] [[opencut-app-opencut]] [[moeru-ai-airi]]
 

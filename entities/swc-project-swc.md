@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[oven-sh-bun]] [[moeru-ai-airi]] [[tencentcloud-cubesandbox]] [[ruvnet-ruview]]
+[[nutlope-hallmark]] [[oven-sh-bun]] [[tencentcloud-cubesandbox]] [[moeru-ai-airi]] [[ruvnet-ruview]]
 
 **所属领域**: [[web]]
 

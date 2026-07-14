@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[hugohe3-ppt-master]] [[altic-dev-fluidvoice]] [[hkuds-vibe-trading]] [[github-spec-kit]]
+[[raphire-win11debloat]] [[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[moeru-ai-airi]] [[graphify-labs-graphify]]
 
 **所属领域**: [[cli]] [[audio]]
 

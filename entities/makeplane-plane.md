@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[crosstalk-solutions-project-nomad]] [[chen08209-flclash]] [[opencut-app-opencut]] [[graphify-labs-graphify]]
+[[mattpocock-skills]] [[moeru-ai-airi]] [[henryndubuaku-maths-cs-ai-compendium]] [[graphify-labs-graphify]] [[chenyme-grok2api]]
 
 **所属领域**: [[cli]]
 

@@ -36,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[byoungd-english-level-up-tips]] [[hkuds-vibe-trading]]
+[[shubhamsaboo-awesome-llm-apps]] [[freecodecamp-freecodecamp]] [[mattpocock-skills]] [[microsoft-ai-for-beginners]] [[anthropics-claude-cookbooks]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

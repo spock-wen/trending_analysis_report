@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[chriskohlhoff-asio]] [[abseil-abseil-cpp]] [[coreyhaines31-marketingskills]] [[prefecthq-prefect]] [[hasaneyldrm-exercises-dataset]]
+[[graphify-labs-graphify]] [[catchorg-catch2]] [[prefecthq-prefect]] [[coreyhaines31-marketingskills]] [[chriskohlhoff-asio]]
 
 **所属领域**: [[data]]
 

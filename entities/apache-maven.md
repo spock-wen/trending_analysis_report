@@ -34,5 +34,5 @@ Apache Maven core
 
 ## 相关项目
 
-[[krahets-hello-algo]] [[elastic-elasticsearch]] [[keycloak-keycloak]]
+[[krahets-hello-algo]] [[keycloak-keycloak]] [[elastic-elasticsearch]]
 

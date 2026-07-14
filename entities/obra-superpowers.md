@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[coreyhaines31-marketingskills]] [[0xnyk-council-of-high-intelligence]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]]
+[[raphire-win11debloat]] [[shubhamsaboo-awesome-llm-apps]] [[diolinux-photogimp]] [[mattpocock-skills]] [[iofficeai-officecli]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[home-assistant-core]] [[coreyhaines31-marketingskills]] [[prefecthq-prefect]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]]
+[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[nutlope-hallmark]] [[oven-sh-bun]] [[tencentcloud-cubesandbox]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

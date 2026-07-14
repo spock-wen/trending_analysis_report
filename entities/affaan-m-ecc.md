@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[home-assistant-core]] [[coreyhaines31-marketingskills]] [[mvanhorn-last30days-skill]] [[hasaneyldrm-exercises-dataset]]
+[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[leonxlnx-taste-skill]] [[henryndubuaku-maths-cs-ai-compendium]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

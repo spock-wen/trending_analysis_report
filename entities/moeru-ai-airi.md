@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[hugohe3-ppt-master]] [[hasaneyldrm-exercises-dataset]] [[altic-dev-fluidvoice]] [[hkuds-vibe-trading]]
+[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[nutlope-hallmark]] [[henryndubuaku-maths-cs-ai-compendium]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[shubhamsaboo-awesome-llm-apps]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[github-spec-kit]]
+[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[ahmadibrahiim-website-downloader]] [[graphify-labs-graphify]] [[prisma-prisma]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

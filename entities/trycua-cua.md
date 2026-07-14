@@ -34,7 +34,7 @@ Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[hashicorp-terraform]] [[hasaneyldrm-exercises-dataset]] [[ahmadibrahiim-website-downloader]] [[moeru-ai-airi]]
+[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[ahmadibrahiim-website-downloader]] [[nutlope-hallmark]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

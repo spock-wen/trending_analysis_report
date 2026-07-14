@@ -34,7 +34,7 @@ A collection of DESIGN.md files analysis by popular brand design systems. Drop o
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[coreyhaines31-marketingskills]] [[hkuds-vibe-trading]] [[moeru-ai-airi]]
+[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[hkuds-vibe-trading]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[ai-agent]]
 

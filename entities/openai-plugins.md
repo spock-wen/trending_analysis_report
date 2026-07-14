@@ -38,7 +38,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[moeru-ai-airi]]
+[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[leonxlnx-taste-skill]] [[addyosmani-agent-skills]] [[coreyhaines31-marketingskills]]
 
 **所属领域**: [[ai-agent]]
 

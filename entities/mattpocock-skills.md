@@ -1,20 +1,20 @@
 ---
 title: "mattpocock/skills"
 created: 2026-05-16
-updated: 2026-07-11
-last_active: 2026-07-11
+updated: 2026-07-15
+last_active: 2026-07-15
 type: framework
 tags: [shell, ai-agent, cli]
-sources: [raw/trending/2026-07-11.json]
+sources: [raw/trending/2026-07-15.json]
 confidence: high
-trending_count_daily: 8
+trending_count_daily: 9
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-05-16
-last_trending: 2026-07-11
-peak_rank: 6
-total_stars: 164551
+last_trending: 2026-07-15
+peak_rank: 2
+total_stars: 170143
 language: "Shell"
 ---
 
@@ -23,22 +23,22 @@ language: "Shell"
 Skills for Real Engineers. Straight from my .claude directory.
 
 - 语言: Shell
-- 上榜次数: 8 次
+- 上榜次数: 9 次
 - 连续上榜: 1 天
-- 最高排名: #6
+- 最高排名: #2
 - 链接: [mattpocock/skills](https://github.com/mattpocock/skills)
 
 ## 上榜历史
 
+  - 2026-07-15: #2, +1864⭐
   - 2026-07-11: #6, +1663⭐
   - 2026-07-05: #15, +1013⭐
   - 2026-06-23: #16, +2051⭐
   - 2026-06-22: #17, +1441⭐
-  - 2026-06-21: #13, +1360⭐
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[coreyhaines31-marketingskills]] [[0xnyk-council-of-high-intelligence]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]]
+[[raphire-win11debloat]] [[obra-superpowers]] [[shubhamsaboo-awesome-llm-apps]] [[msitarzewski-agency-agents]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

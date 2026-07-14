@@ -34,5 +34,5 @@ Free and Open Source, Distributed, RESTful Search Engine
 
 ## 相关项目
 
-[[keycloak-keycloak]] [[krahets-hello-algo]] [[apache-maven]]
+[[krahets-hello-algo]] [[apache-maven]] [[keycloak-keycloak]]
 

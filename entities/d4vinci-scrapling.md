@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[github-spec-kit]] [[moeru-ai-airi]]
+[[shubhamsaboo-awesome-llm-apps]] [[nutlope-hallmark]] [[moeru-ai-airi]] [[graphify-labs-graphify]] [[virattt-ai-hedge-fund]]
 
 **所属领域**: [[web]]
 

@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[par274-sharpemu]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[k1tbyte-wand-enhancer]]
+[[shubhamsaboo-awesome-llm-apps]] [[dotnet-aspnetcore]] [[mattpocock-skills]] [[par274-sharpemu]] [[iofficeai-officecli]]
 
 **所属领域**: [[ai-agent]]
 

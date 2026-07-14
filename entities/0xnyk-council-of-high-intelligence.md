@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[mattpocock-skills]]
+[[raphire-win11debloat]] [[obra-superpowers]] [[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

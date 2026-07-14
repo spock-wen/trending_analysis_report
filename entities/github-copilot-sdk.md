@@ -35,7 +35,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[apache-maven]]
+[[shubhamsaboo-awesome-llm-apps]] [[krahets-hello-algo]] [[mattpocock-skills]] [[keycloak-keycloak]] [[apache-maven]]
 
 **所属领域**: [[ai-agent]]
 

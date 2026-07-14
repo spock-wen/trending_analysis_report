@@ -36,7 +36,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[shubhamsaboo-awesome-llm-apps]] [[hugohe3-ppt-master]] [[hasaneyldrm-exercises-dataset]] [[altic-dev-fluidvoice]]
+[[raphire-win11debloat]] [[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[moeru-ai-airi]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

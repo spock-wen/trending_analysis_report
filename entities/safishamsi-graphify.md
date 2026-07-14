@@ -34,7 +34,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[hashicorp-terraform]] [[karakeep-app-karakeep]] [[davila7-claude-code-templates]] [[coreyhaines31-marketingskills]]
+[[ahmadibrahiim-website-downloader]] [[chenyme-grok2api]] [[mattpocock-skills]] [[graphify-labs-graphify]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

@@ -34,5 +34,5 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[hkuds-vibe-trading]] [[github-spec-kit]] [[shubhamsaboo-awesome-llm-apps]]
+[[virattt-ai-hedge-fund]] [[shubhamsaboo-awesome-llm-apps]] [[hkuds-vibe-trading]] [[graphify-labs-graphify]]
 

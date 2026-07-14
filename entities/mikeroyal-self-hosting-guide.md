@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[byoungd-english-level-up-tips]] [[hkuds-vibe-trading]]
+[[shubhamsaboo-awesome-llm-apps]] [[freecodecamp-freecodecamp]] [[mattpocock-skills]] [[nutlope-hallmark]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

@@ -35,7 +35,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[prefecthq-prefect]] [[shubhamsaboo-awesome-llm-apps]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]]
+[[shubhamsaboo-awesome-llm-apps]] [[graphify-labs-graphify]] [[virattt-ai-hedge-fund]] [[prefecthq-prefect]] [[coreyhaines31-marketingskills]]
 
 **所属领域**: [[data]]
 

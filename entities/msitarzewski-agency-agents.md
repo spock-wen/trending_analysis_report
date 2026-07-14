@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[0xnyk-council-of-high-intelligence]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[mattpocock-skills]]
+[[raphire-win11debloat]] [[obra-superpowers]] [[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

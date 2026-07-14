@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[home-assistant-core]] [[coreyhaines31-marketingskills]] [[shubhamsaboo-awesome-llm-apps]] [[hasaneyldrm-exercises-dataset]] [[zackriya-solutions-meetily]]
+[[raphire-win11debloat]] [[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[graphify-labs-graphify]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

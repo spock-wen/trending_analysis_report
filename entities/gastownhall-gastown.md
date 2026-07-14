@@ -35,7 +35,7 @@ Gas Town - multi-agent workspace manager
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[hashicorp-terraform]] [[vxcontrol-pentagi]] [[hasaneyldrm-exercises-dataset]] [[tailscale-tailscale]]
+[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[tailscale-tailscale]] [[chenyme-grok2api]] [[hashicorp-terraform]]
 
 **所属领域**: [[ai-agent]]
 

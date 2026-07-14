@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[mvanhorn-last30days-skill]] [[hasaneyldrm-exercises-dataset]] [[ahmadibrahiim-website-downloader]] [[moeru-ai-airi]]
+[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[ahmadibrahiim-website-downloader]] [[nutlope-hallmark]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

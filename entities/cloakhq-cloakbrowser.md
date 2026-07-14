@@ -35,7 +35,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[home-assistant-core]] [[shubhamsaboo-awesome-llm-apps]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[github-spec-kit]]
+[[shubhamsaboo-awesome-llm-apps]] [[obra-superpowers]] [[diolinux-photogimp]] [[nutlope-hallmark]] [[moeru-ai-airi]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

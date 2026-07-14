@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[hashicorp-terraform]] [[vxcontrol-pentagi]] [[tailscale-tailscale]] [[ansible-ansible]] [[graphify-labs-graphify]]
+[[graphify-labs-graphify]] [[tailscale-tailscale]] [[davila7-claude-code-templates]] [[chenyme-grok2api]] [[hashicorp-terraform]]
 
 **所属领域**: [[devops]]
 

@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[moeru-ai-airi]] [[chen08209-flclash]] [[nutlope-hallmark]] [[graphify-labs-graphify]]
+[[mattpocock-skills]] [[nutlope-hallmark]] [[moeru-ai-airi]] [[graphify-labs-graphify]] [[chenyme-grok2api]]
 
 **所属领域**: [[web]] [[cli]]
 

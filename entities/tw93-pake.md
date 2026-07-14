@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[oven-sh-bun]] [[moeru-ai-airi]] [[tencentcloud-cubesandbox]] [[raphire-win11debloat]]
+[[mattpocock-skills]] [[nutlope-hallmark]] [[oven-sh-bun]] [[tencentcloud-cubesandbox]] [[moeru-ai-airi]]
 
 **所属领域**: [[web]] [[cli]]
 

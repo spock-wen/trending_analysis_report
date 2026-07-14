@@ -36,15 +36,5 @@ language: "Python"
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[hkuds-vibe-trading]] [[shubhamsaboo-awesome-llm-apps]]
-
-
-## ⚠️ 描述变更（2026-07-14）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: Toolkit to help you get started with Spec-Driven Development
-- **新描述**: 💫 Toolkit to help you get started with Spec-Driven Development
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
+[[virattt-ai-hedge-fund]] [[shubhamsaboo-awesome-llm-apps]] [[hkuds-vibe-trading]] [[graphify-labs-graphify]]
 

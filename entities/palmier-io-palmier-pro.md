@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[hasaneyldrm-exercises-dataset]] [[altic-dev-fluidvoice]] [[hkuds-vibe-trading]] [[moeru-ai-airi]]
+[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[apple-container]] [[steipete-codexbar]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[moeru-ai-airi]] [[iofficeai-officecli]] [[obra-superpowers]] [[nutlope-hallmark]]
+[[obra-superpowers]] [[nutlope-hallmark]] [[moeru-ai-airi]] [[iofficeai-officecli]] [[chenyme-grok2api]]
 
 **所属领域**: [[web]] [[erp]]
 

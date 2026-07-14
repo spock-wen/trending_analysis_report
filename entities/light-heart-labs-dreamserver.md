@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[shubhamsaboo-awesome-llm-apps]] [[hugohe3-ppt-master]] [[hasaneyldrm-exercises-dataset]] [[altic-dev-fluidvoice]]
+[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[ahmadibrahiim-website-downloader]] [[moeru-ai-airi]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[pppscn-smsforwarder]] [[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[andreknieriem-headunit-revived]] [[bannedbook-fanqiang]]
+[[hkuds-vibe-trading]] [[moeru-ai-airi]] [[mattpocock-skills]] [[andreknieriem-headunit-revived]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[ai-agent]]
 

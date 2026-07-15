@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[raphire-win11debloat]] [[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[nutlope-hallmark]] [[moeru-ai-airi]]
+[[chenyme-grok2api]] [[hkuds-vibe-trading]] [[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]] [[hkuds-deeptutor]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

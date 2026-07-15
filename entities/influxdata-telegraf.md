@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[tailscale-tailscale]] [[graphify-labs-graphify]] [[prefecthq-prefect]]
+[[chenyme-grok2api]] [[hkuds-vibe-trading]] [[hashicorp-terraform]] [[moeru-ai-airi]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

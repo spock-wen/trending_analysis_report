@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[freecodecamp-freecodecamp]] [[mattpocock-skills]] [[microsoft-ai-for-beginners]] [[graphify-labs-graphify]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[byoungd-english-level-up-tips]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

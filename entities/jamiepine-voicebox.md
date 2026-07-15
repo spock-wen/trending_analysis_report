@@ -36,7 +36,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[moeru-ai-airi]] [[henryndubuaku-maths-cs-ai-compendium]] [[altic-dev-fluidvoice]]
+[[aieradev-clypra]] [[henryndubuaku-maths-cs-ai-compendium]] [[hkuds-vibe-trading]] [[hugohe3-ppt-master]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

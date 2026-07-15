@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[leonxlnx-taste-skill]] [[ahmadibrahiim-website-downloader]] [[graphify-labs-graphify]]
+[[ahmadibrahiim-website-downloader]] [[hkuds-vibe-trading]] [[prisma-prisma]] [[moeru-ai-airi]] [[karakeep-app-karakeep]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

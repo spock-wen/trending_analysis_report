@@ -38,5 +38,5 @@ Desktop app to manage markdown knowledge bases
 
 ## 相关项目
 
-[[aieradev-clypra]] [[henryndubuaku-maths-cs-ai-compendium]] [[opencut-app-opencut]] [[moeru-ai-airi]]
+[[moeru-ai-airi]] [[opencut-app-opencut]] [[henryndubuaku-maths-cs-ai-compendium]] [[aieradev-clypra]]
 

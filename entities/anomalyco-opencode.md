@@ -34,7 +34,7 @@ The open source coding agent.
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[moeru-ai-airi]] [[henryndubuaku-maths-cs-ai-compendium]] [[hasaneyldrm-exercises-dataset]]
+[[aieradev-clypra]] [[henryndubuaku-maths-cs-ai-compendium]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[opencut-app-opencut]]
 
 **所属领域**: [[ai-agent]]
 

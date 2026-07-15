@@ -38,5 +38,5 @@ Kronos: A Foundation Model for the Language of Financial Markets
 
 ## 相关项目
 
-[[virattt-ai-hedge-fund]] [[shubhamsaboo-awesome-llm-apps]] [[hkuds-vibe-trading]] [[graphify-labs-graphify]]
+[[shubhamsaboo-awesome-llm-apps]] [[hkuds-deeptutor]] [[virattt-ai-hedge-fund]] [[hkuds-vibe-trading]]
 

@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-16",
+  "scraped_at": "2026-07-16T07:00:39.053075",
+  "period": "daily",
+  "count": 12,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars_today": 1505,
+      "total_stars": 71515,
+      "url": "https://github.com/OpenCut-app/OpenCut"
+    },
+    {
+      "rank": 2,
+      "repo": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars_today": 1119,
+      "total_stars": 8338,
+      "url": "https://github.com/Nutlope/hallmark"
+    },
+    {
+      "rank": 3,
+      "repo": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_today": 2160,
+      "total_stars": 172198,
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "rank": 4,
+      "repo": "moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars_today": 144,
+      "total_stars": 42475,
+      "url": "https://github.com/moeru-ai/airi"
+    },
+    {
+      "rank": 6,
+      "repo": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars_today": 924,
+      "total_stars": 23644,
+      "url": "https://github.com/HKUDS/Vibe-Trading"
+    },
+    {
+      "rank": 7,
+      "repo": "openinterpreter/openinterpreter",
+      "description": "A coding agent for low-cost models",
+      "language": "Rust",
+      "stars_today": 345,
+      "total_stars": 65437,
+      "url": "https://github.com/openinterpreter/openinterpreter"
+    },
+    {
+      "rank": 8,
+      "repo": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "stars_today": 128,
+      "total_stars": 26227,
+      "url": "https://github.com/HKUDS/DeepTutor"
+    },
+    {
+      "rank": 9,
+      "repo": "HenryNdubuaku/maths-cs-ai-compendium",
+      "description": "Become a cracked AI/ML Research Engineer",
+      "language": "TypeScript",
+      "stars_today": 729,
+      "total_stars": 5861,
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
+    },
+    {
+      "rank": 10,
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars_today": 1278,
+      "total_stars": 121855,
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    },
+    {
+      "rank": 11,
+      "repo": "coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars_today": 390,
+      "total_stars": 39712,
+      "url": "https://github.com/coreyhaines31/marketingskills"
+    },
+    {
+      "rank": 12,
+      "repo": "YimMenu/YimMenuV2",
+      "description": "Experimental menu for GTA 5: Enhanced",
+      "language": "C++",
+      "stars_today": 21,
+      "total_stars": 1409,
+      "url": "https://github.com/YimMenu/YimMenuV2"
+    },
+    {
+      "rank": 13,
+      "repo": "hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "language": "HTML",
+      "stars_today": 951,
+      "total_stars": 14318,
+      "url": "https://github.com/hasaneyldrm/exercises-dataset"
+    }
+  ]
+}

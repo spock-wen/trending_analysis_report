@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[apple-container]] [[steipete-codexbar]] [[altic-dev-fluidvoice]]
+[[hkuds-vibe-trading]] [[moeru-ai-airi]] [[apple-container]] [[mattpocock-skills]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]]
 

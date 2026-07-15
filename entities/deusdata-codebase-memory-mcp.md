@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[graphify-labs-graphify]] [[veracrypt-veracrypt]] [[prefecthq-prefect]]
+[[microsoft-powertoys]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[mattpocock-skills]] [[veracrypt-veracrypt]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

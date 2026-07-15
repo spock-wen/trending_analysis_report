@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[nutlope-hallmark]] [[moeru-ai-airi]] [[tailscale-tailscale]] [[chenyme-grok2api]] [[hashicorp-terraform]]
+[[chenyme-grok2api]] [[moeru-ai-airi]] [[hashicorp-terraform]] [[nutlope-hallmark]] [[hkuds-deeptutor]]
 
 **所属领域**: [[web]]
 

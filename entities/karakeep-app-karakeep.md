@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[ahmadibrahiim-website-downloader]] [[moeru-ai-airi]] [[henryndubuaku-maths-cs-ai-compendium]]
+[[ahmadibrahiim-website-downloader]] [[aieradev-clypra]] [[henryndubuaku-maths-cs-ai-compendium]] [[hkuds-vibe-trading]] [[prisma-prisma]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

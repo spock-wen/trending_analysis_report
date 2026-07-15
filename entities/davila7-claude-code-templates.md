@@ -36,7 +36,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[raphire-win11debloat]] [[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[ansible-ansible]] [[graphify-labs-graphify]]
+[[chenyme-grok2api]] [[hkuds-vibe-trading]] [[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]] [[hashicorp-terraform]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

@@ -37,7 +37,7 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[henryndubuaku-maths-cs-ai-compendium]] [[graphify-labs-graphify]] [[virattt-ai-hedge-fund]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[hkuds-vibe-trading]] [[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

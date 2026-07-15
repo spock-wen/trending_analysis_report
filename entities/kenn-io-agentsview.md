@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[tailscale-tailscale]] [[graphify-labs-graphify]] [[prefecthq-prefect]]
+[[chenyme-grok2api]] [[hkuds-vibe-trading]] [[hashicorp-terraform]] [[moeru-ai-airi]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

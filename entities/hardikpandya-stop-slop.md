@@ -38,7 +38,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[hkuds-vibe-trading]] [[hasaneyldrm-exercises-dataset]]
+[[mattpocock-skills]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]]
 

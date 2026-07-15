@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[ahmadibrahiim-website-downloader]] [[henryndubuaku-maths-cs-ai-compendium]] [[graphify-labs-graphify]]
+[[ahmadibrahiim-website-downloader]] [[henryndubuaku-maths-cs-ai-compendium]] [[hkuds-vibe-trading]] [[prisma-prisma]] [[shubhamsaboo-awesome-llm-apps]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

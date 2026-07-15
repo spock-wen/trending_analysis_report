@@ -35,7 +35,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[mattpocock-skills]] [[graphify-labs-graphify]] [[chenyme-grok2api]] [[flutter-flutter]] [[raphire-win11debloat]]
+[[chenyme-grok2api]] [[flutter-flutter]] [[mattpocock-skills]] [[raphire-win11debloat]] [[graphify-labs-graphify]]
 
 **所属领域**: [[cli]]
 

@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[henryndubuaku-maths-cs-ai-compendium]] [[zackriya-solutions-meetily]] [[veracrypt-veracrypt]] [[affaan-m-ecc]]
+[[zackriya-solutions-meetily]] [[aieradev-clypra]] [[henryndubuaku-maths-cs-ai-compendium]] [[moeru-ai-airi]] [[opencut-app-opencut]]
 
 **所属领域**: [[security]]
 

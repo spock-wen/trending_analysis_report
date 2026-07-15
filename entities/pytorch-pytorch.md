@@ -35,5 +35,5 @@ Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## 相关项目
 
-[[virattt-ai-hedge-fund]] [[shubhamsaboo-awesome-llm-apps]] [[hkuds-vibe-trading]] [[graphify-labs-graphify]]
+[[shubhamsaboo-awesome-llm-apps]] [[hkuds-deeptutor]] [[virattt-ai-hedge-fund]] [[hkuds-vibe-trading]]
 

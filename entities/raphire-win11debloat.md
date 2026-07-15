@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[mattpocock-skills]] [[graphify-labs-graphify]]
+[[mattpocock-skills]] [[chenyme-grok2api]] [[graphify-labs-graphify]]
 
 **所属领域**: [[cli]]
 

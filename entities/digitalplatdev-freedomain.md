@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[ahmadibrahiim-website-downloader]] [[nutlope-hallmark]] [[moeru-ai-airi]]
+[[ripienaar-free-for-dev]] [[ahmadibrahiim-website-downloader]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[shanraisshan-claude-code-best-practice]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

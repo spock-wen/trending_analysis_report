@@ -35,5 +35,5 @@ Fully automatic censorship removal for language models
 
 ## 相关项目
 
-[[virattt-ai-hedge-fund]] [[shubhamsaboo-awesome-llm-apps]] [[hkuds-vibe-trading]] [[graphify-labs-graphify]]
+[[shubhamsaboo-awesome-llm-apps]] [[hkuds-deeptutor]] [[virattt-ai-hedge-fund]] [[hkuds-vibe-trading]]
 

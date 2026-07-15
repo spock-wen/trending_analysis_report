@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[raphire-win11debloat]] [[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[nutlope-hallmark]] [[moeru-ai-airi]]
+[[chenyme-grok2api]] [[aieradev-clypra]] [[henryndubuaku-maths-cs-ai-compendium]] [[hkuds-vibe-trading]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

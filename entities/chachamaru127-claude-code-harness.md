@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[raphire-win11debloat]] [[obra-superpowers]] [[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[msitarzewski-agency-agents]]
+[[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[hkuds-vibe-trading]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

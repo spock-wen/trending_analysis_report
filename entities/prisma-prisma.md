@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[ahmadibrahiim-website-downloader]] [[moeru-ai-airi]] [[henryndubuaku-maths-cs-ai-compendium]] [[graphify-labs-graphify]] [[prefecthq-prefect]]
+[[ahmadibrahiim-website-downloader]] [[aieradev-clypra]] [[henryndubuaku-maths-cs-ai-compendium]] [[moeru-ai-airi]] [[opencut-app-opencut]]
 
 **所属领域**: [[data]] [[image-gen]]
 

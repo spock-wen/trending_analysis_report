@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[krahets-hello-algo]] [[mattpocock-skills]] [[keycloak-keycloak]] [[graphify-labs-graphify]]
+[[hkuds-vibe-trading]] [[krahets-hello-algo]] [[elastic-elasticsearch]] [[keycloak-keycloak]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

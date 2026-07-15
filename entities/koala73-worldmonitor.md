@@ -36,7 +36,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[moeru-ai-airi]] [[henryndubuaku-maths-cs-ai-compendium]] [[graphify-labs-graphify]]
+[[aieradev-clypra]] [[henryndubuaku-maths-cs-ai-compendium]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[opencut-app-opencut]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

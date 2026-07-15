@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-07-15 | 总页面：352
+> 最后更新：2026-07-16 | 总页面：355
 
 ## Entities
 
@@ -16,7 +16,7 @@
 - [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i...
 - [[agentskills-agentskills|agentskills"]] — Specification and documentation for Agent Skills 🔥
 - [[ahmadibrahiim-website-downloader|Website-downloader"]] — 💡 Download the complete source code of any website (includin...
-- [[aieradev-clypra|Clypra"]] — A modern video editor built with Tauri, React, and TypeScrip... 🆕
+- [[aieradev-clypra|Clypra"]] — A modern video editor built with Tauri, React, and TypeScrip...
 - [[aishwaryanr-awesome-generative-ai-guide|awesome-generative-ai-guide"]] — A one stop repository for generative AI research updates, in...
 - [[alchaincyf-zhangxuefeng-skill|zhangxuefeng-skill"]] — 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 - [[alexzhang13-rlm|rlm"]] — General plug-and-play inference library for Recursive Langua...
@@ -63,7 +63,7 @@
 - [[chachamaru127-claude-code-harness|claude-code-harness"]] — Claude Code Dedicated Development Harness - Achieving High-Q...
 - [[chatwoot-chatwoot|chatwoot"]] — Open-source live-chat, email support, omni-channel desk. An ...
 - [[chen08209-flclash|FlClash"]] — A multi-platform proxy client based on ClashMeta,simple and ...
-- [[chenyme-grok2api|grok2api"]] — 面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关 🆕
+- [[chenyme-grok2api|grok2api"]] — 面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关
 - [[chopratejas-headroom|headroom"]] — Compress tool outputs, logs, files, and RAG chunks before th... 🔥
 - [[chriskohlhoff-asio|asio"]] — Asio C++ Library 🆕
 - [[chromedevtools-chrome-devtools-mcp|chrome-devtools-mcp"]] — Chrome DevTools for coding agents 🔥
@@ -131,13 +131,14 @@
 - [[grpc-grpc|grpc"]] — C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [[hardikpandya-stop-slop|stop-slop"]] — A skill file for removing AI tells from prose 🔥
 - [[harry0703-moneyprinterturbo|MoneyPrinterTurbo"]] — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using...
-- [[hasaneyldrm-exercises-dataset|exercises-dataset"]] — 1,324-exercise fitness dataset — animation GIFs, 180×180 thu... 🆕
+- [[hasaneyldrm-exercises-dataset|exercises-dataset"]] — 1,324-exercise fitness dataset — animation GIFs, 180×180 thu... 🔥
 - [[hashicorp-terraform|terraform"]] — Terraform enables you to safely and predictably create, chan... 🆕
 - [[henryndubuaku-maths-cs-ai-compendium|maths-cs-ai-compendium"]] — Become a cracked AI/ML Research Engineer 🆕
 - [[hesreallyhim-awesome-claude-code|awesome-claude-code"]] — A hand-picked collection of the finest of resources for the ...
 - [[hexo-ai-sia|sia"]] — SIA is a Self Improving AI framework to autonomously improve...
 - [[heygen-com-hyperframes|hyperframes"]] — Write HTML. Render video. Built for agents.
 - [[hkuds-cli-anything|CLI-Anything"]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:... 🔥
+- [[hkuds-deeptutor|DeepTutor"]] — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor... 🆕
 - [[hkuds-vibe-trading|Vibe-Trading"]] — "Vibe-Trading: Your Personal Trading Agent" 🔥
 - [[hkuds-vimax|ViMax"]] — "ViMax: Agentic Video Generation (Director, Screenwriter, Pr... 🆕
 - [[home-assistant-core|core"]] — 🏡 Open source home automation that puts local control and pr... 🆕
@@ -195,7 +196,7 @@
 - [[manaflow-ai-cmux|cmux"]] — Ghostty-based macOS terminal with vertical tabs and notifica... 🔥
 - [[masterking32-masterdnsvpn|MasterDnsVPN"]] — Advanced DNS tunneling VPN for censorship bypass, optimized ... 🔥
 - [[mattermost-mattermost|mattermost"]] — Mattermost is an open source platform for secure collaborati... 🆕
-- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .claude director...
+- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .claude director... 🆕
 - [[mauriceboe-trek|TREK"]] — A self-hosted travel/trip planner with real-time collaborati... 🆕
 - [[maziyarpanahi-openmed|openmed"]] — open-source healthcare ai 🔥
 - [[mebus-cupp|cupp"]] — Common User Passwords Profiler (CUPP) 🆕
@@ -238,10 +239,11 @@
 - [[openai-plugins|plugins"]] — OpenAI Plugins
 - [[openbmb-voxcpm|VoxCPM"]] — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generati...
 - [[openclaw-openclaw-windows-node|openclaw-windows-node"]] — Windows companion suite for OpenClaw - System Tray app, Shar... 🆕
-- [[opencut-app-opencut|OpenCut"]] — The open-source CapCut alternative 🆕
+- [[opencut-app-opencut|OpenCut"]] — The open-source CapCut alternative 🔥
 - [[opencv-opencv|opencv"]] — Open Source Computer Vision Library
 - [[opendatalab-mineru|MinerU"]] — Transforms complex documents like PDFs and Office docs into ...
 - [[opendataloader-project-opendataloader-pdf|opendataloader-pdf"]] — PDF Parser for AI-ready data. Automate PDF accessibility. Op...
+- [[openinterpreter-openinterpreter|openinterpreter"]] — A coding agent for low-cost models 🆕
 - [[openmoss-moss-tts|MOSS-TTS"]] — MOSS‑TTS Family is an open‑source speech and sound generatio...
 - [[opentoonz-opentoonz|opentoonz"]] — OpenToonz - An open-source full-featured 2D animation creati...
 - [[othmanadi-planning-with-files|planning-with-files"]] — Persistent file-based planning for AI coding agents and long...
@@ -335,6 +337,7 @@
 - [[yairm210-unciv|Unciv"]] — Open-source Android/Desktop remake of Civ V
 - [[yifanfeng97-hyper-extract|Hyper-Extract"]] — Transform unstructured text into structured knowledge with L...
 - [[yikart-aitoearn|AiToEarn"]] — Let's use AI to Earn!
+- [[yimmenu-yimmenuv2|YimMenuV2"]] — Experimental menu for GTA 5: Enhanced 🆕
 - [[yt-dlp-yt-dlp|yt-dlp"]] — A feature-rich command-line audio/video downloader
 - [[zackriya-solutions-meetily|meetily"]] — Privacy first, AI meeting assistant with 4x faster Parakeet/... 🔥
 - [[zai-org-glm-5|GLM-5"]] — GLM-5: From Vibe Coding to Agentic Engineering 🆕

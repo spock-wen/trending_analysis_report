@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[ahmadibrahiim-website-downloader]] [[nutlope-hallmark]] [[moeru-ai-airi]]
+[[ripienaar-free-for-dev]] [[ahmadibrahiim-website-downloader]] [[henryndubuaku-maths-cs-ai-compendium]] [[hkuds-vibe-trading]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

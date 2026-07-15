@@ -35,5 +35,5 @@ Automatic quad remeshing tool
 
 ## 相关项目
 
-[[chriskohlhoff-asio]] [[zeux-meshoptimizer]] [[catchorg-catch2]] [[abseil-abseil-cpp]]
+[[chriskohlhoff-asio]] [[abseil-abseil-cpp]] [[yimmenu-yimmenuv2]] [[catchorg-catch2]]
 

@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[nutlope-hallmark]] [[oven-sh-bun]] [[tencentcloud-cubesandbox]] [[moeru-ai-airi]]
+[[chenyme-grok2api]] [[moeru-ai-airi]] [[nutlope-hallmark]] [[hkuds-deeptutor]] [[ruvnet-ruview]]
 
 **所属领域**: [[web]] [[cli]]
 

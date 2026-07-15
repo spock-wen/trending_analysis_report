@@ -38,7 +38,7 @@ World's first open-source, agentic video production system. 12 pipelines, 52 too
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[graphify-labs-graphify]] [[virattt-ai-hedge-fund]] [[prefecthq-prefect]]
+[[hkuds-vibe-trading]] [[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]] [[hkuds-deeptutor]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

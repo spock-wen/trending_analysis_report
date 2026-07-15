@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[oven-sh-bun]] [[tencentcloud-cubesandbox]] [[ruvnet-ruview]]
+[[hkuds-vibe-trading]] [[moeru-ai-airi]] [[mattpocock-skills]] [[ruvnet-ruview]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[ai-agent]]
 

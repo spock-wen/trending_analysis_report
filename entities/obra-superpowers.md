@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[raphire-win11debloat]] [[shubhamsaboo-awesome-llm-apps]] [[diolinux-photogimp]] [[mattpocock-skills]] [[iofficeai-officecli]]
+[[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[zeux-meshoptimizer]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

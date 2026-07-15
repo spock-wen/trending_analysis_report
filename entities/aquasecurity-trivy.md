@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[tailscale-tailscale]] [[zackriya-solutions-meetily]] [[veracrypt-veracrypt]]
+[[chenyme-grok2api]] [[zackriya-solutions-meetily]] [[hkuds-vibe-trading]] [[hashicorp-terraform]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

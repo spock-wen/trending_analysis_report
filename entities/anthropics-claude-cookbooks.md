@@ -37,7 +37,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[nvidia-cosmos]]
+[[hkuds-vibe-trading]] [[moeru-ai-airi]] [[nvidia-cosmos]] [[microsoft-ai-for-beginners]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

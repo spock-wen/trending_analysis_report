@@ -34,7 +34,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[hkuds-vibe-trading]] [[hasaneyldrm-exercises-dataset]]
+[[mattpocock-skills]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]]
 

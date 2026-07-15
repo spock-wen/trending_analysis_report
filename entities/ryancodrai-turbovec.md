@@ -36,7 +36,7 @@ A vector index built on TurboQuant, written in Rust with Python bindings
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[graphify-labs-graphify]] [[virattt-ai-hedge-fund]] [[hkuds-vibe-trading]]
+[[hkuds-vibe-trading]] [[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]] [[hkuds-deeptutor]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

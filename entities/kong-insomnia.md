@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[mattpocock-skills]] [[nutlope-hallmark]] [[moeru-ai-airi]] [[henryndubuaku-maths-cs-ai-compendium]] [[graphify-labs-graphify]]
+[[chenyme-grok2api]] [[aieradev-clypra]] [[henryndubuaku-maths-cs-ai-compendium]] [[moeru-ai-airi]] [[opencut-app-opencut]]
 
 **所属领域**: [[web]] [[cli]]
 

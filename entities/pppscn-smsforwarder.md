@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[nutlope-hallmark]] [[moeru-ai-airi]] [[andreknieriem-headunit-revived]] [[bannedbook-fanqiang]] [[chenyme-grok2api]]
+[[bannedbook-fanqiang]] [[moeru-ai-airi]] [[nutlope-hallmark]] [[yairm210-unciv]] [[hkuds-deeptutor]]
 
 **所属领域**: [[web]]
 

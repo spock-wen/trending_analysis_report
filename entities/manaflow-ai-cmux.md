@@ -36,7 +36,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[raphire-win11debloat]] [[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[apple-container]] [[graphify-labs-graphify]]
+[[chenyme-grok2api]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[palmier-io-palmier-pro]] [[apple-container]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

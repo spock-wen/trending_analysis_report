@@ -37,7 +37,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[nutlope-hallmark]] [[moeru-ai-airi]] [[graphify-labs-graphify]]
+[[hkuds-vibe-trading]] [[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]] [[hkuds-deeptutor]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

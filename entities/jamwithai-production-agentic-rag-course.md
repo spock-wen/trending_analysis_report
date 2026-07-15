@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[freecodecamp-freecodecamp]] [[mattpocock-skills]] [[microsoft-ai-for-beginners]] [[graphify-labs-graphify]]
+[[hkuds-vibe-trading]] [[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]] [[owainlewis-awesome-artificial-intelligence]] [[byoungd-english-level-up-tips]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

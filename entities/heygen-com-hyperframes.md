@@ -34,7 +34,7 @@ Write HTML. Render video. Built for agents.
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[nutlope-hallmark]] [[moeru-ai-airi]] [[henryndubuaku-maths-cs-ai-compendium]]
+[[aieradev-clypra]] [[henryndubuaku-maths-cs-ai-compendium]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[opencut-app-opencut]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

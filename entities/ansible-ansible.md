@@ -35,7 +35,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[nutlope-hallmark]] [[moeru-ai-airi]] [[graphify-labs-graphify]]
+[[hkuds-vibe-trading]] [[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]] [[davila7-claude-code-templates]] [[hashicorp-terraform]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

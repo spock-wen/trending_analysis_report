@@ -34,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[dotnet-aspnetcore]] [[par274-sharpemu]] [[iofficeai-officecli]] [[zackriya-solutions-meetily]] [[veracrypt-veracrypt]]
+[[zackriya-solutions-meetily]] [[k1tbyte-wand-enhancer]] [[dotnet-aspnetcore]] [[home-assistant-core]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

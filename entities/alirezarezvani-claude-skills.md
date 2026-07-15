@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[raphire-win11debloat]] [[shubhamsaboo-awesome-llm-apps]] [[obra-superpowers]] [[mattpocock-skills]] [[iofficeai-officecli]]
+[[chenyme-grok2api]] [[henryndubuaku-maths-cs-ai-compendium]] [[hkuds-vibe-trading]] [[obra-superpowers]] [[shubhamsaboo-awesome-llm-apps]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

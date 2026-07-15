@@ -35,7 +35,7 @@ Odoo. Open Source Apps To Grow Your Business.
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[obra-superpowers]] [[diolinux-photogimp]] [[iofficeai-officecli]] [[graphify-labs-graphify]]
+[[hkuds-vibe-trading]] [[obra-superpowers]] [[shubhamsaboo-awesome-llm-apps]] [[hkuds-deeptutor]] [[zeux-meshoptimizer]]
 
 **所属领域**: [[erp]]
 

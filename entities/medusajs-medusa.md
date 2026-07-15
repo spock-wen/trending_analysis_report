@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[obra-superpowers]] [[diolinux-photogimp]] [[iofficeai-officecli]] [[moeru-ai-airi]] [[henryndubuaku-maths-cs-ai-compendium]]
+[[aieradev-clypra]] [[henryndubuaku-maths-cs-ai-compendium]] [[obra-superpowers]] [[moeru-ai-airi]] [[opencut-app-opencut]]
 
 **所属领域**: [[erp]]
 

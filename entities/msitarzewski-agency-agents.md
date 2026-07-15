@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[raphire-win11debloat]] [[obra-superpowers]] [[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[nutlope-hallmark]]
+[[chenyme-grok2api]] [[hkuds-vibe-trading]] [[obra-superpowers]] [[moeru-ai-airi]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -1,7 +1,7 @@
 ---
 title: "data"
 created: 2026-05-31
-updated: 2026-07-15
+updated: 2026-07-16
 type: concept
 tags: [data]
 confidence: medium
@@ -11,7 +11,7 @@ confidence: medium
 
 ## 领域项目（共 30 个，今日上榜 2 个）
 
-[[hasaneyldrm-exercises-dataset]] [[graphify-labs-graphify]] [[coreyhaines31-marketingskills]] [[prefecthq-prefect]] [[prisma-prisma]] [[tencentcloud-tencentdb-agent-memory]] [[alibaba-zvec]] [[zackriya-solutions-meetily]] [[safishamsi-graphify]] [[supabase-supabase]] [[allenai-olmocr]] [[robbyant-lingbot-map]] [[deusdata-codebase-memory-mcp]] [[opendatalab-mineru]] [[dbt-labs-dbt-core]] [[calesthio-openmontage]] [[grafana-grafana]] [[tursodatabase-turso]] [[teslamate-org-teslamate]] [[kenn-io-agentsview]] [[fareedkhan-dev-train-llm-from-scratch]] [[paddlepaddle-paddleocr]] [[nvidia-cosmos]] [[opendataloader-project-opendataloader-pdf]] [[datatalksclub-data-engineering-zoomcamp]] [[fincept-corporation-finceptterminal]] [[bigbodycobain-shadowbroker]] [[plausible-analytics]] [[influxdata-telegraf]] [[nvidia-ai-blueprints-video-search-and-summarization]]
+[[hasaneyldrm-exercises-dataset]] [[coreyhaines31-marketingskills]] [[graphify-labs-graphify]] [[prefecthq-prefect]] [[prisma-prisma]] [[tencentcloud-tencentdb-agent-memory]] [[alibaba-zvec]] [[zackriya-solutions-meetily]] [[safishamsi-graphify]] [[supabase-supabase]] [[allenai-olmocr]] [[robbyant-lingbot-map]] [[deusdata-codebase-memory-mcp]] [[opendatalab-mineru]] [[dbt-labs-dbt-core]] [[calesthio-openmontage]] [[grafana-grafana]] [[tursodatabase-turso]] [[teslamate-org-teslamate]] [[kenn-io-agentsview]] [[fareedkhan-dev-train-llm-from-scratch]] [[paddlepaddle-paddleocr]] [[nvidia-cosmos]] [[opendataloader-project-opendataloader-pdf]] [[datatalksclub-data-engineering-zoomcamp]] [[fincept-corporation-finceptterminal]] [[bigbodycobain-shadowbroker]] [[plausible-analytics]] [[influxdata-telegraf]] [[nvidia-ai-blueprints-video-search-and-summarization]]
 
 ## 语言分布
 

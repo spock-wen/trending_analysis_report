@@ -37,7 +37,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[oven-sh-bun]] [[ruvnet-ruview]] [[malisper-pgrust]]
+[[hkuds-vibe-trading]] [[moeru-ai-airi]] [[mattpocock-skills]] [[ruvnet-ruview]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[ai-agent]]
 

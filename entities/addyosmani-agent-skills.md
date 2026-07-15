@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[leonxlnx-taste-skill]] [[coreyhaines31-marketingskills]] [[openai-plugins]]
+[[hkuds-vibe-trading]] [[moeru-ai-airi]] [[mattpocock-skills]] [[openai-plugins]] [[coreyhaines31-marketingskills]]
 
 **所属领域**: [[ai-agent]]
 

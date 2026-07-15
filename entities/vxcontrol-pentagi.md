@@ -34,7 +34,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[mattpocock-skills]] [[tailscale-tailscale]] [[chenyme-grok2api]] [[hashicorp-terraform]]
+[[chenyme-grok2api]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[hashicorp-terraform]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

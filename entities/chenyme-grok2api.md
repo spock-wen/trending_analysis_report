@@ -34,7 +34,7 @@ language: "Go"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[nutlope-hallmark]] [[moeru-ai-airi]] [[tailscale-tailscale]] [[graphify-labs-graphify]]
+[[hashicorp-terraform]] [[moeru-ai-airi]] [[nutlope-hallmark]] [[hkuds-deeptutor]] [[mattpocock-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

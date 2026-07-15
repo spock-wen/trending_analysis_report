@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[mattpocock-skills]] [[nutlope-hallmark]] [[moeru-ai-airi]] [[graphify-labs-graphify]] [[chenyme-grok2api]]
+[[chenyme-grok2api]] [[moeru-ai-airi]] [[nutlope-hallmark]] [[hkuds-deeptutor]] [[mattpocock-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

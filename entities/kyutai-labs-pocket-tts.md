@@ -35,7 +35,7 @@ A TTS that fits in your CPU (and pocket)
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[hugohe3-ppt-master]] [[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]] [[hkuds-deeptutor]]
+[[hkuds-deeptutor]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[hugohe3-ppt-master]] [[apache-ossie]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

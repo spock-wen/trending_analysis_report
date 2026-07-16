@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[ahmadibrahiim-website-downloader]] [[hkuds-vibe-trading]] [[shubhamsaboo-awesome-llm-apps]] [[karakeep-app-karakeep]] [[hkuds-deeptutor]]
+[[hkuds-deeptutor]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[ahmadibrahiim-website-downloader]] [[apache-ossie]]
 
 **所属领域**: [[image-gen]]
 

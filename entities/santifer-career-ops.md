@@ -37,7 +37,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 ## 相关项目
 
-[[ahmadibrahiim-website-downloader]] [[hkuds-vibe-trading]] [[prisma-prisma]] [[moeru-ai-airi]] [[karakeep-app-karakeep]]
+[[coreyhaines31-marketingskills]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[ahmadibrahiim-website-downloader]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

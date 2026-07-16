@@ -37,7 +37,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[hugohe3-ppt-master]] [[moeru-ai-airi]] [[palmier-io-palmier-pro]] [[apple-container]]
+[[palmier-io-palmier-pro]] [[shubhamsaboo-awesome-llm-apps]] [[hugohe3-ppt-master]] [[github-copilot-sdk]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

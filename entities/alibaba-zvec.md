@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[catchorg-catch2]] [[graphify-labs-graphify]] [[coreyhaines31-marketingskills]] [[chriskohlhoff-asio]] [[yimmenu-yimmenuv2]]
+[[catchorg-catch2]] [[graphify-labs-graphify]] [[chriskohlhoff-asio]] [[apache-ossie]] [[yimmenu-yimmenuv2]]
 
 **所属领域**: [[data]]
 

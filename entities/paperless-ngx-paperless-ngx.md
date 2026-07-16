@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[hkuds-vibe-trading]] [[shubhamsaboo-awesome-llm-apps]] [[alirezarezvani-claude-skills]] [[hkuds-deeptutor]]
+[[hkuds-deeptutor]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[henryndubuaku-maths-cs-ai-compendium]] [[alirezarezvani-claude-skills]]
 
 **所属领域**: [[science]]
 

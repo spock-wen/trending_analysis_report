@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]] [[hkuds-deeptutor]] [[mattpocock-skills]] [[virattt-ai-hedge-fund]]
+[[hkuds-deeptutor]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[apache-ossie]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]]
 

@@ -16,7 +16,6 @@ last_trending: 2026-07-15
 peak_rank: 2
 total_stars: 56135
 language: "Clojure"
-contested: true
 ---
 
 # penpot/penpot
@@ -40,14 +39,4 @@ Penpot: The open-source design platform for Product teams that need scalable col
 ## 相关项目
 
 - 暂无
-
-
-## ⚠️ 描述变更（2026-07-15）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: Penpot: The open-source design tool for design and code collaboration
-- **新描述**: Penpot: The open-source design platform for Product teams that need scalable collaboration.
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

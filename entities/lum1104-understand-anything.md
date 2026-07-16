@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[aieradev-clypra]] [[henryndubuaku-maths-cs-ai-compendium]] [[hkuds-vibe-trading]] [[moeru-ai-airi]]
+[[lobehub-lobehub]] [[microsoft-ai-for-beginners]] [[byoungd-english-level-up-tips]] [[raphire-win11debloat]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

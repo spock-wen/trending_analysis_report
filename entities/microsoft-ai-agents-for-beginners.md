@@ -36,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[nvidia-cosmos]] [[owainlewis-awesome-artificial-intelligence]]
+[[byoungd-english-level-up-tips]] [[microsoft-ai-for-beginners]] [[freecodecamp-freecodecamp]] [[shubhamsaboo-awesome-llm-apps]] [[anthropics-claude-cookbooks]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

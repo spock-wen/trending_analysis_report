@@ -38,7 +38,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[moeru-ai-airi]] [[mattpocock-skills]] [[coreyhaines31-marketingskills]] [[addyosmani-agent-skills]]
+[[coreyhaines31-marketingskills]] [[shubhamsaboo-awesome-llm-apps]] [[github-copilot-sdk]] [[hasaneyldrm-exercises-dataset]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

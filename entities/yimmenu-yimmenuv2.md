@@ -1,20 +1,20 @@
 ---
 title: "YimMenu/YimMenuV2"
 created: 2026-07-16
-updated: 2026-07-16
-last_active: 2026-07-16
+updated: 2026-07-17
+last_active: 2026-07-17
 type: tool
 tags: [cpp]
-sources: [raw/trending/2026-07-16.json]
-confidence: low
-trending_count_daily: 1
+sources: [raw/trending/2026-07-17.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-07-16
-last_trending: 2026-07-16
-peak_rank: 12
-total_stars: 1409
+last_trending: 2026-07-17
+peak_rank: 10
+total_stars: 1498
 language: "C++"
 ---
 
@@ -23,16 +23,17 @@ language: "C++"
 Experimental menu for GTA 5: Enhanced
 
 - 语言: C++
-- 上榜次数: 1 次
-- 连续上榜: 1 天
-- 最高排名: #12
+- 上榜次数: 2 次
+- 连续上榜: 2 天
+- 最高排名: #10
 - 链接: [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2)
 
 ## 上榜历史
 
+  - 2026-07-17: #10, +122⭐
   - 2026-07-16: #12, +21⭐
 
 ## 相关项目
 
-[[chriskohlhoff-asio]] [[abseil-abseil-cpp]] [[catchorg-catch2]]
+[[catchorg-catch2]] [[abseil-abseil-cpp]] [[chriskohlhoff-asio]]
 

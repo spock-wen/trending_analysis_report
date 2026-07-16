@@ -1,7 +1,7 @@
 ---
 title: "science"
 created: 2026-05-26
-updated: 2026-07-16
+updated: 2026-07-17
 type: concept
 tags: [science]
 confidence: medium
@@ -11,7 +11,7 @@ confidence: medium
 
 ## 领域项目（共 18 个，今日上榜 1 个）
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[graphify-labs-graphify]] [[mvanhorn-last30days-skill]] [[alirezarezvani-claude-skills]] [[safishamsi-graphify]] [[affaan-m-ecc]] [[xbtlin-ai-berkshire]] [[nousresearch-hermes-agent]] [[bytedance-deer-flow]] [[google-research-timesfm]] [[owainlewis-awesome-artificial-intelligence]] [[aishwaryanr-awesome-generative-ai-guide]] [[tauricresearch-tradingagents]] [[galilai-group-stable-worldmodel]] [[fincept-corporation-finceptterminal]] [[paperless-ngx-paperless-ngx]] [[imbad0202-academic-research-skills]] [[k-dense-ai-scientific-agent-skills]]
+[[graphify-labs-graphify]] [[henryndubuaku-maths-cs-ai-compendium]] [[mvanhorn-last30days-skill]] [[alirezarezvani-claude-skills]] [[safishamsi-graphify]] [[affaan-m-ecc]] [[xbtlin-ai-berkshire]] [[nousresearch-hermes-agent]] [[bytedance-deer-flow]] [[google-research-timesfm]] [[owainlewis-awesome-artificial-intelligence]] [[aishwaryanr-awesome-generative-ai-guide]] [[tauricresearch-tradingagents]] [[galilai-group-stable-worldmodel]] [[fincept-corporation-finceptterminal]] [[paperless-ngx-paperless-ngx]] [[imbad0202-academic-research-skills]] [[k-dense-ai-scientific-agent-skills]]
 
 ## 语言分布
 

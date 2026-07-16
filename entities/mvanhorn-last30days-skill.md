@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[hkuds-vibe-trading]] [[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]] [[alirezarezvani-claude-skills]]
+[[hkuds-deeptutor]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[nutlope-hallmark]] [[henryndubuaku-maths-cs-ai-compendium]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

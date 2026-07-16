@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[hkuds-vibe-trading]] [[hashicorp-terraform]] [[moeru-ai-airi]] [[mattpocock-skills]]
+[[graphify-labs-graphify]] [[chenyme-grok2api]] [[shubhamsaboo-awesome-llm-apps]] [[apache-ossie]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

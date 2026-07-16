@@ -35,5 +35,5 @@ Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[openinterpreter-openinterpreter]] [[oven-sh-bun]]
+[[openinterpreter-openinterpreter]] [[ruvnet-ruview]] [[oven-sh-bun]]
 

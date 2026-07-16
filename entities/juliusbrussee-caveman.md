@@ -37,7 +37,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[moeru-ai-airi]] [[mattpocock-skills]] [[openai-plugins]] [[coreyhaines31-marketingskills]]
+[[coreyhaines31-marketingskills]] [[shubhamsaboo-awesome-llm-apps]] [[openai-plugins]] [[github-copilot-sdk]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[ai-agent]]
 

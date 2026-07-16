@@ -35,7 +35,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[hkuds-vibe-trading]] [[obra-superpowers]] [[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]]
+[[affaan-m-ecc]] [[hkuds-deeptutor]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[nutlope-hallmark]] [[hkuds-deeptutor]] [[ruvnet-ruview]] [[hasaneyldrm-exercises-dataset]]
+[[malisper-pgrust]] [[ruvnet-ruview]] [[nutlope-hallmark]] [[hkuds-deeptutor]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[web]]
 

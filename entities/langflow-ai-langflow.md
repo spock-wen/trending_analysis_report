@@ -34,7 +34,7 @@ Langflow is a powerful tool for building and deploying AI-powered agents and wor
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]] [[davila7-claude-code-templates]] [[hashicorp-terraform]]
+[[hkuds-deeptutor]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[ansible-ansible]] [[apache-ossie]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

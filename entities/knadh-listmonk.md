@@ -34,7 +34,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[hkuds-vibe-trading]] [[hashicorp-terraform]] [[moeru-ai-airi]] [[mattpocock-skills]]
+[[chenyme-grok2api]] [[shubhamsaboo-awesome-llm-apps]] [[github-copilot-sdk]] [[hasaneyldrm-exercises-dataset]] [[tailscale-tailscale]]
 
 **所属领域**: [[ai-agent]]
 

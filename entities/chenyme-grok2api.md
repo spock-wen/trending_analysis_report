@@ -34,7 +34,7 @@ language: "Go"
 
 ## 相关项目
 
-[[hashicorp-terraform]] [[moeru-ai-airi]] [[nutlope-hallmark]] [[hkuds-deeptutor]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[nutlope-hallmark]] [[hkuds-deeptutor]] [[graphify-labs-graphify]] [[raphire-win11debloat]]
 
 **所属领域**: [[web]] [[cli]]
 

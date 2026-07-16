@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[k1tbyte-wand-enhancer]] [[moeru-ai-airi]] [[dotnet-aspnetcore]] [[mattpocock-skills]]
+[[iofficeai-officecli]] [[par274-sharpemu]] [[shubhamsaboo-awesome-llm-apps]] [[dotnet-aspnetcore]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]]
 

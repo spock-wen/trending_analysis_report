@@ -34,7 +34,7 @@ A modern video editor built with Tauri, React, and TypeScript. Focus on building
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[opencut-app-opencut]] [[mattpocock-skills]]
+[[lobehub-lobehub]] [[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]] [[github-copilot-sdk]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[ai-agent]]
 

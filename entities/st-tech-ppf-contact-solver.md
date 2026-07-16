@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[hkuds-vibe-trading]] [[shubhamsaboo-awesome-llm-apps]] [[hkuds-deeptutor]] [[mattpocock-skills]]
+[[hkuds-deeptutor]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[raphire-win11debloat]] [[apache-ossie]]
 
 **所属领域**: [[cli]]
 

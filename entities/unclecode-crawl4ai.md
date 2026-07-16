@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]] [[hkuds-deeptutor]] [[nutlope-hallmark]]
+[[hkuds-deeptutor]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[nutlope-hallmark]] [[apache-ossie]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

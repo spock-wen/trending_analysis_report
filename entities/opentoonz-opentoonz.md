@@ -34,5 +34,5 @@ OpenToonz - An open-source full-featured 2D animation creation software
 
 ## 相关项目
 
-[[chriskohlhoff-asio]] [[abseil-abseil-cpp]] [[yimmenu-yimmenuv2]] [[catchorg-catch2]]
+[[catchorg-catch2]] [[yimmenu-yimmenuv2]] [[abseil-abseil-cpp]] [[chriskohlhoff-asio]]
 

@@ -35,5 +35,5 @@ A self-hosted travel/trip planner with real-time collaboration, interactive maps
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[opencut-app-opencut]] [[henryndubuaku-maths-cs-ai-compendium]] [[aieradev-clypra]]
+[[lobehub-lobehub]] [[ibelick-ui-skills]] [[opencut-app-opencut]] [[moeru-ai-airi]]
 

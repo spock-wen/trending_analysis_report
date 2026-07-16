@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[moeru-ai-airi]] [[nutlope-hallmark]] [[hkuds-deeptutor]] [[ruvnet-ruview]]
+[[mattpocock-skills]] [[malisper-pgrust]] [[ruvnet-ruview]] [[nutlope-hallmark]] [[hkuds-deeptutor]]
 
 **所属领域**: [[web]] [[cli]]
 

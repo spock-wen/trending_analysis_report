@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[zackriya-solutions-meetily]] [[hkuds-vibe-trading]] [[hashicorp-terraform]] [[moeru-ai-airi]]
+[[affaan-m-ecc]] [[chenyme-grok2api]] [[shubhamsaboo-awesome-llm-apps]] [[github-copilot-sdk]] [[veracrypt-veracrypt]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

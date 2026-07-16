@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[aieradev-clypra]] [[henryndubuaku-maths-cs-ai-compendium]] [[moeru-ai-airi]] [[opencut-app-opencut]] [[nutlope-hallmark]]
+[[lobehub-lobehub]] [[nutlope-hallmark]] [[hkuds-deeptutor]] [[moeru-ai-airi]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[web]]
 

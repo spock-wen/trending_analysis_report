@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[hkuds-vibe-trading]] [[hugohe3-ppt-master]] [[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]]
+[[hkuds-deeptutor]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[raphire-win11debloat]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[cli]] [[audio]]
 

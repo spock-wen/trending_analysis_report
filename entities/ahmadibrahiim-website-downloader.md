@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[prisma-prisma]] [[moeru-ai-airi]] [[karakeep-app-karakeep]] [[shanraisshan-claude-code-best-practice]]
+[[hkuds-deeptutor]] [[nutlope-hallmark]] [[graphify-labs-graphify]] [[ripienaar-free-for-dev]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[web]] [[image-gen]]
 

@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[hkuds-vibe-trading]] [[obra-superpowers]] [[moeru-ai-airi]] [[nutlope-hallmark]]
+[[mattpocock-skills]] [[nutlope-hallmark]] [[hkuds-deeptutor]] [[shubhamsaboo-awesome-llm-apps]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[hashicorp-terraform]] [[davila7-claude-code-templates]] [[tailscale-tailscale]] [[ansible-ansible]]
+[[graphify-labs-graphify]] [[chenyme-grok2api]] [[ansible-ansible]] [[tailscale-tailscale]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[devops]]
 

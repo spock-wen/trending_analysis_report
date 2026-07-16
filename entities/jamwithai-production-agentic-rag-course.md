@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]] [[owainlewis-awesome-artificial-intelligence]] [[byoungd-english-level-up-tips]]
+[[byoungd-english-level-up-tips]] [[microsoft-ai-for-beginners]] [[hkuds-deeptutor]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

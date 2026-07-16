@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zackriya-solutions-meetily]] [[hkuds-vibe-trading]] [[shubhamsaboo-awesome-llm-apps]] [[hkuds-deeptutor]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[hkuds-deeptutor]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[apache-ossie]]
 
 **所属领域**: [[security]]
 

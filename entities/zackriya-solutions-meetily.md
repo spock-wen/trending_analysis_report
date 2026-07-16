@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[moeru-ai-airi]] [[nutlope-hallmark]] [[hkuds-deeptutor]] [[mattpocock-skills]]
+[[malisper-pgrust]] [[ruvnet-ruview]] [[nutlope-hallmark]] [[shubhamsaboo-awesome-llm-apps]] [[hkuds-deeptutor]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

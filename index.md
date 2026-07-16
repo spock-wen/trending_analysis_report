@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-07-16 | 总页面：355
+> 最后更新：2026-07-17 | 总页面：361
 
 ## Entities
 
@@ -40,6 +40,7 @@
 - [[anthropics-skills|skills"]] — Public repository for Agent Skills
 - [[antoinezambelli-forge|forge"]] — A Python framework for self-hosted LLM tool-calling and mult...
 - [[apache-maven|maven"]] — Apache Maven core
+- [[apache-ossie|ossie"]] — Apache Ossie, industry wide specification effort to standard... 🆕
 - [[apple-container|container"]] — A tool for creating and running Linux containers using light... 🆕
 - [[aquasecurity-trivy|trivy"]] — Find vulnerabilities, misconfigurations, secrets, SBOM in co... 🔥
 - [[argoproj-argo-cd|argo-cd"]] — Declarative Continuous Deployment for Kubernetes
@@ -69,7 +70,7 @@
 - [[chromedevtools-chrome-devtools-mcp|chrome-devtools-mcp"]] — Chrome DevTools for coding agents 🔥
 - [[chthollyphile-folia-major|folia-major"]] — 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
 - [[cloakhq-cloakbrowser|CloakBrowser"]] — Stealth Chromium that passes every bot detection test. Drop-... 🆕
-- [[codecrafters-io-build-your-own-x|build-your-own-x"]] — Master programming by recreating your favorite technologies ... 🔥
+- [[codecrafters-io-build-your-own-x|build-your-own-x"]] — Master programming by recreating your favorite technologies ...
 - [[colbymchenry-codegraph|codegraph"]] — Pre-indexed code knowledge graph for Claude Code, Codex, Cur... 🔥
 - [[colemurray-background-agents|background-agents"]] — An open-source background agents coding system
 - [[commaai-openpilot|openpilot"]] — openpilot is an operating system for robotics. Currently, it... 🔥
@@ -117,7 +118,7 @@
 - [[galilai-group-stable-worldmodel|stable-worldmodel"]] — A platform for reproducible world model research and evaluat... 🆕
 - [[garrytan-gstack|gstack"]] — Use Garry Tan's exact Claude Code setup: 23 opinionated tool... 🔥
 - [[gastownhall-gastown|gastown"]] — Gas Town - multi-agent workspace manager 🆕
-- [[github-copilot-sdk|copilot-sdk"]] — Multi-platform SDK for integrating GitHub Copilot Agent into... 🆕
+- [[github-copilot-sdk|copilot-sdk"]] — Multi-platform SDK for integrating GitHub Copilot Agent into...
 - [[github-docs|docs"]] — The open-source repo for docs.github.com
 - [[github-spec-kit|spec-kit"]] — 💫 Toolkit to help you get started with Spec-Driven Developme...
 - [[godotengine-godot|godot"]] — Godot Engine – Multi-platform 2D and 3D game engine
@@ -127,7 +128,7 @@
 - [[google-skills|skills"]] — Agent Skills for Google products and technologies
 - [[gorvgoyl-clone-wars|Clone-Wars"]] — 100+ open-source clones of popular sites like Airbnb, Amazon...
 - [[grafana-grafana|grafana"]] — The open and composable observability and data visualization...
-- [[graphify-labs-graphify|graphify"]] — AI coding assistant skill (Claude Code, Codex, OpenCode, Cur... 🆕
+- [[graphify-labs-graphify|graphify"]] — AI coding assistant skill (Claude Code, Codex, OpenCode, Cur...
 - [[grpc-grpc|grpc"]] — C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [[hardikpandya-stop-slop|stop-slop"]] — A skill file for removing AI tells from prose 🔥
 - [[harry0703-moneyprinterturbo|MoneyPrinterTurbo"]] — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using...
@@ -146,6 +147,7 @@
 - [[humanlayer-12-factor-agents|12-factor-agents"]] — What are the principles we can use to build LLM-powered soft... 🆕
 - [[hunxbyts-ghosttrack|GhostTrack"]] — Useful tool to track location or mobile number
 - [[huxingyi-autoremesher|autoremesher"]] — Automatic quad remeshing tool 🆕
+- [[ibelick-ui-skills|ui-skills"]] — Skills for Design Engineers 🆕
 - [[icewhaletech-casaos|CasaOS"]] — CasaOS - A simple, easy-to-use, elegant open-source Personal... 🔥
 - [[iii-hq-iii|iii"]] — Effortlessly compose, extend, and observe every service in r...
 - [[imbad0202-academic-research-skills|academic-research-skills"]] — Academic Research Skills for Claude Code: research → write →... 🔥
@@ -186,6 +188,7 @@
 - [[light-heart-labs-dreamserver|DreamServer"]] — Local AI anywhere, for everyone — LLM inference, chat UI, vo...
 - [[lightricks-ltx-2|LTX-2"]] — Official Python inference and LoRA trainer package for the L... 🆕
 - [[lmcache-lmcache|LMCache"]] — LMCache: Supercharge Your LLM with the Fastest KV Cache Laye... 🆕
+- [[lobehub-lobehub|lobehub"]] — 🤯 LobeHub is your Chief Agent Operator, organizing your agen... 🆕
 - [[logto-io-logto|logto"]] — 🧑‍🚀 Authentication and authorization infrastructure for SaaS...
 - [[lum1104-understand-anything|Understand-Anything"]] — Graphs that teach > graphs that impress. Turn any code into ... 🔥
 - [[luongnv89-claude-howto|claude-howto"]] — A visual, example-driven guide to Claude Code — from basic c...
@@ -196,7 +199,7 @@
 - [[manaflow-ai-cmux|cmux"]] — Ghostty-based macOS terminal with vertical tabs and notifica... 🔥
 - [[masterking32-masterdnsvpn|MasterDnsVPN"]] — Advanced DNS tunneling VPN for censorship bypass, optimized ... 🔥
 - [[mattermost-mattermost|mattermost"]] — Mattermost is an open source platform for secure collaborati... 🆕
-- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .claude director... 🆕
+- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .claude director... 🔥
 - [[mauriceboe-trek|TREK"]] — A self-hosted travel/trip planner with real-time collaborati... 🆕
 - [[maziyarpanahi-openmed|openmed"]] — open-source healthcare ai 🔥
 - [[mebus-cupp|cupp"]] — Common User Passwords Profiler (CUPP) 🆕
@@ -243,9 +246,10 @@
 - [[opencv-opencv|opencv"]] — Open Source Computer Vision Library
 - [[opendatalab-mineru|MinerU"]] — Transforms complex documents like PDFs and Office docs into ...
 - [[opendataloader-project-opendataloader-pdf|opendataloader-pdf"]] — PDF Parser for AI-ready data. Automate PDF accessibility. Op...
-- [[openinterpreter-openinterpreter|openinterpreter"]] — A coding agent for low-cost models 🆕
+- [[openinterpreter-openinterpreter|openinterpreter"]] — A Codex-compatible coding agent for open models like Kimi K3 🆕
 - [[openmoss-moss-tts|MOSS-TTS"]] — MOSS‑TTS Family is an open‑source speech and sound generatio...
 - [[opentoonz-opentoonz|opentoonz"]] — OpenToonz - An open-source full-featured 2D animation creati...
+- [[ossu-computer-science|computer-science"]] — 🎓 Path to a free self-taught education in Computer Science! 🆕
 - [[othmanadi-planning-with-files|planning-with-files"]] — Persistent file-based planning for AI coding agents and long...
 - [[oven-sh-bun|bun"]] — Incredibly fast JavaScript runtime, bundler, test runner, an... 🆕
 - [[owainlewis-awesome-artificial-intelligence|awesome-artificial-intelligence"]] — A curated list of Artificial Intelligence (AI) courses, book...
@@ -261,9 +265,11 @@
 - [[phuryn-pm-skills|pm-skills"]] — PM Skills Marketplace: 100+ agentic skills, commands, and pl... 🔥
 - [[pingdotgg-t3code|t3code"]] — No description
 - [[plausible-analytics|analytics"]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
+- [[posthog-posthog|posthog"]] — 🦔 PostHog is the leading platform for building self-driving ... 🆕
 - [[pppscn-smsforwarder|SmsForwarder"]] — 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内...
 - [[prefecthq-prefect|prefect"]] — Prefect is a workflow orchestration framework for building r...
 - [[prisma-prisma|prisma"]] — Next-generation ORM for Node.js & TypeScript | PostgreSQL, M...
+- [[prismml-eng-bonsai-demo|Bonsai-demo"]] — Bonsai Demo 🆕
 - [[puppeteer-puppeteer|puppeteer"]] — JavaScript API for Chrome and Firefox
 - [[pytest-dev-pytest|pytest"]] — The pytest framework makes it easy to write small tests, yet...
 - [[pytorch-pytorch|pytorch"]] — Tensors and Dynamic neural networks in Python with strong GP... 🆕

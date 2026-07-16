@@ -35,5 +35,5 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[opencut-app-opencut]] [[henryndubuaku-maths-cs-ai-compendium]] [[aieradev-clypra]]
+[[lobehub-lobehub]] [[ibelick-ui-skills]] [[opencut-app-opencut]] [[moeru-ai-airi]]
 

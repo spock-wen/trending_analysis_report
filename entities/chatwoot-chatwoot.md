@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[mattpocock-skills]] [[hasaneyldrm-exercises-dataset]] [[hkuds-vibe-trading]] [[moeru-ai-airi]]
+[[shubhamsaboo-awesome-llm-apps]] [[github-copilot-sdk]] [[mattpocock-skills]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[ai-agent]]
 

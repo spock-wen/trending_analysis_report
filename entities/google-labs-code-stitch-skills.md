@@ -35,7 +35,7 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[aieradev-clypra]] [[henryndubuaku-maths-cs-ai-compendium]] [[hkuds-vibe-trading]] [[moeru-ai-airi]]
+[[lobehub-lobehub]] [[raphire-win11debloat]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

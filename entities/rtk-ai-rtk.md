@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[mattpocock-skills]] [[ruvnet-ruview]]
+[[malisper-pgrust]] [[ruvnet-ruview]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[raphire-win11debloat]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

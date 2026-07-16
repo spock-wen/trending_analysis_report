@@ -38,7 +38,7 @@ agent multiplexer that lives in your terminal.
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[mattpocock-skills]] [[ruvnet-ruview]]
+[[malisper-pgrust]] [[ruvnet-ruview]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[raphire-win11debloat]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

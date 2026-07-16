@@ -34,7 +34,7 @@ Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[ahmadibrahiim-website-downloader]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[davila7-claude-code-templates]]
+[[nutlope-hallmark]] [[hkuds-deeptutor]] [[shubhamsaboo-awesome-llm-apps]] [[ossu-computer-science]] [[ahmadibrahiim-website-downloader]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

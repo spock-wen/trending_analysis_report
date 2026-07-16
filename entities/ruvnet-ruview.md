@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[hashicorp-terraform]] [[ansible-ansible]] [[openinterpreter-openinterpreter]] [[graphify-labs-graphify]]
+[[malisper-pgrust]] [[graphify-labs-graphify]] [[ansible-ansible]] [[openinterpreter-openinterpreter]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[devops]]
 

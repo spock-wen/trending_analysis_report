@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[aieradev-clypra]] [[henryndubuaku-maths-cs-ai-compendium]] [[hkuds-vibe-trading]] [[hugohe3-ppt-master]] [[opencut-app-opencut]]
+[[lobehub-lobehub]] [[nutlope-hallmark]] [[hkuds-deeptutor]] [[shubhamsaboo-awesome-llm-apps]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

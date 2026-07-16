@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[aieradev-clypra]] [[henryndubuaku-maths-cs-ai-compendium]] [[moeru-ai-airi]] [[opencut-app-opencut]]
+[[lobehub-lobehub]] [[raphire-win11debloat]] [[graphify-labs-graphify]] [[moeru-ai-airi]] [[prismml-eng-bonsai-demo]]
 
 **所属领域**: [[cli]]
 

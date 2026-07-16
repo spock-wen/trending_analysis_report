@@ -35,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[k1tbyte-wand-enhancer]] [[dotnet-aspnetcore]] [[mattpocock-skills]] [[iofficeai-officecli]]
+[[iofficeai-officecli]] [[raphire-win11debloat]] [[graphify-labs-graphify]] [[par274-sharpemu]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[cli]]
 

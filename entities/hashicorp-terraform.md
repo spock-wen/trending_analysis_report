@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[hkuds-vibe-trading]] [[moeru-ai-airi]] [[davila7-claude-code-templates]] [[mattpocock-skills]]
+[[graphify-labs-graphify]] [[chenyme-grok2api]] [[shubhamsaboo-awesome-llm-apps]] [[ansible-ansible]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

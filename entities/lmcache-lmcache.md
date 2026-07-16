@@ -35,7 +35,7 @@ LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
 
 ## 相关项目
 
-[[hkuds-vibe-trading]] [[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]] [[hkuds-deeptutor]] [[mattpocock-skills]]
+[[hkuds-deeptutor]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[apache-ossie]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]]
 

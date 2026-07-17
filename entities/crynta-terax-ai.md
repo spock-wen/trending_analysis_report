@@ -34,7 +34,7 @@ Lightweight (7MB) Terminal-first AI-native dev workspace
 
 ## 相关项目
 
-[[lobehub-lobehub]] [[raphire-win11debloat]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[lobehub-lobehub]] [[nutlope-hallmark]] [[mattpocock-skills]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

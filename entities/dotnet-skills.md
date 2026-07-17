@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[iofficeai-officecli]] [[par274-sharpemu]] [[shubhamsaboo-awesome-llm-apps]] [[dotnet-aspnetcore]] [[github-copilot-sdk]]
+[[iofficeai-officecli]] [[henryndubuaku-maths-cs-ai-compendium]] [[nutlope-hallmark]] [[ryancodrai-turbovec]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[ai-agent]]
 

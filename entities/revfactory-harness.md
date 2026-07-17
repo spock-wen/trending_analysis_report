@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[nutlope-hallmark]] [[hkuds-deeptutor]] [[shubhamsaboo-awesome-llm-apps]] [[ossu-computer-science]] [[ahmadibrahiim-website-downloader]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[posthog-posthog]] [[nutlope-hallmark]] [[ossu-computer-science]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

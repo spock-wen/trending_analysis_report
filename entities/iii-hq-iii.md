@@ -34,5 +34,5 @@ Effortlessly compose, extend, and observe every service in real-time for the fir
 
 ## 相关项目
 
-[[openinterpreter-openinterpreter]] [[malisper-pgrust]] [[oven-sh-bun]] [[ruvnet-ruview]]
+[[oven-sh-bun]] [[openinterpreter-openinterpreter]] [[ruvnet-ruview]] [[malisper-pgrust]]
 

@@ -38,7 +38,7 @@ This is MCP server for Claude that gives it terminal control, file system search
 
 ## 相关项目
 
-[[lobehub-lobehub]] [[raphire-win11debloat]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[lobehub-lobehub]] [[nutlope-hallmark]] [[mattpocock-skills]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

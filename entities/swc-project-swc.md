@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[malisper-pgrust]] [[ruvnet-ruview]] [[nutlope-hallmark]] [[hkuds-deeptutor]] [[hasaneyldrm-exercises-dataset]]
+[[posthog-posthog]] [[malisper-pgrust]] [[oven-sh-bun]] [[nutlope-hallmark]] [[openinterpreter-openinterpreter]]
 
 **所属领域**: [[web]]
 

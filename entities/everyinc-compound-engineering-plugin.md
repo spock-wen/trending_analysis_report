@@ -38,7 +38,7 @@ Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 
 ## 相关项目
 
-[[lobehub-lobehub]] [[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]] [[github-copilot-sdk]] [[hasaneyldrm-exercises-dataset]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[lobehub-lobehub]] [[nutlope-hallmark]] [[ryancodrai-turbovec]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]]
 

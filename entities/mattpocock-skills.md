@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[raphire-win11debloat]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[github-copilot-sdk]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[nutlope-hallmark]] [[obra-superpowers]] [[ryancodrai-turbovec]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

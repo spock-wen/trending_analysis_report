@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[lobehub-lobehub]] [[iofficeai-officecli]] [[zeux-meshoptimizer]] [[moeru-ai-airi]] [[ibelick-ui-skills]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[lobehub-lobehub]] [[obra-superpowers]] [[openinterpreter-openinterpreter]] [[opencut-app-opencut]]
 
 **所属领域**: [[erp]]
 

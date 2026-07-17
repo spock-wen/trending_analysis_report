@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[byoungd-english-level-up-tips]] [[freecodecamp-freecodecamp]] [[shubhamsaboo-awesome-llm-apps]] [[anthropics-claude-cookbooks]] [[github-copilot-sdk]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[owainlewis-awesome-artificial-intelligence]] [[anthropics-claude-cookbooks]] [[nutlope-hallmark]] [[nvidia-cosmos]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

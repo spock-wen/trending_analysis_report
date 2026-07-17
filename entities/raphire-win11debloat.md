@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[mattpocock-skills]] [[prismml-eng-bonsai-demo]]
+[[mattpocock-skills]] [[tirth8205-code-review-graph]] [[graphify-labs-graphify]] [[prismml-eng-bonsai-demo]]
 
 **所属领域**: [[cli]]
 

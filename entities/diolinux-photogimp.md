@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[iofficeai-officecli]] [[nutlope-hallmark]] [[hkuds-deeptutor]] [[obra-superpowers]] [[zeux-meshoptimizer]]
+[[posthog-posthog]] [[nutlope-hallmark]] [[obra-superpowers]] [[openinterpreter-openinterpreter]] [[hkuds-deeptutor]]
 
 **所属领域**: [[web]] [[erp]]
 

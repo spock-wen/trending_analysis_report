@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[nutlope-hallmark]] [[hkuds-deeptutor]] [[graphify-labs-graphify]] [[raphire-win11debloat]] [[hasaneyldrm-exercises-dataset]]
+[[posthog-posthog]] [[nutlope-hallmark]] [[mattpocock-skills]] [[tirth8205-code-review-graph]] [[hkuds-deeptutor]]
 
 **所属领域**: [[web]] [[cli]]
 

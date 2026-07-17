@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[lobehub-lobehub]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[ahmadibrahiim-website-downloader]] [[moeru-ai-airi]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[lobehub-lobehub]] [[nutlope-hallmark]] [[ryancodrai-turbovec]] [[prisma-prisma]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

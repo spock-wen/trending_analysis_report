@@ -35,5 +35,5 @@ git push no-mistakes
 
 ## 相关项目
 
-[[tailscale-tailscale]] [[hashicorp-terraform]] [[vxcontrol-pentagi]] [[chenyme-grok2api]]
+[[vxcontrol-pentagi]] [[hashicorp-terraform]] [[chenyme-grok2api]] [[tailscale-tailscale]]
 

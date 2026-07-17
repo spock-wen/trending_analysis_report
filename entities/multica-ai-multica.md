@@ -36,7 +36,7 @@ The open-source managed agents platform. Turn coding agents into real teammates 
 
 ## 相关项目
 
-[[lobehub-lobehub]] [[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]] [[github-copilot-sdk]] [[hasaneyldrm-exercises-dataset]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[lobehub-lobehub]] [[nutlope-hallmark]] [[ryancodrai-turbovec]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]]
 

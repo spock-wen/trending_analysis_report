@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[nutlope-hallmark]] [[hkuds-deeptutor]] [[graphify-labs-graphify]] [[apache-ossie]]
+[[teslamate-org-teslamate]] [[posthog-posthog]] [[veracrypt-veracrypt]] [[nutlope-hallmark]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

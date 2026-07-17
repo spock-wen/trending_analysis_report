@@ -36,7 +36,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[malisper-pgrust]] [[ruvnet-ruview]] [[shubhamsaboo-awesome-llm-apps]] [[github-copilot-sdk]] [[hasaneyldrm-exercises-dataset]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[malisper-pgrust]] [[oven-sh-bun]] [[nutlope-hallmark]] [[openinterpreter-openinterpreter]]
 
 **所属领域**: [[ai-agent]]
 

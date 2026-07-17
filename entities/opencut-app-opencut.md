@@ -1,20 +1,20 @@
 ---
 title: "OpenCut-app/OpenCut"
 created: 2026-07-14
-updated: 2026-07-17
-last_active: 2026-07-17
+updated: 2026-07-18
+last_active: 2026-07-18
 type: tool
 tags: [typescript, rising]
-sources: [raw/trending/2026-07-17.json]
+sources: [raw/trending/2026-07-18.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 4
+consecutive_days: 5
 first_trending: 2026-07-14
-last_trending: 2026-07-17
+last_trending: 2026-07-18
 peak_rank: 1
-total_stars: 73927
+total_stars: 74814
 language: "TypeScript"
 ---
 
@@ -23,13 +23,14 @@ language: "TypeScript"
 The open-source CapCut alternative
 
 - 语言: TypeScript
-- 上榜次数: 4 次
-- 连续上榜: 4 天
+- 上榜次数: 5 次
+- 连续上榜: 5 天
 - 最高排名: #1
 - 链接: [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
 
 ## 上榜历史
 
+  - 2026-07-18: #14, +1077⭐
   - 2026-07-17: #3, +3290⭐
   - 2026-07-16: #1, +1505⭐
   - 2026-07-15: #4, +4349⭐
@@ -37,5 +38,5 @@ The open-source CapCut alternative
 
 ## 相关项目
 
-[[lobehub-lobehub]] [[ibelick-ui-skills]] [[moeru-ai-airi]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[anthropics-cwc-workshops]] [[lobehub-lobehub]]
 

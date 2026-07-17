@@ -34,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[iofficeai-officecli]] [[affaan-m-ecc]] [[par274-sharpemu]] [[dotnet-aspnetcore]] [[veracrypt-veracrypt]]
+[[iofficeai-officecli]] [[veracrypt-veracrypt]] [[affaan-m-ecc]] [[dotnet-aspnetcore]] [[par274-sharpemu]]
 
 **所属领域**: [[security]]
 

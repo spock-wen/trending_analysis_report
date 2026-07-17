@@ -35,5 +35,5 @@ Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## 相关项目
 
-[[apache-ossie]] [[hkuds-deeptutor]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]]
+[[posthog-posthog]] [[tirth8205-code-review-graph]] [[ryancodrai-turbovec]] [[hkuds-deeptutor]]
 

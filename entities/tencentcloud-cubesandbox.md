@@ -37,7 +37,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ## 相关项目
 
-[[malisper-pgrust]] [[ruvnet-ruview]] [[shubhamsaboo-awesome-llm-apps]] [[github-copilot-sdk]] [[hasaneyldrm-exercises-dataset]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[malisper-pgrust]] [[oven-sh-bun]] [[nutlope-hallmark]] [[openinterpreter-openinterpreter]]
 
 **所属领域**: [[ai-agent]]
 

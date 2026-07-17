@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[byoungd-english-level-up-tips]] [[iofficeai-officecli]] [[freecodecamp-freecodecamp]] [[shubhamsaboo-awesome-llm-apps]] [[hasaneyldrm-exercises-dataset]]
+[[owainlewis-awesome-artificial-intelligence]] [[ansible-ansible]] [[nvidia-cosmos]] [[github-copilot-sdk]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

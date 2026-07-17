@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[graphify-labs-graphify]] [[apache-ossie]] [[github-copilot-sdk]] [[hasaneyldrm-exercises-dataset]]
+[[posthog-posthog]] [[henryndubuaku-maths-cs-ai-compendium]] [[nutlope-hallmark]] [[ryancodrai-turbovec]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]]
 

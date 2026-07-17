@@ -35,7 +35,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[apache-ossie]] [[hasaneyldrm-exercises-dataset]]
+[[posthog-posthog]] [[ryancodrai-turbovec]] [[tirth8205-code-review-graph]] [[hkuds-deeptutor]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[data]]
 

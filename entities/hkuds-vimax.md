@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[ahmadibrahiim-website-downloader]] [[apache-ossie]]
+[[posthog-posthog]] [[henryndubuaku-maths-cs-ai-compendium]] [[nutlope-hallmark]] [[ryancodrai-turbovec]] [[karakeep-app-karakeep]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

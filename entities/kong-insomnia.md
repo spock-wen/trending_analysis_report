@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[lobehub-lobehub]] [[mattpocock-skills]] [[nutlope-hallmark]] [[hkuds-deeptutor]] [[graphify-labs-graphify]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[posthog-posthog]] [[lobehub-lobehub]] [[nutlope-hallmark]] [[mattpocock-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

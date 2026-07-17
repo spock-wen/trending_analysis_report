@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[lobehub-lobehub]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[ansible-ansible]] [[moeru-ai-airi]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[posthog-posthog]] [[davila7-claude-code-templates]] [[lobehub-lobehub]] [[ansible-ansible]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

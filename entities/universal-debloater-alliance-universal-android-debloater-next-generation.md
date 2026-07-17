@@ -36,7 +36,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[malisper-pgrust]] [[ruvnet-ruview]] [[affaan-m-ecc]] [[graphify-labs-graphify]] [[ahmadibrahiim-website-downloader]]
+[[veracrypt-veracrypt]] [[malisper-pgrust]] [[oven-sh-bun]] [[openinterpreter-openinterpreter]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]] [[image-gen]]
 

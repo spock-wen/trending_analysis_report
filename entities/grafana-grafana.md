@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[lobehub-lobehub]] [[graphify-labs-graphify]] [[ansible-ansible]] [[apache-ossie]] [[moeru-ai-airi]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[posthog-posthog]] [[davila7-claude-code-templates]] [[lobehub-lobehub]] [[ansible-ansible]]
 
 **所属领域**: [[data]] [[devops]]
 

@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[github-copilot-sdk]] [[apple-container]] [[hasaneyldrm-exercises-dataset]] [[steipete-codexbar]]
+[[altic-dev-fluidvoice]] [[henryndubuaku-maths-cs-ai-compendium]] [[steipete-codexbar]] [[nutlope-hallmark]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]]
 

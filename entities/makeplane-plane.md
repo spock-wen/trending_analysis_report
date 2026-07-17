@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[lobehub-lobehub]] [[raphire-win11debloat]] [[graphify-labs-graphify]] [[moeru-ai-airi]] [[prismml-eng-bonsai-demo]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[lobehub-lobehub]] [[mattpocock-skills]] [[tirth8205-code-review-graph]] [[opencut-app-opencut]]
 
 **所属领域**: [[cli]]
 

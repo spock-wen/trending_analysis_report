@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[iofficeai-officecli]] [[hkuds-deeptutor]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]] [[zeux-meshoptimizer]]
+[[posthog-posthog]] [[obra-superpowers]] [[openinterpreter-openinterpreter]] [[ryancodrai-turbovec]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[erp]]
 

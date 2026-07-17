@@ -38,7 +38,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[github-copilot-sdk]] [[mattpocock-skills]] [[hasaneyldrm-exercises-dataset]]
+[[nutlope-hallmark]] [[henryndubuaku-maths-cs-ai-compendium]] [[github-copilot-sdk]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]]
 

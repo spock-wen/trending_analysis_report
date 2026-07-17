@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[nutlope-hallmark]] [[graphify-labs-graphify]] [[ansible-ansible]] [[ahmadibrahiim-website-downloader]]
+[[posthog-posthog]] [[davila7-claude-code-templates]] [[ansible-ansible]] [[nutlope-hallmark]] [[ossu-computer-science]]
 
 **所属领域**: [[web]] [[devops]]
 

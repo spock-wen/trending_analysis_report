@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[shubhamsaboo-awesome-llm-apps]] [[moeru-ai-airi]] [[github-copilot-sdk]] [[hasaneyldrm-exercises-dataset]] [[ibelick-ui-skills]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[nutlope-hallmark]] [[ryancodrai-turbovec]] [[github-copilot-sdk]] [[opencut-app-opencut]]
 
 **所属领域**: [[ai-agent]]
 

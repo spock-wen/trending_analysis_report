@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[malisper-pgrust]] [[ruvnet-ruview]] [[nutlope-hallmark]] [[hkuds-deeptutor]]
+[[posthog-posthog]] [[malisper-pgrust]] [[oven-sh-bun]] [[nutlope-hallmark]] [[mattpocock-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

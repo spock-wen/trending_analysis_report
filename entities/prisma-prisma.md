@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[lobehub-lobehub]] [[graphify-labs-graphify]] [[ahmadibrahiim-website-downloader]] [[apache-ossie]] [[moeru-ai-airi]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[posthog-posthog]] [[lobehub-lobehub]] [[karakeep-app-karakeep]] [[opencut-app-opencut]]
 
 **所属领域**: [[data]] [[image-gen]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[nutlope-hallmark]] [[graphify-labs-graphify]] [[ripienaar-free-for-dev]] [[hasaneyldrm-exercises-dataset]]
+[[posthog-posthog]] [[nutlope-hallmark]] [[ossu-computer-science]] [[karakeep-app-karakeep]] [[prisma-prisma]]
 
 **所属领域**: [[web]] [[image-gen]]
 

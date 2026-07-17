@@ -35,7 +35,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[shubhamsaboo-awesome-llm-apps]] [[anthropics-claude-cookbooks]] [[github-copilot-sdk]] [[hasaneyldrm-exercises-dataset]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[anthropics-claude-cookbooks]] [[nutlope-hallmark]] [[nvidia-cosmos]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]]
 

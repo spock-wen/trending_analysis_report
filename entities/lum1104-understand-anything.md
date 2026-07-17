@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[lobehub-lobehub]] [[microsoft-ai-for-beginners]] [[byoungd-english-level-up-tips]] [[raphire-win11debloat]] [[graphify-labs-graphify]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[owainlewis-awesome-artificial-intelligence]] [[lobehub-lobehub]] [[nutlope-hallmark]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

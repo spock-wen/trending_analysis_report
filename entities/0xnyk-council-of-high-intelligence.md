@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[mattpocock-skills]] [[raphire-win11debloat]] [[graphify-labs-graphify]] [[shubhamsaboo-awesome-llm-apps]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[mattpocock-skills]] [[obra-superpowers]] [[nutlope-hallmark]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

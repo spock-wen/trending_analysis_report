@@ -34,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[lobehub-lobehub]] [[ibelick-ui-skills]] [[opencut-app-opencut]] [[moeru-ai-airi]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[lobehub-lobehub]] [[opencut-app-opencut]] [[anthropics-cwc-workshops]]
 

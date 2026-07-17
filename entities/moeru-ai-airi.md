@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[lobehub-lobehub]] [[nutlope-hallmark]] [[hkuds-deeptutor]] [[shubhamsaboo-awesome-llm-apps]] [[hugohe3-ppt-master]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[posthog-posthog]] [[altic-dev-fluidvoice]] [[lobehub-lobehub]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

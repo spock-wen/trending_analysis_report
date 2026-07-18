@@ -38,7 +38,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## 相关项目
 
-[[posthog-posthog]] [[henryndubuaku-maths-cs-ai-compendium]] [[nutlope-hallmark]] [[mattpocock-skills]] [[ryancodrai-turbovec]]
+[[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[moonshotai-kimi-cli]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

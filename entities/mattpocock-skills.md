@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[nutlope-hallmark]] [[obra-superpowers]] [[ryancodrai-turbovec]] [[tirth8205-code-review-graph]]
+[[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]] [[tirth8205-code-review-graph]] [[msitarzewski-agency-agents]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

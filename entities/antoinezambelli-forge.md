@@ -34,7 +34,7 @@ A Python framework for self-hosted LLM tool-calling and multi-step agentic workf
 
 ## 相关项目
 
-[[posthog-posthog]] [[henryndubuaku-maths-cs-ai-compendium]] [[nutlope-hallmark]] [[ryancodrai-turbovec]] [[tirth8205-code-review-graph]]
+[[rohitg00-ai-engineering-from-scratch]] [[lyogavin-airllm]] [[robbyant-lingbot-map]] [[apache-ossie]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]]
 

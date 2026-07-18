@@ -36,7 +36,7 @@ JavaScript in-page GUI agent. Control web interfaces with natural language.
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[posthog-posthog]] [[lobehub-lobehub]] [[nutlope-hallmark]] [[ryancodrai-turbovec]]
+[[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[hkuds-deeptutor]] [[elder-plinius-g0dm0d3]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

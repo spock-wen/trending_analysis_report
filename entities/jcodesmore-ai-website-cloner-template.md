@@ -38,7 +38,7 @@ Clone any website with one command using AI coding agents
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[posthog-posthog]] [[lobehub-lobehub]] [[nutlope-hallmark]] [[mattpocock-skills]]
+[[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]] [[knockoutez-wigolo]] [[hkuds-deeptutor]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

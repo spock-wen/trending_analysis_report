@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[posthog-posthog]] [[nutlope-hallmark]] [[ossu-computer-science]] [[karakeep-app-karakeep]] [[prisma-prisma]]
+[[prisma-prisma]] [[knockoutez-wigolo]] [[graphify-labs-graphify]] [[hkuds-deeptutor]] [[ossu-computer-science]]
 
 **所属领域**: [[web]] [[image-gen]]
 

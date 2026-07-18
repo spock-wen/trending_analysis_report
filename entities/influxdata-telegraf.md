@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[henryndubuaku-maths-cs-ai-compendium]] [[posthog-posthog]] [[nutlope-hallmark]] [[ryancodrai-turbovec]]
+[[rohitg00-ai-engineering-from-scratch]] [[chenyme-grok2api]] [[protocolbuffers-protobuf]] [[tailscale-tailscale]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

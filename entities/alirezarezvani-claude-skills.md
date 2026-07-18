@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[posthog-posthog]] [[henryndubuaku-maths-cs-ai-compendium]] [[nutlope-hallmark]] [[mattpocock-skills]] [[obra-superpowers]]
+[[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]] [[henryndubuaku-maths-cs-ai-compendium]] [[knockoutez-wigolo]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

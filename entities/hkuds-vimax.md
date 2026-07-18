@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[posthog-posthog]] [[henryndubuaku-maths-cs-ai-compendium]] [[nutlope-hallmark]] [[ryancodrai-turbovec]] [[karakeep-app-karakeep]]
+[[prisma-prisma]] [[rohitg00-ai-engineering-from-scratch]] [[graphify-labs-graphify]] [[lyogavin-airllm]] [[ahmadibrahiim-website-downloader]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

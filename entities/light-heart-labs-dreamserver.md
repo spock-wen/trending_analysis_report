@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[posthog-posthog]] [[henryndubuaku-maths-cs-ai-compendium]] [[altic-dev-fluidvoice]] [[nutlope-hallmark]] [[ryancodrai-turbovec]]
+[[prisma-prisma]] [[rohitg00-ai-engineering-from-scratch]] [[graphify-labs-graphify]] [[altic-dev-fluidvoice]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

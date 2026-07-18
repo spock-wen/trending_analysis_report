@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[posthog-posthog]] [[nutlope-hallmark]] [[ossu-computer-science]] [[ryancodrai-turbovec]]
+[[rohitg00-ai-engineering-from-scratch]] [[henryndubuaku-maths-cs-ai-compendium]] [[knockoutez-wigolo]] [[graphify-labs-graphify]] [[hkuds-deeptutor]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

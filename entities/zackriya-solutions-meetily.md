@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[posthog-posthog]] [[veracrypt-veracrypt]] [[malisper-pgrust]] [[oven-sh-bun]]
+[[oven-sh-bun]] [[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[hkuds-deeptutor]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

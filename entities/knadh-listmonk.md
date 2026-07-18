@@ -34,7 +34,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[henryndubuaku-maths-cs-ai-compendium]] [[nutlope-hallmark]] [[ryancodrai-turbovec]] [[tailscale-tailscale]]
+[[rohitg00-ai-engineering-from-scratch]] [[chenyme-grok2api]] [[tailscale-tailscale]] [[lyogavin-airllm]] [[hashicorp-terraform]]
 
 **所属领域**: [[ai-agent]]
 

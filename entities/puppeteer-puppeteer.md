@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[posthog-posthog]] [[lobehub-lobehub]] [[nutlope-hallmark]] [[opencut-app-opencut]]
+[[knockoutez-wigolo]] [[hkuds-deeptutor]] [[elder-plinius-g0dm0d3]] [[nutlope-hallmark]] [[opencut-app-opencut]]
 
 **所属领域**: [[web]]
 

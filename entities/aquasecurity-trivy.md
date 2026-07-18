@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[henryndubuaku-maths-cs-ai-compendium]] [[veracrypt-veracrypt]] [[nutlope-hallmark]] [[ryancodrai-turbovec]]
+[[rohitg00-ai-engineering-from-scratch]] [[chenyme-grok2api]] [[veracrypt-veracrypt]] [[affaan-m-ecc]] [[tailscale-tailscale]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

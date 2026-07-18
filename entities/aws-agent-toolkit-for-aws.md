@@ -35,7 +35,7 @@ Official, AWS-supported MCP servers, skills, and plugins to help AI agents build
 
 ## 相关项目
 
-[[posthog-posthog]] [[henryndubuaku-maths-cs-ai-compendium]] [[nutlope-hallmark]] [[ryancodrai-turbovec]] [[tirth8205-code-review-graph]]
+[[rohitg00-ai-engineering-from-scratch]] [[lyogavin-airllm]] [[robbyant-lingbot-map]] [[apache-ossie]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]]
 

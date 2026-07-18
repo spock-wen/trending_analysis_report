@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[posthog-posthog]] [[nutlope-hallmark]] [[obra-superpowers]] [[openinterpreter-openinterpreter]] [[hkuds-deeptutor]]
+[[knockoutez-wigolo]] [[obra-superpowers]] [[hkuds-deeptutor]] [[nutlope-hallmark]] [[anthropics-cwc-workshops]]
 
 **所属领域**: [[web]] [[erp]]
 

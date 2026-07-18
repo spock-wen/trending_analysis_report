@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[lobehub-lobehub]] [[obra-superpowers]] [[openinterpreter-openinterpreter]] [[opencut-app-opencut]]
+[[knockoutez-wigolo]] [[obra-superpowers]] [[elder-plinius-g0dm0d3]] [[opencut-app-opencut]] [[openinterpreter-openinterpreter]]
 
 **所属领域**: [[erp]]
 

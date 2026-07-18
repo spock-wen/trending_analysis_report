@@ -37,7 +37,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[nutlope-hallmark]] [[nvidia-cosmos]] [[ryancodrai-turbovec]] [[microsoft-ai-for-beginners]]
+[[rohitg00-ai-engineering-from-scratch]] [[nvidia-cosmos]] [[lyogavin-airllm]] [[apache-ossie]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

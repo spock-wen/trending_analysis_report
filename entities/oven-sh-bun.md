@@ -38,5 +38,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
 
 ## 相关项目
 
-[[openinterpreter-openinterpreter]] [[ruvnet-ruview]] [[malisper-pgrust]]
+[[ruvnet-ruview]] [[openinterpreter-openinterpreter]] [[malisper-pgrust]]
 

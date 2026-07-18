@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[posthog-posthog]] [[altic-dev-fluidvoice]] [[mattpocock-skills]] [[ryancodrai-turbovec]] [[hugohe3-ppt-master]]
+[[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]] [[tirth8205-code-review-graph]] [[altic-dev-fluidvoice]] [[moonshotai-kimi-cli]]
 
 **所属领域**: [[cli]] [[audio]]
 

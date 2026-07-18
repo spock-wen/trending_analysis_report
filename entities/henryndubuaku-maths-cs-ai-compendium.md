@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[lobehub-lobehub]] [[nutlope-hallmark]] [[ryancodrai-turbovec]] [[mvanhorn-last30days-skill]] [[alirezarezvani-claude-skills]]
+[[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[graphify-labs-graphify]] [[mvanhorn-last30days-skill]] [[elder-plinius-g0dm0d3]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

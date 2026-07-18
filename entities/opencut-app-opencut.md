@@ -38,5 +38,5 @@ The open-source CapCut alternative
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[anthropics-cwc-workshops]] [[lobehub-lobehub]]
+[[knockoutez-wigolo]] [[ibelick-ui-skills]] [[elder-plinius-g0dm0d3]]
 

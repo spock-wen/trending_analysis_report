@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[posthog-posthog]] [[henryndubuaku-maths-cs-ai-compendium]] [[nutlope-hallmark]] [[ryancodrai-turbovec]] [[tirth8205-code-review-graph]]
+[[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[hkuds-deeptutor]] [[lyogavin-airllm]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[catchorg-catch2]] [[posthog-posthog]] [[abseil-abseil-cpp]] [[yimmenu-yimmenuv2]] [[hasaneyldrm-exercises-dataset]]
+[[abseil-abseil-cpp]] [[protocolbuffers-protobuf]] [[yimmenu-yimmenuv2]] [[catchorg-catch2]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[data]]
 

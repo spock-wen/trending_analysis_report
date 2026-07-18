@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[malisper-pgrust]] [[oven-sh-bun]] [[nutlope-hallmark]] [[obra-superpowers]]
+[[oven-sh-bun]] [[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]] [[ruvnet-ruview]] [[malisper-pgrust]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

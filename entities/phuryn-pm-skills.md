@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[nutlope-hallmark]] [[mattpocock-skills]] [[ryancodrai-turbovec]] [[tirth8205-code-review-graph]]
+[[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[moonshotai-kimi-cli]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

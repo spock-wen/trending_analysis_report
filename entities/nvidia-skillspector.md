@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[posthog-posthog]] [[henryndubuaku-maths-cs-ai-compendium]] [[veracrypt-veracrypt]] [[nutlope-hallmark]] [[ryancodrai-turbovec]]
+[[rohitg00-ai-engineering-from-scratch]] [[veracrypt-veracrypt]] [[affaan-m-ecc]] [[lyogavin-airllm]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

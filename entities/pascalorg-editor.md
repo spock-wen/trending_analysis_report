@@ -34,5 +34,5 @@ Create and share 3D architectural projects.
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[lobehub-lobehub]] [[opencut-app-opencut]] [[anthropics-cwc-workshops]]
+[[opencut-app-opencut]] [[knockoutez-wigolo]] [[ibelick-ui-skills]] [[elder-plinius-g0dm0d3]]
 

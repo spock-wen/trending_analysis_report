@@ -35,7 +35,7 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[lobehub-lobehub]] [[nutlope-hallmark]] [[ryancodrai-turbovec]] [[github-copilot-sdk]]
+[[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[elder-plinius-g0dm0d3]] [[lyogavin-airllm]] [[apache-ossie]]
 
 **所属领域**: [[ai-agent]]
 

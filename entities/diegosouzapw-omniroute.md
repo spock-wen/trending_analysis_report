@@ -35,7 +35,7 @@ Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), con
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[lobehub-lobehub]] [[nutlope-hallmark]] [[mattpocock-skills]] [[ryancodrai-turbovec]]
+[[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]] [[knockoutez-wigolo]] [[tirth8205-code-review-graph]] [[elder-plinius-g0dm0d3]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

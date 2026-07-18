@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[posthog-posthog]] [[henryndubuaku-maths-cs-ai-compendium]] [[owainlewis-awesome-artificial-intelligence]] [[nutlope-hallmark]] [[freecodecamp-freecodecamp]]
+[[rohitg00-ai-engineering-from-scratch]] [[owainlewis-awesome-artificial-intelligence]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

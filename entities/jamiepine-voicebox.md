@@ -36,7 +36,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[altic-dev-fluidvoice]] [[lobehub-lobehub]] [[nutlope-hallmark]] [[ryancodrai-turbovec]]
+[[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[altic-dev-fluidvoice]] [[elder-plinius-g0dm0d3]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

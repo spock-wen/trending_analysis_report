@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[owainlewis-awesome-artificial-intelligence]] [[lobehub-lobehub]] [[nutlope-hallmark]] [[mattpocock-skills]]
+[[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]] [[knockoutez-wigolo]] [[tirth8205-code-review-graph]] [[owainlewis-awesome-artificial-intelligence]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

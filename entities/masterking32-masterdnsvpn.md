@@ -36,7 +36,7 @@ Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[veracrypt-veracrypt]] [[affaan-m-ecc]] [[tailscale-tailscale]] [[chenyme-grok2api]]
+[[chenyme-grok2api]] [[veracrypt-veracrypt]] [[affaan-m-ecc]] [[tailscale-tailscale]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[security]]
 

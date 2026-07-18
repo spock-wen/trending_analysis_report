@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[posthog-posthog]] [[nutlope-hallmark]] [[ryancodrai-turbovec]] [[tirth8205-code-review-graph]] [[hkuds-deeptutor]]
+[[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[hkuds-deeptutor]] [[nutlope-hallmark]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[web]]
 

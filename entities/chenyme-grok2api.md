@@ -34,7 +34,7 @@ language: "Go"
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[posthog-posthog]] [[nutlope-hallmark]] [[mattpocock-skills]] [[tailscale-tailscale]]
+[[mattpocock-skills]] [[knockoutez-wigolo]] [[hkuds-deeptutor]] [[tirth8205-code-review-graph]] [[tailscale-tailscale]]
 
 **所属领域**: [[web]] [[cli]]
 

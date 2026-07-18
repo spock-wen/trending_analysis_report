@@ -34,7 +34,7 @@ Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[posthog-posthog]] [[davila7-claude-code-templates]] [[ansible-ansible]] [[nutlope-hallmark]]
+[[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[graphify-labs-graphify]] [[hkuds-deeptutor]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

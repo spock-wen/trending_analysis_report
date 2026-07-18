@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[posthog-posthog]] [[veracrypt-veracrypt]] [[ryancodrai-turbovec]] [[affaan-m-ecc]] [[tirth8205-code-review-graph]]
+[[rohitg00-ai-engineering-from-scratch]] [[veracrypt-veracrypt]] [[affaan-m-ecc]] [[zackriya-solutions-meetily]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[security]]
 

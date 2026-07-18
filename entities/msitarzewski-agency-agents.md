@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[posthog-posthog]] [[mattpocock-skills]] [[obra-superpowers]] [[nutlope-hallmark]]
+[[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[obra-superpowers]] [[hkuds-deeptutor]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

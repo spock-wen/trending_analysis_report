@@ -38,7 +38,7 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[malisper-pgrust]] [[oven-sh-bun]] [[nutlope-hallmark]] [[openinterpreter-openinterpreter]]
+[[oven-sh-bun]] [[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruview]] [[malisper-pgrust]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

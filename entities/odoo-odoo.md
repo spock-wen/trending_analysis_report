@@ -35,7 +35,7 @@ Odoo. Open Source Apps To Grow Your Business.
 
 ## 相关项目
 
-[[posthog-posthog]] [[obra-superpowers]] [[openinterpreter-openinterpreter]] [[ryancodrai-turbovec]] [[tirth8205-code-review-graph]]
+[[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]] [[robbyant-lingbot-map]] [[anthropics-cwc-workshops]] [[apache-ossie]]
 
 **所属领域**: [[erp]]
 

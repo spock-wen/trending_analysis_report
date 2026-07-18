@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[lobehub-lobehub]] [[mattpocock-skills]] [[tirth8205-code-review-graph]] [[opencut-app-opencut]]
+[[mattpocock-skills]] [[knockoutez-wigolo]] [[tirth8205-code-review-graph]] [[elder-plinius-g0dm0d3]] [[moonshotai-kimi-cli]]
 
 **所属领域**: [[cli]]
 

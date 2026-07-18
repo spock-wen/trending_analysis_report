@@ -34,7 +34,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[coreyhaines31-marketingskills]] [[henryndubuaku-maths-cs-ai-compendium]] [[nutlope-hallmark]] [[ryancodrai-turbovec]]
+[[rohitg00-ai-engineering-from-scratch]] [[addyosmani-agent-skills]] [[lyogavin-airllm]] [[openai-plugins]] [[apache-ossie]]
 
 **所属领域**: [[ai-agent]]
 

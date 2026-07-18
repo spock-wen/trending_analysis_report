@@ -38,7 +38,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[leonxlnx-taste-skill]] [[coreyhaines31-marketingskills]] [[henryndubuaku-maths-cs-ai-compendium]] [[nutlope-hallmark]] [[ryancodrai-turbovec]]
+[[rohitg00-ai-engineering-from-scratch]] [[addyosmani-agent-skills]] [[lyogavin-airllm]] [[apache-ossie]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]]
 

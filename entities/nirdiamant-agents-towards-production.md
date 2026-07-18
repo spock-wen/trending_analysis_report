@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[owainlewis-awesome-artificial-intelligence]] [[ansible-ansible]] [[nvidia-cosmos]] [[github-copilot-sdk]] [[posthog-posthog]]
+[[rohitg00-ai-engineering-from-scratch]] [[nvidia-cosmos]] [[graphify-labs-graphify]] [[davila7-claude-code-templates]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[catchorg-catch2]] [[abseil-abseil-cpp]] [[obra-superpowers]] [[openinterpreter-openinterpreter]] [[yimmenu-yimmenuv2]]
+[[abseil-abseil-cpp]] [[obra-superpowers]] [[protocolbuffers-protobuf]] [[yimmenu-yimmenuv2]] [[catchorg-catch2]]
 
 **所属领域**: [[erp]]
 

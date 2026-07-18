@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[posthog-posthog]] [[yairm210-unciv]] [[nutlope-hallmark]] [[bannedbook-fanqiang]] [[andreknieriem-headunit-revived]]
+[[knockoutez-wigolo]] [[bannedbook-fanqiang]] [[hkuds-deeptutor]] [[yairm210-unciv]] [[andreknieriem-headunit-revived]]
 
 **所属领域**: [[web]]
 

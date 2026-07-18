@@ -34,7 +34,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[nutlope-hallmark]] [[henryndubuaku-maths-cs-ai-compendium]] [[github-copilot-sdk]] [[ryancodrai-turbovec]]
+[[rohitg00-ai-engineering-from-scratch]] [[posthog-posthog]] [[apache-ossie]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

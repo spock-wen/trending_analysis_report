@@ -35,7 +35,7 @@ Code for Machine Learning for Algorithmic Trading, 2nd edition.
 
 ## 相关项目
 
-[[owainlewis-awesome-artificial-intelligence]] [[anthropics-claude-cookbooks]] [[nvidia-cosmos]] [[freecodecamp-freecodecamp]] [[microsoft-ai-for-beginners]]
+[[rohitg00-ai-engineering-from-scratch]] [[nvidia-cosmos]] [[owainlewis-awesome-artificial-intelligence]] [[anthropics-claude-cookbooks]] [[lyogavin-airllm]]
 
 **所属领域**: [[education]]
 

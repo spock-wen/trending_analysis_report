@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[posthog-posthog]] [[nutlope-hallmark]] [[ossu-computer-science]] [[ryancodrai-turbovec]]
+[[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[hkuds-deeptutor]] [[protocolbuffers-protobuf]] [[ossu-computer-science]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

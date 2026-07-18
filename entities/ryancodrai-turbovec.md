@@ -37,7 +37,7 @@ A vector index built on TurboQuant, written in Rust with Python bindings
 
 ## 相关项目
 
-[[posthog-posthog]] [[henryndubuaku-maths-cs-ai-compendium]] [[nutlope-hallmark]] [[tirth8205-code-review-graph]] [[github-copilot-sdk]]
+[[rohitg00-ai-engineering-from-scratch]] [[lyogavin-airllm]] [[robbyant-lingbot-map]] [[apache-ossie]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]]
 

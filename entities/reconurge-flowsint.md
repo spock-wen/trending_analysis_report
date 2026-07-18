@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[veracrypt-veracrypt]] [[lobehub-lobehub]] [[affaan-m-ecc]] [[opencut-app-opencut]]
+[[knockoutez-wigolo]] [[veracrypt-veracrypt]] [[affaan-m-ecc]] [[elder-plinius-g0dm0d3]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[security]]
 

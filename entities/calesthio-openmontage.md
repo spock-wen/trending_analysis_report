@@ -38,7 +38,7 @@ World's first open-source, agentic video production system. 12 pipelines, 52 too
 
 ## 相关项目
 
-[[posthog-posthog]] [[henryndubuaku-maths-cs-ai-compendium]] [[nutlope-hallmark]] [[ryancodrai-turbovec]] [[tirth8205-code-review-graph]]
+[[rohitg00-ai-engineering-from-scratch]] [[protocolbuffers-protobuf]] [[lyogavin-airllm]] [[robbyant-lingbot-map]] [[apache-ossie]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

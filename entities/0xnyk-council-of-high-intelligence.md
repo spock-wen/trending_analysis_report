@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[mattpocock-skills]] [[obra-superpowers]] [[nutlope-hallmark]] [[ryancodrai-turbovec]]
+[[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]] [[tirth8205-code-review-graph]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

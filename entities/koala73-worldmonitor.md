@@ -36,7 +36,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[posthog-posthog]] [[davila7-claude-code-templates]] [[lobehub-lobehub]] [[ansible-ansible]]
+[[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[graphify-labs-graphify]] [[davila7-claude-code-templates]] [[ansible-ansible]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[posthog-posthog]] [[davila7-claude-code-templates]] [[ansible-ansible]] [[malisper-pgrust]] [[oven-sh-bun]]
+[[oven-sh-bun]] [[graphify-labs-graphify]] [[davila7-claude-code-templates]] [[malisper-pgrust]] [[posthog-posthog]]
 
 **所属领域**: [[devops]]
 

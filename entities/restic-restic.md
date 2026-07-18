@@ -34,5 +34,5 @@ Fast, secure, efficient backup program
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[hashicorp-terraform]] [[chenyme-grok2api]] [[tailscale-tailscale]]
+[[tailscale-tailscale]] [[vxcontrol-pentagi]] [[chenyme-grok2api]] [[hashicorp-terraform]]
 

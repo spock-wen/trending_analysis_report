@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[posthog-posthog]] [[malisper-pgrust]] [[oven-sh-bun]] [[openinterpreter-openinterpreter]] [[hasaneyldrm-exercises-dataset]]
+[[oven-sh-bun]] [[protocolbuffers-protobuf]] [[ruvnet-ruview]] [[malisper-pgrust]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[data]]
 

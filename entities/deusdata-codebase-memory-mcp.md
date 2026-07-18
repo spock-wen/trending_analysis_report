@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[veracrypt-veracrypt]] [[posthog-posthog]] [[nutlope-hallmark]] [[ryancodrai-turbovec]]
+[[rohitg00-ai-engineering-from-scratch]] [[veracrypt-veracrypt]] [[protocolbuffers-protobuf]] [[lyogavin-airllm]] [[microsoft-powertoys]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

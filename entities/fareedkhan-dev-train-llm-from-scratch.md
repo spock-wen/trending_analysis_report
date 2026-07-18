@@ -37,7 +37,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[posthog-posthog]] [[henryndubuaku-maths-cs-ai-compendium]] [[nutlope-hallmark]] [[ryancodrai-turbovec]] [[tirth8205-code-review-graph]]
+[[rohitg00-ai-engineering-from-scratch]] [[protocolbuffers-protobuf]] [[lyogavin-airllm]] [[robbyant-lingbot-map]] [[apache-ossie]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

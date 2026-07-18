@@ -35,7 +35,7 @@ NVIDIA Cosmos is an open platform of world models, datasets, and tools that enab
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[posthog-posthog]] [[davila7-claude-code-templates]] [[ansible-ansible]] [[anthropics-claude-cookbooks]]
+[[rohitg00-ai-engineering-from-scratch]] [[graphify-labs-graphify]] [[davila7-claude-code-templates]] [[protocolbuffers-protobuf]] [[anthropics-claude-cookbooks]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

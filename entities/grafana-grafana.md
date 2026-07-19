@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[knockoutez-wigolo]] [[graphify-labs-graphify]] [[davila7-claude-code-templates]] [[protocolbuffers-protobuf]] [[ansible-ansible]]
+[[canner-wrenai]] [[jamiepine-voicebox]] [[ansible-ansible]] [[robbyant-lingbot-map]] [[elder-plinius-g0dm0d3]]
 
 **所属领域**: [[data]] [[devops]]
 

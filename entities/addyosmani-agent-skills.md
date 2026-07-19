@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[lyogavin-airllm]] [[openai-plugins]] [[apache-ossie]] [[posthog-posthog]]
+[[coreyhaines31-marketingskills]] [[leonxlnx-taste-skill]] [[lyogavin-airllm]] [[openai-plugins]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]]
 

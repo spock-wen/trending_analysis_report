@@ -34,7 +34,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[addyosmani-agent-skills]] [[lyogavin-airllm]] [[openai-plugins]] [[apache-ossie]]
+[[coreyhaines31-marketingskills]] [[addyosmani-agent-skills]] [[leonxlnx-taste-skill]] [[lyogavin-airllm]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]]
 

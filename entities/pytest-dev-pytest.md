@@ -34,5 +34,5 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[posthog-posthog]] [[apache-ossie]] [[robbyant-lingbot-map]]
+[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[moonshotai-kimi-cli]] [[posthog-posthog]]
 

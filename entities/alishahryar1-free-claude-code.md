@@ -36,7 +36,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]] [[tirth8205-code-review-graph]] [[altic-dev-fluidvoice]] [[lyogavin-airllm]]
+[[microsoft-terminal]] [[jamiepine-voicebox]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]] [[tirth8205-code-review-graph]] [[affaan-m-ecc]] [[veracrypt-veracrypt]]
+[[microsoft-terminal]] [[zackriya-solutions-meetily]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

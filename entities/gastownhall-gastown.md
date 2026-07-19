@@ -35,7 +35,7 @@ Gas Town - multi-agent workspace manager
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[chenyme-grok2api]] [[tailscale-tailscale]] [[lyogavin-airllm]] [[hashicorp-terraform]]
+[[hashicorp-terraform]] [[tailscale-tailscale]] [[vxcontrol-pentagi]] [[chenyme-grok2api]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

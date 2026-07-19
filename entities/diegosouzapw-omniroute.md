@@ -35,7 +35,7 @@ Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), con
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]] [[knockoutez-wigolo]] [[tirth8205-code-review-graph]] [[elder-plinius-g0dm0d3]]
+[[microsoft-terminal]] [[jamiepine-voicebox]] [[tirth8205-code-review-graph]] [[elder-plinius-g0dm0d3]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

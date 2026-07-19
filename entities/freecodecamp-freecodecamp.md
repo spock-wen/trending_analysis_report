@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[owainlewis-awesome-artificial-intelligence]] [[elder-plinius-g0dm0d3]] [[microsoft-ai-for-beginners]]
+[[jamiepine-voicebox]] [[elder-plinius-g0dm0d3]] [[microsoft-ai-for-beginners]] [[ibelick-ui-skills]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[education]]
 

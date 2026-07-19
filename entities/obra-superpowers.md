@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[msitarzewski-agency-agents]] [[lyogavin-airllm]]
+[[microsoft-terminal]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[msitarzewski-agency-agents]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

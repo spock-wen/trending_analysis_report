@@ -37,7 +37,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[protocolbuffers-protobuf]] [[lyogavin-airllm]] [[robbyant-lingbot-map]] [[apache-ossie]]
+[[canner-wrenai]] [[robbyant-lingbot-map]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

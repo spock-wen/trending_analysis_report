@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]] [[graphify-labs-graphify]] [[davila7-claude-code-templates]] [[tirth8205-code-review-graph]]
+[[microsoft-terminal]] [[ansible-ansible]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[chenyme-grok2api]] [[protocolbuffers-protobuf]] [[tailscale-tailscale]] [[lyogavin-airllm]]
+[[canner-wrenai]] [[hashicorp-terraform]] [[robbyant-lingbot-map]] [[tailscale-tailscale]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

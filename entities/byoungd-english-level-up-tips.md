@@ -38,7 +38,7 @@ An advanced guide to learn English which might benefit you a lot 🎉 . 人生�
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[owainlewis-awesome-artificial-intelligence]] [[microsoft-ai-for-beginners]]
+[[rohitg00-ai-engineering-from-scratch]] [[pkuflyingpig-cs-self-learning]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[education]]
 

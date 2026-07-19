@@ -36,7 +36,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[rohitg00-ai-engineering-from-scratch]] [[posthog-posthog]] [[apache-ossie]]
+[[canner-wrenai]] [[tirth8205-code-review-graph]] [[posthog-posthog]] [[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[data]]
 

@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[prisma-prisma]] [[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[graphify-labs-graphify]] [[elder-plinius-g0dm0d3]]
+[[jamiepine-voicebox]] [[elder-plinius-g0dm0d3]] [[lyogavin-airllm]] [[ibelick-ui-skills]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

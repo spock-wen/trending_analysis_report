@@ -34,7 +34,7 @@ LIBERATED AI CHAT
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[lyogavin-airllm]] [[apache-ossie]] [[opencut-app-opencut]]
+[[jamiepine-voicebox]] [[lyogavin-airllm]] [[ibelick-ui-skills]] [[trycua-cua]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ The API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[knockoutez-wigolo]] [[hkuds-deeptutor]] [[elder-plinius-g0dm0d3]] [[nutlope-hallmark]] [[opencut-app-opencut]]
+[[jamiepine-voicebox]] [[elder-plinius-g0dm0d3]] [[posthog-posthog]] [[ibelick-ui-skills]] [[trycua-cua]]
 
 **所属领域**: [[web]]
 

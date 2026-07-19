@@ -36,7 +36,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[nutlope-hallmark]] [[robbyant-lingbot-map]] [[apache-ossie]]
+[[pkuflyingpig-cs-self-learning]] [[tirth8205-code-review-graph]] [[posthog-posthog]] [[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[web]]
 

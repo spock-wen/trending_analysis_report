@@ -36,7 +36,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[oven-sh-bun]] [[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruview]] [[malisper-pgrust]] [[lyogavin-airllm]]
+[[1jehuang-jcode]] [[lyogavin-airllm]] [[malisper-pgrust]] [[trycua-cua]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]]
 

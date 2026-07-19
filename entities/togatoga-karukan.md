@@ -34,5 +34,5 @@ Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engi
 
 ## 相关项目
 
-[[oven-sh-bun]] [[ruvnet-ruview]] [[openinterpreter-openinterpreter]] [[malisper-pgrust]]
+[[andrewrabert-jellium-desktop]] [[1jehuang-jcode]] [[malisper-pgrust]] [[openinterpreter-openinterpreter]]
 

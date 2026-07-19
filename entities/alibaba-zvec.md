@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[abseil-abseil-cpp]] [[protocolbuffers-protobuf]] [[yimmenu-yimmenuv2]] [[catchorg-catch2]] [[robbyant-lingbot-map]]
+[[microsoft-terminal]] [[canner-wrenai]] [[abseil-abseil-cpp]] [[robbyant-lingbot-map]] [[posthog-posthog]]
 
 **所属领域**: [[data]]
 

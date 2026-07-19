@@ -38,7 +38,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[prisma-prisma]] [[rohitg00-ai-engineering-from-scratch]] [[graphify-labs-graphify]] [[altic-dev-fluidvoice]] [[ahmadibrahiim-website-downloader]]
+[[jamiepine-voicebox]] [[tirth8205-code-review-graph]] [[posthog-posthog]] [[altic-dev-fluidvoice]] [[trycua-cua]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

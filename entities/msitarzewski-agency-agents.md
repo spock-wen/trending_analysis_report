@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[obra-superpowers]] [[hkuds-deeptutor]]
+[[microsoft-terminal]] [[obra-superpowers]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

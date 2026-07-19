@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[hkuds-deeptutor]] [[protocolbuffers-protobuf]] [[ossu-computer-science]]
+[[canner-wrenai]] [[ossu-computer-science]] [[robbyant-lingbot-map]] [[lyogavin-airllm]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

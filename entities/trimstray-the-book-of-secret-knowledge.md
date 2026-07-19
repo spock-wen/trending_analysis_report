@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[mattpocock-skills]] [[knockoutez-wigolo]] [[hkuds-deeptutor]] [[tirth8205-code-review-graph]] [[nutlope-hallmark]]
+[[microsoft-terminal]] [[tirth8205-code-review-graph]] [[posthog-posthog]] [[trycua-cua]] [[andrewrabert-jellium-desktop]]
 
 **所属领域**: [[web]] [[cli]]
 

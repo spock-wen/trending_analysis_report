@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[owainlewis-awesome-artificial-intelligence]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[robbyant-lingbot-map]]
+[[pkuflyingpig-cs-self-learning]] [[tirth8205-code-review-graph]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

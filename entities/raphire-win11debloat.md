@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[tirth8205-code-review-graph]] [[mattpocock-skills]] [[moonshotai-kimi-cli]] [[prismml-eng-bonsai-demo]]
+[[tirth8205-code-review-graph]] [[microsoft-terminal]] [[andrewrabert-jellium-desktop]] [[moonshotai-kimi-cli]]
 
 **所属领域**: [[cli]]
 

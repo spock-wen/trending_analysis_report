@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[knockoutez-wigolo]] [[obra-superpowers]] [[elder-plinius-g0dm0d3]] [[anthropics-cwc-workshops]] [[opencut-app-opencut]]
+[[jamiepine-voicebox]] [[obra-superpowers]] [[elder-plinius-g0dm0d3]] [[ibelick-ui-skills]] [[anthropics-cwc-workshops]]
 
 **所属领域**: [[erp]]
 

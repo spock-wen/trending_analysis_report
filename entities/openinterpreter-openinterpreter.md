@@ -36,17 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[oven-sh-bun]] [[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]] [[ruvnet-ruview]] [[malisper-pgrust]]
+[[obra-superpowers]] [[1jehuang-jcode]] [[lyogavin-airllm]] [[malisper-pgrust]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[erp]]
-
-
-## ⚠️ 描述变更（2026-07-18）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: A Codex-compatible coding agent for open models like Kimi K3
-- **新描述**: A coding agent for open models like Kimi K3
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

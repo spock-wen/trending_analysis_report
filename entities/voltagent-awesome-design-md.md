@@ -34,7 +34,7 @@ A collection of DESIGN.md files analysis by popular brand design systems. Drop o
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[posthog-posthog]] [[apache-ossie]] [[lyogavin-airllm]]
+[[rohitg00-ai-engineering-from-scratch]] [[trycua-cua]] [[lyogavin-airllm]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]]
 

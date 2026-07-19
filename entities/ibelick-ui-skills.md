@@ -35,7 +35,7 @@ Skills for Design Engineers
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[lyogavin-airllm]] [[elder-plinius-g0dm0d3]] [[apache-ossie]]
+[[jamiepine-voicebox]] [[elder-plinius-g0dm0d3]] [[lyogavin-airllm]] [[trycua-cua]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[knockoutez-wigolo]] [[obra-superpowers]] [[elder-plinius-g0dm0d3]] [[opencut-app-opencut]] [[openinterpreter-openinterpreter]]
+[[jamiepine-voicebox]] [[obra-superpowers]] [[elder-plinius-g0dm0d3]] [[ibelick-ui-skills]] [[openinterpreter-openinterpreter]]
 
 **所属领域**: [[erp]]
 

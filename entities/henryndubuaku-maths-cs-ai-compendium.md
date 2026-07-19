@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[graphify-labs-graphify]] [[mvanhorn-last30days-skill]] [[elder-plinius-g0dm0d3]]
+[[jamiepine-voicebox]] [[elder-plinius-g0dm0d3]] [[lyogavin-airllm]] [[ibelick-ui-skills]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

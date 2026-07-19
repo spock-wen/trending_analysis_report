@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[nvidia-cosmos]] [[owainlewis-awesome-artificial-intelligence]] [[anthropics-claude-cookbooks]] [[lyogavin-airllm]]
+[[lyogavin-airllm]] [[trycua-cua]] [[nvidia-cosmos]] [[github-copilot-sdk]] [[anthropics-claude-cookbooks]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

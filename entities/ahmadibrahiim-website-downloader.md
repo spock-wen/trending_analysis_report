@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[prisma-prisma]] [[knockoutez-wigolo]] [[graphify-labs-graphify]] [[hkuds-deeptutor]] [[ossu-computer-science]]
+[[ossu-computer-science]] [[hasaneyldrm-exercises-dataset]] [[posthog-posthog]] [[trycua-cua]] [[graphify-labs-graphify]]
 
 **所属领域**: [[web]] [[image-gen]]
 

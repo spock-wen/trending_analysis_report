@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[henryndubuaku-maths-cs-ai-compendium]] [[knockoutez-wigolo]] [[graphify-labs-graphify]] [[mvanhorn-last30days-skill]]
+[[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[trycua-cua]] [[graphify-labs-graphify]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

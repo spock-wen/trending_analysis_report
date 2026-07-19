@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[knockoutez-wigolo]] [[tirth8205-code-review-graph]] [[elder-plinius-g0dm0d3]] [[moonshotai-kimi-cli]]
+[[microsoft-terminal]] [[jamiepine-voicebox]] [[tirth8205-code-review-graph]] [[elder-plinius-g0dm0d3]] [[ibelick-ui-skills]]
 
 **所属领域**: [[cli]]
 

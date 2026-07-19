@@ -34,7 +34,7 @@ Pi extension for async subagent delegation with truncation, artifacts, and sessi
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[elder-plinius-g0dm0d3]] [[lyogavin-airllm]] [[apache-ossie]]
+[[jamiepine-voicebox]] [[elder-plinius-g0dm0d3]] [[lyogavin-airllm]] [[ibelick-ui-skills]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]]
 

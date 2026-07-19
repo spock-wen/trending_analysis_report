@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[hkuds-deeptutor]] [[altic-dev-fluidvoice]] [[elder-plinius-g0dm0d3]]
+[[jamiepine-voicebox]] [[elder-plinius-g0dm0d3]] [[lyogavin-airllm]] [[posthog-posthog]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

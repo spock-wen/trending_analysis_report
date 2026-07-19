@@ -37,5 +37,5 @@ Microsoft PowerToys is a collection of utilities that supercharge productivity a
 
 ## 相关项目
 
-[[veracrypt-veracrypt]] [[deusdata-codebase-memory-mcp]]
+[[deusdata-codebase-memory-mcp]] [[veracrypt-veracrypt]]
 

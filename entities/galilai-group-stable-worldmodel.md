@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[prisma-prisma]] [[rohitg00-ai-engineering-from-scratch]] [[henryndubuaku-maths-cs-ai-compendium]] [[knockoutez-wigolo]] [[graphify-labs-graphify]]
+[[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[posthog-posthog]] [[trycua-cua]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[par274-sharpemu]] [[iofficeai-officecli]] [[lyogavin-airllm]] [[apache-ossie]]
+[[k1tbyte-wand-enhancer]] [[lyogavin-airllm]] [[dotnet-aspnetcore]] [[trycua-cua]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]]
 

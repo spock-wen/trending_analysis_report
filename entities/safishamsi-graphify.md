@@ -34,7 +34,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[tirth8205-code-review-graph]] [[karakeep-app-karakeep]] [[prisma-prisma]] [[rohitg00-ai-engineering-from-scratch]]
+[[microsoft-terminal]] [[canner-wrenai]] [[ansible-ansible]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

@@ -34,7 +34,7 @@ A next.js web application that integrates AI capabilities with draw.io diagrams.
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]] [[knockoutez-wigolo]] [[hkuds-deeptutor]] [[tirth8205-code-review-graph]]
+[[microsoft-terminal]] [[jamiepine-voicebox]] [[tirth8205-code-review-graph]] [[elder-plinius-g0dm0d3]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

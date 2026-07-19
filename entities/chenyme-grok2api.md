@@ -34,7 +34,7 @@ language: "Go"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[knockoutez-wigolo]] [[hkuds-deeptutor]] [[tirth8205-code-review-graph]] [[tailscale-tailscale]]
+[[microsoft-terminal]] [[hashicorp-terraform]] [[tirth8205-code-review-graph]] [[tailscale-tailscale]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[web]] [[cli]]
 

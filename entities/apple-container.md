@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[altic-dev-fluidvoice]] [[lyogavin-airllm]] [[steipete-codexbar]] [[palmier-io-palmier-pro]]
+[[lyogavin-airllm]] [[altic-dev-fluidvoice]] [[trycua-cua]] [[palmier-io-palmier-pro]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]]
 

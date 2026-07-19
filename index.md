@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-07-19 | 总页面：368
+> 最后更新：2026-07-20 | 总页面：375
 
 ## Entities
 
@@ -28,6 +28,7 @@
 - [[allenai-olmocr|olmocr"]] — Toolkit for linearizing PDFs for LLM datasets/training
 - [[altic-dev-fluidvoice|FluidVoice"]] — Fastest and only macOS Dictation app with on-device STT and ... 🔥
 - [[andreknieriem-headunit-revived|headunit-revived"]] — Headunit App for displaying Android Auto
+- [[andrewrabert-jellium-desktop|jellium-desktop"]] — An unofficial desktop client for Jellyfin 🆕
 - [[andrewyng-aisuite|aisuite"]] — Simple, unified interface to multiple Generative AI provider... 🆕
 - [[andyyyy64-whichllm|whichllm"]] — Find the local LLM that actually runs and performs best on y... 🆕
 - [[anil-matcha-open-generative-ai|Open-Generative-AI"]] — Unrestricted Open-source alternative to AI video platforms —...
@@ -45,12 +46,14 @@
 - [[apple-container|container"]] — A tool for creating and running Linux containers using light... 🆕
 - [[aquasecurity-trivy|trivy"]] — Find vulnerabilities, misconfigurations, secrets, SBOM in co... 🔥
 - [[argoproj-argo-cd|argo-cd"]] — Declarative Continuous Deployment for Kubernetes
+- [[astrbotdevs-astrbot|AstrBot"]] — AI Agent Assistant & development framework that integrates l... 🆕
 - [[aws-agent-toolkit-for-aws|agent-toolkit-for-aws"]] — Official, AWS-supported MCP servers, skills, and plugins to ... 🆕
 - [[axorax-awesome-free-apps|awesome-free-apps"]] — Curated list of the best free apps for PC and mobile 🔥
 - [[bannedbook-fanqiang|fanqiang"]] — 翻墙-科学上网
 - [[bigbodycobain-shadowbroker|Shadowbroker"]] — Open-source intelligence for the global theater. Track every... 🆕
 - [[biohub-esm|esm"]] — No description
 - [[blakeblackshear-frigate|frigate"]] — NVR with realtime local object detection for IP cameras 🆕
+- [[bojieli-ai-agent-book|ai-agent-book"]] — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 🆕
 - [[bradautomates-claude-video|claude-video"]] — Give Claude the ability to watch any video. /watch downloads... 🔥
 - [[browser-use-video-use|video-use"]] — Edit videos with coding agents 🔥
 - [[builderio-agent-native|agent-native"]] — A framework for building agent-native applications.
@@ -61,6 +64,7 @@
 - [[bytedance-ui-tars-desktop|UI-TARS-desktop"]] — The Open-Source Multimodal AI Agent Stack: Connecting Cuttin...
 - [[calesthio-openmontage|OpenMontage"]] — World's first open-source, agentic video production system. ... 🔥
 - [[can1357-oh-my-pi|oh-my-pi"]] — ⌥ AI Coding agent for the terminal — hash-anchored edits, op...
+- [[canner-wrenai|WrenAI"]] — GenBI (Generative BI) for AI agents, an open-source, governe... 🆕
 - [[catchorg-catch2|Catch2"]] — A modern, C++-native, test framework for unit-tests, TDD and... 🆕
 - [[chachamaru127-claude-code-harness|claude-code-harness"]] — Claude Code Dedicated Development Harness - Achieving High-Q...
 - [[chatwoot-chatwoot|chatwoot"]] — Open-source live-chat, email support, omni-channel desk. An ...
@@ -103,7 +107,7 @@
 - [[dreammis-social-auto-upload|social-auto-upload"]] — 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 - [[earendil-works-pi|pi"]] — AI agent toolkit: coding agent CLI, unified LLM API, TUI & w... 🆕
 - [[elastic-elasticsearch|elasticsearch"]] — Free and Open Source, Distributed, RESTful Search Engine
-- [[elder-plinius-g0dm0d3|G0DM0D3"]] — LIBERATED AI CHAT 🆕
+- [[elder-plinius-g0dm0d3|G0DM0D3"]] — LIBERATED AI CHAT
 - [[emmabostian-developer-portfolios|developer-portfolios"]] — A list of developer portfolios for your inspiration
 - [[every-app-open-seo|open-seo"]] — Open source alternative to Semrush and Ahrefs
 - [[everyinc-compound-engineering-plugin|compound-engineering-plugin"]] — Official Compound Engineering plugin for Claude Code, Codex,... 🔥
@@ -121,7 +125,7 @@
 - [[galilai-group-stable-worldmodel|stable-worldmodel"]] — A platform for reproducible world model research and evaluat... 🆕
 - [[garrytan-gstack|gstack"]] — Use Garry Tan's exact Claude Code setup: 23 opinionated tool... 🔥
 - [[gastownhall-gastown|gastown"]] — Gas Town - multi-agent workspace manager 🆕
-- [[github-copilot-sdk|copilot-sdk"]] — Multi-platform SDK for integrating GitHub Copilot Agent into... 🆕
+- [[github-copilot-sdk|copilot-sdk"]] — Multi-platform SDK for integrating GitHub Copilot Agent into...
 - [[github-docs|docs"]] — The open-source repo for docs.github.com
 - [[github-spec-kit|spec-kit"]] — 💫 Toolkit to help you get started with Spec-Driven Developme...
 - [[godotengine-godot|godot"]] — Godot Engine – Multi-platform 2D and 3D game engine
@@ -162,7 +166,7 @@
 - [[iofficeai-officecli|OfficeCLI"]] — OfficeCLI is the first and best Office suite purpose-built f... 🔥
 - [[iptv-org-iptv|iptv"]] — Collection of publicly available IPTV channels from all over... 🔥
 - [[itsfatduck-optimizerduck|optimizerDuck"]] — Free, open-source Windows optimization tool for performance,...
-- [[jamiepine-voicebox|voicebox"]] — The open-source AI voice studio. Clone, dictate, create. 🆕
+- [[jamiepine-voicebox|voicebox"]] — The open-source AI voice studio. Clone, dictate, create.
 - [[jamwithai-production-agentic-rag-course|production-agentic-rag-course"]] — No description
 - [[jbeder-yaml-cpp|yaml-cpp"]] — A YAML parser and emitter in C++
 - [[jcodesmore-ai-website-cloner-template|ai-website-cloner-template"]] — Clone any website with one command using AI coding agents 🔥
@@ -184,6 +188,7 @@
 - [[kong-insomnia|insomnia"]] — The open-source, cross-platform API client for GraphQL, REST... 🔥
 - [[krahets-hello-algo|hello-algo"]] — 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python...
 - [[kunchenguid-no-mistakes|no-mistakes"]] — git push no-mistakes
+- [[kvcache-ai-ktransformers|ktransformers"]] — A Flexible Framework for Experiencing Heterogeneous LLM Infe... 🆕
 - [[kyutai-labs-pocket-tts|pocket-tts"]] — A TTS that fits in your CPU (and pocket)
 - [[langflow-ai-langflow|langflow"]] — Langflow is a powerful tool for building and deploying AI-po...
 - [[leonxlnx-taste-skill|taste-skill"]] — Taste-Skill - gives your AI good taste. stops the AI from ge... 🆕
@@ -196,7 +201,7 @@
 - [[logto-io-logto|logto"]] — 🧑‍🚀 Authentication and authorization infrastructure for SaaS...
 - [[lum1104-understand-anything|Understand-Anything"]] — Graphs that teach > graphs that impress. Turn any code into ... 🔥
 - [[luongnv89-claude-howto|claude-howto"]] — A visual, example-driven guide to Claude Code — from basic c...
-- [[lyogavin-airllm|airllm"]] — AirLLM 70B inference with single 4GB GPU
+- [[lyogavin-airllm|airllm"]] — AirLLM 70B inference with single 4GB GPU 🆕
 - [[madslorentzen-ai-job-search|ai-job-search"]] — AI-powered job application framework built on Claude Code. F...
 - [[makeplane-plane|plane"]] — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternativ... 🆕
 - [[malisper-pgrust|pgrust"]] — Postgres rewritten in Rust, now passing 100% of the Postgres... 🆕
@@ -214,6 +219,7 @@
 - [[microsoft-ai-for-beginners|AI-For-Beginners"]] — 12 Weeks, 24 Lessons, AI for All! 🆕
 - [[microsoft-markitdown|markitdown"]] — Python tool for converting files and office documents to Mar... 🔥
 - [[microsoft-powertoys|PowerToys"]] — Microsoft PowerToys is a collection of utilities that superc...
+- [[microsoft-terminal|terminal"]] — The new Windows Terminal and the original Windows console ho... 🆕
 - [[microsoft-typescript|TypeScript"]] — TypeScript is a superset of JavaScript that compiles to clea...
 - [[mikeroyal-self-hosting-guide|Self-Hosting-Guide"]] — Self-Hosting Guide. Learn all about locally hosting (on prem...
 - [[mikumifa-bilitickerbuy|biliTickerBuy"]] — b站会员购购票辅助工具
@@ -269,6 +275,7 @@
 - [[penpot-penpot|penpot"]] — Penpot: The open-source design platform for Product teams th...
 - [[phuryn-pm-skills|pm-skills"]] — PM Skills Marketplace: 100+ agentic skills, commands, and pl... 🔥
 - [[pingdotgg-t3code|t3code"]] — No description
+- [[pkuflyingpig-cs-self-learning|cs-self-learning"]] — 计算机自学指南 🆕
 - [[plausible-analytics|analytics"]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
 - [[posthog-posthog|posthog"]] — 🦔 PostHog is the leading platform for building self-driving ... 🔥
 - [[pppscn-smsforwarder|SmsForwarder"]] — 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内...
@@ -289,7 +296,7 @@
 - [[robbyant-lingbot-map|lingbot-map"]] — A feed-forward 3D foundation model for reconstructing scenes...
 - [[roboflow-supervision|supervision"]] — We write your reusable computer vision tools. 💜
 - [[rohitg00-agentmemory|agentmemory"]] — - 语言: TypeScript 🆕
-- [[rohitg00-ai-engineering-from-scratch|ai-engineering-from-scratch"]] — Learn it. Build it. Ship it for others.
+- [[rohitg00-ai-engineering-from-scratch|ai-engineering-from-scratch"]] — Learn it. Build it. Ship it for others. 🆕
 - [[rommapp-romm|romm"]] — A beautiful, powerful, self-hosted rom manager and player. 🔥
 - [[rtk-ai-rtk|rtk"]] — CLI proxy that reduces LLM token consumption by 60-90% on co...
 - [[run-llama-liteparse|liteparse"]] — A fast, helpful, and open-source document parser 🆕
@@ -325,12 +332,12 @@
 - [[teslamate-org-teslamate|teslamate"]] — A self-hosted data logger for your Tesla 🚘 [main maintainer=... 🆕
 - [[thedotmack-claude-mem|claude-mem"]] — Persistent Context Across Sessions for Every Agent – Capture...
 - [[tinyhumansai-openhuman|openhuman"]] — Your Personal AI super intelligence. Private, Simple and ext... 🔥
-- [[tirth8205-code-review-graph|code-review-graph"]] — Local-first code intelligence graph for MCP and CLI. Builds ... 🆕
+- [[tirth8205-code-review-graph|code-review-graph"]] — Local-first code intelligence graph for MCP and CLI. Builds ... 🔥
 - [[togatoga-karukan|karukan"]] — Japanese Input Method System for Linux, macOS, Neural Kana-K...
 - [[topoteretes-cognee|cognee"]] — Cognee is the open-source AI memory platform for agents. Giv...
 - [[trimstray-the-book-of-secret-knowledge|the-book-of-secret-knowledge"]] — A collection of inspiring lists, manuals, cheatsheets, blogs... 🆕
 - [[truelockmc-streambert|streambert"]] — A cross-platform Electron Desktop App to stream and download... 🆕
-- [[trycua-cua|cua"]] — Open-source infrastructure for Computer-Use Agents. Sandboxe...
+- [[trycua-cua|cua"]] — Scale computer-use 2.0 with open-source drivers, cross-OS fl...
 - [[tryghost-ghost|Ghost"]] — Independent technology for modern publishing, memberships, s...
 - [[tursodatabase-turso|turso"]] — Turso is an in-process SQL database, compatible with SQLite. 🔥
 - [[tw93-pake|Pake"]] — 🤱🏻 Turn any webpage into a desktop app with one command. 🆕

@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]] [[tirth8205-code-review-graph]] [[msitarzewski-agency-agents]]
+[[microsoft-terminal]] [[obra-superpowers]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

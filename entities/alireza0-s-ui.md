@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[knockoutez-wigolo]] [[hkuds-deeptutor]] [[tailscale-tailscale]] [[nutlope-hallmark]]
+[[hashicorp-terraform]] [[tailscale-tailscale]] [[vxcontrol-pentagi]] [[chenyme-grok2api]] [[posthog-posthog]]
 
 **所属领域**: [[web]]
 

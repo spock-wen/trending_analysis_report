@@ -38,7 +38,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[hkuds-deeptutor]] [[lyogavin-airllm]] [[diolinux-photogimp]]
+[[diolinux-photogimp]] [[lyogavin-airllm]] [[posthog-posthog]] [[trycua-cua]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

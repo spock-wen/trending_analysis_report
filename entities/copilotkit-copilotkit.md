@@ -36,7 +36,7 @@ The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, an
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[hkuds-deeptutor]] [[elder-plinius-g0dm0d3]] [[lyogavin-airllm]]
+[[jamiepine-voicebox]] [[elder-plinius-g0dm0d3]] [[lyogavin-airllm]] [[posthog-posthog]] [[ibelick-ui-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

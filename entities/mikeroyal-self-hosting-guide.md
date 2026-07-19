@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[hkuds-deeptutor]] [[owainlewis-awesome-artificial-intelligence]] [[lyogavin-airllm]]
+[[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[posthog-posthog]] [[trycua-cua]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

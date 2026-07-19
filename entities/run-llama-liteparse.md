@@ -35,5 +35,5 @@ A fast, helpful, and open-source document parser
 
 ## 相关项目
 
-[[oven-sh-bun]] [[ruvnet-ruview]] [[openinterpreter-openinterpreter]] [[malisper-pgrust]]
+[[andrewrabert-jellium-desktop]] [[1jehuang-jcode]] [[malisper-pgrust]] [[openinterpreter-openinterpreter]]
 

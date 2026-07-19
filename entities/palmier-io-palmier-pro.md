@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[altic-dev-fluidvoice]] [[lyogavin-airllm]] [[steipete-codexbar]] [[apple-container]]
+[[apple-container]] [[lyogavin-airllm]] [[altic-dev-fluidvoice]] [[trycua-cua]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]]
 

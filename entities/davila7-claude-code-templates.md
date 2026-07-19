@@ -36,7 +36,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]] [[graphify-labs-graphify]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]]
+[[microsoft-terminal]] [[ansible-ansible]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

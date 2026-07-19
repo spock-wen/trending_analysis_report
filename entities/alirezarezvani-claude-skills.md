@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]] [[henryndubuaku-maths-cs-ai-compendium]] [[knockoutez-wigolo]] [[obra-superpowers]]
+[[microsoft-terminal]] [[obra-superpowers]] [[tirth8205-code-review-graph]] [[knockoutez-wigolo]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

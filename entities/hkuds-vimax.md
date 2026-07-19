@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[prisma-prisma]] [[rohitg00-ai-engineering-from-scratch]] [[graphify-labs-graphify]] [[lyogavin-airllm]] [[ahmadibrahiim-website-downloader]]
+[[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[posthog-posthog]] [[trycua-cua]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[github-copilot-sdk]] [[elastic-elasticsearch]] [[veracrypt-veracrypt]] [[affaan-m-ecc]] [[zackriya-solutions-meetily]]
+[[elastic-elasticsearch]] [[zackriya-solutions-meetily]] [[apache-maven]] [[home-assistant-core]] [[veracrypt-veracrypt]]
 
 **所属领域**: [[security]]
 

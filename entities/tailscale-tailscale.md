@@ -34,7 +34,7 @@ The easiest, most secure way to use WireGuard and 2FA.
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[chenyme-grok2api]] [[lyogavin-airllm]] [[hashicorp-terraform]] [[apache-ossie]]
+[[hashicorp-terraform]] [[vxcontrol-pentagi]] [[chenyme-grok2api]] [[lyogavin-airllm]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]]
 

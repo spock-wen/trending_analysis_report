@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[mattpocock-skills]] [[knockoutez-wigolo]] [[hkuds-deeptutor]] [[tirth8205-code-review-graph]] [[elder-plinius-g0dm0d3]]
+[[microsoft-terminal]] [[jamiepine-voicebox]] [[tirth8205-code-review-graph]] [[elder-plinius-g0dm0d3]] [[posthog-posthog]]
 
 **所属领域**: [[web]] [[cli]]
 

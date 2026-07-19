@@ -38,7 +38,7 @@ Open-source AI penetration testing tool to find and fix your app’s vulnerabili
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[lyogavin-airllm]] [[robbyant-lingbot-map]] [[apache-ossie]] [[posthog-posthog]]
+[[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[posthog-posthog]] [[trycua-cua]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]]
 

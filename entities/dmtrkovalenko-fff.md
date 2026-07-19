@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[oven-sh-bun]] [[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruview]] [[malisper-pgrust]] [[lyogavin-airllm]]
+[[1jehuang-jcode]] [[lyogavin-airllm]] [[malisper-pgrust]] [[trycua-cua]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,5 +34,5 @@ b站会员购购票辅助工具
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[posthog-posthog]] [[apache-ossie]] [[robbyant-lingbot-map]]
+[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[moonshotai-kimi-cli]] [[posthog-posthog]]
 

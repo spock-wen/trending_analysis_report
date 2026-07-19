@@ -37,7 +37,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[lyogavin-airllm]] [[steipete-codexbar]] [[apple-container]] [[palmier-io-palmier-pro]]
+[[apple-container]] [[jamiepine-voicebox]] [[lyogavin-airllm]] [[trycua-cua]] [[palmier-io-palmier-pro]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

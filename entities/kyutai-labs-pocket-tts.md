@@ -35,7 +35,7 @@ A TTS that fits in your CPU (and pocket)
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[altic-dev-fluidvoice]] [[lyogavin-airllm]] [[robbyant-lingbot-map]] [[hugohe3-ppt-master]]
+[[jamiepine-voicebox]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[posthog-posthog]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

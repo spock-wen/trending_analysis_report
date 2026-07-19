@@ -34,5 +34,5 @@ The Free Software Media System - Server Backend & API
 
 ## 相关项目
 
-[[par274-sharpemu]] [[iofficeai-officecli]] [[k1tbyte-wand-enhancer]] [[dotnet-aspnetcore]]
+[[dotnet-aspnetcore]] [[par274-sharpemu]] [[iofficeai-officecli]] [[k1tbyte-wand-enhancer]]
 

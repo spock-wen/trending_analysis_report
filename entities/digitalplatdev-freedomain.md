@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[knockoutez-wigolo]] [[hkuds-deeptutor]] [[ossu-computer-science]] [[ripienaar-free-for-dev]]
+[[ossu-computer-science]] [[hasaneyldrm-exercises-dataset]] [[lyogavin-airllm]] [[posthog-posthog]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

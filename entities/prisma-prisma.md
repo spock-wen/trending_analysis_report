@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[knockoutez-wigolo]] [[graphify-labs-graphify]] [[protocolbuffers-protobuf]] [[elder-plinius-g0dm0d3]] [[ahmadibrahiim-website-downloader]]
+[[canner-wrenai]] [[jamiepine-voicebox]] [[robbyant-lingbot-map]] [[elder-plinius-g0dm0d3]] [[posthog-posthog]]
 
 **所属领域**: [[data]] [[image-gen]]
 

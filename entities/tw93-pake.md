@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[oven-sh-bun]] [[mattpocock-skills]] [[knockoutez-wigolo]] [[hkuds-deeptutor]] [[tirth8205-code-review-graph]]
+[[pkuflyingpig-cs-self-learning]] [[microsoft-terminal]] [[1jehuang-jcode]] [[tirth8205-code-review-graph]] [[posthog-posthog]]
 
 **所属领域**: [[web]] [[cli]]
 

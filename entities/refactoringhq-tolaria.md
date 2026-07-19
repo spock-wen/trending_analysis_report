@@ -38,5 +38,5 @@ Desktop app to manage markdown knowledge bases
 
 ## 相关项目
 
-[[opencut-app-opencut]] [[knockoutez-wigolo]] [[ibelick-ui-skills]] [[elder-plinius-g0dm0d3]]
+[[knockoutez-wigolo]] [[elder-plinius-g0dm0d3]] [[jamiepine-voicebox]] [[ibelick-ui-skills]]
 

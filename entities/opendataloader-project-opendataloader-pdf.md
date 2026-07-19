@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[github-copilot-sdk]] [[elastic-elasticsearch]] [[protocolbuffers-protobuf]] [[keycloak-keycloak]]
+[[canner-wrenai]] [[elastic-elasticsearch]] [[robbyant-lingbot-map]] [[lyogavin-airllm]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

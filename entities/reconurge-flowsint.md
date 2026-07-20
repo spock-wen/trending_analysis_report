@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[zackriya-solutions-meetily]] [[elder-plinius-g0dm0d3]] [[ibelick-ui-skills]] [[home-assistant-core]]
+[[iptv-org-iptv]] [[veracrypt-veracrypt]] [[every-app-open-seo]] [[zackriya-solutions-meetily]] [[jamiepine-voicebox]]
 
 **所属领域**: [[security]]
 

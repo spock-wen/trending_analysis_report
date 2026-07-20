@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[tirth8205-code-review-graph]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[posthog-posthog]]
+[[robbyant-lingbot-map]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[tirth8205-code-review-graph]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

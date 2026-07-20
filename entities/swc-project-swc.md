@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[1jehuang-jcode]] [[posthog-posthog]] [[malisper-pgrust]] [[trycua-cua]]
+[[1jehuang-jcode]] [[knockoutez-wigolo]] [[openinterpreter-openinterpreter]] [[msitarzewski-agency-agents]] [[tokio-rs-topcoat]]
 
 **所属领域**: [[web]]
 

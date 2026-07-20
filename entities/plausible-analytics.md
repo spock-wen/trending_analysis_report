@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[canner-wrenai]] [[robbyant-lingbot-map]] [[zackriya-solutions-meetily]] [[posthog-posthog]]
+[[robbyant-lingbot-map]] [[posthog-posthog]] [[knockoutez-wigolo]] [[veracrypt-veracrypt]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

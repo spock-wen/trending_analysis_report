@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[microsoft-terminal]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[posthog-posthog]] [[trycua-cua]]
+[[robbyant-lingbot-map]] [[moonshotai-kimi-cli]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[microsoft-terminal]] [[jamiepine-voicebox]] [[tirth8205-code-review-graph]] [[elder-plinius-g0dm0d3]] [[ibelick-ui-skills]]
+[[moonshotai-kimi-cli]] [[iptv-org-iptv]] [[every-app-open-seo]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]]
 
 **所属领域**: [[cli]]
 

@@ -34,5 +34,5 @@ Advanced UX and interoperability extension for Wand (WeMod) app
 
 ## 相关项目
 
-[[dotnet-aspnetcore]] [[par274-sharpemu]] [[iofficeai-officecli]]
+[[par274-sharpemu]] [[dotnet-aspnetcore]] [[iofficeai-officecli]]
 

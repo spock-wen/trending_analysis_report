@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[microsoft-terminal]] [[zackriya-solutions-meetily]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[posthog-posthog]]
+[[robbyant-lingbot-map]] [[moonshotai-kimi-cli]] [[iptv-org-iptv]] [[veracrypt-veracrypt]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

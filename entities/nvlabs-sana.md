@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[tirth8205-code-review-graph]] [[posthog-posthog]] [[trycua-cua]] [[graphify-labs-graphify]] [[prisma-prisma]]
+[[robbyant-lingbot-map]] [[prisma-prisma]] [[ahmadibrahiim-website-downloader]] [[graphify-labs-graphify]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[image-gen]]
 

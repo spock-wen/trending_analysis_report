@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[canner-wrenai]] [[jamiepine-voicebox]] [[ansible-ansible]] [[robbyant-lingbot-map]] [[elder-plinius-g0dm0d3]]
+[[robbyant-lingbot-map]] [[posthog-posthog]] [[iptv-org-iptv]] [[davila7-claude-code-templates]] [[every-app-open-seo]]
 
 **所属领域**: [[data]] [[devops]]
 

@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[obra-superpowers]] [[1jehuang-jcode]] [[lyogavin-airllm]] [[malisper-pgrust]] [[trycua-cua]]
+[[1jehuang-jcode]] [[iptv-org-iptv]] [[anthropics-cwc-workshops]] [[msitarzewski-agency-agents]] [[tokio-rs-topcoat]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

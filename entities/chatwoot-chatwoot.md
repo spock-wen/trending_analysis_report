@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[trycua-cua]] [[github-copilot-sdk]] [[rohitg00-ai-engineering-from-scratch]] [[docusealco-docuseal]]
+[[docusealco-docuseal]] [[iptv-org-iptv]] [[jamiepine-voicebox]] [[msitarzewski-agency-agents]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]]
 

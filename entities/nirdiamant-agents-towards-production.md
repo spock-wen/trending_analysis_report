@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[ansible-ansible]] [[obra-superpowers]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[posthog-posthog]]
+[[obra-superpowers]] [[posthog-posthog]] [[nvidia-cosmos]] [[iptv-org-iptv]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

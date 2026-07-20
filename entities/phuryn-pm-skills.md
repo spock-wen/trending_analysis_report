@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[microsoft-terminal]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[trycua-cua]] [[github-copilot-sdk]]
+[[moonshotai-kimi-cli]] [[iptv-org-iptv]] [[jamiepine-voicebox]] [[msitarzewski-agency-agents]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

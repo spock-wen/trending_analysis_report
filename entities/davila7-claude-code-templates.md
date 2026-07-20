@@ -36,7 +36,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[microsoft-terminal]] [[ansible-ansible]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[posthog-posthog]]
+[[robbyant-lingbot-map]] [[posthog-posthog]] [[moonshotai-kimi-cli]] [[iptv-org-iptv]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[posthog-posthog]] [[trycua-cua]] [[graphify-labs-graphify]]
+[[robbyant-lingbot-map]] [[iptv-org-iptv]] [[prisma-prisma]] [[ahmadibrahiim-website-downloader]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[tirth8205-code-review-graph]] [[posthog-posthog]] [[graphify-labs-graphify]] [[mvanhorn-last30days-skill]] [[rohitg00-ai-engineering-from-scratch]]
+[[robbyant-lingbot-map]] [[knockoutez-wigolo]] [[tirth8205-code-review-graph]] [[topoteretes-cognee]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[science]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[microsoft-terminal]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[posthog-posthog]]
+[[robbyant-lingbot-map]] [[knockoutez-wigolo]] [[iptv-org-iptv]] [[moonshotai-kimi-cli]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

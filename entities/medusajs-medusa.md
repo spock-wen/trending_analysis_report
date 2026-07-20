@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[obra-superpowers]] [[elder-plinius-g0dm0d3]] [[ibelick-ui-skills]] [[anthropics-cwc-workshops]]
+[[obra-superpowers]] [[openinterpreter-openinterpreter]] [[iptv-org-iptv]] [[every-app-open-seo]] [[anthropics-cwc-workshops]]
 
 **所属领域**: [[erp]]
 

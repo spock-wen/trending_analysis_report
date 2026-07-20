@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[trycua-cua]] [[nvidia-cosmos]] [[github-copilot-sdk]] [[anthropics-claude-cookbooks]]
+[[nvidia-cosmos]] [[iptv-org-iptv]] [[lyogavin-airllm]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

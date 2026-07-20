@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[microsoft-terminal]] [[obra-superpowers]] [[tirth8205-code-review-graph]] [[knockoutez-wigolo]] [[lyogavin-airllm]]
+[[obra-superpowers]] [[robbyant-lingbot-map]] [[moonshotai-kimi-cli]] [[iptv-org-iptv]] [[openinterpreter-openinterpreter]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

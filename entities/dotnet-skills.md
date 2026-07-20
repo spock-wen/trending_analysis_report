@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[k1tbyte-wand-enhancer]] [[lyogavin-airllm]] [[dotnet-aspnetcore]] [[trycua-cua]] [[github-copilot-sdk]]
+[[iofficeai-officecli]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[ai-agent]]
 

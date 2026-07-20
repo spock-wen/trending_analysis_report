@@ -38,7 +38,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[addyosmani-agent-skills]] [[lyogavin-airllm]] [[leonxlnx-taste-skill]] [[trycua-cua]]
+[[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]] [[leonxlnx-taste-skill]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

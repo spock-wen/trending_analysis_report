@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[microsoft-terminal]] [[jamiepine-voicebox]] [[pkuflyingpig-cs-self-learning]] [[tirth8205-code-review-graph]] [[elder-plinius-g0dm0d3]]
+[[moonshotai-kimi-cli]] [[iptv-org-iptv]] [[every-app-open-seo]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

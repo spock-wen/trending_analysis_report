@@ -37,5 +37,5 @@ Meshery, the cloud native manager
 
 ## 相关项目
 
-[[knockoutez-wigolo]] [[elder-plinius-g0dm0d3]] [[jamiepine-voicebox]] [[ibelick-ui-skills]]
+[[every-app-open-seo]] [[jamiepine-voicebox]] [[iptv-org-iptv]] [[diegosouzapw-omniroute]]
 

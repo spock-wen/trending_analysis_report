@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[microsoft-terminal]] [[jamiepine-voicebox]] [[tirth8205-code-review-graph]] [[posthog-posthog]] [[altic-dev-fluidvoice]]
+[[robbyant-lingbot-map]] [[moonshotai-kimi-cli]] [[msitarzewski-agency-agents]] [[tirth8205-code-review-graph]] [[jamiepine-voicebox]]
 
 **所属领域**: [[cli]] [[audio]]
 

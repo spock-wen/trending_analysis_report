@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[abseil-abseil-cpp]] [[tirth8205-code-review-graph]] [[protocolbuffers-protobuf]] [[yimmenu-yimmenuv2]] [[andrewrabert-jellium-desktop]]
+[[moonshotai-kimi-cli]] [[msitarzewski-agency-agents]] [[tirth8205-code-review-graph]] [[moonshine-ai-moonshine]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[cli]]
 

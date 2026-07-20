@@ -34,7 +34,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[hashicorp-terraform]] [[tailscale-tailscale]] [[vxcontrol-pentagi]] [[chenyme-grok2api]] [[lyogavin-airllm]]
+[[iptv-org-iptv]] [[hashicorp-terraform]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]]
 

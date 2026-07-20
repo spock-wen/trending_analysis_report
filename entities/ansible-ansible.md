@@ -35,7 +35,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[posthog-posthog]] [[davila7-claude-code-templates]]
+[[robbyant-lingbot-map]] [[posthog-posthog]] [[knockoutez-wigolo]] [[iptv-org-iptv]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

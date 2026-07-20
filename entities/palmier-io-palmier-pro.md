@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[apple-container]] [[lyogavin-airllm]] [[altic-dev-fluidvoice]] [[trycua-cua]] [[github-copilot-sdk]]
+[[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[jamiepine-voicebox]] [[apple-container]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[apple-container]] [[jamiepine-voicebox]] [[lyogavin-airllm]] [[trycua-cua]] [[palmier-io-palmier-pro]]
+[[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]] [[moonshine-ai-moonshine]] [[apple-container]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -36,7 +36,7 @@ Lightning-Fast, On-Device, Multilingual TTS running natively via ONNX.
 
 ## 相关项目
 
-[[apple-container]] [[jamiepine-voicebox]] [[altic-dev-fluidvoice]] [[palmier-io-palmier-pro]] [[moeru-ai-airi]]
+[[jamiepine-voicebox]] [[altic-dev-fluidvoice]] [[moonshine-ai-moonshine]] [[apple-container]] [[moeru-ai-airi]]
 
 **所属领域**: [[audio]]
 

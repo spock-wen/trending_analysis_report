@@ -37,7 +37,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[addyosmani-agent-skills]] [[leonxlnx-taste-skill]] [[lyogavin-airllm]] [[openai-plugins]]
+[[iptv-org-iptv]] [[openai-plugins]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]] [[leonxlnx-taste-skill]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[pppscn-smsforwarder]] [[bannedbook-fanqiang]] [[lyogavin-airllm]] [[trycua-cua]] [[andreknieriem-headunit-revived]]
+[[andreknieriem-headunit-revived]] [[pppscn-smsforwarder]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[canner-wrenai]] [[ansible-ansible]] [[robbyant-lingbot-map]] [[tirth8205-code-review-graph]]
+[[robbyant-lingbot-map]] [[knockoutez-wigolo]] [[iptv-org-iptv]] [[davila7-claude-code-templates]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[microsoft-terminal]] [[1jehuang-jcode]] [[tirth8205-code-review-graph]] [[posthog-posthog]]
+[[1jehuang-jcode]] [[knockoutez-wigolo]] [[openinterpreter-openinterpreter]] [[moonshotai-kimi-cli]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]] [[cli]]
 

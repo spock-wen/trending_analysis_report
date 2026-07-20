@@ -34,7 +34,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[trycua-cua]] [[lyogavin-airllm]] [[github-copilot-sdk]]
+[[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[msitarzewski-agency-agents]] [[iptv-org-iptv]]
 
 **所属领域**: [[ai-agent]]
 

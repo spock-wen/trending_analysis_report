@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[posthog-posthog]] [[altic-dev-fluidvoice]]
+[[robbyant-lingbot-map]] [[iptv-org-iptv]] [[prisma-prisma]] [[ahmadibrahiim-website-downloader]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

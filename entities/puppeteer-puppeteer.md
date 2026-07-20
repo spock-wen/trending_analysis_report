@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[elder-plinius-g0dm0d3]] [[posthog-posthog]] [[ibelick-ui-skills]] [[trycua-cua]]
+[[knockoutez-wigolo]] [[iptv-org-iptv]] [[every-app-open-seo]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]]
 
 **所属领域**: [[web]]
 

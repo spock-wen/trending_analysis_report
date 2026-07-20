@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[microsoft-terminal]] [[obra-superpowers]] [[abseil-abseil-cpp]] [[protocolbuffers-protobuf]] [[anthropics-cwc-workshops]]
+[[microsoft-terminal]] [[openinterpreter-openinterpreter]] [[anthropics-cwc-workshops]] [[moonshine-ai-moonshine]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

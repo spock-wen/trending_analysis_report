@@ -34,7 +34,7 @@ language: "Go"
 
 ## 相关项目
 
-[[microsoft-terminal]] [[hashicorp-terraform]] [[tirth8205-code-review-graph]] [[tailscale-tailscale]] [[vxcontrol-pentagi]]
+[[knockoutez-wigolo]] [[moonshotai-kimi-cli]] [[hashicorp-terraform]] [[msitarzewski-agency-agents]] [[tokio-rs-topcoat]]
 
 **所属领域**: [[web]] [[cli]]
 

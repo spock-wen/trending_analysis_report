@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[microsoft-terminal]] [[tirth8205-code-review-graph]] [[posthog-posthog]] [[trycua-cua]] [[andrewrabert-jellium-desktop]]
+[[knockoutez-wigolo]] [[moonshotai-kimi-cli]] [[msitarzewski-agency-agents]] [[tokio-rs-topcoat]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[web]] [[cli]]
 

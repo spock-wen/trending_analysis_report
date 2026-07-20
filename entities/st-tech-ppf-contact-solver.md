@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[microsoft-terminal]] [[tirth8205-code-review-graph]] [[posthog-posthog]] [[rohitg00-ai-engineering-from-scratch]] [[moonshotai-kimi-cli]]
+[[robbyant-lingbot-map]] [[moonshotai-kimi-cli]] [[msitarzewski-agency-agents]] [[tirth8205-code-review-graph]] [[topoteretes-cognee]]
 
 **所属领域**: [[cli]]
 

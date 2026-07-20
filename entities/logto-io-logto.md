@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[ansible-ansible]] [[elder-plinius-g0dm0d3]] [[lyogavin-airllm]] [[posthog-posthog]]
+[[posthog-posthog]] [[iptv-org-iptv]] [[davila7-claude-code-templates]] [[every-app-open-seo]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

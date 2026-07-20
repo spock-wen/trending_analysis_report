@@ -38,7 +38,7 @@ Clone any website with one command using AI coding agents
 
 ## 相关项目
 
-[[microsoft-terminal]] [[jamiepine-voicebox]] [[tirth8205-code-review-graph]] [[elder-plinius-g0dm0d3]] [[lyogavin-airllm]]
+[[knockoutez-wigolo]] [[iptv-org-iptv]] [[moonshotai-kimi-cli]] [[every-app-open-seo]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -37,7 +37,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[trycua-cua]] [[nvidia-cosmos]] [[github-copilot-sdk]]
+[[iptv-org-iptv]] [[lyogavin-airllm]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

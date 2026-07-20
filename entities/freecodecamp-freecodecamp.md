@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[elder-plinius-g0dm0d3]] [[microsoft-ai-for-beginners]] [[ibelick-ui-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[iptv-org-iptv]] [[every-app-open-seo]] [[jamiepine-voicebox]] [[microsoft-ai-for-beginners]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[education]]
 

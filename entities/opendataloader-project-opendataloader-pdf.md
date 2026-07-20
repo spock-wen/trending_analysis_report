@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[canner-wrenai]] [[elastic-elasticsearch]] [[robbyant-lingbot-map]] [[lyogavin-airllm]] [[posthog-posthog]]
+[[apache-maven]] [[robbyant-lingbot-map]] [[posthog-posthog]] [[iptv-org-iptv]] [[elastic-elasticsearch]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

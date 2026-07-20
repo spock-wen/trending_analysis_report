@@ -35,5 +35,5 @@ Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[moonshotai-kimi-cli]] [[posthog-posthog]]
+[[rohitg00-ai-engineering-from-scratch]] [[robbyant-lingbot-map]] [[topoteretes-cognee]] [[tirth8205-code-review-graph]]
 

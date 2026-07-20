@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[microsoft-terminal]] [[obra-superpowers]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[msitarzewski-agency-agents]]
+[[prismml-eng-bonsai-demo]] [[moonshotai-kimi-cli]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

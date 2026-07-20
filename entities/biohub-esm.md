@@ -34,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[nvidia-cosmos]] [[anthropics-claude-cookbooks]]
+[[anthropics-claude-cookbooks]] [[lyogavin-airllm]] [[nvidia-cosmos]] [[microsoft-ai-for-beginners]]
 

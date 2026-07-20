@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[hashicorp-terraform]] [[tailscale-tailscale]] [[vxcontrol-pentagi]] [[chenyme-grok2api]] [[posthog-posthog]]
+[[knockoutez-wigolo]] [[hashicorp-terraform]] [[msitarzewski-agency-agents]] [[tokio-rs-topcoat]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[web]]
 

@@ -34,5 +34,5 @@ Apache Maven core
 
 ## 相关项目
 
-[[elastic-elasticsearch]] [[keycloak-keycloak]] [[github-copilot-sdk]]
+[[keycloak-keycloak]] [[github-copilot-sdk]] [[elastic-elasticsearch]]
 

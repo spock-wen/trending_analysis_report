@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[microsoft-terminal]] [[ansible-ansible]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[posthog-posthog]]
+[[robbyant-lingbot-map]] [[posthog-posthog]] [[moonshotai-kimi-cli]] [[iptv-org-iptv]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[posthog-posthog]] [[trycua-cua]]
+[[robbyant-lingbot-map]] [[knockoutez-wigolo]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

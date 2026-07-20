@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[hashicorp-terraform]] [[zackriya-solutions-meetily]] [[tailscale-tailscale]] [[vxcontrol-pentagi]] [[chenyme-grok2api]]
+[[iptv-org-iptv]] [[veracrypt-veracrypt]] [[hashicorp-terraform]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

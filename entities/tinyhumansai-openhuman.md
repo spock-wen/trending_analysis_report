@@ -38,7 +38,7 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[1jehuang-jcode]] [[lyogavin-airllm]] [[malisper-pgrust]] [[trycua-cua]] [[github-copilot-sdk]]
+[[1jehuang-jcode]] [[openinterpreter-openinterpreter]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[tokio-rs-topcoat]]
 
 **所属领域**: [[ai-agent]]
 

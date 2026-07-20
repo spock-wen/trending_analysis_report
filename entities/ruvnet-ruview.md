@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[ansible-ansible]] [[1jehuang-jcode]] [[posthog-posthog]] [[davila7-claude-code-templates]] [[malisper-pgrust]]
+[[1jehuang-jcode]] [[posthog-posthog]] [[openinterpreter-openinterpreter]] [[davila7-claude-code-templates]] [[tokio-rs-topcoat]]
 
 **所属领域**: [[devops]]
 

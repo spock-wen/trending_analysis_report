@@ -35,5 +35,5 @@ language: "Java"
 
 ## 相关项目
 
-[[elastic-elasticsearch]] [[keycloak-keycloak]] [[github-copilot-sdk]] [[apache-maven]]
+[[keycloak-keycloak]] [[github-copilot-sdk]] [[elastic-elasticsearch]] [[apache-maven]]
 

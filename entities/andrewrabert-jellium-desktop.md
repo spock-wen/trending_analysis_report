@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[microsoft-terminal]] [[1jehuang-jcode]] [[tirth8205-code-review-graph]] [[malisper-pgrust]] [[openinterpreter-openinterpreter]]
+[[1jehuang-jcode]] [[moonshotai-kimi-cli]] [[openinterpreter-openinterpreter]] [[msitarzewski-agency-agents]] [[tokio-rs-topcoat]]
 
 **所属领域**: [[cli]]
 

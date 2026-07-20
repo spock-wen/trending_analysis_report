@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[microsoft-terminal]] [[obra-superpowers]] [[tirth8205-code-review-graph]] [[lyogavin-airllm]] [[msitarzewski-agency-agents]]
+[[prismml-eng-bonsai-demo]] [[mattpocock-skills]] [[iptv-org-iptv]] [[moonshotai-kimi-cli]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

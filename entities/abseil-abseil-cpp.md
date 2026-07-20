@@ -35,5 +35,5 @@ Abseil Common Libraries (C++)
 
 ## 相关项目
 
-[[microsoft-terminal]] [[yimmenu-yimmenuv2]] [[protocolbuffers-protobuf]]
+[[protocolbuffers-protobuf]] [[moonshine-ai-moonshine]] [[microsoft-terminal]] [[yimmenu-yimmenuv2]]
 

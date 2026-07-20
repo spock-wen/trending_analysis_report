@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[canner-wrenai]] [[1jehuang-jcode]] [[robbyant-lingbot-map]] [[lyogavin-airllm]]
+[[robbyant-lingbot-map]] [[1jehuang-jcode]] [[knockoutez-wigolo]] [[openinterpreter-openinterpreter]] [[iptv-org-iptv]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

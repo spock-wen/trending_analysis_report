@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[obra-superpowers]] [[elder-plinius-g0dm0d3]] [[ibelick-ui-skills]] [[openinterpreter-openinterpreter]]
+[[obra-superpowers]] [[openinterpreter-openinterpreter]] [[iptv-org-iptv]] [[every-app-open-seo]] [[jamiepine-voicebox]]
 
 **所属领域**: [[erp]]
 

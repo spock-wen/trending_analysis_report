@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[obra-superpowers]] [[nutlope-hallmark]] [[posthog-posthog]] [[trycua-cua]] [[anthropics-cwc-workshops]]
+[[knockoutez-wigolo]] [[openinterpreter-openinterpreter]] [[anthropics-cwc-workshops]] [[msitarzewski-agency-agents]] [[tokio-rs-topcoat]]
 
 **所属领域**: [[web]] [[erp]]
 

@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[canner-wrenai]] [[hashicorp-terraform]] [[robbyant-lingbot-map]] [[tailscale-tailscale]] [[vxcontrol-pentagi]]
+[[robbyant-lingbot-map]] [[posthog-posthog]] [[iptv-org-iptv]] [[hashicorp-terraform]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

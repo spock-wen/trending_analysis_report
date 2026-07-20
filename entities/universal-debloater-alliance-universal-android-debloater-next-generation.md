@@ -36,7 +36,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[1jehuang-jcode]] [[zackriya-solutions-meetily]] [[malisper-pgrust]] [[home-assistant-core]] [[trycua-cua]]
+[[1jehuang-jcode]] [[openinterpreter-openinterpreter]] [[veracrypt-veracrypt]] [[ahmadibrahiim-website-downloader]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[security]] [[image-gen]]
 

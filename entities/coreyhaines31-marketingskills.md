@@ -36,7 +36,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 ## 相关项目
 
-[[canner-wrenai]] [[addyosmani-agent-skills]] [[robbyant-lingbot-map]] [[leonxlnx-taste-skill]] [[lyogavin-airllm]]
+[[robbyant-lingbot-map]] [[posthog-posthog]] [[iptv-org-iptv]] [[openai-plugins]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

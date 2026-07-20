@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[elder-plinius-g0dm0d3]] [[lyogavin-airllm]] [[ibelick-ui-skills]] [[trycua-cua]]
+[[knockoutez-wigolo]] [[iptv-org-iptv]] [[every-app-open-seo]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

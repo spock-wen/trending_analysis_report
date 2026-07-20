@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[microsoft-terminal]] [[canner-wrenai]] [[abseil-abseil-cpp]] [[robbyant-lingbot-map]] [[posthog-posthog]]
+[[microsoft-terminal]] [[robbyant-lingbot-map]] [[posthog-posthog]] [[moonshine-ai-moonshine]] [[canner-wrenai]]
 
 **所属领域**: [[data]]
 

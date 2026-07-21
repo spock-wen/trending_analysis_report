@@ -37,7 +37,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[knockoutez-wigolo]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[tirth8205-code-review-graph]]
+[[agegr-pi-web]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]] [[1jehuang-jcode]] [[bojieli-ai-agent-book]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

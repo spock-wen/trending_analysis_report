@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ossu-computer-science]] [[hasaneyldrm-exercises-dataset]] [[knockoutez-wigolo]] [[msitarzewski-agency-agents]] [[tokio-rs-topcoat]]
+[[agegr-pi-web]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]] [[trycua-cua]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[web]] [[education]]
 

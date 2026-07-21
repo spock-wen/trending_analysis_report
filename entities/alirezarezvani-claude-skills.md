@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[obra-superpowers]] [[robbyant-lingbot-map]] [[moonshotai-kimi-cli]] [[iptv-org-iptv]] [[openinterpreter-openinterpreter]]
+[[alexsjones-llmfit]] [[openinterpreter-openinterpreter]] [[anthropics-cwc-workshops]] [[zeux-meshoptimizer]] [[knockoutez-wigolo]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

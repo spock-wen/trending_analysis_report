@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[veracrypt-veracrypt]] [[hashicorp-terraform]] [[zackriya-solutions-meetily]] [[msitarzewski-agency-agents]]
+[[affaan-m-ecc]] [[chenyme-grok2api]] [[schollz-croc]] [[hashicorp-terraform]] [[1jehuang-jcode]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

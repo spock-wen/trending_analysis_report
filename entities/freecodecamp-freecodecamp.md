@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[every-app-open-seo]] [[jamiepine-voicebox]] [[microsoft-ai-for-beginners]] [[diegosouzapw-omniroute]]
+[[pkuflyingpig-cs-self-learning]] [[knockoutez-wigolo]] [[microsoft-ai-for-beginners]] [[rohitg00-ai-engineering-from-scratch]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[education]]
 

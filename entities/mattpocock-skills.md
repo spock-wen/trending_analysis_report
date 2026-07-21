@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ## 相关项目
 
-[[prismml-eng-bonsai-demo]] [[moonshotai-kimi-cli]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]]
+[[alexsjones-llmfit]] [[1jehuang-jcode]] [[prismml-eng-bonsai-demo]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

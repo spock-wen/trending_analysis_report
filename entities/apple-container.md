@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[jamiepine-voicebox]] [[palmier-io-palmier-pro]]
+[[altic-dev-fluidvoice]] [[1jehuang-jcode]] [[tirth8205-code-review-graph]] [[palmier-io-palmier-pro]] [[steipete-codexbar]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[posthog-posthog]] [[davila7-claude-code-templates]] [[hashicorp-terraform]] [[oblien-openship]] [[vxcontrol-pentagi]]
+[[posthog-posthog]] [[chenyme-grok2api]] [[schollz-croc]] [[hashicorp-terraform]] [[graphify-labs-graphify]]
 
 **所属领域**: [[devops]]
 

@@ -35,7 +35,7 @@ Gas Town - multi-agent workspace manager
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[hashicorp-terraform]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]] [[vxcontrol-pentagi]]
+[[chenyme-grok2api]] [[schollz-croc]] [[hashicorp-terraform]] [[1jehuang-jcode]] [[tailscale-tailscale]]
 
 **所属领域**: [[ai-agent]]
 

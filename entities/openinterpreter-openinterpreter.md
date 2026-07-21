@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[1jehuang-jcode]] [[iptv-org-iptv]] [[anthropics-cwc-workshops]] [[msitarzewski-agency-agents]] [[tokio-rs-topcoat]]
+[[tokio-rs-topcoat]] [[alexsjones-llmfit]] [[dioxuslabs-dioxus]] [[anthropics-cwc-workshops]] [[zeux-meshoptimizer]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

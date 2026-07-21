@@ -36,7 +36,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[knockoutez-wigolo]] [[iptv-org-iptv]] [[every-app-open-seo]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]]
+[[agegr-pi-web]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]] [[diegosouzapw-omniroute]] [[koala73-worldmonitor]]
 
 **所属领域**: [[web]]
 

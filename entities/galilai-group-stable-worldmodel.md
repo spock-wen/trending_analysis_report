@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[knockoutez-wigolo]] [[iptv-org-iptv]] [[prisma-prisma]] [[ahmadibrahiim-website-downloader]]
+[[ahmadibrahiim-website-downloader]] [[knockoutez-wigolo]] [[trycua-cua]] [[graphify-labs-graphify]] [[1jehuang-jcode]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[1jehuang-jcode]] [[knockoutez-wigolo]] [[openinterpreter-openinterpreter]] [[moonshotai-kimi-cli]] [[msitarzewski-agency-agents]]
+[[agegr-pi-web]] [[tokio-rs-topcoat]] [[chrislgarry-apollo-11]] [[alexsjones-llmfit]] [[knockoutez-wigolo]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[ossu-computer-science]] [[hasaneyldrm-exercises-dataset]] [[knockoutez-wigolo]] [[iptv-org-iptv]] [[graphify-labs-graphify]]
+[[agegr-pi-web]] [[pkuflyingpig-cs-self-learning]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

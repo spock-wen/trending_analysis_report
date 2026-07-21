@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[ossu-computer-science]] [[hasaneyldrm-exercises-dataset]] [[knockoutez-wigolo]] [[iptv-org-iptv]] [[robbyant-lingbot-map]]
+[[agegr-pi-web]] [[robbyant-lingbot-map]] [[pkuflyingpig-cs-self-learning]] [[posthog-posthog]] [[canner-wrenai]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[knockoutez-wigolo]] [[moonshotai-kimi-cli]] [[msitarzewski-agency-agents]] [[tokio-rs-topcoat]] [[tirth8205-code-review-graph]]
+[[agegr-pi-web]] [[chrislgarry-apollo-11]] [[alexsjones-llmfit]] [[dioxuslabs-dioxus]] [[knockoutez-wigolo]]
 
 **所属领域**: [[web]] [[cli]]
 

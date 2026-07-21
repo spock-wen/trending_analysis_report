@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[posthog-posthog]] [[iptv-org-iptv]] [[davila7-claude-code-templates]] [[every-app-open-seo]] [[graphify-labs-graphify]]
+[[posthog-posthog]] [[knockoutez-wigolo]] [[graphify-labs-graphify]] [[1jehuang-jcode]] [[oblien-openship]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

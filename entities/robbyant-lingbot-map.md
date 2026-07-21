@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[posthog-posthog]] [[tirth8205-code-review-graph]] [[topoteretes-cognee]] [[canner-wrenai]] [[trycua-cua]]
+[[posthog-posthog]] [[canner-wrenai]] [[trycua-cua]] [[bojieli-ai-agent-book]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[data]]
 

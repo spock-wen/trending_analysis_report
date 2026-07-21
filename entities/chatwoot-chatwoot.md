@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[docusealco-docuseal]] [[iptv-org-iptv]] [[jamiepine-voicebox]] [[msitarzewski-agency-agents]] [[rohitg00-ai-engineering-from-scratch]]
+[[docusealco-docuseal]] [[1jehuang-jcode]] [[tirth8205-code-review-graph]] [[diegosouzapw-omniroute]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]]
 

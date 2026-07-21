@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[tirth8205-code-review-graph]] [[jamiepine-voicebox]]
+[[pkuflyingpig-cs-self-learning]] [[1jehuang-jcode]] [[microsoft-ai-for-beginners]] [[rohitg00-ai-engineering-from-scratch]] [[bojieli-ai-agent-book]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

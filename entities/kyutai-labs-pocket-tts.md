@@ -35,7 +35,7 @@ A TTS that fits in your CPU (and pocket)
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[tirth8205-code-review-graph]] [[jamiepine-voicebox]]
+[[moonshine-ai-moonshine]] [[1jehuang-jcode]] [[moeru-ai-airi]] [[bojieli-ai-agent-book]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[prismml-eng-bonsai-demo]] [[mattpocock-skills]] [[iptv-org-iptv]] [[moonshotai-kimi-cli]] [[openinterpreter-openinterpreter]]
+[[alexsjones-llmfit]] [[openinterpreter-openinterpreter]] [[anthropics-cwc-workshops]] [[zeux-meshoptimizer]] [[1jehuang-jcode]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

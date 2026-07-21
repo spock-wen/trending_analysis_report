@@ -34,7 +34,7 @@ The Postgres development platform. Supabase gives you a dedicated Postgres datab
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[posthog-posthog]] [[knockoutez-wigolo]] [[iptv-org-iptv]] [[every-app-open-seo]]
+[[agegr-pi-web]] [[robbyant-lingbot-map]] [[posthog-posthog]] [[canner-wrenai]] [[knockoutez-wigolo]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

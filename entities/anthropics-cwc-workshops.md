@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[obra-superpowers]] [[openinterpreter-openinterpreter]] [[iptv-org-iptv]] [[every-app-open-seo]] [[jamiepine-voicebox]]
+[[openinterpreter-openinterpreter]] [[knockoutez-wigolo]] [[zeux-meshoptimizer]] [[obra-superpowers]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[erp]]
 

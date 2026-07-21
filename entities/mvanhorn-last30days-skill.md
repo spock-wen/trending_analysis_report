@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[knockoutez-wigolo]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[tirth8205-code-review-graph]]
+[[agegr-pi-web]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]] [[graphify-labs-graphify]] [[1jehuang-jcode]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

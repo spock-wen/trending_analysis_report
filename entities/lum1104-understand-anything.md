@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[moonshotai-kimi-cli]] [[iptv-org-iptv]] [[every-app-open-seo]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]]
+[[pkuflyingpig-cs-self-learning]] [[alexsjones-llmfit]] [[knockoutez-wigolo]] [[microsoft-ontology-playground]] [[1jehuang-jcode]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

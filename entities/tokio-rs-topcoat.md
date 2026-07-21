@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[1jehuang-jcode]] [[knockoutez-wigolo]] [[openinterpreter-openinterpreter]] [[msitarzewski-agency-agents]] [[andrewrabert-jellium-desktop]]
+[[agegr-pi-web]] [[alexsjones-llmfit]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]] [[1jehuang-jcode]]
 
 **所属领域**: [[web]]
 

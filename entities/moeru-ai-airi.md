@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[knockoutez-wigolo]] [[iptv-org-iptv]] [[every-app-open-seo]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]]
+[[agegr-pi-web]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]] [[moonshine-ai-moonshine]] [[kyutai-labs-pocket-tts]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

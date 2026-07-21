@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[moonshotai-kimi-cli]] [[iptv-org-iptv]] [[veracrypt-veracrypt]] [[zackriya-solutions-meetily]]
+[[affaan-m-ecc]] [[alexsjones-llmfit]] [[veracrypt-veracrypt]] [[1jehuang-jcode]] [[bojieli-ai-agent-book]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

@@ -36,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[nvidia-cosmos]] [[iptv-org-iptv]] [[lyogavin-airllm]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]]
+[[pkuflyingpig-cs-self-learning]] [[anthropics-claude-cookbooks]] [[1jehuang-jcode]] [[microsoft-ai-for-beginners]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

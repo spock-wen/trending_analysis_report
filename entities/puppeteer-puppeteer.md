@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[knockoutez-wigolo]] [[iptv-org-iptv]] [[every-app-open-seo]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]]
+[[agegr-pi-web]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]] [[diegosouzapw-omniroute]] [[koala73-worldmonitor]]
 
 **所属领域**: [[web]]
 

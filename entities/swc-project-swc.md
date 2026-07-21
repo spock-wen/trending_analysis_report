@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[1jehuang-jcode]] [[knockoutez-wigolo]] [[openinterpreter-openinterpreter]] [[msitarzewski-agency-agents]] [[tokio-rs-topcoat]]
+[[agegr-pi-web]] [[tokio-rs-topcoat]] [[alexsjones-llmfit]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]]
 
 **所属领域**: [[web]]
 

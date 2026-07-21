@@ -35,7 +35,7 @@ TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[posthog-posthog]] [[iptv-org-iptv]] [[every-app-open-seo]] [[msitarzewski-agency-agents]]
+[[posthog-posthog]] [[robbyant-lingbot-map]] [[canner-wrenai]] [[knockoutez-wigolo]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

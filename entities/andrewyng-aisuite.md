@@ -35,7 +35,7 @@ Simple, unified interface to multiple Generative AI providers
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[tirth8205-code-review-graph]] [[jamiepine-voicebox]]
+[[1jehuang-jcode]] [[bojieli-ai-agent-book]] [[tirth8205-code-review-graph]] [[astrbotdevs-astrbot]] [[dottxt-ai-outlines]]
 
 **所属领域**: [[ai-agent]]
 

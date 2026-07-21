@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[andreknieriem-headunit-revived]] [[knockoutez-wigolo]] [[msitarzewski-agency-agents]] [[tokio-rs-topcoat]] [[bannedbook-fanqiang]]
+[[agegr-pi-web]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]] [[andreknieriem-headunit-revived]] [[bannedbook-fanqiang]]
 
 **所属领域**: [[web]]
 

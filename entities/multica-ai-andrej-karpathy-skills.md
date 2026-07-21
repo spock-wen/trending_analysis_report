@@ -38,7 +38,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[msitarzewski-agency-agents]] [[iptv-org-iptv]]
+[[1jehuang-jcode]] [[tirth8205-code-review-graph]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]]
 

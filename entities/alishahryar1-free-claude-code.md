@@ -36,7 +36,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[moonshotai-kimi-cli]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[tirth8205-code-review-graph]]
+[[alexsjones-llmfit]] [[moonshine-ai-moonshine]] [[kyutai-labs-pocket-tts]] [[1jehuang-jcode]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

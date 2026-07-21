@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[openai-plugins]] [[addyosmani-agent-skills]] [[leonxlnx-taste-skill]] [[coreyhaines31-marketingskills]]
+[[openai-plugins]] [[coreyhaines31-marketingskills]] [[tradesdontlie-tradingview-mcp]] [[earthtojake-text-to-cad]]
 

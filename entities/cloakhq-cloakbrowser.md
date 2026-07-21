@@ -35,7 +35,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[knockoutez-wigolo]] [[openinterpreter-openinterpreter]] [[veracrypt-veracrypt]] [[zackriya-solutions-meetily]]
+[[agegr-pi-web]] [[affaan-m-ecc]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]] [[openinterpreter-openinterpreter]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

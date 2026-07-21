@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[moonshotai-kimi-cli]] [[msitarzewski-agency-agents]] [[tirth8205-code-review-graph]] [[topoteretes-cognee]]
+[[alexsjones-llmfit]] [[bojieli-ai-agent-book]] [[tirth8205-code-review-graph]] [[astrbotdevs-astrbot]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[cli]]
 

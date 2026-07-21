@@ -35,5 +35,5 @@ A fast, helpful, and open-source document parser
 
 ## 相关项目
 
-[[andrewrabert-jellium-desktop]] [[1jehuang-jcode]] [[openinterpreter-openinterpreter]] [[tokio-rs-topcoat]]
+[[tokio-rs-topcoat]] [[1jehuang-jcode]] [[alexsjones-llmfit]] [[dioxuslabs-dioxus]]
 

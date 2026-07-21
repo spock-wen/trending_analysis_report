@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[1jehuang-jcode]] [[openinterpreter-openinterpreter]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[tokio-rs-topcoat]]
+[[tokio-rs-topcoat]] [[alexsjones-llmfit]] [[dioxuslabs-dioxus]] [[1jehuang-jcode]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]]
 

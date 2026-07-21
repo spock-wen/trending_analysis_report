@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[mattpocock-skills]] [[iptv-org-iptv]] [[moonshotai-kimi-cli]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]]
+[[alexsjones-llmfit]] [[1jehuang-jcode]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

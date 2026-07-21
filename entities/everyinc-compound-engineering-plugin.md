@@ -38,7 +38,7 @@ Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[every-app-open-seo]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]] [[diegosouzapw-omniroute]]
+[[knockoutez-wigolo]] [[1jehuang-jcode]] [[tirth8205-code-review-graph]] [[diegosouzapw-omniroute]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]]
 

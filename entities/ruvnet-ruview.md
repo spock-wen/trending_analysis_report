@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[1jehuang-jcode]] [[posthog-posthog]] [[openinterpreter-openinterpreter]] [[davila7-claude-code-templates]] [[tokio-rs-topcoat]]
+[[posthog-posthog]] [[tokio-rs-topcoat]] [[alexsjones-llmfit]] [[dioxuslabs-dioxus]] [[graphify-labs-graphify]]
 
 **所属领域**: [[devops]]
 

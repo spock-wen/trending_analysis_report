@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[moonshotai-kimi-cli]] [[msitarzewski-agency-agents]] [[tirth8205-code-review-graph]] [[jamiepine-voicebox]]
+[[alexsjones-llmfit]] [[moonshine-ai-moonshine]] [[kyutai-labs-pocket-tts]] [[moeru-ai-airi]] [[bojieli-ai-agent-book]]
 
 **所属领域**: [[cli]] [[audio]]
 

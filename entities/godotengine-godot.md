@@ -34,5 +34,5 @@ Godot Engine – Multi-platform 2D and 3D game engine
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[moonshine-ai-moonshine]] [[microsoft-terminal]] [[yimmenu-yimmenuv2]]
+[[protocolbuffers-protobuf]] [[hyprwm-hyprland]] [[microsoft-terminal]] [[moonshine-ai-moonshine]]
 

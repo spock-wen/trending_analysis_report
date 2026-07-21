@@ -36,7 +36,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[knockoutez-wigolo]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[tirth8205-code-review-graph]]
+[[knockoutez-wigolo]] [[graphify-labs-graphify]] [[1jehuang-jcode]] [[mvanhorn-last30days-skill]] [[henryndubuaku-maths-cs-ai-compendium]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

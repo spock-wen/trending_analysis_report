@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[moonshotai-kimi-cli]] [[iptv-org-iptv]] [[every-app-open-seo]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]]
+[[alexsjones-llmfit]] [[knockoutez-wigolo]] [[tirth8205-code-review-graph]] [[diegosouzapw-omniroute]] [[koala73-worldmonitor]]
 
 **所属领域**: [[cli]]
 

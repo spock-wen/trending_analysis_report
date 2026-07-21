@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[iofficeai-officecli]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]] [[dotnet-aspnetcore]]
+[[k1tbyte-wand-enhancer]] [[1jehuang-jcode]] [[iofficeai-officecli]] [[dotnet-aspnetcore]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]]
 

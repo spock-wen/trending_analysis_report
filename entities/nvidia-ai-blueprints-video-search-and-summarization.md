@@ -35,7 +35,7 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[posthog-posthog]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[tirth8205-code-review-graph]]
+[[posthog-posthog]] [[robbyant-lingbot-map]] [[canner-wrenai]] [[trycua-cua]] [[1jehuang-jcode]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -34,7 +34,7 @@ language: "Go"
 
 ## 相关项目
 
-[[knockoutez-wigolo]] [[moonshotai-kimi-cli]] [[hashicorp-terraform]] [[msitarzewski-agency-agents]] [[tokio-rs-topcoat]]
+[[agegr-pi-web]] [[chrislgarry-apollo-11]] [[alexsjones-llmfit]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]]
 
 **所属领域**: [[web]] [[cli]]
 

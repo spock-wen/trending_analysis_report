@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[jamiepine-voicebox]] [[apple-container]]
+[[altic-dev-fluidvoice]] [[apple-container]] [[1jehuang-jcode]] [[tirth8205-code-review-graph]] [[steipete-codexbar]]
 
 **所属领域**: [[ai-agent]]
 

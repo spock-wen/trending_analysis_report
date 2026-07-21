@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[knockoutez-wigolo]] [[iptv-org-iptv]] [[davila7-claude-code-templates]] [[graphify-labs-graphify]]
+[[agegr-pi-web]] [[robbyant-lingbot-map]] [[canner-wrenai]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

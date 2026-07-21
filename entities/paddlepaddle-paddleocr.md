@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[posthog-posthog]] [[iptv-org-iptv]] [[prisma-prisma]] [[ahmadibrahiim-website-downloader]]
+[[posthog-posthog]] [[robbyant-lingbot-map]] [[canner-wrenai]] [[ahmadibrahiim-website-downloader]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

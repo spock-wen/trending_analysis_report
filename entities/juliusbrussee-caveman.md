@@ -37,7 +37,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[openai-plugins]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]] [[leonxlnx-taste-skill]]
+[[coreyhaines31-marketingskills]] [[1jehuang-jcode]] [[tradesdontlie-tradingview-mcp]] [[tirth8205-code-review-graph]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[ai-agent]]
 

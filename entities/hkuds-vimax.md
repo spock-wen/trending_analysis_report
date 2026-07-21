@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[iptv-org-iptv]] [[prisma-prisma]] [[ahmadibrahiim-website-downloader]] [[graphify-labs-graphify]]
+[[ahmadibrahiim-website-downloader]] [[trycua-cua]] [[graphify-labs-graphify]] [[1jehuang-jcode]] [[bojieli-ai-agent-book]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -34,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[every-app-open-seo]] [[jamiepine-voicebox]] [[iptv-org-iptv]] [[diegosouzapw-omniroute]]
+[[knockoutez-wigolo]] [[every-app-open-seo]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
 

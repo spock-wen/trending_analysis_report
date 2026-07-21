@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[prismml-eng-bonsai-demo]] [[mattpocock-skills]] [[iptv-org-iptv]] [[moonshotai-kimi-cli]] [[msitarzewski-agency-agents]]
+[[alexsjones-llmfit]] [[1jehuang-jcode]] [[prismml-eng-bonsai-demo]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[openinterpreter-openinterpreter]] [[anthropics-cwc-workshops]] [[tirth8205-code-review-graph]] [[topoteretes-cognee]]
+[[openinterpreter-openinterpreter]] [[anthropics-cwc-workshops]] [[zeux-meshoptimizer]] [[obra-superpowers]] [[bojieli-ai-agent-book]]
 
 **所属领域**: [[erp]]
 

@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[tirth8205-code-review-graph]] [[jamiepine-voicebox]]
+[[pkuflyingpig-cs-self-learning]] [[1jehuang-jcode]] [[microsoft-ai-for-beginners]] [[bojieli-ai-agent-book]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -36,7 +36,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[posthog-posthog]] [[moonshotai-kimi-cli]] [[iptv-org-iptv]] [[graphify-labs-graphify]]
+[[posthog-posthog]] [[alexsjones-llmfit]] [[graphify-labs-graphify]] [[1jehuang-jcode]] [[oblien-openship]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

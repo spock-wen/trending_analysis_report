@@ -35,7 +35,7 @@ ASP.NET Core is a cross-platform .NET framework for building modern cloud-based 
 
 ## 相关项目
 
-[[iofficeai-officecli]] [[knockoutez-wigolo]] [[msitarzewski-agency-agents]] [[tokio-rs-topcoat]] [[k1tbyte-wand-enhancer]]
+[[agegr-pi-web]] [[knockoutez-wigolo]] [[k1tbyte-wand-enhancer]] [[dioxuslabs-dioxus]] [[iofficeai-officecli]]
 
 **所属领域**: [[web]]
 

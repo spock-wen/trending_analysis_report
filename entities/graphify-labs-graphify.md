@@ -36,7 +36,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[prisma-prisma]] [[iptv-org-iptv]] [[davila7-claude-code-templates]] [[jamiepine-voicebox]]
+[[alexsjones-llmfit]] [[1jehuang-jcode]] [[dottxt-ai-outlines]] [[koala73-worldmonitor]] [[canner-wrenai]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

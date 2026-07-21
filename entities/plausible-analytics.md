@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[posthog-posthog]] [[knockoutez-wigolo]] [[veracrypt-veracrypt]] [[zackriya-solutions-meetily]]
+[[agegr-pi-web]] [[robbyant-lingbot-map]] [[posthog-posthog]] [[canner-wrenai]] [[affaan-m-ecc]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

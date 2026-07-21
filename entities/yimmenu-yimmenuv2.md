@@ -35,5 +35,5 @@ Experimental menu for GTA 5: Enhanced
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[moonshine-ai-moonshine]] [[microsoft-terminal]]
+[[protocolbuffers-protobuf]] [[hyprwm-hyprland]] [[microsoft-terminal]] [[moonshine-ai-moonshine]]
 

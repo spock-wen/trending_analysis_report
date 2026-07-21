@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[posthog-posthog]] [[iptv-org-iptv]] [[hashicorp-terraform]] [[msitarzewski-agency-agents]]
+[[posthog-posthog]] [[robbyant-lingbot-map]] [[chenyme-grok2api]] [[canner-wrenai]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

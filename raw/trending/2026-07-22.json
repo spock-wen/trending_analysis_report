@@ -1,0 +1,188 @@
+{
+  "date": "2026-07-22",
+  "scraped_at": "2026-07-22T07:03:00.506491",
+  "period": "daily",
+  "count": 20,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars_today": 1167,
+      "total_stars": 65197,
+      "url": "https://github.com/koala73/worldmonitor"
+    },
+    {
+      "rank": 2,
+      "repo": "bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars_today": 4434,
+      "total_stars": 14290,
+      "url": "https://github.com/bojieli/ai-agent-book"
+    },
+    {
+      "rank": 3,
+      "repo": "tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars_today": 1921,
+      "total_stars": 24492,
+      "url": "https://github.com/tirth8205/code-review-graph"
+    },
+    {
+      "rank": 4,
+      "repo": "ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "language": "",
+      "stars_today": 1846,
+      "total_stars": 6757,
+      "url": "https://github.com/ayghri/i-have-adhd"
+    },
+    {
+      "rank": 5,
+      "repo": "earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "JavaScript",
+      "stars_today": 378,
+      "total_stars": 9064,
+      "url": "https://github.com/earthtojake/text-to-cad"
+    },
+    {
+      "rank": 6,
+      "repo": "1jehuang/jcode",
+      "description": "The most intelligent agent harness for code",
+      "language": "Rust",
+      "stars_today": 835,
+      "total_stars": 10277,
+      "url": "https://github.com/1jehuang/jcode"
+    },
+    {
+      "rank": 7,
+      "repo": "oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "language": "TypeScript",
+      "stars_today": 1556,
+      "total_stars": 6149,
+      "url": "https://github.com/oblien/openship"
+    },
+    {
+      "rank": 8,
+      "repo": "AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "stars_today": 416,
+      "total_stars": 37440,
+      "url": "https://github.com/AstrBotDevs/AstrBot"
+    },
+    {
+      "rank": 9,
+      "repo": "every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars_today": 850,
+      "total_stars": 6557,
+      "url": "https://github.com/every-app/open-seo"
+    },
+    {
+      "rank": 10,
+      "repo": "tradesdontlie/tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "language": "JavaScript",
+      "stars_today": 219,
+      "total_stars": 4816,
+      "url": "https://github.com/tradesdontlie/tradingview-mcp"
+    },
+    {
+      "rank": 11,
+      "repo": "AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "stars_today": 194,
+      "total_stars": 30164,
+      "url": "https://github.com/AlexsJones/llmfit"
+    },
+    {
+      "rank": 12,
+      "repo": "hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "stars_today": 88,
+      "total_stars": 37015,
+      "url": "https://github.com/hyprwm/Hyprland"
+    },
+    {
+      "rank": 13,
+      "repo": "chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars_today": 1195,
+      "total_stars": 69924,
+      "url": "https://github.com/chrislgarry/Apollo-11"
+    },
+    {
+      "rank": 14,
+      "repo": "DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Rust",
+      "stars_today": 261,
+      "total_stars": 37625,
+      "url": "https://github.com/DioxusLabs/dioxus"
+    },
+    {
+      "rank": 16,
+      "repo": "diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars_today": 2040,
+      "total_stars": 23508,
+      "url": "https://github.com/diegosouzapw/OmniRoute"
+    },
+    {
+      "rank": 17,
+      "repo": "agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "stars_today": 286,
+      "total_stars": 1702,
+      "url": "https://github.com/agegr/pi-web"
+    },
+    {
+      "rank": 18,
+      "repo": "schollz/croc",
+      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "language": "Go",
+      "stars_today": 396,
+      "total_stars": 36752,
+      "url": "https://github.com/schollz/croc"
+    },
+    {
+      "rank": 19,
+      "repo": "microsoft/Ontology-Playground",
+      "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+      "language": "TypeScript",
+      "stars_today": 355,
+      "total_stars": 1986,
+      "url": "https://github.com/microsoft/Ontology-Playground"
+    },
+    {
+      "rank": 20,
+      "repo": "dottxt-ai/outlines",
+      "description": "Structured Outputs",
+      "language": "Python",
+      "stars_today": 49,
+      "total_stars": 14810,
+      "url": "https://github.com/dottxt-ai/outlines"
+    },
+    {
+      "rank": 21,
+      "repo": "KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars_today": 641,
+      "total_stars": 3114,
+      "url": "https://github.com/KnockOutEZ/wigolo"
+    }
+  ]
+}

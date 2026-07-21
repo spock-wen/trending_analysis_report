@@ -34,7 +34,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[hashicorp-terraform]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]] [[tailscale-tailscale]]
+[[chenyme-grok2api]] [[schollz-croc]] [[hashicorp-terraform]] [[1jehuang-jcode]] [[tailscale-tailscale]]
 
 **所属领域**: [[ai-agent]]
 

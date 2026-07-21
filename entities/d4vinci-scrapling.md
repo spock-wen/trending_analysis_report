@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[knockoutez-wigolo]] [[msitarzewski-agency-agents]] [[tirth8205-code-review-graph]] [[tokio-rs-topcoat]]
+[[agegr-pi-web]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]] [[bojieli-ai-agent-book]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[web]]
 

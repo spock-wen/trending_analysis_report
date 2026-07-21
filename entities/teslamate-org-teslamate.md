@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[posthog-posthog]] [[iptv-org-iptv]] [[jamiepine-voicebox]] [[msitarzewski-agency-agents]]
+[[posthog-posthog]] [[plausible-analytics]] [[robbyant-lingbot-map]] [[canner-wrenai]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

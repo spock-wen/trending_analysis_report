@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[1jehuang-jcode]] [[knockoutez-wigolo]] [[openinterpreter-openinterpreter]] [[iptv-org-iptv]]
+[[agegr-pi-web]] [[tokio-rs-topcoat]] [[robbyant-lingbot-map]] [[posthog-posthog]] [[alexsjones-llmfit]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

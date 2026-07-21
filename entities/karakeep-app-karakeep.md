@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[prisma-prisma]] [[every-app-open-seo]] [[ahmadibrahiim-website-downloader]] [[graphify-labs-graphify]]
+[[ahmadibrahiim-website-downloader]] [[knockoutez-wigolo]] [[trycua-cua]] [[graphify-labs-graphify]] [[1jehuang-jcode]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

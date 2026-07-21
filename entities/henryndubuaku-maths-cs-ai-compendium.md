@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[knockoutez-wigolo]] [[iptv-org-iptv]] [[every-app-open-seo]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]]
+[[knockoutez-wigolo]] [[graphify-labs-graphify]] [[1jehuang-jcode]] [[mvanhorn-last30days-skill]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -34,7 +34,7 @@ The easiest, most secure way to use WireGuard and 2FA.
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[hashicorp-terraform]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]] [[vxcontrol-pentagi]]
+[[chenyme-grok2api]] [[schollz-croc]] [[hashicorp-terraform]] [[1jehuang-jcode]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[posthog-posthog]] [[iptv-org-iptv]] [[davila7-claude-code-templates]] [[every-app-open-seo]]
+[[posthog-posthog]] [[robbyant-lingbot-map]] [[canner-wrenai]] [[knockoutez-wigolo]] [[trycua-cua]]
 
 **所属领域**: [[data]] [[devops]]
 

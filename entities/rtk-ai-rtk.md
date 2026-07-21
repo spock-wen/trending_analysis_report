@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[1jehuang-jcode]] [[moonshotai-kimi-cli]] [[openinterpreter-openinterpreter]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]]
+[[tokio-rs-topcoat]] [[alexsjones-llmfit]] [[dioxuslabs-dioxus]] [[1jehuang-jcode]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

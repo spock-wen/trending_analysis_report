@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[microsoft-terminal]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]] [[moeru-ai-airi]]
+[[jamiepine-voicebox]] [[kyutai-labs-pocket-tts]] [[protocolbuffers-protobuf]] [[1jehuang-jcode]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

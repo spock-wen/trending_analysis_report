@@ -35,7 +35,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[posthog-posthog]] [[knockoutez-wigolo]] [[iptv-org-iptv]] [[davila7-claude-code-templates]]
+[[agegr-pi-web]] [[posthog-posthog]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

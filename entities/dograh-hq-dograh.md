@@ -34,7 +34,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[tirth8205-code-review-graph]] [[jamiepine-voicebox]]
+[[moonshine-ai-moonshine]] [[kyutai-labs-pocket-tts]] [[1jehuang-jcode]] [[moeru-ai-airi]] [[bojieli-ai-agent-book]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

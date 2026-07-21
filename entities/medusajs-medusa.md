@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[obra-superpowers]] [[openinterpreter-openinterpreter]] [[iptv-org-iptv]] [[every-app-open-seo]] [[anthropics-cwc-workshops]]
+[[openinterpreter-openinterpreter]] [[knockoutez-wigolo]] [[anthropics-cwc-workshops]] [[zeux-meshoptimizer]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

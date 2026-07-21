@@ -37,7 +37,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[lyogavin-airllm]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]] [[microsoft-ai-for-beginners]]
+[[1jehuang-jcode]] [[microsoft-ai-for-beginners]] [[nvidia-cosmos]] [[lyogavin-airllm]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]]
 

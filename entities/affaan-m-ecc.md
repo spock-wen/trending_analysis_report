@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[knockoutez-wigolo]] [[iptv-org-iptv]] [[veracrypt-veracrypt]] [[openai-plugins]] [[zackriya-solutions-meetily]]
+[[coreyhaines31-marketingskills]] [[knockoutez-wigolo]] [[veracrypt-veracrypt]] [[graphify-labs-graphify]] [[1jehuang-jcode]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

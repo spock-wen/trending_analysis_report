@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[knockoutez-wigolo]] [[openinterpreter-openinterpreter]] [[anthropics-cwc-workshops]] [[msitarzewski-agency-agents]] [[tokio-rs-topcoat]]
+[[agegr-pi-web]] [[dioxuslabs-dioxus]] [[knockoutez-wigolo]] [[openinterpreter-openinterpreter]] [[anthropics-cwc-workshops]]
 
 **所属领域**: [[web]] [[erp]]
 

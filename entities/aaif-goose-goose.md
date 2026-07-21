@@ -36,7 +36,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[1jehuang-jcode]] [[openinterpreter-openinterpreter]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[tokio-rs-topcoat]]
+[[tokio-rs-topcoat]] [[alexsjones-llmfit]] [[dioxuslabs-dioxus]] [[1jehuang-jcode]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]]
 

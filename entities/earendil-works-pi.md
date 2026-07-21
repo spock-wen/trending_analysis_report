@@ -35,7 +35,7 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[knockoutez-wigolo]] [[iptv-org-iptv]] [[moonshotai-kimi-cli]] [[every-app-open-seo]] [[msitarzewski-agency-agents]]
+[[agegr-pi-web]] [[chrislgarry-apollo-11]] [[alexsjones-llmfit]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

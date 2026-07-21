@@ -38,7 +38,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[moonshotai-kimi-cli]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[tirth8205-code-review-graph]]
+[[alexsjones-llmfit]] [[1jehuang-jcode]] [[bojieli-ai-agent-book]] [[tirth8205-code-review-graph]] [[astrbotdevs-astrbot]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

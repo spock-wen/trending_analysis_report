@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ossu-computer-science]] [[hasaneyldrm-exercises-dataset]] [[knockoutez-wigolo]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]]
+[[agegr-pi-web]] [[pkuflyingpig-cs-self-learning]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[image-gen]]
 

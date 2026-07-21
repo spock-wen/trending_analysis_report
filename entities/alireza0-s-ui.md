@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[knockoutez-wigolo]] [[hashicorp-terraform]] [[msitarzewski-agency-agents]] [[tokio-rs-topcoat]] [[vxcontrol-pentagi]]
+[[agegr-pi-web]] [[chenyme-grok2api]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]] [[schollz-croc]]
 
 **所属领域**: [[web]]
 

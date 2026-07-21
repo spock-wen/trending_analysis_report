@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[knockoutez-wigolo]] [[tirth8205-code-review-graph]] [[topoteretes-cognee]] [[mvanhorn-last30days-skill]]
+[[knockoutez-wigolo]] [[graphify-labs-graphify]] [[mvanhorn-last30days-skill]] [[henryndubuaku-maths-cs-ai-compendium]] [[bojieli-ai-agent-book]]
 
 **所属领域**: [[science]]
 

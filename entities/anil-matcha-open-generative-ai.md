@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[prisma-prisma]] [[ahmadibrahiim-website-downloader]] [[openai-plugins]] [[graphify-labs-graphify]]
+[[coreyhaines31-marketingskills]] [[ahmadibrahiim-website-downloader]] [[trycua-cua]] [[graphify-labs-graphify]] [[1jehuang-jcode]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

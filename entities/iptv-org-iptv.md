@@ -38,7 +38,7 @@ Collection of publicly available IPTV channels from all over the world
 
 ## 相关项目
 
-[[every-app-open-seo]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]] [[diegosouzapw-omniroute]] [[rohitg00-ai-engineering-from-scratch]]
+[[knockoutez-wigolo]] [[1jehuang-jcode]] [[tirth8205-code-review-graph]] [[diegosouzapw-omniroute]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]]
 

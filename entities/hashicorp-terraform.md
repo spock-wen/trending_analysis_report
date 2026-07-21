@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[posthog-posthog]] [[iptv-org-iptv]] [[davila7-claude-code-templates]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]]
+[[posthog-posthog]] [[chenyme-grok2api]] [[schollz-croc]] [[graphify-labs-graphify]] [[1jehuang-jcode]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

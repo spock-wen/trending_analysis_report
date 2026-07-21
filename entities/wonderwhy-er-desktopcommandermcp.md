@@ -38,7 +38,7 @@ This is MCP server for Claude that gives it terminal control, file system search
 
 ## 相关项目
 
-[[moonshotai-kimi-cli]] [[iptv-org-iptv]] [[every-app-open-seo]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]]
+[[alexsjones-llmfit]] [[knockoutez-wigolo]] [[1jehuang-jcode]] [[tirth8205-code-review-graph]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

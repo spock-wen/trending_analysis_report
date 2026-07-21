@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[veracrypt-veracrypt]] [[zackriya-solutions-meetily]] [[tirth8205-code-review-graph]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[bojieli-ai-agent-book]] [[zackriya-solutions-meetily]] [[tirth8205-code-review-graph]] [[astrbotdevs-astrbot]]
 
 **所属领域**: [[security]]
 

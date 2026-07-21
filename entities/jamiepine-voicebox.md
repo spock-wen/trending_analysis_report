@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[iptv-org-iptv]] [[every-app-open-seo]] [[msitarzewski-agency-agents]] [[moonshine-ai-moonshine]] [[moeru-ai-airi]]
+[[knockoutez-wigolo]] [[moonshine-ai-moonshine]] [[kyutai-labs-pocket-tts]] [[1jehuang-jcode]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

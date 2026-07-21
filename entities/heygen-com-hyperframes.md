@@ -34,7 +34,7 @@ Write HTML. Render video. Built for agents.
 
 ## 相关项目
 
-[[knockoutez-wigolo]] [[iptv-org-iptv]] [[every-app-open-seo]] [[msitarzewski-agency-agents]] [[jamiepine-voicebox]]
+[[agegr-pi-web]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]] [[1jehuang-jcode]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

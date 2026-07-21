@@ -36,7 +36,7 @@ Kimi Code CLI is your next CLI agent.
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[iptv-org-iptv]] [[msitarzewski-agency-agents]] [[tirth8205-code-review-graph]] [[jamiepine-voicebox]]
+[[alexsjones-llmfit]] [[1jehuang-jcode]] [[bojieli-ai-agent-book]] [[tirth8205-code-review-graph]] [[astrbotdevs-astrbot]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

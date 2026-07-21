@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ossu-computer-science]] [[robbyant-lingbot-map]] [[knockoutez-wigolo]] [[iptv-org-iptv]] [[posthog-posthog]]
+[[agegr-pi-web]] [[robbyant-lingbot-map]] [[pkuflyingpig-cs-self-learning]] [[posthog-posthog]] [[canner-wrenai]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

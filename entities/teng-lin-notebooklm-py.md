@@ -34,7 +34,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[knockoutez-wigolo]] [[iptv-org-iptv]] [[moonshotai-kimi-cli]] [[msitarzewski-agency-agents]]
+[[agegr-pi-web]] [[chrislgarry-apollo-11]] [[alexsjones-llmfit]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

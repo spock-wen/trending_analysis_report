@@ -1,20 +1,20 @@
 ---
 title: "every-app/open-seo"
 created: 2026-06-26
-updated: 2026-07-21
-last_active: 2026-07-21
+updated: 2026-07-22
+last_active: 2026-07-22
 type: tool
 tags: [typescript]
-sources: [raw/trending/2026-07-21.json]
+sources: [raw/trending/2026-07-22.json]
 confidence: high
-trending_count_daily: 3
+trending_count_daily: 4
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-06-26
-last_trending: 2026-07-21
+last_trending: 2026-07-22
 peak_rank: 7
-total_stars: 5809
+total_stars: 6557
 language: "TypeScript"
 ---
 
@@ -23,18 +23,19 @@ language: "TypeScript"
 Open source alternative to Semrush and Ahrefs
 
 - 语言: TypeScript
-- 上榜次数: 3 次
-- 连续上榜: 1 天
+- 上榜次数: 4 次
+- 连续上榜: 2 天
 - 最高排名: #7
 - 链接: [every-app/open-seo](https://github.com/every-app/open-seo)
 
 ## 上榜历史
 
+  - 2026-07-22: #9, +850⭐
   - 2026-07-21: #10, +983⭐
   - 2026-06-28: #20, +230⭐
   - 2026-06-26: #7, +57⭐
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[iptv-org-iptv]] [[diegosouzapw-omniroute]]
+[[knockoutez-wigolo]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
 

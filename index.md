@@ -1,12 +1,12 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-07-21 | 总页面：380
+> 最后更新：2026-07-22 | 总页面：390
 
 ## Entities
 
 - [[0xnyk-council-of-high-intelligence|council-of-high-intelligence"]] — 18 AI personas deliberate your hardest decisions across mult...
-- [[1jehuang-jcode|jcode"]] — The most intelligent agent harness for code 🆕
+- [[1jehuang-jcode|jcode"]] — The most intelligent agent harness for code 🔥
 - [[666ghj-mirofish|MiroFish"]] — A Simple and Universal Swarm Intelligence Engine, Predicting...
 - [[aaif-goose-goose|goose"]] — an open source, extensible AI agent that goes beyond code su... 🔥
 - [[abseil-abseil-cpp|abseil-cpp"]] — Abseil Common Libraries (C++) 🆕
@@ -14,11 +14,13 @@
 - [[activeloopai-hivemind|hivemind"]] — One brain for all your agents
 - [[addyosmani-agent-skills|agent-skills"]] — Production-grade engineering skills for AI coding agents. 🔥
 - [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i...
+- [[agegr-pi-web|pi-web"]] — Web UI for the pi coding agent 🆕
 - [[agentskills-agentskills|agentskills"]] — Specification and documentation for Agent Skills 🔥
 - [[ahmadibrahiim-website-downloader|Website-downloader"]] — 💡 Download the complete source code of any website (includin...
 - [[aieradev-clypra|Clypra"]] — A modern video editor built with Tauri, React, and TypeScrip...
 - [[aishwaryanr-awesome-generative-ai-guide|awesome-generative-ai-guide"]] — A one stop repository for generative AI research updates, in...
 - [[alchaincyf-zhangxuefeng-skill|zhangxuefeng-skill"]] — 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
+- [[alexsjones-llmfit|llmfit"]] — Hundreds of models & providers. One command to find what run... 🆕
 - [[alexzhang13-rlm|rlm"]] — General plug-and-play inference library for Recursive Langua...
 - [[alibaba-page-agent|page-agent"]] — JavaScript in-page GUI agent. Control web interfaces with na... 🆕
 - [[alibaba-zvec|zvec"]] — A lightweight, lightning-fast, in-process vector database
@@ -46,9 +48,10 @@
 - [[apple-container|container"]] — A tool for creating and running Linux containers using light... 🆕
 - [[aquasecurity-trivy|trivy"]] — Find vulnerabilities, misconfigurations, secrets, SBOM in co... 🔥
 - [[argoproj-argo-cd|argo-cd"]] — Declarative Continuous Deployment for Kubernetes
-- [[astrbotdevs-astrbot|AstrBot"]] — AI Agent Assistant & development framework that integrates l... 🆕
+- [[astrbotdevs-astrbot|AstrBot"]] — AI Agent Assistant & development framework that integrates l... 🔥
 - [[aws-agent-toolkit-for-aws|agent-toolkit-for-aws"]] — Official, AWS-supported MCP servers, skills, and plugins to ... 🆕
 - [[axorax-awesome-free-apps|awesome-free-apps"]] — Curated list of the best free apps for PC and mobile 🔥
+- [[ayghri-i-have-adhd|i-have-adhd"]] — A skill for your coding agent to stop it from burying the an... 🆕
 - [[bannedbook-fanqiang|fanqiang"]] — 翻墙-科学上网
 - [[bigbodycobain-shadowbroker|Shadowbroker"]] — Open-source intelligence for the global theater. Track every... 🆕
 - [[biohub-esm|esm"]] — No description
@@ -72,6 +75,7 @@
 - [[chenyme-grok2api|grok2api"]] — 面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关
 - [[chopratejas-headroom|headroom"]] — Compress tool outputs, logs, files, and RAG chunks before th... 🔥
 - [[chriskohlhoff-asio|asio"]] — Asio C++ Library 🆕
+- [[chrislgarry-apollo-11|Apollo-11"]] — Original Apollo 11 Guidance Computer (AGC) source code for t... 🆕
 - [[chromedevtools-chrome-devtools-mcp|chrome-devtools-mcp"]] — Chrome DevTools for coding agents 🔥
 - [[chthollyphile-folia-major|folia-major"]] — 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
 - [[cloakhq-cloakbrowser|CloakBrowser"]] — Stealth Chromium that passes every bot detection test. Drop-... 🆕
@@ -96,20 +100,23 @@
 - [[dayuanjiang-next-ai-draw-io|next-ai-draw-io"]] — A next.js web application that integrates AI capabilities wi...
 - [[dbt-labs-dbt-core|dbt-core"]] — dbt enables data analysts and engineers to transform their d...
 - [[deusdata-codebase-memory-mcp|codebase-memory-mcp"]] — High-performance code intelligence MCP server. Indexes codeb...
-- [[diegosouzapw-omniroute|OmniRoute"]] — Never stop coding. Free MIT AI gateway: one endpoint, 268+ p...
+- [[diegosouzapw-omniroute|OmniRoute"]] — Never stop coding. Free MIT AI gateway: one endpoint, 268+ p... 🆕
 - [[digitalplatdev-freedomain|FreeDomain"]] — DigitalPlat FreeDomain: Free Domain For Everyone 🔥
 - [[diolinux-photogimp|PhotoGIMP"]] — A Patch for GIMP 3+ for Photoshop Users
+- [[dioxuslabs-dioxus|dioxus"]] — Fullstack app framework for web, desktop, and mobile. 🆕
 - [[dmtrkovalenko-fff|fff"]] — The fastest and the most accurate file search toolkit for AI...
 - [[docusealco-docuseal|docuseal"]] — Open source DocuSign alternative. Create, fill, and sign dig...
 - [[dograh-hq-dograh|dograh"]] — Open Source Voice Agent Platform
 - [[dotnet-aspnetcore|aspnetcore"]] — ASP.NET Core is a cross-platform .NET framework for building...
 - [[dotnet-skills|skills"]] — Repository for skills to assist AI coding agents with .NET a...
+- [[dottxt-ai-outlines|outlines"]] — Structured Outputs 🆕
 - [[dreammis-social-auto-upload|social-auto-upload"]] — 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 - [[earendil-works-pi|pi"]] — AI agent toolkit: coding agent CLI, unified LLM API, TUI & w... 🆕
+- [[earthtojake-text-to-cad|text-to-cad"]] — A collection of agent skills for CAD, robotics and hardware ... 🆕
 - [[elastic-elasticsearch|elasticsearch"]] — Free and Open Source, Distributed, RESTful Search Engine
 - [[elder-plinius-g0dm0d3|G0DM0D3"]] — LIBERATED AI CHAT
 - [[emmabostian-developer-portfolios|developer-portfolios"]] — A list of developer portfolios for your inspiration
-- [[every-app-open-seo|open-seo"]] — Open source alternative to Semrush and Ahrefs
+- [[every-app-open-seo|open-seo"]] — Open source alternative to Semrush and Ahrefs 🆕
 - [[everyinc-compound-engineering-plugin|compound-engineering-plugin"]] — Official Compound Engineering plugin for Claude Code, Codex,... 🔥
 - [[facebook-astryx|astryx"]] — An open source design system that's fully customizable and a...
 - [[fareedkhan-dev-train-llm-from-scratch|train-llm-from-scratch"]] — A straightforward method for training your LLM, from downloa...
@@ -154,6 +161,7 @@
 - [[humanlayer-12-factor-agents|12-factor-agents"]] — What are the principles we can use to build LLM-powered soft... 🆕
 - [[hunxbyts-ghosttrack|GhostTrack"]] — Useful tool to track location or mobile number
 - [[huxingyi-autoremesher|autoremesher"]] — Automatic quad remeshing tool 🆕
+- [[hyprwm-hyprland|Hyprland"]] — Hyprland is an independent, highly customizable, dynamic til... 🆕
 - [[ibelick-ui-skills|ui-skills"]] — Skills for Design Engineers
 - [[icewhaletech-casaos|CasaOS"]] — CasaOS - A simple, easy-to-use, elegant open-source Personal... 🔥
 - [[iii-hq-iii|iii"]] — Effortlessly compose, extend, and observe every service in r...
@@ -225,7 +233,7 @@
 - [[mikeroyal-self-hosting-guide|Self-Hosting-Guide"]] — Self-Hosting Guide. Learn all about locally hosting (on prem...
 - [[mikumifa-bilitickerbuy|biliTickerBuy"]] — b站会员购购票辅助工具
 - [[moeru-ai-airi|airi"]] — 💖🧸 Self hosted, you-owned Grok Companion, a container of sou...
-- [[moonshine-ai-moonshine|moonshine"]] — Very low latency speech to text, intent recognition, and tex... 🆕
+- [[moonshine-ai-moonshine|moonshine"]] — Very low latency speech to text, intent recognition, and tex...
 - [[moonshotai-kimi-cli|kimi-cli"]] — Kimi Code CLI is your next CLI agent. 🔥
 - [[msitarzewski-agency-agents|agency-agents"]] — A complete AI agency at your fingertips - From frontend wiza...
 - [[mukul975-anthropic-cybersecurity-skills|Anthropic-Cybersecurity-Skills"]] — 817 structured cybersecurity skills for AI agents · Mapped t...
@@ -282,7 +290,7 @@
 - [[plausible-analytics|analytics"]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
 - [[posthog-posthog|posthog"]] — 🦔 PostHog is the leading platform for building self-driving ... 🔥
 - [[pppscn-smsforwarder|SmsForwarder"]] — 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内...
-- [[prefecthq-fastmcp|fastmcp"]] — 🚀 The fast, Pythonic way to build MCP servers and clients. 🆕
+- [[prefecthq-fastmcp|fastmcp"]] — 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [[prefecthq-prefect|prefect"]] — Prefect is a workflow orchestration framework for building r...
 - [[prisma-prisma|prisma"]] — Next-generation ORM for Node.js & TypeScript | PostgreSQL, M...
 - [[prismml-eng-bonsai-demo|Bonsai-demo"]] — Bonsai Demo 🆕
@@ -309,6 +317,7 @@
 - [[ryanmcdermott-clean-code-javascript|clean-code-javascript"]] — Clean Code concepts adapted for JavaScript
 - [[safishamsi-graphify|graphify"]] — AI coding assistant skill (Claude Code, Codex, OpenCode, Cur...
 - [[santifer-career-ops|career-ops"]] — AI-powered job search system built on Claude Code. 14 skill ...
+- [[schollz-croc|croc"]] — Easily and securely send things from one computer to another... 🆕
 - [[shanraisshan-claude-code-best-practice|claude-code-best-practice"]] — from vibe coding to agentic engineering - practice makes cla...
 - [[shiyu-coder-kronos|Kronos"]] — Kronos: A Foundation Model for the Language of Financial Mar... 🆕
 - [[shubhamsaboo-awesome-llm-apps|awesome-llm-apps"]] — 100+ AI Agent & RAG apps you can actually run — clone, custo... 🔥
@@ -338,8 +347,9 @@
 - [[tinyhumansai-openhuman|openhuman"]] — Your Personal AI super intelligence. Private, Simple and ext... 🔥
 - [[tirth8205-code-review-graph|code-review-graph"]] — Local-first code intelligence graph for MCP and CLI. Builds ... 🔥
 - [[togatoga-karukan|karukan"]] — Japanese Input Method System for Linux, macOS, Neural Kana-K...
-- [[tokio-rs-topcoat|topcoat"]] — A batteries-included framework for building web apps 🆕
+- [[tokio-rs-topcoat|topcoat"]] — A batteries-included framework for building web apps
 - [[topoteretes-cognee|cognee"]] — Cognee is the open-source AI memory platform for agents. Giv...
+- [[tradesdontlie-tradingview-mcp|tradingview-mcp"]] — AI-assisted TradingView chart analysis — connect Claude Code... 🆕
 - [[trimstray-the-book-of-secret-knowledge|the-book-of-secret-knowledge"]] — A collection of inspiring lists, manuals, cheatsheets, blogs... 🆕
 - [[truelockmc-streambert|streambert"]] — A cross-platform Electron Desktop App to stream and download... 🆕
 - [[trycua-cua|cua"]] — Scale computer-use 2.0 with open-source drivers, cross-OS fl...

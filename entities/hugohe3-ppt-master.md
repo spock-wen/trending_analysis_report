@@ -34,7 +34,7 @@ AI generates a real, editable PowerPoint from any document — native shapes & a
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[iptv-org-iptv]] [[openinterpreter-openinterpreter]] [[prisma-prisma]] [[ahmadibrahiim-website-downloader]]
+[[graphify-labs-graphify]] [[1jehuang-jcode]] [[moeru-ai-airi]] [[dottxt-ai-outlines]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[image-gen]] [[audio]]
 

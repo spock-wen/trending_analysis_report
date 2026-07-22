@@ -36,7 +36,7 @@ JavaScript in-page GUI agent. Control web interfaces with natural language.
 
 ## 相关项目
 
-[[agegr-pi-web]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]] [[1jehuang-jcode]] [[tirth8205-code-review-graph]]
+[[oblien-openship]] [[microsoft-ontology-playground]] [[dioxuslabs-dioxus]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

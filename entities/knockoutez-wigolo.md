@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[agegr-pi-web]] [[dioxuslabs-dioxus]] [[graphify-labs-graphify]] [[1jehuang-jcode]] [[mvanhorn-last30days-skill]]
+[[oblien-openship]] [[microsoft-ontology-playground]] [[henryndubuaku-maths-cs-ai-compendium]] [[dioxuslabs-dioxus]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

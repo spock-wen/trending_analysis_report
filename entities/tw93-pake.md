@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[agegr-pi-web]] [[tokio-rs-topcoat]] [[chrislgarry-apollo-11]] [[alexsjones-llmfit]] [[knockoutez-wigolo]]
+[[microsoft-ontology-playground]] [[chrislgarry-apollo-11]] [[dioxuslabs-dioxus]] [[tirth8205-code-review-graph]] [[ruvnet-ruview]]
 
 **所属领域**: [[web]] [[cli]]
 

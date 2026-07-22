@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[chenyme-grok2api]] [[schollz-croc]] [[hashicorp-terraform]] [[1jehuang-jcode]]
+[[schollz-croc]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[affaan-m-ecc]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

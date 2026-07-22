@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[moonshine-ai-moonshine]] [[kyutai-labs-pocket-tts]] [[moeru-ai-airi]] [[bojieli-ai-agent-book]]
+[[moonshine-ai-moonshine]] [[ayghri-i-have-adhd]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[cli]] [[audio]]
 

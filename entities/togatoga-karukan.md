@@ -34,5 +34,5 @@ Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engi
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[1jehuang-jcode]] [[alexsjones-llmfit]] [[dioxuslabs-dioxus]]
+[[pumpkin-mc-pumpkin]] [[1jehuang-jcode]] [[ruvnet-ruview]] [[dioxuslabs-dioxus]]
 

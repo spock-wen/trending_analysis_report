@@ -34,7 +34,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[moonshine-ai-moonshine]] [[kyutai-labs-pocket-tts]] [[1jehuang-jcode]] [[moeru-ai-airi]] [[bojieli-ai-agent-book]]
+[[moonshine-ai-moonshine]] [[ayghri-i-have-adhd]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

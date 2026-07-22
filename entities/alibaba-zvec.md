@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[posthog-posthog]] [[robbyant-lingbot-map]] [[canner-wrenai]] [[moonshine-ai-moonshine]] [[trycua-cua]]
+[[moonshine-ai-moonshine]] [[posthog-posthog]] [[canner-wrenai]] [[hyprwm-hyprland]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[data]]
 

@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[knockoutez-wigolo]] [[tirth8205-code-review-graph]] [[diegosouzapw-omniroute]] [[koala73-worldmonitor]]
+[[oblien-openship]] [[jamiepine-voicebox]] [[tirth8205-code-review-graph]] [[koala73-worldmonitor]] [[alexsjones-llmfit]]
 
 **所属领域**: [[cli]]
 

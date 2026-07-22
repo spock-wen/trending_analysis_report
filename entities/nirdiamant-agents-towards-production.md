@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[posthog-posthog]] [[pkuflyingpig-cs-self-learning]] [[openinterpreter-openinterpreter]] [[anthropics-cwc-workshops]] [[zeux-meshoptimizer]]
+[[oblien-openship]] [[posthog-posthog]] [[microsoft-ontology-playground]] [[anthropics-cwc-workshops]] [[zeux-meshoptimizer]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

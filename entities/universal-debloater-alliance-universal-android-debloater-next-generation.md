@@ -36,7 +36,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[affaan-m-ecc]] [[alexsjones-llmfit]] [[dioxuslabs-dioxus]] [[ahmadibrahiim-website-downloader]]
+[[ahmadibrahiim-website-downloader]] [[dioxuslabs-dioxus]] [[affaan-m-ecc]] [[ruvnet-ruview]] [[pumpkin-mc-pumpkin]]
 
 **所属领域**: [[security]] [[image-gen]]
 

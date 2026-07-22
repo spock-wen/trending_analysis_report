@@ -37,7 +37,7 @@ The most intelligent agent harness for code
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[alexsjones-llmfit]] [[dioxuslabs-dioxus]] [[tirth8205-code-review-graph]] [[diegosouzapw-omniroute]]
+[[dioxuslabs-dioxus]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[ruvnet-ruview]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]]
 

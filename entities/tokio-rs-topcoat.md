@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[agegr-pi-web]] [[alexsjones-llmfit]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]] [[1jehuang-jcode]]
+[[microsoft-ontology-playground]] [[dioxuslabs-dioxus]] [[ruvnet-ruview]] [[pumpkin-mc-pumpkin]] [[knockoutez-wigolo]]
 
 **所属领域**: [[web]]
 

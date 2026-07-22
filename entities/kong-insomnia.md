@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[agegr-pi-web]] [[chrislgarry-apollo-11]] [[alexsjones-llmfit]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]]
+[[oblien-openship]] [[microsoft-ontology-playground]] [[dioxuslabs-dioxus]] [[jamiepine-voicebox]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[web]] [[cli]]
 

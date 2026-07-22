@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[posthog-posthog]] [[robbyant-lingbot-map]] [[canner-wrenai]] [[knockoutez-wigolo]] [[trycua-cua]]
+[[oblien-openship]] [[posthog-posthog]] [[trycua-cua]] [[canner-wrenai]] [[jamiepine-voicebox]]
 
 **所属领域**: [[data]] [[devops]]
 

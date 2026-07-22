@@ -38,7 +38,7 @@ An advanced guide to learn English which might benefit you a lot 🎉 . 人生�
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[microsoft-ai-for-beginners]] [[rohitg00-ai-engineering-from-scratch]] [[microsoft-ontology-playground]]
+[[rohitg00-ai-engineering-from-scratch]] [[microsoft-ontology-playground]] [[microsoft-ai-for-beginners]] [[pkuflyingpig-cs-self-learning]]
 
 **所属领域**: [[education]]
 

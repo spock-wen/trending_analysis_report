@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[posthog-posthog]] [[robbyant-lingbot-map]] [[chenyme-grok2api]] [[canner-wrenai]] [[trycua-cua]]
+[[posthog-posthog]] [[schollz-croc]] [[trycua-cua]] [[canner-wrenai]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -35,5 +35,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[openai-plugins]] [[coreyhaines31-marketingskills]] [[tradesdontlie-tradingview-mcp]] [[earthtojake-text-to-cad]]
+[[openai-plugins]] [[earthtojake-text-to-cad]] [[coreyhaines31-marketingskills]] [[tradesdontlie-tradingview-mcp]]
 

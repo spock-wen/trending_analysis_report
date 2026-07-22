@@ -38,7 +38,7 @@ Music Assistant is a free, opensource Media library manager that connects to you
 
 ## 相关项目
 
-[[moonshine-ai-moonshine]] [[kyutai-labs-pocket-tts]] [[moeru-ai-airi]] [[bojieli-ai-agent-book]] [[tirth8205-code-review-graph]]
+[[moonshine-ai-moonshine]] [[ayghri-i-have-adhd]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[audio]]
 

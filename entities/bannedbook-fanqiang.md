@@ -35,5 +35,5 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[pppscn-smsforwarder]] [[yairm210-unciv]] [[andreknieriem-headunit-revived]]
+[[andreknieriem-headunit-revived]] [[pppscn-smsforwarder]] [[yairm210-unciv]]
 

@@ -37,5 +37,5 @@ Open source alternative to Semrush and Ahrefs
 
 ## 相关项目
 
-[[knockoutez-wigolo]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
+[[oblien-openship]] [[jamiepine-voicebox]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
 

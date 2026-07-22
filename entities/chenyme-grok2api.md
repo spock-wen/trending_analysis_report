@@ -34,7 +34,7 @@ language: "Go"
 
 ## 相关项目
 
-[[agegr-pi-web]] [[chrislgarry-apollo-11]] [[alexsjones-llmfit]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]]
+[[microsoft-ontology-playground]] [[schollz-croc]] [[dioxuslabs-dioxus]] [[tirth8205-code-review-graph]] [[tailscale-tailscale]]
 
 **所属领域**: [[web]] [[cli]]
 

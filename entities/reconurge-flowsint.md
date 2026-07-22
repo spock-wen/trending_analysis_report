@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[knockoutez-wigolo]] [[zackriya-solutions-meetily]] [[diegosouzapw-omniroute]] [[home-assistant-core]]
+[[oblien-openship]] [[jamiepine-voicebox]] [[affaan-m-ecc]] [[koala73-worldmonitor]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[security]]
 

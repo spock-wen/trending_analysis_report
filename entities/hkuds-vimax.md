@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ahmadibrahiim-website-downloader]] [[trycua-cua]] [[graphify-labs-graphify]] [[1jehuang-jcode]] [[bojieli-ai-agent-book]]
+[[ayghri-i-have-adhd]] [[trycua-cua]] [[ahmadibrahiim-website-downloader]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

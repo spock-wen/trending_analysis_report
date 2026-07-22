@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[agegr-pi-web]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]] [[bojieli-ai-agent-book]] [[tirth8205-code-review-graph]]
+[[microsoft-ontology-playground]] [[ayghri-i-have-adhd]] [[dioxuslabs-dioxus]] [[rohitg00-ai-engineering-from-scratch]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[web]]
 

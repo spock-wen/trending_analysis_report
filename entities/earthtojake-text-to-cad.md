@@ -34,7 +34,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[1jehuang-jcode]] [[tradesdontlie-tradingview-mcp]] [[tirth8205-code-review-graph]] [[diegosouzapw-omniroute]]
+[[tradesdontlie-tradingview-mcp]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[koala73-worldmonitor]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[knockoutez-wigolo]] [[graphify-labs-graphify]] [[1jehuang-jcode]] [[microsoft-ai-for-beginners]]
+[[microsoft-ontology-playground]] [[henryndubuaku-maths-cs-ai-compendium]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

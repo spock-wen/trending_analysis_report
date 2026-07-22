@@ -35,5 +35,5 @@ Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[1jehuang-jcode]] [[alexsjones-llmfit]] [[dioxuslabs-dioxus]]
+[[pumpkin-mc-pumpkin]] [[1jehuang-jcode]] [[ruvnet-ruview]] [[dioxuslabs-dioxus]]
 

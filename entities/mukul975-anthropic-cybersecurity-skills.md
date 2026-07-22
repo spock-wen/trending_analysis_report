@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[alexsjones-llmfit]] [[veracrypt-veracrypt]] [[1jehuang-jcode]] [[bojieli-ai-agent-book]]
+[[ayghri-i-have-adhd]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[shiyu-coder-kronos]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

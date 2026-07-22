@@ -34,5 +34,5 @@ Effortlessly compose, extend, and observe every service in real-time for the fir
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[1jehuang-jcode]] [[alexsjones-llmfit]] [[dioxuslabs-dioxus]]
+[[pumpkin-mc-pumpkin]] [[1jehuang-jcode]] [[ruvnet-ruview]] [[dioxuslabs-dioxus]]
 

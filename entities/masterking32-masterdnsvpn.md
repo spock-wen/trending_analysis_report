@@ -36,7 +36,7 @@ Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[chenyme-grok2api]] [[schollz-croc]] [[hashicorp-terraform]] [[zackriya-solutions-meetily]]
+[[schollz-croc]] [[affaan-m-ecc]] [[zackriya-solutions-meetily]] [[veracrypt-veracrypt]] [[tailscale-tailscale]]
 
 **所属领域**: [[security]]
 

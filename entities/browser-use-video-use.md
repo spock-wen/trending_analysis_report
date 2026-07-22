@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[agegr-pi-web]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]] [[1jehuang-jcode]] [[bojieli-ai-agent-book]]
+[[microsoft-ontology-playground]] [[ayghri-i-have-adhd]] [[dioxuslabs-dioxus]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

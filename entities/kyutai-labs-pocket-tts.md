@@ -35,7 +35,7 @@ A TTS that fits in your CPU (and pocket)
 
 ## 相关项目
 
-[[moonshine-ai-moonshine]] [[1jehuang-jcode]] [[moeru-ai-airi]] [[bojieli-ai-agent-book]] [[tirth8205-code-review-graph]]
+[[moonshine-ai-moonshine]] [[ayghri-i-have-adhd]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

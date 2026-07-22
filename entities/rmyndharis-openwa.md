@@ -36,5 +36,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[knockoutez-wigolo]] [[every-app-open-seo]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
+[[oblien-openship]] [[jamiepine-voicebox]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
 

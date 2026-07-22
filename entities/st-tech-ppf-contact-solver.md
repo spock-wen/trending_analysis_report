@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[bojieli-ai-agent-book]] [[tirth8205-code-review-graph]] [[astrbotdevs-astrbot]] [[diegosouzapw-omniroute]]
+[[ayghri-i-have-adhd]] [[rohitg00-ai-engineering-from-scratch]] [[shiyu-coder-kronos]] [[tirth8205-code-review-graph]] [[alexsjones-llmfit]]
 
 **所属领域**: [[cli]]
 

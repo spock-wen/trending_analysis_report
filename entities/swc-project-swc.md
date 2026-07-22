@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[agegr-pi-web]] [[tokio-rs-topcoat]] [[alexsjones-llmfit]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]]
+[[microsoft-ontology-playground]] [[dioxuslabs-dioxus]] [[ruvnet-ruview]] [[pumpkin-mc-pumpkin]] [[knockoutez-wigolo]]
 
 **所属领域**: [[web]]
 

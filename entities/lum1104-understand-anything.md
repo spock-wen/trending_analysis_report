@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[alexsjones-llmfit]] [[knockoutez-wigolo]] [[microsoft-ontology-playground]] [[1jehuang-jcode]]
+[[oblien-openship]] [[microsoft-ontology-playground]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

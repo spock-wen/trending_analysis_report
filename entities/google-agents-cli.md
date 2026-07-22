@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[posthog-posthog]] [[alexsjones-llmfit]] [[graphify-labs-graphify]] [[1jehuang-jcode]] [[oblien-openship]]
+[[oblien-openship]] [[posthog-posthog]] [[ayghri-i-have-adhd]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

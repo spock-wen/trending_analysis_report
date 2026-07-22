@@ -34,5 +34,5 @@ C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[hyprwm-hyprland]] [[microsoft-terminal]] [[moonshine-ai-moonshine]]
+[[microsoft-terminal]] [[moonshine-ai-moonshine]] [[protocolbuffers-protobuf]] [[hyprwm-hyprland]]
 

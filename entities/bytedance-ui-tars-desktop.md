@@ -34,7 +34,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[posthog-posthog]] [[knockoutez-wigolo]] [[graphify-labs-graphify]] [[1jehuang-jcode]] [[oblien-openship]]
+[[oblien-openship]] [[posthog-posthog]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

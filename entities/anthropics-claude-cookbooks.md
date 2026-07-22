@@ -37,7 +37,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[1jehuang-jcode]] [[microsoft-ai-for-beginners]] [[nvidia-cosmos]] [[lyogavin-airllm]] [[tirth8205-code-review-graph]]
+[[microsoft-ai-for-beginners]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-cosmos]] [[jamiepine-voicebox]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]]
 

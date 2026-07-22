@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[alexsjones-llmfit]] [[dioxuslabs-dioxus]] [[1jehuang-jcode]] [[tirth8205-code-review-graph]]
+[[chrislgarry-apollo-11]] [[dioxuslabs-dioxus]] [[tirth8205-code-review-graph]] [[ruvnet-ruview]] [[pumpkin-mc-pumpkin]]
 
 **所属领域**: [[cli]]
 

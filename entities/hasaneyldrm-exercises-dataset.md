@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[agegr-pi-web]] [[robbyant-lingbot-map]] [[pkuflyingpig-cs-self-learning]] [[posthog-posthog]] [[canner-wrenai]]
+[[diegosouzapw-omniroute]] [[microsoft-ontology-playground]] [[posthog-posthog]] [[canner-wrenai]] [[dioxuslabs-dioxus]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

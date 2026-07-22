@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[1jehuang-jcode]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[tirth8205-code-review-graph]]
+[[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[tirth8205-code-review-graph]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

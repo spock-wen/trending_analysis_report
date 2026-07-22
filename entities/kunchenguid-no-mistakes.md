@@ -35,5 +35,5 @@ git push no-mistakes
 
 ## 相关项目
 
-[[schollz-croc]] [[hashicorp-terraform]] [[chenyme-grok2api]] [[tailscale-tailscale]]
+[[tailscale-tailscale]] [[hashicorp-terraform]] [[schollz-croc]] [[chenyme-grok2api]]
 

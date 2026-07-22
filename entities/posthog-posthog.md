@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[agegr-pi-web]] [[robbyant-lingbot-map]] [[canner-wrenai]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]]
+[[oblien-openship]] [[microsoft-ontology-playground]] [[ayghri-i-have-adhd]] [[trycua-cua]] [[canner-wrenai]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

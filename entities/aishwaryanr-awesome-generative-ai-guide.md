@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[agegr-pi-web]] [[pkuflyingpig-cs-self-learning]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]] [[trycua-cua]]
+[[diegosouzapw-omniroute]] [[microsoft-ontology-playground]] [[henryndubuaku-maths-cs-ai-compendium]] [[dioxuslabs-dioxus]] [[ossu-computer-science]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

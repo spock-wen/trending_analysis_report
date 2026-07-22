@@ -38,5 +38,5 @@ Python tool for converting files and office documents to Markdown.
 
 ## 相关项目
 
-[[bojieli-ai-agent-book]] [[dottxt-ai-outlines]] [[tirth8205-code-review-graph]] [[astrbotdevs-astrbot]]
+[[rohitg00-ai-engineering-from-scratch]] [[shiyu-coder-kronos]] [[tirth8205-code-review-graph]] [[ayghri-i-have-adhd]]
 

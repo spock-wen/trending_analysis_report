@@ -34,7 +34,7 @@ GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL throug
 
 ## 相关项目
 
-[[posthog-posthog]] [[robbyant-lingbot-map]] [[alexsjones-llmfit]] [[trycua-cua]] [[1jehuang-jcode]]
+[[posthog-posthog]] [[ayghri-i-have-adhd]] [[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[1jehuang-jcode]] [[microsoft-ai-for-beginners]] [[rohitg00-ai-engineering-from-scratch]] [[bojieli-ai-agent-book]]
+[[microsoft-ontology-playground]] [[ayghri-i-have-adhd]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

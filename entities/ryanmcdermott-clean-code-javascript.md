@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[openai-plugins]] [[coreyhaines31-marketingskills]] [[tradesdontlie-tradingview-mcp]] [[earthtojake-text-to-cad]]
+[[openai-plugins]] [[earthtojake-text-to-cad]] [[coreyhaines31-marketingskills]] [[tradesdontlie-tradingview-mcp]]
 

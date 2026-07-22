@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[anthropics-claude-cookbooks]] [[1jehuang-jcode]] [[rohitg00-ai-engineering-from-scratch]] [[lyogavin-airllm]]
+[[microsoft-ontology-playground]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[nvidia-cosmos]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

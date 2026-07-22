@@ -34,7 +34,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[knockoutez-wigolo]] [[graphify-labs-graphify]] [[1jehuang-jcode]] [[mvanhorn-last30days-skill]] [[henryndubuaku-maths-cs-ai-compendium]]
+[[ayghri-i-have-adhd]] [[henryndubuaku-maths-cs-ai-compendium]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

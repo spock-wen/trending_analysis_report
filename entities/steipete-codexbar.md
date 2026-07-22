@@ -36,7 +36,7 @@ Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[apple-container]] [[1jehuang-jcode]] [[tirth8205-code-review-graph]] [[palmier-io-palmier-pro]]
+[[altic-dev-fluidvoice]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[apple-container]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]]
 

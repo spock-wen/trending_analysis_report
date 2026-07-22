@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[agegr-pi-web]] [[knockoutez-wigolo]] [[dioxuslabs-dioxus]] [[trycua-cua]] [[microsoft-ai-for-beginners]]
+[[microsoft-ontology-playground]] [[dioxuslabs-dioxus]] [[ossu-computer-science]] [[rohitg00-ai-engineering-from-scratch]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[web]] [[education]]
 

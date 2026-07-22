@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[bojieli-ai-agent-book]] [[zackriya-solutions-meetily]] [[tirth8205-code-review-graph]] [[astrbotdevs-astrbot]]
+[[ayghri-i-have-adhd]] [[rohitg00-ai-engineering-from-scratch]] [[shiyu-coder-kronos]] [[tirth8205-code-review-graph]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

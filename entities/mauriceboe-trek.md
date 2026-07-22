@@ -35,5 +35,5 @@ A self-hosted travel/trip planner with real-time collaboration, interactive maps
 
 ## 相关项目
 
-[[knockoutez-wigolo]] [[every-app-open-seo]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
+[[oblien-openship]] [[jamiepine-voicebox]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
 

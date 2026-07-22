@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[openinterpreter-openinterpreter]] [[anthropics-cwc-workshops]] [[zeux-meshoptimizer]] [[1jehuang-jcode]]
+[[prismml-eng-bonsai-demo]] [[anthropics-cwc-workshops]] [[mattpocock-skills]] [[zeux-meshoptimizer]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

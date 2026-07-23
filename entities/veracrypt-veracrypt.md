@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[affaan-m-ecc]] [[microsoft-powertoys]] [[zackriya-solutions-meetily]] [[home-assistant-core]]
+[[home-assistant-core]] [[zackriya-solutions-meetily]] [[automattic-harper]] [[deusdata-codebase-memory-mcp]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

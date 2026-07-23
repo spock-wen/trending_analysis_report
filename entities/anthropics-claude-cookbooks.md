@@ -37,7 +37,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-cosmos]] [[jamiepine-voicebox]] [[koala73-worldmonitor]]
+[[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]] [[nvidia-cosmos]]
 
 **所属领域**: [[ai-agent]]
 

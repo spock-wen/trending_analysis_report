@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[trycua-cua]] [[ahmadibrahiim-website-downloader]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]]
+[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[agegr-pi-web]] [[trycua-cua]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

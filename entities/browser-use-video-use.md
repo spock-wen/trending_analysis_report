@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[microsoft-ontology-playground]] [[ayghri-i-have-adhd]] [[dioxuslabs-dioxus]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]]
+[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

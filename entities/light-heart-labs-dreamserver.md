@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[moonshine-ai-moonshine]] [[ayghri-i-have-adhd]] [[trycua-cua]] [[ahmadibrahiim-website-downloader]] [[rohitg00-ai-engineering-from-scratch]]
+[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[agegr-pi-web]] [[trycua-cua]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

@@ -36,7 +36,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[microsoft-ontology-playground]] [[ayghri-i-have-adhd]] [[dioxuslabs-dioxus]] [[rohitg00-ai-engineering-from-scratch]] [[shiyu-coder-kronos]]
+[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[knockoutez-wigolo]]
 
 **所属领域**: [[web]]
 

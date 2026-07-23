@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[oblien-openship]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[koala73-worldmonitor]] [[mvanhorn-last30days-skill]]
+[[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]] [[knockoutez-wigolo]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

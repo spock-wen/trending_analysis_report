@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[posthog-posthog]] [[schollz-croc]] [[trycua-cua]] [[canner-wrenai]] [[rohitg00-ai-engineering-from-scratch]]
+[[agegr-pi-web]] [[posthog-posthog]] [[schollz-croc]] [[trycua-cua]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

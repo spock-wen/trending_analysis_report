@@ -37,7 +37,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[moonshine-ai-moonshine]] [[steipete-codexbar]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[moeru-ai-airi]]
+[[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]] [[steipete-codexbar]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

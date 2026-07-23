@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[oblien-openship]] [[microsoft-ontology-playground]] [[henryndubuaku-maths-cs-ai-compendium]] [[dioxuslabs-dioxus]] [[rohitg00-ai-engineering-from-scratch]]
+[[agegr-pi-web]] [[henryndubuaku-maths-cs-ai-compendium]] [[dioxuslabs-dioxus]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

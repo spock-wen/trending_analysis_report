@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[microsoft-ontology-playground]] [[henryndubuaku-maths-cs-ai-compendium]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[microsoft-ai-for-beginners]]
+[[agegr-pi-web]] [[rohitg00-ai-engineering-from-scratch]] [[henryndubuaku-maths-cs-ai-compendium]] [[microsoft-ontology-playground]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

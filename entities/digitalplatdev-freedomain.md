@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[diegosouzapw-omniroute]] [[microsoft-ontology-playground]] [[dioxuslabs-dioxus]] [[ossu-computer-science]] [[rohitg00-ai-engineering-from-scratch]]
+[[agegr-pi-web]] [[trycua-cua]] [[dioxuslabs-dioxus]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

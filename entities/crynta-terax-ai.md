@@ -34,7 +34,7 @@ Lightweight (7MB) Terminal-first AI-native dev workspace
 
 ## 相关项目
 
-[[oblien-openship]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[tirth8205-code-review-graph]] [[koala73-worldmonitor]]
+[[agegr-pi-web]] [[tirth8205-code-review-graph]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

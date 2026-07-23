@@ -34,7 +34,7 @@ AI-assisted TradingView chart analysis — connect Claude Code to your TradingVi
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[earthtojake-text-to-cad]] [[koala73-worldmonitor]] [[openai-plugins]]
+[[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]] [[coreyhaines31-marketingskills]]
 
 **所属领域**: [[ai-agent]]
 

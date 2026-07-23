@@ -36,7 +36,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[moonshine-ai-moonshine]] [[ayghri-i-have-adhd]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[shiyu-coder-kronos]]
+[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

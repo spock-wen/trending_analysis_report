@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[microsoft-ontology-playground]] [[dioxuslabs-dioxus]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[microsoft-ai-for-beginners]]
+[[agegr-pi-web]] [[rohitg00-ai-engineering-from-scratch]] [[microsoft-ontology-playground]] [[dioxuslabs-dioxus]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

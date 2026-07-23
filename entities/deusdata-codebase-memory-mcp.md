@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[posthog-posthog]] [[trycua-cua]] [[canner-wrenai]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]]
+[[veracrypt-veracrypt]] [[agegr-pi-web]] [[posthog-posthog]] [[trycua-cua]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[microsoft-ontology-playground]] [[chrislgarry-apollo-11]] [[dioxuslabs-dioxus]] [[tirth8205-code-review-graph]] [[ruvnet-ruview]]
+[[block-buzz]] [[agegr-pi-web]] [[tirth8205-code-review-graph]] [[dioxuslabs-dioxus]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -34,7 +34,7 @@ language: "Go"
 
 ## 相关项目
 
-[[microsoft-ontology-playground]] [[schollz-croc]] [[dioxuslabs-dioxus]] [[tirth8205-code-review-graph]] [[tailscale-tailscale]]
+[[agegr-pi-web]] [[tirth8205-code-review-graph]] [[schollz-croc]] [[dioxuslabs-dioxus]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[web]] [[cli]]
 

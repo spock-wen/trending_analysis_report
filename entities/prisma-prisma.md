@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[oblien-openship]] [[posthog-posthog]] [[trycua-cua]] [[canner-wrenai]] [[ahmadibrahiim-website-downloader]]
+[[agegr-pi-web]] [[posthog-posthog]] [[trycua-cua]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[data]] [[image-gen]]
 

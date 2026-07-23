@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[diegosouzapw-omniroute]] [[microsoft-ontology-playground]] [[posthog-posthog]] [[canner-wrenai]] [[dioxuslabs-dioxus]]
+[[agegr-pi-web]] [[posthog-posthog]] [[trycua-cua]] [[dioxuslabs-dioxus]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[microsoft-ontology-playground]] [[ayghri-i-have-adhd]] [[microsoft-ai-for-beginners]] [[jamiepine-voicebox]] [[shiyu-coder-kronos]]
+[[agegr-pi-web]] [[tirth8205-code-review-graph]] [[microsoft-ontology-playground]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

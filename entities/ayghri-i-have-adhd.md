@@ -35,7 +35,7 @@ A skill for your coding agent to stop it from burying the answer. ADHD-friendly 
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[shiyu-coder-kronos]] [[tirth8205-code-review-graph]] [[koala73-worldmonitor]]
+[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[posthog-posthog]] [[trycua-cua]] [[canner-wrenai]] [[elastic-elasticsearch]] [[rohitg00-ai-engineering-from-scratch]]
+[[agegr-pi-web]] [[elastic-elasticsearch]] [[posthog-posthog]] [[trycua-cua]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

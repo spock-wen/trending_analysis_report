@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[steipete-codexbar]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[apple-container]]
+[[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]] [[steipete-codexbar]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[microsoft-ontology-playground]] [[posthog-posthog]] [[trycua-cua]] [[canner-wrenai]] [[dioxuslabs-dioxus]]
+[[block-buzz]] [[agegr-pi-web]] [[posthog-posthog]] [[home-assistant-core]] [[dioxuslabs-dioxus]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

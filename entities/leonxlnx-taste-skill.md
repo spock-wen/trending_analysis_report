@@ -38,7 +38,7 @@ Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
 
 ## 相关项目
 
-[[tradesdontlie-tradingview-mcp]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[earthtojake-text-to-cad]] [[koala73-worldmonitor]]
+[[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]] [[tradesdontlie-tradingview-mcp]]
 
 **所属领域**: [[ai-agent]]
 

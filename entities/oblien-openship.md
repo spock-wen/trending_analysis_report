@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[posthog-posthog]] [[jamiepine-voicebox]] [[ruvnet-ruview]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
+[[agegr-pi-web]] [[posthog-posthog]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[likec4-likec4]]
 
 **所属领域**: [[devops]]
 

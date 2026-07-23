@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-cwc-workshops]] [[ayghri-i-have-adhd]] [[henryndubuaku-maths-cs-ai-compendium]] [[zeux-meshoptimizer]] [[rohitg00-ai-engineering-from-scratch]]
+[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[agegr-pi-web]] [[obra-superpowers]] [[henryndubuaku-maths-cs-ai-compendium]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

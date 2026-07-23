@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[microsoft-ontology-playground]] [[andreknieriem-headunit-revived]] [[yairm210-unciv]] [[dioxuslabs-dioxus]] [[bannedbook-fanqiang]]
+[[agegr-pi-web]] [[dioxuslabs-dioxus]] [[andreknieriem-headunit-revived]] [[knockoutez-wigolo]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[web]]
 

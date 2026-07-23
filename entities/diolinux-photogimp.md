@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[anthropics-cwc-workshops]] [[microsoft-ontology-playground]] [[zeux-meshoptimizer]] [[dioxuslabs-dioxus]] [[openinterpreter-openinterpreter]]
+[[agegr-pi-web]] [[obra-superpowers]] [[dioxuslabs-dioxus]] [[anthropics-cwc-workshops]] [[zeux-meshoptimizer]]
 
 **所属领域**: [[web]] [[erp]]
 

@@ -1,0 +1,143 @@
+{
+  "date": "2026-07-24",
+  "scraped_at": "2026-07-24T07:00:46.290833",
+  "period": "daily",
+  "count": 15,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars_today": 2460,
+      "total_stars": 6744,
+      "url": "https://github.com/block/buzz"
+    },
+    {
+      "rank": 2,
+      "repo": "koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars_today": 3196,
+      "total_stars": 71477,
+      "url": "https://github.com/koala73/worldmonitor"
+    },
+    {
+      "rank": 3,
+      "repo": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars_today": 398,
+      "total_stars": 33016,
+      "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+      "rank": 4,
+      "repo": "Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars_today": 563,
+      "total_stars": 8879,
+      "url": "https://github.com/Pumpkin-MC/Pumpkin"
+    },
+    {
+      "rank": 5,
+      "repo": "citrolabs/ego-lite",
+      "description": "The best browser for both you and your AI agents work in parallel.",
+      "language": "JavaScript",
+      "stars_today": 219,
+      "total_stars": 1585,
+      "url": "https://github.com/citrolabs/ego-lite"
+    },
+    {
+      "rank": 6,
+      "repo": "chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars_today": 599,
+      "total_stars": 71078,
+      "url": "https://github.com/chrislgarry/Apollo-11"
+    },
+    {
+      "rank": 7,
+      "repo": "diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars_today": 1925,
+      "total_stars": 27078,
+      "url": "https://github.com/diegosouzapw/OmniRoute"
+    },
+    {
+      "rank": 8,
+      "repo": "ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars_today": 637,
+      "total_stars": 69390,
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+    },
+    {
+      "rank": 9,
+      "repo": "earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "JavaScript",
+      "stars_today": 293,
+      "total_stars": 9949,
+      "url": "https://github.com/earthtojake/text-to-cad"
+    },
+    {
+      "rank": 10,
+      "repo": "agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "stars_today": 315,
+      "total_stars": 2340,
+      "url": "https://github.com/agegr/pi-web"
+    },
+    {
+      "rank": 11,
+      "repo": "alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_today": 265,
+      "total_stars": 11457,
+      "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+      "rank": 12,
+      "repo": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_today": 1726,
+      "total_stars": 85165,
+      "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+      "rank": 13,
+      "repo": "likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "stars_today": 475,
+      "total_stars": 4669,
+      "url": "https://github.com/likec4/likec4"
+    },
+    {
+      "rank": 14,
+      "repo": "Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "stars_today": 590,
+      "total_stars": 12232,
+      "url": "https://github.com/Automattic/harper"
+    },
+    {
+      "rank": 15,
+      "repo": "jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "language": "C#",
+      "stars_today": 66,
+      "total_stars": 54716,
+      "url": "https://github.com/jellyfin/jellyfin"
+    }
+  ]
+}

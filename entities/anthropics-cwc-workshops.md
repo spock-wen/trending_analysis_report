@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[oblien-openship]] [[zeux-meshoptimizer]] [[jamiepine-voicebox]] [[openinterpreter-openinterpreter]] [[koala73-worldmonitor]]
+[[agegr-pi-web]] [[obra-superpowers]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[zeux-meshoptimizer]]
 
 **所属领域**: [[erp]]
 

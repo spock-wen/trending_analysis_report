@@ -37,5 +37,5 @@ Meshery, the cloud native manager
 
 ## 相关项目
 
-[[oblien-openship]] [[jamiepine-voicebox]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
+[[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[likec4-likec4]]
 

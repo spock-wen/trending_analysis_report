@@ -35,7 +35,7 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[oblien-openship]] [[microsoft-ontology-playground]] [[dioxuslabs-dioxus]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]]
+[[agegr-pi-web]] [[tirth8205-code-review-graph]] [[dioxuslabs-dioxus]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

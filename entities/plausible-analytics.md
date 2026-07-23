@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[microsoft-ontology-playground]] [[teslamate-org-teslamate]] [[posthog-posthog]] [[canner-wrenai]] [[dioxuslabs-dioxus]]
+[[agegr-pi-web]] [[posthog-posthog]] [[home-assistant-core]] [[zackriya-solutions-meetily]] [[dioxuslabs-dioxus]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

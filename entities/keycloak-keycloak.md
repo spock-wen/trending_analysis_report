@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[elastic-elasticsearch]] [[github-copilot-sdk]] [[affaan-m-ecc]] [[apache-maven]] [[zackriya-solutions-meetily]]
+[[home-assistant-core]] [[elastic-elasticsearch]] [[zackriya-solutions-meetily]] [[automattic-harper]] [[github-copilot-sdk]]
 
 **所属领域**: [[security]]
 

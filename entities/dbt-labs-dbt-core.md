@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[posthog-posthog]] [[canner-wrenai]] [[dioxuslabs-dioxus]] [[robbyant-lingbot-map]] [[ruvnet-ruview]]
+[[block-buzz]] [[posthog-posthog]] [[trycua-cua]] [[automattic-harper]] [[alibaba-open-code-review]]
 
 **所属领域**: [[data]]
 

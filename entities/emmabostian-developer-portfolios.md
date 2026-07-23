@@ -34,5 +34,5 @@ A list of developer portfolios for your inspiration
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[shiyu-coder-kronos]] [[tirth8205-code-review-graph]] [[ayghri-i-have-adhd]]
+[[rohitg00-ai-engineering-from-scratch]] [[composiohq-awesome-claude-skills]] [[shiyu-coder-kronos]] [[tirth8205-code-review-graph]]
 

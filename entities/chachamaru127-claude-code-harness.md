@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[prismml-eng-bonsai-demo]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[tirth8205-code-review-graph]]
+[[agegr-pi-web]] [[prismml-eng-bonsai-demo]] [[tirth8205-code-review-graph]] [[obra-superpowers]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

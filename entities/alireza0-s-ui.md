@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[microsoft-ontology-playground]] [[schollz-croc]] [[dioxuslabs-dioxus]] [[knockoutez-wigolo]] [[agegr-pi-web]]
+[[agegr-pi-web]] [[schollz-croc]] [[dioxuslabs-dioxus]] [[knockoutez-wigolo]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[web]]
 

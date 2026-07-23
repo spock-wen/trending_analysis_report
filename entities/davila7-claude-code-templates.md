@@ -36,7 +36,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[oblien-openship]] [[posthog-posthog]] [[ayghri-i-have-adhd]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]]
+[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[agegr-pi-web]] [[oblien-openship]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

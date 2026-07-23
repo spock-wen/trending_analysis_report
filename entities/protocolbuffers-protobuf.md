@@ -34,7 +34,7 @@ Protocol Buffers - Google's data interchange format
 
 ## 相关项目
 
-[[moonshine-ai-moonshine]] [[posthog-posthog]] [[canner-wrenai]] [[hyprwm-hyprland]] [[robbyant-lingbot-map]]
+[[posthog-posthog]] [[hyprwm-hyprland]] [[trycua-cua]] [[microsoft-terminal]] [[alibaba-open-code-review]]
 
 **所属领域**: [[data]]
 

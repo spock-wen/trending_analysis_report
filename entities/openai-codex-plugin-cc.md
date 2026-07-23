@@ -38,7 +38,7 @@ Use Codex from Claude Code to review code or delegate tasks.
 
 ## 相关项目
 
-[[tradesdontlie-tradingview-mcp]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[earthtojake-text-to-cad]] [[koala73-worldmonitor]]
+[[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]] [[tradesdontlie-tradingview-mcp]]
 
 **所属领域**: [[ai-agent]]
 

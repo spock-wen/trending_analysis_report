@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[chrislgarry-apollo-11]] [[dioxuslabs-dioxus]] [[tirth8205-code-review-graph]] [[ruvnet-ruview]] [[pumpkin-mc-pumpkin]]
+[[block-buzz]] [[tirth8205-code-review-graph]] [[diegosouzapw-omniroute]] [[automattic-harper]] [[chrislgarry-apollo-11]]
 
 **所属领域**: [[cli]]
 

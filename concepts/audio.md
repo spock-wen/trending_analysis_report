@@ -1,7 +1,7 @@
 ---
 title: "audio"
 created: 2026-05-31
-updated: 2026-07-23
+updated: 2026-07-24
 type: concept
 tags: [audio]
 confidence: medium
@@ -9,7 +9,7 @@ confidence: medium
 
 # audio
 
-## 领域项目（共 16 个，今日上榜 1 个）
+## 领域项目（共 16 个，今日上榜 0 个）
 
 [[jamiepine-voicebox]] [[moonshine-ai-moonshine]] [[moeru-ai-airi]] [[kyutai-labs-pocket-tts]] [[altic-dev-fluidvoice]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[openbmb-voxcpm]] [[music-assistant-server]] [[open-llm-vtuber-open-llm-vtuber]] [[openmoss-moss-tts]] [[alishahryar1-free-claude-code]] [[yt-dlp-yt-dlp]] [[supertone-inc-supertonic]] [[dograh-hq-dograh]] [[light-heart-labs-dreamserver]]
 
@@ -19,5 +19,5 @@ Python 11个, TypeScript 2个, Swift 2个, C++ 1个
 
 ## 趋势观察
 
-16 个 audio 领域项目被追踪，其中 1 个今日同时上榜，反映该领域持续活跃。
+16 个 audio 领域项目被追踪，其中 0 个今日同时上榜，反映该领域持续活跃。
 

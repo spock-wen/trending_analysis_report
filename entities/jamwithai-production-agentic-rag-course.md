@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[microsoft-ontology-playground]] [[ayghri-i-have-adhd]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[shiyu-coder-kronos]]
+[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[agegr-pi-web]] [[microsoft-ontology-playground]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

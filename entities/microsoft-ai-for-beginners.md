@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[microsoft-ontology-playground]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[nvidia-cosmos]] [[koala73-worldmonitor]]
+[[agegr-pi-web]] [[rohitg00-ai-engineering-from-scratch]] [[microsoft-ontology-playground]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

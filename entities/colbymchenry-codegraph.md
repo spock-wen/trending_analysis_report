@@ -38,7 +38,7 @@ Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H
 
 ## 相关项目
 
-[[oblien-openship]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
+[[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]] [[likec4-likec4]]
 
 **所属领域**: [[ai-agent]]
 

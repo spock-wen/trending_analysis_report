@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[oblien-openship]] [[microsoft-ontology-playground]] [[moonshine-ai-moonshine]] [[dioxuslabs-dioxus]] [[rohitg00-ai-engineering-from-scratch]]
+[[agegr-pi-web]] [[dioxuslabs-dioxus]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[oblien-openship]] [[trycua-cua]] [[ahmadibrahiim-website-downloader]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]]
+[[agegr-pi-web]] [[trycua-cua]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

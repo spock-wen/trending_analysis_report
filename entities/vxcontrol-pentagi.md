@@ -34,7 +34,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[schollz-croc]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[koala73-worldmonitor]] [[tailscale-tailscale]]
+[[agegr-pi-web]] [[schollz-croc]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[ai-agent]]
 

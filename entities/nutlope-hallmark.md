@@ -38,7 +38,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## 相关项目
 
-[[microsoft-ontology-playground]] [[dioxuslabs-dioxus]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[koala73-worldmonitor]]
+[[agegr-pi-web]] [[dioxuslabs-dioxus]] [[koala73-worldmonitor]] [[diolinux-photogimp]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

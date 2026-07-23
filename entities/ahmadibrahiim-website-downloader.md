@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[microsoft-ontology-playground]] [[dioxuslabs-dioxus]] [[ossu-computer-science]] [[prisma-prisma]] [[knockoutez-wigolo]]
+[[agegr-pi-web]] [[trycua-cua]] [[dioxuslabs-dioxus]] [[pkuflyingpig-cs-self-learning]] [[prisma-prisma]]
 
 **所属领域**: [[web]] [[image-gen]]
 

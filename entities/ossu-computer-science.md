@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[microsoft-ontology-playground]] [[dioxuslabs-dioxus]] [[knockoutez-wigolo]] [[agegr-pi-web]] [[hasaneyldrm-exercises-dataset]]
+[[agegr-pi-web]] [[trycua-cua]] [[dioxuslabs-dioxus]] [[pkuflyingpig-cs-self-learning]] [[knockoutez-wigolo]]
 
 **所属领域**: [[web]]
 

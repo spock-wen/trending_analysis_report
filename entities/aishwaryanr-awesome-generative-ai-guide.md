@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[diegosouzapw-omniroute]] [[microsoft-ontology-playground]] [[henryndubuaku-maths-cs-ai-compendium]] [[dioxuslabs-dioxus]] [[ossu-computer-science]]
+[[agegr-pi-web]] [[henryndubuaku-maths-cs-ai-compendium]] [[trycua-cua]] [[dioxuslabs-dioxus]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

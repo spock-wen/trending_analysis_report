@@ -35,7 +35,7 @@ The API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[oblien-openship]] [[microsoft-ontology-playground]] [[dioxuslabs-dioxus]] [[jamiepine-voicebox]] [[koala73-worldmonitor]]
+[[agegr-pi-web]] [[dioxuslabs-dioxus]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[knockoutez-wigolo]]
 
 **所属领域**: [[web]]
 

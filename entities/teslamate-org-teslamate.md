@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[posthog-posthog]] [[trycua-cua]] [[canner-wrenai]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]]
+[[agegr-pi-web]] [[posthog-posthog]] [[trycua-cua]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

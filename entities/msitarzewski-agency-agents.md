@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[prismml-eng-bonsai-demo]] [[microsoft-ontology-playground]] [[mattpocock-skills]] [[dioxuslabs-dioxus]] [[rohitg00-ai-engineering-from-scratch]]
+[[agegr-pi-web]] [[prismml-eng-bonsai-demo]] [[tirth8205-code-review-graph]] [[obra-superpowers]] [[dioxuslabs-dioxus]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

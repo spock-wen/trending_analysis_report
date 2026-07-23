@@ -36,7 +36,7 @@ Lightning-Fast, On-Device, Multilingual TTS running natively via ONNX.
 
 ## 相关项目
 
-[[moonshine-ai-moonshine]] [[altic-dev-fluidvoice]] [[steipete-codexbar]] [[jamiepine-voicebox]] [[moeru-ai-airi]]
+[[moeru-ai-airi]] [[steipete-codexbar]] [[kyutai-labs-pocket-tts]] [[palmier-io-palmier-pro]] [[jamiepine-voicebox]]
 
 **所属领域**: [[audio]]
 

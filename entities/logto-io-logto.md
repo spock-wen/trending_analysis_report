@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[oblien-openship]] [[posthog-posthog]] [[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[ruvnet-ruview]]
+[[agegr-pi-web]] [[oblien-openship]] [[posthog-posthog]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

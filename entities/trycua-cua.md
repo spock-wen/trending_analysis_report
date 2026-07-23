@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[microsoft-ontology-playground]] [[posthog-posthog]] [[canner-wrenai]] [[ahmadibrahiim-website-downloader]] [[dioxuslabs-dioxus]]
+[[agegr-pi-web]] [[posthog-posthog]] [[dioxuslabs-dioxus]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

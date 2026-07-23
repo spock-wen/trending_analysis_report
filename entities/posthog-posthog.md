@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[oblien-openship]] [[microsoft-ontology-playground]] [[ayghri-i-have-adhd]] [[trycua-cua]] [[canner-wrenai]]
+[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[agegr-pi-web]] [[oblien-openship]] [[dioxuslabs-dioxus]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

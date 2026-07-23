@@ -37,7 +37,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[microsoft-ai-for-beginners]] [[nvidia-cosmos]] [[jamiepine-voicebox]] [[koala73-worldmonitor]]
+[[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]] [[nvidia-cosmos]]
 
 **所属领域**: [[ai-agent]]
 

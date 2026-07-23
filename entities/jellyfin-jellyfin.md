@@ -1,20 +1,20 @@
 ---
 title: "jellyfin/jellyfin"
 created: 2026-05-27
-updated: 2026-05-27
-last_active: 2026-05-27
+updated: 2026-07-24
+last_active: 2026-07-24
 type: tool
 tags: [tool]
-sources: [raw/trending/2026-05-27.json]
-confidence: low
-trending_count_daily: 1
+sources: [raw/trending/2026-07-24.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-05-27
-last_trending: 2026-05-27
+last_trending: 2026-07-24
 peak_rank: 9
-total_stars: 52358
+total_stars: 54716
 language: "C#"
 ---
 
@@ -23,16 +23,17 @@ language: "C#"
 The Free Software Media System - Server Backend & API
 
 - 语言: C#
-- 上榜次数: 1 次
+- 上榜次数: 2 次
 - 连续上榜: 1 天
 - 最高排名: #9
 - 链接: [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 
 ## 上榜历史
 
+  - 2026-07-24: #15, +66⭐
   - 2026-05-27: #9, +91⭐
 
 ## 相关项目
 
-[[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]] [[iofficeai-officecli]] [[par274-sharpemu]]
+[[k1tbyte-wand-enhancer]] [[dotnet-aspnetcore]] [[par274-sharpemu]]
 

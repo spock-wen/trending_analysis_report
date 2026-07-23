@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[oblien-openship]] [[jamiepine-voicebox]] [[affaan-m-ecc]] [[koala73-worldmonitor]] [[zackriya-solutions-meetily]]
+[[agegr-pi-web]] [[home-assistant-core]] [[zackriya-solutions-meetily]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[security]]
 

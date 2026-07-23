@@ -34,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[iofficeai-officecli]] [[par274-sharpemu]] [[zackriya-solutions-meetily]] [[veracrypt-veracrypt]]
+[[home-assistant-core]] [[zackriya-solutions-meetily]] [[par274-sharpemu]] [[automattic-harper]] [[k1tbyte-wand-enhancer]]
 
 **所属领域**: [[security]]
 

@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[oblien-openship]] [[moonshine-ai-moonshine]] [[rohitg00-ai-engineering-from-scratch]] [[moeru-ai-airi]] [[koala73-worldmonitor]]
+[[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]] [[kyutai-labs-pocket-tts]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

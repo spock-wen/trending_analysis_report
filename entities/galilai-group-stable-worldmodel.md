@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[henryndubuaku-maths-cs-ai-compendium]] [[trycua-cua]] [[ahmadibrahiim-website-downloader]] [[rohitg00-ai-engineering-from-scratch]]
+[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[agegr-pi-web]] [[henryndubuaku-maths-cs-ai-compendium]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

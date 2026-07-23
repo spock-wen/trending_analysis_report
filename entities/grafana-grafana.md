@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[oblien-openship]] [[posthog-posthog]] [[trycua-cua]] [[canner-wrenai]] [[jamiepine-voicebox]]
+[[agegr-pi-web]] [[oblien-openship]] [[posthog-posthog]] [[trycua-cua]] [[koala73-worldmonitor]]
 
 **所属领域**: [[data]] [[devops]]
 

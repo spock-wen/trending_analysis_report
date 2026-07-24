@@ -37,7 +37,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
+[[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[kyutai-labs-pocket-tts]] [[shiyu-coder-kronos]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

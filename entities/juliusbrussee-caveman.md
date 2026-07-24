@@ -37,7 +37,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]] [[tradesdontlie-tradingview-mcp]]
+[[citrolabs-ego-lite]] [[mattpocock-skills]] [[tradesdontlie-tradingview-mcp]] [[earthtojake-text-to-cad]] [[corebunch-instatic]]
 
 **所属领域**: [[ai-agent]]
 

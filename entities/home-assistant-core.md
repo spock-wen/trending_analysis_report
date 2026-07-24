@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[zackriya-solutions-meetily]] [[automattic-harper]] [[composiohq-awesome-claude-skills]]
+[[rohitg00-ai-engineering-from-scratch]] [[shiyu-coder-kronos]] [[tirth8205-code-review-graph]] [[composiohq-awesome-claude-skills]] [[automattic-harper]]
 
 **所属领域**: [[security]]
 

@@ -34,7 +34,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[agegr-pi-web]] [[henryndubuaku-maths-cs-ai-compendium]] [[koala73-worldmonitor]]
+[[rohitg00-ai-engineering-from-scratch]] [[henryndubuaku-maths-cs-ai-compendium]] [[knockoutez-wigolo]] [[shiyu-coder-kronos]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

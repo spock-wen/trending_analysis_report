@@ -38,7 +38,7 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[block-buzz]] [[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]]
+[[mattpocock-skills]] [[block-buzz]] [[automattic-harper]] [[ruvnet-ruview]] [[corebunch-instatic]]
 
 **所属领域**: [[ai-agent]]
 

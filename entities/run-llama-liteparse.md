@@ -35,5 +35,5 @@ A fast, helpful, and open-source document parser
 
 ## 相关项目
 
-[[block-buzz]] [[ruvnet-ruview]] [[automattic-harper]] [[pumpkin-mc-pumpkin]]
+[[pumpkin-mc-pumpkin]] [[ruvnet-ruview]] [[block-buzz]] [[automattic-harper]]
 

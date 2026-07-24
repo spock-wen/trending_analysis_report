@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[agegr-pi-web]] [[posthog-posthog]] [[trycua-cua]]
+[[rohitg00-ai-engineering-from-scratch]] [[prisma-prisma]] [[shiyu-coder-kronos]] [[tirth8205-code-review-graph]] [[composiohq-awesome-claude-skills]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

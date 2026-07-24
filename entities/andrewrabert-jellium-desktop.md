@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[block-buzz]] [[tirth8205-code-review-graph]] [[diegosouzapw-omniroute]] [[automattic-harper]] [[chrislgarry-apollo-11]]
+[[yorukot-superfile]] [[mattpocock-skills]] [[block-buzz]] [[automattic-harper]] [[ruvnet-ruview]]
 
 **所属领域**: [[cli]]
 

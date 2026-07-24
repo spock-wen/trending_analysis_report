@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]] [[docusealco-docuseal]]
+[[docusealco-docuseal]] [[mattpocock-skills]] [[corebunch-instatic]] [[diegosouzapw-omniroute]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]] [[knockoutez-wigolo]]
+[[knockoutez-wigolo]] [[mvanhorn-last30days-skill]] [[mattpocock-skills]] [[corebunch-instatic]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -38,7 +38,7 @@ agent multiplexer that lives in your terminal.
 
 ## 相关项目
 
-[[block-buzz]] [[agegr-pi-web]] [[tirth8205-code-review-graph]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
+[[yorukot-superfile]] [[mattpocock-skills]] [[block-buzz]] [[automattic-harper]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

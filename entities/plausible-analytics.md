@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[agegr-pi-web]] [[posthog-posthog]] [[home-assistant-core]] [[zackriya-solutions-meetily]] [[dioxuslabs-dioxus]]
+[[citrolabs-ego-lite]] [[automattic-harper]] [[zackriya-solutions-meetily]] [[corebunch-instatic]] [[ottermind-chat2db]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

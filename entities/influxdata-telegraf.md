@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[agegr-pi-web]] [[posthog-posthog]] [[schollz-croc]] [[trycua-cua]] [[koala73-worldmonitor]]
+[[chenyme-grok2api]] [[yorukot-superfile]] [[schollz-croc]] [[mattpocock-skills]] [[corebunch-instatic]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

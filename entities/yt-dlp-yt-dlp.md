@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[diegosouzapw-omniroute]] [[chrislgarry-apollo-11]] [[alexsjones-llmfit]]
+[[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[kyutai-labs-pocket-tts]] [[shiyu-coder-kronos]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[cli]] [[audio]]
 

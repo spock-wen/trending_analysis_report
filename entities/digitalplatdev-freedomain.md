@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[agegr-pi-web]] [[trycua-cua]] [[dioxuslabs-dioxus]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
+[[koala73-worldmonitor]] [[citrolabs-ego-lite]] [[dioxuslabs-dioxus]] [[mattpocock-skills]] [[corebunch-instatic]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

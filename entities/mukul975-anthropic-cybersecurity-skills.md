@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[agegr-pi-web]] [[home-assistant-core]] [[zackriya-solutions-meetily]]
+[[rohitg00-ai-engineering-from-scratch]] [[shiyu-coder-kronos]] [[tirth8205-code-review-graph]] [[composiohq-awesome-claude-skills]] [[yorukot-superfile]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

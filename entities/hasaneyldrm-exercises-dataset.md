@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[agegr-pi-web]] [[posthog-posthog]] [[trycua-cua]] [[dioxuslabs-dioxus]] [[koala73-worldmonitor]]
+[[robbyant-lingbot-map]] [[citrolabs-ego-lite]] [[dioxuslabs-dioxus]] [[pkuflyingpig-cs-self-learning]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

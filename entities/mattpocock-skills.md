@@ -1,44 +1,54 @@
 ---
 title: "mattpocock/skills"
 created: 2026-05-16
-updated: 2026-07-17
-last_active: 2026-07-17
+updated: 2026-07-25
+last_active: 2026-07-25
 type: framework
-tags: [shell, ai-agent, cli, rising]
-sources: [raw/trending/2026-07-17.json]
+tags: [shell, ai-agent, cli]
+sources: [raw/trending/2026-07-25.json]
 confidence: high
-trending_count_daily: 11
+trending_count_daily: 12
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 3
+consecutive_days: 1
 first_trending: 2026-05-16
-last_trending: 2026-07-17
+last_trending: 2026-07-25
 peak_rank: 2
-total_stars: 174167
+total_stars: 186626
 language: "Shell"
 ---
 
 # mattpocock/skills
 
-Skills for Real Engineers. Straight from my .claude directory.
+Skills for Real Engineers. Straight from my .agents directory.
 
 - 语言: Shell
-- 上榜次数: 11 次
-- 连续上榜: 3 天
+- 上榜次数: 12 次
+- 连续上榜: 1 天
 - 最高排名: #2
 - 链接: [mattpocock/skills](https://github.com/mattpocock/skills)
 
 ## 上榜历史
 
+  - 2026-07-25: #13, +2224⭐
   - 2026-07-17: #12, +2073⭐
   - 2026-07-16: #3, +2160⭐
   - 2026-07-15: #2, +1864⭐
   - 2026-07-11: #6, +1663⭐
-  - 2026-07-05: #15, +1013⭐
 
 ## 相关项目
 
-[[agegr-pi-web]] [[prismml-eng-bonsai-demo]] [[tirth8205-code-review-graph]] [[obra-superpowers]] [[msitarzewski-agency-agents]]
+[[prismml-eng-bonsai-demo]] [[yorukot-superfile]] [[corebunch-instatic]] [[chrislgarry-apollo-11]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
+
+
+## ⚠️ 描述变更（2026-07-25）
+
+该项目描述近期发生过重大变化，可能存在定位调整：
+
+- **旧描述**: Skills for Real Engineers. Straight from my .claude directory.
+- **新描述**: Skills for Real Engineers. Straight from my .agents directory.
+
+> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

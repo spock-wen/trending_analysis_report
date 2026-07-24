@@ -36,5 +36,5 @@ Curated list of the best free apps for PC and mobile
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[earthtojake-text-to-cad]] [[tradesdontlie-tradingview-mcp]] [[coreyhaines31-marketingskills]]
+[[citrolabs-ego-lite]] [[tradesdontlie-tradingview-mcp]] [[coreyhaines31-marketingskills]] [[earthtojake-text-to-cad]]
 

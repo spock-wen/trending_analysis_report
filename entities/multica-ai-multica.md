@@ -36,7 +36,7 @@ The open-source managed agents platform. Turn coding agents into real teammates 
 
 ## 相关项目
 
-[[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]] [[likec4-likec4]]
+[[mattpocock-skills]] [[corebunch-instatic]] [[diegosouzapw-omniroute]] [[likec4-likec4]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[block-buzz]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[automattic-harper]] [[knockoutez-wigolo]]
+[[citrolabs-ego-lite]] [[block-buzz]] [[automattic-harper]] [[ruvnet-ruview]] [[corebunch-instatic]]
 
 **所属领域**: [[web]]
 

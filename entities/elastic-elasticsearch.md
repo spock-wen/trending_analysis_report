@@ -34,5 +34,5 @@ Free and Open Source, Distributed, RESTful Search Engine
 
 ## 相关项目
 
-[[keycloak-keycloak]] [[github-copilot-sdk]] [[apache-maven]]
+[[ottermind-chat2db]] [[github-copilot-sdk]] [[apache-maven]]
 

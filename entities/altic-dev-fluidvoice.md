@@ -37,7 +37,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]] [[steipete-codexbar]]
+[[jamiepine-voicebox]] [[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[palmier-io-palmier-pro]] [[apple-container]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

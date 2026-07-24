@@ -38,5 +38,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
 
 ## 相关项目
 
-[[block-buzz]] [[ruvnet-ruview]] [[automattic-harper]] [[pumpkin-mc-pumpkin]]
+[[pumpkin-mc-pumpkin]] [[ruvnet-ruview]] [[block-buzz]] [[automattic-harper]]
 

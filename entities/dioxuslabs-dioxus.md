@@ -35,7 +35,7 @@ Fullstack app framework for web, desktop, and mobile.
 
 ## 相关项目
 
-[[block-buzz]] [[agegr-pi-web]] [[automattic-harper]] [[knockoutez-wigolo]] [[citrolabs-ego-lite]]
+[[citrolabs-ego-lite]] [[block-buzz]] [[automattic-harper]] [[ruvnet-ruview]] [[corebunch-instatic]]
 
 **所属领域**: [[web]]
 

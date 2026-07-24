@@ -34,7 +34,7 @@ language: "Go"
 
 ## 相关项目
 
-[[agegr-pi-web]] [[tirth8205-code-review-graph]] [[schollz-croc]] [[dioxuslabs-dioxus]] [[diegosouzapw-omniroute]]
+[[citrolabs-ego-lite]] [[yorukot-superfile]] [[schollz-croc]] [[mattpocock-skills]] [[corebunch-instatic]]
 
 **所属领域**: [[web]] [[cli]]
 

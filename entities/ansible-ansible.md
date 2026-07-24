@@ -35,7 +35,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[agegr-pi-web]] [[oblien-openship]] [[posthog-posthog]]
+[[rohitg00-ai-engineering-from-scratch]] [[oblien-openship]] [[citrolabs-ego-lite]] [[dioxuslabs-dioxus]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

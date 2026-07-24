@@ -34,5 +34,5 @@ Effortlessly compose, extend, and observe every service in real-time for the fir
 
 ## 相关项目
 
-[[block-buzz]] [[ruvnet-ruview]] [[automattic-harper]] [[pumpkin-mc-pumpkin]]
+[[pumpkin-mc-pumpkin]] [[ruvnet-ruview]] [[block-buzz]] [[automattic-harper]]
 

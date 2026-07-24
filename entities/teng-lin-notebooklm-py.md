@@ -34,7 +34,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[koala73-worldmonitor]]
+[[rohitg00-ai-engineering-from-scratch]] [[citrolabs-ego-lite]] [[dioxuslabs-dioxus]] [[shiyu-coder-kronos]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

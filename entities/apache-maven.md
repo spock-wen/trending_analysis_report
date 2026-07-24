@@ -34,5 +34,5 @@ Apache Maven core
 
 ## 相关项目
 
-[[elastic-elasticsearch]] [[github-copilot-sdk]] [[keycloak-keycloak]]
+[[ottermind-chat2db]] [[github-copilot-sdk]] [[elastic-elasticsearch]]
 

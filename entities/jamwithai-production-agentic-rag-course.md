@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[agegr-pi-web]] [[microsoft-ontology-playground]] [[koala73-worldmonitor]]
+[[rohitg00-ai-engineering-from-scratch]] [[shiyu-coder-kronos]] [[tirth8205-code-review-graph]] [[composiohq-awesome-claude-skills]] [[pkuflyingpig-cs-self-learning]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

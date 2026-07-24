@@ -34,5 +34,5 @@ A YAML parser and emitter in C++
 
 ## 相关项目
 
-[[microsoft-terminal]] [[moonshine-ai-moonshine]] [[hyprwm-hyprland]] [[protocolbuffers-protobuf]]
+[[protocolbuffers-protobuf]] [[microsoft-terminal]] [[moonshine-ai-moonshine]] [[hyprwm-hyprland]]
 

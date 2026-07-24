@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[agegr-pi-web]] [[dioxuslabs-dioxus]] [[andreknieriem-headunit-revived]] [[knockoutez-wigolo]] [[citrolabs-ego-lite]]
+[[bannedbook-fanqiang]] [[citrolabs-ego-lite]] [[andreknieriem-headunit-revived]] [[corebunch-instatic]] [[yairm210-unciv]]
 
 **所属领域**: [[web]]
 

@@ -34,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[home-assistant-core]] [[zackriya-solutions-meetily]] [[par274-sharpemu]] [[automattic-harper]] [[k1tbyte-wand-enhancer]]
+[[dotnet-aspnetcore]] [[par274-sharpemu]] [[automattic-harper]] [[jellyfin-jellyfin]] [[zackriya-solutions-meetily]]
 
 **所属领域**: [[security]]
 

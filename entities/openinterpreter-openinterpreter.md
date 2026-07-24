@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[block-buzz]] [[agegr-pi-web]] [[obra-superpowers]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
+[[anthropics-cwc-workshops]] [[mattpocock-skills]] [[block-buzz]] [[automattic-harper]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

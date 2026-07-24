@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[block-buzz]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[automattic-harper]] [[knockoutez-wigolo]]
+[[citrolabs-ego-lite]] [[block-buzz]] [[automattic-harper]] [[ruvnet-ruview]] [[corebunch-instatic]]
 
 **所属领域**: [[web]]
 

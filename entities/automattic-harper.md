@@ -1,20 +1,20 @@
 ---
 title: "Automattic/harper"
 created: 2026-07-24
-updated: 2026-07-24
-last_active: 2026-07-24
+updated: 2026-07-25
+last_active: 2026-07-25
 type: tool
 tags: [rust, security]
-sources: [raw/trending/2026-07-24.json]
-confidence: low
-trending_count_daily: 1
+sources: [raw/trending/2026-07-25.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-07-24
-last_trending: 2026-07-24
-peak_rank: 14
-total_stars: 12232
+last_trending: 2026-07-25
+peak_rank: 6
+total_stars: 13010
 language: "Rust"
 ---
 
@@ -23,18 +23,19 @@ language: "Rust"
 Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 - 语言: Rust
-- 上榜次数: 1 次
-- 连续上榜: 1 天
-- 最高排名: #14
+- 上榜次数: 2 次
+- 连续上榜: 2 天
+- 最高排名: #6
 - 链接: [Automattic/harper](https://github.com/Automattic/harper)
 
 ## 上榜历史
 
+  - 2026-07-25: #6, +877⭐
   - 2026-07-24: #14, +590⭐
 
 ## 相关项目
 
-[[block-buzz]] [[home-assistant-core]] [[zackriya-solutions-meetily]] [[affaan-m-ecc]] [[ruvnet-ruview]]
+[[block-buzz]] [[ruvnet-ruview]] [[home-assistant-core]] [[zackriya-solutions-meetily]] [[pumpkin-mc-pumpkin]]
 
 **所属领域**: [[security]]
 

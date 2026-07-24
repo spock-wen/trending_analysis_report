@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[agegr-pi-web]] [[tirth8205-code-review-graph]] [[microsoft-ontology-playground]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
+[[shiyu-coder-kronos]] [[tirth8205-code-review-graph]] [[composiohq-awesome-claude-skills]] [[pkuflyingpig-cs-self-learning]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

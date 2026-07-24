@@ -36,7 +36,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
+[[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[kyutai-labs-pocket-tts]] [[shiyu-coder-kronos]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

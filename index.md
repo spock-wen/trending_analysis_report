@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-07-24 | 总页面：397
+> 最后更新：2026-07-25 | 总页面：400
 
 ## Entities
 
@@ -22,7 +22,7 @@
 - [[alchaincyf-zhangxuefeng-skill|zhangxuefeng-skill"]] — 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 - [[alexsjones-llmfit|llmfit"]] — Hundreds of models & providers. One command to find what run...
 - [[alexzhang13-rlm|rlm"]] — General plug-and-play inference library for Recursive Langua...
-- [[alibaba-open-code-review|open-code-review"]] — Open-source & free — Battle-tested at Alibaba's scale. Hybri... 🆕
+- [[alibaba-open-code-review|open-code-review"]] — Open-source & free — Battle-tested at Alibaba's scale. Hybri...
 - [[alibaba-page-agent|page-agent"]] — JavaScript in-page GUI agent. Control web interfaces with na... 🆕
 - [[alibaba-zvec|zvec"]] — A lightweight, lightning-fast, in-process vector database
 - [[alireza0-s-ui|s-ui"]] — An advanced Web Panel • Built for SagerNet/Sing-Box
@@ -81,17 +81,17 @@
 - [[chrislgarry-apollo-11|Apollo-11"]] — Original Apollo 11 Guidance Computer (AGC) source code for t... 🔥
 - [[chromedevtools-chrome-devtools-mcp|chrome-devtools-mcp"]] — Chrome DevTools for coding agents 🔥
 - [[chthollyphile-folia-major|folia-major"]] — 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
-- [[citrolabs-ego-lite|ego-lite"]] — The best browser for both you and your AI agents work in par... 🆕
+- [[citrolabs-ego-lite|ego-lite"]] — The fastest browser for AI agents to run web automation, bui... 🆕
 - [[cloakhq-cloakbrowser|CloakBrowser"]] — Stealth Chromium that passes every bot detection test. Drop-... 🆕
 - [[codecrafters-io-build-your-own-x|build-your-own-x"]] — Master programming by recreating your favorite technologies ... 🔥
 - [[colbymchenry-codegraph|codegraph"]] — Pre-indexed code knowledge graph for Claude Code, Codex, Cur... 🔥
 - [[colemurray-background-agents|background-agents"]] — An open-source background agents coding system
 - [[commaai-openpilot|openpilot"]] — openpilot is an operating system for robotics. Currently, it... 🔥
-- [[composiohq-awesome-claude-skills|awesome-claude-skills"]] — A curated list of awesome Claude Skills, resources, and tool... 🆕
+- [[composiohq-awesome-claude-skills|awesome-claude-skills"]] — A curated list of awesome Claude Skills, resources, and tool... 🔥
 - [[continuedev-continue|continue"]] — open-source coding agent
 - [[copilotkit-copilotkit|CopilotKit"]] — The Frontend Stack for Agents & Generative UI. React, Angula...
 - [[coplaydev-unity-mcp|unity-mcp"]] — Unity MCP acts as a bridge between AI assistants and your Un... 🆕
-- [[corebunch-instatic|Instatic"]] — Instatic is a modern self-hosted visual CMS - get it running... 🆕
+- [[corebunch-instatic|Instatic"]] — The open-source alternative to Webflow, Framer and WordPress...
 - [[coreyhaines31-marketingskills|marketingskills"]] — Marketing skills for Claude Code and AI agents. CRO, copywri...
 - [[crosstalk-solutions-project-nomad|project-nomad"]] — Project N.O.M.A.D, is a self-contained, offline survival com...
 - [[crynta-terax-ai|terax-ai"]] — Lightweight (7MB) Terminal-first AI-native dev workspace
@@ -209,10 +209,11 @@
 - [[libretranslate-libretranslate|LibreTranslate"]] — Free and Open Source Machine Translation API. Self-hosted, o...
 - [[light-heart-labs-dreamserver|DreamServer"]] — Local AI anywhere, for everyone — LLM inference, chat UI, vo...
 - [[lightricks-ltx-2|LTX-2"]] — Official Python inference and LoRA trainer package for the L... 🆕
-- [[likec4-likec4|likec4"]] — Visualize, collaborate, and evolve the software architecture... 🆕
+- [[likec4-likec4|likec4"]] — Visualize, collaborate, and evolve the software architecture... 🔥
 - [[lmcache-lmcache|LMCache"]] — LMCache: Supercharge Your LLM with the Fastest KV Cache Laye... 🆕
 - [[lobehub-lobehub|lobehub"]] — 🤯 LobeHub is your Chief Agent Operator, organizing your agen...
 - [[logto-io-logto|logto"]] — 🧑‍🚀 Authentication and authorization infrastructure for SaaS...
+- [[lordog-dive-into-llms|dive-into-llms"]] — 《动手学大模型Dive into LLMs》系列编程实践教程 🆕
 - [[lum1104-understand-anything|Understand-Anything"]] — Graphs that teach > graphs that impress. Turn any code into ... 🔥
 - [[luongnv89-claude-howto|claude-howto"]] — A visual, example-driven guide to Claude Code — from basic c...
 - [[lyogavin-airllm|airllm"]] — AirLLM 70B inference with single 4GB GPU 🆕
@@ -222,7 +223,7 @@
 - [[manaflow-ai-cmux|cmux"]] — Ghostty-based macOS terminal with vertical tabs and notifica... 🔥
 - [[masterking32-masterdnsvpn|MasterDnsVPN"]] — Advanced DNS tunneling VPN for censorship bypass, optimized ... 🔥
 - [[mattermost-mattermost|mattermost"]] — Mattermost is an open source platform for secure collaborati... 🆕
-- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .claude director... 🔥
+- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .agents director...
 - [[mauriceboe-trek|TREK"]] — A self-hosted travel/trip planner with real-time collaborati... 🆕
 - [[maziyarpanahi-openmed|openmed"]] — open-source healthcare ai 🔥
 - [[mebus-cupp|cupp"]] — Common User Passwords Profiler (CUPP) 🆕
@@ -279,6 +280,7 @@
 - [[opentoonz-opentoonz|opentoonz"]] — OpenToonz - An open-source full-featured 2D animation creati...
 - [[ossu-computer-science|computer-science"]] — 🎓 Path to a free self-taught education in Computer Science!
 - [[othmanadi-planning-with-files|planning-with-files"]] — Persistent file-based planning for AI coding agents and long...
+- [[ottermind-chat2db|Chat2DB"]] — 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI ... 🆕
 - [[oven-sh-bun|bun"]] — Incredibly fast JavaScript runtime, bundler, test runner, an... 🆕
 - [[owainlewis-awesome-artificial-intelligence|awesome-artificial-intelligence"]] — A curated list of Artificial Intelligence (AI) courses, book...
 - [[p-e-w-heretic|heretic"]] — Fully automatic censorship removal for language models
@@ -301,7 +303,7 @@
 - [[prisma-prisma|prisma"]] — Next-generation ORM for Node.js & TypeScript | PostgreSQL, M...
 - [[prismml-eng-bonsai-demo|Bonsai-demo"]] — Bonsai Demo 🆕
 - [[protocolbuffers-protobuf|protobuf"]] — Protocol Buffers - Google's data interchange format
-- [[pumpkin-mc-pumpkin|Pumpkin"]] — Empowering everyone to host fast and efficient Minecraft ser... 🆕
+- [[pumpkin-mc-pumpkin|Pumpkin"]] — Empowering everyone to host fast and efficient Minecraft ser... 🔥
 - [[puppeteer-puppeteer|puppeteer"]] — JavaScript API for Chrome and Firefox
 - [[pytest-dev-pytest|pytest"]] — The pytest framework makes it easy to write small tests, yet...
 - [[pytorch-pytorch|pytorch"]] — Tensors and Dynamic neural networks in Python with strong GP... 🆕
@@ -319,14 +321,14 @@
 - [[rommapp-romm|romm"]] — A beautiful, powerful, self-hosted rom manager and player. 🔥
 - [[rtk-ai-rtk|rtk"]] — CLI proxy that reduces LLM token consumption by 60-90% on co...
 - [[run-llama-liteparse|liteparse"]] — A fast, helpful, and open-source document parser 🆕
-- [[ruvnet-ruview|RuView"]] — π RuView turns commodity WiFi signals into real-time spatial... 🆕
+- [[ruvnet-ruview|RuView"]] — π RuView turns commodity WiFi signals into real-time spatial... 🔥
 - [[ryancodrai-turbovec|turbovec"]] — A vector index built on TurboQuant, written in Rust with Pyt...
 - [[ryanmcdermott-clean-code-javascript|clean-code-javascript"]] — Clean Code concepts adapted for JavaScript
 - [[safishamsi-graphify|graphify"]] — AI coding assistant skill (Claude Code, Codex, OpenCode, Cur...
 - [[santifer-career-ops|career-ops"]] — AI-powered job search system built on Claude Code. 14 skill ...
 - [[schollz-croc|croc"]] — Easily and securely send things from one computer to another... 🆕
 - [[shanraisshan-claude-code-best-practice|claude-code-best-practice"]] — from vibe coding to agentic engineering - practice makes cla...
-- [[shiyu-coder-kronos|Kronos"]] — Kronos: A Foundation Model for the Language of Financial Mar... 🆕
+- [[shiyu-coder-kronos|Kronos"]] — Kronos: A Foundation Model for the Language of Financial Mar... 🔥
 - [[shubhamsaboo-awesome-llm-apps|awesome-llm-apps"]] — 100+ AI Agent & RAG apps you can actually run — clone, custo... 🔥
 - [[simplex-chat-simplex-chat|simplex-chat"]] — SimpleX - the first messaging network operating without user... 🔥
 - [[sindresorhus-awesome|awesome"]] — 😎 Awesome lists about all kinds of interesting topics
@@ -380,6 +382,7 @@
 - [[yifanfeng97-hyper-extract|Hyper-Extract"]] — Transform unstructured text into structured knowledge with L...
 - [[yikart-aitoearn|AiToEarn"]] — Let's use AI to Earn!
 - [[yimmenu-yimmenuv2|YimMenuV2"]] — Experimental menu for GTA 5: Enhanced 🆕
+- [[yorukot-superfile|superfile"]] — Pretty fancy and modern terminal file manager 🆕
 - [[yt-dlp-yt-dlp|yt-dlp"]] — A feature-rich command-line audio/video downloader
 - [[zackriya-solutions-meetily|meetily"]] — Privacy first, AI meeting assistant with 4x faster Parakeet/... 🔥
 - [[zai-org-glm-5|GLM-5"]] — GLM-5: From Vibe Coding to Agentic Engineering 🆕

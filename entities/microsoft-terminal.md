@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[tirth8205-code-review-graph]] [[hyprwm-hyprland]] [[diegosouzapw-omniroute]] [[chrislgarry-apollo-11]] [[alexsjones-llmfit]]
+[[protocolbuffers-protobuf]] [[hyprwm-hyprland]] [[yorukot-superfile]] [[mattpocock-skills]] [[moonshine-ai-moonshine]]
 
 **所属领域**: [[cli]]
 

@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[agegr-pi-web]] [[henryndubuaku-maths-cs-ai-compendium]] [[home-assistant-core]] [[zackriya-solutions-meetily]] [[koala73-worldmonitor]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[knockoutez-wigolo]] [[citrolabs-ego-lite]] [[mvanhorn-last30days-skill]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

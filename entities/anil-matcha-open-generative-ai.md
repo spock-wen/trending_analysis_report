@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[agegr-pi-web]] [[trycua-cua]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]]
+[[citrolabs-ego-lite]] [[prisma-prisma]] [[ahmadibrahiim-website-downloader]] [[mattpocock-skills]] [[tradesdontlie-tradingview-mcp]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

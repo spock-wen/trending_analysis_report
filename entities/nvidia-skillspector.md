@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[agegr-pi-web]] [[home-assistant-core]] [[zackriya-solutions-meetily]]
+[[rohitg00-ai-engineering-from-scratch]] [[shiyu-coder-kronos]] [[tirth8205-code-review-graph]] [[composiohq-awesome-claude-skills]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

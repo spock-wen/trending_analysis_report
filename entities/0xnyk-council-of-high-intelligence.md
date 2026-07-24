@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[agegr-pi-web]] [[prismml-eng-bonsai-demo]] [[tirth8205-code-review-graph]] [[obra-superpowers]] [[msitarzewski-agency-agents]]
+[[prismml-eng-bonsai-demo]] [[yorukot-superfile]] [[mattpocock-skills]] [[corebunch-instatic]] [[chrislgarry-apollo-11]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

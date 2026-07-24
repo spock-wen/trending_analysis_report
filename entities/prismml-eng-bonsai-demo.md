@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[agegr-pi-web]] [[tirth8205-code-review-graph]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[koala73-worldmonitor]]
+[[yorukot-superfile]] [[mattpocock-skills]] [[corebunch-instatic]] [[chrislgarry-apollo-11]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

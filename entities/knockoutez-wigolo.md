@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[agegr-pi-web]] [[henryndubuaku-maths-cs-ai-compendium]] [[dioxuslabs-dioxus]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[citrolabs-ego-lite]] [[dioxuslabs-dioxus]] [[mvanhorn-last30days-skill]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

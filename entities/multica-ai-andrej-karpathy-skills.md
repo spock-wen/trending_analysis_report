@@ -38,7 +38,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]]
+[[koala73-worldmonitor]] [[corebunch-instatic]] [[diegosouzapw-omniroute]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

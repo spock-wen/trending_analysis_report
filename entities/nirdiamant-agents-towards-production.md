@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[agegr-pi-web]] [[rohitg00-ai-engineering-from-scratch]] [[oblien-openship]] [[posthog-posthog]] [[microsoft-ontology-playground]]
+[[rohitg00-ai-engineering-from-scratch]] [[oblien-openship]] [[anthropics-cwc-workshops]] [[posthog-posthog]] [[lordog-dive-into-llms]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

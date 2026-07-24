@@ -37,7 +37,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[agegr-pi-web]] [[posthog-posthog]] [[trycua-cua]]
+[[rohitg00-ai-engineering-from-scratch]] [[shiyu-coder-kronos]] [[tirth8205-code-review-graph]] [[composiohq-awesome-claude-skills]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

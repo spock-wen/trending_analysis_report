@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[agegr-pi-web]] [[oblien-openship]] [[posthog-posthog]] [[schollz-croc]] [[koala73-worldmonitor]]
+[[oblien-openship]] [[chenyme-grok2api]] [[yorukot-superfile]] [[schollz-croc]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

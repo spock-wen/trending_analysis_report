@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[posthog-posthog]] [[hyprwm-hyprland]] [[trycua-cua]] [[microsoft-terminal]] [[alibaba-open-code-review]]
+[[protocolbuffers-protobuf]] [[hyprwm-hyprland]] [[microsoft-terminal]] [[corebunch-instatic]] [[moonshine-ai-moonshine]]
 
 **所属领域**: [[data]]
 

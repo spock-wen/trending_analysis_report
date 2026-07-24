@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[agegr-pi-web]] [[oblien-openship]] [[posthog-posthog]] [[trycua-cua]] [[koala73-worldmonitor]]
+[[oblien-openship]] [[ruvnet-ruview]] [[ottermind-chat2db]] [[corebunch-instatic]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[data]] [[devops]]
 

@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[agegr-pi-web]] [[par274-sharpemu]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]]
+[[dotnet-aspnetcore]] [[mattpocock-skills]] [[par274-sharpemu]] [[jellyfin-jellyfin]] [[corebunch-instatic]]
 
 **所属领域**: [[ai-agent]]
 

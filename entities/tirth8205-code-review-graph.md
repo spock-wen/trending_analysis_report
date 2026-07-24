@@ -38,7 +38,7 @@ Local-first code intelligence graph for MCP and CLI. Builds a persistent map of 
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]]
+[[rohitg00-ai-engineering-from-scratch]] [[shiyu-coder-kronos]] [[composiohq-awesome-claude-skills]] [[yorukot-superfile]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

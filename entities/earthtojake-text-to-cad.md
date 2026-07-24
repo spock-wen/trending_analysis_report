@@ -35,7 +35,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 ## 相关项目
 
-[[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[tradesdontlie-tradingview-mcp]] [[coreyhaines31-marketingskills]]
+[[citrolabs-ego-lite]] [[mattpocock-skills]] [[tradesdontlie-tradingview-mcp]] [[corebunch-instatic]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]]
 

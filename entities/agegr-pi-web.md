@@ -36,7 +36,7 @@ Web UI for the pi coding agent
 
 ## 相关项目
 
-[[dioxuslabs-dioxus]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]] [[knockoutez-wigolo]]
+[[citrolabs-ego-lite]] [[dioxuslabs-dioxus]] [[mattpocock-skills]] [[corebunch-instatic]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

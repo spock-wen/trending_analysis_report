@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[agegr-pi-web]] [[prismml-eng-bonsai-demo]] [[tirth8205-code-review-graph]] [[msitarzewski-agency-agents]] [[koala73-worldmonitor]]
+[[anthropics-cwc-workshops]] [[prismml-eng-bonsai-demo]] [[yorukot-superfile]] [[mattpocock-skills]] [[openinterpreter-openinterpreter]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

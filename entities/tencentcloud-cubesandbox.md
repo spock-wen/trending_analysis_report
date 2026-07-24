@@ -37,7 +37,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ## 相关项目
 
-[[block-buzz]] [[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]]
+[[mattpocock-skills]] [[block-buzz]] [[automattic-harper]] [[ruvnet-ruview]] [[corebunch-instatic]]
 
 **所属领域**: [[ai-agent]]
 

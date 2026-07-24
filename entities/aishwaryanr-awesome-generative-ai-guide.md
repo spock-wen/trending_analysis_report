@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[agegr-pi-web]] [[henryndubuaku-maths-cs-ai-compendium]] [[trycua-cua]] [[dioxuslabs-dioxus]] [[koala73-worldmonitor]]
+[[koala73-worldmonitor]] [[knockoutez-wigolo]] [[henryndubuaku-maths-cs-ai-compendium]] [[citrolabs-ego-lite]] [[dioxuslabs-dioxus]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

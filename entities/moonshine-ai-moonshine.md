@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[agegr-pi-web]] [[hyprwm-hyprland]] [[microsoft-terminal]] [[diegosouzapw-omniroute]] [[koala73-worldmonitor]]
+[[protocolbuffers-protobuf]] [[jamiepine-voicebox]] [[kyutai-labs-pocket-tts]] [[hyprwm-hyprland]] [[microsoft-terminal]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

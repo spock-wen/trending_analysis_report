@@ -36,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[agegr-pi-web]] [[rohitg00-ai-engineering-from-scratch]] [[microsoft-ontology-playground]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
+[[rohitg00-ai-engineering-from-scratch]] [[lordog-dive-into-llms]] [[pkuflyingpig-cs-self-learning]] [[mattpocock-skills]] [[corebunch-instatic]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

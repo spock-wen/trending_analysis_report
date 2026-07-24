@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[agegr-pi-web]] [[posthog-posthog]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[likec4-likec4]]
+[[ruvnet-ruview]] [[corebunch-instatic]] [[diegosouzapw-omniroute]] [[likec4-likec4]] [[koala73-worldmonitor]]
 
 **所属领域**: [[devops]]
 

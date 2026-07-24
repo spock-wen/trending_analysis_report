@@ -36,7 +36,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[block-buzz]] [[home-assistant-core]] [[zackriya-solutions-meetily]] [[trycua-cua]] [[automattic-harper]]
+[[prisma-prisma]] [[ahmadibrahiim-website-downloader]] [[block-buzz]] [[automattic-harper]] [[ruvnet-ruview]]
 
 **所属领域**: [[security]] [[image-gen]]
 

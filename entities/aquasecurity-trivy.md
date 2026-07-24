@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[agegr-pi-web]] [[home-assistant-core]] [[zackriya-solutions-meetily]] [[schollz-croc]] [[koala73-worldmonitor]]
+[[chenyme-grok2api]] [[yorukot-superfile]] [[schollz-croc]] [[mattpocock-skills]] [[automattic-harper]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

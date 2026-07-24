@@ -34,5 +34,5 @@ OpenToonz - An open-source full-featured 2D animation creation software
 
 ## 相关项目
 
-[[microsoft-terminal]] [[moonshine-ai-moonshine]] [[hyprwm-hyprland]] [[protocolbuffers-protobuf]]
+[[protocolbuffers-protobuf]] [[microsoft-terminal]] [[moonshine-ai-moonshine]] [[hyprwm-hyprland]]
 

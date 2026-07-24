@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[agegr-pi-web]] [[trycua-cua]] [[dioxuslabs-dioxus]] [[pkuflyingpig-cs-self-learning]] [[prisma-prisma]]
+[[citrolabs-ego-lite]] [[prisma-prisma]] [[corebunch-instatic]] [[agegr-pi-web]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[web]] [[image-gen]]
 

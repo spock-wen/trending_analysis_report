@@ -35,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[tirth8205-code-review-graph]] [[par274-sharpemu]] [[diegosouzapw-omniroute]] [[chrislgarry-apollo-11]] [[k1tbyte-wand-enhancer]]
+[[yorukot-superfile]] [[dotnet-aspnetcore]] [[mattpocock-skills]] [[par274-sharpemu]] [[jellyfin-jellyfin]]
 
 **所属领域**: [[cli]]
 

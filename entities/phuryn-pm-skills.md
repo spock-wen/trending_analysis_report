@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[agegr-pi-web]] [[tirth8205-code-review-graph]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]]
+[[yorukot-superfile]] [[mattpocock-skills]] [[corebunch-instatic]] [[chrislgarry-apollo-11]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

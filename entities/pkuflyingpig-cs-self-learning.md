@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[agegr-pi-web]] [[rohitg00-ai-engineering-from-scratch]] [[microsoft-ontology-playground]] [[trycua-cua]] [[dioxuslabs-dioxus]]
+[[rohitg00-ai-engineering-from-scratch]] [[microsoft-ontology-playground]] [[citrolabs-ego-lite]] [[corebunch-instatic]] [[agegr-pi-web]]
 
 **所属领域**: [[web]] [[education]]
 

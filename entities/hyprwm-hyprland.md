@@ -35,5 +35,5 @@ Hyprland is an independent, highly customizable, dynamic tiling Wayland composit
 
 ## 相关项目
 
-[[microsoft-terminal]] [[moonshine-ai-moonshine]] [[protocolbuffers-protobuf]]
+[[protocolbuffers-protobuf]] [[moonshine-ai-moonshine]] [[microsoft-terminal]]
 

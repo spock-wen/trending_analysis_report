@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[agegr-pi-web]] [[henryndubuaku-maths-cs-ai-compendium]] [[dioxuslabs-dioxus]]
+[[rohitg00-ai-engineering-from-scratch]] [[henryndubuaku-maths-cs-ai-compendium]] [[knockoutez-wigolo]] [[citrolabs-ego-lite]] [[dioxuslabs-dioxus]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

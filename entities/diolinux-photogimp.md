@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[agegr-pi-web]] [[obra-superpowers]] [[dioxuslabs-dioxus]] [[anthropics-cwc-workshops]] [[zeux-meshoptimizer]]
+[[anthropics-cwc-workshops]] [[citrolabs-ego-lite]] [[openinterpreter-openinterpreter]] [[nutlope-hallmark]] [[corebunch-instatic]]
 
 **所属领域**: [[web]] [[erp]]
 

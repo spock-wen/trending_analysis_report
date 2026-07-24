@@ -34,7 +34,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[agegr-pi-web]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[earthtojake-text-to-cad]]
+[[koala73-worldmonitor]] [[corebunch-instatic]] [[diegosouzapw-omniroute]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

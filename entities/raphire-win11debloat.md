@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[tirth8205-code-review-graph]] [[diegosouzapw-omniroute]] [[chrislgarry-apollo-11]]
+[[yorukot-superfile]] [[chrislgarry-apollo-11]] [[diegosouzapw-omniroute]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

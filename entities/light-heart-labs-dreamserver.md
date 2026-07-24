@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[tirth8205-code-review-graph]] [[agegr-pi-web]] [[trycua-cua]] [[koala73-worldmonitor]]
+[[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[kyutai-labs-pocket-tts]] [[prisma-prisma]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

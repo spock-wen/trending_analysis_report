@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[block-buzz]] [[agegr-pi-web]] [[tirth8205-code-review-graph]] [[dioxuslabs-dioxus]] [[diegosouzapw-omniroute]]
+[[citrolabs-ego-lite]] [[yorukot-superfile]] [[block-buzz]] [[automattic-harper]] [[mattpocock-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

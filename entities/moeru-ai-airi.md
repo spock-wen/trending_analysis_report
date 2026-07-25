@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[kyutai-labs-pocket-tts]] [[citrolabs-ego-lite]] [[dioxuslabs-dioxus]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[moonshine-ai-moonshine]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

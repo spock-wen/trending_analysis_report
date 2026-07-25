@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[block-buzz]] [[automattic-harper]] [[ruvnet-ruview]] [[corebunch-instatic]]
+[[block-buzz]] [[pumpkin-mc-pumpkin]] [[agegr-pi-web]] [[corebunch-instatic]] [[dioxuslabs-dioxus]]
 
 **所属领域**: [[web]]
 

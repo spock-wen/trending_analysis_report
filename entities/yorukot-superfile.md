@@ -34,7 +34,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[schollz-croc]] [[mattpocock-skills]] [[chrislgarry-apollo-11]] [[alibaba-open-code-review]]
+[[mattpocock-skills]] [[ottermind-chat2db]] [[alibaba-open-code-review]] [[diegosouzapw-omniroute]] [[chenyme-grok2api]]
 
 **所属领域**: [[cli]]
 

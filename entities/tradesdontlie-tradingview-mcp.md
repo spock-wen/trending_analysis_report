@@ -34,7 +34,7 @@ AI-assisted TradingView chart analysis — connect Claude Code to your TradingVi
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[mattpocock-skills]] [[earthtojake-text-to-cad]] [[corebunch-instatic]] [[diegosouzapw-omniroute]]
+[[mattpocock-skills]] [[earthtojake-text-to-cad]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[ai-agent]]
 

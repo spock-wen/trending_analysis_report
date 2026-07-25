@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[hyprwm-hyprland]] [[microsoft-terminal]] [[corebunch-instatic]] [[moonshine-ai-moonshine]]
+[[moonshine-ai-moonshine]] [[corebunch-instatic]] [[hyprwm-hyprland]] [[ottermind-chat2db]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[data]]
 

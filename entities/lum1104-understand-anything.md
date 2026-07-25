@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[pkuflyingpig-cs-self-learning]] [[yorukot-superfile]] [[mattpocock-skills]] [[corebunch-instatic]]
+[[mattpocock-skills]] [[microsoft-ontology-playground]] [[rohitg00-ai-engineering-from-scratch]] [[corebunch-instatic]] [[pkuflyingpig-cs-self-learning]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

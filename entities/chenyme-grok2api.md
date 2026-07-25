@@ -34,7 +34,7 @@ language: "Go"
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[yorukot-superfile]] [[schollz-croc]] [[mattpocock-skills]] [[corebunch-instatic]]
+[[mattpocock-skills]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[yorukot-superfile]]
 
 **所属领域**: [[web]] [[cli]]
 

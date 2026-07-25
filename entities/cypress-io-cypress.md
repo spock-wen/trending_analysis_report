@@ -36,7 +36,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[diegosouzapw-omniroute]] [[agegr-pi-web]]
+[[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[koala73-worldmonitor]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[web]]
 

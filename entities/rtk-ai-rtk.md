@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[yorukot-superfile]] [[mattpocock-skills]] [[block-buzz]] [[automattic-harper]] [[ruvnet-ruview]]
+[[mattpocock-skills]] [[block-buzz]] [[pumpkin-mc-pumpkin]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

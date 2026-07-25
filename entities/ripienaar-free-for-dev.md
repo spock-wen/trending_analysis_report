@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[oblien-openship]] [[citrolabs-ego-lite]] [[ruvnet-ruview]] [[corebunch-instatic]]
+[[agegr-pi-web]] [[trycua-cua]] [[corebunch-instatic]] [[dioxuslabs-dioxus]] [[posthog-posthog]]
 
 **所属领域**: [[web]] [[devops]]
 

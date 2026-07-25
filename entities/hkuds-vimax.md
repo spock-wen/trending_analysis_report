@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[prisma-prisma]] [[shiyu-coder-kronos]] [[tirth8205-code-review-graph]] [[composiohq-awesome-claude-skills]]
+[[mattpocock-skills]] [[trycua-cua]] [[ahmadibrahiim-website-downloader]] [[graphify-labs-graphify]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

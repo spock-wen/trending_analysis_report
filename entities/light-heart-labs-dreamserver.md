@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[jamiepine-voicebox]] [[kyutai-labs-pocket-tts]] [[prisma-prisma]] [[shiyu-coder-kronos]]
+[[mattpocock-skills]] [[trycua-cua]] [[ahmadibrahiim-website-downloader]] [[graphify-labs-graphify]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

@@ -35,7 +35,7 @@ The API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[diegosouzapw-omniroute]] [[agegr-pi-web]]
+[[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[koala73-worldmonitor]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[web]]
 

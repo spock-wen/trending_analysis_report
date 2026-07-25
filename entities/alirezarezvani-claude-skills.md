@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[anthropics-cwc-workshops]] [[knockoutez-wigolo]] [[henryndubuaku-maths-cs-ai-compendium]] [[shiyu-coder-kronos]]
+[[mattpocock-skills]] [[graphify-labs-graphify]] [[ryancodrai-turbovec]] [[andrewyng-aisuite]] [[openinterpreter-openinterpreter]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[oblien-openship]] [[shiyu-coder-kronos]] [[tirth8205-code-review-graph]] [[composiohq-awesome-claude-skills]]
+[[mattpocock-skills]] [[ryancodrai-turbovec]] [[andrewyng-aisuite]] [[posthog-posthog]] [[oblien-openship]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

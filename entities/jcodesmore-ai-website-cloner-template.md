@@ -38,7 +38,7 @@ Clone any website with one command using AI coding agents
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[dioxuslabs-dioxus]] [[yorukot-superfile]] [[mattpocock-skills]] [[corebunch-instatic]]
+[[mattpocock-skills]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

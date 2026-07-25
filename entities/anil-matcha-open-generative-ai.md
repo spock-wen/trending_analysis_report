@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[prisma-prisma]] [[ahmadibrahiim-website-downloader]] [[mattpocock-skills]] [[tradesdontlie-tradingview-mcp]]
+[[mattpocock-skills]] [[trycua-cua]] [[ahmadibrahiim-website-downloader]] [[graphify-labs-graphify]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

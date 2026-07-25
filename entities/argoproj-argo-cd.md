@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[oblien-openship]] [[chenyme-grok2api]] [[yorukot-superfile]] [[schollz-croc]] [[ruvnet-ruview]]
+[[posthog-posthog]] [[yorukot-superfile]] [[oblien-openship]] [[alibaba-open-code-review]] [[koala73-worldmonitor]]
 
 **所属领域**: [[devops]]
 

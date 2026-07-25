@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[plausible-analytics]] [[mattpocock-skills]] [[corebunch-instatic]] [[ottermind-chat2db]] [[alibaba-open-code-review]]
+[[mattpocock-skills]] [[corebunch-instatic]] [[plausible-analytics]] [[alibaba-open-code-review]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

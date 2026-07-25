@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[citrolabs-ego-lite]] [[dioxuslabs-dioxus]] [[pkuflyingpig-cs-self-learning]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[agegr-pi-web]] [[trycua-cua]] [[corebunch-instatic]] [[dioxuslabs-dioxus]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

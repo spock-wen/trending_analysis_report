@@ -34,5 +34,5 @@ Apache Maven core
 
 ## 相关项目
 
-[[ottermind-chat2db]] [[github-copilot-sdk]] [[elastic-elasticsearch]]
+[[github-copilot-sdk]] [[elastic-elasticsearch]] [[ottermind-chat2db]]
 

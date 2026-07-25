@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[yorukot-superfile]] [[mattpocock-skills]] [[corebunch-instatic]] [[diegosouzapw-omniroute]]
+[[mattpocock-skills]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[web]] [[cli]]
 

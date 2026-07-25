@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[yorukot-superfile]] [[mattpocock-skills]] [[corebunch-instatic]] [[diegosouzapw-omniroute]] [[chrislgarry-apollo-11]]
+[[mattpocock-skills]] [[corebunch-instatic]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

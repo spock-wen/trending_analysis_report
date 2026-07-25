@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[knockoutez-wigolo]] [[mvanhorn-last30days-skill]] [[mattpocock-skills]] [[corebunch-instatic]] [[diegosouzapw-omniroute]]
+[[mattpocock-skills]] [[corebunch-instatic]] [[graphify-labs-graphify]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

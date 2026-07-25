@@ -34,7 +34,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[oblien-openship]] [[mattpocock-skills]] [[ruvnet-ruview]] [[corebunch-instatic]] [[diegosouzapw-omniroute]]
+[[mattpocock-skills]] [[corebunch-instatic]] [[posthog-posthog]] [[oblien-openship]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

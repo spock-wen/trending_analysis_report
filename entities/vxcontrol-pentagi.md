@@ -34,7 +34,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[yorukot-superfile]] [[schollz-croc]] [[mattpocock-skills]] [[corebunch-instatic]]
+[[mattpocock-skills]] [[yorukot-superfile]] [[alibaba-open-code-review]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]]
 
 **所属领域**: [[ai-agent]]
 

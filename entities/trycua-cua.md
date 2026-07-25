@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[citrolabs-ego-lite]] [[dioxuslabs-dioxus]] [[pkuflyingpig-cs-self-learning]] [[prisma-prisma]]
+[[mattpocock-skills]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

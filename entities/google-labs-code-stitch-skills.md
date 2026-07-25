@@ -35,7 +35,7 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 
 ## 相关项目
 
-[[yorukot-superfile]] [[mattpocock-skills]] [[corebunch-instatic]] [[diegosouzapw-omniroute]] [[chrislgarry-apollo-11]]
+[[mattpocock-skills]] [[corebunch-instatic]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[yorukot-superfile]] [[block-buzz]] [[automattic-harper]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[block-buzz]] [[pumpkin-mc-pumpkin]] [[agegr-pi-web]] [[corebunch-instatic]]
 
 **所属领域**: [[web]] [[cli]]
 

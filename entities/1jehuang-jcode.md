@@ -37,7 +37,7 @@ The most intelligent agent harness for code
 
 ## 相关项目
 
-[[mattpocock-skills]] [[block-buzz]] [[automattic-harper]] [[ruvnet-ruview]] [[corebunch-instatic]]
+[[mattpocock-skills]] [[block-buzz]] [[pumpkin-mc-pumpkin]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]]
 
 **所属领域**: [[ai-agent]]
 

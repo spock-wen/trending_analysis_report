@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[corebunch-instatic]] [[diegosouzapw-omniroute]] [[likec4-likec4]] [[koala73-worldmonitor]]
+[[corebunch-instatic]] [[posthog-posthog]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[ruvnet-ruview]]
 
 **所属领域**: [[devops]]
 

@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[prismml-eng-bonsai-demo]] [[yorukot-superfile]] [[mattpocock-skills]] [[corebunch-instatic]] [[chrislgarry-apollo-11]]
+[[mattpocock-skills]] [[prismml-eng-bonsai-demo]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

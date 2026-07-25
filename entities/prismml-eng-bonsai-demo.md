@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[yorukot-superfile]] [[mattpocock-skills]] [[corebunch-instatic]] [[chrislgarry-apollo-11]] [[msitarzewski-agency-agents]]
+[[mattpocock-skills]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]] [[diegosouzapw-omniroute]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

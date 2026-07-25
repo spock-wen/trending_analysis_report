@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[yorukot-superfile]] [[schollz-croc]] [[mattpocock-skills]] [[corebunch-instatic]]
+[[mattpocock-skills]] [[corebunch-instatic]] [[yorukot-superfile]] [[ottermind-chat2db]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

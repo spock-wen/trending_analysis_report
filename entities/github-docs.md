@@ -34,5 +34,5 @@ The open-source repo for docs.github.com
 
 ## 相关项目
 
-[[corebunch-instatic]] [[likec4-likec4]] [[diegosouzapw-omniroute]] [[koala73-worldmonitor]]
+[[koala73-worldmonitor]] [[corebunch-instatic]] [[diegosouzapw-omniroute]] [[likec4-likec4]]
 

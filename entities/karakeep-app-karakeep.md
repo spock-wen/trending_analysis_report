@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[prisma-prisma]] [[ahmadibrahiim-website-downloader]] [[mattpocock-skills]] [[corebunch-instatic]] [[diegosouzapw-omniroute]]
+[[mattpocock-skills]] [[trycua-cua]] [[corebunch-instatic]] [[graphify-labs-graphify]] [[ahmadibrahiim-website-downloader]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

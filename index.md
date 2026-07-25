@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-07-25 | 总页面：400
+> 最后更新：2026-07-26 | 总页面：401
 
 ## Entities
 
@@ -32,13 +32,13 @@
 - [[altic-dev-fluidvoice|FluidVoice"]] — Fastest and only macOS Dictation app with on-device STT and ... 🔥
 - [[andreknieriem-headunit-revived|headunit-revived"]] — Headunit App for displaying Android Auto
 - [[andrewrabert-jellium-desktop|jellium-desktop"]] — An unofficial desktop client for Jellyfin
-- [[andrewyng-aisuite|aisuite"]] — Simple, unified interface to multiple Generative AI provider... 🆕
+- [[andrewyng-aisuite|aisuite"]] — Simple, unified interface to multiple Generative AI provider...
 - [[andyyyy64-whichllm|whichllm"]] — Find the local LLM that actually runs and performs best on y... 🆕
 - [[anil-matcha-open-generative-ai|Open-Generative-AI"]] — Unrestricted Open-source alternative to AI video platforms —...
 - [[anomalyco-opencode|opencode"]] — The open source coding agent.
 - [[ansible-ansible|ansible"]] — Ansible is a radically simple IT automation platform that ma...
 - [[anthropics-claude-code|claude-code"]] — Claude Code is an agentic coding tool that lives in your ter...
-- [[anthropics-claude-cookbooks|claude-cookbooks"]] — A collection of notebooks/recipes showcasing some fun and ef... 🆕
+- [[anthropics-claude-cookbooks|claude-cookbooks"]] — A collection of notebooks/recipes showcasing some fun and ef...
 - [[anthropics-claude-plugins-official|claude-plugins-official"]] — Official, Anthropic-managed directory of high quality Claude...
 - [[anthropics-cwc-workshops|cwc-workshops"]] — No description
 - [[anthropics-knowledge-work-plugins|knowledge-work-plugins"]] — Open source repository of plugins primarily intended for kno... 🔥
@@ -50,7 +50,7 @@
 - [[aquasecurity-trivy|trivy"]] — Find vulnerabilities, misconfigurations, secrets, SBOM in co... 🔥
 - [[argoproj-argo-cd|argo-cd"]] — Declarative Continuous Deployment for Kubernetes
 - [[astrbotdevs-astrbot|AstrBot"]] — AI Agent Assistant & development framework that integrates l... 🔥
-- [[automattic-harper|harper"]] — Offline, privacy-first grammar checker. Fast, open-source, R... 🆕
+- [[automattic-harper|harper"]] — Offline, privacy-first grammar checker. Fast, open-source, R... 🔥
 - [[aws-agent-toolkit-for-aws|agent-toolkit-for-aws"]] — Official, AWS-supported MCP servers, skills, and plugins to ... 🆕
 - [[axorax-awesome-free-apps|awesome-free-apps"]] — Curated list of the best free apps for PC and mobile 🔥
 - [[ayghri-i-have-adhd|i-have-adhd"]] — A skill for your coding agent to stop it from burying the an... 🆕
@@ -58,7 +58,7 @@
 - [[bigbodycobain-shadowbroker|Shadowbroker"]] — Open-source intelligence for the global theater. Track every... 🆕
 - [[biohub-esm|esm"]] — No description
 - [[blakeblackshear-frigate|frigate"]] — NVR with realtime local object detection for IP cameras 🆕
-- [[block-buzz|buzz"]] — A hive mind communication platform 🆕
+- [[block-buzz|buzz"]] — A hive mind communication platform 🔥
 - [[bojieli-ai-agent-book|ai-agent-book"]] — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [[bradautomates-claude-video|claude-video"]] — Give Claude the ability to watch any video. /watch downloads... 🔥
 - [[browser-use-video-use|video-use"]] — Edit videos with coding agents 🔥
@@ -81,7 +81,7 @@
 - [[chrislgarry-apollo-11|Apollo-11"]] — Original Apollo 11 Guidance Computer (AGC) source code for t... 🔥
 - [[chromedevtools-chrome-devtools-mcp|chrome-devtools-mcp"]] — Chrome DevTools for coding agents 🔥
 - [[chthollyphile-folia-major|folia-major"]] — 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
-- [[citrolabs-ego-lite|ego-lite"]] — The fastest browser for AI agents to run web automation, bui... 🆕
+- [[citrolabs-ego-lite|ego-lite"]] — The fastest browser for AI agents to run web automation, bui... 🔥
 - [[cloakhq-cloakbrowser|CloakBrowser"]] — Stealth Chromium that passes every bot detection test. Drop-... 🆕
 - [[codecrafters-io-build-your-own-x|build-your-own-x"]] — Master programming by recreating your favorite technologies ... 🔥
 - [[colbymchenry-codegraph|codegraph"]] — Pre-indexed code knowledge graph for Claude Code, Codex, Cur... 🔥
@@ -91,7 +91,7 @@
 - [[continuedev-continue|continue"]] — open-source coding agent
 - [[copilotkit-copilotkit|CopilotKit"]] — The Frontend Stack for Agents & Generative UI. React, Angula...
 - [[coplaydev-unity-mcp|unity-mcp"]] — Unity MCP acts as a bridge between AI assistants and your Un... 🆕
-- [[corebunch-instatic|Instatic"]] — The open-source alternative to Webflow, Framer and WordPress...
+- [[corebunch-instatic|Instatic"]] — The open-source alternative to Webflow, Framer and WordPress... 🆕
 - [[coreyhaines31-marketingskills|marketingskills"]] — Marketing skills for Claude Code and AI agents. CRO, copywri...
 - [[crosstalk-solutions-project-nomad|project-nomad"]] — Project N.O.M.A.D, is a self-contained, offline survival com...
 - [[crynta-terax-ai|terax-ai"]] — Lightweight (7MB) Terminal-first AI-native dev workspace
@@ -223,7 +223,7 @@
 - [[manaflow-ai-cmux|cmux"]] — Ghostty-based macOS terminal with vertical tabs and notifica... 🔥
 - [[masterking32-masterdnsvpn|MasterDnsVPN"]] — Advanced DNS tunneling VPN for censorship bypass, optimized ... 🔥
 - [[mattermost-mattermost|mattermost"]] — Mattermost is an open source platform for secure collaborati... 🆕
-- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .agents director...
+- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .agents director... 🆕
 - [[mauriceboe-trek|TREK"]] — A self-hosted travel/trip planner with real-time collaborati... 🆕
 - [[maziyarpanahi-openmed|openmed"]] — open-source healthcare ai 🔥
 - [[mebus-cupp|cupp"]] — Common User Passwords Profiler (CUPP) 🆕
@@ -262,7 +262,7 @@
 - [[nvidia-skillspector|SkillSpector"]] — Security scanner for AI agent skills. Detect vulnerabilities... 🔥
 - [[nvlabs-sana|Sana"]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
 - [[oblien-openship|openship"]] — Self-hosted deployment platform 🔥
-- [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo... 🆕
+- [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo...
 - [[odoo-odoo|odoo"]] — Odoo. Open Source Apps To Grow Your Business.
 - [[ogulcancelik-herdr|herdr"]] — agent multiplexer that lives in your terminal. 🔥
 - [[open-dev-society-openstock|OpenStock"]] — OpenStock is an open-source alternative to expensive market ...
@@ -285,13 +285,14 @@
 - [[owainlewis-awesome-artificial-intelligence|awesome-artificial-intelligence"]] — A curated list of Artificial Intelligence (AI) courses, book...
 - [[p-e-w-heretic|heretic"]] — Fully automatic censorship removal for language models
 - [[paddlepaddle-paddleocr|PaddleOCR"]] — Turn any PDF or image document into structured data for your... 🆕
-- [[palmier-io-palmier-pro|palmier-pro"]] — macOS video editor built for AI 🔥
+- [[palmier-io-palmier-pro|palmier-pro"]] — macOS video editor built for AI
 - [[panniantong-agent-reach|Agent-Reach"]] — Give your AI agent eyes to see the entire internet. Read & s...
 - [[paperless-ngx-paperless-ngx|paperless-ngx"]] — A community-supported supercharged document management syste...
 - [[par274-sharpemu|sharpemu"]] — An experimental PlayStation 5 emulator project.
 - [[pascalorg-editor|editor"]] — Create and share 3D architectural projects.
 - [[pbakaus-impeccable|impeccable"]] — The design language that makes your AI harness better at des...
 - [[penpot-penpot|penpot"]] — Penpot: The open-source design platform for Product teams th...
+- [[permissionlesstech-bitchat|bitchat"]] — bluetooth mesh chat, IRC vibes 🆕
 - [[phuryn-pm-skills|pm-skills"]] — PM Skills Marketplace: 100+ agentic skills, commands, and pl... 🔥
 - [[pingdotgg-t3code|t3code"]] — No description
 - [[pkuflyingpig-cs-self-learning|cs-self-learning"]] — 计算机自学指南
@@ -382,7 +383,7 @@
 - [[yifanfeng97-hyper-extract|Hyper-Extract"]] — Transform unstructured text into structured knowledge with L...
 - [[yikart-aitoearn|AiToEarn"]] — Let's use AI to Earn!
 - [[yimmenu-yimmenuv2|YimMenuV2"]] — Experimental menu for GTA 5: Enhanced 🆕
-- [[yorukot-superfile|superfile"]] — Pretty fancy and modern terminal file manager 🆕
+- [[yorukot-superfile|superfile"]] — Pretty fancy and modern terminal file manager
 - [[yt-dlp-yt-dlp|yt-dlp"]] — A feature-rich command-line audio/video downloader
 - [[zackriya-solutions-meetily|meetily"]] — Privacy first, AI meeting assistant with 4x faster Parakeet/... 🔥
 - [[zai-org-glm-5|GLM-5"]] — GLM-5: From Vibe Coding to Agentic Engineering 🆕

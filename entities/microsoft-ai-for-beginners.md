@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[lordog-dive-into-llms]] [[pkuflyingpig-cs-self-learning]] [[mattpocock-skills]] [[corebunch-instatic]]
+[[mattpocock-skills]] [[microsoft-ontology-playground]] [[rohitg00-ai-engineering-from-scratch]] [[lordog-dive-into-llms]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

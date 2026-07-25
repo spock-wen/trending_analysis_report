@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[citrolabs-ego-lite]] [[dioxuslabs-dioxus]] [[pkuflyingpig-cs-self-learning]] [[corebunch-instatic]]
+[[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[rohitg00-ai-engineering-from-scratch]] [[pkuflyingpig-cs-self-learning]]
 
 **所属领域**: [[web]] [[education]]
 

@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[tirth8205-code-review-graph]] [[composiohq-awesome-claude-skills]] [[pkuflyingpig-cs-self-learning]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[microsoft-ontology-playground]] [[ryancodrai-turbovec]] [[andrewyng-aisuite]] [[composiohq-awesome-claude-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

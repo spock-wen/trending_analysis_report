@@ -38,7 +38,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[mattpocock-skills]] [[tradesdontlie-tradingview-mcp]] [[earthtojake-text-to-cad]] [[corebunch-instatic]]
+[[mattpocock-skills]] [[earthtojake-text-to-cad]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[ai-agent]]
 

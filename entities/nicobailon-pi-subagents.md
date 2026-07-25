@@ -34,7 +34,7 @@ Pi extension for async subagent delegation with truncation, artifacts, and sessi
 
 ## 相关项目
 
-[[mattpocock-skills]] [[corebunch-instatic]] [[diegosouzapw-omniroute]] [[likec4-likec4]] [[koala73-worldmonitor]]
+[[mattpocock-skills]] [[corebunch-instatic]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]]
 

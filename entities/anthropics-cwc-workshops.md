@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[openinterpreter-openinterpreter]] [[corebunch-instatic]] [[diegosouzapw-omniroute]] [[zeux-meshoptimizer]] [[obra-superpowers]]
+[[corebunch-instatic]] [[openinterpreter-openinterpreter]] [[zeux-meshoptimizer]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[erp]]
 

@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[kyutai-labs-pocket-tts]] [[mattpocock-skills]] [[corebunch-instatic]] [[diegosouzapw-omniroute]] [[moonshine-ai-moonshine]]
+[[mattpocock-skills]] [[moonshine-ai-moonshine]] [[corebunch-instatic]] [[kyutai-labs-pocket-tts]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

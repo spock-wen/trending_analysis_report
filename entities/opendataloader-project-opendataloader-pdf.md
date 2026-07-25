@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[mattpocock-skills]] [[ottermind-chat2db]] [[elastic-elasticsearch]] [[apache-maven]] [[corebunch-instatic]]
+[[mattpocock-skills]] [[corebunch-instatic]] [[apache-maven]] [[alibaba-open-code-review]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

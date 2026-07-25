@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[dioxuslabs-dioxus]] [[prismml-eng-bonsai-demo]] [[yorukot-superfile]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[prismml-eng-bonsai-demo]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

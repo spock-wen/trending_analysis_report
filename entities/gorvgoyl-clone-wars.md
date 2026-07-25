@@ -34,7 +34,7 @@ language: ""
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[corebunch-instatic]] [[diegosouzapw-omniroute]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[obra-superpowers]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]]
 
 **所属领域**: [[ai-agent]]
 

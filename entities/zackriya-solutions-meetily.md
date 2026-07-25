@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[dioxuslabs-dioxus]] [[mattpocock-skills]] [[block-buzz]] [[automattic-harper]]
+[[mattpocock-skills]] [[block-buzz]] [[pumpkin-mc-pumpkin]] [[agegr-pi-web]] [[corebunch-instatic]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

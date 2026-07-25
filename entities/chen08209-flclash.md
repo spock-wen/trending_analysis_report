@@ -35,7 +35,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[yorukot-superfile]] [[mattpocock-skills]] [[chrislgarry-apollo-11]] [[flutter-flutter]] [[diegosouzapw-omniroute]]
+[[mattpocock-skills]] [[flutter-flutter]] [[diegosouzapw-omniroute]] [[obra-superpowers]] [[ottermind-chat2db]]
 
 **所属领域**: [[cli]]
 

@@ -34,5 +34,5 @@ b站会员购购票辅助工具
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[shiyu-coder-kronos]] [[tirth8205-code-review-graph]] [[composiohq-awesome-claude-skills]]
+[[shiyu-coder-kronos]] [[composiohq-awesome-claude-skills]] [[ryancodrai-turbovec]] [[andrewyng-aisuite]]
 

@@ -34,7 +34,7 @@ language: "Go"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[yorukot-superfile]]
+[[mattpocock-skills]] [[amnezia-vpn-amnezia-client]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[moeru-ai-airi]]
 
 **所属领域**: [[web]] [[cli]]
 

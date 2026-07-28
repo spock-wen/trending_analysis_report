@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[corebunch-instatic]] [[posthog-posthog]] [[oblien-openship]] [[affaan-m-ecc]]
+[[oblien-openship]] [[vudovn-ag-kit]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

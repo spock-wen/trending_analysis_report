@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[corebunch-instatic]] [[affaan-m-ecc]] [[home-assistant-core]] [[automattic-harper]] [[koala73-worldmonitor]]
+[[vudovn-ag-kit]] [[corebunch-instatic]] [[home-assistant-core]] [[automattic-harper]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

@@ -34,7 +34,7 @@ Persistent file-based planning for AI coding agents and long-running agentic tas
 
 ## 相关项目
 
-[[mattpocock-skills]] [[ryancodrai-turbovec]] [[andrewyng-aisuite]] [[composiohq-awesome-claude-skills]] [[affaan-m-ecc]]
+[[mattpocock-skills]] [[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

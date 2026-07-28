@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[agegr-pi-web]] [[trycua-cua]] [[corebunch-instatic]] [[dioxuslabs-dioxus]] [[posthog-posthog]]
+[[ossu-computer-science]] [[oblien-openship]] [[hasaneyldrm-exercises-dataset]] [[mvanhorn-last30days-skill]] [[ruvnet-ruview]]
 
 **所属领域**: [[web]] [[devops]]
 

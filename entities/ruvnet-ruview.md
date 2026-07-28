@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[block-buzz]] [[pumpkin-mc-pumpkin]] [[posthog-posthog]] [[oblien-openship]] [[automattic-harper]]
+[[block-buzz]] [[oblien-openship]] [[automattic-harper]] [[apache-cassandra]] [[pumpkin-mc-pumpkin]]
 
 **所属领域**: [[devops]]
 

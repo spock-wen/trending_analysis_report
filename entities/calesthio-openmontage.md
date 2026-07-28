@@ -38,7 +38,7 @@ World's first open-source, agentic video production system. 12 pipelines, 52 too
 
 ## 相关项目
 
-[[mattpocock-skills]] [[corebunch-instatic]] [[ryancodrai-turbovec]] [[andrewyng-aisuite]] [[composiohq-awesome-claude-skills]]
+[[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[apache-cassandra]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

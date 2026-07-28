@@ -36,7 +36,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[mattpocock-skills]] [[graphify-labs-graphify]] [[ryancodrai-turbovec]] [[andrewyng-aisuite]] [[composiohq-awesome-claude-skills]]
+[[henryndubuaku-maths-cs-ai-compendium]] [[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

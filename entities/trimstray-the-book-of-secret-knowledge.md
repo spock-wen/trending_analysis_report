@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[mattpocock-skills]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[diegosouzapw-omniroute]]
+[[mattpocock-skills]] [[amnezia-vpn-amnezia-client]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[moeru-ai-airi]]
 
 **所属领域**: [[web]] [[cli]]
 

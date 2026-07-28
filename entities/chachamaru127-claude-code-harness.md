@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[mattpocock-skills]] [[prismml-eng-bonsai-demo]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]] [[diegosouzapw-omniroute]]
+[[mattpocock-skills]] [[msitarzewski-agency-agents]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[prismml-eng-bonsai-demo]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

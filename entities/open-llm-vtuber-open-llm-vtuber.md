@@ -37,7 +37,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[mattpocock-skills]] [[moonshine-ai-moonshine]] [[ryancodrai-turbovec]] [[andrewyng-aisuite]] [[kyutai-labs-pocket-tts]]
+[[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[kyutai-labs-pocket-tts]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

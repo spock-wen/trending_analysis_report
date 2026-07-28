@@ -36,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[microsoft-ontology-playground]] [[rohitg00-ai-engineering-from-scratch]] [[lordog-dive-into-llms]] [[lyogavin-airllm]]
+[[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[anthropics-claude-cookbooks]] [[microsoft-ai-for-beginners]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

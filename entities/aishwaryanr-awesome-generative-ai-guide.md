@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[mattpocock-skills]] [[agegr-pi-web]] [[trycua-cua]] [[corebunch-instatic]] [[dioxuslabs-dioxus]]
+[[ossu-computer-science]] [[knockoutez-wigolo]] [[henryndubuaku-maths-cs-ai-compendium]] [[pbakaus-impeccable]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

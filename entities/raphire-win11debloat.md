@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[mattpocock-skills]] [[obra-superpowers]] [[ottermind-chat2db]] [[diegosouzapw-omniroute]]
+[[obra-superpowers]] [[yorukot-superfile]] [[amnezia-vpn-amnezia-client]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

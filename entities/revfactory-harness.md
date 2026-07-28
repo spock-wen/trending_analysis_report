@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[mattpocock-skills]] [[agegr-pi-web]] [[trycua-cua]] [[corebunch-instatic]] [[dioxuslabs-dioxus]]
+[[ossu-computer-science]] [[pbakaus-impeccable]] [[hasaneyldrm-exercises-dataset]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -34,7 +34,7 @@ An open-source background agents coding system
 
 ## 相关项目
 
-[[mattpocock-skills]] [[corebunch-instatic]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]] [[koala73-worldmonitor]]
+[[vudovn-ag-kit]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]]
 

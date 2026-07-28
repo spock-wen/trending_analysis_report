@@ -34,5 +34,5 @@ A list of developer portfolios for your inspiration
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[composiohq-awesome-claude-skills]] [[ryancodrai-turbovec]] [[andrewyng-aisuite]]
+[[nanmicoder-mediacrawler]] [[mvanhorn-last30days-skill]] [[bradautomates-claude-video]] [[shiyu-coder-kronos]]
 

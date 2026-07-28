@@ -35,5 +35,5 @@ A self-hosted travel/trip planner with real-time collaboration, interactive maps
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[corebunch-instatic]] [[diegosouzapw-omniroute]] [[likec4-likec4]]
+[[vudovn-ag-kit]] [[moeru-ai-airi]] [[corebunch-instatic]] [[opengeos-geolibre]]
 

@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[ryancodrai-turbovec]] [[andrewyng-aisuite]] [[openinterpreter-openinterpreter]] [[composiohq-awesome-claude-skills]] [[shiyu-coder-kronos]]
+[[nanmicoder-mediacrawler]] [[mvanhorn-last30days-skill]] [[anthropics-cwc-workshops]] [[shiyu-coder-kronos]] [[zeux-meshoptimizer]]
 
 **所属领域**: [[erp]]
 

@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[mattpocock-skills]] [[moonshine-ai-moonshine]] [[ryancodrai-turbovec]] [[andrewyng-aisuite]] [[kyutai-labs-pocket-tts]]
+[[mattpocock-skills]] [[nanmicoder-mediacrawler]] [[mvanhorn-last30days-skill]] [[kyutai-labs-pocket-tts]] [[jamiepine-voicebox]]
 
 **所属领域**: [[cli]] [[audio]]
 

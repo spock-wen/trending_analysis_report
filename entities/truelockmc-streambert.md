@@ -35,5 +35,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tradesdontlie-tradingview-mcp]] [[citrolabs-ego-lite]] [[earthtojake-text-to-cad]]
+[[pbakaus-impeccable]] [[affaan-m-ecc]] [[earthtojake-text-to-cad]] [[citrolabs-ego-lite]]
 

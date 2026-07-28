@@ -36,7 +36,7 @@ Simple, unified interface to multiple Generative AI providers
 
 ## 相关项目
 
-[[mattpocock-skills]] [[ryancodrai-turbovec]] [[composiohq-awesome-claude-skills]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]]
+[[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[moeru-ai-airi]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[ai-agent]]
 

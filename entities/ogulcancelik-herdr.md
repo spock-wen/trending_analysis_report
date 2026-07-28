@@ -38,7 +38,7 @@ agent multiplexer that lives in your terminal.
 
 ## 相关项目
 
-[[mattpocock-skills]] [[block-buzz]] [[pumpkin-mc-pumpkin]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]]
+[[block-buzz]] [[mattpocock-skills]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[automattic-harper]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

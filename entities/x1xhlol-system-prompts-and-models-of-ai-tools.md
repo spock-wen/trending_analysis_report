@@ -37,7 +37,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ## 相关项目
 
-[[mattpocock-skills]] [[openinterpreter-openinterpreter]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]] [[zeux-meshoptimizer]]
+[[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[anthropics-cwc-workshops]] [[moeru-ai-airi]] [[zeux-meshoptimizer]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

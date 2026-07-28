@@ -34,7 +34,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[mattpocock-skills]] [[yorukot-superfile]] [[alibaba-open-code-review]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]]
+[[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[chenyme-grok2api]] [[moeru-ai-airi]] [[schollz-croc]]
 
 **所属领域**: [[ai-agent]]
 

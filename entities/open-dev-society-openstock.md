@@ -34,7 +34,7 @@ OpenStock is an open-source alternative to expensive market platforms. Track rea
 
 ## 相关项目
 
-[[mattpocock-skills]] [[corebunch-instatic]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]] [[koala73-worldmonitor]]
+[[vudovn-ag-kit]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]]
 

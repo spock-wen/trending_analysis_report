@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[andreknieriem-headunit-revived]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[yairm210-unciv]]
+[[mvanhorn-last30days-skill]] [[yairm210-unciv]] [[andreknieriem-headunit-revived]] [[corebunch-instatic]] [[moeru-ai-airi]]
 
 **所属领域**: [[web]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[agegr-pi-web]] [[trycua-cua]] [[corebunch-instatic]] [[dioxuslabs-dioxus]] [[rohitg00-ai-engineering-from-scratch]]
+[[ossu-computer-science]] [[hasaneyldrm-exercises-dataset]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[web]] [[education]]
 

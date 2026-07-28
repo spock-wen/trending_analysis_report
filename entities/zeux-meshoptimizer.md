@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[moonshine-ai-moonshine]] [[hyprwm-hyprland]] [[openinterpreter-openinterpreter]] [[protocolbuffers-protobuf]] [[obra-superpowers]]
+[[ocornut-imgui]] [[moonshine-ai-moonshine]] [[anthropics-cwc-workshops]] [[openinterpreter-openinterpreter]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

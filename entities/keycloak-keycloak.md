@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[apache-maven]] [[affaan-m-ecc]] [[home-assistant-core]] [[automattic-harper]] [[github-copilot-sdk]]
+[[ottermind-chat2db]] [[jenkinsci-jenkins]] [[home-assistant-core]] [[apache-cassandra]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

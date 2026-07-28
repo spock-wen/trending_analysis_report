@@ -37,7 +37,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[earthtojake-text-to-cad]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]] [[citrolabs-ego-lite]]
+[[earthtojake-text-to-cad]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]]
 

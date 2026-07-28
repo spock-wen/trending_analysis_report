@@ -35,7 +35,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[ryancodrai-turbovec]] [[andrewyng-aisuite]]
+[[nanmicoder-mediacrawler]] [[amnezia-vpn-amnezia-client]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[home-assistant-core]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

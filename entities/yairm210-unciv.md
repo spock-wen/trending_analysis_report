@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[mattpocock-skills]] [[andreknieriem-headunit-revived]] [[pppscn-smsforwarder]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]]
+[[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[andreknieriem-headunit-revived]] [[bradautomates-claude-video]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]]
 

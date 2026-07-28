@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[mattpocock-skills]] [[trycua-cua]] [[corebunch-instatic]] [[graphify-labs-graphify]] [[ryancodrai-turbovec]]
+[[ahmadibrahiim-website-downloader]] [[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[prisma-prisma]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

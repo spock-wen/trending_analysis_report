@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[mattpocock-skills]] [[jellyfin-jellyfin]] [[k1tbyte-wand-enhancer]] [[par274-sharpemu]] [[affaan-m-ecc]]
+[[k1tbyte-wand-enhancer]] [[pbakaus-impeccable]] [[jellyfin-jellyfin]] [[mvanhorn-last30days-skill]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[ai-agent]]
 

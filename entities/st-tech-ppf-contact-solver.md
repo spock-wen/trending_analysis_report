@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[mattpocock-skills]] [[ryancodrai-turbovec]] [[andrewyng-aisuite]] [[composiohq-awesome-claude-skills]] [[shiyu-coder-kronos]]
+[[mattpocock-skills]] [[nanmicoder-mediacrawler]] [[mvanhorn-last30days-skill]] [[shiyu-coder-kronos]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

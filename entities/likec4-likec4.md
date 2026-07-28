@@ -36,5 +36,5 @@ Visualize, collaborate, and evolve the software architecture with always actual 
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[corebunch-instatic]] [[diegosouzapw-omniroute]]
+[[vudovn-ag-kit]] [[moeru-ai-airi]] [[corebunch-instatic]] [[opengeos-geolibre]]
 

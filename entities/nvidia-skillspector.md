@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[mattpocock-skills]] [[ryancodrai-turbovec]] [[andrewyng-aisuite]] [[composiohq-awesome-claude-skills]] [[affaan-m-ecc]]
+[[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[home-assistant-core]] [[automattic-harper]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

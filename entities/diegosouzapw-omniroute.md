@@ -38,7 +38,7 @@ Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free),
 
 ## 相关项目
 
-[[mattpocock-skills]] [[corebunch-instatic]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]] [[koala73-worldmonitor]]
+[[mattpocock-skills]] [[vudovn-ag-kit]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[amnezia-vpn-amnezia-client]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

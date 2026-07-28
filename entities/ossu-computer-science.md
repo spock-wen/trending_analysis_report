@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[agegr-pi-web]] [[trycua-cua]] [[corebunch-instatic]] [[dioxuslabs-dioxus]] [[pkuflyingpig-cs-self-learning]]
+[[hasaneyldrm-exercises-dataset]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[moeru-ai-airi]] [[trycua-cua]]
 
 **所属领域**: [[web]]
 

@@ -35,5 +35,5 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[corebunch-instatic]] [[diegosouzapw-omniroute]] [[likec4-likec4]]
+[[vudovn-ag-kit]] [[moeru-ai-airi]] [[corebunch-instatic]] [[opengeos-geolibre]]
 

@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[mattpocock-skills]] [[microsoft-ontology-playground]] [[rohitg00-ai-engineering-from-scratch]] [[lordog-dive-into-llms]] [[lyogavin-airllm]]
+[[oblien-openship]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[rohitg00-ai-engineering-from-scratch]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

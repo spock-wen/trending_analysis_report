@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[trycua-cua]] [[ahmadibrahiim-website-downloader]] [[graphify-labs-graphify]] [[ryancodrai-turbovec]]
+[[ahmadibrahiim-website-downloader]] [[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[prisma-prisma]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

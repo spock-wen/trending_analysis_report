@@ -36,7 +36,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[koala73-worldmonitor]] [[citrolabs-ego-lite]]
+[[vudovn-ag-kit]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[moeru-ai-airi]] [[opengeos-geolibre]]
 
 **所属领域**: [[web]]
 

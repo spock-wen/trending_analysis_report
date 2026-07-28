@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[corebunch-instatic]] [[anthropics-cwc-workshops]] [[openinterpreter-openinterpreter]] [[zeux-meshoptimizer]] [[koala73-worldmonitor]]
+[[vudovn-ag-kit]] [[corebunch-instatic]] [[anthropics-cwc-workshops]] [[moeru-ai-airi]] [[openinterpreter-openinterpreter]]
 
 **所属领域**: [[erp]]
 

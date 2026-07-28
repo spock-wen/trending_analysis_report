@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[mattpocock-skills]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[rohitg00-ai-engineering-from-scratch]]
+[[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[microsoft-ai-for-beginners]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

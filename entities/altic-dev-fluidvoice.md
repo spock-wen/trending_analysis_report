@@ -37,7 +37,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[mattpocock-skills]] [[moonshine-ai-moonshine]] [[steipete-codexbar]] [[kyutai-labs-pocket-tts]] [[palmier-io-palmier-pro]]
+[[steipete-codexbar]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[kyutai-labs-pocket-tts]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

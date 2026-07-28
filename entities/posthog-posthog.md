@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[ryancodrai-turbovec]]
+[[oblien-openship]] [[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[mattpocock-skills]] [[ryancodrai-turbovec]] [[andrewyng-aisuite]] [[posthog-posthog]] [[oblien-openship]]
+[[mattpocock-skills]] [[oblien-openship]] [[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

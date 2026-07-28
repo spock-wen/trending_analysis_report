@@ -34,7 +34,7 @@ Protocol Buffers - Google's data interchange format
 
 ## 相关项目
 
-[[moonshine-ai-moonshine]] [[corebunch-instatic]] [[hyprwm-hyprland]] [[ottermind-chat2db]] [[alibaba-open-code-review]]
+[[ocornut-imgui]] [[corebunch-instatic]] [[apache-cassandra]] [[moonshine-ai-moonshine]] [[hyprwm-hyprland]]
 
 **所属领域**: [[data]]
 

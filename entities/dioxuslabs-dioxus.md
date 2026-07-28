@@ -35,7 +35,7 @@ Fullstack app framework for web, desktop, and mobile.
 
 ## 相关项目
 
-[[block-buzz]] [[pumpkin-mc-pumpkin]] [[agegr-pi-web]] [[corebunch-instatic]] [[automattic-harper]]
+[[block-buzz]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[automattic-harper]] [[moeru-ai-airi]]
 
 **所属领域**: [[web]]
 

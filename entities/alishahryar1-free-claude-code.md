@@ -36,7 +36,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[mattpocock-skills]] [[moonshine-ai-moonshine]] [[ryancodrai-turbovec]] [[andrewyng-aisuite]] [[kyutai-labs-pocket-tts]]
+[[mattpocock-skills]] [[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[kyutai-labs-pocket-tts]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

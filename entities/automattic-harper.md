@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[block-buzz]] [[pumpkin-mc-pumpkin]] [[home-assistant-core]] [[affaan-m-ecc]] [[zackriya-solutions-meetily]]
+[[block-buzz]] [[home-assistant-core]] [[affaan-m-ecc]] [[pumpkin-mc-pumpkin]] [[amnezia-vpn-amnezia-client]]
 
 **所属领域**: [[security]]
 

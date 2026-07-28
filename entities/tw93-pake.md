@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[block-buzz]] [[pumpkin-mc-pumpkin]] [[agegr-pi-web]] [[corebunch-instatic]]
+[[block-buzz]] [[mattpocock-skills]] [[amnezia-vpn-amnezia-client]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]]
 
 **所属领域**: [[web]] [[cli]]
 

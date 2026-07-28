@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[mattpocock-skills]] [[lordog-dive-into-llms]] [[lyogavin-airllm]] [[affaan-m-ecc]] [[microsoft-ai-for-beginners]]
+[[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[microsoft-ai-for-beginners]] [[moeru-ai-airi]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

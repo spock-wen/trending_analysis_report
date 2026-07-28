@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[agegr-pi-web]] [[trycua-cua]] [[corebunch-instatic]] [[dioxuslabs-dioxus]]
+[[ossu-computer-science]] [[alibaba-open-code-review]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

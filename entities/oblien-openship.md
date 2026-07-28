@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[corebunch-instatic]] [[posthog-posthog]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[ruvnet-ruview]]
+[[vudovn-ag-kit]] [[corebunch-instatic]] [[apache-cassandra]] [[moeru-ai-airi]] [[koala73-worldmonitor]]
 
 **所属领域**: [[devops]]
 

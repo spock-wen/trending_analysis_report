@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[corebunch-instatic]] [[apache-maven]] [[alibaba-open-code-review]] [[affaan-m-ecc]]
+[[mattpocock-skills]] [[jenkinsci-jenkins]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

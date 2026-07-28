@@ -34,7 +34,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[mattpocock-skills]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[ryancodrai-turbovec]]
+[[mattpocock-skills]] [[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[amnezia-vpn-amnezia-client]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -38,7 +38,7 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[mattpocock-skills]] [[block-buzz]] [[pumpkin-mc-pumpkin]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]]
+[[block-buzz]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[automattic-harper]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]]
 

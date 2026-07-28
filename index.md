@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-07-26 | 总页面：401
+> 最后更新：2026-07-28 | 总页面：407
 
 ## Entities
 
@@ -30,6 +30,7 @@
 - [[alishahryar1-free-claude-code|free-claude-code"]] — Use claude-code for free in the terminal, VSCode extension o... 🆕
 - [[allenai-olmocr|olmocr"]] — Toolkit for linearizing PDFs for LLM datasets/training
 - [[altic-dev-fluidvoice|FluidVoice"]] — Fastest and only macOS Dictation app with on-device STT and ... 🔥
+- [[amnezia-vpn-amnezia-client|amnezia-client"]] — Amnezia VPN Client (Desktop+Mobile) 🆕
 - [[andreknieriem-headunit-revived|headunit-revived"]] — Headunit App for displaying Android Auto
 - [[andrewrabert-jellium-desktop|jellium-desktop"]] — An unofficial desktop client for Jellyfin
 - [[andrewyng-aisuite|aisuite"]] — Simple, unified interface to multiple Generative AI provider...
@@ -44,6 +45,7 @@
 - [[anthropics-knowledge-work-plugins|knowledge-work-plugins"]] — Open source repository of plugins primarily intended for kno... 🔥
 - [[anthropics-skills|skills"]] — Public repository for Agent Skills
 - [[antoinezambelli-forge|forge"]] — A Python framework for self-hosted LLM tool-calling and mult...
+- [[apache-cassandra|cassandra"]] — Open source transactional distributed database. Linear scala... 🆕
 - [[apache-maven|maven"]] — Apache Maven core
 - [[apache-ossie|ossie"]] — Apache Ossie, industry wide specification effort to standard...
 - [[apple-container|container"]] — A tool for creating and running Linux containers using light... 🆕
@@ -60,7 +62,7 @@
 - [[blakeblackshear-frigate|frigate"]] — NVR with realtime local object detection for IP cameras 🆕
 - [[block-buzz|buzz"]] — A hive mind communication platform 🔥
 - [[bojieli-ai-agent-book|ai-agent-book"]] — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
-- [[bradautomates-claude-video|claude-video"]] — Give Claude the ability to watch any video. /watch downloads... 🔥
+- [[bradautomates-claude-video|claude-video"]] — Give Claude the ability to watch any video. /watch downloads...
 - [[browser-use-video-use|video-use"]] — Edit videos with coding agents 🔥
 - [[builderio-agent-native|agent-native"]] — A framework for building agent-native applications.
 - [[byjoey-cfnew|cfnew"]] — No description
@@ -184,6 +186,7 @@
 - [[jbeder-yaml-cpp|yaml-cpp"]] — A YAML parser and emitter in C++
 - [[jcodesmore-ai-website-cloner-template|ai-website-cloner-template"]] — Clone any website with one command using AI coding agents 🔥
 - [[jellyfin-jellyfin|jellyfin"]] — The Free Software Media System - Server Backend & API
+- [[jenkinsci-jenkins|jenkins"]] — Jenkins automation server 🆕
 - [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm"]] — Claude Skill: Multi-source content processor for NotebookLM. 🆕
 - [[juliusbrussee-caveman|caveman"]] — 🪨 why use many token when few token do trick — Claude Code s... 🔥
 - [[jwasham-coding-interview-university|coding-interview-university"]] — A complete computer science study plan to become a software ...
@@ -249,7 +252,7 @@
 - [[music-assistant-server|server"]] — Music Assistant is a free, opensource Media library manager ... 🔥
 - [[mvanhorn-last30days-skill|last30days-skill"]] — AI agent skill that researches any topic across Reddit, X, Y...
 - [[n0-computer-iroh|iroh"]] — IP addresses break, dial keys instead. Modular networking st... 🔥
-- [[nanmicoder-mediacrawler|MediaCrawler"]] — 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬... 🔥
+- [[nanmicoder-mediacrawler|MediaCrawler"]] — 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬...
 - [[nasa-fprime|fprime"]] — F´ - A flight software and embedded systems framework
 - [[nesquena-hermes-webui|hermes-webui"]] — Hermes WebUI: The best way to use Hermes Agent from the web ... 🔥
 - [[nicobailon-pi-subagents|pi-subagents"]] — Pi extension for async subagent delegation with truncation, ...
@@ -263,6 +266,7 @@
 - [[nvlabs-sana|Sana"]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
 - [[oblien-openship|openship"]] — Self-hosted deployment platform 🔥
 - [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo...
+- [[ocornut-imgui|imgui"]] — Dear ImGui: Bloat-free Graphical User interface for C++ with... 🆕
 - [[odoo-odoo|odoo"]] — Odoo. Open Source Apps To Grow Your Business.
 - [[ogulcancelik-herdr|herdr"]] — agent multiplexer that lives in your terminal. 🔥
 - [[open-dev-society-openstock|OpenStock"]] — OpenStock is an open-source alternative to expensive market ...
@@ -275,6 +279,7 @@
 - [[opencv-opencv|opencv"]] — Open Source Computer Vision Library
 - [[opendatalab-mineru|MinerU"]] — Transforms complex documents like PDFs and Office docs into ...
 - [[opendataloader-project-opendataloader-pdf|opendataloader-pdf"]] — PDF Parser for AI-ready data. Automate PDF accessibility. Op...
+- [[opengeos-geolibre|GeoLibre"]] — A lightweight, cloud-native GIS platform for visualizing, ex... 🆕
 - [[openinterpreter-openinterpreter|openinterpreter"]] — A coding agent for open models like Kimi K3 🔥
 - [[openmoss-moss-tts|MOSS-TTS"]] — MOSS‑TTS Family is an open‑source speech and sound generatio...
 - [[opentoonz-opentoonz|opentoonz"]] — OpenToonz - An open-source full-featured 2D animation creati...
@@ -292,7 +297,7 @@
 - [[pascalorg-editor|editor"]] — Create and share 3D architectural projects.
 - [[pbakaus-impeccable|impeccable"]] — The design language that makes your AI harness better at des...
 - [[penpot-penpot|penpot"]] — Penpot: The open-source design platform for Product teams th...
-- [[permissionlesstech-bitchat|bitchat"]] — bluetooth mesh chat, IRC vibes 🆕
+- [[permissionlesstech-bitchat|bitchat"]] — bluetooth mesh chat, IRC vibes
 - [[phuryn-pm-skills|pm-skills"]] — PM Skills Marketplace: 100+ agentic skills, commands, and pl... 🔥
 - [[pingdotgg-t3code|t3code"]] — No description
 - [[pkuflyingpig-cs-self-learning|cs-self-learning"]] — 计算机自学指南
@@ -329,7 +334,7 @@
 - [[santifer-career-ops|career-ops"]] — AI-powered job search system built on Claude Code. 14 skill ...
 - [[schollz-croc|croc"]] — Easily and securely send things from one computer to another... 🆕
 - [[shanraisshan-claude-code-best-practice|claude-code-best-practice"]] — from vibe coding to agentic engineering - practice makes cla...
-- [[shiyu-coder-kronos|Kronos"]] — Kronos: A Foundation Model for the Language of Financial Mar... 🔥
+- [[shiyu-coder-kronos|Kronos"]] — Kronos: A Foundation Model for the Language of Financial Mar...
 - [[shubhamsaboo-awesome-llm-apps|awesome-llm-apps"]] — 100+ AI Agent & RAG apps you can actually run — clone, custo... 🔥
 - [[simplex-chat-simplex-chat|simplex-chat"]] — SimpleX - the first messaging network operating without user... 🔥
 - [[sindresorhus-awesome|awesome"]] — 😎 Awesome lists about all kinds of interesting topics
@@ -374,6 +379,7 @@
 - [[veracrypt-veracrypt|VeraCrypt"]] — Disk encryption with strong security based on TrueCrypt
 - [[virattt-ai-hedge-fund|ai-hedge-fund"]] — An AI Hedge Fund Team
 - [[voltagent-awesome-design-md|awesome-design-md"]] — A collection of DESIGN.md files analysis by popular brand de...
+- [[vudovn-ag-kit|ag-kit"]] — No description 🆕
 - [[vxcontrol-pentagi|pentagi"]] — Fully autonomous AI Agents system capable of performing comp...
 - [[withastro-flue|flue"]] — The sandbox agent framework. 🔥
 - [[wonderwhy-er-desktopcommandermcp|DesktopCommanderMCP"]] — This is MCP server for Claude that gives it terminal control... 🔥

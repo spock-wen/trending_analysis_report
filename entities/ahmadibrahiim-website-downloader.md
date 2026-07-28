@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[agegr-pi-web]] [[trycua-cua]] [[corebunch-instatic]] [[dioxuslabs-dioxus]] [[graphify-labs-graphify]]
+[[ossu-computer-science]] [[hasaneyldrm-exercises-dataset]] [[mvanhorn-last30days-skill]] [[prisma-prisma]] [[corebunch-instatic]]
 
 **所属领域**: [[web]] [[image-gen]]
 

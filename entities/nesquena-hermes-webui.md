@@ -37,7 +37,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[mattpocock-skills]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[ryancodrai-turbovec]]
+[[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

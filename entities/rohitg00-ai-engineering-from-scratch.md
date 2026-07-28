@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[mattpocock-skills]] [[microsoft-ontology-playground]] [[ryancodrai-turbovec]] [[andrewyng-aisuite]] [[composiohq-awesome-claude-skills]]
+[[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[microsoft-ai-for-beginners]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

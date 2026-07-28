@@ -36,7 +36,7 @@ The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, an
 
 ## 相关项目
 
-[[mattpocock-skills]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[affaan-m-ecc]]
+[[vudovn-ag-kit]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

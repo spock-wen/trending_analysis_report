@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[mattpocock-skills]] [[trycua-cua]] [[ahmadibrahiim-website-downloader]] [[graphify-labs-graphify]] [[earthtojake-text-to-cad]]
+[[earthtojake-text-to-cad]] [[ahmadibrahiim-website-downloader]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[prisma-prisma]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

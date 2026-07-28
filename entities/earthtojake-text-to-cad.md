@@ -35,7 +35,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 ## 相关项目
 
-[[mattpocock-skills]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]] [[citrolabs-ego-lite]] [[tradesdontlie-tradingview-mcp]]
+[[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[moeru-ai-airi]] [[bradautomates-claude-video]]
 
 **所属领域**: [[ai-agent]]
 

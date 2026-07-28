@@ -35,7 +35,7 @@ Official Python inference and LoRA trainer package for the LTX-2 audio–video g
 
 ## 相关项目
 
-[[mattpocock-skills]] [[moonshine-ai-moonshine]] [[ryancodrai-turbovec]] [[andrewyng-aisuite]] [[kyutai-labs-pocket-tts]]
+[[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[kyutai-labs-pocket-tts]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

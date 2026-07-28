@@ -35,7 +35,7 @@ Claude Skill: Multi-source content processor for NotebookLM.
 
 ## 相关项目
 
-[[mattpocock-skills]] [[ryancodrai-turbovec]] [[andrewyng-aisuite]] [[composiohq-awesome-claude-skills]] [[affaan-m-ecc]]
+[[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[moeru-ai-airi]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[ai-agent]]
 

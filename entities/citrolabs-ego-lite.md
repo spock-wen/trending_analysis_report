@@ -37,7 +37,7 @@ The fastest browser for AI agents to run web automation, built for sharing your 
 
 ## 相关项目
 
-[[mattpocock-skills]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[earthtojake-text-to-cad]]
+[[earthtojake-text-to-cad]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

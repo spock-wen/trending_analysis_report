@@ -36,7 +36,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[mattpocock-skills]] [[steipete-codexbar]] [[palmier-io-palmier-pro]] [[affaan-m-ecc]] [[permissionlesstech-bitchat]]
+[[mattpocock-skills]] [[steipete-codexbar]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

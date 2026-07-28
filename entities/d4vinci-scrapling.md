@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[ryancodrai-turbovec]] [[andrewyng-aisuite]]
+[[nanmicoder-mediacrawler]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[moeru-ai-airi]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[web]]
 

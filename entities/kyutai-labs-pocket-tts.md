@@ -35,7 +35,7 @@ A TTS that fits in your CPU (and pocket)
 
 ## 相关项目
 
-[[mattpocock-skills]] [[moonshine-ai-moonshine]] [[ryancodrai-turbovec]] [[andrewyng-aisuite]] [[composiohq-awesome-claude-skills]]
+[[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[jamiepine-voicebox]] [[moonshine-ai-moonshine]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

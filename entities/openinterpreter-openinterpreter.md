@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[mattpocock-skills]] [[block-buzz]] [[pumpkin-mc-pumpkin]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]]
+[[block-buzz]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[automattic-harper]] [[anthropics-cwc-workshops]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

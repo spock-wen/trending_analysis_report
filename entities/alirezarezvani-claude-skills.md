@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[graphify-labs-graphify]] [[ryancodrai-turbovec]] [[andrewyng-aisuite]] [[openinterpreter-openinterpreter]]
+[[mattpocock-skills]] [[henryndubuaku-maths-cs-ai-compendium]] [[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

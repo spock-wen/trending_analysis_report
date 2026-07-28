@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[mattpocock-skills]] [[graphify-labs-graphify]] [[knockoutez-wigolo]] [[earthtojake-text-to-cad]] [[henryndubuaku-maths-cs-ai-compendium]]
+[[earthtojake-text-to-cad]] [[knockoutez-wigolo]] [[henryndubuaku-maths-cs-ai-compendium]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

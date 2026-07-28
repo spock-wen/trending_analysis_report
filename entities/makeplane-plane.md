@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[corebunch-instatic]] [[koala73-worldmonitor]] [[diegosouzapw-omniroute]] [[obra-superpowers]]
+[[mattpocock-skills]] [[vudovn-ag-kit]] [[amnezia-vpn-amnezia-client]] [[corebunch-instatic]] [[moeru-ai-airi]]
 
 **所属领域**: [[cli]]
 

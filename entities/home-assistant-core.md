@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ryancodrai-turbovec]] [[andrewyng-aisuite]] [[composiohq-awesome-claude-skills]] [[affaan-m-ecc]] [[shiyu-coder-kronos]]
+[[nanmicoder-mediacrawler]] [[mvanhorn-last30days-skill]] [[automattic-harper]] [[affaan-m-ecc]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[security]]
 

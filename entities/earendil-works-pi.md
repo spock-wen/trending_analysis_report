@@ -35,7 +35,7 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[mattpocock-skills]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[affaan-m-ecc]]
+[[mattpocock-skills]] [[vudovn-ag-kit]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[amnezia-vpn-amnezia-client]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

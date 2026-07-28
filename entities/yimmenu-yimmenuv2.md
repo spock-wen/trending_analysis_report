@@ -35,5 +35,5 @@ Experimental menu for GTA 5: Enhanced
 
 ## 相关项目
 
-[[moonshine-ai-moonshine]] [[protocolbuffers-protobuf]] [[hyprwm-hyprland]] [[microsoft-terminal]]
+[[ocornut-imgui]] [[hyprwm-hyprland]] [[moonshine-ai-moonshine]] [[amnezia-vpn-amnezia-client]]
 

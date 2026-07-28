@@ -36,7 +36,7 @@ Web UI for the pi coding agent
 
 ## 相关项目
 
-[[mattpocock-skills]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]]
+[[vudovn-ag-kit]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

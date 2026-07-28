@@ -36,5 +36,5 @@ A hive mind communication platform
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[pumpkin-mc-pumpkin]] [[automattic-harper]]
+[[automattic-harper]] [[pumpkin-mc-pumpkin]] [[ruvnet-ruview]]
 

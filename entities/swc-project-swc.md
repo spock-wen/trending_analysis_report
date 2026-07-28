@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[block-buzz]] [[pumpkin-mc-pumpkin]] [[agegr-pi-web]] [[corebunch-instatic]] [[dioxuslabs-dioxus]]
+[[block-buzz]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[automattic-harper]] [[moeru-ai-airi]]
 
 **所属领域**: [[web]]
 

@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[mattpocock-skills]] [[yorukot-superfile]] [[alibaba-open-code-review]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]]
+[[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[home-assistant-core]] [[automattic-harper]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

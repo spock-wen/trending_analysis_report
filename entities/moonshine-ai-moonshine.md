@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[mattpocock-skills]] [[hyprwm-hyprland]] [[kyutai-labs-pocket-tts]] [[protocolbuffers-protobuf]] [[moeru-ai-airi]]
+[[ocornut-imgui]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[kyutai-labs-pocket-tts]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

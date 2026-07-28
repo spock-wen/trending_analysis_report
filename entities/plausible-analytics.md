@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[ottermind-chat2db]] [[alibaba-open-code-review]]
+[[amnezia-vpn-amnezia-client]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[home-assistant-core]] [[apache-cassandra]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

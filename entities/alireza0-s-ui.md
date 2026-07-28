@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[agegr-pi-web]] [[dioxuslabs-dioxus]] [[corebunch-instatic]] [[yorukot-superfile]] [[alibaba-open-code-review]]
+[[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[chenyme-grok2api]] [[moeru-ai-airi]] [[schollz-croc]]
 
 **所属领域**: [[web]]
 

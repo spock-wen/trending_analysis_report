@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[moonshine-ai-moonshine]] [[corebunch-instatic]] [[hyprwm-hyprland]] [[ottermind-chat2db]] [[protocolbuffers-protobuf]]
+[[ocornut-imgui]] [[corebunch-instatic]] [[apache-cassandra]] [[moonshine-ai-moonshine]] [[hyprwm-hyprland]]
 
 **所属领域**: [[data]]
 

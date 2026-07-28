@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tradesdontlie-tradingview-mcp]] [[citrolabs-ego-lite]] [[earthtojake-text-to-cad]]
+[[pbakaus-impeccable]] [[affaan-m-ecc]] [[earthtojake-text-to-cad]] [[citrolabs-ego-lite]]
 

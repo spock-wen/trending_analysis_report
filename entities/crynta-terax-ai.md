@@ -34,7 +34,7 @@ Lightweight (7MB) Terminal-first AI-native dev workspace
 
 ## 相关项目
 
-[[mattpocock-skills]] [[corebunch-instatic]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]] [[koala73-worldmonitor]]
+[[mattpocock-skills]] [[vudovn-ag-kit]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[amnezia-vpn-amnezia-client]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

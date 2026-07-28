@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[mattpocock-skills]] [[corebunch-instatic]] [[graphify-labs-graphify]] [[affaan-m-ecc]] [[anthropics-claude-cookbooks]]
+[[vudovn-ag-kit]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

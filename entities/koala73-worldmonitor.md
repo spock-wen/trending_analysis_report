@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[oblien-openship]] [[vudovn-ag-kit]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]]
+[[pascalorg-editor]] [[oblien-openship]] [[affaan-m-ecc]] [[moeru-ai-airi]] [[bradautomates-claude-video]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

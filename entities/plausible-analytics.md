@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[amnezia-vpn-amnezia-client]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[home-assistant-core]] [[apache-cassandra]]
+[[amnezia-vpn-amnezia-client]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[teslamate-org-teslamate]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

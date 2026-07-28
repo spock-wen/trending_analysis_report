@@ -37,5 +37,5 @@ Empowering everyone to host fast and efficient Minecraft servers.
 
 ## 相关项目
 
-[[automattic-harper]] [[block-buzz]] [[ruvnet-ruview]]
+[[automattic-harper]] [[ruvnet-ruview]] [[block-buzz]]
 

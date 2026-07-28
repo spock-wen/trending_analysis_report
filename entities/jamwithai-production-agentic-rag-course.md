@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[microsoft-ai-for-beginners]] [[rohitg00-ai-engineering-from-scratch]]
+[[paperswithbacktest-awesome-systematic-trading]] [[huggingface-speech-to-speech]] [[pkuflyingpig-cs-self-learning]] [[rohitg00-ai-engineering-from-scratch]] [[microsoft-ontology-playground]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

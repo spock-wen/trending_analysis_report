@@ -34,7 +34,7 @@ Hundreds of models & providers. One command to find what runs on your hardware.
 
 ## 相关项目
 
-[[block-buzz]] [[mattpocock-skills]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[automattic-harper]]
+[[yorukot-superfile]] [[amnezia-vpn-amnezia-client]] [[obra-superpowers]] [[automattic-harper]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

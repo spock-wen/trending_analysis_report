@@ -35,5 +35,5 @@ Hyprland is an independent, highly customizable, dynamic tiling Wayland composit
 
 ## 相关项目
 
-[[ocornut-imgui]] [[moonshine-ai-moonshine]] [[amnezia-vpn-amnezia-client]]
+[[amnezia-vpn-amnezia-client]] [[moonshine-ai-moonshine]] [[ocornut-imgui]]
 

@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[anthropics-claude-cookbooks]] [[microsoft-ai-for-beginners]] [[moeru-ai-airi]]
+[[anthropics-claude-cookbooks]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[affaan-m-ecc]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]]
 

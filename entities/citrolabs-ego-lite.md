@@ -37,7 +37,7 @@ The fastest browser for AI agents to run web automation, built for sharing your 
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[affaan-m-ecc]]
+[[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[moeru-ai-airi]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

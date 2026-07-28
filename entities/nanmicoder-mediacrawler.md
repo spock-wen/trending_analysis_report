@@ -37,5 +37,5 @@ language: "Python"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[bradautomates-claude-video]] [[shiyu-coder-kronos]]
+[[andrewyng-aisuite]] [[virgiliojr94-book-to-skill]] [[bradautomates-claude-video]] [[huggingface-speech-to-speech]]
 

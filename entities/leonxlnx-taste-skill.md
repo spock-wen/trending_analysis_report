@@ -38,7 +38,7 @@ Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[moeru-ai-airi]]
+[[affaan-m-ecc]] [[moeru-ai-airi]] [[earthtojake-text-to-cad]] [[citrolabs-ego-lite]] [[bradautomates-claude-video]]
 
 **所属领域**: [[ai-agent]]
 

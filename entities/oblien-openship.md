@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[vudovn-ag-kit]] [[corebunch-instatic]] [[apache-cassandra]] [[moeru-ai-airi]] [[koala73-worldmonitor]]
+[[koala73-worldmonitor]] [[pascalorg-editor]] [[moeru-ai-airi]] [[apache-cassandra]] [[opengeos-geolibre]]
 
 **所属领域**: [[devops]]
 

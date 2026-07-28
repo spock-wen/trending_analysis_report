@@ -38,5 +38,5 @@ Kronos: A Foundation Model for the Language of Financial Markets
 
 ## 相关项目
 
-[[nanmicoder-mediacrawler]] [[mvanhorn-last30days-skill]] [[bradautomates-claude-video]]
+[[andrewyng-aisuite]] [[virgiliojr94-book-to-skill]] [[bradautomates-claude-video]] [[huggingface-speech-to-speech]]
 

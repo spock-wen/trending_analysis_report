@@ -35,5 +35,5 @@ A self-hosted travel/trip planner with real-time collaboration, interactive maps
 
 ## 相关项目
 
-[[vudovn-ag-kit]] [[moeru-ai-airi]] [[corebunch-instatic]] [[opengeos-geolibre]]
+[[opengeos-geolibre]] [[pascalorg-editor]] [[moeru-ai-airi]] [[vudovn-ag-kit]]
 

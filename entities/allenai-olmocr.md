@@ -34,7 +34,7 @@ Toolkit for linearizing PDFs for LLM datasets/training
 
 ## 相关项目
 
-[[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[apache-cassandra]]
+[[huggingface-speech-to-speech]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[affaan-m-ecc]] [[virgiliojr94-book-to-skill]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

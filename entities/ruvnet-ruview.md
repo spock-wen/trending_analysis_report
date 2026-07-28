@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[block-buzz]] [[oblien-openship]] [[automattic-harper]] [[apache-cassandra]] [[pumpkin-mc-pumpkin]]
+[[koala73-worldmonitor]] [[oblien-openship]] [[automattic-harper]] [[block-buzz]] [[apache-cassandra]]
 
 **所属领域**: [[devops]]
 

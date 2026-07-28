@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[prismml-eng-bonsai-demo]] [[moeru-ai-airi]]
+[[yorukot-superfile]] [[prismml-eng-bonsai-demo]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[amnezia-vpn-amnezia-client]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

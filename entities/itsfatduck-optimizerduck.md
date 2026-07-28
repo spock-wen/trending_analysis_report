@@ -34,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[k1tbyte-wand-enhancer]] [[jellyfin-jellyfin]] [[dotnet-aspnetcore]] [[home-assistant-core]] [[automattic-harper]]
+[[jellyfin-jellyfin]] [[amnezia-vpn-amnezia-client]] [[dotnet-aspnetcore]] [[par274-sharpemu]] [[automattic-harper]]
 
 **所属领域**: [[security]]
 

@@ -37,7 +37,7 @@ The most intelligent agent harness for code
 
 ## 相关项目
 
-[[block-buzz]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[automattic-harper]] [[moeru-ai-airi]]
+[[automattic-harper]] [[affaan-m-ecc]] [[moeru-ai-airi]] [[block-buzz]] [[bradautomates-claude-video]]
 
 **所属领域**: [[ai-agent]]
 

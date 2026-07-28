@@ -36,7 +36,7 @@ Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[moeru-ai-airi]] [[permissionlesstech-bitchat]] [[altic-dev-fluidvoice]]
+[[permissionlesstech-bitchat]] [[palmier-io-palmier-pro]] [[affaan-m-ecc]] [[moeru-ai-airi]] [[bradautomates-claude-video]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ Gas Town - multi-agent workspace manager
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[chenyme-grok2api]] [[moeru-ai-airi]] [[schollz-croc]]
+[[yorukot-superfile]] [[alibaba-open-code-review]] [[chenyme-grok2api]] [[schollz-croc]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

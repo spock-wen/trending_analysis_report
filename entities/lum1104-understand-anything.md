@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[mattpocock-skills]] [[microsoft-ontology-playground]] [[vudovn-ag-kit]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]]
+[[paperswithbacktest-awesome-systematic-trading]] [[yorukot-superfile]] [[amnezia-vpn-amnezia-client]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

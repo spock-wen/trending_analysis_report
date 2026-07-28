@@ -38,7 +38,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[bradautomates-claude-video]] [[mvanhorn-last30days-skill]] [[moeru-ai-airi]]
+[[andrewyng-aisuite]] [[affaan-m-ecc]] [[moeru-ai-airi]] [[bradautomates-claude-video]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[ossu-computer-science]] [[knockoutez-wigolo]] [[henryndubuaku-maths-cs-ai-compendium]] [[pbakaus-impeccable]] [[hasaneyldrm-exercises-dataset]]
+[[paperswithbacktest-awesome-systematic-trading]] [[knockoutez-wigolo]] [[pkuflyingpig-cs-self-learning]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

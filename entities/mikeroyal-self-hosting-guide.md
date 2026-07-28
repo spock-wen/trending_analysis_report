@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[microsoft-ai-for-beginners]] [[rohitg00-ai-engineering-from-scratch]]
+[[paperswithbacktest-awesome-systematic-trading]] [[pkuflyingpig-cs-self-learning]] [[rohitg00-ai-engineering-from-scratch]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

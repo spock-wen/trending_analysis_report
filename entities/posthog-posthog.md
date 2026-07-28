@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[oblien-openship]] [[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[ruvnet-ruview]]
+[[koala73-worldmonitor]] [[huggingface-speech-to-speech]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

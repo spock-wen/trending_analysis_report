@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ossu-computer-science]] [[hasaneyldrm-exercises-dataset]] [[mvanhorn-last30days-skill]] [[prisma-prisma]] [[corebunch-instatic]]
+[[pkuflyingpig-cs-self-learning]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[ossu-computer-science]] [[moeru-ai-airi]]
 
 **所属领域**: [[web]] [[image-gen]]
 

@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[vudovn-ag-kit]] [[corebunch-instatic]] [[home-assistant-core]] [[automattic-harper]] [[affaan-m-ecc]]
+[[amnezia-vpn-amnezia-client]] [[pascalorg-editor]] [[automattic-harper]] [[affaan-m-ecc]] [[moeru-ai-airi]]
 
 **所属领域**: [[security]]
 

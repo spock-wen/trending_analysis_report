@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[mattpocock-skills]] [[pbakaus-impeccable]] [[amnezia-vpn-amnezia-client]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]]
+[[yorukot-superfile]] [[prismml-eng-bonsai-demo]] [[obra-superpowers]] [[amnezia-vpn-amnezia-client]] [[corebunch-instatic]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

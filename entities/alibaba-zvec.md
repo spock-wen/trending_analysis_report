@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[ocornut-imgui]] [[corebunch-instatic]] [[apache-cassandra]] [[moonshine-ai-moonshine]] [[hyprwm-hyprland]]
+[[moonshine-ai-moonshine]] [[amnezia-vpn-amnezia-client]] [[hyprwm-hyprland]] [[alibaba-open-code-review]] [[corebunch-instatic]]
 
 **所属领域**: [[data]]
 

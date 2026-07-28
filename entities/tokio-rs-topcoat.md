@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[block-buzz]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[automattic-harper]] [[moeru-ai-airi]]
+[[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[automattic-harper]] [[moeru-ai-airi]] [[block-buzz]]
 
 **所属领域**: [[web]]
 

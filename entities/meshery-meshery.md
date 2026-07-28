@@ -37,5 +37,5 @@ Meshery, the cloud native manager
 
 ## 相关项目
 
-[[vudovn-ag-kit]] [[moeru-ai-airi]] [[corebunch-instatic]] [[opengeos-geolibre]]
+[[opengeos-geolibre]] [[pascalorg-editor]] [[moeru-ai-airi]] [[vudovn-ag-kit]]
 

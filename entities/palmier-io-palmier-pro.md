@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[steipete-codexbar]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[moeru-ai-airi]] [[permissionlesstech-bitchat]]
+[[permissionlesstech-bitchat]] [[affaan-m-ecc]] [[moeru-ai-airi]] [[bradautomates-claude-video]] [[andrewyng-aisuite]]
 
 **所属领域**: [[ai-agent]]
 

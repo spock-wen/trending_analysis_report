@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[microsoft-ai-for-beginners]] [[moeru-ai-airi]]
+[[paperswithbacktest-awesome-systematic-trading]] [[huggingface-speech-to-speech]] [[pkuflyingpig-cs-self-learning]] [[microsoft-ontology-playground]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

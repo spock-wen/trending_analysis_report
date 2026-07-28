@@ -38,7 +38,7 @@ Clone any website with one command using AI coding agents
 
 ## 相关项目
 
-[[mattpocock-skills]] [[vudovn-ag-kit]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[amnezia-vpn-amnezia-client]]
+[[yorukot-superfile]] [[amnezia-vpn-amnezia-client]] [[obra-superpowers]] [[pascalorg-editor]] [[corebunch-instatic]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

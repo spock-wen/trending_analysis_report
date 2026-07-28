@@ -36,7 +36,7 @@ Kimi Code CLI is your next CLI agent.
 
 ## 相关项目
 
-[[mattpocock-skills]] [[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[moeru-ai-airi]]
+[[yorukot-superfile]] [[huggingface-speech-to-speech]] [[amnezia-vpn-amnezia-client]] [[obra-superpowers]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

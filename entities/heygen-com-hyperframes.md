@@ -34,7 +34,7 @@ Write HTML. Render video. Built for agents.
 
 ## 相关项目
 
-[[vudovn-ag-kit]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[moeru-ai-airi]]
+[[pascalorg-editor]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

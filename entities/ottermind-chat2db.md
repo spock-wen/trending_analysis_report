@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[jenkinsci-jenkins]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]]
+[[jenkinsci-jenkins]] [[yorukot-superfile]] [[amnezia-vpn-amnezia-client]] [[obra-superpowers]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

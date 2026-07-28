@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[vudovn-ag-kit]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[moeru-ai-airi]] [[opengeos-geolibre]]
+[[pascalorg-editor]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[moeru-ai-airi]] [[opengeos-geolibre]]
 
 **所属领域**: [[web]]
 

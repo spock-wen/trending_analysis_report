@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[moeru-ai-airi]] [[trycua-cua]]
+[[pkuflyingpig-cs-self-learning]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[moeru-ai-airi]] [[opengeos-geolibre]]
 
 **所属领域**: [[web]]
 

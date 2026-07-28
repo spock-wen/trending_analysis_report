@@ -35,7 +35,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[nanmicoder-mediacrawler]] [[amnezia-vpn-amnezia-client]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[home-assistant-core]]
+[[anthropics-cwc-workshops]] [[openinterpreter-openinterpreter]] [[zeux-meshoptimizer]] [[huggingface-speech-to-speech]] [[amnezia-vpn-amnezia-client]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

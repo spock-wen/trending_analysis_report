@@ -38,7 +38,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[henryndubuaku-maths-cs-ai-compendium]] [[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]]
+[[paperswithbacktest-awesome-systematic-trading]] [[knockoutez-wigolo]] [[huggingface-speech-to-speech]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

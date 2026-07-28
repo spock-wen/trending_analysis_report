@@ -38,7 +38,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[ottermind-chat2db]] [[jenkinsci-jenkins]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[apache-cassandra]]
+[[ottermind-chat2db]] [[jenkinsci-jenkins]] [[affaan-m-ecc]] [[moeru-ai-airi]] [[bradautomates-claude-video]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Collection of publicly available IPTV channels from all over the world
 
 ## 相关项目
 
-[[vudovn-ag-kit]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[moeru-ai-airi]]
+[[pascalorg-editor]] [[affaan-m-ecc]] [[moeru-ai-airi]] [[bradautomates-claude-video]] [[opengeos-geolibre]]
 
 **所属领域**: [[ai-agent]]
 

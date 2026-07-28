@@ -35,5 +35,5 @@ Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 
 ## 相关项目
 
-[[automattic-harper]] [[block-buzz]] [[pumpkin-mc-pumpkin]] [[ruvnet-ruview]]
+[[automattic-harper]] [[ruvnet-ruview]] [[pumpkin-mc-pumpkin]] [[block-buzz]]
 

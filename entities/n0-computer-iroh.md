@@ -37,5 +37,5 @@ IP addresses break, dial keys instead. Modular networking stack in Rust.
 
 ## 相关项目
 
-[[automattic-harper]] [[block-buzz]] [[pumpkin-mc-pumpkin]] [[ruvnet-ruview]]
+[[automattic-harper]] [[ruvnet-ruview]] [[pumpkin-mc-pumpkin]] [[block-buzz]]
 

@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[plausible-analytics]] [[apache-cassandra]]
+[[alibaba-open-code-review]] [[corebunch-instatic]] [[affaan-m-ecc]] [[moeru-ai-airi]] [[plausible-analytics]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

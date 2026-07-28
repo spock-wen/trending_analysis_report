@@ -38,7 +38,7 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60
 
 ## 相关项目
 
-[[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[moeru-ai-airi]] [[shiyu-coder-kronos]]
+[[huggingface-speech-to-speech]] [[affaan-m-ecc]] [[virgiliojr94-book-to-skill]] [[bradautomates-claude-video]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]]
 

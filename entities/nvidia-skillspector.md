@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[home-assistant-core]] [[automattic-harper]]
+[[huggingface-speech-to-speech]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[affaan-m-ecc]] [[virgiliojr94-book-to-skill]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

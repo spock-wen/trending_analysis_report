@@ -34,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[corebunch-instatic]] [[opengeos-geolibre]]
+[[opengeos-geolibre]] [[pascalorg-editor]] [[moeru-ai-airi]]
 

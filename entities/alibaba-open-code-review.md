@@ -36,7 +36,7 @@ Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture cod
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[apache-cassandra]] [[chenyme-grok2api]]
+[[yorukot-superfile]] [[chenyme-grok2api]] [[corebunch-instatic]] [[schollz-croc]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ossu-computer-science]] [[hasaneyldrm-exercises-dataset]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[microsoft-ai-for-beginners]]
+[[paperswithbacktest-awesome-systematic-trading]] [[rohitg00-ai-engineering-from-scratch]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[microsoft-ontology-playground]]
 
 **所属领域**: [[web]] [[education]]
 

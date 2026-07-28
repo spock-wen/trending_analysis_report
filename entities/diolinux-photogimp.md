@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[nutlope-hallmark]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[anthropics-cwc-workshops]] [[moeru-ai-airi]]
+[[anthropics-cwc-workshops]] [[nutlope-hallmark]] [[openinterpreter-openinterpreter]] [[zeux-meshoptimizer]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[erp]]
 

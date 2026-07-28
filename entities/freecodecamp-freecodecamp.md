@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[vudovn-ag-kit]] [[corebunch-instatic]] [[microsoft-ai-for-beginners]] [[rohitg00-ai-engineering-from-scratch]] [[moeru-ai-airi]]
+[[paperswithbacktest-awesome-systematic-trading]] [[pkuflyingpig-cs-self-learning]] [[rohitg00-ai-engineering-from-scratch]] [[pascalorg-editor]] [[microsoft-ontology-playground]]
 
 **所属领域**: [[education]]
 

@@ -35,7 +35,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[moeru-ai-airi]] [[bradautomates-claude-video]]
+[[affaan-m-ecc]] [[moeru-ai-airi]] [[bradautomates-claude-video]] [[citrolabs-ego-lite]] [[andrewyng-aisuite]]
 
 **所属领域**: [[ai-agent]]
 

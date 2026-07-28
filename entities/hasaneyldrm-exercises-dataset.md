@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ossu-computer-science]] [[alibaba-open-code-review]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]]
+[[pkuflyingpig-cs-self-learning]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[ossu-computer-science]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

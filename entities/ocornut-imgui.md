@@ -34,5 +34,5 @@ Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencie
 
 ## 相关项目
 
-[[hyprwm-hyprland]] [[moonshine-ai-moonshine]] [[amnezia-vpn-amnezia-client]]
+[[amnezia-vpn-amnezia-client]] [[moonshine-ai-moonshine]] [[hyprwm-hyprland]]
 

@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[nanmicoder-mediacrawler]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[apache-cassandra]] [[shiyu-coder-kronos]]
+[[huggingface-speech-to-speech]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[virgiliojr94-book-to-skill]] [[bradautomates-claude-video]]
 
 **所属领域**: [[data]]
 

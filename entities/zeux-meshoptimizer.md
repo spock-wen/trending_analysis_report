@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[ocornut-imgui]] [[moonshine-ai-moonshine]] [[anthropics-cwc-workshops]] [[openinterpreter-openinterpreter]] [[obra-superpowers]]
+[[anthropics-cwc-workshops]] [[moonshine-ai-moonshine]] [[openinterpreter-openinterpreter]] [[amnezia-vpn-amnezia-client]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[ahmadibrahiim-website-downloader]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[prisma-prisma]]
+[[affaan-m-ecc]] [[moeru-ai-airi]] [[earthtojake-text-to-cad]] [[citrolabs-ego-lite]] [[bradautomates-claude-video]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

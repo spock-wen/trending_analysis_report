@@ -35,7 +35,7 @@ A TTS that fits in your CPU (and pocket)
 
 ## 相关项目
 
-[[nanmicoder-mediacrawler]] [[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[jamiepine-voicebox]] [[moonshine-ai-moonshine]]
+[[moonshine-ai-moonshine]] [[huggingface-speech-to-speech]] [[jamiepine-voicebox]] [[affaan-m-ecc]] [[virgiliojr94-book-to-skill]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

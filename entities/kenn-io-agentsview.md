@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]] [[apache-cassandra]] [[chenyme-grok2api]]
+[[yorukot-superfile]] [[alibaba-open-code-review]] [[chenyme-grok2api]] [[corebunch-instatic]] [[schollz-croc]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[vudovn-ag-kit]] [[corebunch-instatic]] [[moeru-ai-airi]] [[openinterpreter-openinterpreter]] [[obra-superpowers]]
+[[openinterpreter-openinterpreter]] [[zeux-meshoptimizer]] [[obra-superpowers]] [[pascalorg-editor]] [[moeru-ai-airi]]
 
 **所属领域**: [[erp]]
 

@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[ossu-computer-science]] [[alibaba-open-code-review]] [[ahmadibrahiim-website-downloader]] [[pbakaus-impeccable]] [[hasaneyldrm-exercises-dataset]]
+[[pkuflyingpig-cs-self-learning]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[ossu-computer-science]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

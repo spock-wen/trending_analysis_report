@@ -35,5 +35,5 @@ language: "Java"
 
 ## 相关项目
 
-[[apache-cassandra]] [[jenkinsci-jenkins]] [[ottermind-chat2db]] [[github-copilot-sdk]]
+[[ottermind-chat2db]] [[github-copilot-sdk]] [[jenkinsci-jenkins]] [[apache-cassandra]]
 

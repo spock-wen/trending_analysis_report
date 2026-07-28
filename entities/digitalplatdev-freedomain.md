@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[ossu-computer-science]] [[pbakaus-impeccable]] [[hasaneyldrm-exercises-dataset]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]]
+[[pkuflyingpig-cs-self-learning]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[ossu-computer-science]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

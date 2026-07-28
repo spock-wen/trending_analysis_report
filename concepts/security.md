@@ -1,7 +1,7 @@
 ---
 title: "security"
 created: 2026-05-26
-updated: 2026-07-28
+updated: 2026-07-29
 type: concept
 tags: [security]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 领域项目（共 16 个，今日上榜 1 个）
 
-[[amnezia-vpn-amnezia-client]] [[affaan-m-ecc]] [[automattic-harper]] [[home-assistant-core]] [[zackriya-solutions-meetily]] [[veracrypt-veracrypt]] [[keycloak-keycloak]] [[mukul975-anthropic-cybersecurity-skills]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[nvidia-skillspector]] [[itsfatduck-optimizerduck]] [[masterking32-masterdnsvpn]] [[reconurge-flowsint]] [[aquasecurity-trivy]] [[cloakhq-cloakbrowser]] [[plausible-analytics]]
+[[affaan-m-ecc]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[home-assistant-core]] [[zackriya-solutions-meetily]] [[veracrypt-veracrypt]] [[keycloak-keycloak]] [[mukul975-anthropic-cybersecurity-skills]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[nvidia-skillspector]] [[itsfatduck-optimizerduck]] [[masterking32-masterdnsvpn]] [[reconurge-flowsint]] [[aquasecurity-trivy]] [[cloakhq-cloakbrowser]] [[plausible-analytics]]
 
 ## 语言分布
 
-Python 4个, Rust 3个, Go 2个, C++ 1个, JavaScript 1个, C 1个, Java 1个, C# 1个, TypeScript 1个, Elixir 1个
+Python 4个, Rust 3个, Go 2个, JavaScript 1个, C++ 1个, C 1个, Java 1个, C# 1个, TypeScript 1个, Elixir 1个
 
 ## 趋势观察
 

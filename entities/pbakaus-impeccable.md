@@ -35,7 +35,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[moeru-ai-airi]] [[bradautomates-claude-video]]
+[[affaan-m-ecc]] [[moeru-ai-airi]] [[earthtojake-text-to-cad]] [[citrolabs-ego-lite]] [[bradautomates-claude-video]]
 
 **所属领域**: [[ai-agent]]
 

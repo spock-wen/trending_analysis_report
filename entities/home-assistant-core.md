@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nanmicoder-mediacrawler]] [[mvanhorn-last30days-skill]] [[automattic-harper]] [[affaan-m-ecc]] [[shiyu-coder-kronos]]
+[[huggingface-speech-to-speech]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[affaan-m-ecc]] [[virgiliojr94-book-to-skill]]
 
 **所属领域**: [[security]]
 

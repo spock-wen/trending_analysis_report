@@ -35,7 +35,7 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 
 ## 相关项目
 
-[[yorukot-superfile]] [[amnezia-vpn-amnezia-client]] [[obra-superpowers]] [[pascalorg-editor]] [[mattpocock-skills]]
+[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[yorukot-superfile]] [[alibaba-open-code-review]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

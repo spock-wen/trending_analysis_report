@@ -35,5 +35,5 @@ Easily and securely send things from one computer to another 🐊 📦
 
 ## 相关项目
 
-[[yorukot-superfile]] [[alibaba-open-code-review]] [[chenyme-grok2api]]
+[[chenyme-grok2api]] [[yorukot-superfile]] [[alibaba-open-code-review]]
 

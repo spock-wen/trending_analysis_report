@@ -38,7 +38,7 @@ Give Claude the ability to watch any video. /watch downloads, extracts frames, t
 
 ## 相关项目
 
-[[huggingface-speech-to-speech]] [[virgiliojr94-book-to-skill]] [[moeru-ai-airi]] [[affaan-m-ecc]] [[andrewyng-aisuite]]
+[[moeru-ai-airi]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[nanmicoder-mediacrawler]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

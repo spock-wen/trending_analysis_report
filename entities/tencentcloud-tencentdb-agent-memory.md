@@ -35,7 +35,7 @@ TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[pascalorg-editor]] [[corebunch-instatic]] [[affaan-m-ecc]] [[moeru-ai-airi]]
+[[moeru-ai-airi]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[apache-cassandra]] [[different-ai-openwork]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

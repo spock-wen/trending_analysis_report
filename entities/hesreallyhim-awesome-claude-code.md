@@ -35,7 +35,7 @@ A hand-picked collection of the finest of resources for the most awesome of agen
 
 ## 相关项目
 
-[[huggingface-speech-to-speech]] [[affaan-m-ecc]] [[virgiliojr94-book-to-skill]] [[bradautomates-claude-video]] [[moeru-ai-airi]]
+[[moeru-ai-airi]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[nanmicoder-mediacrawler]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

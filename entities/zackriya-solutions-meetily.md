@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[home-assistant-core]] [[amnezia-vpn-amnezia-client]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]]
+[[moeru-ai-airi]] [[pumpkin-mc-pumpkin]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[block-buzz]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

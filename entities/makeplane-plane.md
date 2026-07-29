@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[yorukot-superfile]] [[amnezia-vpn-amnezia-client]] [[obra-superpowers]] [[pascalorg-editor]] [[mattpocock-skills]]
+[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[yorukot-superfile]] [[mattpocock-skills]] [[different-ai-openwork]]
 
 **所属领域**: [[cli]]
 

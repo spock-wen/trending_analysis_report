@@ -36,7 +36,7 @@ The open-source managed agents platform. Turn coding agents into real teammates 
 
 ## 相关项目
 
-[[pascalorg-editor]] [[affaan-m-ecc]] [[moeru-ai-airi]] [[bradautomates-claude-video]] [[opengeos-geolibre]]
+[[moeru-ai-airi]] [[alibaba-open-code-review]] [[different-ai-openwork]] [[pascalorg-editor]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

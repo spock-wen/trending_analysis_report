@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[paperswithbacktest-awesome-systematic-trading]] [[huggingface-speech-to-speech]] [[pkuflyingpig-cs-self-learning]] [[microsoft-ontology-playground]] [[affaan-m-ecc]]
+[[moeru-ai-airi]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[nanmicoder-mediacrawler]] [[microsoft-ontology-playground]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

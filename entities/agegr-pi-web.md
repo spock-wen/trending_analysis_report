@@ -36,7 +36,7 @@ Web UI for the pi coding agent
 
 ## 相关项目
 
-[[pascalorg-editor]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[moeru-ai-airi]]
+[[moeru-ai-airi]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[different-ai-openwork]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

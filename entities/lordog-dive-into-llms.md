@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[affaan-m-ecc]] [[moeru-ai-airi]]
+[[moeru-ai-airi]] [[alibaba-open-code-review]] [[lyogavin-airllm]] [[anthropics-claude-cookbooks]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

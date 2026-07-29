@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[paperswithbacktest-awesome-systematic-trading]] [[pascalorg-editor]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]]
+[[moeru-ai-airi]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[paperswithbacktest-awesome-systematic-trading]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

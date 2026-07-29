@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[yorukot-superfile]] [[amnezia-vpn-amnezia-client]] [[obra-superpowers]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]]
+[[moeru-ai-airi]] [[pumpkin-mc-pumpkin]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[yorukot-superfile]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[huggingface-speech-to-speech]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[virgiliojr94-book-to-skill]]
+[[moeru-ai-airi]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[nanmicoder-mediacrawler]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

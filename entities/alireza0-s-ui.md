@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[yorukot-superfile]] [[alibaba-open-code-review]] [[chenyme-grok2api]] [[corebunch-instatic]] [[schollz-croc]]
+[[moeru-ai-airi]] [[yorukot-superfile]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]]
 

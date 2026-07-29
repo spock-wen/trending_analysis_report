@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[huggingface-speech-to-speech]] [[affaan-m-ecc]] [[virgiliojr94-book-to-skill]] [[bradautomates-claude-video]] [[moeru-ai-airi]]
+[[moeru-ai-airi]] [[trycua-cua]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[nanmicoder-mediacrawler]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

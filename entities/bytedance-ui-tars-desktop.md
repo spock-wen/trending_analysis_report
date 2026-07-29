@@ -34,7 +34,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[pascalorg-editor]] [[oblien-openship]] [[affaan-m-ecc]] [[moeru-ai-airi]]
+[[moeru-ai-airi]] [[oblien-openship]] [[alibaba-open-code-review]] [[apache-cassandra]] [[different-ai-openwork]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

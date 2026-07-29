@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[openinterpreter-openinterpreter]] [[lyogavin-airllm]] [[microsoft-ontology-playground]] [[microsoft-ai-for-beginners]] [[bradautomates-claude-video]]
+[[anthropics-claude-cookbooks]] [[openinterpreter-openinterpreter]] [[pkuflyingpig-cs-self-learning]] [[microsoft-ai-for-beginners]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

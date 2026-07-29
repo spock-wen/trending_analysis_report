@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[paperswithbacktest-awesome-systematic-trading]] [[pkuflyingpig-cs-self-learning]] [[rohitg00-ai-engineering-from-scratch]] [[pascalorg-editor]] [[corebunch-instatic]]
+[[moeru-ai-airi]] [[corebunch-instatic]] [[paperswithbacktest-awesome-systematic-trading]] [[mvanhorn-last30days-skill]] [[different-ai-openwork]]
 
 **所属领域**: [[web]] [[education]]
 

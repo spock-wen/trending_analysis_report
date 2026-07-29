@@ -37,5 +37,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[opengeos-geolibre]] [[pascalorg-editor]] [[moeru-ai-airi]] [[vudovn-ag-kit]]
+[[pascalorg-editor]] [[different-ai-openwork]] [[opengeos-geolibre]] [[moeru-ai-airi]]
 

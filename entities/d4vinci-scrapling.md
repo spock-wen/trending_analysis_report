@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[huggingface-speech-to-speech]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[virgiliojr94-book-to-skill]] [[moeru-ai-airi]]
+[[moeru-ai-airi]] [[paperswithbacktest-awesome-systematic-trading]] [[corebunch-instatic]] [[nanmicoder-mediacrawler]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]]
 

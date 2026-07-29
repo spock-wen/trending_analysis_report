@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[paperswithbacktest-awesome-systematic-trading]] [[rohitg00-ai-engineering-from-scratch]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[microsoft-ontology-playground]]
+[[moeru-ai-airi]] [[trycua-cua]] [[corebunch-instatic]] [[paperswithbacktest-awesome-systematic-trading]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]] [[education]]
 

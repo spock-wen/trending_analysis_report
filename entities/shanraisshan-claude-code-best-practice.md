@@ -35,7 +35,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[ossu-computer-science]] [[affaan-m-ecc]]
+[[moeru-ai-airi]] [[trycua-cua]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

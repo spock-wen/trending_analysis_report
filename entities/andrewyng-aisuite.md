@@ -37,7 +37,7 @@ Simple, unified interface to multiple Generative AI providers
 
 ## 相关项目
 
-[[huggingface-speech-to-speech]] [[affaan-m-ecc]] [[moeru-ai-airi]] [[bradautomates-claude-video]] [[virgiliojr94-book-to-skill]]
+[[moeru-ai-airi]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[nanmicoder-mediacrawler]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[huggingface-speech-to-speech]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[affaan-m-ecc]] [[virgiliojr94-book-to-skill]]
+[[moeru-ai-airi]] [[trycua-cua]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[apache-cassandra]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

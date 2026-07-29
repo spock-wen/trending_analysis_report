@@ -35,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[yorukot-superfile]] [[jellyfin-jellyfin]] [[amnezia-vpn-amnezia-client]] [[obra-superpowers]] [[dotnet-aspnetcore]]
+[[amnezia-vpn-amnezia-client]] [[jellyfin-jellyfin]] [[yorukot-superfile]] [[mattpocock-skills]] [[k1tbyte-wand-enhancer]]
 
 **所属领域**: [[cli]]
 

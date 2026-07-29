@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[andreknieriem-headunit-revived]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[moeru-ai-airi]]
+[[moeru-ai-airi]] [[yairm210-unciv]] [[bannedbook-fanqiang]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]]
 

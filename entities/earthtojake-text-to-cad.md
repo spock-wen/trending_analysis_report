@@ -35,7 +35,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[moeru-ai-airi]] [[bradautomates-claude-video]] [[citrolabs-ego-lite]] [[andrewyng-aisuite]]
+[[moeru-ai-airi]] [[alibaba-open-code-review]] [[citrolabs-ego-lite]] [[affaan-m-ecc]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

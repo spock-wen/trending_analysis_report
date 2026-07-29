@@ -37,7 +37,7 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[paperswithbacktest-awesome-systematic-trading]] [[knockoutez-wigolo]] [[huggingface-speech-to-speech]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]]
+[[moeru-ai-airi]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[nanmicoder-mediacrawler]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

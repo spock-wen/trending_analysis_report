@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[andrewyng-aisuite]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[affaan-m-ecc]] [[moeru-ai-airi]]
+[[moeru-ai-airi]] [[alibaba-open-code-review]] [[lyogavin-airllm]] [[lordog-dive-into-llms]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

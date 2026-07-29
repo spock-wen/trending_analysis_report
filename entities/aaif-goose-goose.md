@@ -36,7 +36,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[automattic-harper]] [[affaan-m-ecc]] [[moeru-ai-airi]] [[block-buzz]] [[bradautomates-claude-video]]
+[[moeru-ai-airi]] [[pumpkin-mc-pumpkin]] [[automattic-harper]] [[block-buzz]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

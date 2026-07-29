@@ -34,5 +34,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[citrolabs-ego-lite]] [[earthtojake-text-to-cad]] [[pbakaus-impeccable]]
+[[affaan-m-ecc]] [[citrolabs-ego-lite]] [[pbakaus-impeccable]] [[earthtojake-text-to-cad]]
 

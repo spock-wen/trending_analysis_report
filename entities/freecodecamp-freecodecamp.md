@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[paperswithbacktest-awesome-systematic-trading]] [[pkuflyingpig-cs-self-learning]] [[rohitg00-ai-engineering-from-scratch]] [[pascalorg-editor]] [[microsoft-ontology-playground]]
+[[moeru-ai-airi]] [[paperswithbacktest-awesome-systematic-trading]] [[microsoft-ontology-playground]] [[different-ai-openwork]] [[pascalorg-editor]]
 
 **所属领域**: [[education]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[moeru-ai-airi]] [[opengeos-geolibre]]
+[[moeru-ai-airi]] [[trycua-cua]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[pkuflyingpig-cs-self-learning]]
 
 **所属领域**: [[web]]
 

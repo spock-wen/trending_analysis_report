@@ -34,5 +34,5 @@ Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engi
 
 ## 相关项目
 
-[[automattic-harper]] [[ruvnet-ruview]] [[pumpkin-mc-pumpkin]] [[block-buzz]]
+[[pumpkin-mc-pumpkin]] [[automattic-harper]] [[block-buzz]] [[1jehuang-jcode]]
 

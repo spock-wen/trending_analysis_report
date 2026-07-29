@@ -34,7 +34,7 @@ Langflow is a powerful tool for building and deploying AI-powered agents and wor
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[huggingface-speech-to-speech]] [[oblien-openship]] [[affaan-m-ecc]] [[virgiliojr94-book-to-skill]]
+[[moeru-ai-airi]] [[oblien-openship]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[apache-cassandra]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

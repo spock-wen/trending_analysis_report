@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[jenkinsci-jenkins]] [[yorukot-superfile]] [[amnezia-vpn-amnezia-client]] [[obra-superpowers]] [[alibaba-open-code-review]]
+[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[github-copilot-sdk]] [[yorukot-superfile]] [[jenkinsci-jenkins]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

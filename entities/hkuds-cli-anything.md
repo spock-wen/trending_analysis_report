@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[yorukot-superfile]] [[huggingface-speech-to-speech]] [[amnezia-vpn-amnezia-client]] [[obra-superpowers]] [[corebunch-instatic]]
+[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[yorukot-superfile]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

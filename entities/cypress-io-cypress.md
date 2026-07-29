@@ -36,7 +36,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[pascalorg-editor]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[moeru-ai-airi]] [[opengeos-geolibre]]
+[[moeru-ai-airi]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[different-ai-openwork]] [[pascalorg-editor]]
 
 **所属领域**: [[web]]
 

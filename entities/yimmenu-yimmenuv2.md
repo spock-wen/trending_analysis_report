@@ -35,5 +35,5 @@ Experimental menu for GTA 5: Enhanced
 
 ## 相关项目
 
-[[amnezia-vpn-amnezia-client]] [[moonshine-ai-moonshine]] [[hyprwm-hyprland]] [[ocornut-imgui]]
+[[amnezia-vpn-amnezia-client]] [[hyprwm-hyprland]] [[ocornut-imgui]] [[moonshine-ai-moonshine]]
 

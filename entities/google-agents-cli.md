@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[yorukot-superfile]] [[koala73-worldmonitor]] [[huggingface-speech-to-speech]] [[amnezia-vpn-amnezia-client]] [[obra-superpowers]]
+[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[oblien-openship]] [[yorukot-superfile]] [[paperswithbacktest-awesome-systematic-trading]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

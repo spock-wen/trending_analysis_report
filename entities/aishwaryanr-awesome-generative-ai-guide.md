@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[paperswithbacktest-awesome-systematic-trading]] [[knockoutez-wigolo]] [[pkuflyingpig-cs-self-learning]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]]
+[[moeru-ai-airi]] [[trycua-cua]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[paperswithbacktest-awesome-systematic-trading]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[ossu-computer-science]] [[moeru-ai-airi]]
+[[moeru-ai-airi]] [[trycua-cua]] [[corebunch-instatic]] [[graphify-labs-graphify]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]] [[image-gen]]
 

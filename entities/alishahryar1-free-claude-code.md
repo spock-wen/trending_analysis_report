@@ -36,7 +36,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[moonshine-ai-moonshine]] [[yorukot-superfile]] [[huggingface-speech-to-speech]] [[jamiepine-voicebox]] [[amnezia-vpn-amnezia-client]]
+[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[yorukot-superfile]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

@@ -34,7 +34,7 @@ A Python framework for self-hosted LLM tool-calling and multi-step agentic workf
 
 ## 相关项目
 
-[[huggingface-speech-to-speech]] [[affaan-m-ecc]] [[virgiliojr94-book-to-skill]] [[bradautomates-claude-video]] [[moeru-ai-airi]]
+[[moeru-ai-airi]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[nanmicoder-mediacrawler]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

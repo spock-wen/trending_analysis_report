@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[paperswithbacktest-awesome-systematic-trading]] [[knockoutez-wigolo]] [[pkuflyingpig-cs-self-learning]] [[rohitg00-ai-engineering-from-scratch]] [[mvanhorn-last30days-skill]]
+[[moeru-ai-airi]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[microsoft-ontology-playground]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

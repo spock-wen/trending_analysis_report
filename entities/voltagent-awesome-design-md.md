@@ -34,7 +34,7 @@ A collection of DESIGN.md files analysis by popular brand design systems. Drop o
 
 ## 相关项目
 
-[[andrewyng-aisuite]] [[affaan-m-ecc]] [[moeru-ai-airi]] [[bradautomates-claude-video]]
+[[moeru-ai-airi]] [[affaan-m-ecc]] [[obra-superpowers]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

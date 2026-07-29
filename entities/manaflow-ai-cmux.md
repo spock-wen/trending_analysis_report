@@ -36,7 +36,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[permissionlesstech-bitchat]] [[yorukot-superfile]] [[amnezia-vpn-amnezia-client]] [[obra-superpowers]] [[palmier-io-palmier-pro]]
+[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[steipete-codexbar]] [[permissionlesstech-bitchat]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

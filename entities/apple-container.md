@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[permissionlesstech-bitchat]] [[palmier-io-palmier-pro]] [[affaan-m-ecc]] [[moeru-ai-airi]] [[bradautomates-claude-video]]
+[[moeru-ai-airi]] [[steipete-codexbar]] [[permissionlesstech-bitchat]] [[alibaba-open-code-review]] [[palmier-io-palmier-pro]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框�
 
 ## 相关项目
 
-[[paperswithbacktest-awesome-systematic-trading]] [[knockoutez-wigolo]] [[huggingface-speech-to-speech]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]]
+[[moeru-ai-airi]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[nanmicoder-mediacrawler]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

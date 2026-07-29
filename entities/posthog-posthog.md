@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[huggingface-speech-to-speech]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]]
+[[moeru-ai-airi]] [[oblien-openship]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[corebunch-instatic]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[veracrypt-veracrypt]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[affaan-m-ecc]] [[moeru-ai-airi]]
+[[moeru-ai-airi]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[apache-cassandra]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

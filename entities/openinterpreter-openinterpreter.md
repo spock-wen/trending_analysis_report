@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[anthropics-cwc-workshops]] [[zeux-meshoptimizer]] [[obra-superpowers]] [[automattic-harper]] [[affaan-m-ecc]]
+[[moeru-ai-airi]] [[pumpkin-mc-pumpkin]] [[zeux-meshoptimizer]] [[automattic-harper]] [[block-buzz]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

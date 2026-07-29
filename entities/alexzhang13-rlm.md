@@ -34,5 +34,5 @@ General plug-and-play inference library for Recursive Language Models (RLMs), su
 
 ## 相关项目
 
-[[andrewyng-aisuite]] [[virgiliojr94-book-to-skill]] [[bradautomates-claude-video]] [[huggingface-speech-to-speech]]
+[[paperswithbacktest-awesome-systematic-trading]] [[nanmicoder-mediacrawler]] [[huggingface-speech-to-speech]] [[virgiliojr94-book-to-skill]]
 

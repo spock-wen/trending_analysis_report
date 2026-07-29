@@ -34,7 +34,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[yorukot-superfile]] [[alibaba-open-code-review]] [[chenyme-grok2api]] [[schollz-croc]] [[affaan-m-ecc]]
+[[moeru-ai-airi]] [[yorukot-superfile]] [[alibaba-open-code-review]] [[affaan-m-ecc]] [[schollz-croc]]
 
 **所属领域**: [[ai-agent]]
 

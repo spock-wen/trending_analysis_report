@@ -38,7 +38,7 @@ This is MCP server for Claude that gives it terminal control, file system search
 
 ## 相关项目
 
-[[yorukot-superfile]] [[amnezia-vpn-amnezia-client]] [[obra-superpowers]] [[pascalorg-editor]] [[mattpocock-skills]]
+[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[yorukot-superfile]] [[alibaba-open-code-review]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

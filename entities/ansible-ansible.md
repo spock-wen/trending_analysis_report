@@ -35,7 +35,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[huggingface-speech-to-speech]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[oblien-openship]]
+[[moeru-ai-airi]] [[oblien-openship]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[corebunch-instatic]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

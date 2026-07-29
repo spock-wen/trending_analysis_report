@@ -16,7 +16,6 @@ last_trending: 2026-07-26
 peak_rank: 3
 total_stars: 3529
 language: "JavaScript"
-contested: true
 ---
 
 # citrolabs/ego-lite
@@ -37,17 +36,7 @@ The fastest browser for AI agents to run web automation, built for sharing your 
 
 ## 相关项目
 
-[[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[moeru-ai-airi]] [[earthtojake-text-to-cad]]
+[[moeru-ai-airi]] [[earthtojake-text-to-cad]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]]
-
-
-## ⚠️ 描述变更（2026-07-25）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: The best browser for both you and your AI agents work in parallel.
-- **新描述**: The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

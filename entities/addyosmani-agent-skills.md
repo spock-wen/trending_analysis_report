@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[moeru-ai-airi]] [[earthtojake-text-to-cad]] [[citrolabs-ego-lite]] [[bradautomates-claude-video]]
+[[moeru-ai-airi]] [[earthtojake-text-to-cad]] [[alibaba-open-code-review]] [[citrolabs-ego-lite]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

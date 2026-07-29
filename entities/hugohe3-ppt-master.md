@@ -34,7 +34,7 @@ AI generates a real, editable PowerPoint from any document — native shapes & a
 
 ## 相关项目
 
-[[anthropics-cwc-workshops]] [[moonshine-ai-moonshine]] [[openinterpreter-openinterpreter]] [[zeux-meshoptimizer]] [[huggingface-speech-to-speech]]
+[[moeru-ai-airi]] [[zeux-meshoptimizer]] [[trycua-cua]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[image-gen]] [[audio]]
 

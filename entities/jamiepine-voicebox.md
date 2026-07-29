@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[moonshine-ai-moonshine]] [[huggingface-speech-to-speech]] [[pascalorg-editor]] [[affaan-m-ecc]] [[moeru-ai-airi]]
+[[moeru-ai-airi]] [[alibaba-open-code-review]] [[microsoft-vibevoice]] [[different-ai-openwork]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

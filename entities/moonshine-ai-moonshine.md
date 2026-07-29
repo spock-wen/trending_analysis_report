@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[huggingface-speech-to-speech]] [[jamiepine-voicebox]] [[amnezia-vpn-amnezia-client]] [[hyprwm-hyprland]] [[affaan-m-ecc]]
+[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[alibaba-open-code-review]] [[microsoft-vibevoice]] [[hyprwm-hyprland]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

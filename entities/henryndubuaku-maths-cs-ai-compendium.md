@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[paperswithbacktest-awesome-systematic-trading]] [[knockoutez-wigolo]] [[pascalorg-editor]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]]
+[[moeru-ai-airi]] [[alibaba-open-code-review]] [[paperswithbacktest-awesome-systematic-trading]] [[mvanhorn-last30days-skill]] [[different-ai-openwork]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

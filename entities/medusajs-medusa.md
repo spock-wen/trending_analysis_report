@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[anthropics-cwc-workshops]] [[openinterpreter-openinterpreter]] [[zeux-meshoptimizer]] [[obra-superpowers]] [[pascalorg-editor]]
+[[moeru-ai-airi]] [[zeux-meshoptimizer]] [[different-ai-openwork]] [[pascalorg-editor]] [[openinterpreter-openinterpreter]]
 
 **所属领域**: [[erp]]
 

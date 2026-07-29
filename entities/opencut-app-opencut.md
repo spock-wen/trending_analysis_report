@@ -38,5 +38,5 @@ The open-source CapCut alternative
 
 ## 相关项目
 
-[[opengeos-geolibre]] [[pascalorg-editor]] [[moeru-ai-airi]] [[vudovn-ag-kit]]
+[[pascalorg-editor]] [[different-ai-openwork]] [[opengeos-geolibre]] [[moeru-ai-airi]]
 

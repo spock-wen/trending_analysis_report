@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[docusealco-docuseal]] [[affaan-m-ecc]] [[moeru-ai-airi]] [[bradautomates-claude-video]] [[andrewyng-aisuite]]
+[[moeru-ai-airi]] [[alibaba-open-code-review]] [[docusealco-docuseal]] [[affaan-m-ecc]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

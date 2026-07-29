@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[yorukot-superfile]] [[amnezia-vpn-amnezia-client]] [[obra-superpowers]] [[pascalorg-editor]] [[corebunch-instatic]]
+[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[yorukot-superfile]] [[alibaba-open-code-review]] [[corebunch-instatic]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -34,7 +34,7 @@ Hundreds of models & providers. One command to find what runs on your hardware.
 
 ## 相关项目
 
-[[yorukot-superfile]] [[amnezia-vpn-amnezia-client]] [[obra-superpowers]] [[automattic-harper]] [[mattpocock-skills]]
+[[moeru-ai-airi]] [[pumpkin-mc-pumpkin]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[yorukot-superfile]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

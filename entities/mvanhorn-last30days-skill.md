@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[paperswithbacktest-awesome-systematic-trading]] [[knockoutez-wigolo]] [[huggingface-speech-to-speech]] [[corebunch-instatic]] [[affaan-m-ecc]]
+[[moeru-ai-airi]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[nanmicoder-mediacrawler]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

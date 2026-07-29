@@ -34,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[microsoft-ai-for-beginners]] [[lordog-dive-into-llms]] [[lyogavin-airllm]]
+[[anthropics-claude-cookbooks]] [[lordog-dive-into-llms]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]]
 

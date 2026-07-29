@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[huggingface-speech-to-speech]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[affaan-m-ecc]] [[virgiliojr94-book-to-skill]]
+[[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[paperswithbacktest-awesome-systematic-trading]] [[nanmicoder-mediacrawler]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

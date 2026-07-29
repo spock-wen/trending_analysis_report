@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[ottermind-chat2db]] [[jenkinsci-jenkins]] [[home-assistant-core]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]]
+[[amnezia-vpn-amnezia-client]] [[github-copilot-sdk]] [[automattic-harper]] [[jenkinsci-jenkins]] [[apache-cassandra]]
 
 **所属领域**: [[security]]
 

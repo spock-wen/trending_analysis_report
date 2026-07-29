@@ -35,5 +35,5 @@ git push no-mistakes
 
 ## 相关项目
 
-[[schollz-croc]] [[yorukot-superfile]] [[alibaba-open-code-review]] [[chenyme-grok2api]]
+[[schollz-croc]] [[chenyme-grok2api]] [[yorukot-superfile]] [[alibaba-open-code-review]]
 

@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[paperswithbacktest-awesome-systematic-trading]] [[huggingface-speech-to-speech]] [[pkuflyingpig-cs-self-learning]] [[rohitg00-ai-engineering-from-scratch]] [[microsoft-ontology-playground]]
+[[moeru-ai-airi]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[nanmicoder-mediacrawler]] [[microsoft-ontology-playground]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

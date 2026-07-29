@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[yorukot-superfile]] [[prismml-eng-bonsai-demo]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[amnezia-vpn-amnezia-client]]
+[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[prismml-eng-bonsai-demo]] [[mattpocock-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

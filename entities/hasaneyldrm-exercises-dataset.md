@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[ossu-computer-science]]
+[[moeru-ai-airi]] [[trycua-cua]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[apache-cassandra]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

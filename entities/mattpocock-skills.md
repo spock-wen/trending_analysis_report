@@ -38,17 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[yorukot-superfile]] [[prismml-eng-bonsai-demo]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[amnezia-vpn-amnezia-client]]
+[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[prismml-eng-bonsai-demo]] [[alibaba-open-code-review]] [[yorukot-superfile]]
 
 **所属领域**: [[ai-agent]] [[cli]]
-
-
-## ⚠️ 描述变更（2026-07-25）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: Skills for Real Engineers. Straight from my .claude directory.
-- **新描述**: Skills for Real Engineers. Straight from my .agents directory.
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

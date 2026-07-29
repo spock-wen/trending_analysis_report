@@ -38,7 +38,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## 相关项目
 
-[[yorukot-superfile]] [[huggingface-speech-to-speech]] [[amnezia-vpn-amnezia-client]] [[obra-superpowers]] [[mattpocock-skills]]
+[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[yorukot-superfile]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

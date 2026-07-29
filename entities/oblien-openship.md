@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[pascalorg-editor]] [[moeru-ai-airi]] [[apache-cassandra]] [[opengeos-geolibre]]
+[[moeru-ai-airi]] [[apache-cassandra]] [[different-ai-openwork]] [[pascalorg-editor]] [[opengeos-geolibre]]
 
 **所属领域**: [[devops]]
 

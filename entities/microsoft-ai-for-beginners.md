@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[paperswithbacktest-awesome-systematic-trading]] [[anthropics-claude-cookbooks]] [[andrewyng-aisuite]] [[lyogavin-airllm]] [[rohitg00-ai-engineering-from-scratch]]
+[[moeru-ai-airi]] [[alibaba-open-code-review]] [[lyogavin-airllm]] [[paperswithbacktest-awesome-systematic-trading]] [[anthropics-claude-cookbooks]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

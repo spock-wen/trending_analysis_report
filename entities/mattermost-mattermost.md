@@ -35,5 +35,5 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## 相关项目
 
-[[opengeos-geolibre]] [[pascalorg-editor]] [[moeru-ai-airi]] [[vudovn-ag-kit]]
+[[pascalorg-editor]] [[different-ai-openwork]] [[opengeos-geolibre]] [[moeru-ai-airi]]
 

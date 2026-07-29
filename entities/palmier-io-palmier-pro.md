@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[permissionlesstech-bitchat]] [[affaan-m-ecc]] [[moeru-ai-airi]] [[bradautomates-claude-video]] [[andrewyng-aisuite]]
+[[moeru-ai-airi]] [[permissionlesstech-bitchat]] [[steipete-codexbar]] [[alibaba-open-code-review]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]]
 

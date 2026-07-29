@@ -1,7 +1,7 @@
 ---
 title: "data"
 created: 2026-05-31
-updated: 2026-07-29
+updated: 2026-07-30
 type: concept
 tags: [data]
 confidence: medium
@@ -9,9 +9,9 @@ confidence: medium
 
 # data
 
-## 领域项目（共 40 个，今日上榜 1 个）
+## 领域项目（共 40 个，今日上榜 2 个）
 
-[[opengeos-geolibre]] [[alibaba-open-code-review]] [[apache-cassandra]] [[corebunch-instatic]] [[ottermind-chat2db]] [[robbyant-lingbot-map]] [[trycua-cua]] [[posthog-posthog]] [[canner-wrenai]] [[apache-ossie]] [[protocolbuffers-protobuf]] [[hasaneyldrm-exercises-dataset]] [[graphify-labs-graphify]] [[coreyhaines31-marketingskills]] [[prefecthq-prefect]] [[prisma-prisma]] [[tencentcloud-tencentdb-agent-memory]] [[alibaba-zvec]] [[zackriya-solutions-meetily]] [[safishamsi-graphify]] [[supabase-supabase]] [[allenai-olmocr]] [[deusdata-codebase-memory-mcp]] [[opendatalab-mineru]] [[dbt-labs-dbt-core]] [[calesthio-openmontage]] [[grafana-grafana]] [[tursodatabase-turso]] [[teslamate-org-teslamate]] [[kenn-io-agentsview]] [[fareedkhan-dev-train-llm-from-scratch]] [[paddlepaddle-paddleocr]] [[nvidia-cosmos]] [[opendataloader-project-opendataloader-pdf]] [[datatalksclub-data-engineering-zoomcamp]] [[fincept-corporation-finceptterminal]] [[bigbodycobain-shadowbroker]] [[plausible-analytics]] [[influxdata-telegraf]] [[nvidia-ai-blueprints-video-search-and-summarization]]
+[[alibaba-open-code-review]] [[opengeos-geolibre]] [[apache-cassandra]] [[corebunch-instatic]] [[ottermind-chat2db]] [[robbyant-lingbot-map]] [[trycua-cua]] [[posthog-posthog]] [[canner-wrenai]] [[apache-ossie]] [[protocolbuffers-protobuf]] [[hasaneyldrm-exercises-dataset]] [[graphify-labs-graphify]] [[coreyhaines31-marketingskills]] [[prefecthq-prefect]] [[prisma-prisma]] [[tencentcloud-tencentdb-agent-memory]] [[alibaba-zvec]] [[zackriya-solutions-meetily]] [[safishamsi-graphify]] [[supabase-supabase]] [[allenai-olmocr]] [[deusdata-codebase-memory-mcp]] [[opendatalab-mineru]] [[dbt-labs-dbt-core]] [[calesthio-openmontage]] [[grafana-grafana]] [[tursodatabase-turso]] [[teslamate-org-teslamate]] [[kenn-io-agentsview]] [[fareedkhan-dev-train-llm-from-scratch]] [[paddlepaddle-paddleocr]] [[nvidia-cosmos]] [[opendataloader-project-opendataloader-pdf]] [[datatalksclub-data-engineering-zoomcamp]] [[fincept-corporation-finceptterminal]] [[bigbodycobain-shadowbroker]] [[plausible-analytics]] [[influxdata-telegraf]] [[nvidia-ai-blueprints-video-search-and-summarization]]
 
 ## 语言分布
 
@@ -19,5 +19,5 @@ Python 15个, TypeScript 6个, Go 3个, Java 3个, Rust 3个, HTML 2个, C++ 2�
 
 ## 趋势观察
 
-40 个 data 领域项目被追踪，其中 1 个今日同时上榜，反映该领域持续活跃。
+40 个 data 领域项目被追踪，其中 2 个今日同时上榜，反映该领域持续活跃。
 

@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[pkuflyingpig-cs-self-learning]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[oblien-openship]]
+[[moeru-ai-airi]] [[ruvnet-ruview]] [[oblien-openship]] [[trycua-cua]] [[corebunch-instatic]]
 
 **所属领域**: [[web]] [[devops]]
 

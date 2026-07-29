@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[moonshine-ai-moonshine]] [[yorukot-superfile]] [[huggingface-speech-to-speech]] [[jamiepine-voicebox]] [[amnezia-vpn-amnezia-client]]
+[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[yorukot-superfile]] [[paperswithbacktest-awesome-systematic-trading]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]] [[audio]]
 

@@ -37,7 +37,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[moeru-ai-airi]] [[earthtojake-text-to-cad]] [[citrolabs-ego-lite]] [[bradautomates-claude-video]]
+[[moeru-ai-airi]] [[earthtojake-text-to-cad]] [[trycua-cua]] [[alibaba-open-code-review]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

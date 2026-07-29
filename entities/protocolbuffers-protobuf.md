@@ -34,7 +34,7 @@ Protocol Buffers - Google's data interchange format
 
 ## 相关项目
 
-[[moonshine-ai-moonshine]] [[amnezia-vpn-amnezia-client]] [[hyprwm-hyprland]] [[alibaba-open-code-review]] [[corebunch-instatic]]
+[[amnezia-vpn-amnezia-client]] [[moonshine-ai-moonshine]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[apache-cassandra]]
 
 **所属领域**: [[data]]
 

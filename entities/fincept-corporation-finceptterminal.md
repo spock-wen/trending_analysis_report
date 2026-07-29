@@ -35,7 +35,7 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 
 ## 相关项目
 
-[[paperswithbacktest-awesome-systematic-trading]] [[yorukot-superfile]] [[knockoutez-wigolo]] [[huggingface-speech-to-speech]] [[amnezia-vpn-amnezia-client]]
+[[amnezia-vpn-amnezia-client]] [[yorukot-superfile]] [[paperswithbacktest-awesome-systematic-trading]] [[mattpocock-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[cli]] [[data]] [[science]]
 

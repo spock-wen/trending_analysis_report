@@ -36,7 +36,7 @@ Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli
 
 ## 相关项目
 
-[[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[yorukot-superfile]] [[alibaba-open-code-review]] [[home-assistant-core]]
+[[automattic-harper]] [[affaan-m-ecc]] [[chenyme-grok2api]] [[schollz-croc]] [[alibaba-open-code-review]]
 
 **所属领域**: [[security]]
 

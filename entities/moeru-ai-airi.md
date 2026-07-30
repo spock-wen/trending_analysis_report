@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[corebunch-instatic]] [[microsoft-vibevoice]] [[mvanhorn-last30days-skill]] [[different-ai-openwork]]
+[[chromedevtools-chrome-devtools-mcp]] [[microsoft-vibevoice]] [[pascalorg-editor]] [[different-ai-openwork]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

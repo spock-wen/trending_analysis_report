@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[zeux-meshoptimizer]] [[prismml-eng-bonsai-demo]] [[mattpocock-skills]]
+[[chromedevtools-chrome-devtools-mcp]] [[prismml-eng-bonsai-demo]] [[anthropics-cwc-workshops]] [[affaan-m-ecc]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[alibaba-open-code-review]] [[microsoft-vibevoice]] [[hyprwm-hyprland]]
+[[chromedevtools-chrome-devtools-mcp]] [[hyprwm-hyprland]] [[moeru-ai-airi]] [[microsoft-vibevoice]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[trycua-cua]] [[corebunch-instatic]] [[paperswithbacktest-awesome-systematic-trading]] [[mvanhorn-last30days-skill]]
+[[chromedevtools-chrome-devtools-mcp]] [[rohitg00-ai-engineering-from-scratch]] [[microsoft-ontology-playground]] [[trycua-cua]] [[ossu-computer-science]]
 
 **所属领域**: [[web]] [[education]]
 

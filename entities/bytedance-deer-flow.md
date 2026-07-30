@@ -36,7 +36,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[nanmicoder-mediacrawler]] [[mvanhorn-last30days-skill]]
+[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[knockoutez-wigolo]] [[huggingface-speech-to-speech]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

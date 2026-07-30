@@ -34,7 +34,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[affaan-m-ecc]] [[obra-superpowers]] [[alibaba-open-code-review]]
+[[affaan-m-ecc]] [[chromedevtools-chrome-devtools-mcp]] [[mvanhorn-last30days-skill]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

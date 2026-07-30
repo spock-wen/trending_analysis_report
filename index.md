@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-07-30 | 总页面：417
+> 最后更新：2026-07-31 | 总页面：419
 
 ## Entities
 
@@ -13,7 +13,8 @@
 - [[actions-checkout|checkout"]] — Action for checking out a repo
 - [[activeloopai-hivemind|hivemind"]] — One brain for all your agents
 - [[addyosmani-agent-skills|agent-skills"]] — Production-grade engineering skills for AI coding agents. 🔥
-- [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i... 🆕
+- [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i... 🔥
+- [[agavra-tuicr|tuicr"]] — a code review TUI with vim keybindings 🆕
 - [[agegr-pi-web|pi-web"]] — Web UI for the pi coding agent 🔥
 - [[agentskills-agentskills|agentskills"]] — Specification and documentation for Agent Skills 🔥
 - [[ahmadibrahiim-website-downloader|Website-downloader"]] — 💡 Download the complete source code of any website (includin...
@@ -81,7 +82,7 @@
 - [[chopratejas-headroom|headroom"]] — Compress tool outputs, logs, files, and RAG chunks before th... 🔥
 - [[chriskohlhoff-asio|asio"]] — Asio C++ Library 🆕
 - [[chrislgarry-apollo-11|Apollo-11"]] — Original Apollo 11 Guidance Computer (AGC) source code for t... 🔥
-- [[chromedevtools-chrome-devtools-mcp|chrome-devtools-mcp"]] — Chrome DevTools for coding agents 🔥
+- [[chromedevtools-chrome-devtools-mcp|chrome-devtools-mcp"]] — Chrome DevTools for coding agents
 - [[chthollyphile-folia-major|folia-major"]] — 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
 - [[citrolabs-ego-lite|ego-lite"]] — The fastest browser for AI agents to run web automation, bui... 🔥
 - [[cloakhq-cloakbrowser|CloakBrowser"]] — Stealth Chromium that passes every bot detection test. Drop-... 🆕
@@ -106,7 +107,7 @@
 - [[davila7-claude-code-templates|claude-code-templates"]] — CLI tool for configuring and monitoring Claude Code 🔥
 - [[dayuanjiang-next-ai-draw-io|next-ai-draw-io"]] — A next.js web application that integrates AI capabilities wi...
 - [[dbt-labs-dbt-core|dbt-core"]] — dbt enables data analysts and engineers to transform their d...
-- [[deepfakes-faceswap|faceswap"]] — Deepfakes Software For All 🆕
+- [[deepfakes-faceswap|faceswap"]] — Deepfakes Software For All
 - [[deusdata-codebase-memory-mcp|codebase-memory-mcp"]] — High-performance code intelligence MCP server. Indexes codeb...
 - [[diegosouzapw-omniroute|OmniRoute"]] — Never stop coding. Free MIT AI gateway: one endpoint, 290+ p... 🔥
 - [[different-ai-openwork|openwork"]] — The open-source alternative to Claude Cowork (powered by ope... 🆕
@@ -152,7 +153,7 @@
 - [[gorvgoyl-clone-wars|Clone-Wars"]] — 100+ open-source clones of popular sites like Airbnb, Amazon...
 - [[grafana-grafana|grafana"]] — The open and composable observability and data visualization...
 - [[graphify-labs-graphify|graphify"]] — AI coding assistant skill (Claude Code, Codex, OpenCode, Cur...
-- [[grokability-snipe-it|snipe-it"]] — A free open source IT asset/license management system 🆕
+- [[grokability-snipe-it|snipe-it"]] — A free open source IT asset/license management system
 - [[grpc-grpc|grpc"]] — C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [[hardikpandya-stop-slop|stop-slop"]] — A skill file for removing AI tells from prose 🔥
 - [[harry0703-moneyprinterturbo|MoneyPrinterTurbo"]] — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using...
@@ -167,7 +168,7 @@
 - [[hkuds-vibe-trading|Vibe-Trading"]] — "Vibe-Trading: Your Personal Trading Agent" 🔥
 - [[hkuds-vimax|ViMax"]] — "ViMax: Agentic Video Generation (Director, Screenwriter, Pr... 🆕
 - [[home-assistant-core|core"]] — 🏡 Open source home automation that puts local control and pr... 🆕
-- [[huggingface-speech-to-speech|speech-to-speech"]] — Build local voice agents with open-source models 🆕
+- [[huggingface-speech-to-speech|speech-to-speech"]] — Build local voice agents with open-source models 🔥
 - [[hugohe3-ppt-master|ppt-master"]] — AI generates a real, editable PowerPoint from any document —...
 - [[humanlayer-12-factor-agents|12-factor-agents"]] — What are the principles we can use to build LLM-powered soft... 🆕
 - [[hunxbyts-ghosttrack|GhostTrack"]] — Useful tool to track location or mobile number
@@ -190,7 +191,7 @@
 - [[jbeder-yaml-cpp|yaml-cpp"]] — A YAML parser and emitter in C++
 - [[jcodesmore-ai-website-cloner-template|ai-website-cloner-template"]] — Clone any website with one command using AI coding agents 🔥
 - [[jellyfin-jellyfin|jellyfin"]] — The Free Software Media System - Server Backend & API
-- [[jenkinsci-jenkins|jenkins"]] — Jenkins automation server 🆕
+- [[jenkinsci-jenkins|jenkins"]] — Jenkins automation server
 - [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm"]] — Claude Skill: Multi-source content processor for NotebookLM. 🆕
 - [[juliusbrussee-caveman|caveman"]] — 🪨 why use many token when few token do trick — Claude Code s... 🔥
 - [[jwasham-coding-interview-university|coding-interview-university"]] — A complete computer science study plan to become a software ...
@@ -224,7 +225,7 @@
 - [[lum1104-understand-anything|Understand-Anything"]] — Graphs that teach > graphs that impress. Turn any code into ... 🔥
 - [[luongnv89-claude-howto|claude-howto"]] — A visual, example-driven guide to Claude Code — from basic c...
 - [[lyogavin-airllm|airllm"]] — AirLLM 70B inference with single 4GB GPU 🆕
-- [[maderix-ane|ANE"]] — Training neural networks on Apple Neural Engine via reverse-... 🆕
+- [[maderix-ane|ANE"]] — Training neural networks on Apple Neural Engine via reverse-...
 - [[madslorentzen-ai-job-search|ai-job-search"]] — AI-powered job application framework built on Claude Code. F...
 - [[makeplane-plane|plane"]] — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternativ... 🆕
 - [[malisper-pgrust|pgrust"]] — Postgres rewritten in Rust, now passing 100% of the Postgres... 🆕
@@ -240,18 +241,18 @@
 - [[meshery-meshery|meshery"]] — Meshery, the cloud native manager 🔥
 - [[microsoft-agent-governance-toolkit|agent-governance-toolkit"]] — AI Agent Governance Toolkit — Policy enforcement, zero-trust...
 - [[microsoft-ai-agents-for-beginners|ai-agents-for-beginners"]] — 12 Lessons to Get Started Building AI Agents 🔥
-- [[microsoft-ai-for-beginners|AI-For-Beginners"]] — 12 Weeks, 24 Lessons, AI for All! 🆕
+- [[microsoft-ai-for-beginners|AI-For-Beginners"]] — 12 Weeks, 24 Lessons, AI for All!
 - [[microsoft-markitdown|markitdown"]] — Python tool for converting files and office documents to Mar... 🔥
 - [[microsoft-ontology-playground|Ontology-Playground"]] — Free, open-source web app for learning about ontologies and ... 🆕
 - [[microsoft-powertoys|PowerToys"]] — Microsoft PowerToys is a collection of utilities that superc...
 - [[microsoft-terminal|terminal"]] — The new Windows Terminal and the original Windows console ho...
 - [[microsoft-typescript|TypeScript"]] — TypeScript is a superset of JavaScript that compiles to clea...
-- [[microsoft-vibevoice|VibeVoice"]] — Open-Source Frontier Voice AI 🆕
+- [[microsoft-vibevoice|VibeVoice"]] — Open-Source Frontier Voice AI
 - [[mikeroyal-self-hosting-guide|Self-Hosting-Guide"]] — Self-Hosting Guide. Learn all about locally hosting (on prem...
 - [[mikumifa-bilitickerbuy|biliTickerBuy"]] — b站会员购购票辅助工具
 - [[moeru-ai-airi|airi"]] — 💖🧸 Self hosted, you-owned Grok Companion, a container of sou... 🔥
 - [[moonshine-ai-moonshine|moonshine"]] — Very low latency speech to text, intent recognition, and tex...
-- [[moonshotai-flashkda|FlashKDA"]] — FlashKDA: high-performance Kimi Delta Attention kernels 🆕
+- [[moonshotai-flashkda|FlashKDA"]] — FlashKDA: high-performance Kimi Delta Attention kernels
 - [[moonshotai-kimi-cli|kimi-cli"]] — Kimi Code CLI is your next CLI agent. 🔥
 - [[msitarzewski-agency-agents|agency-agents"]] — A complete AI agency at your fingertips - From frontend wiza...
 - [[mukul975-anthropic-cybersecurity-skills|Anthropic-Cybersecurity-Skills"]] — 817 structured cybersecurity skills for AI agents · Mapped t...
@@ -301,9 +302,9 @@
 - [[palmier-io-palmier-pro|palmier-pro"]] — macOS video editor built for AI
 - [[panniantong-agent-reach|Agent-Reach"]] — Give your AI agent eyes to see the entire internet. Read & s...
 - [[paperless-ngx-paperless-ngx|paperless-ngx"]] — A community-supported supercharged document management syste...
-- [[paperswithbacktest-awesome-systematic-trading|awesome-systematic-trading"]] — A curated list of awesome libraries, packages, strategies, b... 🆕
+- [[paperswithbacktest-awesome-systematic-trading|awesome-systematic-trading"]] — A curated list of awesome libraries, packages, strategies, b... 🔥
 - [[par274-sharpemu|sharpemu"]] — An experimental PlayStation 5 emulator project.
-- [[pascalorg-editor|editor"]] — Create and share 3D architectural projects. 🆕
+- [[pascalorg-editor|editor"]] — Create and share 3D architectural projects. 🔥
 - [[pbakaus-impeccable|impeccable"]] — The design language that makes your AI harness better at des...
 - [[penpot-penpot|penpot"]] — Penpot: The open-source design platform for Product teams th...
 - [[permissionlesstech-bitchat|bitchat"]] — bluetooth mesh chat, IRC vibes
@@ -391,6 +392,7 @@
 - [[voltagent-awesome-design-md|awesome-design-md"]] — A collection of DESIGN.md files analysis by popular brand de...
 - [[vudovn-ag-kit|ag-kit"]] — No description
 - [[vxcontrol-pentagi|pentagi"]] — Fully autonomous AI Agents system capable of performing comp...
+- [[whiskeysockets-baileys|Baileys"]] — Socket-based TS/JavaScript API for WhatsApp Web 🆕
 - [[withastro-flue|flue"]] — The sandbox agent framework. 🔥
 - [[wonderwhy-er-desktopcommandermcp|DesktopCommanderMCP"]] — This is MCP server for Claude that gives it terminal control... 🔥
 - [[x1xhlol-system-prompts-and-models-of-ai-tools|system-prompts-and-models-of-ai-tools"]] — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cu...

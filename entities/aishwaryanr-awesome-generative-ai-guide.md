@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[trycua-cua]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[paperswithbacktest-awesome-systematic-trading]]
+[[chromedevtools-chrome-devtools-mcp]] [[pkuflyingpig-cs-self-learning]] [[affaan-m-ecc]] [[trycua-cua]] [[ossu-computer-science]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

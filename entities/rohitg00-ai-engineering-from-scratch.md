@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[nanmicoder-mediacrawler]] [[microsoft-ontology-playground]]
+[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[microsoft-ontology-playground]] [[huggingface-speech-to-speech]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

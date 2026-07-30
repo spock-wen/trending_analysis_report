@@ -34,7 +34,7 @@ A next.js web application that integrates AI capabilities with draw.io diagrams.
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[yorukot-superfile]] [[alibaba-open-code-review]] [[corebunch-instatic]]
+[[chromedevtools-chrome-devtools-mcp]] [[moeru-ai-airi]] [[pascalorg-editor]] [[different-ai-openwork]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

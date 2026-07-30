@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[pumpkin-mc-pumpkin]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[yorukot-superfile]] [[block-buzz]]
+[[agavra-tuicr]] [[block-buzz]] [[mattpocock-skills]] [[pumpkin-mc-pumpkin]] [[1jehuang-jcode]]
 
 **所属领域**: [[cli]]
 

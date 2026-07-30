@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[different-ai-openwork]] [[pascalorg-editor]]
+[[chromedevtools-chrome-devtools-mcp]] [[moeru-ai-airi]] [[pascalorg-editor]] [[different-ai-openwork]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[web]]
 

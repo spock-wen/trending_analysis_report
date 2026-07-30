@@ -37,7 +37,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[earthtojake-text-to-cad]] [[alibaba-open-code-review]] [[citrolabs-ego-lite]] [[affaan-m-ecc]]
+[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[pbakaus-impeccable]] [[citrolabs-ego-lite]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[nanmicoder-mediacrawler]] [[affaan-m-ecc]]
+[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[huggingface-speech-to-speech]] [[microsoft-ai-for-beginners]] [[ansible-ansible]]
 
 **所属领域**: [[ai-agent]]
 

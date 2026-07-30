@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[apache-cassandra]] [[affaan-m-ecc]]
+[[chromedevtools-chrome-devtools-mcp]] [[corebunch-instatic]] [[plausible-analytics]] [[affaan-m-ecc]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

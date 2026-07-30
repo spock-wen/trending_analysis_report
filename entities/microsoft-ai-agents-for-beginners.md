@@ -36,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[alibaba-open-code-review]] [[lyogavin-airllm]] [[paperswithbacktest-awesome-systematic-trading]] [[anthropics-claude-cookbooks]]
+[[mvanhorn-last30days-skill]] [[chromedevtools-chrome-devtools-mcp]] [[rohitg00-ai-engineering-from-scratch]] [[affaan-m-ecc]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

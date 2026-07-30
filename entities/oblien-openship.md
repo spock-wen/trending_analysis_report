@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[apache-cassandra]] [[different-ai-openwork]] [[pascalorg-editor]] [[opengeos-geolibre]]
+[[chromedevtools-chrome-devtools-mcp]] [[moeru-ai-airi]] [[pascalorg-editor]] [[different-ai-openwork]] [[ruvnet-ruview]]
 
 **所属领域**: [[devops]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[trycua-cua]] [[corebunch-instatic]] [[graphify-labs-graphify]] [[mvanhorn-last30days-skill]]
+[[chromedevtools-chrome-devtools-mcp]] [[pkuflyingpig-cs-self-learning]] [[prisma-prisma]] [[trycua-cua]] [[ossu-computer-science]]
 
 **所属领域**: [[web]] [[image-gen]]
 

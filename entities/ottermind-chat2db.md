@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[github-copilot-sdk]] [[yorukot-superfile]] [[jenkinsci-jenkins]]
+[[github-copilot-sdk]] [[chromedevtools-chrome-devtools-mcp]] [[corebunch-instatic]] [[affaan-m-ecc]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

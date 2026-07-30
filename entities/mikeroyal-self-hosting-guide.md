@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[paperswithbacktest-awesome-systematic-trading]] [[mvanhorn-last30days-skill]]
+[[chromedevtools-chrome-devtools-mcp]] [[rohitg00-ai-engineering-from-scratch]] [[affaan-m-ecc]] [[microsoft-ontology-playground]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

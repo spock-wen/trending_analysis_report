@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[amnezia-vpn-amnezia-client]] [[alibaba-open-code-review]] [[mattpocock-skills]] [[schollz-croc]] [[chenyme-grok2api]]
+[[mattpocock-skills]] [[chenyme-grok2api]] [[schollz-croc]] [[alibaba-open-code-review]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

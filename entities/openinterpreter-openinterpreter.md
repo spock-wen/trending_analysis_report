@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[pumpkin-mc-pumpkin]] [[zeux-meshoptimizer]] [[automattic-harper]] [[block-buzz]]
+[[agavra-tuicr]] [[chromedevtools-chrome-devtools-mcp]] [[block-buzz]] [[anthropics-cwc-workshops]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

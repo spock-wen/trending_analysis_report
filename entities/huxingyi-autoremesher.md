@@ -35,5 +35,5 @@ Automatic quad remeshing tool
 
 ## 相关项目
 
-[[amnezia-vpn-amnezia-client]] [[hyprwm-hyprland]] [[ocornut-imgui]] [[moonshine-ai-moonshine]]
+[[amnezia-vpn-amnezia-client]] [[moonshine-ai-moonshine]] [[ocornut-imgui]] [[hyprwm-hyprland]]
 

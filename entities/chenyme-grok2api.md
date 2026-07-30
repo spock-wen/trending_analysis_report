@@ -34,7 +34,7 @@ language: "Go"
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[yorukot-superfile]] [[alibaba-open-code-review]] [[corebunch-instatic]]
+[[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]] [[schollz-croc]] [[alibaba-open-code-review]] [[yorukot-superfile]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[pumpkin-mc-pumpkin]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[yorukot-superfile]]
+[[agavra-tuicr]] [[chromedevtools-chrome-devtools-mcp]] [[block-buzz]] [[affaan-m-ecc]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

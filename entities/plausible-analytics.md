@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[corebunch-instatic]] [[alibaba-open-code-review]]
+[[chromedevtools-chrome-devtools-mcp]] [[corebunch-instatic]] [[automattic-harper]] [[affaan-m-ecc]] [[teslamate-org-teslamate]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

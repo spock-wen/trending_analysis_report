@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[prismml-eng-bonsai-demo]] [[mattpocock-skills]] [[alibaba-open-code-review]]
+[[chromedevtools-chrome-devtools-mcp]] [[prismml-eng-bonsai-demo]] [[affaan-m-ecc]] [[mattpocock-skills]] [[yorukot-superfile]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

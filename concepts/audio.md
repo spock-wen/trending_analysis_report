@@ -1,7 +1,7 @@
 ---
 title: "audio"
 created: 2026-05-31
-updated: 2026-07-30
+updated: 2026-07-31
 type: concept
 tags: [audio]
 confidence: medium
@@ -9,9 +9,9 @@ confidence: medium
 
 # audio
 
-## 领域项目（共 18 个，今日上榜 3 个）
+## 领域项目（共 18 个，今日上榜 1 个）
 
-[[moeru-ai-airi]] [[huggingface-speech-to-speech]] [[microsoft-vibevoice]] [[jamiepine-voicebox]] [[moonshine-ai-moonshine]] [[kyutai-labs-pocket-tts]] [[altic-dev-fluidvoice]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[openbmb-voxcpm]] [[music-assistant-server]] [[open-llm-vtuber-open-llm-vtuber]] [[openmoss-moss-tts]] [[alishahryar1-free-claude-code]] [[yt-dlp-yt-dlp]] [[supertone-inc-supertonic]] [[dograh-hq-dograh]] [[light-heart-labs-dreamserver]]
+[[huggingface-speech-to-speech]] [[moeru-ai-airi]] [[microsoft-vibevoice]] [[jamiepine-voicebox]] [[moonshine-ai-moonshine]] [[kyutai-labs-pocket-tts]] [[altic-dev-fluidvoice]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[openbmb-voxcpm]] [[music-assistant-server]] [[open-llm-vtuber-open-llm-vtuber]] [[openmoss-moss-tts]] [[alishahryar1-free-claude-code]] [[yt-dlp-yt-dlp]] [[supertone-inc-supertonic]] [[dograh-hq-dograh]] [[light-heart-labs-dreamserver]]
 
 ## 语言分布
 
@@ -19,5 +19,5 @@ Python 13个, TypeScript 2个, Swift 2个, C++ 1个
 
 ## 趋势观察
 
-18 个 audio 领域项目被追踪，其中 3 个今日同时上榜，反映该领域持续活跃。
+18 个 audio 领域项目被追踪，其中 1 个今日同时上榜，反映该领域持续活跃。
 

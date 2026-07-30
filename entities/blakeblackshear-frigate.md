@@ -35,5 +35,5 @@ NVR with realtime local object detection for IP cameras
 
 ## 相关项目
 
-[[pascalorg-editor]] [[different-ai-openwork]] [[opengeos-geolibre]] [[moeru-ai-airi]]
+[[pascalorg-editor]] [[chromedevtools-chrome-devtools-mcp]] [[different-ai-openwork]] [[moeru-ai-airi]]
 

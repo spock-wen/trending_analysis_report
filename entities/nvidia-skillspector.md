@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]]
+[[chromedevtools-chrome-devtools-mcp]] [[automattic-harper]] [[affaan-m-ecc]] [[amnezia-vpn-amnezia-client]] [[huggingface-speech-to-speech]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

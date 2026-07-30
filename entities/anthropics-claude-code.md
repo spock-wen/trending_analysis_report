@@ -38,7 +38,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[yorukot-superfile]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]]
+[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[mattpocock-skills]] [[amnezia-vpn-amnezia-client]] [[yorukot-superfile]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[oblien-openship]] [[alibaba-open-code-review]] [[apache-cassandra]] [[different-ai-openwork]]
+[[chromedevtools-chrome-devtools-mcp]] [[moeru-ai-airi]] [[pascalorg-editor]] [[different-ai-openwork]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

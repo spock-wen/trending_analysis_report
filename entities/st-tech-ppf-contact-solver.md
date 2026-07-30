@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[amnezia-vpn-amnezia-client]] [[yorukot-superfile]] [[paperswithbacktest-awesome-systematic-trading]] [[mattpocock-skills]] [[nanmicoder-mediacrawler]]
+[[mattpocock-skills]] [[amnezia-vpn-amnezia-client]] [[yorukot-superfile]] [[obra-superpowers]] [[huggingface-speech-to-speech]]
 
 **所属领域**: [[cli]]
 

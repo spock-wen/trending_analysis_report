@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[oblien-openship]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[corebunch-instatic]]
+[[chromedevtools-chrome-devtools-mcp]] [[corebunch-instatic]] [[affaan-m-ecc]] [[alibaba-open-code-review]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

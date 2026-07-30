@@ -36,7 +36,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[oblien-openship]] [[yorukot-superfile]] [[paperswithbacktest-awesome-systematic-trading]]
+[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[mattpocock-skills]] [[amnezia-vpn-amnezia-client]] [[yorukot-superfile]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

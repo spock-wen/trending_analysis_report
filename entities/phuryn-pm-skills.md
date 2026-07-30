@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[yorukot-superfile]] [[alibaba-open-code-review]] [[mattpocock-skills]]
+[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[mattpocock-skills]] [[yorukot-superfile]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

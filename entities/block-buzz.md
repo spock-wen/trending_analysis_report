@@ -36,5 +36,5 @@ A hive mind communication platform
 
 ## 相关项目
 
-[[pumpkin-mc-pumpkin]] [[automattic-harper]] [[1jehuang-jcode]]
+[[agavra-tuicr]] [[pumpkin-mc-pumpkin]] [[1jehuang-jcode]]
 

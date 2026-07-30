@@ -35,7 +35,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[alibaba-open-code-review]] [[citrolabs-ego-lite]] [[affaan-m-ecc]] [[obra-superpowers]]
+[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[pbakaus-impeccable]] [[citrolabs-ego-lite]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

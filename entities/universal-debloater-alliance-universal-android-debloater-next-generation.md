@@ -36,7 +36,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[pumpkin-mc-pumpkin]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[trycua-cua]] [[block-buzz]]
+[[agavra-tuicr]] [[ahmadibrahiim-website-downloader]] [[block-buzz]] [[automattic-harper]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]] [[image-gen]]
 

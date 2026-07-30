@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[yairm210-unciv]] [[bannedbook-fanqiang]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]]
+[[chromedevtools-chrome-devtools-mcp]] [[yairm210-unciv]] [[andreknieriem-headunit-revived]] [[dotnet-aspnetcore]] [[ansible-ansible]]
 
 **所属领域**: [[web]]
 

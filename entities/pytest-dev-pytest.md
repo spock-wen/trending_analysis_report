@@ -34,5 +34,5 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 
 ## 相关项目
 
-[[paperswithbacktest-awesome-systematic-trading]] [[nanmicoder-mediacrawler]] [[huggingface-speech-to-speech]] [[virgiliojr94-book-to-skill]]
+[[ansible-ansible]] [[paperswithbacktest-awesome-systematic-trading]] [[mvanhorn-last30days-skill]] [[huggingface-speech-to-speech]]
 

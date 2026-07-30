@@ -34,7 +34,7 @@ SIA is a Self Improving AI framework to autonomously improve the performance of 
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[nanmicoder-mediacrawler]] [[affaan-m-ecc]]
+[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[huggingface-speech-to-speech]] [[microsoft-ai-for-beginners]] [[ansible-ansible]]
 
 **所属领域**: [[ai-agent]]
 

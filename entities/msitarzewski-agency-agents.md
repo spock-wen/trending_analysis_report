@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[prismml-eng-bonsai-demo]] [[mattpocock-skills]] [[alibaba-open-code-review]]
+[[chromedevtools-chrome-devtools-mcp]] [[prismml-eng-bonsai-demo]] [[affaan-m-ecc]] [[mattpocock-skills]] [[yorukot-superfile]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

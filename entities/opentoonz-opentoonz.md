@@ -34,5 +34,5 @@ OpenToonz - An open-source full-featured 2D animation creation software
 
 ## 相关项目
 
-[[amnezia-vpn-amnezia-client]] [[hyprwm-hyprland]] [[ocornut-imgui]] [[moonshine-ai-moonshine]]
+[[amnezia-vpn-amnezia-client]] [[moonshine-ai-moonshine]] [[ocornut-imgui]] [[hyprwm-hyprland]]
 

@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[jellyfin-jellyfin]] [[alibaba-open-code-review]] [[k1tbyte-wand-enhancer]] [[affaan-m-ecc]]
+[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[jellyfin-jellyfin]] [[par274-sharpemu]] [[k1tbyte-wand-enhancer]]
 
 **所属领域**: [[ai-agent]]
 

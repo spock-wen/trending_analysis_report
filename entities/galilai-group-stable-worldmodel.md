@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[trycua-cua]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[nanmicoder-mediacrawler]]
+[[ahmadibrahiim-website-downloader]] [[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[prisma-prisma]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

@@ -38,5 +38,5 @@ language: "Python"
 
 ## 相关项目
 
-[[paperswithbacktest-awesome-systematic-trading]] [[huggingface-speech-to-speech]] [[virgiliojr94-book-to-skill]]
+[[ansible-ansible]] [[paperswithbacktest-awesome-systematic-trading]] [[mvanhorn-last30days-skill]] [[huggingface-speech-to-speech]]
 

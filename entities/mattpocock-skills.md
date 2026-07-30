@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[prismml-eng-bonsai-demo]] [[alibaba-open-code-review]] [[yorukot-superfile]]
+[[chromedevtools-chrome-devtools-mcp]] [[prismml-eng-bonsai-demo]] [[affaan-m-ecc]] [[yorukot-superfile]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

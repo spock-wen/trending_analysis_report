@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[nanmicoder-mediacrawler]]
+[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[dotnet-aspnetcore]] [[huggingface-speech-to-speech]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

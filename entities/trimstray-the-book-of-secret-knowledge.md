@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[yorukot-superfile]] [[corebunch-instatic]] [[mattpocock-skills]]
+[[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]] [[yorukot-superfile]] [[obra-superpowers]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[web]] [[cli]]
 

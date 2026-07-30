@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[yorukot-superfile]] [[mattpocock-skills]] [[alibaba-open-code-review]]
+[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[mattpocock-skills]] [[yorukot-superfile]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

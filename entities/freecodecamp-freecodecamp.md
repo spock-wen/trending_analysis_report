@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[paperswithbacktest-awesome-systematic-trading]] [[microsoft-ontology-playground]] [[different-ai-openwork]] [[pascalorg-editor]]
+[[chromedevtools-chrome-devtools-mcp]] [[moeru-ai-airi]] [[rohitg00-ai-engineering-from-scratch]] [[pascalorg-editor]] [[different-ai-openwork]]
 
 **所属领域**: [[education]]
 

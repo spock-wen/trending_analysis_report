@@ -34,5 +34,5 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 ## 相关项目
 
-[[pascalorg-editor]] [[different-ai-openwork]] [[opengeos-geolibre]] [[moeru-ai-airi]]
+[[pascalorg-editor]] [[chromedevtools-chrome-devtools-mcp]] [[different-ai-openwork]] [[moeru-ai-airi]]
 

@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[openinterpreter-openinterpreter]] [[pkuflyingpig-cs-self-learning]] [[microsoft-ai-for-beginners]] [[moeru-ai-airi]]
+[[mvanhorn-last30days-skill]] [[chromedevtools-chrome-devtools-mcp]] [[anthropics-cwc-workshops]] [[rohitg00-ai-engineering-from-scratch]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

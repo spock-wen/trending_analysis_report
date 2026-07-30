@@ -35,7 +35,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[amnezia-vpn-amnezia-client]] [[yorukot-superfile]] [[mattpocock-skills]] [[flutter-flutter]] [[obra-superpowers]]
+[[flutter-flutter]] [[mattpocock-skills]] [[yorukot-superfile]] [[obra-superpowers]] [[amnezia-vpn-amnezia-client]]
 
 **所属领域**: [[cli]]
 

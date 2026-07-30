@@ -35,7 +35,7 @@ GLM-5: From Vibe Coding to Agentic Engineering
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[affaan-m-ecc]] [[obra-superpowers]] [[alibaba-open-code-review]]
+[[affaan-m-ecc]] [[chromedevtools-chrome-devtools-mcp]] [[mvanhorn-last30days-skill]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

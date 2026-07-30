@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[amnezia-vpn-amnezia-client]] [[obra-superpowers]] [[yorukot-superfile]] [[mattpocock-skills]]
+[[yorukot-superfile]] [[amnezia-vpn-amnezia-client]] [[mattpocock-skills]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

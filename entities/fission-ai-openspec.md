@@ -34,7 +34,7 @@ Spec-driven development (SDD) for AI coding assistants.
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[alibaba-open-code-review]] [[different-ai-openwork]] [[pascalorg-editor]] [[affaan-m-ecc]]
+[[chromedevtools-chrome-devtools-mcp]] [[moeru-ai-airi]] [[pascalorg-editor]] [[different-ai-openwork]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

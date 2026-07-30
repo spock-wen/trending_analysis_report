@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[yorukot-superfile]] [[paperswithbacktest-awesome-systematic-trading]]
+[[chromedevtools-chrome-devtools-mcp]] [[automattic-harper]] [[affaan-m-ecc]] [[mattpocock-skills]] [[amnezia-vpn-amnezia-client]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

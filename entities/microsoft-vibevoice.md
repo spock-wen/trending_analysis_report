@@ -35,7 +35,7 @@ Open-Source Frontier Voice AI
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[nanmicoder-mediacrawler]] [[affaan-m-ecc]]
+[[chromedevtools-chrome-devtools-mcp]] [[moeru-ai-airi]] [[affaan-m-ecc]] [[huggingface-speech-to-speech]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

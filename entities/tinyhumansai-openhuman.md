@@ -38,7 +38,7 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[pumpkin-mc-pumpkin]] [[automattic-harper]] [[block-buzz]] [[alibaba-open-code-review]]
+[[agavra-tuicr]] [[chromedevtools-chrome-devtools-mcp]] [[block-buzz]] [[affaan-m-ecc]] [[pumpkin-mc-pumpkin]]
 
 **所属领域**: [[ai-agent]]
 

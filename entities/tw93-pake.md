@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[pumpkin-mc-pumpkin]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[yorukot-superfile]]
+[[agavra-tuicr]] [[chromedevtools-chrome-devtools-mcp]] [[block-buzz]] [[mattpocock-skills]] [[pumpkin-mc-pumpkin]]
 
 **所属领域**: [[web]] [[cli]]
 

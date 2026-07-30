@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[corebunch-instatic]] [[alibaba-open-code-review]] [[apache-cassandra]] [[mvanhorn-last30days-skill]]
+[[chromedevtools-chrome-devtools-mcp]] [[corebunch-instatic]] [[moeru-ai-airi]] [[pascalorg-editor]] [[different-ai-openwork]]
 
 **所属领域**: [[web]] [[data]]
 

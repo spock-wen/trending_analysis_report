@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[nanmicoder-mediacrawler]] [[microsoft-ontology-playground]]
+[[chromedevtools-chrome-devtools-mcp]] [[rohitg00-ai-engineering-from-scratch]] [[affaan-m-ecc]] [[microsoft-ontology-playground]] [[huggingface-speech-to-speech]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

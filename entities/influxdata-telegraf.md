@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[yorukot-superfile]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[apache-cassandra]]
+[[chromedevtools-chrome-devtools-mcp]] [[corebunch-instatic]] [[affaan-m-ecc]] [[chenyme-grok2api]] [[schollz-croc]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

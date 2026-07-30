@@ -34,5 +34,5 @@ Fast, secure, efficient backup program
 
 ## 相关项目
 
-[[schollz-croc]] [[chenyme-grok2api]] [[yorukot-superfile]] [[alibaba-open-code-review]]
+[[yorukot-superfile]] [[chenyme-grok2api]] [[schollz-croc]] [[alibaba-open-code-review]]
 

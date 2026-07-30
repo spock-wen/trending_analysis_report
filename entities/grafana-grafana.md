@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[oblien-openship]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[apache-cassandra]]
+[[chromedevtools-chrome-devtools-mcp]] [[corebunch-instatic]] [[moeru-ai-airi]] [[pascalorg-editor]] [[different-ai-openwork]]
 
 **所属领域**: [[data]] [[devops]]
 

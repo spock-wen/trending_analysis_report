@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[paperswithbacktest-awesome-systematic-trading]] [[corebunch-instatic]] [[nanmicoder-mediacrawler]] [[mvanhorn-last30days-skill]]
+[[chromedevtools-chrome-devtools-mcp]] [[dotnet-aspnetcore]] [[huggingface-speech-to-speech]] [[ansible-ansible]] [[paperswithbacktest-awesome-systematic-trading]]
 
 **所属领域**: [[web]]
 

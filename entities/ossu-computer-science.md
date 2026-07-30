@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[trycua-cua]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]] [[pkuflyingpig-cs-self-learning]]
+[[chromedevtools-chrome-devtools-mcp]] [[pkuflyingpig-cs-self-learning]] [[trycua-cua]] [[dotnet-aspnetcore]] [[ansible-ansible]]
 
 **所属领域**: [[web]]
 

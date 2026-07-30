@@ -37,5 +37,5 @@ Empowering everyone to host fast and efficient Minecraft servers.
 
 ## 相关项目
 
-[[automattic-harper]] [[block-buzz]] [[1jehuang-jcode]]
+[[agavra-tuicr]] [[block-buzz]] [[1jehuang-jcode]]
 

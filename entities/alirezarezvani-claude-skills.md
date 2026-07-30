@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[zeux-meshoptimizer]] [[yorukot-superfile]] [[paperswithbacktest-awesome-systematic-trading]]
+[[chromedevtools-chrome-devtools-mcp]] [[anthropics-cwc-workshops]] [[affaan-m-ecc]] [[mattpocock-skills]] [[openinterpreter-openinterpreter]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

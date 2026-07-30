@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[oblien-openship]] [[github-copilot-sdk]] [[alibaba-open-code-review]] [[jenkinsci-jenkins]] [[corebunch-instatic]]
+[[github-copilot-sdk]] [[corebunch-instatic]] [[ottermind-chat2db]] [[alibaba-open-code-review]] [[koala73-worldmonitor]]
 
 **所属领域**: [[data]] [[devops]]
 

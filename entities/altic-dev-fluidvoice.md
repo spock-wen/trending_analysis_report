@@ -37,7 +37,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[steipete-codexbar]] [[permissionlesstech-bitchat]] [[alibaba-open-code-review]] [[microsoft-vibevoice]]
+[[chromedevtools-chrome-devtools-mcp]] [[steipete-codexbar]] [[palmier-io-palmier-pro]] [[moeru-ai-airi]] [[microsoft-vibevoice]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -34,5 +34,5 @@ Neural Networks: Zero to Hero
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[lordog-dive-into-llms]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]]
+[[lordog-dive-into-llms]] [[anthropics-claude-cookbooks]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]]
 

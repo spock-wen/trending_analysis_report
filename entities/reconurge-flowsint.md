@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[different-ai-openwork]] [[pascalorg-editor]]
+[[chromedevtools-chrome-devtools-mcp]] [[moeru-ai-airi]] [[automattic-harper]] [[pascalorg-editor]] [[different-ai-openwork]]
 
 **所属领域**: [[security]]
 

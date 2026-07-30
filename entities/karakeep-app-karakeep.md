@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[trycua-cua]] [[alibaba-open-code-review]] [[graphify-labs-graphify]] [[different-ai-openwork]]
+[[ahmadibrahiim-website-downloader]] [[chromedevtools-chrome-devtools-mcp]] [[moeru-ai-airi]] [[pascalorg-editor]] [[different-ai-openwork]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

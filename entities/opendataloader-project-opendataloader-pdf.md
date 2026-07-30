@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[github-copilot-sdk]] [[jenkinsci-jenkins]] [[alibaba-open-code-review]] [[apache-cassandra]]
+[[github-copilot-sdk]] [[chromedevtools-chrome-devtools-mcp]] [[corebunch-instatic]] [[ottermind-chat2db]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

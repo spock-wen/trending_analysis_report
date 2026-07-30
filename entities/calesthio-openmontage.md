@@ -38,7 +38,7 @@ World's first open-source, agentic video production system. 12 pipelines, 52 too
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[paperswithbacktest-awesome-systematic-trading]] [[alibaba-open-code-review]] [[apache-cassandra]] [[nanmicoder-mediacrawler]]
+[[chromedevtools-chrome-devtools-mcp]] [[corebunch-instatic]] [[affaan-m-ecc]] [[alibaba-open-code-review]] [[huggingface-speech-to-speech]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

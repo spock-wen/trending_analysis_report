@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[amnezia-vpn-amnezia-client]] [[yorukot-superfile]] [[alibaba-open-code-review]] [[mattpocock-skills]]
+[[chromedevtools-chrome-devtools-mcp]] [[moeru-ai-airi]] [[rohitg00-ai-engineering-from-scratch]] [[pascalorg-editor]] [[different-ai-openwork]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

@@ -36,7 +36,7 @@ The fastest browser for AI agents to run web automation, built for sharing your 
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[earthtojake-text-to-cad]] [[alibaba-open-code-review]] [[corebunch-instatic]] [[mvanhorn-last30days-skill]]
+[[chromedevtools-chrome-devtools-mcp]] [[ansible-ansible]] [[affaan-m-ecc]] [[pbakaus-impeccable]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

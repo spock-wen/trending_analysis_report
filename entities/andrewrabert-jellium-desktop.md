@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[agavra-tuicr]] [[block-buzz]] [[mattpocock-skills]] [[pumpkin-mc-pumpkin]] [[1jehuang-jcode]]
+[[geo-tp-esp32-bit-pirate]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[agavra-tuicr]] [[1jehuang-jcode]]
 
 **所属领域**: [[cli]]
 

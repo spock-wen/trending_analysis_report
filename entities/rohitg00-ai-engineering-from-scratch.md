@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[microsoft-ontology-playground]] [[huggingface-speech-to-speech]] [[microsoft-ai-for-beginners]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[deepfakes-faceswap]] [[mvanhorn-last30days-skill]] [[paperswithbacktest-awesome-systematic-trading]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

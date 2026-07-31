@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[openinterpreter-openinterpreter]] [[zeux-meshoptimizer]] [[obra-superpowers]] [[huggingface-speech-to-speech]] [[anthropics-cwc-workshops]]
+[[anthropics-cwc-workshops]] [[zeux-meshoptimizer]] [[obra-superpowers]] [[deepfakes-faceswap]] [[openinterpreter-openinterpreter]]
 
 **所属领域**: [[erp]]
 

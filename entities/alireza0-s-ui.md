@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[chenyme-grok2api]] [[schollz-croc]] [[alibaba-open-code-review]] [[yorukot-superfile]]
+[[geo-tp-esp32-bit-pirate]] [[alibaba-open-code-review]] [[chenyme-grok2api]] [[chromedevtools-chrome-devtools-mcp]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]]
 

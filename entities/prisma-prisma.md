@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[ahmadibrahiim-website-downloader]] [[chromedevtools-chrome-devtools-mcp]] [[corebunch-instatic]] [[moeru-ai-airi]] [[pascalorg-editor]]
+[[pascalorg-editor]] [[alibaba-open-code-review]] [[usekaneo-kaneo]] [[opengeos-geolibre]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[data]] [[image-gen]]
 

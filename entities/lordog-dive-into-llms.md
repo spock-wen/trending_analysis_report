@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[microsoft-ai-for-beginners]] [[anthropics-claude-cookbooks]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[anthropics-claude-cookbooks]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

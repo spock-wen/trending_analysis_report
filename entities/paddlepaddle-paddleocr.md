@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[ahmadibrahiim-website-downloader]] [[chromedevtools-chrome-devtools-mcp]] [[corebunch-instatic]] [[affaan-m-ecc]] [[prisma-prisma]]
+[[chatwoot-chatwoot]] [[prisma-prisma]] [[microsoft-ai-for-beginners]] [[alibaba-open-code-review]] [[opengeos-geolibre]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

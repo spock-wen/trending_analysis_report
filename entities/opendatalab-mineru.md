@@ -36,7 +36,7 @@ Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[corebunch-instatic]] [[affaan-m-ecc]] [[alibaba-open-code-review]] [[huggingface-speech-to-speech]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[alibaba-open-code-review]] [[opengeos-geolibre]] [[deepfakes-faceswap]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

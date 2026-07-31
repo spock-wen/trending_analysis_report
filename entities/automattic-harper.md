@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[agavra-tuicr]] [[block-buzz]] [[affaan-m-ecc]] [[pumpkin-mc-pumpkin]] [[1jehuang-jcode]]
+[[zhaoxuya520-reverse-skill]] [[agavra-tuicr]] [[1jehuang-jcode]] [[pumpkin-mc-pumpkin]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

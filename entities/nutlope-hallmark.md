@@ -38,7 +38,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[diolinux-photogimp]] [[dotnet-aspnetcore]] [[microsoft-ai-for-beginners]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[diolinux-photogimp]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

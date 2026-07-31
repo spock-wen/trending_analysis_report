@@ -35,7 +35,7 @@ Code for Machine Learning for Algorithmic Trading, 2nd edition.
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[microsoft-ai-for-beginners]] [[microsoft-ontology-playground]] [[paperswithbacktest-awesome-systematic-trading]] [[anthropics-claude-cookbooks]]
+[[microsoft-ai-for-beginners]] [[lordog-dive-into-llms]] [[lyogavin-airllm]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-cookbooks]]
 
 **所属领域**: [[education]]
 

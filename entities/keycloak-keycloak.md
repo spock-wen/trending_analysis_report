@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[github-copilot-sdk]] [[ottermind-chat2db]] [[automattic-harper]] [[affaan-m-ecc]] [[home-assistant-core]]
+[[zhaoxuya520-reverse-skill]] [[automattic-harper]] [[affaan-m-ecc]] [[ottermind-chat2db]] [[jenkinsci-jenkins]]
 
 **所属领域**: [[security]]
 

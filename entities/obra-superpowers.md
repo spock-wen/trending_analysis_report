@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[prismml-eng-bonsai-demo]] [[anthropics-cwc-workshops]] [[affaan-m-ecc]] [[mattpocock-skills]]
+[[anthropics-cwc-workshops]] [[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

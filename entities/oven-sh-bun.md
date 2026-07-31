@@ -38,5 +38,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
 
 ## 相关项目
 
-[[agavra-tuicr]] [[pumpkin-mc-pumpkin]] [[block-buzz]] [[1jehuang-jcode]]
+[[agavra-tuicr]] [[1jehuang-jcode]] [[pumpkin-mc-pumpkin]] [[block-buzz]]
 

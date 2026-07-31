@@ -34,7 +34,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[corebunch-instatic]] [[prisma-prisma]] [[mattpocock-skills]] [[knockoutez-wigolo]] [[amnezia-vpn-amnezia-client]]
+[[microsoft-ai-for-beginners]] [[zhaoxuya520-reverse-skill]] [[koala73-worldmonitor]] [[yorukot-superfile]] [[geo-tp-esp32-bit-pirate]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

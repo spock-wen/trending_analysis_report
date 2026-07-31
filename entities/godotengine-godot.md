@@ -34,5 +34,5 @@ Godot Engine – Multi-platform 2D and 3D game engine
 
 ## 相关项目
 
-[[amnezia-vpn-amnezia-client]] [[moonshine-ai-moonshine]] [[ocornut-imgui]] [[hyprwm-hyprland]]
+[[amnezia-vpn-amnezia-client]] [[hyprwm-hyprland]] [[geo-tp-esp32-bit-pirate]] [[ocornut-imgui]]
 

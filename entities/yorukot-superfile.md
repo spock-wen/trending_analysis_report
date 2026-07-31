@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[mattpocock-skills]] [[chenyme-grok2api]] [[schollz-croc]] [[alibaba-open-code-review]] [[obra-superpowers]]
+[[geo-tp-esp32-bit-pirate]] [[zhaoxuya520-reverse-skill]] [[alibaba-open-code-review]] [[chenyme-grok2api]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

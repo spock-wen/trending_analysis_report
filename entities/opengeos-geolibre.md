@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[corebunch-instatic]] [[moeru-ai-airi]] [[pascalorg-editor]] [[different-ai-openwork]]
+[[pascalorg-editor]] [[geo-tp-esp32-bit-pirate]] [[alibaba-open-code-review]] [[usekaneo-kaneo]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]] [[data]]
 

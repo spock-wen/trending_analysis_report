@@ -38,7 +38,7 @@ AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框�
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[knockoutez-wigolo]] [[huggingface-speech-to-speech]] [[microsoft-ai-for-beginners]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[deepfakes-faceswap]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

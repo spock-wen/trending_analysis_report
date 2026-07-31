@@ -34,7 +34,7 @@ Persistent file-based planning for AI coding agents and long-running agentic tas
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[mattpocock-skills]] [[amnezia-vpn-amnezia-client]] [[yorukot-superfile]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

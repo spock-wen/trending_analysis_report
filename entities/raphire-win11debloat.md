@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[yorukot-superfile]] [[amnezia-vpn-amnezia-client]] [[mattpocock-skills]] [[obra-superpowers]]
+[[obra-superpowers]] [[geo-tp-esp32-bit-pirate]] [[zhaoxuya520-reverse-skill]] [[yorukot-superfile]]
 
 **所属领域**: [[cli]]
 

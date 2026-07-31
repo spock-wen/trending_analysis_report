@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[pkuflyingpig-cs-self-learning]] [[trycua-cua]] [[dotnet-aspnetcore]] [[ansible-ansible]]
+[[hasaneyldrm-exercises-dataset]] [[geo-tp-esp32-bit-pirate]] [[pkuflyingpig-cs-self-learning]] [[chromedevtools-chrome-devtools-mcp]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]]
 

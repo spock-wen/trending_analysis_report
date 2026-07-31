@@ -35,7 +35,7 @@ What are the principles we can use to build LLM-powered software that is actuall
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[moeru-ai-airi]] [[pascalorg-editor]] [[different-ai-openwork]] [[affaan-m-ecc]]
+[[chatwoot-chatwoot]] [[pascalorg-editor]] [[microsoft-ai-for-beginners]] [[usekaneo-kaneo]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[automattic-harper]] [[affaan-m-ecc]] [[chenyme-grok2api]] [[schollz-croc]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[alibaba-open-code-review]] [[zhaoxuya520-reverse-skill]] [[chenyme-grok2api]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

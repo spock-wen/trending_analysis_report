@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[agavra-tuicr]] [[chromedevtools-chrome-devtools-mcp]] [[corebunch-instatic]] [[block-buzz]] [[automattic-harper]]
+[[microsoft-ai-for-beginners]] [[zhaoxuya520-reverse-skill]] [[geo-tp-esp32-bit-pirate]] [[opengeos-geolibre]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

@@ -37,5 +37,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[pascalorg-editor]] [[chromedevtools-chrome-devtools-mcp]] [[different-ai-openwork]] [[moeru-ai-airi]]
+[[usekaneo-kaneo]] [[pascalorg-editor]] [[different-ai-openwork]] [[chromedevtools-chrome-devtools-mcp]]
 

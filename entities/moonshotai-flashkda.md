@@ -34,7 +34,7 @@ FlashKDA: high-performance Kimi Delta Attention kernels
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[chromedevtools-chrome-devtools-mcp]] [[mvanhorn-last30days-skill]] [[microsoft-ai-for-beginners]]
+[[chatwoot-chatwoot]] [[mvanhorn-last30days-skill]] [[microsoft-ai-for-beginners]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]]
 

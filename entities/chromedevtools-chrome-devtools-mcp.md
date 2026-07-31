@@ -38,7 +38,7 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[pascalorg-editor]] [[different-ai-openwork]] [[affaan-m-ecc]] [[dotnet-aspnetcore]]
+[[chatwoot-chatwoot]] [[pascalorg-editor]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]] [[yorukot-superfile]] [[obra-superpowers]] [[dotnet-aspnetcore]]
+[[geo-tp-esp32-bit-pirate]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -38,7 +38,7 @@ Give Claude the ability to watch any video. /watch downloads, extracts frames, t
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[huggingface-speech-to-speech]] [[microsoft-ai-for-beginners]] [[ansible-ansible]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[deepfakes-faceswap]] [[mvanhorn-last30days-skill]] [[paperswithbacktest-awesome-systematic-trading]]
 
 **所属领域**: [[ai-agent]]
 

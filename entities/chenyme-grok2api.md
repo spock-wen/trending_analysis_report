@@ -34,7 +34,7 @@ language: "Go"
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]] [[schollz-croc]] [[alibaba-open-code-review]] [[yorukot-superfile]]
+[[geo-tp-esp32-bit-pirate]] [[alibaba-open-code-review]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]] [[cli]]
 

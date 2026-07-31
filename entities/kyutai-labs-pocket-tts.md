@@ -35,7 +35,7 @@ A TTS that fits in your CPU (and pocket)
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[moeru-ai-airi]] [[microsoft-vibevoice]] [[affaan-m-ecc]] [[huggingface-speech-to-speech]]
+[[huggingface-speech-to-speech]] [[chatwoot-chatwoot]] [[jamiepine-voicebox]] [[microsoft-ai-for-beginners]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

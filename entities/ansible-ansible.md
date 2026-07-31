@@ -36,7 +36,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[ruvnet-ruview]] [[dotnet-aspnetcore]] [[huggingface-speech-to-speech]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[ruvnet-ruview]] [[deepfakes-faceswap]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

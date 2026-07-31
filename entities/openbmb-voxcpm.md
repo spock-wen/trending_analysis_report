@@ -38,7 +38,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[ahmadibrahiim-website-downloader]] [[moeru-ai-airi]] [[microsoft-vibevoice]] [[prisma-prisma]] [[trycua-cua]]
+[[huggingface-speech-to-speech]] [[jamiepine-voicebox]] [[moeru-ai-airi]] [[deepfakes-faceswap]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

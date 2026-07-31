@@ -36,7 +36,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[knockoutez-wigolo]] [[huggingface-speech-to-speech]] [[microsoft-ai-for-beginners]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[deepfakes-faceswap]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

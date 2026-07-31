@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[ahmadibrahiim-website-downloader]] [[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[prisma-prisma]] [[trycua-cua]]
+[[chatwoot-chatwoot]] [[prisma-prisma]] [[microsoft-ai-for-beginners]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[jellyfin-jellyfin]] [[par274-sharpemu]] [[k1tbyte-wand-enhancer]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[k1tbyte-wand-enhancer]] [[par274-sharpemu]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

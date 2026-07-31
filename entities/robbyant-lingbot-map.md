@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[corebunch-instatic]] [[alibaba-open-code-review]] [[huggingface-speech-to-speech]] [[apache-cassandra]] [[ansible-ansible]]
+[[alibaba-open-code-review]] [[opengeos-geolibre]] [[deepfakes-faceswap]] [[mvanhorn-last30days-skill]] [[corebunch-instatic]]
 
 **所属领域**: [[data]]
 

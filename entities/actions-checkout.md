@@ -36,5 +36,5 @@ Action for checking out a repo
 
 ## 相关项目
 
-[[pascalorg-editor]] [[chromedevtools-chrome-devtools-mcp]] [[different-ai-openwork]] [[moeru-ai-airi]]
+[[usekaneo-kaneo]] [[pascalorg-editor]] [[different-ai-openwork]] [[chromedevtools-chrome-devtools-mcp]]
 

@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[pkuflyingpig-cs-self-learning]] [[affaan-m-ecc]] [[trycua-cua]] [[ossu-computer-science]]
+[[chatwoot-chatwoot]] [[hasaneyldrm-exercises-dataset]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[ossu-computer-science]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

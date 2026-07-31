@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[automattic-harper]] [[affaan-m-ecc]] [[amnezia-vpn-amnezia-client]] [[huggingface-speech-to-speech]] [[ansible-ansible]]
+[[zhaoxuya520-reverse-skill]] [[automattic-harper]] [[affaan-m-ecc]] [[deepfakes-faceswap]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[security]]
 

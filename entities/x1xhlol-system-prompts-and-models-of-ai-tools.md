@@ -37,7 +37,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[anthropics-cwc-workshops]] [[affaan-m-ecc]] [[openinterpreter-openinterpreter]] [[zeux-meshoptimizer]]
+[[anthropics-cwc-workshops]] [[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[obra-superpowers]] [[openinterpreter-openinterpreter]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

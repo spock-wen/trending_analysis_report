@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[agavra-tuicr]] [[chromedevtools-chrome-devtools-mcp]] [[block-buzz]] [[affaan-m-ecc]] [[mattpocock-skills]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

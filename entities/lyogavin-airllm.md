@@ -37,7 +37,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[microsoft-ai-for-beginners]] [[anthropics-claude-cookbooks]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[lordog-dive-into-llms]] [[mvanhorn-last30days-skill]] [[anthropics-claude-cookbooks]]
 
 **所属领域**: [[ai-agent]]
 

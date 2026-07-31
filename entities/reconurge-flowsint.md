@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[moeru-ai-airi]] [[automattic-harper]] [[pascalorg-editor]] [[different-ai-openwork]]
+[[pascalorg-editor]] [[zhaoxuya520-reverse-skill]] [[usekaneo-kaneo]] [[automattic-harper]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

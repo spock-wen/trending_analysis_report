@@ -35,7 +35,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[citrolabs-ego-lite]] [[microsoft-ai-for-beginners]] [[whiskeysockets-baileys]]
+[[whiskeysockets-baileys]] [[chatwoot-chatwoot]] [[citrolabs-ego-lite]] [[microsoft-ai-for-beginners]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

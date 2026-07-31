@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[automattic-harper]] [[pbakaus-impeccable]] [[paperswithbacktest-awesome-systematic-trading]] [[citrolabs-ego-lite]]
+[[whiskeysockets-baileys]] [[chatwoot-chatwoot]] [[citrolabs-ego-lite]] [[microsoft-ai-for-beginners]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

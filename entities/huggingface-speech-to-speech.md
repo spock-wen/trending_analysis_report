@@ -36,7 +36,7 @@ Build local voice agents with open-source models
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[moeru-ai-airi]] [[microsoft-vibevoice]] [[affaan-m-ecc]] [[microsoft-ai-for-beginners]]
+[[chatwoot-chatwoot]] [[jamiepine-voicebox]] [[microsoft-ai-for-beginners]] [[moeru-ai-airi]] [[deepfakes-faceswap]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

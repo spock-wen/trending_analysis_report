@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[corebunch-instatic]] [[pkuflyingpig-cs-self-learning]] [[affaan-m-ecc]] [[trycua-cua]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[ossu-computer-science]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

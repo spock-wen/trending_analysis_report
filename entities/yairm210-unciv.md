@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[pppscn-smsforwarder]] [[affaan-m-ecc]] [[andreknieriem-headunit-revived]] [[microsoft-ai-for-beginners]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[pppscn-smsforwarder]] [[andreknieriem-headunit-revived]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

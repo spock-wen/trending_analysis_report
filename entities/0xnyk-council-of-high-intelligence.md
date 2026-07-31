@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[prismml-eng-bonsai-demo]] [[affaan-m-ecc]] [[mattpocock-skills]] [[yorukot-superfile]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

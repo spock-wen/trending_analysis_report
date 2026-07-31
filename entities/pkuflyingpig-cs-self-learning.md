@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[rohitg00-ai-engineering-from-scratch]] [[microsoft-ontology-playground]] [[trycua-cua]] [[ossu-computer-science]]
+[[hasaneyldrm-exercises-dataset]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[ossu-computer-science]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]] [[education]]
 

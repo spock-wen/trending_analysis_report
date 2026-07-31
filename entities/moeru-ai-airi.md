@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[microsoft-vibevoice]] [[pascalorg-editor]] [[different-ai-openwork]] [[affaan-m-ecc]]
+[[huggingface-speech-to-speech]] [[chatwoot-chatwoot]] [[jamiepine-voicebox]] [[pascalorg-editor]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

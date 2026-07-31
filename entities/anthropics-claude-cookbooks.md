@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[lordog-dive-into-llms]] [[lyogavin-airllm]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

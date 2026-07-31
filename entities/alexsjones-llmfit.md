@@ -34,7 +34,7 @@ Hundreds of models & providers. One command to find what runs on your hardware.
 
 ## 相关项目
 
-[[agavra-tuicr]] [[chromedevtools-chrome-devtools-mcp]] [[block-buzz]] [[affaan-m-ecc]] [[mattpocock-skills]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

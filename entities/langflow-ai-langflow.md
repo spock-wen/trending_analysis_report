@@ -34,7 +34,7 @@ Langflow is a powerful tool for building and deploying AI-powered agents and wor
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[ruvnet-ruview]] [[huggingface-speech-to-speech]] [[microsoft-ai-for-beginners]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[ruvnet-ruview]] [[deepfakes-faceswap]] [[koala73-worldmonitor]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

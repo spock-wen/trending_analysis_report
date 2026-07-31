@@ -35,7 +35,7 @@ Gas Town - multi-agent workspace manager
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[chenyme-grok2api]] [[schollz-croc]] [[alibaba-open-code-review]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[alibaba-open-code-review]] [[chenyme-grok2api]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

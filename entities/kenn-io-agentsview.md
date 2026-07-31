@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[corebunch-instatic]] [[affaan-m-ecc]] [[chenyme-grok2api]] [[schollz-croc]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[alibaba-open-code-review]] [[chenyme-grok2api]] [[opengeos-geolibre]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

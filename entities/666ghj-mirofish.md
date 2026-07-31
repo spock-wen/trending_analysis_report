@@ -36,5 +36,5 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything.
 
 ## 相关项目
 
-[[ansible-ansible]] [[paperswithbacktest-awesome-systematic-trading]] [[mvanhorn-last30days-skill]] [[huggingface-speech-to-speech]]
+[[mvanhorn-last30days-skill]] [[paperswithbacktest-awesome-systematic-trading]] [[deepfakes-faceswap]] [[ansible-ansible]]
 

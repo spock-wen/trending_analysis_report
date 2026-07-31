@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[rohitg00-ai-engineering-from-scratch]] [[affaan-m-ecc]] [[knockoutez-wigolo]] [[microsoft-ai-for-beginners]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

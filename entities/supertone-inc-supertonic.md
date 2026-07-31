@@ -36,7 +36,7 @@ Lightning-Fast, On-Device, Multilingual TTS running natively via ONNX.
 
 ## 相关项目
 
-[[steipete-codexbar]] [[palmier-io-palmier-pro]] [[moeru-ai-airi]] [[microsoft-vibevoice]] [[permissionlesstech-bitchat]]
+[[huggingface-speech-to-speech]] [[jamiepine-voicebox]] [[palmier-io-palmier-pro]] [[permissionlesstech-bitchat]] [[moeru-ai-airi]]
 
 **所属领域**: [[audio]]
 

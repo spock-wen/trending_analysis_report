@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[corebunch-instatic]] [[moonshine-ai-moonshine]] [[hyprwm-hyprland]] [[alibaba-open-code-review]] [[apache-cassandra]]
+[[geo-tp-esp32-bit-pirate]] [[alibaba-open-code-review]] [[ocornut-imgui]] [[opengeos-geolibre]] [[corebunch-instatic]]
 
 **所属领域**: [[data]]
 

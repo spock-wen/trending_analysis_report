@@ -36,7 +36,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[moeru-ai-airi]] [[pascalorg-editor]] [[different-ai-openwork]] [[dotnet-aspnetcore]]
+[[pascalorg-editor]] [[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]] [[chromedevtools-chrome-devtools-mcp]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]]
 

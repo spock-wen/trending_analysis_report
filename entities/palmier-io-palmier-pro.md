@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[steipete-codexbar]] [[affaan-m-ecc]] [[permissionlesstech-bitchat]] [[microsoft-ai-for-beginners]]
+[[chatwoot-chatwoot]] [[permissionlesstech-bitchat]] [[microsoft-ai-for-beginners]] [[altic-dev-fluidvoice]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

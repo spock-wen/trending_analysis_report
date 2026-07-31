@@ -36,7 +36,7 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[moeru-ai-airi]] [[microsoft-vibevoice]] [[affaan-m-ecc]] [[mattpocock-skills]]
+[[huggingface-speech-to-speech]] [[chatwoot-chatwoot]] [[jamiepine-voicebox]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

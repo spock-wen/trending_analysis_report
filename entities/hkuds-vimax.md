@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ahmadibrahiim-website-downloader]] [[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[prisma-prisma]] [[trycua-cua]]
+[[chatwoot-chatwoot]] [[prisma-prisma]] [[microsoft-ai-for-beginners]] [[deepfakes-faceswap]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

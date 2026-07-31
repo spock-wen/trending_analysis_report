@@ -37,5 +37,5 @@ We write your reusable computer vision tools. 💜
 
 ## 相关项目
 
-[[ansible-ansible]] [[paperswithbacktest-awesome-systematic-trading]] [[mvanhorn-last30days-skill]] [[huggingface-speech-to-speech]]
+[[mvanhorn-last30days-skill]] [[paperswithbacktest-awesome-systematic-trading]] [[deepfakes-faceswap]] [[ansible-ansible]]
 

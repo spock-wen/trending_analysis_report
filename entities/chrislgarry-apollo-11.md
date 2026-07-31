@@ -37,7 +37,7 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 
 ## 相关项目
 
-[[yorukot-superfile]] [[amnezia-vpn-amnezia-client]] [[mattpocock-skills]] [[obra-superpowers]]
+[[obra-superpowers]] [[geo-tp-esp32-bit-pirate]] [[zhaoxuya520-reverse-skill]] [[yorukot-superfile]]
 
 **所属领域**: [[cli]]
 

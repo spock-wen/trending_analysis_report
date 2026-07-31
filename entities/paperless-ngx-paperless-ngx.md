@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[knockoutez-wigolo]] [[huggingface-speech-to-speech]] [[ansible-ansible]] [[paperswithbacktest-awesome-systematic-trading]]
+[[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[deepfakes-faceswap]] [[mvanhorn-last30days-skill]] [[paperswithbacktest-awesome-systematic-trading]]
 
 **所属领域**: [[science]]
 

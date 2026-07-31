@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[pkuflyingpig-cs-self-learning]] [[prisma-prisma]] [[trycua-cua]] [[ossu-computer-science]]
+[[hasaneyldrm-exercises-dataset]] [[geo-tp-esp32-bit-pirate]] [[ossu-computer-science]] [[pkuflyingpig-cs-self-learning]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]] [[image-gen]]
 

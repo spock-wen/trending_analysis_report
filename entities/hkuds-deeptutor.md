@@ -36,7 +36,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[dotnet-aspnetcore]] [[huggingface-speech-to-speech]] [[ansible-ansible]] [[paperswithbacktest-awesome-systematic-trading]]
+[[geo-tp-esp32-bit-pirate]] [[deepfakes-faceswap]] [[chromedevtools-chrome-devtools-mcp]] [[mvanhorn-last30days-skill]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[web]]
 

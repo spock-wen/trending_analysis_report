@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[moeru-ai-airi]] [[pascalorg-editor]] [[different-ai-openwork]] [[mattpocock-skills]]
+[[pascalorg-editor]] [[geo-tp-esp32-bit-pirate]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[usekaneo-kaneo]]
 
 **所属领域**: [[cli]]
 

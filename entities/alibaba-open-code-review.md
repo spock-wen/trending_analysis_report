@@ -37,7 +37,7 @@ Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture cod
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[corebunch-instatic]] [[affaan-m-ecc]] [[chenyme-grok2api]] [[schollz-croc]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[chenyme-grok2api]] [[opengeos-geolibre]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

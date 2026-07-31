@@ -37,7 +37,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[moeru-ai-airi]] [[microsoft-vibevoice]] [[affaan-m-ecc]] [[huggingface-speech-to-speech]]
+[[huggingface-speech-to-speech]] [[chatwoot-chatwoot]] [[jamiepine-voicebox]] [[microsoft-ai-for-beginners]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

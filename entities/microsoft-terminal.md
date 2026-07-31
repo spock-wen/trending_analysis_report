@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[moonshine-ai-moonshine]] [[hyprwm-hyprland]] [[mattpocock-skills]] [[yorukot-superfile]] [[obra-superpowers]]
+[[geo-tp-esp32-bit-pirate]] [[ocornut-imgui]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[yorukot-superfile]]
 
 **所属领域**: [[cli]]
 

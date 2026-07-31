@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[ahmadibrahiim-website-downloader]] [[chromedevtools-chrome-devtools-mcp]] [[moeru-ai-airi]] [[pascalorg-editor]] [[different-ai-openwork]]
+[[chatwoot-chatwoot]] [[prisma-prisma]] [[pascalorg-editor]] [[microsoft-ai-for-beginners]] [[usekaneo-kaneo]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

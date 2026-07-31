@@ -36,5 +36,5 @@ Visualize, collaborate, and evolve the software architecture with always actual 
 
 ## 相关项目
 
-[[pascalorg-editor]] [[chromedevtools-chrome-devtools-mcp]] [[different-ai-openwork]] [[moeru-ai-airi]]
+[[usekaneo-kaneo]] [[pascalorg-editor]] [[different-ai-openwork]] [[chromedevtools-chrome-devtools-mcp]]
 

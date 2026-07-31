@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[moeru-ai-airi]] [[microsoft-vibevoice]] [[pascalorg-editor]] [[different-ai-openwork]]
+[[huggingface-speech-to-speech]] [[chatwoot-chatwoot]] [[pascalorg-editor]] [[microsoft-ai-for-beginners]] [[moeru-ai-airi]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

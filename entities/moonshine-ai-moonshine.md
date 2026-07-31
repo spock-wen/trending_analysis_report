@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[hyprwm-hyprland]] [[moeru-ai-airi]] [[microsoft-vibevoice]] [[affaan-m-ecc]]
+[[huggingface-speech-to-speech]] [[chatwoot-chatwoot]] [[jamiepine-voicebox]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

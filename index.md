@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-07-31 | 总页面：419
+> 最后更新：2026-08-01 | 总页面：422
 
 ## Entities
 
@@ -110,7 +110,7 @@
 - [[deepfakes-faceswap|faceswap"]] — Deepfakes Software For All
 - [[deusdata-codebase-memory-mcp|codebase-memory-mcp"]] — High-performance code intelligence MCP server. Indexes codeb...
 - [[diegosouzapw-omniroute|OmniRoute"]] — Never stop coding. Free MIT AI gateway: one endpoint, 290+ p... 🔥
-- [[different-ai-openwork|openwork"]] — The open-source alternative to Claude Cowork (powered by ope... 🆕
+- [[different-ai-openwork|openwork"]] — The open-source alternative to Claude Cowork (powered by ope... 🔥
 - [[digitalplatdev-freedomain|FreeDomain"]] — DigitalPlat FreeDomain: Free Domain For Everyone 🔥
 - [[diolinux-photogimp|PhotoGIMP"]] — A Patch for GIMP 3+ for Photoshop Users
 - [[dioxuslabs-dioxus|dioxus"]] — Fullstack app framework for web, desktop, and mobile. 🆕
@@ -142,6 +142,7 @@
 - [[galilai-group-stable-worldmodel|stable-worldmodel"]] — A platform for reproducible world model research and evaluat... 🆕
 - [[garrytan-gstack|gstack"]] — Use Garry Tan's exact Claude Code setup: 23 opinionated tool... 🔥
 - [[gastownhall-gastown|gastown"]] — Gas Town - multi-agent workspace manager 🆕
+- [[geo-tp-esp32-bit-pirate|ESP32-Bit-Pirate"]] — A Hardware Hacking Tool with Web-Based CLI That Speaks Every... 🆕
 - [[github-copilot-sdk|copilot-sdk"]] — Multi-platform SDK for integrating GitHub Copilot Agent into...
 - [[github-docs|docs"]] — The open-source repo for docs.github.com
 - [[github-spec-kit|spec-kit"]] — 💫 Toolkit to help you get started with Spec-Driven Developme...
@@ -241,7 +242,7 @@
 - [[meshery-meshery|meshery"]] — Meshery, the cloud native manager 🔥
 - [[microsoft-agent-governance-toolkit|agent-governance-toolkit"]] — AI Agent Governance Toolkit — Policy enforcement, zero-trust...
 - [[microsoft-ai-agents-for-beginners|ai-agents-for-beginners"]] — 12 Lessons to Get Started Building AI Agents 🔥
-- [[microsoft-ai-for-beginners|AI-For-Beginners"]] — 12 Weeks, 24 Lessons, AI for All!
+- [[microsoft-ai-for-beginners|AI-For-Beginners"]] — 12 Weeks, 24 Lessons, AI for All! 🆕
 - [[microsoft-markitdown|markitdown"]] — Python tool for converting files and office documents to Mar... 🔥
 - [[microsoft-ontology-playground|Ontology-Playground"]] — Free, open-source web app for learning about ontologies and ... 🆕
 - [[microsoft-powertoys|PowerToys"]] — Microsoft PowerToys is a collection of utilities that superc...
@@ -259,7 +260,7 @@
 - [[multica-ai-andrej-karpathy-skills|andrej-karpathy-skills"]] — A single CLAUDE.md file to improve Claude Code behavior, der... 🔥
 - [[multica-ai-multica|multica"]] — The open-source managed agents platform. Turn coding agents ... 🆕
 - [[music-assistant-server|server"]] — Music Assistant is a free, opensource Media library manager ... 🔥
-- [[mvanhorn-last30days-skill|last30days-skill"]] — AI agent skill that researches any topic across Reddit, X, Y...
+- [[mvanhorn-last30days-skill|last30days-skill"]] — AI agent skill that researches any topic across Reddit, X, Y... 🆕
 - [[n0-computer-iroh|iroh"]] — IP addresses break, dial keys instead. Modular networking st... 🔥
 - [[nanmicoder-mediacrawler|MediaCrawler"]] — 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬...
 - [[nasa-fprime|fprime"]] — F´ - A flight software and embedded systems framework
@@ -385,6 +386,7 @@
 - [[unclecheng-li-vulnclaw|VulnClaw"]] — 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「...
 - [[unclecode-crawl4ai|crawl4ai"]] — 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper....
 - [[universal-debloater-alliance-universal-android-debloater-next-generation|universal-android-debloater-next-generation"]] — Cross-platform GUI written in Rust using ADB to debloat non-... 🔥
+- [[usekaneo-kaneo|kaneo"]] — 🎯 All you need. Nothing you don't. Open source project manag... 🆕
 - [[usestrix-strix|strix"]] — Open-source AI penetration testing tool to find and fix your... 🔥
 - [[veracrypt-veracrypt|VeraCrypt"]] — Disk encryption with strong security based on TrueCrypt
 - [[virattt-ai-hedge-fund|ai-hedge-fund"]] — An AI Hedge Fund Team
@@ -392,7 +394,7 @@
 - [[voltagent-awesome-design-md|awesome-design-md"]] — A collection of DESIGN.md files analysis by popular brand de...
 - [[vudovn-ag-kit|ag-kit"]] — No description
 - [[vxcontrol-pentagi|pentagi"]] — Fully autonomous AI Agents system capable of performing comp...
-- [[whiskeysockets-baileys|Baileys"]] — Socket-based TS/JavaScript API for WhatsApp Web 🆕
+- [[whiskeysockets-baileys|Baileys"]] — Socket-based TS/JavaScript API for WhatsApp Web
 - [[withastro-flue|flue"]] — The sandbox agent framework. 🔥
 - [[wonderwhy-er-desktopcommandermcp|DesktopCommanderMCP"]] — This is MCP server for Claude that gives it terminal control... 🔥
 - [[x1xhlol-system-prompts-and-models-of-ai-tools|system-prompts-and-models-of-ai-tools"]] — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cu...
@@ -406,6 +408,7 @@
 - [[zackriya-solutions-meetily|meetily"]] — Privacy first, AI meeting assistant with 4x faster Parakeet/... 🔥
 - [[zai-org-glm-5|GLM-5"]] — GLM-5: From Vibe Coding to Agentic Engineering 🆕
 - [[zeux-meshoptimizer|meshoptimizer"]] — Mesh optimization library that makes meshes smaller and fast... 🆕
+- [[zhaoxuya520-reverse-skill|reverse-skill"]] — Reverse Engineering / Authorized Penetration Testing / Secur... 🆕
 
 ## Concepts
 

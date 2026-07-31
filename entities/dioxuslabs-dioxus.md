@@ -35,7 +35,7 @@ Fullstack app framework for web, desktop, and mobile.
 
 ## 相关项目
 
-[[agavra-tuicr]] [[chromedevtools-chrome-devtools-mcp]] [[block-buzz]] [[pumpkin-mc-pumpkin]] [[1jehuang-jcode]]
+[[geo-tp-esp32-bit-pirate]] [[agavra-tuicr]] [[1jehuang-jcode]] [[pumpkin-mc-pumpkin]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]]
 

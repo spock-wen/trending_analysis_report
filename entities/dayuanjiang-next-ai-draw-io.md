@@ -34,7 +34,7 @@ A next.js web application that integrates AI capabilities with draw.io diagrams.
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[moeru-ai-airi]] [[pascalorg-editor]] [[different-ai-openwork]] [[affaan-m-ecc]]
+[[chatwoot-chatwoot]] [[pascalorg-editor]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

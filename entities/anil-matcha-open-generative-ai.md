@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[ahmadibrahiim-website-downloader]] [[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[pbakaus-impeccable]] [[prisma-prisma]]
+[[whiskeysockets-baileys]] [[chatwoot-chatwoot]] [[citrolabs-ego-lite]] [[microsoft-ai-for-beginners]] [[prisma-prisma]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

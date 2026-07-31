@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[github-copilot-sdk]] [[chromedevtools-chrome-devtools-mcp]] [[corebunch-instatic]] [[affaan-m-ecc]] [[mattpocock-skills]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

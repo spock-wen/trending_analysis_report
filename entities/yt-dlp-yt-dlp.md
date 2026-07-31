@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[microsoft-vibevoice]] [[mattpocock-skills]] [[amnezia-vpn-amnezia-client]] [[yorukot-superfile]]
+[[huggingface-speech-to-speech]] [[jamiepine-voicebox]] [[geo-tp-esp32-bit-pirate]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]]
 
 **所属领域**: [[cli]] [[audio]]
 

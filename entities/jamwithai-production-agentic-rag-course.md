@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[rohitg00-ai-engineering-from-scratch]] [[affaan-m-ecc]] [[microsoft-ontology-playground]] [[huggingface-speech-to-speech]]
+[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[deepfakes-faceswap]] [[rohitg00-ai-engineering-from-scratch]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[corebunch-instatic]] [[microsoft-powertoys]] [[affaan-m-ecc]] [[veracrypt-veracrypt]]
+[[microsoft-powertoys]] [[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[alibaba-open-code-review]] [[opengeos-geolibre]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

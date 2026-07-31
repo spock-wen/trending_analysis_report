@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[corebunch-instatic]] [[moeru-ai-airi]] [[pascalorg-editor]] [[different-ai-openwork]]
+[[pascalorg-editor]] [[alibaba-open-code-review]] [[usekaneo-kaneo]] [[ruvnet-ruview]] [[opengeos-geolibre]]
 
 **所属领域**: [[data]] [[devops]]
 

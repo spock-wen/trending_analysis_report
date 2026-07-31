@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[openinterpreter-openinterpreter]] [[zeux-meshoptimizer]] [[obra-superpowers]] [[dotnet-aspnetcore]]
+[[anthropics-cwc-workshops]] [[geo-tp-esp32-bit-pirate]] [[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]] [[erp]]
 

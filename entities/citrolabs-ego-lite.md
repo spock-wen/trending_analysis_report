@@ -36,7 +36,7 @@ The fastest browser for AI agents to run web automation, built for sharing your 
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[ansible-ansible]] [[affaan-m-ecc]] [[pbakaus-impeccable]] [[dotnet-aspnetcore]]
+[[whiskeysockets-baileys]] [[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

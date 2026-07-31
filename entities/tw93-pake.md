@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[agavra-tuicr]] [[chromedevtools-chrome-devtools-mcp]] [[block-buzz]] [[mattpocock-skills]] [[pumpkin-mc-pumpkin]]
+[[geo-tp-esp32-bit-pirate]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[agavra-tuicr]] [[1jehuang-jcode]]
 
 **所属领域**: [[web]] [[cli]]
 

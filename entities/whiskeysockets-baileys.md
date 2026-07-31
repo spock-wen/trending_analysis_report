@@ -34,7 +34,7 @@ Socket-based TS/JavaScript API for WhatsApp Web
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[pbakaus-impeccable]] [[citrolabs-ego-lite]] [[dotnet-aspnetcore]]
+[[chatwoot-chatwoot]] [[citrolabs-ego-lite]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -1,20 +1,20 @@
 ---
 title: "chatwoot/chatwoot"
 created: 2026-06-12
-updated: 2026-06-18
-last_active: 2026-06-18
+updated: 2026-08-01
+last_active: 2026-08-01
 type: tool
 tags: [ai-agent]
-sources: [raw/trending/2026-06-18.json]
+sources: [raw/trending/2026-08-01.json]
 confidence: high
-trending_count_daily: 5
+trending_count_daily: 6
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-12
-last_trending: 2026-06-18
+last_trending: 2026-08-01
 peak_rank: 3
-total_stars: 32346
+total_stars: 35107
 language: "Ruby"
 ---
 
@@ -23,22 +23,22 @@ language: "Ruby"
 Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
 - 语言: Ruby
-- 上榜次数: 5 次
+- 上榜次数: 6 次
 - 连续上榜: 1 天
 - 最高排名: #3
 - 链接: [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
 
 ## 上榜历史
 
+  - 2026-08-01: #7, +175⭐
   - 2026-06-18: #17, +310⭐
   - 2026-06-16: #5, +431⭐
   - 2026-06-15: #5, +399⭐
   - 2026-06-14: #3, +86⭐
-  - 2026-06-12: #13, +191⭐
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[docusealco-docuseal]] [[microsoft-ai-for-beginners]] [[mvanhorn-last30days-skill]]
+[[docusealco-docuseal]] [[mvanhorn-last30days-skill]] [[microsoft-ai-for-beginners]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]]
 

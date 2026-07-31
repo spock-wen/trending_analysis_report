@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[moeru-ai-airi]] [[pascalorg-editor]] [[different-ai-openwork]] [[ruvnet-ruview]]
+[[pascalorg-editor]] [[usekaneo-kaneo]] [[ruvnet-ruview]] [[chromedevtools-chrome-devtools-mcp]] [[koala73-worldmonitor]]
 
 **所属领域**: [[devops]]
 

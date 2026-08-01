@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]] [[chromedevtools-chrome-devtools-mcp]] [[yorukot-superfile]]
+[[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[ansible-ansible]] [[abus-aikorea-voice-pro]] [[yorukot-superfile]]
 
 **所属领域**: [[web]] [[cli]]
 

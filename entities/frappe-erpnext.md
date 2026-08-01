@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[obra-superpowers]] [[anthropics-cwc-workshops]]
+[[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[openinterpreter-openinterpreter]] [[anthropics-cwc-workshops]] [[ansible-ansible]]
 
 **所属领域**: [[erp]]
 

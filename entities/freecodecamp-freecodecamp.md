@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[paperswithbacktest-awesome-systematic-trading]] [[usekaneo-kaneo]] [[pascalorg-editor]] [[microsoft-ontology-playground]]
+[[microsoft-ai-for-beginners]] [[rohitg00-ai-engineering-from-scratch]] [[paperswithbacktest-awesome-systematic-trading]] [[usekaneo-kaneo]] [[different-ai-openwork]]
 
 **所属领域**: [[education]]
 

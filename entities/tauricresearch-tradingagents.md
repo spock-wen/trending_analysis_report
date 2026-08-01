@@ -34,7 +34,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[chatwoot-chatwoot]] [[affaan-m-ecc]]
+[[microsoft-ai-for-beginners]] [[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[mvanhorn-last30days-skill]] [[ansible-ansible]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

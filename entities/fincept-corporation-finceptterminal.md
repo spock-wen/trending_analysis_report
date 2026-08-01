@@ -35,7 +35,7 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 
 ## 相关项目
 
-[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[geo-tp-esp32-bit-pirate]] [[affaan-m-ecc]]
+[[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[geo-tp-esp32-bit-pirate]] [[mvanhorn-last30days-skill]] [[ansible-ansible]]
 
 **所属领域**: [[cli]] [[data]] [[science]]
 

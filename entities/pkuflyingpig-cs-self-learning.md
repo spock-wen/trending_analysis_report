@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[geo-tp-esp32-bit-pirate]] [[paperswithbacktest-awesome-systematic-trading]] [[hasaneyldrm-exercises-dataset]] [[microsoft-ontology-playground]]
+[[microsoft-ai-for-beginners]] [[paperswithbacktest-awesome-systematic-trading]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[ansible-ansible]]
 
 **所属领域**: [[web]] [[education]]
 

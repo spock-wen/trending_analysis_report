@@ -36,5 +36,5 @@ A beautiful, powerful, self-hosted rom manager and player.
 
 ## 相关项目
 
-[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[mvanhorn-last30days-skill]]
+[[bytedance-deer-flow]] [[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]]
 

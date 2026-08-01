@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[usekaneo-kaneo]] [[chatwoot-chatwoot]] [[microsoft-vibevoice]] [[pascalorg-editor]] [[github-copilot-sdk]]
+[[microsoft-ai-for-beginners]] [[huggingface-speech-to-speech]] [[usekaneo-kaneo]] [[ansible-ansible]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[andreknieriem-headunit-revived]] [[github-copilot-sdk]] [[pppscn-smsforwarder]] [[microsoft-ai-for-beginners]]
+[[microsoft-ai-for-beginners]] [[ansible-ansible]] [[pppscn-smsforwarder]] [[github-copilot-sdk]] [[bytedance-deer-flow]]
 
 **所属领域**: [[ai-agent]]
 

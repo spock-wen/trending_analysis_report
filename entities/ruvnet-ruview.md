@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[pumpkin-mc-pumpkin]] [[ansible-ansible]] [[1jehuang-jcode]] [[block-buzz]] [[agavra-tuicr]]
+[[koala73-worldmonitor]] [[ansible-ansible]] [[block-buzz]] [[pumpkin-mc-pumpkin]] [[agavra-tuicr]]
 
 **所属领域**: [[devops]]
 

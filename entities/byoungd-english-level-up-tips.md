@@ -38,7 +38,7 @@ An advanced guide to learn English which might benefit you a lot 🎉 . 人生�
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[paperswithbacktest-awesome-systematic-trading]] [[microsoft-ontology-playground]] [[rohitg00-ai-engineering-from-scratch]]
+[[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[rohitg00-ai-engineering-from-scratch]] [[paperswithbacktest-awesome-systematic-trading]]
 
 **所属领域**: [[education]]
 

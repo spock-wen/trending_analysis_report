@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]] [[pascalorg-editor]] [[different-ai-openwork]] [[chromedevtools-chrome-devtools-mcp]]
+[[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[ansible-ansible]] [[usekaneo-kaneo]] [[different-ai-openwork]]
 
 **所属领域**: [[web]]
 

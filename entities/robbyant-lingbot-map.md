@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[apache-cassandra]] [[opengeos-geolibre]]
+[[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[opengeos-geolibre]] [[alibaba-open-code-review]]
 
 **所属领域**: [[data]]
 

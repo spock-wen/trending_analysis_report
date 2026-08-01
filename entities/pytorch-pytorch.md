@@ -35,5 +35,5 @@ Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## 相关项目
 
-[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[mvanhorn-last30days-skill]]
+[[bytedance-deer-flow]] [[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]]
 

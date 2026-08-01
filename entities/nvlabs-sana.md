@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[ahmadibrahiim-website-downloader]] [[graphify-labs-graphify]]
+[[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[ahmadibrahiim-website-downloader]] [[graphify-labs-graphify]]
 
 **所属领域**: [[image-gen]]
 

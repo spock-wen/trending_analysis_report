@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[paperswithbacktest-awesome-systematic-trading]] [[chatwoot-chatwoot]] [[ansible-ansible]] [[obra-superpowers]]
+[[microsoft-ai-for-beginners]] [[koala73-worldmonitor]] [[openinterpreter-openinterpreter]] [[paperswithbacktest-awesome-systematic-trading]] [[anthropics-cwc-workshops]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

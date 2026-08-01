@@ -34,5 +34,5 @@ b站会员购购票辅助工具
 
 ## 相关项目
 
-[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[mvanhorn-last30days-skill]]
+[[bytedance-deer-flow]] [[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]]
 

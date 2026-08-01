@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[chatwoot-chatwoot]] [[pkuflyingpig-cs-self-learning]] [[hasaneyldrm-exercises-dataset]] [[apache-cassandra]]
+[[microsoft-ai-for-beginners]] [[pkuflyingpig-cs-self-learning]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[ossu-computer-science]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

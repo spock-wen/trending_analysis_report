@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[amnezia-vpn-amnezia-client]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]] [[hyprwm-hyprland]]
+[[geo-tp-esp32-bit-pirate]] [[ocornut-imgui]] [[yorukot-superfile]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

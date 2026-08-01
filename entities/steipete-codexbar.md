@@ -36,7 +36,7 @@ Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[github-copilot-sdk]] [[microsoft-ai-for-beginners]] [[permissionlesstech-bitchat]] [[palmier-io-palmier-pro]]
+[[microsoft-ai-for-beginners]] [[palmier-io-palmier-pro]] [[permissionlesstech-bitchat]] [[ansible-ansible]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]]
 

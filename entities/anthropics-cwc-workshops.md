@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[usekaneo-kaneo]] [[obra-superpowers]] [[pascalorg-editor]] [[different-ai-openwork]] [[chromedevtools-chrome-devtools-mcp]]
+[[openinterpreter-openinterpreter]] [[usekaneo-kaneo]] [[zeux-meshoptimizer]] [[different-ai-openwork]] [[tencentcloud-tencentdb-agent-memory]]
 
 **所属领域**: [[erp]]
 

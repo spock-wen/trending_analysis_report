@@ -34,7 +34,7 @@ language: "Go"
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[schollz-croc]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]] [[chromedevtools-chrome-devtools-mcp]]
+[[schollz-croc]] [[github-gh-stack]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[ansible-ansible]]
 
 **所属领域**: [[web]] [[cli]]
 

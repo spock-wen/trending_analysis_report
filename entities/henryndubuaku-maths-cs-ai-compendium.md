@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[paperswithbacktest-awesome-systematic-trading]] [[usekaneo-kaneo]] [[chatwoot-chatwoot]] [[zhaoxuya520-reverse-skill]]
+[[microsoft-ai-for-beginners]] [[paperswithbacktest-awesome-systematic-trading]] [[mvanhorn-last30days-skill]] [[usekaneo-kaneo]] [[ansible-ansible]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

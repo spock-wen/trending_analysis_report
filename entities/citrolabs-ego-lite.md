@@ -36,7 +36,7 @@ The fastest browser for AI agents to run web automation, built for sharing your 
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[geo-tp-esp32-bit-pirate]] [[chatwoot-chatwoot]] [[github-copilot-sdk]] [[pbakaus-impeccable]]
+[[pbakaus-impeccable]] [[microsoft-ai-for-beginners]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[ansible-ansible]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

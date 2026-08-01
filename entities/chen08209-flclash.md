@@ -35,7 +35,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]] [[yorukot-superfile]] [[flutter-flutter]]
+[[geo-tp-esp32-bit-pirate]] [[flutter-flutter]] [[yorukot-superfile]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

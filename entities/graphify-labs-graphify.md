@@ -36,7 +36,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[alibaba-open-code-review]] [[affaan-m-ecc]] [[obra-superpowers]] [[ahmadibrahiim-website-downloader]]
+[[ansible-ansible]] [[alibaba-open-code-review]] [[ahmadibrahiim-website-downloader]] [[zhaoxuya520-reverse-skill]] [[geo-tp-esp32-bit-pirate]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

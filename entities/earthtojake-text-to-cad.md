@@ -35,7 +35,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[chatwoot-chatwoot]] [[citrolabs-ego-lite]] [[github-copilot-sdk]] [[pbakaus-impeccable]]
+[[pbakaus-impeccable]] [[microsoft-ai-for-beginners]] [[ansible-ansible]] [[github-copilot-sdk]] [[bytedance-deer-flow]]
 
 **所属领域**: [[ai-agent]]
 

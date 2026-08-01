@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]] [[pascalorg-editor]]
+[[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[ansible-ansible]] [[usekaneo-kaneo]] [[different-ai-openwork]]
 
 **所属领域**: [[web]] [[cli]]
 

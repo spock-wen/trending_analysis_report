@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[usekaneo-kaneo]] [[obra-superpowers]] [[pascalorg-editor]] [[anthropics-cwc-workshops]] [[different-ai-openwork]]
+[[openinterpreter-openinterpreter]] [[anthropics-cwc-workshops]] [[usekaneo-kaneo]] [[zeux-meshoptimizer]] [[different-ai-openwork]]
 
 **所属领域**: [[erp]]
 

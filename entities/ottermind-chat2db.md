@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[chatwoot-chatwoot]] [[obra-superpowers]] [[apache-cassandra]] [[zhaoxuya520-reverse-skill]]
+[[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[ansible-ansible]] [[opengeos-geolibre]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

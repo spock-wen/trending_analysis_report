@@ -34,7 +34,7 @@ The easiest, most secure way to use WireGuard and 2FA.
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[schollz-croc]] [[github-copilot-sdk]] [[microsoft-ai-for-beginners]] [[yorukot-superfile]]
+[[microsoft-ai-for-beginners]] [[schollz-croc]] [[github-gh-stack]] [[ansible-ansible]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

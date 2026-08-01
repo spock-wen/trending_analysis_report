@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[usekaneo-kaneo]] [[ansible-ansible]] [[apache-cassandra]] [[pascalorg-editor]] [[opengeos-geolibre]]
+[[koala73-worldmonitor]] [[usekaneo-kaneo]] [[ansible-ansible]] [[opengeos-geolibre]] [[ruvnet-ruview]]
 
 **所属领域**: [[data]] [[devops]]
 

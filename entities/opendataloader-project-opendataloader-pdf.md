@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[apache-cassandra]] [[github-copilot-sdk]] [[opengeos-geolibre]] [[microsoft-ai-for-beginners]]
+[[microsoft-ai-for-beginners]] [[ottermind-chat2db]] [[ansible-ansible]] [[opengeos-geolibre]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -38,7 +38,7 @@ agent multiplexer that lives in your terminal.
 
 ## 相关项目
 
-[[pumpkin-mc-pumpkin]] [[chatwoot-chatwoot]] [[geo-tp-esp32-bit-pirate]] [[1jehuang-jcode]] [[obra-superpowers]]
+[[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[ansible-ansible]] [[block-buzz]] [[pumpkin-mc-pumpkin]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

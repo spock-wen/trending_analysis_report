@@ -38,7 +38,7 @@ The open alternative to Salesforce, designed for AI.
 
 ## 相关项目
 
-[[usekaneo-kaneo]] [[chatwoot-chatwoot]] [[pascalorg-editor]] [[github-copilot-sdk]] [[different-ai-openwork]]
+[[microsoft-ai-for-beginners]] [[usekaneo-kaneo]] [[ansible-ansible]] [[github-copilot-sdk]] [[different-ai-openwork]]
 
 **所属领域**: [[ai-agent]]
 

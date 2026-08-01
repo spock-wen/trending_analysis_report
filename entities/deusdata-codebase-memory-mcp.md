@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[veracrypt-veracrypt]] [[apache-cassandra]] [[github-copilot-sdk]] [[opengeos-geolibre]]
+[[microsoft-ai-for-beginners]] [[ansible-ansible]] [[opengeos-geolibre]] [[alibaba-open-code-review]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

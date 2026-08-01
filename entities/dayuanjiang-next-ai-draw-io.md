@@ -34,7 +34,7 @@ A next.js web application that integrates AI capabilities with draw.io diagrams.
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]] [[chatwoot-chatwoot]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]]
+[[microsoft-ai-for-beginners]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]] [[ansible-ansible]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

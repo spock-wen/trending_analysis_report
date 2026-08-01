@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[chatwoot-chatwoot]] [[citrolabs-ego-lite]] [[ahmadibrahiim-website-downloader]] [[github-copilot-sdk]]
+[[pbakaus-impeccable]] [[microsoft-ai-for-beginners]] [[trycua-cua]] [[ansible-ansible]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

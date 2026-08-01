@@ -36,7 +36,7 @@ Specification and documentation for Agent Skills
 
 ## 相关项目
 
-[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[chatwoot-chatwoot]] [[github-copilot-sdk]]
+[[microsoft-ai-for-beginners]] [[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]]
 

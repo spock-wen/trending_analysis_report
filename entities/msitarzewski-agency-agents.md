@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[mattpocock-skills]] [[geo-tp-esp32-bit-pirate]] [[chatwoot-chatwoot]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]]
+[[microsoft-ai-for-beginners]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[mattpocock-skills]] [[ansible-ansible]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

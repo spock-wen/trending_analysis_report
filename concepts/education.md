@@ -1,7 +1,7 @@
 ---
 title: "education"
 created: 2026-05-22
-updated: 2026-08-01
+updated: 2026-08-02
 type: concept
 tags: [education]
 confidence: medium
@@ -9,15 +9,15 @@ confidence: medium
 
 # education
 
-## 领域项目（共 15 个，今日上榜 2 个）
+## 领域项目（共 16 个，今日上榜 3 个）
 
-[[microsoft-ai-for-beginners]] [[paperswithbacktest-awesome-systematic-trading]] [[rohitg00-ai-engineering-from-scratch]] [[microsoft-ontology-playground]] [[pkuflyingpig-cs-self-learning]] [[byoungd-english-level-up-tips]] [[owainlewis-awesome-artificial-intelligence]] [[freecodecamp-freecodecamp]] [[mikeroyal-self-hosting-guide]] [[stefan-jansen-machine-learning-for-trading]] [[jamwithai-production-agentic-rag-course]] [[datatalksclub-data-engineering-zoomcamp]] [[lum1104-understand-anything]] [[microsoft-ai-agents-for-beginners]] [[nirdiamant-agents-towards-production]]
+[[microsoft-ai-for-beginners]] [[paperswithbacktest-awesome-systematic-trading]] [[microsoft-generative-ai-for-beginners]] [[rohitg00-ai-engineering-from-scratch]] [[microsoft-ontology-playground]] [[pkuflyingpig-cs-self-learning]] [[byoungd-english-level-up-tips]] [[owainlewis-awesome-artificial-intelligence]] [[freecodecamp-freecodecamp]] [[mikeroyal-self-hosting-guide]] [[stefan-jansen-machine-learning-for-trading]] [[jamwithai-production-agentic-rag-course]] [[datatalksclub-data-engineering-zoomcamp]] [[lum1104-understand-anything]] [[microsoft-ai-agents-for-beginners]] [[nirdiamant-agents-towards-production]]
 
 ## 语言分布
 
-Jupyter Notebook 5个, Python 3个, TypeScript 3个, ? 2个, HTML 1个, Dockerfile 1个
+Jupyter Notebook 6个, Python 3个, TypeScript 3个, ? 2个, HTML 1个, Dockerfile 1个
 
 ## 趋势观察
 
-15 个 education 领域项目被追踪，其中 2 个今日同时上榜，反映该领域持续活跃。
+16 个 education 领域项目被追踪，其中 3 个今日同时上榜，反映该领域持续活跃。
 

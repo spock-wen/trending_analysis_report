@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]] [[chatwoot-chatwoot]] [[paperswithbacktest-awesome-systematic-trading]]
+[[microsoft-ai-for-beginners]] [[paperswithbacktest-awesome-systematic-trading]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

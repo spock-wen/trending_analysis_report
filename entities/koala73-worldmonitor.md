@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[usekaneo-kaneo]] [[chatwoot-chatwoot]] [[ansible-ansible]] [[apache-cassandra]] [[pascalorg-editor]]
+[[microsoft-ai-for-beginners]] [[usekaneo-kaneo]] [[ansible-ansible]] [[ruvnet-ruview]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

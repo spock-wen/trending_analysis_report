@@ -34,5 +34,5 @@ Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencie
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[amnezia-vpn-amnezia-client]] [[hyprwm-hyprland]]
+[[geo-tp-esp32-bit-pirate]] [[hyprwm-hyprland]] [[amnezia-vpn-amnezia-client]]
 

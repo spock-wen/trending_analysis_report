@@ -37,5 +37,5 @@ Create and share 3D architectural projects.
 
 ## 相关项目
 
-[[different-ai-openwork]] [[usekaneo-kaneo]] [[chromedevtools-chrome-devtools-mcp]]
+[[tencentcloud-tencentdb-agent-memory]] [[different-ai-openwork]] [[usekaneo-kaneo]]
 

@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[geo-tp-esp32-bit-pirate]] [[chatwoot-chatwoot]] [[paperswithbacktest-awesome-systematic-trading]] [[pkuflyingpig-cs-self-learning]]
+[[microsoft-ai-for-beginners]] [[pkuflyingpig-cs-self-learning]] [[paperswithbacktest-awesome-systematic-trading]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

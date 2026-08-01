@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[geo-tp-esp32-bit-pirate]] [[jamiepine-voicebox]]
+[[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[geo-tp-esp32-bit-pirate]] [[ansible-ansible]] [[microsoft-vibevoice]]
 
 **所属领域**: [[cli]] [[audio]]
 

@@ -38,7 +38,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[chatwoot-chatwoot]] [[github-copilot-sdk]] [[mvanhorn-last30days-skill]]
+[[bytedance-deer-flow]] [[microsoft-ai-for-beginners]] [[github-copilot-sdk]] [[ansible-ansible]]
 
 **所属领域**: [[ai-agent]]
 

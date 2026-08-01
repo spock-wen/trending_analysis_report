@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[geo-tp-esp32-bit-pirate]] [[yorukot-superfile]] [[obra-superpowers]]
+[[obra-superpowers]] [[geo-tp-esp32-bit-pirate]] [[yorukot-superfile]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[cli]]
 

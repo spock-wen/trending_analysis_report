@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[mattpocock-skills]] [[geo-tp-esp32-bit-pirate]] [[chatwoot-chatwoot]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]]
+[[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[mattpocock-skills]] [[ansible-ansible]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

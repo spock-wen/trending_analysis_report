@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]] [[chatwoot-chatwoot]] [[paperswithbacktest-awesome-systematic-trading]]
+[[microsoft-ai-for-beginners]] [[rohitg00-ai-engineering-from-scratch]] [[paperswithbacktest-awesome-systematic-trading]] [[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

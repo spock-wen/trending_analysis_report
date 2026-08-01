@@ -34,5 +34,5 @@ General plug-and-play inference library for Recursive Language Models (RLMs), su
 
 ## 相关项目
 
-[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[mvanhorn-last30days-skill]]
+[[bytedance-deer-flow]] [[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]]
 

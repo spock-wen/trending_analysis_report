@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[amnezia-vpn-amnezia-client]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]] [[hyprwm-hyprland]] [[chromedevtools-chrome-devtools-mcp]]
+[[mvanhorn-last30days-skill]] [[ansible-ansible]] [[abus-aikorea-voice-pro]] [[ocornut-imgui]] [[yorukot-superfile]]
 
 **所属领域**: [[web]] [[cli]]
 

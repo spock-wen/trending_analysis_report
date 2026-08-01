@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[pumpkin-mc-pumpkin]] [[chatwoot-chatwoot]] [[geo-tp-esp32-bit-pirate]] [[1jehuang-jcode]] [[obra-superpowers]]
+[[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[ansible-ansible]] [[block-buzz]] [[pumpkin-mc-pumpkin]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

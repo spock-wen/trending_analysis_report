@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[plausible-analytics]] [[apache-cassandra]] [[github-copilot-sdk]] [[opengeos-geolibre]]
+[[microsoft-ai-for-beginners]] [[ansible-ansible]] [[opengeos-geolibre]] [[alibaba-open-code-review]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -38,7 +38,7 @@ Local-first code intelligence graph for MCP and CLI. Builds a persistent map of 
 
 ## 相关项目
 
-[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[chatwoot-chatwoot]] [[geo-tp-esp32-bit-pirate]]
+[[microsoft-ai-for-beginners]] [[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[geo-tp-esp32-bit-pirate]] [[ansible-ansible]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

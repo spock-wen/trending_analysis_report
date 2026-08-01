@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[ansible-ansible]] [[opengeos-geolibre]] [[github-copilot-sdk]] [[ruvnet-ruview]] [[ottermind-chat2db]]
+[[ottermind-chat2db]] [[koala73-worldmonitor]] [[ansible-ansible]] [[ruvnet-ruview]] [[opengeos-geolibre]]
 
 **所属领域**: [[data]] [[devops]]
 

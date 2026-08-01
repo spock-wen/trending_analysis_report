@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-08-01 | 总页面：422
+> 最后更新：2026-08-02 | 总页面：427
 
 ## Entities
 
@@ -10,6 +10,7 @@
 - [[666ghj-mirofish|MiroFish"]] — A Simple and Universal Swarm Intelligence Engine, Predicting...
 - [[aaif-goose-goose|goose"]] — an open source, extensible AI agent that goes beyond code su... 🔥
 - [[abseil-abseil-cpp|abseil-cpp"]] — Abseil Common Libraries (C++) 🆕
+- [[abus-aikorea-voice-pro|voice-pro"]] — Gradio WebUI for creators and developers, featuring key TTS ... 🆕
 - [[actions-checkout|checkout"]] — Action for checking out a repo
 - [[activeloopai-hivemind|hivemind"]] — One brain for all your agents
 - [[addyosmani-agent-skills|agent-skills"]] — Production-grade engineering skills for AI coding agents. 🔥
@@ -69,7 +70,7 @@
 - [[byjoey-cfnew|cfnew"]] — No description
 - [[byoungd-english-level-up-tips|English-level-up-tips"]] — An advanced guide to learn English which might benefit you a...
 - [[bytebytegohq-system-design-101|system-design-101"]] — Explain complex systems using visuals and simple terms. Help...
-- [[bytedance-deer-flow|deer-flow"]] — An open-source long-horizon SuperAgent harness that research... 🔥
+- [[bytedance-deer-flow|deer-flow"]] — An open-source long-horizon SuperAgent harness that research...
 - [[bytedance-ui-tars-desktop|UI-TARS-desktop"]] — The Open-Source Multimodal AI Agent Stack: Connecting Cuttin...
 - [[calesthio-openmontage|OpenMontage"]] — World's first open-source, agentic video production system. ... 🔥
 - [[can1357-oh-my-pi|oh-my-pi"]] — ⌥ AI Coding agent for the terminal — hash-anchored edits, op...
@@ -142,9 +143,10 @@
 - [[galilai-group-stable-worldmodel|stable-worldmodel"]] — A platform for reproducible world model research and evaluat... 🆕
 - [[garrytan-gstack|gstack"]] — Use Garry Tan's exact Claude Code setup: 23 opinionated tool... 🔥
 - [[gastownhall-gastown|gastown"]] — Gas Town - multi-agent workspace manager 🆕
-- [[geo-tp-esp32-bit-pirate|ESP32-Bit-Pirate"]] — A Hardware Hacking Tool with Web-Based CLI That Speaks Every... 🆕
-- [[github-copilot-sdk|copilot-sdk"]] — Multi-platform SDK for integrating GitHub Copilot Agent into...
+- [[geo-tp-esp32-bit-pirate|ESP32-Bit-Pirate"]] — A Hardware Hacking Tool with Web-Based CLI That Speaks Every...
+- [[github-copilot-sdk|copilot-sdk"]] — Multi-platform SDK for integrating GitHub Copilot Agent into... 🆕
 - [[github-docs|docs"]] — The open-source repo for docs.github.com
+- [[github-gh-stack|gh-stack"]] — GitHub Stacked PRs 🆕
 - [[github-spec-kit|spec-kit"]] — 💫 Toolkit to help you get started with Spec-Driven Developme...
 - [[godotengine-godot|godot"]] — Godot Engine – Multi-platform 2D and 3D game engine
 - [[google-agents-cli|agents-cli"]] — The CLI and skills that turn any coding assistant into an ex...
@@ -169,7 +171,7 @@
 - [[hkuds-vibe-trading|Vibe-Trading"]] — "Vibe-Trading: Your Personal Trading Agent" 🔥
 - [[hkuds-vimax|ViMax"]] — "ViMax: Agentic Video Generation (Director, Screenwriter, Pr... 🆕
 - [[home-assistant-core|core"]] — 🏡 Open source home automation that puts local control and pr... 🆕
-- [[huggingface-speech-to-speech|speech-to-speech"]] — Build local voice agents with open-source models 🔥
+- [[huggingface-speech-to-speech|speech-to-speech"]] — Build local voice agents with open-source models
 - [[hugohe3-ppt-master|ppt-master"]] — AI generates a real, editable PowerPoint from any document —...
 - [[humanlayer-12-factor-agents|12-factor-agents"]] — What are the principles we can use to build LLM-powered soft... 🆕
 - [[hunxbyts-ghosttrack|GhostTrack"]] — Useful tool to track location or mobile number
@@ -187,6 +189,7 @@
 - [[iofficeai-officecli|OfficeCLI"]] — OfficeCLI is the first and best Office suite purpose-built f... 🔥
 - [[iptv-org-iptv|iptv"]] — Collection of publicly available IPTV channels from all over...
 - [[itsfatduck-optimizerduck|optimizerDuck"]] — Free, open-source Windows optimization tool for performance,...
+- [[iv-org-invidious|invidious"]] — Invidious is an alternative front-end to YouTube 🆕
 - [[jamiepine-voicebox|voicebox"]] — The open-source AI voice studio. Clone, dictate, create.
 - [[jamwithai-production-agentic-rag-course|production-agentic-rag-course"]] — No description
 - [[jbeder-yaml-cpp|yaml-cpp"]] — A YAML parser and emitter in C++
@@ -242,7 +245,8 @@
 - [[meshery-meshery|meshery"]] — Meshery, the cloud native manager 🔥
 - [[microsoft-agent-governance-toolkit|agent-governance-toolkit"]] — AI Agent Governance Toolkit — Policy enforcement, zero-trust...
 - [[microsoft-ai-agents-for-beginners|ai-agents-for-beginners"]] — 12 Lessons to Get Started Building AI Agents 🔥
-- [[microsoft-ai-for-beginners|AI-For-Beginners"]] — 12 Weeks, 24 Lessons, AI for All! 🆕
+- [[microsoft-ai-for-beginners|AI-For-Beginners"]] — 12 Weeks, 24 Lessons, AI for All! 🔥
+- [[microsoft-generative-ai-for-beginners|generative-ai-for-beginners"]] — 21 Lessons, Get Started Building with Generative AI 🆕
 - [[microsoft-markitdown|markitdown"]] — Python tool for converting files and office documents to Mar... 🔥
 - [[microsoft-ontology-playground|Ontology-Playground"]] — Free, open-source web app for learning about ontologies and ... 🆕
 - [[microsoft-powertoys|PowerToys"]] — Microsoft PowerToys is a collection of utilities that superc...
@@ -267,6 +271,7 @@
 - [[nesquena-hermes-webui|hermes-webui"]] — Hermes WebUI: The best way to use Hermes Agent from the web ... 🔥
 - [[nicobailon-pi-subagents|pi-subagents"]] — Pi extension for async subagent delegation with truncation, ...
 - [[nirdiamant-agents-towards-production|agents-towards-production"]] — End-to-end, code-first tutorials for building production-gra...
+- [[nomadamas-k-skill|k-skill"]] — 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로 🆕
 - [[nousresearch-hermes-agent|hermes-agent"]] — The agent that grows with you 🆕
 - [[nutlope-hallmark|hallmark"]] — Anti-AI-slop design skill for Claude Code, Cursor, and Codex... 🔥
 - [[nuxt-nuxt|nuxt"]] — the full-stack Vue framework
@@ -366,7 +371,7 @@
 - [[tauricresearch-tradingagents|TradingAgents"]] — TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [[tech-leads-club-agent-skills|agent-skills"]] — The secure, validated skill registry for professional AI cod... 🆕
 - [[tencentcloud-cubesandbox|CubeSandbox"]] — Instant, Concurrent, Secure & Lightweight Sandbox for AI Age... 🆕
-- [[tencentcloud-tencentdb-agent-memory|TencentDB-Agent-Memory"]] — TencentDB Agent Memory delivers fully local long-term memory...
+- [[tencentcloud-tencentdb-agent-memory|TencentDB-Agent-Memory"]] — TencentDB Agent Memory is a team-level memory hub for AI Age...
 - [[teng-lin-notebooklm-py|notebooklm-py"]] — Unofficial Python API and agentic skill for Google NotebookL...
 - [[teslamate-org-teslamate|teslamate"]] — A self-hosted data logger for your Tesla 🚘 [main maintainer=... 🆕
 - [[thedotmack-claude-mem|claude-mem"]] — Persistent Context Across Sessions for Every Agent – Capture...

@@ -35,5 +35,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[whiskeysockets-baileys]] [[citrolabs-ego-lite]] [[pbakaus-impeccable]]
+[[pbakaus-impeccable]] [[nomadamas-k-skill]] [[whiskeysockets-baileys]] [[affaan-m-ecc]]
 

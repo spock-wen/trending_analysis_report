@@ -35,7 +35,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[chatwoot-chatwoot]] [[citrolabs-ego-lite]] [[github-copilot-sdk]] [[microsoft-ai-for-beginners]]
+[[microsoft-ai-for-beginners]] [[ansible-ansible]] [[github-copilot-sdk]] [[bytedance-deer-flow]] [[whiskeysockets-baileys]]
 
 **所属领域**: [[ai-agent]]
 

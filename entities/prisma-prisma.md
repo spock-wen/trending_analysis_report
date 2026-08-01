@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[usekaneo-kaneo]] [[apache-cassandra]] [[ahmadibrahiim-website-downloader]] [[pascalorg-editor]] [[opengeos-geolibre]]
+[[trycua-cua]] [[usekaneo-kaneo]] [[opengeos-geolibre]] [[alibaba-open-code-review]] [[different-ai-openwork]]
 
 **所属领域**: [[data]] [[image-gen]]
 

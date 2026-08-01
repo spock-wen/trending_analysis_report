@@ -37,5 +37,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[different-ai-openwork]] [[usekaneo-kaneo]] [[chromedevtools-chrome-devtools-mcp]] [[pascalorg-editor]]
+[[tencentcloud-tencentdb-agent-memory]] [[pascalorg-editor]] [[different-ai-openwork]] [[usekaneo-kaneo]]
 

@@ -36,7 +36,7 @@ Web UI for the pi coding agent
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]] [[chatwoot-chatwoot]] [[pascalorg-editor]] [[github-copilot-sdk]]
+[[microsoft-ai-for-beginners]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]] [[ansible-ansible]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

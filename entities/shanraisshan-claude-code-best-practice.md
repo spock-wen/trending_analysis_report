@@ -35,7 +35,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[chatwoot-chatwoot]] [[pkuflyingpig-cs-self-learning]] [[hasaneyldrm-exercises-dataset]] [[github-copilot-sdk]]
+[[microsoft-ai-for-beginners]] [[pkuflyingpig-cs-self-learning]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[ossu-computer-science]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

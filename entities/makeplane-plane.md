@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]] [[pascalorg-editor]]
+[[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]] [[different-ai-openwork]] [[yorukot-superfile]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[cli]]
 

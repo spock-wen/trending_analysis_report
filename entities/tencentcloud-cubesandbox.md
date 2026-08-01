@@ -37,7 +37,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ## 相关项目
 
-[[pumpkin-mc-pumpkin]] [[chatwoot-chatwoot]] [[1jehuang-jcode]] [[block-buzz]] [[agavra-tuicr]]
+[[microsoft-ai-for-beginners]] [[ansible-ansible]] [[block-buzz]] [[pumpkin-mc-pumpkin]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]]
 

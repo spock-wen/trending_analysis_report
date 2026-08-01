@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[geo-tp-esp32-bit-pirate]] [[obra-superpowers]]
+[[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[geo-tp-esp32-bit-pirate]] [[ansible-ansible]] [[bytedance-deer-flow]]
 
 **所属领域**: [[cli]]
 

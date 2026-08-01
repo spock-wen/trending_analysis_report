@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[steipete-codexbar]] [[chatwoot-chatwoot]] [[github-copilot-sdk]] [[microsoft-ai-for-beginners]] [[permissionlesstech-bitchat]]
+[[microsoft-ai-for-beginners]] [[permissionlesstech-bitchat]] [[ansible-ansible]] [[steipete-codexbar]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[chatwoot-chatwoot]] [[apache-cassandra]]
+[[microsoft-ai-for-beginners]] [[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[opengeos-geolibre]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

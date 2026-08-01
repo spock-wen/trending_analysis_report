@@ -34,7 +34,7 @@ The Postgres development platform. Supabase gives you a dedicated Postgres datab
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]] [[chatwoot-chatwoot]] [[apache-cassandra]] [[pascalorg-editor]]
+[[microsoft-ai-for-beginners]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]] [[ansible-ansible]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

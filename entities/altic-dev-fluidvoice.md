@@ -37,7 +37,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[jamiepine-voicebox]] [[microsoft-vibevoice]] [[github-copilot-sdk]] [[moeru-ai-airi]]
+[[microsoft-ai-for-beginners]] [[huggingface-speech-to-speech]] [[palmier-io-palmier-pro]] [[permissionlesstech-bitchat]] [[ansible-ansible]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

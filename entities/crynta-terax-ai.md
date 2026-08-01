@@ -34,7 +34,7 @@ Lightweight (7MB) Terminal-first AI-native dev workspace
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]] [[chatwoot-chatwoot]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]]
+[[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]] [[ansible-ansible]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

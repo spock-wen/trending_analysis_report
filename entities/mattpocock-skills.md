@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[chatwoot-chatwoot]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]] [[github-copilot-sdk]]
+[[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[ansible-ansible]] [[github-copilot-sdk]] [[bytedance-deer-flow]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

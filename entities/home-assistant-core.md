@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[affaan-m-ecc]] [[amnezia-vpn-amnezia-client]]
+[[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[automattic-harper]] [[ansible-ansible]] [[bytedance-deer-flow]]
 
 **所属领域**: [[security]]
 

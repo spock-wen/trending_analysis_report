@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]] [[chatwoot-chatwoot]] [[jamiepine-voicebox]] [[microsoft-vibevoice]]
+[[microsoft-ai-for-beginners]] [[huggingface-speech-to-speech]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

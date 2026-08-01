@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[geo-tp-esp32-bit-pirate]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]] [[hyprwm-hyprland]]
+[[automattic-harper]] [[geo-tp-esp32-bit-pirate]] [[ocornut-imgui]] [[yorukot-superfile]] [[affaan-m-ecc]]
 
 **所属领域**: [[cli]] [[security]]
 

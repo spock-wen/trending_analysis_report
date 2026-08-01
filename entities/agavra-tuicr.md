@@ -35,5 +35,5 @@ a code review TUI with vim keybindings
 
 ## 相关项目
 
-[[pumpkin-mc-pumpkin]] [[1jehuang-jcode]] [[block-buzz]]
+[[block-buzz]] [[pumpkin-mc-pumpkin]] [[1jehuang-jcode]]
 

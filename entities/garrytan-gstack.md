@@ -38,7 +38,7 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 
 ## 相关项目
 
-[[usekaneo-kaneo]] [[chatwoot-chatwoot]] [[pascalorg-editor]] [[github-copilot-sdk]] [[different-ai-openwork]]
+[[microsoft-ai-for-beginners]] [[usekaneo-kaneo]] [[ansible-ansible]] [[github-copilot-sdk]] [[different-ai-openwork]]
 
 **所属领域**: [[ai-agent]]
 

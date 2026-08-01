@@ -16,7 +16,6 @@ last_trending: 2026-08-01
 peak_rank: 2
 total_stars: 14593
 language: "Rust"
-contested: true
 ---
 
 # 1jehuang/jcode
@@ -39,15 +38,5 @@ The most RAM efficient harness
 
 ## 相关项目
 
-[[pumpkin-mc-pumpkin]] [[block-buzz]] [[agavra-tuicr]]
-
-
-## ⚠️ 描述变更（2026-07-30）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: The most intelligent agent harness for code
-- **新描述**: The most RAM efficient harness
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
+[[agavra-tuicr]] [[pumpkin-mc-pumpkin]] [[block-buzz]]
 

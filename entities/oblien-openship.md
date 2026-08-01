@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[usekaneo-kaneo]] [[ansible-ansible]] [[apache-cassandra]] [[pascalorg-editor]] [[different-ai-openwork]]
+[[koala73-worldmonitor]] [[ansible-ansible]] [[usekaneo-kaneo]] [[ruvnet-ruview]] [[different-ai-openwork]]
 
 **所属领域**: [[devops]]
 

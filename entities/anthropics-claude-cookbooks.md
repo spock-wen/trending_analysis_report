@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[github-copilot-sdk]] [[lyogavin-airllm]] [[lordog-dive-into-llms]] [[microsoft-ai-for-beginners]]
+[[microsoft-ai-for-beginners]] [[ansible-ansible]] [[github-copilot-sdk]] [[lordog-dive-into-llms]] [[bytedance-deer-flow]]
 
 **所属领域**: [[ai-agent]]
 

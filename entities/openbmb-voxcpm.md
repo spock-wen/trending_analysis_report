@@ -38,7 +38,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[huggingface-speech-to-speech]] [[jamiepine-voicebox]] [[moeru-ai-airi]] [[deepfakes-faceswap]] [[mvanhorn-last30days-skill]]
+[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[jamiepine-voicebox]] [[microsoft-vibevoice]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

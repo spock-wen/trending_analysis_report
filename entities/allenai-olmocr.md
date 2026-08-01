@@ -34,7 +34,7 @@ Toolkit for linearizing PDFs for LLM datasets/training
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[alibaba-open-code-review]] [[opengeos-geolibre]] [[deepfakes-faceswap]]
+[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[chatwoot-chatwoot]] [[apache-cassandra]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[huggingface-speech-to-speech]] [[chatwoot-chatwoot]] [[prisma-prisma]] [[microsoft-ai-for-beginners]] [[jamiepine-voicebox]]
+[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[chatwoot-chatwoot]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

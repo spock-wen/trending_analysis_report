@@ -36,5 +36,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[usekaneo-kaneo]] [[pascalorg-editor]] [[different-ai-openwork]] [[chromedevtools-chrome-devtools-mcp]]
+[[different-ai-openwork]] [[usekaneo-kaneo]] [[chromedevtools-chrome-devtools-mcp]] [[pascalorg-editor]]
 

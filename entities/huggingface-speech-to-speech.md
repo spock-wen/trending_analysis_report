@@ -36,7 +36,7 @@ Build local voice agents with open-source models
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[jamiepine-voicebox]] [[microsoft-ai-for-beginners]] [[moeru-ai-airi]] [[deepfakes-faceswap]]
+[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[chatwoot-chatwoot]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

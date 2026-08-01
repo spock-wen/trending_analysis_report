@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[pascalorg-editor]] [[obra-superpowers]] [[usekaneo-kaneo]] [[chromedevtools-chrome-devtools-mcp]] [[openinterpreter-openinterpreter]]
+[[usekaneo-kaneo]] [[obra-superpowers]] [[pascalorg-editor]] [[different-ai-openwork]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[erp]]
 

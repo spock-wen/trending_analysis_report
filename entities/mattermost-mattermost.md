@@ -35,5 +35,5 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## 相关项目
 
-[[usekaneo-kaneo]] [[pascalorg-editor]] [[different-ai-openwork]] [[chromedevtools-chrome-devtools-mcp]]
+[[different-ai-openwork]] [[usekaneo-kaneo]] [[chromedevtools-chrome-devtools-mcp]] [[pascalorg-editor]]
 

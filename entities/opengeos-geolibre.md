@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[pascalorg-editor]] [[geo-tp-esp32-bit-pirate]] [[alibaba-open-code-review]] [[usekaneo-kaneo]] [[chromedevtools-chrome-devtools-mcp]]
+[[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]] [[apache-cassandra]] [[pascalorg-editor]] [[different-ai-openwork]]
 
 **所属领域**: [[web]] [[data]]
 

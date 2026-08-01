@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[pascalorg-editor]] [[geo-tp-esp32-bit-pirate]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[usekaneo-kaneo]]
+[[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]] [[pascalorg-editor]]
 
 **所属领域**: [[cli]]
 

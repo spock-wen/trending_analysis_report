@@ -37,7 +37,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[deepfakes-faceswap]] [[rohitg00-ai-engineering-from-scratch]]
+[[deepfakes-faceswap]] [[rohitg00-ai-engineering-from-scratch]] [[ansible-ansible]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[education]] [[science]]
 

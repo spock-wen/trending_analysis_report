@@ -35,7 +35,7 @@ A skill for your coding agent to stop it from burying the answer. ADHD-friendly 
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[deepfakes-faceswap]] [[mvanhorn-last30days-skill]] [[paperswithbacktest-awesome-systematic-trading]]
+[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[chatwoot-chatwoot]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[pascalorg-editor]] [[microsoft-ai-for-beginners]] [[usekaneo-kaneo]] [[ruvnet-ruview]]
+[[usekaneo-kaneo]] [[chatwoot-chatwoot]] [[ansible-ansible]] [[apache-cassandra]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

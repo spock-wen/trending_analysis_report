@@ -36,7 +36,7 @@ The open-source alternative to Claude Cowork (powered by opencode)
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[pascalorg-editor]] [[microsoft-ai-for-beginners]] [[usekaneo-kaneo]] [[chromedevtools-chrome-devtools-mcp]]
+[[usekaneo-kaneo]] [[chatwoot-chatwoot]] [[pascalorg-editor]] [[github-copilot-sdk]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]]
 

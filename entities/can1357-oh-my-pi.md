@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[pascalorg-editor]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[zhaoxuya520-reverse-skill]]
+[[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]] [[chatwoot-chatwoot]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

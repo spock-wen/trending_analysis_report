@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[yairm210-unciv]] [[chromedevtools-chrome-devtools-mcp]] [[andreknieriem-headunit-revived]] [[mvanhorn-last30days-skill]]
+[[geo-tp-esp32-bit-pirate]] [[andreknieriem-headunit-revived]] [[yairm210-unciv]] [[chromedevtools-chrome-devtools-mcp]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[web]]
 

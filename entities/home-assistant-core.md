@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[automattic-harper]] [[affaan-m-ecc]] [[deepfakes-faceswap]] [[mvanhorn-last30days-skill]]
+[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[affaan-m-ecc]] [[amnezia-vpn-amnezia-client]]
 
 **所属领域**: [[security]]
 

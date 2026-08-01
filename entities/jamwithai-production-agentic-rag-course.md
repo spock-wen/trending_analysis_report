@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[deepfakes-faceswap]] [[rohitg00-ai-engineering-from-scratch]] [[mvanhorn-last30days-skill]]
+[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[chatwoot-chatwoot]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

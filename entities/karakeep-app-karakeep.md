@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[prisma-prisma]] [[pascalorg-editor]] [[microsoft-ai-for-beginners]] [[usekaneo-kaneo]]
+[[usekaneo-kaneo]] [[chatwoot-chatwoot]] [[ahmadibrahiim-website-downloader]] [[pascalorg-editor]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

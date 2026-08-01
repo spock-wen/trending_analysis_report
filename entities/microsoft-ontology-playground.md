@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[pascalorg-editor]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]] [[chromedevtools-chrome-devtools-mcp]]
+[[rohitg00-ai-engineering-from-scratch]] [[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]] [[paperswithbacktest-awesome-systematic-trading]] [[pascalorg-editor]]
 
 **所属领域**: [[web]] [[education]]
 

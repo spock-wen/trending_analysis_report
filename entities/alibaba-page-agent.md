@@ -36,7 +36,7 @@ JavaScript in-page GUI agent. Control web interfaces with natural language.
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[pascalorg-editor]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]]
+[[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]] [[chatwoot-chatwoot]] [[pascalorg-editor]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[k1tbyte-wand-enhancer]] [[par274-sharpemu]] [[mvanhorn-last30days-skill]]
+[[chatwoot-chatwoot]] [[k1tbyte-wand-enhancer]] [[par274-sharpemu]] [[github-copilot-sdk]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

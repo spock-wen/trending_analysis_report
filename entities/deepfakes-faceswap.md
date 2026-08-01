@@ -35,5 +35,5 @@ Deepfakes Software For All
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]]
+[[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[mvanhorn-last30days-skill]]
 

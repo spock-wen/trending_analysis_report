@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[huggingface-speech-to-speech]] [[chatwoot-chatwoot]] [[jamiepine-voicebox]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]]
+[[geo-tp-esp32-bit-pirate]] [[chatwoot-chatwoot]] [[huggingface-speech-to-speech]] [[jamiepine-voicebox]] [[amnezia-vpn-amnezia-client]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

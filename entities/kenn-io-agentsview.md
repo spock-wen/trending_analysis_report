@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[alibaba-open-code-review]] [[chenyme-grok2api]] [[opengeos-geolibre]]
+[[chatwoot-chatwoot]] [[schollz-croc]] [[apache-cassandra]] [[github-copilot-sdk]] [[opengeos-geolibre]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

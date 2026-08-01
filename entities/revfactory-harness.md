@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[hasaneyldrm-exercises-dataset]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[ossu-computer-science]]
+[[geo-tp-esp32-bit-pirate]] [[chatwoot-chatwoot]] [[pkuflyingpig-cs-self-learning]] [[hasaneyldrm-exercises-dataset]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

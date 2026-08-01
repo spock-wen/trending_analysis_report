@@ -36,7 +36,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[agavra-tuicr]] [[1jehuang-jcode]] [[pumpkin-mc-pumpkin]]
+[[pumpkin-mc-pumpkin]] [[chatwoot-chatwoot]] [[1jehuang-jcode]] [[block-buzz]] [[agavra-tuicr]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[palmier-io-palmier-pro]] [[permissionlesstech-bitchat]] [[microsoft-ai-for-beginners]] [[altic-dev-fluidvoice]]
+[[chatwoot-chatwoot]] [[github-copilot-sdk]] [[microsoft-ai-for-beginners]] [[permissionlesstech-bitchat]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]]
 

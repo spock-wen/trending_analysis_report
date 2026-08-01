@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[alibaba-open-code-review]] [[chenyme-grok2api]] [[ruvnet-ruview]]
+[[chatwoot-chatwoot]] [[ansible-ansible]] [[schollz-croc]] [[apache-cassandra]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

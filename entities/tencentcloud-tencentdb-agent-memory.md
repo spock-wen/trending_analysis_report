@@ -35,7 +35,7 @@ TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[pascalorg-editor]] [[microsoft-ai-for-beginners]] [[alibaba-open-code-review]] [[usekaneo-kaneo]]
+[[usekaneo-kaneo]] [[chatwoot-chatwoot]] [[apache-cassandra]] [[pascalorg-editor]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

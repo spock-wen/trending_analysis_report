@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[whiskeysockets-baileys]] [[chatwoot-chatwoot]] [[citrolabs-ego-lite]] [[microsoft-ai-for-beginners]] [[zhaoxuya520-reverse-skill]]
+[[paperswithbacktest-awesome-systematic-trading]] [[chatwoot-chatwoot]] [[citrolabs-ego-lite]] [[amnezia-vpn-amnezia-client]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

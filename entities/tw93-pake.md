@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[agavra-tuicr]] [[1jehuang-jcode]]
+[[pumpkin-mc-pumpkin]] [[geo-tp-esp32-bit-pirate]] [[1jehuang-jcode]] [[obra-superpowers]] [[block-buzz]]
 
 **所属领域**: [[web]] [[cli]]
 

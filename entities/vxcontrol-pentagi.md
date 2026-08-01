@@ -34,7 +34,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[alibaba-open-code-review]] [[chenyme-grok2api]] [[mvanhorn-last30days-skill]]
+[[chatwoot-chatwoot]] [[schollz-croc]] [[github-copilot-sdk]] [[microsoft-ai-for-beginners]] [[yorukot-superfile]]
 
 **所属领域**: [[ai-agent]]
 

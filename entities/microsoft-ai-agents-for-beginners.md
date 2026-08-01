@@ -36,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[lordog-dive-into-llms]] [[lyogavin-airllm]] [[rohitg00-ai-engineering-from-scratch]]
+[[rohitg00-ai-engineering-from-scratch]] [[paperswithbacktest-awesome-systematic-trading]] [[chatwoot-chatwoot]] [[github-copilot-sdk]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

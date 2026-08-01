@@ -39,7 +39,7 @@ The most RAM efficient harness
 
 ## 相关项目
 
-[[agavra-tuicr]] [[pumpkin-mc-pumpkin]] [[block-buzz]]
+[[pumpkin-mc-pumpkin]] [[block-buzz]] [[agavra-tuicr]]
 
 
 ## ⚠️ 描述变更（2026-07-30）

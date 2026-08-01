@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[ossu-computer-science]] [[chromedevtools-chrome-devtools-mcp]]
+[[rohitg00-ai-engineering-from-scratch]] [[geo-tp-esp32-bit-pirate]] [[paperswithbacktest-awesome-systematic-trading]] [[hasaneyldrm-exercises-dataset]] [[microsoft-ontology-playground]]
 
 **所属领域**: [[web]] [[education]]
 

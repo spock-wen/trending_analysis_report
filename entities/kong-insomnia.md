@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[pascalorg-editor]] [[geo-tp-esp32-bit-pirate]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[usekaneo-kaneo]]
+[[geo-tp-esp32-bit-pirate]] [[usekaneo-kaneo]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]] [[pascalorg-editor]]
 
 **所属领域**: [[web]] [[cli]]
 

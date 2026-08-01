@@ -34,5 +34,5 @@ Free and Open Source, Distributed, RESTful Search Engine
 
 ## 相关项目
 
-[[jenkinsci-jenkins]] [[ottermind-chat2db]] [[apache-cassandra]] [[github-copilot-sdk]]
+[[apache-cassandra]] [[ottermind-chat2db]] [[github-copilot-sdk]] [[jenkinsci-jenkins]]
 

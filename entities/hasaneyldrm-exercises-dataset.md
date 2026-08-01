@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[ossu-computer-science]] [[alibaba-open-code-review]]
+[[geo-tp-esp32-bit-pirate]] [[chatwoot-chatwoot]] [[pkuflyingpig-cs-self-learning]] [[apache-cassandra]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

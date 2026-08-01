@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[permissionlesstech-bitchat]] [[microsoft-ai-for-beginners]] [[altic-dev-fluidvoice]] [[mvanhorn-last30days-skill]]
+[[steipete-codexbar]] [[chatwoot-chatwoot]] [[github-copilot-sdk]] [[microsoft-ai-for-beginners]] [[permissionlesstech-bitchat]]
 
 **所属领域**: [[ai-agent]]
 

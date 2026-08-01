@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[pascalorg-editor]] [[microsoft-ai-for-beginners]] [[zhaoxuya520-reverse-skill]] [[usekaneo-kaneo]]
+[[affaan-m-ecc]] [[paperswithbacktest-awesome-systematic-trading]] [[usekaneo-kaneo]] [[chatwoot-chatwoot]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

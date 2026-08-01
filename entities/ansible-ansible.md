@@ -36,7 +36,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[ruvnet-ruview]] [[deepfakes-faceswap]]
+[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[chatwoot-chatwoot]] [[geo-tp-esp32-bit-pirate]] [[apache-cassandra]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

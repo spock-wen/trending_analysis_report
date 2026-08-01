@@ -37,7 +37,7 @@ Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture cod
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[chenyme-grok2api]] [[opengeos-geolibre]] [[mvanhorn-last30days-skill]]
+[[chatwoot-chatwoot]] [[schollz-croc]] [[apache-cassandra]] [[github-copilot-sdk]] [[opengeos-geolibre]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

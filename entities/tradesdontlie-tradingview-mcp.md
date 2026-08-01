@@ -34,7 +34,7 @@ AI-assisted TradingView chart analysis — connect Claude Code to your TradingVi
 
 ## 相关项目
 
-[[whiskeysockets-baileys]] [[chatwoot-chatwoot]] [[citrolabs-ego-lite]] [[microsoft-ai-for-beginners]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[chatwoot-chatwoot]] [[citrolabs-ego-lite]] [[github-copilot-sdk]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

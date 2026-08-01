@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[anthropics-cwc-workshops]] [[pascalorg-editor]] [[obra-superpowers]] [[usekaneo-kaneo]] [[chromedevtools-chrome-devtools-mcp]]
+[[usekaneo-kaneo]] [[obra-superpowers]] [[pascalorg-editor]] [[anthropics-cwc-workshops]] [[different-ai-openwork]]
 
 **所属领域**: [[erp]]
 

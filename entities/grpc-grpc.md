@@ -34,5 +34,5 @@ C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 
 ## 相关项目
 
-[[amnezia-vpn-amnezia-client]] [[hyprwm-hyprland]] [[geo-tp-esp32-bit-pirate]] [[ocornut-imgui]]
+[[geo-tp-esp32-bit-pirate]] [[amnezia-vpn-amnezia-client]] [[hyprwm-hyprland]] [[ocornut-imgui]]
 

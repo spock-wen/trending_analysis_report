@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[whiskeysockets-baileys]] [[pbakaus-impeccable]] [[citrolabs-ego-lite]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[whiskeysockets-baileys]] [[citrolabs-ego-lite]] [[pbakaus-impeccable]]
 

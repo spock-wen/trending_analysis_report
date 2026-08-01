@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[mvanhorn-last30days-skill]] [[microsoft-ai-for-beginners]] [[github-copilot-sdk]]
+[[microsoft-ai-for-beginners]] [[chatwoot-chatwoot]] [[github-copilot-sdk]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

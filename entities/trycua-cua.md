@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[hasaneyldrm-exercises-dataset]] [[microsoft-ai-for-beginners]] [[prisma-prisma]] [[geo-tp-esp32-bit-pirate]]
+[[geo-tp-esp32-bit-pirate]] [[chatwoot-chatwoot]] [[pkuflyingpig-cs-self-learning]] [[hasaneyldrm-exercises-dataset]] [[apache-cassandra]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

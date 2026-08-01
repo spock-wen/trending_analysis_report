@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[prisma-prisma]] [[microsoft-ai-for-beginners]] [[deepfakes-faceswap]] [[mvanhorn-last30days-skill]]
+[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[chatwoot-chatwoot]] [[ahmadibrahiim-website-downloader]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

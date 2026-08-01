@@ -38,7 +38,7 @@ Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[pascalorg-editor]] [[microsoft-ai-for-beginners]] [[usekaneo-kaneo]] [[chromedevtools-chrome-devtools-mcp]]
+[[usekaneo-kaneo]] [[chatwoot-chatwoot]] [[pascalorg-editor]] [[github-copilot-sdk]] [[different-ai-openwork]]
 
 **所属领域**: [[ai-agent]]
 

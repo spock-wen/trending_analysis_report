@@ -35,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[k1tbyte-wand-enhancer]] [[par274-sharpemu]]
+[[geo-tp-esp32-bit-pirate]] [[k1tbyte-wand-enhancer]] [[obra-superpowers]] [[par274-sharpemu]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[cli]]
 

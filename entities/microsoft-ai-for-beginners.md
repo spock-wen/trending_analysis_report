@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[lordog-dive-into-llms]] [[lyogavin-airllm]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-cookbooks]]
+[[rohitg00-ai-engineering-from-scratch]] [[paperswithbacktest-awesome-systematic-trading]] [[chatwoot-chatwoot]] [[github-copilot-sdk]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

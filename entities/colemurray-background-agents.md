@@ -34,7 +34,7 @@ An open-source background agents coding system
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[pascalorg-editor]] [[microsoft-ai-for-beginners]] [[usekaneo-kaneo]] [[chromedevtools-chrome-devtools-mcp]]
+[[usekaneo-kaneo]] [[chatwoot-chatwoot]] [[pascalorg-editor]] [[github-copilot-sdk]] [[different-ai-openwork]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[zhaoxuya520-reverse-skill]] [[automattic-harper]] [[affaan-m-ecc]]
+[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[chatwoot-chatwoot]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

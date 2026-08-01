@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[chromedevtools-chrome-devtools-mcp]] [[rohitg00-ai-engineering-from-scratch]]
+[[rohitg00-ai-engineering-from-scratch]] [[geo-tp-esp32-bit-pirate]] [[chatwoot-chatwoot]] [[paperswithbacktest-awesome-systematic-trading]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

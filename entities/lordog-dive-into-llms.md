@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[anthropics-claude-cookbooks]] [[mvanhorn-last30days-skill]]
+[[chatwoot-chatwoot]] [[github-copilot-sdk]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[anthropics-claude-cookbooks]]
 
 **所属领域**: [[ai-agent]]
 

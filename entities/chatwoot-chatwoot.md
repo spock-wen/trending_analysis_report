@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[docusealco-docuseal]] [[mvanhorn-last30days-skill]] [[microsoft-ai-for-beginners]] [[github-copilot-sdk]]
+[[docusealco-docuseal]] [[microsoft-ai-for-beginners]] [[github-copilot-sdk]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

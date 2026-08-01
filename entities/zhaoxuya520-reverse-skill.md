@@ -34,7 +34,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[obra-superpowers]] [[automattic-harper]]
+[[affaan-m-ecc]] [[geo-tp-esp32-bit-pirate]] [[chatwoot-chatwoot]] [[paperswithbacktest-awesome-systematic-trading]] [[amnezia-vpn-amnezia-client]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

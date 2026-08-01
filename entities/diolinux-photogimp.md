@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[anthropics-cwc-workshops]] [[geo-tp-esp32-bit-pirate]] [[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]] [[nutlope-hallmark]]
+[[geo-tp-esp32-bit-pirate]] [[obra-superpowers]] [[nutlope-hallmark]] [[anthropics-cwc-workshops]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]] [[erp]]
 

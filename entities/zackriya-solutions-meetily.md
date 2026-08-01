@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[zhaoxuya520-reverse-skill]] [[geo-tp-esp32-bit-pirate]] [[opengeos-geolibre]] [[affaan-m-ecc]]
+[[chatwoot-chatwoot]] [[alibaba-open-code-review]] [[affaan-m-ecc]] [[agavra-tuicr]] [[opengeos-geolibre]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

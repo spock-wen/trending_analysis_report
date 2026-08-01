@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[anthropics-cwc-workshops]] [[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[zhaoxuya520-reverse-skill]]
+[[mattpocock-skills]] [[geo-tp-esp32-bit-pirate]] [[chatwoot-chatwoot]] [[zhaoxuya520-reverse-skill]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

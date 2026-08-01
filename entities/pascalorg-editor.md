@@ -37,5 +37,5 @@ Create and share 3D architectural projects.
 
 ## 相关项目
 
-[[usekaneo-kaneo]] [[chromedevtools-chrome-devtools-mcp]] [[different-ai-openwork]]
+[[different-ai-openwork]] [[usekaneo-kaneo]] [[chromedevtools-chrome-devtools-mcp]]
 

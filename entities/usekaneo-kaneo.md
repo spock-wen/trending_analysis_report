@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[pascalorg-editor]] [[microsoft-ai-for-beginners]] [[chromedevtools-chrome-devtools-mcp]] [[mvanhorn-last30days-skill]]
+[[chatwoot-chatwoot]] [[pascalorg-editor]] [[github-copilot-sdk]] [[different-ai-openwork]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[geo-tp-esp32-bit-pirate]] [[ossu-computer-science]] [[pkuflyingpig-cs-self-learning]] [[chromedevtools-chrome-devtools-mcp]]
+[[geo-tp-esp32-bit-pirate]] [[pkuflyingpig-cs-self-learning]] [[hasaneyldrm-exercises-dataset]] [[graphify-labs-graphify]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]] [[image-gen]]
 

@@ -38,7 +38,7 @@ Collection of publicly available IPTV channels from all over the world
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[pascalorg-editor]] [[microsoft-ai-for-beginners]] [[usekaneo-kaneo]] [[chromedevtools-chrome-devtools-mcp]]
+[[usekaneo-kaneo]] [[chatwoot-chatwoot]] [[pascalorg-editor]] [[github-copilot-sdk]] [[different-ai-openwork]]
 
 **所属领域**: [[ai-agent]]
 

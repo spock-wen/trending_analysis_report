@@ -34,5 +34,5 @@ Headunit App for displaying Android Auto
 
 ## 相关项目
 
-[[pppscn-smsforwarder]] [[yairm210-unciv]] [[bannedbook-fanqiang]]
+[[yairm210-unciv]] [[pppscn-smsforwarder]] [[bannedbook-fanqiang]]
 

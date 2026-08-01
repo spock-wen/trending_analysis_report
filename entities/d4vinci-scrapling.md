@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[deepfakes-faceswap]] [[chromedevtools-chrome-devtools-mcp]] [[mvanhorn-last30days-skill]] [[dotnet-aspnetcore]]
+[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[geo-tp-esp32-bit-pirate]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]]
 

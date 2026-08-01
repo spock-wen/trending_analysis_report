@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[alibaba-open-code-review]] [[zhaoxuya520-reverse-skill]] [[chenyme-grok2api]]
+[[affaan-m-ecc]] [[chatwoot-chatwoot]] [[amnezia-vpn-amnezia-client]] [[schollz-croc]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

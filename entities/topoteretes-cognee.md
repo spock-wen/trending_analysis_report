@@ -36,7 +36,7 @@ Cognee is the open-source AI memory platform for agents. Give your AI agents per
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[deepfakes-faceswap]] [[mvanhorn-last30days-skill]] [[paperswithbacktest-awesome-systematic-trading]]
+[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[chatwoot-chatwoot]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]]
 

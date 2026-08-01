@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[alibaba-open-code-review]] [[zhaoxuya520-reverse-skill]] [[amnezia-vpn-amnezia-client]] [[opengeos-geolibre]]
+[[affaan-m-ecc]] [[geo-tp-esp32-bit-pirate]] [[amnezia-vpn-amnezia-client]] [[apache-cassandra]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

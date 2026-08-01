@@ -34,7 +34,7 @@ Langflow is a powerful tool for building and deploying AI-powered agents and wor
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[microsoft-ai-for-beginners]] [[ruvnet-ruview]] [[deepfakes-faceswap]] [[koala73-worldmonitor]]
+[[deepfakes-faceswap]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[chatwoot-chatwoot]] [[apache-cassandra]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

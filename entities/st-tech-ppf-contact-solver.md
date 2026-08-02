@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[geo-tp-esp32-bit-pirate]] [[ansible-ansible]] [[bytedance-deer-flow]]
+[[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[zhaoxuya520-reverse-skill]] [[panniantong-agent-reach]] [[bytedance-deer-flow]]
 
 **所属领域**: [[cli]]
 

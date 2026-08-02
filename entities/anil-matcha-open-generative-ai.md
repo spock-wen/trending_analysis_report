@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[microsoft-ai-for-beginners]] [[trycua-cua]] [[ansible-ansible]] [[github-copilot-sdk]]
+[[mvanhorn-last30days-skill]] [[ahmadibrahiim-website-downloader]] [[graphify-labs-graphify]] [[nomadamas-k-skill]] [[whiskeysockets-baileys]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

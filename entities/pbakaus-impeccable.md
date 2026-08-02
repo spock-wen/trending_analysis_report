@@ -35,7 +35,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[ansible-ansible]] [[github-copilot-sdk]] [[bytedance-deer-flow]] [[whiskeysockets-baileys]]
+[[mvanhorn-last30days-skill]] [[nomadamas-k-skill]] [[whiskeysockets-baileys]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

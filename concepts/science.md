@@ -1,7 +1,7 @@
 ---
 title: "science"
 created: 2026-05-26
-updated: 2026-08-02
+updated: 2026-08-03
 type: concept
 tags: [science]
 confidence: medium
@@ -9,9 +9,9 @@ confidence: medium
 
 # science
 
-## 领域项目（共 21 个，今日上榜 3 个）
+## 领域项目（共 21 个，今日上榜 2 个）
 
-[[bytedance-deer-flow]] [[paperswithbacktest-awesome-systematic-trading]] [[zhaoxuya520-reverse-skill]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[knockoutez-wigolo]] [[henryndubuaku-maths-cs-ai-compendium]] [[graphify-labs-graphify]] [[alirezarezvani-claude-skills]] [[safishamsi-graphify]] [[xbtlin-ai-berkshire]] [[nousresearch-hermes-agent]] [[google-research-timesfm]] [[owainlewis-awesome-artificial-intelligence]] [[aishwaryanr-awesome-generative-ai-guide]] [[tauricresearch-tradingagents]] [[galilai-group-stable-worldmodel]] [[fincept-corporation-finceptterminal]] [[paperless-ngx-paperless-ngx]] [[imbad0202-academic-research-skills]] [[k-dense-ai-scientific-agent-skills]]
+[[mvanhorn-last30days-skill]] [[zhaoxuya520-reverse-skill]] [[bytedance-deer-flow]] [[paperswithbacktest-awesome-systematic-trading]] [[affaan-m-ecc]] [[knockoutez-wigolo]] [[henryndubuaku-maths-cs-ai-compendium]] [[graphify-labs-graphify]] [[alirezarezvani-claude-skills]] [[safishamsi-graphify]] [[xbtlin-ai-berkshire]] [[nousresearch-hermes-agent]] [[google-research-timesfm]] [[owainlewis-awesome-artificial-intelligence]] [[aishwaryanr-awesome-generative-ai-guide]] [[tauricresearch-tradingagents]] [[galilai-group-stable-worldmodel]] [[fincept-corporation-finceptterminal]] [[paperless-ngx-paperless-ngx]] [[imbad0202-academic-research-skills]] [[k-dense-ai-scientific-agent-skills]]
 
 ## 语言分布
 
@@ -19,5 +19,5 @@ Python 15个, TypeScript 2个, PowerShell 1个, JavaScript 1个, ? 1个, HTML 1�
 
 ## 趋势观察
 
-21 个 science 领域项目被追踪，其中 3 个今日同时上榜，反映该领域持续活跃。
+21 个 science 领域项目被追踪，其中 2 个今日同时上榜，反映该领域持续活跃。
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[ansible-ansible]] [[hasaneyldrm-exercises-dataset]]
+[[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[trycua-cua]] [[hasaneyldrm-exercises-dataset]] [[ansible-ansible]]
 
 **所属领域**: [[web]]
 

@@ -34,7 +34,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[koala73-worldmonitor]] [[usekaneo-kaneo]] [[ansible-ansible]] [[ruvnet-ruview]]
+[[tencentcloud-tencentdb-agent-memory]] [[mvanhorn-last30days-skill]] [[ruvnet-ruview]] [[lyogavin-airllm]] [[different-ai-openwork]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

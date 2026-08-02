@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[paperswithbacktest-awesome-systematic-trading]] [[mvanhorn-last30days-skill]] [[ansible-ansible]] [[github-copilot-sdk]]
+[[mvanhorn-last30days-skill]] [[paperswithbacktest-awesome-systematic-trading]] [[rohitg00-ai-engineering-from-scratch]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

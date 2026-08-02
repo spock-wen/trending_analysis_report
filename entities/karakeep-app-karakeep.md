@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[trycua-cua]] [[usekaneo-kaneo]] [[ansible-ansible]] [[github-copilot-sdk]]
+[[tencentcloud-tencentdb-agent-memory]] [[mvanhorn-last30days-skill]] [[ahmadibrahiim-website-downloader]] [[graphify-labs-graphify]] [[prisma-prisma]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

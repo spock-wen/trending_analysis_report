@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[geo-tp-esp32-bit-pirate]] [[mattpocock-skills]] [[ansible-ansible]] [[github-copilot-sdk]]
+[[mvanhorn-last30days-skill]] [[prismml-eng-bonsai-demo]] [[geo-tp-esp32-bit-pirate]] [[obra-superpowers]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

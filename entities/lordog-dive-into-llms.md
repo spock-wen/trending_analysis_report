@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[ansible-ansible]] [[anthropics-claude-cookbooks]] [[github-copilot-sdk]] [[bytedance-deer-flow]]
+[[mvanhorn-last30days-skill]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]]
 

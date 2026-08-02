@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[permissionlesstech-bitchat]] [[ansible-ansible]] [[steipete-codexbar]] [[github-copilot-sdk]]
+[[mvanhorn-last30days-skill]] [[altic-dev-fluidvoice]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]]
 

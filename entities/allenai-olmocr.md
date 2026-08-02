@@ -34,7 +34,7 @@ Toolkit for linearizing PDFs for LLM datasets/training
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[opengeos-geolibre]]
+[[mvanhorn-last30days-skill]] [[alibaba-open-code-review]] [[lyogavin-airllm]] [[opengeos-geolibre]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

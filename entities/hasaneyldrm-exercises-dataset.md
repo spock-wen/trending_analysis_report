@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[pkuflyingpig-cs-self-learning]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[ossu-computer-science]]
+[[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[alibaba-open-code-review]] [[lyogavin-airllm]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

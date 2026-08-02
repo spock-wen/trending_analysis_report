@@ -1,7 +1,7 @@
 ---
 title: "web"
 created: 2026-05-20
-updated: 2026-08-02
+updated: 2026-08-03
 type: concept
 tags: [web]
 confidence: medium
@@ -9,9 +9,9 @@ confidence: medium
 
 # web
 
-## 领域项目（共 60 个，今日上榜 2 个）
+## 领域项目（共 60 个，今日上榜 1 个）
 
-[[ansible-ansible]] [[abus-aikorea-voice-pro]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[chromedevtools-chrome-devtools-mcp]] [[dotnet-aspnetcore]] [[whiskeysockets-baileys]] [[moeru-ai-airi]] [[opengeos-geolibre]] [[corebunch-instatic]] [[citrolabs-ego-lite]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[knockoutez-wigolo]] [[microsoft-ontology-playground]] [[msitarzewski-agency-agents]] [[tokio-rs-topcoat]] [[trycua-cua]] [[posthog-posthog]] [[pkuflyingpig-cs-self-learning]] [[nutlope-hallmark]] [[hkuds-deeptutor]] [[hasaneyldrm-exercises-dataset]] [[ossu-computer-science]] [[chenyme-grok2api]] [[cypress-io-cypress]] [[dayuanjiang-next-ai-draw-io]] [[unclecode-crawl4ai]] [[diolinux-photogimp]] [[zackriya-solutions-meetily]] [[ahmadibrahiim-website-downloader]] [[firecrawl-firecrawl]] [[alibaba-page-agent]] [[supabase-supabase]] [[browser-use-video-use]] [[ripienaar-free-for-dev]] [[jcodesmore-ai-website-cloner-template]] [[shanraisshan-claude-code-best-practice]] [[revfactory-harness]] [[heygen-com-hyperframes]] [[tw93-pake]] [[kong-insomnia]] [[pppscn-smsforwarder]] [[aishwaryanr-awesome-generative-ai-guide]] [[swc-project-swc]] [[puppeteer-puppeteer]] [[mikeroyal-self-hosting-guide]] [[copilotkit-copilotkit]] [[d4vinci-scrapling]] [[nesquena-hermes-webui]] [[can1357-oh-my-pi]] [[digitalplatdev-freedomain]] [[earendil-works-pi]] [[trimstray-the-book-of-secret-knowledge]] [[hkuds-cli-anything]] [[teng-lin-notebooklm-py]] [[alireza0-s-ui]] [[cloakhq-cloakbrowser]] [[plausible-analytics]] [[keygraphhq-shannon]]
+[[mvanhorn-last30days-skill]] [[ansible-ansible]] [[abus-aikorea-voice-pro]] [[geo-tp-esp32-bit-pirate]] [[chromedevtools-chrome-devtools-mcp]] [[dotnet-aspnetcore]] [[whiskeysockets-baileys]] [[moeru-ai-airi]] [[opengeos-geolibre]] [[corebunch-instatic]] [[citrolabs-ego-lite]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[knockoutez-wigolo]] [[microsoft-ontology-playground]] [[msitarzewski-agency-agents]] [[tokio-rs-topcoat]] [[trycua-cua]] [[posthog-posthog]] [[pkuflyingpig-cs-self-learning]] [[nutlope-hallmark]] [[hkuds-deeptutor]] [[hasaneyldrm-exercises-dataset]] [[ossu-computer-science]] [[chenyme-grok2api]] [[cypress-io-cypress]] [[dayuanjiang-next-ai-draw-io]] [[unclecode-crawl4ai]] [[diolinux-photogimp]] [[zackriya-solutions-meetily]] [[ahmadibrahiim-website-downloader]] [[firecrawl-firecrawl]] [[alibaba-page-agent]] [[supabase-supabase]] [[browser-use-video-use]] [[ripienaar-free-for-dev]] [[jcodesmore-ai-website-cloner-template]] [[shanraisshan-claude-code-best-practice]] [[revfactory-harness]] [[heygen-com-hyperframes]] [[tw93-pake]] [[kong-insomnia]] [[pppscn-smsforwarder]] [[aishwaryanr-awesome-generative-ai-guide]] [[swc-project-swc]] [[puppeteer-puppeteer]] [[mikeroyal-self-hosting-guide]] [[copilotkit-copilotkit]] [[d4vinci-scrapling]] [[nesquena-hermes-webui]] [[can1357-oh-my-pi]] [[digitalplatdev-freedomain]] [[earendil-works-pi]] [[trimstray-the-book-of-secret-knowledge]] [[hkuds-cli-anything]] [[teng-lin-notebooklm-py]] [[alireza0-s-ui]] [[cloakhq-cloakbrowser]] [[plausible-analytics]] [[keygraphhq-shannon]]
 
 ## 语言分布
 
@@ -19,5 +19,5 @@ TypeScript 20个, Python 12个, HTML 10个, Rust 5个, JavaScript 2个, CSS 2个
 
 ## 趋势观察
 
-60 个 web 领域项目被追踪，其中 2 个今日同时上榜，反映该领域持续活跃。
+60 个 web 领域项目被追踪，其中 1 个今日同时上榜，反映该领域持续活跃。
 

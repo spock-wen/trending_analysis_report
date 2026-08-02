@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[paperswithbacktest-awesome-systematic-trading]] [[mvanhorn-last30days-skill]] [[usekaneo-kaneo]] [[ansible-ansible]]
+[[tencentcloud-tencentdb-agent-memory]] [[mvanhorn-last30days-skill]] [[paperswithbacktest-awesome-systematic-trading]] [[lyogavin-airllm]] [[different-ai-openwork]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

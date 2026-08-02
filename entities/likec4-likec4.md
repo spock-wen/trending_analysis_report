@@ -36,5 +36,5 @@ Visualize, collaborate, and evolve the software architecture with always actual 
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[pascalorg-editor]] [[different-ai-openwork]] [[usekaneo-kaneo]]
+[[tencentcloud-tencentdb-agent-memory]] [[different-ai-openwork]] [[usekaneo-kaneo]] [[pascalorg-editor]]
 

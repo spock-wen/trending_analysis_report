@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]] [[opengeos-geolibre]] [[alibaba-open-code-review]]
+[[mvanhorn-last30days-skill]] [[alibaba-open-code-review]] [[opengeos-geolibre]] [[panniantong-agent-reach]] [[bytedance-deer-flow]]
 
 **所属领域**: [[data]]
 

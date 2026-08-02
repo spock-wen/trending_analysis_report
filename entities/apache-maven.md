@@ -34,5 +34,5 @@ Apache Maven core
 
 ## 相关项目
 
-[[ottermind-chat2db]] [[jenkinsci-jenkins]] [[github-copilot-sdk]] [[apache-cassandra]]
+[[github-copilot-sdk]] [[jenkinsci-jenkins]] [[ottermind-chat2db]] [[apache-cassandra]]
 

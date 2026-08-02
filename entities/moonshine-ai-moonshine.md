@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[huggingface-speech-to-speech]] [[geo-tp-esp32-bit-pirate]] [[ansible-ansible]] [[github-copilot-sdk]]
+[[moeru-ai-airi]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[amnezia-vpn-amnezia-client]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

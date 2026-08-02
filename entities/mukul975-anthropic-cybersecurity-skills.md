@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[geo-tp-esp32-bit-pirate]] [[automattic-harper]]
+[[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

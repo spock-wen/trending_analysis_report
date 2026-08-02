@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[schollz-croc]] [[koala73-worldmonitor]] [[github-gh-stack]] [[ansible-ansible]] [[ruvnet-ruview]]
+[[ruvnet-ruview]] [[alibaba-open-code-review]] [[ansible-ansible]] [[yorukot-superfile]] [[github-gh-stack]]
 
 **所属领域**: [[devops]]
 

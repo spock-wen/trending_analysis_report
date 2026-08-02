@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[yairm210-unciv]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[ansible-ansible]] [[abus-aikorea-voice-pro]]
+[[bannedbook-fanqiang]] [[mvanhorn-last30days-skill]] [[andreknieriem-headunit-revived]] [[geo-tp-esp32-bit-pirate]] [[ansible-ansible]]
 
 **所属领域**: [[web]]
 

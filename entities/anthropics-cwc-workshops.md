@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[openinterpreter-openinterpreter]] [[usekaneo-kaneo]] [[zeux-meshoptimizer]] [[different-ai-openwork]] [[tencentcloud-tencentdb-agent-memory]]
+[[tencentcloud-tencentdb-agent-memory]] [[obra-superpowers]] [[different-ai-openwork]] [[openinterpreter-openinterpreter]] [[usekaneo-kaneo]]
 
 **所属领域**: [[erp]]
 

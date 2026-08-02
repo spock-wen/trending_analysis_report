@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[openinterpreter-openinterpreter]] [[geo-tp-esp32-bit-pirate]] [[mvanhorn-last30days-skill]] [[anthropics-cwc-workshops]] [[ansible-ansible]]
+[[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[obra-superpowers]] [[openinterpreter-openinterpreter]] [[anthropics-cwc-workshops]]
 
 **所属领域**: [[web]] [[erp]]
 

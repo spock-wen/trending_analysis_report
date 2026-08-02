@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[automattic-harper]] [[ansible-ansible]] [[bytedance-deer-flow]]
+[[mvanhorn-last30days-skill]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[zhaoxuya520-reverse-skill]] [[panniantong-agent-reach]]
 
 **所属领域**: [[security]]
 

@@ -34,7 +34,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[microsoft-ai-for-beginners]] [[github-copilot-sdk]] [[ansible-ansible]]
+[[panniantong-agent-reach]] [[mvanhorn-last30days-skill]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

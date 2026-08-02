@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[pkuflyingpig-cs-self-learning]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[ossu-computer-science]]
+[[mvanhorn-last30days-skill]] [[ahmadibrahiim-website-downloader]] [[graphify-labs-graphify]] [[geo-tp-esp32-bit-pirate]] [[prisma-prisma]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

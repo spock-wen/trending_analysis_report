@@ -38,7 +38,7 @@ Use Codex from Claude Code to review code or delegate tasks.
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[microsoft-ai-for-beginners]] [[ansible-ansible]] [[github-copilot-sdk]] [[bytedance-deer-flow]]
+[[mvanhorn-last30days-skill]] [[nomadamas-k-skill]] [[whiskeysockets-baileys]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[ansible-ansible]] [[block-buzz]] [[pumpkin-mc-pumpkin]]
+[[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[1jehuang-jcode]] [[pumpkin-mc-pumpkin]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[web]] [[cli]]
 

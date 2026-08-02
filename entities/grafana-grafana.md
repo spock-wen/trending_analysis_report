@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[koala73-worldmonitor]] [[usekaneo-kaneo]] [[ansible-ansible]] [[opengeos-geolibre]] [[ruvnet-ruview]]
+[[tencentcloud-tencentdb-agent-memory]] [[ruvnet-ruview]] [[alibaba-open-code-review]] [[different-ai-openwork]] [[opengeos-geolibre]]
 
 **所属领域**: [[data]] [[devops]]
 

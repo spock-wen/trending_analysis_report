@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[schollz-croc]] [[github-gh-stack]] [[ansible-ansible]] [[opengeos-geolibre]]
+[[mvanhorn-last30days-skill]] [[alibaba-open-code-review]] [[lyogavin-airllm]] [[opengeos-geolibre]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[geo-tp-esp32-bit-pirate]] [[openinterpreter-openinterpreter]]
+[[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[paperswithbacktest-awesome-systematic-trading]] [[obra-superpowers]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

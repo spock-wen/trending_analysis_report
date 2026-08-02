@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[opengeos-geolibre]] [[alibaba-open-code-review]] [[apache-cassandra]] [[corebunch-instatic]]
+[[geo-tp-esp32-bit-pirate]] [[amnezia-vpn-amnezia-client]] [[alibaba-open-code-review]] [[ocornut-imgui]] [[opengeos-geolibre]]
 
 **所属领域**: [[data]]
 

@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[ansible-ansible]] [[opengeos-geolibre]] [[alibaba-open-code-review]] [[github-copilot-sdk]]
+[[mvanhorn-last30days-skill]] [[alibaba-open-code-review]] [[lyogavin-airllm]] [[opengeos-geolibre]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

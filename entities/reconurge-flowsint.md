@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[automattic-harper]] [[usekaneo-kaneo]] [[different-ai-openwork]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]]
+[[tencentcloud-tencentdb-agent-memory]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[different-ai-openwork]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[security]]
 

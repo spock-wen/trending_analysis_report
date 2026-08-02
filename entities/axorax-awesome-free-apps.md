@@ -36,5 +36,5 @@ Curated list of the best free apps for PC and mobile
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[nomadamas-k-skill]] [[whiskeysockets-baileys]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[nomadamas-k-skill]] [[pbakaus-impeccable]] [[whiskeysockets-baileys]]
 

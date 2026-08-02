@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[dotnet-aspnetcore]] [[ansible-ansible]] [[k1tbyte-wand-enhancer]] [[github-copilot-sdk]]
+[[k1tbyte-wand-enhancer]] [[mvanhorn-last30days-skill]] [[par274-sharpemu]] [[dotnet-aspnetcore]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

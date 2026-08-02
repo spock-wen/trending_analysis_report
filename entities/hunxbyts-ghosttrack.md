@@ -34,5 +34,5 @@ Useful tool to track location or mobile number
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[ansible-ansible]]
+[[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[bytedance-deer-flow]] [[ansible-ansible]]
 

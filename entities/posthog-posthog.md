@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[koala73-worldmonitor]] [[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[mvanhorn-last30days-skill]]
+[[mvanhorn-last30days-skill]] [[ruvnet-ruview]] [[geo-tp-esp32-bit-pirate]] [[alibaba-open-code-review]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

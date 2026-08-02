@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[automattic-harper]] [[deusdata-codebase-memory-mcp]] [[microsoft-powertoys]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]]
+[[harbourmasters-lighthouse]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[microsoft-powertoys]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

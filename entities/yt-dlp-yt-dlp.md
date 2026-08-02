@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[huggingface-speech-to-speech]] [[paperswithbacktest-awesome-systematic-trading]] [[geo-tp-esp32-bit-pirate]] [[ansible-ansible]] [[microsoft-vibevoice]]
+[[moeru-ai-airi]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[microsoft-vibevoice]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[cli]] [[audio]]
 

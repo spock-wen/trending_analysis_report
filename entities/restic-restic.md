@@ -34,5 +34,5 @@ Fast, secure, efficient backup program
 
 ## 相关项目
 
-[[schollz-croc]] [[github-gh-stack]] [[alibaba-open-code-review]] [[yorukot-superfile]]
+[[github-gh-stack]] [[alibaba-open-code-review]] [[yorukot-superfile]] [[esengine-deepseek-reasonix]]
 

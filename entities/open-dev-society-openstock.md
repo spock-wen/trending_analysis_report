@@ -34,7 +34,7 @@ OpenStock is an open-source alternative to expensive market platforms. Track rea
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[usekaneo-kaneo]] [[ansible-ansible]] [[github-copilot-sdk]] [[different-ai-openwork]]
+[[tencentcloud-tencentdb-agent-memory]] [[mvanhorn-last30days-skill]] [[lyogavin-airllm]] [[different-ai-openwork]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

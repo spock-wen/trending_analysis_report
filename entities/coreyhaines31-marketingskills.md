@@ -36,7 +36,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[microsoft-ai-for-beginners]] [[ansible-ansible]] [[opengeos-geolibre]] [[alibaba-open-code-review]]
+[[mvanhorn-last30days-skill]] [[nomadamas-k-skill]] [[whiskeysockets-baileys]] [[alibaba-open-code-review]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[anthropics-cwc-workshops]] [[ansible-ansible]] [[block-buzz]] [[pumpkin-mc-pumpkin]]
+[[mvanhorn-last30days-skill]] [[1jehuang-jcode]] [[obra-superpowers]] [[lyogavin-airllm]] [[pumpkin-mc-pumpkin]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

@@ -35,5 +35,5 @@ Experimental menu for GTA 5: Enhanced
 
 ## 相关项目
 
-[[ocornut-imgui]] [[geo-tp-esp32-bit-pirate]] [[hyprwm-hyprland]] [[amnezia-vpn-amnezia-client]]
+[[hyprwm-hyprland]] [[ocornut-imgui]] [[geo-tp-esp32-bit-pirate]] [[amnezia-vpn-amnezia-client]]
 

@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[ansible-ansible]] [[abus-aikorea-voice-pro]] [[yorukot-superfile]]
+[[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[zhaoxuya520-reverse-skill]] [[panniantong-agent-reach]] [[ansible-ansible]]
 
 **所属领域**: [[web]] [[cli]]
 

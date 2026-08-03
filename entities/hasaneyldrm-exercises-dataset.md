@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[alibaba-open-code-review]] [[lyogavin-airllm]] [[trycua-cua]]
+[[abus-aikorea-voice-pro]] [[alibaba-open-code-review]] [[ossu-computer-science]] [[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[obra-superpowers]] [[different-ai-openwork]] [[openinterpreter-openinterpreter]] [[usekaneo-kaneo]]
+[[openinterpreter-openinterpreter]] [[usekaneo-kaneo]] [[zeux-meshoptimizer]] [[jamiepine-voicebox]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

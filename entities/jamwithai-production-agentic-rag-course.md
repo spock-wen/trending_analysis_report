@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[paperswithbacktest-awesome-systematic-trading]] [[rohitg00-ai-engineering-from-scratch]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]]
+[[paperswithbacktest-awesome-systematic-trading]] [[donnemartin-system-design-primer]] [[shiyu-coder-kronos]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[ahmadibrahiim-website-downloader]] [[graphify-labs-graphify]] [[prisma-prisma]] [[paperswithbacktest-awesome-systematic-trading]]
+[[paperswithbacktest-awesome-systematic-trading]] [[donnemartin-system-design-primer]] [[shiyu-coder-kronos]] [[mvanhorn-last30days-skill]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

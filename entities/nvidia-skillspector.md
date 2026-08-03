@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]]
+[[amnezia-vpn-amnezia-client]] [[donnemartin-system-design-primer]] [[shiyu-coder-kronos]] [[automattic-harper]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

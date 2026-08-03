@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[ruvnet-ruview]] [[geo-tp-esp32-bit-pirate]] [[alibaba-open-code-review]] [[lyogavin-airllm]]
+[[abus-aikorea-voice-pro]] [[donnemartin-system-design-primer]] [[alibaba-open-code-review]] [[shiyu-coder-kronos]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

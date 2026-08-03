@@ -34,7 +34,7 @@ Protocol Buffers - Google's data interchange format
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[amnezia-vpn-amnezia-client]] [[alibaba-open-code-review]] [[ocornut-imgui]] [[opengeos-geolibre]]
+[[amnezia-vpn-amnezia-client]] [[hyprwm-hyprland]] [[alibaba-open-code-review]] [[opengeos-geolibre]] [[corebunch-instatic]]
 
 **所属领域**: [[data]]
 

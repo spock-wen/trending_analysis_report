@@ -36,7 +36,7 @@ Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[altic-dev-fluidvoice]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[panniantong-agent-reach]]
+[[permissionlesstech-bitchat]] [[palmier-io-palmier-pro]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

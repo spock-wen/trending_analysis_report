@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[whiskeysockets-baileys]] [[nomadamas-k-skill]] [[paperswithbacktest-awesome-systematic-trading]] [[amnezia-vpn-amnezia-client]]
+[[amnezia-vpn-amnezia-client]] [[paperswithbacktest-awesome-systematic-trading]] [[mvanhorn-last30days-skill]] [[automattic-harper]] [[whiskeysockets-baileys]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

@@ -38,7 +38,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[ottermind-chat2db]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[panniantong-agent-reach]]
+[[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[jenkinsci-jenkins]] [[lyogavin-airllm]] [[ottermind-chat2db]]
 
 **所属领域**: [[ai-agent]]
 

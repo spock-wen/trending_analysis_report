@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[1jehuang-jcode]] [[pumpkin-mc-pumpkin]] [[zhaoxuya520-reverse-skill]]
+[[abus-aikorea-voice-pro]] [[pumpkin-mc-pumpkin]] [[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]]
 
 **所属领域**: [[web]] [[cli]]
 

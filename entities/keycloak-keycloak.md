@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[ottermind-chat2db]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[apache-cassandra]] [[zhaoxuya520-reverse-skill]]
+[[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[github-copilot-sdk]] [[jenkinsci-jenkins]] [[ottermind-chat2db]]
 
 **所属领域**: [[security]]
 

@@ -1,0 +1,40 @@
+---
+title: "donnemartin/system-design-primer"
+created: 2026-08-04
+updated: 2026-08-04
+last_active: 2026-08-04
+type: tool
+tags: [python, education]
+sources: [raw/trending/2026-08-04.json]
+confidence: low
+trending_count_daily: 1
+trending_count_weekly: 0
+trending_count_monthly: 0
+consecutive_days: 1
+first_trending: 2026-08-04
+last_trending: 2026-08-04
+peak_rank: 8
+total_stars: 360479
+language: "Python"
+---
+
+# donnemartin/system-design-primer
+
+Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+
+- 语言: Python
+- 上榜次数: 1 次
+- 连续上榜: 1 天
+- 最高排名: #8
+- 链接: [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+
+## 上榜历史
+
+  - 2026-08-04: #8, +323⭐
+
+## 相关项目
+
+[[paperswithbacktest-awesome-systematic-trading]] [[shiyu-coder-kronos]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[microsoft-ai-for-beginners]]
+
+**所属领域**: [[education]]
+

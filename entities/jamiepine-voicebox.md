@@ -1,20 +1,20 @@
 ---
 title: "jamiepine/voicebox"
 created: 2026-06-21
-updated: 2026-07-23
-last_active: 2026-07-23
+updated: 2026-08-04
+last_active: 2026-08-04
 type: tool
 tags: [typescript, ai-agent, audio]
-sources: [raw/trending/2026-07-23.json]
+sources: [raw/trending/2026-08-04.json]
 confidence: high
-trending_count_daily: 6
+trending_count_daily: 7
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-21
-last_trending: 2026-07-23
+last_trending: 2026-08-04
 peak_rank: 3
-total_stars: 45720
+total_stars: 48633
 language: "TypeScript"
 ---
 
@@ -23,22 +23,22 @@ language: "TypeScript"
 The open-source AI voice studio. Clone, dictate, create.
 
 - 语言: TypeScript
-- 上榜次数: 6 次
+- 上榜次数: 7 次
 - 连续上榜: 1 天
 - 最高排名: #3
 - 链接: [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
 
 ## 上榜历史
 
+  - 2026-08-04: #16, +443⭐
   - 2026-07-23: #7, +565⭐
   - 2026-07-21: #7, +839⭐
   - 2026-07-20: #5, +629⭐
   - 2026-06-24: #11, +1042⭐
-  - 2026-06-23: #3, +508⭐
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[mvanhorn-last30days-skill]] [[moeru-ai-airi]] [[lyogavin-airllm]] [[different-ai-openwork]]
+[[usekaneo-kaneo]] [[livekit-agents]] [[huggingface-speech-to-speech]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[ahmadibrahiim-website-downloader]] [[graphify-labs-graphify]] [[prisma-prisma]] [[lyogavin-airllm]]
+[[donnemartin-system-design-primer]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

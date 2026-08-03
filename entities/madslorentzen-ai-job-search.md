@@ -35,7 +35,7 @@ AI-powered job application framework built on Claude Code. Fork it, fill in your
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[mvanhorn-last30days-skill]] [[lyogavin-airllm]] [[different-ai-openwork]] [[microsoft-ai-for-beginners]]
+[[usekaneo-kaneo]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[jamiepine-voicebox]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

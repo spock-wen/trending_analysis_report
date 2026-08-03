@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[paperswithbacktest-awesome-systematic-trading]] [[obra-superpowers]] [[lyogavin-airllm]]
+[[openinterpreter-openinterpreter]] [[donnemartin-system-design-primer]] [[zeux-meshoptimizer]] [[shiyu-coder-kronos]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

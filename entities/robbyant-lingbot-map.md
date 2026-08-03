@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[alibaba-open-code-review]] [[opengeos-geolibre]] [[panniantong-agent-reach]] [[bytedance-deer-flow]]
+[[donnemartin-system-design-primer]] [[alibaba-open-code-review]] [[shiyu-coder-kronos]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]]
 
 **所属领域**: [[data]]
 

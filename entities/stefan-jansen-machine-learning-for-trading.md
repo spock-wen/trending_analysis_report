@@ -35,7 +35,7 @@ Code for Machine Learning for Algorithmic Trading, 2nd edition.
 
 ## 相关项目
 
-[[paperswithbacktest-awesome-systematic-trading]] [[rohitg00-ai-engineering-from-scratch]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]]
+[[paperswithbacktest-awesome-systematic-trading]] [[donnemartin-system-design-primer]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[education]]
 

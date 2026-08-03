@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[paperswithbacktest-awesome-systematic-trading]] [[rohitg00-ai-engineering-from-scratch]]
+[[abus-aikorea-voice-pro]] [[paperswithbacktest-awesome-systematic-trading]] [[usekaneo-kaneo]] [[donnemartin-system-design-primer]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]] [[education]]
 

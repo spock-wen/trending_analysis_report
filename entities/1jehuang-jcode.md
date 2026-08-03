@@ -38,5 +38,5 @@ The most RAM efficient harness
 
 ## 相关项目
 
-[[agavra-tuicr]] [[block-buzz]] [[pumpkin-mc-pumpkin]]
+[[firecrawl-pdf-inspector]] [[pumpkin-mc-pumpkin]] [[agavra-tuicr]]
 

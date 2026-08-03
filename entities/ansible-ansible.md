@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[ruvnet-ruview]] [[geo-tp-esp32-bit-pirate]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]]
+[[abus-aikorea-voice-pro]] [[donnemartin-system-design-primer]] [[shiyu-coder-kronos]] [[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[geo-tp-esp32-bit-pirate]] [[different-ai-openwork]] [[zhaoxuya520-reverse-skill]] [[panniantong-agent-reach]]
+[[usekaneo-kaneo]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[esengine-deepseek-reasonix]] [[jamiepine-voicebox]]
 
 **所属领域**: [[cli]]
 

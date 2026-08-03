@@ -35,5 +35,5 @@ NVR with realtime local object detection for IP cameras
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[different-ai-openwork]] [[usekaneo-kaneo]] [[pascalorg-editor]]
+[[jamiepine-voicebox]] [[different-ai-openwork]] [[usekaneo-kaneo]] [[tencentcloud-tencentdb-agent-memory]]
 

@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[different-ai-openwork]] [[ansible-ansible]]
+[[abus-aikorea-voice-pro]] [[usekaneo-kaneo]] [[mvanhorn-last30days-skill]] [[jamiepine-voicebox]] [[geo-tp-esp32-bit-pirate]]
 
 **所属领域**: [[web]]
 

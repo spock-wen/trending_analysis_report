@@ -37,7 +37,7 @@ Build local voice agents with open-source models
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[mvanhorn-last30days-skill]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[microsoft-vibevoice]]
+[[donnemartin-system-design-primer]] [[livekit-agents]] [[shiyu-coder-kronos]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

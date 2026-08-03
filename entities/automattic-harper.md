@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[1jehuang-jcode]] [[amnezia-vpn-amnezia-client]] [[pumpkin-mc-pumpkin]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]]
+[[amnezia-vpn-amnezia-client]] [[pumpkin-mc-pumpkin]] [[firecrawl-pdf-inspector]] [[affaan-m-ecc]] [[agavra-tuicr]]
 
 **所属领域**: [[security]]
 

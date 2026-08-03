@@ -36,7 +36,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[panniantong-agent-reach]] [[bytedance-deer-flow]] [[ansible-ansible]]
+[[abus-aikorea-voice-pro]] [[donnemartin-system-design-primer]] [[mvanhorn-last30days-skill]] [[shiyu-coder-kronos]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[web]]
 

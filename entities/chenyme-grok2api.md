@@ -34,7 +34,7 @@ language: "Go"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[alibaba-open-code-review]] [[zhaoxuya520-reverse-skill]] [[panniantong-agent-reach]]
+[[yorukot-superfile]] [[abus-aikorea-voice-pro]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[web]] [[cli]]
 

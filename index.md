@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-08-03 | 总页面：431
+> 最后更新：2026-08-04 | 总页面：434
 
 ## Entities
 
@@ -29,7 +29,7 @@
 - [[alibaba-zvec|zvec"]] — A lightweight, lightning-fast, in-process vector database
 - [[alireza0-s-ui|s-ui"]] — An advanced Web Panel • Built for SagerNet/Sing-Box
 - [[alirezarezvani-claude-skills|claude-skills"]] — 345 Claude Code skills & agent skills & plugins (30+ Agents,... 🔥
-- [[alishahryar1-free-claude-code|free-claude-code"]] — Use claude-code for free in the terminal, VSCode extension o... 🆕
+- [[alishahryar1-free-claude-code|free-claude-code"]] — Use Claude Code, Codex and Pi for free from your terminal, a...
 - [[allenai-olmocr|olmocr"]] — Toolkit for linearizing PDFs for LLM datasets/training
 - [[altic-dev-fluidvoice|FluidVoice"]] — Fastest and only macOS Dictation app with on-device STT and ... 🔥
 - [[amnezia-vpn-amnezia-client|amnezia-client"]] — Amnezia VPN Client (Desktop+Mobile)
@@ -119,6 +119,7 @@
 - [[dmtrkovalenko-fff|fff"]] — The fastest and the most accurate file search toolkit for AI...
 - [[docusealco-docuseal|docuseal"]] — Open source DocuSign alternative. Create, fill, and sign dig...
 - [[dograh-hq-dograh|dograh"]] — Open Source Voice Agent Platform
+- [[donnemartin-system-design-primer|system-design-primer"]] — Learn how to design large-scale systems. Prep for the system... 🆕
 - [[dotnet-aspnetcore|aspnetcore"]] — ASP.NET Core is a cross-platform .NET framework for building...
 - [[dotnet-skills|skills"]] — Repository for skills to assist AI coding agents with .NET a...
 - [[dottxt-ai-outlines|outlines"]] — Structured Outputs 🆕
@@ -135,6 +136,7 @@
 - [[fareedkhan-dev-train-llm-from-scratch|train-llm-from-scratch"]] — A straightforward method for training your LLM, from downloa...
 - [[fincept-corporation-finceptterminal|FinceptTerminal"]] — FinceptTerminal is a modern finance application offering adv...
 - [[firecrawl-firecrawl|firecrawl"]] — The API to search, scrape, and interact with the web at scal...
+- [[firecrawl-pdf-inspector|pdf-inspector"]] — Fast Rust library for PDF inspection, classification, and te... 🆕
 - [[fission-ai-openspec|OpenSpec"]] — Spec-driven development (SDD) for AI coding assistants.
 - [[flowseal-zapret-discord-youtube|zapret-discord-youtube"]] — No description
 - [[flutter-flutter|flutter"]] — Flutter makes it easy and fast to build beautiful apps for m...
@@ -160,7 +162,7 @@
 - [[graphify-labs-graphify|graphify"]] — AI coding assistant skill (Claude Code, Codex, OpenCode, Cur...
 - [[grokability-snipe-it|snipe-it"]] — A free open source IT asset/license management system
 - [[grpc-grpc|grpc"]] — C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- [[harbourmasters-lighthouse|Lighthouse"]] — No description 🆕
+- [[harbourmasters-lighthouse|Lighthouse"]] — No description
 - [[hardikpandya-stop-slop|stop-slop"]] — A skill file for removing AI tells from prose 🔥
 - [[harry0703-moneyprinterturbo|MoneyPrinterTurbo"]] — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using...
 - [[hasaneyldrm-exercises-dataset|exercises-dataset"]] — 1,324-exercise fitness dataset — animation GIFs, 180×180 thu... 🔥
@@ -192,7 +194,7 @@
 - [[iofficeai-officecli|OfficeCLI"]] — OfficeCLI is the first and best Office suite purpose-built f... 🔥
 - [[iptv-org-iptv|iptv"]] — Collection of publicly available IPTV channels from all over...
 - [[itsfatduck-optimizerduck|optimizerDuck"]] — Free, open-source Windows optimization tool for performance,...
-- [[iv-org-invidious|invidious"]] — Invidious is an alternative front-end to YouTube 🆕
+- [[iv-org-invidious|invidious"]] — Invidious is an alternative front-end to YouTube 🔥
 - [[jamiepine-voicebox|voicebox"]] — The open-source AI voice studio. Clone, dictate, create.
 - [[jamwithai-production-agentic-rag-course|production-agentic-rag-course"]] — No description
 - [[jbeder-yaml-cpp|yaml-cpp"]] — A YAML parser and emitter in C++
@@ -225,13 +227,14 @@
 - [[light-heart-labs-dreamserver|DreamServer"]] — Local AI anywhere, for everyone — LLM inference, chat UI, vo...
 - [[lightricks-ltx-2|LTX-2"]] — Official Python inference and LoRA trainer package for the L... 🆕
 - [[likec4-likec4|likec4"]] — Visualize, collaborate, and evolve the software architecture... 🔥
+- [[livekit-agents|agents"]] — A framework for building realtime voice AI agents 🤖🎙️📹 🆕
 - [[lmcache-lmcache|LMCache"]] — LMCache: Supercharge Your LLM with the Fastest KV Cache Laye... 🆕
 - [[lobehub-lobehub|lobehub"]] — 🤯 LobeHub is your Chief Agent Operator, organizing your agen...
 - [[logto-io-logto|logto"]] — 🧑‍🚀 Authentication and authorization infrastructure for SaaS...
 - [[lordog-dive-into-llms|dive-into-llms"]] — 《动手学大模型Dive into LLMs》系列编程实践教程 🆕
 - [[lum1104-understand-anything|Understand-Anything"]] — Graphs that teach > graphs that impress. Turn any code into ... 🔥
 - [[luongnv89-claude-howto|claude-howto"]] — A visual, example-driven guide to Claude Code — from basic c...
-- [[lyogavin-airllm|airllm"]] — AirLLM 70B inference with single 4GB GPU
+- [[lyogavin-airllm|airllm"]] — AirLLM 70B inference with single 4GB GPU 🆕
 - [[maderix-ane|ANE"]] — Training neural networks on Apple Neural Engine via reverse-...
 - [[madslorentzen-ai-job-search|ai-job-search"]] — AI-powered job application framework built on Claude Code. F...
 - [[makeplane-plane|plane"]] — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternativ... 🆕
@@ -249,7 +252,7 @@
 - [[microsoft-agent-governance-toolkit|agent-governance-toolkit"]] — AI Agent Governance Toolkit — Policy enforcement, zero-trust...
 - [[microsoft-ai-agents-for-beginners|ai-agents-for-beginners"]] — 12 Lessons to Get Started Building AI Agents 🔥
 - [[microsoft-ai-for-beginners|AI-For-Beginners"]] — 12 Weeks, 24 Lessons, AI for All! 🔥
-- [[microsoft-generative-ai-for-beginners|generative-ai-for-beginners"]] — 21 Lessons, Get Started Building with Generative AI 🆕
+- [[microsoft-generative-ai-for-beginners|generative-ai-for-beginners"]] — 21 Lessons, Get Started Building with Generative AI 🔥
 - [[microsoft-markitdown|markitdown"]] — Python tool for converting files and office documents to Mar... 🔥
 - [[microsoft-ontology-playground|Ontology-Playground"]] — Free, open-source web app for learning about ontologies and ... 🆕
 - [[microsoft-powertoys|PowerToys"]] — Microsoft PowerToys is a collection of utilities that superc...
@@ -309,7 +312,7 @@
 - [[p-e-w-heretic|heretic"]] — Fully automatic censorship removal for language models
 - [[paddlepaddle-paddleocr|PaddleOCR"]] — Turn any PDF or image document into structured data for your... 🆕
 - [[palmier-io-palmier-pro|palmier-pro"]] — macOS video editor built for AI
-- [[panniantong-agent-reach|Agent-Reach"]] — Give your AI agent eyes to see the entire internet. Read & s...
+- [[panniantong-agent-reach|Agent-Reach"]] — Give your AI agent eyes to see the entire internet. Read & s... 🆕
 - [[paperless-ngx-paperless-ngx|paperless-ngx"]] — A community-supported supercharged document management syste...
 - [[paperswithbacktest-awesome-systematic-trading|awesome-systematic-trading"]] — A curated list of awesome libraries, packages, strategies, b... 🔥
 - [[par274-sharpemu|sharpemu"]] — An experimental PlayStation 5 emulator project.
@@ -374,7 +377,7 @@
 - [[tauricresearch-tradingagents|TradingAgents"]] — TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [[tech-leads-club-agent-skills|agent-skills"]] — The secure, validated skill registry for professional AI cod... 🆕
 - [[tencentcloud-cubesandbox|CubeSandbox"]] — Instant, Concurrent, Secure & Lightweight Sandbox for AI Age... 🆕
-- [[tencentcloud-tencentdb-agent-memory|TencentDB-Agent-Memory"]] — TencentDB Agent Memory is a team-level memory hub for AI Age... 🆕
+- [[tencentcloud-tencentdb-agent-memory|TencentDB-Agent-Memory"]] — TencentDB Agent Memory is a team-level memory hub for AI Age... 🔥
 - [[teng-lin-notebooklm-py|notebooklm-py"]] — Unofficial Python API and agentic skill for Google NotebookL...
 - [[teslamate-org-teslamate|teslamate"]] — A self-hosted data logger for your Tesla 🚘 [main maintainer=... 🆕
 - [[thedotmack-claude-mem|claude-mem"]] — Persistent Context Across Sessions for Every Agent – Capture...

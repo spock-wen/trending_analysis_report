@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[harbourmasters-lighthouse]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[microsoft-powertoys]] [[affaan-m-ecc]]
+[[microsoft-powertoys]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[harbourmasters-lighthouse]] [[antirez-ds4]]
 
 **所属领域**: [[security]]
 

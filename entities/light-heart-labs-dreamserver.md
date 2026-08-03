@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[mvanhorn-last30days-skill]] [[ahmadibrahiim-website-downloader]] [[graphify-labs-graphify]] [[prisma-prisma]]
+[[donnemartin-system-design-primer]] [[livekit-agents]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[huggingface-speech-to-speech]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

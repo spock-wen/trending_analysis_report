@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[alibaba-open-code-review]] [[ansible-ansible]] [[yorukot-superfile]]
+[[yorukot-superfile]] [[abus-aikorea-voice-pro]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[esengine-deepseek-reasonix]]
 
 **所属领域**: [[web]]
 

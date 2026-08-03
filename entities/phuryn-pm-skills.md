@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[zhaoxuya520-reverse-skill]]
+[[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[esengine-deepseek-reasonix]] [[jamiepine-voicebox]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

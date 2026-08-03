@@ -37,7 +37,7 @@ The open-source alternative to Claude Cowork (powered by opencode)
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[mvanhorn-last30days-skill]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[panniantong-agent-reach]]
+[[usekaneo-kaneo]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[lyogavin-airllm]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]]
 

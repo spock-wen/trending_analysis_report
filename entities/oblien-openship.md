@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[ruvnet-ruview]] [[different-ai-openwork]] [[ansible-ansible]] [[usekaneo-kaneo]]
+[[usekaneo-kaneo]] [[ruvnet-ruview]] [[apache-cassandra]] [[jamiepine-voicebox]] [[koala73-worldmonitor]]
 
 **所属领域**: [[devops]]
 

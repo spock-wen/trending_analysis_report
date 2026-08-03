@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[whiskeysockets-baileys]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[pbakaus-impeccable]]
+[[whiskeysockets-baileys]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[pbakaus-impeccable]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

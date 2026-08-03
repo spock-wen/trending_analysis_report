@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[mvanhorn-last30days-skill]] [[paperswithbacktest-awesome-systematic-trading]] [[lyogavin-airllm]] [[different-ai-openwork]]
+[[paperswithbacktest-awesome-systematic-trading]] [[usekaneo-kaneo]] [[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

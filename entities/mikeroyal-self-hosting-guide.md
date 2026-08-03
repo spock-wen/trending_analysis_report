@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[paperswithbacktest-awesome-systematic-trading]] [[rohitg00-ai-engineering-from-scratch]] [[microsoft-generative-ai-for-beginners]]
+[[abus-aikorea-voice-pro]] [[paperswithbacktest-awesome-systematic-trading]] [[donnemartin-system-design-primer]] [[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

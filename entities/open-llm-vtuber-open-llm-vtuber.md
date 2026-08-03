@@ -37,7 +37,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[mvanhorn-last30days-skill]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[microsoft-vibevoice]]
+[[donnemartin-system-design-primer]] [[livekit-agents]] [[shiyu-coder-kronos]] [[huggingface-speech-to-speech]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

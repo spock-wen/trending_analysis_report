@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[panniantong-agent-reach]]
+[[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]]
 

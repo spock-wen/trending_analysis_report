@@ -34,7 +34,7 @@ Toolkit for linearizing PDFs for LLM datasets/training
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[alibaba-open-code-review]] [[lyogavin-airllm]] [[opengeos-geolibre]] [[microsoft-ai-for-beginners]]
+[[donnemartin-system-design-primer]] [[alibaba-open-code-review]] [[shiyu-coder-kronos]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[graphify-labs-graphify]] [[geo-tp-esp32-bit-pirate]] [[prisma-prisma]] [[trycua-cua]]
+[[abus-aikorea-voice-pro]] [[mvanhorn-last30days-skill]] [[ossu-computer-science]] [[graphify-labs-graphify]] [[prisma-prisma]]
 
 **所属领域**: [[web]] [[image-gen]]
 

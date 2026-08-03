@@ -37,7 +37,7 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[panniantong-agent-reach]] [[geo-tp-esp32-bit-pirate]] [[esengine-deepseek-reasonix]]
+[[esengine-deepseek-reasonix]] [[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]]
 

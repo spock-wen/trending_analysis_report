@@ -34,5 +34,5 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[different-ai-openwork]] [[usekaneo-kaneo]] [[pascalorg-editor]]
+[[jamiepine-voicebox]] [[different-ai-openwork]] [[usekaneo-kaneo]] [[tencentcloud-tencentdb-agent-memory]]
 

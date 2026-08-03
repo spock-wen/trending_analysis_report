@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[lyogavin-airllm]]
+[[amnezia-vpn-amnezia-client]] [[donnemartin-system-design-primer]] [[shiyu-coder-kronos]] [[automattic-harper]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

@@ -34,7 +34,7 @@ Transform unstructured text into structured knowledge with LLMs. Graphs, hypergr
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[zhaoxuya520-reverse-skill]]
+[[donnemartin-system-design-primer]] [[shiyu-coder-kronos]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[esengine-deepseek-reasonix]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

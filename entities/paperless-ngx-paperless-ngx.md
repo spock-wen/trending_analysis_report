@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[paperswithbacktest-awesome-systematic-trading]] [[zhaoxuya520-reverse-skill]] [[panniantong-agent-reach]] [[bytedance-deer-flow]]
+[[paperswithbacktest-awesome-systematic-trading]] [[donnemartin-system-design-primer]] [[shiyu-coder-kronos]] [[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[science]]
 

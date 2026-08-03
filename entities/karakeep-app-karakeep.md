@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[mvanhorn-last30days-skill]] [[ahmadibrahiim-website-downloader]] [[graphify-labs-graphify]] [[prisma-prisma]]
+[[usekaneo-kaneo]] [[graphify-labs-graphify]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[prisma-prisma]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

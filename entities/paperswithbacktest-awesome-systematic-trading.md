@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[rohitg00-ai-engineering-from-scratch]] [[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]] [[zhaoxuya520-reverse-skill]]
+[[donnemartin-system-design-primer]] [[shiyu-coder-kronos]] [[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]]
 
 **所属领域**: [[education]] [[science]]
 

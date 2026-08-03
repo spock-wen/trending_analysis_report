@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[paperswithbacktest-awesome-systematic-trading]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[zhaoxuya520-reverse-skill]]
+[[abus-aikorea-voice-pro]] [[paperswithbacktest-awesome-systematic-trading]] [[donnemartin-system-design-primer]] [[shiyu-coder-kronos]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

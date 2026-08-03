@@ -38,7 +38,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[paperswithbacktest-awesome-systematic-trading]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[zhaoxuya520-reverse-skill]]
+[[paperswithbacktest-awesome-systematic-trading]] [[donnemartin-system-design-primer]] [[shiyu-coder-kronos]] [[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

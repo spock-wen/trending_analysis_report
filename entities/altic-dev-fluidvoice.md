@@ -37,7 +37,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[mvanhorn-last30days-skill]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[microsoft-vibevoice]]
+[[permissionlesstech-bitchat]] [[livekit-agents]] [[huggingface-speech-to-speech]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

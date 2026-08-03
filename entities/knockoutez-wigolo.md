@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[paperswithbacktest-awesome-systematic-trading]] [[lyogavin-airllm]]
+[[abus-aikorea-voice-pro]] [[paperswithbacktest-awesome-systematic-trading]] [[usekaneo-kaneo]] [[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

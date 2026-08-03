@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[zhaoxuya520-reverse-skill]] [[panniantong-agent-reach]]
+[[amnezia-vpn-amnezia-client]] [[donnemartin-system-design-primer]] [[shiyu-coder-kronos]] [[automattic-harper]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[security]]
 

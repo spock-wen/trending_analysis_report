@@ -38,7 +38,7 @@ Use Codex from Claude Code to review code or delegate tasks.
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[nomadamas-k-skill]] [[whiskeysockets-baileys]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]]
+[[whiskeysockets-baileys]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[nomadamas-k-skill]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

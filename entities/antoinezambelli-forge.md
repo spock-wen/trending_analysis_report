@@ -34,7 +34,7 @@ A Python framework for self-hosted LLM tool-calling and multi-step agentic workf
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[panniantong-agent-reach]] [[bytedance-deer-flow]]
+[[donnemartin-system-design-primer]] [[shiyu-coder-kronos]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

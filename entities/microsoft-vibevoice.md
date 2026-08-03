@@ -35,7 +35,7 @@ Open-Source Frontier Voice AI
 
 ## 相关项目
 
-[[moeru-ai-airi]] [[mvanhorn-last30days-skill]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[panniantong-agent-reach]]
+[[donnemartin-system-design-primer]] [[livekit-agents]] [[shiyu-coder-kronos]] [[huggingface-speech-to-speech]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[alibaba-open-code-review]] [[different-ai-openwork]]
+[[abus-aikorea-voice-pro]] [[usekaneo-kaneo]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[apache-cassandra]]
 
 **所属领域**: [[web]] [[data]]
 

@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[ruvnet-ruview]] [[geo-tp-esp32-bit-pirate]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]]
+[[donnemartin-system-design-primer]] [[shiyu-coder-kronos]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[esengine-deepseek-reasonix]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

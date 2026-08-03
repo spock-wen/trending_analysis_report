@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[prismml-eng-bonsai-demo]] [[geo-tp-esp32-bit-pirate]] [[obra-superpowers]] [[lyogavin-airllm]]
+[[msitarzewski-agency-agents]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[esengine-deepseek-reasonix]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

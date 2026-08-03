@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[prismml-eng-bonsai-demo]] [[geo-tp-esp32-bit-pirate]] [[lyogavin-airllm]] [[msitarzewski-agency-agents]]
+[[openinterpreter-openinterpreter]] [[zeux-meshoptimizer]] [[msitarzewski-agency-agents]] [[mattpocock-skills]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

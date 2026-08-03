@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[alibaba-open-code-review]] [[zhaoxuya520-reverse-skill]] [[panniantong-agent-reach]] [[github-gh-stack]]
+[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[esengine-deepseek-reasonix]] [[github-gh-stack]]
 
 **所属领域**: [[cli]]
 

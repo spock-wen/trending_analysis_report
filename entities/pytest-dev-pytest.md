@@ -34,5 +34,5 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[panniantong-agent-reach]] [[bytedance-deer-flow]] [[ansible-ansible]]
+[[panniantong-agent-reach]] [[donnemartin-system-design-primer]] [[alishahryar1-free-claude-code]] [[shiyu-coder-kronos]]
 

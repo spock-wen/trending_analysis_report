@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[amnezia-vpn-amnezia-client]] [[ocornut-imgui]] [[hyprwm-hyprland]] [[zhaoxuya520-reverse-skill]]
+[[abus-aikorea-voice-pro]] [[amnezia-vpn-amnezia-client]] [[hyprwm-hyprland]] [[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[web]] [[cli]]
 

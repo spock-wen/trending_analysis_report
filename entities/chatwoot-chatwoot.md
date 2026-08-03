@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[docusealco-docuseal]] [[panniantong-agent-reach]]
+[[docusealco-docuseal]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[jamiepine-voicebox]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

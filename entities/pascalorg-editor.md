@@ -37,5 +37,5 @@ Create and share 3D architectural projects.
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[different-ai-openwork]] [[usekaneo-kaneo]]
+[[jamiepine-voicebox]] [[different-ai-openwork]] [[usekaneo-kaneo]] [[tencentcloud-tencentdb-agent-memory]]
 

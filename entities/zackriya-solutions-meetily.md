@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[automattic-harper]] [[panniantong-agent-reach]] [[affaan-m-ecc]] [[block-buzz]] [[geo-tp-esp32-bit-pirate]]
+[[abus-aikorea-voice-pro]] [[amnezia-vpn-amnezia-client]] [[firecrawl-pdf-inspector]] [[corebunch-instatic]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

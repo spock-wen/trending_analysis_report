@@ -34,5 +34,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[nomadamas-k-skill]] [[pbakaus-impeccable]] [[whiskeysockets-baileys]]
+[[nomadamas-k-skill]] [[pbakaus-impeccable]] [[whiskeysockets-baileys]] [[affaan-m-ecc]]
 

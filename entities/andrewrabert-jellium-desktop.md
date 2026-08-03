@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[1jehuang-jcode]] [[pumpkin-mc-pumpkin]] [[zhaoxuya520-reverse-skill]] [[panniantong-agent-reach]]
+[[pumpkin-mc-pumpkin]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[esengine-deepseek-reasonix]] [[firecrawl-pdf-inspector]]
 
 **所属领域**: [[cli]]
 

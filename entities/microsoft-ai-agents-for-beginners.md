@@ -36,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[paperswithbacktest-awesome-systematic-trading]] [[rohitg00-ai-engineering-from-scratch]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]]
+[[paperswithbacktest-awesome-systematic-trading]] [[donnemartin-system-design-primer]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

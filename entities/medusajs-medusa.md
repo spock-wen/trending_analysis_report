@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[obra-superpowers]] [[different-ai-openwork]] [[openinterpreter-openinterpreter]] [[anthropics-cwc-workshops]]
+[[openinterpreter-openinterpreter]] [[usekaneo-kaneo]] [[zeux-meshoptimizer]] [[jamiepine-voicebox]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

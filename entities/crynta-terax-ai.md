@@ -34,7 +34,7 @@ Lightweight (7MB) Terminal-first AI-native dev workspace
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[mvanhorn-last30days-skill]] [[geo-tp-esp32-bit-pirate]] [[lyogavin-airllm]] [[different-ai-openwork]]
+[[usekaneo-kaneo]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[esengine-deepseek-reasonix]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -35,7 +35,7 @@ Gas Town - multi-agent workspace manager
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[alibaba-open-code-review]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[panniantong-agent-reach]]
+[[yorukot-superfile]] [[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[esengine-deepseek-reasonix]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ The fastest browser for AI agents to run web automation, built for sharing your 
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[nomadamas-k-skill]] [[whiskeysockets-baileys]] [[geo-tp-esp32-bit-pirate]] [[lyogavin-airllm]]
+[[abus-aikorea-voice-pro]] [[mvanhorn-last30days-skill]] [[whiskeysockets-baileys]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

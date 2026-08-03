@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[mvanhorn-last30days-skill]] [[ruvnet-ruview]] [[lyogavin-airllm]] [[different-ai-openwork]]
+[[usekaneo-kaneo]] [[ruvnet-ruview]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[apache-cassandra]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

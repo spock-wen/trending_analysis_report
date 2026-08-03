@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[alibaba-open-code-review]] [[lyogavin-airllm]]
+[[yorukot-superfile]] [[amnezia-vpn-amnezia-client]] [[alibaba-open-code-review]] [[automattic-harper]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

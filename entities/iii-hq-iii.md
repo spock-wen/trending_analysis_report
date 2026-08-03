@@ -34,5 +34,5 @@ Effortlessly compose, extend, and observe every service in real-time for the fir
 
 ## 相关项目
 
-[[agavra-tuicr]] [[block-buzz]] [[pumpkin-mc-pumpkin]] [[1jehuang-jcode]]
+[[firecrawl-pdf-inspector]] [[1jehuang-jcode]] [[pumpkin-mc-pumpkin]] [[agavra-tuicr]]
 

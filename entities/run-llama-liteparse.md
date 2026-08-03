@@ -35,5 +35,5 @@ A fast, helpful, and open-source document parser
 
 ## 相关项目
 
-[[agavra-tuicr]] [[block-buzz]] [[pumpkin-mc-pumpkin]] [[1jehuang-jcode]]
+[[firecrawl-pdf-inspector]] [[1jehuang-jcode]] [[pumpkin-mc-pumpkin]] [[agavra-tuicr]]
 

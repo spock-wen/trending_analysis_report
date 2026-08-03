@@ -34,5 +34,5 @@ Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engi
 
 ## 相关项目
 
-[[agavra-tuicr]] [[block-buzz]] [[pumpkin-mc-pumpkin]] [[1jehuang-jcode]]
+[[firecrawl-pdf-inspector]] [[1jehuang-jcode]] [[pumpkin-mc-pumpkin]] [[agavra-tuicr]]
 

@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[prismml-eng-bonsai-demo]] [[geo-tp-esp32-bit-pirate]] [[obra-superpowers]] [[lyogavin-airllm]]
+[[msitarzewski-agency-agents]] [[mattpocock-skills]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[esengine-deepseek-reasonix]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

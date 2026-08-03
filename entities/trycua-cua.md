@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[ahmadibrahiim-website-downloader]] [[graphify-labs-graphify]] [[geo-tp-esp32-bit-pirate]] [[prisma-prisma]]
+[[abus-aikorea-voice-pro]] [[alibaba-open-code-review]] [[ossu-computer-science]] [[mvanhorn-last30days-skill]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

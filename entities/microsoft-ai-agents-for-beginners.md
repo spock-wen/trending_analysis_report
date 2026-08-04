@@ -36,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[paperswithbacktest-awesome-systematic-trading]] [[donnemartin-system-design-primer]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[microsoft-ai-for-beginners]]
+[[obra-superpowers]] [[lyogavin-airllm]] [[everyinc-compound-engineering-plugin]] [[browser-use-video-use]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

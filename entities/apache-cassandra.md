@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[github-copilot-sdk]] [[jenkinsci-jenkins]] [[ottermind-chat2db]] [[opengeos-geolibre]]
+[[uber-adr]] [[ottermind-chat2db]] [[corebunch-instatic]] [[alibaba-open-code-review]] [[jenkinsci-jenkins]]
 
 **所属领域**: [[data]] [[devops]]
 

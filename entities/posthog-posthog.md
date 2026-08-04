@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[abus-aikorea-voice-pro]] [[donnemartin-system-design-primer]] [[alibaba-open-code-review]] [[shiyu-coder-kronos]] [[mvanhorn-last30days-skill]]
+[[uber-adr]] [[obra-superpowers]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[everyinc-compound-engineering-plugin]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

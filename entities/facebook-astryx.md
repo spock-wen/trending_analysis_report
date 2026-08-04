@@ -37,7 +37,7 @@ An open source design system that's fully customizable and agent ready
 
 ## 相关项目
 
-[[usekaneo-kaneo]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[jamiepine-voicebox]] [[lyogavin-airllm]]
+[[everyinc-compound-engineering-plugin]] [[obra-superpowers]] [[lyogavin-airllm]] [[browser-use-video-use]] [[tencentcloud-tencentdb-agent-memory]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[yorukot-superfile]] [[amnezia-vpn-amnezia-client]] [[alibaba-open-code-review]] [[automattic-harper]] [[alishahryar1-free-claude-code]]
+[[uber-adr]] [[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]] [[esengine-deepseek-reasonix]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

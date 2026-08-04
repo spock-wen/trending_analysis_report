@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[abus-aikorea-voice-pro]] [[openinterpreter-openinterpreter]] [[zeux-meshoptimizer]] [[mvanhorn-last30days-skill]] [[nutlope-hallmark]]
+[[uber-adr]] [[obra-superpowers]] [[browser-use-video-use]] [[angular-angular]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]] [[erp]]
 

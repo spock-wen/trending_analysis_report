@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[donnemartin-system-design-primer]] [[alibaba-open-code-review]] [[shiyu-coder-kronos]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]]
+[[uber-adr]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[livekit-agents]] [[alibaba-open-code-review]]
 
 **所属领域**: [[data]]
 

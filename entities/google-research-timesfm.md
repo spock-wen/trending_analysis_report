@@ -37,7 +37,7 @@ TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo
 
 ## 相关项目
 
-[[paperswithbacktest-awesome-systematic-trading]] [[donnemartin-system-design-primer]] [[shiyu-coder-kronos]] [[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]]
+[[uber-adr]] [[obra-superpowers]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[everyinc-compound-engineering-plugin]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

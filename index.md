@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-08-04 | 总页面：434
+> 最后更新：2026-08-05 | 总页面：440
 
 ## Entities
 
@@ -37,6 +37,7 @@
 - [[andrewrabert-jellium-desktop|jellium-desktop"]] — An unofficial desktop client for Jellyfin
 - [[andrewyng-aisuite|aisuite"]] — Simple, unified interface to multiple Generative AI provider...
 - [[andyyyy64-whichllm|whichllm"]] — Find the local LLM that actually runs and performs best on y... 🆕
+- [[angular-angular|angular"]] — Deliver web apps with confidence 🚀 🆕
 - [[anil-matcha-open-generative-ai|Open-Generative-AI"]] — Unrestricted Open-source alternative to AI video platforms —...
 - [[anomalyco-opencode|opencode"]] — The open source coding agent.
 - [[ansible-ansible|ansible"]] — Ansible is a radically simple IT automation platform that ma...
@@ -66,7 +67,7 @@
 - [[block-buzz|buzz"]] — A hive mind communication platform 🔥
 - [[bojieli-ai-agent-book|ai-agent-book"]] — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [[bradautomates-claude-video|claude-video"]] — Give Claude the ability to watch any video. /watch downloads... 🆕
-- [[browser-use-video-use|video-use"]] — Edit videos with coding agents 🔥
+- [[browser-use-video-use|video-use"]] — Edit videos with coding agents
 - [[builderio-agent-native|agent-native"]] — A framework for building agent-native applications.
 - [[byjoey-cfnew|cfnew"]] — No description
 - [[byoungd-english-level-up-tips|English-level-up-tips"]] — An advanced guide to learn English which might benefit you a...
@@ -110,6 +111,7 @@
 - [[dayuanjiang-next-ai-draw-io|next-ai-draw-io"]] — A next.js web application that integrates AI capabilities wi...
 - [[dbt-labs-dbt-core|dbt-core"]] — dbt enables data analysts and engineers to transform their d...
 - [[deepfakes-faceswap|faceswap"]] — Deepfakes Software For All
+- [[denoland-deno|deno"]] — A modern runtime for JavaScript and TypeScript. 🆕
 - [[deusdata-codebase-memory-mcp|codebase-memory-mcp"]] — High-performance code intelligence MCP server. Indexes codeb...
 - [[diegosouzapw-omniroute|OmniRoute"]] — Never stop coding. Free MIT AI gateway: one endpoint, 290+ p... 🔥
 - [[different-ai-openwork|openwork"]] — The open-source alternative to Claude Cowork (powered by ope...
@@ -119,7 +121,7 @@
 - [[dmtrkovalenko-fff|fff"]] — The fastest and the most accurate file search toolkit for AI...
 - [[docusealco-docuseal|docuseal"]] — Open source DocuSign alternative. Create, fill, and sign dig...
 - [[dograh-hq-dograh|dograh"]] — Open Source Voice Agent Platform
-- [[donnemartin-system-design-primer|system-design-primer"]] — Learn how to design large-scale systems. Prep for the system... 🆕
+- [[donnemartin-system-design-primer|system-design-primer"]] — Learn how to design large-scale systems. Prep for the system...
 - [[dotnet-aspnetcore|aspnetcore"]] — ASP.NET Core is a cross-platform .NET framework for building...
 - [[dotnet-skills|skills"]] — Repository for skills to assist AI coding agents with .NET a...
 - [[dottxt-ai-outlines|outlines"]] — Structured Outputs 🆕
@@ -129,9 +131,9 @@
 - [[elastic-elasticsearch|elasticsearch"]] — Free and Open Source, Distributed, RESTful Search Engine
 - [[elder-plinius-g0dm0d3|G0DM0D3"]] — LIBERATED AI CHAT
 - [[emmabostian-developer-portfolios|developer-portfolios"]] — A list of developer portfolios for your inspiration
-- [[esengine-deepseek-reasonix|DeepSeek-Reasonix"]] — DeepSeek-native AI coding agent for your terminal. Engineere... 🆕
+- [[esengine-deepseek-reasonix|DeepSeek-Reasonix"]] — DeepSeek-native AI coding agent for your terminal. Engineere... 🔥
 - [[every-app-open-seo|open-seo"]] — Open source alternative to Semrush and Ahrefs 🆕
-- [[everyinc-compound-engineering-plugin|compound-engineering-plugin"]] — Official Compound Engineering plugin for Claude Code, Codex,... 🔥
+- [[everyinc-compound-engineering-plugin|compound-engineering-plugin"]] — Official Compound Engineering plugin for Claude Code, Codex,...
 - [[facebook-astryx|astryx"]] — An open source design system that's fully customizable and a...
 - [[fareedkhan-dev-train-llm-from-scratch|train-llm-from-scratch"]] — A straightforward method for training your LLM, from downloa...
 - [[fincept-corporation-finceptterminal|FinceptTerminal"]] — FinceptTerminal is a modern finance application offering adv...
@@ -144,6 +146,7 @@
 - [[frappe-erpnext|erpnext"]] — Free and Open Source Enterprise Resource Planning (ERP)
 - [[free-tv-iptv|IPTV"]] — M3U Playlist for free TV channels
 - [[freecodecamp-freecodecamp|freeCodeCamp"]] — freeCodeCamp.org's open-source codebase and curriculum. Lear... 🔥
+- [[gabime-spdlog|spdlog"]] — Fast C++ logging library. 🆕
 - [[galilai-group-stable-worldmodel|stable-worldmodel"]] — A platform for reproducible world model research and evaluat... 🆕
 - [[garrytan-gstack|gstack"]] — Use Garry Tan's exact Claude Code setup: 23 opinionated tool... 🔥
 - [[gastownhall-gastown|gastown"]] — Gas Town - multi-agent workspace manager 🆕
@@ -234,7 +237,7 @@
 - [[lordog-dive-into-llms|dive-into-llms"]] — 《动手学大模型Dive into LLMs》系列编程实践教程 🆕
 - [[lum1104-understand-anything|Understand-Anything"]] — Graphs that teach > graphs that impress. Turn any code into ... 🔥
 - [[luongnv89-claude-howto|claude-howto"]] — A visual, example-driven guide to Claude Code — from basic c...
-- [[lyogavin-airllm|airllm"]] — AirLLM 70B inference with single 4GB GPU 🆕
+- [[lyogavin-airllm|airllm"]] — AirLLM 70B inference with single 4GB GPU 🔥
 - [[maderix-ane|ANE"]] — Training neural networks on Apple Neural Engine via reverse-...
 - [[madslorentzen-ai-job-search|ai-job-search"]] — AI-powered job application framework built on Claude Code. F...
 - [[makeplane-plane|plane"]] — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternativ... 🆕
@@ -373,6 +376,7 @@
 - [[supertone-inc-supertonic|supertonic"]] — Lightning-Fast, On-Device, Multilingual TTS running natively...
 - [[swc-project-swc|swc"]] — Rust-based platform for the Web
 - [[tailscale-tailscale|tailscale"]] — The easiest, most secure way to use WireGuard and 2FA.
+- [[tailwindlabs-tailwindcss|tailwindcss"]] — A utility-first CSS framework for rapid UI development. 🆕
 - [[tapxworld-chinatextbook|ChinaTextbook"]] — 所有小初高、大学PDF教材。
 - [[tauricresearch-tradingagents|TradingAgents"]] — TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [[tech-leads-club-agent-skills|agent-skills"]] — The secure, validated skill registry for professional AI cod... 🆕
@@ -394,6 +398,7 @@
 - [[tursodatabase-turso|turso"]] — Turso is an in-process SQL database, compatible with SQLite. 🔥
 - [[tw93-pake|Pake"]] — 🤱🏻 Turn any webpage into a desktop app with one command. 🆕
 - [[twentyhq-twenty|twenty"]] — The open alternative to Salesforce, designed for AI.
+- [[uber-adr|ADR"]] — ADR secures enterprise AI agents through observability, secu... 🆕
 - [[unclecheng-li-vulnclaw|VulnClaw"]] — 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「...
 - [[unclecode-crawl4ai|crawl4ai"]] — 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper....
 - [[universal-debloater-alliance-universal-android-debloater-next-generation|universal-android-debloater-next-generation"]] — Cross-platform GUI written in Rust using ADB to debloat non-... 🔥
@@ -405,6 +410,7 @@
 - [[voltagent-awesome-design-md|awesome-design-md"]] — A collection of DESIGN.md files analysis by popular brand de...
 - [[vudovn-ag-kit|ag-kit"]] — No description
 - [[vxcontrol-pentagi|pentagi"]] — Fully autonomous AI Agents system capable of performing comp...
+- [[webpack-webpack|webpack"]] — A bundler for javascript and friends. Packs many modules int... 🆕
 - [[whiskeysockets-baileys|Baileys"]] — Socket-based TS/JavaScript API for WhatsApp Web
 - [[withastro-flue|flue"]] — The sandbox agent framework. 🔥
 - [[wonderwhy-er-desktopcommandermcp|DesktopCommanderMCP"]] — This is MCP server for Claude that gives it terminal control... 🔥

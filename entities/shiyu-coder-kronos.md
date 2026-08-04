@@ -38,5 +38,5 @@ Kronos: A Foundation Model for the Language of Financial Markets
 
 ## 相关项目
 
-[[donnemartin-system-design-primer]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]]
+[[uber-adr]] [[livekit-agents]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]]
 

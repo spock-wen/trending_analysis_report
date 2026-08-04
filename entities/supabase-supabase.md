@@ -34,7 +34,7 @@ The Postgres development platform. Supabase gives you a dedicated Postgres datab
 
 ## 相关项目
 
-[[abus-aikorea-voice-pro]] [[usekaneo-kaneo]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]]
+[[everyinc-compound-engineering-plugin]] [[obra-superpowers]] [[lyogavin-airllm]] [[browser-use-video-use]] [[angular-angular]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

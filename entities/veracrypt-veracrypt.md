@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[microsoft-powertoys]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[harbourmasters-lighthouse]] [[antirez-ds4]]
+[[uber-adr]] [[microsoft-powertoys]] [[amnezia-vpn-amnezia-client]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[security]]
 

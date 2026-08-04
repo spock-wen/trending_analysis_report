@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[openinterpreter-openinterpreter]] [[usekaneo-kaneo]] [[zeux-meshoptimizer]] [[jamiepine-voicebox]] [[obra-superpowers]]
+[[uber-adr]] [[everyinc-compound-engineering-plugin]] [[obra-superpowers]] [[openinterpreter-openinterpreter]] [[anthropics-cwc-workshops]]
 
 **所属领域**: [[erp]]
 

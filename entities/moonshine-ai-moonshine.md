@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[amnezia-vpn-amnezia-client]] [[hyprwm-hyprland]] [[livekit-agents]] [[huggingface-speech-to-speech]] [[alishahryar1-free-claude-code]]
+[[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

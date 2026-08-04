@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[hyprwm-hyprland]] [[automattic-harper]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[esengine-deepseek-reasonix]]
+[[uber-adr]] [[obra-superpowers]] [[alishahryar1-free-claude-code]] [[esengine-deepseek-reasonix]] [[ocornut-imgui]]
 
 **所属领域**: [[cli]] [[security]]
 

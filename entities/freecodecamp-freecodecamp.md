@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[paperswithbacktest-awesome-systematic-trading]] [[usekaneo-kaneo]] [[donnemartin-system-design-primer]] [[microsoft-ai-for-beginners]] [[jamiepine-voicebox]]
+[[everyinc-compound-engineering-plugin]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[tencentcloud-tencentdb-agent-memory]] [[donnemartin-system-design-primer]]
 
 **所属领域**: [[education]]
 

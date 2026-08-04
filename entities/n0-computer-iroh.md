@@ -37,5 +37,5 @@ IP addresses break, dial keys instead. Modular networking stack in Rust.
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[1jehuang-jcode]] [[pumpkin-mc-pumpkin]] [[agavra-tuicr]]
+[[agavra-tuicr]] [[firecrawl-pdf-inspector]] [[denoland-deno]] [[1jehuang-jcode]]
 

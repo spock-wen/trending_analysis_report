@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[donnemartin-system-design-primer]] [[shiyu-coder-kronos]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[esengine-deepseek-reasonix]]
+[[uber-adr]] [[obra-superpowers]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[esengine-deepseek-reasonix]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[abus-aikorea-voice-pro]] [[mvanhorn-last30days-skill]] [[ossu-computer-science]] [[graphify-labs-graphify]] [[prisma-prisma]]
+[[browser-use-video-use]] [[hasaneyldrm-exercises-dataset]] [[angular-angular]] [[graphify-labs-graphify]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[image-gen]]
 

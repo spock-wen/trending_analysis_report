@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[openinterpreter-openinterpreter]] [[donnemartin-system-design-primer]] [[zeux-meshoptimizer]] [[shiyu-coder-kronos]] [[mvanhorn-last30days-skill]]
+[[uber-adr]] [[obra-superpowers]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[everyinc-compound-engineering-plugin]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

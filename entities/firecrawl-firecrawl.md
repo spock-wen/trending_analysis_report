@@ -35,7 +35,7 @@ The API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[abus-aikorea-voice-pro]] [[usekaneo-kaneo]] [[mvanhorn-last30days-skill]] [[jamiepine-voicebox]] [[geo-tp-esp32-bit-pirate]]
+[[everyinc-compound-engineering-plugin]] [[browser-use-video-use]] [[angular-angular]] [[tencentcloud-tencentdb-agent-memory]] [[usekaneo-kaneo]]
 
 **所属领域**: [[web]]
 

@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[jamiepine-voicebox]]
+[[obra-superpowers]] [[lyogavin-airllm]] [[everyinc-compound-engineering-plugin]] [[browser-use-video-use]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

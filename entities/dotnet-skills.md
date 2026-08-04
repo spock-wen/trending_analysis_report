@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[jellyfin-jellyfin]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[lyogavin-airllm]] [[jamiepine-voicebox]]
+[[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]] [[browser-use-video-use]] [[jellyfin-jellyfin]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[abus-aikorea-voice-pro]] [[paperswithbacktest-awesome-systematic-trading]] [[usekaneo-kaneo]] [[donnemartin-system-design-primer]] [[mvanhorn-last30days-skill]]
+[[everyinc-compound-engineering-plugin]] [[browser-use-video-use]] [[angular-angular]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[web]] [[education]]
 

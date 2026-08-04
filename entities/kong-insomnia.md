@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[abus-aikorea-voice-pro]] [[usekaneo-kaneo]] [[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]]
+[[everyinc-compound-engineering-plugin]] [[browser-use-video-use]] [[obra-superpowers]] [[esengine-deepseek-reasonix]] [[angular-angular]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[donnemartin-system-design-primer]] [[livekit-agents]] [[shiyu-coder-kronos]] [[huggingface-speech-to-speech]] [[alishahryar1-free-claude-code]]
+[[uber-adr]] [[obra-superpowers]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[esengine-deepseek-reasonix]]
 
 **所属领域**: [[cli]] [[audio]]
 

@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[amnezia-vpn-amnezia-client]] [[hyprwm-hyprland]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[esengine-deepseek-reasonix]]
+[[obra-superpowers]] [[alishahryar1-free-claude-code]] [[esengine-deepseek-reasonix]] [[amnezia-vpn-amnezia-client]] [[ocornut-imgui]]
 
 **所属领域**: [[cli]]
 

@@ -34,5 +34,5 @@ A YAML parser and emitter in C++
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[amnezia-vpn-amnezia-client]] [[hyprwm-hyprland]] [[ocornut-imgui]]
+[[geo-tp-esp32-bit-pirate]] [[gabime-spdlog]] [[amnezia-vpn-amnezia-client]] [[ocornut-imgui]]
 

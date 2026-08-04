@@ -36,7 +36,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[pumpkin-mc-pumpkin]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[firecrawl-pdf-inspector]] [[lyogavin-airllm]]
+[[firecrawl-pdf-inspector]] [[obra-superpowers]] [[denoland-deno]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

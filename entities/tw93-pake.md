@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[abus-aikorea-voice-pro]] [[pumpkin-mc-pumpkin]] [[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]]
+[[firecrawl-pdf-inspector]] [[browser-use-video-use]] [[denoland-deno]] [[obra-superpowers]] [[angular-angular]]
 
 **所属领域**: [[web]] [[cli]]
 

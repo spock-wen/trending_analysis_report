@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[abus-aikorea-voice-pro]] [[usekaneo-kaneo]] [[livekit-agents]] [[mvanhorn-last30days-skill]] [[huggingface-speech-to-speech]]
+[[everyinc-compound-engineering-plugin]] [[obra-superpowers]] [[lyogavin-airllm]] [[browser-use-video-use]] [[angular-angular]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

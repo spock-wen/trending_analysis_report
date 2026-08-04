@@ -37,7 +37,7 @@ Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture cod
 
 ## 相关项目
 
-[[yorukot-superfile]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[esengine-deepseek-reasonix]] [[github-gh-stack]]
+[[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]] [[esengine-deepseek-reasonix]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -37,5 +37,5 @@ Empowering everyone to host fast and efficient Minecraft servers.
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[1jehuang-jcode]] [[agavra-tuicr]]
+[[agavra-tuicr]] [[firecrawl-pdf-inspector]] [[denoland-deno]] [[1jehuang-jcode]]
 

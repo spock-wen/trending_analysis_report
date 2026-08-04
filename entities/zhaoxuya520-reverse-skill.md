@@ -1,20 +1,20 @@
 ---
 title: "zhaoxuya520/reverse-skill"
 created: 2026-08-01
-updated: 2026-08-04
-last_active: 2026-08-04
+updated: 2026-08-05
+last_active: 2026-08-05
 type: framework
 tags: [ai-agent, cli, security, science, rising]
-sources: [raw/trending/2026-08-04.json]
+sources: [raw/trending/2026-08-05.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 4
+consecutive_days: 5
 first_trending: 2026-08-01
-last_trending: 2026-08-04
+last_trending: 2026-08-05
 peak_rank: 1
-total_stars: 15635
+total_stars: 17789
 language: "PowerShell"
 ---
 
@@ -23,13 +23,14 @@ language: "PowerShell"
 Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 
 - 语言: PowerShell
-- 上榜次数: 4 次
-- 连续上榜: 4 天
+- 上榜次数: 5 次
+- 连续上榜: 5 天
 - 最高排名: #1
 - 链接: [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
 
 ## 上榜历史
 
+  - 2026-08-05: #2, +2310⭐
   - 2026-08-04: #2, +2442⭐
   - 2026-08-03: #6, +1145⭐
   - 2026-08-02: #4, +1360⭐
@@ -37,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[amnezia-vpn-amnezia-client]] [[paperswithbacktest-awesome-systematic-trading]] [[mvanhorn-last30days-skill]] [[raphire-win11debloat]] [[automattic-harper]]
+[[uber-adr]] [[everyinc-compound-engineering-plugin]] [[obra-superpowers]] [[lyogavin-airllm]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

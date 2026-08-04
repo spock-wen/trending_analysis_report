@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[abus-aikorea-voice-pro]] [[mvanhorn-last30days-skill]] [[ossu-computer-science]] [[apache-cassandra]] [[trycua-cua]]
+[[uber-adr]] [[browser-use-video-use]] [[hasaneyldrm-exercises-dataset]] [[angular-angular]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[devops]]
 

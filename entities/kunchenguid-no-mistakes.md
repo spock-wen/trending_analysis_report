@@ -35,5 +35,5 @@ git push no-mistakes
 
 ## 相关项目
 
-[[esengine-deepseek-reasonix]] [[yorukot-superfile]] [[alibaba-open-code-review]] [[github-gh-stack]]
+[[yorukot-superfile]] [[alibaba-open-code-review]] [[github-gh-stack]] [[esengine-deepseek-reasonix]]
 

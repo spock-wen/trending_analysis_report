@@ -38,5 +38,5 @@ Desktop app to manage markdown knowledge bases
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[different-ai-openwork]] [[usekaneo-kaneo]] [[tencentcloud-tencentdb-agent-memory]]
+[[cypress-io-cypress]] [[everyinc-compound-engineering-plugin]] [[usekaneo-kaneo]] [[tencentcloud-tencentdb-agent-memory]]
 

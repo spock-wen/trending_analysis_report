@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[zeux-meshoptimizer]] [[pumpkin-mc-pumpkin]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[firecrawl-pdf-inspector]]
+[[uber-adr]] [[firecrawl-pdf-inspector]] [[obra-superpowers]] [[denoland-deno]] [[everyinc-compound-engineering-plugin]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

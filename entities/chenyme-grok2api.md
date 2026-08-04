@@ -34,7 +34,7 @@ language: "Go"
 
 ## 相关项目
 
-[[yorukot-superfile]] [[abus-aikorea-voice-pro]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]]
+[[obra-superpowers]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[esengine-deepseek-reasonix]] [[angular-angular]]
 
 **所属领域**: [[web]] [[cli]]
 

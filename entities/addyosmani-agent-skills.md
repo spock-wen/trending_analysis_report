@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[whiskeysockets-baileys]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[nomadamas-k-skill]] [[pbakaus-impeccable]]
+[[nomadamas-k-skill]] [[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]]
 

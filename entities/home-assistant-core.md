@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[amnezia-vpn-amnezia-client]] [[donnemartin-system-design-primer]] [[shiyu-coder-kronos]] [[automattic-harper]] [[alishahryar1-free-claude-code]]
+[[uber-adr]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[amnezia-vpn-amnezia-client]] [[livekit-agents]]
 
 **所属领域**: [[security]]
 

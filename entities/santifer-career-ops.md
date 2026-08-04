@@ -37,7 +37,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[whiskeysockets-baileys]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[nomadamas-k-skill]]
+[[nomadamas-k-skill]] [[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

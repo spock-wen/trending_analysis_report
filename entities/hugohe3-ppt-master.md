@@ -34,7 +34,7 @@ AI generates a real, editable PowerPoint from any document — native shapes & a
 
 ## 相关项目
 
-[[openinterpreter-openinterpreter]] [[donnemartin-system-design-primer]] [[zeux-meshoptimizer]] [[shiyu-coder-kronos]] [[livekit-agents]]
+[[uber-adr]] [[obra-superpowers]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[everyinc-compound-engineering-plugin]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[image-gen]] [[audio]]
 

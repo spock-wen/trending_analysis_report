@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[esengine-deepseek-reasonix]] [[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]]
+[[obra-superpowers]] [[alishahryar1-free-claude-code]] [[esengine-deepseek-reasonix]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[cli]]
 

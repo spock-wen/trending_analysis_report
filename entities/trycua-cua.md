@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[abus-aikorea-voice-pro]] [[alibaba-open-code-review]] [[ossu-computer-science]] [[mvanhorn-last30days-skill]] [[graphify-labs-graphify]]
+[[everyinc-compound-engineering-plugin]] [[obra-superpowers]] [[lyogavin-airllm]] [[hasaneyldrm-exercises-dataset]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

@@ -34,7 +34,7 @@ The easiest, most secure way to use WireGuard and 2FA.
 
 ## 相关项目
 
-[[yorukot-superfile]] [[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[esengine-deepseek-reasonix]]
+[[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]] [[esengine-deepseek-reasonix]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]]
 

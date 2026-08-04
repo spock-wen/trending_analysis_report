@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[abus-aikorea-voice-pro]] [[paperswithbacktest-awesome-systematic-trading]] [[ossu-computer-science]] [[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]]
+[[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]] [[hasaneyldrm-exercises-dataset]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

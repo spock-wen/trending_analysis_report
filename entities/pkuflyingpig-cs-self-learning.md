@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[abus-aikorea-voice-pro]] [[paperswithbacktest-awesome-systematic-trading]] [[donnemartin-system-design-primer]] [[mvanhorn-last30days-skill]] [[ossu-computer-science]]
+[[browser-use-video-use]] [[hasaneyldrm-exercises-dataset]] [[angular-angular]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[web]] [[education]]
 

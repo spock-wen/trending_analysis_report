@@ -38,7 +38,7 @@ agent multiplexer that lives in your terminal.
 
 ## 相关项目
 
-[[pumpkin-mc-pumpkin]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[esengine-deepseek-reasonix]] [[firecrawl-pdf-inspector]]
+[[firecrawl-pdf-inspector]] [[obra-superpowers]] [[denoland-deno]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

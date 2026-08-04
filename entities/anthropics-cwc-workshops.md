@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[openinterpreter-openinterpreter]] [[usekaneo-kaneo]] [[zeux-meshoptimizer]] [[jamiepine-voicebox]] [[obra-superpowers]]
+[[uber-adr]] [[everyinc-compound-engineering-plugin]] [[obra-superpowers]] [[openinterpreter-openinterpreter]] [[tencentcloud-tencentdb-agent-memory]]
 
 **所属领域**: [[erp]]
 

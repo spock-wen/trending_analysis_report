@@ -34,5 +34,5 @@ GitHub Stacked PRs
 
 ## 相关项目
 
-[[esengine-deepseek-reasonix]] [[yorukot-superfile]] [[alibaba-open-code-review]]
+[[yorukot-superfile]] [[alibaba-open-code-review]] [[esengine-deepseek-reasonix]]
 

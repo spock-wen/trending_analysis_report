@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[abus-aikorea-voice-pro]] [[mvanhorn-last30days-skill]] [[mattpocock-skills]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]]
+[[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]] [[browser-use-video-use]] [[angular-angular]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

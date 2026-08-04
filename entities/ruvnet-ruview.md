@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[pumpkin-mc-pumpkin]] [[apache-cassandra]] [[firecrawl-pdf-inspector]] [[agavra-tuicr]] [[koala73-worldmonitor]]
+[[uber-adr]] [[firecrawl-pdf-inspector]] [[ansible-ansible]] [[denoland-deno]] [[1jehuang-jcode]]
 
 **所属领域**: [[devops]]
 

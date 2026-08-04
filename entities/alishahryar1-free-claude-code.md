@@ -38,7 +38,7 @@ Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone li
 
 ## 相关项目
 
-[[donnemartin-system-design-primer]] [[livekit-agents]] [[shiyu-coder-kronos]] [[huggingface-speech-to-speech]] [[panniantong-agent-reach]]
+[[uber-adr]] [[obra-superpowers]] [[browser-use-video-use]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

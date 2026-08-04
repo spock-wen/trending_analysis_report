@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[esengine-deepseek-reasonix]] [[github-gh-stack]]
+[[obra-superpowers]] [[alishahryar1-free-claude-code]] [[esengine-deepseek-reasonix]] [[alibaba-open-code-review]] [[github-gh-stack]]
 
 **所属领域**: [[cli]]
 

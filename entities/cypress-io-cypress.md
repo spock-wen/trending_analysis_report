@@ -1,20 +1,20 @@
 ---
 title: "cypress-io/cypress"
 created: 2026-06-15
-updated: 2026-07-12
-last_active: 2026-07-12
+updated: 2026-08-05
+last_active: 2026-08-05
 type: tool
 tags: [typescript, web]
-sources: [raw/trending/2026-07-12.json]
+sources: [raw/trending/2026-08-05.json]
 confidence: high
-trending_count_daily: 3
+trending_count_daily: 4
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-15
-last_trending: 2026-07-12
+last_trending: 2026-08-05
 peak_rank: 7
-total_stars: 50610
+total_stars: 50773
 language: "TypeScript"
 ---
 
@@ -23,20 +23,21 @@ language: "TypeScript"
 Fast, easy and reliable testing for anything that runs in a browser.
 
 - 语言: TypeScript
-- 上榜次数: 3 次
+- 上榜次数: 4 次
 - 连续上榜: 1 天
 - 最高排名: #7
 - 链接: [cypress-io/cypress](https://github.com/cypress-io/cypress)
 
 ## 上榜历史
 
+  - 2026-08-05: #7, +6⭐
   - 2026-07-12: #14, +43⭐
   - 2026-06-17: #7, +11⭐
   - 2026-06-15: #8, +121⭐
 
 ## 相关项目
 
-[[abus-aikorea-voice-pro]] [[usekaneo-kaneo]] [[mvanhorn-last30days-skill]] [[jamiepine-voicebox]] [[geo-tp-esp32-bit-pirate]]
+[[everyinc-compound-engineering-plugin]] [[browser-use-video-use]] [[angular-angular]] [[tencentcloud-tencentdb-agent-memory]] [[usekaneo-kaneo]]
 
 **所属领域**: [[web]]
 

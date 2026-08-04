@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[github-copilot-sdk]] [[jenkinsci-jenkins]] [[panniantong-agent-reach]]
+[[everyinc-compound-engineering-plugin]] [[obra-superpowers]] [[lyogavin-airllm]] [[browser-use-video-use]] [[esengine-deepseek-reasonix]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

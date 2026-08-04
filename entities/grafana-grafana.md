@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[ansible-ansible]] [[usekaneo-kaneo]] [[alibaba-open-code-review]] [[ruvnet-ruview]] [[jamiepine-voicebox]]
+[[uber-adr]] [[everyinc-compound-engineering-plugin]] [[corebunch-instatic]] [[alibaba-open-code-review]] [[apache-cassandra]]
 
 **所属领域**: [[data]] [[devops]]
 

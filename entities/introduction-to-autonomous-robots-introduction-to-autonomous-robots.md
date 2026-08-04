@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]]
+[[everyinc-compound-engineering-plugin]] [[obra-superpowers]] [[lyogavin-airllm]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]]
 

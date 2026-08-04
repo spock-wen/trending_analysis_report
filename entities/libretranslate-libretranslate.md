@@ -34,5 +34,5 @@ Free and Open Source Machine Translation API. Self-hosted, offline capable and e
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[donnemartin-system-design-primer]] [[alishahryar1-free-claude-code]] [[shiyu-coder-kronos]]
+[[uber-adr]] [[livekit-agents]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]]
 

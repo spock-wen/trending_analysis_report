@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[permissionlesstech-bitchat]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[lyogavin-airllm]] [[steipete-codexbar]]
+[[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]] [[browser-use-video-use]] [[steipete-codexbar]]
 
 **所属领域**: [[ai-agent]]
 

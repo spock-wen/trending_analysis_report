@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[whiskeysockets-baileys]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[pbakaus-impeccable]] [[lyogavin-airllm]]
+[[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]] [[browser-use-video-use]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

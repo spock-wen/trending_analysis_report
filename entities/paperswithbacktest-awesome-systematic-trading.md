@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[donnemartin-system-design-primer]] [[shiyu-coder-kronos]] [[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]]
+[[uber-adr]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[mvanhorn-last30days-skill]] [[bytedance-deer-flow]]
 
 **所属领域**: [[education]] [[science]]
 

@@ -34,7 +34,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]]
+[[everyinc-compound-engineering-plugin]] [[obra-superpowers]] [[lyogavin-airllm]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]]
 

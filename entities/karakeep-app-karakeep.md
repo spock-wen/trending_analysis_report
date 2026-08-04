@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[usekaneo-kaneo]] [[graphify-labs-graphify]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[prisma-prisma]]
+[[everyinc-compound-engineering-plugin]] [[obra-superpowers]] [[lyogavin-airllm]] [[browser-use-video-use]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

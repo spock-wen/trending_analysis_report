@@ -36,5 +36,5 @@ CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
 ## 相关项目
 
-[[esengine-deepseek-reasonix]] [[yorukot-superfile]] [[alibaba-open-code-review]] [[github-gh-stack]]
+[[yorukot-superfile]] [[alibaba-open-code-review]] [[github-gh-stack]] [[esengine-deepseek-reasonix]]
 

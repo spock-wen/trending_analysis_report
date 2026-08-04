@@ -35,5 +35,5 @@ A fast, helpful, and open-source document parser
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[1jehuang-jcode]] [[pumpkin-mc-pumpkin]] [[agavra-tuicr]]
+[[agavra-tuicr]] [[firecrawl-pdf-inspector]] [[denoland-deno]] [[1jehuang-jcode]]
 

@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[amnezia-vpn-amnezia-client]] [[usekaneo-kaneo]] [[automattic-harper]] [[jamiepine-voicebox]] [[affaan-m-ecc]]
+[[uber-adr]] [[everyinc-compound-engineering-plugin]] [[amnezia-vpn-amnezia-client]] [[tencentcloud-tencentdb-agent-memory]] [[usekaneo-kaneo]]
 
 **所属领域**: [[security]]
 

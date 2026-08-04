@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[abus-aikorea-voice-pro]] [[usekaneo-kaneo]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[apache-cassandra]]
+[[everyinc-compound-engineering-plugin]] [[browser-use-video-use]] [[angular-angular]] [[corebunch-instatic]] [[alibaba-open-code-review]]
 
 **所属领域**: [[web]] [[data]]
 

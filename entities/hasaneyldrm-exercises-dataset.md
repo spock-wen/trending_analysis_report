@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[abus-aikorea-voice-pro]] [[alibaba-open-code-review]] [[ossu-computer-science]] [[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]]
+[[everyinc-compound-engineering-plugin]] [[obra-superpowers]] [[lyogavin-airllm]] [[browser-use-video-use]] [[angular-angular]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

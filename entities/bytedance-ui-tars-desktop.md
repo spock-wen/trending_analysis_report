@@ -34,7 +34,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[usekaneo-kaneo]] [[ruvnet-ruview]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[apache-cassandra]]
+[[uber-adr]] [[everyinc-compound-engineering-plugin]] [[obra-superpowers]] [[lyogavin-airllm]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

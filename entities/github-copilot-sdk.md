@@ -38,7 +38,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[jenkinsci-jenkins]] [[lyogavin-airllm]] [[ottermind-chat2db]]
+[[everyinc-compound-engineering-plugin]] [[obra-superpowers]] [[lyogavin-airllm]] [[browser-use-video-use]] [[ottermind-chat2db]]
 
 **所属领域**: [[ai-agent]]
 

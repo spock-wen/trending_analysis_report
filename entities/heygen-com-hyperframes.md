@@ -34,7 +34,7 @@ Write HTML. Render video. Built for agents.
 
 ## 相关项目
 
-[[abus-aikorea-voice-pro]] [[usekaneo-kaneo]] [[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]]
+[[everyinc-compound-engineering-plugin]] [[obra-superpowers]] [[lyogavin-airllm]] [[browser-use-video-use]] [[angular-angular]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

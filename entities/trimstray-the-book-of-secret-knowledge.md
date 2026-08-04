@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[abus-aikorea-voice-pro]] [[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[esengine-deepseek-reasonix]]
+[[obra-superpowers]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[esengine-deepseek-reasonix]] [[angular-angular]]
 
 **所属领域**: [[web]] [[cli]]
 

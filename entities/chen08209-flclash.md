@@ -35,7 +35,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[esengine-deepseek-reasonix]] [[flutter-flutter]] [[zhaoxuya520-reverse-skill]]
+[[obra-superpowers]] [[alishahryar1-free-claude-code]] [[esengine-deepseek-reasonix]] [[zhaoxuya520-reverse-skill]] [[flutter-flutter]]
 
 **所属领域**: [[cli]]
 

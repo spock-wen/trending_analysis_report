@@ -35,7 +35,7 @@ Fullstack app framework for web, desktop, and mobile.
 
 ## 相关项目
 
-[[abus-aikorea-voice-pro]] [[pumpkin-mc-pumpkin]] [[mvanhorn-last30days-skill]] [[firecrawl-pdf-inspector]] [[agavra-tuicr]]
+[[firecrawl-pdf-inspector]] [[browser-use-video-use]] [[denoland-deno]] [[angular-angular]] [[1jehuang-jcode]]
 
 **所属领域**: [[web]]
 

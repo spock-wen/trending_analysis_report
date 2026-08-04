@@ -36,7 +36,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[abus-aikorea-voice-pro]] [[donnemartin-system-design-primer]] [[mvanhorn-last30days-skill]] [[shiyu-coder-kronos]] [[alishahryar1-free-claude-code]]
+[[uber-adr]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[angular-angular]] [[livekit-agents]]
 
 **所属领域**: [[web]]
 

@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[paperswithbacktest-awesome-systematic-trading]] [[donnemartin-system-design-primer]] [[openinterpreter-openinterpreter]] [[zeux-meshoptimizer]] [[alishahryar1-free-claude-code]]
+[[uber-adr]] [[obra-superpowers]] [[lyogavin-airllm]] [[everyinc-compound-engineering-plugin]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

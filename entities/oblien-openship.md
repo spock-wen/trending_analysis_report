@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[usekaneo-kaneo]] [[ruvnet-ruview]] [[apache-cassandra]] [[jamiepine-voicebox]] [[koala73-worldmonitor]]
+[[uber-adr]] [[everyinc-compound-engineering-plugin]] [[apache-cassandra]] [[tencentcloud-tencentdb-agent-memory]] [[usekaneo-kaneo]]
 
 **所属领域**: [[devops]]
 

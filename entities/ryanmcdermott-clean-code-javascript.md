@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[nomadamas-k-skill]] [[pbakaus-impeccable]] [[whiskeysockets-baileys]] [[affaan-m-ecc]]
+[[nomadamas-k-skill]] [[whiskeysockets-baileys]] [[webpack-webpack]] [[affaan-m-ecc]]
 

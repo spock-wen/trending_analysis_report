@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[usekaneo-kaneo]] [[alibaba-open-code-review]] [[graphify-labs-graphify]] [[trycua-cua]] [[jamiepine-voicebox]]
+[[everyinc-compound-engineering-plugin]] [[graphify-labs-graphify]] [[corebunch-instatic]] [[alibaba-open-code-review]] [[apache-cassandra]]
 
 **所属领域**: [[data]] [[image-gen]]
 

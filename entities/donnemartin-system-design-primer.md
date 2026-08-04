@@ -34,7 +34,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[paperswithbacktest-awesome-systematic-trading]] [[shiyu-coder-kronos]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[microsoft-ai-for-beginners]]
+[[uber-adr]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[microsoft-ai-for-beginners]] [[livekit-agents]]
 
 **所属领域**: [[education]]
 

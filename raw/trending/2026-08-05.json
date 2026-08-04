@@ -1,0 +1,170 @@
+{
+  "date": "2026-08-05",
+  "scraped_at": "2026-08-05T07:02:11.175906",
+  "period": "daily",
+  "count": 18,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "stars_today": 1138,
+      "total_stars": 13491,
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+    },
+    {
+      "rank": 2,
+      "repo": "zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "stars_today": 2310,
+      "total_stars": 17789,
+      "url": "https://github.com/zhaoxuya520/reverse-skill"
+    },
+    {
+      "rank": 3,
+      "repo": "firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "stars_today": 2524,
+      "total_stars": 9929,
+      "url": "https://github.com/firecrawl/pdf-inspector"
+    },
+    {
+      "rank": 4,
+      "repo": "uber/ADR",
+      "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+      "language": "Python",
+      "stars_today": 140,
+      "total_stars": 662,
+      "url": "https://github.com/uber/ADR"
+    },
+    {
+      "rank": 5,
+      "repo": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": 777,
+      "total_stars": 266441,
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "rank": 6,
+      "repo": "microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI",
+      "language": "Jupyter Notebook",
+      "stars_today": 784,
+      "total_stars": 116228,
+      "url": "https://github.com/microsoft/generative-ai-for-beginners"
+    },
+    {
+      "rank": 7,
+      "repo": "cypress-io/cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "language": "TypeScript",
+      "stars_today": 6,
+      "total_stars": 50773,
+      "url": "https://github.com/cypress-io/cypress"
+    },
+    {
+      "rank": 8,
+      "repo": "lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars_today": 1716,
+      "total_stars": 28319,
+      "url": "https://github.com/lyogavin/airllm"
+    },
+    {
+      "rank": 9,
+      "repo": "webpack/webpack",
+      "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+      "language": "JavaScript",
+      "stars_today": 8,
+      "total_stars": 65922,
+      "url": "https://github.com/webpack/webpack"
+    },
+    {
+      "rank": 10,
+      "repo": "gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars_today": 9,
+      "total_stars": 29368,
+      "url": "https://github.com/gabime/spdlog"
+    },
+    {
+      "rank": 11,
+      "repo": "denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "language": "Rust",
+      "stars_today": 27,
+      "total_stars": 108049,
+      "url": "https://github.com/denoland/deno"
+    },
+    {
+      "rank": 12,
+      "repo": "usekaneo/kaneo",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "language": "TypeScript",
+      "stars_today": 565,
+      "total_stars": 7267,
+      "url": "https://github.com/usekaneo/kaneo"
+    },
+    {
+      "rank": 13,
+      "repo": "livekit/agents",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "language": "Python",
+      "stars_today": 432,
+      "total_stars": 12374,
+      "url": "https://github.com/livekit/agents"
+    },
+    {
+      "rank": 14,
+      "repo": "angular/angular",
+      "description": "Deliver web apps with confidence 🚀",
+      "language": "TypeScript",
+      "stars_today": 8,
+      "total_stars": 100813,
+      "url": "https://github.com/angular/angular"
+    },
+    {
+      "rank": 15,
+      "repo": "tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "language": "TypeScript",
+      "stars_today": 30,
+      "total_stars": 96449,
+      "url": "https://github.com/tailwindlabs/tailwindcss"
+    },
+    {
+      "rank": 16,
+      "repo": "browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars_today": 306,
+      "total_stars": 19285,
+      "url": "https://github.com/browser-use/video-use"
+    },
+    {
+      "rank": 17,
+      "repo": "esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "language": "Go",
+      "stars_today": 924,
+      "total_stars": 30742,
+      "url": "https://github.com/esengine/DeepSeek-Reasonix"
+    },
+    {
+      "rank": 18,
+      "repo": "EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "stars_today": 33,
+      "total_stars": 23854,
+      "url": "https://github.com/EveryInc/compound-engineering-plugin"
+    }
+  ]
+}

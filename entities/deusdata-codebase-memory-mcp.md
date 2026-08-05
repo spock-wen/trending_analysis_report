@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[veracrypt-veracrypt]] [[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]] [[browser-use-video-use]]
+[[obra-superpowers]] [[apache-cassandra]] [[antirez-ds4]] [[harbourmasters-lighthouse]] [[opengeos-geolibre]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

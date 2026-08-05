@@ -37,7 +37,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[uber-adr]] [[obra-superpowers]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[everyinc-compound-engineering-plugin]]
+[[obra-superpowers]] [[browser-use-video-use]] [[uber-adr]] [[donnemartin-system-design-primer]] [[webpack-webpack]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

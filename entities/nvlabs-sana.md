@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[uber-adr]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[graphify-labs-graphify]] [[livekit-agents]]
+[[uber-adr]] [[donnemartin-system-design-primer]] [[graphify-labs-graphify]] [[prisma-prisma]] [[huangruiteng-loopx]]
 
 **所属领域**: [[image-gen]]
 

@@ -38,7 +38,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[uber-adr]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[graphify-labs-graphify]] [[livekit-agents]]
+[[livekit-agents]] [[uber-adr]] [[donnemartin-system-design-primer]] [[alishahryar1-free-claude-code]] [[graphify-labs-graphify]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

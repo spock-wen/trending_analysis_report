@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[obra-superpowers]] [[lyogavin-airllm]] [[browser-use-video-use]] [[angular-angular]]
+[[obra-superpowers]] [[browser-use-video-use]] [[apache-cassandra]] [[pkuflyingpig-cs-self-learning]] [[webpack-webpack]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

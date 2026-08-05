@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[uber-adr]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[mvanhorn-last30days-skill]] [[bytedance-deer-flow]]
+[[zhaoxuya520-reverse-skill]] [[bytedance-deer-flow]] [[uber-adr]] [[donnemartin-system-design-primer]] [[paperswithbacktest-awesome-systematic-trading]]
 
 **所属领域**: [[science]]
 

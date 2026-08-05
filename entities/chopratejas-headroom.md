@@ -38,7 +38,7 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60
 
 ## 相关项目
 
-[[uber-adr]] [[obra-superpowers]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[everyinc-compound-engineering-plugin]]
+[[obra-superpowers]] [[uber-adr]] [[donnemartin-system-design-primer]] [[lyogavin-airllm]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

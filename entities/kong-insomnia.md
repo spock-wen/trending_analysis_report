@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[browser-use-video-use]] [[obra-superpowers]] [[esengine-deepseek-reasonix]] [[angular-angular]]
+[[cloudflare-computer]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[esengine-deepseek-reasonix]] [[browser-use-video-use]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]] [[browser-use-video-use]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[affaan-m-ecc]] [[lyogavin-airllm]] [[addyosmani-agent-skills]] [[webpack-webpack]]
 
 **所属领域**: [[ai-agent]]
 

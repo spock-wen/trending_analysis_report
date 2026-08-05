@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[uber-adr]] [[obra-superpowers]] [[alishahryar1-free-claude-code]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]]
+[[obra-superpowers]] [[uber-adr]] [[donnemartin-system-design-primer]] [[webpack-webpack]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

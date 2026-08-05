@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[uber-adr]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[amnezia-vpn-amnezia-client]] [[livekit-agents]]
+[[zhaoxuya520-reverse-skill]] [[uber-adr]] [[donnemartin-system-design-primer]] [[amnezia-vpn-amnezia-client]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

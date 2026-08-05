@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]] [[esengine-deepseek-reasonix]] [[browser-use-video-use]]
+[[esengine-deepseek-reasonix]] [[obra-superpowers]] [[apache-cassandra]] [[opengeos-geolibre]] [[yorukot-superfile]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

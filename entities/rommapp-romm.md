@@ -36,5 +36,5 @@ A beautiful, powerful, self-hosted rom manager and player.
 
 ## 相关项目
 
-[[uber-adr]] [[livekit-agents]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]]
+[[roboflow-supervision]] [[uber-adr]] [[donnemartin-system-design-primer]] [[huangruiteng-loopx]]
 

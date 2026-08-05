@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[uber-adr]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[mvanhorn-last30days-skill]] [[bytedance-deer-flow]]
+[[zhaoxuya520-reverse-skill]] [[bytedance-deer-flow]] [[uber-adr]] [[donnemartin-system-design-primer]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[education]] [[science]]
 

@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[uber-adr]] [[firecrawl-pdf-inspector]] [[obra-superpowers]] [[denoland-deno]] [[everyinc-compound-engineering-plugin]]
+[[agavra-tuicr]] [[obra-superpowers]] [[anthropics-cwc-workshops]] [[uber-adr]] [[1jehuang-jcode]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

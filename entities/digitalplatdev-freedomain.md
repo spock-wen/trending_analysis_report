@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]] [[hasaneyldrm-exercises-dataset]] [[browser-use-video-use]]
+[[obra-superpowers]] [[browser-use-video-use]] [[pkuflyingpig-cs-self-learning]] [[webpack-webpack]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

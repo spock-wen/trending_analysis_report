@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[obra-superpowers]] [[denoland-deno]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]]
+[[agavra-tuicr]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[esengine-deepseek-reasonix]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

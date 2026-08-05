@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[browser-use-video-use]] [[esengine-deepseek-reasonix]] [[angular-angular]] [[alibaba-open-code-review]] [[yorukot-superfile]]
+[[esengine-deepseek-reasonix]] [[browser-use-video-use]] [[webpack-webpack]] [[yorukot-superfile]] [[cypress-io-cypress]]
 
 **所属领域**: [[web]]
 

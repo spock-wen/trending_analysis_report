@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[uber-adr]] [[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]] [[esengine-deepseek-reasonix]]
+[[zhaoxuya520-reverse-skill]] [[esengine-deepseek-reasonix]] [[obra-superpowers]] [[uber-adr]] [[amnezia-vpn-amnezia-client]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

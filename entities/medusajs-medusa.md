@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[uber-adr]] [[everyinc-compound-engineering-plugin]] [[obra-superpowers]] [[openinterpreter-openinterpreter]] [[anthropics-cwc-workshops]]
+[[cloudflare-computer]] [[openinterpreter-openinterpreter]] [[obra-superpowers]] [[anthropics-cwc-workshops]] [[uber-adr]]
 
 **所属领域**: [[erp]]
 

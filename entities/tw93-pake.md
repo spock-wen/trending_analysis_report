@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[browser-use-video-use]] [[denoland-deno]] [[obra-superpowers]] [[angular-angular]]
+[[agavra-tuicr]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[esengine-deepseek-reasonix]] [[browser-use-video-use]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]] [[browser-use-video-use]] [[ottermind-chat2db]]
+[[jenkinsci-jenkins]] [[github-copilot-sdk]] [[obra-superpowers]] [[apache-cassandra]] [[opengeos-geolibre]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

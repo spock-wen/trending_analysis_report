@@ -37,7 +37,7 @@ OfficeCLI is the first and best Office suite purpose-built for AI agents to read
 
 ## 相关项目
 
-[[uber-adr]] [[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]] [[browser-use-video-use]]
+[[zhaoxuya520-reverse-skill]] [[openinterpreter-openinterpreter]] [[obra-superpowers]] [[jellyfin-jellyfin]] [[esengine-deepseek-reasonix]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

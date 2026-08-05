@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[uber-adr]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[angular-angular]] [[livekit-agents]]
+[[browser-use-video-use]] [[uber-adr]] [[donnemartin-system-design-primer]] [[webpack-webpack]] [[cypress-io-cypress]]
 
 **所属领域**: [[web]]
 

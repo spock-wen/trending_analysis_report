@@ -34,7 +34,7 @@ language: "Go"
 
 ## 相关项目
 
-[[obra-superpowers]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[esengine-deepseek-reasonix]] [[angular-angular]]
+[[zhaoxuya520-reverse-skill]] [[esengine-deepseek-reasonix]] [[obra-superpowers]] [[browser-use-video-use]] [[webpack-webpack]]
 
 **所属领域**: [[web]] [[cli]]
 

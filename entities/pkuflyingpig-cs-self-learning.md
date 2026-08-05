@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[browser-use-video-use]] [[hasaneyldrm-exercises-dataset]] [[angular-angular]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]]
+[[browser-use-video-use]] [[donnemartin-system-design-primer]] [[webpack-webpack]] [[paperswithbacktest-awesome-systematic-trading]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[web]] [[education]]
 

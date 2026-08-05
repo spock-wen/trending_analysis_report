@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[uber-adr]] [[everyinc-compound-engineering-plugin]] [[obra-superpowers]] [[lyogavin-airllm]] [[browser-use-video-use]]
+[[cloudflare-computer]] [[obra-superpowers]] [[apache-cassandra]] [[uber-adr]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

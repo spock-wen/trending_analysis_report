@@ -37,7 +37,7 @@ Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture cod
 
 ## 相关项目
 
-[[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]] [[esengine-deepseek-reasonix]] [[browser-use-video-use]]
+[[esengine-deepseek-reasonix]] [[obra-superpowers]] [[apache-cassandra]] [[opengeos-geolibre]] [[yorukot-superfile]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

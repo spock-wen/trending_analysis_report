@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[nomadamas-k-skill]] [[uber-adr]] [[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]]
+[[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[nomadamas-k-skill]] [[bytedance-deer-flow]] [[uber-adr]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

@@ -1,7 +1,7 @@
 ---
 title: "devops"
 created: 2026-06-27
-updated: 2026-08-05
+updated: 2026-08-06
 type: concept
 tags: [devops]
 confidence: medium

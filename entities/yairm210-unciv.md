@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[pppscn-smsforwarder]] [[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]] [[browser-use-video-use]]
+[[obra-superpowers]] [[bannedbook-fanqiang]] [[andreknieriem-headunit-revived]] [[pppscn-smsforwarder]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

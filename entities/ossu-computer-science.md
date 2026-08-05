@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[browser-use-video-use]] [[hasaneyldrm-exercises-dataset]] [[angular-angular]] [[trycua-cua]] [[pkuflyingpig-cs-self-learning]]
+[[browser-use-video-use]] [[pkuflyingpig-cs-self-learning]] [[webpack-webpack]] [[hasaneyldrm-exercises-dataset]] [[trycua-cua]]
 
 **所属领域**: [[web]]
 

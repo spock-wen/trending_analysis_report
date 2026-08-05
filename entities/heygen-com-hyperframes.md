@@ -34,7 +34,7 @@ Write HTML. Render video. Built for agents.
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[obra-superpowers]] [[lyogavin-airllm]] [[browser-use-video-use]] [[angular-angular]]
+[[cloudflare-computer]] [[obra-superpowers]] [[browser-use-video-use]] [[webpack-webpack]] [[everyinc-compound-engineering-plugin]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

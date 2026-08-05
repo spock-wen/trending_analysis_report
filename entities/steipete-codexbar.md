@@ -36,7 +36,7 @@ Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 ## 相关项目
 
-[[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]] [[browser-use-video-use]] [[altic-dev-fluidvoice]]
+[[obra-superpowers]] [[lyogavin-airllm]] [[palmier-io-palmier-pro]] [[permissionlesstech-bitchat]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[obra-superpowers]] [[denoland-deno]] [[esengine-deepseek-reasonix]] [[alishahryar1-free-claude-code]]
+[[agavra-tuicr]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[esengine-deepseek-reasonix]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[cli]]
 

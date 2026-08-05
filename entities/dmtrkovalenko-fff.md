@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[obra-superpowers]] [[denoland-deno]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]]
+[[agavra-tuicr]] [[obra-superpowers]] [[1jehuang-jcode]] [[firecrawl-pdf-inspector]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

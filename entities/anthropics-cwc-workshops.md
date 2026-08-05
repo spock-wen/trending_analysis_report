@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[uber-adr]] [[everyinc-compound-engineering-plugin]] [[obra-superpowers]] [[openinterpreter-openinterpreter]] [[tencentcloud-tencentdb-agent-memory]]
+[[cloudflare-computer]] [[openinterpreter-openinterpreter]] [[obra-superpowers]] [[uber-adr]] [[everyinc-compound-engineering-plugin]]
 
 **所属领域**: [[erp]]
 

@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[graphify-labs-graphify]] [[corebunch-instatic]] [[alibaba-open-code-review]] [[apache-cassandra]]
+[[cloudflare-computer]] [[apache-cassandra]] [[webpack-webpack]] [[everyinc-compound-engineering-plugin]] [[graphify-labs-graphify]]
 
 **所属领域**: [[data]] [[image-gen]]
 

@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[tencentcloud-tencentdb-agent-memory]] [[donnemartin-system-design-primer]]
+[[cloudflare-computer]] [[donnemartin-system-design-primer]] [[paperswithbacktest-awesome-systematic-trading]] [[microsoft-generative-ai-for-beginners]] [[everyinc-compound-engineering-plugin]]
 
 **所属领域**: [[education]]
 

@@ -34,5 +34,5 @@ the full-stack Vue framework
 
 ## 相关项目
 
-[[cypress-io-cypress]] [[everyinc-compound-engineering-plugin]] [[usekaneo-kaneo]] [[tencentcloud-tencentdb-agent-memory]]
+[[cloudflare-computer]] [[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[tencentcloud-tencentdb-agent-memory]]
 

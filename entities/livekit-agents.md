@@ -35,7 +35,7 @@ A framework for building realtime voice AI agents 🤖🎙️📹
 
 ## 相关项目
 
-[[uber-adr]] [[everyinc-compound-engineering-plugin]] [[obra-superpowers]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]]
+[[obra-superpowers]] [[uber-adr]] [[donnemartin-system-design-primer]] [[alishahryar1-free-claude-code]] [[huggingface-speech-to-speech]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

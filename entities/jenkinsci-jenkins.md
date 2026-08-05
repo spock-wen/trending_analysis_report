@@ -36,5 +36,5 @@ Jenkins automation server
 
 ## 相关项目
 
-[[ottermind-chat2db]] [[github-copilot-sdk]] [[apache-cassandra]]
+[[github-copilot-sdk]] [[ottermind-chat2db]] [[apache-cassandra]]
 

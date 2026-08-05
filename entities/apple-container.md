@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]] [[browser-use-video-use]] [[steipete-codexbar]]
+[[obra-superpowers]] [[lyogavin-airllm]] [[palmier-io-palmier-pro]] [[permissionlesstech-bitchat]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

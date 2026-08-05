@@ -34,7 +34,7 @@ Deliver web apps with confidence 🚀
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[browser-use-video-use]] [[tencentcloud-tencentdb-agent-memory]] [[usekaneo-kaneo]] [[cypress-io-cypress]]
+[[cloudflare-computer]] [[browser-use-video-use]] [[webpack-webpack]] [[everyinc-compound-engineering-plugin]] [[cypress-io-cypress]]
 
 **所属领域**: [[web]]
 

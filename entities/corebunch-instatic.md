@@ -37,7 +37,7 @@ The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[obra-superpowers]] [[lyogavin-airllm]] [[browser-use-video-use]] [[angular-angular]]
+[[cloudflare-computer]] [[obra-superpowers]] [[browser-use-video-use]] [[apache-cassandra]] [[webpack-webpack]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

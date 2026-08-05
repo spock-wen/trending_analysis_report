@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[uber-adr]] [[everyinc-compound-engineering-plugin]] [[apache-cassandra]] [[tencentcloud-tencentdb-agent-memory]] [[usekaneo-kaneo]]
+[[cloudflare-computer]] [[apache-cassandra]] [[uber-adr]] [[ruvnet-ruview]] [[everyinc-compound-engineering-plugin]]
 
 **所属领域**: [[devops]]
 

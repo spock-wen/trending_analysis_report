@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[browser-use-video-use]] [[denoland-deno]] [[angular-angular]] [[1jehuang-jcode]]
+[[agavra-tuicr]] [[browser-use-video-use]] [[webpack-webpack]] [[1jehuang-jcode]] [[firecrawl-pdf-inspector]]
 
 **所属领域**: [[web]]
 

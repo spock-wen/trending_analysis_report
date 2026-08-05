@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[uber-adr]] [[everyinc-compound-engineering-plugin]] [[corebunch-instatic]] [[alibaba-open-code-review]] [[apache-cassandra]]
+[[cloudflare-computer]] [[apache-cassandra]] [[uber-adr]] [[ruvnet-ruview]] [[everyinc-compound-engineering-plugin]]
 
 **所属领域**: [[data]] [[devops]]
 

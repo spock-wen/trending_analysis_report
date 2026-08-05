@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[browser-use-video-use]] [[angular-angular]] [[corebunch-instatic]] [[alibaba-open-code-review]]
+[[cloudflare-computer]] [[browser-use-video-use]] [[apache-cassandra]] [[webpack-webpack]] [[everyinc-compound-engineering-plugin]]
 
 **所属领域**: [[web]] [[data]]
 

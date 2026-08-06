@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[apache-cassandra]] [[1jehuang-jcode]] [[corebunch-instatic]] [[alibaba-open-code-review]] [[opengeos-geolibre]]
+[[affaan-m-ecc]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[corebunch-instatic]] [[apache-cassandra]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

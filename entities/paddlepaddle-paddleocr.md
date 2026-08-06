@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[obra-superpowers]] [[apache-cassandra]] [[uber-adr]] [[donnemartin-system-design-primer]] [[graphify-labs-graphify]]
+[[webpack-webpack]] [[trycua-cua]] [[significant-gravitas-autogpt]] [[obra-superpowers]] [[corebunch-instatic]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

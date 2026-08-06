@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[cloudflare-computer]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[esengine-deepseek-reasonix]] [[donnemartin-system-design-primer]]
+[[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[paperswithbacktest-awesome-systematic-trading]] [[donnemartin-system-design-primer]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

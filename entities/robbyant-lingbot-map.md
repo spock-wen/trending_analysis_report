@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[apache-cassandra]] [[uber-adr]] [[donnemartin-system-design-primer]] [[opengeos-geolibre]] [[corebunch-instatic]]
+[[significant-gravitas-autogpt]] [[corebunch-instatic]] [[goauthentik-authentik]] [[huangruiteng-loopx]] [[apache-cassandra]]
 
 **所属领域**: [[data]]
 

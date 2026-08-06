@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[esengine-deepseek-reasonix]] [[apache-cassandra]] [[uber-adr]] [[ruvnet-ruview]] [[yorukot-superfile]]
+[[github-gh-stack]] [[uber-adr]] [[esengine-deepseek-reasonix]] [[ansible-ansible]] [[ruvnet-ruview]]
 
 **所属领域**: [[devops]]
 

@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[obra-superpowers]] [[livekit-agents]] [[alishahryar1-free-claude-code]] [[gabime-spdlog]] [[amnezia-vpn-amnezia-client]]
+[[obra-superpowers]] [[geo-tp-esp32-bit-pirate]] [[huggingface-speech-to-speech]] [[livekit-agents]] [[gabime-spdlog]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

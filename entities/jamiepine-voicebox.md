@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[cloudflare-computer]] [[obra-superpowers]] [[livekit-agents]] [[alishahryar1-free-claude-code]] [[everyinc-compound-engineering-plugin]]
+[[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[huggingface-speech-to-speech]] [[livekit-agents]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

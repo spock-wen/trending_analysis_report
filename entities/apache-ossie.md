@@ -35,7 +35,7 @@ Apache Ossie, industry wide specification effort to standardize how we exchange 
 
 ## 相关项目
 
-[[obra-superpowers]] [[apache-cassandra]] [[uber-adr]] [[donnemartin-system-design-primer]] [[opengeos-geolibre]]
+[[significant-gravitas-autogpt]] [[obra-superpowers]] [[corebunch-instatic]] [[goauthentik-authentik]] [[huangruiteng-loopx]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

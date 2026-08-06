@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[cloudflare-computer]] [[browser-use-video-use]] [[donnemartin-system-design-primer]] [[webpack-webpack]] [[paperswithbacktest-awesome-systematic-trading]]
+[[browser-use-video-use]] [[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[webpack-webpack]] [[paperswithbacktest-awesome-systematic-trading]]
 
 **所属领域**: [[web]] [[education]]
 

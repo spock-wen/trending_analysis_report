@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[cloudflare-computer]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[bytedance-deer-flow]] [[paperswithbacktest-awesome-systematic-trading]]
+[[mvanhorn-last30days-skill]] [[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[paperswithbacktest-awesome-systematic-trading]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

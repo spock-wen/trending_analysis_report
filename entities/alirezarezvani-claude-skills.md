@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[openinterpreter-openinterpreter]] [[obra-superpowers]] [[esengine-deepseek-reasonix]] [[anthropics-cwc-workshops]]
+[[mvanhorn-last30days-skill]] [[significant-gravitas-autogpt]] [[obra-superpowers]] [[paperswithbacktest-awesome-systematic-trading]] [[goauthentik-authentik]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

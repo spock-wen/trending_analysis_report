@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[esengine-deepseek-reasonix]] [[uber-adr]] [[donnemartin-system-design-primer]]
+[[affaan-m-ecc]] [[significant-gravitas-autogpt]] [[obra-superpowers]] [[goauthentik-authentik]] [[esengine-deepseek-reasonix]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

@@ -37,7 +37,7 @@ Build local voice agents with open-source models
 
 ## 相关项目
 
-[[obra-superpowers]] [[livekit-agents]] [[uber-adr]] [[donnemartin-system-design-primer]] [[alishahryar1-free-claude-code]]
+[[significant-gravitas-autogpt]] [[obra-superpowers]] [[goauthentik-authentik]] [[huangruiteng-loopx]] [[livekit-agents]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

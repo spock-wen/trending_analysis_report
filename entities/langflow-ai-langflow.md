@@ -34,7 +34,7 @@ Langflow is a powerful tool for building and deploying AI-powered agents and wor
 
 ## 相关项目
 
-[[obra-superpowers]] [[apache-cassandra]] [[uber-adr]] [[donnemartin-system-design-primer]] [[ruvnet-ruview]]
+[[significant-gravitas-autogpt]] [[obra-superpowers]] [[goauthentik-authentik]] [[uber-adr]] [[huangruiteng-loopx]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

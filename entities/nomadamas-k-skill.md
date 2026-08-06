@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[obra-superpowers]] [[affaan-m-ecc]] [[lyogavin-airllm]] [[addyosmani-agent-skills]] [[webpack-webpack]]
+[[affaan-m-ecc]] [[webpack-webpack]] [[obra-superpowers]] [[mattpocock-skills]] [[tencentcloud-tencentdb-agent-memory]]
 
 **所属领域**: [[ai-agent]]
 

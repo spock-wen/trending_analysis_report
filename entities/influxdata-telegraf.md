@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[esengine-deepseek-reasonix]] [[obra-superpowers]] [[apache-cassandra]] [[opengeos-geolibre]] [[yorukot-superfile]]
+[[obra-superpowers]] [[github-gh-stack]] [[corebunch-instatic]] [[esengine-deepseek-reasonix]] [[yorukot-superfile]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

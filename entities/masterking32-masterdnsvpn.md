@@ -36,7 +36,7 @@ Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[esengine-deepseek-reasonix]] [[uber-adr]] [[amnezia-vpn-amnezia-client]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[github-gh-stack]] [[uber-adr]] [[esengine-deepseek-reasonix]] [[amnezia-vpn-amnezia-client]]
 
 **所属领域**: [[security]]
 

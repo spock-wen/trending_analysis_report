@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[browser-use-video-use]] [[uber-adr]] [[donnemartin-system-design-primer]]
+[[browser-use-video-use]] [[webpack-webpack]] [[tailwindlabs-tailwindcss]] [[significant-gravitas-autogpt]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

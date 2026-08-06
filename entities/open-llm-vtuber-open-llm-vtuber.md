@@ -37,7 +37,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[obra-superpowers]] [[livekit-agents]] [[uber-adr]] [[donnemartin-system-design-primer]] [[alishahryar1-free-claude-code]]
+[[significant-gravitas-autogpt]] [[obra-superpowers]] [[goauthentik-authentik]] [[huangruiteng-loopx]] [[huggingface-speech-to-speech]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

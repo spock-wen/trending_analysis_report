@@ -35,7 +35,7 @@ A utility-first CSS framework for rapid UI development.
 
 ## 相关项目
 
-[[cloudflare-computer]] [[obra-superpowers]] [[browser-use-video-use]] [[webpack-webpack]] [[everyinc-compound-engineering-plugin]]
+[[browser-use-video-use]] [[everyinc-compound-engineering-plugin]] [[webpack-webpack]] [[obra-superpowers]] [[cloudflare-computer]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

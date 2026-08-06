@@ -35,7 +35,7 @@ The secure, validated skill registry for professional AI coding agents. Extend A
 
 ## 相关项目
 
-[[cloudflare-computer]] [[obra-superpowers]] [[everyinc-compound-engineering-plugin]] [[lyogavin-airllm]] [[addyosmani-agent-skills]]
+[[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[cloudflare-computer]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

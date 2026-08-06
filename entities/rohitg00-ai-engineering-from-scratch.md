@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[obra-superpowers]] [[uber-adr]] [[donnemartin-system-design-primer]] [[paperswithbacktest-awesome-systematic-trading]] [[microsoft-generative-ai-for-beginners]]
+[[significant-gravitas-autogpt]] [[obra-superpowers]] [[paperswithbacktest-awesome-systematic-trading]] [[goauthentik-authentik]] [[donnemartin-system-design-primer]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

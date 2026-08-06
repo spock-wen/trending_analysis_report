@@ -38,7 +38,7 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[cloudflare-computer]] [[obra-superpowers]] [[browser-use-video-use]] [[webpack-webpack]] [[everyinc-compound-engineering-plugin]]
+[[browser-use-video-use]] [[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[webpack-webpack]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

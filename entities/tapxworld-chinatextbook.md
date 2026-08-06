@@ -1,20 +1,20 @@
 ---
 title: "TapXWorld/ChinaTextbook"
 created: 2026-06-08
-updated: 2026-06-12
-last_active: 2026-06-12
+updated: 2026-08-07
+last_active: 2026-08-07
 type: tool
 tags: [tool]
-sources: [raw/trending/2026-06-12.json]
+sources: [raw/trending/2026-08-07.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-08
-last_trending: 2026-06-12
+last_trending: 2026-08-07
 peak_rank: 8
-total_stars: 73914
+total_stars: 77042
 language: "Roff"
 ---
 
@@ -23,13 +23,14 @@ language: "Roff"
 所有小初高、大学PDF教材。
 
 - 语言: Roff
-- 上榜次数: 4 次
+- 上榜次数: 5 次
 - 连续上榜: 1 天
 - 最高排名: #8
 - 链接: [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
 
 ## 上榜历史
 
+  - 2026-08-07: #8, +157⭐
   - 2026-06-12: #16, +345⭐
   - 2026-06-10: #8, +517⭐
   - 2026-06-09: #14, +592⭐

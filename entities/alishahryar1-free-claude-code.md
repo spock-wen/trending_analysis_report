@@ -38,7 +38,7 @@ Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone li
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[esengine-deepseek-reasonix]] [[livekit-agents]] [[uber-adr]]
+[[significant-gravitas-autogpt]] [[obra-superpowers]] [[goauthentik-authentik]] [[esengine-deepseek-reasonix]] [[huangruiteng-loopx]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cloudflare-computer]] [[obra-superpowers]] [[livekit-agents]] [[browser-use-video-use]] [[webpack-webpack]]
+[[browser-use-video-use]] [[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[webpack-webpack]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

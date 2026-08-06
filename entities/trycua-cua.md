@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[obra-superpowers]] [[browser-use-video-use]] [[apache-cassandra]] [[pkuflyingpig-cs-self-learning]] [[webpack-webpack]]
+[[browser-use-video-use]] [[webpack-webpack]] [[tailwindlabs-tailwindcss]] [[prisma-prisma]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

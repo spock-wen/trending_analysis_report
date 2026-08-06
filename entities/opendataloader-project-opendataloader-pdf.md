@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[jenkinsci-jenkins]] [[github-copilot-sdk]] [[obra-superpowers]] [[apache-cassandra]] [[opengeos-geolibre]]
+[[obra-superpowers]] [[corebunch-instatic]] [[google-guava]] [[opengeos-geolibre]] [[apache-cassandra]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

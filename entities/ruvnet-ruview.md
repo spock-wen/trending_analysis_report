@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[agavra-tuicr]] [[apache-cassandra]] [[uber-adr]] [[1jehuang-jcode]] [[firecrawl-pdf-inspector]]
+[[agavra-tuicr]] [[firecrawl-pdf-inspector]] [[uber-adr]] [[ansible-ansible]] [[denoland-deno]]
 
 **所属领域**: [[devops]]
 

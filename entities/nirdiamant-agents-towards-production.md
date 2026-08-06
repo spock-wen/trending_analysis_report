@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[openinterpreter-openinterpreter]] [[obra-superpowers]] [[anthropics-cwc-workshops]] [[apache-cassandra]] [[uber-adr]]
+[[obra-superpowers]] [[paperswithbacktest-awesome-systematic-trading]] [[donnemartin-system-design-primer]] [[anthropics-cwc-workshops]] [[uber-adr]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

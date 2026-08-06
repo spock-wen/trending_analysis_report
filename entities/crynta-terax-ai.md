@@ -34,7 +34,7 @@ Lightweight (7MB) Terminal-first AI-native dev workspace
 
 ## 相关项目
 
-[[cloudflare-computer]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[esengine-deepseek-reasonix]] [[alishahryar1-free-claude-code]]
+[[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[esengine-deepseek-reasonix]] [[cloudflare-computer]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

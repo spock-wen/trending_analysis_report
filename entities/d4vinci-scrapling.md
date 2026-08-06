@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[browser-use-video-use]] [[uber-adr]] [[donnemartin-system-design-primer]] [[webpack-webpack]] [[cypress-io-cypress]]
+[[browser-use-video-use]] [[webpack-webpack]] [[tailwindlabs-tailwindcss]] [[significant-gravitas-autogpt]] [[goauthentik-authentik]]
 
 **所属领域**: [[web]]
 

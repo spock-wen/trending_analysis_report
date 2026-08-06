@@ -35,5 +35,5 @@ DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 
 ## 相关项目
 
-[[veracrypt-veracrypt]] [[harbourmasters-lighthouse]] [[microsoft-powertoys]]
+[[veracrypt-veracrypt]] [[microsoft-powertoys]] [[harbourmasters-lighthouse]]
 

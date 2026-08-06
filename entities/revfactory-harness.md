@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[obra-superpowers]] [[browser-use-video-use]] [[pkuflyingpig-cs-self-learning]] [[webpack-webpack]] [[hasaneyldrm-exercises-dataset]]
+[[browser-use-video-use]] [[webpack-webpack]] [[trycua-cua]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

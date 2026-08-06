@@ -35,7 +35,7 @@ Gas Town - multi-agent workspace manager
 
 ## 相关项目
 
-[[esengine-deepseek-reasonix]] [[obra-superpowers]] [[yorukot-superfile]] [[lyogavin-airllm]] [[addyosmani-agent-skills]]
+[[obra-superpowers]] [[github-gh-stack]] [[esengine-deepseek-reasonix]] [[yorukot-superfile]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

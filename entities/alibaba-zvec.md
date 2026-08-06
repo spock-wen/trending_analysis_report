@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[apache-cassandra]] [[gabime-spdlog]] [[amnezia-vpn-amnezia-client]] [[opengeos-geolibre]] [[geo-tp-esp32-bit-pirate]]
+[[corebunch-instatic]] [[geo-tp-esp32-bit-pirate]] [[gabime-spdlog]] [[amnezia-vpn-amnezia-client]] [[apache-cassandra]]
 
 **所属领域**: [[data]]
 

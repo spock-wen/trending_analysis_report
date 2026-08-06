@@ -34,7 +34,7 @@ AI agent to evaluate and score resumes.
 
 ## 相关项目
 
-[[obra-superpowers]] [[uber-adr]] [[donnemartin-system-design-primer]] [[lyogavin-airllm]] [[addyosmani-agent-skills]]
+[[significant-gravitas-autogpt]] [[obra-superpowers]] [[goauthentik-authentik]] [[huangruiteng-loopx]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

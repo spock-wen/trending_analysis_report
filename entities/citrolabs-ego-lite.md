@@ -36,7 +36,7 @@ The fastest browser for AI agents to run web automation, built for sharing your 
 
 ## 相关项目
 
-[[obra-superpowers]] [[nomadamas-k-skill]] [[browser-use-video-use]] [[affaan-m-ecc]] [[lyogavin-airllm]]
+[[affaan-m-ecc]] [[webpack-webpack]] [[tailwindlabs-tailwindcss]] [[browser-use-video-use]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

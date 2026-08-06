@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[esengine-deepseek-reasonix]] [[uber-adr]] [[alishahryar1-free-claude-code]]
+[[affaan-m-ecc]] [[obra-superpowers]] [[esengine-deepseek-reasonix]] [[uber-adr]] [[geo-tp-esp32-bit-pirate]]
 
 **所属领域**: [[cli]] [[security]]
 

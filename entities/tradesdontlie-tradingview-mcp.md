@@ -34,7 +34,7 @@ AI-assisted TradingView chart analysis — connect Claude Code to your TradingVi
 
 ## 相关项目
 
-[[obra-superpowers]] [[nomadamas-k-skill]] [[affaan-m-ecc]] [[lyogavin-airllm]] [[addyosmani-agent-skills]]
+[[affaan-m-ecc]] [[webpack-webpack]] [[obra-superpowers]] [[nomadamas-k-skill]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

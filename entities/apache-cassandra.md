@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[jenkinsci-jenkins]] [[github-copilot-sdk]] [[uber-adr]] [[ruvnet-ruview]] [[opengeos-geolibre]]
+[[corebunch-instatic]] [[opengeos-geolibre]] [[google-guava]] [[uber-adr]] [[ansible-ansible]]
 
 **所属领域**: [[data]] [[devops]]
 

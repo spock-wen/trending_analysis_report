@@ -34,5 +34,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[nomadamas-k-skill]] [[addyosmani-agent-skills]] [[webpack-webpack]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[webpack-webpack]] [[addyosmani-agent-skills]] [[nomadamas-k-skill]]
 

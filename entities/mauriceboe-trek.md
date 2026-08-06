@@ -35,5 +35,5 @@ A self-hosted travel/trip planner with real-time collaboration, interactive maps
 
 ## 相关项目
 
-[[cloudflare-computer]] [[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[tencentcloud-tencentdb-agent-memory]]
+[[cloudflare-computer]] [[everyinc-compound-engineering-plugin]] [[tencentcloud-tencentdb-agent-memory]] [[tailwindlabs-tailwindcss]]
 

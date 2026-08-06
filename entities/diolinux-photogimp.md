@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[openinterpreter-openinterpreter]] [[obra-superpowers]] [[anthropics-cwc-workshops]] [[browser-use-video-use]] [[uber-adr]]
+[[browser-use-video-use]] [[webpack-webpack]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[anthropics-cwc-workshops]]
 
 **所属领域**: [[web]] [[erp]]
 

@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[obra-superpowers]] [[lyogavin-airllm]] [[permissionlesstech-bitchat]] [[addyosmani-agent-skills]] [[steipete-codexbar]]
+[[altic-dev-fluidvoice]] [[obra-superpowers]] [[steipete-codexbar]] [[mattpocock-skills]] [[tencentcloud-tencentdb-agent-memory]]
 
 **所属领域**: [[ai-agent]]
 

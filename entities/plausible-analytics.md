@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[teslamate-org-teslamate]] [[browser-use-video-use]] [[apache-cassandra]] [[webpack-webpack]]
+[[browser-use-video-use]] [[webpack-webpack]] [[tailwindlabs-tailwindcss]] [[affaan-m-ecc]] [[corebunch-instatic]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

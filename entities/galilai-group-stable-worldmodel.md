@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[bytedance-deer-flow]] [[uber-adr]] [[donnemartin-system-design-primer]]
+[[mvanhorn-last30days-skill]] [[webpack-webpack]] [[trycua-cua]] [[significant-gravitas-autogpt]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

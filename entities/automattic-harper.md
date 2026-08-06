@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[agavra-tuicr]] [[zhaoxuya520-reverse-skill]] [[uber-adr]] [[amnezia-vpn-amnezia-client]] [[1jehuang-jcode]]
+[[affaan-m-ecc]] [[agavra-tuicr]] [[firecrawl-pdf-inspector]] [[uber-adr]] [[denoland-deno]]
 
 **所属领域**: [[security]]
 

@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[cloudflare-computer]] [[donnemartin-system-design-primer]] [[paperswithbacktest-awesome-systematic-trading]] [[microsoft-generative-ai-for-beginners]] [[everyinc-compound-engineering-plugin]]
+[[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[paperswithbacktest-awesome-systematic-trading]] [[donnemartin-system-design-primer]] [[cloudflare-computer]]
 
 **所属领域**: [[education]]
 

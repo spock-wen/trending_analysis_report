@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[browser-use-video-use]] [[donnemartin-system-design-primer]] [[webpack-webpack]] [[paperswithbacktest-awesome-systematic-trading]] [[microsoft-generative-ai-for-beginners]]
+[[browser-use-video-use]] [[webpack-webpack]] [[trycua-cua]] [[tailwindlabs-tailwindcss]] [[paperswithbacktest-awesome-systematic-trading]]
 
 **所属领域**: [[web]] [[education]]
 

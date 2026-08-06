@@ -35,5 +35,5 @@ Common User Passwords Profiler (CUPP)
 
 ## 相关项目
 
-[[roboflow-supervision]] [[uber-adr]] [[donnemartin-system-design-primer]] [[huangruiteng-loopx]]
+[[significant-gravitas-autogpt]] [[huangruiteng-loopx]] [[tirth8205-code-review-graph]] [[goauthentik-authentik]]
 

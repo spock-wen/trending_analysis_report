@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[agavra-tuicr]] [[browser-use-video-use]] [[webpack-webpack]] [[1jehuang-jcode]] [[firecrawl-pdf-inspector]]
+[[browser-use-video-use]] [[webpack-webpack]] [[agavra-tuicr]] [[tailwindlabs-tailwindcss]] [[firecrawl-pdf-inspector]]
 
 **所属领域**: [[web]]
 

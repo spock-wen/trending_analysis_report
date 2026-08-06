@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[bytedance-deer-flow]] [[uber-adr]] [[donnemartin-system-design-primer]] [[microsoft-generative-ai-for-beginners]]
+[[mvanhorn-last30days-skill]] [[significant-gravitas-autogpt]] [[goauthentik-authentik]] [[donnemartin-system-design-primer]] [[huangruiteng-loopx]]
 
 **所属领域**: [[education]] [[science]]
 

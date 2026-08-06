@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[esengine-deepseek-reasonix]] [[alishahryar1-free-claude-code]] [[lyogavin-airllm]]
+[[msitarzewski-agency-agents]] [[obra-superpowers]] [[esengine-deepseek-reasonix]] [[mattpocock-skills]] [[tencentcloud-tencentdb-agent-memory]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

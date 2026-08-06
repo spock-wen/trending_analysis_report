@@ -38,7 +38,7 @@ World's first open-source, agentic video production system. 12 pipelines, 52 too
 
 ## 相关项目
 
-[[obra-superpowers]] [[apache-cassandra]] [[uber-adr]] [[donnemartin-system-design-primer]] [[opengeos-geolibre]]
+[[significant-gravitas-autogpt]] [[obra-superpowers]] [[corebunch-instatic]] [[goauthentik-authentik]] [[huangruiteng-loopx]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

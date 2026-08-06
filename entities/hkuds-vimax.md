@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[obra-superpowers]] [[uber-adr]] [[donnemartin-system-design-primer]] [[graphify-labs-graphify]] [[lyogavin-airllm]]
+[[webpack-webpack]] [[trycua-cua]] [[significant-gravitas-autogpt]] [[obra-superpowers]] [[prisma-prisma]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

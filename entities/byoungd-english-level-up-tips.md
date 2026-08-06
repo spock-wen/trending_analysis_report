@@ -38,7 +38,7 @@ An advanced guide to learn English which might benefit you a lot 🎉 . 人生�
 
 ## 相关项目
 
-[[paperswithbacktest-awesome-systematic-trading]] [[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]] [[donnemartin-system-design-primer]]
+[[microsoft-ai-for-beginners]] [[paperswithbacktest-awesome-systematic-trading]] [[microsoft-generative-ai-for-beginners]] [[donnemartin-system-design-primer]]
 
 **所属领域**: [[education]]
 

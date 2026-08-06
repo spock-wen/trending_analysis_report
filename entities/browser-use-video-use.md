@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[obra-superpowers]] [[uber-adr]] [[donnemartin-system-design-primer]] [[webpack-webpack]] [[lyogavin-airllm]]
+[[webpack-webpack]] [[tailwindlabs-tailwindcss]] [[significant-gravitas-autogpt]] [[obra-superpowers]] [[goauthentik-authentik]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

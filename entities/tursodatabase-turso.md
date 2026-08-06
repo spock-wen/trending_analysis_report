@@ -36,7 +36,7 @@ Turso is an in-process SQL database, compatible with SQLite.
 
 ## 相关项目
 
-[[agavra-tuicr]] [[apache-cassandra]] [[1jehuang-jcode]] [[opengeos-geolibre]] [[firecrawl-pdf-inspector]]
+[[agavra-tuicr]] [[firecrawl-pdf-inspector]] [[corebunch-instatic]] [[denoland-deno]] [[apache-cassandra]]
 
 **所属领域**: [[data]]
 

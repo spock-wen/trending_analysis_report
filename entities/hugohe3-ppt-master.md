@@ -34,7 +34,7 @@ AI generates a real, editable PowerPoint from any document — native shapes & a
 
 ## 相关项目
 
-[[openinterpreter-openinterpreter]] [[obra-superpowers]] [[anthropics-cwc-workshops]] [[livekit-agents]] [[uber-adr]]
+[[obra-superpowers]] [[tencentcloud-tencentdb-agent-memory]] [[graphify-labs-graphify]] [[livekit-agents]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[image-gen]] [[audio]]
 

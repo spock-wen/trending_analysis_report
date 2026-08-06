@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[cloudflare-computer]] [[zhaoxuya520-reverse-skill]] [[uber-adr]] [[everyinc-compound-engineering-plugin]] [[amnezia-vpn-amnezia-client]]
+[[affaan-m-ecc]] [[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[uber-adr]] [[cloudflare-computer]]
 
 **所属领域**: [[security]]
 

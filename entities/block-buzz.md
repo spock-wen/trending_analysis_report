@@ -36,5 +36,5 @@ A hive mind communication platform
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[agavra-tuicr]] [[denoland-deno]] [[1jehuang-jcode]]
+[[denoland-deno]] [[agavra-tuicr]] [[firecrawl-pdf-inspector]] [[1jehuang-jcode]]
 

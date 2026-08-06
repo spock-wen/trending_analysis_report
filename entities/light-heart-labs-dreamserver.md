@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[obra-superpowers]] [[livekit-agents]] [[uber-adr]] [[donnemartin-system-design-primer]] [[alishahryar1-free-claude-code]]
+[[webpack-webpack]] [[trycua-cua]] [[significant-gravitas-autogpt]] [[obra-superpowers]] [[prisma-prisma]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

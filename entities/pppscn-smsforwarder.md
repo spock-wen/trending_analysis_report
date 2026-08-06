@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[browser-use-video-use]] [[webpack-webpack]] [[bannedbook-fanqiang]] [[andreknieriem-headunit-revived]] [[yairm210-unciv]]
+[[browser-use-video-use]] [[webpack-webpack]] [[andreknieriem-headunit-revived]] [[tailwindlabs-tailwindcss]] [[yairm210-unciv]]
 
 **所属领域**: [[web]]
 

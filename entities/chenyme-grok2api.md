@@ -34,7 +34,7 @@ language: "Go"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[esengine-deepseek-reasonix]] [[obra-superpowers]] [[browser-use-video-use]] [[webpack-webpack]]
+[[browser-use-video-use]] [[webpack-webpack]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[github-gh-stack]]
 
 **所属领域**: [[web]] [[cli]]
 

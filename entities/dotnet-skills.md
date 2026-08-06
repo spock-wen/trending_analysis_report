@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[obra-superpowers]] [[jellyfin-jellyfin]] [[par274-sharpemu]] [[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]]
+[[jellyfin-jellyfin]] [[obra-superpowers]] [[par274-sharpemu]] [[dotnet-aspnetcore]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

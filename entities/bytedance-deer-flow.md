@@ -37,7 +37,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[uber-adr]] [[donnemartin-system-design-primer]] [[paperswithbacktest-awesome-systematic-trading]]
+[[mvanhorn-last30days-skill]] [[significant-gravitas-autogpt]] [[obra-superpowers]] [[paperswithbacktest-awesome-systematic-trading]] [[goauthentik-authentik]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

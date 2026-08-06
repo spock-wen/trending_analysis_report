@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[esengine-deepseek-reasonix]] [[obra-superpowers]] [[alishahryar1-free-claude-code]] [[lyogavin-airllm]]
+[[obra-superpowers]] [[esengine-deepseek-reasonix]] [[mattpocock-skills]] [[tencentcloud-tencentdb-agent-memory]] [[tirth8205-code-review-graph]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

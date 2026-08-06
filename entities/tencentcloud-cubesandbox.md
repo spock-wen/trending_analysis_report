@@ -37,7 +37,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ## 相关项目
 
-[[agavra-tuicr]] [[obra-superpowers]] [[1jehuang-jcode]] [[firecrawl-pdf-inspector]] [[lyogavin-airllm]]
+[[agavra-tuicr]] [[obra-superpowers]] [[firecrawl-pdf-inspector]] [[denoland-deno]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

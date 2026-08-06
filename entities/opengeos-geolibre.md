@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[cloudflare-computer]] [[browser-use-video-use]] [[apache-cassandra]] [[webpack-webpack]] [[everyinc-compound-engineering-plugin]]
+[[browser-use-video-use]] [[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[webpack-webpack]] [[corebunch-instatic]]
 
 **所属领域**: [[web]] [[data]]
 

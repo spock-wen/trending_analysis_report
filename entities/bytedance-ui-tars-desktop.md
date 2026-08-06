@@ -34,7 +34,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[cloudflare-computer]] [[obra-superpowers]] [[apache-cassandra]] [[uber-adr]] [[ruvnet-ruview]]
+[[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[uber-adr]] [[ansible-ansible]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

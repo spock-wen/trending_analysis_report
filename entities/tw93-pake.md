@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[agavra-tuicr]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[esengine-deepseek-reasonix]] [[browser-use-video-use]]
+[[browser-use-video-use]] [[webpack-webpack]] [[agavra-tuicr]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[cli]]
 

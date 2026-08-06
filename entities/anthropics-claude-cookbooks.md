@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[obra-superpowers]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[addyosmani-agent-skills]] [[microsoft-ai-for-beginners]]
+[[obra-superpowers]] [[lyogavin-airllm]] [[mattpocock-skills]] [[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

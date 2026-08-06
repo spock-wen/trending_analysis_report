@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[cloudflare-computer]] [[openinterpreter-openinterpreter]] [[obra-superpowers]] [[uber-adr]] [[everyinc-compound-engineering-plugin]]
+[[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[uber-adr]] [[cloudflare-computer]]
 
 **所属领域**: [[erp]]
 

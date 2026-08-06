@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[obra-superpowers]] [[nomadamas-k-skill]] [[graphify-labs-graphify]] [[affaan-m-ecc]] [[lyogavin-airllm]]
+[[affaan-m-ecc]] [[webpack-webpack]] [[trycua-cua]] [[prisma-prisma]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

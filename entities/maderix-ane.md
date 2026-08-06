@@ -34,7 +34,7 @@ Training neural networks on Apple Neural Engine via reverse-engineered private A
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[obra-superpowers]] [[addyosmani-agent-skills]] [[tencentcloud-tencentdb-agent-memory]]
+[[tencentcloud-tencentdb-agent-memory]] [[mattpocock-skills]] [[obra-superpowers]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

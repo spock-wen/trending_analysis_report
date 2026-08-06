@@ -36,5 +36,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[cloudflare-computer]] [[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[tencentcloud-tencentdb-agent-memory]]
+[[cloudflare-computer]] [[everyinc-compound-engineering-plugin]] [[tencentcloud-tencentdb-agent-memory]] [[tailwindlabs-tailwindcss]]
 

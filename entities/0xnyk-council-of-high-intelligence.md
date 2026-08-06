@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[esengine-deepseek-reasonix]] [[alishahryar1-free-claude-code]] [[prismml-eng-bonsai-demo]]
+[[msitarzewski-agency-agents]] [[obra-superpowers]] [[prismml-eng-bonsai-demo]] [[esengine-deepseek-reasonix]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

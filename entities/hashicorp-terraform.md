@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[esengine-deepseek-reasonix]] [[obra-superpowers]] [[apache-cassandra]] [[uber-adr]] [[ruvnet-ruview]]
+[[obra-superpowers]] [[github-gh-stack]] [[esengine-deepseek-reasonix]] [[uber-adr]] [[ansible-ansible]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

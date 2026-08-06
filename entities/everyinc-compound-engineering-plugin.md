@@ -38,7 +38,7 @@ Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 
 ## 相关项目
 
-[[cloudflare-computer]] [[obra-superpowers]] [[lyogavin-airllm]] [[addyosmani-agent-skills]] [[tailwindlabs-tailwindcss]]
+[[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[cloudflare-computer]] [[mattpocock-skills]] [[tencentcloud-tencentdb-agent-memory]]
 
 **所属领域**: [[ai-agent]]
 

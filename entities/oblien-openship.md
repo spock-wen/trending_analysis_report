@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[cloudflare-computer]] [[apache-cassandra]] [[uber-adr]] [[ruvnet-ruview]] [[everyinc-compound-engineering-plugin]]
+[[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[uber-adr]] [[ansible-ansible]] [[cloudflare-computer]]
 
 **所属领域**: [[devops]]
 

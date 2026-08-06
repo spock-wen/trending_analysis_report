@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[obra-superpowers]] [[browser-use-video-use]] [[uber-adr]] [[donnemartin-system-design-primer]] [[webpack-webpack]]
+[[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[corebunch-instatic]] [[apache-cassandra]] [[tencentcloud-tencentdb-agent-memory]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

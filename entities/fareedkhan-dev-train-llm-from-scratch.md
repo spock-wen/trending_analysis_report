@@ -37,7 +37,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[obra-superpowers]] [[apache-cassandra]] [[uber-adr]] [[donnemartin-system-design-primer]] [[opengeos-geolibre]]
+[[significant-gravitas-autogpt]] [[obra-superpowers]] [[corebunch-instatic]] [[goauthentik-authentik]] [[huangruiteng-loopx]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

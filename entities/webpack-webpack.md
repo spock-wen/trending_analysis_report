@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[nomadamas-k-skill]] [[browser-use-video-use]] [[graphify-labs-graphify]] [[affaan-m-ecc]] [[prisma-prisma]]
+[[affaan-m-ecc]] [[browser-use-video-use]] [[tailwindlabs-tailwindcss]] [[trycua-cua]] [[prisma-prisma]]
 
 **所属领域**: [[web]] [[image-gen]]
 

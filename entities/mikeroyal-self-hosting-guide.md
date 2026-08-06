@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[obra-superpowers]] [[browser-use-video-use]] [[donnemartin-system-design-primer]] [[webpack-webpack]] [[paperswithbacktest-awesome-systematic-trading]]
+[[browser-use-video-use]] [[webpack-webpack]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[paperswithbacktest-awesome-systematic-trading]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

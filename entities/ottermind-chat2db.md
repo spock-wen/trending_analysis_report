@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[jenkinsci-jenkins]] [[github-copilot-sdk]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[esengine-deepseek-reasonix]]
+[[obra-superpowers]] [[corebunch-instatic]] [[google-guava]] [[opengeos-geolibre]] [[esengine-deepseek-reasonix]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

@@ -35,7 +35,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[uber-adr]] [[paperswithbacktest-awesome-systematic-trading]] [[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]] [[huangruiteng-loopx]]
+[[significant-gravitas-autogpt]] [[paperswithbacktest-awesome-systematic-trading]] [[goauthentik-authentik]] [[huangruiteng-loopx]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[education]]
 

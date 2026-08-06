@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[uber-adr]] [[donnemartin-system-design-primer]] [[amnezia-vpn-amnezia-client]]
+[[affaan-m-ecc]] [[significant-gravitas-autogpt]] [[obra-superpowers]] [[goauthentik-authentik]] [[uber-adr]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

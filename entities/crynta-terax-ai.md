@@ -34,7 +34,7 @@ Lightweight (7MB) Terminal-first AI-native dev workspace
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[esengine-deepseek-reasonix]] [[cloudflare-computer]]
+[[obra-superpowers]] [[chenyme-grok2api]] [[addyosmani-agent-skills]] [[tailwindlabs-tailwindcss]] [[tencentcloud-tencentdb-agent-memory]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

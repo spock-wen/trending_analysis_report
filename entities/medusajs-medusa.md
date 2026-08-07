@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[anthropics-cwc-workshops]] [[uber-adr]]
+[[obra-superpowers]] [[tailwindlabs-tailwindcss]] [[tencentcloud-tencentdb-agent-memory]] [[cloudflare-computer]] [[uber-adr]]
 
 **所属领域**: [[erp]]
 

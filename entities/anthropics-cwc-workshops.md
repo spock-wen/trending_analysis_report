@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[uber-adr]] [[cloudflare-computer]]
+[[obra-superpowers]] [[tailwindlabs-tailwindcss]] [[tencentcloud-tencentdb-agent-memory]] [[cloudflare-computer]] [[uber-adr]]
 
 **所属领域**: [[erp]]
 

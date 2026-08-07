@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[significant-gravitas-autogpt]] [[obra-superpowers]] [[paperswithbacktest-awesome-systematic-trading]] [[goauthentik-authentik]]
+[[obra-superpowers]] [[chenyme-grok2api]] [[bytedance-deer-flow]] [[addyosmani-agent-skills]] [[significant-gravitas-autogpt]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

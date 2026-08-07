@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[browser-use-video-use]] [[webpack-webpack]] [[tailwindlabs-tailwindcss]] [[significant-gravitas-autogpt]] [[obra-superpowers]]
+[[obra-superpowers]] [[chenyme-grok2api]] [[cypress-io-cypress]] [[bytedance-deer-flow]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

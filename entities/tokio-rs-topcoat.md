@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[browser-use-video-use]] [[webpack-webpack]] [[agavra-tuicr]] [[tailwindlabs-tailwindcss]] [[firecrawl-pdf-inspector]]
+[[chenyme-grok2api]] [[cypress-io-cypress]] [[denoland-celld]] [[browser-use-video-use]] [[tailwindlabs-tailwindcss]]
 
 **所属领域**: [[web]]
 

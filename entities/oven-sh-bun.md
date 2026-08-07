@@ -38,5 +38,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
 
 ## 相关项目
 
-[[denoland-deno]] [[agavra-tuicr]] [[firecrawl-pdf-inspector]] [[1jehuang-jcode]]
+[[jdx-mise]] [[denoland-celld]] [[firecrawl-pdf-inspector]] [[denoland-deno]]
 

@@ -34,7 +34,7 @@ FlashKDA: high-performance Kimi Delta Attention kernels
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[mattpocock-skills]] [[obra-superpowers]] [[addyosmani-agent-skills]]
+[[obra-superpowers]] [[mattpocock-skills]] [[google-skills]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

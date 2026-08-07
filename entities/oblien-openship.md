@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[uber-adr]] [[ansible-ansible]] [[cloudflare-computer]]
+[[tailwindlabs-tailwindcss]] [[tencentcloud-tencentdb-agent-memory]] [[cloudflare-computer]] [[semantica-agi-semantica]] [[uber-adr]]
 
 **所属领域**: [[devops]]
 

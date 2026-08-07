@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[paperswithbacktest-awesome-systematic-trading]]
+[[obra-superpowers]] [[bytedance-deer-flow]] [[addyosmani-agent-skills]] [[tailwindlabs-tailwindcss]] [[tencentcloud-tencentdb-agent-memory]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

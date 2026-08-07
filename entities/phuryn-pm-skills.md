@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[obra-superpowers]] [[esengine-deepseek-reasonix]] [[mattpocock-skills]] [[tencentcloud-tencentdb-agent-memory]] [[tirth8205-code-review-graph]]
+[[obra-superpowers]] [[chenyme-grok2api]] [[addyosmani-agent-skills]] [[pranshuparmar-witr]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

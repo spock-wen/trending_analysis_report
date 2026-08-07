@@ -38,7 +38,7 @@ agent multiplexer that lives in your terminal.
 
 ## 相关项目
 
-[[agavra-tuicr]] [[obra-superpowers]] [[firecrawl-pdf-inspector]] [[esengine-deepseek-reasonix]] [[denoland-deno]]
+[[obra-superpowers]] [[chenyme-grok2api]] [[denoland-celld]] [[addyosmani-agent-skills]] [[pranshuparmar-witr]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

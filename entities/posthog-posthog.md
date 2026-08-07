@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[corebunch-instatic]] [[apache-cassandra]] [[tencentcloud-tencentdb-agent-memory]]
+[[obra-superpowers]] [[chenyme-grok2api]] [[cypress-io-cypress]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

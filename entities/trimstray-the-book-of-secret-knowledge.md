@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[browser-use-video-use]] [[webpack-webpack]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[esengine-deepseek-reasonix]]
+[[chenyme-grok2api]] [[obra-superpowers]] [[cypress-io-cypress]] [[browser-use-video-use]] [[tailwindlabs-tailwindcss]]
 
 **所属领域**: [[web]] [[cli]]
 

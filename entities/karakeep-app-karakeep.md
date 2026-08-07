@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[webpack-webpack]] [[obra-superpowers]] [[trycua-cua]]
+[[obra-superpowers]] [[addyosmani-agent-skills]] [[webpack-webpack]] [[tailwindlabs-tailwindcss]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

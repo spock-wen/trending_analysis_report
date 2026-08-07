@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[browser-use-video-use]] [[webpack-webpack]] [[trycua-cua]] [[tailwindlabs-tailwindcss]] [[prisma-prisma]]
+[[chenyme-grok2api]] [[cypress-io-cypress]] [[pkuflyingpig-cs-self-learning]] [[browser-use-video-use]] [[webpack-webpack]]
 
 **所属领域**: [[web]] [[image-gen]]
 

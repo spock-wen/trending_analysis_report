@@ -35,7 +35,7 @@ Open-Source Frontier Voice AI
 
 ## 相关项目
 
-[[significant-gravitas-autogpt]] [[obra-superpowers]] [[goauthentik-authentik]] [[huangruiteng-loopx]] [[huggingface-speech-to-speech]]
+[[obra-superpowers]] [[addyosmani-agent-skills]] [[significant-gravitas-autogpt]] [[alishahryar1-free-claude-code]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

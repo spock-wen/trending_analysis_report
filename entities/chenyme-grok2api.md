@@ -1,40 +1,52 @@
 ---
 title: "chenyme/grok2api"
 created: 2026-07-15
-updated: 2026-07-15
-last_active: 2026-07-15
+updated: 2026-08-08
+last_active: 2026-08-08
 type: tool
 tags: [go, web, cli]
-sources: [raw/trending/2026-07-15.json]
-confidence: low
-trending_count_daily: 1
+sources: [raw/trending/2026-08-08.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-07-15
-last_trending: 2026-07-15
-peak_rank: 13
-total_stars: 5839
+last_trending: 2026-08-08
+peak_rank: 9
+total_stars: 7136
 language: "Go"
+contested: true
 ---
 
 # chenyme/grok2api
 
-面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关
+Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 - 语言: Go
-- 上榜次数: 1 次
+- 上榜次数: 2 次
 - 连续上榜: 1 天
-- 最高排名: #13
+- 最高排名: #9
 - 链接: [chenyme/grok2api](https://github.com/chenyme/grok2api)
 
 ## 上榜历史
 
+  - 2026-08-08: #9, +62⭐
   - 2026-07-15: #13, +179⭐
 
 ## 相关项目
 
-[[browser-use-video-use]] [[webpack-webpack]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[github-gh-stack]]
+[[obra-superpowers]] [[cypress-io-cypress]] [[browser-use-video-use]] [[tailwindlabs-tailwindcss]] [[esengine-deepseek-reasonix]]
 
 **所属领域**: [[web]] [[cli]]
+
+
+## ⚠️ 描述变更（2026-08-08）
+
+该项目描述近期发生过重大变化，可能存在定位调整：
+
+- **旧描述**: 面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关
+- **新描述**: Multi-account API gateway for Grok Build, Grok Web, and Grok Console
+
+> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

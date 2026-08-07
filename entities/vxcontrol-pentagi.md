@@ -34,7 +34,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[obra-superpowers]] [[github-gh-stack]] [[esengine-deepseek-reasonix]] [[yorukot-superfile]] [[mattpocock-skills]]
+[[chenyme-grok2api]] [[obra-superpowers]] [[addyosmani-agent-skills]] [[esengine-deepseek-reasonix]] [[pranshuparmar-witr]]
 
 **所属领域**: [[ai-agent]]
 

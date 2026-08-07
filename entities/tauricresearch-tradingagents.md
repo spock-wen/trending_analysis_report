@@ -34,7 +34,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[significant-gravitas-autogpt]] [[obra-superpowers]] [[paperswithbacktest-awesome-systematic-trading]] [[goauthentik-authentik]]
+[[obra-superpowers]] [[bytedance-deer-flow]] [[addyosmani-agent-skills]] [[significant-gravitas-autogpt]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

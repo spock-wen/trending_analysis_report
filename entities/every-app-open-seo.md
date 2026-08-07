@@ -37,5 +37,5 @@ Open source alternative to Semrush and Ahrefs
 
 ## 相关项目
 
-[[cloudflare-computer]] [[everyinc-compound-engineering-plugin]] [[tencentcloud-tencentdb-agent-memory]] [[tailwindlabs-tailwindcss]]
+[[tencentcloud-tencentdb-agent-memory]] [[cloudflare-computer]] [[primeintellect-ai-prime-agent]] [[tailwindlabs-tailwindcss]]
 

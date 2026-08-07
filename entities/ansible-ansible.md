@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[browser-use-video-use]] [[webpack-webpack]] [[tailwindlabs-tailwindcss]] [[significant-gravitas-autogpt]] [[obra-superpowers]]
+[[obra-superpowers]] [[chenyme-grok2api]] [[cypress-io-cypress]] [[addyosmani-agent-skills]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

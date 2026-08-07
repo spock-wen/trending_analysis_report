@@ -35,7 +35,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[browser-use-video-use]] [[webpack-webpack]] [[tailwindlabs-tailwindcss]] [[significant-gravitas-autogpt]] [[affaan-m-ecc]]
+[[chenyme-grok2api]] [[obra-superpowers]] [[cypress-io-cypress]] [[browser-use-video-use]] [[significant-gravitas-autogpt]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

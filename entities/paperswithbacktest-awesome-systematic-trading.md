@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[significant-gravitas-autogpt]] [[goauthentik-authentik]] [[donnemartin-system-design-primer]] [[huangruiteng-loopx]]
+[[google-skills]] [[bytedance-deer-flow]] [[significant-gravitas-autogpt]] [[zhaoxuya520-reverse-skill]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[education]] [[science]]
 

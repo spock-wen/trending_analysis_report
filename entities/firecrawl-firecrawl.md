@@ -35,7 +35,7 @@ The API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[browser-use-video-use]] [[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[webpack-webpack]] [[cloudflare-computer]]
+[[chenyme-grok2api]] [[cypress-io-cypress]] [[browser-use-video-use]] [[tailwindlabs-tailwindcss]] [[tencentcloud-tencentdb-agent-memory]]
 
 **所属领域**: [[web]]
 

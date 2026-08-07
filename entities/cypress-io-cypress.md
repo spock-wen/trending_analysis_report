@@ -37,7 +37,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[browser-use-video-use]] [[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[webpack-webpack]] [[cloudflare-computer]]
+[[chenyme-grok2api]] [[browser-use-video-use]] [[tailwindlabs-tailwindcss]] [[tencentcloud-tencentdb-agent-memory]] [[cloudflare-computer]]
 
 **所属领域**: [[web]]
 

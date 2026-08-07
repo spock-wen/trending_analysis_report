@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[browser-use-video-use]] [[webpack-webpack]] [[agavra-tuicr]] [[tailwindlabs-tailwindcss]] [[firecrawl-pdf-inspector]]
+[[chenyme-grok2api]] [[cypress-io-cypress]] [[denoland-celld]] [[browser-use-video-use]] [[tailwindlabs-tailwindcss]]
 
 **所属领域**: [[web]]
 

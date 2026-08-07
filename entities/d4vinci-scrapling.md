@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[browser-use-video-use]] [[webpack-webpack]] [[tailwindlabs-tailwindcss]] [[significant-gravitas-autogpt]] [[goauthentik-authentik]]
+[[chenyme-grok2api]] [[cypress-io-cypress]] [[browser-use-video-use]] [[significant-gravitas-autogpt]] [[tailwindlabs-tailwindcss]]
 
 **所属领域**: [[web]]
 

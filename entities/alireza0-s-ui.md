@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[browser-use-video-use]] [[webpack-webpack]] [[tailwindlabs-tailwindcss]] [[github-gh-stack]] [[esengine-deepseek-reasonix]]
+[[chenyme-grok2api]] [[cypress-io-cypress]] [[browser-use-video-use]] [[tailwindlabs-tailwindcss]] [[esengine-deepseek-reasonix]]
 
 **所属领域**: [[web]]
 

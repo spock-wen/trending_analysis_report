@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[paperswithbacktest-awesome-systematic-trading]] [[donnemartin-system-design-primer]]
+[[obra-superpowers]] [[chenyme-grok2api]] [[addyosmani-agent-skills]] [[tailwindlabs-tailwindcss]] [[tencentcloud-tencentdb-agent-memory]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

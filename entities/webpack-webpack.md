@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[browser-use-video-use]] [[tailwindlabs-tailwindcss]] [[trycua-cua]] [[prisma-prisma]]
+[[chenyme-grok2api]] [[cypress-io-cypress]] [[addyosmani-agent-skills]] [[browser-use-video-use]] [[tailwindlabs-tailwindcss]]
 
 **所属领域**: [[web]] [[image-gen]]
 

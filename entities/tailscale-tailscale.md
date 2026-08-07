@@ -34,7 +34,7 @@ The easiest, most secure way to use WireGuard and 2FA.
 
 ## 相关项目
 
-[[obra-superpowers]] [[github-gh-stack]] [[esengine-deepseek-reasonix]] [[yorukot-superfile]] [[mattpocock-skills]]
+[[chenyme-grok2api]] [[obra-superpowers]] [[addyosmani-agent-skills]] [[esengine-deepseek-reasonix]] [[pranshuparmar-witr]]
 
 **所属领域**: [[ai-agent]]
 

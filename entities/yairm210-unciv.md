@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[andreknieriem-headunit-revived]] [[obra-superpowers]] [[bannedbook-fanqiang]] [[mattpocock-skills]] [[tencentcloud-tencentdb-agent-memory]]
+[[obra-superpowers]] [[addyosmani-agent-skills]] [[bannedbook-fanqiang]] [[mattpocock-skills]] [[pppscn-smsforwarder]]
 
 **所属领域**: [[ai-agent]]
 

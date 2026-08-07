@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[significant-gravitas-autogpt]] [[obra-superpowers]] [[goauthentik-authentik]] [[esengine-deepseek-reasonix]] [[huangruiteng-loopx]]
+[[obra-superpowers]] [[chenyme-grok2api]] [[significant-gravitas-autogpt]] [[alishahryar1-free-claude-code]] [[pranshuparmar-witr]]
 
 **所属领域**: [[cli]] [[audio]]
 

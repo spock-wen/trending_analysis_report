@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[browser-use-video-use]] [[webpack-webpack]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[anthropics-cwc-workshops]]
+[[chenyme-grok2api]] [[obra-superpowers]] [[cypress-io-cypress]] [[browser-use-video-use]] [[tailwindlabs-tailwindcss]]
 
 **所属领域**: [[web]] [[erp]]
 

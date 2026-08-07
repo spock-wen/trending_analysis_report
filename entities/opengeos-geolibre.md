@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[browser-use-video-use]] [[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[webpack-webpack]] [[corebunch-instatic]]
+[[chenyme-grok2api]] [[alibaba-open-code-review]] [[cypress-io-cypress]] [[browser-use-video-use]] [[corebunch-instatic]]
 
 **所属领域**: [[web]] [[data]]
 

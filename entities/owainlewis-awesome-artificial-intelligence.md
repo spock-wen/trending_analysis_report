@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[obra-superpowers]] [[paperswithbacktest-awesome-systematic-trading]] [[donnemartin-system-design-primer]] [[mattpocock-skills]]
+[[obra-superpowers]] [[google-skills]] [[bytedance-deer-flow]] [[addyosmani-agent-skills]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[obra-superpowers]] [[raphire-win11debloat]] [[paperswithbacktest-awesome-systematic-trading]]
+[[obra-superpowers]] [[chenyme-grok2api]] [[bytedance-deer-flow]] [[addyosmani-agent-skills]] [[pranshuparmar-witr]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

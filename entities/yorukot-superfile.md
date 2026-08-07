@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[obra-superpowers]] [[github-gh-stack]] [[esengine-deepseek-reasonix]] [[mattpocock-skills]] [[alibaba-open-code-review]]
+[[chenyme-grok2api]] [[obra-superpowers]] [[esengine-deepseek-reasonix]] [[pranshuparmar-witr]] [[github-gh-stack]]
 
 **所属领域**: [[cli]]
 

@@ -34,5 +34,5 @@ A modern runtime for JavaScript and TypeScript.
 
 ## 相关项目
 
-[[agavra-tuicr]] [[firecrawl-pdf-inspector]] [[1jehuang-jcode]]
+[[jdx-mise]] [[denoland-celld]] [[firecrawl-pdf-inspector]]
 

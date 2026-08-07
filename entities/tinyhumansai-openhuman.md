@@ -38,7 +38,7 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[agavra-tuicr]] [[obra-superpowers]] [[firecrawl-pdf-inspector]] [[denoland-deno]] [[mattpocock-skills]]
+[[obra-superpowers]] [[denoland-celld]] [[addyosmani-agent-skills]] [[denoland-deno]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[mattpocock-skills]] [[obra-superpowers]] [[addyosmani-agent-skills]]
+[[obra-superpowers]] [[mattpocock-skills]] [[google-skills]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

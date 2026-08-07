@@ -38,5 +38,5 @@ Desktop app to manage markdown knowledge bases
 
 ## 相关项目
 
-[[cloudflare-computer]] [[everyinc-compound-engineering-plugin]] [[tencentcloud-tencentdb-agent-memory]] [[tailwindlabs-tailwindcss]]
+[[tencentcloud-tencentdb-agent-memory]] [[cloudflare-computer]] [[primeintellect-ai-prime-agent]] [[tailwindlabs-tailwindcss]]
 

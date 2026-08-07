@@ -37,7 +37,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[webpack-webpack]] [[trycua-cua]] [[prisma-prisma]] [[obra-superpowers]]
+[[obra-superpowers]] [[addyosmani-agent-skills]] [[webpack-webpack]] [[trycua-cua]] [[prisma-prisma]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

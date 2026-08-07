@@ -38,5 +38,5 @@ Microsoft PowerToys is a collection of utilities that supercharge productivity a
 
 ## 相关项目
 
-[[veracrypt-veracrypt]] [[antirez-ds4]] [[harbourmasters-lighthouse]]
+[[veracrypt-veracrypt]] [[harbourmasters-lighthouse]] [[antirez-ds4]]
 

@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[browser-use-video-use]] [[webpack-webpack]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[prismml-eng-bonsai-demo]]
+[[obra-superpowers]] [[chenyme-grok2api]] [[prismml-eng-bonsai-demo]] [[cypress-io-cypress]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

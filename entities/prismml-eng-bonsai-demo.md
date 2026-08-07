@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[obra-superpowers]] [[esengine-deepseek-reasonix]] [[mattpocock-skills]] [[tencentcloud-tencentdb-agent-memory]]
+[[obra-superpowers]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[pranshuparmar-witr]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

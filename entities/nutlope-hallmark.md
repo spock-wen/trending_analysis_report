@@ -38,7 +38,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## 相关项目
 
-[[browser-use-video-use]] [[webpack-webpack]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[mattpocock-skills]]
+[[obra-superpowers]] [[chenyme-grok2api]] [[cypress-io-cypress]] [[addyosmani-agent-skills]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

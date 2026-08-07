@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[webpack-webpack]] [[addyosmani-agent-skills]] [[nomadamas-k-skill]]
+[[affaan-m-ecc]] [[addyosmani-agent-skills]] [[webpack-webpack]] [[nomadamas-k-skill]]
 

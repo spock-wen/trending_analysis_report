@@ -37,7 +37,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[significant-gravitas-autogpt]] [[obra-superpowers]] [[paperswithbacktest-awesome-systematic-trading]] [[goauthentik-authentik]]
+[[obra-superpowers]] [[addyosmani-agent-skills]] [[significant-gravitas-autogpt]] [[zhaoxuya520-reverse-skill]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

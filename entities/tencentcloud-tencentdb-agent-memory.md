@@ -38,7 +38,7 @@ TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conv
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[cloudflare-computer]] [[mattpocock-skills]]
+[[obra-superpowers]] [[addyosmani-agent-skills]] [[tailwindlabs-tailwindcss]] [[cloudflare-computer]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

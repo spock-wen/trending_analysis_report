@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[esengine-deepseek-reasonix]] [[cloudflare-computer]]
+[[obra-superpowers]] [[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[tencentcloud-tencentdb-agent-memory]] [[cloudflare-computer]]
 
 **所属领域**: [[cli]]
 

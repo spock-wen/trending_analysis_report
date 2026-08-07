@@ -36,7 +36,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[webpack-webpack]] [[agavra-tuicr]] [[trycua-cua]] [[prisma-prisma]]
+[[denoland-celld]] [[webpack-webpack]] [[trycua-cua]] [[graphify-labs-graphify]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[security]] [[image-gen]]
 

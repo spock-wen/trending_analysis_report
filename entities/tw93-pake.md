@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[browser-use-video-use]] [[webpack-webpack]] [[agavra-tuicr]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]]
+[[chenyme-grok2api]] [[obra-superpowers]] [[cypress-io-cypress]] [[denoland-celld]] [[browser-use-video-use]]
 
 **所属领域**: [[web]] [[cli]]
 

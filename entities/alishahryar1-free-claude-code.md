@@ -16,7 +16,6 @@ last_trending: 2026-08-04
 peak_rank: 7
 total_stars: 44015
 language: "Python"
-contested: true
 ---
 
 # Alishahryar1/free-claude-code
@@ -38,17 +37,7 @@ Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone li
 
 ## 相关项目
 
-[[significant-gravitas-autogpt]] [[obra-superpowers]] [[goauthentik-authentik]] [[esengine-deepseek-reasonix]] [[huangruiteng-loopx]]
+[[obra-superpowers]] [[chenyme-grok2api]] [[addyosmani-agent-skills]] [[significant-gravitas-autogpt]] [[pranshuparmar-witr]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
-
-
-## ⚠️ 描述变更（2026-08-04）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
-- **新描述**: Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

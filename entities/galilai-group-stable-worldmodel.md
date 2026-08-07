@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[webpack-webpack]] [[trycua-cua]] [[significant-gravitas-autogpt]] [[obra-superpowers]]
+[[obra-superpowers]] [[bytedance-deer-flow]] [[addyosmani-agent-skills]] [[webpack-webpack]] [[significant-gravitas-autogpt]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

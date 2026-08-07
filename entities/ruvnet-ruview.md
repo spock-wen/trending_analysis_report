@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[agavra-tuicr]] [[firecrawl-pdf-inspector]] [[uber-adr]] [[ansible-ansible]] [[denoland-deno]]
+[[denoland-celld]] [[semantica-agi-semantica]] [[denoland-deno]] [[uber-adr]] [[jdx-mise]]
 
 **所属领域**: [[devops]]
 

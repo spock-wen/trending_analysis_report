@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[significant-gravitas-autogpt]] [[obra-superpowers]] [[goauthentik-authentik]] [[esengine-deepseek-reasonix]] [[huangruiteng-loopx]]
+[[obra-superpowers]] [[chenyme-grok2api]] [[addyosmani-agent-skills]] [[significant-gravitas-autogpt]] [[pranshuparmar-witr]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

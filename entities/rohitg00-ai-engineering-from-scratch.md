@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[significant-gravitas-autogpt]] [[obra-superpowers]] [[paperswithbacktest-awesome-systematic-trading]] [[goauthentik-authentik]] [[donnemartin-system-design-primer]]
+[[obra-superpowers]] [[addyosmani-agent-skills]] [[significant-gravitas-autogpt]] [[goauthentik-authentik]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

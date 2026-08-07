@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[browser-use-video-use]] [[webpack-webpack]] [[trycua-cua]] [[tailwindlabs-tailwindcss]] [[paperswithbacktest-awesome-systematic-trading]]
+[[chenyme-grok2api]] [[cypress-io-cypress]] [[browser-use-video-use]] [[trycua-cua]] [[tailwindlabs-tailwindcss]]
 
 **所属领域**: [[web]] [[education]]
 

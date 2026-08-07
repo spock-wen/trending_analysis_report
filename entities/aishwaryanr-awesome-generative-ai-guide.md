@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[browser-use-video-use]] [[webpack-webpack]] [[trycua-cua]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]]
+[[obra-superpowers]] [[chenyme-grok2api]] [[cypress-io-cypress]] [[pkuflyingpig-cs-self-learning]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

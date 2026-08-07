@@ -35,7 +35,7 @@ Lightweight loop engineering state kernel for long-running AI agent teams. Agent
 
 ## 相关项目
 
-[[significant-gravitas-autogpt]] [[obra-superpowers]] [[goauthentik-authentik]] [[mattpocock-skills]] [[tencentcloud-tencentdb-agent-memory]]
+[[obra-superpowers]] [[addyosmani-agent-skills]] [[significant-gravitas-autogpt]] [[goauthentik-authentik]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

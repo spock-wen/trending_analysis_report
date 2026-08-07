@@ -36,7 +36,7 @@ Let's use AI to Earn!
 
 ## 相关项目
 
-[[everyinc-compound-engineering-plugin]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[cloudflare-computer]] [[mattpocock-skills]]
+[[obra-superpowers]] [[addyosmani-agent-skills]] [[tailwindlabs-tailwindcss]] [[tencentcloud-tencentdb-agent-memory]] [[cloudflare-computer]]
 
 **所属领域**: [[ai-agent]]
 

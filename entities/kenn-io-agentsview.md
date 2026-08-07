@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[obra-superpowers]] [[github-gh-stack]] [[corebunch-instatic]] [[esengine-deepseek-reasonix]] [[yorukot-superfile]]
+[[chenyme-grok2api]] [[obra-superpowers]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[corebunch-instatic]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

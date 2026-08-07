@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[significant-gravitas-autogpt]] [[obra-superpowers]] [[goauthentik-authentik]] [[esengine-deepseek-reasonix]] [[huangruiteng-loopx]]
+[[obra-superpowers]] [[chenyme-grok2api]] [[significant-gravitas-autogpt]] [[pranshuparmar-witr]] [[goauthentik-authentik]]
 
 **所属领域**: [[cli]]
 

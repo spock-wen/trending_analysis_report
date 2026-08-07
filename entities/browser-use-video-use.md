@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[webpack-webpack]] [[tailwindlabs-tailwindcss]] [[significant-gravitas-autogpt]] [[obra-superpowers]] [[goauthentik-authentik]]
+[[obra-superpowers]] [[chenyme-grok2api]] [[cypress-io-cypress]] [[addyosmani-agent-skills]] [[significant-gravitas-autogpt]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

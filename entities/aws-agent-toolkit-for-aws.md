@@ -35,7 +35,7 @@ Official, AWS-supported MCP servers, skills, and plugins to help AI agents build
 
 ## 相关项目
 
-[[significant-gravitas-autogpt]] [[obra-superpowers]] [[goauthentik-authentik]] [[huangruiteng-loopx]] [[mattpocock-skills]]
+[[obra-superpowers]] [[addyosmani-agent-skills]] [[significant-gravitas-autogpt]] [[goauthentik-authentik]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

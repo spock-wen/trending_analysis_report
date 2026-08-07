@@ -35,5 +35,5 @@ Fully automatic censorship removal for language models
 
 ## 相关项目
 
-[[significant-gravitas-autogpt]] [[huangruiteng-loopx]] [[tirth8205-code-review-graph]] [[goauthentik-authentik]]
+[[significant-gravitas-autogpt]] [[goauthentik-authentik]] [[google-skills]] [[666ghj-mirofish]]
 

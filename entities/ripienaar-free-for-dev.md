@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[browser-use-video-use]] [[webpack-webpack]] [[trycua-cua]] [[tailwindlabs-tailwindcss]] [[uber-adr]]
+[[chenyme-grok2api]] [[cypress-io-cypress]] [[pkuflyingpig-cs-self-learning]] [[browser-use-video-use]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[devops]]
 

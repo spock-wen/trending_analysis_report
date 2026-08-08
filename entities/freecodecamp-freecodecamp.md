@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[tencentcloud-tencentdb-agent-memory]] [[cloudflare-computer]] [[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]]
+[[primeintellect-ai-prime-agent]] [[tailwindlabs-tailwindcss]] [[donnemartin-system-design-primer]] [[cloudflare-computer]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[education]]
 

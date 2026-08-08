@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[obra-superpowers]] [[cypress-io-cypress]] [[denoland-celld]] [[browser-use-video-use]]
+[[denoland-celld]] [[jdx-mise]] [[chenyme-grok2api]] [[obra-superpowers]] [[tailwindlabs-tailwindcss]]
 
 **所属领域**: [[web]] [[cli]]
 

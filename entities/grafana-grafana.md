@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[corebunch-instatic]] [[tailwindlabs-tailwindcss]] [[tencentcloud-tencentdb-agent-memory]] [[cloudflare-computer]]
+[[primeintellect-ai-prime-agent]] [[tailwindlabs-tailwindcss]] [[semantica-agi-semantica]] [[cloudflare-computer]] [[opengeos-geolibre]]
 
 **所属领域**: [[data]] [[devops]]
 

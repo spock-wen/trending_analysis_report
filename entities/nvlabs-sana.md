@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[webpack-webpack]] [[significant-gravitas-autogpt]] [[trycua-cua]] [[prisma-prisma]] [[goauthentik-authentik]]
+[[webpack-webpack]] [[trycua-cua]] [[goauthentik-authentik]] [[prisma-prisma]] [[google-skills]]
 
 **所属领域**: [[image-gen]]
 

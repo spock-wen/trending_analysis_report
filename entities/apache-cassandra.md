@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[google-guava]] [[semantica-agi-semantica]] [[opengeos-geolibre]] [[uber-adr]]
+[[jenkinsci-jenkins]] [[semantica-agi-semantica]] [[opengeos-geolibre]] [[github-copilot-sdk]] [[google-guava]]
 
 **所属领域**: [[data]] [[devops]]
 

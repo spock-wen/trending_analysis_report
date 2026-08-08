@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-08-08 | 总页面：451
+> 最后更新：2026-08-09 | 总页面：453
 
 ## Entities
 
@@ -157,13 +157,13 @@
 - [[github-docs|docs"]] — The open-source repo for docs.github.com
 - [[github-gh-stack|gh-stack"]] — GitHub Stacked PRs
 - [[github-spec-kit|spec-kit"]] — 💫 Toolkit to help you get started with Spec-Driven Developme...
-- [[goauthentik-authentik|authentik"]] — The authentication glue you need. 🆕
+- [[goauthentik-authentik|authentik"]] — The authentication glue you need. 🔥
 - [[godotengine-godot|godot"]] — Godot Engine – Multi-platform 2D and 3D game engine
 - [[google-agents-cli|agents-cli"]] — The CLI and skills that turn any coding assistant into an ex...
-- [[google-guava|guava"]] — Google core libraries for Java 🆕
+- [[google-guava|guava"]] — Google core libraries for Java 🔥
 - [[google-labs-code-stitch-skills|stitch-skills"]] — A library of Agent Skills designed to work with the Stitch M... 🆕
 - [[google-research-timesfm|timesfm"]] — TimesFM (Time Series Foundation Model) is a pretrained time-... 🔥
-- [[google-skills|skills"]] — Agent Skills for Google products and technologies
+- [[google-skills|skills"]] — Agent Skills for Google products and technologies 🆕
 - [[gorvgoyl-clone-wars|Clone-Wars"]] — 100+ open-source clones of popular sites like Airbnb, Amazon...
 - [[grafana-grafana|grafana"]] — The open and composable observability and data visualization...
 - [[graphify-labs-graphify|graphify"]] — AI coding assistant skill (Claude Code, Codex, OpenCode, Cur...
@@ -207,7 +207,7 @@
 - [[jamwithai-production-agentic-rag-course|production-agentic-rag-course"]] — No description
 - [[jbeder-yaml-cpp|yaml-cpp"]] — A YAML parser and emitter in C++
 - [[jcodesmore-ai-website-cloner-template|ai-website-cloner-template"]] — Clone any website with one command using AI coding agents 🔥
-- [[jdx-mise|mise"]] — dev tools, env vars, task runner 🆕
+- [[jdx-mise|mise"]] — dev tools, env vars, task runner
 - [[jellyfin-jellyfin|jellyfin"]] — The Free Software Media System - Server Backend & API
 - [[jenkinsci-jenkins|jenkins"]] — Jenkins automation server
 - [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm"]] — Claude Skill: Multi-source content processor for NotebookLM. 🆕
@@ -229,6 +229,7 @@
 - [[kunchenguid-no-mistakes|no-mistakes"]] — git push no-mistakes
 - [[kvcache-ai-ktransformers|ktransformers"]] — A Flexible Framework for Experiencing Heterogeneous LLM Infe... 🆕
 - [[kyutai-labs-pocket-tts|pocket-tts"]] — A TTS that fits in your CPU (and pocket)
+- [[ladybirdbrowser-ladybird|ladybird"]] — Truly independent web browser 🆕
 - [[langflow-ai-langflow|langflow"]] — Langflow is a powerful tool for building and deploying AI-po...
 - [[leonxlnx-taste-skill|taste-skill"]] — Taste-Skill - gives your AI good taste. stops the AI from ge... 🆕
 - [[lfnovo-open-notebook|open-notebook"]] — An Open Source implementation of Notebook LM with more flexi... 🔥
@@ -236,6 +237,7 @@
 - [[light-heart-labs-dreamserver|DreamServer"]] — Local AI anywhere, for everyone — LLM inference, chat UI, vo...
 - [[lightricks-ltx-2|LTX-2"]] — Official Python inference and LoRA trainer package for the L... 🆕
 - [[likec4-likec4|likec4"]] — Visualize, collaborate, and evolve the software architecture... 🔥
+- [[litu54-devops-interview-guide|DevOps-Interview-Guide"]] — DevOps Interview Guide 🆕
 - [[livekit-agents|agents"]] — A framework for building realtime voice AI agents 🤖🎙️📹 🆕
 - [[lmcache-lmcache|LMCache"]] — LMCache: Supercharge Your LLM with the Fastest KV Cache Laye... 🆕
 - [[lobehub-lobehub|lobehub"]] — 🤯 LobeHub is your Chief Agent Operator, organizing your agen...
@@ -251,7 +253,7 @@
 - [[manaflow-ai-cmux|cmux"]] — Ghostty-based macOS terminal with vertical tabs and notifica... 🔥
 - [[masterking32-masterdnsvpn|MasterDnsVPN"]] — Advanced DNS tunneling VPN for censorship bypass, optimized ... 🔥
 - [[mattermost-mattermost|mattermost"]] — Mattermost is an open source platform for secure collaborati... 🆕
-- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .agents director... 🆕
+- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .agents director... 🔥
 - [[mauriceboe-trek|TREK"]] — A self-hosted travel/trip planner with real-time collaborati... 🆕
 - [[maziyarpanahi-openmed|openmed"]] — open-source healthcare ai 🔥
 - [[mebus-cupp|cupp"]] — Common User Passwords Profiler (CUPP) 🆕
@@ -335,7 +337,7 @@
 - [[plausible-analytics|analytics"]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
 - [[posthog-posthog|posthog"]] — 🦔 PostHog is the leading platform for building self-driving ... 🔥
 - [[pppscn-smsforwarder|SmsForwarder"]] — 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内...
-- [[pranshuparmar-witr|witr"]] — Why is this running? Trace any process, port, container, or ... 🆕
+- [[pranshuparmar-witr|witr"]] — Why is this running? Trace any process, port, container, or ...
 - [[prefecthq-fastmcp|fastmcp"]] — 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [[prefecthq-prefect|prefect"]] — Prefect is a workflow orchestration framework for building r...
 - [[primeintellect-ai-prime-agent|prime-agent"]] — A self-improving RLM agent for coding workflows and long-run... 🆕
@@ -366,7 +368,7 @@
 - [[safishamsi-graphify|graphify"]] — AI coding assistant skill (Claude Code, Codex, OpenCode, Cur...
 - [[santifer-career-ops|career-ops"]] — AI-powered job search system built on Claude Code. 14 skill ...
 - [[schollz-croc|croc"]] — Easily and securely send things from one computer to another... 🆕
-- [[semantica-agi-semantica|semantica"]] — Graph-Native Infrastructure for Context and Accountable AI S... 🆕
+- [[semantica-agi-semantica|semantica"]] — Graph-Native Infrastructure for Context and Accountable AI S...
 - [[shanraisshan-claude-code-best-practice|claude-code-best-practice"]] — from vibe coding to agentic engineering - practice makes cla...
 - [[shiyu-coder-kronos|Kronos"]] — Kronos: A Foundation Model for the Language of Financial Mar...
 - [[shubhamsaboo-awesome-llm-apps|awesome-llm-apps"]] — 100+ AI Agent & RAG apps you can actually run — clone, custo... 🔥
@@ -409,7 +411,7 @@
 - [[tw93-pake|Pake"]] — 🤱🏻 Turn any webpage into a desktop app with one command. 🆕
 - [[twentyhq-twenty|twenty"]] — The open alternative to Salesforce, designed for AI.
 - [[uber-adr|ADR"]] — ADR secures enterprise AI agents through observability, secu... 🆕
-- [[unclebob-swarm-forge|swarm-forge"]] — A simple tool for coordinating several AI agents. 🆕
+- [[unclebob-swarm-forge|swarm-forge"]] — A simple tool for coordinating several AI agents.
 - [[unclecheng-li-vulnclaw|VulnClaw"]] — 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「...
 - [[unclecode-crawl4ai|crawl4ai"]] — 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper....
 - [[universal-debloater-alliance-universal-android-debloater-next-generation|universal-android-debloater-next-generation"]] — Cross-platform GUI written in Rust using ADB to debloat non-... 🔥

@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[obra-superpowers]] [[cypress-io-cypress]] [[browser-use-video-use]] [[tailwindlabs-tailwindcss]]
+[[chenyme-grok2api]] [[obra-superpowers]] [[tailwindlabs-tailwindcss]] [[mattpocock-skills]] [[pranshuparmar-witr]]
 
 **所属领域**: [[web]] [[cli]]
 

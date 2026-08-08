@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[obra-superpowers]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[corebunch-instatic]]
+[[chenyme-grok2api]] [[opengeos-geolibre]] [[mattpocock-skills]] [[pranshuparmar-witr]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

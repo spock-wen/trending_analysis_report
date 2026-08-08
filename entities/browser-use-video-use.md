@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[obra-superpowers]] [[chenyme-grok2api]] [[cypress-io-cypress]] [[addyosmani-agent-skills]] [[significant-gravitas-autogpt]]
+[[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[cypress-io-cypress]] [[mattpocock-skills]] [[goauthentik-authentik]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

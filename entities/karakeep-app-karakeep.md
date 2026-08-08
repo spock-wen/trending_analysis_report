@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[obra-superpowers]] [[addyosmani-agent-skills]] [[webpack-webpack]] [[tailwindlabs-tailwindcss]] [[trycua-cua]]
+[[webpack-webpack]] [[primeintellect-ai-prime-agent]] [[tailwindlabs-tailwindcss]] [[trycua-cua]] [[cloudflare-computer]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

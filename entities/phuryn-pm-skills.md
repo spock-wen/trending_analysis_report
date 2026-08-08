@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[obra-superpowers]] [[chenyme-grok2api]] [[addyosmani-agent-skills]] [[pranshuparmar-witr]] [[mattpocock-skills]]
+[[chenyme-grok2api]] [[obra-superpowers]] [[mattpocock-skills]] [[pranshuparmar-witr]] [[google-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

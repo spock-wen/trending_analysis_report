@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[obra-superpowers]] [[addyosmani-agent-skills]] [[significant-gravitas-autogpt]] [[goauthentik-authentik]] [[microsoft-generative-ai-for-beginners]]
+[[donnemartin-system-design-primer]] [[mattpocock-skills]] [[goauthentik-authentik]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

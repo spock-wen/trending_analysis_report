@@ -38,7 +38,7 @@ agent multiplexer that lives in your terminal.
 
 ## 相关项目
 
-[[obra-superpowers]] [[chenyme-grok2api]] [[denoland-celld]] [[addyosmani-agent-skills]] [[pranshuparmar-witr]]
+[[denoland-celld]] [[jdx-mise]] [[chenyme-grok2api]] [[obra-superpowers]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

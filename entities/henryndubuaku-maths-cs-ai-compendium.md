@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[obra-superpowers]] [[bytedance-deer-flow]] [[addyosmani-agent-skills]] [[tailwindlabs-tailwindcss]] [[tencentcloud-tencentdb-agent-memory]]
+[[primeintellect-ai-prime-agent]] [[tailwindlabs-tailwindcss]] [[mvanhorn-last30days-skill]] [[cloudflare-computer]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

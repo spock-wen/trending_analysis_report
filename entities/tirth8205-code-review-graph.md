@@ -38,7 +38,7 @@ Local-first code intelligence graph for MCP and CLI. Builds a persistent map of 
 
 ## 相关项目
 
-[[obra-superpowers]] [[chenyme-grok2api]] [[addyosmani-agent-skills]] [[significant-gravitas-autogpt]] [[pranshuparmar-witr]]
+[[chenyme-grok2api]] [[obra-superpowers]] [[mattpocock-skills]] [[pranshuparmar-witr]] [[goauthentik-authentik]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

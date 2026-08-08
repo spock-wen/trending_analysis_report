@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[obra-superpowers]] [[denoland-celld]] [[addyosmani-agent-skills]] [[denoland-deno]] [[mattpocock-skills]]
+[[denoland-celld]] [[jdx-mise]] [[mattpocock-skills]] [[google-skills]] [[firecrawl-pdf-inspector]]
 
 **所属领域**: [[ai-agent]]
 

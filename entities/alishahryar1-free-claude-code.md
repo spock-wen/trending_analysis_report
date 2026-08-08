@@ -37,7 +37,7 @@ Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone li
 
 ## 相关项目
 
-[[obra-superpowers]] [[chenyme-grok2api]] [[addyosmani-agent-skills]] [[significant-gravitas-autogpt]] [[pranshuparmar-witr]]
+[[jamiepine-voicebox]] [[chenyme-grok2api]] [[obra-superpowers]] [[mattpocock-skills]] [[pranshuparmar-witr]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

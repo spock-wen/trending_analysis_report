@@ -35,7 +35,7 @@ A skill for your coding agent to stop it from burying the answer. ADHD-friendly 
 
 ## 相关项目
 
-[[obra-superpowers]] [[addyosmani-agent-skills]] [[significant-gravitas-autogpt]] [[goauthentik-authentik]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[goauthentik-authentik]] [[google-skills]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[obra-superpowers]] [[cypress-io-cypress]] [[browser-use-video-use]] [[tailwindlabs-tailwindcss]]
+[[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[obra-superpowers]] [[tailwindlabs-tailwindcss]] [[cloudflare-computer]]
 
 **所属领域**: [[web]] [[cli]]
 

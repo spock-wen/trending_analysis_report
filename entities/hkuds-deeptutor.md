@@ -36,7 +36,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[cypress-io-cypress]] [[browser-use-video-use]] [[significant-gravitas-autogpt]] [[tailwindlabs-tailwindcss]]
+[[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[ladybirdbrowser-ladybird]] [[goauthentik-authentik]] [[google-skills]]
 
 **所属领域**: [[web]]
 

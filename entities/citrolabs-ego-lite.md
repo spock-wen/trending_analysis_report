@@ -36,7 +36,7 @@ The fastest browser for AI agents to run web automation, built for sharing your 
 
 ## 相关项目
 
-[[obra-superpowers]] [[chenyme-grok2api]] [[cypress-io-cypress]] [[addyosmani-agent-skills]] [[webpack-webpack]]
+[[webpack-webpack]] [[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[cypress-io-cypress]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

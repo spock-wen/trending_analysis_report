@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[corebunch-instatic]] [[significant-gravitas-autogpt]] [[goauthentik-authentik]] [[opengeos-geolibre]]
+[[opengeos-geolibre]] [[alibaba-open-code-review]] [[goauthentik-authentik]] [[corebunch-instatic]] [[google-skills]]
 
 **所属领域**: [[data]]
 

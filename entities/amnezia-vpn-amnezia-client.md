@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[obra-superpowers]] [[chenyme-grok2api]] [[zhaoxuya520-reverse-skill]] [[pranshuparmar-witr]] [[uber-adr]]
+[[chenyme-grok2api]] [[obra-superpowers]] [[geo-tp-esp32-bit-pirate]] [[mattpocock-skills]] [[pranshuparmar-witr]]
 
 **所属领域**: [[cli]] [[security]]
 

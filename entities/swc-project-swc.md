@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[cypress-io-cypress]] [[denoland-celld]] [[browser-use-video-use]] [[tailwindlabs-tailwindcss]]
+[[denoland-celld]] [[jdx-mise]] [[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[ladybirdbrowser-ladybird]]
 
 **所属领域**: [[web]]
 

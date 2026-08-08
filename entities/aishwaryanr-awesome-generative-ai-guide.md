@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[obra-superpowers]] [[chenyme-grok2api]] [[cypress-io-cypress]] [[pkuflyingpig-cs-self-learning]] [[addyosmani-agent-skills]]
+[[chenyme-grok2api]] [[addyosmani-agent-skills]] [[trycua-cua]] [[tailwindlabs-tailwindcss]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

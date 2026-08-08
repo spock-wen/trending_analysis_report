@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[cypress-io-cypress]] [[browser-use-video-use]] [[tailwindlabs-tailwindcss]] [[bannedbook-fanqiang]]
+[[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[yairm210-unciv]] [[bannedbook-fanqiang]] [[andreknieriem-headunit-revived]]
 
 **所属领域**: [[web]]
 

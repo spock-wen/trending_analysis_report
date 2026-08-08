@@ -36,5 +36,5 @@ A beautiful, powerful, self-hosted rom manager and player.
 
 ## 相关项目
 
-[[significant-gravitas-autogpt]] [[goauthentik-authentik]] [[google-skills]] [[666ghj-mirofish]]
+[[tauricresearch-tradingagents]] [[666ghj-mirofish]] [[goauthentik-authentik]] [[google-skills]]
 

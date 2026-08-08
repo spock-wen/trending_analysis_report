@@ -37,7 +37,7 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[obra-superpowers]] [[bytedance-deer-flow]] [[addyosmani-agent-skills]] [[significant-gravitas-autogpt]] [[zhaoxuya520-reverse-skill]]
+[[mvanhorn-last30days-skill]] [[mattpocock-skills]] [[goauthentik-authentik]] [[zhaoxuya520-reverse-skill]] [[google-skills]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

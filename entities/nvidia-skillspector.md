@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[obra-superpowers]] [[addyosmani-agent-skills]] [[significant-gravitas-autogpt]] [[zhaoxuya520-reverse-skill]] [[amnezia-vpn-amnezia-client]]
+[[mattpocock-skills]] [[affaan-m-ecc]] [[goauthentik-authentik]] [[zhaoxuya520-reverse-skill]] [[google-skills]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[tencentcloud-tencentdb-agent-memory]] [[cloudflare-computer]] [[semantica-agi-semantica]] [[uber-adr]]
+[[primeintellect-ai-prime-agent]] [[tailwindlabs-tailwindcss]] [[semantica-agi-semantica]] [[cloudflare-computer]] [[litu54-devops-interview-guide]]
 
 **所属领域**: [[devops]]
 

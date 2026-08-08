@@ -38,7 +38,7 @@ This is MCP server for Claude that gives it terminal control, file system search
 
 ## 相关项目
 
-[[obra-superpowers]] [[chenyme-grok2api]] [[addyosmani-agent-skills]] [[tailwindlabs-tailwindcss]] [[tencentcloud-tencentdb-agent-memory]]
+[[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[obra-superpowers]] [[tailwindlabs-tailwindcss]] [[cloudflare-computer]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

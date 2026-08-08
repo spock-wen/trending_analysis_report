@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[cypress-io-cypress]] [[browser-use-video-use]] [[tailwindlabs-tailwindcss]] [[tencentcloud-tencentdb-agent-memory]]
+[[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[cloudflare-computer]] [[ladybirdbrowser-ladybird]]
 
 **所属领域**: [[web]]
 

@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[obra-superpowers]] [[chenyme-grok2api]] [[cypress-io-cypress]] [[addyosmani-agent-skills]] [[browser-use-video-use]]
+[[jamiepine-voicebox]] [[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[alishahryar1-free-claude-code]] [[tailwindlabs-tailwindcss]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

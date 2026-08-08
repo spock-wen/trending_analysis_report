@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[obra-superpowers]] [[chenyme-grok2api]] [[bytedance-deer-flow]] [[addyosmani-agent-skills]] [[significant-gravitas-autogpt]]
+[[chenyme-grok2api]] [[obra-superpowers]] [[mvanhorn-last30days-skill]] [[openinterpreter-openinterpreter]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

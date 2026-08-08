@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[alibaba-open-code-review]] [[cypress-io-cypress]] [[browser-use-video-use]] [[corebunch-instatic]]
+[[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[cloudflare-computer]] [[alibaba-open-code-review]]
 
 **所属领域**: [[web]] [[data]]
 

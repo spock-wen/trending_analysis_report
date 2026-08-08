@@ -34,7 +34,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[obra-superpowers]] [[addyosmani-agent-skills]] [[significant-gravitas-autogpt]] [[goauthentik-authentik]] [[uber-adr]]
+[[mattpocock-skills]] [[litu54-devops-interview-guide]] [[ansible-ansible]] [[goauthentik-authentik]] [[google-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

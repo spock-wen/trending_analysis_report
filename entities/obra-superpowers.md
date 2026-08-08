@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[prismml-eng-bonsai-demo]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[pranshuparmar-witr]]
+[[chenyme-grok2api]] [[openinterpreter-openinterpreter]] [[mattpocock-skills]] [[pranshuparmar-witr]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

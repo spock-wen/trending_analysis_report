@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[veracrypt-veracrypt]] [[microsoft-powertoys]] [[obra-superpowers]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
+[[opengeos-geolibre]] [[mattpocock-skills]] [[alibaba-open-code-review]] [[apache-cassandra]] [[microsoft-powertoys]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

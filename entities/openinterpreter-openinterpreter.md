@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[obra-superpowers]] [[denoland-celld]] [[addyosmani-agent-skills]] [[denoland-deno]] [[uber-adr]]
+[[denoland-celld]] [[jdx-mise]] [[obra-superpowers]] [[mattpocock-skills]] [[google-skills]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

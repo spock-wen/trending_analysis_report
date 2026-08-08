@@ -35,7 +35,7 @@ AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our
 
 ## 相关项目
 
-[[obra-superpowers]] [[addyosmani-agent-skills]] [[goauthentik-authentik]] [[mattpocock-skills]] [[666ghj-mirofish]]
+[[mattpocock-skills]] [[goauthentik-authentik]] [[google-skills]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

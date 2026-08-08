@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[obra-superpowers]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[pranshuparmar-witr]]
+[[chenyme-grok2api]] [[obra-superpowers]] [[mattpocock-skills]] [[pranshuparmar-witr]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

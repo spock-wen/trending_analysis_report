@@ -35,7 +35,7 @@ GLM-5: From Vibe Coding to Agentic Engineering
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[google-skills]] [[addyosmani-agent-skills]]
+[[addyosmani-agent-skills]] [[tauricresearch-tradingagents]] [[mattpocock-skills]] [[google-skills]]
 
 **所属领域**: [[ai-agent]]
 

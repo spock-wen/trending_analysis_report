@@ -34,5 +34,5 @@ dev tools, env vars, task runner
 
 ## 相关项目
 
-[[denoland-celld]] [[firecrawl-pdf-inspector]] [[denoland-deno]]
+[[denoland-celld]] [[denoland-deno]] [[firecrawl-pdf-inspector]]
 

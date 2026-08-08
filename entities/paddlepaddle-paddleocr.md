@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[obra-superpowers]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[corebunch-instatic]] [[significant-gravitas-autogpt]]
+[[webpack-webpack]] [[trycua-cua]] [[opengeos-geolibre]] [[mattpocock-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

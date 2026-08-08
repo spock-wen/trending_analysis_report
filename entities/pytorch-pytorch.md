@@ -35,5 +35,5 @@ Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## 相关项目
 
-[[significant-gravitas-autogpt]] [[goauthentik-authentik]] [[google-skills]] [[666ghj-mirofish]]
+[[tauricresearch-tradingagents]] [[666ghj-mirofish]] [[goauthentik-authentik]] [[google-skills]]
 

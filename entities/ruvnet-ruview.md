@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[denoland-celld]] [[semantica-agi-semantica]] [[denoland-deno]] [[uber-adr]] [[jdx-mise]]
+[[denoland-celld]] [[jdx-mise]] [[semantica-agi-semantica]] [[litu54-devops-interview-guide]] [[ansible-ansible]]
 
 **所属领域**: [[devops]]
 

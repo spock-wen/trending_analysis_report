@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[cypress-io-cypress]] [[browser-use-video-use]] [[tailwindlabs-tailwindcss]] [[tencentcloud-tencentdb-agent-memory]]
+[[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[cloudflare-computer]] [[donnemartin-system-design-primer]]
 
 **所属领域**: [[web]] [[education]]
 

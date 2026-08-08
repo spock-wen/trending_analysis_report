@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[obra-superpowers]] [[chenyme-grok2api]] [[cypress-io-cypress]] [[bytedance-deer-flow]] [[addyosmani-agent-skills]]
+[[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[cypress-io-cypress]] [[mattpocock-skills]] [[goauthentik-authentik]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

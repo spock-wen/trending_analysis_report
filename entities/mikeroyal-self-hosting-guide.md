@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[obra-superpowers]] [[chenyme-grok2api]] [[cypress-io-cypress]] [[addyosmani-agent-skills]] [[browser-use-video-use]]
+[[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[donnemartin-system-design-primer]] [[cypress-io-cypress]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

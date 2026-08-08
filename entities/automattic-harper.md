@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[denoland-celld]] [[zhaoxuya520-reverse-skill]] [[denoland-deno]] [[uber-adr]] [[amnezia-vpn-amnezia-client]]
+[[denoland-celld]] [[jdx-mise]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[firecrawl-pdf-inspector]]
 
 **所属领域**: [[security]]
 

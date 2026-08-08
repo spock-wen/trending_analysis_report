@@ -34,5 +34,5 @@ Fast, secure, efficient backup program
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[pranshuparmar-witr]] [[esengine-deepseek-reasonix]] [[github-gh-stack]]
+[[chenyme-grok2api]] [[github-gh-stack]] [[pranshuparmar-witr]] [[esengine-deepseek-reasonix]]
 

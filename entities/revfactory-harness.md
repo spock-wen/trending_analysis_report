@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[obra-superpowers]] [[chenyme-grok2api]] [[cypress-io-cypress]] [[pkuflyingpig-cs-self-learning]] [[addyosmani-agent-skills]]
+[[chenyme-grok2api]] [[addyosmani-agent-skills]] [[trycua-cua]] [[tailwindlabs-tailwindcss]] [[ossu-computer-science]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

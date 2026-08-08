@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[obra-superpowers]] [[google-skills]] [[lyogavin-airllm]] [[addyosmani-agent-skills]] [[anthropics-claude-cookbooks]]
+[[donnemartin-system-design-primer]] [[mattpocock-skills]] [[anthropics-claude-cookbooks]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -34,5 +34,5 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 
 ## 相关项目
 
-[[significant-gravitas-autogpt]] [[goauthentik-authentik]] [[google-skills]] [[666ghj-mirofish]]
+[[tauricresearch-tradingagents]] [[666ghj-mirofish]] [[goauthentik-authentik]] [[google-skills]]
 

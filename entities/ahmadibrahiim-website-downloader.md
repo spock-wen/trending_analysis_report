@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[cypress-io-cypress]] [[pkuflyingpig-cs-self-learning]] [[browser-use-video-use]] [[webpack-webpack]]
+[[webpack-webpack]] [[chenyme-grok2api]] [[trycua-cua]] [[tailwindlabs-tailwindcss]] [[ossu-computer-science]]
 
 **所属领域**: [[web]] [[image-gen]]
 

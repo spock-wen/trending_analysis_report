@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[obra-superpowers]] [[amnezia-vpn-amnezia-client]] [[uber-adr]] [[gabime-spdlog]] [[ocornut-imgui]]
+[[obra-superpowers]] [[openinterpreter-openinterpreter]] [[geo-tp-esp32-bit-pirate]] [[ladybirdbrowser-ladybird]] [[gabime-spdlog]]
 
 **所属领域**: [[erp]]
 

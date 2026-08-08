@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[obra-superpowers]] [[addyosmani-agent-skills]] [[webpack-webpack]] [[significant-gravitas-autogpt]] [[trycua-cua]]
+[[webpack-webpack]] [[trycua-cua]] [[mattpocock-skills]] [[goauthentik-authentik]] [[prisma-prisma]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

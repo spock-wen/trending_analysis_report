@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[obra-superpowers]] [[chenyme-grok2api]] [[addyosmani-agent-skills]] [[significant-gravitas-autogpt]] [[zhaoxuya520-reverse-skill]]
+[[chenyme-grok2api]] [[obra-superpowers]] [[mattpocock-skills]] [[pranshuparmar-witr]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

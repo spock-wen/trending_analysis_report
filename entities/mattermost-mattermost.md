@@ -35,5 +35,5 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[cloudflare-computer]] [[primeintellect-ai-prime-agent]] [[tailwindlabs-tailwindcss]]
+[[primeintellect-ai-prime-agent]] [[tailwindlabs-tailwindcss]] [[cloudflare-computer]] [[tencentcloud-tencentdb-agent-memory]]
 

@@ -38,7 +38,7 @@ Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free),
 
 ## 相关项目
 
-[[obra-superpowers]] [[chenyme-grok2api]] [[addyosmani-agent-skills]] [[tailwindlabs-tailwindcss]] [[tencentcloud-tencentdb-agent-memory]]
+[[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[obra-superpowers]] [[tailwindlabs-tailwindcss]] [[cloudflare-computer]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

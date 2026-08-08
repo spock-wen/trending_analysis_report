@@ -36,5 +36,5 @@ Visualize, collaborate, and evolve the software architecture with always actual 
 
 ## 相关项目
 
-[[tencentcloud-tencentdb-agent-memory]] [[cloudflare-computer]] [[primeintellect-ai-prime-agent]] [[tailwindlabs-tailwindcss]]
+[[primeintellect-ai-prime-agent]] [[tailwindlabs-tailwindcss]] [[cloudflare-computer]] [[tencentcloud-tencentdb-agent-memory]]
 

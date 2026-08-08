@@ -37,7 +37,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[browser-use-video-use]] [[tailwindlabs-tailwindcss]] [[tencentcloud-tencentdb-agent-memory]] [[cloudflare-computer]]
+[[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[cloudflare-computer]] [[ladybirdbrowser-ladybird]]
 
 **所属领域**: [[web]]
 

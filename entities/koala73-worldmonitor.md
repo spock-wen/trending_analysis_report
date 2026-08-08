@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[obra-superpowers]] [[addyosmani-agent-skills]] [[tailwindlabs-tailwindcss]] [[tencentcloud-tencentdb-agent-memory]] [[cloudflare-computer]]
+[[primeintellect-ai-prime-agent]] [[tailwindlabs-tailwindcss]] [[semantica-agi-semantica]] [[cloudflare-computer]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

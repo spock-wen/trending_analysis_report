@@ -36,7 +36,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[obra-superpowers]] [[denoland-celld]] [[addyosmani-agent-skills]] [[denoland-deno]] [[mattpocock-skills]]
+[[denoland-celld]] [[jdx-mise]] [[mattpocock-skills]] [[google-skills]] [[firecrawl-pdf-inspector]]
 
 **所属领域**: [[ai-agent]]
 

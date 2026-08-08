@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[obra-superpowers]] [[chenyme-grok2api]] [[denoland-celld]] [[pranshuparmar-witr]] [[denoland-deno]]
+[[denoland-celld]] [[jdx-mise]] [[chenyme-grok2api]] [[obra-superpowers]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

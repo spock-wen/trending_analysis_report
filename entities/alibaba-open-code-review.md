@@ -37,7 +37,7 @@ Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture cod
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[obra-superpowers]] [[addyosmani-agent-skills]] [[corebunch-instatic]] [[esengine-deepseek-reasonix]]
+[[chenyme-grok2api]] [[opengeos-geolibre]] [[mattpocock-skills]] [[pranshuparmar-witr]] [[apache-cassandra]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

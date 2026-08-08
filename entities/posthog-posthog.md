@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[obra-superpowers]] [[chenyme-grok2api]] [[cypress-io-cypress]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
+[[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[semantica-agi-semantica]] [[cypress-io-cypress]] [[opengeos-geolibre]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

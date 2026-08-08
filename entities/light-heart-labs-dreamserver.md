@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[obra-superpowers]] [[addyosmani-agent-skills]] [[webpack-webpack]] [[significant-gravitas-autogpt]] [[trycua-cua]]
+[[webpack-webpack]] [[jamiepine-voicebox]] [[alishahryar1-free-claude-code]] [[trycua-cua]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

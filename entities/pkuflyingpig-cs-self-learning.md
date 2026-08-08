@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[cypress-io-cypress]] [[browser-use-video-use]] [[trycua-cua]] [[tailwindlabs-tailwindcss]]
+[[chenyme-grok2api]] [[trycua-cua]] [[tailwindlabs-tailwindcss]] [[donnemartin-system-design-primer]] [[ossu-computer-science]]
 
 **所属领域**: [[web]] [[education]]
 

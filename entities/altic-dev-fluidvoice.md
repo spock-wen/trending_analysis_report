@@ -37,7 +37,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[obra-superpowers]] [[addyosmani-agent-skills]] [[palmier-io-palmier-pro]] [[alishahryar1-free-claude-code]] [[jamiepine-voicebox]]
+[[jamiepine-voicebox]] [[alishahryar1-free-claude-code]] [[palmier-io-palmier-pro]] [[mattpocock-skills]] [[steipete-codexbar]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

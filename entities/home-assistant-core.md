@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[significant-gravitas-autogpt]] [[zhaoxuya520-reverse-skill]] [[amnezia-vpn-amnezia-client]] [[goauthentik-authentik]] [[uber-adr]]
+[[affaan-m-ecc]] [[goauthentik-authentik]] [[zhaoxuya520-reverse-skill]] [[google-skills]] [[uber-adr]]
 
 **所属领域**: [[security]]
 

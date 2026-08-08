@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[obra-superpowers]] [[chenyme-grok2api]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[corebunch-instatic]]
+[[chenyme-grok2api]] [[obra-superpowers]] [[jenkinsci-jenkins]] [[opengeos-geolibre]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

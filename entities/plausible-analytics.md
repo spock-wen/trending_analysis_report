@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[alibaba-open-code-review]] [[cypress-io-cypress]] [[browser-use-video-use]] [[corebunch-instatic]]
+[[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[opengeos-geolibre]] [[alibaba-open-code-review]] [[apache-cassandra]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

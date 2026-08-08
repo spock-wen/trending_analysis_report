@@ -37,5 +37,5 @@ Fast Rust library for PDF inspection, classification, and text extraction. Intel
 
 ## 相关项目
 
-[[jdx-mise]] [[denoland-celld]] [[denoland-deno]]
+[[denoland-celld]] [[jdx-mise]] [[denoland-deno]]
 

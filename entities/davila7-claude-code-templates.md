@@ -36,7 +36,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[obra-superpowers]] [[chenyme-grok2api]] [[addyosmani-agent-skills]] [[significant-gravitas-autogpt]] [[pranshuparmar-witr]]
+[[chenyme-grok2api]] [[obra-superpowers]] [[semantica-agi-semantica]] [[mattpocock-skills]] [[pranshuparmar-witr]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

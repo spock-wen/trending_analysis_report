@@ -35,7 +35,7 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[obra-superpowers]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[corebunch-instatic]] [[significant-gravitas-autogpt]]
+[[opengeos-geolibre]] [[mattpocock-skills]] [[alibaba-open-code-review]] [[apache-cassandra]] [[goauthentik-authentik]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

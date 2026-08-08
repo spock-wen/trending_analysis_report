@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[obra-superpowers]] [[bytedance-deer-flow]] [[addyosmani-agent-skills]] [[webpack-webpack]] [[significant-gravitas-autogpt]]
+[[webpack-webpack]] [[trycua-cua]] [[mvanhorn-last30days-skill]] [[mattpocock-skills]] [[goauthentik-authentik]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

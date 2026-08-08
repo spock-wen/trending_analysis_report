@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[obra-superpowers]] [[chenyme-grok2api]] [[significant-gravitas-autogpt]] [[alishahryar1-free-claude-code]] [[pranshuparmar-witr]]
+[[jamiepine-voicebox]] [[chenyme-grok2api]] [[alishahryar1-free-claude-code]] [[obra-superpowers]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]] [[audio]]
 

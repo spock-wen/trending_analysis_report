@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[obra-superpowers]] [[tailwindlabs-tailwindcss]] [[cloudflare-computer]]
+[[mattpocock-skills]] [[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[cloudflare-computer]] [[tencentcloud-tencentdb-agent-memory]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[trycua-cua]] [[tailwindlabs-tailwindcss]] [[ladybirdbrowser-ladybird]] [[pkuflyingpig-cs-self-learning]]
+[[pkuflyingpig-cs-self-learning]] [[ladybirdbrowser-ladybird]] [[msitarzewski-agency-agents]] [[chenyme-grok2api]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[web]]
 

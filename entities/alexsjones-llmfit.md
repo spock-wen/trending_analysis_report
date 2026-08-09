@@ -34,7 +34,7 @@ Hundreds of models & providers. One command to find what runs on your hardware.
 
 ## 相关项目
 
-[[denoland-celld]] [[jdx-mise]] [[chenyme-grok2api]] [[obra-superpowers]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[jdx-mise]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

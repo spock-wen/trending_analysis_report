@@ -37,7 +37,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[mattpocock-skills]] [[goauthentik-authentik]] [[zhaoxuya520-reverse-skill]] [[google-skills]]
+[[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

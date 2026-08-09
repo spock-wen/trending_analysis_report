@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[trycua-cua]] [[graphify-labs-graphify]] [[cypress-io-cypress]]
+[[graphify-labs-graphify]] [[addyosmani-agent-skills]] [[ladybirdbrowser-ladybird]] [[msitarzewski-agency-agents]] [[nomadamas-k-skill]]
 
 **所属领域**: [[web]] [[image-gen]]
 

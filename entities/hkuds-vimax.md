@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[webpack-webpack]] [[trycua-cua]] [[mattpocock-skills]] [[goauthentik-authentik]] [[prisma-prisma]]
+[[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[webpack-webpack]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

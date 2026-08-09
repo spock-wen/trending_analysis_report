@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[obra-superpowers]] [[mvanhorn-last30days-skill]] [[openinterpreter-openinterpreter]] [[mattpocock-skills]]
+[[bytedance-deer-flow]] [[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

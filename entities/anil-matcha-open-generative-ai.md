@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[webpack-webpack]] [[trycua-cua]] [[graphify-labs-graphify]] [[mattpocock-skills]] [[nomadamas-k-skill]]
+[[webpack-webpack]] [[google-skills]] [[graphify-labs-graphify]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

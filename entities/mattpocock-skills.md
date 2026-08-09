@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[obra-superpowers]] [[pranshuparmar-witr]] [[msitarzewski-agency-agents]] [[google-skills]]
+[[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[msitarzewski-agency-agents]] [[prismml-eng-bonsai-demo]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

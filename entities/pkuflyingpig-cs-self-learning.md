@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[trycua-cua]] [[tailwindlabs-tailwindcss]] [[donnemartin-system-design-primer]] [[ossu-computer-science]]
+[[microsoft-ai-for-beginners]] [[ladybirdbrowser-ladybird]] [[msitarzewski-agency-agents]] [[chenyme-grok2api]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[web]] [[education]]
 

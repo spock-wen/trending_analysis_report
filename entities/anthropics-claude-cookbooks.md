@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[mattpocock-skills]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[google-skills]]
+[[google-skills]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[addyosmani-agent-skills]] [[primeintellect-ai-prime-agent]]
 
 **所属领域**: [[ai-agent]]
 

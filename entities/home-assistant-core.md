@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[goauthentik-authentik]] [[zhaoxuya520-reverse-skill]] [[google-skills]] [[uber-adr]]
+[[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[amnezia-vpn-amnezia-client]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[security]]
 

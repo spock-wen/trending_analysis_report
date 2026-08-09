@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[donnemartin-system-design-primer]] [[goauthentik-authentik]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]]
+[[bytedance-deer-flow]] [[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[education]] [[science]]
 

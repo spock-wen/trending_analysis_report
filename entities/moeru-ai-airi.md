@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[alishahryar1-free-claude-code]] [[tailwindlabs-tailwindcss]]
+[[livekit-agents]] [[alishahryar1-free-claude-code]] [[jamiepine-voicebox]] [[google-skills]] [[primeintellect-ai-prime-agent]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

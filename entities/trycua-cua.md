@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[webpack-webpack]] [[chenyme-grok2api]] [[addyosmani-agent-skills]] [[tailwindlabs-tailwindcss]] [[ossu-computer-science]]
+[[pkuflyingpig-cs-self-learning]] [[webpack-webpack]] [[google-skills]] [[apache-cassandra]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

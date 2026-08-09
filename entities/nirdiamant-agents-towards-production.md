@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[obra-superpowers]] [[semantica-agi-semantica]] [[donnemartin-system-design-primer]] [[openinterpreter-openinterpreter]] [[mattpocock-skills]]
+[[anthropics-cwc-workshops]] [[google-skills]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

@@ -38,7 +38,7 @@ Open-source AI penetration testing tool to find and fix your app’s vulnerabili
 
 ## 相关项目
 
-[[mattpocock-skills]] [[goauthentik-authentik]] [[google-skills]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]]
+[[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

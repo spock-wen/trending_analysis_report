@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[tailwindlabs-tailwindcss]] [[cloudflare-computer]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]]
+[[amnezia-vpn-amnezia-client]] [[primeintellect-ai-prime-agent]] [[cloudflare-computer]] [[tencentcloud-tencentdb-agent-memory]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[security]]
 

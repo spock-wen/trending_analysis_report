@@ -1,0 +1,107 @@
+{
+  "date": "2026-08-10",
+  "scraped_at": "2026-08-10T07:00:50.697216",
+  "period": "daily",
+  "count": 11,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars_today": 2319,
+      "total_stars": 10931,
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+    },
+    {
+      "rank": 2,
+      "repo": "vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "stars_today": 59,
+      "total_stars": 2954,
+      "url": "https://github.com/vitali87/code-graph-rag"
+    },
+    {
+      "rank": 3,
+      "repo": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars_today": 932,
+      "total_stars": 140604,
+      "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "rank": 4,
+      "repo": "pranshuparmar/witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "language": "Go",
+      "stars_today": 342,
+      "total_stars": 20600,
+      "url": "https://github.com/pranshuparmar/witr"
+    },
+    {
+      "rank": 5,
+      "repo": "google-deepmind/weathernext",
+      "description": "",
+      "language": "Python",
+      "stars_today": 105,
+      "total_stars": 7056,
+      "url": "https://github.com/google-deepmind/weathernext"
+    },
+    {
+      "rank": 6,
+      "repo": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": 670,
+      "total_stars": 85091,
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "rank": 8,
+      "repo": "goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars_today": 312,
+      "total_stars": 24246,
+      "url": "https://github.com/goauthentik/authentik"
+    },
+    {
+      "rank": 9,
+      "repo": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars_today": 532,
+      "total_stars": 17196,
+      "url": "https://github.com/google/skills"
+    },
+    {
+      "rank": 10,
+      "repo": "Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "language": "Python",
+      "stars_today": 333,
+      "total_stars": 125452,
+      "url": "https://github.com/Comfy-Org/ComfyUI"
+    },
+    {
+      "rank": 11,
+      "repo": "harveyai/harvey-labs",
+      "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+      "language": "Python",
+      "stars_today": 87,
+      "total_stars": 803,
+      "url": "https://github.com/harveyai/harvey-labs"
+    },
+    {
+      "rank": 12,
+      "repo": "pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars_today": 208,
+      "total_stars": 17629,
+      "url": "https://github.com/pingdotgg/t3code"
+    }
+  ]
+}

@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[webpack-webpack]] [[trycua-cua]] [[mvanhorn-last30days-skill]] [[mattpocock-skills]] [[goauthentik-authentik]]
+[[bytedance-deer-flow]] [[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[webpack-webpack]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

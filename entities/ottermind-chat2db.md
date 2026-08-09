@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[obra-superpowers]] [[jenkinsci-jenkins]] [[opengeos-geolibre]] [[mattpocock-skills]]
+[[github-copilot-sdk]] [[mattpocock-skills]] [[google-skills]] [[apache-cassandra]] [[primeintellect-ai-prime-agent]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

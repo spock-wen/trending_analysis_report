@@ -36,7 +36,7 @@ Give your agent a computer 👾
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[tailwindlabs-tailwindcss]] [[mattpocock-skills]] [[google-skills]] [[addyosmani-agent-skills]]
+[[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[msitarzewski-agency-agents]] [[tencentcloud-tencentdb-agent-memory]]
 
 **所属领域**: [[ai-agent]]
 

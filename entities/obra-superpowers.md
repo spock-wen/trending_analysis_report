@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[openinterpreter-openinterpreter]] [[mattpocock-skills]] [[pranshuparmar-witr]] [[msitarzewski-agency-agents]]
+[[anthropics-cwc-workshops]] [[mattpocock-skills]] [[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

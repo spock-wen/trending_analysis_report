@@ -35,5 +35,5 @@ A self-hosted travel/trip planner with real-time collaboration, interactive maps
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[tailwindlabs-tailwindcss]] [[cloudflare-computer]] [[tencentcloud-tencentdb-agent-memory]]
+[[tencentcloud-tencentdb-agent-memory]] [[cloudflare-computer]] [[pingdotgg-t3code]] [[primeintellect-ai-prime-agent]]
 

@@ -34,5 +34,5 @@ SpiderFoot automates OSINT for threat intelligence and mapping your attack surfa
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[666ghj-mirofish]] [[goauthentik-authentik]] [[google-skills]]
+[[goauthentik-authentik]] [[google-skills]] [[vitali87-code-graph-rag]] [[google-deepmind-weathernext]]
 

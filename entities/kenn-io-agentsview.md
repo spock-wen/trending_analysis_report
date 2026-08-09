@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[opengeos-geolibre]] [[mattpocock-skills]] [[pranshuparmar-witr]] [[alibaba-open-code-review]]
+[[esengine-deepseek-reasonix]] [[google-skills]] [[apache-cassandra]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

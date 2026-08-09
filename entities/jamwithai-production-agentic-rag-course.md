@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[donnemartin-system-design-primer]] [[mattpocock-skills]] [[goauthentik-authentik]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]]
+[[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[microsoft-ai-for-beginners]] [[primeintellect-ai-prime-agent]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

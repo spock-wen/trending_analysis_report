@@ -34,7 +34,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[mattpocock-skills]] [[litu54-devops-interview-guide]] [[ansible-ansible]] [[goauthentik-authentik]] [[google-skills]]
+[[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

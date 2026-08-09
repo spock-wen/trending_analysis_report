@@ -38,7 +38,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[webpack-webpack]] [[jamiepine-voicebox]] [[alishahryar1-free-claude-code]] [[trycua-cua]] [[goauthentik-authentik]]
+[[livekit-agents]] [[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[webpack-webpack]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

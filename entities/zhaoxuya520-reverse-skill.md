@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[obra-superpowers]] [[mvanhorn-last30days-skill]] [[raphire-win11debloat]] [[mattpocock-skills]]
+[[bytedance-deer-flow]] [[mattpocock-skills]] [[google-skills]] [[amnezia-vpn-amnezia-client]] [[primeintellect-ai-prime-agent]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

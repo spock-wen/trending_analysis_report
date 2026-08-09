@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[opengeos-geolibre]] [[mattpocock-skills]] [[alibaba-open-code-review]] [[apache-cassandra]] [[microsoft-powertoys]]
+[[antirez-ds4]] [[google-skills]] [[apache-cassandra]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

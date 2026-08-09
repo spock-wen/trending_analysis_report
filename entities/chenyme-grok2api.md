@@ -36,7 +36,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[obra-superpowers]] [[tailwindlabs-tailwindcss]] [[mattpocock-skills]] [[pranshuparmar-witr]] [[ladybirdbrowser-ladybird]]
+[[esengine-deepseek-reasonix]] [[mattpocock-skills]] [[ladybirdbrowser-ladybird]] [[msitarzewski-agency-agents]] [[github-gh-stack]]
 
 **所属领域**: [[web]] [[cli]]
 

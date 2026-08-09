@@ -34,7 +34,7 @@ DevOps Interview Guide
 
 ## 相关项目
 
-[[uber-adr]] [[ansible-ansible]] [[semantica-agi-semantica]]
+[[ansible-ansible]] [[uber-adr]] [[semantica-agi-semantica]]
 
 **所属领域**: [[devops]]
 

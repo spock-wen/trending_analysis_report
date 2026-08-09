@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[obra-superpowers]] [[tailwindlabs-tailwindcss]] [[mattpocock-skills]] [[pranshuparmar-witr]]
+[[pranshuparmar-witr]] [[mattpocock-skills]] [[amnezia-vpn-amnezia-client]] [[ladybirdbrowser-ladybird]] [[chenyme-grok2api]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -36,5 +36,5 @@ Jenkins automation server
 
 ## 相关项目
 
-[[apache-cassandra]] [[github-copilot-sdk]] [[google-guava]]
+[[google-guava]] [[github-copilot-sdk]] [[apache-cassandra]]
 

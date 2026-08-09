@@ -38,7 +38,7 @@ AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框�
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[mattpocock-skills]] [[goauthentik-authentik]] [[zhaoxuya520-reverse-skill]] [[google-skills]]
+[[bytedance-deer-flow]] [[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[primeintellect-ai-prime-agent]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

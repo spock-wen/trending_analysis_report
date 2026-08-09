@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[denoland-celld]] [[corebunch-instatic]] [[tauricresearch-tradingagents]] [[mattpocock-skills]] [[apache-cassandra]]
+[[google-skills]] [[zhaoxuya520-reverse-skill]] [[uber-adr]] [[affaan-m-ecc]] [[amnezia-vpn-amnezia-client]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[webpack-webpack]] [[trycua-cua]] [[opengeos-geolibre]] [[mattpocock-skills]] [[alibaba-open-code-review]]
+[[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[apache-cassandra]] [[webpack-webpack]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[penpot-penpot]] [[mattpocock-skills]] [[google-skills]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]]
+[[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[msitarzewski-agency-agents]] [[penpot-penpot]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[goauthentik-authentik]] [[google-skills]]
+[[goauthentik-authentik]] [[google-skills]] [[vitali87-code-graph-rag]] [[google-deepmind-weathernext]]
 
 
 ## ⚠️ 描述变更（2026-08-08）

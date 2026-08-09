@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[tailwindlabs-tailwindcss]] [[mvanhorn-last30days-skill]] [[cloudflare-computer]] [[mattpocock-skills]]
+[[bytedance-deer-flow]] [[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

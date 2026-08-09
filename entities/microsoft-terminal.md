@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[obra-superpowers]] [[geo-tp-esp32-bit-pirate]] [[mattpocock-skills]] [[pranshuparmar-witr]]
+[[mattpocock-skills]] [[amnezia-vpn-amnezia-client]] [[ladybirdbrowser-ladybird]] [[msitarzewski-agency-agents]] [[gabime-spdlog]]
 
 **所属领域**: [[cli]]
 

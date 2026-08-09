@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[chenyme-grok2api]] [[alishahryar1-free-claude-code]] [[obra-superpowers]] [[mattpocock-skills]]
+[[livekit-agents]] [[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]] [[audio]]
 

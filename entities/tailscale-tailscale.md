@@ -34,7 +34,7 @@ The easiest, most secure way to use WireGuard and 2FA.
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[mattpocock-skills]] [[pranshuparmar-witr]] [[github-gh-stack]] [[google-skills]]
+[[esengine-deepseek-reasonix]] [[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[chenyme-grok2api]]
 
 **所属领域**: [[ai-agent]]
 

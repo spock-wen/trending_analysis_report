@@ -34,7 +34,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[geo-tp-esp32-bit-pirate]] [[gabime-spdlog]] [[cypress-io-cypress]]
+[[amnezia-vpn-amnezia-client]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[gabime-spdlog]] [[geo-tp-esp32-bit-pirate]]
 
 **所属领域**: [[web]]
 

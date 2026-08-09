@@ -35,7 +35,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[goauthentik-authentik]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[google-skills]] [[paperswithbacktest-awesome-systematic-trading]]
+[[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[education]]
 

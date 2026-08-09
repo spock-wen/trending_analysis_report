@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[goauthentik-authentik]] [[zhaoxuya520-reverse-skill]] [[google-skills]] [[tauricresearch-tradingagents]]
+[[bytedance-deer-flow]] [[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[science]]
 

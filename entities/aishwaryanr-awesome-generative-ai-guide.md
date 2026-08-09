@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[addyosmani-agent-skills]] [[trycua-cua]] [[tailwindlabs-tailwindcss]] [[mvanhorn-last30days-skill]]
+[[pkuflyingpig-cs-self-learning]] [[bytedance-deer-flow]] [[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

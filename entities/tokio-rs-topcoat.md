@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[denoland-celld]] [[jdx-mise]] [[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[ladybirdbrowser-ladybird]]
+[[jdx-mise]] [[msitarzewski-agency-agents]] [[denoland-celld]] [[ladybirdbrowser-ladybird]] [[firecrawl-pdf-inspector]]
 
 **所属领域**: [[web]]
 

@@ -35,5 +35,5 @@ self-hosted, distributed Durable Objects
 
 ## 相关项目
 
-[[jdx-mise]] [[denoland-deno]] [[firecrawl-pdf-inspector]]
+[[jdx-mise]] [[firecrawl-pdf-inspector]] [[denoland-deno]]
 

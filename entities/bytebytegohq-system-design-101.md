@@ -34,7 +34,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[tauricresearch-tradingagents]] [[mattpocock-skills]] [[google-skills]]
+[[addyosmani-agent-skills]] [[msitarzewski-agency-agents]] [[google-skills]] [[primeintellect-ai-prime-agent]]
 
 **所属领域**: [[ai-agent]]
 

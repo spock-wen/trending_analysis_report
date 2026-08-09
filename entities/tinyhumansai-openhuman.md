@@ -38,7 +38,7 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[denoland-celld]] [[jdx-mise]] [[mattpocock-skills]] [[google-skills]] [[firecrawl-pdf-inspector]]
+[[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[jdx-mise]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

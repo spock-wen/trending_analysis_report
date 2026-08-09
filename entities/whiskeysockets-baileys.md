@@ -34,7 +34,7 @@ Socket-based TS/JavaScript API for WhatsApp Web
 
 ## 相关项目
 
-[[webpack-webpack]] [[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[cypress-io-cypress]] [[mattpocock-skills]]
+[[webpack-webpack]] [[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[nomadamas-k-skill]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

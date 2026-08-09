@@ -37,5 +37,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[tailwindlabs-tailwindcss]] [[cloudflare-computer]] [[tencentcloud-tencentdb-agent-memory]]
+[[tencentcloud-tencentdb-agent-memory]] [[cloudflare-computer]] [[pingdotgg-t3code]] [[primeintellect-ai-prime-agent]]
 

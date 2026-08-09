@@ -38,7 +38,7 @@ Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
 
 ## 相关项目
 
-[[webpack-webpack]] [[mattpocock-skills]] [[nomadamas-k-skill]] [[google-skills]] [[addyosmani-agent-skills]]
+[[webpack-webpack]] [[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[nomadamas-k-skill]]
 
 **所属领域**: [[ai-agent]]
 

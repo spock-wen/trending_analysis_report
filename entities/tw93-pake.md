@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[denoland-celld]] [[jdx-mise]] [[chenyme-grok2api]] [[obra-superpowers]] [[tailwindlabs-tailwindcss]]
+[[pranshuparmar-witr]] [[mattpocock-skills]] [[jdx-mise]] [[msitarzewski-agency-agents]] [[denoland-celld]]
 
 **所属领域**: [[web]] [[cli]]
 

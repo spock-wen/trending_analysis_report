@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[yairm210-unciv]] [[bannedbook-fanqiang]] [[andreknieriem-headunit-revived]]
+[[bannedbook-fanqiang]] [[ladybirdbrowser-ladybird]] [[msitarzewski-agency-agents]] [[chenyme-grok2api]] [[andreknieriem-headunit-revived]]
 
 **所属领域**: [[web]]
 

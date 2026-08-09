@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[trycua-cua]] [[tailwindlabs-tailwindcss]] [[ossu-computer-science]] [[cypress-io-cypress]]
+[[pkuflyingpig-cs-self-learning]] [[google-skills]] [[apache-cassandra]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

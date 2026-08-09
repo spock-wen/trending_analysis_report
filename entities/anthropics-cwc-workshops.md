@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[obra-superpowers]] [[tailwindlabs-tailwindcss]] [[openinterpreter-openinterpreter]] [[cloudflare-computer]]
+[[primeintellect-ai-prime-agent]] [[cloudflare-computer]] [[tencentcloud-tencentdb-agent-memory]] [[uber-adr]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

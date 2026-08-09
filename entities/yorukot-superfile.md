@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[obra-superpowers]] [[mattpocock-skills]] [[pranshuparmar-witr]] [[github-gh-stack]]
+[[esengine-deepseek-reasonix]] [[mattpocock-skills]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[github-gh-stack]]
 
 **所属领域**: [[cli]]
 

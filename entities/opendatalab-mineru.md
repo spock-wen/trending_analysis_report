@@ -36,7 +36,7 @@ Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J
 
 ## 相关项目
 
-[[opengeos-geolibre]] [[mattpocock-skills]] [[alibaba-open-code-review]] [[apache-cassandra]] [[goauthentik-authentik]]
+[[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[apache-cassandra]] [[primeintellect-ai-prime-agent]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

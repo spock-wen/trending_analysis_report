@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[semantica-agi-semantica]] [[pranshuparmar-witr]] [[litu54-devops-interview-guide]] [[ansible-ansible]]
+[[pranshuparmar-witr]] [[esengine-deepseek-reasonix]] [[semantica-agi-semantica]] [[chenyme-grok2api]] [[github-gh-stack]]
 
 **所属领域**: [[devops]]
 

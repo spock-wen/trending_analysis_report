@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[semantica-agi-semantica]] [[cypress-io-cypress]] [[mattpocock-skills]]
+[[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[semantica-agi-semantica]] [[primeintellect-ai-prime-agent]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

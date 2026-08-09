@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[mattpocock-skills]] [[affaan-m-ecc]] [[goauthentik-authentik]] [[zhaoxuya520-reverse-skill]] [[google-skills]]
+[[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[amnezia-vpn-amnezia-client]] [[primeintellect-ai-prime-agent]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

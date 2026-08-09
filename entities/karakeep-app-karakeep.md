@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[webpack-webpack]] [[primeintellect-ai-prime-agent]] [[tailwindlabs-tailwindcss]] [[trycua-cua]] [[cloudflare-computer]]
+[[webpack-webpack]] [[google-skills]] [[graphify-labs-graphify]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

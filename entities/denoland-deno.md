@@ -34,5 +34,5 @@ A modern runtime for JavaScript and TypeScript.
 
 ## 相关项目
 
-[[denoland-celld]] [[jdx-mise]] [[firecrawl-pdf-inspector]]
+[[jdx-mise]] [[denoland-celld]] [[firecrawl-pdf-inspector]]
 

@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[denoland-celld]] [[jdx-mise]] [[semantica-agi-semantica]] [[litu54-devops-interview-guide]] [[ansible-ansible]]
+[[semantica-agi-semantica]] [[jdx-mise]] [[denoland-celld]] [[firecrawl-pdf-inspector]] [[denoland-deno]]
 
 **所属领域**: [[devops]]
 

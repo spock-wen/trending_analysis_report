@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[webpack-webpack]] [[mattpocock-skills]] [[google-skills]] [[addyosmani-agent-skills]] [[affaan-m-ecc]]
+[[webpack-webpack]] [[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

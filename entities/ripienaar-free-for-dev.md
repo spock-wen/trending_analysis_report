@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[trycua-cua]] [[tailwindlabs-tailwindcss]] [[semantica-agi-semantica]] [[ossu-computer-science]]
+[[pkuflyingpig-cs-self-learning]] [[semantica-agi-semantica]] [[ladybirdbrowser-ladybird]] [[msitarzewski-agency-agents]] [[chenyme-grok2api]]
 
 **所属领域**: [[web]] [[devops]]
 

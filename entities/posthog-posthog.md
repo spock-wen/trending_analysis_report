@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[semantica-agi-semantica]] [[cypress-io-cypress]] [[opengeos-geolibre]]
+[[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[apache-cassandra]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[pranshuparmar-witr]] [[ladybirdbrowser-ladybird]] [[github-gh-stack]]
+[[esengine-deepseek-reasonix]] [[ladybirdbrowser-ladybird]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[github-gh-stack]]
 
 **所属领域**: [[web]]
 

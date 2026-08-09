@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[obra-superpowers]] [[tailwindlabs-tailwindcss]] [[openinterpreter-openinterpreter]] [[ladybirdbrowser-ladybird]]
+[[anthropics-cwc-workshops]] [[nutlope-hallmark]] [[ladybirdbrowser-ladybird]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]] [[erp]]
 

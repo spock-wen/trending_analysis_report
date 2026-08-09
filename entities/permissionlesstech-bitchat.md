@@ -35,5 +35,5 @@ bluetooth mesh chat, IRC vibes
 
 ## 相关项目
 
-[[palmier-io-palmier-pro]] [[steipete-codexbar]] [[altic-dev-fluidvoice]]
+[[steipete-codexbar]] [[palmier-io-palmier-pro]] [[altic-dev-fluidvoice]]
 

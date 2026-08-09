@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[obra-superpowers]] [[tailwindlabs-tailwindcss]] [[cypress-io-cypress]] [[mattpocock-skills]]
+[[pranshuparmar-witr]] [[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

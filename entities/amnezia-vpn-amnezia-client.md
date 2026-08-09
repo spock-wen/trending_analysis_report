@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[obra-superpowers]] [[geo-tp-esp32-bit-pirate]] [[mattpocock-skills]] [[pranshuparmar-witr]]
+[[mattpocock-skills]] [[ladybirdbrowser-ladybird]] [[msitarzewski-agency-agents]] [[gabime-spdlog]] [[geo-tp-esp32-bit-pirate]]
 
 **所属领域**: [[cli]] [[security]]
 

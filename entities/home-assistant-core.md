@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[amnezia-vpn-amnezia-client]] [[zhaoxuya520-reverse-skill]]
+[[vitali87-code-graph-rag]] [[tauricresearch-tradingagents]] [[nanmicoder-mediacrawler]] [[uber-adr]] [[semantica-agi-semantica]]
 
 **所属领域**: [[security]]
 

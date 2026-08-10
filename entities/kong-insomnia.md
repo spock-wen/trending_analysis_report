@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[pranshuparmar-witr]] [[mattpocock-skills]] [[primeintellect-ai-prime-agent]] [[ladybirdbrowser-ladybird]] [[msitarzewski-agency-agents]]
+[[danielmiessler-lifeos]] [[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[ladybirdbrowser-ladybird]]
 
 **所属领域**: [[web]] [[cli]]
 

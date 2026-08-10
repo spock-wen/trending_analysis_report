@@ -37,15 +37,5 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通
 
 ## 相关项目
 
-[[goauthentik-authentik]] [[google-skills]] [[vitali87-code-graph-rag]] [[google-deepmind-weathernext]]
-
-
-## ⚠️ 描述变更（2026-08-08）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: A Simple and Universal Swarm Intelligence Engine, Predicting Anything.
-- **新描述**: A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
+[[vitali87-code-graph-rag]] [[tauricresearch-tradingagents]] [[nanmicoder-mediacrawler]] [[semantica-agi-semantica]]
 

@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[webpack-webpack]]
+[[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[vitali87-code-graph-rag]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

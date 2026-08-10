@@ -34,5 +34,5 @@ Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencie
 
 ## 相关项目
 
-[[ladybirdbrowser-ladybird]] [[gabime-spdlog]] [[amnezia-vpn-amnezia-client]] [[geo-tp-esp32-bit-pirate]]
+[[gabime-spdlog]] [[amnezia-vpn-amnezia-client]] [[geo-tp-esp32-bit-pirate]] [[ladybirdbrowser-ladybird]]
 

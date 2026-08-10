@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[mattpocock-skills]] [[jdx-mise]] [[msitarzewski-agency-agents]] [[denoland-celld]] [[firecrawl-pdf-inspector]]
+[[denoland-celld]] [[danielmiessler-lifeos]] [[jdx-mise]] [[msitarzewski-agency-agents]] [[firecrawl-pdf-inspector]]
 
 **所属领域**: [[cli]]
 

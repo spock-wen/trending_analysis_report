@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[google-skills]] [[apache-cassandra]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]]
+[[ossu-computer-science]] [[corebunch-instatic]] [[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

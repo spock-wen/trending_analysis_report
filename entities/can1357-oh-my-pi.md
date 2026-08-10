@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[pranshuparmar-witr]] [[mattpocock-skills]] [[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]]
+[[danielmiessler-lifeos]] [[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

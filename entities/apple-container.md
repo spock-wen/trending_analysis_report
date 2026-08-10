@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[permissionlesstech-bitchat]] [[steipete-codexbar]] [[google-skills]] [[altic-dev-fluidvoice]] [[addyosmani-agent-skills]]
+[[primeintellect-ai-prime-agent]] [[palmier-io-palmier-pro]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

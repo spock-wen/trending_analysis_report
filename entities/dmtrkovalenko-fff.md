@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[jdx-mise]] [[msitarzewski-agency-agents]]
+[[denoland-celld]] [[jdx-mise]] [[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

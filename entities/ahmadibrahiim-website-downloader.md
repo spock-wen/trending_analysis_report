@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[webpack-webpack]] [[graphify-labs-graphify]] [[ladybirdbrowser-ladybird]] [[msitarzewski-agency-agents]]
+[[ossu-computer-science]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[ladybirdbrowser-ladybird]] [[comfy-org-comfyui]]
 
 **所属领域**: [[web]] [[image-gen]]
 

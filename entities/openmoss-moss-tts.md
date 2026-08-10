@@ -35,7 +35,7 @@ MOSS‑TTS Family is an open‑source speech and sound generation model family f
 
 ## 相关项目
 
-[[livekit-agents]] [[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[webpack-webpack]]
+[[alishahryar1-free-claude-code]] [[jamiepine-voicebox]] [[primeintellect-ai-prime-agent]] [[huggingface-speech-to-speech]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

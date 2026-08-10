@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[anthropics-cwc-workshops]] [[google-deepmind-weathernext]]
+[[anthropics-cwc-workshops]] [[openinterpreter-openinterpreter]] [[vitali87-code-graph-rag]] [[tauricresearch-tradingagents]] [[nanmicoder-mediacrawler]]
 
 **所属领域**: [[erp]]
 

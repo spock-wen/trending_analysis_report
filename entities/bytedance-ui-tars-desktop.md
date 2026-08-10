@@ -34,7 +34,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[google-skills]] [[semantica-agi-semantica]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[msitarzewski-agency-agents]]
+[[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

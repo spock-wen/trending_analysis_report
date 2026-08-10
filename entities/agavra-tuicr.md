@@ -35,5 +35,5 @@ a code review TUI with vim keybindings
 
 ## 相关项目
 
-[[jdx-mise]] [[denoland-celld]] [[firecrawl-pdf-inspector]] [[denoland-deno]]
+[[denoland-celld]] [[jdx-mise]] [[firecrawl-pdf-inspector]] [[ruvnet-ruview]]
 

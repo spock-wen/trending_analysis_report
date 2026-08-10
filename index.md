@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-08-10 | 总页面：457
+> 最后更新：2026-08-11 | 总页面：460
 
 ## Entities
 
@@ -108,6 +108,7 @@
 - [[cypress-io-cypress|cypress"]] — Fast, easy and reliable testing for anything that runs in a ...
 - [[czlonkowski-n8n-mcp|n8n-mcp"]] — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor t... 🆕
 - [[d4vinci-scrapling|Scrapling"]] — 🕷️ An adaptive Web Scraping framework that handles everythin... 🔥
+- [[danielmiessler-lifeos|LifeOS"]] — ⛰️A General Hill-climbing AI harness that helps you move fro... 🆕
 - [[datatalksclub-data-engineering-zoomcamp|data-engineering-zoomcamp"]] — Data Engineering Zoomcamp is a free 9-week course on buildin... 🆕
 - [[davila7-claude-code-templates|claude-code-templates"]] — CLI tool for configuring and monitoring Claude Code 🔥
 - [[dayuanjiang-next-ai-draw-io|next-ai-draw-io"]] — A next.js web application that integrates AI capabilities wi...
@@ -140,7 +141,7 @@
 - [[facebook-astryx|astryx"]] — An open source design system that's fully customizable and a...
 - [[fareedkhan-dev-train-llm-from-scratch|train-llm-from-scratch"]] — A straightforward method for training your LLM, from downloa...
 - [[fincept-corporation-finceptterminal|FinceptTerminal"]] — FinceptTerminal is a modern finance application offering adv...
-- [[firecrawl-firecrawl|firecrawl"]] — The API to search, scrape, and interact with the web at scal...
+- [[firecrawl-firecrawl|firecrawl"]] — The context API to search, scrape, and interact with the web...
 - [[firecrawl-pdf-inspector|pdf-inspector"]] — Fast Rust library for PDF inspection, classification, and te... 🔥
 - [[fission-ai-openspec|OpenSpec"]] — Spec-driven development (SDD) for AI coding assistants.
 - [[flowseal-zapret-discord-youtube|zapret-discord-youtube"]] — No description
@@ -174,7 +175,7 @@
 - [[harbourmasters-lighthouse|Lighthouse"]] — No description
 - [[hardikpandya-stop-slop|stop-slop"]] — A skill file for removing AI tells from prose 🔥
 - [[harry0703-moneyprinterturbo|MoneyPrinterTurbo"]] — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using...
-- [[harveyai-harvey-labs|harvey-labs"]] — A benchmark built to evaluate and improve agent capabilities... 🆕
+- [[harveyai-harvey-labs|harvey-labs"]] — A benchmark built to evaluate and improve agent capabilities...
 - [[hasaneyldrm-exercises-dataset|exercises-dataset"]] — 1,324-exercise fitness dataset — animation GIFs, 180×180 thu... 🔥
 - [[hashicorp-terraform|terraform"]] — Terraform enables you to safely and predictably create, chan... 🆕
 - [[henryndubuaku-maths-cs-ai-compendium|maths-cs-ai-compendium"]] — Become a cracked AI/ML Research Engineer
@@ -279,7 +280,7 @@
 - [[moonshine-ai-moonshine|moonshine"]] — Very low latency speech to text, intent recognition, and tex...
 - [[moonshotai-flashkda|FlashKDA"]] — FlashKDA: high-performance Kimi Delta Attention kernels
 - [[moonshotai-kimi-cli|kimi-cli"]] — Kimi Code CLI is your next CLI agent. 🔥
-- [[msitarzewski-agency-agents|agency-agents"]] — A complete AI agency at your fingertips - From frontend wiza...
+- [[msitarzewski-agency-agents|agency-agents"]] — A complete AI agency at your fingertips - From frontend wiza... 🆕
 - [[mukul975-anthropic-cybersecurity-skills|Anthropic-Cybersecurity-Skills"]] — 817 structured cybersecurity skills for AI agents · Mapped t...
 - [[multica-ai-andrej-karpathy-skills|andrej-karpathy-skills"]] — A single CLAUDE.md file to improve Claude Code behavior, der... 🔥
 - [[multica-ai-multica|multica"]] — The open-source managed agents platform. Turn coding agents ... 🆕
@@ -304,6 +305,7 @@
 - [[ocornut-imgui|imgui"]] — Dear ImGui: Bloat-free Graphical User interface for C++ with...
 - [[odoo-odoo|odoo"]] — Odoo. Open Source Apps To Grow Your Business.
 - [[ogulcancelik-herdr|herdr"]] — agent multiplexer that lives in your terminal. 🔥
+- [[opa334-dopamine|Dopamine"]] — Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.... 🆕
 - [[open-dev-society-openstock|OpenStock"]] — OpenStock is an open-source alternative to expensive market ...
 - [[open-llm-vtuber-open-llm-vtuber|Open-LLM-VTuber"]] — Talk to any LLM with hands-free voice interaction, voice int... 🔥
 - [[openai-codex-plugin-cc|codex-plugin-cc"]] — Use Codex from Claude Code to review code or delegate tasks. 🔥
@@ -327,6 +329,7 @@
 - [[paddlepaddle-paddleocr|PaddleOCR"]] — Turn any PDF or image document into structured data for your... 🆕
 - [[palmier-io-palmier-pro|palmier-pro"]] — macOS video editor built for AI
 - [[panniantong-agent-reach|Agent-Reach"]] — Give your AI agent eyes to see the entire internet. Read & s... 🆕
+- [[paperclipai-paperclip|paperclip"]] — The open-source app everyone uses to manage agents at work 🆕
 - [[paperless-ngx-paperless-ngx|paperless-ngx"]] — A community-supported supercharged document management syste...
 - [[paperswithbacktest-awesome-systematic-trading|awesome-systematic-trading"]] — A curated list of awesome libraries, packages, strategies, b... 🔥
 - [[par274-sharpemu|sharpemu"]] — An experimental PlayStation 5 emulator project.
@@ -335,7 +338,7 @@
 - [[penpot-penpot|penpot"]] — Penpot: The open-source design platform for Product teams th...
 - [[permissionlesstech-bitchat|bitchat"]] — bluetooth mesh chat, IRC vibes
 - [[phuryn-pm-skills|pm-skills"]] — PM Skills Marketplace: 100+ agentic skills, commands, and pl... 🔥
-- [[pingdotgg-t3code|t3code"]] — No description
+- [[pingdotgg-t3code|t3code"]] — No description 🆕
 - [[pkuflyingpig-cs-self-learning|cs-self-learning"]] — 计算机自学指南
 - [[plausible-analytics|analytics"]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
 - [[posthog-posthog|posthog"]] — 🦔 PostHog is the leading platform for building self-driving ... 🔥
@@ -365,7 +368,7 @@
 - [[rommapp-romm|romm"]] — A beautiful, powerful, self-hosted rom manager and player. 🔥
 - [[rtk-ai-rtk|rtk"]] — CLI proxy that reduces LLM token consumption by 60-90% on co...
 - [[run-llama-liteparse|liteparse"]] — A fast, helpful, and open-source document parser 🆕
-- [[ruvnet-ruview|RuView"]] — π RuView turns commodity WiFi signals into real-time spatial... 🔥
+- [[ruvnet-ruview|RuView"]] — π RuView turns commodity WiFi signals into real-time spatial...
 - [[ryancodrai-turbovec|turbovec"]] — A vector index built on TurboQuant, written in Rust with Pyt...
 - [[ryanmcdermott-clean-code-javascript|clean-code-javascript"]] — Clean Code concepts adapted for JavaScript
 - [[safishamsi-graphify|graphify"]] — AI coding assistant skill (Claude Code, Codex, OpenCode, Cur...

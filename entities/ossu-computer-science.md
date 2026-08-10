@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[ladybirdbrowser-ladybird]] [[msitarzewski-agency-agents]] [[chenyme-grok2api]] [[hasaneyldrm-exercises-dataset]]
+[[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[ladybirdbrowser-ladybird]] [[trycua-cua]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[web]]
 

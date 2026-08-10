@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[ladybirdbrowser-ladybird]] [[msitarzewski-agency-agents]]
+[[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[vitali87-code-graph-rag]] [[tauricresearch-tradingagents]] [[nanmicoder-mediacrawler]]
 
 **所属领域**: [[web]]
 

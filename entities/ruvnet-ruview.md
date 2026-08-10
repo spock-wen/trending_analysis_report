@@ -1,20 +1,20 @@
 ---
 title: "ruvnet/RuView"
 created: 2026-05-16
-updated: 2026-07-25
-last_active: 2026-07-25
+updated: 2026-08-11
+last_active: 2026-08-11
 type: tool
-tags: [rust, devops, rising]
-sources: [raw/trending/2026-07-25.json]
+tags: [rust, devops]
+sources: [raw/trending/2026-08-11.json]
 confidence: high
-trending_count_daily: 13
+trending_count_daily: 14
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 3
+consecutive_days: 1
 first_trending: 2026-05-16
-last_trending: 2026-07-25
+last_trending: 2026-08-11
 peak_rank: 2
-total_stars: 85898
+total_stars: 89343
 language: "Rust"
 ---
 
@@ -23,22 +23,22 @@ language: "Rust"
 π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 
 - 语言: Rust
-- 上榜次数: 13 次
-- 连续上榜: 3 天
+- 上榜次数: 14 次
+- 连续上榜: 1 天
 - 最高排名: #2
 - 链接: [ruvnet/RuView](https://github.com/ruvnet/RuView)
 
 ## 上榜历史
 
+  - 2026-08-11: #8, +186⭐
   - 2026-07-25: #10, +1021⭐
   - 2026-07-24: #12, +1726⭐
   - 2026-07-23: #2, +875⭐
   - 2026-07-09: #2, +793⭐
-  - 2026-07-08: #4, +1122⭐
 
 ## 相关项目
 
-[[semantica-agi-semantica]] [[jdx-mise]] [[denoland-celld]] [[firecrawl-pdf-inspector]] [[denoland-deno]]
+[[denoland-celld]] [[jdx-mise]] [[firecrawl-pdf-inspector]] [[litu54-devops-interview-guide]] [[semantica-agi-semantica]]
 
 **所属领域**: [[devops]]
 

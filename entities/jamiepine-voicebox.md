@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[livekit-agents]] [[alishahryar1-free-claude-code]] [[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]]
+[[alishahryar1-free-claude-code]] [[primeintellect-ai-prime-agent]] [[huggingface-speech-to-speech]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

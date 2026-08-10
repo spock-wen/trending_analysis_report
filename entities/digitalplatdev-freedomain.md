@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[ladybirdbrowser-ladybird]]
+[[ossu-computer-science]] [[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

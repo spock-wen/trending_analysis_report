@@ -35,7 +35,7 @@ ADR secures enterprise AI agents through observability, security benchmarking, a
 
 ## 相关项目
 
-[[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[amnezia-vpn-amnezia-client]] [[obra-superpowers]]
+[[primeintellect-ai-prime-agent]] [[anthropics-cwc-workshops]] [[msitarzewski-agency-agents]] [[vitali87-code-graph-rag]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[security]] [[erp]]
 

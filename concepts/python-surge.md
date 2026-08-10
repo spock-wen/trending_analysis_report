@@ -1,7 +1,7 @@
 ---
 title: "Python Ecosystem Surge"
 created: 2026-06-07
-updated: 2026-08-10
+updated: 2026-08-11
 type: concept
 tags: [python, surge]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 信号概述
 
-2026-08-10 检测到 Python 领域有 6 个项目同时上榜，表明该语言生态近期活跃度显著上升。
+2026-08-11 检测到 Python 领域有 6 个项目同时上榜，表明该语言生态近期活跃度显著上升。
 
 ## 上榜项目（6 个）
 
-[[vitali87-code-graph-rag]] [[google-deepmind-weathernext]] [[goauthentik-authentik]] [[google-skills]] [[comfy-org-comfyui]] [[harveyai-harvey-labs]]
+[[semantica-agi-semantica]] [[nanmicoder-mediacrawler]] [[tauricresearch-tradingagents]] [[google-deepmind-weathernext]] [[vitali87-code-graph-rag]] [[comfy-org-comfyui]]
 
 ## 语言分布
 

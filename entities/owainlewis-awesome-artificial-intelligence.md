@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[google-skills]] [[microsoft-ai-for-beginners]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]]
+[[microsoft-generative-ai-for-beginners]] [[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[paperswithbacktest-awesome-systematic-trading]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

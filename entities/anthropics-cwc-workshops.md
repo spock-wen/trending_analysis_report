@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[cloudflare-computer]] [[tencentcloud-tencentdb-agent-memory]] [[uber-adr]] [[obra-superpowers]]
+[[primeintellect-ai-prime-agent]] [[openinterpreter-openinterpreter]] [[firecrawl-firecrawl]] [[uber-adr]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

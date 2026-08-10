@@ -35,5 +35,5 @@ git push no-mistakes
 
 ## 相关项目
 
-[[github-gh-stack]] [[chenyme-grok2api]] [[esengine-deepseek-reasonix]] [[pranshuparmar-witr]]
+[[github-gh-stack]] [[esengine-deepseek-reasonix]] [[chenyme-grok2api]] [[pranshuparmar-witr]]
 

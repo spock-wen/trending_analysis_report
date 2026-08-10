@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[bytedance-deer-flow]] [[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]]
+[[ossu-computer-science]] [[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

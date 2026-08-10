@@ -16,7 +16,6 @@ last_trending: 2026-08-08
 peak_rank: 9
 total_stars: 7136
 language: "Go"
-contested: true
 ---
 
 # chenyme/grok2api
@@ -36,17 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[esengine-deepseek-reasonix]] [[mattpocock-skills]] [[ladybirdbrowser-ladybird]] [[msitarzewski-agency-agents]] [[github-gh-stack]]
+[[danielmiessler-lifeos]] [[esengine-deepseek-reasonix]] [[msitarzewski-agency-agents]] [[ladybirdbrowser-ladybird]] [[github-gh-stack]]
 
 **所属领域**: [[web]] [[cli]]
-
-
-## ⚠️ 描述变更（2026-08-08）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: 面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关
-- **新描述**: Multi-account API gateway for Grok Build, Grok Web, and Grok Console
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

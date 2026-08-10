@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[pranshuparmar-witr]] [[mattpocock-skills]] [[amnezia-vpn-amnezia-client]] [[ladybirdbrowser-ladybird]] [[chenyme-grok2api]]
+[[danielmiessler-lifeos]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[ladybirdbrowser-ladybird]] [[gabime-spdlog]]
 
 **所属领域**: [[web]] [[cli]]
 

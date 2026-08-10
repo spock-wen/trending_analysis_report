@@ -37,7 +37,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[livekit-agents]] [[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[alishahryar1-free-claude-code]]
+[[alishahryar1-free-claude-code]] [[jamiepine-voicebox]] [[primeintellect-ai-prime-agent]] [[huggingface-speech-to-speech]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

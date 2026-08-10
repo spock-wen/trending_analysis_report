@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[jdx-mise]] [[msitarzewski-agency-agents]] [[denoland-celld]] [[ladybirdbrowser-ladybird]] [[firecrawl-pdf-inspector]]
+[[denoland-celld]] [[jdx-mise]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[ladybirdbrowser-ladybird]]
 
 **所属领域**: [[web]]
 

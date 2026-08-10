@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[ladybirdbrowser-ladybird]] [[msitarzewski-agency-agents]] [[chenyme-grok2api]] [[cloudflare-computer]]
+[[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[ladybirdbrowser-ladybird]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[web]]
 

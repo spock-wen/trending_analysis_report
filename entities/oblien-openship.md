@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[semantica-agi-semantica]] [[primeintellect-ai-prime-agent]] [[cloudflare-computer]] [[tencentcloud-tencentdb-agent-memory]] [[uber-adr]]
+[[primeintellect-ai-prime-agent]] [[firecrawl-firecrawl]] [[semantica-agi-semantica]] [[litu54-devops-interview-guide]] [[uber-adr]]
 
 **所属领域**: [[devops]]
 

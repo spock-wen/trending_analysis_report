@@ -35,7 +35,7 @@ Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you
 
 ## 相关项目
 
-[[google-skills]] [[primeintellect-ai-prime-agent]] [[par274-sharpemu]] [[addyosmani-agent-skills]] [[jellyfin-jellyfin]]
+[[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]] [[par274-sharpemu]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[primeintellect-ai-prime-agent]] [[cloudflare-computer]] [[tencentcloud-tencentdb-agent-memory]] [[microsoft-generative-ai-for-beginners]]
+[[microsoft-generative-ai-for-beginners]] [[primeintellect-ai-prime-agent]] [[paperswithbacktest-awesome-systematic-trading]] [[microsoft-ai-for-beginners]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[education]]
 

@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[google-skills]] [[apache-cassandra]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[msitarzewski-agency-agents]]
+[[corebunch-instatic]] [[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[plausible-analytics]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

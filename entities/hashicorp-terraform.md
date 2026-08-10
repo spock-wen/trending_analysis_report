@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[esengine-deepseek-reasonix]] [[google-skills]] [[semantica-agi-semantica]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]]
+[[primeintellect-ai-prime-agent]] [[esengine-deepseek-reasonix]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -35,7 +35,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[webpack-webpack]] [[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[nomadamas-k-skill]]
+[[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[nomadamas-k-skill]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

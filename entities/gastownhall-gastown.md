@@ -35,7 +35,7 @@ Gas Town - multi-agent workspace manager
 
 ## 相关项目
 
-[[esengine-deepseek-reasonix]] [[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[chenyme-grok2api]]
+[[primeintellect-ai-prime-agent]] [[esengine-deepseek-reasonix]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

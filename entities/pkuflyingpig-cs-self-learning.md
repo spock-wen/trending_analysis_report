@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[ladybirdbrowser-ladybird]] [[msitarzewski-agency-agents]] [[chenyme-grok2api]] [[hasaneyldrm-exercises-dataset]]
+[[ossu-computer-science]] [[microsoft-generative-ai-for-beginners]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[paperswithbacktest-awesome-systematic-trading]]
 
 **所属领域**: [[web]] [[education]]
 

@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[mattpocock-skills]] [[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[jdx-mise]]
+[[denoland-celld]] [[danielmiessler-lifeos]] [[jdx-mise]] [[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

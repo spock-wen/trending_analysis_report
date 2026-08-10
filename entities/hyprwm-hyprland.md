@@ -35,5 +35,5 @@ Hyprland is an independent, highly customizable, dynamic tiling Wayland composit
 
 ## 相关项目
 
-[[ladybirdbrowser-ladybird]] [[gabime-spdlog]] [[amnezia-vpn-amnezia-client]] [[geo-tp-esp32-bit-pirate]]
+[[gabime-spdlog]] [[amnezia-vpn-amnezia-client]] [[geo-tp-esp32-bit-pirate]] [[ladybirdbrowser-ladybird]]
 

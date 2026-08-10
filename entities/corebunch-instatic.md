@@ -37,7 +37,7 @@ The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste
 
 ## 相关项目
 
-[[google-skills]] [[apache-cassandra]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[ladybirdbrowser-ladybird]]
+[[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

@@ -34,7 +34,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[pranshuparmar-witr]] [[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[mattpocock-skills]]
+[[danielmiessler-lifeos]] [[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[vitali87-code-graph-rag]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

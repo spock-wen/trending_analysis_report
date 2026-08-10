@@ -37,7 +37,7 @@ An open source design system that's fully customizable and agent ready
 
 ## 相关项目
 
-[[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[msitarzewski-agency-agents]] [[cloudflare-computer]]
+[[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]]
 

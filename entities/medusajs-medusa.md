@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[anthropics-cwc-workshops]] [[primeintellect-ai-prime-agent]] [[cloudflare-computer]] [[tencentcloud-tencentdb-agent-memory]] [[uber-adr]]
+[[primeintellect-ai-prime-agent]] [[anthropics-cwc-workshops]] [[openinterpreter-openinterpreter]] [[firecrawl-firecrawl]] [[uber-adr]]
 
 **所属领域**: [[erp]]
 

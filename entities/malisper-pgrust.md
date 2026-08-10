@@ -35,5 +35,5 @@ Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 
 ## 相关项目
 
-[[jdx-mise]] [[denoland-celld]] [[firecrawl-pdf-inspector]] [[denoland-deno]]
+[[denoland-celld]] [[jdx-mise]] [[firecrawl-pdf-inspector]] [[ruvnet-ruview]]
 

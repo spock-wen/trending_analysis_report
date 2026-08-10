@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[permissionlesstech-bitchat]] [[steipete-codexbar]] [[google-skills]] [[altic-dev-fluidvoice]] [[addyosmani-agent-skills]]
+[[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]] [[steipete-codexbar]]
 
 **所属领域**: [[ai-agent]]
 

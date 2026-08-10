@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[webpack-webpack]] [[google-skills]] [[amnezia-vpn-amnezia-client]] [[primeintellect-ai-prime-agent]]
+[[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[nomadamas-k-skill]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

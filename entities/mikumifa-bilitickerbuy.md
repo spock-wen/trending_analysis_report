@@ -34,5 +34,5 @@ b站会员购购票辅助工具
 
 ## 相关项目
 
-[[goauthentik-authentik]] [[google-skills]] [[vitali87-code-graph-rag]] [[google-deepmind-weathernext]]
+[[vitali87-code-graph-rag]] [[tauricresearch-tradingagents]] [[nanmicoder-mediacrawler]] [[semantica-agi-semantica]]
 

@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[ladybirdbrowser-ladybird]]
+[[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

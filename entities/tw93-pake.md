@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[pranshuparmar-witr]] [[mattpocock-skills]] [[jdx-mise]] [[msitarzewski-agency-agents]] [[denoland-celld]]
+[[denoland-celld]] [[danielmiessler-lifeos]] [[jdx-mise]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -37,7 +37,7 @@ Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone li
 
 ## 相关项目
 
-[[livekit-agents]] [[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[mattpocock-skills]]
+[[danielmiessler-lifeos]] [[jamiepine-voicebox]] [[primeintellect-ai-prime-agent]] [[huggingface-speech-to-speech]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[microsoft-ai-for-beginners]]
+[[microsoft-generative-ai-for-beginners]] [[mvanhorn-last30days-skill]] [[vitali87-code-graph-rag]] [[tauricresearch-tradingagents]] [[nanmicoder-mediacrawler]]
 
 **所属领域**: [[education]] [[science]]
 

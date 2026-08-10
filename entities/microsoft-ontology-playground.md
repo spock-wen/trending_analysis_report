@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[primeintellect-ai-prime-agent]] [[ladybirdbrowser-ladybird]] [[msitarzewski-agency-agents]] [[chenyme-grok2api]]
+[[microsoft-generative-ai-for-beginners]] [[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[paperswithbacktest-awesome-systematic-trading]]
 
 **所属领域**: [[web]] [[education]]
 

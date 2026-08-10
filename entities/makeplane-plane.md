@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[cloudflare-computer]] [[tencentcloud-tencentdb-agent-memory]]
+[[danielmiessler-lifeos]] [[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[firecrawl-firecrawl]] [[pranshuparmar-witr]]
 
 **所属领域**: [[cli]]
 

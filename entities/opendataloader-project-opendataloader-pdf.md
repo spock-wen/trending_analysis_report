@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[github-copilot-sdk]] [[google-skills]] [[apache-cassandra]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]]
+[[corebunch-instatic]] [[primeintellect-ai-prime-agent]] [[github-copilot-sdk]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

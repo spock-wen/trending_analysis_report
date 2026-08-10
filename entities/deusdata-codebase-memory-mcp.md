@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[antirez-ds4]] [[google-skills]] [[apache-cassandra]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]]
+[[opa334-dopamine]] [[corebunch-instatic]] [[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

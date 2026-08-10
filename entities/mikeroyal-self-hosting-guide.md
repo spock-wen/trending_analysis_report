@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[google-skills]] [[microsoft-ai-for-beginners]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[ladybirdbrowser-ladybird]]
+[[microsoft-generative-ai-for-beginners]] [[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

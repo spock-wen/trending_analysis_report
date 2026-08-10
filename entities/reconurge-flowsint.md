@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[amnezia-vpn-amnezia-client]] [[primeintellect-ai-prime-agent]] [[cloudflare-computer]] [[tencentcloud-tencentdb-agent-memory]] [[zhaoxuya520-reverse-skill]]
+[[primeintellect-ai-prime-agent]] [[firecrawl-firecrawl]] [[uber-adr]] [[amnezia-vpn-amnezia-client]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

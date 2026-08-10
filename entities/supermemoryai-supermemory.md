@@ -37,7 +37,7 @@ Memory engine and app that is extremely fast, scalable. The Memory API for the A
 
 ## 相关项目
 
-[[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[msitarzewski-agency-agents]] [[cloudflare-computer]]
+[[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]]
 

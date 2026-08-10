@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[apache-cassandra]] [[semantica-agi-semantica]]
+[[corebunch-instatic]] [[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[vitali87-code-graph-rag]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

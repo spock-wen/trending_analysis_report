@@ -38,5 +38,5 @@ Kronos: A Foundation Model for the Language of Financial Markets
 
 ## 相关项目
 
-[[goauthentik-authentik]] [[google-skills]] [[vitali87-code-graph-rag]] [[google-deepmind-weathernext]]
+[[vitali87-code-graph-rag]] [[tauricresearch-tradingagents]] [[nanmicoder-mediacrawler]] [[semantica-agi-semantica]]
 

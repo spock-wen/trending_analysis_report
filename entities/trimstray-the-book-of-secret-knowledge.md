@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[mattpocock-skills]] [[ladybirdbrowser-ladybird]] [[msitarzewski-agency-agents]] [[chenyme-grok2api]] [[pranshuparmar-witr]]
+[[danielmiessler-lifeos]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[ladybirdbrowser-ladybird]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[web]] [[cli]]
 

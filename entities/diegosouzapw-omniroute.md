@@ -38,7 +38,7 @@ Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free),
 
 ## 相关项目
 
-[[mattpocock-skills]] [[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[msitarzewski-agency-agents]]
+[[danielmiessler-lifeos]] [[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[msitarzewski-agency-agents]] [[google-skills]] [[primeintellect-ai-prime-agent]]
+[[msitarzewski-agency-agents]] [[primeintellect-ai-prime-agent]] [[tauricresearch-tradingagents]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

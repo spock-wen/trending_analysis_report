@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[mattpocock-skills]] [[google-skills]] [[amnezia-vpn-amnezia-client]] [[primeintellect-ai-prime-agent]]
+[[danielmiessler-lifeos]] [[primeintellect-ai-prime-agent]] [[raphire-win11debloat]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

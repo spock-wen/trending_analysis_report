@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[addyosmani-agent-skills]] [[ladybirdbrowser-ladybird]] [[msitarzewski-agency-agents]] [[nomadamas-k-skill]]
+[[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[nomadamas-k-skill]] [[ladybirdbrowser-ladybird]]
 
 **所属领域**: [[web]] [[image-gen]]
 

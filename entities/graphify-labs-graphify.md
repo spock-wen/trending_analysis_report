@@ -36,7 +36,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[webpack-webpack]] [[google-skills]] [[semantica-agi-semantica]] [[zhaoxuya520-reverse-skill]] [[trycua-cua]]
+[[alibaba-open-code-review]] [[comfy-org-comfyui]] [[webpack-webpack]] [[paperclipai-paperclip]] [[corebunch-instatic]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

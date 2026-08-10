@@ -36,7 +36,7 @@ Web UI for the pi coding agent
 
 ## 相关项目
 
-[[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[ladybirdbrowser-ladybird]] [[msitarzewski-agency-agents]]
+[[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

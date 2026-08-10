@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[github-copilot-sdk]] [[mattpocock-skills]] [[google-skills]] [[apache-cassandra]] [[primeintellect-ai-prime-agent]]
+[[danielmiessler-lifeos]] [[corebunch-instatic]] [[primeintellect-ai-prime-agent]] [[github-copilot-sdk]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

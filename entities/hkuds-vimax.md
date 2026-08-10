@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[webpack-webpack]] [[graphify-labs-graphify]]
+[[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[vitali87-code-graph-rag]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

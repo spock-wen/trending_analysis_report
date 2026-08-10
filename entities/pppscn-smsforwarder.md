@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[ladybirdbrowser-ladybird]] [[msitarzewski-agency-agents]] [[chenyme-grok2api]] [[andreknieriem-headunit-revived]]
+[[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[bannedbook-fanqiang]] [[ladybirdbrowser-ladybird]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[web]]
 

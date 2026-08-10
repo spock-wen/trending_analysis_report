@@ -36,7 +36,7 @@ Give your agent a computer 👾
 
 ## 相关项目
 
-[[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[msitarzewski-agency-agents]] [[tencentcloud-tencentdb-agent-memory]]
+[[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]]
 

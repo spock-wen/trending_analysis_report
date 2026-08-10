@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[livekit-agents]] [[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[mattpocock-skills]]
+[[danielmiessler-lifeos]] [[alishahryar1-free-claude-code]] [[jamiepine-voicebox]] [[huggingface-speech-to-speech]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[cli]] [[audio]]
 

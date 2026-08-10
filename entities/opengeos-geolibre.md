@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[apache-cassandra]] [[primeintellect-ai-prime-agent]] [[ladybirdbrowser-ladybird]] [[msitarzewski-agency-agents]] [[chenyme-grok2api]]
+[[corebunch-instatic]] [[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[ladybirdbrowser-ladybird]]
 
 **所属领域**: [[web]] [[data]]
 

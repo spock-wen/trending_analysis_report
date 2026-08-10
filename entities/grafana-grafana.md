@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[apache-cassandra]] [[semantica-agi-semantica]] [[primeintellect-ai-prime-agent]] [[cloudflare-computer]] [[tencentcloud-tencentdb-agent-memory]]
+[[corebunch-instatic]] [[primeintellect-ai-prime-agent]] [[alibaba-open-code-review]] [[firecrawl-firecrawl]] [[semantica-agi-semantica]]
 
 **所属领域**: [[data]] [[devops]]
 

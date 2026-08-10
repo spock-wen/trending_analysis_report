@@ -37,7 +37,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]]
+[[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[vitali87-code-graph-rag]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -34,7 +34,7 @@ A collection of DESIGN.md files analysis by popular brand design systems. Drop o
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[msitarzewski-agency-agents]] [[google-skills]] [[primeintellect-ai-prime-agent]]
+[[msitarzewski-agency-agents]] [[primeintellect-ai-prime-agent]] [[tauricresearch-tradingagents]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

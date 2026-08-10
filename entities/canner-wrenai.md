@@ -34,7 +34,7 @@ GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL throug
 
 ## 相关项目
 
-[[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[mattpocock-skills]] [[obra-superpowers]]
+[[danielmiessler-lifeos]] [[corebunch-instatic]] [[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[vitali87-code-graph-rag]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

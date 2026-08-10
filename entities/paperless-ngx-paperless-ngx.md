@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[mvanhorn-last30days-skill]]
+[[mvanhorn-last30days-skill]] [[vitali87-code-graph-rag]] [[tauricresearch-tradingagents]] [[nanmicoder-mediacrawler]] [[semantica-agi-semantica]]
 
 **所属领域**: [[science]]
 

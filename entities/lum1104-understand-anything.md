@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[mattpocock-skills]] [[google-skills]] [[microsoft-ai-for-beginners]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]]
+[[danielmiessler-lifeos]] [[microsoft-generative-ai-for-beginners]] [[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

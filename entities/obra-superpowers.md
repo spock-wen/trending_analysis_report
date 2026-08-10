@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[anthropics-cwc-workshops]] [[mattpocock-skills]] [[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]]
+[[danielmiessler-lifeos]] [[primeintellect-ai-prime-agent]] [[anthropics-cwc-workshops]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

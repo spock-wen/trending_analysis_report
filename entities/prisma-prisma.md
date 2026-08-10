@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[webpack-webpack]] [[apache-cassandra]] [[graphify-labs-graphify]] [[primeintellect-ai-prime-agent]] [[cloudflare-computer]]
+[[corebunch-instatic]] [[primeintellect-ai-prime-agent]] [[alibaba-open-code-review]] [[comfy-org-comfyui]] [[trycua-cua]]
 
 **所属领域**: [[data]] [[image-gen]]
 

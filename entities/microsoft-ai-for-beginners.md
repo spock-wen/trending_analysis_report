@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[google-skills]] [[lyogavin-airllm]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[msitarzewski-agency-agents]]
+[[microsoft-generative-ai-for-beginners]] [[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[anthropics-claude-cookbooks]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

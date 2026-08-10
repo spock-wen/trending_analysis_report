@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[goauthentik-authentik]] [[vitali87-code-graph-rag]] [[google-skills]] [[mattpocock-skills]]
+[[danielmiessler-lifeos]] [[obra-superpowers]] [[primeintellect-ai-prime-agent]] [[anthropics-cwc-workshops]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

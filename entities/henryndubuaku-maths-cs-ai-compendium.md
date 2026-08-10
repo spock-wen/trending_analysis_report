@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[google-skills]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[msitarzewski-agency-agents]]
+[[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[mvanhorn-last30days-skill]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

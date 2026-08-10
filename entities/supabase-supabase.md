@@ -34,7 +34,7 @@ The Postgres development platform. Supabase gives you a dedicated Postgres datab
 
 ## 相关项目
 
-[[google-skills]] [[apache-cassandra]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[ladybirdbrowser-ladybird]]
+[[corebunch-instatic]] [[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

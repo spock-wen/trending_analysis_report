@@ -37,7 +37,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ## 相关项目
 
-[[denoland-celld]] [[jdx-mise]] [[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]]
+[[calesthio-openmontage]] [[jdx-mise]] [[firecrawl-pdf-inspector]] [[msitarzewski-agency-agents]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

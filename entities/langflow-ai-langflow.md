@@ -34,7 +34,7 @@ Langflow is a powerful tool for building and deploying AI-powered agents and wor
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[vitali87-code-graph-rag]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]]
+[[uber-adr]] [[litu54-devops-interview-guide]] [[hkuds-deeptutor]] [[ruvnet-ruview]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

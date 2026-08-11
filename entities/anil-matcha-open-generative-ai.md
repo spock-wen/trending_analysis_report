@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[nomadamas-k-skill]] [[tauricresearch-tradingagents]]
+[[trycua-cua]] [[nomadamas-k-skill]] [[graphify-labs-graphify]] [[comfy-org-comfyui]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

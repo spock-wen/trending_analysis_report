@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[danielmiessler-lifeos]] [[msitarzewski-agency-agents]] [[vitali87-code-graph-rag]] [[tauricresearch-tradingagents]] [[nanmicoder-mediacrawler]]
+[[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[danielmiessler-lifeos]] [[anthropics-skills]]
 
 **所属领域**: [[cli]]
 

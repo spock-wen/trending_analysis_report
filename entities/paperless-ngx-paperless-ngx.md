@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[vitali87-code-graph-rag]] [[tauricresearch-tradingagents]] [[nanmicoder-mediacrawler]] [[semantica-agi-semantica]]
+[[mvanhorn-last30days-skill]] [[hkuds-deeptutor]] [[zhaoxuya520-reverse-skill]] [[semantica-agi-semantica]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[science]]
 

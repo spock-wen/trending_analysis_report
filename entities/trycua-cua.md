@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[ossu-computer-science]] [[corebunch-instatic]] [[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]]
+[[opengeos-geolibre]] [[graphify-labs-graphify]] [[comfy-org-comfyui]] [[ossu-computer-science]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

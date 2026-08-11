@@ -37,7 +37,7 @@ Build local voice agents with open-source models
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[jamiepine-voicebox]] [[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[vitali87-code-graph-rag]]
+[[jamiepine-voicebox]] [[hkuds-deeptutor]] [[livekit-agents]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

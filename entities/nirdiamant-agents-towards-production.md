@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[primeintellect-ai-prime-agent]] [[anthropics-cwc-workshops]] [[msitarzewski-agency-agents]] [[anthropics-claude-cookbooks]]
+[[donnemartin-system-design-primer]] [[uber-adr]] [[obra-superpowers]] [[microsoft-ai-for-beginners]] [[litu54-devops-interview-guide]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

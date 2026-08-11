@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[danielmiessler-lifeos]] [[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]]
+[[paperclipai-paperclip]] [[mattpocock-skills]] [[msitarzewski-agency-agents]] [[danielmiessler-lifeos]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

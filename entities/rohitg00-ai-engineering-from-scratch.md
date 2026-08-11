@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[vitali87-code-graph-rag]] [[addyosmani-agent-skills]]
+[[donnemartin-system-design-primer]] [[hkuds-deeptutor]] [[microsoft-generative-ai-for-beginners]] [[practical-tutorials-project-based-learning]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -38,7 +38,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[anthropics-claude-cookbooks]] [[addyosmani-agent-skills]]
+[[microsoft-ai-for-beginners]] [[anthropics-claude-cookbooks]] [[microsoft-generative-ai-for-beginners]] [[msitarzewski-agency-agents]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

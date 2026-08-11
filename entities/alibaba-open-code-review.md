@@ -37,7 +37,7 @@ Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture cod
 
 ## 相关项目
 
-[[corebunch-instatic]] [[primeintellect-ai-prime-agent]] [[esengine-deepseek-reasonix]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]]
+[[opengeos-geolibre]] [[github-gh-stack]] [[esengine-deepseek-reasonix]] [[pranshuparmar-witr]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

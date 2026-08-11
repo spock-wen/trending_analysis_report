@@ -38,5 +38,5 @@ language: "Python"
 
 ## 相关项目
 
-[[vitali87-code-graph-rag]] [[tauricresearch-tradingagents]] [[semantica-agi-semantica]]
+[[calesthio-openmontage]] [[semantica-agi-semantica]] [[hkuds-deeptutor]] [[anthropics-skills]]
 

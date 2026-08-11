@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[danielmiessler-lifeos]] [[msitarzewski-agency-agents]] [[ladybirdbrowser-ladybird]] [[gabime-spdlog]] [[amnezia-vpn-amnezia-client]]
+[[amnezia-vpn-amnezia-client]] [[geo-tp-esp32-bit-pirate]] [[msitarzewski-agency-agents]] [[danielmiessler-lifeos]] [[gabime-spdlog]]
 
 **所属领域**: [[cli]]
 

@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[docusealco-docuseal]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]]
+[[docusealco-docuseal]] [[msitarzewski-agency-agents]] [[anthropics-skills]] [[calesthio-openmontage]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

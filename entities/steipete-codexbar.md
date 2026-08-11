@@ -36,7 +36,7 @@ Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[palmier-io-palmier-pro]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]]
+[[jaywcjlove-awesome-mac]] [[palmier-io-palmier-pro]] [[msitarzewski-agency-agents]] [[anthropics-skills]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]]
 

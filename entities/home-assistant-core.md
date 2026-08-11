@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[vitali87-code-graph-rag]] [[tauricresearch-tradingagents]] [[nanmicoder-mediacrawler]] [[uber-adr]] [[semantica-agi-semantica]]
+[[uber-adr]] [[amnezia-vpn-amnezia-client]] [[hkuds-deeptutor]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[security]]
 

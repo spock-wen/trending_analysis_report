@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[openinterpreter-openinterpreter]] [[firecrawl-firecrawl]] [[uber-adr]] [[obra-superpowers]]
+[[uber-adr]] [[openinterpreter-openinterpreter]] [[firecrawl-firecrawl]] [[stablyai-orca]] [[primeintellect-ai-prime-agent]]
 
 **所属领域**: [[erp]]
 

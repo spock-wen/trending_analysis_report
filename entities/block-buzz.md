@@ -36,5 +36,5 @@ A hive mind communication platform
 
 ## 相关项目
 
-[[denoland-celld]] [[jdx-mise]] [[firecrawl-pdf-inspector]] [[ruvnet-ruview]]
+[[firecrawl-pdf-inspector]] [[denoland-celld]] [[jdx-mise]] [[ruvnet-ruview]]
 

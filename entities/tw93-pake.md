@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[denoland-celld]] [[danielmiessler-lifeos]] [[jdx-mise]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]]
+[[hkuds-deeptutor]] [[jdx-mise]] [[firecrawl-firecrawl]] [[firecrawl-pdf-inspector]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]] [[cli]]
 

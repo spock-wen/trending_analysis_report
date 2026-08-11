@@ -37,5 +37,5 @@ Empowering everyone to host fast and efficient Minecraft servers.
 
 ## 相关项目
 
-[[denoland-celld]] [[jdx-mise]] [[firecrawl-pdf-inspector]] [[ruvnet-ruview]]
+[[firecrawl-pdf-inspector]] [[denoland-celld]] [[jdx-mise]] [[ruvnet-ruview]]
 

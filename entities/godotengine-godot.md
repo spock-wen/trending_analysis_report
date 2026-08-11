@@ -34,5 +34,5 @@ Godot Engine – Multi-platform 2D and 3D game engine
 
 ## 相关项目
 
-[[gabime-spdlog]] [[amnezia-vpn-amnezia-client]] [[geo-tp-esp32-bit-pirate]] [[ladybirdbrowser-ladybird]]
+[[gabime-spdlog]] [[ladybirdbrowser-ladybird]] [[amnezia-vpn-amnezia-client]] [[geo-tp-esp32-bit-pirate]]
 

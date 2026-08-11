@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[mvanhorn-last30days-skill]] [[vitali87-code-graph-rag]] [[tauricresearch-tradingagents]] [[nanmicoder-mediacrawler]]
+[[donnemartin-system-design-primer]] [[mvanhorn-last30days-skill]] [[hkuds-deeptutor]] [[microsoft-generative-ai-for-beginners]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[education]] [[science]]
 

@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[opa334-dopamine]] [[microsoft-powertoys]] [[uber-adr]] [[amnezia-vpn-amnezia-client]] [[antirez-ds4]]
+[[uber-adr]] [[amnezia-vpn-amnezia-client]] [[antirez-ds4]] [[opa334-dopamine]] [[harbourmasters-lighthouse]]
 
 **所属领域**: [[security]]
 

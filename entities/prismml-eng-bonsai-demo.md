@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[danielmiessler-lifeos]] [[primeintellect-ai-prime-agent]] [[addyosmani-agent-skills]] [[msitarzewski-agency-agents]] [[tauricresearch-tradingagents]]
+[[paperclipai-paperclip]] [[mattpocock-skills]] [[msitarzewski-agency-agents]] [[danielmiessler-lifeos]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

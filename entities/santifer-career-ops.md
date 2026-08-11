@@ -37,7 +37,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[nomadamas-k-skill]] [[tauricresearch-tradingagents]]
+[[trycua-cua]] [[nomadamas-k-skill]] [[graphify-labs-graphify]] [[comfy-org-comfyui]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

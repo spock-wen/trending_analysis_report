@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ossu-computer-science]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[ladybirdbrowser-ladybird]] [[comfy-org-comfyui]]
+[[trycua-cua]] [[graphify-labs-graphify]] [[comfy-org-comfyui]] [[ossu-computer-science]] [[hkuds-deeptutor]]
 
 **所属领域**: [[web]] [[image-gen]]
 

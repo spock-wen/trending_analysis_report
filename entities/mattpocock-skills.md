@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[danielmiessler-lifeos]] [[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]]
+[[paperclipai-paperclip]] [[msitarzewski-agency-agents]] [[danielmiessler-lifeos]] [[anthropics-skills]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

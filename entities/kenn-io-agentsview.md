@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[corebunch-instatic]] [[primeintellect-ai-prime-agent]] [[esengine-deepseek-reasonix]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]]
+[[opengeos-geolibre]] [[github-gh-stack]] [[esengine-deepseek-reasonix]] [[pranshuparmar-witr]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

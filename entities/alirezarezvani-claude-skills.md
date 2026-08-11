@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[danielmiessler-lifeos]] [[obra-superpowers]] [[primeintellect-ai-prime-agent]] [[anthropics-cwc-workshops]] [[msitarzewski-agency-agents]]
+[[mvanhorn-last30days-skill]] [[uber-adr]] [[obra-superpowers]] [[openinterpreter-openinterpreter]] [[hkuds-deeptutor]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

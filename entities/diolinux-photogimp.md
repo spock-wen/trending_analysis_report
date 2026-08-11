@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[obra-superpowers]] [[chenyme-grok2api]] [[anthropics-cwc-workshops]] [[msitarzewski-agency-agents]] [[openinterpreter-openinterpreter]]
+[[uber-adr]] [[nutlope-hallmark]] [[openinterpreter-openinterpreter]] [[hkuds-deeptutor]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[web]] [[erp]]
 

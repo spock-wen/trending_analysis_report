@@ -35,5 +35,5 @@ A self-hosted travel/trip planner with real-time collaboration, interactive maps
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[primeintellect-ai-prime-agent]] [[pingdotgg-t3code]] [[paperclipai-paperclip]]
+[[paperclipai-paperclip]] [[stablyai-orca]] [[primeintellect-ai-prime-agent]] [[firecrawl-firecrawl]]
 

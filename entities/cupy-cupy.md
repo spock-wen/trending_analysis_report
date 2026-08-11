@@ -35,5 +35,5 @@ NumPy & SciPy for GPU
 
 ## 相关项目
 
-[[vitali87-code-graph-rag]] [[tauricresearch-tradingagents]] [[nanmicoder-mediacrawler]] [[semantica-agi-semantica]]
+[[calesthio-openmontage]] [[semantica-agi-semantica]] [[hkuds-deeptutor]] [[anthropics-skills]]
 

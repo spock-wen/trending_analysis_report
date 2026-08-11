@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ossu-computer-science]] [[microsoft-generative-ai-for-beginners]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[paperswithbacktest-awesome-systematic-trading]]
+[[donnemartin-system-design-primer]] [[trycua-cua]] [[ossu-computer-science]] [[hkuds-deeptutor]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[web]] [[education]]
 

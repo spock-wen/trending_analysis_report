@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]] [[webpack-webpack]]
+[[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[anthropics-skills]] [[calesthio-openmontage]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

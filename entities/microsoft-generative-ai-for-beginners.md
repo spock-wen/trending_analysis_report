@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[anthropics-claude-cookbooks]] [[lyogavin-airllm]] [[tauricresearch-tradingagents]]
+[[donnemartin-system-design-primer]] [[microsoft-ai-for-beginners]] [[anthropics-claude-cookbooks]] [[lyogavin-airllm]] [[practical-tutorials-project-based-learning]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

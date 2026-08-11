@@ -38,7 +38,7 @@ agent multiplexer that lives in your terminal.
 
 ## 相关项目
 
-[[denoland-celld]] [[danielmiessler-lifeos]] [[jdx-mise]] [[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]]
+[[paperclipai-paperclip]] [[calesthio-openmontage]] [[jdx-mise]] [[firecrawl-pdf-inspector]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

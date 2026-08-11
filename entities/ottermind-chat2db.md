@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[danielmiessler-lifeos]] [[corebunch-instatic]] [[primeintellect-ai-prime-agent]] [[github-copilot-sdk]] [[msitarzewski-agency-agents]]
+[[opengeos-geolibre]] [[jenkinsci-jenkins]] [[github-copilot-sdk]] [[alibaba-open-code-review]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

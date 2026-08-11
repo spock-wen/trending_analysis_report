@@ -35,7 +35,7 @@ AI-powered job application framework built on Claude Code. Fork it, fill in your
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]] [[firecrawl-firecrawl]]
+[[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[stablyai-orca]] [[msitarzewski-agency-agents]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

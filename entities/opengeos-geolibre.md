@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[corebunch-instatic]] [[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[ladybirdbrowser-ladybird]]
+[[hkuds-deeptutor]] [[firecrawl-firecrawl]] [[alibaba-open-code-review]] [[stablyai-orca]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]] [[data]]
 

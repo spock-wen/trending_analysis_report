@@ -36,17 +36,7 @@ The context API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[ladybirdbrowser-ladybird]] [[paperclipai-paperclip]]
+[[hkuds-deeptutor]] [[stablyai-orca]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[ladybirdbrowser-ladybird]]
 
 **所属领域**: [[web]]
-
-
-## ⚠️ 描述变更（2026-08-11）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: The API to search, scrape, and interact with the web at scale. 🔥
-- **新描述**: The context API to search, scrape, and interact with the web at scale. 🔥
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

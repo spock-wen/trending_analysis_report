@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ossu-computer-science]] [[corebunch-instatic]] [[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]]
+[[opengeos-geolibre]] [[trycua-cua]] [[ossu-computer-science]] [[addyosmani-agent-skills]] [[hkuds-deeptutor]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

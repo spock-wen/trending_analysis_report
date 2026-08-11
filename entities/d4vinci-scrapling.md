@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[vitali87-code-graph-rag]] [[tauricresearch-tradingagents]] [[nanmicoder-mediacrawler]]
+[[hkuds-deeptutor]] [[firecrawl-firecrawl]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[anthropics-skills]]
 
 **所属领域**: [[web]]
 

@@ -37,7 +37,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[anthropics-cwc-workshops]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[openinterpreter-openinterpreter]]
+[[uber-adr]] [[openinterpreter-openinterpreter]] [[anthropics-cwc-workshops]] [[msitarzewski-agency-agents]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

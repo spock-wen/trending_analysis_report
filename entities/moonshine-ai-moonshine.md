@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[jamiepine-voicebox]] [[primeintellect-ai-prime-agent]] [[huggingface-speech-to-speech]] [[msitarzewski-agency-agents]]
+[[jamiepine-voicebox]] [[amnezia-vpn-amnezia-client]] [[livekit-agents]] [[addyosmani-agent-skills]] [[geo-tp-esp32-bit-pirate]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

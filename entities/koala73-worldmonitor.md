@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]] [[firecrawl-firecrawl]]
+[[uber-adr]] [[litu54-devops-interview-guide]] [[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -34,5 +34,5 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[primeintellect-ai-prime-agent]] [[pingdotgg-t3code]] [[paperclipai-paperclip]]
+[[paperclipai-paperclip]] [[stablyai-orca]] [[primeintellect-ai-prime-agent]] [[firecrawl-firecrawl]]
 

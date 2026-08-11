@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[denoland-celld]] [[jdx-mise]] [[primeintellect-ai-prime-agent]] [[anthropics-cwc-workshops]] [[msitarzewski-agency-agents]]
+[[uber-adr]] [[obra-superpowers]] [[calesthio-openmontage]] [[jdx-mise]] [[anthropics-cwc-workshops]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

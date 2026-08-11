@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[danielmiessler-lifeos]] [[primeintellect-ai-prime-agent]] [[anthropics-cwc-workshops]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]]
+[[paperclipai-paperclip]] [[uber-adr]] [[openinterpreter-openinterpreter]] [[anthropics-cwc-workshops]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

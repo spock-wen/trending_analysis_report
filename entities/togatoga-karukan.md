@@ -34,5 +34,5 @@ Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engi
 
 ## 相关项目
 
-[[denoland-celld]] [[jdx-mise]] [[firecrawl-pdf-inspector]] [[ruvnet-ruview]]
+[[firecrawl-pdf-inspector]] [[denoland-celld]] [[jdx-mise]] [[ruvnet-ruview]]
 

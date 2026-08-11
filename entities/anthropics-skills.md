@@ -1,20 +1,20 @@
 ---
 title: "anthropics/skills"
 created: 2026-05-16
-updated: 2026-05-31
-last_active: 2026-05-31
+updated: 2026-08-12
+last_active: 2026-08-12
 type: tool
 tags: [python, ai-agent]
-sources: [raw/trending/2026-05-31.json]
+sources: [raw/trending/2026-08-12.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-05-16
-last_trending: 2026-05-31
+last_trending: 2026-08-12
 peak_rank: 7
-total_stars: 144091
+total_stars: 168092
 language: "Python"
 ---
 
@@ -23,13 +23,14 @@ language: "Python"
 Public repository for Agent Skills
 
 - 语言: Python
-- 上榜次数: 4 次
+- 上榜次数: 5 次
 - 连续上榜: 1 天
 - 最高排名: #7
 - 链接: [anthropics/skills](https://github.com/anthropics/skills)
 
 ## 上榜历史
 
+  - 2026-08-12: #7, +468⭐
   - 2026-05-31: #18, +471⭐
   - 2026-05-29: #16, +791⭐
   - 2026-05-17: #7, +689⭐
@@ -37,7 +38,7 @@ Public repository for Agent Skills
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[vitali87-code-graph-rag]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]]
+[[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[calesthio-openmontage]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

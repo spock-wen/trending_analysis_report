@@ -37,5 +37,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[primeintellect-ai-prime-agent]] [[pingdotgg-t3code]] [[paperclipai-paperclip]]
+[[paperclipai-paperclip]] [[stablyai-orca]] [[primeintellect-ai-prime-agent]] [[firecrawl-firecrawl]]
 

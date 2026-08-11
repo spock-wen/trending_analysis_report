@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[corebunch-instatic]] [[primeintellect-ai-prime-agent]] [[alibaba-open-code-review]] [[firecrawl-firecrawl]] [[semantica-agi-semantica]]
+[[opengeos-geolibre]] [[uber-adr]] [[litu54-devops-interview-guide]] [[firecrawl-firecrawl]] [[alibaba-open-code-review]]
 
 **所属领域**: [[data]] [[devops]]
 

@@ -34,7 +34,7 @@ Training neural networks on Apple Neural Engine via reverse-engineered private A
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[primeintellect-ai-prime-agent]] [[tauricresearch-tradingagents]] [[addyosmani-agent-skills]]
+[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[msitarzewski-agency-agents]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

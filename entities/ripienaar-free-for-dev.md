@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[ossu-computer-science]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[ruvnet-ruview]] [[ladybirdbrowser-ladybird]]
+[[uber-adr]] [[trycua-cua]] [[litu54-devops-interview-guide]] [[ossu-computer-science]] [[hkuds-deeptutor]]
 
 **所属领域**: [[web]] [[devops]]
 

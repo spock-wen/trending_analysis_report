@@ -34,7 +34,7 @@ Socket-based TS/JavaScript API for WhatsApp Web
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[nomadamas-k-skill]]
+[[nomadamas-k-skill]] [[hkuds-deeptutor]] [[affaan-m-ecc]] [[firecrawl-firecrawl]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

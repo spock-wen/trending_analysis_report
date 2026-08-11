@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[danielmiessler-lifeos]] [[primeintellect-ai-prime-agent]] [[raphire-win11debloat]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]]
+[[mvanhorn-last30days-skill]] [[uber-adr]] [[amnezia-vpn-amnezia-client]] [[raphire-win11debloat]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

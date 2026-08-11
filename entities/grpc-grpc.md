@@ -34,5 +34,5 @@ C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 
 ## 相关项目
 
-[[gabime-spdlog]] [[amnezia-vpn-amnezia-client]] [[geo-tp-esp32-bit-pirate]] [[ladybirdbrowser-ladybird]]
+[[gabime-spdlog]] [[ladybirdbrowser-ladybird]] [[amnezia-vpn-amnezia-client]] [[geo-tp-esp32-bit-pirate]]
 

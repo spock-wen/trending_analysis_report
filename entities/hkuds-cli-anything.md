@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[danielmiessler-lifeos]] [[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[vitali87-code-graph-rag]]
+[[hkuds-deeptutor]] [[firecrawl-firecrawl]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[danielmiessler-lifeos]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

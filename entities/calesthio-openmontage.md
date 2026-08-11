@@ -1,44 +1,55 @@
 ---
 title: "calesthio/OpenMontage"
 created: 2026-06-18
-updated: 2026-06-27
-last_active: 2026-06-27
+updated: 2026-08-12
+last_active: 2026-08-12
 type: tool
-tags: [python, ai-agent, data, rising]
-sources: [raw/trending/2026-06-27.json]
+tags: [python, ai-agent, data]
+sources: [raw/trending/2026-08-12.json]
 confidence: high
-trending_count_daily: 9
+trending_count_daily: 10
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 8
+consecutive_days: 1
 first_trending: 2026-06-18
-last_trending: 2026-06-27
+last_trending: 2026-08-12
 peak_rank: 1
-total_stars: 23545
+total_stars: 47288
 language: "Python"
+contested: true
 ---
 
 # calesthio/OpenMontage
 
-World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
 
 - 语言: Python
-- 上榜次数: 9 次
-- 连续上榜: 8 天
+- 上榜次数: 10 次
+- 连续上榜: 1 天
 - 最高排名: #1
 - 链接: [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
 ## 上榜历史
 
+  - 2026-08-12: #15, +436⭐
   - 2026-06-27: #11, +1674⭐
   - 2026-06-26: #2, +3553⭐
   - 2026-06-25: #1, +3703⭐
   - 2026-06-24: #1, +3590⭐
-  - 2026-06-23: #1, +2935⭐
 
 ## 相关项目
 
-[[corebunch-instatic]] [[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[vitali87-code-graph-rag]] [[addyosmani-agent-skills]]
+[[opengeos-geolibre]] [[hkuds-deeptutor]] [[alibaba-open-code-review]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]] [[data]]
+
+
+## ⚠️ 描述变更（2026-08-12）
+
+该项目描述近期发生过重大变化，可能存在定位调整：
+
+- **旧描述**: World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+- **新描述**: World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+
+> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

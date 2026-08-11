@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[paperswithbacktest-awesome-systematic-trading]]
+[[paperclipai-paperclip]] [[donnemartin-system-design-primer]] [[mvanhorn-last30days-skill]] [[microsoft-generative-ai-for-beginners]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

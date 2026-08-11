@@ -35,7 +35,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[vitali87-code-graph-rag]] [[tauricresearch-tradingagents]] [[nanmicoder-mediacrawler]] [[trycua-cua]] [[webpack-webpack]]
+[[trycua-cua]] [[graphify-labs-graphify]] [[hkuds-deeptutor]] [[semantica-agi-semantica]] [[anthropics-skills]]
 
 **所属领域**: [[image-gen]]
 

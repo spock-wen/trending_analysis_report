@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[vitali87-code-graph-rag]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]]
+[[paperclipai-paperclip]] [[mvanhorn-last30days-skill]] [[trycua-cua]] [[graphify-labs-graphify]] [[comfy-org-comfyui]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

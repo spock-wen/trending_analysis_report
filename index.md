@@ -1,12 +1,13 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-08-11 | 总页面：460
+> 最后更新：2026-08-12 | 总页面：465
 
 ## Entities
 
 - [[0xnyk-council-of-high-intelligence|council-of-high-intelligence"]] — 18 AI personas deliberate your hardest decisions across mult...
 - [[1jehuang-jcode|jcode"]] — The most RAM efficient harness
+- [[3b1b-manim|manim"]] — Animation engine for explanatory math videos 🆕
 - [[666ghj-mirofish|MiroFish"]] — A Simple and Universal Swarm Intelligence Engine, Predicting...
 - [[aaif-goose-goose|goose"]] — an open source, extensible AI agent that goes beyond code su... 🔥
 - [[abseil-abseil-cpp|abseil-cpp"]] — Abseil Common Libraries (C++) 🆕
@@ -74,7 +75,7 @@
 - [[bytebytegohq-system-design-101|system-design-101"]] — Explain complex systems using visuals and simple terms. Help...
 - [[bytedance-deer-flow|deer-flow"]] — An open-source long-horizon SuperAgent harness that research...
 - [[bytedance-ui-tars-desktop|UI-TARS-desktop"]] — The Open-Source Multimodal AI Agent Stack: Connecting Cuttin...
-- [[calesthio-openmontage|OpenMontage"]] — World's first open-source, agentic video production system. ... 🔥
+- [[calesthio-openmontage|OpenMontage"]] — World's first open-source, agentic video production system. ...
 - [[can1357-oh-my-pi|oh-my-pi"]] — ⌥ AI Coding agent for the terminal — hash-anchored edits, op...
 - [[canner-wrenai|WrenAI"]] — GenBI (Generative BI) for AI agents, an open-source, governe...
 - [[catchorg-catch2|Catch2"]] — A modern, C++-native, test framework for unit-tests, TDD and... 🆕
@@ -108,7 +109,7 @@
 - [[cypress-io-cypress|cypress"]] — Fast, easy and reliable testing for anything that runs in a ...
 - [[czlonkowski-n8n-mcp|n8n-mcp"]] — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor t... 🆕
 - [[d4vinci-scrapling|Scrapling"]] — 🕷️ An adaptive Web Scraping framework that handles everythin... 🔥
-- [[danielmiessler-lifeos|LifeOS"]] — ⛰️A General Hill-climbing AI harness that helps you move fro... 🆕
+- [[danielmiessler-lifeos|LifeOS"]] — ⛰️A General Hill-climbing AI harness that helps you move fro...
 - [[datatalksclub-data-engineering-zoomcamp|data-engineering-zoomcamp"]] — Data Engineering Zoomcamp is a free 9-week course on buildin... 🆕
 - [[davila7-claude-code-templates|claude-code-templates"]] — CLI tool for configuring and monitoring Claude Code 🔥
 - [[dayuanjiang-next-ai-draw-io|next-ai-draw-io"]] — A next.js web application that integrates AI capabilities wi...
@@ -183,12 +184,13 @@
 - [[hexo-ai-sia|sia"]] — SIA is a Self Improving AI framework to autonomously improve...
 - [[heygen-com-hyperframes|hyperframes"]] — Write HTML. Render video. Built for agents.
 - [[hkuds-cli-anything|CLI-Anything"]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:... 🔥
-- [[hkuds-deeptutor|DeepTutor"]] — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor... 🔥
+- [[hkuds-deeptutor|DeepTutor"]] — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor...
 - [[hkuds-vibe-trading|Vibe-Trading"]] — "Vibe-Trading: Your Personal Trading Agent" 🔥
 - [[hkuds-vimax|ViMax"]] — "ViMax: Agentic Video Generation (Director, Screenwriter, Pr... 🆕
 - [[home-assistant-core|core"]] — 🏡 Open source home automation that puts local control and pr... 🆕
 - [[huangruiteng-loopx|loopx"]] — Lightweight loop engineering state kernel for long-running A... 🆕
 - [[huggingface-speech-to-speech|speech-to-speech"]] — Build local voice agents with open-source models
+- [[huggingface-transformers|transformers"]] — 🤗 Transformers: the model-definition framework for state-of-... 🆕
 - [[hugohe3-ppt-master|ppt-master"]] — AI generates a real, editable PowerPoint from any document —...
 - [[humanlayer-12-factor-agents|12-factor-agents"]] — What are the principles we can use to build LLM-powered soft... 🆕
 - [[hunxbyts-ghosttrack|GhostTrack"]] — Useful tool to track location or mobile number
@@ -209,6 +211,7 @@
 - [[iv-org-invidious|invidious"]] — Invidious is an alternative front-end to YouTube 🔥
 - [[jamiepine-voicebox|voicebox"]] — The open-source AI voice studio. Clone, dictate, create.
 - [[jamwithai-production-agentic-rag-course|production-agentic-rag-course"]] — No description
+- [[jaywcjlove-awesome-mac|awesome-mac"]] —  This project is dedicated to collecting high-quality macOS... 🆕
 - [[jbeder-yaml-cpp|yaml-cpp"]] — A YAML parser and emitter in C++
 - [[jcodesmore-ai-website-cloner-template|ai-website-cloner-template"]] — Clone any website with one command using AI coding agents 🔥
 - [[jdx-mise|mise"]] — dev tools, env vars, task runner
@@ -280,7 +283,7 @@
 - [[moonshine-ai-moonshine|moonshine"]] — Very low latency speech to text, intent recognition, and tex...
 - [[moonshotai-flashkda|FlashKDA"]] — FlashKDA: high-performance Kimi Delta Attention kernels
 - [[moonshotai-kimi-cli|kimi-cli"]] — Kimi Code CLI is your next CLI agent. 🔥
-- [[msitarzewski-agency-agents|agency-agents"]] — A complete AI agency at your fingertips - From frontend wiza... 🆕
+- [[msitarzewski-agency-agents|agency-agents"]] — A complete AI agency at your fingertips - From frontend wiza... 🔥
 - [[mukul975-anthropic-cybersecurity-skills|Anthropic-Cybersecurity-Skills"]] — 817 structured cybersecurity skills for AI agents · Mapped t...
 - [[multica-ai-andrej-karpathy-skills|andrej-karpathy-skills"]] — A single CLAUDE.md file to improve Claude Code behavior, der... 🔥
 - [[multica-ai-multica|multica"]] — The open-source managed agents platform. Turn coding agents ... 🆕
@@ -300,12 +303,13 @@
 - [[nvidia-cosmos|cosmos"]] — NVIDIA Cosmos is an open platform of world models, datasets,... 🆕
 - [[nvidia-skillspector|SkillSpector"]] — Security scanner for AI agent skills. Detect vulnerabilities... 🔥
 - [[nvlabs-sana|Sana"]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
+- [[nvm-sh-nvm|nvm"]] — Node Version Manager - POSIX-compliant bash script to manage... 🆕
 - [[oblien-openship|openship"]] — Self-hosted deployment platform 🔥
 - [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo... 🔥
 - [[ocornut-imgui|imgui"]] — Dear ImGui: Bloat-free Graphical User interface for C++ with...
 - [[odoo-odoo|odoo"]] — Odoo. Open Source Apps To Grow Your Business.
 - [[ogulcancelik-herdr|herdr"]] — agent multiplexer that lives in your terminal. 🔥
-- [[opa334-dopamine|Dopamine"]] — Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.... 🆕
+- [[opa334-dopamine|Dopamine"]] — Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0....
 - [[open-dev-society-openstock|OpenStock"]] — OpenStock is an open-source alternative to expensive market ...
 - [[open-llm-vtuber-open-llm-vtuber|Open-LLM-VTuber"]] — Talk to any LLM with hands-free voice interaction, voice int... 🔥
 - [[openai-codex-plugin-cc|codex-plugin-cc"]] — Use Codex from Claude Code to review code or delegate tasks. 🔥
@@ -343,6 +347,7 @@
 - [[plausible-analytics|analytics"]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
 - [[posthog-posthog|posthog"]] — 🦔 PostHog is the leading platform for building self-driving ... 🔥
 - [[pppscn-smsforwarder|SmsForwarder"]] — 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内...
+- [[practical-tutorials-project-based-learning|project-based-learning"]] — Curated list of project-based tutorials 🆕
 - [[pranshuparmar-witr|witr"]] — Why is this running? Trace any process, port, container, or ...
 - [[prefecthq-fastmcp|fastmcp"]] — 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [[prefecthq-prefect|prefect"]] — Prefect is a workflow orchestration framework for building r...
@@ -374,7 +379,7 @@
 - [[safishamsi-graphify|graphify"]] — AI coding assistant skill (Claude Code, Codex, OpenCode, Cur...
 - [[santifer-career-ops|career-ops"]] — AI-powered job search system built on Claude Code. 14 skill ...
 - [[schollz-croc|croc"]] — Easily and securely send things from one computer to another... 🆕
-- [[semantica-agi-semantica|semantica"]] — Graph-Native Infrastructure for Context and Accountable AI S...
+- [[semantica-agi-semantica|semantica"]] — Graph-Native Infrastructure for Context and Accountable AI S... 🆕
 - [[shanraisshan-claude-code-best-practice|claude-code-best-practice"]] — from vibe coding to agentic engineering - practice makes cla...
 - [[shiyu-coder-kronos|Kronos"]] — Kronos: A Foundation Model for the Language of Financial Mar...
 - [[shubhamsaboo-awesome-llm-apps|awesome-llm-apps"]] — 100+ AI Agent & RAG apps you can actually run — clone, custo... 🔥
@@ -426,7 +431,7 @@
 - [[veracrypt-veracrypt|VeraCrypt"]] — Disk encryption with strong security based on TrueCrypt
 - [[virattt-ai-hedge-fund|ai-hedge-fund"]] — An AI Hedge Fund Team
 - [[virgiliojr94-book-to-skill|book-to-skill"]] — Turn any technical book PDF into a Claude Code skill — ready... 🆕
-- [[vitali87-code-graph-rag|code-graph-rag"]] — The ultimate RAG for your monorepo. Query, understand, and e... 🆕
+- [[vitali87-code-graph-rag|code-graph-rag"]] — The ultimate RAG for your monorepo. Query, understand, and e... 🔥
 - [[voltagent-awesome-design-md|awesome-design-md"]] — A collection of DESIGN.md files analysis by popular brand de...
 - [[vudovn-ag-kit|ag-kit"]] — No description
 - [[vxcontrol-pentagi|pentagi"]] — Fully autonomous AI Agents system capable of performing comp...

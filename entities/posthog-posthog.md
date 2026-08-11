@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[corebunch-instatic]] [[primeintellect-ai-prime-agent]] [[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[vitali87-code-graph-rag]]
+[[opengeos-geolibre]] [[uber-adr]] [[litu54-devops-interview-guide]] [[hkuds-deeptutor]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

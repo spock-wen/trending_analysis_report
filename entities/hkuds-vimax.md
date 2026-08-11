@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[primeintellect-ai-prime-agent]] [[msitarzewski-agency-agents]] [[vitali87-code-graph-rag]] [[addyosmani-agent-skills]] [[tauricresearch-tradingagents]]
+[[trycua-cua]] [[graphify-labs-graphify]] [[comfy-org-comfyui]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

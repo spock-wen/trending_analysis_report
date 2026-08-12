@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[firecrawl-firecrawl]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[anthropics-skills]]
+[[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

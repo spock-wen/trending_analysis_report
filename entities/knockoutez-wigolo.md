@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[hkuds-deeptutor]] [[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[zhaoxuya520-reverse-skill]]
+[[zuodaotech-everyone-can-use-english]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

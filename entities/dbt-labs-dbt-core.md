@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[opengeos-geolibre]] [[jdx-mise]] [[alibaba-open-code-review]] [[firecrawl-pdf-inspector]] [[apache-cassandra]]
+[[nvidia-nemo-switchyard]] [[hugohe3-ppt-master]] [[alibaba-open-code-review]] [[denoland-celld]] [[ruvnet-ruview]]
 
 **所属领域**: [[data]]
 

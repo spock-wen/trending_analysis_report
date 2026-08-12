@@ -36,7 +36,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[steipete-codexbar]] [[jaywcjlove-awesome-mac]] [[palmier-io-palmier-pro]] [[msitarzewski-agency-agents]] [[danielmiessler-lifeos]]
+[[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[permissionlesstech-bitchat]] [[steipete-codexbar]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

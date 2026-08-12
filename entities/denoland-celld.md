@@ -35,5 +35,5 @@ self-hosted, distributed Durable Objects
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[jdx-mise]] [[ruvnet-ruview]]
+[[nvidia-nemo-switchyard]] [[ruvnet-ruview]] [[macro-inc-macro]]
 

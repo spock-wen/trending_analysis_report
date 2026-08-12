@@ -34,5 +34,5 @@ language: "Swift"
 
 ## 相关项目
 
-[[palmier-io-palmier-pro]] [[steipete-codexbar]] [[permissionlesstech-bitchat]]
+[[permissionlesstech-bitchat]] [[steipete-codexbar]] [[palmier-io-palmier-pro]]
 

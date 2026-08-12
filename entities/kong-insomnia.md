@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[firecrawl-firecrawl]] [[stablyai-orca]] [[msitarzewski-agency-agents]] [[danielmiessler-lifeos]]
+[[zuodaotech-everyone-can-use-english]] [[danielmiessler-lifeos]] [[hkuds-deeptutor]] [[nvm-sh-nvm]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]] [[cli]]
 

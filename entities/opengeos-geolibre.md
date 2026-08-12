@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[firecrawl-firecrawl]] [[alibaba-open-code-review]] [[stablyai-orca]] [[msitarzewski-agency-agents]]
+[[zuodaotech-everyone-can-use-english]] [[hugohe3-ppt-master]] [[alibaba-open-code-review]] [[hkuds-deeptutor]] [[calesthio-openmontage]]
 
 **所属领域**: [[web]] [[data]]
 

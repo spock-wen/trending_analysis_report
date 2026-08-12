@@ -34,5 +34,5 @@ dev tools, env vars, task runner
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[denoland-celld]] [[ruvnet-ruview]]
+[[nvidia-nemo-switchyard]] [[denoland-celld]] [[ruvnet-ruview]] [[macro-inc-macro]]
 

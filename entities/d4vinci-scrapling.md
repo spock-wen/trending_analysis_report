@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[firecrawl-firecrawl]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[anthropics-skills]]
+[[lightricks-ltx-2]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[shiyu-coder-kronos]] [[smicallef-spiderfoot]]
 
 **所属领域**: [[web]]
 

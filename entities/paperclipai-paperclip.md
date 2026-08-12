@@ -1,20 +1,20 @@
 ---
 title: "paperclipai/paperclip"
 created: 2026-08-11
-updated: 2026-08-12
-last_active: 2026-08-12
+updated: 2026-08-13
+last_active: 2026-08-13
 type: tool
-tags: [typescript, ai-agent, cli, science]
-sources: [raw/trending/2026-08-12.json]
-confidence: medium
-trending_count_daily: 2
+tags: [typescript, ai-agent, cli, science, rising]
+sources: [raw/trending/2026-08-13.json]
+confidence: high
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 3
 first_trending: 2026-08-11
-last_trending: 2026-08-12
+last_trending: 2026-08-13
 peak_rank: 5
-total_stars: 77125
+total_stars: 77695
 language: "TypeScript"
 ---
 
@@ -23,19 +23,20 @@ language: "TypeScript"
 The open-source app everyone uses to manage agents at work
 
 - 语言: TypeScript
-- 上榜次数: 2 次
-- 连续上榜: 2 天
+- 上榜次数: 3 次
+- 连续上榜: 3 天
 - 最高排名: #5
 - 链接: [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
 
 ## 上榜历史
 
+  - 2026-08-13: #10, +573⭐
   - 2026-08-12: #11, +743⭐
   - 2026-08-11: #5, +167⭐
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[firecrawl-firecrawl]] [[zhaoxuya520-reverse-skill]] [[stablyai-orca]] [[msitarzewski-agency-agents]]
+[[zuodaotech-everyone-can-use-english]] [[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[lightricks-ltx-2]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

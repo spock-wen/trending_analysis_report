@@ -35,7 +35,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[amnezia-vpn-amnezia-client]] [[hkuds-deeptutor]] [[firecrawl-firecrawl]] [[geo-tp-esp32-bit-pirate]] [[msitarzewski-agency-agents]]
+[[gabime-spdlog]] [[hkuds-deeptutor]] [[geo-tp-esp32-bit-pirate]] [[msitarzewski-agency-agents]] [[amnezia-vpn-amnezia-client]]
 
 **所属领域**: [[web]]
 

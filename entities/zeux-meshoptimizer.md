@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[uber-adr]] [[amnezia-vpn-amnezia-client]] [[openinterpreter-openinterpreter]] [[geo-tp-esp32-bit-pirate]] [[anthropics-cwc-workshops]]
+[[openinterpreter-openinterpreter]] [[gabime-spdlog]] [[hugohe3-ppt-master]] [[geo-tp-esp32-bit-pirate]] [[ladybirdbrowser-ladybird]]
 
 **所属领域**: [[erp]]
 

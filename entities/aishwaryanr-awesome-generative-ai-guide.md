@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[trycua-cua]] [[ossu-computer-science]] [[addyosmani-agent-skills]] [[hkuds-deeptutor]]
+[[hugohe3-ppt-master]] [[trycua-cua]] [[lightricks-ltx-2]] [[hkuds-deeptutor]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

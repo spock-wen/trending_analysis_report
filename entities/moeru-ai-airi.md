@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[hkuds-deeptutor]] [[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[livekit-agents]]
+[[huggingface-transformers]] [[zuodaotech-everyone-can-use-english]] [[hugohe3-ppt-master]] [[livekit-agents]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

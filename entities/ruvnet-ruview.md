@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[uber-adr]] [[litu54-devops-interview-guide]] [[jdx-mise]] [[firecrawl-pdf-inspector]] [[semantica-agi-semantica]]
+[[nvidia-nemo-switchyard]] [[denoland-celld]] [[semantica-agi-semantica]] [[macro-inc-macro]] [[litu54-devops-interview-guide]]
 
 **所属领域**: [[devops]]
 

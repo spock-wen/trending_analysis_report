@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[steipete-codexbar]] [[jaywcjlove-awesome-mac]] [[msitarzewski-agency-agents]] [[anthropics-skills]] [[calesthio-openmontage]]
+[[hugohe3-ppt-master]] [[permissionlesstech-bitchat]] [[steipete-codexbar]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

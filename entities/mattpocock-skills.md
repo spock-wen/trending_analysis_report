@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[msitarzewski-agency-agents]] [[danielmiessler-lifeos]] [[anthropics-skills]] [[calesthio-openmontage]]
+[[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[lightricks-ltx-2]] [[nvm-sh-nvm]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

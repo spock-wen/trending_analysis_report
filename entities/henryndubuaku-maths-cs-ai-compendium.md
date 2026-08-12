@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[zhaoxuya520-reverse-skill]] [[stablyai-orca]]
+[[zuodaotech-everyone-can-use-english]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[primeintellect-ai-prime-agent]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

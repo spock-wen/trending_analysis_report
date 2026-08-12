@@ -35,5 +35,5 @@ bluetooth mesh chat, IRC vibes
 
 ## 相关项目
 
-[[palmier-io-palmier-pro]] [[jaywcjlove-awesome-mac]] [[steipete-codexbar]]
+[[steipete-codexbar]] [[jaywcjlove-awesome-mac]] [[palmier-io-palmier-pro]]
 

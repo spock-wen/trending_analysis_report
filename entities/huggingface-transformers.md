@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[donnemartin-system-design-primer]] [[jamiepine-voicebox]] [[hkuds-deeptutor]] [[microsoft-generative-ai-for-beginners]] [[livekit-agents]]
+[[livekit-agents]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[donnemartin-system-design-primer]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

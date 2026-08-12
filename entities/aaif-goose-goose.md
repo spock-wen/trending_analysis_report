@@ -36,7 +36,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[jdx-mise]] [[firecrawl-pdf-inspector]] [[msitarzewski-agency-agents]] [[anthropics-skills]]
+[[nvidia-nemo-switchyard]] [[hugohe3-ppt-master]] [[denoland-celld]] [[lightricks-ltx-2]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]]
 

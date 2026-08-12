@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[steipete-codexbar]] [[jaywcjlove-awesome-mac]] [[palmier-io-palmier-pro]] [[msitarzewski-agency-agents]] [[anthropics-skills]]
+[[hugohe3-ppt-master]] [[permissionlesstech-bitchat]] [[steipete-codexbar]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

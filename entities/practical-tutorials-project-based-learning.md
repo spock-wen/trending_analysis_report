@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[donnemartin-system-design-primer]] [[hkuds-deeptutor]] [[microsoft-generative-ai-for-beginners]] [[semantica-agi-semantica]] [[anthropics-skills]]
+[[lightricks-ltx-2]] [[donnemartin-system-design-primer]] [[microsoft-generative-ai-for-beginners]] [[shiyu-coder-kronos]] [[smicallef-spiderfoot]]
 
 **所属领域**: [[education]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[uber-adr]] [[amnezia-vpn-amnezia-client]] [[hkuds-deeptutor]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]]
+[[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[lightricks-ltx-2]] [[nvm-sh-nvm]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

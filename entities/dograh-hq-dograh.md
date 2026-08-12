@@ -34,7 +34,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[hkuds-deeptutor]] [[livekit-agents]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]]
+[[livekit-agents]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

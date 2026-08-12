@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[anthropics-skills]] [[calesthio-openmontage]] [[addyosmani-agent-skills]]
+[[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[affaan-m-ecc]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[uber-adr]] [[litu54-devops-interview-guide]] [[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[ruvnet-ruview]]
+[[zuodaotech-everyone-can-use-english]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[semantica-agi-semantica]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

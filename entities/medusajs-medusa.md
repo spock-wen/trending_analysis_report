@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[uber-adr]] [[openinterpreter-openinterpreter]] [[firecrawl-firecrawl]] [[anthropics-cwc-workshops]] [[stablyai-orca]]
+[[openinterpreter-openinterpreter]] [[zuodaotech-everyone-can-use-english]] [[hugohe3-ppt-master]] [[primeintellect-ai-prime-agent]] [[paperclipai-paperclip]]
 
 **所属领域**: [[erp]]
 

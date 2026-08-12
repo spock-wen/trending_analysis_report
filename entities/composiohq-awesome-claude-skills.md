@@ -37,7 +37,7 @@ A curated list of awesome Claude Skills, resources, and tools for customizing Cl
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[anthropics-skills]] [[calesthio-openmontage]]
+[[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[shiyu-coder-kronos]] [[smicallef-spiderfoot]]
 
 **所属领域**: [[ai-agent]]
 

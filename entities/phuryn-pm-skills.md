@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[danielmiessler-lifeos]] [[anthropics-skills]] [[calesthio-openmontage]] [[addyosmani-agent-skills]]
+[[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[lightricks-ltx-2]] [[nvm-sh-nvm]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

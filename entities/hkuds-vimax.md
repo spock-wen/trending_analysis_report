@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[trycua-cua]] [[graphify-labs-graphify]] [[comfy-org-comfyui]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]]
+[[hugohe3-ppt-master]] [[trycua-cua]] [[infiniflow-ragflow]] [[lightricks-ltx-2]] [[comfy-org-comfyui]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

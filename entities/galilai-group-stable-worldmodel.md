@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[mvanhorn-last30days-skill]] [[trycua-cua]] [[graphify-labs-graphify]] [[comfy-org-comfyui]]
+[[hugohe3-ppt-master]] [[trycua-cua]] [[infiniflow-ragflow]] [[lightricks-ltx-2]] [[comfy-org-comfyui]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

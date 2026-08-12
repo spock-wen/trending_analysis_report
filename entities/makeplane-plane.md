@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[stablyai-orca]] [[msitarzewski-agency-agents]] [[danielmiessler-lifeos]] [[paperclipai-paperclip]]
+[[zuodaotech-everyone-can-use-english]] [[danielmiessler-lifeos]] [[nvm-sh-nvm]] [[msitarzewski-agency-agents]] [[primeintellect-ai-prime-agent]]
 
 **所属领域**: [[cli]]
 

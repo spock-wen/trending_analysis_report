@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[trycua-cua]] [[graphify-labs-graphify]] [[comfy-org-comfyui]] [[hkuds-deeptutor]] [[semantica-agi-semantica]]
+[[trycua-cua]] [[infiniflow-ragflow]] [[lightricks-ltx-2]] [[comfy-org-comfyui]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[image-gen]]
 

@@ -37,5 +37,5 @@ IP addresses break, dial keys instead. Modular networking stack in Rust.
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[denoland-celld]] [[jdx-mise]] [[ruvnet-ruview]]
+[[nvidia-nemo-switchyard]] [[denoland-celld]] [[ruvnet-ruview]] [[macro-inc-macro]]
 

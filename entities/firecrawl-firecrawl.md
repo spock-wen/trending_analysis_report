@@ -36,7 +36,7 @@ The context API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[stablyai-orca]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[ladybirdbrowser-ladybird]]
+[[zuodaotech-everyone-can-use-english]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[primeintellect-ai-prime-agent]] [[paperclipai-paperclip]]
 
 **所属领域**: [[web]]
 

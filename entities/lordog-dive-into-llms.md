@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[anthropics-claude-cookbooks]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[msitarzewski-agency-agents]]
+[[anthropics-claude-cookbooks]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]]
 

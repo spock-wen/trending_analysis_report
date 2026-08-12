@@ -34,7 +34,7 @@ Hundreds of models & providers. One command to find what runs on your hardware.
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[calesthio-openmontage]] [[jdx-mise]] [[firecrawl-pdf-inspector]] [[msitarzewski-agency-agents]]
+[[nvidia-nemo-switchyard]] [[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[denoland-celld]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

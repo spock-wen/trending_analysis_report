@@ -38,5 +38,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[denoland-celld]] [[jdx-mise]] [[ruvnet-ruview]]
+[[nvidia-nemo-switchyard]] [[denoland-celld]] [[ruvnet-ruview]] [[macro-inc-macro]]
 

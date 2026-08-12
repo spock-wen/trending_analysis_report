@@ -38,7 +38,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[jenkinsci-jenkins]] [[msitarzewski-agency-agents]] [[apache-cassandra]] [[anthropics-skills]] [[calesthio-openmontage]]
+[[apache-cassandra]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[google-guava]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

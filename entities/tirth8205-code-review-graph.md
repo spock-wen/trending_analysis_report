@@ -38,7 +38,7 @@ Local-first code intelligence graph for MCP and CLI. Builds a persistent map of 
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[danielmiessler-lifeos]] [[anthropics-skills]]
+[[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[lightricks-ltx-2]] [[nvm-sh-nvm]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

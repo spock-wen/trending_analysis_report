@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[opengeos-geolibre]] [[trycua-cua]] [[graphify-labs-graphify]] [[comfy-org-comfyui]] [[hkuds-deeptutor]]
+[[hugohe3-ppt-master]] [[alibaba-open-code-review]] [[trycua-cua]] [[infiniflow-ragflow]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

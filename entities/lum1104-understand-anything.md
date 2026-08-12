@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[donnemartin-system-design-primer]] [[microsoft-generative-ai-for-beginners]] [[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[practical-tutorials-project-based-learning]]
+[[zuodaotech-everyone-can-use-english]] [[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[lightricks-ltx-2]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

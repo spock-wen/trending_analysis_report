@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[trycua-cua]] [[ossu-computer-science]] [[addyosmani-agent-skills]] [[hkuds-deeptutor]] [[firecrawl-firecrawl]]
+[[hugohe3-ppt-master]] [[trycua-cua]] [[lightricks-ltx-2]] [[hkuds-deeptutor]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

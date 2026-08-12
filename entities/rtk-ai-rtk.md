@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[calesthio-openmontage]] [[jdx-mise]] [[firecrawl-pdf-inspector]] [[msitarzewski-agency-agents]]
+[[nvidia-nemo-switchyard]] [[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[denoland-celld]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

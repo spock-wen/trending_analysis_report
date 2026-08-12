@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[uber-adr]] [[openinterpreter-openinterpreter]] [[anthropics-cwc-workshops]] [[msitarzewski-agency-agents]]
+[[openinterpreter-openinterpreter]] [[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[lightricks-ltx-2]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

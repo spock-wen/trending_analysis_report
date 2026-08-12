@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[firecrawl-firecrawl]] [[stablyai-orca]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]]
+[[zuodaotech-everyone-can-use-english]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[primeintellect-ai-prime-agent]] [[paperclipai-paperclip]]
 
 **所属领域**: [[web]]
 

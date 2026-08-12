@@ -34,5 +34,5 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[semantica-agi-semantica]] [[hkuds-deeptutor]] [[anthropics-skills]]
+[[lightricks-ltx-2]] [[shiyu-coder-kronos]] [[smicallef-spiderfoot]] [[nanmicoder-mediacrawler]]
 

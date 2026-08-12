@@ -34,7 +34,7 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[stablyai-orca]] [[msitarzewski-agency-agents]] [[anthropics-skills]]
+[[zuodaotech-everyone-can-use-english]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[primeintellect-ai-prime-agent]]
 
 **所属领域**: [[ai-agent]]
 

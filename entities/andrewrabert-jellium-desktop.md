@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[jdx-mise]] [[firecrawl-pdf-inspector]] [[msitarzewski-agency-agents]] [[ruvnet-ruview]] [[danielmiessler-lifeos]]
+[[nvidia-nemo-switchyard]] [[danielmiessler-lifeos]] [[denoland-celld]] [[nvm-sh-nvm]] [[ruvnet-ruview]]
 
 **所属领域**: [[cli]]
 

@@ -35,7 +35,7 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[stablyai-orca]] [[msitarzewski-agency-agents]] [[danielmiessler-lifeos]]
+[[zuodaotech-everyone-can-use-english]] [[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[lightricks-ltx-2]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

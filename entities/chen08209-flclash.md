@@ -35,7 +35,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[flutter-flutter]] [[msitarzewski-agency-agents]] [[danielmiessler-lifeos]] [[paperclipai-paperclip]] [[nvm-sh-nvm]]
+[[danielmiessler-lifeos]] [[flutter-flutter]] [[nvm-sh-nvm]] [[msitarzewski-agency-agents]] [[localsend-localsend]]
 
 **所属领域**: [[cli]]
 

@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[donnemartin-system-design-primer]] [[anthropics-claude-cookbooks]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[practical-tutorials-project-based-learning]]
+[[anthropics-claude-cookbooks]] [[lyogavin-airllm]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[donnemartin-system-design-primer]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

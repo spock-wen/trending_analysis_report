@@ -35,7 +35,7 @@ A utility-first CSS framework for rapid UI development.
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[stablyai-orca]] [[msitarzewski-agency-agents]]
+[[zuodaotech-everyone-can-use-english]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

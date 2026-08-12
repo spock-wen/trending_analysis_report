@@ -38,7 +38,7 @@ An advanced guide to learn English which might benefit you a lot 🎉 . 人生�
 
 ## 相关项目
 
-[[practical-tutorials-project-based-learning]] [[donnemartin-system-design-primer]] [[microsoft-generative-ai-for-beginners]] [[huggingface-transformers]]
+[[microsoft-generative-ai-for-beginners]] [[practical-tutorials-project-based-learning]] [[donnemartin-system-design-primer]] [[huggingface-transformers]]
 
 **所属领域**: [[education]]
 

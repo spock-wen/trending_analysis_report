@@ -36,7 +36,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[uber-adr]] [[trycua-cua]] [[amnezia-vpn-amnezia-client]] [[graphify-labs-graphify]] [[webpack-webpack]]
+[[nvidia-nemo-switchyard]] [[denoland-celld]] [[trycua-cua]] [[infiniflow-ragflow]] [[amnezia-vpn-amnezia-client]]
 
 **所属领域**: [[security]] [[image-gen]]
 

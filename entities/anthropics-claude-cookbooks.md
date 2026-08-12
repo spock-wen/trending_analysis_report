@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[msitarzewski-agency-agents]] [[anthropics-skills]]
+[[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

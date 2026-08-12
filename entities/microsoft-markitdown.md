@@ -38,5 +38,5 @@ Python tool for converting files and office documents to Markdown.
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[semantica-agi-semantica]] [[hkuds-deeptutor]] [[anthropics-skills]]
+[[lightricks-ltx-2]] [[shiyu-coder-kronos]] [[smicallef-spiderfoot]] [[nanmicoder-mediacrawler]]
 

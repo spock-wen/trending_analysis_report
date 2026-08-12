@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[github-gh-stack]] [[esengine-deepseek-reasonix]] [[pranshuparmar-witr]] [[msitarzewski-agency-agents]] [[chenyme-grok2api]]
+[[danielmiessler-lifeos]] [[infiniflow-ragflow]] [[chenyme-grok2api]] [[nvm-sh-nvm]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[cli]]
 

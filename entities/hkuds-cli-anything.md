@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[firecrawl-firecrawl]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[danielmiessler-lifeos]]
+[[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[lightricks-ltx-2]] [[hkuds-deeptutor]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

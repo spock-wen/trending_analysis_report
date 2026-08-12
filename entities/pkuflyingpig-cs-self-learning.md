@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[donnemartin-system-design-primer]] [[trycua-cua]] [[ossu-computer-science]] [[hkuds-deeptutor]] [[firecrawl-firecrawl]]
+[[huggingface-transformers]] [[trycua-cua]] [[hkuds-deeptutor]] [[hasaneyldrm-exercises-dataset]] [[donnemartin-system-design-primer]]
 
 **所属领域**: [[web]] [[education]]
 

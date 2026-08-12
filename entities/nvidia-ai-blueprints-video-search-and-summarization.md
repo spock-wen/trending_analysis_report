@@ -35,7 +35,7 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[opengeos-geolibre]] [[hkuds-deeptutor]] [[alibaba-open-code-review]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]]
+[[hugohe3-ppt-master]] [[alibaba-open-code-review]] [[lightricks-ltx-2]] [[calesthio-openmontage]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

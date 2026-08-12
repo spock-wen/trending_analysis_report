@@ -34,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[uber-adr]] [[amnezia-vpn-amnezia-client]] [[affaan-m-ecc]] [[dotnet-aspnetcore]] [[zhaoxuya520-reverse-skill]]
+[[k1tbyte-wand-enhancer]] [[jellyfin-jellyfin]] [[par274-sharpemu]] [[dotnet-aspnetcore]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

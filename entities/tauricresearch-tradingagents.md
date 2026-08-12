@@ -36,7 +36,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[hkuds-deeptutor]] [[zhaoxuya520-reverse-skill]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]]
+[[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[mvanhorn-last30days-skill]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

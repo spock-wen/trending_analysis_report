@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[uber-adr]] [[litu54-devops-interview-guide]] [[hkuds-deeptutor]] [[ruvnet-ruview]] [[msitarzewski-agency-agents]]
+[[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[lightricks-ltx-2]] [[nvm-sh-nvm]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

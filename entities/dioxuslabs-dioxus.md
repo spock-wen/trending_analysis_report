@@ -35,7 +35,7 @@ Fullstack app framework for web, desktop, and mobile.
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[jdx-mise]] [[firecrawl-firecrawl]] [[firecrawl-pdf-inspector]] [[msitarzewski-agency-agents]]
+[[nvidia-nemo-switchyard]] [[denoland-celld]] [[hkuds-deeptutor]] [[ruvnet-ruview]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]]
 

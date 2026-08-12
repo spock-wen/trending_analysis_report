@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[trycua-cua]] [[nomadamas-k-skill]] [[graphify-labs-graphify]] [[comfy-org-comfyui]] [[affaan-m-ecc]]
+[[hugohe3-ppt-master]] [[trycua-cua]] [[infiniflow-ragflow]] [[lightricks-ltx-2]] [[comfy-org-comfyui]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

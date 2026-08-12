@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[donnemartin-system-design-primer]] [[hkuds-deeptutor]] [[microsoft-generative-ai-for-beginners]] [[practical-tutorials-project-based-learning]] [[msitarzewski-agency-agents]]
+[[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[donnemartin-system-design-primer]] [[msitarzewski-agency-agents]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

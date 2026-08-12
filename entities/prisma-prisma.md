@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[opengeos-geolibre]] [[trycua-cua]] [[graphify-labs-graphify]] [[webpack-webpack]] [[comfy-org-comfyui]]
+[[zuodaotech-everyone-can-use-english]] [[hugohe3-ppt-master]] [[alibaba-open-code-review]] [[trycua-cua]] [[infiniflow-ragflow]]
 
 **所属领域**: [[data]] [[image-gen]]
 

@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[opengeos-geolibre]] [[calesthio-openmontage]] [[alibaba-open-code-review]] [[msitarzewski-agency-agents]] [[apache-cassandra]]
+[[hugohe3-ppt-master]] [[alibaba-open-code-review]] [[lightricks-ltx-2]] [[calesthio-openmontage]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

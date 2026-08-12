@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[donnemartin-system-design-primer]] [[hkuds-deeptutor]] [[microsoft-generative-ai-for-beginners]] [[firecrawl-firecrawl]] [[practical-tutorials-project-based-learning]]
+[[huggingface-transformers]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[hkuds-deeptutor]] [[donnemartin-system-design-primer]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

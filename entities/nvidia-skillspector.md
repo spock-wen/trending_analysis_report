@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[uber-adr]] [[amnezia-vpn-amnezia-client]] [[hkuds-deeptutor]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]]
+[[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[uber-adr]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

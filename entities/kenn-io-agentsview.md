@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[opengeos-geolibre]] [[github-gh-stack]] [[esengine-deepseek-reasonix]] [[pranshuparmar-witr]] [[alibaba-open-code-review]]
+[[hugohe3-ppt-master]] [[alibaba-open-code-review]] [[infiniflow-ragflow]] [[chenyme-grok2api]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

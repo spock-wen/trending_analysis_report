@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[uber-adr]] [[amnezia-vpn-amnezia-client]] [[raphire-win11debloat]] [[affaan-m-ecc]]
+[[raphire-win11debloat]] [[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[lightricks-ltx-2]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

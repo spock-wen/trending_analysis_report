@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[hkuds-deeptutor]] [[livekit-agents]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]]
+[[livekit-agents]] [[danielmiessler-lifeos]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[nvm-sh-nvm]]
 
 **所属领域**: [[cli]] [[audio]]
 

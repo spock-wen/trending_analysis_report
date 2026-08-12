@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[trycua-cua]] [[hkuds-deeptutor]] [[firecrawl-firecrawl]] [[hasaneyldrm-exercises-dataset]] [[msitarzewski-agency-agents]]
+[[trycua-cua]] [[hkuds-deeptutor]] [[hasaneyldrm-exercises-dataset]] [[msitarzewski-agency-agents]] [[pkuflyingpig-cs-self-learning]]
 
 **所属领域**: [[web]]
 

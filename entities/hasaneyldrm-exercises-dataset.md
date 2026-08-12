@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[opengeos-geolibre]] [[trycua-cua]] [[ossu-computer-science]] [[addyosmani-agent-skills]] [[hkuds-deeptutor]]
+[[hugohe3-ppt-master]] [[alibaba-open-code-review]] [[trycua-cua]] [[lightricks-ltx-2]] [[hkuds-deeptutor]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[opengeos-geolibre]] [[uber-adr]] [[amnezia-vpn-amnezia-client]] [[calesthio-openmontage]] [[hkuds-deeptutor]]
+[[nvidia-nemo-switchyard]] [[hugohe3-ppt-master]] [[alibaba-open-code-review]] [[denoland-celld]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

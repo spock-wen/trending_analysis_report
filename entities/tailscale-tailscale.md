@@ -34,7 +34,7 @@ The easiest, most secure way to use WireGuard and 2FA.
 
 ## 相关项目
 
-[[github-gh-stack]] [[esengine-deepseek-reasonix]] [[pranshuparmar-witr]] [[msitarzewski-agency-agents]] [[chenyme-grok2api]]
+[[hugohe3-ppt-master]] [[infiniflow-ragflow]] [[chenyme-grok2api]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[github-gh-stack]] [[esengine-deepseek-reasonix]] [[msitarzewski-agency-agents]] [[chenyme-grok2api]] [[danielmiessler-lifeos]]
+[[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[infiniflow-ragflow]] [[lightricks-ltx-2]] [[chenyme-grok2api]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

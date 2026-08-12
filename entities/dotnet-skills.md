@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[dotnet-aspnetcore]] [[jellyfin-jellyfin]] [[msitarzewski-agency-agents]] [[par274-sharpemu]] [[anthropics-skills]]
+[[k1tbyte-wand-enhancer]] [[jellyfin-jellyfin]] [[par274-sharpemu]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]]
 

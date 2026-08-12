@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[mattpocock-skills]] [[msitarzewski-agency-agents]] [[danielmiessler-lifeos]] [[anthropics-skills]]
+[[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[lightricks-ltx-2]] [[nvm-sh-nvm]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

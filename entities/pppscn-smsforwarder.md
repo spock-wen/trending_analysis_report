@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[andreknieriem-headunit-revived]] [[bannedbook-fanqiang]] [[hkuds-deeptutor]] [[firecrawl-firecrawl]] [[yairm210-unciv]]
+[[embabel-embabel-agent]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[andreknieriem-headunit-revived]]
 
 **所属领域**: [[web]]
 

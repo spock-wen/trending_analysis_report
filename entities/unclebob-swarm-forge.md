@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[anthropics-skills]] [[calesthio-openmontage]] [[addyosmani-agent-skills]] [[penpot-penpot]]
+[[hugohe3-ppt-master]] [[penpot-penpot]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[uber-adr]] [[amnezia-vpn-amnezia-client]] [[hkuds-deeptutor]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]]
+[[lightricks-ltx-2]] [[affaan-m-ecc]] [[shiyu-coder-kronos]] [[smicallef-spiderfoot]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[security]]
 

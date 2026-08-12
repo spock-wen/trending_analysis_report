@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[opengeos-geolibre]] [[graphify-labs-graphify]] [[comfy-org-comfyui]] [[ossu-computer-science]] [[addyosmani-agent-skills]]
+[[hugohe3-ppt-master]] [[alibaba-open-code-review]] [[infiniflow-ragflow]] [[lightricks-ltx-2]] [[hkuds-deeptutor]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

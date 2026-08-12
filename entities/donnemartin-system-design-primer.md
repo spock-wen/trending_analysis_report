@@ -35,7 +35,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[microsoft-generative-ai-for-beginners]] [[practical-tutorials-project-based-learning]] [[semantica-agi-semantica]] [[anthropics-skills]]
+[[lightricks-ltx-2]] [[microsoft-generative-ai-for-beginners]] [[shiyu-coder-kronos]] [[smicallef-spiderfoot]] [[practical-tutorials-project-based-learning]]
 
 **所属领域**: [[education]]
 

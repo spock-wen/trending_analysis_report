@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[mvanhorn-last30days-skill]] [[uber-adr]] [[nomadamas-k-skill]] [[amnezia-vpn-amnezia-client]]
+[[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[mvanhorn-last30days-skill]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

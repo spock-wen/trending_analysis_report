@@ -35,5 +35,5 @@ NVR with realtime local object detection for IP cameras
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[stablyai-orca]] [[primeintellect-ai-prime-agent]] [[firecrawl-firecrawl]]
+[[zuodaotech-everyone-can-use-english]] [[stablyai-orca]] [[paperclipai-paperclip]] [[primeintellect-ai-prime-agent]]
 

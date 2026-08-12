@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[uber-adr]] [[github-gh-stack]] [[amnezia-vpn-amnezia-client]] [[esengine-deepseek-reasonix]] [[pranshuparmar-witr]]
+[[hugohe3-ppt-master]] [[infiniflow-ragflow]] [[chenyme-grok2api]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

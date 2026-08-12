@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[amnezia-vpn-amnezia-client]] [[hkuds-deeptutor]] [[firecrawl-firecrawl]] [[msitarzewski-agency-agents]] [[danielmiessler-lifeos]]
+[[gabime-spdlog]] [[danielmiessler-lifeos]] [[hkuds-deeptutor]] [[nvm-sh-nvm]] [[ladybirdbrowser-ladybird]]
 
 **所属领域**: [[web]] [[cli]]
 

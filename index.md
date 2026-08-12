@@ -1,13 +1,13 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-08-12 | 总页面：465
+> 最后更新：2026-08-13 | 总页面：473
 
 ## Entities
 
 - [[0xnyk-council-of-high-intelligence|council-of-high-intelligence"]] — 18 AI personas deliberate your hardest decisions across mult...
 - [[1jehuang-jcode|jcode"]] — The most RAM efficient harness
-- [[3b1b-manim|manim"]] — Animation engine for explanatory math videos 🆕
+- [[3b1b-manim|manim"]] — Animation engine for explanatory math videos
 - [[666ghj-mirofish|MiroFish"]] — A Simple and Universal Swarm Intelligence Engine, Predicting...
 - [[aaif-goose-goose|goose"]] — an open source, extensible AI agent that goes beyond code su... 🔥
 - [[abseil-abseil-cpp|abseil-cpp"]] — Abseil Common Libraries (C++) 🆕
@@ -75,10 +75,12 @@
 - [[bytebytegohq-system-design-101|system-design-101"]] — Explain complex systems using visuals and simple terms. Help...
 - [[bytedance-deer-flow|deer-flow"]] — An open-source long-horizon SuperAgent harness that research...
 - [[bytedance-ui-tars-desktop|UI-TARS-desktop"]] — The Open-Source Multimodal AI Agent Stack: Connecting Cuttin...
+- [[cactus-compute-needle|needle"]] — 14MB foundation model for tiny devices; phones, wearables, s... 🆕
 - [[calesthio-openmontage|OpenMontage"]] — World's first open-source, agentic video production system. ...
 - [[can1357-oh-my-pi|oh-my-pi"]] — ⌥ AI Coding agent for the terminal — hash-anchored edits, op...
 - [[canner-wrenai|WrenAI"]] — GenBI (Generative BI) for AI agents, an open-source, governe...
 - [[catchorg-catch2|Catch2"]] — A modern, C++-native, test framework for unit-tests, TDD and... 🆕
+- [[cathrynlavery-diagram-design|diagram-design"]] — 29 editorial diagram types for Claude Code. Self-contained H... 🆕
 - [[chachamaru127-claude-code-harness|claude-code-harness"]] — Claude Code Dedicated Development Harness - Achieving High-Q...
 - [[chatwoot-chatwoot|chatwoot"]] — Open-source live-chat, email support, omni-channel desk. An ...
 - [[chen08209-flclash|FlClash"]] — A multi-platform proxy client based on ClashMeta,simple and ...
@@ -135,6 +137,7 @@
 - [[earthtojake-text-to-cad|text-to-cad"]] — A collection of agent skills for CAD, robotics and hardware ...
 - [[elastic-elasticsearch|elasticsearch"]] — Free and Open Source, Distributed, RESTful Search Engine
 - [[elder-plinius-g0dm0d3|G0DM0D3"]] — LIBERATED AI CHAT
+- [[embabel-embabel-agent|embabel-agent"]] — Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbə... 🆕
 - [[emmabostian-developer-portfolios|developer-portfolios"]] — A list of developer portfolios for your inspiration
 - [[esengine-deepseek-reasonix|DeepSeek-Reasonix"]] — DeepSeek-native AI coding agent for your terminal. Engineere... 🔥
 - [[every-app-open-seo|open-seo"]] — Open source alternative to Semrush and Ahrefs 🆕
@@ -190,8 +193,8 @@
 - [[home-assistant-core|core"]] — 🏡 Open source home automation that puts local control and pr... 🆕
 - [[huangruiteng-loopx|loopx"]] — Lightweight loop engineering state kernel for long-running A... 🆕
 - [[huggingface-speech-to-speech|speech-to-speech"]] — Build local voice agents with open-source models
-- [[huggingface-transformers|transformers"]] — 🤗 Transformers: the model-definition framework for state-of-... 🆕
-- [[hugohe3-ppt-master|ppt-master"]] — AI generates a real, editable PowerPoint from any document —...
+- [[huggingface-transformers|transformers"]] — 🤗 Transformers: the model-definition framework for state-of-...
+- [[hugohe3-ppt-master|ppt-master"]] — AI turns documents or topics into real, native PowerPoint de...
 - [[humanlayer-12-factor-agents|12-factor-agents"]] — What are the principles we can use to build LLM-powered soft... 🆕
 - [[hunxbyts-ghosttrack|GhostTrack"]] — Useful tool to track location or mobile number
 - [[huxingyi-autoremesher|autoremesher"]] — Automatic quad remeshing tool 🆕
@@ -202,6 +205,7 @@
 - [[imbad0202-academic-research-skills|academic-research-skills"]] — Academic Research Skills for Claude Code: research → write →... 🔥
 - [[immich-app-immich|immich"]] — High performance self-hosted photo and video management solu... 🆕
 - [[imthenachoman-how-to-secure-a-linux-server|How-To-Secure-A-Linux-Server"]] — An evolving how-to guide for securing a Linux server.
+- [[infiniflow-ragflow|ragflow"]] — RAGFlow is a leading open-source Retrieval-Augmented Generat... 🆕
 - [[influxdata-telegraf|telegraf"]] — Agent for collecting, processing, aggregating, and writing m... 🆕
 - [[interviewstreet-hiring-agent|hiring-agent"]] — AI agent to evaluate and score resumes.
 - [[introduction-to-autonomous-robots-introduction-to-autonomous-robots|Introduction-to-Autonomous-Robots"]] — Introduction to Autonomous Robots 🆕
@@ -211,7 +215,7 @@
 - [[iv-org-invidious|invidious"]] — Invidious is an alternative front-end to YouTube 🔥
 - [[jamiepine-voicebox|voicebox"]] — The open-source AI voice studio. Clone, dictate, create.
 - [[jamwithai-production-agentic-rag-course|production-agentic-rag-course"]] — No description
-- [[jaywcjlove-awesome-mac|awesome-mac"]] —  This project is dedicated to collecting high-quality macOS... 🆕
+- [[jaywcjlove-awesome-mac|awesome-mac"]] —  This project is dedicated to collecting high-quality macOS...
 - [[jbeder-yaml-cpp|yaml-cpp"]] — A YAML parser and emitter in C++
 - [[jcodesmore-ai-website-cloner-template|ai-website-cloner-template"]] — Clone any website with one command using AI coding agents 🔥
 - [[jdx-mise|mise"]] — dev tools, env vars, task runner
@@ -242,17 +246,19 @@
 - [[lfnovo-open-notebook|open-notebook"]] — An Open Source implementation of Notebook LM with more flexi... 🔥
 - [[libretranslate-libretranslate|LibreTranslate"]] — Free and Open Source Machine Translation API. Self-hosted, o...
 - [[light-heart-labs-dreamserver|DreamServer"]] — Local AI anywhere, for everyone — LLM inference, chat UI, vo...
-- [[lightricks-ltx-2|LTX-2"]] — Official Python inference and LoRA trainer package for the L... 🆕
+- [[lightricks-ltx-2|LTX-2"]] — Official Python inference and LoRA trainer package for the L...
 - [[likec4-likec4|likec4"]] — Visualize, collaborate, and evolve the software architecture... 🔥
 - [[litu54-devops-interview-guide|DevOps-Interview-Guide"]] — DevOps Interview Guide
 - [[livekit-agents|agents"]] — A framework for building realtime voice AI agents 🤖🎙️📹 🆕
 - [[lmcache-lmcache|LMCache"]] — LMCache: Supercharge Your LLM with the Fastest KV Cache Laye... 🆕
 - [[lobehub-lobehub|lobehub"]] — 🤯 LobeHub is your Chief Agent Operator, organizing your agen...
+- [[localsend-localsend|localsend"]] — An open-source cross-platform alternative to AirDrop 🆕
 - [[logto-io-logto|logto"]] — 🧑‍🚀 Authentication and authorization infrastructure for SaaS...
 - [[lordog-dive-into-llms|dive-into-llms"]] — 《动手学大模型Dive into LLMs》系列编程实践教程 🆕
 - [[lum1104-understand-anything|Understand-Anything"]] — Graphs that teach > graphs that impress. Turn any code into ... 🔥
 - [[luongnv89-claude-howto|claude-howto"]] — A visual, example-driven guide to Claude Code — from basic c...
 - [[lyogavin-airllm|airllm"]] — AirLLM 70B inference with single 4GB GPU 🔥
+- [[macro-inc-macro|macro"]] — Macro is a unified workspace for teams: email, chat, docs, t... 🆕
 - [[maderix-ane|ANE"]] — Training neural networks on Apple Neural Engine via reverse-...
 - [[madslorentzen-ai-job-search|ai-job-search"]] — AI-powered job application framework built on Claude Code. F...
 - [[makeplane-plane|plane"]] — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternativ... 🆕
@@ -301,9 +307,10 @@
 - [[nuxt-nuxt|nuxt"]] — the full-stack Vue framework
 - [[nvidia-ai-blueprints-video-search-and-summarization|video-search-and-summarization"]] — Suite of reference architectures for building GPU-accelerate... 🆕
 - [[nvidia-cosmos|cosmos"]] — NVIDIA Cosmos is an open platform of world models, datasets,... 🆕
+- [[nvidia-nemo-switchyard|Switchyard"]] — No description 🆕
 - [[nvidia-skillspector|SkillSpector"]] — Security scanner for AI agent skills. Detect vulnerabilities... 🔥
 - [[nvlabs-sana|Sana"]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
-- [[nvm-sh-nvm|nvm"]] — Node Version Manager - POSIX-compliant bash script to manage... 🆕
+- [[nvm-sh-nvm|nvm"]] — Node Version Manager - POSIX-compliant bash script to manage...
 - [[oblien-openship|openship"]] — Self-hosted deployment platform 🔥
 - [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo... 🔥
 - [[ocornut-imgui|imgui"]] — Dear ImGui: Bloat-free Graphical User interface for C++ with...
@@ -333,7 +340,7 @@
 - [[paddlepaddle-paddleocr|PaddleOCR"]] — Turn any PDF or image document into structured data for your... 🆕
 - [[palmier-io-palmier-pro|palmier-pro"]] — macOS video editor built for AI
 - [[panniantong-agent-reach|Agent-Reach"]] — Give your AI agent eyes to see the entire internet. Read & s... 🆕
-- [[paperclipai-paperclip|paperclip"]] — The open-source app everyone uses to manage agents at work 🆕
+- [[paperclipai-paperclip|paperclip"]] — The open-source app everyone uses to manage agents at work 🔥
 - [[paperless-ngx-paperless-ngx|paperless-ngx"]] — A community-supported supercharged document management syste...
 - [[paperswithbacktest-awesome-systematic-trading|awesome-systematic-trading"]] — A curated list of awesome libraries, packages, strategies, b... 🔥
 - [[par274-sharpemu|sharpemu"]] — An experimental PlayStation 5 emulator project.
@@ -347,7 +354,7 @@
 - [[plausible-analytics|analytics"]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
 - [[posthog-posthog|posthog"]] — 🦔 PostHog is the leading platform for building self-driving ... 🔥
 - [[pppscn-smsforwarder|SmsForwarder"]] — 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内...
-- [[practical-tutorials-project-based-learning|project-based-learning"]] — Curated list of project-based tutorials 🆕
+- [[practical-tutorials-project-based-learning|project-based-learning"]] — Curated list of project-based tutorials
 - [[pranshuparmar-witr|witr"]] — Why is this running? Trace any process, port, container, or ...
 - [[prefecthq-fastmcp|fastmcp"]] — 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [[prefecthq-prefect|prefect"]] — Prefect is a workflow orchestration framework for building r...
@@ -379,7 +386,7 @@
 - [[safishamsi-graphify|graphify"]] — AI coding assistant skill (Claude Code, Codex, OpenCode, Cur...
 - [[santifer-career-ops|career-ops"]] — AI-powered job search system built on Claude Code. 14 skill ...
 - [[schollz-croc|croc"]] — Easily and securely send things from one computer to another... 🆕
-- [[semantica-agi-semantica|semantica"]] — Graph-Native Infrastructure for Context and Accountable AI S... 🆕
+- [[semantica-agi-semantica|semantica"]] — Graph-Native Infrastructure for Context and Accountable AI S... 🔥
 - [[shanraisshan-claude-code-best-practice|claude-code-best-practice"]] — from vibe coding to agentic engineering - practice makes cla...
 - [[shiyu-coder-kronos|Kronos"]] — Kronos: A Foundation Model for the Language of Financial Mar...
 - [[shubhamsaboo-awesome-llm-apps|awesome-llm-apps"]] — 100+ AI Agent & RAG apps you can actually run — clone, custo... 🔥
@@ -390,7 +397,7 @@
 - [[smicallef-spiderfoot|spiderfoot"]] — SpiderFoot automates OSINT for threat intelligence and mappi...
 - [[soxoj-maigret|maigret"]] — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ s...
 - [[st-tech-ppf-contact-solver|ppf-contact-solver"]] — A contact solver for physics-based simulations involving 👚 s...
-- [[stablyai-orca|orca"]] — Orca is the ADE for working with a fleet of parallel agents....
+- [[stablyai-orca|orca"]] — Orca is the ADE for working with a fleet of parallel agents.... 🆕
 - [[stefan-jansen-machine-learning-for-trading|machine-learning-for-trading"]] — Code for Machine Learning for Algorithmic Trading, 2nd editi... 🆕
 - [[steipete-codexbar|CodexBar"]] — Show usage stats for OpenAI Codex and Claude Code, without h... 🔥
 - [[stirling-tools-stirling-pdf|Stirling-PDF"]] — - 语言: TypeScript
@@ -451,6 +458,7 @@
 - [[zai-org-glm-5|GLM-5"]] — GLM-5: From Vibe Coding to Agentic Engineering 🆕
 - [[zeux-meshoptimizer|meshoptimizer"]] — Mesh optimization library that makes meshes smaller and fast... 🆕
 - [[zhaoxuya520-reverse-skill|reverse-skill"]] — Reverse Engineering / Authorized Penetration Testing / Secur... 🔥
+- [[zuodaotech-everyone-can-use-english|everyone-can-use-english"]] — 人人都能用英语 🆕
 
 ## Concepts
 

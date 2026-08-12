@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[uber-adr]] [[litu54-devops-interview-guide]] [[hkuds-deeptutor]] [[firecrawl-firecrawl]] [[ruvnet-ruview]]
+[[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[hkuds-deeptutor]] [[semantica-agi-semantica]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

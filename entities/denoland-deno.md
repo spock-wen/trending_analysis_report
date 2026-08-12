@@ -34,5 +34,5 @@ A modern runtime for JavaScript and TypeScript.
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[denoland-celld]] [[jdx-mise]] [[ruvnet-ruview]]
+[[nvidia-nemo-switchyard]] [[denoland-celld]] [[ruvnet-ruview]] [[macro-inc-macro]]
 

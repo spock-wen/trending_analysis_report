@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[firecrawl-firecrawl]] [[zhaoxuya520-reverse-skill]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]]
+[[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

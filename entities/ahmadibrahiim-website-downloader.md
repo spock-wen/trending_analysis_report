@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[trycua-cua]] [[graphify-labs-graphify]] [[comfy-org-comfyui]] [[ossu-computer-science]] [[hkuds-deeptutor]]
+[[trycua-cua]] [[infiniflow-ragflow]] [[hkuds-deeptutor]] [[hasaneyldrm-exercises-dataset]] [[comfy-org-comfyui]]
 
 **所属领域**: [[web]] [[image-gen]]
 

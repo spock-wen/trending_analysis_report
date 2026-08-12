@@ -38,7 +38,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[msitarzewski-agency-agents]] [[anthropics-skills]]
+[[lightricks-ltx-2]] [[stablyai-orca]] [[hugohe3-ppt-master]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

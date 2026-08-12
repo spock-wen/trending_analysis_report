@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[uber-adr]] [[obra-superpowers]] [[calesthio-openmontage]] [[jdx-mise]] [[anthropics-cwc-workshops]]
+[[nvidia-nemo-switchyard]] [[hugohe3-ppt-master]] [[denoland-celld]] [[lightricks-ltx-2]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

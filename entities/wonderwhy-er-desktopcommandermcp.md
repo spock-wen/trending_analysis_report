@@ -38,7 +38,7 @@ This is MCP server for Claude that gives it terminal control, file system search
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[stablyai-orca]] [[msitarzewski-agency-agents]] [[danielmiessler-lifeos]]
+[[zuodaotech-everyone-can-use-english]] [[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[lightricks-ltx-2]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

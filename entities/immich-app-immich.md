@@ -35,5 +35,5 @@ High performance self-hosted photo and video management solution.
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[stablyai-orca]] [[primeintellect-ai-prime-agent]] [[firecrawl-firecrawl]]
+[[zuodaotech-everyone-can-use-english]] [[stablyai-orca]] [[paperclipai-paperclip]] [[primeintellect-ai-prime-agent]]
 

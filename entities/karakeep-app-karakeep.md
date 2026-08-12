@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[trycua-cua]] [[graphify-labs-graphify]] [[webpack-webpack]] [[comfy-org-comfyui]] [[addyosmani-agent-skills]]
+[[zuodaotech-everyone-can-use-english]] [[hugohe3-ppt-master]] [[trycua-cua]] [[infiniflow-ragflow]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

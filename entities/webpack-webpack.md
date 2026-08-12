@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[trycua-cua]] [[nomadamas-k-skill]] [[graphify-labs-graphify]] [[comfy-org-comfyui]] [[hkuds-deeptutor]]
+[[trycua-cua]] [[infiniflow-ragflow]] [[hkuds-deeptutor]] [[comfy-org-comfyui]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]] [[image-gen]]
 

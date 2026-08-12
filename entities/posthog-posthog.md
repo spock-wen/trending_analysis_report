@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[opengeos-geolibre]] [[uber-adr]] [[litu54-devops-interview-guide]] [[hkuds-deeptutor]] [[firecrawl-firecrawl]]
+[[hugohe3-ppt-master]] [[alibaba-open-code-review]] [[lightricks-ltx-2]] [[hkuds-deeptutor]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

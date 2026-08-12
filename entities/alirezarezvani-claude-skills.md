@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[uber-adr]] [[obra-superpowers]] [[openinterpreter-openinterpreter]] [[hkuds-deeptutor]]
+[[openinterpreter-openinterpreter]] [[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[lightricks-ltx-2]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

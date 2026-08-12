@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[stablyai-orca]] [[msitarzewski-agency-agents]]
+[[zuodaotech-everyone-can-use-english]] [[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[lightricks-ltx-2]] [[hkuds-deeptutor]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

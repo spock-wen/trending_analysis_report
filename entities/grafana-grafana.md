@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[opengeos-geolibre]] [[uber-adr]] [[litu54-devops-interview-guide]] [[firecrawl-firecrawl]] [[alibaba-open-code-review]]
+[[zuodaotech-everyone-can-use-english]] [[hugohe3-ppt-master]] [[alibaba-open-code-review]] [[semantica-agi-semantica]] [[calesthio-openmontage]]
 
 **所属领域**: [[data]] [[devops]]
 

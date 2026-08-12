@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[uber-adr]] [[litu54-devops-interview-guide]] [[firecrawl-firecrawl]] [[stablyai-orca]] [[semantica-agi-semantica]]
+[[zuodaotech-everyone-can-use-english]] [[semantica-agi-semantica]] [[ruvnet-ruview]] [[primeintellect-ai-prime-agent]] [[paperclipai-paperclip]]
 
 **所属领域**: [[devops]]
 

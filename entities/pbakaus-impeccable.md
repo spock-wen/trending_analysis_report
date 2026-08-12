@@ -35,7 +35,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[nomadamas-k-skill]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[anthropics-skills]] [[calesthio-openmontage]]
+[[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[affaan-m-ecc]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

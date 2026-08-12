@@ -1,0 +1,161 @@
+{
+  "date": "2026-08-13",
+  "scraped_at": "2026-08-13T07:03:52.470787",
+  "period": "daily",
+  "count": 17,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "language": "HTML",
+      "stars_today": 2951,
+      "total_stars": 10134,
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "rank": 2,
+      "repo": "macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "stars_today": 325,
+      "total_stars": 1717,
+      "url": "https://github.com/macro-inc/macro"
+    },
+    {
+      "rank": 3,
+      "repo": "semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars_today": 834,
+      "total_stars": 5669,
+      "url": "https://github.com/semantica-agi/semantica"
+    },
+    {
+      "rank": 4,
+      "repo": "stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "language": "TypeScript",
+      "stars_today": 1215,
+      "total_stars": 43805,
+      "url": "https://github.com/stablyai/orca"
+    },
+    {
+      "rank": 5,
+      "repo": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars_today": 1969,
+      "total_stars": 144530,
+      "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "rank": 6,
+      "repo": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars_today": 277,
+      "total_stars": 36928,
+      "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+      "rank": 7,
+      "repo": "NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars_today": 236,
+      "total_stars": 61949,
+      "url": "https://github.com/NanmiCoder/MediaCrawler"
+    },
+    {
+      "rank": 8,
+      "repo": "hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "language": "Python",
+      "stars_today": 364,
+      "total_stars": 45529,
+      "url": "https://github.com/hugohe3/ppt-master"
+    },
+    {
+      "rank": 9,
+      "repo": "infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "language": "Go",
+      "stars_today": 182,
+      "total_stars": 87522,
+      "url": "https://github.com/infiniflow/ragflow"
+    },
+    {
+      "rank": 10,
+      "repo": "paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars_today": 573,
+      "total_stars": 77695,
+      "url": "https://github.com/paperclipai/paperclip"
+    },
+    {
+      "rank": 11,
+      "repo": "NVIDIA-NeMo/Switchyard",
+      "description": "",
+      "language": "Rust",
+      "stars_today": 370,
+      "total_stars": 793,
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard"
+    },
+    {
+      "rank": 12,
+      "repo": "ZuodaoTech/everyone-can-use-english",
+      "description": "人人都能用英语",
+      "language": "TypeScript",
+      "stars_today": 53,
+      "total_stars": 36051,
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english"
+    },
+    {
+      "rank": 13,
+      "repo": "smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "language": "Python",
+      "stars_today": 40,
+      "total_stars": 20331,
+      "url": "https://github.com/smicallef/spiderfoot"
+    },
+    {
+      "rank": 14,
+      "repo": "localsend/localsend",
+      "description": "An open-source cross-platform alternative to AirDrop",
+      "language": "Dart",
+      "stars_today": 284,
+      "total_stars": 87780,
+      "url": "https://github.com/localsend/localsend"
+    },
+    {
+      "rank": 15,
+      "repo": "Lightricks/LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "language": "Python",
+      "stars_today": 40,
+      "total_stars": 8693,
+      "url": "https://github.com/Lightricks/LTX-2"
+    },
+    {
+      "rank": 16,
+      "repo": "embabel/embabel-agent",
+      "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+      "language": "Kotlin",
+      "stars_today": 29,
+      "total_stars": 4217,
+      "url": "https://github.com/embabel/embabel-agent"
+    },
+    {
+      "rank": 17,
+      "repo": "cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "stars_today": 346,
+      "total_stars": 4186,
+      "url": "https://github.com/cactus-compute/needle"
+    }
+  ]
+}

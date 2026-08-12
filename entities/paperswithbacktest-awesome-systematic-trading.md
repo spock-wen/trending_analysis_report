@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[donnemartin-system-design-primer]] [[mvanhorn-last30days-skill]] [[hkuds-deeptutor]] [[microsoft-generative-ai-for-beginners]] [[zhaoxuya520-reverse-skill]]
+[[lightricks-ltx-2]] [[donnemartin-system-design-primer]] [[mvanhorn-last30days-skill]] [[microsoft-generative-ai-for-beginners]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[education]] [[science]]
 

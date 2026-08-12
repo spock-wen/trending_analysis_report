@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[uber-adr]] [[openinterpreter-openinterpreter]] [[firecrawl-firecrawl]] [[stablyai-orca]] [[primeintellect-ai-prime-agent]]
+[[openinterpreter-openinterpreter]] [[zuodaotech-everyone-can-use-english]] [[hugohe3-ppt-master]] [[primeintellect-ai-prime-agent]] [[paperclipai-paperclip]]
 
 **所属领域**: [[erp]]
 

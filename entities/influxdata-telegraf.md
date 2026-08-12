@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[opengeos-geolibre]] [[github-gh-stack]] [[esengine-deepseek-reasonix]] [[pranshuparmar-witr]] [[alibaba-open-code-review]]
+[[hugohe3-ppt-master]] [[alibaba-open-code-review]] [[infiniflow-ragflow]] [[chenyme-grok2api]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

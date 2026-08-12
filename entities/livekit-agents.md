@@ -35,7 +35,7 @@ A framework for building realtime voice AI agents 🤖🎙️📹
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[anthropics-skills]]
+[[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[shiyu-coder-kronos]] [[smicallef-spiderfoot]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

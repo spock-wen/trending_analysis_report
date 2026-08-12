@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[firecrawl-firecrawl]] [[msitarzewski-agency-agents]] [[danielmiessler-lifeos]] [[paperclipai-paperclip]]
+[[danielmiessler-lifeos]] [[hkuds-deeptutor]] [[nvm-sh-nvm]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]]
 
 **所属领域**: [[web]] [[cli]]
 

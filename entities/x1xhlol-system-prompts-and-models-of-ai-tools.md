@@ -37,7 +37,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ## 相关项目
 
-[[uber-adr]] [[openinterpreter-openinterpreter]] [[anthropics-cwc-workshops]] [[msitarzewski-agency-agents]] [[anthropics-skills]]
+[[openinterpreter-openinterpreter]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

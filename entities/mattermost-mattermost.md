@@ -35,5 +35,5 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[stablyai-orca]] [[primeintellect-ai-prime-agent]] [[firecrawl-firecrawl]]
+[[zuodaotech-everyone-can-use-english]] [[stablyai-orca]] [[paperclipai-paperclip]] [[primeintellect-ai-prime-agent]]
 

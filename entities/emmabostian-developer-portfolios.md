@@ -34,5 +34,5 @@ A list of developer portfolios for your inspiration
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[semantica-agi-semantica]] [[hkuds-deeptutor]] [[anthropics-skills]]
+[[lightricks-ltx-2]] [[shiyu-coder-kronos]] [[smicallef-spiderfoot]] [[nanmicoder-mediacrawler]]
 

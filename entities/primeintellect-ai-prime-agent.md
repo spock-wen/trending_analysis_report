@@ -38,7 +38,7 @@ A self-improving RLM agent for coding workflows and long-running autonomous task
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[firecrawl-firecrawl]] [[stablyai-orca]] [[msitarzewski-agency-agents]] [[anthropics-skills]]
+[[zuodaotech-everyone-can-use-english]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]]
 

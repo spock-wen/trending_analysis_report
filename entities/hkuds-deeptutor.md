@@ -37,7 +37,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[anthropics-skills]] [[calesthio-openmontage]]
+[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[shiyu-coder-kronos]] [[smicallef-spiderfoot]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]]
 

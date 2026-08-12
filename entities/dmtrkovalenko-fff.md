@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[jdx-mise]] [[firecrawl-pdf-inspector]] [[msitarzewski-agency-agents]] [[anthropics-skills]]
+[[nvidia-nemo-switchyard]] [[hugohe3-ppt-master]] [[denoland-celld]] [[lightricks-ltx-2]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[danielmiessler-lifeos]] [[paperclipai-paperclip]] [[msitarzewski-agency-agents]]
+[[paperclipai-paperclip]] [[kepano-obsidian-skills]] [[nvm-sh-nvm]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[cli]]
 

@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[zuodaotech-everyone-can-use-english]] [[danielmiessler-lifeos]] [[hkuds-deeptutor]] [[nvm-sh-nvm]] [[msitarzewski-agency-agents]]
+[[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[nvm-sh-nvm]] [[stablyai-orca]] [[holaboss-ai-holaos]]
 
 **所属领域**: [[web]] [[cli]]
 

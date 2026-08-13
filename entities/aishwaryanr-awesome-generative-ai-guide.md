@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[trycua-cua]] [[lightricks-ltx-2]] [[hkuds-deeptutor]] [[hasaneyldrm-exercises-dataset]]
+[[zhaoxuya520-reverse-skill]] [[lightricks-ltx-2]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[nvidia-nemo-switchyard]] [[danielmiessler-lifeos]] [[denoland-celld]] [[nvm-sh-nvm]] [[ruvnet-ruview]]
+[[msitarzewski-agency-agents]] [[nvidia-nemo-switchyard]] [[nvm-sh-nvm]] [[denoland-celld]] [[paperclipai-paperclip]]
 
 **所属领域**: [[cli]]
 

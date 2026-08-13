@@ -37,7 +37,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ## 相关项目
 
-[[nvidia-nemo-switchyard]] [[hugohe3-ppt-master]] [[denoland-celld]] [[lightricks-ltx-2]] [[ruvnet-ruview]]
+[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[nvidia-nemo-switchyard]] [[denoland-celld]]
 
 **所属领域**: [[ai-agent]]
 

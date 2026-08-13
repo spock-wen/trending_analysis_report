@@ -34,5 +34,5 @@ A YAML parser and emitter in C++
 
 ## 相关项目
 
-[[gabime-spdlog]] [[geo-tp-esp32-bit-pirate]] [[ladybirdbrowser-ladybird]] [[amnezia-vpn-amnezia-client]]
+[[gabime-spdlog]] [[ladybirdbrowser-ladybird]] [[geo-tp-esp32-bit-pirate]] [[amnezia-vpn-amnezia-client]]
 

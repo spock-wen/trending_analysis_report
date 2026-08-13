@@ -36,7 +36,7 @@ Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli
 
 ## 相关项目
 
-[[infiniflow-ragflow]] [[chenyme-grok2api]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[amnezia-vpn-amnezia-client]]
+[[zhaoxuya520-reverse-skill]] [[uber-adr]] [[affaan-m-ecc]] [[chenyme-grok2api]] [[esengine-deepseek-reasonix]]
 
 **所属领域**: [[security]]
 

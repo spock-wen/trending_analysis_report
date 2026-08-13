@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[alibaba-open-code-review]] [[infiniflow-ragflow]] [[lightricks-ltx-2]] [[hkuds-deeptutor]]
+[[lightricks-ltx-2]] [[hkuds-deeptutor]] [[alibaba-open-code-review]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

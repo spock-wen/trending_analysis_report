@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[openinterpreter-openinterpreter]] [[hugohe3-ppt-master]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]]
+[[hkuds-deeptutor]] [[uber-adr]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]] [[holaboss-ai-holaos]]
 
 **所属领域**: [[web]] [[erp]]
 

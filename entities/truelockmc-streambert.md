@@ -35,5 +35,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[nomadamas-k-skill]] [[webpack-webpack]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[addyosmani-agent-skills]] [[webpack-webpack]] [[nomadamas-k-skill]]
 

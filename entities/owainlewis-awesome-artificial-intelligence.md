@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[donnemartin-system-design-primer]] [[msitarzewski-agency-agents]] [[mvanhorn-last30days-skill]]
+[[zhaoxuya520-reverse-skill]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[donnemartin-system-design-primer]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[huggingface-transformers]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[hkuds-deeptutor]] [[donnemartin-system-design-primer]]
+[[lightricks-ltx-2]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[donnemartin-system-design-primer]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

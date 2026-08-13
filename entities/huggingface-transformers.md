@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[livekit-agents]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[donnemartin-system-design-primer]] [[msitarzewski-agency-agents]]
+[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[altic-dev-fluidvoice]] [[donnemartin-system-design-primer]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

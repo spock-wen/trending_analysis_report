@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[shiyu-coder-kronos]] [[smicallef-spiderfoot]]
+[[lightricks-ltx-2]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[holaboss-ai-holaos]]
 
 **所属领域**: [[web]]
 

@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[zuodaotech-everyone-can-use-english]] [[primeintellect-ai-prime-agent]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[paperclipai-paperclip]]
+[[zhaoxuya520-reverse-skill]] [[uber-adr]] [[affaan-m-ecc]] [[stablyai-orca]] [[holaboss-ai-holaos]]
 
 **所属领域**: [[security]]
 

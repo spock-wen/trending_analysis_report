@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[github-copilot-sdk]] [[hugohe3-ppt-master]] [[alibaba-open-code-review]] [[semantica-agi-semantica]] [[calesthio-openmontage]]
+[[alibaba-open-code-review]] [[uber-adr]] [[jenkinsci-jenkins]] [[google-guava]] [[semantica-agi-semantica]]
 
 **所属领域**: [[data]] [[devops]]
 

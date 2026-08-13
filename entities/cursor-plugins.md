@@ -35,5 +35,5 @@ Cursor plugin specification and official plugins
 
 ## 相关项目
 
-[[zuodaotech-everyone-can-use-english]] [[stablyai-orca]] [[paperclipai-paperclip]] [[primeintellect-ai-prime-agent]]
+[[stablyai-orca]] [[lightningpixel-modly]] [[holaboss-ai-holaos]] [[paperclipai-paperclip]]
 

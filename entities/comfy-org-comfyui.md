@@ -35,7 +35,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[trycua-cua]] [[infiniflow-ragflow]] [[lightricks-ltx-2]] [[shiyu-coder-kronos]] [[smicallef-spiderfoot]]
+[[lightricks-ltx-2]] [[semantica-agi-semantica]] [[anthropics-skills]] [[unslothai-unsloth]] [[lightningpixel-modly]]
 
 **所属领域**: [[image-gen]]
 

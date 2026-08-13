@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[openinterpreter-openinterpreter]] [[zuodaotech-everyone-can-use-english]] [[hugohe3-ppt-master]] [[primeintellect-ai-prime-agent]] [[paperclipai-paperclip]]
+[[uber-adr]] [[stablyai-orca]] [[holaboss-ai-holaos]] [[openinterpreter-openinterpreter]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[erp]]
 

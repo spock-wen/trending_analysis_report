@@ -38,7 +38,7 @@ agent multiplexer that lives in your terminal.
 
 ## 相关项目
 
-[[nvidia-nemo-switchyard]] [[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[denoland-celld]] [[lightricks-ltx-2]]
+[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[nvidia-nemo-switchyard]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

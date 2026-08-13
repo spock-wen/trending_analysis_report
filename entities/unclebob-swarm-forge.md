@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[penpot-penpot]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[stablyai-orca]]
+[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[anthropics-skills]] [[penpot-penpot]]
 
 **所属领域**: [[ai-agent]]
 

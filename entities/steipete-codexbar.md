@@ -36,7 +36,7 @@ Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[permissionlesstech-bitchat]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[jaywcjlove-awesome-mac]]
+[[permissionlesstech-bitchat]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

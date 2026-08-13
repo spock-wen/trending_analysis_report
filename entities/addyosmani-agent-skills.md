@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[affaan-m-ecc]] [[nomadamas-k-skill]]
+[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[affaan-m-ecc]] [[nomadamas-k-skill]]
 
 **所属领域**: [[ai-agent]]
 

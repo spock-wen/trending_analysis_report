@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[openinterpreter-openinterpreter]] [[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[lightricks-ltx-2]] [[nvm-sh-nvm]]
+[[zhaoxuya520-reverse-skill]] [[lightricks-ltx-2]] [[uber-adr]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

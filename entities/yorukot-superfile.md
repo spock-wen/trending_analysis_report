@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[danielmiessler-lifeos]] [[infiniflow-ragflow]] [[chenyme-grok2api]] [[nvm-sh-nvm]] [[msitarzewski-agency-agents]]
+[[msitarzewski-agency-agents]] [[nvm-sh-nvm]] [[chenyme-grok2api]] [[esengine-deepseek-reasonix]] [[paperclipai-paperclip]]
 
 **所属领域**: [[cli]]
 

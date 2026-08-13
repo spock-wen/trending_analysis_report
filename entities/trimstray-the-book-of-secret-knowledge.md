@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[danielmiessler-lifeos]] [[hkuds-deeptutor]] [[nvm-sh-nvm]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]]
+[[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[nvm-sh-nvm]] [[holaboss-ai-holaos]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[cli]]
 

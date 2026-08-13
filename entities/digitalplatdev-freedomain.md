@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[trycua-cua]] [[lightricks-ltx-2]] [[hkuds-deeptutor]] [[hasaneyldrm-exercises-dataset]]
+[[lightricks-ltx-2]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

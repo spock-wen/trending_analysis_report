@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[alibaba-open-code-review]] [[lightricks-ltx-2]] [[hkuds-deeptutor]] [[calesthio-openmontage]]
+[[lightricks-ltx-2]] [[hkuds-deeptutor]] [[alibaba-open-code-review]] [[uber-adr]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

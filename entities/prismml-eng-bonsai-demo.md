@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[lightricks-ltx-2]] [[nvm-sh-nvm]] [[mattpocock-skills]]
+[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[nvm-sh-nvm]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[trycua-cua]] [[hkuds-deeptutor]] [[hasaneyldrm-exercises-dataset]] [[msitarzewski-agency-agents]] [[pkuflyingpig-cs-self-learning]]
+[[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]] [[holaboss-ai-holaos]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]]
 

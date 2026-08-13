@@ -37,7 +37,7 @@ Simple, unified interface to multiple Generative AI providers
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[shiyu-coder-kronos]] [[smicallef-spiderfoot]]
+[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[altic-dev-fluidvoice]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

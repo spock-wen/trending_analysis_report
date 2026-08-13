@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[openinterpreter-openinterpreter]] [[gabime-spdlog]] [[hugohe3-ppt-master]] [[geo-tp-esp32-bit-pirate]] [[ladybirdbrowser-ladybird]]
+[[geo-tp-esp32-bit-pirate]] [[uber-adr]] [[ladybirdbrowser-ladybird]] [[openinterpreter-openinterpreter]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[erp]]
 

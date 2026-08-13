@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[danielmiessler-lifeos]] [[infiniflow-ragflow]] [[hkuds-deeptutor]] [[nvm-sh-nvm]] [[msitarzewski-agency-agents]]
+[[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[nvm-sh-nvm]] [[esengine-deepseek-reasonix]] [[holaboss-ai-holaos]]
 
 **所属领域**: [[web]] [[cli]]
 

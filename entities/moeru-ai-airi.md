@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[huggingface-transformers]] [[zuodaotech-everyone-can-use-english]] [[hugohe3-ppt-master]] [[livekit-agents]] [[lightricks-ltx-2]]
+[[lightricks-ltx-2]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

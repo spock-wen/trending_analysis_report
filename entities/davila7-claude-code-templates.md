@@ -36,7 +36,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[lightricks-ltx-2]] [[nvm-sh-nvm]] [[semantica-agi-semantica]]
+[[lightricks-ltx-2]] [[uber-adr]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

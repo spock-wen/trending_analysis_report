@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[donnemartin-system-design-primer]] [[microsoft-generative-ai-for-beginners]] [[shiyu-coder-kronos]] [[smicallef-spiderfoot]]
+[[lightricks-ltx-2]] [[semantica-agi-semantica]] [[donnemartin-system-design-primer]] [[anthropics-skills]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[education]]
 

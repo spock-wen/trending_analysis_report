@@ -16,7 +16,6 @@ last_trending: 2026-08-13
 peak_rank: 8
 total_stars: 45529
 language: "Python"
-contested: true
 ---
 
 # hugohe3/ppt-master
@@ -36,17 +35,7 @@ AI turns documents or topics into real, native PowerPoint decks—with native sh
 
 ## 相关项目
 
-[[openinterpreter-openinterpreter]] [[livekit-agents]] [[alibaba-open-code-review]] [[lightricks-ltx-2]] [[calesthio-openmontage]]
+[[lightricks-ltx-2]] [[alibaba-open-code-review]] [[uber-adr]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]] [[data]] [[erp]] [[audio]]
-
-
-## ⚠️ 描述变更（2026-08-13）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He
-- **新描述**: AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[trycua-cua]] [[infiniflow-ragflow]] [[lightricks-ltx-2]] [[comfy-org-comfyui]] [[shiyu-coder-kronos]]
+[[lightricks-ltx-2]] [[semantica-agi-semantica]] [[comfy-org-comfyui]] [[anthropics-skills]] [[unslothai-unsloth]]
 
 **所属领域**: [[image-gen]]
 

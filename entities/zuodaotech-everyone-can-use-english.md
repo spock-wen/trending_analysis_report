@@ -34,5 +34,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[stablyai-orca]] [[paperclipai-paperclip]] [[primeintellect-ai-prime-agent]]
+[[stablyai-orca]] [[lightningpixel-modly]] [[holaboss-ai-holaos]] [[paperclipai-paperclip]]
 

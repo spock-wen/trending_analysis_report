@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[zuodaotech-everyone-can-use-english]] [[semantica-agi-semantica]] [[ruvnet-ruview]] [[primeintellect-ai-prime-agent]] [[paperclipai-paperclip]]
+[[uber-adr]] [[semantica-agi-semantica]] [[stablyai-orca]] [[holaboss-ai-holaos]] [[paperclipai-paperclip]]
 
 **所属领域**: [[devops]]
 

@@ -37,7 +37,7 @@ Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture cod
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[infiniflow-ragflow]] [[chenyme-grok2api]] [[lightricks-ltx-2]] [[calesthio-openmontage]]
+[[lightricks-ltx-2]] [[opengeos-geolibre]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[chenyme-grok2api]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

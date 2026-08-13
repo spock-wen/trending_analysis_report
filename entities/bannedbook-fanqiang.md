@@ -36,5 +36,5 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[pppscn-smsforwarder]] [[andreknieriem-headunit-revived]] [[embabel-embabel-agent]]
+[[embabel-embabel-agent]] [[andreknieriem-headunit-revived]] [[pppscn-smsforwarder]]
 

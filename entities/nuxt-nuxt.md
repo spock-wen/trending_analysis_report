@@ -34,5 +34,5 @@ the full-stack Vue framework
 
 ## 相关项目
 
-[[zuodaotech-everyone-can-use-english]] [[stablyai-orca]] [[paperclipai-paperclip]] [[primeintellect-ai-prime-agent]]
+[[stablyai-orca]] [[lightningpixel-modly]] [[holaboss-ai-holaos]] [[paperclipai-paperclip]]
 

@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[zuodaotech-everyone-can-use-english]] [[hugohe3-ppt-master]] [[alibaba-open-code-review]] [[semantica-agi-semantica]] [[calesthio-openmontage]]
+[[alibaba-open-code-review]] [[uber-adr]] [[semantica-agi-semantica]] [[ruvnet-ruview]] [[stablyai-orca]]
 
 **所属领域**: [[data]] [[devops]]
 

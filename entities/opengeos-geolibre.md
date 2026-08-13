@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[zuodaotech-everyone-can-use-english]] [[hugohe3-ppt-master]] [[alibaba-open-code-review]] [[hkuds-deeptutor]] [[calesthio-openmontage]]
+[[hkuds-deeptutor]] [[alibaba-open-code-review]] [[msitarzewski-agency-agents]] [[stablyai-orca]] [[holaboss-ai-holaos]]
 
 **所属领域**: [[web]] [[data]]
 

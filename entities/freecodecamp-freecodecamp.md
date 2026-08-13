@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[zuodaotech-everyone-can-use-english]] [[donnemartin-system-design-primer]] [[primeintellect-ai-prime-agent]] [[paperclipai-paperclip]] [[practical-tutorials-project-based-learning]]
+[[donnemartin-system-design-primer]] [[stablyai-orca]] [[holaboss-ai-holaos]] [[kepano-obsidian-skills]] [[practical-tutorials-project-based-learning]]
 
 **所属领域**: [[education]]
 

@@ -38,7 +38,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[affaan-m-ecc]] [[addyosmani-agent-skills]]
+[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[addyosmani-agent-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

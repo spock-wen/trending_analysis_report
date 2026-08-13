@@ -1,20 +1,20 @@
 ---
 title: "anthropics/skills"
 created: 2026-05-16
-updated: 2026-08-12
-last_active: 2026-08-12
+updated: 2026-08-14
+last_active: 2026-08-14
 type: tool
 tags: [python, ai-agent]
-sources: [raw/trending/2026-08-12.json]
+sources: [raw/trending/2026-08-14.json]
 confidence: high
-trending_count_daily: 5
+trending_count_daily: 6
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-05-16
-last_trending: 2026-08-12
-peak_rank: 7
-total_stars: 168092
+last_trending: 2026-08-14
+peak_rank: 3
+total_stars: 168989
 language: "Python"
 ---
 
@@ -23,22 +23,22 @@ language: "Python"
 Public repository for Agent Skills
 
 - 语言: Python
-- 上榜次数: 5 次
+- 上榜次数: 6 次
 - 连续上榜: 1 天
-- 最高排名: #7
+- 最高排名: #3
 - 链接: [anthropics/skills](https://github.com/anthropics/skills)
 
 ## 上榜历史
 
+  - 2026-08-14: #3, +383⭐
   - 2026-08-12: #7, +468⭐
   - 2026-05-31: #18, +471⭐
   - 2026-05-29: #16, +791⭐
   - 2026-05-17: #7, +689⭐
-  - 2026-05-16: #7, +689⭐
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[shiyu-coder-kronos]] [[smicallef-spiderfoot]]
+[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[altic-dev-fluidvoice]] [[smicallef-spiderfoot]]
 
 **所属领域**: [[ai-agent]]
 

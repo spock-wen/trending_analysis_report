@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[huggingface-transformers]] [[trycua-cua]] [[hkuds-deeptutor]] [[hasaneyldrm-exercises-dataset]] [[donnemartin-system-design-primer]]
+[[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]] [[donnemartin-system-design-primer]] [[holaboss-ai-holaos]]
 
 **所属领域**: [[web]] [[education]]
 

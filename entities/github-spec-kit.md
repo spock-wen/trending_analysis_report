@@ -36,5 +36,5 @@ language: "Python"
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[shiyu-coder-kronos]] [[smicallef-spiderfoot]] [[nanmicoder-mediacrawler]]
+[[semantica-agi-semantica]] [[lightricks-ltx-2]] [[smicallef-spiderfoot]] [[anthropics-skills]]
 

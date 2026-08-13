@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[nvidia-nemo-switchyard]] [[danielmiessler-lifeos]] [[denoland-celld]] [[hkuds-deeptutor]] [[ruvnet-ruview]]
+[[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[nvidia-nemo-switchyard]] [[nvm-sh-nvm]] [[denoland-celld]]
 
 **所属领域**: [[web]] [[cli]]
 

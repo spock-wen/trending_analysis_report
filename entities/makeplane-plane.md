@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[zuodaotech-everyone-can-use-english]] [[danielmiessler-lifeos]] [[nvm-sh-nvm]] [[msitarzewski-agency-agents]] [[primeintellect-ai-prime-agent]]
+[[msitarzewski-agency-agents]] [[nvm-sh-nvm]] [[stablyai-orca]] [[holaboss-ai-holaos]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[cli]]
 

@@ -38,7 +38,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[apache-cassandra]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[google-guava]] [[msitarzewski-agency-agents]]
+[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[jenkinsci-jenkins]] [[google-guava]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]]
 

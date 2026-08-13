@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[github-copilot-sdk]] [[apache-cassandra]] [[hugohe3-ppt-master]] [[danielmiessler-lifeos]] [[alibaba-open-code-review]]
+[[lightricks-ltx-2]] [[alibaba-open-code-review]] [[msitarzewski-agency-agents]] [[jenkinsci-jenkins]] [[google-guava]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

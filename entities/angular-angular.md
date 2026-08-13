@@ -34,7 +34,7 @@ Deliver web apps with confidence 🚀
 
 ## 相关项目
 
-[[zuodaotech-everyone-can-use-english]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[primeintellect-ai-prime-agent]] [[paperclipai-paperclip]]
+[[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[stablyai-orca]] [[holaboss-ai-holaos]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]]
 

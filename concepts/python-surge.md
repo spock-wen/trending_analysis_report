@@ -1,7 +1,7 @@
 ---
 title: "Python Ecosystem Surge"
 created: 2026-06-07
-updated: 2026-08-13
+updated: 2026-08-14
 type: concept
 tags: [python, surge]
 confidence: medium
@@ -11,19 +11,19 @@ confidence: medium
 
 ## 信号概述
 
-2026-08-13 检测到 Python 领域有 7 个项目同时上榜，表明该语言生态近期活跃度显著上升。
+2026-08-14 检测到 Python 领域有 8 个项目同时上榜，表明该语言生态近期活跃度显著上升。
 
-## 上榜项目（7 个）
+## 上榜项目（8 个）
 
-[[semantica-agi-semantica]] [[shiyu-coder-kronos]] [[nanmicoder-mediacrawler]] [[hugohe3-ppt-master]] [[smicallef-spiderfoot]] [[lightricks-ltx-2]] [[cactus-compute-needle]]
+[[semantica-agi-semantica]] [[anthropics-skills]] [[cactus-compute-needle]] [[unslothai-unsloth]] [[megadose-holehe]] [[smicallef-spiderfoot]] [[3b1b-manim]] [[lightricks-ltx-2]]
 
 ## 语言分布
 
-Python 7个
+Python 8个
 
 ## 趋势分析
 
-Python 领域 7 个项目同时上榜，可能反映：
+Python 领域 8 个项目同时上榜，可能反映：
 - 该语言在特定领域（如 AI、Web、系统编程）的技术突破
 - 社区活跃度提升，新项目涌现
 - 现有项目获得广泛关注

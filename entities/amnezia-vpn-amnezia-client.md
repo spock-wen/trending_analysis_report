@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[gabime-spdlog]] [[danielmiessler-lifeos]] [[nvm-sh-nvm]] [[geo-tp-esp32-bit-pirate]] [[ladybirdbrowser-ladybird]]
+[[geo-tp-esp32-bit-pirate]] [[zhaoxuya520-reverse-skill]] [[uber-adr]] [[msitarzewski-agency-agents]] [[ladybirdbrowser-ladybird]]
 
 **所属领域**: [[cli]] [[security]]
 

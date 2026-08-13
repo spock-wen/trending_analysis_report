@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[gabime-spdlog]] [[livekit-agents]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[geo-tp-esp32-bit-pirate]]
+[[geo-tp-esp32-bit-pirate]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[ladybirdbrowser-ladybird]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

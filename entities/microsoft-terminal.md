@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[gabime-spdlog]] [[danielmiessler-lifeos]] [[nvm-sh-nvm]] [[geo-tp-esp32-bit-pirate]] [[ladybirdbrowser-ladybird]]
+[[geo-tp-esp32-bit-pirate]] [[msitarzewski-agency-agents]] [[ladybirdbrowser-ladybird]] [[nvm-sh-nvm]] [[gabime-spdlog]]
 
 **所属领域**: [[cli]]
 

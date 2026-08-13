@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[zuodaotech-everyone-can-use-english]] [[hugohe3-ppt-master]] [[alibaba-open-code-review]] [[trycua-cua]] [[infiniflow-ragflow]]
+[[alibaba-open-code-review]] [[infiniflow-ragflow]] [[stablyai-orca]] [[comfy-org-comfyui]] [[holaboss-ai-holaos]]
 
 **所属领域**: [[data]] [[image-gen]]
 

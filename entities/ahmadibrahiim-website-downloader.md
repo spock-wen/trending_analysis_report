@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[trycua-cua]] [[infiniflow-ragflow]] [[hkuds-deeptutor]] [[hasaneyldrm-exercises-dataset]] [[comfy-org-comfyui]]
+[[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]] [[comfy-org-comfyui]] [[holaboss-ai-holaos]]
 
 **所属领域**: [[web]] [[image-gen]]
 

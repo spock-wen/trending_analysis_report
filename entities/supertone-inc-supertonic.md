@@ -36,7 +36,7 @@ Lightning-Fast, On-Device, Multilingual TTS running natively via ONNX.
 
 ## 相关项目
 
-[[livekit-agents]] [[hugohe3-ppt-master]] [[permissionlesstech-bitchat]] [[steipete-codexbar]] [[lightricks-ltx-2]]
+[[permissionlesstech-bitchat]] [[lightricks-ltx-2]] [[altic-dev-fluidvoice]] [[hugohe3-ppt-master]] [[palmier-io-palmier-pro]]
 
 **所属领域**: [[audio]]
 

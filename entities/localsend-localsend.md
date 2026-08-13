@@ -34,7 +34,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[flutter-flutter]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[chen08209-flclash]]
+[[flutter-flutter]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

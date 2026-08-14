@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[hkuds-deeptutor]] [[alibaba-open-code-review]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]]
+[[citrolabs-ego-lite]] [[hugohe3-ppt-master]] [[macro-inc-macro]] [[semantica-agi-semantica]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

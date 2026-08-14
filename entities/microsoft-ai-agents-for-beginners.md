@@ -36,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[huggingface-transformers]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[donnemartin-system-design-primer]]
+[[citrolabs-ego-lite]] [[macro-inc-macro]] [[lyogavin-airllm]] [[semantica-agi-semantica]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[chenyme-grok2api]] [[esengine-deepseek-reasonix]] [[holaboss-ai-holaos]]
+[[esengine-deepseek-reasonix]] [[citrolabs-ego-lite]] [[infiniflow-ragflow]] [[pranshuparmar-witr]] [[chenyme-grok2api]]
 
 **所属领域**: [[web]]
 

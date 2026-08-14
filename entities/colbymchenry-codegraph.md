@@ -38,7 +38,7 @@ Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[stablyai-orca]] [[holaboss-ai-holaos]]
+[[citrolabs-ego-lite]] [[opencut-app-opencut]] [[macro-inc-macro]] [[semantica-agi-semantica]] [[cursor-plugins]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[alibaba-open-code-review]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[altic-dev-fluidvoice]]
+[[citrolabs-ego-lite]] [[hugohe3-ppt-master]] [[smicallef-spiderfoot]] [[github-spec-kit]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

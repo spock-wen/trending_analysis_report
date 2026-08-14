@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[nomadamas-k-skill]]
+[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[infiniflow-ragflow]] [[unslothai-unsloth]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[web]] [[image-gen]]
 

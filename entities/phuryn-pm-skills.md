@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[nvm-sh-nvm]] [[anthropics-skills]]
+[[citrolabs-ego-lite]] [[macro-inc-macro]] [[paperclipai-paperclip]] [[semantica-agi-semantica]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

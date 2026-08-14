@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[uber-adr]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]] [[semantica-agi-semantica]]
+[[citrolabs-ego-lite]] [[litu54-devops-interview-guide]] [[hasaneyldrm-exercises-dataset]] [[semantica-agi-semantica]] [[uber-adr]]
 
 **所属领域**: [[web]] [[devops]]
 

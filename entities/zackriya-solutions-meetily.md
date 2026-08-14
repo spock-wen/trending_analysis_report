@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[calesthio-openmontage]] [[opengeos-geolibre]]
+[[citrolabs-ego-lite]] [[hugohe3-ppt-master]] [[macro-inc-macro]] [[semantica-agi-semantica]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

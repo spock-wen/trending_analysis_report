@@ -36,7 +36,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[nvidia-nemo-switchyard]] [[denoland-celld]]
+[[citrolabs-ego-lite]] [[macro-inc-macro]] [[semantica-agi-semantica]] [[rustdesk-rustdesk]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]]
 

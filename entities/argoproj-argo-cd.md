@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[uber-adr]] [[semantica-agi-semantica]] [[ruvnet-ruview]] [[chenyme-grok2api]] [[esengine-deepseek-reasonix]]
+[[esengine-deepseek-reasonix]] [[litu54-devops-interview-guide]] [[infiniflow-ragflow]] [[pranshuparmar-witr]] [[chenyme-grok2api]]
 
 **所属领域**: [[devops]]
 

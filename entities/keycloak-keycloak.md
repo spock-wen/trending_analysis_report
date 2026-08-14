@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[uber-adr]] [[jenkinsci-jenkins]] [[google-guava]] [[github-copilot-sdk]]
+[[jenkinsci-jenkins]] [[github-copilot-sdk]] [[apache-cassandra]] [[uber-adr]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

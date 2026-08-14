@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[harbourmasters-lighthouse]] [[lightricks-ltx-2]] [[alibaba-open-code-review]] [[msitarzewski-agency-agents]] [[microsoft-powertoys]]
+[[citrolabs-ego-lite]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[macro-inc-macro]] [[harbourmasters-lighthouse]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

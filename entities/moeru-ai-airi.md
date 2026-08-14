@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[stablyai-orca]]
+[[citrolabs-ego-lite]] [[hugohe3-ppt-master]] [[opencut-app-opencut]] [[macro-inc-macro]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

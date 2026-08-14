@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[nvm-sh-nvm]] [[anthropics-skills]]
+[[smicallef-spiderfoot]] [[github-spec-kit]] [[paperclipai-paperclip]] [[semantica-agi-semantica]] [[cactus-compute-needle]]
 
 **所属领域**: [[cli]]
 

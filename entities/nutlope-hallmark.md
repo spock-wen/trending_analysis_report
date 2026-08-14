@@ -38,7 +38,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[holaboss-ai-holaos]]
+[[citrolabs-ego-lite]] [[diolinux-photogimp]] [[macro-inc-macro]] [[semantica-agi-semantica]] [[holaboss-ai-holaos]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

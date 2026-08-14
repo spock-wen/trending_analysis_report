@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[lightricks-ltx-2]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]]
+[[citrolabs-ego-lite]] [[macro-inc-macro]] [[hasaneyldrm-exercises-dataset]] [[paperclipai-paperclip]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

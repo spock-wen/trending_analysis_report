@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[nvm-sh-nvm]] [[chenyme-grok2api]]
+[[esengine-deepseek-reasonix]] [[citrolabs-ego-lite]] [[infiniflow-ragflow]] [[macro-inc-macro]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[nvidia-nemo-switchyard]] [[denoland-celld]] [[holaboss-ai-holaos]]
+[[citrolabs-ego-lite]] [[macro-inc-macro]] [[rustdesk-rustdesk]] [[holaboss-ai-holaos]] [[ruvnet-ruview]]
 
 **所属领域**: [[web]]
 

@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[nvidia-nemo-switchyard]] [[nvm-sh-nvm]] [[denoland-celld]] [[paperclipai-paperclip]]
+[[macro-inc-macro]] [[paperclipai-paperclip]] [[rustdesk-rustdesk]] [[ruvnet-ruview]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[cli]]
 

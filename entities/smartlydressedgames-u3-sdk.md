@@ -34,5 +34,5 @@ Source code for Unturned, a free open-world zombie survival sandbox game.
 
 ## 相关项目
 
-[[jellyfin-jellyfin]] [[par274-sharpemu]] [[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]]
+[[par274-sharpemu]] [[dotnet-aspnetcore]] [[jellyfin-jellyfin]] [[k1tbyte-wand-enhancer]]
 

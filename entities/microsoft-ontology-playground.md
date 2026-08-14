@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[donnemartin-system-design-primer]] [[stablyai-orca]] [[holaboss-ai-holaos]]
+[[citrolabs-ego-lite]] [[opencut-app-opencut]] [[huggingface-transformers]] [[donnemartin-system-design-primer]] [[cursor-plugins]]
 
 **所属领域**: [[web]] [[education]]
 

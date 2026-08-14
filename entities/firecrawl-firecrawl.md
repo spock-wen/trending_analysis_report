@@ -36,7 +36,7 @@ The context API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[stablyai-orca]] [[holaboss-ai-holaos]] [[cathrynlavery-diagram-design]]
+[[citrolabs-ego-lite]] [[opencut-app-opencut]] [[cursor-plugins]] [[holaboss-ai-holaos]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]]
 

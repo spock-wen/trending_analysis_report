@@ -35,5 +35,5 @@ self-hosted, distributed Durable Objects
 
 ## 相关项目
 
-[[nvidia-nemo-switchyard]] [[ruvnet-ruview]] [[macro-inc-macro]]
+[[rustdesk-rustdesk]] [[nvidia-nemo-switchyard]] [[ruvnet-ruview]] [[macro-inc-macro]]
 

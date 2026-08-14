@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[nvm-sh-nvm]] [[anthropics-skills]]
+[[citrolabs-ego-lite]] [[macro-inc-macro]] [[obra-superpowers]] [[paperclipai-paperclip]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

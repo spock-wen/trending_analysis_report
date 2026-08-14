@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[donnemartin-system-design-primer]] [[microsoft-generative-ai-for-beginners]]
+[[citrolabs-ego-lite]] [[litu54-devops-interview-guide]] [[tooljet-tooljet]] [[hugohe3-ppt-master]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

@@ -35,7 +35,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[holaboss-ai-holaos]] [[cathrynlavery-diagram-design]]
+[[citrolabs-ego-lite]] [[amnezia-vpn-amnezia-client]] [[geo-tp-esp32-bit-pirate]] [[holaboss-ai-holaos]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]]
 

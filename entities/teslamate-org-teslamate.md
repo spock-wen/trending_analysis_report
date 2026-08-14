@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[alibaba-open-code-review]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[hugohe3-ppt-master]]
+[[citrolabs-ego-lite]] [[hugohe3-ppt-master]] [[plausible-analytics]] [[macro-inc-macro]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

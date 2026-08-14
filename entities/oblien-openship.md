@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[uber-adr]] [[semantica-agi-semantica]] [[stablyai-orca]] [[holaboss-ai-holaos]] [[paperclipai-paperclip]]
+[[litu54-devops-interview-guide]] [[opencut-app-opencut]] [[semantica-agi-semantica]] [[uber-adr]] [[cursor-plugins]]
 
 **所属领域**: [[devops]]
 

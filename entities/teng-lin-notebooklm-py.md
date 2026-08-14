@@ -34,7 +34,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[altic-dev-fluidvoice]]
+[[citrolabs-ego-lite]] [[smicallef-spiderfoot]] [[github-spec-kit]] [[macro-inc-macro]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

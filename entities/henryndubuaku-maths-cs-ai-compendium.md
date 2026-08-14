@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[stablyai-orca]]
+[[citrolabs-ego-lite]] [[opencut-app-opencut]] [[macro-inc-macro]] [[paperclipai-paperclip]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

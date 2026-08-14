@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[uber-adr]] [[semantica-agi-semantica]] [[nvidia-nemo-switchyard]] [[denoland-celld]] [[litu54-devops-interview-guide]]
+[[litu54-devops-interview-guide]] [[macro-inc-macro]] [[semantica-agi-semantica]] [[uber-adr]] [[rustdesk-rustdesk]]
 
 **所属领域**: [[devops]]
 

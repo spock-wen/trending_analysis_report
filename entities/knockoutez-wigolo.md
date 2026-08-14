@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[lightricks-ltx-2]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]]
+[[citrolabs-ego-lite]] [[opencut-app-opencut]] [[macro-inc-macro]] [[paperclipai-paperclip]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

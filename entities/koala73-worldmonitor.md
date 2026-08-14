@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[uber-adr]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[semantica-agi-semantica]]
+[[citrolabs-ego-lite]] [[litu54-devops-interview-guide]] [[opencut-app-opencut]] [[macro-inc-macro]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

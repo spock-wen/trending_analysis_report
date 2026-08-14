@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[lightricks-ltx-2]] [[semantica-agi-semantica]] [[donnemartin-system-design-primer]] [[anthropics-skills]]
+[[smicallef-spiderfoot]] [[github-spec-kit]] [[paperclipai-paperclip]] [[semantica-agi-semantica]] [[cactus-compute-needle]]
 
 **所属领域**: [[education]] [[science]]
 

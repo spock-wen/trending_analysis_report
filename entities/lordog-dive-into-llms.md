@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]]
+[[citrolabs-ego-lite]] [[macro-inc-macro]] [[lyogavin-airllm]] [[semantica-agi-semantica]] [[anthropics-claude-cookbooks]]
 
 **所属领域**: [[ai-agent]]
 

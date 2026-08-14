@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[alibaba-open-code-review]] [[msitarzewski-agency-agents]] [[stablyai-orca]] [[holaboss-ai-holaos]]
+[[citrolabs-ego-lite]] [[hugohe3-ppt-master]] [[opencut-app-opencut]] [[cursor-plugins]] [[calesthio-openmontage]]
 
 **所属领域**: [[web]] [[data]]
 

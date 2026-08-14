@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[nvm-sh-nvm]] [[stablyai-orca]] [[holaboss-ai-holaos]]
+[[citrolabs-ego-lite]] [[opencut-app-opencut]] [[paperclipai-paperclip]] [[cursor-plugins]] [[holaboss-ai-holaos]]
 
 **所属领域**: [[web]] [[cli]]
 

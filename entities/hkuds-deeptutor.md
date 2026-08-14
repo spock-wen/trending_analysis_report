@@ -37,7 +37,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[holaboss-ai-holaos]] [[anthropics-skills]]
+[[citrolabs-ego-lite]] [[smicallef-spiderfoot]] [[github-spec-kit]] [[semantica-agi-semantica]] [[cactus-compute-needle]]
 
 **所属领域**: [[web]]
 

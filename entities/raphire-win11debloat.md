@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[msitarzewski-agency-agents]] [[nvm-sh-nvm]] [[paperclipai-paperclip]] [[kepano-obsidian-skills]]
+[[paperclipai-paperclip]] [[kepano-obsidian-skills]] [[nvm-sh-nvm]] [[zhaoxuya520-reverse-skill]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[cli]]
 

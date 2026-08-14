@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[alibaba-open-code-review]] [[msitarzewski-agency-agents]] [[jenkinsci-jenkins]] [[google-guava]]
+[[citrolabs-ego-lite]] [[hugohe3-ppt-master]] [[jenkinsci-jenkins]] [[github-copilot-sdk]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

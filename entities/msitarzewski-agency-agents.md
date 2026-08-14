@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[hkuds-deeptutor]] [[altic-dev-fluidvoice]] [[nvm-sh-nvm]] [[holaboss-ai-holaos]]
+[[citrolabs-ego-lite]] [[macro-inc-macro]] [[obra-superpowers]] [[paperclipai-paperclip]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

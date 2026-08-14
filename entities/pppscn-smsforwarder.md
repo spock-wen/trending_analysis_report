@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[embabel-embabel-agent]] [[bannedbook-fanqiang]] [[holaboss-ai-holaos]]
+[[citrolabs-ego-lite]] [[cathrynlavery-diagram-design]] [[holaboss-ai-holaos]] [[bannedbook-fanqiang]] [[embabel-embabel-agent]]
 
 **所属领域**: [[web]]
 

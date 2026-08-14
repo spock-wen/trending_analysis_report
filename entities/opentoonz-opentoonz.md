@@ -34,5 +34,5 @@ OpenToonz - An open-source full-featured 2D animation creation software
 
 ## 相关项目
 
-[[gabime-spdlog]] [[ladybirdbrowser-ladybird]] [[geo-tp-esp32-bit-pirate]] [[amnezia-vpn-amnezia-client]]
+[[geo-tp-esp32-bit-pirate]] [[ladybirdbrowser-ladybird]] [[amnezia-vpn-amnezia-client]] [[gabime-spdlog]]
 

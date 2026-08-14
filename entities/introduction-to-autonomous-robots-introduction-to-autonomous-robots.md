@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[lightricks-ltx-2]] [[anthropics-skills]] [[msitarzewski-agency-agents]]
+[[citrolabs-ego-lite]] [[cathrynlavery-diagram-design]] [[semantica-agi-semantica]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]]
 

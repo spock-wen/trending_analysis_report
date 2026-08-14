@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[pppscn-smsforwarder]] [[altic-dev-fluidvoice]] [[bannedbook-fanqiang]]
+[[citrolabs-ego-lite]] [[macro-inc-macro]] [[semantica-agi-semantica]] [[pppscn-smsforwarder]] [[bannedbook-fanqiang]]
 
 **所属领域**: [[ai-agent]]
 

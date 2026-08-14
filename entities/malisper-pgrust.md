@@ -35,5 +35,5 @@ Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 
 ## 相关项目
 
-[[nvidia-nemo-switchyard]] [[denoland-celld]] [[ruvnet-ruview]] [[macro-inc-macro]]
+[[rustdesk-rustdesk]] [[nvidia-nemo-switchyard]] [[ruvnet-ruview]] [[macro-inc-macro]]
 

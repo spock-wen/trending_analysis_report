@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[alibaba-open-code-review]] [[opengeos-geolibre]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]]
+[[esengine-deepseek-reasonix]] [[citrolabs-ego-lite]] [[infiniflow-ragflow]] [[hugohe3-ppt-master]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[nvm-sh-nvm]] [[stablyai-orca]] [[holaboss-ai-holaos]] [[kepano-obsidian-skills]]
+[[opencut-app-opencut]] [[paperclipai-paperclip]] [[cursor-plugins]] [[holaboss-ai-holaos]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[pppscn-smsforwarder]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[embabel-embabel-agent]]
+[[citrolabs-ego-lite]] [[cathrynlavery-diagram-design]] [[macro-inc-macro]] [[semantica-agi-semantica]] [[pppscn-smsforwarder]]
 
 **所属领域**: [[ai-agent]]
 

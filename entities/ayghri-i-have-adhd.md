@@ -35,7 +35,7 @@ A skill for your coding agent to stop it from burying the answer. ADHD-friendly 
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[altic-dev-fluidvoice]] [[anthropics-skills]]
+[[citrolabs-ego-lite]] [[smicallef-spiderfoot]] [[github-spec-kit]] [[macro-inc-macro]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[hasaneyldrm-exercises-dataset]] [[altic-dev-fluidvoice]]
+[[citrolabs-ego-lite]] [[macro-inc-macro]] [[hasaneyldrm-exercises-dataset]] [[semantica-agi-semantica]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

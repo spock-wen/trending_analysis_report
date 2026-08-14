@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[lightricks-ltx-2]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]]
+[[citrolabs-ego-lite]] [[smicallef-spiderfoot]] [[github-spec-kit]] [[macro-inc-macro]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

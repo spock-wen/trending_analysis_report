@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[alibaba-open-code-review]] [[semantica-agi-semantica]] [[anthropics-skills]] [[calesthio-openmontage]]
+[[hugohe3-ppt-master]] [[smicallef-spiderfoot]] [[github-spec-kit]] [[semantica-agi-semantica]] [[cactus-compute-needle]]
 
 **所属领域**: [[data]]
 

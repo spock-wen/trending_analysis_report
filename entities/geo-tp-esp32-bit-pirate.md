@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[ladybirdbrowser-ladybird]] [[nvm-sh-nvm]] [[holaboss-ai-holaos]]
+[[citrolabs-ego-lite]] [[paperclipai-paperclip]] [[ladybirdbrowser-ladybird]] [[amnezia-vpn-amnezia-client]] [[holaboss-ai-holaos]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -36,7 +36,7 @@ Orca is the ADE for working with a fleet of parallel agents. Run any coding agen
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[holaboss-ai-holaos]] [[anthropics-skills]]
+[[citrolabs-ego-lite]] [[opencut-app-opencut]] [[macro-inc-macro]] [[semantica-agi-semantica]] [[cursor-plugins]]
 
 **所属领域**: [[ai-agent]]
 

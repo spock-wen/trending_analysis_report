@@ -38,7 +38,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[semantica-agi-semantica]] [[altic-dev-fluidvoice]] [[comfy-org-comfyui]] [[anthropics-skills]]
+[[tooljet-tooljet]] [[infiniflow-ragflow]] [[altic-dev-fluidvoice]] [[smicallef-spiderfoot]] [[github-spec-kit]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

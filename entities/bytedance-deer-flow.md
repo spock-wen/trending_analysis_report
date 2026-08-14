@@ -37,7 +37,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[altic-dev-fluidvoice]]
+[[citrolabs-ego-lite]] [[smicallef-spiderfoot]] [[github-spec-kit]] [[macro-inc-macro]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -35,7 +35,7 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[nvm-sh-nvm]]
+[[citrolabs-ego-lite]] [[opencut-app-opencut]] [[macro-inc-macro]] [[paperclipai-paperclip]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

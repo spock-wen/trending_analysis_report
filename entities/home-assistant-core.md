@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[lightricks-ltx-2]] [[uber-adr]] [[semantica-agi-semantica]] [[affaan-m-ecc]]
+[[smicallef-spiderfoot]] [[github-spec-kit]] [[semantica-agi-semantica]] [[cactus-compute-needle]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[semantica-agi-semantica]] [[donnemartin-system-design-primer]] [[anthropics-skills]] [[kepano-obsidian-skills]]
+[[smicallef-spiderfoot]] [[github-spec-kit]] [[semantica-agi-semantica]] [[cactus-compute-needle]] [[huggingface-transformers]]
 
 **所属领域**: [[education]]
 

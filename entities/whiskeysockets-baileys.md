@@ -34,7 +34,7 @@ Socket-based TS/JavaScript API for WhatsApp Web
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[addyosmani-agent-skills]]
+[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[macro-inc-macro]] [[addyosmani-agent-skills]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

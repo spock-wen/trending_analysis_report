@@ -34,7 +34,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[donnemartin-system-design-primer]] [[nvm-sh-nvm]]
+[[citrolabs-ego-lite]] [[macro-inc-macro]] [[paperclipai-paperclip]] [[semantica-agi-semantica]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

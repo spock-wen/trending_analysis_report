@@ -38,7 +38,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[microsoft-generative-ai-for-beginners]] [[anthropics-skills]]
+[[citrolabs-ego-lite]] [[macro-inc-macro]] [[semantica-agi-semantica]] [[anthropics-claude-cookbooks]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

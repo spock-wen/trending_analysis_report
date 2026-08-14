@@ -35,7 +35,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[semantica-agi-semantica]] [[anthropics-skills]] [[practical-tutorials-project-based-learning]] [[kepano-obsidian-skills]]
+[[smicallef-spiderfoot]] [[github-spec-kit]] [[semantica-agi-semantica]] [[cactus-compute-needle]] [[huggingface-transformers]]
 
 **所属领域**: [[education]]
 

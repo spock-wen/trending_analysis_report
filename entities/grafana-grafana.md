@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[uber-adr]] [[semantica-agi-semantica]] [[ruvnet-ruview]] [[stablyai-orca]]
+[[litu54-devops-interview-guide]] [[hugohe3-ppt-master]] [[opencut-app-opencut]] [[semantica-agi-semantica]] [[uber-adr]]
 
 **所属领域**: [[data]] [[devops]]
 

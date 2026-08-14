@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[lightricks-ltx-2]] [[uber-adr]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]]
+[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[hugohe3-ppt-master]] [[smicallef-spiderfoot]] [[github-spec-kit]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

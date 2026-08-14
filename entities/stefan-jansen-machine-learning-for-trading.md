@@ -35,7 +35,7 @@ Code for Machine Learning for Algorithmic Trading, 2nd edition.
 
 ## 相关项目
 
-[[huggingface-transformers]] [[donnemartin-system-design-primer]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[practical-tutorials-project-based-learning]]
+[[lyogavin-airllm]] [[huggingface-transformers]] [[donnemartin-system-design-primer]] [[anthropics-claude-cookbooks]] [[practical-tutorials-project-based-learning]]
 
 **所属领域**: [[education]]
 

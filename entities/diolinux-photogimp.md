@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[uber-adr]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]] [[holaboss-ai-holaos]]
+[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[hugohe3-ppt-master]] [[obra-superpowers]] [[uber-adr]]
 
 **所属领域**: [[web]] [[erp]]
 

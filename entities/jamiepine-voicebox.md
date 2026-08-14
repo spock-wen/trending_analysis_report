@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[stablyai-orca]] [[holaboss-ai-holaos]]
+[[citrolabs-ego-lite]] [[hugohe3-ppt-master]] [[opencut-app-opencut]] [[macro-inc-macro]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

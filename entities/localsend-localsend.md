@@ -34,7 +34,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[flutter-flutter]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[anthropics-skills]]
+[[citrolabs-ego-lite]] [[macro-inc-macro]] [[flutter-flutter]] [[semantica-agi-semantica]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]]
 

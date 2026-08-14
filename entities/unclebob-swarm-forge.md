@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[anthropics-skills]] [[penpot-penpot]]
+[[citrolabs-ego-lite]] [[macro-inc-macro]] [[semantica-agi-semantica]] [[cathrynlavery-diagram-design]] [[penpot-penpot]]
 
 **所属领域**: [[ai-agent]]
 

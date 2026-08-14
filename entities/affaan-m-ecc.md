@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[lightricks-ltx-2]] [[uber-adr]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]]
+[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[macro-inc-macro]] [[addyosmani-agent-skills]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

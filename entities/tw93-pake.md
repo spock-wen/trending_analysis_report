@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[msitarzewski-agency-agents]] [[nvidia-nemo-switchyard]] [[nvm-sh-nvm]] [[denoland-celld]]
+[[citrolabs-ego-lite]] [[macro-inc-macro]] [[paperclipai-paperclip]] [[rustdesk-rustdesk]] [[holaboss-ai-holaos]]
 
 **所属领域**: [[web]] [[cli]]
 

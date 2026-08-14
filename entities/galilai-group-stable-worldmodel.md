@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[altic-dev-fluidvoice]]
+[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[infiniflow-ragflow]] [[smicallef-spiderfoot]] [[github-spec-kit]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

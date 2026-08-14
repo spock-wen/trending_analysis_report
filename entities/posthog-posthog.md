@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[hkuds-deeptutor]] [[alibaba-open-code-review]] [[uber-adr]] [[msitarzewski-agency-agents]]
+[[citrolabs-ego-lite]] [[litu54-devops-interview-guide]] [[hugohe3-ppt-master]] [[smicallef-spiderfoot]] [[github-spec-kit]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[stablyai-orca]] [[comfy-org-comfyui]]
+[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[infiniflow-ragflow]] [[opencut-app-opencut]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

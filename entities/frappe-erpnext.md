@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[uber-adr]] [[semantica-agi-semantica]] [[openinterpreter-openinterpreter]] [[anthropics-skills]]
+[[tooljet-tooljet]] [[hugohe3-ppt-master]] [[smicallef-spiderfoot]] [[github-spec-kit]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

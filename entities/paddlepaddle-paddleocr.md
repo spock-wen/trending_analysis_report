@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[alibaba-open-code-review]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[altic-dev-fluidvoice]]
+[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[hugohe3-ppt-master]] [[infiniflow-ragflow]] [[smicallef-spiderfoot]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

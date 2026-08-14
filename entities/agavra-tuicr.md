@@ -35,5 +35,5 @@ a code review TUI with vim keybindings
 
 ## 相关项目
 
-[[nvidia-nemo-switchyard]] [[denoland-celld]] [[ruvnet-ruview]] [[macro-inc-macro]]
+[[rustdesk-rustdesk]] [[nvidia-nemo-switchyard]] [[ruvnet-ruview]] [[macro-inc-macro]]
 

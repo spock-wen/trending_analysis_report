@@ -34,5 +34,5 @@ Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engi
 
 ## 相关项目
 
-[[nvidia-nemo-switchyard]] [[denoland-celld]] [[ruvnet-ruview]] [[macro-inc-macro]]
+[[rustdesk-rustdesk]] [[nvidia-nemo-switchyard]] [[ruvnet-ruview]] [[macro-inc-macro]]
 

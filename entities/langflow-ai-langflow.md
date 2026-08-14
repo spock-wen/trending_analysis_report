@@ -34,7 +34,7 @@ Langflow is a powerful tool for building and deploying AI-powered agents and wor
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[uber-adr]] [[msitarzewski-agency-agents]] [[semantica-agi-semantica]] [[altic-dev-fluidvoice]]
+[[citrolabs-ego-lite]] [[litu54-devops-interview-guide]] [[smicallef-spiderfoot]] [[github-spec-kit]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -38,5 +38,5 @@ Kronos: A Foundation Model for the Language of Financial Markets
 
 ## 相关项目
 
-[[semantica-agi-semantica]] [[lightricks-ltx-2]] [[smicallef-spiderfoot]] [[anthropics-skills]]
+[[semantica-agi-semantica]] [[cactus-compute-needle]] [[smicallef-spiderfoot]] [[github-spec-kit]]
 

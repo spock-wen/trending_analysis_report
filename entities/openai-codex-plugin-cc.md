@@ -38,7 +38,7 @@ Use Codex from Claude Code to review code or delegate tasks.
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[addyosmani-agent-skills]] [[affaan-m-ecc]]
+[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[macro-inc-macro]] [[addyosmani-agent-skills]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]]
 

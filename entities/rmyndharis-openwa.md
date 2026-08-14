@@ -36,5 +36,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[stablyai-orca]] [[lightningpixel-modly]] [[holaboss-ai-holaos]] [[paperclipai-paperclip]]
+[[holaboss-ai-holaos]] [[opencut-app-opencut]] [[lightningpixel-modly]] [[cursor-plugins]]
 

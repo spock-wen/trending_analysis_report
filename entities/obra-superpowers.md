@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[uber-adr]] [[msitarzewski-agency-agents]] [[altic-dev-fluidvoice]] [[nvm-sh-nvm]]
+[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[hugohe3-ppt-master]] [[macro-inc-macro]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

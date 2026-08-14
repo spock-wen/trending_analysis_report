@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[nvm-sh-nvm]] [[chenyme-grok2api]] [[esengine-deepseek-reasonix]] [[paperclipai-paperclip]]
+[[esengine-deepseek-reasonix]] [[infiniflow-ragflow]] [[pranshuparmar-witr]] [[chenyme-grok2api]] [[paperclipai-paperclip]]
 
 **所属领域**: [[cli]]
 

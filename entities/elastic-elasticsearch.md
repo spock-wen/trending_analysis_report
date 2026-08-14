@@ -34,5 +34,5 @@ Free and Open Source, Distributed, RESTful Search Engine
 
 ## 相关项目
 
-[[apache-cassandra]] [[github-copilot-sdk]] [[jenkinsci-jenkins]] [[google-guava]]
+[[google-guava]] [[apache-cassandra]] [[jenkinsci-jenkins]] [[github-copilot-sdk]]
 

@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[smicallef-spiderfoot]] [[github-spec-kit]] [[macro-inc-macro]] [[semantica-agi-semantica]]
+[[cathrynlavery-diagram-design]] [[affaan-m-ecc]] [[unslothai-unsloth]] [[cactus-compute-needle]] [[amnezia-vpn-amnezia-client]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

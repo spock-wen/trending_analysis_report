@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[litu54-devops-interview-guide]] [[tooljet-tooljet]] [[hugohe3-ppt-master]] [[macro-inc-macro]]
+[[hkuds-cli-anything]] [[donnemartin-system-design-primer]] [[practical-tutorials-project-based-learning]] [[altic-dev-fluidvoice]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

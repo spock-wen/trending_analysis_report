@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[altic-dev-fluidvoice]] [[smicallef-spiderfoot]] [[github-spec-kit]] [[paperclipai-paperclip]]
+[[lightricks-ltx-2]] [[altic-dev-fluidvoice]] [[huggingface-transformers]] [[msitarzewski-agency-agents]] [[unslothai-unsloth]]
 
 **所属领域**: [[cli]] [[audio]]
 

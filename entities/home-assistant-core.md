@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[smicallef-spiderfoot]] [[github-spec-kit]] [[semantica-agi-semantica]] [[cactus-compute-needle]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[unslothai-unsloth]] [[amnezia-vpn-amnezia-client]] [[hkuds-cli-anything]] [[github-spec-kit]]
 
 **所属领域**: [[security]]
 

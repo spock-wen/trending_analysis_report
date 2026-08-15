@@ -36,7 +36,7 @@ Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[semantica-agi-semantica]] [[rustdesk-rustdesk]] [[ruvnet-ruview]] [[cathrynlavery-diagram-design]]
+[[rustdesk-rustdesk]] [[cathrynlavery-diagram-design]] [[nvidia-nemo-switchyard]] [[hkuds-cli-anything]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[ai-agent]]
 

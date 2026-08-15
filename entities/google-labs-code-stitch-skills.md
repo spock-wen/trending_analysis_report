@@ -35,7 +35,7 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[opencut-app-opencut]] [[macro-inc-macro]] [[paperclipai-paperclip]] [[semantica-agi-semantica]]
+[[cathrynlavery-diagram-design]] [[altic-dev-fluidvoice]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

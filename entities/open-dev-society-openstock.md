@@ -34,7 +34,7 @@ OpenStock is an open-source alternative to expensive market platforms. Track rea
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[opencut-app-opencut]] [[macro-inc-macro]] [[semantica-agi-semantica]] [[cursor-plugins]]
+[[cathrynlavery-diagram-design]] [[altic-dev-fluidvoice]] [[opencut-app-opencut]] [[hkuds-cli-anything]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[ai-agent]]
 

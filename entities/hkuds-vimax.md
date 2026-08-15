@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[infiniflow-ragflow]] [[smicallef-spiderfoot]] [[github-spec-kit]]
+[[tooljet-tooljet]] [[cathrynlavery-diagram-design]] [[unslothai-unsloth]] [[cactus-compute-needle]] [[infiniflow-ragflow]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

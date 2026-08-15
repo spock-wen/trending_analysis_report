@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[macro-inc-macro]] [[lyogavin-airllm]] [[semantica-agi-semantica]] [[huggingface-transformers]]
+[[lyogavin-airllm]] [[cathrynlavery-diagram-design]] [[huggingface-transformers]] [[anthropics-claude-cookbooks]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[macro-inc-macro]] [[affaan-m-ecc]] [[uber-adr]] [[amnezia-vpn-amnezia-client]] [[rustdesk-rustdesk]]
+[[rustdesk-rustdesk]] [[macro-inc-macro]] [[nvidia-nemo-switchyard]] [[affaan-m-ecc]] [[amnezia-vpn-amnezia-client]]
 
 **所属领域**: [[security]]
 

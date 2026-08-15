@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[hugohe3-ppt-master]] [[obra-superpowers]] [[uber-adr]]
+[[tooljet-tooljet]] [[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[uber-adr]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[erp]]
 

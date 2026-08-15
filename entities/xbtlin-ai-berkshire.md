@@ -38,7 +38,7 @@ AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框�
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[smicallef-spiderfoot]] [[github-spec-kit]] [[macro-inc-macro]] [[semantica-agi-semantica]]
+[[cathrynlavery-diagram-design]] [[mvanhorn-last30days-skill]] [[unslothai-unsloth]] [[cactus-compute-needle]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -38,5 +38,5 @@ The open-source CapCut alternative
 
 ## 相关项目
 
-[[holaboss-ai-holaos]] [[lightningpixel-modly]] [[cursor-plugins]]
+[[cordiverse-cordis]] [[holaboss-ai-holaos]] [[cursor-plugins]]
 

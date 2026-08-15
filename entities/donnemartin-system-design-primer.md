@@ -35,7 +35,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[smicallef-spiderfoot]] [[github-spec-kit]] [[semantica-agi-semantica]] [[cactus-compute-needle]] [[huggingface-transformers]]
+[[huggingface-transformers]] [[unslothai-unsloth]] [[kepano-obsidian-skills]] [[hkuds-cli-anything]] [[github-spec-kit]]
 
 **所属领域**: [[education]]
 

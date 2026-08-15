@@ -34,7 +34,7 @@ Toolkit for linearizing PDFs for LLM datasets/training
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[hugohe3-ppt-master]] [[smicallef-spiderfoot]] [[github-spec-kit]] [[macro-inc-macro]]
+[[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[alibaba-open-code-review]] [[calesthio-openmontage]] [[unslothai-unsloth]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[infiniflow-ragflow]] [[opencut-app-opencut]] [[macro-inc-macro]]
+[[tooljet-tooljet]] [[cathrynlavery-diagram-design]] [[altic-dev-fluidvoice]] [[unslothai-unsloth]] [[infiniflow-ragflow]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

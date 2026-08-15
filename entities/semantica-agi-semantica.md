@@ -38,7 +38,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[litu54-devops-interview-guide]] [[smicallef-spiderfoot]] [[github-spec-kit]] [[macro-inc-macro]]
+[[uber-adr]] [[cathrynlavery-diagram-design]] [[unslothai-unsloth]] [[cactus-compute-needle]] [[litu54-devops-interview-guide]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

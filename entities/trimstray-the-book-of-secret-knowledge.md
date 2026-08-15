@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[paperclipai-paperclip]] [[holaboss-ai-holaos]] [[kepano-obsidian-skills]] [[nvm-sh-nvm]]
+[[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[kepano-obsidian-skills]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[cli]]
 

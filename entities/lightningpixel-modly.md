@@ -35,17 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[infiniflow-ragflow]] [[opencut-app-opencut]] [[macro-inc-macro]]
+[[tooljet-tooljet]] [[cathrynlavery-diagram-design]] [[altic-dev-fluidvoice]] [[unslothai-unsloth]] [[infiniflow-ragflow]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
-
-
-## ⚠️ 描述变更（2026-08-15）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: Desktop app to generate 3D models from images using local AI — runs entirely on your GPU
-- **新描述**: Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

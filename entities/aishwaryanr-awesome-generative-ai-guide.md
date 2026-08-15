@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[macro-inc-macro]] [[hasaneyldrm-exercises-dataset]] [[paperclipai-paperclip]] [[semantica-agi-semantica]]
+[[trycua-cua]] [[cathrynlavery-diagram-design]] [[mvanhorn-last30days-skill]] [[hasaneyldrm-exercises-dataset]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[opencut-app-opencut]] [[paperclipai-paperclip]] [[cursor-plugins]] [[holaboss-ai-holaos]] [[kepano-obsidian-skills]]
+[[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[kepano-obsidian-skills]] [[opencut-app-opencut]] [[hkuds-cli-anything]]
 
 **所属领域**: [[cli]]
 

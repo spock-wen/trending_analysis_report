@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[smicallef-spiderfoot]] [[github-spec-kit]] [[paperclipai-paperclip]] [[semantica-agi-semantica]] [[cactus-compute-needle]]
+[[msitarzewski-agency-agents]] [[unslothai-unsloth]] [[paperclipai-paperclip]] [[kepano-obsidian-skills]] [[hkuds-cli-anything]]
 
 **所属领域**: [[cli]]
 

@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[webpack-webpack]] [[addyosmani-agent-skills]]
+[[webpack-webpack]] [[tooljet-tooljet]] [[citrolabs-ego-lite]] [[addyosmani-agent-skills]]
 

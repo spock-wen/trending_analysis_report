@@ -34,7 +34,7 @@ The easiest, most secure way to use WireGuard and 2FA.
 
 ## 相关项目
 
-[[esengine-deepseek-reasonix]] [[citrolabs-ego-lite]] [[infiniflow-ragflow]] [[macro-inc-macro]] [[pranshuparmar-witr]]
+[[cathrynlavery-diagram-design]] [[chenyme-grok2api]] [[infiniflow-ragflow]] [[pranshuparmar-witr]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

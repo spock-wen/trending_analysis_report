@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[hasaneyldrm-exercises-dataset]] [[trycua-cua]] [[holaboss-ai-holaos]] [[pkuflyingpig-cs-self-learning]]
+[[trycua-cua]] [[cathrynlavery-diagram-design]] [[hasaneyldrm-exercises-dataset]] [[pkuflyingpig-cs-self-learning]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

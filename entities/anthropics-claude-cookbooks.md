@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[macro-inc-macro]] [[lyogavin-airllm]] [[semantica-agi-semantica]] [[microsoft-ai-for-beginners]]
+[[lyogavin-airllm]] [[cathrynlavery-diagram-design]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

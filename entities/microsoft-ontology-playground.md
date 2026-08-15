@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[opencut-app-opencut]] [[huggingface-transformers]] [[donnemartin-system-design-primer]] [[cursor-plugins]]
+[[cathrynlavery-diagram-design]] [[altic-dev-fluidvoice]] [[huggingface-transformers]] [[practical-tutorials-project-based-learning]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[web]] [[education]]
 

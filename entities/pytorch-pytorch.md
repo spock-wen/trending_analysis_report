@@ -35,5 +35,5 @@ Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## 相关项目
 
-[[semantica-agi-semantica]] [[cactus-compute-needle]] [[smicallef-spiderfoot]] [[github-spec-kit]]
+[[github-spec-kit]] [[unslothai-unsloth]] [[cactus-compute-needle]] [[hkuds-cli-anything]]
 

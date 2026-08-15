@@ -34,7 +34,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[esengine-deepseek-reasonix]] [[citrolabs-ego-lite]] [[infiniflow-ragflow]] [[macro-inc-macro]] [[pranshuparmar-witr]]
+[[cathrynlavery-diagram-design]] [[chenyme-grok2api]] [[infiniflow-ragflow]] [[pranshuparmar-witr]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,5 +35,5 @@ A self-hosted travel/trip planner with real-time collaboration, interactive maps
 
 ## 相关项目
 
-[[holaboss-ai-holaos]] [[opencut-app-opencut]] [[lightningpixel-modly]] [[cursor-plugins]]
+[[opencut-app-opencut]] [[cordiverse-cordis]] [[holaboss-ai-holaos]] [[cursor-plugins]]
 

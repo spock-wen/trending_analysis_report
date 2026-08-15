@@ -1,7 +1,7 @@
 ---
 title: "erp"
 created: 2026-05-20
-updated: 2026-08-15
+updated: 2026-08-16
 type: concept
 tags: [erp]
 confidence: medium

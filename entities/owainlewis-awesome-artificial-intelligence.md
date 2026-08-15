@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[macro-inc-macro]] [[paperclipai-paperclip]] [[semantica-agi-semantica]] [[mvanhorn-last30days-skill]]
+[[cathrynlavery-diagram-design]] [[mvanhorn-last30days-skill]] [[huggingface-transformers]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

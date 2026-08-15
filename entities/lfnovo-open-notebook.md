@@ -37,5 +37,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[holaboss-ai-holaos]] [[opencut-app-opencut]] [[lightningpixel-modly]] [[cursor-plugins]]
+[[opencut-app-opencut]] [[cordiverse-cordis]] [[holaboss-ai-holaos]] [[cursor-plugins]]
 

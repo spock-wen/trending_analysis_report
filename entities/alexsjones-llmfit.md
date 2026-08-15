@@ -34,7 +34,7 @@ Hundreds of models & providers. One command to find what runs on your hardware.
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[macro-inc-macro]] [[paperclipai-paperclip]] [[semantica-agi-semantica]] [[rustdesk-rustdesk]]
+[[rustdesk-rustdesk]] [[cathrynlavery-diagram-design]] [[macro-inc-macro]] [[nvidia-nemo-switchyard]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

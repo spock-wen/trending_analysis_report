@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[altic-dev-fluidvoice]] [[macro-inc-macro]] [[semantica-agi-semantica]] [[jaywcjlove-awesome-mac]]
+[[cathrynlavery-diagram-design]] [[palmier-io-palmier-pro]] [[permissionlesstech-bitchat]] [[jaywcjlove-awesome-mac]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

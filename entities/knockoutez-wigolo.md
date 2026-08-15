@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[opencut-app-opencut]] [[macro-inc-macro]] [[paperclipai-paperclip]] [[semantica-agi-semantica]]
+[[cathrynlavery-diagram-design]] [[altic-dev-fluidvoice]] [[mvanhorn-last30days-skill]] [[tauricresearch-tradingagents]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

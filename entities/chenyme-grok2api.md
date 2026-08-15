@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[esengine-deepseek-reasonix]] [[citrolabs-ego-lite]] [[infiniflow-ragflow]] [[pranshuparmar-witr]] [[paperclipai-paperclip]]
+[[cathrynlavery-diagram-design]] [[infiniflow-ragflow]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

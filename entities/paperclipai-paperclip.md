@@ -36,7 +36,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[opencut-app-opencut]] [[macro-inc-macro]] [[semantica-agi-semantica]] [[mvanhorn-last30days-skill]]
+[[cathrynlavery-diagram-design]] [[altic-dev-fluidvoice]] [[mvanhorn-last30days-skill]] [[tauricresearch-tradingagents]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

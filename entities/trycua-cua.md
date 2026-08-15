@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[hugohe3-ppt-master]] [[infiniflow-ragflow]] [[macro-inc-macro]]
+[[tooljet-tooljet]] [[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[hasaneyldrm-exercises-dataset]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

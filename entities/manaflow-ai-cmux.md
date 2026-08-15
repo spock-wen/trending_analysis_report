@@ -36,7 +36,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[altic-dev-fluidvoice]] [[macro-inc-macro]] [[paperclipai-paperclip]] [[semantica-agi-semantica]]
+[[cathrynlavery-diagram-design]] [[palmier-io-palmier-pro]] [[permissionlesstech-bitchat]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

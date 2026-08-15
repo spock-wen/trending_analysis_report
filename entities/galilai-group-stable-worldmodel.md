@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[infiniflow-ragflow]] [[smicallef-spiderfoot]] [[github-spec-kit]]
+[[tooljet-tooljet]] [[cathrynlavery-diagram-design]] [[mvanhorn-last30days-skill]] [[unslothai-unsloth]] [[cactus-compute-needle]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

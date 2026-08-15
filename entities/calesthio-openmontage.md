@@ -38,7 +38,7 @@ World's first open-source, agentic video production system. 12 production pipeli
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[hugohe3-ppt-master]] [[smicallef-spiderfoot]] [[github-spec-kit]] [[macro-inc-macro]]
+[[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[alibaba-open-code-review]] [[unslothai-unsloth]] [[cactus-compute-needle]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

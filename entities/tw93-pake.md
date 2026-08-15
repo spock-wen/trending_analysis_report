@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[macro-inc-macro]] [[paperclipai-paperclip]] [[rustdesk-rustdesk]] [[holaboss-ai-holaos]]
+[[rustdesk-rustdesk]] [[cathrynlavery-diagram-design]] [[macro-inc-macro]] [[nvidia-nemo-switchyard]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]] [[cli]]
 

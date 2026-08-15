@@ -37,7 +37,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[hugohe3-ppt-master]] [[macro-inc-macro]] [[obra-superpowers]]
+[[tooljet-tooljet]] [[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[obra-superpowers]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

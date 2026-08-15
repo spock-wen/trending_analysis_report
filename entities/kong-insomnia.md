@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[opencut-app-opencut]] [[paperclipai-paperclip]] [[cursor-plugins]] [[holaboss-ai-holaos]]
+[[cathrynlavery-diagram-design]] [[altic-dev-fluidvoice]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[macro-inc-macro]] [[semantica-agi-semantica]] [[rustdesk-rustdesk]] [[ruvnet-ruview]]
+[[rustdesk-rustdesk]] [[cathrynlavery-diagram-design]] [[macro-inc-macro]] [[nvidia-nemo-switchyard]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

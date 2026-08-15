@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[cathrynlavery-diagram-design]] [[semantica-agi-semantica]] [[macro-inc-macro]]
+[[cathrynlavery-diagram-design]] [[citrolabs-ego-lite]] [[altic-dev-fluidvoice]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

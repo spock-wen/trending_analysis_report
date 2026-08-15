@@ -34,5 +34,5 @@ b站会员购购票辅助工具
 
 ## 相关项目
 
-[[semantica-agi-semantica]] [[cactus-compute-needle]] [[smicallef-spiderfoot]] [[github-spec-kit]]
+[[github-spec-kit]] [[unslothai-unsloth]] [[cactus-compute-needle]] [[hkuds-cli-anything]]
 

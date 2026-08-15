@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[macro-inc-macro]] [[addyosmani-agent-skills]] [[paperclipai-paperclip]]
+[[tooljet-tooljet]] [[cathrynlavery-diagram-design]] [[mvanhorn-last30days-skill]] [[tauricresearch-tradingagents]] [[webpack-webpack]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

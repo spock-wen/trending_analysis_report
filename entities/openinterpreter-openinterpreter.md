@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[hugohe3-ppt-master]] [[macro-inc-macro]] [[obra-superpowers]]
+[[tooljet-tooljet]] [[rustdesk-rustdesk]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

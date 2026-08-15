@@ -37,7 +37,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[smicallef-spiderfoot]] [[github-spec-kit]] [[macro-inc-macro]] [[semantica-agi-semantica]]
+[[cathrynlavery-diagram-design]] [[mvanhorn-last30days-skill]] [[unslothai-unsloth]] [[cactus-compute-needle]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

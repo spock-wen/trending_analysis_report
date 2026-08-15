@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[par274-sharpemu]] [[citrolabs-ego-lite]] [[macro-inc-macro]] [[semantica-agi-semantica]] [[dotnet-aspnetcore]]
+[[cathrynlavery-diagram-design]] [[k1tbyte-wand-enhancer]] [[jellyfin-jellyfin]] [[par274-sharpemu]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

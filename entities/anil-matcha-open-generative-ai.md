@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[infiniflow-ragflow]] [[macro-inc-macro]] [[addyosmani-agent-skills]]
+[[tooljet-tooljet]] [[cathrynlavery-diagram-design]] [[webpack-webpack]] [[unslothai-unsloth]] [[infiniflow-ragflow]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

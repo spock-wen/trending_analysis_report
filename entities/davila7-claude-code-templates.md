@@ -36,7 +36,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[litu54-devops-interview-guide]] [[smicallef-spiderfoot]] [[github-spec-kit]] [[macro-inc-macro]]
+[[semantica-agi-semantica]] [[uber-adr]] [[cathrynlavery-diagram-design]] [[unslothai-unsloth]] [[cactus-compute-needle]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

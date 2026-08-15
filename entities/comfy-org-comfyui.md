@@ -35,7 +35,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[infiniflow-ragflow]] [[smicallef-spiderfoot]] [[github-spec-kit]] [[unslothai-unsloth]]
+[[tooljet-tooljet]] [[unslothai-unsloth]] [[infiniflow-ragflow]] [[lightningpixel-modly]] [[hkuds-cli-anything]]
 
 **所属领域**: [[image-gen]]
 

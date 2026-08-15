@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[macro-inc-macro]] [[obra-superpowers]] [[paperclipai-paperclip]] [[semantica-agi-semantica]]
+[[cathrynlavery-diagram-design]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

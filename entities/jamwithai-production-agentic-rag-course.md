@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[smicallef-spiderfoot]] [[github-spec-kit]] [[macro-inc-macro]] [[semantica-agi-semantica]]
+[[cathrynlavery-diagram-design]] [[huggingface-transformers]] [[unslothai-unsloth]] [[cactus-compute-needle]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

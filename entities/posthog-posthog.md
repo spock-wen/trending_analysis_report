@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[litu54-devops-interview-guide]] [[hugohe3-ppt-master]] [[smicallef-spiderfoot]] [[github-spec-kit]]
+[[semantica-agi-semantica]] [[uber-adr]] [[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

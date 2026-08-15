@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[macro-inc-macro]] [[opengeos-geolibre]] [[rustdesk-rustdesk]] [[ruvnet-ruview]]
+[[rustdesk-rustdesk]] [[macro-inc-macro]] [[nvidia-nemo-switchyard]] [[alibaba-open-code-review]] [[calesthio-openmontage]]
 
 **所属领域**: [[data]]
 

@@ -37,7 +37,7 @@ Build local voice agents with open-source models
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[hugohe3-ppt-master]] [[altic-dev-fluidvoice]] [[smicallef-spiderfoot]] [[github-spec-kit]]
+[[lightricks-ltx-2]] [[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[huggingface-transformers]] [[unslothai-unsloth]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

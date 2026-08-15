@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[infiniflow-ragflow]] [[unslothai-unsloth]] [[hasaneyldrm-exercises-dataset]]
+[[trycua-cua]] [[tooljet-tooljet]] [[cathrynlavery-diagram-design]] [[hasaneyldrm-exercises-dataset]] [[unslothai-unsloth]]
 
 **所属领域**: [[web]] [[image-gen]]
 

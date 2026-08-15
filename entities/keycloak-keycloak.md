@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[jenkinsci-jenkins]] [[github-copilot-sdk]] [[apache-cassandra]] [[uber-adr]] [[affaan-m-ecc]]
+[[apache-cassandra]] [[github-copilot-sdk]] [[affaan-m-ecc]] [[amnezia-vpn-amnezia-client]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[security]]
 

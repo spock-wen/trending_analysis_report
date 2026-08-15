@@ -38,7 +38,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[macro-inc-macro]] [[semantica-agi-semantica]] [[anthropics-claude-cookbooks]] [[microsoft-ai-for-beginners]]
+[[cathrynlavery-diagram-design]] [[microsoft-ai-for-beginners]] [[anthropics-claude-cookbooks]] [[microsoft-generative-ai-for-beginners]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

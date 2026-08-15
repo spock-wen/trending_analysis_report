@@ -34,7 +34,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[macro-inc-macro]] [[flutter-flutter]] [[semantica-agi-semantica]] [[chen08209-flclash]]
+[[cathrynlavery-diagram-design]] [[chen08209-flclash]] [[flutter-flutter]] [[hkuds-cli-anything]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[ai-agent]]
 

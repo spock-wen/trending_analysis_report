@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[macro-inc-macro]] [[semantica-agi-semantica]] [[cathrynlavery-diagram-design]] [[penpot-penpot]]
+[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[citrolabs-ego-lite]] [[penpot-penpot]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]]
 

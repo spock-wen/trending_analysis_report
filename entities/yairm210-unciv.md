@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[cathrynlavery-diagram-design]] [[macro-inc-macro]] [[semantica-agi-semantica]] [[pppscn-smsforwarder]]
+[[cathrynlavery-diagram-design]] [[bannedbook-fanqiang]] [[hkuds-cli-anything]] [[embabel-embabel-agent]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[ai-agent]]
 

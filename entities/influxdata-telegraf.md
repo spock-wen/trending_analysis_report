@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[esengine-deepseek-reasonix]] [[citrolabs-ego-lite]] [[infiniflow-ragflow]] [[hugohe3-ppt-master]] [[macro-inc-macro]]
+[[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[alibaba-open-code-review]] [[chenyme-grok2api]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

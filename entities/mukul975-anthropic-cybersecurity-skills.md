@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[smicallef-spiderfoot]] [[github-spec-kit]] [[macro-inc-macro]] [[semantica-agi-semantica]]
+[[cathrynlavery-diagram-design]] [[affaan-m-ecc]] [[unslothai-unsloth]] [[cactus-compute-needle]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

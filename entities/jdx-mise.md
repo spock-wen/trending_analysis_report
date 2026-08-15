@@ -34,5 +34,5 @@ dev tools, env vars, task runner
 
 ## 相关项目
 
-[[rustdesk-rustdesk]] [[nvidia-nemo-switchyard]] [[ruvnet-ruview]] [[macro-inc-macro]]
+[[rustdesk-rustdesk]] [[ruvnet-ruview]] [[macro-inc-macro]] [[nvidia-nemo-switchyard]]
 

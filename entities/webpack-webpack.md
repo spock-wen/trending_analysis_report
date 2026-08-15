@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[infiniflow-ragflow]] [[unslothai-unsloth]] [[addyosmani-agent-skills]]
+[[tooljet-tooljet]] [[cathrynlavery-diagram-design]] [[unslothai-unsloth]] [[infiniflow-ragflow]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[web]] [[image-gen]]
 

@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[hugohe3-ppt-master]] [[infiniflow-ragflow]] [[smicallef-spiderfoot]]
+[[tooljet-tooljet]] [[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[alibaba-open-code-review]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

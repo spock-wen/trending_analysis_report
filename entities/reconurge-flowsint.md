@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[opencut-app-opencut]] [[affaan-m-ecc]] [[uber-adr]] [[amnezia-vpn-amnezia-client]] [[cursor-plugins]]
+[[affaan-m-ecc]] [[amnezia-vpn-amnezia-client]] [[zhaoxuya520-reverse-skill]] [[opencut-app-opencut]] [[uber-adr]]
 
 **所属领域**: [[security]]
 

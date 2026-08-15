@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[hugohe3-ppt-master]] [[macro-inc-macro]] [[semantica-agi-semantica]] [[trycua-cua]]
+[[trycua-cua]] [[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[alibaba-open-code-review]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

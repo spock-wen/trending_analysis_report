@@ -35,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[par274-sharpemu]] [[paperclipai-paperclip]] [[dotnet-aspnetcore]] [[kepano-obsidian-skills]] [[nvm-sh-nvm]]
+[[k1tbyte-wand-enhancer]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[jellyfin-jellyfin]] [[par274-sharpemu]]
 
 **所属领域**: [[cli]]
 

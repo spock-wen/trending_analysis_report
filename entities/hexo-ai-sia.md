@@ -34,7 +34,7 @@ SIA is a Self Improving AI framework to autonomously improve the performance of 
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[smicallef-spiderfoot]] [[github-spec-kit]] [[macro-inc-macro]] [[semantica-agi-semantica]]
+[[cathrynlavery-diagram-design]] [[unslothai-unsloth]] [[cactus-compute-needle]] [[hkuds-cli-anything]] [[github-spec-kit]]
 
 **所属领域**: [[ai-agent]]
 

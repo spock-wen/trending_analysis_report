@@ -34,7 +34,7 @@ Node Version Manager - POSIX-compliant bash script to manage multiple active nod
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[obra-superpowers]] [[mattpocock-skills]] [[kepano-obsidian-skills]] [[msitarzewski-agency-agents]]
+[[mattpocock-skills]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[cli]]
 

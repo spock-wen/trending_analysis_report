@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[smicallef-spiderfoot]] [[github-spec-kit]] [[semantica-agi-semantica]] [[cactus-compute-needle]]
+[[alibaba-open-code-review]] [[calesthio-openmontage]] [[unslothai-unsloth]] [[opengeos-geolibre]] [[hkuds-cli-anything]]
 
 **所属领域**: [[data]]
 

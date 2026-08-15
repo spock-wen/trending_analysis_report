@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[raphire-win11debloat]] [[macro-inc-macro]] [[paperclipai-paperclip]] [[semantica-agi-semantica]]
+[[cathrynlavery-diagram-design]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

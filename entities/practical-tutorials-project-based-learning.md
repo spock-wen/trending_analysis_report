@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[smicallef-spiderfoot]] [[github-spec-kit]] [[semantica-agi-semantica]] [[cactus-compute-needle]] [[huggingface-transformers]]
+[[huggingface-transformers]] [[unslothai-unsloth]] [[kepano-obsidian-skills]] [[hkuds-cli-anything]] [[donnemartin-system-design-primer]]
 
 **所属领域**: [[education]]
 

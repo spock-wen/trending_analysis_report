@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[macro-inc-macro]] [[semantica-agi-semantica]] [[webpack-webpack]]
+[[tooljet-tooljet]] [[cathrynlavery-diagram-design]] [[webpack-webpack]] [[hkuds-cli-anything]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[ai-agent]]
 

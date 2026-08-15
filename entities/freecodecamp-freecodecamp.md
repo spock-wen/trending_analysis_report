@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[opencut-app-opencut]] [[huggingface-transformers]] [[donnemartin-system-design-primer]] [[cursor-plugins]] [[practical-tutorials-project-based-learning]]
+[[huggingface-transformers]] [[practical-tutorials-project-based-learning]] [[kepano-obsidian-skills]] [[opencut-app-opencut]] [[donnemartin-system-design-primer]]
 
 **所属领域**: [[education]]
 

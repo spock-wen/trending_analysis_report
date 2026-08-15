@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[smicallef-spiderfoot]] [[github-spec-kit]] [[semantica-agi-semantica]] [[cactus-compute-needle]]
+[[cathrynlavery-diagram-design]] [[unslothai-unsloth]] [[cactus-compute-needle]] [[hkuds-cli-anything]] [[github-spec-kit]]
 
 **所属领域**: [[web]]
 

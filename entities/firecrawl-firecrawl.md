@@ -36,7 +36,7 @@ The context API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[opencut-app-opencut]] [[cursor-plugins]] [[holaboss-ai-holaos]] [[cathrynlavery-diagram-design]]
+[[cathrynlavery-diagram-design]] [[altic-dev-fluidvoice]] [[opencut-app-opencut]] [[hkuds-cli-anything]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[web]]
 

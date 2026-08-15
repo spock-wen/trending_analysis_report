@@ -37,7 +37,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[macro-inc-macro]] [[addyosmani-agent-skills]] [[semantica-agi-semantica]]
+[[tooljet-tooljet]] [[cathrynlavery-diagram-design]] [[webpack-webpack]] [[addyosmani-agent-skills]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

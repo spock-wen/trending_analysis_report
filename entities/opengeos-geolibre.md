@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[hugohe3-ppt-master]] [[opencut-app-opencut]] [[cursor-plugins]] [[calesthio-openmontage]]
+[[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[altic-dev-fluidvoice]] [[alibaba-open-code-review]] [[calesthio-openmontage]]
 
 **所属领域**: [[web]] [[data]]
 

@@ -35,7 +35,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[amnezia-vpn-amnezia-client]] [[geo-tp-esp32-bit-pirate]] [[holaboss-ai-holaos]] [[cathrynlavery-diagram-design]]
+[[cathrynlavery-diagram-design]] [[amnezia-vpn-amnezia-client]] [[gabime-spdlog]] [[geo-tp-esp32-bit-pirate]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

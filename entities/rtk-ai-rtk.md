@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[macro-inc-macro]] [[paperclipai-paperclip]] [[semantica-agi-semantica]] [[rustdesk-rustdesk]]
+[[rustdesk-rustdesk]] [[cathrynlavery-diagram-design]] [[macro-inc-macro]] [[nvidia-nemo-switchyard]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

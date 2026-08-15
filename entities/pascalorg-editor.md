@@ -37,5 +37,5 @@ Create and share 3D architectural projects.
 
 ## 相关项目
 
-[[holaboss-ai-holaos]] [[opencut-app-opencut]] [[lightningpixel-modly]] [[cursor-plugins]]
+[[opencut-app-opencut]] [[cordiverse-cordis]] [[holaboss-ai-holaos]] [[cursor-plugins]]
 

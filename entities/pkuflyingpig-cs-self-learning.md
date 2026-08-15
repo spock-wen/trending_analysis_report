@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[hasaneyldrm-exercises-dataset]] [[huggingface-transformers]] [[donnemartin-system-design-primer]] [[trycua-cua]]
+[[trycua-cua]] [[cathrynlavery-diagram-design]] [[hasaneyldrm-exercises-dataset]] [[huggingface-transformers]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[web]] [[education]]
 

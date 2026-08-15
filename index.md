@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-08-15 | 总页面：481
+> 最后更新：2026-08-16 | 总页面：484
 
 ## Entities
 
@@ -90,7 +90,7 @@
 - [[chrislgarry-apollo-11|Apollo-11"]] — Original Apollo 11 Guidance Computer (AGC) source code for t... 🔥
 - [[chromedevtools-chrome-devtools-mcp|chrome-devtools-mcp"]] — Chrome DevTools for coding agents
 - [[chthollyphile-folia-major|folia-major"]] — 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
-- [[citrolabs-ego-lite|ego-lite"]] — The fastest browser for AI agents to run browser automation,...
+- [[citrolabs-ego-lite|ego-lite"]] — The fastest browser for AI agents to run browser automation,... 🆕
 - [[cloakhq-cloakbrowser|CloakBrowser"]] — Stealth Chromium that passes every bot detection test. Drop-... 🆕
 - [[cloudflare-computer|computer"]] — Give your agent a computer 👾 🔥
 - [[codecrafters-io-build-your-own-x|build-your-own-x"]] — Master programming by recreating your favorite technologies ...
@@ -102,12 +102,13 @@
 - [[continuedev-continue|continue"]] — open-source coding agent
 - [[copilotkit-copilotkit|CopilotKit"]] — The Frontend Stack for Agents & Generative UI. React, Angula...
 - [[coplaydev-unity-mcp|unity-mcp"]] — Unity MCP acts as a bridge between AI assistants and your Un... 🆕
+- [[cordiverse-cordis|cordis"]] — Meta-Framework of Spatiotemporal Composability 🆕
 - [[corebunch-instatic|Instatic"]] — The open-source alternative to Webflow, Framer and WordPress... 🆕
 - [[coreyhaines31-marketingskills|marketingskills"]] — Marketing skills for Claude Code and AI agents. CRO, copywri...
 - [[crosstalk-solutions-project-nomad|project-nomad"]] — Project N.O.M.A.D, is a self-contained, offline survival com...
 - [[crynta-terax-ai|terax-ai"]] — Lightweight (7MB) Terminal-first AI-native dev workspace
 - [[cupy-cupy|cupy"]] — NumPy & SciPy for GPU 🆕
-- [[cursor-plugins|plugins"]] — Cursor plugin specification and official plugins
+- [[cursor-plugins|plugins"]] — Cursor plugin specification and official plugins 🆕
 - [[cypress-io-cypress|cypress"]] — Fast, easy and reliable testing for anything that runs in a ...
 - [[czlonkowski-n8n-mcp|n8n-mcp"]] — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor t... 🆕
 - [[d4vinci-scrapling|Scrapling"]] — 🕷️ An adaptive Web Scraping framework that handles everythin... 🔥
@@ -117,7 +118,7 @@
 - [[dayuanjiang-next-ai-draw-io|next-ai-draw-io"]] — A next.js web application that integrates AI capabilities wi...
 - [[dbt-labs-dbt-core|dbt-core"]] — dbt enables data analysts and engineers to transform their d...
 - [[deepfakes-faceswap|faceswap"]] — Deepfakes Software For All
-- [[deepseek-ai-awesome-deepseek-agent|awesome-deepseek-agent"]] — No description 🆕
+- [[deepseek-ai-awesome-deepseek-agent|awesome-deepseek-agent"]] — No description
 - [[denoland-celld|celld"]] — self-hosted, distributed Durable Objects 🆕
 - [[denoland-deno|deno"]] — A modern runtime for JavaScript and TypeScript.
 - [[deusdata-codebase-memory-mcp|codebase-memory-mcp"]] — High-performance code intelligence MCP server. Indexes codeb...
@@ -163,7 +164,7 @@
 - [[github-copilot-sdk|copilot-sdk"]] — Multi-platform SDK for integrating GitHub Copilot Agent into... 🆕
 - [[github-docs|docs"]] — The open-source repo for docs.github.com
 - [[github-gh-stack|gh-stack"]] — GitHub Stacked PRs
-- [[github-spec-kit|spec-kit"]] — 💫 Toolkit to help you get started with Spec-Driven Developme...
+- [[github-spec-kit|spec-kit"]] — 💫 Toolkit to help you get started with Spec-Driven Developme... 🆕
 - [[goauthentik-authentik|authentik"]] — The authentication glue you need. 🔥
 - [[godotengine-godot|godot"]] — Godot Engine – Multi-platform 2D and 3D game engine
 - [[google-agents-cli|agents-cli"]] — The CLI and skills that turn any coding assistant into an ex...
@@ -187,7 +188,7 @@
 - [[hesreallyhim-awesome-claude-code|awesome-claude-code"]] — A hand-picked collection of the finest of resources for the ...
 - [[hexo-ai-sia|sia"]] — SIA is a Self Improving AI framework to autonomously improve...
 - [[heygen-com-hyperframes|hyperframes"]] — Write HTML. Render video. Built for agents.
-- [[hkuds-cli-anything|CLI-Anything"]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:... 🔥
+- [[hkuds-cli-anything|CLI-Anything"]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:...
 - [[hkuds-deeptutor|DeepTutor"]] — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor...
 - [[hkuds-vibe-trading|Vibe-Trading"]] — "Vibe-Trading: Your Personal Trading Agent" 🔥
 - [[hkuds-vimax|ViMax"]] — "ViMax: Agentic Video Generation (Director, Screenwriter, Pr... 🆕
@@ -265,6 +266,7 @@
 - [[macro-inc-macro|macro"]] — Macro is a unified workspace for teams: email, chat, docs, t... 🔥
 - [[maderix-ane|ANE"]] — Training neural networks on Apple Neural Engine via reverse-...
 - [[madslorentzen-ai-job-search|ai-job-search"]] — AI-powered job application framework built on Claude Code. F...
+- [[makazhanalpamys-soup|Soup"]] — Fine-tune LLMs from one YAML. Layer streaming trains an 8B m... 🆕
 - [[makeplane-plane|plane"]] — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternativ... 🆕
 - [[malisper-pgrust|pgrust"]] — Postgres rewritten in Rust, now passing 100% of the Postgres... 🆕
 - [[manaflow-ai-cmux|cmux"]] — Ghostty-based macOS terminal with vertical tabs and notifica... 🔥
@@ -275,7 +277,7 @@
 - [[maziyarpanahi-openmed|openmed"]] — open-source healthcare ai 🔥
 - [[mebus-cupp|cupp"]] — Common User Passwords Profiler (CUPP) 🆕
 - [[medusajs-medusa|medusa"]] — The world's most flexible commerce platform.
-- [[megadose-holehe|holehe"]] — holehe allows you to check if the mail is used on different ... 🆕
+- [[megadose-holehe|holehe"]] — holehe allows you to check if the mail is used on different ... 🔥
 - [[mempalace-mempalace|mempalace"]] — The best-benchmarked open-source AI memory system. And it's ...
 - [[meshery-meshery|meshery"]] — Meshery, the cloud native manager 🔥
 - [[microsoft-agent-governance-toolkit|agent-governance-toolkit"]] — AI Agent Governance Toolkit — Policy enforcement, zero-trust...
@@ -367,6 +369,7 @@
 - [[prisma-prisma|prisma"]] — Next-generation ORM for Node.js & TypeScript | PostgreSQL, M...
 - [[prismml-eng-bonsai-demo|Bonsai-demo"]] — Bonsai Demo 🆕
 - [[protocolbuffers-protobuf|protobuf"]] — Protocol Buffers - Google's data interchange format
+- [[public-apis-public-apis|public-apis"]] — A collective list of free APIs 🆕
 - [[pumpkin-mc-pumpkin|Pumpkin"]] — Empowering everyone to host fast and efficient Minecraft ser... 🔥
 - [[puppeteer-puppeteer|puppeteer"]] — JavaScript API for Chrome and Firefox
 - [[pytest-dev-pytest|pytest"]] — The pytest framework makes it easy to write small tests, yet...
@@ -385,7 +388,7 @@
 - [[rommapp-romm|romm"]] — A beautiful, powerful, self-hosted rom manager and player. 🔥
 - [[rtk-ai-rtk|rtk"]] — CLI proxy that reduces LLM token consumption by 60-90% on co...
 - [[run-llama-liteparse|liteparse"]] — A fast, helpful, and open-source document parser 🆕
-- [[rustdesk-rustdesk|rustdesk"]] — An open-source remote desktop application designed for self-... 🆕
+- [[rustdesk-rustdesk|rustdesk"]] — An open-source remote desktop application designed for self-...
 - [[ruvnet-ruview|RuView"]] — π RuView turns commodity WiFi signals into real-time spatial...
 - [[ryancodrai-turbovec|turbovec"]] — A vector index built on TurboQuant, written in Rust with Pyt...
 - [[ryanmcdermott-clean-code-javascript|clean-code-javascript"]] — Clean Code concepts adapted for JavaScript
@@ -440,7 +443,7 @@
 - [[unclecheng-li-vulnclaw|VulnClaw"]] — 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「...
 - [[unclecode-crawl4ai|crawl4ai"]] — 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper....
 - [[universal-debloater-alliance-universal-android-debloater-next-generation|universal-android-debloater-next-generation"]] — Cross-platform GUI written in Rust using ADB to debloat non-... 🔥
-- [[unslothai-unsloth|unsloth"]] — Local UI to run and train LLMs and diffusion models, includi... 🆕
+- [[unslothai-unsloth|unsloth"]] — Local UI to run and train LLMs and diffusion models, includi... 🔥
 - [[usekaneo-kaneo|kaneo"]] — 🎯 All you need. Nothing you don't. Open source project manag... 🔥
 - [[usestrix-strix|strix"]] — Open-source AI penetration testing tool to find and fix your... 🔥
 - [[veracrypt-veracrypt|VeraCrypt"]] — Disk encryption with strong security based on TrueCrypt

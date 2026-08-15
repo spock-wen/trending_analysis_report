@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[macro-inc-macro]] [[semantica-agi-semantica]] [[pppscn-smsforwarder]] [[bannedbook-fanqiang]]
+[[cathrynlavery-diagram-design]] [[bannedbook-fanqiang]] [[hkuds-cli-anything]] [[citrolabs-ego-lite]] [[andreknieriem-headunit-revived]]
 
 **所属领域**: [[ai-agent]]
 

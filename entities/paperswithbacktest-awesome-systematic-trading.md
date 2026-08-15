@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[smicallef-spiderfoot]] [[github-spec-kit]] [[paperclipai-paperclip]] [[semantica-agi-semantica]] [[cactus-compute-needle]]
+[[mvanhorn-last30days-skill]] [[huggingface-transformers]] [[unslothai-unsloth]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[education]] [[science]]
 

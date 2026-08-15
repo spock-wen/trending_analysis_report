@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[hugohe3-ppt-master]] [[altic-dev-fluidvoice]] [[macro-inc-macro]] [[semantica-agi-semantica]]
+[[lightricks-ltx-2]] [[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[altic-dev-fluidvoice]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -38,7 +38,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[cathrynlavery-diagram-design]] [[semantica-agi-semantica]] [[macro-inc-macro]]
+[[cathrynlavery-diagram-design]] [[citrolabs-ego-lite]] [[altic-dev-fluidvoice]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

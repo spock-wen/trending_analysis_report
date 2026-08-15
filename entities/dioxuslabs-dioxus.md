@@ -35,7 +35,7 @@ Fullstack app framework for web, desktop, and mobile.
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[macro-inc-macro]] [[rustdesk-rustdesk]] [[holaboss-ai-holaos]] [[ruvnet-ruview]]
+[[rustdesk-rustdesk]] [[cathrynlavery-diagram-design]] [[macro-inc-macro]] [[nvidia-nemo-switchyard]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

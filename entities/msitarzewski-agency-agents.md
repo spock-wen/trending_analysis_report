@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[macro-inc-macro]] [[obra-superpowers]] [[paperclipai-paperclip]] [[semantica-agi-semantica]]
+[[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[obra-superpowers]] [[paperclipai-paperclip]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

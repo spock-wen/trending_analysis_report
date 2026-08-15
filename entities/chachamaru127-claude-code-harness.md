@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[macro-inc-macro]] [[obra-superpowers]] [[paperclipai-paperclip]] [[semantica-agi-semantica]]
+[[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[macro-inc-macro]] [[semantica-agi-semantica]] [[docusealco-docuseal]] [[cathrynlavery-diagram-design]]
+[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[docusealco-docuseal]] [[citrolabs-ego-lite]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]]
 

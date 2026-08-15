@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[hugohe3-ppt-master]] [[jenkinsci-jenkins]] [[github-copilot-sdk]] [[macro-inc-macro]]
+[[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[apache-cassandra]] [[alibaba-open-code-review]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

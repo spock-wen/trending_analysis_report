@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[tooljet-tooljet]] [[infiniflow-ragflow]] [[altic-dev-fluidvoice]] [[smicallef-spiderfoot]]
+[[tooljet-tooljet]] [[lightricks-ltx-2]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

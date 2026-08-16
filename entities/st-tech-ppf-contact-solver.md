@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[unslothai-unsloth]] [[paperclipai-paperclip]] [[kepano-obsidian-skills]] [[hkuds-cli-anything]]
+[[public-apis-public-apis]] [[msitarzewski-agency-agents]] [[cactus-compute-needle]] [[hkuds-cli-anything]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[cli]]
 

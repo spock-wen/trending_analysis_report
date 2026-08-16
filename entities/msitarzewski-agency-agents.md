@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[obra-superpowers]] [[paperclipai-paperclip]] [[kepano-obsidian-skills]]
+[[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[nvm-sh-nvm]] [[hkuds-cli-anything]] [[tooljet-tooljet]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

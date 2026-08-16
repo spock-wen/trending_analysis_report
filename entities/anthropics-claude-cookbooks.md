@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[cathrynlavery-diagram-design]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[hkuds-cli-anything]]
+[[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[hkuds-cli-anything]] [[tooljet-tooljet]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]]
 

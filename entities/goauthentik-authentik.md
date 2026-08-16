@@ -37,5 +37,5 @@ The authentication glue you need.
 
 ## 相关项目
 
-[[github-spec-kit]] [[unslothai-unsloth]] [[cactus-compute-needle]] [[hkuds-cli-anything]]
+[[cactus-compute-needle]] [[hkuds-cli-anything]] [[public-apis-public-apis]] [[unslothai-unsloth]]
 

@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[cathrynlavery-diagram-design]] [[unslothai-unsloth]] [[cactus-compute-needle]] [[infiniflow-ragflow]]
+[[public-apis-public-apis]] [[cactus-compute-needle]] [[hkuds-cli-anything]] [[tooljet-tooljet]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[uber-adr]] [[rustdesk-rustdesk]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[macro-inc-macro]]
+[[unslothai-unsloth]] [[affaan-m-ecc]] [[hugohe3-ppt-master]] [[calesthio-openmontage]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

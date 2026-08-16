@@ -34,7 +34,7 @@ Langflow is a powerful tool for building and deploying AI-powered agents and wor
 
 ## 相关项目
 
-[[semantica-agi-semantica]] [[uber-adr]] [[cathrynlavery-diagram-design]] [[unslothai-unsloth]] [[cactus-compute-needle]]
+[[semantica-agi-semantica]] [[public-apis-public-apis]] [[ruvnet-ruview]] [[cactus-compute-needle]] [[uber-adr]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

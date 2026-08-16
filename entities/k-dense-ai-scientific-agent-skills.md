@@ -37,7 +37,7 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[mvanhorn-last30days-skill]] [[unslothai-unsloth]] [[cactus-compute-needle]] [[paperclipai-paperclip]]
+[[public-apis-public-apis]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[mvanhorn-last30days-skill]] [[cactus-compute-needle]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

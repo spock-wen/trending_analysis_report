@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[huggingface-transformers]] [[unslothai-unsloth]] [[cactus-compute-needle]] [[kepano-obsidian-skills]]
+[[public-apis-public-apis]] [[practical-tutorials-project-based-learning]] [[cactus-compute-needle]] [[hkuds-cli-anything]] [[tooljet-tooljet]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

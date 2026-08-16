@@ -35,7 +35,7 @@ GLM-5: From Vibe Coding to Agentic Engineering
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[citrolabs-ego-lite]] [[altic-dev-fluidvoice]] [[hkuds-cli-anything]]
+[[hkuds-cli-anything]] [[tooljet-tooljet]] [[altic-dev-fluidvoice]] [[unslothai-unsloth]]
 
 **所属领域**: [[ai-agent]]
 

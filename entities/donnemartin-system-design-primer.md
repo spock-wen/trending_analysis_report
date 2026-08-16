@@ -35,7 +35,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[huggingface-transformers]] [[unslothai-unsloth]] [[kepano-obsidian-skills]] [[hkuds-cli-anything]] [[github-spec-kit]]
+[[public-apis-public-apis]] [[practical-tutorials-project-based-learning]] [[cactus-compute-needle]] [[kepano-obsidian-skills]] [[hkuds-cli-anything]]
 
 **所属领域**: [[education]]
 

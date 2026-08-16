@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[kepano-obsidian-skills]]
+[[msitarzewski-agency-agents]] [[nvm-sh-nvm]] [[hkuds-cli-anything]] [[tooljet-tooljet]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

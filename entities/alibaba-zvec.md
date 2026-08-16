@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[calesthio-openmontage]] [[amnezia-vpn-amnezia-client]] [[opengeos-geolibre]] [[geo-tp-esp32-bit-pirate]]
+[[hugohe3-ppt-master]] [[geo-tp-esp32-bit-pirate]] [[calesthio-openmontage]] [[ladybirdbrowser-ladybird]] [[gabime-spdlog]]
 
 **所属领域**: [[data]]
 

@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[chenyme-grok2api]] [[infiniflow-ragflow]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]]
+[[chenyme-grok2api]] [[msitarzewski-agency-agents]] [[esengine-deepseek-reasonix]] [[hkuds-cli-anything]] [[tooljet-tooljet]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

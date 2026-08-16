@@ -38,7 +38,7 @@ Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[unslothai-unsloth]] [[cactus-compute-needle]] [[hkuds-cli-anything]] [[github-spec-kit]]
+[[public-apis-public-apis]] [[cactus-compute-needle]] [[hkuds-cli-anything]] [[tooljet-tooljet]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]]
 

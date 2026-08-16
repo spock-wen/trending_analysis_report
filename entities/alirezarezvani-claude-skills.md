@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[obra-superpowers]] [[mvanhorn-last30days-skill]]
+[[hugohe3-ppt-master]] [[public-apis-public-apis]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

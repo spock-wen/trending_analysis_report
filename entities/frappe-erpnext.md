@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[obra-superpowers]] [[unslothai-unsloth]] [[hkuds-cli-anything]] [[github-spec-kit]]
+[[hugohe3-ppt-master]] [[public-apis-public-apis]] [[obra-superpowers]] [[cactus-compute-needle]] [[uber-adr]]
 
 **所属领域**: [[erp]]
 

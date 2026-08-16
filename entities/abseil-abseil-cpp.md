@@ -35,5 +35,5 @@ Abseil Common Libraries (C++)
 
 ## 相关项目
 
-[[amnezia-vpn-amnezia-client]] [[geo-tp-esp32-bit-pirate]] [[ladybirdbrowser-ladybird]] [[gabime-spdlog]]
+[[amnezia-vpn-amnezia-client]] [[ladybirdbrowser-ladybird]] [[gabime-spdlog]] [[geo-tp-esp32-bit-pirate]]
 

@@ -38,7 +38,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[diolinux-photogimp]] [[citrolabs-ego-lite]] [[altic-dev-fluidvoice]]
+[[diolinux-photogimp]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[tooljet-tooljet]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

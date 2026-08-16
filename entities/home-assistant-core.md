@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[unslothai-unsloth]] [[amnezia-vpn-amnezia-client]] [[hkuds-cli-anything]] [[github-spec-kit]]
+[[affaan-m-ecc]] [[public-apis-public-apis]] [[zhaoxuya520-reverse-skill]] [[cactus-compute-needle]] [[uber-adr]]
 
 **所属领域**: [[security]]
 

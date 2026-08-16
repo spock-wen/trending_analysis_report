@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[rustdesk-rustdesk]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[obra-superpowers]]
+[[unslothai-unsloth]] [[hugohe3-ppt-master]] [[obra-superpowers]] [[nvidia-nemo-switchyard]] [[rustdesk-rustdesk]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

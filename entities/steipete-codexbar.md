@@ -36,7 +36,7 @@ Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[palmier-io-palmier-pro]] [[permissionlesstech-bitchat]] [[jaywcjlove-awesome-mac]] [[hkuds-cli-anything]]
+[[permissionlesstech-bitchat]] [[palmier-io-palmier-pro]] [[jaywcjlove-awesome-mac]] [[hkuds-cli-anything]] [[tooljet-tooljet]]
 
 **所属领域**: [[ai-agent]]
 

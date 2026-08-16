@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[lightricks-ltx-2]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[huggingface-transformers]]
+[[hugohe3-ppt-master]] [[public-apis-public-apis]] [[lightricks-ltx-2]] [[cactus-compute-needle]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

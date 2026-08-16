@@ -37,7 +37,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[cathrynlavery-diagram-design]] [[webpack-webpack]] [[unslothai-unsloth]] [[infiniflow-ragflow]]
+[[addyosmani-agent-skills]] [[webpack-webpack]] [[citrolabs-ego-lite]] [[tooljet-tooljet]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

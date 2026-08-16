@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[unslothai-unsloth]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[hkuds-cli-anything]]
+[[public-apis-public-apis]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[mvanhorn-last30days-skill]] [[cactus-compute-needle]]
 
 **所属领域**: [[science]]
 

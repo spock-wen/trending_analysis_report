@@ -36,7 +36,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[altic-dev-fluidvoice]] [[mvanhorn-last30days-skill]] [[tauricresearch-tradingagents]] [[msitarzewski-agency-agents]]
+[[cordiverse-cordis]] [[opencut-app-opencut]] [[zhaoxuya520-reverse-skill]] [[msitarzewski-agency-agents]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[permissionlesstech-bitchat]] [[jaywcjlove-awesome-mac]] [[hkuds-cli-anything]] [[citrolabs-ego-lite]]
+[[permissionlesstech-bitchat]] [[jaywcjlove-awesome-mac]] [[hkuds-cli-anything]] [[tooljet-tooljet]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]]
 

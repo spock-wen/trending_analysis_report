@@ -36,7 +36,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[alibaba-open-code-review]] [[webpack-webpack]]
+[[addyosmani-agent-skills]] [[hugohe3-ppt-master]] [[calesthio-openmontage]] [[webpack-webpack]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[altic-dev-fluidvoice]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[kepano-obsidian-skills]]
+[[cordiverse-cordis]] [[opencut-app-opencut]] [[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[cursor-plugins]]
 
 **所属领域**: [[web]] [[cli]]
 

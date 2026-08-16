@@ -37,7 +37,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[trycua-cua]] [[hasaneyldrm-exercises-dataset]] [[pkuflyingpig-cs-self-learning]] [[hkuds-cli-anything]] [[citrolabs-ego-lite]]
+[[hasaneyldrm-exercises-dataset]] [[hkuds-cli-anything]] [[tooljet-tooljet]] [[trycua-cua]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[mvanhorn-last30days-skill]] [[huggingface-transformers]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]]
+[[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[practical-tutorials-project-based-learning]] [[mvanhorn-last30days-skill]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

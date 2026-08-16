@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[donnemartin-system-design-primer]] [[practical-tutorials-project-based-learning]] [[altic-dev-fluidvoice]] [[semantica-agi-semantica]]
+[[semantica-agi-semantica]] [[hugohe3-ppt-master]] [[ruvnet-ruview]] [[microsoft-generative-ai-for-beginners]] [[practical-tutorials-project-based-learning]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

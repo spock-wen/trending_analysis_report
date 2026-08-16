@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[semantica-agi-semantica]] [[litu54-devops-interview-guide]] [[opencut-app-opencut]] [[uber-adr]] [[ruvnet-ruview]]
+[[cordiverse-cordis]] [[semantica-agi-semantica]] [[opencut-app-opencut]] [[cursor-plugins]] [[uber-adr]]
 
 **所属领域**: [[devops]]
 

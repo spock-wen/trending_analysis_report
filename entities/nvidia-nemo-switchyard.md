@@ -35,7 +35,7 @@ Switchyard lets LLM applications route traffic across models and providers while
 
 ## 相关项目
 
-[[rustdesk-rustdesk]] [[cathrynlavery-diagram-design]] [[macro-inc-macro]] [[hkuds-cli-anything]] [[citrolabs-ego-lite]]
+[[unslothai-unsloth]] [[rustdesk-rustdesk]] [[macro-inc-macro]] [[hkuds-cli-anything]] [[tooljet-tooljet]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,5 +36,5 @@ Action for checking out a repo
 
 ## 相关项目
 
-[[opencut-app-opencut]] [[cordiverse-cordis]] [[holaboss-ai-holaos]] [[cursor-plugins]]
+[[cordiverse-cordis]] [[holaboss-ai-holaos]] [[opencut-app-opencut]] [[cursor-plugins]]
 

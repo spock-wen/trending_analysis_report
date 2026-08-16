@@ -34,5 +34,5 @@ Headunit App for displaying Android Auto
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[embabel-embabel-agent]] [[pppscn-smsforwarder]]
+[[embabel-embabel-agent]] [[pppscn-smsforwarder]] [[bannedbook-fanqiang]]
 

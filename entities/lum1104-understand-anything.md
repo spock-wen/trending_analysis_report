@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[altic-dev-fluidvoice]] [[huggingface-transformers]] [[practical-tutorials-project-based-learning]] [[msitarzewski-agency-agents]]
+[[cordiverse-cordis]] [[opencut-app-opencut]] [[practical-tutorials-project-based-learning]] [[msitarzewski-agency-agents]] [[cursor-plugins]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

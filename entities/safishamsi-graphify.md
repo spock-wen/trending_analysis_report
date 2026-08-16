@@ -34,7 +34,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[infiniflow-ragflow]] [[paperclipai-paperclip]] [[hkuds-cli-anything]] [[cactus-compute-needle]] [[altic-dev-fluidvoice]]
+[[tooljet-tooljet]] [[altic-dev-fluidvoice]] [[basecamp-omarchy]] [[hkuds-cli-anything]] [[opengeos-geolibre]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

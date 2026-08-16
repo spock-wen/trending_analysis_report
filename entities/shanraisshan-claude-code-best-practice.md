@@ -35,7 +35,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[trycua-cua]] [[cathrynlavery-diagram-design]] [[hasaneyldrm-exercises-dataset]] [[pkuflyingpig-cs-self-learning]] [[hkuds-cli-anything]]
+[[hasaneyldrm-exercises-dataset]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[tooljet-tooljet]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[altic-dev-fluidvoice]] [[harbourmasters-lighthouse]] [[alibaba-open-code-review]]
+[[hugohe3-ppt-master]] [[calesthio-openmontage]] [[opa334-dopamine]] [[antirez-ds4]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

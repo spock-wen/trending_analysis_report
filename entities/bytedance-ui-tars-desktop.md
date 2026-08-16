@@ -34,7 +34,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[semantica-agi-semantica]] [[uber-adr]] [[cathrynlavery-diagram-design]] [[altic-dev-fluidvoice]] [[litu54-devops-interview-guide]]
+[[cordiverse-cordis]] [[semantica-agi-semantica]] [[opencut-app-opencut]] [[ruvnet-ruview]] [[cursor-plugins]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

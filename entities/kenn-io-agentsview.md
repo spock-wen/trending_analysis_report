@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[alibaba-open-code-review]] [[chenyme-grok2api]] [[calesthio-openmontage]]
+[[chenyme-grok2api]] [[hugohe3-ppt-master]] [[calesthio-openmontage]] [[esengine-deepseek-reasonix]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

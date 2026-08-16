@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[citrolabs-ego-lite]] [[penpot-penpot]] [[altic-dev-fluidvoice]]
+[[hkuds-cli-anything]] [[tooljet-tooljet]] [[penpot-penpot]] [[altic-dev-fluidvoice]] [[unslothai-unsloth]]
 
 **所属领域**: [[ai-agent]]
 

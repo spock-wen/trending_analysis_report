@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-08-16 | 总页面：484
+> 最后更新：2026-08-17 | 总页面：485
 
 ## Entities
 
@@ -62,6 +62,7 @@
 - [[axorax-awesome-free-apps|awesome-free-apps"]] — Curated list of the best free apps for PC and mobile 🔥
 - [[ayghri-i-have-adhd|i-have-adhd"]] — A skill for your coding agent to stop it from burying the an... 🆕
 - [[bannedbook-fanqiang|fanqiang"]] — 翻墙-科学上网
+- [[basecamp-omarchy|omarchy"]] — Beautiful, Modern & Opinionated Linux 🆕
 - [[bigbodycobain-shadowbroker|Shadowbroker"]] — Open-source intelligence for the global theater. Track every... 🆕
 - [[biohub-esm|esm"]] — No description
 - [[blakeblackshear-frigate|frigate"]] — NVR with realtime local object detection for IP cameras 🆕
@@ -266,7 +267,7 @@
 - [[macro-inc-macro|macro"]] — Macro is a unified workspace for teams: email, chat, docs, t... 🔥
 - [[maderix-ane|ANE"]] — Training neural networks on Apple Neural Engine via reverse-...
 - [[madslorentzen-ai-job-search|ai-job-search"]] — AI-powered job application framework built on Claude Code. F...
-- [[makazhanalpamys-soup|Soup"]] — Fine-tune LLMs from one YAML. Layer streaming trains an 8B m... 🆕
+- [[makazhanalpamys-soup|Soup"]] — Fine-tune LLMs from one YAML. Layer streaming trains an 8B m...
 - [[makeplane-plane|plane"]] — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternativ... 🆕
 - [[malisper-pgrust|pgrust"]] — Postgres rewritten in Rust, now passing 100% of the Postgres... 🆕
 - [[manaflow-ai-cmux|cmux"]] — Ghostty-based macOS terminal with vertical tabs and notifica... 🔥
@@ -428,7 +429,7 @@
 - [[tirth8205-code-review-graph|code-review-graph"]] — Local-first code intelligence graph for MCP and CLI. Builds ...
 - [[togatoga-karukan|karukan"]] — Japanese Input Method System for Linux, macOS, Neural Kana-K...
 - [[tokio-rs-topcoat|topcoat"]] — A batteries-included framework for building web apps
-- [[tooljet-tooljet|ToolJet"]] — ToolJet is the open-source foundation of ToolJet AI - the en... 🆕
+- [[tooljet-tooljet|ToolJet"]] — ToolJet is the open-source foundation of ToolJet AI - the en... 🔥
 - [[topoteretes-cognee|cognee"]] — Cognee is the open-source AI memory platform for agents. Giv...
 - [[tradesdontlie-tradingview-mcp|tradingview-mcp"]] — AI-assisted TradingView chart analysis — connect Claude Code...
 - [[trimstray-the-book-of-secret-knowledge|the-book-of-secret-knowledge"]] — A collection of inspiring lists, manuals, cheatsheets, blogs... 🆕

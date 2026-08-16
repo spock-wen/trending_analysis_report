@@ -35,7 +35,7 @@ Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex 
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[opencut-app-opencut]] [[hkuds-cli-anything]] [[citrolabs-ego-lite]] [[cursor-plugins]]
+[[cordiverse-cordis]] [[opencut-app-opencut]] [[cathrynlavery-diagram-design]] [[cursor-plugins]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

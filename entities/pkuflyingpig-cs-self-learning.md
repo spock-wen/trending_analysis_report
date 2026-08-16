@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[trycua-cua]] [[cathrynlavery-diagram-design]] [[hasaneyldrm-exercises-dataset]] [[huggingface-transformers]] [[kepano-obsidian-skills]]
+[[hasaneyldrm-exercises-dataset]] [[practical-tutorials-project-based-learning]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[web]] [[education]]
 

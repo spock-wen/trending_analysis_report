@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[apache-cassandra]] [[alibaba-open-code-review]] [[github-copilot-sdk]]
+[[jenkinsci-jenkins]] [[google-guava]] [[hugohe3-ppt-master]] [[calesthio-openmontage]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

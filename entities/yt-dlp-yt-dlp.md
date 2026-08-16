@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[altic-dev-fluidvoice]] [[huggingface-transformers]] [[msitarzewski-agency-agents]] [[unslothai-unsloth]]
+[[hugohe3-ppt-master]] [[public-apis-public-apis]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[cactus-compute-needle]]
 
 **所属领域**: [[cli]] [[audio]]
 

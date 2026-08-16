@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[cathrynlavery-diagram-design]] [[unslothai-unsloth]] [[infiniflow-ragflow]] [[addyosmani-agent-skills]]
+[[unslothai-unsloth]] [[addyosmani-agent-skills]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[tooljet-tooljet]]
 
 **所属领域**: [[web]] [[image-gen]]
 

@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[trycua-cua]] [[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[alibaba-open-code-review]] [[calesthio-openmontage]]
+[[hugohe3-ppt-master]] [[calesthio-openmontage]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[tooljet-tooljet]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

@@ -34,7 +34,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[unslothai-unsloth]] [[cactus-compute-needle]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]]
+[[public-apis-public-apis]] [[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[cactus-compute-needle]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

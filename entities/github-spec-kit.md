@@ -38,5 +38,5 @@ language: "Python"
 
 ## 相关项目
 
-[[cactus-compute-needle]] [[unslothai-unsloth]] [[hkuds-cli-anything]]
+[[cactus-compute-needle]] [[hkuds-cli-anything]] [[public-apis-public-apis]] [[unslothai-unsloth]]
 

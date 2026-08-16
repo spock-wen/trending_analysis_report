@@ -34,5 +34,5 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 ## 相关项目
 
-[[opencut-app-opencut]] [[cordiverse-cordis]] [[holaboss-ai-holaos]] [[cursor-plugins]]
+[[cordiverse-cordis]] [[holaboss-ai-holaos]] [[opencut-app-opencut]] [[cursor-plugins]]
 

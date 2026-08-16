@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[amnezia-vpn-amnezia-client]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[gabime-spdlog]]
+[[ladybirdbrowser-ladybird]] [[gabime-spdlog]] [[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[amnezia-vpn-amnezia-client]]
 
 **所属领域**: [[web]] [[cli]]
 

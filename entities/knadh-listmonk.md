@@ -34,7 +34,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[chenyme-grok2api]] [[infiniflow-ragflow]] [[pranshuparmar-witr]] [[hkuds-cli-anything]]
+[[chenyme-grok2api]] [[esengine-deepseek-reasonix]] [[hkuds-cli-anything]] [[pranshuparmar-witr]] [[tooljet-tooljet]]
 
 **所属领域**: [[ai-agent]]
 

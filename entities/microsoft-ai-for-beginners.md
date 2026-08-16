@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[cathrynlavery-diagram-design]] [[huggingface-transformers]] [[anthropics-claude-cookbooks]] [[kepano-obsidian-skills]]
+[[microsoft-generative-ai-for-beginners]] [[practical-tutorials-project-based-learning]] [[lyogavin-airllm]] [[anthropics-claude-cookbooks]] [[tooljet-tooljet]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -37,5 +37,5 @@ Cursor plugin specification and official plugins
 
 ## 相关项目
 
-[[opencut-app-opencut]] [[cordiverse-cordis]] [[holaboss-ai-holaos]]
+[[cordiverse-cordis]] [[holaboss-ai-holaos]] [[opencut-app-opencut]]
 

@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[unslothai-unsloth]] [[cactus-compute-needle]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]]
+[[public-apis-public-apis]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[cathrynlavery-diagram-design]] [[cactus-compute-needle]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

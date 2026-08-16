@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[obra-superpowers]] [[opencut-app-opencut]] [[uber-adr]] [[hugohe3-ppt-master]]
+[[cordiverse-cordis]] [[opencut-app-opencut]] [[hugohe3-ppt-master]] [[obra-superpowers]] [[cursor-plugins]]
 
 **所属领域**: [[erp]]
 

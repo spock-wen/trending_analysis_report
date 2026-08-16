@@ -39,7 +39,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[palmier-io-palmier-pro]] [[huggingface-transformers]]
+[[permissionlesstech-bitchat]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[palmier-io-palmier-pro]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

@@ -37,7 +37,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[alibaba-open-code-review]] [[calesthio-openmontage]] [[unslothai-unsloth]]
+[[hugohe3-ppt-master]] [[public-apis-public-apis]] [[calesthio-openmontage]] [[cactus-compute-needle]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

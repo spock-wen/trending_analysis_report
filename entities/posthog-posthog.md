@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[semantica-agi-semantica]] [[uber-adr]] [[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[alibaba-open-code-review]]
+[[semantica-agi-semantica]] [[hugohe3-ppt-master]] [[public-apis-public-apis]] [[calesthio-openmontage]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]]
+[[mattpocock-skills]] [[msitarzewski-agency-agents]] [[nvm-sh-nvm]] [[hkuds-cli-anything]] [[tooljet-tooljet]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

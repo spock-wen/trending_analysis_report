@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[chenyme-grok2api]] [[affaan-m-ecc]] [[infiniflow-ragflow]] [[amnezia-vpn-amnezia-client]]
+[[affaan-m-ecc]] [[chenyme-grok2api]] [[zhaoxuya520-reverse-skill]] [[uber-adr]] [[esengine-deepseek-reasonix]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

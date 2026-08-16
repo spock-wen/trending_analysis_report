@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[semantica-agi-semantica]] [[uber-adr]] [[cathrynlavery-diagram-design]] [[unslothai-unsloth]] [[cactus-compute-needle]]
+[[semantica-agi-semantica]] [[public-apis-public-apis]] [[ruvnet-ruview]] [[cathrynlavery-diagram-design]] [[cactus-compute-needle]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

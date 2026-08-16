@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[cathrynlavery-diagram-design]] [[mvanhorn-last30days-skill]] [[tauricresearch-tradingagents]] [[webpack-webpack]]
+[[addyosmani-agent-skills]] [[paperclipai-paperclip]] [[webpack-webpack]] [[zhaoxuya520-reverse-skill]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

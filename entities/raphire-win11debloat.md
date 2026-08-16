@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[kepano-obsidian-skills]] [[hkuds-cli-anything]] [[zhaoxuya520-reverse-skill]]
+[[zhaoxuya520-reverse-skill]] [[kepano-obsidian-skills]] [[hkuds-cli-anything]] [[basecamp-omarchy]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[cli]]
 

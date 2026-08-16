@@ -35,5 +35,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[webpack-webpack]] [[tooljet-tooljet]] [[citrolabs-ego-lite]] [[addyosmani-agent-skills]]
+[[webpack-webpack]] [[tooljet-tooljet]] [[addyosmani-agent-skills]] [[citrolabs-ego-lite]]
 

@@ -34,5 +34,5 @@ An open-source remote desktop application designed for self-hosting, as an alter
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[macro-inc-macro]] [[nvidia-nemo-switchyard]]
+[[macro-inc-macro]] [[nvidia-nemo-switchyard]] [[ruvnet-ruview]]
 

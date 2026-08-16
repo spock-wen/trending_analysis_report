@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[huggingface-transformers]] [[kepano-obsidian-skills]] [[hkuds-cli-anything]] [[donnemartin-system-design-primer]]
+[[unslothai-unsloth]] [[practical-tutorials-project-based-learning]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[tooljet-tooljet]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

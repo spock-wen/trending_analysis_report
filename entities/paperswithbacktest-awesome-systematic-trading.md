@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[huggingface-transformers]] [[unslothai-unsloth]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]]
+[[public-apis-public-apis]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[practical-tutorials-project-based-learning]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[education]] [[science]]
 

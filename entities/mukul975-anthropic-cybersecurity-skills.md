@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[affaan-m-ecc]] [[unslothai-unsloth]] [[cactus-compute-needle]] [[msitarzewski-agency-agents]]
+[[affaan-m-ecc]] [[public-apis-public-apis]] [[zhaoxuya520-reverse-skill]] [[msitarzewski-agency-agents]] [[cactus-compute-needle]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

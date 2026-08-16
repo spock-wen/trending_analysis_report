@@ -38,7 +38,7 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[cathrynlavery-diagram-design]] [[webpack-webpack]] [[addyosmani-agent-skills]] [[hkuds-cli-anything]]
+[[addyosmani-agent-skills]] [[webpack-webpack]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[tooljet-tooljet]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

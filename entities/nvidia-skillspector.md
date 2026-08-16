@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[affaan-m-ecc]] [[unslothai-unsloth]] [[cactus-compute-needle]] [[amnezia-vpn-amnezia-client]]
+[[affaan-m-ecc]] [[public-apis-public-apis]] [[zhaoxuya520-reverse-skill]] [[cactus-compute-needle]] [[uber-adr]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

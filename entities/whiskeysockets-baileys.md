@@ -34,7 +34,7 @@ Socket-based TS/JavaScript API for WhatsApp Web
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[cathrynlavery-diagram-design]] [[webpack-webpack]] [[addyosmani-agent-skills]] [[hkuds-cli-anything]]
+[[addyosmani-agent-skills]] [[webpack-webpack]] [[cathrynlavery-diagram-design]] [[citrolabs-ego-lite]] [[tooljet-tooljet]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[unslothai-unsloth]] [[cactus-compute-needle]] [[hkuds-cli-anything]] [[github-spec-kit]]
+[[public-apis-public-apis]] [[cathrynlavery-diagram-design]] [[cactus-compute-needle]] [[hkuds-cli-anything]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[web]]
 

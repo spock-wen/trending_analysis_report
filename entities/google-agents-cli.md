@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[semantica-agi-semantica]] [[uber-adr]] [[cathrynlavery-diagram-design]] [[unslothai-unsloth]] [[cactus-compute-needle]]
+[[semantica-agi-semantica]] [[public-apis-public-apis]] [[ruvnet-ruview]] [[msitarzewski-agency-agents]] [[cactus-compute-needle]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

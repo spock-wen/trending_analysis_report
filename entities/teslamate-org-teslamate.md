@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[plausible-analytics]] [[alibaba-open-code-review]] [[calesthio-openmontage]]
+[[hugohe3-ppt-master]] [[calesthio-openmontage]] [[plausible-analytics]] [[hkuds-cli-anything]] [[tooljet-tooljet]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

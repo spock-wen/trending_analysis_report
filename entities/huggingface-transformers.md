@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[lightricks-ltx-2]] [[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[unslothai-unsloth]] [[cactus-compute-needle]]
+[[hugohe3-ppt-master]] [[public-apis-public-apis]] [[lightricks-ltx-2]] [[practical-tutorials-project-based-learning]] [[cactus-compute-needle]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

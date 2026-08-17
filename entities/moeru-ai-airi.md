@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[opencut-app-opencut]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[cathrynlavery-diagram-design]]
+[[hkuds-cli-anything]] [[santifer-career-ops]] [[usestrix-strix]] [[altic-dev-fluidvoice]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

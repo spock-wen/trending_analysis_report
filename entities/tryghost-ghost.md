@@ -34,5 +34,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[webpack-webpack]] [[tooljet-tooljet]] [[addyosmani-agent-skills]] [[citrolabs-ego-lite]]
+[[tooljet-tooljet]] [[santifer-career-ops]] [[citrolabs-ego-lite]] [[addyosmani-agent-skills]]
 

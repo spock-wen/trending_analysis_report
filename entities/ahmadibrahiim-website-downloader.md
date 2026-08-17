@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[unslothai-unsloth]] [[hasaneyldrm-exercises-dataset]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[tooljet-tooljet]]
+[[hkuds-cli-anything]] [[unslothai-unsloth]] [[lightningpixel-modly]] [[trycua-cua]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[image-gen]]
 

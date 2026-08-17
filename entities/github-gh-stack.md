@@ -34,5 +34,5 @@ GitHub Stacked PRs
 
 ## 相关项目
 
-[[esengine-deepseek-reasonix]] [[pranshuparmar-witr]] [[infiniflow-ragflow]] [[chenyme-grok2api]]
+[[infiniflow-ragflow]] [[chenyme-grok2api]] [[esengine-deepseek-reasonix]] [[pranshuparmar-witr]]
 

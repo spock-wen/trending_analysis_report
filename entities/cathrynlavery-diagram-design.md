@@ -37,7 +37,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[hkuds-cli-anything]] [[tooljet-tooljet]] [[trycua-cua]] [[altic-dev-fluidvoice]]
+[[hkuds-cli-anything]] [[santifer-career-ops]] [[harry0703-moneyprinterturbo]] [[usestrix-strix]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

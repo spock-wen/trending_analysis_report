@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[opa334-dopamine]] [[zhaoxuya520-reverse-skill]] [[antirez-ds4]] [[uber-adr]]
+[[microsoft-powertoys]] [[harbourmasters-lighthouse]] [[opa334-dopamine]] [[mukul975-anthropic-cybersecurity-skills]] [[uber-adr]]
 
 **所属领域**: [[security]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[practical-tutorials-project-based-learning]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[kepano-obsidian-skills]]
+[[hkuds-cli-anything]] [[donnemartin-system-design-primer]] [[kepano-obsidian-skills]] [[altic-dev-fluidvoice]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[education]]
 

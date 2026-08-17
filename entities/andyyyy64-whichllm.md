@@ -35,7 +35,7 @@ Find the local LLM that actually runs and performs best on your hardware. Ranked
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[msitarzewski-agency-agents]] [[cactus-compute-needle]] [[hkuds-cli-anything]] [[tooljet-tooljet]]
+[[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[akitaonrails-ai-memory]] [[alexsjones-llmfit]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

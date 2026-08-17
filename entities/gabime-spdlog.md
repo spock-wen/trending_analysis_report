@@ -34,5 +34,5 @@ Fast C++ logging library.
 
 ## 相关项目
 
-[[amnezia-vpn-amnezia-client]] [[ladybirdbrowser-ladybird]] [[geo-tp-esp32-bit-pirate]]
+[[ladybirdbrowser-ladybird]] [[geo-tp-esp32-bit-pirate]] [[amnezia-vpn-amnezia-client]]
 

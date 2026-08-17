@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[unslothai-unsloth]] [[nvidia-nemo-switchyard]] [[rustdesk-rustdesk]] [[macro-inc-macro]] [[hkuds-cli-anything]]
+[[santifer-career-ops]] [[usestrix-strix]] [[akitaonrails-ai-memory]] [[macro-inc-macro]] [[rustdesk-rustdesk]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[opencut-app-opencut]] [[practical-tutorials-project-based-learning]] [[msitarzewski-agency-agents]] [[cursor-plugins]]
+[[donnemartin-system-design-primer]] [[santifer-career-ops]] [[usestrix-strix]] [[kepano-obsidian-skills]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

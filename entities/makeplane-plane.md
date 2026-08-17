@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[opencut-app-opencut]] [[cursor-plugins]] [[hkuds-cli-anything]] [[kepano-obsidian-skills]]
+[[santifer-career-ops]] [[akitaonrails-ai-memory]] [[opencut-app-opencut]] [[agalwood-motrix]] [[immich-app-immich]]
 
 **所属领域**: [[cli]]
 

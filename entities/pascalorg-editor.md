@@ -37,5 +37,5 @@ Create and share 3D architectural projects.
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[holaboss-ai-holaos]] [[opencut-app-opencut]] [[cursor-plugins]]
+[[opencut-app-opencut]] [[agalwood-motrix]] [[immich-app-immich]] [[cordiverse-cordis]]
 

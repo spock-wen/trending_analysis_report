@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[semantica-agi-semantica]] [[opencut-app-opencut]] [[ruvnet-ruview]] [[cursor-plugins]]
+[[santifer-career-ops]] [[usestrix-strix]] [[ruvnet-ruview]] [[semantica-agi-semantica]] [[opencut-app-opencut]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

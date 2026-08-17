@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[practical-tutorials-project-based-learning]] [[lyogavin-airllm]] [[anthropics-claude-cookbooks]] [[tooljet-tooljet]]
+[[microsoft-generative-ai-for-beginners]] [[donnemartin-system-design-primer]] [[santifer-career-ops]] [[usestrix-strix]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

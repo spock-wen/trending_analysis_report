@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[nvm-sh-nvm]] [[hkuds-cli-anything]] [[tooljet-tooljet]] [[kepano-obsidian-skills]]
+[[santifer-career-ops]] [[usestrix-strix]] [[akitaonrails-ai-memory]] [[nvm-sh-nvm]] [[alexsjones-llmfit]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

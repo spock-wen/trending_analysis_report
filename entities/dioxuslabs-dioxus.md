@@ -35,7 +35,7 @@ Fullstack app framework for web, desktop, and mobile.
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[nvidia-nemo-switchyard]] [[rustdesk-rustdesk]] [[macro-inc-macro]] [[hkuds-cli-anything]]
+[[hkuds-cli-anything]] [[altic-dev-fluidvoice]] [[akitaonrails-ai-memory]] [[macro-inc-macro]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]]
 

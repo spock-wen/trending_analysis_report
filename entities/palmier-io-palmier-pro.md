@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[permissionlesstech-bitchat]] [[jaywcjlove-awesome-mac]] [[hkuds-cli-anything]] [[tooljet-tooljet]] [[altic-dev-fluidvoice]]
+[[jaywcjlove-awesome-mac]] [[santifer-career-ops]] [[usestrix-strix]] [[altic-dev-fluidvoice]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[ai-agent]]
 

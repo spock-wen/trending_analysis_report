@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[opencut-app-opencut]] [[msitarzewski-agency-agents]] [[cursor-plugins]] [[hkuds-cli-anything]]
+[[santifer-career-ops]] [[usestrix-strix]] [[akitaonrails-ai-memory]] [[opencut-app-opencut]] [[agalwood-motrix]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

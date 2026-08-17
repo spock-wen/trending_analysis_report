@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[semantica-agi-semantica]] [[hugohe3-ppt-master]] [[public-apis-public-apis]] [[calesthio-openmontage]] [[ruvnet-ruview]]
+[[hkuds-cli-anything]] [[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

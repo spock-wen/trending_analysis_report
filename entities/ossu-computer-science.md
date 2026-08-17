@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[trycua-cua]] [[altic-dev-fluidvoice]]
+[[hkuds-cli-anything]] [[trycua-cua]] [[cathrynlavery-diagram-design]] [[altic-dev-fluidvoice]] [[pkuflyingpig-cs-self-learning]]
 
 **所属领域**: [[web]]
 

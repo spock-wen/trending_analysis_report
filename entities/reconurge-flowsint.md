@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[affaan-m-ecc]] [[opencut-app-opencut]] [[zhaoxuya520-reverse-skill]] [[cursor-plugins]]
+[[opencut-app-opencut]] [[agalwood-motrix]] [[immich-app-immich]] [[cordiverse-cordis]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[security]]
 

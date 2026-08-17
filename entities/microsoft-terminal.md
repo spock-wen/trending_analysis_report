@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[ladybirdbrowser-ladybird]] [[gabime-spdlog]] [[amnezia-vpn-amnezia-client]] [[hkuds-cli-anything]]
+[[santifer-career-ops]] [[amnezia-vpn-amnezia-client]] [[ladybirdbrowser-ladybird]] [[gabime-spdlog]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[cli]]
 

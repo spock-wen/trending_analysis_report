@@ -37,5 +37,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[holaboss-ai-holaos]] [[opencut-app-opencut]] [[cursor-plugins]]
+[[opencut-app-opencut]] [[agalwood-motrix]] [[immich-app-immich]] [[cordiverse-cordis]]
 

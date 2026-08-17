@@ -35,7 +35,7 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[public-apis-public-apis]] [[calesthio-openmontage]] [[cactus-compute-needle]] [[hkuds-cli-anything]]
+[[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[alibaba-open-code-review]] [[opengeos-geolibre]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -38,5 +38,5 @@ The open-source CapCut alternative
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[holaboss-ai-holaos]] [[cursor-plugins]]
+[[agalwood-motrix]] [[immich-app-immich]] [[cordiverse-cordis]]
 

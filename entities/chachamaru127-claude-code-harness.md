@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[mattpocock-skills]] [[msitarzewski-agency-agents]] [[nvm-sh-nvm]] [[hkuds-cli-anything]] [[tooljet-tooljet]]
+[[santifer-career-ops]] [[usestrix-strix]] [[akitaonrails-ai-memory]] [[nvm-sh-nvm]] [[alexsjones-llmfit]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

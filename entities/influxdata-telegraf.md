@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[chenyme-grok2api]] [[hugohe3-ppt-master]] [[calesthio-openmontage]] [[esengine-deepseek-reasonix]] [[hkuds-cli-anything]]
+[[santifer-career-ops]] [[usestrix-strix]] [[infiniflow-ragflow]] [[alibaba-open-code-review]] [[opengeos-geolibre]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

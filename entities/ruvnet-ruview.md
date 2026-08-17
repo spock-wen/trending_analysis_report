@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[semantica-agi-semantica]] [[nvidia-nemo-switchyard]] [[rustdesk-rustdesk]] [[uber-adr]] [[macro-inc-macro]]
+[[akitaonrails-ai-memory]] [[macro-inc-macro]] [[litu54-devops-interview-guide]] [[rustdesk-rustdesk]] [[alexsjones-llmfit]]
 
 **所属领域**: [[devops]]
 

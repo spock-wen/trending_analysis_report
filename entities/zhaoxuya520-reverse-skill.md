@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[paperclipai-paperclip]] [[msitarzewski-agency-agents]] [[mvanhorn-last30days-skill]] [[uber-adr]]
+[[tauricresearch-tradingagents]] [[santifer-career-ops]] [[usestrix-strix]] [[akitaonrails-ai-memory]] [[alexsjones-llmfit]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

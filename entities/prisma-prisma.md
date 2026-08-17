@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[opencut-app-opencut]] [[hugohe3-ppt-master]] [[calesthio-openmontage]] [[cursor-plugins]]
+[[unslothai-unsloth]] [[lightningpixel-modly]] [[infiniflow-ragflow]] [[alibaba-open-code-review]] [[opengeos-geolibre]]
 
 **所属领域**: [[data]] [[image-gen]]
 

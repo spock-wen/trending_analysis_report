@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[andreknieriem-headunit-revived]] [[pppscn-smsforwarder]] [[hkuds-cli-anything]] [[tooljet-tooljet]] [[bannedbook-fanqiang]]
+[[santifer-career-ops]] [[usestrix-strix]] [[bannedbook-fanqiang]] [[pppscn-smsforwarder]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[ai-agent]]
 

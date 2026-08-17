@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[opencut-app-opencut]] [[practical-tutorials-project-based-learning]] [[cursor-plugins]] [[kepano-obsidian-skills]]
+[[donnemartin-system-design-primer]] [[practical-tutorials-project-based-learning]] [[opencut-app-opencut]] [[agalwood-motrix]] [[immich-app-immich]]
 
 **所属领域**: [[education]]
 

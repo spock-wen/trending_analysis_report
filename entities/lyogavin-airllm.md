@@ -38,7 +38,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[anthropics-claude-cookbooks]] [[tooljet-tooljet]] [[hkuds-cli-anything]] [[altic-dev-fluidvoice]]
+[[microsoft-generative-ai-for-beginners]] [[santifer-career-ops]] [[usestrix-strix]] [[mukul975-anthropic-cybersecurity-skills]] [[anthropics-claude-cookbooks]]
 
 **所属领域**: [[ai-agent]]
 

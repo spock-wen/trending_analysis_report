@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[practical-tutorials-project-based-learning]] [[mvanhorn-last30days-skill]]
+[[donnemartin-system-design-primer]] [[tauricresearch-tradingagents]] [[usestrix-strix]] [[kepano-obsidian-skills]] [[jundot-omlx]]
 
 **所属领域**: [[education]] [[science]]
 

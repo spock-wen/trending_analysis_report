@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[anthropics-claude-cookbooks]] [[tooljet-tooljet]] [[hkuds-cli-anything]]
+[[microsoft-generative-ai-for-beginners]] [[santifer-career-ops]] [[usestrix-strix]] [[lyogavin-airllm]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[ai-agent]]
 

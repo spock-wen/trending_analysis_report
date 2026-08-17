@@ -38,5 +38,5 @@ language: "Python"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[public-apis-public-apis]] [[unslothai-unsloth]]
+[[harry0703-moneyprinterturbo]] [[mukul975-anthropic-cybersecurity-skills]] [[usestrix-strix]] [[jundot-omlx]]
 

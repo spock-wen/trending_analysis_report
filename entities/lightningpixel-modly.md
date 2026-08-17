@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[opencut-app-opencut]] [[cursor-plugins]] [[hkuds-cli-anything]] [[tooljet-tooljet]]
+[[santifer-career-ops]] [[unslothai-unsloth]] [[usestrix-strix]] [[infiniflow-ragflow]] [[opencut-app-opencut]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

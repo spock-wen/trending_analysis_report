@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[hasaneyldrm-exercises-dataset]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[cathrynlavery-diagram-design]] [[mvanhorn-last30days-skill]]
+[[hkuds-cli-anything]] [[santifer-career-ops]] [[harry0703-moneyprinterturbo]] [[usestrix-strix]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[nvm-sh-nvm]] [[hkuds-cli-anything]] [[tooljet-tooljet]]
+[[hkuds-cli-anything]] [[santifer-career-ops]] [[usestrix-strix]] [[altic-dev-fluidvoice]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -34,5 +34,5 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 
 ## 相关项目
 
-[[cactus-compute-needle]] [[hkuds-cli-anything]] [[public-apis-public-apis]] [[unslothai-unsloth]]
+[[harry0703-moneyprinterturbo]] [[mukul975-anthropic-cybersecurity-skills]] [[usestrix-strix]] [[jundot-omlx]]
 

@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[opencut-app-opencut]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[mvanhorn-last30days-skill]]
+[[tauricresearch-tradingagents]] [[santifer-career-ops]] [[usestrix-strix]] [[opencut-app-opencut]] [[agalwood-motrix]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

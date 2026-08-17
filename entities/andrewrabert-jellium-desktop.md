@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[nvidia-nemo-switchyard]] [[rustdesk-rustdesk]] [[macro-inc-macro]] [[hkuds-cli-anything]]
+[[santifer-career-ops]] [[akitaonrails-ai-memory]] [[macro-inc-macro]] [[rustdesk-rustdesk]] [[alexsjones-llmfit]]
 
 **所属领域**: [[cli]]
 

@@ -38,7 +38,7 @@ agent multiplexer that lives in your terminal.
 
 ## 相关项目
 
-[[unslothai-unsloth]] [[msitarzewski-agency-agents]] [[nvidia-nemo-switchyard]] [[rustdesk-rustdesk]] [[macro-inc-macro]]
+[[santifer-career-ops]] [[usestrix-strix]] [[akitaonrails-ai-memory]] [[macro-inc-macro]] [[rustdesk-rustdesk]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

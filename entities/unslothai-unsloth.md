@@ -37,7 +37,7 @@ Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[cactus-compute-needle]] [[hkuds-cli-anything]] [[tooljet-tooljet]] [[altic-dev-fluidvoice]]
+[[santifer-career-ops]] [[usestrix-strix]] [[lightningpixel-modly]] [[jundot-omlx]] [[infiniflow-ragflow]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

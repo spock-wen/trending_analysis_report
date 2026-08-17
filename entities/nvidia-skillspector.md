@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[public-apis-public-apis]] [[zhaoxuya520-reverse-skill]] [[cactus-compute-needle]] [[uber-adr]]
+[[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[mukul975-anthropic-cybersecurity-skills]] [[uber-adr]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

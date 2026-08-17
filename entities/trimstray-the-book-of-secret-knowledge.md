@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]] [[kepano-obsidian-skills]] [[altic-dev-fluidvoice]]
+[[hkuds-cli-anything]] [[santifer-career-ops]] [[altic-dev-fluidvoice]] [[cathrynlavery-diagram-design]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[web]] [[cli]]
 

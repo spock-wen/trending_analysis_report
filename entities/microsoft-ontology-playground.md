@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[opencut-app-opencut]] [[practical-tutorials-project-based-learning]] [[cathrynlavery-diagram-design]] [[cursor-plugins]]
+[[hkuds-cli-anything]] [[donnemartin-system-design-primer]] [[altic-dev-fluidvoice]] [[cathrynlavery-diagram-design]] [[practical-tutorials-project-based-learning]]
 
 **所属领域**: [[web]] [[education]]
 

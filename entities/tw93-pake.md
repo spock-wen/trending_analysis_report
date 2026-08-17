@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[nvidia-nemo-switchyard]] [[rustdesk-rustdesk]] [[msitarzewski-agency-agents]] [[macro-inc-macro]]
+[[hkuds-cli-anything]] [[santifer-career-ops]] [[altic-dev-fluidvoice]] [[akitaonrails-ai-memory]] [[macro-inc-macro]]
 
 **所属领域**: [[web]] [[cli]]
 

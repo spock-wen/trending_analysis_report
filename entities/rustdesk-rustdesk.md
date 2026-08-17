@@ -34,5 +34,5 @@ An open-source remote desktop application designed for self-hosting, as an alter
 
 ## 相关项目
 
-[[macro-inc-macro]] [[nvidia-nemo-switchyard]] [[ruvnet-ruview]]
+[[akitaonrails-ai-memory]] [[macro-inc-macro]] [[alexsjones-llmfit]]
 

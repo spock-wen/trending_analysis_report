@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[public-apis-public-apis]] [[lightricks-ltx-2]] [[practical-tutorials-project-based-learning]] [[cactus-compute-needle]]
+[[donnemartin-system-design-primer]] [[santifer-career-ops]] [[usestrix-strix]] [[kepano-obsidian-skills]] [[jundot-omlx]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

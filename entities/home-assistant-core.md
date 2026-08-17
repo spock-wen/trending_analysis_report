@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[public-apis-public-apis]] [[zhaoxuya520-reverse-skill]] [[cactus-compute-needle]] [[uber-adr]]
+[[usestrix-strix]] [[jundot-omlx]] [[mukul975-anthropic-cybersecurity-skills]] [[uber-adr]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[security]]
 

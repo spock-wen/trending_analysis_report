@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-08-17 | 总页面：485
+> 最后更新：2026-08-18 | 总页面：488
 
 ## Entities
 
@@ -16,12 +16,14 @@
 - [[activeloopai-hivemind|hivemind"]] — One brain for all your agents
 - [[addyosmani-agent-skills|agent-skills"]] — Production-grade engineering skills for AI coding agents. 🔥
 - [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i... 🔥
+- [[agalwood-motrix|Motrix"]] — A full-featured download manager. 🆕
 - [[agavra-tuicr|tuicr"]] — a code review TUI with vim keybindings 🆕
 - [[agegr-pi-web|pi-web"]] — Web UI for the pi coding agent 🔥
 - [[agentskills-agentskills|agentskills"]] — Specification and documentation for Agent Skills 🔥
 - [[ahmadibrahiim-website-downloader|Website-downloader"]] — 💡 Download the complete source code of any website (includin...
 - [[aieradev-clypra|Clypra"]] — A modern video editor built with Tauri, React, and TypeScrip...
 - [[aishwaryanr-awesome-generative-ai-guide|awesome-generative-ai-guide"]] — A one stop repository for generative AI research updates, in...
+- [[akitaonrails-ai-memory|ai-memory"]] — Solution for long term memory for agent coding CLIs and to f... 🆕
 - [[alchaincyf-zhangxuefeng-skill|zhangxuefeng-skill"]] — 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 - [[alexsjones-llmfit|llmfit"]] — Hundreds of models & providers. One command to find what run...
 - [[alexzhang13-rlm|rlm"]] — General plug-and-play inference library for Recursive Langua...
@@ -62,7 +64,7 @@
 - [[axorax-awesome-free-apps|awesome-free-apps"]] — Curated list of the best free apps for PC and mobile 🔥
 - [[ayghri-i-have-adhd|i-have-adhd"]] — A skill for your coding agent to stop it from burying the an... 🆕
 - [[bannedbook-fanqiang|fanqiang"]] — 翻墙-科学上网
-- [[basecamp-omarchy|omarchy"]] — Beautiful, Modern & Opinionated Linux 🆕
+- [[basecamp-omarchy|omarchy"]] — Beautiful, Modern & Opinionated Linux
 - [[bigbodycobain-shadowbroker|Shadowbroker"]] — Open-source intelligence for the global theater. Track every... 🆕
 - [[biohub-esm|esm"]] — No description
 - [[blakeblackshear-frigate|frigate"]] — NVR with realtime local object detection for IP cameras 🆕
@@ -103,7 +105,7 @@
 - [[continuedev-continue|continue"]] — open-source coding agent
 - [[copilotkit-copilotkit|CopilotKit"]] — The Frontend Stack for Agents & Generative UI. React, Angula...
 - [[coplaydev-unity-mcp|unity-mcp"]] — Unity MCP acts as a bridge between AI assistants and your Un... 🆕
-- [[cordiverse-cordis|cordis"]] — Meta-Framework of Spatiotemporal Composability 🆕
+- [[cordiverse-cordis|cordis"]] — Meta-Framework of Spatiotemporal Composability 🔥
 - [[corebunch-instatic|Instatic"]] — The open-source alternative to Webflow, Framer and WordPress... 🆕
 - [[coreyhaines31-marketingskills|marketingskills"]] — Marketing skills for Claude Code and AI agents. CRO, copywri...
 - [[crosstalk-solutions-project-nomad|project-nomad"]] — Project N.O.M.A.D, is a self-contained, offline survival com...
@@ -181,7 +183,7 @@
 - [[grpc-grpc|grpc"]] — C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [[harbourmasters-lighthouse|Lighthouse"]] — No description
 - [[hardikpandya-stop-slop|stop-slop"]] — A skill file for removing AI tells from prose 🔥
-- [[harry0703-moneyprinterturbo|MoneyPrinterTurbo"]] — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using...
+- [[harry0703-moneyprinterturbo|MoneyPrinterTurbo"]] — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos ...
 - [[harveyai-harvey-labs|harvey-labs"]] — A benchmark built to evaluate and improve agent capabilities...
 - [[hasaneyldrm-exercises-dataset|exercises-dataset"]] — 1,324-exercise fitness dataset — animation GIFs, 180×180 thu... 🔥
 - [[hashicorp-terraform|terraform"]] — Terraform enables you to safely and predictably create, chan... 🆕
@@ -207,7 +209,7 @@
 - [[icewhaletech-casaos|CasaOS"]] — CasaOS - A simple, easy-to-use, elegant open-source Personal... 🔥
 - [[iii-hq-iii|iii"]] — Effortlessly compose, extend, and observe every service in r...
 - [[imbad0202-academic-research-skills|academic-research-skills"]] — Academic Research Skills for Claude Code: research → write →... 🔥
-- [[immich-app-immich|immich"]] — High performance self-hosted photo and video management solu... 🆕
+- [[immich-app-immich|immich"]] — High performance self-hosted photo and video management solu...
 - [[imthenachoman-how-to-secure-a-linux-server|How-To-Secure-A-Linux-Server"]] — An evolving how-to guide for securing a Linux server.
 - [[infiniflow-ragflow|ragflow"]] — RAGFlow is a leading open-source Retrieval-Augmented Generat... 🔥
 - [[influxdata-telegraf|telegraf"]] — Agent for collecting, processing, aggregating, and writing m... 🆕
@@ -227,6 +229,7 @@
 - [[jenkinsci-jenkins|jenkins"]] — Jenkins automation server
 - [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm"]] — Claude Skill: Multi-source content processor for NotebookLM. 🆕
 - [[juliusbrussee-caveman|caveman"]] — 🪨 why use many token when few token do trick — Claude Code s... 🔥
+- [[jundot-omlx|omlx"]] — LLM inference server with continuous batching & SSD caching ... 🆕
 - [[jwasham-coding-interview-university|coding-interview-university"]] — A complete computer science study plan to become a software ...
 - [[k-dense-ai-scientific-agent-skills|scientific-agent-skills"]] — A set of ready to use Agent Skills for research, science, en... 🔥
 - [[k1tbyte-wand-enhancer|Wand-Enhancer"]] — Advanced UX and interoperability extension for Wand (WeMod) ...
@@ -394,7 +397,7 @@
 - [[ryancodrai-turbovec|turbovec"]] — A vector index built on TurboQuant, written in Rust with Pyt...
 - [[ryanmcdermott-clean-code-javascript|clean-code-javascript"]] — Clean Code concepts adapted for JavaScript
 - [[safishamsi-graphify|graphify"]] — AI coding assistant skill (Claude Code, Codex, OpenCode, Cur...
-- [[santifer-career-ops|career-ops"]] — AI-powered job search system built on Claude Code. 14 skill ...
+- [[santifer-career-ops|career-ops"]] — Open-source AI job search: scan job portals, evaluate listin...
 - [[schollz-croc|croc"]] — Easily and securely send things from one computer to another... 🆕
 - [[semantica-agi-semantica|semantica"]] — Graph-Native Infrastructure for Context and Accountable AI S... 🔥
 - [[shanraisshan-claude-code-best-practice|claude-code-best-practice"]] — from vibe coding to agentic engineering - practice makes cla...
@@ -446,7 +449,7 @@
 - [[universal-debloater-alliance-universal-android-debloater-next-generation|universal-android-debloater-next-generation"]] — Cross-platform GUI written in Rust using ADB to debloat non-... 🔥
 - [[unslothai-unsloth|unsloth"]] — Local UI to run and train LLMs and diffusion models, includi... 🔥
 - [[usekaneo-kaneo|kaneo"]] — 🎯 All you need. Nothing you don't. Open source project manag... 🔥
-- [[usestrix-strix|strix"]] — Open-source AI penetration testing tool to find and fix your... 🔥
+- [[usestrix-strix|strix"]] — Open-source AI penetration testing tool to find and fix your...
 - [[veracrypt-veracrypt|VeraCrypt"]] — Disk encryption with strong security based on TrueCrypt
 - [[virattt-ai-hedge-fund|ai-hedge-fund"]] — An AI Hedge Fund Team
 - [[virgiliojr94-book-to-skill|book-to-skill"]] — Turn any technical book PDF into a Claude Code skill — ready... 🆕

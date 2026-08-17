@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[nvidia-nemo-switchyard]] [[rustdesk-rustdesk]] [[uber-adr]]
+[[akitaonrails-ai-memory]] [[macro-inc-macro]] [[rustdesk-rustdesk]] [[alexsjones-llmfit]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[security]]
 

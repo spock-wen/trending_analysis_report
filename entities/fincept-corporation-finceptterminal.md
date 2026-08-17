@@ -35,7 +35,7 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[public-apis-public-apis]] [[calesthio-openmontage]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]]
+[[tauricresearch-tradingagents]] [[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[cli]] [[data]] [[science]]
 

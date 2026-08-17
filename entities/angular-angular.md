@@ -34,7 +34,7 @@ Deliver web apps with confidence 🚀
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[opencut-app-opencut]] [[cathrynlavery-diagram-design]] [[cursor-plugins]] [[hkuds-cli-anything]]
+[[hkuds-cli-anything]] [[altic-dev-fluidvoice]] [[cathrynlavery-diagram-design]] [[opencut-app-opencut]] [[agalwood-motrix]]
 
 **所属领域**: [[web]]
 

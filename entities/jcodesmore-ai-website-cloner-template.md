@@ -38,7 +38,7 @@ Clone any website with one command using AI coding agents
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[opencut-app-opencut]] [[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[cursor-plugins]]
+[[hkuds-cli-anything]] [[santifer-career-ops]] [[usestrix-strix]] [[altic-dev-fluidvoice]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

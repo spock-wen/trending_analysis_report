@@ -16,7 +16,6 @@ last_trending: 2026-08-16
 peak_rank: 4
 total_stars: 10309
 language: "Swift"
-contested: true
 ---
 
 # altic-dev/FluidVoice
@@ -39,17 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[permissionlesstech-bitchat]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[palmier-io-palmier-pro]] [[cathrynlavery-diagram-design]]
+[[palmier-io-palmier-pro]] [[jaywcjlove-awesome-mac]] [[santifer-career-ops]] [[usestrix-strix]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
-
-
-## ⚠️ 描述变更（2026-08-16）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.
-- **新描述**: Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

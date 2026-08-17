@@ -35,7 +35,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[practical-tutorials-project-based-learning]] [[cactus-compute-needle]] [[kepano-obsidian-skills]] [[hkuds-cli-anything]]
+[[usestrix-strix]] [[kepano-obsidian-skills]] [[jundot-omlx]] [[practical-tutorials-project-based-learning]] [[huggingface-transformers]]
 
 **所属领域**: [[education]]
 

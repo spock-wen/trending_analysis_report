@@ -36,7 +36,7 @@ JavaScript in-page GUI agent. Control web interfaces with natural language.
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[opencut-app-opencut]] [[cathrynlavery-diagram-design]] [[cursor-plugins]] [[hkuds-cli-anything]]
+[[hkuds-cli-anything]] [[santifer-career-ops]] [[usestrix-strix]] [[altic-dev-fluidvoice]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

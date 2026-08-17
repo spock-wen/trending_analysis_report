@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[cactus-compute-needle]] [[kepano-obsidian-skills]] [[hkuds-cli-anything]] [[unslothai-unsloth]]
+[[donnemartin-system-design-primer]] [[usestrix-strix]] [[kepano-obsidian-skills]] [[jundot-omlx]] [[huggingface-transformers]]
 
 **所属领域**: [[education]]
 

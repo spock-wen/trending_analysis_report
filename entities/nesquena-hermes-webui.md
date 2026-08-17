@@ -37,7 +37,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[cathrynlavery-diagram-design]] [[cactus-compute-needle]] [[hkuds-cli-anything]] [[tooljet-tooljet]]
+[[hkuds-cli-anything]] [[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

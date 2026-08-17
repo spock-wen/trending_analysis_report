@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[practical-tutorials-project-based-learning]] [[lyogavin-airllm]] [[anthropics-claude-cookbooks]] [[tooljet-tooljet]] [[hkuds-cli-anything]]
+[[donnemartin-system-design-primer]] [[santifer-career-ops]] [[usestrix-strix]] [[kepano-obsidian-skills]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

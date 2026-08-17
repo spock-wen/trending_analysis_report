@@ -35,5 +35,5 @@ A collective list of free APIs
 
 ## 相关项目
 
-[[cactus-compute-needle]] [[hkuds-cli-anything]] [[unslothai-unsloth]]
+[[harry0703-moneyprinterturbo]] [[mukul975-anthropic-cybersecurity-skills]] [[usestrix-strix]] [[jundot-omlx]]
 

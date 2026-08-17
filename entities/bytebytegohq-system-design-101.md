@@ -34,7 +34,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[tooljet-tooljet]] [[altic-dev-fluidvoice]] [[unslothai-unsloth]]
+[[harry0703-moneyprinterturbo]] [[mukul975-anthropic-cybersecurity-skills]] [[usestrix-strix]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]]
 

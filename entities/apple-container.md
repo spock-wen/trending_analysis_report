@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[permissionlesstech-bitchat]] [[palmier-io-palmier-pro]] [[jaywcjlove-awesome-mac]] [[hkuds-cli-anything]] [[tooljet-tooljet]]
+[[palmier-io-palmier-pro]] [[jaywcjlove-awesome-mac]] [[santifer-career-ops]] [[usestrix-strix]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]]
 

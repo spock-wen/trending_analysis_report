@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[cactus-compute-needle]] [[hkuds-cli-anything]] [[tooljet-tooljet]] [[altic-dev-fluidvoice]]
+[[santifer-career-ops]] [[unslothai-unsloth]] [[usestrix-strix]] [[lightningpixel-modly]] [[jundot-omlx]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

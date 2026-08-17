@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[semantica-agi-semantica]] [[hugohe3-ppt-master]] [[ruvnet-ruview]] [[microsoft-generative-ai-for-beginners]] [[practical-tutorials-project-based-learning]]
+[[donnemartin-system-design-primer]] [[lyogavin-airllm]] [[ruvnet-ruview]] [[litu54-devops-interview-guide]] [[tooljet-tooljet]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

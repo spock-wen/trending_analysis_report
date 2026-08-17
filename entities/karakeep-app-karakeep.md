@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[opencut-app-opencut]] [[cursor-plugins]] [[hkuds-cli-anything]] [[tooljet-tooljet]]
+[[santifer-career-ops]] [[unslothai-unsloth]] [[usestrix-strix]] [[lightningpixel-modly]] [[infiniflow-ragflow]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

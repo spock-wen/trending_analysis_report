@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[opencut-app-opencut]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[cathrynlavery-diagram-design]]
+[[hkuds-cli-anything]] [[santifer-career-ops]] [[tauricresearch-tradingagents]] [[usestrix-strix]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[mattpocock-skills]] [[hugohe3-ppt-master]] [[msitarzewski-agency-agents]] [[nvm-sh-nvm]] [[uber-adr]]
+[[santifer-career-ops]] [[usestrix-strix]] [[akitaonrails-ai-memory]] [[nvm-sh-nvm]] [[alexsjones-llmfit]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

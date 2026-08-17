@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[opencut-app-opencut]] [[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[cursor-plugins]]
+[[hkuds-cli-anything]] [[santifer-career-ops]] [[altic-dev-fluidvoice]] [[cathrynlavery-diagram-design]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[web]] [[cli]]
 

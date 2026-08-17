@@ -34,7 +34,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[practical-tutorials-project-based-learning]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]] [[tooljet-tooljet]] [[altic-dev-fluidvoice]]
+[[donnemartin-system-design-primer]] [[santifer-career-ops]] [[usestrix-strix]] [[akitaonrails-ai-memory]] [[practical-tutorials-project-based-learning]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

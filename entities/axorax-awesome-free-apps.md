@@ -36,5 +36,5 @@ Curated list of the best free apps for PC and mobile
 
 ## 相关项目
 
-[[webpack-webpack]] [[tooljet-tooljet]] [[addyosmani-agent-skills]] [[citrolabs-ego-lite]]
+[[tooljet-tooljet]] [[santifer-career-ops]] [[citrolabs-ego-lite]] [[addyosmani-agent-skills]]
 

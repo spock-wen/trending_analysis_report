@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[mvanhorn-last30days-skill]] [[cactus-compute-needle]]
+[[tauricresearch-tradingagents]] [[santifer-career-ops]] [[unslothai-unsloth]] [[usestrix-strix]] [[lightningpixel-modly]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

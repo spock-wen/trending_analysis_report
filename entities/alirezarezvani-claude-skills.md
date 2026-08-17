@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[public-apis-public-apis]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[msitarzewski-agency-agents]]
+[[tauricresearch-tradingagents]] [[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

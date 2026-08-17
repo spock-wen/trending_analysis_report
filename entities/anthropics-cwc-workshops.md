@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[opencut-app-opencut]] [[hugohe3-ppt-master]] [[obra-superpowers]] [[cursor-plugins]]
+[[opencut-app-opencut]] [[agalwood-motrix]] [[obra-superpowers]] [[immich-app-immich]] [[cordiverse-cordis]]
 
 **所属领域**: [[erp]]
 

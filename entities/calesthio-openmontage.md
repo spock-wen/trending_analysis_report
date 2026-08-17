@@ -38,7 +38,7 @@ World's first open-source, agentic video production system. 12 production pipeli
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[public-apis-public-apis]] [[cactus-compute-needle]] [[hkuds-cli-anything]] [[tooljet-tooljet]]
+[[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[alibaba-open-code-review]] [[opengeos-geolibre]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

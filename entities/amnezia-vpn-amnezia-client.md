@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[geo-tp-esp32-bit-pirate]] [[ladybirdbrowser-ladybird]] [[gabime-spdlog]] [[zhaoxuya520-reverse-skill]]
+[[santifer-career-ops]] [[ladybirdbrowser-ladybird]] [[gabime-spdlog]] [[akitaonrails-ai-memory]] [[geo-tp-esp32-bit-pirate]]
 
 **所属领域**: [[cli]] [[security]]
 

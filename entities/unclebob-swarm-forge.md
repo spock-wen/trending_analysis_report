@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[tooljet-tooljet]] [[penpot-penpot]] [[altic-dev-fluidvoice]] [[unslothai-unsloth]]
+[[santifer-career-ops]] [[usestrix-strix]] [[penpot-penpot]] [[mukul975-anthropic-cybersecurity-skills]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]]
 

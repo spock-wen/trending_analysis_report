@@ -38,7 +38,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[ruvnet-ruview]] [[cactus-compute-needle]] [[uber-adr]] [[hkuds-cli-anything]]
+[[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[ruvnet-ruview]] [[litu54-devops-interview-guide]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

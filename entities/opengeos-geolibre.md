@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[opencut-app-opencut]] [[hugohe3-ppt-master]] [[calesthio-openmontage]] [[cathrynlavery-diagram-design]]
+[[hkuds-cli-anything]] [[altic-dev-fluidvoice]] [[cathrynlavery-diagram-design]] [[alibaba-open-code-review]] [[opencut-app-opencut]]
 
 **所属领域**: [[web]] [[data]]
 

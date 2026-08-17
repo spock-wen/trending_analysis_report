@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[practical-tutorials-project-based-learning]] [[cactus-compute-needle]] [[hkuds-cli-anything]] [[tooljet-tooljet]]
+[[donnemartin-system-design-primer]] [[santifer-career-ops]] [[usestrix-strix]] [[kepano-obsidian-skills]] [[jundot-omlx]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

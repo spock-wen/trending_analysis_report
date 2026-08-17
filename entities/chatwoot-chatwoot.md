@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[tooljet-tooljet]] [[altic-dev-fluidvoice]] [[unslothai-unsloth]] [[docusealco-docuseal]]
+[[santifer-career-ops]] [[usestrix-strix]] [[mukul975-anthropic-cybersecurity-skills]] [[docusealco-docuseal]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]]
 

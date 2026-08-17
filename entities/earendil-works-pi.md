@@ -35,7 +35,7 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[opencut-app-opencut]] [[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[cursor-plugins]]
+[[hkuds-cli-anything]] [[santifer-career-ops]] [[usestrix-strix]] [[altic-dev-fluidvoice]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -35,7 +35,7 @@ A framework for building realtime voice AI agents 🤖🎙️📹
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[public-apis-public-apis]] [[lightricks-ltx-2]] [[cactus-compute-needle]] [[hkuds-cli-anything]]
+[[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[altic-dev-fluidvoice]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

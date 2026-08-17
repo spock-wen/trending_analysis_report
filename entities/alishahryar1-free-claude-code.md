@@ -37,7 +37,7 @@ Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone li
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[public-apis-public-apis]] [[lightricks-ltx-2]] [[msitarzewski-agency-agents]] [[cactus-compute-needle]]
+[[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[akitaonrails-ai-memory]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

@@ -34,7 +34,7 @@ Persistent file-based planning for AI coding agents and long-running agentic tas
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[msitarzewski-agency-agents]] [[cactus-compute-needle]] [[hkuds-cli-anything]] [[tooljet-tooljet]]
+[[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[akitaonrails-ai-memory]] [[alexsjones-llmfit]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

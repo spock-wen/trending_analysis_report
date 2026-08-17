@@ -35,7 +35,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[gabime-spdlog]] [[cathrynlavery-diagram-design]] [[amnezia-vpn-amnezia-client]] [[hkuds-cli-anything]]
+[[hkuds-cli-anything]] [[amnezia-vpn-amnezia-client]] [[altic-dev-fluidvoice]] [[gabime-spdlog]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]]
 

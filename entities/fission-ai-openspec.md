@@ -34,7 +34,7 @@ Spec-driven development (SDD) for AI coding assistants.
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[opencut-app-opencut]] [[cursor-plugins]] [[hkuds-cli-anything]] [[tooljet-tooljet]]
+[[santifer-career-ops]] [[usestrix-strix]] [[opencut-app-opencut]] [[agalwood-motrix]] [[immich-app-immich]]
 
 **所属领域**: [[ai-agent]]
 

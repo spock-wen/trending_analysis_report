@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[public-apis-public-apis]] [[calesthio-openmontage]] [[cactus-compute-needle]] [[hkuds-cli-anything]]
+[[santifer-career-ops]] [[unslothai-unsloth]] [[usestrix-strix]] [[lightningpixel-modly]] [[jundot-omlx]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

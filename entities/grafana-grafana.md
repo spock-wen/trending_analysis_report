@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[semantica-agi-semantica]] [[opencut-app-opencut]] [[hugohe3-ppt-master]] [[calesthio-openmontage]]
+[[ruvnet-ruview]] [[alibaba-open-code-review]] [[opengeos-geolibre]] [[opencut-app-opencut]] [[agalwood-motrix]]
 
 **所属领域**: [[data]] [[devops]]
 

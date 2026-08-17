@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[jenkinsci-jenkins]] [[google-guava]] [[hugohe3-ppt-master]] [[calesthio-openmontage]] [[github-copilot-sdk]]
+[[santifer-career-ops]] [[usestrix-strix]] [[jenkinsci-jenkins]] [[google-guava]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[webpack-webpack]] [[hkuds-cli-anything]] [[tooljet-tooljet]] [[citrolabs-ego-lite]] [[altic-dev-fluidvoice]]
+[[santifer-career-ops]] [[usestrix-strix]] [[tooljet-tooljet]] [[mukul975-anthropic-cybersecurity-skills]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]]
 

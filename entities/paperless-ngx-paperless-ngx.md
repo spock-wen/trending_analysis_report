@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[mvanhorn-last30days-skill]] [[cactus-compute-needle]]
+[[tauricresearch-tradingagents]] [[usestrix-strix]] [[jundot-omlx]] [[mukul975-anthropic-cybersecurity-skills]] [[paperclipai-paperclip]]
 
 **所属领域**: [[science]]
 

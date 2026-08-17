@@ -38,7 +38,7 @@ Use Codex from Claude Code to review code or delegate tasks.
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[webpack-webpack]] [[citrolabs-ego-lite]] [[tooljet-tooljet]] [[hkuds-cli-anything]]
+[[santifer-career-ops]] [[usestrix-strix]] [[addyosmani-agent-skills]] [[tooljet-tooljet]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[ai-agent]]
 

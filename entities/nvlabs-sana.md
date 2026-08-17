@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[cactus-compute-needle]] [[hkuds-cli-anything]] [[tooljet-tooljet]] [[unslothai-unsloth]]
+[[unslothai-unsloth]] [[usestrix-strix]] [[lightningpixel-modly]] [[jundot-omlx]] [[infiniflow-ragflow]]
 
 **所属领域**: [[image-gen]]
 

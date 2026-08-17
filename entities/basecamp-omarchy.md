@@ -34,7 +34,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[mattpocock-skills]] [[nvm-sh-nvm]] [[kepano-obsidian-skills]] [[hkuds-cli-anything]] [[msitarzewski-agency-agents]]
+[[santifer-career-ops]] [[akitaonrails-ai-memory]] [[nvm-sh-nvm]] [[alexsjones-llmfit]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

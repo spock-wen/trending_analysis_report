@@ -38,7 +38,7 @@ AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框�
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[mvanhorn-last30days-skill]] [[cactus-compute-needle]]
+[[tauricresearch-tradingagents]] [[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

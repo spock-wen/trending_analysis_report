@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[jenkinsci-jenkins]] [[google-guava]] [[hugohe3-ppt-master]] [[calesthio-openmontage]] [[github-copilot-sdk]]
+[[santifer-career-ops]] [[usestrix-strix]] [[jenkinsci-jenkins]] [[google-guava]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

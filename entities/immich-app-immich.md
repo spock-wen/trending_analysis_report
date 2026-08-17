@@ -1,20 +1,20 @@
 ---
 title: "immich-app/immich"
 created: 2026-07-05
-updated: 2026-07-06
-last_active: 2026-07-06
+updated: 2026-08-18
+last_active: 2026-08-18
 type: tool
 tags: [typescript]
-sources: [raw/trending/2026-07-06.json]
-confidence: medium
-trending_count_daily: 2
+sources: [raw/trending/2026-08-18.json]
+confidence: high
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 1
 first_trending: 2026-07-05
-last_trending: 2026-07-06
-peak_rank: 13
-total_stars: 106070
+last_trending: 2026-08-18
+peak_rank: 9
+total_stars: 111114
 language: "TypeScript"
 ---
 
@@ -23,17 +23,18 @@ language: "TypeScript"
 High performance self-hosted photo and video management solution.
 
 - 语言: TypeScript
-- 上榜次数: 2 次
-- 连续上榜: 2 天
-- 最高排名: #13
+- 上榜次数: 3 次
+- 连续上榜: 1 天
+- 最高排名: #9
 - 链接: [immich-app/immich](https://github.com/immich-app/immich)
 
 ## 上榜历史
 
+  - 2026-08-18: #9, +337⭐
   - 2026-07-06: #16, +475⭐
   - 2026-07-05: #13, +198⭐
 
 ## 相关项目
 
-[[cordiverse-cordis]] [[holaboss-ai-holaos]] [[opencut-app-opencut]] [[cursor-plugins]]
+[[opencut-app-opencut]] [[agalwood-motrix]] [[cordiverse-cordis]]
 

@@ -36,7 +36,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[semantica-agi-semantica]] [[public-apis-public-apis]] [[ruvnet-ruview]] [[msitarzewski-agency-agents]] [[cactus-compute-needle]]
+[[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[akitaonrails-ai-memory]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

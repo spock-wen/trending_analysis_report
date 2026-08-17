@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[practical-tutorials-project-based-learning]] [[mvanhorn-last30days-skill]] [[kepano-obsidian-skills]]
+[[donnemartin-system-design-primer]] [[santifer-career-ops]] [[harry0703-moneyprinterturbo]] [[usestrix-strix]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

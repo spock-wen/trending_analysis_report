@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[andreknieriem-headunit-revived]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[bannedbook-fanqiang]] [[altic-dev-fluidvoice]]
+[[hkuds-cli-anything]] [[altic-dev-fluidvoice]] [[bannedbook-fanqiang]] [[cathrynlavery-diagram-design]] [[andreknieriem-headunit-revived]]
 
 **所属领域**: [[web]]
 

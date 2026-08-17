@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[semantica-agi-semantica]] [[chenyme-grok2api]] [[ruvnet-ruview]] [[uber-adr]] [[esengine-deepseek-reasonix]]
+[[santifer-career-ops]] [[usestrix-strix]] [[ruvnet-ruview]] [[infiniflow-ragflow]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

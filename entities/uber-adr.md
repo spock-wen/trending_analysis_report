@@ -35,7 +35,7 @@ ADR secures enterprise AI agents through observability, security benchmarking, a
 
 ## 相关项目
 
-[[semantica-agi-semantica]] [[affaan-m-ecc]] [[hugohe3-ppt-master]] [[public-apis-public-apis]] [[ruvnet-ruview]]
+[[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[semantica-agi-semantica]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[security]] [[erp]]
 

@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[altic-dev-fluidvoice]]
+[[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]] [[bojieli-ai-agent-book]] [[citrolabs-ego-lite]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

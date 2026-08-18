@@ -36,7 +36,7 @@ ToolJet is the open-source foundation of ToolJet AI - the enterprise app generat
 
 ## 相关项目
 
-[[santifer-career-ops]] [[unslothai-unsloth]] [[usestrix-strix]] [[lightningpixel-modly]] [[infiniflow-ragflow]]
+[[mukul975-anthropic-cybersecurity-skills]] [[addyosmani-agent-skills]] [[bojieli-ai-agent-book]] [[genlayerlabs-genlayer-project-boilerplate]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[image-gen]]
 

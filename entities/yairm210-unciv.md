@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[bannedbook-fanqiang]] [[pppscn-smsforwarder]] [[mukul975-anthropic-cybersecurity-skills]]
+[[mukul975-anthropic-cybersecurity-skills]] [[pppscn-smsforwarder]] [[bojieli-ai-agent-book]] [[embabel-embabel-agent]] [[andreknieriem-headunit-revived]]
 
 **所属领域**: [[ai-agent]]
 

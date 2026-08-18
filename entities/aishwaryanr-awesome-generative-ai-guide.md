@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[santifer-career-ops]] [[harry0703-moneyprinterturbo]] [[usestrix-strix]] [[tauricresearch-tradingagents]]
+[[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]] [[bojieli-ai-agent-book]] [[citrolabs-ego-lite]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

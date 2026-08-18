@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-19",
+  "scraped_at": "2026-08-19T07:01:14.428972",
+  "period": "daily",
+  "count": 12,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars_today": 2306,
+      "total_stars": 108461,
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+    },
+    {
+      "rank": 2,
+      "repo": "chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars_today": 256,
+      "total_stars": 1990,
+      "url": "https://github.com/chaitanyagiri/munder-difflin"
+    },
+    {
+      "rank": 3,
+      "repo": "akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars_today": 730,
+      "total_stars": 2683,
+      "url": "https://github.com/akitaonrails/ai-memory"
+    },
+    {
+      "rank": 4,
+      "repo": "volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "stars_today": 298,
+      "total_stars": 29332,
+      "url": "https://github.com/volcengine/OpenViking"
+    },
+    {
+      "rank": 5,
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars_today": 726,
+      "total_stars": 29144,
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "rank": 6,
+      "repo": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars_today": 1139,
+      "total_stars": 464473,
+      "url": "https://github.com/public-apis/public-apis"
+    },
+    {
+      "rank": 7,
+      "repo": "basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars_today": 411,
+      "total_stars": 26393,
+      "url": "https://github.com/basecamp/omarchy"
+    },
+    {
+      "rank": 8,
+      "repo": "agalwood/Motrix",
+      "description": "A full-featured download manager.",
+      "language": "TypeScript",
+      "stars_today": 607,
+      "total_stars": 53635,
+      "url": "https://github.com/agalwood/Motrix"
+    },
+    {
+      "rank": 10,
+      "repo": "jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars_today": 366,
+      "total_stars": 19376,
+      "url": "https://github.com/jundot/omlx"
+    },
+    {
+      "rank": 11,
+      "repo": "bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars_today": 556,
+      "total_stars": 39081,
+      "url": "https://github.com/bojieli/ai-agent-book"
+    },
+    {
+      "rank": 12,
+      "repo": "genlayerlabs/genlayer-project-boilerplate",
+      "description": "",
+      "language": "TypeScript",
+      "stars_today": 543,
+      "total_stars": 15900,
+      "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate"
+    },
+    {
+      "rank": 13,
+      "repo": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars_today": 288,
+      "total_stars": 84731,
+      "url": "https://github.com/OpenCut-app/OpenCut"
+    }
+  ]
+}

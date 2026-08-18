@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[altic-dev-fluidvoice]] [[cathrynlavery-diagram-design]] [[opencut-app-opencut]] [[agalwood-motrix]]
+[[hkuds-cli-anything]] [[citrolabs-ego-lite]] [[chaitanyagiri-munder-difflin]] [[agalwood-motrix]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]]
 

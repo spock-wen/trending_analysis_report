@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[donnemartin-system-design-primer]] [[altic-dev-fluidvoice]] [[cathrynlavery-diagram-design]] [[practical-tutorials-project-based-learning]]
+[[hkuds-cli-anything]] [[citrolabs-ego-lite]] [[huggingface-transformers]] [[kepano-obsidian-skills]] [[chaitanyagiri-munder-difflin]]
 
 **所属领域**: [[web]] [[education]]
 

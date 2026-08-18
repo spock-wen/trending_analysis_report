@@ -36,7 +36,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[mukul975-anthropic-cybersecurity-skills]] [[paperclipai-paperclip]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[public-apis-public-apis]] [[paperclipai-paperclip]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

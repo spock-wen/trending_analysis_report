@@ -36,7 +36,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[unslothai-unsloth]] [[lightningpixel-modly]] [[akitaonrails-ai-memory]] [[macro-inc-macro]] [[infiniflow-ragflow]]
+[[mukul975-anthropic-cybersecurity-skills]] [[alexsjones-llmfit]] [[rustdesk-rustdesk]] [[macro-inc-macro]] [[infiniflow-ragflow]]
 
 **所属领域**: [[security]] [[image-gen]]
 

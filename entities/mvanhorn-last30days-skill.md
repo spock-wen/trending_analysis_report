@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[santifer-career-ops]] [[tauricresearch-tradingagents]] [[usestrix-strix]] [[jundot-omlx]]
+[[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]] [[bojieli-ai-agent-book]] [[citrolabs-ego-lite]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

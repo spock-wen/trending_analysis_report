@@ -37,5 +37,5 @@ Empowering everyone to host fast and efficient Minecraft servers.
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[macro-inc-macro]] [[rustdesk-rustdesk]] [[alexsjones-llmfit]]
+[[rustdesk-rustdesk]] [[macro-inc-macro]] [[akitaonrails-ai-memory]] [[alexsjones-llmfit]]
 

@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[infiniflow-ragflow]] [[mukul975-anthropic-cybersecurity-skills]] [[pranshuparmar-witr]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[zhaoxuya520-reverse-skill]] [[uber-adr]] [[chenyme-grok2api]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

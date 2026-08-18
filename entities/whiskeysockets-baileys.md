@@ -34,7 +34,7 @@ Socket-based TS/JavaScript API for WhatsApp Web
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[santifer-career-ops]] [[usestrix-strix]] [[altic-dev-fluidvoice]] [[cathrynlavery-diagram-design]]
+[[mukul975-anthropic-cybersecurity-skills]] [[addyosmani-agent-skills]] [[hkuds-cli-anything]] [[bojieli-ai-agent-book]] [[tooljet-tooljet]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

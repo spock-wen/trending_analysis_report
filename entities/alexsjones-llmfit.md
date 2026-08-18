@@ -35,7 +35,7 @@ Hundreds of models & providers. One command to find what runs on your hardware.
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[akitaonrails-ai-memory]] [[macro-inc-macro]] [[rustdesk-rustdesk]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[rustdesk-rustdesk]] [[macro-inc-macro]] [[basecamp-omarchy]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

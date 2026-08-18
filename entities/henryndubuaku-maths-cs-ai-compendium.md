@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[santifer-career-ops]] [[usestrix-strix]] [[opencut-app-opencut]] [[agalwood-motrix]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[paperclipai-paperclip]] [[tauricresearch-tradingagents]] [[chaitanyagiri-munder-difflin]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

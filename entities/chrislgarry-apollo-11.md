@@ -37,7 +37,7 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[santifer-career-ops]] [[mukul975-anthropic-cybersecurity-skills]] [[alexsjones-llmfit]]
+[[mukul975-anthropic-cybersecurity-skills]] [[santifer-career-ops]] [[akitaonrails-ai-memory]] [[basecamp-omarchy]]
 
 **所属领域**: [[cli]]
 

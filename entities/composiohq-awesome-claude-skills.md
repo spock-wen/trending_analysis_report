@@ -37,7 +37,7 @@ A curated list of awesome Claude Skills, resources, and tools for customizing Cl
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[mukul975-anthropic-cybersecurity-skills]] [[harry0703-moneyprinterturbo]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[public-apis-public-apis]] [[harry0703-moneyprinterturbo]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]]
 

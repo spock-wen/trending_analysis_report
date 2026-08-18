@@ -34,7 +34,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[chen08209-flclash]] [[mukul975-anthropic-cybersecurity-skills]] [[harry0703-moneyprinterturbo]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[flutter-flutter]] [[chen08209-flclash]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]]
 

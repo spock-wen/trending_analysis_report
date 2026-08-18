@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[akitaonrails-ai-memory]] [[alexsjones-llmfit]] [[mukul975-anthropic-cybersecurity-skills]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[basecamp-omarchy]] [[harry0703-moneyprinterturbo]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

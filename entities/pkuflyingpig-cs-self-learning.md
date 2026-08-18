@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[donnemartin-system-design-primer]] [[kepano-obsidian-skills]] [[altic-dev-fluidvoice]] [[cathrynlavery-diagram-design]]
+[[hkuds-cli-anything]] [[huggingface-transformers]] [[trycua-cua]] [[kepano-obsidian-skills]] [[practical-tutorials-project-based-learning]]
 
 **所属领域**: [[web]] [[education]]
 

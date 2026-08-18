@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[donnemartin-system-design-primer]] [[santifer-career-ops]] [[usestrix-strix]] [[kepano-obsidian-skills]] [[jundot-omlx]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[kepano-obsidian-skills]] [[hugohe3-ppt-master]] [[practical-tutorials-project-based-learning]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

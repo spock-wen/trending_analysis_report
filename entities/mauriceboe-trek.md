@@ -35,5 +35,5 @@ A self-hosted travel/trip planner with real-time collaboration, interactive maps
 
 ## 相关项目
 
-[[opencut-app-opencut]] [[agalwood-motrix]] [[immich-app-immich]] [[cordiverse-cordis]]
+[[genlayerlabs-genlayer-project-boilerplate]] [[opencut-app-opencut]] [[chaitanyagiri-munder-difflin]] [[agalwood-motrix]]
 

@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[jenkinsci-jenkins]] [[google-guava]] [[akitaonrails-ai-memory]]
+[[mukul975-anthropic-cybersecurity-skills]] [[jenkinsci-jenkins]] [[alibaba-open-code-review]] [[apache-cassandra]] [[bojieli-ai-agent-book]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

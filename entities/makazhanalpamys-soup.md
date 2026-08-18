@@ -34,7 +34,7 @@ Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB lapto
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[mukul975-anthropic-cybersecurity-skills]] [[harry0703-moneyprinterturbo]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[public-apis-public-apis]] [[harry0703-moneyprinterturbo]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]]
 

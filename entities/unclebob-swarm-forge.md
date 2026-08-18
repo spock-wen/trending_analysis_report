@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[penpot-penpot]] [[mukul975-anthropic-cybersecurity-skills]] [[harry0703-moneyprinterturbo]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[harry0703-moneyprinterturbo]] [[akitaonrails-ai-memory]] [[penpot-penpot]]
 
 **所属领域**: [[ai-agent]]
 

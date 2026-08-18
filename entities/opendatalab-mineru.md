@@ -36,7 +36,7 @@ Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[alibaba-open-code-review]] [[opengeos-geolibre]]
+[[mukul975-anthropic-cybersecurity-skills]] [[alibaba-open-code-review]] [[bojieli-ai-agent-book]] [[hugohe3-ppt-master]] [[volcengine-openviking]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

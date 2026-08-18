@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[santifer-career-ops]] [[unslothai-unsloth]] [[usestrix-strix]] [[lightningpixel-modly]] [[jundot-omlx]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[lightningpixel-modly]] [[unslothai-unsloth]] [[tooljet-tooljet]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

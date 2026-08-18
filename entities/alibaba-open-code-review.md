@@ -37,7 +37,7 @@ Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture cod
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[infiniflow-ragflow]] [[opengeos-geolibre]] [[hugohe3-ppt-master]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[hugohe3-ppt-master]] [[volcengine-openviking]] [[chenyme-grok2api]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

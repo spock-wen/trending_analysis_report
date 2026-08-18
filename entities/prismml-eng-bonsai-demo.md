@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[akitaonrails-ai-memory]] [[nvm-sh-nvm]] [[alexsjones-llmfit]]
+[[mukul975-anthropic-cybersecurity-skills]] [[mattpocock-skills]] [[msitarzewski-agency-agents]] [[bojieli-ai-agent-book]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

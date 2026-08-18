@@ -38,7 +38,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[mukul975-anthropic-cybersecurity-skills]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[tauricresearch-tradingagents]] [[public-apis-public-apis]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

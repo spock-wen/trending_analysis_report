@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[usestrix-strix]] [[jundot-omlx]] [[mukul975-anthropic-cybersecurity-skills]] [[paperclipai-paperclip]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[tauricresearch-tradingagents]] [[public-apis-public-apis]] [[paperclipai-paperclip]]
 
 **所属领域**: [[science]]
 

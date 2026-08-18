@@ -36,5 +36,5 @@ Visualize, collaborate, and evolve the software architecture with always actual 
 
 ## 相关项目
 
-[[opencut-app-opencut]] [[agalwood-motrix]] [[immich-app-immich]] [[cordiverse-cordis]]
+[[genlayerlabs-genlayer-project-boilerplate]] [[opencut-app-opencut]] [[chaitanyagiri-munder-difflin]] [[agalwood-motrix]]
 

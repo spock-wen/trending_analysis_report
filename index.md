@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-08-18 | 总页面：488
+> 最后更新：2026-08-19 | 总页面：491
 
 ## Entities
 
@@ -85,6 +85,7 @@
 - [[catchorg-catch2|Catch2"]] — A modern, C++-native, test framework for unit-tests, TDD and... 🆕
 - [[cathrynlavery-diagram-design|diagram-design"]] — 29 editorial diagram types for Claude Code. Self-contained H... 🔥
 - [[chachamaru127-claude-code-harness|claude-code-harness"]] — Claude Code Dedicated Development Harness - Achieving High-Q...
+- [[chaitanyagiri-munder-difflin|munder-difflin"]] — local multi-agent harness 🆕
 - [[chatwoot-chatwoot|chatwoot"]] — Open-source live-chat, email support, omni-channel desk. An ...
 - [[chen08209-flclash|FlClash"]] — A multi-platform proxy client based on ClashMeta,simple and ...
 - [[chenyme-grok2api|grok2api"]] — Multi-account API gateway for Grok Build, Grok Web, and Grok...
@@ -163,6 +164,7 @@
 - [[galilai-group-stable-worldmodel|stable-worldmodel"]] — A platform for reproducible world model research and evaluat... 🆕
 - [[garrytan-gstack|gstack"]] — Use Garry Tan's exact Claude Code setup: 23 opinionated tool... 🔥
 - [[gastownhall-gastown|gastown"]] — Gas Town - multi-agent workspace manager 🆕
+- [[genlayerlabs-genlayer-project-boilerplate|genlayer-project-boilerplate"]] — No description 🆕
 - [[geo-tp-esp32-bit-pirate|ESP32-Bit-Pirate"]] — A Hardware Hacking Tool with Web-Based CLI That Speaks Every...
 - [[github-copilot-sdk|copilot-sdk"]] — Multi-platform SDK for integrating GitHub Copilot Agent into... 🆕
 - [[github-docs|docs"]] — The open-source repo for docs.github.com
@@ -183,7 +185,7 @@
 - [[grpc-grpc|grpc"]] — C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [[harbourmasters-lighthouse|Lighthouse"]] — No description
 - [[hardikpandya-stop-slop|stop-slop"]] — A skill file for removing AI tells from prose 🔥
-- [[harry0703-moneyprinterturbo|MoneyPrinterTurbo"]] — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos ...
+- [[harry0703-moneyprinterturbo|MoneyPrinterTurbo"]] — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos ... 🆕
 - [[harveyai-harvey-labs|harvey-labs"]] — A benchmark built to evaluate and improve agent capabilities...
 - [[hasaneyldrm-exercises-dataset|exercises-dataset"]] — 1,324-exercise fitness dataset — animation GIFs, 180×180 thu... 🔥
 - [[hashicorp-terraform|terraform"]] — Terraform enables you to safely and predictably create, chan... 🆕
@@ -301,7 +303,7 @@
 - [[moonshotai-flashkda|FlashKDA"]] — FlashKDA: high-performance Kimi Delta Attention kernels
 - [[moonshotai-kimi-cli|kimi-cli"]] — Kimi Code CLI is your next CLI agent. 🔥
 - [[msitarzewski-agency-agents|agency-agents"]] — A complete AI agency at your fingertips - From frontend wiza... 🔥
-- [[mukul975-anthropic-cybersecurity-skills|Anthropic-Cybersecurity-Skills"]] — 817 structured cybersecurity skills for AI agents · Mapped t...
+- [[mukul975-anthropic-cybersecurity-skills|Anthropic-Cybersecurity-Skills"]] — 817 structured cybersecurity skills for AI agents · Mapped t... 🆕
 - [[multica-ai-andrej-karpathy-skills|andrej-karpathy-skills"]] — A single CLAUDE.md file to improve Claude Code behavior, der... 🔥
 - [[multica-ai-multica|multica"]] — The open-source managed agents platform. Turn coding agents ... 🆕
 - [[music-assistant-server|server"]] — Music Assistant is a free, opensource Media library manager ... 🔥
@@ -373,7 +375,7 @@
 - [[prisma-prisma|prisma"]] — Next-generation ORM for Node.js & TypeScript | PostgreSQL, M...
 - [[prismml-eng-bonsai-demo|Bonsai-demo"]] — Bonsai Demo 🆕
 - [[protocolbuffers-protobuf|protobuf"]] — Protocol Buffers - Google's data interchange format
-- [[public-apis-public-apis|public-apis"]] — A collective list of free APIs 🆕
+- [[public-apis-public-apis|public-apis"]] — A collective list of free APIs
 - [[pumpkin-mc-pumpkin|Pumpkin"]] — Empowering everyone to host fast and efficient Minecraft ser... 🔥
 - [[puppeteer-puppeteer|puppeteer"]] — JavaScript API for Chrome and Firefox
 - [[pytest-dev-pytest|pytest"]] — The pytest framework makes it easy to write small tests, yet...
@@ -454,6 +456,7 @@
 - [[virattt-ai-hedge-fund|ai-hedge-fund"]] — An AI Hedge Fund Team
 - [[virgiliojr94-book-to-skill|book-to-skill"]] — Turn any technical book PDF into a Claude Code skill — ready... 🆕
 - [[vitali87-code-graph-rag|code-graph-rag"]] — The ultimate RAG for your monorepo. Query, understand, and e... 🔥
+- [[volcengine-openviking|OpenViking"]] — Self-evolving Context Database for AI Agents. Unify Agent Me... 🆕
 - [[voltagent-awesome-design-md|awesome-design-md"]] — A collection of DESIGN.md files analysis by popular brand de...
 - [[vudovn-ag-kit|ag-kit"]] — No description
 - [[vxcontrol-pentagi|pentagi"]] — Fully autonomous AI Agents system capable of performing comp...

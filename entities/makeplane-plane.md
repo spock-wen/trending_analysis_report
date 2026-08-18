@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[santifer-career-ops]] [[akitaonrails-ai-memory]] [[opencut-app-opencut]] [[agalwood-motrix]] [[immich-app-immich]]
+[[mukul975-anthropic-cybersecurity-skills]] [[chaitanyagiri-munder-difflin]] [[agalwood-motrix]] [[basecamp-omarchy]] [[opencut-app-opencut]]
 
 **所属领域**: [[cli]]
 

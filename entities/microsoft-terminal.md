@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[santifer-career-ops]] [[amnezia-vpn-amnezia-client]] [[ladybirdbrowser-ladybird]] [[gabime-spdlog]] [[akitaonrails-ai-memory]]
+[[mukul975-anthropic-cybersecurity-skills]] [[ladybirdbrowser-ladybird]] [[geo-tp-esp32-bit-pirate]] [[basecamp-omarchy]] [[santifer-career-ops]]
 
 **所属领域**: [[cli]]
 

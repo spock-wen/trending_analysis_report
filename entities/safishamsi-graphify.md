@@ -34,7 +34,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[infiniflow-ragflow]] [[litu54-devops-interview-guide]] [[tooljet-tooljet]] [[harry0703-moneyprinterturbo]]
+[[lightningpixel-modly]] [[uber-adr]] [[basecamp-omarchy]] [[harry0703-moneyprinterturbo]] [[infiniflow-ragflow]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

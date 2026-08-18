@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[infiniflow-ragflow]] [[akitaonrails-ai-memory]] [[alexsjones-llmfit]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[chenyme-grok2api]] [[esengine-deepseek-reasonix]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

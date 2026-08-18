@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[mukul975-anthropic-cybersecurity-skills]] [[docusealco-docuseal]] [[harry0703-moneyprinterturbo]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[docusealco-docuseal]] [[harry0703-moneyprinterturbo]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]]
 

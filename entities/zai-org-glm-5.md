@@ -35,7 +35,7 @@ GLM-5: From Vibe Coding to Agentic Engineering
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[mukul975-anthropic-cybersecurity-skills]] [[usestrix-strix]] [[santifer-career-ops]]
+[[mukul975-anthropic-cybersecurity-skills]] [[harry0703-moneyprinterturbo]] [[akitaonrails-ai-memory]] [[bojieli-ai-agent-book]]
 
 **所属领域**: [[ai-agent]]
 

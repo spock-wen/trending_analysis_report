@@ -38,7 +38,7 @@ Open-source AI penetration testing tool to find and fix your app’s vulnerabili
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[mukul975-anthropic-cybersecurity-skills]] [[santifer-career-ops]] [[jundot-omlx]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[public-apis-public-apis]] [[harry0703-moneyprinterturbo]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]]
 

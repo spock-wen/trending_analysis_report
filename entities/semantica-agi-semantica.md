@@ -38,7 +38,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[ruvnet-ruview]] [[litu54-devops-interview-guide]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[ruvnet-ruview]] [[litu54-devops-interview-guide]] [[uber-adr]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

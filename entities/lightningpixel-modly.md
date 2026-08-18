@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[santifer-career-ops]] [[unslothai-unsloth]] [[usestrix-strix]] [[infiniflow-ragflow]] [[opencut-app-opencut]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[chaitanyagiri-munder-difflin]] [[agalwood-motrix]] [[unslothai-unsloth]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

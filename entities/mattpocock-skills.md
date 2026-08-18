@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[akitaonrails-ai-memory]] [[nvm-sh-nvm]] [[alexsjones-llmfit]]
+[[mukul975-anthropic-cybersecurity-skills]] [[msitarzewski-agency-agents]] [[bojieli-ai-agent-book]] [[nvm-sh-nvm]] [[basecamp-omarchy]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

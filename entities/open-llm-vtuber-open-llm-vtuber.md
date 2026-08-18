@@ -37,7 +37,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[altic-dev-fluidvoice]] [[huggingface-transformers]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[huggingface-transformers]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

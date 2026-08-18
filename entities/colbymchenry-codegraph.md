@@ -38,7 +38,7 @@ Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[opencut-app-opencut]] [[agalwood-motrix]] [[immich-app-immich]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[chaitanyagiri-munder-difflin]] [[agalwood-motrix]] [[opencut-app-opencut]]
 
 **所属领域**: [[ai-agent]]
 

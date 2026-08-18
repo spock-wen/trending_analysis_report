@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[usestrix-strix]] [[jundot-omlx]] [[mukul975-anthropic-cybersecurity-skills]] [[uber-adr]] [[zhaoxuya520-reverse-skill]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[uber-adr]] [[public-apis-public-apis]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[security]]
 

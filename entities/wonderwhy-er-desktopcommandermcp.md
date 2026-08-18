@@ -38,7 +38,7 @@ This is MCP server for Claude that gives it terminal control, file system search
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[akitaonrails-ai-memory]] [[opencut-app-opencut]] [[agalwood-motrix]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[chaitanyagiri-munder-difflin]] [[agalwood-motrix]] [[basecamp-omarchy]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

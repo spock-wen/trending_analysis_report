@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[donnemartin-system-design-primer]] [[santifer-career-ops]] [[usestrix-strix]] [[kepano-obsidian-skills]] [[akitaonrails-ai-memory]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[huggingface-transformers]] [[kepano-obsidian-skills]] [[chaitanyagiri-munder-difflin]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[macro-inc-macro]] [[litu54-devops-interview-guide]] [[rustdesk-rustdesk]] [[alexsjones-llmfit]]
+[[alexsjones-llmfit]] [[semantica-agi-semantica]] [[rustdesk-rustdesk]] [[macro-inc-macro]] [[litu54-devops-interview-guide]]
 
 **所属领域**: [[devops]]
 

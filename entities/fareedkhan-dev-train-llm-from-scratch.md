@@ -37,7 +37,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[alibaba-open-code-review]] [[opengeos-geolibre]]
+[[mukul975-anthropic-cybersecurity-skills]] [[alibaba-open-code-review]] [[bojieli-ai-agent-book]] [[hugohe3-ppt-master]] [[volcengine-openviking]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

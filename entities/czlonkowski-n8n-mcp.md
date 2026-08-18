@@ -35,7 +35,7 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[opencut-app-opencut]] [[agalwood-motrix]] [[immich-app-immich]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[chaitanyagiri-munder-difflin]] [[agalwood-motrix]] [[opencut-app-opencut]]
 
 **所属领域**: [[ai-agent]]
 

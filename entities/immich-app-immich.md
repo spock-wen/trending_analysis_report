@@ -36,5 +36,5 @@ High performance self-hosted photo and video management solution.
 
 ## 相关项目
 
-[[opencut-app-opencut]] [[agalwood-motrix]] [[cordiverse-cordis]]
+[[genlayerlabs-genlayer-project-boilerplate]] [[opencut-app-opencut]] [[chaitanyagiri-munder-difflin]] [[agalwood-motrix]]
 

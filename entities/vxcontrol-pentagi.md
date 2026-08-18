@@ -34,7 +34,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[infiniflow-ragflow]] [[mukul975-anthropic-cybersecurity-skills]] [[pranshuparmar-witr]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[chenyme-grok2api]] [[esengine-deepseek-reasonix]] [[pranshuparmar-witr]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[opencut-app-opencut]] [[agalwood-motrix]] [[obra-superpowers]] [[immich-app-immich]] [[cordiverse-cordis]]
+[[hugohe3-ppt-master]] [[chaitanyagiri-munder-difflin]] [[agalwood-motrix]] [[tooljet-tooljet]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

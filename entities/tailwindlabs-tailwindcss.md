@@ -35,7 +35,7 @@ A utility-first CSS framework for rapid UI development.
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[santifer-career-ops]] [[usestrix-strix]] [[altic-dev-fluidvoice]] [[cathrynlavery-diagram-design]]
+[[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]] [[bojieli-ai-agent-book]] [[citrolabs-ego-lite]] [[chaitanyagiri-munder-difflin]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

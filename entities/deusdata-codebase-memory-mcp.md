@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[microsoft-powertoys]] [[santifer-career-ops]] [[harry0703-moneyprinterturbo]] [[usestrix-strix]] [[alibaba-open-code-review]]
+[[mukul975-anthropic-cybersecurity-skills]] [[alibaba-open-code-review]] [[bojieli-ai-agent-book]] [[antirez-ds4]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

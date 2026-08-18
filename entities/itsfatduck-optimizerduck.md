@@ -34,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[k1tbyte-wand-enhancer]] [[dotnet-aspnetcore]] [[par274-sharpemu]] [[mukul975-anthropic-cybersecurity-skills]] [[uber-adr]]
+[[mukul975-anthropic-cybersecurity-skills]] [[dotnet-aspnetcore]] [[jellyfin-jellyfin]] [[affaan-m-ecc]] [[uber-adr]]
 
 **所属领域**: [[security]]
 

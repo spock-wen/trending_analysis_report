@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[donnemartin-system-design-primer]] [[santifer-career-ops]] [[harry0703-moneyprinterturbo]] [[usestrix-strix]] [[tauricresearch-tradingagents]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[huggingface-transformers]] [[kepano-obsidian-skills]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

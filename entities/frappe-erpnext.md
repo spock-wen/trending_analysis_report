@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[usestrix-strix]] [[jundot-omlx]] [[obra-superpowers]] [[tooljet-tooljet]] [[mukul975-anthropic-cybersecurity-skills]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[hugohe3-ppt-master]] [[tooljet-tooljet]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

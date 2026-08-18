@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[santifer-career-ops]] [[unslothai-unsloth]] [[usestrix-strix]] [[lightningpixel-modly]] [[jundot-omlx]]
+[[mukul975-anthropic-cybersecurity-skills]] [[alibaba-open-code-review]] [[bojieli-ai-agent-book]] [[hugohe3-ppt-master]] [[volcengine-openviking]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

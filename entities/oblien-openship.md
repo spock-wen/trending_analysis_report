@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[opencut-app-opencut]] [[agalwood-motrix]] [[litu54-devops-interview-guide]] [[immich-app-immich]]
+[[semantica-agi-semantica]] [[ruvnet-ruview]] [[chaitanyagiri-munder-difflin]] [[agalwood-motrix]] [[litu54-devops-interview-guide]]
 
 **所属领域**: [[devops]]
 

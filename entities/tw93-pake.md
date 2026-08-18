@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[santifer-career-ops]] [[altic-dev-fluidvoice]] [[akitaonrails-ai-memory]] [[macro-inc-macro]]
+[[hkuds-cli-anything]] [[mukul975-anthropic-cybersecurity-skills]] [[alexsjones-llmfit]] [[citrolabs-ego-lite]] [[rustdesk-rustdesk]]
 
 **所属领域**: [[web]] [[cli]]
 

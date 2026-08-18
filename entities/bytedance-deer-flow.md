@@ -37,7 +37,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[santifer-career-ops]] [[usestrix-strix]] [[jundot-omlx]] [[mukul975-anthropic-cybersecurity-skills]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[tauricresearch-tradingagents]] [[public-apis-public-apis]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[santifer-career-ops]] [[infiniflow-ragflow]] [[akitaonrails-ai-memory]] [[alexsjones-llmfit]] [[mukul975-anthropic-cybersecurity-skills]]
+[[mukul975-anthropic-cybersecurity-skills]] [[chenyme-grok2api]] [[esengine-deepseek-reasonix]] [[basecamp-omarchy]] [[pranshuparmar-witr]]
 
 **所属领域**: [[cli]]
 

@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[altic-dev-fluidvoice]] [[cathrynlavery-diagram-design]] [[alibaba-open-code-review]] [[opencut-app-opencut]]
+[[hkuds-cli-anything]] [[alibaba-open-code-review]] [[citrolabs-ego-lite]] [[hugohe3-ppt-master]] [[volcengine-openviking]]
 
 **所属领域**: [[web]] [[data]]
 

@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[santifer-career-ops]] [[unslothai-unsloth]] [[usestrix-strix]] [[lightningpixel-modly]] [[infiniflow-ragflow]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[chaitanyagiri-munder-difflin]] [[lightningpixel-modly]] [[agalwood-motrix]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

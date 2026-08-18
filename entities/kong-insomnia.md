@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[santifer-career-ops]] [[altic-dev-fluidvoice]] [[cathrynlavery-diagram-design]] [[akitaonrails-ai-memory]]
+[[hkuds-cli-anything]] [[mukul975-anthropic-cybersecurity-skills]] [[citrolabs-ego-lite]] [[chaitanyagiri-munder-difflin]] [[agalwood-motrix]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[akitaonrails-ai-memory]] [[macro-inc-macro]] [[obra-superpowers]]
+[[mukul975-anthropic-cybersecurity-skills]] [[alexsjones-llmfit]] [[bojieli-ai-agent-book]] [[rustdesk-rustdesk]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

@@ -36,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[donnemartin-system-design-primer]] [[santifer-career-ops]] [[usestrix-strix]] [[kepano-obsidian-skills]]
+[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-claude-cookbooks]] [[bojieli-ai-agent-book]] [[huggingface-transformers]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

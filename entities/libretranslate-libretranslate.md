@@ -34,5 +34,5 @@ Free and Open Source Machine Translation API. Self-hosted, offline capable and e
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[mukul975-anthropic-cybersecurity-skills]] [[usestrix-strix]] [[jundot-omlx]]
+[[mukul975-anthropic-cybersecurity-skills]] [[harry0703-moneyprinterturbo]] [[bojieli-ai-agent-book]] [[public-apis-public-apis]]
 

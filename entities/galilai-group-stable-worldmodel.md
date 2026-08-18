@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[santifer-career-ops]] [[unslothai-unsloth]] [[usestrix-strix]] [[lightningpixel-modly]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[tauricresearch-tradingagents]] [[zhaoxuya520-reverse-skill]] [[lightningpixel-modly]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

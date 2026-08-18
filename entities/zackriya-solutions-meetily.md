@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[citrolabs-ego-lite]] [[macro-inc-macro]] [[alibaba-open-code-review]] [[rustdesk-rustdesk]]
+[[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]] [[alibaba-open-code-review]] [[alexsjones-llmfit]] [[bojieli-ai-agent-book]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

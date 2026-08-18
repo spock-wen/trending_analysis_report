@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[akitaonrails-ai-memory]] [[macro-inc-macro]] [[rustdesk-rustdesk]]
+[[mukul975-anthropic-cybersecurity-skills]] [[alexsjones-llmfit]] [[bojieli-ai-agent-book]] [[rustdesk-rustdesk]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]]
 

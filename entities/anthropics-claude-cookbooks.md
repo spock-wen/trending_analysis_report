@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[santifer-career-ops]] [[usestrix-strix]] [[lyogavin-airllm]] [[mukul975-anthropic-cybersecurity-skills]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[lyogavin-airllm]] [[microsoft-generative-ai-for-beginners]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]]
 

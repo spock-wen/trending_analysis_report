@@ -38,5 +38,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[macro-inc-macro]] [[rustdesk-rustdesk]] [[alexsjones-llmfit]]
+[[rustdesk-rustdesk]] [[macro-inc-macro]] [[akitaonrails-ai-memory]] [[alexsjones-llmfit]]
 

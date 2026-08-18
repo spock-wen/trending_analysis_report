@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[santifer-career-ops]] [[unslothai-unsloth]] [[usestrix-strix]] [[lightningpixel-modly]] [[infiniflow-ragflow]]
+[[mukul975-anthropic-cybersecurity-skills]] [[addyosmani-agent-skills]] [[bojieli-ai-agent-book]] [[infiniflow-ragflow]] [[lightningpixel-modly]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

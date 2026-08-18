@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[santifer-career-ops]] [[unslothai-unsloth]] [[lightningpixel-modly]] [[altic-dev-fluidvoice]]
+[[hkuds-cli-anything]] [[addyosmani-agent-skills]] [[infiniflow-ragflow]] [[lightningpixel-modly]] [[tooljet-tooljet]]
 
 **所属领域**: [[web]] [[image-gen]]
 

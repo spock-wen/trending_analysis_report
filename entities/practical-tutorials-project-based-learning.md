@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[donnemartin-system-design-primer]] [[usestrix-strix]] [[kepano-obsidian-skills]] [[jundot-omlx]] [[huggingface-transformers]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[huggingface-transformers]] [[kepano-obsidian-skills]] [[public-apis-public-apis]]
 
 **所属领域**: [[education]]
 

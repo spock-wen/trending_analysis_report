@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[altic-dev-fluidvoice]] [[opencut-app-opencut]] [[agalwood-motrix]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[huggingface-transformers]] [[hugohe3-ppt-master]] [[chaitanyagiri-munder-difflin]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

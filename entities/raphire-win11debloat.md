@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[santifer-career-ops]] [[akitaonrails-ai-memory]] [[alexsjones-llmfit]] [[mukul975-anthropic-cybersecurity-skills]] [[zhaoxuya520-reverse-skill]]
+[[mukul975-anthropic-cybersecurity-skills]] [[zhaoxuya520-reverse-skill]] [[basecamp-omarchy]] [[akitaonrails-ai-memory]] [[santifer-career-ops]]
 
 **所属领域**: [[cli]]
 

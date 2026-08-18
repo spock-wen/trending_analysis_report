@@ -36,5 +36,5 @@ A beautiful, powerful, self-hosted rom manager and player.
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[mukul975-anthropic-cybersecurity-skills]] [[usestrix-strix]] [[jundot-omlx]]
+[[mukul975-anthropic-cybersecurity-skills]] [[harry0703-moneyprinterturbo]] [[bojieli-ai-agent-book]] [[public-apis-public-apis]]
 

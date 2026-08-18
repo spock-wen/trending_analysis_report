@@ -35,7 +35,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[usestrix-strix]] [[jundot-omlx]] [[altic-dev-fluidvoice]] [[cathrynlavery-diagram-design]]
+[[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]] [[bojieli-ai-agent-book]] [[genlayerlabs-genlayer-project-boilerplate]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

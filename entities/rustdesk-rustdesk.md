@@ -34,5 +34,5 @@ An open-source remote desktop application designed for self-hosting, as an alter
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[macro-inc-macro]] [[alexsjones-llmfit]]
+[[macro-inc-macro]] [[akitaonrails-ai-memory]] [[alexsjones-llmfit]]
 

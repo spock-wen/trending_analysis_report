@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[palmier-io-palmier-pro]] [[jaywcjlove-awesome-mac]] [[santifer-career-ops]] [[usestrix-strix]] [[hkuds-cli-anything]]
+[[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]] [[bojieli-ai-agent-book]] [[citrolabs-ego-lite]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

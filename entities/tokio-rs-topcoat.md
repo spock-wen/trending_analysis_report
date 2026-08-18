@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[altic-dev-fluidvoice]] [[akitaonrails-ai-memory]] [[macro-inc-macro]] [[cathrynlavery-diagram-design]]
+[[hkuds-cli-anything]] [[alexsjones-llmfit]] [[citrolabs-ego-lite]] [[rustdesk-rustdesk]] [[macro-inc-macro]]
 
 **所属领域**: [[web]]
 

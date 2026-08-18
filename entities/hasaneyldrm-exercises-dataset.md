@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[santifer-career-ops]] [[usestrix-strix]] [[trycua-cua]] [[cathrynlavery-diagram-design]]
+[[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]] [[alibaba-open-code-review]] [[bojieli-ai-agent-book]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

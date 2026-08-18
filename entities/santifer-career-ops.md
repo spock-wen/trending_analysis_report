@@ -39,7 +39,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[usestrix-strix]] [[akitaonrails-ai-memory]] [[addyosmani-agent-skills]] [[alexsjones-llmfit]] [[tooljet-tooljet]]
+[[mukul975-anthropic-cybersecurity-skills]] [[addyosmani-agent-skills]] [[bojieli-ai-agent-book]] [[tooljet-tooljet]] [[basecamp-omarchy]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

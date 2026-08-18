@@ -36,5 +36,5 @@ CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
 ## 相关项目
 
-[[infiniflow-ragflow]] [[chenyme-grok2api]] [[esengine-deepseek-reasonix]] [[pranshuparmar-witr]]
+[[pranshuparmar-witr]] [[chenyme-grok2api]] [[infiniflow-ragflow]] [[esengine-deepseek-reasonix]]
 

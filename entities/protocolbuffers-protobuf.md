@@ -34,7 +34,7 @@ Protocol Buffers - Google's data interchange format
 
 ## 相关项目
 
-[[amnezia-vpn-amnezia-client]] [[ladybirdbrowser-ladybird]] [[gabime-spdlog]] [[alibaba-open-code-review]] [[geo-tp-esp32-bit-pirate]]
+[[alibaba-open-code-review]] [[ladybirdbrowser-ladybird]] [[geo-tp-esp32-bit-pirate]] [[hugohe3-ppt-master]] [[volcengine-openviking]]
 
 **所属领域**: [[data]]
 

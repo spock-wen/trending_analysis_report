@@ -35,7 +35,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[usestrix-strix]] [[kepano-obsidian-skills]] [[jundot-omlx]] [[practical-tutorials-project-based-learning]] [[huggingface-transformers]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[huggingface-transformers]] [[kepano-obsidian-skills]] [[practical-tutorials-project-based-learning]]
 
 **所属领域**: [[education]]
 

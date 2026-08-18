@@ -34,7 +34,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[donnemartin-system-design-primer]] [[santifer-career-ops]] [[usestrix-strix]] [[akitaonrails-ai-memory]] [[practical-tutorials-project-based-learning]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[huggingface-transformers]] [[practical-tutorials-project-based-learning]] [[basecamp-omarchy]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

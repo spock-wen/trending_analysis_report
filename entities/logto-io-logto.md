@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[santifer-career-ops]] [[usestrix-strix]] [[ruvnet-ruview]] [[semantica-agi-semantica]] [[opencut-app-opencut]]
+[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[semantica-agi-semantica]] [[ruvnet-ruview]] [[chaitanyagiri-munder-difflin]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

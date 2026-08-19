@@ -36,7 +36,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[tauricresearch-tradingagents]] [[zhaoxuya520-reverse-skill]] [[chaitanyagiri-munder-difflin]]
+[[genlayerlabs-genlayer-project-boilerplate]] [[tauricresearch-tradingagents]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[opencut-app-opencut]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[semantica-agi-semantica]] [[ruvnet-ruview]] [[chaitanyagiri-munder-difflin]] [[agalwood-motrix]] [[litu54-devops-interview-guide]]
+[[genlayerlabs-genlayer-project-boilerplate]] [[semantica-agi-semantica]] [[opencut-app-opencut]] [[litu54-devops-interview-guide]] [[chaitanyagiri-munder-difflin]]
 
 **所属领域**: [[devops]]
 

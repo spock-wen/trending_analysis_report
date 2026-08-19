@@ -37,7 +37,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[citrolabs-ego-lite]] [[chaitanyagiri-munder-difflin]] [[agalwood-motrix]] [[cathrynlavery-diagram-design]]
+[[genlayerlabs-genlayer-project-boilerplate]] [[altic-dev-fluidvoice]] [[opencut-app-opencut]] [[chaitanyagiri-munder-difflin]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

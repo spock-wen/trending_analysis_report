@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]] [[alibaba-open-code-review]] [[bojieli-ai-agent-book]] [[citrolabs-ego-lite]]
+[[altic-dev-fluidvoice]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[calesthio-openmontage]] [[semantica-agi-semantica]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

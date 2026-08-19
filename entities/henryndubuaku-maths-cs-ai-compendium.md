@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[paperclipai-paperclip]] [[tauricresearch-tradingagents]] [[chaitanyagiri-munder-difflin]]
+[[genlayerlabs-genlayer-project-boilerplate]] [[tauricresearch-tradingagents]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[opencut-app-opencut]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

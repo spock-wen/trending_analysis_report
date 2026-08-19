@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[huggingface-transformers]] [[kepano-obsidian-skills]] [[tauricresearch-tradingagents]]
+[[tauricresearch-tradingagents]] [[kepano-obsidian-skills]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

@@ -36,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[anthropics-claude-cookbooks]] [[bojieli-ai-agent-book]] [[huggingface-transformers]] [[kepano-obsidian-skills]]
+[[kepano-obsidian-skills]] [[microsoft-generative-ai-for-beginners]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -35,5 +35,5 @@ NVR with realtime local object detection for IP cameras
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[opencut-app-opencut]] [[chaitanyagiri-munder-difflin]] [[agalwood-motrix]]
+[[chaitanyagiri-munder-difflin]] [[genlayerlabs-genlayer-project-boilerplate]] [[opencut-app-opencut]] [[immich-app-immich]]
 

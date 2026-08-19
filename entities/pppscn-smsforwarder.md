@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[embabel-embabel-agent]] [[andreknieriem-headunit-revived]] [[cathrynlavery-diagram-design]] [[altic-dev-fluidvoice]]
+[[altic-dev-fluidvoice]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[bannedbook-fanqiang]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[web]]
 

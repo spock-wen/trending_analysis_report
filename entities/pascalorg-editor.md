@@ -37,5 +37,5 @@ Create and share 3D architectural projects.
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[opencut-app-opencut]] [[chaitanyagiri-munder-difflin]] [[agalwood-motrix]]
+[[chaitanyagiri-munder-difflin]] [[genlayerlabs-genlayer-project-boilerplate]] [[opencut-app-opencut]] [[immich-app-immich]]
 

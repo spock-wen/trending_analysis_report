@@ -1,20 +1,20 @@
 ---
 title: "harry0703/MoneyPrinterTurbo"
 created: 2026-05-28
-updated: 2026-08-19
-last_active: 2026-08-19
+updated: 2026-08-20
+last_active: 2026-08-20
 type: tool
-tags: [python, ai-agent]
-sources: [raw/trending/2026-08-19.json]
+tags: [python, ai-agent, rising]
+sources: [raw/trending/2026-08-20.json]
 confidence: high
-trending_count_daily: 9
+trending_count_daily: 10
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 3
 first_trending: 2026-05-28
-last_trending: 2026-08-19
+last_trending: 2026-08-20
 peak_rank: 1
-total_stars: 108461
+total_stars: 110524
 language: "Python"
 contested: true
 ---
@@ -24,22 +24,22 @@ contested: true
 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 
 - 语言: Python
-- 上榜次数: 9 次
-- 连续上榜: 2 天
+- 上榜次数: 10 次
+- 连续上榜: 3 天
 - 最高排名: #1
 - 链接: [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 
 ## 上榜历史
 
+  - 2026-08-20: #1, +2221⭐
   - 2026-08-19: #1, +2306⭐
   - 2026-08-18: #1, +1275⭐
   - 2026-06-11: #9, +1471⭐
   - 2026-06-02: #4, +3325⭐
-  - 2026-06-01: #1, +1937⭐
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[akitaonrails-ai-memory]] [[bojieli-ai-agent-book]] [[public-apis-public-apis]]
+[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[mattpocock-skills]] [[jundot-omlx]] [[volcengine-openviking]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[tooljet-tooljet]] [[akitaonrails-ai-memory]] [[harry0703-moneyprinterturbo]]
+[[tooljet-tooljet]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[santifer-career-ops]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

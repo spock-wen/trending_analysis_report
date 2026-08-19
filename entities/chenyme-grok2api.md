@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[mukul975-anthropic-cybersecurity-skills]] [[santifer-career-ops]] [[esengine-deepseek-reasonix]] [[altic-dev-fluidvoice]]
+[[pranshuparmar-witr]] [[altic-dev-fluidvoice]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[cli]]
 

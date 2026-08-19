@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[uber-adr]] [[public-apis-public-apis]] [[harry0703-moneyprinterturbo]]
+[[mukul975-anthropic-cybersecurity-skills]] [[jundot-omlx]] [[affaan-m-ecc]] [[volcengine-openviking]] [[uber-adr]]
 
 **所属领域**: [[security]]
 

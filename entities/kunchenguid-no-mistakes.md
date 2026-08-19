@@ -35,5 +35,5 @@ git push no-mistakes
 
 ## 相关项目
 
-[[pranshuparmar-witr]] [[chenyme-grok2api]] [[infiniflow-ragflow]] [[esengine-deepseek-reasonix]]
+[[infiniflow-ragflow]] [[esengine-deepseek-reasonix]] [[pranshuparmar-witr]] [[chenyme-grok2api]]
 

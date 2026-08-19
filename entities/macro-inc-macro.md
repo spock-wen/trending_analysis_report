@@ -36,7 +36,7 @@ Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[alexsjones-llmfit]] [[bojieli-ai-agent-book]] [[rustdesk-rustdesk]] [[harry0703-moneyprinterturbo]]
+[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[amadeusprotocol-node]] [[mattpocock-skills]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]]
 

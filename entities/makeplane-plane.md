@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[chaitanyagiri-munder-difflin]] [[agalwood-motrix]] [[basecamp-omarchy]] [[opencut-app-opencut]]
+[[genlayerlabs-genlayer-project-boilerplate]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[opencut-app-opencut]] [[chaitanyagiri-munder-difflin]]
 
 **所属领域**: [[cli]]
 

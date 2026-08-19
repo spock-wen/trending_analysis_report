@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[mukul975-anthropic-cybersecurity-skills]] [[alibaba-open-code-review]] [[hugohe3-ppt-master]] [[volcengine-openviking]]
+[[altic-dev-fluidvoice]] [[calesthio-openmontage]] [[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]] [[marceloprates-prettymaps]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

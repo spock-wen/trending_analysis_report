@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[permissionlesstech-bitchat]] [[jaywcjlove-awesome-mac]] [[altic-dev-fluidvoice]]
+[[altic-dev-fluidvoice]] [[obra-superpowers]] [[permissionlesstech-bitchat]] [[mukul975-anthropic-cybersecurity-skills]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

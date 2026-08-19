@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[semantica-agi-semantica]] [[ruvnet-ruview]] [[litu54-devops-interview-guide]]
+[[pranshuparmar-witr]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[semantica-agi-semantica]] [[chenyme-grok2api]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

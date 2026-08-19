@@ -37,7 +37,7 @@ Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture cod
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[hugohe3-ppt-master]] [[volcengine-openviking]] [[chenyme-grok2api]]
+[[pranshuparmar-witr]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[calesthio-openmontage]] [[chenyme-grok2api]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

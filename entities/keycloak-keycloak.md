@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[jenkinsci-jenkins]] [[apache-cassandra]] [[github-copilot-sdk]] [[uber-adr]]
+[[jenkinsci-jenkins]] [[mukul975-anthropic-cybersecurity-skills]] [[affaan-m-ecc]] [[google-guava]] [[apache-cassandra]]
 
 **所属领域**: [[security]]
 

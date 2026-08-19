@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[huggingface-transformers]] [[kepano-obsidian-skills]] [[tauricresearch-tradingagents]]
+[[tauricresearch-tradingagents]] [[kepano-obsidian-skills]] [[mukul975-anthropic-cybersecurity-skills]] [[huggingface-transformers]] [[donnemartin-system-design-primer]]
 
 **所属领域**: [[education]] [[science]]
 

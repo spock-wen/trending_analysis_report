@@ -34,5 +34,5 @@ b站会员购购票辅助工具
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[harry0703-moneyprinterturbo]] [[bojieli-ai-agent-book]] [[public-apis-public-apis]]
+[[jundot-omlx]] [[mukul975-anthropic-cybersecurity-skills]] [[volcengine-openviking]] [[harry0703-moneyprinterturbo]]
 

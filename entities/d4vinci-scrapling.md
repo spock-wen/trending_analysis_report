@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]] [[bojieli-ai-agent-book]] [[cathrynlavery-diagram-design]] [[altic-dev-fluidvoice]]
+[[altic-dev-fluidvoice]] [[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]] [[jundot-omlx]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[web]]
 

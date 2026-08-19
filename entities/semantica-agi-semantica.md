@@ -38,7 +38,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[ruvnet-ruview]] [[litu54-devops-interview-guide]] [[uber-adr]]
+[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[litu54-devops-interview-guide]] [[mattpocock-skills]] [[jundot-omlx]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

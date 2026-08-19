@@ -37,7 +37,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]] [[bojieli-ai-agent-book]] [[citrolabs-ego-lite]] [[trycua-cua]]
+[[altic-dev-fluidvoice]] [[hasaneyldrm-exercises-dataset]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

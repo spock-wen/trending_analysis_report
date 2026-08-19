@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[tauricresearch-tradingagents]] [[public-apis-public-apis]] [[paperclipai-paperclip]]
+[[tauricresearch-tradingagents]] [[mukul975-anthropic-cybersecurity-skills]] [[paperclipai-paperclip]] [[jundot-omlx]] [[volcengine-openviking]]
 
 **所属领域**: [[science]]
 

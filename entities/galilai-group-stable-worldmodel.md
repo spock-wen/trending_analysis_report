@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[tauricresearch-tradingagents]] [[zhaoxuya520-reverse-skill]] [[lightningpixel-modly]]
+[[tauricresearch-tradingagents]] [[tooljet-tooljet]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[unslothai-unsloth]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

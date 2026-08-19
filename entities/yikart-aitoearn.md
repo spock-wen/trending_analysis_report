@@ -36,7 +36,7 @@ Let's use AI to Earn!
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[chaitanyagiri-munder-difflin]] [[agalwood-motrix]] [[opencut-app-opencut]]
+[[genlayerlabs-genlayer-project-boilerplate]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[opencut-app-opencut]] [[chaitanyagiri-munder-difflin]]
 
 **所属领域**: [[ai-agent]]
 

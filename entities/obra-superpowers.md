@@ -1,20 +1,20 @@
 ---
 title: "obra/superpowers"
 created: 2026-05-16
-updated: 2026-08-08
-last_active: 2026-08-08
+updated: 2026-08-20
+last_active: 2026-08-20
 type: framework
-tags: [shell, ai-agent, cli, erp, rising]
-sources: [raw/trending/2026-08-08.json]
+tags: [shell, ai-agent, cli, erp]
+sources: [raw/trending/2026-08-20.json]
 confidence: high
-trending_count_daily: 27
+trending_count_daily: 28
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 4
+consecutive_days: 1
 first_trending: 2026-05-16
-last_trending: 2026-08-08
+last_trending: 2026-08-20
 peak_rank: 1
-total_stars: 268720
+total_stars: 274242
 language: "Shell"
 ---
 
@@ -23,22 +23,22 @@ language: "Shell"
 An agentic skills framework & software development methodology that works.
 
 - 语言: Shell
-- 上榜次数: 27 次
-- 连续上榜: 4 天
+- 上榜次数: 28 次
+- 连续上榜: 1 天
 - 最高排名: #1
 - 链接: [obra/superpowers](https://github.com/obra/superpowers)
 
 ## 上榜历史
 
+  - 2026-08-20: #7, +514⭐
   - 2026-08-08: #5, +794⭐
   - 2026-08-07: #12, +858⭐
   - 2026-08-06: #8, +931⭐
   - 2026-08-05: #5, +777⭐
-  - 2026-07-30: #10, +686⭐
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[mattpocock-skills]] [[msitarzewski-agency-agents]] [[bojieli-ai-agent-book]] [[genlayerlabs-genlayer-project-boilerplate]]
+[[genlayerlabs-genlayer-project-boilerplate]] [[tooljet-tooljet]] [[mukul975-anthropic-cybersecurity-skills]] [[hugohe3-ppt-master]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

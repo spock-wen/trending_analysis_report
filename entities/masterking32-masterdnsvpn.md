@@ -36,7 +36,7 @@ Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[zhaoxuya520-reverse-skill]] [[uber-adr]] [[chenyme-grok2api]] [[esengine-deepseek-reasonix]]
+[[pranshuparmar-witr]] [[mukul975-anthropic-cybersecurity-skills]] [[chenyme-grok2api]] [[esengine-deepseek-reasonix]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

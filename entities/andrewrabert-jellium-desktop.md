@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[alexsjones-llmfit]] [[rustdesk-rustdesk]] [[macro-inc-macro]] [[basecamp-omarchy]]
+[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[amadeusprotocol-node]] [[santifer-career-ops]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[cli]]
 

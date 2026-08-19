@@ -38,7 +38,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[huggingface-transformers]] [[hugohe3-ppt-master]] [[lightningpixel-modly]]
+[[tooljet-tooljet]] [[altic-dev-fluidvoice]] [[mukul975-anthropic-cybersecurity-skills]] [[lightricks-ltx-2]] [[huggingface-transformers]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

@@ -36,5 +36,5 @@ A collective list of free APIs
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[harry0703-moneyprinterturbo]] [[bojieli-ai-agent-book]]
+[[jundot-omlx]] [[mukul975-anthropic-cybersecurity-skills]] [[volcengine-openviking]] [[harry0703-moneyprinterturbo]]
 

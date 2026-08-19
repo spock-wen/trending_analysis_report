@@ -36,7 +36,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[public-apis-public-apis]] [[paperclipai-paperclip]] [[harry0703-moneyprinterturbo]]
+[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[jundot-omlx]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

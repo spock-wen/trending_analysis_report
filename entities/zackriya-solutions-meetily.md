@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]] [[alibaba-open-code-review]] [[alexsjones-llmfit]] [[bojieli-ai-agent-book]]
+[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[zhaoxuya520-reverse-skill]] [[calesthio-openmontage]] [[marceloprates-prettymaps]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

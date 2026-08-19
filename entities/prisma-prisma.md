@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[hugohe3-ppt-master]] [[volcengine-openviking]] [[chaitanyagiri-munder-difflin]] [[lightningpixel-modly]]
+[[genlayerlabs-genlayer-project-boilerplate]] [[tooljet-tooljet]] [[calesthio-openmontage]] [[opencut-app-opencut]] [[chaitanyagiri-munder-difflin]]
 
 **所属领域**: [[data]] [[image-gen]]
 

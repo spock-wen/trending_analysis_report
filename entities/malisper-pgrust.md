@@ -35,5 +35,5 @@ Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 
 ## 相关项目
 
-[[rustdesk-rustdesk]] [[macro-inc-macro]] [[akitaonrails-ai-memory]] [[alexsjones-llmfit]]
+[[alexsjones-llmfit]] [[amadeusprotocol-node]] [[macro-inc-macro]] [[akitaonrails-ai-memory]]
 

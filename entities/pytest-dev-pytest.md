@@ -34,5 +34,5 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[harry0703-moneyprinterturbo]] [[bojieli-ai-agent-book]] [[public-apis-public-apis]]
+[[jundot-omlx]] [[mukul975-anthropic-cybersecurity-skills]] [[volcengine-openviking]] [[harry0703-moneyprinterturbo]]
 

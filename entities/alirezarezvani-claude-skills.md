@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[paperclipai-paperclip]] [[genlayerlabs-genlayer-project-boilerplate]] [[hugohe3-ppt-master]]
+[[genlayerlabs-genlayer-project-boilerplate]] [[tauricresearch-tradingagents]] [[tooljet-tooljet]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

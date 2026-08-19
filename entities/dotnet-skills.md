@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[dotnet-aspnetcore]] [[bojieli-ai-agent-book]] [[jellyfin-jellyfin]] [[akitaonrails-ai-memory]]
+[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[mattpocock-skills]] [[par274-sharpemu]] [[k1tbyte-wand-enhancer]]
 
 **所属领域**: [[ai-agent]]
 

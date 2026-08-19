@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[trycua-cua]] [[lightningpixel-modly]] [[cathrynlavery-diagram-design]] [[altic-dev-fluidvoice]]
+[[altic-dev-fluidvoice]] [[hasaneyldrm-exercises-dataset]] [[tooljet-tooljet]] [[hkuds-cli-anything]] [[unslothai-unsloth]]
 
 **所属领域**: [[web]] [[image-gen]]
 

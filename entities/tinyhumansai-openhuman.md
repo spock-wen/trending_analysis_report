@@ -38,7 +38,7 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[alexsjones-llmfit]] [[bojieli-ai-agent-book]] [[rustdesk-rustdesk]] [[macro-inc-macro]]
+[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[amadeusprotocol-node]] [[akitaonrails-ai-memory]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,5 +35,5 @@ a code review TUI with vim keybindings
 
 ## 相关项目
 
-[[rustdesk-rustdesk]] [[macro-inc-macro]] [[akitaonrails-ai-memory]] [[alexsjones-llmfit]]
+[[alexsjones-llmfit]] [[amadeusprotocol-node]] [[macro-inc-macro]] [[akitaonrails-ai-memory]]
 

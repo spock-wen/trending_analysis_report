@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[uber-adr]] [[public-apis-public-apis]] [[harry0703-moneyprinterturbo]]
+[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[mattpocock-skills]] [[jundot-omlx]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

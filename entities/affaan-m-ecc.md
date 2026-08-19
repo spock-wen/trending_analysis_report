@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[addyosmani-agent-skills]] [[bojieli-ai-agent-book]] [[tauricresearch-tradingagents]] [[zhaoxuya520-reverse-skill]]
+[[tauricresearch-tradingagents]] [[tooljet-tooljet]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

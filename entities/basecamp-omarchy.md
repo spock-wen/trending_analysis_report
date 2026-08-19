@@ -35,7 +35,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[mattpocock-skills]] [[msitarzewski-agency-agents]] [[nvm-sh-nvm]] [[akitaonrails-ai-memory]]
+[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[santifer-career-ops]] [[mattpocock-skills]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[cli]]
 

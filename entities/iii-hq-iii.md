@@ -34,5 +34,5 @@ Effortlessly compose, extend, and observe every service in real-time for the fir
 
 ## 相关项目
 
-[[rustdesk-rustdesk]] [[macro-inc-macro]] [[akitaonrails-ai-memory]] [[alexsjones-llmfit]]
+[[alexsjones-llmfit]] [[amadeusprotocol-node]] [[macro-inc-macro]] [[akitaonrails-ai-memory]]
 

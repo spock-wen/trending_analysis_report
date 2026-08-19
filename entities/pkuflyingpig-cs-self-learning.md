@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[huggingface-transformers]] [[trycua-cua]] [[kepano-obsidian-skills]] [[practical-tutorials-project-based-learning]]
+[[altic-dev-fluidvoice]] [[hasaneyldrm-exercises-dataset]] [[kepano-obsidian-skills]] [[huggingface-transformers]] [[practical-tutorials-project-based-learning]]
 
 **所属领域**: [[web]] [[education]]
 

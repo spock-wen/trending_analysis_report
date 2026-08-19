@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]] [[alibaba-open-code-review]] [[bojieli-ai-agent-book]] [[citrolabs-ego-lite]]
+[[altic-dev-fluidvoice]] [[obra-superpowers]] [[hasaneyldrm-exercises-dataset]] [[mukul975-anthropic-cybersecurity-skills]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

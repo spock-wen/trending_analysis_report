@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[chaitanyagiri-munder-difflin]] [[agalwood-motrix]] [[tooljet-tooljet]] [[obra-superpowers]]
+[[genlayerlabs-genlayer-project-boilerplate]] [[tooljet-tooljet]] [[obra-superpowers]] [[opencut-app-opencut]] [[chaitanyagiri-munder-difflin]]
 
 **所属领域**: [[erp]]
 

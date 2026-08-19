@@ -37,5 +37,5 @@ SpiderFoot automates OSINT for threat intelligence and mapping your attack surfa
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[harry0703-moneyprinterturbo]] [[bojieli-ai-agent-book]] [[public-apis-public-apis]]
+[[jundot-omlx]] [[mukul975-anthropic-cybersecurity-skills]] [[volcengine-openviking]] [[harry0703-moneyprinterturbo]]
 

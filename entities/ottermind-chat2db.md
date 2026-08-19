@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[jenkinsci-jenkins]] [[alibaba-open-code-review]] [[apache-cassandra]] [[bojieli-ai-agent-book]]
+[[jenkinsci-jenkins]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[calesthio-openmontage]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

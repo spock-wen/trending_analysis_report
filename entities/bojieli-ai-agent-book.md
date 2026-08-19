@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[harry0703-moneyprinterturbo]] [[akitaonrails-ai-memory]] [[public-apis-public-apis]]
+[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[mattpocock-skills]] [[jundot-omlx]] [[volcengine-openviking]]
 
 **所属领域**: [[ai-agent]]
 

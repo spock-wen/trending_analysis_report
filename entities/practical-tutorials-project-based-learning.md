@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[huggingface-transformers]] [[kepano-obsidian-skills]] [[public-apis-public-apis]]
+[[kepano-obsidian-skills]] [[mukul975-anthropic-cybersecurity-skills]] [[huggingface-transformers]] [[jundot-omlx]] [[volcengine-openviking]]
 
 **所属领域**: [[education]]
 

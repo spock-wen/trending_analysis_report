@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[practical-tutorials-project-based-learning]] [[uber-adr]] [[harry0703-moneyprinterturbo]] [[genlayerlabs-genlayer-project-boilerplate]] [[anthropics-claude-cookbooks]]
+[[microsoft-generative-ai-for-beginners]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[anthropics-claude-cookbooks]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

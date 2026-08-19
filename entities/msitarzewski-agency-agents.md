@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]] [[mattpocock-skills]] [[bojieli-ai-agent-book]] [[citrolabs-ego-lite]]
+[[altic-dev-fluidvoice]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[alexsjones-llmfit]] [[citrolabs-ego-lite]] [[rustdesk-rustdesk]] [[macro-inc-macro]]
+[[altic-dev-fluidvoice]] [[amadeusprotocol-node]] [[hkuds-cli-anything]] [[akitaonrails-ai-memory]] [[macro-inc-macro]]
 
 **所属领域**: [[web]]
 

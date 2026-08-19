@@ -38,5 +38,5 @@ The open-source CapCut alternative
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[agalwood-motrix]] [[chaitanyagiri-munder-difflin]]
+[[chaitanyagiri-munder-difflin]] [[genlayerlabs-genlayer-project-boilerplate]] [[immich-app-immich]]
 

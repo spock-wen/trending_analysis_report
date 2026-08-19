@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[kepano-obsidian-skills]] [[hugohe3-ppt-master]] [[practical-tutorials-project-based-learning]]
+[[kepano-obsidian-skills]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[altic-dev-fluidvoice]] [[lightricks-ltx-2]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

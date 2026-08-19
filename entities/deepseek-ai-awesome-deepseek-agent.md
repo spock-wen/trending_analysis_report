@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[harry0703-moneyprinterturbo]] [[akitaonrails-ai-memory]] [[bojieli-ai-agent-book]]
+[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

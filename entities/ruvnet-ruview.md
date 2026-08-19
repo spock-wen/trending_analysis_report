@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[semantica-agi-semantica]] [[rustdesk-rustdesk]] [[macro-inc-macro]] [[litu54-devops-interview-guide]]
+[[semantica-agi-semantica]] [[litu54-devops-interview-guide]] [[amadeusprotocol-node]] [[akitaonrails-ai-memory]] [[macro-inc-macro]]
 
 **所属领域**: [[devops]]
 

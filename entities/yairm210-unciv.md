@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[pppscn-smsforwarder]] [[bojieli-ai-agent-book]] [[embabel-embabel-agent]] [[andreknieriem-headunit-revived]]
+[[obra-superpowers]] [[pppscn-smsforwarder]] [[mukul975-anthropic-cybersecurity-skills]] [[mattpocock-skills]] [[bannedbook-fanqiang]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[bojieli-ai-agent-book]] [[lightningpixel-modly]] [[unslothai-unsloth]] [[tooljet-tooljet]]
+[[tooljet-tooljet]] [[mukul975-anthropic-cybersecurity-skills]] [[unslothai-unsloth]] [[lightningpixel-modly]] [[jundot-omlx]]
 
 **所属领域**: [[image-gen]]
 

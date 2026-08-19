@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[semantica-agi-semantica]] [[trycua-cua]] [[ruvnet-ruview]] [[litu54-devops-interview-guide]]
+[[altic-dev-fluidvoice]] [[hasaneyldrm-exercises-dataset]] [[semantica-agi-semantica]] [[litu54-devops-interview-guide]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[devops]]
 

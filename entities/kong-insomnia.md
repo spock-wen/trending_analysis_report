@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[mukul975-anthropic-cybersecurity-skills]] [[citrolabs-ego-lite]] [[chaitanyagiri-munder-difflin]] [[agalwood-motrix]]
+[[genlayerlabs-genlayer-project-boilerplate]] [[altic-dev-fluidvoice]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[opencut-app-opencut]]
 
 **所属领域**: [[web]] [[cli]]
 

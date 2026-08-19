@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[chenyme-grok2api]] [[esengine-deepseek-reasonix]] [[altic-dev-fluidvoice]] [[cathrynlavery-diagram-design]]
+[[pranshuparmar-witr]] [[altic-dev-fluidvoice]] [[chenyme-grok2api]] [[hkuds-cli-anything]] [[esengine-deepseek-reasonix]]
 
 **所属领域**: [[web]]
 

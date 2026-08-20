@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[amadeusprotocol-node]] [[santifer-career-ops]] [[akitaonrails-ai-memory]]
+[[harry0703-moneyprinterturbo]] [[amadeusprotocol-node]] [[obra-superpowers]] [[ryancodrai-turbovec]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

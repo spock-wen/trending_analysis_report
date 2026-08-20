@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[palmier-io-palmier-pro]] [[obra-superpowers]] [[permissionlesstech-bitchat]] [[mukul975-anthropic-cybersecurity-skills]] [[lightricks-ltx-2]]
+[[hkuds-cli-anything]] [[harry0703-moneyprinterturbo]] [[hugohe3-ppt-master]] [[obra-superpowers]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[calesthio-openmontage]] [[semantica-agi-semantica]] [[opencut-app-opencut]] [[litu54-devops-interview-guide]]
+[[ruvnet-ruview]] [[posthog-posthog]] [[semantica-agi-semantica]] [[chaitanyagiri-munder-difflin]] [[volcengine-openviking]]
 
 **所属领域**: [[data]] [[devops]]
 

@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[kepano-obsidian-skills]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[altic-dev-fluidvoice]] [[lightricks-ltx-2]]
+[[harry0703-moneyprinterturbo]] [[hugohe3-ppt-master]] [[obra-superpowers]] [[posthog-posthog]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

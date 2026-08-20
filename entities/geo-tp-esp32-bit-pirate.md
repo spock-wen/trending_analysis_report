@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[gabime-spdlog]] [[hkuds-cli-anything]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[posthog-posthog]] [[ladybirdbrowser-ladybird]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -36,7 +36,7 @@ The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, an
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[altic-dev-fluidvoice]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[opencut-app-opencut]]
+[[hkuds-cli-anything]] [[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[posthog-posthog]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

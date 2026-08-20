@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[tooljet-tooljet]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[opencut-app-opencut]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[ryancodrai-turbovec]] [[tooljet-tooljet]] [[unslothai-unsloth]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

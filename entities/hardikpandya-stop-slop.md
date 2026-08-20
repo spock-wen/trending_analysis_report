@@ -38,7 +38,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]]
+[[obra-superpowers]] [[harry0703-moneyprinterturbo]] [[ryancodrai-turbovec]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

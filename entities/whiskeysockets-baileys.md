@@ -34,7 +34,7 @@ Socket-based TS/JavaScript API for WhatsApp Web
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[altic-dev-fluidvoice]] [[addyosmani-agent-skills]]
+[[hkuds-cli-anything]] [[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[posthog-posthog]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

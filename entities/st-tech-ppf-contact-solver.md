@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[santifer-career-ops]] [[mattpocock-skills]] [[jundot-omlx]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[posthog-posthog]] [[santifer-career-ops]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

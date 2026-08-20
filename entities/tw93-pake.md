@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[amadeusprotocol-node]] [[hkuds-cli-anything]]
+[[hkuds-cli-anything]] [[amadeusprotocol-node]] [[obra-superpowers]] [[posthog-posthog]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -38,7 +38,7 @@ Local-first code intelligence graph for MCP and CLI. Builds a persistent map of 
 
 ## 相关项目
 
-[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[santifer-career-ops]] [[mattpocock-skills]] [[jundot-omlx]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[posthog-posthog]] [[ryancodrai-turbovec]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[kepano-obsidian-skills]] [[opencut-app-opencut]] [[huggingface-transformers]] [[chaitanyagiri-munder-difflin]]
+[[huggingface-transformers]] [[practical-tutorials-project-based-learning]] [[makeplane-plane]] [[chaitanyagiri-munder-difflin]] [[donnemartin-system-design-primer]]
 
 **所属领域**: [[education]]
 

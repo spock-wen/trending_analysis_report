@@ -34,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[macro-inc-macro]] [[akitaonrails-ai-memory]]
+[[aprilnea-openlogi]] [[ryancodrai-turbovec]] [[akitaonrails-ai-memory]]
 

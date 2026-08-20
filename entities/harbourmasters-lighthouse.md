@@ -34,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[antirez-ds4]] [[opa334-dopamine]] [[microsoft-powertoys]]
+[[opa334-dopamine]] [[antirez-ds4]] [[microsoft-powertoys]]
 

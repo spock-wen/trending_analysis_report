@@ -38,7 +38,7 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[opencut-app-opencut]] [[chaitanyagiri-munder-difflin]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[ryancodrai-turbovec]] [[mattpocock-skills]] [[chaitanyagiri-munder-difflin]]
 
 **所属领域**: [[ai-agent]]
 

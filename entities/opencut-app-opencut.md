@@ -38,5 +38,5 @@ The open-source CapCut alternative
 
 ## 相关项目
 
-[[chaitanyagiri-munder-difflin]] [[genlayerlabs-genlayer-project-boilerplate]] [[immich-app-immich]]
+[[cursor-plugins]] [[makeplane-plane]] [[chaitanyagiri-munder-difflin]] [[immich-app-immich]]
 

@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[gabime-spdlog]] [[ladybirdbrowser-ladybird]] [[santifer-career-ops]]
+[[zhaoxuya520-reverse-skill]] [[uber-adr]] [[obra-superpowers]] [[ladybirdbrowser-ladybird]] [[santifer-career-ops]]
 
 **所属领域**: [[cli]] [[security]]
 

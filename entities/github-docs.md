@@ -34,5 +34,5 @@ The open-source repo for docs.github.com
 
 ## 相关项目
 
-[[chaitanyagiri-munder-difflin]] [[genlayerlabs-genlayer-project-boilerplate]] [[opencut-app-opencut]] [[immich-app-immich]]
+[[cursor-plugins]] [[makeplane-plane]] [[chaitanyagiri-munder-difflin]] [[immich-app-immich]]
 

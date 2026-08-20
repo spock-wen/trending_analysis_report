@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[mattpocock-skills]] [[par274-sharpemu]] [[k1tbyte-wand-enhancer]]
+[[harry0703-moneyprinterturbo]] [[k1tbyte-wand-enhancer]] [[obra-superpowers]] [[par274-sharpemu]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]]
 

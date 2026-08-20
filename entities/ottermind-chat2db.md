@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[jenkinsci-jenkins]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[calesthio-openmontage]] [[hugohe3-ppt-master]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[posthog-posthog]] [[ryancodrai-turbovec]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

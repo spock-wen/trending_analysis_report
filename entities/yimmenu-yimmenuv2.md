@@ -35,5 +35,5 @@ Experimental menu for GTA 5: Enhanced
 
 ## 相关项目
 
-[[geo-tp-esp32-bit-pirate]] [[amnezia-vpn-amnezia-client]] [[ladybirdbrowser-ladybird]] [[gabime-spdlog]]
+[[ladybirdbrowser-ladybird]] [[amnezia-vpn-amnezia-client]] [[gabime-spdlog]] [[geo-tp-esp32-bit-pirate]]
 

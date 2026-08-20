@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[pranshuparmar-witr]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[calesthio-openmontage]] [[chenyme-grok2api]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[posthog-posthog]] [[juliusbrussee-caveman]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

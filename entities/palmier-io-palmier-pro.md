@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[obra-superpowers]] [[permissionlesstech-bitchat]] [[mukul975-anthropic-cybersecurity-skills]] [[mattpocock-skills]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[ryancodrai-turbovec]] [[mattpocock-skills]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]]
 

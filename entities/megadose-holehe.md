@@ -36,7 +36,7 @@ holehe allows you to check if the mail is used on different sites like twitter, 
 
 ## 相关项目
 
-[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[mattpocock-skills]] [[jundot-omlx]] [[volcengine-openviking]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[posthog-posthog]] [[ryancodrai-turbovec]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

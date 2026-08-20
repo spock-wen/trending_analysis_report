@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[tauricresearch-tradingagents]] [[altic-dev-fluidvoice]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]]
+[[hkuds-cli-anything]] [[zhaoxuya520-reverse-skill]] [[harry0703-moneyprinterturbo]] [[tauricresearch-tradingagents]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

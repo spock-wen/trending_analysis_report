@@ -37,7 +37,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[altic-dev-fluidvoice]] [[opencut-app-opencut]] [[chaitanyagiri-munder-difflin]] [[hkuds-cli-anything]]
+[[hkuds-cli-anything]] [[posthog-posthog]] [[citrolabs-ego-lite]] [[chaitanyagiri-munder-difflin]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[web]]
 

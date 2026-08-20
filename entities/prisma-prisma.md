@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[tooljet-tooljet]] [[calesthio-openmontage]] [[opencut-app-opencut]] [[chaitanyagiri-munder-difflin]]
+[[posthog-posthog]] [[tooljet-tooljet]] [[unslothai-unsloth]] [[infiniflow-ragflow]] [[chaitanyagiri-munder-difflin]]
 
 **所属领域**: [[data]] [[image-gen]]
 

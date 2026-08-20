@@ -38,7 +38,7 @@ World's first open-source, agentic video production system. 12 production pipeli
 
 ## 相关项目
 
-[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[hugohe3-ppt-master]] [[marceloprates-prettymaps]] [[mattpocock-skills]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[posthog-posthog]] [[ryancodrai-turbovec]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

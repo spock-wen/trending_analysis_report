@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[kepano-obsidian-skills]] [[mukul975-anthropic-cybersecurity-skills]] [[huggingface-transformers]] [[donnemartin-system-design-primer]]
+[[zhaoxuya520-reverse-skill]] [[harry0703-moneyprinterturbo]] [[tauricresearch-tradingagents]] [[paperclipai-paperclip]] [[huggingface-transformers]]
 
 **所属领域**: [[education]] [[science]]
 

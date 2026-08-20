@@ -34,7 +34,7 @@ Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[mukul975-anthropic-cybersecurity-skills]] [[hugohe3-ppt-master]] [[jundot-omlx]] [[volcengine-openviking]]
+[[harry0703-moneyprinterturbo]] [[posthog-posthog]] [[volcengine-openviking]] [[tencent-ai-infra-guard]] [[mahlernim-google-timeline-visualizer]]
 
 **所属领域**: [[data]]
 

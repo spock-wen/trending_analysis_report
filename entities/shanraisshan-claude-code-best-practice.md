@@ -35,7 +35,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[obra-superpowers]] [[hasaneyldrm-exercises-dataset]] [[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]]
+[[pkuflyingpig-cs-self-learning]] [[hkuds-cli-anything]] [[harry0703-moneyprinterturbo]] [[hasaneyldrm-exercises-dataset]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

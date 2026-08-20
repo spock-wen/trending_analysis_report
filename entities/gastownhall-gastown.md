@@ -35,7 +35,7 @@ Gas Town - multi-agent workspace manager
 
 ## 相关项目
 
-[[pranshuparmar-witr]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[chenyme-grok2api]] [[esengine-deepseek-reasonix]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[juliusbrussee-caveman]] [[ryancodrai-turbovec]] [[pranshuparmar-witr]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[gabime-spdlog]] [[amnezia-vpn-amnezia-client]] [[ladybirdbrowser-ladybird]]
+[[obra-superpowers]] [[ladybirdbrowser-ladybird]] [[santifer-career-ops]] [[gabime-spdlog]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

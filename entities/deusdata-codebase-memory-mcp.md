@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[calesthio-openmontage]] [[microsoft-powertoys]] [[hugohe3-ppt-master]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[opa334-dopamine]] [[microsoft-powertoys]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

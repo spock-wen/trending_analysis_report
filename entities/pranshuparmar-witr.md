@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[chenyme-grok2api]] [[esengine-deepseek-reasonix]] [[santifer-career-ops]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[juliusbrussee-caveman]] [[ryancodrai-turbovec]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -37,5 +37,5 @@ Meshery, the cloud native manager
 
 ## 相关项目
 
-[[chaitanyagiri-munder-difflin]] [[genlayerlabs-genlayer-project-boilerplate]] [[opencut-app-opencut]] [[immich-app-immich]]
+[[cursor-plugins]] [[makeplane-plane]] [[chaitanyagiri-munder-difflin]] [[immich-app-immich]]
 

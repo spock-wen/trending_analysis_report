@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[obra-superpowers]] [[santifer-career-ops]] [[mattpocock-skills]] [[jundot-omlx]] [[affaan-m-ecc]]
+[[zhaoxuya520-reverse-skill]] [[harry0703-moneyprinterturbo]] [[uber-adr]] [[obra-superpowers]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

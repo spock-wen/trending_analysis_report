@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[altic-dev-fluidvoice]] [[obra-superpowers]] [[hasaneyldrm-exercises-dataset]] [[mukul975-anthropic-cybersecurity-skills]]
+[[pkuflyingpig-cs-self-learning]] [[hkuds-cli-anything]] [[harry0703-moneyprinterturbo]] [[tauricresearch-tradingagents]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -35,5 +35,5 @@ Easily and securely send things from one computer to another 🐊 📦
 
 ## 相关项目
 
-[[infiniflow-ragflow]] [[esengine-deepseek-reasonix]] [[pranshuparmar-witr]] [[chenyme-grok2api]]
+[[pranshuparmar-witr]] [[juliusbrussee-caveman]] [[infiniflow-ragflow]] [[agent-substrate-substrate]]
 

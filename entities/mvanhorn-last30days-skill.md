@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[altic-dev-fluidvoice]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]]
+[[hkuds-cli-anything]] [[zhaoxuya520-reverse-skill]] [[harry0703-moneyprinterturbo]] [[tauricresearch-tradingagents]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

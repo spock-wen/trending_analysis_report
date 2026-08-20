@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[tauricresearch-tradingagents]] [[tooljet-tooljet]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]]
+[[zhaoxuya520-reverse-skill]] [[harry0703-moneyprinterturbo]] [[tauricresearch-tradingagents]] [[paperclipai-paperclip]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

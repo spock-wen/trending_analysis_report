@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[gabime-spdlog]] [[hugohe3-ppt-master]] [[marceloprates-prettymaps]] [[amnezia-vpn-amnezia-client]]
+[[posthog-posthog]] [[ladybirdbrowser-ladybird]] [[gabime-spdlog]] [[volcengine-openviking]] [[marceloprates-prettymaps]]
 
 **所属领域**: [[data]]
 

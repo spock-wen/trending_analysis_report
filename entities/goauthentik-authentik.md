@@ -37,5 +37,5 @@ The authentication glue you need.
 
 ## 相关项目
 
-[[jundot-omlx]] [[mukul975-anthropic-cybersecurity-skills]] [[volcengine-openviking]] [[harry0703-moneyprinterturbo]]
+[[posthog-posthog]] [[harry0703-moneyprinterturbo]] [[volcengine-openviking]] [[tencent-ai-infra-guard]]
 

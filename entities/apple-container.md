@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[palmier-io-palmier-pro]] [[altic-dev-fluidvoice]] [[obra-superpowers]] [[permissionlesstech-bitchat]] [[mukul975-anthropic-cybersecurity-skills]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[palmier-io-palmier-pro]] [[ryancodrai-turbovec]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mukul975-anthropic-cybersecurity-skills]] [[jundot-omlx]] [[affaan-m-ecc]] [[volcengine-openviking]] [[uber-adr]]
+[[zhaoxuya520-reverse-skill]] [[harry0703-moneyprinterturbo]] [[uber-adr]] [[posthog-posthog]] [[volcengine-openviking]]
 
 **所属领域**: [[security]]
 

@@ -37,7 +37,7 @@ Official Python inference and LoRA trainer package for the LTX-2 audio–video g
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[huggingface-transformers]] [[hugohe3-ppt-master]]
+[[harry0703-moneyprinterturbo]] [[hugohe3-ppt-master]] [[obra-superpowers]] [[posthog-posthog]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

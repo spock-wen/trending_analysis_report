@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[opencut-app-opencut]] [[semantica-agi-semantica]]
+[[harry0703-moneyprinterturbo]] [[ruvnet-ruview]] [[obra-superpowers]] [[posthog-posthog]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

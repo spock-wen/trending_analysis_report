@@ -37,7 +37,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]] [[jundot-omlx]] [[citrolabs-ego-lite]]
+[[hkuds-cli-anything]] [[harry0703-moneyprinterturbo]] [[posthog-posthog]] [[citrolabs-ego-lite]] [[volcengine-openviking]]
 
 **所属领域**: [[web]]
 

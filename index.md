@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-08-20 | 总页面：493
+> 最后更新：2026-08-21 | 总页面：498
 
 ## Entities
 
@@ -19,11 +19,12 @@
 - [[agalwood-motrix|Motrix"]] — A full-featured download manager. 🆕
 - [[agavra-tuicr|tuicr"]] — a code review TUI with vim keybindings 🆕
 - [[agegr-pi-web|pi-web"]] — Web UI for the pi coding agent 🔥
+- [[agent-substrate-substrate|substrate"]] — Agent Substrate: the core system 🆕
 - [[agentskills-agentskills|agentskills"]] — Specification and documentation for Agent Skills 🔥
 - [[ahmadibrahiim-website-downloader|Website-downloader"]] — 💡 Download the complete source code of any website (includin...
 - [[aieradev-clypra|Clypra"]] — A modern video editor built with Tauri, React, and TypeScrip...
 - [[aishwaryanr-awesome-generative-ai-guide|awesome-generative-ai-guide"]] — A one stop repository for generative AI research updates, in...
-- [[akitaonrails-ai-memory|ai-memory"]] — Solution for long term memory for agent coding CLIs and to f... 🆕
+- [[akitaonrails-ai-memory|ai-memory"]] — Solution for long term memory for agent coding CLIs and to f...
 - [[alchaincyf-zhangxuefeng-skill|zhangxuefeng-skill"]] — 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 - [[alexsjones-llmfit|llmfit"]] — Hundreds of models & providers. One command to find what run...
 - [[alexzhang13-rlm|rlm"]] — General plug-and-play inference library for Recursive Langua...
@@ -35,7 +36,7 @@
 - [[alishahryar1-free-claude-code|free-claude-code"]] — Use Claude Code, Codex and Pi for free from your terminal, a...
 - [[allenai-olmocr|olmocr"]] — Toolkit for linearizing PDFs for LLM datasets/training
 - [[altic-dev-fluidvoice|FluidVoice"]] — Fastest and only macOS Dictation app with on-device STT and ...
-- [[amadeusprotocol-node|node"]] — No description 🆕
+- [[amadeusprotocol-node|node"]] — No description
 - [[amnezia-vpn-amnezia-client|amnezia-client"]] — Amnezia VPN Client (Desktop+Mobile)
 - [[andreknieriem-headunit-revived|headunit-revived"]] — Headunit App for displaying Android Auto
 - [[andrewrabert-jellium-desktop|jellium-desktop"]] — An unofficial desktop client for Jellyfin
@@ -57,6 +58,7 @@
 - [[apache-maven|maven"]] — Apache Maven core
 - [[apache-ossie|ossie"]] — Apache Ossie, industry wide specification effort to standard...
 - [[apple-container|container"]] — A tool for creating and running Linux containers using light... 🆕
+- [[aprilnea-openlogi|OpenLogi"]] — ⚡️A native, local-first alternative to Logitech Options+, wr... 🆕
 - [[aquasecurity-trivy|trivy"]] — Find vulnerabilities, misconfigurations, secrets, SBOM in co... 🔥
 - [[argoproj-argo-cd|argo-cd"]] — Declarative Continuous Deployment for Kubernetes
 - [[astrbotdevs-astrbot|AstrBot"]] — AI Agent Assistant & development framework that integrates l... 🔥
@@ -86,7 +88,7 @@
 - [[catchorg-catch2|Catch2"]] — A modern, C++-native, test framework for unit-tests, TDD and... 🆕
 - [[cathrynlavery-diagram-design|diagram-design"]] — 29 editorial diagram types for Claude Code. Self-contained H... 🔥
 - [[chachamaru127-claude-code-harness|claude-code-harness"]] — Claude Code Dedicated Development Harness - Achieving High-Q...
-- [[chaitanyagiri-munder-difflin|munder-difflin"]] — local multi-agent harness 🆕
+- [[chaitanyagiri-munder-difflin|munder-difflin"]] — local multi-agent harness 🔥
 - [[chatwoot-chatwoot|chatwoot"]] — Open-source live-chat, email support, omni-channel desk. An ...
 - [[chen08209-flclash|FlClash"]] — A multi-platform proxy client based on ClashMeta,simple and ...
 - [[chenyme-grok2api|grok2api"]] — Multi-account API gateway for Grok Build, Grok Web, and Grok...
@@ -113,7 +115,7 @@
 - [[crosstalk-solutions-project-nomad|project-nomad"]] — Project N.O.M.A.D, is a self-contained, offline survival com...
 - [[crynta-terax-ai|terax-ai"]] — Lightweight (7MB) Terminal-first AI-native dev workspace
 - [[cupy-cupy|cupy"]] — NumPy & SciPy for GPU 🆕
-- [[cursor-plugins|plugins"]] — Cursor plugin specification and official plugins 🆕
+- [[cursor-plugins|plugins"]] — Cursor plugin specification and official plugins
 - [[cypress-io-cypress|cypress"]] — Fast, easy and reliable testing for anything that runs in a ...
 - [[czlonkowski-n8n-mcp|n8n-mcp"]] — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor t... 🆕
 - [[d4vinci-scrapling|Scrapling"]] — 🕷️ An adaptive Web Scraping framework that handles everythin... 🔥
@@ -231,7 +233,7 @@
 - [[jellyfin-jellyfin|jellyfin"]] — The Free Software Media System - Server Backend & API
 - [[jenkinsci-jenkins|jenkins"]] — Jenkins automation server
 - [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm"]] — Claude Skill: Multi-source content processor for NotebookLM. 🆕
-- [[juliusbrussee-caveman|caveman"]] — 🪨 why use many token when few token do trick — Claude Code s... 🔥
+- [[juliusbrussee-caveman|caveman"]] — 🪨 why use many token when few token do trick — Claude Code s...
 - [[jundot-omlx|omlx"]] — LLM inference server with continuous batching & SSD caching ... 🔥
 - [[jwasham-coding-interview-university|coding-interview-university"]] — A complete computer science study plan to become a software ...
 - [[k-dense-ai-scientific-agent-skills|scientific-agent-skills"]] — A set of ready to use Agent Skills for research, science, en... 🔥
@@ -273,14 +275,15 @@
 - [[macro-inc-macro|macro"]] — Macro is a unified workspace for teams: email, chat, docs, t... 🔥
 - [[maderix-ane|ANE"]] — Training neural networks on Apple Neural Engine via reverse-...
 - [[madslorentzen-ai-job-search|ai-job-search"]] — AI-powered job application framework built on Claude Code. F...
+- [[mahlernim-google-timeline-visualizer|google-timeline-visualizer"]] — Visualize your year in travel using your Google Location His... 🆕
 - [[makazhanalpamys-soup|Soup"]] — Fine-tune LLMs from one YAML. Layer streaming trains an 8B m...
-- [[makeplane-plane|plane"]] — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternativ... 🆕
+- [[makeplane-plane|plane"]] — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternativ...
 - [[malisper-pgrust|pgrust"]] — Postgres rewritten in Rust, now passing 100% of the Postgres... 🆕
 - [[manaflow-ai-cmux|cmux"]] — Ghostty-based macOS terminal with vertical tabs and notifica... 🔥
-- [[marceloprates-prettymaps|prettymaps"]] — Draw pretty maps from OpenStreetMap data! Built with osmnx +... 🆕
+- [[marceloprates-prettymaps|prettymaps"]] — Draw pretty maps from OpenStreetMap data! Built with osmnx +...
 - [[masterking32-masterdnsvpn|MasterDnsVPN"]] — Advanced DNS tunneling VPN for censorship bypass, optimized ... 🔥
 - [[mattermost-mattermost|mattermost"]] — Mattermost is an open source platform for secure collaborati... 🆕
-- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .agents director...
+- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .agents director... 🆕
 - [[mauriceboe-trek|TREK"]] — A self-hosted travel/trip planner with real-time collaborati... 🆕
 - [[maziyarpanahi-openmed|openmed"]] — open-source healthcare ai 🔥
 - [[mebus-cupp|cupp"]] — Common User Passwords Profiler (CUPP) 🆕
@@ -300,6 +303,7 @@
 - [[microsoft-vibevoice|VibeVoice"]] — Open-Source Frontier Voice AI
 - [[mikeroyal-self-hosting-guide|Self-Hosting-Guide"]] — Self-Hosting Guide. Learn all about locally hosting (on prem...
 - [[mikumifa-bilitickerbuy|biliTickerBuy"]] — b站会员购购票辅助工具
+- [[modular-modular|modular"]] — The Modular Platform (includes MAX & Mojo) 🆕
 - [[moeru-ai-airi|airi"]] — 💖🧸 Self hosted, you-owned Grok Companion, a container of sou... 🔥
 - [[moonshine-ai-moonshine|moonshine"]] — Very low latency speech to text, intent recognition, and tex...
 - [[moonshotai-flashkda|FlashKDA"]] — FlashKDA: high-performance Kimi Delta Attention kernels
@@ -327,7 +331,7 @@
 - [[nvlabs-sana|Sana"]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
 - [[nvm-sh-nvm|nvm"]] — Node Version Manager - POSIX-compliant bash script to manage...
 - [[oblien-openship|openship"]] — Self-hosted deployment platform 🔥
-- [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo...
+- [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo... 🆕
 - [[ocornut-imgui|imgui"]] — Dear ImGui: Bloat-free Graphical User interface for C++ with...
 - [[odoo-odoo|odoo"]] — Odoo. Open Source Apps To Grow Your Business.
 - [[ogulcancelik-herdr|herdr"]] — agent multiplexer that lives in your terminal. 🔥
@@ -367,7 +371,7 @@
 - [[pingdotgg-t3code|t3code"]] — No description 🆕
 - [[pkuflyingpig-cs-self-learning|cs-self-learning"]] — 计算机自学指南
 - [[plausible-analytics|analytics"]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
-- [[posthog-posthog|posthog"]] — 🦔 PostHog is the leading platform for building self-driving ... 🔥
+- [[posthog-posthog|posthog"]] — 🦔 PostHog is the leading platform for building self-driving ...
 - [[pppscn-smsforwarder|SmsForwarder"]] — 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内...
 - [[practical-tutorials-project-based-learning|project-based-learning"]] — Curated list of project-based tutorials
 - [[pranshuparmar-witr|witr"]] — Why is this running? Trace any process, port, container, or ...
@@ -401,7 +405,7 @@
 - [[ryancodrai-turbovec|turbovec"]] — A vector index built on TurboQuant, written in Rust with Pyt...
 - [[ryanmcdermott-clean-code-javascript|clean-code-javascript"]] — Clean Code concepts adapted for JavaScript
 - [[safishamsi-graphify|graphify"]] — AI coding assistant skill (Claude Code, Codex, OpenCode, Cur...
-- [[santifer-career-ops|career-ops"]] — Open-source AI job search: scan job portals, evaluate listin...
+- [[santifer-career-ops|career-ops"]] — Open-source AI job search: scan job portals, evaluate listin... 🆕
 - [[schollz-croc|croc"]] — Easily and securely send things from one computer to another... 🆕
 - [[semantica-agi-semantica|semantica"]] — Graph-Native Infrastructure for Context and Accountable AI S... 🔥
 - [[shanraisshan-claude-code-best-practice|claude-code-best-practice"]] — from vibe coding to agentic engineering - practice makes cla...
@@ -427,6 +431,7 @@
 - [[tapxworld-chinatextbook|ChinaTextbook"]] — 所有小初高、大学PDF教材。
 - [[tauricresearch-tradingagents|TradingAgents"]] — TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [[tech-leads-club-agent-skills|agent-skills"]] — The secure, validated skill registry for professional AI cod... 🆕
+- [[tencent-ai-infra-guard|AI-Infra-Guard"]] — A full-stack AI Red Teaming platform securing AI ecosystems ... 🆕
 - [[tencentcloud-cubesandbox|CubeSandbox"]] — Instant, Concurrent, Secure & Lightweight Sandbox for AI Age... 🆕
 - [[tencentcloud-tencentdb-agent-memory|TencentDB-Agent-Memory"]] — TencentDB Agent Memory is a team-level memory hub for AI Age... 🔥
 - [[teng-lin-notebooklm-py|notebooklm-py"]] — Unofficial Python API and agentic skill for Google NotebookL...
@@ -458,7 +463,7 @@
 - [[virattt-ai-hedge-fund|ai-hedge-fund"]] — An AI Hedge Fund Team
 - [[virgiliojr94-book-to-skill|book-to-skill"]] — Turn any technical book PDF into a Claude Code skill — ready... 🆕
 - [[vitali87-code-graph-rag|code-graph-rag"]] — The ultimate RAG for your monorepo. Query, understand, and e... 🔥
-- [[volcengine-openviking|OpenViking"]] — Self-evolving Context Database for AI Agents. Unify Agent Me... 🆕
+- [[volcengine-openviking|OpenViking"]] — Self-evolving Context Database for AI Agents. Unify Agent Me... 🔥
 - [[voltagent-awesome-design-md|awesome-design-md"]] — A collection of DESIGN.md files analysis by popular brand de...
 - [[vudovn-ag-kit|ag-kit"]] — No description
 - [[vxcontrol-pentagi|pentagi"]] — Fully autonomous AI Agents system capable of performing comp...

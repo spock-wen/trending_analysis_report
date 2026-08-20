@@ -38,7 +38,7 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[altic-dev-fluidvoice]] [[addyosmani-agent-skills]]
+[[hkuds-cli-anything]] [[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[posthog-posthog]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

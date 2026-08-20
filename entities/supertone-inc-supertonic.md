@@ -36,7 +36,7 @@ Lightning-Fast, On-Device, Multilingual TTS running natively via ONNX.
 
 ## 相关项目
 
-[[palmier-io-palmier-pro]] [[altic-dev-fluidvoice]] [[permissionlesstech-bitchat]] [[lightricks-ltx-2]] [[huggingface-transformers]]
+[[hugohe3-ppt-master]] [[huggingface-transformers]] [[palmier-io-palmier-pro]] [[altic-dev-fluidvoice]] [[jaywcjlove-awesome-mac]]
 
 **所属领域**: [[audio]]
 

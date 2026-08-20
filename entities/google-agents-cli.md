@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[semantica-agi-semantica]] [[litu54-devops-interview-guide]] [[santifer-career-ops]]
+[[harry0703-moneyprinterturbo]] [[ruvnet-ruview]] [[obra-superpowers]] [[posthog-posthog]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

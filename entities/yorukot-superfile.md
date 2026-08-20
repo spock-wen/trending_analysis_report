@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[pranshuparmar-witr]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[chenyme-grok2api]] [[esengine-deepseek-reasonix]]
+[[obra-superpowers]] [[juliusbrussee-caveman]] [[santifer-career-ops]] [[pranshuparmar-witr]] [[infiniflow-ragflow]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[hasaneyldrm-exercises-dataset]] [[kepano-obsidian-skills]] [[huggingface-transformers]] [[practical-tutorials-project-based-learning]]
+[[hkuds-cli-anything]] [[hasaneyldrm-exercises-dataset]] [[cathrynlavery-diagram-design]] [[huggingface-transformers]] [[posthog-posthog]]
 
 **所属领域**: [[web]] [[education]]
 

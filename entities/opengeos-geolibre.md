@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[altic-dev-fluidvoice]] [[calesthio-openmontage]] [[opencut-app-opencut]] [[chaitanyagiri-munder-difflin]]
+[[hkuds-cli-anything]] [[posthog-posthog]] [[citrolabs-ego-lite]] [[chaitanyagiri-munder-difflin]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[web]] [[data]]
 

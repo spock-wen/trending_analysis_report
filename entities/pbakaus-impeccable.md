@@ -35,7 +35,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[addyosmani-agent-skills]] [[santifer-career-ops]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[citrolabs-ego-lite]] [[addyosmani-agent-skills]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]]
 

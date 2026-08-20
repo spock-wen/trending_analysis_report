@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[santifer-career-ops]] [[mattpocock-skills]] [[basecamp-omarchy]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[ryancodrai-turbovec]] [[santifer-career-ops]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

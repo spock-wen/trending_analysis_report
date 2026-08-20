@@ -35,7 +35,7 @@ A framework for building realtime voice AI agents 🤖🎙️📹
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[lightricks-ltx-2]] [[huggingface-transformers]]
+[[harry0703-moneyprinterturbo]] [[hugohe3-ppt-master]] [[obra-superpowers]] [[posthog-posthog]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

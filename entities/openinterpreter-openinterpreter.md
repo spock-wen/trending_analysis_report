@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[tooljet-tooljet]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[amadeusprotocol-node]]
+[[harry0703-moneyprinterturbo]] [[amadeusprotocol-node]] [[hugohe3-ppt-master]] [[obra-superpowers]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

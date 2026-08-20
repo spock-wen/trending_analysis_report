@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[obra-superpowers]] [[pppscn-smsforwarder]] [[mukul975-anthropic-cybersecurity-skills]] [[mattpocock-skills]] [[bannedbook-fanqiang]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[bannedbook-fanqiang]] [[ryancodrai-turbovec]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

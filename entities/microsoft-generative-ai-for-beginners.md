@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[kepano-obsidian-skills]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[huggingface-transformers]] [[donnemartin-system-design-primer]]
+[[harry0703-moneyprinterturbo]] [[microsoft-ai-for-beginners]] [[obra-superpowers]] [[huggingface-transformers]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

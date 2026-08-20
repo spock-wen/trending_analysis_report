@@ -38,7 +38,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[litu54-devops-interview-guide]] [[mattpocock-skills]] [[jundot-omlx]]
+[[harry0703-moneyprinterturbo]] [[ruvnet-ruview]] [[obra-superpowers]] [[posthog-posthog]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[hasaneyldrm-exercises-dataset]] [[tooljet-tooljet]] [[hkuds-cli-anything]] [[unslothai-unsloth]]
+[[pkuflyingpig-cs-self-learning]] [[hkuds-cli-anything]] [[hasaneyldrm-exercises-dataset]] [[cathrynlavery-diagram-design]] [[posthog-posthog]]
 
 **所属领域**: [[web]] [[image-gen]]
 

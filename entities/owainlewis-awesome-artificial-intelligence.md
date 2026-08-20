@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[kepano-obsidian-skills]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[huggingface-transformers]]
+[[zhaoxuya520-reverse-skill]] [[harry0703-moneyprinterturbo]] [[tauricresearch-tradingagents]] [[paperclipai-paperclip]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

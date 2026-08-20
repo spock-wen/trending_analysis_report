@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]] [[santifer-career-ops]]
+[[hkuds-cli-anything]] [[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[posthog-posthog]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

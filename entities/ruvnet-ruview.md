@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[semantica-agi-semantica]] [[litu54-devops-interview-guide]] [[amadeusprotocol-node]] [[akitaonrails-ai-memory]] [[macro-inc-macro]]
+[[amadeusprotocol-node]] [[posthog-posthog]] [[ryancodrai-turbovec]] [[semantica-agi-semantica]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[devops]]
 

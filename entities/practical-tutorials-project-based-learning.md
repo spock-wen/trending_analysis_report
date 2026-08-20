@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[kepano-obsidian-skills]] [[mukul975-anthropic-cybersecurity-skills]] [[huggingface-transformers]] [[jundot-omlx]] [[volcengine-openviking]]
+[[harry0703-moneyprinterturbo]] [[huggingface-transformers]] [[posthog-posthog]] [[volcengine-openviking]] [[donnemartin-system-design-primer]]
 
 **所属领域**: [[education]]
 

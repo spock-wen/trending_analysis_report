@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[santifer-career-ops]] [[mattpocock-skills]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[posthog-posthog]] [[citrolabs-ego-lite]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

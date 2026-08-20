@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[tooljet-tooljet]] [[obra-superpowers]] [[opencut-app-opencut]] [[chaitanyagiri-munder-difflin]]
+[[hugohe3-ppt-master]] [[obra-superpowers]] [[tooljet-tooljet]] [[chaitanyagiri-munder-difflin]] [[genlayerlabs-genlayer-project-boilerplate]]
 
 **所属领域**: [[erp]]
 

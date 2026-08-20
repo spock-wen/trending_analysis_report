@@ -35,7 +35,7 @@ Switchyard lets LLM applications route traffic across models and providers while
 
 ## 相关项目
 
-[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[amadeusprotocol-node]] [[akitaonrails-ai-memory]] [[macro-inc-macro]]
+[[harry0703-moneyprinterturbo]] [[amadeusprotocol-node]] [[obra-superpowers]] [[ryancodrai-turbovec]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

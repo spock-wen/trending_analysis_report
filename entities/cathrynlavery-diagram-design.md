@@ -37,7 +37,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[hasaneyldrm-exercises-dataset]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]]
+[[pkuflyingpig-cs-self-learning]] [[hkuds-cli-anything]] [[harry0703-moneyprinterturbo]] [[hasaneyldrm-exercises-dataset]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

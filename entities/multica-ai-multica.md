@@ -36,7 +36,7 @@ The open-source managed agents platform. Turn coding agents into real teammates 
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[opencut-app-opencut]] [[chaitanyagiri-munder-difflin]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[ryancodrai-turbovec]] [[mattpocock-skills]] [[chaitanyagiri-munder-difflin]]
 
 **所属领域**: [[ai-agent]]
 

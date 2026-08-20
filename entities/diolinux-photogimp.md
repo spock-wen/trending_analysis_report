@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[altic-dev-fluidvoice]] [[obra-superpowers]] [[tooljet-tooljet]] [[hkuds-cli-anything]]
+[[hkuds-cli-anything]] [[hugohe3-ppt-master]] [[obra-superpowers]] [[posthog-posthog]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[web]] [[erp]]
 

@@ -34,7 +34,7 @@ DevOps Interview Guide
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[semantica-agi-semantica]] [[uber-adr]]
+[[semantica-agi-semantica]] [[posthog-posthog]] [[ruvnet-ruview]] [[tencent-ai-infra-guard]]
 
 **所属领域**: [[devops]]
 

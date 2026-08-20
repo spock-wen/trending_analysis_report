@@ -35,7 +35,7 @@ Hundreds of models & providers. One command to find what runs on your hardware.
 
 ## 相关项目
 
-[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[amadeusprotocol-node]] [[santifer-career-ops]] [[mattpocock-skills]]
+[[harry0703-moneyprinterturbo]] [[amadeusprotocol-node]] [[obra-superpowers]] [[ryancodrai-turbovec]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

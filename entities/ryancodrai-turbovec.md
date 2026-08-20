@@ -1,44 +1,44 @@
 ---
 title: "RyanCodrai/turbovec"
 created: 2026-06-08
-updated: 2026-07-26
-last_active: 2026-07-26
+updated: 2026-08-21
+last_active: 2026-08-21
 type: tool
-tags: [python, ai-agent]
-sources: [raw/trending/2026-07-26.json]
+tags: [rust, ai-agent]
+sources: [raw/trending/2026-08-21.json]
 confidence: high
-trending_count_daily: 5
+trending_count_daily: 6
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-08
-last_trending: 2026-07-26
+last_trending: 2026-08-21
 peak_rank: 2
-total_stars: 14270
-language: "Python"
+total_stars: 15922
+language: "Rust"
 ---
 
 # RyanCodrai/turbovec
 
 A vector index built on TurboQuant, written in Rust with Python bindings
 
-- 语言: Python
-- 上榜次数: 5 次
+- 语言: Rust
+- 上榜次数: 6 次
 - 连续上榜: 1 天
 - 最高排名: #2
 - 链接: [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)
 
 ## 上榜历史
 
+  - 2026-08-21: #17, +251⭐
   - 2026-07-26: #15, +89⭐
   - 2026-07-18: #12, +280⭐
   - 2026-06-10: #2, +1800⭐
   - 2026-06-09: #2, +1729⭐
-  - 2026-06-08: #10, +1533⭐
 
 ## 相关项目
 
-[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[mattpocock-skills]] [[jundot-omlx]] [[volcengine-openviking]]
+[[harry0703-moneyprinterturbo]] [[amadeusprotocol-node]] [[obra-superpowers]] [[mattpocock-skills]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]]
 

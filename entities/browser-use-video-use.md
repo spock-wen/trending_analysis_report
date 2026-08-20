@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[hkuds-cli-anything]] [[mattpocock-skills]]
+[[hkuds-cli-anything]] [[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[posthog-posthog]] [[citrolabs-ego-lite]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

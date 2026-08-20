@@ -35,7 +35,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[kepano-obsidian-skills]] [[mukul975-anthropic-cybersecurity-skills]] [[huggingface-transformers]] [[jundot-omlx]] [[volcengine-openviking]]
+[[harry0703-moneyprinterturbo]] [[huggingface-transformers]] [[posthog-posthog]] [[practical-tutorials-project-based-learning]] [[volcengine-openviking]]
 
 **所属领域**: [[education]]
 

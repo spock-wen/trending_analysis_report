@@ -36,7 +36,7 @@ Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 ## 相关项目
 
-[[palmier-io-palmier-pro]] [[altic-dev-fluidvoice]] [[obra-superpowers]] [[permissionlesstech-bitchat]] [[mukul975-anthropic-cybersecurity-skills]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[palmier-io-palmier-pro]] [[ryancodrai-turbovec]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

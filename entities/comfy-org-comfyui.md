@@ -35,7 +35,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[mukul975-anthropic-cybersecurity-skills]] [[unslothai-unsloth]] [[lightningpixel-modly]] [[jundot-omlx]]
+[[harry0703-moneyprinterturbo]] [[posthog-posthog]] [[tooljet-tooljet]] [[unslothai-unsloth]] [[infiniflow-ragflow]]
 
 **所属领域**: [[image-gen]]
 

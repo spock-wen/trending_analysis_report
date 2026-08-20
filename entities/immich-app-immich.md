@@ -37,5 +37,5 @@ High performance self-hosted photo and video management solution.
 
 ## 相关项目
 
-[[chaitanyagiri-munder-difflin]] [[opencut-app-opencut]] [[genlayerlabs-genlayer-project-boilerplate]]
+[[cursor-plugins]] [[makeplane-plane]] [[chaitanyagiri-munder-difflin]]
 

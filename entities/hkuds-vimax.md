@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[unslothai-unsloth]] [[lightningpixel-modly]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[posthog-posthog]] [[ryancodrai-turbovec]] [[tooljet-tooljet]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

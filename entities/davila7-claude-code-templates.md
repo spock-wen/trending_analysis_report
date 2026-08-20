@@ -36,7 +36,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[semantica-agi-semantica]] [[litu54-devops-interview-guide]] [[santifer-career-ops]]
+[[harry0703-moneyprinterturbo]] [[ruvnet-ruview]] [[obra-superpowers]] [[posthog-posthog]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

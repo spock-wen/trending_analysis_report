@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[gabime-spdlog]] [[lightricks-ltx-2]]
+[[harry0703-moneyprinterturbo]] [[hugohe3-ppt-master]] [[obra-superpowers]] [[ladybirdbrowser-ladybird]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

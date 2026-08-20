@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[mukul975-anthropic-cybersecurity-skills]] [[hugohe3-ppt-master]] [[marceloprates-prettymaps]] [[jundot-omlx]]
+[[harry0703-moneyprinterturbo]] [[posthog-posthog]] [[volcengine-openviking]] [[marceloprates-prettymaps]] [[tencent-ai-infra-guard]]
 
 **所属领域**: [[data]]
 

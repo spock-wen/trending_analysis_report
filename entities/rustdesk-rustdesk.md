@@ -34,5 +34,5 @@ An open-source remote desktop application designed for self-hosting, as an alter
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[amadeusprotocol-node]] [[macro-inc-macro]] [[akitaonrails-ai-memory]]
+[[amadeusprotocol-node]] [[aprilnea-openlogi]] [[ryancodrai-turbovec]] [[akitaonrails-ai-memory]]
 

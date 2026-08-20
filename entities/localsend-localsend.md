@@ -34,7 +34,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[obra-superpowers]] [[mukul975-anthropic-cybersecurity-skills]] [[chen08209-flclash]] [[mattpocock-skills]] [[flutter-flutter]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[ryancodrai-turbovec]] [[flutter-flutter]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

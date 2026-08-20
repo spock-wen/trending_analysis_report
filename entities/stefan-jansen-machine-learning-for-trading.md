@@ -35,7 +35,7 @@ Code for Machine Learning for Algorithmic Trading, 2nd edition.
 
 ## 相关项目
 
-[[kepano-obsidian-skills]] [[microsoft-generative-ai-for-beginners]] [[huggingface-transformers]] [[donnemartin-system-design-primer]] [[anthropics-claude-cookbooks]]
+[[microsoft-ai-for-beginners]] [[huggingface-transformers]] [[microsoft-generative-ai-for-beginners]] [[anthropics-claude-cookbooks]] [[practical-tutorials-project-based-learning]]
 
 **所属领域**: [[education]]
 

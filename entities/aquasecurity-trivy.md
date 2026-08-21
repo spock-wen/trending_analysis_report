@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[harry0703-moneyprinterturbo]] [[uber-adr]] [[obra-superpowers]] [[juliusbrussee-caveman]]
+[[juliusbrussee-caveman]] [[agent-substrate-substrate]] [[infiniflow-ragflow]] [[mukul975-anthropic-cybersecurity-skills]] [[uber-adr]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

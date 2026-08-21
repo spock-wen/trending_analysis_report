@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[ruvnet-ruview]] [[huggingface-transformers]] [[genlayerlabs-genlayer-project-boilerplate]] [[microsoft-ai-for-beginners]]
+[[ruvnet-ruflo]] [[microsoft-ai-for-beginners]] [[practical-tutorials-project-based-learning]] [[posthog-posthog]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

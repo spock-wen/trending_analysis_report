@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[obra-superpowers]] [[ladybirdbrowser-ladybird]] [[tooljet-tooljet]] [[gabime-spdlog]]
+[[hugohe3-ppt-master]] [[microsoft-onnxruntime]] [[gabime-spdlog]] [[protocolbuffers-protobuf]] [[genlayerlabs-genlayer-project-boilerplate]]
 
 **所属领域**: [[erp]]
 

@@ -36,7 +36,7 @@ Let's use AI to Earn!
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[ryancodrai-turbovec]] [[mattpocock-skills]] [[chaitanyagiri-munder-difflin]]
+[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]]
 

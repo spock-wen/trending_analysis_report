@@ -34,7 +34,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[juliusbrussee-caveman]] [[ryancodrai-turbovec]] [[pranshuparmar-witr]]
+[[juliusbrussee-caveman]] [[agent-substrate-substrate]] [[infiniflow-ragflow]] [[microsoft-typescript]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]]
 

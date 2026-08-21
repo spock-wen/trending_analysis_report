@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[ruvnet-ruview]] [[obra-superpowers]] [[posthog-posthog]] [[ryancodrai-turbovec]]
+[[volcengine-openviking]] [[ruvnet-ruflo]] [[santifer-career-ops]] [[posthog-posthog]] [[makeplane-plane]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

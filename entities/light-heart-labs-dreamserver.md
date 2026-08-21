@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[hugohe3-ppt-master]] [[obra-superpowers]] [[posthog-posthog]] [[huggingface-transformers]]
+[[volcengine-openviking]] [[hugohe3-ppt-master]] [[posthog-posthog]] [[unslothai-unsloth]] [[lightningpixel-modly]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

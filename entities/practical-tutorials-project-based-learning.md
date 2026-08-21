@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[huggingface-transformers]] [[posthog-posthog]] [[volcengine-openviking]] [[donnemartin-system-design-primer]]
+[[volcengine-openviking]] [[ruvnet-ruflo]] [[posthog-posthog]] [[kepano-obsidian-skills]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[education]]
 

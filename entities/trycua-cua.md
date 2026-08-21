@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[hkuds-cli-anything]] [[harry0703-moneyprinterturbo]] [[hasaneyldrm-exercises-dataset]] [[cathrynlavery-diagram-design]]
+[[volcengine-openviking]] [[citrolabs-ego-lite]] [[posthog-posthog]] [[unslothai-unsloth]] [[lightningpixel-modly]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

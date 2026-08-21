@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[posthog-posthog]] [[tooljet-tooljet]] [[unslothai-unsloth]] [[infiniflow-ragflow]] [[chaitanyagiri-munder-difflin]]
+[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[posthog-posthog]]
 
 **所属领域**: [[data]] [[image-gen]]
 

@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[hugohe3-ppt-master]] [[obra-superpowers]] [[posthog-posthog]] [[ryancodrai-turbovec]]
+[[volcengine-openviking]] [[ruvnet-ruflo]] [[practical-tutorials-project-based-learning]] [[posthog-posthog]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

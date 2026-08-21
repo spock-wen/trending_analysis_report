@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[citrolabs-ego-lite]] [[santifer-career-ops]] [[tooljet-tooljet]]
+[[tooljet-tooljet]] [[tryghost-ghost]] [[affaan-m-ecc]] [[santifer-career-ops]]
 

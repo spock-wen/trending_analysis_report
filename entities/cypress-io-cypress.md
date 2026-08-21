@@ -37,7 +37,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[posthog-posthog]] [[citrolabs-ego-lite]] [[chaitanyagiri-munder-difflin]] [[altic-dev-fluidvoice]]
+[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[posthog-posthog]]
 
 **所属领域**: [[web]]
 

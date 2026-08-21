@@ -37,7 +37,7 @@ Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[posthog-posthog]] [[ryancodrai-turbovec]] [[tooljet-tooljet]]
+[[volcengine-openviking]] [[posthog-posthog]] [[lightningpixel-modly]] [[infiniflow-ragflow]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

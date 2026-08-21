@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[posthog-posthog]] [[juliusbrussee-caveman]] [[pranshuparmar-witr]] [[infiniflow-ragflow]]
+[[juliusbrussee-caveman]] [[ruvnet-ruflo]] [[posthog-posthog]] [[semantica-agi-semantica]] [[agent-substrate-substrate]]
 
 **所属领域**: [[devops]]
 

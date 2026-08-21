@@ -36,7 +36,7 @@ local multi-agent harness
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[ryancodrai-turbovec]] [[mattpocock-skills]] [[immich-app-immich]]
+[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]]
 

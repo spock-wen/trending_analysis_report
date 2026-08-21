@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[posthog-posthog]] [[citrolabs-ego-lite]] [[ryancodrai-turbovec]]
+[[volcengine-openviking]] [[citrolabs-ego-lite]] [[santifer-career-ops]] [[posthog-posthog]] [[makeplane-plane]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

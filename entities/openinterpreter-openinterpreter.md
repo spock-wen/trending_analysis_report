@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[amadeusprotocol-node]] [[hugohe3-ppt-master]] [[obra-superpowers]] [[ryancodrai-turbovec]]
+[[hugohe3-ppt-master]] [[ryancodrai-turbovec]] [[akitaonrails-ai-memory]] [[affaan-m-ecc]] [[aprilnea-openlogi]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

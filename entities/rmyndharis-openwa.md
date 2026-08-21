@@ -36,5 +36,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[cursor-plugins]] [[makeplane-plane]] [[chaitanyagiri-munder-difflin]] [[immich-app-immich]]
+[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]]
 

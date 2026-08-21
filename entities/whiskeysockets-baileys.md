@@ -34,7 +34,7 @@ Socket-based TS/JavaScript API for WhatsApp Web
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[posthog-posthog]] [[citrolabs-ego-lite]]
+[[tryghost-ghost]] [[santifer-career-ops]] [[posthog-posthog]] [[citrolabs-ego-lite]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -37,5 +37,5 @@ Empowering everyone to host fast and efficient Minecraft servers.
 
 ## 相关项目
 
-[[amadeusprotocol-node]] [[aprilnea-openlogi]] [[ryancodrai-turbovec]] [[akitaonrails-ai-memory]]
+[[ryancodrai-turbovec]] [[amadeusprotocol-node]] [[akitaonrails-ai-memory]] [[aprilnea-openlogi]]
 

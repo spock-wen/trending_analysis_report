@@ -38,7 +38,7 @@ An advanced guide to learn English which might benefit you a lot 🎉 . 人生�
 
 ## 相关项目
 
-[[huggingface-transformers]] [[kepano-obsidian-skills]] [[donnemartin-system-design-primer]] [[practical-tutorials-project-based-learning]]
+[[ruvnet-ruflo]] [[practical-tutorials-project-based-learning]] [[kepano-obsidian-skills]] [[huggingface-transformers]]
 
 **所属领域**: [[education]]
 

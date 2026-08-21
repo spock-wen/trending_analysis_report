@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[obra-superpowers]] [[posthog-posthog]] [[ladybirdbrowser-ladybird]] [[citrolabs-ego-lite]]
+[[citrolabs-ego-lite]] [[santifer-career-ops]] [[posthog-posthog]] [[makeplane-plane]] [[microsoft-onnxruntime]]
 
 **所属领域**: [[web]] [[cli]]
 

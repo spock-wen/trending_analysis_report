@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[posthog-posthog]] [[ryancodrai-turbovec]] [[santifer-career-ops]]
+[[volcengine-openviking]] [[santifer-career-ops]] [[apache-cassandra]] [[makeplane-plane]] [[google-guava]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

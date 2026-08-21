@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[huggingface-transformers]] [[practical-tutorials-project-based-learning]] [[makeplane-plane]] [[chaitanyagiri-munder-difflin]] [[donnemartin-system-design-primer]]
+[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[practical-tutorials-project-based-learning]]
 
 **所属领域**: [[education]]
 

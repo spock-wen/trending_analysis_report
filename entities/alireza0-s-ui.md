@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[posthog-posthog]] [[juliusbrussee-caveman]] [[citrolabs-ego-lite]] [[pranshuparmar-witr]]
+[[juliusbrussee-caveman]] [[citrolabs-ego-lite]] [[posthog-posthog]] [[hkuds-cli-anything]] [[agent-substrate-substrate]]
 
 **所属领域**: [[web]]
 

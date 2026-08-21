@@ -1,20 +1,20 @@
 ---
 title: "cursor/plugins"
 created: 2026-05-30
-updated: 2026-08-21
-last_active: 2026-08-21
+updated: 2026-08-22
+last_active: 2026-08-22
 type: tool
 tags: [typescript]
-sources: [raw/trending/2026-08-21.json]
+sources: [raw/trending/2026-08-22.json]
 confidence: high
-trending_count_daily: 5
+trending_count_daily: 6
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-05-30
-last_trending: 2026-08-21
+last_trending: 2026-08-22
 peak_rank: 3
-total_stars: 4061
+total_stars: 4382
 language: "TypeScript"
 ---
 
@@ -23,20 +23,20 @@ language: "TypeScript"
 Cursor plugin specification and official plugins
 
 - 语言: TypeScript
-- 上榜次数: 5 次
-- 连续上榜: 1 天
+- 上榜次数: 6 次
+- 连续上榜: 2 天
 - 最高排名: #3
 - 链接: [cursor/plugins](https://github.com/cursor/plugins)
 
 ## 上榜历史
 
+  - 2026-08-22: #9, +391⭐
   - 2026-08-21: #5, +473⭐
   - 2026-08-16: #3, +152⭐
   - 2026-08-15: #11, +69⭐
   - 2026-05-31: #4, +206⭐
-  - 2026-05-30: #7, +129⭐
 
 ## 相关项目
 
-[[chaitanyagiri-munder-difflin]] [[makeplane-plane]] [[immich-app-immich]]
+[[ruvnet-ruflo]] [[apache-maka]] [[makeplane-plane]]
 

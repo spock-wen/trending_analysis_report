@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[obra-superpowers]] [[posthog-posthog]] [[juliusbrussee-caveman]] [[citrolabs-ego-lite]]
+[[juliusbrussee-caveman]] [[citrolabs-ego-lite]] [[santifer-career-ops]] [[posthog-posthog]] [[makeplane-plane]]
 
 **所属领域**: [[web]] [[cli]]
 

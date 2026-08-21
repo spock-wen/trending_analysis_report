@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[hugohe3-ppt-master]] [[obra-superpowers]] [[posthog-posthog]] [[huggingface-transformers]]
+[[volcengine-openviking]] [[hugohe3-ppt-master]] [[santifer-career-ops]] [[posthog-posthog]] [[makeplane-plane]]
 
 **所属领域**: [[cli]] [[audio]]
 

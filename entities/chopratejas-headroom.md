@@ -38,7 +38,7 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[posthog-posthog]] [[ryancodrai-turbovec]] [[mattpocock-skills]]
+[[volcengine-openviking]] [[posthog-posthog]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]] [[elder-plinius-obliteratus]]
 
 **所属领域**: [[ai-agent]]
 

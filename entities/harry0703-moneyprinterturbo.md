@@ -1,20 +1,20 @@
 ---
 title: "harry0703/MoneyPrinterTurbo"
 created: 2026-05-28
-updated: 2026-08-21
-last_active: 2026-08-21
+updated: 2026-08-22
+last_active: 2026-08-22
 type: tool
 tags: [python, ai-agent, rising]
-sources: [raw/trending/2026-08-21.json]
+sources: [raw/trending/2026-08-22.json]
 confidence: high
-trending_count_daily: 11
+trending_count_daily: 12
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 4
+consecutive_days: 5
 first_trending: 2026-05-28
-last_trending: 2026-08-21
+last_trending: 2026-08-22
 peak_rank: 1
-total_stars: 112882
+total_stars: 113859
 language: "Python"
 contested: true
 ---
@@ -24,22 +24,22 @@ contested: true
 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 
 - 语言: Python
-- 上榜次数: 11 次
-- 连续上榜: 4 天
+- 上榜次数: 12 次
+- 连续上榜: 5 天
 - 最高排名: #1
 - 链接: [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 
 ## 上榜历史
 
+  - 2026-08-22: #3, +1187⭐
   - 2026-08-21: #8, +2774⭐
   - 2026-08-20: #1, +2221⭐
   - 2026-08-19: #1, +2306⭐
   - 2026-08-18: #1, +1275⭐
-  - 2026-06-11: #9, +1471⭐
 
 ## 相关项目
 
-[[obra-superpowers]] [[posthog-posthog]] [[ryancodrai-turbovec]] [[mattpocock-skills]] [[volcengine-openviking]]
+[[volcengine-openviking]] [[posthog-posthog]] [[affaan-m-ecc]] [[elder-plinius-obliteratus]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

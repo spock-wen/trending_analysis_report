@@ -34,7 +34,7 @@ Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[microsoft-powertoys]] [[ryancodrai-turbovec]] [[harbourmasters-lighthouse]]
+[[harbourmasters-lighthouse]] [[antirez-ds4]] [[microsoft-powertoys]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

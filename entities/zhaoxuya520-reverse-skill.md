@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[raphire-win11debloat]] [[harry0703-moneyprinterturbo]] [[tauricresearch-tradingagents]] [[uber-adr]] [[paperclipai-paperclip]]
+[[santifer-career-ops]] [[makeplane-plane]] [[raphire-win11debloat]] [[mukul975-anthropic-cybersecurity-skills]] [[uber-adr]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

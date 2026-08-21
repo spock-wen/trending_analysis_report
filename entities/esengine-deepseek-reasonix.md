@@ -38,7 +38,7 @@ DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[juliusbrussee-caveman]] [[ryancodrai-turbovec]] [[santifer-career-ops]]
+[[juliusbrussee-caveman]] [[santifer-career-ops]] [[makeplane-plane]] [[agent-substrate-substrate]] [[infiniflow-ragflow]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -34,7 +34,7 @@ A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skil
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[ruvnet-ruview]] [[obra-superpowers]] [[posthog-posthog]] [[ryancodrai-turbovec]]
+[[volcengine-openviking]] [[ruvnet-ruflo]] [[posthog-posthog]] [[semantica-agi-semantica]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

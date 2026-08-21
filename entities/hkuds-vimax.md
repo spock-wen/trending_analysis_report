@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[posthog-posthog]] [[ryancodrai-turbovec]] [[tooljet-tooljet]]
+[[volcengine-openviking]] [[posthog-posthog]] [[unslothai-unsloth]] [[lightningpixel-modly]] [[infiniflow-ragflow]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

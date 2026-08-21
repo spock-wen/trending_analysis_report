@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[microsoft-ai-for-beginners]] [[obra-superpowers]] [[microsoft-generative-ai-for-beginners]] [[ryancodrai-turbovec]]
+[[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

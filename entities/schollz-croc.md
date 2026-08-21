@@ -35,5 +35,5 @@ Easily and securely send things from one computer to another 🐊 📦
 
 ## 相关项目
 
-[[pranshuparmar-witr]] [[juliusbrussee-caveman]] [[infiniflow-ragflow]] [[agent-substrate-substrate]]
+[[juliusbrussee-caveman]] [[agent-substrate-substrate]] [[microsoft-typescript]] [[infiniflow-ragflow]]
 

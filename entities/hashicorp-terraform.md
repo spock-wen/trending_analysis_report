@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[ruvnet-ruview]] [[obra-superpowers]] [[posthog-posthog]] [[juliusbrussee-caveman]]
+[[juliusbrussee-caveman]] [[ruvnet-ruflo]] [[posthog-posthog]] [[semantica-agi-semantica]] [[agent-substrate-substrate]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

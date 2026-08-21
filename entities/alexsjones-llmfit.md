@@ -35,7 +35,7 @@ Hundreds of models & providers. One command to find what runs on your hardware.
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[amadeusprotocol-node]] [[obra-superpowers]] [[ryancodrai-turbovec]] [[santifer-career-ops]]
+[[santifer-career-ops]] [[makeplane-plane]] [[ryancodrai-turbovec]] [[akitaonrails-ai-memory]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

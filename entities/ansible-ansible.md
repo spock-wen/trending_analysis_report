@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[harry0703-moneyprinterturbo]] [[ruvnet-ruview]] [[obra-superpowers]] [[posthog-posthog]]
+[[volcengine-openviking]] [[citrolabs-ego-lite]] [[ruvnet-ruflo]] [[posthog-posthog]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

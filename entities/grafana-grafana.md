@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[posthog-posthog]] [[semantica-agi-semantica]] [[chaitanyagiri-munder-difflin]] [[volcengine-openviking]]
+[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[posthog-posthog]]
 
 **所属领域**: [[data]] [[devops]]
 

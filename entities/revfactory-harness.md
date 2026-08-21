@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[hkuds-cli-anything]] [[harry0703-moneyprinterturbo]] [[hasaneyldrm-exercises-dataset]] [[cathrynlavery-diagram-design]]
+[[trycua-cua]] [[citrolabs-ego-lite]] [[posthog-posthog]] [[hkuds-cli-anything]] [[hasaneyldrm-exercises-dataset]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

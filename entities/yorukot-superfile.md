@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[obra-superpowers]] [[juliusbrussee-caveman]] [[santifer-career-ops]] [[pranshuparmar-witr]] [[infiniflow-ragflow]]
+[[juliusbrussee-caveman]] [[santifer-career-ops]] [[makeplane-plane]] [[agent-substrate-substrate]] [[infiniflow-ragflow]]
 
 **所属领域**: [[cli]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[harry0703-moneyprinterturbo]] [[uber-adr]] [[obra-superpowers]] [[posthog-posthog]]
+[[volcengine-openviking]] [[santifer-career-ops]] [[posthog-posthog]] [[makeplane-plane]] [[uber-adr]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

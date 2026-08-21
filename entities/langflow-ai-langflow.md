@@ -34,7 +34,7 @@ Langflow is a powerful tool for building and deploying AI-powered agents and wor
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[ruvnet-ruview]] [[obra-superpowers]] [[posthog-posthog]] [[ryancodrai-turbovec]]
+[[volcengine-openviking]] [[ruvnet-ruflo]] [[posthog-posthog]] [[semantica-agi-semantica]] [[tencent-ai-infra-guard]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

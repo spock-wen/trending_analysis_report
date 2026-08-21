@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[amadeusprotocol-node]] [[posthog-posthog]] [[citrolabs-ego-lite]] [[ryancodrai-turbovec]]
+[[citrolabs-ego-lite]] [[posthog-posthog]] [[hkuds-cli-anything]] [[altic-dev-fluidvoice]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[web]]
 

@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[amadeusprotocol-node]] [[posthog-posthog]] [[ryancodrai-turbovec]] [[semantica-agi-semantica]] [[akitaonrails-ai-memory]]
+[[ruvnet-ruflo]] [[posthog-posthog]] [[semantica-agi-semantica]] [[ryancodrai-turbovec]] [[tencent-ai-infra-guard]]
 
 **所属领域**: [[devops]]
 

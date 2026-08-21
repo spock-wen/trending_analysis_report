@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[amadeusprotocol-node]] [[uber-adr]] [[ryancodrai-turbovec]] [[affaan-m-ecc]]
+[[mukul975-anthropic-cybersecurity-skills]] [[uber-adr]] [[ryancodrai-turbovec]] [[akitaonrails-ai-memory]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

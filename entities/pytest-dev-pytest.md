@@ -34,5 +34,5 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 
 ## 相关项目
 
-[[posthog-posthog]] [[harry0703-moneyprinterturbo]] [[volcengine-openviking]] [[tencent-ai-infra-guard]]
+[[volcengine-openviking]] [[harry0703-moneyprinterturbo]] [[posthog-posthog]] [[elder-plinius-obliteratus]]
 

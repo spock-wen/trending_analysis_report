@@ -36,7 +36,7 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[amadeusprotocol-node]] [[obra-superpowers]] [[ryancodrai-turbovec]] [[santifer-career-ops]]
+[[santifer-career-ops]] [[makeplane-plane]] [[ryancodrai-turbovec]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

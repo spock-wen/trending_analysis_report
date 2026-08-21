@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[amadeusprotocol-node]] [[posthog-posthog]] [[ryancodrai-turbovec]] [[volcengine-openviking]] [[marceloprates-prettymaps]]
+[[volcengine-openviking]] [[posthog-posthog]] [[ryancodrai-turbovec]] [[akitaonrails-ai-memory]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[data]]
 

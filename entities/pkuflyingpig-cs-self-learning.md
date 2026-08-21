@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[hasaneyldrm-exercises-dataset]] [[cathrynlavery-diagram-design]] [[huggingface-transformers]] [[posthog-posthog]]
+[[ruvnet-ruflo]] [[trycua-cua]] [[citrolabs-ego-lite]] [[posthog-posthog]] [[practical-tutorials-project-based-learning]]
 
 **所属领域**: [[web]] [[education]]
 

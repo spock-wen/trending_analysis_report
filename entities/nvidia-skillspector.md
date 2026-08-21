@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[harry0703-moneyprinterturbo]] [[uber-adr]] [[obra-superpowers]] [[posthog-posthog]]
+[[volcengine-openviking]] [[posthog-posthog]] [[mukul975-anthropic-cybersecurity-skills]] [[uber-adr]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

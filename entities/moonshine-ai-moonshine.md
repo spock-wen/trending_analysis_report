@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[hugohe3-ppt-master]] [[obra-superpowers]] [[ladybirdbrowser-ladybird]] [[huggingface-transformers]]
+[[hugohe3-ppt-master]] [[huggingface-transformers]] [[lightricks-ltx-2]] [[microsoft-onnxruntime]] [[gabime-spdlog]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[huggingface-transformers]] [[posthog-posthog]] [[citrolabs-ego-lite]] [[practical-tutorials-project-based-learning]]
+[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[posthog-posthog]]
 
 **所属领域**: [[web]] [[education]]
 

@@ -34,5 +34,5 @@ Fast, secure, efficient backup program
 
 ## 相关项目
 
-[[pranshuparmar-witr]] [[juliusbrussee-caveman]] [[infiniflow-ragflow]] [[agent-substrate-substrate]]
+[[juliusbrussee-caveman]] [[agent-substrate-substrate]] [[microsoft-typescript]] [[infiniflow-ragflow]]
 

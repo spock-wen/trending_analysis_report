@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[harry0703-moneyprinterturbo]] [[tauricresearch-tradingagents]] [[paperclipai-paperclip]] [[hugohe3-ppt-master]]
+[[volcengine-openviking]] [[hugohe3-ppt-master]] [[santifer-career-ops]] [[posthog-posthog]] [[makeplane-plane]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

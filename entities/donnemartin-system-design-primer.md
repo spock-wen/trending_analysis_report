@@ -35,7 +35,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[huggingface-transformers]] [[posthog-posthog]] [[practical-tutorials-project-based-learning]] [[volcengine-openviking]]
+[[volcengine-openviking]] [[ruvnet-ruflo]] [[practical-tutorials-project-based-learning]] [[posthog-posthog]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[education]]
 

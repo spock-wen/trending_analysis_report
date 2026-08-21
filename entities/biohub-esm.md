@@ -34,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[anthropics-claude-cookbooks]] [[lyogavin-airllm]]
+[[lyogavin-airllm]] [[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]] [[anthropics-claude-cookbooks]]
 

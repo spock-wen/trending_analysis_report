@@ -37,7 +37,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[hugohe3-ppt-master]] [[obra-superpowers]] [[ryancodrai-turbovec]] [[tooljet-tooljet]]
+[[hugohe3-ppt-master]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]] [[genlayerlabs-genlayer-project-boilerplate]] [[tooljet-tooljet]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

@@ -36,7 +36,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[harry0703-moneyprinterturbo]] [[paperclipai-paperclip]] [[obra-superpowers]] [[posthog-posthog]]
+[[volcengine-openviking]] [[posthog-posthog]] [[paperclipai-paperclip]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

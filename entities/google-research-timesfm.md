@@ -37,7 +37,7 @@ TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[harry0703-moneyprinterturbo]] [[tauricresearch-tradingagents]] [[paperclipai-paperclip]] [[obra-superpowers]]
+[[volcengine-openviking]] [[posthog-posthog]] [[paperclipai-paperclip]] [[tauricresearch-tradingagents]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

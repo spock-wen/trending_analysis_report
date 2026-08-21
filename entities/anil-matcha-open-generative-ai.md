@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[citrolabs-ego-lite]] [[addyosmani-agent-skills]] [[santifer-career-ops]]
+[[tryghost-ghost]] [[santifer-career-ops]] [[unslothai-unsloth]] [[lightningpixel-modly]] [[infiniflow-ragflow]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

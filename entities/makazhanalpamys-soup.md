@@ -34,7 +34,7 @@ Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB lapto
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[posthog-posthog]] [[ryancodrai-turbovec]] [[mattpocock-skills]]
+[[volcengine-openviking]] [[posthog-posthog]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]] [[elder-plinius-obliteratus]]
 
 **所属领域**: [[ai-agent]]
 

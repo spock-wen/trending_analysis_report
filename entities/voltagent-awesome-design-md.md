@@ -34,7 +34,7 @@ A collection of DESIGN.md files analysis by popular brand design systems. Drop o
 
 ## 相关项目
 
-[[obra-superpowers]] [[harry0703-moneyprinterturbo]] [[ryancodrai-turbovec]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

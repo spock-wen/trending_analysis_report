@@ -35,7 +35,7 @@ An AI Hedge Fund Team
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[posthog-posthog]] [[ryancodrai-turbovec]] [[mattpocock-skills]]
+[[volcengine-openviking]] [[posthog-posthog]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]] [[elder-plinius-obliteratus]]
 
 **所属领域**: [[ai-agent]]
 

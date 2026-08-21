@@ -35,7 +35,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[posthog-posthog]] [[citrolabs-ego-lite]] [[gabime-spdlog]] [[altic-dev-fluidvoice]]
+[[citrolabs-ego-lite]] [[posthog-posthog]] [[microsoft-onnxruntime]] [[hkuds-cli-anything]] [[gabime-spdlog]]
 
 **所属领域**: [[web]]
 

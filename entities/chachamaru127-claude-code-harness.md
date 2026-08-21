@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[ryancodrai-turbovec]] [[santifer-career-ops]] [[mattpocock-skills]]
+[[santifer-career-ops]] [[makeplane-plane]] [[msitarzewski-agency-agents]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[amadeusprotocol-node]] [[posthog-posthog]] [[citrolabs-ego-lite]] [[ryancodrai-turbovec]]
+[[citrolabs-ego-lite]] [[posthog-posthog]] [[hkuds-cli-anything]] [[altic-dev-fluidvoice]] [[ryancodrai-turbovec]]
 
 **所属领域**: [[web]]
 

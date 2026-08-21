@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[obra-superpowers]] [[santifer-career-ops]] [[mattpocock-skills]] [[chaitanyagiri-munder-difflin]] [[immich-app-immich]]
+[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[santifer-career-ops]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

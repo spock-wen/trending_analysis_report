@@ -1,7 +1,7 @@
 ---
 title: "web"
 created: 2026-05-20
-updated: 2026-08-21
+updated: 2026-08-22
 type: concept
 tags: [web]
 confidence: medium

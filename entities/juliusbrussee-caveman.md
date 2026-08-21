@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[ryancodrai-turbovec]] [[pranshuparmar-witr]] [[mattpocock-skills]]
+[[agent-substrate-substrate]] [[infiniflow-ragflow]] [[microsoft-typescript]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,5 +35,5 @@ Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## 相关项目
 
-[[posthog-posthog]] [[harry0703-moneyprinterturbo]] [[volcengine-openviking]] [[tencent-ai-infra-guard]]
+[[volcengine-openviking]] [[harry0703-moneyprinterturbo]] [[posthog-posthog]] [[elder-plinius-obliteratus]]
 

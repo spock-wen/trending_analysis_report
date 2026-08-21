@@ -37,7 +37,7 @@ Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture cod
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[posthog-posthog]] [[juliusbrussee-caveman]] [[ryancodrai-turbovec]]
+[[juliusbrussee-caveman]] [[volcengine-openviking]] [[posthog-posthog]] [[agent-substrate-substrate]] [[infiniflow-ragflow]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

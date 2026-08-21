@@ -37,7 +37,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[amadeusprotocol-node]] [[obra-superpowers]] [[ryancodrai-turbovec]] [[mattpocock-skills]]
+[[ryancodrai-turbovec]] [[akitaonrails-ai-memory]] [[affaan-m-ecc]] [[aprilnea-openlogi]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]]
 

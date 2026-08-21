@@ -34,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[aprilnea-openlogi]] [[ryancodrai-turbovec]] [[akitaonrails-ai-memory]]
+[[ryancodrai-turbovec]] [[akitaonrails-ai-memory]] [[aprilnea-openlogi]]
 

@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[k1tbyte-wand-enhancer]] [[obra-superpowers]] [[par274-sharpemu]] [[ryancodrai-turbovec]]
+[[obra-superpowers]] [[k1tbyte-wand-enhancer]] [[dotnet-aspnetcore]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

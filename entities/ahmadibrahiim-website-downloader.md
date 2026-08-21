@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[hkuds-cli-anything]] [[hasaneyldrm-exercises-dataset]] [[cathrynlavery-diagram-design]] [[posthog-posthog]]
+[[trycua-cua]] [[citrolabs-ego-lite]] [[posthog-posthog]] [[unslothai-unsloth]] [[lightningpixel-modly]]
 
 **所属领域**: [[web]] [[image-gen]]
 

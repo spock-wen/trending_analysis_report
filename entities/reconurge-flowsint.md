@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[uber-adr]] [[chaitanyagiri-munder-difflin]] [[affaan-m-ecc]] [[mukul975-anthropic-cybersecurity-skills]]
+[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[security]]
 

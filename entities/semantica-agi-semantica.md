@@ -38,7 +38,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[ruvnet-ruview]] [[obra-superpowers]] [[posthog-posthog]] [[ryancodrai-turbovec]]
+[[volcengine-openviking]] [[ruvnet-ruflo]] [[posthog-posthog]] [[tencent-ai-infra-guard]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[ryancodrai-turbovec]] [[santifer-career-ops]] [[mattpocock-skills]]
+[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[santifer-career-ops]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

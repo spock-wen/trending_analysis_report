@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[posthog-posthog]]
+[[cursor-plugins]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[n8n-io-n8n]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

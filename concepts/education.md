@@ -1,7 +1,7 @@
 ---
 title: "education"
 created: 2026-05-22
-updated: 2026-08-22
+updated: 2026-08-23
 type: concept
 tags: [education]
 confidence: medium
@@ -9,7 +9,7 @@ confidence: medium
 
 # education
 
-## 领域项目（共 21 个，今日上榜 1 个）
+## 领域项目（共 21 个，今日上榜 0 个）
 
 [[ruvnet-ruflo]] [[kepano-obsidian-skills]] [[huggingface-transformers]] [[practical-tutorials-project-based-learning]] [[donnemartin-system-design-primer]] [[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]] [[paperswithbacktest-awesome-systematic-trading]] [[rohitg00-ai-engineering-from-scratch]] [[microsoft-ontology-playground]] [[pkuflyingpig-cs-self-learning]] [[byoungd-english-level-up-tips]] [[owainlewis-awesome-artificial-intelligence]] [[freecodecamp-freecodecamp]] [[mikeroyal-self-hosting-guide]] [[stefan-jansen-machine-learning-for-trading]] [[jamwithai-production-agentic-rag-course]] [[datatalksclub-data-engineering-zoomcamp]] [[lum1104-understand-anything]] [[microsoft-ai-agents-for-beginners]] [[nirdiamant-agents-towards-production]]
 
@@ -19,5 +19,5 @@ Python 6个, Jupyter Notebook 6个, TypeScript 4个, ? 3个, HTML 1个, Dockerfi
 
 ## 趋势观察
 
-21 个 education 领域项目被追踪，其中 1 个今日同时上榜，反映该领域持续活跃。
+21 个 education 领域项目被追踪，其中 0 个今日同时上榜，反映该领域持续活跃。
 

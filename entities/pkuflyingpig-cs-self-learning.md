@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[trycua-cua]] [[citrolabs-ego-lite]] [[posthog-posthog]] [[practical-tutorials-project-based-learning]]
+[[huggingface-transformers]] [[kepano-obsidian-skills]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[education]]
 

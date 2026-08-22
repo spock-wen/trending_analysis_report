@@ -39,7 +39,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[tryghost-ghost]] [[makeplane-plane]] [[harry0703-moneyprinterturbo]] [[tooljet-tooljet]] [[affaan-m-ecc]]
+[[anthropics-claude-code]] [[mattpocock-skills]] [[multica-ai-andrej-karpathy-skills]] [[obra-superpowers]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

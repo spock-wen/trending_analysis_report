@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[volcengine-openviking]] [[posthog-posthog]] [[harry0703-moneyprinterturbo]] [[protocolbuffers-protobuf]] [[elder-plinius-obliteratus]]
+[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[posthog-posthog]] [[protocolbuffers-protobuf]] [[volcengine-openviking]]
 
 **所属领域**: [[data]]
 

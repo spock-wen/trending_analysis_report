@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[santifer-career-ops]] [[makeplane-plane]] [[agent-substrate-substrate]] [[infiniflow-ragflow]]
+[[agent-substrate-substrate]] [[wei-shaw-sub2api]] [[mattpocock-skills]] [[anthropics-claude-code]] [[microsoft-typescript]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

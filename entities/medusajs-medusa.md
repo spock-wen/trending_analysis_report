@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[hugohe3-ppt-master]]
+[[cursor-plugins]] [[n8n-io-n8n]] [[obra-superpowers]] [[tooljet-tooljet]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[erp]]
 

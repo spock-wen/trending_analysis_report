@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[posthog-posthog]] [[hkuds-cli-anything]] [[altic-dev-fluidvoice]] [[ryancodrai-turbovec]]
+[[openai-codex]] [[aprilnea-openlogi]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[web]]
 

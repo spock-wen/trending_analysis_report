@@ -35,5 +35,5 @@ Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 
 ## 相关项目
 
-[[ryancodrai-turbovec]] [[amadeusprotocol-node]] [[akitaonrails-ai-memory]] [[aprilnea-openlogi]]
+[[openai-codex]] [[akitaonrails-ai-memory]] [[aprilnea-openlogi]] [[ryancodrai-turbovec]]
 

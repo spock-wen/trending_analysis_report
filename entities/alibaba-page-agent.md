@@ -36,7 +36,7 @@ JavaScript in-page GUI agent. Control web interfaces with natural language.
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[posthog-posthog]]
+[[cursor-plugins]] [[mattpocock-skills]] [[n8n-io-n8n]] [[posthog-posthog]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

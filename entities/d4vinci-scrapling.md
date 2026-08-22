@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[volcengine-openviking]] [[citrolabs-ego-lite]] [[posthog-posthog]] [[hkuds-cli-anything]] [[harry0703-moneyprinterturbo]]
+[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

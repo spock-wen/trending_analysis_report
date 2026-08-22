@@ -36,7 +36,7 @@ Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG 
 
 ## 相关项目
 
-[[posthog-posthog]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]] [[protocolbuffers-protobuf]] [[elder-plinius-obliteratus]]
+[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[mattpocock-skills]] [[posthog-posthog]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

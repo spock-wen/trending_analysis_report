@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[volcengine-openviking]] [[hugohe3-ppt-master]] [[santifer-career-ops]] [[posthog-posthog]] [[makeplane-plane]]
+[[hugohe3-ppt-master]] [[tencent-ai-infra-guard]] [[lightricks-ltx-2]] [[anthropics-claude-code]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]] [[audio]]
 

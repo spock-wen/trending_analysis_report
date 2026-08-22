@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[trycua-cua]] [[citrolabs-ego-lite]] [[posthog-posthog]] [[hkuds-cli-anything]] [[hasaneyldrm-exercises-dataset]]
+[[mattpocock-skills]] [[paperclipai-paperclip]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

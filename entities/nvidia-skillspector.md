@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[volcengine-openviking]] [[posthog-posthog]] [[mukul975-anthropic-cybersecurity-skills]] [[uber-adr]] [[harry0703-moneyprinterturbo]]
+[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[mattpocock-skills]] [[posthog-posthog]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

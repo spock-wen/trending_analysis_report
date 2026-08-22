@@ -34,7 +34,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[obra-superpowers]] [[volcengine-openviking]] [[ruvnet-ruflo]] [[posthog-posthog]]
+[[anthropics-claude-code]] [[mattpocock-skills]] [[volcengine-openviking]] [[obra-superpowers]] [[makeplane-plane]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

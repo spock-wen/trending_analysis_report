@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[volcengine-openviking]] [[trycua-cua]] [[citrolabs-ego-lite]] [[posthog-posthog]] [[hkuds-cli-anything]]
+[[mattpocock-skills]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[trycua-cua]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

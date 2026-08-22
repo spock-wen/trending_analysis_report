@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[posthog-posthog]] [[semantica-agi-semantica]] [[ryancodrai-turbovec]] [[tencent-ai-infra-guard]]
+[[openai-codex]] [[tencent-ai-infra-guard]] [[aprilnea-openlogi]] [[posthog-posthog]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[devops]]
 

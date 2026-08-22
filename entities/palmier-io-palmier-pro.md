@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[permissionlesstech-bitchat]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]] [[jaywcjlove-awesome-mac]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[jaywcjlove-awesome-mac]] [[multica-ai-andrej-karpathy-skills]] [[obra-superpowers]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]]
 

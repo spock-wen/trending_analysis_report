@@ -35,7 +35,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[volcengine-openviking]] [[posthog-posthog]] [[unslothai-unsloth]] [[lightningpixel-modly]] [[infiniflow-ragflow]]
+[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[posthog-posthog]] [[lightningpixel-modly]] [[tooljet-tooljet]]
 
 **所属领域**: [[image-gen]]
 

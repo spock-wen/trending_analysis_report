@@ -37,5 +37,5 @@ IP addresses break, dial keys instead. Modular networking stack in Rust.
 
 ## 相关项目
 
-[[ryancodrai-turbovec]] [[amadeusprotocol-node]] [[akitaonrails-ai-memory]] [[aprilnea-openlogi]]
+[[openai-codex]] [[akitaonrails-ai-memory]] [[aprilnea-openlogi]] [[ryancodrai-turbovec]]
 

@@ -38,7 +38,7 @@ Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[harry0703-moneyprinterturbo]]
+[[cursor-plugins]] [[mattpocock-skills]] [[n8n-io-n8n]] [[multica-ai-andrej-karpathy-skills]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

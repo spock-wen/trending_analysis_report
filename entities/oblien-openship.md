@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[posthog-posthog]]
+[[cursor-plugins]] [[tencent-ai-infra-guard]] [[n8n-io-n8n]] [[posthog-posthog]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[devops]]
 

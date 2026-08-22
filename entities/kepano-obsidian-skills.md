@@ -34,7 +34,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[practical-tutorials-project-based-learning]] [[makeplane-plane]] [[huggingface-transformers]] [[obra-superpowers]]
+[[practical-tutorials-project-based-learning]] [[huggingface-transformers]] [[anthropics-claude-code]] [[mattpocock-skills]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

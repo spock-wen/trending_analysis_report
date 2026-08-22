@@ -38,7 +38,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[apache-cassandra]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]] [[jenkinsci-jenkins]] [[mattpocock-skills]]
+[[jenkinsci-jenkins]] [[mattpocock-skills]] [[apache-cassandra]] [[multica-ai-andrej-karpathy-skills]] [[google-guava]]
 
 **所属领域**: [[ai-agent]]
 

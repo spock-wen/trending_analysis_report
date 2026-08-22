@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[volcengine-openviking]] [[posthog-posthog]] [[unslothai-unsloth]] [[lightningpixel-modly]] [[infiniflow-ragflow]]
+[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

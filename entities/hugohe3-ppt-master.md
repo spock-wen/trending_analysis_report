@@ -35,7 +35,7 @@ AI turns documents or topics into real, native PowerPoint decks—with native sh
 
 ## 相关项目
 
-[[volcengine-openviking]] [[posthog-posthog]] [[huggingface-transformers]] [[lightricks-ltx-2]] [[altic-dev-fluidvoice]]
+[[tencent-ai-infra-guard]] [[lightricks-ltx-2]] [[huggingface-transformers]] [[anthropics-claude-code]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[data]] [[erp]] [[audio]]
 

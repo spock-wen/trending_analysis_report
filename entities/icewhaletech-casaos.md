@@ -36,5 +36,5 @@ CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[agent-substrate-substrate]] [[microsoft-typescript]] [[infiniflow-ragflow]]
+[[wei-shaw-sub2api]] [[agent-substrate-substrate]] [[microsoft-typescript]] [[juliusbrussee-caveman]]
 

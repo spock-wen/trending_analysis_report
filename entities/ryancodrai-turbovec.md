@@ -38,7 +38,7 @@ A vector index built on TurboQuant, written in Rust with Python bindings
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[affaan-m-ecc]] [[aprilnea-openlogi]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]]
+[[openai-codex]] [[aprilnea-openlogi]] [[mattpocock-skills]] [[multica-ai-andrej-karpathy-skills]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]]
 

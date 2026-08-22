@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[paperclipai-paperclip]]
+[[cursor-plugins]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[n8n-io-n8n]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

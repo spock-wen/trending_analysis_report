@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[volcengine-openviking]] [[santifer-career-ops]] [[posthog-posthog]] [[makeplane-plane]] [[harry0703-moneyprinterturbo]]
+[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[mattpocock-skills]] [[posthog-posthog]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

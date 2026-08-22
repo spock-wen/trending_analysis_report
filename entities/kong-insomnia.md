@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[posthog-posthog]]
+[[cursor-plugins]] [[anthropics-claude-code]] [[mattpocock-skills]] [[n8n-io-n8n]] [[posthog-posthog]]
 
 **所属领域**: [[web]] [[cli]]
 

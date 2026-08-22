@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[makeplane-plane]] [[obra-superpowers]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]] [[mattpocock-skills]]
+[[anthropics-claude-code]] [[mattpocock-skills]] [[multica-ai-andrej-karpathy-skills]] [[obra-superpowers]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

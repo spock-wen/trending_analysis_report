@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[tryghost-ghost]] [[affaan-m-ecc]] [[santifer-career-ops]]
+[[affaan-m-ecc]] [[tryghost-ghost]] [[tooljet-tooljet]] [[santifer-career-ops]]
 

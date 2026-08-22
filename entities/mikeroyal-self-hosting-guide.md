@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[citrolabs-ego-lite]] [[practical-tutorials-project-based-learning]] [[posthog-posthog]] [[huggingface-transformers]]
+[[practical-tutorials-project-based-learning]] [[huggingface-transformers]] [[mattpocock-skills]] [[kepano-obsidian-skills]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

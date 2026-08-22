@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[santifer-career-ops]] [[posthog-posthog]] [[makeplane-plane]] [[hkuds-cli-anything]]
+[[anthropics-claude-code]] [[mattpocock-skills]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[cli]]
 

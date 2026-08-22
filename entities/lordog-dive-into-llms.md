@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]]
+[[mattpocock-skills]] [[microsoft-generative-ai-for-beginners]] [[multica-ai-andrej-karpathy-skills]] [[anthropics-claude-cookbooks]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

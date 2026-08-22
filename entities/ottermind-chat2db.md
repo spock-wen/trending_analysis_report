@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[volcengine-openviking]] [[santifer-career-ops]] [[apache-cassandra]] [[makeplane-plane]] [[google-guava]]
+[[jenkinsci-jenkins]] [[mattpocock-skills]] [[apache-cassandra]] [[anthropics-claude-code]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

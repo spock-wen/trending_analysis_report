@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[santifer-career-ops]] [[posthog-posthog]] [[makeplane-plane]] [[hkuds-cli-anything]]
+[[anthropics-claude-code]] [[mattpocock-skills]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -35,7 +35,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[volcengine-openviking]] [[citrolabs-ego-lite]] [[hugohe3-ppt-master]] [[posthog-posthog]] [[hkuds-cli-anything]]
+[[hugohe3-ppt-master]] [[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[posthog-posthog]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

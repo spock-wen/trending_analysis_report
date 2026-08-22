@@ -37,5 +37,5 @@ Meshery, the cloud native manager
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]]
+[[cursor-plugins]] [[ruvnet-ruflo]] [[n8n-io-n8n]] [[makeplane-plane]]
 

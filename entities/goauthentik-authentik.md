@@ -37,5 +37,5 @@ The authentication glue you need.
 
 ## 相关项目
 
-[[volcengine-openviking]] [[harry0703-moneyprinterturbo]] [[posthog-posthog]] [[elder-plinius-obliteratus]]
+[[anthropics-claude-code]] [[tencent-ai-infra-guard]] [[posthog-posthog]] [[harry0703-moneyprinterturbo]]
 

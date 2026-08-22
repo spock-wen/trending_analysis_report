@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[volcengine-openviking]] [[santifer-career-ops]] [[posthog-posthog]] [[makeplane-plane]] [[uber-adr]]
+[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[mattpocock-skills]] [[zhaoxuya520-reverse-skill]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

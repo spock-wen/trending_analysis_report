@@ -34,7 +34,7 @@ The easiest, most secure way to use WireGuard and 2FA.
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[agent-substrate-substrate]] [[infiniflow-ragflow]] [[microsoft-typescript]] [[harry0703-moneyprinterturbo]]
+[[agent-substrate-substrate]] [[wei-shaw-sub2api]] [[mattpocock-skills]] [[microsoft-typescript]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]]
 

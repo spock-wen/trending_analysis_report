@@ -36,7 +36,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 ## 相关项目
 
-[[volcengine-openviking]] [[tryghost-ghost]] [[santifer-career-ops]] [[posthog-posthog]] [[harry0703-moneyprinterturbo]]
+[[mattpocock-skills]] [[posthog-posthog]] [[multica-ai-andrej-karpathy-skills]] [[protocolbuffers-protobuf]] [[volcengine-openviking]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

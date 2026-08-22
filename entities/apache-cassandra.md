@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[volcengine-openviking]] [[ruvnet-ruflo]] [[posthog-posthog]] [[google-guava]] [[semantica-agi-semantica]]
+[[tencent-ai-infra-guard]] [[jenkinsci-jenkins]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[data]] [[devops]]
 

@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[volcengine-openviking]] [[posthog-posthog]] [[unslothai-unsloth]] [[lightningpixel-modly]] [[infiniflow-ragflow]]
+[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[mattpocock-skills]] [[posthog-posthog]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

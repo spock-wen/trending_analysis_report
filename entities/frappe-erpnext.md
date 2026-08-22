@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[volcengine-openviking]] [[hugohe3-ppt-master]] [[posthog-posthog]] [[harry0703-moneyprinterturbo]] [[genlayerlabs-genlayer-project-boilerplate]]
+[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[posthog-posthog]] [[obra-superpowers]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[erp]]
 

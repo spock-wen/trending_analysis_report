@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[volcengine-openviking]] [[posthog-posthog]] [[unslothai-unsloth]] [[lightningpixel-modly]] [[infiniflow-ragflow]]
+[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[posthog-posthog]] [[lightningpixel-modly]] [[tooljet-tooljet]]
 
 **所属领域**: [[image-gen]]
 

@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[volcengine-openviking]] [[hugohe3-ppt-master]] [[santifer-career-ops]] [[posthog-posthog]] [[makeplane-plane]]
+[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[harbourmasters-lighthouse]] [[volcengine-openviking]] [[posthog-posthog]] [[antirez-ds4]] [[opa334-dopamine]]
+[[opa334-dopamine]] [[mattpocock-skills]] [[affaan-m-ecc]] [[antirez-ds4]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

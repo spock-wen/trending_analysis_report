@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-08-22 | 总页面：502
+> 最后更新：2026-08-23 | 总页面：505
 
 ## Entities
 
@@ -15,7 +15,7 @@
 - [[actions-checkout|checkout"]] — Action for checking out a repo
 - [[activeloopai-hivemind|hivemind"]] — One brain for all your agents
 - [[addyosmani-agent-skills|agent-skills"]] — Production-grade engineering skills for AI coding agents. 🔥
-- [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i...
+- [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i... 🆕
 - [[agalwood-motrix|Motrix"]] — A full-featured download manager. 🆕
 - [[agavra-tuicr|tuicr"]] — a code review TUI with vim keybindings 🆕
 - [[agegr-pi-web|pi-web"]] — Web UI for the pi coding agent 🔥
@@ -55,11 +55,11 @@
 - [[antirez-ds4|ds4"]] — DeepSeek 4 Flash and PRO local inference engine for Metal, C... 🆕
 - [[antoinezambelli-forge|forge"]] — A Python framework for self-hosted LLM tool-calling and mult...
 - [[apache-cassandra|cassandra"]] — Open source transactional distributed database. Linear scala...
-- [[apache-maka|maka"]] — Apache Maka (Incubating) is a local-first AI agent workspace... 🆕
+- [[apache-maka|maka"]] — Apache Maka (Incubating) is a local-first AI agent workspace...
 - [[apache-maven|maven"]] — Apache Maven core
 - [[apache-ossie|ossie"]] — Apache Ossie, industry wide specification effort to standard...
 - [[apple-container|container"]] — A tool for creating and running Linux containers using light... 🆕
-- [[aprilnea-openlogi|OpenLogi"]] — ⚡️A native, local-first alternative to Logitech Options+, wr... 🆕
+- [[aprilnea-openlogi|OpenLogi"]] — ⚡️A native, local-first alternative to Logitech Options+, wr... 🔥
 - [[aquasecurity-trivy|trivy"]] — Find vulnerabilities, misconfigurations, secrets, SBOM in co... 🔥
 - [[argoproj-argo-cd|argo-cd"]] — Declarative Continuous Deployment for Kubernetes
 - [[astrbotdevs-astrbot|AstrBot"]] — AI Agent Assistant & development framework that integrates l... 🔥
@@ -116,7 +116,7 @@
 - [[crosstalk-solutions-project-nomad|project-nomad"]] — Project N.O.M.A.D, is a self-contained, offline survival com...
 - [[crynta-terax-ai|terax-ai"]] — Lightweight (7MB) Terminal-first AI-native dev workspace
 - [[cupy-cupy|cupy"]] — NumPy & SciPy for GPU 🆕
-- [[cursor-plugins|plugins"]] — Cursor plugin specification and official plugins 🆕
+- [[cursor-plugins|plugins"]] — Cursor plugin specification and official plugins 🔥
 - [[cypress-io-cypress|cypress"]] — Fast, easy and reliable testing for anything that runs in a ...
 - [[czlonkowski-n8n-mcp|n8n-mcp"]] — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor t... 🆕
 - [[d4vinci-scrapling|Scrapling"]] — 🕷️ An adaptive Web Scraping framework that handles everythin... 🔥
@@ -147,7 +147,7 @@
 - [[earthtojake-text-to-cad|text-to-cad"]] — A collection of agent skills for CAD, robotics and hardware ...
 - [[elastic-elasticsearch|elasticsearch"]] — Free and Open Source, Distributed, RESTful Search Engine
 - [[elder-plinius-g0dm0d3|G0DM0D3"]] — LIBERATED AI CHAT
-- [[elder-plinius-obliteratus|OBLITERATUS"]] — OBLITERATE THE CHAINS THAT BIND YOU 🆕
+- [[elder-plinius-obliteratus|OBLITERATUS"]] — OBLITERATE THE CHAINS THAT BIND YOU
 - [[embabel-embabel-agent|embabel-agent"]] — Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbə...
 - [[emmabostian-developer-portfolios|developer-portfolios"]] — A list of developer portfolios for your inspiration
 - [[esengine-deepseek-reasonix|DeepSeek-Reasonix"]] — DeepSeek-native AI coding agent for your terminal. Engineere... 🔥
@@ -277,7 +277,7 @@
 - [[macro-inc-macro|macro"]] — Macro is a unified workspace for teams: email, chat, docs, t... 🔥
 - [[maderix-ane|ANE"]] — Training neural networks on Apple Neural Engine via reverse-...
 - [[madslorentzen-ai-job-search|ai-job-search"]] — AI-powered job application framework built on Claude Code. F...
-- [[mahlernim-google-timeline-visualizer|google-timeline-visualizer"]] — Visualize your year in travel using your Google Location His... 🆕
+- [[mahlernim-google-timeline-visualizer|google-timeline-visualizer"]] — Visualize your year in travel using your Google Location His... 🔥
 - [[makazhanalpamys-soup|Soup"]] — Fine-tune LLMs from one YAML. Layer streaming trains an 8B m...
 - [[makeplane-plane|plane"]] — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternativ...
 - [[malisper-pgrust|pgrust"]] — Postgres rewritten in Rust, now passing 100% of the Postgres... 🆕
@@ -298,26 +298,27 @@
 - [[microsoft-ai-for-beginners|AI-For-Beginners"]] — 12 Weeks, 24 Lessons, AI for All! 🔥
 - [[microsoft-generative-ai-for-beginners|generative-ai-for-beginners"]] — 21 Lessons, Get Started Building with Generative AI 🔥
 - [[microsoft-markitdown|markitdown"]] — Python tool for converting files and office documents to Mar... 🔥
-- [[microsoft-onnxruntime|onnxruntime"]] — ONNX Runtime: cross-platform, high performance ML inferencin... 🆕
+- [[microsoft-onnxruntime|onnxruntime"]] — ONNX Runtime: cross-platform, high performance ML inferencin...
 - [[microsoft-ontology-playground|Ontology-Playground"]] — Free, open-source web app for learning about ontologies and ... 🆕
 - [[microsoft-powertoys|PowerToys"]] — Microsoft PowerToys is a collection of utilities that superc...
 - [[microsoft-terminal|terminal"]] — The new Windows Terminal and the original Windows console ho...
-- [[microsoft-typescript|TypeScript"]] — TypeScript is a superset of JavaScript that compiles to clea...
+- [[microsoft-typescript|TypeScript"]] — TypeScript is a superset of JavaScript that compiles to clea... 🆕
 - [[microsoft-vibevoice|VibeVoice"]] — Open-Source Frontier Voice AI
 - [[mikeroyal-self-hosting-guide|Self-Hosting-Guide"]] — Self-Hosting Guide. Learn all about locally hosting (on prem...
 - [[mikumifa-bilitickerbuy|biliTickerBuy"]] — b站会员购购票辅助工具
-- [[modular-modular|modular"]] — The Modular Platform (includes MAX & Mojo) 🆕
+- [[modular-modular|modular"]] — The Modular Platform (includes MAX & Mojo) 🔥
 - [[moeru-ai-airi|airi"]] — 💖🧸 Self hosted, you-owned Grok Companion, a container of sou... 🔥
 - [[moonshine-ai-moonshine|moonshine"]] — Very low latency speech to text, intent recognition, and tex...
 - [[moonshotai-flashkda|FlashKDA"]] — FlashKDA: high-performance Kimi Delta Attention kernels
 - [[moonshotai-kimi-cli|kimi-cli"]] — Kimi Code CLI is your next CLI agent. 🔥
 - [[msitarzewski-agency-agents|agency-agents"]] — A complete AI agency at your fingertips - From frontend wiza... 🔥
 - [[mukul975-anthropic-cybersecurity-skills|Anthropic-Cybersecurity-Skills"]] — 817 structured cybersecurity skills for AI agents · Mapped t... 🔥
-- [[multica-ai-andrej-karpathy-skills|andrej-karpathy-skills"]] — A single CLAUDE.md file to improve Claude Code behavior, der... 🔥
+- [[multica-ai-andrej-karpathy-skills|andrej-karpathy-skills"]] — A single CLAUDE.md file to improve Claude Code behavior, der...
 - [[multica-ai-multica|multica"]] — The open-source managed agents platform. Turn coding agents ... 🆕
 - [[music-assistant-server|server"]] — Music Assistant is a free, opensource Media library manager ... 🔥
 - [[mvanhorn-last30days-skill|last30days-skill"]] — AI agent skill that researches any topic across Reddit, X, Y...
 - [[n0-computer-iroh|iroh"]] — IP addresses break, dial keys instead. Modular networking st... 🔥
+- [[n8n-io-n8n|n8n"]] — Fair-code workflow automation platform with native AI capabi... 🆕
 - [[nanmicoder-mediacrawler|MediaCrawler"]] — 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬...
 - [[nasa-fprime|fprime"]] — F´ - A flight software and embedded systems framework
 - [[nesquena-hermes-webui|hermes-webui"]] — Hermes WebUI: The best way to use Hermes Agent from the web ... 🔥
@@ -342,6 +343,7 @@
 - [[open-dev-society-openstock|OpenStock"]] — OpenStock is an open-source alternative to expensive market ...
 - [[open-llm-vtuber-open-llm-vtuber|Open-LLM-VTuber"]] — Talk to any LLM with hands-free voice interaction, voice int... 🔥
 - [[openai-codex-plugin-cc|codex-plugin-cc"]] — Use Codex from Claude Code to review code or delegate tasks. 🔥
+- [[openai-codex|codex"]] — Lightweight coding agent that runs in your terminal 🆕
 - [[openai-plugins|plugins"]] — OpenAI Plugins
 - [[openbmb-voxcpm|VoxCPM"]] — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generati...
 - [[openclaw-openclaw-windows-node|openclaw-windows-node"]] — Windows companion suite for OpenClaw - System Tray app, Shar... 🆕
@@ -374,7 +376,7 @@
 - [[pingdotgg-t3code|t3code"]] — No description 🆕
 - [[pkuflyingpig-cs-self-learning|cs-self-learning"]] — 计算机自学指南
 - [[plausible-analytics|analytics"]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
-- [[posthog-posthog|posthog"]] — 🦔 PostHog is the leading platform for building self-driving ... 🆕
+- [[posthog-posthog|posthog"]] — 🦔 PostHog is the leading platform for building self-driving ... 🔥
 - [[pppscn-smsforwarder|SmsForwarder"]] — 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内...
 - [[practical-tutorials-project-based-learning|project-based-learning"]] — Curated list of project-based tutorials
 - [[pranshuparmar-witr|witr"]] — Why is this running? Trace any process, port, container, or ...
@@ -394,7 +396,7 @@
 - [[refactoringhq-tolaria|tolaria"]] — Desktop app to manage markdown knowledge bases
 - [[restic-restic|restic"]] — Fast, secure, efficient backup program
 - [[revfactory-harness|harness"]] — A meta-skill that designs domain-specific agent teams, defin... 🆕
-- [[ripienaar-free-for-dev|free-for-dev"]] — A list of SaaS, PaaS and IaaS offerings that have free tiers... 🔥
+- [[ripienaar-free-for-dev|free-for-dev"]] — A list of SaaS, PaaS and IaaS offerings that have free tiers...
 - [[rmyndharis-openwa|OpenWA"]] — Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [[robbyant-lingbot-map|lingbot-map"]] — A feed-forward 3D foundation model for reconstructing scenes...
 - [[roboflow-supervision|supervision"]] — We write your reusable computer vision tools. 💜
@@ -404,7 +406,7 @@
 - [[rtk-ai-rtk|rtk"]] — CLI proxy that reduces LLM token consumption by 60-90% on co...
 - [[run-llama-liteparse|liteparse"]] — A fast, helpful, and open-source document parser 🆕
 - [[rustdesk-rustdesk|rustdesk"]] — An open-source remote desktop application designed for self-...
-- [[ruvnet-ruflo|ruflo"]] — 🌊 The original agent meta-harness. Deploy intelligent multi-... 🆕
+- [[ruvnet-ruflo|ruflo"]] — 🌊 The original agent meta-harness. Deploy intelligent multi-...
 - [[ruvnet-ruview|RuView"]] — π RuView turns commodity WiFi signals into real-time spatial...
 - [[ryancodrai-turbovec|turbovec"]] — A vector index built on TurboQuant, written in Rust with Pyt...
 - [[ryanmcdermott-clean-code-javascript|clean-code-javascript"]] — Clean Code concepts adapted for JavaScript
@@ -472,6 +474,7 @@
 - [[vudovn-ag-kit|ag-kit"]] — No description
 - [[vxcontrol-pentagi|pentagi"]] — Fully autonomous AI Agents system capable of performing comp...
 - [[webpack-webpack|webpack"]] — A bundler for javascript and friends. Packs many modules int...
+- [[wei-shaw-sub2api|sub2api"]] — Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，... 🆕
 - [[whiskeysockets-baileys|Baileys"]] — Socket-based TS/JavaScript API for WhatsApp Web
 - [[withastro-flue|flue"]] — The sandbox agent framework. 🔥
 - [[wonderwhy-er-desktopcommandermcp|DesktopCommanderMCP"]] — This is MCP server for Claude that gives it terminal control... 🔥

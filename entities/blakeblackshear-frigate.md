@@ -35,5 +35,5 @@ NVR with realtime local object detection for IP cameras
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]]
+[[cursor-plugins]] [[ruvnet-ruflo]] [[n8n-io-n8n]] [[makeplane-plane]]
 

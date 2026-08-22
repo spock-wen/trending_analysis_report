@@ -35,7 +35,7 @@ ADR secures enterprise AI agents through observability, security benchmarking, a
 
 ## 相关项目
 
-[[volcengine-openviking]] [[ruvnet-ruflo]] [[hugohe3-ppt-master]] [[posthog-posthog]] [[semantica-agi-semantica]]
+[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[mattpocock-skills]] [[posthog-posthog]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[security]] [[erp]]
 

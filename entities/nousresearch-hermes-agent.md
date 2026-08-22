@@ -38,7 +38,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[volcengine-openviking]] [[posthog-posthog]] [[paperclipai-paperclip]] [[tauricresearch-tradingagents]] [[harry0703-moneyprinterturbo]]
+[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

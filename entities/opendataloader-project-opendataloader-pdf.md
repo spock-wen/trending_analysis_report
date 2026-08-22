@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[volcengine-openviking]] [[apache-cassandra]] [[posthog-posthog]] [[google-guava]] [[harry0703-moneyprinterturbo]]
+[[jenkinsci-jenkins]] [[mattpocock-skills]] [[apache-cassandra]] [[posthog-posthog]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

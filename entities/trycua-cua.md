@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[volcengine-openviking]] [[citrolabs-ego-lite]] [[posthog-posthog]] [[unslothai-unsloth]] [[lightningpixel-modly]]
+[[mattpocock-skills]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

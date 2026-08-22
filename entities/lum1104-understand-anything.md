@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[santifer-career-ops]]
+[[cursor-plugins]] [[practical-tutorials-project-based-learning]] [[huggingface-transformers]] [[anthropics-claude-code]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

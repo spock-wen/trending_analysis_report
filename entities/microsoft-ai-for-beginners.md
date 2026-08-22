@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[practical-tutorials-project-based-learning]] [[huggingface-transformers]] [[kepano-obsidian-skills]] [[microsoft-generative-ai-for-beginners]]
+[[practical-tutorials-project-based-learning]] [[huggingface-transformers]] [[mattpocock-skills]] [[kepano-obsidian-skills]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

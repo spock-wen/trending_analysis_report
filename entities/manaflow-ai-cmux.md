@@ -36,7 +36,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[palmier-io-palmier-pro]] [[santifer-career-ops]] [[makeplane-plane]] [[permissionlesstech-bitchat]] [[harry0703-moneyprinterturbo]]
+[[palmier-io-palmier-pro]] [[anthropics-claude-code]] [[mattpocock-skills]] [[jaywcjlove-awesome-mac]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

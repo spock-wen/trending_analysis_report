@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[santifer-career-ops]] [[posthog-posthog]] [[makeplane-plane]] [[hkuds-cli-anything]]
+[[openai-codex]] [[aprilnea-openlogi]] [[anthropics-claude-code]] [[mattpocock-skills]] [[posthog-posthog]]
 
 **所属领域**: [[web]] [[cli]]
 

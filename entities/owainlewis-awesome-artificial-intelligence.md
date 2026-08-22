@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[practical-tutorials-project-based-learning]] [[huggingface-transformers]] [[kepano-obsidian-skills]] [[paperclipai-paperclip]]
+[[practical-tutorials-project-based-learning]] [[huggingface-transformers]] [[mattpocock-skills]] [[kepano-obsidian-skills]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

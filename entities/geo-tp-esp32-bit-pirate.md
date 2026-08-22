@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[santifer-career-ops]] [[posthog-posthog]] [[makeplane-plane]] [[microsoft-onnxruntime]]
+[[microsoft-onnxruntime]] [[anthropics-claude-code]] [[mattpocock-skills]] [[gabime-spdlog]] [[posthog-posthog]]
 
 **所属领域**: [[web]] [[cli]]
 

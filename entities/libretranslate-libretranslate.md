@@ -34,5 +34,5 @@ Free and Open Source Machine Translation API. Self-hosted, offline capable and e
 
 ## 相关项目
 
-[[volcengine-openviking]] [[harry0703-moneyprinterturbo]] [[posthog-posthog]] [[elder-plinius-obliteratus]]
+[[anthropics-claude-code]] [[tencent-ai-infra-guard]] [[posthog-posthog]] [[harry0703-moneyprinterturbo]]
 

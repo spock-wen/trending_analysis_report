@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[tryghost-ghost]] [[citrolabs-ego-lite]] [[posthog-posthog]] [[unslothai-unsloth]] [[lightningpixel-modly]]
+[[posthog-posthog]] [[ripienaar-free-for-dev]] [[hkuds-cli-anything]] [[santifer-career-ops]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[web]] [[image-gen]]
 

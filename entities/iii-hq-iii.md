@@ -34,5 +34,5 @@ Effortlessly compose, extend, and observe every service in real-time for the fir
 
 ## 相关项目
 
-[[ryancodrai-turbovec]] [[amadeusprotocol-node]] [[akitaonrails-ai-memory]] [[aprilnea-openlogi]]
+[[openai-codex]] [[akitaonrails-ai-memory]] [[aprilnea-openlogi]] [[ryancodrai-turbovec]]
 

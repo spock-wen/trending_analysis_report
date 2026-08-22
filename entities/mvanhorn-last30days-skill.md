@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[volcengine-openviking]] [[citrolabs-ego-lite]] [[posthog-posthog]] [[hkuds-cli-anything]] [[paperclipai-paperclip]]
+[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

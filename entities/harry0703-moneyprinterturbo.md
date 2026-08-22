@@ -39,7 +39,7 @@ contested: true
 
 ## 相关项目
 
-[[volcengine-openviking]] [[posthog-posthog]] [[affaan-m-ecc]] [[elder-plinius-obliteratus]] [[mattpocock-skills]]
+[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[mattpocock-skills]] [[posthog-posthog]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]]
 

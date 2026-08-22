@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[trycua-cua]] [[citrolabs-ego-lite]] [[posthog-posthog]] [[hkuds-cli-anything]] [[hasaneyldrm-exercises-dataset]]
+[[mattpocock-skills]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[trycua-cua]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

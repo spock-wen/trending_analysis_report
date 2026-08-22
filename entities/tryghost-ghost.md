@@ -35,5 +35,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[affaan-m-ecc]] [[santifer-career-ops]]
+[[affaan-m-ecc]] [[tooljet-tooljet]] [[santifer-career-ops]]
 

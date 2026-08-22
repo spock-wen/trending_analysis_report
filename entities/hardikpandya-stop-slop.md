@@ -38,7 +38,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]] [[obra-superpowers]]
+[[affaan-m-ecc]] [[mattpocock-skills]] [[obra-superpowers]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]]
 

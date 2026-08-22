@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[posthog-posthog]]
+[[cursor-plugins]] [[n8n-io-n8n]] [[posthog-posthog]] [[protocolbuffers-protobuf]] [[volcengine-openviking]]
 
 **所属领域**: [[data]] [[image-gen]]
 

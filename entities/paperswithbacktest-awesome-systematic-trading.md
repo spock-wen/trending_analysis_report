@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[volcengine-openviking]] [[ruvnet-ruflo]] [[practical-tutorials-project-based-learning]] [[posthog-posthog]] [[kepano-obsidian-skills]]
+[[tencent-ai-infra-guard]] [[huggingface-transformers]] [[anthropics-claude-code]] [[paperclipai-paperclip]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[education]] [[science]]
 

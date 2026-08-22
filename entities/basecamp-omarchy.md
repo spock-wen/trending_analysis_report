@@ -35,7 +35,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[makeplane-plane]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[mattpocock-skills]] [[santifer-career-ops]]
+[[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[mattpocock-skills]] [[obra-superpowers]] [[makeplane-plane]]
 
 **所属领域**: [[cli]]
 

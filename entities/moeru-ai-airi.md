@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[posthog-posthog]]
+[[cursor-plugins]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[huggingface-transformers]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

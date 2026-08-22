@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[volcengine-openviking]] [[ruvnet-ruflo]] [[practical-tutorials-project-based-learning]] [[posthog-posthog]] [[hugohe3-ppt-master]]
+[[practical-tutorials-project-based-learning]] [[tencent-ai-infra-guard]] [[lightricks-ltx-2]] [[hugohe3-ppt-master]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

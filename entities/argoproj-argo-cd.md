@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[ruvnet-ruflo]] [[posthog-posthog]] [[semantica-agi-semantica]] [[agent-substrate-substrate]]
+[[tencent-ai-infra-guard]] [[agent-substrate-substrate]] [[wei-shaw-sub2api]] [[posthog-posthog]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[devops]]
 

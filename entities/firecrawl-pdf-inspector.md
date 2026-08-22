@@ -37,5 +37,5 @@ Fast Rust library for PDF inspection, classification, and text extraction. Intel
 
 ## 相关项目
 
-[[ryancodrai-turbovec]] [[amadeusprotocol-node]] [[akitaonrails-ai-memory]] [[aprilnea-openlogi]]
+[[openai-codex]] [[akitaonrails-ai-memory]] [[aprilnea-openlogi]] [[ryancodrai-turbovec]]
 

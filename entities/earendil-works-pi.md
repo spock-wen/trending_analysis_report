@@ -35,7 +35,7 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[posthog-posthog]]
+[[cursor-plugins]] [[anthropics-claude-code]] [[mattpocock-skills]] [[n8n-io-n8n]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[posthog-posthog]]
+[[cursor-plugins]] [[tencent-ai-infra-guard]] [[mattpocock-skills]] [[n8n-io-n8n]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

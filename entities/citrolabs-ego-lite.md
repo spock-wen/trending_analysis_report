@@ -38,7 +38,7 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 
 ## 相关项目
 
-[[tryghost-ghost]] [[santifer-career-ops]] [[posthog-posthog]] [[hkuds-cli-anything]] [[harry0703-moneyprinterturbo]]
+[[mattpocock-skills]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[multica-ai-andrej-karpathy-skills]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

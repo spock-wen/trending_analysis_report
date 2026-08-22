@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[apache-maka]] [[cursor-plugins]] [[practical-tutorials-project-based-learning]] [[makeplane-plane]] [[posthog-posthog]]
+[[cursor-plugins]] [[practical-tutorials-project-based-learning]] [[tencent-ai-infra-guard]] [[mattpocock-skills]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

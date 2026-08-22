@@ -35,7 +35,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[volcengine-openviking]] [[ruvnet-ruflo]] [[practical-tutorials-project-based-learning]] [[posthog-posthog]] [[kepano-obsidian-skills]]
+[[tencent-ai-infra-guard]] [[huggingface-transformers]] [[anthropics-claude-code]] [[kepano-obsidian-skills]] [[posthog-posthog]]
 
 **所属领域**: [[education]]
 

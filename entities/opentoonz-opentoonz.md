@@ -34,5 +34,5 @@ OpenToonz - An open-source full-featured 2D animation creation software
 
 ## 相关项目
 
-[[microsoft-onnxruntime]] [[ladybirdbrowser-ladybird]] [[protocolbuffers-protobuf]] [[gabime-spdlog]]
+[[gabime-spdlog]] [[microsoft-onnxruntime]] [[ladybirdbrowser-ladybird]] [[protocolbuffers-protobuf]]
 

@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[volcengine-openviking]] [[posthog-posthog]] [[paperclipai-paperclip]] [[tauricresearch-tradingagents]] [[harry0703-moneyprinterturbo]]
+[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[paperclipai-paperclip]] [[posthog-posthog]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[science]]
 

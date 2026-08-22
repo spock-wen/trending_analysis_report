@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[volcengine-openviking]] [[ruvnet-ruflo]] [[santifer-career-ops]] [[posthog-posthog]] [[makeplane-plane]]
+[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[mattpocock-skills]] [[posthog-posthog]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

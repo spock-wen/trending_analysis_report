@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[santifer-career-ops]] [[makeplane-plane]] [[ryancodrai-turbovec]] [[akitaonrails-ai-memory]] [[aprilnea-openlogi]]
+[[openai-codex]] [[aprilnea-openlogi]] [[anthropics-claude-code]] [[mattpocock-skills]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[cli]]
 

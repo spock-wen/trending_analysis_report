@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[tryghost-ghost]] [[santifer-career-ops]] [[unslothai-unsloth]] [[lightningpixel-modly]] [[infiniflow-ragflow]]
+[[mattpocock-skills]] [[multica-ai-andrej-karpathy-skills]] [[obra-superpowers]] [[santifer-career-ops]] [[lightningpixel-modly]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

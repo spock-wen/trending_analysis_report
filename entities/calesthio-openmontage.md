@@ -38,7 +38,7 @@ World's first open-source, agentic video production system. 12 production pipeli
 
 ## 相关项目
 
-[[volcengine-openviking]] [[posthog-posthog]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]] [[protocolbuffers-protobuf]]
+[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[mattpocock-skills]] [[posthog-posthog]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -35,7 +35,7 @@ Hundreds of models & providers. One command to find what runs on your hardware.
 
 ## 相关项目
 
-[[santifer-career-ops]] [[makeplane-plane]] [[ryancodrai-turbovec]] [[akitaonrails-ai-memory]] [[affaan-m-ecc]]
+[[openai-codex]] [[aprilnea-openlogi]] [[anthropics-claude-code]] [[mattpocock-skills]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

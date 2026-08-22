@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[volcengine-openviking]] [[ruvnet-ruflo]] [[practical-tutorials-project-based-learning]] [[posthog-posthog]] [[huggingface-transformers]]
+[[practical-tutorials-project-based-learning]] [[tencent-ai-infra-guard]] [[huggingface-transformers]] [[anthropics-claude-code]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

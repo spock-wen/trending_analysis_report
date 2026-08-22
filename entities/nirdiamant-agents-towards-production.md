@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[microsoft-ai-for-beginners]] [[practical-tutorials-project-based-learning]] [[posthog-posthog]] [[huggingface-transformers]]
+[[practical-tutorials-project-based-learning]] [[tencent-ai-infra-guard]] [[huggingface-transformers]] [[mattpocock-skills]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

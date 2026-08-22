@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[hugohe3-ppt-master]]
+[[cursor-plugins]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[huggingface-transformers]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

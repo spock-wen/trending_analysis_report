@@ -34,7 +34,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]] [[obra-superpowers]]
+[[affaan-m-ecc]] [[mattpocock-skills]] [[obra-superpowers]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]]
 

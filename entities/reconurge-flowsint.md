@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[mukul975-anthropic-cybersecurity-skills]]
+[[cursor-plugins]] [[n8n-io-n8n]] [[mukul975-anthropic-cybersecurity-skills]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

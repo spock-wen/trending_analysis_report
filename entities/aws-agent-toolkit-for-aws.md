@@ -35,7 +35,7 @@ Official, AWS-supported MCP servers, skills, and plugins to help AI agents build
 
 ## 相关项目
 
-[[volcengine-openviking]] [[posthog-posthog]] [[harry0703-moneyprinterturbo]] [[affaan-m-ecc]] [[elder-plinius-obliteratus]]
+[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[mattpocock-skills]] [[posthog-posthog]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]]
 

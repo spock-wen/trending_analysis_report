@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[citrolabs-ego-lite]] [[santifer-career-ops]] [[posthog-posthog]] [[makeplane-plane]]
+[[agent-substrate-substrate]] [[wei-shaw-sub2api]] [[mattpocock-skills]] [[anthropics-claude-code]] [[posthog-posthog]]
 
 **所属领域**: [[web]] [[cli]]
 

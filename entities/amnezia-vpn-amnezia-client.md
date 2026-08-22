@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[santifer-career-ops]] [[makeplane-plane]] [[microsoft-onnxruntime]] [[gabime-spdlog]] [[mukul975-anthropic-cybersecurity-skills]]
+[[microsoft-onnxruntime]] [[anthropics-claude-code]] [[mattpocock-skills]] [[gabime-spdlog]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[cli]] [[security]]
 

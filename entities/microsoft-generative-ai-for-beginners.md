@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[microsoft-ai-for-beginners]] [[practical-tutorials-project-based-learning]] [[huggingface-transformers]] [[kepano-obsidian-skills]]
+[[practical-tutorials-project-based-learning]] [[huggingface-transformers]] [[mattpocock-skills]] [[kepano-obsidian-skills]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

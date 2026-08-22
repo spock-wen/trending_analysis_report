@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[affaan-m-ecc]] [[mattpocock-skills]] [[penpot-penpot]] [[obra-superpowers]]
+[[mattpocock-skills]] [[multica-ai-andrej-karpathy-skills]] [[obra-superpowers]] [[affaan-m-ecc]] [[penpot-penpot]]
 
 **所属领域**: [[ai-agent]]
 

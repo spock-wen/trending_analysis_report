@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[trycua-cua]] [[citrolabs-ego-lite]] [[posthog-posthog]] [[hkuds-cli-anything]] [[hasaneyldrm-exercises-dataset]]
+[[posthog-posthog]] [[ripienaar-free-for-dev]] [[trycua-cua]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

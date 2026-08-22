@@ -35,5 +35,5 @@ Easily and securely send things from one computer to another 🐊 📦
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[agent-substrate-substrate]] [[microsoft-typescript]] [[infiniflow-ragflow]]
+[[wei-shaw-sub2api]] [[agent-substrate-substrate]] [[microsoft-typescript]] [[juliusbrussee-caveman]]
 

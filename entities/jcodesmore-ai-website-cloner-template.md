@@ -38,7 +38,7 @@ Clone any website with one command using AI coding agents
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[posthog-posthog]]
+[[cursor-plugins]] [[anthropics-claude-code]] [[mattpocock-skills]] [[n8n-io-n8n]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

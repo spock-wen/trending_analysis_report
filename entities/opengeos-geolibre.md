@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[posthog-posthog]]
+[[cursor-plugins]] [[n8n-io-n8n]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[web]] [[data]]
 

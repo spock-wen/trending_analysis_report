@@ -35,7 +35,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[posthog-posthog]] [[microsoft-onnxruntime]] [[hkuds-cli-anything]] [[gabime-spdlog]]
+[[microsoft-onnxruntime]] [[gabime-spdlog]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[web]]
 

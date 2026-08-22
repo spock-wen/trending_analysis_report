@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[tryghost-ghost]] [[santifer-career-ops]] [[harry0703-moneyprinterturbo]] [[tooljet-tooljet]] [[affaan-m-ecc]]
+[[mattpocock-skills]] [[multica-ai-andrej-karpathy-skills]] [[obra-superpowers]] [[santifer-career-ops]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

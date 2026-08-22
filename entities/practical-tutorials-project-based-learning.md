@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[volcengine-openviking]] [[ruvnet-ruflo]] [[posthog-posthog]] [[kepano-obsidian-skills]] [[harry0703-moneyprinterturbo]]
+[[tencent-ai-infra-guard]] [[huggingface-transformers]] [[anthropics-claude-code]] [[kepano-obsidian-skills]] [[posthog-posthog]]
 
 **所属领域**: [[education]]
 

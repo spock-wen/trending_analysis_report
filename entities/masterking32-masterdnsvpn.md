@@ -36,7 +36,7 @@ Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[agent-substrate-substrate]] [[infiniflow-ragflow]] [[mukul975-anthropic-cybersecurity-skills]] [[uber-adr]]
+[[agent-substrate-substrate]] [[wei-shaw-sub2api]] [[mukul975-anthropic-cybersecurity-skills]] [[microsoft-typescript]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[palmier-io-palmier-pro]] [[citrolabs-ego-lite]] [[posthog-posthog]] [[huggingface-transformers]]
+[[palmier-io-palmier-pro]] [[lightricks-ltx-2]] [[mattpocock-skills]] [[posthog-posthog]] [[jaywcjlove-awesome-mac]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

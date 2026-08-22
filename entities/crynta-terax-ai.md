@@ -34,7 +34,7 @@ Lightweight (7MB) Terminal-first AI-native dev workspace
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[cursor-plugins]] [[apache-maka]] [[makeplane-plane]] [[santifer-career-ops]]
+[[cursor-plugins]] [[anthropics-claude-code]] [[mattpocock-skills]] [[n8n-io-n8n]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

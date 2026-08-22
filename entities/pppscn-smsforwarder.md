@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[citrolabs-ego-lite]] [[posthog-posthog]] [[embabel-embabel-agent]] [[bannedbook-fanqiang]] [[hkuds-cli-anything]]
+[[andreknieriem-headunit-revived]] [[bannedbook-fanqiang]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[embabel-embabel-agent]]
 
 **所属领域**: [[web]]
 

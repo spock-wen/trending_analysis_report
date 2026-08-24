@@ -35,7 +35,7 @@ Gas Town - multi-agent workspace manager
 
 ## 相关项目
 
-[[agent-substrate-substrate]] [[wei-shaw-sub2api]] [[mattpocock-skills]] [[microsoft-typescript]] [[multica-ai-andrej-karpathy-skills]]
+[[tinyhumansai-openhuman]] [[agent-substrate-substrate]] [[multica-ai-andrej-karpathy-skills]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

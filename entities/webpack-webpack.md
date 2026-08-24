@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[posthog-posthog]] [[ripienaar-free-for-dev]] [[hkuds-cli-anything]] [[santifer-career-ops]] [[altic-dev-fluidvoice]]
+[[santifer-career-ops]] [[ripienaar-free-for-dev]] [[altic-dev-fluidvoice]] [[freestylefly-awesome-gpt-image-2]] [[tryghost-ghost]]
 
 **所属领域**: [[web]] [[image-gen]]
 

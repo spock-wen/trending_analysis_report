@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[microsoft-onnxruntime]] [[anthropics-claude-code]] [[mattpocock-skills]] [[gabime-spdlog]] [[posthog-posthog]]
+[[ripienaar-free-for-dev]] [[openai-codex]] [[altic-dev-fluidvoice]] [[gabime-spdlog]] [[posthog-posthog]]
 
 **所属领域**: [[web]] [[cli]]
 

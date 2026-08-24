@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[practical-tutorials-project-based-learning]] [[tencent-ai-infra-guard]] [[huggingface-transformers]] [[anthropics-claude-code]] [[mattpocock-skills]]
+[[tinyhumansai-openhuman]] [[rohitg00-ai-engineering-from-scratch]] [[multica-ai-andrej-karpathy-skills]] [[alishahryar1-free-claude-code]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

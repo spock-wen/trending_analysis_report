@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[practical-tutorials-project-based-learning]] [[tencent-ai-infra-guard]] [[lightricks-ltx-2]] [[hugohe3-ppt-master]] [[anthropics-claude-code]]
+[[tinyhumansai-openhuman]] [[lightricks-ltx-2]] [[altic-dev-fluidvoice]] [[rohitg00-ai-engineering-from-scratch]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

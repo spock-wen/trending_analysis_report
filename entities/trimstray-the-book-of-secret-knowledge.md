@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[mattpocock-skills]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[hkuds-cli-anything]]
+[[ripienaar-free-for-dev]] [[openai-codex]] [[altic-dev-fluidvoice]] [[posthog-posthog]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[web]] [[cli]]
 

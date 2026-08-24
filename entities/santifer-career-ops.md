@@ -16,7 +16,6 @@ last_trending: 2026-08-22
 peak_rank: 5
 total_stars: 67418
 language: "JavaScript"
-contested: true
 ---
 
 # santifer/career-ops
@@ -39,17 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[mattpocock-skills]] [[multica-ai-andrej-karpathy-skills]] [[obra-superpowers]] [[affaan-m-ecc]]
+[[tinyhumansai-openhuman]] [[freestylefly-awesome-gpt-image-2]] [[tryghost-ghost]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]]
-
-
-## ⚠️ 描述变更（2026-08-18）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
-- **新描述**: Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

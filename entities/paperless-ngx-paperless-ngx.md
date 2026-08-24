@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[paperclipai-paperclip]] [[posthog-posthog]] [[tauricresearch-tradingagents]]
+[[tinyhumansai-openhuman]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[madslorentzen-ai-job-search]] [[paperclipai-paperclip]]
 
 **所属领域**: [[science]]
 

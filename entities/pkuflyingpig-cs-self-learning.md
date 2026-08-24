@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[huggingface-transformers]] [[kepano-obsidian-skills]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[trycua-cua]]
+[[ripienaar-free-for-dev]] [[altic-dev-fluidvoice]] [[posthog-posthog]] [[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]]
 
 **所属领域**: [[web]] [[education]]
 

@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cursor-plugins]] [[practical-tutorials-project-based-learning]] [[tencent-ai-infra-guard]] [[mattpocock-skills]] [[kepano-obsidian-skills]]
+[[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[tashfeenahmed-freellmapi]] [[posthog-posthog]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

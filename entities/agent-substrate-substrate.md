@@ -34,7 +34,7 @@ Agent Substrate: the core system
 
 ## 相关项目
 
-[[wei-shaw-sub2api]] [[mattpocock-skills]] [[microsoft-typescript]] [[multica-ai-andrej-karpathy-skills]] [[obra-superpowers]]
+[[tinyhumansai-openhuman]] [[microsoft-typescript]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]]
 

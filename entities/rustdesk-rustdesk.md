@@ -34,5 +34,5 @@ An open-source remote desktop application designed for self-hosting, as an alter
 
 ## 相关项目
 
-[[openai-codex]] [[akitaonrails-ai-memory]] [[aprilnea-openlogi]] [[ryancodrai-turbovec]]
+[[tinyhumansai-openhuman]] [[dani-garcia-vaultwarden]] [[aprilnea-openlogi]] [[openai-codex]]
 

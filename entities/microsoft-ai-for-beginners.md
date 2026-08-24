@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[practical-tutorials-project-based-learning]] [[huggingface-transformers]] [[mattpocock-skills]] [[kepano-obsidian-skills]] [[microsoft-generative-ai-for-beginners]]
+[[lyogavin-airllm]] [[tinyhumansai-openhuman]] [[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

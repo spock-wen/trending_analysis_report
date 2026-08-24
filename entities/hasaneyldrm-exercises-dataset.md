@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[trycua-cua]] [[cathrynlavery-diagram-design]]
+[[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[posthog-posthog]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

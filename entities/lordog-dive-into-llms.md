@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[microsoft-generative-ai-for-beginners]] [[multica-ai-andrej-karpathy-skills]] [[anthropics-claude-cookbooks]] [[obra-superpowers]]
+[[lyogavin-airllm]] [[tinyhumansai-openhuman]] [[microsoft-ai-for-beginners]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

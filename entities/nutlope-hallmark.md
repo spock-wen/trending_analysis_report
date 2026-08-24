@@ -38,7 +38,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## 相关项目
 
-[[diolinux-photogimp]] [[mattpocock-skills]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[multica-ai-andrej-karpathy-skills]]
+[[diolinux-photogimp]] [[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

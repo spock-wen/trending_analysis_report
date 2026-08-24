@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[mattpocock-skills]] [[multica-ai-andrej-karpathy-skills]] [[genlayerlabs-genlayer-project-boilerplate]]
+[[tinyhumansai-openhuman]] [[msitarzewski-agency-agents]] [[tooljet-tooljet]] [[rohitg00-ai-engineering-from-scratch]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

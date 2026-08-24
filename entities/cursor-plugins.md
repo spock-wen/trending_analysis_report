@@ -38,5 +38,5 @@ Cursor plugin specification and official plugins
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[n8n-io-n8n]] [[makeplane-plane]]
+[[openclaw-openclaw]] [[makeplane-plane]] [[apache-maka]] [[tashfeenahmed-freellmapi]]
 

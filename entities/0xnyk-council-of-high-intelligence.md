@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[mattpocock-skills]] [[multica-ai-andrej-karpathy-skills]] [[obra-superpowers]]
+[[tinyhumansai-openhuman]] [[obra-superpowers]] [[multica-ai-andrej-karpathy-skills]] [[alishahryar1-free-claude-code]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

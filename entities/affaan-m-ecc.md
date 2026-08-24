@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[mattpocock-skills]] [[paperclipai-paperclip]] [[mukul975-anthropic-cybersecurity-skills]] [[multica-ai-andrej-karpathy-skills]] [[tauricresearch-tradingagents]]
+[[santifer-career-ops]] [[tinyhumansai-openhuman]] [[tashfeenahmed-freellmapi]] [[freestylefly-awesome-gpt-image-2]] [[tryghost-ghost]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

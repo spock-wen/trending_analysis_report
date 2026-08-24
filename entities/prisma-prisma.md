@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[cursor-plugins]] [[n8n-io-n8n]] [[posthog-posthog]] [[protocolbuffers-protobuf]] [[volcengine-openviking]]
+[[tashfeenahmed-freellmapi]] [[freestylefly-awesome-gpt-image-2]] [[posthog-posthog]] [[tooljet-tooljet]] [[infiniflow-ragflow]]
 
 **所属领域**: [[data]] [[image-gen]]
 

@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[openai-codex]] [[aprilnea-openlogi]] [[mattpocock-skills]] [[multica-ai-andrej-karpathy-skills]] [[akitaonrails-ai-memory]]
+[[tinyhumansai-openhuman]] [[tooljet-tooljet]] [[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

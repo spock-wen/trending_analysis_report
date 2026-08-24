@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[agent-substrate-substrate]] [[wei-shaw-sub2api]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[microsoft-typescript]]
+[[ripienaar-free-for-dev]] [[agent-substrate-substrate]] [[altic-dev-fluidvoice]] [[posthog-posthog]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[web]]
 

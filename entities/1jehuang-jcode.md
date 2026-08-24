@@ -38,5 +38,5 @@ The most RAM efficient harness
 
 ## 相关项目
 
-[[openai-codex]] [[akitaonrails-ai-memory]] [[aprilnea-openlogi]] [[ryancodrai-turbovec]]
+[[tinyhumansai-openhuman]] [[dani-garcia-vaultwarden]] [[aprilnea-openlogi]] [[openai-codex]]
 

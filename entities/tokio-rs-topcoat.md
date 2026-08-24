@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[openai-codex]] [[aprilnea-openlogi]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[akitaonrails-ai-memory]]
+[[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[posthog-posthog]] [[aprilnea-openlogi]]
 
 **所属领域**: [[web]]
 

@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[cursor-plugins]] [[practical-tutorials-project-based-learning]] [[huggingface-transformers]] [[anthropics-claude-code]] [[mattpocock-skills]]
+[[openai-codex]] [[tinyhumansai-openhuman]] [[tashfeenahmed-freellmapi]] [[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

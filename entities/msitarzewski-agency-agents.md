@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[mattpocock-skills]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[multica-ai-andrej-karpathy-skills]]
+[[ripienaar-free-for-dev]] [[openai-codex]] [[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

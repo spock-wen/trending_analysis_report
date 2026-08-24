@@ -34,5 +34,5 @@ the full-stack Vue framework
 
 ## 相关项目
 
-[[cursor-plugins]] [[ruvnet-ruflo]] [[n8n-io-n8n]] [[makeplane-plane]]
+[[openclaw-openclaw]] [[makeplane-plane]] [[apache-maka]] [[tashfeenahmed-freellmapi]]
 

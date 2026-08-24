@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[openai-codex]] [[mahlernim-google-timeline-visualizer]] [[aprilnea-openlogi]] [[posthog-posthog]] [[protocolbuffers-protobuf]]
+[[tinyhumansai-openhuman]] [[posthog-posthog]] [[volcengine-openviking]] [[protocolbuffers-protobuf]] [[aprilnea-openlogi]]
 
 **所属领域**: [[data]]
 

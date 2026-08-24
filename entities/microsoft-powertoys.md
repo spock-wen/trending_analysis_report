@@ -38,5 +38,5 @@ Microsoft PowerToys is a collection of utilities that supercharge productivity a
 
 ## 相关项目
 
-[[opa334-dopamine]] [[antirez-ds4]] [[harbourmasters-lighthouse]]
+[[antirez-ds4]] [[harbourmasters-lighthouse]] [[opa334-dopamine]]
 

@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cursor-plugins]] [[tencent-ai-infra-guard]] [[mattpocock-skills]] [[n8n-io-n8n]] [[posthog-posthog]]
+[[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[tashfeenahmed-freellmapi]] [[posthog-posthog]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[mattpocock-skills]] [[posthog-posthog]] [[multica-ai-andrej-karpathy-skills]] [[protocolbuffers-protobuf]] [[volcengine-openviking]]
+[[plausible-analytics]] [[tinyhumansai-openhuman]] [[posthog-posthog]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

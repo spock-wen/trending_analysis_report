@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[cursor-plugins]] [[tencent-ai-infra-guard]] [[n8n-io-n8n]] [[posthog-posthog]] [[ripienaar-free-for-dev]]
+[[ripienaar-free-for-dev]] [[tashfeenahmed-freellmapi]] [[posthog-posthog]] [[ruvnet-ruflo]] [[tencent-ai-infra-guard]]
 
 **所属领域**: [[devops]]
 

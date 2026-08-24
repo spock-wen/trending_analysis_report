@@ -1,44 +1,55 @@
 ---
 title: "tinyhumansai/openhuman"
 created: 2026-05-16
-updated: 2026-05-21
-last_active: 2026-05-21
+updated: 2026-08-25
+last_active: 2026-08-25
 type: tool
-tags: [rust, ai-agent, rising]
-sources: [raw/trending/2026-05-21.json]
+tags: [rust, ai-agent, science]
+sources: [raw/trending/2026-08-25.json]
 confidence: high
-trending_count_daily: 6
+trending_count_daily: 7
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 6
+consecutive_days: 1
 first_trending: 2026-05-16
-last_trending: 2026-05-21
+last_trending: 2026-08-25
 peak_rank: 1
-total_stars: 9679
+total_stars: 37225
 language: "Rust"
+contested: true
 ---
 
 # tinyhumansai/openhuman
 
-Your Personal AI super intelligence. Private, Simple and extremely powerful.
+Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
 
 - 语言: Rust
-- 上榜次数: 6 次
-- 连续上榜: 6 天
+- 上榜次数: 7 次
+- 连续上榜: 1 天
 - 最高排名: #1
 - 链接: [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
 
 ## 上榜历史
 
+  - 2026-08-25: #19, +515⭐
   - 2026-05-21: #3, +3394⭐
   - 2026-05-20: #1, +3973⭐
   - 2026-05-19: #1, +3941⭐
   - 2026-05-18: #1, +1694⭐
-  - 2026-05-17: #1, +1271⭐
 
 ## 相关项目
 
-[[openai-codex]] [[aprilnea-openlogi]] [[mattpocock-skills]] [[multica-ai-andrej-karpathy-skills]] [[akitaonrails-ai-memory]]
+[[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[nousresearch-hermes-agent]] [[aprilnea-openlogi]] [[paperclipai-paperclip]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: [[ai-agent]] [[science]]
+
+
+## ⚠️ 描述变更（2026-08-25）
+
+该项目描述近期发生过重大变化，可能存在定位调整：
+
+- **旧描述**: Your Personal AI super intelligence. Private, Simple and extremely powerful.
+- **新描述**: Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
+
+> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

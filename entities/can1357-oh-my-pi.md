@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cursor-plugins]] [[anthropics-claude-code]] [[mattpocock-skills]] [[n8n-io-n8n]] [[posthog-posthog]]
+[[ripienaar-free-for-dev]] [[openai-codex]] [[tinyhumansai-openhuman]] [[tashfeenahmed-freellmapi]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

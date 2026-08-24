@@ -38,5 +38,5 @@ Desktop app to manage markdown knowledge bases
 
 ## 相关项目
 
-[[cursor-plugins]] [[ruvnet-ruflo]] [[n8n-io-n8n]] [[makeplane-plane]]
+[[openclaw-openclaw]] [[makeplane-plane]] [[apache-maka]] [[tashfeenahmed-freellmapi]]
 

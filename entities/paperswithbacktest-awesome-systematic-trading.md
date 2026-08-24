@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[tencent-ai-infra-guard]] [[huggingface-transformers]] [[anthropics-claude-code]] [[paperclipai-paperclip]] [[kepano-obsidian-skills]]
+[[tinyhumansai-openhuman]] [[ruvnet-ruflo]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[huggingface-transformers]]
 
 **所属领域**: [[education]] [[science]]
 

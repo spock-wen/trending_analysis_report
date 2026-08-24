@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[cursor-plugins]] [[huggingface-transformers]] [[kepano-obsidian-skills]] [[n8n-io-n8n]] [[practical-tutorials-project-based-learning]]
+[[tashfeenahmed-freellmapi]] [[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[huggingface-transformers]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[education]]
 

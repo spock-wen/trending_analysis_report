@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[cursor-plugins]] [[n8n-io-n8n]] [[obra-superpowers]] [[tooljet-tooljet]] [[hugohe3-ppt-master]]
+[[tashfeenahmed-freellmapi]] [[tooljet-tooljet]] [[obra-superpowers]] [[hugohe3-ppt-master]] [[genlayerlabs-genlayer-project-boilerplate]]
 
 **所属领域**: [[erp]]
 

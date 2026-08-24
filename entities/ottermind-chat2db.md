@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[jenkinsci-jenkins]] [[mattpocock-skills]] [[apache-cassandra]] [[anthropics-claude-code]] [[posthog-posthog]]
+[[tinyhumansai-openhuman]] [[makeplane-plane]] [[posthog-posthog]] [[multica-ai-andrej-karpathy-skills]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

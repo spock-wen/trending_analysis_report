@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[cursor-plugins]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[huggingface-transformers]] [[mattpocock-skills]]
+[[tinyhumansai-openhuman]] [[lightricks-ltx-2]] [[tashfeenahmed-freellmapi]] [[altic-dev-fluidvoice]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

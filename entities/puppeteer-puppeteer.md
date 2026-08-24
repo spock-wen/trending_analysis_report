@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[cursor-plugins]] [[n8n-io-n8n]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[hkuds-cli-anything]]
+[[ripienaar-free-for-dev]] [[tashfeenahmed-freellmapi]] [[altic-dev-fluidvoice]] [[posthog-posthog]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

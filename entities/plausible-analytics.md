@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[posthog-posthog]] [[ripienaar-free-for-dev]] [[mukul975-anthropic-cybersecurity-skills]] [[teslamate-org-teslamate]] [[protocolbuffers-protobuf]]
+[[ripienaar-free-for-dev]] [[tashfeenahmed-freellmapi]] [[altic-dev-fluidvoice]] [[posthog-posthog]] [[teslamate-org-teslamate]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

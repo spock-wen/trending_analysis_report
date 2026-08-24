@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[tencent-ai-infra-guard]] [[agent-substrate-substrate]] [[wei-shaw-sub2api]] [[mattpocock-skills]] [[posthog-posthog]]
+[[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[agent-substrate-substrate]] [[posthog-posthog]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

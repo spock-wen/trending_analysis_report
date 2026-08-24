@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[tencent-ai-infra-guard]] [[huggingface-transformers]] [[anthropics-claude-code]] [[kepano-obsidian-skills]] [[posthog-posthog]]
+[[ruvnet-ruflo]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[huggingface-transformers]] [[madslorentzen-ai-job-search]]
 
 **所属领域**: [[education]]
 

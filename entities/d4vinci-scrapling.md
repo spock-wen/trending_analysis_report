@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[hkuds-cli-anything]]
+[[ripienaar-free-for-dev]] [[altic-dev-fluidvoice]] [[posthog-posthog]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[web]]
 

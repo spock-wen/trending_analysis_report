@@ -34,7 +34,7 @@ ONNX Runtime: cross-platform, high performance ML inferencing and training accel
 
 ## 相关项目
 
-[[mattpocock-skills]] [[gabime-spdlog]] [[multica-ai-andrej-karpathy-skills]] [[protocolbuffers-protobuf]] [[obra-superpowers]]
+[[tinyhumansai-openhuman]] [[gabime-spdlog]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[ladybirdbrowser-ladybird]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[mattpocock-skills]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]] [[multica-ai-andrej-karpathy-skills]]
+[[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[freestylefly-awesome-gpt-image-2]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

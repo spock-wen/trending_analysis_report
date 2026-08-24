@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[openai-codex]] [[aprilnea-openlogi]] [[mukul975-anthropic-cybersecurity-skills]] [[akitaonrails-ai-memory]] [[affaan-m-ecc]]
+[[tinyhumansai-openhuman]] [[tashfeenahmed-freellmapi]] [[uber-adr]] [[aprilnea-openlogi]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[security]]
 

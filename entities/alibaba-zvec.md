@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[microsoft-onnxruntime]] [[gabime-spdlog]] [[posthog-posthog]] [[protocolbuffers-protobuf]] [[volcengine-openviking]]
+[[gabime-spdlog]] [[posthog-posthog]] [[microsoft-onnxruntime]] [[ladybirdbrowser-ladybird]] [[volcengine-openviking]]
 
 **所属领域**: [[data]]
 

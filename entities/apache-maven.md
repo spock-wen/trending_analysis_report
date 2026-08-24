@@ -34,5 +34,5 @@ Apache Maven core
 
 ## 相关项目
 
-[[jenkinsci-jenkins]] [[google-guava]] [[apache-cassandra]] [[github-copilot-sdk]]
+[[apache-cassandra]] [[github-copilot-sdk]] [[jenkinsci-jenkins]] [[google-guava]]
 

@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[multica-ai-andrej-karpathy-skills]] [[obra-superpowers]] [[santifer-career-ops]] [[affaan-m-ecc]]
+[[santifer-career-ops]] [[tinyhumansai-openhuman]] [[freestylefly-awesome-gpt-image-2]] [[tryghost-ghost]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]]
 

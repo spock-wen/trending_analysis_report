@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[cursor-plugins]] [[tencent-ai-infra-guard]] [[n8n-io-n8n]] [[posthog-posthog]] [[ripienaar-free-for-dev]]
+[[ripienaar-free-for-dev]] [[tashfeenahmed-freellmapi]] [[posthog-posthog]] [[ruvnet-ruflo]] [[tencent-ai-infra-guard]]
 
 **所属领域**: [[data]] [[devops]]
 

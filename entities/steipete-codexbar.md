@@ -36,7 +36,7 @@ Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 ## 相关项目
 
-[[palmier-io-palmier-pro]] [[mattpocock-skills]] [[jaywcjlove-awesome-mac]] [[multica-ai-andrej-karpathy-skills]] [[obra-superpowers]]
+[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[rohitg00-ai-engineering-from-scratch]] [[jaywcjlove-awesome-mac]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

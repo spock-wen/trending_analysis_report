@@ -35,5 +35,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tryghost-ghost]] [[tooljet-tooljet]] [[santifer-career-ops]]
+[[freestylefly-awesome-gpt-image-2]] [[tryghost-ghost]] [[affaan-m-ecc]] [[santifer-career-ops]]
 

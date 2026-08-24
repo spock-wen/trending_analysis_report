@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cursor-plugins]] [[hugohe3-ppt-master]] [[lightricks-ltx-2]] [[huggingface-transformers]] [[mattpocock-skills]]
+[[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[lightricks-ltx-2]] [[tashfeenahmed-freellmapi]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

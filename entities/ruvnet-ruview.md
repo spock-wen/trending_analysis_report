@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[openai-codex]] [[tencent-ai-infra-guard]] [[aprilnea-openlogi]] [[posthog-posthog]] [[ripienaar-free-for-dev]]
+[[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[posthog-posthog]] [[ruvnet-ruflo]] [[tencent-ai-infra-guard]]
 
 **所属领域**: [[devops]]
 

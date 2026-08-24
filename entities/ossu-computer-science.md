@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[posthog-posthog]] [[ripienaar-free-for-dev]] [[trycua-cua]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]]
+[[ripienaar-free-for-dev]] [[altic-dev-fluidvoice]] [[posthog-posthog]] [[pkuflyingpig-cs-self-learning]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

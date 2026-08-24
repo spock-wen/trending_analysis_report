@@ -37,5 +37,5 @@ High performance self-hosted photo and video management solution.
 
 ## 相关项目
 
-[[cursor-plugins]] [[ruvnet-ruflo]] [[n8n-io-n8n]] [[makeplane-plane]]
+[[openclaw-openclaw]] [[makeplane-plane]] [[apache-maka]] [[tashfeenahmed-freellmapi]]
 

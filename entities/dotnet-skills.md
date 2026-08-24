@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[mattpocock-skills]] [[multica-ai-andrej-karpathy-skills]] [[jellyfin-jellyfin]] [[par274-sharpemu]] [[obra-superpowers]]
+[[jellyfin-jellyfin]] [[tinyhumansai-openhuman]] [[rohitg00-ai-engineering-from-scratch]] [[k1tbyte-wand-enhancer]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

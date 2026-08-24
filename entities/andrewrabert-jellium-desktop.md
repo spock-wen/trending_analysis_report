@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[openai-codex]] [[aprilnea-openlogi]] [[anthropics-claude-code]] [[mattpocock-skills]] [[akitaonrails-ai-memory]]
+[[tinyhumansai-openhuman]] [[alishahryar1-free-claude-code]] [[basecamp-omarchy]] [[aprilnea-openlogi]] [[makeplane-plane]]
 
 **所属领域**: [[cli]]
 

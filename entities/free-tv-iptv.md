@@ -36,5 +36,5 @@ M3U Playlist for free TV channels
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[tencent-ai-infra-guard]] [[posthog-posthog]] [[harry0703-moneyprinterturbo]]
+[[rohitg00-ai-engineering-from-scratch]] [[madslorentzen-ai-job-search]] [[alishahryar1-free-claude-code]] [[nousresearch-hermes-agent]]
 

@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[agent-substrate-substrate]] [[wei-shaw-sub2api]] [[mattpocock-skills]] [[anthropics-claude-code]] [[microsoft-typescript]]
+[[agent-substrate-substrate]] [[alishahryar1-free-claude-code]] [[juliusbrussee-caveman]] [[basecamp-omarchy]] [[makeplane-plane]]
 
 **所属领域**: [[cli]]
 

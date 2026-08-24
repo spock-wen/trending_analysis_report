@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[agent-substrate-substrate]] [[mahlernim-google-timeline-visualizer]] [[wei-shaw-sub2api]] [[mattpocock-skills]] [[posthog-posthog]]
+[[tinyhumansai-openhuman]] [[agent-substrate-substrate]] [[posthog-posthog]] [[multica-ai-andrej-karpathy-skills]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

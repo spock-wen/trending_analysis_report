@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[cursor-plugins]] [[n8n-io-n8n]] [[mukul975-anthropic-cybersecurity-skills]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]]
+[[tashfeenahmed-freellmapi]] [[uber-adr]] [[mukul975-anthropic-cybersecurity-skills]] [[openclaw-openclaw]] [[makeplane-plane]]
 
 **所属领域**: [[security]]
 

@@ -16,7 +16,6 @@ last_trending: 2026-08-22
 peak_rank: 1
 total_stars: 113859
 language: "Python"
-contested: true
 ---
 
 # harry0703/MoneyPrinterTurbo
@@ -39,17 +38,7 @@ contested: true
 
 ## 相关项目
 
-[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[mattpocock-skills]] [[posthog-posthog]] [[multica-ai-andrej-karpathy-skills]]
+[[tinyhumansai-openhuman]] [[rohitg00-ai-engineering-from-scratch]] [[multica-ai-andrej-karpathy-skills]] [[alishahryar1-free-claude-code]] [[madslorentzen-ai-job-search]]
 
 **所属领域**: [[ai-agent]]
-
-
-## ⚠️ 描述变更（2026-08-18）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-- **新描述**: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

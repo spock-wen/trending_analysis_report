@@ -35,5 +35,5 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## 相关项目
 
-[[cursor-plugins]] [[ruvnet-ruflo]] [[n8n-io-n8n]] [[makeplane-plane]]
+[[openclaw-openclaw]] [[makeplane-plane]] [[apache-maka]] [[tashfeenahmed-freellmapi]]
 

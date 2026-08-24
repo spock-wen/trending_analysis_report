@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tencent-ai-infra-guard]] [[anthropics-claude-code]] [[posthog-posthog]] [[mukul975-anthropic-cybersecurity-skills]] [[affaan-m-ecc]]
+[[tashfeenahmed-freellmapi]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[madslorentzen-ai-job-search]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[security]]
 

@@ -1,20 +1,20 @@
 ---
 title: "makeplane/plane"
 created: 2026-06-18
-updated: 2026-08-23
-last_active: 2026-08-23
+updated: 2026-08-25
+last_active: 2026-08-25
 type: tool
 tags: [typescript, cli]
-sources: [raw/trending/2026-08-23.json]
+sources: [raw/trending/2026-08-25.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-18
-last_trending: 2026-08-23
-peak_rank: 6
-total_stars: 57202
+last_trending: 2026-08-25
+peak_rank: 5
+total_stars: 57896
 language: "TypeScript"
 ---
 
@@ -23,13 +23,14 @@ language: "TypeScript"
 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 
 - 语言: TypeScript
-- 上榜次数: 4 次
+- 上榜次数: 5 次
 - 连续上榜: 1 天
-- 最高排名: #6
+- 最高排名: #5
 - 链接: [makeplane/plane](https://github.com/makeplane/plane)
 
 ## 上榜历史
 
+  - 2026-08-25: #5, +268⭐
   - 2026-08-23: #6, +263⭐
   - 2026-08-21: #15, +206⭐
   - 2026-06-19: #11, +610⭐
@@ -37,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cursor-plugins]] [[anthropics-claude-code]] [[mattpocock-skills]] [[n8n-io-n8n]] [[obra-superpowers]]
+[[openai-codex]] [[tashfeenahmed-freellmapi]] [[alishahryar1-free-claude-code]] [[basecamp-omarchy]] [[openclaw-openclaw]]
 
 **所属领域**: [[cli]]
 

@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[mattpocock-skills]] [[makeplane-plane]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]]
+[[alishahryar1-free-claude-code]] [[zhaoxuya520-reverse-skill]] [[basecamp-omarchy]] [[makeplane-plane]] [[openai-codex]]
 
 **所属领域**: [[cli]]
 

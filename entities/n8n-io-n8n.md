@@ -34,7 +34,7 @@ Fair-code workflow automation platform with native AI capabilities. Combine visu
 
 ## 相关项目
 
-[[cursor-plugins]] [[mattpocock-skills]] [[multica-ai-andrej-karpathy-skills]] [[obra-superpowers]] [[affaan-m-ecc]]
+[[tinyhumansai-openhuman]] [[tashfeenahmed-freellmapi]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[openclaw-openclaw]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[rohitg00-ai-engineering-from-scratch]] [[multica-ai-andrej-karpathy-skills]]
+[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[tauricresearch-tradingagents]] [[ripienaar-free-for-dev]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

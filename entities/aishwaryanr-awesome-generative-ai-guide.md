@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[posthog-posthog]] [[multica-ai-andrej-karpathy-skills]]
+[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[marin-community-marin]] [[ripienaar-free-for-dev]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

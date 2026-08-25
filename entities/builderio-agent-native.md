@@ -34,7 +34,7 @@ A framework for building agent-native applications.
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[tashfeenahmed-freellmapi]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[openclaw-openclaw]]
+[[tinyhumansai-openhuman]] [[apache-maka]] [[openclaw-openclaw]] [[tashfeenahmed-freellmapi]] [[makeplane-plane]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[docusealco-docuseal]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[multica-ai-andrej-karpathy-skills]]
+[[tinyhumansai-openhuman]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]] [[docusealco-docuseal]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]]
 

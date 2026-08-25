@@ -34,7 +34,7 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[tashfeenahmed-freellmapi]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[makeplane-plane]]
+[[tinyhumansai-openhuman]] [[apache-maka]] [[tashfeenahmed-freellmapi]] [[makeplane-plane]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 ## 相关项目
 
-[[santifer-career-ops]] [[tinyhumansai-openhuman]] [[freestylefly-awesome-gpt-image-2]] [[tryghost-ghost]] [[rohitg00-ai-engineering-from-scratch]]
+[[tinyhumansai-openhuman]] [[affaan-m-ecc]] [[freestylefly-awesome-gpt-image-2]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]]
 

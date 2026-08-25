@@ -36,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[tinyhumansai-openhuman]] [[microsoft-ai-for-beginners]] [[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]]
+[[tinyhumansai-openhuman]] [[kepano-obsidian-skills]] [[ruvnet-ruflo]] [[microsoft-generative-ai-for-beginners]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

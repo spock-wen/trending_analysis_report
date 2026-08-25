@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[posthog-posthog]] [[rohitg00-ai-engineering-from-scratch]]
+[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[marin-community-marin]] [[tauricresearch-tradingagents]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

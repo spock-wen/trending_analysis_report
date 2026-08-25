@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[nutlope-hallmark]] [[altic-dev-fluidvoice]] [[posthog-posthog]] [[tooljet-tooljet]]
+[[nutlope-hallmark]] [[altic-dev-fluidvoice]] [[ripienaar-free-for-dev]] [[tooljet-tooljet]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[web]] [[erp]]
 

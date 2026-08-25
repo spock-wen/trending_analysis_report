@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[obra-superpowers]] [[multica-ai-andrej-karpathy-skills]] [[alishahryar1-free-claude-code]] [[mattpocock-skills]]
+[[tinyhumansai-openhuman]] [[alishahryar1-free-claude-code]] [[mattpocock-skills]] [[makeplane-plane]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

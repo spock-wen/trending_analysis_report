@@ -37,7 +37,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[posthog-posthog]] [[rohitg00-ai-engineering-from-scratch]]
+[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[ripienaar-free-for-dev]] [[posthog-posthog]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

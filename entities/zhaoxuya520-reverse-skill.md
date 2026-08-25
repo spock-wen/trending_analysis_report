@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[raphire-win11debloat]] [[tashfeenahmed-freellmapi]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]]
+[[tinyhumansai-openhuman]] [[marin-community-marin]] [[alishahryar1-free-claude-code]] [[raphire-win11debloat]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

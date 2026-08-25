@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[makeplane-plane]] [[posthog-posthog]] [[multica-ai-andrej-karpathy-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[github-copilot-sdk]] [[tinyhumansai-openhuman]] [[alishahryar1-free-claude-code]] [[posthog-posthog]] [[apache-cassandra]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

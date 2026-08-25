@@ -35,7 +35,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[freestylefly-awesome-gpt-image-2]] [[infiniflow-ragflow]] [[tooljet-tooljet]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]]
+[[tooljet-tooljet]] [[tauricresearch-tradingagents]] [[freestylefly-awesome-gpt-image-2]] [[anthropics-claude-plugins-official]] [[shubhamsaboo-awesome-llm-apps]]
 
 **所属领域**: [[image-gen]]
 

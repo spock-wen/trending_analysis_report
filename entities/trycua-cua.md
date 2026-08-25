@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[freestylefly-awesome-gpt-image-2]] [[posthog-posthog]]
+[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[tooljet-tooljet]] [[ripienaar-free-for-dev]] [[freestylefly-awesome-gpt-image-2]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

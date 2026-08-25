@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[tashfeenahmed-freellmapi]] [[uber-adr]] [[mukul975-anthropic-cybersecurity-skills]] [[openclaw-openclaw]] [[makeplane-plane]]
+[[apache-maka]] [[openclaw-openclaw]] [[affaan-m-ecc]] [[mukul975-anthropic-cybersecurity-skills]] [[tashfeenahmed-freellmapi]]
 
 **所属领域**: [[security]]
 

@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[openai-codex]] [[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[posthog-posthog]]
+[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[alishahryar1-free-claude-code]] [[ripienaar-free-for-dev]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

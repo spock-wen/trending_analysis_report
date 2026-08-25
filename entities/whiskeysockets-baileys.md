@@ -34,7 +34,7 @@ Socket-based TS/JavaScript API for WhatsApp Web
 
 ## 相关项目
 
-[[santifer-career-ops]] [[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[freestylefly-awesome-gpt-image-2]]
+[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[affaan-m-ecc]] [[freestylefly-awesome-gpt-image-2]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

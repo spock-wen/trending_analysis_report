@@ -36,7 +36,7 @@ Kimi Code CLI is your next CLI agent.
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[rohitg00-ai-engineering-from-scratch]] [[multica-ai-andrej-karpathy-skills]] [[alishahryar1-free-claude-code]] [[madslorentzen-ai-job-search]]
+[[tinyhumansai-openhuman]] [[alishahryar1-free-claude-code]] [[tauricresearch-tradingagents]] [[makeplane-plane]] [[openai-codex]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

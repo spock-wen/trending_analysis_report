@@ -38,7 +38,7 @@ World's first open-source, agentic video production system. 12 production pipeli
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[posthog-posthog]] [[rohitg00-ai-engineering-from-scratch]] [[multica-ai-andrej-karpathy-skills]] [[alishahryar1-free-claude-code]]
+[[tinyhumansai-openhuman]] [[tauricresearch-tradingagents]] [[posthog-posthog]] [[mahlernim-google-timeline-visualizer]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

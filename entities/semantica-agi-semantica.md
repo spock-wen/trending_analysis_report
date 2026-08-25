@@ -38,7 +38,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[posthog-posthog]] [[rohitg00-ai-engineering-from-scratch]] [[multica-ai-andrej-karpathy-skills]]
+[[tinyhumansai-openhuman]] [[tauricresearch-tradingagents]] [[ripienaar-free-for-dev]] [[ruvnet-ruflo]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

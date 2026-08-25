@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[lightricks-ltx-2]] [[posthog-posthog]] [[rohitg00-ai-engineering-from-scratch]]
+[[tinyhumansai-openhuman]] [[permissionlesstech-bitchat]] [[alishahryar1-free-claude-code]] [[jaywcjlove-awesome-mac]] [[palmier-io-palmier-pro]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

@@ -35,5 +35,5 @@ A fast, helpful, and open-source document parser
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[dani-garcia-vaultwarden]] [[aprilnea-openlogi]] [[openai-codex]]
+[[tinyhumansai-openhuman]] [[openai-codex]] [[aprilnea-openlogi]] [[dani-garcia-vaultwarden]]
 

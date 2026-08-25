@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[santifer-career-ops]] [[ripienaar-free-for-dev]] [[altic-dev-fluidvoice]] [[freestylefly-awesome-gpt-image-2]] [[tryghost-ghost]]
+[[altic-dev-fluidvoice]] [[tooljet-tooljet]] [[affaan-m-ecc]] [[freestylefly-awesome-gpt-image-2]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[web]] [[image-gen]]
 

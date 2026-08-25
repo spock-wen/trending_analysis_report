@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[ruvnet-ruflo]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[huggingface-transformers]]
+[[tinyhumansai-openhuman]] [[marin-community-marin]] [[tauricresearch-tradingagents]] [[ruvnet-ruflo]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[education]] [[science]]
 

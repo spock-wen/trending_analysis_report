@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[tashfeenahmed-freellmapi]] [[uber-adr]] [[aprilnea-openlogi]] [[mukul975-anthropic-cybersecurity-skills]]
+[[tinyhumansai-openhuman]] [[affaan-m-ecc]] [[mukul975-anthropic-cybersecurity-skills]] [[tashfeenahmed-freellmapi]] [[dani-garcia-vaultwarden]]
 
 **所属领域**: [[security]]
 

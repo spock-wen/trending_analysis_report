@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[tashfeenahmed-freellmapi]] [[posthog-posthog]] [[ruvnet-ruflo]] [[tencent-ai-infra-guard]]
+[[apache-maka]] [[openclaw-openclaw]] [[ripienaar-free-for-dev]] [[tashfeenahmed-freellmapi]] [[ruvnet-ruflo]]
 
 **所属领域**: [[data]] [[devops]]
 

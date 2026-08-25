@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[posthog-posthog]] [[multica-ai-andrej-karpathy-skills]]
+[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[ripienaar-free-for-dev]] [[posthog-posthog]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -38,7 +38,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[madslorentzen-ai-job-search]] [[paperclipai-paperclip]]
+[[tinyhumansai-openhuman]] [[marin-community-marin]] [[tauricresearch-tradingagents]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

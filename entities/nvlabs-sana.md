@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[freestylefly-awesome-gpt-image-2]] [[infiniflow-ragflow]] [[tooljet-tooljet]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]]
+[[tooljet-tooljet]] [[tauricresearch-tradingagents]] [[freestylefly-awesome-gpt-image-2]] [[anthropics-claude-plugins-official]] [[shubhamsaboo-awesome-llm-apps]]
 
 **所属领域**: [[image-gen]]
 

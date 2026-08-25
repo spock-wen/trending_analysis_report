@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[freestylefly-awesome-gpt-image-2]] [[tryghost-ghost]] [[affaan-m-ecc]] [[santifer-career-ops]]
+[[affaan-m-ecc]] [[dietrichgebert-ponytail]] [[freestylefly-awesome-gpt-image-2]] [[tryghost-ghost]]
 

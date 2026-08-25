@@ -37,5 +37,5 @@ Fast Rust library for PDF inspection, classification, and text extraction. Intel
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[dani-garcia-vaultwarden]] [[aprilnea-openlogi]] [[openai-codex]]
+[[tinyhumansai-openhuman]] [[openai-codex]] [[aprilnea-openlogi]] [[dani-garcia-vaultwarden]]
 

@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[tashfeenahmed-freellmapi]] [[rohitg00-ai-engineering-from-scratch]] [[multica-ai-andrej-karpathy-skills]] [[alishahryar1-free-claude-code]]
+[[tinyhumansai-openhuman]] [[tauricresearch-tradingagents]] [[affaan-m-ecc]] [[tashfeenahmed-freellmapi]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

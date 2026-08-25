@@ -35,7 +35,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[huggingface-transformers]] [[madslorentzen-ai-job-search]]
+[[tauricresearch-tradingagents]] [[ruvnet-ruflo]] [[huggingface-transformers]] [[anthropics-claude-plugins-official]] [[shubhamsaboo-awesome-llm-apps]]
 
 **所属领域**: [[education]]
 

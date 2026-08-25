@@ -37,7 +37,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[altic-dev-fluidvoice]] [[posthog-posthog]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]]
+[[altic-dev-fluidvoice]] [[tauricresearch-tradingagents]] [[ripienaar-free-for-dev]] [[posthog-posthog]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

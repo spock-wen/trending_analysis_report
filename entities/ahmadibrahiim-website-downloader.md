@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[altic-dev-fluidvoice]] [[freestylefly-awesome-gpt-image-2]] [[posthog-posthog]] [[unslothai-unsloth]]
+[[altic-dev-fluidvoice]] [[tooljet-tooljet]] [[ripienaar-free-for-dev]] [[freestylefly-awesome-gpt-image-2]] [[posthog-posthog]]
 
 **所属领域**: [[web]] [[image-gen]]
 

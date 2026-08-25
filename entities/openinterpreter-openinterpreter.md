@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[tooljet-tooljet]] [[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]] [[alishahryar1-free-claude-code]]
+[[tinyhumansai-openhuman]] [[hugohe3-ppt-master]] [[tooljet-tooljet]] [[genlayerlabs-genlayer-project-boilerplate]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

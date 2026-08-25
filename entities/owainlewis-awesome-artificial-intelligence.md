@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[alishahryar1-free-claude-code]] [[huggingface-transformers]]
+[[tinyhumansai-openhuman]] [[marin-community-marin]] [[tauricresearch-tradingagents]] [[ruvnet-ruflo]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

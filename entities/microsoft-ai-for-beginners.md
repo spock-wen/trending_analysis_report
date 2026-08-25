@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[tinyhumansai-openhuman]] [[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[alishahryar1-free-claude-code]]
+[[tinyhumansai-openhuman]] [[ruvnet-ruflo]] [[microsoft-generative-ai-for-beginners]] [[huggingface-transformers]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -36,7 +36,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[rohitg00-ai-engineering-from-scratch]] [[jaywcjlove-awesome-mac]] [[alishahryar1-free-claude-code]]
+[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[permissionlesstech-bitchat]] [[jaywcjlove-awesome-mac]] [[palmier-io-palmier-pro]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

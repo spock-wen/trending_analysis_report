@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[tashfeenahmed-freellmapi]] [[posthog-posthog]] [[rohitg00-ai-engineering-from-scratch]]
+[[tinyhumansai-openhuman]] [[apache-maka]] [[openclaw-openclaw]] [[ripienaar-free-for-dev]] [[tashfeenahmed-freellmapi]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

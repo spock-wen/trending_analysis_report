@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[antirez-ds4]] [[tinyhumansai-openhuman]] [[posthog-posthog]] [[microsoft-powertoys]] [[rohitg00-ai-engineering-from-scratch]]
+[[tinyhumansai-openhuman]] [[posthog-posthog]] [[mahlernim-google-timeline-visualizer]] [[harbourmasters-lighthouse]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

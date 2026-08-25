@@ -35,7 +35,7 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[posthog-posthog]] [[rohitg00-ai-engineering-from-scratch]] [[multica-ai-andrej-karpathy-skills]] [[alishahryar1-free-claude-code]]
+[[tinyhumansai-openhuman]] [[tauricresearch-tradingagents]] [[posthog-posthog]] [[mahlernim-google-timeline-visualizer]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

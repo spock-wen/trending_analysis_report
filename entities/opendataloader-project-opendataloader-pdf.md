@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[posthog-posthog]] [[multica-ai-andrej-karpathy-skills]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]]
+[[github-copilot-sdk]] [[tinyhumansai-openhuman]] [[posthog-posthog]] [[apache-cassandra]] [[mahlernim-google-timeline-visualizer]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

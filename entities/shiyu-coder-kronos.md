@@ -38,5 +38,5 @@ Kronos: A Foundation Model for the Language of Financial Markets
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[madslorentzen-ai-job-search]] [[alishahryar1-free-claude-code]] [[nousresearch-hermes-agent]]
+[[anthropics-claude-plugins-official]] [[rohitg00-ai-engineering-from-scratch]] [[tauricresearch-tradingagents]] [[shubhamsaboo-awesome-llm-apps]]
 

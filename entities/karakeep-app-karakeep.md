@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[tashfeenahmed-freellmapi]] [[freestylefly-awesome-gpt-image-2]] [[infiniflow-ragflow]] [[tooljet-tooljet]]
+[[tinyhumansai-openhuman]] [[apache-maka]] [[openclaw-openclaw]] [[tooljet-tooljet]] [[freestylefly-awesome-gpt-image-2]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -36,7 +36,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 ## 相关项目
 
-[[santifer-career-ops]] [[tinyhumansai-openhuman]] [[freestylefly-awesome-gpt-image-2]] [[tryghost-ghost]] [[posthog-posthog]]
+[[tinyhumansai-openhuman]] [[affaan-m-ecc]] [[freestylefly-awesome-gpt-image-2]] [[posthog-posthog]] [[mahlernim-google-timeline-visualizer]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

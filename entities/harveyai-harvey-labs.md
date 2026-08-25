@@ -35,7 +35,7 @@ A benchmark built to evaluate and improve agent capabilities for supporting lega
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[rohitg00-ai-engineering-from-scratch]] [[multica-ai-andrej-karpathy-skills]] [[alishahryar1-free-claude-code]] [[madslorentzen-ai-job-search]]
+[[tinyhumansai-openhuman]] [[tauricresearch-tradingagents]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]] [[shubhamsaboo-awesome-llm-apps]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[agent-substrate-substrate]] [[posthog-posthog]] [[multica-ai-andrej-karpathy-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[tinyhumansai-openhuman]] [[juliusbrussee-caveman]] [[posthog-posthog]] [[mahlernim-google-timeline-visualizer]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[lyogavin-airllm]] [[tinyhumansai-openhuman]] [[microsoft-ai-for-beginners]] [[posthog-posthog]]
+[[tinyhumansai-openhuman]] [[kepano-obsidian-skills]] [[tooljet-tooljet]] [[ripienaar-free-for-dev]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

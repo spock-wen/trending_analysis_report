@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[basecamp-omarchy]] [[makeplane-plane]]
+[[tinyhumansai-openhuman]] [[alishahryar1-free-claude-code]] [[makeplane-plane]] [[openai-codex]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[posthog-posthog]] [[ruvnet-ruflo]] [[tencent-ai-infra-guard]] [[pkuflyingpig-cs-self-learning]]
+[[altic-dev-fluidvoice]] [[ruvnet-ruflo]] [[posthog-posthog]] [[hkuds-cli-anything]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[devops]]
 

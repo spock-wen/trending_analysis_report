@@ -34,7 +34,7 @@ Lightweight (7MB) Terminal-first AI-native dev workspace
 
 ## 相关项目
 
-[[openai-codex]] [[tinyhumansai-openhuman]] [[tashfeenahmed-freellmapi]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]]
+[[tinyhumansai-openhuman]] [[apache-maka]] [[openclaw-openclaw]] [[alishahryar1-free-claude-code]] [[tashfeenahmed-freellmapi]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

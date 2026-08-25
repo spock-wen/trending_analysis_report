@@ -35,7 +35,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[altic-dev-fluidvoice]] [[gabime-spdlog]] [[posthog-posthog]] [[microsoft-onnxruntime]]
+[[altic-dev-fluidvoice]] [[ripienaar-free-for-dev]] [[microsoft-onnxruntime]] [[posthog-posthog]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

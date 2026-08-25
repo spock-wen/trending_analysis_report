@@ -36,7 +36,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[posthog-posthog]] [[rohitg00-ai-engineering-from-scratch]] [[multica-ai-andrej-karpathy-skills]]
+[[tinyhumansai-openhuman]] [[alishahryar1-free-claude-code]] [[tauricresearch-tradingagents]] [[ripienaar-free-for-dev]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

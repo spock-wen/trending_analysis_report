@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[msitarzewski-agency-agents]] [[tooljet-tooljet]] [[rohitg00-ai-engineering-from-scratch]] [[hugohe3-ppt-master]]
+[[tinyhumansai-openhuman]] [[hugohe3-ppt-master]] [[alishahryar1-free-claude-code]] [[tooljet-tooljet]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

@@ -35,7 +35,7 @@ ADR secures enterprise AI agents through observability, security benchmarking, a
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[tashfeenahmed-freellmapi]] [[posthog-posthog]] [[tooljet-tooljet]]
+[[tinyhumansai-openhuman]] [[hugohe3-ppt-master]] [[tooljet-tooljet]] [[tauricresearch-tradingagents]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[security]] [[erp]]
 

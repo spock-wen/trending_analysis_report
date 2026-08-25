@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[openai-codex]] [[tashfeenahmed-freellmapi]] [[altic-dev-fluidvoice]] [[posthog-posthog]]
+[[apache-maka]] [[openclaw-openclaw]] [[ripienaar-free-for-dev]] [[altic-dev-fluidvoice]] [[tashfeenahmed-freellmapi]]
 
 **所属领域**: [[web]] [[cli]]
 

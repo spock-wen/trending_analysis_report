@@ -35,5 +35,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[freestylefly-awesome-gpt-image-2]] [[affaan-m-ecc]] [[santifer-career-ops]]
+[[affaan-m-ecc]] [[dietrichgebert-ponytail]] [[freestylefly-awesome-gpt-image-2]]
 

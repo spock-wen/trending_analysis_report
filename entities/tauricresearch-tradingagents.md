@@ -1,20 +1,20 @@
 ---
 title: "TauricResearch/TradingAgents"
 created: 2026-06-02
-updated: 2026-08-11
-last_active: 2026-08-11
+updated: 2026-08-26
+last_active: 2026-08-26
 type: framework
 tags: [python, ai-agent, science]
-sources: [raw/trending/2026-08-11.json]
+sources: [raw/trending/2026-08-26.json]
 confidence: high
-trending_count_daily: 3
+trending_count_daily: 4
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-02
-last_trending: 2026-08-11
-peak_rank: 7
-total_stars: 97188
+last_trending: 2026-08-26
+peak_rank: 4
+total_stars: 100191
 language: "Python"
 ---
 
@@ -23,20 +23,21 @@ language: "Python"
 TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 - 语言: Python
-- 上榜次数: 3 次
+- 上榜次数: 4 次
 - 连续上榜: 1 天
-- 最高排名: #7
+- 最高排名: #4
 - 链接: [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
 
 ## 上榜历史
 
+  - 2026-08-26: #4, +191⭐
   - 2026-08-11: #11, +234⭐
   - 2026-08-09: #7, +126⭐
   - 2026-06-02: #9, +284⭐
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[rohitg00-ai-engineering-from-scratch]] [[multica-ai-andrej-karpathy-skills]] [[alishahryar1-free-claude-code]] [[madslorentzen-ai-job-search]]
+[[tinyhumansai-openhuman]] [[marin-community-marin]] [[nousresearch-hermes-agent]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

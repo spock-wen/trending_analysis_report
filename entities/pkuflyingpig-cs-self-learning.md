@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[altic-dev-fluidvoice]] [[posthog-posthog]] [[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]]
+[[altic-dev-fluidvoice]] [[ripienaar-free-for-dev]] [[ruvnet-ruflo]] [[posthog-posthog]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[education]]
 

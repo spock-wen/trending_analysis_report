@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[agent-substrate-substrate]] [[multica-ai-andrej-karpathy-skills]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]]
+[[tinyhumansai-openhuman]] [[alishahryar1-free-claude-code]] [[juliusbrussee-caveman]] [[makeplane-plane]] [[openai-codex]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

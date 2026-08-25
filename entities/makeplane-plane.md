@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[openai-codex]] [[tashfeenahmed-freellmapi]] [[alishahryar1-free-claude-code]] [[basecamp-omarchy]] [[openclaw-openclaw]]
+[[apache-maka]] [[openclaw-openclaw]] [[alishahryar1-free-claude-code]] [[tashfeenahmed-freellmapi]] [[openai-codex]]
 
 **所属领域**: [[cli]]
 

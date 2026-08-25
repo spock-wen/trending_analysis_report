@@ -34,7 +34,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[openai-codex]] [[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[posthog-posthog]]
+[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[alishahryar1-free-claude-code]] [[tauricresearch-tradingagents]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

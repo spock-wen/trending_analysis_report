@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]]
+[[tinyhumansai-openhuman]] [[alishahryar1-free-claude-code]] [[makeplane-plane]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[tashfeenahmed-freellmapi]] [[tooljet-tooljet]] [[obra-superpowers]] [[hugohe3-ppt-master]] [[genlayerlabs-genlayer-project-boilerplate]]
+[[apache-maka]] [[openclaw-openclaw]] [[tooljet-tooljet]] [[hugohe3-ppt-master]] [[tashfeenahmed-freellmapi]]
 
 **所属领域**: [[erp]]
 

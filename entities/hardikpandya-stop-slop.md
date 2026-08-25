@@ -38,7 +38,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[multica-ai-andrej-karpathy-skills]]
+[[tinyhumansai-openhuman]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]]
 

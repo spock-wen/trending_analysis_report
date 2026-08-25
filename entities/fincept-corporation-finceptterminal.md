@@ -35,7 +35,7 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[posthog-posthog]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[madslorentzen-ai-job-search]]
+[[tinyhumansai-openhuman]] [[marin-community-marin]] [[alishahryar1-free-claude-code]] [[tauricresearch-tradingagents]] [[posthog-posthog]]
 
 **所属领域**: [[cli]] [[data]] [[science]]
 

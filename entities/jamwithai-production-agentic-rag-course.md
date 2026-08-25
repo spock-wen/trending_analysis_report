@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[rohitg00-ai-engineering-from-scratch]] [[multica-ai-andrej-karpathy-skills]] [[alishahryar1-free-claude-code]] [[ruvnet-ruflo]]
+[[tinyhumansai-openhuman]] [[tauricresearch-tradingagents]] [[ruvnet-ruflo]] [[huggingface-transformers]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

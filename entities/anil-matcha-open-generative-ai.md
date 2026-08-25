@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[santifer-career-ops]] [[tinyhumansai-openhuman]] [[freestylefly-awesome-gpt-image-2]] [[tryghost-ghost]] [[tooljet-tooljet]]
+[[tinyhumansai-openhuman]] [[tooljet-tooljet]] [[affaan-m-ecc]] [[freestylefly-awesome-gpt-image-2]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

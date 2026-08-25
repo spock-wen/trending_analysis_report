@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[freestylefly-awesome-gpt-image-2]] [[posthog-posthog]] [[tooljet-tooljet]] [[rohitg00-ai-engineering-from-scratch]]
+[[tinyhumansai-openhuman]] [[tooljet-tooljet]] [[tauricresearch-tradingagents]] [[freestylefly-awesome-gpt-image-2]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

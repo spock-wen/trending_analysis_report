@@ -38,7 +38,7 @@ Use Codex from Claude Code to review code or delegate tasks.
 
 ## 相关项目
 
-[[santifer-career-ops]] [[tinyhumansai-openhuman]] [[freestylefly-awesome-gpt-image-2]] [[tryghost-ghost]] [[rohitg00-ai-engineering-from-scratch]]
+[[tinyhumansai-openhuman]] [[affaan-m-ecc]] [[freestylefly-awesome-gpt-image-2]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]]
 

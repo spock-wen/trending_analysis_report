@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[bannedbook-fanqiang]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[andreknieriem-headunit-revived]]
+[[tinyhumansai-openhuman]] [[mahlernim-google-timeline-visualizer]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]]
 

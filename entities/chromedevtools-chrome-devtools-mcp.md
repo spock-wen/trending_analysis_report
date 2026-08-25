@@ -38,7 +38,7 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[tashfeenahmed-freellmapi]] [[altic-dev-fluidvoice]] [[posthog-posthog]]
+[[tinyhumansai-openhuman]] [[apache-maka]] [[openclaw-openclaw]] [[ripienaar-free-for-dev]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

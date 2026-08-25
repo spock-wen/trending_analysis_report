@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[freestylefly-awesome-gpt-image-2]] [[infiniflow-ragflow]] [[tooljet-tooljet]] [[rohitg00-ai-engineering-from-scratch]]
+[[tinyhumansai-openhuman]] [[tooljet-tooljet]] [[tauricresearch-tradingagents]] [[freestylefly-awesome-gpt-image-2]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

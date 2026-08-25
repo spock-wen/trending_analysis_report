@@ -35,7 +35,7 @@ Gas Town - multi-agent workspace manager
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[agent-substrate-substrate]] [[multica-ai-andrej-karpathy-skills]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]]
+[[tinyhumansai-openhuman]] [[juliusbrussee-caveman]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]] [[microsoft-typescript]]
 
 **所属领域**: [[ai-agent]]
 

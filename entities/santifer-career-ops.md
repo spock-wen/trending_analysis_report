@@ -38,7 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[freestylefly-awesome-gpt-image-2]] [[tryghost-ghost]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]]
+[[tinyhumansai-openhuman]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[freestylefly-awesome-gpt-image-2]] [[makeplane-plane]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

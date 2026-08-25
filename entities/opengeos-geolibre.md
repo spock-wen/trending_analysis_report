@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[tashfeenahmed-freellmapi]] [[altic-dev-fluidvoice]] [[posthog-posthog]] [[volcengine-openviking]]
+[[apache-maka]] [[openclaw-openclaw]] [[ripienaar-free-for-dev]] [[altic-dev-fluidvoice]] [[tashfeenahmed-freellmapi]]
 
 **所属领域**: [[web]] [[data]]
 

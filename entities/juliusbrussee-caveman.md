@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[agent-substrate-substrate]] [[microsoft-typescript]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]]
+[[tinyhumansai-openhuman]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]] [[microsoft-typescript]] [[asciimoo-hister]]
 
 **所属领域**: [[ai-agent]]
 

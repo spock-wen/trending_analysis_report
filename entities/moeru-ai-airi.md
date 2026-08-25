@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[lightricks-ltx-2]] [[tashfeenahmed-freellmapi]] [[altic-dev-fluidvoice]]
+[[tinyhumansai-openhuman]] [[apache-maka]] [[openclaw-openclaw]] [[ripienaar-free-for-dev]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

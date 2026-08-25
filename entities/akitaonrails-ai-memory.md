@@ -36,7 +36,7 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[basecamp-omarchy]] [[aprilnea-openlogi]]
+[[tinyhumansai-openhuman]] [[alishahryar1-free-claude-code]] [[makeplane-plane]] [[dani-garcia-vaultwarden]] [[openai-codex]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

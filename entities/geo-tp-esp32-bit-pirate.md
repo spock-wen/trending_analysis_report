@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[openai-codex]] [[altic-dev-fluidvoice]] [[gabime-spdlog]] [[posthog-posthog]]
+[[ladybirdbrowser-ladybird]] [[altic-dev-fluidvoice]] [[alishahryar1-free-claude-code]] [[ripienaar-free-for-dev]] [[microsoft-onnxruntime]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[uber-adr]] [[mukul975-anthropic-cybersecurity-skills]]
+[[tinyhumansai-openhuman]] [[apache-maka]] [[openclaw-openclaw]] [[affaan-m-ecc]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

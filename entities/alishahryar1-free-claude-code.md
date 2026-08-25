@@ -16,7 +16,6 @@ last_trending: 2026-08-25
 peak_rank: 1
 total_stars: 48899
 language: "Python"
-contested: true
 ---
 
 # Alishahryar1/free-claude-code
@@ -39,17 +38,7 @@ Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your 
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[lightricks-ltx-2]] [[altic-dev-fluidvoice]] [[rohitg00-ai-engineering-from-scratch]] [[hugohe3-ppt-master]]
+[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[hugohe3-ppt-master]] [[tauricresearch-tradingagents]] [[makeplane-plane]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
-
-
-## ⚠️ 描述变更（2026-08-25）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
-- **新描述**: Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

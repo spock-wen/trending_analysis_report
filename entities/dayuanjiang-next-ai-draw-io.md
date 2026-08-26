@@ -34,7 +34,7 @@ A next.js web application that integrates AI capabilities with draw.io diagrams.
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[apache-maka]] [[openclaw-openclaw]] [[ripienaar-free-for-dev]] [[altic-dev-fluidvoice]]
+[[tinyhumansai-openhuman]] [[openclaw-openclaw]] [[tt-a1i-archify]] [[conardli-garden-skills]] [[openai-codex]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

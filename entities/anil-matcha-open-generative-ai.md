@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[tooljet-tooljet]] [[affaan-m-ecc]] [[freestylefly-awesome-gpt-image-2]] [[anthropics-claude-plugins-official]]
+[[tinyhumansai-openhuman]] [[conardli-garden-skills]] [[dietrichgebert-ponytail]] [[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

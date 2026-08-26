@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[alishahryar1-free-claude-code]] [[mattpocock-skills]] [[makeplane-plane]] [[rohitg00-ai-engineering-from-scratch]]
+[[msitarzewski-agency-agents]] [[tinyhumansai-openhuman]] [[openai-codex]] [[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

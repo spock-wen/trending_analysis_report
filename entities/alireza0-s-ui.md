@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[ripienaar-free-for-dev]] [[juliusbrussee-caveman]] [[posthog-posthog]] [[hkuds-cli-anything]]
+[[asciimoo-hister]] [[tt-a1i-archify]] [[conardli-garden-skills]] [[wei-shaw-sub2api]] [[microsoft-typescript]]
 
 **所属领域**: [[web]]
 

@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]] [[penpot-penpot]]
+[[tinyhumansai-openhuman]] [[k-dense-ai-scientific-agent-skills]] [[penpot-penpot]] [[anthropics-claude-plugins-official]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

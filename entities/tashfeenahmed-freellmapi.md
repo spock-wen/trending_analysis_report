@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[apache-maka]] [[openclaw-openclaw]] [[affaan-m-ecc]] [[mukul975-anthropic-cybersecurity-skills]]
+[[tinyhumansai-openhuman]] [[openclaw-openclaw]] [[uber-adr]] [[apache-maka]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

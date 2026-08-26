@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[apache-maka]] [[openclaw-openclaw]] [[ripienaar-free-for-dev]] [[tashfeenahmed-freellmapi]]
+[[tinyhumansai-openhuman]] [[ripienaar-free-for-dev]] [[openclaw-openclaw]] [[apache-maka]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

@@ -34,7 +34,7 @@ Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[juliusbrussee-caveman]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]] [[microsoft-typescript]]
+[[tinyhumansai-openhuman]] [[asciimoo-hister]] [[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]] [[microsoft-typescript]]
 
 **所属领域**: [[ai-agent]]
 

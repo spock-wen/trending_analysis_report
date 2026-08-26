@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[marin-community-marin]] [[ripienaar-free-for-dev]] [[tauricresearch-tradingagents]]
+[[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[tt-a1i-archify]] [[conardli-garden-skills]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

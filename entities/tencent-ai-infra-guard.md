@@ -35,7 +35,7 @@ A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skil
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[tauricresearch-tradingagents]] [[ripienaar-free-for-dev]] [[ruvnet-ruflo]] [[posthog-posthog]]
+[[tinyhumansai-openhuman]] [[ripienaar-free-for-dev]] [[ruvnet-ruflo]] [[k-dense-ai-scientific-agent-skills]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

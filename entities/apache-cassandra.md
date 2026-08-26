@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[github-copilot-sdk]] [[ripienaar-free-for-dev]] [[ruvnet-ruflo]] [[posthog-posthog]] [[mahlernim-google-timeline-visualizer]]
+[[ripienaar-free-for-dev]] [[tt-a1i-archify]] [[ruvnet-ruflo]] [[github-copilot-sdk]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[data]] [[devops]]
 

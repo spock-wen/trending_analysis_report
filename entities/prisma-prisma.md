@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[apache-maka]] [[openclaw-openclaw]] [[tooljet-tooljet]] [[freestylefly-awesome-gpt-image-2]] [[tashfeenahmed-freellmapi]]
+[[openclaw-openclaw]] [[tt-a1i-archify]] [[conardli-garden-skills]] [[apache-maka]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[data]] [[image-gen]]
 

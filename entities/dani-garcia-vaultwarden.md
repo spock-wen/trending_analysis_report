@@ -34,5 +34,5 @@ Unofficial Bitwarden compatible server written in Rust, formerly known as bitwar
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[openai-codex]] [[aprilnea-openlogi]]
+[[tinyhumansai-openhuman]] [[aprilnea-openlogi]] [[openai-codex]]
 

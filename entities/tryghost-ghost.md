@@ -35,5 +35,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[dietrichgebert-ponytail]] [[freestylefly-awesome-gpt-image-2]]
+[[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[freestylefly-awesome-gpt-image-2]]
 

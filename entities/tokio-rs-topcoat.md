@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[ripienaar-free-for-dev]] [[posthog-posthog]] [[hkuds-cli-anything]]
+[[tinyhumansai-openhuman]] [[browser-use-browser-use]] [[aprilnea-openlogi]] [[tt-a1i-archify]] [[openai-codex]]
 
 **所属领域**: [[web]]
 

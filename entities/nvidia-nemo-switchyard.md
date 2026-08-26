@@ -35,7 +35,7 @@ Switchyard lets LLM applications route traffic across models and providers while
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[dani-garcia-vaultwarden]] [[openai-codex]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]]
+[[tinyhumansai-openhuman]] [[aprilnea-openlogi]] [[openai-codex]] [[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

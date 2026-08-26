@@ -36,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[kepano-obsidian-skills]] [[ruvnet-ruflo]] [[microsoft-generative-ai-for-beginners]] [[huggingface-transformers]]
+[[microsoft-generative-ai-for-beginners]] [[tinyhumansai-openhuman]] [[ruvnet-ruflo]] [[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

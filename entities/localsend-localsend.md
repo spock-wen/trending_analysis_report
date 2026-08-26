@@ -34,7 +34,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[chen08209-flclash]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[tinyhumansai-openhuman]] [[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]]
 

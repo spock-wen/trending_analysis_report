@@ -36,5 +36,5 @@ M3U Playlist for free TV channels
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[rohitg00-ai-engineering-from-scratch]] [[tauricresearch-tradingagents]] [[shubhamsaboo-awesome-llm-apps]]
+[[rohitg00-ai-engineering-from-scratch]] [[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]]
 

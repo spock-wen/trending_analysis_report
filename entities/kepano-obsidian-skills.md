@@ -34,7 +34,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[alishahryar1-free-claude-code]] [[ruvnet-ruflo]] [[makeplane-plane]] [[huggingface-transformers]]
+[[tinyhumansai-openhuman]] [[ruvnet-ruflo]] [[openai-codex]] [[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

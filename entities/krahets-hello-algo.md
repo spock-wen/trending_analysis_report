@@ -35,5 +35,5 @@ language: "Java"
 
 ## 相关项目
 
-[[github-copilot-sdk]] [[jenkinsci-jenkins]] [[apache-cassandra]] [[google-guava]]
+[[github-copilot-sdk]] [[google-guava]] [[apache-cassandra]] [[jenkinsci-jenkins]]
 

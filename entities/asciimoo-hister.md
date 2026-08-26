@@ -34,5 +34,5 @@ Your own search engine
 
 ## 相关项目
 
-[[microsoft-typescript]] [[juliusbrussee-caveman]] [[wei-shaw-sub2api]]
+[[wei-shaw-sub2api]] [[juliusbrussee-caveman]] [[microsoft-typescript]]
 

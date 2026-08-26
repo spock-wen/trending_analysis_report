@@ -34,7 +34,7 @@ Toolkit for linearizing PDFs for LLM datasets/training
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[tauricresearch-tradingagents]] [[posthog-posthog]] [[mahlernim-google-timeline-visualizer]] [[anthropics-claude-plugins-official]]
+[[tinyhumansai-openhuman]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

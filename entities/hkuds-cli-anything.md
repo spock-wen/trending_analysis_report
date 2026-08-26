@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[alishahryar1-free-claude-code]] [[tauricresearch-tradingagents]] [[ripienaar-free-for-dev]]
+[[tinyhumansai-openhuman]] [[tt-a1i-archify]] [[conardli-garden-skills]] [[openai-codex]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

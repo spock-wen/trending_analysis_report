@@ -38,7 +38,7 @@ Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free),
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[apache-maka]] [[openclaw-openclaw]] [[alishahryar1-free-claude-code]] [[tashfeenahmed-freellmapi]]
+[[tinyhumansai-openhuman]] [[openclaw-openclaw]] [[openai-codex]] [[apache-maka]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[tooljet-tooljet]] [[affaan-m-ecc]] [[freestylefly-awesome-gpt-image-2]] [[ripienaar-free-for-dev]]
+[[tt-a1i-archify]] [[conardli-garden-skills]] [[dietrichgebert-ponytail]] [[unslothai-unsloth]] [[affaan-m-ecc]]
 
 **所属领域**: [[web]] [[image-gen]]
 

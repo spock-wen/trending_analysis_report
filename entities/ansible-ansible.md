@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[tauricresearch-tradingagents]] [[ripienaar-free-for-dev]] [[ruvnet-ruflo]]
+[[tinyhumansai-openhuman]] [[ripienaar-free-for-dev]] [[tt-a1i-archify]] [[ruvnet-ruflo]] [[conardli-garden-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

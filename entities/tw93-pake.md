@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[alishahryar1-free-claude-code]] [[ripienaar-free-for-dev]] [[posthog-posthog]]
+[[tinyhumansai-openhuman]] [[browser-use-browser-use]] [[aprilnea-openlogi]] [[tt-a1i-archify]] [[openai-codex]]
 
 **所属领域**: [[web]] [[cli]]
 

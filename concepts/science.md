@@ -1,7 +1,7 @@
 ---
 title: "science"
 created: 2026-05-26
-updated: 2026-08-26
+updated: 2026-08-27
 type: concept
 tags: [science]
 confidence: medium
@@ -11,7 +11,7 @@ confidence: medium
 
 ## 领域项目（共 24 个，今日上榜 3 个）
 
-[[tinyhumansai-openhuman]] [[tauricresearch-tradingagents]] [[marin-community-marin]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[mvanhorn-last30days-skill]] [[bytedance-deer-flow]] [[paperswithbacktest-awesome-systematic-trading]] [[knockoutez-wigolo]] [[henryndubuaku-maths-cs-ai-compendium]] [[graphify-labs-graphify]] [[alirezarezvani-claude-skills]] [[safishamsi-graphify]] [[xbtlin-ai-berkshire]] [[google-research-timesfm]] [[owainlewis-awesome-artificial-intelligence]] [[aishwaryanr-awesome-generative-ai-guide]] [[galilai-group-stable-worldmodel]] [[fincept-corporation-finceptterminal]] [[paperless-ngx-paperless-ngx]] [[imbad0202-academic-research-skills]] [[k-dense-ai-scientific-agent-skills]]
+[[tinyhumansai-openhuman]] [[k-dense-ai-scientific-agent-skills]] [[marin-community-marin]] [[tauricresearch-tradingagents]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[mvanhorn-last30days-skill]] [[bytedance-deer-flow]] [[paperswithbacktest-awesome-systematic-trading]] [[knockoutez-wigolo]] [[henryndubuaku-maths-cs-ai-compendium]] [[graphify-labs-graphify]] [[alirezarezvani-claude-skills]] [[safishamsi-graphify]] [[xbtlin-ai-berkshire]] [[google-research-timesfm]] [[owainlewis-awesome-artificial-intelligence]] [[aishwaryanr-awesome-generative-ai-guide]] [[galilai-group-stable-worldmodel]] [[fincept-corporation-finceptterminal]] [[paperless-ngx-paperless-ngx]] [[imbad0202-academic-research-skills]]
 
 ## 语言分布
 

@@ -34,7 +34,7 @@ AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, executi
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[tauricresearch-tradingagents]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]] [[shubhamsaboo-awesome-llm-apps]]
+[[tinyhumansai-openhuman]] [[k-dense-ai-scientific-agent-skills]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[apache-maka]] [[openclaw-openclaw]] [[ripienaar-free-for-dev]] [[tashfeenahmed-freellmapi]] [[ruvnet-ruflo]]
+[[ripienaar-free-for-dev]] [[openclaw-openclaw]] [[ruvnet-ruflo]] [[apache-maka]] [[tencent-ai-infra-guard]]
 
 **所属领域**: [[devops]]
 

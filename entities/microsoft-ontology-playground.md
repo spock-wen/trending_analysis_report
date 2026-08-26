@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[apache-maka]] [[openclaw-openclaw]] [[ripienaar-free-for-dev]] [[altic-dev-fluidvoice]] [[tashfeenahmed-freellmapi]]
+[[tt-a1i-archify]] [[openclaw-openclaw]] [[conardli-garden-skills]] [[ruvnet-ruflo]] [[apache-maka]]
 
 **所属领域**: [[web]] [[education]]
 

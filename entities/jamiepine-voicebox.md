@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[apache-maka]] [[openclaw-openclaw]] [[alishahryar1-free-claude-code]] [[altic-dev-fluidvoice]]
+[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[openclaw-openclaw]] [[lightricks-ltx-2]] [[apache-maka]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

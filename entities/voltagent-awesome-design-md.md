@@ -34,7 +34,7 @@ A collection of DESIGN.md files analysis by popular brand design systems. Drop o
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[tinyhumansai-openhuman]] [[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]]
 

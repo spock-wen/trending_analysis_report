@@ -38,7 +38,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[microsoft-generative-ai-for-beginners]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]] [[microsoft-ai-for-beginners]]
+[[microsoft-generative-ai-for-beginners]] [[tinyhumansai-openhuman]] [[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]]
 

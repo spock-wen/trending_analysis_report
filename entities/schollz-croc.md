@@ -35,5 +35,5 @@ Easily and securely send things from one computer to another 🐊 📦
 
 ## 相关项目
 
-[[microsoft-typescript]] [[asciimoo-hister]] [[juliusbrussee-caveman]] [[wei-shaw-sub2api]]
+[[asciimoo-hister]] [[wei-shaw-sub2api]] [[juliusbrussee-caveman]] [[microsoft-typescript]]
 

@@ -34,7 +34,7 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[apache-maka]] [[tashfeenahmed-freellmapi]] [[makeplane-plane]] [[anthropics-claude-plugins-official]]
+[[tinyhumansai-openhuman]] [[apache-maka]] [[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]]
 

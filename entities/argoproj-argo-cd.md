@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[juliusbrussee-caveman]] [[ruvnet-ruflo]] [[posthog-posthog]] [[tencent-ai-infra-guard]]
+[[asciimoo-hister]] [[ripienaar-free-for-dev]] [[ruvnet-ruflo]] [[wei-shaw-sub2api]] [[tencent-ai-infra-guard]]
 
 **所属领域**: [[devops]]
 

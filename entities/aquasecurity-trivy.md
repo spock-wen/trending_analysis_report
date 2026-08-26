@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[affaan-m-ecc]] [[juliusbrussee-caveman]] [[tashfeenahmed-freellmapi]] [[mukul975-anthropic-cybersecurity-skills]]
+[[tinyhumansai-openhuman]] [[asciimoo-hister]] [[uber-adr]] [[wei-shaw-sub2api]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

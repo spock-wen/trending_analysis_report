@@ -36,7 +36,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[freestylefly-awesome-gpt-image-2]] [[ruvnet-ruflo]] [[protocolbuffers-protobuf]] [[unslothai-unsloth]]
+[[conardli-garden-skills]] [[k-dense-ai-scientific-agent-skills]] [[posthog-posthog]] [[mahlernim-google-timeline-visualizer]] [[voltagent-awesome-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

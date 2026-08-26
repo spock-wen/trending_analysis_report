@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[alishahryar1-free-claude-code]] [[tauricresearch-tradingagents]] [[makeplane-plane]] [[openai-codex]]
+[[tinyhumansai-openhuman]] [[openai-codex]] [[k-dense-ai-scientific-agent-skills]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -36,7 +36,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[apache-maka]] [[openclaw-openclaw]] [[alishahryar1-free-claude-code]] [[tauricresearch-tradingagents]]
+[[tinyhumansai-openhuman]] [[openclaw-openclaw]] [[openai-codex]] [[apache-maka]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[kepano-obsidian-skills]] [[ruvnet-ruflo]] [[huggingface-transformers]] [[anthropics-claude-plugins-official]]
+[[tinyhumansai-openhuman]] [[ruvnet-ruflo]] [[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

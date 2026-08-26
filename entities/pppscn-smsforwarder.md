@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[ripienaar-free-for-dev]] [[posthog-posthog]] [[hkuds-cli-anything]] [[mahlernim-google-timeline-visualizer]]
+[[tt-a1i-archify]] [[conardli-garden-skills]] [[embabel-embabel-agent]] [[andreknieriem-headunit-revived]] [[bannedbook-fanqiang]]
 
 **所属领域**: [[web]]
 

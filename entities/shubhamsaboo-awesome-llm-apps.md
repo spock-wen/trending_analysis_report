@@ -16,7 +16,6 @@ last_trending: 2026-08-26
 peak_rank: 1
 total_stars: 134209
 language: "Python"
-contested: true
 ---
 
 # Shubhamsaboo/awesome-llm-apps
@@ -39,17 +38,7 @@ contested: true
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[tauricresearch-tradingagents]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[tinyhumansai-openhuman]] [[k-dense-ai-scientific-agent-skills]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]]
-
-
-## ⚠️ 描述变更（2026-08-26）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
-- **新描述**: 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

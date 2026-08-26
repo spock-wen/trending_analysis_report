@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[alishahryar1-free-claude-code]] [[tauricresearch-tradingagents]] [[hugohe3-ppt-master]]
+[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[ruvnet-ruflo]] [[lightricks-ltx-2]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

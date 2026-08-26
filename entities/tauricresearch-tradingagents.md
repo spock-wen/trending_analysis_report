@@ -37,7 +37,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[marin-community-marin]] [[nousresearch-hermes-agent]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]]
+[[tinyhumansai-openhuman]] [[k-dense-ai-scientific-agent-skills]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

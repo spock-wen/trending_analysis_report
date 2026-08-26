@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[ripienaar-free-for-dev]] [[affaan-m-ecc]] [[tashfeenahmed-freellmapi]] [[mukul975-anthropic-cybersecurity-skills]]
+[[tt-a1i-archify]] [[conardli-garden-skills]] [[uber-adr]] [[k-dense-ai-scientific-agent-skills]] [[teslamate-org-teslamate]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

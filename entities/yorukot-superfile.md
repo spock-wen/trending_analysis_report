@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[juliusbrussee-caveman]] [[makeplane-plane]] [[openai-codex]] [[microsoft-typescript]]
+[[asciimoo-hister]] [[openai-codex]] [[wei-shaw-sub2api]] [[alishahryar1-free-claude-code]] [[microsoft-typescript]]
 
 **所属领域**: [[cli]]
 

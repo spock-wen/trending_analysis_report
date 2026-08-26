@@ -34,7 +34,7 @@ AI-assisted TradingView chart analysis — connect Claude Code to your TradingVi
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[affaan-m-ecc]] [[freestylefly-awesome-gpt-image-2]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]]
+[[tinyhumansai-openhuman]] [[dietrichgebert-ponytail]] [[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]]
 

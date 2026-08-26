@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[apache-maka]] [[openclaw-openclaw]] [[ripienaar-free-for-dev]] [[altic-dev-fluidvoice]] [[tashfeenahmed-freellmapi]]
+[[tt-a1i-archify]] [[openclaw-openclaw]] [[conardli-garden-skills]] [[apache-maka]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[web]] [[data]]
 

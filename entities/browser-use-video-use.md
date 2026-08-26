@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[tauricresearch-tradingagents]] [[ripienaar-free-for-dev]] [[posthog-posthog]]
+[[tinyhumansai-openhuman]] [[tt-a1i-archify]] [[conardli-garden-skills]] [[k-dense-ai-scientific-agent-skills]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

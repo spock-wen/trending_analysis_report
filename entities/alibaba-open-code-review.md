@@ -37,7 +37,7 @@ Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture cod
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[juliusbrussee-caveman]] [[posthog-posthog]] [[mahlernim-google-timeline-visualizer]] [[anthropics-claude-plugins-official]]
+[[tinyhumansai-openhuman]] [[asciimoo-hister]] [[tt-a1i-archify]] [[wei-shaw-sub2api]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

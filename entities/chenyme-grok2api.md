@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[alishahryar1-free-claude-code]] [[ripienaar-free-for-dev]] [[juliusbrussee-caveman]] [[posthog-posthog]]
+[[asciimoo-hister]] [[tt-a1i-archify]] [[conardli-garden-skills]] [[openai-codex]] [[wei-shaw-sub2api]]
 
 **所属领域**: [[web]] [[cli]]
 

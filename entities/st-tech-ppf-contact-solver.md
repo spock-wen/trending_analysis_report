@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[tauricresearch-tradingagents]] [[makeplane-plane]] [[openai-codex]] [[anthropics-claude-plugins-official]]
+[[openai-codex]] [[k-dense-ai-scientific-agent-skills]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[cli]]
 

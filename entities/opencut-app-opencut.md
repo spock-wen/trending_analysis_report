@@ -38,5 +38,5 @@ The open-source CapCut alternative
 
 ## 相关项目
 
-[[apache-maka]] [[makeplane-plane]] [[openclaw-openclaw]] [[tashfeenahmed-freellmapi]]
+[[apache-maka]] [[makeplane-plane]] [[tashfeenahmed-freellmapi]] [[openclaw-openclaw]]
 

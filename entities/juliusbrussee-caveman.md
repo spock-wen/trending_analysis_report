@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[anthropics-claude-plugins-official]] [[multica-ai-andrej-karpathy-skills]] [[microsoft-typescript]] [[asciimoo-hister]]
+[[tinyhumansai-openhuman]] [[asciimoo-hister]] [[wei-shaw-sub2api]] [[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

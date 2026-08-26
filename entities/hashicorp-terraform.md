@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[ripienaar-free-for-dev]] [[juliusbrussee-caveman]] [[ruvnet-ruflo]] [[posthog-posthog]]
+[[tinyhumansai-openhuman]] [[asciimoo-hister]] [[ripienaar-free-for-dev]] [[ruvnet-ruflo]] [[wei-shaw-sub2api]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[apache-maka]] [[openclaw-openclaw]] [[ripienaar-free-for-dev]] [[tashfeenahmed-freellmapi]] [[ruvnet-ruflo]]
+[[ripienaar-free-for-dev]] [[openclaw-openclaw]] [[tt-a1i-archify]] [[ruvnet-ruflo]] [[apache-maka]]
 
 **所属领域**: [[data]] [[devops]]
 

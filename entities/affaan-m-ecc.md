@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[marin-community-marin]] [[mukul975-anthropic-cybersecurity-skills]] [[freestylefly-awesome-gpt-image-2]] [[tashfeenahmed-freellmapi]]
+[[tinyhumansai-openhuman]] [[uber-adr]] [[dietrichgebert-ponytail]] [[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

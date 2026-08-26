@@ -34,5 +34,5 @@ Fast, secure, efficient backup program
 
 ## 相关项目
 
-[[microsoft-typescript]] [[asciimoo-hister]] [[juliusbrussee-caveman]] [[wei-shaw-sub2api]]
+[[asciimoo-hister]] [[wei-shaw-sub2api]] [[juliusbrussee-caveman]] [[microsoft-typescript]]
 

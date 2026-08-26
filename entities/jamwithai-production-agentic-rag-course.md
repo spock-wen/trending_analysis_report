@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[tauricresearch-tradingagents]] [[ruvnet-ruflo]] [[huggingface-transformers]] [[anthropics-claude-plugins-official]]
+[[tinyhumansai-openhuman]] [[ruvnet-ruflo]] [[k-dense-ai-scientific-agent-skills]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

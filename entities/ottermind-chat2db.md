@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[github-copilot-sdk]] [[tinyhumansai-openhuman]] [[alishahryar1-free-claude-code]] [[posthog-posthog]] [[apache-cassandra]]
+[[tinyhumansai-openhuman]] [[tt-a1i-archify]] [[openai-codex]] [[github-copilot-sdk]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[ladybirdbrowser-ladybird]] [[altic-dev-fluidvoice]] [[alishahryar1-free-claude-code]] [[ripienaar-free-for-dev]] [[microsoft-onnxruntime]]
+[[tt-a1i-archify]] [[conardli-garden-skills]] [[openai-codex]] [[ladybirdbrowser-ladybird]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[web]] [[cli]]
 

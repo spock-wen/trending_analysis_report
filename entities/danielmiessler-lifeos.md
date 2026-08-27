@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[openclaw-openclaw]] [[openai-codex]] [[apache-maka]] [[k-dense-ai-scientific-agent-skills]]
+[[actions-checkout]] [[alishahryar1-free-claude-code]] [[opencut-app-opencut]] [[anthropics-claude-plugins-official]] [[apache-maka]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

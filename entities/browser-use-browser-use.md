@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[tt-a1i-archify]] [[conardli-garden-skills]] [[k-dense-ai-scientific-agent-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[anthropics-claude-plugins-official]] [[conardli-garden-skills]] [[tauricresearch-tradingagents]] [[rohitg00-ai-engineering-from-scratch]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

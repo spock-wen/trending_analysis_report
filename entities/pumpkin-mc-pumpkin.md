@@ -37,5 +37,5 @@ Empowering everyone to host fast and efficient Minecraft servers.
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[dani-garcia-vaultwarden]] [[aprilnea-openlogi]] [[openai-codex]]
+[[dani-garcia-vaultwarden]] [[tinyhumansai-openhuman]] [[openai-codex]] [[aprilnea-openlogi]]
 

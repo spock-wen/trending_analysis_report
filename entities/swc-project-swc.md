@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[browser-use-browser-use]] [[aprilnea-openlogi]] [[tt-a1i-archify]] [[openai-codex]]
+[[conardli-garden-skills]] [[dani-garcia-vaultwarden]] [[tinyhumansai-openhuman]] [[aprilnea-openlogi]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]]
 

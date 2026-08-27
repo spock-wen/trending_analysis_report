@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[browser-use-browser-use]] [[aprilnea-openlogi]] [[tt-a1i-archify]] [[openai-codex]]
+[[alishahryar1-free-claude-code]] [[basecamp-omarchy]] [[conardli-garden-skills]] [[dani-garcia-vaultwarden]] [[tinyhumansai-openhuman]]
 
 **所属领域**: [[web]] [[cli]]
 

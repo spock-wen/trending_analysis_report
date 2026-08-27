@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[tt-a1i-archify]] [[conardli-garden-skills]] [[openai-codex]] [[k-dense-ai-scientific-agent-skills]]
+[[basecamp-omarchy]] [[anthropics-claude-plugins-official]] [[alishahryar1-free-claude-code]] [[conardli-garden-skills]] [[voltagent-awesome-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

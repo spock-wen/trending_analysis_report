@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[ladybirdbrowser-ladybird]] [[microsoft-onnxruntime]] [[gabime-spdlog]]
+[[protocolbuffers-protobuf]] [[calesthio-openmontage]] [[microsoft-onnxruntime]] [[google-googletest]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[data]]
 

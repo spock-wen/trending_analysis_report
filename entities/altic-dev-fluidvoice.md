@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[jaywcjlove-awesome-mac]] [[tt-a1i-archify]] [[conardli-garden-skills]] [[lightricks-ltx-2]]
+[[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]] [[lightricks-ltx-2]] [[conardli-garden-skills]] [[palmier-io-palmier-pro]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

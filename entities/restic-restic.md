@@ -34,5 +34,5 @@ Fast, secure, efficient backup program
 
 ## 相关项目
 
-[[asciimoo-hister]] [[wei-shaw-sub2api]] [[juliusbrussee-caveman]] [[microsoft-typescript]]
+[[wei-shaw-sub2api]] [[microsoft-typescript]] [[jetbrains-go-modern-guidelines]] [[asciimoo-hister]]
 

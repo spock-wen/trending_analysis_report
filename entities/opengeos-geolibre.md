@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[tt-a1i-archify]] [[openclaw-openclaw]] [[conardli-garden-skills]] [[apache-maka]] [[k-dense-ai-scientific-agent-skills]]
+[[actions-checkout]] [[opencut-app-opencut]] [[apache-maka]] [[conardli-garden-skills]] [[calesthio-openmontage]]
 
 **所属领域**: [[web]] [[data]]
 

@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[tt-a1i-archify]] [[openclaw-openclaw]] [[conardli-garden-skills]] [[ruvnet-ruflo]] [[apache-maka]]
+[[actions-checkout]] [[opencut-app-opencut]] [[apache-maka]] [[conardli-garden-skills]] [[huggingface-transformers]]
 
 **所属领域**: [[web]] [[education]]
 

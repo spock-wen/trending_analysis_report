@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[conardli-garden-skills]] [[k-dense-ai-scientific-agent-skills]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]]
+[[anthropics-claude-plugins-official]] [[conardli-garden-skills]] [[tauricresearch-tradingagents]] [[tinyhumansai-openhuman]] [[tooljet-tooljet]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

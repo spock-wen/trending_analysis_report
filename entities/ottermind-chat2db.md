@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[tt-a1i-archify]] [[openai-codex]] [[github-copilot-sdk]] [[k-dense-ai-scientific-agent-skills]]
+[[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]] [[basecamp-omarchy]] [[calesthio-openmontage]] [[voltagent-awesome-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

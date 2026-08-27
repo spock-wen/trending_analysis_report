@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[tt-a1i-archify]] [[openclaw-openclaw]] [[conardli-garden-skills]] [[openai-codex]] [[apache-maka]]
+[[actions-checkout]] [[alishahryar1-free-claude-code]] [[opencut-app-opencut]] [[basecamp-omarchy]] [[apache-maka]]
 
 **所属领域**: [[web]] [[cli]]
 

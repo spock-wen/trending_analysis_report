@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[openai-codex]] [[alishahryar1-free-claude-code]] [[zhaoxuya520-reverse-skill]] [[basecamp-omarchy]] [[voltagent-awesome-agent-skills]]
+[[alishahryar1-free-claude-code]] [[basecamp-omarchy]] [[zhaoxuya520-reverse-skill]] [[voltagent-awesome-agent-skills]] [[openai-codex]]
 
 **所属领域**: [[cli]]
 

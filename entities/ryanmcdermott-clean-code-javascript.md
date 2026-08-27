@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[freestylefly-awesome-gpt-image-2]] [[tryghost-ghost]]
+[[freestylefly-awesome-gpt-image-2]] [[tt-a1i-archify]] [[thedotmack-claude-mem]] [[dietrichgebert-ponytail]]
 

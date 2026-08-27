@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[openclaw-openclaw]] [[ruvnet-ruflo]] [[openai-codex]] [[apache-maka]]
+[[actions-checkout]] [[alishahryar1-free-claude-code]] [[opencut-app-opencut]] [[anthropics-claude-plugins-official]] [[apache-maka]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

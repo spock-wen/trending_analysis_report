@@ -36,5 +36,5 @@ Google core libraries for Java
 
 ## 相关项目
 
-[[github-copilot-sdk]] [[apache-cassandra]] [[jenkinsci-jenkins]]
+[[jenkinsci-jenkins]] [[github-copilot-sdk]] [[apache-cassandra]]
 

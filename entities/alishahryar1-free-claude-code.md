@@ -38,7 +38,7 @@ Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your 
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[openai-codex]] [[lightricks-ltx-2]] [[k-dense-ai-scientific-agent-skills]]
+[[basecamp-omarchy]] [[anthropics-claude-plugins-official]] [[lightricks-ltx-2]] [[tauricresearch-tradingagents]] [[voltagent-awesome-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

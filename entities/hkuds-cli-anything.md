@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[tt-a1i-archify]] [[conardli-garden-skills]] [[openai-codex]] [[k-dense-ai-scientific-agent-skills]]
+[[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]] [[basecamp-omarchy]] [[conardli-garden-skills]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

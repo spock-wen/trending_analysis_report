@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[openai-codex]] [[uber-adr]] [[ladybirdbrowser-ladybird]] [[alishahryar1-free-claude-code]] [[microsoft-onnxruntime]]
+[[alishahryar1-free-claude-code]] [[protocolbuffers-protobuf]] [[basecamp-omarchy]] [[tashfeenahmed-freellmapi]] [[voltagent-awesome-agent-skills]]
 
 **所属领域**: [[cli]] [[security]]
 

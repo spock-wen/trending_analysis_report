@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[asciimoo-hister]] [[tt-a1i-archify]] [[wei-shaw-sub2api]] [[k-dense-ai-scientific-agent-skills]]
+[[anthropics-claude-plugins-official]] [[wei-shaw-sub2api]] [[calesthio-openmontage]] [[rohitg00-ai-engineering-from-scratch]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

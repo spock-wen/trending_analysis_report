@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[openai-codex]] [[uber-adr]] [[raphire-win11debloat]] [[k-dense-ai-scientific-agent-skills]]
+[[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]] [[basecamp-omarchy]] [[tashfeenahmed-freellmapi]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

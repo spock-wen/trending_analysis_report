@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[embabel-embabel-agent]] [[k-dense-ai-scientific-agent-skills]] [[andreknieriem-headunit-revived]] [[anthropics-claude-plugins-official]]
+[[anthropics-claude-plugins-official]] [[rohitg00-ai-engineering-from-scratch]] [[bannedbook-fanqiang]] [[k-dense-ai-scientific-agent-skills]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]]
 

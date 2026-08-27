@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[altic-dev-fluidvoice]] [[lightricks-ltx-2]] [[ladybirdbrowser-ladybird]] [[k-dense-ai-scientific-agent-skills]]
+[[alishahryar1-free-claude-code]] [[protocolbuffers-protobuf]] [[anthropics-claude-plugins-official]] [[lightricks-ltx-2]] [[microsoft-onnxruntime]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

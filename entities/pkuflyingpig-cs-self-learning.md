@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[tt-a1i-archify]] [[ruvnet-ruflo]] [[conardli-garden-skills]] [[posthog-posthog]]
+[[huggingface-transformers]] [[conardli-garden-skills]] [[cathrynlavery-diagram-design]] [[ripienaar-free-for-dev]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[web]] [[education]]
 

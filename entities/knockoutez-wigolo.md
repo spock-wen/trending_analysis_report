@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[openclaw-openclaw]] [[tt-a1i-archify]] [[conardli-garden-skills]] [[apache-maka]]
+[[actions-checkout]] [[opencut-app-opencut]] [[anthropics-claude-plugins-official]] [[apache-maka]] [[conardli-garden-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -34,5 +34,5 @@ C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[gabime-spdlog]] [[microsoft-onnxruntime]] [[ladybirdbrowser-ladybird]]
+[[protocolbuffers-protobuf]] [[ladybirdbrowser-ladybird]] [[microsoft-onnxruntime]] [[google-googletest]]
 

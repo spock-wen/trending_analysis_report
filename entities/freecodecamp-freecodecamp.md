@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[openclaw-openclaw]] [[ruvnet-ruflo]] [[apache-maka]] [[rohitg00-ai-engineering-from-scratch]] [[kepano-obsidian-skills]]
+[[actions-checkout]] [[opencut-app-opencut]] [[apache-maka]] [[huggingface-transformers]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[education]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[tt-a1i-archify]] [[conardli-garden-skills]] [[posthog-posthog]] [[cathrynlavery-diagram-design]]
+[[pkuflyingpig-cs-self-learning]] [[conardli-garden-skills]] [[cathrynlavery-diagram-design]] [[ripienaar-free-for-dev]] [[trycua-cua]]
 
 **所属领域**: [[web]]
 

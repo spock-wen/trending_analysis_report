@@ -35,5 +35,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[freestylefly-awesome-gpt-image-2]] [[tryghost-ghost]]
+[[freestylefly-awesome-gpt-image-2]] [[tt-a1i-archify]] [[thedotmack-claude-mem]] [[dietrichgebert-ponytail]]
 

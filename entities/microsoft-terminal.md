@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[openai-codex]] [[ladybirdbrowser-ladybird]] [[alishahryar1-free-claude-code]] [[microsoft-onnxruntime]] [[gabime-spdlog]]
+[[alishahryar1-free-claude-code]] [[protocolbuffers-protobuf]] [[basecamp-omarchy]] [[voltagent-awesome-agent-skills]] [[microsoft-onnxruntime]]
 
 **所属领域**: [[cli]]
 

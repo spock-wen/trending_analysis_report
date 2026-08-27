@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[tt-a1i-archify]] [[conardli-garden-skills]] [[posthog-posthog]] [[unslothai-unsloth]]
+[[pkuflyingpig-cs-self-learning]] [[freestylefly-awesome-gpt-image-2]] [[conardli-garden-skills]] [[cathrynlavery-diagram-design]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[web]] [[image-gen]]
 

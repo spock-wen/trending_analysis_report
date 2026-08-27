@@ -35,5 +35,5 @@ NVR with realtime local object detection for IP cameras
 
 ## 相关项目
 
-[[apache-maka]] [[makeplane-plane]] [[tashfeenahmed-freellmapi]] [[openclaw-openclaw]]
+[[actions-checkout]] [[opencut-app-opencut]] [[apache-maka]] [[makeplane-plane]]
 

@@ -34,5 +34,5 @@ Your own search engine
 
 ## 相关项目
 
-[[wei-shaw-sub2api]] [[juliusbrussee-caveman]] [[microsoft-typescript]]
+[[wei-shaw-sub2api]] [[microsoft-typescript]] [[jetbrains-go-modern-guidelines]]
 

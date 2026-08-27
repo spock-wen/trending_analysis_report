@@ -37,5 +37,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[apache-maka]] [[makeplane-plane]] [[tashfeenahmed-freellmapi]] [[openclaw-openclaw]]
+[[actions-checkout]] [[opencut-app-opencut]] [[apache-maka]] [[makeplane-plane]]
 

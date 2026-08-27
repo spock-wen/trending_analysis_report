@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[tinyhumansai-openhuman]] [[openai-codex]] [[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]]
+[[basecamp-omarchy]] [[anthropics-claude-plugins-official]] [[alishahryar1-free-claude-code]] [[voltagent-awesome-agent-skills]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

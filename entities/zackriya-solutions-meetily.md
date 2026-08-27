@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[browser-use-browser-use]] [[aprilnea-openlogi]] [[tt-a1i-archify]] [[openai-codex]]
+[[anthropics-claude-plugins-official]] [[tashfeenahmed-freellmapi]] [[conardli-garden-skills]] [[dani-garcia-vaultwarden]] [[tinyhumansai-openhuman]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[rohitg00-ai-engineering-from-scratch]] [[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]] [[tooljet-tooljet]]
+[[anthropics-claude-plugins-official]] [[tauricresearch-tradingagents]] [[genlayerlabs-genlayer-project-boilerplate]] [[tooljet-tooljet]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[erp]]
 

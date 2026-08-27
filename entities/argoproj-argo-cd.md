@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[asciimoo-hister]] [[ripienaar-free-for-dev]] [[ruvnet-ruflo]] [[wei-shaw-sub2api]] [[tencent-ai-infra-guard]]
+[[wei-shaw-sub2api]] [[ripienaar-free-for-dev]] [[ruvnet-ruflo]] [[jetbrains-go-modern-guidelines]] [[asciimoo-hister]]
 
 **所属领域**: [[devops]]
 

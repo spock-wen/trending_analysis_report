@@ -34,5 +34,5 @@ Godot Engine – Multi-platform 2D and 3D game engine
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[gabime-spdlog]] [[microsoft-onnxruntime]] [[ladybirdbrowser-ladybird]]
+[[protocolbuffers-protobuf]] [[ladybirdbrowser-ladybird]] [[microsoft-onnxruntime]] [[google-googletest]]
 

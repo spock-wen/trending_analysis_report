@@ -35,5 +35,5 @@ A self-hosted travel/trip planner with real-time collaboration, interactive maps
 
 ## 相关项目
 
-[[apache-maka]] [[makeplane-plane]] [[tashfeenahmed-freellmapi]] [[openclaw-openclaw]]
+[[actions-checkout]] [[opencut-app-opencut]] [[apache-maka]] [[makeplane-plane]]
 

@@ -34,5 +34,5 @@ language: "Swift"
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[palmier-io-palmier-pro]] [[permissionlesstech-bitchat]]
+[[permissionlesstech-bitchat]] [[altic-dev-fluidvoice]] [[palmier-io-palmier-pro]]
 

@@ -37,7 +37,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[tt-a1i-archify]] [[conardli-garden-skills]] [[k-dense-ai-scientific-agent-skills]]
+[[anthropics-claude-plugins-official]] [[pkuflyingpig-cs-self-learning]] [[conardli-garden-skills]] [[ripienaar-free-for-dev]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

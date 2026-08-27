@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[tt-a1i-archify]] [[ruvnet-ruflo]] [[github-copilot-sdk]] [[k-dense-ai-scientific-agent-skills]]
+[[calesthio-openmontage]] [[ripienaar-free-for-dev]] [[bilawalsidhu-gods-eye-view]] [[jenkinsci-jenkins]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[data]] [[devops]]
 

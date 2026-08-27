@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[openai-codex]] [[lightricks-ltx-2]] [[k-dense-ai-scientific-agent-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]] [[basecamp-omarchy]] [[lightricks-ltx-2]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[cli]] [[audio]]
 

@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[tt-a1i-archify]] [[ruvnet-ruflo]] [[conardli-garden-skills]] [[k-dense-ai-scientific-agent-skills]]
+[[anthropics-claude-plugins-official]] [[huggingface-transformers]] [[conardli-garden-skills]] [[rohitg00-ai-engineering-from-scratch]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[tt-a1i-archify]] [[conardli-garden-skills]] [[openai-codex]] [[ladybirdbrowser-ladybird]] [[alishahryar1-free-claude-code]]
+[[alishahryar1-free-claude-code]] [[protocolbuffers-protobuf]] [[basecamp-omarchy]] [[conardli-garden-skills]] [[voltagent-awesome-agent-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

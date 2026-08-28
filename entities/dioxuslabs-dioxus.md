@@ -35,7 +35,7 @@ Fullstack app framework for web, desktop, and mobile.
 
 ## 相关项目
 
-[[conardli-garden-skills]] [[dani-garcia-vaultwarden]] [[tinyhumansai-openhuman]] [[aprilnea-openlogi]] [[bilawalsidhu-gods-eye-view]]
+[[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[aprilnea-openlogi]] [[tinyhumansai-openhuman]]
 
 **所属领域**: [[web]]
 

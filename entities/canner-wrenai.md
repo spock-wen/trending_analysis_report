@@ -34,7 +34,7 @@ GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL throug
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]] [[basecamp-omarchy]] [[tauricresearch-tradingagents]] [[calesthio-openmontage]]
+[[basecamp-omarchy]] [[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

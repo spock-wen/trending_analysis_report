@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[conardli-garden-skills]] [[wei-shaw-sub2api]] [[bilawalsidhu-gods-eye-view]] [[jetbrains-go-modern-guidelines]] [[asciimoo-hister]]
+[[jetbrains-go-modern-guidelines]] [[microsoft-typescript]] [[tailscale-tailcat]] [[asciimoo-hister]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]]
 

@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[rohitg00-ai-engineering-from-scratch]] [[penpot-penpot]] [[k-dense-ai-scientific-agent-skills]] [[thedotmack-claude-mem]]
+[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[penpot-penpot]] [[rohitg00-ai-engineering-from-scratch]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

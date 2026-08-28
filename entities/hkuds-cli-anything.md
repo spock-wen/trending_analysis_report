@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]] [[basecamp-omarchy]] [[conardli-garden-skills]] [[tauricresearch-tradingagents]]
+[[basecamp-omarchy]] [[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

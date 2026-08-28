@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[tauricresearch-tradingagents]] [[tinyhumansai-openhuman]] [[rohitg00-ai-engineering-from-scratch]] [[k-dense-ai-scientific-agent-skills]]
+[[anthropics-claude-plugins-official]] [[tauricresearch-tradingagents]] [[tinyhumansai-openhuman]] [[calesthio-openmontage]] [[marin-community-marin]]
 
 **所属领域**: [[science]]
 

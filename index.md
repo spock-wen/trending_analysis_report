@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-08-28 | 总页面：522
+> 最后更新：2026-08-29 | 总页面：527
 
 ## Entities
 
@@ -10,6 +10,8 @@
 - [[3b1b-manim|manim"]] — Animation engine for explanatory math videos
 - [[666ghj-mirofish|MiroFish"]] — A Simple and Universal Swarm Intelligence Engine, Predicting...
 - [[aaif-goose-goose|goose"]] — an open source, extensible AI agent that goes beyond code su... 🔥
+- [[abhigyanpatwari-gitnexus|GitNexus"]] — GitNexus: The Zero-Server Code Intelligence Engine - GitNexu... 🆕
+- [[abi-screenshot-to-code|screenshot-to-code"]] — Drop in a screenshot and convert it to clean code (HTML/Tail... 🆕
 - [[abseil-abseil-cpp|abseil-cpp"]] — Abseil Common Libraries (C++) 🆕
 - [[abus-aikorea-voice-pro|voice-pro"]] — Gradio WebUI for creators and developers, featuring key TTS ...
 - [[actions-checkout|checkout"]] — Action for checking out a repo
@@ -88,7 +90,7 @@
 - [[bytedance-deer-flow|deer-flow"]] — An open-source long-horizon SuperAgent harness that research...
 - [[bytedance-ui-tars-desktop|UI-TARS-desktop"]] — The Open-Source Multimodal AI Agent Stack: Connecting Cuttin...
 - [[cactus-compute-needle|needle"]] — 14MB foundation model for tiny devices; phones, wearables, s... 🔥
-- [[calesthio-openmontage|OpenMontage"]] — World's first open-source, agentic video production system. ...
+- [[calesthio-openmontage|OpenMontage"]] — World's first open-source, agentic video production system. ... 🆕
 - [[can1357-oh-my-pi|oh-my-pi"]] — ⌥ AI Coding agent for the terminal — hash-anchored edits, op...
 - [[canner-wrenai|WrenAI"]] — GenBI (Generative BI) for AI agents, an open-source, governe...
 - [[catchorg-catch2|Catch2"]] — A modern, C++-native, test framework for unit-tests, TDD and... 🆕
@@ -122,7 +124,7 @@
 - [[crosstalk-solutions-project-nomad|project-nomad"]] — Project N.O.M.A.D, is a self-contained, offline survival com...
 - [[crynta-terax-ai|terax-ai"]] — Lightweight (7MB) Terminal-first AI-native dev workspace
 - [[cupy-cupy|cupy"]] — NumPy & SciPy for GPU 🆕
-- [[cursor-plugins|plugins"]] — Cursor plugin specification and official plugins 🔥
+- [[cursor-plugins|plugins"]] — Cursor plugin specification and official plugins
 - [[cypress-io-cypress|cypress"]] — Fast, easy and reliable testing for anything that runs in a ...
 - [[czlonkowski-n8n-mcp|n8n-mcp"]] — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor t... 🆕
 - [[d4vinci-scrapling|Scrapling"]] — 🕷️ An adaptive Web Scraping framework that handles everythin... 🔥
@@ -249,7 +251,7 @@
 - [[juliusbrussee-caveman|caveman"]] — 🪨 why use many token when few token do trick — Claude Code s...
 - [[jundot-omlx|omlx"]] — LLM inference server with continuous batching & SSD caching ... 🔥
 - [[jwasham-coding-interview-university|coding-interview-university"]] — A complete computer science study plan to become a software ...
-- [[k-dense-ai-scientific-agent-skills|scientific-agent-skills"]] — Turn any AI agent into an AI Scientist. The #1 Agent Skills ... 🆕
+- [[k-dense-ai-scientific-agent-skills|scientific-agent-skills"]] — Turn any AI agent into an AI Scientist. The #1 Agent Skills ... 🔥
 - [[k1tbyte-wand-enhancer|Wand-Enhancer"]] — Advanced UX and interoperability extension for Wand (WeMod) ...
 - [[karakeep-app-karakeep|karakeep"]] — A self-hostable bookmark-everything app (links, notes and im...
 - [[karpathy-nn-zero-to-hero|nn-zero-to-hero"]] — Neural Networks: Zero to Hero
@@ -276,7 +278,7 @@
 - [[lightricks-ltx-2|LTX-2"]] — Official Python inference and LoRA trainer package for the L... 🆕
 - [[likec4-likec4|likec4"]] — Visualize, collaborate, and evolve the software architecture... 🔥
 - [[litu54-devops-interview-guide|DevOps-Interview-Guide"]] — DevOps Interview Guide
-- [[livekit-agents|agents"]] — A framework for building realtime voice AI agents 🤖🎙️📹 🆕
+- [[livekit-agents|agents"]] — A framework for building realtime voice AI agents 🤖🎙️📹
 - [[lmcache-lmcache|LMCache"]] — LMCache: Supercharge Your LLM with the Fastest KV Cache Laye... 🆕
 - [[lobehub-lobehub|lobehub"]] — 🤯 LobeHub is your Chief Agent Operator, organizing your agen...
 - [[localsend-localsend|localsend"]] — An open-source cross-platform alternative to AirDrop
@@ -333,6 +335,7 @@
 - [[n8n-io-n8n|n8n"]] — Fair-code workflow automation platform with native AI capabi...
 - [[nanmicoder-mediacrawler|MediaCrawler"]] — 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬...
 - [[nasa-fprime|fprime"]] — F´ - A flight software and embedded systems framework
+- [[nationalsecurityagency-ghidra|ghidra"]] — Ghidra is a software reverse engineering (SRE) framework 🆕
 - [[nesquena-hermes-webui|hermes-webui"]] — Hermes WebUI: The best way to use Hermes Agent from the web ... 🔥
 - [[nicobailon-pi-subagents|pi-subagents"]] — Pi extension for async subagent delegation with truncation, ...
 - [[nirdiamant-agents-towards-production|agents-towards-production"]] — End-to-end, code-first tutorials for building production-gra...
@@ -445,6 +448,8 @@
 - [[supermemoryai-supermemory|supermemory"]] — Memory engine and app that is extremely fast, scalable. The ... 🔥
 - [[supertone-inc-supertonic|supertonic"]] — Lightning-Fast, On-Device, Multilingual TTS running natively...
 - [[swc-project-swc|swc"]] — Rust-based platform for the Web
+- [[swoole-typephp|typephp"]] — Compile PHP to Native Binaries 🆕
+- [[tailscale-tailcat|tailcat"]] — like netcat, but over Tailscale's data plane, without Tailsc... 🆕
 - [[tailscale-tailscale|tailscale"]] — The easiest, most secure way to use WireGuard and 2FA.
 - [[tailwindlabs-tailwindcss|tailwindcss"]] — A utility-first CSS framework for rapid UI development. 🆕
 - [[tapxworld-chinatextbook|ChinaTextbook"]] — 所有小初高、大学PDF教材。
@@ -468,7 +473,7 @@
 - [[truelockmc-streambert|streambert"]] — A cross-platform Electron Desktop App to stream and download... 🆕
 - [[trycua-cua|cua"]] — Scale computer-use 2.0 with open-source drivers, cross-OS fl...
 - [[tryghost-ghost|Ghost"]] — Independent technology for modern publishing, memberships, s...
-- [[tt-a1i-archify|archify"]] — Agent skill for beautiful, verifiable architecture, workflow... 🆕
+- [[tt-a1i-archify|archify"]] — Agent skill for beautiful, verifiable architecture, workflow... 🔥
 - [[tursodatabase-turso|turso"]] — Turso is an in-process SQL database, compatible with SQLite. 🔥
 - [[tw93-pake|Pake"]] — 🤱🏻 Turn any webpage into a desktop app with one command. 🆕
 - [[twentyhq-twenty|twenty"]] — The open alternative to Salesforce, designed for AI.
@@ -504,7 +509,7 @@
 - [[yt-dlp-yt-dlp|yt-dlp"]] — A feature-rich command-line audio/video downloader
 - [[zackriya-solutions-meetily|meetily"]] — Privacy first, AI meeting assistant with 4x faster Parakeet/... 🔥
 - [[zai-org-glm-5|GLM-5"]] — GLM-5: From Vibe Coding to Agentic Engineering 🆕
-- [[zedeus-nitter|nitter"]] — Alternative Twitter front-end 🆕
+- [[zedeus-nitter|nitter"]] — Alternative Twitter front-end
 - [[zeux-meshoptimizer|meshoptimizer"]] — Mesh optimization library that makes meshes smaller and fast... 🆕
 - [[zhaoxuya520-reverse-skill|reverse-skill"]] — Reverse Engineering / Authorized Penetration Testing / Secur... 🔥
 - [[zuodaotech-everyone-can-use-english|everyone-can-use-english"]] — 人人都能用英语

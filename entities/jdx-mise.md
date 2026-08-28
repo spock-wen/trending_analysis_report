@@ -34,5 +34,5 @@ dev tools, env vars, task runner
 
 ## 相关项目
 
-[[dani-garcia-vaultwarden]] [[tinyhumansai-openhuman]] [[openai-codex]] [[aprilnea-openlogi]]
+[[tinyhumansai-openhuman]] [[openai-codex]] [[dani-garcia-vaultwarden]] [[aprilnea-openlogi]]
 

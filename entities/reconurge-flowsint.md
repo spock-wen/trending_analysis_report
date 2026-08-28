@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[actions-checkout]] [[opencut-app-opencut]] [[tashfeenahmed-freellmapi]] [[apache-maka]] [[affaan-m-ecc]]
+[[cursor-plugins]] [[chromedevtools-chrome-devtools-mcp]] [[abhigyanpatwari-gitnexus]] [[mukul975-anthropic-cybersecurity-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

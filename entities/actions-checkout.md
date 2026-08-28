@@ -37,5 +37,5 @@ Action for checking out a repo
 
 ## 相关项目
 
-[[makeplane-plane]] [[opencut-app-opencut]] [[apache-maka]]
+[[tashfeenahmed-freellmapi]] [[cursor-plugins]] [[abhigyanpatwari-gitnexus]] [[chromedevtools-chrome-devtools-mcp]]
 

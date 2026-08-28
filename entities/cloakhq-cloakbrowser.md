@@ -35,7 +35,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[tashfeenahmed-freellmapi]] [[conardli-garden-skills]] [[tauricresearch-tradingagents]] [[genlayerlabs-genlayer-project-boilerplate]]
+[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

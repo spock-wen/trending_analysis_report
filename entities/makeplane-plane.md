@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[actions-checkout]] [[alishahryar1-free-claude-code]] [[opencut-app-opencut]] [[basecamp-omarchy]] [[apache-maka]]
+[[basecamp-omarchy]] [[cursor-plugins]] [[chromedevtools-chrome-devtools-mcp]] [[abhigyanpatwari-gitnexus]] [[tashfeenahmed-freellmapi]]
 
 **所属领域**: [[cli]]
 

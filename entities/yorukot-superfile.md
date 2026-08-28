@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[basecamp-omarchy]] [[wei-shaw-sub2api]] [[voltagent-awesome-agent-skills]] [[jetbrains-go-modern-guidelines]]
+[[basecamp-omarchy]] [[jetbrains-go-modern-guidelines]] [[microsoft-typescript]] [[tailscale-tailcat]] [[asciimoo-hister]]
 
 **所属领域**: [[cli]]
 

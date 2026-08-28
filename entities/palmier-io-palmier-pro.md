@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[rohitg00-ai-engineering-from-scratch]] [[permissionlesstech-bitchat]] [[k-dense-ai-scientific-agent-skills]] [[thedotmack-claude-mem]]
+[[anthropics-claude-plugins-official]] [[altic-dev-fluidvoice]] [[chromedevtools-chrome-devtools-mcp]] [[jaywcjlove-awesome-mac]] [[permissionlesstech-bitchat]]
 
 **所属领域**: [[ai-agent]]
 

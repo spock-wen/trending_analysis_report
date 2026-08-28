@@ -35,7 +35,7 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 
 ## 相关项目
 
-[[actions-checkout]] [[alishahryar1-free-claude-code]] [[opencut-app-opencut]] [[anthropics-claude-plugins-official]] [[apache-maka]]
+[[rohitg00-ai-engineering-from-scratch]] [[cursor-plugins]] [[anthropics-claude-plugins-official]] [[basecamp-omarchy]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

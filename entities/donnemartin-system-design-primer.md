@@ -35,7 +35,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[huggingface-transformers]] [[tauricresearch-tradingagents]] [[rohitg00-ai-engineering-from-scratch]] [[k-dense-ai-scientific-agent-skills]]
+[[anthropics-claude-plugins-official]] [[kepano-obsidian-skills]] [[calesthio-openmontage]] [[huggingface-transformers]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[education]]
 

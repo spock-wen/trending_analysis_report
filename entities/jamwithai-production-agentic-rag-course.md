@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[huggingface-transformers]] [[tauricresearch-tradingagents]] [[rohitg00-ai-engineering-from-scratch]] [[k-dense-ai-scientific-agent-skills]]
+[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[kepano-obsidian-skills]] [[calesthio-openmontage]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[anthropics-claude-plugins-official]] [[alishahryar1-free-claude-code]] [[voltagent-awesome-agent-skills]] [[msitarzewski-agency-agents]]
+[[basecamp-omarchy]] [[obra-superpowers]] [[anthropics-claude-plugins-official]] [[rohitg00-ai-engineering-from-scratch]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

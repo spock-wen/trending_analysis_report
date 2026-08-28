@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[huggingface-transformers]] [[tauricresearch-tradingagents]] [[tinyhumansai-openhuman]] [[rohitg00-ai-engineering-from-scratch]]
+[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tauricresearch-tradingagents]] [[kepano-obsidian-skills]] [[tinyhumansai-openhuman]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

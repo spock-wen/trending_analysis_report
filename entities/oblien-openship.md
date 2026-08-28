@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[actions-checkout]] [[opencut-app-opencut]] [[apache-maka]] [[ripienaar-free-for-dev]] [[ruvnet-ruflo]]
+[[cursor-plugins]] [[chromedevtools-chrome-devtools-mcp]] [[abhigyanpatwari-gitnexus]] [[ripienaar-free-for-dev]] [[tencent-ai-infra-guard]]
 
 **所属领域**: [[devops]]
 

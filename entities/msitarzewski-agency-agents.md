@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[anthropics-claude-plugins-official]] [[alishahryar1-free-claude-code]] [[conardli-garden-skills]] [[voltagent-awesome-agent-skills]]
+[[basecamp-omarchy]] [[obra-superpowers]] [[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

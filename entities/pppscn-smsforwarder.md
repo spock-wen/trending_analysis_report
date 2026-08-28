@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[conardli-garden-skills]] [[bannedbook-fanqiang]] [[bilawalsidhu-gods-eye-view]] [[mahlernim-google-timeline-visualizer]] [[tt-a1i-archify]]
+[[bannedbook-fanqiang]] [[andreknieriem-headunit-revived]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]]
 
 **所属领域**: [[web]]
 

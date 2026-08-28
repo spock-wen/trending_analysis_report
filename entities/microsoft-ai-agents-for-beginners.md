@@ -36,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[anthropics-claude-plugins-official]] [[huggingface-transformers]] [[lyogavin-airllm]] [[rohitg00-ai-engineering-from-scratch]]
+[[anthropics-claude-plugins-official]] [[lyogavin-airllm]] [[chromedevtools-chrome-devtools-mcp]] [[microsoft-ai-for-beginners]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

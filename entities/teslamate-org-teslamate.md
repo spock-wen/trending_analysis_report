@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[calesthio-openmontage]] [[rohitg00-ai-engineering-from-scratch]] [[bilawalsidhu-gods-eye-view]] [[k-dense-ai-scientific-agent-skills]]
+[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[plausible-analytics]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

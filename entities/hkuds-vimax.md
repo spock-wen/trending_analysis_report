@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[conardli-garden-skills]] [[tauricresearch-tradingagents]] [[tooljet-tooljet]] [[rohitg00-ai-engineering-from-scratch]]
+[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[conardli-garden-skills]] [[tooljet-tooljet]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

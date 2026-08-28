@@ -36,7 +36,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[tashfeenahmed-freellmapi]] [[conardli-garden-skills]] [[dani-garcia-vaultwarden]] [[tinyhumansai-openhuman]] [[tooljet-tooljet]]
+[[mukul975-anthropic-cybersecurity-skills]] [[conardli-garden-skills]] [[aprilnea-openlogi]] [[affaan-m-ecc]] [[tinyhumansai-openhuman]]
 
 **所属领域**: [[security]] [[image-gen]]
 

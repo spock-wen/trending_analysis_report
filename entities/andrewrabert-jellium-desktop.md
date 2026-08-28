@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[basecamp-omarchy]] [[dani-garcia-vaultwarden]] [[tinyhumansai-openhuman]] [[voltagent-awesome-agent-skills]]
+[[basecamp-omarchy]] [[voltagent-awesome-agent-skills]] [[abhigyanpatwari-gitnexus]] [[aprilnea-openlogi]] [[tinyhumansai-openhuman]]
 
 **所属领域**: [[cli]]
 

@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]] [[basecamp-omarchy]] [[calesthio-openmontage]] [[voltagent-awesome-agent-skills]]
+[[basecamp-omarchy]] [[anthropics-claude-plugins-official]] [[github-copilot-sdk]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

@@ -35,5 +35,5 @@ a code review TUI with vim keybindings
 
 ## 相关项目
 
-[[dani-garcia-vaultwarden]] [[tinyhumansai-openhuman]] [[openai-codex]] [[aprilnea-openlogi]]
+[[tinyhumansai-openhuman]] [[openai-codex]] [[dani-garcia-vaultwarden]] [[aprilnea-openlogi]]
 

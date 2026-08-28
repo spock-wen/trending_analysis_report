@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[anthropics-claude-plugins-official]] [[alishahryar1-free-claude-code]] [[voltagent-awesome-agent-skills]] [[genlayerlabs-genlayer-project-boilerplate]]
+[[basecamp-omarchy]] [[anthropics-claude-plugins-official]] [[rohitg00-ai-engineering-from-scratch]] [[chromedevtools-chrome-devtools-mcp]] [[abhigyanpatwari-gitnexus]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

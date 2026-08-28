@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[basecamp-omarchy]] [[conardli-garden-skills]] [[voltagent-awesome-agent-skills]] [[bilawalsidhu-gods-eye-view]]
+[[basecamp-omarchy]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]] [[cli]]
 

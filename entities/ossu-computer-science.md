@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[conardli-garden-skills]] [[cathrynlavery-diagram-design]] [[ripienaar-free-for-dev]] [[trycua-cua]]
+[[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[pkuflyingpig-cs-self-learning]] [[abhigyanpatwari-gitnexus]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[web]]
 

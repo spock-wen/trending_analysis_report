@@ -36,7 +36,7 @@ Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[dani-garcia-vaultwarden]] [[tinyhumansai-openhuman]] [[aprilnea-openlogi]] [[rohitg00-ai-engineering-from-scratch]]
+[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[aprilnea-openlogi]] [[tinyhumansai-openhuman]] [[dani-garcia-vaultwarden]]
 
 **所属领域**: [[ai-agent]]
 

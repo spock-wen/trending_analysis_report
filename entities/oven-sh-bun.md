@@ -38,5 +38,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
 
 ## 相关项目
 
-[[dani-garcia-vaultwarden]] [[tinyhumansai-openhuman]] [[openai-codex]] [[aprilnea-openlogi]]
+[[tinyhumansai-openhuman]] [[openai-codex]] [[dani-garcia-vaultwarden]] [[aprilnea-openlogi]]
 

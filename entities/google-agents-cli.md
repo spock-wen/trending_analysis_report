@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]] [[basecamp-omarchy]] [[tauricresearch-tradingagents]] [[voltagent-awesome-agent-skills]]
+[[basecamp-omarchy]] [[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[posthog-posthog]] [[abhigyanpatwari-gitnexus]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[actions-checkout]] [[opencut-app-opencut]] [[apache-maka]] [[conardli-garden-skills]] [[bilawalsidhu-gods-eye-view]]
+[[cursor-plugins]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]]
 

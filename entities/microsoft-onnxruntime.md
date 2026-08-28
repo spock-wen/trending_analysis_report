@@ -34,7 +34,7 @@ ONNX Runtime: cross-platform, high performance ML inferencing and training accel
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[protocolbuffers-protobuf]] [[google-googletest]] [[rohitg00-ai-engineering-from-scratch]] [[k-dense-ai-scientific-agent-skills]]
+[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[protocolbuffers-protobuf]] [[google-googletest]] [[ladybirdbrowser-ladybird]]
 
 **所属领域**: [[ai-agent]]
 

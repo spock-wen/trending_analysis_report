@@ -35,7 +35,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[conardli-garden-skills]] [[microsoft-onnxruntime]] [[google-googletest]] [[bilawalsidhu-gods-eye-view]]
+[[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[google-googletest]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]]
 

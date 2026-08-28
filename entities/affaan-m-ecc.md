@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[tashfeenahmed-freellmapi]] [[dietrichgebert-ponytail]] [[tauricresearch-tradingagents]] [[tinyhumansai-openhuman]]
+[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[tauricresearch-tradingagents]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

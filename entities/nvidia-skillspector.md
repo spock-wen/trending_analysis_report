@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[tashfeenahmed-freellmapi]] [[tauricresearch-tradingagents]] [[rohitg00-ai-engineering-from-scratch]] [[k-dense-ai-scientific-agent-skills]]
+[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[mukul975-anthropic-cybersecurity-skills]] [[affaan-m-ecc]] [[tashfeenahmed-freellmapi]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

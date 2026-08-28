@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[actions-checkout]] [[opencut-app-opencut]] [[apache-maka]] [[conardli-garden-skills]] [[calesthio-openmontage]]
+[[cursor-plugins]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]] [[data]]
 

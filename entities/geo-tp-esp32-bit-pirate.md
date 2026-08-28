@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[protocolbuffers-protobuf]] [[basecamp-omarchy]] [[conardli-garden-skills]] [[voltagent-awesome-agent-skills]]
+[[basecamp-omarchy]] [[chromedevtools-chrome-devtools-mcp]] [[protocolbuffers-protobuf]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]]
 
 **所属领域**: [[web]] [[cli]]
 

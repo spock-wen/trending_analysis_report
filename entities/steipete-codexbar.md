@@ -36,7 +36,7 @@ Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[palmier-io-palmier-pro]] [[rohitg00-ai-engineering-from-scratch]] [[permissionlesstech-bitchat]] [[k-dense-ai-scientific-agent-skills]]
+[[anthropics-claude-plugins-official]] [[altic-dev-fluidvoice]] [[chromedevtools-chrome-devtools-mcp]] [[jaywcjlove-awesome-mac]] [[permissionlesstech-bitchat]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture cod
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[wei-shaw-sub2api]] [[calesthio-openmontage]] [[rohitg00-ai-engineering-from-scratch]] [[bilawalsidhu-gods-eye-view]]
+[[anthropics-claude-plugins-official]] [[jetbrains-go-modern-guidelines]] [[microsoft-typescript]] [[tailscale-tailcat]] [[asciimoo-hister]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

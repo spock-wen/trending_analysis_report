@@ -35,7 +35,7 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[actions-checkout]] [[alishahryar1-free-claude-code]] [[opencut-app-opencut]] [[anthropics-claude-plugins-official]] [[apache-maka]]
+[[rohitg00-ai-engineering-from-scratch]] [[cursor-plugins]] [[anthropics-claude-plugins-official]] [[basecamp-omarchy]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

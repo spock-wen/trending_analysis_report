@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[pkuflyingpig-cs-self-learning]] [[freestylefly-awesome-gpt-image-2]] [[conardli-garden-skills]] [[cathrynlavery-diagram-design]]
+[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[pkuflyingpig-cs-self-learning]] [[abhigyanpatwari-gitnexus]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

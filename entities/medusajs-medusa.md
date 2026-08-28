@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[actions-checkout]] [[opencut-app-opencut]] [[apache-maka]] [[genlayerlabs-genlayer-project-boilerplate]] [[tooljet-tooljet]]
+[[cursor-plugins]] [[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]] [[abhigyanpatwari-gitnexus]] [[tooljet-tooljet]]
 
 **所属领域**: [[erp]]
 

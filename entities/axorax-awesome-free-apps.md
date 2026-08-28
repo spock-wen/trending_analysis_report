@@ -36,5 +36,5 @@ Curated list of the best free apps for PC and mobile
 
 ## 相关项目
 
-[[freestylefly-awesome-gpt-image-2]] [[tt-a1i-archify]] [[thedotmack-claude-mem]] [[dietrichgebert-ponytail]]
+[[tt-a1i-archify]] [[freestylefly-awesome-gpt-image-2]] [[bilawalsidhu-gods-eye-view]] [[dietrichgebert-ponytail]]
 

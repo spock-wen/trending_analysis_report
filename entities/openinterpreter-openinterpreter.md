@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[dani-garcia-vaultwarden]] [[tinyhumansai-openhuman]] [[genlayerlabs-genlayer-project-boilerplate]] [[aprilnea-openlogi]]
+[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]] [[aprilnea-openlogi]] [[tinyhumansai-openhuman]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

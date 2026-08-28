@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[huggingface-transformers]] [[conardli-garden-skills]] [[cathrynlavery-diagram-design]] [[ripienaar-free-for-dev]] [[rohitg00-ai-engineering-from-scratch]]
+[[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[ripienaar-free-for-dev]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]] [[education]]
 

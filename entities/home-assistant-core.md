@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[tashfeenahmed-freellmapi]] [[tauricresearch-tradingagents]] [[rohitg00-ai-engineering-from-scratch]] [[k-dense-ai-scientific-agent-skills]]
+[[anthropics-claude-plugins-official]] [[mukul975-anthropic-cybersecurity-skills]] [[affaan-m-ecc]] [[tashfeenahmed-freellmapi]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[security]]
 

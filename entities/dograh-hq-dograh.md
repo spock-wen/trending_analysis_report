@@ -34,7 +34,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]] [[lightricks-ltx-2]] [[tauricresearch-tradingagents]] [[rohitg00-ai-engineering-from-scratch]]
+[[anthropics-claude-plugins-official]] [[altic-dev-fluidvoice]] [[chromedevtools-chrome-devtools-mcp]] [[lightricks-ltx-2]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

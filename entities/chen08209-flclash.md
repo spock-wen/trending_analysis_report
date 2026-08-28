@@ -35,7 +35,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[flutter-flutter]] [[alishahryar1-free-claude-code]] [[basecamp-omarchy]] [[voltagent-awesome-agent-skills]] [[localsend-localsend]]
+[[basecamp-omarchy]] [[localsend-localsend]] [[abhigyanpatwari-gitnexus]] [[flutter-flutter]] [[voltagent-awesome-agent-skills]]
 
 **所属领域**: [[cli]]
 

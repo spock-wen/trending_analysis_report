@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[actions-checkout]] [[opencut-app-opencut]] [[anthropics-claude-plugins-official]] [[apache-maka]] [[conardli-garden-skills]]
+[[rohitg00-ai-engineering-from-scratch]] [[cursor-plugins]] [[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[abhigyanpatwari-gitnexus]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

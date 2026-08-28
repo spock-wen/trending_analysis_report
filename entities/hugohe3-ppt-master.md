@@ -35,7 +35,7 @@ AI turns documents or topics into real, native PowerPoint decks—with native sh
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]] [[lightricks-ltx-2]] [[tauricresearch-tradingagents]] [[calesthio-openmontage]]
+[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[altic-dev-fluidvoice]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]]
 
 **所属领域**: [[ai-agent]] [[data]] [[erp]] [[audio]]
 

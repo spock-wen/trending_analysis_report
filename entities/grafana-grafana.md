@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[actions-checkout]] [[opencut-app-opencut]] [[apache-maka]] [[calesthio-openmontage]] [[ripienaar-free-for-dev]]
+[[cursor-plugins]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[data]] [[devops]]
 

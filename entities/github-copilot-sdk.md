@@ -38,7 +38,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[apache-cassandra]] [[rohitg00-ai-engineering-from-scratch]] [[jenkinsci-jenkins]] [[k-dense-ai-scientific-agent-skills]]
+[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[google-guava]] [[jenkinsci-jenkins]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[ai-agent]]
 

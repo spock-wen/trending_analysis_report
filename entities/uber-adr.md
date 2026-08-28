@@ -35,7 +35,7 @@ ADR secures enterprise AI agents through observability, security benchmarking, a
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[tashfeenahmed-freellmapi]] [[tauricresearch-tradingagents]] [[genlayerlabs-genlayer-project-boilerplate]] [[ripienaar-free-for-dev]]
+[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]] [[mukul975-anthropic-cybersecurity-skills]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[security]] [[erp]]
 

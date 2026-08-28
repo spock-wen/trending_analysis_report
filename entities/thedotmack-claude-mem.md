@@ -35,7 +35,7 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[dietrichgebert-ponytail]] [[rohitg00-ai-engineering-from-scratch]] [[k-dense-ai-scientific-agent-skills]] [[freestylefly-awesome-gpt-image-2]]
+[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[bilawalsidhu-gods-eye-view]] [[dietrichgebert-ponytail]]
 
 **所属领域**: [[ai-agent]]
 

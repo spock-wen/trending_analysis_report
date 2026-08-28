@@ -35,5 +35,5 @@ DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 
 ## 相关项目
 
-[[opa334-dopamine]] [[harbourmasters-lighthouse]] [[microsoft-powertoys]]
+[[harbourmasters-lighthouse]] [[opa334-dopamine]] [[microsoft-powertoys]]
 

@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[basecamp-omarchy]] [[conardli-garden-skills]] [[dani-garcia-vaultwarden]] [[tinyhumansai-openhuman]]
+[[basecamp-omarchy]] [[voltagent-awesome-agent-skills]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]]
 
 **所属领域**: [[web]] [[cli]]
 

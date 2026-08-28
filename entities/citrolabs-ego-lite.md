@@ -38,7 +38,7 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[conardli-garden-skills]] [[dietrichgebert-ponytail]] [[rohitg00-ai-engineering-from-scratch]] [[bilawalsidhu-gods-eye-view]]
+[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

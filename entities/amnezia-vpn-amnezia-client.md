@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[protocolbuffers-protobuf]] [[basecamp-omarchy]] [[tashfeenahmed-freellmapi]] [[voltagent-awesome-agent-skills]]
+[[basecamp-omarchy]] [[protocolbuffers-protobuf]] [[abhigyanpatwari-gitnexus]] [[mukul975-anthropic-cybersecurity-skills]] [[google-googletest]]
 
 **所属领域**: [[cli]] [[security]]
 

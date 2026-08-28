@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[huggingface-transformers]] [[conardli-garden-skills]] [[rohitg00-ai-engineering-from-scratch]] [[bilawalsidhu-gods-eye-view]]
+[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

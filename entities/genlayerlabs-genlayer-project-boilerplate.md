@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[actions-checkout]] [[opencut-app-opencut]] [[apache-maka]] [[tooljet-tooljet]] [[hugohe3-ppt-master]]
+[[cursor-plugins]] [[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]] [[abhigyanpatwari-gitnexus]] [[tooljet-tooljet]]
 
 **所属领域**: [[erp]]
 

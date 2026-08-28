@@ -36,7 +36,7 @@ JavaScript in-page GUI agent. Control web interfaces with natural language.
 
 ## 相关项目
 
-[[actions-checkout]] [[opencut-app-opencut]] [[anthropics-claude-plugins-official]] [[apache-maka]] [[conardli-garden-skills]]
+[[rohitg00-ai-engineering-from-scratch]] [[cursor-plugins]] [[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

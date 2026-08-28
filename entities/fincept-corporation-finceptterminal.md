@@ -35,7 +35,7 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[anthropics-claude-plugins-official]] [[basecamp-omarchy]] [[tauricresearch-tradingagents]] [[calesthio-openmontage]]
+[[basecamp-omarchy]] [[anthropics-claude-plugins-official]] [[tt-a1i-archify]] [[tauricresearch-tradingagents]] [[abhigyanpatwari-gitnexus]]
 
 **所属领域**: [[cli]] [[data]] [[science]]
 

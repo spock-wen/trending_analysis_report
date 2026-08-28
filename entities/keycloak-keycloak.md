@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[tashfeenahmed-freellmapi]] [[apache-cassandra]] [[jenkinsci-jenkins]] [[affaan-m-ecc]] [[github-copilot-sdk]]
+[[github-copilot-sdk]] [[google-guava]] [[jenkinsci-jenkins]] [[mukul975-anthropic-cybersecurity-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

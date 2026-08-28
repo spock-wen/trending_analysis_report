@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[voltagent-awesome-agent-skills]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[mattpocock-skills]]
+[[obra-superpowers]] [[abhigyanpatwari-gitnexus]] [[mattpocock-skills]] [[msitarzewski-agency-agents]] [[voltagent-awesome-agent-skills]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[freestylefly-awesome-gpt-image-2]] [[conardli-garden-skills]] [[cathrynlavery-diagram-design]] [[ripienaar-free-for-dev]]
+[[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[pkuflyingpig-cs-self-learning]] [[abhigyanpatwari-gitnexus]] [[conardli-garden-skills]]
 
 **所属领域**: [[web]] [[image-gen]]
 

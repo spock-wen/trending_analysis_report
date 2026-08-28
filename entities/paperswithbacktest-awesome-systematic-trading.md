@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[huggingface-transformers]] [[tauricresearch-tradingagents]] [[tinyhumansai-openhuman]] [[rohitg00-ai-engineering-from-scratch]]
+[[anthropics-claude-plugins-official]] [[tauricresearch-tradingagents]] [[kepano-obsidian-skills]] [[tinyhumansai-openhuman]] [[calesthio-openmontage]]
 
 **所属领域**: [[education]] [[science]]
 

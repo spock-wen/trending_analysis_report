@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[protocolbuffers-protobuf]] [[anthropics-claude-plugins-official]] [[lightricks-ltx-2]] [[microsoft-onnxruntime]]
+[[anthropics-claude-plugins-official]] [[altic-dev-fluidvoice]] [[chromedevtools-chrome-devtools-mcp]] [[protocolbuffers-protobuf]] [[google-googletest]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

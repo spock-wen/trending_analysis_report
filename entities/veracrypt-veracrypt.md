@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[tashfeenahmed-freellmapi]] [[opa334-dopamine]] [[harbourmasters-lighthouse]] [[affaan-m-ecc]] [[mukul975-anthropic-cybersecurity-skills]]
+[[harbourmasters-lighthouse]] [[opa334-dopamine]] [[microsoft-powertoys]] [[mukul975-anthropic-cybersecurity-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

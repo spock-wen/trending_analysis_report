@@ -36,7 +36,7 @@ Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli
 
 ## 相关项目
 
-[[tashfeenahmed-freellmapi]] [[wei-shaw-sub2api]] [[jetbrains-go-modern-guidelines]] [[asciimoo-hister]] [[affaan-m-ecc]]
+[[jetbrains-go-modern-guidelines]] [[microsoft-typescript]] [[tailscale-tailcat]] [[asciimoo-hister]] [[mukul975-anthropic-cybersecurity-skills]]
 
 **所属领域**: [[security]]
 

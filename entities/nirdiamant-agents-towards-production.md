@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[anthropics-claude-plugins-official]] [[huggingface-transformers]] [[lyogavin-airllm]] [[genlayerlabs-genlayer-project-boilerplate]]
+[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[lyogavin-airllm]] [[chromedevtools-chrome-devtools-mcp]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[conardli-garden-skills]] [[dietrichgebert-ponytail]] [[tooljet-tooljet]] [[bilawalsidhu-gods-eye-view]] [[browser-use-browser-use]]
+[[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[conardli-garden-skills]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]] [[image-gen]]
 

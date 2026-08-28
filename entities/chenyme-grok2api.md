@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[basecamp-omarchy]] [[conardli-garden-skills]] [[wei-shaw-sub2api]] [[voltagent-awesome-agent-skills]]
+[[basecamp-omarchy]] [[jetbrains-go-modern-guidelines]] [[microsoft-typescript]] [[tailscale-tailcat]] [[asciimoo-hister]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -1,7 +1,7 @@
 ---
 title: "TypeScript Ecosystem Surge"
 created: 2026-06-08
-updated: 2026-08-25
+updated: 2026-08-29
 type: concept
 tags: [typescript, surge]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 信号概述
 
-2026-08-25 检测到 TypeScript 领域有 4 个项目同时上榜，表明该语言生态近期活跃度显著上升。
+2026-08-29 检测到 TypeScript 领域有 4 个项目同时上榜，表明该语言生态近期活跃度显著上升。
 
 ## 上榜项目（4 个）
 
-[[makeplane-plane]] [[apache-maka]] [[openclaw-openclaw]] [[tashfeenahmed-freellmapi]]
+[[abhigyanpatwari-gitnexus]] [[cursor-plugins]] [[tashfeenahmed-freellmapi]] [[chromedevtools-chrome-devtools-mcp]]
 
 ## 语言分布
 

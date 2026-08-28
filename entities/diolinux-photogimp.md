@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[conardli-garden-skills]] [[nutlope-hallmark]] [[genlayerlabs-genlayer-project-boilerplate]] [[tooljet-tooljet]] [[bilawalsidhu-gods-eye-view]]
+[[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[conardli-garden-skills]]
 
 **所属领域**: [[web]] [[erp]]
 

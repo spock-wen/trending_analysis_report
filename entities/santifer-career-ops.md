@@ -38,7 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[anthropics-claude-plugins-official]] [[voltagent-awesome-agent-skills]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]]
+[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[thu-maic-openmaic]] [[basecamp-omarchy]] [[bigskysoftware-htmx]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

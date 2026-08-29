@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[tt-a1i-archify]] [[freestylefly-awesome-gpt-image-2]] [[bilawalsidhu-gods-eye-view]] [[dietrichgebert-ponytail]]
+[[addyosmani-agent-skills]] [[bigskysoftware-htmx]] [[bilawalsidhu-gods-eye-view]] [[tt-a1i-archify]]
 

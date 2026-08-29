@@ -38,7 +38,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tinyhumansai-openhuman]] [[calesthio-openmontage]] [[marin-community-marin]]
+[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[marin-community-marin]] [[p-e-w-heretic]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

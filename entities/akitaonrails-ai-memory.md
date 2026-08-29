@@ -36,7 +36,7 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[anthropics-claude-plugins-official]] [[voltagent-awesome-agent-skills]] [[chromedevtools-chrome-devtools-mcp]] [[abhigyanpatwari-gitnexus]]
+[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[thu-maic-openmaic]] [[basecamp-omarchy]] [[dani-garcia-vaultwarden]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

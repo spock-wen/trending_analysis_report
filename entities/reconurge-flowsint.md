@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[cursor-plugins]] [[chromedevtools-chrome-devtools-mcp]] [[abhigyanpatwari-gitnexus]] [[mukul975-anthropic-cybersecurity-skills]] [[affaan-m-ecc]]
+[[thu-maic-openmaic]] [[chromedevtools-chrome-devtools-mcp]] [[tashfeenahmed-freellmapi]] [[affaan-m-ecc]] [[every-app-open-seo]]
 
 **所属领域**: [[security]]
 

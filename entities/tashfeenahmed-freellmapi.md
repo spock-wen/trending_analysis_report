@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[cursor-plugins]] [[chromedevtools-chrome-devtools-mcp]] [[abhigyanpatwari-gitnexus]] [[mukul975-anthropic-cybersecurity-skills]]
+[[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[calesthio-openmontage]] [[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

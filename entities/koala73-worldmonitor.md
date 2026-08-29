@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[cursor-plugins]] [[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[abhigyanpatwari-gitnexus]]
+[[posthog-posthog]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[calesthio-openmontage]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

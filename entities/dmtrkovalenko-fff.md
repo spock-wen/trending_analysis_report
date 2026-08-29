@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[aprilnea-openlogi]] [[tinyhumansai-openhuman]] [[dani-garcia-vaultwarden]]
+[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[dani-garcia-vaultwarden]] [[tinyhumansai-openhuman]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

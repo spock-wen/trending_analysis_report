@@ -38,7 +38,7 @@ Give Claude the ability to watch any video. /watch downloads, extracts frames, t
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[calesthio-openmontage]] [[rohitg00-ai-engineering-from-scratch]] [[k-dense-ai-scientific-agent-skills]]
+[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[p-e-w-heretic]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]]
 

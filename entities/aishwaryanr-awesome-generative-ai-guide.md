@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[tauricresearch-tradingagents]] [[pkuflyingpig-cs-self-learning]]
+[[tauricresearch-tradingagents]] [[addyosmani-agent-skills]] [[calesthio-openmontage]] [[bigskysoftware-htmx]] [[pkuflyingpig-cs-self-learning]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

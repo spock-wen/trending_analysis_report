@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[chromedevtools-chrome-devtools-mcp]] [[protocolbuffers-protobuf]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]]
+[[protocolbuffers-protobuf]] [[basecamp-omarchy]] [[thu-maic-openmaic]] [[bigskysoftware-htmx]] [[tt-a1i-archify]]
 
 **所属领域**: [[web]] [[cli]]
 

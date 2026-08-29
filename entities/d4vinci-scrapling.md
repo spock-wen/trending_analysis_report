@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[bilawalsidhu-gods-eye-view]]
+[[calesthio-openmontage]] [[bigskysoftware-htmx]] [[tt-a1i-archify]] [[abi-screenshot-to-code]] [[p-e-w-heretic]]
 
 **所属领域**: [[web]]
 

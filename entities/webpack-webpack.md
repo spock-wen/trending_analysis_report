@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[conardli-garden-skills]] [[bilawalsidhu-gods-eye-view]]
+[[addyosmani-agent-skills]] [[unslothai-unsloth]] [[bigskysoftware-htmx]] [[tt-a1i-archify]] [[freestylefly-awesome-gpt-image-2]]
 
 **所属领域**: [[web]] [[image-gen]]
 

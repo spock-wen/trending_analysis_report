@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]] [[par274-sharpemu]]
+[[addyosmani-agent-skills]] [[k1tbyte-wand-enhancer]] [[jellyfin-jellyfin]] [[calesthio-openmontage]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[ai-agent]]
 

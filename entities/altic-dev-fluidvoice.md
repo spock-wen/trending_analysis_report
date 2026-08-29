@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[jaywcjlove-awesome-mac]] [[abhigyanpatwari-gitnexus]]
+[[addyosmani-agent-skills]] [[anthropics-claude-plugins-official]] [[calesthio-openmontage]] [[livekit-agents]] [[bigskysoftware-htmx]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

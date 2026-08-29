@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[anthropics-claude-plugins-official]] [[altic-dev-fluidvoice]] [[abhigyanpatwari-gitnexus]] [[lightricks-ltx-2]]
+[[calesthio-openmontage]] [[thu-maic-openmaic]] [[basecamp-omarchy]] [[livekit-agents]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[cli]] [[audio]]
 

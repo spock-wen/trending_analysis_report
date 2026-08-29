@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[conardli-garden-skills]] [[bilawalsidhu-gods-eye-view]]
+[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[unslothai-unsloth]] [[freestylefly-awesome-gpt-image-2]] [[tt-a1i-archify]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

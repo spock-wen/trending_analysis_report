@@ -35,7 +35,7 @@ Hundreds of models & providers. One command to find what runs on your hardware.
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[anthropics-claude-plugins-official]] [[voltagent-awesome-agent-skills]] [[chromedevtools-chrome-devtools-mcp]] [[abhigyanpatwari-gitnexus]]
+[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[thu-maic-openmaic]] [[basecamp-omarchy]] [[dani-garcia-vaultwarden]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

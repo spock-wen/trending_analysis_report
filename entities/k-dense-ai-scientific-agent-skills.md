@@ -1,55 +1,54 @@
 ---
 title: "K-Dense-AI/scientific-agent-skills"
 created: 2026-05-16
-updated: 2026-08-29
-last_active: 2026-08-29
+updated: 2026-08-30
+last_active: 2026-08-30
 type: tool
 tags: [python, ai-agent, data, science, rising]
-sources: [raw/trending/2026-08-29.json]
+sources: [raw/trending/2026-08-30.json]
 confidence: high
-trending_count_daily: 7
+trending_count_daily: 8
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 3
+consecutive_days: 4
 first_trending: 2026-05-16
-last_trending: 2026-08-29
+last_trending: 2026-08-30
 peak_rank: 2
-total_stars: 36522
+total_stars: 37905
 language: "Python"
-contested: true
 ---
 
 # K-Dense-AI/scientific-agent-skills
 
-Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
 
 - 语言: Python
-- 上榜次数: 7 次
-- 连续上榜: 3 天
+- 上榜次数: 8 次
+- 连续上榜: 4 天
 - 最高排名: #2
 - 链接: [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
 
 ## 上榜历史
 
+  - 2026-08-30: #3, +1604⭐
   - 2026-08-29: #2, +720⭐
   - 2026-08-28: #7, +494⭐
   - 2026-08-27: #14, +130⭐
   - 2026-05-19: #4, +609⭐
-  - 2026-05-18: #10, +764⭐
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[tinyhumansai-openhuman]] [[bilawalsidhu-gods-eye-view]]
+[[tauricresearch-tradingagents]] [[calesthio-openmontage]] [[addyosmani-agent-skills]] [[tt-a1i-archify]] [[marin-community-marin]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 
 
-## ⚠️ 描述变更（2026-08-27）
+## ⚠️ 描述变更（2026-08-30）
 
 该项目描述近期发生过重大变化，可能存在定位调整：
 
-- **旧描述**: A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
-- **新描述**: Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+- **旧描述**: Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+- **新描述**: Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
 
 > 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

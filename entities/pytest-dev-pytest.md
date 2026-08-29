@@ -34,5 +34,5 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[calesthio-openmontage]] [[k-dense-ai-scientific-agent-skills]]
+[[anthropics-claude-plugins-official]] [[p-e-w-heretic]] [[calesthio-openmontage]] [[k-dense-ai-scientific-agent-skills]]
 

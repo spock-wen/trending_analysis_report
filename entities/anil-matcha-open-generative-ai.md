@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[conardli-garden-skills]] [[bilawalsidhu-gods-eye-view]]
+[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[unslothai-unsloth]] [[bigskysoftware-htmx]] [[tt-a1i-archify]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

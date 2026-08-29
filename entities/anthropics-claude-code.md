@@ -38,7 +38,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[abhigyanpatwari-gitnexus]] [[calesthio-openmontage]]
+[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[basecamp-omarchy]] [[p-e-w-heretic]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

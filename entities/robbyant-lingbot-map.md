@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[tt-a1i-archify]] [[bilawalsidhu-gods-eye-view]] [[calesthio-openmontage]] [[rohitg00-ai-engineering-from-scratch]]
+[[calesthio-openmontage]] [[tt-a1i-archify]] [[p-e-w-heretic]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[data]]
 

@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[cursor-plugins]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]]
+[[basecamp-omarchy]] [[thu-maic-openmaic]] [[chromedevtools-chrome-devtools-mcp]] [[bigskysoftware-htmx]] [[tt-a1i-archify]]
 
 **所属领域**: [[web]] [[cli]]
 

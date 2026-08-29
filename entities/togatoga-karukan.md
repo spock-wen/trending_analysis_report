@@ -34,5 +34,5 @@ Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engi
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[openai-codex]] [[dani-garcia-vaultwarden]] [[aprilnea-openlogi]]
+[[dani-garcia-vaultwarden]] [[openai-codex]] [[tinyhumansai-openhuman]] [[aprilnea-openlogi]]
 

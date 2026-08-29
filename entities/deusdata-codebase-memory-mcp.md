@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[harbourmasters-lighthouse]] [[anthropics-claude-plugins-official]] [[opa334-dopamine]] [[microsoft-powertoys]] [[chromedevtools-chrome-devtools-mcp]]
+[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[tt-a1i-archify]] [[opa334-dopamine]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[tauricresearch-tradingagents]] [[abhigyanpatwari-gitnexus]]
+[[tauricresearch-tradingagents]] [[calesthio-openmontage]] [[addyosmani-agent-skills]] [[bigskysoftware-htmx]] [[tt-a1i-archify]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

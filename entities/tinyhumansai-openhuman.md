@@ -38,7 +38,7 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tauricresearch-tradingagents]] [[aprilnea-openlogi]] [[dani-garcia-vaultwarden]]
+[[tauricresearch-tradingagents]] [[addyosmani-agent-skills]] [[calesthio-openmontage]] [[marin-community-marin]] [[dani-garcia-vaultwarden]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

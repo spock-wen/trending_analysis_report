@@ -36,7 +36,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[cursor-plugins]] [[anthropics-claude-plugins-official]] [[basecamp-omarchy]] [[chromedevtools-chrome-devtools-mcp]]
+[[tauricresearch-tradingagents]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[calesthio-openmontage]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

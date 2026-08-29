@@ -37,7 +37,7 @@ The open-source alternative to Claude Cowork (powered by opencode)
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[cursor-plugins]] [[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[abhigyanpatwari-gitnexus]]
+[[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[calesthio-openmontage]] [[chromedevtools-chrome-devtools-mcp]] [[every-app-open-seo]]
 
 **所属领域**: [[ai-agent]]
 

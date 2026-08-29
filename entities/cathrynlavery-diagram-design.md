@@ -37,7 +37,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[pkuflyingpig-cs-self-learning]] [[abhigyanpatwari-gitnexus]]
+[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[bigskysoftware-htmx]] [[pkuflyingpig-cs-self-learning]] [[tt-a1i-archify]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

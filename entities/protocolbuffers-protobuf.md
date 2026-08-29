@@ -35,7 +35,7 @@ Protocol Buffers - Google's data interchange format
 
 ## 相关项目
 
-[[tt-a1i-archify]] [[google-googletest]] [[bilawalsidhu-gods-eye-view]] [[calesthio-openmontage]] [[microsoft-onnxruntime]]
+[[calesthio-openmontage]] [[tt-a1i-archify]] [[google-googletest]] [[microsoft-onnxruntime]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[data]]
 

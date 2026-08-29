@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[cursor-plugins]] [[chromedevtools-chrome-devtools-mcp]] [[abhigyanpatwari-gitnexus]] [[ripienaar-free-for-dev]] [[tencent-ai-infra-guard]]
+[[posthog-posthog]] [[thu-maic-openmaic]] [[chromedevtools-chrome-devtools-mcp]] [[ruvnet-ruflo]] [[tencent-ai-infra-guard]]
 
 **所属领域**: [[devops]]
 

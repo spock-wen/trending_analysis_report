@@ -37,7 +37,7 @@ Official Python inference and LoRA trainer package for the LTX-2 audio–video g
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[altic-dev-fluidvoice]] [[chromedevtools-chrome-devtools-mcp]] [[calesthio-openmontage]] [[livekit-agents]]
+[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[livekit-agents]] [[altic-dev-fluidvoice]] [[p-e-w-heretic]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

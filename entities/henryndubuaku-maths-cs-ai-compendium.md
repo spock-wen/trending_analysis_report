@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[cursor-plugins]] [[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tauricresearch-tradingagents]]
+[[tauricresearch-tradingagents]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[calesthio-openmontage]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

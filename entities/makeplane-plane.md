@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[cursor-plugins]] [[chromedevtools-chrome-devtools-mcp]] [[abhigyanpatwari-gitnexus]] [[tashfeenahmed-freellmapi]]
+[[basecamp-omarchy]] [[thu-maic-openmaic]] [[chromedevtools-chrome-devtools-mcp]] [[every-app-open-seo]] [[abhigyanpatwari-gitnexus]]
 
 **所属领域**: [[cli]]
 

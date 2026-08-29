@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[abhigyanpatwari-gitnexus]] [[affaan-m-ecc]]
+[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[basecamp-omarchy]] [[tashfeenahmed-freellmapi]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

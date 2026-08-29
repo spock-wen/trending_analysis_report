@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[lyogavin-airllm]] [[chromedevtools-chrome-devtools-mcp]] [[microsoft-ai-for-beginners]] [[anthropics-claude-cookbooks]]
+[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[lyogavin-airllm]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-cookbooks]]
 
 **所属领域**: [[ai-agent]]
 

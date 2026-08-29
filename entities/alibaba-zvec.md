@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[tt-a1i-archify]] [[google-googletest]] [[bilawalsidhu-gods-eye-view]] [[calesthio-openmontage]]
+[[protocolbuffers-protobuf]] [[calesthio-openmontage]] [[tt-a1i-archify]] [[google-googletest]] [[microsoft-onnxruntime]]
 
 **所属领域**: [[data]]
 

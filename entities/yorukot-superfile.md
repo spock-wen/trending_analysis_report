@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[jetbrains-go-modern-guidelines]] [[microsoft-typescript]] [[tailscale-tailcat]] [[asciimoo-hister]]
+[[basecamp-omarchy]] [[thu-maic-openmaic]] [[jetbrains-go-modern-guidelines]] [[abhigyanpatwari-gitnexus]] [[workweave-router]]
 
 **所属领域**: [[cli]]
 

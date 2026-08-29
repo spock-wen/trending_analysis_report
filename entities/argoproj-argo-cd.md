@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[jetbrains-go-modern-guidelines]] [[microsoft-typescript]] [[tailscale-tailcat]] [[asciimoo-hister]] [[ripienaar-free-for-dev]]
+[[posthog-posthog]] [[ruvnet-ruflo]] [[tencent-ai-infra-guard]] [[jetbrains-go-modern-guidelines]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[devops]]
 

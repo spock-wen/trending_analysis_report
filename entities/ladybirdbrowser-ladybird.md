@@ -35,7 +35,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[google-googletest]] [[bilawalsidhu-gods-eye-view]]
+[[protocolbuffers-protobuf]] [[bigskysoftware-htmx]] [[tt-a1i-archify]] [[abi-screenshot-to-code]] [[google-googletest]]
 
 **所属领域**: [[web]]
 

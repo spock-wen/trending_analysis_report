@@ -37,5 +37,5 @@ High performance self-hosted photo and video management solution.
 
 ## 相关项目
 
-[[tashfeenahmed-freellmapi]] [[cursor-plugins]] [[abhigyanpatwari-gitnexus]] [[chromedevtools-chrome-devtools-mcp]]
+[[thu-maic-openmaic]] [[chromedevtools-chrome-devtools-mcp]] [[every-app-open-seo]] [[actions-checkout]]
 

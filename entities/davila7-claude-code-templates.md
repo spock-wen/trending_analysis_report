@@ -36,7 +36,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[posthog-posthog]] [[abhigyanpatwari-gitnexus]]
+[[posthog-posthog]] [[calesthio-openmontage]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[basecamp-omarchy]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[voltagent-awesome-agent-skills]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]]
+[[basecamp-omarchy]] [[thu-maic-openmaic]] [[bigskysoftware-htmx]] [[tt-a1i-archify]] [[abi-screenshot-to-code]]
 
 **所属领域**: [[web]] [[cli]]
 

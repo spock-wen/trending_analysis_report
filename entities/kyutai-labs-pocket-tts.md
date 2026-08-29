@@ -35,7 +35,7 @@ A TTS that fits in your CPU (and pocket)
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[altic-dev-fluidvoice]] [[chromedevtools-chrome-devtools-mcp]] [[lightricks-ltx-2]] [[calesthio-openmontage]]
+[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[livekit-agents]] [[altic-dev-fluidvoice]] [[p-e-w-heretic]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -34,7 +34,7 @@ Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) a
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[altic-dev-fluidvoice]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]]
+[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[livekit-agents]] [[bigskysoftware-htmx]] [[tt-a1i-archify]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

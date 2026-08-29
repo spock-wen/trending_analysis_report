@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[ripienaar-free-for-dev]] [[bilawalsidhu-gods-eye-view]]
+[[thu-maic-openmaic]] [[bigskysoftware-htmx]] [[tt-a1i-archify]] [[cathrynlavery-diagram-design]] [[ruvnet-ruflo]]
 
 **所属领域**: [[web]] [[education]]
 

@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[jetbrains-go-modern-guidelines]] [[microsoft-typescript]] [[tailscale-tailcat]] [[asciimoo-hister]] [[chromedevtools-chrome-devtools-mcp]]
+[[bigskysoftware-htmx]] [[tt-a1i-archify]] [[abi-screenshot-to-code]] [[jetbrains-go-modern-guidelines]] [[workweave-router]]
 
 **所属领域**: [[web]]
 

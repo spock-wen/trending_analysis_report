@@ -38,7 +38,7 @@ AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框�
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tauricresearch-tradingagents]] [[tinyhumansai-openhuman]] [[calesthio-openmontage]]
+[[tauricresearch-tradingagents]] [[calesthio-openmontage]] [[addyosmani-agent-skills]] [[marin-community-marin]] [[p-e-w-heretic]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

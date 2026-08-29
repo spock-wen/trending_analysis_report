@@ -36,7 +36,7 @@ Lightning-Fast, On-Device, Multilingual TTS running natively via ONNX.
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[jaywcjlove-awesome-mac]] [[permissionlesstech-bitchat]] [[lightricks-ltx-2]] [[alishahryar1-free-claude-code]]
+[[livekit-agents]] [[altic-dev-fluidvoice]] [[palmier-io-palmier-pro]] [[permissionlesstech-bitchat]] [[jaywcjlove-awesome-mac]]
 
 **所属领域**: [[audio]]
 

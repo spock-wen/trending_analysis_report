@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]] [[tauricresearch-tradingagents]]
+[[tauricresearch-tradingagents]] [[calesthio-openmontage]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[basecamp-omarchy]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

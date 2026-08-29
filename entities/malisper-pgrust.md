@@ -35,5 +35,5 @@ Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[openai-codex]] [[dani-garcia-vaultwarden]] [[aprilnea-openlogi]]
+[[dani-garcia-vaultwarden]] [[openai-codex]] [[tinyhumansai-openhuman]] [[aprilnea-openlogi]]
 

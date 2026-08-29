@@ -37,7 +37,7 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tauricresearch-tradingagents]] [[tinyhumansai-openhuman]] [[calesthio-openmontage]]
+[[tauricresearch-tradingagents]] [[calesthio-openmontage]] [[addyosmani-agent-skills]] [[marin-community-marin]] [[p-e-w-heretic]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

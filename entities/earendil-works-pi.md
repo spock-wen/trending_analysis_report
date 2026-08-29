@@ -35,7 +35,7 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[cursor-plugins]] [[anthropics-claude-plugins-official]] [[basecamp-omarchy]] [[chromedevtools-chrome-devtools-mcp]]
+[[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[calesthio-openmontage]] [[chromedevtools-chrome-devtools-mcp]] [[bigskysoftware-htmx]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

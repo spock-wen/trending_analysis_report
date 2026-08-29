@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[andreknieriem-headunit-revived]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]]
+[[embabel-embabel-agent]] [[mahlernim-google-timeline-visualizer]] [[bannedbook-fanqiang]] [[tt-a1i-archify]] [[bigskysoftware-htmx]]
 
 **所属领域**: [[web]]
 

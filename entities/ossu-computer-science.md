@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[pkuflyingpig-cs-self-learning]] [[abhigyanpatwari-gitnexus]] [[ripienaar-free-for-dev]]
+[[bigskysoftware-htmx]] [[pkuflyingpig-cs-self-learning]] [[tt-a1i-archify]] [[cathrynlavery-diagram-design]] [[abi-screenshot-to-code]]
 
 **所属领域**: [[web]]
 

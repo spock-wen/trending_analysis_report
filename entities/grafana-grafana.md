@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[cursor-plugins]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[ripienaar-free-for-dev]]
+[[posthog-posthog]] [[calesthio-openmontage]] [[thu-maic-openmaic]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]]
 
 **所属领域**: [[data]] [[devops]]
 

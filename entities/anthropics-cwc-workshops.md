@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[cursor-plugins]] [[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]] [[abhigyanpatwari-gitnexus]] [[tooljet-tooljet]]
+[[obra-superpowers]] [[thu-maic-openmaic]] [[genlayerlabs-genlayer-project-boilerplate]] [[chromedevtools-chrome-devtools-mcp]] [[tooljet-tooljet]]
 
 **所属领域**: [[erp]]
 

@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[kepano-obsidian-skills]] [[calesthio-openmontage]] [[huggingface-transformers]]
+[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[kepano-obsidian-skills]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

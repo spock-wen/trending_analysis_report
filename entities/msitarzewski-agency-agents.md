@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[obra-superpowers]] [[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]]
+[[basecamp-omarchy]] [[obra-superpowers]] [[addyosmani-agent-skills]] [[calesthio-openmontage]] [[bigskysoftware-htmx]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

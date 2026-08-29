@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[bilawalsidhu-gods-eye-view]]
+[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[bigskysoftware-htmx]] [[tt-a1i-archify]] [[abi-screenshot-to-code]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

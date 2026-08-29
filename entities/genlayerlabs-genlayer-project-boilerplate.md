@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[cursor-plugins]] [[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]] [[abhigyanpatwari-gitnexus]] [[tooljet-tooljet]]
+[[obra-superpowers]] [[thu-maic-openmaic]] [[tooljet-tooljet]] [[chromedevtools-chrome-devtools-mcp]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[erp]]
 

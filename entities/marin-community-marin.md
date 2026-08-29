@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[tauricresearch-tradingagents]] [[tinyhumansai-openhuman]] [[calesthio-openmontage]] [[rohitg00-ai-engineering-from-scratch]]
+[[tauricresearch-tradingagents]] [[calesthio-openmontage]] [[p-e-w-heretic]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[science]]
 

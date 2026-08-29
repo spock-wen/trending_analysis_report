@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[anthropics-claude-plugins-official]] [[jetbrains-go-modern-guidelines]] [[microsoft-typescript]] [[tailscale-tailcat]]
+[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[thu-maic-openmaic]] [[basecamp-omarchy]] [[jetbrains-go-modern-guidelines]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[altic-dev-fluidvoice]] [[chromedevtools-chrome-devtools-mcp]] [[lightricks-ltx-2]] [[kepano-obsidian-skills]]
+[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[livekit-agents]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

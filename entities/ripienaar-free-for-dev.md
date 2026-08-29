@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[pkuflyingpig-cs-self-learning]] [[abhigyanpatwari-gitnexus]] [[tencent-ai-infra-guard]]
+[[posthog-posthog]] [[bigskysoftware-htmx]] [[pkuflyingpig-cs-self-learning]] [[tt-a1i-archify]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[devops]]
 

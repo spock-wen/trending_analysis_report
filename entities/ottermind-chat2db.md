@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[anthropics-claude-plugins-official]] [[github-copilot-sdk]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]]
+[[github-copilot-sdk]] [[addyosmani-agent-skills]] [[calesthio-openmontage]] [[thu-maic-openmaic]] [[basecamp-omarchy]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

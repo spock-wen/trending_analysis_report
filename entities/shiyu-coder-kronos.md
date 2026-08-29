@@ -38,5 +38,5 @@ Kronos: A Foundation Model for the Language of Financial Markets
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[calesthio-openmontage]] [[k-dense-ai-scientific-agent-skills]]
+[[anthropics-claude-plugins-official]] [[p-e-w-heretic]] [[calesthio-openmontage]] [[k-dense-ai-scientific-agent-skills]]
 

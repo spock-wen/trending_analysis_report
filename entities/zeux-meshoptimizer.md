@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[obra-superpowers]] [[protocolbuffers-protobuf]] [[google-googletest]] [[tooljet-tooljet]] [[hugohe3-ppt-master]]
+[[protocolbuffers-protobuf]] [[obra-superpowers]] [[hugohe3-ppt-master]] [[genlayerlabs-genlayer-project-boilerplate]] [[tooljet-tooljet]]
 
 **所属领域**: [[erp]]
 

@@ -34,7 +34,7 @@ Agent Substrate: the core system
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[jetbrains-go-modern-guidelines]] [[microsoft-typescript]] [[tailscale-tailcat]] [[asciimoo-hister]]
+[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[jetbrains-go-modern-guidelines]] [[k-dense-ai-scientific-agent-skills]] [[workweave-router]]
 
 **所属领域**: [[ai-agent]]
 

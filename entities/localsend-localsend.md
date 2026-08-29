@@ -34,7 +34,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[chen08209-flclash]] [[chromedevtools-chrome-devtools-mcp]] [[flutter-flutter]] [[rohitg00-ai-engineering-from-scratch]]
+[[chen08209-flclash]] [[addyosmani-agent-skills]] [[calesthio-openmontage]] [[flutter-flutter]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

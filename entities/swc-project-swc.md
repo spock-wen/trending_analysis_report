@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[aprilnea-openlogi]] [[tinyhumansai-openhuman]]
+[[bigskysoftware-htmx]] [[tt-a1i-archify]] [[abi-screenshot-to-code]] [[dani-garcia-vaultwarden]] [[tinyhumansai-openhuman]]
 
 **所属领域**: [[web]]
 

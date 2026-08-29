@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[altic-dev-fluidvoice]] [[chromedevtools-chrome-devtools-mcp]] [[jaywcjlove-awesome-mac]] [[permissionlesstech-bitchat]]
+[[addyosmani-agent-skills]] [[anthropics-claude-plugins-official]] [[calesthio-openmontage]] [[altic-dev-fluidvoice]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

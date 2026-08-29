@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-08-29 | 总页面：527
+> 最后更新：2026-08-30 | 总页面：532
 
 ## Entities
 
@@ -10,13 +10,13 @@
 - [[3b1b-manim|manim"]] — Animation engine for explanatory math videos
 - [[666ghj-mirofish|MiroFish"]] — A Simple and Universal Swarm Intelligence Engine, Predicting...
 - [[aaif-goose-goose|goose"]] — an open source, extensible AI agent that goes beyond code su... 🔥
-- [[abhigyanpatwari-gitnexus|GitNexus"]] — GitNexus: The Zero-Server Code Intelligence Engine - GitNexu... 🆕
+- [[abhigyanpatwari-gitnexus|GitNexus"]] — GitNexus: The Zero-Server Code Intelligence Engine - GitNexu...
 - [[abi-screenshot-to-code|screenshot-to-code"]] — Drop in a screenshot and convert it to clean code (HTML/Tail... 🆕
 - [[abseil-abseil-cpp|abseil-cpp"]] — Abseil Common Libraries (C++) 🆕
 - [[abus-aikorea-voice-pro|voice-pro"]] — Gradio WebUI for creators and developers, featuring key TTS ...
 - [[actions-checkout|checkout"]] — Action for checking out a repo
 - [[activeloopai-hivemind|hivemind"]] — One brain for all your agents
-- [[addyosmani-agent-skills|agent-skills"]] — Production-grade engineering skills for AI coding agents. 🔥
+- [[addyosmani-agent-skills|agent-skills"]] — Production-grade engineering skills for AI coding agents.
 - [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i... 🆕
 - [[agalwood-motrix|Motrix"]] — A full-featured download manager. 🆕
 - [[agavra-tuicr|tuicr"]] — a code review TUI with vim keybindings 🆕
@@ -75,7 +75,8 @@
 - [[bannedbook-fanqiang|fanqiang"]] — 翻墙-科学上网
 - [[basecamp-omarchy|omarchy"]] — Beautiful, Modern & Opinionated Linux 🔥
 - [[bigbodycobain-shadowbroker|Shadowbroker"]] — Open-source intelligence for the global theater. Track every... 🆕
-- [[bilawalsidhu-gods-eye-view|gods-eye-view"]] — A spy satellite simulator in your browser, except the data i... 🆕
+- [[bigskysoftware-htmx|htmx"]] — </> htmx - high power tools for HTML 🆕
+- [[bilawalsidhu-gods-eye-view|gods-eye-view"]] — A spy satellite simulator in your browser, except the data i... 🔥
 - [[biohub-esm|esm"]] — No description
 - [[blakeblackshear-frigate|frigate"]] — NVR with realtime local object detection for IP cameras 🆕
 - [[block-buzz|buzz"]] — A hive mind communication platform 🔥
@@ -90,7 +91,7 @@
 - [[bytedance-deer-flow|deer-flow"]] — An open-source long-horizon SuperAgent harness that research...
 - [[bytedance-ui-tars-desktop|UI-TARS-desktop"]] — The Open-Source Multimodal AI Agent Stack: Connecting Cuttin...
 - [[cactus-compute-needle|needle"]] — 14MB foundation model for tiny devices; phones, wearables, s... 🔥
-- [[calesthio-openmontage|OpenMontage"]] — World's first open-source, agentic video production system. ... 🆕
+- [[calesthio-openmontage|OpenMontage"]] — World's first open-source, agentic video production system. ... 🔥
 - [[can1357-oh-my-pi|oh-my-pi"]] — ⌥ AI Coding agent for the terminal — hash-anchored edits, op...
 - [[canner-wrenai|WrenAI"]] — GenBI (Generative BI) for AI agents, an open-source, governe...
 - [[catchorg-catch2|Catch2"]] — A modern, C++-native, test framework for unit-tests, TDD and... 🆕
@@ -161,7 +162,7 @@
 - [[embabel-embabel-agent|embabel-agent"]] — Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbə...
 - [[emmabostian-developer-portfolios|developer-portfolios"]] — A list of developer portfolios for your inspiration
 - [[esengine-deepseek-reasonix|DeepSeek-Reasonix"]] — DeepSeek-native AI coding agent for your terminal. Engineere... 🔥
-- [[every-app-open-seo|open-seo"]] — Open source alternative to Semrush and Ahrefs 🆕
+- [[every-app-open-seo|open-seo"]] — Open source alternative to Semrush and Ahrefs
 - [[everyinc-compound-engineering-plugin|compound-engineering-plugin"]] — Official Compound Engineering plugin for Claude Code, Codex,...
 - [[facebook-astryx|astryx"]] — An open source design system that's fully customizable and a...
 - [[fareedkhan-dev-train-llm-from-scratch|train-llm-from-scratch"]] — A straightforward method for training your LLM, from downloa...
@@ -190,7 +191,7 @@
 - [[godotengine-godot|godot"]] — Godot Engine – Multi-platform 2D and 3D game engine
 - [[google-agents-cli|agents-cli"]] — The CLI and skills that turn any coding assistant into an ex...
 - [[google-deepmind-weathernext|weathernext"]] — No description 🆕
-- [[google-googletest|googletest"]] — GoogleTest - Google Testing and Mocking Framework 🆕
+- [[google-googletest|googletest"]] — GoogleTest - Google Testing and Mocking Framework 🔥
 - [[google-guava|guava"]] — Google core libraries for Java 🔥
 - [[google-labs-code-stitch-skills|stitch-skills"]] — A library of Agent Skills designed to work with the Stitch M... 🆕
 - [[google-research-timesfm|timesfm"]] — TimesFM (Time Series Foundation Model) is a pretrained time-... 🔥
@@ -246,13 +247,14 @@
 - [[jdx-mise|mise"]] — dev tools, env vars, task runner
 - [[jellyfin-jellyfin|jellyfin"]] — The Free Software Media System - Server Backend & API
 - [[jenkinsci-jenkins|jenkins"]] — Jenkins automation server
-- [[jetbrains-go-modern-guidelines|go-modern-guidelines"]] — Help AI coding agents write modern Go 🆕
+- [[jetbrains-go-modern-guidelines|go-modern-guidelines"]] — Help AI coding agents write modern Go 🔥
 - [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm"]] — Claude Skill: Multi-source content processor for NotebookLM. 🆕
 - [[juliusbrussee-caveman|caveman"]] — 🪨 why use many token when few token do trick — Claude Code s...
 - [[jundot-omlx|omlx"]] — LLM inference server with continuous batching & SSD caching ... 🔥
 - [[jwasham-coding-interview-university|coding-interview-university"]] — A complete computer science study plan to become a software ...
 - [[k-dense-ai-scientific-agent-skills|scientific-agent-skills"]] — Turn any AI agent into an AI Scientist. The #1 Agent Skills ... 🔥
 - [[k1tbyte-wand-enhancer|Wand-Enhancer"]] — Advanced UX and interoperability extension for Wand (WeMod) ...
+- [[kaifcodec-user-scanner|user-scanner"]] — 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data ex... 🆕
 - [[karakeep-app-karakeep|karakeep"]] — A self-hostable bookmark-everything app (links, notes and im...
 - [[karpathy-nn-zero-to-hero|nn-zero-to-hero"]] — Neural Networks: Zero to Hero
 - [[kenn-io-agentsview|agentsview"]] — Local-first session intelligence and analytics for coding ag...
@@ -335,7 +337,7 @@
 - [[n8n-io-n8n|n8n"]] — Fair-code workflow automation platform with native AI capabi...
 - [[nanmicoder-mediacrawler|MediaCrawler"]] — 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬...
 - [[nasa-fprime|fprime"]] — F´ - A flight software and embedded systems framework
-- [[nationalsecurityagency-ghidra|ghidra"]] — Ghidra is a software reverse engineering (SRE) framework 🆕
+- [[nationalsecurityagency-ghidra|ghidra"]] — Ghidra is a software reverse engineering (SRE) framework
 - [[nesquena-hermes-webui|hermes-webui"]] — Hermes WebUI: The best way to use Hermes Agent from the web ... 🔥
 - [[nicobailon-pi-subagents|pi-subagents"]] — Pi extension for async subagent delegation with truncation, ...
 - [[nirdiamant-agents-towards-production|agents-towards-production"]] — End-to-end, code-first tutorials for building production-gra...
@@ -371,6 +373,7 @@
 - [[openinterpreter-openinterpreter|openinterpreter"]] — A coding agent for open models like Kimi K3 🔥
 - [[openmoss-moss-tts|MOSS-TTS"]] — MOSS‑TTS Family is an open‑source speech and sound generatio...
 - [[opentoonz-opentoonz|opentoonz"]] — OpenToonz - An open-source full-featured 2D animation creati...
+- [[osmantic-ods|ODS"]] — Turn your PC, Mac, or Linux box into an AI server. LLM infer... 🆕
 - [[ossu-computer-science|computer-science"]] — 🎓 Path to a free self-taught education in Computer Science!
 - [[othmanadi-planning-with-files|planning-with-files"]] — Persistent file-based planning for AI coding agents and long...
 - [[ottermind-chat2db|Chat2DB"]] — 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI ... 🆕
@@ -448,7 +451,7 @@
 - [[supermemoryai-supermemory|supermemory"]] — Memory engine and app that is extremely fast, scalable. The ... 🔥
 - [[supertone-inc-supertonic|supertonic"]] — Lightning-Fast, On-Device, Multilingual TTS running natively...
 - [[swc-project-swc|swc"]] — Rust-based platform for the Web
-- [[swoole-typephp|typephp"]] — Compile PHP to Native Binaries 🆕
+- [[swoole-typephp|typephp"]] — Compile PHP to Native Binaries
 - [[tailscale-tailcat|tailcat"]] — like netcat, but over Tailscale's data plane, without Tailsc... 🆕
 - [[tailscale-tailscale|tailscale"]] — The easiest, most secure way to use WireGuard and 2FA.
 - [[tailwindlabs-tailwindcss|tailwindcss"]] — A utility-first CSS framework for rapid UI development. 🆕
@@ -462,6 +465,7 @@
 - [[teng-lin-notebooklm-py|notebooklm-py"]] — Unofficial Python API and agentic skill for Google NotebookL...
 - [[teslamate-org-teslamate|teslamate"]] — A self-hosted data logger for your Tesla 🚘 [main maintainer=... 🆕
 - [[thedotmack-claude-mem|claude-mem"]] — Persistent Context Across Sessions for Every Agent – Capture...
+- [[thu-maic-openmaic|OpenMAIC"]] — Open Multi-Agent Interactive Classroom — Get an immersive, m... 🆕
 - [[tinyhumansai-openhuman|openhuman"]] — Your Personal AI super intelligence. A brain that builds a l... 🔥
 - [[tirth8205-code-review-graph|code-review-graph"]] — Local-first code intelligence graph for MCP and CLI. Builds ...
 - [[togatoga-karukan|karukan"]] — Japanese Input Method System for Linux, macOS, Neural Kana-K...
@@ -499,6 +503,7 @@
 - [[whiskeysockets-baileys|Baileys"]] — Socket-based TS/JavaScript API for WhatsApp Web
 - [[withastro-flue|flue"]] — The sandbox agent framework. 🔥
 - [[wonderwhy-er-desktopcommandermcp|DesktopCommanderMCP"]] — This is MCP server for Claude that gives it terminal control... 🔥
+- [[workweave-router|router"]] — Model router for agentic systems. Routes every prompt to the... 🆕
 - [[x1xhlol-system-prompts-and-models-of-ai-tools|system-prompts-and-models-of-ai-tools"]] — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cu...
 - [[xbtlin-ai-berkshire|ai-berkshire"]] — AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师... 🔥
 - [[yairm210-unciv|Unciv"]] — Open-source Android/Desktop remake of Civ V

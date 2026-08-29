@@ -34,7 +34,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[k-dense-ai-scientific-agent-skills]] [[chromedevtools-chrome-devtools-mcp]]
+[[anthropics-claude-plugins-official]] [[calesthio-openmontage]] [[addyosmani-agent-skills]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

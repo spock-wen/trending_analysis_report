@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[tauricresearch-tradingagents]] [[kepano-obsidian-skills]] [[tinyhumansai-openhuman]] [[calesthio-openmontage]]
+[[tauricresearch-tradingagents]] [[calesthio-openmontage]] [[thu-maic-openmaic]] [[kepano-obsidian-skills]] [[ruvnet-ruflo]]
 
 **所属领域**: [[education]] [[science]]
 

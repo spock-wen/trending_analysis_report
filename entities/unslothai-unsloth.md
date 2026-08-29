@@ -37,7 +37,7 @@ Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[chromedevtools-chrome-devtools-mcp]] [[conardli-garden-skills]] [[tooljet-tooljet]] [[calesthio-openmontage]]
+[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[freestylefly-awesome-gpt-image-2]] [[conardli-garden-skills]] [[p-e-w-heretic]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

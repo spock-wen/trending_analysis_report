@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[lyogavin-airllm]] [[chromedevtools-chrome-devtools-mcp]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]]
+[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[lyogavin-airllm]] [[k-dense-ai-scientific-agent-skills]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

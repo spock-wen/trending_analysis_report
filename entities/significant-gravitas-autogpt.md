@@ -35,7 +35,7 @@ AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[p-e-w-heretic]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]]
+[[livekit-agents]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[p-e-w-heretic]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

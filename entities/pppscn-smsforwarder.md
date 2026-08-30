@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[embabel-embabel-agent]] [[mahlernim-google-timeline-visualizer]] [[bannedbook-fanqiang]] [[tt-a1i-archify]] [[bigskysoftware-htmx]]
+[[bannedbook-fanqiang]] [[tt-a1i-archify]] [[embabel-embabel-agent]] [[abhigyanpatwari-gitnexus]] [[mahlernim-google-timeline-visualizer]]
 
 **所属领域**: [[web]]
 

@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[thu-maic-openmaic]] [[basecamp-omarchy]] [[dani-garcia-vaultwarden]]
+[[aprilnea-openlogi]] [[livekit-agents]] [[majd-ipatool]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

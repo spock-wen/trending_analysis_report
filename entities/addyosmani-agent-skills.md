@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[bigskysoftware-htmx]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]]
+[[livekit-agents]] [[tt-a1i-archify]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

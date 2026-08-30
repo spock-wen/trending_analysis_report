@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[mahlernim-google-timeline-visualizer]] [[bannedbook-fanqiang]] [[k-dense-ai-scientific-agent-skills]]
+[[livekit-agents]] [[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

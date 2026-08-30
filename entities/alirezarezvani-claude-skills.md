@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[calesthio-openmontage]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[basecamp-omarchy]]
+[[livekit-agents]] [[abhigyanpatwari-gitnexus]] [[marin-community-marin]] [[unclecode-crawl4ai]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

@@ -38,7 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[thu-maic-openmaic]] [[basecamp-omarchy]] [[bigskysoftware-htmx]]
+[[livekit-agents]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

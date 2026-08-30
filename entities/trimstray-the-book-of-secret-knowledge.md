@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[thu-maic-openmaic]] [[bigskysoftware-htmx]] [[tt-a1i-archify]] [[abi-screenshot-to-code]]
+[[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[thu-maic-openmaic]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[calesthio-openmontage]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[kepano-obsidian-skills]]
+[[livekit-agents]] [[ruvnet-ruflo]] [[marin-community-marin]] [[rohitg00-ai-engineering-from-scratch]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

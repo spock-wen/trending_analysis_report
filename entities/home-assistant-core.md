@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[tashfeenahmed-freellmapi]] [[affaan-m-ecc]] [[p-e-w-heretic]] [[k-dense-ai-scientific-agent-skills]]
+[[nationalsecurityagency-ghidra]] [[unclecode-crawl4ai]] [[tashfeenahmed-freellmapi]] [[k-dense-ai-scientific-agent-skills]] [[p-e-w-heretic]]
 
 **所属领域**: [[security]]
 

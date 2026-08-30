@@ -36,5 +36,5 @@ M3U Playlist for free TV channels
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[p-e-w-heretic]] [[calesthio-openmontage]] [[k-dense-ai-scientific-agent-skills]]
+[[k-dense-ai-scientific-agent-skills]] [[p-e-w-heretic]] [[unclecode-crawl4ai]] [[mvanhorn-last30days-skill]]
 

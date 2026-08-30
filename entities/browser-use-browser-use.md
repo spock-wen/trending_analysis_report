@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[bigskysoftware-htmx]] [[tt-a1i-archify]] [[abi-screenshot-to-code]]
+[[livekit-agents]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

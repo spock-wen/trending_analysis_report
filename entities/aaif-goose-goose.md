@@ -36,7 +36,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[dani-garcia-vaultwarden]] [[tinyhumansai-openhuman]] [[k-dense-ai-scientific-agent-skills]]
+[[aprilnea-openlogi]] [[livekit-agents]] [[unclecode-crawl4ai]] [[dani-garcia-vaultwarden]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[basecamp-omarchy]] [[ruvnet-ruflo]]
+[[livekit-agents]] [[ruvnet-ruflo]] [[abhigyanpatwari-gitnexus]] [[rohitg00-ai-engineering-from-scratch]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

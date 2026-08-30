@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[tashfeenahmed-freellmapi]] [[affaan-m-ecc]] [[p-e-w-heretic]]
+[[livekit-agents]] [[nationalsecurityagency-ghidra]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[tashfeenahmed-freellmapi]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

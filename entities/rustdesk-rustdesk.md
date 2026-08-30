@@ -34,5 +34,5 @@ An open-source remote desktop application designed for self-hosting, as an alter
 
 ## 相关项目
 
-[[dani-garcia-vaultwarden]] [[openai-codex]] [[tinyhumansai-openhuman]] [[aprilnea-openlogi]]
+[[aprilnea-openlogi]] [[dani-garcia-vaultwarden]] [[tinyhumansai-openhuman]] [[openai-codex]]
 

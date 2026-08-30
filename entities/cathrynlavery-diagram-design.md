@@ -37,7 +37,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[bigskysoftware-htmx]] [[pkuflyingpig-cs-self-learning]] [[tt-a1i-archify]]
+[[livekit-agents]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

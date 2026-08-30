@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-08-30 | 总页面：532
+> 最后更新：2026-08-31 | 总页面：539
 
 ## Entities
 
@@ -75,7 +75,7 @@
 - [[bannedbook-fanqiang|fanqiang"]] — 翻墙-科学上网
 - [[basecamp-omarchy|omarchy"]] — Beautiful, Modern & Opinionated Linux 🔥
 - [[bigbodycobain-shadowbroker|Shadowbroker"]] — Open-source intelligence for the global theater. Track every... 🆕
-- [[bigskysoftware-htmx|htmx"]] — </> htmx - high power tools for HTML 🆕
+- [[bigskysoftware-htmx|htmx"]] — </> htmx - high power tools for HTML
 - [[bilawalsidhu-gods-eye-view|gods-eye-view"]] — A spy satellite simulator in your browser, except the data i... 🔥
 - [[biohub-esm|esm"]] — No description
 - [[blakeblackshear-frigate|frigate"]] — NVR with realtime local object detection for IP cameras 🆕
@@ -99,6 +99,7 @@
 - [[chachamaru127-claude-code-harness|claude-code-harness"]] — Claude Code Dedicated Development Harness - Achieving High-Q...
 - [[chaitanyagiri-munder-difflin|munder-difflin"]] — local multi-agent harness 🔥
 - [[chatwoot-chatwoot|chatwoot"]] — Open-source live-chat, email support, omni-channel desk. An ...
+- [[checkstyle-checkstyle|checkstyle"]] — Checkstyle is a development tool to help programmers write J... 🆕
 - [[chen08209-flclash|FlClash"]] — A multi-platform proxy client based on ClashMeta,simple and ...
 - [[chenyme-grok2api|grok2api"]] — Multi-account API gateway for Grok Build, Grok Web, and Grok...
 - [[chopratejas-headroom|headroom"]] — Compress tool outputs, logs, files, and RAG chunks before th... 🔥
@@ -112,6 +113,7 @@
 - [[codecrafters-io-build-your-own-x|build-your-own-x"]] — Master programming by recreating your favorite technologies ...
 - [[colbymchenry-codegraph|codegraph"]] — Pre-indexed code knowledge graph for Claude Code, Codex, Cur... 🔥
 - [[colemurray-background-agents|background-agents"]] — An open-source background agents coding system
+- [[colinhacks-zod|zod"]] — TypeScript-first schema validation with static type inferenc... 🆕
 - [[comfy-org-comfyui|ComfyUI"]] — The most powerful and modular diffusion model GUI, api and b... 🆕
 - [[commaai-openpilot|openpilot"]] — openpilot is an operating system for robotics. Currently, it... 🔥
 - [[composiohq-awesome-claude-skills|awesome-claude-skills"]] — A curated list of awesome Claude Skills, resources, and tool...
@@ -122,6 +124,7 @@
 - [[cordiverse-cordis|cordis"]] — Meta-Framework of Spatiotemporal Composability 🔥
 - [[corebunch-instatic|Instatic"]] — The open-source alternative to Webflow, Framer and WordPress... 🆕
 - [[coreyhaines31-marketingskills|marketingskills"]] — Marketing skills for Claude Code and AI agents. CRO, copywri...
+- [[corsairdev-corsair|corsair"]] — Connect your users to their apps 🆕
 - [[crosstalk-solutions-project-nomad|project-nomad"]] — Project N.O.M.A.D, is a self-contained, offline survival com...
 - [[crynta-terax-ai|terax-ai"]] — Lightweight (7MB) Terminal-first AI-native dev workspace
 - [[cupy-cupy|cupy"]] — NumPy & SciPy for GPU 🆕
@@ -162,7 +165,7 @@
 - [[embabel-embabel-agent|embabel-agent"]] — Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbə...
 - [[emmabostian-developer-portfolios|developer-portfolios"]] — A list of developer portfolios for your inspiration
 - [[esengine-deepseek-reasonix|DeepSeek-Reasonix"]] — DeepSeek-native AI coding agent for your terminal. Engineere... 🔥
-- [[every-app-open-seo|open-seo"]] — Open source alternative to Semrush and Ahrefs
+- [[every-app-open-seo|open-seo"]] — Open source alternative to Semrush and Ahrefs 🆕
 - [[everyinc-compound-engineering-plugin|compound-engineering-plugin"]] — Official Compound Engineering plugin for Claude Code, Codex,...
 - [[facebook-astryx|astryx"]] — An open source design system that's fully customizable and a...
 - [[fareedkhan-dev-train-llm-from-scratch|train-llm-from-scratch"]] — A straightforward method for training your LLM, from downloa...
@@ -201,6 +204,7 @@
 - [[graphify-labs-graphify|graphify"]] — AI coding assistant skill (Claude Code, Codex, OpenCode, Cur...
 - [[grokability-snipe-it|snipe-it"]] — A free open source IT asset/license management system
 - [[grpc-grpc|grpc"]] — C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [[handsomestwei-patent-disclosure-skill|patent-disclosure-skill"]] — 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 🆕
 - [[harbourmasters-lighthouse|Lighthouse"]] — No description
 - [[hardikpandya-stop-slop|stop-slop"]] — A skill file for removing AI tells from prose 🔥
 - [[harry0703-moneyprinterturbo|MoneyPrinterTurbo"]] — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos ... 🔥
@@ -254,7 +258,7 @@
 - [[jwasham-coding-interview-university|coding-interview-university"]] — A complete computer science study plan to become a software ...
 - [[k-dense-ai-scientific-agent-skills|scientific-agent-skills"]] — Turn any AI agent into an AI Scientist. The #1 Agent Skills ... 🔥
 - [[k1tbyte-wand-enhancer|Wand-Enhancer"]] — Advanced UX and interoperability extension for Wand (WeMod) ...
-- [[kaifcodec-user-scanner|user-scanner"]] — 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data ex... 🆕
+- [[kaifcodec-user-scanner|user-scanner"]] — 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data ex...
 - [[karakeep-app-karakeep|karakeep"]] — A self-hostable bookmark-everything app (links, notes and im...
 - [[karpathy-nn-zero-to-hero|nn-zero-to-hero"]] — Neural Networks: Zero to Hero
 - [[kenn-io-agentsview|agentsview"]] — Local-first session intelligence and analytics for coding ag...
@@ -271,6 +275,7 @@
 - [[kvcache-ai-ktransformers|ktransformers"]] — A Flexible Framework for Experiencing Heterogeneous LLM Infe... 🆕
 - [[kyutai-labs-pocket-tts|pocket-tts"]] — A TTS that fits in your CPU (and pocket)
 - [[ladybirdbrowser-ladybird|ladybird"]] — Truly independent web browser
+- [[lakr233-vphone-cli|vphone-cli"]] — No description 🆕
 - [[langflow-ai-langflow|langflow"]] — Langflow is a powerful tool for building and deploying AI-po...
 - [[leonxlnx-taste-skill|taste-skill"]] — Taste-Skill - gives your AI good taste. stops the AI from ge... 🆕
 - [[lfnovo-open-notebook|open-notebook"]] — An Open Source implementation of Notebook LM with more flexi... 🔥
@@ -293,6 +298,7 @@
 - [[maderix-ane|ANE"]] — Training neural networks on Apple Neural Engine via reverse-...
 - [[madslorentzen-ai-job-search|ai-job-search"]] — The job search that runs on your machine. AI job application...
 - [[mahlernim-google-timeline-visualizer|google-timeline-visualizer"]] — Visualize your year in travel using your Google Location His... 🔥
+- [[majd-ipatool|ipatool"]] — Command-line tool that allows searching and downloading app ... 🆕
 - [[makazhanalpamys-soup|Soup"]] — Fine-tune LLMs from one YAML. Layer streaming trains an 8B m...
 - [[makeplane-plane|plane"]] — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternativ...
 - [[malisper-pgrust|pgrust"]] — Postgres rewritten in Rust, now passing 100% of the Postgres... 🆕
@@ -373,13 +379,13 @@
 - [[openinterpreter-openinterpreter|openinterpreter"]] — A coding agent for open models like Kimi K3 🔥
 - [[openmoss-moss-tts|MOSS-TTS"]] — MOSS‑TTS Family is an open‑source speech and sound generatio...
 - [[opentoonz-opentoonz|opentoonz"]] — OpenToonz - An open-source full-featured 2D animation creati...
-- [[osmantic-ods|ODS"]] — Turn your PC, Mac, or Linux box into an AI server. LLM infer... 🆕
+- [[osmantic-ods|ODS"]] — Turn your PC, Mac, or Linux box into an AI server. LLM infer...
 - [[ossu-computer-science|computer-science"]] — 🎓 Path to a free self-taught education in Computer Science!
 - [[othmanadi-planning-with-files|planning-with-files"]] — Persistent file-based planning for AI coding agents and long...
 - [[ottermind-chat2db|Chat2DB"]] — 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI ... 🆕
 - [[oven-sh-bun|bun"]] — Incredibly fast JavaScript runtime, bundler, test runner, an... 🆕
 - [[owainlewis-awesome-artificial-intelligence|awesome-artificial-intelligence"]] — A curated list of Artificial Intelligence (AI) courses, book...
-- [[p-e-w-heretic|heretic"]] — Fully automatic censorship removal for language models
+- [[p-e-w-heretic|heretic"]] — Fully automatic censorship removal for language models 🆕
 - [[paddlepaddle-paddleocr|PaddleOCR"]] — Turn any PDF or image document into structured data for your... 🆕
 - [[palmier-io-palmier-pro|palmier-pro"]] — macOS video editor built for AI
 - [[panniantong-agent-reach|Agent-Reach"]] — Give your AI agent eyes to see the entire internet. Read & s... 🆕
@@ -407,6 +413,7 @@
 - [[protocolbuffers-protobuf|protobuf"]] — Protocol Buffers - Google's data interchange format
 - [[public-apis-public-apis|public-apis"]] — A collective list of free APIs
 - [[pumpkin-mc-pumpkin|Pumpkin"]] — Empowering everyone to host fast and efficient Minecraft ser... 🔥
+- [[punkpeye-awesome-mcp-servers|awesome-mcp-servers"]] — A collection of MCP servers. 🆕
 - [[puppeteer-puppeteer|puppeteer"]] — JavaScript API for Chrome and Firefox
 - [[pytest-dev-pytest|pytest"]] — The pytest framework makes it easy to write small tests, yet...
 - [[pytorch-pytorch|pytorch"]] — Tensors and Dynamic neural networks in Python with strong GP... 🆕
@@ -503,7 +510,7 @@
 - [[whiskeysockets-baileys|Baileys"]] — Socket-based TS/JavaScript API for WhatsApp Web
 - [[withastro-flue|flue"]] — The sandbox agent framework. 🔥
 - [[wonderwhy-er-desktopcommandermcp|DesktopCommanderMCP"]] — This is MCP server for Claude that gives it terminal control... 🔥
-- [[workweave-router|router"]] — Model router for agentic systems. Routes every prompt to the... 🆕
+- [[workweave-router|router"]] — Model router for agentic systems. Routes every prompt to the...
 - [[x1xhlol-system-prompts-and-models-of-ai-tools|system-prompts-and-models-of-ai-tools"]] — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cu...
 - [[xbtlin-ai-berkshire|ai-berkshire"]] — AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师... 🔥
 - [[yairm210-unciv|Unciv"]] — Open-source Android/Desktop remake of Civ V

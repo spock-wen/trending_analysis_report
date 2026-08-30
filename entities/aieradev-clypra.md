@@ -34,7 +34,7 @@ A modern video editor built with Tauri, React, and TypeScript. Focus on building
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[calesthio-openmontage]] [[chromedevtools-chrome-devtools-mcp]] [[every-app-open-seo]]
+[[livekit-agents]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[tashfeenahmed-freellmapi]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

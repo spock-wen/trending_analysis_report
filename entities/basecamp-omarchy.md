@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[obra-superpowers]] [[thu-maic-openmaic]] [[msitarzewski-agency-agents]] [[mattpocock-skills]] [[abhigyanpatwari-gitnexus]]
+[[abhigyanpatwari-gitnexus]] [[obra-superpowers]] [[thu-maic-openmaic]] [[msitarzewski-agency-agents]] [[lakr233-vphone-cli]]
 
 **所属领域**: [[cli]]
 

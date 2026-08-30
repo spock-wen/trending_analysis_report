@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[thu-maic-openmaic]] [[basecamp-omarchy]] [[livekit-agents]] [[altic-dev-fluidvoice]]
+[[livekit-agents]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[thu-maic-openmaic]]
 
 **所属领域**: [[cli]] [[audio]]
 

@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[posthog-posthog]] [[calesthio-openmontage]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[basecamp-omarchy]]
+[[livekit-agents]] [[tencent-ai-infra-guard]] [[ruvnet-ruflo]] [[abhigyanpatwari-gitnexus]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

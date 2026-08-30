@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[calesthio-openmontage]] [[addyosmani-agent-skills]] [[tt-a1i-archify]] [[tashfeenahmed-freellmapi]]
+[[livekit-agents]] [[tt-a1i-archify]] [[marin-community-marin]] [[nationalsecurityagency-ghidra]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

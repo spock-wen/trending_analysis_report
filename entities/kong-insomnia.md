@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[thu-maic-openmaic]] [[chromedevtools-chrome-devtools-mcp]] [[bigskysoftware-htmx]] [[tt-a1i-archify]]
+[[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[tashfeenahmed-freellmapi]] [[thu-maic-openmaic]]
 
 **所属领域**: [[web]] [[cli]]
 

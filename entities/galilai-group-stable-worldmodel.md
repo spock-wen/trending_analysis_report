@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[calesthio-openmontage]] [[addyosmani-agent-skills]] [[unslothai-unsloth]] [[freestylefly-awesome-gpt-image-2]]
+[[freestylefly-awesome-gpt-image-2]] [[livekit-agents]] [[conardli-garden-skills]] [[marin-community-marin]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

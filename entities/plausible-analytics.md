@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[teslamate-org-teslamate]] [[bigskysoftware-htmx]] [[tt-a1i-archify]] [[tashfeenahmed-freellmapi]]
+[[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[nationalsecurityagency-ghidra]] [[unclecode-crawl4ai]] [[teslamate-org-teslamate]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

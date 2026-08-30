@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[obra-superpowers]] [[addyosmani-agent-skills]] [[calesthio-openmontage]] [[msitarzewski-agency-agents]]
+[[livekit-agents]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[basecamp-omarchy]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

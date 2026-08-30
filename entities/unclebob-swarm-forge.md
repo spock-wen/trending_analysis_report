@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[k-dense-ai-scientific-agent-skills]] [[penpot-penpot]] [[anthropics-claude-plugins-official]]
+[[livekit-agents]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[mvanhorn-last30days-skill]] [[penpot-penpot]]
 
 **所属领域**: [[ai-agent]]
 

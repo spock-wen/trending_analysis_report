@@ -38,7 +38,7 @@ Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[calesthio-openmontage]] [[k-dense-ai-scientific-agent-skills]] [[addyosmani-agent-skills]]
+[[livekit-agents]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[p-e-w-heretic]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

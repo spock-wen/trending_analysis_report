@@ -37,7 +37,7 @@ Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[freestylefly-awesome-gpt-image-2]] [[conardli-garden-skills]] [[p-e-w-heretic]]
+[[freestylefly-awesome-gpt-image-2]] [[livekit-agents]] [[conardli-garden-skills]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

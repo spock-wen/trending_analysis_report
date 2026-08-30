@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[basecamp-omarchy]] [[thu-maic-openmaic]] [[google-googletest]] [[microsoft-onnxruntime]]
+[[abhigyanpatwari-gitnexus]] [[google-googletest]] [[microsoft-onnxruntime]] [[thu-maic-openmaic]] [[lakr233-vphone-cli]]
 
 **所属领域**: [[cli]]
 

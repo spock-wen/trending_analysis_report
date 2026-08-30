@@ -34,5 +34,5 @@ Fast, secure, efficient backup program
 
 ## 相关项目
 
-[[asciimoo-hister]] [[workweave-router]] [[jetbrains-go-modern-guidelines]] [[tailscale-tailcat]]
+[[workweave-router]] [[jetbrains-go-modern-guidelines]] [[tailscale-tailcat]] [[majd-ipatool]]
 

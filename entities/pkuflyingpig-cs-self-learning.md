@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[bigskysoftware-htmx]] [[tt-a1i-archify]] [[cathrynlavery-diagram-design]] [[ruvnet-ruflo]]
+[[tt-a1i-archify]] [[ruvnet-ruflo]] [[abhigyanpatwari-gitnexus]] [[rohitg00-ai-engineering-from-scratch]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[web]] [[education]]
 

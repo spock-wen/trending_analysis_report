@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[calesthio-openmontage]] [[chromedevtools-chrome-devtools-mcp]]
+[[livekit-agents]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[marin-community-marin]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

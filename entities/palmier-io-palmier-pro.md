@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[anthropics-claude-plugins-official]] [[calesthio-openmontage]] [[altic-dev-fluidvoice]] [[k-dense-ai-scientific-agent-skills]]
+[[livekit-agents]] [[permissionlesstech-bitchat]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[jaywcjlove-awesome-mac]]
 
 **所属领域**: [[ai-agent]]
 

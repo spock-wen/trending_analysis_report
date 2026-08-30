@@ -35,7 +35,7 @@ Fullstack app framework for web, desktop, and mobile.
 
 ## 相关项目
 
-[[bigskysoftware-htmx]] [[tt-a1i-archify]] [[abi-screenshot-to-code]] [[dani-garcia-vaultwarden]] [[tinyhumansai-openhuman]]
+[[aprilnea-openlogi]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[dani-garcia-vaultwarden]]
 
 **所属领域**: [[web]]
 

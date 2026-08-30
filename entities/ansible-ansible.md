@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[posthog-posthog]] [[calesthio-openmontage]] [[addyosmani-agent-skills]] [[bigskysoftware-htmx]] [[tt-a1i-archify]]
+[[livekit-agents]] [[tt-a1i-archify]] [[tencent-ai-infra-guard]] [[ruvnet-ruflo]] [[abhigyanpatwari-gitnexus]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

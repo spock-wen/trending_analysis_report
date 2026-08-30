@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[k1tbyte-wand-enhancer]] [[jellyfin-jellyfin]] [[calesthio-openmontage]] [[dotnet-aspnetcore]]
+[[livekit-agents]] [[k1tbyte-wand-enhancer]] [[par274-sharpemu]] [[dotnet-aspnetcore]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[unslothai-unsloth]] [[bigskysoftware-htmx]] [[tt-a1i-archify]]
+[[freestylefly-awesome-gpt-image-2]] [[livekit-agents]] [[tt-a1i-archify]] [[diolinux-photogimp]] [[abhigyanpatwari-gitnexus]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

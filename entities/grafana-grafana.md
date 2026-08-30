@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[posthog-posthog]] [[calesthio-openmontage]] [[thu-maic-openmaic]] [[chromedevtools-chrome-devtools-mcp]] [[tt-a1i-archify]]
+[[tt-a1i-archify]] [[tencent-ai-infra-guard]] [[ruvnet-ruflo]] [[abhigyanpatwari-gitnexus]] [[posthog-posthog]]
 
 **所属领域**: [[data]] [[devops]]
 

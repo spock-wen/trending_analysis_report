@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[thu-maic-openmaic]] [[basecamp-omarchy]] [[p-e-w-heretic]] [[k-dense-ai-scientific-agent-skills]]
+[[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[thu-maic-openmaic]] [[p-e-w-heretic]]
 
 **所属领域**: [[cli]]
 

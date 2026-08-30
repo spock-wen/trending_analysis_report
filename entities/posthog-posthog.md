@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[bigskysoftware-htmx]] [[tt-a1i-archify]] [[ruvnet-ruflo]]
+[[livekit-agents]] [[tt-a1i-archify]] [[tencent-ai-infra-guard]] [[ruvnet-ruflo]] [[abhigyanpatwari-gitnexus]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

@@ -36,5 +36,5 @@ Curated list of the best free apps for PC and mobile
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[bigskysoftware-htmx]] [[bilawalsidhu-gods-eye-view]] [[tt-a1i-archify]]
+[[addyosmani-agent-skills]] [[tt-a1i-archify]] [[bigskysoftware-htmx]] [[bilawalsidhu-gods-eye-view]]
 

@@ -34,7 +34,7 @@ Model router for agentic systems. Routes every prompt to the right model in <50m
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[jetbrains-go-modern-guidelines]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]]
+[[livekit-agents]] [[tailscale-tailcat]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

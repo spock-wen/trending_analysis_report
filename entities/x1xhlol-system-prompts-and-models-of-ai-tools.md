@@ -37,7 +37,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[genlayerlabs-genlayer-project-boilerplate]] [[tooljet-tooljet]]
+[[livekit-agents]] [[unclecode-crawl4ai]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[thu-maic-openmaic]] [[bigskysoftware-htmx]] [[tt-a1i-archify]] [[abi-screenshot-to-code]]
+[[aprilnea-openlogi]] [[tt-a1i-archify]] [[majd-ipatool]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[web]] [[cli]]
 

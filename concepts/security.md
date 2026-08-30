@@ -1,7 +1,7 @@
 ---
 title: "security"
 created: 2026-05-26
-updated: 2026-08-30
+updated: 2026-08-31
 type: concept
 tags: [security]
 confidence: medium
@@ -9,9 +9,9 @@ confidence: medium
 
 # security
 
-## 领域项目（共 21 个，今日上榜 1 个）
+## 领域项目（共 21 个，今日上榜 2 个）
 
-[[kaifcodec-user-scanner]] [[tashfeenahmed-freellmapi]] [[nationalsecurityagency-ghidra]] [[affaan-m-ecc]] [[mukul975-anthropic-cybersecurity-skills]] [[uber-adr]] [[zhaoxuya520-reverse-skill]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[home-assistant-core]] [[zackriya-solutions-meetily]] [[veracrypt-veracrypt]] [[keycloak-keycloak]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[nvidia-skillspector]] [[itsfatduck-optimizerduck]] [[masterking32-masterdnsvpn]] [[reconurge-flowsint]] [[aquasecurity-trivy]] [[cloakhq-cloakbrowser]] [[plausible-analytics]]
+[[tashfeenahmed-freellmapi]] [[nationalsecurityagency-ghidra]] [[kaifcodec-user-scanner]] [[affaan-m-ecc]] [[mukul975-anthropic-cybersecurity-skills]] [[uber-adr]] [[zhaoxuya520-reverse-skill]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[home-assistant-core]] [[zackriya-solutions-meetily]] [[veracrypt-veracrypt]] [[keycloak-keycloak]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[nvidia-skillspector]] [[itsfatduck-optimizerduck]] [[masterking32-masterdnsvpn]] [[reconurge-flowsint]] [[aquasecurity-trivy]] [[cloakhq-cloakbrowser]] [[plausible-analytics]]
 
 ## 语言分布
 
@@ -19,5 +19,5 @@ Python 6个, Rust 3个, TypeScript 2个, Java 2个, Go 2个, JavaScript 1个, Po
 
 ## 趋势观察
 
-21 个 security 领域项目被追踪，其中 1 个今日同时上榜，反映该领域持续活跃。
+21 个 security 领域项目被追踪，其中 2 个今日同时上榜，反映该领域持续活跃。
 

@@ -37,5 +37,5 @@ language: "Rust"
 
 ## 相关项目
 
-[[dani-garcia-vaultwarden]] [[openai-codex]] [[tinyhumansai-openhuman]]
+[[dani-garcia-vaultwarden]] [[tinyhumansai-openhuman]] [[openai-codex]]
 

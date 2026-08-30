@@ -34,7 +34,7 @@ Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[jetbrains-go-modern-guidelines]] [[k-dense-ai-scientific-agent-skills]] [[workweave-router]]
+[[livekit-agents]] [[tailscale-tailcat]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[workweave-router]]
 
 **所属领域**: [[ai-agent]]
 

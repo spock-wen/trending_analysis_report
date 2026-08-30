@@ -36,7 +36,7 @@ Help AI coding agents write modern Go
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[k-dense-ai-scientific-agent-skills]] [[workweave-router]] [[anthropics-claude-plugins-official]]
+[[livekit-agents]] [[tailscale-tailcat]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[workweave-router]]
 
 **所属领域**: [[ai-agent]]
 

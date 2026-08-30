@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[unslothai-unsloth]] [[bigskysoftware-htmx]] [[pkuflyingpig-cs-self-learning]] [[tt-a1i-archify]] [[cathrynlavery-diagram-design]]
+[[freestylefly-awesome-gpt-image-2]] [[tt-a1i-archify]] [[conardli-garden-skills]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[web]] [[image-gen]]
 

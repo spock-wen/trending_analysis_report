@@ -35,7 +35,7 @@ Find the local LLM that actually runs and performs best on your hardware. Ranked
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[basecamp-omarchy]] [[p-e-w-heretic]]
+[[livekit-agents]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

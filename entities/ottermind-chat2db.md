@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[github-copilot-sdk]] [[addyosmani-agent-skills]] [[calesthio-openmontage]] [[thu-maic-openmaic]] [[basecamp-omarchy]]
+[[livekit-agents]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[nationalsecurityagency-ghidra]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

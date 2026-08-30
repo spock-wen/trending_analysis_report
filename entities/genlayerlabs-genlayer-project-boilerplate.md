@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[obra-superpowers]] [[thu-maic-openmaic]] [[tooljet-tooljet]] [[chromedevtools-chrome-devtools-mcp]] [[hugohe3-ppt-master]]
+[[abhigyanpatwari-gitnexus]] [[obra-superpowers]] [[tashfeenahmed-freellmapi]] [[thu-maic-openmaic]] [[every-app-open-seo]]
 
 **所属领域**: [[erp]]
 

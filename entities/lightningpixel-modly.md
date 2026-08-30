@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[calesthio-openmontage]] [[chromedevtools-chrome-devtools-mcp]] [[freestylefly-awesome-gpt-image-2]]
+[[freestylefly-awesome-gpt-image-2]] [[livekit-agents]] [[conardli-garden-skills]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[addyosmani-agent-skills]] [[calesthio-openmontage]] [[bigskysoftware-htmx]] [[pkuflyingpig-cs-self-learning]]
+[[livekit-agents]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[marin-community-marin]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

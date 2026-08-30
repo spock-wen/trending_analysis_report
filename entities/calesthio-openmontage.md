@@ -38,7 +38,7 @@ World's first open-source, agentic video production system. 12 production pipeli
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[tt-a1i-archify]] [[p-e-w-heretic]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]]
+[[livekit-agents]] [[tt-a1i-archify]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[p-e-w-heretic]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

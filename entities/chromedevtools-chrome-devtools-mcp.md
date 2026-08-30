@@ -38,7 +38,7 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[calesthio-openmontage]] [[bigskysoftware-htmx]] [[tt-a1i-archify]]
+[[livekit-agents]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[tashfeenahmed-freellmapi]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

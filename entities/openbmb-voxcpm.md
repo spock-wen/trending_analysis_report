@@ -38,7 +38,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[livekit-agents]] [[unslothai-unsloth]] [[freestylefly-awesome-gpt-image-2]] [[conardli-garden-skills]]
+[[freestylefly-awesome-gpt-image-2]] [[livekit-agents]] [[conardli-garden-skills]] [[unclecode-crawl4ai]] [[unslothai-unsloth]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

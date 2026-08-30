@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[obra-superpowers]] [[ruvnet-ruflo]] [[microsoft-ai-for-beginners]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]]
+[[ruvnet-ruflo]] [[anthropics-claude-cookbooks]] [[microsoft-generative-ai-for-beginners]] [[tooljet-tooljet]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

@@ -36,5 +36,5 @@ CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
 ## 相关项目
 
-[[asciimoo-hister]] [[workweave-router]] [[jetbrains-go-modern-guidelines]] [[tailscale-tailcat]]
+[[workweave-router]] [[jetbrains-go-modern-guidelines]] [[tailscale-tailcat]] [[majd-ipatool]]
 

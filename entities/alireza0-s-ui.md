@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[bigskysoftware-htmx]] [[tt-a1i-archify]] [[abi-screenshot-to-code]] [[jetbrains-go-modern-guidelines]] [[workweave-router]]
+[[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[tailscale-tailcat]] [[unclecode-crawl4ai]] [[workweave-router]]
 
 **所属领域**: [[web]]
 

@@ -35,7 +35,7 @@ Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[bigskysoftware-htmx]] [[tt-a1i-archify]] [[p-e-w-heretic]]
+[[livekit-agents]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

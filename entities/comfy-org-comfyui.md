@@ -35,7 +35,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[unslothai-unsloth]] [[freestylefly-awesome-gpt-image-2]] [[conardli-garden-skills]] [[p-e-w-heretic]]
+[[freestylefly-awesome-gpt-image-2]] [[conardli-garden-skills]] [[unclecode-crawl4ai]] [[unslothai-unsloth]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[image-gen]]
 

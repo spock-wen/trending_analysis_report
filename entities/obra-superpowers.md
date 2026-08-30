@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[addyosmani-agent-skills]] [[calesthio-openmontage]] [[thu-maic-openmaic]] [[msitarzewski-agency-agents]]
+[[livekit-agents]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[basecamp-omarchy]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

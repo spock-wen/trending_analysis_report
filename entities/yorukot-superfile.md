@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[thu-maic-openmaic]] [[jetbrains-go-modern-guidelines]] [[abhigyanpatwari-gitnexus]] [[workweave-router]]
+[[abhigyanpatwari-gitnexus]] [[tailscale-tailcat]] [[thu-maic-openmaic]] [[workweave-router]] [[lakr233-vphone-cli]]
 
 **所属领域**: [[cli]]
 

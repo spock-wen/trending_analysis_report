@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[calesthio-openmontage]] [[thu-maic-openmaic]] [[kepano-obsidian-skills]] [[ruvnet-ruflo]]
+[[ruvnet-ruflo]] [[marin-community-marin]] [[rohitg00-ai-engineering-from-scratch]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[education]] [[science]]
 

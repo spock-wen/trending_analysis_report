@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[obra-superpowers]] [[genlayerlabs-genlayer-project-boilerplate]] [[tooljet-tooljet]] [[hugohe3-ppt-master]]
+[[unclecode-crawl4ai]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[p-e-w-heretic]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[erp]]
 

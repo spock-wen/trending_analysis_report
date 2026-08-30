@@ -34,7 +34,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[posthog-posthog]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[calesthio-openmontage]] [[chromedevtools-chrome-devtools-mcp]]
+[[livekit-agents]] [[tencent-ai-infra-guard]] [[ruvnet-ruflo]] [[abhigyanpatwari-gitnexus]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

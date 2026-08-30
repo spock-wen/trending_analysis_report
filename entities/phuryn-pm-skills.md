@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[basecamp-omarchy]] [[k-dense-ai-scientific-agent-skills]]
+[[livekit-agents]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

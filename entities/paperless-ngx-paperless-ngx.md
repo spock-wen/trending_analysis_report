@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[calesthio-openmontage]] [[marin-community-marin]] [[p-e-w-heretic]] [[k-dense-ai-scientific-agent-skills]]
+[[marin-community-marin]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[p-e-w-heretic]]
 
 **所属领域**: [[science]]
 

@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[chromedevtools-chrome-devtools-mcp]] [[kepano-obsidian-skills]] [[ruvnet-ruflo]] [[every-app-open-seo]]
+[[ruvnet-ruflo]] [[abhigyanpatwari-gitnexus]] [[rohitg00-ai-engineering-from-scratch]] [[tashfeenahmed-freellmapi]] [[thu-maic-openmaic]]
 
 **所属领域**: [[education]]
 

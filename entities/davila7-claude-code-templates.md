@@ -36,7 +36,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[posthog-posthog]] [[calesthio-openmontage]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[basecamp-omarchy]]
+[[livekit-agents]] [[tencent-ai-infra-guard]] [[ruvnet-ruflo]] [[abhigyanpatwari-gitnexus]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

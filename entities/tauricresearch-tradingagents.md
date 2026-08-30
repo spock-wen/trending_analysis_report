@@ -38,7 +38,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[marin-community-marin]] [[p-e-w-heretic]] [[k-dense-ai-scientific-agent-skills]]
+[[livekit-agents]] [[marin-community-marin]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[p-e-w-heretic]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

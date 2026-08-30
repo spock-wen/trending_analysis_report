@@ -36,7 +36,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[calesthio-openmontage]] [[chromedevtools-chrome-devtools-mcp]]
+[[livekit-agents]] [[abhigyanpatwari-gitnexus]] [[marin-community-marin]] [[unclecode-crawl4ai]] [[tashfeenahmed-freellmapi]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

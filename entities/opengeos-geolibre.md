@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[thu-maic-openmaic]] [[chromedevtools-chrome-devtools-mcp]] [[bigskysoftware-htmx]] [[tt-a1i-archify]]
+[[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[tashfeenahmed-freellmapi]] [[thu-maic-openmaic]]
 
 **所属领域**: [[web]] [[data]]
 

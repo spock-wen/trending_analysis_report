@@ -36,7 +36,7 @@ The context API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[chromedevtools-chrome-devtools-mcp]] [[bigskysoftware-htmx]] [[tt-a1i-archify]] [[abi-screenshot-to-code]]
+[[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[tashfeenahmed-freellmapi]] [[thu-maic-openmaic]]
 
 **所属领域**: [[web]]
 

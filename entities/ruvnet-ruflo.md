@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[posthog-posthog]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[calesthio-openmontage]] [[chromedevtools-chrome-devtools-mcp]]
+[[livekit-agents]] [[tencent-ai-infra-guard]] [[abhigyanpatwari-gitnexus]] [[posthog-posthog]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

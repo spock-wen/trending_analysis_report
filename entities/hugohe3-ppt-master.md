@@ -35,7 +35,7 @@ AI turns documents or topics into real, native PowerPoint decks—with native sh
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[genlayerlabs-genlayer-project-boilerplate]] [[tooljet-tooljet]]
+[[livekit-agents]] [[tt-a1i-archify]] [[tooljet-tooljet]] [[unclecode-crawl4ai]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]] [[erp]] [[audio]]
 

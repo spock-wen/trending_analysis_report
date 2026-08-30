@@ -38,7 +38,7 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[bigskysoftware-htmx]] [[tt-a1i-archify]] [[abi-screenshot-to-code]]
+[[livekit-agents]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

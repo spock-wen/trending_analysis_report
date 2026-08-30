@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[thu-maic-openmaic]] [[kepano-obsidian-skills]] [[ruvnet-ruflo]] [[p-e-w-heretic]]
+[[ruvnet-ruflo]] [[rohitg00-ai-engineering-from-scratch]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[thu-maic-openmaic]]
 
 **所属领域**: [[education]]
 

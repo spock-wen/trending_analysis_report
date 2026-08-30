@@ -36,7 +36,7 @@ Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[tt-a1i-archify]] [[p-e-w-heretic]] [[k-dense-ai-scientific-agent-skills]]
+[[livekit-agents]] [[tt-a1i-archify]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[p-e-w-heretic]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

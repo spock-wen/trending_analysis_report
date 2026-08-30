@@ -38,5 +38,5 @@ Action for checking out a repo
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[chromedevtools-chrome-devtools-mcp]] [[every-app-open-seo]]
+[[abhigyanpatwari-gitnexus]] [[tashfeenahmed-freellmapi]] [[thu-maic-openmaic]] [[every-app-open-seo]]
 

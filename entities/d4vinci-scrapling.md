@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[bigskysoftware-htmx]] [[tt-a1i-archify]] [[abi-screenshot-to-code]] [[p-e-w-heretic]]
+[[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[p-e-w-heretic]]
 
 **所属领域**: [[web]]
 

@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[tt-a1i-archify]] [[jetbrains-go-modern-guidelines]] [[k-dense-ai-scientific-agent-skills]]
+[[livekit-agents]] [[tt-a1i-archify]] [[tailscale-tailcat]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

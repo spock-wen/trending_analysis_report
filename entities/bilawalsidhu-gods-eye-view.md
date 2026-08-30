@@ -36,7 +36,7 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[bigskysoftware-htmx]] [[tt-a1i-archify]] [[abi-screenshot-to-code]]
+[[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[addyosmani-agent-skills]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[web]] [[data]]
 

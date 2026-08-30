@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[thu-maic-openmaic]] [[kepano-obsidian-skills]] [[lyogavin-airllm]]
+[[livekit-agents]] [[ruvnet-ruflo]] [[rohitg00-ai-engineering-from-scratch]] [[unclecode-crawl4ai]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[calesthio-openmontage]] [[chromedevtools-chrome-devtools-mcp]] [[basecamp-omarchy]]
+[[livekit-agents]] [[ruvnet-ruflo]] [[abhigyanpatwari-gitnexus]] [[rohitg00-ai-engineering-from-scratch]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

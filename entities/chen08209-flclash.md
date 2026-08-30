@@ -35,7 +35,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[thu-maic-openmaic]] [[localsend-localsend]] [[flutter-flutter]] [[abhigyanpatwari-gitnexus]]
+[[localsend-localsend]] [[abhigyanpatwari-gitnexus]] [[flutter-flutter]] [[thu-maic-openmaic]] [[lakr233-vphone-cli]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[kepano-obsidian-skills]] [[ruvnet-ruflo]]
+[[livekit-agents]] [[ruvnet-ruflo]] [[rohitg00-ai-engineering-from-scratch]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

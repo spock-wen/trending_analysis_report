@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[bigskysoftware-htmx]] [[pkuflyingpig-cs-self-learning]] [[tt-a1i-archify]] [[cathrynlavery-diagram-design]] [[abi-screenshot-to-code]]
+[[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[cathrynlavery-diagram-design]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[web]]
 

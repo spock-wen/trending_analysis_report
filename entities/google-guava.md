@@ -36,5 +36,5 @@ Google core libraries for Java
 
 ## 相关项目
 
-[[github-copilot-sdk]] [[nationalsecurityagency-ghidra]] [[jenkinsci-jenkins]]
+[[nationalsecurityagency-ghidra]] [[github-copilot-sdk]] [[checkstyle-checkstyle]]
 

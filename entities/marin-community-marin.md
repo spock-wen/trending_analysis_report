@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[calesthio-openmontage]] [[p-e-w-heretic]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]]
+[[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[p-e-w-heretic]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[science]]
 

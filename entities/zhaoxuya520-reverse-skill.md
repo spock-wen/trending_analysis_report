@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[calesthio-openmontage]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[alishahryar1-free-claude-code]]
+[[livekit-agents]] [[raphire-win11debloat]] [[abhigyanpatwari-gitnexus]] [[marin-community-marin]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

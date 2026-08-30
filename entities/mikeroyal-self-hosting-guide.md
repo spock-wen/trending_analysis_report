@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[bigskysoftware-htmx]] [[tt-a1i-archify]]
+[[livekit-agents]] [[tt-a1i-archify]] [[ruvnet-ruflo]] [[abhigyanpatwari-gitnexus]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

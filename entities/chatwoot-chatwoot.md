@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[docusealco-docuseal]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]]
+[[livekit-agents]] [[docusealco-docuseal]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[calesthio-openmontage]] [[lyogavin-airllm]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-cookbooks]]
+[[livekit-agents]] [[unclecode-crawl4ai]] [[lyogavin-airllm]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-cookbooks]]
 
 **所属领域**: [[ai-agent]]
 

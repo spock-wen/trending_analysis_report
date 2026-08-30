@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[kepano-obsidian-skills]] [[ruvnet-ruflo]]
+[[livekit-agents]] [[ruvnet-ruflo]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

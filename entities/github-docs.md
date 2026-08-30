@@ -34,5 +34,5 @@ The open-source repo for docs.github.com
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[chromedevtools-chrome-devtools-mcp]] [[every-app-open-seo]] [[actions-checkout]]
+[[abhigyanpatwari-gitnexus]] [[tashfeenahmed-freellmapi]] [[thu-maic-openmaic]] [[every-app-open-seo]]
 

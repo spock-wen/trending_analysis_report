@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[posthog-posthog]] [[ruvnet-ruflo]] [[tencent-ai-infra-guard]] [[dani-garcia-vaultwarden]] [[ripienaar-free-for-dev]]
+[[aprilnea-openlogi]] [[tencent-ai-infra-guard]] [[ruvnet-ruflo]] [[posthog-posthog]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[devops]]
 

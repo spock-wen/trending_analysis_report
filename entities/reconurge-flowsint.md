@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[chromedevtools-chrome-devtools-mcp]] [[tashfeenahmed-freellmapi]] [[affaan-m-ecc]] [[every-app-open-seo]]
+[[abhigyanpatwari-gitnexus]] [[nationalsecurityagency-ghidra]] [[tashfeenahmed-freellmapi]] [[thu-maic-openmaic]] [[kaifcodec-user-scanner]]
 
 **所属领域**: [[security]]
 

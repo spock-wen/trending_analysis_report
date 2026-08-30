@@ -38,7 +38,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[calesthio-openmontage]] [[addyosmani-agent-skills]] [[k-dense-ai-scientific-agent-skills]]
+[[livekit-agents]] [[k-dense-ai-scientific-agent-skills]] [[unclecode-crawl4ai]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

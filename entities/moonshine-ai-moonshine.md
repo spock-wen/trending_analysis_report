@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[addyosmani-agent-skills]] [[calesthio-openmontage]] [[livekit-agents]] [[google-googletest]]
+[[livekit-agents]] [[unclecode-crawl4ai]] [[google-googletest]] [[k-dense-ai-scientific-agent-skills]] [[microsoft-onnxruntime]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

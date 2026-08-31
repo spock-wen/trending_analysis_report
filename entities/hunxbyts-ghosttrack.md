@@ -34,5 +34,5 @@ Useful tool to track location or mobile number
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[p-e-w-heretic]] [[unclecode-crawl4ai]] [[mvanhorn-last30days-skill]]
+[[osmantic-ods]] [[p-e-w-heretic]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]]
 

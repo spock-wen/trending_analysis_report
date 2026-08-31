@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[p-e-w-heretic]]
+[[osmantic-ods]] [[kaifcodec-user-scanner]] [[abhigyanpatwari-gitnexus]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[web]]
 

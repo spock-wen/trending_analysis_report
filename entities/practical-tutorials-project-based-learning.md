@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[rohitg00-ai-engineering-from-scratch]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[thu-maic-openmaic]]
+[[thu-maic-openmaic]] [[osmantic-ods]] [[kaifcodec-user-scanner]] [[k-dense-ai-scientific-agent-skills]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[education]]
 

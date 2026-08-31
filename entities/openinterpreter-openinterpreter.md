@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[aprilnea-openlogi]] [[livekit-agents]] [[unclecode-crawl4ai]] [[obra-superpowers]] [[dani-garcia-vaultwarden]]
+[[aprilnea-openlogi]] [[tinyhumansai-openhuman]] [[k-dense-ai-scientific-agent-skills]] [[tt-a1i-archify]] [[firecrawl-pdf-inspector]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

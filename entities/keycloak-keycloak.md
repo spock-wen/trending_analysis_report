@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]] [[affaan-m-ecc]] [[tashfeenahmed-freellmapi]] [[kaifcodec-user-scanner]]
+[[kaifcodec-user-scanner]] [[github-copilot-sdk]] [[nationalsecurityagency-ghidra]] [[google-guava]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[security]]
 

@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[livekit-agents]] [[bannedbook-fanqiang]] [[embabel-embabel-agent]] [[mahlernim-google-timeline-visualizer]] [[unclecode-crawl4ai]]
+[[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[andreknieriem-headunit-revived]] [[zhaoxuya520-reverse-skill]] [[bannedbook-fanqiang]]
 
 **所属领域**: [[ai-agent]]
 

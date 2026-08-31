@@ -35,5 +35,5 @@ Hyprland is an independent, highly customizable, dynamic tiling Wayland composit
 
 ## 相关项目
 
-[[google-googletest]] [[protocolbuffers-protobuf]] [[microsoft-onnxruntime]] [[ladybirdbrowser-ladybird]]
+[[google-googletest]] [[ladybirdbrowser-ladybird]] [[microsoft-onnxruntime]] [[protocolbuffers-protobuf]]
 

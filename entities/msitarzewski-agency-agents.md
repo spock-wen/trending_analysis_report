@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[livekit-agents]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[basecamp-omarchy]]
+[[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[basecamp-omarchy]] [[k-dense-ai-scientific-agent-skills]] [[tt-a1i-archify]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

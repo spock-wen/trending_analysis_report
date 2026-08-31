@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[aprilnea-openlogi]] [[tt-a1i-archify]] [[majd-ipatool]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]]
+[[aprilnea-openlogi]] [[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[tt-a1i-archify]] [[tinyhumansai-openhuman]]
 
 **所属领域**: [[web]] [[cli]]
 

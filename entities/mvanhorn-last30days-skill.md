@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[livekit-agents]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[marin-community-marin]] [[unclecode-crawl4ai]]
+[[osmantic-ods]] [[kaifcodec-user-scanner]] [[abhigyanpatwari-gitnexus]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

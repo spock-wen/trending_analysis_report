@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[freestylefly-awesome-gpt-image-2]] [[livekit-agents]] [[tt-a1i-archify]] [[diolinux-photogimp]] [[abhigyanpatwari-gitnexus]]
+[[abhigyanpatwari-gitnexus]] [[osmantic-ods]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[diolinux-photogimp]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

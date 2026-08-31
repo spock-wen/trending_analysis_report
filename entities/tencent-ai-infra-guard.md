@@ -35,7 +35,7 @@ A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skil
 
 ## 相关项目
 
-[[livekit-agents]] [[ruvnet-ruflo]] [[posthog-posthog]] [[unclecode-crawl4ai]] [[ripienaar-free-for-dev]]
+[[osmantic-ods]] [[kaifcodec-user-scanner]] [[ripienaar-free-for-dev]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

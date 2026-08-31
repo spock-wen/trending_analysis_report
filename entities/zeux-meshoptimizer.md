@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[google-googletest]] [[obra-superpowers]] [[microsoft-onnxruntime]] [[ladybirdbrowser-ladybird]] [[tooljet-tooljet]]
+[[google-googletest]] [[ladybirdbrowser-ladybird]] [[protocolbuffers-protobuf]] [[obra-superpowers]] [[genlayerlabs-genlayer-project-boilerplate]]
 
 **所属领域**: [[erp]]
 

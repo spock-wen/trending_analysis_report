@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[marin-community-marin]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[p-e-w-heretic]]
+[[osmantic-ods]] [[kaifcodec-user-scanner]] [[k-dense-ai-scientific-agent-skills]] [[p-e-w-heretic]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[science]]
 

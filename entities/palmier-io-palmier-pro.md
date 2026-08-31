@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[livekit-agents]] [[permissionlesstech-bitchat]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[jaywcjlove-awesome-mac]]
+[[altic-dev-fluidvoice]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[permissionlesstech-bitchat]] [[jaywcjlove-awesome-mac]]
 
 **所属领域**: [[ai-agent]]
 

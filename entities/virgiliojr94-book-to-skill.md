@@ -35,7 +35,7 @@ Turn any technical book PDF into a Claude Code skill — ready to study, referen
 
 ## 相关项目
 
-[[livekit-agents]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[p-e-w-heretic]] [[mvanhorn-last30days-skill]]
+[[osmantic-ods]] [[kaifcodec-user-scanner]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[p-e-w-heretic]]
 
 **所属领域**: [[ai-agent]]
 

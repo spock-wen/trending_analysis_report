@@ -1,7 +1,7 @@
 ---
 title: "Python Ecosystem Surge"
 created: 2026-06-07
-updated: 2026-08-31
+updated: 2026-09-01
 type: concept
 tags: [python, surge]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 信号概述
 
-2026-08-31 检测到 Python 领域有 6 个项目同时上榜，表明该语言生态近期活跃度显著上升。
+2026-09-01 检测到 Python 领域有 6 个项目同时上榜，表明该语言生态近期活跃度显著上升。
 
 ## 上榜项目（6 个）
 
-[[k-dense-ai-scientific-agent-skills]] [[p-e-w-heretic]] [[unclecode-crawl4ai]] [[mvanhorn-last30days-skill]] [[handsomestwei-patent-disclosure-skill]] [[livekit-agents]]
+[[k-dense-ai-scientific-agent-skills]] [[jingyaogong-minimind]] [[osmantic-ods]] [[kaifcodec-user-scanner]] [[p-e-w-heretic]] [[handsomestwei-patent-disclosure-skill]]
 
 ## 语言分布
 

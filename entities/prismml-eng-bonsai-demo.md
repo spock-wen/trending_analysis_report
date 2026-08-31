@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[livekit-agents]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[basecamp-omarchy]] [[k-dense-ai-scientific-agent-skills]]
+[[thu-maic-openmaic]] [[basecamp-omarchy]] [[k-dense-ai-scientific-agent-skills]] [[tt-a1i-archify]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

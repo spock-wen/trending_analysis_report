@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[livekit-agents]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[nationalsecurityagency-ghidra]] [[bilawalsidhu-gods-eye-view]]
+[[thu-maic-openmaic]] [[kaifcodec-user-scanner]] [[github-copilot-sdk]] [[k-dense-ai-scientific-agent-skills]] [[tt-a1i-archify]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

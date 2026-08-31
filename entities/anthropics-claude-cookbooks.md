@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[livekit-agents]] [[unclecode-crawl4ai]] [[lyogavin-airllm]] [[k-dense-ai-scientific-agent-skills]] [[mvanhorn-last30days-skill]]
+[[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

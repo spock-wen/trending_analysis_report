@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[livekit-agents]] [[ruvnet-ruflo]] [[rohitg00-ai-engineering-from-scratch]] [[unclecode-crawl4ai]] [[lyogavin-airllm]]
+[[thu-maic-openmaic]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

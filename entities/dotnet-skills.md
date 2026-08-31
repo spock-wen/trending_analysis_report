@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[livekit-agents]] [[k1tbyte-wand-enhancer]] [[par274-sharpemu]] [[dotnet-aspnetcore]] [[unclecode-crawl4ai]]
+[[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]]
 

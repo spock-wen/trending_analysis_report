@@ -36,7 +36,7 @@ Help AI coding agents write modern Go
 
 ## 相关项目
 
-[[livekit-agents]] [[tailscale-tailcat]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[workweave-router]]
+[[workweave-router]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[tailscale-tailcat]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]]
 

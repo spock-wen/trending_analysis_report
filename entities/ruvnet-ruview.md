@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[aprilnea-openlogi]] [[tencent-ai-infra-guard]] [[ruvnet-ruflo]] [[posthog-posthog]] [[ripienaar-free-for-dev]]
+[[aprilnea-openlogi]] [[ripienaar-free-for-dev]] [[tinyhumansai-openhuman]] [[firecrawl-pdf-inspector]] [[openai-codex]]
 
 **所属领域**: [[devops]]
 

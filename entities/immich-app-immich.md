@@ -37,5 +37,5 @@ High performance self-hosted photo and video management solution.
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[tashfeenahmed-freellmapi]] [[thu-maic-openmaic]] [[every-app-open-seo]]
+[[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[tashfeenahmed-freellmapi]] [[every-app-open-seo]]
 

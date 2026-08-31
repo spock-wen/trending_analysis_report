@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[obra-superpowers]] [[tashfeenahmed-freellmapi]] [[thu-maic-openmaic]] [[every-app-open-seo]]
+[[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[every-app-open-seo]] [[obra-superpowers]] [[genlayerlabs-genlayer-project-boilerplate]]
 
 **所属领域**: [[erp]]
 

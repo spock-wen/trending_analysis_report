@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[freestylefly-awesome-gpt-image-2]] [[livekit-agents]] [[tt-a1i-archify]] [[conardli-garden-skills]] [[unclecode-crawl4ai]]
+[[osmantic-ods]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[addyosmani-agent-skills]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

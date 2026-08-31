@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[tt-a1i-archify]] [[bigskysoftware-htmx]] [[bilawalsidhu-gods-eye-view]]
+[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[bilawalsidhu-gods-eye-view]] [[tt-a1i-archify]]
 

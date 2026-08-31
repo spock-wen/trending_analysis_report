@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[livekit-agents]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[tashfeenahmed-freellmapi]]
+[[altic-dev-fluidvoice]] [[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[osmantic-ods]] [[tt-a1i-archify]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

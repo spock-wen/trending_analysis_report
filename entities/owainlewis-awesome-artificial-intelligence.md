@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[livekit-agents]] [[ruvnet-ruflo]] [[marin-community-marin]] [[rohitg00-ai-engineering-from-scratch]] [[unclecode-crawl4ai]]
+[[thu-maic-openmaic]] [[kaifcodec-user-scanner]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

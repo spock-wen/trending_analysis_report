@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[livekit-agents]] [[tencent-ai-infra-guard]] [[abhigyanpatwari-gitnexus]] [[posthog-posthog]] [[rohitg00-ai-engineering-from-scratch]]
+[[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[ripienaar-free-for-dev]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

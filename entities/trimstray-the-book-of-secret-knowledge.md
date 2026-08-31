@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[thu-maic-openmaic]] [[mvanhorn-last30days-skill]]
+[[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[tt-a1i-archify]] [[mvanhorn-last30days-skill]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[web]] [[cli]]
 

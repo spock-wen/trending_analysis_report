@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[nationalsecurityagency-ghidra]] [[google-googletest]] [[microsoft-onnxruntime]] [[thu-maic-openmaic]]
+[[google-googletest]] [[ladybirdbrowser-ladybird]] [[thu-maic-openmaic]] [[kaifcodec-user-scanner]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[cli]] [[security]]
 

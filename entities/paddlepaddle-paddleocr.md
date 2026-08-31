@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[freestylefly-awesome-gpt-image-2]] [[livekit-agents]] [[tt-a1i-archify]] [[conardli-garden-skills]] [[unclecode-crawl4ai]]
+[[osmantic-ods]] [[kaifcodec-user-scanner]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[conardli-garden-skills]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[livekit-agents]] [[abhigyanpatwari-gitnexus]] [[marin-community-marin]] [[unclecode-crawl4ai]] [[obra-superpowers]]
+[[osmantic-ods]] [[kaifcodec-user-scanner]] [[thu-maic-openmaic]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

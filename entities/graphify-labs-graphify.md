@@ -36,7 +36,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[lakr233-vphone-cli]] [[conardli-garden-skills]] [[abhigyanpatwari-gitnexus]] [[posthog-posthog]]
+[[osmantic-ods]] [[kaifcodec-user-scanner]] [[thu-maic-openmaic]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

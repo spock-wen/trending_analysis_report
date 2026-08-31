@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[livekit-agents]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[cathrynlavery-diagram-design]]
+[[abhigyanpatwari-gitnexus]] [[kaifcodec-user-scanner]] [[ripienaar-free-for-dev]] [[trycua-cua]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

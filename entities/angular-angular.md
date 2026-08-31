@@ -34,7 +34,7 @@ Deliver web apps with confidence 🚀
 
 ## 相关项目
 
-[[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[tashfeenahmed-freellmapi]] [[thu-maic-openmaic]]
+[[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[tt-a1i-archify]] [[mvanhorn-last30days-skill]] [[every-app-open-seo]]
 
 **所属领域**: [[web]]
 

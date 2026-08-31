@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[aprilnea-openlogi]] [[tt-a1i-archify]] [[dani-garcia-vaultwarden]] [[k-dense-ai-scientific-agent-skills]] [[calesthio-openmontage]]
+[[aprilnea-openlogi]] [[kaifcodec-user-scanner]] [[tinyhumansai-openhuman]] [[k-dense-ai-scientific-agent-skills]] [[tt-a1i-archify]]
 
 **所属领域**: [[data]]
 

@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[livekit-agents]] [[abhigyanpatwari-gitnexus]] [[nationalsecurityagency-ghidra]] [[unclecode-crawl4ai]] [[thu-maic-openmaic]]
+[[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[kaifcodec-user-scanner]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

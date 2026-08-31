@@ -37,7 +37,7 @@ Memory engine and app that is extremely fast, scalable. The Memory API for the A
 
 ## 相关项目
 
-[[livekit-agents]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[tashfeenahmed-freellmapi]] [[k-dense-ai-scientific-agent-skills]]
+[[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[every-app-open-seo]]
 
 **所属领域**: [[ai-agent]]
 

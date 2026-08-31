@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[p-e-w-heretic]] [[mvanhorn-last30days-skill]]
+[[osmantic-ods]] [[kaifcodec-user-scanner]] [[k-dense-ai-scientific-agent-skills]] [[p-e-w-heretic]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[science]]
 

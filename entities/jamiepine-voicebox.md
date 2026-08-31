@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[livekit-agents]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[tashfeenahmed-freellmapi]] [[k-dense-ai-scientific-agent-skills]]
+[[altic-dev-fluidvoice]] [[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[osmantic-ods]] [[tt-a1i-archify]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

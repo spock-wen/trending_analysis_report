@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[nationalsecurityagency-ghidra]] [[tashfeenahmed-freellmapi]] [[thu-maic-openmaic]] [[kaifcodec-user-scanner]]
+[[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[kaifcodec-user-scanner]] [[every-app-open-seo]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[security]]
 

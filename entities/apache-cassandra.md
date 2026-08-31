@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[tt-a1i-archify]] [[tencent-ai-infra-guard]] [[ruvnet-ruflo]] [[posthog-posthog]] [[nationalsecurityagency-ghidra]]
+[[kaifcodec-user-scanner]] [[ripienaar-free-for-dev]] [[github-copilot-sdk]] [[k-dense-ai-scientific-agent-skills]] [[tt-a1i-archify]]
 
 **所属领域**: [[data]] [[devops]]
 

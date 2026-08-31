@@ -34,7 +34,7 @@ Model router for agentic systems. Routes every prompt to the right model in <50m
 
 ## 相关项目
 
-[[livekit-agents]] [[tailscale-tailcat]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[mvanhorn-last30days-skill]]
+[[jetbrains-go-modern-guidelines]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[tailscale-tailcat]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]]
 

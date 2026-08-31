@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-08-31 | 总页面：539
+> 最后更新：2026-09-01 | 总页面：540
 
 ## Entities
 
@@ -17,7 +17,7 @@
 - [[actions-checkout|checkout"]] — Action for checking out a repo
 - [[activeloopai-hivemind|hivemind"]] — One brain for all your agents
 - [[addyosmani-agent-skills|agent-skills"]] — Production-grade engineering skills for AI coding agents.
-- [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i... 🆕
+- [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i...
 - [[agalwood-motrix|Motrix"]] — A full-featured download manager. 🆕
 - [[agavra-tuicr|tuicr"]] — a code review TUI with vim keybindings 🆕
 - [[agegr-pi-web|pi-web"]] — Web UI for the pi coding agent 🔥
@@ -113,7 +113,7 @@
 - [[codecrafters-io-build-your-own-x|build-your-own-x"]] — Master programming by recreating your favorite technologies ...
 - [[colbymchenry-codegraph|codegraph"]] — Pre-indexed code knowledge graph for Claude Code, Codex, Cur... 🔥
 - [[colemurray-background-agents|background-agents"]] — An open-source background agents coding system
-- [[colinhacks-zod|zod"]] — TypeScript-first schema validation with static type inferenc... 🆕
+- [[colinhacks-zod|zod"]] — TypeScript-first schema validation with static type inferenc...
 - [[comfy-org-comfyui|ComfyUI"]] — The most powerful and modular diffusion model GUI, api and b... 🆕
 - [[commaai-openpilot|openpilot"]] — openpilot is an operating system for robotics. Currently, it... 🔥
 - [[composiohq-awesome-claude-skills|awesome-claude-skills"]] — A curated list of awesome Claude Skills, resources, and tool...
@@ -124,7 +124,7 @@
 - [[cordiverse-cordis|cordis"]] — Meta-Framework of Spatiotemporal Composability 🔥
 - [[corebunch-instatic|Instatic"]] — The open-source alternative to Webflow, Framer and WordPress... 🆕
 - [[coreyhaines31-marketingskills|marketingskills"]] — Marketing skills for Claude Code and AI agents. CRO, copywri...
-- [[corsairdev-corsair|corsair"]] — Connect your users to their apps 🆕
+- [[corsairdev-corsair|corsair"]] — Connect your users to their apps
 - [[crosstalk-solutions-project-nomad|project-nomad"]] — Project N.O.M.A.D, is a self-contained, offline survival com...
 - [[crynta-terax-ai|terax-ai"]] — Lightweight (7MB) Terminal-first AI-native dev workspace
 - [[cupy-cupy|cupy"]] — NumPy & SciPy for GPU 🆕
@@ -165,13 +165,13 @@
 - [[embabel-embabel-agent|embabel-agent"]] — Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbə...
 - [[emmabostian-developer-portfolios|developer-portfolios"]] — A list of developer portfolios for your inspiration
 - [[esengine-deepseek-reasonix|DeepSeek-Reasonix"]] — DeepSeek-native AI coding agent for your terminal. Engineere... 🔥
-- [[every-app-open-seo|open-seo"]] — Open source alternative to Semrush and Ahrefs 🆕
+- [[every-app-open-seo|open-seo"]] — Open source alternative to Semrush and Ahrefs 🔥
 - [[everyinc-compound-engineering-plugin|compound-engineering-plugin"]] — Official Compound Engineering plugin for Claude Code, Codex,...
 - [[facebook-astryx|astryx"]] — An open source design system that's fully customizable and a...
 - [[fareedkhan-dev-train-llm-from-scratch|train-llm-from-scratch"]] — A straightforward method for training your LLM, from downloa...
 - [[fincept-corporation-finceptterminal|FinceptTerminal"]] — FinceptTerminal is a modern finance application offering adv...
 - [[firecrawl-firecrawl|firecrawl"]] — The context API to search, scrape, and interact with the web...
-- [[firecrawl-pdf-inspector|pdf-inspector"]] — Fast Rust library for PDF inspection, classification, and te... 🔥
+- [[firecrawl-pdf-inspector|pdf-inspector"]] — Fast Rust library for PDF inspection, classification, and te...
 - [[fission-ai-openspec|OpenSpec"]] — Spec-driven development (SDD) for AI coding assistants.
 - [[flowseal-zapret-discord-youtube|zapret-discord-youtube"]] — No description
 - [[flutter-flutter|flutter"]] — Flutter makes it easy and fast to build beautiful apps for m...
@@ -252,6 +252,7 @@
 - [[jellyfin-jellyfin|jellyfin"]] — The Free Software Media System - Server Backend & API
 - [[jenkinsci-jenkins|jenkins"]] — Jenkins automation server
 - [[jetbrains-go-modern-guidelines|go-modern-guidelines"]] — Help AI coding agents write modern Go 🔥
+- [[jingyaogong-minimind|minimind"]] — 🧠 Train a 64M-parameter LLM from scratch in just 2h! 🆕
 - [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm"]] — Claude Skill: Multi-source content processor for NotebookLM. 🆕
 - [[juliusbrussee-caveman|caveman"]] — 🪨 why use many token when few token do trick — Claude Code s...
 - [[jundot-omlx|omlx"]] — LLM inference server with continuous batching & SSD caching ... 🔥
@@ -275,7 +276,7 @@
 - [[kvcache-ai-ktransformers|ktransformers"]] — A Flexible Framework for Experiencing Heterogeneous LLM Infe... 🆕
 - [[kyutai-labs-pocket-tts|pocket-tts"]] — A TTS that fits in your CPU (and pocket)
 - [[ladybirdbrowser-ladybird|ladybird"]] — Truly independent web browser
-- [[lakr233-vphone-cli|vphone-cli"]] — No description 🆕
+- [[lakr233-vphone-cli|vphone-cli"]] — No description
 - [[langflow-ai-langflow|langflow"]] — Langflow is a powerful tool for building and deploying AI-po...
 - [[leonxlnx-taste-skill|taste-skill"]] — Taste-Skill - gives your AI good taste. stops the AI from ge... 🆕
 - [[lfnovo-open-notebook|open-notebook"]] — An Open Source implementation of Notebook LM with more flexi... 🔥
@@ -385,7 +386,7 @@
 - [[ottermind-chat2db|Chat2DB"]] — 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI ... 🆕
 - [[oven-sh-bun|bun"]] — Incredibly fast JavaScript runtime, bundler, test runner, an... 🆕
 - [[owainlewis-awesome-artificial-intelligence|awesome-artificial-intelligence"]] — A curated list of Artificial Intelligence (AI) courses, book...
-- [[p-e-w-heretic|heretic"]] — Fully automatic censorship removal for language models 🆕
+- [[p-e-w-heretic|heretic"]] — Fully automatic censorship removal for language models 🔥
 - [[paddlepaddle-paddleocr|PaddleOCR"]] — Turn any PDF or image document into structured data for your... 🆕
 - [[palmier-io-palmier-pro|palmier-pro"]] — macOS video editor built for AI
 - [[panniantong-agent-reach|Agent-Reach"]] — Give your AI agent eyes to see the entire internet. Read & s... 🆕
@@ -413,7 +414,7 @@
 - [[protocolbuffers-protobuf|protobuf"]] — Protocol Buffers - Google's data interchange format
 - [[public-apis-public-apis|public-apis"]] — A collective list of free APIs
 - [[pumpkin-mc-pumpkin|Pumpkin"]] — Empowering everyone to host fast and efficient Minecraft ser... 🔥
-- [[punkpeye-awesome-mcp-servers|awesome-mcp-servers"]] — A collection of MCP servers. 🆕
+- [[punkpeye-awesome-mcp-servers|awesome-mcp-servers"]] — A collection of MCP servers.
 - [[puppeteer-puppeteer|puppeteer"]] — JavaScript API for Chrome and Firefox
 - [[pytest-dev-pytest|pytest"]] — The pytest framework makes it easy to write small tests, yet...
 - [[pytorch-pytorch|pytorch"]] — Tensors and Dynamic neural networks in Python with strong GP... 🆕
@@ -472,7 +473,7 @@
 - [[teng-lin-notebooklm-py|notebooklm-py"]] — Unofficial Python API and agentic skill for Google NotebookL...
 - [[teslamate-org-teslamate|teslamate"]] — A self-hosted data logger for your Tesla 🚘 [main maintainer=... 🆕
 - [[thedotmack-claude-mem|claude-mem"]] — Persistent Context Across Sessions for Every Agent – Capture...
-- [[thu-maic-openmaic|OpenMAIC"]] — Open Multi-Agent Interactive Classroom — Get an immersive, m... 🆕
+- [[thu-maic-openmaic|OpenMAIC"]] — Open Multi-Agent Interactive Classroom — Get an immersive, m... 🔥
 - [[tinyhumansai-openhuman|openhuman"]] — Your Personal AI super intelligence. A brain that builds a l... 🔥
 - [[tirth8205-code-review-graph|code-review-graph"]] — Local-first code intelligence graph for MCP and CLI. Builds ...
 - [[togatoga-karukan|karukan"]] — Japanese Input Method System for Linux, macOS, Neural Kana-K...
@@ -523,7 +524,7 @@
 - [[zai-org-glm-5|GLM-5"]] — GLM-5: From Vibe Coding to Agentic Engineering 🆕
 - [[zedeus-nitter|nitter"]] — Alternative Twitter front-end
 - [[zeux-meshoptimizer|meshoptimizer"]] — Mesh optimization library that makes meshes smaller and fast... 🆕
-- [[zhaoxuya520-reverse-skill|reverse-skill"]] — Reverse Engineering / Authorized Penetration Testing / Secur... 🔥
+- [[zhaoxuya520-reverse-skill|reverse-skill"]] — Reverse Engineering / Authorized Penetration Testing / Secur...
 - [[zuodaotech-everyone-can-use-english|everyone-can-use-english"]] — 人人都能用英语
 
 ## Concepts

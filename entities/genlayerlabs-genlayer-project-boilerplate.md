@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[obra-superpowers]] [[tashfeenahmed-freellmapi]] [[thu-maic-openmaic]] [[every-app-open-seo]]
+[[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[every-app-open-seo]] [[obra-superpowers]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[erp]]
 

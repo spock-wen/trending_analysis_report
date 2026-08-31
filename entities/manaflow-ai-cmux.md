@@ -36,7 +36,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[livekit-agents]] [[permissionlesstech-bitchat]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]]
+[[altic-dev-fluidvoice]] [[thu-maic-openmaic]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[permissionlesstech-bitchat]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

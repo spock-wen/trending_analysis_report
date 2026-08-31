@@ -34,5 +34,5 @@ Free and Open Source, Distributed, RESTful Search Engine
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[github-copilot-sdk]] [[google-guava]] [[checkstyle-checkstyle]]
+[[checkstyle-checkstyle]] [[google-guava]] [[nationalsecurityagency-ghidra]] [[github-copilot-sdk]]
 

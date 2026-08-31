@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[aprilnea-openlogi]] [[livekit-agents]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[nationalsecurityagency-ghidra]]
+[[aprilnea-openlogi]] [[abhigyanpatwari-gitnexus]] [[kaifcodec-user-scanner]] [[tinyhumansai-openhuman]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

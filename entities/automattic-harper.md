@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[aprilnea-openlogi]] [[nationalsecurityagency-ghidra]] [[tashfeenahmed-freellmapi]] [[dani-garcia-vaultwarden]] [[kaifcodec-user-scanner]]
+[[aprilnea-openlogi]] [[kaifcodec-user-scanner]] [[tinyhumansai-openhuman]] [[firecrawl-pdf-inspector]] [[openai-codex]]
 
 **所属领域**: [[security]]
 

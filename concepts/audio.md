@@ -1,7 +1,7 @@
 ---
 title: "audio"
 created: 2026-05-31
-updated: 2026-08-31
+updated: 2026-09-01
 type: concept
 tags: [audio]
 confidence: medium
@@ -11,7 +11,7 @@ confidence: medium
 
 ## 领域项目（共 22 个，今日上榜 1 个）
 
-[[livekit-agents]] [[osmantic-ods]] [[alishahryar1-free-claude-code]] [[altic-dev-fluidvoice]] [[lightricks-ltx-2]] [[hugohe3-ppt-master]] [[huggingface-transformers]] [[jamiepine-voicebox]] [[huggingface-speech-to-speech]] [[abus-aikorea-voice-pro]] [[moeru-ai-airi]] [[microsoft-vibevoice]] [[moonshine-ai-moonshine]] [[kyutai-labs-pocket-tts]] [[openbmb-voxcpm]] [[music-assistant-server]] [[open-llm-vtuber-open-llm-vtuber]] [[openmoss-moss-tts]] [[yt-dlp-yt-dlp]] [[supertone-inc-supertonic]] [[dograh-hq-dograh]] [[light-heart-labs-dreamserver]]
+[[osmantic-ods]] [[livekit-agents]] [[alishahryar1-free-claude-code]] [[altic-dev-fluidvoice]] [[lightricks-ltx-2]] [[hugohe3-ppt-master]] [[huggingface-transformers]] [[jamiepine-voicebox]] [[huggingface-speech-to-speech]] [[abus-aikorea-voice-pro]] [[moeru-ai-airi]] [[microsoft-vibevoice]] [[moonshine-ai-moonshine]] [[kyutai-labs-pocket-tts]] [[openbmb-voxcpm]] [[music-assistant-server]] [[open-llm-vtuber-open-llm-vtuber]] [[openmoss-moss-tts]] [[yt-dlp-yt-dlp]] [[supertone-inc-supertonic]] [[dograh-hq-dograh]] [[light-heart-labs-dreamserver]]
 
 ## 语言分布
 

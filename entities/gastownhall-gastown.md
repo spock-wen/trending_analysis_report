@@ -35,7 +35,7 @@ Gas Town - multi-agent workspace manager
 
 ## 相关项目
 
-[[livekit-agents]] [[tailscale-tailcat]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[workweave-router]]
+[[workweave-router]] [[jetbrains-go-modern-guidelines]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[tailscale-tailcat]]
 
 **所属领域**: [[ai-agent]]
 

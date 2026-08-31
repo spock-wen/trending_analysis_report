@@ -34,7 +34,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[livekit-agents]] [[k-dense-ai-scientific-agent-skills]] [[unclecode-crawl4ai]] [[mvanhorn-last30days-skill]]
+[[affaan-m-ecc]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]]
 

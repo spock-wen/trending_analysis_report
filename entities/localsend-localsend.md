@@ -34,7 +34,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[livekit-agents]] [[flutter-flutter]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[mvanhorn-last30days-skill]]
+[[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[chen08209-flclash]] [[flutter-flutter]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]]
 

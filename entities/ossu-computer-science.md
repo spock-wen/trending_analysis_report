@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[cathrynlavery-diagram-design]] [[ripienaar-free-for-dev]]
+[[abhigyanpatwari-gitnexus]] [[ripienaar-free-for-dev]] [[tt-a1i-archify]] [[trycua-cua]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]]
 

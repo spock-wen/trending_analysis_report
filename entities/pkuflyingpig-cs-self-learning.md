@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[tt-a1i-archify]] [[ruvnet-ruflo]] [[abhigyanpatwari-gitnexus]] [[rohitg00-ai-engineering-from-scratch]] [[unclecode-crawl4ai]]
+[[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[ripienaar-free-for-dev]] [[tt-a1i-archify]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[education]]
 

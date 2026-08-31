@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[freestylefly-awesome-gpt-image-2]] [[tt-a1i-archify]] [[conardli-garden-skills]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]]
+[[abhigyanpatwari-gitnexus]] [[osmantic-ods]] [[ripienaar-free-for-dev]] [[tt-a1i-archify]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[image-gen]]
 

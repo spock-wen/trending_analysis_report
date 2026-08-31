@@ -38,7 +38,7 @@ A vector index built on TurboQuant, written in Rust with Python bindings
 
 ## 相关项目
 
-[[aprilnea-openlogi]] [[livekit-agents]] [[unclecode-crawl4ai]] [[dani-garcia-vaultwarden]] [[k-dense-ai-scientific-agent-skills]]
+[[aprilnea-openlogi]] [[tinyhumansai-openhuman]] [[k-dense-ai-scientific-agent-skills]] [[tt-a1i-archify]] [[firecrawl-pdf-inspector]]
 
 **所属领域**: [[ai-agent]]
 

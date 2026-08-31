@@ -37,7 +37,7 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[majd-ipatool]] [[lakr233-vphone-cli]]
+[[checkstyle-checkstyle]] [[thu-maic-openmaic]] [[majd-ipatool]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[cli]]
 

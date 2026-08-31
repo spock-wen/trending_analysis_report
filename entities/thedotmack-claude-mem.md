@@ -35,7 +35,7 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 
 ## 相关项目
 
-[[livekit-agents]] [[tt-a1i-archify]] [[unclecode-crawl4ai]] [[addyosmani-agent-skills]] [[k-dense-ai-scientific-agent-skills]]
+[[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[addyosmani-agent-skills]] [[bilawalsidhu-gods-eye-view]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]]
 

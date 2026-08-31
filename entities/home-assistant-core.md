@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[unclecode-crawl4ai]] [[tashfeenahmed-freellmapi]] [[k-dense-ai-scientific-agent-skills]] [[p-e-w-heretic]]
+[[osmantic-ods]] [[kaifcodec-user-scanner]] [[k-dense-ai-scientific-agent-skills]] [[p-e-w-heretic]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[security]]
 

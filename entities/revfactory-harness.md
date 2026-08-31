@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[livekit-agents]] [[tt-a1i-archify]] [[abhigyanpatwari-gitnexus]] [[unclecode-crawl4ai]] [[cathrynlavery-diagram-design]]
+[[abhigyanpatwari-gitnexus]] [[ripienaar-free-for-dev]] [[trycua-cua]] [[k-dense-ai-scientific-agent-skills]] [[tt-a1i-archify]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

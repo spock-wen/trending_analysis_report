@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[livekit-agents]] [[tt-a1i-archify]] [[microsoft-powertoys]] [[opa334-dopamine]] [[unclecode-crawl4ai]]
+[[harbourmasters-lighthouse]] [[kaifcodec-user-scanner]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[antirez-ds4]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

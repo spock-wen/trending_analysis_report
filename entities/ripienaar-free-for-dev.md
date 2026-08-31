@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[tt-a1i-archify]] [[tencent-ai-infra-guard]] [[ruvnet-ruflo]] [[abhigyanpatwari-gitnexus]] [[posthog-posthog]]
+[[abhigyanpatwari-gitnexus]] [[trycua-cua]] [[tt-a1i-archify]] [[mvanhorn-last30days-skill]] [[pkuflyingpig-cs-self-learning]]
 
 **所属领域**: [[web]] [[devops]]
 

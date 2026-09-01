@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[affaan-m-ecc]]
+[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[obra-superpowers]] [[averygan-reclip]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

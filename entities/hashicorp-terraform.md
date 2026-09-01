@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[ripienaar-free-for-dev]]
+[[tailscale-tailcat]] [[k-dense-ai-scientific-agent-skills]] [[posthog-posthog]] [[ruvnet-ruflo]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

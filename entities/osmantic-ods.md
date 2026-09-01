@@ -35,7 +35,7 @@ Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[zhaoxuya520-reverse-skill]] [[altic-dev-fluidvoice]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]]
+[[freestylefly-awesome-gpt-image-2]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[k-dense-ai-scientific-agent-skills]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

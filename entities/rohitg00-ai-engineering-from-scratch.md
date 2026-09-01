@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[kepano-obsidian-skills]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]]
+[[browser-use-video-use]] [[k-dense-ai-scientific-agent-skills]] [[ruvnet-ruflo]] [[unclecode-crawl4ai]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

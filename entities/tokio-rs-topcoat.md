@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[aprilnea-openlogi]] [[openai-codex]] [[abhigyanpatwari-gitnexus]] [[tinyhumansai-openhuman]]
+[[browser-use-video-use]] [[tinyhumansai-openhuman]] [[averygan-reclip]] [[unclecode-crawl4ai]] [[firecrawl-pdf-inspector]]
 
 **所属领域**: [[web]]
 

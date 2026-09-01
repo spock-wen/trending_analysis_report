@@ -35,7 +35,7 @@ like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[jetbrains-go-modern-guidelines]]
+[[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[unclecode-crawl4ai]] [[jetbrains-go-modern-guidelines]] [[tt-a1i-archify]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

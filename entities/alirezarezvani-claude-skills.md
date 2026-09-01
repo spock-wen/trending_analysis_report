@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[zhaoxuya520-reverse-skill]] [[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[tooljet-tooljet]]
+[[tooljet-tooljet]] [[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

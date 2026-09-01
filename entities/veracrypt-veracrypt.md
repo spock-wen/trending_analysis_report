@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[microsoft-powertoys]] [[zhaoxuya520-reverse-skill]] [[tashfeenahmed-freellmapi]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]]
+[[zhaoxuya520-reverse-skill]] [[kaifcodec-user-scanner]] [[opa334-dopamine]] [[microsoft-powertoys]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

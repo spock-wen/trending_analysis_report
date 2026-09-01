@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[zhaoxuya520-reverse-skill]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[altic-dev-fluidvoice]]
+[[alishahryar1-free-claude-code]] [[k-dense-ai-scientific-agent-skills]] [[osmantic-ods]] [[unclecode-crawl4ai]] [[microsoft-onnxruntime]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

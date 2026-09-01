@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[ripienaar-free-for-dev]] [[pkuflyingpig-cs-self-learning]]
+[[browser-use-video-use]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[averygan-reclip]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

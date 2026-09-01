@@ -36,7 +36,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[tashfeenahmed-freellmapi]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]]
+[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[unclecode-crawl4ai]] [[every-app-open-seo]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

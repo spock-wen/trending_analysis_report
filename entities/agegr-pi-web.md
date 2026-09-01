@@ -36,7 +36,7 @@ Web UI for the pi coding agent
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[zhaoxuya520-reverse-skill]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[tashfeenahmed-freellmapi]]
+[[browser-use-video-use]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[unclecode-crawl4ai]] [[every-app-open-seo]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

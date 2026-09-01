@@ -38,7 +38,7 @@ Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案�
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[unslothai-unsloth]] [[conardli-garden-skills]]
+[[k-dense-ai-scientific-agent-skills]] [[osmantic-ods]] [[unclecode-crawl4ai]] [[conardli-garden-skills]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

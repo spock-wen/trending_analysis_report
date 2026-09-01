@@ -34,7 +34,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[majd-ipatool]] [[ruvnet-ruflo]]
+[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[ruvnet-ruflo]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

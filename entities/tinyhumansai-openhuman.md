@@ -38,7 +38,7 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 ## 相关项目
 
-[[aprilnea-openlogi]] [[zhaoxuya520-reverse-skill]] [[openai-codex]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]]
+[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[unclecode-crawl4ai]] [[firecrawl-pdf-inspector]] [[imbad0202-academic-research-skills]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

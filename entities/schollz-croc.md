@@ -35,5 +35,5 @@ Easily and securely send things from one computer to another 🐊 📦
 
 ## 相关项目
 
-[[majd-ipatool]] [[workweave-router]] [[jetbrains-go-modern-guidelines]] [[tailscale-tailcat]]
+[[majd-ipatool]] [[workweave-router]] [[tailscale-tailcat]] [[jetbrains-go-modern-guidelines]]
 

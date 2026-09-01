@@ -36,7 +36,7 @@ Lightweight coding agent that runs in your terminal
 
 ## 相关项目
 
-[[aprilnea-openlogi]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[thu-maic-openmaic]] [[affaan-m-ecc]]
+[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[tinyhumansai-openhuman]] [[averygan-reclip]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

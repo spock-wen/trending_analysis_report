@@ -36,7 +36,7 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 
 ## 相关项目
 
-[[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[addyosmani-agent-skills]]
+[[browser-use-video-use]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[averygan-reclip]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[web]] [[data]]
 

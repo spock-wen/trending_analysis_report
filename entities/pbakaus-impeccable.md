@@ -35,7 +35,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[addyosmani-agent-skills]] [[bilawalsidhu-gods-eye-view]]
+[[k-dense-ai-scientific-agent-skills]] [[unclecode-crawl4ai]] [[addyosmani-agent-skills]] [[tt-a1i-archify]] [[imbad0202-academic-research-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -1,0 +1,349 @@
+{
+  "month": "2026-08",
+  "date_range": "2026-08-01 ~ 2026-08-31",
+  "overview": {
+    "total_repos": 202,
+    "total_stars": 299878,
+    "days_with_data": 30,
+    "date_range": "2026-08-01 ~ 2026-08-31",
+    "avg_daily_repos": 6.7
+  },
+  "retention": {
+    "bucket_1day": {
+      "count": 85,
+      "ratio": 0.421
+    },
+    "bucket_2_3days": {
+      "count": 81,
+      "ratio": 0.401
+    },
+    "bucket_4_7days": {
+      "count": 34,
+      "ratio": 0.168
+    },
+    "bucket_8plus": {
+      "count": 2,
+      "ratio": 0.01
+    }
+  },
+  "weekly_domains": {
+    "week_1": {
+      "Python": 19,
+      "TypeScript": 9,
+      "Rust": 4,
+      "Jupyter Notebook": 3,
+      "JavaScript": 3,
+      "C++": 2,
+      "Java": 2,
+      "Go": 2,
+      "C": 2,
+      "Shell": 2
+    },
+    "week_2": {
+      "Python": 24,
+      "TypeScript": 10,
+      "Rust": 5,
+      "Shell": 4,
+      "Go": 3,
+      "Kotlin": 2,
+      "unknown": 2,
+      "Swift": 2,
+      "JavaScript": 1,
+      "Java": 1
+    },
+    "week_3": {
+      "Python": 18,
+      "TypeScript": 10,
+      "Rust": 7,
+      "JavaScript": 3,
+      "Go": 3,
+      "Shell": 3,
+      "HTML": 1,
+      "unknown": 1,
+      "Swift": 1,
+      "Kotlin": 1
+    },
+    "week_4": {
+      "Python": 19,
+      "TypeScript": 9,
+      "JavaScript": 8,
+      "Rust": 4,
+      "Go": 4,
+      "Shell": 3,
+      "C++": 3,
+      "unknown": 2,
+      "HTML": 2,
+      "Kotlin": 1
+    },
+    "week_5": {
+      "Python": 14,
+      "TypeScript": 9,
+      "JavaScript": 6,
+      "Go": 4,
+      "Java": 2,
+      "C++": 1,
+      "PHP": 1,
+      "Swift": 1,
+      "unknown": 1
+    }
+  },
+  "top_repos": {
+    "endurance": [
+      {
+        "repo": "addyosmani/agent-skills",
+        "days_on_chart": 8,
+        "language": "JavaScript",
+        "total_monthly_stars": 4788,
+        "best_rank": 2,
+        "peak_daily_stars": 1131
+      },
+      {
+        "repo": "obra/superpowers",
+        "days_on_chart": 8,
+        "language": "Shell",
+        "total_monthly_stars": 6004,
+        "best_rank": 4,
+        "peak_daily_stars": 931
+      },
+      {
+        "repo": "mattpocock/skills",
+        "days_on_chart": 7,
+        "language": "Shell",
+        "total_monthly_stars": 15069,
+        "best_rank": 1,
+        "peak_daily_stars": 3368
+      },
+      {
+        "repo": "TencentCloud/TencentDB-Agent-Memory",
+        "days_on_chart": 6,
+        "language": "TypeScript",
+        "total_monthly_stars": 6119,
+        "best_rank": 1,
+        "peak_daily_stars": 1891
+      },
+      {
+        "repo": "cursor/plugins",
+        "days_on_chart": 6,
+        "language": "TypeScript",
+        "total_monthly_stars": 1628,
+        "best_rank": 3,
+        "peak_daily_stars": 473
+      },
+      {
+        "repo": "semantica-agi/semantica",
+        "days_on_chart": 6,
+        "language": "Python",
+        "total_monthly_stars": 4713,
+        "best_rank": 1,
+        "peak_daily_stars": 1183
+      },
+      {
+        "repo": "K-Dense-AI/scientific-agent-skills",
+        "days_on_chart": 5,
+        "language": "Python",
+        "total_monthly_stars": 4061,
+        "best_rank": 2,
+        "peak_daily_stars": 1604
+      },
+      {
+        "repo": "PrimeIntellect-ai/prime-agent",
+        "days_on_chart": 5,
+        "language": "TypeScript",
+        "total_monthly_stars": 10876,
+        "best_rank": 1,
+        "peak_daily_stars": 2655
+      }
+    ],
+    "explosiveness": [
+      {
+        "repo": "tt-a1i/archify",
+        "peak_daily_stars": 4561,
+        "peak_date": "2026-08-29",
+        "language": "JavaScript"
+      },
+      {
+        "repo": "cathrynlavery/diagram-design",
+        "peak_daily_stars": 4504,
+        "peak_date": "2026-08-14",
+        "language": "HTML"
+      },
+      {
+        "repo": "freestylefly/awesome-gpt-image-2",
+        "peak_daily_stars": 4044,
+        "peak_date": "2026-08-27",
+        "language": "JavaScript"
+      },
+      {
+        "repo": "bilawalsidhu/gods-eye-view",
+        "peak_daily_stars": 3398,
+        "peak_date": "2026-08-29",
+        "language": "JavaScript"
+      },
+      {
+        "repo": "mattpocock/skills",
+        "peak_daily_stars": 3368,
+        "peak_date": "2026-08-22",
+        "language": "Shell"
+      },
+      {
+        "repo": "harry0703/MoneyPrinterTurbo",
+        "peak_daily_stars": 2774,
+        "peak_date": "2026-08-21",
+        "language": "Python"
+      },
+      {
+        "repo": "cloudflare/computer",
+        "peak_daily_stars": 2690,
+        "peak_date": "2026-08-07",
+        "language": "TypeScript"
+      },
+      {
+        "repo": "PrimeIntellect-ai/prime-agent",
+        "peak_daily_stars": 2655,
+        "peak_date": "2026-08-11",
+        "language": "TypeScript"
+      }
+    ],
+    "newcomer": [
+      {
+        "repo": "tt-a1i/archify",
+        "days_on_chart": 5,
+        "peak_daily_stars": 4561,
+        "best_rank": 1,
+        "first_appearance": "2026-08-27",
+        "language": "JavaScript"
+      },
+      {
+        "repo": "cathrynlavery/diagram-design",
+        "days_on_chart": 4,
+        "peak_daily_stars": 4504,
+        "best_rank": 1,
+        "first_appearance": "2026-08-13",
+        "language": "HTML"
+      },
+      {
+        "repo": "freestylefly/awesome-gpt-image-2",
+        "days_on_chart": 5,
+        "peak_daily_stars": 4044,
+        "best_rank": 1,
+        "first_appearance": "2026-08-25",
+        "language": "JavaScript"
+      },
+      {
+        "repo": "bilawalsidhu/gods-eye-view",
+        "days_on_chart": 3,
+        "peak_daily_stars": 3398,
+        "best_rank": 1,
+        "first_appearance": "2026-08-28",
+        "language": "JavaScript"
+      },
+      {
+        "repo": "cloudflare/computer",
+        "days_on_chart": 3,
+        "peak_daily_stars": 2690,
+        "best_rank": 1,
+        "first_appearance": "2026-08-06",
+        "language": "TypeScript"
+      },
+      {
+        "repo": "PrimeIntellect-ai/prime-agent",
+        "days_on_chart": 5,
+        "peak_daily_stars": 2655,
+        "best_rank": 1,
+        "first_appearance": "2026-08-08",
+        "language": "TypeScript"
+      },
+      {
+        "repo": "firecrawl/pdf-inspector",
+        "days_on_chart": 4,
+        "peak_daily_stars": 2524,
+        "best_rank": 3,
+        "first_appearance": "2026-08-04",
+        "language": "Rust"
+      },
+      {
+        "repo": "public-apis/public-apis",
+        "days_on_chart": 3,
+        "peak_daily_stars": 2476,
+        "best_rank": 5,
+        "first_appearance": "2026-08-16",
+        "language": "Python"
+      }
+    ],
+    "veteran": [
+      {
+        "repo": "addyosmani/agent-skills",
+        "total_daily_count": 18,
+        "max_consecutive_days": 7,
+        "this_month_days": 8,
+        "this_month_stars": 4788,
+        "peak_stars": 3275
+      },
+      {
+        "repo": "obra/superpowers",
+        "total_daily_count": 31,
+        "max_consecutive_days": 4,
+        "this_month_days": 8,
+        "this_month_stars": 6004,
+        "peak_stars": 1743
+      },
+      {
+        "repo": "mattpocock/skills",
+        "total_daily_count": 20,
+        "max_consecutive_days": 4,
+        "this_month_days": 7,
+        "this_month_stars": 15069,
+        "peak_stars": 3368
+      },
+      {
+        "repo": "TencentCloud/TencentDB-Agent-Memory",
+        "total_daily_count": 8,
+        "max_consecutive_days": 6,
+        "this_month_days": 6,
+        "this_month_stars": 6119,
+        "peak_stars": 1891
+      },
+      {
+        "repo": "msitarzewski/agency-agents",
+        "total_daily_count": 16,
+        "max_consecutive_days": 5,
+        "this_month_days": 5,
+        "this_month_stars": 5986,
+        "peak_stars": 2925
+      },
+      {
+        "repo": "rohitg00/ai-engineering-from-scratch",
+        "total_daily_count": 17,
+        "max_consecutive_days": 7,
+        "this_month_days": 5,
+        "this_month_stars": 2989,
+        "peak_stars": 3167
+      },
+      {
+        "repo": "OpenCut-app/OpenCut",
+        "total_daily_count": 9,
+        "max_consecutive_days": 5,
+        "this_month_days": 4,
+        "this_month_stars": 1120,
+        "peak_stars": 4349
+      },
+      {
+        "repo": "PostHog/posthog",
+        "total_daily_count": 8,
+        "max_consecutive_days": 4,
+        "this_month_days": 4,
+        "this_month_stars": 828,
+        "peak_stars": 437
+      }
+    ]
+  },
+  "month_over_month": {
+    "prev_month_days": 30,
+    "prev_month_repos": 210,
+    "prev_month_stars": 308756,
+    "repo_change": -8,
+    "stars_change": -8878,
+    "repo_change_pct": -3.8,
+    "stars_change_pct": -2.9
+  }
+}

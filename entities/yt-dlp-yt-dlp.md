@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[zhaoxuya520-reverse-skill]] [[altic-dev-fluidvoice]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]]
+[[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]]
 
 **所属领域**: [[cli]] [[audio]]
 

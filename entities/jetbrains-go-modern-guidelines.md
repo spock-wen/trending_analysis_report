@@ -36,7 +36,7 @@ Help AI coding agents write modern Go
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[majd-ipatool]]
+[[tailscale-tailcat]] [[k-dense-ai-scientific-agent-skills]] [[unclecode-crawl4ai]] [[imbad0202-academic-research-skills]] [[majd-ipatool]]
 
 **所属领域**: [[ai-agent]]
 

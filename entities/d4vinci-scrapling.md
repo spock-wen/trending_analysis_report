@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[p-e-w-heretic]] [[osmantic-ods]]
+[[browser-use-video-use]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[unclecode-crawl4ai]] [[tt-a1i-archify]]
 
 **所属领域**: [[web]]
 

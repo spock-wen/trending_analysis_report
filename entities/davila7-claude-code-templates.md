@@ -36,7 +36,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[posthog-posthog]]
+[[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[posthog-posthog]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

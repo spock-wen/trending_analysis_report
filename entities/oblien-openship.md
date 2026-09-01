@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[tashfeenahmed-freellmapi]] [[ripienaar-free-for-dev]] [[posthog-posthog]] [[tencent-ai-infra-guard]] [[ruvnet-ruflo]]
+[[posthog-posthog]] [[ruvnet-ruflo]] [[every-app-open-seo]] [[tencent-ai-infra-guard]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[devops]]
 

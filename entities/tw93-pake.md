@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[aprilnea-openlogi]] [[zhaoxuya520-reverse-skill]] [[openai-codex]] [[thu-maic-openmaic]]
+[[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[tinyhumansai-openhuman]] [[averygan-reclip]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[web]] [[cli]]
 

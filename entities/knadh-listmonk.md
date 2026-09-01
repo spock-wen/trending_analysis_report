@@ -34,7 +34,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[jetbrains-go-modern-guidelines]]
+[[tailscale-tailcat]] [[k-dense-ai-scientific-agent-skills]] [[unclecode-crawl4ai]] [[jetbrains-go-modern-guidelines]] [[imbad0202-academic-research-skills]]
 
 **所属领域**: [[ai-agent]]
 

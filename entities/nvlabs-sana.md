@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[unslothai-unsloth]] [[freestylefly-awesome-gpt-image-2]] [[p-e-w-heretic]]
+[[freestylefly-awesome-gpt-image-2]] [[browser-use-video-use]] [[k-dense-ai-scientific-agent-skills]] [[osmantic-ods]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[image-gen]]
 

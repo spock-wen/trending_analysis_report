@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[kepano-obsidian-skills]] [[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]] [[abhigyanpatwari-gitnexus]]
+[[browser-use-video-use]] [[averygan-reclip]] [[cathrynlavery-diagram-design]] [[ruvnet-ruflo]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[web]] [[education]]
 

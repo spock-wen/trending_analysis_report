@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[tashfeenahmed-freellmapi]] [[majd-ipatool]] [[checkstyle-checkstyle]] [[abhigyanpatwari-gitnexus]]
+[[zhaoxuya520-reverse-skill]] [[averygan-reclip]] [[every-app-open-seo]] [[majd-ipatool]] [[tashfeenahmed-freellmapi]]
 
 **所属领域**: [[cli]]
 

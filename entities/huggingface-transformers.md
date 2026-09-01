@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[zhaoxuya520-reverse-skill]] [[altic-dev-fluidvoice]] [[k-dense-ai-scientific-agent-skills]] [[kepano-obsidian-skills]]
+[[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[k-dense-ai-scientific-agent-skills]] [[ruvnet-ruflo]] [[osmantic-ods]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

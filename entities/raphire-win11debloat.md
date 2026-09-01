@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[majd-ipatool]] [[zhaoxuya520-reverse-skill]] [[thu-maic-openmaic]] [[checkstyle-checkstyle]]
+[[averygan-reclip]] [[majd-ipatool]] [[zhaoxuya520-reverse-skill]] [[thu-maic-openmaic]]
 
 **所属领域**: [[cli]]
 

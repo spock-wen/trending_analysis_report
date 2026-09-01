@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[zhaoxuya520-reverse-skill]] [[jetbrains-go-modern-guidelines]] [[majd-ipatool]] [[workweave-router]]
+[[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[tailscale-tailcat]] [[averygan-reclip]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[web]] [[cli]]
 

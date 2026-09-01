@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[unslothai-unsloth]]
+[[freestylefly-awesome-gpt-image-2]] [[browser-use-video-use]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[osmantic-ods]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

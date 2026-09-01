@@ -35,7 +35,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[kepano-obsidian-skills]] [[kaifcodec-user-scanner]] [[p-e-w-heretic]] [[osmantic-ods]]
+[[browser-use-video-use]] [[k-dense-ai-scientific-agent-skills]] [[ruvnet-ruflo]] [[unclecode-crawl4ai]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[education]]
 

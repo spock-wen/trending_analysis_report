@@ -36,7 +36,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[altic-dev-fluidvoice]] [[lakr233-vphone-cli]] [[k-dense-ai-scientific-agent-skills]] [[jaywcjlove-awesome-mac]]
+[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[unclecode-crawl4ai]] [[majd-ipatool]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

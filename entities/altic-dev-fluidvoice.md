@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]] [[lakr233-vphone-cli]] [[k-dense-ai-scientific-agent-skills]]
+[[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[osmantic-ods]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

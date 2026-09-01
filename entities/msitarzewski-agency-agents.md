@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[zhaoxuya520-reverse-skill]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[obra-superpowers]]
+[[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[obra-superpowers]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[tashfeenahmed-freellmapi]] [[ripienaar-free-for-dev]] [[kaifcodec-user-scanner]] [[posthog-posthog]]
+[[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[posthog-posthog]] [[ruvnet-ruflo]] [[every-app-open-seo]]
 
 **所属领域**: [[data]] [[devops]]
 

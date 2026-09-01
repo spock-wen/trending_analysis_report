@@ -38,7 +38,7 @@ This is MCP server for Claude that gives it terminal control, file system search
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[tashfeenahmed-freellmapi]] [[affaan-m-ecc]] [[majd-ipatool]]
+[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[unclecode-crawl4ai]] [[every-app-open-seo]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

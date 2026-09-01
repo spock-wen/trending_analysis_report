@@ -35,7 +35,7 @@ A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Opti
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[p-e-w-heretic]]
+[[browser-use-video-use]] [[k-dense-ai-scientific-agent-skills]] [[unclecode-crawl4ai]] [[imbad0202-academic-research-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[kepano-obsidian-skills]] [[affaan-m-ecc]]
+[[browser-use-video-use]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[ruvnet-ruflo]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

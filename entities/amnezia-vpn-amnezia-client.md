@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[tashfeenahmed-freellmapi]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[protocolbuffers-protobuf]]
+[[zhaoxuya520-reverse-skill]] [[kaifcodec-user-scanner]] [[averygan-reclip]] [[microsoft-onnxruntime]] [[affaan-m-ecc]]
 
 **所属领域**: [[cli]] [[security]]
 

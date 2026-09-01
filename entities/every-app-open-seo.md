@@ -38,5 +38,5 @@ Open source alternative to Semrush and Ahrefs
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[tashfeenahmed-freellmapi]]
+[[tashfeenahmed-freellmapi]] [[thu-maic-openmaic]] [[gitlawb-openclaude]]
 

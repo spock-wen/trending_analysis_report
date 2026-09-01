@@ -37,7 +37,7 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 
 ## 相关项目
 
-[[majd-ipatool]] [[zhaoxuya520-reverse-skill]] [[thu-maic-openmaic]] [[checkstyle-checkstyle]]
+[[averygan-reclip]] [[majd-ipatool]] [[zhaoxuya520-reverse-skill]] [[thu-maic-openmaic]]
 
 **所属领域**: [[cli]]
 

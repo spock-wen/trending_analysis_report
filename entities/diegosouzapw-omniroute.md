@@ -38,7 +38,7 @@ Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free),
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[tashfeenahmed-freellmapi]] [[affaan-m-ecc]] [[majd-ipatool]]
+[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[unclecode-crawl4ai]] [[every-app-open-seo]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

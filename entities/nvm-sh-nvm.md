@@ -34,7 +34,7 @@ Node Version Manager - POSIX-compliant bash script to manage multiple active nod
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[mattpocock-skills]] [[majd-ipatool]]
+[[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[averygan-reclip]] [[msitarzewski-agency-agents]] [[basecamp-omarchy]]
 
 **所属领域**: [[cli]]
 

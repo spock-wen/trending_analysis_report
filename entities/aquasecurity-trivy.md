@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[tashfeenahmed-freellmapi]] [[affaan-m-ecc]]
+[[zhaoxuya520-reverse-skill]] [[tailscale-tailcat]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

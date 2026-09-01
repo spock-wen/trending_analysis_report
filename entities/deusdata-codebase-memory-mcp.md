@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[microsoft-powertoys]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]]
+[[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[opa334-dopamine]] [[unclecode-crawl4ai]] [[tt-a1i-archify]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

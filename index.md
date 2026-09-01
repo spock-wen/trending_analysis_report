@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-09-01 | 总页面：540
+> 最后更新：2026-09-02 | 总页面：542
 
 ## Entities
 
@@ -17,7 +17,7 @@
 - [[actions-checkout|checkout"]] — Action for checking out a repo
 - [[activeloopai-hivemind|hivemind"]] — One brain for all your agents
 - [[addyosmani-agent-skills|agent-skills"]] — Production-grade engineering skills for AI coding agents.
-- [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i...
+- [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i... 🆕
 - [[agalwood-motrix|Motrix"]] — A full-featured download manager. 🆕
 - [[agavra-tuicr|tuicr"]] — a code review TUI with vim keybindings 🆕
 - [[agegr-pi-web|pi-web"]] — Web UI for the pi coding agent 🔥
@@ -69,6 +69,7 @@
 - [[asciimoo-hister|hister"]] — Your own search engine
 - [[astrbotdevs-astrbot|AstrBot"]] — AI Agent Assistant & development framework that integrates l... 🔥
 - [[automattic-harper|harper"]] — Offline, privacy-first grammar checker. Fast, open-source, R... 🔥
+- [[averygan-reclip|reclip"]] — Download videos from almost any website. Lightweight, self-h... 🆕
 - [[aws-agent-toolkit-for-aws|agent-toolkit-for-aws"]] — Official, AWS-supported MCP servers, skills, and plugins to ... 🆕
 - [[axorax-awesome-free-apps|awesome-free-apps"]] — Curated list of the best free apps for PC and mobile 🔥
 - [[ayghri-i-have-adhd|i-have-adhd"]] — A skill for your coding agent to stop it from burying the an... 🆕
@@ -171,7 +172,7 @@
 - [[fareedkhan-dev-train-llm-from-scratch|train-llm-from-scratch"]] — A straightforward method for training your LLM, from downloa...
 - [[fincept-corporation-finceptterminal|FinceptTerminal"]] — FinceptTerminal is a modern finance application offering adv...
 - [[firecrawl-firecrawl|firecrawl"]] — The context API to search, scrape, and interact with the web...
-- [[firecrawl-pdf-inspector|pdf-inspector"]] — Fast Rust library for PDF inspection, classification, and te...
+- [[firecrawl-pdf-inspector|pdf-inspector"]] — Fast Rust library for PDF inspection, classification, and te... 🆕
 - [[fission-ai-openspec|OpenSpec"]] — Spec-driven development (SDD) for AI coding assistants.
 - [[flowseal-zapret-discord-youtube|zapret-discord-youtube"]] — No description
 - [[flutter-flutter|flutter"]] — Flutter makes it easy and fast to build beautiful apps for m...
@@ -190,6 +191,7 @@
 - [[github-docs|docs"]] — The open-source repo for docs.github.com
 - [[github-gh-stack|gh-stack"]] — GitHub Stacked PRs
 - [[github-spec-kit|spec-kit"]] — 💫 Toolkit to help you get started with Spec-Driven Developme... 🆕
+- [[gitlawb-openclaude|openclaude"]] — runs anywhere. uses anything 🆕
 - [[goauthentik-authentik|authentik"]] — The authentication glue you need. 🔥
 - [[godotengine-godot|godot"]] — Godot Engine – Multi-platform 2D and 3D game engine
 - [[google-agents-cli|agents-cli"]] — The CLI and skills that turn any coding assistant into an ex...
@@ -204,7 +206,7 @@
 - [[graphify-labs-graphify|graphify"]] — AI coding assistant skill (Claude Code, Codex, OpenCode, Cur...
 - [[grokability-snipe-it|snipe-it"]] — A free open source IT asset/license management system
 - [[grpc-grpc|grpc"]] — C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- [[handsomestwei-patent-disclosure-skill|patent-disclosure-skill"]] — 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 🆕
+- [[handsomestwei-patent-disclosure-skill|patent-disclosure-skill"]] — 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 🔥
 - [[harbourmasters-lighthouse|Lighthouse"]] — No description
 - [[hardikpandya-stop-slop|stop-slop"]] — A skill file for removing AI tells from prose 🔥
 - [[harry0703-moneyprinterturbo|MoneyPrinterTurbo"]] — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos ... 🔥
@@ -232,7 +234,7 @@
 - [[ibelick-ui-skills|ui-skills"]] — Skills for Design Engineers
 - [[icewhaletech-casaos|CasaOS"]] — CasaOS - A simple, easy-to-use, elegant open-source Personal... 🔥
 - [[iii-hq-iii|iii"]] — Effortlessly compose, extend, and observe every service in r...
-- [[imbad0202-academic-research-skills|academic-research-skills"]] — Academic Research Skills for Claude Code: research → write →... 🔥
+- [[imbad0202-academic-research-skills|academic-research-skills"]] — Academic Research Skills for Claude Code: research → write →...
 - [[immich-app-immich|immich"]] — High performance self-hosted photo and video management solu...
 - [[imthenachoman-how-to-secure-a-linux-server|How-To-Secure-A-Linux-Server"]] — An evolving how-to guide for securing a Linux server.
 - [[infiniflow-ragflow|ragflow"]] — RAGFlow is a leading open-source Retrieval-Augmented Generat... 🔥
@@ -242,7 +244,7 @@
 - [[iofficeai-officecli|OfficeCLI"]] — OfficeCLI is the first and best Office suite purpose-built f... 🔥
 - [[iptv-org-iptv|iptv"]] — Collection of publicly available IPTV channels from all over...
 - [[itsfatduck-optimizerduck|optimizerDuck"]] — Free, open-source Windows optimization tool for performance,...
-- [[iv-org-invidious|invidious"]] — Invidious is an alternative front-end to YouTube 🔥
+- [[iv-org-invidious|invidious"]] — Invidious is an alternative front-end to YouTube
 - [[jamiepine-voicebox|voicebox"]] — The open-source AI voice studio. Clone, dictate, create.
 - [[jamwithai-production-agentic-rag-course|production-agentic-rag-course"]] — No description
 - [[jaywcjlove-awesome-mac|awesome-mac"]] —  This project is dedicated to collecting high-quality macOS...

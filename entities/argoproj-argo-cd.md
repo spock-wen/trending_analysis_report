@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[posthog-posthog]] [[jetbrains-go-modern-guidelines]] [[majd-ipatool]] [[tencent-ai-infra-guard]]
+[[tailscale-tailcat]] [[posthog-posthog]] [[ruvnet-ruflo]] [[jetbrains-go-modern-guidelines]] [[tencent-ai-infra-guard]]
 
 **所属领域**: [[devops]]
 

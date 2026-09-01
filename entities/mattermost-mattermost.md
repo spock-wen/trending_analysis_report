@@ -35,5 +35,5 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[every-app-open-seo]] [[thu-maic-openmaic]] [[tashfeenahmed-freellmapi]]
+[[tashfeenahmed-freellmapi]] [[every-app-open-seo]] [[thu-maic-openmaic]] [[gitlawb-openclaude]]
 

@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[aprilnea-openlogi]] [[zhaoxuya520-reverse-skill]] [[openai-codex]] [[k-dense-ai-scientific-agent-skills]]
+[[tooljet-tooljet]] [[k-dense-ai-scientific-agent-skills]] [[tinyhumansai-openhuman]] [[obra-superpowers]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

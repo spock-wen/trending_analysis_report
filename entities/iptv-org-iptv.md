@@ -38,7 +38,7 @@ Collection of publicly available IPTV channels from all over the world
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[tashfeenahmed-freellmapi]] [[affaan-m-ecc]] [[abhigyanpatwari-gitnexus]]
+[[k-dense-ai-scientific-agent-skills]] [[unclecode-crawl4ai]] [[every-app-open-seo]] [[imbad0202-academic-research-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

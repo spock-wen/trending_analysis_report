@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[aprilnea-openlogi]] [[zhaoxuya520-reverse-skill]] [[openai-codex]] [[k-dense-ai-scientific-agent-skills]]
+[[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[tinyhumansai-openhuman]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

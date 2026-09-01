@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[tashfeenahmed-freellmapi]] [[kaifcodec-user-scanner]]
+[[browser-use-video-use]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[averygan-reclip]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[web]] [[data]]
 

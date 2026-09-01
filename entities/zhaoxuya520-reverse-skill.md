@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[tashfeenahmed-freellmapi]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[majd-ipatool]]
+[[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[averygan-reclip]] [[unclecode-crawl4ai]] [[raphire-win11debloat]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

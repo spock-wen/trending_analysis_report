@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[aprilnea-openlogi]] [[zhaoxuya520-reverse-skill]] [[openai-codex]] [[tashfeenahmed-freellmapi]] [[affaan-m-ecc]]
+[[zhaoxuya520-reverse-skill]] [[kaifcodec-user-scanner]] [[tinyhumansai-openhuman]] [[firecrawl-pdf-inspector]] [[aprilnea-openlogi]]
 
 **所属领域**: [[security]]
 

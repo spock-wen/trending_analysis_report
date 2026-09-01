@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[tashfeenahmed-freellmapi]] [[kepano-obsidian-skills]] [[affaan-m-ecc]]
+[[k-dense-ai-scientific-agent-skills]] [[posthog-posthog]] [[unclecode-crawl4ai]] [[rohitg00-ai-engineering-from-scratch]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[ripienaar-free-for-dev]] [[pkuflyingpig-cs-self-learning]] [[cathrynlavery-diagram-design]] [[abhigyanpatwari-gitnexus]]
+[[browser-use-video-use]] [[averygan-reclip]] [[cathrynlavery-diagram-design]] [[unclecode-crawl4ai]] [[trycua-cua]]
 
 **所属领域**: [[web]]
 

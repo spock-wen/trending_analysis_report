@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[aprilnea-openlogi]] [[zhaoxuya520-reverse-skill]] [[openai-codex]] [[k-dense-ai-scientific-agent-skills]] [[thu-maic-openmaic]]
+[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[tinyhumansai-openhuman]] [[averygan-reclip]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

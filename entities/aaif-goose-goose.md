@@ -36,7 +36,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[aprilnea-openlogi]] [[zhaoxuya520-reverse-skill]] [[openai-codex]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]]
+[[k-dense-ai-scientific-agent-skills]] [[tinyhumansai-openhuman]] [[unclecode-crawl4ai]] [[firecrawl-pdf-inspector]] [[aprilnea-openlogi]]
 
 **所属领域**: [[ai-agent]]
 

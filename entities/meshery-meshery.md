@@ -37,5 +37,5 @@ Meshery, the cloud native manager
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[every-app-open-seo]] [[thu-maic-openmaic]] [[tashfeenahmed-freellmapi]]
+[[tashfeenahmed-freellmapi]] [[every-app-open-seo]] [[thu-maic-openmaic]] [[gitlawb-openclaude]]
 

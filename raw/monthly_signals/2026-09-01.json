@@ -1,0 +1,235 @@
+{
+  "month": "2026-09",
+  "date_range": "2026-09-01 ~ 2026-09-30",
+  "overview": {
+    "total_repos": 15,
+    "total_stars": 14586,
+    "days_with_data": 1,
+    "date_range": "2026-09-01 ~ 2026-09-30",
+    "avg_daily_repos": 15.0
+  },
+  "retention": {
+    "bucket_1day": {
+      "count": 15,
+      "ratio": 1.0
+    },
+    "bucket_2_3days": {
+      "count": 0,
+      "ratio": 0.0
+    },
+    "bucket_4_7days": {
+      "count": 0,
+      "ratio": 0.0
+    },
+    "bucket_8plus": {
+      "count": 0,
+      "ratio": 0.0
+    }
+  },
+  "weekly_domains": {
+    "week_1": {
+      "Python": 6,
+      "TypeScript": 2,
+      "JavaScript": 2,
+      "Java": 1,
+      "Rust": 1,
+      "C#": 1,
+      "Go": 1,
+      "PowerShell": 1
+    }
+  },
+  "top_repos": {
+    "endurance": [
+      {
+        "repo": "K-Dense-AI/scientific-agent-skills",
+        "days_on_chart": 1,
+        "language": "Python",
+        "total_monthly_stars": 1968,
+        "best_rank": 3,
+        "peak_daily_stars": 1968
+      },
+      {
+        "repo": "Osmantic/ODS",
+        "days_on_chart": 1,
+        "language": "Python",
+        "total_monthly_stars": 163,
+        "best_rank": 7,
+        "peak_daily_stars": 163
+      },
+      {
+        "repo": "THU-MAIC/OpenMAIC",
+        "days_on_chart": 1,
+        "language": "TypeScript",
+        "total_monthly_stars": 2819,
+        "best_rank": 1,
+        "peak_daily_stars": 2819
+      },
+      {
+        "repo": "affaan-m/ECC",
+        "days_on_chart": 1,
+        "language": "JavaScript",
+        "total_monthly_stars": 548,
+        "best_rank": 10,
+        "peak_daily_stars": 548
+      },
+      {
+        "repo": "checkstyle/checkstyle",
+        "days_on_chart": 1,
+        "language": "Java",
+        "total_monthly_stars": 199,
+        "best_rank": 8,
+        "peak_daily_stars": 199
+      },
+      {
+        "repo": "every-app/open-seo",
+        "days_on_chart": 1,
+        "language": "TypeScript",
+        "total_monthly_stars": 608,
+        "best_rank": 12,
+        "peak_daily_stars": 608
+      },
+      {
+        "repo": "firecrawl/pdf-inspector",
+        "days_on_chart": 1,
+        "language": "Rust",
+        "total_monthly_stars": 199,
+        "best_rank": 15,
+        "peak_daily_stars": 199
+      },
+      {
+        "repo": "handsomestWei/patent-disclosure-skill",
+        "days_on_chart": 1,
+        "language": "Python",
+        "total_monthly_stars": 571,
+        "best_rank": 14,
+        "peak_daily_stars": 571
+      }
+    ],
+    "explosiveness": [
+      {
+        "repo": "tt-a1i/archify",
+        "peak_daily_stars": 3993,
+        "peak_date": "2026-09-01",
+        "language": "JavaScript"
+      },
+      {
+        "repo": "THU-MAIC/OpenMAIC",
+        "peak_daily_stars": 2819,
+        "peak_date": "2026-09-01",
+        "language": "TypeScript"
+      },
+      {
+        "repo": "K-Dense-AI/scientific-agent-skills",
+        "peak_daily_stars": 1968,
+        "peak_date": "2026-09-01",
+        "language": "Python"
+      },
+      {
+        "repo": "zhaoxuya520/reverse-skill",
+        "peak_daily_stars": 1439,
+        "peak_date": "2026-09-01",
+        "language": "PowerShell"
+      },
+      {
+        "repo": "every-app/open-seo",
+        "peak_daily_stars": 608,
+        "peak_date": "2026-09-01",
+        "language": "TypeScript"
+      },
+      {
+        "repo": "handsomestWei/patent-disclosure-skill",
+        "peak_daily_stars": 571,
+        "peak_date": "2026-09-01",
+        "language": "Python"
+      },
+      {
+        "repo": "affaan-m/ECC",
+        "peak_daily_stars": 548,
+        "peak_date": "2026-09-01",
+        "language": "JavaScript"
+      },
+      {
+        "repo": "p-e-w/heretic",
+        "peak_daily_stars": 536,
+        "peak_date": "2026-09-01",
+        "language": "Python"
+      }
+    ],
+    "newcomer": [],
+    "veteran": [
+      {
+        "repo": "K-Dense-AI/scientific-agent-skills",
+        "total_daily_count": 10,
+        "max_consecutive_days": 6,
+        "this_month_days": 1,
+        "this_month_stars": 1968,
+        "peak_stars": 1968
+      },
+      {
+        "repo": "Osmantic/ODS",
+        "total_daily_count": 2,
+        "max_consecutive_days": 1,
+        "this_month_days": 1,
+        "this_month_stars": 163,
+        "peak_stars": 163
+      },
+      {
+        "repo": "THU-MAIC/OpenMAIC",
+        "total_daily_count": 3,
+        "max_consecutive_days": 3,
+        "this_month_days": 1,
+        "this_month_stars": 2819,
+        "peak_stars": 2819
+      },
+      {
+        "repo": "affaan-m/ECC",
+        "total_daily_count": 19,
+        "max_consecutive_days": 6,
+        "this_month_days": 1,
+        "this_month_stars": 548,
+        "peak_stars": 2147
+      },
+      {
+        "repo": "checkstyle/checkstyle",
+        "total_daily_count": 2,
+        "max_consecutive_days": 2,
+        "this_month_days": 1,
+        "this_month_stars": 199,
+        "peak_stars": 199
+      },
+      {
+        "repo": "every-app/open-seo",
+        "total_daily_count": 7,
+        "max_consecutive_days": 3,
+        "this_month_days": 1,
+        "this_month_stars": 608,
+        "peak_stars": 983
+      },
+      {
+        "repo": "firecrawl/pdf-inspector",
+        "total_daily_count": 5,
+        "max_consecutive_days": 4,
+        "this_month_days": 1,
+        "this_month_stars": 199,
+        "peak_stars": 2524
+      },
+      {
+        "repo": "handsomestWei/patent-disclosure-skill",
+        "total_daily_count": 2,
+        "max_consecutive_days": 2,
+        "this_month_days": 1,
+        "this_month_stars": 571,
+        "peak_stars": 571
+      }
+    ]
+  },
+  "month_over_month": {
+    "prev_month_days": 30,
+    "prev_month_repos": 202,
+    "prev_month_stars": 299878,
+    "repo_change": -187,
+    "stars_change": -285292,
+    "repo_change_pct": -92.6,
+    "stars_change_pct": -95.1
+  }
+}

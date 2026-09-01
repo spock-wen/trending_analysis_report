@@ -35,5 +35,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[addyosmani-agent-skills]] [[bilawalsidhu-gods-eye-view]] [[tt-a1i-archify]]
+[[affaan-m-ecc]] [[tt-a1i-archify]] [[addyosmani-agent-skills]] [[bilawalsidhu-gods-eye-view]]
 

@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]]
+[[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[osmantic-ods]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

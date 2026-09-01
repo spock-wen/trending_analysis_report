@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[google-guava]] [[affaan-m-ecc]]
+[[zhaoxuya520-reverse-skill]] [[nationalsecurityagency-ghidra]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

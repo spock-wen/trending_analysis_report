@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[zhaoxuya520-reverse-skill]] [[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[tooljet-tooljet]]
+[[tooljet-tooljet]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

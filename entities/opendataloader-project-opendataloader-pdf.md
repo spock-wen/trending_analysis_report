@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[google-guava]] [[affaan-m-ecc]]
+[[nationalsecurityagency-ghidra]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[unclecode-crawl4ai]] [[checkstyle-checkstyle]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

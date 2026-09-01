@@ -35,7 +35,7 @@ AI turns documents or topics into real, native PowerPoint decks—with native sh
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[alishahryar1-free-claude-code]] [[zhaoxuya520-reverse-skill]] [[altic-dev-fluidvoice]] [[k-dense-ai-scientific-agent-skills]]
+[[tooljet-tooljet]] [[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]]
 
 **所属领域**: [[ai-agent]] [[data]] [[erp]] [[audio]]
 

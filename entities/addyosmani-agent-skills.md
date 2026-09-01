@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[bilawalsidhu-gods-eye-view]] [[tt-a1i-archify]]
+[[k-dense-ai-scientific-agent-skills]] [[unclecode-crawl4ai]] [[tt-a1i-archify]] [[imbad0202-academic-research-skills]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]]
 

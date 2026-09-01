@@ -37,7 +37,7 @@ A framework for building realtime voice AI agents 🤖🎙️📹
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[zhaoxuya520-reverse-skill]] [[altic-dev-fluidvoice]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]]
+[[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[k-dense-ai-scientific-agent-skills]] [[osmantic-ods]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

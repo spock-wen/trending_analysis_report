@@ -36,7 +36,7 @@ The context API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[unclecode-crawl4ai]] [[tashfeenahmed-freellmapi]] [[abhigyanpatwari-gitnexus]] [[every-app-open-seo]]
+[[browser-use-video-use]] [[averygan-reclip]] [[unclecode-crawl4ai]] [[every-app-open-seo]] [[tt-a1i-archify]]
 
 **所属领域**: [[web]]
 

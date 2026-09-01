@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[altic-dev-fluidvoice]] [[jaywcjlove-awesome-mac]] [[permissionlesstech-bitchat]] [[majd-ipatool]]
+[[zhaoxuya520-reverse-skill]] [[averygan-reclip]] [[altic-dev-fluidvoice]] [[majd-ipatool]] [[jaywcjlove-awesome-mac]]
 
 **所属领域**: [[cli]]
 

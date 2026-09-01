@@ -34,7 +34,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[addyosmani-agent-skills]] [[abhigyanpatwari-gitnexus]] [[bilawalsidhu-gods-eye-view]]
+[[browser-use-video-use]] [[averygan-reclip]] [[unclecode-crawl4ai]] [[addyosmani-agent-skills]] [[tt-a1i-archify]]
 
 **所属领域**: [[web]]
 

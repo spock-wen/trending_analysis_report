@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[unslothai-unsloth]] [[freestylefly-awesome-gpt-image-2]] [[conardli-garden-skills]]
+[[freestylefly-awesome-gpt-image-2]] [[browser-use-video-use]] [[averygan-reclip]] [[osmantic-ods]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[web]] [[image-gen]]
 

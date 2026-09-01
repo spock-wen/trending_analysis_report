@@ -35,7 +35,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[localsend-localsend]] [[flutter-flutter]] [[majd-ipatool]] [[checkstyle-checkstyle]]
+[[flutter-flutter]] [[zhaoxuya520-reverse-skill]] [[averygan-reclip]] [[localsend-localsend]] [[majd-ipatool]]
 
 **所属领域**: [[cli]]
 

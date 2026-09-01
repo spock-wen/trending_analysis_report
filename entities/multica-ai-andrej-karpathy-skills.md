@@ -38,7 +38,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[tt-a1i-archify]]
+[[affaan-m-ecc]] [[unclecode-crawl4ai]] [[imbad0202-academic-research-skills]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

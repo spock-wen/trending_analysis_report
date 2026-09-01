@@ -34,7 +34,7 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[tashfeenahmed-freellmapi]] [[affaan-m-ecc]] [[abhigyanpatwari-gitnexus]]
+[[k-dense-ai-scientific-agent-skills]] [[unclecode-crawl4ai]] [[every-app-open-seo]] [[imbad0202-academic-research-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

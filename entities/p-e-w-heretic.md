@@ -38,5 +38,5 @@ Fully automatic censorship removal for language models
 
 ## 相关项目
 
-[[osmantic-ods]] [[kaifcodec-user-scanner]] [[k-dense-ai-scientific-agent-skills]]
+[[browser-use-video-use]] [[unclecode-crawl4ai]] [[imbad0202-academic-research-skills]] [[k-dense-ai-scientific-agent-skills]]
 

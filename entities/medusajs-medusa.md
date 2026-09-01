@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[hugohe3-ppt-master]] [[tashfeenahmed-freellmapi]] [[obra-superpowers]] [[tooljet-tooljet]]
+[[tooljet-tooljet]] [[obra-superpowers]] [[every-app-open-seo]] [[genlayerlabs-genlayer-project-boilerplate]] [[tashfeenahmed-freellmapi]]
 
 **所属领域**: [[erp]]
 

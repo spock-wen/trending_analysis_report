@@ -36,7 +36,7 @@ Let's use AI to Earn!
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[every-app-open-seo]]
+[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[tashfeenahmed-freellmapi]] [[affaan-m-ecc]] [[abhigyanpatwari-gitnexus]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ ONNX Runtime: cross-platform, high performance ML inferencing and training accel
 
 ## 相关项目
 
-[[google-googletest]] [[ladybirdbrowser-ladybird]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[protocolbuffers-protobuf]]
+[[zhaoxuya520-reverse-skill]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[ripienaar-free-for-dev]] [[trycua-cua]] [[k-dense-ai-scientific-agent-skills]] [[tt-a1i-archify]]
+[[mvanhorn-last30days-skill]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[ripienaar-free-for-dev]] [[pkuflyingpig-cs-self-learning]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

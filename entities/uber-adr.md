@@ -35,7 +35,7 @@ ADR secures enterprise AI agents through observability, security benchmarking, a
 
 ## 相关项目
 
-[[osmantic-ods]] [[kaifcodec-user-scanner]] [[ripienaar-free-for-dev]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]]
+[[genlayerlabs-genlayer-project-boilerplate]] [[zhaoxuya520-reverse-skill]] [[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[tashfeenahmed-freellmapi]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[security]] [[erp]]
 

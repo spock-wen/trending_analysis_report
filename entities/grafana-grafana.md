@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[kaifcodec-user-scanner]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]]
+[[k-dense-ai-scientific-agent-skills]] [[tashfeenahmed-freellmapi]] [[ripienaar-free-for-dev]] [[kaifcodec-user-scanner]] [[posthog-posthog]]
 
 **所属领域**: [[data]] [[devops]]
 

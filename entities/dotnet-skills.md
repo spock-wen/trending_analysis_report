@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]] [[zhaoxuya520-reverse-skill]]
+[[zhaoxuya520-reverse-skill]] [[jellyfin-jellyfin]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[k1tbyte-wand-enhancer]]
 
 **所属领域**: [[ai-agent]]
 

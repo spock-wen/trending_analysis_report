@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[kaifcodec-user-scanner]] [[github-copilot-sdk]] [[k-dense-ai-scientific-agent-skills]] [[tt-a1i-archify]] [[nationalsecurityagency-ghidra]]
+[[zhaoxuya520-reverse-skill]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[google-guava]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

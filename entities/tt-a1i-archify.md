@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[kaifcodec-user-scanner]] [[k-dense-ai-scientific-agent-skills]] [[mvanhorn-last30days-skill]] [[addyosmani-agent-skills]]
+[[mvanhorn-last30days-skill]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

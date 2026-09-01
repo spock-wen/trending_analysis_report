@@ -34,5 +34,5 @@ A modern runtime for JavaScript and TypeScript.
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[openai-codex]] [[aprilnea-openlogi]] [[tinyhumansai-openhuman]]
+[[aprilnea-openlogi]] [[tinyhumansai-openhuman]] [[openai-codex]] [[firecrawl-pdf-inspector]]
 

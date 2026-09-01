@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[osmantic-ods]] [[kaifcodec-user-scanner]] [[thu-maic-openmaic]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]]
+[[genlayerlabs-genlayer-project-boilerplate]] [[zhaoxuya520-reverse-skill]] [[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[tooljet-tooljet]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

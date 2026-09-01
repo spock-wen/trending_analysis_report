@@ -36,7 +36,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[every-app-open-seo]] [[rohitg00-ai-engineering-from-scratch]]
+[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[tashfeenahmed-freellmapi]] [[kepano-obsidian-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

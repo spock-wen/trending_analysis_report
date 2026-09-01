@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]]
+[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[microsoft-ai-for-beginners]] [[kepano-obsidian-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

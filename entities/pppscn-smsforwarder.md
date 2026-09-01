@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[tt-a1i-archify]] [[mvanhorn-last30days-skill]] [[unclecode-crawl4ai]] [[andreknieriem-headunit-revived]]
+[[mahlernim-google-timeline-visualizer]] [[mvanhorn-last30days-skill]] [[embabel-embabel-agent]] [[bannedbook-fanqiang]] [[abhigyanpatwari-gitnexus]]
 
 **所属领域**: [[web]]
 

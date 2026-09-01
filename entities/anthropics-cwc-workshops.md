@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[every-app-open-seo]] [[obra-superpowers]] [[genlayerlabs-genlayer-project-boilerplate]]
+[[genlayerlabs-genlayer-project-boilerplate]] [[hugohe3-ppt-master]] [[tashfeenahmed-freellmapi]] [[obra-superpowers]] [[tooljet-tooljet]]
 
 **所属领域**: [[erp]]
 

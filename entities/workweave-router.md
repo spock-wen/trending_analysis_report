@@ -34,7 +34,7 @@ Model router for agentic systems. Routes every prompt to the right model in <50m
 
 ## 相关项目
 
-[[jetbrains-go-modern-guidelines]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[tailscale-tailcat]] [[zhaoxuya520-reverse-skill]]
+[[zhaoxuya520-reverse-skill]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[jetbrains-go-modern-guidelines]]
 
 **所属领域**: [[ai-agent]]
 

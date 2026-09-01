@@ -38,7 +38,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ## 相关项目
 
-[[osmantic-ods]] [[kaifcodec-user-scanner]] [[tt-a1i-archify]] [[p-e-w-heretic]] [[zhaoxuya520-reverse-skill]]
+[[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[p-e-w-heretic]] [[osmantic-ods]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

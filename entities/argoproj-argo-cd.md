@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[workweave-router]] [[jetbrains-go-modern-guidelines]] [[ripienaar-free-for-dev]] [[tailscale-tailcat]] [[tencent-ai-infra-guard]]
+[[ripienaar-free-for-dev]] [[posthog-posthog]] [[jetbrains-go-modern-guidelines]] [[majd-ipatool]] [[tencent-ai-infra-guard]]
 
 **所属领域**: [[devops]]
 

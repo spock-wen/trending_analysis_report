@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[google-googletest]] [[ladybirdbrowser-ladybird]] [[thu-maic-openmaic]] [[kaifcodec-user-scanner]] [[protocolbuffers-protobuf]]
+[[zhaoxuya520-reverse-skill]] [[tashfeenahmed-freellmapi]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[cli]] [[security]]
 

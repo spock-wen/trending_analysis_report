@@ -38,7 +38,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[nationalsecurityagency-ghidra]] [[google-guava]] [[zhaoxuya520-reverse-skill]]
+[[zhaoxuya520-reverse-skill]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[google-guava]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

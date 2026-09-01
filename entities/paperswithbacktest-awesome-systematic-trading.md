@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[osmantic-ods]] [[kaifcodec-user-scanner]] [[k-dense-ai-scientific-agent-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[kepano-obsidian-skills]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]]
 
 **所属领域**: [[education]] [[science]]
 

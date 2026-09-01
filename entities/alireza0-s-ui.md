@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[workweave-router]] [[jetbrains-go-modern-guidelines]] [[abhigyanpatwari-gitnexus]] [[tt-a1i-archify]] [[mvanhorn-last30days-skill]]
+[[mvanhorn-last30days-skill]] [[jetbrains-go-modern-guidelines]] [[majd-ipatool]] [[workweave-router]] [[tailscale-tailcat]]
 
 **所属领域**: [[web]]
 

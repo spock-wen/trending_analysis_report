@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[tt-a1i-archify]] [[mvanhorn-last30days-skill]] [[every-app-open-seo]]
+[[mvanhorn-last30days-skill]] [[zhaoxuya520-reverse-skill]] [[unclecode-crawl4ai]] [[tashfeenahmed-freellmapi]] [[majd-ipatool]]
 
 **所属领域**: [[web]] [[cli]]
 

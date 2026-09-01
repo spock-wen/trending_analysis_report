@@ -34,7 +34,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[tt-a1i-archify]] [[mvanhorn-last30days-skill]] [[addyosmani-agent-skills]] [[bilawalsidhu-gods-eye-view]]
+[[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[addyosmani-agent-skills]] [[abhigyanpatwari-gitnexus]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]]
 

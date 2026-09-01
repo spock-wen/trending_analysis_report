@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[workweave-router]] [[jetbrains-go-modern-guidelines]] [[thu-maic-openmaic]] [[tailscale-tailcat]] [[zhaoxuya520-reverse-skill]]
+[[zhaoxuya520-reverse-skill]] [[jetbrains-go-modern-guidelines]] [[workweave-router]] [[checkstyle-checkstyle]] [[thu-maic-openmaic]]
 
 **所属领域**: [[cli]]
 

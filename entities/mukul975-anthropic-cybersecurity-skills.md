@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[osmantic-ods]] [[kaifcodec-user-scanner]] [[thu-maic-openmaic]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]]
+[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[tashfeenahmed-freellmapi]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

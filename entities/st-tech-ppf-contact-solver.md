@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[osmantic-ods]] [[kaifcodec-user-scanner]] [[thu-maic-openmaic]] [[k-dense-ai-scientific-agent-skills]] [[p-e-w-heretic]]
+[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[majd-ipatool]] [[p-e-w-heretic]]
 
 **所属领域**: [[cli]]
 

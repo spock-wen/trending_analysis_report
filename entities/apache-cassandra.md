@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[kaifcodec-user-scanner]] [[ripienaar-free-for-dev]] [[github-copilot-sdk]] [[k-dense-ai-scientific-agent-skills]] [[tt-a1i-archify]]
+[[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[google-guava]] [[ripienaar-free-for-dev]] [[kaifcodec-user-scanner]]
 
 **所属领域**: [[data]] [[devops]]
 

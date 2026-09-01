@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[osmantic-ods]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[diolinux-photogimp]]
+[[mvanhorn-last30days-skill]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

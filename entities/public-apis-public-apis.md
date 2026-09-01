@@ -36,5 +36,5 @@ A collective list of free APIs
 
 ## 相关项目
 
-[[osmantic-ods]] [[p-e-w-heretic]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]]
+[[osmantic-ods]] [[p-e-w-heretic]] [[kaifcodec-user-scanner]] [[k-dense-ai-scientific-agent-skills]]
 

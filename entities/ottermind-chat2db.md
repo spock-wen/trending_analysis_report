@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[kaifcodec-user-scanner]] [[github-copilot-sdk]] [[k-dense-ai-scientific-agent-skills]] [[tt-a1i-archify]]
+[[zhaoxuya520-reverse-skill]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[google-guava]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

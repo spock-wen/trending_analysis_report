@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[kaifcodec-user-scanner]] [[ripienaar-free-for-dev]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]]
+[[mvanhorn-last30days-skill]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

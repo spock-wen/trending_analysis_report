@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[workweave-router]] [[jetbrains-go-modern-guidelines]] [[thu-maic-openmaic]] [[tailscale-tailcat]] [[zhaoxuya520-reverse-skill]]
+[[zhaoxuya520-reverse-skill]] [[jetbrains-go-modern-guidelines]] [[majd-ipatool]] [[workweave-router]] [[checkstyle-checkstyle]]
 
 **所属领域**: [[cli]]
 

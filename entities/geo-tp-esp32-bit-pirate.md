@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[google-googletest]] [[ladybirdbrowser-ladybird]] [[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[tt-a1i-archify]]
+[[mvanhorn-last30days-skill]] [[zhaoxuya520-reverse-skill]] [[google-googletest]] [[unclecode-crawl4ai]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[web]] [[cli]]
 

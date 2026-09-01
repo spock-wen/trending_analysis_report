@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[tt-a1i-archify]] [[mvanhorn-last30days-skill]] [[obra-superpowers]] [[genlayerlabs-genlayer-project-boilerplate]]
+[[genlayerlabs-genlayer-project-boilerplate]] [[hugohe3-ppt-master]] [[unclecode-crawl4ai]] [[tooljet-tooljet]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[erp]]
 

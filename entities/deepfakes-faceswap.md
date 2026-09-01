@@ -35,5 +35,5 @@ Deepfakes Software For All
 
 ## 相关项目
 
-[[osmantic-ods]] [[p-e-w-heretic]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]]
+[[osmantic-ods]] [[p-e-w-heretic]] [[kaifcodec-user-scanner]] [[k-dense-ai-scientific-agent-skills]]
 

@@ -34,5 +34,5 @@ b站会员购购票辅助工具
 
 ## 相关项目
 
-[[osmantic-ods]] [[p-e-w-heretic]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]]
+[[osmantic-ods]] [[p-e-w-heretic]] [[kaifcodec-user-scanner]] [[k-dense-ai-scientific-agent-skills]]
 

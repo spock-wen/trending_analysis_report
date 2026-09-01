@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[osmantic-ods]] [[tt-a1i-archify]] [[mvanhorn-last30days-skill]] [[addyosmani-agent-skills]]
+[[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[unslothai-unsloth]] [[freestylefly-awesome-gpt-image-2]] [[conardli-garden-skills]]
 
 **所属领域**: [[web]] [[image-gen]]
 

@@ -36,7 +36,7 @@ Help AI coding agents write modern Go
 
 ## 相关项目
 
-[[workweave-router]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[tailscale-tailcat]] [[zhaoxuya520-reverse-skill]]
+[[zhaoxuya520-reverse-skill]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[majd-ipatool]]
 
 **所属领域**: [[ai-agent]]
 

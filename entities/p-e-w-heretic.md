@@ -38,5 +38,5 @@ Fully automatic censorship removal for language models
 
 ## 相关项目
 
-[[osmantic-ods]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]]
+[[osmantic-ods]] [[kaifcodec-user-scanner]] [[k-dense-ai-scientific-agent-skills]]
 

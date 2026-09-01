@@ -34,5 +34,5 @@ General plug-and-play inference library for Recursive Language Models (RLMs), su
 
 ## 相关项目
 
-[[osmantic-ods]] [[p-e-w-heretic]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]]
+[[osmantic-ods]] [[p-e-w-heretic]] [[kaifcodec-user-scanner]] [[k-dense-ai-scientific-agent-skills]]
 

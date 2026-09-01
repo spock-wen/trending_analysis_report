@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[ripienaar-free-for-dev]] [[every-app-open-seo]] [[tencent-ai-infra-guard]]
+[[tashfeenahmed-freellmapi]] [[ripienaar-free-for-dev]] [[posthog-posthog]] [[tencent-ai-infra-guard]] [[ruvnet-ruflo]]
 
 **所属领域**: [[devops]]
 

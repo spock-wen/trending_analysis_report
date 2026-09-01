@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[hugohe3-ppt-master]] [[kepano-obsidian-skills]] [[affaan-m-ecc]] [[ripienaar-free-for-dev]]
+[[genlayerlabs-genlayer-project-boilerplate]] [[k-dense-ai-scientific-agent-skills]] [[tooljet-tooljet]] [[lyogavin-airllm]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

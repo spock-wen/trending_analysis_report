@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[aprilnea-openlogi]] [[abhigyanpatwari-gitnexus]] [[tt-a1i-archify]] [[tinyhumansai-openhuman]] [[mvanhorn-last30days-skill]]
+[[mvanhorn-last30days-skill]] [[aprilnea-openlogi]] [[openai-codex]] [[abhigyanpatwari-gitnexus]] [[tinyhumansai-openhuman]]
 
 **所属领域**: [[web]]
 

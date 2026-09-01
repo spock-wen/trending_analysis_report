@@ -35,5 +35,5 @@ git push no-mistakes
 
 ## 相关项目
 
-[[workweave-router]] [[jetbrains-go-modern-guidelines]] [[tailscale-tailcat]] [[majd-ipatool]]
+[[majd-ipatool]] [[workweave-router]] [[jetbrains-go-modern-guidelines]] [[tailscale-tailcat]]
 

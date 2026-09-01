@@ -36,5 +36,5 @@ Meta-Framework of Spatiotemporal Composability
 
 ## 相关项目
 
-[[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[tashfeenahmed-freellmapi]] [[every-app-open-seo]]
+[[abhigyanpatwari-gitnexus]] [[every-app-open-seo]] [[thu-maic-openmaic]] [[tashfeenahmed-freellmapi]]
 

@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[osmantic-ods]] [[kaifcodec-user-scanner]] [[thu-maic-openmaic]] [[tt-a1i-archify]]
+[[alishahryar1-free-claude-code]] [[zhaoxuya520-reverse-skill]] [[altic-dev-fluidvoice]] [[k-dense-ai-scientific-agent-skills]] [[kepano-obsidian-skills]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

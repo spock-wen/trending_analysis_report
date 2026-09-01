@@ -35,7 +35,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[osmantic-ods]] [[kaifcodec-user-scanner]] [[k-dense-ai-scientific-agent-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[k-dense-ai-scientific-agent-skills]] [[kepano-obsidian-skills]] [[kaifcodec-user-scanner]] [[p-e-w-heretic]] [[osmantic-ods]]
 
 **所属领域**: [[education]]
 

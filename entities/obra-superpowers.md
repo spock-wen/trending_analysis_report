@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[basecamp-omarchy]] [[k-dense-ai-scientific-agent-skills]] [[tt-a1i-archify]] [[mattpocock-skills]]
+[[genlayerlabs-genlayer-project-boilerplate]] [[zhaoxuya520-reverse-skill]] [[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[tooljet-tooljet]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

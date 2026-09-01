@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[aprilnea-openlogi]] [[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[tt-a1i-archify]] [[tinyhumansai-openhuman]]
+[[mvanhorn-last30days-skill]] [[aprilnea-openlogi]] [[zhaoxuya520-reverse-skill]] [[openai-codex]] [[thu-maic-openmaic]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[basecamp-omarchy]] [[k-dense-ai-scientific-agent-skills]] [[tt-a1i-archify]] [[mattpocock-skills]]
+[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

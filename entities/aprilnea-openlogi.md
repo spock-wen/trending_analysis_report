@@ -37,5 +37,5 @@ language: "Rust"
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[openai-codex]] [[tinyhumansai-openhuman]]
+[[tinyhumansai-openhuman]] [[openai-codex]] [[firecrawl-pdf-inspector]]
 

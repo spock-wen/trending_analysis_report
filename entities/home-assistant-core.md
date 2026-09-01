@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[osmantic-ods]] [[kaifcodec-user-scanner]] [[k-dense-ai-scientific-agent-skills]] [[p-e-w-heretic]] [[zhaoxuya520-reverse-skill]]
+[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[tashfeenahmed-freellmapi]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]]
 
 **所属领域**: [[security]]
 

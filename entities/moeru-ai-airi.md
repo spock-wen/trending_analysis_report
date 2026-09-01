@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[abhigyanpatwari-gitnexus]] [[thu-maic-openmaic]] [[osmantic-ods]] [[tt-a1i-archify]]
+[[mvanhorn-last30days-skill]] [[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

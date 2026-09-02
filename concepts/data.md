@@ -1,7 +1,7 @@
 ---
 title: "data"
 created: 2026-05-31
-updated: 2026-09-02
+updated: 2026-09-03
 type: concept
 tags: [data]
 confidence: medium
@@ -11,7 +11,7 @@ confidence: medium
 
 ## 领域项目（共 48 个，今日上榜 1 个）
 
-[[k-dense-ai-scientific-agent-skills]] [[tt-a1i-archify]] [[kaifcodec-user-scanner]] [[calesthio-openmontage]] [[bilawalsidhu-gods-eye-view]] [[tailscale-tailcat]] [[posthog-posthog]] [[mahlernim-google-timeline-visualizer]] [[protocolbuffers-protobuf]] [[volcengine-openviking]] [[marceloprates-prettymaps]] [[hugohe3-ppt-master]] [[alibaba-open-code-review]] [[opengeos-geolibre]] [[apache-cassandra]] [[corebunch-instatic]] [[ottermind-chat2db]] [[robbyant-lingbot-map]] [[trycua-cua]] [[canner-wrenai]] [[apache-ossie]] [[hasaneyldrm-exercises-dataset]] [[graphify-labs-graphify]] [[coreyhaines31-marketingskills]] [[prefecthq-prefect]] [[prisma-prisma]] [[alibaba-zvec]] [[zackriya-solutions-meetily]] [[safishamsi-graphify]] [[supabase-supabase]] [[allenai-olmocr]] [[deusdata-codebase-memory-mcp]] [[opendatalab-mineru]] [[dbt-labs-dbt-core]] [[grafana-grafana]] [[tursodatabase-turso]] [[teslamate-org-teslamate]] [[kenn-io-agentsview]] [[fareedkhan-dev-train-llm-from-scratch]] [[paddlepaddle-paddleocr]] [[nvidia-cosmos]] [[opendataloader-project-opendataloader-pdf]] [[datatalksclub-data-engineering-zoomcamp]] [[fincept-corporation-finceptterminal]] [[bigbodycobain-shadowbroker]] [[plausible-analytics]] [[influxdata-telegraf]] [[nvidia-ai-blueprints-video-search-and-summarization]]
+[[protocolbuffers-protobuf]] [[k-dense-ai-scientific-agent-skills]] [[tt-a1i-archify]] [[kaifcodec-user-scanner]] [[calesthio-openmontage]] [[bilawalsidhu-gods-eye-view]] [[tailscale-tailcat]] [[posthog-posthog]] [[mahlernim-google-timeline-visualizer]] [[volcengine-openviking]] [[marceloprates-prettymaps]] [[hugohe3-ppt-master]] [[alibaba-open-code-review]] [[opengeos-geolibre]] [[apache-cassandra]] [[corebunch-instatic]] [[ottermind-chat2db]] [[robbyant-lingbot-map]] [[trycua-cua]] [[canner-wrenai]] [[apache-ossie]] [[hasaneyldrm-exercises-dataset]] [[graphify-labs-graphify]] [[coreyhaines31-marketingskills]] [[prefecthq-prefect]] [[prisma-prisma]] [[alibaba-zvec]] [[zackriya-solutions-meetily]] [[safishamsi-graphify]] [[supabase-supabase]] [[allenai-olmocr]] [[deusdata-codebase-memory-mcp]] [[opendatalab-mineru]] [[dbt-labs-dbt-core]] [[grafana-grafana]] [[tursodatabase-turso]] [[teslamate-org-teslamate]] [[kenn-io-agentsview]] [[fareedkhan-dev-train-llm-from-scratch]] [[paddlepaddle-paddleocr]] [[nvidia-cosmos]] [[opendataloader-project-opendataloader-pdf]] [[datatalksclub-data-engineering-zoomcamp]] [[fincept-corporation-finceptterminal]] [[bigbodycobain-shadowbroker]] [[plausible-analytics]] [[influxdata-telegraf]] [[nvidia-ai-blueprints-video-search-and-summarization]]
 
 ## 语言分布
 

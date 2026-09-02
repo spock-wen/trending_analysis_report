@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[msitarzewski-agency-agents]]
+[[thu-maic-openmaic]] [[averygan-reclip]] [[basecamp-omarchy]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

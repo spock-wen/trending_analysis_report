@@ -34,7 +34,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[k-dense-ai-scientific-agent-skills]] [[osmantic-ods]] [[unclecode-crawl4ai]]
+[[debpalash-voicestudio]] [[affaan-m-ecc]] [[alishahryar1-free-claude-code]] [[osmantic-ods]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

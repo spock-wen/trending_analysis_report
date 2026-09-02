@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[cathrynlavery-diagram-design]]
+[[cathrynlavery-diagram-design]] [[averygan-reclip]] [[affaan-m-ecc]] [[ripienaar-free-for-dev]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

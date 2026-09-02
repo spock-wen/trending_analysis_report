@@ -35,5 +35,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tt-a1i-archify]] [[addyosmani-agent-skills]] [[bilawalsidhu-gods-eye-view]]
+[[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[addyosmani-agent-skills]] [[tt-a1i-archify]]
 

@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[obra-superpowers]] [[every-app-open-seo]] [[tashfeenahmed-freellmapi]] [[hugohe3-ppt-master]]
+[[thu-maic-openmaic]] [[vercel-labs-portless]] [[tooljet-tooljet]] [[hugohe3-ppt-master]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[erp]]
 

@@ -34,7 +34,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[cathrynlavery-diagram-design]] [[unclecode-crawl4ai]] [[trycua-cua]]
+[[thu-maic-openmaic]] [[cathrynlavery-diagram-design]] [[zhaoxuya520-reverse-skill]] [[ripienaar-free-for-dev]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[cli]]
 

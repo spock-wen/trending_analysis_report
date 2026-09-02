@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[k-dense-ai-scientific-agent-skills]] [[osmantic-ods]] [[unclecode-crawl4ai]] [[every-app-open-seo]]
+[[thu-maic-openmaic]] [[debpalash-voicestudio]] [[affaan-m-ecc]] [[alishahryar1-free-claude-code]] [[vercel-labs-portless]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

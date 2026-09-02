@@ -35,7 +35,7 @@ Fullstack app framework for web, desktop, and mobile.
 
 ## 相关项目
 
-[[browser-use-video-use]] [[tinyhumansai-openhuman]] [[averygan-reclip]] [[unclecode-crawl4ai]] [[firecrawl-pdf-inspector]]
+[[tinyhumansai-openhuman]] [[averygan-reclip]] [[firecrawl-pdf-inspector]] [[openai-codex]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]]
 

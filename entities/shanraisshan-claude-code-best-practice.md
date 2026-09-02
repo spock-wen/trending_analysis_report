@@ -35,7 +35,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[browser-use-video-use]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[cathrynlavery-diagram-design]] [[unclecode-crawl4ai]]
+[[cathrynlavery-diagram-design]] [[averygan-reclip]] [[affaan-m-ecc]] [[ripienaar-free-for-dev]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

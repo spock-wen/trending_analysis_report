@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[freestylefly-awesome-gpt-image-2]] [[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[osmantic-ods]]
+[[freestylefly-awesome-gpt-image-2]] [[debpalash-voicestudio]] [[affaan-m-ecc]] [[conardli-garden-skills]] [[vercel-labs-portless]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

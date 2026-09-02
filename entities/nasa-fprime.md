@@ -34,5 +34,5 @@ F´ - A flight software and embedded systems framework
 
 ## 相关项目
 
-[[microsoft-onnxruntime]] [[ladybirdbrowser-ladybird]] [[google-googletest]] [[protocolbuffers-protobuf]]
+[[microsoft-onnxruntime]] [[google-googletest]] [[protocolbuffers-protobuf]] [[fmtlib-fmt]]
 

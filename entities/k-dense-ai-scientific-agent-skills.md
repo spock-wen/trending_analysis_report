@@ -38,7 +38,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ## 相关项目
 
-[[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[kaifcodec-user-scanner]] [[unclecode-crawl4ai]] [[tt-a1i-archify]]
+[[debpalash-voicestudio]] [[affaan-m-ecc]] [[protocolbuffers-protobuf]] [[tt-a1i-archify]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

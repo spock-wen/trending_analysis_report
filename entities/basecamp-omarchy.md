@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[averygan-reclip]] [[msitarzewski-agency-agents]] [[mattpocock-skills]]
+[[thu-maic-openmaic]] [[averygan-reclip]] [[zhaoxuya520-reverse-skill]] [[msitarzewski-agency-agents]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

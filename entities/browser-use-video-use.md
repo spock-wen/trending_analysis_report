@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[unclecode-crawl4ai]] [[tt-a1i-archify]] [[imbad0202-academic-research-skills]]
+[[averygan-reclip]] [[debpalash-voicestudio]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[averygan-reclip]] [[unclecode-crawl4ai]] [[tt-a1i-archify]]
+[[thu-maic-openmaic]] [[averygan-reclip]] [[zhaoxuya520-reverse-skill]] [[chromedevtools-chrome-devtools-mcp]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -36,5 +36,5 @@ GoogleTest - Google Testing and Mocking Framework
 
 ## 相关项目
 
-[[microsoft-onnxruntime]] [[ladybirdbrowser-ladybird]] [[protocolbuffers-protobuf]]
+[[microsoft-onnxruntime]] [[protocolbuffers-protobuf]] [[fmtlib-fmt]]
 

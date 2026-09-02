@@ -36,7 +36,7 @@ Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J
 
 ## 相关项目
 
-[[browser-use-video-use]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[unclecode-crawl4ai]] [[tt-a1i-archify]]
+[[k-dense-ai-scientific-agent-skills]] [[debpalash-voicestudio]] [[affaan-m-ecc]] [[protocolbuffers-protobuf]] [[tt-a1i-archify]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

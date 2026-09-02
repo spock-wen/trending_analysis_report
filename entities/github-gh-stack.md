@@ -34,5 +34,5 @@ GitHub Stacked PRs
 
 ## 相关项目
 
-[[majd-ipatool]] [[workweave-router]] [[tailscale-tailcat]] [[jetbrains-go-modern-guidelines]]
+[[tailscale-tailcat]] [[juliusbrussee-caveman]] [[jetbrains-go-modern-guidelines]] [[majd-ipatool]]
 

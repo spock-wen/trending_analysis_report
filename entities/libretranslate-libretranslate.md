@@ -34,5 +34,5 @@ Free and Open Source Machine Translation API. Self-hosted, offline capable and e
 
 ## 相关项目
 
-[[browser-use-video-use]] [[unclecode-crawl4ai]] [[imbad0202-academic-research-skills]] [[k-dense-ai-scientific-agent-skills]]
+[[debpalash-voicestudio]] [[nousresearch-hermes-agent]] [[imbad0202-academic-research-skills]] [[google-research-timesfm]]
 

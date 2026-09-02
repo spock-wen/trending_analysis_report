@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[k-dense-ai-scientific-agent-skills]] [[ruvnet-ruflo]] [[osmantic-ods]]
+[[thu-maic-openmaic]] [[kepano-obsidian-skills]] [[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

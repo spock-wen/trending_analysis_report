@@ -34,5 +34,5 @@ Effortlessly compose, extend, and observe every service in real-time for the fir
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[aprilnea-openlogi]] [[openai-codex]] [[firecrawl-pdf-inspector]]
+[[openai-codex]] [[tinyhumansai-openhuman]] [[firecrawl-pdf-inspector]] [[pacifio-atlas]]
 

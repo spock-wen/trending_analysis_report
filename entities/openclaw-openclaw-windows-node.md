@@ -35,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[k1tbyte-wand-enhancer]] [[jellyfin-jellyfin]] [[averygan-reclip]] [[par274-sharpemu]]
+[[thu-maic-openmaic]] [[par274-sharpemu]] [[averygan-reclip]] [[zhaoxuya520-reverse-skill]] [[k1tbyte-wand-enhancer]]
 
 **所属领域**: [[cli]]
 

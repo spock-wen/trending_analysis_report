@@ -34,7 +34,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[posthog-posthog]] [[ruvnet-ruflo]] [[unclecode-crawl4ai]] [[every-app-open-seo]]
+[[thu-maic-openmaic]] [[posthog-posthog]] [[affaan-m-ecc]] [[tencent-ai-infra-guard]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

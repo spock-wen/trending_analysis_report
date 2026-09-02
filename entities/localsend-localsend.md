@@ -34,7 +34,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[chen08209-flclash]] [[flutter-flutter]] [[k-dense-ai-scientific-agent-skills]] [[unclecode-crawl4ai]] [[imbad0202-academic-research-skills]]
+[[flutter-flutter]] [[chen08209-flclash]] [[affaan-m-ecc]] [[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

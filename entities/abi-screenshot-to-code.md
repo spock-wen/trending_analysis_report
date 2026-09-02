@@ -35,7 +35,7 @@ Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 
 ## 相关项目
 
-[[browser-use-video-use]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[unclecode-crawl4ai]] [[tt-a1i-archify]]
+[[averygan-reclip]] [[debpalash-voicestudio]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

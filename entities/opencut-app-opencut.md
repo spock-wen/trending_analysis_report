@@ -38,5 +38,5 @@ The open-source CapCut alternative
 
 ## 相关项目
 
-[[tashfeenahmed-freellmapi]] [[every-app-open-seo]] [[thu-maic-openmaic]] [[gitlawb-openclaude]]
+[[thu-maic-openmaic]] [[vercel-labs-portless]] [[chromedevtools-chrome-devtools-mcp]] [[gitlawb-openclaude]]
 

@@ -35,7 +35,7 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[unclecode-crawl4ai]]
+[[thu-maic-openmaic]] [[averygan-reclip]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[vercel-labs-portless]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

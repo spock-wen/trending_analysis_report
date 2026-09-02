@@ -37,7 +37,7 @@ The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste
 
 ## 相关项目
 
-[[browser-use-video-use]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[averygan-reclip]] [[unclecode-crawl4ai]]
+[[thu-maic-openmaic]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[affaan-m-ecc]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

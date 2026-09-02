@@ -38,7 +38,7 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60
 
 ## 相关项目
 
-[[browser-use-video-use]] [[k-dense-ai-scientific-agent-skills]] [[unclecode-crawl4ai]] [[imbad0202-academic-research-skills]] [[affaan-m-ecc]]
+[[debpalash-voicestudio]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

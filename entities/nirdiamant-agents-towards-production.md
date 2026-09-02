@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[tencent-ai-infra-guard]] [[affaan-m-ecc]] [[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[unclecode-crawl4ai]]
+[[tooljet-tooljet]] [[genlayerlabs-genlayer-project-boilerplate]] [[kepano-obsidian-skills]] [[anthropics-claude-cookbooks]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

@@ -35,7 +35,7 @@ Code for Machine Learning for Algorithmic Trading, 2nd edition.
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[ruvnet-ruflo]] [[rohitg00-ai-engineering-from-scratch]] [[lyogavin-airllm]] [[kepano-obsidian-skills]]
+[[thu-maic-openmaic]] [[kepano-obsidian-skills]] [[rohitg00-ai-engineering-from-scratch]] [[microsoft-generative-ai-for-beginners]] [[anthropics-claude-cookbooks]]
 
 **所属领域**: [[education]]
 

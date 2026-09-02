@@ -38,5 +38,5 @@ Open source alternative to Semrush and Ahrefs
 
 ## 相关项目
 
-[[tashfeenahmed-freellmapi]] [[thu-maic-openmaic]] [[gitlawb-openclaude]]
+[[thu-maic-openmaic]] [[vercel-labs-portless]] [[chromedevtools-chrome-devtools-mcp]] [[gitlawb-openclaude]]
 

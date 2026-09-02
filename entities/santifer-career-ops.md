@@ -38,7 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[unclecode-crawl4ai]] [[addyosmani-agent-skills]]
+[[dietrichgebert-ponytail]] [[thu-maic-openmaic]] [[averygan-reclip]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -38,7 +38,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## 相关项目
 
-[[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[unclecode-crawl4ai]]
+[[thu-maic-openmaic]] [[averygan-reclip]] [[debpalash-voicestudio]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

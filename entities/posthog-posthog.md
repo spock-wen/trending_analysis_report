@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[browser-use-video-use]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[averygan-reclip]] [[ruvnet-ruflo]]
+[[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[debpalash-voicestudio]] [[affaan-m-ecc]] [[tencent-ai-infra-guard]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

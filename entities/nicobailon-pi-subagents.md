@@ -34,7 +34,7 @@ Pi extension for async subagent delegation with truncation, artifacts, and sessi
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[unclecode-crawl4ai]] [[every-app-open-seo]] [[imbad0202-academic-research-skills]] [[affaan-m-ecc]]
+[[thu-maic-openmaic]] [[affaan-m-ecc]] [[vercel-labs-portless]] [[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

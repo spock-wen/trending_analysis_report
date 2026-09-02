@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[averygan-reclip]] [[microsoft-onnxruntime]] [[majd-ipatool]] [[ladybirdbrowser-ladybird]]
+[[thu-maic-openmaic]] [[averygan-reclip]] [[microsoft-onnxruntime]] [[zhaoxuya520-reverse-skill]] [[google-googletest]]
 
 **所属领域**: [[cli]]
 

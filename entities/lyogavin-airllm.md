@@ -38,7 +38,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[microsoft-generative-ai-for-beginners]] [[unclecode-crawl4ai]] [[imbad0202-academic-research-skills]] [[microsoft-ai-for-beginners]]
+[[microsoft-generative-ai-for-beginners]] [[anthropics-claude-cookbooks]] [[microsoft-ai-for-beginners]] [[affaan-m-ecc]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your 
 
 ## 相关项目
 
-[[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[osmantic-ods]]
+[[thu-maic-openmaic]] [[averygan-reclip]] [[debpalash-voicestudio]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

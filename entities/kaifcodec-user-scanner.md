@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[unclecode-crawl4ai]] [[tt-a1i-archify]]
+[[k-dense-ai-scientific-agent-skills]] [[debpalash-voicestudio]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[tashfeenahmed-freellmapi]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

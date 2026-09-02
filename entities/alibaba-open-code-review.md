@@ -37,7 +37,7 @@ Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture cod
 
 ## 相关项目
 
-[[tailscale-tailcat]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[unclecode-crawl4ai]] [[jetbrains-go-modern-guidelines]]
+[[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[juliusbrussee-caveman]] [[protocolbuffers-protobuf]] [[tt-a1i-archify]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

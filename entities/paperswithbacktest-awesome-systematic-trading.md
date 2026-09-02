@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[ruvnet-ruflo]] [[unclecode-crawl4ai]]
+[[thu-maic-openmaic]] [[kepano-obsidian-skills]] [[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[affaan-m-ecc]]
 
 **所属领域**: [[education]] [[science]]
 

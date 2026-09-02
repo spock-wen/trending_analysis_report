@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[nationalsecurityagency-ghidra]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[averygan-reclip]]
+[[thu-maic-openmaic]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[zhaoxuya520-reverse-skill]] [[checkstyle-checkstyle]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

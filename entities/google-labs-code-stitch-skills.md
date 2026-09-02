@@ -35,7 +35,7 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[unclecode-crawl4ai]] [[every-app-open-seo]]
+[[thu-maic-openmaic]] [[averygan-reclip]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[vercel-labs-portless]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

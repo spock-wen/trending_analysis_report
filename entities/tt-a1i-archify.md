@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[browser-use-video-use]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[averygan-reclip]] [[unclecode-crawl4ai]]
+[[dietrichgebert-ponytail]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[affaan-m-ecc]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

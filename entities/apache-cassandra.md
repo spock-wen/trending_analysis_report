@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[posthog-posthog]] [[ruvnet-ruflo]]
+[[posthog-posthog]] [[k-dense-ai-scientific-agent-skills]] [[checkstyle-checkstyle]] [[tencent-ai-infra-guard]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[data]] [[devops]]
 

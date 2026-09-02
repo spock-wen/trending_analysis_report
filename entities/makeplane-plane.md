@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[averygan-reclip]] [[every-app-open-seo]] [[majd-ipatool]] [[tashfeenahmed-freellmapi]]
+[[thu-maic-openmaic]] [[averygan-reclip]] [[zhaoxuya520-reverse-skill]] [[vercel-labs-portless]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[cli]]
 

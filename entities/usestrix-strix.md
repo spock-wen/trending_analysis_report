@@ -38,7 +38,7 @@ Open-source AI penetration testing tool to find and fix your app’s vulnerabili
 
 ## 相关项目
 
-[[browser-use-video-use]] [[k-dense-ai-scientific-agent-skills]] [[unclecode-crawl4ai]] [[imbad0202-academic-research-skills]] [[affaan-m-ecc]]
+[[debpalash-voicestudio]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

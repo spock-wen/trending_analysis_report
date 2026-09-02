@@ -35,5 +35,5 @@ An experimental PlayStation 5 emulator project.
 
 ## 相关项目
 
-[[k1tbyte-wand-enhancer]] [[dotnet-aspnetcore]] [[jellyfin-jellyfin]]
+[[dotnet-aspnetcore]] [[jellyfin-jellyfin]] [[k1tbyte-wand-enhancer]]
 

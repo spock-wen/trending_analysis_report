@@ -1,20 +1,20 @@
 ---
 title: "JuliusBrussee/caveman"
 created: 2026-07-03
-updated: 2026-08-21
-last_active: 2026-08-21
+updated: 2026-09-03
+last_active: 2026-09-03
 type: tool
 tags: [go, ai-agent]
-sources: [raw/trending/2026-08-21.json]
+sources: [raw/trending/2026-09-03.json]
 confidence: high
-trending_count_daily: 5
+trending_count_daily: 6
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-07-03
-last_trending: 2026-08-21
+last_trending: 2026-09-03
 peak_rank: 2
-total_stars: 99599
+total_stars: 102600
 language: "Go"
 ---
 
@@ -23,22 +23,22 @@ language: "Go"
 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
 - 语言: Go
-- 上榜次数: 5 次
+- 上榜次数: 6 次
 - 连续上榜: 1 天
 - 最高排名: #2
 - 链接: [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
 
 ## 上榜历史
 
+  - 2026-09-03: #16, +234⭐
   - 2026-08-21: #14, +309⭐
   - 2026-07-06: #13, +1043⭐
   - 2026-07-05: #2, +1089⭐
   - 2026-07-04: #3, +2851⭐
-  - 2026-07-03: #2, +866⭐
 
 ## 相关项目
 
-[[tailscale-tailcat]] [[k-dense-ai-scientific-agent-skills]] [[unclecode-crawl4ai]] [[jetbrains-go-modern-guidelines]] [[imbad0202-academic-research-skills]]
+[[affaan-m-ecc]] [[majd-ipatool]] [[tailscale-tailcat]] [[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

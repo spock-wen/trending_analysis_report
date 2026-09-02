@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[unclecode-crawl4ai]] [[tt-a1i-archify]] [[imbad0202-academic-research-skills]] [[bilawalsidhu-gods-eye-view]]
+[[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[tt-a1i-archify]] [[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

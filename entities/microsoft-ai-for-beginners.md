@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[microsoft-generative-ai-for-beginners]] [[ruvnet-ruflo]] [[unclecode-crawl4ai]] [[lyogavin-airllm]]
+[[thu-maic-openmaic]] [[kepano-obsidian-skills]] [[rohitg00-ai-engineering-from-scratch]] [[microsoft-generative-ai-for-beginners]] [[anthropics-claude-cookbooks]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

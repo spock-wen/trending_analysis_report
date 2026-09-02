@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]]
+[[thu-maic-openmaic]] [[averygan-reclip]] [[debpalash-voicestudio]] [[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[cli]] [[audio]]
 

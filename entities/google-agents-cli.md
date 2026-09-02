@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[posthog-posthog]] [[averygan-reclip]]
+[[thu-maic-openmaic]] [[posthog-posthog]] [[averygan-reclip]] [[debpalash-voicestudio]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

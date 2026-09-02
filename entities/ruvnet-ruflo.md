@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[posthog-posthog]] [[unclecode-crawl4ai]] [[rohitg00-ai-engineering-from-scratch]] [[kepano-obsidian-skills]]
+[[thu-maic-openmaic]] [[posthog-posthog]] [[kepano-obsidian-skills]] [[rohitg00-ai-engineering-from-scratch]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

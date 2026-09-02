@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[browser-use-video-use]] [[k-dense-ai-scientific-agent-skills]] [[ruvnet-ruflo]] [[unclecode-crawl4ai]] [[kepano-obsidian-skills]]
+[[thu-maic-openmaic]] [[kepano-obsidian-skills]] [[debpalash-voicestudio]] [[affaan-m-ecc]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

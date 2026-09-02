@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]]
+[[thu-maic-openmaic]] [[averygan-reclip]] [[debpalash-voicestudio]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[freestylefly-awesome-gpt-image-2]] [[k-dense-ai-scientific-agent-skills]] [[osmantic-ods]] [[unclecode-crawl4ai]] [[conardli-garden-skills]]
+[[thu-maic-openmaic]] [[freestylefly-awesome-gpt-image-2]] [[affaan-m-ecc]] [[conardli-garden-skills]] [[vercel-labs-portless]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

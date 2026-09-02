@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[unclecode-crawl4ai]] [[imbad0202-academic-research-skills]]
+[[debpalash-voicestudio]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[imbad0202-academic-research-skills]] [[google-research-timesfm]]
 
 **所属领域**: [[science]]
 

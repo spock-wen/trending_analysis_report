@@ -35,7 +35,7 @@ Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex 
 
 ## 相关项目
 
-[[browser-use-video-use]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[unclecode-crawl4ai]] [[every-app-open-seo]]
+[[thu-maic-openmaic]] [[averygan-reclip]] [[affaan-m-ecc]] [[vercel-labs-portless]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

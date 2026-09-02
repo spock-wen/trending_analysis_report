@@ -36,7 +36,7 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[tinyhumansai-openhuman]] [[averygan-reclip]] [[unclecode-crawl4ai]]
+[[thu-maic-openmaic]] [[tinyhumansai-openhuman]] [[averygan-reclip]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

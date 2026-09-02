@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[browser-use-video-use]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[tt-a1i-archify]] [[imbad0202-academic-research-skills]]
+[[averygan-reclip]] [[debpalash-voicestudio]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

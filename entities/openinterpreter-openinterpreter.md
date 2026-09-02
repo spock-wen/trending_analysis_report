@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[k-dense-ai-scientific-agent-skills]] [[tinyhumansai-openhuman]] [[obra-superpowers]] [[unclecode-crawl4ai]]
+[[tinyhumansai-openhuman]] [[affaan-m-ecc]] [[firecrawl-pdf-inspector]] [[openai-codex]] [[imbad0202-academic-research-skills]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

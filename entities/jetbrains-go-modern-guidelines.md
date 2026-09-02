@@ -36,7 +36,7 @@ Help AI coding agents write modern Go
 
 ## 相关项目
 
-[[tailscale-tailcat]] [[k-dense-ai-scientific-agent-skills]] [[unclecode-crawl4ai]] [[imbad0202-academic-research-skills]] [[majd-ipatool]]
+[[affaan-m-ecc]] [[juliusbrussee-caveman]] [[majd-ipatool]] [[tailscale-tailcat]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[posthog-posthog]] [[ruvnet-ruflo]] [[every-app-open-seo]] [[tencent-ai-infra-guard]] [[ripienaar-free-for-dev]]
+[[thu-maic-openmaic]] [[posthog-posthog]] [[tencent-ai-infra-guard]] [[ruvnet-ruflo]] [[vercel-labs-portless]]
 
 **所属领域**: [[devops]]
 

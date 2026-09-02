@@ -35,5 +35,5 @@ Advanced UX and interoperability extension for Wand (WeMod) app
 
 ## 相关项目
 
-[[par274-sharpemu]] [[dotnet-aspnetcore]] [[jellyfin-jellyfin]]
+[[dotnet-aspnetcore]] [[jellyfin-jellyfin]] [[par274-sharpemu]]
 

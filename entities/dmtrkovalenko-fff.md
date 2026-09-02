@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[tinyhumansai-openhuman]] [[unclecode-crawl4ai]] [[firecrawl-pdf-inspector]] [[aprilnea-openlogi]]
+[[tinyhumansai-openhuman]] [[affaan-m-ecc]] [[firecrawl-pdf-inspector]] [[openai-codex]] [[imbad0202-academic-research-skills]]
 
 **所属领域**: [[ai-agent]]
 

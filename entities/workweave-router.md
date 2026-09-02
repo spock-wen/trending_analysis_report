@@ -34,7 +34,7 @@ Model router for agentic systems. Routes every prompt to the right model in <50m
 
 ## 相关项目
 
-[[tailscale-tailcat]] [[k-dense-ai-scientific-agent-skills]] [[unclecode-crawl4ai]] [[jetbrains-go-modern-guidelines]] [[imbad0202-academic-research-skills]]
+[[affaan-m-ecc]] [[juliusbrussee-caveman]] [[majd-ipatool]] [[tailscale-tailcat]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]]
 

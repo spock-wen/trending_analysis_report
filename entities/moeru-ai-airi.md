@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[browser-use-video-use]] [[alishahryar1-free-claude-code]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[osmantic-ods]]
+[[thu-maic-openmaic]] [[averygan-reclip]] [[debpalash-voicestudio]] [[affaan-m-ecc]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

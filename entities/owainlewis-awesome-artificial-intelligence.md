@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[ruvnet-ruflo]] [[unclecode-crawl4ai]] [[rohitg00-ai-engineering-from-scratch]]
+[[thu-maic-openmaic]] [[kepano-obsidian-skills]] [[rohitg00-ai-engineering-from-scratch]] [[affaan-m-ecc]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

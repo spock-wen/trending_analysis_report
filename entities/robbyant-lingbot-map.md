@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[browser-use-video-use]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[unclecode-crawl4ai]] [[tt-a1i-archify]]
+[[k-dense-ai-scientific-agent-skills]] [[debpalash-voicestudio]] [[protocolbuffers-protobuf]] [[tt-a1i-archify]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[data]]
 

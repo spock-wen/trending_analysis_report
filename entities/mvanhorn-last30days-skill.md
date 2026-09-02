@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[unclecode-crawl4ai]]
+[[averygan-reclip]] [[debpalash-voicestudio]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

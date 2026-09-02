@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[unclecode-crawl4ai]]
+[[debpalash-voicestudio]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[tashfeenahmed-freellmapi]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

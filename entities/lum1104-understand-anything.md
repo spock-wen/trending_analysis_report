@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[ruvnet-ruflo]] [[unclecode-crawl4ai]]
+[[thu-maic-openmaic]] [[kepano-obsidian-skills]] [[rohitg00-ai-engineering-from-scratch]] [[averygan-reclip]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

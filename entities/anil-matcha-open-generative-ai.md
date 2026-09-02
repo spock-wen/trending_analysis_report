@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[freestylefly-awesome-gpt-image-2]] [[k-dense-ai-scientific-agent-skills]] [[osmantic-ods]] [[unclecode-crawl4ai]] [[conardli-garden-skills]]
+[[dietrichgebert-ponytail]] [[freestylefly-awesome-gpt-image-2]] [[affaan-m-ecc]] [[conardli-garden-skills]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

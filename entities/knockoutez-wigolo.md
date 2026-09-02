@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[browser-use-video-use]] [[zhaoxuya520-reverse-skill]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[unclecode-crawl4ai]]
+[[thu-maic-openmaic]] [[averygan-reclip]] [[affaan-m-ecc]] [[vercel-labs-portless]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

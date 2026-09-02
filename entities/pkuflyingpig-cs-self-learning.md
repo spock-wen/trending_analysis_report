@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[browser-use-video-use]] [[averygan-reclip]] [[cathrynlavery-diagram-design]] [[ruvnet-ruflo]] [[unclecode-crawl4ai]]
+[[thu-maic-openmaic]] [[cathrynlavery-diagram-design]] [[rohitg00-ai-engineering-from-scratch]] [[kepano-obsidian-skills]] [[averygan-reclip]]
 
 **所属领域**: [[web]] [[education]]
 

@@ -1,20 +1,20 @@
 ---
 title: "protocolbuffers/protobuf"
 created: 2026-07-18
-updated: 2026-08-22
-last_active: 2026-08-22
+updated: 2026-09-03
+last_active: 2026-09-03
 type: tool
 tags: [cpp, data]
-sources: [raw/trending/2026-08-22.json]
-confidence: medium
-trending_count_daily: 2
+sources: [raw/trending/2026-09-03.json]
+confidence: high
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-07-18
-last_trending: 2026-08-22
+last_trending: 2026-09-03
 peak_rank: 8
-total_stars: 71763
+total_stars: 71930
 language: "C++"
 ---
 
@@ -23,19 +23,20 @@ language: "C++"
 Protocol Buffers - Google's data interchange format
 
 - 语言: C++
-- 上榜次数: 2 次
+- 上榜次数: 3 次
 - 连续上榜: 1 天
 - 最高排名: #8
 - 链接: [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
 
 ## 上榜历史
 
+  - 2026-09-03: #13, +16⭐
   - 2026-08-22: #15, +4⭐
   - 2026-07-18: #8, +18⭐
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[kaifcodec-user-scanner]] [[tt-a1i-archify]] [[calesthio-openmontage]] [[microsoft-onnxruntime]]
+[[k-dense-ai-scientific-agent-skills]] [[microsoft-onnxruntime]] [[google-googletest]] [[tt-a1i-archify]] [[kaifcodec-user-scanner]]
 
 **所属领域**: [[data]]
 

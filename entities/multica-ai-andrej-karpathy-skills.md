@@ -38,7 +38,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[unclecode-crawl4ai]] [[imbad0202-academic-research-skills]] [[k-dense-ai-scientific-agent-skills]]
+[[affaan-m-ecc]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]]
 

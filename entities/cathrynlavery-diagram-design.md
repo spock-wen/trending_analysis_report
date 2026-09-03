@@ -37,7 +37,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[averygan-reclip]] [[affaan-m-ecc]] [[ripienaar-free-for-dev]] [[trycua-cua]] [[chromedevtools-chrome-devtools-mcp]]
+[[browser-use-video-use]] [[chromedevtools-chrome-devtools-mcp]] [[trycua-cua]] [[mattpocock-skills]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

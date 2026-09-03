@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[permissionlesstech-bitchat]] [[lakr233-vphone-cli]] [[chromedevtools-chrome-devtools-mcp]] [[jaywcjlove-awesome-mac]]
+[[permissionlesstech-bitchat]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]] [[anthropics-skills]] [[lakr233-vphone-cli]]
 
 **所属领域**: [[ai-agent]]
 

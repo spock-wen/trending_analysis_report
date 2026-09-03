@@ -35,7 +35,7 @@ ADR secures enterprise AI agents through observability, security benchmarking, a
 
 ## 相关项目
 
-[[posthog-posthog]] [[debpalash-voicestudio]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[tencent-ai-infra-guard]]
+[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[security]] [[erp]]
 

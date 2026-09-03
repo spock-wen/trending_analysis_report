@@ -37,7 +37,7 @@ Official Python inference and LoRA trainer package for the LTX-2 audio–video g
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[affaan-m-ecc]] [[alishahryar1-free-claude-code]] [[osmantic-ods]] [[nousresearch-hermes-agent]]
+[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[debpalash-voicestudio]] [[osmantic-ods]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

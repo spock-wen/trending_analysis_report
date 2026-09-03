@@ -35,5 +35,5 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[vercel-labs-portless]] [[chromedevtools-chrome-devtools-mcp]] [[gitlawb-openclaude]]
+[[vercel-labs-portless]] [[magnitudedev-magnitude]] [[gitlawb-openclaude]] [[chromedevtools-chrome-devtools-mcp]]
 

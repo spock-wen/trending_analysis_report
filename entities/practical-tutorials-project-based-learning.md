@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[kepano-obsidian-skills]] [[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[ruvnet-ruflo]]
+[[nousresearch-hermes-agent]] [[rohitg00-ai-engineering-from-scratch]] [[google-research-timesfm]] [[imbad0202-academic-research-skills]] [[thu-maic-openmaic]]
 
 **所属领域**: [[education]]
 

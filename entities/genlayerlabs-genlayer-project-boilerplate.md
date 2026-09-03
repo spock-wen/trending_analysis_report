@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[vercel-labs-portless]] [[tooljet-tooljet]] [[hugohe3-ppt-master]] [[chromedevtools-chrome-devtools-mcp]]
+[[vercel-labs-portless]] [[hugohe3-ppt-master]] [[magnitudedev-magnitude]] [[tooljet-tooljet]] [[gitlawb-openclaude]]
 
 **所属领域**: [[erp]]
 

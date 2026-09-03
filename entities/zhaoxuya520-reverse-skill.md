@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[averygan-reclip]] [[affaan-m-ecc]] [[tashfeenahmed-freellmapi]] [[mattpocock-skills]]
+[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[affaan-m-ecc]] [[raphire-win11debloat]] [[kaifcodec-user-scanner]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

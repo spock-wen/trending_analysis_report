@@ -35,7 +35,7 @@ Find the local LLM that actually runs and performs best on your hardware. Ranked
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[averygan-reclip]] [[debpalash-voicestudio]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]]
+[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-09-03 | 总页面：550
+> 最后更新：2026-09-04 | 总页面：551
 
 ## Entities
 
@@ -147,7 +147,7 @@
 - [[denoland-deno|deno"]] — A modern runtime for JavaScript and TypeScript.
 - [[deusdata-codebase-memory-mcp|codebase-memory-mcp"]] — High-performance code intelligence MCP server. Indexes codeb...
 - [[diegosouzapw-omniroute|OmniRoute"]] — Never stop coding. Free MIT AI gateway: one endpoint, 290+ p... 🔥
-- [[dietrichgebert-ponytail|ponytail"]] — Makes your AI agent think like the laziest senior dev in the...
+- [[dietrichgebert-ponytail|ponytail"]] — Makes your AI agent think like the laziest senior dev in the... 🆕
 - [[different-ai-openwork|openwork"]] — The open-source alternative to Claude Cowork (powered by ope...
 - [[digitalplatdev-freedomain|FreeDomain"]] — DigitalPlat FreeDomain: Free Domain For Everyone 🔥
 - [[diolinux-photogimp|PhotoGIMP"]] — A Patch for GIMP 3+ for Photoshop Users
@@ -194,7 +194,7 @@
 - [[github-docs|docs"]] — The open-source repo for docs.github.com
 - [[github-gh-stack|gh-stack"]] — GitHub Stacked PRs
 - [[github-spec-kit|spec-kit"]] — 💫 Toolkit to help you get started with Spec-Driven Developme... 🆕
-- [[gitlawb-openclaude|openclaude"]] — runs anywhere. uses anything 🆕
+- [[gitlawb-openclaude|openclaude"]] — runs anywhere. uses anything 🔥
 - [[goauthentik-authentik|authentik"]] — The authentication glue you need. 🔥
 - [[godotengine-godot|godot"]] — Godot Engine – Multi-platform 2D and 3D game engine
 - [[google-agents-cli|agents-cli"]] — The CLI and skills that turn any coding assistant into an ex...
@@ -202,7 +202,7 @@
 - [[google-googletest|googletest"]] — GoogleTest - Google Testing and Mocking Framework 🔥
 - [[google-guava|guava"]] — Google core libraries for Java 🔥
 - [[google-labs-code-stitch-skills|stitch-skills"]] — A library of Agent Skills designed to work with the Stitch M... 🆕
-- [[google-research-timesfm|timesfm"]] — TimesFM (Time Series Foundation Model) is a pretrained time-...
+- [[google-research-timesfm|timesfm"]] — TimesFM (Time Series Foundation Model) is a pretrained time-... 🆕
 - [[google-skills|skills"]] — Agent Skills for Google products and technologies 🔥
 - [[gorvgoyl-clone-wars|Clone-Wars"]] — 100+ open-source clones of popular sites like Airbnb, Amazon...
 - [[grafana-grafana|grafana"]] — The open and composable observability and data visualization...
@@ -237,7 +237,7 @@
 - [[ibelick-ui-skills|ui-skills"]] — Skills for Design Engineers
 - [[icewhaletech-casaos|CasaOS"]] — CasaOS - A simple, easy-to-use, elegant open-source Personal... 🔥
 - [[iii-hq-iii|iii"]] — Effortlessly compose, extend, and observe every service in r...
-- [[imbad0202-academic-research-skills|academic-research-skills"]] — Academic Research Skills for Claude Code: research → write →... 🆕
+- [[imbad0202-academic-research-skills|academic-research-skills"]] — Academic Research Skills for Claude Code: research → write →... 🔥
 - [[immich-app-immich|immich"]] — High performance self-hosted photo and video management solu...
 - [[imthenachoman-how-to-secure-a-linux-server|How-To-Secure-A-Linux-Server"]] — An evolving how-to guide for securing a Linux server.
 - [[infiniflow-ragflow|ragflow"]] — RAGFlow is a leading open-source Retrieval-Augmented Generat... 🔥
@@ -259,7 +259,7 @@
 - [[jetbrains-go-modern-guidelines|go-modern-guidelines"]] — Help AI coding agents write modern Go 🔥
 - [[jingyaogong-minimind|minimind"]] — 🧠 Train a 64M-parameter LLM from scratch in just 2h! 🆕
 - [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm"]] — Claude Skill: Multi-source content processor for NotebookLM. 🆕
-- [[juliusbrussee-caveman|caveman"]] — 🪨 why use many token when few token do trick — Claude Code s...
+- [[juliusbrussee-caveman|caveman"]] — 🪨 why use many token when few token do trick — Claude Code s... 🆕
 - [[jundot-omlx|omlx"]] — LLM inference server with continuous batching & SSD caching ... 🔥
 - [[jwasham-coding-interview-university|coding-interview-university"]] — A complete computer science study plan to become a software ...
 - [[k-dense-ai-scientific-agent-skills|scientific-agent-skills"]] — Turn any AI agent into an AI Scientist. The #1 Agent Skills ... 🔥
@@ -303,6 +303,7 @@
 - [[macro-inc-macro|macro"]] — Macro is a unified workspace for teams: email, chat, docs, t... 🔥
 - [[maderix-ane|ANE"]] — Training neural networks on Apple Neural Engine via reverse-...
 - [[madslorentzen-ai-job-search|ai-job-search"]] — The job search that runs on your machine. AI job application...
+- [[magnitudedev-magnitude|magnitude"]] — Open source inference server that runs the best local models... 🆕
 - [[mahlernim-google-timeline-visualizer|google-timeline-visualizer"]] — Visualize your year in travel using your Google Location His... 🔥
 - [[majd-ipatool|ipatool"]] — Command-line tool that allows searching and downloading app ... 🆕
 - [[makazhanalpamys-soup|Soup"]] — Fine-tune LLMs from one YAML. Layer streaming trains an 8B m...
@@ -313,7 +314,7 @@
 - [[marin-community-marin|marin"]] — Open-source framework for the research and development of fo... 🔥
 - [[masterking32-masterdnsvpn|MasterDnsVPN"]] — Advanced DNS tunneling VPN for censorship bypass, optimized ... 🔥
 - [[mattermost-mattermost|mattermost"]] — Mattermost is an open source platform for secure collaborati... 🆕
-- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .agents director...
+- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .agents director... 🆕
 - [[mauriceboe-trek|TREK"]] — A self-hosted travel/trip planner with real-time collaborati... 🆕
 - [[maziyarpanahi-openmed|openmed"]] — open-source healthcare ai 🔥
 - [[mebus-cupp|cupp"]] — Common User Passwords Profiler (CUPP) 🆕
@@ -354,7 +355,7 @@
 - [[nicobailon-pi-subagents|pi-subagents"]] — Pi extension for async subagent delegation with truncation, ...
 - [[nirdiamant-agents-towards-production|agents-towards-production"]] — End-to-end, code-first tutorials for building production-gra...
 - [[nomadamas-k-skill|k-skill"]] — 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로 🆕
-- [[nousresearch-hermes-agent|hermes-agent"]] — The agent that grows with you
+- [[nousresearch-hermes-agent|hermes-agent"]] — The agent that grows with you 🆕
 - [[nutlope-hallmark|hallmark"]] — Anti-AI-slop design skill for Claude Code, Cursor, and Codex... 🔥
 - [[nuxt-nuxt|nuxt"]] — the full-stack Vue framework
 - [[nvidia-ai-blueprints-video-search-and-summarization|video-search-and-summarization"]] — Suite of reference architectures for building GPU-accelerate... 🆕
@@ -364,7 +365,7 @@
 - [[nvlabs-sana|Sana"]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
 - [[nvm-sh-nvm|nvm"]] — Node Version Manager - POSIX-compliant bash script to manage...
 - [[oblien-openship|openship"]] — Self-hosted deployment platform 🔥
-- [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo... 🔥
+- [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo...
 - [[ocornut-imgui|imgui"]] — Dear ImGui: Bloat-free Graphical User interface for C++ with...
 - [[odoo-odoo|odoo"]] — Odoo. Open Source Apps To Grow Your Business.
 - [[ogulcancelik-herdr|herdr"]] — agent multiplexer that lives in your terminal. 🔥
@@ -392,7 +393,7 @@
 - [[oven-sh-bun|bun"]] — Incredibly fast JavaScript runtime, bundler, test runner, an... 🆕
 - [[owainlewis-awesome-artificial-intelligence|awesome-artificial-intelligence"]] — A curated list of Artificial Intelligence (AI) courses, book...
 - [[p-e-w-heretic|heretic"]] — Fully automatic censorship removal for language models 🔥
-- [[pacifio-atlas|atlas"]] — Source control for agents. Use multiple coding agents, track... 🆕
+- [[pacifio-atlas|atlas"]] — Source control for agents. Use multiple coding agents, track...
 - [[paddlepaddle-paddleocr|PaddleOCR"]] — Turn any PDF or image document into structured data for your... 🆕
 - [[palmier-io-palmier-pro|palmier-pro"]] — macOS video editor built for AI
 - [[panniantong-agent-reach|Agent-Reach"]] — Give your AI agent eyes to see the entire internet. Read & s... 🆕
@@ -455,7 +456,7 @@
 - [[sindresorhus-awesome|awesome"]] — 😎 Awesome lists about all kinds of interesting topics
 - [[smartlydressedgames-u3-sdk|U3-SDK"]] — Source code for Unturned, a free open-world zombie survival ...
 - [[smicallef-spiderfoot|spiderfoot"]] — SpiderFoot automates OSINT for threat intelligence and mappi... 🔥
-- [[sngyai-sequoia-x|Sequoia-X"]] — A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 🆕
+- [[sngyai-sequoia-x|Sequoia-X"]] — A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书
 - [[soxoj-maigret|maigret"]] — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ s...
 - [[st-tech-ppf-contact-solver|ppf-contact-solver"]] — A contact solver for physics-based simulations involving 👚 s...
 - [[stablyai-orca|orca"]] — Orca is the ADE for working with a fleet of parallel agents.... 🆕
@@ -463,7 +464,7 @@
 - [[steipete-codexbar|CodexBar"]] — Show usage stats for OpenAI Codex and Claude Code, without h... 🔥
 - [[stirling-tools-stirling-pdf|Stirling-PDF"]] — - 语言: TypeScript
 - [[supabase-supabase|supabase"]] — The Postgres development platform. Supabase gives you a dedi...
-- [[superlinked-sie|sie"]] — Open-source inference server and production cluster for all ... 🆕
+- [[superlinked-sie|sie"]] — Open-source inference server and production cluster for all ...
 - [[supermemoryai-supermemory|supermemory"]] — Memory engine and app that is extremely fast, scalable. The ... 🔥
 - [[supertone-inc-supertonic|supertonic"]] — Lightning-Fast, On-Device, Multilingual TTS running natively...
 - [[swc-project-swc|swc"]] — Rust-based platform for the Web
@@ -506,7 +507,7 @@
 - [[usekaneo-kaneo|kaneo"]] — 🎯 All you need. Nothing you don't. Open source project manag... 🔥
 - [[usestrix-strix|strix"]] — Open-source AI penetration testing tool to find and fix your...
 - [[veracrypt-veracrypt|VeraCrypt"]] — Disk encryption with strong security based on TrueCrypt
-- [[vercel-labs-portless|portless"]] — Replace port numbers with stable, named local URLs. For huma... 🆕
+- [[vercel-labs-portless|portless"]] — Replace port numbers with stable, named local URLs. For huma...
 - [[virattt-ai-hedge-fund|ai-hedge-fund"]] — An AI Hedge Fund Team
 - [[virgiliojr94-book-to-skill|book-to-skill"]] — Turn any technical book PDF into a Claude Code skill — ready... 🆕
 - [[vitali87-code-graph-rag|code-graph-rag"]] — The ultimate RAG for your monorepo. Query, understand, and e... 🔥
@@ -535,7 +536,7 @@
 - [[zeux-meshoptimizer|meshoptimizer"]] — Mesh optimization library that makes meshes smaller and fast... 🆕
 - [[zhaoxuya520-reverse-skill|reverse-skill"]] — Reverse Engineering / Authorized Penetration Testing / Secur...
 - [[zuodaotech-everyone-can-use-english|everyone-can-use-english"]] — 人人都能用英语
-- [[zyronon-typewords|TypeWords"]] — Practice English, one strike, one step forward; 练习英语，一次敲击，一点... 🆕
+- [[zyronon-typewords|TypeWords"]] — Practice English, one strike, one step forward; 练习英语，一次敲击，一点...
 
 ## Concepts
 

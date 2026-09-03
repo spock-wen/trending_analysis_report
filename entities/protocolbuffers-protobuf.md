@@ -36,7 +36,7 @@ Protocol Buffers - Google's data interchange format
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[microsoft-onnxruntime]] [[google-googletest]] [[tt-a1i-archify]] [[kaifcodec-user-scanner]]
+[[kaifcodec-user-scanner]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[google-googletest]] [[fmtlib-fmt]]
 
 **所属领域**: [[data]]
 

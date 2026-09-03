@@ -36,7 +36,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[posthog-posthog]] [[averygan-reclip]] [[debpalash-voicestudio]] [[zhaoxuya520-reverse-skill]]
+[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[tinyhumansai-openhuman]] [[averygan-reclip]] [[zhaoxuya520-reverse-skill]] [[firecrawl-pdf-inspector]]
+[[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]] [[magnitudedev-magnitude]] [[pacifio-atlas]] [[openai-codex]]
 
 **所属领域**: [[cli]]
 

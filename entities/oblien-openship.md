@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[posthog-posthog]] [[tencent-ai-infra-guard]] [[ruvnet-ruflo]] [[vercel-labs-portless]]
+[[vercel-labs-portless]] [[magnitudedev-magnitude]] [[gitlawb-openclaude]] [[chromedevtools-chrome-devtools-mcp]] [[tencent-ai-infra-guard]]
 
 **所属领域**: [[devops]]
 

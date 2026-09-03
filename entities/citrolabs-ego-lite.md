@@ -38,7 +38,7 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[averygan-reclip]] [[affaan-m-ecc]] [[addyosmani-agent-skills]] [[tt-a1i-archify]]
+[[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[browser-use-video-use]] [[tt-a1i-archify]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

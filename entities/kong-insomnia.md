@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[averygan-reclip]] [[zhaoxuya520-reverse-skill]] [[vercel-labs-portless]] [[chromedevtools-chrome-devtools-mcp]]
+[[vercel-labs-portless]] [[browser-use-video-use]] [[magnitudedev-magnitude]] [[gitlawb-openclaude]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]] [[cli]]
 

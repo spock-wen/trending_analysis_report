@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[kepano-obsidian-skills]] [[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[affaan-m-ecc]]
+[[nousresearch-hermes-agent]] [[rohitg00-ai-engineering-from-scratch]] [[google-research-timesfm]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

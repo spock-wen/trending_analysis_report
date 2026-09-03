@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[posthog-posthog]] [[kepano-obsidian-skills]] [[rohitg00-ai-engineering-from-scratch]] [[affaan-m-ecc]]
+[[vercel-labs-portless]] [[rohitg00-ai-engineering-from-scratch]] [[magnitudedev-magnitude]] [[gitlawb-openclaude]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

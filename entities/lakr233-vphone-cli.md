@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[averygan-reclip]] [[zhaoxuya520-reverse-skill]] [[permissionlesstech-bitchat]] [[jaywcjlove-awesome-mac]]
+[[permissionlesstech-bitchat]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[averygan-reclip]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

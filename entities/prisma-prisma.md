@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[freestylefly-awesome-gpt-image-2]] [[k-dense-ai-scientific-agent-skills]] [[conardli-garden-skills]] [[protocolbuffers-protobuf]]
+[[vercel-labs-portless]] [[kaifcodec-user-scanner]] [[freestylefly-awesome-gpt-image-2]] [[tt-a1i-archify]] [[magnitudedev-magnitude]]
 
 **所属领域**: [[data]] [[image-gen]]
 

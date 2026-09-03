@@ -1,20 +1,20 @@
 ---
 title: "ByteByteGoHq/system-design-101"
 created: 2026-06-29
-updated: 2026-06-29
-last_active: 2026-06-29
+updated: 2026-09-04
+last_active: 2026-09-04
 type: tool
 tags: [ai-agent]
-sources: [raw/trending/2026-06-29.json]
-confidence: low
-trending_count_daily: 1
+sources: [raw/trending/2026-09-04.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-29
-last_trending: 2026-06-29
+last_trending: 2026-09-04
 peak_rank: 11
-total_stars: 84395
+total_stars: 88300
 language: ""
 ---
 
@@ -23,18 +23,19 @@ language: ""
 Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 
 - 语言: 未标注
-- 上榜次数: 1 次
+- 上榜次数: 2 次
 - 连续上榜: 1 天
 - 最高排名: #11
 - 链接: [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
 
 ## 上榜历史
 
+  - 2026-09-04: #13, +158⭐
   - 2026-06-29: #11, +132⭐
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]] [[chromedevtools-chrome-devtools-mcp]]
+[[mattpocock-skills]] [[imbad0202-academic-research-skills]] [[obra-superpowers]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

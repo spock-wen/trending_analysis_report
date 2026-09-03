@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[plausible-analytics]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[protocolbuffers-protobuf]] [[tt-a1i-archify]]
+[[kaifcodec-user-scanner]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[plausible-analytics]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

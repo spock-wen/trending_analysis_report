@@ -37,5 +37,5 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[nousresearch-hermes-agent]] [[imbad0202-academic-research-skills]] [[google-research-timesfm]]
+[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[imbad0202-academic-research-skills]] [[anthropics-skills]]
 

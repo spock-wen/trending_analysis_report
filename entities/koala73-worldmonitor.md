@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[posthog-posthog]] [[affaan-m-ecc]] [[tencent-ai-infra-guard]] [[ruvnet-ruflo]]
+[[vercel-labs-portless]] [[magnitudedev-magnitude]] [[gitlawb-openclaude]] [[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

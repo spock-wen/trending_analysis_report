@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[vercel-labs-portless]] [[chromedevtools-chrome-devtools-mcp]]
+[[vercel-labs-portless]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[magnitudedev-magnitude]] [[gitlawb-openclaude]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

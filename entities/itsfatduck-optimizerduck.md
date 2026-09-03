@@ -34,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[par274-sharpemu]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[tashfeenahmed-freellmapi]] [[k1tbyte-wand-enhancer]]
+[[k1tbyte-wand-enhancer]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[jellyfin-jellyfin]] [[par274-sharpemu]]
 
 **所属领域**: [[security]]
 

@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[averygan-reclip]] [[microsoft-onnxruntime]] [[zhaoxuya520-reverse-skill]] [[google-googletest]]
+[[browser-use-video-use]] [[magnitudedev-magnitude]] [[chromedevtools-chrome-devtools-mcp]] [[google-googletest]] [[mattpocock-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

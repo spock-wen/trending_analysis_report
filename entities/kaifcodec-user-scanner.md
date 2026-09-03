@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[debpalash-voicestudio]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[tashfeenahmed-freellmapi]]
+[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[tt-a1i-archify]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

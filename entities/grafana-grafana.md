@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[posthog-posthog]] [[k-dense-ai-scientific-agent-skills]] [[tencent-ai-infra-guard]] [[protocolbuffers-protobuf]]
+[[vercel-labs-portless]] [[kaifcodec-user-scanner]] [[tt-a1i-archify]] [[magnitudedev-magnitude]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[data]] [[devops]]
 

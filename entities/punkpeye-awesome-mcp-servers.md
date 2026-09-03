@@ -34,7 +34,7 @@ A collection of MCP servers.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]] [[chromedevtools-chrome-devtools-mcp]]
+[[mattpocock-skills]] [[imbad0202-academic-research-skills]] [[obra-superpowers]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

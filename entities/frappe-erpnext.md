@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[nousresearch-hermes-agent]] [[tooljet-tooljet]] [[hugohe3-ppt-master]] [[obra-superpowers]]
+[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[hugohe3-ppt-master]] [[tooljet-tooljet]] [[imbad0202-academic-research-skills]]
 
 **所属领域**: [[erp]]
 

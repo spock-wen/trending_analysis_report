@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[averygan-reclip]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[chromedevtools-chrome-devtools-mcp]]
+[[magnitudedev-magnitude]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]] [[averygan-reclip]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

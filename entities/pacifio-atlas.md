@@ -34,7 +34,7 @@ Source control for agents. Use multiple coding agents, track their changes and q
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[affaan-m-ecc]] [[firecrawl-pdf-inspector]] [[openai-codex]] [[chromedevtools-chrome-devtools-mcp]]
+[[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]] [[openai-codex]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]]
 
 **所属领域**: [[ai-agent]]
 

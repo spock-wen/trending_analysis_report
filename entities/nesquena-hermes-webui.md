@@ -37,7 +37,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[averygan-reclip]] [[debpalash-voicestudio]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[browser-use-video-use]]
+[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[browser-use-video-use]] [[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

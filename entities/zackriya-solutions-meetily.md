@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]]
+[[firecrawl-pdf-inspector]] [[browser-use-video-use]] [[tt-a1i-archify]] [[anthropics-skills]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

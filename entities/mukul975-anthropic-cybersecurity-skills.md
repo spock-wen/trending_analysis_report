@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[averygan-reclip]] [[debpalash-voicestudio]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]]
+[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[magnitudedev-magnitude]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

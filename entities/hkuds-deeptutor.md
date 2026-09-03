@@ -37,7 +37,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[averygan-reclip]] [[debpalash-voicestudio]] [[nousresearch-hermes-agent]] [[browser-use-video-use]] [[chromedevtools-chrome-devtools-mcp]]
+[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[browser-use-video-use]] [[chromedevtools-chrome-devtools-mcp]] [[imbad0202-academic-research-skills]]
 
 **所属领域**: [[web]]
 

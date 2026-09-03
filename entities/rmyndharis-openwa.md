@@ -36,5 +36,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[vercel-labs-portless]] [[chromedevtools-chrome-devtools-mcp]] [[gitlawb-openclaude]]
+[[vercel-labs-portless]] [[magnitudedev-magnitude]] [[gitlawb-openclaude]] [[chromedevtools-chrome-devtools-mcp]]
 

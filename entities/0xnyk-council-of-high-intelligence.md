@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[averygan-reclip]] [[basecamp-omarchy]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]]
+[[magnitudedev-magnitude]] [[msitarzewski-agency-agents]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

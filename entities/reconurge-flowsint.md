@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[tashfeenahmed-freellmapi]] [[vercel-labs-portless]]
+[[vercel-labs-portless]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[magnitudedev-magnitude]] [[gitlawb-openclaude]]
 
 **所属领域**: [[security]]
 

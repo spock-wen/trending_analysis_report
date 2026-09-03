@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[penpot-penpot]] [[affaan-m-ecc]] [[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]]
+[[penpot-penpot]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]] [[anthropics-skills]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

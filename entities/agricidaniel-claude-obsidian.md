@@ -37,7 +37,7 @@ Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and 
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]]
+[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

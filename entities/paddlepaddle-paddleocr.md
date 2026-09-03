@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[freestylefly-awesome-gpt-image-2]] [[k-dense-ai-scientific-agent-skills]] [[debpalash-voicestudio]] [[affaan-m-ecc]] [[conardli-garden-skills]]
+[[nousresearch-hermes-agent]] [[vercel-labs-portless]] [[google-research-timesfm]] [[kaifcodec-user-scanner]] [[freestylefly-awesome-gpt-image-2]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

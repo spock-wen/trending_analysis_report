@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[tinyhumansai-openhuman]] [[averygan-reclip]] [[zhaoxuya520-reverse-skill]] [[firecrawl-pdf-inspector]]
+[[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]] [[browser-use-video-use]] [[magnitudedev-magnitude]] [[pacifio-atlas]]
 
 **所属领域**: [[web]] [[cli]]
 

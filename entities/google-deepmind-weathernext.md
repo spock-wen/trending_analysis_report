@@ -35,5 +35,5 @@ No description
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[nousresearch-hermes-agent]] [[imbad0202-academic-research-skills]] [[google-research-timesfm]]
+[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[imbad0202-academic-research-skills]] [[anthropics-skills]]
 

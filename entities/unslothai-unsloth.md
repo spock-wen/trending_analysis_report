@@ -37,7 +37,7 @@ Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,
 
 ## 相关项目
 
-[[freestylefly-awesome-gpt-image-2]] [[debpalash-voicestudio]] [[affaan-m-ecc]] [[conardli-garden-skills]] [[vercel-labs-portless]]
+[[nousresearch-hermes-agent]] [[vercel-labs-portless]] [[google-research-timesfm]] [[freestylefly-awesome-gpt-image-2]] [[osmantic-ods]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

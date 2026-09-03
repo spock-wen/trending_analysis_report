@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[averygan-reclip]] [[debpalash-voicestudio]] [[affaan-m-ecc]] [[alishahryar1-free-claude-code]]
+[[vercel-labs-portless]] [[debpalash-voicestudio]] [[browser-use-video-use]] [[osmantic-ods]] [[magnitudedev-magnitude]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

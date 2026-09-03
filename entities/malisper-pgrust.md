@@ -35,5 +35,5 @@ Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 
 ## 相关项目
 
-[[openai-codex]] [[tinyhumansai-openhuman]] [[firecrawl-pdf-inspector]] [[pacifio-atlas]]
+[[openai-codex]] [[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]] [[pacifio-atlas]]
 

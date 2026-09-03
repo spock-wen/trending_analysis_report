@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[averygan-reclip]] [[firecrawl-pdf-inspector]] [[openai-codex]] [[chromedevtools-chrome-devtools-mcp]]
+[[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]] [[browser-use-video-use]] [[pacifio-atlas]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]]
 

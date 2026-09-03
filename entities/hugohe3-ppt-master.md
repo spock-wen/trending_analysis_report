@@ -35,7 +35,7 @@ AI turns documents or topics into real, native PowerPoint decks—with native sh
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[debpalash-voicestudio]] [[affaan-m-ecc]] [[alishahryar1-free-claude-code]] [[protocolbuffers-protobuf]]
+[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[kaifcodec-user-scanner]] [[debpalash-voicestudio]] [[tt-a1i-archify]]
 
 **所属领域**: [[ai-agent]] [[data]] [[erp]] [[audio]]
 

@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[affaan-m-ecc]] [[protocolbuffers-protobuf]]
+[[kaifcodec-user-scanner]] [[browser-use-video-use]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

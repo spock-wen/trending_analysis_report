@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[zhaoxuya520-reverse-skill]] [[checkstyle-checkstyle]]
+[[checkstyle-checkstyle]] [[kaifcodec-user-scanner]] [[google-guava]] [[tt-a1i-archify]] [[magnitudedev-magnitude]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

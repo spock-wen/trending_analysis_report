@@ -36,7 +36,7 @@ Lightweight coding agent that runs in your terminal
 
 ## 相关项目
 
-[[pacifio-atlas]] [[tinyhumansai-openhuman]] [[thu-maic-openmaic]] [[averygan-reclip]] [[zhaoxuya520-reverse-skill]]
+[[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]] [[magnitudedev-magnitude]] [[pacifio-atlas]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

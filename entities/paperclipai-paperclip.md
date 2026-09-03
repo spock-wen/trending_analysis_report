@@ -36,7 +36,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[averygan-reclip]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[vercel-labs-portless]]
+[[nousresearch-hermes-agent]] [[vercel-labs-portless]] [[google-research-timesfm]] [[affaan-m-ecc]] [[magnitudedev-magnitude]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

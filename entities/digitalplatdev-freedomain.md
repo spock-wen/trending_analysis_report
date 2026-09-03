@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[averygan-reclip]] [[affaan-m-ecc]] [[ripienaar-free-for-dev]] [[trycua-cua]]
+[[browser-use-video-use]] [[cathrynlavery-diagram-design]] [[chromedevtools-chrome-devtools-mcp]] [[trycua-cua]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

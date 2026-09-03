@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[averygan-reclip]] [[vercel-labs-portless]] [[chromedevtools-chrome-devtools-mcp]] [[unclecode-crawl4ai]]
+[[vercel-labs-portless]] [[browser-use-video-use]] [[magnitudedev-magnitude]] [[gitlawb-openclaude]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]]
 

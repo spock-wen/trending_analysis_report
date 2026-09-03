@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[genlayerlabs-genlayer-project-boilerplate]] [[kepano-obsidian-skills]] [[anthropics-claude-cookbooks]] [[microsoft-ai-for-beginners]]
+[[rohitg00-ai-engineering-from-scratch]] [[hugohe3-ppt-master]] [[microsoft-generative-ai-for-beginners]] [[tooljet-tooljet]] [[anthropics-claude-cookbooks]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

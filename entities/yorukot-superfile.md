@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[averygan-reclip]] [[zhaoxuya520-reverse-skill]] [[juliusbrussee-caveman]] [[majd-ipatool]]
+[[juliusbrussee-caveman]] [[magnitudedev-magnitude]] [[majd-ipatool]] [[mattpocock-skills]] [[averygan-reclip]]
 
 **所属领域**: [[cli]]
 

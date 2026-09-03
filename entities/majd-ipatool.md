@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[averygan-reclip]] [[zhaoxuya520-reverse-skill]] [[juliusbrussee-caveman]] [[tailscale-tailcat]]
+[[juliusbrussee-caveman]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[averygan-reclip]] [[tailscale-tailcat]]
 
 **所属领域**: [[cli]]
 

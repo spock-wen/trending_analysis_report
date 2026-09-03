@@ -35,7 +35,7 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[affaan-m-ecc]] [[vercel-labs-portless]] [[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]]
+[[vercel-labs-portless]] [[magnitudedev-magnitude]] [[gitlawb-openclaude]] [[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

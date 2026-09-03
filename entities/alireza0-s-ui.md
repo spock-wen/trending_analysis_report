@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[averygan-reclip]] [[juliusbrussee-caveman]] [[browser-use-video-use]] [[majd-ipatool]] [[tailscale-tailcat]]
+[[juliusbrussee-caveman]] [[browser-use-video-use]] [[majd-ipatool]] [[chromedevtools-chrome-devtools-mcp]] [[averygan-reclip]]
 
 **所属领域**: [[web]]
 

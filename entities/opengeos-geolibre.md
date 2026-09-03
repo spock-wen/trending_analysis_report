@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[protocolbuffers-protobuf]] [[vercel-labs-portless]]
+[[vercel-labs-portless]] [[kaifcodec-user-scanner]] [[browser-use-video-use]] [[tt-a1i-archify]] [[magnitudedev-magnitude]]
 
 **所属领域**: [[web]] [[data]]
 

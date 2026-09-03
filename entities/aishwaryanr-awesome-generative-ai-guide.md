@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[averygan-reclip]] [[affaan-m-ecc]] [[ripienaar-free-for-dev]] [[nousresearch-hermes-agent]]
+[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[affaan-m-ecc]] [[browser-use-video-use]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

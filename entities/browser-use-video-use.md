@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[averygan-reclip]] [[debpalash-voicestudio]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[chromedevtools-chrome-devtools-mcp]]
+[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

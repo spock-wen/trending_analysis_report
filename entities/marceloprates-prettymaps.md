@@ -34,7 +34,7 @@ Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[debpalash-voicestudio]] [[protocolbuffers-protobuf]] [[tt-a1i-archify]] [[nousresearch-hermes-agent]]
+[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[kaifcodec-user-scanner]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[data]]
 

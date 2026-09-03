@@ -34,7 +34,7 @@ AI-assisted TradingView chart analysis — connect Claude Code to your TradingVi
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[addyosmani-agent-skills]] [[tt-a1i-archify]] [[chromedevtools-chrome-devtools-mcp]]
+[[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[tt-a1i-archify]] [[addyosmani-agent-skills]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

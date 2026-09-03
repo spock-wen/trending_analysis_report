@@ -36,5 +36,5 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 ## 相关项目
 
-[[tailscale-tailcat]] [[juliusbrussee-caveman]] [[jetbrains-go-modern-guidelines]] [[majd-ipatool]]
+[[juliusbrussee-caveman]] [[jetbrains-go-modern-guidelines]] [[majd-ipatool]] [[tailscale-tailcat]]
 

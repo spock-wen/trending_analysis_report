@@ -36,7 +36,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[affaan-m-ecc]] [[firecrawl-pdf-inspector]] [[openai-codex]] [[imbad0202-academic-research-skills]]
+[[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]] [[pacifio-atlas]] [[openai-codex]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

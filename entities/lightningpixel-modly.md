@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[freestylefly-awesome-gpt-image-2]] [[affaan-m-ecc]] [[conardli-garden-skills]] [[vercel-labs-portless]]
+[[vercel-labs-portless]] [[freestylefly-awesome-gpt-image-2]] [[osmantic-ods]] [[magnitudedev-magnitude]] [[gitlawb-openclaude]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

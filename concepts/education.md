@@ -1,7 +1,7 @@
 ---
 title: "education"
 created: 2026-05-22
-updated: 2026-09-03
+updated: 2026-09-04
 type: concept
 tags: [education]
 confidence: medium

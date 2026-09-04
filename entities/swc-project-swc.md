@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]] [[browser-use-video-use]] [[pacifio-atlas]] [[chromedevtools-chrome-devtools-mcp]]
+[[pacifio-atlas]] [[tinyhumansai-openhuman]] [[unclecode-crawl4ai]] [[cathrynlavery-diagram-design]] [[firecrawl-pdf-inspector]]
 
 **所属领域**: [[web]]
 

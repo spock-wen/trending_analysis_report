@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[magnitudedev-magnitude]] [[gitlawb-openclaude]] [[chromedevtools-chrome-devtools-mcp]] [[tencent-ai-infra-guard]]
+[[magnitudedev-magnitude]] [[tencent-ai-infra-guard]] [[ripienaar-free-for-dev]] [[gitlawb-openclaude]] [[anomalyco-opencode]]
 
 **所属领域**: [[devops]]
 

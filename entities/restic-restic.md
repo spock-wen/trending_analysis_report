@@ -34,5 +34,5 @@ Fast, secure, efficient backup program
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[jetbrains-go-modern-guidelines]] [[majd-ipatool]] [[tailscale-tailcat]]
+[[juliusbrussee-caveman]] [[tailscale-tailcat]] [[jetbrains-go-modern-guidelines]] [[majd-ipatool]]
 

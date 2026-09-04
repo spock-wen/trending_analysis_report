@@ -35,7 +35,7 @@ Odoo. Open Source Apps To Grow Your Business.
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[hugohe3-ppt-master]] [[tooljet-tooljet]] [[imbad0202-academic-research-skills]]
+[[nousresearch-hermes-agent]] [[tooljet-tooljet]] [[radixark-miles]] [[genlayerlabs-genlayer-project-boilerplate]] [[anthropics-skills]]
 
 **所属领域**: [[erp]]
 

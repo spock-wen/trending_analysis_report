@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[magnitudedev-magnitude]]
+[[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[tashfeenahmed-freellmapi]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[hugohe3-ppt-master]] [[magnitudedev-magnitude]] [[tooljet-tooljet]] [[gitlawb-openclaude]]
+[[tooljet-tooljet]] [[magnitudedev-magnitude]] [[radixark-miles]] [[gitlawb-openclaude]] [[anomalyco-opencode]]
 
 **所属领域**: [[erp]]
 

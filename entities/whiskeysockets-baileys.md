@@ -34,7 +34,7 @@ Socket-based TS/JavaScript API for WhatsApp Web
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[browser-use-video-use]] [[tt-a1i-archify]] [[chromedevtools-chrome-devtools-mcp]]
+[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[averygan-reclip]] [[unclecode-crawl4ai]] [[dietrichgebert-ponytail]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

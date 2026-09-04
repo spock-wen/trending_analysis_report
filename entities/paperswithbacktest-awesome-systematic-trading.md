@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[rohitg00-ai-engineering-from-scratch]] [[google-research-timesfm]] [[affaan-m-ecc]] [[imbad0202-academic-research-skills]]
+[[bikini-exploitarium]] [[nousresearch-hermes-agent]] [[radixark-miles]] [[rohitg00-ai-engineering-from-scratch]] [[thu-maic-openmaic]]
 
 **所属领域**: [[education]] [[science]]
 

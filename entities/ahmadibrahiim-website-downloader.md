@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[freestylefly-awesome-gpt-image-2]] [[browser-use-video-use]] [[osmantic-ods]] [[chromedevtools-chrome-devtools-mcp]]
+[[unclecode-crawl4ai]] [[vercel-labs-portless]] [[trycua-cua]] [[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[image-gen]]
 

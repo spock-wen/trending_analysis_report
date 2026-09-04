@@ -34,7 +34,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[browser-use-video-use]] [[magnitudedev-magnitude]] [[chromedevtools-chrome-devtools-mcp]]
+[[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[averygan-reclip]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

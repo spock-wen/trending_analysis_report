@@ -38,7 +38,7 @@ World's first open-source, agentic video production system. 12 production pipeli
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[kaifcodec-user-scanner]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]]
+[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

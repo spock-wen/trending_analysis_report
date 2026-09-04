@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[magnitudedev-magnitude]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]] [[averygan-reclip]] [[anthropics-skills]]
+[[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[averygan-reclip]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

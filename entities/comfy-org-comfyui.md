@@ -35,7 +35,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[vercel-labs-portless]] [[google-research-timesfm]] [[freestylefly-awesome-gpt-image-2]] [[osmantic-ods]]
+[[nousresearch-hermes-agent]] [[vercel-labs-portless]] [[conardli-garden-skills]] [[osmantic-ods]] [[anthropics-skills]]
 
 **所属领域**: [[image-gen]]
 

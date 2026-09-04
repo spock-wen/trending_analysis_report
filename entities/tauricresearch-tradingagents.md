@@ -38,7 +38,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[affaan-m-ecc]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]]
+[[bikini-exploitarium]] [[nousresearch-hermes-agent]] [[mattpocock-skills]] [[anthropics-skills]] [[google-research-timesfm]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

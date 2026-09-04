@@ -34,7 +34,7 @@ Source control for agents. Use multiple coding agents, track their changes and q
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]] [[openai-codex]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]]
+[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[tinyhumansai-openhuman]] [[firecrawl-pdf-inspector]] [[openai-codex]]
 
 **所属领域**: [[ai-agent]]
 

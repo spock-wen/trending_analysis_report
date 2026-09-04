@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[magnitudedev-magnitude]] [[gitlawb-openclaude]] [[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]]
+[[magnitudedev-magnitude]] [[mattpocock-skills]] [[gitlawb-openclaude]] [[anomalyco-opencode]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

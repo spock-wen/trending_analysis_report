@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[kaifcodec-user-scanner]] [[google-guava]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]]
+[[google-guava]] [[posthog-posthog]] [[github-copilot-sdk]] [[tencent-ai-infra-guard]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[data]] [[devops]]
 

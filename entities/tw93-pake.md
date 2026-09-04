@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]] [[browser-use-video-use]] [[magnitudedev-magnitude]] [[pacifio-atlas]]
+[[pacifio-atlas]] [[magnitudedev-magnitude]] [[tinyhumansai-openhuman]] [[mattpocock-skills]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[web]] [[cli]]
 

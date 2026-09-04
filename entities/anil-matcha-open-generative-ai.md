@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[freestylefly-awesome-gpt-image-2]] [[tt-a1i-archify]]
+[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[vercel-labs-portless]] [[dietrichgebert-ponytail]] [[conardli-garden-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[imbad0202-academic-research-skills]]
+[[nousresearch-hermes-agent]] [[tashfeenahmed-freellmapi]] [[zhaoxuya520-reverse-skill]] [[anthropics-skills]] [[google-research-timesfm]]
 
 **所属领域**: [[security]]
 

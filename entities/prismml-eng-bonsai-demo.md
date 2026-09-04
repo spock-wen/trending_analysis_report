@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[magnitudedev-magnitude]] [[msitarzewski-agency-agents]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]] [[averygan-reclip]]
+[[basecamp-omarchy]] [[nousresearch-hermes-agent]] [[msitarzewski-agency-agents]] [[mattpocock-skills]] [[magnitudedev-magnitude]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

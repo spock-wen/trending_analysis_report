@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[freestylefly-awesome-gpt-image-2]] [[browser-use-video-use]]
+[[averygan-reclip]] [[unclecode-crawl4ai]] [[dietrichgebert-ponytail]] [[vercel-labs-portless]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[image-gen]]
 

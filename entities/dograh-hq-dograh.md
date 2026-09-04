@@ -34,7 +34,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[debpalash-voicestudio]] [[osmantic-ods]] [[mattpocock-skills]]
+[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[osmantic-ods]] [[anthropics-skills]] [[livekit-agents]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

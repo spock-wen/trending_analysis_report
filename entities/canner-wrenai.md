@@ -34,7 +34,7 @@ GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL throug
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[kaifcodec-user-scanner]] [[tt-a1i-archify]] [[magnitudedev-magnitude]]
+[[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[tt-a1i-archify]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

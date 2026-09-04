@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[browser-use-video-use]] [[magnitudedev-magnitude]] [[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]]
+[[basecamp-omarchy]] [[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

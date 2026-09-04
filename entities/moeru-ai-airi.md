@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[debpalash-voicestudio]] [[browser-use-video-use]] [[osmantic-ods]] [[magnitudedev-magnitude]]
+[[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[averygan-reclip]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

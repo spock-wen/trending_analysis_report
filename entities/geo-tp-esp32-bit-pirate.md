@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[browser-use-video-use]] [[magnitudedev-magnitude]] [[chromedevtools-chrome-devtools-mcp]] [[google-googletest]] [[mattpocock-skills]]
+[[magnitudedev-magnitude]] [[mattpocock-skills]] [[unclecode-crawl4ai]] [[obra-superpowers]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[cli]]
 

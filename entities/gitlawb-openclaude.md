@@ -36,7 +36,7 @@ runs anywhere. uses anything
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[magnitudedev-magnitude]] [[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]]
+[[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[anthropics-skills]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]]
 

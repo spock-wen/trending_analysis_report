@@ -36,7 +36,7 @@ Lightweight coding agent that runs in your terminal
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]] [[magnitudedev-magnitude]] [[pacifio-atlas]] [[mattpocock-skills]]
+[[pacifio-atlas]] [[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[tinyhumansai-openhuman]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

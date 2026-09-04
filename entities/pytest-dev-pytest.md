@@ -34,5 +34,5 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[imbad0202-academic-research-skills]] [[anthropics-skills]]
+[[nousresearch-hermes-agent]] [[anthropics-skills]] [[debpalash-voicestudio]] [[google-research-timesfm]]
 

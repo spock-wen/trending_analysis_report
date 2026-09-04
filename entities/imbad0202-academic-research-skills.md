@@ -38,7 +38,7 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[affaan-m-ecc]] [[mattpocock-skills]] [[anthropics-skills]]
+[[bikini-exploitarium]] [[nousresearch-hermes-agent]] [[mattpocock-skills]] [[anthropics-skills]] [[google-research-timesfm]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

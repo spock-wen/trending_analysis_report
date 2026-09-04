@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]]
+[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[averygan-reclip]] [[unclecode-crawl4ai]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

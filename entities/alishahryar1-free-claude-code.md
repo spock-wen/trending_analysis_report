@@ -38,7 +38,7 @@ Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your 
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[debpalash-voicestudio]] [[osmantic-ods]] [[magnitudedev-magnitude]]
+[[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[averygan-reclip]] [[osmantic-ods]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

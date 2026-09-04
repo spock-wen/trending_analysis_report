@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[debpalash-voicestudio]] [[osmantic-ods]] [[magnitudedev-magnitude]] [[gitlawb-openclaude]]
+[[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[gitlawb-openclaude]] [[osmantic-ods]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

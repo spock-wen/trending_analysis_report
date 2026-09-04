@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[magnitudedev-magnitude]] [[tooljet-tooljet]] [[msitarzewski-agency-agents]] [[mattpocock-skills]]
+[[basecamp-omarchy]] [[nousresearch-hermes-agent]] [[tooljet-tooljet]] [[msitarzewski-agency-agents]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

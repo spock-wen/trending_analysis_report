@@ -35,17 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[tt-a1i-archify]]
+[[bikini-exploitarium]] [[nousresearch-hermes-agent]] [[mattpocock-skills]] [[tashfeenahmed-freellmapi]] [[tt-a1i-archify]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
-
-
-## ⚠️ 描述变更（2026-09-01）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 455+ actively maintained scan vectors (175+ email / 280+ username) for security research, investigations, and digital footprinting.
-- **新描述**: 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

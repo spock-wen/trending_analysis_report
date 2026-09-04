@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[browser-use-video-use]] [[osmantic-ods]] [[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]]
+[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[chromedevtools-chrome-devtools-mcp]] [[averygan-reclip]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

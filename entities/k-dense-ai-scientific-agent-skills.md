@@ -38,7 +38,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[kaifcodec-user-scanner]] [[affaan-m-ecc]] [[tt-a1i-archify]]
+[[bikini-exploitarium]] [[nousresearch-hermes-agent]] [[mattpocock-skills]] [[tt-a1i-archify]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

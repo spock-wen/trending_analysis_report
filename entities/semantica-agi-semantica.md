@@ -38,7 +38,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]] [[tencent-ai-infra-guard]]
+[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[tencent-ai-infra-guard]] [[ripienaar-free-for-dev]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

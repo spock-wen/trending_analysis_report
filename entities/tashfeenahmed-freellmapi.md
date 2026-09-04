@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[magnitudedev-magnitude]] [[gitlawb-openclaude]]
+[[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[zhaoxuya520-reverse-skill]] [[gitlawb-openclaude]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

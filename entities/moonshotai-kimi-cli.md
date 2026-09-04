@@ -36,7 +36,7 @@ Kimi Code CLI is your next CLI agent.
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]]
+[[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[averygan-reclip]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[debpalash-voicestudio]] [[osmantic-ods]] [[magnitudedev-magnitude]]
+[[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[averygan-reclip]] [[osmantic-ods]]
 
 **所属领域**: [[cli]] [[audio]]
 

@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[browser-use-video-use]] [[magnitudedev-magnitude]] [[gitlawb-openclaude]] [[chromedevtools-chrome-devtools-mcp]]
+[[magnitudedev-magnitude]] [[mattpocock-skills]] [[unclecode-crawl4ai]] [[gitlawb-openclaude]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[cli]]
 

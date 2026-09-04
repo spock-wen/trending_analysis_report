@@ -38,7 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[tt-a1i-archify]] [[magnitudedev-magnitude]] [[addyosmani-agent-skills]]
+[[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[averygan-reclip]] [[dietrichgebert-ponytail]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

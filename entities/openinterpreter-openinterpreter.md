@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]] [[hugohe3-ppt-master]] [[tooljet-tooljet]] [[pacifio-atlas]]
+[[pacifio-atlas]] [[nousresearch-hermes-agent]] [[tooljet-tooljet]] [[tinyhumansai-openhuman]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

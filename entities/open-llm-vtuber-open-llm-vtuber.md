@@ -37,7 +37,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[debpalash-voicestudio]] [[osmantic-ods]] [[mattpocock-skills]]
+[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[osmantic-ods]] [[anthropics-skills]] [[livekit-agents]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[magnitudedev-magnitude]] [[gitlawb-openclaude]] [[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]]
+[[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[averygan-reclip]] [[gitlawb-openclaude]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

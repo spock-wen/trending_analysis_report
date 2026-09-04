@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[nutlope-hallmark]] [[browser-use-video-use]] [[hugohe3-ppt-master]] [[tooljet-tooljet]] [[chromedevtools-chrome-devtools-mcp]]
+[[tooljet-tooljet]] [[radixark-miles]] [[unclecode-crawl4ai]] [[genlayerlabs-genlayer-project-boilerplate]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]] [[erp]]
 

@@ -38,7 +38,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[mattpocock-skills]] [[imbad0202-academic-research-skills]] [[obra-superpowers]] [[anthropics-skills]]
+[[nousresearch-hermes-agent]] [[anthropics-skills]] [[mattpocock-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[vercel-labs-portless]] [[google-research-timesfm]] [[freestylefly-awesome-gpt-image-2]] [[debpalash-voicestudio]]
+[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[vercel-labs-portless]] [[conardli-garden-skills]] [[osmantic-ods]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

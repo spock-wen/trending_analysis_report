@@ -37,5 +37,5 @@ High performance self-hosted photo and video management solution.
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[magnitudedev-magnitude]] [[gitlawb-openclaude]] [[chromedevtools-chrome-devtools-mcp]]
+[[magnitudedev-magnitude]] [[gitlawb-openclaude]] [[chromedevtools-chrome-devtools-mcp]] [[anomalyco-opencode]]
 

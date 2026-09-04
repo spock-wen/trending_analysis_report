@@ -38,7 +38,7 @@ Agent Skills for Google products and technologies
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]] [[anthropics-skills]]
+[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[anthropics-skills]] [[google-research-timesfm]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

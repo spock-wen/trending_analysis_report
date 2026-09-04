@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[browser-use-video-use]] [[chromedevtools-chrome-devtools-mcp]] [[cathrynlavery-diagram-design]] [[trycua-cua]]
+[[radixark-miles]] [[unclecode-crawl4ai]] [[rohitg00-ai-engineering-from-scratch]] [[thu-maic-openmaic]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[education]]
 

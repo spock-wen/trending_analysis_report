@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[browser-use-video-use]] [[magnitudedev-magnitude]] [[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]] [[unclecode-crawl4ai]]
+[[magnitudedev-magnitude]] [[mattpocock-skills]] [[unclecode-crawl4ai]] [[cathrynlavery-diagram-design]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[cli]]
 

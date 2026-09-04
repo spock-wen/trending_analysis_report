@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[permissionlesstech-bitchat]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[averygan-reclip]] [[obra-superpowers]]
+[[magnitudedev-magnitude]] [[mattpocock-skills]] [[altic-dev-fluidvoice]] [[obra-superpowers]] [[permissionlesstech-bitchat]]
 
 **所属领域**: [[cli]]
 

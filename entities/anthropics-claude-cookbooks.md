@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]] [[anthropics-skills]]
+[[nousresearch-hermes-agent]] [[microsoft-ai-for-beginners]] [[mattpocock-skills]] [[lyogavin-airllm]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

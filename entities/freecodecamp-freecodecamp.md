@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[rohitg00-ai-engineering-from-scratch]] [[magnitudedev-magnitude]] [[gitlawb-openclaude]] [[chromedevtools-chrome-devtools-mcp]]
+[[magnitudedev-magnitude]] [[radixark-miles]] [[rohitg00-ai-engineering-from-scratch]] [[thu-maic-openmaic]] [[gitlawb-openclaude]]
 
 **所属领域**: [[education]]
 

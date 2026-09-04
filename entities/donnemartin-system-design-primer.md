@@ -35,7 +35,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[rohitg00-ai-engineering-from-scratch]] [[google-research-timesfm]] [[imbad0202-academic-research-skills]] [[thu-maic-openmaic]]
+[[nousresearch-hermes-agent]] [[radixark-miles]] [[rohitg00-ai-engineering-from-scratch]] [[thu-maic-openmaic]] [[anthropics-skills]]
 
 **所属领域**: [[education]]
 

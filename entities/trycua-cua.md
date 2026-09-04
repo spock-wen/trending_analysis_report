@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[kaifcodec-user-scanner]] [[freestylefly-awesome-gpt-image-2]] [[browser-use-video-use]] [[tt-a1i-archify]]
+[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[vercel-labs-portless]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

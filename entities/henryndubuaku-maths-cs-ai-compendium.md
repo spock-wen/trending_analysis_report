@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[vercel-labs-portless]] [[google-research-timesfm]] [[affaan-m-ecc]] [[magnitudedev-magnitude]]
+[[bikini-exploitarium]] [[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[gitlawb-openclaude]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

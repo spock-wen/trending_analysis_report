@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[kaifcodec-user-scanner]] [[google-guava]] [[tt-a1i-archify]] [[magnitudedev-magnitude]]
+[[google-guava]] [[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[github-copilot-sdk]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

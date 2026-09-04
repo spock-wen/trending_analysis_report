@@ -35,5 +35,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[tt-a1i-archify]] [[addyosmani-agent-skills]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]]
+[[dietrichgebert-ponytail]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[tt-a1i-archify]]
 

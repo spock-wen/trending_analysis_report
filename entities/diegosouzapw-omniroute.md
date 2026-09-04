@@ -38,7 +38,7 @@ Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free),
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[magnitudedev-magnitude]] [[gitlawb-openclaude]] [[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]]
+[[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[averygan-reclip]] [[gitlawb-openclaude]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

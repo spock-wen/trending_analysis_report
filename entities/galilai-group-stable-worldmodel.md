@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[vercel-labs-portless]] [[google-research-timesfm]] [[freestylefly-awesome-gpt-image-2]] [[affaan-m-ecc]]
+[[bikini-exploitarium]] [[nousresearch-hermes-agent]] [[mattpocock-skills]] [[vercel-labs-portless]] [[conardli-garden-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

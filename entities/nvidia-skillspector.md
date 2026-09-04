@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[mattpocock-skills]]
+[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[tashfeenahmed-freellmapi]] [[zhaoxuya520-reverse-skill]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

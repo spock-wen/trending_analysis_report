@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[browser-use-video-use]] [[chromedevtools-chrome-devtools-mcp]] [[cathrynlavery-diagram-design]] [[trycua-cua]] [[averygan-reclip]]
+[[unclecode-crawl4ai]] [[trycua-cua]] [[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]]
 

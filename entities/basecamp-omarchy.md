@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[magnitudedev-magnitude]] [[msitarzewski-agency-agents]] [[mattpocock-skills]] [[averygan-reclip]] [[obra-superpowers]]
+[[magnitudedev-magnitude]] [[msitarzewski-agency-agents]] [[mattpocock-skills]] [[obra-superpowers]] [[averygan-reclip]]
 
 **所属领域**: [[cli]]
 

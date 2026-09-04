@@ -34,7 +34,7 @@ Deliver web apps with confidence 🚀
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[browser-use-video-use]] [[magnitudedev-magnitude]] [[gitlawb-openclaude]] [[chromedevtools-chrome-devtools-mcp]]
+[[magnitudedev-magnitude]] [[unclecode-crawl4ai]] [[gitlawb-openclaude]] [[cathrynlavery-diagram-design]] [[anomalyco-opencode]]
 
 **所属领域**: [[web]]
 

@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[kaifcodec-user-scanner]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-skills]]
+[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[k-dense-ai-scientific-agent-skills]] [[jetbrains-go-modern-guidelines]] [[majd-ipatool]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

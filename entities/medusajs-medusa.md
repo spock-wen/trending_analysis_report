@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[hugohe3-ppt-master]] [[magnitudedev-magnitude]] [[tooljet-tooljet]] [[gitlawb-openclaude]]
+[[tooljet-tooljet]] [[magnitudedev-magnitude]] [[radixark-miles]] [[genlayerlabs-genlayer-project-boilerplate]] [[gitlawb-openclaude]]
 
 **所属领域**: [[erp]]
 

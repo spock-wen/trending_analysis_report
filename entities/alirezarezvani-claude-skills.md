@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[affaan-m-ecc]] [[hugohe3-ppt-master]] [[magnitudedev-magnitude]]
+[[bikini-exploitarium]] [[nousresearch-hermes-agent]] [[tooljet-tooljet]] [[magnitudedev-magnitude]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

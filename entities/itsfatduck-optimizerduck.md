@@ -34,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[k1tbyte-wand-enhancer]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[jellyfin-jellyfin]] [[par274-sharpemu]]
+[[tashfeenahmed-freellmapi]] [[zhaoxuya520-reverse-skill]] [[k1tbyte-wand-enhancer]] [[dotnet-aspnetcore]] [[jellyfin-jellyfin]]
 
 **所属领域**: [[security]]
 

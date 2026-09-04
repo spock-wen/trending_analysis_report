@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[embabel-embabel-agent]] [[browser-use-video-use]] [[andreknieriem-headunit-revived]] [[chromedevtools-chrome-devtools-mcp]] [[bannedbook-fanqiang]]
+[[unclecode-crawl4ai]] [[cathrynlavery-diagram-design]] [[mahlernim-google-timeline-visualizer]] [[andreknieriem-headunit-revived]] [[bannedbook-fanqiang]]
 
 **所属领域**: [[web]]
 

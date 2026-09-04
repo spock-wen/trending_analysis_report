@@ -37,7 +37,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[rohitg00-ai-engineering-from-scratch]] [[magnitudedev-magnitude]] [[gitlawb-openclaude]] [[chromedevtools-chrome-devtools-mcp]]
+[[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[radixark-miles]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

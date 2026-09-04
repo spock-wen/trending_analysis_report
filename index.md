@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-09-04 | 总页面：551
+> 最后更新：2026-09-05 | 总页面：554
 
 ## Entities
 
@@ -55,7 +55,7 @@
 - [[anthropics-claude-plugins-official|claude-plugins-official"]] — Official, Anthropic-managed directory of high quality Claude... 🔥
 - [[anthropics-cwc-workshops|cwc-workshops"]] — No description
 - [[anthropics-knowledge-work-plugins|knowledge-work-plugins"]] — Open source repository of plugins primarily intended for kno... 🔥
-- [[anthropics-skills|skills"]] — Public repository for Agent Skills
+- [[anthropics-skills|skills"]] — Public repository for Agent Skills 🆕
 - [[antirez-ds4|ds4"]] — DeepSeek 4 Flash and PRO local inference engine for Metal, C... 🆕
 - [[antoinezambelli-forge|forge"]] — A Python framework for self-hosted LLM tool-calling and mult...
 - [[apache-cassandra|cassandra"]] — Open source transactional distributed database. Linear scala...
@@ -73,13 +73,14 @@
 - [[aws-agent-toolkit-for-aws|agent-toolkit-for-aws"]] — Official, AWS-supported MCP servers, skills, and plugins to ... 🆕
 - [[axorax-awesome-free-apps|awesome-free-apps"]] — Curated list of the best free apps for PC and mobile 🔥
 - [[ayghri-i-have-adhd|i-have-adhd"]] — A skill for your coding agent to stop it from burying the an... 🆕
-- [[bannedbook-fanqiang|fanqiang"]] — 翻墙-科学上网
+- [[bannedbook-fanqiang|fanqiang"]] — 翻墙-科学上网 🆕
 - [[basecamp-omarchy|omarchy"]] — Beautiful, Modern & Opinionated Linux 🔥
 - [[bigbodycobain-shadowbroker|Shadowbroker"]] — Open-source intelligence for the global theater. Track every... 🆕
 - [[bigskysoftware-htmx|htmx"]] — </> htmx - high power tools for HTML
+- [[bikini-exploitarium|exploitarium"]] — A single archive of public exploit PoCs and vulnerability re... 🆕
 - [[bilawalsidhu-gods-eye-view|gods-eye-view"]] — A spy satellite simulator in your browser, except the data i... 🔥
 - [[biohub-esm|esm"]] — No description
-- [[blader-humanizer|humanizer"]] — Agent skill that removes signs of AI-generated writing from ... 🆕
+- [[blader-humanizer|humanizer"]] — Agent skill that removes signs of AI-generated writing from ... 🔥
 - [[blakeblackshear-frigate|frigate"]] — NVR with realtime local object detection for IP cameras 🆕
 - [[block-buzz|buzz"]] — A hive mind communication platform 🔥
 - [[bojieli-ai-agent-book|ai-agent-book"]] — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
@@ -97,7 +98,7 @@
 - [[can1357-oh-my-pi|oh-my-pi"]] — ⌥ AI Coding agent for the terminal — hash-anchored edits, op...
 - [[canner-wrenai|WrenAI"]] — GenBI (Generative BI) for AI agents, an open-source, governe...
 - [[catchorg-catch2|Catch2"]] — A modern, C++-native, test framework for unit-tests, TDD and... 🆕
-- [[cathrynlavery-diagram-design|diagram-design"]] — 29 editorial diagram types for Claude Code. Self-contained H... 🔥
+- [[cathrynlavery-diagram-design|diagram-design"]] — 38 editorial diagram types for Claude Code, Codex, and Pi. S...
 - [[chachamaru127-claude-code-harness|claude-code-harness"]] — Claude Code Dedicated Development Harness - Achieving High-Q...
 - [[chaitanyagiri-munder-difflin|munder-difflin"]] — local multi-agent harness 🔥
 - [[chatwoot-chatwoot|chatwoot"]] — Open-source live-chat, email support, omni-channel desk. An ...
@@ -112,6 +113,7 @@
 - [[citrolabs-ego-lite|ego-lite"]] — The fastest browser for AI agents to run browser automation,... 🆕
 - [[cloakhq-cloakbrowser|CloakBrowser"]] — Stealth Chromium that passes every bot detection test. Drop-... 🆕
 - [[cloudflare-computer|computer"]] — Give your agent a computer 👾 🔥
+- [[clshortfuse-renodx|renodx"]] — Renovation Engine for DirectX Games 🆕
 - [[codecrafters-io-build-your-own-x|build-your-own-x"]] — Master programming by recreating your favorite technologies ...
 - [[colbymchenry-codegraph|codegraph"]] — Pre-indexed code knowledge graph for Claude Code, Codex, Cur... 🔥
 - [[colemurray-background-agents|background-agents"]] — An open-source background agents coding system
@@ -140,14 +142,14 @@
 - [[davila7-claude-code-templates|claude-code-templates"]] — CLI tool for configuring and monitoring Claude Code 🔥
 - [[dayuanjiang-next-ai-draw-io|next-ai-draw-io"]] — A next.js web application that integrates AI capabilities wi...
 - [[dbt-labs-dbt-core|dbt-core"]] — dbt enables data analysts and engineers to transform their d...
-- [[debpalash-voicestudio|VoiceStudio"]] — VoiceStudio is the open-source, fully-local ElevenLabs alter... 🆕
+- [[debpalash-voicestudio|VoiceStudio"]] — VoiceStudio is the open-source, fully-local ElevenLabs alter... 🔥
 - [[deepfakes-faceswap|faceswap"]] — Deepfakes Software For All
 - [[deepseek-ai-awesome-deepseek-agent|awesome-deepseek-agent"]] — No description
 - [[denoland-celld|celld"]] — self-hosted, distributed Durable Objects 🆕
 - [[denoland-deno|deno"]] — A modern runtime for JavaScript and TypeScript.
 - [[deusdata-codebase-memory-mcp|codebase-memory-mcp"]] — High-performance code intelligence MCP server. Indexes codeb...
 - [[diegosouzapw-omniroute|OmniRoute"]] — Never stop coding. Free MIT AI gateway: one endpoint, 290+ p... 🔥
-- [[dietrichgebert-ponytail|ponytail"]] — Makes your AI agent think like the laziest senior dev in the... 🆕
+- [[dietrichgebert-ponytail|ponytail"]] — Makes your AI agent think like the laziest senior dev in the... 🔥
 - [[different-ai-openwork|openwork"]] — The open-source alternative to Claude Cowork (powered by ope...
 - [[digitalplatdev-freedomain|FreeDomain"]] — DigitalPlat FreeDomain: Free Domain For Everyone 🔥
 - [[diolinux-photogimp|PhotoGIMP"]] — A Patch for GIMP 3+ for Photoshop Users
@@ -178,7 +180,7 @@
 - [[fission-ai-openspec|OpenSpec"]] — Spec-driven development (SDD) for AI coding assistants.
 - [[flowseal-zapret-discord-youtube|zapret-discord-youtube"]] — No description
 - [[flutter-flutter|flutter"]] — Flutter makes it easy and fast to build beautiful apps for m...
-- [[fmtlib-fmt|fmt"]] — A modern formatting library 🆕
+- [[fmtlib-fmt|fmt"]] — A modern formatting library 🔥
 - [[francescopace-espectre|espectre"]] — 🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectr...
 - [[frappe-erpnext|erpnext"]] — Free and Open Source Enterprise Resource Planning (ERP)
 - [[free-tv-iptv|IPTV"]] — M3U Playlist for free TV channels
@@ -202,7 +204,7 @@
 - [[google-googletest|googletest"]] — GoogleTest - Google Testing and Mocking Framework 🔥
 - [[google-guava|guava"]] — Google core libraries for Java 🔥
 - [[google-labs-code-stitch-skills|stitch-skills"]] — A library of Agent Skills designed to work with the Stitch M... 🆕
-- [[google-research-timesfm|timesfm"]] — TimesFM (Time Series Foundation Model) is a pretrained time-... 🆕
+- [[google-research-timesfm|timesfm"]] — TimesFM (Time Series Foundation Model) is a pretrained time-... 🔥
 - [[google-skills|skills"]] — Agent Skills for Google products and technologies 🔥
 - [[gorvgoyl-clone-wars|Clone-Wars"]] — 100+ open-source clones of popular sites like Airbnb, Amazon...
 - [[grafana-grafana|grafana"]] — The open and composable observability and data visualization...
@@ -259,7 +261,7 @@
 - [[jetbrains-go-modern-guidelines|go-modern-guidelines"]] — Help AI coding agents write modern Go 🔥
 - [[jingyaogong-minimind|minimind"]] — 🧠 Train a 64M-parameter LLM from scratch in just 2h! 🆕
 - [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm"]] — Claude Skill: Multi-source content processor for NotebookLM. 🆕
-- [[juliusbrussee-caveman|caveman"]] — 🪨 why use many token when few token do trick — Claude Code s... 🆕
+- [[juliusbrussee-caveman|caveman"]] — 🪨 why use many token when few token do trick — Claude Code s... 🔥
 - [[jundot-omlx|omlx"]] — LLM inference server with continuous batching & SSD caching ... 🔥
 - [[jwasham-coding-interview-university|coding-interview-university"]] — A complete computer science study plan to become a software ...
 - [[k-dense-ai-scientific-agent-skills|scientific-agent-skills"]] — Turn any AI agent into an AI Scientist. The #1 Agent Skills ... 🔥
@@ -314,7 +316,7 @@
 - [[marin-community-marin|marin"]] — Open-source framework for the research and development of fo... 🔥
 - [[masterking32-masterdnsvpn|MasterDnsVPN"]] — Advanced DNS tunneling VPN for censorship bypass, optimized ... 🔥
 - [[mattermost-mattermost|mattermost"]] — Mattermost is an open source platform for secure collaborati... 🆕
-- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .agents director... 🆕
+- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .agents director... 🔥
 - [[mauriceboe-trek|TREK"]] — A self-hosted travel/trip planner with real-time collaborati... 🆕
 - [[maziyarpanahi-openmed|openmed"]] — open-source healthcare ai 🔥
 - [[mebus-cupp|cupp"]] — Common User Passwords Profiler (CUPP) 🆕
@@ -355,7 +357,7 @@
 - [[nicobailon-pi-subagents|pi-subagents"]] — Pi extension for async subagent delegation with truncation, ...
 - [[nirdiamant-agents-towards-production|agents-towards-production"]] — End-to-end, code-first tutorials for building production-gra...
 - [[nomadamas-k-skill|k-skill"]] — 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로 🆕
-- [[nousresearch-hermes-agent|hermes-agent"]] — The agent that grows with you 🆕
+- [[nousresearch-hermes-agent|hermes-agent"]] — The agent that grows with you 🔥
 - [[nutlope-hallmark|hallmark"]] — Anti-AI-slop design skill for Claude Code, Cursor, and Codex... 🔥
 - [[nuxt-nuxt|nuxt"]] — the full-stack Vue framework
 - [[nvidia-ai-blueprints-video-search-and-summarization|video-search-and-summarization"]] — Suite of reference architectures for building GPU-accelerate... 🆕
@@ -425,6 +427,7 @@
 - [[puppeteer-puppeteer|puppeteer"]] — JavaScript API for Chrome and Firefox
 - [[pytest-dev-pytest|pytest"]] — The pytest framework makes it easy to write small tests, yet...
 - [[pytorch-pytorch|pytorch"]] — Tensors and Dynamic neural networks in Python with strong GP... 🆕
+- [[radixark-miles|miles"]] — Miles is an enterprise-facing reinforcement learning framewo... 🆕
 - [[raphire-win11debloat|Win11Debloat"]] — A simple, lightweight PowerShell script that allows you to r... 🆕
 - [[reconurge-flowsint|flowsint"]] — A modern platform for visual, flexible, and extensible graph... 🆕
 - [[refactoringhq-tolaria|tolaria"]] — Desktop app to manage markdown knowledge bases

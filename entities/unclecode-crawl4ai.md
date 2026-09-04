@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[browser-use-video-use]] [[chromedevtools-chrome-devtools-mcp]] [[mattpocock-skills]]
+[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[averygan-reclip]] [[cathrynlavery-diagram-design]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

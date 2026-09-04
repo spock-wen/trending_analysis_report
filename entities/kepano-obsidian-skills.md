@@ -34,7 +34,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]] [[averygan-reclip]]
+[[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[radixark-miles]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

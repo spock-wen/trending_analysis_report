@@ -37,7 +37,7 @@ The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[kaifcodec-user-scanner]] [[browser-use-video-use]] [[tt-a1i-archify]] [[magnitudedev-magnitude]]
+[[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[tt-a1i-archify]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

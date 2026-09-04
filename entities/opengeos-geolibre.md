@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[kaifcodec-user-scanner]] [[browser-use-video-use]] [[tt-a1i-archify]] [[magnitudedev-magnitude]]
+[[magnitudedev-magnitude]] [[tt-a1i-archify]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[gitlawb-openclaude]]
 
 **所属领域**: [[web]] [[data]]
 

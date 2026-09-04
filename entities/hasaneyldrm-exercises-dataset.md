@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[kaifcodec-user-scanner]] [[browser-use-video-use]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[cathrynlavery-diagram-design]]
+[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

@@ -34,7 +34,7 @@ The easiest, most secure way to use WireGuard and 2FA.
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[anthropics-skills]] [[majd-ipatool]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]]
+[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[jetbrains-go-modern-guidelines]] [[majd-ipatool]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

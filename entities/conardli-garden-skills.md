@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[freestylefly-awesome-gpt-image-2]] [[nutlope-hallmark]] [[browser-use-video-use]] [[osmantic-ods]]
+[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[diolinux-photogimp]] [[averygan-reclip]] [[unclecode-crawl4ai]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

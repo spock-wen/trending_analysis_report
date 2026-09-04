@@ -36,5 +36,5 @@ Jenkins automation server
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[nationalsecurityagency-ghidra]] [[github-copilot-sdk]] [[google-guava]]
+[[google-guava]] [[github-copilot-sdk]] [[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]]
 

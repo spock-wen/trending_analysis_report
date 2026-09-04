@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[anthropics-skills]] [[majd-ipatool]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]]
+[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[tencent-ai-infra-guard]] [[jetbrains-go-modern-guidelines]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

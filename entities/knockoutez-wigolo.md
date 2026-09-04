@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[vercel-labs-portless]] [[google-research-timesfm]] [[affaan-m-ecc]] [[browser-use-video-use]]
+[[bikini-exploitarium]] [[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

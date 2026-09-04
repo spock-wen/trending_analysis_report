@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[google-research-timesfm]] [[affaan-m-ecc]] [[imbad0202-academic-research-skills]] [[anthropics-skills]]
+[[bikini-exploitarium]] [[nousresearch-hermes-agent]] [[anthropics-skills]] [[google-research-timesfm]] [[debpalash-voicestudio]]
 
 **所属领域**: [[science]]
 

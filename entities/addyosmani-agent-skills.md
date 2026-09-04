@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[tt-a1i-archify]] [[mattpocock-skills]] [[imbad0202-academic-research-skills]]
+[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[dietrichgebert-ponytail]] [[anthropics-skills]] [[tt-a1i-archify]]
 
 **所属领域**: [[ai-agent]]
 

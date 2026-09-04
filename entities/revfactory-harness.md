@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[browser-use-video-use]] [[cathrynlavery-diagram-design]] [[chromedevtools-chrome-devtools-mcp]] [[trycua-cua]] [[mattpocock-skills]]
+[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[unclecode-crawl4ai]] [[trycua-cua]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

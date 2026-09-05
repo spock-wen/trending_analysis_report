@@ -35,5 +35,5 @@ bluetooth mesh chat, IRC vibes
 
 ## 相关项目
 
-[[lakr233-vphone-cli]] [[jaywcjlove-awesome-mac]] [[altic-dev-fluidvoice]]
+[[altic-dev-fluidvoice]] [[lakr233-vphone-cli]] [[jaywcjlove-awesome-mac]]
 

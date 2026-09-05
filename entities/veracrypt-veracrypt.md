@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[tashfeenahmed-freellmapi]] [[antirez-ds4]] [[harbourmasters-lighthouse]] [[zhaoxuya520-reverse-skill]] [[microsoft-powertoys]]
+[[antirez-ds4]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[zhaoxuya520-reverse-skill]] [[harbourmasters-lighthouse]]
 
 **所属领域**: [[security]]
 

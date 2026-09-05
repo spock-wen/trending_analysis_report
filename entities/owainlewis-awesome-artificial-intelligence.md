@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[bikini-exploitarium]] [[nousresearch-hermes-agent]] [[radixark-miles]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[radixark-miles]] [[google-research-timesfm]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

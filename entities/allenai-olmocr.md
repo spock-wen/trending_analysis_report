@@ -34,7 +34,7 @@ Toolkit for linearizing PDFs for LLM datasets/training
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-skills]]
+[[anthropics-skills]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

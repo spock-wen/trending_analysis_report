@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[magnitudedev-magnitude]] [[radixark-miles]] [[gitlawb-openclaude]] [[anomalyco-opencode]]
+[[ruvnet-ruflo]] [[radixark-miles]] [[tooljet-tooljet]] [[obra-superpowers]] [[humanlayer-skills]]
 
 **所属领域**: [[erp]]
 

@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[bikini-exploitarium]] [[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[averygan-reclip]]
+[[ruvnet-ruflo]] [[averygan-reclip]] [[google-research-timesfm]] [[chromedevtools-chrome-devtools-mcp]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

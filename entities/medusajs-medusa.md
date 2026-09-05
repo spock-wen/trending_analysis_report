@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[magnitudedev-magnitude]] [[radixark-miles]] [[genlayerlabs-genlayer-project-boilerplate]] [[gitlawb-openclaude]]
+[[ruvnet-ruflo]] [[radixark-miles]] [[tooljet-tooljet]] [[obra-superpowers]] [[humanlayer-skills]]
 
 **所属领域**: [[erp]]
 

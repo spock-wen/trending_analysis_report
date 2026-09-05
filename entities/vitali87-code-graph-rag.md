@@ -36,7 +36,7 @@ The ultimate RAG for your monorepo. Query, understand, and edit multi-language c
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[anthropics-skills]] [[google-research-timesfm]] [[affaan-m-ecc]]
+[[anthropics-skills]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[blader-humanizer]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[vercel-labs-portless]] [[gitlawb-openclaude]]
+[[ruvnet-ruflo]] [[vercel-labs-portless]] [[anthropics-skills]] [[humanlayer-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

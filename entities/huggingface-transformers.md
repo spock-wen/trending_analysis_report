@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[radixark-miles]] [[rohitg00-ai-engineering-from-scratch]] [[thu-maic-openmaic]]
+[[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[radixark-miles]] [[osmantic-ods]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

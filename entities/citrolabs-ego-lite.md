@@ -38,7 +38,7 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[averygan-reclip]] [[unclecode-crawl4ai]] [[dietrichgebert-ponytail]]
+[[averygan-reclip]] [[dietrichgebert-ponytail]] [[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

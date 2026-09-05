@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[bikini-exploitarium]] [[nousresearch-hermes-agent]] [[tooljet-tooljet]] [[magnitudedev-magnitude]] [[mattpocock-skills]]
+[[tooljet-tooljet]] [[radixark-miles]] [[google-research-timesfm]] [[obra-superpowers]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

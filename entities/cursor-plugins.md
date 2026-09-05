@@ -38,5 +38,5 @@ Cursor plugin specification and official plugins
 
 ## 相关项目
 
-[[magnitudedev-magnitude]] [[gitlawb-openclaude]] [[chromedevtools-chrome-devtools-mcp]] [[anomalyco-opencode]]
+[[magnitudedev-magnitude]] [[ruvnet-ruflo]] [[anomalyco-opencode]] [[humanlayer-skills]]
 

@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[bikini-exploitarium]] [[nousresearch-hermes-agent]] [[anthropics-skills]] [[google-research-timesfm]] [[debpalash-voicestudio]]
+[[google-research-timesfm]] [[anthropics-skills]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[blader-humanizer]]
 
 **所属领域**: [[science]]
 

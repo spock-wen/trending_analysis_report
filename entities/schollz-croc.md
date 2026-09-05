@@ -35,5 +35,5 @@ Easily and securely send things from one computer to another 🐊 📦
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[tailscale-tailcat]] [[jetbrains-go-modern-guidelines]] [[majd-ipatool]]
+[[juliusbrussee-caveman]] [[tailscale-tailcat]] [[majd-ipatool]] [[jetbrains-go-modern-guidelines]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[unclecode-crawl4ai]] [[vercel-labs-portless]] [[trycua-cua]] [[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]]
+[[averygan-reclip]] [[trycua-cua]] [[vercel-labs-portless]] [[ripienaar-free-for-dev]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]] [[image-gen]]
 

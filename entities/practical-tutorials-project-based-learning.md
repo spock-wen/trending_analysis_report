@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[radixark-miles]] [[rohitg00-ai-engineering-from-scratch]] [[thu-maic-openmaic]] [[anthropics-skills]]
+[[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[radixark-miles]] [[anthropics-skills]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[education]]
 

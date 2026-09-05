@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[bikini-exploitarium]] [[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[gitlawb-openclaude]]
+[[ruvnet-ruflo]] [[google-research-timesfm]] [[anthropics-skills]] [[humanlayer-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

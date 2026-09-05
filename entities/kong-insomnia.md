@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[magnitudedev-magnitude]] [[mattpocock-skills]] [[unclecode-crawl4ai]] [[gitlawb-openclaude]] [[cathrynlavery-diagram-design]]
+[[ruvnet-ruflo]] [[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[humanlayer-skills]] [[magnitudedev-magnitude]]
 
 **所属领域**: [[web]] [[cli]]
 

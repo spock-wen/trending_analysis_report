@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[mahlernim-google-timeline-visualizer]] [[anthropics-skills]] [[andreknieriem-headunit-revived]]
+[[anthropics-skills]] [[embabel-embabel-agent]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[andreknieriem-headunit-revived]]
 
 **所属领域**: [[ai-agent]]
 

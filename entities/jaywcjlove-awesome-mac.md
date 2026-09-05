@@ -34,5 +34,5 @@ language: "Swift"
 
 ## 相关项目
 
-[[permissionlesstech-bitchat]] [[lakr233-vphone-cli]] [[altic-dev-fluidvoice]]
+[[altic-dev-fluidvoice]] [[permissionlesstech-bitchat]] [[lakr233-vphone-cli]]
 

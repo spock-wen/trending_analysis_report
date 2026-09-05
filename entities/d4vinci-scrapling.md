@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[averygan-reclip]] [[unclecode-crawl4ai]] [[cathrynlavery-diagram-design]] [[anthropics-skills]]
+[[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[anthropics-skills]] [[nousresearch-hermes-agent]] [[blader-humanizer]]
 
 **所属领域**: [[web]]
 

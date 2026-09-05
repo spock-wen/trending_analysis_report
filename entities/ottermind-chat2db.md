@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[google-guava]] [[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[github-copilot-sdk]] [[mattpocock-skills]]
+[[google-guava]] [[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[github-copilot-sdk]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

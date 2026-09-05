@@ -37,5 +37,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[magnitudedev-magnitude]] [[gitlawb-openclaude]] [[chromedevtools-chrome-devtools-mcp]] [[anomalyco-opencode]]
+[[magnitudedev-magnitude]] [[ruvnet-ruflo]] [[anomalyco-opencode]] [[humanlayer-skills]]
 

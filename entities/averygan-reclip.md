@@ -35,7 +35,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[magnitudedev-magnitude]] [[mattpocock-skills]] [[unclecode-crawl4ai]] [[trycua-cua]] [[ripienaar-free-for-dev]]
+[[trycua-cua]] [[ripienaar-free-for-dev]] [[chromedevtools-chrome-devtools-mcp]] [[braveopotato-fcksignups]] [[mattpocock-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[anthropics-claude-cookbooks]] [[microsoft-ai-for-beginners]] [[mattpocock-skills]] [[tencent-ai-infra-guard]]
+[[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[radixark-miles]] [[tooljet-tooljet]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

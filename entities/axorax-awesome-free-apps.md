@@ -36,5 +36,5 @@ Curated list of the best free apps for PC and mobile
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[tt-a1i-archify]]
+[[affaan-m-ecc]] [[addyosmani-agent-skills]] [[dietrichgebert-ponytail]] [[worldflowai-everything-claude-code]]
 

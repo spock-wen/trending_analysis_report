@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[pacifio-atlas]] [[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[tinyhumansai-openhuman]] [[mattpocock-skills]]
+[[pacifio-atlas]] [[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[firecrawl-pdf-inspector]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

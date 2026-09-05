@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[radixark-miles]] [[obra-superpowers]] [[genlayerlabs-genlayer-project-boilerplate]] [[microsoft-onnxruntime]]
+[[fmtlib-fmt]] [[tooljet-tooljet]] [[radixark-miles]] [[obra-superpowers]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[erp]]
 

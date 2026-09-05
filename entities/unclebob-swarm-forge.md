@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[penpot-penpot]] [[anthropics-skills]] [[affaan-m-ecc]]
+[[anthropics-skills]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[mattpocock-skills]] [[penpot-penpot]]
 
 **所属领域**: [[ai-agent]]
 

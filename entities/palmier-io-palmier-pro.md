@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[altic-dev-fluidvoice]] [[anthropics-skills]] [[permissionlesstech-bitchat]]
+[[lakr233-vphone-cli]] [[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

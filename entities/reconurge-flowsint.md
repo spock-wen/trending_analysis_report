@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[magnitudedev-magnitude]] [[tashfeenahmed-freellmapi]] [[zhaoxuya520-reverse-skill]] [[gitlawb-openclaude]] [[anomalyco-opencode]]
+[[ruvnet-ruflo]] [[affaan-m-ecc]] [[humanlayer-skills]] [[kaifcodec-user-scanner]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[security]]
 

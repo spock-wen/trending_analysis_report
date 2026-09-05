@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[radixark-miles]] [[unclecode-crawl4ai]] [[genlayerlabs-genlayer-project-boilerplate]] [[nutlope-hallmark]]
+[[averygan-reclip]] [[radixark-miles]] [[tooljet-tooljet]] [[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]] [[erp]]
 

@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[magnitudedev-magnitude]] [[tt-a1i-archify]] [[k-dense-ai-scientific-agent-skills]] [[vercel-labs-portless]] [[gitlawb-openclaude]]
+[[ruvnet-ruflo]] [[vercel-labs-portless]] [[humanlayer-skills]] [[kaifcodec-user-scanner]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[data]] [[image-gen]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[tencent-ai-infra-guard]] [[tt-a1i-archify]] [[averygan-reclip]]
+[[averygan-reclip]] [[ruvnet-ruflo]] [[ripienaar-free-for-dev]] [[chromedevtools-chrome-devtools-mcp]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[magnitudedev-magnitude]] [[mattpocock-skills]] [[gitlawb-openclaude]] [[anomalyco-opencode]] [[obra-superpowers]]
+[[ruvnet-ruflo]] [[humanlayer-skills]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[nvm-sh-nvm]]
 
 **所属领域**: [[cli]]
 

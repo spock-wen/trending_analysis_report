@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[trycua-cua]]
+[[averygan-reclip]] [[trycua-cua]] [[ripienaar-free-for-dev]] [[chromedevtools-chrome-devtools-mcp]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

@@ -35,7 +35,7 @@ A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skil
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[ripienaar-free-for-dev]] [[anthropics-skills]] [[google-research-timesfm]]
+[[ruvnet-ruflo]] [[ripienaar-free-for-dev]] [[anthropics-skills]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

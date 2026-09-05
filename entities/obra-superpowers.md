@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[nousresearch-hermes-agent]] [[tooljet-tooljet]] [[msitarzewski-agency-agents]] [[mattpocock-skills]]
+[[tooljet-tooljet]] [[radixark-miles]] [[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

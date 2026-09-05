@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[bikini-exploitarium]] [[nousresearch-hermes-agent]] [[mattpocock-skills]] [[unclecode-crawl4ai]] [[trycua-cua]]
+[[averygan-reclip]] [[trycua-cua]] [[ripienaar-free-for-dev]] [[google-research-timesfm]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

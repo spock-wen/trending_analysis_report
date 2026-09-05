@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[tencent-ai-infra-guard]] [[ripienaar-free-for-dev]]
+[[ruvnet-ruflo]] [[ripienaar-free-for-dev]] [[anthropics-skills]] [[humanlayer-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

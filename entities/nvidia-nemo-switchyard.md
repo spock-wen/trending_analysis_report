@@ -35,7 +35,7 @@ Switchyard lets LLM applications route traffic across models and providers while
 
 ## 相关项目
 
-[[pacifio-atlas]] [[nousresearch-hermes-agent]] [[tinyhumansai-openhuman]] [[mattpocock-skills]] [[firecrawl-pdf-inspector]]
+[[pacifio-atlas]] [[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[firecrawl-pdf-inspector]]
 
 **所属领域**: [[ai-agent]]
 

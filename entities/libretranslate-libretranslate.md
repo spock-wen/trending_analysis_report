@@ -34,5 +34,5 @@ Free and Open Source Machine Translation API. Self-hosted, offline capable and e
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[anthropics-skills]] [[debpalash-voicestudio]] [[google-research-timesfm]]
+[[anthropics-skills]] [[nousresearch-hermes-agent]] [[blader-humanizer]] [[bikini-exploitarium]]
 

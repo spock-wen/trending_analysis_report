@@ -38,7 +38,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[google-guava]] [[nousresearch-hermes-agent]] [[mattpocock-skills]] [[anthropics-skills]] [[nationalsecurityagency-ghidra]]
+[[google-guava]] [[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[checkstyle-checkstyle]]
 
 **所属领域**: [[ai-agent]]
 

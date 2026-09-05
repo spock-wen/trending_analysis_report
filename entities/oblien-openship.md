@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[magnitudedev-magnitude]] [[tencent-ai-infra-guard]] [[ripienaar-free-for-dev]] [[gitlawb-openclaude]] [[anomalyco-opencode]]
+[[ruvnet-ruflo]] [[ripienaar-free-for-dev]] [[humanlayer-skills]] [[magnitudedev-magnitude]] [[tencent-ai-infra-guard]]
 
 **所属领域**: [[devops]]
 

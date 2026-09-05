@@ -37,7 +37,7 @@ A framework for building realtime voice AI agents 🤖🎙️📹
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[osmantic-ods]] [[anthropics-skills]] [[alishahryar1-free-claude-code]]
+[[osmantic-ods]] [[anthropics-skills]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[blader-humanizer]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

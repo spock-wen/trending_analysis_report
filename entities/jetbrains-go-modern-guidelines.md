@@ -36,7 +36,7 @@ Help AI coding agents write modern Go
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[majd-ipatool]] [[anthropics-skills]] [[juliusbrussee-caveman]]
+[[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[mattpocock-skills]] [[majd-ipatool]]
 
 **所属领域**: [[ai-agent]]
 

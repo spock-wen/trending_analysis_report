@@ -35,7 +35,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[dietrichgebert-ponytail]] [[anthropics-skills]] [[tt-a1i-archify]]
+[[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[anthropics-skills]] [[nousresearch-hermes-agent]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

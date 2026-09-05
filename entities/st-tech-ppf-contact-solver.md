@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[averygan-reclip]] [[anthropics-skills]]
+[[anthropics-skills]] [[nousresearch-hermes-agent]] [[blader-humanizer]] [[mattpocock-skills]] [[nvm-sh-nvm]]
 
 **所属领域**: [[cli]]
 

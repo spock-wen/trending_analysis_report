@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[radixark-miles]] [[thu-maic-openmaic]] [[anthropics-skills]]
+[[ruvnet-ruflo]] [[radixark-miles]] [[anthropics-skills]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

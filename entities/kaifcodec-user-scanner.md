@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[bikini-exploitarium]] [[nousresearch-hermes-agent]] [[mattpocock-skills]] [[tashfeenahmed-freellmapi]] [[tt-a1i-archify]]
+[[google-research-timesfm]] [[anthropics-skills]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

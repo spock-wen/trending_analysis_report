@@ -37,5 +37,5 @@ The authentication glue you need.
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[anthropics-skills]] [[debpalash-voicestudio]] [[google-research-timesfm]]
+[[anthropics-skills]] [[nousresearch-hermes-agent]] [[blader-humanizer]] [[bikini-exploitarium]]
 

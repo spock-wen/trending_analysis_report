@@ -34,7 +34,7 @@ ONNX Runtime: cross-platform, high performance ML inferencing and training accel
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[anthropics-skills]] [[protocolbuffers-protobuf]] [[google-googletest]]
+[[fmtlib-fmt]] [[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[ai-agent]]
 

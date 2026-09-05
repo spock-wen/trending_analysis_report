@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[magnitudedev-magnitude]] [[mattpocock-skills]] [[unclecode-crawl4ai]] [[obra-superpowers]] [[cathrynlavery-diagram-design]]
+[[fmtlib-fmt]] [[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[protocolbuffers-protobuf]] [[braveopotato-fcksignups]]
 
 **所属领域**: [[web]] [[cli]]
 

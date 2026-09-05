@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[magnitudedev-magnitude]] [[tt-a1i-archify]] [[unclecode-crawl4ai]] [[k-dense-ai-scientific-agent-skills]] [[gitlawb-openclaude]]
+[[ruvnet-ruflo]] [[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[humanlayer-skills]] [[kaifcodec-user-scanner]]
 
 **所属领域**: [[web]] [[data]]
 

@@ -34,5 +34,5 @@ A list of developer portfolios for your inspiration
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[anthropics-skills]] [[debpalash-voicestudio]] [[google-research-timesfm]]
+[[anthropics-skills]] [[nousresearch-hermes-agent]] [[blader-humanizer]] [[bikini-exploitarium]]
 

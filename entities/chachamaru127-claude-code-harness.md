@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[nousresearch-hermes-agent]] [[msitarzewski-agency-agents]] [[mattpocock-skills]] [[magnitudedev-magnitude]]
+[[obra-superpowers]] [[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

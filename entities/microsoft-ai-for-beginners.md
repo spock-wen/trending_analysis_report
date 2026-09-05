@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[anthropics-claude-cookbooks]] [[mattpocock-skills]] [[radixark-miles]] [[rohitg00-ai-engineering-from-scratch]]
+[[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[radixark-miles]] [[anthropics-claude-cookbooks]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

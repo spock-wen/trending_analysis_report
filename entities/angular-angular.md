@@ -34,7 +34,7 @@ Deliver web apps with confidence 🚀
 
 ## 相关项目
 
-[[magnitudedev-magnitude]] [[unclecode-crawl4ai]] [[gitlawb-openclaude]] [[cathrynlavery-diagram-design]] [[anomalyco-opencode]]
+[[ruvnet-ruflo]] [[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[humanlayer-skills]] [[magnitudedev-magnitude]]
 
 **所属领域**: [[web]]
 

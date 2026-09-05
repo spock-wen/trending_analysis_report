@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[averygan-reclip]] [[unclecode-crawl4ai]] [[dietrichgebert-ponytail]] [[vercel-labs-portless]] [[cathrynlavery-diagram-design]]
+[[averygan-reclip]] [[dietrichgebert-ponytail]] [[vercel-labs-portless]] [[osmantic-ods]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]] [[image-gen]]
 

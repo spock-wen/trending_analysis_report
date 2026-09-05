@@ -1,7 +1,7 @@
 ---
 title: "education"
 created: 2026-05-22
-updated: 2026-09-05
+updated: 2026-09-06
 type: concept
 tags: [education]
 confidence: medium
@@ -11,7 +11,7 @@ confidence: medium
 
 ## 领域项目（共 23 个，今日上榜 1 个）
 
-[[radixark-miles]] [[thu-maic-openmaic]] [[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[kepano-obsidian-skills]] [[huggingface-transformers]] [[practical-tutorials-project-based-learning]] [[donnemartin-system-design-primer]] [[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]] [[paperswithbacktest-awesome-systematic-trading]] [[microsoft-ontology-playground]] [[pkuflyingpig-cs-self-learning]] [[byoungd-english-level-up-tips]] [[owainlewis-awesome-artificial-intelligence]] [[freecodecamp-freecodecamp]] [[mikeroyal-self-hosting-guide]] [[stefan-jansen-machine-learning-for-trading]] [[jamwithai-production-agentic-rag-course]] [[datatalksclub-data-engineering-zoomcamp]] [[lum1104-understand-anything]] [[microsoft-ai-agents-for-beginners]] [[nirdiamant-agents-towards-production]]
+[[ruvnet-ruflo]] [[radixark-miles]] [[thu-maic-openmaic]] [[rohitg00-ai-engineering-from-scratch]] [[kepano-obsidian-skills]] [[huggingface-transformers]] [[practical-tutorials-project-based-learning]] [[donnemartin-system-design-primer]] [[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]] [[paperswithbacktest-awesome-systematic-trading]] [[microsoft-ontology-playground]] [[pkuflyingpig-cs-self-learning]] [[byoungd-english-level-up-tips]] [[owainlewis-awesome-artificial-intelligence]] [[freecodecamp-freecodecamp]] [[mikeroyal-self-hosting-guide]] [[stefan-jansen-machine-learning-for-trading]] [[jamwithai-production-agentic-rag-course]] [[datatalksclub-data-engineering-zoomcamp]] [[lum1104-understand-anything]] [[microsoft-ai-agents-for-beginners]] [[nirdiamant-agents-towards-production]]
 
 ## 语言分布
 

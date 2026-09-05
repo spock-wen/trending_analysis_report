@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[nousresearch-hermes-agent]] [[mattpocock-skills]] [[k1tbyte-wand-enhancer]] [[dotnet-aspnetcore]] [[anthropics-skills]]
+[[dotnet-aspnetcore]] [[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[k1tbyte-wand-enhancer]]
 
 **所属领域**: [[ai-agent]]
 

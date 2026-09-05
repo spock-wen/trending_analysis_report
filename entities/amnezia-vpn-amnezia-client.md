@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[magnitudedev-magnitude]] [[mattpocock-skills]] [[tashfeenahmed-freellmapi]] [[obra-superpowers]] [[affaan-m-ecc]]
+[[fmtlib-fmt]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[protocolbuffers-protobuf]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[cli]] [[security]]
 

@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[radixark-miles]] [[humanlayer-skills]] [[thu-maic-openmaic]]
+[[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]] [[thu-maic-openmaic]] [[radixark-miles]]
 
 **所属领域**: [[education]]
 

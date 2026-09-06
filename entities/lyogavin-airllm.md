@@ -38,7 +38,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[mattpocock-skills]]
+[[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[microsoft-ai-for-beginners]] [[anomalyco-opencode]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

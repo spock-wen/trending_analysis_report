@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[mattpocock-skills]] [[majd-ipatool]]
+[[affaan-m-ecc]] [[majd-ipatool]] [[jetbrains-go-modern-guidelines]] [[nousresearch-hermes-agent]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

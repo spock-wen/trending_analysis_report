@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[addyosmani-agent-skills]] [[dietrichgebert-ponytail]] [[worldflowai-everything-claude-code]]
+[[affaan-m-ecc]] [[dietrichgebert-ponytail]] [[openwhispr-openwhispr]] [[coreyhaines31-marketingskills]]
 

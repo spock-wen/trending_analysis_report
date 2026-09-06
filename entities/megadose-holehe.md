@@ -36,7 +36,7 @@ holehe allows you to check if the mail is used on different sites like twitter, 
 
 ## 相关项目
 
-[[anthropics-skills]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[blader-humanizer]] [[mattpocock-skills]]
+[[affaan-m-ecc]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[nousresearch-hermes-agent]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

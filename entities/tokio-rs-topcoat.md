@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[averygan-reclip]] [[pacifio-atlas]] [[chromedevtools-chrome-devtools-mcp]] [[firecrawl-pdf-inspector]] [[braveopotato-fcksignups]]
+[[pacifio-atlas]] [[stremio-stremio-web]] [[cathrynlavery-diagram-design]] [[braveopotato-fcksignups]] [[averygan-reclip]]
 
 **所属领域**: [[web]]
 

@@ -35,7 +35,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[trycua-cua]] [[ripienaar-free-for-dev]] [[chromedevtools-chrome-devtools-mcp]] [[braveopotato-fcksignups]] [[mattpocock-skills]]
+[[worldflowai-everything-claude-code]] [[trycua-cua]] [[magnitudedev-magnitude]] [[ripienaar-free-for-dev]] [[stremio-stremio-web]]
 
 **所属领域**: [[web]] [[cli]]
 

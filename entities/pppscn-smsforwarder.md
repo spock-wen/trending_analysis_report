@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[embabel-embabel-agent]] [[andreknieriem-headunit-revived]] [[mahlernim-google-timeline-visualizer]]
+[[averygan-reclip]] [[bannedbook-fanqiang]] [[andreknieriem-headunit-revived]] [[stremio-stremio-web]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]]
 

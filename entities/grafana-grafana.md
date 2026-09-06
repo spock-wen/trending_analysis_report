@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[ripienaar-free-for-dev]] [[humanlayer-skills]] [[kaifcodec-user-scanner]] [[protocolbuffers-protobuf]]
+[[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[posthog-posthog]] [[humanlayer-skills]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[data]] [[devops]]
 

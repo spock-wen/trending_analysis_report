@@ -34,5 +34,5 @@ Unofficial Bitwarden compatible server written in Rust, formerly known as bitwar
 
 ## 相关项目
 
-[[openai-codex]] [[tinyhumansai-openhuman]] [[firecrawl-pdf-inspector]] [[pacifio-atlas]]
+[[tinyhumansai-openhuman]] [[pacifio-atlas]] [[firecrawl-pdf-inspector]] [[openai-codex]]
 

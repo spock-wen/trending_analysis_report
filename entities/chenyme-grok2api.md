@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[braveopotato-fcksignups]] [[mattpocock-skills]] [[nvm-sh-nvm]]
+[[worldflowai-everything-claude-code]] [[majd-ipatool]] [[jetbrains-go-modern-guidelines]] [[juliusbrussee-caveman]] [[magnitudedev-magnitude]]
 
 **所属领域**: [[web]] [[cli]]
 

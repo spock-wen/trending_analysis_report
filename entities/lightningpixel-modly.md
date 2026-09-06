@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[vercel-labs-portless]] [[anthropics-skills]] [[humanlayer-skills]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[conardli-garden-skills]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

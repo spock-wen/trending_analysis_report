@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[averygan-reclip]] [[vercel-labs-portless]] [[chromedevtools-chrome-devtools-mcp]] [[nutlope-hallmark]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[averygan-reclip]] [[nousresearch-hermes-agent]] [[nutlope-hallmark]] [[stremio-stremio-web]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

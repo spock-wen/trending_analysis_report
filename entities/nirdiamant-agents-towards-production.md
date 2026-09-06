@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[radixark-miles]] [[tooljet-tooljet]] [[ripienaar-free-for-dev]]
+[[affaan-m-ecc]] [[ruvnet-ruflo]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

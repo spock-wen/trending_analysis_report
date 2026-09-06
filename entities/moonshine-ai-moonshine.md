@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[protocolbuffers-protobuf]]
+[[affaan-m-ecc]] [[microsoft-onnxruntime]] [[google-googletest]] [[nousresearch-hermes-agent]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

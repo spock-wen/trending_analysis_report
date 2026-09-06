@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[averygan-reclip]] [[google-research-timesfm]] [[chromedevtools-chrome-devtools-mcp]] [[anthropics-skills]]
+[[affaan-m-ecc]] [[averygan-reclip]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

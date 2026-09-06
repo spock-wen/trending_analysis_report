@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[mattpocock-skills]] [[nvm-sh-nvm]] [[magnitudedev-magnitude]] [[majd-ipatool]] [[jetbrains-go-modern-guidelines]]
+[[worldflowai-everything-claude-code]] [[majd-ipatool]] [[jetbrains-go-modern-guidelines]] [[juliusbrussee-caveman]] [[magnitudedev-magnitude]]
 
 **所属领域**: [[cli]]
 

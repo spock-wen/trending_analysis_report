@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[google-research-timesfm]] [[anthropics-skills]] [[humanlayer-skills]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]] [[bikini-exploitarium]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

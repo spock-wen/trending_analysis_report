@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[vercel-labs-portless]] [[anthropics-skills]] [[humanlayer-skills]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[conardli-garden-skills]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

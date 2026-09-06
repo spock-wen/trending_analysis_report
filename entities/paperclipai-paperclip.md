@@ -36,7 +36,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[google-research-timesfm]] [[anthropics-skills]] [[humanlayer-skills]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[worldflowai-everything-claude-code]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

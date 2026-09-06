@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[google-research-timesfm]] [[anthropics-skills]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[protocolbuffers-protobuf]]
+[[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[bikini-exploitarium]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

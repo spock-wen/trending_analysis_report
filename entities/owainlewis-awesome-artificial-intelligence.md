@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[radixark-miles]] [[google-research-timesfm]] [[anthropics-skills]]
+[[affaan-m-ecc]] [[ruvnet-ruflo]] [[bikini-exploitarium]] [[thu-maic-openmaic]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

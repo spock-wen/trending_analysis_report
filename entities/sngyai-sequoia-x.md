@@ -34,7 +34,7 @@ A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运�
 
 ## 相关项目
 
-[[anthropics-skills]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[blader-humanizer]] [[mattpocock-skills]]
+[[affaan-m-ecc]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[nousresearch-hermes-agent]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

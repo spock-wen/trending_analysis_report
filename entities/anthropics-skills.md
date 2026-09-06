@@ -38,7 +38,7 @@ Public repository for Agent Skills
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[blader-humanizer]] [[mattpocock-skills]] [[bikini-exploitarium]]
+[[affaan-m-ecc]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[nousresearch-hermes-agent]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

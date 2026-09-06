@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[vercel-labs-portless]] [[humanlayer-skills]] [[kaifcodec-user-scanner]] [[protocolbuffers-protobuf]]
+[[conardli-garden-skills]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]] [[osmantic-ods]]
 
 **所属领域**: [[data]] [[image-gen]]
 

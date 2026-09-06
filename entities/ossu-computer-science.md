@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[averygan-reclip]] [[trycua-cua]] [[ripienaar-free-for-dev]] [[chromedevtools-chrome-devtools-mcp]] [[braveopotato-fcksignups]]
+[[trycua-cua]] [[ripienaar-free-for-dev]] [[stremio-stremio-web]] [[cathrynlavery-diagram-design]] [[braveopotato-fcksignups]]
 
 **所属领域**: [[web]]
 

@@ -35,5 +35,5 @@ a code review TUI with vim keybindings
 
 ## 相关项目
 
-[[openai-codex]] [[tinyhumansai-openhuman]] [[firecrawl-pdf-inspector]] [[pacifio-atlas]]
+[[tinyhumansai-openhuman]] [[pacifio-atlas]] [[firecrawl-pdf-inspector]] [[openai-codex]]
 

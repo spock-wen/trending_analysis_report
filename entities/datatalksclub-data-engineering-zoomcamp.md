@@ -35,7 +35,7 @@ Data Engineering Zoomcamp is a free 9-week course on building production-ready d
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[radixark-miles]] [[anthropics-claude-cookbooks]] [[kaifcodec-user-scanner]]
+[[ruvnet-ruflo]] [[thu-maic-openmaic]] [[microsoft-ai-for-beginners]] [[aipoch-open-science]] [[lyogavin-airllm]]
 
 **所属领域**: [[data]] [[education]]
 

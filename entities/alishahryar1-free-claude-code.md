@@ -38,7 +38,7 @@ Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your 
 
 ## 相关项目
 
-[[osmantic-ods]] [[anthropics-skills]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[blader-humanizer]]
+[[affaan-m-ecc]] [[worldflowai-everything-claude-code]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[magnitudedev-magnitude]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

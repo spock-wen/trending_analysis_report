@@ -36,7 +36,7 @@ AI Agent Assistant & development framework that integrates lots of IM platforms,
 
 ## 相关项目
 
-[[anthropics-skills]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[blader-humanizer]] [[mattpocock-skills]]
+[[affaan-m-ecc]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[nousresearch-hermes-agent]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

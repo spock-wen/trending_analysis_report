@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[anthropics-skills]] [[nousresearch-hermes-agent]] [[blader-humanizer]]
+[[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[nousresearch-hermes-agent]] [[stremio-stremio-web]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]]
 

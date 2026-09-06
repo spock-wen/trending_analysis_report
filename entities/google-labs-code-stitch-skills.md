@@ -35,7 +35,7 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[anthropics-skills]] [[humanlayer-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]]
+[[affaan-m-ecc]] [[worldflowai-everything-claude-code]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

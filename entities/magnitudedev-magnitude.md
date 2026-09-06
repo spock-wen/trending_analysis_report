@@ -1,20 +1,20 @@
 ---
 title: "magnitudedev/magnitude"
 created: 2026-09-04
-updated: 2026-09-06
-last_active: 2026-09-06
+updated: 2026-09-07
+last_active: 2026-09-07
 type: tool
 tags: [typescript, ai-agent, cli, rising]
-sources: [raw/trending/2026-09-06.json]
+sources: [raw/trending/2026-09-07.json]
 confidence: high
-trending_count_daily: 3
+trending_count_daily: 4
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 3
+consecutive_days: 4
 first_trending: 2026-09-04
-last_trending: 2026-09-06
+last_trending: 2026-09-07
 peak_rank: 9
-total_stars: 3172
+total_stars: 3650
 language: "TypeScript"
 ---
 
@@ -23,20 +23,21 @@ language: "TypeScript"
 Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.
 
 - 语言: TypeScript
-- 上榜次数: 3 次
-- 连续上榜: 3 天
+- 上榜次数: 4 次
+- 连续上榜: 4 天
 - 最高排名: #9
 - 链接: [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)
 
 ## 上榜历史
 
+  - 2026-09-07: #11, +604⭐
   - 2026-09-06: #14, +686⭐
   - 2026-09-05: #9, +395⭐
   - 2026-09-04: #14, +130⭐
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[anthropics-skills]] [[humanlayer-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]]
+[[affaan-m-ecc]] [[worldflowai-everything-claude-code]] [[ruvnet-ruflo]] [[humanlayer-skills]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[braveopotato-fcksignups]] [[majd-ipatool]] [[cathrynlavery-diagram-design]]
+[[majd-ipatool]] [[jetbrains-go-modern-guidelines]] [[juliusbrussee-caveman]] [[stremio-stremio-web]] [[tailscale-tailcat]]
 
 **所属领域**: [[web]]
 

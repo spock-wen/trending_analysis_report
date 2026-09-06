@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[averygan-reclip]] [[lakr233-vphone-cli]] [[chromedevtools-chrome-devtools-mcp]] [[anthropics-skills]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[averygan-reclip]] [[permissionlesstech-bitchat]] [[lakr233-vphone-cli]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

@@ -35,5 +35,5 @@ NumPy & SciPy for GPU
 
 ## 相关项目
 
-[[anthropics-skills]] [[nousresearch-hermes-agent]] [[blader-humanizer]] [[bikini-exploitarium]]
+[[the-swarm-corporation-autohedge]] [[nousresearch-hermes-agent]] [[openai-skills]] [[blader-humanizer]]
 

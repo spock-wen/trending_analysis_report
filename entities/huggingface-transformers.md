@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[radixark-miles]] [[osmantic-ods]] [[anthropics-skills]]
+[[affaan-m-ecc]] [[ruvnet-ruflo]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

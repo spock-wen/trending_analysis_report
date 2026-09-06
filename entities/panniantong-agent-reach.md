@@ -38,7 +38,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## 相关项目
 
-[[anthropics-skills]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[blader-humanizer]] [[mattpocock-skills]]
+[[affaan-m-ecc]] [[worldflowai-everything-claude-code]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[magnitudedev-magnitude]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

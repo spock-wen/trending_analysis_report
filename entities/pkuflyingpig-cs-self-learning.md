@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[averygan-reclip]] [[trycua-cua]] [[ruvnet-ruflo]] [[ripienaar-free-for-dev]]
+[[trycua-cua]] [[ruvnet-ruflo]] [[ripienaar-free-for-dev]] [[thu-maic-openmaic]] [[stremio-stremio-web]]
 
 **所属领域**: [[web]] [[education]]
 

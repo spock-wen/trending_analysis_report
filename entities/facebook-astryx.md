@@ -37,7 +37,7 @@ An open source design system that's fully customizable and agent ready
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[anthropics-skills]] [[humanlayer-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]]
+[[affaan-m-ecc]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]]
 

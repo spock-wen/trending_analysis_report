@@ -35,5 +35,5 @@ language: "Java"
 
 ## 相关项目
 
-[[github-copilot-sdk]] [[google-guava]] [[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]]
+[[google-guava]] [[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]] [[github-copilot-sdk]]
 

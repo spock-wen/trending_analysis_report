@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[averygan-reclip]] [[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]] [[anthropics-skills]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[averygan-reclip]] [[worldflowai-everything-claude-code]] [[magnitudedev-magnitude]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

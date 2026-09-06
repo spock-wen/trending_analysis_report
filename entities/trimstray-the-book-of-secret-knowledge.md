@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[braveopotato-fcksignups]] [[mattpocock-skills]] [[nvm-sh-nvm]]
+[[worldflowai-everything-claude-code]] [[magnitudedev-magnitude]] [[stremio-stremio-web]] [[nvm-sh-nvm]] [[mattpocock-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

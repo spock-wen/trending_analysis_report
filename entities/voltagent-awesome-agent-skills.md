@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[mattpocock-skills]] [[nvm-sh-nvm]]
+[[affaan-m-ecc]] [[worldflowai-everything-claude-code]] [[magnitudedev-magnitude]] [[nousresearch-hermes-agent]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

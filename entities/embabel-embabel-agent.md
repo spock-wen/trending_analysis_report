@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[andreknieriem-headunit-revived]] [[mahlernim-google-timeline-visualizer]]
+[[affaan-m-ecc]] [[bannedbook-fanqiang]] [[nousresearch-hermes-agent]] [[andreknieriem-headunit-revived]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]]
 

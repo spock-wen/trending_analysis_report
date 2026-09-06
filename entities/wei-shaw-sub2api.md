@@ -34,7 +34,7 @@ Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅
 
 ## 相关项目
 
-[[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[mattpocock-skills]] [[majd-ipatool]]
+[[affaan-m-ecc]] [[majd-ipatool]] [[jetbrains-go-modern-guidelines]] [[juliusbrussee-caveman]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]]
 

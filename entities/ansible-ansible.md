@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[averygan-reclip]] [[ruvnet-ruflo]] [[ripienaar-free-for-dev]] [[chromedevtools-chrome-devtools-mcp]] [[anthropics-skills]]
+[[affaan-m-ecc]] [[averygan-reclip]] [[ruvnet-ruflo]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

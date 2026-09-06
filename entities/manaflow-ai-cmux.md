@@ -36,7 +36,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[lakr233-vphone-cli]] [[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[mattpocock-skills]]
+[[affaan-m-ecc]] [[worldflowai-everything-claude-code]] [[permissionlesstech-bitchat]] [[magnitudedev-magnitude]] [[lakr233-vphone-cli]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

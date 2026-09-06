@@ -38,7 +38,7 @@ This is MCP server for Claude that gives it terminal control, file system search
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[anthropics-skills]] [[humanlayer-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]]
+[[affaan-m-ecc]] [[worldflowai-everything-claude-code]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

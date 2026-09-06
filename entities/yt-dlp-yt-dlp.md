@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[osmantic-ods]] [[anthropics-skills]] [[nousresearch-hermes-agent]] [[blader-humanizer]] [[mattpocock-skills]]
+[[worldflowai-everything-claude-code]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[magnitudedev-magnitude]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[cli]] [[audio]]
 

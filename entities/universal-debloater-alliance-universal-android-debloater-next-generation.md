@@ -36,7 +36,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[pacifio-atlas]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[firecrawl-pdf-inspector]]
+[[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[conardli-garden-skills]] [[kaifcodec-user-scanner]] [[pacifio-atlas]]
 
 **所属领域**: [[security]] [[image-gen]]
 

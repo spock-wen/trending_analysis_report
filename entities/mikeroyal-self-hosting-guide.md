@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[averygan-reclip]] [[ruvnet-ruflo]] [[radixark-miles]] [[chromedevtools-chrome-devtools-mcp]]
+[[affaan-m-ecc]] [[averygan-reclip]] [[ruvnet-ruflo]] [[thu-maic-openmaic]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

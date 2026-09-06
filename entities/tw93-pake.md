@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[averygan-reclip]] [[pacifio-atlas]] [[chromedevtools-chrome-devtools-mcp]] [[firecrawl-pdf-inspector]] [[braveopotato-fcksignups]]
+[[worldflowai-everything-claude-code]] [[magnitudedev-magnitude]] [[pacifio-atlas]] [[stremio-stremio-web]] [[nvm-sh-nvm]]
 
 **所属领域**: [[web]] [[cli]]
 

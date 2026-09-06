@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[google-guava]] [[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[github-copilot-sdk]]
+[[affaan-m-ecc]] [[checkstyle-checkstyle]] [[nousresearch-hermes-agent]] [[github-copilot-sdk]] [[google-guava]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

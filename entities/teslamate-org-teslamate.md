@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[kaifcodec-user-scanner]] [[protocolbuffers-protobuf]]
+[[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[aipoch-open-science]] [[protocolbuffers-protobuf]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

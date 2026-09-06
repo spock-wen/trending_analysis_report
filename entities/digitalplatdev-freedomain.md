@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[averygan-reclip]] [[trycua-cua]] [[ripienaar-free-for-dev]] [[chromedevtools-chrome-devtools-mcp]] [[anthropics-skills]]
+[[affaan-m-ecc]] [[trycua-cua]] [[ripienaar-free-for-dev]] [[nousresearch-hermes-agent]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

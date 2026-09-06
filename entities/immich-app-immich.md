@@ -37,5 +37,5 @@ High performance self-hosted photo and video management solution.
 
 ## 相关项目
 
-[[magnitudedev-magnitude]] [[ruvnet-ruflo]] [[anomalyco-opencode]] [[humanlayer-skills]]
+[[magnitudedev-magnitude]] [[humanlayer-skills]] [[anomalyco-opencode]] [[ruvnet-ruflo]]
 

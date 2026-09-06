@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[radixark-miles]] [[obra-superpowers]] [[anthropics-skills]] [[nousresearch-hermes-agent]]
+[[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[nousresearch-hermes-agent]] [[radixark-miles]] [[tooljet-tooljet]]
 
 **所属领域**: [[erp]]
 

@@ -35,5 +35,5 @@ A full-featured download manager.
 
 ## 相关项目
 
-[[magnitudedev-magnitude]] [[ruvnet-ruflo]] [[anomalyco-opencode]] [[humanlayer-skills]]
+[[magnitudedev-magnitude]] [[humanlayer-skills]] [[anomalyco-opencode]] [[ruvnet-ruflo]]
 

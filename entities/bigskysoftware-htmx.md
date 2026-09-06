@@ -34,7 +34,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[averygan-reclip]] [[dietrichgebert-ponytail]] [[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[braveopotato-fcksignups]]
+[[affaan-m-ecc]] [[dietrichgebert-ponytail]] [[stremio-stremio-web]] [[openwhispr-openwhispr]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]]
 

@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[antirez-ds4]] [[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[kaifcodec-user-scanner]]
+[[harbourmasters-lighthouse]] [[affaan-m-ecc]] [[opa334-dopamine]] [[nousresearch-hermes-agent]] [[coreyhaines31-marketingskills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[kaifcodec-user-scanner]] [[protocolbuffers-protobuf]] [[k-dense-ai-scientific-agent-skills]] [[google-googletest]]
+[[microsoft-onnxruntime]] [[google-googletest]] [[aipoch-open-science]] [[protocolbuffers-protobuf]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[data]]
 

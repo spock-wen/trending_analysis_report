@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[ripienaar-free-for-dev]] [[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]]
+[[affaan-m-ecc]] [[majd-ipatool]] [[jetbrains-go-modern-guidelines]] [[juliusbrussee-caveman]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -38,7 +38,7 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[averygan-reclip]] [[anthropics-skills]] [[humanlayer-skills]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[averygan-reclip]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

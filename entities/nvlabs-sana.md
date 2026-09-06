@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[osmantic-ods]] [[anthropics-skills]] [[nousresearch-hermes-agent]] [[blader-humanizer]]
+[[conardli-garden-skills]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[nousresearch-hermes-agent]] [[vercel-labs-portless]]
 
 **所属领域**: [[image-gen]]
 

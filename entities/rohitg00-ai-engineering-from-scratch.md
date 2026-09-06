@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[radixark-miles]] [[anthropics-skills]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[ruvnet-ruflo]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

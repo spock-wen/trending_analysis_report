@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[ripienaar-free-for-dev]] [[google-guava]] [[kaifcodec-user-scanner]] [[github-copilot-sdk]]
+[[ruvnet-ruflo]] [[checkstyle-checkstyle]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[tencent-ai-infra-guard]]
 
 **所属领域**: [[data]] [[devops]]
 

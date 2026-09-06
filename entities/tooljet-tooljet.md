@@ -36,7 +36,7 @@ ToolJet is the open-source foundation of ToolJet AI - the enterprise app generat
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[dietrichgebert-ponytail]] [[radixark-miles]] [[osmantic-ods]] [[obra-superpowers]]
+[[affaan-m-ecc]] [[conardli-garden-skills]] [[dietrichgebert-ponytail]] [[nousresearch-hermes-agent]] [[osmantic-ods]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[image-gen]]
 

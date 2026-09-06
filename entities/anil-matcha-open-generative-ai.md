@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[dietrichgebert-ponytail]] [[osmantic-ods]] [[affaan-m-ecc]] [[anthropics-skills]]
+[[affaan-m-ecc]] [[conardli-garden-skills]] [[dietrichgebert-ponytail]] [[nousresearch-hermes-agent]] [[osmantic-ods]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

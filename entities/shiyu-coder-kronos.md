@@ -38,5 +38,5 @@ Kronos: A Foundation Model for the Language of Financial Markets
 
 ## 相关项目
 
-[[anthropics-skills]] [[nousresearch-hermes-agent]] [[blader-humanizer]] [[bikini-exploitarium]]
+[[the-swarm-corporation-autohedge]] [[nousresearch-hermes-agent]] [[openai-skills]] [[blader-humanizer]]
 

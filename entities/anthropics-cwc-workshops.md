@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[radixark-miles]] [[tooljet-tooljet]] [[obra-superpowers]] [[humanlayer-skills]]
+[[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]] [[radixark-miles]] [[tooljet-tooljet]]
 
 **所属领域**: [[erp]]
 

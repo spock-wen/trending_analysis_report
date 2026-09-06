@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[anthropics-skills]] [[nousresearch-hermes-agent]] [[kaifcodec-user-scanner]] [[protocolbuffers-protobuf]] [[k-dense-ai-scientific-agent-skills]]
+[[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[nousresearch-hermes-agent]] [[aipoch-open-science]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[data]]
 

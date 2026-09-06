@@ -36,7 +36,7 @@ Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG 
 
 ## 相关项目
 
-[[anthropics-skills]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[protocolbuffers-protobuf]]
+[[affaan-m-ecc]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[nousresearch-hermes-agent]] [[aipoch-open-science]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

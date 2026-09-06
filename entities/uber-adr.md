@@ -35,7 +35,7 @@ ADR secures enterprise AI agents through observability, security benchmarking, a
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[radixark-miles]] [[tooljet-tooljet]] [[ripienaar-free-for-dev]] [[obra-superpowers]]
+[[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[ruvnet-ruflo]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[security]] [[erp]]
 

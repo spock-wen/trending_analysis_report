@@ -36,7 +36,7 @@ JavaScript in-page GUI agent. Control web interfaces with natural language.
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[anthropics-skills]] [[humanlayer-skills]]
+[[affaan-m-ecc]] [[averygan-reclip]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

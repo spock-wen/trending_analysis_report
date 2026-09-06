@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-skills]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]] [[zhaoxuya520-reverse-skill]]
+[[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[kaifcodec-user-scanner]]
 
 **所属领域**: [[security]]
 

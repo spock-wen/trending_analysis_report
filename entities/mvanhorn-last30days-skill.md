@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[averygan-reclip]] [[google-research-timesfm]] [[chromedevtools-chrome-devtools-mcp]] [[anthropics-skills]] [[nousresearch-hermes-agent]]
+[[affaan-m-ecc]] [[averygan-reclip]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[bikini-exploitarium]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

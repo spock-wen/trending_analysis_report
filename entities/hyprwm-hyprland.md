@@ -35,5 +35,5 @@ Hyprland is an independent, highly customizable, dynamic tiling Wayland composit
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[google-googletest]] [[protocolbuffers-protobuf]] [[microsoft-onnxruntime]]
+[[microsoft-onnxruntime]] [[google-googletest]] [[fmtlib-fmt]] [[protocolbuffers-protobuf]]
 

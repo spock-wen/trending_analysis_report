@@ -37,7 +37,7 @@ The open-source alternative to Claude Cowork (powered by opencode)
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[anthropics-skills]] [[humanlayer-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]]
+[[affaan-m-ecc]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,5 +38,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
 
 ## 相关项目
 
-[[openai-codex]] [[tinyhumansai-openhuman]] [[firecrawl-pdf-inspector]] [[pacifio-atlas]]
+[[tinyhumansai-openhuman]] [[pacifio-atlas]] [[firecrawl-pdf-inspector]] [[openai-codex]]
 

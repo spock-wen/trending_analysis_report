@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[radixark-miles]] [[pacifio-atlas]] [[obra-superpowers]] [[anthropics-skills]]
+[[affaan-m-ecc]] [[pacifio-atlas]] [[nousresearch-hermes-agent]] [[radixark-miles]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

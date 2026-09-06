@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[anthropics-skills]] [[humanlayer-skills]]
+[[affaan-m-ecc]] [[averygan-reclip]] [[worldflowai-everything-claude-code]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

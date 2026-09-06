@@ -38,7 +38,7 @@ agent multiplexer that lives in your terminal.
 
 ## 相关项目
 
-[[pacifio-atlas]] [[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[firecrawl-pdf-inspector]]
+[[affaan-m-ecc]] [[worldflowai-everything-claude-code]] [[magnitudedev-magnitude]] [[pacifio-atlas]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -38,7 +38,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## 相关项目
 
-[[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]]
+[[affaan-m-ecc]] [[averygan-reclip]] [[conardli-garden-skills]] [[nousresearch-hermes-agent]] [[stremio-stremio-web]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

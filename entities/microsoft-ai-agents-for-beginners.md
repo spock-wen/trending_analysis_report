@@ -36,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[radixark-miles]] [[anthropics-claude-cookbooks]] [[anthropics-skills]]
+[[affaan-m-ecc]] [[ruvnet-ruflo]] [[thu-maic-openmaic]] [[nousresearch-hermes-agent]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

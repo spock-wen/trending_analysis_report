@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[radixark-miles]] [[google-research-timesfm]] [[anthropics-skills]]
+[[affaan-m-ecc]] [[ruvnet-ruflo]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[bikini-exploitarium]]
 
 **所属领域**: [[education]] [[science]]
 

@@ -36,7 +36,7 @@ VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice clo
 
 ## 相关项目
 
-[[bikini-exploitarium]] [[anthropics-skills]] [[nousresearch-hermes-agent]] [[blader-humanizer]] [[alishahryar1-free-claude-code]]
+[[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[nousresearch-hermes-agent]] [[livekit-agents]] [[openwhispr-openwhispr]]
 
 **所属领域**: [[audio]]
 

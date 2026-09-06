@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[radixark-miles]] [[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]]
+[[affaan-m-ecc]] [[worldflowai-everything-claude-code]] [[magnitudedev-magnitude]] [[nousresearch-hermes-agent]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[averygan-reclip]] [[vercel-labs-portless]] [[ripienaar-free-for-dev]] [[chromedevtools-chrome-devtools-mcp]] [[anthropics-skills]]
+[[affaan-m-ecc]] [[conardli-garden-skills]] [[ripienaar-free-for-dev]] [[nousresearch-hermes-agent]] [[osmantic-ods]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

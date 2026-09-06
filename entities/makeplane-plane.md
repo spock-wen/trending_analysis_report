@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[humanlayer-skills]] [[magnitudedev-magnitude]] [[mattpocock-skills]] [[nvm-sh-nvm]]
+[[worldflowai-everything-claude-code]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]] [[nvm-sh-nvm]]
 
 **所属领域**: [[cli]]
 

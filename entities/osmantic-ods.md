@@ -35,7 +35,7 @@ Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice
 
 ## 相关项目
 
-[[vercel-labs-portless]] [[anthropics-skills]] [[nousresearch-hermes-agent]] [[affaan-m-ecc]] [[blader-humanizer]]
+[[affaan-m-ecc]] [[conardli-garden-skills]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

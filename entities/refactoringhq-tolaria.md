@@ -38,5 +38,5 @@ Desktop app to manage markdown knowledge bases
 
 ## 相关项目
 
-[[magnitudedev-magnitude]] [[ruvnet-ruflo]] [[anomalyco-opencode]] [[humanlayer-skills]]
+[[magnitudedev-magnitude]] [[humanlayer-skills]] [[anomalyco-opencode]] [[ruvnet-ruflo]]
 

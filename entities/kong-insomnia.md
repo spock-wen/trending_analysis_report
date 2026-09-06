@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[humanlayer-skills]] [[magnitudedev-magnitude]]
+[[averygan-reclip]] [[worldflowai-everything-claude-code]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

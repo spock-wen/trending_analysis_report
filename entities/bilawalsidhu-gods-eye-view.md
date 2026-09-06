@@ -36,7 +36,7 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 
 ## 相关项目
 
-[[averygan-reclip]] [[dietrichgebert-ponytail]] [[chromedevtools-chrome-devtools-mcp]] [[affaan-m-ecc]] [[kaifcodec-user-scanner]]
+[[affaan-m-ecc]] [[dietrichgebert-ponytail]] [[aipoch-open-science]] [[stremio-stremio-web]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[web]] [[data]]
 

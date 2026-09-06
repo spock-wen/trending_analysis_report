@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[ripienaar-free-for-dev]] [[anthropics-skills]] [[humanlayer-skills]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[posthog-posthog]] [[humanlayer-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

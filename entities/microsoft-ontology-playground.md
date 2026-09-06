@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[averygan-reclip]] [[radixark-miles]] [[chromedevtools-chrome-devtools-mcp]]
+[[averygan-reclip]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]] [[thu-maic-openmaic]]
 
 **所属领域**: [[web]] [[education]]
 

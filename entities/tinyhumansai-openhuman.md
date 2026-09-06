@@ -38,7 +38,7 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 ## 相关项目
 
-[[google-research-timesfm]] [[pacifio-atlas]] [[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]]
+[[affaan-m-ecc]] [[bikini-exploitarium]] [[pacifio-atlas]] [[nousresearch-hermes-agent]] [[aipoch-open-science]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

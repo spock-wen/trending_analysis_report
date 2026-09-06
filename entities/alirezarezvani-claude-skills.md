@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[radixark-miles]] [[google-research-timesfm]] [[obra-superpowers]] [[anthropics-skills]]
+[[affaan-m-ecc]] [[worldflowai-everything-claude-code]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[magnitudedev-magnitude]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

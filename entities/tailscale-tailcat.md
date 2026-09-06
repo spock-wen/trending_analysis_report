@@ -35,7 +35,7 @@ like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 ## 相关项目
 
-[[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[kaifcodec-user-scanner]] [[protocolbuffers-protobuf]]
+[[affaan-m-ecc]] [[majd-ipatool]] [[jetbrains-go-modern-guidelines]] [[juliusbrussee-caveman]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[ripienaar-free-for-dev]] [[humanlayer-skills]] [[magnitudedev-magnitude]] [[tencent-ai-infra-guard]]
+[[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[posthog-posthog]] [[humanlayer-skills]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[devops]]
 

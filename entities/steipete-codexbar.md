@@ -36,7 +36,7 @@ Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 ## 相关项目
 
-[[lakr233-vphone-cli]] [[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[mattpocock-skills]]
+[[affaan-m-ecc]] [[permissionlesstech-bitchat]] [[lakr233-vphone-cli]] [[nousresearch-hermes-agent]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]]
 

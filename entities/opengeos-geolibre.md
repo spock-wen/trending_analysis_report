@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[humanlayer-skills]] [[kaifcodec-user-scanner]]
+[[averygan-reclip]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]] [[aipoch-open-science]]
 
 **所属领域**: [[web]] [[data]]
 

@@ -37,7 +37,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[humanlayer-skills]] [[magnitudedev-magnitude]]
+[[averygan-reclip]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]] [[stremio-stremio-web]]
 
 **所属领域**: [[web]]
 

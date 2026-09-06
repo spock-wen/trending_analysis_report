@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[protocolbuffers-protobuf]] [[braveopotato-fcksignups]]
+[[averygan-reclip]] [[microsoft-onnxruntime]] [[worldflowai-everything-claude-code]] [[magnitudedev-magnitude]] [[google-googletest]]
 
 **所属领域**: [[web]] [[cli]]
 

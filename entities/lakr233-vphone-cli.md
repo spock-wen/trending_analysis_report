@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[mattpocock-skills]] [[nvm-sh-nvm]] [[magnitudedev-magnitude]] [[worldflowai-everything-claude-code]] [[jaywcjlove-awesome-mac]]
+[[worldflowai-everything-claude-code]] [[permissionlesstech-bitchat]] [[magnitudedev-magnitude]] [[nvm-sh-nvm]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

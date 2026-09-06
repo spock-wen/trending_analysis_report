@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[averygan-reclip]] [[pacifio-atlas]] [[chromedevtools-chrome-devtools-mcp]] [[anthropics-skills]] [[affaan-m-ecc]]
+[[stremio-stremio-web]] [[protocolbuffers-protobuf]] [[averygan-reclip]] [[anomalyco-opencode]] [[tinyhumansai-openhuman]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[google-research-timesfm]] [[anthropics-skills]] [[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[kaifcodec-user-scanner]]
+[[affaan-m-ecc]] [[worldflowai-everything-claude-code]] [[magnitudedev-magnitude]] [[kaifcodec-user-scanner]] [[bikini-exploitarium]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[nousresearch-hermes-agent]] [[mattpocock-skills]]
+[[pascalorg-editor]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]] [[braveopotato-fcksignups]] [[coreyhaines31-marketingskills]]
 
 **所属领域**: [[ai-agent]]
 

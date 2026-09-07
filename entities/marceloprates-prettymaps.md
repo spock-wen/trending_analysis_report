@@ -34,7 +34,7 @@ Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 
 ## 相关项目
 
-[[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[nousresearch-hermes-agent]] [[aipoch-open-science]] [[protocolbuffers-protobuf]]
+[[microsoft-markitdown]] [[protocolbuffers-protobuf]] [[openai-skills]] [[k-dense-ai-scientific-agent-skills]] [[aipoch-open-science]]
 
 **所属领域**: [[data]]
 

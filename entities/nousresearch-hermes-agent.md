@@ -38,7 +38,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[bikini-exploitarium]] [[aipoch-open-science]]
+[[microsoft-markitdown]] [[openai-skills]] [[heygen-com-hyperframes]] [[aipoch-open-science]] [[bytedance-deer-flow]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

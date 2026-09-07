@@ -35,7 +35,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[worldflowai-everything-claude-code]] [[trycua-cua]] [[magnitudedev-magnitude]] [[ripienaar-free-for-dev]] [[stremio-stremio-web]]
+[[jo-inc-camofox-browser]] [[ripienaar-free-for-dev]] [[lightpanda-io-browser]] [[heygen-com-hyperframes]] [[mattpocock-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

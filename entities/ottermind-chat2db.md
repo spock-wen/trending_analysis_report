@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[worldflowai-everything-claude-code]] [[checkstyle-checkstyle]] [[magnitudedev-magnitude]] [[nousresearch-hermes-agent]]
+[[protocolbuffers-protobuf]] [[checkstyle-checkstyle]] [[heygen-com-hyperframes]] [[k-dense-ai-scientific-agent-skills]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

@@ -35,5 +35,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[dietrichgebert-ponytail]] [[openwhispr-openwhispr]] [[coreyhaines31-marketingskills]]
+[[jo-inc-camofox-browser]] [[affaan-m-ecc]] [[coreyhaines31-marketingskills]] [[dietrichgebert-ponytail]]
 

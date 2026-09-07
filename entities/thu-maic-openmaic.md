@@ -37,7 +37,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[worldflowai-everything-claude-code]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]]
+[[pascalorg-editor]] [[heygen-com-hyperframes]] [[radixark-miles]] [[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

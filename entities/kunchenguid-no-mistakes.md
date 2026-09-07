@@ -35,5 +35,5 @@ git push no-mistakes
 
 ## 相关项目
 
-[[tailscale-tailcat]] [[majd-ipatool]] [[jetbrains-go-modern-guidelines]] [[juliusbrussee-caveman]]
+[[jetbrains-go-modern-guidelines]] [[majd-ipatool]] [[tailscale-tailcat]] [[juliusbrussee-caveman]]
 

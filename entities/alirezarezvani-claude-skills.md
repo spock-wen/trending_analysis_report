@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[worldflowai-everything-claude-code]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[magnitudedev-magnitude]]
+[[microsoft-markitdown]] [[genlayerlabs-genlayer-project-boilerplate]] [[obra-superpowers]] [[openai-skills]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

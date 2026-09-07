@@ -34,5 +34,5 @@ C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 
 ## 相关项目
 
-[[microsoft-onnxruntime]] [[google-googletest]] [[fmtlib-fmt]] [[protocolbuffers-protobuf]]
+[[microsoft-onnxruntime]] [[protocolbuffers-protobuf]] [[fmtlib-fmt]] [[google-googletest]]
 

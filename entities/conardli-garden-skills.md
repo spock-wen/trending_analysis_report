@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[averygan-reclip]] [[nousresearch-hermes-agent]] [[nutlope-hallmark]] [[stremio-stremio-web]]
+[[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[osmantic-ods]] [[heygen-com-hyperframes]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[majd-ipatool]] [[jetbrains-go-modern-guidelines]] [[juliusbrussee-caveman]]
+[[heygen-com-hyperframes]] [[zhaoxuya520-reverse-skill]] [[tailscale-tailcat]] [[bytedance-deer-flow]] [[kaifcodec-user-scanner]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

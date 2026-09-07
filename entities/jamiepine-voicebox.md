@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]] [[nousresearch-hermes-agent]]
+[[livekit-agents]] [[osmantic-ods]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

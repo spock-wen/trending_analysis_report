@@ -34,7 +34,7 @@ Stremio - Freedom to Stream
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[dietrichgebert-ponytail]] [[openwhispr-openwhispr]] [[cathrynlavery-diagram-design]] [[braveopotato-fcksignups]]
+[[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[heygen-com-hyperframes]] [[dietrichgebert-ponytail]] [[braveopotato-fcksignups]]
 
 **所属领域**: [[web]]
 

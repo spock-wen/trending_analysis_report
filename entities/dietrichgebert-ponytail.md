@@ -38,7 +38,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[mattpocock-skills]] [[openwhispr-openwhispr]] [[anomalyco-opencode]]
+[[jo-inc-camofox-browser]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]] [[coreyhaines31-marketingskills]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

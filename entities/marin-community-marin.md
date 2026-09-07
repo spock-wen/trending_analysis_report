@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[bikini-exploitarium]] [[nousresearch-hermes-agent]]
+[[microsoft-markitdown]] [[openai-skills]] [[aipoch-open-science]] [[bytedance-deer-flow]] [[the-swarm-corporation-autohedge]]
 
 **所属领域**: [[science]]
 

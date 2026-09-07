@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[pacifio-atlas]] [[stremio-stremio-web]] [[cathrynlavery-diagram-design]] [[braveopotato-fcksignups]] [[averygan-reclip]]
+[[pacifio-atlas]] [[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[openai-codex]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[web]]
 

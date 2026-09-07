@@ -36,7 +36,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[worldflowai-everything-claude-code]] [[ruvnet-ruflo]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]]
+[[microsoft-markitdown]] [[ripienaar-free-for-dev]] [[openai-skills]] [[heygen-com-hyperframes]] [[tencent-ai-infra-guard]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

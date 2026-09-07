@@ -36,7 +36,7 @@ Help AI coding agents write modern Go
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[majd-ipatool]] [[juliusbrussee-caveman]] [[nousresearch-hermes-agent]] [[tailscale-tailcat]]
+[[heygen-com-hyperframes]] [[tailscale-tailcat]] [[bytedance-deer-flow]] [[coreyhaines31-marketingskills]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]]
 

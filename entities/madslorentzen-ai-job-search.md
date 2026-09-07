@@ -37,7 +37,7 @@ The job search that runs on your machine. AI job application framework built on 
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[nousresearch-hermes-agent]] [[mattpocock-skills]]
+[[microsoft-markitdown]] [[openai-skills]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]] [[the-swarm-corporation-autohedge]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,5 +36,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[magnitudedev-magnitude]] [[humanlayer-skills]] [[anomalyco-opencode]] [[ruvnet-ruflo]]
+[[braveopotato-fcksignups]] [[pascalorg-editor]] [[ruvnet-ruflo]] [[heygen-com-hyperframes]]
 

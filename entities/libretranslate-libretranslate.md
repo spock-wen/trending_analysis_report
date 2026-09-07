@@ -34,5 +34,5 @@ Free and Open Source Machine Translation API. Self-hosted, offline capable and e
 
 ## 相关项目
 
-[[the-swarm-corporation-autohedge]] [[nousresearch-hermes-agent]] [[openai-skills]] [[blader-humanizer]]
+[[bytedance-deer-flow]] [[microsoft-markitdown]] [[the-swarm-corporation-autohedge]] [[openai-skills]]
 

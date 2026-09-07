@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[worldflowai-everything-claude-code]] [[magnitudedev-magnitude]] [[stremio-stremio-web]] [[nvm-sh-nvm]] [[mattpocock-skills]]
+[[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[heygen-com-hyperframes]] [[mattpocock-skills]] [[worldflowai-everything-claude-code]]
 
 **所属领域**: [[web]] [[cli]]
 

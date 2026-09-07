@@ -36,7 +36,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[worldflowai-everything-claude-code]] [[permissionlesstech-bitchat]] [[magnitudedev-magnitude]] [[lakr233-vphone-cli]]
+[[jaywcjlove-awesome-mac]] [[heygen-com-hyperframes]] [[permissionlesstech-bitchat]] [[mattpocock-skills]] [[worldflowai-everything-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

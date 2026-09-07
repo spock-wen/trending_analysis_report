@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[conardli-garden-skills]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]]
+[[osmantic-ods]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[vercel-labs-portless]] [[freestylefly-awesome-gpt-image-2]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

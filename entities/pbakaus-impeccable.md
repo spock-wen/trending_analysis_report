@@ -35,7 +35,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[dietrichgebert-ponytail]] [[nousresearch-hermes-agent]] [[mattpocock-skills]] [[openwhispr-openwhispr]]
+[[jo-inc-camofox-browser]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]] [[dietrichgebert-ponytail]] [[coreyhaines31-marketingskills]]
 
 **所属领域**: [[ai-agent]]
 

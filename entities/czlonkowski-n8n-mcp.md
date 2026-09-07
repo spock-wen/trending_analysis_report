@@ -35,7 +35,7 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]] [[nousresearch-hermes-agent]]
+[[pascalorg-editor]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]] [[braveopotato-fcksignups]] [[coreyhaines31-marketingskills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,5 +37,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[magnitudedev-magnitude]] [[humanlayer-skills]] [[anomalyco-opencode]] [[ruvnet-ruflo]]
+[[braveopotato-fcksignups]] [[pascalorg-editor]] [[ruvnet-ruflo]] [[heygen-com-hyperframes]]
 

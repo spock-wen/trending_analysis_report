@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[bannedbook-fanqiang]] [[nousresearch-hermes-agent]] [[andreknieriem-headunit-revived]] [[anomalyco-opencode]]
+[[heygen-com-hyperframes]] [[bannedbook-fanqiang]] [[bytedance-deer-flow]] [[coreyhaines31-marketingskills]] [[andreknieriem-headunit-revived]]
 
 **所属领域**: [[ai-agent]]
 

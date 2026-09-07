@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[averygan-reclip]] [[bannedbook-fanqiang]] [[andreknieriem-headunit-revived]] [[stremio-stremio-web]] [[cathrynlavery-diagram-design]]
+[[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[heygen-com-hyperframes]] [[bannedbook-fanqiang]] [[embabel-embabel-agent]]
 
 **所属领域**: [[web]]
 

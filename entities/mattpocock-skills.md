@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[worldflowai-everything-claude-code]] [[magnitudedev-magnitude]] [[nousresearch-hermes-agent]] [[nvm-sh-nvm]]
+[[obra-superpowers]] [[heygen-com-hyperframes]] [[worldflowai-everything-claude-code]] [[bytedance-deer-flow]] [[basecamp-omarchy]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

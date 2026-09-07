@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[averygan-reclip]] [[worldflowai-everything-claude-code]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]]
+[[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[worldflowai-everything-claude-code]] [[zhaoxuya520-reverse-skill]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]]
+[[microsoft-markitdown]] [[openai-skills]] [[heygen-com-hyperframes]] [[zhaoxuya520-reverse-skill]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

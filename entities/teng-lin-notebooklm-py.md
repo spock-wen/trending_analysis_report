@@ -34,7 +34,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[averygan-reclip]] [[worldflowai-everything-claude-code]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]]
+[[jo-inc-camofox-browser]] [[microsoft-markitdown]] [[lightpanda-io-browser]] [[openai-skills]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

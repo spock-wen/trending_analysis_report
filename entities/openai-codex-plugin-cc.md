@@ -38,7 +38,7 @@ Use Codex from Claude Code to review code or delegate tasks.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[dietrichgebert-ponytail]] [[nousresearch-hermes-agent]] [[mattpocock-skills]] [[openwhispr-openwhispr]]
+[[jo-inc-camofox-browser]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]] [[dietrichgebert-ponytail]] [[coreyhaines31-marketingskills]]
 
 **所属领域**: [[ai-agent]]
 

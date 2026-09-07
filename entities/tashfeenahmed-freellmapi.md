@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]]
+[[pascalorg-editor]] [[heygen-com-hyperframes]] [[zhaoxuya520-reverse-skill]] [[bytedance-deer-flow]] [[kaifcodec-user-scanner]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

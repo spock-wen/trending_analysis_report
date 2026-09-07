@@ -34,7 +34,7 @@ Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB lapto
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[nousresearch-hermes-agent]] [[mattpocock-skills]]
+[[microsoft-markitdown]] [[openai-skills]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]] [[the-swarm-corporation-autohedge]]
 
 **所属领域**: [[ai-agent]]
 

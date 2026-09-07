@@ -34,7 +34,7 @@ Claude Code toolkit - agents, commands, skills, rules, and hooks for productive 
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[dietrichgebert-ponytail]] [[magnitudedev-magnitude]] [[nousresearch-hermes-agent]] [[nvm-sh-nvm]]
+[[jo-inc-camofox-browser]] [[heygen-com-hyperframes]] [[mattpocock-skills]] [[bytedance-deer-flow]] [[dietrichgebert-ponytail]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

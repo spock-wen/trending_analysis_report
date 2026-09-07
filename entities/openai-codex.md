@@ -36,7 +36,7 @@ Lightweight coding agent that runs in your terminal
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[worldflowai-everything-claude-code]] [[magnitudedev-magnitude]] [[pacifio-atlas]] [[nousresearch-hermes-agent]]
+[[pacifio-atlas]] [[heygen-com-hyperframes]] [[firecrawl-pdf-inspector]] [[mattpocock-skills]] [[worldflowai-everything-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

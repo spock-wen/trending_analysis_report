@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[microsoft-onnxruntime]] [[google-googletest]] [[radixark-miles]] [[protocolbuffers-protobuf]] [[genlayerlabs-genlayer-project-boilerplate]]
+[[protocolbuffers-protobuf]] [[genlayerlabs-genlayer-project-boilerplate]] [[obra-superpowers]] [[radixark-miles]] [[google-googletest]]
 
 **所属领域**: [[erp]]
 

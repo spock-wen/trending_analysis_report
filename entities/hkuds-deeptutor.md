@@ -37,7 +37,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[nousresearch-hermes-agent]] [[stremio-stremio-web]] [[cathrynlavery-diagram-design]]
+[[jo-inc-camofox-browser]] [[microsoft-markitdown]] [[lightpanda-io-browser]] [[heygen-com-hyperframes]] [[openai-skills]]
 
 **所属领域**: [[web]]
 

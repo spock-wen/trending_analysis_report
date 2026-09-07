@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[majd-ipatool]] [[jetbrains-go-modern-guidelines]] [[nousresearch-hermes-agent]] [[mattpocock-skills]]
+[[heygen-com-hyperframes]] [[tailscale-tailcat]] [[bytedance-deer-flow]] [[coreyhaines31-marketingskills]] [[jetbrains-go-modern-guidelines]]
 
 **所属领域**: [[ai-agent]]
 

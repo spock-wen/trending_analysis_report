@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[averygan-reclip]] [[microsoft-onnxruntime]] [[worldflowai-everything-claude-code]] [[magnitudedev-magnitude]] [[google-googletest]]
+[[jo-inc-camofox-browser]] [[protocolbuffers-protobuf]] [[lightpanda-io-browser]] [[heygen-com-hyperframes]] [[google-googletest]]
 
 **所属领域**: [[web]] [[cli]]
 

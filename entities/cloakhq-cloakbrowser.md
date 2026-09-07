@@ -35,7 +35,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[kaifcodec-user-scanner]]
+[[jo-inc-camofox-browser]] [[microsoft-markitdown]] [[lightpanda-io-browser]] [[genlayerlabs-genlayer-project-boilerplate]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

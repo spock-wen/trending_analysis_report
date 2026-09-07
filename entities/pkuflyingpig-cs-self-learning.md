@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[trycua-cua]] [[ruvnet-ruflo]] [[ripienaar-free-for-dev]] [[thu-maic-openmaic]] [[stremio-stremio-web]]
+[[jo-inc-camofox-browser]] [[ripienaar-free-for-dev]] [[lightpanda-io-browser]] [[averygan-reclip]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[web]] [[education]]
 

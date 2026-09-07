@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[averygan-reclip]] [[ruvnet-ruflo]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]]
+[[jo-inc-camofox-browser]] [[microsoft-markitdown]] [[lightpanda-io-browser]] [[protocolbuffers-protobuf]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

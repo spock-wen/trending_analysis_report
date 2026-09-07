@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[trycua-cua]] [[ruvnet-ruflo]] [[posthog-posthog]] [[tencent-ai-infra-guard]] [[stremio-stremio-web]]
+[[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[averygan-reclip]] [[heygen-com-hyperframes]] [[tencent-ai-infra-guard]]
 
 **所属领域**: [[web]] [[devops]]
 

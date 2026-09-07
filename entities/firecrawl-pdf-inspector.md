@@ -38,5 +38,5 @@ Fast Rust library for PDF inspection, classification, and text extraction. Intel
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[pacifio-atlas]] [[openai-codex]]
+[[pacifio-atlas]] [[tinyhumansai-openhuman]] [[openai-codex]]
 

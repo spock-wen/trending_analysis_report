@@ -1,20 +1,20 @@
 ---
 title: "microsoft/markitdown"
 created: 2026-05-29
-updated: 2026-06-04
-last_active: 2026-06-04
+updated: 2026-09-08
+last_active: 2026-09-08
 type: tool
-tags: [python, rising]
-sources: [raw/trending/2026-06-04.json]
+tags: [python]
+sources: [raw/trending/2026-09-08.json]
 confidence: high
-trending_count_daily: 7
+trending_count_daily: 8
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 7
+consecutive_days: 1
 first_trending: 2026-05-29
-last_trending: 2026-06-04
+last_trending: 2026-09-08
 peak_rank: 1
-total_stars: 142794
+total_stars: 180117
 language: "Python"
 ---
 
@@ -23,20 +23,20 @@ language: "Python"
 Python tool for converting files and office documents to Markdown.
 
 - 语言: Python
-- 上榜次数: 7 次
-- 连续上榜: 7 天
+- 上榜次数: 8 次
+- 连续上榜: 1 天
 - 最高排名: #1
 - 链接: [microsoft/markitdown](https://github.com/microsoft/markitdown)
 
 ## 上榜历史
 
+  - 2026-09-08: #2, +771⭐
   - 2026-06-04: #5, +2006⭐
   - 2026-06-03: #2, +3616⭐
   - 2026-06-02: #1, +3086⭐
   - 2026-06-01: #2, +2759⭐
-  - 2026-05-31: #1, +2473⭐
 
 ## 相关项目
 
-[[the-swarm-corporation-autohedge]] [[nousresearch-hermes-agent]] [[openai-skills]] [[blader-humanizer]]
+[[bytedance-deer-flow]] [[the-swarm-corporation-autohedge]] [[openai-skills]]
 

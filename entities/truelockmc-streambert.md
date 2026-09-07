@@ -35,5 +35,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[dietrichgebert-ponytail]] [[openwhispr-openwhispr]] [[coreyhaines31-marketingskills]]
+[[jo-inc-camofox-browser]] [[affaan-m-ecc]] [[coreyhaines31-marketingskills]] [[dietrichgebert-ponytail]]
 

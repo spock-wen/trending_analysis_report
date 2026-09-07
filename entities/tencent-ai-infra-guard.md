@@ -35,7 +35,7 @@ A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skil
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[ruvnet-ruflo]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[posthog-posthog]]
+[[microsoft-markitdown]] [[ripienaar-free-for-dev]] [[openai-skills]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

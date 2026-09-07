@@ -35,7 +35,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[conardli-garden-skills]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[nousresearch-hermes-agent]] [[vercel-labs-portless]]
+[[microsoft-markitdown]] [[osmantic-ods]] [[openai-skills]] [[vercel-labs-portless]] [[freestylefly-awesome-gpt-image-2]]
 
 **所属领域**: [[image-gen]]
 

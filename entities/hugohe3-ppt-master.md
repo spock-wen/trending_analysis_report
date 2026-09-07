@@ -35,7 +35,7 @@ AI turns documents or topics into real, native PowerPoint decks—with native sh
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[livekit-agents]] [[protocolbuffers-protobuf]] [[radixark-miles]] [[anomalyco-opencode]]
+[[livekit-agents]] [[microsoft-markitdown]] [[protocolbuffers-protobuf]] [[genlayerlabs-genlayer-project-boilerplate]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]] [[erp]] [[audio]]
 

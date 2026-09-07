@@ -37,7 +37,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[pacifio-atlas]] [[nousresearch-hermes-agent]] [[mattpocock-skills]] [[anomalyco-opencode]]
+[[pacifio-atlas]] [[openai-codex]] [[heygen-com-hyperframes]] [[firecrawl-pdf-inspector]] [[bytedance-deer-flow]]
 
 **所属领域**: [[ai-agent]]
 

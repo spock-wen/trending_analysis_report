@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]] [[radixark-miles]] [[tooljet-tooljet]]
+[[pascalorg-editor]] [[obra-superpowers]] [[heygen-com-hyperframes]] [[radixark-miles]] [[tooljet-tooljet]]
 
 **所属领域**: [[erp]]
 

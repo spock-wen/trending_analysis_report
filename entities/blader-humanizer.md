@@ -38,7 +38,7 @@ Agent skill that removes signs of AI-generated writing from text
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[the-swarm-corporation-autohedge]] [[nousresearch-hermes-agent]] [[mattpocock-skills]] [[anomalyco-opencode]]
+[[microsoft-markitdown]] [[openai-skills]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]] [[the-swarm-corporation-autohedge]]
 
 **所属领域**: [[ai-agent]]
 

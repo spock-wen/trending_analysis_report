@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]] [[bikini-exploitarium]]
+[[pascalorg-editor]] [[heygen-com-hyperframes]] [[aipoch-open-science]] [[bytedance-deer-flow]] [[braveopotato-fcksignups]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

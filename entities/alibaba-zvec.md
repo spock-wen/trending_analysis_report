@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[microsoft-onnxruntime]] [[google-googletest]] [[aipoch-open-science]] [[protocolbuffers-protobuf]] [[k-dense-ai-scientific-agent-skills]]
+[[protocolbuffers-protobuf]] [[k-dense-ai-scientific-agent-skills]] [[google-googletest]] [[aipoch-open-science]] [[microsoft-onnxruntime]]
 
 **所属领域**: [[data]]
 

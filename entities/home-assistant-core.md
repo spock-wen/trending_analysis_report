@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[kaifcodec-user-scanner]]
+[[microsoft-markitdown]] [[openai-skills]] [[zhaoxuya520-reverse-skill]] [[bytedance-deer-flow]] [[the-swarm-corporation-autohedge]]
 
 **所属领域**: [[security]]
 

@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[worldflowai-everything-claude-code]] [[magnitudedev-magnitude]] [[pacifio-atlas]] [[nvm-sh-nvm]] [[mattpocock-skills]]
+[[pacifio-atlas]] [[openai-codex]] [[firecrawl-pdf-inspector]] [[mattpocock-skills]] [[worldflowai-everything-claude-code]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ A collection of MCP servers.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[anomalyco-opencode]] [[nousresearch-hermes-agent]] [[mattpocock-skills]]
+[[bytedance-deer-flow]] [[affaan-m-ecc]] [[coreyhaines31-marketingskills]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]]
 

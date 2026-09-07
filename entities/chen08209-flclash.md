@@ -35,7 +35,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[worldflowai-everything-claude-code]] [[magnitudedev-magnitude]] [[nvm-sh-nvm]] [[flutter-flutter]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[worldflowai-everything-claude-code]] [[nvm-sh-nvm]] [[magnitudedev-magnitude]] [[flutter-flutter]]
 
 **所属领域**: [[cli]]
 

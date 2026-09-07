@@ -34,5 +34,5 @@ dev tools, env vars, task runner
 
 ## 相关项目
 
-[[tinyhumansai-openhuman]] [[pacifio-atlas]] [[firecrawl-pdf-inspector]] [[openai-codex]]
+[[pacifio-atlas]] [[tinyhumansai-openhuman]] [[firecrawl-pdf-inspector]] [[openai-codex]]
 

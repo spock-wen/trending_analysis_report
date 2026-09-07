@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[conardli-garden-skills]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]] [[osmantic-ods]]
+[[protocolbuffers-protobuf]] [[osmantic-ods]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[data]] [[image-gen]]
 

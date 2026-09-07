@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[worldflowai-everything-claude-code]] [[magnitudedev-magnitude]] [[nousresearch-hermes-agent]] [[nvm-sh-nvm]]
+[[genlayerlabs-genlayer-project-boilerplate]] [[heygen-com-hyperframes]] [[radixark-miles]] [[mattpocock-skills]] [[worldflowai-everything-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

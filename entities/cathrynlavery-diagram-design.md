@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[trycua-cua]] [[ripienaar-free-for-dev]] [[nousresearch-hermes-agent]] [[anomalyco-opencode]]
+[[jo-inc-camofox-browser]] [[ripienaar-free-for-dev]] [[lightpanda-io-browser]] [[averygan-reclip]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

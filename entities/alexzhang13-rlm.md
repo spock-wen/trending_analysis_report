@@ -34,5 +34,5 @@ General plug-and-play inference library for Recursive Language Models (RLMs), su
 
 ## 相关项目
 
-[[the-swarm-corporation-autohedge]] [[nousresearch-hermes-agent]] [[openai-skills]] [[blader-humanizer]]
+[[bytedance-deer-flow]] [[microsoft-markitdown]] [[the-swarm-corporation-autohedge]] [[openai-skills]]
 

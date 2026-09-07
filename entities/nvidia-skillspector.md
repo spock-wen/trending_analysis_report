@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[kaifcodec-user-scanner]]
+[[microsoft-markitdown]] [[openai-skills]] [[heygen-com-hyperframes]] [[zhaoxuya520-reverse-skill]] [[bytedance-deer-flow]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

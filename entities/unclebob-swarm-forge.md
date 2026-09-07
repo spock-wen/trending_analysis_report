@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[penpot-penpot]] [[mattpocock-skills]] [[anomalyco-opencode]]
+[[heygen-com-hyperframes]] [[bytedance-deer-flow]] [[penpot-penpot]] [[coreyhaines31-marketingskills]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

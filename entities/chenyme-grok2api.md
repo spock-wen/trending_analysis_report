@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[worldflowai-everything-claude-code]] [[majd-ipatool]] [[jetbrains-go-modern-guidelines]] [[juliusbrussee-caveman]] [[magnitudedev-magnitude]]
+[[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[heygen-com-hyperframes]] [[tailscale-tailcat]] [[mattpocock-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

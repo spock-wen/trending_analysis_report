@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[ruvnet-ruflo]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[nousresearch-hermes-agent]]
+[[ripienaar-free-for-dev]] [[genlayerlabs-genlayer-project-boilerplate]] [[obra-superpowers]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

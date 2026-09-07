@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[majd-ipatool]] [[jetbrains-go-modern-guidelines]] [[juliusbrussee-caveman]] [[stremio-stremio-web]] [[tailscale-tailcat]]
+[[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[heygen-com-hyperframes]] [[tailscale-tailcat]] [[braveopotato-fcksignups]]
 
 **所属领域**: [[web]]
 

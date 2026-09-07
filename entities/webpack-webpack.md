@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[conardli-garden-skills]] [[dietrichgebert-ponytail]] [[osmantic-ods]] [[stremio-stremio-web]]
+[[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[osmantic-ods]] [[heygen-com-hyperframes]] [[vercel-labs-portless]]
 
 **所属领域**: [[web]] [[image-gen]]
 

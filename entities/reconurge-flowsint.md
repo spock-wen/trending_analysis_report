@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]]
+[[pascalorg-editor]] [[heygen-com-hyperframes]] [[zhaoxuya520-reverse-skill]] [[kaifcodec-user-scanner]] [[braveopotato-fcksignups]]
 
 **所属领域**: [[security]]
 

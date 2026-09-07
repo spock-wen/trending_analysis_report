@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[microsoft-onnxruntime]] [[google-googletest]] [[nousresearch-hermes-agent]] [[debpalash-voicestudio]]
+[[livekit-agents]] [[protocolbuffers-protobuf]] [[osmantic-ods]] [[heygen-com-hyperframes]] [[google-googletest]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

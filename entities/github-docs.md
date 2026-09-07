@@ -34,5 +34,5 @@ The open-source repo for docs.github.com
 
 ## 相关项目
 
-[[magnitudedev-magnitude]] [[humanlayer-skills]] [[anomalyco-opencode]] [[ruvnet-ruflo]]
+[[braveopotato-fcksignups]] [[pascalorg-editor]] [[ruvnet-ruflo]] [[heygen-com-hyperframes]]
 

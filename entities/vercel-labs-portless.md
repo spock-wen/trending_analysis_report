@@ -34,7 +34,7 @@ Replace port numbers with stable, named local URLs. For humans and agents.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[conardli-garden-skills]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]]
+[[osmantic-ods]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[freestylefly-awesome-gpt-image-2]] [[bytedance-deer-flow]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

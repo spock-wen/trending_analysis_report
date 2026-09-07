@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[averygan-reclip]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[humanlayer-skills]]
+[[jo-inc-camofox-browser]] [[livekit-agents]] [[lightpanda-io-browser]] [[osmantic-ods]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

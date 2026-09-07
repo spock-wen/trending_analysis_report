@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[thu-maic-openmaic]] [[nousresearch-hermes-agent]]
+[[microsoft-markitdown]] [[openai-skills]] [[radixark-miles]] [[thu-maic-openmaic]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[education]]
 

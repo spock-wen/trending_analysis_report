@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[conardli-garden-skills]] [[ripienaar-free-for-dev]] [[nousresearch-hermes-agent]] [[osmantic-ods]]
+[[jo-inc-camofox-browser]] [[ripienaar-free-for-dev]] [[lightpanda-io-browser]] [[protocolbuffers-protobuf]] [[osmantic-ods]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

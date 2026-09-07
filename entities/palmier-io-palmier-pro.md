@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[permissionlesstech-bitchat]] [[lakr233-vphone-cli]] [[nousresearch-hermes-agent]] [[altic-dev-fluidvoice]]
+[[jaywcjlove-awesome-mac]] [[heygen-com-hyperframes]] [[permissionlesstech-bitchat]] [[bytedance-deer-flow]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]]
 

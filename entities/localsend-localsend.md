@@ -34,7 +34,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[chen08209-flclash]] [[flutter-flutter]] [[mattpocock-skills]]
+[[heygen-com-hyperframes]] [[chen08209-flclash]] [[bytedance-deer-flow]] [[coreyhaines31-marketingskills]] [[flutter-flutter]]
 
 **所属领域**: [[ai-agent]]
 

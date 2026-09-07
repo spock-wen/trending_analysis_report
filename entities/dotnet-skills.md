@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[jellyfin-jellyfin]] [[nousresearch-hermes-agent]] [[par274-sharpemu]] [[k1tbyte-wand-enhancer]]
+[[k1tbyte-wand-enhancer]] [[jellyfin-jellyfin]] [[heygen-com-hyperframes]] [[par274-sharpemu]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[ai-agent]]
 

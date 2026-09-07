@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[ruvnet-ruflo]] [[the-swarm-corporation-autohedge]] [[blader-humanizer]] [[thu-maic-openmaic]]
+[[microsoft-markitdown]] [[openai-skills]] [[heygen-com-hyperframes]] [[radixark-miles]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

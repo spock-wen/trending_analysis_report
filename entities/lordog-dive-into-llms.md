@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[nousresearch-hermes-agent]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[anomalyco-opencode]]
+[[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

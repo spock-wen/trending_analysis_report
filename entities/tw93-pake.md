@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[worldflowai-everything-claude-code]] [[magnitudedev-magnitude]] [[pacifio-atlas]] [[stremio-stremio-web]] [[nvm-sh-nvm]]
+[[pacifio-atlas]] [[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[openai-codex]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[web]] [[cli]]
 

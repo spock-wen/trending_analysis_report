@@ -34,7 +34,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[ruvnet-ruflo]] [[magnitudedev-magnitude]] [[posthog-posthog]] [[humanlayer-skills]]
+[[ripienaar-free-for-dev]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[tencent-ai-infra-guard]] [[bytedance-deer-flow]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

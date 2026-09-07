@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[trycua-cua]] [[bikini-exploitarium]] [[ripienaar-free-for-dev]] [[nousresearch-hermes-agent]]
+[[jo-inc-camofox-browser]] [[ripienaar-free-for-dev]] [[lightpanda-io-browser]] [[averygan-reclip]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

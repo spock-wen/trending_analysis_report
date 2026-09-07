@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[conardli-garden-skills]] [[dietrichgebert-ponytail]] [[nousresearch-hermes-agent]] [[osmantic-ods]]
+[[jo-inc-camofox-browser]] [[osmantic-ods]] [[heygen-com-hyperframes]] [[vercel-labs-portless]] [[freestylefly-awesome-gpt-image-2]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

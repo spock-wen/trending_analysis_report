@@ -38,7 +38,7 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[averygan-reclip]] [[dietrichgebert-ponytail]] [[nousresearch-hermes-agent]] [[stremio-stremio-web]]
+[[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]] [[dietrichgebert-ponytail]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

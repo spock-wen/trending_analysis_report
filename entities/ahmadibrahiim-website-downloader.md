@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[conardli-garden-skills]] [[trycua-cua]] [[ripienaar-free-for-dev]] [[stremio-stremio-web]] [[cathrynlavery-diagram-design]]
+[[jo-inc-camofox-browser]] [[ripienaar-free-for-dev]] [[lightpanda-io-browser]] [[osmantic-ods]] [[averygan-reclip]]
 
 **所属领域**: [[web]] [[image-gen]]
 

@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[worldflowai-everything-claude-code]] [[magnitudedev-magnitude]] [[nvm-sh-nvm]] [[mattpocock-skills]] [[obra-superpowers]]
+[[obra-superpowers]] [[mattpocock-skills]] [[worldflowai-everything-claude-code]] [[magnitudedev-magnitude]] [[nvm-sh-nvm]]
 
 **所属领域**: [[cli]]
 

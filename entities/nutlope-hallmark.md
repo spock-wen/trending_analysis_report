@@ -38,7 +38,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[heygen-com-hyperframes]] [[diolinux-photogimp]] [[bytedance-deer-flow]]
+[[multica-ai-andrej-karpathy-skills]] [[conardli-garden-skills]] [[openai-plugins]] [[cathrynlavery-diagram-design]] [[jo-inc-camofox-browser]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[affaan-m-ecc]] [[coreyhaines31-marketingskills]] [[heygen-com-hyperframes]]
+[[obra-superpowers]] [[multica-ai-andrej-karpathy-skills]] [[affaan-m-ecc]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]]
 

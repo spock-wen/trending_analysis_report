@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[ripienaar-free-for-dev]] [[lightpanda-io-browser]] [[averygan-reclip]] [[heygen-com-hyperframes]]
+[[multica-ai-andrej-karpathy-skills]] [[cathrynlavery-diagram-design]] [[openai-plugins]] [[jo-inc-camofox-browser]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[radixark-miles]] [[thu-maic-openmaic]] [[rohitg00-ai-engineering-from-scratch]] [[aipoch-open-science]]
+[[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

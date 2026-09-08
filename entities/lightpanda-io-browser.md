@@ -34,7 +34,7 @@ Lightpanda: the headless browser designed for AI and automation
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]] [[braveopotato-fcksignups]] [[coreyhaines31-marketingskills]]
+[[multica-ai-andrej-karpathy-skills]] [[cathrynlavery-diagram-design]] [[openai-plugins]] [[jo-inc-camofox-browser]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

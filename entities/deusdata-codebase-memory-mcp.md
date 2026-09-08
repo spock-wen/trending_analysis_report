@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[antirez-ds4]] [[protocolbuffers-protobuf]] [[harbourmasters-lighthouse]] [[heygen-com-hyperframes]] [[microsoft-powertoys]]
+[[multica-ai-andrej-karpathy-skills]] [[k-dense-ai-scientific-agent-skills]] [[antirez-ds4]] [[openai-plugins]] [[harbourmasters-lighthouse]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

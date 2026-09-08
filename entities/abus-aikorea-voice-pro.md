@@ -34,7 +34,7 @@ Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) a
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[microsoft-markitdown]] [[lightpanda-io-browser]] [[osmantic-ods]] [[livekit-agents]]
+[[multica-ai-andrej-karpathy-skills]] [[cathrynlavery-diagram-design]] [[openai-skills]] [[openai-plugins]] [[jo-inc-camofox-browser]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

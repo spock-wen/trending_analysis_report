@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[mattpocock-skills]] [[worldflowai-everything-claude-code]] [[bytedance-deer-flow]] [[kaifcodec-user-scanner]]
+[[multica-ai-andrej-karpathy-skills]] [[aipoch-open-science]] [[raphire-win11debloat]] [[openai-plugins]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

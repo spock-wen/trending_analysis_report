@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[openai-skills]] [[zhaoxuya520-reverse-skill]] [[bytedance-deer-flow]] [[the-swarm-corporation-autohedge]]
+[[zhaoxuya520-reverse-skill]] [[openai-skills]] [[ayghri-i-have-adhd]] [[affaan-m-ecc]] [[openwhispr-openwhispr]]
 
 **所属领域**: [[security]]
 

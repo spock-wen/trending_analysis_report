@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[heygen-com-hyperframes]] [[bannedbook-fanqiang]] [[embabel-embabel-agent]]
+[[bannedbook-fanqiang]] [[andreknieriem-headunit-revived]] [[cathrynlavery-diagram-design]] [[mahlernim-google-timeline-visualizer]] [[jo-inc-camofox-browser]]
 
 **所属领域**: [[web]]
 

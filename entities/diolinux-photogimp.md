@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[genlayerlabs-genlayer-project-boilerplate]] [[obra-superpowers]] [[heygen-com-hyperframes]]
+[[tooljet-tooljet]] [[cathrynlavery-diagram-design]] [[conardli-garden-skills]] [[nutlope-hallmark]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[erp]]
 

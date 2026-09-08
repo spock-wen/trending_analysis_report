@@ -38,7 +38,7 @@ Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案�
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[osmantic-ods]] [[heygen-com-hyperframes]] [[vercel-labs-portless]] [[bytedance-deer-flow]]
+[[multica-ai-andrej-karpathy-skills]] [[conardli-garden-skills]] [[openai-plugins]] [[osmantic-ods]] [[vercel-labs-portless]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

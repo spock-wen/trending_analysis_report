@@ -35,7 +35,7 @@ Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex 
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]]
+[[moontechlab-lunatv]] [[multica-ai-andrej-karpathy-skills]] [[cathrynlavery-diagram-design]] [[pascalorg-editor]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[tencent-ai-infra-guard]] [[braveopotato-fcksignups]]
+[[moontechlab-lunatv]] [[pascalorg-editor]] [[ruvnet-ruflo]] [[posthog-posthog]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[devops]]
 

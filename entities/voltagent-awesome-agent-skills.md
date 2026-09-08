@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[mattpocock-skills]] [[worldflowai-everything-claude-code]] [[bytedance-deer-flow]] [[coreyhaines31-marketingskills]]
+[[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[nvm-sh-nvm]] [[affaan-m-ecc]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

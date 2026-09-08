@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[livekit-agents]] [[lightpanda-io-browser]] [[osmantic-ods]] [[pascalorg-editor]]
+[[moontechlab-lunatv]] [[multica-ai-andrej-karpathy-skills]] [[cathrynlavery-diagram-design]] [[pascalorg-editor]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

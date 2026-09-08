@@ -34,5 +34,5 @@ Free and Open Source Machine Translation API. Self-hosted, offline capable and e
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[microsoft-markitdown]] [[the-swarm-corporation-autohedge]] [[openai-skills]]
+[[openai-skills]] [[ayghri-i-have-adhd]] [[browser-use-browser-use]] [[microsoft-markitdown]]
 

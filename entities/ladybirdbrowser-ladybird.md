@@ -35,7 +35,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[protocolbuffers-protobuf]] [[lightpanda-io-browser]] [[heygen-com-hyperframes]] [[google-googletest]]
+[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[fmtlib-fmt]] [[google-googletest]] [[jo-inc-camofox-browser]]
 
 **所属领域**: [[web]]
 

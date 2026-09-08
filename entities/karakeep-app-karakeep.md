@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[osmantic-ods]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[vercel-labs-portless]] [[freestylefly-awesome-gpt-image-2]]
+[[moontechlab-lunatv]] [[multica-ai-andrej-karpathy-skills]] [[conardli-garden-skills]] [[pascalorg-editor]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

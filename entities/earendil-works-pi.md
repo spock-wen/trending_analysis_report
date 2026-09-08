@@ -35,7 +35,7 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[mattpocock-skills]]
+[[moontechlab-lunatv]] [[multica-ai-andrej-karpathy-skills]] [[cathrynlavery-diagram-design]] [[pascalorg-editor]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

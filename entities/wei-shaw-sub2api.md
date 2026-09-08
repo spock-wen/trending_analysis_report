@@ -34,7 +34,7 @@ Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[tailscale-tailcat]] [[bytedance-deer-flow]] [[coreyhaines31-marketingskills]] [[juliusbrussee-caveman]]
+[[multica-ai-andrej-karpathy-skills]] [[jetbrains-go-modern-guidelines]] [[openai-plugins]] [[affaan-m-ecc]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

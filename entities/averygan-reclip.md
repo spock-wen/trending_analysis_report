@@ -35,7 +35,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[ripienaar-free-for-dev]] [[lightpanda-io-browser]] [[heygen-com-hyperframes]] [[mattpocock-skills]]
+[[cathrynlavery-diagram-design]] [[nvm-sh-nvm]] [[ripienaar-free-for-dev]] [[obra-superpowers]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[cli]]
 

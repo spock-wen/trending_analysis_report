@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[pacifio-atlas]] [[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[openai-codex]] [[heygen-com-hyperframes]]
+[[cathrynlavery-diagram-design]] [[nvm-sh-nvm]] [[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]] [[openai-codex]]
 
 **所属领域**: [[web]] [[cli]]
 

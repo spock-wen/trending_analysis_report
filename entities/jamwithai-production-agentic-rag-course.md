@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[openai-skills]] [[heygen-com-hyperframes]] [[radixark-miles]] [[thu-maic-openmaic]]
+[[multica-ai-andrej-karpathy-skills]] [[openai-skills]] [[openai-plugins]] [[ruvnet-ruflo]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

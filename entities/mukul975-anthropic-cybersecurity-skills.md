@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[openai-skills]] [[heygen-com-hyperframes]] [[zhaoxuya520-reverse-skill]] [[mattpocock-skills]]
+[[multica-ai-andrej-karpathy-skills]] [[zhaoxuya520-reverse-skill]] [[openai-skills]] [[openai-plugins]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

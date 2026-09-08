@@ -38,7 +38,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]] [[microsoft-ai-for-beginners]] [[coreyhaines31-marketingskills]]
+[[multica-ai-andrej-karpathy-skills]] [[microsoft-generative-ai-for-beginners]] [[openai-plugins]] [[affaan-m-ecc]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

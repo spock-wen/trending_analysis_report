@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[openai-skills]] [[aipoch-open-science]] [[bytedance-deer-flow]] [[the-swarm-corporation-autohedge]]
+[[openai-skills]] [[ayghri-i-have-adhd]] [[affaan-m-ecc]] [[bytedance-deer-flow]] [[microsoft-markitdown]]
 
 **所属领域**: [[science]]
 

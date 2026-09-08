@@ -34,7 +34,7 @@ Socket-based TS/JavaScript API for WhatsApp Web
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]] [[dietrichgebert-ponytail]]
+[[multica-ai-andrej-karpathy-skills]] [[cathrynlavery-diagram-design]] [[openai-plugins]] [[affaan-m-ecc]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[bytedance-deer-flow]] [[penpot-penpot]] [[coreyhaines31-marketingskills]] [[affaan-m-ecc]]
+[[multica-ai-andrej-karpathy-skills]] [[penpot-penpot]] [[openai-plugins]] [[affaan-m-ecc]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

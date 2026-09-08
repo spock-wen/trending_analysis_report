@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[pacifio-atlas]] [[genlayerlabs-genlayer-project-boilerplate]] [[obra-superpowers]] [[openai-codex]] [[heygen-com-hyperframes]]
+[[multica-ai-andrej-karpathy-skills]] [[tooljet-tooljet]] [[openai-plugins]] [[firecrawl-pdf-inspector]] [[radixark-miles]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

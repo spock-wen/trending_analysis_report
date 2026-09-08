@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[protocolbuffers-protobuf]] [[pascalorg-editor]] [[heygen-com-hyperframes]]
+[[moontechlab-lunatv]] [[k-dense-ai-scientific-agent-skills]] [[cathrynlavery-diagram-design]] [[pascalorg-editor]] [[mksglu-context-mode]]
 
 **所属领域**: [[web]] [[data]]
 

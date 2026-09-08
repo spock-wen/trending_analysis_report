@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[protocolbuffers-protobuf]] [[checkstyle-checkstyle]] [[ruvnet-ruflo]] [[k-dense-ai-scientific-agent-skills]]
+[[google-guava]] [[k-dense-ai-scientific-agent-skills]] [[ruvnet-ruflo]] [[posthog-posthog]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[data]] [[devops]]
 

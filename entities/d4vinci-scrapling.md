@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[microsoft-markitdown]] [[lightpanda-io-browser]] [[heygen-com-hyperframes]] [[openai-skills]]
+[[cathrynlavery-diagram-design]] [[openai-skills]] [[ayghri-i-have-adhd]] [[microsoft-markitdown]] [[jo-inc-camofox-browser]]
 
 **所属领域**: [[web]]
 

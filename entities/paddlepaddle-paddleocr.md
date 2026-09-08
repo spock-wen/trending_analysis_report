@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[protocolbuffers-protobuf]] [[osmantic-ods]] [[openai-skills]] [[heygen-com-hyperframes]]
+[[multica-ai-andrej-karpathy-skills]] [[k-dense-ai-scientific-agent-skills]] [[freestylefly-awesome-gpt-image-2]] [[conardli-garden-skills]] [[openai-skills]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

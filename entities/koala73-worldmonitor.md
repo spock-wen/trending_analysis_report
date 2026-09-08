@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[tencent-ai-infra-guard]] [[bytedance-deer-flow]]
+[[moontechlab-lunatv]] [[multica-ai-andrej-karpathy-skills]] [[pascalorg-editor]] [[openai-plugins]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

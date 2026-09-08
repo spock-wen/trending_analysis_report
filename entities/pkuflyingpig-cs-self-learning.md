@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[ripienaar-free-for-dev]] [[lightpanda-io-browser]] [[averygan-reclip]] [[heygen-com-hyperframes]]
+[[cathrynlavery-diagram-design]] [[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[averygan-reclip]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[web]] [[education]]
 

@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[pascalorg-editor]] [[heygen-com-hyperframes]] [[mattpocock-skills]] [[worldflowai-everything-claude-code]] [[braveopotato-fcksignups]]
+[[moontechlab-lunatv]] [[pascalorg-editor]] [[nvm-sh-nvm]] [[mksglu-context-mode]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

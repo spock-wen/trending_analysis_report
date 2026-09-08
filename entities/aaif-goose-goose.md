@@ -36,7 +36,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[pacifio-atlas]] [[openai-codex]] [[heygen-com-hyperframes]] [[firecrawl-pdf-inspector]] [[bytedance-deer-flow]]
+[[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]] [[openai-codex]]
 
 **所属领域**: [[ai-agent]]
 

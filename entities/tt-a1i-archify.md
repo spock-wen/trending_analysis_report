@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[protocolbuffers-protobuf]] [[heygen-com-hyperframes]] [[k-dense-ai-scientific-agent-skills]]
+[[multica-ai-andrej-karpathy-skills]] [[k-dense-ai-scientific-agent-skills]] [[cathrynlavery-diagram-design]] [[openai-plugins]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

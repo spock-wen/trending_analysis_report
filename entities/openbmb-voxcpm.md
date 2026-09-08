@@ -38,7 +38,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[livekit-agents]] [[microsoft-markitdown]] [[osmantic-ods]] [[openai-skills]] [[vercel-labs-portless]]
+[[conardli-garden-skills]] [[openai-skills]] [[osmantic-ods]] [[debpalash-voicestudio]] [[vercel-labs-portless]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

@@ -37,7 +37,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[livekit-agents]] [[microsoft-markitdown]] [[osmantic-ods]] [[openai-skills]] [[heygen-com-hyperframes]]
+[[multica-ai-andrej-karpathy-skills]] [[openai-skills]] [[openai-plugins]] [[osmantic-ods]] [[livekit-agents]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

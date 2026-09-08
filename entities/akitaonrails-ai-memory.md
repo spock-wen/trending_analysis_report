@@ -36,7 +36,7 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 ## 相关项目
 
-[[pacifio-atlas]] [[openai-codex]] [[heygen-com-hyperframes]] [[firecrawl-pdf-inspector]] [[mattpocock-skills]]
+[[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[nvm-sh-nvm]] [[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

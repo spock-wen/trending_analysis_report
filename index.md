@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-09-08 | 总页面：567
+> 最后更新：2026-09-09 | 总页面：568
 
 ## Entities
 
@@ -73,7 +73,7 @@
 - [[averygan-reclip|reclip"]] — Download videos from almost any website. Lightweight, self-h...
 - [[aws-agent-toolkit-for-aws|agent-toolkit-for-aws"]] — Official, AWS-supported MCP servers, skills, and plugins to ... 🆕
 - [[axorax-awesome-free-apps|awesome-free-apps"]] — Curated list of the best free apps for PC and mobile 🔥
-- [[ayghri-i-have-adhd|i-have-adhd"]] — A skill for your coding agent to stop it from burying the an... 🆕
+- [[ayghri-i-have-adhd|i-have-adhd"]] — A skill to stop your coding agent from burying the answer. A...
 - [[bannedbook-fanqiang|fanqiang"]] — 翻墙-科学上网 🆕
 - [[basecamp-omarchy|omarchy"]] — Beautiful, Modern & Opinionated Linux 🔥
 - [[bigbodycobain-shadowbroker|Shadowbroker"]] — Open-source intelligence for the global theater. Track every... 🆕
@@ -100,7 +100,7 @@
 - [[can1357-oh-my-pi|oh-my-pi"]] — ⌥ AI Coding agent for the terminal — hash-anchored edits, op...
 - [[canner-wrenai|WrenAI"]] — GenBI (Generative BI) for AI agents, an open-source, governe...
 - [[catchorg-catch2|Catch2"]] — A modern, C++-native, test framework for unit-tests, TDD and... 🆕
-- [[cathrynlavery-diagram-design|diagram-design"]] — 38 editorial diagram types for Claude Code, Codex, and Pi. S... 🔥
+- [[cathrynlavery-diagram-design|diagram-design"]] — 38 editorial diagram types for Claude Code, Codex, and Pi. S...
 - [[chachamaru127-claude-code-harness|claude-code-harness"]] — Claude Code Dedicated Development Harness - Achieving High-Q...
 - [[chaitanyagiri-munder-difflin|munder-difflin"]] — local multi-agent harness 🔥
 - [[chatwoot-chatwoot|chatwoot"]] — Open-source live-chat, email support, omni-channel desk. An ...
@@ -129,7 +129,7 @@
 - [[coplaydev-unity-mcp|unity-mcp"]] — Unity MCP acts as a bridge between AI assistants and your Un... 🆕
 - [[cordiverse-cordis|cordis"]] — Meta-Framework of Spatiotemporal Composability 🔥
 - [[corebunch-instatic|Instatic"]] — The open-source alternative to Webflow, Framer and WordPress... 🆕
-- [[coreyhaines31-marketingskills|marketingskills"]] — Marketing skills for Claude Code and AI agents. CRO, copywri... 🆕
+- [[coreyhaines31-marketingskills|marketingskills"]] — Marketing skills for Claude Code and AI agents. CRO, copywri... 🔥
 - [[corsairdev-corsair|corsair"]] — Connect your users to their apps
 - [[crosstalk-solutions-project-nomad|project-nomad"]] — Project N.O.M.A.D, is a self-contained, offline survival com...
 - [[crynta-terax-ai|terax-ai"]] — Lightweight (7MB) Terminal-first AI-native dev workspace
@@ -223,7 +223,7 @@
 - [[henryndubuaku-maths-cs-ai-compendium|maths-cs-ai-compendium"]] — Become a cracked AI/ML Research Engineer
 - [[hesreallyhim-awesome-claude-code|awesome-claude-code"]] — A hand-picked collection of the finest of resources for the ...
 - [[hexo-ai-sia|sia"]] — SIA is a Self Improving AI framework to autonomously improve...
-- [[heygen-com-hyperframes|hyperframes"]] — Write HTML. Render video. Built for agents.
+- [[heygen-com-hyperframes|hyperframes"]] — Write HTML. Render video. Built for agents. 🆕
 - [[hkuds-cli-anything|CLI-Anything"]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:...
 - [[hkuds-deeptutor|DeepTutor"]] — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor...
 - [[hkuds-vibe-trading|Vibe-Trading"]] — "Vibe-Trading: Your Personal Trading Agent" 🔥
@@ -294,7 +294,7 @@
 - [[libretranslate-libretranslate|LibreTranslate"]] — Free and Open Source Machine Translation API. Self-hosted, o...
 - [[light-heart-labs-dreamserver|DreamServer"]] — Local AI anywhere, for everyone — LLM inference, chat UI, vo...
 - [[lightningpixel-modly|modly"]] — Desktop app to generate 3D models from images or prompt usin... 🆕
-- [[lightpanda-io-browser|browser"]] — Lightpanda: the headless browser designed for AI and automat... 🆕
+- [[lightpanda-io-browser|browser"]] — Lightpanda: the headless browser designed for AI and automat...
 - [[lightricks-ltx-2|LTX-2"]] — Official Python inference and LoRA trainer package for the L... 🆕
 - [[likec4-likec4|likec4"]] — Visualize, collaborate, and evolve the software architecture... 🔥
 - [[litu54-devops-interview-guide|DevOps-Interview-Guide"]] — DevOps Interview Guide
@@ -334,7 +334,7 @@
 - [[microsoft-ai-agents-for-beginners|ai-agents-for-beginners"]] — 12 Lessons to Get Started Building AI Agents 🔥
 - [[microsoft-ai-for-beginners|AI-For-Beginners"]] — 12 Weeks, 24 Lessons, AI for All! 🔥
 - [[microsoft-generative-ai-for-beginners|generative-ai-for-beginners"]] — 21 Lessons, Get Started Building with Generative AI 🔥
-- [[microsoft-markitdown|markitdown"]] — Python tool for converting files and office documents to Mar...
+- [[microsoft-markitdown|markitdown"]] — Python tool for converting files and office documents to Mar... 🆕
 - [[microsoft-onnxruntime|onnxruntime"]] — ONNX Runtime: cross-platform, high performance ML inferencin...
 - [[microsoft-ontology-playground|Ontology-Playground"]] — Free, open-source web app for learning about ontologies and ... 🆕
 - [[microsoft-powertoys|PowerToys"]] — Microsoft PowerToys is a collection of utilities that superc...
@@ -352,7 +352,7 @@
 - [[moontechlab-lunatv|LunaTV"]] — 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 🆕
 - [[msitarzewski-agency-agents|agency-agents"]] — A complete AI agency at your fingertips - From frontend wiza... 🔥
 - [[mukul975-anthropic-cybersecurity-skills|Anthropic-Cybersecurity-Skills"]] — 817 structured cybersecurity skills for AI agents · Mapped t... 🔥
-- [[multica-ai-andrej-karpathy-skills|andrej-karpathy-skills"]] — A single CLAUDE.md file to improve Claude Code behavior, der... 🆕
+- [[multica-ai-andrej-karpathy-skills|andrej-karpathy-skills"]] — A single CLAUDE.md file to improve Claude Code behavior, der...
 - [[multica-ai-multica|multica"]] — The open-source managed agents platform. Turn coding agents ... 🆕
 - [[music-assistant-server|server"]] — Music Assistant is a free, opensource Media library manager ... 🔥
 - [[mvanhorn-last30days-skill|last30days-skill"]] — AI agent skill that researches any topic across Reddit, X, Y...
@@ -385,7 +385,7 @@
 - [[openai-codex-plugin-cc|codex-plugin-cc"]] — Use Codex from Claude Code to review code or delegate tasks. 🔥
 - [[openai-codex|codex"]] — Lightweight coding agent that runs in your terminal 🆕
 - [[openai-plugins|plugins"]] — OpenAI Plugins
-- [[openai-skills|skills"]] — Skills Catalog for Codex 🆕
+- [[openai-skills|skills"]] — Skills Catalog for Codex 🔥
 - [[openbmb-voxcpm|VoxCPM"]] — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generati...
 - [[openclaw-openclaw-windows-node|openclaw-windows-node"]] — Windows companion suite for OpenClaw - System Tray app, Shar... 🆕
 - [[openclaw-openclaw|openclaw"]] — Your own personal AI assistant. Any OS. Any Platform. The lo...
@@ -495,7 +495,7 @@
 - [[tencentcloud-tencentdb-agent-memory|TencentDB-Agent-Memory"]] — TencentDB Agent Memory is a team-level memory hub for AI Age... 🔥
 - [[teng-lin-notebooklm-py|notebooklm-py"]] — Unofficial Python API and agentic skill for Google NotebookL...
 - [[teslamate-org-teslamate|teslamate"]] — A self-hosted data logger for your Tesla 🚘 [main maintainer=... 🆕
-- [[the-swarm-corporation-autohedge|AutoHedge"]] — Build your autonomous hedge fund in minutes. AutoHedge harne... 🆕
+- [[the-swarm-corporation-autohedge|AutoHedge"]] — Build your autonomous hedge fund in minutes. AutoHedge harne... 🔥
 - [[thedotmack-claude-mem|claude-mem"]] — Persistent Context Across Sessions for Every Agent – Capture...
 - [[thu-maic-openmaic|OpenMAIC"]] — Open Multi-Agent Interactive Classroom — Get an immersive, m... 🔥
 - [[tinyhumansai-openhuman|openhuman"]] — Your Personal AI super intelligence. A brain that builds a l... 🔥
@@ -523,6 +523,7 @@
 - [[usestrix-strix|strix"]] — Open-source AI penetration testing tool to find and fix your...
 - [[veracrypt-veracrypt|VeraCrypt"]] — Disk encryption with strong security based on TrueCrypt
 - [[vercel-labs-portless|portless"]] — Replace port numbers with stable, named local URLs. For huma...
+- [[viarotel-org-escrcpy|escrcpy"]] — 📱 Display and control your Android device graphically with s... 🆕
 - [[virattt-ai-hedge-fund|ai-hedge-fund"]] — An AI Hedge Fund Team
 - [[virgiliojr94-book-to-skill|book-to-skill"]] — Turn any technical book PDF into a Claude Code skill — ready... 🆕
 - [[vitali87-code-graph-rag|code-graph-rag"]] — The ultimate RAG for your monorepo. Query, understand, and e... 🔥

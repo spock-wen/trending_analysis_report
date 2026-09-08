@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[openai-skills]] [[radixark-miles]] [[thu-maic-openmaic]] [[rohitg00-ai-engineering-from-scratch]]
+[[openai-skills]] [[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[ayghri-i-have-adhd]] [[affaan-m-ecc]]
 
 **所属领域**: [[education]] [[science]]
 

@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[openai-skills]] [[radixark-miles]] [[thu-maic-openmaic]] [[rohitg00-ai-engineering-from-scratch]]
+[[openai-skills]] [[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[ayghri-i-have-adhd]] [[thu-maic-openmaic]]
 
 **所属领域**: [[education]]
 

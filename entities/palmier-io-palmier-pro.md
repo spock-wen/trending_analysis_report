@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[jaywcjlove-awesome-mac]] [[heygen-com-hyperframes]] [[permissionlesstech-bitchat]] [[bytedance-deer-flow]] [[altic-dev-fluidvoice]]
+[[jaywcjlove-awesome-mac]] [[multica-ai-andrej-karpathy-skills]] [[lakr233-vphone-cli]] [[openai-plugins]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

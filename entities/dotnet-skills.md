@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[k1tbyte-wand-enhancer]] [[jellyfin-jellyfin]] [[heygen-com-hyperframes]] [[par274-sharpemu]] [[dotnet-aspnetcore]]
+[[k1tbyte-wand-enhancer]] [[par274-sharpemu]] [[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[jellyfin-jellyfin]]
 
 **所属领域**: [[ai-agent]]
 

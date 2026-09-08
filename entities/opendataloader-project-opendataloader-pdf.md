@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[checkstyle-checkstyle]] [[heygen-com-hyperframes]] [[k-dense-ai-scientific-agent-skills]] [[aipoch-open-science]]
+[[multica-ai-andrej-karpathy-skills]] [[google-guava]] [[k-dense-ai-scientific-agent-skills]] [[openai-plugins]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

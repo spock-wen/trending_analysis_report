@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[osmantic-ods]] [[heygen-com-hyperframes]] [[vercel-labs-portless]] [[freestylefly-awesome-gpt-image-2]]
+[[multica-ai-andrej-karpathy-skills]] [[conardli-garden-skills]] [[openai-plugins]] [[osmantic-ods]] [[vercel-labs-portless]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

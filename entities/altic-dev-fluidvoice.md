@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[livekit-agents]] [[lightpanda-io-browser]] [[osmantic-ods]] [[jaywcjlove-awesome-mac]]
+[[jaywcjlove-awesome-mac]] [[multica-ai-andrej-karpathy-skills]] [[lakr233-vphone-cli]] [[cathrynlavery-diagram-design]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

@@ -35,7 +35,7 @@ like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[heygen-com-hyperframes]] [[k-dense-ai-scientific-agent-skills]] [[aipoch-open-science]] [[bytedance-deer-flow]]
+[[multica-ai-andrej-karpathy-skills]] [[k-dense-ai-scientific-agent-skills]] [[jetbrains-go-modern-guidelines]] [[openai-plugins]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

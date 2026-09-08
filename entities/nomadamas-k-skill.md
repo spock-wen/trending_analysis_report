@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]] [[dietrichgebert-ponytail]] [[coreyhaines31-marketingskills]]
+[[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[affaan-m-ecc]] [[obra-superpowers]] [[coreyhaines31-marketingskills]]
 
 **所属领域**: [[ai-agent]]
 

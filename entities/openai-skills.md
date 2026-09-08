@@ -1,20 +1,20 @@
 ---
 title: "openai/skills"
 created: 2026-09-07
-updated: 2026-09-08
-last_active: 2026-09-08
+updated: 2026-09-09
+last_active: 2026-09-09
 type: tool
-tags: [python, ai-agent]
-sources: [raw/trending/2026-09-08.json]
-confidence: medium
-trending_count_daily: 2
+tags: [python, ai-agent, rising]
+sources: [raw/trending/2026-09-09.json]
+confidence: high
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 3
 first_trending: 2026-09-07
-last_trending: 2026-09-08
-peak_rank: 5
-total_stars: 26014
+last_trending: 2026-09-09
+peak_rank: 3
+total_stars: 26484
 language: "Python"
 ---
 
@@ -23,19 +23,20 @@ language: "Python"
 Skills Catalog for Codex
 
 - 语言: Python
-- 上榜次数: 2 次
-- 连续上榜: 2 天
-- 最高排名: #5
+- 上榜次数: 3 次
+- 连续上榜: 3 天
+- 最高排名: #3
 - 链接: [openai/skills](https://github.com/openai/skills)
 
 ## 上榜历史
 
+  - 2026-09-09: #3, +490⭐
   - 2026-09-08: #11, +372⭐
   - 2026-09-07: #5, +44⭐
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]] [[the-swarm-corporation-autohedge]] [[coreyhaines31-marketingskills]]
+[[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[ayghri-i-have-adhd]] [[affaan-m-ecc]] [[microsoft-markitdown]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[livekit-agents]] [[protocolbuffers-protobuf]] [[osmantic-ods]] [[heygen-com-hyperframes]] [[google-googletest]]
+[[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[osmantic-ods]] [[fmtlib-fmt]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[pacifio-atlas]] [[protocolbuffers-protobuf]] [[openai-codex]] [[k-dense-ai-scientific-agent-skills]] [[firecrawl-pdf-inspector]]
+[[k-dense-ai-scientific-agent-skills]] [[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]] [[openai-codex]] [[coreyhaines31-marketingskills]]
 
 **所属领域**: [[data]]
 

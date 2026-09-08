@@ -34,7 +34,7 @@ Lightweight (7MB) Terminal-first AI-native dev workspace
 
 ## 相关项目
 
-[[pascalorg-editor]] [[heygen-com-hyperframes]] [[mattpocock-skills]] [[worldflowai-everything-claude-code]] [[bytedance-deer-flow]]
+[[moontechlab-lunatv]] [[multica-ai-andrej-karpathy-skills]] [[pascalorg-editor]] [[openai-plugins]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

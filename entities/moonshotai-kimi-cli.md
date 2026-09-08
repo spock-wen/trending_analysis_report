@@ -36,7 +36,7 @@ Kimi Code CLI is your next CLI agent.
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[openai-skills]] [[heygen-com-hyperframes]] [[mattpocock-skills]] [[worldflowai-everything-claude-code]]
+[[multica-ai-andrej-karpathy-skills]] [[openai-skills]] [[openai-plugins]] [[nvm-sh-nvm]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

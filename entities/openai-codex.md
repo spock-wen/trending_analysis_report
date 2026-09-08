@@ -36,7 +36,7 @@ Lightweight coding agent that runs in your terminal
 
 ## 相关项目
 
-[[pacifio-atlas]] [[heygen-com-hyperframes]] [[firecrawl-pdf-inspector]] [[mattpocock-skills]] [[worldflowai-everything-claude-code]]
+[[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[nvm-sh-nvm]] [[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

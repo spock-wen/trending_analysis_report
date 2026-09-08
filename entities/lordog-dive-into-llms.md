@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]] [[microsoft-ai-for-beginners]]
+[[multica-ai-andrej-karpathy-skills]] [[microsoft-generative-ai-for-beginners]] [[openai-plugins]] [[lyogavin-airllm]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

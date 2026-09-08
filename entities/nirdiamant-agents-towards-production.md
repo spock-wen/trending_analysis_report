@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[genlayerlabs-genlayer-project-boilerplate]] [[obra-superpowers]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]]
+[[genlayerlabs-genlayer-project-boilerplate]] [[multica-ai-andrej-karpathy-skills]] [[tooljet-tooljet]] [[microsoft-generative-ai-for-beginners]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

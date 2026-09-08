@@ -34,7 +34,7 @@ ONNX Runtime: cross-platform, high performance ML inferencing and training accel
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[heygen-com-hyperframes]] [[google-googletest]] [[bytedance-deer-flow]] [[fmtlib-fmt]]
+[[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[fmtlib-fmt]] [[affaan-m-ecc]] [[google-googletest]]
 
 **所属领域**: [[ai-agent]]
 

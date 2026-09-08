@@ -37,7 +37,7 @@ Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture cod
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[heygen-com-hyperframes]] [[k-dense-ai-scientific-agent-skills]] [[tailscale-tailcat]] [[aipoch-open-science]]
+[[multica-ai-andrej-karpathy-skills]] [[k-dense-ai-scientific-agent-skills]] [[jetbrains-go-modern-guidelines]] [[openai-plugins]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

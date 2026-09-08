@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[ripienaar-free-for-dev]] [[lightpanda-io-browser]] [[protocolbuffers-protobuf]] [[osmantic-ods]]
+[[multica-ai-andrej-karpathy-skills]] [[k-dense-ai-scientific-agent-skills]] [[freestylefly-awesome-gpt-image-2]] [[cathrynlavery-diagram-design]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

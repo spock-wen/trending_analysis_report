@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[openai-skills]] [[mattpocock-skills]] [[worldflowai-everything-claude-code]] [[bytedance-deer-flow]]
+[[openai-skills]] [[nvm-sh-nvm]] [[ayghri-i-have-adhd]] [[microsoft-markitdown]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

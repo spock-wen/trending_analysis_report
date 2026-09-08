@@ -38,7 +38,7 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[openai-skills]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]] [[the-swarm-corporation-autohedge]]
+[[multica-ai-andrej-karpathy-skills]] [[openai-skills]] [[openai-plugins]] [[ayghri-i-have-adhd]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

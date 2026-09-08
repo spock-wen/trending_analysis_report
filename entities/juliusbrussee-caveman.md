@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[tailscale-tailcat]] [[bytedance-deer-flow]] [[coreyhaines31-marketingskills]] [[jetbrains-go-modern-guidelines]]
+[[multica-ai-andrej-karpathy-skills]] [[jetbrains-go-modern-guidelines]] [[openai-plugins]] [[affaan-m-ecc]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

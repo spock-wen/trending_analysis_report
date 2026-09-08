@@ -34,7 +34,7 @@ Source control for agents. Use multiple coding agents, track their changes and q
 
 ## 相关项目
 
-[[openai-codex]] [[heygen-com-hyperframes]] [[firecrawl-pdf-inspector]] [[bytedance-deer-flow]] [[tinyhumansai-openhuman]]
+[[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]] [[openai-codex]]
 
 **所属领域**: [[ai-agent]]
 

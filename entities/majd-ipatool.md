@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[mattpocock-skills]] [[tailscale-tailcat]] [[worldflowai-everything-claude-code]] [[magnitudedev-magnitude]] [[nvm-sh-nvm]]
+[[magnitudedev-magnitude]] [[jetbrains-go-modern-guidelines]] [[nvm-sh-nvm]] [[obra-superpowers]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[cli]]
 

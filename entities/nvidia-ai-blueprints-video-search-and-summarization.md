@@ -35,7 +35,7 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[protocolbuffers-protobuf]] [[openai-skills]] [[heygen-com-hyperframes]] [[k-dense-ai-scientific-agent-skills]]
+[[multica-ai-andrej-karpathy-skills]] [[k-dense-ai-scientific-agent-skills]] [[openai-skills]] [[openai-plugins]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

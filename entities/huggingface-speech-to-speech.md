@@ -37,7 +37,7 @@ Build local voice agents with open-source models
 
 ## 相关项目
 
-[[livekit-agents]] [[microsoft-markitdown]] [[osmantic-ods]] [[openai-skills]] [[heygen-com-hyperframes]]
+[[multica-ai-andrej-karpathy-skills]] [[openai-skills]] [[openai-plugins]] [[osmantic-ods]] [[livekit-agents]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

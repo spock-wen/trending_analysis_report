@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[heygen-com-hyperframes]] [[radixark-miles]] [[thu-maic-openmaic]] [[rohitg00-ai-engineering-from-scratch]]
+[[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

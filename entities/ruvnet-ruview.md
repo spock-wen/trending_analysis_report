@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[pacifio-atlas]] [[ripienaar-free-for-dev]] [[openai-codex]] [[firecrawl-pdf-inspector]] [[tencent-ai-infra-guard]]
+[[ruvnet-ruflo]] [[firecrawl-pdf-inspector]] [[posthog-posthog]] [[tinyhumansai-openhuman]] [[openai-codex]]
 
 **所属领域**: [[devops]]
 

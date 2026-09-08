@@ -36,5 +36,5 @@ A beautiful, powerful, self-hosted rom manager and player.
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[microsoft-markitdown]] [[the-swarm-corporation-autohedge]] [[openai-skills]]
+[[openai-skills]] [[ayghri-i-have-adhd]] [[browser-use-browser-use]] [[microsoft-markitdown]]
 

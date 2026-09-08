@@ -35,5 +35,5 @@ self-hosted, distributed Durable Objects
 
 ## 相关项目
 
-[[pacifio-atlas]] [[tinyhumansai-openhuman]] [[firecrawl-pdf-inspector]] [[openai-codex]]
+[[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]] [[openai-codex]] [[pacifio-atlas]]
 

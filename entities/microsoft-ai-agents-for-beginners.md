@@ -36,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[heygen-com-hyperframes]] [[radixark-miles]] [[thu-maic-openmaic]]
+[[multica-ai-andrej-karpathy-skills]] [[microsoft-generative-ai-for-beginners]] [[openai-plugins]] [[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -34,7 +34,7 @@ Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud model
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[livekit-agents]] [[osmantic-ods]] [[heygen-com-hyperframes]] [[zhaoxuya520-reverse-skill]]
+[[multica-ai-andrej-karpathy-skills]] [[zhaoxuya520-reverse-skill]] [[openai-plugins]] [[osmantic-ods]] [[livekit-agents]]
 
 **所属领域**: [[ai-agent]] [[security]] [[audio]]
 

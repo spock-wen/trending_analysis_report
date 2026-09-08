@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[obra-superpowers]] [[heygen-com-hyperframes]] [[mattpocock-skills]] [[worldflowai-everything-claude-code]] [[bytedance-deer-flow]]
+[[multica-ai-andrej-karpathy-skills]] [[nvm-sh-nvm]] [[openai-plugins]] [[basecamp-omarchy]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

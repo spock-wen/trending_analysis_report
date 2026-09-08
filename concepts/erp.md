@@ -1,7 +1,7 @@
 ---
 title: "erp"
 created: 2026-05-20
-updated: 2026-09-08
+updated: 2026-09-09
 type: concept
 tags: [erp]
 confidence: medium
@@ -9,9 +9,9 @@ confidence: medium
 
 # erp
 
-## 领域项目（共 18 个，今日上榜 0 个）
+## 领域项目（共 18 个，今日上榜 1 个）
 
-[[radixark-miles]] [[obra-superpowers]] [[genlayerlabs-genlayer-project-boilerplate]] [[tooljet-tooljet]] [[hugohe3-ppt-master]] [[uber-adr]] [[openinterpreter-openinterpreter]] [[anthropics-cwc-workshops]] [[zeux-meshoptimizer]] [[iofficeai-officecli]] [[diolinux-photogimp]] [[alirezarezvani-claude-skills]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[odoo-odoo]] [[cloakhq-cloakbrowser]] [[frappe-erpnext]] [[nirdiamant-agents-towards-production]] [[medusajs-medusa]]
+[[obra-superpowers]] [[radixark-miles]] [[genlayerlabs-genlayer-project-boilerplate]] [[tooljet-tooljet]] [[hugohe3-ppt-master]] [[uber-adr]] [[openinterpreter-openinterpreter]] [[anthropics-cwc-workshops]] [[zeux-meshoptimizer]] [[iofficeai-officecli]] [[diolinux-photogimp]] [[alirezarezvani-claude-skills]] [[x1xhlol-system-prompts-and-models-of-ai-tools]] [[odoo-odoo]] [[cloakhq-cloakbrowser]] [[frappe-erpnext]] [[nirdiamant-agents-towards-production]] [[medusajs-medusa]]
 
 ## 语言分布
 
@@ -19,5 +19,5 @@ Python 7个, TypeScript 3个, Shell 1个, JavaScript 1个, Rust 1个, C++ 1个, 
 
 ## 趋势观察
 
-18 个 erp 领域项目被追踪，其中 0 个今日同时上榜，反映该领域持续活跃。
+18 个 erp 领域项目被追踪，其中 1 个今日同时上榜，反映该领域持续活跃。
 

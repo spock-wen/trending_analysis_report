@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[osmantic-ods]] [[heygen-com-hyperframes]] [[nutlope-hallmark]]
+[[multica-ai-andrej-karpathy-skills]] [[cathrynlavery-diagram-design]] [[openai-plugins]] [[jo-inc-camofox-browser]] [[osmantic-ods]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

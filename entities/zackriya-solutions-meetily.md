@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[pacifio-atlas]] [[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[protocolbuffers-protobuf]] [[openai-codex]]
+[[firecrawl-pdf-inspector]] [[affaan-m-ecc]] [[multica-ai-andrej-karpathy-skills]] [[openai-codex]] [[jo-inc-camofox-browser]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

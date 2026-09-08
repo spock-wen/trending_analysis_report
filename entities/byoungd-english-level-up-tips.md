@@ -38,7 +38,7 @@ An advanced guide to learn English which might benefit you a lot 🎉 . 人生�
 
 ## 相关项目
 
-[[radixark-miles]] [[thu-maic-openmaic]] [[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]]
+[[rohitg00-ai-engineering-from-scratch]] [[radixark-miles]] [[thu-maic-openmaic]] [[ruvnet-ruflo]]
 
 **所属领域**: [[education]]
 

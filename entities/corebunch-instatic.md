@@ -37,7 +37,7 @@ The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[protocolbuffers-protobuf]] [[pascalorg-editor]] [[heygen-com-hyperframes]]
+[[moontechlab-lunatv]] [[multica-ai-andrej-karpathy-skills]] [[k-dense-ai-scientific-agent-skills]] [[cathrynlavery-diagram-design]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

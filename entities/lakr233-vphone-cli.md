@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[jaywcjlove-awesome-mac]] [[permissionlesstech-bitchat]] [[mattpocock-skills]] [[worldflowai-everything-claude-code]] [[altic-dev-fluidvoice]]
+[[jaywcjlove-awesome-mac]] [[nvm-sh-nvm]] [[permissionlesstech-bitchat]] [[altic-dev-fluidvoice]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

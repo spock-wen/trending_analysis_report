@@ -35,7 +35,7 @@ Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[microsoft-markitdown]] [[lightpanda-io-browser]] [[openai-skills]] [[heygen-com-hyperframes]]
+[[multica-ai-andrej-karpathy-skills]] [[cathrynlavery-diagram-design]] [[openai-skills]] [[openai-plugins]] [[jo-inc-camofox-browser]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

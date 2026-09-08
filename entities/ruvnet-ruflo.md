@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[radixark-miles]] [[thu-maic-openmaic]]
+[[moontechlab-lunatv]] [[multica-ai-andrej-karpathy-skills]] [[pascalorg-editor]] [[openai-plugins]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

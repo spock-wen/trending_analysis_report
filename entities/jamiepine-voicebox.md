@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[livekit-agents]] [[osmantic-ods]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]]
+[[moontechlab-lunatv]] [[multica-ai-andrej-karpathy-skills]] [[pascalorg-editor]] [[openai-plugins]] [[osmantic-ods]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

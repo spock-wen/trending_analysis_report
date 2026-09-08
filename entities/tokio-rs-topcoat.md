@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[pacifio-atlas]] [[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[openai-codex]] [[heygen-com-hyperframes]]
+[[cathrynlavery-diagram-design]] [[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]] [[openai-codex]] [[jo-inc-camofox-browser]]
 
 **所属领域**: [[web]]
 

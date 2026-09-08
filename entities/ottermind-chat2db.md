@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[checkstyle-checkstyle]] [[heygen-com-hyperframes]] [[k-dense-ai-scientific-agent-skills]] [[mattpocock-skills]]
+[[multica-ai-andrej-karpathy-skills]] [[google-guava]] [[k-dense-ai-scientific-agent-skills]] [[aipoch-open-science]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

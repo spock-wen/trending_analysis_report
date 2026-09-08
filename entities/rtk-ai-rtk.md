@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[pacifio-atlas]] [[openai-codex]] [[heygen-com-hyperframes]] [[firecrawl-pdf-inspector]] [[mattpocock-skills]]
+[[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[nvm-sh-nvm]] [[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

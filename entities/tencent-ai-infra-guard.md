@@ -35,7 +35,7 @@ A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skil
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[ripienaar-free-for-dev]] [[openai-skills]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]]
+[[multica-ai-andrej-karpathy-skills]] [[openai-skills]] [[openai-plugins]] [[ruvnet-ruflo]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

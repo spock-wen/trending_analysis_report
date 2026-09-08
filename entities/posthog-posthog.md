@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[microsoft-markitdown]] [[lightpanda-io-browser]] [[protocolbuffers-protobuf]] [[ripienaar-free-for-dev]]
+[[multica-ai-andrej-karpathy-skills]] [[k-dense-ai-scientific-agent-skills]] [[tencent-ai-infra-guard]] [[cathrynlavery-diagram-design]] [[openai-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

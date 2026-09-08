@@ -37,7 +37,7 @@ A framework for building realtime voice AI agents 🤖🎙️📹
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[osmantic-ods]] [[openai-skills]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]]
+[[multica-ai-andrej-karpathy-skills]] [[openai-skills]] [[openai-plugins]] [[osmantic-ods]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

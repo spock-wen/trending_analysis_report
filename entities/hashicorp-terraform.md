@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[ruvnet-ruflo]] [[heygen-com-hyperframes]] [[tencent-ai-infra-guard]] [[tailscale-tailcat]]
+[[multica-ai-andrej-karpathy-skills]] [[jetbrains-go-modern-guidelines]] [[openai-plugins]] [[ruvnet-ruflo]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

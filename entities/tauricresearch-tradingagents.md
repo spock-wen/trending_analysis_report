@@ -38,7 +38,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[openai-skills]] [[heygen-com-hyperframes]] [[aipoch-open-science]] [[bytedance-deer-flow]]
+[[multica-ai-andrej-karpathy-skills]] [[openai-skills]] [[openai-plugins]] [[ayghri-i-have-adhd]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[openai-skills]] [[heygen-com-hyperframes]] [[zhaoxuya520-reverse-skill]] [[bytedance-deer-flow]]
+[[multica-ai-andrej-karpathy-skills]] [[zhaoxuya520-reverse-skill]] [[openai-skills]] [[openai-plugins]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

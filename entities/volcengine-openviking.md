@@ -36,7 +36,7 @@ Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG 
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[protocolbuffers-protobuf]] [[openai-skills]] [[heygen-com-hyperframes]] [[k-dense-ai-scientific-agent-skills]]
+[[multica-ai-andrej-karpathy-skills]] [[k-dense-ai-scientific-agent-skills]] [[openai-skills]] [[openai-plugins]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

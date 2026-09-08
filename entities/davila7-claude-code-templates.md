@@ -36,7 +36,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[ripienaar-free-for-dev]] [[openai-skills]] [[heygen-com-hyperframes]] [[tencent-ai-infra-guard]]
+[[multica-ai-andrej-karpathy-skills]] [[tencent-ai-infra-guard]] [[openai-skills]] [[openai-plugins]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

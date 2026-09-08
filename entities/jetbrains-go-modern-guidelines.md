@@ -36,7 +36,7 @@ Help AI coding agents write modern Go
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[tailscale-tailcat]] [[bytedance-deer-flow]] [[coreyhaines31-marketingskills]] [[juliusbrussee-caveman]]
+[[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[affaan-m-ecc]] [[obra-superpowers]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[heygen-com-hyperframes]] [[radixark-miles]] [[thu-maic-openmaic]]
+[[multica-ai-andrej-karpathy-skills]] [[cathrynlavery-diagram-design]] [[openai-plugins]] [[jo-inc-camofox-browser]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[bannedbook-fanqiang]] [[bytedance-deer-flow]] [[coreyhaines31-marketingskills]] [[andreknieriem-headunit-revived]]
+[[multica-ai-andrej-karpathy-skills]] [[bannedbook-fanqiang]] [[andreknieriem-headunit-revived]] [[openai-plugins]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

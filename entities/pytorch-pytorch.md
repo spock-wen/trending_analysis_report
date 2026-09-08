@@ -35,5 +35,5 @@ Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## 相关项目
 
-[[bytedance-deer-flow]] [[microsoft-markitdown]] [[the-swarm-corporation-autohedge]] [[openai-skills]]
+[[openai-skills]] [[ayghri-i-have-adhd]] [[browser-use-browser-use]] [[microsoft-markitdown]]
 

@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[mattpocock-skills]]
+[[moontechlab-lunatv]] [[cathrynlavery-diagram-design]] [[pascalorg-editor]] [[nvm-sh-nvm]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[cli]]
 

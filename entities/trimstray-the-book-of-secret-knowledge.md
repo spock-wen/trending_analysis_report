@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[lightpanda-io-browser]] [[heygen-com-hyperframes]] [[mattpocock-skills]] [[worldflowai-everything-claude-code]]
+[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[nvm-sh-nvm]] [[obra-superpowers]] [[jo-inc-camofox-browser]]
 
 **所属领域**: [[web]] [[cli]]
 

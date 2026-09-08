@@ -35,7 +35,7 @@ Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice
 
 ## 相关项目
 
-[[livekit-agents]] [[microsoft-markitdown]] [[openai-skills]] [[heygen-com-hyperframes]] [[vercel-labs-portless]]
+[[multica-ai-andrej-karpathy-skills]] [[conardli-garden-skills]] [[openai-skills]] [[openai-plugins]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

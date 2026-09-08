@@ -38,7 +38,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ## 相关项目
 
-[[jo-inc-camofox-browser]] [[heygen-com-hyperframes]] [[bytedance-deer-flow]] [[coreyhaines31-marketingskills]] [[affaan-m-ecc]]
+[[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[affaan-m-ecc]] [[obra-superpowers]] [[coreyhaines31-marketingskills]]
 
 **所属领域**: [[ai-agent]]
 

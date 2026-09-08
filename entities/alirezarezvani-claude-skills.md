@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[genlayerlabs-genlayer-project-boilerplate]] [[obra-superpowers]] [[openai-skills]] [[heygen-com-hyperframes]]
+[[multica-ai-andrej-karpathy-skills]] [[tooljet-tooljet]] [[aipoch-open-science]] [[openai-skills]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

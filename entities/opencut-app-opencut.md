@@ -38,5 +38,5 @@ The open-source CapCut alternative
 
 ## 相关项目
 
-[[braveopotato-fcksignups]] [[pascalorg-editor]] [[ruvnet-ruflo]] [[heygen-com-hyperframes]]
+[[moontechlab-lunatv]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[mksglu-context-mode]]
 

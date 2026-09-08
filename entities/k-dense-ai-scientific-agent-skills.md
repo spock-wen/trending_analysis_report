@@ -38,7 +38,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ## 相关项目
 
-[[microsoft-markitdown]] [[protocolbuffers-protobuf]] [[openai-skills]] [[heygen-com-hyperframes]] [[aipoch-open-science]]
+[[multica-ai-andrej-karpathy-skills]] [[openai-skills]] [[openai-plugins]] [[ayghri-i-have-adhd]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

@@ -37,7 +37,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[pascalorg-editor]] [[heygen-com-hyperframes]] [[radixark-miles]] [[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]]
+[[moontechlab-lunatv]] [[multica-ai-andrej-karpathy-skills]] [[pascalorg-editor]] [[openai-plugins]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

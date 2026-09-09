@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[moontechlab-lunatv]] [[multica-ai-andrej-karpathy-skills]] [[cathrynlavery-diagram-design]] [[pascalorg-editor]] [[openai-plugins]]
+[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[tauricresearch-tradingagents]] [[obra-superpowers]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

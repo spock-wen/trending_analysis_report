@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[cathrynlavery-diagram-design]] [[openai-plugins]] [[jo-inc-camofox-browser]] [[osmantic-ods]]
+[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[freestylefly-awesome-gpt-image-2]] [[obra-superpowers]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

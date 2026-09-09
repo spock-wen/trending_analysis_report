@@ -36,5 +36,5 @@ No description
 
 ## 相关项目
 
-[[moontechlab-lunatv]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[mksglu-context-mode]]
+[[vastsa-pi-desktop]] [[heygen-com-hyperframes]] [[pascalorg-editor]] [[tencent-teamai-cli]]
 

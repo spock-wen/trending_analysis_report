@@ -35,7 +35,7 @@ Hundreds of models & providers. One command to find what runs on your hardware.
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[nvm-sh-nvm]] [[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]]
+[[mattpocock-skills]] [[pacifio-atlas]] [[obra-superpowers]] [[pascalorg-editor]] [[firecrawl-pdf-inspector]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

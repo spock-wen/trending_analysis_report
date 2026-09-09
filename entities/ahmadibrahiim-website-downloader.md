@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[conardli-garden-skills]] [[osmantic-ods]] [[averygan-reclip]] [[vercel-labs-portless]]
+[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[freestylefly-awesome-gpt-image-2]] [[averygan-reclip]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[image-gen]]
 

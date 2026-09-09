@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[affaan-m-ecc]]
+[[tauricresearch-tradingagents]] [[obra-superpowers]] [[pascalorg-editor]] [[bytedance-deer-flow]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

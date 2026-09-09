@@ -35,7 +35,7 @@ like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[k-dense-ai-scientific-agent-skills]] [[jetbrains-go-modern-guidelines]] [[openai-plugins]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[pascalorg-editor]] [[coreyhaines31-marketingskills]] [[protocolbuffers-protobuf]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

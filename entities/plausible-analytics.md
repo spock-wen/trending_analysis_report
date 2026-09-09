@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[zhaoxuya520-reverse-skill]] [[cathrynlavery-diagram-design]] [[teslamate-org-teslamate]] [[affaan-m-ecc]]
+[[teslamate-org-teslamate]] [[cathrynlavery-diagram-design]] [[browser-use-browser-use]] [[zhaoxuya520-reverse-skill]] [[kaifcodec-user-scanner]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

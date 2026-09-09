@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-09-09 | 总页面：568
+> 最后更新：2026-09-10 | 总页面：571
 
 ## Entities
 
@@ -73,7 +73,7 @@
 - [[averygan-reclip|reclip"]] — Download videos from almost any website. Lightweight, self-h...
 - [[aws-agent-toolkit-for-aws|agent-toolkit-for-aws"]] — Official, AWS-supported MCP servers, skills, and plugins to ... 🆕
 - [[axorax-awesome-free-apps|awesome-free-apps"]] — Curated list of the best free apps for PC and mobile 🔥
-- [[ayghri-i-have-adhd|i-have-adhd"]] — A skill to stop your coding agent from burying the answer. A...
+- [[ayghri-i-have-adhd|i-have-adhd"]] — A skill to stop your coding agent from burying the answer. A... 🆕
 - [[bannedbook-fanqiang|fanqiang"]] — 翻墙-科学上网 🆕
 - [[basecamp-omarchy|omarchy"]] — Beautiful, Modern & Opinionated Linux 🔥
 - [[bigbodycobain-shadowbroker|Shadowbroker"]] — Open-source intelligence for the global theater. Track every... 🆕
@@ -100,7 +100,7 @@
 - [[can1357-oh-my-pi|oh-my-pi"]] — ⌥ AI Coding agent for the terminal — hash-anchored edits, op...
 - [[canner-wrenai|WrenAI"]] — GenBI (Generative BI) for AI agents, an open-source, governe...
 - [[catchorg-catch2|Catch2"]] — A modern, C++-native, test framework for unit-tests, TDD and... 🆕
-- [[cathrynlavery-diagram-design|diagram-design"]] — 38 editorial diagram types for Claude Code, Codex, and Pi. S...
+- [[cathrynlavery-diagram-design|diagram-design"]] — 38 editorial diagram types for Claude Code, Codex, and Pi. S... 🆕
 - [[chachamaru127-claude-code-harness|claude-code-harness"]] — Claude Code Dedicated Development Harness - Achieving High-Q...
 - [[chaitanyagiri-munder-difflin|munder-difflin"]] — local multi-agent harness 🔥
 - [[chatwoot-chatwoot|chatwoot"]] — Open-source live-chat, email support, omni-channel desk. An ...
@@ -165,7 +165,7 @@
 - [[dottxt-ai-outlines|outlines"]] — Structured Outputs 🆕
 - [[dreammis-social-auto-upload|social-auto-upload"]] — 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 - [[earendil-works-pi|pi"]] — AI agent toolkit: coding agent CLI, unified LLM API, TUI & w... 🆕
-- [[earthtojake-text-to-cad|text-to-cad"]] — A collection of agent skills for CAD, robotics and hardware ...
+- [[earthtojake-text-to-cad|text-to-cad"]] — A library of agent skills for CAD, CAE and CAM
 - [[elastic-elasticsearch|elasticsearch"]] — Free and Open Source, Distributed, RESTful Search Engine
 - [[elder-plinius-g0dm0d3|G0DM0D3"]] — LIBERATED AI CHAT
 - [[elder-plinius-obliteratus|OBLITERATUS"]] — OBLITERATE THE CHAINS THAT BIND YOU
@@ -187,7 +187,7 @@
 - [[frappe-erpnext|erpnext"]] — Free and Open Source Enterprise Resource Planning (ERP)
 - [[free-tv-iptv|IPTV"]] — M3U Playlist for free TV channels
 - [[freecodecamp-freecodecamp|freeCodeCamp"]] — freeCodeCamp.org's open-source codebase and curriculum. Lear... 🔥
-- [[freestylefly-awesome-gpt-image-2|awesome-gpt-image-2"]] — Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工... 🔥
+- [[freestylefly-awesome-gpt-image-2|awesome-gpt-image-2"]] — Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工...
 - [[gabime-spdlog|spdlog"]] — Fast C++ logging library.
 - [[galilai-group-stable-worldmodel|stable-worldmodel"]] — A platform for reproducible world model research and evaluat... 🆕
 - [[garrytan-gstack|gstack"]] — Use Garry Tan's exact Claude Code setup: 23 opinionated tool... 🔥
@@ -297,6 +297,7 @@
 - [[lightpanda-io-browser|browser"]] — Lightpanda: the headless browser designed for AI and automat...
 - [[lightricks-ltx-2|LTX-2"]] — Official Python inference and LoRA trainer package for the L... 🆕
 - [[likec4-likec4|likec4"]] — Visualize, collaborate, and evolve the software architecture... 🔥
+- [[liquidslr-system-design-notes|system-design-notes"]] — Notes of the book System Desgin Interview - An Insider's Gui... 🆕
 - [[litu54-devops-interview-guide|DevOps-Interview-Guide"]] — DevOps Interview Guide
 - [[livekit-agents|agents"]] — A framework for building realtime voice AI agents 🤖🎙️📹
 - [[llvm-llvm-project|llvm-project"]] — The LLVM Project is a collection of modular and reusable com...
@@ -375,7 +376,7 @@
 - [[nvlabs-sana|Sana"]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
 - [[nvm-sh-nvm|nvm"]] — Node Version Manager - POSIX-compliant bash script to manage...
 - [[oblien-openship|openship"]] — Self-hosted deployment platform 🔥
-- [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo...
+- [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo... 🆕
 - [[ocornut-imgui|imgui"]] — Dear ImGui: Bloat-free Graphical User interface for C++ with...
 - [[odoo-odoo|odoo"]] — Odoo. Open Source Apps To Grow Your Business.
 - [[ogulcancelik-herdr|herdr"]] — agent multiplexer that lives in your terminal. 🔥
@@ -384,7 +385,7 @@
 - [[open-llm-vtuber-open-llm-vtuber|Open-LLM-VTuber"]] — Talk to any LLM with hands-free voice interaction, voice int... 🔥
 - [[openai-codex-plugin-cc|codex-plugin-cc"]] — Use Codex from Claude Code to review code or delegate tasks. 🔥
 - [[openai-codex|codex"]] — Lightweight coding agent that runs in your terminal 🆕
-- [[openai-plugins|plugins"]] — OpenAI Plugins
+- [[openai-plugins|plugins"]] — OpenAI Plugins 🆕
 - [[openai-skills|skills"]] — Skills Catalog for Codex 🔥
 - [[openbmb-voxcpm|VoxCPM"]] — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generati...
 - [[openclaw-openclaw-windows-node|openclaw-windows-node"]] — Windows companion suite for OpenClaw - System Tray app, Shar... 🆕
@@ -413,7 +414,7 @@
 - [[paperless-ngx-paperless-ngx|paperless-ngx"]] — A community-supported supercharged document management syste...
 - [[paperswithbacktest-awesome-systematic-trading|awesome-systematic-trading"]] — A curated list of awesome libraries, packages, strategies, b... 🔥
 - [[par274-sharpemu|sharpemu"]] — An experimental PlayStation 5 emulator project.
-- [[pascalorg-editor|editor"]] — Create and share 3D architectural projects.
+- [[pascalorg-editor|editor"]] — Open-source 3D architectural editor with a local CLI, MCP to...
 - [[pbakaus-impeccable|impeccable"]] — The design language that makes your AI harness better at des...
 - [[penpot-penpot|penpot"]] — Penpot: The open-source design platform for Product teams th...
 - [[permissionlesstech-bitchat|bitchat"]] — bluetooth mesh chat, IRC vibes
@@ -448,7 +449,7 @@
 - [[robbyant-lingbot-map|lingbot-map"]] — A feed-forward 3D foundation model for reconstructing scenes...
 - [[roboflow-supervision|supervision"]] — We write your reusable computer vision tools. 💜
 - [[rohitg00-agentmemory|agentmemory"]] — - 语言: TypeScript 🆕
-- [[rohitg00-ai-engineering-from-scratch|ai-engineering-from-scratch"]] — Learn it. Build it. Ship it for others. 🔥
+- [[rohitg00-ai-engineering-from-scratch|ai-engineering-from-scratch"]] — Learn it. Build it. Ship it for others.
 - [[rommapp-romm|romm"]] — A beautiful, powerful, self-hosted rom manager and player. 🔥
 - [[rtk-ai-rtk|rtk"]] — CLI proxy that reduces LLM token consumption by 60-90% on co...
 - [[run-llama-liteparse|liteparse"]] — A fast, helpful, and open-source document parser 🆕
@@ -491,6 +492,7 @@
 - [[tauricresearch-tradingagents|TradingAgents"]] — TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [[tech-leads-club-agent-skills|agent-skills"]] — The secure, validated skill registry for professional AI cod... 🆕
 - [[tencent-ai-infra-guard|AI-Infra-Guard"]] — A full-stack AI Red Teaming platform securing AI ecosystems ...
+- [[tencent-teamai-cli|teamai-cli"]] — Make Every Team AI Native 🆕
 - [[tencentcloud-cubesandbox|CubeSandbox"]] — Instant, Concurrent, Secure & Lightweight Sandbox for AI Age... 🆕
 - [[tencentcloud-tencentdb-agent-memory|TencentDB-Agent-Memory"]] — TencentDB Agent Memory is a team-level memory hub for AI Age... 🔥
 - [[teng-lin-notebooklm-py|notebooklm-py"]] — Unofficial Python API and agentic skill for Google NotebookL...
@@ -521,9 +523,10 @@
 - [[unslothai-unsloth|unsloth"]] — Local UI to run and train LLMs and diffusion models, includi... 🔥
 - [[usekaneo-kaneo|kaneo"]] — 🎯 All you need. Nothing you don't. Open source project manag... 🔥
 - [[usestrix-strix|strix"]] — Open-source AI penetration testing tool to find and fix your...
+- [[vastsa-pi-desktop|PI-Desktop"]] — Local-first AI coding agent desktop: Electron + Rust host co... 🆕
 - [[veracrypt-veracrypt|VeraCrypt"]] — Disk encryption with strong security based on TrueCrypt
 - [[vercel-labs-portless|portless"]] — Replace port numbers with stable, named local URLs. For huma...
-- [[viarotel-org-escrcpy|escrcpy"]] — 📱 Display and control your Android device graphically with s... 🆕
+- [[viarotel-org-escrcpy|escrcpy"]] — 📱 Display and control your Android device graphically with s...
 - [[virattt-ai-hedge-fund|ai-hedge-fund"]] — An AI Hedge Fund Team
 - [[virgiliojr94-book-to-skill|book-to-skill"]] — Turn any technical book PDF into a Claude Code skill — ready... 🆕
 - [[vitali87-code-graph-rag|code-graph-rag"]] — The ultimate RAG for your monorepo. Query, understand, and e... 🔥

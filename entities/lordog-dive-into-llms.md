@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[microsoft-generative-ai-for-beginners]] [[openai-plugins]] [[lyogavin-airllm]] [[affaan-m-ecc]]
+[[anthropics-claude-cookbooks]] [[lyogavin-airllm]] [[obra-superpowers]] [[pascalorg-editor]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[openai-plugins]] [[conardli-garden-skills]] [[osmantic-ods]] [[vercel-labs-portless]]
+[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[freestylefly-awesome-gpt-image-2]] [[coreyhaines31-marketingskills]] [[conardli-garden-skills]]
 
 **所属领域**: [[web]] [[image-gen]]
 

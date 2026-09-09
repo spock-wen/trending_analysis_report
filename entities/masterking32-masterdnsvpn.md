@@ -36,7 +36,7 @@ Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli
 
 ## 相关项目
 
-[[kaifcodec-user-scanner]] [[jetbrains-go-modern-guidelines]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[openwhispr-openwhispr]]
+[[zhaoxuya520-reverse-skill]] [[kaifcodec-user-scanner]] [[tailscale-tailcat]] [[juliusbrussee-caveman]] [[majd-ipatool]]
 
 **所属领域**: [[security]]
 

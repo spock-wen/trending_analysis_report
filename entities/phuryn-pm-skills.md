@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[nvm-sh-nvm]] [[affaan-m-ecc]] [[obra-superpowers]]
+[[mattpocock-skills]] [[obra-superpowers]] [[pascalorg-editor]] [[rohitg00-ai-engineering-from-scratch]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

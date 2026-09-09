@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[cathrynlavery-diagram-design]] [[openai-plugins]] [[jo-inc-camofox-browser]] [[averygan-reclip]]
+[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[tauricresearch-tradingagents]] [[obra-superpowers]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

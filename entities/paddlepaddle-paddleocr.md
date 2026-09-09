@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[k-dense-ai-scientific-agent-skills]] [[freestylefly-awesome-gpt-image-2]] [[conardli-garden-skills]] [[openai-skills]]
+[[tauricresearch-tradingagents]] [[freestylefly-awesome-gpt-image-2]] [[obra-superpowers]] [[pascalorg-editor]] [[coreyhaines31-marketingskills]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

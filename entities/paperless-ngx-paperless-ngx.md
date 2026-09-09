@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[openai-skills]] [[ayghri-i-have-adhd]] [[affaan-m-ecc]] [[bytedance-deer-flow]] [[microsoft-markitdown]]
+[[tauricresearch-tradingagents]] [[ayghri-i-have-adhd]] [[bytedance-deer-flow]] [[earthtojake-text-to-cad]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[science]]
 

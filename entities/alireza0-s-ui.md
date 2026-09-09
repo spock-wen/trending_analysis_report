@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[jetbrains-go-modern-guidelines]] [[cathrynlavery-diagram-design]] [[majd-ipatool]] [[jo-inc-camofox-browser]] [[juliusbrussee-caveman]]
+[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[tailscale-tailcat]] [[juliusbrussee-caveman]] [[majd-ipatool]]
 
 **所属领域**: [[web]]
 

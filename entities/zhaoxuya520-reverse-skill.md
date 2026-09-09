@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[aipoch-open-science]] [[raphire-win11debloat]] [[openai-plugins]] [[nvm-sh-nvm]]
+[[mattpocock-skills]] [[tauricresearch-tradingagents]] [[obra-superpowers]] [[kaifcodec-user-scanner]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

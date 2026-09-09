@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[averygan-reclip]] [[ripienaar-free-for-dev]]
+[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[averygan-reclip]] [[trycua-cua]] [[thu-maic-openmaic]]
 
 **所属领域**: [[web]] [[education]]
 

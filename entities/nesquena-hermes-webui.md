@@ -37,7 +37,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[cathrynlavery-diagram-design]] [[openai-skills]] [[openai-plugins]] [[jo-inc-camofox-browser]]
+[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[tauricresearch-tradingagents]] [[obra-superpowers]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

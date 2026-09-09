@@ -34,7 +34,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[openai-plugins]] [[affaan-m-ecc]] [[coreyhaines31-marketingskills]] [[jo-inc-camofox-browser]]
+[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[freestylefly-awesome-gpt-image-2]] [[coreyhaines31-marketingskills]] [[openai-plugins]]
 
 **所属领域**: [[web]]
 

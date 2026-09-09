@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[google-guava]] [[k-dense-ai-scientific-agent-skills]] [[aipoch-open-science]] [[openai-plugins]]
+[[mattpocock-skills]] [[nationalsecurityagency-ghidra]] [[obra-superpowers]] [[pascalorg-editor]] [[coreyhaines31-marketingskills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

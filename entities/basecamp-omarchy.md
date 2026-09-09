@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[obra-superpowers]] [[nvm-sh-nvm]] [[mattpocock-skills]] [[magnitudedev-magnitude]]
+[[mattpocock-skills]] [[obra-superpowers]] [[pascalorg-editor]] [[nvm-sh-nvm]] [[tencent-teamai-cli]]
 
 **所属领域**: [[cli]]
 

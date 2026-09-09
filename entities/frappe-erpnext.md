@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[openai-skills]] [[ayghri-i-have-adhd]] [[microsoft-markitdown]] [[genlayerlabs-genlayer-project-boilerplate]]
+[[tauricresearch-tradingagents]] [[genlayerlabs-genlayer-project-boilerplate]] [[obra-superpowers]] [[ayghri-i-have-adhd]] [[radixark-miles]]
 
 **所属领域**: [[erp]]
 

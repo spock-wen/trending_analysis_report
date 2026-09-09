@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]] [[openai-codex]] [[jo-inc-camofox-browser]]
+[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[pacifio-atlas]] [[firecrawl-pdf-inspector]] [[openai-codex]]
 
 **所属领域**: [[web]]
 

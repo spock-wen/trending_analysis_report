@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[jaywcjlove-awesome-mac]] [[multica-ai-andrej-karpathy-skills]] [[lakr233-vphone-cli]] [[openai-plugins]] [[affaan-m-ecc]]
+[[permissionlesstech-bitchat]] [[lakr233-vphone-cli]] [[obra-superpowers]] [[altic-dev-fluidvoice]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]]
 

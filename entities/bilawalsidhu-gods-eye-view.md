@@ -36,7 +36,7 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[cathrynlavery-diagram-design]] [[openai-plugins]] [[affaan-m-ecc]] [[coreyhaines31-marketingskills]]
+[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[freestylefly-awesome-gpt-image-2]] [[coreyhaines31-marketingskills]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[web]] [[data]]
 

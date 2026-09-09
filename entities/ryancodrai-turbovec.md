@@ -38,7 +38,7 @@ A vector index built on TurboQuant, written in Rust with Python bindings
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]] [[openai-codex]]
+[[pacifio-atlas]] [[obra-superpowers]] [[pascalorg-editor]] [[firecrawl-pdf-inspector]] [[openai-codex]]
 
 **所属领域**: [[ai-agent]]
 

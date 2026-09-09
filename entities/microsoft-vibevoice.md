@@ -35,7 +35,7 @@ Open-Source Frontier Voice AI
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[openai-skills]] [[openai-plugins]] [[osmantic-ods]] [[livekit-agents]]
+[[tauricresearch-tradingagents]] [[obra-superpowers]] [[pascalorg-editor]] [[livekit-agents]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

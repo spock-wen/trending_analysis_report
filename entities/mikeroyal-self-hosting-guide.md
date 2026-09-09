@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[cathrynlavery-diagram-design]] [[openai-plugins]] [[jo-inc-camofox-browser]] [[ruvnet-ruflo]]
+[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[obra-superpowers]] [[pascalorg-editor]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

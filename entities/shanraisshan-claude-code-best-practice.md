@@ -35,7 +35,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[cathrynlavery-diagram-design]] [[openai-plugins]] [[jo-inc-camofox-browser]] [[averygan-reclip]]
+[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[obra-superpowers]] [[averygan-reclip]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

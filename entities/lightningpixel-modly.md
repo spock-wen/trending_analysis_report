@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[moontechlab-lunatv]] [[multica-ai-andrej-karpathy-skills]] [[conardli-garden-skills]] [[pascalorg-editor]] [[openai-plugins]]
+[[freestylefly-awesome-gpt-image-2]] [[obra-superpowers]] [[pascalorg-editor]] [[conardli-garden-skills]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[google-guava]] [[k-dense-ai-scientific-agent-skills]] [[openai-plugins]] [[affaan-m-ecc]]
+[[nationalsecurityagency-ghidra]] [[obra-superpowers]] [[pascalorg-editor]] [[coreyhaines31-marketingskills]] [[google-guava]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -34,5 +34,5 @@ An open-source remote desktop application designed for self-hosting, as an alter
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]] [[openai-codex]] [[pacifio-atlas]]
+[[openai-codex]] [[pacifio-atlas]] [[tinyhumansai-openhuman]] [[firecrawl-pdf-inspector]]
 

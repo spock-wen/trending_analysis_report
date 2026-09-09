@@ -35,7 +35,7 @@ ADR secures enterprise AI agents through observability, security benchmarking, a
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[tooljet-tooljet]] [[tencent-ai-infra-guard]] [[zhaoxuya520-reverse-skill]] [[openai-skills]]
+[[tauricresearch-tradingagents]] [[tencent-ai-infra-guard]] [[genlayerlabs-genlayer-project-boilerplate]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[security]] [[erp]]
 

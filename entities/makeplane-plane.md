@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[moontechlab-lunatv]] [[pascalorg-editor]] [[nvm-sh-nvm]] [[mksglu-context-mode]] [[obra-superpowers]]
+[[mattpocock-skills]] [[obra-superpowers]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[vastsa-pi-desktop]]
 
 **所属领域**: [[cli]]
 

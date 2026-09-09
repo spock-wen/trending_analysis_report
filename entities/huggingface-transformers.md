@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[openai-skills]] [[openai-plugins]] [[ruvnet-ruflo]] [[rohitg00-ai-engineering-from-scratch]]
+[[tauricresearch-tradingagents]] [[obra-superpowers]] [[pascalorg-editor]] [[livekit-agents]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

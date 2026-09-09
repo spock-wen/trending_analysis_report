@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[moontechlab-lunatv]] [[multica-ai-andrej-karpathy-skills]] [[pascalorg-editor]] [[openai-plugins]] [[rohitg00-ai-engineering-from-scratch]]
+[[tencent-ai-infra-guard]] [[obra-superpowers]] [[pascalorg-editor]] [[posthog-posthog]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

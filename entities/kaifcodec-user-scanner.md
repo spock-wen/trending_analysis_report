@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[k-dense-ai-scientific-agent-skills]] [[zhaoxuya520-reverse-skill]] [[openai-skills]] [[openai-plugins]]
+[[tauricresearch-tradingagents]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[pascalorg-editor]] [[coreyhaines31-marketingskills]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

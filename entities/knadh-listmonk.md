@@ -34,7 +34,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[jetbrains-go-modern-guidelines]] [[openai-plugins]] [[affaan-m-ecc]] [[obra-superpowers]]
+[[obra-superpowers]] [[tailscale-tailcat]] [[pascalorg-editor]] [[juliusbrussee-caveman]] [[majd-ipatool]]
 
 **所属领域**: [[ai-agent]]
 

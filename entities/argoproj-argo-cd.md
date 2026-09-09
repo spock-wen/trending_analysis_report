@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[jetbrains-go-modern-guidelines]] [[ruvnet-ruflo]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[juliusbrussee-caveman]]
+[[tencent-ai-infra-guard]] [[tailscale-tailcat]] [[juliusbrussee-caveman]] [[majd-ipatool]] [[ruvnet-ruflo]]
 
 **所属领域**: [[devops]]
 

@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[openai-skills]] [[openai-plugins]] [[ruvnet-ruflo]] [[rohitg00-ai-engineering-from-scratch]]
+[[tauricresearch-tradingagents]] [[obra-superpowers]] [[pascalorg-editor]] [[ayghri-i-have-adhd]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

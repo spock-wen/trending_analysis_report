@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[magnitudedev-magnitude]] [[nvm-sh-nvm]] [[fmtlib-fmt]] [[google-googletest]] [[obra-superpowers]]
+[[mattpocock-skills]] [[google-googletest]] [[obra-superpowers]] [[pascalorg-editor]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[cli]]
 

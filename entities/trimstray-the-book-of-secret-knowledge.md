@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[nvm-sh-nvm]] [[obra-superpowers]] [[jo-inc-camofox-browser]]
+[[mattpocock-skills]] [[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[obra-superpowers]] [[pascalorg-editor]]
 
 **所属领域**: [[web]] [[cli]]
 

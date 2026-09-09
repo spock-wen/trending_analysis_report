@@ -35,7 +35,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[nvm-sh-nvm]] [[ripienaar-free-for-dev]] [[obra-superpowers]] [[trycua-cua]]
+[[mattpocock-skills]] [[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[obra-superpowers]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[cli]]
 

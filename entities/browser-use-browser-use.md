@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[cathrynlavery-diagram-design]] [[openai-skills]] [[openai-plugins]] [[ayghri-i-have-adhd]]
+[[cathrynlavery-diagram-design]] [[tauricresearch-tradingagents]] [[obra-superpowers]] [[pascalorg-editor]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

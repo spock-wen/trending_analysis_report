@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[nvm-sh-nvm]] [[affaan-m-ecc]] [[obra-superpowers]]
+[[mattpocock-skills]] [[obra-superpowers]] [[pascalorg-editor]] [[rohitg00-ai-engineering-from-scratch]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

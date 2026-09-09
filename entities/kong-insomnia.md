@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[moontechlab-lunatv]] [[cathrynlavery-diagram-design]] [[pascalorg-editor]] [[nvm-sh-nvm]] [[obra-superpowers]]
+[[mattpocock-skills]] [[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[obra-superpowers]] [[pascalorg-editor]]
 
 **所属领域**: [[web]] [[cli]]
 

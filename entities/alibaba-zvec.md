@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[fmtlib-fmt]] [[google-googletest]] [[coreyhaines31-marketingskills]] [[microsoft-onnxruntime]]
+[[google-googletest]] [[coreyhaines31-marketingskills]] [[protocolbuffers-protobuf]] [[k-dense-ai-scientific-agent-skills]] [[fmtlib-fmt]]
 
 **所属领域**: [[data]]
 

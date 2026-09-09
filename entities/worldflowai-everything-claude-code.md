@@ -34,7 +34,7 @@ Claude Code toolkit - agents, commands, skills, rules, and hooks for productive 
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[nvm-sh-nvm]] [[affaan-m-ecc]] [[obra-superpowers]]
+[[mattpocock-skills]] [[freestylefly-awesome-gpt-image-2]] [[obra-superpowers]] [[pascalorg-editor]] [[coreyhaines31-marketingskills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

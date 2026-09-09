@@ -34,7 +34,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[moontechlab-lunatv]] [[multica-ai-andrej-karpathy-skills]] [[pascalorg-editor]] [[openai-plugins]] [[ruvnet-ruflo]]
+[[tencent-ai-infra-guard]] [[obra-superpowers]] [[pascalorg-editor]] [[posthog-posthog]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

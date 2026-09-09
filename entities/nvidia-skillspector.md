@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[zhaoxuya520-reverse-skill]] [[openai-skills]] [[openai-plugins]] [[ayghri-i-have-adhd]]
+[[tauricresearch-tradingagents]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[kaifcodec-user-scanner]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

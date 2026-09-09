@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[obra-superpowers]] [[multica-ai-andrej-karpathy-skills]] [[affaan-m-ecc]] [[openai-plugins]]
+[[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]] [[affaan-m-ecc]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]]
 

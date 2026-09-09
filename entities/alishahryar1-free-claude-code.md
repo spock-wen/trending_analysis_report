@@ -38,7 +38,7 @@ Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your 
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[openai-skills]] [[openai-plugins]] [[nvm-sh-nvm]] [[osmantic-ods]]
+[[mattpocock-skills]] [[tauricresearch-tradingagents]] [[obra-superpowers]] [[pascalorg-editor]] [[livekit-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

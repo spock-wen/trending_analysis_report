@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[microsoft-generative-ai-for-beginners]] [[openai-plugins]] [[lyogavin-airllm]] [[affaan-m-ecc]]
+[[lyogavin-airllm]] [[obra-superpowers]] [[pascalorg-editor]] [[rohitg00-ai-engineering-from-scratch]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

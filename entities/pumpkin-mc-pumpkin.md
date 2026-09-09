@@ -37,5 +37,5 @@ Empowering everyone to host fast and efficient Minecraft servers.
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]] [[openai-codex]] [[pacifio-atlas]]
+[[openai-codex]] [[pacifio-atlas]] [[tinyhumansai-openhuman]] [[firecrawl-pdf-inspector]]
 

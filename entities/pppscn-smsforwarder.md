@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[andreknieriem-headunit-revived]] [[cathrynlavery-diagram-design]] [[mahlernim-google-timeline-visualizer]] [[jo-inc-camofox-browser]]
+[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[mahlernim-google-timeline-visualizer]] [[andreknieriem-headunit-revived]] [[bannedbook-fanqiang]]
 
 **所属领域**: [[web]]
 

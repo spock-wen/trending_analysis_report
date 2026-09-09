@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[nvm-sh-nvm]] [[openai-plugins]] [[basecamp-omarchy]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[pascalorg-editor]] [[nvm-sh-nvm]] [[basecamp-omarchy]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

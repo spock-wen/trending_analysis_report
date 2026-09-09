@@ -35,7 +35,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[openai-skills]] [[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[ayghri-i-have-adhd]] [[thu-maic-openmaic]]
+[[tauricresearch-tradingagents]] [[ayghri-i-have-adhd]] [[ruvnet-ruflo]] [[radixark-miles]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[education]]
 

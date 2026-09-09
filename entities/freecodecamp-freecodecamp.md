@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[moontechlab-lunatv]] [[pascalorg-editor]] [[rohitg00-ai-engineering-from-scratch]] [[ruvnet-ruflo]] [[thu-maic-openmaic]]
+[[pascalorg-editor]] [[heygen-com-hyperframes]] [[ruvnet-ruflo]] [[radixark-miles]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[education]]
 

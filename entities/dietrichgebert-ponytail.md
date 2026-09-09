@@ -38,7 +38,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[affaan-m-ecc]] [[obra-superpowers]] [[coreyhaines31-marketingskills]]
+[[freestylefly-awesome-gpt-image-2]] [[obra-superpowers]] [[pascalorg-editor]] [[coreyhaines31-marketingskills]] [[openai-plugins]]
 
 **所属领域**: [[ai-agent]]
 

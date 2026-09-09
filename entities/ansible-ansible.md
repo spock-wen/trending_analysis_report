@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[tencent-ai-infra-guard]] [[cathrynlavery-diagram-design]] [[openai-skills]] [[openai-plugins]]
+[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[tauricresearch-tradingagents]] [[tencent-ai-infra-guard]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

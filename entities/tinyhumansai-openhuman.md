@@ -38,7 +38,7 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[firecrawl-pdf-inspector]] [[openai-codex]] [[affaan-m-ecc]]
+[[tauricresearch-tradingagents]] [[pacifio-atlas]] [[obra-superpowers]] [[pascalorg-editor]] [[firecrawl-pdf-inspector]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

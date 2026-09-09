@@ -38,7 +38,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[microsoft-generative-ai-for-beginners]] [[openai-plugins]] [[affaan-m-ecc]] [[microsoft-ai-for-beginners]]
+[[anthropics-claude-cookbooks]] [[obra-superpowers]] [[pascalorg-editor]] [[rohitg00-ai-engineering-from-scratch]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

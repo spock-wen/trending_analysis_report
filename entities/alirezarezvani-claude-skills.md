@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[tooljet-tooljet]] [[aipoch-open-science]] [[openai-skills]] [[openai-plugins]]
+[[mattpocock-skills]] [[tauricresearch-tradingagents]] [[genlayerlabs-genlayer-project-boilerplate]] [[obra-superpowers]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

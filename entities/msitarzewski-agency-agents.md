@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[cathrynlavery-diagram-design]] [[nvm-sh-nvm]] [[openai-plugins]] [[basecamp-omarchy]]
+[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[obra-superpowers]] [[pascalorg-editor]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

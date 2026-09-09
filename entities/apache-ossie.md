@@ -35,7 +35,7 @@ Apache Ossie, industry wide specification effort to standardize how we exchange 
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[k-dense-ai-scientific-agent-skills]] [[openai-skills]] [[openai-plugins]] [[ayghri-i-have-adhd]]
+[[tauricresearch-tradingagents]] [[obra-superpowers]] [[pascalorg-editor]] [[coreyhaines31-marketingskills]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

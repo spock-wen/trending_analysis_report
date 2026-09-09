@@ -35,7 +35,7 @@ A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skil
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[openai-skills]] [[openai-plugins]] [[ruvnet-ruflo]] [[posthog-posthog]]
+[[tauricresearch-tradingagents]] [[obra-superpowers]] [[pascalorg-editor]] [[posthog-posthog]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

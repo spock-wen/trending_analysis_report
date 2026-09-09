@@ -37,7 +37,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[moontechlab-lunatv]] [[cathrynlavery-diagram-design]] [[pascalorg-editor]] [[mksglu-context-mode]] [[jo-inc-camofox-browser]]
+[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[vastsa-pi-desktop]]
 
 **所属领域**: [[web]]
 

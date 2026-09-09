@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[moontechlab-lunatv]] [[multica-ai-andrej-karpathy-skills]] [[pascalorg-editor]] [[openai-plugins]] [[nvm-sh-nvm]]
+[[mattpocock-skills]] [[obra-superpowers]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

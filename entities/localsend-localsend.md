@@ -34,7 +34,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[chen08209-flclash]] [[multica-ai-andrej-karpathy-skills]] [[flutter-flutter]] [[openai-plugins]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[flutter-flutter]] [[pascalorg-editor]] [[rohitg00-ai-engineering-from-scratch]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

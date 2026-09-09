@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[jetbrains-go-modern-guidelines]] [[openai-plugins]] [[affaan-m-ecc]] [[obra-superpowers]]
+[[obra-superpowers]] [[tailscale-tailcat]] [[pascalorg-editor]] [[majd-ipatool]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[penpot-penpot]] [[openai-plugins]] [[affaan-m-ecc]] [[obra-superpowers]]
+[[obra-superpowers]] [[pascalorg-editor]] [[penpot-penpot]] [[rohitg00-ai-engineering-from-scratch]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

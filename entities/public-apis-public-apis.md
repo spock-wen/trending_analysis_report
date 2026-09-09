@@ -36,5 +36,5 @@ A collective list of free APIs
 
 ## 相关项目
 
-[[openai-skills]] [[ayghri-i-have-adhd]] [[browser-use-browser-use]] [[microsoft-markitdown]]
+[[rohitg00-ai-engineering-from-scratch]] [[tauricresearch-tradingagents]] [[earthtojake-text-to-cad]] [[ayghri-i-have-adhd]]
 

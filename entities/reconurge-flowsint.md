@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[moontechlab-lunatv]] [[zhaoxuya520-reverse-skill]] [[pascalorg-editor]] [[affaan-m-ecc]] [[openwhispr-openwhispr]]
+[[zhaoxuya520-reverse-skill]] [[kaifcodec-user-scanner]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[openwhispr-openwhispr]]
 
 **所属领域**: [[security]]
 

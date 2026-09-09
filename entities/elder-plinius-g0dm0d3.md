@@ -34,7 +34,7 @@ LIBERATED AI CHAT
 
 ## 相关项目
 
-[[moontechlab-lunatv]] [[multica-ai-andrej-karpathy-skills]] [[pascalorg-editor]] [[openai-plugins]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[rohitg00-ai-engineering-from-scratch]] [[vastsa-pi-desktop]]
 
 **所属领域**: [[ai-agent]]
 

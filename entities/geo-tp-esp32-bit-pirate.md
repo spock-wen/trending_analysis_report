@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[magnitudedev-magnitude]] [[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[nvm-sh-nvm]] [[fmtlib-fmt]]
+[[mattpocock-skills]] [[browser-use-browser-use]] [[google-googletest]] [[cathrynlavery-diagram-design]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[moontechlab-lunatv]] [[multica-ai-andrej-karpathy-skills]] [[zhaoxuya520-reverse-skill]] [[pascalorg-editor]] [[openai-plugins]]
+[[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[kaifcodec-user-scanner]] [[pascalorg-editor]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[nvm-sh-nvm]] [[firecrawl-pdf-inspector]] [[tinyhumansai-openhuman]] [[openai-codex]]
+[[mattpocock-skills]] [[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[pacifio-atlas]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[cli]]
 

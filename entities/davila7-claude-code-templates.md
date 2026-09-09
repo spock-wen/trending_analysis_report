@@ -36,7 +36,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[tencent-ai-infra-guard]] [[openai-skills]] [[openai-plugins]] [[nvm-sh-nvm]]
+[[mattpocock-skills]] [[tauricresearch-tradingagents]] [[tencent-ai-infra-guard]] [[obra-superpowers]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

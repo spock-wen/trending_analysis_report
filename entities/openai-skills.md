@@ -36,7 +36,7 @@ Skills Catalog for Codex
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[openai-plugins]] [[ayghri-i-have-adhd]] [[affaan-m-ecc]] [[microsoft-markitdown]]
+[[tauricresearch-tradingagents]] [[obra-superpowers]] [[pascalorg-editor]] [[ayghri-i-have-adhd]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[ai-agent]]
 

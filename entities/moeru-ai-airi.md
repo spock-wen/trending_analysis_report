@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[moontechlab-lunatv]] [[multica-ai-andrej-karpathy-skills]] [[cathrynlavery-diagram-design]] [[pascalorg-editor]] [[openai-plugins]]
+[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[obra-superpowers]] [[pascalorg-editor]] [[livekit-agents]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

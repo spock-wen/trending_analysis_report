@@ -36,7 +36,7 @@ ASP.NET Core is a cross-platform .NET framework for building modern cloud-based 
 
 ## 相关项目
 
-[[k1tbyte-wand-enhancer]] [[par274-sharpemu]] [[cathrynlavery-diagram-design]] [[jellyfin-jellyfin]] [[jo-inc-camofox-browser]]
+[[par274-sharpemu]] [[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[jellyfin-jellyfin]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[web]]
 

@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[openai-skills]] [[ayghri-i-have-adhd]] [[affaan-m-ecc]] [[openwhispr-openwhispr]]
+[[tauricresearch-tradingagents]] [[zhaoxuya520-reverse-skill]] [[kaifcodec-user-scanner]] [[ayghri-i-have-adhd]] [[openwhispr-openwhispr]]
 
 **所属领域**: [[security]]
 

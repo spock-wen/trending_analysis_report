@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[averygan-reclip]] [[ripienaar-free-for-dev]] [[trycua-cua]] [[jo-inc-camofox-browser]]
+[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[averygan-reclip]] [[trycua-cua]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[web]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[zhaoxuya520-reverse-skill]] [[openai-skills]] [[openai-plugins]] [[nvm-sh-nvm]]
+[[mattpocock-skills]] [[tauricresearch-tradingagents]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[kaifcodec-user-scanner]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

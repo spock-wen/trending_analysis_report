@@ -36,7 +36,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[moontechlab-lunatv]] [[multica-ai-andrej-karpathy-skills]] [[aipoch-open-science]] [[pascalorg-editor]] [[openai-plugins]]
+[[mattpocock-skills]] [[tauricresearch-tradingagents]] [[obra-superpowers]] [[pascalorg-editor]] [[bytedance-deer-flow]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

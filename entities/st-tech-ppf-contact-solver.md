@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[openai-skills]] [[nvm-sh-nvm]] [[ayghri-i-have-adhd]] [[microsoft-markitdown]] [[obra-superpowers]]
+[[mattpocock-skills]] [[tauricresearch-tradingagents]] [[obra-superpowers]] [[pascalorg-editor]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[cli]]
 

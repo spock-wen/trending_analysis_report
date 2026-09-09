@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[moontechlab-lunatv]] [[tooljet-tooljet]] [[pascalorg-editor]] [[mksglu-context-mode]] [[genlayerlabs-genlayer-project-boilerplate]]
+[[genlayerlabs-genlayer-project-boilerplate]] [[obra-superpowers]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[radixark-miles]]
 
 **所属领域**: [[erp]]
 

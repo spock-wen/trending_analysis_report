@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[kaifcodec-user-scanner]] [[multica-ai-andrej-karpathy-skills]] [[jetbrains-go-modern-guidelines]] [[zhaoxuya520-reverse-skill]] [[openai-plugins]]
+[[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[kaifcodec-user-scanner]] [[tailscale-tailcat]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

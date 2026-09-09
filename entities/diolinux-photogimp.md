@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[tooljet-tooljet]] [[cathrynlavery-diagram-design]] [[conardli-garden-skills]] [[nutlope-hallmark]] [[obra-superpowers]]
+[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[genlayerlabs-genlayer-project-boilerplate]] [[obra-superpowers]] [[conardli-garden-skills]]
 
 **所属领域**: [[web]] [[erp]]
 

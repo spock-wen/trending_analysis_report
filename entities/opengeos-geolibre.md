@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[moontechlab-lunatv]] [[k-dense-ai-scientific-agent-skills]] [[cathrynlavery-diagram-design]] [[pascalorg-editor]] [[mksglu-context-mode]]
+[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[pascalorg-editor]] [[coreyhaines31-marketingskills]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[web]] [[data]]
 

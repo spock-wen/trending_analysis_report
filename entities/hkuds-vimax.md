@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[conardli-garden-skills]] [[openai-skills]] [[openai-plugins]] [[osmantic-ods]]
+[[tauricresearch-tradingagents]] [[freestylefly-awesome-gpt-image-2]] [[obra-superpowers]] [[pascalorg-editor]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

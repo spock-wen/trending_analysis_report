@@ -35,7 +35,7 @@ A TTS that fits in your CPU (and pocket)
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[obra-superpowers]] [[pascalorg-editor]] [[livekit-agents]] [[ayghri-i-have-adhd]]
+[[openwhispr-openwhispr]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[osmantic-ods]] [[alexsjones-llmfit]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

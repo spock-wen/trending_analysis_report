@@ -34,7 +34,7 @@ A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运�
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[obra-superpowers]] [[pascalorg-editor]] [[ayghri-i-have-adhd]] [[earthtojake-text-to-cad]]
+[[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ A framework for building realtime voice AI agents 🤖🎙️📹
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[obra-superpowers]] [[pascalorg-editor]] [[ayghri-i-have-adhd]] [[openwhispr-openwhispr]]
+[[openwhispr-openwhispr]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[osmantic-ods]] [[alexsjones-llmfit]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

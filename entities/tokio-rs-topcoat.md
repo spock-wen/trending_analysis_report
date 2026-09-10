@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[pacifio-atlas]] [[firecrawl-pdf-inspector]] [[openai-codex]]
+[[firecrawl-pdf-inspector]] [[alexsjones-llmfit]] [[bilawalsidhu-gods-eye-view]] [[heygen-com-hyperframes]] [[browser-use-browser-use]]
 
 **所属领域**: [[web]]
 

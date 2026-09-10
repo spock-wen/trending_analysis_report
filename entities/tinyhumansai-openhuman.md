@@ -38,7 +38,7 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[pacifio-atlas]] [[obra-superpowers]] [[pascalorg-editor]] [[firecrawl-pdf-inspector]]
+[[obra-superpowers]] [[firecrawl-pdf-inspector]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[bytedance-deer-flow]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

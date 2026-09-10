@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[mattpocock-skills]] [[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[obra-superpowers]] [[pascalorg-editor]]
+[[vastsa-pi-desktop]] [[obra-superpowers]] [[tencent-teamai-cli]] [[alexsjones-llmfit]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]] [[cli]]
 

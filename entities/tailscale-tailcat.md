@@ -35,7 +35,7 @@ like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 ## 相关项目
 
-[[obra-superpowers]] [[pascalorg-editor]] [[coreyhaines31-marketingskills]] [[protocolbuffers-protobuf]] [[juliusbrussee-caveman]]
+[[aipoch-open-science]] [[obra-superpowers]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[majd-ipatool]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[obra-superpowers]] [[pascalorg-editor]] [[coreyhaines31-marketingskills]] [[protocolbuffers-protobuf]] [[opa334-dopamine]]
+[[antirez-ds4]] [[obra-superpowers]] [[aipoch-open-science]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

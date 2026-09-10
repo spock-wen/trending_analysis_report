@@ -38,7 +38,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[freestylefly-awesome-gpt-image-2]] [[livekit-agents]] [[ayghri-i-have-adhd]] [[conardli-garden-skills]]
+[[openwhispr-openwhispr]] [[rohitg00-ai-engineering-from-scratch]] [[osmantic-ods]] [[conardli-garden-skills]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

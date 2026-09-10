@@ -38,7 +38,7 @@ This is MCP server for Claude that gives it terminal control, file system search
 
 ## 相关项目
 
-[[mattpocock-skills]] [[obra-superpowers]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[rohitg00-ai-engineering-from-scratch]]
+[[obra-superpowers]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

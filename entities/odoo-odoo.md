@@ -35,7 +35,7 @@ Odoo. Open Source Apps To Grow Your Business.
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[genlayerlabs-genlayer-project-boilerplate]] [[obra-superpowers]] [[ayghri-i-have-adhd]] [[radixark-miles]]
+[[alsk1992-cloddsbot]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[ayghri-i-have-adhd]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[erp]]
 

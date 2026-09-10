@@ -34,7 +34,7 @@ Source control for agents. Use multiple coding agents, track their changes and q
 
 ## 相关项目
 
-[[obra-superpowers]] [[pascalorg-editor]] [[firecrawl-pdf-inspector]] [[openai-codex]] [[tinyhumansai-openhuman]]
+[[obra-superpowers]] [[firecrawl-pdf-inspector]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]]
 

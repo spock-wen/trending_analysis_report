@@ -34,7 +34,7 @@ DevOps Interview Guide
 
 ## 相关项目
 
-[[posthog-posthog]] [[ruvnet-ruflo]] [[ripienaar-free-for-dev]] [[tencent-ai-infra-guard]]
+[[tencent-ai-infra-guard]] [[ruvnet-ruflo]] [[ripienaar-free-for-dev]] [[posthog-posthog]]
 
 **所属领域**: [[devops]]
 

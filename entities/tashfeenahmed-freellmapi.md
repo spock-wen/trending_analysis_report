@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[kaifcodec-user-scanner]] [[pascalorg-editor]] [[heygen-com-hyperframes]]
+[[openwhispr-openwhispr]] [[obra-superpowers]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[alexsjones-llmfit]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

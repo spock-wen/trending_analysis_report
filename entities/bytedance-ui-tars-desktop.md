@@ -34,7 +34,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[tencent-ai-infra-guard]] [[obra-superpowers]] [[pascalorg-editor]] [[posthog-posthog]] [[heygen-com-hyperframes]]
+[[obra-superpowers]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

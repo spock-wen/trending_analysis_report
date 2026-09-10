@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[obra-superpowers]] [[pascalorg-editor]] [[livekit-agents]]
+[[openwhispr-openwhispr]] [[obra-superpowers]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[alexsjones-llmfit]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

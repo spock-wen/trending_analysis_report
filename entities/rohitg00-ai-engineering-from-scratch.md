@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[obra-superpowers]] [[pascalorg-editor]] [[ayghri-i-have-adhd]] [[ruvnet-ruflo]]
+[[obra-superpowers]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[tauricresearch-tradingagents]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

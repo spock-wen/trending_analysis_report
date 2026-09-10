@@ -34,7 +34,7 @@ Deliver web apps with confidence 🚀
 
 ## 相关项目
 
-[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[vastsa-pi-desktop]]
+[[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[bilawalsidhu-gods-eye-view]] [[diegosouzapw-omniroute]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[web]]
 

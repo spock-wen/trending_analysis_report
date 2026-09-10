@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[kaifcodec-user-scanner]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[openwhispr-openwhispr]]
+[[openwhispr-openwhispr]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[kaifcodec-user-scanner]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[security]]
 

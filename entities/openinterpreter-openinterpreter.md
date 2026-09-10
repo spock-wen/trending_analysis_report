@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[pacifio-atlas]] [[obra-superpowers]] [[pascalorg-editor]] [[firecrawl-pdf-inspector]]
+[[alsk1992-cloddsbot]] [[obra-superpowers]] [[firecrawl-pdf-inspector]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[pacifio-atlas]] [[obra-superpowers]]
+[[firecrawl-pdf-inspector]] [[obra-superpowers]] [[alexsjones-llmfit]] [[bilawalsidhu-gods-eye-view]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[web]] [[cli]]
 

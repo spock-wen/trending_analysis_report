@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[tencent-ai-infra-guard]] [[pascalorg-editor]] [[posthog-posthog]] [[coreyhaines31-marketingskills]] [[protocolbuffers-protobuf]]
+[[aipoch-open-science]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[tencent-ai-infra-guard]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[data]] [[devops]]
 

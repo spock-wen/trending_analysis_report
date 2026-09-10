@@ -38,7 +38,7 @@ AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框�
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[obra-superpowers]] [[pascalorg-editor]] [[ayghri-i-have-adhd]] [[bytedance-deer-flow]]
+[[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[bytedance-deer-flow]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

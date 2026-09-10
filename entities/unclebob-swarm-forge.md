@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[obra-superpowers]] [[pascalorg-editor]] [[penpot-penpot]] [[rohitg00-ai-engineering-from-scratch]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[diegosouzapw-omniroute]] [[penpot-penpot]]
 
 **所属领域**: [[ai-agent]]
 

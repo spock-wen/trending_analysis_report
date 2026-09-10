@@ -37,7 +37,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[tauricresearch-tradingagents]] [[obra-superpowers]] [[pascalorg-editor]]
+[[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

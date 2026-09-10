@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[mattpocock-skills]] [[tauricresearch-tradingagents]] [[obra-superpowers]] [[pascalorg-editor]] [[livekit-agents]]
+[[openwhispr-openwhispr]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[osmantic-ods]] [[alexsjones-llmfit]]
 
 **所属领域**: [[cli]] [[audio]]
 

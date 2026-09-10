@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[mattpocock-skills]] [[tauricresearch-tradingagents]] [[obra-superpowers]] [[kaifcodec-user-scanner]] [[pascalorg-editor]]
+[[openwhispr-openwhispr]] [[obra-superpowers]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[bytedance-deer-flow]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

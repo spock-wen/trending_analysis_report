@@ -37,5 +37,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[vastsa-pi-desktop]] [[heygen-com-hyperframes]] [[pascalorg-editor]] [[tencent-teamai-cli]]
+[[thu-maic-openmaic]] [[tencent-teamai-cli]] [[diegosouzapw-omniroute]] [[vastsa-pi-desktop]]
 

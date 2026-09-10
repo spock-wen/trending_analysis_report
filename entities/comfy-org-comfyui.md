@@ -35,7 +35,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[freestylefly-awesome-gpt-image-2]] [[ayghri-i-have-adhd]] [[conardli-garden-skills]] [[earthtojake-text-to-cad]]
+[[rohitg00-ai-engineering-from-scratch]] [[osmantic-ods]] [[conardli-garden-skills]] [[ayghri-i-have-adhd]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[image-gen]]
 

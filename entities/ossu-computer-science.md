@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[averygan-reclip]] [[trycua-cua]] [[heygen-com-hyperframes]]
+[[trycua-cua]] [[bilawalsidhu-gods-eye-view]] [[averygan-reclip]] [[heygen-com-hyperframes]] [[browser-use-browser-use]]
 
 **所属领域**: [[web]]
 

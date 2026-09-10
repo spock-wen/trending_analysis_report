@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[mattpocock-skills]] [[browser-use-browser-use]] [[google-googletest]] [[cathrynlavery-diagram-design]] [[obra-superpowers]]
+[[fmtlib-fmt]] [[obra-superpowers]] [[alexsjones-llmfit]] [[google-googletest]] [[microsoft-onnxruntime]]
 
 **所属领域**: [[web]] [[cli]]
 

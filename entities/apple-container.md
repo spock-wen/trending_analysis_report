@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[permissionlesstech-bitchat]] [[lakr233-vphone-cli]] [[obra-superpowers]] [[altic-dev-fluidvoice]] [[pascalorg-editor]]
+[[lakr233-vphone-cli]] [[obra-superpowers]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[jaywcjlove-awesome-mac]]
 
 **所属领域**: [[ai-agent]]
 

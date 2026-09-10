@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[mattpocock-skills]] [[obra-superpowers]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[ruvnet-ruflo]]
+[[obra-superpowers]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

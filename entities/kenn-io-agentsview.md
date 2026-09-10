@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[obra-superpowers]] [[tailscale-tailcat]] [[pascalorg-editor]] [[coreyhaines31-marketingskills]] [[protocolbuffers-protobuf]]
+[[aipoch-open-science]] [[obra-superpowers]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[majd-ipatool]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

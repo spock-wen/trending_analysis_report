@@ -38,7 +38,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[obra-superpowers]] [[pascalorg-editor]] [[ayghri-i-have-adhd]] [[bytedance-deer-flow]] [[earthtojake-text-to-cad]]
+[[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[bytedance-deer-flow]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

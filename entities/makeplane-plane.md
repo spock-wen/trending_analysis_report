@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[obra-superpowers]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[vastsa-pi-desktop]]
+[[obra-superpowers]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[alexsjones-llmfit]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[cli]]
 

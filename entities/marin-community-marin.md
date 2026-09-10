@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[ayghri-i-have-adhd]] [[bytedance-deer-flow]] [[earthtojake-text-to-cad]] [[rohitg00-ai-engineering-from-scratch]]
+[[rohitg00-ai-engineering-from-scratch]] [[bytedance-deer-flow]] [[ayghri-i-have-adhd]] [[tauricresearch-tradingagents]] [[nousresearch-hermes-agent]]
 
 **所属领域**: [[science]]
 

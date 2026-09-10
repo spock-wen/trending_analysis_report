@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[genlayerlabs-genlayer-project-boilerplate]] [[obra-superpowers]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[radixark-miles]]
+[[alsk1992-cloddsbot]] [[obra-superpowers]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[erp]]
 

@@ -35,7 +35,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]] [[affaan-m-ecc]] [[pascalorg-editor]]
+[[alexsjones-llmfit]] [[diegosouzapw-omniroute]] [[ayghri-i-have-adhd]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

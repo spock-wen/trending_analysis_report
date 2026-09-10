@@ -34,7 +34,7 @@ The easiest, most secure way to use WireGuard and 2FA.
 
 ## 相关项目
 
-[[obra-superpowers]] [[tailscale-tailcat]] [[pascalorg-editor]] [[juliusbrussee-caveman]] [[majd-ipatool]]
+[[obra-superpowers]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[majd-ipatool]] [[jetbrains-go-modern-guidelines]]
 
 **所属领域**: [[ai-agent]]
 

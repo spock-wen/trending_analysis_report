@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[nationalsecurityagency-ghidra]] [[obra-superpowers]] [[pascalorg-editor]] [[coreyhaines31-marketingskills]]
+[[nationalsecurityagency-ghidra]] [[aipoch-open-science]] [[obra-superpowers]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

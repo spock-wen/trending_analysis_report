@@ -37,5 +37,5 @@ language: "Rust"
 
 ## 相关项目
 
-[[openai-codex]] [[pacifio-atlas]] [[tinyhumansai-openhuman]] [[firecrawl-pdf-inspector]]
+[[alexsjones-llmfit]] [[tinyhumansai-openhuman]] [[pacifio-atlas]] [[firecrawl-pdf-inspector]]
 

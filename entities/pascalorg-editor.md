@@ -16,7 +16,6 @@ last_trending: 2026-09-10
 peak_rank: 1
 total_stars: 22874
 language: "TypeScript"
-contested: true
 ---
 
 # pascalorg/editor
@@ -39,17 +38,7 @@ Open-source 3D architectural editor with a local CLI, MCP tools, and practical w
 
 ## 相关项目
 
-[[mattpocock-skills]] [[obra-superpowers]] [[heygen-com-hyperframes]] [[rohitg00-ai-engineering-from-scratch]] [[vastsa-pi-desktop]]
+[[obra-superpowers]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[ai-agent]] [[cli]]
-
-
-## ⚠️ 描述变更（2026-09-10）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: Create and share 3D architectural projects.
-- **新描述**: Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[tencent-ai-infra-guard]] [[pascalorg-editor]] [[posthog-posthog]] [[ruvnet-ruflo]] [[heygen-com-hyperframes]]
+[[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[tencent-ai-infra-guard]] [[diegosouzapw-omniroute]] [[posthog-posthog]]
 
 **所属领域**: [[devops]]
 

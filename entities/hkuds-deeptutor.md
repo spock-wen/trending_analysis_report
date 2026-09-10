@@ -37,7 +37,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[tauricresearch-tradingagents]] [[ayghri-i-have-adhd]] [[heygen-com-hyperframes]]
+[[rohitg00-ai-engineering-from-scratch]] [[ayghri-i-have-adhd]] [[tauricresearch-tradingagents]] [[bilawalsidhu-gods-eye-view]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[web]]
 

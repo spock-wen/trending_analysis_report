@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[lyogavin-airllm]] [[obra-superpowers]] [[pascalorg-editor]] [[ruvnet-ruflo]]
+[[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[alexsjones-llmfit]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

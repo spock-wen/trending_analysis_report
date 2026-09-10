@@ -1,20 +1,20 @@
 ---
 title: "ayghri/i-have-adhd"
 created: 2026-07-22
-updated: 2026-09-10
-last_active: 2026-09-10
+updated: 2026-09-11
+last_active: 2026-09-11
 type: tool
-tags: [python, ai-agent]
-sources: [raw/trending/2026-09-10.json]
+tags: [python, ai-agent, rising]
+sources: [raw/trending/2026-09-11.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 3
 first_trending: 2026-07-22
-last_trending: 2026-09-10
+last_trending: 2026-09-11
 peak_rank: 1
-total_stars: 34434
+total_stars: 38139
 language: "Python"
 ---
 
@@ -23,13 +23,14 @@ language: "Python"
 A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 
 - 语言: Python
-- 上榜次数: 4 次
-- 连续上榜: 2 天
+- 上榜次数: 5 次
+- 连续上榜: 3 天
 - 最高排名: #1
 - 链接: [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
 
 ## 上榜历史
 
+  - 2026-09-11: #1, +3854⭐
   - 2026-09-10: #1, +4624⭐
   - 2026-09-09: #1, +422⭐
   - 2026-07-23: #3, +1682⭐
@@ -37,7 +38,7 @@ A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[obra-superpowers]] [[pascalorg-editor]] [[earthtojake-text-to-cad]] [[rohitg00-ai-engineering-from-scratch]]
+[[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[alexsjones-llmfit]] [[tauricresearch-tradingagents]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]]
 

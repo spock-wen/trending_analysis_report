@@ -34,7 +34,7 @@ Stremio - Freedom to Stream
 
 ## 相关项目
 
-[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[freestylefly-awesome-gpt-image-2]] [[coreyhaines31-marketingskills]] [[openai-plugins]]
+[[bilawalsidhu-gods-eye-view]] [[heygen-com-hyperframes]] [[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[affaan-m-ecc]]
 
 **所属领域**: [[web]]
 

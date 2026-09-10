@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[pascalorg-editor]] [[coreyhaines31-marketingskills]]
+[[openwhispr-openwhispr]] [[aipoch-open-science]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

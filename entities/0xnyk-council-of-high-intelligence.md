@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[obra-superpowers]] [[pascalorg-editor]] [[nvm-sh-nvm]] [[basecamp-omarchy]] [[rohitg00-ai-engineering-from-scratch]]
+[[obra-superpowers]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[basecamp-omarchy]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

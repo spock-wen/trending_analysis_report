@@ -34,5 +34,5 @@ Free and Open Source Machine Translation API. Self-hosted, offline capable and e
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[tauricresearch-tradingagents]] [[earthtojake-text-to-cad]] [[ayghri-i-have-adhd]]
+[[ayghri-i-have-adhd]] [[earthtojake-text-to-cad]] [[tauricresearch-tradingagents]] [[rohitg00-ai-engineering-from-scratch]]
 

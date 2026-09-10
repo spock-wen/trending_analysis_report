@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[obra-superpowers]] [[pascalorg-editor]] [[heygen-com-hyperframes]] [[radixark-miles]] [[vastsa-pi-desktop]]
+[[alsk1992-cloddsbot]] [[obra-superpowers]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[erp]]
 

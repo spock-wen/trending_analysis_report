@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[mattpocock-skills]] [[obra-superpowers]] [[tailscale-tailcat]] [[pascalorg-editor]] [[juliusbrussee-caveman]]
+[[obra-superpowers]] [[alexsjones-llmfit]] [[majd-ipatool]] [[jetbrains-go-modern-guidelines]] [[diegosouzapw-omniroute]]
 
 **所属领域**: [[cli]]
 

@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[obra-superpowers]] [[pascalorg-editor]] [[livekit-agents]] [[heygen-com-hyperframes]] [[openwhispr-openwhispr]]
+[[openwhispr-openwhispr]] [[obra-superpowers]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[alexsjones-llmfit]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

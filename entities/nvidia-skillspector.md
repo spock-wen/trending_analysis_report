@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[kaifcodec-user-scanner]] [[pascalorg-editor]]
+[[openwhispr-openwhispr]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[zhaoxuya520-reverse-skill]] [[alexsjones-llmfit]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[tauricresearch-tradingagents]] [[tencent-ai-infra-guard]] [[obra-superpowers]]
+[[aipoch-open-science]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[tencent-ai-infra-guard]] [[alexsjones-llmfit]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

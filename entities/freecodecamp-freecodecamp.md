@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[pascalorg-editor]] [[heygen-com-hyperframes]] [[ruvnet-ruflo]] [[radixark-miles]] [[rohitg00-ai-engineering-from-scratch]]
+[[rohitg00-ai-engineering-from-scratch]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[diegosouzapw-omniroute]] [[radixark-miles]]
 
 **所属领域**: [[education]]
 

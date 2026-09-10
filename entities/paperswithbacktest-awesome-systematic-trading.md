@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[ayghri-i-have-adhd]] [[bytedance-deer-flow]] [[ruvnet-ruflo]] [[radixark-miles]]
+[[rohitg00-ai-engineering-from-scratch]] [[bytedance-deer-flow]] [[ayghri-i-have-adhd]] [[tauricresearch-tradingagents]] [[radixark-miles]]
 
 **所属领域**: [[education]] [[science]]
 

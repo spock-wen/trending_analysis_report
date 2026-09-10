@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[browser-use-browser-use]] [[cathrynlavery-diagram-design]] [[averygan-reclip]] [[trycua-cua]] [[thu-maic-openmaic]]
+[[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]] [[bilawalsidhu-gods-eye-view]] [[averygan-reclip]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[web]] [[education]]
 

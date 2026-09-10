@@ -36,5 +36,5 @@ A beautiful, powerful, self-hosted rom manager and player.
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[tauricresearch-tradingagents]] [[earthtojake-text-to-cad]] [[ayghri-i-have-adhd]]
+[[ayghri-i-have-adhd]] [[earthtojake-text-to-cad]] [[tauricresearch-tradingagents]] [[rohitg00-ai-engineering-from-scratch]]
 

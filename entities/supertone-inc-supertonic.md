@@ -36,7 +36,7 @@ Lightning-Fast, On-Device, Multilingual TTS running natively via ONNX.
 
 ## 相关项目
 
-[[lakr233-vphone-cli]] [[openwhispr-openwhispr]] [[osmantic-ods]] [[debpalash-voicestudio]] [[jaywcjlove-awesome-mac]]
+[[openwhispr-openwhispr]] [[permissionlesstech-bitchat]] [[debpalash-voicestudio]] [[livekit-agents]] [[osmantic-ods]]
 
 **所属领域**: [[audio]]
 

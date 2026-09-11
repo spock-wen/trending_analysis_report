@@ -35,7 +35,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[diegosouzapw-omniroute]] [[ayghri-i-have-adhd]] [[obra-superpowers]]
+[[pascalorg-editor]] [[vastsa-pi-desktop]] [[obra-superpowers]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[ai-agent]]
 

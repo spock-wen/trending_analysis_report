@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[bytedance-deer-flow]] [[ayghri-i-have-adhd]] [[tauricresearch-tradingagents]] [[nousresearch-hermes-agent]]
+[[github-spec-kit]] [[alphaxiv-openresearch]] [[p1neapplexpress-openflux]] [[jihe520-mathmodelagent]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[science]]
 

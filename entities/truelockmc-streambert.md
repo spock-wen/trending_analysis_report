@@ -35,5 +35,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[freestylefly-awesome-gpt-image-2]] [[openai-plugins]] [[affaan-m-ecc]] [[bilawalsidhu-gods-eye-view]]
+[[bilawalsidhu-gods-eye-view]] [[freestylefly-awesome-gpt-image-2]] [[openai-plugins]] [[affaan-m-ecc]]
 

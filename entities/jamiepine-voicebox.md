@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[openwhispr-openwhispr]] [[obra-superpowers]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[alexsjones-llmfit]]
+[[nab138-iloader]] [[alsk1992-cloddsbot]] [[openwhispr-openwhispr]] [[debpalash-voicestudio]] [[livekit-agents]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

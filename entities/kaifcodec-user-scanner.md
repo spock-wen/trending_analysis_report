@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[openwhispr-openwhispr]] [[aipoch-open-science]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[zhaoxuya520-reverse-skill]]
+[[aipoch-open-science]] [[github-spec-kit]] [[coreyhaines31-marketingskills]] [[openwhispr-openwhispr]] [[alphaxiv-openresearch]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

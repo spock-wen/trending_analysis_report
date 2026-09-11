@@ -34,7 +34,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[obra-superpowers]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[diegosouzapw-omniroute]] [[chen08209-flclash]]
+[[chen08209-flclash]] [[flutter-flutter]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

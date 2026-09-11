@@ -34,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[jellyfin-jellyfin]] [[k1tbyte-wand-enhancer]] [[openwhispr-openwhispr]] [[dotnet-aspnetcore]] [[kaifcodec-user-scanner]]
+[[openwhispr-openwhispr]] [[kaifcodec-user-scanner]] [[sonarr-sonarr]] [[k1tbyte-wand-enhancer]] [[jellyfin-jellyfin]]
 
 **所属领域**: [[security]]
 

@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[obra-superpowers]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]]
+[[nab138-iloader]] [[alsk1992-cloddsbot]] [[conardli-garden-skills]] [[pascalorg-editor]] [[vastsa-pi-desktop]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

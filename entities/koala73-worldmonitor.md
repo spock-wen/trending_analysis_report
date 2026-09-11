@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[obra-superpowers]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]]
+[[nab138-iloader]] [[alsk1992-cloddsbot]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

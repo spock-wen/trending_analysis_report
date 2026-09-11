@@ -35,7 +35,7 @@ Make Every Team AI Native
 
 ## 相关项目
 
-[[obra-superpowers]] [[vastsa-pi-desktop]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[diegosouzapw-omniroute]]
+[[nab138-iloader]] [[alsk1992-cloddsbot]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

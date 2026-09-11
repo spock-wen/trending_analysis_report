@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[openwhispr-openwhispr]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]]
+[[juliusbrussee-caveman]] [[openwhispr-openwhispr]] [[zhaoxuya520-reverse-skill]] [[kaifcodec-user-scanner]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

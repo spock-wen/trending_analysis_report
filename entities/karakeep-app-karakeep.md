@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[obra-superpowers]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]]
+[[nab138-iloader]] [[alsk1992-cloddsbot]] [[conardli-garden-skills]] [[pascalorg-editor]] [[vastsa-pi-desktop]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

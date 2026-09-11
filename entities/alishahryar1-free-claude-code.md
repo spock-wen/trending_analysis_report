@@ -38,7 +38,7 @@ Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your 
 
 ## 相关项目
 
-[[openwhispr-openwhispr]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[osmantic-ods]] [[alexsjones-llmfit]]
+[[github-spec-kit]] [[openwhispr-openwhispr]] [[debpalash-voicestudio]] [[livekit-agents]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

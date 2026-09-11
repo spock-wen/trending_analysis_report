@@ -35,7 +35,7 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[aipoch-open-science]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]]
+[[aipoch-open-science]] [[github-spec-kit]] [[coreyhaines31-marketingskills]] [[pascalorg-editor]] [[vastsa-pi-desktop]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

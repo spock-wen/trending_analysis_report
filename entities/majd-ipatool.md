@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[obra-superpowers]] [[alexsjones-llmfit]] [[jetbrains-go-modern-guidelines]] [[diegosouzapw-omniroute]] [[thu-maic-openmaic]]
+[[juliusbrussee-caveman]] [[pascalorg-editor]] [[p1neapplexpress-openflux]] [[obra-superpowers]] [[alexsjones-llmfit]]
 
 **所属领域**: [[cli]]
 

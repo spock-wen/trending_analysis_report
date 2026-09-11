@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[obra-superpowers]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[basecamp-omarchy]] [[diegosouzapw-omniroute]]
+[[mattpocock-skills]] [[nvm-sh-nvm]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

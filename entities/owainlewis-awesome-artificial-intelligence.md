@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[bytedance-deer-flow]]
+[[alphaxiv-openresearch]] [[radixark-miles]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

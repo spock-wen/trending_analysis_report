@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[lakr233-vphone-cli]] [[openwhispr-openwhispr]] [[obra-superpowers]] [[osmantic-ods]] [[alexsjones-llmfit]]
+[[openwhispr-openwhispr]] [[permissionlesstech-bitchat]] [[debpalash-voicestudio]] [[cathrynlavery-diagram-design]] [[livekit-agents]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

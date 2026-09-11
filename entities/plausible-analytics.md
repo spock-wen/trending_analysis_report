@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[openwhispr-openwhispr]] [[aipoch-open-science]] [[bilawalsidhu-gods-eye-view]] [[kaifcodec-user-scanner]] [[heygen-com-hyperframes]]
+[[aipoch-open-science]] [[coreyhaines31-marketingskills]] [[openwhispr-openwhispr]] [[kaifcodec-user-scanner]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

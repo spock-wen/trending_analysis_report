@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[openwhispr-openwhispr]] [[obra-superpowers]] [[osmantic-ods]] [[alexsjones-llmfit]]
+[[openwhispr-openwhispr]] [[debpalash-voicestudio]] [[livekit-agents]] [[google-googletest]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

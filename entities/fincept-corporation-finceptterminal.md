@@ -35,7 +35,7 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 
 ## 相关项目
 
-[[aipoch-open-science]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]]
+[[aipoch-open-science]] [[github-spec-kit]] [[coreyhaines31-marketingskills]] [[alphaxiv-openresearch]] [[pascalorg-editor]]
 
 **所属领域**: [[cli]] [[data]] [[science]]
 

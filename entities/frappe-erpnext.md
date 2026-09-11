@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[alsk1992-cloddsbot]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[ayghri-i-have-adhd]] [[tauricresearch-tradingagents]]
+[[alsk1992-cloddsbot]] [[github-spec-kit]] [[radixark-miles]] [[melgarafael-deskcommcrm]] [[jihe520-mathmodelagent]]
 
 **所属领域**: [[erp]]
 

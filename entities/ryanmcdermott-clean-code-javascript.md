@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[freestylefly-awesome-gpt-image-2]] [[openai-plugins]] [[affaan-m-ecc]] [[bilawalsidhu-gods-eye-view]]
+[[bilawalsidhu-gods-eye-view]] [[freestylefly-awesome-gpt-image-2]] [[openai-plugins]] [[affaan-m-ecc]]
 

@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[aipoch-open-science]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[bilawalsidhu-gods-eye-view]] [[diegosouzapw-omniroute]]
+[[nab138-iloader]] [[alsk1992-cloddsbot]] [[aipoch-open-science]] [[coreyhaines31-marketingskills]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[data]]
 

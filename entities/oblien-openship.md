@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[tencent-ai-infra-guard]] [[diegosouzapw-omniroute]] [[posthog-posthog]]
+[[nab138-iloader]] [[alsk1992-cloddsbot]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[pascalorg-editor]]
 
 **所属领域**: [[devops]]
 

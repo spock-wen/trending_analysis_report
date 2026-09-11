@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[majd-ipatool]] [[bilawalsidhu-gods-eye-view]] [[jetbrains-go-modern-guidelines]] [[heygen-com-hyperframes]] [[browser-use-browser-use]]
+[[juliusbrussee-caveman]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[majd-ipatool]] [[p1neapplexpress-openflux]]
 
 **所属领域**: [[web]]
 

@@ -34,5 +34,5 @@ Effortlessly compose, extend, and observe every service in real-time for the fir
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[tinyhumansai-openhuman]] [[pacifio-atlas]] [[firecrawl-pdf-inspector]]
+[[alphaxiv-openresearch]] [[firecrawl-pdf-inspector]] [[pacifio-atlas]] [[alexsjones-llmfit]]
 

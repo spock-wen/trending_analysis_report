@@ -1,20 +1,20 @@
 ---
 title: "vastsa/PI-Desktop"
 created: 2026-09-10
-updated: 2026-09-11
-last_active: 2026-09-11
+updated: 2026-09-12
+last_active: 2026-09-12
 type: tool
-tags: [typescript, ai-agent]
-sources: [raw/trending/2026-09-11.json]
-confidence: medium
-trending_count_daily: 2
+tags: [typescript, ai-agent, rising]
+sources: [raw/trending/2026-09-12.json]
+confidence: high
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 3
 first_trending: 2026-09-10
-last_trending: 2026-09-11
-peak_rank: 12
-total_stars: 2261
+last_trending: 2026-09-12
+peak_rank: 5
+total_stars: 2761
 language: "TypeScript"
 ---
 
@@ -23,19 +23,20 @@ language: "TypeScript"
 Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
 
 - 语言: TypeScript
-- 上榜次数: 2 次
-- 连续上榜: 2 天
-- 最高排名: #12
+- 上榜次数: 3 次
+- 连续上榜: 3 天
+- 最高排名: #5
 - 链接: [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)
 
 ## 上榜历史
 
+  - 2026-09-12: #5, +545⭐
   - 2026-09-11: #16, +636⭐
   - 2026-09-10: #12, +393⭐
 
 ## 相关项目
 
-[[obra-superpowers]] [[tencent-teamai-cli]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[diegosouzapw-omniroute]]
+[[nab138-iloader]] [[alsk1992-cloddsbot]] [[pascalorg-editor]] [[obra-superpowers]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[ai-agent]]
 

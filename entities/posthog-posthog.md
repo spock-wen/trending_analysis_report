@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[aipoch-open-science]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[tencent-ai-infra-guard]] [[alexsjones-llmfit]]
+[[aipoch-open-science]] [[github-spec-kit]] [[coreyhaines31-marketingskills]] [[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[openwhispr-openwhispr]] [[obra-superpowers]] [[alexsjones-llmfit]] [[google-googletest]]
+[[openwhispr-openwhispr]] [[kaifcodec-user-scanner]] [[affaan-m-ecc]] [[google-googletest]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[cli]] [[security]]
 

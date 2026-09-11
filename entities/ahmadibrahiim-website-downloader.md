@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[trycua-cua]] [[osmantic-ods]] [[conardli-garden-skills]] [[bilawalsidhu-gods-eye-view]] [[averygan-reclip]]
+[[ripienaar-free-for-dev]] [[conardli-garden-skills]] [[cathrynlavery-diagram-design]] [[averygan-reclip]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]] [[image-gen]]
 

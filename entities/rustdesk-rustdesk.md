@@ -34,5 +34,5 @@ An open-source remote desktop application designed for self-hosting, as an alter
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[tinyhumansai-openhuman]] [[pacifio-atlas]] [[firecrawl-pdf-inspector]]
+[[alphaxiv-openresearch]] [[firecrawl-pdf-inspector]] [[pacifio-atlas]] [[alexsjones-llmfit]]
 

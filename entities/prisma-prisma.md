@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[aipoch-open-science]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[osmantic-ods]] [[conardli-garden-skills]]
+[[nab138-iloader]] [[alsk1992-cloddsbot]] [[aipoch-open-science]] [[coreyhaines31-marketingskills]] [[conardli-garden-skills]]
 
 **所属领域**: [[data]] [[image-gen]]
 

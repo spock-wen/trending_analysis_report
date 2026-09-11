@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[openwhispr-openwhispr]] [[github-copilot-sdk]] [[kaifcodec-user-scanner]] [[affaan-m-ecc]]
+[[openwhispr-openwhispr]] [[kaifcodec-user-scanner]] [[checkstyle-checkstyle]] [[nationalsecurityagency-ghidra]] [[google-guava]]
 
 **所属领域**: [[security]]
 

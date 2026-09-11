@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[obra-superpowers]] [[alexsjones-llmfit]] [[majd-ipatool]] [[jetbrains-go-modern-guidelines]] [[diegosouzapw-omniroute]]
+[[juliusbrussee-caveman]] [[pascalorg-editor]] [[majd-ipatool]] [[p1neapplexpress-openflux]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

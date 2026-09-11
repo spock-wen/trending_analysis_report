@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[ayghri-i-have-adhd]] [[tauricresearch-tradingagents]] [[bilawalsidhu-gods-eye-view]] [[heygen-com-hyperframes]]
+[[github-spec-kit]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[jihe520-mathmodelagent]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[web]]
 

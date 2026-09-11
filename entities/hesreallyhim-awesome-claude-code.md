@@ -35,7 +35,7 @@ A hand-picked collection of the finest of resources for the most awesome of agen
 
 ## 相关项目
 
-[[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[tauricresearch-tradingagents]]
+[[github-spec-kit]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[jihe520-mathmodelagent]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

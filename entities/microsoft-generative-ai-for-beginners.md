@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]]
+[[radixark-miles]] [[lyogavin-airllm]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -35,7 +35,7 @@ Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice
 
 ## 相关项目
 
-[[openwhispr-openwhispr]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]]
+[[github-spec-kit]] [[openwhispr-openwhispr]] [[conardli-garden-skills]] [[debpalash-voicestudio]] [[livekit-agents]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[osmantic-ods]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]]
+[[github-spec-kit]] [[alphaxiv-openresearch]] [[conardli-garden-skills]] [[pascalorg-editor]] [[vastsa-pi-desktop]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

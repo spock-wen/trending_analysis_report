@@ -35,7 +35,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[alsk1992-cloddsbot]] [[openwhispr-openwhispr]] [[rohitg00-ai-engineering-from-scratch]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]]
+[[alsk1992-cloddsbot]] [[github-spec-kit]] [[openwhispr-openwhispr]] [[kaifcodec-user-scanner]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

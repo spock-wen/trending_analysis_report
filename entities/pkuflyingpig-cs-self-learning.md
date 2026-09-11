@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]] [[bilawalsidhu-gods-eye-view]] [[averygan-reclip]] [[heygen-com-hyperframes]]
+[[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]] [[radixark-miles]] [[averygan-reclip]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]] [[education]]
 

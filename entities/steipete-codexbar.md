@@ -36,7 +36,7 @@ Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 ## 相关项目
 
-[[lakr233-vphone-cli]] [[obra-superpowers]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[jaywcjlove-awesome-mac]]
+[[permissionlesstech-bitchat]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[obra-superpowers]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[ai-agent]]
 

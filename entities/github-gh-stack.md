@@ -34,5 +34,5 @@ GitHub Stacked PRs
 
 ## 相关项目
 
-[[jetbrains-go-modern-guidelines]] [[tailscale-tailcat]] [[juliusbrussee-caveman]] [[majd-ipatool]]
+[[juliusbrussee-caveman]] [[jetbrains-go-modern-guidelines]] [[majd-ipatool]] [[p1neapplexpress-openflux]]
 

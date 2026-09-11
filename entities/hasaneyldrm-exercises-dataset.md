@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[aipoch-open-science]] [[obra-superpowers]] [[trycua-cua]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]]
+[[aipoch-open-science]] [[coreyhaines31-marketingskills]] [[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

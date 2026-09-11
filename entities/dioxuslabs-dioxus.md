@@ -35,7 +35,7 @@ Fullstack app framework for web, desktop, and mobile.
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[alexsjones-llmfit]] [[bilawalsidhu-gods-eye-view]] [[heygen-com-hyperframes]] [[browser-use-browser-use]]
+[[pacifio-atlas]] [[alphaxiv-openresearch]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[alexsjones-llmfit]]
 
 **所属领域**: [[web]]
 

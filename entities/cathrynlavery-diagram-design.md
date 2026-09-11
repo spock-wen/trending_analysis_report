@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[obra-superpowers]] [[trycua-cua]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[bilawalsidhu-gods-eye-view]]
+[[ripienaar-free-for-dev]] [[averygan-reclip]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

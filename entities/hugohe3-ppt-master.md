@@ -35,7 +35,7 @@ AI turns documents or topics into real, native PowerPoint decks—with native sh
 
 ## 相关项目
 
-[[alsk1992-cloddsbot]] [[openwhispr-openwhispr]] [[aipoch-open-science]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]]
+[[alsk1992-cloddsbot]] [[aipoch-open-science]] [[github-spec-kit]] [[coreyhaines31-marketingskills]] [[openwhispr-openwhispr]]
 
 **所属领域**: [[ai-agent]] [[data]] [[erp]] [[audio]]
 

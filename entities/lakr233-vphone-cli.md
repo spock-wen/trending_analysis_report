@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[obra-superpowers]] [[alexsjones-llmfit]] [[jaywcjlove-awesome-mac]] [[diegosouzapw-omniroute]] [[altic-dev-fluidvoice]]
+[[permissionlesstech-bitchat]] [[pascalorg-editor]] [[obra-superpowers]] [[alexsjones-llmfit]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[cli]]
 

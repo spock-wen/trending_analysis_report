@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[jellyfin-jellyfin]] [[k1tbyte-wand-enhancer]] [[obra-superpowers]] [[dotnet-aspnetcore]] [[alexsjones-llmfit]]
+[[sonarr-sonarr]] [[k1tbyte-wand-enhancer]] [[jellyfin-jellyfin]] [[dotnet-aspnetcore]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]]
 

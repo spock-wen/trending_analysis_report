@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[openwhispr-openwhispr]] [[obra-superpowers]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[alexsjones-llmfit]]
+[[nab138-iloader]] [[alsk1992-cloddsbot]] [[openwhispr-openwhispr]] [[kaifcodec-user-scanner]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

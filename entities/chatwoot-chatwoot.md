@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[obra-superpowers]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[docusealco-docuseal]] [[diegosouzapw-omniroute]]
+[[pascalorg-editor]] [[docusealco-docuseal]] [[vastsa-pi-desktop]] [[obra-superpowers]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[obra-superpowers]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[majd-ipatool]] [[jetbrains-go-modern-guidelines]]
+[[pascalorg-editor]] [[vastsa-pi-desktop]] [[majd-ipatool]] [[p1neapplexpress-openflux]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

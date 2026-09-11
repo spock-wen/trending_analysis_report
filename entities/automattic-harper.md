@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[openwhispr-openwhispr]] [[firecrawl-pdf-inspector]] [[alexsjones-llmfit]] [[kaifcodec-user-scanner]] [[tinyhumansai-openhuman]]
+[[pacifio-atlas]] [[openwhispr-openwhispr]] [[alphaxiv-openresearch]] [[kaifcodec-user-scanner]] [[alexsjones-llmfit]]
 
 **所属领域**: [[security]]
 

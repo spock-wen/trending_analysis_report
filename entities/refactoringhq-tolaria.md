@@ -38,5 +38,5 @@ Desktop app to manage markdown knowledge bases
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[tencent-teamai-cli]] [[diegosouzapw-omniroute]] [[vastsa-pi-desktop]]
+[[nab138-iloader]] [[pascalorg-editor]] [[alsk1992-cloddsbot]] [[vastsa-pi-desktop]]
 

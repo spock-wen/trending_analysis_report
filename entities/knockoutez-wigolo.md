@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[obra-superpowers]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]]
+[[nab138-iloader]] [[alsk1992-cloddsbot]] [[alphaxiv-openresearch]] [[cathrynlavery-diagram-design]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

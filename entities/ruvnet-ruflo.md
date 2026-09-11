@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[obra-superpowers]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]]
+[[nab138-iloader]] [[alsk1992-cloddsbot]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[radixark-miles]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

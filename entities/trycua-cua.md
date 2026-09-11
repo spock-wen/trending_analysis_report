@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[aipoch-open-science]] [[obra-superpowers]] [[osmantic-ods]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]]
+[[aipoch-open-science]] [[coreyhaines31-marketingskills]] [[ripienaar-free-for-dev]] [[conardli-garden-skills]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

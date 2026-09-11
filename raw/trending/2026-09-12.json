@@ -1,0 +1,143 @@
+{
+  "date": "2026-09-12",
+  "scraped_at": "2026-09-12T07:01:10.645721",
+  "period": "daily",
+  "count": 15,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars_today": 3440,
+      "total_stars": 41639,
+      "url": "https://github.com/ayghri/i-have-adhd"
+    },
+    {
+      "rank": 2,
+      "repo": "bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars_today": 3642,
+      "total_stars": 26980,
+      "url": "https://github.com/bilawalsidhu/gods-eye-view"
+    },
+    {
+      "rank": 3,
+      "repo": "nab138/iloader",
+      "description": "User friendly sideloader",
+      "language": "TypeScript",
+      "stars_today": 36,
+      "total_stars": 2893,
+      "url": "https://github.com/nab138/iloader"
+    },
+    {
+      "rank": 4,
+      "repo": "melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "language": "TypeScript",
+      "stars_today": 126,
+      "total_stars": 1312,
+      "url": "https://github.com/melgarafael/DeskcommCRM"
+    },
+    {
+      "rank": 5,
+      "repo": "vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "language": "TypeScript",
+      "stars_today": 545,
+      "total_stars": 2761,
+      "url": "https://github.com/vastsa/PI-Desktop"
+    },
+    {
+      "rank": 6,
+      "repo": "armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
+      "language": "C",
+      "stars_today": 354,
+      "total_stars": 4711,
+      "url": "https://github.com/armory3d/armorpaint"
+    },
+    {
+      "rank": 7,
+      "repo": "alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "language": "TypeScript",
+      "stars_today": 627,
+      "total_stars": 2123,
+      "url": "https://github.com/alsk1992/CloddsBot"
+    },
+    {
+      "rank": 9,
+      "repo": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": 731,
+      "total_stars": 285348,
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "rank": 10,
+      "repo": "Sonarr/Sonarr",
+      "description": "Smart PVR for newsgroup and bittorrent users.",
+      "language": "C#",
+      "stars_today": 174,
+      "total_stars": 15723,
+      "url": "https://github.com/Sonarr/Sonarr"
+    },
+    {
+      "rank": 11,
+      "repo": "jihe520/MathModelAgent",
+      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "language": "Python",
+      "stars_today": 132,
+      "total_stars": 4846,
+      "url": "https://github.com/jihe520/MathModelAgent"
+    },
+    {
+      "rank": 12,
+      "repo": "p1neappleXpress/OpenFlux",
+      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
+      "language": "Go",
+      "stars_today": 201,
+      "total_stars": 1134,
+      "url": "https://github.com/p1neappleXpress/OpenFlux"
+    },
+    {
+      "rank": 13,
+      "repo": "jordan-gibbs/hyperresearch",
+      "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
+      "language": "Python",
+      "stars_today": 118,
+      "total_stars": 2565,
+      "url": "https://github.com/jordan-gibbs/hyperresearch"
+    },
+    {
+      "rank": 14,
+      "repo": "alphaXiv/OpenResearch",
+      "description": "Run parallel research agents with any model",
+      "language": "Rust",
+      "stars_today": 156,
+      "total_stars": 1255,
+      "url": "https://github.com/alphaXiv/OpenResearch"
+    },
+    {
+      "rank": 15,
+      "repo": "github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars_today": 985,
+      "total_stars": 135751,
+      "url": "https://github.com/github/spec-kit"
+    },
+    {
+      "rank": 16,
+      "repo": "pascalorg/editor",
+      "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+      "language": "TypeScript",
+      "stars_today": 83,
+      "total_stars": 23572,
+      "url": "https://github.com/pascalorg/editor"
+    }
+  ]
+}

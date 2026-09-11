@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[obra-superpowers]] [[trycua-cua]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[bytedance-deer-flow]]
+[[ripienaar-free-for-dev]] [[alphaxiv-openresearch]] [[cathrynlavery-diagram-design]] [[averygan-reclip]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

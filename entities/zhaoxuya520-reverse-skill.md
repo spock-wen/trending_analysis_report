@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[openwhispr-openwhispr]] [[obra-superpowers]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[bytedance-deer-flow]]
+[[openwhispr-openwhispr]] [[kaifcodec-user-scanner]] [[alphaxiv-openresearch]] [[affaan-m-ecc]] [[vastsa-pi-desktop]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

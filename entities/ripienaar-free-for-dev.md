@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[trycua-cua]] [[tencent-ai-infra-guard]] [[bilawalsidhu-gods-eye-view]] [[averygan-reclip]] [[heygen-com-hyperframes]]
+[[posthog-posthog]] [[tencent-ai-infra-guard]] [[cathrynlavery-diagram-design]] [[averygan-reclip]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]] [[devops]]
 

@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[openwhispr-openwhispr]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[osmantic-ods]] [[alexsjones-llmfit]]
+[[github-spec-kit]] [[openwhispr-openwhispr]] [[conardli-garden-skills]] [[debpalash-voicestudio]] [[livekit-agents]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

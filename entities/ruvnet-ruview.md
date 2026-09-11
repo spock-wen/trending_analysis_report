@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[firecrawl-pdf-inspector]] [[tencent-ai-infra-guard]] [[alexsjones-llmfit]] [[tinyhumansai-openhuman]] [[pacifio-atlas]]
+[[posthog-posthog]] [[pacifio-atlas]] [[alphaxiv-openresearch]] [[ripienaar-free-for-dev]] [[alexsjones-llmfit]]
 
 **所属领域**: [[devops]]
 

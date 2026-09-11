@@ -35,5 +35,5 @@ No description
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[earthtojake-text-to-cad]] [[tauricresearch-tradingagents]] [[rohitg00-ai-engineering-from-scratch]]
+[[jihe520-mathmodelagent]] [[github-spec-kit]] [[jordan-gibbs-hyperresearch]] [[ayghri-i-have-adhd]]
 

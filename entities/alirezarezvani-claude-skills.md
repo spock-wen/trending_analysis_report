@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[alsk1992-cloddsbot]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]]
+[[alsk1992-cloddsbot]] [[github-spec-kit]] [[alphaxiv-openresearch]] [[radixark-miles]] [[melgarafael-deskcommcrm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

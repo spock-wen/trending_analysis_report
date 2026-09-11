@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[openwhispr-openwhispr]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[zhaoxuya520-reverse-skill]] [[alexsjones-llmfit]]
+[[github-spec-kit]] [[openwhispr-openwhispr]] [[kaifcodec-user-scanner]] [[affaan-m-ecc]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

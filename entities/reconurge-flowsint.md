@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[openwhispr-openwhispr]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[kaifcodec-user-scanner]] [[diegosouzapw-omniroute]]
+[[nab138-iloader]] [[alsk1992-cloddsbot]] [[openwhispr-openwhispr]] [[kaifcodec-user-scanner]] [[pascalorg-editor]]
 
 **所属领域**: [[security]]
 

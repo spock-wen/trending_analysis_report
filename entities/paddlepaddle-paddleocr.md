@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[aipoch-open-science]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[osmantic-ods]] [[alexsjones-llmfit]]
+[[aipoch-open-science]] [[github-spec-kit]] [[coreyhaines31-marketingskills]] [[conardli-garden-skills]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

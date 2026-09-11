@@ -36,7 +36,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[openwhispr-openwhispr]] [[firecrawl-pdf-inspector]] [[osmantic-ods]] [[alexsjones-llmfit]] [[conardli-garden-skills]]
+[[pacifio-atlas]] [[openwhispr-openwhispr]] [[alphaxiv-openresearch]] [[kaifcodec-user-scanner]] [[conardli-garden-skills]]
 
 **所属领域**: [[security]] [[image-gen]]
 

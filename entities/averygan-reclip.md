@@ -35,7 +35,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[trycua-cua]] [[obra-superpowers]] [[alexsjones-llmfit]] [[bilawalsidhu-gods-eye-view]] [[heygen-com-hyperframes]]
+[[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[pascalorg-editor]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[cli]]
 

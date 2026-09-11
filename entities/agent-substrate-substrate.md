@@ -34,7 +34,7 @@ Agent Substrate: the core system
 
 ## 相关项目
 
-[[obra-superpowers]] [[alexsjones-llmfit]] [[ayghri-i-have-adhd]] [[majd-ipatool]] [[jetbrains-go-modern-guidelines]]
+[[juliusbrussee-caveman]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[majd-ipatool]] [[p1neapplexpress-openflux]]
 
 **所属领域**: [[ai-agent]]
 

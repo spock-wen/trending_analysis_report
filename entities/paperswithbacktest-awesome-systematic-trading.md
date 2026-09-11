@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[bytedance-deer-flow]] [[ayghri-i-have-adhd]] [[tauricresearch-tradingagents]] [[radixark-miles]]
+[[github-spec-kit]] [[alphaxiv-openresearch]] [[radixark-miles]] [[thu-maic-openmaic]] [[jihe520-mathmodelagent]]
 
 **所属领域**: [[education]] [[science]]
 

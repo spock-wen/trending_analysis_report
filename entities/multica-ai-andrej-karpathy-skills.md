@@ -38,7 +38,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[diegosouzapw-omniroute]] [[ayghri-i-have-adhd]] [[obra-superpowers]]
+[[pascalorg-editor]] [[vastsa-pi-desktop]] [[obra-superpowers]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[ai-agent]]
 

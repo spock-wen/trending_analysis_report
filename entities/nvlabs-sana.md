@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[osmantic-ods]] [[conardli-garden-skills]] [[ayghri-i-have-adhd]] [[tauricresearch-tradingagents]]
+[[github-spec-kit]] [[conardli-garden-skills]] [[freestylefly-awesome-gpt-image-2]] [[osmantic-ods]] [[jihe520-mathmodelagent]]
 
 **所属领域**: [[image-gen]]
 

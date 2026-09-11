@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[alsk1992-cloddsbot]] [[obra-superpowers]] [[vastsa-pi-desktop]] [[tencent-teamai-cli]] [[diegosouzapw-omniroute]]
+[[nab138-iloader]] [[alsk1992-cloddsbot]] [[radixark-miles]] [[melgarafael-deskcommcrm]] [[pascalorg-editor]]
 
 **所属领域**: [[erp]]
 

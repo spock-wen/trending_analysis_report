@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[aipoch-open-science]] [[rohitg00-ai-engineering-from-scratch]] [[ayghri-i-have-adhd]] [[bilawalsidhu-gods-eye-view]] [[tauricresearch-tradingagents]]
+[[aipoch-open-science]] [[github-spec-kit]] [[coreyhaines31-marketingskills]] [[bilawalsidhu-gods-eye-view]] [[jihe520-mathmodelagent]]
 
 **所属领域**: [[data]]
 

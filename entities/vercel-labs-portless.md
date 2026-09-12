@@ -34,7 +34,7 @@ Replace port numbers with stable, named local URLs. For humans and agents.
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[conardli-garden-skills]] [[pascalorg-editor]] [[vastsa-pi-desktop]]
+[[multimodal-art-projection-yue]] [[nab138-iloader]] [[osmantic-ods]] [[shubhamsaboo-awesome-llm-apps]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

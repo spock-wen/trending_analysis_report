@@ -35,7 +35,7 @@ A utility-first CSS framework for rapid UI development.
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[cathrynlavery-diagram-design]] [[pascalorg-editor]] [[vastsa-pi-desktop]]
+[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[nab138-iloader]] [[jordan-gibbs-hyperresearch]] [[shubhamsaboo-awesome-llm-apps]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

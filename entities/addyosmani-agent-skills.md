@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[bilawalsidhu-gods-eye-view]] [[freestylefly-awesome-gpt-image-2]] [[openai-plugins]] [[pascalorg-editor]]
+[[openai-plugins]] [[affaan-m-ecc]] [[bilawalsidhu-gods-eye-view]] [[armory3d-armorpaint]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]]
 

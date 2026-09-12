@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[aipoch-open-science]] [[coreyhaines31-marketingskills]] [[checkstyle-checkstyle]] [[ayghri-i-have-adhd]] [[pascalorg-editor]]
+[[snailsploit-claude-red]] [[nationalsecurityagency-ghidra]] [[coreyhaines31-marketingskills]] [[obra-superpowers]] [[aipoch-open-science]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

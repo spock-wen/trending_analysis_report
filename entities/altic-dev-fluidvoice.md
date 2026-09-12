@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[openwhispr-openwhispr]] [[permissionlesstech-bitchat]] [[debpalash-voicestudio]] [[cathrynlavery-diagram-design]] [[livekit-agents]]
+[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[jaywcjlove-awesome-mac]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

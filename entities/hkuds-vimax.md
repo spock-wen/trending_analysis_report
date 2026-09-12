@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[github-spec-kit]] [[conardli-garden-skills]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[freestylefly-awesome-gpt-image-2]]
+[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[osmantic-ods]] [[vercel-labs-portless]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[averygan-reclip]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[bilawalsidhu-gods-eye-view]]
+[[heygen-com-hyperframes]] [[jordan-gibbs-hyperresearch]] [[trycua-cua]] [[armory3d-armorpaint]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

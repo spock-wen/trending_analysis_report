@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[openwhispr-openwhispr]] [[debpalash-voicestudio]] [[cathrynlavery-diagram-design]]
+[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[nab138-iloader]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

@@ -34,7 +34,7 @@ Langflow is a powerful tool for building and deploying AI-powered agents and wor
 
 ## 相关项目
 
-[[posthog-posthog]] [[github-spec-kit]] [[ripienaar-free-for-dev]] [[pascalorg-editor]] [[vastsa-pi-desktop]]
+[[jihe520-mathmodelagent]] [[tencent-ai-infra-guard]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[armory3d-armorpaint]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

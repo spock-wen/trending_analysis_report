@@ -37,7 +37,7 @@ Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture cod
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[aipoch-open-science]] [[coreyhaines31-marketingskills]] [[pascalorg-editor]] [[vastsa-pi-desktop]]
+[[snailsploit-claude-red]] [[juliusbrussee-caveman]] [[majd-ipatool]] [[coreyhaines31-marketingskills]] [[p1neapplexpress-openflux]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[nutlope-hallmark]] [[cathrynlavery-diagram-design]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[bilawalsidhu-gods-eye-view]]
+[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[multimodal-art-projection-yue]] [[nutlope-hallmark]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

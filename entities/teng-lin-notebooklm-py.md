@@ -34,7 +34,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[github-spec-kit]] [[cathrynlavery-diagram-design]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[bilawalsidhu-gods-eye-view]]
+[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

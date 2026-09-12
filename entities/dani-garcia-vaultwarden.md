@@ -34,5 +34,5 @@ Unofficial Bitwarden compatible server written in Rust, formerly known as bitwar
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[firecrawl-pdf-inspector]] [[pacifio-atlas]] [[alexsjones-llmfit]]
+[[alexsjones-llmfit]] [[alphaxiv-openresearch]] [[max-sixty-worktrunk]] [[firecrawl-pdf-inspector]]
 

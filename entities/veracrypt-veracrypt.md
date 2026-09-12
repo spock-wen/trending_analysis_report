@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[opa334-dopamine]] [[armory3d-armorpaint]] [[openwhispr-openwhispr]] [[kaifcodec-user-scanner]] [[antirez-ds4]]
+[[zhaoxuya520-reverse-skill]] [[snailsploit-claude-red]] [[antirez-ds4]] [[opa334-dopamine]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

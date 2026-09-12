@@ -1,20 +1,20 @@
 ---
 title: "Flowseal/zapret-discord-youtube"
 created: 2026-06-25
-updated: 2026-07-20
-last_active: 2026-07-20
+updated: 2026-09-13
+last_active: 2026-09-13
 type: tool
 tags: [tool]
-sources: [raw/trending/2026-07-20.json]
-confidence: medium
-trending_count_daily: 2
+sources: [raw/trending/2026-09-13.json]
+confidence: high
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-25
-last_trending: 2026-07-20
-peak_rank: 11
-total_stars: 31032
+last_trending: 2026-09-13
+peak_rank: 5
+total_stars: 33202
 language: "Batchfile"
 ---
 
@@ -23,13 +23,14 @@ language: "Batchfile"
 No description
 
 - 语言: Batchfile
-- 上榜次数: 2 次
+- 上榜次数: 3 次
 - 连续上榜: 1 天
-- 最高排名: #11
+- 最高排名: #5
 - 链接: [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
 
 ## 上榜历史
 
+  - 2026-09-13: #5, +52⭐
   - 2026-07-20: #15, +117⭐
   - 2026-06-25: #11, +103⭐
 

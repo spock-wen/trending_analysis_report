@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[radixark-miles]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[bilawalsidhu-gods-eye-view]]
+[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[thu-maic-openmaic]] [[jordan-gibbs-hyperresearch]] [[radixark-miles]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

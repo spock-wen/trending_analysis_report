@@ -35,7 +35,7 @@ Odoo. Open Source Apps To Grow Your Business.
 
 ## 相关项目
 
-[[alsk1992-cloddsbot]] [[github-spec-kit]] [[radixark-miles]] [[melgarafael-deskcommcrm]] [[jihe520-mathmodelagent]]
+[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[radixark-miles]] [[shubhamsaboo-awesome-llm-apps]]
 
 **所属领域**: [[erp]]
 

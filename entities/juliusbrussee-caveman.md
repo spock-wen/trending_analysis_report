@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[pascalorg-editor]] [[vastsa-pi-desktop]] [[majd-ipatool]] [[p1neapplexpress-openflux]] [[obra-superpowers]]
+[[majd-ipatool]] [[p1neapplexpress-openflux]] [[shubhamsaboo-awesome-llm-apps]] [[armory3d-armorpaint]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]]
 

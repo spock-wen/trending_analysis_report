@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[radixark-miles]]
+[[tencent-ai-infra-guard]] [[thu-maic-openmaic]] [[posthog-posthog]] [[nab138-iloader]] [[radixark-miles]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

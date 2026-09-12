@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[alsk1992-cloddsbot]] [[github-spec-kit]] [[alphaxiv-openresearch]] [[radixark-miles]] [[melgarafael-deskcommcrm]]
+[[jihe520-mathmodelagent]] [[alphaxiv-openresearch]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

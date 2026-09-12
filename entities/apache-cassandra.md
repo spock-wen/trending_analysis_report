@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[aipoch-open-science]] [[posthog-posthog]] [[coreyhaines31-marketingskills]] [[ripienaar-free-for-dev]] [[checkstyle-checkstyle]]
+[[tencent-ai-infra-guard]] [[snailsploit-claude-red]] [[nationalsecurityagency-ghidra]] [[coreyhaines31-marketingskills]] [[aipoch-open-science]]
 
 **所属领域**: [[data]] [[devops]]
 

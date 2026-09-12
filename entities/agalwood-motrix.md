@@ -35,5 +35,5 @@ A full-featured download manager.
 
 ## 相关项目
 
-[[nab138-iloader]] [[pascalorg-editor]] [[alsk1992-cloddsbot]] [[vastsa-pi-desktop]]
+[[nab138-iloader]] [[pascalorg-editor]] [[alsk1992-cloddsbot]] [[melgarafael-deskcommcrm]]
 

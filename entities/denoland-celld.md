@@ -35,5 +35,5 @@ self-hosted, distributed Durable Objects
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[firecrawl-pdf-inspector]] [[pacifio-atlas]] [[alexsjones-llmfit]]
+[[alexsjones-llmfit]] [[alphaxiv-openresearch]] [[max-sixty-worktrunk]] [[firecrawl-pdf-inspector]]
 

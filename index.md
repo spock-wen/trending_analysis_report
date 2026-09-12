@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-09-12 | 总页面：582
+> 最后更新：2026-09-13 | 总页面：586
 
 ## Entities
 
@@ -39,8 +39,8 @@
 - [[alirezarezvani-claude-skills|claude-skills"]] — 345 Claude Code skills & agent skills & plugins (30+ Agents,... 🔥
 - [[alishahryar1-free-claude-code|free-claude-code"]] — Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ fre...
 - [[allenai-olmocr|olmocr"]] — Toolkit for linearizing PDFs for LLM datasets/training
-- [[alphaxiv-openresearch|OpenResearch"]] — Run parallel research agents with any model 🆕
-- [[alsk1992-cloddsbot|CloddsBot"]] — Open Source AI trading agent that operates autonomously acro... 🆕
+- [[alphaxiv-openresearch|OpenResearch"]] — Run parallel research agents with any model
+- [[alsk1992-cloddsbot|CloddsBot"]] — Open Source AI trading agent that operates autonomously acro... 🔥
 - [[altic-dev-fluidvoice|FluidVoice"]] — Fastest and only macOS Dictation app with on-device STT and ...
 - [[amadeusprotocol-node|node"]] — No description
 - [[amnezia-vpn-amnezia-client|amnezia-client"]] — Amnezia VPN Client (Desktop+Mobile)
@@ -69,7 +69,7 @@
 - [[aprilnea-openlogi|OpenLogi"]] — ⚡️A native, local-first alternative to Logitech Options+, wr...
 - [[aquasecurity-trivy|trivy"]] — Find vulnerabilities, misconfigurations, secrets, SBOM in co... 🔥
 - [[argoproj-argo-cd|argo-cd"]] — Declarative Continuous Deployment for Kubernetes
-- [[armory3d-armorpaint|armorpaint"]] — Graphics Creation Tools 🆕
+- [[armory3d-armorpaint|armorpaint"]] — Graphics Creation Tools 🔥
 - [[asciimoo-hister|hister"]] — Your own search engine
 - [[astrbotdevs-astrbot|AstrBot"]] — AI Agent Assistant & development framework that integrates l... 🔥
 - [[automattic-harper|harper"]] — Offline, privacy-first grammar checker. Fast, open-source, R... 🔥
@@ -82,7 +82,7 @@
 - [[bigbodycobain-shadowbroker|Shadowbroker"]] — Open-source intelligence for the global theater. Track every... 🆕
 - [[bigskysoftware-htmx|htmx"]] — </> htmx - high power tools for HTML
 - [[bikini-exploitarium|exploitarium"]] — A single archive of public exploit PoCs and vulnerability re... 🆕
-- [[bilawalsidhu-gods-eye-view|gods-eye-view"]] — A spy satellite simulator in your browser, except the data i... 🆕
+- [[bilawalsidhu-gods-eye-view|gods-eye-view"]] — A spy satellite simulator in your browser, except the data i... 🔥
 - [[biohub-esm|esm"]] — No description
 - [[blader-humanizer|humanizer"]] — Agent skill that removes signs of AI-generated writing from ... 🔥
 - [[blakeblackshear-frigate|frigate"]] — NVR with realtime local object detection for IP cameras 🆕
@@ -269,7 +269,7 @@
 - [[jingyaogong-minimind|minimind"]] — 🧠 Train a 64M-parameter LLM from scratch in just 2h! 🆕
 - [[jo-inc-camofox-browser|camofox-browser"]] — Stealth headless browser for AI agents — bypass Cloudflare, ... 🆕
 - [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm"]] — Claude Skill: Multi-source content processor for NotebookLM. 🆕
-- [[jordan-gibbs-hyperresearch|hyperresearch"]] — Agent-driven research knowledge base. Agents collect, search... 🆕
+- [[jordan-gibbs-hyperresearch|hyperresearch"]] — Agent-driven research knowledge base. Agents collect, search...
 - [[juliusbrussee-caveman|caveman"]] — 🪨 why use many token when few token do trick — Claude Code s... 🔥
 - [[jundot-omlx|omlx"]] — LLM inference server with continuous batching & SSD caching ... 🔥
 - [[justvugg-colibri|colibri"]] — Run frontier MoE models on hardware you already own — pure C...
@@ -331,6 +331,7 @@
 - [[mattermost-mattermost|mattermost"]] — Mattermost is an open source platform for secure collaborati... 🆕
 - [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .agents director... 🔥
 - [[mauriceboe-trek|TREK"]] — A self-hosted travel/trip planner with real-time collaborati... 🆕
+- [[max-sixty-worktrunk|worktrunk"]] — Worktrunk is a CLI for Git worktree management, designed for... 🆕
 - [[maziyarpanahi-openmed|openmed"]] — open-source healthcare ai 🔥
 - [[mebus-cupp|cupp"]] — Common User Passwords Profiler (CUPP) 🆕
 - [[medusajs-medusa|medusa"]] — The world's most flexible commerce platform.
@@ -362,6 +363,7 @@
 - [[mukul975-anthropic-cybersecurity-skills|Anthropic-Cybersecurity-Skills"]] — 817 structured cybersecurity skills for AI agents · Mapped t... 🔥
 - [[multica-ai-andrej-karpathy-skills|andrej-karpathy-skills"]] — A single CLAUDE.md file to improve Claude Code behavior, der...
 - [[multica-ai-multica|multica"]] — The open-source managed agents platform. Turn coding agents ... 🆕
+- [[multimodal-art-projection-yue|YuE"]] — YuE2: frontier music generation with symbolic planning, zero... 🆕
 - [[music-assistant-server|server"]] — Music Assistant is a free, opensource Media library manager ... 🔥
 - [[mvanhorn-last30days-skill|last30days-skill"]] — AI agent skill that researches any topic across Reddit, X, Y...
 - [[n0-computer-iroh|iroh"]] — IP addresses break, dial keys instead. Modular networking st... 🔥
@@ -479,6 +481,7 @@
 - [[sindresorhus-awesome|awesome"]] — 😎 Awesome lists about all kinds of interesting topics
 - [[smartlydressedgames-u3-sdk|U3-SDK"]] — Source code for Unturned, a free open-world zombie survival ...
 - [[smicallef-spiderfoot|spiderfoot"]] — SpiderFoot automates OSINT for threat intelligence and mappi... 🔥
+- [[snailsploit-claude-red|Claude-Red"]] — claude-red is a curated library of offensive security skills... 🆕
 - [[sngyai-sequoia-x|Sequoia-X"]] — A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书
 - [[sonarr-sonarr|Sonarr"]] — Smart PVR for newsgroup and bittorrent users. 🆕
 - [[soxoj-maigret|maigret"]] — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ s...
@@ -561,6 +564,7 @@
 - [[yimmenu-yimmenuv2|YimMenuV2"]] — Experimental menu for GTA 5: Enhanced 🆕
 - [[yorukot-superfile|superfile"]] — Pretty fancy and modern terminal file manager 🆕
 - [[yt-dlp-yt-dlp|yt-dlp"]] — A feature-rich command-line audio/video downloader
+- [[yuliskov-smarttube|SmartTube"]] — Browse media content with your own rules on Android TV 🆕
 - [[zackriya-solutions-meetily|meetily"]] — Privacy first, AI meeting assistant with 4x faster Parakeet/... 🔥
 - [[zai-org-glm-5|GLM-5"]] — GLM-5: From Vibe Coding to Agentic Engineering 🆕
 - [[zedeus-nitter|nitter"]] — Alternative Twitter front-end

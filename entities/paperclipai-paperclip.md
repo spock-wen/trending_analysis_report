@@ -36,7 +36,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[alphaxiv-openresearch]] [[pascalorg-editor]] [[vastsa-pi-desktop]]
+[[jihe520-mathmodelagent]] [[alphaxiv-openresearch]] [[snailsploit-claude-red]] [[nab138-iloader]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

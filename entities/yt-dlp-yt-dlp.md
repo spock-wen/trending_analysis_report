@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[github-spec-kit]] [[openwhispr-openwhispr]] [[debpalash-voicestudio]] [[livekit-agents]] [[pascalorg-editor]]
+[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[osmantic-ods]]
 
 **所属领域**: [[cli]] [[audio]]
 

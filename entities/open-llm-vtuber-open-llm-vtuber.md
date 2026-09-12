@@ -37,7 +37,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[github-spec-kit]] [[openwhispr-openwhispr]] [[debpalash-voicestudio]] [[livekit-agents]] [[pascalorg-editor]]
+[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[osmantic-ods]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

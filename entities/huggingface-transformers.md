@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[github-spec-kit]] [[openwhispr-openwhispr]] [[debpalash-voicestudio]] [[radixark-miles]] [[livekit-agents]]
+[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[thu-maic-openmaic]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

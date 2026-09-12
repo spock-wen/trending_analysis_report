@@ -34,7 +34,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[chen08209-flclash]] [[flutter-flutter]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[obra-superpowers]]
+[[shubhamsaboo-awesome-llm-apps]] [[chen08209-flclash]] [[armory3d-armorpaint]] [[vxcontrol-pentagi]] [[alsk1992-cloddsbot]]
 
 **所属领域**: [[ai-agent]]
 

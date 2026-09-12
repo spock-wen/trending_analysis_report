@@ -38,7 +38,7 @@ Open-source 3D architectural editor with a local CLI, MCP tools, and practical w
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[vastsa-pi-desktop]] [[obra-superpowers]] [[alexsjones-llmfit]]
+[[snailsploit-claude-red]] [[nab138-iloader]] [[obra-superpowers]] [[max-sixty-worktrunk]] [[armory3d-armorpaint]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

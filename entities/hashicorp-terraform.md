@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[pascalorg-editor]] [[vastsa-pi-desktop]]
+[[tencent-ai-infra-guard]] [[juliusbrussee-caveman]] [[majd-ipatool]] [[p1neapplexpress-openflux]] [[armory3d-armorpaint]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

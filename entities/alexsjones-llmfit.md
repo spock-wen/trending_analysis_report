@@ -36,7 +36,7 @@ Hundreds of models & providers. One command to find what runs on your hardware.
 
 ## 相关项目
 
-[[pacifio-atlas]] [[alphaxiv-openresearch]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[obra-superpowers]]
+[[firecrawl-pdf-inspector]] [[alphaxiv-openresearch]] [[snailsploit-claude-red]] [[obra-superpowers]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

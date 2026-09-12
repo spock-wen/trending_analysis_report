@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[obra-superpowers]]
+[[snailsploit-claude-red]] [[nab138-iloader]] [[obra-superpowers]] [[pascalorg-editor]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[cli]]
 

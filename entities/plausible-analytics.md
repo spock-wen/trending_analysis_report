@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[aipoch-open-science]] [[coreyhaines31-marketingskills]] [[openwhispr-openwhispr]] [[kaifcodec-user-scanner]] [[cathrynlavery-diagram-design]]
+[[zhaoxuya520-reverse-skill]] [[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[snailsploit-claude-red]] [[teslamate-org-teslamate]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

@@ -38,5 +38,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[firecrawl-pdf-inspector]] [[pacifio-atlas]] [[alexsjones-llmfit]]
+[[alexsjones-llmfit]] [[alphaxiv-openresearch]] [[max-sixty-worktrunk]] [[firecrawl-pdf-inspector]]
 

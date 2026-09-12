@@ -38,7 +38,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[bilawalsidhu-gods-eye-view]] [[freestylefly-awesome-gpt-image-2]] [[pascalorg-editor]] [[vastsa-pi-desktop]]
+[[affaan-m-ecc]] [[bilawalsidhu-gods-eye-view]] [[armory3d-armorpaint]] [[vxcontrol-pentagi]] [[freestylefly-awesome-gpt-image-2]]
 
 **所属领域**: [[ai-agent]]
 

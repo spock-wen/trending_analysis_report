@@ -35,5 +35,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[bilawalsidhu-gods-eye-view]] [[freestylefly-awesome-gpt-image-2]] [[openai-plugins]] [[affaan-m-ecc]]
+[[freestylefly-awesome-gpt-image-2]] [[openai-plugins]] [[bilawalsidhu-gods-eye-view]] [[affaan-m-ecc]]
 

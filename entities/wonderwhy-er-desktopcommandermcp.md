@@ -38,7 +38,7 @@ This is MCP server for Claude that gives it terminal control, file system search
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[obra-superpowers]]
+[[snailsploit-claude-red]] [[nab138-iloader]] [[shubhamsaboo-awesome-llm-apps]] [[obra-superpowers]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

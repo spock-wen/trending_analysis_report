@@ -38,7 +38,7 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[ayghri-i-have-adhd]] [[bilawalsidhu-gods-eye-view]] [[freestylefly-awesome-gpt-image-2]] [[openai-plugins]]
+[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[jordan-gibbs-hyperresearch]] [[openai-plugins]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

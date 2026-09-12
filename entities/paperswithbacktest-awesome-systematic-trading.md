@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[github-spec-kit]] [[alphaxiv-openresearch]] [[radixark-miles]] [[thu-maic-openmaic]] [[jihe520-mathmodelagent]]
+[[jihe520-mathmodelagent]] [[alphaxiv-openresearch]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[thu-maic-openmaic]]
 
 **所属领域**: [[education]] [[science]]
 

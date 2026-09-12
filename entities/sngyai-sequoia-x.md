@@ -34,7 +34,7 @@ A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运�
 
 ## 相关项目
 
-[[github-spec-kit]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[jihe520-mathmodelagent]] [[obra-superpowers]]
+[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[armory3d-armorpaint]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]]
 

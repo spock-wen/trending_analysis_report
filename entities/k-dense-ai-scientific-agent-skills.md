@@ -38,7 +38,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ## 相关项目
 
-[[aipoch-open-science]] [[github-spec-kit]] [[coreyhaines31-marketingskills]] [[alphaxiv-openresearch]] [[pascalorg-editor]]
+[[jihe520-mathmodelagent]] [[alphaxiv-openresearch]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[coreyhaines31-marketingskills]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

@@ -34,5 +34,5 @@ Free and Open Source Machine Translation API. Self-hosted, offline capable and e
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[github-spec-kit]] [[jordan-gibbs-hyperresearch]] [[ayghri-i-have-adhd]]
+[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[shubhamsaboo-awesome-llm-apps]]
 

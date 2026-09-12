@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[posthog-posthog]] [[github-spec-kit]] [[ripienaar-free-for-dev]] [[pascalorg-editor]] [[vastsa-pi-desktop]]
+[[jihe520-mathmodelagent]] [[tencent-ai-infra-guard]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

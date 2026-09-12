@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[openwhispr-openwhispr]] [[kaifcodec-user-scanner]] [[affaan-m-ecc]]
+[[zhaoxuya520-reverse-skill]] [[snailsploit-claude-red]] [[nab138-iloader]] [[affaan-m-ecc]] [[shubhamsaboo-awesome-llm-apps]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

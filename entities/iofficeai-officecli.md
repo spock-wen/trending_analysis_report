@@ -37,7 +37,7 @@ OfficeCLI is the first and best Office suite purpose-built for AI agents to read
 
 ## 相关项目
 
-[[alsk1992-cloddsbot]] [[sonarr-sonarr]] [[k1tbyte-wand-enhancer]] [[radixark-miles]] [[melgarafael-deskcommcrm]]
+[[snailsploit-claude-red]] [[sonarr-sonarr]] [[jellyfin-jellyfin]] [[dotnet-aspnetcore]] [[radixark-miles]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

@@ -37,7 +37,7 @@ A framework for building realtime voice AI agents 🤖🎙️📹
 
 ## 相关项目
 
-[[github-spec-kit]] [[openwhispr-openwhispr]] [[debpalash-voicestudio]] [[pascalorg-editor]] [[vastsa-pi-desktop]]
+[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[osmantic-ods]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

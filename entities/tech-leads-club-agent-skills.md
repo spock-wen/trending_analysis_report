@@ -35,7 +35,7 @@ The secure, validated skill registry for professional AI coding agents. Extend A
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[obra-superpowers]]
+[[nab138-iloader]] [[shubhamsaboo-awesome-llm-apps]] [[pascalorg-editor]] [[armory3d-armorpaint]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]]
 

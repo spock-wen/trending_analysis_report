@@ -34,5 +34,5 @@ OpenToonz - An open-source full-featured 2D animation creation software
 
 ## 相关项目
 
-[[google-googletest]] [[fmtlib-fmt]] [[protocolbuffers-protobuf]] [[microsoft-onnxruntime]]
+[[fmtlib-fmt]] [[protocolbuffers-protobuf]] [[microsoft-onnxruntime]] [[google-googletest]]
 

@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[alsk1992-cloddsbot]] [[mattpocock-skills]] [[nvm-sh-nvm]] [[radixark-miles]] [[melgarafael-deskcommcrm]]
+[[snailsploit-claude-red]] [[nvm-sh-nvm]] [[mattpocock-skills]] [[radixark-miles]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

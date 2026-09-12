@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[github-spec-kit]] [[radixark-miles]] [[thu-maic-openmaic]] [[jihe520-mathmodelagent]] [[rohitg00-ai-engineering-from-scratch]]
+[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[thu-maic-openmaic]] [[radixark-miles]]
 
 **所属领域**: [[education]]
 

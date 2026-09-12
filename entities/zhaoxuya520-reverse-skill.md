@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[openwhispr-openwhispr]] [[kaifcodec-user-scanner]] [[alphaxiv-openresearch]] [[affaan-m-ecc]] [[vastsa-pi-desktop]]
+[[jihe520-mathmodelagent]] [[alphaxiv-openresearch]] [[raphire-win11debloat]] [[snailsploit-claude-red]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

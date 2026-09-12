@@ -35,7 +35,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[github-spec-kit]] [[radixark-miles]] [[thu-maic-openmaic]] [[jihe520-mathmodelagent]] [[rohitg00-ai-engineering-from-scratch]]
+[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[thu-maic-openmaic]] [[radixark-miles]]
 
 **所属领域**: [[education]]
 

@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[mattpocock-skills]] [[nvm-sh-nvm]] [[pascalorg-editor]] [[obra-superpowers]] [[alexsjones-llmfit]]
+[[snailsploit-claude-red]] [[nvm-sh-nvm]] [[mattpocock-skills]] [[obra-superpowers]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[cli]]
 

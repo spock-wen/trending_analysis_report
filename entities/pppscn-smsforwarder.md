@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[embabel-embabel-agent]] [[bilawalsidhu-gods-eye-view]] [[jordan-gibbs-hyperresearch]] [[andreknieriem-headunit-revived]]
+[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[mahlernim-google-timeline-visualizer]] [[bannedbook-fanqiang]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[web]]
 

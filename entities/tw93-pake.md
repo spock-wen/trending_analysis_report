@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[pacifio-atlas]] [[alphaxiv-openresearch]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[pascalorg-editor]]
+[[alexsjones-llmfit]] [[alphaxiv-openresearch]] [[firecrawl-pdf-inspector]] [[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[aipoch-open-science]] [[coreyhaines31-marketingskills]] [[cathrynlavery-diagram-design]] [[ayghri-i-have-adhd]] [[bilawalsidhu-gods-eye-view]]
+[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[snailsploit-claude-red]] [[coreyhaines31-marketingskills]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

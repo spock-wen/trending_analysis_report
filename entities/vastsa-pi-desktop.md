@@ -36,7 +36,7 @@ Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harnes
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[pascalorg-editor]] [[obra-superpowers]] [[ayghri-i-have-adhd]]
+[[nab138-iloader]] [[shubhamsaboo-awesome-llm-apps]] [[pascalorg-editor]] [[armory3d-armorpaint]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]]
 

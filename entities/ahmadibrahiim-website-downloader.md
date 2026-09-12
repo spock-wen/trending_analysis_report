@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[conardli-garden-skills]] [[cathrynlavery-diagram-design]] [[averygan-reclip]] [[bilawalsidhu-gods-eye-view]]
+[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[multimodal-art-projection-yue]] [[jordan-gibbs-hyperresearch]] [[osmantic-ods]]
 
 **所属领域**: [[web]] [[image-gen]]
 

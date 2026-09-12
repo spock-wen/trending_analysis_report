@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[openwhispr-openwhispr]] [[kaifcodec-user-scanner]] [[pascalorg-editor]]
+[[zhaoxuya520-reverse-skill]] [[snailsploit-claude-red]] [[nab138-iloader]] [[affaan-m-ecc]] [[pascalorg-editor]]
 
 **所属领域**: [[security]]
 

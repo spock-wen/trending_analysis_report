@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[pascalorg-editor]]
+[[tencent-ai-infra-guard]] [[nab138-iloader]] [[pascalorg-editor]] [[melgarafael-deskcommcrm]] [[posthog-posthog]]
 
 **所属领域**: [[devops]]
 

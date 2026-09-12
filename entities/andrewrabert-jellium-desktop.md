@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[pacifio-atlas]] [[alphaxiv-openresearch]] [[pascalorg-editor]] [[obra-superpowers]] [[alexsjones-llmfit]]
+[[alexsjones-llmfit]] [[alphaxiv-openresearch]] [[snailsploit-claude-red]] [[firecrawl-pdf-inspector]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]] [[radixark-miles]] [[averygan-reclip]] [[bilawalsidhu-gods-eye-view]]
+[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[thu-maic-openmaic]] [[jordan-gibbs-hyperresearch]] [[radixark-miles]]
 
 **所属领域**: [[web]] [[education]]
 

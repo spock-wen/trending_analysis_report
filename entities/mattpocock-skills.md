@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[obra-superpowers]] [[alexsjones-llmfit]]
+[[snailsploit-claude-red]] [[nvm-sh-nvm]] [[obra-superpowers]] [[max-sixty-worktrunk]] [[armory3d-armorpaint]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

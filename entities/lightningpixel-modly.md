@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[conardli-garden-skills]] [[pascalorg-editor]] [[vastsa-pi-desktop]]
+[[multimodal-art-projection-yue]] [[nab138-iloader]] [[osmantic-ods]] [[shubhamsaboo-awesome-llm-apps]] [[vercel-labs-portless]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

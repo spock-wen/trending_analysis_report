@@ -38,7 +38,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[posthog-posthog]] [[github-spec-kit]] [[ripienaar-free-for-dev]] [[pascalorg-editor]] [[vastsa-pi-desktop]]
+[[jihe520-mathmodelagent]] [[tencent-ai-infra-guard]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[armory3d-armorpaint]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

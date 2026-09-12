@@ -35,7 +35,7 @@ Switchyard lets LLM applications route traffic across models and providers while
 
 ## 相关项目
 
-[[pacifio-atlas]] [[alphaxiv-openresearch]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[obra-superpowers]]
+[[alexsjones-llmfit]] [[alphaxiv-openresearch]] [[firecrawl-pdf-inspector]] [[max-sixty-worktrunk]] [[armory3d-armorpaint]]
 
 **所属领域**: [[ai-agent]]
 

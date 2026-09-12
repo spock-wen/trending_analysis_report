@@ -35,7 +35,7 @@ Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 
 ## 相关项目
 
-[[github-spec-kit]] [[cathrynlavery-diagram-design]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[bilawalsidhu-gods-eye-view]]
+[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

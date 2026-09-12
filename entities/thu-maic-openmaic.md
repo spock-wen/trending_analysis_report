@@ -38,7 +38,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[radixark-miles]] [[pascalorg-editor]] [[vastsa-pi-desktop]]
+[[snailsploit-claude-red]] [[nab138-iloader]] [[radixark-miles]] [[shubhamsaboo-awesome-llm-apps]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

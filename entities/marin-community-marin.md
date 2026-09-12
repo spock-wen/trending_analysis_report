@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[github-spec-kit]] [[alphaxiv-openresearch]] [[p1neapplexpress-openflux]] [[jihe520-mathmodelagent]] [[jordan-gibbs-hyperresearch]]
+[[jihe520-mathmodelagent]] [[alphaxiv-openresearch]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[science]]
 

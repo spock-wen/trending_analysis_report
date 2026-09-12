@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[radixark-miles]] [[melgarafael-deskcommcrm]] [[pascalorg-editor]]
+[[nab138-iloader]] [[radixark-miles]] [[obra-superpowers]] [[pascalorg-editor]] [[melgarafael-deskcommcrm]]
 
 **所属领域**: [[erp]]
 

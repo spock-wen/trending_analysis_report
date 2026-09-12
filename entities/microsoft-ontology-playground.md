@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[cathrynlavery-diagram-design]] [[radixark-miles]] [[pascalorg-editor]]
+[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[thu-maic-openmaic]] [[nab138-iloader]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[web]] [[education]]
 

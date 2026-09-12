@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[posthog-posthog]] [[github-spec-kit]] [[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]] [[pascalorg-editor]]
+[[jihe520-mathmodelagent]] [[tencent-ai-infra-guard]] [[snailsploit-claude-red]] [[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

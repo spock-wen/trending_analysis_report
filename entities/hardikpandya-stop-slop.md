@@ -38,7 +38,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[pascalorg-editor]] [[vastsa-pi-desktop]] [[obra-superpowers]] [[ayghri-i-have-adhd]]
+[[alsk1992-cloddsbot]] [[shubhamsaboo-awesome-llm-apps]] [[vxcontrol-pentagi]] [[armory3d-armorpaint]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[pascalorg-editor]]
+[[tencent-ai-infra-guard]] [[posthog-posthog]] [[nab138-iloader]] [[shubhamsaboo-awesome-llm-apps]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -38,7 +38,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[github-spec-kit]] [[alphaxiv-openresearch]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[jihe520-mathmodelagent]]
+[[jihe520-mathmodelagent]] [[alphaxiv-openresearch]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

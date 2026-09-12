@@ -34,7 +34,7 @@ Lightpanda: the headless browser designed for AI and automation
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[bilawalsidhu-gods-eye-view]] [[obra-superpowers]]
+[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[jordan-gibbs-hyperresearch]] [[shubhamsaboo-awesome-llm-apps]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

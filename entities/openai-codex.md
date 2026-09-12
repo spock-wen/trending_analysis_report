@@ -36,7 +36,7 @@ Lightweight coding agent that runs in your terminal
 
 ## 相关项目
 
-[[pacifio-atlas]] [[alphaxiv-openresearch]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[obra-superpowers]]
+[[alexsjones-llmfit]] [[alphaxiv-openresearch]] [[firecrawl-pdf-inspector]] [[snailsploit-claude-red]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[mattpocock-skills]] [[nvm-sh-nvm]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[obra-superpowers]]
+[[snailsploit-claude-red]] [[nvm-sh-nvm]] [[mattpocock-skills]] [[obra-superpowers]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

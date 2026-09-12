@@ -39,7 +39,7 @@ Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 
 
 ## 相关项目
 
-[[conardli-garden-skills]] [[ayghri-i-have-adhd]] [[bilawalsidhu-gods-eye-view]] [[pascalorg-editor]] [[openai-plugins]]
+[[multimodal-art-projection-yue]] [[osmantic-ods]] [[affaan-m-ecc]] [[vercel-labs-portless]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

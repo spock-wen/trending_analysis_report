@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[conardli-garden-skills]] [[ayghri-i-have-adhd]] [[bilawalsidhu-gods-eye-view]] [[freestylefly-awesome-gpt-image-2]] [[openai-plugins]]
+[[multimodal-art-projection-yue]] [[osmantic-ods]] [[openai-plugins]] [[affaan-m-ecc]] [[vercel-labs-portless]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[alphaxiv-openresearch]] [[cathrynlavery-diagram-design]] [[pascalorg-editor]]
+[[jihe520-mathmodelagent]] [[alphaxiv-openresearch]] [[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[nab138-iloader]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

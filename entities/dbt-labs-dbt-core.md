@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[aipoch-open-science]] [[pacifio-atlas]] [[coreyhaines31-marketingskills]] [[alphaxiv-openresearch]] [[bilawalsidhu-gods-eye-view]]
+[[alexsjones-llmfit]] [[alphaxiv-openresearch]] [[firecrawl-pdf-inspector]] [[snailsploit-claude-red]] [[coreyhaines31-marketingskills]]
 
 **所属领域**: [[data]]
 

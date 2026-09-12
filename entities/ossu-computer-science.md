@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]] [[averygan-reclip]] [[bilawalsidhu-gods-eye-view]] [[trycua-cua]]
+[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[jordan-gibbs-hyperresearch]] [[trycua-cua]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]]
 

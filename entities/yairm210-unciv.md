@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[embabel-embabel-agent]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[obra-superpowers]] [[andreknieriem-headunit-revived]]
+[[alsk1992-cloddsbot]] [[mahlernim-google-timeline-visualizer]] [[bannedbook-fanqiang]] [[armory3d-armorpaint]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]]
 

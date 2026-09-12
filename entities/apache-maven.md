@@ -34,5 +34,5 @@ Apache Maven core
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[google-guava]] [[github-copilot-sdk]] [[checkstyle-checkstyle]]
+[[checkstyle-checkstyle]] [[google-guava]] [[nationalsecurityagency-ghidra]] [[yuliskov-smarttube]]
 

@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[radixark-miles]] [[pascalorg-editor]] [[vastsa-pi-desktop]]
+[[snailsploit-claude-red]] [[thu-maic-openmaic]] [[nab138-iloader]] [[radixark-miles]] [[shubhamsaboo-awesome-llm-apps]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

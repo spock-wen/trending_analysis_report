@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[google-googletest]] [[protocolbuffers-protobuf]] [[bilawalsidhu-gods-eye-view]] [[jordan-gibbs-hyperresearch]]
+[[fmtlib-fmt]] [[protocolbuffers-protobuf]] [[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[snailsploit-claude-red]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -38,7 +38,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 
 ## 相关项目
 
-[[github-spec-kit]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[jihe520-mathmodelagent]] [[obra-superpowers]]
+[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[obra-superpowers]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

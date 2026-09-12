@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[conardli-garden-skills]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[freestylefly-awesome-gpt-image-2]] [[openai-plugins]]
+[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[multimodal-art-projection-yue]] [[jordan-gibbs-hyperresearch]] [[osmantic-ods]]
 
 **所属领域**: [[web]] [[image-gen]]
 

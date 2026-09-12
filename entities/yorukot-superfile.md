@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[pascalorg-editor]] [[majd-ipatool]] [[p1neapplexpress-openflux]] [[obra-superpowers]]
+[[snailsploit-claude-red]] [[juliusbrussee-caveman]] [[majd-ipatool]] [[p1neapplexpress-openflux]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

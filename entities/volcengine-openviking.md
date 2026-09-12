@@ -36,7 +36,7 @@ Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG 
 
 ## 相关项目
 
-[[aipoch-open-science]] [[github-spec-kit]] [[coreyhaines31-marketingskills]] [[pascalorg-editor]] [[vastsa-pi-desktop]]
+[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[coreyhaines31-marketingskills]] [[aipoch-open-science]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

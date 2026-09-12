@@ -34,7 +34,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[freestylefly-awesome-gpt-image-2]] [[openai-plugins]] [[heygen-com-hyperframes]]
+[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[jordan-gibbs-hyperresearch]] [[openai-plugins]] [[affaan-m-ecc]]
 
 **所属领域**: [[web]]
 

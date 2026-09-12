@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[alsk1992-cloddsbot]] [[pacifio-atlas]] [[alphaxiv-openresearch]] [[radixark-miles]] [[melgarafael-deskcommcrm]]
+[[alexsjones-llmfit]] [[alphaxiv-openresearch]] [[firecrawl-pdf-inspector]] [[radixark-miles]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

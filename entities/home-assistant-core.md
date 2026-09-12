@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[github-spec-kit]] [[openwhispr-openwhispr]] [[kaifcodec-user-scanner]] [[ayghri-i-have-adhd]] [[jihe520-mathmodelagent]]
+[[jihe520-mathmodelagent]] [[zhaoxuya520-reverse-skill]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[cathrynlavery-diagram-design]] [[pascalorg-editor]] [[vastsa-pi-desktop]]
+[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[snailsploit-claude-red]] [[nab138-iloader]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[web]] [[cli]]
 

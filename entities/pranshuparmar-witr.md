@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[majd-ipatool]] [[p1neapplexpress-openflux]]
+[[snailsploit-claude-red]] [[juliusbrussee-caveman]] [[majd-ipatool]] [[p1neapplexpress-openflux]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

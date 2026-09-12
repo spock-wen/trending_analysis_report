@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[aipoch-open-science]] [[coreyhaines31-marketingskills]] [[google-googletest]] [[protocolbuffers-protobuf]] [[bilawalsidhu-gods-eye-view]]
+[[fmtlib-fmt]] [[protocolbuffers-protobuf]] [[snailsploit-claude-red]] [[coreyhaines31-marketingskills]] [[microsoft-onnxruntime]]
 
 **所属领域**: [[data]]
 

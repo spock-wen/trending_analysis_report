@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[alphaxiv-openresearch]] [[cathrynlavery-diagram-design]] [[averygan-reclip]] [[pascalorg-editor]]
+[[jihe520-mathmodelagent]] [[alphaxiv-openresearch]] [[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

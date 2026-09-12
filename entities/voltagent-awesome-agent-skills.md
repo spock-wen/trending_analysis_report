@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[obra-superpowers]] [[alexsjones-llmfit]]
+[[snailsploit-claude-red]] [[shubhamsaboo-awesome-llm-apps]] [[obra-superpowers]] [[max-sixty-worktrunk]] [[armory3d-armorpaint]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

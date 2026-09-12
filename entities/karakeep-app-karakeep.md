@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[conardli-garden-skills]] [[pascalorg-editor]] [[vastsa-pi-desktop]]
+[[multimodal-art-projection-yue]] [[nab138-iloader]] [[osmantic-ods]] [[shubhamsaboo-awesome-llm-apps]] [[vercel-labs-portless]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

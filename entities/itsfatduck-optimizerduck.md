@@ -34,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[openwhispr-openwhispr]] [[kaifcodec-user-scanner]] [[sonarr-sonarr]] [[k1tbyte-wand-enhancer]] [[jellyfin-jellyfin]]
+[[zhaoxuya520-reverse-skill]] [[snailsploit-claude-red]] [[sonarr-sonarr]] [[jellyfin-jellyfin]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[security]]
 

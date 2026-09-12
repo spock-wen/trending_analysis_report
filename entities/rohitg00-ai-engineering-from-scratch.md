@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[github-spec-kit]] [[radixark-miles]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[thu-maic-openmaic]]
+[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[thu-maic-openmaic]] [[radixark-miles]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

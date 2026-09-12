@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[radixark-miles]] [[lyogavin-airllm]] [[pascalorg-editor]] [[vastsa-pi-desktop]]
+[[ruvnet-ruflo]] [[thu-maic-openmaic]] [[radixark-miles]] [[lyogavin-airllm]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

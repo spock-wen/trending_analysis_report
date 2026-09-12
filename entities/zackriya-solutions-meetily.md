@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[kaifcodec-user-scanner]] [[alexsjones-llmfit]] [[openwhispr-openwhispr]] [[alphaxiv-openresearch]] [[cathrynlavery-diagram-design]]
+[[alexsjones-llmfit]] [[alphaxiv-openresearch]] [[firecrawl-pdf-inspector]] [[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[radixark-miles]] [[pascalorg-editor]] [[vastsa-pi-desktop]]
+[[thu-maic-openmaic]] [[nab138-iloader]] [[radixark-miles]] [[rohitg00-ai-engineering-from-scratch]] [[pascalorg-editor]]
 
 **所属领域**: [[education]]
 

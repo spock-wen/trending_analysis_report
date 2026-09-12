@@ -36,7 +36,7 @@ RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine tha
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[conardli-garden-skills]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[majd-ipatool]]
+[[multimodal-art-projection-yue]] [[juliusbrussee-caveman]] [[majd-ipatool]] [[osmantic-ods]] [[p1neapplexpress-openflux]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

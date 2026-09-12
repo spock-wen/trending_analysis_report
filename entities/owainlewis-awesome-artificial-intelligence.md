@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[radixark-miles]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[thu-maic-openmaic]]
+[[jihe520-mathmodelagent]] [[alphaxiv-openresearch]] [[thu-maic-openmaic]] [[jordan-gibbs-hyperresearch]] [[radixark-miles]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[aipoch-open-science]] [[coreyhaines31-marketingskills]] [[conardli-garden-skills]]
+[[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[coreyhaines31-marketingskills]] [[nab138-iloader]] [[osmantic-ods]]
 
 **所属领域**: [[data]] [[image-gen]]
 

@@ -38,7 +38,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[ayghri-i-have-adhd]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[nationalsecurityagency-ghidra]]
+[[nationalsecurityagency-ghidra]] [[google-guava]] [[armory3d-armorpaint]] [[vxcontrol-pentagi]] [[checkstyle-checkstyle]]
 
 **所属领域**: [[ai-agent]]
 

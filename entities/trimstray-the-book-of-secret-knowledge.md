@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[pascalorg-editor]] [[obra-superpowers]] [[alexsjones-llmfit]]
+[[snailsploit-claude-red]] [[heygen-com-hyperframes]] [[cathrynlavery-diagram-design]] [[jordan-gibbs-hyperresearch]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[cli]]
 

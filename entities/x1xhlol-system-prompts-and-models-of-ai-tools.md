@@ -37,7 +37,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ## 相关项目
 
-[[alsk1992-cloddsbot]] [[radixark-miles]] [[melgarafael-deskcommcrm]] [[pascalorg-editor]] [[vastsa-pi-desktop]]
+[[radixark-miles]] [[shubhamsaboo-awesome-llm-apps]] [[obra-superpowers]] [[armory3d-armorpaint]] [[melgarafael-deskcommcrm]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

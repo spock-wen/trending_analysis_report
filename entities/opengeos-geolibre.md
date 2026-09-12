@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[aipoch-open-science]] [[coreyhaines31-marketingskills]] [[cathrynlavery-diagram-design]]
+[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[snailsploit-claude-red]] [[coreyhaines31-marketingskills]] [[nab138-iloader]]
 
 **所属领域**: [[web]] [[data]]
 

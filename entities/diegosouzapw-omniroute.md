@@ -38,7 +38,7 @@ Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),
 
 ## 相关项目
 
-[[nab138-iloader]] [[alsk1992-cloddsbot]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[obra-superpowers]]
+[[snailsploit-claude-red]] [[nab138-iloader]] [[shubhamsaboo-awesome-llm-apps]] [[obra-superpowers]] [[pascalorg-editor]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

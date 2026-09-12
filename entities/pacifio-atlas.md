@@ -34,7 +34,7 @@ Source control for agents. Use multiple coding agents, track their changes and q
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[obra-superpowers]] [[alexsjones-llmfit]]
+[[alexsjones-llmfit]] [[alphaxiv-openresearch]] [[firecrawl-pdf-inspector]] [[max-sixty-worktrunk]] [[armory3d-armorpaint]]
 
 **所属领域**: [[ai-agent]]
 

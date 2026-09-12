@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[pascalorg-editor]] [[p1neapplexpress-openflux]] [[obra-superpowers]] [[alexsjones-llmfit]]
+[[snailsploit-claude-red]] [[juliusbrussee-caveman]] [[p1neapplexpress-openflux]] [[obra-superpowers]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[cli]]
 

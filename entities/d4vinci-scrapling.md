@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[github-spec-kit]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[jihe520-mathmodelagent]] [[heygen-com-hyperframes]]
+[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[web]]
 

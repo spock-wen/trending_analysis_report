@@ -34,7 +34,7 @@ Run parallel research agents with any model
 
 ## 相关项目
 
-[[pacifio-atlas]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[jihe520-mathmodelagent]] [[obra-superpowers]]
+[[alexsjones-llmfit]] [[firecrawl-pdf-inspector]] [[jihe520-mathmodelagent]] [[jordan-gibbs-hyperresearch]] [[p1neapplexpress-openflux]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

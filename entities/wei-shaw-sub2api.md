@@ -34,7 +34,7 @@ Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[pascalorg-editor]] [[vastsa-pi-desktop]] [[majd-ipatool]] [[p1neapplexpress-openflux]]
+[[juliusbrussee-caveman]] [[majd-ipatool]] [[p1neapplexpress-openflux]] [[armory3d-armorpaint]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]]
 

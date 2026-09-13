@@ -35,7 +35,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[protocolbuffers-protobuf]] [[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[jordan-gibbs-hyperresearch]]
+[[fmtlib-fmt]] [[ever-co-ever-gauzy]] [[google-googletest]] [[jordan-gibbs-hyperresearch]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]]
 

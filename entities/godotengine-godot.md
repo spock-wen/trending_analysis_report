@@ -34,5 +34,5 @@ Godot Engine – Multi-platform 2D and 3D game engine
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[protocolbuffers-protobuf]] [[microsoft-onnxruntime]] [[google-googletest]]
+[[google-googletest]] [[fmtlib-fmt]] [[microsoft-onnxruntime]] [[protocolbuffers-protobuf]]
 

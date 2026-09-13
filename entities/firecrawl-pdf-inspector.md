@@ -38,5 +38,5 @@ Fast Rust library for PDF inspection, classification, and text extraction. Intel
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[alphaxiv-openresearch]] [[max-sixty-worktrunk]]
+[[tonhowtf-omniget]] [[alphaxiv-openresearch]] [[alexsjones-llmfit]] [[max-sixty-worktrunk]]
 

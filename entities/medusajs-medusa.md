@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[nab138-iloader]] [[radixark-miles]] [[obra-superpowers]] [[pascalorg-editor]] [[melgarafael-deskcommcrm]]
+[[ever-co-ever-gauzy]] [[obra-superpowers]] [[melgarafael-deskcommcrm]] [[alsk1992-cloddsbot]] [[tech-leads-club-agent-skills]]
 
 **所属领域**: [[erp]]
 

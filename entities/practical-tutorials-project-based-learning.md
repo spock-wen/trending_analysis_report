@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[thu-maic-openmaic]] [[radixark-miles]]
+[[tonhowtf-omniget]] [[jihe520-mathmodelagent]] [[calesthio-openmontage]] [[debpalash-voicestudio]] [[huggingface-transformers]]
 
 **所属领域**: [[education]]
 

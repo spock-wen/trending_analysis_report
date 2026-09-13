@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[snailsploit-claude-red]] [[obra-superpowers]] [[max-sixty-worktrunk]] [[pascalorg-editor]]
+[[tonhowtf-omniget]] [[max-sixty-worktrunk]] [[swordfish90-cool-retro-term]] [[snailsploit-claude-red]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[cli]]
 

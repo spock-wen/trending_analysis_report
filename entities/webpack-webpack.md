@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[multimodal-art-projection-yue]] [[jordan-gibbs-hyperresearch]] [[osmantic-ods]]
+[[ever-co-ever-gauzy]] [[vercel-labs-portless]] [[affaan-m-ecc]] [[osmantic-ods]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[web]] [[image-gen]]
 

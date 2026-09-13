@@ -38,7 +38,7 @@ Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 
 ## 相关项目
 
-[[nab138-iloader]] [[shubhamsaboo-awesome-llm-apps]] [[pascalorg-editor]] [[armory3d-armorpaint]] [[vxcontrol-pentagi]]
+[[ever-co-ever-gauzy]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[melgarafael-deskcommcrm]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

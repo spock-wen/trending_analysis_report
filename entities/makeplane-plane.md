@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[nab138-iloader]] [[obra-superpowers]] [[pascalorg-editor]] [[max-sixty-worktrunk]]
+[[tonhowtf-omniget]] [[ever-co-ever-gauzy]] [[max-sixty-worktrunk]] [[swordfish90-cool-retro-term]] [[melgarafael-deskcommcrm]]
 
 **所属领域**: [[cli]]
 

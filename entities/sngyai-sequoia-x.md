@@ -34,7 +34,7 @@ A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运�
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[armory3d-armorpaint]] [[vxcontrol-pentagi]]
+[[jihe520-mathmodelagent]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[debpalash-voicestudio]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]]
 

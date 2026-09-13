@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[jordan-gibbs-hyperresearch]] [[trycua-cua]] [[armory3d-armorpaint]] [[bilawalsidhu-gods-eye-view]]
+[[ever-co-ever-gauzy]] [[averygan-reclip]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

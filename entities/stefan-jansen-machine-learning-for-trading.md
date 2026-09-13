@@ -35,7 +35,7 @@ Code for Machine Learning for Algorithmic Trading, 2nd edition.
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[thu-maic-openmaic]] [[microsoft-ai-for-beginners]] [[radixark-miles]] [[lyogavin-airllm]]
+[[tonhowtf-omniget]] [[anthropics-claude-cookbooks]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[huggingface-transformers]]
 
 **所属领域**: [[education]]
 

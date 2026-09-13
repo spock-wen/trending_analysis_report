@@ -35,5 +35,5 @@ A self-hosted travel/trip planner with real-time collaboration, interactive maps
 
 ## 相关项目
 
-[[nab138-iloader]] [[pascalorg-editor]] [[alsk1992-cloddsbot]] [[melgarafael-deskcommcrm]]
+[[ever-co-ever-gauzy]] [[melgarafael-deskcommcrm]] [[alsk1992-cloddsbot]] [[tech-leads-club-agent-skills]]
 

@@ -34,7 +34,7 @@ A next.js web application that integrates AI capabilities with draw.io diagrams.
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[snailsploit-claude-red]] [[nab138-iloader]] [[jordan-gibbs-hyperresearch]]
+[[tonhowtf-omniget]] [[ever-co-ever-gauzy]] [[max-sixty-worktrunk]] [[vxcontrol-pentagi]] [[swordfish90-cool-retro-term]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

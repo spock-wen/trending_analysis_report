@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[shubhamsaboo-awesome-llm-apps]] [[obra-superpowers]] [[max-sixty-worktrunk]] [[armory3d-armorpaint]]
+[[tonhowtf-omniget]] [[max-sixty-worktrunk]] [[vxcontrol-pentagi]] [[swordfish90-cool-retro-term]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

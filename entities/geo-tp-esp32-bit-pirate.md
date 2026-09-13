@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[protocolbuffers-protobuf]] [[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[snailsploit-claude-red]]
+[[tonhowtf-omniget]] [[fmtlib-fmt]] [[ever-co-ever-gauzy]] [[max-sixty-worktrunk]] [[swordfish90-cool-retro-term]]
 
 **所属领域**: [[web]] [[cli]]
 

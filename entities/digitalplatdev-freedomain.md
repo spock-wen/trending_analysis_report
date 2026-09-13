@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[jordan-gibbs-hyperresearch]] [[trycua-cua]] [[armory3d-armorpaint]]
+[[ever-co-ever-gauzy]] [[averygan-reclip]] [[vxcontrol-pentagi]] [[trycua-cua]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

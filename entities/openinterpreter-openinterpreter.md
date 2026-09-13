@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[alphaxiv-openresearch]] [[firecrawl-pdf-inspector]] [[radixark-miles]] [[obra-superpowers]]
+[[tonhowtf-omniget]] [[ever-co-ever-gauzy]] [[max-sixty-worktrunk]] [[obra-superpowers]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

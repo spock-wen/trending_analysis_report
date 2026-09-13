@@ -36,5 +36,5 @@ Curated list of the best free apps for PC and mobile
 
 ## 相关项目
 
-[[freestylefly-awesome-gpt-image-2]] [[openai-plugins]] [[bilawalsidhu-gods-eye-view]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[freestylefly-awesome-gpt-image-2]] [[bilawalsidhu-gods-eye-view]] [[openai-plugins]]
 

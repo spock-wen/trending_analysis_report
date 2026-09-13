@@ -35,5 +35,5 @@ An experimental PlayStation 5 emulator project.
 
 ## 相关项目
 
-[[sonarr-sonarr]] [[k1tbyte-wand-enhancer]] [[jellyfin-jellyfin]] [[dotnet-aspnetcore]]
+[[sonarr-sonarr]] [[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]] [[jellyfin-jellyfin]]
 

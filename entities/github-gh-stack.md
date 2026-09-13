@@ -34,5 +34,5 @@ GitHub Stacked PRs
 
 ## 相关项目
 
-[[p1neapplexpress-openflux]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[majd-ipatool]]
+[[p1neapplexpress-openflux]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[alibaba-open-code-review]]
 

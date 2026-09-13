@@ -34,7 +34,7 @@ Lightpanda: the headless browser designed for AI and automation
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[jordan-gibbs-hyperresearch]] [[shubhamsaboo-awesome-llm-apps]] [[bilawalsidhu-gods-eye-view]]
+[[ever-co-ever-gauzy]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[jordan-gibbs-hyperresearch]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -36,7 +36,7 @@ Write HTML. Render video. Built for agents.
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[nab138-iloader]] [[jordan-gibbs-hyperresearch]] [[shubhamsaboo-awesome-llm-apps]] [[pascalorg-editor]]
+[[ever-co-ever-gauzy]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[melgarafael-deskcommcrm]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

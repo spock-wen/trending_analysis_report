@@ -35,7 +35,7 @@ Find the local LLM that actually runs and performs best on your hardware. Ranked
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[obra-superpowers]] [[max-sixty-worktrunk]]
+[[tonhowtf-omniget]] [[jihe520-mathmodelagent]] [[max-sixty-worktrunk]] [[vxcontrol-pentagi]] [[swordfish90-cool-retro-term]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

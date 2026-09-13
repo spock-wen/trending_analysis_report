@@ -37,5 +37,5 @@ The authentication glue you need.
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[shubhamsaboo-awesome-llm-apps]]
+[[debpalash-voicestudio]] [[jihe520-mathmodelagent]] [[huggingface-transformers]] [[calesthio-openmontage]]
 

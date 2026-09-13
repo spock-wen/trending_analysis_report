@@ -37,7 +37,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[alphaxiv-openresearch]] [[firecrawl-pdf-inspector]] [[max-sixty-worktrunk]] [[armory3d-armorpaint]]
+[[tonhowtf-omniget]] [[max-sixty-worktrunk]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[alphaxiv-openresearch]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ## 相关项目
 
-[[openai-plugins]] [[affaan-m-ecc]] [[bilawalsidhu-gods-eye-view]] [[armory3d-armorpaint]] [[vxcontrol-pentagi]]
+[[affaan-m-ecc]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[bilawalsidhu-gods-eye-view]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

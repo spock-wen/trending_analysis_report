@@ -37,7 +37,7 @@ Open source inference server that runs the best local models for your hardware, 
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[nab138-iloader]] [[shubhamsaboo-awesome-llm-apps]] [[obra-superpowers]] [[pascalorg-editor]]
+[[tonhowtf-omniget]] [[ever-co-ever-gauzy]] [[max-sixty-worktrunk]] [[vxcontrol-pentagi]] [[swordfish90-cool-retro-term]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -37,5 +37,5 @@ Empowering everyone to host fast and efficient Minecraft servers.
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[alphaxiv-openresearch]] [[max-sixty-worktrunk]] [[firecrawl-pdf-inspector]]
+[[tonhowtf-omniget]] [[alphaxiv-openresearch]] [[alexsjones-llmfit]] [[max-sixty-worktrunk]]
 

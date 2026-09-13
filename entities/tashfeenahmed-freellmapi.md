@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[snailsploit-claude-red]] [[nab138-iloader]] [[affaan-m-ecc]] [[shubhamsaboo-awesome-llm-apps]]
+[[ever-co-ever-gauzy]] [[affaan-m-ecc]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[melgarafael-deskcommcrm]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

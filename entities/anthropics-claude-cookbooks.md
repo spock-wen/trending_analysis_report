@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[microsoft-generative-ai-for-beginners]] [[armory3d-armorpaint]] [[vxcontrol-pentagi]]
+[[microsoft-generative-ai-for-beginners]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[lyogavin-airllm]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

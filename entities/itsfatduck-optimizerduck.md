@@ -34,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[snailsploit-claude-red]] [[sonarr-sonarr]] [[jellyfin-jellyfin]] [[dotnet-aspnetcore]]
+[[k1tbyte-wand-enhancer]] [[affaan-m-ecc]] [[sonarr-sonarr]] [[snailsploit-claude-red]] [[jellyfin-jellyfin]]
 
 **所属领域**: [[security]]
 

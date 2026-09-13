@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[multimodal-art-projection-yue]] [[nutlope-hallmark]] [[jordan-gibbs-hyperresearch]]
+[[ever-co-ever-gauzy]] [[vercel-labs-portless]] [[nutlope-hallmark]] [[vxcontrol-pentagi]] [[osmantic-ods]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

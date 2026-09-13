@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[nutlope-hallmark]] [[jordan-gibbs-hyperresearch]] [[radixark-miles]]
+[[ever-co-ever-gauzy]] [[conardli-garden-skills]] [[nutlope-hallmark]] [[obra-superpowers]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[web]] [[erp]]
 

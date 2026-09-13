@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[nab138-iloader]] [[osmantic-ods]] [[shubhamsaboo-awesome-llm-apps]] [[vercel-labs-portless]]
+[[ever-co-ever-gauzy]] [[vercel-labs-portless]] [[vxcontrol-pentagi]] [[osmantic-ods]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

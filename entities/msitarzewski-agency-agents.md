@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[nvm-sh-nvm]] [[snailsploit-claude-red]] [[mattpocock-skills]]
+[[tonhowtf-omniget]] [[mattpocock-skills]] [[ever-co-ever-gauzy]] [[max-sixty-worktrunk]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

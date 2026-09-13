@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[juliusbrussee-caveman]] [[majd-ipatool]] [[coreyhaines31-marketingskills]] [[p1neapplexpress-openflux]]
+[[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[alibaba-open-code-review]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

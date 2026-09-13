@@ -38,7 +38,7 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[alphaxiv-openresearch]] [[firecrawl-pdf-inspector]] [[jihe520-mathmodelagent]] [[jordan-gibbs-hyperresearch]]
+[[tonhowtf-omniget]] [[jihe520-mathmodelagent]] [[max-sixty-worktrunk]] [[vxcontrol-pentagi]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

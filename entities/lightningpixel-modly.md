@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[nab138-iloader]] [[osmantic-ods]] [[shubhamsaboo-awesome-llm-apps]] [[vercel-labs-portless]]
+[[ever-co-ever-gauzy]] [[vercel-labs-portless]] [[vxcontrol-pentagi]] [[osmantic-ods]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

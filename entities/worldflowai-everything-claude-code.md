@@ -34,7 +34,7 @@ Claude Code toolkit - agents, commands, skills, rules, and hooks for productive 
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[openai-plugins]] [[affaan-m-ecc]] [[obra-superpowers]] [[max-sixty-worktrunk]]
+[[tonhowtf-omniget]] [[max-sixty-worktrunk]] [[affaan-m-ecc]] [[vxcontrol-pentagi]] [[swordfish90-cool-retro-term]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

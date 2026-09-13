@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[jaywcjlove-awesome-mac]] [[altic-dev-fluidvoice]] [[obra-superpowers]] [[max-sixty-worktrunk]]
+[[permissionlesstech-bitchat]] [[tonhowtf-omniget]] [[max-sixty-worktrunk]] [[altic-dev-fluidvoice]] [[swordfish90-cool-retro-term]]
 
 **所属领域**: [[cli]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[multimodal-art-projection-yue]]
+[[tonhowtf-omniget]] [[jihe520-mathmodelagent]] [[ever-co-ever-gauzy]] [[max-sixty-worktrunk]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

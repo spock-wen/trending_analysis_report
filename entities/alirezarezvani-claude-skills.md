@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[alphaxiv-openresearch]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[jordan-gibbs-hyperresearch]]
+[[tonhowtf-omniget]] [[jihe520-mathmodelagent]] [[ever-co-ever-gauzy]] [[max-sixty-worktrunk]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

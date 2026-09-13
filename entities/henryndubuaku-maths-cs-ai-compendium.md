@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[alphaxiv-openresearch]] [[nab138-iloader]] [[jordan-gibbs-hyperresearch]] [[p1neapplexpress-openflux]]
+[[jihe520-mathmodelagent]] [[ever-co-ever-gauzy]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[melgarafael-deskcommcrm]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

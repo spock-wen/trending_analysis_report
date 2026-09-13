@@ -38,7 +38,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[armory3d-armorpaint]] [[vxcontrol-pentagi]] [[anthropics-claude-cookbooks]]
+[[anthropics-claude-cookbooks]] [[microsoft-generative-ai-for-beginners]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

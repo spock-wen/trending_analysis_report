@@ -35,5 +35,5 @@ a code review TUI with vim keybindings
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[alphaxiv-openresearch]] [[max-sixty-worktrunk]] [[firecrawl-pdf-inspector]]
+[[tonhowtf-omniget]] [[alphaxiv-openresearch]] [[alexsjones-llmfit]] [[max-sixty-worktrunk]]
 

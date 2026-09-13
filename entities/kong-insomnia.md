@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[snailsploit-claude-red]] [[nab138-iloader]] [[jordan-gibbs-hyperresearch]]
+[[tonhowtf-omniget]] [[ever-co-ever-gauzy]] [[max-sixty-worktrunk]] [[swordfish90-cool-retro-term]] [[melgarafael-deskcommcrm]]
 
 **所属领域**: [[web]] [[cli]]
 

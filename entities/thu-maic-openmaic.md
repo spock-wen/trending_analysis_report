@@ -38,7 +38,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[nab138-iloader]] [[radixark-miles]] [[shubhamsaboo-awesome-llm-apps]] [[obra-superpowers]]
+[[tonhowtf-omniget]] [[ever-co-ever-gauzy]] [[max-sixty-worktrunk]] [[vxcontrol-pentagi]] [[swordfish90-cool-retro-term]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

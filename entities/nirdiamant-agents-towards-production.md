@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[tencent-ai-infra-guard]] [[thu-maic-openmaic]] [[microsoft-ai-for-beginners]] [[radixark-miles]]
+[[vxcontrol-pentagi]] [[huggingface-transformers]] [[thu-maic-openmaic]] [[alsk1992-cloddsbot]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

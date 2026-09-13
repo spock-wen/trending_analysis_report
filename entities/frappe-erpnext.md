@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[radixark-miles]] [[shubhamsaboo-awesome-llm-apps]]
+[[jihe520-mathmodelagent]] [[ever-co-ever-gauzy]] [[obra-superpowers]] [[calesthio-openmontage]] [[debpalash-voicestudio]]
 
 **所属领域**: [[erp]]
 

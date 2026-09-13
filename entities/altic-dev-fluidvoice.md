@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[jaywcjlove-awesome-mac]]
+[[permissionlesstech-bitchat]] [[tonhowtf-omniget]] [[ever-co-ever-gauzy]] [[vxcontrol-pentagi]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

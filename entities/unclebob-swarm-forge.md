@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[penpot-penpot]] [[shubhamsaboo-awesome-llm-apps]] [[armory3d-armorpaint]] [[vxcontrol-pentagi]] [[alsk1992-cloddsbot]]
+[[vxcontrol-pentagi]] [[calesthio-openmontage]] [[alibaba-open-code-review]] [[penpot-penpot]] [[tech-leads-club-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[alphaxiv-openresearch]] [[snailsploit-claude-red]] [[nab138-iloader]] [[jordan-gibbs-hyperresearch]]
+[[tonhowtf-omniget]] [[jihe520-mathmodelagent]] [[ever-co-ever-gauzy]] [[max-sixty-worktrunk]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

@@ -34,7 +34,7 @@ Model router for agentic systems. Routes every prompt to the right model in <50m
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[majd-ipatool]] [[p1neapplexpress-openflux]] [[armory3d-armorpaint]] [[vxcontrol-pentagi]]
+[[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[alibaba-open-code-review]] [[p1neapplexpress-openflux]]
 
 **所属领域**: [[ai-agent]]
 

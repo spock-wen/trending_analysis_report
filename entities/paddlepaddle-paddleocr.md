@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[coreyhaines31-marketingskills]] [[osmantic-ods]]
+[[jihe520-mathmodelagent]] [[vercel-labs-portless]] [[vxcontrol-pentagi]] [[osmantic-ods]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

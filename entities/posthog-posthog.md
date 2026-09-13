@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[tencent-ai-infra-guard]] [[snailsploit-claude-red]] [[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]]
+[[jihe520-mathmodelagent]] [[ever-co-ever-gauzy]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

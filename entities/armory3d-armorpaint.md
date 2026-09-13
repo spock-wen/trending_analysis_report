@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[antirez-ds4]] [[opa334-dopamine]] [[justvugg-colibri]] [[vxcontrol-pentagi]] [[alsk1992-cloddsbot]]
+[[opa334-dopamine]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[justvugg-colibri]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

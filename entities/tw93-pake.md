@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[alphaxiv-openresearch]] [[firecrawl-pdf-inspector]] [[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]]
+[[tonhowtf-omniget]] [[ever-co-ever-gauzy]] [[max-sixty-worktrunk]] [[swordfish90-cool-retro-term]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[web]] [[cli]]
 

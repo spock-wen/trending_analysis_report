@@ -36,7 +36,7 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[alphaxiv-openresearch]] [[firecrawl-pdf-inspector]] [[snailsploit-claude-red]] [[obra-superpowers]]
+[[tonhowtf-omniget]] [[max-sixty-worktrunk]] [[vxcontrol-pentagi]] [[swordfish90-cool-retro-term]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

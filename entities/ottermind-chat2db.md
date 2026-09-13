@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[nationalsecurityagency-ghidra]] [[coreyhaines31-marketingskills]] [[obra-superpowers]] [[aipoch-open-science]]
+[[tonhowtf-omniget]] [[max-sixty-worktrunk]] [[checkstyle-checkstyle]] [[nationalsecurityagency-ghidra]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

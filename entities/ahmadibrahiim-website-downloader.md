@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[multimodal-art-projection-yue]] [[jordan-gibbs-hyperresearch]] [[osmantic-ods]]
+[[ever-co-ever-gauzy]] [[averygan-reclip]] [[vercel-labs-portless]] [[osmantic-ods]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[image-gen]]
 

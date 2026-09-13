@@ -38,7 +38,7 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[armory3d-armorpaint]] [[vxcontrol-pentagi]]
+[[jihe520-mathmodelagent]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[debpalash-voicestudio]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]]
 

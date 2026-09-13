@@ -36,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[thu-maic-openmaic]] [[microsoft-ai-for-beginners]] [[radixark-miles]] [[lyogavin-airllm]]
+[[tonhowtf-omniget]] [[anthropics-claude-cookbooks]] [[microsoft-generative-ai-for-beginners]] [[vxcontrol-pentagi]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

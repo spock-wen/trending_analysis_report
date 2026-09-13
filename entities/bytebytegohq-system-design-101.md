@@ -35,7 +35,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[alsk1992-cloddsbot]] [[shubhamsaboo-awesome-llm-apps]] [[vxcontrol-pentagi]] [[armory3d-armorpaint]]
+[[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[calesthio-openmontage]] [[tech-leads-club-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

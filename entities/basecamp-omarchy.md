@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[nvm-sh-nvm]] [[mattpocock-skills]] [[obra-superpowers]] [[max-sixty-worktrunk]]
+[[tonhowtf-omniget]] [[mattpocock-skills]] [[max-sixty-worktrunk]] [[obra-superpowers]] [[swordfish90-cool-retro-term]]
 
 **所属领域**: [[cli]]
 

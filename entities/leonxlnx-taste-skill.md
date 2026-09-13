@@ -38,7 +38,7 @@ Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
 
 ## 相关项目
 
-[[openai-plugins]] [[affaan-m-ecc]] [[bilawalsidhu-gods-eye-view]] [[armory3d-armorpaint]] [[vxcontrol-pentagi]]
+[[affaan-m-ecc]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[bilawalsidhu-gods-eye-view]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

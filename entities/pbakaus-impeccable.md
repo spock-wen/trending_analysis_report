@@ -35,7 +35,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[openai-plugins]] [[affaan-m-ecc]] [[bilawalsidhu-gods-eye-view]] [[armory3d-armorpaint]] [[vxcontrol-pentagi]]
+[[affaan-m-ecc]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[bilawalsidhu-gods-eye-view]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

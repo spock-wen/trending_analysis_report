@@ -36,7 +36,7 @@ Open Source AI trading agent that operates autonomously across 1000+ markets - P
 
 ## 相关项目
 
-[[nab138-iloader]] [[radixark-miles]] [[obra-superpowers]] [[pascalorg-editor]] [[armory3d-armorpaint]]
+[[ever-co-ever-gauzy]] [[obra-superpowers]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[melgarafael-deskcommcrm]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

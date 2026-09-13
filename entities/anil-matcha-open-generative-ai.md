@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[osmantic-ods]] [[openai-plugins]] [[affaan-m-ecc]] [[vercel-labs-portless]]
+[[vercel-labs-portless]] [[affaan-m-ecc]] [[vxcontrol-pentagi]] [[osmantic-ods]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

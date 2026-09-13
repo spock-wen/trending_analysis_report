@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[tencent-ai-infra-guard]] [[juliusbrussee-caveman]] [[majd-ipatool]] [[p1neapplexpress-openflux]] [[vxcontrol-pentagi]]
+[[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[ripienaar-free-for-dev]] [[p1neapplexpress-openflux]]
 
 **所属领域**: [[devops]]
 

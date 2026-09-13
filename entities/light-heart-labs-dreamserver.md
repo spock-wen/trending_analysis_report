@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[osmantic-ods]]
+[[tonhowtf-omniget]] [[jihe520-mathmodelagent]] [[vercel-labs-portless]] [[vxcontrol-pentagi]] [[osmantic-ods]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

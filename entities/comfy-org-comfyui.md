@@ -35,7 +35,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[osmantic-ods]] [[vercel-labs-portless]]
+[[jihe520-mathmodelagent]] [[vercel-labs-portless]] [[osmantic-ods]] [[calesthio-openmontage]] [[debpalash-voicestudio]]
 
 **所属领域**: [[image-gen]]
 

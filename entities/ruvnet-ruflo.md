@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[tencent-ai-infra-guard]] [[thu-maic-openmaic]] [[posthog-posthog]] [[nab138-iloader]] [[radixark-miles]]
+[[tonhowtf-omniget]] [[ever-co-ever-gauzy]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[melgarafael-deskcommcrm]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

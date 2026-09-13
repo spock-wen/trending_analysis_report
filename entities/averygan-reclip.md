@@ -35,7 +35,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[snailsploit-claude-red]] [[jordan-gibbs-hyperresearch]] [[obra-superpowers]]
+[[tonhowtf-omniget]] [[ever-co-ever-gauzy]] [[max-sixty-worktrunk]] [[swordfish90-cool-retro-term]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[cli]]
 

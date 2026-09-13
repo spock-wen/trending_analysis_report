@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[alphaxiv-openresearch]] [[firecrawl-pdf-inspector]] [[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]]
+[[tonhowtf-omniget]] [[ever-co-ever-gauzy]] [[max-sixty-worktrunk]] [[jordan-gibbs-hyperresearch]] [[alphaxiv-openresearch]]
 
 **所属领域**: [[web]]
 

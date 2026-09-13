@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[zhaoxuya520-reverse-skill]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[affaan-m-ecc]]
+[[jihe520-mathmodelagent]] [[affaan-m-ecc]] [[calesthio-openmontage]] [[debpalash-voicestudio]] [[huggingface-transformers]]
 
 **所属领域**: [[security]]
 

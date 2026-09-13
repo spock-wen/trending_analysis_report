@@ -26,6 +26,8 @@ rows = list(db.execute(
 WK = {r[0]: r[1] for r in rows}
 LANG = {r[0]: r[2] or '' for r in rows}
 DESC = {r[0]: (r[4] or '').strip() for r in rows}
+
+ZH_DESC = {'ayghri/i-have-adhd': '强制编码 Agent 把结论放在输出最前面，告别翻找答案（ADHD 友好）', 'bilawalsidhu/gods-eye-view': '浏览器里的侦察卫星模拟器：写实 3D 地球 + 真实开源空间情报', 'tt-a1i/archify': 'Agent 架构/工作流/时序图生成 skill，自包含 HTML 可导出', 'DietrichGebert/ponytail': '让 Agent 像"屋里最懒的资深工程师"一样思考：能不写的代码就不写', 'mattpocock/skills': 'TypeScript 教育者 Matt Pocock 的工程技能集', 'affaan-m/ECC': 'Agent 性能调优系统：技能、本能、记忆、安全，支持多平台', 'cathrynlavery/diagram-design': '38 种编辑部风格图表模板，自包含 HTML+SVG，拒绝 Mermaid 风', 'heygen-com/hyperframes': '写 HTML、渲染成视频，为 Agent 设计的视频生产管线', 'microsoft/markitdown': '微软官方文件转 Markdown 工具，Office/图片/音频全支持', 'THU-MAIC/OpenMAIC': '清华开源多 Agent 互动课堂，一键搭建沉浸式教学'}
 total_stars = sum(WK.values())
 n_projects = len(rows)
 
@@ -95,22 +97,22 @@ C = {'blue': '#4C72B0', 'orange': '#E4572E', 'purple': '#8172B2', 'green': '#2E8
 
 # TODO(每周手填)：NARRATIVES / KNIVES / WATCH 按周报正文更新
 NARRATIVES = [
-    (C['blue'], '#EAF0F9', '#3A62A8', 'Skill 正在成为 Agent 时代的标准件市场',
-     '4 个 Skill 类项目合计 <b>32,412★，占全榜 39.4%</b>（上周 27.6%，周星环比 +47%）。archify 二连庄（+19,480★），行业诉求从「能思考」转向「可评审、可复用、可导出的交付物」。'),
-    (C['orange'], '#FDEEE8', '#D14A24', '回归项目是存量轮换，谈不上新一轮爆发',
-     '5 个断榜 4~11 周的老项目重返榜单，但多数增量远低于自身历史峰值；上周 18 个上榜项目仅 2 个存活。榜单池子容量有限，流量窗口在轮转，而非行业整体回暖。'),
-    (C['purple'], '#F1EEF8', '#6D5CA8', '非 AI 工具拿回席位，热度多点扩散',
-     'Rust 系统工具本周归零，TypeScript 占比从 7.7% 升至 <b>20.8%</b>（5 项 17,057★）。开发者注意力不再单边涌向 AI 新概念，底层工具、效率工具重新分到流量。'),
+    (C['blue'], '#EAF0F9', '#3A62A8', 'Skill 从 4 个赛道变成半个榜单',
+     '14 个 Skill 类项目合计 <b>81,680★，占全榜 77.0%</b>（上周 4 项 32,412★、39.4%）。总榜新增的 23,887★ 里 Skill 贡献 +49,268★，非 Skill 项目总星反而腰斩——AI 项目形态正在向 Skill 单点收敛。'),
+    (C['orange'], '#FDEEE8', '#D14A24', '输出体验成为新卖点',
+     '榜首 <b>i-have-adhd（+15,924★）</b>只做一件事：让 Agent 把结论放最上面。加上去 AI 味的 humanizer、no-ai-slop，表达规范类集体上榜——用户的痛点从「Agent 能不能干」转向「Agent 的产出顺不顺手」。'),
+    (C['purple'], '#F1EEF8', '#6D5CA8', '官方仓库首次成组进场',
+     '<b>openai/skills、openai/plugins、markitdown、chrome-devtools-mcp</b> 四项合计 8,305★（上周仅 1 项 958★）。社区定流行，官方定标准——Skill 正从社区实践升格为平台接口。'),
 ]
 KNIVES = [
-    (C['blue'], '加速', 'Skill 生态', '占比 27.6% → 39.4%<br>周星环比 +47%，4 项合计 32,412★'),
-    (C['orange'], '减速', 'Rust 系统工具', '上周 3 项 14,323★<br>本周 0 项，热度暂时退场'),
-    (C['green'], '换挡', 'TypeScript', '占比 7.7% → 20.8%<br>5 项 17,057★，重夺榜单席位'),
+    (C['blue'], '加速', 'Skill 生态', '占比 39.4% → 77.0%<br>14 项 81,680★，总榜增量全由它贡献'),
+    (C['orange'], '减速', '非 Skill 项目', '总星 49,781★ → 24,400★（-51%）<br>科研 Agent、语音工具本周全部出局'),
+    (C['green'], '换挡', '大厂官方仓库', '1 项 958★ → 4 项 8,305★<br>OpenAI / 微软 / 谷歌首次成组上榜'),
 ]
 WATCH = [
-    ('Skill 席位能否扩容？', 'Skill 类项目席位 <b>≥6 个</b>，热度延续才算坐实'),
-    ('回归项目能否留存？', '5 个回归项目中 <b>≥2 个留榜</b>，回流不是短期脉冲'),
-    ('Rust 会不会回场？', 'Rust 工具类项目有无<b>代表性新作</b>冲进周榜'),
+    ('Skill 席位守得住吗？', '14 席大概率是峰值，回落至 <b>≥8 席</b>才算市场真扩容'),
+    ('新面孔留存几个？', '16 个新面孔留存 <b>≥2 个</b>为健康；上周 19 个只留 4 个（21%）'),
+    ('官方仓库会续榜吗？', 'openai/skills、markitdown 若下周继续在榜，官方进场即成趋势'),
 ]
 
 def esc(s):
@@ -124,7 +126,7 @@ for i, (name, stars) in enumerate(top10):
     <div class="idx">{i+1:02d}</div>
     <div class="main">
       <div class="l1"><span class="name">{esc(name)}</span><span class="tag" style="background:{C[color]}">{TAG_LABEL[color]}</span></div>
-      <div class="desc">{esc(DESC.get(name, ''))}</div>
+      <div class="desc">{esc(ZH_DESC.get(name) or DESC.get(name, ''))}</div>
       <div class="sub">{esc(subline(name))}</div>
     </div>
     <div class="stars"><div class="wk" style="color:{C[color]}">{s}</div></div>

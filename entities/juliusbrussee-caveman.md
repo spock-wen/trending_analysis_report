@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[majd-ipatool]] [[p1neapplexpress-openflux]] [[shubhamsaboo-awesome-llm-apps]] [[armory3d-armorpaint]] [[vxcontrol-pentagi]]
+[[vxcontrol-pentagi]] [[calesthio-openmontage]] [[alibaba-open-code-review]] [[p1neapplexpress-openflux]] [[tech-leads-club-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

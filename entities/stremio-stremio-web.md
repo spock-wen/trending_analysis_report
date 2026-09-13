@@ -34,7 +34,7 @@ Stremio - Freedom to Stream
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[jordan-gibbs-hyperresearch]] [[openai-plugins]] [[affaan-m-ecc]]
+[[ever-co-ever-gauzy]] [[affaan-m-ecc]] [[jordan-gibbs-hyperresearch]] [[bilawalsidhu-gods-eye-view]] [[openai-plugins]]
 
 **所属领域**: [[web]]
 

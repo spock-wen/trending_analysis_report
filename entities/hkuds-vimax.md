@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[osmantic-ods]] [[vercel-labs-portless]]
+[[jihe520-mathmodelagent]] [[vercel-labs-portless]] [[vxcontrol-pentagi]] [[osmantic-ods]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[snailsploit-claude-red]] [[coreyhaines31-marketingskills]] [[jordan-gibbs-hyperresearch]]
+[[ever-co-ever-gauzy]] [[averygan-reclip]] [[vxcontrol-pentagi]] [[trycua-cua]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

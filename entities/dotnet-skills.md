@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[sonarr-sonarr]] [[jellyfin-jellyfin]] [[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]] [[armory3d-armorpaint]]
+[[k1tbyte-wand-enhancer]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[sonarr-sonarr]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

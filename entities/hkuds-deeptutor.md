@@ -37,7 +37,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[multimodal-art-projection-yue]]
+[[jihe520-mathmodelagent]] [[ever-co-ever-gauzy]] [[calesthio-openmontage]] [[debpalash-voicestudio]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[web]]
 

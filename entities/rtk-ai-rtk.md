@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[alphaxiv-openresearch]] [[firecrawl-pdf-inspector]] [[snailsploit-claude-red]] [[obra-superpowers]]
+[[tonhowtf-omniget]] [[max-sixty-worktrunk]] [[vxcontrol-pentagi]] [[swordfish90-cool-retro-term]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

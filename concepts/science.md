@@ -1,7 +1,7 @@
 ---
 title: "science"
 created: 2026-05-26
-updated: 2026-09-13
+updated: 2026-09-14
 type: concept
 tags: [science]
 confidence: medium
@@ -11,7 +11,7 @@ confidence: medium
 
 ## 领域项目（共 31 个，今日上榜 2 个）
 
-[[jihe520-mathmodelagent]] [[p1neapplexpress-openflux]] [[jordan-gibbs-hyperresearch]] [[alphaxiv-openresearch]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[bytedance-deer-flow]] [[nousresearch-hermes-agent]] [[aipoch-open-science]] [[bikini-exploitarium]] [[google-research-timesfm]] [[imbad0202-academic-research-skills]] [[k-dense-ai-scientific-agent-skills]] [[zhaoxuya520-reverse-skill]] [[kaifcodec-user-scanner]] [[mvanhorn-last30days-skill]] [[marin-community-marin]] [[tinyhumansai-openhuman]] [[paperclipai-paperclip]] [[paperswithbacktest-awesome-systematic-trading]] [[knockoutez-wigolo]] [[henryndubuaku-maths-cs-ai-compendium]] [[graphify-labs-graphify]] [[alirezarezvani-claude-skills]] [[safishamsi-graphify]] [[xbtlin-ai-berkshire]] [[owainlewis-awesome-artificial-intelligence]] [[aishwaryanr-awesome-generative-ai-guide]] [[galilai-group-stable-worldmodel]] [[fincept-corporation-finceptterminal]] [[paperless-ngx-paperless-ngx]]
+[[jihe520-mathmodelagent]] [[alphaxiv-openresearch]] [[p1neapplexpress-openflux]] [[jordan-gibbs-hyperresearch]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[bytedance-deer-flow]] [[nousresearch-hermes-agent]] [[aipoch-open-science]] [[bikini-exploitarium]] [[google-research-timesfm]] [[imbad0202-academic-research-skills]] [[k-dense-ai-scientific-agent-skills]] [[zhaoxuya520-reverse-skill]] [[kaifcodec-user-scanner]] [[mvanhorn-last30days-skill]] [[marin-community-marin]] [[tinyhumansai-openhuman]] [[paperclipai-paperclip]] [[paperswithbacktest-awesome-systematic-trading]] [[knockoutez-wigolo]] [[henryndubuaku-maths-cs-ai-compendium]] [[graphify-labs-graphify]] [[alirezarezvani-claude-skills]] [[safishamsi-graphify]] [[xbtlin-ai-berkshire]] [[owainlewis-awesome-artificial-intelligence]] [[aishwaryanr-awesome-generative-ai-guide]] [[galilai-group-stable-worldmodel]] [[fincept-corporation-finceptterminal]] [[paperless-ngx-paperless-ngx]]
 
 ## 语言分布
 

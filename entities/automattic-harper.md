@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[alphaxiv-openresearch]] [[snailsploit-claude-red]] [[firecrawl-pdf-inspector]] [[zhaoxuya520-reverse-skill]]
+[[tonhowtf-omniget]] [[max-sixty-worktrunk]] [[affaan-m-ecc]] [[alphaxiv-openresearch]] [[alexsjones-llmfit]]
 
 **所属领域**: [[security]]
 

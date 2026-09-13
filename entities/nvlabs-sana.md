@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[osmantic-ods]] [[vercel-labs-portless]]
+[[jihe520-mathmodelagent]] [[vercel-labs-portless]] [[osmantic-ods]] [[calesthio-openmontage]] [[debpalash-voicestudio]]
 
 **所属领域**: [[image-gen]]
 

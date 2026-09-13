@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[alphaxiv-openresearch]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[thu-maic-openmaic]]
+[[tonhowtf-omniget]] [[jihe520-mathmodelagent]] [[calesthio-openmontage]] [[p1neapplexpress-openflux]] [[debpalash-voicestudio]]
 
 **所属领域**: [[education]] [[science]]
 

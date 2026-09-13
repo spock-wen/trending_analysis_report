@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[tencent-ai-infra-guard]] [[nab138-iloader]] [[pascalorg-editor]] [[melgarafael-deskcommcrm]] [[posthog-posthog]]
+[[ever-co-ever-gauzy]] [[melgarafael-deskcommcrm]] [[ripienaar-free-for-dev]] [[posthog-posthog]] [[ruvnet-ruflo]]
 
 **所属领域**: [[devops]]
 

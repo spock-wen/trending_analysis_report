@@ -36,7 +36,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[snailsploit-claude-red]] [[nab138-iloader]] [[affaan-m-ecc]] [[pascalorg-editor]]
+[[ever-co-ever-gauzy]] [[affaan-m-ecc]] [[melgarafael-deskcommcrm]] [[snailsploit-claude-red]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[security]]
 

@@ -34,7 +34,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[coreyhaines31-marketingskills]] [[jordan-gibbs-hyperresearch]] [[p1neapplexpress-openflux]] [[vercel-labs-portless]]
+[[vercel-labs-portless]] [[vxcontrol-pentagi]] [[jordan-gibbs-hyperresearch]] [[huggingface-transformers]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

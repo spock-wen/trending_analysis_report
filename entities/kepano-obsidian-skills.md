@@ -34,7 +34,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[thu-maic-openmaic]] [[radixark-miles]] [[shubhamsaboo-awesome-llm-apps]] [[obra-superpowers]]
+[[tonhowtf-omniget]] [[max-sixty-worktrunk]] [[vxcontrol-pentagi]] [[swordfish90-cool-retro-term]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

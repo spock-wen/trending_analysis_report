@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[juliusbrussee-caveman]] [[majd-ipatool]] [[jordan-gibbs-hyperresearch]]
+[[ever-co-ever-gauzy]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[jordan-gibbs-hyperresearch]] [[alibaba-open-code-review]]
 
 **所属领域**: [[web]]
 

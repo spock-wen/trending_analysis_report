@@ -38,7 +38,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[bilawalsidhu-gods-eye-view]] [[armory3d-armorpaint]] [[vxcontrol-pentagi]] [[freestylefly-awesome-gpt-image-2]]
+[[affaan-m-ecc]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[bilawalsidhu-gods-eye-view]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

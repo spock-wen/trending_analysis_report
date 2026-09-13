@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[thu-maic-openmaic]] [[jordan-gibbs-hyperresearch]] [[radixark-miles]]
+[[tonhowtf-omniget]] [[ever-co-ever-gauzy]] [[averygan-reclip]] [[trycua-cua]] [[thu-maic-openmaic]]
 
 **所属领域**: [[web]] [[education]]
 

@@ -35,7 +35,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[obra-superpowers]] [[max-sixty-worktrunk]] [[localsend-localsend]] [[pascalorg-editor]]
+[[tonhowtf-omniget]] [[flutter-flutter]] [[max-sixty-worktrunk]] [[swordfish90-cool-retro-term]] [[localsend-localsend]]
 
 **所属领域**: [[cli]]
 

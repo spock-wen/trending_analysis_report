@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[nvm-sh-nvm]] [[obra-superpowers]] [[max-sixty-worktrunk]] [[armory3d-armorpaint]]
+[[tonhowtf-omniget]] [[max-sixty-worktrunk]] [[obra-superpowers]] [[vxcontrol-pentagi]] [[swordfish90-cool-retro-term]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

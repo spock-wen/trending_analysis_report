@@ -16,7 +16,6 @@ last_trending: 2026-09-11
 peak_rank: 1
 total_stars: 30806
 language: "JavaScript"
-contested: true
 ---
 
 # freestylefly/awesome-gpt-image-2
@@ -39,17 +38,7 @@ Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[osmantic-ods]] [[affaan-m-ecc]] [[vercel-labs-portless]] [[bilawalsidhu-gods-eye-view]]
+[[vercel-labs-portless]] [[affaan-m-ecc]] [[vxcontrol-pentagi]] [[osmantic-ods]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
-
-
-## ⚠️ 描述变更（2026-09-11）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-- **新描述**: Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

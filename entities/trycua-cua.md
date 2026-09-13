@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[coreyhaines31-marketingskills]]
+[[ever-co-ever-gauzy]] [[averygan-reclip]] [[vercel-labs-portless]] [[vxcontrol-pentagi]] [[osmantic-ods]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[heygen-com-hyperframes]] [[cathrynlavery-diagram-design]] [[jordan-gibbs-hyperresearch]] [[obra-superpowers]]
+[[tonhowtf-omniget]] [[ever-co-ever-gauzy]] [[max-sixty-worktrunk]] [[swordfish90-cool-retro-term]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[web]] [[cli]]
 

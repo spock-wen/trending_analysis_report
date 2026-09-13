@@ -35,7 +35,7 @@ Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[vercel-labs-portless]]
+[[tonhowtf-omniget]] [[jihe520-mathmodelagent]] [[vercel-labs-portless]] [[vxcontrol-pentagi]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

@@ -38,7 +38,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[osmantic-ods]]
+[[tonhowtf-omniget]] [[jihe520-mathmodelagent]] [[vercel-labs-portless]] [[osmantic-ods]] [[calesthio-openmontage]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

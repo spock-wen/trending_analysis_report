@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[snailsploit-claude-red]] [[antirez-ds4]] [[opa334-dopamine]] [[affaan-m-ecc]]
+[[armory3d-armorpaint]] [[opa334-dopamine]] [[affaan-m-ecc]] [[justvugg-colibri]] [[snailsploit-claude-red]]
 
 **所属领域**: [[security]]
 

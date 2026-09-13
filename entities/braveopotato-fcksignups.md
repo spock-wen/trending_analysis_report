@@ -36,7 +36,7 @@ A list of tools that are open-source, in-browser, and require no-signups!
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[nab138-iloader]] [[jordan-gibbs-hyperresearch]] [[pascalorg-editor]]
+[[ever-co-ever-gauzy]] [[melgarafael-deskcommcrm]] [[jordan-gibbs-hyperresearch]] [[bilawalsidhu-gods-eye-view]] [[jiji262-douyin-downloader]]
 
 **所属领域**: [[web]]
 

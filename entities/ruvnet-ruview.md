@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[alexsjones-llmfit]] [[alphaxiv-openresearch]] [[firecrawl-pdf-inspector]] [[tencent-ai-infra-guard]] [[max-sixty-worktrunk]]
+[[tonhowtf-omniget]] [[max-sixty-worktrunk]] [[alphaxiv-openresearch]] [[alexsjones-llmfit]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[devops]]
 

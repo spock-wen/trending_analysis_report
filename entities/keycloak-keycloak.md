@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[snailsploit-claude-red]] [[nationalsecurityagency-ghidra]] [[affaan-m-ecc]] [[google-guava]]
+[[checkstyle-checkstyle]] [[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[google-guava]] [[snailsploit-claude-red]]
 
 **所属领域**: [[security]]
 

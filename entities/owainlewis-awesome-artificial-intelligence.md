@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[jihe520-mathmodelagent]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[p1neapplexpress-openflux]]
+[[crosstalk-solutions-project-nomad]] [[jihe520-mathmodelagent]] [[panniantong-agent-reach]] [[alphaxiv-openresearch]] [[p1neapplexpress-openflux]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

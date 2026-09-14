@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[jihe520-mathmodelagent]] [[calesthio-openmontage]] [[debpalash-voicestudio]] [[huggingface-transformers]]
+[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[thu-maic-openmaic]] [[tonhowtf-omniget]]
 
 **所属领域**: [[education]]
 

@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[vercel-labs-portless]] [[osmantic-ods]] [[calesthio-openmontage]] [[melgarafael-deskcommcrm]]
+[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[vercel-labs-portless]] [[calesthio-openmontage]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[data]] [[image-gen]]
 

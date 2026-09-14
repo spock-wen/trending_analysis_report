@@ -35,7 +35,7 @@ Code for Machine Learning for Algorithmic Trading, 2nd edition.
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[anthropics-claude-cookbooks]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[huggingface-transformers]]
+[[lyogavin-airllm]] [[crosstalk-solutions-project-nomad]] [[microsoft-ai-for-beginners]] [[thu-maic-openmaic]] [[tonhowtf-omniget]]
 
 **所属领域**: [[education]]
 

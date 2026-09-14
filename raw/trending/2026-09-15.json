@@ -1,0 +1,179 @@
+{
+  "date": "2026-09-15",
+  "scraped_at": "2026-09-15T07:00:36.561354",
+  "period": "daily",
+  "count": 19,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars_today": 2233,
+      "total_stars": 31970,
+      "url": "https://github.com/JustVugg/colibri"
+    },
+    {
+      "rank": 2,
+      "repo": "alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_today": 1796,
+      "total_stars": 25573,
+      "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+      "rank": 3,
+      "repo": "multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "language": "Python",
+      "stars_today": 578,
+      "total_stars": 8297,
+      "url": "https://github.com/multimodal-art-projection/YuE"
+    },
+    {
+      "rank": 4,
+      "repo": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars_today": 2774,
+      "total_stars": 29068,
+      "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+      "rank": 5,
+      "repo": "666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "stars_today": 524,
+      "total_stars": 73101,
+      "url": "https://github.com/666ghj/MiroFish"
+    },
+    {
+      "rank": 6,
+      "repo": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_today": 640,
+      "total_stars": 81193,
+      "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+      "rank": 8,
+      "repo": "rlaope/oh-my-hermes",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "language": "Python",
+      "stars_today": 52,
+      "total_stars": 2008,
+      "url": "https://github.com/rlaope/oh-my-hermes"
+    },
+    {
+      "rank": 9,
+      "repo": "localsend/localsend",
+      "description": "An open-source cross-platform alternative to AirDrop",
+      "language": "Dart",
+      "stars_today": 311,
+      "total_stars": 91281,
+      "url": "https://github.com/localsend/localsend"
+    },
+    {
+      "rank": 10,
+      "repo": "dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars_today": 110,
+      "total_stars": 67516,
+      "url": "https://github.com/dani-garcia/vaultwarden"
+    },
+    {
+      "rank": 11,
+      "repo": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars_today": 756,
+      "total_stars": 106066,
+      "url": "https://github.com/TauricResearch/TradingAgents"
+    },
+    {
+      "rank": 12,
+      "repo": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_today": 370,
+      "total_stars": 93815,
+      "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+      "rank": 13,
+      "repo": "tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "language": "TypeScript",
+      "stars_today": 506,
+      "total_stars": 6035,
+      "url": "https://github.com/tech-leads-club/agent-skills"
+    },
+    {
+      "rank": 14,
+      "repo": "OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars_today": 204,
+      "total_stars": 37341,
+      "url": "https://github.com/OpenBMB/VoxCPM"
+    },
+    {
+      "rank": 15,
+      "repo": "huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "stars_today": 528,
+      "total_stars": 165950,
+      "url": "https://github.com/huggingface/transformers"
+    },
+    {
+      "rank": 16,
+      "repo": "ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "language": "TypeScript",
+      "stars_today": 1095,
+      "total_stars": 5935,
+      "url": "https://github.com/ever-co/ever-gauzy"
+    },
+    {
+      "rank": 17,
+      "repo": "Crosstalk-Solutions/project-nomad",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "language": "TypeScript",
+      "stars_today": 26,
+      "total_stars": 36882,
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+    },
+    {
+      "rank": 18,
+      "repo": "reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "language": "TypeScript",
+      "stars_today": 279,
+      "total_stars": 8320,
+      "url": "https://github.com/reconurge/flowsint"
+    },
+    {
+      "rank": 19,
+      "repo": "peetzweg/opendisplay",
+      "description": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+      "language": "Swift",
+      "stars_today": 258,
+      "total_stars": 3539,
+      "url": "https://github.com/peetzweg/opendisplay"
+    },
+    {
+      "rank": 20,
+      "repo": "SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "stars_today": 606,
+      "total_stars": 4691,
+      "url": "https://github.com/SnailSploit/Claude-Red"
+    }
+  ]
+}

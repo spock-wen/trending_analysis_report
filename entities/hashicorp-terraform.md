@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[alibaba-open-code-review]] [[ripienaar-free-for-dev]]
+[[crosstalk-solutions-project-nomad]] [[ruvnet-ruflo]] [[vxcontrol-pentagi]] [[panniantong-agent-reach]] [[peetzweg-opendisplay]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

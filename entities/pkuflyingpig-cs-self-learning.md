@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[ever-co-ever-gauzy]] [[averygan-reclip]] [[trycua-cua]] [[thu-maic-openmaic]]
+[[crosstalk-solutions-project-nomad]] [[trycua-cua]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]] [[averygan-reclip]]
 
 **所属领域**: [[web]] [[education]]
 

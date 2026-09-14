@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[permissionlesstech-bitchat]] [[tonhowtf-omniget]] [[max-sixty-worktrunk]] [[altic-dev-fluidvoice]] [[swordfish90-cool-retro-term]]
+[[panniantong-agent-reach]] [[peetzweg-opendisplay]] [[swordfish90-cool-retro-term]] [[tonhowtf-omniget]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[cli]]
 

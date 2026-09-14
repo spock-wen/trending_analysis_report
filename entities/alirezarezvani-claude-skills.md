@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[jihe520-mathmodelagent]] [[ever-co-ever-gauzy]] [[max-sixty-worktrunk]] [[obra-superpowers]]
+[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[jihe520-mathmodelagent]] [[melgarafael-deskcommcrm]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

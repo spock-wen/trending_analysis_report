@@ -35,7 +35,7 @@ Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[affaan-m-ecc]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[jordan-gibbs-hyperresearch]]
+[[crosstalk-solutions-project-nomad]] [[affaan-m-ecc]] [[panniantong-agent-reach]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

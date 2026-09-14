@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[max-sixty-worktrunk]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[alphaxiv-openresearch]]
+[[crosstalk-solutions-project-nomad]] [[alphaxiv-openresearch]] [[panniantong-agent-reach]] [[dani-garcia-vaultwarden]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]]
 

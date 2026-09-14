@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[ever-co-ever-gauzy]] [[calesthio-openmontage]] [[debpalash-voicestudio]] [[jordan-gibbs-hyperresearch]]
+[[openbmb-voxcpm]] [[panniantong-agent-reach]] [[calesthio-openmontage]] [[jordan-gibbs-hyperresearch]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]] [[data]]
 

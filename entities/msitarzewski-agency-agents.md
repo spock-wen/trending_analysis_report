@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[mattpocock-skills]] [[ever-co-ever-gauzy]] [[max-sixty-worktrunk]] [[obra-superpowers]]
+[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[obra-superpowers]] [[basecamp-omarchy]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

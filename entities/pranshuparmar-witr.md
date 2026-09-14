@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[max-sixty-worktrunk]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[swordfish90-cool-retro-term]]
+[[crosstalk-solutions-project-nomad]] [[vxcontrol-pentagi]] [[panniantong-agent-reach]] [[juliusbrussee-caveman]] [[swordfish90-cool-retro-term]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

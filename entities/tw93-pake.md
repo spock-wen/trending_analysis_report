@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[ever-co-ever-gauzy]] [[max-sixty-worktrunk]] [[swordfish90-cool-retro-term]] [[jordan-gibbs-hyperresearch]]
+[[alphaxiv-openresearch]] [[panniantong-agent-reach]] [[dani-garcia-vaultwarden]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]]
 
 **所属领域**: [[web]] [[cli]]
 

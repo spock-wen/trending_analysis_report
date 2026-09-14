@@ -36,7 +36,7 @@ Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of sw
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[debpalash-voicestudio]] [[huggingface-transformers]]
+[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[tech-leads-club-agent-skills]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

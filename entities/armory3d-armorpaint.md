@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[opa334-dopamine]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[justvugg-colibri]] [[alibaba-open-code-review]]
+[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[justvugg-colibri]] [[opa334-dopamine]] [[tech-leads-club-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[averygan-reclip]] [[vxcontrol-pentagi]] [[trycua-cua]] [[calesthio-openmontage]]
+[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[trycua-cua]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

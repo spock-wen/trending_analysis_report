@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[calesthio-openmontage]] [[alibaba-open-code-review]] [[penpot-penpot]] [[tech-leads-club-agent-skills]]
+[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[penpot-penpot]] [[tech-leads-club-agent-skills]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

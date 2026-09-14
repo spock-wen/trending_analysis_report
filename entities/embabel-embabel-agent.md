@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[andreknieriem-headunit-revived]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[mahlernim-google-timeline-visualizer]]
+[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[mahlernim-google-timeline-visualizer]] [[andreknieriem-headunit-revived]] [[bannedbook-fanqiang]]
 
 **所属领域**: [[ai-agent]]
 

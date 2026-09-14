@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[calesthio-openmontage]] [[alibaba-open-code-review]] [[bilawalsidhu-gods-eye-view]] [[snailsploit-claude-red]]
+[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[calesthio-openmontage]] [[plausible-analytics]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

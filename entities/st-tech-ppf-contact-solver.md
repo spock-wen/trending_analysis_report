@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[jihe520-mathmodelagent]] [[max-sixty-worktrunk]] [[swordfish90-cool-retro-term]] [[calesthio-openmontage]]
+[[openbmb-voxcpm]] [[panniantong-agent-reach]] [[swordfish90-cool-retro-term]] [[tonhowtf-omniget]] [[snailsploit-claude-red]]
 
 **所属领域**: [[cli]]
 

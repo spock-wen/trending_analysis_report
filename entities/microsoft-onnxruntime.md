@@ -34,7 +34,7 @@ ONNX Runtime: cross-platform, high performance ML inferencing and training accel
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[google-googletest]] [[alibaba-open-code-review]]
+[[fmtlib-fmt]] [[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[google-googletest]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[ai-agent]]
 

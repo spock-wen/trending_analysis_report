@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[melgarafael-deskcommcrm]] [[alibaba-open-code-review]]
+[[crosstalk-solutions-project-nomad]] [[ruvnet-ruflo]] [[panniantong-agent-reach]] [[peetzweg-opendisplay]] [[reconurge-flowsint]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

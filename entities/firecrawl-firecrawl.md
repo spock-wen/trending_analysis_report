@@ -36,7 +36,7 @@ The context API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[melgarafael-deskcommcrm]] [[jordan-gibbs-hyperresearch]] [[bilawalsidhu-gods-eye-view]] [[jiji262-douyin-downloader]]
+[[crosstalk-solutions-project-nomad]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]] [[reconurge-flowsint]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]]
 

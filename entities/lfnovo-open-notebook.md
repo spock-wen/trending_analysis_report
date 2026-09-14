@@ -37,5 +37,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[melgarafael-deskcommcrm]] [[alsk1992-cloddsbot]] [[tech-leads-club-agent-skills]]
+[[reconurge-flowsint]] [[crosstalk-solutions-project-nomad]] [[tech-leads-club-agent-skills]] [[ever-co-ever-gauzy]]
 

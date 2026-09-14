@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[armory3d-armorpaint]] [[opa334-dopamine]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[justvugg-colibri]]
+[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[calesthio-openmontage]] [[justvugg-colibri]] [[opa334-dopamine]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

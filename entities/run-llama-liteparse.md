@@ -35,5 +35,5 @@ A fast, helpful, and open-source document parser
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[alphaxiv-openresearch]] [[alexsjones-llmfit]] [[max-sixty-worktrunk]]
+[[alphaxiv-openresearch]] [[dani-garcia-vaultwarden]] [[ruvnet-ruview]] [[tonhowtf-omniget]]
 

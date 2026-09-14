@@ -35,7 +35,7 @@ Run parallel research agents with any model
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[jihe520-mathmodelagent]] [[max-sixty-worktrunk]] [[vxcontrol-pentagi]] [[calesthio-openmontage]]
+[[crosstalk-solutions-project-nomad]] [[jihe520-mathmodelagent]] [[panniantong-agent-reach]] [[dani-garcia-vaultwarden]] [[p1neapplexpress-openflux]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

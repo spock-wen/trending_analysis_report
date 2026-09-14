@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[max-sixty-worktrunk]] [[calesthio-openmontage]] [[alphaxiv-openresearch]] [[alexsjones-llmfit]]
+[[alphaxiv-openresearch]] [[calesthio-openmontage]] [[dani-garcia-vaultwarden]] [[ruvnet-ruview]] [[alibaba-open-code-review]]
 
 **所属领域**: [[data]]
 

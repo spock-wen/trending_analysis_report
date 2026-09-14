@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[averygan-reclip]] [[vercel-labs-portless]] [[osmantic-ods]] [[trycua-cua]]
+[[openbmb-voxcpm]] [[vercel-labs-portless]] [[trycua-cua]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]]
 
 **所属领域**: [[web]] [[image-gen]]
 

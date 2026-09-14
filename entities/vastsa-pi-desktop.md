@@ -36,7 +36,7 @@ Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harnes
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[melgarafael-deskcommcrm]] [[alibaba-open-code-review]]
+[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[reconurge-flowsint]] [[tech-leads-club-agent-skills]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[ai-agent]]
 

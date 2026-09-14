@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[vercel-labs-portless]] [[vxcontrol-pentagi]] [[osmantic-ods]] [[calesthio-openmontage]]
+[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[jihe520-mathmodelagent]] [[vercel-labs-portless]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

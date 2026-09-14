@@ -38,7 +38,7 @@ Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[melgarafael-deskcommcrm]] [[alibaba-open-code-review]]
+[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[reconurge-flowsint]] [[tech-leads-club-agent-skills]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[ai-agent]]
 

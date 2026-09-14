@@ -34,7 +34,7 @@ Stremio - Freedom to Stream
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[affaan-m-ecc]] [[jordan-gibbs-hyperresearch]] [[bilawalsidhu-gods-eye-view]] [[openai-plugins]]
+[[affaan-m-ecc]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]] [[bilawalsidhu-gods-eye-view]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[web]]
 

@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[p1neapplexpress-openflux]] [[jordan-gibbs-hyperresearch]]
+[[crosstalk-solutions-project-nomad]] [[jihe520-mathmodelagent]] [[panniantong-agent-reach]] [[alphaxiv-openresearch]] [[reconurge-flowsint]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

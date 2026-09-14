@@ -1,44 +1,55 @@
 ---
 title: "Crosstalk-Solutions/project-nomad"
 created: 2026-05-30
-updated: 2026-07-13
-last_active: 2026-07-13
-type: tool
-tags: [typescript, ai-agent]
-sources: [raw/trending/2026-07-13.json]
+updated: 2026-09-15
+last_active: 2026-09-15
+type: tutorial
+tags: [typescript, ai-agent, education]
+sources: [raw/trending/2026-09-15.json]
 confidence: high
-trending_count_daily: 5
+trending_count_daily: 6
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-05-30
-last_trending: 2026-07-13
+last_trending: 2026-09-15
 peak_rank: 8
-total_stars: 33774
+total_stars: 36882
 language: "TypeScript"
+contested: true
 ---
 
 # Crosstalk-Solutions/project-nomad
 
-Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
 
 - 语言: TypeScript
-- 上榜次数: 5 次
+- 上榜次数: 6 次
 - 连续上榜: 1 天
 - 最高排名: #8
 - 链接: [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
 ## 上榜历史
 
+  - 2026-09-15: #17, +26⭐
   - 2026-07-13: #8, +122⭐
   - 2026-06-08: #8, +304⭐
   - 2026-06-01: #11, +372⭐
   - 2026-05-31: #10, +473⭐
-  - 2026-05-30: #12, +294⭐
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[melgarafael-deskcommcrm]] [[alibaba-open-code-review]]
+[[panniantong-agent-reach]] [[reconurge-flowsint]] [[thu-maic-openmaic]] [[tech-leads-club-agent-skills]] [[tonhowtf-omniget]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: [[ai-agent]] [[education]]
+
+
+## ⚠️ 描述变更（2026-09-15）
+
+该项目描述近期发生过重大变化，可能存在定位调整：
+
+- **旧描述**: Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+- **新描述**: Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
+
+> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

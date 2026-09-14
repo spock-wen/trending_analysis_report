@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[max-sixty-worktrunk]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[swordfish90-cool-retro-term]]
+[[vxcontrol-pentagi]] [[panniantong-agent-reach]] [[juliusbrussee-caveman]] [[swordfish90-cool-retro-term]] [[p1neapplexpress-openflux]]
 
 **所属领域**: [[cli]]
 

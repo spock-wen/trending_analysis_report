@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[permissionlesstech-bitchat]] [[vxcontrol-pentagi]] [[altic-dev-fluidvoice]] [[calesthio-openmontage]] [[alibaba-open-code-review]]
+[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[peetzweg-opendisplay]] [[lakr233-vphone-cli]] [[tech-leads-club-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

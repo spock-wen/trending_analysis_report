@@ -35,5 +35,5 @@ Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[jihe520-mathmodelagent]] [[huggingface-transformers]] [[calesthio-openmontage]]
+[[openbmb-voxcpm]] [[panniantong-agent-reach]] [[tauricresearch-tradingagents]] [[666ghj-mirofish]]
 

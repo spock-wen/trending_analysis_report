@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[fmtlib-fmt]] [[ever-co-ever-gauzy]] [[max-sixty-worktrunk]] [[swordfish90-cool-retro-term]]
+[[fmtlib-fmt]] [[panniantong-agent-reach]] [[google-googletest]] [[microsoft-onnxruntime]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[web]] [[cli]]
 

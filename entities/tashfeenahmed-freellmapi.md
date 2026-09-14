@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[affaan-m-ecc]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[melgarafael-deskcommcrm]]
+[[crosstalk-solutions-project-nomad]] [[affaan-m-ecc]] [[panniantong-agent-reach]] [[openwhispr-openwhispr]] [[reconurge-flowsint]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

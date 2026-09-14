@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[anthropics-claude-cookbooks]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[lyogavin-airllm]]
+[[lyogavin-airllm]] [[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[microsoft-ai-for-beginners]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[calesthio-openmontage]] [[debpalash-voicestudio]] [[jordan-gibbs-hyperresearch]] [[huggingface-transformers]]
+[[openbmb-voxcpm]] [[jihe520-mathmodelagent]] [[panniantong-agent-reach]] [[alphaxiv-openresearch]] [[p1neapplexpress-openflux]]
 
 **所属领域**: [[science]]
 

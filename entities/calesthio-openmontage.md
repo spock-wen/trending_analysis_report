@@ -38,7 +38,7 @@ World's first open-source, agentic video production system. 12 production pipeli
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[vxcontrol-pentagi]] [[debpalash-voicestudio]] [[huggingface-transformers]] [[alibaba-open-code-review]]
+[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[bilawalsidhu-gods-eye-view]] [[tech-leads-club-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

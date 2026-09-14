@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[k1tbyte-wand-enhancer]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[sonarr-sonarr]] [[alibaba-open-code-review]]
+[[crosstalk-solutions-project-nomad]] [[jellyfin-jellyfin]] [[panniantong-agent-reach]] [[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]]
 
 **所属领域**: [[ai-agent]]
 

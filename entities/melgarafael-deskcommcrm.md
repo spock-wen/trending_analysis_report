@@ -36,7 +36,7 @@ Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WA
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[obra-superpowers]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[alibaba-open-code-review]]
+[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[obra-superpowers]] [[reconurge-flowsint]] [[tech-leads-club-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

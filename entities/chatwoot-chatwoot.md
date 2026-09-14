@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[docusealco-docuseal]] [[vxcontrol-pentagi]] [[calesthio-openmontage]] [[alibaba-open-code-review]] [[tech-leads-club-agent-skills]]
+[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[docusealco-docuseal]] [[tech-leads-club-agent-skills]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

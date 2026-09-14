@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[calesthio-openmontage]] [[alibaba-open-code-review]] [[p1neapplexpress-openflux]] [[tech-leads-club-agent-skills]]
+[[crosstalk-solutions-project-nomad]] [[vxcontrol-pentagi]] [[panniantong-agent-reach]] [[p1neapplexpress-openflux]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

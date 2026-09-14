@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[jihe520-mathmodelagent]] [[max-sixty-worktrunk]] [[affaan-m-ecc]] [[vxcontrol-pentagi]]
+[[crosstalk-solutions-project-nomad]] [[jihe520-mathmodelagent]] [[affaan-m-ecc]] [[panniantong-agent-reach]] [[alphaxiv-openresearch]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

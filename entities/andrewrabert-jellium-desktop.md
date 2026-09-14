@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[max-sixty-worktrunk]] [[swordfish90-cool-retro-term]] [[alphaxiv-openresearch]] [[alexsjones-llmfit]]
+[[alphaxiv-openresearch]] [[panniantong-agent-reach]] [[dani-garcia-vaultwarden]] [[swordfish90-cool-retro-term]] [[ruvnet-ruview]]
 
 **所属领域**: [[cli]]
 

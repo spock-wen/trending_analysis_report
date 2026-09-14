@@ -35,7 +35,7 @@ Fullstack app framework for web, desktop, and mobile.
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[ever-co-ever-gauzy]] [[max-sixty-worktrunk]] [[jordan-gibbs-hyperresearch]] [[alphaxiv-openresearch]]
+[[alphaxiv-openresearch]] [[dani-garcia-vaultwarden]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]] [[ruvnet-ruview]]
 
 **所属领域**: [[web]]
 

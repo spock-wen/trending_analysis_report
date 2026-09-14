@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[snailsploit-claude-red]] [[max-sixty-worktrunk]]
+[[snailsploit-claude-red]] [[panniantong-agent-reach]] [[tonhowtf-omniget]]
 
 **所属领域**: [[cli]]
 

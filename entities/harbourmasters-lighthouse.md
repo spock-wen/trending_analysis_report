@@ -34,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[justvugg-colibri]] [[armory3d-armorpaint]] [[antirez-ds4]] [[opa334-dopamine]]
+[[justvugg-colibri]] [[opa334-dopamine]] [[armory3d-armorpaint]] [[antirez-ds4]]
 

@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[max-sixty-worktrunk]] [[checkstyle-checkstyle]] [[nationalsecurityagency-ghidra]] [[vxcontrol-pentagi]]
+[[crosstalk-solutions-project-nomad]] [[google-guava]] [[panniantong-agent-reach]] [[calesthio-openmontage]] [[swordfish90-cool-retro-term]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

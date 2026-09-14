@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-09-14 | 总页面：590
+> 最后更新：2026-09-15 | 总页面：592
 
 ## Entities
 
@@ -32,7 +32,7 @@
 - [[alchaincyf-zhangxuefeng-skill|zhangxuefeng-skill"]] — 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 - [[alexsjones-llmfit|llmfit"]] — Hundreds of models & providers. One command to find what run...
 - [[alexzhang13-rlm|rlm"]] — General plug-and-play inference library for Recursive Langua...
-- [[alibaba-open-code-review|open-code-review"]] — Fast, efficient, battle-tested at Alibaba's scale. Hybrid ar...
+- [[alibaba-open-code-review|open-code-review"]] — Fast, efficient, battle-tested at Alibaba's scale. Hybrid ar... 🆕
 - [[alibaba-page-agent|page-agent"]] — JavaScript in-page GUI agent. Control web interfaces with na... 🆕
 - [[alibaba-zvec|zvec"]] — A lightweight, lightning-fast, in-process vector database
 - [[alireza0-s-ui|s-ui"]] — An advanced Web Panel • Built for SagerNet/Sing-Box
@@ -134,7 +134,7 @@
 - [[corebunch-instatic|Instatic"]] — The open-source alternative to Webflow, Framer and WordPress... 🆕
 - [[coreyhaines31-marketingskills|marketingskills"]] — Marketing skills for Claude Code and AI agents. CRO, copywri... 🔥
 - [[corsairdev-corsair|corsair"]] — Connect your users to their apps
-- [[crosstalk-solutions-project-nomad|project-nomad"]] — Project N.O.M.A.D, is a self-contained, offline survival com...
+- [[crosstalk-solutions-project-nomad|project-nomad"]] — Project NOMAD is an offline-first knowledge and education se...
 - [[crynta-terax-ai|terax-ai"]] — Lightweight (7MB) Terminal-first AI-native dev workspace
 - [[cupy-cupy|cupy"]] — NumPy & SciPy for GPU 🆕
 - [[cursor-plugins|plugins"]] — Cursor plugin specification and official plugins
@@ -147,7 +147,7 @@
 - [[davila7-claude-code-templates|claude-code-templates"]] — CLI tool for configuring and monitoring Claude Code 🔥
 - [[dayuanjiang-next-ai-draw-io|next-ai-draw-io"]] — A next.js web application that integrates AI capabilities wi...
 - [[dbt-labs-dbt-core|dbt-core"]] — dbt enables data analysts and engineers to transform their d...
-- [[debpalash-voicestudio|VoiceStudio"]] — VoiceStudio is the open-source, fully-local ElevenLabs alter...
+- [[debpalash-voicestudio|VoiceStudio"]] — VoiceStudio is the open-source, fully-local ElevenLabs alter... 🆕
 - [[deepfakes-faceswap|faceswap"]] — Deepfakes Software For All
 - [[deepseek-ai-awesome-deepseek-agent|awesome-deepseek-agent"]] — No description
 - [[denoland-celld|celld"]] — self-hosted, distributed Durable Objects 🆕
@@ -236,7 +236,7 @@
 - [[home-assistant-core|core"]] — 🏡 Open source home automation that puts local control and pr... 🆕
 - [[huangruiteng-loopx|loopx"]] — Lightweight loop engineering state kernel for long-running A... 🆕
 - [[huggingface-speech-to-speech|speech-to-speech"]] — Build local voice agents with open-source models
-- [[huggingface-transformers|transformers"]] — 🤗 Transformers: the model-definition framework for state-of-...
+- [[huggingface-transformers|transformers"]] — 🤗 Transformers: the model-definition framework for state-of-... 🆕
 - [[hugohe3-ppt-master|ppt-master"]] — AI turns documents or topics into real, native PowerPoint de...
 - [[humanlayer-12-factor-agents|12-factor-agents"]] — What are the principles we can use to build LLM-powered soft... 🆕
 - [[humanlayer-skills|skills"]] — No description 🆕
@@ -267,14 +267,14 @@
 - [[jenkinsci-jenkins|jenkins"]] — Jenkins automation server
 - [[jetbrains-go-modern-guidelines|go-modern-guidelines"]] — Help AI coding agents write modern Go 🔥
 - [[jihe520-mathmodelagent|MathModelAgent"]] — 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Ag... 🔥
-- [[jiji262-douyin-downloader|douyin-downloader"]] — A practical Douyin downloader for both single-item and profi... 🆕
+- [[jiji262-douyin-downloader|douyin-downloader"]] — A practical Douyin downloader for both single-item and profi...
 - [[jingyaogong-minimind|minimind"]] — 🧠 Train a 64M-parameter LLM from scratch in just 2h! 🆕
 - [[jo-inc-camofox-browser|camofox-browser"]] — Stealth headless browser for AI agents — bypass Cloudflare, ... 🆕
 - [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm"]] — Claude Skill: Multi-source content processor for NotebookLM. 🆕
 - [[jordan-gibbs-hyperresearch|hyperresearch"]] — Agent-driven research knowledge base. Agents collect, search...
 - [[juliusbrussee-caveman|caveman"]] — 🪨 why use many token when few token do trick — Claude Code s... 🔥
 - [[jundot-omlx|omlx"]] — LLM inference server with continuous batching & SSD caching ... 🔥
-- [[justvugg-colibri|colibri"]] — Run frontier MoE models on hardware you already own — pure C...
+- [[justvugg-colibri|colibri"]] — Run frontier MoE models on hardware you already own — pure C... 🆕
 - [[jwasham-coding-interview-university|coding-interview-university"]] — A complete computer science study plan to become a software ...
 - [[k-dense-ai-scientific-agent-skills|scientific-agent-skills"]] — Turn any AI agent into an AI Scientist. The #1 Agent Skills ... 🔥
 - [[k1tbyte-wand-enhancer|Wand-Enhancer"]] — Advanced UX and interoperability extension for Wand (WeMod) ...
@@ -365,7 +365,7 @@
 - [[mukul975-anthropic-cybersecurity-skills|Anthropic-Cybersecurity-Skills"]] — 817 structured cybersecurity skills for AI agents · Mapped t... 🔥
 - [[multica-ai-andrej-karpathy-skills|andrej-karpathy-skills"]] — A single CLAUDE.md file to improve Claude Code behavior, der...
 - [[multica-ai-multica|multica"]] — The open-source managed agents platform. Turn coding agents ... 🆕
-- [[multimodal-art-projection-yue|YuE"]] — YuE2: frontier music generation with symbolic planning, zero... 🆕
+- [[multimodal-art-projection-yue|YuE"]] — YuE2: frontier music generation with symbolic planning, zero... 🔥
 - [[music-assistant-server|server"]] — Music Assistant is a free, opensource Media library manager ... 🔥
 - [[mvanhorn-last30days-skill|last30days-skill"]] — AI agent skill that researches any topic across Reddit, X, Y...
 - [[n0-computer-iroh|iroh"]] — IP addresses break, dial keys instead. Modular networking st... 🔥
@@ -422,13 +422,14 @@
 - [[pacifio-atlas|atlas"]] — Source control for agents. Use multiple coding agents, track...
 - [[paddlepaddle-paddleocr|PaddleOCR"]] — Turn any PDF or image document into structured data for your... 🆕
 - [[palmier-io-palmier-pro|palmier-pro"]] — macOS video editor built for AI
-- [[panniantong-agent-reach|Agent-Reach"]] — Give your AI agent eyes to see the entire internet. Read & s... 🆕
+- [[panniantong-agent-reach|Agent-Reach"]] — Give your AI agent eyes to see the entire internet. Read & s...
 - [[paperclipai-paperclip|paperclip"]] — The open-source app everyone uses to manage agents at work 🔥
 - [[paperless-ngx-paperless-ngx|paperless-ngx"]] — A community-supported supercharged document management syste...
 - [[paperswithbacktest-awesome-systematic-trading|awesome-systematic-trading"]] — A curated list of awesome libraries, packages, strategies, b... 🔥
 - [[par274-sharpemu|sharpemu"]] — An experimental PlayStation 5 emulator project.
 - [[pascalorg-editor|editor"]] — Open-source 3D architectural editor with a local CLI, MCP to...
 - [[pbakaus-impeccable|impeccable"]] — The design language that makes your AI harness better at des...
+- [[peetzweg-opendisplay|opendisplay"]] — Free, open-source Sidecar/Duet alternative — use your iPhone... 🆕
 - [[penpot-penpot|penpot"]] — Penpot: The open-source design platform for Product teams th...
 - [[permissionlesstech-bitchat|bitchat"]] — bluetooth mesh chat, IRC vibes
 - [[phuryn-pm-skills|pm-skills"]] — PM Skills Marketplace: 100+ agentic skills, commands, and pl... 🔥
@@ -453,11 +454,12 @@
 - [[pytorch-pytorch|pytorch"]] — Tensors and Dynamic neural networks in Python with strong GP... 🆕
 - [[radixark-miles|miles"]] — Miles is an enterprise-facing reinforcement learning framewo...
 - [[raphire-win11debloat|Win11Debloat"]] — A simple, lightweight PowerShell script that allows you to r... 🆕
-- [[reconurge-flowsint|flowsint"]] — A modern platform for visual, flexible, and extensible graph... 🆕
+- [[reconurge-flowsint|flowsint"]] — A modern platform for visual, flexible, and extensible graph...
 - [[refactoringhq-tolaria|tolaria"]] — Desktop app to manage markdown knowledge bases
 - [[restic-restic|restic"]] — Fast, secure, efficient backup program
 - [[revfactory-harness|harness"]] — A meta-skill that designs domain-specific agent teams, defin... 🆕
 - [[ripienaar-free-for-dev|free-for-dev"]] — A list of SaaS, PaaS and IaaS offerings that have free tiers...
+- [[rlaope-oh-my-hermes|oh-my-hermes"]] — All in one plugin for Hermes Agent ⚚ the coding intelligence... 🆕
 - [[rmyndharis-openwa|OpenWA"]] — Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [[robbyant-lingbot-map|lingbot-map"]] — A feed-forward 3D foundation model for reconstructing scenes...
 - [[roboflow-supervision|supervision"]] — We write your reusable computer vision tools. 💜
@@ -483,7 +485,7 @@
 - [[sindresorhus-awesome|awesome"]] — 😎 Awesome lists about all kinds of interesting topics
 - [[smartlydressedgames-u3-sdk|U3-SDK"]] — Source code for Unturned, a free open-world zombie survival ...
 - [[smicallef-spiderfoot|spiderfoot"]] — SpiderFoot automates OSINT for threat intelligence and mappi... 🔥
-- [[snailsploit-claude-red|Claude-Red"]] — claude-red is a curated library of offensive security skills... 🆕
+- [[snailsploit-claude-red|Claude-Red"]] — claude-red is a curated library of offensive security skills... 🔥
 - [[sngyai-sequoia-x|Sequoia-X"]] — A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书
 - [[sonarr-sonarr|Sonarr"]] — Smart PVR for newsgroup and bittorrent users. 🆕
 - [[soxoj-maigret|maigret"]] — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ s...
@@ -499,14 +501,14 @@
 - [[supertone-inc-supertonic|supertonic"]] — Lightning-Fast, On-Device, Multilingual TTS running natively...
 - [[swc-project-swc|swc"]] — Rust-based platform for the Web
 - [[swoole-typephp|typephp"]] — Compile PHP to Native Binaries
-- [[swordfish90-cool-retro-term|cool-retro-term"]] — A good looking terminal emulator which mimics the old cathod... 🆕
+- [[swordfish90-cool-retro-term|cool-retro-term"]] — A good looking terminal emulator which mimics the old cathod...
 - [[tailscale-tailcat|tailcat"]] — like netcat, but over Tailscale's data plane, without Tailsc... 🆕
 - [[tailscale-tailscale|tailscale"]] — The easiest, most secure way to use WireGuard and 2FA.
 - [[tailwindlabs-tailwindcss|tailwindcss"]] — A utility-first CSS framework for rapid UI development. 🆕
 - [[tapxworld-chinatextbook|ChinaTextbook"]] — 所有小初高、大学PDF教材。
 - [[tashfeenahmed-freellmapi|freellmapi"]] — 7.4 billion tokens per month. 34 free LLM providers. 635 fre...
 - [[tauricresearch-tradingagents|TradingAgents"]] — TradingAgents: Multi-Agents LLM Financial Trading Framework
-- [[tech-leads-club-agent-skills|agent-skills"]] — The secure, validated skill registry for professional AI cod...
+- [[tech-leads-club-agent-skills|agent-skills"]] — The secure, validated skill registry for professional AI cod... 🆕
 - [[tencent-ai-infra-guard|AI-Infra-Guard"]] — A full-stack AI Red Teaming platform securing AI ecosystems ...
 - [[tencent-teamai-cli|teamai-cli"]] — Make Every Team AI Native 🆕
 - [[tencentcloud-cubesandbox|CubeSandbox"]] — Instant, Concurrent, Secure & Lightweight Sandbox for AI Age... 🆕
@@ -520,7 +522,7 @@
 - [[tirth8205-code-review-graph|code-review-graph"]] — Local-first code intelligence graph for MCP and CLI. Builds ...
 - [[togatoga-karukan|karukan"]] — Japanese Input Method System for Linux, macOS, Neural Kana-K...
 - [[tokio-rs-topcoat|topcoat"]] — A batteries-included framework for building web apps
-- [[tonhowtf-omniget|omniget"]] — Download Udemy and Hotmart courses, YouTube videos, music an... 🆕
+- [[tonhowtf-omniget|omniget"]] — Download Udemy and Hotmart courses, YouTube videos, music an...
 - [[tooljet-tooljet|ToolJet"]] — ToolJet is the open-source foundation of ToolJet AI - the en... 🔥
 - [[topoteretes-cognee|cognee"]] — Cognee is the open-source AI memory platform for agents. Giv...
 - [[tradesdontlie-tradingview-mcp|tradingview-mcp"]] — AI-assisted TradingView chart analysis — connect Claude Code...

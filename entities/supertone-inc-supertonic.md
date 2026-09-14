@@ -36,7 +36,7 @@ Lightning-Fast, On-Device, Multilingual TTS running natively via ONNX.
 
 ## 相关项目
 
-[[permissionlesstech-bitchat]] [[tonhowtf-omniget]] [[altic-dev-fluidvoice]] [[debpalash-voicestudio]] [[huggingface-transformers]]
+[[openbmb-voxcpm]] [[peetzweg-opendisplay]] [[multimodal-art-projection-yue]] [[lakr233-vphone-cli]] [[altic-dev-fluidvoice]]
 
 **所属领域**: [[audio]]
 

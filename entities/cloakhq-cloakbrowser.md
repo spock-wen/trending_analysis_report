@@ -35,7 +35,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[ever-co-ever-gauzy]] [[affaan-m-ecc]] [[obra-superpowers]] [[calesthio-openmontage]]
+[[openbmb-voxcpm]] [[affaan-m-ecc]] [[panniantong-agent-reach]] [[melgarafael-deskcommcrm]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

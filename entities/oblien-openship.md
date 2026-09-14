@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[melgarafael-deskcommcrm]] [[ripienaar-free-for-dev]] [[posthog-posthog]] [[ruvnet-ruflo]]
+[[crosstalk-solutions-project-nomad]] [[ruvnet-ruflo]] [[peetzweg-opendisplay]] [[reconurge-flowsint]] [[ruvnet-ruview]]
 
 **所属领域**: [[devops]]
 

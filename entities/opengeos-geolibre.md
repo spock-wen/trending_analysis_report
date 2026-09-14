@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[calesthio-openmontage]] [[melgarafael-deskcommcrm]] [[jordan-gibbs-hyperresearch]] [[bilawalsidhu-gods-eye-view]]
+[[crosstalk-solutions-project-nomad]] [[calesthio-openmontage]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]] [[reconurge-flowsint]]
 
 **所属领域**: [[web]] [[data]]
 

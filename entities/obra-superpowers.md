@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[mattpocock-skills]] [[ever-co-ever-gauzy]] [[max-sixty-worktrunk]] [[vxcontrol-pentagi]]
+[[crosstalk-solutions-project-nomad]] [[melgarafael-deskcommcrm]] [[panniantong-agent-reach]] [[basecamp-omarchy]] [[swordfish90-cool-retro-term]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

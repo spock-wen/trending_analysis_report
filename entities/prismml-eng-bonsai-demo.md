@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[mattpocock-skills]] [[max-sixty-worktrunk]] [[obra-superpowers]] [[vxcontrol-pentagi]]
+[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[obra-superpowers]] [[basecamp-omarchy]] [[swordfish90-cool-retro-term]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

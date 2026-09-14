@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[jihe520-mathmodelagent]] [[max-sixty-worktrunk]] [[swordfish90-cool-retro-term]] [[calesthio-openmontage]]
+[[openbmb-voxcpm]] [[panniantong-agent-reach]] [[swordfish90-cool-retro-term]] [[multimodal-art-projection-yue]] [[tonhowtf-omniget]]
 
 **所属领域**: [[cli]] [[audio]]
 

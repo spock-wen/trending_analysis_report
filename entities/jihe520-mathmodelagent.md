@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[calesthio-openmontage]] [[debpalash-voicestudio]] [[jordan-gibbs-hyperresearch]] [[huggingface-transformers]]
+[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[alphaxiv-openresearch]] [[p1neapplexpress-openflux]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

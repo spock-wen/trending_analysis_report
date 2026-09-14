@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[affaan-m-ecc]] [[calesthio-openmontage]] [[alibaba-open-code-review]]
+[[crosstalk-solutions-project-nomad]] [[vxcontrol-pentagi]] [[panniantong-agent-reach]] [[affaan-m-ecc]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

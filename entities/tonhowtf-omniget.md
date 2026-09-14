@@ -34,7 +34,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[max-sixty-worktrunk]] [[swordfish90-cool-retro-term]] [[debpalash-voicestudio]] [[alphaxiv-openresearch]] [[alexsjones-llmfit]]
+[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[alphaxiv-openresearch]] [[panniantong-agent-reach]] [[dani-garcia-vaultwarden]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

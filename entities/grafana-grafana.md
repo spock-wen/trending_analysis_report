@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[calesthio-openmontage]] [[melgarafael-deskcommcrm]] [[alibaba-open-code-review]] [[bilawalsidhu-gods-eye-view]]
+[[crosstalk-solutions-project-nomad]] [[ruvnet-ruflo]] [[peetzweg-opendisplay]] [[calesthio-openmontage]] [[reconurge-flowsint]]
 
 **所属领域**: [[data]] [[devops]]
 

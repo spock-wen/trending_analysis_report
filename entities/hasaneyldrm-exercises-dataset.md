@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[averygan-reclip]] [[vxcontrol-pentagi]] [[trycua-cua]] [[calesthio-openmontage]]
+[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[trycua-cua]] [[calesthio-openmontage]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

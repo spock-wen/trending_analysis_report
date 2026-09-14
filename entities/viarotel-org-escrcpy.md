@@ -34,5 +34,5 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[freestylefly-awesome-gpt-image-2]] [[bilawalsidhu-gods-eye-view]] [[openai-plugins]]
+[[openai-plugins]] [[freestylefly-awesome-gpt-image-2]] [[bilawalsidhu-gods-eye-view]] [[affaan-m-ecc]]
 

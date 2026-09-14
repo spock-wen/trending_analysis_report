@@ -35,7 +35,7 @@ Network stack research tool. TCP tunnel with pluggable transports.
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[jordan-gibbs-hyperresearch]] [[alphaxiv-openresearch]]
+[[jihe520-mathmodelagent]] [[vxcontrol-pentagi]] [[alphaxiv-openresearch]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]]
 
 **所属领域**: [[science]]
 

@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[calesthio-openmontage]] [[google-googletest]] [[alibaba-open-code-review]] [[bilawalsidhu-gods-eye-view]]
+[[fmtlib-fmt]] [[google-googletest]] [[microsoft-onnxruntime]] [[calesthio-openmontage]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[data]]
 

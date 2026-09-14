@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[obra-superpowers]] [[melgarafael-deskcommcrm]] [[alsk1992-cloddsbot]] [[tech-leads-club-agent-skills]]
+[[crosstalk-solutions-project-nomad]] [[obra-superpowers]] [[reconurge-flowsint]] [[tech-leads-club-agent-skills]] [[alsk1992-cloddsbot]]
 
 **所属领域**: [[erp]]
 

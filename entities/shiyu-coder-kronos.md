@@ -38,5 +38,5 @@ Kronos: A Foundation Model for the Language of Financial Markets
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[jihe520-mathmodelagent]] [[huggingface-transformers]] [[calesthio-openmontage]]
+[[openbmb-voxcpm]] [[panniantong-agent-reach]] [[tauricresearch-tradingagents]] [[666ghj-mirofish]]
 

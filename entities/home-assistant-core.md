@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[affaan-m-ecc]] [[calesthio-openmontage]] [[debpalash-voicestudio]] [[huggingface-transformers]]
+[[openbmb-voxcpm]] [[affaan-m-ecc]] [[panniantong-agent-reach]] [[reconurge-flowsint]] [[openwhispr-openwhispr]]
 
 **所属领域**: [[security]]
 

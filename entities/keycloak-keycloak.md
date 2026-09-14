@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[google-guava]] [[snailsploit-claude-red]]
+[[google-guava]] [[affaan-m-ecc]] [[openwhispr-openwhispr]] [[reconurge-flowsint]] [[checkstyle-checkstyle]]
 
 **所属领域**: [[security]]
 

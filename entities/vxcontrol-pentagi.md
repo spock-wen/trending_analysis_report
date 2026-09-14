@@ -36,7 +36,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[calesthio-openmontage]] [[alibaba-open-code-review]] [[p1neapplexpress-openflux]] [[tech-leads-club-agent-skills]]
+[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[juliusbrussee-caveman]] [[p1neapplexpress-openflux]] [[tech-leads-club-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

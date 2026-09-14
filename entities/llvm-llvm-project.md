@@ -34,7 +34,7 @@ The LLVM Project is a collection of modular and reusable compiler and toolchain 
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[calesthio-openmontage]] [[tech-leads-club-agent-skills]]
+[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[tauricresearch-tradingagents]] [[tech-leads-club-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

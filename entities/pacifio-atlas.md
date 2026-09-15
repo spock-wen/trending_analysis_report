@@ -1,20 +1,20 @@
 ---
 title: "pacifio/atlas"
 created: 2026-09-03
-updated: 2026-09-03
-last_active: 2026-09-03
+updated: 2026-09-16
+last_active: 2026-09-16
 type: tool
 tags: [rust, ai-agent]
-sources: [raw/trending/2026-09-03.json]
-confidence: low
-trending_count_daily: 1
+sources: [raw/trending/2026-09-16.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-09-03
-last_trending: 2026-09-03
+last_trending: 2026-09-16
 peak_rank: 9
-total_stars: 2844
+total_stars: 4587
 language: "Rust"
 ---
 
@@ -23,18 +23,19 @@ language: "Rust"
 Source control for agents. Use multiple coding agents, track their changes and query them in one place
 
 - 语言: Rust
-- 上榜次数: 1 次
+- 上榜次数: 2 次
 - 连续上榜: 1 天
 - 最高排名: #9
 - 链接: [pacifio/atlas](https://github.com/pacifio/atlas)
 
 ## 上榜历史
 
+  - 2026-09-16: #10, +102⭐
   - 2026-09-03: #9, +895⭐
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[alphaxiv-openresearch]] [[panniantong-agent-reach]] [[dani-garcia-vaultwarden]] [[ruvnet-ruview]]
+[[tonhowtf-omniget]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[ruvnet-ruview]] [[earendil-works-pi]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ Official Python inference and LoRA trainer package for the LTX-2 audio–video g
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[multimodal-art-projection-yue]] [[tech-leads-club-agent-skills]]
+[[tonhowtf-omniget]] [[debpalash-voicestudio]] [[mg1937-asc]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

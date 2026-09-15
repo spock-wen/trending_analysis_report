@@ -34,7 +34,7 @@ Replace port numbers with stable, named local URLs. For humans and agents.
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[multimodal-art-projection-yue]] [[reconurge-flowsint]]
+[[ever-co-ever-gauzy]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[danny-avila-librechat]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

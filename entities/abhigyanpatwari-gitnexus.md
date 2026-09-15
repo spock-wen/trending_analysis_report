@@ -35,7 +35,7 @@ GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]] [[swordfish90-cool-retro-term]]
+[[ever-co-ever-gauzy]] [[tonhowtf-omniget]] [[snailsploit-claude-red]] [[jiji262-douyin-downloader]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

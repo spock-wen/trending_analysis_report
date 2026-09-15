@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[ruvnet-ruflo]] [[peetzweg-opendisplay]] [[reconurge-flowsint]] [[ruvnet-ruview]]
+[[ever-co-ever-gauzy]] [[peetzweg-opendisplay]] [[ruvnet-ruview]] [[ruvnet-ruflo]] [[earendil-works-pi]]
 
 **所属领域**: [[devops]]
 

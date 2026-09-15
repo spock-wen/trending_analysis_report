@@ -35,5 +35,5 @@ Unofficial Bitwarden compatible server written in Rust, formerly known as bitwar
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[ruvnet-ruview]] [[tonhowtf-omniget]]
+[[alphaxiv-openresearch]] [[ruvnet-ruview]] [[tonhowtf-omniget]] [[pacifio-atlas]]
 

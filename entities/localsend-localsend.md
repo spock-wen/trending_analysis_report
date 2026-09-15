@@ -35,7 +35,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[chen08209-flclash]] [[tech-leads-club-agent-skills]] [[tauricresearch-tradingagents]]
+[[flutter-flutter]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]]
 

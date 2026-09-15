@@ -37,5 +37,5 @@ High performance self-hosted photo and video management solution.
 
 ## 相关项目
 
-[[reconurge-flowsint]] [[crosstalk-solutions-project-nomad]] [[tech-leads-club-agent-skills]] [[ever-co-ever-gauzy]]
+[[melgarafael-deskcommcrm]] [[danny-avila-librechat]] [[earendil-works-pi]] [[ever-co-ever-gauzy]]
 

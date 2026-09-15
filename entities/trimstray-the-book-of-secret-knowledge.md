@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[ever-co-ever-gauzy]] [[jordan-gibbs-hyperresearch]] [[swordfish90-cool-retro-term]] [[bilawalsidhu-gods-eye-view]]
+[[ever-co-ever-gauzy]] [[tonhowtf-omniget]] [[snailsploit-claude-red]] [[jiji262-douyin-downloader]] [[earendil-works-pi]]
 
 **所属领域**: [[web]] [[cli]]
 

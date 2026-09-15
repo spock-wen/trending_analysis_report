@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[jihe520-mathmodelagent]] [[melgarafael-deskcommcrm]] [[panniantong-agent-reach]]
+[[ever-co-ever-gauzy]] [[jihe520-mathmodelagent]] [[tonhowtf-omniget]] [[debpalash-voicestudio]] [[mg1937-asc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

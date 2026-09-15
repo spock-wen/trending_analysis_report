@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[peetzweg-opendisplay]] [[jordan-gibbs-hyperresearch]]
+[[ever-co-ever-gauzy]] [[peetzweg-opendisplay]] [[lakr233-vphone-cli]] [[debpalash-voicestudio]] [[tonhowtf-omniget]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[panniantong-agent-reach]] [[swordfish90-cool-retro-term]] [[multimodal-art-projection-yue]] [[tonhowtf-omniget]]
+[[tonhowtf-omniget]] [[debpalash-voicestudio]] [[mg1937-asc]] [[666ghj-mirofish]] [[earendil-works-pi]]
 
 **所属领域**: [[cli]] [[audio]]
 

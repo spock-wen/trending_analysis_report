@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[alphaxiv-openresearch]] [[panniantong-agent-reach]] [[dani-garcia-vaultwarden]] [[swordfish90-cool-retro-term]]
+[[tonhowtf-omniget]] [[alibaba-open-code-review]] [[ruvnet-ruview]] [[addyosmani-agent-skills]] [[earendil-works-pi]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

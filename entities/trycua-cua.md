@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[vercel-labs-portless]] [[panniantong-agent-reach]] [[calesthio-openmontage]]
+[[ever-co-ever-gauzy]] [[snailsploit-claude-red]] [[jiji262-douyin-downloader]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

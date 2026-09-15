@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[swordfish90-cool-retro-term]] [[reconurge-flowsint]] [[thu-maic-openmaic]]
+[[ever-co-ever-gauzy]] [[crosstalk-solutions-project-nomad]] [[tonhowtf-omniget]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]] [[thu-maic-openmaic]]
+[[ever-co-ever-gauzy]] [[crosstalk-solutions-project-nomad]] [[tonhowtf-omniget]] [[jiji262-douyin-downloader]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

@@ -35,7 +35,7 @@ ADR secures enterprise AI agents through observability, security benchmarking, a
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[ruvnet-ruflo]] [[affaan-m-ecc]] [[panniantong-agent-reach]]
+[[ruvnet-ruview]] [[ruvnet-ruflo]] [[melgarafael-deskcommcrm]] [[addyosmani-agent-skills]] [[posthog-posthog]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[security]] [[erp]]
 

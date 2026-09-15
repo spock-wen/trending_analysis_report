@@ -35,7 +35,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[localsend-localsend]] [[swordfish90-cool-retro-term]] [[tonhowtf-omniget]] [[snailsploit-claude-red]]
+[[tonhowtf-omniget]] [[flutter-flutter]] [[panniantong-agent-reach]] [[earendil-works-pi]] [[snailsploit-claude-red]]
 
 **所属领域**: [[cli]]
 

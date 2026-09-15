@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[ruvnet-ruflo]] [[panniantong-agent-reach]] [[peetzweg-opendisplay]]
+[[tonhowtf-omniget]] [[debpalash-voicestudio]] [[peetzweg-opendisplay]] [[mg1937-asc]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

@@ -35,7 +35,7 @@ language: ""
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[tauricresearch-tradingagents]] [[tech-leads-club-agent-skills]]
+[[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[pacifio-atlas]] [[earendil-works-pi]]
 
 **所属领域**: [[ai-agent]]
 

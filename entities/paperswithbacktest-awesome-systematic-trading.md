@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[jihe520-mathmodelagent]] [[panniantong-agent-reach]] [[alphaxiv-openresearch]]
+[[crosstalk-solutions-project-nomad]] [[jihe520-mathmodelagent]] [[tonhowtf-omniget]] [[debpalash-voicestudio]] [[mg1937-asc]]
 
 **所属领域**: [[education]] [[science]]
 

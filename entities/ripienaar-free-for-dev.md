@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[peetzweg-opendisplay]] [[trycua-cua]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]]
+[[ever-co-ever-gauzy]] [[peetzweg-opendisplay]] [[trycua-cua]] [[jiji262-douyin-downloader]] [[ruvnet-ruview]]
 
 **所属领域**: [[web]] [[devops]]
 

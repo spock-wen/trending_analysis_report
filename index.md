@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-09-15 | 总页面：592
+> 最后更新：2026-09-16 | 总页面：595
 
 ## Entities
 
@@ -32,14 +32,14 @@
 - [[alchaincyf-zhangxuefeng-skill|zhangxuefeng-skill"]] — 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 - [[alexsjones-llmfit|llmfit"]] — Hundreds of models & providers. One command to find what run...
 - [[alexzhang13-rlm|rlm"]] — General plug-and-play inference library for Recursive Langua...
-- [[alibaba-open-code-review|open-code-review"]] — Fast, efficient, battle-tested at Alibaba's scale. Hybrid ar... 🆕
+- [[alibaba-open-code-review|open-code-review"]] — Fast, efficient, battle-tested at Alibaba's scale. Hybrid ar... 🔥
 - [[alibaba-page-agent|page-agent"]] — JavaScript in-page GUI agent. Control web interfaces with na... 🆕
 - [[alibaba-zvec|zvec"]] — A lightweight, lightning-fast, in-process vector database
 - [[alireza0-s-ui|s-ui"]] — An advanced Web Panel • Built for SagerNet/Sing-Box
 - [[alirezarezvani-claude-skills|claude-skills"]] — 345 Claude Code skills & agent skills & plugins (30+ Agents,... 🔥
 - [[alishahryar1-free-claude-code|free-claude-code"]] — Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ fre...
 - [[allenai-olmocr|olmocr"]] — Toolkit for linearizing PDFs for LLM datasets/training
-- [[alphaxiv-openresearch|OpenResearch"]] — Run parallel research agents with any model
+- [[alphaxiv-openresearch|OpenResearch"]] — Turn your coding agents into research agents
 - [[alsk1992-cloddsbot|CloddsBot"]] — Open Source AI trading agent that operates autonomously acro... 🔥
 - [[altic-dev-fluidvoice|FluidVoice"]] — Fastest and only macOS Dictation app with on-device STT and ...
 - [[amadeusprotocol-node|node"]] — No description
@@ -143,11 +143,12 @@
 - [[d4vinci-scrapling|Scrapling"]] — 🕷️ An adaptive Web Scraping framework that handles everythin... 🔥
 - [[dani-garcia-vaultwarden|vaultwarden"]] — Unofficial Bitwarden compatible server written in Rust, form...
 - [[danielmiessler-lifeos|LifeOS"]] — ⛰️A General Hill-climbing AI harness that helps you move fro...
+- [[danny-avila-librechat|LibreChat"]] — Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSe... 🆕
 - [[datatalksclub-data-engineering-zoomcamp|data-engineering-zoomcamp"]] — Data Engineering Zoomcamp is a free 9-week course on buildin... 🆕
 - [[davila7-claude-code-templates|claude-code-templates"]] — CLI tool for configuring and monitoring Claude Code 🔥
 - [[dayuanjiang-next-ai-draw-io|next-ai-draw-io"]] — A next.js web application that integrates AI capabilities wi...
 - [[dbt-labs-dbt-core|dbt-core"]] — dbt enables data analysts and engineers to transform their d...
-- [[debpalash-voicestudio|VoiceStudio"]] — VoiceStudio is the open-source, fully-local ElevenLabs alter... 🆕
+- [[debpalash-voicestudio|VoiceStudio"]] — VoiceStudio is the open-source, fully-local ElevenLabs alter... 🔥
 - [[deepfakes-faceswap|faceswap"]] — Deepfakes Software For All
 - [[deepseek-ai-awesome-deepseek-agent|awesome-deepseek-agent"]] — No description
 - [[denoland-celld|celld"]] — self-hosted, distributed Durable Objects 🆕
@@ -167,7 +168,7 @@
 - [[dotnet-skills|skills"]] — Repository for skills to assist AI coding agents with .NET a...
 - [[dottxt-ai-outlines|outlines"]] — Structured Outputs 🆕
 - [[dreammis-social-auto-upload|social-auto-upload"]] — 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
-- [[earendil-works-pi|pi"]] — AI agent toolkit: coding agent CLI, unified LLM API, TUI & w... 🆕
+- [[earendil-works-pi|pi"]] — AI agent toolkit: unified LLM API, agent loop, TUI, coding a...
 - [[earthtojake-text-to-cad|text-to-cad"]] — A library of agent skills for CAD, CAE and CAM
 - [[elastic-elasticsearch|elasticsearch"]] — Free and Open Source, Distributed, RESTful Search Engine
 - [[elder-plinius-g0dm0d3|G0DM0D3"]] — LIBERATED AI CHAT
@@ -175,7 +176,7 @@
 - [[embabel-embabel-agent|embabel-agent"]] — Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbə...
 - [[emmabostian-developer-portfolios|developer-portfolios"]] — A list of developer portfolios for your inspiration
 - [[esengine-deepseek-reasonix|DeepSeek-Reasonix"]] — DeepSeek-native AI coding agent for your terminal. Engineere... 🔥
-- [[ever-co-ever-gauzy|ever-gauzy"]] — Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HR... 🆕
+- [[ever-co-ever-gauzy|ever-gauzy"]] — Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HR... 🔥
 - [[every-app-open-seo|open-seo"]] — Open source alternative to Semrush and Ahrefs 🔥
 - [[everyinc-compound-engineering-plugin|compound-engineering-plugin"]] — Official Compound Engineering plugin for Claude Code, Codex,...
 - [[facebook-astryx|astryx"]] — An open source design system that's fully customizable and a...
@@ -234,6 +235,7 @@
 - [[hkuds-vimax|ViMax"]] — "ViMax: Agentic Video Generation (Director, Screenwriter, Pr... 🆕
 - [[holaboss-ai-holaos|holaOS"]] — Open-source All in One AI agent workspace. Run any agent — C... 🆕
 - [[home-assistant-core|core"]] — 🏡 Open source home automation that puts local control and pr... 🆕
+- [[homebrew-brewui|BrewUI"]] — 📺 Homebrew's official macOS GUI 🆕
 - [[huangruiteng-loopx|loopx"]] — Lightweight loop engineering state kernel for long-running A... 🆕
 - [[huggingface-speech-to-speech|speech-to-speech"]] — Build local voice agents with open-source models
 - [[huggingface-transformers|transformers"]] — 🤗 Transformers: the model-definition framework for state-of-... 🆕
@@ -274,7 +276,7 @@
 - [[jordan-gibbs-hyperresearch|hyperresearch"]] — Agent-driven research knowledge base. Agents collect, search...
 - [[juliusbrussee-caveman|caveman"]] — 🪨 why use many token when few token do trick — Claude Code s... 🔥
 - [[jundot-omlx|omlx"]] — LLM inference server with continuous batching & SSD caching ... 🔥
-- [[justvugg-colibri|colibri"]] — Run frontier MoE models on hardware you already own — pure C... 🆕
+- [[justvugg-colibri|colibri"]] — Run frontier MoE models on hardware you already own — pure C... 🔥
 - [[jwasham-coding-interview-university|coding-interview-university"]] — A complete computer science study plan to become a software ...
 - [[k-dense-ai-scientific-agent-skills|scientific-agent-skills"]] — Turn any AI agent into an AI Scientist. The #1 Agent Skills ... 🔥
 - [[k1tbyte-wand-enhancer|Wand-Enhancer"]] — Advanced UX and interoperability extension for Wand (WeMod) ...
@@ -338,9 +340,10 @@
 - [[mebus-cupp|cupp"]] — Common User Passwords Profiler (CUPP) 🆕
 - [[medusajs-medusa|medusa"]] — The world's most flexible commerce platform.
 - [[megadose-holehe|holehe"]] — holehe allows you to check if the mail is used on different ... 🔥
-- [[melgarafael-deskcommcrm|DeskcommCRM"]] — Open-source AI sales OS — self-hosted CRM with native AI age... 🔥
+- [[melgarafael-deskcommcrm|DeskcommCRM"]] — Open-source AI sales OS — self-hosted CRM with native AI age...
 - [[mempalace-mempalace|mempalace"]] — The best-benchmarked open-source AI memory system. And it's ...
 - [[meshery-meshery|meshery"]] — Meshery, the cloud native manager 🔥
+- [[mg1937-asc|ASC"]] — ASC is a super FAST Android decompiler front-end designed fo... 🆕
 - [[microsoft-agent-governance-toolkit|agent-governance-toolkit"]] — AI Agent Governance Toolkit — Policy enforcement, zero-trust...
 - [[microsoft-ai-agents-for-beginners|ai-agents-for-beginners"]] — 12 Lessons to Get Started Building AI Agents 🔥
 - [[microsoft-ai-for-beginners|AI-For-Beginners"]] — 12 Weeks, 24 Lessons, AI for All! 🔥
@@ -429,7 +432,7 @@
 - [[par274-sharpemu|sharpemu"]] — An experimental PlayStation 5 emulator project.
 - [[pascalorg-editor|editor"]] — Open-source 3D architectural editor with a local CLI, MCP to...
 - [[pbakaus-impeccable|impeccable"]] — The design language that makes your AI harness better at des...
-- [[peetzweg-opendisplay|opendisplay"]] — Free, open-source Sidecar/Duet alternative — use your iPhone... 🆕
+- [[peetzweg-opendisplay|opendisplay"]] — Free, open-source Sidecar/Duet alternative — use your iPhone...
 - [[penpot-penpot|penpot"]] — Penpot: The open-source design platform for Product teams th...
 - [[permissionlesstech-bitchat|bitchat"]] — bluetooth mesh chat, IRC vibes
 - [[phuryn-pm-skills|pm-skills"]] — PM Skills Marketplace: 100+ agentic skills, commands, and pl... 🔥
@@ -459,7 +462,7 @@
 - [[restic-restic|restic"]] — Fast, secure, efficient backup program
 - [[revfactory-harness|harness"]] — A meta-skill that designs domain-specific agent teams, defin... 🆕
 - [[ripienaar-free-for-dev|free-for-dev"]] — A list of SaaS, PaaS and IaaS offerings that have free tiers...
-- [[rlaope-oh-my-hermes|oh-my-hermes"]] — All in one plugin for Hermes Agent ⚚ the coding intelligence... 🆕
+- [[rlaope-oh-my-hermes|oh-my-hermes"]] — All in one plugin for Hermes Agent ⚚ the coding intelligence...
 - [[rmyndharis-openwa|OpenWA"]] — Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [[robbyant-lingbot-map|lingbot-map"]] — A feed-forward 3D foundation model for reconstructing scenes...
 - [[roboflow-supervision|supervision"]] — We write your reusable computer vision tools. 💜

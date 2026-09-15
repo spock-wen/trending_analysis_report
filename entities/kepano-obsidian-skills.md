@@ -34,7 +34,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[swordfish90-cool-retro-term]] [[thu-maic-openmaic]] [[tech-leads-club-agent-skills]]
+[[crosstalk-solutions-project-nomad]] [[tonhowtf-omniget]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

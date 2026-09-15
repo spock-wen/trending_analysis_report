@@ -36,7 +36,7 @@ claude-red is a curated library of offensive security skills designed for the Cl
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[affaan-m-ecc]] [[panniantong-agent-reach]] [[calesthio-openmontage]]
+[[tonhowtf-omniget]] [[debpalash-voicestudio]] [[mg1937-asc]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[security]]
 

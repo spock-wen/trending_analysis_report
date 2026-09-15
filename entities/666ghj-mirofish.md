@@ -38,5 +38,5 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[panniantong-agent-reach]] [[tauricresearch-tradingagents]]
+[[openbmb-voxcpm]] [[debpalash-voicestudio]] [[mg1937-asc]]
 

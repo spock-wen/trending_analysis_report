@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[google-guava]] [[panniantong-agent-reach]] [[calesthio-openmontage]] [[bilawalsidhu-gods-eye-view]]
+[[yuliskov-smarttube]] [[google-guava]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

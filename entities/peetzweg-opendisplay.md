@@ -34,7 +34,7 @@ Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[lakr233-vphone-cli]] [[ruvnet-ruview]] [[altic-dev-fluidvoice]] [[jaywcjlove-awesome-mac]]
+[[altic-dev-fluidvoice]] [[lakr233-vphone-cli]] [[ruvnet-ruview]] [[ruvnet-ruflo]] [[posthog-posthog]]
 
 **所属领域**: [[devops]]
 

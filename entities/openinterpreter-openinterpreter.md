@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[alphaxiv-openresearch]] [[panniantong-agent-reach]] [[obra-superpowers]] [[dani-garcia-vaultwarden]]
+[[ever-co-ever-gauzy]] [[tonhowtf-omniget]] [[alibaba-open-code-review]] [[ruvnet-ruview]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

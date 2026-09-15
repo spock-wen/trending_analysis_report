@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[affaan-m-ecc]] [[panniantong-agent-reach]] [[swordfish90-cool-retro-term]]
+[[tonhowtf-omniget]] [[debpalash-voicestudio]] [[mg1937-asc]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

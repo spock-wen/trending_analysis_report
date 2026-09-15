@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[swordfish90-cool-retro-term]] [[tonhowtf-omniget]] [[snailsploit-claude-red]] [[zhaoxuya520-reverse-skill]]
+[[tonhowtf-omniget]] [[panniantong-agent-reach]] [[earendil-works-pi]] [[zhaoxuya520-reverse-skill]] [[snailsploit-claude-red]]
 
 **所属领域**: [[cli]]
 

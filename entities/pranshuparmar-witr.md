@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[vxcontrol-pentagi]] [[panniantong-agent-reach]] [[juliusbrussee-caveman]] [[swordfish90-cool-retro-term]]
+[[p1neapplexpress-openflux]] [[tonhowtf-omniget]] [[snailsploit-claude-red]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

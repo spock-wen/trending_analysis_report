@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[google-guava]] [[affaan-m-ecc]] [[openwhispr-openwhispr]] [[reconurge-flowsint]] [[checkstyle-checkstyle]]
+[[yuliskov-smarttube]] [[google-guava]] [[checkstyle-checkstyle]] [[reconurge-flowsint]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[security]]
 

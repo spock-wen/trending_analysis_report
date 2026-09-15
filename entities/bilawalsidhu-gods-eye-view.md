@@ -38,7 +38,7 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[ever-co-ever-gauzy]] [[calesthio-openmontage]] [[jordan-gibbs-hyperresearch]] [[alibaba-open-code-review]]
+[[ever-co-ever-gauzy]] [[jiji262-douyin-downloader]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[freestylefly-awesome-gpt-image-2]]
 
 **所属领域**: [[web]] [[data]]
 

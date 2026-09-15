@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[justvugg-colibri]] [[opa334-dopamine]] [[tech-leads-club-agent-skills]]
+[[opa334-dopamine]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[antirez-ds4]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[panniantong-agent-reach]] [[tonhowtf-omniget]] [[swordfish90-cool-retro-term]]
+[[panniantong-agent-reach]] [[tonhowtf-omniget]] [[snailsploit-claude-red]] [[earendil-works-pi]]
 
 **所属领域**: [[cli]]
 

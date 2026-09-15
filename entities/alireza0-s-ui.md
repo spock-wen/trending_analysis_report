@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]] [[p1neapplexpress-openflux]]
+[[ever-co-ever-gauzy]] [[p1neapplexpress-openflux]] [[jiji262-douyin-downloader]] [[alibaba-open-code-review]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[web]]
 

@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[affaan-m-ecc]] [[panniantong-agent-reach]] [[google-googletest]] [[microsoft-onnxruntime]]
+[[protocolbuffers-protobuf]] [[tonhowtf-omniget]] [[microsoft-onnxruntime]] [[earendil-works-pi]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]] [[security]]
 

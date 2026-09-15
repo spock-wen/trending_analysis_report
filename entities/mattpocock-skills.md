@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[obra-superpowers]] [[basecamp-omarchy]] [[swordfish90-cool-retro-term]]
+[[basecamp-omarchy]] [[tonhowtf-omniget]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

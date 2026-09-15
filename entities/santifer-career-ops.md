@@ -38,7 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[affaan-m-ecc]] [[panniantong-agent-reach]] [[swordfish90-cool-retro-term]] [[bilawalsidhu-gods-eye-view]]
+[[tonhowtf-omniget]] [[snailsploit-claude-red]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

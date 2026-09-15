@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[affaan-m-ecc]] [[panniantong-agent-reach]] [[vercel-labs-portless]]
+[[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[freestylefly-awesome-gpt-image-2]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[obra-superpowers]] [[reconurge-flowsint]] [[tech-leads-club-agent-skills]] [[alsk1992-cloddsbot]]
+[[ever-co-ever-gauzy]] [[earendil-works-pi]] [[alsk1992-cloddsbot]] [[danny-avila-librechat]] [[melgarafael-deskcommcrm]]
 
 **所属领域**: [[erp]]
 

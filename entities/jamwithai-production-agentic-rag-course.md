@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[thu-maic-openmaic]] [[tech-leads-club-agent-skills]]
+[[crosstalk-solutions-project-nomad]] [[tonhowtf-omniget]] [[debpalash-voicestudio]] [[mg1937-asc]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

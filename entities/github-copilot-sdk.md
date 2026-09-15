@@ -38,7 +38,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[google-guava]] [[panniantong-agent-reach]] [[tech-leads-club-agent-skills]] [[checkstyle-checkstyle]]
+[[yuliskov-smarttube]] [[google-guava]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]]
 
 **所属领域**: [[ai-agent]]
 

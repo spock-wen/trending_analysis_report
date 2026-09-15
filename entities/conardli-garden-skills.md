@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[vercel-labs-portless]] [[panniantong-agent-reach]] [[jordan-gibbs-hyperresearch]]
+[[ever-co-ever-gauzy]] [[jiji262-douyin-downloader]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

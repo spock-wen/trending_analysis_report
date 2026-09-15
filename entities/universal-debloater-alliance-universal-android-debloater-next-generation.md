@@ -36,7 +36,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[affaan-m-ecc]] [[alphaxiv-openresearch]] [[vercel-labs-portless]] [[dani-garcia-vaultwarden]]
+[[tonhowtf-omniget]] [[ruvnet-ruview]] [[alphaxiv-openresearch]] [[multimodal-art-projection-yue]] [[freestylefly-awesome-gpt-image-2]]
 
 **所属领域**: [[security]] [[image-gen]]
 

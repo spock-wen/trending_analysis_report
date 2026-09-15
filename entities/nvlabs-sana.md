@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[vercel-labs-portless]] [[panniantong-agent-reach]] [[multimodal-art-projection-yue]] [[freestylefly-awesome-gpt-image-2]]
+[[debpalash-voicestudio]] [[mg1937-asc]] [[666ghj-mirofish]] [[freestylefly-awesome-gpt-image-2]] [[vercel-labs-portless]]
 
 **所属领域**: [[image-gen]]
 

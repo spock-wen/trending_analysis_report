@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[ruvnet-ruflo]] [[vxcontrol-pentagi]] [[panniantong-agent-reach]] [[peetzweg-opendisplay]]
+[[p1neapplexpress-openflux]] [[peetzweg-opendisplay]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

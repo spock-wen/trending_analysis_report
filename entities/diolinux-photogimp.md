@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[obra-superpowers]] [[jordan-gibbs-hyperresearch]] [[bilawalsidhu-gods-eye-view]] [[nutlope-hallmark]]
+[[ever-co-ever-gauzy]] [[jiji262-douyin-downloader]] [[conardli-garden-skills]] [[alsk1992-cloddsbot]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]] [[erp]]
 

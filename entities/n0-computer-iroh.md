@@ -37,5 +37,5 @@ IP addresses break, dial keys instead. Modular networking stack in Rust.
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[dani-garcia-vaultwarden]] [[ruvnet-ruview]] [[tonhowtf-omniget]]
+[[alphaxiv-openresearch]] [[ruvnet-ruview]] [[tonhowtf-omniget]] [[pacifio-atlas]]
 

@@ -38,7 +38,7 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[affaan-m-ecc]] [[panniantong-agent-reach]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]]
+[[ever-co-ever-gauzy]] [[jiji262-douyin-downloader]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

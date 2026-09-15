@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[calesthio-openmontage]] [[justvugg-colibri]] [[opa334-dopamine]]
+[[opa334-dopamine]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[antirez-ds4]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

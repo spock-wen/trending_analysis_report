@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[panniantong-agent-reach]] [[juliusbrussee-caveman]] [[swordfish90-cool-retro-term]] [[p1neapplexpress-openflux]]
+[[p1neapplexpress-openflux]] [[tonhowtf-omniget]] [[snailsploit-claude-red]] [[alibaba-open-code-review]] [[earendil-works-pi]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[thu-maic-openmaic]] [[tonhowtf-omniget]]
+[[crosstalk-solutions-project-nomad]] [[tonhowtf-omniget]] [[debpalash-voicestudio]] [[mg1937-asc]] [[666ghj-mirofish]]
 
 **所属领域**: [[education]]
 

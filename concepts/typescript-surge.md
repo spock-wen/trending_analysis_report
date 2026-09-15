@@ -1,7 +1,7 @@
 ---
 title: "TypeScript Ecosystem Surge"
 created: 2026-06-08
-updated: 2026-09-15
+updated: 2026-09-16
 type: concept
 tags: [typescript, surge]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 信号概述
 
-2026-09-15 检测到 TypeScript 领域有 4 个项目同时上榜，表明该语言生态近期活跃度显著上升。
+2026-09-16 检测到 TypeScript 领域有 4 个项目同时上榜，表明该语言生态近期活跃度显著上升。
 
 ## 上榜项目（4 个）
 
-[[tech-leads-club-agent-skills]] [[ever-co-ever-gauzy]] [[crosstalk-solutions-project-nomad]] [[reconurge-flowsint]]
+[[ever-co-ever-gauzy]] [[melgarafael-deskcommcrm]] [[danny-avila-librechat]] [[earendil-works-pi]]
 
 ## 语言分布
 

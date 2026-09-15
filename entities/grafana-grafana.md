@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[ruvnet-ruflo]] [[peetzweg-opendisplay]] [[calesthio-openmontage]] [[reconurge-flowsint]]
+[[ever-co-ever-gauzy]] [[peetzweg-opendisplay]] [[alibaba-open-code-review]] [[ruvnet-ruview]] [[ruvnet-ruflo]]
 
 **所属领域**: [[data]] [[devops]]
 

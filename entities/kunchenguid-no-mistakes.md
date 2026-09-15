@@ -35,5 +35,5 @@ git push no-mistakes
 
 ## 相关项目
 
-[[p1neapplexpress-openflux]] [[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]]
+[[alibaba-open-code-review]] [[p1neapplexpress-openflux]] [[vxcontrol-pentagi]] [[juliusbrussee-caveman]]
 

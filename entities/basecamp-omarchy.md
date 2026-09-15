@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[obra-superpowers]] [[swordfish90-cool-retro-term]] [[nvm-sh-nvm]] [[mattpocock-skills]]
+[[tonhowtf-omniget]] [[nvm-sh-nvm]] [[earendil-works-pi]] [[mattpocock-skills]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]]
 

@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[vxcontrol-pentagi]] [[panniantong-agent-reach]] [[p1neapplexpress-openflux]] [[alibaba-open-code-review]]
+[[p1neapplexpress-openflux]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[pacifio-atlas]]
 
 **所属领域**: [[ai-agent]]
 

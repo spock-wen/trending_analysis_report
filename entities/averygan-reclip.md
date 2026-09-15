@@ -35,7 +35,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[trycua-cua]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]] [[swordfish90-cool-retro-term]]
+[[ever-co-ever-gauzy]] [[tonhowtf-omniget]] [[trycua-cua]] [[snailsploit-claude-red]] [[jiji262-douyin-downloader]]
 
 **所属领域**: [[web]] [[cli]]
 

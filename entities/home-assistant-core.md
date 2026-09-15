@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[affaan-m-ecc]] [[panniantong-agent-reach]] [[reconurge-flowsint]] [[openwhispr-openwhispr]]
+[[debpalash-voicestudio]] [[mg1937-asc]] [[666ghj-mirofish]] [[nationalsecurityagency-ghidra]] [[reconurge-flowsint]]
 
 **所属领域**: [[security]]
 

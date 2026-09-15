@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[panniantong-agent-reach]] [[calesthio-openmontage]] [[bilawalsidhu-gods-eye-view]] [[alibaba-open-code-review]]
+[[debpalash-voicestudio]] [[mg1937-asc]] [[alibaba-open-code-review]] [[666ghj-mirofish]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[data]]
 

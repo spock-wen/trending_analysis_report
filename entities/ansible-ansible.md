@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[ruvnet-ruflo]] [[panniantong-agent-reach]] [[peetzweg-opendisplay]]
+[[ever-co-ever-gauzy]] [[peetzweg-opendisplay]] [[debpalash-voicestudio]] [[mg1937-asc]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

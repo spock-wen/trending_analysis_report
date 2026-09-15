@@ -37,7 +37,7 @@ Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[vercel-labs-portless]] [[panniantong-agent-reach]] [[multimodal-art-projection-yue]]
+[[debpalash-voicestudio]] [[mg1937-asc]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[666ghj-mirofish]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

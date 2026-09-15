@@ -35,7 +35,7 @@ Odoo. Open Source Apps To Grow Your Business.
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[panniantong-agent-reach]] [[obra-superpowers]] [[alsk1992-cloddsbot]] [[ever-co-ever-gauzy]]
+[[ever-co-ever-gauzy]] [[debpalash-voicestudio]] [[mg1937-asc]] [[666ghj-mirofish]] [[alsk1992-cloddsbot]]
 
 **所属领域**: [[erp]]
 

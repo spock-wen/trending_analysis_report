@@ -36,7 +36,7 @@ Open Source AI trading agent that operates autonomously across 1000+ markets - P
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[obra-superpowers]] [[reconurge-flowsint]] [[tech-leads-club-agent-skills]]
+[[ever-co-ever-gauzy]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[danny-avila-librechat]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

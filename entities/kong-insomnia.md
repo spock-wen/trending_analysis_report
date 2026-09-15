@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]] [[swordfish90-cool-retro-term]]
+[[ever-co-ever-gauzy]] [[tonhowtf-omniget]] [[snailsploit-claude-red]] [[jiji262-douyin-downloader]] [[earendil-works-pi]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -38,7 +38,7 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]] [[reconurge-flowsint]]
+[[ever-co-ever-gauzy]] [[jiji262-douyin-downloader]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

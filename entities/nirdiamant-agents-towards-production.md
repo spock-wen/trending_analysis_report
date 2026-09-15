@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[crosstalk-solutions-project-nomad]] [[ruvnet-ruview]] [[alsk1992-cloddsbot]] [[melgarafael-deskcommcrm]]
+[[ruvnet-ruview]] [[ruvnet-ruflo]] [[thu-maic-openmaic]] [[melgarafael-deskcommcrm]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

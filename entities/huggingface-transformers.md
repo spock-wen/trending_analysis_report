@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[multimodal-art-projection-yue]] [[thu-maic-openmaic]]
+[[crosstalk-solutions-project-nomad]] [[tonhowtf-omniget]] [[debpalash-voicestudio]] [[mg1937-asc]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

@@ -34,7 +34,7 @@ AI-assisted TradingView chart analysis — connect Claude Code to your TradingVi
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[affaan-m-ecc]] [[panniantong-agent-reach]] [[bilawalsidhu-gods-eye-view]] [[tech-leads-club-agent-skills]]
+[[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[freestylefly-awesome-gpt-image-2]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]] [[bilawalsidhu-gods-eye-view]]
+[[ever-co-ever-gauzy]] [[jiji262-douyin-downloader]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[conardli-garden-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

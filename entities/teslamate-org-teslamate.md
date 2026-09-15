@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[calesthio-openmontage]] [[plausible-analytics]] [[bilawalsidhu-gods-eye-view]]
+[[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[plausible-analytics]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[vercel-labs-portless]] [[panniantong-agent-reach]] [[multimodal-art-projection-yue]]
+[[ever-co-ever-gauzy]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[danny-avila-librechat]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

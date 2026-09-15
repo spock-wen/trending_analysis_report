@@ -37,7 +37,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]] [[reconurge-flowsint]] [[bilawalsidhu-gods-eye-view]]
+[[ever-co-ever-gauzy]] [[jiji262-douyin-downloader]] [[earendil-works-pi]] [[danny-avila-librechat]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[web]]
 

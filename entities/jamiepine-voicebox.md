@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[multimodal-art-projection-yue]] [[reconurge-flowsint]]
+[[ever-co-ever-gauzy]] [[tonhowtf-omniget]] [[debpalash-voicestudio]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

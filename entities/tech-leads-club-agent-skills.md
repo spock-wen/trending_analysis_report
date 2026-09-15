@@ -37,7 +37,7 @@ The secure, validated skill registry for professional AI coding agents. Extend A
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[reconurge-flowsint]] [[ever-co-ever-gauzy]] [[tauricresearch-tradingagents]]
+[[ever-co-ever-gauzy]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[danny-avila-librechat]]
 
 **所属领域**: [[ai-agent]]
 

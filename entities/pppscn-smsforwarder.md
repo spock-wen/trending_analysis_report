@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[mahlernim-google-timeline-visualizer]] [[andreknieriem-headunit-revived]] [[bannedbook-fanqiang]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]]
+[[ever-co-ever-gauzy]] [[andreknieriem-headunit-revived]] [[jiji262-douyin-downloader]] [[jordan-gibbs-hyperresearch]] [[embabel-embabel-agent]]
 
 **所属领域**: [[web]]
 

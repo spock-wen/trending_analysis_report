@@ -34,5 +34,5 @@ Free and Open Source Machine Translation API. Self-hosted, offline capable and e
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[panniantong-agent-reach]] [[tauricresearch-tradingagents]] [[666ghj-mirofish]]
+[[openbmb-voxcpm]] [[666ghj-mirofish]] [[debpalash-voicestudio]] [[mg1937-asc]]
 

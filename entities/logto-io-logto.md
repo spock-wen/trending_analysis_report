@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[ruvnet-ruflo]] [[panniantong-agent-reach]] [[peetzweg-opendisplay]] [[reconurge-flowsint]]
+[[ever-co-ever-gauzy]] [[peetzweg-opendisplay]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

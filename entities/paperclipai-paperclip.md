@@ -36,7 +36,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[jihe520-mathmodelagent]] [[panniantong-agent-reach]] [[alphaxiv-openresearch]] [[swordfish90-cool-retro-term]]
+[[ever-co-ever-gauzy]] [[jihe520-mathmodelagent]] [[tonhowtf-omniget]] [[mg1937-asc]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

@@ -34,7 +34,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]] [[bilawalsidhu-gods-eye-view]] [[ever-co-ever-gauzy]]
+[[ever-co-ever-gauzy]] [[jiji262-douyin-downloader]] [[addyosmani-agent-skills]] [[freestylefly-awesome-gpt-image-2]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[web]]
 

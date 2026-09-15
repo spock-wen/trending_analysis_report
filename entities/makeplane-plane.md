@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[swordfish90-cool-retro-term]] [[reconurge-flowsint]] [[tech-leads-club-agent-skills]]
+[[ever-co-ever-gauzy]] [[tonhowtf-omniget]] [[earendil-works-pi]] [[panniantong-agent-reach]] [[danny-avila-librechat]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[vxcontrol-pentagi]] [[peetzweg-opendisplay]] [[juliusbrussee-caveman]] [[p1neapplexpress-openflux]]
+[[p1neapplexpress-openflux]] [[peetzweg-opendisplay]] [[alibaba-open-code-review]] [[ruvnet-ruview]] [[ruvnet-ruflo]]
 
 **所属领域**: [[devops]]
 

@@ -37,5 +37,5 @@ Empowering everyone to host fast and efficient Minecraft servers.
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[dani-garcia-vaultwarden]] [[ruvnet-ruview]] [[tonhowtf-omniget]]
+[[alphaxiv-openresearch]] [[ruvnet-ruview]] [[tonhowtf-omniget]] [[pacifio-atlas]]
 

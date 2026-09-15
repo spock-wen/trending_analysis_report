@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[panniantong-agent-reach]] [[google-googletest]] [[microsoft-onnxruntime]] [[jordan-gibbs-hyperresearch]]
+[[ever-co-ever-gauzy]] [[protocolbuffers-protobuf]] [[tonhowtf-omniget]] [[snailsploit-claude-red]] [[jiji262-douyin-downloader]]
 
 **所属领域**: [[web]] [[cli]]
 

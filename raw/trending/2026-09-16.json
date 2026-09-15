@@ -1,0 +1,134 @@
+{
+  "date": "2026-09-16",
+  "scraped_at": "2026-09-16T07:01:02.787706",
+  "period": "daily",
+  "count": 14,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_today": 2751,
+      "total_stars": 28414,
+      "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+      "rank": 2,
+      "repo": "JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars_today": 2035,
+      "total_stars": 33754,
+      "url": "https://github.com/JustVugg/colibri"
+    },
+    {
+      "rank": 3,
+      "repo": "ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "language": "TypeScript",
+      "stars_today": 632,
+      "total_stars": 6593,
+      "url": "https://github.com/ever-co/ever-gauzy"
+    },
+    {
+      "rank": 4,
+      "repo": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars_today": 2081,
+      "total_stars": 30867,
+      "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+      "rank": 5,
+      "repo": "Homebrew/BrewUI",
+      "description": "📺 Homebrew's official macOS GUI",
+      "language": "Swift",
+      "stars_today": 356,
+      "total_stars": 1312,
+      "url": "https://github.com/Homebrew/BrewUI"
+    },
+    {
+      "rank": 6,
+      "repo": "melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "language": "TypeScript",
+      "stars_today": 205,
+      "total_stars": 2797,
+      "url": "https://github.com/melgarafael/DeskcommCRM"
+    },
+    {
+      "rank": 7,
+      "repo": "alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "language": "Rust",
+      "stars_today": 593,
+      "total_stars": 3296,
+      "url": "https://github.com/alphaXiv/OpenResearch"
+    },
+    {
+      "rank": 8,
+      "repo": "NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars_today": 755,
+      "total_stars": 76662,
+      "url": "https://github.com/NationalSecurityAgency/ghidra"
+    },
+    {
+      "rank": 9,
+      "repo": "danny-avila/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "language": "TypeScript",
+      "stars_today": 261,
+      "total_stars": 43797,
+      "url": "https://github.com/danny-avila/LibreChat"
+    },
+    {
+      "rank": 10,
+      "repo": "pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "language": "Rust",
+      "stars_today": 102,
+      "total_stars": 4587,
+      "url": "https://github.com/pacifio/atlas"
+    },
+    {
+      "rank": 11,
+      "repo": "MG1937/ASC",
+      "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+      "language": "Python",
+      "stars_today": 122,
+      "total_stars": 1137,
+      "url": "https://github.com/MG1937/ASC"
+    },
+    {
+      "rank": 12,
+      "repo": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": 386,
+      "total_stars": 94746,
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "rank": 13,
+      "repo": "tonhowtf/omniget",
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+      "language": "Rust",
+      "stars_today": 318,
+      "total_stars": 12861,
+      "url": "https://github.com/tonhowtf/omniget"
+    },
+    {
+      "rank": 14,
+      "repo": "earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "stars_today": 437,
+      "total_stars": 105666,
+      "url": "https://github.com/earendil-works/pi"
+    }
+  ]
+}

@@ -38,7 +38,7 @@ Give Claude the ability to watch any video. /watch downloads, extracts frames, t
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[tech-leads-club-agent-skills]] [[tauricresearch-tradingagents]]
+[[debpalash-voicestudio]] [[mg1937-asc]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[666ghj-mirofish]]
 
 **所属领域**: [[ai-agent]]
 

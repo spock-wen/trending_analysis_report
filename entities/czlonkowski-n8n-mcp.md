@@ -35,7 +35,7 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[reconurge-flowsint]] [[tech-leads-club-agent-skills]] [[ever-co-ever-gauzy]]
+[[ever-co-ever-gauzy]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[danny-avila-librechat]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[vxcontrol-pentagi]] [[panniantong-agent-reach]] [[calesthio-openmontage]] [[juliusbrussee-caveman]]
+[[p1neapplexpress-openflux]] [[snailsploit-claude-red]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

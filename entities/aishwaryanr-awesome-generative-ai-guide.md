@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[jihe520-mathmodelagent]] [[panniantong-agent-reach]] [[alphaxiv-openresearch]] [[trycua-cua]]
+[[ever-co-ever-gauzy]] [[jihe520-mathmodelagent]] [[trycua-cua]] [[jiji262-douyin-downloader]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[panniantong-agent-reach]] [[swordfish90-cool-retro-term]] [[tonhowtf-omniget]] [[snailsploit-claude-red]]
+[[tonhowtf-omniget]] [[debpalash-voicestudio]] [[mg1937-asc]] [[666ghj-mirofish]] [[earendil-works-pi]]
 
 **所属领域**: [[cli]]
 

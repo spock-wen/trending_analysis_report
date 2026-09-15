@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[peetzweg-opendisplay]] [[swordfish90-cool-retro-term]] [[tonhowtf-omniget]] [[altic-dev-fluidvoice]]
+[[altic-dev-fluidvoice]] [[peetzweg-opendisplay]] [[tonhowtf-omniget]] [[earendil-works-pi]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]]
 

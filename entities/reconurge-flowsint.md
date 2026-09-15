@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[affaan-m-ecc]] [[openwhispr-openwhispr]] [[tech-leads-club-agent-skills]] [[ever-co-ever-gauzy]]
+[[ever-co-ever-gauzy]] [[earendil-works-pi]] [[danny-avila-librechat]] [[nationalsecurityagency-ghidra]] [[melgarafael-deskcommcrm]]
 
 **所属领域**: [[security]]
 

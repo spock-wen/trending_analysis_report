@@ -35,5 +35,5 @@ self-hosted, distributed Durable Objects
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[dani-garcia-vaultwarden]] [[ruvnet-ruview]] [[tonhowtf-omniget]]
+[[alphaxiv-openresearch]] [[ruvnet-ruview]] [[tonhowtf-omniget]] [[pacifio-atlas]]
 

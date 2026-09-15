@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[trycua-cua]] [[calesthio-openmontage]] [[jordan-gibbs-hyperresearch]]
+[[ever-co-ever-gauzy]] [[trycua-cua]] [[snailsploit-claude-red]] [[jiji262-douyin-downloader]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

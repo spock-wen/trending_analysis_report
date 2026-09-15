@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[google-guava]] [[panniantong-agent-reach]] [[calesthio-openmontage]] [[swordfish90-cool-retro-term]]
+[[yuliskov-smarttube]] [[google-guava]] [[tonhowtf-omniget]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

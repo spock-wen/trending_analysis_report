@@ -38,5 +38,5 @@ Python tool for converting files and office documents to Markdown.
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[panniantong-agent-reach]] [[tauricresearch-tradingagents]] [[666ghj-mirofish]]
+[[openbmb-voxcpm]] [[666ghj-mirofish]] [[debpalash-voicestudio]] [[mg1937-asc]]
 

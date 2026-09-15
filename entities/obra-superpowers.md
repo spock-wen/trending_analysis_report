@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[melgarafael-deskcommcrm]] [[panniantong-agent-reach]] [[basecamp-omarchy]] [[swordfish90-cool-retro-term]]
+[[basecamp-omarchy]] [[ever-co-ever-gauzy]] [[tonhowtf-omniget]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[fmtlib-fmt]] [[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[google-googletest]]
+[[protocolbuffers-protobuf]] [[tonhowtf-omniget]] [[debpalash-voicestudio]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

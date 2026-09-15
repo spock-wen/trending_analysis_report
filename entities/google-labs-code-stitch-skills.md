@@ -35,7 +35,7 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[swordfish90-cool-retro-term]] [[reconurge-flowsint]] [[tech-leads-club-agent-skills]]
+[[ever-co-ever-gauzy]] [[tonhowtf-omniget]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

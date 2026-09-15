@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[penpot-penpot]] [[tech-leads-club-agent-skills]] [[tauricresearch-tradingagents]]
+[[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[penpot-penpot]] [[pacifio-atlas]]
 
 **所属领域**: [[ai-agent]]
 

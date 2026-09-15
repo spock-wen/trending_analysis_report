@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[panniantong-agent-reach]] [[dani-garcia-vaultwarden]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]]
+[[ever-co-ever-gauzy]] [[tonhowtf-omniget]] [[snailsploit-claude-red]] [[jiji262-douyin-downloader]] [[ruvnet-ruview]]
 
 **所属领域**: [[web]] [[cli]]
 

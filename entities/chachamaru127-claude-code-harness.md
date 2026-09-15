@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[obra-superpowers]] [[basecamp-omarchy]] [[swordfish90-cool-retro-term]]
+[[basecamp-omarchy]] [[tonhowtf-omniget]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

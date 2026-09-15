@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[microsoft-ai-for-beginners]] [[tech-leads-club-agent-skills]]
+[[anthropics-claude-cookbooks]] [[alibaba-open-code-review]] [[lyogavin-airllm]] [[addyosmani-agent-skills]] [[earendil-works-pi]]
 
 **所属领域**: [[ai-agent]]
 

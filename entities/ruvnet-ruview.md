@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[alphaxiv-openresearch]] [[peetzweg-opendisplay]] [[dani-garcia-vaultwarden]] [[tonhowtf-omniget]]
+[[tonhowtf-omniget]] [[peetzweg-opendisplay]] [[ruvnet-ruflo]] [[alphaxiv-openresearch]] [[posthog-posthog]]
 
 **所属领域**: [[devops]]
 

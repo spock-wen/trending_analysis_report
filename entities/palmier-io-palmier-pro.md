@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[peetzweg-opendisplay]] [[lakr233-vphone-cli]] [[tech-leads-club-agent-skills]]
+[[altic-dev-fluidvoice]] [[peetzweg-opendisplay]] [[lakr233-vphone-cli]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

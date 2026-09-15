@@ -16,7 +16,6 @@ last_trending: 2026-09-15
 peak_rank: 8
 total_stars: 36882
 language: "TypeScript"
-contested: true
 ---
 
 # Crosstalk-Solutions/project-nomad
@@ -39,17 +38,7 @@ Project NOMAD is an offline-first knowledge and education server. Wikipedia, tho
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[reconurge-flowsint]] [[thu-maic-openmaic]] [[tech-leads-club-agent-skills]] [[tonhowtf-omniget]]
+[[ever-co-ever-gauzy]] [[tonhowtf-omniget]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]]
 
 **所属领域**: [[ai-agent]] [[education]]
-
-
-## ⚠️ 描述变更（2026-09-15）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
-- **新描述**: Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

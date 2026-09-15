@@ -36,7 +36,7 @@ Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[affaan-m-ecc]] [[juliusbrussee-caveman]] [[reconurge-flowsint]] [[p1neapplexpress-openflux]]
+[[p1neapplexpress-openflux]] [[snailsploit-claude-red]] [[alibaba-open-code-review]] [[nationalsecurityagency-ghidra]] [[reconurge-flowsint]]
 
 **所属领域**: [[security]]
 

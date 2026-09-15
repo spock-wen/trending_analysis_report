@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[panniantong-agent-reach]] [[mahlernim-google-timeline-visualizer]] [[andreknieriem-headunit-revived]] [[bannedbook-fanqiang]]
+[[andreknieriem-headunit-revived]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[embabel-embabel-agent]]
 
 **所属领域**: [[ai-agent]]
 

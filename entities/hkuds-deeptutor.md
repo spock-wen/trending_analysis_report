@@ -37,7 +37,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[panniantong-agent-reach]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]] [[bilawalsidhu-gods-eye-view]]
+[[ever-co-ever-gauzy]] [[debpalash-voicestudio]] [[mg1937-asc]] [[jiji262-douyin-downloader]] [[666ghj-mirofish]]
 
 **所属领域**: [[web]]
 

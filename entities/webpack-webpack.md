@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[affaan-m-ecc]] [[vercel-labs-portless]] [[jordan-gibbs-hyperresearch]] [[jiji262-douyin-downloader]]
+[[ever-co-ever-gauzy]] [[jiji262-douyin-downloader]] [[addyosmani-agent-skills]] [[freestylefly-awesome-gpt-image-2]] [[jordan-gibbs-hyperresearch]]
 
 **所属领域**: [[web]] [[image-gen]]
 

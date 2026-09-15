@@ -36,7 +36,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[calesthio-openmontage]] [[p1neapplexpress-openflux]] [[ruvnet-ruview]] [[snailsploit-claude-red]]
+[[ruvnet-ruview]] [[ruvnet-ruflo]] [[alphaxiv-openresearch]] [[calesthio-openmontage]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

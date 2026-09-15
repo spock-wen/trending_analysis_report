@@ -35,7 +35,7 @@ Gas Town - multi-agent workspace manager
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[vxcontrol-pentagi]] [[panniantong-agent-reach]] [[juliusbrussee-caveman]] [[p1neapplexpress-openflux]]
+[[p1neapplexpress-openflux]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]]
 

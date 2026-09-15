@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[jihe520-mathmodelagent]] [[panniantong-agent-reach]] [[alphaxiv-openresearch]] [[p1neapplexpress-openflux]]
+[[jihe520-mathmodelagent]] [[debpalash-voicestudio]] [[mg1937-asc]] [[666ghj-mirofish]] [[alphaxiv-openresearch]]
 
 **所属领域**: [[science]]
 

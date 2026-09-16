@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[p1neapplexpress-openflux]] [[jiji262-douyin-downloader]] [[alibaba-open-code-review]] [[jordan-gibbs-hyperresearch]]
+[[p1neapplexpress-openflux]] [[jiji262-douyin-downloader]] [[tencent-weknora]] [[bilawalsidhu-gods-eye-view]] [[alibaba-open-code-review]]
 
 **所属领域**: [[web]]
 

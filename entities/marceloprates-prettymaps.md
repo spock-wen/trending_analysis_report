@@ -34,7 +34,7 @@ Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[mg1937-asc]] [[alibaba-open-code-review]] [[666ghj-mirofish]] [[bilawalsidhu-gods-eye-view]]
+[[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[calesthio-openmontage]]
 
 **所属领域**: [[data]]
 

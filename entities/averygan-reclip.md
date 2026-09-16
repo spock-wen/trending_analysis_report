@@ -35,7 +35,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[tonhowtf-omniget]] [[trycua-cua]] [[snailsploit-claude-red]] [[jiji262-douyin-downloader]]
+[[ripienaar-free-for-dev]] [[abue-ammar-tinycast]] [[jiji262-douyin-downloader]] [[snailsploit-claude-red]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[cli]]
 

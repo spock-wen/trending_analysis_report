@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[jihe520-mathmodelagent]] [[trycua-cua]] [[jiji262-douyin-downloader]] [[alibaba-open-code-review]]
+[[ripienaar-free-for-dev]] [[averygan-reclip]] [[affaan-m-ecc]] [[jiji262-douyin-downloader]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

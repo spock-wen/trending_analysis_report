@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[protocolbuffers-protobuf]] [[tonhowtf-omniget]] [[snailsploit-claude-red]] [[jiji262-douyin-downloader]]
+[[protocolbuffers-protobuf]] [[abue-ammar-tinycast]] [[jiji262-douyin-downloader]] [[snailsploit-claude-red]] [[microsoft-onnxruntime]]
 
 **所属领域**: [[web]] [[cli]]
 

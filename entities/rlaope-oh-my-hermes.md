@@ -1,20 +1,20 @@
 ---
 title: "rlaope/oh-my-hermes"
 created: 2026-09-15
-updated: 2026-09-15
-last_active: 2026-09-15
+updated: 2026-09-17
+last_active: 2026-09-17
 type: tool
 tags: [python, ai-agent]
-sources: [raw/trending/2026-09-15.json]
-confidence: low
-trending_count_daily: 1
+sources: [raw/trending/2026-09-17.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-09-15
-last_trending: 2026-09-15
+last_trending: 2026-09-17
 peak_rank: 8
-total_stars: 2008
+total_stars: 2530
 language: "Python"
 ---
 
@@ -23,18 +23,19 @@ language: "Python"
 All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
 
 - 语言: Python
-- 上榜次数: 1 次
+- 上榜次数: 2 次
 - 连续上榜: 1 天
 - 最高排名: #8
 - 链接: [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)
 
 ## 上榜历史
 
+  - 2026-09-17: #15, +74⭐
   - 2026-09-15: #8, +52⭐
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[mg1937-asc]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[666ghj-mirofish]]
+[[affaan-m-ecc]] [[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

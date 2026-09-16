@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[p1neapplexpress-openflux]] [[snailsploit-claude-red]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]]
+[[p1neapplexpress-openflux]] [[affaan-m-ecc]] [[tencent-weknora]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[jihe520-mathmodelagent]] [[jiji262-douyin-downloader]] [[alibaba-open-code-review]] [[mg1937-asc]]
+[[affaan-m-ecc]] [[jiji262-douyin-downloader]] [[tauricresearch-tradingagents]] [[mg1937-asc]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[opa334-dopamine]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[antirez-ds4]]
+[[justvugg-colibri]] [[antirez-ds4]] [[armory3d-armorpaint]] [[affaan-m-ecc]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

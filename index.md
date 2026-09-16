@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-09-16 | 总页面：595
+> 最后更新：2026-09-17 | 总页面：600
 
 ## Entities
 
@@ -13,11 +13,12 @@
 - [[abhigyanpatwari-gitnexus|GitNexus"]] — GitNexus: The Zero-Server Code Intelligence Engine - GitNexu...
 - [[abi-screenshot-to-code|screenshot-to-code"]] — Drop in a screenshot and convert it to clean code (HTML/Tail... 🆕
 - [[abseil-abseil-cpp|abseil-cpp"]] — Abseil Common Libraries (C++) 🆕
+- [[abue-ammar-tinycast|tinycast"]] — Tinycast — a tiny, fully native macOS launcher, hotkeys, and... 🆕
 - [[abus-aikorea-voice-pro|voice-pro"]] — Gradio WebUI for creators and developers, featuring key TTS ...
 - [[actions-checkout|checkout"]] — Action for checking out a repo
 - [[activeloopai-hivemind|hivemind"]] — One brain for all your agents
-- [[addyosmani-agent-skills|agent-skills"]] — Production-grade engineering skills for AI coding agents.
-- [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i... 🔥
+- [[addyosmani-agent-skills|agent-skills"]] — Production-grade engineering skills for AI coding agents. 🆕
+- [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i...
 - [[agalwood-motrix|Motrix"]] — A full-featured download manager. 🆕
 - [[agavra-tuicr|tuicr"]] — a code review TUI with vim keybindings 🆕
 - [[agegr-pi-web|pi-web"]] — Web UI for the pi coding agent 🔥
@@ -39,7 +40,7 @@
 - [[alirezarezvani-claude-skills|claude-skills"]] — 345 Claude Code skills & agent skills & plugins (30+ Agents,... 🔥
 - [[alishahryar1-free-claude-code|free-claude-code"]] — Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ fre...
 - [[allenai-olmocr|olmocr"]] — Toolkit for linearizing PDFs for LLM datasets/training
-- [[alphaxiv-openresearch|OpenResearch"]] — Turn your coding agents into research agents
+- [[alphaxiv-openresearch|OpenResearch"]] — Turn your coding agents into research agents 🆕
 - [[alsk1992-cloddsbot|CloddsBot"]] — Open Source AI trading agent that operates autonomously acro... 🔥
 - [[altic-dev-fluidvoice|FluidVoice"]] — Fastest and only macOS Dictation app with on-device STT and ...
 - [[amadeusprotocol-node|node"]] — No description
@@ -50,6 +51,7 @@
 - [[andyyyy64-whichllm|whichllm"]] — Find the local LLM that actually runs and performs best on y... 🆕
 - [[angular-angular|angular"]] — Deliver web apps with confidence 🚀
 - [[anil-matcha-open-generative-ai|Open-Generative-AI"]] — Unrestricted Open-source alternative to AI video platforms —...
+- [[ankitects-anki|anki"]] — Anki is a smart spaced repetition flashcard program 🆕
 - [[anomalyco-opencode|opencode"]] — The open source coding agent. 🔥
 - [[ansible-ansible|ansible"]] — Ansible is a radically simple IT automation platform that ma...
 - [[anthropics-claude-code|claude-code"]] — Claude Code is an agentic coding tool that lives in your ter...
@@ -57,7 +59,7 @@
 - [[anthropics-claude-plugins-community|claude-plugins-community"]] — Community plugin marketplace for Claude Cowork and Claude Co... 🔥
 - [[anthropics-claude-plugins-official|claude-plugins-official"]] — Official, Anthropic-managed directory of high quality Claude... 🔥
 - [[anthropics-cwc-workshops|cwc-workshops"]] — No description
-- [[anthropics-knowledge-work-plugins|knowledge-work-plugins"]] — Open source repository of plugins primarily intended for kno... 🔥
+- [[anthropics-knowledge-work-plugins|knowledge-work-plugins"]] — Open source repository of plugins primarily intended for kno...
 - [[anthropics-skills|skills"]] — Public repository for Agent Skills 🔥
 - [[antirez-ds4|ds4"]] — DeepSeek 4 Flash and PRO local inference engine for Metal, C... 🆕
 - [[antoinezambelli-forge|forge"]] — A Python framework for self-hosted LLM tool-calling and mult...
@@ -116,8 +118,10 @@
 - [[chromedevtools-chrome-devtools-mcp|chrome-devtools-mcp"]] — Chrome DevTools for coding agents
 - [[chthollyphile-folia-major|folia-major"]] — 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
 - [[citrolabs-ego-lite|ego-lite"]] — The fastest browser for AI agents to run browser automation,... 🆕
+- [[cline-cline|cline"]] — Autonomous coding agent as an SDK, IDE extension, or CLI ass... 🆕
 - [[cloakhq-cloakbrowser|CloakBrowser"]] — Stealth Chromium that passes every bot detection test. Drop-... 🆕
 - [[cloudflare-computer|computer"]] — Give your agent a computer 👾 🔥
+- [[cloudflare-security-audit-skill|security-audit-skill"]] — A coding-agent skill for multi-phase security audits with in... 🆕
 - [[clshortfuse-renodx|renodx"]] — Renovation Engine for DirectX Games
 - [[codecrafters-io-build-your-own-x|build-your-own-x"]] — Master programming by recreating your favorite technologies ...
 - [[colbymchenry-codegraph|codegraph"]] — Pre-indexed code knowledge graph for Claude Code, Codex, Cur... 🔥
@@ -143,7 +147,7 @@
 - [[d4vinci-scrapling|Scrapling"]] — 🕷️ An adaptive Web Scraping framework that handles everythin... 🔥
 - [[dani-garcia-vaultwarden|vaultwarden"]] — Unofficial Bitwarden compatible server written in Rust, form...
 - [[danielmiessler-lifeos|LifeOS"]] — ⛰️A General Hill-climbing AI harness that helps you move fro...
-- [[danny-avila-librechat|LibreChat"]] — Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSe... 🆕
+- [[danny-avila-librechat|LibreChat"]] — Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSe...
 - [[datatalksclub-data-engineering-zoomcamp|data-engineering-zoomcamp"]] — Data Engineering Zoomcamp is a free 9-week course on buildin... 🆕
 - [[davila7-claude-code-templates|claude-code-templates"]] — CLI tool for configuring and monitoring Claude Code 🔥
 - [[dayuanjiang-next-ai-draw-io|next-ai-draw-io"]] — A next.js web application that integrates AI capabilities wi...
@@ -235,7 +239,7 @@
 - [[hkuds-vimax|ViMax"]] — "ViMax: Agentic Video Generation (Director, Screenwriter, Pr... 🆕
 - [[holaboss-ai-holaos|holaOS"]] — Open-source All in One AI agent workspace. Run any agent — C... 🆕
 - [[home-assistant-core|core"]] — 🏡 Open source home automation that puts local control and pr... 🆕
-- [[homebrew-brewui|BrewUI"]] — 📺 Homebrew's official macOS GUI 🆕
+- [[homebrew-brewui|BrewUI"]] — 📺 Homebrew's official macOS GUI
 - [[huangruiteng-loopx|loopx"]] — Lightweight loop engineering state kernel for long-running A... 🆕
 - [[huggingface-speech-to-speech|speech-to-speech"]] — Build local voice agents with open-source models
 - [[huggingface-transformers|transformers"]] — 🤗 Transformers: the model-definition framework for state-of-... 🆕
@@ -343,7 +347,7 @@
 - [[melgarafael-deskcommcrm|DeskcommCRM"]] — Open-source AI sales OS — self-hosted CRM with native AI age...
 - [[mempalace-mempalace|mempalace"]] — The best-benchmarked open-source AI memory system. And it's ...
 - [[meshery-meshery|meshery"]] — Meshery, the cloud native manager 🔥
-- [[mg1937-asc|ASC"]] — ASC is a super FAST Android decompiler front-end designed fo... 🆕
+- [[mg1937-asc|ASC"]] — ASC is a super FAST Android decompiler front-end designed fo...
 - [[microsoft-agent-governance-toolkit|agent-governance-toolkit"]] — AI Agent Governance Toolkit — Policy enforcement, zero-trust...
 - [[microsoft-ai-agents-for-beginners|ai-agents-for-beginners"]] — 12 Lessons to Get Started Building AI Agents 🔥
 - [[microsoft-ai-for-beginners|AI-For-Beginners"]] — 12 Weeks, 24 Lessons, AI for All! 🔥
@@ -368,7 +372,7 @@
 - [[mukul975-anthropic-cybersecurity-skills|Anthropic-Cybersecurity-Skills"]] — 817 structured cybersecurity skills for AI agents · Mapped t... 🔥
 - [[multica-ai-andrej-karpathy-skills|andrej-karpathy-skills"]] — A single CLAUDE.md file to improve Claude Code behavior, der...
 - [[multica-ai-multica|multica"]] — The open-source managed agents platform. Turn coding agents ... 🆕
-- [[multimodal-art-projection-yue|YuE"]] — YuE2: frontier music generation with symbolic planning, zero... 🔥
+- [[multimodal-art-projection-yue|YuE"]] — YuE2: frontier music generation with symbolic planning, zero...
 - [[music-assistant-server|server"]] — Music Assistant is a free, opensource Media library manager ... 🔥
 - [[mvanhorn-last30days-skill|last30days-skill"]] — AI agent skill that researches any topic across Reddit, X, Y...
 - [[n0-computer-iroh|iroh"]] — IP addresses break, dial keys instead. Modular networking st... 🔥
@@ -376,7 +380,7 @@
 - [[nab138-iloader|iloader"]] — User friendly sideloader 🆕
 - [[nanmicoder-mediacrawler|MediaCrawler"]] — 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬...
 - [[nasa-fprime|fprime"]] — F´ - A flight software and embedded systems framework
-- [[nationalsecurityagency-ghidra|ghidra"]] — Ghidra is a software reverse engineering (SRE) framework
+- [[nationalsecurityagency-ghidra|ghidra"]] — Ghidra is a software reverse engineering (SRE) framework 🆕
 - [[nesquena-hermes-webui|hermes-webui"]] — Hermes WebUI: The best way to use Hermes Agent from the web ... 🔥
 - [[nicobailon-pi-subagents|pi-subagents"]] — Pi extension for async subagent delegation with truncation, ...
 - [[nirdiamant-agents-towards-production|agents-towards-production"]] — End-to-end, code-first tutorials for building production-gra...
@@ -488,7 +492,7 @@
 - [[sindresorhus-awesome|awesome"]] — 😎 Awesome lists about all kinds of interesting topics
 - [[smartlydressedgames-u3-sdk|U3-SDK"]] — Source code for Unturned, a free open-world zombie survival ...
 - [[smicallef-spiderfoot|spiderfoot"]] — SpiderFoot automates OSINT for threat intelligence and mappi... 🔥
-- [[snailsploit-claude-red|Claude-Red"]] — claude-red is a curated library of offensive security skills... 🔥
+- [[snailsploit-claude-red|Claude-Red"]] — claude-red is a curated library of offensive security skills...
 - [[sngyai-sequoia-x|Sequoia-X"]] — A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书
 - [[sonarr-sonarr|Sonarr"]] — Smart PVR for newsgroup and bittorrent users. 🆕
 - [[soxoj-maigret|maigret"]] — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ s...
@@ -514,6 +518,7 @@
 - [[tech-leads-club-agent-skills|agent-skills"]] — The secure, validated skill registry for professional AI cod... 🆕
 - [[tencent-ai-infra-guard|AI-Infra-Guard"]] — A full-stack AI Red Teaming platform securing AI ecosystems ...
 - [[tencent-teamai-cli|teamai-cli"]] — Make Every Team AI Native 🆕
+- [[tencent-weknora|WeKnora"]] — Open-source LLM knowledge platform: turn raw documents into ... 🆕
 - [[tencentcloud-cubesandbox|CubeSandbox"]] — Instant, Concurrent, Secure & Lightweight Sandbox for AI Age... 🆕
 - [[tencentcloud-tencentdb-agent-memory|TencentDB-Agent-Memory"]] — TencentDB Agent Memory is a team-level memory hub for AI Age... 🔥
 - [[teng-lin-notebooklm-py|notebooklm-py"]] — Unofficial Python API and agentic skill for Google NotebookL...

@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[crosstalk-solutions-project-nomad]] [[tonhowtf-omniget]] [[jiji262-douyin-downloader]] [[earendil-works-pi]]
+[[crosstalk-solutions-project-nomad]] [[tonhowtf-omniget]] [[jiji262-douyin-downloader]] [[bilawalsidhu-gods-eye-view]] [[jamiepine-voicebox]]
 
 **所属领域**: [[web]] [[education]]
 

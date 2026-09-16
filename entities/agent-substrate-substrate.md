@@ -34,7 +34,7 @@ Agent Substrate: the core system
 
 ## 相关项目
 
-[[p1neapplexpress-openflux]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[juliusbrussee-caveman]]
+[[p1neapplexpress-openflux]] [[affaan-m-ecc]] [[tencent-weknora]] [[anthropics-knowledge-work-plugins]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

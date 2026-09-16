@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[jihe520-mathmodelagent]] [[tonhowtf-omniget]] [[debpalash-voicestudio]] [[mg1937-asc]]
+[[crosstalk-solutions-project-nomad]] [[tonhowtf-omniget]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[roboflow-supervision]]
 
 **所属领域**: [[education]] [[science]]
 

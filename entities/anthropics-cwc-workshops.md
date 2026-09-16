@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[earendil-works-pi]] [[alsk1992-cloddsbot]] [[danny-avila-librechat]] [[melgarafael-deskcommcrm]]
+[[alsk1992-cloddsbot]] [[danny-avila-librechat]] [[jamiepine-voicebox]] [[ever-co-ever-gauzy]] [[melgarafael-deskcommcrm]]
 
 **所属领域**: [[erp]]
 

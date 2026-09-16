@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[mg1937-asc]] [[666ghj-mirofish]] [[nationalsecurityagency-ghidra]] [[reconurge-flowsint]]
+[[affaan-m-ecc]] [[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[security]]
 

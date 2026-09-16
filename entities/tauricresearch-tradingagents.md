@@ -38,7 +38,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[debpalash-voicestudio]] [[mg1937-asc]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
+[[affaan-m-ecc]] [[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]] [[mg1937-asc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

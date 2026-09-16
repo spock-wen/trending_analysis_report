@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[tonhowtf-omniget]] [[earendil-works-pi]] [[panniantong-agent-reach]] [[danny-avila-librechat]]
+[[abue-ammar-tinycast]] [[snailsploit-claude-red]] [[lakr233-vphone-cli]] [[jamiepine-voicebox]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[cli]]
 

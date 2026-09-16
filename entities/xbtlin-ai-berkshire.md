@@ -38,7 +38,7 @@ AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框�
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[debpalash-voicestudio]] [[mg1937-asc]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
+[[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[mg1937-asc]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[666ghj-mirofish]]
+[[affaan-m-ecc]] [[freestylefly-awesome-gpt-image-2]] [[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

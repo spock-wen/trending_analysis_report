@@ -36,7 +36,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[jihe520-mathmodelagent]] [[tonhowtf-omniget]] [[mg1937-asc]] [[alibaba-open-code-review]]
+[[abue-ammar-tinycast]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[mg1937-asc]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[jihe520-mathmodelagent]] [[tonhowtf-omniget]] [[mg1937-asc]] [[alibaba-open-code-review]]
+[[crosstalk-solutions-project-nomad]] [[tonhowtf-omniget]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[mg1937-asc]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

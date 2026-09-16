@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[tonhowtf-omniget]] [[jiji262-douyin-downloader]] [[ruvnet-ruview]] [[alphaxiv-openresearch]]
+[[tonhowtf-omniget]] [[jiji262-douyin-downloader]] [[bilawalsidhu-gods-eye-view]] [[alphaxiv-openresearch]] [[pacifio-atlas]]
 
 **所属领域**: [[web]]
 

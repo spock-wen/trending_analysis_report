@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[crosstalk-solutions-project-nomad]] [[peetzweg-opendisplay]] [[tonhowtf-omniget]] [[alibaba-open-code-review]]
+[[peetzweg-opendisplay]] [[crosstalk-solutions-project-nomad]] [[tonhowtf-omniget]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[andreknieriem-headunit-revived]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[bannedbook-fanqiang]]
+[[affaan-m-ecc]] [[bannedbook-fanqiang]] [[anthropics-knowledge-work-plugins]] [[andreknieriem-headunit-revived]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

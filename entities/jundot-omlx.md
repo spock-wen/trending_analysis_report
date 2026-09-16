@@ -36,7 +36,7 @@ LLM inference server with continuous batching & SSD caching for Apple Silicon �
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[mg1937-asc]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[666ghj-mirofish]]
+[[affaan-m-ecc]] [[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

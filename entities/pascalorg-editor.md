@@ -38,7 +38,7 @@ Open-source 3D architectural editor with a local CLI, MCP tools, and practical w
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[tonhowtf-omniget]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]]
+[[abue-ammar-tinycast]] [[affaan-m-ecc]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[lakr233-vphone-cli]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

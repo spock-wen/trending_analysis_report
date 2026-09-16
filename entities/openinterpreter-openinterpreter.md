@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[tonhowtf-omniget]] [[alibaba-open-code-review]] [[ruvnet-ruview]] [[addyosmani-agent-skills]]
+[[alsk1992-cloddsbot]] [[tonhowtf-omniget]] [[affaan-m-ecc]] [[danny-avila-librechat]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

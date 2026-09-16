@@ -35,7 +35,7 @@ like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 ## 相关项目
 
-[[p1neapplexpress-openflux]] [[snailsploit-claude-red]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]]
+[[p1neapplexpress-openflux]] [[affaan-m-ecc]] [[tencent-weknora]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

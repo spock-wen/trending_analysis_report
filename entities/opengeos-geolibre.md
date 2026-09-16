@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[snailsploit-claude-red]] [[jiji262-douyin-downloader]] [[alibaba-open-code-review]] [[earendil-works-pi]]
+[[jiji262-douyin-downloader]] [[snailsploit-claude-red]] [[bilawalsidhu-gods-eye-view]] [[jamiepine-voicebox]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[web]] [[data]]
 

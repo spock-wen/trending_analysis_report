@@ -37,5 +37,5 @@ Meshery, the cloud native manager
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[danny-avila-librechat]] [[earendil-works-pi]] [[ever-co-ever-gauzy]]
+[[supabase-supabase]] [[anthropics-claude-code]] [[jamiepine-voicebox]] [[ever-co-ever-gauzy]]
 

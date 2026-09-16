@@ -1,20 +1,20 @@
 ---
 title: "alphaXiv/OpenResearch"
 created: 2026-09-12
-updated: 2026-09-16
-last_active: 2026-09-16
+updated: 2026-09-17
+last_active: 2026-09-17
 type: tool
 tags: [rust, ai-agent, science]
-sources: [raw/trending/2026-09-16.json]
+sources: [raw/trending/2026-09-17.json]
 confidence: high
-trending_count_daily: 3
+trending_count_daily: 4
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-09-12
-last_trending: 2026-09-16
+last_trending: 2026-09-17
 peak_rank: 7
-total_stars: 3296
+total_stars: 4368
 language: "Rust"
 contested: true
 ---
@@ -24,20 +24,21 @@ contested: true
 Turn your coding agents into research agents
 
 - 语言: Rust
-- 上榜次数: 3 次
-- 连续上榜: 1 天
+- 上榜次数: 4 次
+- 连续上榜: 2 天
 - 最高排名: #7
 - 链接: [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch)
 
 ## 上榜历史
 
+  - 2026-09-17: #13, +1036⭐
   - 2026-09-16: #7, +593⭐
   - 2026-09-14: #11, +304⭐
   - 2026-09-12: #14, +156⭐
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[tonhowtf-omniget]] [[mg1937-asc]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
+[[tonhowtf-omniget]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[mg1937-asc]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[debpalash-voicestudio]] [[mg1937-asc]] [[jiji262-douyin-downloader]] [[666ghj-mirofish]]
+[[jiji262-douyin-downloader]] [[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[web]]
 

@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[k1tbyte-wand-enhancer]] [[sonarr-sonarr]]
+[[k1tbyte-wand-enhancer]] [[affaan-m-ecc]] [[dotnet-aspnetcore]] [[anthropics-knowledge-work-plugins]] [[sonarr-sonarr]]
 
 **所属领域**: [[ai-agent]]
 

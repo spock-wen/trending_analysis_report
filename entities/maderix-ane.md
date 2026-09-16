@@ -34,7 +34,7 @@ Training neural networks on Apple Neural Engine via reverse-engineered private A
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[pacifio-atlas]] [[earendil-works-pi]]
+[[anthropics-knowledge-work-plugins]] [[affaan-m-ecc]] [[addyosmani-agent-skills]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

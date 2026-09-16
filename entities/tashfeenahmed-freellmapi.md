@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[danny-avila-librechat]]
+[[affaan-m-ecc]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[nationalsecurityagency-ghidra]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

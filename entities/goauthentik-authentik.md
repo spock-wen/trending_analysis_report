@@ -37,5 +37,5 @@ The authentication glue you need.
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[666ghj-mirofish]] [[debpalash-voicestudio]] [[mg1937-asc]]
+[[anthropics-knowledge-work-plugins]] [[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]]
 

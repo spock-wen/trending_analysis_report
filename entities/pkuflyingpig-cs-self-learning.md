@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[crosstalk-solutions-project-nomad]] [[tonhowtf-omniget]] [[trycua-cua]] [[jiji262-douyin-downloader]]
+[[ripienaar-free-for-dev]] [[crosstalk-solutions-project-nomad]] [[averygan-reclip]] [[tonhowtf-omniget]] [[jiji262-douyin-downloader]]
 
 **所属领域**: [[web]] [[education]]
 

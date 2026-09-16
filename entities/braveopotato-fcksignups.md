@@ -36,7 +36,7 @@ A list of tools that are open-source, in-browser, and require no-signups!
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[jiji262-douyin-downloader]] [[earendil-works-pi]] [[danny-avila-librechat]] [[jordan-gibbs-hyperresearch]]
+[[jiji262-douyin-downloader]] [[bilawalsidhu-gods-eye-view]] [[jamiepine-voicebox]] [[ever-co-ever-gauzy]] [[supabase-supabase]]
 
 **所属领域**: [[web]]
 

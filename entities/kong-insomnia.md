@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[tonhowtf-omniget]] [[snailsploit-claude-red]] [[jiji262-douyin-downloader]] [[earendil-works-pi]]
+[[abue-ammar-tinycast]] [[jiji262-douyin-downloader]] [[snailsploit-claude-red]] [[bilawalsidhu-gods-eye-view]] [[lakr233-vphone-cli]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[peetzweg-opendisplay]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[ruvnet-ruview]]
+[[peetzweg-opendisplay]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[jamiepine-voicebox]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

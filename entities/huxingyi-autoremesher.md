@@ -35,5 +35,5 @@ Automatic quad remeshing tool
 
 ## 相关项目
 
-[[google-googletest]] [[protocolbuffers-protobuf]] [[microsoft-onnxruntime]] [[fmtlib-fmt]]
+[[fmtlib-fmt]] [[microsoft-onnxruntime]] [[google-googletest]] [[protocolbuffers-protobuf]]
 

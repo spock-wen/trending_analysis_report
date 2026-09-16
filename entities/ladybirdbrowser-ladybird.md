@@ -35,7 +35,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[protocolbuffers-protobuf]] [[jiji262-douyin-downloader]] [[microsoft-onnxruntime]] [[google-googletest]]
+[[protocolbuffers-protobuf]] [[jiji262-douyin-downloader]] [[microsoft-onnxruntime]] [[fmtlib-fmt]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]]
 

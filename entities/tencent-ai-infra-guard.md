@@ -35,7 +35,7 @@ A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skil
 
 ## 相关项目
 
-[[peetzweg-opendisplay]] [[debpalash-voicestudio]] [[mg1937-asc]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
+[[peetzweg-opendisplay]] [[affaan-m-ecc]] [[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

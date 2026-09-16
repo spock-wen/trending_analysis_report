@@ -38,5 +38,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[ruvnet-ruview]] [[tonhowtf-omniget]] [[pacifio-atlas]]
+[[ankitects-anki]] [[alphaxiv-openresearch]] [[pacifio-atlas]] [[tonhowtf-omniget]]
 

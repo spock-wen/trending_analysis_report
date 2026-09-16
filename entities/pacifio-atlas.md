@@ -35,7 +35,7 @@ Source control for agents. Use multiple coding agents, track their changes and q
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[ruvnet-ruview]] [[earendil-works-pi]]
+[[tonhowtf-omniget]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[alphaxiv-openresearch]] [[ankitects-anki]]
 
 **所属领域**: [[ai-agent]]
 

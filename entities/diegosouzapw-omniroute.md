@@ -38,7 +38,7 @@ Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[tonhowtf-omniget]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]]
+[[abue-ammar-tinycast]] [[affaan-m-ecc]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[lakr233-vphone-cli]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

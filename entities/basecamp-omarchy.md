@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[nvm-sh-nvm]] [[earendil-works-pi]] [[mattpocock-skills]] [[panniantong-agent-reach]]
+[[obra-superpowers]] [[abue-ammar-tinycast]] [[nvm-sh-nvm]] [[snailsploit-claude-red]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

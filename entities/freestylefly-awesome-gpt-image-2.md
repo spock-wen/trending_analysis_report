@@ -38,7 +38,7 @@ Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[multimodal-art-projection-yue]] [[vercel-labs-portless]]
+[[affaan-m-ecc]] [[multimodal-art-projection-yue]] [[bilawalsidhu-gods-eye-view]] [[anthropics-knowledge-work-plugins]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

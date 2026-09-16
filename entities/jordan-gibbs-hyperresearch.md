@@ -34,7 +34,7 @@ Agent-driven research knowledge base. Agents collect, search, and synthesize web
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[jihe520-mathmodelagent]] [[debpalash-voicestudio]] [[mg1937-asc]] [[alibaba-open-code-review]]
+[[affaan-m-ecc]] [[jiji262-douyin-downloader]] [[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

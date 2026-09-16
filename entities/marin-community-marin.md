@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[debpalash-voicestudio]] [[mg1937-asc]] [[666ghj-mirofish]] [[alphaxiv-openresearch]]
+[[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]]
 
 **所属领域**: [[science]]
 

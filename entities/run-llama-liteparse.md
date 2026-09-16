@@ -35,5 +35,5 @@ A fast, helpful, and open-source document parser
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[ruvnet-ruview]] [[tonhowtf-omniget]] [[pacifio-atlas]]
+[[ankitects-anki]] [[alphaxiv-openresearch]] [[pacifio-atlas]] [[tonhowtf-omniget]]
 

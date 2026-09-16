@@ -34,5 +34,5 @@ language: "Swift"
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[homebrew-brewui]] [[lakr233-vphone-cli]] [[peetzweg-opendisplay]]
+[[lakr233-vphone-cli]] [[homebrew-brewui]] [[peetzweg-opendisplay]] [[abue-ammar-tinycast]]
 

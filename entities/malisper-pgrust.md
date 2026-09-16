@@ -35,5 +35,5 @@ Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[ruvnet-ruview]] [[tonhowtf-omniget]] [[pacifio-atlas]]
+[[ankitects-anki]] [[alphaxiv-openresearch]] [[pacifio-atlas]] [[tonhowtf-omniget]]
 

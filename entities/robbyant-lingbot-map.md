@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[mg1937-asc]] [[alibaba-open-code-review]] [[666ghj-mirofish]] [[bilawalsidhu-gods-eye-view]]
+[[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[calesthio-openmontage]]
 
 **所属领域**: [[data]]
 

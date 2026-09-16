@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[ever-co-ever-gauzy]] [[tonhowtf-omniget]] [[snailsploit-claude-red]] [[jiji262-douyin-downloader]]
+[[obra-superpowers]] [[abue-ammar-tinycast]] [[nvm-sh-nvm]] [[affaan-m-ecc]] [[jiji262-douyin-downloader]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

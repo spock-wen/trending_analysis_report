@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[jihe520-mathmodelagent]] [[mg1937-asc]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
+[[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[mg1937-asc]] [[anthropics-knowledge-work-plugins]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

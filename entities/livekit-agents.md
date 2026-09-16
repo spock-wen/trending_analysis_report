@@ -37,7 +37,7 @@ A framework for building realtime voice AI agents 🤖🎙️📹
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[debpalash-voicestudio]] [[mg1937-asc]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
+[[debpalash-voicestudio]] [[tonhowtf-omniget]] [[affaan-m-ecc]] [[roboflow-supervision]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[opa334-dopamine]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[antirez-ds4]]
+[[justvugg-colibri]] [[antirez-ds4]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[opa334-dopamine]]
 
 **所属领域**: [[ai-agent]]
 

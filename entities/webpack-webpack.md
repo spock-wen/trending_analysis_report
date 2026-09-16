@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[jiji262-douyin-downloader]] [[addyosmani-agent-skills]] [[freestylefly-awesome-gpt-image-2]] [[jordan-gibbs-hyperresearch]]
+[[affaan-m-ecc]] [[jiji262-douyin-downloader]] [[freestylefly-awesome-gpt-image-2]] [[multimodal-art-projection-yue]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]] [[image-gen]]
 

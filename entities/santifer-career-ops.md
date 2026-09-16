@@ -38,7 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[snailsploit-claude-red]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]]
+[[abue-ammar-tinycast]] [[affaan-m-ecc]] [[snailsploit-claude-red]] [[bilawalsidhu-gods-eye-view]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

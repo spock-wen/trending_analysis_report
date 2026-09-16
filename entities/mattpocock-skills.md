@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[tonhowtf-omniget]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[nvm-sh-nvm]]
+[[obra-superpowers]] [[abue-ammar-tinycast]] [[nvm-sh-nvm]] [[affaan-m-ecc]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

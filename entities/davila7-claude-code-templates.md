@@ -36,7 +36,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[debpalash-voicestudio]] [[peetzweg-opendisplay]] [[mg1937-asc]] [[alibaba-open-code-review]]
+[[peetzweg-opendisplay]] [[abue-ammar-tinycast]] [[affaan-m-ecc]] [[roboflow-supervision]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

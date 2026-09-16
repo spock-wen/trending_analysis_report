@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[jiji262-douyin-downloader]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]]
+[[affaan-m-ecc]] [[jiji262-douyin-downloader]] [[diolinux-photogimp]] [[nutlope-hallmark]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

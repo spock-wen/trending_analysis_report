@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[peetzweg-opendisplay]] [[debpalash-voicestudio]] [[snailsploit-claude-red]] [[mg1937-asc]]
+[[peetzweg-opendisplay]] [[affaan-m-ecc]] [[jiji262-douyin-downloader]] [[roboflow-supervision]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[ruvnet-ruview]] [[alphaxiv-openresearch]] [[nationalsecurityagency-ghidra]] [[reconurge-flowsint]]
+[[tonhowtf-omniget]] [[affaan-m-ecc]] [[snailsploit-claude-red]] [[nationalsecurityagency-ghidra]] [[alphaxiv-openresearch]]
 
 **所属领域**: [[security]]
 

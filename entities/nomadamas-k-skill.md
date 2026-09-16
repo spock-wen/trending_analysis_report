@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[freestylefly-awesome-gpt-image-2]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[bilawalsidhu-gods-eye-view]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[lyogavin-airllm]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[microsoft-generative-ai-for-beginners]]
+[[affaan-m-ecc]] [[anthropics-claude-code]] [[microsoft-ai-for-beginners]] [[anthropics-knowledge-work-plugins]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

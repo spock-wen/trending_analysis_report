@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[tonhowtf-omniget]] [[anthropics-claude-cookbooks]] [[alibaba-open-code-review]] [[lyogavin-airllm]]
+[[crosstalk-solutions-project-nomad]] [[tonhowtf-omniget]] [[affaan-m-ecc]] [[anthropics-claude-code]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

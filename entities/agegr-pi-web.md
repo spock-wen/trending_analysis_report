@@ -36,7 +36,7 @@ Web UI for the pi coding agent
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[jiji262-douyin-downloader]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]]
+[[affaan-m-ecc]] [[jiji262-douyin-downloader]] [[anthropics-knowledge-work-plugins]] [[bilawalsidhu-gods-eye-view]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

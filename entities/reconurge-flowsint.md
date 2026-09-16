@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[earendil-works-pi]] [[danny-avila-librechat]] [[nationalsecurityagency-ghidra]] [[melgarafael-deskcommcrm]]
+[[affaan-m-ecc]] [[snailsploit-claude-red]] [[nationalsecurityagency-ghidra]] [[jamiepine-voicebox]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[security]]
 

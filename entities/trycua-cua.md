@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[snailsploit-claude-red]] [[jiji262-douyin-downloader]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
+[[ripienaar-free-for-dev]] [[averygan-reclip]] [[affaan-m-ecc]] [[jiji262-douyin-downloader]] [[freestylefly-awesome-gpt-image-2]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[peetzweg-opendisplay]] [[ruvnet-ruflo]] [[alphaxiv-openresearch]] [[posthog-posthog]]
+[[peetzweg-opendisplay]] [[tonhowtf-omniget]] [[alphaxiv-openresearch]] [[pacifio-atlas]] [[ankitects-anki]]
 
 **所属领域**: [[devops]]
 

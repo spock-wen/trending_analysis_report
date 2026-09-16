@@ -34,7 +34,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[tonhowtf-omniget]] [[debpalash-voicestudio]] [[snailsploit-claude-red]] [[mg1937-asc]]
+[[abue-ammar-tinycast]] [[affaan-m-ecc]] [[jiji262-douyin-downloader]] [[roboflow-supervision]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

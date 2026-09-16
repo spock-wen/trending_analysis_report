@@ -1,20 +1,20 @@
 ---
 title: "ever-co/ever-gauzy"
 created: 2026-09-14
-updated: 2026-09-16
-last_active: 2026-09-16
+updated: 2026-09-17
+last_active: 2026-09-17
 type: tool
 tags: [typescript, web, erp, rising]
-sources: [raw/trending/2026-09-16.json]
+sources: [raw/trending/2026-09-17.json]
 confidence: high
-trending_count_daily: 3
+trending_count_daily: 4
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 3
+consecutive_days: 4
 first_trending: 2026-09-14
-last_trending: 2026-09-16
+last_trending: 2026-09-17
 peak_rank: 2
-total_stars: 6593
+total_stars: 7276
 language: "TypeScript"
 ---
 
@@ -23,20 +23,21 @@ language: "TypeScript"
 Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
 
 - 语言: TypeScript
-- 上榜次数: 3 次
-- 连续上榜: 3 天
+- 上榜次数: 4 次
+- 连续上榜: 4 天
 - 最高排名: #2
 - 链接: [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy)
 
 ## 上榜历史
 
+  - 2026-09-17: #8, +771⭐
   - 2026-09-16: #3, +632⭐
   - 2026-09-15: #16, +1095⭐
   - 2026-09-14: #2, +58⭐
 
 ## 相关项目
 
-[[jiji262-douyin-downloader]] [[earendil-works-pi]] [[alsk1992-cloddsbot]] [[danny-avila-librechat]] [[jordan-gibbs-hyperresearch]]
+[[alsk1992-cloddsbot]] [[jiji262-douyin-downloader]] [[danny-avila-librechat]] [[bilawalsidhu-gods-eye-view]] [[jamiepine-voicebox]]
 
 **所属领域**: [[web]] [[erp]]
 

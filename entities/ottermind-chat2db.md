@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[yuliskov-smarttube]] [[google-guava]] [[tonhowtf-omniget]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
+[[checkstyle-checkstyle]] [[abue-ammar-tinycast]] [[affaan-m-ecc]] [[yuliskov-smarttube]] [[google-guava]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

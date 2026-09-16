@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[tonhowtf-omniget]] [[debpalash-voicestudio]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
+[[debpalash-voicestudio]] [[protocolbuffers-protobuf]] [[tonhowtf-omniget]] [[affaan-m-ecc]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

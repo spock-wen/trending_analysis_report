@@ -35,7 +35,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[flutter-flutter]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[chen08209-flclash]]
+[[affaan-m-ecc]] [[chen08209-flclash]] [[anthropics-knowledge-work-plugins]] [[anthropics-claude-code]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

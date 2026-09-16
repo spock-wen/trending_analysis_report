@@ -35,7 +35,7 @@ A collection of DESIGN.md files analysis by popular brand design systems. Drop o
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[pacifio-atlas]] [[earendil-works-pi]]
+[[anthropics-knowledge-work-plugins]] [[affaan-m-ecc]] [[addyosmani-agent-skills]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

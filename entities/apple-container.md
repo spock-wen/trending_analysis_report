@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[altic-dev-fluidvoice]] [[peetzweg-opendisplay]] [[lakr233-vphone-cli]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]]
+[[peetzweg-opendisplay]] [[abue-ammar-tinycast]] [[affaan-m-ecc]] [[homebrew-brewui]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

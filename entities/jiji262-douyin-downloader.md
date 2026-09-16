@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[debpalash-voicestudio]] [[snailsploit-claude-red]] [[mg1937-asc]] [[alibaba-open-code-review]]
+[[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]] [[data]]
 

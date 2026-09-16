@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[jihe520-mathmodelagent]] [[tonhowtf-omniget]] [[debpalash-voicestudio]] [[mg1937-asc]]
+[[alsk1992-cloddsbot]] [[abue-ammar-tinycast]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[roboflow-supervision]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

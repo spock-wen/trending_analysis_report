@@ -35,7 +35,7 @@ Network stack research tool. TCP tunnel with pluggable transports.
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[mg1937-asc]] [[alibaba-open-code-review]] [[alphaxiv-openresearch]] [[tauricresearch-tradingagents]]
+[[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[mg1937-asc]] [[tencent-weknora]] [[alibaba-open-code-review]]
 
 **所属领域**: [[science]]
 

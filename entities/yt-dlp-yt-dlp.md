@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[debpalash-voicestudio]] [[mg1937-asc]] [[666ghj-mirofish]] [[earendil-works-pi]]
+[[debpalash-voicestudio]] [[abue-ammar-tinycast]] [[tonhowtf-omniget]] [[roboflow-supervision]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[cli]] [[audio]]
 

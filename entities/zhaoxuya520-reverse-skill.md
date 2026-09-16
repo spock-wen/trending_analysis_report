@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[jihe520-mathmodelagent]] [[tonhowtf-omniget]] [[raphire-win11debloat]] [[alibaba-open-code-review]] [[mg1937-asc]]
+[[abue-ammar-tinycast]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[mg1937-asc]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

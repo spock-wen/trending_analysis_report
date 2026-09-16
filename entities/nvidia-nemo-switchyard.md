@@ -35,7 +35,7 @@ Switchyard lets LLM applications route traffic across models and providers while
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[alibaba-open-code-review]] [[ruvnet-ruview]] [[addyosmani-agent-skills]] [[earendil-works-pi]]
+[[tonhowtf-omniget]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[alphaxiv-openresearch]] [[pacifio-atlas]]
 
 **所属领域**: [[ai-agent]]
 

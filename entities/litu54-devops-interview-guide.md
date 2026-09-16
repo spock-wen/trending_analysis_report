@@ -34,7 +34,7 @@ DevOps Interview Guide
 
 ## 相关项目
 
-[[posthog-posthog]] [[ruvnet-ruview]] [[peetzweg-opendisplay]] [[ruvnet-ruflo]]
+[[peetzweg-opendisplay]] [[ruvnet-ruflo]] [[ruvnet-ruview]] [[posthog-posthog]]
 
 **所属领域**: [[devops]]
 

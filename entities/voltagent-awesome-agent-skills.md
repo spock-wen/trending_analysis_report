@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[panniantong-agent-reach]]
+[[abue-ammar-tinycast]] [[affaan-m-ecc]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[lakr233-vphone-cli]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

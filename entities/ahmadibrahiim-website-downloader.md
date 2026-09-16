@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[trycua-cua]] [[jiji262-douyin-downloader]] [[cathrynlavery-diagram-design]] [[jordan-gibbs-hyperresearch]]
+[[ripienaar-free-for-dev]] [[averygan-reclip]] [[jiji262-douyin-downloader]] [[freestylefly-awesome-gpt-image-2]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[web]] [[image-gen]]
 

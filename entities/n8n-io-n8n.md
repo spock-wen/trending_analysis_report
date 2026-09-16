@@ -34,7 +34,7 @@ Fair-code workflow automation platform with native AI capabilities. Combine visu
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[alibaba-open-code-review]] [[addyosmani-agent-skills]] [[earendil-works-pi]] [[danny-avila-librechat]]
+[[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[jamiepine-voicebox]] [[ever-co-ever-gauzy]] [[supabase-supabase]]
 
 **所属领域**: [[ai-agent]]
 

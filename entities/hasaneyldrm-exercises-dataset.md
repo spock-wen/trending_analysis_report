@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[trycua-cua]] [[snailsploit-claude-red]] [[jiji262-douyin-downloader]] [[alibaba-open-code-review]]
+[[ripienaar-free-for-dev]] [[averygan-reclip]] [[affaan-m-ecc]] [[jiji262-douyin-downloader]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

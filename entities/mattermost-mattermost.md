@@ -35,5 +35,5 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[danny-avila-librechat]] [[earendil-works-pi]] [[ever-co-ever-gauzy]]
+[[supabase-supabase]] [[anthropics-claude-code]] [[jamiepine-voicebox]] [[ever-co-ever-gauzy]]
 

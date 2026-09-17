@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[jiji262-douyin-downloader]] [[snailsploit-claude-red]] [[bilawalsidhu-gods-eye-view]] [[anthropics-knowledge-work-plugins]]
+[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[calesthio-openmontage]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

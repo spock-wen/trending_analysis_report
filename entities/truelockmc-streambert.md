@@ -35,5 +35,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[bilawalsidhu-gods-eye-view]] [[affaan-m-ecc]] [[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]]
+[[bilawalsidhu-gods-eye-view]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]]
 

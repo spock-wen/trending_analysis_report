@@ -34,5 +34,5 @@ Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engi
 
 ## 相关项目
 
-[[ankitects-anki]] [[alphaxiv-openresearch]] [[pacifio-atlas]] [[tonhowtf-omniget]]
+[[ankitects-anki]] [[pacifio-atlas]] [[tonhowtf-omniget]] [[alphaxiv-openresearch]]
 

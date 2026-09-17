@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[affaan-m-ecc]] [[jiji262-douyin-downloader]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]]
+[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

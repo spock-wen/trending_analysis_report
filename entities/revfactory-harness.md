@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[averygan-reclip]] [[affaan-m-ecc]] [[jiji262-douyin-downloader]] [[trycua-cua]]
+[[addyosmani-agent-skills]] [[trycua-cua]] [[affaan-m-ecc]] [[ripienaar-free-for-dev]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

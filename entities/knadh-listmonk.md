@@ -34,7 +34,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[p1neapplexpress-openflux]] [[affaan-m-ecc]] [[tencent-weknora]] [[anthropics-knowledge-work-plugins]] [[alibaba-open-code-review]]
+[[cilium-cilium]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[tencent-weknora]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[affaan-m-ecc]] [[jiji262-douyin-downloader]] [[roboflow-supervision]] [[multimodal-art-projection-yue]]
+[[tencentcloud-octop]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

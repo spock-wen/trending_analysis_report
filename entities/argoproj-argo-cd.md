@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[p1neapplexpress-openflux]] [[peetzweg-opendisplay]] [[tencent-weknora]] [[alibaba-open-code-review]] [[vxcontrol-pentagi]]
+[[cilium-cilium]] [[tencent-weknora]] [[peetzweg-opendisplay]] [[ruvnet-ruview]] [[coder-coder]]
 
 **所属领域**: [[devops]]
 

@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[peetzweg-opendisplay]] [[snailsploit-claude-red]] [[jamiepine-voicebox]] [[ever-co-ever-gauzy]] [[alibaba-open-code-review]]
+[[cilium-cilium]] [[calesthio-openmontage]] [[ever-co-ever-gauzy]] [[peetzweg-opendisplay]] [[snailsploit-claude-red]]
 
 **所属领域**: [[data]] [[devops]]
 

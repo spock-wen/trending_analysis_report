@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[calesthio-openmontage]]
+[[tencentcloud-octop]] [[calesthio-openmontage]] [[anthropics-knowledge-work-plugins]] [[snailsploit-claude-red]] [[supabase-supabase]]
 
 **所属领域**: [[data]]
 

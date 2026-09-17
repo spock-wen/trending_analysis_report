@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[averygan-reclip]] [[affaan-m-ecc]] [[jiji262-douyin-downloader]] [[snailsploit-claude-red]]
+[[addyosmani-agent-skills]] [[trycua-cua]] [[affaan-m-ecc]] [[ripienaar-free-for-dev]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

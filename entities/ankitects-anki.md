@@ -34,5 +34,5 @@ Anki is a smart spaced repetition flashcard program
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[pacifio-atlas]] [[tonhowtf-omniget]]
+[[pacifio-atlas]] [[tonhowtf-omniget]] [[alphaxiv-openresearch]]
 

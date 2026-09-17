@@ -34,7 +34,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]]
+[[tencentcloud-octop]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[anthropics-knowledge-work-plugins]] [[mg1937-asc]]
 
 **所属领域**: [[science]]
 

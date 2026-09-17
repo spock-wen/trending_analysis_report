@@ -34,7 +34,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[abue-ammar-tinycast]] [[tonhowtf-omniget]] [[affaan-m-ecc]] [[snailsploit-claude-red]]
+[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[crosstalk-solutions-project-nomad]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

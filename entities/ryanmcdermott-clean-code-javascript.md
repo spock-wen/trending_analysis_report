@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[bilawalsidhu-gods-eye-view]] [[affaan-m-ecc]] [[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]]
+[[bilawalsidhu-gods-eye-view]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]]
 

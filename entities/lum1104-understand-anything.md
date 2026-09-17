@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[abue-ammar-tinycast]] [[tonhowtf-omniget]] [[affaan-m-ecc]] [[snailsploit-claude-red]]
+[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[ever-co-ever-gauzy]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

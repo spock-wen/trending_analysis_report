@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[peetzweg-opendisplay]] [[affaan-m-ecc]] [[jiji262-douyin-downloader]] [[roboflow-supervision]] [[multimodal-art-projection-yue]]
+[[tencentcloud-octop]] [[addyosmani-agent-skills]] [[cilium-cilium]] [[affaan-m-ecc]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

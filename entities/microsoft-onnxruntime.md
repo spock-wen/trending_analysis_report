@@ -34,7 +34,7 @@ ONNX Runtime: cross-platform, high performance ML inferencing and training accel
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[affaan-m-ecc]] [[fmtlib-fmt]] [[anthropics-knowledge-work-plugins]] [[anthropics-claude-code]]
+[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[fmtlib-fmt]] [[google-googletest]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[peetzweg-opendisplay]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[jamiepine-voicebox]] [[ever-co-ever-gauzy]]
+[[cilium-cilium]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[ever-co-ever-gauzy]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

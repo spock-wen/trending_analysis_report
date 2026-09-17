@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[peetzweg-opendisplay]] [[abue-ammar-tinycast]] [[homebrew-brewui]] [[snailsploit-claude-red]] [[anthropics-claude-code]]
+[[abue-ammar-tinycast]] [[cline-cline]] [[tencent-browserskill]] [[homebrew-brewui]] [[anthropics-claude-code]]
 
 **所属领域**: [[cli]]
 

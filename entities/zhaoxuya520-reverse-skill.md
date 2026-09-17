@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[mg1937-asc]] [[snailsploit-claude-red]]
+[[cilium-cilium]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

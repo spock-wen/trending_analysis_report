@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[freestylefly-awesome-gpt-image-2]] [[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]]
+[[tencentcloud-octop]] [[addyosmani-agent-skills]] [[freestylefly-awesome-gpt-image-2]] [[affaan-m-ecc]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

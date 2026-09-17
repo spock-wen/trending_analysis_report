@@ -38,7 +38,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[tonhowtf-omniget]] [[freestylefly-awesome-gpt-image-2]] [[roboflow-supervision]] [[multimodal-art-projection-yue]]
+[[tencentcloud-octop]] [[freestylefly-awesome-gpt-image-2]] [[debpalash-voicestudio]] [[multimodal-art-projection-yue]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

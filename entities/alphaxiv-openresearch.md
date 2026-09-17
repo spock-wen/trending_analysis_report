@@ -1,20 +1,20 @@
 ---
 title: "alphaXiv/OpenResearch"
 created: 2026-09-12
-updated: 2026-09-17
-last_active: 2026-09-17
+updated: 2026-09-18
+last_active: 2026-09-18
 type: tool
-tags: [rust, ai-agent, science]
-sources: [raw/trending/2026-09-17.json]
+tags: [rust, ai-agent, science, rising]
+sources: [raw/trending/2026-09-18.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 3
 first_trending: 2026-09-12
-last_trending: 2026-09-17
-peak_rank: 7
-total_stars: 4368
+last_trending: 2026-09-18
+peak_rank: 5
+total_stars: 4915
 language: "Rust"
 contested: true
 ---
@@ -24,13 +24,14 @@ contested: true
 Turn your coding agents into research agents
 
 - 语言: Rust
-- 上榜次数: 4 次
-- 连续上榜: 2 天
-- 最高排名: #7
+- 上榜次数: 5 次
+- 连续上榜: 3 天
+- 最高排名: #5
 - 链接: [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch)
 
 ## 上榜历史
 
+  - 2026-09-18: #5, +940⭐
   - 2026-09-17: #13, +1036⭐
   - 2026-09-16: #7, +593⭐
   - 2026-09-14: #11, +304⭐
@@ -38,7 +39,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[mg1937-asc]] [[anthropics-knowledge-work-plugins]]
+[[ankitects-anki]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[pacifio-atlas]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

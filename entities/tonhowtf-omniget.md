@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[debpalash-voicestudio]] [[abue-ammar-tinycast]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]]
+[[ankitects-anki]] [[debpalash-voicestudio]] [[abue-ammar-tinycast]] [[pacifio-atlas]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]]
+[[tencentcloud-octop]] [[abue-ammar-tinycast]] [[anthropics-knowledge-work-plugins]] [[cline-cline]] [[tencent-browserskill]]
 
 **所属领域**: [[cli]]
 

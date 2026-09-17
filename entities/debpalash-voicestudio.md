@@ -38,7 +38,7 @@ VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice clo
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]]
+[[tencentcloud-octop]] [[anthropics-knowledge-work-plugins]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]] [[jamiepine-voicebox]]
 
 **所属领域**: [[audio]]
 

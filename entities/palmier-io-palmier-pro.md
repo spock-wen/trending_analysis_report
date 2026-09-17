@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[peetzweg-opendisplay]] [[abue-ammar-tinycast]] [[affaan-m-ecc]] [[homebrew-brewui]] [[anthropics-knowledge-work-plugins]]
+[[lakr233-vphone-cli]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

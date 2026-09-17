@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[alsk1992-cloddsbot]] [[abue-ammar-tinycast]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[roboflow-supervision]]
+[[tencentcloud-octop]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

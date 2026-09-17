@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[freestylefly-awesome-gpt-image-2]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]] [[openbmb-voxcpm]] [[jamiepine-voicebox]]
+[[freestylefly-awesome-gpt-image-2]] [[calesthio-openmontage]] [[ever-co-ever-gauzy]] [[multimodal-art-projection-yue]] [[vercel-labs-portless]]
 
 **所属领域**: [[data]] [[image-gen]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[peetzweg-opendisplay]] [[affaan-m-ecc]] [[jiji262-douyin-downloader]] [[roboflow-supervision]] [[multimodal-art-projection-yue]]
+[[tencentcloud-octop]] [[addyosmani-agent-skills]] [[cilium-cilium]] [[affaan-m-ecc]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[tonhowtf-omniget]] [[affaan-m-ecc]] [[jiji262-douyin-downloader]] [[multimodal-art-projection-yue]]
+[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[debpalash-voicestudio]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

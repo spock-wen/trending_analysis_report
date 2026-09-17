@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[jiji262-douyin-downloader]] [[diolinux-photogimp]] [[nutlope-hallmark]] [[multimodal-art-projection-yue]]
+[[diolinux-photogimp]] [[addyosmani-agent-skills]] [[freestylefly-awesome-gpt-image-2]] [[affaan-m-ecc]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

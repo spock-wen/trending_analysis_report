@@ -35,7 +35,7 @@ Gas Town - multi-agent workspace manager
 
 ## 相关项目
 
-[[p1neapplexpress-openflux]] [[affaan-m-ecc]] [[tencent-weknora]] [[anthropics-knowledge-work-plugins]] [[alibaba-open-code-review]]
+[[cilium-cilium]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[tencent-weknora]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

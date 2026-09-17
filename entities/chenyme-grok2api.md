@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[p1neapplexpress-openflux]] [[abue-ammar-tinycast]] [[jiji262-douyin-downloader]] [[tencent-weknora]] [[snailsploit-claude-red]]
+[[cilium-cilium]] [[abue-ammar-tinycast]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[tencent-weknora]]
 
 **所属领域**: [[web]] [[cli]]
 

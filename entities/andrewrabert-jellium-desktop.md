@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[abue-ammar-tinycast]] [[snailsploit-claude-red]] [[lakr233-vphone-cli]] [[alphaxiv-openresearch]]
+[[ankitects-anki]] [[abue-ammar-tinycast]] [[pacifio-atlas]] [[cline-cline]] [[tencent-browserskill]]
 
 **所属领域**: [[cli]]
 

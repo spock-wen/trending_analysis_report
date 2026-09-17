@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[alsk1992-cloddsbot]] [[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]] [[danny-avila-librechat]]
+[[tencentcloud-octop]] [[ever-co-ever-gauzy]] [[anthropics-knowledge-work-plugins]] [[melgarafael-deskcommcrm]] [[snailsploit-claude-red]]
 
 **所属领域**: [[erp]]
 

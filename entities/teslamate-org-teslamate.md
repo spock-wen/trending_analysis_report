@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[calesthio-openmontage]] [[alibaba-open-code-review]]
+[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[calesthio-openmontage]] [[plausible-analytics]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[abue-ammar-tinycast]] [[jiji262-douyin-downloader]] [[snailsploit-claude-red]] [[bilawalsidhu-gods-eye-view]]
+[[ankitects-anki]] [[abue-ammar-tinycast]] [[pacifio-atlas]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]] [[cli]]
 

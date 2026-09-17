@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[p1neapplexpress-openflux]] [[abue-ammar-tinycast]] [[affaan-m-ecc]] [[tencent-weknora]] [[snailsploit-claude-red]]
+[[cilium-cilium]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[tencent-weknora]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

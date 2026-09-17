@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[snailsploit-claude-red]] [[nationalsecurityagency-ghidra]] [[jamiepine-voicebox]] [[ever-co-ever-gauzy]]
+[[cilium-cilium]] [[affaan-m-ecc]] [[ever-co-ever-gauzy]] [[jamiepine-voicebox]] [[n8n-io-n8n]]
 
 **所属领域**: [[security]]
 

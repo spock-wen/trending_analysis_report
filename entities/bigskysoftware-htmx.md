@@ -34,7 +34,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[jiji262-douyin-downloader]] [[bilawalsidhu-gods-eye-view]] [[cloudflare-security-audit-skill]] [[ever-co-ever-gauzy]]
+[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[tencent-browserskill]]
 
 **所属领域**: [[web]]
 

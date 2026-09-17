@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[peetzweg-opendisplay]] [[yuliskov-smarttube]] [[google-guava]] [[snailsploit-claude-red]]
+[[checkstyle-checkstyle]] [[cilium-cilium]] [[calesthio-openmontage]] [[peetzweg-opendisplay]] [[snailsploit-claude-red]]
 
 **所属领域**: [[data]] [[devops]]
 

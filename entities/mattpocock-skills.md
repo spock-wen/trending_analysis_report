@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[obra-superpowers]] [[abue-ammar-tinycast]] [[nvm-sh-nvm]] [[affaan-m-ecc]] [[snailsploit-claude-red]]
+[[nvm-sh-nvm]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[tonhowtf-omniget]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[roboflow-supervision]]
+[[tencentcloud-octop]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[crosstalk-solutions-project-nomad]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[education]] [[science]]
 

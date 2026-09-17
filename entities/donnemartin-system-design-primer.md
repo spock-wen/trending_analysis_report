@@ -35,7 +35,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[tonhowtf-omniget]] [[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]]
+[[tencentcloud-octop]] [[crosstalk-solutions-project-nomad]] [[anthropics-knowledge-work-plugins]] [[huggingface-transformers]] [[thu-maic-openmaic]]
 
 **所属领域**: [[education]]
 

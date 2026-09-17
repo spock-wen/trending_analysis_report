@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[justvugg-colibri]] [[antirez-ds4]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[opa334-dopamine]]
+[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[justvugg-colibri]] [[anthropics-knowledge-work-plugins]] [[opa334-dopamine]]
 
 **所属领域**: [[ai-agent]]
 

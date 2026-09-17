@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[debpalash-voicestudio]] [[tonhowtf-omniget]] [[affaan-m-ecc]] [[roboflow-supervision]]
+[[tencentcloud-octop]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[debpalash-voicestudio]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

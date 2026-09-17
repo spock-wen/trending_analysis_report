@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[alsk1992-cloddsbot]] [[danny-avila-librechat]] [[jamiepine-voicebox]] [[ever-co-ever-gauzy]] [[melgarafael-deskcommcrm]]
+[[ever-co-ever-gauzy]] [[melgarafael-deskcommcrm]] [[jamiepine-voicebox]] [[alsk1992-cloddsbot]] [[n8n-io-n8n]]
 
 **所属领域**: [[erp]]
 

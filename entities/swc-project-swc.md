@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[jiji262-douyin-downloader]] [[bilawalsidhu-gods-eye-view]] [[alphaxiv-openresearch]] [[pacifio-atlas]]
+[[ankitects-anki]] [[pacifio-atlas]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[tencent-browserskill]]
 
 **所属领域**: [[web]]
 

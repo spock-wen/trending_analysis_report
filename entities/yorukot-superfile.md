@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[p1neapplexpress-openflux]] [[abue-ammar-tinycast]] [[tencent-weknora]] [[snailsploit-claude-red]] [[lakr233-vphone-cli]]
+[[cilium-cilium]] [[abue-ammar-tinycast]] [[tencent-weknora]] [[cline-cline]] [[tencent-browserskill]]
 
 **所属领域**: [[cli]]
 

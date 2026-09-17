@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[lakr233-vphone-cli]] [[snailsploit-claude-red]] [[abue-ammar-tinycast]]
+[[tencent-browserskill]] [[abue-ammar-tinycast]] [[anthropics-claude-code]] [[cline-cline]]
 
 **所属领域**: [[cli]]
 

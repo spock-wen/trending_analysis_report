@@ -1,20 +1,20 @@
 ---
 title: "roboflow/supervision"
 created: 2026-06-09
-updated: 2026-09-17
-last_active: 2026-09-17
+updated: 2026-09-18
+last_active: 2026-09-18
 type: tool
 tags: [python]
-sources: [raw/trending/2026-09-17.json]
+sources: [raw/trending/2026-09-18.json]
 confidence: high
-trending_count_daily: 6
+trending_count_daily: 7
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-06-09
-last_trending: 2026-09-17
+last_trending: 2026-09-18
 peak_rank: 3
-total_stars: 50574
+total_stars: 50788
 language: "Python"
 ---
 
@@ -23,20 +23,20 @@ language: "Python"
 We write your reusable computer vision tools. 💜
 
 - 语言: Python
-- 上榜次数: 6 次
-- 连续上榜: 1 天
+- 上榜次数: 7 次
+- 连续上榜: 2 天
 - 最高排名: #3
 - 链接: [roboflow/supervision](https://github.com/roboflow/supervision)
 
 ## 上榜历史
 
+  - 2026-09-18: #14, +327⭐
   - 2026-09-17: #12, +292⭐
   - 2026-08-06: #9, +132⭐
   - 2026-07-01: #11, +336⭐
   - 2026-06-11: #14, +699⭐
-  - 2026-06-10: #3, +735⭐
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]]
+[[snailsploit-claude-red]] [[tencentcloud-octop]] [[anthropics-knowledge-work-plugins]]
 

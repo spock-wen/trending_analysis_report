@@ -34,5 +34,5 @@ b站会员购购票辅助工具
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]]
+[[snailsploit-claude-red]] [[tencentcloud-octop]] [[anthropics-knowledge-work-plugins]] [[roboflow-supervision]]
 

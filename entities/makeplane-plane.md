@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[snailsploit-claude-red]] [[lakr233-vphone-cli]] [[jamiepine-voicebox]] [[ever-co-ever-gauzy]]
+[[abue-ammar-tinycast]] [[ever-co-ever-gauzy]] [[cline-cline]] [[tencent-browserskill]] [[jamiepine-voicebox]]
 
 **所属领域**: [[cli]]
 

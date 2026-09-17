@@ -38,7 +38,7 @@ An advanced guide to learn English which might benefit you a lot 🎉 . 人生�
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[crosstalk-solutions-project-nomad]] [[huggingface-transformers]] [[tonhowtf-omniget]]
+[[crosstalk-solutions-project-nomad]] [[tonhowtf-omniget]] [[huggingface-transformers]] [[thu-maic-openmaic]]
 
 **所属领域**: [[education]]
 

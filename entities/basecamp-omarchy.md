@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[obra-superpowers]] [[abue-ammar-tinycast]] [[nvm-sh-nvm]] [[snailsploit-claude-red]] [[mattpocock-skills]]
+[[nvm-sh-nvm]] [[abue-ammar-tinycast]] [[obra-superpowers]] [[cline-cline]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

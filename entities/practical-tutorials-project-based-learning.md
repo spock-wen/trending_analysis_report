@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[tonhowtf-omniget]] [[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]]
+[[tencentcloud-octop]] [[crosstalk-solutions-project-nomad]] [[anthropics-knowledge-work-plugins]] [[huggingface-transformers]] [[thu-maic-openmaic]]
 
 **所属领域**: [[education]]
 

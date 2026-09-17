@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[abue-ammar-tinycast]] [[snailsploit-claude-red]] [[microsoft-onnxruntime]] [[fmtlib-fmt]]
+[[abue-ammar-tinycast]] [[cline-cline]] [[fmtlib-fmt]] [[google-googletest]] [[tencent-browserskill]]
 
 **所属领域**: [[cli]]
 

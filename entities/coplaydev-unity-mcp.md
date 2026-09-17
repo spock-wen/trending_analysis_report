@@ -35,7 +35,7 @@ Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you
 
 ## 相关项目
 
-[[k1tbyte-wand-enhancer]] [[affaan-m-ecc]] [[dotnet-aspnetcore]] [[anthropics-knowledge-work-plugins]] [[sonarr-sonarr]]
+[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[k1tbyte-wand-enhancer]] [[anthropics-knowledge-work-plugins]] [[jellyfin-jellyfin]]
 
 **所属领域**: [[ai-agent]]
 

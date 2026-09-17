@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[p1neapplexpress-openflux]] [[abue-ammar-tinycast]] [[tencent-weknora]] [[snailsploit-claude-red]] [[lakr233-vphone-cli]]
+[[cilium-cilium]] [[abue-ammar-tinycast]] [[tencent-weknora]] [[cline-cline]] [[tencent-browserskill]]
 
 **所属领域**: [[cli]]
 

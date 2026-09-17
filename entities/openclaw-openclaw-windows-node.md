@@ -35,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[k1tbyte-wand-enhancer]] [[abue-ammar-tinycast]] [[dotnet-aspnetcore]] [[snailsploit-claude-red]] [[lakr233-vphone-cli]]
+[[abue-ammar-tinycast]] [[k1tbyte-wand-enhancer]] [[cline-cline]] [[jellyfin-jellyfin]] [[tencent-browserskill]]
 
 **所属领域**: [[cli]]
 

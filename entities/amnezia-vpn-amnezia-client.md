@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[abue-ammar-tinycast]] [[affaan-m-ecc]] [[snailsploit-claude-red]] [[microsoft-onnxruntime]]
+[[cilium-cilium]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[cline-cline]] [[fmtlib-fmt]]
 
 **所属领域**: [[cli]] [[security]]
 

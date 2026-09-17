@@ -36,7 +36,7 @@ A list of tools that are open-source, in-browser, and require no-signups!
 
 ## 相关项目
 
-[[jiji262-douyin-downloader]] [[bilawalsidhu-gods-eye-view]] [[jamiepine-voicebox]] [[ever-co-ever-gauzy]] [[supabase-supabase]]
+[[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[tencent-browserskill]] [[jamiepine-voicebox]] [[n8n-io-n8n]]
 
 **所属领域**: [[web]]
 

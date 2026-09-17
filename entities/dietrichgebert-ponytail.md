@@ -38,7 +38,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[bilawalsidhu-gods-eye-view]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[anthropics-claude-code]]
+[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[bilawalsidhu-gods-eye-view]] [[anthropics-knowledge-work-plugins]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

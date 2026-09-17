@@ -34,5 +34,5 @@ TypeScript-first schema validation with static type inference
 
 ## 相关项目
 
-[[supabase-supabase]] [[anthropics-claude-code]] [[jamiepine-voicebox]] [[ever-co-ever-gauzy]]
+[[anthropics-claude-code]] [[ever-co-ever-gauzy]] [[jamiepine-voicebox]] [[n8n-io-n8n]]
 

@@ -35,7 +35,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[freestylefly-awesome-gpt-image-2]] [[roboflow-supervision]] [[multimodal-art-projection-yue]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]]
+[[tencentcloud-octop]] [[freestylefly-awesome-gpt-image-2]] [[multimodal-art-projection-yue]] [[anthropics-knowledge-work-plugins]] [[vercel-labs-portless]]
 
 **所属领域**: [[image-gen]]
 

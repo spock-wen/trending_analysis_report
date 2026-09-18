@@ -35,7 +35,7 @@ Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[addyosmani-agent-skills]] [[freestylefly-awesome-gpt-image-2]] [[affaan-m-ecc]] [[debpalash-voicestudio]]
+[[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

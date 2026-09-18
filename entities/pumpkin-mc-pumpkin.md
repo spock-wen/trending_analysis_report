@@ -37,5 +37,5 @@ Empowering everyone to host fast and efficient Minecraft servers.
 
 ## 相关项目
 
-[[ankitects-anki]] [[pacifio-atlas]] [[tonhowtf-omniget]] [[alphaxiv-openresearch]]
+[[pacifio-atlas]] [[rustfs-rustfs]] [[ankitects-anki]] [[alphaxiv-openresearch]]
 

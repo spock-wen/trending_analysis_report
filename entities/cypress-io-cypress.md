@@ -37,7 +37,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[tencent-browserskill]] [[jamiepine-voicebox]] [[n8n-io-n8n]]
+[[supabase-supabase]] [[supermemoryai-supermemory]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[fission-ai-openspec]]
 
 **所属领域**: [[web]]
 

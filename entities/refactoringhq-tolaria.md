@@ -38,5 +38,5 @@ Desktop app to manage markdown knowledge bases
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[ever-co-ever-gauzy]] [[jamiepine-voicebox]] [[n8n-io-n8n]]
+[[supermemoryai-supermemory]] [[fission-ai-openspec]] [[supabase-supabase]] [[anthropics-claude-code]]
 

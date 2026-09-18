@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[cilium-cilium]] [[calesthio-openmontage]] [[ever-co-ever-gauzy]] [[peetzweg-opendisplay]] [[snailsploit-claude-red]]
+[[snailsploit-claude-red]] [[supabase-supabase]] [[supermemoryai-supermemory]] [[peetzweg-opendisplay]] [[ruvnet-ruflo]]
 
 **所属领域**: [[data]] [[devops]]
 

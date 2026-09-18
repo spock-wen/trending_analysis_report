@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[ever-co-ever-gauzy]]
+[[obra-superpowers]] [[supabase-supabase]] [[abue-ammar-tinycast]] [[basecamp-omarchy]] [[cline-cline]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

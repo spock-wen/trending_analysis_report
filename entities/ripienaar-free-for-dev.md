@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[cilium-cilium]] [[trycua-cua]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[cathrynlavery-diagram-design]]
+[[supabase-supabase]] [[peetzweg-opendisplay]] [[ever-co-ever-gauzy]] [[ruvnet-ruflo]] [[ruvnet-ruview]]
 
 **所属领域**: [[web]] [[devops]]
 

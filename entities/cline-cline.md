@@ -35,7 +35,7 @@ Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[ever-co-ever-gauzy]] [[anthropics-knowledge-work-plugins]]
+[[abue-ammar-tinycast]] [[supabase-supabase]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

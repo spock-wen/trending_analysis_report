@@ -38,7 +38,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[anthropics-knowledge-work-plugins]]
+[[snailsploit-claude-red]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

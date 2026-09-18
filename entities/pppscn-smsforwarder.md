@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[mahlernim-google-timeline-visualizer]] [[bannedbook-fanqiang]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[embabel-embabel-agent]]
+[[mahlernim-google-timeline-visualizer]] [[supabase-supabase]] [[andreknieriem-headunit-revived]] [[embabel-embabel-agent]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[web]]
 

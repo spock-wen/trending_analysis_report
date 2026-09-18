@@ -35,7 +35,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[fmtlib-fmt]] [[google-googletest]] [[tencent-browserskill]]
+[[supabase-supabase]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[fmtlib-fmt]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[web]]
 

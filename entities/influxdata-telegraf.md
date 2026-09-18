@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[cilium-cilium]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[calesthio-openmontage]] [[tencent-weknora]]
+[[snailsploit-claude-red]] [[asciimoo-hister]] [[supabase-supabase]] [[supermemoryai-supermemory]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

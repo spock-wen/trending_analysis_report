@@ -36,7 +36,7 @@ A visual, example-driven guide to Claude Code — from basic concepts to advance
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[snailsploit-claude-red]]
+[[snailsploit-claude-red]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[tencentcloud-octop]]
 
 **所属领域**: [[ai-agent]]
 

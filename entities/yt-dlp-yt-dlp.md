@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[debpalash-voicestudio]] [[abue-ammar-tinycast]] [[anthropics-knowledge-work-plugins]] [[cline-cline]]
+[[snailsploit-claude-red]] [[abue-ammar-tinycast]] [[multimodal-art-projection-yue]] [[cline-cline]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[cli]] [[audio]]
 

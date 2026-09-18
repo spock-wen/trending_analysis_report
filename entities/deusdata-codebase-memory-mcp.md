@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[justvugg-colibri]] [[calesthio-openmontage]] [[anthropics-knowledge-work-plugins]]
+[[snailsploit-claude-red]] [[supabase-supabase]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

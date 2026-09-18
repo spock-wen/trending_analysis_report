@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[ever-co-ever-gauzy]]
+[[abue-ammar-tinycast]] [[alsk1992-cloddsbot]] [[danny-avila-librechat]] [[basecamp-omarchy]] [[melgarafael-deskcommcrm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

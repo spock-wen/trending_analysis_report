@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[cilium-cilium]] [[tencent-weknora]] [[peetzweg-opendisplay]] [[ruvnet-ruview]] [[coder-coder]]
+[[asciimoo-hister]] [[peetzweg-opendisplay]] [[ruvnet-ruflo]] [[alibaba-open-code-review]] [[ruvnet-ruview]]
 
 **所属领域**: [[devops]]
 

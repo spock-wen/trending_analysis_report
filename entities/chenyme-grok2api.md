@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[cilium-cilium]] [[abue-ammar-tinycast]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[tencent-weknora]]
+[[abue-ammar-tinycast]] [[asciimoo-hister]] [[supabase-supabase]] [[cline-cline]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[web]] [[cli]]
 

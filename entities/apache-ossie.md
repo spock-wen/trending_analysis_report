@@ -35,7 +35,7 @@ Apache Ossie, industry wide specification effort to standardize how we exchange 
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[calesthio-openmontage]] [[anthropics-knowledge-work-plugins]]
+[[snailsploit-claude-red]] [[supabase-supabase]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

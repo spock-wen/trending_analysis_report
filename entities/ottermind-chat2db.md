@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[calesthio-openmontage]]
+[[snailsploit-claude-red]] [[abue-ammar-tinycast]] [[supabase-supabase]] [[google-guava]] [[cline-cline]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[ankitects-anki]] [[abue-ammar-tinycast]] [[pacifio-atlas]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]]
+[[abue-ammar-tinycast]] [[supabase-supabase]] [[ankitects-anki]] [[cline-cline]] [[rustfs-rustfs]]
 
 **所属领域**: [[web]] [[cli]]
 

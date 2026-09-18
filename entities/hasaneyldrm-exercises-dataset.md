@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[trycua-cua]] [[affaan-m-ecc]] [[ripienaar-free-for-dev]] [[calesthio-openmontage]]
+[[snailsploit-claude-red]] [[supabase-supabase]] [[ripienaar-free-for-dev]] [[supermemoryai-supermemory]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[calesthio-openmontage]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[anthropics-knowledge-work-plugins]]
+[[snailsploit-claude-red]] [[supabase-supabase]] [[ever-co-ever-gauzy]] [[alibaba-open-code-review]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[web]] [[data]]
 

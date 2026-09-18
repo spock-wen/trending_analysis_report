@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[melgarafael-deskcommcrm]] [[jamiepine-voicebox]] [[alsk1992-cloddsbot]] [[n8n-io-n8n]]
+[[supabase-supabase]] [[danny-avila-librechat]] [[melgarafael-deskcommcrm]] [[alsk1992-cloddsbot]] [[supermemoryai-supermemory]]
 
 **所属领域**: [[erp]]
 

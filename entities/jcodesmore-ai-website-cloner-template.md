@@ -38,7 +38,7 @@ Clone any website with one command using AI coding agents
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]]
+[[abue-ammar-tinycast]] [[supabase-supabase]] [[cline-cline]] [[supermemoryai-supermemory]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

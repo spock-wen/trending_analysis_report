@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[trycua-cua]] [[ripienaar-free-for-dev]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[cathrynlavery-diagram-design]]
+[[supabase-supabase]] [[ripienaar-free-for-dev]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[tencent-browserskill]]
 
 **所属领域**: [[web]]
 

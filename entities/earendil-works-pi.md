@@ -16,7 +16,6 @@ last_trending: 2026-09-16
 peak_rank: 6
 total_stars: 105666
 language: "TypeScript"
-contested: true
 ---
 
 # earendil-works/pi
@@ -37,17 +36,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[ever-co-ever-gauzy]] [[anthropics-knowledge-work-plugins]]
+[[abue-ammar-tinycast]] [[supabase-supabase]] [[cline-cline]] [[supermemoryai-supermemory]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
-
-
-## ⚠️ 描述变更（2026-09-16）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-- **新描述**: AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

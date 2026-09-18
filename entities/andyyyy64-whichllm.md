@@ -35,7 +35,7 @@ Find the local LLM that actually runs and performs best on your hardware. Ranked
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[anthropics-knowledge-work-plugins]]
+[[snailsploit-claude-red]] [[abue-ammar-tinycast]] [[cline-cline]] [[supermemoryai-supermemory]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

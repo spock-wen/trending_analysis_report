@@ -35,7 +35,7 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[ever-co-ever-gauzy]] [[anthropics-knowledge-work-plugins]] [[jamiepine-voicebox]]
+[[supabase-supabase]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[fission-ai-openspec]]
 
 **所属领域**: [[ai-agent]]
 

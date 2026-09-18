@@ -1,0 +1,161 @@
+{
+  "date": "2026-09-19",
+  "scraped_at": "2026-09-19T07:00:57.006900",
+  "period": "daily",
+  "count": 17,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars_today": 3019,
+      "total_stars": 13534,
+      "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+      "rank": 2,
+      "repo": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars_today": 442,
+      "total_stars": 146267,
+      "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+      "rank": 3,
+      "repo": "alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_today": 2724,
+      "total_stars": 36612,
+      "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+      "rank": 4,
+      "repo": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": 965,
+      "total_stars": 262016,
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "rank": 5,
+      "repo": "Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "language": "TypeScript",
+      "stars_today": 1319,
+      "total_stars": 5254,
+      "url": "https://github.com/Tencent/BrowserSkill"
+    },
+    {
+      "rank": 6,
+      "repo": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": 677,
+      "total_stars": 96375,
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "rank": 7,
+      "repo": "TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "language": "Python",
+      "stars_today": 571,
+      "total_stars": 3937,
+      "url": "https://github.com/TencentCloud/Octop"
+    },
+    {
+      "rank": 8,
+      "repo": "Fission-AI/OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "language": "TypeScript",
+      "stars_today": 298,
+      "total_stars": 69318,
+      "url": "https://github.com/Fission-AI/OpenSpec"
+    },
+    {
+      "rank": 9,
+      "repo": "ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "stars_today": 177,
+      "total_stars": 31196,
+      "url": "https://github.com/ankitects/anki"
+    },
+    {
+      "rank": 10,
+      "repo": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars_today": 300,
+      "total_stars": 24863,
+      "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+      "rank": 11,
+      "repo": "supermemoryai/supermemory",
+      "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "stars_today": 140,
+      "total_stars": 30247,
+      "url": "https://github.com/supermemoryai/supermemory"
+    },
+    {
+      "rank": 12,
+      "repo": "tradesdontlie/tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "language": "JavaScript",
+      "stars_today": 64,
+      "total_stars": 6452,
+      "url": "https://github.com/tradesdontlie/tradingview-mcp"
+    },
+    {
+      "rank": 13,
+      "repo": "rustfs/rustfs",
+      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "language": "Rust",
+      "stars_today": 298,
+      "total_stars": 33138,
+      "url": "https://github.com/rustfs/rustfs"
+    },
+    {
+      "rank": 14,
+      "repo": "supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars_today": 128,
+      "total_stars": 110132,
+      "url": "https://github.com/supabase/supabase"
+    },
+    {
+      "rank": 15,
+      "repo": "coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars_today": 478,
+      "total_stars": 15265,
+      "url": "https://github.com/coder/coder"
+    },
+    {
+      "rank": 16,
+      "repo": "ahmedkhaleel2004/gitdiagram",
+      "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+      "language": "TypeScript",
+      "stars_today": 145,
+      "total_stars": 16446,
+      "url": "https://github.com/ahmedkhaleel2004/gitdiagram"
+    },
+    {
+      "rank": 17,
+      "repo": "asciimoo/hister",
+      "description": "Your own search engine",
+      "language": "Go",
+      "stars_today": 842,
+      "total_stars": 4942,
+      "url": "https://github.com/asciimoo/hister"
+    }
+  ]
+}

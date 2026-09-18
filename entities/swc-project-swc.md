@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[ankitects-anki]] [[pacifio-atlas]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[tencent-browserskill]]
+[[supabase-supabase]] [[ankitects-anki]] [[rustfs-rustfs]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]]
 

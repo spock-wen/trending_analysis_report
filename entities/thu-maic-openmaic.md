@@ -38,7 +38,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[ever-co-ever-gauzy]] [[crosstalk-solutions-project-nomad]]
+[[abue-ammar-tinycast]] [[supabase-supabase]] [[huggingface-transformers]] [[cline-cline]] [[supermemoryai-supermemory]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

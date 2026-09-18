@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[ever-co-ever-gauzy]] [[cline-cline]] [[tencent-browserskill]] [[jamiepine-voicebox]]
+[[abue-ammar-tinycast]] [[supabase-supabase]] [[cline-cline]] [[supermemoryai-supermemory]] [[fission-ai-openspec]]
 
 **所属领域**: [[cli]]
 

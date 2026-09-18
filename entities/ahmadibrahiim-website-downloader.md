@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[trycua-cua]] [[freestylefly-awesome-gpt-image-2]] [[ripienaar-free-for-dev]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]]
+[[supabase-supabase]] [[multimodal-art-projection-yue]] [[ripienaar-free-for-dev]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]] [[image-gen]]
 

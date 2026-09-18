@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[cilium-cilium]] [[affaan-m-ecc]] [[justvugg-colibri]] [[opa334-dopamine]] [[antirez-ds4]]
+[[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[cilium-cilium]] [[antirez-ds4]] [[opa334-dopamine]]
 
 **所属领域**: [[security]]
 

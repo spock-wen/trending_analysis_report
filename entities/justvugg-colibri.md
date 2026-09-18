@@ -38,5 +38,5 @@ Run frontier MoE models on hardware you already own — pure C, zero deps, exper
 
 ## 相关项目
 
-[[opa334-dopamine]] [[antirez-ds4]] [[armory3d-armorpaint]]
+[[opa334-dopamine]] [[armory3d-armorpaint]] [[antirez-ds4]]
 

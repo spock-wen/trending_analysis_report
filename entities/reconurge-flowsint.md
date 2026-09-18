@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[cilium-cilium]] [[affaan-m-ecc]] [[ever-co-ever-gauzy]] [[jamiepine-voicebox]] [[n8n-io-n8n]]
+[[supabase-supabase]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[fission-ai-openspec]]
 
 **所属领域**: [[security]]
 

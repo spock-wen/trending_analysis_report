@@ -36,5 +36,5 @@ Curated list of the best free apps for PC and mobile
 
 ## 相关项目
 
-[[bilawalsidhu-gods-eye-view]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]]
+[[tradesdontlie-tradingview-mcp]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[addyosmani-agent-skills]]
 

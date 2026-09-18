@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[crosstalk-solutions-project-nomad]] [[anthropics-knowledge-work-plugins]]
+[[snailsploit-claude-red]] [[huggingface-transformers]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[education]] [[science]]
 

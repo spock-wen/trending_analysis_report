@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[debpalash-voicestudio]] [[crosstalk-solutions-project-nomad]]
+[[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

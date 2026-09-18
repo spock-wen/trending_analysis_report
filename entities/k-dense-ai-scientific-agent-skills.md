@@ -38,7 +38,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[calesthio-openmontage]] [[tauricresearch-tradingagents]]
+[[snailsploit-claude-red]] [[supabase-supabase]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

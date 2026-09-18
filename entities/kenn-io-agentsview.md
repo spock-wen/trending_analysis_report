@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[cilium-cilium]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[calesthio-openmontage]] [[tencent-weknora]]
+[[snailsploit-claude-red]] [[asciimoo-hister]] [[supabase-supabase]] [[supermemoryai-supermemory]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[obra-superpowers]]
+[[obra-superpowers]] [[abue-ammar-tinycast]] [[basecamp-omarchy]] [[cline-cline]] [[supermemoryai-supermemory]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

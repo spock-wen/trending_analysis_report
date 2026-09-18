@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[lakr233-vphone-cli]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[debpalash-voicestudio]] [[abue-ammar-tinycast]]
+[[abue-ammar-tinycast]] [[supabase-supabase]] [[multimodal-art-projection-yue]] [[peetzweg-opendisplay]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

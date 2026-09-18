@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[cline-cline]] [[tencent-browserskill]]
+[[abue-ammar-tinycast]] [[supabase-supabase]] [[cline-cline]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]] [[cli]]
 

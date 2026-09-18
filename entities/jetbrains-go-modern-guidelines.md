@@ -36,7 +36,7 @@ Help AI coding agents write modern Go
 
 ## 相关项目
 
-[[cilium-cilium]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[tencent-weknora]] [[anthropics-knowledge-work-plugins]]
+[[asciimoo-hister]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[alibaba-open-code-review]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

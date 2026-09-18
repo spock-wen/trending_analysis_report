@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[microsoft-generative-ai-for-beginners]]
+[[microsoft-ai-for-beginners]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[lyogavin-airllm]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

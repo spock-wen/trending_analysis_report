@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[freestylefly-awesome-gpt-image-2]] [[multimodal-art-projection-yue]] [[anthropics-knowledge-work-plugins]] [[vercel-labs-portless]]
+[[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[anthropics-knowledge-work-plugins]] [[tencentcloud-octop]] [[roboflow-supervision]]
 
 **所属领域**: [[image-gen]]
 

@@ -38,7 +38,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[addyosmani-agent-skills]] [[cilium-cilium]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]]
+[[snailsploit-claude-red]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[peetzweg-opendisplay]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

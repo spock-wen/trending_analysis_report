@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[debpalash-voicestudio]] [[anthropics-knowledge-work-plugins]] [[fmtlib-fmt]]
+[[multimodal-art-projection-yue]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[debpalash-voicestudio]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

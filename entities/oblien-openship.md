@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[cilium-cilium]] [[ever-co-ever-gauzy]] [[jamiepine-voicebox]] [[n8n-io-n8n]] [[ruvnet-ruview]]
+[[supabase-supabase]] [[supermemoryai-supermemory]] [[peetzweg-opendisplay]] [[ruvnet-ruflo]] [[ruvnet-ruview]]
 
 **所属领域**: [[devops]]
 

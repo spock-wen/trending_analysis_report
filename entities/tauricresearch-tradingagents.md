@@ -38,7 +38,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[mg1937-asc]]
+[[snailsploit-claude-red]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[tencentcloud-octop]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[tencent-browserskill]] [[abue-ammar-tinycast]] [[anthropics-claude-code]] [[cline-cline]]
+[[abue-ammar-tinycast]] [[tencent-browserskill]] [[anthropics-claude-code]] [[cline-cline]]
 
 **所属领域**: [[cli]]
 

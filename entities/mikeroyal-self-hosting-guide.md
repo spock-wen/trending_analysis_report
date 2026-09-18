@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[anthropics-knowledge-work-plugins]]
+[[supabase-supabase]] [[huggingface-transformers]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

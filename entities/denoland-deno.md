@@ -34,5 +34,5 @@ A modern runtime for JavaScript and TypeScript.
 
 ## 相关项目
 
-[[ankitects-anki]] [[pacifio-atlas]] [[tonhowtf-omniget]] [[alphaxiv-openresearch]]
+[[pacifio-atlas]] [[rustfs-rustfs]] [[ankitects-anki]] [[alphaxiv-openresearch]]
 

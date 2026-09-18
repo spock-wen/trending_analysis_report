@@ -34,7 +34,7 @@ Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB lapto
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[snailsploit-claude-red]]
+[[snailsploit-claude-red]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[tencentcloud-octop]]
 
 **所属领域**: [[ai-agent]]
 

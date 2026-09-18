@@ -34,5 +34,5 @@ language: "Swift"
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[peetzweg-opendisplay]] [[lakr233-vphone-cli]] [[homebrew-brewui]]
+[[lakr233-vphone-cli]] [[abue-ammar-tinycast]] [[peetzweg-opendisplay]] [[homebrew-brewui]]
 

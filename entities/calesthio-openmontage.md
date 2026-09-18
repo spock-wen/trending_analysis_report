@@ -38,7 +38,7 @@ World's first open-source, agentic video production system. 12 production pipeli
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[snailsploit-claude-red]]
+[[snailsploit-claude-red]] [[supabase-supabase]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

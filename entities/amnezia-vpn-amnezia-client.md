@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[cilium-cilium]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[cline-cline]] [[fmtlib-fmt]]
+[[abue-ammar-tinycast]] [[cline-cline]] [[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[cilium-cilium]]
 
 **所属领域**: [[cli]] [[security]]
 

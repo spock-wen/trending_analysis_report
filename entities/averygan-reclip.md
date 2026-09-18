@@ -35,7 +35,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[trycua-cua]] [[ripienaar-free-for-dev]] [[abue-ammar-tinycast]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]]
+[[abue-ammar-tinycast]] [[supabase-supabase]] [[cline-cline]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]] [[cli]]
 

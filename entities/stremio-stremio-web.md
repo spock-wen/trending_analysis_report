@@ -34,7 +34,7 @@ Stremio - Freedom to Stream
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[tencent-browserskill]]
+[[tradesdontlie-tradingview-mcp]] [[supabase-supabase]] [[affaan-m-ecc]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]]
 

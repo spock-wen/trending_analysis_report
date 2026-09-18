@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[cilium-cilium]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[tauricresearch-tradingagents]]
+[[abue-ammar-tinycast]] [[cline-cline]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

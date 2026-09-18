@@ -38,5 +38,5 @@ Fully automatic censorship removal for language models
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[tencentcloud-octop]] [[anthropics-knowledge-work-plugins]] [[roboflow-supervision]]
+[[snailsploit-claude-red]] [[tencentcloud-octop]] [[roboflow-supervision]] [[anthropics-knowledge-work-plugins]]
 

@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[calesthio-openmontage]] [[anthropics-knowledge-work-plugins]]
+[[snailsploit-claude-red]] [[supabase-supabase]] [[google-guava]] [[supermemoryai-supermemory]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -34,7 +34,7 @@ DevOps Interview Guide
 
 ## 相关项目
 
-[[peetzweg-opendisplay]] [[ruvnet-ruflo]] [[cilium-cilium]] [[ruvnet-ruview]]
+[[peetzweg-opendisplay]] [[cilium-cilium]] [[ruvnet-ruflo]] [[ruvnet-ruview]]
 
 **所属领域**: [[devops]]
 

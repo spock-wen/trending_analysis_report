@@ -34,7 +34,7 @@ Claude Code toolkit - agents, commands, skills, rules, and hooks for productive 
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[bilawalsidhu-gods-eye-view]] [[anthropics-knowledge-work-plugins]]
+[[tradesdontlie-tradingview-mcp]] [[abue-ammar-tinycast]] [[cline-cline]] [[supermemoryai-supermemory]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

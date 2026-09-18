@@ -35,7 +35,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[trycua-cua]] [[affaan-m-ecc]] [[ripienaar-free-for-dev]] [[ever-co-ever-gauzy]]
+[[supabase-supabase]] [[ripienaar-free-for-dev]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

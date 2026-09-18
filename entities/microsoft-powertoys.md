@@ -38,5 +38,5 @@ Microsoft PowerToys is a collection of utilities that supercharge productivity a
 
 ## 相关项目
 
-[[justvugg-colibri]] [[opa334-dopamine]] [[antirez-ds4]] [[armory3d-armorpaint]]
+[[opa334-dopamine]] [[justvugg-colibri]] [[armory3d-armorpaint]] [[antirez-ds4]]
 

@@ -36,7 +36,7 @@ RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine tha
 
 ## 相关项目
 
-[[cilium-cilium]] [[addyosmani-agent-skills]] [[freestylefly-awesome-gpt-image-2]] [[affaan-m-ecc]] [[tencent-weknora]]
+[[asciimoo-hister]] [[multimodal-art-projection-yue]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[crosstalk-solutions-project-nomad]] [[huggingface-transformers]] [[thu-maic-openmaic]] [[tonhowtf-omniget]]
+[[supabase-supabase]] [[huggingface-transformers]] [[supermemoryai-supermemory]] [[fission-ai-openspec]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[education]]
 

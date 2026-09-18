@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[cilium-cilium]] [[abue-ammar-tinycast]] [[tencent-weknora]] [[cline-cline]] [[tencent-browserskill]]
+[[abue-ammar-tinycast]] [[asciimoo-hister]] [[cline-cline]] [[alibaba-open-code-review]] [[tencent-weknora]]
 
 **所属领域**: [[cli]]
 

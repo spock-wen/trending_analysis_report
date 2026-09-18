@@ -34,7 +34,7 @@ Agent-driven research knowledge base. Agents collect, search, and synthesize web
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[ever-co-ever-gauzy]]
+[[snailsploit-claude-red]] [[supabase-supabase]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

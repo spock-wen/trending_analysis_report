@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[debpalash-voicestudio]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]]
+[[supabase-supabase]] [[multimodal-art-projection-yue]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

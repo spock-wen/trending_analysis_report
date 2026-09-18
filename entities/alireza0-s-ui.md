@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[cilium-cilium]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[tencent-weknora]] [[tencent-browserskill]]
+[[asciimoo-hister]] [[supabase-supabase]] [[ever-co-ever-gauzy]] [[alibaba-open-code-review]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]]
 

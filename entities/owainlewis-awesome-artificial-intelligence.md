@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[crosstalk-solutions-project-nomad]] [[anthropics-knowledge-work-plugins]]
+[[huggingface-transformers]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

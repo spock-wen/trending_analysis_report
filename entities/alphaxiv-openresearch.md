@@ -16,7 +16,6 @@ last_trending: 2026-09-18
 peak_rank: 5
 total_stars: 4915
 language: "Rust"
-contested: true
 ---
 
 # alphaXiv/OpenResearch
@@ -39,17 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[ankitects-anki]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[pacifio-atlas]]
+[[ankitects-anki]] [[supermemoryai-supermemory]] [[rustfs-rustfs]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[science]]
-
-
-## ⚠️ 描述变更（2026-09-16）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: Run parallel research agents with any model
-- **新描述**: Turn your coding agents into research agents
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

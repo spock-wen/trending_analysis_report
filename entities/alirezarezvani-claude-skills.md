@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[tauricresearch-tradingagents]]
+[[snailsploit-claude-red]] [[abue-ammar-tinycast]] [[alsk1992-cloddsbot]] [[danny-avila-librechat]] [[melgarafael-deskcommcrm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

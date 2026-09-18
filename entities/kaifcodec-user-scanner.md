@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[tencentcloud-octop]] [[addyosmani-agent-skills]] [[cilium-cilium]] [[affaan-m-ecc]]
+[[snailsploit-claude-red]] [[supabase-supabase]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

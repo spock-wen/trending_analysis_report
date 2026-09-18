@@ -36,7 +36,7 @@ Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli
 
 ## 相关项目
 
-[[cilium-cilium]] [[affaan-m-ecc]] [[tencent-weknora]] [[coder-coder]] [[alibaba-open-code-review]]
+[[asciimoo-hister]] [[affaan-m-ecc]] [[alibaba-open-code-review]] [[nationalsecurityagency-ghidra]] [[cilium-cilium]]
 
 **所属领域**: [[security]]
 

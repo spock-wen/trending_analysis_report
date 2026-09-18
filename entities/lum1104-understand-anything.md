@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[ever-co-ever-gauzy]] [[crosstalk-solutions-project-nomad]]
+[[abue-ammar-tinycast]] [[supabase-supabase]] [[huggingface-transformers]] [[cline-cline]] [[supermemoryai-supermemory]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

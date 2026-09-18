@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[trycua-cua]] [[affaan-m-ecc]] [[ripienaar-free-for-dev]] [[tauricresearch-tradingagents]]
+[[supabase-supabase]] [[ripienaar-free-for-dev]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

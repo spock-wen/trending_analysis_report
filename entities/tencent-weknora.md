@@ -35,7 +35,7 @@ Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an 
 
 ## 相关项目
 
-[[cilium-cilium]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[coder-coder]]
+[[asciimoo-hister]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[alibaba-open-code-review]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

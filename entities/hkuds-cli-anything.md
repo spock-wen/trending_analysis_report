@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[ever-co-ever-gauzy]]
+[[snailsploit-claude-red]] [[abue-ammar-tinycast]] [[supabase-supabase]] [[cline-cline]] [[supermemoryai-supermemory]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

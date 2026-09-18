@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[ankitects-anki]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[abue-ammar-tinycast]] [[pacifio-atlas]]
+[[abue-ammar-tinycast]] [[ankitects-anki]] [[cline-cline]] [[supermemoryai-supermemory]] [[rustfs-rustfs]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

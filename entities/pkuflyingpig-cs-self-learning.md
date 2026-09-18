@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[trycua-cua]] [[ripienaar-free-for-dev]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[crosstalk-solutions-project-nomad]]
+[[supabase-supabase]] [[huggingface-transformers]] [[ripienaar-free-for-dev]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]] [[education]]
 

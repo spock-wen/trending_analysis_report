@@ -38,7 +38,7 @@ Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your 
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[debpalash-voicestudio]] [[abue-ammar-tinycast]]
+[[snailsploit-claude-red]] [[abue-ammar-tinycast]] [[multimodal-art-projection-yue]] [[cline-cline]] [[supermemoryai-supermemory]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

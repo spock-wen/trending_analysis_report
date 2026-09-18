@@ -37,7 +37,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[anthropics-knowledge-work-plugins]] [[tencent-browserskill]]
+[[snailsploit-claude-red]] [[supabase-supabase]] [[ever-co-ever-gauzy]] [[anthropics-knowledge-work-plugins]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]]
 

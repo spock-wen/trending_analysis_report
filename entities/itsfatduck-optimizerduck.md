@@ -34,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[cilium-cilium]] [[affaan-m-ecc]] [[k1tbyte-wand-enhancer]] [[jellyfin-jellyfin]] [[dotnet-aspnetcore]]
+[[k1tbyte-wand-enhancer]] [[dotnet-aspnetcore]] [[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[jellyfin-jellyfin]]
 
 **所属领域**: [[security]]
 

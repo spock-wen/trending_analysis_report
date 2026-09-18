@@ -35,7 +35,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[crosstalk-solutions-project-nomad]] [[anthropics-knowledge-work-plugins]] [[huggingface-transformers]] [[thu-maic-openmaic]]
+[[snailsploit-claude-red]] [[huggingface-transformers]] [[anthropics-knowledge-work-plugins]] [[crosstalk-solutions-project-nomad]] [[tencentcloud-octop]]
 
 **所属领域**: [[education]]
 

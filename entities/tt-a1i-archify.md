@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[calesthio-openmontage]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]]
+[[tradesdontlie-tradingview-mcp]] [[snailsploit-claude-red]] [[supabase-supabase]] [[supermemoryai-supermemory]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

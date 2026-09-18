@@ -1,7 +1,7 @@
 ---
 title: "TypeScript Ecosystem Surge"
 created: 2026-06-08
-updated: 2026-09-18
+updated: 2026-09-19
 type: concept
 tags: [typescript, surge]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 信号概述
 
-2026-09-18 检测到 TypeScript 领域有 6 个项目同时上榜，表明该语言生态近期活跃度显著上升。
+2026-09-19 检测到 TypeScript 领域有 6 个项目同时上榜，表明该语言生态近期活跃度显著上升。
 
 ## 上榜项目（6 个）
 
-[[tencent-browserskill]] [[anthropics-claude-code]] [[jamiepine-voicebox]] [[ever-co-ever-gauzy]] [[cline-cline]] [[n8n-io-n8n]]
+[[anthropics-claude-code]] [[tencent-browserskill]] [[fission-ai-openspec]] [[supermemoryai-supermemory]] [[supabase-supabase]] [[ahmedkhaleel2004-gitdiagram]]
 
 ## 语言分布
 

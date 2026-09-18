@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[ever-co-ever-gauzy]] [[anthropics-knowledge-work-plugins]]
+[[supabase-supabase]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

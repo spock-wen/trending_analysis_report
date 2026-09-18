@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[ankitects-anki]] [[cilium-cilium]] [[pacifio-atlas]] [[tonhowtf-omniget]] [[alphaxiv-openresearch]]
+[[ankitects-anki]] [[peetzweg-opendisplay]] [[rustfs-rustfs]] [[ruvnet-ruflo]] [[cilium-cilium]]
 
 **所属领域**: [[devops]]
 

@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[tencentcloud-octop]] [[cilium-cilium]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]]
+[[snailsploit-claude-red]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[nationalsecurityagency-ghidra]] [[cilium-cilium]]
 
 **所属领域**: [[security]]
 

@@ -34,5 +34,5 @@ A list of developer portfolios for your inspiration
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[tencentcloud-octop]] [[anthropics-knowledge-work-plugins]] [[roboflow-supervision]]
+[[snailsploit-claude-red]] [[tencentcloud-octop]] [[roboflow-supervision]] [[anthropics-knowledge-work-plugins]]
 

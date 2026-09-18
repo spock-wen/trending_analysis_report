@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[tencent-browserskill]] [[snailsploit-claude-red]]
+[[snailsploit-claude-red]] [[supabase-supabase]] [[supermemoryai-supermemory]] [[ever-co-ever-gauzy]] [[alibaba-open-code-review]]
 
 **所属领域**: [[web]] [[data]]
 

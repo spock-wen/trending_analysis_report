@@ -35,7 +35,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[freestylefly-awesome-gpt-image-2]] [[affaan-m-ecc]] [[ripienaar-free-for-dev]] [[calesthio-openmontage]]
+[[snailsploit-claude-red]] [[supabase-supabase]] [[vercel-labs-portless]] [[multimodal-art-projection-yue]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

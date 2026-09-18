@@ -35,7 +35,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[addyosmani-agent-skills]] [[anthropics-knowledge-work-plugins]] [[affaan-m-ecc]]
+[[supermemoryai-supermemory]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

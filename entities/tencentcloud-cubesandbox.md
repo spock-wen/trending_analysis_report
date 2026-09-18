@@ -37,7 +37,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ## 相关项目
 
-[[ankitects-anki]] [[addyosmani-agent-skills]] [[affaan-m-ecc]] [[pacifio-atlas]] [[anthropics-knowledge-work-plugins]]
+[[ankitects-anki]] [[supermemoryai-supermemory]] [[rustfs-rustfs]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

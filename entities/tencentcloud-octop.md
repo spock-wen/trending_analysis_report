@@ -35,7 +35,7 @@ A smarter, self-hosted AI assistant — multi-user, multi-agent.
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[roboflow-supervision]]
+[[open-dev-society-openstock]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

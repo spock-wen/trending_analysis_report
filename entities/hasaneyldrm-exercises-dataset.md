@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[supabase-supabase]] [[ripienaar-free-for-dev]] [[supermemoryai-supermemory]] [[affaan-m-ecc]]
+[[open-dev-society-openstock]] [[supabase-supabase]] [[cathrynlavery-diagram-design]] [[cloudflare-quiche]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

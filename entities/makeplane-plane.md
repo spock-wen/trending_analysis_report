@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[supabase-supabase]] [[cline-cline]] [[supermemoryai-supermemory]] [[fission-ai-openspec]]
+[[open-dev-society-openstock]] [[zuodaotech-everyone-can-use-english]] [[docling-project-docling]] [[anthropics-claude-code]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[cli]]
 

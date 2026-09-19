@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[peetzweg-opendisplay]] [[affaan-m-ecc]] [[supermemoryai-supermemory]] [[anthropics-knowledge-work-plugins]]
+[[open-dev-society-openstock]] [[anthropics-knowledge-work-plugins]] [[abue-ammar-tinycast]] [[homebrew-brewui]] [[peetzweg-opendisplay]]
 
 **所属领域**: [[ai-agent]]
 

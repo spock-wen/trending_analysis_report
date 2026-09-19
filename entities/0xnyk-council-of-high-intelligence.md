@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[obra-superpowers]] [[abue-ammar-tinycast]] [[basecamp-omarchy]] [[cline-cline]] [[supermemoryai-supermemory]]
+[[open-dev-society-openstock]] [[mattpocock-skills]] [[basecamp-omarchy]] [[anthropics-knowledge-work-plugins]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

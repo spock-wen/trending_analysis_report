@@ -36,7 +36,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[cline-cline]] [[peetzweg-opendisplay]] [[affaan-m-ecc]] [[supermemoryai-supermemory]]
+[[open-dev-society-openstock]] [[anthropics-knowledge-work-plugins]] [[abue-ammar-tinycast]] [[docling-project-docling]] [[homebrew-brewui]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

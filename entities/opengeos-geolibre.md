@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[supabase-supabase]] [[supermemoryai-supermemory]] [[ever-co-ever-gauzy]] [[alibaba-open-code-review]]
+[[open-dev-society-openstock]] [[supabase-supabase]] [[cloudflare-quiche]] [[snailsploit-claude-red]] [[zuodaotech-everyone-can-use-english]]
 
 **所属领域**: [[web]] [[data]]
 

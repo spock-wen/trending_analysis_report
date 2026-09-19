@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[supabase-supabase]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[fission-ai-openspec]]
+[[open-dev-society-openstock]] [[zuodaotech-everyone-can-use-english]] [[cilium-cilium]] [[anthropics-claude-code]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[security]]
 

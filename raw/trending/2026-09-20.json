@@ -1,0 +1,143 @@
+{
+  "date": "2026-09-20",
+  "scraped_at": "2026-09-20T07:01:12.934762",
+  "period": "daily",
+  "count": 15,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars_today": 3162,
+      "total_stars": 16214,
+      "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+      "rank": 2,
+      "repo": "trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "stars_today": 1124,
+      "total_stars": 24353,
+      "url": "https://github.com/trycua/cua"
+    },
+    {
+      "rank": 3,
+      "repo": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": 547,
+      "total_stars": 96988,
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "rank": 4,
+      "repo": "coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars_today": 406,
+      "total_stars": 15601,
+      "url": "https://github.com/coder/coder"
+    },
+    {
+      "rank": 5,
+      "repo": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars_today": 482,
+      "total_stars": 146689,
+      "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+      "rank": 6,
+      "repo": "Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "stars_today": 477,
+      "total_stars": 15997,
+      "url": "https://github.com/Open-Dev-Society/OpenStock"
+    },
+    {
+      "rank": 7,
+      "repo": "higgsfield-ai/higgsfield",
+      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "language": "Jupyter Notebook",
+      "stars_today": 314,
+      "total_stars": 4927,
+      "url": "https://github.com/higgsfield-ai/higgsfield"
+    },
+    {
+      "rank": 8,
+      "repo": "docling-project/docling",
+      "description": "Get your documents ready for gen AI",
+      "language": "Python",
+      "stars_today": 94,
+      "total_stars": 67011,
+      "url": "https://github.com/docling-project/docling"
+    },
+    {
+      "rank": 9,
+      "repo": "cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars_today": 84,
+      "total_stars": 12005,
+      "url": "https://github.com/cloudflare/quiche"
+    },
+    {
+      "rank": 10,
+      "repo": "asciimoo/hister",
+      "description": "Your own search engine",
+      "language": "Go",
+      "stars_today": 430,
+      "total_stars": 5213,
+      "url": "https://github.com/asciimoo/hister"
+    },
+    {
+      "rank": 11,
+      "repo": "ruanyf/weekly",
+      "description": "科技爱好者周刊，每周五发布",
+      "language": "",
+      "stars_today": 151,
+      "total_stars": 103106,
+      "url": "https://github.com/ruanyf/weekly"
+    },
+    {
+      "rank": 12,
+      "repo": "ZuodaoTech/everyone-can-use-english",
+      "description": "人人都能用英语",
+      "language": "TypeScript",
+      "stars_today": 31,
+      "total_stars": 37768,
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english"
+    },
+    {
+      "rank": 13,
+      "repo": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars_today": 280,
+      "total_stars": 25111,
+      "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+      "rank": 14,
+      "repo": "cactus-compute/needle",
+      "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+      "language": "Python",
+      "stars_today": 207,
+      "total_stars": 11585,
+      "url": "https://github.com/cactus-compute/needle"
+    },
+    {
+      "rank": 15,
+      "repo": "yynxxxxx/Codex-X",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "language": "Rust",
+      "stars_today": 59,
+      "total_stars": 3384,
+      "url": "https://github.com/yynxxxxx/Codex-X"
+    }
+  ]
+}

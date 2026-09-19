@@ -35,5 +35,5 @@ A fast, helpful, and open-source document parser
 
 ## 相关项目
 
-[[pacifio-atlas]] [[rustfs-rustfs]] [[ankitects-anki]] [[alphaxiv-openresearch]]
+[[rustfs-rustfs]] [[ankitects-anki]] [[yynxxxxx-codex-x]] [[cloudflare-quiche]]
 

@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[supabase-supabase]] [[supermemoryai-supermemory]] [[peetzweg-opendisplay]] [[ruvnet-ruflo]] [[ruvnet-ruview]]
+[[open-dev-society-openstock]] [[zuodaotech-everyone-can-use-english]] [[ruvnet-ruview]] [[peetzweg-opendisplay]] [[cilium-cilium]]
 
 **所属领域**: [[devops]]
 

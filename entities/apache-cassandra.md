@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[supabase-supabase]] [[google-guava]] [[peetzweg-opendisplay]] [[ruvnet-ruflo]]
+[[supabase-supabase]] [[trycua-cua]] [[ruvnet-ruview]] [[peetzweg-opendisplay]] [[cilium-cilium]]
 
 **所属领域**: [[data]] [[devops]]
 

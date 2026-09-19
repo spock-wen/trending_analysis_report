@@ -38,7 +38,7 @@ Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 
 
 ## 相关项目
 
-[[tradesdontlie-tradingview-mcp]] [[multimodal-art-projection-yue]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]]
+[[open-dev-society-openstock]] [[tradesdontlie-tradingview-mcp]] [[openbmb-voxcpm]] [[anthropics-knowledge-work-plugins]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

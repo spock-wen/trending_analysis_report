@@ -38,7 +38,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 ## 相关项目
 
-[[tradesdontlie-tradingview-mcp]] [[snailsploit-claude-red]] [[supabase-supabase]] [[supermemoryai-supermemory]] [[affaan-m-ecc]]
+[[open-dev-society-openstock]] [[tradesdontlie-tradingview-mcp]] [[supabase-supabase]] [[anthropics-knowledge-work-plugins]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

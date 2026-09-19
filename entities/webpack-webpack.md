@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[tradesdontlie-tradingview-mcp]] [[supabase-supabase]] [[multimodal-art-projection-yue]] [[affaan-m-ecc]] [[ever-co-ever-gauzy]]
+[[freestylefly-awesome-gpt-image-2]] [[tradesdontlie-tradingview-mcp]] [[supabase-supabase]] [[openbmb-voxcpm]] [[cloudflare-quiche]]
 
 **所属领域**: [[web]] [[image-gen]]
 

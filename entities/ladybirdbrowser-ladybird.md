@@ -35,7 +35,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[supabase-supabase]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[fmtlib-fmt]] [[protocolbuffers-protobuf]]
+[[microsoft-onnxruntime]] [[protocolbuffers-protobuf]] [[supabase-supabase]] [[fmtlib-fmt]] [[cloudflare-quiche]]
 
 **所属领域**: [[web]]
 

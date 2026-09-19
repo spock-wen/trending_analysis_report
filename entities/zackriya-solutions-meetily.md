@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[supabase-supabase]] [[ankitects-anki]] [[supermemoryai-supermemory]] [[rustfs-rustfs]]
+[[open-dev-society-openstock]] [[supabase-supabase]] [[cloudflare-quiche]] [[anthropics-knowledge-work-plugins]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

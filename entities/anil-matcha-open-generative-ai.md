@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[tradesdontlie-tradingview-mcp]] [[multimodal-art-projection-yue]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]]
+[[open-dev-society-openstock]] [[freestylefly-awesome-gpt-image-2]] [[tradesdontlie-tradingview-mcp]] [[openbmb-voxcpm]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

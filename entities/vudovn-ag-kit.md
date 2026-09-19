@@ -34,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[supermemoryai-supermemory]] [[fission-ai-openspec]] [[supabase-supabase]] [[anthropics-claude-code]]
+[[open-dev-society-openstock]] [[zuodaotech-everyone-can-use-english]] [[anthropics-claude-code]] [[supermemoryai-supermemory]]
 

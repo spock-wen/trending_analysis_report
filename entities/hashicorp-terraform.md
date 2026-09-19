@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[asciimoo-hister]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[peetzweg-opendisplay]] [[alibaba-open-code-review]]
+[[open-dev-society-openstock]] [[anthropics-knowledge-work-plugins]] [[ruvnet-ruview]] [[peetzweg-opendisplay]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

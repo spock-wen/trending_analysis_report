@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[supabase-supabase]] [[multimodal-art-projection-yue]] [[supermemoryai-supermemory]] [[alibaba-open-code-review]]
+[[open-dev-society-openstock]] [[freestylefly-awesome-gpt-image-2]] [[supabase-supabase]] [[openbmb-voxcpm]] [[snailsploit-claude-red]]
 
 **所属领域**: [[data]] [[image-gen]]
 

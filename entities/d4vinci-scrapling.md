@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[supabase-supabase]] [[ever-co-ever-gauzy]] [[anthropics-knowledge-work-plugins]] [[bilawalsidhu-gods-eye-view]]
+[[supabase-supabase]] [[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]]
 
 **所属领域**: [[web]]
 

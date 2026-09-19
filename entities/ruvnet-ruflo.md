@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[supabase-supabase]] [[huggingface-transformers]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[peetzweg-opendisplay]]
+[[open-dev-society-openstock]] [[anthropics-knowledge-work-plugins]] [[zuodaotech-everyone-can-use-english]] [[ruvnet-ruview]] [[peetzweg-opendisplay]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

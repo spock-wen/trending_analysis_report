@@ -36,7 +36,7 @@ Open Source AI trading agent that operates autonomously across 1000+ markets - P
 
 ## 相关项目
 
-[[supabase-supabase]] [[danny-avila-librechat]] [[melgarafael-deskcommcrm]] [[supermemoryai-supermemory]] [[affaan-m-ecc]]
+[[open-dev-society-openstock]] [[melgarafael-deskcommcrm]] [[anthropics-knowledge-work-plugins]] [[zuodaotech-everyone-can-use-english]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

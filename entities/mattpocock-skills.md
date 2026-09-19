@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[obra-superpowers]] [[abue-ammar-tinycast]] [[basecamp-omarchy]] [[cline-cline]] [[supermemoryai-supermemory]]
+[[open-dev-society-openstock]] [[basecamp-omarchy]] [[anthropics-knowledge-work-plugins]] [[obra-superpowers]] [[docling-project-docling]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

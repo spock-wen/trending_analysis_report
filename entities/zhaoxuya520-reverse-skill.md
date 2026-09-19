@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[cline-cline]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]]
+[[open-dev-society-openstock]] [[mg1937-asc]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]] [[raphire-win11debloat]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

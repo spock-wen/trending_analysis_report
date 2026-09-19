@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[abue-ammar-tinycast]] [[supabase-supabase]] [[google-guava]] [[cline-cline]]
+[[open-dev-society-openstock]] [[supabase-supabase]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

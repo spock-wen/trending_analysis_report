@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[supabase-supabase]] [[ripienaar-free-for-dev]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[ever-co-ever-gauzy]]
+[[open-dev-society-openstock]] [[supabase-supabase]] [[mg1937-asc]] [[cathrynlavery-diagram-design]] [[cloudflare-quiche]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[multimodal-art-projection-yue]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[debpalash-voicestudio]]
+[[open-dev-society-openstock]] [[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

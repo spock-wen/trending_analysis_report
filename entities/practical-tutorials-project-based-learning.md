@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[huggingface-transformers]] [[anthropics-knowledge-work-plugins]] [[crosstalk-solutions-project-nomad]] [[tencentcloud-octop]]
+[[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]] [[tonhowtf-omniget]]
 
 **所属领域**: [[education]]
 

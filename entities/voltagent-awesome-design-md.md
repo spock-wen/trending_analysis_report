@@ -35,7 +35,7 @@ A collection of DESIGN.md files analysis by popular brand design systems. Drop o
 
 ## 相关项目
 
-[[supermemoryai-supermemory]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[anthropics-claude-code]]
+[[open-dev-society-openstock]] [[addyosmani-agent-skills]] [[anthropics-claude-code]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

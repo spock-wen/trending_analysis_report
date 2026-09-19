@@ -36,7 +36,7 @@ A list of tools that are open-source, in-browser, and require no-signups!
 
 ## 相关项目
 
-[[supabase-supabase]] [[supermemoryai-supermemory]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[fission-ai-openspec]]
+[[open-dev-society-openstock]] [[supabase-supabase]] [[cloudflare-quiche]] [[zuodaotech-everyone-can-use-english]] [[trycua-cua]]
 
 **所属领域**: [[web]]
 

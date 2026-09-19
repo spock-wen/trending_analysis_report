@@ -37,7 +37,7 @@ YuE2: frontier music generation with symbolic planning, zero-shot covers, and ag
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[debpalash-voicestudio]] [[anthropics-knowledge-work-plugins]]
+[[open-dev-society-openstock]] [[freestylefly-awesome-gpt-image-2]] [[openbmb-voxcpm]] [[tencentcloud-octop]] [[cactus-compute-needle]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

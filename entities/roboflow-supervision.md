@@ -38,5 +38,5 @@ We write your reusable computer vision tools. 💜
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[tencentcloud-octop]] [[anthropics-knowledge-work-plugins]]
+[[docling-project-docling]] [[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]]
 

@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[alsk1992-cloddsbot]] [[danny-avila-librechat]] [[melgarafael-deskcommcrm]] [[ever-co-ever-gauzy]] [[fmtlib-fmt]]
+[[microsoft-onnxruntime]] [[protocolbuffers-protobuf]] [[melgarafael-deskcommcrm]] [[fmtlib-fmt]] [[google-googletest]]
 
 **所属领域**: [[erp]]
 

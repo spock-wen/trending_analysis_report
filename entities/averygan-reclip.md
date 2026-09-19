@@ -35,7 +35,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[supabase-supabase]] [[cline-cline]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]]
+[[supabase-supabase]] [[cathrynlavery-diagram-design]] [[cloudflare-quiche]] [[docling-project-docling]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[cli]]
 

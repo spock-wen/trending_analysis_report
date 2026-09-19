@@ -34,5 +34,5 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[tencentcloud-octop]] [[roboflow-supervision]] [[anthropics-knowledge-work-plugins]]
+[[docling-project-docling]] [[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]]
 

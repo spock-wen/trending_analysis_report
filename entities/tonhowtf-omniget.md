@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[ankitects-anki]] [[huggingface-transformers]] [[cline-cline]] [[multimodal-art-projection-yue]]
+[[cloudflare-quiche]] [[docling-project-docling]] [[jamiepine-voicebox]] [[debpalash-voicestudio]] [[anthropics-claude-code]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

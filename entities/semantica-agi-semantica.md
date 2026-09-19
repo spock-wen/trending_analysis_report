@@ -38,7 +38,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[peetzweg-opendisplay]] [[ruvnet-ruflo]]
+[[open-dev-society-openstock]] [[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

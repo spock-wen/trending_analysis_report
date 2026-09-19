@@ -34,7 +34,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[tradesdontlie-tradingview-mcp]] [[supabase-supabase]] [[affaan-m-ecc]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]]
+[[tradesdontlie-tradingview-mcp]] [[supabase-supabase]] [[cloudflare-quiche]] [[trycua-cua]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[web]]
 

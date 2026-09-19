@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[ankitects-anki]] [[cline-cline]] [[rustfs-rustfs]] [[tencent-browserskill]]
+[[cloudflare-quiche]] [[docling-project-docling]] [[anthropics-claude-code]] [[rustfs-rustfs]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[cli]]
 

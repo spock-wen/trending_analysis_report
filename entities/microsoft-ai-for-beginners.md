@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[anthropics-claude-cookbooks]] [[huggingface-transformers]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[lyogavin-airllm]]
+[[open-dev-society-openstock]] [[anthropics-knowledge-work-plugins]] [[addyosmani-agent-skills]] [[lyogavin-airllm]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

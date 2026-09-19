@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[asciimoo-hister]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[alibaba-open-code-review]] [[anthropics-knowledge-work-plugins]]
+[[open-dev-society-openstock]] [[anthropics-knowledge-work-plugins]] [[addyosmani-agent-skills]] [[asciimoo-hister]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

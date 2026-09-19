@@ -34,5 +34,5 @@ Free and Open Source Machine Translation API. Self-hosted, offline capable and e
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[tencentcloud-octop]] [[roboflow-supervision]] [[anthropics-knowledge-work-plugins]]
+[[docling-project-docling]] [[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]]
 

@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[nationalsecurityagency-ghidra]] [[cilium-cilium]]
+[[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]] [[cilium-cilium]]
 
 **所属领域**: [[security]]
 

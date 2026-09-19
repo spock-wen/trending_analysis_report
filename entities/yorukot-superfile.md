@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[asciimoo-hister]] [[cline-cline]] [[alibaba-open-code-review]] [[tencent-weknora]]
+[[docling-project-docling]] [[anthropics-claude-code]] [[asciimoo-hister]] [[coder-coder]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[cli]]
 

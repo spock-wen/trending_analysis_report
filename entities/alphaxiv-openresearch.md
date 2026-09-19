@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[ankitects-anki]] [[supermemoryai-supermemory]] [[rustfs-rustfs]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]]
+[[open-dev-society-openstock]] [[mg1937-asc]] [[cloudflare-quiche]] [[anthropics-knowledge-work-plugins]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

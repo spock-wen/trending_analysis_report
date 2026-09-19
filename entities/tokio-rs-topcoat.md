@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[supabase-supabase]] [[ankitects-anki]] [[rustfs-rustfs]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]]
+[[supabase-supabase]] [[cloudflare-quiche]] [[trycua-cua]] [[rustfs-rustfs]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[web]]
 

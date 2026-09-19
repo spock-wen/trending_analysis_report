@@ -35,5 +35,5 @@ Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[tencentcloud-octop]] [[roboflow-supervision]] [[anthropics-knowledge-work-plugins]]
+[[docling-project-docling]] [[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]]
 

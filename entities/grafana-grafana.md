@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[supabase-supabase]] [[supermemoryai-supermemory]] [[peetzweg-opendisplay]] [[ruvnet-ruflo]]
+[[open-dev-society-openstock]] [[supabase-supabase]] [[snailsploit-claude-red]] [[zuodaotech-everyone-can-use-english]] [[trycua-cua]]
 
 **所属领域**: [[data]] [[devops]]
 

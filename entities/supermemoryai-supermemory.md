@@ -16,7 +16,6 @@ last_trending: 2026-09-19
 peak_rank: 3
 total_stars: 30247
 language: "TypeScript"
-contested: true
 ---
 
 # supermemoryai/supermemory
@@ -39,17 +38,7 @@ Memory and context engine + app that is extremely fast, scalable, and can be run
 
 ## 相关项目
 
-[[supabase-supabase]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[fission-ai-openspec]] [[anthropics-claude-code]]
+[[open-dev-society-openstock]] [[anthropics-knowledge-work-plugins]] [[zuodaotech-everyone-can-use-english]] [[addyosmani-agent-skills]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]]
-
-
-## ⚠️ 描述变更（2026-09-19）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-- **新描述**: Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

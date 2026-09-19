@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[supabase-supabase]] [[multimodal-art-projection-yue]] [[ripienaar-free-for-dev]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]]
+[[freestylefly-awesome-gpt-image-2]] [[supabase-supabase]] [[openbmb-voxcpm]] [[cathrynlavery-diagram-design]] [[cloudflare-quiche]]
 
 **所属领域**: [[web]] [[image-gen]]
 

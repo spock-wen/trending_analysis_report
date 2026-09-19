@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[ankitects-anki]] [[peetzweg-opendisplay]] [[rustfs-rustfs]] [[ruvnet-ruflo]] [[cilium-cilium]]
+[[cloudflare-quiche]] [[peetzweg-opendisplay]] [[cilium-cilium]] [[rustfs-rustfs]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[devops]]
 

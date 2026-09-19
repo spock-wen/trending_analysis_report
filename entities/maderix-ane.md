@@ -34,7 +34,7 @@ Training neural networks on Apple Neural Engine via reverse-engineered private A
 
 ## 相关项目
 
-[[supermemoryai-supermemory]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[anthropics-claude-code]]
+[[open-dev-society-openstock]] [[addyosmani-agent-skills]] [[anthropics-claude-code]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

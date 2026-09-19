@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[tradesdontlie-tradingview-mcp]] [[supermemoryai-supermemory]] [[tauricresearch-tradingagents]] [[anthropics-knowledge-work-plugins]] [[nationalsecurityagency-ghidra]]
+[[open-dev-society-openstock]] [[tradesdontlie-tradingview-mcp]] [[mg1937-asc]] [[anthropics-knowledge-work-plugins]] [[alphaxiv-openresearch]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

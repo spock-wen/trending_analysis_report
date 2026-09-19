@@ -38,7 +38,7 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 
 ## 相关项目
 
-[[tradesdontlie-tradingview-mcp]] [[snailsploit-claude-red]] [[supabase-supabase]] [[affaan-m-ecc]] [[ever-co-ever-gauzy]]
+[[tradesdontlie-tradingview-mcp]] [[supabase-supabase]] [[cloudflare-quiche]] [[trycua-cua]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[web]] [[data]]
 

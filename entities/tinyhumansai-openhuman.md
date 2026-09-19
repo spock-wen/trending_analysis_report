@@ -38,7 +38,7 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 ## 相关项目
 
-[[ankitects-anki]] [[supermemoryai-supermemory]] [[rustfs-rustfs]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]]
+[[open-dev-society-openstock]] [[mg1937-asc]] [[cloudflare-quiche]] [[anthropics-knowledge-work-plugins]] [[alphaxiv-openresearch]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

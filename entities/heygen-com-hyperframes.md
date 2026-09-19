@@ -36,7 +36,7 @@ Write HTML. Render video. Built for agents.
 
 ## 相关项目
 
-[[supabase-supabase]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[ever-co-ever-gauzy]] [[anthropics-knowledge-work-plugins]]
+[[open-dev-society-openstock]] [[supabase-supabase]] [[cloudflare-quiche]] [[anthropics-knowledge-work-plugins]] [[zuodaotech-everyone-can-use-english]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

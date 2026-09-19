@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[supabase-supabase]] [[cline-cline]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]]
+[[microsoft-onnxruntime]] [[protocolbuffers-protobuf]] [[supabase-supabase]] [[fmtlib-fmt]] [[cloudflare-quiche]]
 
 **所属领域**: [[web]] [[cli]]
 

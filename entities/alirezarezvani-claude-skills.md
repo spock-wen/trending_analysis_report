@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[abue-ammar-tinycast]] [[alsk1992-cloddsbot]] [[danny-avila-librechat]] [[melgarafael-deskcommcrm]]
+[[open-dev-society-openstock]] [[melgarafael-deskcommcrm]] [[mg1937-asc]] [[tencentcloud-octop]] [[cactus-compute-needle]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

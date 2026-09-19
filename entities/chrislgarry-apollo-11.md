@@ -37,7 +37,7 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[tencent-browserskill]] [[anthropics-claude-code]] [[cline-cline]]
+[[docling-project-docling]] [[yynxxxxx-codex-x]] [[tencent-browserskill]] [[anthropics-claude-code]]
 
 **所属领域**: [[cli]]
 

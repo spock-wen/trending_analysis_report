@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[huggingface-transformers]] [[supermemoryai-supermemory]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]]
+[[open-dev-society-openstock]] [[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

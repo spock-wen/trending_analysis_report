@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[asciimoo-hister]] [[supabase-supabase]] [[ever-co-ever-gauzy]] [[alibaba-open-code-review]] [[bilawalsidhu-gods-eye-view]]
+[[supabase-supabase]] [[cloudflare-quiche]] [[trycua-cua]] [[asciimoo-hister]] [[coder-coder]]
 
 **所属领域**: [[web]]
 

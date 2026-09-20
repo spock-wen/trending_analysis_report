@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]] [[addyosmani-agent-skills]] [[anthropics-claude-code]]
+[[addyosmani-agent-skills]] [[tencent-browserskill]] [[yynxxxxx-codex-x]] [[open-dev-society-openstock]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

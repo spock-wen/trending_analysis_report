@@ -38,7 +38,7 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]]
+[[anthropics-financial-services]] [[addyosmani-agent-skills]] [[anthropics-knowledge-work-plugins]] [[open-dev-society-openstock]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

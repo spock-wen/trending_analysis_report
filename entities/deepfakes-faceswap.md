@@ -35,5 +35,5 @@ Deepfakes Software For All
 
 ## 相关项目
 
-[[docling-project-docling]] [[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]]
+[[anthropics-knowledge-work-plugins]] [[mihail911-modern-software-dev-assignments]] [[anthropics-financial-services]] [[paperless-ngx-paperless-ngx]]
 

@@ -38,7 +38,7 @@ Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your 
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]]
+[[anthropics-financial-services]] [[addyosmani-agent-skills]] [[docling-project-docling]] [[tonhowtf-omniget]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

@@ -34,5 +34,5 @@ Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engi
 
 ## 相关项目
 
-[[rustfs-rustfs]] [[ankitects-anki]] [[yynxxxxx-codex-x]] [[cloudflare-quiche]]
+[[ankitects-anki]] [[rustfs-rustfs]] [[cloudflare-quiche]] [[yynxxxxx-codex-x]]
 

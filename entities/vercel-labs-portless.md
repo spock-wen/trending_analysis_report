@@ -34,7 +34,7 @@ Replace port numbers with stable, named local URLs. For humans and agents.
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[freestylefly-awesome-gpt-image-2]] [[openbmb-voxcpm]] [[anthropics-knowledge-work-plugins]] [[zuodaotech-everyone-can-use-english]]
+[[trycua-cua]] [[builderio-agent-native]] [[addyosmani-agent-skills]] [[vercel-labs-json-render]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

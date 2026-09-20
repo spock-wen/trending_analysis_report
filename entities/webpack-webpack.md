@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[freestylefly-awesome-gpt-image-2]] [[tradesdontlie-tradingview-mcp]] [[supabase-supabase]] [[openbmb-voxcpm]] [[cloudflare-quiche]]
+[[trycua-cua]] [[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]] [[multimodal-art-projection-yue]] [[tencent-browserskill]]
 
 **所属领域**: [[web]] [[image-gen]]
 

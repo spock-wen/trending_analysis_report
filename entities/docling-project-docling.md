@@ -34,7 +34,7 @@ Get your documents ready for gen AI
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]] [[addyosmani-agent-skills]]
+[[anthropics-financial-services]] [[addyosmani-agent-skills]] [[tencent-browserskill]] [[yynxxxxx-codex-x]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[supermemoryai-supermemory]] [[zuodaotech-everyone-can-use-english]] [[anthropics-claude-code]] [[tonhowtf-omniget]]
+[[builderio-agent-native]] [[vercel-labs-json-render]] [[tonhowtf-omniget]] [[crosstalk-solutions-project-nomad]] [[open-dev-society-openstock]]
 
 **所属领域**: [[education]]
 

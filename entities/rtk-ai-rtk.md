@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[cloudflare-quiche]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]] [[addyosmani-agent-skills]]
+[[addyosmani-agent-skills]] [[docling-project-docling]] [[ankitects-anki]] [[tencent-browserskill]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

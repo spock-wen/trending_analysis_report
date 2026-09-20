@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[freestylefly-awesome-gpt-image-2]] [[openbmb-voxcpm]] [[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]]
+[[trycua-cua]] [[anthropics-financial-services]] [[multimodal-art-projection-yue]] [[anthropics-knowledge-work-plugins]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[image-gen]]
 

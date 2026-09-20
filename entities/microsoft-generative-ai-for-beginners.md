@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[microsoft-ai-for-beginners]] [[anthropics-knowledge-work-plugins]] [[addyosmani-agent-skills]] [[lyogavin-airllm]]
+[[addyosmani-agent-skills]] [[tonhowtf-omniget]] [[crosstalk-solutions-project-nomad]] [[microsoft-ai-for-beginners]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[docling-project-docling]] [[homebrew-brewui]] [[peetzweg-opendisplay]] [[anthropics-claude-code]]
+[[abue-ammar-tinycast]] [[tencent-browserskill]] [[yynxxxxx-codex-x]] [[peetzweg-opendisplay]] [[anthropics-claude-code]]
 
 **所属领域**: [[cli]]
 

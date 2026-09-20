@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[conardli-garden-skills]] [[melgarafael-deskcommcrm]] [[supabase-supabase]] [[cloudflare-quiche]] [[nutlope-hallmark]]
+[[trycua-cua]] [[tencent-browserskill]] [[nutlope-hallmark]] [[conardli-garden-skills]] [[alsk1992-cloddsbot]]
 
 **所属领域**: [[web]] [[erp]]
 

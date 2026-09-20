@@ -38,5 +38,5 @@ Fast Rust library for PDF inspection, classification, and text extraction. Intel
 
 ## 相关项目
 
-[[rustfs-rustfs]] [[ankitects-anki]] [[yynxxxxx-codex-x]] [[cloudflare-quiche]]
+[[ankitects-anki]] [[rustfs-rustfs]] [[cloudflare-quiche]] [[yynxxxxx-codex-x]]
 

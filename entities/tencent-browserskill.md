@@ -35,7 +35,7 @@ Let AI agents use your real, logged-in browser without interrupting your work. C
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[supabase-supabase]] [[cloudflare-quiche]] [[anthropics-knowledge-work-plugins]] [[zuodaotech-everyone-can-use-english]]
+[[trycua-cua]] [[builderio-agent-native]] [[addyosmani-agent-skills]] [[vercel-labs-json-render]] [[docling-project-docling]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

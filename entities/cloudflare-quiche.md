@@ -34,7 +34,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[supabase-supabase]] [[trycua-cua]] [[rustfs-rustfs]] [[yynxxxxx-codex-x]] [[tencent-browserskill]]
+[[trycua-cua]] [[ankitects-anki]] [[tencent-browserskill]] [[rustfs-rustfs]] [[supabase-supabase]]
 
 **所属领域**: [[web]]
 

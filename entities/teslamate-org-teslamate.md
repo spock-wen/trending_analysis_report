@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[supabase-supabase]] [[anthropics-knowledge-work-plugins]] [[trycua-cua]] [[addyosmani-agent-skills]]
+[[trycua-cua]] [[addyosmani-agent-skills]] [[open-dev-society-openstock]] [[alibaba-open-code-review]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

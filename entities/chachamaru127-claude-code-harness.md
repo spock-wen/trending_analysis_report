@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[mattpocock-skills]] [[basecamp-omarchy]] [[anthropics-knowledge-work-plugins]] [[obra-superpowers]]
+[[addyosmani-agent-skills]] [[docling-project-docling]] [[tencent-browserskill]] [[yynxxxxx-codex-x]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

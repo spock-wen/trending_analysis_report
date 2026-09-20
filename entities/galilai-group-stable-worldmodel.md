@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[freestylefly-awesome-gpt-image-2]] [[openbmb-voxcpm]] [[tencentcloud-octop]] [[cactus-compute-needle]]
+[[trycua-cua]] [[anthropics-financial-services]] [[addyosmani-agent-skills]] [[multimodal-art-projection-yue]] [[mg1937-asc]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

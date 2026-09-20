@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[supabase-supabase]] [[anthropics-knowledge-work-plugins]] [[trycua-cua]] [[addyosmani-agent-skills]]
+[[trycua-cua]] [[nationalsecurityagency-ghidra]] [[addyosmani-agent-skills]] [[google-guava]] [[yuliskov-smarttube]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

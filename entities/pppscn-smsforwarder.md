@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[supabase-supabase]] [[cloudflare-quiche]] [[trycua-cua]] [[embabel-embabel-agent]]
+[[trycua-cua]] [[embabel-embabel-agent]] [[tencent-browserskill]] [[cloudflare-quiche]] [[supabase-supabase]]
 
 **所属领域**: [[web]]
 

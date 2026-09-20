@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[supabase-supabase]] [[cloudflare-quiche]] [[docling-project-docling]] [[trycua-cua]] [[anthropics-claude-code]]
+[[trycua-cua]] [[tencent-browserskill]] [[yynxxxxx-codex-x]] [[cloudflare-quiche]] [[anthropics-claude-code]]
 
 **所属领域**: [[web]] [[cli]]
 

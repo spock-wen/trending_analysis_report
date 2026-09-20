@@ -37,7 +37,7 @@ Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[freestylefly-awesome-gpt-image-2]] [[openbmb-voxcpm]] [[tencentcloud-octop]] [[cactus-compute-needle]]
+[[trycua-cua]] [[anthropics-financial-services]] [[addyosmani-agent-skills]] [[multimodal-art-projection-yue]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

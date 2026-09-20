@@ -35,7 +35,7 @@ A smarter, self-hosted AI assistant — multi-user, multi-agent.
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]] [[addyosmani-agent-skills]]
+[[anthropics-financial-services]] [[addyosmani-agent-skills]] [[anthropics-knowledge-work-plugins]] [[open-dev-society-openstock]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

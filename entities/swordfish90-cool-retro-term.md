@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[docling-project-docling]] [[yynxxxxx-codex-x]] [[tencent-browserskill]] [[anthropics-claude-code]]
+[[docling-project-docling]] [[anthropics-claude-code]] [[tencent-browserskill]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[cli]]
 

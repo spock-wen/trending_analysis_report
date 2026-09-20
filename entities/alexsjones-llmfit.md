@@ -36,7 +36,7 @@ Hundreds of models & providers. One command to find what runs on your hardware.
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[cloudflare-quiche]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]] [[addyosmani-agent-skills]]
+[[addyosmani-agent-skills]] [[docling-project-docling]] [[ankitects-anki]] [[tencent-browserskill]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

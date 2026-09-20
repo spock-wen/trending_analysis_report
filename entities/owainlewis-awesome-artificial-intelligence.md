@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[mg1937-asc]] [[anthropics-knowledge-work-plugins]] [[alphaxiv-openresearch]] [[addyosmani-agent-skills]]
+[[addyosmani-agent-skills]] [[tonhowtf-omniget]] [[crosstalk-solutions-project-nomad]] [[mg1937-asc]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

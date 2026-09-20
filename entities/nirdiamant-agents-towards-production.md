@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[melgarafael-deskcommcrm]] [[ruvnet-ruview]] [[cilium-cilium]] [[microsoft-generative-ai-for-beginners]]
+[[ruvnet-ruview]] [[huggingface-transformers]] [[affaan-m-ecc]] [[microsoft-generative-ai-for-beginners]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

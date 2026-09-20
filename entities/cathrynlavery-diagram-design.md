@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[supabase-supabase]] [[cloudflare-quiche]] [[anthropics-knowledge-work-plugins]] [[trycua-cua]]
+[[trycua-cua]] [[ripienaar-free-for-dev]] [[addyosmani-agent-skills]] [[tencent-browserskill]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

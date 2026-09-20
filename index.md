@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-09-20 | 总页面：611
+> 最后更新：2026-09-21 | 总页面：614
 
 ## Entities
 
@@ -18,7 +18,7 @@
 - [[actions-checkout|checkout"]] — Action for checking out a repo
 - [[activeloopai-hivemind|hivemind"]] — One brain for all your agents
 - [[addyosmani-agent-skills|agent-skills"]] — Production-grade engineering skills for AI coding agents. 🔥
-- [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i... 🔥
+- [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i...
 - [[agalwood-motrix|Motrix"]] — A full-featured download manager. 🆕
 - [[agavra-tuicr|tuicr"]] — a code review TUI with vim keybindings 🆕
 - [[agegr-pi-web|pi-web"]] — Web UI for the pi coding agent 🔥
@@ -60,6 +60,7 @@
 - [[anthropics-claude-plugins-community|claude-plugins-community"]] — Community plugin marketplace for Claude Cowork and Claude Co... 🔥
 - [[anthropics-claude-plugins-official|claude-plugins-official"]] — Official, Anthropic-managed directory of high quality Claude... 🔥
 - [[anthropics-cwc-workshops|cwc-workshops"]] — No description
+- [[anthropics-financial-services|financial-services"]] — No description 🆕
 - [[anthropics-knowledge-work-plugins|knowledge-work-plugins"]] — Open source repository of plugins primarily intended for kno... 🔥
 - [[anthropics-skills|skills"]] — Public repository for Agent Skills 🔥
 - [[antirez-ds4|ds4"]] — DeepSeek 4 Flash and PRO local inference engine for Metal, C... 🆕
@@ -95,7 +96,7 @@
 - [[braveopotato-fcksignups|FckSignups"]] — A list of tools that are open-source, in-browser, and requir... 🔥
 - [[browser-use-browser-use|browser-use"]] — 🌐 Make websites accessible for AI agents. Automate tasks onl...
 - [[browser-use-video-use|video-use"]] — Edit videos with coding agents
-- [[builderio-agent-native|agent-native"]] — A framework for building agent-native applications.
+- [[builderio-agent-native|agent-native"]] — A framework for building agentic apps
 - [[byjoey-cfnew|cfnew"]] — No description
 - [[byoungd-english-level-up-tips|English-level-up-tips"]] — An advanced guide to learn English which might benefit you a...
 - [[bytebytegohq-system-design-101|system-design-101"]] — Explain complex systems using visuals and simple terms. Help...
@@ -123,7 +124,7 @@
 - [[cline-cline|cline"]] — Autonomous coding agent as an SDK, IDE extension, or CLI ass... 🆕
 - [[cloakhq-cloakbrowser|CloakBrowser"]] — Stealth Chromium that passes every bot detection test. Drop-... 🆕
 - [[cloudflare-computer|computer"]] — Give your agent a computer 👾 🔥
-- [[cloudflare-quiche|quiche"]] — 🥧 Savoury implementation of the QUIC transport protocol and ... 🆕
+- [[cloudflare-quiche|quiche"]] — 🥧 Savoury implementation of the QUIC transport protocol and ...
 - [[cloudflare-security-audit-skill|security-audit-skill"]] — A coding-agent skill for multi-phase security audits with in... 🔥
 - [[clshortfuse-renodx|renodx"]] — Renovation Engine for DirectX Games
 - [[codecrafters-io-build-your-own-x|build-your-own-x"]] — Master programming by recreating your favorite technologies ...
@@ -169,7 +170,7 @@
 - [[diolinux-photogimp|PhotoGIMP"]] — A Patch for GIMP 3+ for Photoshop Users
 - [[dioxuslabs-dioxus|dioxus"]] — Fullstack app framework for web, desktop, and mobile. 🆕
 - [[dmtrkovalenko-fff|fff"]] — The fastest and the most accurate file search toolkit for AI...
-- [[docling-project-docling|docling"]] — Get your documents ready for gen AI 🆕
+- [[docling-project-docling|docling"]] — Get your documents ready for gen AI
 - [[docusealco-docuseal|docuseal"]] — Open source DocuSign alternative. Create, fill, and sign dig...
 - [[dograh-hq-dograh|dograh"]] — Open Source Voice Agent Platform
 - [[donnemartin-system-design-primer|system-design-primer"]] — Learn how to design large-scale systems. Prep for the system...
@@ -365,6 +366,7 @@
 - [[microsoft-terminal|terminal"]] — The new Windows Terminal and the original Windows console ho...
 - [[microsoft-typescript|TypeScript"]] — TypeScript is a superset of JavaScript that compiles to clea... 🆕
 - [[microsoft-vibevoice|VibeVoice"]] — Open-Source Frontier Voice AI
+- [[mihail911-modern-software-dev-assignments|modern-software-dev-assignments"]] — Assignments for CS146S: The Modern Software Dev (Stanford Un... 🆕
 - [[mikeroyal-self-hosting-guide|Self-Hosting-Guide"]] — Self-Hosting Guide. Learn all about locally hosting (on prem...
 - [[mikumifa-bilitickerbuy|biliTickerBuy"]] — b站会员购购票辅助工具
 - [[mksglu-context-mode|context-mode"]] — Context window optimization for AI coding agents. Sandboxes ... 🆕
@@ -406,7 +408,7 @@
 - [[odoo-odoo|odoo"]] — Odoo. Open Source Apps To Grow Your Business.
 - [[ogulcancelik-herdr|herdr"]] — agent multiplexer that lives in your terminal. 🔥
 - [[opa334-dopamine|Dopamine"]] — Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0....
-- [[open-dev-society-openstock|OpenStock"]] — OpenStock is an open-source alternative to expensive market ...
+- [[open-dev-society-openstock|OpenStock"]] — OpenStock is an open-source alternative to expensive market ... 🆕
 - [[open-llm-vtuber-open-llm-vtuber|Open-LLM-VTuber"]] — Talk to any LLM with hands-free voice interaction, voice int... 🔥
 - [[openai-codex-plugin-cc|codex-plugin-cc"]] — Use Codex from Claude Code to review code or delegate tasks. 🔥
 - [[openai-codex|codex"]] — Lightweight coding agent that runs in your terminal 🆕
@@ -480,7 +482,7 @@
 - [[rohitg00-ai-engineering-from-scratch|ai-engineering-from-scratch"]] — Learn it. Build it. Ship it for others.
 - [[rommapp-romm|romm"]] — A beautiful, powerful, self-hosted rom manager and player. 🔥
 - [[rtk-ai-rtk|rtk"]] — CLI proxy that reduces LLM token consumption by 60-90% on co...
-- [[ruanyf-weekly|weekly"]] — 科技爱好者周刊，每周五发布 🆕
+- [[ruanyf-weekly|weekly"]] — 科技爱好者周刊，每周五发布
 - [[run-llama-liteparse|liteparse"]] — A fast, helpful, and open-source document parser 🆕
 - [[rustdesk-rustdesk|rustdesk"]] — An open-source remote desktop application designed for self-...
 - [[rustfs-rustfs|rustfs"]] — RustFS is an open-source, S3-compatible high-performance obj...
@@ -546,7 +548,7 @@
 - [[tradesdontlie-tradingview-mcp|tradingview-mcp"]] — AI-assisted TradingView chart analysis — connect Claude Code...
 - [[trimstray-the-book-of-secret-knowledge|the-book-of-secret-knowledge"]] — A collection of inspiring lists, manuals, cheatsheets, blogs... 🆕
 - [[truelockmc-streambert|streambert"]] — A cross-platform Electron Desktop App to stream and download... 🆕
-- [[trycua-cua|cua"]] — Scale computer-use 2.0 with open-source drivers, cross-OS fl...
+- [[trycua-cua|cua"]] — Scale computer-use 2.0 with open-source drivers, cross-OS fl... 🆕
 - [[tryghost-ghost|Ghost"]] — Independent technology for modern publishing, memberships, s...
 - [[tt-a1i-archify|archify"]] — Agent skill for beautiful, verifiable architecture, workflow... 🔥
 - [[tursodatabase-turso|turso"]] — Turso is an in-process SQL database, compatible with SQLite. 🔥
@@ -562,6 +564,7 @@
 - [[usestrix-strix|strix"]] — Open-source AI penetration testing tool to find and fix your...
 - [[vastsa-pi-desktop|PI-Desktop"]] — Local-first AI coding agent desktop: Electron + Rust host co... 🔥
 - [[veracrypt-veracrypt|VeraCrypt"]] — Disk encryption with strong security based on TrueCrypt
+- [[vercel-labs-json-render|json-render"]] — The Generative UI framework 🆕
 - [[vercel-labs-portless|portless"]] — Replace port numbers with stable, named local URLs. For huma...
 - [[vercel-labs-skills|skills"]] — The open agent skills tool - npx skills
 - [[viarotel-org-escrcpy|escrcpy"]] — 📱 Display and control your Android device graphically with s...
@@ -589,7 +592,7 @@
 - [[yorukot-superfile|superfile"]] — Pretty fancy and modern terminal file manager 🆕
 - [[yt-dlp-yt-dlp|yt-dlp"]] — A feature-rich command-line audio/video downloader
 - [[yuliskov-smarttube|SmartTube"]] — Browse media content with your own rules on Android TV 🆕
-- [[yynxxxxx-codex-x|Codex-X"]] — OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、S... 🆕
+- [[yynxxxxx-codex-x|Codex-X"]] — OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、S...
 - [[zackriya-solutions-meetily|meetily"]] — Privacy first, AI meeting assistant with 4x faster Parakeet/... 🔥
 - [[zai-org-glm-5|GLM-5"]] — GLM-5: From Vibe Coding to Agentic Engineering 🆕
 - [[zedeus-nitter|nitter"]] — Alternative Twitter front-end

@@ -35,5 +35,5 @@ self-hosted, distributed Durable Objects
 
 ## 相关项目
 
-[[rustfs-rustfs]] [[ankitects-anki]] [[yynxxxxx-codex-x]] [[cloudflare-quiche]]
+[[ankitects-anki]] [[rustfs-rustfs]] [[cloudflare-quiche]] [[yynxxxxx-codex-x]]
 

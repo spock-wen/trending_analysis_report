@@ -34,7 +34,7 @@ FlashKDA: high-performance Kimi Delta Attention kernels
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[addyosmani-agent-skills]] [[anthropics-claude-code]] [[anthropics-knowledge-work-plugins]]
+[[addyosmani-agent-skills]] [[open-dev-society-openstock]] [[affaan-m-ecc]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

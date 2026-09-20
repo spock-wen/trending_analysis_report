@@ -38,7 +38,7 @@ Open source repository of plugins primarily intended for knowledge workers to us
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[tencentcloud-octop]] [[cactus-compute-needle]] [[docling-project-docling]] [[addyosmani-agent-skills]]
+[[anthropics-financial-services]] [[addyosmani-agent-skills]] [[open-dev-society-openstock]] [[anthropics-claude-code]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[ai-agent]]
 

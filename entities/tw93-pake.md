@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[supabase-supabase]] [[cloudflare-quiche]] [[docling-project-docling]] [[trycua-cua]] [[anthropics-claude-code]]
+[[trycua-cua]] [[docling-project-docling]] [[ankitects-anki]] [[tencent-browserskill]] [[rustfs-rustfs]]
 
 **所属领域**: [[web]] [[cli]]
 

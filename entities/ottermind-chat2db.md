@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[supabase-supabase]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]] [[trycua-cua]]
+[[trycua-cua]] [[nationalsecurityagency-ghidra]] [[addyosmani-agent-skills]] [[google-guava]] [[docling-project-docling]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

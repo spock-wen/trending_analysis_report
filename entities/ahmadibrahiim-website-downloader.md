@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[freestylefly-awesome-gpt-image-2]] [[supabase-supabase]] [[openbmb-voxcpm]] [[cathrynlavery-diagram-design]] [[cloudflare-quiche]]
+[[trycua-cua]] [[ripienaar-free-for-dev]] [[multimodal-art-projection-yue]] [[tencent-browserskill]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[image-gen]]
 

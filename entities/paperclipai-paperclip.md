@@ -36,7 +36,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[mg1937-asc]] [[anthropics-knowledge-work-plugins]] [[zuodaotech-everyone-can-use-english]] [[docling-project-docling]]
+[[builderio-agent-native]] [[addyosmani-agent-skills]] [[vercel-labs-json-render]] [[docling-project-docling]] [[tencent-browserskill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

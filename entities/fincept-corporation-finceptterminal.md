@@ -35,7 +35,7 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 
 ## 相关项目
 
-[[supabase-supabase]] [[mg1937-asc]] [[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]]
+[[trycua-cua]] [[anthropics-financial-services]] [[tencent-browserskill]] [[yynxxxxx-codex-x]] [[mg1937-asc]]
 
 **所属领域**: [[cli]] [[data]] [[science]]
 

@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[mg1937-asc]] [[cloudflare-quiche]] [[anthropics-knowledge-work-plugins]] [[addyosmani-agent-skills]]
+[[addyosmani-agent-skills]] [[ankitects-anki]] [[yynxxxxx-codex-x]] [[mg1937-asc]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

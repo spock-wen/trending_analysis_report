@@ -34,5 +34,5 @@ An open-source remote desktop application designed for self-hosting, as an alter
 
 ## 相关项目
 
-[[rustfs-rustfs]] [[ankitects-anki]] [[yynxxxxx-codex-x]] [[cloudflare-quiche]]
+[[ankitects-anki]] [[rustfs-rustfs]] [[cloudflare-quiche]] [[yynxxxxx-codex-x]]
 

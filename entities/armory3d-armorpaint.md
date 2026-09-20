@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[antirez-ds4]] [[anthropics-knowledge-work-plugins]] [[addyosmani-agent-skills]] [[anthropics-claude-code]]
+[[justvugg-colibri]] [[addyosmani-agent-skills]] [[open-dev-society-openstock]] [[anthropics-claude-code]] [[antirez-ds4]]
 
 **所属领域**: [[ai-agent]]
 

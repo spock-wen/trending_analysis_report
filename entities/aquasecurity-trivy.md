@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[anthropics-knowledge-work-plugins]] [[addyosmani-agent-skills]] [[asciimoo-hister]] [[anthropics-claude-code]]
+[[cilium-cilium]] [[coder-coder]] [[nationalsecurityagency-ghidra]] [[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

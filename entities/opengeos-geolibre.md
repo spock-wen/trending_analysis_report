@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[supabase-supabase]] [[cloudflare-quiche]] [[snailsploit-claude-red]] [[zuodaotech-everyone-can-use-english]]
+[[trycua-cua]] [[builderio-agent-native]] [[vercel-labs-json-render]] [[tencent-browserskill]] [[open-dev-society-openstock]]
 
 **所属领域**: [[web]] [[data]]
 

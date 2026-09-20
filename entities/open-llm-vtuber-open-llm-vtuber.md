@@ -37,7 +37,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]]
+[[anthropics-financial-services]] [[addyosmani-agent-skills]] [[tonhowtf-omniget]] [[multimodal-art-projection-yue]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

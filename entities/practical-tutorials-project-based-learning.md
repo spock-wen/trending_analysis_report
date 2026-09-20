@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]] [[tonhowtf-omniget]]
+[[anthropics-financial-services]] [[tonhowtf-omniget]] [[crosstalk-solutions-project-nomad]] [[anthropics-knowledge-work-plugins]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[education]]
 

@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[microsoft-onnxruntime]] [[protocolbuffers-protobuf]] [[supabase-supabase]] [[fmtlib-fmt]] [[trycua-cua]]
+[[trycua-cua]] [[microsoft-onnxruntime]] [[fmtlib-fmt]] [[protocolbuffers-protobuf]] [[alibaba-open-code-review]]
 
 **所属领域**: [[data]]
 

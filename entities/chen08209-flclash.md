@@ -35,7 +35,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[docling-project-docling]] [[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[flutter-flutter]] [[tencent-browserskill]]
+[[tencent-browserskill]] [[yynxxxxx-codex-x]] [[anthropics-claude-code]] [[localsend-localsend]] [[flutter-flutter]]
 
 **所属领域**: [[cli]]
 

@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[basecamp-omarchy]] [[anthropics-knowledge-work-plugins]] [[obra-superpowers]] [[docling-project-docling]]
+[[addyosmani-agent-skills]] [[docling-project-docling]] [[tencent-browserskill]] [[yynxxxxx-codex-x]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

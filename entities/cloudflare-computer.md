@@ -36,7 +36,7 @@ Give your agent a computer 👾
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[anthropics-knowledge-work-plugins]] [[zuodaotech-everyone-can-use-english]] [[addyosmani-agent-skills]] [[anthropics-claude-code]]
+[[builderio-agent-native]] [[addyosmani-agent-skills]] [[vercel-labs-json-render]] [[open-dev-society-openstock]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

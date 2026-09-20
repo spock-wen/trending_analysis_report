@@ -38,7 +38,7 @@ Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[anthropics-knowledge-work-plugins]] [[zuodaotech-everyone-can-use-english]] [[docling-project-docling]] [[addyosmani-agent-skills]]
+[[builderio-agent-native]] [[addyosmani-agent-skills]] [[vercel-labs-json-render]] [[docling-project-docling]] [[tencent-browserskill]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

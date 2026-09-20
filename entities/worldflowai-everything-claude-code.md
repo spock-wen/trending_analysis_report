@@ -34,7 +34,7 @@ Claude Code toolkit - agents, commands, skills, rules, and hooks for productive 
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[tradesdontlie-tradingview-mcp]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]] [[addyosmani-agent-skills]]
+[[addyosmani-agent-skills]] [[docling-project-docling]] [[cloudflare-security-audit-skill]] [[tencent-browserskill]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

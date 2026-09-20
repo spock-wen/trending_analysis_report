@@ -35,7 +35,7 @@ Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex 
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[supabase-supabase]] [[cloudflare-quiche]] [[anthropics-knowledge-work-plugins]] [[zuodaotech-everyone-can-use-english]]
+[[trycua-cua]] [[builderio-agent-native]] [[addyosmani-agent-skills]] [[vercel-labs-json-render]] [[tencent-browserskill]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

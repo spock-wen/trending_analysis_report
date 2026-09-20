@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[supabase-supabase]] [[cloudflare-quiche]] [[zuodaotech-everyone-can-use-english]] [[trycua-cua]]
+[[trycua-cua]] [[builderio-agent-native]] [[vercel-labs-json-render]] [[tonhowtf-omniget]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[web]] [[education]]
 

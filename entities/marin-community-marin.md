@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[mg1937-asc]] [[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]]
+[[anthropics-financial-services]] [[mg1937-asc]] [[anthropics-knowledge-work-plugins]] [[alphaxiv-openresearch]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[science]]
 

@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[supabase-supabase]] [[cloudflare-quiche]] [[anthropics-knowledge-work-plugins]] [[abue-ammar-tinycast]]
+[[trycua-cua]] [[addyosmani-agent-skills]] [[tonhowtf-omniget]] [[multimodal-art-projection-yue]] [[abue-ammar-tinycast]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

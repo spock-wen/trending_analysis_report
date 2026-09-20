@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[docling-project-docling]] [[anthropics-claude-code]] [[asciimoo-hister]] [[coder-coder]] [[yynxxxxx-codex-x]]
+[[coder-coder]] [[tencent-browserskill]] [[yynxxxxx-codex-x]] [[tencent-weknora]] [[alibaba-open-code-review]]
 
 **所属领域**: [[cli]]
 

@@ -35,7 +35,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[supabase-supabase]] [[cathrynlavery-diagram-design]] [[cloudflare-quiche]] [[docling-project-docling]] [[trycua-cua]]
+[[trycua-cua]] [[ripienaar-free-for-dev]] [[tencent-browserskill]] [[yynxxxxx-codex-x]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]]
+[[anthropics-financial-services]] [[addyosmani-agent-skills]] [[tonhowtf-omniget]] [[crosstalk-solutions-project-nomad]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

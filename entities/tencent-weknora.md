@@ -35,7 +35,7 @@ Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an 
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[anthropics-knowledge-work-plugins]] [[addyosmani-agent-skills]] [[asciimoo-hister]] [[anthropics-claude-code]]
+[[coder-coder]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[asciimoo-hister]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]]
 

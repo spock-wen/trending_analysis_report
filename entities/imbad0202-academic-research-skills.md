@@ -38,7 +38,7 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[mg1937-asc]] [[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]]
+[[anthropics-financial-services]] [[addyosmani-agent-skills]] [[mg1937-asc]] [[anthropics-knowledge-work-plugins]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

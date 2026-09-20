@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[mg1937-asc]] [[anthropics-knowledge-work-plugins]] [[zuodaotech-everyone-can-use-english]] [[alphaxiv-openresearch]]
+[[builderio-agent-native]] [[addyosmani-agent-skills]] [[vercel-labs-json-render]] [[mg1937-asc]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[supabase-supabase]] [[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]]
+[[trycua-cua]] [[anthropics-financial-services]] [[cilium-cilium]] [[ruvnet-ruflo]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]] [[jamiepine-voicebox]]
+[[anthropics-financial-services]] [[tonhowtf-omniget]] [[multimodal-art-projection-yue]] [[tencent-browserskill]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[cli]] [[audio]]
 

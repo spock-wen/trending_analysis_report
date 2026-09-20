@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[anthropics-knowledge-work-plugins]] [[ruvnet-ruview]] [[peetzweg-opendisplay]] [[addyosmani-agent-skills]]
+[[cilium-cilium]] [[coder-coder]] [[ruvnet-ruflo]] [[addyosmani-agent-skills]] [[tencent-weknora]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

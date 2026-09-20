@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[supabase-supabase]] [[mg1937-asc]] [[cathrynlavery-diagram-design]] [[cloudflare-quiche]]
+[[trycua-cua]] [[ripienaar-free-for-dev]] [[addyosmani-agent-skills]] [[tencent-browserskill]] [[mg1937-asc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

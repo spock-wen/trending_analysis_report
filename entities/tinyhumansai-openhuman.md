@@ -38,7 +38,7 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[mg1937-asc]] [[cloudflare-quiche]] [[anthropics-knowledge-work-plugins]] [[alphaxiv-openresearch]]
+[[addyosmani-agent-skills]] [[ankitects-anki]] [[yynxxxxx-codex-x]] [[mg1937-asc]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

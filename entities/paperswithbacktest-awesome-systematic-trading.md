@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[mg1937-asc]] [[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]]
+[[anthropics-financial-services]] [[tonhowtf-omniget]] [[crosstalk-solutions-project-nomad]] [[mg1937-asc]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[education]] [[science]]
 

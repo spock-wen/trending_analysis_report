@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[mattpocock-skills]] [[melgarafael-deskcommcrm]] [[basecamp-omarchy]] [[anthropics-knowledge-work-plugins]]
+[[addyosmani-agent-skills]] [[docling-project-docling]] [[tencent-browserskill]] [[yynxxxxx-codex-x]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

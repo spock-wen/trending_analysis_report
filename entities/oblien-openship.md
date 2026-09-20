@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[zuodaotech-everyone-can-use-english]] [[ruvnet-ruview]] [[peetzweg-opendisplay]] [[cilium-cilium]]
+[[cilium-cilium]] [[ruvnet-ruflo]] [[builderio-agent-native]] [[vercel-labs-json-render]] [[open-dev-society-openstock]]
 
 **所属领域**: [[devops]]
 

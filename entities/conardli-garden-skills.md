@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[freestylefly-awesome-gpt-image-2]] [[supabase-supabase]] [[openbmb-voxcpm]] [[cloudflare-quiche]]
+[[trycua-cua]] [[diolinux-photogimp]] [[addyosmani-agent-skills]] [[multimodal-art-projection-yue]] [[tencent-browserskill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

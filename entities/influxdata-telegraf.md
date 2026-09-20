@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[supabase-supabase]] [[anthropics-knowledge-work-plugins]] [[trycua-cua]] [[addyosmani-agent-skills]]
+[[trycua-cua]] [[coder-coder]] [[addyosmani-agent-skills]] [[tencent-weknora]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

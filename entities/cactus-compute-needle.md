@@ -16,7 +16,6 @@ last_trending: 2026-09-20
 peak_rank: 2
 total_stars: 11585
 language: "Python"
-contested: true
 ---
 
 # cactus-compute/needle
@@ -39,15 +38,5 @@ Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, struct
 
 ## 相关项目
 
-[[docling-project-docling]] [[tencentcloud-octop]] [[anthropics-knowledge-work-plugins]]
-
-
-## ⚠️ 描述变更（2026-09-20）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
-- **新描述**: Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
+[[anthropics-knowledge-work-plugins]] [[mihail911-modern-software-dev-assignments]] [[anthropics-financial-services]] [[paperless-ngx-paperless-ngx]]
 

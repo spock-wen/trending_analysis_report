@@ -36,7 +36,7 @@ Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli
 
 ## 相关项目
 
-[[cilium-cilium]] [[asciimoo-hister]] [[nationalsecurityagency-ghidra]] [[coder-coder]] [[cloudflare-security-audit-skill]]
+[[cilium-cilium]] [[coder-coder]] [[nationalsecurityagency-ghidra]] [[cloudflare-security-audit-skill]] [[tencent-weknora]]
 
 **所属领域**: [[security]]
 

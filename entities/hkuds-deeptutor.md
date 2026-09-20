@@ -37,7 +37,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[supabase-supabase]] [[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]]
+[[trycua-cua]] [[anthropics-financial-services]] [[tencent-browserskill]] [[anthropics-knowledge-work-plugins]] [[cloudflare-quiche]]
 
 **所属领域**: [[web]]
 

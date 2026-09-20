@@ -35,7 +35,7 @@ Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[tradesdontlie-tradingview-mcp]] [[supabase-supabase]] [[cloudflare-quiche]] [[anthropics-knowledge-work-plugins]]
+[[trycua-cua]] [[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]] [[tencent-browserskill]] [[tradesdontlie-tradingview-mcp]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

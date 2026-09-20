@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[supabase-supabase]] [[mg1937-asc]] [[tencentcloud-octop]] [[cactus-compute-needle]]
+[[trycua-cua]] [[anthropics-financial-services]] [[cilium-cilium]] [[nationalsecurityagency-ghidra]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

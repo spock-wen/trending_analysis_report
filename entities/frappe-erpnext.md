@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]]
+[[anthropics-financial-services]] [[anthropics-knowledge-work-plugins]] [[alsk1992-cloddsbot]] [[melgarafael-deskcommcrm]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[erp]]
 

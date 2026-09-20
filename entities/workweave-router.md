@@ -34,7 +34,7 @@ Model router for agentic systems. Routes every prompt to the right model in <50m
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[anthropics-knowledge-work-plugins]] [[addyosmani-agent-skills]] [[asciimoo-hister]] [[anthropics-claude-code]]
+[[coder-coder]] [[addyosmani-agent-skills]] [[tencent-weknora]] [[alibaba-open-code-review]] [[asciimoo-hister]]
 
 **所属领域**: [[ai-agent]]
 

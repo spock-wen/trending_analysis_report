@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[melgarafael-deskcommcrm]] [[mg1937-asc]] [[tencentcloud-octop]] [[cactus-compute-needle]]
+[[anthropics-financial-services]] [[addyosmani-agent-skills]] [[docling-project-docling]] [[tencent-browserskill]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[supabase-supabase]] [[cloudflare-quiche]] [[trycua-cua]] [[rustfs-rustfs]] [[yynxxxxx-codex-x]]
+[[trycua-cua]] [[ankitects-anki]] [[alibaba-open-code-review]] [[rustfs-rustfs]] [[cloudflare-quiche]]
 
 **所属领域**: [[data]]
 

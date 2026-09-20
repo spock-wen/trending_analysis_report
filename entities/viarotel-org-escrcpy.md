@@ -34,5 +34,5 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[tradesdontlie-tradingview-mcp]] [[addyosmani-agent-skills]] [[affaan-m-ecc]]
+[[addyosmani-agent-skills]] [[tradesdontlie-tradingview-mcp]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]]
 

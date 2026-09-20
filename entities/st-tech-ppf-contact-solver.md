@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]] [[anthropics-claude-code]]
+[[anthropics-financial-services]] [[tencent-browserskill]] [[yynxxxxx-codex-x]] [[anthropics-knowledge-work-plugins]] [[anthropics-claude-code]]
 
 **所属领域**: [[cli]]
 

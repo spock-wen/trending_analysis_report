@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[mattpocock-skills]] [[supabase-supabase]] [[basecamp-omarchy]] [[cloudflare-quiche]]
+[[trycua-cua]] [[addyosmani-agent-skills]] [[docling-project-docling]] [[tencent-browserskill]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

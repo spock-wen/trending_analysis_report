@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tencentcloud-octop]] [[cactus-compute-needle]] [[anthropics-knowledge-work-plugins]] [[docling-project-docling]] [[cilium-cilium]]
+[[anthropics-financial-services]] [[cilium-cilium]] [[nationalsecurityagency-ghidra]] [[cloudflare-security-audit-skill]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[security]]
 

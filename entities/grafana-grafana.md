@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[supabase-supabase]] [[snailsploit-claude-red]] [[zuodaotech-everyone-can-use-english]] [[trycua-cua]]
+[[trycua-cua]] [[cilium-cilium]] [[ruvnet-ruflo]] [[builderio-agent-native]] [[vercel-labs-json-render]]
 
 **所属领域**: [[data]] [[devops]]
 

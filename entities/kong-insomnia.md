@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[supabase-supabase]] [[cloudflare-quiche]] [[zuodaotech-everyone-can-use-english]] [[docling-project-docling]]
+[[trycua-cua]] [[builderio-agent-native]] [[vercel-labs-json-render]] [[tencent-browserskill]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[web]] [[cli]]
 

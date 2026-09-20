@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[melgarafael-deskcommcrm]] [[zuodaotech-everyone-can-use-english]] [[anthropics-claude-code]] [[danny-avila-librechat]]
+[[builderio-agent-native]] [[vercel-labs-json-render]] [[open-dev-society-openstock]] [[alsk1992-cloddsbot]] [[anthropics-claude-code]]
 
 **所属领域**: [[erp]]
 

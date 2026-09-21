@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[cilium-cilium]] [[nationalsecurityagency-ghidra]] [[builderio-agent-native]] [[vercel-labs-json-render]] [[cloudflare-security-audit-skill]]
+[[anthropics-claude-code]] [[affaan-m-ecc]] [[builderio-agent-native]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[security]]
 

@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[microsoft-onnxruntime]] [[fmtlib-fmt]] [[addyosmani-agent-skills]] [[protocolbuffers-protobuf]] [[tonhowtf-omniget]]
+[[fmtlib-fmt]] [[multimodal-art-projection-yue]] [[builderio-agent-native]] [[google-googletest]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

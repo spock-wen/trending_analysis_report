@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[docling-project-docling]] [[tencent-browserskill]] [[yynxxxxx-codex-x]] [[open-dev-society-openstock]]
+[[anthropics-claude-code]] [[danny-avila-librechat]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[builderio-agent-native]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

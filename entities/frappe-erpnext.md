@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[anthropics-knowledge-work-plugins]] [[alsk1992-cloddsbot]] [[melgarafael-deskcommcrm]] [[paperless-ngx-paperless-ngx]]
+[[danny-avila-librechat]] [[ever-co-ever-gauzy]] [[mvt-project-mvt]] [[anthropics-financial-services]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[erp]]
 

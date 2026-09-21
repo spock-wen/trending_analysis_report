@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[ankitects-anki]] [[yynxxxxx-codex-x]] [[open-dev-society-openstock]] [[rustfs-rustfs]]
+[[yynxxxxx-codex-x]] [[builderio-agent-native]] [[cloudflare-quiche]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]]
 

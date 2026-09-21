@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[trycua-cua]] [[builderio-agent-native]] [[vercel-labs-json-render]] [[multimodal-art-projection-yue]] [[open-dev-society-openstock]]
+[[anthropics-claude-code]] [[multimodal-art-projection-yue]] [[builderio-agent-native]] [[supabase-supabase]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[data]] [[image-gen]]
 

@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[trycua-cua]] [[builderio-agent-native]] [[vercel-labs-json-render]] [[tencent-browserskill]] [[open-dev-society-openstock]]
+[[anthropics-claude-code]] [[builderio-agent-native]] [[supabase-supabase]] [[alibaba-open-code-review]] [[open-dev-society-openstock]]
 
 **所属领域**: [[web]] [[data]]
 

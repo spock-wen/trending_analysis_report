@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[docling-project-docling]] [[tencent-browserskill]] [[yynxxxxx-codex-x]] [[open-dev-society-openstock]]
+[[anthropics-claude-code]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[builderio-agent-native]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

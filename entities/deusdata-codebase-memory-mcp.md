@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[trycua-cua]] [[justvugg-colibri]] [[addyosmani-agent-skills]] [[open-dev-society-openstock]] [[alibaba-open-code-review]]
+[[justvugg-colibri]] [[builderio-agent-native]] [[supabase-supabase]] [[armory3d-armorpaint]] [[opa334-dopamine]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

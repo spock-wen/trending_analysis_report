@@ -35,7 +35,7 @@ Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[addyosmani-agent-skills]] [[tonhowtf-omniget]] [[crosstalk-solutions-project-nomad]] [[microsoft-ai-for-beginners]]
+[[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]] [[builderio-agent-native]] [[lyogavin-airllm]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

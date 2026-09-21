@@ -36,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[addyosmani-agent-skills]] [[tonhowtf-omniget]] [[crosstalk-solutions-project-nomad]] [[microsoft-ai-for-beginners]]
+[[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[builderio-agent-native]] [[lyogavin-airllm]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

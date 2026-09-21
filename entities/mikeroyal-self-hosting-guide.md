@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[trycua-cua]] [[addyosmani-agent-skills]] [[tonhowtf-omniget]] [[crosstalk-solutions-project-nomad]] [[tencent-browserskill]]
+[[builderio-agent-native]] [[supabase-supabase]] [[higgsfield-ai-higgsfield]] [[open-dev-society-openstock]] [[tencent-browserskill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

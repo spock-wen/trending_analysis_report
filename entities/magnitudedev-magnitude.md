@@ -37,7 +37,7 @@ Open source inference server that runs the best local models for your hardware, 
 
 ## 相关项目
 
-[[builderio-agent-native]] [[addyosmani-agent-skills]] [[vercel-labs-json-render]] [[docling-project-docling]] [[tencent-browserskill]]
+[[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[builderio-agent-native]] [[zhouxiaoka-autoclip]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

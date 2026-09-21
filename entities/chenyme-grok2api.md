@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[trycua-cua]] [[coder-coder]] [[tencent-browserskill]] [[yynxxxxx-codex-x]] [[tencent-weknora]]
+[[coder-coder]] [[anthropics-claude-code]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[supabase-supabase]]
 
 **所属领域**: [[web]] [[cli]]
 

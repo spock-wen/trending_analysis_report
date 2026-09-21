@@ -35,5 +35,5 @@ NumPy & SciPy for GPU
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[mihail911-modern-software-dev-assignments]] [[anthropics-financial-services]] [[paperless-ngx-paperless-ngx]]
+[[mvt-project-mvt]] [[anthropics-financial-services]] [[paperless-ngx-paperless-ngx]] [[zhouxiaoka-autoclip]]
 

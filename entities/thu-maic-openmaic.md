@@ -38,7 +38,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[builderio-agent-native]] [[addyosmani-agent-skills]] [[vercel-labs-json-render]] [[docling-project-docling]] [[tonhowtf-omniget]]
+[[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[builderio-agent-native]] [[higgsfield-ai-higgsfield]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

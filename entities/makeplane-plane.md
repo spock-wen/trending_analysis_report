@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[builderio-agent-native]] [[vercel-labs-json-render]] [[tencent-browserskill]] [[yynxxxxx-codex-x]] [[open-dev-society-openstock]]
+[[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[builderio-agent-native]] [[zhouxiaoka-autoclip]] [[open-dev-society-openstock]]
 
 **所属领域**: [[cli]]
 

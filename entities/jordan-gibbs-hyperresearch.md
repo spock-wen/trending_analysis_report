@@ -34,7 +34,7 @@ Agent-driven research knowledge base. Agents collect, search, and synthesize web
 
 ## 相关项目
 
-[[trycua-cua]] [[anthropics-financial-services]] [[addyosmani-agent-skills]] [[tencent-browserskill]] [[mg1937-asc]]
+[[affaan-m-ecc]] [[alphaxiv-openresearch]] [[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

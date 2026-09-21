@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[trycua-cua]] [[ripienaar-free-for-dev]] [[tonhowtf-omniget]] [[crosstalk-solutions-project-nomad]] [[tencent-browserskill]]
+[[cathrynlavery-diagram-design]] [[supabase-supabase]] [[higgsfield-ai-higgsfield]] [[averygan-reclip]] [[tencent-browserskill]]
 
 **所属领域**: [[web]] [[education]]
 

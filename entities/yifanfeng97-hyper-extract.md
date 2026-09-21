@@ -34,7 +34,7 @@ Transform unstructured text into structured knowledge with LLMs. Graphs, hypergr
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[addyosmani-agent-skills]] [[docling-project-docling]] [[tencent-browserskill]] [[yynxxxxx-codex-x]]
+[[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

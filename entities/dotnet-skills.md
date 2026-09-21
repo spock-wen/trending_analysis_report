@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[k1tbyte-wand-enhancer]] [[open-dev-society-openstock]] [[anthropics-claude-code]] [[affaan-m-ecc]]
+[[k1tbyte-wand-enhancer]] [[builderio-agent-native]] [[jellyfin-jellyfin]] [[sonarr-sonarr]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]]
 

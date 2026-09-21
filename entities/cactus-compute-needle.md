@@ -38,5 +38,5 @@ Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, struct
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[mihail911-modern-software-dev-assignments]] [[anthropics-financial-services]] [[paperless-ngx-paperless-ngx]]
+[[mvt-project-mvt]] [[anthropics-financial-services]] [[paperless-ngx-paperless-ngx]] [[zhouxiaoka-autoclip]]
 

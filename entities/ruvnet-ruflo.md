@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cilium-cilium]] [[builderio-agent-native]] [[addyosmani-agent-skills]] [[vercel-labs-json-render]] [[tonhowtf-omniget]]
+[[anthropics-claude-code]] [[peetzweg-opendisplay]] [[builderio-agent-native]] [[higgsfield-ai-higgsfield]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

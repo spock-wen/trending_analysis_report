@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[trycua-cua]] [[cilium-cilium]] [[ruvnet-ruflo]] [[builderio-agent-native]] [[vercel-labs-json-render]]
+[[anthropics-claude-code]] [[peetzweg-opendisplay]] [[ruvnet-ruflo]] [[builderio-agent-native]] [[supabase-supabase]]
 
 **所属领域**: [[data]] [[devops]]
 

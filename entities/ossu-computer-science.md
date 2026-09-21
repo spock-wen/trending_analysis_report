@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[trycua-cua]] [[ripienaar-free-for-dev]] [[tencent-browserskill]] [[cathrynlavery-diagram-design]] [[cloudflare-quiche]]
+[[cathrynlavery-diagram-design]] [[supabase-supabase]] [[averygan-reclip]] [[tencent-browserskill]] [[cloudflare-quiche]]
 
 **所属领域**: [[web]]
 

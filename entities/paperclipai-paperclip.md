@@ -36,7 +36,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[builderio-agent-native]] [[addyosmani-agent-skills]] [[vercel-labs-json-render]] [[docling-project-docling]] [[tencent-browserskill]]
+[[anthropics-claude-code]] [[affaan-m-ecc]] [[alphaxiv-openresearch]] [[yynxxxxx-codex-x]] [[builderio-agent-native]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

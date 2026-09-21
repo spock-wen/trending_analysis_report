@@ -35,5 +35,5 @@ Easily and securely send things from one computer to another 🐊 📦
 
 ## 相关项目
 
-[[tencent-weknora]] [[alibaba-open-code-review]] [[asciimoo-hister]] [[coder-coder]]
+[[coder-coder]] [[tencent-weknora]] [[alibaba-open-code-review]] [[asciimoo-hister]]
 

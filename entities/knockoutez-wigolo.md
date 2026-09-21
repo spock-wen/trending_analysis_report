@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[trycua-cua]] [[builderio-agent-native]] [[addyosmani-agent-skills]] [[vercel-labs-json-render]] [[tencent-browserskill]]
+[[anthropics-claude-code]] [[affaan-m-ecc]] [[alphaxiv-openresearch]] [[builderio-agent-native]] [[supabase-supabase]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

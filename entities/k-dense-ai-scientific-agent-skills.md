@@ -38,7 +38,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ## 相关项目
 
-[[trycua-cua]] [[anthropics-financial-services]] [[addyosmani-agent-skills]] [[mg1937-asc]] [[anthropics-knowledge-work-plugins]]
+[[affaan-m-ecc]] [[alphaxiv-openresearch]] [[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[tonhowtf-omniget]] [[multimodal-art-projection-yue]] [[tencent-browserskill]] [[yynxxxxx-codex-x]]
+[[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[mvt-project-mvt]] [[multimodal-art-projection-yue]] [[anthropics-financial-services]]
 
 **所属领域**: [[cli]] [[audio]]
 

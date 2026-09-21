@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[trycua-cua]] [[coder-coder]] [[tencent-browserskill]] [[tencent-weknora]] [[alibaba-open-code-review]]
+[[coder-coder]] [[supabase-supabase]] [[asciimoo-hister]] [[alibaba-open-code-review]] [[tencent-browserskill]]
 
 **所属领域**: [[web]]
 

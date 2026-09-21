@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[tencent-browserskill]] [[yynxxxxx-codex-x]] [[peetzweg-opendisplay]] [[anthropics-claude-code]]
+[[peetzweg-opendisplay]] [[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[zhouxiaoka-autoclip]] [[abue-ammar-tinycast]]
 
 **所属领域**: [[cli]]
 

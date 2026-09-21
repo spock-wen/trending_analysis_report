@@ -36,7 +36,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[cilium-cilium]] [[ruvnet-ruflo]] [[addyosmani-agent-skills]] [[docling-project-docling]]
+[[anthropics-claude-code]] [[peetzweg-opendisplay]] [[ruvnet-ruflo]] [[yynxxxxx-codex-x]] [[mvt-project-mvt]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

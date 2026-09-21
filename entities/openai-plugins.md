@@ -38,7 +38,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]] [[tradesdontlie-tradingview-mcp]] [[open-dev-society-openstock]] [[anthropics-claude-code]]
+[[affaan-m-ecc]] [[tradesdontlie-tradingview-mcp]] [[builderio-agent-native]] [[cloudflare-security-audit-skill]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]]
 

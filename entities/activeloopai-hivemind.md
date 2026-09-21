@@ -34,7 +34,7 @@ One brain for all your agents
 
 ## 相关项目
 
-[[builderio-agent-native]] [[addyosmani-agent-skills]] [[vercel-labs-json-render]] [[open-dev-society-openstock]] [[anthropics-claude-code]]
+[[anthropics-claude-code]] [[builderio-agent-native]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]]
 

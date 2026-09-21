@@ -38,7 +38,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 
 ## 相关项目
 
-[[builderio-agent-native]] [[addyosmani-agent-skills]] [[vercel-labs-json-render]] [[docling-project-docling]] [[tencent-browserskill]]
+[[yynxxxxx-codex-x]] [[builderio-agent-native]] [[zhouxiaoka-autoclip]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

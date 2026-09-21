@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[coder-coder]] [[tencent-browserskill]] [[yynxxxxx-codex-x]] [[tencent-weknora]] [[alibaba-open-code-review]]
+[[coder-coder]] [[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[zhouxiaoka-autoclip]] [[alibaba-open-code-review]]
 
 **所属领域**: [[cli]]
 

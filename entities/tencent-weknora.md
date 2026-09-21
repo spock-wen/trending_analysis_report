@@ -35,7 +35,7 @@ Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an 
 
 ## 相关项目
 
-[[coder-coder]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[asciimoo-hister]] [[open-dev-society-openstock]]
+[[coder-coder]] [[trycua-cua]] [[builderio-agent-native]] [[alibaba-open-code-review]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]]
 

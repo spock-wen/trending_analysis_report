@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[coder-coder]] [[addyosmani-agent-skills]] [[docling-project-docling]] [[tencent-browserskill]] [[yynxxxxx-codex-x]]
+[[coder-coder]] [[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[trycua-cua]] [[builderio-agent-native]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

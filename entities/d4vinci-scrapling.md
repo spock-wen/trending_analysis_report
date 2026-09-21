@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[trycua-cua]] [[anthropics-financial-services]] [[tencent-browserskill]] [[anthropics-knowledge-work-plugins]] [[cloudflare-quiche]]
+[[mvt-project-mvt]] [[supabase-supabase]] [[anthropics-financial-services]] [[zhouxiaoka-autoclip]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[web]]
 

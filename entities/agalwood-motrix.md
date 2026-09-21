@@ -35,5 +35,5 @@ A full-featured download manager.
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[vercel-labs-json-render]] [[anthropics-claude-code]] [[builderio-agent-native]]
+[[anthropics-claude-code]] [[builderio-agent-native]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]]
 

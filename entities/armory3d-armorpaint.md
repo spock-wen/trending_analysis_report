@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[justvugg-colibri]] [[addyosmani-agent-skills]] [[open-dev-society-openstock]] [[anthropics-claude-code]] [[antirez-ds4]]
+[[justvugg-colibri]] [[builderio-agent-native]] [[opa334-dopamine]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[addyosmani-agent-skills]] [[mg1937-asc]] [[anthropics-knowledge-work-plugins]] [[open-dev-society-openstock]]
+[[affaan-m-ecc]] [[alphaxiv-openresearch]] [[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

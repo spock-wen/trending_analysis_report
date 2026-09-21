@@ -35,7 +35,7 @@ Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 
 ## 相关项目
 
-[[builderio-agent-native]] [[addyosmani-agent-skills]] [[vercel-labs-json-render]] [[docling-project-docling]] [[tencent-browserskill]]
+[[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[builderio-agent-native]] [[zhouxiaoka-autoclip]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

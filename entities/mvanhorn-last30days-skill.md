@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[trycua-cua]] [[anthropics-financial-services]] [[addyosmani-agent-skills]] [[tencent-browserskill]] [[mg1937-asc]]
+[[affaan-m-ecc]] [[alphaxiv-openresearch]] [[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

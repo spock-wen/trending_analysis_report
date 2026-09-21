@@ -38,7 +38,7 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[addyosmani-agent-skills]] [[anthropics-knowledge-work-plugins]] [[open-dev-society-openstock]] [[anthropics-claude-code]]
+[[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]] [[zhouxiaoka-autoclip]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[ai-agent]]
 

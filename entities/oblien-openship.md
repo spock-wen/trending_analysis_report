@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[cilium-cilium]] [[ruvnet-ruflo]] [[builderio-agent-native]] [[vercel-labs-json-render]] [[open-dev-society-openstock]]
+[[anthropics-claude-code]] [[peetzweg-opendisplay]] [[ruvnet-ruflo]] [[builderio-agent-native]] [[open-dev-society-openstock]]
 
 **所属领域**: [[devops]]
 

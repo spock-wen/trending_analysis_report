@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[trycua-cua]] [[builderio-agent-native]] [[addyosmani-agent-skills]] [[vercel-labs-json-render]] [[docling-project-docling]]
+[[anthropics-claude-code]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[builderio-agent-native]] [[supabase-supabase]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

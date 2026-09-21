@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[trycua-cua]] [[builderio-agent-native]] [[vercel-labs-json-render]] [[tencent-browserskill]] [[open-dev-society-openstock]]
+[[anthropics-claude-code]] [[builderio-agent-native]] [[supabase-supabase]] [[open-dev-society-openstock]] [[tencent-browserskill]]
 
 **所属领域**: [[web]]
 

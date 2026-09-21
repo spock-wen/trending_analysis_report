@@ -35,7 +35,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[trycua-cua]] [[microsoft-onnxruntime]] [[fmtlib-fmt]] [[protocolbuffers-protobuf]] [[tencent-browserskill]]
+[[fmtlib-fmt]] [[supabase-supabase]] [[google-googletest]] [[protocolbuffers-protobuf]] [[tencent-browserskill]]
 
 **所属领域**: [[web]]
 

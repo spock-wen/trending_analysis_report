@@ -34,5 +34,5 @@ The Generative UI framework
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[anthropics-claude-code]] [[builderio-agent-native]]
+[[anthropics-claude-code]] [[builderio-agent-native]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]]
 

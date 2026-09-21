@@ -38,7 +38,7 @@ World's first open-source, agentic video production system. 12 production pipeli
 
 ## 相关项目
 
-[[trycua-cua]] [[anthropics-financial-services]] [[addyosmani-agent-skills]] [[anthropics-knowledge-work-plugins]] [[open-dev-society-openstock]]
+[[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]] [[supabase-supabase]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

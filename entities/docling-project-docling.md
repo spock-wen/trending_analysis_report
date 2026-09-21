@@ -34,7 +34,7 @@ Get your documents ready for gen AI
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[addyosmani-agent-skills]] [[tencent-browserskill]] [[yynxxxxx-codex-x]] [[anthropics-knowledge-work-plugins]]
+[[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

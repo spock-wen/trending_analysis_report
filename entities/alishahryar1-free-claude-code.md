@@ -38,7 +38,7 @@ Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your 
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[addyosmani-agent-skills]] [[docling-project-docling]] [[tonhowtf-omniget]] [[multimodal-art-projection-yue]]
+[[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

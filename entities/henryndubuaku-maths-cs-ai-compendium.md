@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[builderio-agent-native]] [[addyosmani-agent-skills]] [[vercel-labs-json-render]] [[mg1937-asc]] [[open-dev-society-openstock]]
+[[anthropics-claude-code]] [[affaan-m-ecc]] [[alphaxiv-openresearch]] [[builderio-agent-native]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

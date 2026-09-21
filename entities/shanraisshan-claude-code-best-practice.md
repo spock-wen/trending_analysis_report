@@ -35,7 +35,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[trycua-cua]] [[ripienaar-free-for-dev]] [[addyosmani-agent-skills]] [[tencent-browserskill]] [[averygan-reclip]]
+[[cathrynlavery-diagram-design]] [[builderio-agent-native]] [[supabase-supabase]] [[averygan-reclip]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

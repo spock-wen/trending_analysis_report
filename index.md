@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-09-21 | 总页面：614
+> 最后更新：2026-09-22 | 总页面：616
 
 ## Entities
 
@@ -96,7 +96,7 @@
 - [[braveopotato-fcksignups|FckSignups"]] — A list of tools that are open-source, in-browser, and requir... 🔥
 - [[browser-use-browser-use|browser-use"]] — 🌐 Make websites accessible for AI agents. Automate tasks onl...
 - [[browser-use-video-use|video-use"]] — Edit videos with coding agents
-- [[builderio-agent-native|agent-native"]] — A framework for building agentic apps
+- [[builderio-agent-native|agent-native"]] — A framework for building agentic apps 🆕
 - [[byjoey-cfnew|cfnew"]] — No description
 - [[byoungd-english-level-up-tips|English-level-up-tips"]] — An advanced guide to learn English which might benefit you a...
 - [[bytebytegohq-system-design-101|system-design-101"]] — Explain complex systems using visuals and simple terms. Help...
@@ -366,7 +366,7 @@
 - [[microsoft-terminal|terminal"]] — The new Windows Terminal and the original Windows console ho...
 - [[microsoft-typescript|TypeScript"]] — TypeScript is a superset of JavaScript that compiles to clea... 🆕
 - [[microsoft-vibevoice|VibeVoice"]] — Open-Source Frontier Voice AI
-- [[mihail911-modern-software-dev-assignments|modern-software-dev-assignments"]] — Assignments for CS146S: The Modern Software Dev (Stanford Un... 🆕
+- [[mihail911-modern-software-dev-assignments|modern-software-dev-assignments"]] — Assignments for CS146S: The Modern Software Dev (Stanford Un...
 - [[mikeroyal-self-hosting-guide|Self-Hosting-Guide"]] — Self-Hosting Guide. Learn all about locally hosting (on prem...
 - [[mikumifa-bilitickerbuy|biliTickerBuy"]] — b站会员购购票辅助工具
 - [[mksglu-context-mode|context-mode"]] — Context window optimization for AI coding agents. Sandboxes ... 🆕
@@ -383,6 +383,7 @@
 - [[multimodal-art-projection-yue|YuE"]] — YuE2: frontier music generation with symbolic planning, zero...
 - [[music-assistant-server|server"]] — Music Assistant is a free, opensource Media library manager ... 🔥
 - [[mvanhorn-last30days-skill|last30days-skill"]] — AI agent skill that researches any topic across Reddit, X, Y...
+- [[mvt-project-mvt|mvt"]] — MVT (Mobile Verification Toolkit) helps with conducting fore... 🆕
 - [[n0-computer-iroh|iroh"]] — IP addresses break, dial keys instead. Modular networking st... 🔥
 - [[n8n-io-n8n|n8n"]] — Fair-code workflow automation platform with native AI capabi...
 - [[nab138-iloader|iloader"]] — User friendly sideloader 🆕
@@ -408,7 +409,7 @@
 - [[odoo-odoo|odoo"]] — Odoo. Open Source Apps To Grow Your Business.
 - [[ogulcancelik-herdr|herdr"]] — agent multiplexer that lives in your terminal. 🔥
 - [[opa334-dopamine|Dopamine"]] — Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0....
-- [[open-dev-society-openstock|OpenStock"]] — OpenStock is an open-source alternative to expensive market ... 🆕
+- [[open-dev-society-openstock|OpenStock"]] — OpenStock is an open-source alternative to expensive market ... 🔥
 - [[open-llm-vtuber-open-llm-vtuber|Open-LLM-VTuber"]] — Talk to any LLM with hands-free voice interaction, voice int... 🔥
 - [[openai-codex-plugin-cc|codex-plugin-cc"]] — Use Codex from Claude Code to review code or delegate tasks. 🔥
 - [[openai-codex|codex"]] — Lightweight coding agent that runs in your terminal 🆕
@@ -548,7 +549,7 @@
 - [[tradesdontlie-tradingview-mcp|tradingview-mcp"]] — AI-assisted TradingView chart analysis — connect Claude Code...
 - [[trimstray-the-book-of-secret-knowledge|the-book-of-secret-knowledge"]] — A collection of inspiring lists, manuals, cheatsheets, blogs... 🆕
 - [[truelockmc-streambert|streambert"]] — A cross-platform Electron Desktop App to stream and download... 🆕
-- [[trycua-cua|cua"]] — Scale computer-use 2.0 with open-source drivers, cross-OS fl... 🆕
+- [[trycua-cua|cua"]] — Scale computer-use 2.0 with open-source drivers, cross-OS fl... 🔥
 - [[tryghost-ghost|Ghost"]] — Independent technology for modern publishing, memberships, s...
 - [[tt-a1i-archify|archify"]] — Agent skill for beautiful, verifiable architecture, workflow... 🔥
 - [[tursodatabase-turso|turso"]] — Turso is an in-process SQL database, compatible with SQLite. 🔥
@@ -564,7 +565,7 @@
 - [[usestrix-strix|strix"]] — Open-source AI penetration testing tool to find and fix your...
 - [[vastsa-pi-desktop|PI-Desktop"]] — Local-first AI coding agent desktop: Electron + Rust host co... 🔥
 - [[veracrypt-veracrypt|VeraCrypt"]] — Disk encryption with strong security based on TrueCrypt
-- [[vercel-labs-json-render|json-render"]] — The Generative UI framework 🆕
+- [[vercel-labs-json-render|json-render"]] — The Generative UI framework
 - [[vercel-labs-portless|portless"]] — Replace port numbers with stable, named local URLs. For huma...
 - [[vercel-labs-skills|skills"]] — The open agent skills tool - npx skills
 - [[viarotel-org-escrcpy|escrcpy"]] — 📱 Display and control your Android device graphically with s...
@@ -598,6 +599,7 @@
 - [[zedeus-nitter|nitter"]] — Alternative Twitter front-end
 - [[zeux-meshoptimizer|meshoptimizer"]] — Mesh optimization library that makes meshes smaller and fast... 🆕
 - [[zhaoxuya520-reverse-skill|reverse-skill"]] — Reverse Engineering / Authorized Penetration Testing / Secur...
+- [[zhouxiaoka-autoclip|autoclip"]] — AutoClip : AI-powered video clipping and highlight generatio... 🆕
 - [[zuodaotech-everyone-can-use-english|everyone-can-use-english"]] — 人人都能用英语
 - [[zyronon-typewords|TypeWords"]] — Practice English, one strike, one step forward; 练习英语，一次敲击，一点...
 

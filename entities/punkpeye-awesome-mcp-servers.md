@@ -34,7 +34,7 @@ A collection of MCP servers.
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[open-dev-society-openstock]] [[affaan-m-ecc]] [[anthropics-claude-code]]
+[[trycua-cua]] [[builderio-agent-native]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]]
 

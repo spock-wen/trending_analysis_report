@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[docling-project-docling]] [[crosstalk-solutions-project-nomad]] [[ankitects-anki]] [[multimodal-art-projection-yue]] [[tencent-browserskill]]
+[[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[multimodal-art-projection-yue]] [[cloudflare-quiche]] [[jamiepine-voicebox]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

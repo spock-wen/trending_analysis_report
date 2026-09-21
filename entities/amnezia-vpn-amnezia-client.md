@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[cilium-cilium]] [[microsoft-onnxruntime]] [[fmtlib-fmt]] [[nationalsecurityagency-ghidra]] [[protocolbuffers-protobuf]]
+[[fmtlib-fmt]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[yynxxxxx-codex-x]] [[google-googletest]]
 
 **所属领域**: [[cli]] [[security]]
 

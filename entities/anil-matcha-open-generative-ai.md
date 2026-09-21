@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[trycua-cua]] [[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]] [[multimodal-art-projection-yue]] [[tradesdontlie-tradingview-mcp]]
+[[affaan-m-ecc]] [[tradesdontlie-tradingview-mcp]] [[multimodal-art-projection-yue]] [[builderio-agent-native]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

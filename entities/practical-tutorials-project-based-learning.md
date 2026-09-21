@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[tonhowtf-omniget]] [[crosstalk-solutions-project-nomad]] [[anthropics-knowledge-work-plugins]] [[higgsfield-ai-higgsfield]]
+[[mvt-project-mvt]] [[anthropics-financial-services]] [[higgsfield-ai-higgsfield]] [[zhouxiaoka-autoclip]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[education]]
 

@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[addyosmani-agent-skills]] [[tonhowtf-omniget]] [[crosstalk-solutions-project-nomad]] [[anthropics-knowledge-work-plugins]]
+[[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]] [[higgsfield-ai-higgsfield]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

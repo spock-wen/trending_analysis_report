@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[docling-project-docling]] [[ankitects-anki]] [[tencent-browserskill]] [[rustfs-rustfs]] [[cloudflare-quiche]]
+[[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[cloudflare-quiche]] [[zhouxiaoka-autoclip]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[builderio-agent-native]] [[vercel-labs-json-render]] [[open-dev-society-openstock]] [[alsk1992-cloddsbot]] [[anthropics-claude-code]]
+[[anthropics-claude-code]] [[danny-avila-librechat]] [[ever-co-ever-gauzy]] [[builderio-agent-native]] [[melgarafael-deskcommcrm]]
 
 **所属领域**: [[erp]]
 

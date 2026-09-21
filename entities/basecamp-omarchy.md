@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[tencent-browserskill]] [[yynxxxxx-codex-x]] [[anthropics-claude-code]] [[mattpocock-skills]] [[obra-superpowers]]
+[[anthropics-claude-code]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[zhouxiaoka-autoclip]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

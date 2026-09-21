@@ -35,7 +35,7 @@ A utility-first CSS framework for rapid UI development.
 
 ## 相关项目
 
-[[trycua-cua]] [[builderio-agent-native]] [[addyosmani-agent-skills]] [[vercel-labs-json-render]] [[tencent-browserskill]]
+[[anthropics-claude-code]] [[builderio-agent-native]] [[supabase-supabase]] [[open-dev-society-openstock]] [[tencent-browserskill]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

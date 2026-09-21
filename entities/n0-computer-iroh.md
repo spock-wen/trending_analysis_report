@@ -37,5 +37,5 @@ IP addresses break, dial keys instead. Modular networking stack in Rust.
 
 ## 相关项目
 
-[[ankitects-anki]] [[rustfs-rustfs]] [[cloudflare-quiche]] [[yynxxxxx-codex-x]]
+[[akitaonrails-ai-memory]] [[ankitects-anki]] [[cloudflare-quiche]] [[yynxxxxx-codex-x]]
 

@@ -36,7 +36,7 @@ Help AI coding agents write modern Go
 
 ## 相关项目
 
-[[coder-coder]] [[addyosmani-agent-skills]] [[tencent-weknora]] [[alibaba-open-code-review]] [[asciimoo-hister]]
+[[coder-coder]] [[trycua-cua]] [[builderio-agent-native]] [[alibaba-open-code-review]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]]
 

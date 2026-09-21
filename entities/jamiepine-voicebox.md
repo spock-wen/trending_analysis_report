@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[builderio-agent-native]] [[addyosmani-agent-skills]] [[vercel-labs-json-render]] [[tonhowtf-omniget]] [[multimodal-art-projection-yue]]
+[[anthropics-claude-code]] [[multimodal-art-projection-yue]] [[builderio-agent-native]] [[debpalash-voicestudio]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

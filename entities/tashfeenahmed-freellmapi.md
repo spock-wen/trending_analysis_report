@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cilium-cilium]] [[nationalsecurityagency-ghidra]] [[builderio-agent-native]] [[addyosmani-agent-skills]] [[vercel-labs-json-render]]
+[[anthropics-claude-code]] [[affaan-m-ecc]] [[builderio-agent-native]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

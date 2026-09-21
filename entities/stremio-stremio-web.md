@@ -34,7 +34,7 @@ Stremio - Freedom to Stream
 
 ## 相关项目
 
-[[trycua-cua]] [[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]] [[tencent-browserskill]] [[tradesdontlie-tradingview-mcp]]
+[[affaan-m-ecc]] [[tradesdontlie-tradingview-mcp]] [[supabase-supabase]] [[cloudflare-security-audit-skill]] [[tencent-browserskill]]
 
 **所属领域**: [[web]]
 

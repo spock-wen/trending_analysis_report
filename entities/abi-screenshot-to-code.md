@@ -35,7 +35,7 @@ Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 
 ## 相关项目
 
-[[trycua-cua]] [[anthropics-financial-services]] [[addyosmani-agent-skills]] [[tencent-browserskill]] [[anthropics-knowledge-work-plugins]]
+[[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]] [[supabase-supabase]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

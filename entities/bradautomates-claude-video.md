@@ -38,7 +38,7 @@ Give Claude the ability to watch any video. /watch downloads, extracts frames, t
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[addyosmani-agent-skills]] [[anthropics-knowledge-work-plugins]] [[open-dev-society-openstock]] [[anthropics-claude-code]]
+[[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]] [[zhouxiaoka-autoclip]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[ai-agent]]
 

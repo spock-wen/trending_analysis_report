@@ -36,5 +36,5 @@ Your own search engine
 
 ## 相关项目
 
-[[tencent-weknora]] [[alibaba-open-code-review]] [[coder-coder]]
+[[coder-coder]] [[tencent-weknora]] [[alibaba-open-code-review]]
 

@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[trycua-cua]] [[embabel-embabel-agent]] [[tencent-browserskill]] [[cloudflare-quiche]] [[supabase-supabase]]
+[[embabel-embabel-agent]] [[supabase-supabase]] [[andreknieriem-headunit-revived]] [[mahlernim-google-timeline-visualizer]] [[tencent-browserskill]]
 
 **所属领域**: [[web]]
 

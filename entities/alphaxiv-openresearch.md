@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[ankitects-anki]] [[yynxxxxx-codex-x]] [[mg1937-asc]] [[open-dev-society-openstock]]
+[[affaan-m-ecc]] [[yynxxxxx-codex-x]] [[builderio-agent-native]] [[cloudflare-quiche]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

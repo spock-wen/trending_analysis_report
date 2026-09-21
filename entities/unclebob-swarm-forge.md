@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[open-dev-society-openstock]] [[anthropics-claude-code]] [[penpot-penpot]] [[affaan-m-ecc]]
+[[builderio-agent-native]] [[penpot-penpot]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]]
 

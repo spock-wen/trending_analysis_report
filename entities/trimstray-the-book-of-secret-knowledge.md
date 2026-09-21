@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[trycua-cua]] [[tencent-browserskill]] [[yynxxxxx-codex-x]] [[cloudflare-quiche]] [[anthropics-claude-code]]
+[[anthropics-claude-code]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[supabase-supabase]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[web]] [[cli]]
 

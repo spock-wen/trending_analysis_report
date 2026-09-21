@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[addyosmani-agent-skills]] [[docling-project-docling]] [[tencent-browserskill]] [[yynxxxxx-codex-x]]
+[[anthropics-claude-code]] [[affaan-m-ecc]] [[danny-avila-librechat]] [[alphaxiv-openresearch]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

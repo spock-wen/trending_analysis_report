@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[builderio-agent-native]] [[vercel-labs-json-render]] [[tonhowtf-omniget]] [[crosstalk-solutions-project-nomad]] [[open-dev-society-openstock]]
+[[anthropics-claude-code]] [[builderio-agent-native]] [[crosstalk-solutions-project-nomad]] [[open-dev-society-openstock]] [[huggingface-transformers]]
 
 **所属领域**: [[education]]
 

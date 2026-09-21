@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cilium-cilium]] [[ruvnet-ruflo]] [[builderio-agent-native]] [[addyosmani-agent-skills]] [[vercel-labs-json-render]]
+[[anthropics-claude-code]] [[peetzweg-opendisplay]] [[ruvnet-ruflo]] [[builderio-agent-native]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

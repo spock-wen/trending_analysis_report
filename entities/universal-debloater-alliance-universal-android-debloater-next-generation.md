@@ -36,7 +36,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[trycua-cua]] [[cilium-cilium]] [[nationalsecurityagency-ghidra]] [[cloudflare-security-audit-skill]] [[multimodal-art-projection-yue]]
+[[affaan-m-ecc]] [[yynxxxxx-codex-x]] [[multimodal-art-projection-yue]] [[cloudflare-quiche]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[security]] [[image-gen]]
 

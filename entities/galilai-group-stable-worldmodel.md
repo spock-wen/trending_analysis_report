@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[trycua-cua]] [[anthropics-financial-services]] [[addyosmani-agent-skills]] [[multimodal-art-projection-yue]] [[mg1937-asc]]
+[[affaan-m-ecc]] [[alphaxiv-openresearch]] [[multimodal-art-projection-yue]] [[mvt-project-mvt]] [[builderio-agent-native]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

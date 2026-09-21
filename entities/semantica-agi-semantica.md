@@ -38,7 +38,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[cilium-cilium]] [[ruvnet-ruflo]] [[addyosmani-agent-skills]] [[anthropics-knowledge-work-plugins]]
+[[peetzweg-opendisplay]] [[ruvnet-ruflo]] [[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

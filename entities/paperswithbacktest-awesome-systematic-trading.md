@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[tonhowtf-omniget]] [[crosstalk-solutions-project-nomad]] [[mg1937-asc]] [[anthropics-knowledge-work-plugins]]
+[[affaan-m-ecc]] [[alphaxiv-openresearch]] [[mvt-project-mvt]] [[anthropics-financial-services]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[education]] [[science]]
 

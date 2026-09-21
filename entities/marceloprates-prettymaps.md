@@ -34,7 +34,7 @@ Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 
 ## 相关项目
 
-[[trycua-cua]] [[anthropics-financial-services]] [[anthropics-knowledge-work-plugins]] [[alibaba-open-code-review]] [[supabase-supabase]]
+[[mvt-project-mvt]] [[supabase-supabase]] [[anthropics-financial-services]] [[zhouxiaoka-autoclip]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[data]]
 

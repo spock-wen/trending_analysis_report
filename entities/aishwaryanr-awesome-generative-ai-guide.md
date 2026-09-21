@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[trycua-cua]] [[ripienaar-free-for-dev]] [[addyosmani-agent-skills]] [[tencent-browserskill]] [[mg1937-asc]]
+[[affaan-m-ecc]] [[cathrynlavery-diagram-design]] [[alphaxiv-openresearch]] [[builderio-agent-native]] [[supabase-supabase]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

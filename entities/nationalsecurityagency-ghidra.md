@@ -38,7 +38,7 @@ Ghidra is a software reverse engineering (SRE) framework
 
 ## 相关项目
 
-[[cilium-cilium]] [[google-guava]] [[cloudflare-security-audit-skill]] [[yuliskov-smarttube]] [[checkstyle-checkstyle]]
+[[affaan-m-ecc]] [[google-guava]] [[cloudflare-security-audit-skill]] [[cilium-cilium]] [[checkstyle-checkstyle]]
 
 **所属领域**: [[security]]
 

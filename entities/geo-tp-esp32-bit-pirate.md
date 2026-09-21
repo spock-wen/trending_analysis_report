@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[trycua-cua]] [[microsoft-onnxruntime]] [[fmtlib-fmt]] [[protocolbuffers-protobuf]] [[tencent-browserskill]]
+[[fmtlib-fmt]] [[anthropics-claude-code]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[supabase-supabase]]
 
 **所属领域**: [[web]] [[cli]]
 

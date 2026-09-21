@@ -35,7 +35,7 @@ AI-assisted TradingView chart analysis — connect Claude Code to your TradingVi
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]] [[open-dev-society-openstock]] [[anthropics-claude-code]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[builderio-agent-native]] [[cloudflare-security-audit-skill]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]]
 

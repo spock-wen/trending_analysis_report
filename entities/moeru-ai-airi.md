@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[trycua-cua]] [[builderio-agent-native]] [[addyosmani-agent-skills]] [[vercel-labs-json-render]] [[tonhowtf-omniget]]
+[[anthropics-claude-code]] [[multimodal-art-projection-yue]] [[builderio-agent-native]] [[supabase-supabase]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

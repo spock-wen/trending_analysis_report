@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[trycua-cua]] [[anthropics-financial-services]] [[addyosmani-agent-skills]] [[tonhowtf-omniget]] [[multimodal-art-projection-yue]]
+[[multimodal-art-projection-yue]] [[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

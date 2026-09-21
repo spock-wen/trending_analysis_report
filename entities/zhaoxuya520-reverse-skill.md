@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[cilium-cilium]] [[nationalsecurityagency-ghidra]] [[addyosmani-agent-skills]] [[docling-project-docling]] [[cloudflare-security-audit-skill]]
+[[anthropics-claude-code]] [[affaan-m-ecc]] [[alphaxiv-openresearch]] [[raphire-win11debloat]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

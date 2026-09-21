@@ -34,7 +34,7 @@ Claude Code toolkit - agents, commands, skills, rules, and hooks for productive 
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[docling-project-docling]] [[cloudflare-security-audit-skill]] [[tencent-browserskill]] [[yynxxxxx-codex-x]]
+[[affaan-m-ecc]] [[anthropics-claude-code]] [[tradesdontlie-tradingview-mcp]] [[yynxxxxx-codex-x]] [[builderio-agent-native]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

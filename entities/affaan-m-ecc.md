@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[cilium-cilium]] [[nationalsecurityagency-ghidra]] [[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]] [[mg1937-asc]]
+[[tradesdontlie-tradingview-mcp]] [[alphaxiv-openresearch]] [[builderio-agent-native]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

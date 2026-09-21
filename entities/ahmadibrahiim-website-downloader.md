@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[trycua-cua]] [[ripienaar-free-for-dev]] [[multimodal-art-projection-yue]] [[tencent-browserskill]] [[cathrynlavery-diagram-design]]
+[[cathrynlavery-diagram-design]] [[multimodal-art-projection-yue]] [[supabase-supabase]] [[averygan-reclip]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[web]] [[image-gen]]
 

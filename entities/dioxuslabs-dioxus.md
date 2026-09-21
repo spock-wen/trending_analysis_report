@@ -35,7 +35,7 @@ Fullstack app framework for web, desktop, and mobile.
 
 ## 相关项目
 
-[[trycua-cua]] [[ankitects-anki]] [[tencent-browserskill]] [[rustfs-rustfs]] [[cloudflare-quiche]]
+[[yynxxxxx-codex-x]] [[supabase-supabase]] [[cloudflare-quiche]] [[tencent-browserskill]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[web]]
 

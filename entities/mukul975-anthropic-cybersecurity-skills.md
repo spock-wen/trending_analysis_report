@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[cilium-cilium]] [[nationalsecurityagency-ghidra]] [[addyosmani-agent-skills]] [[docling-project-docling]]
+[[anthropics-claude-code]] [[affaan-m-ecc]] [[yynxxxxx-codex-x]] [[mvt-project-mvt]] [[builderio-agent-native]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

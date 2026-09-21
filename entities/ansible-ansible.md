@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[trycua-cua]] [[anthropics-financial-services]] [[cilium-cilium]] [[ruvnet-ruflo]] [[addyosmani-agent-skills]]
+[[peetzweg-opendisplay]] [[ruvnet-ruflo]] [[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

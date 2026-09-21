@@ -35,7 +35,7 @@ ADR secures enterprise AI agents through observability, security benchmarking, a
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[cilium-cilium]] [[ruvnet-ruflo]] [[nationalsecurityagency-ghidra]] [[danny-avila-librechat]]
+[[ruvnet-ruflo]] [[cloudflare-security-audit-skill]] [[paperless-ngx-paperless-ngx]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[security]] [[erp]]
 

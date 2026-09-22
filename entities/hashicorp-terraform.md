@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[coder-coder]] [[peetzweg-opendisplay]] [[ruvnet-ruflo]] [[trycua-cua]] [[builderio-agent-native]]
+[[browser-use-video-use]] [[coder-coder]] [[peetzweg-opendisplay]] [[ruvnet-ruview]] [[google-ax]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

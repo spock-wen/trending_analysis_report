@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]] [[supabase-supabase]] [[zhouxiaoka-autoclip]]
+[[mvt-project-mvt]] [[cloudflare-quiche]] [[agent-substrate-substrate]] [[trycua-cua]] [[superdesigndev-treg]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

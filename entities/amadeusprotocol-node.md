@@ -34,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[ankitects-anki]] [[cloudflare-quiche]] [[yynxxxxx-codex-x]]
+[[cloudflare-quiche]] [[ankitects-anki]] [[yynxxxxx-codex-x]] [[akitaonrails-ai-memory]]
 

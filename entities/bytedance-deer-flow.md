@@ -38,7 +38,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[alphaxiv-openresearch]] [[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]]
+[[mvt-project-mvt]] [[paperless-ngx-paperless-ngx]] [[agent-substrate-substrate]] [[mg1937-asc]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

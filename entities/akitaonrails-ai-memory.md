@@ -37,7 +37,7 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[builderio-agent-native]] [[zhouxiaoka-autoclip]] [[open-dev-society-openstock]]
+[[cloudflare-quiche]] [[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[agent-substrate-substrate]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

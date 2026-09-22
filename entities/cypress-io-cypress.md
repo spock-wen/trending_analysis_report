@@ -37,7 +37,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[builderio-agent-native]] [[supabase-supabase]] [[open-dev-society-openstock]] [[tencent-browserskill]]
+[[cloudflare-quiche]] [[open-dev-society-openstock]] [[browser-use-video-use]] [[trycua-cua]] [[superdesigndev-treg]]
 
 **所属领域**: [[web]]
 

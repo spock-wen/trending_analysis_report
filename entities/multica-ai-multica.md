@@ -36,7 +36,7 @@ The open-source managed agents platform. Turn coding agents into real teammates 
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[builderio-agent-native]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]] [[trycua-cua]]
+[[open-dev-society-openstock]] [[browser-use-video-use]] [[agent-substrate-substrate]] [[davila7-claude-code-templates]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

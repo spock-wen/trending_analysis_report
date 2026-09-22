@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[builderio-agent-native]] [[supabase-supabase]] [[higgsfield-ai-higgsfield]] [[open-dev-society-openstock]]
+[[cloudflare-quiche]] [[tonhowtf-omniget]] [[open-dev-society-openstock]] [[huggingface-transformers]] [[browser-use-video-use]]
 
 **所属领域**: [[web]] [[education]]
 

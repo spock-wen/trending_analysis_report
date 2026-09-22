@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[peetzweg-opendisplay]] [[builderio-agent-native]] [[higgsfield-ai-higgsfield]] [[open-dev-society-openstock]]
+[[tonhowtf-omniget]] [[open-dev-society-openstock]] [[huggingface-transformers]] [[browser-use-video-use]] [[agent-substrate-substrate]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

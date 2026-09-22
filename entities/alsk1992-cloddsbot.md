@@ -36,7 +36,7 @@ Open Source AI trading agent that operates autonomously across 1000+ markets - P
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[danny-avila-librechat]] [[ever-co-ever-gauzy]] [[builderio-agent-native]] [[melgarafael-deskcommcrm]]
+[[melgarafael-deskcommcrm]] [[open-dev-society-openstock]] [[browser-use-video-use]] [[agent-substrate-substrate]] [[danny-avila-librechat]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

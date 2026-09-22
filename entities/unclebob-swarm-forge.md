@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[builderio-agent-native]] [[penpot-penpot]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]] [[trycua-cua]]
+[[penpot-penpot]] [[browser-use-video-use]] [[davila7-claude-code-templates]] [[dream-num-univer]] [[agent-substrate-substrate]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ## 相关项目
 
-[[yynxxxxx-codex-x]] [[builderio-agent-native]] [[cloudflare-quiche]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]]
+[[cloudflare-quiche]] [[yynxxxxx-codex-x]] [[agent-substrate-substrate]] [[davila7-claude-code-templates]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

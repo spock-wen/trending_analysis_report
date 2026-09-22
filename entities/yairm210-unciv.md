@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[embabel-embabel-agent]] [[builderio-agent-native]] [[andreknieriem-headunit-revived]] [[mahlernim-google-timeline-visualizer]] [[open-dev-society-openstock]]
+[[embabel-embabel-agent]] [[agent-substrate-substrate]] [[davila7-claude-code-templates]] [[andreknieriem-headunit-revived]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

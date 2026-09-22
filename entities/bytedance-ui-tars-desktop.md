@@ -34,7 +34,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[peetzweg-opendisplay]] [[ruvnet-ruflo]] [[builderio-agent-native]] [[open-dev-society-openstock]]
+[[open-dev-society-openstock]] [[browser-use-video-use]] [[agent-substrate-substrate]] [[peetzweg-opendisplay]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

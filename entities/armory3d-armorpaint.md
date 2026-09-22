@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[justvugg-colibri]] [[builderio-agent-native]] [[opa334-dopamine]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]]
+[[opa334-dopamine]] [[agent-substrate-substrate]] [[antirez-ds4]] [[davila7-claude-code-templates]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

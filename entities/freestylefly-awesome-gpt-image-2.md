@@ -38,7 +38,7 @@ Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tradesdontlie-tradingview-mcp]] [[multimodal-art-projection-yue]] [[builderio-agent-native]] [[cloudflare-security-audit-skill]]
+[[zhouxiaoka-autoclip]] [[agent-substrate-substrate]] [[trycua-cua]] [[cloudflare-security-audit-skill]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

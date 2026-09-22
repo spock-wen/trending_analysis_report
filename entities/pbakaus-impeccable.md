@@ -35,7 +35,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tradesdontlie-tradingview-mcp]] [[builderio-agent-native]] [[cloudflare-security-audit-skill]] [[open-dev-society-openstock]]
+[[agent-substrate-substrate]] [[cloudflare-security-audit-skill]] [[davila7-claude-code-templates]] [[addyosmani-agent-skills]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

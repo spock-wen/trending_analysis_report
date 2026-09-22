@@ -38,7 +38,7 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[alphaxiv-openresearch]] [[yynxxxxx-codex-x]] [[builderio-agent-native]] [[cloudflare-quiche]]
+[[cloudflare-quiche]] [[yynxxxxx-codex-x]] [[agent-substrate-substrate]] [[paperless-ngx-paperless-ngx]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

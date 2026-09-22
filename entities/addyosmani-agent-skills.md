@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tradesdontlie-tradingview-mcp]] [[builderio-agent-native]] [[cloudflare-security-audit-skill]] [[open-dev-society-openstock]]
+[[agent-substrate-substrate]] [[cloudflare-security-audit-skill]] [[davila7-claude-code-templates]] [[dream-num-univer]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

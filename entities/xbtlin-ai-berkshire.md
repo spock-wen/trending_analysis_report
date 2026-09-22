@@ -38,7 +38,7 @@ AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框�
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[alphaxiv-openresearch]] [[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]]
+[[mvt-project-mvt]] [[paperless-ngx-paperless-ngx]] [[agent-substrate-substrate]] [[mg1937-asc]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

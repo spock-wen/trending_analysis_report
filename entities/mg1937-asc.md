@@ -34,7 +34,7 @@ ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Rese
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[alphaxiv-openresearch]] [[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]]
+[[mvt-project-mvt]] [[paperless-ngx-paperless-ngx]] [[agent-substrate-substrate]] [[davila7-claude-code-templates]] [[alphaxiv-openresearch]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

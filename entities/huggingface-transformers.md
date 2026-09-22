@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]] [[higgsfield-ai-higgsfield]]
+[[mvt-project-mvt]] [[tonhowtf-omniget]] [[agent-substrate-substrate]] [[higgsfield-ai-higgsfield]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

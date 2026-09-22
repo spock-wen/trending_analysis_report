@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[peetzweg-opendisplay]] [[danny-avila-librechat]] [[ruvnet-ruflo]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]]
+[[melgarafael-deskcommcrm]] [[tonhowtf-omniget]] [[alsk1992-cloddsbot]] [[huggingface-transformers]] [[agent-substrate-substrate]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[builderio-agent-native]] [[zhouxiaoka-autoclip]]
+[[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[agent-substrate-substrate]] [[basecamp-omarchy]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

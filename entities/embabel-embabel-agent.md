@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[builderio-agent-native]] [[andreknieriem-headunit-revived]] [[mahlernim-google-timeline-visualizer]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]]
+[[browser-use-video-use]] [[agent-substrate-substrate]] [[davila7-claude-code-templates]] [[dream-num-univer]] [[mahlernim-google-timeline-visualizer]]
 
 **所属领域**: [[ai-agent]]
 

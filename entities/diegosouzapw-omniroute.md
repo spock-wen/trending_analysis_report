@@ -38,7 +38,7 @@ Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[builderio-agent-native]] [[zhouxiaoka-autoclip]] [[open-dev-society-openstock]]
+[[open-dev-society-openstock]] [[zhouxiaoka-autoclip]] [[browser-use-video-use]] [[agent-substrate-substrate]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

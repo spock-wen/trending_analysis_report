@@ -36,7 +36,7 @@ RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine tha
 
 ## 相关项目
 
-[[coder-coder]] [[multimodal-art-projection-yue]] [[trycua-cua]] [[builderio-agent-native]] [[zhouxiaoka-autoclip]]
+[[zhouxiaoka-autoclip]] [[browser-use-video-use]] [[coder-coder]] [[trycua-cua]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

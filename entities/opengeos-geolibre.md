@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[builderio-agent-native]] [[supabase-supabase]] [[alibaba-open-code-review]] [[open-dev-society-openstock]]
+[[cloudflare-quiche]] [[open-dev-society-openstock]] [[browser-use-video-use]] [[trycua-cua]] [[superdesigndev-treg]]
 
 **所属领域**: [[web]] [[data]]
 

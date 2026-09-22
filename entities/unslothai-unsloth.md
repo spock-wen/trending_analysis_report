@@ -37,7 +37,7 @@ Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]] [[zhouxiaoka-autoclip]]
+[[mvt-project-mvt]] [[zhouxiaoka-autoclip]] [[agent-substrate-substrate]] [[trycua-cua]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

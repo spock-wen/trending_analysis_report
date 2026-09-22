@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[supabase-supabase]] [[anthropics-financial-services]] [[zhouxiaoka-autoclip]] [[paperless-ngx-paperless-ngx]]
+[[mvt-project-mvt]] [[cloudflare-quiche]] [[trycua-cua]] [[superdesigndev-treg]] [[supabase-supabase]]
 
 **所属领域**: [[web]] [[data]]
 

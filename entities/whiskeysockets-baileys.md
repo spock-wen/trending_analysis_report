@@ -34,7 +34,7 @@ Socket-based TS/JavaScript API for WhatsApp Web
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tradesdontlie-tradingview-mcp]] [[builderio-agent-native]] [[supabase-supabase]] [[cloudflare-security-audit-skill]]
+[[cloudflare-quiche]] [[agent-substrate-substrate]] [[trycua-cua]] [[cloudflare-security-audit-skill]] [[superdesigndev-treg]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

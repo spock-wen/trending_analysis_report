@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[peetzweg-opendisplay]] [[multimodal-art-projection-yue]] [[builderio-agent-native]] [[supabase-supabase]] [[jamiepine-voicebox]]
+[[cloudflare-quiche]] [[tonhowtf-omniget]] [[browser-use-video-use]] [[agent-substrate-substrate]] [[peetzweg-opendisplay]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

@@ -35,5 +35,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tradesdontlie-tradingview-mcp]] [[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]]
+[[affaan-m-ecc]] [[tradesdontlie-tradingview-mcp]] [[cloudflare-security-audit-skill]] [[addyosmani-agent-skills]]
 

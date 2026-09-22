@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[danny-avila-librechat]] [[yynxxxxx-codex-x]] [[builderio-agent-native]] [[cloudflare-quiche]] [[ever-co-ever-gauzy]]
+[[cloudflare-quiche]] [[melgarafael-deskcommcrm]] [[alsk1992-cloddsbot]] [[yynxxxxx-codex-x]] [[agent-substrate-substrate]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

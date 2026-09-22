@@ -34,7 +34,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[builderio-agent-native]] [[higgsfield-ai-higgsfield]] [[zhouxiaoka-autoclip]]
+[[tonhowtf-omniget]] [[zhouxiaoka-autoclip]] [[huggingface-transformers]] [[yynxxxxx-codex-x]] [[agent-substrate-substrate]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

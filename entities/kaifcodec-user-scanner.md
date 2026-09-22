@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[alphaxiv-openresearch]] [[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]]
+[[mvt-project-mvt]] [[paperless-ngx-paperless-ngx]] [[agent-substrate-substrate]] [[trycua-cua]] [[supabase-supabase]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

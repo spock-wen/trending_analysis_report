@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[builderio-agent-native]] [[lyogavin-airllm]] [[crosstalk-solutions-project-nomad]]
+[[agent-substrate-substrate]] [[higgsfield-ai-higgsfield]] [[davila7-claude-code-templates]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

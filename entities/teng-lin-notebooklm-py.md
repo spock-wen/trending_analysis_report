@@ -34,7 +34,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[mvt-project-mvt]] [[builderio-agent-native]]
+[[mvt-project-mvt]] [[cloudflare-quiche]] [[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[agent-substrate-substrate]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

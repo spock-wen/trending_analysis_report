@@ -34,7 +34,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tradesdontlie-tradingview-mcp]] [[supabase-supabase]] [[cloudflare-security-audit-skill]] [[tencent-browserskill]]
+[[cloudflare-quiche]] [[trycua-cua]] [[cloudflare-security-audit-skill]] [[superdesigndev-treg]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[web]]
 

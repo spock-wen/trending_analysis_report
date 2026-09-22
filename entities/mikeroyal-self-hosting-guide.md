@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[builderio-agent-native]] [[supabase-supabase]] [[higgsfield-ai-higgsfield]] [[open-dev-society-openstock]] [[tencent-browserskill]]
+[[cloudflare-quiche]] [[tonhowtf-omniget]] [[huggingface-transformers]] [[agent-substrate-substrate]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

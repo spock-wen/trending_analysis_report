@@ -38,7 +38,7 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[builderio-agent-native]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]] [[trycua-cua]]
+[[open-dev-society-openstock]] [[browser-use-video-use]] [[agent-substrate-substrate]] [[davila7-claude-code-templates]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

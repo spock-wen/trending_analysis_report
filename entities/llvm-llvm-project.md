@@ -34,7 +34,7 @@ The LLVM Project is a collection of modular and reusable compiler and toolchain 
 
 ## 相关项目
 
-[[trycua-cua]] [[builderio-agent-native]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]]
+[[davila7-claude-code-templates]] [[browser-use-video-use]] [[dream-num-univer]] [[agent-substrate-substrate]]
 
 **所属领域**: [[ai-agent]]
 

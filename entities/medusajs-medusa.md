@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[danny-avila-librechat]] [[ever-co-ever-gauzy]] [[builderio-agent-native]] [[melgarafael-deskcommcrm]]
+[[melgarafael-deskcommcrm]] [[alsk1992-cloddsbot]] [[open-dev-society-openstock]] [[danny-avila-librechat]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[erp]]
 

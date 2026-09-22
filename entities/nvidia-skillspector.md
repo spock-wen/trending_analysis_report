@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]] [[cloudflare-security-audit-skill]]
+[[mvt-project-mvt]] [[agent-substrate-substrate]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

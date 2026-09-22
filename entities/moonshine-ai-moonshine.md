@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[multimodal-art-projection-yue]] [[builderio-agent-native]] [[google-googletest]] [[protocolbuffers-protobuf]]
+[[tonhowtf-omniget]] [[protocolbuffers-protobuf]] [[agent-substrate-substrate]] [[google-googletest]] [[fmtlib-fmt]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

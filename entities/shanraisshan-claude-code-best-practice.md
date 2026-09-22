@@ -35,7 +35,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[builderio-agent-native]] [[supabase-supabase]] [[averygan-reclip]] [[open-dev-society-openstock]]
+[[cloudflare-quiche]] [[averygan-reclip]] [[agent-substrate-substrate]] [[trycua-cua]] [[superdesigndev-treg]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

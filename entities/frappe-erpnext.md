@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[danny-avila-librechat]] [[ever-co-ever-gauzy]] [[mvt-project-mvt]] [[anthropics-financial-services]] [[zhouxiaoka-autoclip]]
+[[mvt-project-mvt]] [[melgarafael-deskcommcrm]] [[alsk1992-cloddsbot]] [[danny-avila-librechat]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[erp]]
 

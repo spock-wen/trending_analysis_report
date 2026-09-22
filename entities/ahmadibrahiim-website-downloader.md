@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[multimodal-art-projection-yue]] [[supabase-supabase]] [[averygan-reclip]] [[zhouxiaoka-autoclip]]
+[[cloudflare-quiche]] [[zhouxiaoka-autoclip]] [[averygan-reclip]] [[trycua-cua]] [[superdesigndev-treg]]
 
 **所属领域**: [[web]] [[image-gen]]
 

@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[zhouxiaoka-autoclip]] [[obra-superpowers]]
+[[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[mattpocock-skills]] [[davila7-claude-code-templates]] [[nvm-sh-nvm]]
 
 **所属领域**: [[cli]]
 

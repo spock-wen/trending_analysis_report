@@ -35,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[k1tbyte-wand-enhancer]] [[yynxxxxx-codex-x]] [[jellyfin-jellyfin]] [[zhouxiaoka-autoclip]]
+[[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[k1tbyte-wand-enhancer]] [[davila7-claude-code-templates]] [[sonarr-sonarr]]
 
 **所属领域**: [[cli]]
 

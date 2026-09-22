@@ -35,7 +35,7 @@ AI turns documents or topics into real, native PowerPoint decks—with native sh
 
 ## 相关项目
 
-[[paperless-ngx-paperless-ngx]] [[debpalash-voicestudio]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]] [[trycua-cua]]
+[[mvt-project-mvt]] [[melgarafael-deskcommcrm]] [[alsk1992-cloddsbot]] [[tonhowtf-omniget]] [[agent-substrate-substrate]]
 
 **所属领域**: [[ai-agent]] [[data]] [[erp]] [[audio]]
 

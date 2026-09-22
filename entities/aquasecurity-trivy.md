@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[coder-coder]] [[affaan-m-ecc]] [[trycua-cua]] [[builderio-agent-native]] [[cloudflare-security-audit-skill]]
+[[browser-use-video-use]] [[coder-coder]] [[cloudflare-security-audit-skill]] [[google-ax]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

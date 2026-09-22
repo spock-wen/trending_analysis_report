@@ -38,5 +38,5 @@ The open-source CapCut alternative
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[builderio-agent-native]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]]
+[[builderio-agent-native]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]] [[dream-num-univer]]
 

@@ -34,7 +34,7 @@ Langflow is a powerful tool for building and deploying AI-powered agents and wor
 
 ## 相关项目
 
-[[peetzweg-opendisplay]] [[ruvnet-ruflo]] [[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]]
+[[mvt-project-mvt]] [[agent-substrate-substrate]] [[peetzweg-opendisplay]] [[ruvnet-ruview]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

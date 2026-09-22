@@ -34,7 +34,7 @@ DevOps Interview Guide
 
 ## 相关项目
 
-[[peetzweg-opendisplay]] [[ruvnet-ruflo]] [[cilium-cilium]] [[ruvnet-ruview]]
+[[davila7-claude-code-templates]] [[cilium-cilium]] [[peetzweg-opendisplay]] [[ruvnet-ruview]]
 
 **所属领域**: [[devops]]
 

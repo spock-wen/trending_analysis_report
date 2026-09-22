@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[builderio-agent-native]] [[supabase-supabase]]
+[[cloudflare-quiche]] [[open-dev-society-openstock]] [[zhouxiaoka-autoclip]] [[browser-use-video-use]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[web]] [[cli]]
 

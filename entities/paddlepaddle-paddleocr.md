@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]] [[supabase-supabase]]
+[[mvt-project-mvt]] [[zhouxiaoka-autoclip]] [[agent-substrate-substrate]] [[trycua-cua]] [[supabase-supabase]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

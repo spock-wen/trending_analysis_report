@@ -37,7 +37,7 @@ A framework for building agentic apps
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[trycua-cua]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]]
+[[open-dev-society-openstock]] [[browser-use-video-use]] [[agent-substrate-substrate]] [[davila7-claude-code-templates]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

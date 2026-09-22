@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[builderio-agent-native]] [[higgsfield-ai-higgsfield]] [[lyogavin-airllm]] [[open-dev-society-openstock]]
+[[tonhowtf-omniget]] [[huggingface-transformers]] [[agent-substrate-substrate]] [[higgsfield-ai-higgsfield]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

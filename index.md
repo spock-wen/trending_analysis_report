@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-09-22 | 总页面：616
+> 最后更新：2026-09-23 | 总页面：619
 
 ## Entities
 
@@ -60,7 +60,7 @@
 - [[anthropics-claude-plugins-community|claude-plugins-community"]] — Community plugin marketplace for Claude Cowork and Claude Co... 🔥
 - [[anthropics-claude-plugins-official|claude-plugins-official"]] — Official, Anthropic-managed directory of high quality Claude... 🔥
 - [[anthropics-cwc-workshops|cwc-workshops"]] — No description
-- [[anthropics-financial-services|financial-services"]] — No description 🆕
+- [[anthropics-financial-services|financial-services"]] — No description 🔥
 - [[anthropics-knowledge-work-plugins|knowledge-work-plugins"]] — Open source repository of plugins primarily intended for kno... 🔥
 - [[anthropics-skills|skills"]] — Public repository for Agent Skills 🔥
 - [[antirez-ds4|ds4"]] — DeepSeek 4 Flash and PRO local inference engine for Metal, C... 🆕
@@ -154,7 +154,7 @@
 - [[danielmiessler-lifeos|LifeOS"]] — ⛰️A General Hill-climbing AI harness that helps you move fro...
 - [[danny-avila-librechat|LibreChat"]] — Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSe...
 - [[datatalksclub-data-engineering-zoomcamp|data-engineering-zoomcamp"]] — Data Engineering Zoomcamp is a free 9-week course on buildin... 🆕
-- [[davila7-claude-code-templates|claude-code-templates"]] — CLI tool for configuring and monitoring Claude Code 🔥
+- [[davila7-claude-code-templates|claude-code-templates"]] — CLI tool for configuring and monitoring Claude Code
 - [[dayuanjiang-next-ai-draw-io|next-ai-draw-io"]] — A next.js web application that integrates AI capabilities wi...
 - [[dbt-labs-dbt-core|dbt-core"]] — dbt enables data analysts and engineers to transform their d...
 - [[debpalash-voicestudio|VoiceStudio"]] — VoiceStudio is the open-source, fully-local ElevenLabs alter... 🔥
@@ -177,6 +177,7 @@
 - [[dotnet-aspnetcore|aspnetcore"]] — ASP.NET Core is a cross-platform .NET framework for building...
 - [[dotnet-skills|skills"]] — Repository for skills to assist AI coding agents with .NET a...
 - [[dottxt-ai-outlines|outlines"]] — Structured Outputs 🆕
+- [[dream-num-univer|univer"]] — The Office Harness for AI Agents — Spreadsheets, Docs, Slide... 🆕
 - [[dreammis-social-auto-upload|social-auto-upload"]] — 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 - [[earendil-works-pi|pi"]] — AI agent toolkit: unified LLM API, agent loop, TUI, coding a...
 - [[earthtojake-text-to-cad|text-to-cad"]] — A library of agent skills for CAD, CAE and CAM
@@ -217,6 +218,7 @@
 - [[goauthentik-authentik|authentik"]] — The authentication glue you need. 🔥
 - [[godotengine-godot|godot"]] — Godot Engine – Multi-platform 2D and 3D game engine
 - [[google-agents-cli|agents-cli"]] — The CLI and skills that turn any coding assistant into an ex...
+- [[google-ax|ax"]] — Google's open agentic orchestration runtime 🆕
 - [[google-deepmind-weathernext|weathernext"]] — No description 🆕
 - [[google-googletest|googletest"]] — GoogleTest - Google Testing and Mocking Framework 🔥
 - [[google-guava|guava"]] — Google core libraries for Java 🔥
@@ -514,6 +516,7 @@
 - [[stirling-tools-stirling-pdf|Stirling-PDF"]] — - 语言: TypeScript
 - [[stremio-stremio-web|stremio-web"]] — Stremio - Freedom to Stream
 - [[supabase-supabase|supabase"]] — The Postgres development platform. Supabase gives you a dedi...
+- [[superdesigndev-treg|treg"]] — OpenRouter for agent tools. Join community here: https://dis... 🆕
 - [[superlinked-sie|sie"]] — Open-source inference server and production cluster for all ...
 - [[supermemoryai-supermemory|supermemory"]] — Memory and context engine + app that is extremely fast, scal...
 - [[supertone-inc-supertonic|supertonic"]] — Lightning-Fast, On-Device, Multilingual TTS running natively...
@@ -599,7 +602,7 @@
 - [[zedeus-nitter|nitter"]] — Alternative Twitter front-end
 - [[zeux-meshoptimizer|meshoptimizer"]] — Mesh optimization library that makes meshes smaller and fast... 🆕
 - [[zhaoxuya520-reverse-skill|reverse-skill"]] — Reverse Engineering / Authorized Penetration Testing / Secur...
-- [[zhouxiaoka-autoclip|autoclip"]] — AutoClip : AI-powered video clipping and highlight generatio... 🆕
+- [[zhouxiaoka-autoclip|autoclip"]] — AutoClip : AI-powered video clipping and highlight generatio...
 - [[zuodaotech-everyone-can-use-english|everyone-can-use-english"]] — 人人都能用英语
 - [[zyronon-typewords|TypeWords"]] — Practice English, one strike, one step forward; 练习英语，一次敲击，一点...
 

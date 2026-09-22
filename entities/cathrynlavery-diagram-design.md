@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[builderio-agent-native]] [[supabase-supabase]] [[averygan-reclip]] [[open-dev-society-openstock]] [[tencent-browserskill]]
+[[cloudflare-quiche]] [[averygan-reclip]] [[agent-substrate-substrate]] [[trycua-cua]] [[superdesigndev-treg]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

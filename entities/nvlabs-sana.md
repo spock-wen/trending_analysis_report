@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[mvt-project-mvt]] [[anthropics-financial-services]] [[zhouxiaoka-autoclip]] [[paperless-ngx-paperless-ngx]]
+[[mvt-project-mvt]] [[zhouxiaoka-autoclip]] [[trycua-cua]] [[openbmb-voxcpm]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[image-gen]]
 

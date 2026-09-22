@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[builderio-agent-native]] [[supabase-supabase]] [[alibaba-open-code-review]] [[plausible-analytics]] [[open-dev-society-openstock]]
+[[agent-substrate-substrate]] [[trycua-cua]] [[supabase-supabase]] [[davila7-claude-code-templates]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

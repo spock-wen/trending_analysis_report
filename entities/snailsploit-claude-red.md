@@ -37,7 +37,7 @@ claude-red is a curated library of offensive security skills designed for the Cl
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[affaan-m-ecc]] [[yynxxxxx-codex-x]] [[mvt-project-mvt]] [[builderio-agent-native]]
+[[mvt-project-mvt]] [[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[agent-substrate-substrate]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[security]]
 

@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[affaan-m-ecc]] [[builderio-agent-native]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]]
+[[open-dev-society-openstock]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]] [[cilium-cilium]] [[dream-num-univer]]
 
 **所属领域**: [[security]]
 

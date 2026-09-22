@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tradesdontlie-tradingview-mcp]] [[builderio-agent-native]] [[nationalsecurityagency-ghidra]] [[open-dev-society-openstock]]
+[[agent-substrate-substrate]] [[nationalsecurityagency-ghidra]] [[davila7-claude-code-templates]] [[cilium-cilium]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

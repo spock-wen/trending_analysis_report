@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tradesdontlie-tradingview-mcp]] [[multimodal-art-projection-yue]] [[builderio-agent-native]] [[cloudflare-security-audit-skill]]
+[[zhouxiaoka-autoclip]] [[agent-substrate-substrate]] [[trycua-cua]] [[cloudflare-security-audit-skill]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

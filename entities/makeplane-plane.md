@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[builderio-agent-native]] [[zhouxiaoka-autoclip]] [[open-dev-society-openstock]]
+[[open-dev-society-openstock]] [[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[davila7-claude-code-templates]] [[dream-num-univer]]
 
 **所属领域**: [[cli]]
 

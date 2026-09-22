@@ -35,7 +35,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[cathrynlavery-diagram-design]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[supabase-supabase]]
+[[cloudflare-quiche]] [[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[trycua-cua]] [[superdesigndev-treg]]
 
 **所属领域**: [[web]] [[cli]]
 

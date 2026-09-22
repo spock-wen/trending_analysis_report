@@ -34,7 +34,7 @@ Lightpanda: the headless browser designed for AI and automation
 
 ## 相关项目
 
-[[builderio-agent-native]] [[supabase-supabase]] [[open-dev-society-openstock]] [[tencent-browserskill]] [[crosstalk-solutions-project-nomad]]
+[[cloudflare-quiche]] [[agent-substrate-substrate]] [[trycua-cua]] [[superdesigndev-treg]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

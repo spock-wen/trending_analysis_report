@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tradesdontlie-tradingview-mcp]] [[multimodal-art-projection-yue]] [[supabase-supabase]] [[cloudflare-security-audit-skill]]
+[[cloudflare-quiche]] [[zhouxiaoka-autoclip]] [[trycua-cua]] [[cloudflare-security-audit-skill]] [[superdesigndev-treg]]
 
 **所属领域**: [[web]] [[image-gen]]
 

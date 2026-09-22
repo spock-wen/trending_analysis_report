@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[zhouxiaoka-autoclip]]
+[[davila7-claude-code-templates]] [[yynxxxxx-codex-x]] [[zhouxiaoka-autoclip]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[cli]]
 

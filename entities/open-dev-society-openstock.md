@@ -37,7 +37,7 @@ OpenStock is an open-source alternative to expensive market platforms. Track rea
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[builderio-agent-native]] [[trycua-cua]] [[crosstalk-solutions-project-nomad]]
+[[browser-use-video-use]] [[agent-substrate-substrate]] [[davila7-claude-code-templates]] [[dream-num-univer]] [[builderio-agent-native]]
 
 **所属领域**: [[ai-agent]]
 

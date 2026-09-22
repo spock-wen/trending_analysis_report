@@ -36,7 +36,7 @@ A list of tools that are open-source, in-browser, and require no-signups!
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[builderio-agent-native]] [[supabase-supabase]] [[open-dev-society-openstock]] [[tencent-browserskill]]
+[[cloudflare-quiche]] [[open-dev-society-openstock]] [[browser-use-video-use]] [[trycua-cua]] [[superdesigndev-treg]]
 
 **所属领域**: [[web]]
 

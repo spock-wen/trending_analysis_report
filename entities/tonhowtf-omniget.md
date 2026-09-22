@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[multimodal-art-projection-yue]] [[cloudflare-quiche]] [[jamiepine-voicebox]]
+[[cloudflare-quiche]] [[zhouxiaoka-autoclip]] [[huggingface-transformers]] [[yynxxxxx-codex-x]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

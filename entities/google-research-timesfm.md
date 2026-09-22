@@ -38,7 +38,7 @@ TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[alphaxiv-openresearch]] [[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]]
+[[mvt-project-mvt]] [[paperless-ngx-paperless-ngx]] [[agent-substrate-substrate]] [[mg1937-asc]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

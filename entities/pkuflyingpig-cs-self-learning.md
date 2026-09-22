@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[supabase-supabase]] [[higgsfield-ai-higgsfield]] [[averygan-reclip]] [[tencent-browserskill]]
+[[cloudflare-quiche]] [[tonhowtf-omniget]] [[huggingface-transformers]] [[averygan-reclip]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[education]]
 

@@ -34,7 +34,7 @@ AutoClip : AI-powered video clipping and highlight generation · 一款智能高
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]]
+[[mvt-project-mvt]] [[yynxxxxx-codex-x]] [[agent-substrate-substrate]] [[trycua-cua]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[image-gen]]
 

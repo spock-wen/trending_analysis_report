@@ -36,7 +36,7 @@ ToolJet is the open-source foundation of ToolJet AI - the enterprise app generat
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[danny-avila-librechat]] [[tradesdontlie-tradingview-mcp]] [[ever-co-ever-gauzy]] [[builderio-agent-native]]
+[[melgarafael-deskcommcrm]] [[alsk1992-cloddsbot]] [[zhouxiaoka-autoclip]] [[agent-substrate-substrate]] [[danny-avila-librechat]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[image-gen]]
 

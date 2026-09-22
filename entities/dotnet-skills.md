@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[k1tbyte-wand-enhancer]] [[builderio-agent-native]] [[jellyfin-jellyfin]] [[sonarr-sonarr]] [[open-dev-society-openstock]]
+[[agent-substrate-substrate]] [[k1tbyte-wand-enhancer]] [[davila7-claude-code-templates]] [[sonarr-sonarr]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

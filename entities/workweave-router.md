@@ -34,7 +34,7 @@ Model router for agentic systems. Routes every prompt to the right model in <50m
 
 ## 相关项目
 
-[[coder-coder]] [[trycua-cua]] [[builderio-agent-native]] [[alibaba-open-code-review]] [[open-dev-society-openstock]]
+[[browser-use-video-use]] [[coder-coder]] [[google-ax]] [[davila7-claude-code-templates]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

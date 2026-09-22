@@ -35,7 +35,7 @@ Apache Ossie, industry wide specification effort to standardize how we exchange 
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]] [[supabase-supabase]] [[zhouxiaoka-autoclip]]
+[[mvt-project-mvt]] [[agent-substrate-substrate]] [[trycua-cua]] [[supabase-supabase]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

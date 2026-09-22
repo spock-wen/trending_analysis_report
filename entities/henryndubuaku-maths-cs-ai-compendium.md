@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[affaan-m-ecc]] [[alphaxiv-openresearch]] [[builderio-agent-native]] [[paperless-ngx-paperless-ngx]]
+[[open-dev-society-openstock]] [[browser-use-video-use]] [[agent-substrate-substrate]] [[paperless-ngx-paperless-ngx]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

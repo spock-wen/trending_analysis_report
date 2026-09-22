@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[affaan-m-ecc]] [[danny-avila-librechat]] [[alphaxiv-openresearch]] [[yynxxxxx-codex-x]]
+[[mvt-project-mvt]] [[melgarafael-deskcommcrm]] [[alsk1992-cloddsbot]] [[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

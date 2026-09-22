@@ -34,7 +34,7 @@ Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[lakr233-vphone-cli]] [[abue-ammar-tinycast]] [[cilium-cilium]] [[homebrew-brewui]]
+[[ruvnet-ruview]] [[davila7-claude-code-templates]] [[cilium-cilium]] [[lakr233-vphone-cli]] [[homebrew-brewui]]
 
 **所属领域**: [[devops]]
 

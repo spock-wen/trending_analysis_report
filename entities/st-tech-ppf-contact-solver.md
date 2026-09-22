@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[mvt-project-mvt]] [[anthropics-financial-services]] [[zhouxiaoka-autoclip]]
+[[mvt-project-mvt]] [[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[davila7-claude-code-templates]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[cli]]
 

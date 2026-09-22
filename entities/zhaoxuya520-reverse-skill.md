@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[affaan-m-ecc]] [[alphaxiv-openresearch]] [[raphire-win11debloat]] [[yynxxxxx-codex-x]]
+[[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[agent-substrate-substrate]] [[paperless-ngx-paperless-ngx]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

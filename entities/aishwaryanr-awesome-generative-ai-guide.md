@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[cathrynlavery-diagram-design]] [[alphaxiv-openresearch]] [[builderio-agent-native]] [[supabase-supabase]]
+[[cloudflare-quiche]] [[paperless-ngx-paperless-ngx]] [[averygan-reclip]] [[agent-substrate-substrate]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

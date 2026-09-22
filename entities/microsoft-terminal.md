@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[google-googletest]] [[protocolbuffers-protobuf]]
+[[protocolbuffers-protobuf]] [[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[google-googletest]] [[fmtlib-fmt]]
 
 **所属领域**: [[cli]]
 

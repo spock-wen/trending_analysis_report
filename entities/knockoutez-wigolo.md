@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[affaan-m-ecc]] [[alphaxiv-openresearch]] [[builderio-agent-native]] [[supabase-supabase]]
+[[cloudflare-quiche]] [[open-dev-society-openstock]] [[browser-use-video-use]] [[agent-substrate-substrate]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

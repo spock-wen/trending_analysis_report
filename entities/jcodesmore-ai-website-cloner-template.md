@@ -38,7 +38,7 @@ Clone any website with one command using AI coding agents
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[builderio-agent-native]] [[supabase-supabase]]
+[[cloudflare-quiche]] [[open-dev-society-openstock]] [[zhouxiaoka-autoclip]] [[browser-use-video-use]] [[agent-substrate-substrate]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

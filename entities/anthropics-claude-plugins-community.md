@@ -36,7 +36,7 @@ Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]] [[zhouxiaoka-autoclip]] [[paperless-ngx-paperless-ngx]]
+[[mvt-project-mvt]] [[agent-substrate-substrate]] [[davila7-claude-code-templates]] [[dream-num-univer]] [[anthropics-financial-services]]
 
 **所属领域**: [[ai-agent]]
 

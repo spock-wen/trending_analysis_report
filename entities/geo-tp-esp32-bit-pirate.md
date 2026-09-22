@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[anthropics-claude-code]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[supabase-supabase]]
+[[cloudflare-quiche]] [[protocolbuffers-protobuf]] [[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[google-googletest]]
 
 **所属领域**: [[web]] [[cli]]
 

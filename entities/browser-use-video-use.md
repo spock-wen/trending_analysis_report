@@ -1,20 +1,20 @@
 ---
 title: "browser-use/video-use"
 created: 2026-06-29
-updated: 2026-09-02
-last_active: 2026-09-02
+updated: 2026-09-23
+last_active: 2026-09-23
 type: tool
 tags: [python, ai-agent, web]
-sources: [raw/trending/2026-09-02.json]
+sources: [raw/trending/2026-09-23.json]
 confidence: high
-trending_count_daily: 7
+trending_count_daily: 8
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-29
-last_trending: 2026-09-02
+last_trending: 2026-09-23
 peak_rank: 6
-total_stars: 22890
+total_stars: 25808
 language: "Python"
 ---
 
@@ -23,22 +23,22 @@ language: "Python"
 Edit videos with coding agents
 
 - 语言: Python
-- 上榜次数: 7 次
+- 上榜次数: 8 次
 - 连续上榜: 1 天
 - 最高排名: #6
 - 链接: [browser-use/video-use](https://github.com/browser-use/video-use)
 
 ## 上榜历史
 
+  - 2026-09-23: #8, +155⭐
   - 2026-09-02: #8, +509⭐
   - 2026-08-05: #16, +306⭐
   - 2026-07-03: #8, +550⭐
   - 2026-07-02: #19, +690⭐
-  - 2026-07-01: #6, +722⭐
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]] [[supabase-supabase]] [[zhouxiaoka-autoclip]]
+[[mvt-project-mvt]] [[cloudflare-quiche]] [[trycua-cua]] [[superdesigndev-treg]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

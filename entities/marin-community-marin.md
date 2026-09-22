@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[alphaxiv-openresearch]] [[mvt-project-mvt]] [[anthropics-financial-services]] [[zhouxiaoka-autoclip]]
+[[mvt-project-mvt]] [[paperless-ngx-paperless-ngx]] [[mg1937-asc]] [[davila7-claude-code-templates]] [[alphaxiv-openresearch]]
 
 **所属领域**: [[science]]
 

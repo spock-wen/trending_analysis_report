@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[alphaxiv-openresearch]] [[builderio-agent-native]] [[crosstalk-solutions-project-nomad]] [[paperless-ngx-paperless-ngx]]
+[[tonhowtf-omniget]] [[huggingface-transformers]] [[browser-use-video-use]] [[agent-substrate-substrate]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

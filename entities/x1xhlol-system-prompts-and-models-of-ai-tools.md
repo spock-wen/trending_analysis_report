@@ -37,7 +37,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ## 相关项目
 
-[[danny-avila-librechat]] [[ever-co-ever-gauzy]] [[builderio-agent-native]] [[melgarafael-deskcommcrm]] [[open-dev-society-openstock]]
+[[melgarafael-deskcommcrm]] [[alsk1992-cloddsbot]] [[agent-substrate-substrate]] [[danny-avila-librechat]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

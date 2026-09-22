@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[affaan-m-ecc]] [[builderio-agent-native]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]]
+[[open-dev-society-openstock]] [[browser-use-video-use]] [[agent-substrate-substrate]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[tradesdontlie-tradingview-mcp]] [[alphaxiv-openresearch]] [[builderio-agent-native]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]]
+[[paperless-ngx-paperless-ngx]] [[agent-substrate-substrate]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

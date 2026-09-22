@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[builderio-agent-native]] [[docusealco-docuseal]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]] [[trycua-cua]]
+[[browser-use-video-use]] [[davila7-claude-code-templates]] [[dream-num-univer]] [[agent-substrate-substrate]] [[docusealco-docuseal]]
 
 **所属领域**: [[ai-agent]]
 

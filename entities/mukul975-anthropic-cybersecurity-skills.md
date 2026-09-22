@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[affaan-m-ecc]] [[yynxxxxx-codex-x]] [[mvt-project-mvt]] [[builderio-agent-native]]
+[[mvt-project-mvt]] [[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[agent-substrate-substrate]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

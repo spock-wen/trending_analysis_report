@@ -35,5 +35,5 @@ Anki is a smart spaced repetition flashcard program
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[cloudflare-quiche]] [[yynxxxxx-codex-x]]
+[[cloudflare-quiche]] [[yynxxxxx-codex-x]] [[akitaonrails-ai-memory]]
 

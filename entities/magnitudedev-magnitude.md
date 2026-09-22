@@ -37,7 +37,7 @@ Open source inference server that runs the best local models for your hardware, 
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[builderio-agent-native]] [[zhouxiaoka-autoclip]] [[open-dev-society-openstock]]
+[[open-dev-society-openstock]] [[zhouxiaoka-autoclip]] [[browser-use-video-use]] [[agent-substrate-substrate]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

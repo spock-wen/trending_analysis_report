@@ -36,7 +36,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[affaan-m-ecc]] [[alphaxiv-openresearch]] [[yynxxxxx-codex-x]] [[builderio-agent-native]]
+[[open-dev-society-openstock]] [[zhouxiaoka-autoclip]] [[browser-use-video-use]] [[agent-substrate-substrate]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

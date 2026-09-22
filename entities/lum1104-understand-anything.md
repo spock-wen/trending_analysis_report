@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[builderio-agent-native]] [[higgsfield-ai-higgsfield]] [[zhouxiaoka-autoclip]]
+[[tonhowtf-omniget]] [[open-dev-society-openstock]] [[zhouxiaoka-autoclip]] [[huggingface-transformers]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

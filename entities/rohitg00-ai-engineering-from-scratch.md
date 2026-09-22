@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]] [[higgsfield-ai-higgsfield]] [[zhouxiaoka-autoclip]]
+[[mvt-project-mvt]] [[tonhowtf-omniget]] [[huggingface-transformers]] [[agent-substrate-substrate]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

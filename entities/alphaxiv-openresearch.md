@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[yynxxxxx-codex-x]] [[builderio-agent-native]] [[cloudflare-quiche]] [[paperless-ngx-paperless-ngx]]
+[[cloudflare-quiche]] [[yynxxxxx-codex-x]] [[agent-substrate-substrate]] [[paperless-ngx-paperless-ngx]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

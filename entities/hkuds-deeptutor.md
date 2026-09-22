@@ -37,7 +37,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[supabase-supabase]] [[anthropics-financial-services]] [[zhouxiaoka-autoclip]] [[paperless-ngx-paperless-ngx]]
+[[mvt-project-mvt]] [[cloudflare-quiche]] [[trycua-cua]] [[superdesigndev-treg]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[web]]
 

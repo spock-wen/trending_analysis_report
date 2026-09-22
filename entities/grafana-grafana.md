@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[peetzweg-opendisplay]] [[ruvnet-ruflo]] [[builderio-agent-native]] [[supabase-supabase]]
+[[open-dev-society-openstock]] [[peetzweg-opendisplay]] [[trycua-cua]] [[supabase-supabase]] [[ruvnet-ruview]]
 
 **所属领域**: [[data]] [[devops]]
 

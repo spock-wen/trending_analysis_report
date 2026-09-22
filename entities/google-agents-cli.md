@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[peetzweg-opendisplay]] [[ruvnet-ruflo]] [[yynxxxxx-codex-x]] [[mvt-project-mvt]]
+[[mvt-project-mvt]] [[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[agent-substrate-substrate]] [[peetzweg-opendisplay]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

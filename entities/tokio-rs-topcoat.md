@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[yynxxxxx-codex-x]] [[supabase-supabase]] [[cloudflare-quiche]] [[tencent-browserskill]] [[akitaonrails-ai-memory]]
+[[cloudflare-quiche]] [[yynxxxxx-codex-x]] [[trycua-cua]] [[superdesigndev-treg]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[web]]
 

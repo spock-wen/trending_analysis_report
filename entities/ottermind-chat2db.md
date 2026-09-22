@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[google-guava]] [[builderio-agent-native]] [[supabase-supabase]]
+[[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[checkstyle-checkstyle]] [[agent-substrate-substrate]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

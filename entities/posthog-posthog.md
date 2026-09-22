@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[peetzweg-opendisplay]] [[ruvnet-ruflo]] [[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]]
+[[mvt-project-mvt]] [[cloudflare-quiche]] [[agent-substrate-substrate]] [[peetzweg-opendisplay]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

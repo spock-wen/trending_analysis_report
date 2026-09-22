@@ -34,7 +34,7 @@ A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运�
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[builderio-agent-native]] [[anthropics-financial-services]] [[zhouxiaoka-autoclip]] [[paperless-ngx-paperless-ngx]]
+[[mvt-project-mvt]] [[agent-substrate-substrate]] [[davila7-claude-code-templates]] [[dream-num-univer]] [[anthropics-financial-services]]
 
 **所属领域**: [[ai-agent]]
 

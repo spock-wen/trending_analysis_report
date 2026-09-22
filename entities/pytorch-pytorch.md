@@ -35,5 +35,5 @@ Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[anthropics-financial-services]] [[paperless-ngx-paperless-ngx]] [[zhouxiaoka-autoclip]]
+[[davila7-claude-code-templates]] [[mvt-project-mvt]] [[browser-use-video-use]] [[anthropics-financial-services]]
 

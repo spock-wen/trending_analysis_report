@@ -35,7 +35,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[anthropics-financial-services]] [[higgsfield-ai-higgsfield]] [[zhouxiaoka-autoclip]] [[paperless-ngx-paperless-ngx]]
+[[mvt-project-mvt]] [[tonhowtf-omniget]] [[huggingface-transformers]] [[browser-use-video-use]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[education]]
 

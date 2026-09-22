@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[coder-coder]] [[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[zhouxiaoka-autoclip]] [[alibaba-open-code-review]]
+[[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[coder-coder]] [[google-ax]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[cli]]
 

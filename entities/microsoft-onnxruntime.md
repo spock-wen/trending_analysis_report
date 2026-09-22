@@ -34,7 +34,7 @@ ONNX Runtime: cross-platform, high performance ML inferencing and training accel
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[builderio-agent-native]] [[google-googletest]] [[protocolbuffers-protobuf]] [[open-dev-society-openstock]]
+[[protocolbuffers-protobuf]] [[agent-substrate-substrate]] [[google-googletest]] [[fmtlib-fmt]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]]
 

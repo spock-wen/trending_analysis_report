@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[alphaxiv-openresearch]] [[multimodal-art-projection-yue]] [[mvt-project-mvt]] [[builderio-agent-native]]
+[[mvt-project-mvt]] [[zhouxiaoka-autoclip]] [[paperless-ngx-paperless-ngx]] [[agent-substrate-substrate]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[multimodal-art-projection-yue]] [[builderio-agent-native]] [[supabase-supabase]] [[jamiepine-voicebox]]
+[[cloudflare-quiche]] [[tonhowtf-omniget]] [[open-dev-society-openstock]] [[browser-use-video-use]] [[agent-substrate-substrate]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-23",
+  "scraped_at": "2026-09-23T07:00:55.149301",
+  "period": "daily",
+  "count": 8,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars_today": 436,
+      "total_stars": 36302,
+      "url": "https://github.com/anthropics/financial-services"
+    },
+    {
+      "rank": 2,
+      "repo": "agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "stars_today": 301,
+      "total_stars": 2939,
+      "url": "https://github.com/agent-substrate/substrate"
+    },
+    {
+      "rank": 3,
+      "repo": "dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars_today": 202,
+      "total_stars": 15346,
+      "url": "https://github.com/dream-num/univer"
+    },
+    {
+      "rank": 4,
+      "repo": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars_today": 113,
+      "total_stars": 31091,
+      "url": "https://github.com/davila7/claude-code-templates"
+    },
+    {
+      "rank": 5,
+      "repo": "google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "stars_today": 2324,
+      "total_stars": 7519,
+      "url": "https://github.com/google/ax"
+    },
+    {
+      "rank": 6,
+      "repo": "mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "stars_today": 441,
+      "total_stars": 14059,
+      "url": "https://github.com/mvt-project/mvt"
+    },
+    {
+      "rank": 7,
+      "repo": "superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "language": "Python",
+      "stars_today": 197,
+      "total_stars": 2185,
+      "url": "https://github.com/superdesigndev/treg"
+    },
+    {
+      "rank": 8,
+      "repo": "browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars_today": 155,
+      "total_stars": 25808,
+      "url": "https://github.com/browser-use/video-use"
+    }
+  ]
+}

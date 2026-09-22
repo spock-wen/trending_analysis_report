@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[peetzweg-opendisplay]] [[ruvnet-ruflo]] [[builderio-agent-native]] [[open-dev-society-openstock]]
+[[open-dev-society-openstock]] [[peetzweg-opendisplay]] [[ruvnet-ruview]] [[davila7-claude-code-templates]] [[cilium-cilium]]
 
 **所属领域**: [[devops]]
 

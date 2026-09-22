@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[diolinux-photogimp]] [[nutlope-hallmark]] [[multimodal-art-projection-yue]] [[builderio-agent-native]] [[supabase-supabase]]
+[[cloudflare-quiche]] [[zhouxiaoka-autoclip]] [[browser-use-video-use]] [[trycua-cua]] [[superdesigndev-treg]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

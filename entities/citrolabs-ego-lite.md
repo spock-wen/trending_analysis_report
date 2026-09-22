@@ -38,7 +38,7 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tradesdontlie-tradingview-mcp]] [[builderio-agent-native]] [[supabase-supabase]] [[cloudflare-security-audit-skill]]
+[[cloudflare-quiche]] [[agent-substrate-substrate]] [[trycua-cua]] [[cloudflare-security-audit-skill]] [[superdesigndev-treg]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

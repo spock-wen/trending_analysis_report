@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[mvt-project-mvt]] [[anthropics-financial-services]] [[cloudflare-security-audit-skill]] [[zhouxiaoka-autoclip]]
+[[mvt-project-mvt]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]] [[davila7-claude-code-templates]] [[cilium-cilium]]
 
 **所属领域**: [[security]]
 

@@ -35,7 +35,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[flutter-flutter]] [[chen08209-flclash]] [[builderio-agent-native]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]]
+[[flutter-flutter]] [[browser-use-video-use]] [[chen08209-flclash]] [[davila7-claude-code-templates]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

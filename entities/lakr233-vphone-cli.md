@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[peetzweg-opendisplay]] [[anthropics-claude-code]] [[yynxxxxx-codex-x]] [[zhouxiaoka-autoclip]] [[abue-ammar-tinycast]]
+[[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[peetzweg-opendisplay]] [[davila7-claude-code-templates]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[cli]]
 

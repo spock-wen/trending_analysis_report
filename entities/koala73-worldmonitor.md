@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[peetzweg-opendisplay]] [[ruvnet-ruflo]] [[builderio-agent-native]] [[open-dev-society-openstock]]
+[[open-dev-society-openstock]] [[browser-use-video-use]] [[agent-substrate-substrate]] [[peetzweg-opendisplay]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

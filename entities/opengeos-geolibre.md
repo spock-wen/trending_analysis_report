@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[open-dev-society-openstock]] [[browser-use-video-use]] [[trycua-cua]] [[superdesigndev-treg]]
+[[supabase-supabase]] [[dream-num-univer]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[web]] [[data]]
 

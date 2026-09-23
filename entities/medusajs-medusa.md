@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[alsk1992-cloddsbot]] [[open-dev-society-openstock]] [[danny-avila-librechat]] [[ever-co-ever-gauzy]]
+[[dream-num-univer]] [[open-dev-society-openstock]] [[obra-superpowers]] [[crosstalk-solutions-project-nomad]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[erp]]
 

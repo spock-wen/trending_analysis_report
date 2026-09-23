@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[browser-use-video-use]] [[coder-coder]] [[google-ax]] [[davila7-claude-code-templates]] [[dream-num-univer]]
+[[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]] [[coder-coder]]
 
 **所属领域**: [[ai-agent]]
 

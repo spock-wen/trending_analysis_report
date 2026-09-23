@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[protocolbuffers-protobuf]] [[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[google-googletest]]
+[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[protocolbuffers-protobuf]] [[obra-superpowers]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[cli]]
 

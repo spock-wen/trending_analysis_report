@@ -38,7 +38,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[browser-use-video-use]] [[trycua-cua]] [[superdesigndev-treg]] [[davila7-claude-code-templates]]
+[[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]] [[conardli-garden-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

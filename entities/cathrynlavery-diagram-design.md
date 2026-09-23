@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[averygan-reclip]] [[agent-substrate-substrate]] [[trycua-cua]] [[superdesigndev-treg]]
+[[ripienaar-free-for-dev]] [[averygan-reclip]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

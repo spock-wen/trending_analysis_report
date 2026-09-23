@@ -1,7 +1,7 @@
 ---
 title: "Python Ecosystem Surge"
 created: 2026-06-07
-updated: 2026-09-23
+updated: 2026-09-24
 type: concept
 tags: [python, surge]
 confidence: medium
@@ -11,19 +11,19 @@ confidence: medium
 
 ## 信号概述
 
-2026-09-23 检测到 Python 领域有 5 个项目同时上榜，表明该语言生态近期活跃度显著上升。
+2026-09-24 检测到 Python 领域有 8 个项目同时上榜，表明该语言生态近期活跃度显著上升。
 
-## 上榜项目（5 个）
+## 上榜项目（8 个）
 
-[[anthropics-financial-services]] [[davila7-claude-code-templates]] [[mvt-project-mvt]] [[superdesigndev-treg]] [[browser-use-video-use]]
+[[anthropics-financial-services]] [[davila7-claude-code-templates]] [[strands-agents-harness-sdk]] [[hkuds-cli-anything]] [[superdesigndev-treg]] [[mvt-project-mvt]] [[browser-use-video-use]] [[tnt-likely-panwatch]]
 
 ## 语言分布
 
-Python 5个
+Python 8个
 
 ## 趋势分析
 
-Python 领域 5 个项目同时上榜，可能反映：
+Python 领域 8 个项目同时上榜，可能反映：
 - 该语言在特定领域（如 AI、Web、系统编程）的技术突破
 - 社区活跃度提升，新项目涌现
 - 现有项目获得广泛关注

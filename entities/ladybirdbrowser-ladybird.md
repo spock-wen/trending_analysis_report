@@ -35,7 +35,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[protocolbuffers-protobuf]] [[google-googletest]] [[trycua-cua]] [[superdesigndev-treg]]
+[[hkuds-cli-anything]] [[protocolbuffers-protobuf]] [[trycua-cua]] [[harry7557558-spirula-studio]] [[browser-use-video-use]]
 
 **所属领域**: [[web]]
 

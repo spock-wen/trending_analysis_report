@@ -1,7 +1,7 @@
 ---
 title: "web"
 created: 2026-05-20
-updated: 2026-09-23
+updated: 2026-09-24
 type: concept
 tags: [web]
 confidence: medium
@@ -9,9 +9,9 @@ confidence: medium
 
 # web
 
-## 领域项目（共 84 个，今日上榜 2 个）
+## 领域项目（共 84 个，今日上榜 3 个）
 
-[[browser-use-video-use]] [[superdesigndev-treg]] [[trycua-cua]] [[cloudflare-quiche]] [[supabase-supabase]] [[tencent-browserskill]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[jiji262-douyin-downloader]] [[jordan-gibbs-hyperresearch]] [[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[browser-use-browser-use]] [[jo-inc-camofox-browser]] [[braveopotato-fcksignups]] [[lightpanda-io-browser]] [[stremio-stremio-web]] [[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[unclecode-crawl4ai]] [[tt-a1i-archify]] [[mvanhorn-last30days-skill]] [[abhigyanpatwari-gitnexus]] [[abi-screenshot-to-code]] [[bigskysoftware-htmx]] [[conardli-garden-skills]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[hkuds-cli-anything]] [[altic-dev-fluidvoice]] [[citrolabs-ego-lite]] [[holaboss-ai-holaos]] [[msitarzewski-agency-agents]] [[hkuds-deeptutor]] [[firecrawl-firecrawl]] [[ladybirdbrowser-ladybird]] [[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[cypress-io-cypress]] [[webpack-webpack]] [[angular-angular]] [[ansible-ansible]] [[abus-aikorea-voice-pro]] [[geo-tp-esp32-bit-pirate]] [[dotnet-aspnetcore]] [[whiskeysockets-baileys]] [[moeru-ai-airi]] [[opengeos-geolibre]] [[corebunch-instatic]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[knockoutez-wigolo]] [[microsoft-ontology-playground]] [[tokio-rs-topcoat]] [[pkuflyingpig-cs-self-learning]] [[nutlope-hallmark]] [[hasaneyldrm-exercises-dataset]] [[ossu-computer-science]] [[dayuanjiang-next-ai-draw-io]] [[diolinux-photogimp]] [[zackriya-solutions-meetily]] [[ahmadibrahiim-website-downloader]] [[alibaba-page-agent]] [[jcodesmore-ai-website-cloner-template]] [[shanraisshan-claude-code-best-practice]] [[revfactory-harness]] [[tw93-pake]] [[kong-insomnia]] [[pppscn-smsforwarder]] [[aishwaryanr-awesome-generative-ai-guide]] [[swc-project-swc]] [[puppeteer-puppeteer]] [[mikeroyal-self-hosting-guide]] [[copilotkit-copilotkit]] [[d4vinci-scrapling]] [[nesquena-hermes-webui]] [[can1357-oh-my-pi]] [[digitalplatdev-freedomain]] [[trimstray-the-book-of-secret-knowledge]] [[teng-lin-notebooklm-py]] [[alireza0-s-ui]] [[cloakhq-cloakbrowser]] [[plausible-analytics]] [[keygraphhq-shannon]]
+[[hkuds-cli-anything]] [[browser-use-video-use]] [[superdesigndev-treg]] [[trycua-cua]] [[cloudflare-quiche]] [[supabase-supabase]] [[tencent-browserskill]] [[ever-co-ever-gauzy]] [[bilawalsidhu-gods-eye-view]] [[jiji262-douyin-downloader]] [[jordan-gibbs-hyperresearch]] [[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[browser-use-browser-use]] [[jo-inc-camofox-browser]] [[braveopotato-fcksignups]] [[lightpanda-io-browser]] [[stremio-stremio-web]] [[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[unclecode-crawl4ai]] [[tt-a1i-archify]] [[mvanhorn-last30days-skill]] [[abhigyanpatwari-gitnexus]] [[abi-screenshot-to-code]] [[bigskysoftware-htmx]] [[conardli-garden-skills]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[altic-dev-fluidvoice]] [[citrolabs-ego-lite]] [[holaboss-ai-holaos]] [[msitarzewski-agency-agents]] [[hkuds-deeptutor]] [[firecrawl-firecrawl]] [[ladybirdbrowser-ladybird]] [[chenyme-grok2api]] [[tailwindlabs-tailwindcss]] [[cypress-io-cypress]] [[webpack-webpack]] [[angular-angular]] [[ansible-ansible]] [[abus-aikorea-voice-pro]] [[geo-tp-esp32-bit-pirate]] [[dotnet-aspnetcore]] [[whiskeysockets-baileys]] [[moeru-ai-airi]] [[opengeos-geolibre]] [[corebunch-instatic]] [[agegr-pi-web]] [[dioxuslabs-dioxus]] [[knockoutez-wigolo]] [[microsoft-ontology-playground]] [[tokio-rs-topcoat]] [[pkuflyingpig-cs-self-learning]] [[nutlope-hallmark]] [[hasaneyldrm-exercises-dataset]] [[ossu-computer-science]] [[dayuanjiang-next-ai-draw-io]] [[diolinux-photogimp]] [[zackriya-solutions-meetily]] [[ahmadibrahiim-website-downloader]] [[alibaba-page-agent]] [[jcodesmore-ai-website-cloner-template]] [[shanraisshan-claude-code-best-practice]] [[revfactory-harness]] [[tw93-pake]] [[kong-insomnia]] [[pppscn-smsforwarder]] [[aishwaryanr-awesome-generative-ai-guide]] [[swc-project-swc]] [[puppeteer-puppeteer]] [[mikeroyal-self-hosting-guide]] [[copilotkit-copilotkit]] [[d4vinci-scrapling]] [[nesquena-hermes-webui]] [[can1357-oh-my-pi]] [[digitalplatdev-freedomain]] [[trimstray-the-book-of-secret-knowledge]] [[teng-lin-notebooklm-py]] [[alireza0-s-ui]] [[cloakhq-cloakbrowser]] [[plausible-analytics]] [[keygraphhq-shannon]]
 
 ## 语言分布
 
@@ -19,5 +19,5 @@ TypeScript 26个, Python 17个, HTML 12个, JavaScript 8个, Rust 6个, CSS 3个
 
 ## 趋势观察
 
-84 个 web 领域项目被追踪，其中 2 个今日同时上榜，反映该领域持续活跃。
+84 个 web 领域项目被追踪，其中 3 个今日同时上榜，反映该领域持续活跃。
 

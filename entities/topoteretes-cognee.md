@@ -36,7 +36,7 @@ Cognee is the open-source AI memory platform for agents. Give your AI agents per
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[agent-substrate-substrate]] [[davila7-claude-code-templates]] [[dream-num-univer]] [[anthropics-financial-services]]
+[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

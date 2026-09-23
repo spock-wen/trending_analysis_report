@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[agent-substrate-substrate]] [[basecamp-omarchy]] [[mattpocock-skills]]
+[[basecamp-omarchy]] [[nvm-sh-nvm]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

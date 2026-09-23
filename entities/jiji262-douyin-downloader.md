@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[cloudflare-quiche]] [[trycua-cua]] [[superdesigndev-treg]] [[supabase-supabase]]
+[[supabase-supabase]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[trycua-cua]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[web]] [[data]]
 

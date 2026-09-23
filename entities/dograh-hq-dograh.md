@@ -34,7 +34,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[tonhowtf-omniget]] [[agent-substrate-substrate]] [[davila7-claude-code-templates]] [[dream-num-univer]]
+[[jamiepine-voicebox]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

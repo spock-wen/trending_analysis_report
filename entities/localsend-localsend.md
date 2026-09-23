@@ -35,7 +35,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[flutter-flutter]] [[browser-use-video-use]] [[chen08209-flclash]] [[davila7-claude-code-templates]] [[dream-num-univer]]
+[[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]] [[flutter-flutter]]
 
 **所属领域**: [[ai-agent]]
 

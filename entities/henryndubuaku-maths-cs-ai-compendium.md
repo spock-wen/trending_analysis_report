@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[browser-use-video-use]] [[agent-substrate-substrate]] [[paperless-ngx-paperless-ngx]] [[davila7-claude-code-templates]]
+[[alphaxiv-openresearch]] [[dream-num-univer]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

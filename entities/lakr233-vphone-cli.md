@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[peetzweg-opendisplay]] [[davila7-claude-code-templates]] [[akitaonrails-ai-memory]]
+[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[abue-ammar-tinycast]] [[obra-superpowers]] [[homebrew-brewui]]
 
 **所属领域**: [[cli]]
 

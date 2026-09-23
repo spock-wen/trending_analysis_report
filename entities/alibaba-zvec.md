@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[google-googletest]] [[trycua-cua]] [[supabase-supabase]] [[fmtlib-fmt]]
+[[supabase-supabase]] [[protocolbuffers-protobuf]] [[alibaba-open-code-review]] [[trycua-cua]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[data]]
 

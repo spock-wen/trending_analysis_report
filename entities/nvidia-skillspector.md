@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[agent-substrate-substrate]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]] [[davila7-claude-code-templates]]
+[[nationalsecurityagency-ghidra]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

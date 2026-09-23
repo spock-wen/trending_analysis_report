@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[trycua-cua]] [[superdesigndev-treg]]
+[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[yynxxxxx-codex-x]] [[obra-superpowers]] [[cloudflare-quiche]]
 
 **所属领域**: [[web]] [[cli]]
 

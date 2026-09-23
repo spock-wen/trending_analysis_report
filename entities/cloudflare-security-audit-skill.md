@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[agent-substrate-substrate]] [[nationalsecurityagency-ghidra]] [[davila7-claude-code-templates]] [[cilium-cilium]] [[addyosmani-agent-skills]]
+[[nationalsecurityagency-ghidra]] [[cilium-cilium]] [[hkuds-cli-anything]] [[pbakaus-impeccable]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

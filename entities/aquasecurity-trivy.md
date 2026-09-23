@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[browser-use-video-use]] [[coder-coder]] [[cloudflare-security-audit-skill]] [[google-ax]] [[davila7-claude-code-templates]]
+[[nationalsecurityagency-ghidra]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

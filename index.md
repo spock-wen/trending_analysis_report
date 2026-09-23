@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-09-23 | 总页面：619
+> 最后更新：2026-09-24 | 总页面：622
 
 ## Entities
 
@@ -22,7 +22,7 @@
 - [[agalwood-motrix|Motrix"]] — A full-featured download manager. 🆕
 - [[agavra-tuicr|tuicr"]] — a code review TUI with vim keybindings 🆕
 - [[agegr-pi-web|pi-web"]] — Web UI for the pi coding agent 🔥
-- [[agent-substrate-substrate|substrate"]] — Agent Substrate: the core system
+- [[agent-substrate-substrate|substrate"]] — Agent Substrate: the core system 🆕
 - [[agentskills-agentskills|agentskills"]] — Specification and documentation for Agent Skills 🔥
 - [[agricidaniel-claude-obsidian|claude-obsidian"]] — Self-organizing AI second brain for Obsidian + Claude Code. ... 🔥
 - [[ahmadibrahiim-website-downloader|Website-downloader"]] — 💡 Download the complete source code of any website (includin...
@@ -95,8 +95,8 @@
 - [[bradautomates-claude-video|claude-video"]] — Give Claude the ability to watch any video. /watch downloads... 🆕
 - [[braveopotato-fcksignups|FckSignups"]] — A list of tools that are open-source, in-browser, and requir... 🔥
 - [[browser-use-browser-use|browser-use"]] — 🌐 Make websites accessible for AI agents. Automate tasks onl...
-- [[browser-use-video-use|video-use"]] — Edit videos with coding agents
-- [[builderio-agent-native|agent-native"]] — A framework for building agentic apps 🆕
+- [[browser-use-video-use|video-use"]] — Edit videos with coding agents 🆕
+- [[builderio-agent-native|agent-native"]] — A framework for building agentic apps
 - [[byjoey-cfnew|cfnew"]] — No description
 - [[byoungd-english-level-up-tips|English-level-up-tips"]] — An advanced guide to learn English which might benefit you a...
 - [[bytebytegohq-system-design-101|system-design-101"]] — Explain complex systems using visuals and simple terms. Help...
@@ -154,7 +154,7 @@
 - [[danielmiessler-lifeos|LifeOS"]] — ⛰️A General Hill-climbing AI harness that helps you move fro...
 - [[danny-avila-librechat|LibreChat"]] — Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSe...
 - [[datatalksclub-data-engineering-zoomcamp|data-engineering-zoomcamp"]] — Data Engineering Zoomcamp is a free 9-week course on buildin... 🆕
-- [[davila7-claude-code-templates|claude-code-templates"]] — CLI tool for configuring and monitoring Claude Code
+- [[davila7-claude-code-templates|claude-code-templates"]] — CLI tool for configuring and monitoring Claude Code 🆕
 - [[dayuanjiang-next-ai-draw-io|next-ai-draw-io"]] — A next.js web application that integrates AI capabilities wi...
 - [[dbt-labs-dbt-core|dbt-core"]] — dbt enables data analysts and engineers to transform their d...
 - [[debpalash-voicestudio|VoiceStudio"]] — VoiceStudio is the open-source, fully-local ElevenLabs alter... 🔥
@@ -234,6 +234,7 @@
 - [[harbourmasters-lighthouse|Lighthouse"]] — No description
 - [[hardikpandya-stop-slop|stop-slop"]] — A skill file for removing AI tells from prose 🔥
 - [[harry0703-moneyprinterturbo|MoneyPrinterTurbo"]] — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos ... 🔥
+- [[harry7557558-spirula-studio|spirula-studio"]] — Cross-vendor 3D Gaussian Splatting trainer - video to splat ... 🆕
 - [[harveyai-harvey-labs|harvey-labs"]] — A benchmark built to evaluate and improve agent capabilities...
 - [[hasaneyldrm-exercises-dataset|exercises-dataset"]] — 1,324-exercise fitness dataset — animation GIFs, 180×180 thu... 🔥
 - [[hashicorp-terraform|terraform"]] — Terraform enables you to safely and predictably create, chan... 🆕
@@ -385,7 +386,7 @@
 - [[multimodal-art-projection-yue|YuE"]] — YuE2: frontier music generation with symbolic planning, zero...
 - [[music-assistant-server|server"]] — Music Assistant is a free, opensource Media library manager ... 🔥
 - [[mvanhorn-last30days-skill|last30days-skill"]] — AI agent skill that researches any topic across Reddit, X, Y...
-- [[mvt-project-mvt|mvt"]] — MVT (Mobile Verification Toolkit) helps with conducting fore... 🆕
+- [[mvt-project-mvt|mvt"]] — MVT (Mobile Verification Toolkit) helps with conducting fore... 🔥
 - [[n0-computer-iroh|iroh"]] — IP addresses break, dial keys instead. Modular networking st... 🔥
 - [[n8n-io-n8n|n8n"]] — Fair-code workflow automation platform with native AI capabi...
 - [[nab138-iloader|iloader"]] — User friendly sideloader 🆕
@@ -406,12 +407,12 @@
 - [[nvlabs-sana|Sana"]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
 - [[nvm-sh-nvm|nvm"]] — Node Version Manager - POSIX-compliant bash script to manage...
 - [[oblien-openship|openship"]] — Self-hosted deployment platform 🔥
-- [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo... 🔥
+- [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo...
 - [[ocornut-imgui|imgui"]] — Dear ImGui: Bloat-free Graphical User interface for C++ with...
 - [[odoo-odoo|odoo"]] — Odoo. Open Source Apps To Grow Your Business.
 - [[ogulcancelik-herdr|herdr"]] — agent multiplexer that lives in your terminal. 🔥
 - [[opa334-dopamine|Dopamine"]] — Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0....
-- [[open-dev-society-openstock|OpenStock"]] — OpenStock is an open-source alternative to expensive market ... 🔥
+- [[open-dev-society-openstock|OpenStock"]] — OpenStock is an open-source alternative to expensive market ...
 - [[open-llm-vtuber-open-llm-vtuber|Open-LLM-VTuber"]] — Talk to any LLM with hands-free voice interaction, voice int... 🔥
 - [[openai-codex-plugin-cc|codex-plugin-cc"]] — Use Codex from Claude Code to review code or delegate tasks. 🔥
 - [[openai-codex|codex"]] — Lightweight coding agent that runs in your terminal 🆕
@@ -514,6 +515,7 @@
 - [[stefan-jansen-machine-learning-for-trading|machine-learning-for-trading"]] — Code for Machine Learning for Algorithmic Trading, 2nd editi... 🆕
 - [[steipete-codexbar|CodexBar"]] — Show usage stats for OpenAI Codex and Claude Code, without h... 🔥
 - [[stirling-tools-stirling-pdf|Stirling-PDF"]] — - 语言: TypeScript
+- [[strands-agents-harness-sdk|harness-sdk"]] — Build an agent harness and control it end-to-end. Open-sourc... 🆕
 - [[stremio-stremio-web|stremio-web"]] — Stremio - Freedom to Stream
 - [[supabase-supabase|supabase"]] — The Postgres development platform. Supabase gives you a dedi...
 - [[superdesigndev-treg|treg"]] — OpenRouter for agent tools. Join community here: https://dis... 🆕
@@ -544,6 +546,7 @@
 - [[thu-maic-openmaic|OpenMAIC"]] — Open Multi-Agent Interactive Classroom — Get an immersive, m...
 - [[tinyhumansai-openhuman|openhuman"]] — Your Personal AI super intelligence. A brain that builds a l... 🔥
 - [[tirth8205-code-review-graph|code-review-graph"]] — Local-first code intelligence graph for MCP and CLI. Builds ...
+- [[tnt-likely-panwatch|PanWatch"]] — 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A... 🆕
 - [[togatoga-karukan|karukan"]] — Japanese Input Method System for Linux, macOS, Neural Kana-K...
 - [[tokio-rs-topcoat|topcoat"]] — A batteries-included framework for building web apps
 - [[tonhowtf-omniget|omniget"]] — Download Udemy and Hotmart courses, YouTube videos, music an...

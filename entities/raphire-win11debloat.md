@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[davila7-claude-code-templates]] [[akitaonrails-ai-memory]] [[zhaoxuya520-reverse-skill]]
+[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[cli]]
 

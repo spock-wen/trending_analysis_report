@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[tonhowtf-omniget]] [[open-dev-society-openstock]] [[huggingface-transformers]] [[browser-use-video-use]]
+[[dream-num-univer]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[higgsfield-ai-higgsfield]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[web]] [[education]]
 

@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[zhouxiaoka-autoclip]] [[browser-use-video-use]] [[yynxxxxx-codex-x]] [[coder-coder]]
+[[superdesigndev-treg]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[obra-superpowers]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[cli]]
 

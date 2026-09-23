@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[browser-use-video-use]] [[coder-coder]] [[trycua-cua]] [[superdesigndev-treg]]
+[[superdesigndev-treg]] [[hkuds-cli-anything]] [[trycua-cua]] [[browser-use-video-use]] [[coder-coder]]
 
 **所属领域**: [[web]]
 

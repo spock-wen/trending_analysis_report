@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[checkstyle-checkstyle]] [[agent-substrate-substrate]] [[trycua-cua]]
+[[supabase-supabase]] [[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]] [[hkuds-cli-anything]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

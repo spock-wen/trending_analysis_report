@@ -36,7 +36,7 @@ Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[agent-substrate-substrate]] [[trycua-cua]] [[supabase-supabase]] [[davila7-claude-code-templates]]
+[[supabase-supabase]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

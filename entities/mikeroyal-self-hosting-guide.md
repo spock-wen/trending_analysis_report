@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[tonhowtf-omniget]] [[huggingface-transformers]] [[agent-substrate-substrate]] [[trycua-cua]]
+[[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

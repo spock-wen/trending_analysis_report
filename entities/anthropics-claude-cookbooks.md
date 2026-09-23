@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[agent-substrate-substrate]] [[higgsfield-ai-higgsfield]] [[davila7-claude-code-templates]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]]
+[[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

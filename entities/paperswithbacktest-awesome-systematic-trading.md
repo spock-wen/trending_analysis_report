@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[tonhowtf-omniget]] [[huggingface-transformers]] [[browser-use-video-use]] [[paperless-ngx-paperless-ngx]]
+[[alphaxiv-openresearch]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[education]] [[science]]
 

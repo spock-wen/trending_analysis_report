@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[agent-substrate-substrate]] [[trycua-cua]] [[supabase-supabase]] [[davila7-claude-code-templates]] [[snailsploit-claude-red]]
+[[supabase-supabase]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

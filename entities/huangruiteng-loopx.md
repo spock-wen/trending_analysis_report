@@ -35,7 +35,7 @@ Lightweight loop engineering state kernel for long-running AI agent teams. Agent
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[agent-substrate-substrate]] [[davila7-claude-code-templates]] [[dream-num-univer]] [[anthropics-financial-services]]
+[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

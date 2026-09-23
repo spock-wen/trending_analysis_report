@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[paperless-ngx-paperless-ngx]] [[agent-substrate-substrate]] [[trycua-cua]] [[supabase-supabase]]
+[[supabase-supabase]] [[alphaxiv-openresearch]] [[nationalsecurityagency-ghidra]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

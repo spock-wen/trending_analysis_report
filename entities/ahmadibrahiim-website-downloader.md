@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[zhouxiaoka-autoclip]] [[averygan-reclip]] [[trycua-cua]] [[superdesigndev-treg]]
+[[ripienaar-free-for-dev]] [[averygan-reclip]] [[hkuds-cli-anything]] [[multimodal-art-projection-yue]] [[openbmb-voxcpm]]
 
 **所属领域**: [[web]] [[image-gen]]
 

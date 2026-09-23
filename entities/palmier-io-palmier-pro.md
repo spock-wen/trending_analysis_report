@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[browser-use-video-use]] [[agent-substrate-substrate]] [[peetzweg-opendisplay]] [[davila7-claude-code-templates]] [[dream-num-univer]]
+[[hkuds-cli-anything]] [[abue-ammar-tinycast]] [[obra-superpowers]] [[homebrew-brewui]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]]
 

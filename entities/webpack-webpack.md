@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[zhouxiaoka-autoclip]] [[trycua-cua]] [[cloudflare-security-audit-skill]] [[superdesigndev-treg]]
+[[hkuds-cli-anything]] [[pbakaus-impeccable]] [[affaan-m-ecc]] [[multimodal-art-projection-yue]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[web]] [[image-gen]]
 

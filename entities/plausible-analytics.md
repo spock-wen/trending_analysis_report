@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[trycua-cua]] [[superdesigndev-treg]] [[supabase-supabase]] [[cloudflare-security-audit-skill]]
+[[supabase-supabase]] [[nationalsecurityagency-ghidra]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

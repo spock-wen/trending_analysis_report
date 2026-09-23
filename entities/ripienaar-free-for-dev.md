@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[averygan-reclip]] [[peetzweg-opendisplay]] [[trycua-cua]] [[superdesigndev-treg]]
+[[averygan-reclip]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[peetzweg-opendisplay]] [[ruvnet-ruview]]
 
 **所属领域**: [[web]] [[devops]]
 

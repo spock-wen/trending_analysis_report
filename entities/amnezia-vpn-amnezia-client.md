@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[google-googletest]] [[cloudflare-security-audit-skill]]
+[[nationalsecurityagency-ghidra]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[protocolbuffers-protobuf]] [[obra-superpowers]]
 
 **所属领域**: [[cli]] [[security]]
 

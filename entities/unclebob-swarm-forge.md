@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[penpot-penpot]] [[browser-use-video-use]] [[davila7-claude-code-templates]] [[dream-num-univer]] [[agent-substrate-substrate]]
+[[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]] [[penpot-penpot]]
 
 **所属领域**: [[ai-agent]]
 

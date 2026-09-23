@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[open-dev-society-openstock]] [[huggingface-transformers]] [[higgsfield-ai-higgsfield]] [[dream-num-univer]]
+[[dream-num-univer]] [[open-dev-society-openstock]] [[higgsfield-ai-higgsfield]] [[crosstalk-solutions-project-nomad]] [[tonhowtf-omniget]]
 
 **所属领域**: [[education]]
 

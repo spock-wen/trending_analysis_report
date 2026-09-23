@@ -36,7 +36,7 @@ Turso is an in-process SQL database, compatible with SQLite.
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[yynxxxxx-codex-x]] [[trycua-cua]] [[supabase-supabase]] [[snailsploit-claude-red]]
+[[supabase-supabase]] [[yynxxxxx-codex-x]] [[cloudflare-quiche]] [[deusdata-codebase-memory-mcp]] [[ankitects-anki]]
 
 **所属领域**: [[data]]
 

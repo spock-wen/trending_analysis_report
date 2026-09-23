@@ -35,5 +35,5 @@ a code review TUI with vim keybindings
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[ankitects-anki]] [[yynxxxxx-codex-x]] [[akitaonrails-ai-memory]]
+[[ankitects-anki]] [[yynxxxxx-codex-x]] [[cloudflare-quiche]] [[akitaonrails-ai-memory]]
 

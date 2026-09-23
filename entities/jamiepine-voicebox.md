@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[open-dev-society-openstock]] [[browser-use-video-use]] [[agent-substrate-substrate]] [[davila7-claude-code-templates]]
+[[dream-num-univer]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

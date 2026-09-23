@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[protocolbuffers-protobuf]] [[agent-substrate-substrate]] [[google-googletest]] [[fmtlib-fmt]]
+[[jamiepine-voicebox]] [[hkuds-cli-anything]] [[protocolbuffers-protobuf]] [[obra-superpowers]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

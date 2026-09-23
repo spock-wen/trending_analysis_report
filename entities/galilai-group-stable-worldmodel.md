@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[zhouxiaoka-autoclip]] [[paperless-ngx-paperless-ngx]] [[agent-substrate-substrate]] [[trycua-cua]]
+[[alphaxiv-openresearch]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

@@ -1,20 +1,20 @@
 ---
 title: "obra/superpowers"
 created: 2026-05-16
-updated: 2026-09-12
-last_active: 2026-09-12
+updated: 2026-09-24
+last_active: 2026-09-24
 type: framework
-tags: [shell, ai-agent, cli, erp, rising]
-sources: [raw/trending/2026-09-12.json]
+tags: [shell, ai-agent, cli, erp]
+sources: [raw/trending/2026-09-24.json]
 confidence: high
-trending_count_daily: 36
+trending_count_daily: 37
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 4
+consecutive_days: 1
 first_trending: 2026-05-16
-last_trending: 2026-09-12
+last_trending: 2026-09-24
 peak_rank: 1
-total_stars: 285348
+total_stars: 290660
 language: "Shell"
 ---
 
@@ -23,22 +23,22 @@ language: "Shell"
 An agentic skills framework & software development methodology that works.
 
 - 语言: Shell
-- 上榜次数: 36 次
-- 连续上榜: 4 天
+- 上榜次数: 37 次
+- 连续上榜: 1 天
 - 最高排名: #1
 - 链接: [obra/superpowers](https://github.com/obra/superpowers)
 
 ## 上榜历史
 
+  - 2026-09-24: #5, +485⭐
   - 2026-09-12: #9, +731⭐
   - 2026-09-11: #3, +731⭐
   - 2026-09-10: #3, +690⭐
   - 2026-09-09: #7, +446⭐
-  - 2026-09-04: #19, +470⭐
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[alsk1992-cloddsbot]] [[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[agent-substrate-substrate]]
+[[basecamp-omarchy]] [[nvm-sh-nvm]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

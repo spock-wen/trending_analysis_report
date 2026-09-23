@@ -34,7 +34,7 @@ Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[trycua-cua]] [[supabase-supabase]] [[davila7-claude-code-templates]] [[snailsploit-claude-red]]
+[[supabase-supabase]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[trycua-cua]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[data]]
 

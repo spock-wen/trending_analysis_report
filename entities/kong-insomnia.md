@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[open-dev-society-openstock]] [[zhouxiaoka-autoclip]] [[browser-use-video-use]] [[yynxxxxx-codex-x]]
+[[dream-num-univer]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[cli]]
 

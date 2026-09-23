@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[peetzweg-opendisplay]] [[trycua-cua]] [[supabase-supabase]] [[ruvnet-ruview]]
+[[supabase-supabase]] [[dream-num-univer]] [[davila7-claude-code-templates]] [[open-dev-society-openstock]] [[peetzweg-opendisplay]]
 
 **所属领域**: [[data]] [[devops]]
 

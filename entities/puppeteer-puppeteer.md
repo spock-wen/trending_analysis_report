@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[open-dev-society-openstock]] [[browser-use-video-use]] [[trycua-cua]] [[superdesigndev-treg]]
+[[dream-num-univer]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]] [[browser-use-video-use]]
 
 **所属领域**: [[web]]
 

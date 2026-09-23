@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[cloudflare-quiche]] [[trycua-cua]] [[superdesigndev-treg]] [[davila7-claude-code-templates]]
+[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[trycua-cua]] [[browser-use-video-use]] [[superdesigndev-treg]]
 
 **所属领域**: [[web]]
 

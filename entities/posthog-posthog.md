@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[cloudflare-quiche]] [[agent-substrate-substrate]] [[peetzweg-opendisplay]] [[trycua-cua]]
+[[supabase-supabase]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

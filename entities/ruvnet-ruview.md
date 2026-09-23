@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[yynxxxxx-codex-x]] [[peetzweg-opendisplay]] [[davila7-claude-code-templates]] [[cilium-cilium]]
+[[davila7-claude-code-templates]] [[yynxxxxx-codex-x]] [[cloudflare-quiche]] [[peetzweg-opendisplay]] [[ankitects-anki]]
 
 **所属领域**: [[devops]]
 

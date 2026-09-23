@@ -1,20 +1,20 @@
 ---
 title: "pbakaus/impeccable"
 created: 2026-06-02
-updated: 2026-07-28
-last_active: 2026-07-28
+updated: 2026-09-24
+last_active: 2026-09-24
 type: tool
 tags: [ai-agent]
-sources: [raw/trending/2026-07-28.json]
-confidence: medium
-trending_count_daily: 2
+sources: [raw/trending/2026-09-24.json]
+confidence: high
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-02
-last_trending: 2026-07-28
+last_trending: 2026-09-24
 peak_rank: 6
-total_stars: 51772
+total_stars: 70305
 language: "JavaScript"
 ---
 
@@ -23,19 +23,20 @@ language: "JavaScript"
 The design language that makes your AI harness better at design.
 
 - 语言: JavaScript
-- 上榜次数: 2 次
+- 上榜次数: 3 次
 - 连续上榜: 1 天
 - 最高排名: #6
 - 链接: [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 
 ## 上榜历史
 
+  - 2026-09-24: #12, +287⭐
   - 2026-07-28: #7, +847⭐
   - 2026-06-02: #6, +612⭐
 
 ## 相关项目
 
-[[agent-substrate-substrate]] [[cloudflare-security-audit-skill]] [[davila7-claude-code-templates]] [[addyosmani-agent-skills]] [[dream-num-univer]]
+[[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]]
 

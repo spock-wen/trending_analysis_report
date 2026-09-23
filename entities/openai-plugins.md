@@ -38,7 +38,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[agent-substrate-substrate]] [[cloudflare-security-audit-skill]] [[davila7-claude-code-templates]] [[addyosmani-agent-skills]] [[dream-num-univer]]
+[[hkuds-cli-anything]] [[pbakaus-impeccable]] [[affaan-m-ecc]] [[obra-superpowers]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]]
 

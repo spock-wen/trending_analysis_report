@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[tonhowtf-omniget]] [[open-dev-society-openstock]] [[browser-use-video-use]] [[agent-substrate-substrate]]
+[[dream-num-univer]] [[jamiepine-voicebox]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

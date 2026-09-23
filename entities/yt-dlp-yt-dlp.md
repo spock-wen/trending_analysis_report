@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[tonhowtf-omniget]] [[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[davila7-claude-code-templates]]
+[[jamiepine-voicebox]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[obra-superpowers]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[cli]] [[audio]]
 

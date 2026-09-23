@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[paperless-ngx-paperless-ngx]] [[mg1937-asc]] [[davila7-claude-code-templates]] [[alphaxiv-openresearch]]
+[[alphaxiv-openresearch]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[browser-use-video-use]]
 
 **所属领域**: [[science]]
 

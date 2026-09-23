@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[tonhowtf-omniget]] [[huggingface-transformers]] [[browser-use-video-use]] [[higgsfield-ai-higgsfield]]
+[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[higgsfield-ai-higgsfield]] [[crosstalk-solutions-project-nomad]] [[browser-use-video-use]]
 
 **所属领域**: [[education]]
 

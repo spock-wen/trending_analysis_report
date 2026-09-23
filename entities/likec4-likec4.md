@@ -36,5 +36,5 @@ Visualize, collaborate, and evolve the software architecture with always actual 
 
 ## 相关项目
 
-[[builderio-agent-native]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]] [[dream-num-univer]]
+[[open-dev-society-openstock]] [[dream-num-univer]] [[builderio-agent-native]] [[crosstalk-solutions-project-nomad]]
 

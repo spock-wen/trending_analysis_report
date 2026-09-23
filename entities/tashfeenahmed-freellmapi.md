@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[browser-use-video-use]] [[agent-substrate-substrate]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]]
+[[dream-num-univer]] [[nationalsecurityagency-ghidra]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

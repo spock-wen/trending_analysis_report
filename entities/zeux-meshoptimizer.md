@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[alsk1992-cloddsbot]] [[protocolbuffers-protobuf]] [[danny-avila-librechat]] [[google-googletest]]
+[[protocolbuffers-protobuf]] [[obra-superpowers]] [[ever-co-ever-gauzy]] [[harry7557558-spirula-studio]] [[danny-avila-librechat]]
 
 **所属领域**: [[erp]]
 

@@ -35,7 +35,7 @@ OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换�
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[zhouxiaoka-autoclip]] [[agent-substrate-substrate]] [[davila7-claude-code-templates]] [[dream-num-univer]]
+[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[cloudflare-quiche]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

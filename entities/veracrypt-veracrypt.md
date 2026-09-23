@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[opa334-dopamine]] [[armory3d-armorpaint]] [[cloudflare-security-audit-skill]] [[antirez-ds4]] [[nationalsecurityagency-ghidra]]
+[[nationalsecurityagency-ghidra]] [[justvugg-colibri]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[security]]
 

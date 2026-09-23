@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[melgarafael-deskcommcrm]] [[alsk1992-cloddsbot]] [[yynxxxxx-codex-x]] [[agent-substrate-substrate]]
+[[hkuds-cli-anything]] [[yynxxxxx-codex-x]] [[obra-superpowers]] [[cloudflare-quiche]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

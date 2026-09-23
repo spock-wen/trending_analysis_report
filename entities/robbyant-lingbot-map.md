@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[trycua-cua]] [[supabase-supabase]] [[davila7-claude-code-templates]] [[snailsploit-claude-red]]
+[[supabase-supabase]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[trycua-cua]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[data]]
 

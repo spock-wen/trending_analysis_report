@@ -36,5 +36,5 @@ CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
 ## 相关项目
 
-[[coder-coder]] [[asciimoo-hister]] [[agent-substrate-substrate]] [[google-ax]]
+[[asciimoo-hister]] [[coder-coder]] [[agent-substrate-substrate]] [[google-ax]]
 

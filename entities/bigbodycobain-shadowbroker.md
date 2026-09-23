@@ -35,7 +35,7 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[agent-substrate-substrate]] [[trycua-cua]] [[supabase-supabase]] [[davila7-claude-code-templates]]
+[[supabase-supabase]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

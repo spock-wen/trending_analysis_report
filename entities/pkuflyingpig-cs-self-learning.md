@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[tonhowtf-omniget]] [[huggingface-transformers]] [[averygan-reclip]] [[trycua-cua]]
+[[ripienaar-free-for-dev]] [[averygan-reclip]] [[hkuds-cli-anything]] [[higgsfield-ai-higgsfield]] [[crosstalk-solutions-project-nomad]]
 
 **所属领域**: [[web]] [[education]]
 

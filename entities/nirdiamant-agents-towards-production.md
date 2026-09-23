@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[tonhowtf-omniget]] [[alsk1992-cloddsbot]] [[huggingface-transformers]] [[agent-substrate-substrate]]
+[[cilium-cilium]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

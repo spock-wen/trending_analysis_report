@@ -35,7 +35,7 @@ Fullstack app framework for web, desktop, and mobile.
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[yynxxxxx-codex-x]] [[trycua-cua]] [[superdesigndev-treg]] [[akitaonrails-ai-memory]]
+[[hkuds-cli-anything]] [[yynxxxxx-codex-x]] [[cloudflare-quiche]] [[browser-use-video-use]] [[ankitects-anki]]
 
 **所属领域**: [[web]]
 

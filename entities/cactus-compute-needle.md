@@ -38,5 +38,5 @@ Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, struct
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[mvt-project-mvt]] [[browser-use-video-use]] [[anthropics-financial-services]]
+[[hkuds-cli-anything]] [[anthropics-financial-services]] [[browser-use-video-use]] [[davila7-claude-code-templates]]
 

@@ -34,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]] [[k1tbyte-wand-enhancer]] [[cilium-cilium]] [[sonarr-sonarr]]
+[[nationalsecurityagency-ghidra]] [[dotnet-aspnetcore]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[jellyfin-jellyfin]]
 
 **所属领域**: [[security]]
 

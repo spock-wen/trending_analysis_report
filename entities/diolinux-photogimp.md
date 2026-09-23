@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[melgarafael-deskcommcrm]] [[alsk1992-cloddsbot]] [[danny-avila-librechat]] [[trycua-cua]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[conardli-garden-skills]] [[ever-co-ever-gauzy]] [[danny-avila-librechat]]
 
 **所属领域**: [[web]] [[erp]]
 

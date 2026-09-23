@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[opa334-dopamine]] [[agent-substrate-substrate]] [[antirez-ds4]] [[davila7-claude-code-templates]] [[dream-num-univer]]
+[[justvugg-colibri]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

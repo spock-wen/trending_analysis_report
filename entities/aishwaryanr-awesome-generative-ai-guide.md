@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[paperless-ngx-paperless-ngx]] [[averygan-reclip]] [[agent-substrate-substrate]] [[trycua-cua]]
+[[alphaxiv-openresearch]] [[ripienaar-free-for-dev]] [[averygan-reclip]] [[hkuds-cli-anything]] [[open-dev-society-openstock]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

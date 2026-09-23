@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[zhouxiaoka-autoclip]] [[yynxxxxx-codex-x]] [[trycua-cua]] [[superdesigndev-treg]]
+[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[obra-superpowers]] [[browser-use-video-use]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[web]] [[cli]]
 

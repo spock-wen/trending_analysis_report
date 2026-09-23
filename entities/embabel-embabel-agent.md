@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[browser-use-video-use]] [[agent-substrate-substrate]] [[davila7-claude-code-templates]] [[dream-num-univer]] [[mahlernim-google-timeline-visualizer]]
+[[andreknieriem-headunit-revived]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[bannedbook-fanqiang]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

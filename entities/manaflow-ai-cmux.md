@@ -36,7 +36,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[browser-use-video-use]] [[agent-substrate-substrate]] [[peetzweg-opendisplay]] [[yynxxxxx-codex-x]]
+[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[abue-ammar-tinycast]] [[obra-superpowers]] [[homebrew-brewui]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

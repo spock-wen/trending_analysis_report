@@ -37,7 +37,7 @@ Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]]
+[[anthropics-financial-services]] [[multimodal-art-projection-yue]] [[dream-num-univer]] [[obra-superpowers]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

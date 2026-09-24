@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[supabase-supabase]] [[ripienaar-free-for-dev]] [[averygan-reclip]] [[hkuds-cli-anything]] [[open-dev-society-openstock]]
+[[supabase-supabase]] [[averygan-reclip]] [[obra-superpowers]] [[dream-num-univer]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

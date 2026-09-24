@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[yynxxxxx-codex-x]] [[obra-superpowers]] [[cloudflare-quiche]] [[open-dev-society-openstock]]
+[[dream-num-univer]] [[obra-superpowers]] [[danny-avila-librechat]] [[ever-co-ever-gauzy]] [[ankitects-anki]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

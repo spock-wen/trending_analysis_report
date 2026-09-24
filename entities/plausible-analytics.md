@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[supabase-supabase]] [[nationalsecurityagency-ghidra]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]]
+[[supabase-supabase]] [[browser-use-video-use]] [[alibaba-open-code-review]] [[nationalsecurityagency-ghidra]] [[cilium-cilium]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

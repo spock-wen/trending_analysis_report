@@ -37,5 +37,5 @@ The authentication glue you need.
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[anthropics-financial-services]] [[browser-use-video-use]] [[davila7-claude-code-templates]]
+[[mvt-project-mvt]] [[hkuds-cli-anything]] [[anthropics-financial-services]] [[rohitg00-ai-engineering-from-scratch]]
 

@@ -38,7 +38,7 @@ A framework for building agentic apps
 
 ## 相关项目
 
-[[dream-num-univer]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]]
+[[open-dev-society-openstock]] [[dream-num-univer]] [[obra-superpowers]] [[fxembed-fxembed]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

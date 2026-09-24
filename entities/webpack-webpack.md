@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[pbakaus-impeccable]] [[affaan-m-ecc]] [[multimodal-art-projection-yue]] [[cloudflare-security-audit-skill]]
+[[multimodal-art-projection-yue]] [[addyosmani-agent-skills]] [[browser-use-video-use]] [[fxembed-fxembed]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[web]] [[image-gen]]
 

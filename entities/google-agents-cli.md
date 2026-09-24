@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]]
+[[davila7-claude-code-templates]] [[anthropics-financial-services]] [[ruvnet-ruview]] [[dream-num-univer]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

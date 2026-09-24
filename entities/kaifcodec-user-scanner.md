@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[supabase-supabase]] [[alphaxiv-openresearch]] [[nationalsecurityagency-ghidra]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]]
+[[anthropics-financial-services]] [[supabase-supabase]] [[paperless-ngx-paperless-ngx]] [[dream-num-univer]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

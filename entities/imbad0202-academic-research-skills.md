@@ -38,7 +38,7 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
+[[anthropics-financial-services]] [[paperless-ngx-paperless-ngx]] [[dream-num-univer]] [[obra-superpowers]] [[mg1937-asc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

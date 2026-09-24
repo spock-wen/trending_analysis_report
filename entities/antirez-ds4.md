@@ -35,5 +35,5 @@ DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[opa334-dopamine]] [[armory3d-armorpaint]] [[justvugg-colibri]]
+[[armory3d-armorpaint]] [[deusdata-codebase-memory-mcp]] [[opa334-dopamine]] [[justvugg-colibri]]
 

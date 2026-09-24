@@ -37,7 +37,7 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[obra-superpowers]] [[akitaonrails-ai-memory]] [[davila7-claude-code-templates]]
+[[davila7-claude-code-templates]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

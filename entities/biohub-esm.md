@@ -34,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]] [[higgsfield-ai-higgsfield]]
+[[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]] [[higgsfield-ai-higgsfield]] [[lyogavin-airllm]]
 

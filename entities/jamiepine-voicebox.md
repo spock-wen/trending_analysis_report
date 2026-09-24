@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[dream-num-univer]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]]
+[[open-dev-society-openstock]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[dream-num-univer]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[andreknieriem-headunit-revived]] [[hkuds-cli-anything]] [[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]] [[browser-use-video-use]]
+[[browser-use-video-use]] [[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]] [[andreknieriem-headunit-revived]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]] [[multimodal-art-projection-yue]]
+[[nutlope-hallmark]] [[multimodal-art-projection-yue]] [[dream-num-univer]] [[obra-superpowers]] [[diolinux-photogimp]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

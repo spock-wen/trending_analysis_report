@@ -34,7 +34,7 @@ Claude Code toolkit - agents, commands, skills, rules, and hooks for productive 
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[pbakaus-impeccable]] [[affaan-m-ecc]] [[obra-superpowers]]
+[[davila7-claude-code-templates]] [[dream-num-univer]] [[obra-superpowers]] [[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -1,7 +1,7 @@
 ---
 title: "Python Ecosystem Surge"
 created: 2026-06-07
-updated: 2026-09-24
+updated: 2026-09-25
 type: concept
 tags: [python, surge]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 信号概述
 
-2026-09-24 检测到 Python 领域有 8 个项目同时上榜，表明该语言生态近期活跃度显著上升。
+2026-09-25 检测到 Python 领域有 8 个项目同时上榜，表明该语言生态近期活跃度显著上升。
 
 ## 上榜项目（8 个）
 
-[[anthropics-financial-services]] [[davila7-claude-code-templates]] [[strands-agents-harness-sdk]] [[hkuds-cli-anything]] [[superdesigndev-treg]] [[mvt-project-mvt]] [[browser-use-video-use]] [[tnt-likely-panwatch]]
+[[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[nvidia-model-optimizer]] [[anthropics-financial-services]] [[hkuds-cli-anything]] [[mvt-project-mvt]] [[strands-agents-harness-sdk]] [[superdesigndev-treg]]
 
 ## 语言分布
 

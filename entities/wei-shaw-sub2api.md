@@ -34,7 +34,7 @@ Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]] [[coder-coder]]
+[[dream-num-univer]] [[obra-superpowers]] [[google-ax]] [[asciimoo-hister]] [[coder-coder]]
 
 **所属领域**: [[ai-agent]]
 

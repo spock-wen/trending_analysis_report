@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[dream-num-univer]] [[jamiepine-voicebox]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
+[[open-dev-society-openstock]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[dream-num-univer]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

@@ -38,7 +38,7 @@ Give Claude the ability to watch any video. /watch downloads, extracts frames, t
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]]
+[[anthropics-financial-services]] [[dream-num-univer]] [[obra-superpowers]] [[mvt-project-mvt]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

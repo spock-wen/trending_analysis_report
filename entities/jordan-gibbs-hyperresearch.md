@@ -34,7 +34,7 @@ Agent-driven research knowledge base. Agents collect, search, and synthesize web
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
+[[anthropics-financial-services]] [[paperless-ngx-paperless-ngx]] [[dream-num-univer]] [[obra-superpowers]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

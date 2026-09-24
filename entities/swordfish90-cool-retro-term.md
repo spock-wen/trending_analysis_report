@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[obra-superpowers]] [[akitaonrails-ai-memory]] [[davila7-claude-code-templates]]
+[[davila7-claude-code-templates]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

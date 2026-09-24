@@ -38,7 +38,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]] [[peetzweg-opendisplay]]
+[[anthropics-financial-services]] [[ruvnet-ruview]] [[dream-num-univer]] [[obra-superpowers]] [[cilium-cilium]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

@@ -34,7 +34,7 @@ ONNX Runtime: cross-platform, high performance ML inferencing and training accel
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[protocolbuffers-protobuf]] [[obra-superpowers]] [[open-dev-society-openstock]] [[pbakaus-impeccable]]
+[[google-googletest]] [[dream-num-univer]] [[obra-superpowers]] [[harry7557558-spirula-studio]] [[fmtlib-fmt]]
 
 **所属领域**: [[ai-agent]]
 

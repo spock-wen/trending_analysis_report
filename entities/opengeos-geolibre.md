@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[supabase-supabase]] [[dream-num-univer]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]]
+[[open-dev-society-openstock]] [[supabase-supabase]] [[dream-num-univer]] [[browser-use-video-use]] [[fxembed-fxembed]]
 
 **所属领域**: [[web]] [[data]]
 

@@ -34,5 +34,5 @@ A YAML parser and emitter in C++
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[google-googletest]] [[fmtlib-fmt]] [[harry7557558-spirula-studio]]
+[[google-googletest]] [[harry7557558-spirula-studio]] [[fmtlib-fmt]] [[protocolbuffers-protobuf]]
 

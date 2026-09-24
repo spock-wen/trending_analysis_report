@@ -36,7 +36,7 @@ Lightning-Fast, On-Device, Multilingual TTS running natively via ONNX.
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[abue-ammar-tinycast]] [[homebrew-brewui]] [[multimodal-art-projection-yue]] [[peetzweg-opendisplay]]
+[[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[peetzweg-opendisplay]] [[abue-ammar-tinycast]] [[tonhowtf-omniget]]
 
 **所属领域**: [[audio]]
 

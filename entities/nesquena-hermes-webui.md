@@ -37,7 +37,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]]
+[[anthropics-financial-services]] [[dream-num-univer]] [[obra-superpowers]] [[browser-use-video-use]] [[mvt-project-mvt]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

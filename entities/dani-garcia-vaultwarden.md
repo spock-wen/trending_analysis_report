@@ -35,5 +35,5 @@ Unofficial Bitwarden compatible server written in Rust, formerly known as bitwar
 
 ## 相关项目
 
-[[ankitects-anki]] [[yynxxxxx-codex-x]] [[cloudflare-quiche]] [[akitaonrails-ai-memory]]
+[[cloudflare-quiche]] [[yynxxxxx-codex-x]] [[ankitects-anki]] [[akitaonrails-ai-memory]]
 

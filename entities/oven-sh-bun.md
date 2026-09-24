@@ -38,5 +38,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
 
 ## 相关项目
 
-[[ankitects-anki]] [[yynxxxxx-codex-x]] [[cloudflare-quiche]] [[akitaonrails-ai-memory]]
+[[cloudflare-quiche]] [[yynxxxxx-codex-x]] [[ankitects-anki]] [[akitaonrails-ai-memory]]
 

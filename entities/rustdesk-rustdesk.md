@@ -34,5 +34,5 @@ An open-source remote desktop application designed for self-hosting, as an alter
 
 ## 相关项目
 
-[[ankitects-anki]] [[yynxxxxx-codex-x]] [[cloudflare-quiche]] [[akitaonrails-ai-memory]]
+[[cloudflare-quiche]] [[yynxxxxx-codex-x]] [[ankitects-anki]] [[akitaonrails-ai-memory]]
 

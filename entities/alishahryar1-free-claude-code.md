@@ -38,7 +38,7 @@ Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your 
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
+[[davila7-claude-code-templates]] [[anthropics-financial-services]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

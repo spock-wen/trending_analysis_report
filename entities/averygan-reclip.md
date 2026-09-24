@@ -35,7 +35,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[obra-superpowers]] [[browser-use-video-use]]
+[[davila7-claude-code-templates]] [[obra-superpowers]] [[browser-use-video-use]] [[hkuds-cli-anything]] [[superdesigndev-treg]]
 
 **所属领域**: [[web]] [[cli]]
 

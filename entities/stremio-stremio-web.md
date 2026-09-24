@@ -34,7 +34,7 @@ Stremio - Freedom to Stream
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[pbakaus-impeccable]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[browser-use-video-use]]
+[[addyosmani-agent-skills]] [[browser-use-video-use]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

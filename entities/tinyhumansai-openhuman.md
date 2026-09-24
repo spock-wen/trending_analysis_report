@@ -38,7 +38,7 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[hkuds-cli-anything]] [[yynxxxxx-codex-x]] [[obra-superpowers]] [[cloudflare-quiche]]
+[[paperless-ngx-paperless-ngx]] [[dream-num-univer]] [[obra-superpowers]] [[mg1937-asc]] [[ankitects-anki]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

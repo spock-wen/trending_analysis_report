@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[abue-ammar-tinycast]] [[obra-superpowers]] [[homebrew-brewui]]
+[[davila7-claude-code-templates]] [[peetzweg-opendisplay]] [[obra-superpowers]] [[abue-ammar-tinycast]] [[homebrew-brewui]]
 
 **所属领域**: [[cli]]
 

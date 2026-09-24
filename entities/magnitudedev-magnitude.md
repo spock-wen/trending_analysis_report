@@ -37,7 +37,7 @@ Open source inference server that runs the best local models for your hardware, 
 
 ## 相关项目
 
-[[dream-num-univer]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
+[[davila7-claude-code-templates]] [[open-dev-society-openstock]] [[dream-num-univer]] [[obra-superpowers]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

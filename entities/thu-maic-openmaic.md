@@ -38,7 +38,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[dream-num-univer]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
+[[davila7-claude-code-templates]] [[open-dev-society-openstock]] [[dream-num-univer]] [[obra-superpowers]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

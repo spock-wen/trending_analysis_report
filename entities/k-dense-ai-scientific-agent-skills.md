@@ -38,7 +38,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ## 相关项目
 
-[[supabase-supabase]] [[alphaxiv-openresearch]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]]
+[[anthropics-financial-services]] [[supabase-supabase]] [[paperless-ngx-paperless-ngx]] [[dream-num-univer]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

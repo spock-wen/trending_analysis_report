@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[abue-ammar-tinycast]] [[obra-superpowers]] [[homebrew-brewui]] [[open-dev-society-openstock]]
+[[peetzweg-opendisplay]] [[dream-num-univer]] [[obra-superpowers]] [[abue-ammar-tinycast]] [[homebrew-brewui]]
 
 **所属领域**: [[ai-agent]]
 

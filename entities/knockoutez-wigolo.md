@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[dream-num-univer]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
+[[open-dev-society-openstock]] [[paperless-ngx-paperless-ngx]] [[dream-num-univer]] [[obra-superpowers]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

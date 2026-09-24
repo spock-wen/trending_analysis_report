@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[nvm-sh-nvm]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]]
+[[davila7-claude-code-templates]] [[nvm-sh-nvm]] [[dream-num-univer]] [[obra-superpowers]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

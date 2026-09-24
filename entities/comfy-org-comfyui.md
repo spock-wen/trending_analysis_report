@@ -35,7 +35,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[multimodal-art-projection-yue]] [[trycua-cua]] [[openbmb-voxcpm]]
+[[anthropics-financial-services]] [[multimodal-art-projection-yue]] [[fxembed-fxembed]] [[zhouxiaoka-autoclip]] [[mvt-project-mvt]]
 
 **所属领域**: [[image-gen]]
 

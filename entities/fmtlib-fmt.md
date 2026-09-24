@@ -37,5 +37,5 @@ A modern formatting library
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[google-googletest]] [[harry7557558-spirula-studio]]
+[[google-googletest]] [[harry7557558-spirula-studio]] [[protocolbuffers-protobuf]]
 

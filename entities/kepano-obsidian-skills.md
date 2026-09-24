@@ -34,7 +34,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]]
+[[davila7-claude-code-templates]] [[dream-num-univer]] [[obra-superpowers]] [[vectorize-io-hindsight]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

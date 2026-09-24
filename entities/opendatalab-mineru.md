@@ -36,7 +36,7 @@ Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J
 
 ## 相关项目
 
-[[supabase-supabase]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
+[[anthropics-financial-services]] [[supabase-supabase]] [[dream-num-univer]] [[obra-superpowers]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

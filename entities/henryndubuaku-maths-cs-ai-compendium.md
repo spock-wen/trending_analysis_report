@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[dream-num-univer]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
+[[open-dev-society-openstock]] [[paperless-ngx-paperless-ngx]] [[dream-num-univer]] [[obra-superpowers]] [[mg1937-asc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

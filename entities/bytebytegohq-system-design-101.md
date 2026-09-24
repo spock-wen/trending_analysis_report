@@ -35,7 +35,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]]
+[[hkuds-cli-anything]] [[dream-num-univer]] [[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

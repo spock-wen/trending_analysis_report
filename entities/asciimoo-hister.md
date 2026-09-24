@@ -36,5 +36,5 @@ Your own search engine
 
 ## 相关项目
 
-[[coder-coder]] [[agent-substrate-substrate]] [[google-ax]]
+[[agent-substrate-substrate]] [[coder-coder]] [[google-ax]]
 

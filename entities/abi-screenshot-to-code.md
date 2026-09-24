@@ -35,7 +35,7 @@ Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]]
+[[anthropics-financial-services]] [[dream-num-univer]] [[obra-superpowers]] [[browser-use-video-use]] [[mvt-project-mvt]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

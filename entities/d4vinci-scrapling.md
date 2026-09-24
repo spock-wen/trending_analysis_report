@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[trycua-cua]] [[browser-use-video-use]] [[superdesigndev-treg]]
+[[anthropics-financial-services]] [[browser-use-video-use]] [[mvt-project-mvt]] [[hkuds-cli-anything]] [[superdesigndev-treg]]
 
 **所属领域**: [[web]]
 

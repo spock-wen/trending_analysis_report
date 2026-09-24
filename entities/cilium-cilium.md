@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[davila7-claude-code-templates]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[peetzweg-opendisplay]]
+[[davila7-claude-code-templates]] [[ruvnet-ruview]] [[google-ax]] [[nationalsecurityagency-ghidra]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[devops]] [[security]]
 

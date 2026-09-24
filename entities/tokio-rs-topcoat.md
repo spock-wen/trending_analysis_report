@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[yynxxxxx-codex-x]] [[cloudflare-quiche]] [[browser-use-video-use]] [[ankitects-anki]]
+[[browser-use-video-use]] [[ankitects-anki]] [[hkuds-cli-anything]] [[superdesigndev-treg]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[web]]
 

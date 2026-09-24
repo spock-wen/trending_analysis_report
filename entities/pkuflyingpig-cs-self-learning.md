@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[averygan-reclip]] [[hkuds-cli-anything]] [[higgsfield-ai-higgsfield]] [[crosstalk-solutions-project-nomad]]
+[[averygan-reclip]] [[browser-use-video-use]] [[vectorize-io-hindsight]] [[hkuds-cli-anything]] [[superdesigndev-treg]]
 
 **所属领域**: [[web]] [[education]]
 

@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[obra-superpowers]] [[browser-use-video-use]] [[akitaonrails-ai-memory]]
+[[davila7-claude-code-templates]] [[obra-superpowers]] [[browser-use-video-use]] [[hkuds-cli-anything]] [[superdesigndev-treg]]
 
 **所属领域**: [[web]] [[cli]]
 

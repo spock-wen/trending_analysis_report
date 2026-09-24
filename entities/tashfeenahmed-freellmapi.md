@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[dream-num-univer]] [[nationalsecurityagency-ghidra]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
+[[open-dev-society-openstock]] [[dream-num-univer]] [[obra-superpowers]] [[cilium-cilium]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

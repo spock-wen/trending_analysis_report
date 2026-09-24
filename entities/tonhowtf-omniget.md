@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[yynxxxxx-codex-x]] [[obra-superpowers]]
+[[davila7-claude-code-templates]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[obra-superpowers]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

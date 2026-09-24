@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[cilium-cilium]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
+[[davila7-claude-code-templates]] [[ruvnet-ruview]] [[dream-num-univer]] [[obra-superpowers]] [[cilium-cilium]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

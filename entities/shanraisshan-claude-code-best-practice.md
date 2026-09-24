@@ -35,7 +35,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[averygan-reclip]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
+[[averygan-reclip]] [[obra-superpowers]] [[dream-num-univer]] [[browser-use-video-use]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

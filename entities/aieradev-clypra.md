@@ -34,7 +34,7 @@ A modern video editor built with Tauri, React, and TypeScript. Focus on building
 
 ## 相关项目
 
-[[dream-num-univer]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]]
+[[open-dev-society-openstock]] [[dream-num-univer]] [[obra-superpowers]] [[fxembed-fxembed]] [[builderio-agent-native]]
 
 **所属领域**: [[ai-agent]]
 

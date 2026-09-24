@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[hkuds-cli-anything]] [[protocolbuffers-protobuf]] [[obra-superpowers]] [[open-dev-society-openstock]]
+[[google-googletest]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[dream-num-univer]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

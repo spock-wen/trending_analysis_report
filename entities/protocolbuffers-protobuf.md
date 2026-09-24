@@ -36,7 +36,7 @@ Protocol Buffers - Google's data interchange format
 
 ## 相关项目
 
-[[supabase-supabase]] [[alibaba-open-code-review]] [[google-googletest]] [[deusdata-codebase-memory-mcp]] [[harry7557558-spirula-studio]]
+[[google-googletest]] [[supabase-supabase]] [[alibaba-open-code-review]] [[harry7557558-spirula-studio]] [[fmtlib-fmt]]
 
 **所属领域**: [[data]]
 

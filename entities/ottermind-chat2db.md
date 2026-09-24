@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[supabase-supabase]] [[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]] [[hkuds-cli-anything]] [[open-dev-society-openstock]]
+[[davila7-claude-code-templates]] [[google-guava]] [[supabase-supabase]] [[yuliskov-smarttube]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

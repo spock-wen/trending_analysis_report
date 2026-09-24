@@ -36,7 +36,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]]
+[[dream-num-univer]] [[obra-superpowers]] [[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

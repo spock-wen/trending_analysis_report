@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
+[[anthropics-financial-services]] [[multimodal-art-projection-yue]] [[paperless-ngx-paperless-ngx]] [[dream-num-univer]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

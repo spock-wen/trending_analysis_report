@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[dotnet-aspnetcore]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]]
+[[sonarr-sonarr]] [[dream-num-univer]] [[obra-superpowers]] [[k1tbyte-wand-enhancer]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

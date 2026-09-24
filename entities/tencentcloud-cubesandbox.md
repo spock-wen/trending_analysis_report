@@ -37,7 +37,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[yynxxxxx-codex-x]] [[obra-superpowers]] [[cloudflare-quiche]] [[open-dev-society-openstock]]
+[[dream-num-univer]] [[obra-superpowers]] [[ankitects-anki]] [[hkuds-cli-anything]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]]
 

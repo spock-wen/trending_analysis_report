@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[protocolbuffers-protobuf]] [[obra-superpowers]]
+[[davila7-claude-code-templates]] [[google-googletest]] [[obra-superpowers]] [[cilium-cilium]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[cli]] [[security]]
 

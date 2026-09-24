@@ -37,7 +37,7 @@ The open-source alternative to Claude Cowork (powered by opencode)
 
 ## 相关项目
 
-[[dream-num-univer]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]]
+[[open-dev-society-openstock]] [[dream-num-univer]] [[obra-superpowers]] [[fxembed-fxembed]] [[builderio-agent-native]]
 
 **所属领域**: [[ai-agent]]
 

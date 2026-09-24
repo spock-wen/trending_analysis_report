@@ -34,7 +34,7 @@ Socket-based TS/JavaScript API for WhatsApp Web
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[pbakaus-impeccable]] [[affaan-m-ecc]] [[obra-superpowers]] [[cloudflare-security-audit-skill]]
+[[dream-num-univer]] [[obra-superpowers]] [[addyosmani-agent-skills]] [[browser-use-video-use]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

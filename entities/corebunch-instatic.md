@@ -37,7 +37,7 @@ The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste
 
 ## 相关项目
 
-[[supabase-supabase]] [[dream-num-univer]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
+[[open-dev-society-openstock]] [[supabase-supabase]] [[dream-num-univer]] [[obra-superpowers]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

@@ -34,7 +34,7 @@ Deliver web apps with confidence 🚀
 
 ## 相关项目
 
-[[dream-num-univer]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[crosstalk-solutions-project-nomad]] [[browser-use-video-use]]
+[[open-dev-society-openstock]] [[dream-num-univer]] [[browser-use-video-use]] [[fxembed-fxembed]] [[builderio-agent-native]]
 
 **所属领域**: [[web]]
 

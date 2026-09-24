@@ -38,7 +38,7 @@ Secure environments for developers and their agents
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]] [[google-ax]]
+[[dream-num-univer]] [[obra-superpowers]] [[google-ax]] [[asciimoo-hister]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

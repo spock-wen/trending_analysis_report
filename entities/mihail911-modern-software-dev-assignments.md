@@ -34,7 +34,7 @@ Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]]
+[[anthropics-financial-services]] [[dream-num-univer]] [[obra-superpowers]] [[mvt-project-mvt]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

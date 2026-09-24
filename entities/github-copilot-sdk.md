@@ -38,7 +38,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
+[[google-guava]] [[yuliskov-smarttube]] [[dream-num-univer]] [[obra-superpowers]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[ai-agent]]
 

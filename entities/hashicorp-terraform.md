@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]]
+[[davila7-claude-code-templates]] [[ruvnet-ruview]] [[dream-num-univer]] [[obra-superpowers]] [[google-ax]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[protocolbuffers-protobuf]] [[obra-superpowers]] [[harry7557558-spirula-studio]]
+[[davila7-claude-code-templates]] [[google-googletest]] [[obra-superpowers]] [[harry7557558-spirula-studio]] [[fmtlib-fmt]]
 
 **所属领域**: [[cli]]
 

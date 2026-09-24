@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[yynxxxxx-codex-x]] [[affaan-m-ecc]] [[cloudflare-quiche]] [[cloudflare-security-audit-skill]]
+[[cilium-cilium]] [[nationalsecurityagency-ghidra]] [[ankitects-anki]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

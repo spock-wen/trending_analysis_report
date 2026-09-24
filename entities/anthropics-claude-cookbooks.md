@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]] [[microsoft-ai-for-beginners]]
+[[dream-num-univer]] [[obra-superpowers]] [[microsoft-generative-ai-for-beginners]] [[hkuds-cli-anything]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[ai-agent]]
 

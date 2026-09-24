@@ -35,7 +35,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[browser-use-video-use]]
+[[anthropics-financial-services]] [[mg1937-asc]] [[mvt-project-mvt]] [[alphaxiv-openresearch]] [[hkuds-cli-anything]]
 
 **所属领域**: [[science]]
 

@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[dream-num-univer]] [[davila7-claude-code-templates]] [[open-dev-society-openstock]] [[peetzweg-opendisplay]] [[crosstalk-solutions-project-nomad]]
+[[davila7-claude-code-templates]] [[open-dev-society-openstock]] [[ruvnet-ruview]] [[dream-num-univer]] [[cilium-cilium]]
 
 **所属领域**: [[devops]]
 

@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[nvm-sh-nvm]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]]
+[[davila7-claude-code-templates]] [[nvm-sh-nvm]] [[dream-num-univer]] [[obra-superpowers]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

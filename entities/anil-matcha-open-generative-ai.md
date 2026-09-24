@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[pbakaus-impeccable]] [[affaan-m-ecc]] [[obra-superpowers]] [[cloudflare-security-audit-skill]]
+[[multimodal-art-projection-yue]] [[dream-num-univer]] [[obra-superpowers]] [[addyosmani-agent-skills]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[obra-superpowers]] [[multimodal-art-projection-yue]]
+[[davila7-claude-code-templates]] [[anthropics-financial-services]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[obra-superpowers]]
 
 **所属领域**: [[cli]] [[audio]]
 

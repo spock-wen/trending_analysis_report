@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[andreknieriem-headunit-revived]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[bannedbook-fanqiang]] [[obra-superpowers]]
+[[dream-num-univer]] [[obra-superpowers]] [[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]] [[andreknieriem-headunit-revived]]
 
 **所属领域**: [[ai-agent]]
 

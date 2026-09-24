@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
+[[davila7-claude-code-templates]] [[anthropics-financial-services]] [[paperless-ngx-paperless-ngx]] [[dream-num-univer]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

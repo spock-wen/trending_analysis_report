@@ -34,7 +34,7 @@ Prefect is a workflow orchestration framework for building resilient data pipeli
 
 ## 相关项目
 
-[[supabase-supabase]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[trycua-cua]] [[deusdata-codebase-memory-mcp]]
+[[anthropics-financial-services]] [[supabase-supabase]] [[alibaba-open-code-review]] [[mvt-project-mvt]] [[hkuds-cli-anything]]
 
 **所属领域**: [[data]]
 

@@ -35,7 +35,7 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[pbakaus-impeccable]] [[affaan-m-ecc]] [[obra-superpowers]] [[cloudflare-security-audit-skill]]
+[[dream-num-univer]] [[obra-superpowers]] [[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

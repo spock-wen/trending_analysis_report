@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]]
+[[paperless-ngx-paperless-ngx]] [[dream-num-univer]] [[obra-superpowers]] [[mg1937-asc]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

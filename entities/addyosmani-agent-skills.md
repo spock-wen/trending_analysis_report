@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[pbakaus-impeccable]] [[affaan-m-ecc]] [[obra-superpowers]] [[cloudflare-security-audit-skill]]
+[[dream-num-univer]] [[obra-superpowers]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

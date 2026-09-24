@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[averygan-reclip]] [[hkuds-cli-anything]] [[multimodal-art-projection-yue]] [[openbmb-voxcpm]]
+[[multimodal-art-projection-yue]] [[averygan-reclip]] [[browser-use-video-use]] [[fxembed-fxembed]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[web]] [[image-gen]]
 

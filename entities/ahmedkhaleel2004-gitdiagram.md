@@ -34,5 +34,5 @@ Free, simple, fast interactive diagrams for any GitHub repository
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[dream-num-univer]] [[builderio-agent-native]] [[crosstalk-solutions-project-nomad]]
+[[fxembed-fxembed]] [[open-dev-society-openstock]] [[builderio-agent-native]] [[dream-num-univer]]
 

@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[ripienaar-free-for-dev]] [[averygan-reclip]] [[hkuds-cli-anything]] [[open-dev-society-openstock]]
+[[paperless-ngx-paperless-ngx]] [[averygan-reclip]] [[obra-superpowers]] [[dream-num-univer]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

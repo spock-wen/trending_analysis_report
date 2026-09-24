@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[supabase-supabase]] [[dream-num-univer]] [[open-dev-society-openstock]] [[multimodal-art-projection-yue]] [[openbmb-voxcpm]]
+[[open-dev-society-openstock]] [[supabase-supabase]] [[multimodal-art-projection-yue]] [[dream-num-univer]] [[alibaba-open-code-review]]
 
 **所属领域**: [[data]] [[image-gen]]
 

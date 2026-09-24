@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[basecamp-omarchy]] [[superdesigndev-treg]] [[nvm-sh-nvm]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]]
+[[davila7-claude-code-templates]] [[nvm-sh-nvm]] [[dream-num-univer]] [[obra-superpowers]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

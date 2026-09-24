@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]] [[higgsfield-ai-higgsfield]]
+[[dream-num-univer]] [[obra-superpowers]] [[browser-use-video-use]] [[vectorize-io-hindsight]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

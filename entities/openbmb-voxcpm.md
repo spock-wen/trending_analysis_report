@@ -38,7 +38,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[multimodal-art-projection-yue]] [[trycua-cua]]
+[[anthropics-financial-services]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[fxembed-fxembed]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

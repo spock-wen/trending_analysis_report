@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]]
+[[davila7-claude-code-templates]] [[dream-num-univer]] [[obra-superpowers]] [[google-ax]] [[asciimoo-hister]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

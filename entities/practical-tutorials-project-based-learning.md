@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[higgsfield-ai-higgsfield]] [[crosstalk-solutions-project-nomad]] [[browser-use-video-use]]
+[[anthropics-financial-services]] [[vectorize-io-hindsight]] [[mvt-project-mvt]] [[hkuds-cli-anything]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[education]]
 

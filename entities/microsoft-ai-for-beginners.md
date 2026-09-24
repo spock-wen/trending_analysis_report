@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]] [[higgsfield-ai-higgsfield]]
+[[dream-num-univer]] [[obra-superpowers]] [[vectorize-io-hindsight]] [[microsoft-generative-ai-for-beginners]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

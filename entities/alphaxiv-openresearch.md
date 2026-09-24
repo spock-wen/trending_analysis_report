@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[yynxxxxx-codex-x]] [[obra-superpowers]] [[cloudflare-quiche]] [[open-dev-society-openstock]]
+[[paperless-ngx-paperless-ngx]] [[dream-num-univer]] [[obra-superpowers]] [[mg1937-asc]] [[ankitects-anki]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-09-24 | 总页面：622
+> 最后更新：2026-09-25 | 总页面：626
 
 ## Entities
 
@@ -177,7 +177,7 @@
 - [[dotnet-aspnetcore|aspnetcore"]] — ASP.NET Core is a cross-platform .NET framework for building...
 - [[dotnet-skills|skills"]] — Repository for skills to assist AI coding agents with .NET a...
 - [[dottxt-ai-outlines|outlines"]] — Structured Outputs 🆕
-- [[dream-num-univer|univer"]] — The Office Harness for AI Agents — Spreadsheets, Docs, Slide... 🆕
+- [[dream-num-univer|univer"]] — The Office Harness for AI Agents — Spreadsheets, Docs, Slide... 🔥
 - [[dreammis-social-auto-upload|social-auto-upload"]] — 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 - [[earendil-works-pi|pi"]] — AI agent toolkit: unified LLM API, agent loop, TUI, coding a...
 - [[earthtojake-text-to-cad|text-to-cad"]] — A library of agent skills for CAD, CAE and CAM
@@ -204,6 +204,7 @@
 - [[free-tv-iptv|IPTV"]] — M3U Playlist for free TV channels
 - [[freecodecamp-freecodecamp|freeCodeCamp"]] — freeCodeCamp.org's open-source codebase and curriculum. Lear... 🔥
 - [[freestylefly-awesome-gpt-image-2|awesome-gpt-image-2"]] — Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级... 🆕
+- [[fxembed-fxembed|FxEmbed"]] — Fix X/Twitter and Bluesky embeds! Use multiple images, video... 🆕
 - [[gabime-spdlog|spdlog"]] — Fast C++ logging library.
 - [[galilai-group-stable-worldmodel|stable-worldmodel"]] — A platform for reproducible world model research and evaluat... 🆕
 - [[garrytan-gstack|gstack"]] — Use Garry Tan's exact Claude Code setup: 23 opinionated tool... 🔥
@@ -218,7 +219,7 @@
 - [[goauthentik-authentik|authentik"]] — The authentication glue you need. 🔥
 - [[godotengine-godot|godot"]] — Godot Engine – Multi-platform 2D and 3D game engine
 - [[google-agents-cli|agents-cli"]] — The CLI and skills that turn any coding assistant into an ex...
-- [[google-ax|ax"]] — Google's open agentic orchestration runtime 🆕
+- [[google-ax|ax"]] — Google's open agentic orchestration runtime 🔥
 - [[google-deepmind-weathernext|weathernext"]] — No description 🆕
 - [[google-googletest|googletest"]] — GoogleTest - Google Testing and Mocking Framework 🔥
 - [[google-guava|guava"]] — Google core libraries for Java 🔥
@@ -234,7 +235,7 @@
 - [[harbourmasters-lighthouse|Lighthouse"]] — No description
 - [[hardikpandya-stop-slop|stop-slop"]] — A skill file for removing AI tells from prose 🔥
 - [[harry0703-moneyprinterturbo|MoneyPrinterTurbo"]] — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos ... 🔥
-- [[harry7557558-spirula-studio|spirula-studio"]] — Cross-vendor 3D Gaussian Splatting trainer - video to splat ... 🆕
+- [[harry7557558-spirula-studio|spirula-studio"]] — Cross-vendor 3D Gaussian Splatting trainer - video to splat ...
 - [[harveyai-harvey-labs|harvey-labs"]] — A benchmark built to evaluate and improve agent capabilities...
 - [[hasaneyldrm-exercises-dataset|exercises-dataset"]] — 1,324-exercise fitness dataset — animation GIFs, 180×180 thu... 🔥
 - [[hashicorp-terraform|terraform"]] — Terraform enables you to safely and predictably create, chan... 🆕
@@ -243,7 +244,7 @@
 - [[hexo-ai-sia|sia"]] — SIA is a Self Improving AI framework to autonomously improve...
 - [[heygen-com-hyperframes|hyperframes"]] — Write HTML. Render video. Built for agents. 🆕
 - [[higgsfield-ai-higgsfield|higgsfield"]] — Fault-tolerant, highly scalable GPU orchestration, and a mac... 🆕
-- [[hkuds-cli-anything|CLI-Anything"]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:...
+- [[hkuds-cli-anything|CLI-Anything"]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:... 🆕
 - [[hkuds-deeptutor|DeepTutor"]] — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor...
 - [[hkuds-vibe-trading|Vibe-Trading"]] — "Vibe-Trading: Your Personal Trading Agent" 🔥
 - [[hkuds-vimax|ViMax"]] — "ViMax: Agentic Video Generation (Director, Screenwriter, Pr... 🆕
@@ -289,6 +290,7 @@
 - [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm"]] — Claude Skill: Multi-source content processor for NotebookLM. 🆕
 - [[jordan-gibbs-hyperresearch|hyperresearch"]] — Agent-driven research knowledge base. Agents collect, search...
 - [[juliusbrussee-caveman|caveman"]] — 🪨 why use many token when few token do trick — Claude Code s... 🔥
+- [[julyx10-lap|lap"]] — An offline-first photo manager for large local libraries 🆕
 - [[jundot-omlx|omlx"]] — LLM inference server with continuous batching & SSD caching ... 🔥
 - [[justvugg-colibri|colibri"]] — Run frontier MoE models on hardware you already own — pure C... 🔥
 - [[jwasham-coding-interview-university|coding-interview-university"]] — A complete computer science study plan to become a software ...
@@ -402,12 +404,13 @@
 - [[nuxt-nuxt|nuxt"]] — the full-stack Vue framework
 - [[nvidia-ai-blueprints-video-search-and-summarization|video-search-and-summarization"]] — Suite of reference architectures for building GPU-accelerate... 🆕
 - [[nvidia-cosmos|cosmos"]] — NVIDIA Cosmos is an open platform of world models, datasets,... 🆕
+- [[nvidia-model-optimizer|Model-Optimizer"]] — A unified library of SOTA model optimization techniques like... 🆕
 - [[nvidia-nemo-switchyard|Switchyard"]] — Switchyard lets LLM applications route traffic across models... 🆕
 - [[nvidia-skillspector|SkillSpector"]] — Security scanner for AI agent skills. Detect vulnerabilities... 🔥
 - [[nvlabs-sana|Sana"]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
 - [[nvm-sh-nvm|nvm"]] — Node Version Manager - POSIX-compliant bash script to manage...
 - [[oblien-openship|openship"]] — Self-hosted deployment platform 🔥
-- [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo...
+- [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo... 🆕
 - [[ocornut-imgui|imgui"]] — Dear ImGui: Bloat-free Graphical User interface for C++ with...
 - [[odoo-odoo|odoo"]] — Odoo. Open Source Apps To Grow Your Business.
 - [[ogulcancelik-herdr|herdr"]] — agent multiplexer that lives in your terminal. 🔥
@@ -518,7 +521,7 @@
 - [[strands-agents-harness-sdk|harness-sdk"]] — Build an agent harness and control it end-to-end. Open-sourc... 🆕
 - [[stremio-stremio-web|stremio-web"]] — Stremio - Freedom to Stream
 - [[supabase-supabase|supabase"]] — The Postgres development platform. Supabase gives you a dedi...
-- [[superdesigndev-treg|treg"]] — OpenRouter for agent tools. Join community here: https://dis... 🆕
+- [[superdesigndev-treg|treg"]] — OpenRouter for agent tools. Join community here: https://dis... 🔥
 - [[superlinked-sie|sie"]] — Open-source inference server and production cluster for all ...
 - [[supermemoryai-supermemory|supermemory"]] — Memory and context engine + app that is extremely fast, scal...
 - [[supertone-inc-supertonic|supertonic"]] — Lightning-Fast, On-Device, Multilingual TTS running natively...
@@ -546,7 +549,7 @@
 - [[thu-maic-openmaic|OpenMAIC"]] — Open Multi-Agent Interactive Classroom — Get an immersive, m...
 - [[tinyhumansai-openhuman|openhuman"]] — Your Personal AI super intelligence. A brain that builds a l... 🔥
 - [[tirth8205-code-review-graph|code-review-graph"]] — Local-first code intelligence graph for MCP and CLI. Builds ...
-- [[tnt-likely-panwatch|PanWatch"]] — 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A... 🆕
+- [[tnt-likely-panwatch|PanWatch"]] — 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A...
 - [[togatoga-karukan|karukan"]] — Japanese Input Method System for Linux, macOS, Neural Kana-K...
 - [[tokio-rs-topcoat|topcoat"]] — A batteries-included framework for building web apps
 - [[tonhowtf-omniget|omniget"]] — Download Udemy and Hotmart courses, YouTube videos, music an...
@@ -570,6 +573,7 @@
 - [[usekaneo-kaneo|kaneo"]] — 🎯 All you need. Nothing you don't. Open source project manag... 🔥
 - [[usestrix-strix|strix"]] — Open-source AI penetration testing tool to find and fix your...
 - [[vastsa-pi-desktop|PI-Desktop"]] — Local-first AI coding agent desktop: Electron + Rust host co... 🔥
+- [[vectorize-io-hindsight|hindsight"]] — Hindsight: Agent Memory That Learns 🆕
 - [[veracrypt-veracrypt|VeraCrypt"]] — Disk encryption with strong security based on TrueCrypt
 - [[vercel-labs-json-render|json-render"]] — The Generative UI framework
 - [[vercel-labs-portless|portless"]] — Replace port numbers with stable, named local URLs. For huma...

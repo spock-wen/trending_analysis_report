@@ -35,7 +35,7 @@ GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k
 
 ## 相关项目
 
-[[dream-num-univer]] [[davila7-claude-code-templates]] [[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]]
+[[davila7-claude-code-templates]] [[open-dev-society-openstock]] [[dream-num-univer]] [[obra-superpowers]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

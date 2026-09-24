@@ -35,7 +35,7 @@ Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[open-dev-society-openstock]] [[obra-superpowers]] [[pbakaus-impeccable]] [[microsoft-ai-for-beginners]]
+[[dream-num-univer]] [[obra-superpowers]] [[vectorize-io-hindsight]] [[microsoft-generative-ai-for-beginners]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

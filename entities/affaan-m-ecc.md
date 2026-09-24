@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[alphaxiv-openresearch]] [[nationalsecurityagency-ghidra]] [[cilium-cilium]] [[hkuds-cli-anything]] [[pbakaus-impeccable]]
+[[paperless-ngx-paperless-ngx]] [[dream-num-univer]] [[obra-superpowers]] [[addyosmani-agent-skills]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

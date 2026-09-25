@@ -35,7 +35,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[mg1937-asc]] [[mvt-project-mvt]] [[alphaxiv-openresearch]] [[hkuds-cli-anything]]
+[[anthropics-skills]] [[affaan-m-ecc]] [[alphaxiv-openresearch]] [[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]]
 
 **所属领域**: [[science]]
 

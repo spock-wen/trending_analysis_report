@@ -1,7 +1,7 @@
 ---
 title: "image-gen"
 created: 2026-05-31
-updated: 2026-09-25
+updated: 2026-09-26
 type: concept
 tags: [image-gen]
 confidence: medium
@@ -9,7 +9,7 @@ confidence: medium
 
 # image-gen
 
-## 领域项目（共 28 个，今日上榜 1 个）
+## 领域项目（共 28 个，今日上榜 0 个）
 
 [[fxembed-fxembed]] [[trycua-cua]] [[zhouxiaoka-autoclip]] [[multimodal-art-projection-yue]] [[openbmb-voxcpm]] [[freestylefly-awesome-gpt-image-2]] [[vercel-labs-portless]] [[osmantic-ods]] [[conardli-garden-skills]] [[unslothai-unsloth]] [[tooljet-tooljet]] [[infiniflow-ragflow]] [[lightningpixel-modly]] [[comfy-org-comfyui]] [[webpack-webpack]] [[graphify-labs-graphify]] [[prisma-prisma]] [[ahmadibrahiim-website-downloader]] [[karakeep-app-karakeep]] [[safishamsi-graphify]] [[anil-matcha-open-generative-ai]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[paddlepaddle-paddleocr]] [[openmoss-moss-tts]] [[galilai-group-stable-worldmodel]] [[hkuds-vimax]] [[nvlabs-sana]] [[light-heart-labs-dreamserver]]
 
@@ -19,5 +19,5 @@ Python 14个, TypeScript 5个, JavaScript 4个, HTML 2个, CSS 1个, Go 1个, Ru
 
 ## 趋势观察
 
-28 个 image-gen 领域项目被追踪，其中 1 个今日同时上榜，反映该领域持续活跃。
+28 个 image-gen 领域项目被追踪，其中 0 个今日同时上榜，反映该领域持续活跃。
 

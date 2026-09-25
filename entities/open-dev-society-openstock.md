@@ -38,7 +38,7 @@ OpenStock is an open-source alternative to expensive market platforms. Track rea
 
 ## 相关项目
 
-[[dream-num-univer]] [[obra-superpowers]] [[fxembed-fxembed]] [[builderio-agent-native]] [[hkuds-cli-anything]]
+[[anthropics-skills]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[obra-superpowers]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]]
 

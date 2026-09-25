@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[nvm-sh-nvm]] [[dream-num-univer]] [[obra-superpowers]] [[browser-use-video-use]]
+[[anthropics-skills]] [[mattpocock-skills]] [[trycua-cua]] [[superdesigndev-treg]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

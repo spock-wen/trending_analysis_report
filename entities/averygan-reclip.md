@@ -35,7 +35,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[obra-superpowers]] [[browser-use-video-use]] [[hkuds-cli-anything]] [[superdesigndev-treg]]
+[[trycua-cua]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[superdesigndev-treg]] [[paperclipai-paperclip]]
 
 **所属领域**: [[web]] [[cli]]
 

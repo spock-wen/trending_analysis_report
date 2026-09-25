@@ -37,7 +37,7 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[dream-num-univer]] [[obra-superpowers]] [[ankitects-anki]] [[hkuds-cli-anything]]
+[[yynxxxxx-codex-x]] [[anthropics-skills]] [[mattpocock-skills]] [[ankitects-anki]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

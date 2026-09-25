@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[google-guava]] [[supabase-supabase]] [[yuliskov-smarttube]] [[dream-num-univer]]
+[[anthropics-skills]] [[openbao-openbao]] [[mattpocock-skills]] [[trycua-cua]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

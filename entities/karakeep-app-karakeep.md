@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[multimodal-art-projection-yue]] [[dream-num-univer]] [[obra-superpowers]] [[fxembed-fxembed]]
+[[anthropics-skills]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[trycua-cua]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

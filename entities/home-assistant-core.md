@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[cilium-cilium]] [[nationalsecurityagency-ghidra]] [[mvt-project-mvt]] [[cloudflare-security-audit-skill]]
+[[anthropics-skills]] [[affaan-m-ecc]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[security]]
 

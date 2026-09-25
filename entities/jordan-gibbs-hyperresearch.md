@@ -34,7 +34,7 @@ Agent-driven research knowledge base. Agents collect, search, and synthesize web
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[paperless-ngx-paperless-ngx]] [[dream-num-univer]] [[obra-superpowers]] [[browser-use-video-use]]
+[[anthropics-skills]] [[affaan-m-ecc]] [[mattpocock-skills]] [[trycua-cua]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

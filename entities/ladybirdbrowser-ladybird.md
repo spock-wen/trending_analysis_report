@@ -35,7 +35,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[google-googletest]] [[browser-use-video-use]] [[harry7557558-spirula-studio]] [[hkuds-cli-anything]] [[fmtlib-fmt]]
+[[harry7557558-spirula-studio]] [[trycua-cua]] [[protocolbuffers-protobuf]] [[superdesigndev-treg]] [[fmtlib-fmt]]
 
 **所属领域**: [[web]]
 

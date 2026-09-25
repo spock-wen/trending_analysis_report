@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[paperless-ngx-paperless-ngx]] [[dream-num-univer]] [[obra-superpowers]] [[mg1937-asc]] [[ankitects-anki]]
+[[yynxxxxx-codex-x]] [[anthropics-skills]] [[affaan-m-ecc]] [[mattpocock-skills]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

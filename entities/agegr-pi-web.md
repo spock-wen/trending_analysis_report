@@ -36,7 +36,7 @@ Web UI for the pi coding agent
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[dream-num-univer]] [[obra-superpowers]] [[browser-use-video-use]] [[fxembed-fxembed]]
+[[anthropics-skills]] [[mattpocock-skills]] [[trycua-cua]] [[superdesigndev-treg]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

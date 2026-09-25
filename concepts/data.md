@@ -1,7 +1,7 @@
 ---
 title: "data"
 created: 2026-05-31
-updated: 2026-09-25
+updated: 2026-09-26
 type: concept
 tags: [data]
 confidence: medium
@@ -9,15 +9,15 @@ confidence: medium
 
 # data
 
-## 领域项目（共 51 个，今日上榜 0 个）
+## 领域项目（共 52 个，今日上榜 1 个）
 
-[[deusdata-codebase-memory-mcp]] [[trycua-cua]] [[supabase-supabase]] [[alibaba-open-code-review]] [[snailsploit-claude-red]] [[calesthio-openmontage]] [[bilawalsidhu-gods-eye-view]] [[jiji262-douyin-downloader]] [[coreyhaines31-marketingskills]] [[aipoch-open-science]] [[protocolbuffers-protobuf]] [[k-dense-ai-scientific-agent-skills]] [[tt-a1i-archify]] [[kaifcodec-user-scanner]] [[tailscale-tailcat]] [[posthog-posthog]] [[mahlernim-google-timeline-visualizer]] [[volcengine-openviking]] [[marceloprates-prettymaps]] [[hugohe3-ppt-master]] [[opengeos-geolibre]] [[apache-cassandra]] [[corebunch-instatic]] [[ottermind-chat2db]] [[robbyant-lingbot-map]] [[canner-wrenai]] [[apache-ossie]] [[hasaneyldrm-exercises-dataset]] [[graphify-labs-graphify]] [[prefecthq-prefect]] [[prisma-prisma]] [[alibaba-zvec]] [[zackriya-solutions-meetily]] [[safishamsi-graphify]] [[allenai-olmocr]] [[opendatalab-mineru]] [[dbt-labs-dbt-core]] [[grafana-grafana]] [[tursodatabase-turso]] [[teslamate-org-teslamate]] [[kenn-io-agentsview]] [[fareedkhan-dev-train-llm-from-scratch]] [[paddlepaddle-paddleocr]] [[nvidia-cosmos]] [[opendataloader-project-opendataloader-pdf]] [[datatalksclub-data-engineering-zoomcamp]] [[fincept-corporation-finceptterminal]] [[bigbodycobain-shadowbroker]] [[plausible-analytics]] [[influxdata-telegraf]] [[nvidia-ai-blueprints-video-search-and-summarization]]
+[[openbao-openbao]] [[deusdata-codebase-memory-mcp]] [[trycua-cua]] [[supabase-supabase]] [[alibaba-open-code-review]] [[snailsploit-claude-red]] [[calesthio-openmontage]] [[bilawalsidhu-gods-eye-view]] [[jiji262-douyin-downloader]] [[coreyhaines31-marketingskills]] [[aipoch-open-science]] [[protocolbuffers-protobuf]] [[k-dense-ai-scientific-agent-skills]] [[tt-a1i-archify]] [[kaifcodec-user-scanner]] [[tailscale-tailcat]] [[posthog-posthog]] [[mahlernim-google-timeline-visualizer]] [[volcengine-openviking]] [[marceloprates-prettymaps]] [[hugohe3-ppt-master]] [[opengeos-geolibre]] [[apache-cassandra]] [[corebunch-instatic]] [[ottermind-chat2db]] [[robbyant-lingbot-map]] [[canner-wrenai]] [[apache-ossie]] [[hasaneyldrm-exercises-dataset]] [[graphify-labs-graphify]] [[prefecthq-prefect]] [[prisma-prisma]] [[alibaba-zvec]] [[zackriya-solutions-meetily]] [[safishamsi-graphify]] [[allenai-olmocr]] [[opendatalab-mineru]] [[dbt-labs-dbt-core]] [[grafana-grafana]] [[tursodatabase-turso]] [[teslamate-org-teslamate]] [[kenn-io-agentsview]] [[fareedkhan-dev-train-llm-from-scratch]] [[paddlepaddle-paddleocr]] [[nvidia-cosmos]] [[opendataloader-project-opendataloader-pdf]] [[datatalksclub-data-engineering-zoomcamp]] [[fincept-corporation-finceptterminal]] [[bigbodycobain-shadowbroker]] [[plausible-analytics]] [[influxdata-telegraf]] [[nvidia-ai-blueprints-video-search-and-summarization]]
 
 ## 语言分布
 
-Python 22个, TypeScript 6个, Go 4个, JavaScript 3个, Java 3个, Rust 3个, HTML 2个, C++ 2个, Elixir 2个, Jupyter Notebook 2个, C 1个, Kotlin 1个
+Python 22个, TypeScript 6个, Go 5个, JavaScript 3个, Java 3个, Rust 3个, HTML 2个, C++ 2个, Elixir 2个, Jupyter Notebook 2个, C 1个, Kotlin 1个
 
 ## 趋势观察
 
-51 个 data 领域项目被追踪，其中 0 个今日同时上榜，反映该领域持续活跃。
+52 个 data 领域项目被追踪，其中 1 个今日同时上榜，反映该领域持续活跃。
 

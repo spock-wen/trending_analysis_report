@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[supabase-supabase]] [[dream-num-univer]] [[browser-use-video-use]] [[fxembed-fxembed]]
+[[openbao-openbao]] [[trycua-cua]] [[superdesigndev-treg]] [[paperclipai-paperclip]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[data]]
 

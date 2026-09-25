@@ -38,5 +38,5 @@ The most RAM efficient harness
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[yynxxxxx-codex-x]] [[ankitects-anki]] [[akitaonrails-ai-memory]]
+[[yynxxxxx-codex-x]] [[akitaonrails-ai-memory]] [[cloudflare-quiche]] [[ankitects-anki]]
 

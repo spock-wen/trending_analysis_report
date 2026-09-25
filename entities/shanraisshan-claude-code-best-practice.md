@@ -35,7 +35,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[averygan-reclip]] [[obra-superpowers]] [[dream-num-univer]] [[browser-use-video-use]] [[hkuds-cli-anything]]
+[[anthropics-skills]] [[trycua-cua]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[superdesigndev-treg]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

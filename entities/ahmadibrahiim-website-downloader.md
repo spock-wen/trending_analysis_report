@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[averygan-reclip]] [[browser-use-video-use]] [[fxembed-fxembed]] [[zhouxiaoka-autoclip]]
+[[multimodal-art-projection-yue]] [[trycua-cua]] [[cathrynlavery-diagram-design]] [[superdesigndev-treg]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[image-gen]]
 

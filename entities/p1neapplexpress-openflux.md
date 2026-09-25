@@ -35,7 +35,7 @@ Network stack research tool. TCP tunnel with pluggable transports.
 
 ## 相关项目
 
-[[paperless-ngx-paperless-ngx]] [[google-ax]] [[mg1937-asc]] [[asciimoo-hister]] [[alphaxiv-openresearch]]
+[[affaan-m-ecc]] [[openbao-openbao]] [[paperless-ngx-paperless-ngx]] [[paperclipai-paperclip]] [[agent-substrate-substrate]]
 
 **所属领域**: [[science]]
 

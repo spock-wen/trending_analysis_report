@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[multimodal-art-projection-yue]] [[dream-num-univer]] [[obra-superpowers]] [[fxembed-fxembed]]
+[[anthropics-skills]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[trycua-cua]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

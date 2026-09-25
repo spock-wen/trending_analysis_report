@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[dream-num-univer]] [[cilium-cilium]] [[fxembed-fxembed]] [[nationalsecurityagency-ghidra]]
+[[affaan-m-ecc]] [[paperclipai-paperclip]] [[nationalsecurityagency-ghidra]] [[fxembed-fxembed]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[security]]
 

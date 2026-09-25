@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[dream-num-univer]] [[obra-superpowers]]
+[[anthropics-skills]] [[debpalash-voicestudio]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

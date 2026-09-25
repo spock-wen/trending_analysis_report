@@ -34,7 +34,7 @@ Lightpanda: the headless browser designed for AI and automation
 
 ## 相关项目
 
-[[dream-num-univer]] [[obra-superpowers]] [[browser-use-video-use]] [[hkuds-cli-anything]] [[superdesigndev-treg]]
+[[anthropics-skills]] [[mattpocock-skills]] [[trycua-cua]] [[superdesigndev-treg]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

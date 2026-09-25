@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[supabase-supabase]] [[dream-num-univer]] [[obra-superpowers]] [[google-ax]] [[alibaba-open-code-review]]
+[[anthropics-skills]] [[openbao-openbao]] [[mattpocock-skills]] [[trycua-cua]] [[agent-substrate-substrate]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

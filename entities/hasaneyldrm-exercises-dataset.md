@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[supabase-supabase]] [[averygan-reclip]] [[obra-superpowers]] [[dream-num-univer]] [[browser-use-video-use]]
+[[anthropics-skills]] [[openbao-openbao]] [[trycua-cua]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

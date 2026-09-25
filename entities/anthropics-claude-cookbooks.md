@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[dream-num-univer]] [[obra-superpowers]] [[microsoft-generative-ai-for-beginners]] [[hkuds-cli-anything]] [[higgsfield-ai-higgsfield]]
+[[anthropics-skills]] [[mattpocock-skills]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[ai-agent]]
 

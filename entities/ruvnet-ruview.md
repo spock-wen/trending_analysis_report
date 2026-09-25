@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[cilium-cilium]] [[ankitects-anki]] [[nvidia-model-optimizer]] [[akitaonrails-ai-memory]]
+[[yynxxxxx-codex-x]] [[davila7-claude-code-templates]] [[nvidia-model-optimizer]] [[akitaonrails-ai-memory]] [[ankitects-anki]]
 
 **所属领域**: [[devops]]
 

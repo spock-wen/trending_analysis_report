@@ -35,7 +35,7 @@ A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skil
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[anthropics-financial-services]] [[ruvnet-ruview]] [[dream-num-univer]] [[obra-superpowers]]
+[[anthropics-skills]] [[mattpocock-skills]] [[davila7-claude-code-templates]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

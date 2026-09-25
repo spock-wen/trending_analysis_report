@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[dream-num-univer]] [[obra-superpowers]] [[mvt-project-mvt]] [[hkuds-cli-anything]]
+[[anthropics-skills]] [[mattpocock-skills]] [[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]] [[superdesigndev-treg]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

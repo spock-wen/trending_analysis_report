@@ -37,5 +37,5 @@ MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devi
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[anthropics-financial-services]] [[rohitg00-ai-engineering-from-scratch]]
+[[anthropics-skills]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[vectorize-io-hindsight]]
 

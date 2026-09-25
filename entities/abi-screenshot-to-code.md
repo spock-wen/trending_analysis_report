@@ -35,7 +35,7 @@ Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[dream-num-univer]] [[obra-superpowers]] [[browser-use-video-use]] [[mvt-project-mvt]]
+[[anthropics-skills]] [[mattpocock-skills]] [[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]] [[superdesigndev-treg]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

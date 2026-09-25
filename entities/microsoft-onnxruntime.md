@@ -34,7 +34,7 @@ ONNX Runtime: cross-platform, high performance ML inferencing and training accel
 
 ## 相关项目
 
-[[google-googletest]] [[dream-num-univer]] [[obra-superpowers]] [[harry7557558-spirula-studio]] [[fmtlib-fmt]]
+[[anthropics-skills]] [[harry7557558-spirula-studio]] [[mattpocock-skills]] [[protocolbuffers-protobuf]] [[fmtlib-fmt]]
 
 **所属领域**: [[ai-agent]]
 

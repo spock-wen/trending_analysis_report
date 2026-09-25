@@ -36,7 +36,7 @@ Help AI coding agents write modern Go
 
 ## 相关项目
 
-[[dream-num-univer]] [[obra-superpowers]] [[google-ax]] [[asciimoo-hister]] [[coder-coder]]
+[[anthropics-skills]] [[openbao-openbao]] [[mattpocock-skills]] [[agent-substrate-substrate]] [[google-ax]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[anthropics-financial-services]] [[ruvnet-ruview]] [[dream-num-univer]] [[obra-superpowers]]
+[[anthropics-skills]] [[mattpocock-skills]] [[trycua-cua]] [[davila7-claude-code-templates]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

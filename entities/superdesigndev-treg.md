@@ -36,7 +36,7 @@ OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[dream-num-univer]] [[obra-superpowers]] [[browser-use-video-use]] [[mvt-project-mvt]]
+[[anthropics-skills]] [[mattpocock-skills]] [[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

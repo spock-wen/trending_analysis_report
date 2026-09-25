@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[dream-num-univer]] [[obra-superpowers]] [[hkuds-cli-anything]] [[rohitg00-ai-engineering-from-scratch]] [[penpot-penpot]]
+[[anthropics-skills]] [[mattpocock-skills]] [[penpot-penpot]] [[obra-superpowers]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[dream-num-univer]] [[obra-superpowers]] [[ankitects-anki]] [[hkuds-cli-anything]] [[akitaonrails-ai-memory]]
+[[yynxxxxx-codex-x]] [[anthropics-skills]] [[mattpocock-skills]] [[akitaonrails-ai-memory]] [[ankitects-anki]]
 
 **所属领域**: [[ai-agent]]
 

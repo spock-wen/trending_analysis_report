@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[dream-num-univer]] [[obra-superpowers]] [[opa334-dopamine]] [[hkuds-cli-anything]] [[justvugg-colibri]]
+[[anthropics-skills]] [[mattpocock-skills]] [[justvugg-colibri]] [[opa334-dopamine]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

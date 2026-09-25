@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[obra-superpowers]] [[google-ax]] [[asciimoo-hister]] [[coder-coder]]
+[[openbao-openbao]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[agent-substrate-substrate]] [[hkuds-cli-anything]]
 
 **所属领域**: [[cli]]
 

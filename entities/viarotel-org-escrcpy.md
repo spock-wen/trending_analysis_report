@@ -34,5 +34,5 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[addyosmani-agent-skills]]
+[[affaan-m-ecc]] [[addyosmani-agent-skills]] [[androoagi-starnet]] [[pbakaus-impeccable]]
 

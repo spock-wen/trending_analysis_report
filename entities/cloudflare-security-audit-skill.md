@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[dream-num-univer]] [[obra-superpowers]] [[addyosmani-agent-skills]] [[nationalsecurityagency-ghidra]] [[cilium-cilium]]
+[[affaan-m-ecc]] [[anthropics-skills]] [[mattpocock-skills]] [[androoagi-starnet]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

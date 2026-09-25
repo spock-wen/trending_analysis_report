@@ -36,5 +36,5 @@ A collective list of free APIs
 
 ## 相关项目
 
-[[mvt-project-mvt]] [[hkuds-cli-anything]] [[anthropics-financial-services]] [[rohitg00-ai-engineering-from-scratch]]
+[[anthropics-skills]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[vectorize-io-hindsight]]
 

@@ -36,7 +36,7 @@ The ultimate RAG for your monorepo. Query, understand, and edit multi-language c
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[dream-num-univer]] [[obra-superpowers]] [[mvt-project-mvt]] [[hkuds-cli-anything]]
+[[anthropics-skills]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]]
 

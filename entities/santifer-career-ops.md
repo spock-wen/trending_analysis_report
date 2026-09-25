@@ -38,7 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[dream-num-univer]] [[obra-superpowers]] [[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]]
+[[affaan-m-ecc]] [[anthropics-skills]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[androoagi-starnet]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

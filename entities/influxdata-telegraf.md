@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[supabase-supabase]] [[dream-num-univer]] [[obra-superpowers]] [[google-ax]] [[alibaba-open-code-review]]
+[[anthropics-skills]] [[openbao-openbao]] [[mattpocock-skills]] [[trycua-cua]] [[agent-substrate-substrate]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

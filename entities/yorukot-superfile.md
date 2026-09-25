@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[obra-superpowers]] [[google-ax]] [[asciimoo-hister]] [[coder-coder]]
+[[openbao-openbao]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[agent-substrate-substrate]] [[hkuds-cli-anything]]
 
 **所属领域**: [[cli]]
 

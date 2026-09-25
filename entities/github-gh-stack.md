@@ -34,5 +34,5 @@ GitHub Stacked PRs
 
 ## 相关项目
 
-[[agent-substrate-substrate]] [[coder-coder]] [[google-ax]] [[asciimoo-hister]]
+[[agent-substrate-substrate]] [[google-ax]] [[coder-coder]] [[openbao-openbao]]
 

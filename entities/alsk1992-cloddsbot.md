@@ -36,7 +36,7 @@ Open Source AI trading agent that operates autonomously across 1000+ markets - P
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[dream-num-univer]] [[obra-superpowers]] [[danny-avila-librechat]] [[fxembed-fxembed]]
+[[anthropics-skills]] [[mattpocock-skills]] [[danny-avila-librechat]] [[ever-co-ever-gauzy]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

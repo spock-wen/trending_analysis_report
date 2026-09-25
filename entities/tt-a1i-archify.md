@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[supabase-supabase]] [[dream-num-univer]] [[obra-superpowers]] [[addyosmani-agent-skills]] [[browser-use-video-use]]
+[[affaan-m-ecc]] [[anthropics-skills]] [[openbao-openbao]] [[mattpocock-skills]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[anthropics-financial-services]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[obra-superpowers]]
+[[anthropics-skills]] [[debpalash-voicestudio]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[tonhowtf-omniget]]
 
 **所属领域**: [[cli]] [[audio]]
 

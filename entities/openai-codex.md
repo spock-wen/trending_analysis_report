@@ -36,7 +36,7 @@ Lightweight coding agent that runs in your terminal
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[dream-num-univer]] [[obra-superpowers]] [[ankitects-anki]] [[hkuds-cli-anything]]
+[[yynxxxxx-codex-x]] [[anthropics-skills]] [[mattpocock-skills]] [[akitaonrails-ai-memory]] [[ankitects-anki]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

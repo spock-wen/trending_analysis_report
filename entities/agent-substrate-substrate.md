@@ -36,7 +36,7 @@ Agent Substrate: the core system
 
 ## 相关项目
 
-[[dream-num-univer]] [[obra-superpowers]] [[google-ax]] [[asciimoo-hister]] [[coder-coder]]
+[[anthropics-skills]] [[openbao-openbao]] [[mattpocock-skills]] [[google-ax]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ A collection of DESIGN.md files analysis by popular brand design systems. Drop o
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[dream-num-univer]] [[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]]
+[[anthropics-skills]] [[obra-superpowers]] [[mattpocock-skills]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]]
 

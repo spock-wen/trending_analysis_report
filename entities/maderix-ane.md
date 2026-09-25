@@ -34,7 +34,7 @@ Training neural networks on Apple Neural Engine via reverse-engineered private A
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[dream-num-univer]] [[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]]
+[[anthropics-skills]] [[obra-superpowers]] [[mattpocock-skills]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]]
 

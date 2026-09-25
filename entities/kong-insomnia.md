@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[open-dev-society-openstock]] [[dream-num-univer]] [[obra-superpowers]] [[browser-use-video-use]]
+[[trycua-cua]] [[mattpocock-skills]] [[superdesigndev-treg]] [[paperclipai-paperclip]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[cli]]
 

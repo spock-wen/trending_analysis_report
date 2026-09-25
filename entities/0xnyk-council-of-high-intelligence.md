@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[nvm-sh-nvm]] [[dream-num-univer]] [[obra-superpowers]] [[mattpocock-skills]]
+[[anthropics-skills]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[hkuds-cli-anything]] [[basecamp-omarchy]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

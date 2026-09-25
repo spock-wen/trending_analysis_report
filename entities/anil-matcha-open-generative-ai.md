@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[dream-num-univer]] [[obra-superpowers]] [[addyosmani-agent-skills]] [[fxembed-fxembed]]
+[[affaan-m-ecc]] [[anthropics-skills]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

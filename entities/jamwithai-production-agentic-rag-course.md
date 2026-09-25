@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[dream-num-univer]] [[obra-superpowers]] [[vectorize-io-hindsight]] [[mvt-project-mvt]]
+[[anthropics-skills]] [[crosstalk-solutions-project-nomad]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

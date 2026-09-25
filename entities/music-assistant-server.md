@@ -38,7 +38,7 @@ Music Assistant is a free, opensource Media library manager that connects to you
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[tonhowtf-omniget]] [[mvt-project-mvt]]
+[[anthropics-skills]] [[debpalash-voicestudio]] [[multimodal-art-projection-yue]] [[tonhowtf-omniget]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[audio]]
 

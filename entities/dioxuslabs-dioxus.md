@@ -35,7 +35,7 @@ Fullstack app framework for web, desktop, and mobile.
 
 ## 相关项目
 
-[[browser-use-video-use]] [[ankitects-anki]] [[hkuds-cli-anything]] [[superdesigndev-treg]] [[akitaonrails-ai-memory]]
+[[yynxxxxx-codex-x]] [[trycua-cua]] [[superdesigndev-treg]] [[akitaonrails-ai-memory]] [[ankitects-anki]]
 
 **所属领域**: [[web]]
 

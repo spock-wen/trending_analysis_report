@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[anthropics-financial-services]] [[dream-num-univer]] [[obra-superpowers]] [[browser-use-video-use]]
+[[anthropics-skills]] [[mattpocock-skills]] [[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]] [[superdesigndev-treg]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[open-dev-society-openstock]] [[ruvnet-ruview]] [[dream-num-univer]] [[obra-superpowers]]
+[[anthropics-skills]] [[crosstalk-solutions-project-nomad]] [[mattpocock-skills]] [[davila7-claude-code-templates]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

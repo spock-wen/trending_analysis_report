@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[multimodal-art-projection-yue]] [[paperless-ngx-paperless-ngx]] [[dream-num-univer]] [[obra-superpowers]]
+[[anthropics-skills]] [[affaan-m-ecc]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

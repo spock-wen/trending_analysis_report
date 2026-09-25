@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[obra-superpowers]] [[vectorize-io-hindsight]]
+[[yynxxxxx-codex-x]] [[debpalash-voicestudio]] [[crosstalk-solutions-project-nomad]] [[multimodal-art-projection-yue]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

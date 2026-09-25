@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[dream-num-univer]] [[obra-superpowers]] [[browser-use-video-use]] [[vectorize-io-hindsight]] [[hkuds-cli-anything]]
+[[anthropics-skills]] [[crosstalk-solutions-project-nomad]] [[mattpocock-skills]] [[trycua-cua]] [[superdesigndev-treg]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

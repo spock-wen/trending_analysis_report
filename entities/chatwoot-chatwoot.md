@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[dream-num-univer]] [[obra-superpowers]] [[hkuds-cli-anything]] [[docusealco-docuseal]] [[rohitg00-ai-engineering-from-scratch]]
+[[anthropics-skills]] [[mattpocock-skills]] [[obra-superpowers]] [[anthropics-claude-plugins-official]] [[docusealco-docuseal]]
 
 **所属领域**: [[ai-agent]]
 

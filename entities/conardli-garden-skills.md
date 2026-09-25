@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[nutlope-hallmark]] [[multimodal-art-projection-yue]] [[dream-num-univer]] [[obra-superpowers]] [[diolinux-photogimp]]
+[[anthropics-skills]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[nutlope-hallmark]] [[diolinux-photogimp]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

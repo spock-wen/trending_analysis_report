@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[dream-num-univer]] [[obra-superpowers]] [[danny-avila-librechat]] [[ever-co-ever-gauzy]] [[ankitects-anki]]
+[[yynxxxxx-codex-x]] [[anthropics-skills]] [[mattpocock-skills]] [[danny-avila-librechat]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

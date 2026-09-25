@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[vectorize-io-hindsight]] [[mvt-project-mvt]] [[hkuds-cli-anything]] [[nvidia-model-optimizer]]
+[[anthropics-skills]] [[crosstalk-solutions-project-nomad]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[education]]
 

@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[ruvnet-ruview]] [[averygan-reclip]] [[browser-use-video-use]] [[cilium-cilium]]
+[[trycua-cua]] [[davila7-claude-code-templates]] [[cathrynlavery-diagram-design]] [[superdesigndev-treg]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[web]] [[devops]]
 

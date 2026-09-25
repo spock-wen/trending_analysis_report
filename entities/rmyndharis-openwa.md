@@ -36,5 +36,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[fxembed-fxembed]] [[open-dev-society-openstock]] [[builderio-agent-native]] [[dream-num-univer]]
+[[dream-num-univer]] [[open-dev-society-openstock]] [[fxembed-fxembed]] [[paperclipai-paperclip]]
 

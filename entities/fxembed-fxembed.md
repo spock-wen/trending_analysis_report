@@ -34,7 +34,7 @@ Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translatio
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[multimodal-art-projection-yue]] [[dream-num-univer]] [[zhouxiaoka-autoclip]] [[builderio-agent-native]]
+[[multimodal-art-projection-yue]] [[trycua-cua]] [[paperclipai-paperclip]] [[zhouxiaoka-autoclip]] [[dream-num-univer]]
 
 **所属领域**: [[image-gen]]
 

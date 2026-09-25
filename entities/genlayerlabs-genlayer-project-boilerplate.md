@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[dream-num-univer]] [[obra-superpowers]] [[danny-avila-librechat]] [[fxembed-fxembed]]
+[[danny-avila-librechat]] [[ever-co-ever-gauzy]] [[paperclipai-paperclip]] [[obra-superpowers]] [[fxembed-fxembed]]
 
 **所属领域**: [[erp]]
 

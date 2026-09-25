@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[dream-num-univer]] [[obra-superpowers]] [[google-ax]] [[nationalsecurityagency-ghidra]] [[cilium-cilium]]
+[[anthropics-skills]] [[openbao-openbao]] [[affaan-m-ecc]] [[mattpocock-skills]] [[agent-substrate-substrate]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

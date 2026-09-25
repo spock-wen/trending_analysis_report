@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[paperless-ngx-paperless-ngx]] [[dream-num-univer]] [[obra-superpowers]] [[cilium-cilium]]
+[[anthropics-skills]] [[affaan-m-ecc]] [[mattpocock-skills]] [[paperless-ngx-paperless-ngx]] [[alphaxiv-openresearch]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

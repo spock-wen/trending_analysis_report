@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[paperless-ngx-paperless-ngx]] [[dream-num-univer]] [[obra-superpowers]] [[browser-use-video-use]]
+[[anthropics-skills]] [[affaan-m-ecc]] [[mattpocock-skills]] [[trycua-cua]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

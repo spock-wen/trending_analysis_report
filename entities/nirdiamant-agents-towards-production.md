@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[ruvnet-ruview]] [[dream-num-univer]] [[obra-superpowers]] [[cilium-cilium]]
+[[anthropics-skills]] [[crosstalk-solutions-project-nomad]] [[mattpocock-skills]] [[davila7-claude-code-templates]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

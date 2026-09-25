@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[anthropics-financial-services]] [[paperless-ngx-paperless-ngx]] [[dream-num-univer]] [[obra-superpowers]]
+[[anthropics-skills]] [[affaan-m-ecc]] [[mattpocock-skills]] [[danny-avila-librechat]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

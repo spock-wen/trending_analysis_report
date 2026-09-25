@@ -34,7 +34,7 @@ A next.js web application that integrates AI capabilities with draw.io diagrams.
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[open-dev-society-openstock]] [[dream-num-univer]] [[obra-superpowers]] [[browser-use-video-use]]
+[[anthropics-skills]] [[mattpocock-skills]] [[trycua-cua]] [[superdesigndev-treg]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

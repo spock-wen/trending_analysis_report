@@ -35,5 +35,5 @@ Automatic quad remeshing tool
 
 ## 相关项目
 
-[[google-googletest]] [[harry7557558-spirula-studio]] [[fmtlib-fmt]] [[protocolbuffers-protobuf]]
+[[protocolbuffers-protobuf]] [[harry7557558-spirula-studio]] [[fmtlib-fmt]] [[google-googletest]]
 

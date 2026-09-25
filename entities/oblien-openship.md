@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[open-dev-society-openstock]] [[ruvnet-ruview]] [[dream-num-univer]] [[cilium-cilium]]
+[[davila7-claude-code-templates]] [[nvidia-model-optimizer]] [[paperclipai-paperclip]] [[ruvnet-ruview]] [[fxembed-fxembed]]
 
 **所属领域**: [[devops]]
 

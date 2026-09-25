@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[supabase-supabase]] [[paperless-ngx-paperless-ngx]] [[dream-num-univer]] [[obra-superpowers]]
+[[anthropics-skills]] [[openbao-openbao]] [[affaan-m-ecc]] [[mattpocock-skills]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

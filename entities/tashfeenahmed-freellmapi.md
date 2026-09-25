@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[dream-num-univer]] [[obra-superpowers]] [[cilium-cilium]] [[fxembed-fxembed]]
+[[anthropics-skills]] [[affaan-m-ecc]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

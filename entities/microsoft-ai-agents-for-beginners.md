@@ -36,7 +36,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[dream-num-univer]] [[obra-superpowers]] [[vectorize-io-hindsight]] [[microsoft-generative-ai-for-beginners]] [[hkuds-cli-anything]]
+[[anthropics-skills]] [[crosstalk-solutions-project-nomad]] [[mattpocock-skills]] [[microsoft-generative-ai-for-beginners]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

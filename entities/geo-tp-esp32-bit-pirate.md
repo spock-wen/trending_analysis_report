@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[google-googletest]] [[obra-superpowers]] [[browser-use-video-use]] [[harry7557558-spirula-studio]]
+[[harry7557558-spirula-studio]] [[trycua-cua]] [[mattpocock-skills]] [[protocolbuffers-protobuf]] [[superdesigndev-treg]]
 
 **所属领域**: [[web]] [[cli]]
 

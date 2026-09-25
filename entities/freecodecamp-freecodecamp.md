@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[dream-num-univer]] [[fxembed-fxembed]] [[builderio-agent-native]] [[vectorize-io-hindsight]]
+[[crosstalk-solutions-project-nomad]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]] [[paperclipai-paperclip]] [[fxembed-fxembed]]
 
 **所属领域**: [[education]]
 

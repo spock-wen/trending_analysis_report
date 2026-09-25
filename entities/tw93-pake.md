@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[obra-superpowers]] [[browser-use-video-use]] [[ankitects-anki]] [[hkuds-cli-anything]]
+[[yynxxxxx-codex-x]] [[trycua-cua]] [[mattpocock-skills]] [[superdesigndev-treg]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[paperless-ngx-paperless-ngx]] [[dream-num-univer]] [[obra-superpowers]] [[mg1937-asc]] [[vectorize-io-hindsight]]
+[[anthropics-skills]] [[affaan-m-ecc]] [[crosstalk-solutions-project-nomad]] [[mattpocock-skills]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

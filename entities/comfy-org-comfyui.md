@@ -35,7 +35,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[multimodal-art-projection-yue]] [[fxembed-fxembed]] [[zhouxiaoka-autoclip]] [[mvt-project-mvt]]
+[[anthropics-skills]] [[multimodal-art-projection-yue]] [[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[image-gen]]
 

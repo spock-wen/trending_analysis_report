@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[paperless-ngx-paperless-ngx]] [[mg1937-asc]] [[vectorize-io-hindsight]] [[mvt-project-mvt]]
+[[anthropics-skills]] [[affaan-m-ecc]] [[crosstalk-solutions-project-nomad]] [[paperless-ngx-paperless-ngx]] [[alphaxiv-openresearch]]
 
 **所属领域**: [[education]] [[science]]
 

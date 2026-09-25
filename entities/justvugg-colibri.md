@@ -38,5 +38,5 @@ Run frontier MoE models on hardware you already own — pure C, zero deps, exper
 
 ## 相关项目
 
-[[armory3d-armorpaint]] [[deusdata-codebase-memory-mcp]] [[opa334-dopamine]]
+[[opa334-dopamine]] [[deusdata-codebase-memory-mcp]] [[armory3d-armorpaint]]
 

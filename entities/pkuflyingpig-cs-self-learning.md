@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[averygan-reclip]] [[browser-use-video-use]] [[vectorize-io-hindsight]] [[hkuds-cli-anything]] [[superdesigndev-treg]]
+[[crosstalk-solutions-project-nomad]] [[trycua-cua]] [[cathrynlavery-diagram-design]] [[superdesigndev-treg]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[web]] [[education]]
 

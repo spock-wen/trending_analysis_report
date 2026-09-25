@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[supabase-supabase]] [[dream-num-univer]] [[obra-superpowers]] [[browser-use-video-use]] [[alibaba-open-code-review]]
+[[yynxxxxx-codex-x]] [[affaan-m-ecc]] [[superdesigndev-treg]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

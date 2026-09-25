@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[supabase-supabase]] [[multimodal-art-projection-yue]] [[dream-num-univer]] [[obra-superpowers]]
+[[anthropics-skills]] [[openbao-openbao]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

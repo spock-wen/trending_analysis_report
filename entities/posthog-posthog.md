@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[anthropics-financial-services]] [[supabase-supabase]] [[ruvnet-ruview]] [[dream-num-univer]]
+[[anthropics-skills]] [[openbao-openbao]] [[mattpocock-skills]] [[trycua-cua]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

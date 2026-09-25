@@ -34,7 +34,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[dream-num-univer]] [[obra-superpowers]] [[google-ax]] [[asciimoo-hister]] [[coder-coder]]
+[[anthropics-skills]] [[openbao-openbao]] [[mattpocock-skills]] [[agent-substrate-substrate]] [[google-ax]]
 
 **所属领域**: [[ai-agent]]
 

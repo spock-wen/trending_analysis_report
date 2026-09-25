@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[nvm-sh-nvm]] [[obra-superpowers]] [[mattpocock-skills]] [[hkuds-cli-anything]]
+[[mattpocock-skills]] [[paperclipai-paperclip]] [[hkuds-cli-anything]] [[obra-superpowers]] [[nvm-sh-nvm]]
 
 **所属领域**: [[cli]]
 

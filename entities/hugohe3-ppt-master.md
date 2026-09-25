@@ -35,7 +35,7 @@ AI turns documents or topics into real, native PowerPoint decks—with native sh
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[supabase-supabase]] [[multimodal-art-projection-yue]] [[dream-num-univer]] [[obra-superpowers]]
+[[anthropics-skills]] [[openbao-openbao]] [[debpalash-voicestudio]] [[multimodal-art-projection-yue]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[data]] [[erp]] [[audio]]
 

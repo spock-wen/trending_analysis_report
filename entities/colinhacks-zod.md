@@ -34,5 +34,5 @@ TypeScript-first schema validation with static type inference
 
 ## 相关项目
 
-[[fxembed-fxembed]] [[open-dev-society-openstock]] [[builderio-agent-native]] [[dream-num-univer]]
+[[dream-num-univer]] [[open-dev-society-openstock]] [[fxembed-fxembed]] [[paperclipai-paperclip]]
 

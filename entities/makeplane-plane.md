@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[open-dev-society-openstock]] [[dream-num-univer]] [[obra-superpowers]] [[fxembed-fxembed]]
+[[mattpocock-skills]] [[paperclipai-paperclip]] [[hkuds-cli-anything]] [[obra-superpowers]] [[fxembed-fxembed]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[supabase-supabase]] [[browser-use-video-use]] [[alibaba-open-code-review]] [[mvt-project-mvt]]
+[[anthropics-skills]] [[openbao-openbao]] [[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]] [[superdesigndev-treg]]
 
 **所属领域**: [[web]] [[data]]
 

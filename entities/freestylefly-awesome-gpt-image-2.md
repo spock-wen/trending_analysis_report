@@ -38,7 +38,7 @@ Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[dream-num-univer]] [[obra-superpowers]] [[addyosmani-agent-skills]] [[fxembed-fxembed]]
+[[affaan-m-ecc]] [[anthropics-skills]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-financial-services]] [[browser-use-video-use]] [[mvt-project-mvt]] [[hkuds-cli-anything]] [[superdesigndev-treg]]
+[[anthropics-skills]] [[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]] [[superdesigndev-treg]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

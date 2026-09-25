@@ -38,7 +38,7 @@ A framework for building agentic apps
 
 ## 相关项目
 
-[[open-dev-society-openstock]] [[dream-num-univer]] [[obra-superpowers]] [[fxembed-fxembed]] [[hkuds-cli-anything]]
+[[anthropics-skills]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[obra-superpowers]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]]
 

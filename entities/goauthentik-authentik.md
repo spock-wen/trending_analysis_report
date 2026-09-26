@@ -37,5 +37,5 @@ The authentication glue you need.
 
 ## 相关项目
 
-[[anthropics-skills]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[vectorize-io-hindsight]]
+[[anthropics-skills]] [[nvidia-model-optimizer]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]]
 

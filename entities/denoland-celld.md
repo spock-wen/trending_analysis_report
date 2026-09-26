@@ -35,5 +35,5 @@ self-hosted, distributed Durable Objects
 
 ## 相关项目
 
-[[yynxxxxx-codex-x]] [[akitaonrails-ai-memory]] [[cloudflare-quiche]] [[ankitects-anki]]
+[[yynxxxxx-codex-x]] [[akitaonrails-ai-memory]] [[cloudflare-quiche]] [[block-buzz]]
 

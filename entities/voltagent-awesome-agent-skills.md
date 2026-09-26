@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[hkuds-cli-anything]] [[obra-superpowers]]
+[[llvm-llvm-project]] [[obra-superpowers]] [[actions-runner-images]] [[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

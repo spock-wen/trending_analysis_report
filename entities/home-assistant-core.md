@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-skills]] [[affaan-m-ecc]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[nationalsecurityagency-ghidra]]
+[[nvidia-model-optimizer]] [[vectorize-io-hindsight]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[anthropics-skills]]
 
 **所属领域**: [[security]]
 

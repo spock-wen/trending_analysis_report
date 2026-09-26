@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[anthropics-skills]] [[openbao-openbao]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[agent-substrate-substrate]]
+[[llvm-llvm-project]] [[obra-superpowers]] [[actions-runner-images]] [[openbao-openbao]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

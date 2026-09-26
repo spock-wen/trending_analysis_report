@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[openbao-openbao]] [[trycua-cua]] [[superdesigndev-treg]] [[agent-substrate-substrate]] [[hkuds-cli-anything]]
+[[openbao-openbao]] [[agent-substrate-substrate]] [[coder-coder]] [[hkuds-cli-anything]] [[browser-use-video-use]]
 
 **所属领域**: [[web]]
 

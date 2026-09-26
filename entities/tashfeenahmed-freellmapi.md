@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[anthropics-skills]] [[affaan-m-ecc]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[obra-superpowers]]
+[[llvm-llvm-project]] [[dream-num-univer]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[microsoft-vscode]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

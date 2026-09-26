@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[anthropics-skills]] [[affaan-m-ecc]] [[trycua-cua]] [[mattpocock-skills]] [[paperless-ngx-paperless-ngx]]
+[[paperless-ngx-paperless-ngx]] [[ripienaar-free-for-dev]] [[llvm-llvm-project]] [[affaan-m-ecc]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

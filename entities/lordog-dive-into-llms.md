@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[higgsfield-ai-higgsfield]]
+[[lyogavin-airllm]] [[llvm-llvm-project]] [[microsoft-generative-ai-for-beginners]] [[higgsfield-ai-higgsfield]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]]
 

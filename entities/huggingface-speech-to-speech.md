@@ -37,7 +37,7 @@ Build local voice agents with open-source models
 
 ## 相关项目
 
-[[anthropics-skills]] [[debpalash-voicestudio]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[tonhowtf-omniget]]
+[[jamiepine-voicebox]] [[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

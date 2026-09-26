@@ -34,7 +34,7 @@ Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translatio
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[trycua-cua]] [[paperclipai-paperclip]] [[zhouxiaoka-autoclip]] [[dream-num-univer]]
+[[actions-runner-images]] [[dream-num-univer]] [[microsoft-vscode]] [[anthropics-claude-code-action]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[image-gen]]
 

@@ -35,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[mattpocock-skills]] [[jellyfin-jellyfin]] [[paperclipai-paperclip]] [[hkuds-cli-anything]] [[obra-superpowers]]
+[[sonarr-sonarr]] [[obra-superpowers]] [[actions-runner-images]] [[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]]
 
 **所属领域**: [[cli]]
 

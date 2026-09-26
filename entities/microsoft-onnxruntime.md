@@ -34,7 +34,7 @@ ONNX Runtime: cross-platform, high performance ML inferencing and training accel
 
 ## 相关项目
 
-[[anthropics-skills]] [[harry7557558-spirula-studio]] [[mattpocock-skills]] [[protocolbuffers-protobuf]] [[fmtlib-fmt]]
+[[llvm-llvm-project]] [[tensorflow-tensorflow]] [[rohitg00-ai-engineering-from-scratch]] [[protocolbuffers-protobuf]] [[harry7557558-spirula-studio]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ DevOps Interview Guide
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[nvidia-model-optimizer]] [[davila7-claude-code-templates]] [[cilium-cilium]]
+[[davila7-claude-code-templates]] [[ruvnet-ruview]] [[nvidia-model-optimizer]] [[cilium-cilium]]
 
 **所属领域**: [[devops]]
 

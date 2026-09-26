@@ -36,7 +36,7 @@ OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]] [[hkuds-cli-anything]]
+[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[anthropics-skills]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

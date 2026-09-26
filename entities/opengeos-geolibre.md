@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[openbao-openbao]] [[trycua-cua]] [[superdesigndev-treg]] [[paperclipai-paperclip]] [[hkuds-cli-anything]]
+[[dream-num-univer]] [[openbao-openbao]] [[microsoft-vscode]] [[supabase-supabase]] [[anthropics-claude-code-action]]
 
 **所属领域**: [[web]] [[data]]
 

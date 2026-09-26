@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-skills]] [[openbao-openbao]] [[mattpocock-skills]] [[trycua-cua]] [[davila7-claude-code-templates]]
+[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[openbao-openbao]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[harry7557558-spirula-studio]] [[trycua-cua]] [[mattpocock-skills]] [[protocolbuffers-protobuf]] [[superdesigndev-treg]]
+[[trycua-cua]] [[obra-superpowers]] [[actions-runner-images]] [[tensorflow-tensorflow]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -38,7 +38,7 @@ A vector index built on TurboQuant, written in Rust with Python bindings
 
 ## 相关项目
 
-[[yynxxxxx-codex-x]] [[anthropics-skills]] [[mattpocock-skills]] [[akitaonrails-ai-memory]] [[ankitects-anki]]
+[[cloudflare-quiche]] [[llvm-llvm-project]] [[akitaonrails-ai-memory]] [[rohitg00-ai-engineering-from-scratch]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[ai-agent]]
 

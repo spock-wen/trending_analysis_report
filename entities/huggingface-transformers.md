@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-skills]] [[debpalash-voicestudio]] [[crosstalk-solutions-project-nomad]] [[multimodal-art-projection-yue]] [[mattpocock-skills]]
+[[jamiepine-voicebox]] [[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

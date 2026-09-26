@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[anthropics-skills]] [[paperclipai-paperclip]] [[hkuds-cli-anything]] [[basecamp-omarchy]] [[obra-superpowers]]
+[[obra-superpowers]] [[llvm-llvm-project]] [[actions-runner-images]] [[rohitg00-ai-engineering-from-scratch]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[anthropics-skills]] [[affaan-m-ecc]] [[mattpocock-skills]] [[paperless-ngx-paperless-ngx]] [[paperclipai-paperclip]]
+[[paperless-ngx-paperless-ngx]] [[llvm-llvm-project]] [[dream-num-univer]] [[affaan-m-ecc]] [[microsoft-vscode]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

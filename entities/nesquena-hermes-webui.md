@@ -37,7 +37,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]] [[superdesigndev-treg]]
+[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[anthropics-skills]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -38,7 +38,7 @@ This is MCP server for Claude that gives it terminal control, file system search
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[hkuds-cli-anything]] [[obra-superpowers]]
+[[llvm-llvm-project]] [[obra-superpowers]] [[actions-runner-images]] [[dream-num-univer]] [[microsoft-vscode]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

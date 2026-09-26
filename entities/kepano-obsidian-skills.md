@@ -34,7 +34,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[anthropics-skills]] [[crosstalk-solutions-project-nomad]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]]
+[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[obra-superpowers]] [[actions-runner-images]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

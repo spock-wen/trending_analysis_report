@@ -35,7 +35,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[anthropics-skills]] [[chen08209-flclash]] [[mattpocock-skills]] [[flutter-flutter]] [[obra-superpowers]]
+[[llvm-llvm-project]] [[flutter-flutter]] [[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[hkuds-cli-anything]]
+[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[obra-superpowers]] [[vectorize-io-hindsight]] [[actions-runner-images]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

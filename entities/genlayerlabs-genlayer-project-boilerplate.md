@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[danny-avila-librechat]] [[ever-co-ever-gauzy]] [[paperclipai-paperclip]] [[obra-superpowers]] [[fxembed-fxembed]]
+[[melgarafael-deskcommcrm]] [[danny-avila-librechat]] [[obra-superpowers]] [[dream-num-univer]] [[microsoft-vscode]]
 
 **所属领域**: [[erp]]
 

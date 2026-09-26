@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[justvugg-colibri]] [[opa334-dopamine]] [[obra-superpowers]]
+[[llvm-llvm-project]] [[rohitg00-ai-engineering-from-scratch]] [[justvugg-colibri]] [[opa334-dopamine]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]]
 

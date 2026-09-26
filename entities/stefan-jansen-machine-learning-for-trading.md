@@ -35,7 +35,7 @@ Code for Machine Learning for Algorithmic Trading, 2nd edition.
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[microsoft-generative-ai-for-beginners]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]] [[lyogavin-airllm]]
+[[lyogavin-airllm]] [[nvidia-model-optimizer]] [[vectorize-io-hindsight]] [[microsoft-generative-ai-for-beginners]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[education]]
 

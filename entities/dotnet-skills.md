@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[jellyfin-jellyfin]] [[obra-superpowers]] [[dotnet-aspnetcore]]
+[[sonarr-sonarr]] [[llvm-llvm-project]] [[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]]
 

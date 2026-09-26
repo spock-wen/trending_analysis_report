@@ -36,7 +36,7 @@ Agent Substrate: the core system
 
 ## 相关项目
 
-[[anthropics-skills]] [[openbao-openbao]] [[mattpocock-skills]] [[google-ax]] [[obra-superpowers]]
+[[llvm-llvm-project]] [[openbao-openbao]] [[rohitg00-ai-engineering-from-scratch]] [[coder-coder]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]]
 

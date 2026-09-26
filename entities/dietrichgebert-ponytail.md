@@ -38,7 +38,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[anthropics-skills]] [[mattpocock-skills]] [[androoagi-starnet]] [[obra-superpowers]]
+[[llvm-llvm-project]] [[affaan-m-ecc]] [[androoagi-starnet]] [[rohitg00-ai-engineering-from-scratch]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

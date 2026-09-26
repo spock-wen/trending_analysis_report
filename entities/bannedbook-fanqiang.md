@@ -38,5 +38,5 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[mahlernim-google-timeline-visualizer]] [[embabel-embabel-agent]] [[andreknieriem-headunit-revived]]
+[[embabel-embabel-agent]] [[andreknieriem-headunit-revived]] [[mahlernim-google-timeline-visualizer]]
 

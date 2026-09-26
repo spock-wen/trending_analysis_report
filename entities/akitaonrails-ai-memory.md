@@ -37,7 +37,7 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 ## 相关项目
 
-[[yynxxxxx-codex-x]] [[anthropics-skills]] [[mattpocock-skills]] [[ankitects-anki]] [[paperclipai-paperclip]]
+[[cloudflare-quiche]] [[llvm-llvm-project]] [[actions-runner-images]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

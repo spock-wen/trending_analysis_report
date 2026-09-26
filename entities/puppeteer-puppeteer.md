@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[trycua-cua]] [[superdesigndev-treg]] [[paperclipai-paperclip]] [[hkuds-cli-anything]] [[browser-use-video-use]]
+[[dream-num-univer]] [[microsoft-vscode]] [[anthropics-claude-code-action]] [[paperclipai-paperclip]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

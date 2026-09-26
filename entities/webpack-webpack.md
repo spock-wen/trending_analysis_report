@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[multimodal-art-projection-yue]] [[trycua-cua]] [[superdesigndev-treg]] [[androoagi-starnet]]
+[[actions-runner-images]] [[affaan-m-ecc]] [[androoagi-starnet]] [[fxembed-fxembed]] [[pbakaus-impeccable]]
 
 **所属领域**: [[web]] [[image-gen]]
 

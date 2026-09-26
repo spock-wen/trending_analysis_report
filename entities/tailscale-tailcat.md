@@ -35,7 +35,7 @@ like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 ## 相关项目
 
-[[anthropics-skills]] [[openbao-openbao]] [[mattpocock-skills]] [[trycua-cua]] [[agent-substrate-substrate]]
+[[trycua-cua]] [[llvm-llvm-project]] [[openbao-openbao]] [[supabase-supabase]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

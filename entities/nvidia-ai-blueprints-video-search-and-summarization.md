@@ -35,7 +35,7 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[anthropics-skills]] [[openbao-openbao]] [[mattpocock-skills]] [[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]]
+[[trycua-cua]] [[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[openbao-openbao]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

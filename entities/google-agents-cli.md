@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[davila7-claude-code-templates]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]]
+[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[obra-superpowers]] [[vectorize-io-hindsight]] [[actions-runner-images]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

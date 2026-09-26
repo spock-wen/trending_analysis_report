@@ -36,7 +36,7 @@ Lightweight coding agent that runs in your terminal
 
 ## 相关项目
 
-[[yynxxxxx-codex-x]] [[anthropics-skills]] [[mattpocock-skills]] [[akitaonrails-ai-memory]] [[ankitects-anki]]
+[[cloudflare-quiche]] [[llvm-llvm-project]] [[actions-runner-images]] [[obra-superpowers]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

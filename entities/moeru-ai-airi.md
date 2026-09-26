@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[anthropics-skills]] [[debpalash-voicestudio]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[trycua-cua]]
+[[jamiepine-voicebox]] [[llvm-llvm-project]] [[multimodal-art-projection-yue]] [[dream-num-univer]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

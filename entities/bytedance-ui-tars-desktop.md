@@ -34,7 +34,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[davila7-claude-code-templates]] [[nvidia-model-optimizer]] [[paperclipai-paperclip]]
+[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[dream-num-univer]] [[davila7-claude-code-templates]] [[microsoft-vscode]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

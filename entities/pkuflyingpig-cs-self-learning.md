@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[crosstalk-solutions-project-nomad]] [[trycua-cua]] [[cathrynlavery-diagram-design]] [[superdesigndev-treg]] [[rohitg00-ai-engineering-from-scratch]]
+[[ripienaar-free-for-dev]] [[nvidia-model-optimizer]] [[vectorize-io-hindsight]] [[tensorflow-tensorflow]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[education]]
 

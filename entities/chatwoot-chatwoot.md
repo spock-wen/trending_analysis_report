@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[obra-superpowers]] [[anthropics-claude-plugins-official]] [[docusealco-docuseal]]
+[[llvm-llvm-project]] [[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[docusealco-docuseal]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[anthropics-skills]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[androoagi-starnet]]
+[[llvm-llvm-project]] [[obra-superpowers]] [[actions-runner-images]] [[affaan-m-ecc]] [[androoagi-starnet]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -35,7 +35,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[anthropics-skills]] [[obra-superpowers]] [[mattpocock-skills]] [[anthropics-claude-plugins-official]]
+[[zhaoxuya520-reverse-skill]] [[llvm-llvm-project]] [[paperclipai-paperclip]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,5 +35,5 @@ Smart PVR for newsgroup and bittorrent users.
 
 ## 相关项目
 
-[[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]] [[jellyfin-jellyfin]]
+[[dotnet-aspnetcore]] [[jellyfin-jellyfin]] [[k1tbyte-wand-enhancer]]
 

@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[anthropics-skills]] [[crosstalk-solutions-project-nomad]] [[mattpocock-skills]] [[davila7-claude-code-templates]] [[vectorize-io-hindsight]]
+[[melgarafael-deskcommcrm]] [[danny-avila-librechat]] [[lyogavin-airllm]] [[nvidia-model-optimizer]] [[llvm-llvm-project]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

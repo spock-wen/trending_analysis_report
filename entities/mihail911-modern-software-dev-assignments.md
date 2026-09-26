@@ -34,7 +34,7 @@ Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]] [[anthropics-claude-plugins-official]]
+[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[anthropics-skills]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]]
 

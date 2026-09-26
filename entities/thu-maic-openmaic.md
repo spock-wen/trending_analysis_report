@@ -38,7 +38,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[anthropics-skills]] [[crosstalk-solutions-project-nomad]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]]
+[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[obra-superpowers]] [[actions-runner-images]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

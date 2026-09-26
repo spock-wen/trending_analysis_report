@@ -37,7 +37,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[anthropics-skills]] [[debpalash-voicestudio]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[tonhowtf-omniget]]
+[[jamiepine-voicebox]] [[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

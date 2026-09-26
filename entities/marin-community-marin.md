@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[anthropics-skills]] [[affaan-m-ecc]] [[paperless-ngx-paperless-ngx]] [[alphaxiv-openresearch]] [[rohitg00-ai-engineering-from-scratch]]
+[[paperless-ngx-paperless-ngx]] [[nvidia-model-optimizer]] [[vectorize-io-hindsight]] [[affaan-m-ecc]] [[anthropics-skills]]
 
 **所属领域**: [[science]]
 

@@ -34,7 +34,7 @@ TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 |
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]] [[anthropics-claude-plugins-official]]
+[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[anthropics-skills]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]]
 

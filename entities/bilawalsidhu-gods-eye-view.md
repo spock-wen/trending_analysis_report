@@ -38,7 +38,7 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[openbao-openbao]] [[trycua-cua]] [[superdesigndev-treg]] [[androoagi-starnet]]
+[[affaan-m-ecc]] [[openbao-openbao]] [[androoagi-starnet]] [[supabase-supabase]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[web]] [[data]]
 

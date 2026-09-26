@@ -38,7 +38,7 @@ Project NOMAD is an offline-first knowledge and education server. Wikipedia, tho
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]] [[paperclipai-paperclip]]
+[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[microsoft-vscode]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

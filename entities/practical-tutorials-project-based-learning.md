@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[anthropics-skills]] [[crosstalk-solutions-project-nomad]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]] [[anthropics-claude-plugins-official]]
+[[nvidia-model-optimizer]] [[vectorize-io-hindsight]] [[tensorflow-tensorflow]] [[anthropics-skills]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[education]]
 

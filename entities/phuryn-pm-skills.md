@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[hkuds-cli-anything]] [[obra-superpowers]]
+[[llvm-llvm-project]] [[obra-superpowers]] [[actions-runner-images]] [[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

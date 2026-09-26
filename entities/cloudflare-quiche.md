@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[yynxxxxx-codex-x]] [[trycua-cua]] [[superdesigndev-treg]] [[akitaonrails-ai-memory]] [[ankitects-anki]]
+[[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[block-buzz]] [[hkuds-cli-anything]] [[browser-use-video-use]]
 
 **所属领域**: [[web]]
 

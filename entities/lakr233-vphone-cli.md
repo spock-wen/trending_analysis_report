@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[mattpocock-skills]] [[paperclipai-paperclip]] [[hkuds-cli-anything]] [[obra-superpowers]] [[abue-ammar-tinycast]]
+[[homebrew-brewui]] [[obra-superpowers]] [[actions-runner-images]] [[peetzweg-opendisplay]] [[abue-ammar-tinycast]]
 
 **所属领域**: [[cli]]
 

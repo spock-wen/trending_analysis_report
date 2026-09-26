@@ -35,7 +35,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[anthropics-skills]] [[affaan-m-ecc]] [[alphaxiv-openresearch]] [[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]]
+[[nvidia-model-optimizer]] [[vectorize-io-hindsight]] [[affaan-m-ecc]] [[anthropics-skills]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[science]]
 

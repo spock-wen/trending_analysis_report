@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[anthropics-skills]] [[affaan-m-ecc]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]]
+[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

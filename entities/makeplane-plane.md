@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[paperclipai-paperclip]] [[hkuds-cli-anything]] [[obra-superpowers]] [[fxembed-fxembed]]
+[[obra-superpowers]] [[actions-runner-images]] [[dream-num-univer]] [[microsoft-vscode]] [[anthropics-claude-code-action]]
 
 **所属领域**: [[cli]]
 

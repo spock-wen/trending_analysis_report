@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[anthropics-skills]] [[openbao-openbao]] [[mattpocock-skills]] [[trycua-cua]] [[paperclipai-paperclip]]
+[[trycua-cua]] [[checkstyle-checkstyle]] [[llvm-llvm-project]] [[actions-runner-images]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

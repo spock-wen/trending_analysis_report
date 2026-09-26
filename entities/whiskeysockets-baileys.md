@@ -34,7 +34,7 @@ Socket-based TS/JavaScript API for WhatsApp Web
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[anthropics-skills]] [[mattpocock-skills]] [[trycua-cua]] [[superdesigndev-treg]]
+[[llvm-llvm-project]] [[affaan-m-ecc]] [[androoagi-starnet]] [[rohitg00-ai-engineering-from-scratch]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

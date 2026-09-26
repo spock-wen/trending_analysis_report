@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-skills]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]]
+[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[actions-runner-images]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

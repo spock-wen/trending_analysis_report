@@ -37,7 +37,7 @@ An open source design system that's fully customizable and agent ready
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[obra-superpowers]] [[fxembed-fxembed]]
+[[llvm-llvm-project]] [[dream-num-univer]] [[microsoft-vscode]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-code-action]]
 
 **所属领域**: [[ai-agent]]
 

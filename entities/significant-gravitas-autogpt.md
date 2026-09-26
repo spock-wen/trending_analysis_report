@@ -35,7 +35,7 @@ AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]] [[anthropics-claude-plugins-official]]
+[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[anthropics-skills]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]]
 

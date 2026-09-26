@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[anthropics-skills]] [[affaan-m-ecc]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[trycua-cua]]
+[[paperless-ngx-paperless-ngx]] [[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[actions-runner-images]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

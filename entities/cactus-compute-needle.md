@@ -38,5 +38,5 @@ Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, struct
 
 ## 相关项目
 
-[[anthropics-skills]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[vectorize-io-hindsight]]
+[[anthropics-skills]] [[nvidia-model-optimizer]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]]
 

@@ -37,7 +37,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[anthropics-skills]] [[mattpocock-skills]] [[androoagi-starnet]] [[obra-superpowers]]
+[[llvm-llvm-project]] [[affaan-m-ecc]] [[androoagi-starnet]] [[rohitg00-ai-engineering-from-scratch]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

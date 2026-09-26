@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[anthropics-skills]] [[trycua-cua]] [[mattpocock-skills]] [[superdesigndev-treg]] [[hkuds-cli-anything]]
+[[ripienaar-free-for-dev]] [[llvm-llvm-project]] [[rohitg00-ai-engineering-from-scratch]] [[averygan-reclip]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

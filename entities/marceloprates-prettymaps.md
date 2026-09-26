@@ -34,7 +34,7 @@ Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 
 ## 相关项目
 
-[[anthropics-skills]] [[openbao-openbao]] [[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]] [[supabase-supabase]]
+[[trycua-cua]] [[nvidia-model-optimizer]] [[vectorize-io-hindsight]] [[openbao-openbao]] [[supabase-supabase]]
 
 **所属领域**: [[data]]
 

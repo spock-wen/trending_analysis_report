@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[anthropics-skills]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[nutlope-hallmark]] [[diolinux-photogimp]]
+[[llvm-llvm-project]] [[actions-runner-images]] [[diolinux-photogimp]] [[fxembed-fxembed]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[anthropics-skills]] [[openbao-openbao]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]]
+[[ripienaar-free-for-dev]] [[llvm-llvm-project]] [[actions-runner-images]] [[openbao-openbao]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

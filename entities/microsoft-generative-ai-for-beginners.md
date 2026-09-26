@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[anthropics-skills]] [[crosstalk-solutions-project-nomad]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]]
+[[lyogavin-airllm]] [[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[danny-avila-librechat]] [[ever-co-ever-gauzy]] [[paperclipai-paperclip]]
+[[melgarafael-deskcommcrm]] [[danny-avila-librechat]] [[llvm-llvm-project]] [[mattpocock-skills]] [[actions-runner-images]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

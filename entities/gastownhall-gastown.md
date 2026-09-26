@@ -35,7 +35,7 @@ Gas Town - multi-agent workspace manager
 
 ## 相关项目
 
-[[anthropics-skills]] [[openbao-openbao]] [[mattpocock-skills]] [[agent-substrate-substrate]] [[google-ax]]
+[[llvm-llvm-project]] [[openbao-openbao]] [[rohitg00-ai-engineering-from-scratch]] [[agent-substrate-substrate]] [[coder-coder]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]] [[paperclipai-paperclip]]
+[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[obra-superpowers]] [[vectorize-io-hindsight]] [[actions-runner-images]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

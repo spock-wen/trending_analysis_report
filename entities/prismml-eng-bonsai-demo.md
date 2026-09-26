@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[hkuds-cli-anything]] [[basecamp-omarchy]]
+[[obra-superpowers]] [[mattpocock-skills]] [[llvm-llvm-project]] [[actions-runner-images]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

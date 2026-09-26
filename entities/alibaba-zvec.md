@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[openbao-openbao]] [[harry7557558-spirula-studio]] [[trycua-cua]] [[protocolbuffers-protobuf]] [[fmtlib-fmt]]
+[[trycua-cua]] [[openbao-openbao]] [[tensorflow-tensorflow]] [[supabase-supabase]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[data]]
 

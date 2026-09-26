@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[yynxxxxx-codex-x]] [[trycua-cua]] [[mattpocock-skills]] [[superdesigndev-treg]] [[akitaonrails-ai-memory]]
+[[cloudflare-quiche]] [[obra-superpowers]] [[actions-runner-images]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -34,5 +34,5 @@ General plug-and-play inference library for Recursive Language Models (RLMs), su
 
 ## 相关项目
 
-[[anthropics-skills]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]] [[vectorize-io-hindsight]]
+[[anthropics-skills]] [[nvidia-model-optimizer]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]]
 

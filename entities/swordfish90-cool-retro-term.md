@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[hkuds-cli-anything]]
+[[actions-runner-images]] [[obra-superpowers]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[cli]]
 

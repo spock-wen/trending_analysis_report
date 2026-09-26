@@ -37,7 +37,7 @@ Google's open agentic orchestration runtime
 
 ## 相关项目
 
-[[anthropics-skills]] [[openbao-openbao]] [[mattpocock-skills]] [[agent-substrate-substrate]] [[obra-superpowers]]
+[[llvm-llvm-project]] [[openbao-openbao]] [[rohitg00-ai-engineering-from-scratch]] [[agent-substrate-substrate]] [[coder-coder]]
 
 **所属领域**: [[ai-agent]]
 

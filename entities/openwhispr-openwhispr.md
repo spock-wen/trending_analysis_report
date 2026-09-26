@@ -34,7 +34,7 @@ Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud model
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[anthropics-skills]] [[debpalash-voicestudio]] [[multimodal-art-projection-yue]] [[mattpocock-skills]]
+[[jamiepine-voicebox]] [[llvm-llvm-project]] [[multimodal-art-projection-yue]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[security]] [[audio]]
 

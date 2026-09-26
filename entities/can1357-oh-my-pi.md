@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[trycua-cua]] [[superdesigndev-treg]] [[paperclipai-paperclip]]
+[[llvm-llvm-project]] [[obra-superpowers]] [[actions-runner-images]] [[dream-num-univer]] [[microsoft-vscode]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

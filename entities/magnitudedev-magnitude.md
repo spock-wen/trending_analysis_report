@@ -37,7 +37,7 @@ Open source inference server that runs the best local models for your hardware, 
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[hkuds-cli-anything]] [[obra-superpowers]]
+[[llvm-llvm-project]] [[obra-superpowers]] [[actions-runner-images]] [[dream-num-univer]] [[microsoft-vscode]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -34,7 +34,7 @@ Replace port numbers with stable, named local URLs. For humans and agents.
 
 ## 相关项目
 
-[[anthropics-skills]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[trycua-cua]] [[paperclipai-paperclip]]
+[[llvm-llvm-project]] [[actions-runner-images]] [[dream-num-univer]] [[microsoft-vscode]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

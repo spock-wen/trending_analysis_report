@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[openbao-openbao]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[agent-substrate-substrate]] [[hkuds-cli-anything]]
+[[obra-superpowers]] [[actions-runner-images]] [[openbao-openbao]] [[agent-substrate-substrate]] [[coder-coder]]
 
 **所属领域**: [[cli]]
 

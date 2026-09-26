@@ -38,7 +38,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ## 相关项目
 
-[[anthropics-skills]] [[openbao-openbao]] [[affaan-m-ecc]] [[mattpocock-skills]] [[trycua-cua]]
+[[trycua-cua]] [[paperless-ngx-paperless-ngx]] [[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

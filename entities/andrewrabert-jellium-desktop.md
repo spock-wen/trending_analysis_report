@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[yynxxxxx-codex-x]] [[mattpocock-skills]] [[akitaonrails-ai-memory]] [[ankitects-anki]] [[paperclipai-paperclip]]
+[[cloudflare-quiche]] [[obra-superpowers]] [[actions-runner-images]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[cli]]
 

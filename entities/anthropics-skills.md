@@ -38,7 +38,7 @@ Public repository for Agent Skills
 
 ## 相关项目
 
-[[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]] [[anthropics-claude-plugins-official]] [[vectorize-io-hindsight]]
+[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]]
 

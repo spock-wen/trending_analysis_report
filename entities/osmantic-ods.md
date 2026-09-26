@@ -35,7 +35,7 @@ Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice
 
 ## 相关项目
 
-[[anthropics-skills]] [[debpalash-voicestudio]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[trycua-cua]]
+[[jamiepine-voicebox]] [[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[actions-runner-images]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

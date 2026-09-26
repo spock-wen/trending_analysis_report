@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[anthropics-skills]] [[debpalash-voicestudio]] [[harry7557558-spirula-studio]] [[mattpocock-skills]] [[multimodal-art-projection-yue]]
+[[jamiepine-voicebox]] [[llvm-llvm-project]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

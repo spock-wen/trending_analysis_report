@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[anthropics-skills]] [[trycua-cua]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[superdesigndev-treg]]
+[[ripienaar-free-for-dev]] [[llvm-llvm-project]] [[cathrynlavery-diagram-design]] [[rohitg00-ai-engineering-from-scratch]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

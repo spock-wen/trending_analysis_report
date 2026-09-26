@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[paperclipai-paperclip]] [[nationalsecurityagency-ghidra]] [[fxembed-fxembed]] [[cloudflare-security-audit-skill]]
+[[dream-num-univer]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[microsoft-vscode]] [[anthropics-claude-code-action]]
 
 **所属领域**: [[security]]
 

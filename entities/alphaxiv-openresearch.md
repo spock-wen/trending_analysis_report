@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[yynxxxxx-codex-x]] [[anthropics-skills]] [[affaan-m-ecc]] [[mattpocock-skills]] [[paperless-ngx-paperless-ngx]]
+[[paperless-ngx-paperless-ngx]] [[cloudflare-quiche]] [[llvm-llvm-project]] [[affaan-m-ecc]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

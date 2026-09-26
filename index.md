@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-09-26 | 总页面：631
+> 最后更新：2026-09-27 | 总页面：636
 
 ## Entities
 
@@ -16,6 +16,7 @@
 - [[abue-ammar-tinycast|tinycast"]] — Tinycast — a tiny, fully native macOS launcher, hotkeys, and... 🆕
 - [[abus-aikorea-voice-pro|voice-pro"]] — Gradio WebUI for creators and developers, featuring key TTS ...
 - [[actions-checkout|checkout"]] — Action for checking out a repo
+- [[actions-runner-images|runner-images"]] — GitHub Actions runner images 🆕
 - [[activeloopai-hivemind|hivemind"]] — One brain for all your agents
 - [[addyosmani-agent-skills|agent-skills"]] — Production-grade engineering skills for AI coding agents. 🔥
 - [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i...
@@ -49,13 +50,14 @@
 - [[andreknieriem-headunit-revived|headunit-revived"]] — Headunit App for displaying Android Auto
 - [[andrewrabert-jellium-desktop|jellium-desktop"]] — An unofficial desktop client for Jellyfin
 - [[andrewyng-aisuite|aisuite"]] — Simple, unified interface to multiple Generative AI provider...
-- [[androoagi-starnet|starnet"]] — A living pixel-art station where real AI agents do real work... 🆕
+- [[androoagi-starnet|starnet"]] — A living pixel-art station where real AI agents do real work...
 - [[andyyyy64-whichllm|whichllm"]] — Find the local LLM that actually runs and performs best on y... 🆕
 - [[angular-angular|angular"]] — Deliver web apps with confidence 🚀
 - [[anil-matcha-open-generative-ai|Open-Generative-AI"]] — Unrestricted Open-source alternative to AI video platforms —...
 - [[ankitects-anki|anki"]] — Anki is a smart spaced repetition flashcard program
 - [[anomalyco-opencode|opencode"]] — The open source coding agent. 🔥
 - [[ansible-ansible|ansible"]] — Ansible is a radically simple IT automation platform that ma...
+- [[anthropics-claude-code-action|claude-code-action"]] — No description 🆕
 - [[anthropics-claude-code|claude-code"]] — Claude Code is an agentic coding tool that lives in your ter... 🔥
 - [[anthropics-claude-cookbooks|claude-cookbooks"]] — A collection of notebooks/recipes showcasing some fun and ef...
 - [[anthropics-claude-plugins-community|claude-plugins-community"]] — Community plugin marketplace for Claude Cowork and Claude Co... 🔥
@@ -91,7 +93,7 @@
 - [[biohub-esm|esm"]] — No description
 - [[blader-humanizer|humanizer"]] — Agent skill that removes signs of AI-generated writing from ... 🔥
 - [[blakeblackshear-frigate|frigate"]] — NVR with realtime local object detection for IP cameras 🆕
-- [[block-buzz|buzz"]] — A hive mind communication platform 🔥
+- [[block-buzz|buzz"]] — A hive mind communication platform
 - [[bojieli-ai-agent-book|ai-agent-book"]] — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [[bradautomates-claude-video|claude-video"]] — Give Claude the ability to watch any video. /watch downloads... 🆕
 - [[braveopotato-fcksignups|FckSignups"]] — A list of tools that are open-source, in-browser, and requir... 🔥
@@ -163,7 +165,7 @@
 - [[deepseek-ai-awesome-deepseek-agent|awesome-deepseek-agent"]] — No description
 - [[denoland-celld|celld"]] — self-hosted, distributed Durable Objects 🆕
 - [[denoland-deno|deno"]] — A modern runtime for JavaScript and TypeScript.
-- [[derv82-wifit3|wifit3"]] — Wifite but USB-only & cross-platform. 🆕
+- [[derv82-wifit3|wifit3"]] — Wifite but USB-only & cross-platform.
 - [[deusdata-codebase-memory-mcp|codebase-memory-mcp"]] — High-performance code intelligence MCP server. Indexes codeb...
 - [[diegosouzapw-omniroute|OmniRoute"]] — Never stop coding. Free MIT AI gateway: one endpoint, 352 pr...
 - [[dietrichgebert-ponytail|ponytail"]] — Makes your AI agent think like the laziest senior dev in the... 🔥
@@ -301,7 +303,7 @@
 - [[kaifcodec-user-scanner|user-scanner"]] — 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data ex...
 - [[karakeep-app-karakeep|karakeep"]] — A self-hostable bookmark-everything app (links, notes and im...
 - [[karpathy-nn-zero-to-hero|nn-zero-to-hero"]] — Neural Networks: Zero to Hero
-- [[kelseyhightower-kubernetes-the-hard-way|kubernetes-the-hard-way"]] — Bootstrap Kubernetes the hard way. No scripts. 🆕
+- [[kelseyhightower-kubernetes-the-hard-way|kubernetes-the-hard-way"]] — Bootstrap Kubernetes the hard way. No scripts.
 - [[kenn-io-agentsview|agentsview"]] — Local-first session intelligence and analytics for coding ag...
 - [[kepano-obsidian-skills|obsidian-skills"]] — Agent skills for Obsidian. Teach your agent to use Obsidian ...
 - [[keycloak-keycloak|keycloak"]] — Open Source Identity and Access Management For Modern Applic...
@@ -374,10 +376,12 @@
 - [[microsoft-terminal|terminal"]] — The new Windows Terminal and the original Windows console ho...
 - [[microsoft-typescript|TypeScript"]] — TypeScript is a superset of JavaScript that compiles to clea... 🆕
 - [[microsoft-vibevoice|VibeVoice"]] — Open-Source Frontier Voice AI
+- [[microsoft-vscode|vscode"]] — Visual Studio Code 🆕
 - [[mihail911-modern-software-dev-assignments|modern-software-dev-assignments"]] — Assignments for CS146S: The Modern Software Dev (Stanford Un...
 - [[mikeroyal-self-hosting-guide|Self-Hosting-Guide"]] — Self-Hosting Guide. Learn all about locally hosting (on prem...
 - [[mikumifa-bilitickerbuy|biliTickerBuy"]] — b站会员购购票辅助工具
 - [[mksglu-context-mode|context-mode"]] — Context window optimization for AI coding agents. Sandboxes ... 🆕
+- [[mobile-next-mobile-mcp|mobile-mcp"]] — Model Context Protocol Server for Mobile Automation and Scra... 🆕
 - [[modular-modular|modular"]] — The Modular Platform (includes MAX & Mojo) 🔥
 - [[moeru-ai-airi|airi"]] — 💖🧸 Self hosted, you-owned Grok Companion, a container of sou... 🔥
 - [[moonshine-ai-moonshine|moonshine"]] — Very low latency speech to text, intent recognition, and tex...
@@ -407,7 +411,7 @@
 - [[nuxt-nuxt|nuxt"]] — the full-stack Vue framework
 - [[nvidia-ai-blueprints-video-search-and-summarization|video-search-and-summarization"]] — Suite of reference architectures for building GPU-accelerate... 🆕
 - [[nvidia-cosmos|cosmos"]] — NVIDIA Cosmos is an open platform of world models, datasets,... 🆕
-- [[nvidia-model-optimizer|Model-Optimizer"]] — A unified library of SOTA model optimization techniques like... 🆕
+- [[nvidia-model-optimizer|Model-Optimizer"]] — A unified library of SOTA model optimization techniques like... 🔥
 - [[nvidia-nemo-switchyard|Switchyard"]] — Switchyard lets LLM applications route traffic across models... 🆕
 - [[nvidia-skillspector|SkillSpector"]] — Security scanner for AI agent skills. Detect vulnerabilities... 🔥
 - [[nvlabs-sana|Sana"]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
@@ -449,7 +453,7 @@
 - [[paddlepaddle-paddleocr|PaddleOCR"]] — Turn any PDF or image document into structured data for your... 🆕
 - [[palmier-io-palmier-pro|palmier-pro"]] — macOS video editor built for AI
 - [[panniantong-agent-reach|Agent-Reach"]] — Give your AI agent eyes to see the entire internet. Read & s...
-- [[paperclipai-paperclip|paperclip"]] — The open-source app everyone uses to manage agents at work
+- [[paperclipai-paperclip|paperclip"]] — The open-source app everyone uses to manage agents at work 🆕
 - [[paperless-ngx-paperless-ngx|paperless-ngx"]] — A community-supported supercharged document management syste...
 - [[paperswithbacktest-awesome-systematic-trading|awesome-systematic-trading"]] — A curated list of awesome libraries, packages, strategies, b... 🔥
 - [[par274-sharpemu|sharpemu"]] — An experimental PlayStation 5 emulator project.
@@ -490,7 +494,7 @@
 - [[robbyant-lingbot-map|lingbot-map"]] — A feed-forward 3D foundation model for reconstructing scenes...
 - [[roboflow-supervision|supervision"]] — We write your reusable computer vision tools. 💜 🆕
 - [[rohitg00-agentmemory|agentmemory"]] — - 语言: TypeScript 🆕
-- [[rohitg00-ai-engineering-from-scratch|ai-engineering-from-scratch"]] — Learn it. Build it. Ship it for others. 🆕
+- [[rohitg00-ai-engineering-from-scratch|ai-engineering-from-scratch"]] — Learn it. Build it. Ship it for others. 🔥
 - [[rommapp-romm|romm"]] — A beautiful, powerful, self-hosted rom manager and player. 🔥
 - [[rtk-ai-rtk|rtk"]] — CLI proxy that reduces LLM token consumption by 60-90% on co...
 - [[ruanyf-weekly|weekly"]] — 科技爱好者周刊，每周五发布
@@ -508,7 +512,7 @@
 - [[shanraisshan-claude-code-best-practice|claude-code-best-practice"]] — from vibe coding to agentic engineering - practice makes cla...
 - [[shiyu-coder-kronos|Kronos"]] — Kronos: A Foundation Model for the Language of Financial Mar...
 - [[shubhamsaboo-awesome-llm-apps|awesome-llm-apps"]] — 100+ AI Agents, Agent Skills and RAG Apps - Free and Open So...
-- [[shy3130-tick-stock-panel|tick-stock-panel"]] — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自... 🆕
+- [[shy3130-tick-stock-panel|tick-stock-panel"]] — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自...
 - [[significant-gravitas-autogpt|AutoGPT"]] — AutoGPT is the vision of accessible AI for everyone, to use ... 🆕
 - [[simplex-chat-simplex-chat|simplex-chat"]] — SimpleX - the first messaging network operating without user... 🔥
 - [[sindresorhus-awesome|awesome"]] — 😎 Awesome lists about all kinds of interesting topics
@@ -548,6 +552,7 @@
 - [[tencentcloud-octop|Octop"]] — A smarter, self-hosted AI assistant — multi-user, multi-agen... 🆕
 - [[tencentcloud-tencentdb-agent-memory|TencentDB-Agent-Memory"]] — TencentDB Agent Memory is a team-level memory hub for AI Age... 🔥
 - [[teng-lin-notebooklm-py|notebooklm-py"]] — Unofficial Python API and agentic skill for Google NotebookL...
+- [[tensorflow-tensorflow|tensorflow"]] — An Open Source Machine Learning Framework for Everyone 🆕
 - [[teslamate-org-teslamate|teslamate"]] — A self-hosted data logger for your Tesla 🚘 [main maintainer=... 🆕
 - [[the-swarm-corporation-autohedge|AutoHedge"]] — Build your autonomous hedge fund in minutes. AutoHedge harne... 🔥
 - [[thedotmack-claude-mem|claude-mem"]] — Persistent Context Across Sessions for Every Agent – Capture...
@@ -578,7 +583,7 @@
 - [[usekaneo-kaneo|kaneo"]] — 🎯 All you need. Nothing you don't. Open source project manag... 🔥
 - [[usestrix-strix|strix"]] — Open-source AI penetration testing tool to find and fix your...
 - [[vastsa-pi-desktop|PI-Desktop"]] — Local-first AI coding agent desktop: Electron + Rust host co... 🔥
-- [[vectorize-io-hindsight|hindsight"]] — Hindsight: Agent Memory That Learns 🆕
+- [[vectorize-io-hindsight|hindsight"]] — Hindsight: Agent Memory That Learns 🔥
 - [[veracrypt-veracrypt|VeraCrypt"]] — Disk encryption with strong security based on TrueCrypt
 - [[vercel-labs-json-render|json-render"]] — The Generative UI framework
 - [[vercel-labs-portless|portless"]] — Replace port numbers with stable, named local URLs. For huma...

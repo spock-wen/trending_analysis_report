@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[anthropics-skills]] [[crosstalk-solutions-project-nomad]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]]
+[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[tensorflow-tensorflow]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

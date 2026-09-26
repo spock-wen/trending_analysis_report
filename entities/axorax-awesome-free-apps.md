@@ -36,5 +36,5 @@ Curated list of the best free apps for PC and mobile
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[addyosmani-agent-skills]] [[androoagi-starnet]] [[pbakaus-impeccable]]
+[[affaan-m-ecc]] [[addyosmani-agent-skills]] [[pbakaus-impeccable]] [[androoagi-starnet]]
 

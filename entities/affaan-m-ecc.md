@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[paperless-ngx-paperless-ngx]] [[alphaxiv-openresearch]] [[paperclipai-paperclip]]
+[[paperless-ngx-paperless-ngx]] [[llvm-llvm-project]] [[cloudflare-security-audit-skill]] [[androoagi-starnet]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

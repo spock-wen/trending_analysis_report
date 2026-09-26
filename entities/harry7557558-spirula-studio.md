@@ -34,7 +34,7 @@ Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or C
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[protocolbuffers-protobuf]] [[fmtlib-fmt]] [[obra-superpowers]]
+[[llvm-llvm-project]] [[tensorflow-tensorflow]] [[rohitg00-ai-engineering-from-scratch]] [[protocolbuffers-protobuf]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]]
 

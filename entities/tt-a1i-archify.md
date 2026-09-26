@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[anthropics-skills]] [[openbao-openbao]] [[mattpocock-skills]] [[trycua-cua]]
+[[llvm-llvm-project]] [[affaan-m-ecc]] [[openbao-openbao]] [[androoagi-starnet]] [[supabase-supabase]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

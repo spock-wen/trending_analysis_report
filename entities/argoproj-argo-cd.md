@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[openbao-openbao]] [[davila7-claude-code-templates]] [[nvidia-model-optimizer]] [[agent-substrate-substrate]] [[ruvnet-ruview]]
+[[nvidia-model-optimizer]] [[openbao-openbao]] [[davila7-claude-code-templates]] [[agent-substrate-substrate]] [[coder-coder]]
 
 **所属领域**: [[devops]]
 

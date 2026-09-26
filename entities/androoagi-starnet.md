@@ -34,7 +34,7 @@ A living pixel-art station where real AI agents do real work. Local-first deskto
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[anthropics-skills]] [[mattpocock-skills]] [[obra-superpowers]] [[anthropics-claude-plugins-official]]
+[[llvm-llvm-project]] [[affaan-m-ecc]] [[rohitg00-ai-engineering-from-scratch]] [[pbakaus-impeccable]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

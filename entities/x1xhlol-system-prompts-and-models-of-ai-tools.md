@@ -37,7 +37,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[danny-avila-librechat]] [[ever-co-ever-gauzy]] [[obra-superpowers]]
+[[melgarafael-deskcommcrm]] [[danny-avila-librechat]] [[obra-superpowers]] [[llvm-llvm-project]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[mattpocock-skills]] [[paperclipai-paperclip]] [[hkuds-cli-anything]] [[obra-superpowers]] [[nvm-sh-nvm]]
+[[obra-superpowers]] [[mattpocock-skills]] [[actions-runner-images]] [[nvm-sh-nvm]] [[paperclipai-paperclip]]
 
 **所属领域**: [[cli]]
 

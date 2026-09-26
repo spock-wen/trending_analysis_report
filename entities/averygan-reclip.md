@@ -35,7 +35,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[trycua-cua]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[superdesigndev-treg]] [[paperclipai-paperclip]]
+[[ripienaar-free-for-dev]] [[obra-superpowers]] [[actions-runner-images]] [[cathrynlavery-diagram-design]] [[paperclipai-paperclip]]
 
 **所属领域**: [[web]] [[cli]]
 

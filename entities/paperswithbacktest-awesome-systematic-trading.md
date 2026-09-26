@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[anthropics-skills]] [[affaan-m-ecc]] [[crosstalk-solutions-project-nomad]] [[paperless-ngx-paperless-ngx]] [[alphaxiv-openresearch]]
+[[paperless-ngx-paperless-ngx]] [[nvidia-model-optimizer]] [[vectorize-io-hindsight]] [[affaan-m-ecc]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[education]] [[science]]
 

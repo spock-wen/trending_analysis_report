@@ -38,5 +38,5 @@ The open-source CapCut alternative
 
 ## 相关项目
 
-[[dream-num-univer]] [[open-dev-society-openstock]] [[fxembed-fxembed]] [[paperclipai-paperclip]]
+[[anthropics-claude-code-action]] [[microsoft-vscode]] [[paperclipai-paperclip]] [[dream-num-univer]]
 

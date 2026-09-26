@@ -34,7 +34,7 @@ Claude Code toolkit - agents, commands, skills, rules, and hooks for productive 
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[anthropics-skills]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[androoagi-starnet]]
+[[llvm-llvm-project]] [[obra-superpowers]] [[actions-runner-images]] [[affaan-m-ecc]] [[androoagi-starnet]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

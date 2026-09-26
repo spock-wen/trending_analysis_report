@@ -35,7 +35,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[harry7557558-spirula-studio]] [[trycua-cua]] [[protocolbuffers-protobuf]] [[superdesigndev-treg]] [[fmtlib-fmt]]
+[[trycua-cua]] [[tensorflow-tensorflow]] [[protocolbuffers-protobuf]] [[harry7557558-spirula-studio]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

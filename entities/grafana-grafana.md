@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[openbao-openbao]] [[trycua-cua]] [[davila7-claude-code-templates]] [[nvidia-model-optimizer]] [[paperclipai-paperclip]]
+[[trycua-cua]] [[nvidia-model-optimizer]] [[dream-num-univer]] [[openbao-openbao]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[data]] [[devops]]
 

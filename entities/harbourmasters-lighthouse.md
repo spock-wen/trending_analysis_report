@@ -34,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[opa334-dopamine]] [[deusdata-codebase-memory-mcp]] [[armory3d-armorpaint]] [[justvugg-colibri]]
+[[deusdata-codebase-memory-mcp]] [[opa334-dopamine]] [[armory3d-armorpaint]] [[justvugg-colibri]]
 

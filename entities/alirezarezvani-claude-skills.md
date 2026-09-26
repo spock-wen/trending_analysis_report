@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-skills]] [[affaan-m-ecc]] [[mattpocock-skills]] [[danny-avila-librechat]] [[paperless-ngx-paperless-ngx]]
+[[melgarafael-deskcommcrm]] [[danny-avila-librechat]] [[paperless-ngx-paperless-ngx]] [[nvidia-model-optimizer]] [[llvm-llvm-project]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

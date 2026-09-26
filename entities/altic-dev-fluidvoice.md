@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[anthropics-skills]] [[debpalash-voicestudio]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[trycua-cua]]
+[[jamiepine-voicebox]] [[homebrew-brewui]] [[llvm-llvm-project]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

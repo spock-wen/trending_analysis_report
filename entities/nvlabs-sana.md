@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[anthropics-skills]] [[multimodal-art-projection-yue]] [[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-plugins-official]]
+[[nvidia-model-optimizer]] [[actions-runner-images]] [[vectorize-io-hindsight]] [[anthropics-skills]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[image-gen]]
 

@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[anthropics-skills]] [[mattpocock-skills]] [[penpot-penpot]] [[obra-superpowers]] [[anthropics-claude-plugins-official]]
+[[llvm-llvm-project]] [[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[penpot-penpot]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]]
 

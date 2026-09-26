@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[trycua-cua]] [[mattpocock-skills]] [[superdesigndev-treg]] [[paperclipai-paperclip]] [[browser-use-video-use]]
+[[obra-superpowers]] [[actions-runner-images]] [[paperclipai-paperclip]] [[hkuds-cli-anything]] [[browser-use-video-use]]
 
 **所属领域**: [[web]] [[cli]]
 

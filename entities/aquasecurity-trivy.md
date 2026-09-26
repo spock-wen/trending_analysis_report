@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[anthropics-skills]] [[openbao-openbao]] [[affaan-m-ecc]] [[mattpocock-skills]] [[agent-substrate-substrate]]
+[[llvm-llvm-project]] [[affaan-m-ecc]] [[openbao-openbao]] [[cloudflare-security-audit-skill]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

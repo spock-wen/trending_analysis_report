@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[anthropics-skills]] [[openbao-openbao]] [[mattpocock-skills]] [[davila7-claude-code-templates]] [[nvidia-model-optimizer]]
+[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[openbao-openbao]] [[davila7-claude-code-templates]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

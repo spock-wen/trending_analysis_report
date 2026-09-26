@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[anthropics-skills]] [[openbao-openbao]] [[trycua-cua]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]]
+[[ripienaar-free-for-dev]] [[llvm-llvm-project]] [[openbao-openbao]] [[cathrynlavery-diagram-design]] [[supabase-supabase]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

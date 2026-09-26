@@ -34,7 +34,7 @@ Stremio - Freedom to Stream
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[trycua-cua]] [[superdesigndev-treg]] [[androoagi-starnet]] [[hkuds-cli-anything]]
+[[affaan-m-ecc]] [[androoagi-starnet]] [[pbakaus-impeccable]] [[addyosmani-agent-skills]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

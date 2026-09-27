@@ -16,15 +16,15 @@ db = sqlite3.connect('/srv/www/github-trending-wiki/data/github_trending.db')
 rows = db.execute("SELECT repo_full_name, weekly_stars FROM weekly_trending WHERE week_end=? ORDER BY weekly_stars DESC", (week_end,)).fetchall()
 
 def cat(name):
-    big_vendors = {'alibaba/open-code-review','Tencent/WeKnora','anthropics/claude-code','anthropics/knowledge-work-plugins','openai/plugins','supabase/supabase'}
+    workflow = {'affaan-m/ECC','stablyai/orca','paperclipai/paperclip','vectorize-io/hindsight','dream-num/univer','superdesigndev/treg','HKUDS/CLI-Anything','davila7/claude-code-templates','addyosmani/agent-skills'}
+    if name in workflow:
+        return 'Agent 工作流'
+    big_vendors = {'anthropics/financial-services','anthropics/claude-code','anthropics/knowledge-work-plugins','cloudflare/security-audit-skill','cloudflare/quiche','TencentCloud/Octop','alibaba/open-code-review','Tencent/WeKnora'}
     if name in big_vendors:
-        return '大厂官方/产品级开源'
-    skills = {'affaan-m/ECC','ayghri/i-have-adhd','blader/humanizer','heygen-com/hyperframes','mksglu/context-mode','addyosmani/agent-skills','Panniantong/Agent-Reach','stablyai/orca','max-sixty/worktrunk','kunchenguid/firstmate','danny-avila/LibreChat','microsoft/markitdown'}
-    if name in skills:
-        return 'Skill/Agent 工作流'
+        return '大厂官方/产品级'
     return '独立应用/其他'
 
-colors = {'Skill/Agent 工作流': '#4C72B0', '大厂官方/产品级开源': '#E4572E', '独立应用/其他': '#2E8B57'}
+colors = {'Agent 工作流': '#4C72B0', '大厂官方/产品级': '#E4572E', '独立应用/其他': '#2E8B57'}
 names = [r[0] for r in rows][::-1]
 stars = [r[1] for r in rows][::-1]
 cats = [cat(r[0]) for r in rows][::-1]

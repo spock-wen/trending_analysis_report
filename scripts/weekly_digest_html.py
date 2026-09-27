@@ -28,7 +28,18 @@ LANG = {r[0]: r[2] or '' for r in rows}
 DESC = {r[0]: (r[4] or '').strip() for r in rows}
 
 ZH_DESC = {'ayghri/i-have-adhd': '强制编码 Agent 把结论放在输出最前面，告别翻找答案（ADHD 友好）', 'bilawalsidhu/gods-eye-view': '浏览器里的侦察卫星模拟器：写实 3D 地球 + 真实开源空间情报', 'tt-a1i/archify': 'Agent 架构/工作流/时序图生成 skill，自包含 HTML 可导出', 'DietrichGebert/ponytail': '让 Agent 像"屋里最懒的资深工程师"一样思考：能不写的代码就不写', 'mattpocock/skills': 'TypeScript 教育者 Matt Pocock 的工程技能集', 'affaan-m/ECC': 'Agent 性能调优系统：技能、本能、记忆、安全，支持多平台', 'cathrynlavery/diagram-design': '38 种编辑部风格图表模板，自包含 HTML+SVG，拒绝 Mermaid 风', 'heygen-com/hyperframes': '写 HTML、渲染成视频，为 Agent 设计的视频生产管线', 'microsoft/markitdown': '微软官方文件转 Markdown 工具，Office/图片/音频全支持', 'THU-MAIC/OpenMAIC': '清华开源多 Agent 互动课堂，一键搭建沉浸式教学',
-    'alibaba/open-code-review': '阿里开源混合架构代码评审：确定性流水线 + LLM 判断，内部规模验证', 'stablyai/orca': '并行 Agent 机群的 ADE：用自己的订阅跑任意编码 Agent', 'Tencent/WeKnora': '腾讯 LLM 知识平台：文档转 RAG、自主推理 Agent、自维护 Wiki', 'Panniantong/Agent-Reach': '给 Agent 全网视野：读搜 Twitter、Reddit、YouTube、B站、小红书', 'addyosmani/agent-skills': 'Chrome 团队 Addy Osmani 的生产级工程技能包', 'blader/humanizer': '去除文本中 AI 生成痕迹的 Agent skill', 'anthropics/claude-code': 'Claude Code 官方仓库：终端里的 agentic 编码工具', 'danny-avila/LibreChat': '增强版多模型聊天 UI，Agents/MCP/Skills 全支持', 'supabase/supabase': 'Postgres 开发平台，Web/移动/AI 应用的后端底座', 'mksglu/context-mode': 'Agent 上下文窗口优化：工具输出沙箱化、会话记忆持久化', 'huggingface/transformers': 'Hugging Face 模型定义框架，文本/视觉/音频全覆盖', 'max-sixty/worktrunk': 'Git worktree 管理 CLI，为并行 AI Agent 工作流设计', 'kunchenguid/firstmate': '"指挥一个 Agent，用一队人马交付"，单入口多 Agent 协作', 'anthropics/knowledge-work-plugins': 'Anthropic 知识工作插件官方仓库，服务 Claude Cowork', 'openai/plugins': 'OpenAI 官方插件仓库', 'home-assistant/core': '开源自托管家庭自动化主打项目，本地优先'}
+    'alibaba/open-code-review': '阿里开源混合架构代码评审：确定性流水线 + LLM 判断，内部规模验证', 'stablyai/orca': '并行 Agent 机群的 ADE：用自己的订阅跑任意编码 Agent', 'Tencent/WeKnora': '腾讯 LLM 知识平台：文档转 RAG、自主推理 Agent、自维护 Wiki', 'Panniantong/Agent-Reach': '给 Agent 全网视野：读搜 Twitter、Reddit、YouTube、B站、小红书', 'addyosmani/agent-skills': 'Chrome 团队 Addy Osmani 的生产级工程技能包', 'blader/humanizer': '去除文本中 AI 生成痕迹的 Agent skill', 'anthropics/claude-code': 'Claude Code 官方仓库：终端里的 agentic 编码工具', 'danny-avila/LibreChat': '增强版多模型聊天 UI，Agents/MCP/Skills 全支持', 'supabase/supabase': 'Postgres 开发平台，Web/移动/AI 应用的后端底座', 'mksglu/context-mode': 'Agent 上下文窗口优化：工具输出沙箱化、会话记忆持久化', 'huggingface/transformers': 'Hugging Face 模型定义框架，文本/视觉/音频全覆盖', 'max-sixty/worktrunk': 'Git worktree 管理 CLI，为并行 AI Agent 工作流设计', 'kunchenguid/firstmate': '"指挥一个 Agent，用一队人马交付"，单入口多 Agent 协作', 'anthropics/knowledge-work-plugins': 'Anthropic 知识工作插件官方仓库，服务 Claude Cowork', 'openai/plugins': 'OpenAI 官方插件仓库', 'home-assistant/core': '开源自托管家庭自动化主打项目，本地优先',
+    'vectorize-io/hindsight': '会学习的 Agent 记忆系统：用得越久记得越多，表现越好',
+    'cloudflare/security-audit-skill': 'Cloudflare 官方编码 Agent 安全审计 skill，多阶段可独立验证',
+    'paperclipai/paperclip': '开源 Agent 工作管理，"在公司管好你的 agents"',
+    'dream-num/univer': 'AI Agent 的 Office 运行时：表格/文档/幻灯片一体化',
+    'anthropics/financial-services': 'Anthropic 官方金融服务插件包',
+    'superdesigndev/treg': 'Agent 工具的 OpenRouter，社区工具市场',
+    'davila7/claude-code-templates': 'Claude Code 配置与监控 CLI',
+    'HKUDS/CLI-Anything': '港大数据智能实验室：让所有软件 Agent 原生',
+    'TencentCloud/Octop': '腾讯云自托管 AI 助手',
+    'cloudflare/quiche': 'QUIC/HTTP3 的 Rust 实现，Chrome 同款协议栈',
+    'pytorch/pytorch': 'PyTorch 深度学习框架官方仓库'}
 total_stars = sum(WK.values())
 n_projects = len(rows)
 
@@ -98,22 +109,22 @@ C = {'blue': '#4C72B0', 'orange': '#E4572E', 'purple': '#8172B2', 'green': '#2E8
 
 # TODO(每周手填)：NARRATIVES / KNIVES / WATCH 按周报正文更新
 NARRATIVES = [
-    (C['blue'], '#EAF0F9', '#3A62A8', 'Skill 退烧，从通吃回到常态',
-     '10 个 Skill 类项目合计 <b>33,712★，占全榜 45.1%</b>（上周 14 项 81,680★、77.0%）。席位守住上周 ≥8 的阈值（4→14→10），热度从脉冲转向平台期；但星数近腰斩，总榜 -29.5% 主因在此。'),
-    (C['orange'], '#FDEEE8', '#D14A24', '大厂产品级开源登顶接棒',
-     '榜首换人：<b>阿里 open-code-review（+15,028★）</b>，腾讯 WeKnora 星数翻 4 倍，Anthropic 官方仓库首次进周榜。大厂合计 26,217★、占比 35.0%（上周 8.9%）——大厂开始用开源榜单做发布会。'),
-    (C['purple'], '#F1EEF8', '#6D5CA8', '轮动放缓，留存率五周最佳',
-     '<b>换血率 57.1%</b>，三周连降（90.5%→76.2%→57.1%）。上周 16 个新面孔留存 7 个（44%），supabase、transformers、home-assistant 等基础设施首次进榜——注意力从 AI 单热点重新分散。'),
+    (C['blue'], '#EAF0F9', '#3A62A8', 'Skill 长尾出清，注意力完成换位',
+     '续榜 7 项合计 <b>15,294★（27%）</b>且无一正增长，11 个新面孔贡献 41,351★（73%）。上上周 Skill 席位阈值 ≥8 守住后，本周长尾（context-mode、humanizer、hyperframes 等 8 个）全部出局——脉冲结束，注意力从"怎么用 Agent"移向"怎么养 Agent"。'),
+    (C['orange'], '#FDEEE8', '#D14A24', 'Agent 记忆与机群接管头部',
+     '<b>hindsight（+7,282★）</b>三连日榜登顶，周日后单日 2,152★ 全榜最高；paperclip 断档 5 周后星数翻倍回归（+5,376★）连拿两天日榜第一，orca 续榜且星数再涨（+6,503★）。"skill 教做事 + 记忆攒经验 + 机群并行"的运行时基础设施链成型。'),
+    (C['purple'], '#F1EEF8', '#6D5CA8', '大厂席位翻倍，但续榜全负增长',
+     '厂商主体 4 → <b>8 个席位</b>，Anthropic 一家占 3 席（financial-services 连续 3 天日榜第 1）；但 4 个续榜项目无一正增长，open-code-review 星数 -71%——"发布会式增长"窗口关闭，厂商转多仓库轮动补位。'),
 ]
 KNIVES = [
-    (C['blue'], '减速', '社区 Skill', '14 项 81,680★ → 10 项 33,712★<br>星数 -58.7%，席位守住 ≥8 阈值'),
-    (C['green'], '加速', '大厂官方开源', '9,473★ → 26,217★（×2.8）<br>阿里登顶、腾讯翻 4 倍、Anthropic 首发上榜'),
-    (C['orange'], '换挡', '榜单轮动', '换血率 76.2% → 57.1%（三周连降）<br>新面孔留存率 21% → 44%，首次"进得来留得住"'),
+    (C['blue'], '加速', 'Agent 运行时', 'hindsight/orca/paperclip/univer 合计 23,821★<br>占全榜 42.1%，记忆+机群接棒 Skill'),
+    (C['green'], '回落', '大厂单点星数', '26,217★ → 20,527★（-21.7%）<br>席位翻倍对决续榜全负，入场方式转向轮动'),
+    (C['orange'], '出清', '长尾 Skill', '上周 8 个社区 skill 全部出局<br>留存率 44% → 33%，脉冲正式结束'),
 ]
 WATCH = [
-    ('Skill 席位平台期能确认吗？', '下周 Skill 席位 <b>≥8</b> 则"平台期"坐实，跌破则视为二次脉冲'),
-    ('大厂仓库会续榜吗？', 'open-code-review 星数不跌破 <b>5,000★</b> 且 WeKnora 守住 4,000★ 线'),
-    ('基础设施回流可持续吗？', 'markitdown、supabase、transformers、home-assistant <b>≥2 个</b>续榜'),
+    ('"记忆/机群"接棒确认吗？', 'hindsight 或 paperclip 任一周星 <b>≥5,000★</b> 则运行时基础设施成为新主线'),
+    ('大厂席位会守住翻倍吗？', '厂商主体席位 <b>≥6</b> 则官方进场持稳，Anthropic 一家 3 席是关键'),
+    ('orca 能成为留得住的标的吗？', 'orca 续榜第 3 周且星数 <b>≥4,500★</b>，则是机群赛道第一个沉淀用户的'),
 ]
 
 def esc(s):

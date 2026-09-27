@@ -36,7 +36,7 @@ Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[llvm-llvm-project]] [[akitaonrails-ai-memory]] [[rohitg00-ai-engineering-from-scratch]] [[yynxxxxx-codex-x]]
+[[cloudflare-quiche]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[block-buzz]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

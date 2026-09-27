@@ -35,7 +35,7 @@ Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 
 ## 相关项目
 
-[[llvm-llvm-project]] [[obra-superpowers]] [[actions-runner-images]] [[dream-num-univer]] [[microsoft-vscode]]
+[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

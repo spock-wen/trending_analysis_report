@@ -37,7 +37,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[llvm-llvm-project]] [[affaan-m-ecc]] [[androoagi-starnet]] [[rohitg00-ai-engineering-from-scratch]] [[addyosmani-agent-skills]]
+[[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[addyosmani-agent-skills]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]]
 

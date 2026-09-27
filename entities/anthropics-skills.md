@@ -38,7 +38,7 @@ Public repository for Agent Skills
 
 ## 相关项目
 
-[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]]
+[[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]] [[nvidia-model-optimizer]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]]
 

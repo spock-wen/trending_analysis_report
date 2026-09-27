@@ -36,7 +36,7 @@ Agent Substrate: the core system
 
 ## 相关项目
 
-[[llvm-llvm-project]] [[openbao-openbao]] [[rohitg00-ai-engineering-from-scratch]] [[coder-coder]] [[paperclipai-paperclip]]
+[[rohitg00-ai-engineering-from-scratch]] [[coder-coder]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[google-ax]]
 
 **所属领域**: [[ai-agent]]
 

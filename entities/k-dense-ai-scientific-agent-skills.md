@@ -38,7 +38,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ## 相关项目
 
-[[trycua-cua]] [[paperless-ngx-paperless-ngx]] [[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]]
+[[deusdata-codebase-memory-mcp]] [[supabase-supabase]] [[paperless-ngx-paperless-ngx]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

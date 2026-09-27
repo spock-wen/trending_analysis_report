@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[llvm-llvm-project]] [[affaan-m-ecc]] [[openbao-openbao]] [[cloudflare-security-audit-skill]]
+[[zhaoxuya520-reverse-skill]] [[paperclipai-paperclip]] [[openbao-openbao]] [[yynxxxxx-codex-x]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

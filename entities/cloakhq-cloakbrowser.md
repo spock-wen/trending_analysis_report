@@ -35,7 +35,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[danny-avila-librechat]] [[nvidia-model-optimizer]] [[obra-superpowers]] [[vectorize-io-hindsight]]
+[[nationalsecurityagency-ghidra]] [[melgarafael-deskcommcrm]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

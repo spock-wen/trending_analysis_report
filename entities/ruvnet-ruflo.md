@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[davila7-claude-code-templates]]
+[[tensorflow-tensorflow]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[vercel-labs-scriptc]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

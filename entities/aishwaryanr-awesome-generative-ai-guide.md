@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[paperless-ngx-paperless-ngx]] [[ripienaar-free-for-dev]] [[llvm-llvm-project]] [[affaan-m-ecc]] [[cathrynlavery-diagram-design]]
+[[paperless-ngx-paperless-ngx]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[block-buzz]] [[hkuds-cli-anything]]
+[[cloudflare-quiche]] [[block-buzz]] [[akitaonrails-ai-memory]] [[browser-use-video-use]] [[trycua-cua]]
 
 **所属领域**: [[web]]
 

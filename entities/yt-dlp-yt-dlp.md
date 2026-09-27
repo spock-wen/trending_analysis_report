@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[nvidia-model-optimizer]] [[obra-superpowers]] [[vectorize-io-hindsight]] [[actions-runner-images]]
+[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[tonhowtf-omniget]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[cli]] [[audio]]
 

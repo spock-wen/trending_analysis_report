@@ -36,5 +36,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[anthropics-claude-code-action]] [[microsoft-vscode]] [[paperclipai-paperclip]] [[dream-num-univer]]
+[[vercel-labs-scriptc]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[dream-num-univer]]
 

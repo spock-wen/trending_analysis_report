@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[obra-superpowers]] [[actions-runner-images]] [[dream-num-univer]] [[microsoft-vscode]] [[anthropics-claude-code-action]]
+[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[dream-num-univer]] [[vercel-labs-scriptc]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ SIA is a Self Improving AI framework to autonomously improve the performance of 
 
 ## 相关项目
 
-[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[anthropics-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]] [[nvidia-model-optimizer]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]]
 

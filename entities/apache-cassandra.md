@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[trycua-cua]] [[nvidia-model-optimizer]] [[checkstyle-checkstyle]] [[openbao-openbao]] [[davila7-claude-code-templates]]
+[[checkstyle-checkstyle]] [[nationalsecurityagency-ghidra]] [[deusdata-codebase-memory-mcp]] [[supabase-supabase]] [[trycua-cua]]
 
 **所属领域**: [[data]] [[devops]]
 

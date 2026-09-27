@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[llvm-llvm-project]] [[multimodal-art-projection-yue]] [[dream-num-univer]] [[debpalash-voicestudio]]
+[[tonhowtf-omniget]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[multimodal-art-projection-yue]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

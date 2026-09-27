@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[dream-num-univer]] [[openbao-openbao]] [[microsoft-vscode]] [[supabase-supabase]] [[anthropics-claude-code-action]]
+[[deusdata-codebase-memory-mcp]] [[supabase-supabase]] [[dream-num-univer]] [[browser-use-video-use]] [[vercel-labs-scriptc]]
 
 **所属领域**: [[web]] [[data]]
 

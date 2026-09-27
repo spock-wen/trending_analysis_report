@@ -35,5 +35,5 @@ A fast, helpful, and open-source document parser
 
 ## 相关项目
 
-[[yynxxxxx-codex-x]] [[akitaonrails-ai-memory]] [[cloudflare-quiche]] [[block-buzz]]
+[[yynxxxxx-codex-x]] [[block-buzz]] [[cloudflare-quiche]] [[akitaonrails-ai-memory]]
 

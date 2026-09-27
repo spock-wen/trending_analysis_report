@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-09-27 | 总页面：636
+> 最后更新：2026-09-28 | 总页面：640
 
 ## Entities
 
@@ -16,7 +16,7 @@
 - [[abue-ammar-tinycast|tinycast"]] — Tinycast — a tiny, fully native macOS launcher, hotkeys, and... 🆕
 - [[abus-aikorea-voice-pro|voice-pro"]] — Gradio WebUI for creators and developers, featuring key TTS ...
 - [[actions-checkout|checkout"]] — Action for checking out a repo
-- [[actions-runner-images|runner-images"]] — GitHub Actions runner images 🆕
+- [[actions-runner-images|runner-images"]] — GitHub Actions runner images
 - [[activeloopai-hivemind|hivemind"]] — One brain for all your agents
 - [[addyosmani-agent-skills|agent-skills"]] — Production-grade engineering skills for AI coding agents. 🔥
 - [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i...
@@ -57,7 +57,7 @@
 - [[ankitects-anki|anki"]] — Anki is a smart spaced repetition flashcard program
 - [[anomalyco-opencode|opencode"]] — The open source coding agent. 🔥
 - [[ansible-ansible|ansible"]] — Ansible is a radically simple IT automation platform that ma...
-- [[anthropics-claude-code-action|claude-code-action"]] — No description 🆕
+- [[anthropics-claude-code-action|claude-code-action"]] — No description
 - [[anthropics-claude-code|claude-code"]] — Claude Code is an agentic coding tool that lives in your ter... 🔥
 - [[anthropics-claude-cookbooks|claude-cookbooks"]] — A collection of notebooks/recipes showcasing some fun and ef...
 - [[anthropics-claude-plugins-community|claude-plugins-community"]] — Community plugin marketplace for Claude Cowork and Claude Co... 🔥
@@ -160,7 +160,7 @@
 - [[davila7-claude-code-templates|claude-code-templates"]] — CLI tool for configuring and monitoring Claude Code 🆕
 - [[dayuanjiang-next-ai-draw-io|next-ai-draw-io"]] — A next.js web application that integrates AI capabilities wi...
 - [[dbt-labs-dbt-core|dbt-core"]] — dbt enables data analysts and engineers to transform their d...
-- [[debpalash-voicestudio|VoiceStudio"]] — VoiceStudio is the open-source, fully-local ElevenLabs alter... 🔥
+- [[debpalash-voicestudio|VoiceStudio"]] — VoiceStudio is the open-source, fully-local ElevenLabs alter...
 - [[deepfakes-faceswap|faceswap"]] — Deepfakes Software For All
 - [[deepseek-ai-awesome-deepseek-agent|awesome-deepseek-agent"]] — No description
 - [[denoland-celld|celld"]] — self-hosted, distributed Durable Objects 🆕
@@ -271,6 +271,7 @@
 - [[immich-app-immich|immich"]] — High performance self-hosted photo and video management solu...
 - [[imthenachoman-how-to-secure-a-linux-server|How-To-Secure-A-Linux-Server"]] — An evolving how-to guide for securing a Linux server.
 - [[infiniflow-ragflow|ragflow"]] — RAGFlow is a leading open-source Retrieval-Augmented Generat... 🔥
+- [[infinityloop1308-pipepipe|PipePipe"]] — An open-source Android app to let you browse YouTube and oth... 🆕
 - [[influxdata-telegraf|telegraf"]] — Agent for collecting, processing, aggregating, and writing m... 🆕
 - [[interviewstreet-hiring-agent|hiring-agent"]] — AI agent to evaluate and score resumes.
 - [[introduction-to-autonomous-robots-introduction-to-autonomous-robots|Introduction-to-Autonomous-Robots"]] — Introduction to Autonomous Robots 🆕
@@ -376,12 +377,12 @@
 - [[microsoft-terminal|terminal"]] — The new Windows Terminal and the original Windows console ho...
 - [[microsoft-typescript|TypeScript"]] — TypeScript is a superset of JavaScript that compiles to clea... 🆕
 - [[microsoft-vibevoice|VibeVoice"]] — Open-Source Frontier Voice AI
-- [[microsoft-vscode|vscode"]] — Visual Studio Code 🆕
+- [[microsoft-vscode|vscode"]] — Visual Studio Code
 - [[mihail911-modern-software-dev-assignments|modern-software-dev-assignments"]] — Assignments for CS146S: The Modern Software Dev (Stanford Un...
 - [[mikeroyal-self-hosting-guide|Self-Hosting-Guide"]] — Self-Hosting Guide. Learn all about locally hosting (on prem...
 - [[mikumifa-bilitickerbuy|biliTickerBuy"]] — b站会员购购票辅助工具
 - [[mksglu-context-mode|context-mode"]] — Context window optimization for AI coding agents. Sandboxes ... 🆕
-- [[mobile-next-mobile-mcp|mobile-mcp"]] — Model Context Protocol Server for Mobile Automation and Scra... 🆕
+- [[mobile-next-mobile-mcp|mobile-mcp"]] — Model Context Protocol Server for Mobile Automation and Scra...
 - [[modular-modular|modular"]] — The Modular Platform (includes MAX & Mojo) 🔥
 - [[moeru-ai-airi|airi"]] — 💖🧸 Self hosted, you-owned Grok Companion, a container of sou... 🔥
 - [[moonshine-ai-moonshine|moonshine"]] — Very low latency speech to text, intent recognition, and tex...
@@ -395,6 +396,7 @@
 - [[multimodal-art-projection-yue|YuE"]] — YuE2: frontier music generation with symbolic planning, zero...
 - [[music-assistant-server|server"]] — Music Assistant is a free, opensource Media library manager ... 🔥
 - [[mvanhorn-last30days-skill|last30days-skill"]] — AI agent skill that researches any topic across Reddit, X, Y...
+- [[mvschwarz-openrig|openrig"]] — Multi-agent harness that runs Claude Code and Codex together... 🆕
 - [[mvt-project-mvt|mvt"]] — MVT (Mobile Verification Toolkit) helps with conducting fore... 🔥
 - [[n0-computer-iroh|iroh"]] — IP addresses break, dial keys instead. Modular networking st... 🔥
 - [[n8n-io-n8n|n8n"]] — Fair-code workflow automation platform with native AI capabi...
@@ -453,7 +455,7 @@
 - [[paddlepaddle-paddleocr|PaddleOCR"]] — Turn any PDF or image document into structured data for your... 🆕
 - [[palmier-io-palmier-pro|palmier-pro"]] — macOS video editor built for AI
 - [[panniantong-agent-reach|Agent-Reach"]] — Give your AI agent eyes to see the entire internet. Read & s...
-- [[paperclipai-paperclip|paperclip"]] — The open-source app everyone uses to manage agents at work 🆕
+- [[paperclipai-paperclip|paperclip"]] — The open-source app everyone uses to manage agents at work 🔥
 - [[paperless-ngx-paperless-ngx|paperless-ngx"]] — A community-supported supercharged document management syste...
 - [[paperswithbacktest-awesome-systematic-trading|awesome-systematic-trading"]] — A curated list of awesome libraries, packages, strategies, b... 🔥
 - [[par274-sharpemu|sharpemu"]] — An experimental PlayStation 5 emulator project.
@@ -552,7 +554,7 @@
 - [[tencentcloud-octop|Octop"]] — A smarter, self-hosted AI assistant — multi-user, multi-agen... 🆕
 - [[tencentcloud-tencentdb-agent-memory|TencentDB-Agent-Memory"]] — TencentDB Agent Memory is a team-level memory hub for AI Age... 🔥
 - [[teng-lin-notebooklm-py|notebooklm-py"]] — Unofficial Python API and agentic skill for Google NotebookL...
-- [[tensorflow-tensorflow|tensorflow"]] — An Open Source Machine Learning Framework for Everyone 🆕
+- [[tensorflow-tensorflow|tensorflow"]] — An Open Source Machine Learning Framework for Everyone
 - [[teslamate-org-teslamate|teslamate"]] — A self-hosted data logger for your Tesla 🚘 [main maintainer=... 🆕
 - [[the-swarm-corporation-autohedge|AutoHedge"]] — Build your autonomous hedge fund in minutes. AutoHedge harne... 🔥
 - [[thedotmack-claude-mem|claude-mem"]] — Persistent Context Across Sessions for Every Agent – Capture...
@@ -587,6 +589,7 @@
 - [[veracrypt-veracrypt|VeraCrypt"]] — Disk encryption with strong security based on TrueCrypt
 - [[vercel-labs-json-render|json-render"]] — The Generative UI framework
 - [[vercel-labs-portless|portless"]] — Replace port numbers with stable, named local URLs. For huma...
+- [[vercel-labs-scriptc|scriptc"]] — TypeScript-to-Native Compiler 🆕
 - [[vercel-labs-skills|skills"]] — The open agent skills tool - npx skills
 - [[viarotel-org-escrcpy|escrcpy"]] — 📱 Display and control your Android device graphically with s...
 - [[virattt-ai-hedge-fund|ai-hedge-fund"]] — An AI Hedge Fund Team
@@ -600,6 +603,7 @@
 - [[webpack-webpack|webpack"]] — A bundler for javascript and friends. Packs many modules int...
 - [[wei-shaw-sub2api|sub2api"]] — Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，...
 - [[whiskeysockets-baileys|Baileys"]] — Socket-based TS/JavaScript API for WhatsApp Web
+- [[willfaust-madeira|Madeira"]] — Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine... 🆕
 - [[withastro-flue|flue"]] — The sandbox agent framework. 🔥
 - [[wonderwhy-er-desktopcommandermcp|DesktopCommanderMCP"]] — This is MCP server for Claude that gives it terminal control... 🔥
 - [[workweave-router|router"]] — Model router for agentic systems. Routes every prompt to the...

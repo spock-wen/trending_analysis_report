@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[nvidia-model-optimizer]] [[vectorize-io-hindsight]] [[tensorflow-tensorflow]] [[cathrynlavery-diagram-design]]
+[[tensorflow-tensorflow]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[browser-use-video-use]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[education]]
 

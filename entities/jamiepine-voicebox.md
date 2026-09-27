@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[llvm-llvm-project]] [[multimodal-art-projection-yue]] [[dream-num-univer]] [[debpalash-voicestudio]] [[microsoft-vscode]]
+[[tonhowtf-omniget]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[multimodal-art-projection-yue]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

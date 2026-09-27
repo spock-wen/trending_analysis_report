@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[danny-avila-librechat]] [[paperless-ngx-paperless-ngx]] [[nvidia-model-optimizer]] [[llvm-llvm-project]]
+[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[paperless-ngx-paperless-ngx]] [[melgarafael-deskcommcrm]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

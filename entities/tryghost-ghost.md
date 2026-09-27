@@ -35,5 +35,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[addyosmani-agent-skills]] [[pbakaus-impeccable]] [[androoagi-starnet]]
+[[affaan-m-ecc]] [[addyosmani-agent-skills]] [[androoagi-starnet]] [[pbakaus-impeccable]]
 

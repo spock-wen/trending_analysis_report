@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[obra-superpowers]] [[actions-runner-images]] [[paperclipai-paperclip]] [[hkuds-cli-anything]] [[browser-use-video-use]]
+[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[browser-use-video-use]] [[trycua-cua]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[web]] [[cli]]
 

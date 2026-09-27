@@ -35,5 +35,5 @@ Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 
 ## 相关项目
 
-[[yynxxxxx-codex-x]] [[akitaonrails-ai-memory]] [[cloudflare-quiche]] [[block-buzz]]
+[[yynxxxxx-codex-x]] [[block-buzz]] [[cloudflare-quiche]] [[akitaonrails-ai-memory]]
 

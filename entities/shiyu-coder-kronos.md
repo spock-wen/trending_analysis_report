@@ -38,5 +38,5 @@ Kronos: A Foundation Model for the Language of Financial Markets
 
 ## 相关项目
 
-[[anthropics-skills]] [[nvidia-model-optimizer]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]]
+[[nvidia-model-optimizer]] [[vectorize-io-hindsight]] [[debpalash-voicestudio]] [[rohitg00-ai-engineering-from-scratch]]
 

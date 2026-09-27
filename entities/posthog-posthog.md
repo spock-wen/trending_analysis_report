@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[openbao-openbao]] [[davila7-claude-code-templates]]
+[[deusdata-codebase-memory-mcp]] [[supabase-supabase]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

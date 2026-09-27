@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[llvm-llvm-project]] [[actions-runner-images]] [[diolinux-photogimp]] [[fxembed-fxembed]] [[rohitg00-ai-engineering-from-scratch]]
+[[actions-runner-images]] [[zhouxiaoka-autoclip]] [[fxembed-fxembed]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

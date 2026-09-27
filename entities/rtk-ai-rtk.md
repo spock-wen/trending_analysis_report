@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[llvm-llvm-project]] [[actions-runner-images]] [[obra-superpowers]] [[akitaonrails-ai-memory]]
+[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[cloudflare-quiche]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

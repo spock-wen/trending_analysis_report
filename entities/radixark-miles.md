@@ -34,7 +34,7 @@ Miles is an enterprise-facing reinforcement learning framework for LLM and VLM p
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[danny-avila-librechat]] [[nvidia-model-optimizer]] [[llvm-llvm-project]] [[obra-superpowers]]
+[[tensorflow-tensorflow]] [[melgarafael-deskcommcrm]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[education]] [[erp]]
 

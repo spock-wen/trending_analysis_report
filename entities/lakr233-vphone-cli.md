@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[homebrew-brewui]] [[obra-superpowers]] [[actions-runner-images]] [[peetzweg-opendisplay]] [[abue-ammar-tinycast]]
+[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[homebrew-brewui]] [[peetzweg-opendisplay]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[cli]]
 

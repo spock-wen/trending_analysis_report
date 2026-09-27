@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[trycua-cua]] [[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[actions-runner-images]]
+[[actions-runner-images]] [[deusdata-codebase-memory-mcp]] [[supabase-supabase]] [[fxembed-fxembed]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

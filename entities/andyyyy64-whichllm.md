@@ -35,7 +35,7 @@ Find the local LLM that actually runs and performs best on your hardware. Ranked
 
 ## 相关项目
 
-[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[obra-superpowers]] [[vectorize-io-hindsight]] [[actions-runner-images]]
+[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

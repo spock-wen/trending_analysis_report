@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[danny-avila-librechat]] [[obra-superpowers]] [[ever-co-ever-gauzy]] [[tensorflow-tensorflow]]
+[[fmtlib-fmt]] [[tensorflow-tensorflow]] [[melgarafael-deskcommcrm]] [[obra-superpowers]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[erp]]
 

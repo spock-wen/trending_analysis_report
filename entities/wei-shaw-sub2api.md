@@ -34,7 +34,7 @@ Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅
 
 ## 相关项目
 
-[[llvm-llvm-project]] [[openbao-openbao]] [[rohitg00-ai-engineering-from-scratch]] [[agent-substrate-substrate]] [[coder-coder]]
+[[rohitg00-ai-engineering-from-scratch]] [[coder-coder]] [[agent-substrate-substrate]] [[vectorize-io-hindsight]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

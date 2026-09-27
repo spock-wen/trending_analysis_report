@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[llvm-llvm-project]] [[akitaonrails-ai-memory]] [[rohitg00-ai-engineering-from-scratch]] [[yynxxxxx-codex-x]]
+[[cloudflare-quiche]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[block-buzz]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[danny-avila-librechat]] [[obra-superpowers]] [[dream-num-univer]] [[microsoft-vscode]]
+[[melgarafael-deskcommcrm]] [[obra-superpowers]] [[dream-num-univer]] [[browser-use-video-use]] [[vercel-labs-scriptc]]
 
 **所属领域**: [[web]] [[erp]]
 

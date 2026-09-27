@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[llvm-llvm-project]] [[actions-runner-images]] [[rohitg00-ai-engineering-from-scratch]]
+[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

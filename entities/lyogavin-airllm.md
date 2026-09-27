@@ -38,7 +38,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[llvm-llvm-project]] [[microsoft-generative-ai-for-beginners]] [[higgsfield-ai-higgsfield]] [[rohitg00-ai-engineering-from-scratch]] [[microsoft-ai-for-beginners]]
+[[higgsfield-ai-higgsfield]] [[microsoft-generative-ai-for-beginners]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

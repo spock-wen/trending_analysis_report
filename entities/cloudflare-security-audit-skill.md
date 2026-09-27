@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[llvm-llvm-project]] [[affaan-m-ecc]] [[androoagi-starnet]] [[rohitg00-ai-engineering-from-scratch]] [[pbakaus-impeccable]]
+[[nationalsecurityagency-ghidra]] [[pbakaus-impeccable]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

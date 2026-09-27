@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[multimodal-art-projection-yue]]
+[[tensorflow-tensorflow]] [[tonhowtf-omniget]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

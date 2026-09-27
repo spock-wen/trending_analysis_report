@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[obra-superpowers]] [[actions-runner-images]] [[dream-num-univer]]
+[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[tensorflow-tensorflow]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

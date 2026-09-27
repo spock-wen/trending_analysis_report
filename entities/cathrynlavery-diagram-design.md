@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[llvm-llvm-project]] [[rohitg00-ai-engineering-from-scratch]] [[averygan-reclip]] [[paperclipai-paperclip]]
+[[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[browser-use-video-use]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

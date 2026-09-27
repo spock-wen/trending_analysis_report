@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[llvm-llvm-project]] [[openbao-openbao]] [[cathrynlavery-diagram-design]] [[supabase-supabase]]
+[[deusdata-codebase-memory-mcp]] [[supabase-supabase]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

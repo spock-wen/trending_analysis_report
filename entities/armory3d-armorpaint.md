@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[llvm-llvm-project]] [[rohitg00-ai-engineering-from-scratch]] [[justvugg-colibri]] [[opa334-dopamine]] [[paperclipai-paperclip]]
+[[deusdata-codebase-memory-mcp]] [[justvugg-colibri]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

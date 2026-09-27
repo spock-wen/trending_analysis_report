@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[trycua-cua]] [[checkstyle-checkstyle]] [[llvm-llvm-project]] [[actions-runner-images]] [[obra-superpowers]]
+[[infinityloop1308-pipepipe]] [[checkstyle-checkstyle]] [[nationalsecurityagency-ghidra]] [[actions-runner-images]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

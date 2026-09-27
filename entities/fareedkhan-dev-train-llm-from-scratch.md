@@ -37,7 +37,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[trycua-cua]] [[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[openbao-openbao]]
+[[deusdata-codebase-memory-mcp]] [[supabase-supabase]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

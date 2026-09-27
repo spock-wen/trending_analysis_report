@@ -34,7 +34,7 @@ Agent-driven research knowledge base. Agents collect, search, and synthesize web
 
 ## 相关项目
 
-[[paperless-ngx-paperless-ngx]] [[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[affaan-m-ecc]]
+[[paperless-ngx-paperless-ngx]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

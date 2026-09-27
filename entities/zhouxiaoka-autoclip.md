@@ -34,7 +34,7 @@ AutoClip : AI-powered video clipping and highlight generation · 一款智能高
 
 ## 相关项目
 
-[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[obra-superpowers]] [[vectorize-io-hindsight]] [[actions-runner-images]]
+[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[fxembed-fxembed]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[image-gen]]
 

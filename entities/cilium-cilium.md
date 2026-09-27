@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[nvidia-model-optimizer]] [[affaan-m-ecc]] [[openbao-openbao]] [[davila7-claude-code-templates]] [[cloudflare-security-audit-skill]]
+[[nationalsecurityagency-ghidra]] [[coder-coder]] [[agent-substrate-substrate]] [[cloudflare-security-audit-skill]] [[google-ax]]
 
 **所属领域**: [[devops]] [[security]]
 

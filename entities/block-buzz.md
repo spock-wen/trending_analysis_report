@@ -37,5 +37,5 @@ A hive mind communication platform
 
 ## 相关项目
 
-[[yynxxxxx-codex-x]] [[akitaonrails-ai-memory]] [[cloudflare-quiche]]
+[[yynxxxxx-codex-x]] [[cloudflare-quiche]] [[akitaonrails-ai-memory]]
 

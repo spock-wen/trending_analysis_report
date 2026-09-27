@@ -38,7 +38,7 @@ OpenStock is an open-source alternative to expensive market platforms. Track rea
 
 ## 相关项目
 
-[[llvm-llvm-project]] [[dream-num-univer]] [[microsoft-vscode]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-code-action]]
+[[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[vercel-labs-scriptc]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]]
 

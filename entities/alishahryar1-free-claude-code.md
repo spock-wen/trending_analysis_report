@@ -38,7 +38,7 @@ Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your 
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[nvidia-model-optimizer]] [[llvm-llvm-project]] [[obra-superpowers]] [[vectorize-io-hindsight]]
+[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[tonhowtf-omniget]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

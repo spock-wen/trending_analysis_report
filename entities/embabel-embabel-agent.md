@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[llvm-llvm-project]] [[mahlernim-google-timeline-visualizer]] [[rohitg00-ai-engineering-from-scratch]] [[bannedbook-fanqiang]] [[paperclipai-paperclip]]
+[[andreknieriem-headunit-revived]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[bannedbook-fanqiang]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

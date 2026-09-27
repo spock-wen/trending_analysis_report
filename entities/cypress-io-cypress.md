@@ -37,7 +37,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[dream-num-univer]] [[microsoft-vscode]] [[anthropics-claude-code-action]] [[paperclipai-paperclip]] [[hkuds-cli-anything]]
+[[dream-num-univer]] [[browser-use-video-use]] [[vercel-labs-scriptc]] [[trycua-cua]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

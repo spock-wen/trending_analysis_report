@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[trycua-cua]] [[checkstyle-checkstyle]] [[llvm-llvm-project]] [[openbao-openbao]] [[supabase-supabase]]
+[[checkstyle-checkstyle]] [[nationalsecurityagency-ghidra]] [[deusdata-codebase-memory-mcp]] [[supabase-supabase]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[danny-avila-librechat]] [[cloudflare-quiche]] [[llvm-llvm-project]] [[obra-superpowers]]
+[[cloudflare-quiche]] [[melgarafael-deskcommcrm]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[block-buzz]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

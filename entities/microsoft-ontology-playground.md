@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[nvidia-model-optimizer]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[microsoft-vscode]] [[tensorflow-tensorflow]]
+[[tensorflow-tensorflow]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[browser-use-video-use]]
 
 **所属领域**: [[web]] [[education]]
 

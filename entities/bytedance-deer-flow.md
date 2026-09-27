@@ -38,7 +38,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[paperless-ngx-paperless-ngx]] [[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[affaan-m-ecc]]
+[[paperless-ngx-paperless-ngx]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

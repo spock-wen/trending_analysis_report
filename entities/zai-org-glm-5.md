@@ -35,7 +35,7 @@ GLM-5: From Vibe Coding to Agentic Engineering
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[llvm-llvm-project]] [[paperclipai-paperclip]] [[rohitg00-ai-engineering-from-scratch]]
+[[vectorize-io-hindsight]] [[paperclipai-paperclip]] [[dream-num-univer]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]]
 

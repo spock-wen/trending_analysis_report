@@ -38,7 +38,7 @@ Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c
 
 ## 相关项目
 
-[[trycua-cua]] [[llvm-llvm-project]] [[openbao-openbao]] [[supabase-supabase]] [[rohitg00-ai-engineering-from-scratch]]
+[[deusdata-codebase-memory-mcp]] [[supabase-supabase]] [[rohitg00-ai-engineering-from-scratch]] [[coder-coder]] [[agent-substrate-substrate]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

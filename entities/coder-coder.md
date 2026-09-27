@@ -38,7 +38,7 @@ Secure environments for developers and their agents
 
 ## 相关项目
 
-[[llvm-llvm-project]] [[openbao-openbao]] [[rohitg00-ai-engineering-from-scratch]] [[agent-substrate-substrate]] [[paperclipai-paperclip]]
+[[rohitg00-ai-engineering-from-scratch]] [[agent-substrate-substrate]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[google-ax]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[paperless-ngx-paperless-ngx]] [[llvm-llvm-project]] [[dream-num-univer]] [[affaan-m-ecc]] [[microsoft-vscode]]
+[[paperless-ngx-paperless-ngx]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

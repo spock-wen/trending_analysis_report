@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[llvm-llvm-project]] [[obra-superpowers]] [[actions-runner-images]] [[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]]
+[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

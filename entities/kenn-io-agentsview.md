@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[trycua-cua]] [[llvm-llvm-project]] [[openbao-openbao]] [[supabase-supabase]] [[rohitg00-ai-engineering-from-scratch]]
+[[deusdata-codebase-memory-mcp]] [[supabase-supabase]] [[rohitg00-ai-engineering-from-scratch]] [[coder-coder]] [[agent-substrate-substrate]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

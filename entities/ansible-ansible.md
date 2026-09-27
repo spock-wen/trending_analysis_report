@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[davila7-claude-code-templates]] [[anthropics-skills]]
+[[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]] [[browser-use-video-use]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

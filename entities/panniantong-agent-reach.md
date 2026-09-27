@@ -38,7 +38,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## 相关项目
 
-[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[obra-superpowers]] [[vectorize-io-hindsight]] [[actions-runner-images]]
+[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

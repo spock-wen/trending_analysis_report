@@ -35,7 +35,7 @@ Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex 
 
 ## 相关项目
 
-[[llvm-llvm-project]] [[dream-num-univer]] [[microsoft-vscode]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-code-action]]
+[[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[browser-use-video-use]] [[vercel-labs-scriptc]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

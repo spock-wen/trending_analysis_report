@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[obra-superpowers]] [[raphire-win11debloat]] [[paperclipai-paperclip]] [[zhouxiaoka-autoclip]] [[trycua-cua]]
+[[infinityloop1308-pipepipe]] [[zhouxiaoka-autoclip]] [[fxembed-fxembed]] [[raphire-win11debloat]] [[trycua-cua]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

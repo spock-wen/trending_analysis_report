@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[llvm-llvm-project]] [[dream-num-univer]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[microsoft-vscode]]
+[[nationalsecurityagency-ghidra]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[llvm-llvm-project]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[tensorflow-tensorflow]]
+[[fmtlib-fmt]] [[tensorflow-tensorflow]] [[tonhowtf-omniget]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

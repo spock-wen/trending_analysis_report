@@ -38,7 +38,7 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 
 ## 相关项目
 
-[[llvm-llvm-project]] [[dream-num-univer]] [[microsoft-vscode]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-claude-code-action]]
+[[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[vercel-labs-scriptc]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[obra-superpowers]] [[actions-runner-images]] [[dream-num-univer]] [[microsoft-vscode]] [[anthropics-claude-code-action]]
+[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[dream-num-univer]] [[browser-use-video-use]] [[vercel-labs-scriptc]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[paperless-ngx-paperless-ngx]] [[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[actions-runner-images]]
+[[actions-runner-images]] [[zhouxiaoka-autoclip]] [[fxembed-fxembed]] [[paperless-ngx-paperless-ngx]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[llvm-llvm-project]] [[actions-runner-images]] [[rohitg00-ai-engineering-from-scratch]]
+[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

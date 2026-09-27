@@ -36,7 +36,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[homebrew-brewui]] [[llvm-llvm-project]] [[obra-superpowers]] [[actions-runner-images]] [[peetzweg-opendisplay]]
+[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[homebrew-brewui]] [[rohitg00-ai-engineering-from-scratch]] [[peetzweg-opendisplay]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

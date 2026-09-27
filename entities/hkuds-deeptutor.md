@@ -37,7 +37,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[nvidia-model-optimizer]] [[vectorize-io-hindsight]] [[anthropics-skills]] [[rohitg00-ai-engineering-from-scratch]] [[hkuds-cli-anything]]
+[[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[browser-use-video-use]] [[trycua-cua]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[web]]
 

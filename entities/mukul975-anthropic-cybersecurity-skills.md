@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[obra-superpowers]] [[vectorize-io-hindsight]] [[actions-runner-images]]
+[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[nationalsecurityagency-ghidra]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

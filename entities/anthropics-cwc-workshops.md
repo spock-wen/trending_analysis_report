@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[danny-avila-librechat]] [[obra-superpowers]] [[dream-num-univer]] [[microsoft-vscode]]
+[[melgarafael-deskcommcrm]] [[obra-superpowers]] [[ever-co-ever-gauzy]] [[dream-num-univer]] [[vercel-labs-scriptc]]
 
 **所属领域**: [[erp]]
 

@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[llvm-llvm-project]] [[cathrynlavery-diagram-design]] [[rohitg00-ai-engineering-from-scratch]] [[averygan-reclip]]
+[[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[browser-use-video-use]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -38,7 +38,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[llvm-llvm-project]] [[rohitg00-ai-engineering-from-scratch]] [[yuliskov-smarttube]] [[paperclipai-paperclip]]
+[[checkstyle-checkstyle]] [[nationalsecurityagency-ghidra]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

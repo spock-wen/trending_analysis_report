@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[actions-runner-images]] [[affaan-m-ecc]] [[androoagi-starnet]] [[fxembed-fxembed]] [[pbakaus-impeccable]]
+[[actions-runner-images]] [[zhouxiaoka-autoclip]] [[fxembed-fxembed]] [[pbakaus-impeccable]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[web]] [[image-gen]]
 

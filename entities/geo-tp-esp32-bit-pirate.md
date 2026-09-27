@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[trycua-cua]] [[obra-superpowers]] [[actions-runner-images]] [[tensorflow-tensorflow]] [[protocolbuffers-protobuf]]
+[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[fmtlib-fmt]] [[tensorflow-tensorflow]] [[browser-use-video-use]]
 
 **所属领域**: [[web]] [[cli]]
 

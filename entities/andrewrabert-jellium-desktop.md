@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[obra-superpowers]] [[actions-runner-images]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]]
+[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[cloudflare-quiche]] [[block-buzz]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[cli]]
 

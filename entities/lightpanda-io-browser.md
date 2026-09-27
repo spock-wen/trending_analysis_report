@@ -34,7 +34,7 @@ Lightpanda: the headless browser designed for AI and automation
 
 ## 相关项目
 
-[[llvm-llvm-project]] [[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[hkuds-cli-anything]] [[browser-use-video-use]]
+[[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]] [[browser-use-video-use]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

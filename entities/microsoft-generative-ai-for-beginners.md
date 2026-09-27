@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[higgsfield-ai-higgsfield]]
+[[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[tensorflow-tensorflow]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

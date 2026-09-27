@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[justvugg-colibri]] [[opa334-dopamine]] [[nationalsecurityagency-ghidra]]
+[[deusdata-codebase-memory-mcp]] [[nationalsecurityagency-ghidra]] [[justvugg-colibri]] [[cloudflare-security-audit-skill]] [[willfaust-madeira]]
 
 **所属领域**: [[security]]
 

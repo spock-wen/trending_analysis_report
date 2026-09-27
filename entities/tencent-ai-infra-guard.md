@@ -35,7 +35,7 @@ A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skil
 
 ## 相关项目
 
-[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[davila7-claude-code-templates]] [[anthropics-skills]]
+[[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]] [[ruvnet-ruview]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

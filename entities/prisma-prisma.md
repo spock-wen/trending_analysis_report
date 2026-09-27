@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[trycua-cua]] [[actions-runner-images]] [[dream-num-univer]] [[openbao-openbao]] [[microsoft-vscode]]
+[[actions-runner-images]] [[deusdata-codebase-memory-mcp]] [[supabase-supabase]] [[fxembed-fxembed]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[data]] [[image-gen]]
 

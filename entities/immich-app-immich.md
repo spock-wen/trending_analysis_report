@@ -37,5 +37,5 @@ High performance self-hosted photo and video management solution.
 
 ## 相关项目
 
-[[anthropics-claude-code-action]] [[microsoft-vscode]] [[paperclipai-paperclip]] [[dream-num-univer]]
+[[vercel-labs-scriptc]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[dream-num-univer]]
 

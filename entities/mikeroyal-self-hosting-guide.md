@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[tensorflow-tensorflow]] [[rohitg00-ai-engineering-from-scratch]]
+[[tensorflow-tensorflow]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]] [[browser-use-video-use]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

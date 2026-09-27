@@ -34,7 +34,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[androoagi-starnet]] [[pbakaus-impeccable]] [[addyosmani-agent-skills]] [[hkuds-cli-anything]]
+[[pbakaus-impeccable]] [[addyosmani-agent-skills]] [[browser-use-video-use]] [[trycua-cua]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

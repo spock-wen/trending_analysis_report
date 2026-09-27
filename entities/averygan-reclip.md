@@ -35,7 +35,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[obra-superpowers]] [[actions-runner-images]] [[cathrynlavery-diagram-design]] [[paperclipai-paperclip]]
+[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[browser-use-video-use]] [[trycua-cua]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[danny-avila-librechat]] [[lyogavin-airllm]] [[nvidia-model-optimizer]] [[llvm-llvm-project]]
+[[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[microsoft-generative-ai-for-beginners]] [[tensorflow-tensorflow]] [[melgarafael-deskcommcrm]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

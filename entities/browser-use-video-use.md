@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[nvidia-model-optimizer]] [[llvm-llvm-project]] [[vectorize-io-hindsight]] [[anthropics-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]] [[trycua-cua]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

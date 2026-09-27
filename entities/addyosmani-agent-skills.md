@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[llvm-llvm-project]] [[affaan-m-ecc]] [[androoagi-starnet]] [[rohitg00-ai-engineering-from-scratch]] [[pbakaus-impeccable]]
+[[pbakaus-impeccable]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]]
 

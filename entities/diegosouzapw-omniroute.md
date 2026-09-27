@@ -38,7 +38,7 @@ Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),
 
 ## 相关项目
 
-[[llvm-llvm-project]] [[obra-superpowers]] [[actions-runner-images]] [[dream-num-univer]] [[microsoft-vscode]]
+[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

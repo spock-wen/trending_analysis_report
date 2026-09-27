@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[homebrew-brewui]] [[llvm-llvm-project]] [[peetzweg-opendisplay]] [[abue-ammar-tinycast]] [[rohitg00-ai-engineering-from-scratch]]
+[[homebrew-brewui]] [[rohitg00-ai-engineering-from-scratch]] [[peetzweg-opendisplay]] [[vectorize-io-hindsight]] [[lakr233-vphone-cli]]
 
 **所属领域**: [[ai-agent]]
 

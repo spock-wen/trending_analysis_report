@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[block-buzz]] [[hkuds-cli-anything]] [[browser-use-video-use]]
+[[block-buzz]] [[akitaonrails-ai-memory]] [[browser-use-video-use]] [[trycua-cua]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

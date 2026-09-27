@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[obra-superpowers]] [[actions-runner-images]] [[openbao-openbao]] [[agent-substrate-substrate]] [[coder-coder]]
+[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[coder-coder]] [[agent-substrate-substrate]] [[google-ax]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[sonarr-sonarr]] [[llvm-llvm-project]] [[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]] [[rohitg00-ai-engineering-from-scratch]]
+[[sonarr-sonarr]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[jellyfin-jellyfin]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

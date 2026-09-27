@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[dream-num-univer]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[microsoft-vscode]] [[anthropics-claude-code-action]]
+[[nationalsecurityagency-ghidra]] [[dream-num-univer]] [[cloudflare-security-audit-skill]] [[vercel-labs-scriptc]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[security]]
 

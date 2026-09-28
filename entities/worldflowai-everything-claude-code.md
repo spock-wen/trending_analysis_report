@@ -34,7 +34,7 @@ Claude Code toolkit - agents, commands, skills, rules, and hooks for productive 
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[pbakaus-impeccable]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]]
+[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[affaan-m-ecc]] [[mvschwarz-openrig]] [[byoungd-up]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

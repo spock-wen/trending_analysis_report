@@ -38,7 +38,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[supabase-supabase]] [[paperless-ngx-paperless-ngx]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]]
+[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[affaan-m-ecc]] [[rohitg00-ai-engineering-from-scratch]] [[supabase-supabase]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

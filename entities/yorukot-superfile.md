@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[coder-coder]] [[agent-substrate-substrate]] [[google-ax]]
+[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[google-ax]] [[coder-coder]] [[openbao-openbao]]
 
 **所属领域**: [[cli]]
 

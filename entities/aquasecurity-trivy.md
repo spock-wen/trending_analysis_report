@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[rohitg00-ai-engineering-from-scratch]] [[coder-coder]] [[agent-substrate-substrate]] [[vectorize-io-hindsight]]
+[[paperclipai-paperclip]] [[cloudflare-security-audit-skill]] [[google-ax]] [[affaan-m-ecc]] [[coder-coder]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

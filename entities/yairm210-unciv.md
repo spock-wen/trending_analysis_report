@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[andreknieriem-headunit-revived]] [[embabel-embabel-agent]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[bannedbook-fanqiang]]
+[[paperclipai-paperclip]] [[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]] [[mvschwarz-openrig]] [[andreknieriem-headunit-revived]]
 
 **所属领域**: [[ai-agent]]
 

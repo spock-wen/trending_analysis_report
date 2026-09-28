@@ -37,7 +37,7 @@ Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,
 
 ## 相关项目
 
-[[actions-runner-images]] [[zhouxiaoka-autoclip]] [[fxembed-fxembed]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]]
+[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[fxembed-fxembed]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

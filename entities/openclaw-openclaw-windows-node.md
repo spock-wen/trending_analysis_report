@@ -35,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[sonarr-sonarr]] [[jellyfin-jellyfin]] [[k1tbyte-wand-enhancer]]
+[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[cli]]
 

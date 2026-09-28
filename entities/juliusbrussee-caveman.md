@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[coder-coder]] [[agent-substrate-substrate]] [[vectorize-io-hindsight]] [[dream-num-univer]]
+[[paperclipai-paperclip]] [[google-ax]] [[coder-coder]] [[mvschwarz-openrig]] [[openbao-openbao]]
 
 **所属领域**: [[ai-agent]]
 

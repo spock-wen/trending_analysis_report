@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[nvidia-model-optimizer]] [[paperclipai-paperclip]]
+[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[nvidia-model-optimizer]] [[mvschwarz-openrig]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

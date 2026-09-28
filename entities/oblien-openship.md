@@ -36,7 +36,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[dream-num-univer]] [[vercel-labs-scriptc]] [[davila7-claude-code-templates]] [[nvidia-model-optimizer]] [[paperclipai-paperclip]]
+[[paperclipai-paperclip]] [[davila7-claude-code-templates]] [[cilium-cilium]] [[nvidia-model-optimizer]] [[mvschwarz-openrig]]
 
 **所属领域**: [[devops]]
 

@@ -38,5 +38,5 @@ Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, struct
 
 ## 相关项目
 
-[[nvidia-model-optimizer]] [[vectorize-io-hindsight]] [[debpalash-voicestudio]] [[rohitg00-ai-engineering-from-scratch]]
+[[debpalash-voicestudio]] [[vectorize-io-hindsight]] [[nvidia-model-optimizer]] [[rohitg00-ai-engineering-from-scratch]]
 

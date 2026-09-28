@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[tonhowtf-omniget]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]]
+[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[rohitg00-ai-engineering-from-scratch]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[cli]] [[audio]]
 

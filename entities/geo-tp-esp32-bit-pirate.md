@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[fmtlib-fmt]] [[tensorflow-tensorflow]] [[browser-use-video-use]]
+[[paperclipai-paperclip]] [[browser-use-video-use]] [[infinityloop1308-pipepipe]] [[tensorflow-tensorflow]] [[superdesigndev-treg]]
 
 **所属领域**: [[web]] [[cli]]
 

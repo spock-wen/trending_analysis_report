@@ -38,7 +38,7 @@ TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo
 
 ## 相关项目
 
-[[paperless-ngx-paperless-ngx]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]] [[nvidia-model-optimizer]]
+[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[affaan-m-ecc]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

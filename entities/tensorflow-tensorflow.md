@@ -34,7 +34,7 @@ An Open Source Machine Learning Framework for Everyone
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[harry7557558-spirula-studio]] [[nvidia-model-optimizer]]
+[[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]] [[vectorize-io-hindsight]] [[harry7557558-spirula-studio]] [[protocolbuffers-protobuf]]
 
 **所属领域**: [[education]]
 

@@ -37,7 +37,7 @@ Google's open agentic orchestration runtime
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[coder-coder]] [[agent-substrate-substrate]] [[vectorize-io-hindsight]] [[dream-num-univer]]
+[[paperclipai-paperclip]] [[coder-coder]] [[mvschwarz-openrig]] [[openbao-openbao]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]]
 

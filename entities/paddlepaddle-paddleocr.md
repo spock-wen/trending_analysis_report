@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[actions-runner-images]] [[deusdata-codebase-memory-mcp]] [[supabase-supabase]] [[fxembed-fxembed]] [[zhouxiaoka-autoclip]]
+[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[fxembed-fxembed]] [[rohitg00-ai-engineering-from-scratch]] [[supabase-supabase]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

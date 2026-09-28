@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[dream-num-univer]] [[cloudflare-security-audit-skill]] [[vercel-labs-scriptc]] [[zhaoxuya520-reverse-skill]]
+[[paperclipai-paperclip]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[mvschwarz-openrig]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[security]]
 

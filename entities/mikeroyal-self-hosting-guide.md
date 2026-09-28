@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]] [[browser-use-video-use]]
+[[paperclipai-paperclip]] [[browser-use-video-use]] [[hkuds-cli-anything]] [[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

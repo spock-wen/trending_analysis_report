@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]]
+[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[cli]]
 

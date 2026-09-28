@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-29",
+  "scraped_at": "2026-09-29T07:01:05.917502",
+  "period": "daily",
+  "count": 7,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars_today": 3274,
+      "total_stars": 43862,
+      "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+      "rank": 2,
+      "repo": "paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars_today": 3185,
+      "total_stars": 92668,
+      "url": "https://github.com/paperclipai/paperclip"
+    },
+    {
+      "rank": 3,
+      "repo": "vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars_today": 4413,
+      "total_stars": 40891,
+      "url": "https://github.com/vectorize-io/hindsight"
+    },
+    {
+      "rank": 5,
+      "repo": "cs341-illinois/coursebook",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "language": "TeX",
+      "stars_today": 316,
+      "total_stars": 2481,
+      "url": "https://github.com/cs341-illinois/coursebook"
+    },
+    {
+      "rank": 6,
+      "repo": "byoungd/up",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "JavaScript",
+      "stars_today": 310,
+      "total_stars": 64621,
+      "url": "https://github.com/byoungd/up"
+    },
+    {
+      "rank": 7,
+      "repo": "mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "language": "TypeScript",
+      "stars_today": 781,
+      "total_stars": 1674,
+      "url": "https://github.com/mvschwarz/openrig"
+    },
+    {
+      "rank": 8,
+      "repo": "dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars_today": 1105,
+      "total_stars": 21212,
+      "url": "https://github.com/dream-num/univer"
+    }
+  ]
+}

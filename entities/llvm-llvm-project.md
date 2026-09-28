@@ -35,7 +35,7 @@ The LLVM Project is a collection of modular and reusable compiler and toolchain 
 
 ## 相关项目
 
-[[vectorize-io-hindsight]] [[paperclipai-paperclip]] [[dream-num-univer]] [[rohitg00-ai-engineering-from-scratch]]
+[[paperclipai-paperclip]] [[vectorize-io-hindsight]] [[mvschwarz-openrig]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

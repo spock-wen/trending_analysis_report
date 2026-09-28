@@ -34,5 +34,5 @@ An open-source remote desktop application designed for self-hosting, as an alter
 
 ## 相关项目
 
-[[yynxxxxx-codex-x]] [[block-buzz]] [[cloudflare-quiche]] [[akitaonrails-ai-memory]]
+[[block-buzz]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[cloudflare-quiche]]
 

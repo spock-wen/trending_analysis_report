@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[obra-superpowers]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[ever-co-ever-gauzy]]
+[[debpalash-voicestudio]] [[danny-avila-librechat]] [[rohitg00-ai-engineering-from-scratch]] [[ever-co-ever-gauzy]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[erp]]
 

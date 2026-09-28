@@ -36,7 +36,7 @@ The context API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[dream-num-univer]] [[browser-use-video-use]] [[vercel-labs-scriptc]] [[trycua-cua]] [[hkuds-cli-anything]]
+[[paperclipai-paperclip]] [[browser-use-video-use]] [[hkuds-cli-anything]] [[mvschwarz-openrig]] [[superdesigndev-treg]]
 
 **所属领域**: [[web]]
 

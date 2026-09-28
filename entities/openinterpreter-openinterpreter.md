@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[melgarafael-deskcommcrm]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[block-buzz]]
+[[paperclipai-paperclip]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[danny-avila-librechat]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

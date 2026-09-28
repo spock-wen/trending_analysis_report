@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[supabase-supabase]] [[dream-num-univer]] [[browser-use-video-use]] [[vercel-labs-scriptc]]
+[[paperclipai-paperclip]] [[browser-use-video-use]] [[hkuds-cli-anything]] [[supabase-supabase]] [[mvschwarz-openrig]]
 
 **所属领域**: [[web]] [[data]]
 

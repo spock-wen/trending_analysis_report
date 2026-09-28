@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[actions-runner-images]] [[zhouxiaoka-autoclip]] [[fxembed-fxembed]] [[tonhowtf-omniget]] [[vectorize-io-hindsight]]
+[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[fxembed-fxembed]] [[tonhowtf-omniget]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

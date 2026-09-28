@@ -36,7 +36,7 @@ A unified library of SOTA model optimization techniques like quantization, disti
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]] [[ruvnet-ruview]]
+[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[davila7-claude-code-templates]] [[cilium-cilium]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

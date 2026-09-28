@@ -36,5 +36,5 @@ No description
 
 ## 相关项目
 
-[[vercel-labs-scriptc]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[dream-num-univer]]
+[[paperclipai-paperclip]] [[vercel-labs-scriptc]] [[mvschwarz-openrig]] [[dream-num-univer]]
 

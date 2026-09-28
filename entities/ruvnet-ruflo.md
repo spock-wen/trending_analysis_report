@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[vercel-labs-scriptc]]
+[[paperclipai-paperclip]] [[davila7-claude-code-templates]] [[cilium-cilium]] [[rohitg00-ai-engineering-from-scratch]] [[mvschwarz-openrig]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

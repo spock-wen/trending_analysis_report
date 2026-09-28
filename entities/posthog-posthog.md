@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[supabase-supabase]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]]
+[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[browser-use-video-use]] [[hkuds-cli-anything]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

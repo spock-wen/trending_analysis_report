@@ -34,7 +34,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[tensorflow-tensorflow]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]]
+[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[rohitg00-ai-engineering-from-scratch]] [[mvschwarz-openrig]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

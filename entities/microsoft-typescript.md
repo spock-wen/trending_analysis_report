@@ -36,5 +36,5 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 ## 相关项目
 
-[[google-ax]] [[coder-coder]] [[openbao-openbao]] [[agent-substrate-substrate]]
+[[coder-coder]] [[agent-substrate-substrate]] [[google-ax]] [[openbao-openbao]]
 

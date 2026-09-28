@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[supabase-supabase]] [[nationalsecurityagency-ghidra]] [[cloudflare-security-audit-skill]] [[browser-use-video-use]]
+[[browser-use-video-use]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[supabase-supabase]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

@@ -38,7 +38,7 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[addyosmani-agent-skills]]
+[[paperclipai-paperclip]] [[browser-use-video-use]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[mvschwarz-openrig]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

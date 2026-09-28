@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[supabase-supabase]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[trycua-cua]]
+[[debpalash-voicestudio]] [[rohitg00-ai-engineering-from-scratch]] [[supabase-supabase]] [[nvidia-model-optimizer]] [[openbao-openbao]]
 
 **所属领域**: [[data]]
 

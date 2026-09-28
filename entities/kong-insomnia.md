@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[dream-num-univer]] [[browser-use-video-use]] [[vercel-labs-scriptc]]
+[[paperclipai-paperclip]] [[browser-use-video-use]] [[infinityloop1308-pipepipe]] [[hkuds-cli-anything]] [[mvschwarz-openrig]]
 
 **所属领域**: [[web]] [[cli]]
 

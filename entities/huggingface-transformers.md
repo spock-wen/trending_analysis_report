@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[tonhowtf-omniget]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[multimodal-art-projection-yue]]
+[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[tonhowtf-omniget]] [[rohitg00-ai-engineering-from-scratch]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

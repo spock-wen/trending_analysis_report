@@ -34,7 +34,7 @@ AI agent to evaluate and score resumes.
 
 ## 相关项目
 
-[[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]] [[nvidia-model-optimizer]] [[paperclipai-paperclip]]
+[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]] [[mvschwarz-openrig]]
 
 **所属领域**: [[ai-agent]]
 

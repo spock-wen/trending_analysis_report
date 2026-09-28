@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[coder-coder]] [[agent-substrate-substrate]] [[google-ax]] [[ruvnet-ruview]] [[davila7-claude-code-templates]]
+[[davila7-claude-code-templates]] [[google-ax]] [[cilium-cilium]] [[coder-coder]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[devops]]
 

@@ -36,7 +36,7 @@ Open Source AI trading agent that operates autonomously across 1000+ markets - P
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[obra-superpowers]] [[ever-co-ever-gauzy]]
+[[paperclipai-paperclip]] [[danny-avila-librechat]] [[ever-co-ever-gauzy]] [[mvschwarz-openrig]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

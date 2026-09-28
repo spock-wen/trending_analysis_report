@@ -35,5 +35,5 @@ Hyprland is an independent, highly customizable, dynamic tiling Wayland composit
 
 ## 相关项目
 
-[[protocolbuffers-protobuf]] [[harry7557558-spirula-studio]] [[fmtlib-fmt]] [[tensorflow-tensorflow]]
+[[tensorflow-tensorflow]] [[fmtlib-fmt]] [[protocolbuffers-protobuf]] [[harry7557558-spirula-studio]]
 

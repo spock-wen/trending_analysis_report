@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[coder-coder]] [[agent-substrate-substrate]] [[vectorize-io-hindsight]] [[dream-num-univer]]
+[[paperclipai-paperclip]] [[davila7-claude-code-templates]] [[google-ax]] [[cilium-cilium]] [[coder-coder]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

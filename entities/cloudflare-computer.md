@@ -36,7 +36,7 @@ Give your agent a computer 👾
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[vercel-labs-scriptc]] [[paperclipai-paperclip]]
+[[paperclipai-paperclip]] [[mvschwarz-openrig]] [[vectorize-io-hindsight]] [[vercel-labs-scriptc]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

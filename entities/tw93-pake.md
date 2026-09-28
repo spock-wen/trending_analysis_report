@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[cloudflare-quiche]] [[block-buzz]] [[akitaonrails-ai-memory]]
+[[paperclipai-paperclip]] [[browser-use-video-use]] [[infinityloop1308-pipepipe]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[web]] [[cli]]
 

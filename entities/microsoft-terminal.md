@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[fmtlib-fmt]] [[tensorflow-tensorflow]] [[harry7557558-spirula-studio]]
+[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[tensorflow-tensorflow]] [[zhaoxuya520-reverse-skill]] [[harry7557558-spirula-studio]]
 
 **所属领域**: [[cli]]
 

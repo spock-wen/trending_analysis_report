@@ -35,7 +35,7 @@ GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]]
+[[paperclipai-paperclip]] [[browser-use-video-use]] [[infinityloop1308-pipepipe]] [[hkuds-cli-anything]] [[mvschwarz-openrig]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -34,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[justvugg-colibri]] [[willfaust-madeira]] [[armory3d-armorpaint]]
+[[justvugg-colibri]] [[willfaust-madeira]] [[armory3d-armorpaint]] [[deusdata-codebase-memory-mcp]]
 

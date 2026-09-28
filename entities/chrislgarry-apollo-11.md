@@ -37,7 +37,7 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[zhaoxuya520-reverse-skill]] [[paperclipai-paperclip]] [[actions-runner-images]]
+[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[actions-runner-images]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[cli]]
 

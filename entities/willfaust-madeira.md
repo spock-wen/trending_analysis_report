@@ -34,7 +34,7 @@ Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[justvugg-colibri]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]]
+[[paperclipai-paperclip]] [[mvschwarz-openrig]] [[armory3d-armorpaint]] [[vectorize-io-hindsight]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

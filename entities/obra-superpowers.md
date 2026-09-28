@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[melgarafael-deskcommcrm]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]]
+[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[danny-avila-librechat]] [[ever-co-ever-gauzy]] [[mvschwarz-openrig]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

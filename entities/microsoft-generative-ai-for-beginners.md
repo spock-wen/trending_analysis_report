@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[tensorflow-tensorflow]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]]
+[[paperclipai-paperclip]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[rohitg00-ai-engineering-from-scratch]] [[mvschwarz-openrig]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

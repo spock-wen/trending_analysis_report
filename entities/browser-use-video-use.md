@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]] [[trycua-cua]] [[nvidia-model-optimizer]]
+[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[hkuds-cli-anything]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

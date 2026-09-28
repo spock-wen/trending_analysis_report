@@ -35,7 +35,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[browser-use-video-use]] [[trycua-cua]] [[ripienaar-free-for-dev]]
+[[paperclipai-paperclip]] [[browser-use-video-use]] [[infinityloop1308-pipepipe]] [[superdesigndev-treg]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[web]] [[cli]]
 

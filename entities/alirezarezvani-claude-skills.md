@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[paperless-ngx-paperless-ngx]] [[melgarafael-deskcommcrm]] [[vectorize-io-hindsight]]
+[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[danny-avila-librechat]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

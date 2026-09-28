@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[andreknieriem-headunit-revived]] [[embabel-embabel-agent]] [[bannedbook-fanqiang]] [[browser-use-video-use]] [[trycua-cua]]
+[[bannedbook-fanqiang]] [[browser-use-video-use]] [[mahlernim-google-timeline-visualizer]] [[andreknieriem-headunit-revived]] [[superdesigndev-treg]]
 
 **所属领域**: [[web]]
 

@@ -35,5 +35,5 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## 相关项目
 
-[[vercel-labs-scriptc]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[dream-num-univer]]
+[[paperclipai-paperclip]] [[vercel-labs-scriptc]] [[mvschwarz-openrig]] [[dream-num-univer]]
 

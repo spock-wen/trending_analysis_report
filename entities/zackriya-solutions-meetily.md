@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[paperclipai-paperclip]] [[openbao-openbao]] [[yynxxxxx-codex-x]] [[affaan-m-ecc]]
+[[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]] [[openbao-openbao]] [[dream-num-univer]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

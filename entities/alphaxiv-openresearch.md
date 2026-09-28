@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[cloudflare-quiche]] [[paperless-ngx-paperless-ngx]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[block-buzz]]
+[[paperclipai-paperclip]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[affaan-m-ecc]] [[mvschwarz-openrig]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[supabase-supabase]] [[dream-num-univer]] [[vercel-labs-scriptc]] [[trycua-cua]]
+[[paperclipai-paperclip]] [[davila7-claude-code-templates]] [[cilium-cilium]] [[supabase-supabase]] [[mvschwarz-openrig]]
 
 **所属领域**: [[data]] [[devops]]
 

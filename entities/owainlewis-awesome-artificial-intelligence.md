@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[paperless-ngx-paperless-ngx]] [[tensorflow-tensorflow]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]]
+[[paperclipai-paperclip]] [[affaan-m-ecc]] [[rohitg00-ai-engineering-from-scratch]] [[mvschwarz-openrig]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

@@ -34,7 +34,7 @@ Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud model
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[tonhowtf-omniget]] [[pbakaus-impeccable]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]]
+[[paperclipai-paperclip]] [[debpalash-voicestudio]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[ai-agent]] [[security]] [[audio]]
 

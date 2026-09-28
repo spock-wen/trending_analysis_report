@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[nationalsecurityagency-ghidra]] [[deusdata-codebase-memory-mcp]] [[supabase-supabase]] [[trycua-cua]]
+[[yuliskov-smarttube]] [[davila7-claude-code-templates]] [[cilium-cilium]] [[supabase-supabase]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[data]] [[devops]]
 

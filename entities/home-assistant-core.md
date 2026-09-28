@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[cloudflare-security-audit-skill]] [[zhaoxuya520-reverse-skill]]
+[[debpalash-voicestudio]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[security]]
 

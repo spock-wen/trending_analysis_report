@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[justvugg-colibri]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]]
+[[paperclipai-paperclip]] [[mvschwarz-openrig]] [[vectorize-io-hindsight]] [[willfaust-madeira]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

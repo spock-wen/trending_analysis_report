@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[homebrew-brewui]] [[tonhowtf-omniget]] [[rohitg00-ai-engineering-from-scratch]] [[peetzweg-opendisplay]] [[vectorize-io-hindsight]]
+[[paperclipai-paperclip]] [[browser-use-video-use]] [[debpalash-voicestudio]] [[hkuds-cli-anything]] [[tonhowtf-omniget]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

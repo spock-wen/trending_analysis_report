@@ -38,7 +38,7 @@ Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]]
+[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[mvschwarz-openrig]] [[zhaoxuya520-reverse-skill]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

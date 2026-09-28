@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-09-28 | 总页面：640
+> 最后更新：2026-09-29 | 总页面：642
 
 ## Entities
 
@@ -102,6 +102,7 @@
 - [[builderio-agent-native|agent-native"]] — A framework for building agentic apps
 - [[byjoey-cfnew|cfnew"]] — No description
 - [[byoungd-english-level-up-tips|English-level-up-tips"]] — An advanced guide to learn English which might benefit you a...
+- [[byoungd-up|up"]] — An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶... 🆕
 - [[bytebytegohq-system-design-101|system-design-101"]] — Explain complex systems using visuals and simple terms. Help...
 - [[bytedance-deer-flow|deer-flow"]] — An open-source long-horizon SuperAgent harness that research...
 - [[bytedance-ui-tars-desktop|UI-TARS-desktop"]] — The Open-Source Multimodal AI Agent Stack: Connecting Cuttin...
@@ -148,6 +149,7 @@
 - [[corsairdev-corsair|corsair"]] — Connect your users to their apps
 - [[crosstalk-solutions-project-nomad|project-nomad"]] — Project NOMAD is an offline-first knowledge and education se...
 - [[crynta-terax-ai|terax-ai"]] — Lightweight (7MB) Terminal-first AI-native dev workspace
+- [[cs341-illinois-coursebook|coursebook"]] — Open Source Introductory Systems Programming Textbook for th... 🆕
 - [[cupy-cupy|cupy"]] — NumPy & SciPy for GPU 🆕
 - [[cursor-plugins|plugins"]] — Cursor plugin specification and official plugins
 - [[cypress-io-cypress|cypress"]] — Fast, easy and reliable testing for anything that runs in a ...
@@ -160,7 +162,7 @@
 - [[davila7-claude-code-templates|claude-code-templates"]] — CLI tool for configuring and monitoring Claude Code 🆕
 - [[dayuanjiang-next-ai-draw-io|next-ai-draw-io"]] — A next.js web application that integrates AI capabilities wi...
 - [[dbt-labs-dbt-core|dbt-core"]] — dbt enables data analysts and engineers to transform their d...
-- [[debpalash-voicestudio|VoiceStudio"]] — VoiceStudio is the open-source, fully-local ElevenLabs alter...
+- [[debpalash-voicestudio|VoiceStudio"]] — VoiceStudio is the open-source, fully-local ElevenLabs alter... 🆕
 - [[deepfakes-faceswap|faceswap"]] — Deepfakes Software For All
 - [[deepseek-ai-awesome-deepseek-agent|awesome-deepseek-agent"]] — No description
 - [[denoland-celld|celld"]] — self-hosted, distributed Durable Objects 🆕
@@ -271,7 +273,7 @@
 - [[immich-app-immich|immich"]] — High performance self-hosted photo and video management solu...
 - [[imthenachoman-how-to-secure-a-linux-server|How-To-Secure-A-Linux-Server"]] — An evolving how-to guide for securing a Linux server.
 - [[infiniflow-ragflow|ragflow"]] — RAGFlow is a leading open-source Retrieval-Augmented Generat... 🔥
-- [[infinityloop1308-pipepipe|PipePipe"]] — An open-source Android app to let you browse YouTube and oth... 🆕
+- [[infinityloop1308-pipepipe|PipePipe"]] — An open-source Android app to let you browse YouTube and oth...
 - [[influxdata-telegraf|telegraf"]] — Agent for collecting, processing, aggregating, and writing m... 🆕
 - [[interviewstreet-hiring-agent|hiring-agent"]] — AI agent to evaluate and score resumes.
 - [[introduction-to-autonomous-robots-introduction-to-autonomous-robots|Introduction-to-Autonomous-Robots"]] — Introduction to Autonomous Robots 🆕
@@ -589,7 +591,7 @@
 - [[veracrypt-veracrypt|VeraCrypt"]] — Disk encryption with strong security based on TrueCrypt
 - [[vercel-labs-json-render|json-render"]] — The Generative UI framework
 - [[vercel-labs-portless|portless"]] — Replace port numbers with stable, named local URLs. For huma...
-- [[vercel-labs-scriptc|scriptc"]] — TypeScript-to-Native Compiler 🆕
+- [[vercel-labs-scriptc|scriptc"]] — TypeScript-to-Native Compiler
 - [[vercel-labs-skills|skills"]] — The open agent skills tool - npx skills
 - [[viarotel-org-escrcpy|escrcpy"]] — 📱 Display and control your Android device graphically with s...
 - [[virattt-ai-hedge-fund|ai-hedge-fund"]] — An AI Hedge Fund Team
@@ -603,7 +605,7 @@
 - [[webpack-webpack|webpack"]] — A bundler for javascript and friends. Packs many modules int...
 - [[wei-shaw-sub2api|sub2api"]] — Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，...
 - [[whiskeysockets-baileys|Baileys"]] — Socket-based TS/JavaScript API for WhatsApp Web
-- [[willfaust-madeira|Madeira"]] — Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine... 🆕
+- [[willfaust-madeira|Madeira"]] — Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine...
 - [[withastro-flue|flue"]] — The sandbox agent framework. 🔥
 - [[wonderwhy-er-desktopcommandermcp|DesktopCommanderMCP"]] — This is MCP server for Claude that gives it terminal control... 🔥
 - [[workweave-router|router"]] — Model router for agentic systems. Routes every prompt to the...

@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[dream-num-univer]] [[vercel-labs-scriptc]] [[zhaoxuya520-reverse-skill]]
+[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[mvschwarz-openrig]] [[zhaoxuya520-reverse-skill]] [[vercel-labs-scriptc]]
 
 **所属领域**: [[cli]]
 

@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[homebrew-brewui]] [[rohitg00-ai-engineering-from-scratch]] [[peetzweg-opendisplay]] [[vectorize-io-hindsight]] [[lakr233-vphone-cli]]
+[[paperclipai-paperclip]] [[lakr233-vphone-cli]] [[homebrew-brewui]] [[mvschwarz-openrig]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]]
 

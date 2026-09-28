@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[nationalsecurityagency-ghidra]] [[fmtlib-fmt]] [[tensorflow-tensorflow]]
+[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[cli]] [[security]]
 

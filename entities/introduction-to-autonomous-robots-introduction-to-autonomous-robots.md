@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[vectorize-io-hindsight]] [[paperclipai-paperclip]] [[dream-num-univer]] [[rohitg00-ai-engineering-from-scratch]]
+[[paperclipai-paperclip]] [[mvschwarz-openrig]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[cs341-illinois-coursebook]]
 
 **所属领域**: [[ai-agent]]
 

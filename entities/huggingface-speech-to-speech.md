@@ -37,7 +37,7 @@ Build local voice agents with open-source models
 
 ## 相关项目
 
-[[tonhowtf-omniget]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[multimodal-art-projection-yue]] [[dream-num-univer]]
+[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[rohitg00-ai-engineering-from-scratch]] [[multimodal-art-projection-yue]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

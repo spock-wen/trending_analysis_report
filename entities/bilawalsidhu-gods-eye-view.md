@@ -38,7 +38,7 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[supabase-supabase]] [[pbakaus-impeccable]] [[addyosmani-agent-skills]] [[browser-use-video-use]]
+[[browser-use-video-use]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[supabase-supabase]] [[byoungd-up]]
 
 **所属领域**: [[web]] [[data]]
 

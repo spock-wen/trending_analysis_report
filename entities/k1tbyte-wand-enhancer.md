@@ -35,5 +35,5 @@ Advanced UX and interoperability extension for Wand (WeMod) app
 
 ## 相关项目
 
-[[dotnet-aspnetcore]] [[jellyfin-jellyfin]] [[sonarr-sonarr]]
+[[sonarr-sonarr]] [[jellyfin-jellyfin]] [[dotnet-aspnetcore]]
 

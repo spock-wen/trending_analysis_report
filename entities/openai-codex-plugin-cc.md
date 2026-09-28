@@ -38,7 +38,7 @@ Use Codex from Claude Code to review code or delegate tasks.
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[addyosmani-agent-skills]]
+[[paperclipai-paperclip]] [[affaan-m-ecc]] [[mvschwarz-openrig]] [[byoungd-up]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]]
 

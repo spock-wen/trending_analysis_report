@@ -38,7 +38,7 @@ Secure environments for developers and their agents
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[agent-substrate-substrate]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[google-ax]]
+[[paperclipai-paperclip]] [[google-ax]] [[mvschwarz-openrig]] [[openbao-openbao]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]]
 

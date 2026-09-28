@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[cloudflare-security-audit-skill]]
+[[paperclipai-paperclip]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[mvschwarz-openrig]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

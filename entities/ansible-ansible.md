@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]] [[browser-use-video-use]] [[trycua-cua]]
+[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[browser-use-video-use]] [[hkuds-cli-anything]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

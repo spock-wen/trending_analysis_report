@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[actions-runner-images]] [[zhouxiaoka-autoclip]] [[fxembed-fxembed]] [[paperless-ngx-paperless-ngx]] [[vectorize-io-hindsight]]
+[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[fxembed-fxembed]] [[affaan-m-ecc]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

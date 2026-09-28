@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[checkstyle-checkstyle]] [[nationalsecurityagency-ghidra]] [[actions-runner-images]] [[deusdata-codebase-memory-mcp]]
+[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[yuliskov-smarttube]] [[supabase-supabase]] [[mvschwarz-openrig]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

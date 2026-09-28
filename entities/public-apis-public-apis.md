@@ -36,5 +36,5 @@ A collective list of free APIs
 
 ## 相关项目
 
-[[nvidia-model-optimizer]] [[vectorize-io-hindsight]] [[debpalash-voicestudio]] [[rohitg00-ai-engineering-from-scratch]]
+[[debpalash-voicestudio]] [[vectorize-io-hindsight]] [[nvidia-model-optimizer]] [[rohitg00-ai-engineering-from-scratch]]
 

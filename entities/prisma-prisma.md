@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[actions-runner-images]] [[deusdata-codebase-memory-mcp]] [[supabase-supabase]] [[fxembed-fxembed]] [[zhouxiaoka-autoclip]]
+[[paperclipai-paperclip]] [[fxembed-fxembed]] [[supabase-supabase]] [[mvschwarz-openrig]] [[openbao-openbao]]
 
 **所属领域**: [[data]] [[image-gen]]
 

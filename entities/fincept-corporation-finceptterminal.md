@@ -35,7 +35,7 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[deusdata-codebase-memory-mcp]] [[supabase-supabase]] [[paperless-ngx-paperless-ngx]]
+[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[affaan-m-ecc]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[cli]] [[data]] [[science]]
 

@@ -37,7 +37,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[supabase-supabase]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]]
+[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[rohitg00-ai-engineering-from-scratch]] [[supabase-supabase]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

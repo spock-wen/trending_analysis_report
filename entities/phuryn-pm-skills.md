@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[dream-num-univer]]
+[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[mvschwarz-openrig]] [[zhaoxuya520-reverse-skill]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[actions-runner-images]] [[cloudflare-quiche]] [[tensorflow-tensorflow]] [[rohitg00-ai-engineering-from-scratch]]
+[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[debpalash-voicestudio]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

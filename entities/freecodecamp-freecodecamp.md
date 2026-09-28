@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[vercel-labs-scriptc]]
+[[paperclipai-paperclip]] [[rohitg00-ai-engineering-from-scratch]] [[mvschwarz-openrig]] [[nvidia-model-optimizer]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[education]]
 

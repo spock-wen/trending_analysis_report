@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[paperless-ngx-paperless-ngx]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[vercel-labs-scriptc]]
+[[paperclipai-paperclip]] [[affaan-m-ecc]] [[mvschwarz-openrig]] [[zhaoxuya520-reverse-skill]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

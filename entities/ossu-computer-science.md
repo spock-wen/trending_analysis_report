@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[browser-use-video-use]] [[trycua-cua]] [[ripienaar-free-for-dev]] [[hkuds-cli-anything]] [[averygan-reclip]]
+[[browser-use-video-use]] [[superdesigndev-treg]] [[averygan-reclip]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

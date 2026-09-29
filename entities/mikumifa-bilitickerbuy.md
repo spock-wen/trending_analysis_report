@@ -34,5 +34,5 @@ b站会员购购票辅助工具
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[vectorize-io-hindsight]] [[nvidia-model-optimizer]] [[rohitg00-ai-engineering-from-scratch]]
+[[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[vectifyai-pageindex]] [[vectorize-io-hindsight]]
 

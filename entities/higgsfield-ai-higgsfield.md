@@ -35,7 +35,7 @@ Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[microsoft-generative-ai-for-beginners]] [[rohitg00-ai-engineering-from-scratch]]
+[[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[paperclipai-paperclip]] [[microsoft-generative-ai-for-beginners]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

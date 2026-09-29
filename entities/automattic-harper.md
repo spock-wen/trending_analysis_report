@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]]
+[[nationalsecurityagency-ghidra]] [[cloudflare-security-audit-skill]] [[akitaonrails-ai-memory]] [[nvidia-openshell]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[browser-use-video-use]] [[fxembed-fxembed]] [[hkuds-cli-anything]] [[diolinux-photogimp]]
+[[rohitg00-ai-engineering-from-scratch]] [[nutlope-hallmark]] [[rakyll-hey]] [[trycua-cua]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

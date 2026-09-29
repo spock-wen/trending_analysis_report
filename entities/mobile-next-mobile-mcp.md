@@ -34,7 +34,7 @@ Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, 
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[mvschwarz-openrig]] [[vectorize-io-hindsight]] [[vercel-labs-scriptc]] [[dream-num-univer]]
+[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[dream-num-univer]] [[oblien-openship]]
 
 **所属领域**: [[ai-agent]]
 

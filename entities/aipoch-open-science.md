@@ -34,7 +34,7 @@ Open Science by AIPOCH is an open-source, local-first, model-agnostic AI researc
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[affaan-m-ecc]] [[supabase-supabase]] [[mvschwarz-openrig]] [[openbao-openbao]]
+[[rohitg00-ai-engineering-from-scratch]] [[trycua-cua]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

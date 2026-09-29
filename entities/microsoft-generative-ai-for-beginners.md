@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[rohitg00-ai-engineering-from-scratch]] [[mvschwarz-openrig]]
+[[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[lyogavin-airllm]] [[paperclipai-paperclip]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

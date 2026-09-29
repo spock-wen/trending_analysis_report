@@ -38,7 +38,7 @@ Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[affaan-m-ecc]] [[mvschwarz-openrig]] [[byoungd-up]] [[vectorize-io-hindsight]]
+[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[byoungd-up]] [[affaan-m-ecc]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

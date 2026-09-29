@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[mvschwarz-openrig]] [[vectorize-io-hindsight]] [[docusealco-docuseal]] [[dream-num-univer]]
+[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[docusealco-docuseal]] [[dream-num-univer]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]]
 

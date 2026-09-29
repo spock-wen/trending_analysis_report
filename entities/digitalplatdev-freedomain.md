@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[browser-use-video-use]] [[hkuds-cli-anything]] [[mvschwarz-openrig]] [[superdesigndev-treg]]
+[[rohitg00-ai-engineering-from-scratch]] [[trycua-cua]] [[rakyll-hey]] [[paperclipai-paperclip]] [[superdesigndev-treg]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[browser-use-video-use]] [[fxembed-fxembed]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[byoungd-up]]
+[[rakyll-hey]] [[trycua-cua]] [[superdesigndev-treg]] [[byoungd-up]] [[affaan-m-ecc]]
 
 **所属领域**: [[web]] [[image-gen]]
 

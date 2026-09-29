@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[plausible-analytics]] [[supabase-supabase]] [[mvschwarz-openrig]] [[openbao-openbao]]
+[[plausible-analytics]] [[rohitg00-ai-engineering-from-scratch]] [[trycua-cua]] [[paperclipai-paperclip]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

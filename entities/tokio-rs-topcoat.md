@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[browser-use-video-use]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[superdesigndev-treg]] [[block-buzz]]
+[[rakyll-hey]] [[superdesigndev-treg]] [[akitaonrails-ai-memory]] [[block-buzz]] [[t8y2-dbx]]
 
 **所属领域**: [[web]]
 

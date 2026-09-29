@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[browser-use-video-use]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[supabase-supabase]]
+[[rohitg00-ai-engineering-from-scratch]] [[rakyll-hey]] [[trycua-cua]] [[paperclipai-paperclip]] [[superdesigndev-treg]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

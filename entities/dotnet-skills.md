@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]] [[mvschwarz-openrig]] [[vectorize-io-hindsight]]
+[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[dotnet-aspnetcore]] [[sonarr-sonarr]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

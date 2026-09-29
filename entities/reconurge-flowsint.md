@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[mvschwarz-openrig]] [[nationalsecurityagency-ghidra]]
+[[nationalsecurityagency-ghidra]] [[cloudflare-security-audit-skill]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

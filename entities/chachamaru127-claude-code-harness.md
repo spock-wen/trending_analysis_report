@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[obra-superpowers]] [[nvm-sh-nvm]] [[mvschwarz-openrig]]
+[[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[mvschwarz-openrig]] [[zhaoxuya520-reverse-skill]] [[vectorize-io-hindsight]]
+[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[nvidia-openshell]] [[dream-num-univer]] [[t8y2-dbx]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

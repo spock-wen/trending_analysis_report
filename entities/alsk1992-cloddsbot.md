@@ -36,7 +36,7 @@ Open Source AI trading agent that operates autonomously across 1000+ markets - P
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[danny-avila-librechat]] [[ever-co-ever-gauzy]] [[mvschwarz-openrig]] [[obra-superpowers]]
+[[ever-co-ever-gauzy]] [[rohitg00-ai-engineering-from-scratch]] [[melgarafael-deskcommcrm]] [[paperclipai-paperclip]] [[mvschwarz-openrig]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

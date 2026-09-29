@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[browser-use-video-use]] [[hkuds-cli-anything]] [[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]]
+[[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[rakyll-hey]] [[paperclipai-paperclip]] [[mvschwarz-openrig]]
 
 **所属领域**: [[web]] [[education]]
 

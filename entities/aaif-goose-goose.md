@@ -36,7 +36,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[mvschwarz-openrig]] [[vectorize-io-hindsight]]
+[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[akitaonrails-ai-memory]] [[block-buzz]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

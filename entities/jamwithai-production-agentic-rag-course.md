@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]] [[mvschwarz-openrig]]
+[[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[cs341-illinois-coursebook]] [[vectifyai-pageindex]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

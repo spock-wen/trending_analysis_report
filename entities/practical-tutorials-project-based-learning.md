@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]] [[vectorize-io-hindsight]] [[cs341-illinois-coursebook]]
+[[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[cs341-illinois-coursebook]] [[vectifyai-pageindex]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[education]]
 

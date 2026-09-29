@@ -34,5 +34,5 @@ TypeScript-to-Native Compiler
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[mvschwarz-openrig]] [[dream-num-univer]]
+[[paperclipai-paperclip]] [[mvschwarz-openrig]] [[dream-num-univer]] [[oblien-openship]]
 

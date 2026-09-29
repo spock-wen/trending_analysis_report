@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[browser-use-video-use]] [[infinityloop1308-pipepipe]] [[tensorflow-tensorflow]] [[superdesigndev-treg]]
+[[tensorflow-tensorflow]] [[rakyll-hey]] [[paperclipai-paperclip]] [[superdesigndev-treg]] [[nvidia-openshell]]
 
 **所属领域**: [[web]] [[cli]]
 

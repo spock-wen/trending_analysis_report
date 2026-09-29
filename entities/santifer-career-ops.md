@@ -38,7 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[affaan-m-ecc]] [[mvschwarz-openrig]] [[byoungd-up]]
+[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[nvidia-openshell]] [[byoungd-up]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

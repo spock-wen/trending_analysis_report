@@ -37,7 +37,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[browser-use-video-use]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]] [[superdesigndev-treg]]
+[[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[vectifyai-pageindex]] [[rakyll-hey]] [[superdesigndev-treg]]
 
 **所属领域**: [[web]]
 

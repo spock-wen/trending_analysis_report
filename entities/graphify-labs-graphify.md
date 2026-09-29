@@ -36,7 +36,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[openbao-openbao]] [[dream-num-univer]] [[deusdata-codebase-memory-mcp]] [[paperclipai-paperclip]]
+[[cilium-cilium]] [[rohitg00-ai-engineering-from-scratch]] [[affaan-m-ecc]] [[fxembed-fxembed]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

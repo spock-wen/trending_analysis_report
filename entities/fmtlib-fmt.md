@@ -37,5 +37,5 @@ A modern formatting library
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[protocolbuffers-protobuf]] [[harry7557558-spirula-studio]]
+[[tensorflow-tensorflow]] [[harry7557558-spirula-studio]] [[protocolbuffers-protobuf]]
 

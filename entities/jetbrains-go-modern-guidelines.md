@@ -36,7 +36,7 @@ Help AI coding agents write modern Go
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[google-ax]] [[coder-coder]] [[mvschwarz-openrig]] [[openbao-openbao]]
+[[rohitg00-ai-engineering-from-scratch]] [[rakyll-hey]] [[paperclipai-paperclip]] [[google-ax]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

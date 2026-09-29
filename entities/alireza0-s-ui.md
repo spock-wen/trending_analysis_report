@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[browser-use-video-use]] [[google-ax]] [[coder-coder]] [[openbao-openbao]] [[superdesigndev-treg]]
+[[rakyll-hey]] [[google-ax]] [[superdesigndev-treg]] [[openbao-openbao]] [[averygan-reclip]]
 
 **所属领域**: [[web]]
 

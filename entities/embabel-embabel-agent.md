@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]] [[mvschwarz-openrig]] [[andreknieriem-headunit-revived]]
+[[rohitg00-ai-engineering-from-scratch]] [[mahlernim-google-timeline-visualizer]] [[bannedbook-fanqiang]] [[paperclipai-paperclip]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

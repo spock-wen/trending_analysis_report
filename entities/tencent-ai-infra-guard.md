@@ -35,7 +35,7 @@ A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skil
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[davila7-claude-code-templates]] [[cilium-cilium]] [[rohitg00-ai-engineering-from-scratch]]
+[[cilium-cilium]] [[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[vectifyai-pageindex]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

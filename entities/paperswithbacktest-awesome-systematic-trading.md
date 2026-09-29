@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[affaan-m-ecc]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]]
+[[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[cs341-illinois-coursebook]] [[vectifyai-pageindex]] [[paperclipai-paperclip]]
 
 **所属领域**: [[education]] [[science]]
 

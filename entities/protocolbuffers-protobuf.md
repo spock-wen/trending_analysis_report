@@ -36,7 +36,7 @@ Protocol Buffers - Google's data interchange format
 
 ## 相关项目
 
-[[supabase-supabase]] [[tensorflow-tensorflow]] [[openbao-openbao]] [[harry7557558-spirula-studio]] [[trycua-cua]]
+[[tensorflow-tensorflow]] [[trycua-cua]] [[deusdata-codebase-memory-mcp]] [[openbao-openbao]] [[t8y2-dbx]]
 
 **所属领域**: [[data]]
 

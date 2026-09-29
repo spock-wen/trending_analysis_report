@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[obra-superpowers]] [[nvm-sh-nvm]] [[zhaoxuya520-reverse-skill]]
+[[obra-superpowers]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[nvm-sh-nvm]] [[averygan-reclip]]
 
 **所属领域**: [[cli]]
 

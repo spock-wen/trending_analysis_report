@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[davila7-claude-code-templates]] [[cilium-cilium]] [[supabase-supabase]] [[mvschwarz-openrig]]
+[[cilium-cilium]] [[trycua-cua]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[dream-num-univer]]
 
 **所属领域**: [[data]] [[devops]]
 

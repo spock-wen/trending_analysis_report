@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[browser-use-video-use]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[mvschwarz-openrig]]
+[[rohitg00-ai-engineering-from-scratch]] [[rakyll-hey]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[superdesigndev-treg]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

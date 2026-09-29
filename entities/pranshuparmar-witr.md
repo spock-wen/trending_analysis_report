@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[google-ax]] [[coder-coder]] [[mvschwarz-openrig]]
+[[rohitg00-ai-engineering-from-scratch]] [[rakyll-hey]] [[paperclipai-paperclip]] [[google-ax]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

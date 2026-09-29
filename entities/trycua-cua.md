@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[browser-use-video-use]] [[fxembed-fxembed]] [[hkuds-cli-anything]] [[supabase-supabase]]
+[[rohitg00-ai-engineering-from-scratch]] [[rakyll-hey]] [[paperclipai-paperclip]] [[superdesigndev-treg]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

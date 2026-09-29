@@ -37,5 +37,5 @@ language: "Rust"
 
 ## 相关项目
 
-[[block-buzz]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[cloudflare-quiche]]
+[[block-buzz]] [[t8y2-dbx]] [[akitaonrails-ai-memory]] [[nvidia-openshell]]
 

@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[homebrew-brewui]] [[zhaoxuya520-reverse-skill]] [[actions-runner-images]]
+[[peetzweg-opendisplay]] [[paperclipai-paperclip]] [[homebrew-brewui]] [[abue-ammar-tinycast]] [[averygan-reclip]]
 
 **所属领域**: [[cli]]
 

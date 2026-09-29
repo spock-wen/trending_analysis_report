@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[browser-use-video-use]] [[fxembed-fxembed]] [[superdesigndev-treg]] [[zhouxiaoka-autoclip]] [[averygan-reclip]]
+[[rakyll-hey]] [[trycua-cua]] [[superdesigndev-treg]] [[actions-runner-images]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[web]] [[image-gen]]
 

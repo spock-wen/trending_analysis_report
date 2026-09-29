@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[androoagi-starnet]] [[affaan-m-ecc]] [[byoungd-up]]
+[[byoungd-up]] [[affaan-m-ecc]] [[androoagi-starnet]] [[pbakaus-impeccable]]
 

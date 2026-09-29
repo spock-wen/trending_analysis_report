@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[browser-use-video-use]] [[rohitg00-ai-engineering-from-scratch]] [[supabase-supabase]] [[nvidia-model-optimizer]]
+[[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[vectifyai-pageindex]] [[rakyll-hey]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[data]]
 

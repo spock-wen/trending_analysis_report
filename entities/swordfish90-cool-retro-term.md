@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[actions-runner-images]] [[zhaoxuya520-reverse-skill]]
+[[paperclipai-paperclip]] [[t8y2-dbx]] [[averygan-reclip]] [[nvidia-openshell]]
 
 **所属领域**: [[cli]]
 

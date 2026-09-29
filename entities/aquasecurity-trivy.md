@@ -37,7 +37,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[cloudflare-security-audit-skill]] [[google-ax]] [[affaan-m-ecc]] [[coder-coder]]
+[[nationalsecurityagency-ghidra]] [[rohitg00-ai-engineering-from-scratch]] [[cloudflare-security-audit-skill]] [[rakyll-hey]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

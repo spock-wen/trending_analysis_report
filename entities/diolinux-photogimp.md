@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[browser-use-video-use]] [[danny-avila-librechat]] [[ever-co-ever-gauzy]] [[obra-superpowers]] [[melgarafael-deskcommcrm]]
+[[ever-co-ever-gauzy]] [[rakyll-hey]] [[melgarafael-deskcommcrm]] [[obra-superpowers]] [[superdesigndev-treg]]
 
 **所属领域**: [[web]] [[erp]]
 

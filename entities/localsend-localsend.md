@@ -35,7 +35,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[chen08209-flclash]] [[flutter-flutter]] [[mvschwarz-openrig]] [[vectorize-io-hindsight]]
+[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[dream-num-univer]] [[vectorize-io-hindsight]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]]
 

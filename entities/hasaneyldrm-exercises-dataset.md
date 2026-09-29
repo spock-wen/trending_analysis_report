@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[browser-use-video-use]] [[hkuds-cli-anything]] [[supabase-supabase]] [[mvschwarz-openrig]]
+[[rohitg00-ai-engineering-from-scratch]] [[trycua-cua]] [[rakyll-hey]] [[paperclipai-paperclip]] [[superdesigndev-treg]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

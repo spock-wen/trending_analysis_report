@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[danny-avila-librechat]] [[ever-co-ever-gauzy]] [[mvschwarz-openrig]] [[obra-superpowers]]
+[[melgarafael-deskcommcrm]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[obra-superpowers]] [[dream-num-univer]]
 
 **所属领域**: [[erp]]
 

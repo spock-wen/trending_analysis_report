@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[danny-avila-librechat]] [[affaan-m-ecc]]
+[[ever-co-ever-gauzy]] [[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[vectifyai-pageindex]] [[melgarafael-deskcommcrm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

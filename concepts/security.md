@@ -1,7 +1,7 @@
 ---
 title: "security"
 created: 2026-05-26
-updated: 2026-09-29
+updated: 2026-09-30
 type: concept
 tags: [security]
 confidence: medium

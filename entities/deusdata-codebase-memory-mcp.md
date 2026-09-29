@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[supabase-supabase]] [[mvschwarz-openrig]] [[armory3d-armorpaint]] [[openbao-openbao]]
+[[rohitg00-ai-engineering-from-scratch]] [[trycua-cua]] [[paperclipai-paperclip]] [[justvugg-colibri]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

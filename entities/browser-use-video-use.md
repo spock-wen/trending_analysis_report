@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[hkuds-cli-anything]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]]
+[[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[vectifyai-pageindex]] [[rakyll-hey]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

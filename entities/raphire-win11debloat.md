@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[actions-runner-images]] [[zhaoxuya520-reverse-skill]]
+[[paperclipai-paperclip]] [[actions-runner-images]] [[zhaoxuya520-reverse-skill]] [[averygan-reclip]] [[t8y2-dbx]]
 
 **所属领域**: [[cli]]
 

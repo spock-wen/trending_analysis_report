@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[yuliskov-smarttube]] [[supabase-supabase]] [[mvschwarz-openrig]]
+[[nationalsecurityagency-ghidra]] [[rohitg00-ai-engineering-from-scratch]] [[trycua-cua]] [[paperclipai-paperclip]] [[google-guava]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

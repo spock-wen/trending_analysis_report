@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[fxembed-fxembed]] [[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]] [[zhouxiaoka-autoclip]]
+[[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[vectifyai-pageindex]] [[trycua-cua]] [[actions-runner-images]]
 
 **所属领域**: [[image-gen]]
 

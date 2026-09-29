@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[zhaoxuya520-reverse-skill]]
+[[paperclipai-paperclip]] [[akitaonrails-ai-memory]] [[block-buzz]] [[t8y2-dbx]] [[averygan-reclip]]
 
 **所属领域**: [[cli]]
 

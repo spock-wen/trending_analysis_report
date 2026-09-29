@@ -1,20 +1,20 @@
 ---
 title: "averygan/reclip"
 created: 2026-09-02
-updated: 2026-09-04
-last_active: 2026-09-04
+updated: 2026-09-30
+last_active: 2026-09-30
 type: tool
 tags: [web, cli]
-sources: [raw/trending/2026-09-04.json]
-confidence: medium
-trending_count_daily: 2
+sources: [raw/trending/2026-09-30.json]
+confidence: high
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-09-02
-last_trending: 2026-09-04
-peak_rank: 10
-total_stars: 8335
+last_trending: 2026-09-30
+peak_rank: 8
+total_stars: 10057
 language: "HTML"
 ---
 
@@ -23,19 +23,20 @@ language: "HTML"
 Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
 
 - 语言: HTML
-- 上榜次数: 2 次
+- 上榜次数: 3 次
 - 连续上榜: 1 天
-- 最高排名: #10
+- 最高排名: #8
 - 链接: [averygan/reclip](https://github.com/averygan/reclip)
 
 ## 上榜历史
 
+  - 2026-09-30: #8, +301⭐
   - 2026-09-04: #10, +123⭐
   - 2026-09-02: #12, +21⭐
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[browser-use-video-use]] [[infinityloop1308-pipepipe]] [[superdesigndev-treg]] [[zhaoxuya520-reverse-skill]]
+[[rakyll-hey]] [[trycua-cua]] [[paperclipai-paperclip]] [[superdesigndev-treg]] [[nvidia-openshell]]
 
 **所属领域**: [[web]] [[cli]]
 

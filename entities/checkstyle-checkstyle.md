@@ -35,7 +35,7 @@ Checkstyle is a development tool to help programmers write Java code that adhere
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[yuliskov-smarttube]] [[nationalsecurityagency-ghidra]] [[zhaoxuya520-reverse-skill]]
+[[nationalsecurityagency-ghidra]] [[paperclipai-paperclip]] [[google-guava]] [[t8y2-dbx]] [[averygan-reclip]]
 
 **所属领域**: [[cli]]
 

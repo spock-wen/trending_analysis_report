@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[tonhowtf-omniget]] [[rohitg00-ai-engineering-from-scratch]] [[multimodal-art-projection-yue]]
+[[multimodal-art-projection-yue]] [[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[cs341-illinois-coursebook]] [[vectifyai-pageindex]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

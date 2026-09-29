@@ -35,7 +35,7 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[affaan-m-ecc]] [[mvschwarz-openrig]] [[byoungd-up]] [[vectorize-io-hindsight]]
+[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[byoungd-up]] [[affaan-m-ecc]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

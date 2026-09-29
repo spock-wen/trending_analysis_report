@@ -35,7 +35,7 @@ OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换�
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[akitaonrails-ai-memory]] [[mvschwarz-openrig]] [[zhaoxuya520-reverse-skill]]
+[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[akitaonrails-ai-memory]] [[block-buzz]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

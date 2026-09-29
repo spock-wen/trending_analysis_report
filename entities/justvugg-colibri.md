@@ -38,5 +38,5 @@ Run frontier MoE models on hardware you already own — pure C, zero deps, exper
 
 ## 相关项目
 
-[[armory3d-armorpaint]] [[willfaust-madeira]] [[deusdata-codebase-memory-mcp]]
+[[armory3d-armorpaint]] [[deusdata-codebase-memory-mcp]] [[willfaust-madeira]]
 

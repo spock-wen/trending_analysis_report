@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[browser-use-video-use]] [[hkuds-cli-anything]] [[obra-superpowers]]
+[[rohitg00-ai-engineering-from-scratch]] [[rakyll-hey]] [[obra-superpowers]] [[mattpocock-skills]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

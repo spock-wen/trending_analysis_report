@@ -36,5 +36,5 @@ Jenkins automation server
 
 ## 相关项目
 
-[[yuliskov-smarttube]] [[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]] [[google-guava]]
+[[nationalsecurityagency-ghidra]] [[yuliskov-smarttube]] [[checkstyle-checkstyle]] [[google-guava]]
 

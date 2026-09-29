@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[browser-use-video-use]] [[hkuds-cli-anything]] [[supabase-supabase]] [[mvschwarz-openrig]]
+[[rakyll-hey]] [[trycua-cua]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[superdesigndev-treg]]
 
 **所属领域**: [[web]] [[data]]
 

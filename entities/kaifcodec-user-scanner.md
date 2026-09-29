@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[rohitg00-ai-engineering-from-scratch]]
+[[nationalsecurityagency-ghidra]] [[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[cloudflare-security-audit-skill]] [[vectifyai-pageindex]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

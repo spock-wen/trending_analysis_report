@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-09-29 | 总页面：642
+> 最后更新：2026-09-30 | 总页面：646
 
 ## Entities
 
@@ -102,7 +102,7 @@
 - [[builderio-agent-native|agent-native"]] — A framework for building agentic apps
 - [[byjoey-cfnew|cfnew"]] — No description
 - [[byoungd-english-level-up-tips|English-level-up-tips"]] — An advanced guide to learn English which might benefit you a...
-- [[byoungd-up|up"]] — An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶... 🆕
+- [[byoungd-up|up"]] — An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶...
 - [[bytebytegohq-system-design-101|system-design-101"]] — Explain complex systems using visuals and simple terms. Help...
 - [[bytedance-deer-flow|deer-flow"]] — An open-source long-horizon SuperAgent harness that research...
 - [[bytedance-ui-tars-desktop|UI-TARS-desktop"]] — The Open-Source Multimodal AI Agent Stack: Connecting Cuttin...
@@ -162,7 +162,7 @@
 - [[davila7-claude-code-templates|claude-code-templates"]] — CLI tool for configuring and monitoring Claude Code 🆕
 - [[dayuanjiang-next-ai-draw-io|next-ai-draw-io"]] — A next.js web application that integrates AI capabilities wi...
 - [[dbt-labs-dbt-core|dbt-core"]] — dbt enables data analysts and engineers to transform their d...
-- [[debpalash-voicestudio|VoiceStudio"]] — VoiceStudio is the open-source, fully-local ElevenLabs alter... 🆕
+- [[debpalash-voicestudio|VoiceStudio"]] — VoiceStudio is the open-source, fully-local ElevenLabs alter... 🔥
 - [[deepfakes-faceswap|faceswap"]] — Deepfakes Software For All
 - [[deepseek-ai-awesome-deepseek-agent|awesome-deepseek-agent"]] — No description
 - [[denoland-celld|celld"]] — self-hosted, distributed Durable Objects 🆕
@@ -398,7 +398,7 @@
 - [[multimodal-art-projection-yue|YuE"]] — YuE2: frontier music generation with symbolic planning, zero...
 - [[music-assistant-server|server"]] — Music Assistant is a free, opensource Media library manager ... 🔥
 - [[mvanhorn-last30days-skill|last30days-skill"]] — AI agent skill that researches any topic across Reddit, X, Y...
-- [[mvschwarz-openrig|openrig"]] — Multi-agent harness that runs Claude Code and Codex together... 🆕
+- [[mvschwarz-openrig|openrig"]] — Multi-agent harness that runs Claude Code and Codex together... 🔥
 - [[mvt-project-mvt|mvt"]] — MVT (Mobile Verification Toolkit) helps with conducting fore... 🔥
 - [[n0-computer-iroh|iroh"]] — IP addresses break, dial keys instead. Modular networking st... 🔥
 - [[n8n-io-n8n|n8n"]] — Fair-code workflow automation platform with native AI capabi...
@@ -417,10 +417,11 @@
 - [[nvidia-cosmos|cosmos"]] — NVIDIA Cosmos is an open platform of world models, datasets,... 🆕
 - [[nvidia-model-optimizer|Model-Optimizer"]] — A unified library of SOTA model optimization techniques like... 🔥
 - [[nvidia-nemo-switchyard|Switchyard"]] — Switchyard lets LLM applications route traffic across models... 🆕
+- [[nvidia-openshell|OpenShell"]] — OpenShell is the safe, private runtime for autonomous AI age... 🆕
 - [[nvidia-skillspector|SkillSpector"]] — Security scanner for AI agent skills. Detect vulnerabilities... 🔥
 - [[nvlabs-sana|Sana"]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
 - [[nvm-sh-nvm|nvm"]] — Node Version Manager - POSIX-compliant bash script to manage...
-- [[oblien-openship|openship"]] — Self-hosted deployment platform 🔥
+- [[oblien-openship|openship"]] — Self-hosted deployment platform
 - [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo... 🔥
 - [[ocornut-imgui|imgui"]] — Dear ImGui: Bloat-free Graphical User interface for C++ with...
 - [[odoo-odoo|odoo"]] — Odoo. Open Source Apps To Grow Your Business.
@@ -487,6 +488,7 @@
 - [[pytest-dev-pytest|pytest"]] — The pytest framework makes it easy to write small tests, yet...
 - [[pytorch-pytorch|pytorch"]] — Tensors and Dynamic neural networks in Python with strong GP... 🆕
 - [[radixark-miles|miles"]] — Miles is an enterprise-facing reinforcement learning framewo...
+- [[rakyll-hey|hey"]] — HTTP load generator, ApacheBench (ab) replacement 🆕
 - [[raphire-win11debloat|Win11Debloat"]] — A simple, lightweight PowerShell script that allows you to r... 🆕
 - [[reconurge-flowsint|flowsint"]] — A modern platform for visual, flexible, and extensible graph...
 - [[refactoringhq-tolaria|tolaria"]] — Desktop app to manage markdown knowledge bases
@@ -498,7 +500,7 @@
 - [[robbyant-lingbot-map|lingbot-map"]] — A feed-forward 3D foundation model for reconstructing scenes...
 - [[roboflow-supervision|supervision"]] — We write your reusable computer vision tools. 💜 🆕
 - [[rohitg00-agentmemory|agentmemory"]] — - 语言: TypeScript 🆕
-- [[rohitg00-ai-engineering-from-scratch|ai-engineering-from-scratch"]] — Learn it. Build it. Ship it for others. 🔥
+- [[rohitg00-ai-engineering-from-scratch|ai-engineering-from-scratch"]] — Learn it. Build it. Ship it for others.
 - [[rommapp-romm|romm"]] — A beautiful, powerful, self-hosted rom manager and player. 🔥
 - [[rtk-ai-rtk|rtk"]] — CLI proxy that reduces LLM token consumption by 60-90% on co...
 - [[ruanyf-weekly|weekly"]] — 科技爱好者周刊，每周五发布
@@ -541,6 +543,7 @@
 - [[swc-project-swc|swc"]] — Rust-based platform for the Web
 - [[swoole-typephp|typephp"]] — Compile PHP to Native Binaries
 - [[swordfish90-cool-retro-term|cool-retro-term"]] — A good looking terminal emulator which mimics the old cathod...
+- [[t8y2-dbx|dbx"]] — 25 MB lightweight cross-platform database client for 100+ da... 🆕
 - [[tailscale-tailcat|tailcat"]] — like netcat, but over Tailscale's data plane, without Tailsc... 🆕
 - [[tailscale-tailscale|tailscale"]] — The easiest, most secure way to use WireGuard and 2FA.
 - [[tailwindlabs-tailwindcss|tailwindcss"]] — A utility-first CSS framework for rapid UI development. 🆕
@@ -587,6 +590,7 @@
 - [[usekaneo-kaneo|kaneo"]] — 🎯 All you need. Nothing you don't. Open source project manag... 🔥
 - [[usestrix-strix|strix"]] — Open-source AI penetration testing tool to find and fix your...
 - [[vastsa-pi-desktop|PI-Desktop"]] — Local-first AI coding agent desktop: Electron + Rust host co... 🔥
+- [[vectifyai-pageindex|PageIndex"]] — 📑 PageIndex: Document Index for Vectorless, Reasoning-based ... 🆕
 - [[vectorize-io-hindsight|hindsight"]] — Hindsight: Agent Memory That Learns 🔥
 - [[veracrypt-veracrypt|VeraCrypt"]] — Disk encryption with strong security based on TrueCrypt
 - [[vercel-labs-json-render|json-render"]] — The Generative UI framework

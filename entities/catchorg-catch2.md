@@ -35,5 +35,5 @@ A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, 
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[fmtlib-fmt]] [[protocolbuffers-protobuf]] [[harry7557558-spirula-studio]]
+[[tensorflow-tensorflow]] [[harry7557558-spirula-studio]] [[protocolbuffers-protobuf]] [[fmtlib-fmt]]
 

@@ -34,7 +34,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[paperclipai-paperclip]] [[rohitg00-ai-engineering-from-scratch]] [[multimodal-art-projection-yue]] [[nvidia-model-optimizer]]
+[[multimodal-art-projection-yue]] [[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[vectifyai-pageindex]] [[tonhowtf-omniget]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

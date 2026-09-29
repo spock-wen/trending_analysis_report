@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[affaan-m-ecc]] [[mvschwarz-openrig]]
+[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[akitaonrails-ai-memory]] [[affaan-m-ecc]] [[block-buzz]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

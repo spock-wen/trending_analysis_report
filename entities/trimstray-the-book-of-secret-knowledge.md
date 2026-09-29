@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[browser-use-video-use]] [[infinityloop1308-pipepipe]] [[superdesigndev-treg]] [[zhaoxuya520-reverse-skill]]
+[[rakyll-hey]] [[paperclipai-paperclip]] [[superdesigndev-treg]] [[nvidia-openshell]] [[t8y2-dbx]]
 
 **所属领域**: [[web]] [[cli]]
 

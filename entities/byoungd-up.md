@@ -34,7 +34,7 @@ An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶�
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[affaan-m-ecc]] [[mvschwarz-openrig]] [[vectorize-io-hindsight]] [[dream-num-univer]]
+[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[affaan-m-ecc]] [[dream-num-univer]] [[androoagi-starnet]]
 
 **所属领域**: [[ai-agent]]
 

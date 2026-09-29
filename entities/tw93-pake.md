@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[browser-use-video-use]] [[infinityloop1308-pipepipe]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]]
+[[rakyll-hey]] [[paperclipai-paperclip]] [[superdesigndev-treg]] [[akitaonrails-ai-memory]] [[block-buzz]]
 
 **所属领域**: [[web]] [[cli]]
 

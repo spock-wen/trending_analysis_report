@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[google-ax]] [[coder-coder]] [[openbao-openbao]]
+[[rakyll-hey]] [[paperclipai-paperclip]] [[google-ax]] [[openbao-openbao]] [[averygan-reclip]]
 
 **所属领域**: [[cli]]
 

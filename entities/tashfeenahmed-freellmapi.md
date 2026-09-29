@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[mvschwarz-openrig]] [[nationalsecurityagency-ghidra]]
+[[nationalsecurityagency-ghidra]] [[rohitg00-ai-engineering-from-scratch]] [[cloudflare-security-audit-skill]] [[paperclipai-paperclip]] [[mvschwarz-openrig]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

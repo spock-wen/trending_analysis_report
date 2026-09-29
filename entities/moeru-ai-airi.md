@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[browser-use-video-use]] [[debpalash-voicestudio]] [[hkuds-cli-anything]] [[tonhowtf-omniget]]
+[[multimodal-art-projection-yue]] [[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[rakyll-hey]] [[tonhowtf-omniget]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

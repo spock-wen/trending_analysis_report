@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[obra-superpowers]] [[nvm-sh-nvm]] [[mvschwarz-openrig]]
+[[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]] [[paperclipai-paperclip]] [[nvidia-openshell]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

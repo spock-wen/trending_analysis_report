@@ -36,7 +36,7 @@ Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harnes
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[mvschwarz-openrig]] [[vectorize-io-hindsight]] [[vercel-labs-scriptc]] [[dream-num-univer]]
+[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[dream-num-univer]] [[oblien-openship]]
 
 **所属领域**: [[ai-agent]]
 

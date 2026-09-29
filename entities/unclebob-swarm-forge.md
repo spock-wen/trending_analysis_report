@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[mvschwarz-openrig]] [[vectorize-io-hindsight]] [[dream-num-univer]] [[penpot-penpot]]
+[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[penpot-penpot]] [[dream-num-univer]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]]
 

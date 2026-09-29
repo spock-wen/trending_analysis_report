@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[davila7-claude-code-templates]] [[cilium-cilium]] [[mvschwarz-openrig]] [[nvidia-model-optimizer]]
+[[cilium-cilium]] [[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

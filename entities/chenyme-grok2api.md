@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[browser-use-video-use]] [[infinityloop1308-pipepipe]] [[google-ax]] [[coder-coder]]
+[[rakyll-hey]] [[paperclipai-paperclip]] [[google-ax]] [[superdesigndev-treg]] [[nvidia-openshell]]
 
 **所属领域**: [[web]] [[cli]]
 

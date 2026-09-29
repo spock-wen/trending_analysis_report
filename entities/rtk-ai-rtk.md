@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[infinityloop1308-pipepipe]] [[akitaonrails-ai-memory]] [[yynxxxxx-codex-x]] [[mvschwarz-openrig]]
+[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[akitaonrails-ai-memory]] [[block-buzz]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

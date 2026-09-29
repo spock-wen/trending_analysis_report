@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[davila7-claude-code-templates]] [[cilium-cilium]] [[rohitg00-ai-engineering-from-scratch]] [[mvschwarz-openrig]]
+[[cilium-cilium]] [[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[paperclipai-paperclip]] [[mvschwarz-openrig]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

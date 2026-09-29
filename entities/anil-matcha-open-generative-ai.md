@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[fxembed-fxembed]] [[affaan-m-ecc]] [[mvschwarz-openrig]] [[byoungd-up]]
+[[rohitg00-ai-engineering-from-scratch]] [[trycua-cua]] [[paperclipai-paperclip]] [[byoungd-up]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

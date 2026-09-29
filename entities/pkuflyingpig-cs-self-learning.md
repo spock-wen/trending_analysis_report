@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[browser-use-video-use]] [[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[nvidia-model-optimizer]] [[superdesigndev-treg]]
+[[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[rakyll-hey]] [[trycua-cua]] [[superdesigndev-treg]]
 
 **所属领域**: [[web]] [[education]]
 

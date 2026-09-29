@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[davila7-claude-code-templates]] [[danny-avila-librechat]] [[microsoft-ai-for-beginners]] [[cilium-cilium]]
+[[cilium-cilium]] [[rohitg00-ai-engineering-from-scratch]] [[ever-co-ever-gauzy]] [[cs341-illinois-coursebook]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

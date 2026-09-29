@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[debpalash-voicestudio]] [[multimodal-art-projection-yue]] [[tensorflow-tensorflow]] [[mvschwarz-openrig]]
+[[tensorflow-tensorflow]] [[multimodal-art-projection-yue]] [[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[tonhowtf-omniget]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[lakr233-vphone-cli]] [[homebrew-brewui]] [[mvschwarz-openrig]] [[vectorize-io-hindsight]]
+[[rohitg00-ai-engineering-from-scratch]] [[peetzweg-opendisplay]] [[paperclipai-paperclip]] [[lakr233-vphone-cli]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[peetzweg-opendisplay]] [[paperclipai-paperclip]] [[homebrew-brewui]] [[abue-ammar-tinycast]] [[averygan-reclip]]
+[[homebrew-brewui]] [[abue-ammar-tinycast]] [[paperclipai-paperclip]] [[nvidia-openshell]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

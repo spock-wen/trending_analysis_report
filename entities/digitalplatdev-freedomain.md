@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[trycua-cua]] [[rakyll-hey]] [[paperclipai-paperclip]] [[superdesigndev-treg]]
+[[ripienaar-free-for-dev]] [[harry0703-moneyprinterturbo]] [[trycua-cua]] [[heygen-com-hyperframes]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[obra-superpowers]] [[dream-num-univer]]
+[[obra-superpowers]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[mksglu-context-mode]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[erp]]
 

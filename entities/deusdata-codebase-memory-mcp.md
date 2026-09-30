@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[trycua-cua]] [[paperclipai-paperclip]] [[justvugg-colibri]] [[dream-num-univer]]
+[[openbao-openbao]] [[harry0703-moneyprinterturbo]] [[trycua-cua]] [[heygen-com-hyperframes]] [[justvugg-colibri]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

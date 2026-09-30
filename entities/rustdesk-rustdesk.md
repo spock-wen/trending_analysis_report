@@ -34,5 +34,5 @@ An open-source remote desktop application designed for self-hosting, as an alter
 
 ## 相关项目
 
-[[block-buzz]] [[t8y2-dbx]] [[akitaonrails-ai-memory]] [[nvidia-openshell]]
+[[akitaonrails-ai-memory]] [[nvidia-openshell]] [[block-buzz]] [[t8y2-dbx]]
 

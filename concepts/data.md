@@ -1,7 +1,7 @@
 ---
 title: "data"
 created: 2026-05-31
-updated: 2026-09-30
+updated: 2026-10-01
 type: concept
 tags: [data]
 confidence: medium

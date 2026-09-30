@@ -34,7 +34,7 @@ Claude Code toolkit - agents, commands, skills, rules, and hooks for productive 
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[nvidia-openshell]] [[byoungd-up]] [[affaan-m-ecc]]
+[[harry0703-moneyprinterturbo]] [[dietrichgebert-ponytail]] [[heygen-com-hyperframes]] [[paperclipai-paperclip]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

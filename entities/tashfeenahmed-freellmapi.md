@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[rohitg00-ai-engineering-from-scratch]] [[cloudflare-security-audit-skill]] [[paperclipai-paperclip]] [[mvschwarz-openrig]]
+[[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[nationalsecurityagency-ghidra]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

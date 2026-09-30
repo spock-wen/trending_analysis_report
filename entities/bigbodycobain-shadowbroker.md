@@ -35,7 +35,7 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[vectifyai-pageindex]] [[trycua-cua]] [[paperclipai-paperclip]]
+[[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[vectifyai-pageindex]] [[openbao-openbao]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

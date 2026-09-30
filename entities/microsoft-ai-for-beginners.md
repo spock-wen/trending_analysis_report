@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[lyogavin-airllm]] [[paperclipai-paperclip]] [[microsoft-generative-ai-for-beginners]]
+[[rohitg00-ai-engineering-from-scratch]] [[harry0703-moneyprinterturbo]] [[cs341-illinois-coursebook]] [[heygen-com-hyperframes]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

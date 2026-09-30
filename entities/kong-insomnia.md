@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[rakyll-hey]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[superdesigndev-treg]] [[nvidia-openshell]]
+[[heygen-com-hyperframes]] [[openclaw-openclaw]] [[paperclipai-paperclip]] [[nvidia-openshell]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[cli]]
 

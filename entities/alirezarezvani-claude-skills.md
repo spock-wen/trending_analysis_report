@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[vectifyai-pageindex]] [[melgarafael-deskcommcrm]]
+[[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[vectifyai-pageindex]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

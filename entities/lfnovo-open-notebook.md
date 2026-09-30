@@ -37,5 +37,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[mvschwarz-openrig]] [[dream-num-univer]] [[oblien-openship]]
+[[heygen-com-hyperframes]] [[openclaw-openclaw]] [[mvschwarz-openrig]] [[mksglu-context-mode]]
 

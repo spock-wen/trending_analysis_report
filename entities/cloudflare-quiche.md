@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[rakyll-hey]] [[superdesigndev-treg]] [[akitaonrails-ai-memory]] [[block-buzz]] [[t8y2-dbx]]
+[[heygen-com-hyperframes]] [[nvidia-openshell]] [[block-buzz]] [[hkuds-cli-anything]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[web]]
 

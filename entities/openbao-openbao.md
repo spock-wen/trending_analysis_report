@@ -35,7 +35,7 @@ OpenBao is a software solution to manage, store, and distribute sensitive data i
 
 ## 相关项目
 
-[[rakyll-hey]] [[trycua-cua]] [[google-ax]] [[deusdata-codebase-memory-mcp]] [[t8y2-dbx]]
+[[trycua-cua]] [[deusdata-codebase-memory-mcp]] [[t8y2-dbx]] [[agent-substrate-substrate]] [[google-ax]]
 
 **所属领域**: [[data]]
 

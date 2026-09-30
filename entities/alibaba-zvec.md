@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[trycua-cua]] [[protocolbuffers-protobuf]] [[deusdata-codebase-memory-mcp]] [[t8y2-dbx]]
+[[firebase-firebase-ios-sdk]] [[openbao-openbao]] [[trycua-cua]] [[harry7557558-spirula-studio]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[data]]
 

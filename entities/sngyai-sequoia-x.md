@@ -34,7 +34,7 @@ A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运�
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[vectifyai-pageindex]] [[paperclipai-paperclip]] [[dream-num-univer]]
+[[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[vectifyai-pageindex]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]]
 

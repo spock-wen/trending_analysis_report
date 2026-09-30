@@ -38,7 +38,7 @@ Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your 
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[vectifyai-pageindex]] [[tonhowtf-omniget]]
+[[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[vectifyai-pageindex]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

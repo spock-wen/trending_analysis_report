@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[tonhowtf-omniget]] [[paperclipai-paperclip]]
+[[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

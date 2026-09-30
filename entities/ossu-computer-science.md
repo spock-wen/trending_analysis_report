@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[rakyll-hey]] [[trycua-cua]] [[superdesigndev-treg]] [[ripienaar-free-for-dev]] [[averygan-reclip]]
+[[ripienaar-free-for-dev]] [[trycua-cua]] [[heygen-com-hyperframes]] [[hkuds-cli-anything]] [[averygan-reclip]]
 
 **所属领域**: [[web]]
 

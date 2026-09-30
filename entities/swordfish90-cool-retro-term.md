@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[t8y2-dbx]] [[averygan-reclip]] [[nvidia-openshell]]
+[[mattpocock-skills]] [[paperclipai-paperclip]] [[nvidia-openshell]] [[t8y2-dbx]]
 
 **所属领域**: [[cli]]
 

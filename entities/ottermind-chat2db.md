@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[rohitg00-ai-engineering-from-scratch]] [[trycua-cua]] [[paperclipai-paperclip]] [[google-guava]]
+[[openbao-openbao]] [[harry0703-moneyprinterturbo]] [[trycua-cua]] [[heygen-com-hyperframes]] [[google-guava]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

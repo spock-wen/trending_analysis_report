@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[rakyll-hey]] [[trycua-cua]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[superdesigndev-treg]]
+[[openbao-openbao]] [[trycua-cua]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[data]]
 

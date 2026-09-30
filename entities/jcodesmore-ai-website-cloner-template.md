@@ -38,7 +38,7 @@ Clone any website with one command using AI coding agents
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[rakyll-hey]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[superdesigndev-treg]]
+[[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[paperclipai-paperclip]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

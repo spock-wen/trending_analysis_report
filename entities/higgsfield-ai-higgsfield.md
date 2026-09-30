@@ -35,7 +35,7 @@ Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[paperclipai-paperclip]] [[microsoft-generative-ai-for-beginners]] [[dream-num-univer]]
+[[rohitg00-ai-engineering-from-scratch]] [[harry0703-moneyprinterturbo]] [[cs341-illinois-coursebook]] [[heygen-com-hyperframes]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

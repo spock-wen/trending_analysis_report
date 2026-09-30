@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[peetzweg-opendisplay]] [[rakyll-hey]]
+[[lakr233-vphone-cli]] [[homebrew-brewui]] [[abue-ammar-tinycast]] [[harry0703-moneyprinterturbo]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[rakyll-hey]] [[trycua-cua]] [[superdesigndev-treg]]
+[[ripienaar-free-for-dev]] [[rohitg00-ai-engineering-from-scratch]] [[trycua-cua]] [[cs341-illinois-coursebook]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[web]] [[education]]
 

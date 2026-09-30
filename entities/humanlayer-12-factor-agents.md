@@ -35,7 +35,7 @@ What are the principles we can use to build LLM-powered software that is actuall
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[dream-num-univer]] [[oblien-openship]]
+[[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[colbymchenry-codegraph]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ agent multiplexer that lives in your terminal.
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[akitaonrails-ai-memory]] [[block-buzz]] [[dream-num-univer]]
+[[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[paperclipai-paperclip]] [[nvidia-openshell]] [[block-buzz]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[trycua-cua]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[dream-num-univer]]
+[[actions-runner-images]] [[harry0703-moneyprinterturbo]] [[trycua-cua]] [[heygen-com-hyperframes]] [[openclaw-openclaw]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

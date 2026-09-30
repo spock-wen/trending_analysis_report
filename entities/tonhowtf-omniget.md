@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[cs341-illinois-coursebook]] [[paperclipai-paperclip]]
+[[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[debpalash-voicestudio]] [[cs341-illinois-coursebook]] [[paperclipai-paperclip]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

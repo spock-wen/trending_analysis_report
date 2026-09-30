@@ -34,7 +34,7 @@ Replace port numbers with stable, named local URLs. For humans and agents.
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[trycua-cua]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[dream-num-univer]]
+[[actions-runner-images]] [[harry0703-moneyprinterturbo]] [[trycua-cua]] [[heygen-com-hyperframes]] [[openclaw-openclaw]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

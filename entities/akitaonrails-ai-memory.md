@@ -37,7 +37,7 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[block-buzz]] [[dream-num-univer]] [[vectorize-io-hindsight]]
+[[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[paperclipai-paperclip]] [[nvidia-openshell]] [[block-buzz]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

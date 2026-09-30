@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[rakyll-hey]] [[trycua-cua]] [[paperclipai-paperclip]] [[superdesigndev-treg]]
+[[openbao-openbao]] [[harry0703-moneyprinterturbo]] [[dietrichgebert-ponytail]] [[trycua-cua]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

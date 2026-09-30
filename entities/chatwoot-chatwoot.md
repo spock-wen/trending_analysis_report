@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[docusealco-docuseal]] [[dream-num-univer]] [[vectorize-io-hindsight]]
+[[docusealco-docuseal]] [[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[colbymchenry-codegraph]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

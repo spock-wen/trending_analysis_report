@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[cilium-cilium]] [[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[vectifyai-pageindex]] [[rakyll-hey]]
+[[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[vectifyai-pageindex]] [[openbao-openbao]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

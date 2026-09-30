@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[byoungd-up]] [[affaan-m-ecc]]
+[[harry0703-moneyprinterturbo]] [[dietrichgebert-ponytail]] [[heygen-com-hyperframes]] [[nationalsecurityagency-ghidra]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[nvidia-openshell]]
+[[harry0703-moneyprinterturbo]] [[infinityloop1308-pipepipe]] [[obra-superpowers]] [[heygen-com-hyperframes]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

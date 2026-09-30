@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[affaan-m-ecc]] [[dream-num-univer]]
+[[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[paperclipai-paperclip]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

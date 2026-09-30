@@ -38,7 +38,7 @@ Open source repository of plugins primarily intended for knowledge workers to us
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[vectifyai-pageindex]] [[paperclipai-paperclip]] [[dream-num-univer]]
+[[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[vectifyai-pageindex]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]]
 

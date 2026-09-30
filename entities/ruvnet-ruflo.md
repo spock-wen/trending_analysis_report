@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cilium-cilium]] [[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[paperclipai-paperclip]] [[mvschwarz-openrig]]
+[[rohitg00-ai-engineering-from-scratch]] [[harry0703-moneyprinterturbo]] [[cs341-illinois-coursebook]] [[cilium-cilium]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

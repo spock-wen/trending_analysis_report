@@ -16,7 +16,6 @@ last_trending: 2026-09-24
 peak_rank: 1
 total_stars: 6516
 language: "TypeScript"
-contested: true
 ---
 
 # BuilderIO/agent-native
@@ -38,17 +37,7 @@ A framework for building agentic apps
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[dream-num-univer]] [[oblien-openship]]
+[[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[colbymchenry-codegraph]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]]
-
-
-## ⚠️ 描述变更（2026-09-21）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: A framework for building agent-native applications.
-- **新描述**: A framework for building agentic apps
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

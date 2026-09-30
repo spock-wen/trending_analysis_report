@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[dotnet-aspnetcore]] [[sonarr-sonarr]] [[dream-num-univer]]
+[[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[jellyfin-jellyfin]] [[dotnet-aspnetcore]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]]
 

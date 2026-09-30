@@ -1,20 +1,20 @@
 ---
 title: "NVIDIA/OpenShell"
 created: 2026-09-30
-updated: 2026-09-30
-last_active: 2026-09-30
+updated: 2026-10-01
+last_active: 2026-10-01
 type: tool
 tags: [rust, ai-agent, cli]
-sources: [raw/trending/2026-09-30.json]
-confidence: low
-trending_count_daily: 1
+sources: [raw/trending/2026-10-01.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-09-30
-last_trending: 2026-09-30
-peak_rank: 2
-total_stars: 10527
+last_trending: 2026-10-01
+peak_rank: 1
+total_stars: 12537
 language: "Rust"
 ---
 
@@ -23,18 +23,19 @@ language: "Rust"
 OpenShell is the safe, private runtime for autonomous AI agents.
 
 - 语言: Rust
-- 上榜次数: 1 次
-- 连续上榜: 1 天
-- 最高排名: #2
+- 上榜次数: 2 次
+- 连续上榜: 2 天
+- 最高排名: #1
 - 链接: [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
 
 ## 上榜历史
 
+  - 2026-10-01: #1, +1280⭐
   - 2026-09-30: #2, +978⭐
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[akitaonrails-ai-memory]] [[block-buzz]] [[dream-num-univer]]
+[[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[paperclipai-paperclip]] [[block-buzz]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

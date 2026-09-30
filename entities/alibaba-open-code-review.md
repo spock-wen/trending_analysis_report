@@ -38,7 +38,7 @@ Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[rakyll-hey]] [[trycua-cua]] [[paperclipai-paperclip]] [[google-ax]]
+[[openbao-openbao]] [[harry0703-moneyprinterturbo]] [[trycua-cua]] [[heygen-com-hyperframes]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

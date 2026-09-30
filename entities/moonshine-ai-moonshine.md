@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[multimodal-art-projection-yue]] [[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[tonhowtf-omniget]]
+[[firebase-firebase-ios-sdk]] [[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[harry7557558-spirula-studio]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

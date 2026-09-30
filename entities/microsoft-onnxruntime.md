@@ -34,7 +34,7 @@ ONNX Runtime: cross-platform, high performance ML inferencing and training accel
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[protocolbuffers-protobuf]] [[dream-num-univer]]
+[[firebase-firebase-ios-sdk]] [[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[harry7557558-spirula-studio]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]]
 

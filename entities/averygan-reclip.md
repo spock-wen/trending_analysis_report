@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[rakyll-hey]] [[trycua-cua]] [[paperclipai-paperclip]] [[superdesigndev-treg]] [[nvidia-openshell]]
+[[ripienaar-free-for-dev]] [[trycua-cua]] [[heygen-com-hyperframes]] [[paperclipai-paperclip]] [[nvidia-openshell]]
 
 **所属领域**: [[web]] [[cli]]
 

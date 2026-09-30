@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[rohitg00-ai-engineering-from-scratch]] [[melgarafael-deskcommcrm]] [[paperclipai-paperclip]] [[obra-superpowers]]
+[[harry0703-moneyprinterturbo]] [[obra-superpowers]] [[heygen-com-hyperframes]] [[nvidia-openshell]] [[block-buzz]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

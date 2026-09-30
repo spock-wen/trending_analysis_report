@@ -38,7 +38,7 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[akitaonrails-ai-memory]] [[affaan-m-ecc]] [[block-buzz]]
+[[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[paperclipai-paperclip]] [[nvidia-openshell]] [[block-buzz]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

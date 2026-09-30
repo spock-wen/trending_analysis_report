@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[cloudflare-security-audit-skill]] [[rakyll-hey]] [[trycua-cua]] [[teslamate-org-teslamate]]
+[[openbao-openbao]] [[trycua-cua]] [[heygen-com-hyperframes]] [[teslamate-org-teslamate]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

@@ -34,7 +34,7 @@ An open-source Android app to let you browse YouTube and other services freely.
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[nvm-sh-nvm]] [[averygan-reclip]]
+[[obra-superpowers]] [[paperclipai-paperclip]] [[nvidia-openshell]] [[mattpocock-skills]] [[nvm-sh-nvm]]
 
 **所属领域**: [[cli]]
 

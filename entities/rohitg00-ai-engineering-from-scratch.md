@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[cs341-illinois-coursebook]] [[vectifyai-pageindex]] [[paperclipai-paperclip]] [[dream-num-univer]]
+[[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[vectifyai-pageindex]] [[cs341-illinois-coursebook]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

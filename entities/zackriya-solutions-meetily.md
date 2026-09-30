@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[rakyll-hey]] [[affaan-m-ecc]] [[vectorize-io-hindsight]] [[nationalsecurityagency-ghidra]]
+[[openbao-openbao]] [[harry0703-moneyprinterturbo]] [[trycua-cua]] [[heygen-com-hyperframes]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

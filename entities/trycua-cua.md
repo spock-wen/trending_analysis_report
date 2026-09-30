@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[rakyll-hey]] [[paperclipai-paperclip]] [[superdesigndev-treg]] [[dream-num-univer]]
+[[ripienaar-free-for-dev]] [[openbao-openbao]] [[harry0703-moneyprinterturbo]] [[actions-runner-images]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

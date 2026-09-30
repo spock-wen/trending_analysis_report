@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[dream-num-univer]]
+[[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[mksglu-context-mode]]
 
 **所属领域**: [[education]]
 

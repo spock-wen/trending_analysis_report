@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[nvidia-openshell]] [[dream-num-univer]] [[t8y2-dbx]]
+[[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[paperclipai-paperclip]] [[nvidia-openshell]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

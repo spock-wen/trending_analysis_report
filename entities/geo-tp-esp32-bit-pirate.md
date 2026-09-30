@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[rakyll-hey]] [[paperclipai-paperclip]] [[superdesigndev-treg]] [[nvidia-openshell]]
+[[firebase-firebase-ios-sdk]] [[heygen-com-hyperframes]] [[harry7557558-spirula-studio]] [[nvidia-openshell]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[cli]]
 

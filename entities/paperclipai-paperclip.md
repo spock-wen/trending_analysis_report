@@ -38,7 +38,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[mvschwarz-openrig]] [[nvidia-openshell]] [[affaan-m-ecc]] [[dream-num-univer]]
+[[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[nvidia-openshell]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

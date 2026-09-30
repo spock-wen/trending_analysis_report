@@ -38,7 +38,7 @@ Open-source 3D architectural editor with a local CLI, MCP tools, and practical w
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[nvidia-openshell]] [[dream-num-univer]]
+[[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[paperclipai-paperclip]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

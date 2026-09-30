@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[rakyll-hey]] [[paperclipai-paperclip]] [[google-ax]] [[superdesigndev-treg]] [[nvidia-openshell]]
+[[openbao-openbao]] [[heygen-com-hyperframes]] [[paperclipai-paperclip]] [[nvidia-openshell]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[cli]]
 

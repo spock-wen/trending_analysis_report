@@ -34,7 +34,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[cilium-cilium]] [[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[dream-num-univer]]
+[[harry0703-moneyprinterturbo]] [[cilium-cilium]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

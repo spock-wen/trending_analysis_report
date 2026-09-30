@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[trycua-cua]] [[rakyll-hey]] [[paperclipai-paperclip]] [[superdesigndev-treg]]
+[[ripienaar-free-for-dev]] [[openbao-openbao]] [[harry0703-moneyprinterturbo]] [[trycua-cua]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

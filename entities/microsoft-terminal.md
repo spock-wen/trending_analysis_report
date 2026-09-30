@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[paperclipai-paperclip]] [[protocolbuffers-protobuf]] [[t8y2-dbx]] [[averygan-reclip]]
+[[firebase-firebase-ios-sdk]] [[harry7557558-spirula-studio]] [[nvidia-openshell]] [[paperclipai-paperclip]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

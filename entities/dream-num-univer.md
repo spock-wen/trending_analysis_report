@@ -38,7 +38,7 @@ The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relatio
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[oblien-openship]] [[vectorize-io-hindsight]]
+[[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[colbymchenry-codegraph]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]]
 

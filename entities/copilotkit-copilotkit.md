@@ -36,7 +36,7 @@ The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, an
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[rakyll-hey]] [[paperclipai-paperclip]] [[mvschwarz-openrig]] [[superdesigndev-treg]]
+[[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[hkuds-cli-anything]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

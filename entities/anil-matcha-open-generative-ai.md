@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[trycua-cua]] [[paperclipai-paperclip]] [[byoungd-up]] [[affaan-m-ecc]]
+[[actions-runner-images]] [[harry0703-moneyprinterturbo]] [[dietrichgebert-ponytail]] [[trycua-cua]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

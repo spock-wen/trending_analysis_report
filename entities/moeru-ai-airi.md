@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[rakyll-hey]] [[tonhowtf-omniget]]
+[[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[cilium-cilium]] [[rohitg00-ai-engineering-from-scratch]] [[ever-co-ever-gauzy]] [[cs341-illinois-coursebook]] [[lyogavin-airllm]]
+[[harry0703-moneyprinterturbo]] [[cs341-illinois-coursebook]] [[higgsfield-ai-higgsfield]] [[colbymchenry-codegraph]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

@@ -38,7 +38,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[rakyll-hey]] [[paperclipai-paperclip]] [[superdesigndev-treg]] [[dream-num-univer]]
+[[conardli-garden-skills]] [[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[hkuds-cli-anything]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[cloudflare-security-audit-skill]] [[vectifyai-pageindex]]
+[[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[vectifyai-pageindex]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[security]]
 

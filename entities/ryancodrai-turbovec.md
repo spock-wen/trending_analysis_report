@@ -38,7 +38,7 @@ A vector index built on TurboQuant, written in Rust with Python bindings
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[akitaonrails-ai-memory]] [[block-buzz]] [[dream-num-univer]]
+[[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[nvidia-openshell]] [[block-buzz]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]]
 

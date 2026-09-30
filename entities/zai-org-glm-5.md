@@ -35,7 +35,7 @@ GLM-5: From Vibe Coding to Agentic Engineering
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[dream-num-univer]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]]
+[[mattpocock-skills]] [[heygen-com-hyperframes]] [[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]]
 

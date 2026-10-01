@@ -38,7 +38,7 @@ Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[colbymchenry-codegraph]] [[mattpocock-skills]] [[zhouxiaoka-autoclip]] [[actions-runner-images]]
+[[obra-superpowers]] [[zhouxiaoka-autoclip]] [[androoagi-starnet]] [[byoungd-up]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

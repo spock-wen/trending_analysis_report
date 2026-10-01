@@ -1,0 +1,234 @@
+{
+  "month": "2026-10",
+  "date_range": "2026-10-01 ~ 2026-10-31",
+  "overview": {
+    "total_repos": 16,
+    "total_stars": 11467,
+    "days_with_data": 1,
+    "date_range": "2026-10-01 ~ 2026-10-31",
+    "avg_daily_repos": 16.0
+  },
+  "retention": {
+    "bucket_1day": {
+      "count": 16,
+      "ratio": 1.0
+    },
+    "bucket_2_3days": {
+      "count": 0,
+      "ratio": 0.0
+    },
+    "bucket_4_7days": {
+      "count": 0,
+      "ratio": 0.0
+    },
+    "bucket_8plus": {
+      "count": 0,
+      "ratio": 0.0
+    }
+  },
+  "weekly_domains": {
+    "week_1": {
+      "TypeScript": 5,
+      "Python": 4,
+      "JavaScript": 2,
+      "Rust": 2,
+      "C": 1,
+      "C++": 1,
+      "Shell": 1
+    }
+  },
+  "top_repos": {
+    "endurance": [
+      {
+        "repo": "ComposioHQ/awesome-claude-skills",
+        "days_on_chart": 1,
+        "language": "Python",
+        "total_monthly_stars": 118,
+        "best_rank": 8,
+        "peak_daily_stars": 118
+      },
+      {
+        "repo": "DietrichGebert/ponytail",
+        "days_on_chart": 1,
+        "language": "JavaScript",
+        "total_monthly_stars": 865,
+        "best_rank": 5,
+        "peak_daily_stars": 865
+      },
+      {
+        "repo": "NVIDIA/OpenShell",
+        "days_on_chart": 1,
+        "language": "Rust",
+        "total_monthly_stars": 1280,
+        "best_rank": 1,
+        "peak_daily_stars": 1280
+      },
+      {
+        "repo": "VectifyAI/PageIndex",
+        "days_on_chart": 1,
+        "language": "Python",
+        "total_monthly_stars": 1095,
+        "best_rank": 17,
+        "peak_daily_stars": 1095
+      },
+      {
+        "repo": "byoungd/up",
+        "days_on_chart": 1,
+        "language": "JavaScript",
+        "total_monthly_stars": 714,
+        "best_rank": 13,
+        "peak_daily_stars": 714
+      },
+      {
+        "repo": "colbymchenry/codegraph",
+        "days_on_chart": 1,
+        "language": "C",
+        "total_monthly_stars": 159,
+        "best_rank": 14,
+        "peak_daily_stars": 159
+      },
+      {
+        "repo": "debpalash/VoiceStudio",
+        "days_on_chart": 1,
+        "language": "Python",
+        "total_monthly_stars": 3481,
+        "best_rank": 2,
+        "peak_daily_stars": 3481
+      },
+      {
+        "repo": "firebase/firebase-ios-sdk",
+        "days_on_chart": 1,
+        "language": "C++",
+        "total_monthly_stars": 4,
+        "best_rank": 11,
+        "peak_daily_stars": 4
+      }
+    ],
+    "explosiveness": [
+      {
+        "repo": "debpalash/VoiceStudio",
+        "peak_daily_stars": 3481,
+        "peak_date": "2026-10-01",
+        "language": "Python"
+      },
+      {
+        "repo": "NVIDIA/OpenShell",
+        "peak_daily_stars": 1280,
+        "peak_date": "2026-10-01",
+        "language": "Rust"
+      },
+      {
+        "repo": "t8y2/dbx",
+        "peak_daily_stars": 1133,
+        "peak_date": "2026-10-01",
+        "language": "Rust"
+      },
+      {
+        "repo": "VectifyAI/PageIndex",
+        "peak_daily_stars": 1095,
+        "peak_date": "2026-10-01",
+        "language": "Python"
+      },
+      {
+        "repo": "mattpocock/skills",
+        "peak_daily_stars": 908,
+        "peak_date": "2026-10-01",
+        "language": "Shell"
+      },
+      {
+        "repo": "DietrichGebert/ponytail",
+        "peak_daily_stars": 865,
+        "peak_date": "2026-10-01",
+        "language": "JavaScript"
+      },
+      {
+        "repo": "byoungd/up",
+        "peak_daily_stars": 714,
+        "peak_date": "2026-10-01",
+        "language": "JavaScript"
+      },
+      {
+        "repo": "mvschwarz/openrig",
+        "peak_daily_stars": 622,
+        "peak_date": "2026-10-01",
+        "language": "TypeScript"
+      }
+    ],
+    "newcomer": [],
+    "veteran": [
+      {
+        "repo": "DietrichGebert/ponytail",
+        "total_daily_count": 10,
+        "max_consecutive_days": 5,
+        "this_month_days": 1,
+        "this_month_stars": 865,
+        "peak_stars": 2813
+      },
+      {
+        "repo": "NVIDIA/OpenShell",
+        "total_daily_count": 2,
+        "max_consecutive_days": 2,
+        "this_month_days": 1,
+        "this_month_stars": 1280,
+        "peak_stars": 1280
+      },
+      {
+        "repo": "VectifyAI/PageIndex",
+        "total_daily_count": 2,
+        "max_consecutive_days": 2,
+        "this_month_days": 1,
+        "this_month_stars": 1095,
+        "peak_stars": 1095
+      },
+      {
+        "repo": "byoungd/up",
+        "total_daily_count": 2,
+        "max_consecutive_days": 1,
+        "this_month_days": 1,
+        "this_month_stars": 714,
+        "peak_stars": 714
+      },
+      {
+        "repo": "debpalash/VoiceStudio",
+        "total_daily_count": 10,
+        "max_consecutive_days": 4,
+        "this_month_days": 1,
+        "this_month_stars": 3481,
+        "peak_stars": 4712
+      },
+      {
+        "repo": "heygen-com/hyperframes",
+        "total_daily_count": 4,
+        "max_consecutive_days": 2,
+        "this_month_days": 1,
+        "this_month_stars": 352,
+        "peak_stars": 2628
+      },
+      {
+        "repo": "mattpocock/skills",
+        "total_daily_count": 27,
+        "max_consecutive_days": 5,
+        "this_month_days": 1,
+        "this_month_stars": 908,
+        "peak_stars": 3368
+      },
+      {
+        "repo": "mksglu/context-mode",
+        "total_daily_count": 3,
+        "max_consecutive_days": 2,
+        "this_month_days": 1,
+        "this_month_stars": 88,
+        "peak_stars": 652
+      }
+    ]
+  },
+  "month_over_month": {
+    "prev_month_days": 30,
+    "prev_month_repos": 204,
+    "prev_month_stars": 326843,
+    "repo_change": -188,
+    "stars_change": -315376,
+    "repo_change_pct": -92.2,
+    "stars_change_pct": -96.5
+  }
+}

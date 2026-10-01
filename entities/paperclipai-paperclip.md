@@ -38,7 +38,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[paperless-ngx-paperless-ngx]] [[heygen-com-hyperframes]] [[zhaoxuya520-reverse-skill]] [[mksglu-context-mode]] [[mvschwarz-openrig]]
+[[nvidia-openshell]] [[affaan-m-ecc]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

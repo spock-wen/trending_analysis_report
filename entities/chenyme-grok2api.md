@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[nvidia-openshell]] [[t8y2-dbx]] [[google-ax]] [[agent-substrate-substrate]]
+[[nvidia-openshell]] [[openbao-openbao]] [[agent-substrate-substrate]] [[obra-superpowers]] [[google-ax]]
 
 **所属领域**: [[web]] [[cli]]
 

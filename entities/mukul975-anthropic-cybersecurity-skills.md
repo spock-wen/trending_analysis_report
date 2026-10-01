@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[zhaoxuya520-reverse-skill]] [[composiohq-awesome-claude-skills]] [[nvidia-openshell]] [[t8y2-dbx]]
+[[nvidia-openshell]] [[tile-ai-tilelang]] [[affaan-m-ecc]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[multimodal-art-projection-yue]] [[nvidia-openshell]]
+[[nvidia-openshell]] [[multimodal-art-projection-yue]] [[t8y2-dbx]] [[vectorize-io-hindsight]] [[block-buzz]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

@@ -35,7 +35,7 @@ Switchyard lets LLM applications route traffic across models and providers while
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[nvidia-openshell]] [[t8y2-dbx]] [[akitaonrails-ai-memory]] [[block-buzz]]
+[[nvidia-openshell]] [[t8y2-dbx]] [[block-buzz]] [[akitaonrails-ai-memory]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

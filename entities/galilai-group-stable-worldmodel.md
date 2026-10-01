@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[paperless-ngx-paperless-ngx]] [[heygen-com-hyperframes]] [[zhaoxuya520-reverse-skill]] [[zhouxiaoka-autoclip]] [[composiohq-awesome-claude-skills]]
+[[tile-ai-tilelang]] [[affaan-m-ecc]] [[obra-superpowers]] [[zhouxiaoka-autoclip]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

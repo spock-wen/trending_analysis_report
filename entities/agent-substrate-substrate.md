@@ -36,7 +36,7 @@ Agent Substrate: the core system
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[google-ax]] [[openbao-openbao]] [[rakyll-hey]] [[mattpocock-skills]]
+[[openbao-openbao]] [[obra-superpowers]] [[google-ax]] [[rakyll-hey]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

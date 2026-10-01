@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[google-guava]] [[nvidia-openshell]] [[t8y2-dbx]] [[paperclipai-paperclip]]
+[[nvidia-openshell]] [[openbao-openbao]] [[t8y2-dbx]] [[google-guava]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

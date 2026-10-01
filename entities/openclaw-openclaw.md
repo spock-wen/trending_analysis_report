@@ -16,7 +16,6 @@ last_trending: 2026-10-01
 peak_rank: 7
 total_stars: 390974
 language: "TypeScript"
-contested: true
 ---
 
 # openclaw/openclaw
@@ -36,17 +35,7 @@ The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[mksglu-context-mode]] [[mvschwarz-openrig]] [[mattpocock-skills]] [[colbymchenry-codegraph]]
+[[obra-superpowers]] [[mksglu-context-mode]] [[cursor-plugins]] [[heygen-com-hyperframes]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
-
-
-## ⚠️ 描述变更（2026-10-01）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-- **新描述**: The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

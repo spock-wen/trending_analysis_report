@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[heygen-com-hyperframes]] [[lakr233-vphone-cli]] [[homebrew-brewui]] [[peetzweg-opendisplay]]
+[[abue-ammar-tinycast]] [[obra-superpowers]] [[homebrew-brewui]] [[pbakaus-impeccable]] [[earendil-works-pi]]
 
 **所属领域**: [[ai-agent]]
 

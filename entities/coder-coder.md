@@ -38,7 +38,7 @@ Secure environments for developers and their agents
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[google-ax]] [[agent-substrate-substrate]] [[openbao-openbao]] [[rakyll-hey]]
+[[openbao-openbao]] [[agent-substrate-substrate]] [[obra-superpowers]] [[google-ax]] [[rakyll-hey]]
 
 **所属领域**: [[ai-agent]]
 

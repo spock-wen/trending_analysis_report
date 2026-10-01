@@ -16,7 +16,6 @@ last_trending: 2026-10-01
 peak_rank: 1
 total_stars: 72577
 language: "C"
-contested: true
 ---
 
 # colbymchenry/codegraph
@@ -39,17 +38,7 @@ Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
 
 ## 相关项目
 
-[[willfaust-madeira]] [[justvugg-colibri]] [[heygen-com-hyperframes]] [[deusdata-codebase-memory-mcp]] [[mattpocock-skills]]
+[[obra-superpowers]] [[deusdata-codebase-memory-mcp]] [[willfaust-madeira]] [[justvugg-colibri]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
-
-
-## ⚠️ 描述变更（2026-10-01）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-- **新描述**: Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

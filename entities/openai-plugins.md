@@ -38,7 +38,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[colbymchenry-codegraph]] [[mattpocock-skills]] [[androoagi-starnet]] [[dietrichgebert-ponytail]]
+[[obra-superpowers]] [[androoagi-starnet]] [[byoungd-up]] [[pbakaus-impeccable]] [[dietrichgebert-ponytail]]
 
 **所属领域**: [[ai-agent]]
 

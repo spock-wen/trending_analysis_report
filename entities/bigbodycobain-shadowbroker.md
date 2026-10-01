@@ -35,7 +35,7 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[t8y2-dbx]] [[debpalash-voicestudio]] [[vectifyai-pageindex]]
+[[openbao-openbao]] [[t8y2-dbx]] [[tile-ai-tilelang]] [[obra-superpowers]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

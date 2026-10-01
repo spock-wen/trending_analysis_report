@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[zhouxiaoka-autoclip]] [[composiohq-awesome-claude-skills]] [[actions-runner-images]] [[debpalash-voicestudio]]
+[[tile-ai-tilelang]] [[obra-superpowers]] [[zhouxiaoka-autoclip]] [[hunxbyts-ghosttrack]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

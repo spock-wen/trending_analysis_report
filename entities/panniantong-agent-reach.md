@@ -38,7 +38,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[nvidia-openshell]] [[t8y2-dbx]] [[paperclipai-paperclip]]
+[[nvidia-openshell]] [[tile-ai-tilelang]] [[obra-superpowers]] [[hunxbyts-ghosttrack]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

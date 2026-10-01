@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[composiohq-awesome-claude-skills]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]] [[debpalash-voicestudio]]
+[[tile-ai-tilelang]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[nationalsecurityagency-ghidra]] [[hunxbyts-ghosttrack]]
 
 **所属领域**: [[security]]
 

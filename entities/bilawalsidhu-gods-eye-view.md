@@ -38,7 +38,7 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[t8y2-dbx]] [[averygan-reclip]] [[androoagi-starnet]] [[dietrichgebert-ponytail]]
+[[openbao-openbao]] [[t8y2-dbx]] [[deusdata-codebase-memory-mcp]] [[androoagi-starnet]] [[averygan-reclip]]
 
 **所属领域**: [[web]] [[data]]
 

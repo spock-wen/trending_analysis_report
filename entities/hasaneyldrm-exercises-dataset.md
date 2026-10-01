@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[t8y2-dbx]] [[averygan-reclip]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]]
+[[openbao-openbao]] [[t8y2-dbx]] [[obra-superpowers]] [[deusdata-codebase-memory-mcp]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

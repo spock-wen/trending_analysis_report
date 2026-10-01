@@ -34,7 +34,7 @@ HTTP load generator, ApacheBench (ab) replacement
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[google-ax]] [[agent-substrate-substrate]] [[averygan-reclip]] [[hkuds-cli-anything]]
+[[openbao-openbao]] [[agent-substrate-substrate]] [[google-ax]] [[averygan-reclip]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

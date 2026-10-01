@@ -35,7 +35,7 @@ A utility-first CSS framework for rapid UI development.
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[mksglu-context-mode]] [[mvschwarz-openrig]] [[averygan-reclip]] [[hkuds-cli-anything]]
+[[obra-superpowers]] [[mksglu-context-mode]] [[cursor-plugins]] [[averygan-reclip]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

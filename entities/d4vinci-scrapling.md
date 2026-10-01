@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[averygan-reclip]] [[debpalash-voicestudio]] [[hkuds-cli-anything]]
+[[tile-ai-tilelang]] [[averygan-reclip]] [[rakyll-hey]] [[hunxbyts-ghosttrack]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[web]]
 

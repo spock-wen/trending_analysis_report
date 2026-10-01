@@ -34,7 +34,7 @@ AutoClip : AI-powered video clipping and highlight generation · 一款智能高
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[nvidia-openshell]] [[actions-runner-images]] [[t8y2-dbx]]
+[[nvidia-openshell]] [[tile-ai-tilelang]] [[obra-superpowers]] [[hunxbyts-ghosttrack]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[image-gen]]
 

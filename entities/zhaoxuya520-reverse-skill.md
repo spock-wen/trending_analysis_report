@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[paperless-ngx-paperless-ngx]] [[heygen-com-hyperframes]] [[nvidia-openshell]] [[actions-runner-images]] [[t8y2-dbx]]
+[[nvidia-openshell]] [[raphire-win11debloat]] [[affaan-m-ecc]] [[obra-superpowers]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

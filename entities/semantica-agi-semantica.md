@@ -38,7 +38,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[cilium-cilium]] [[oblien-openship]] [[nvidia-model-optimizer]]
+[[oblien-openship]] [[tile-ai-tilelang]] [[obra-superpowers]] [[cilium-cilium]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

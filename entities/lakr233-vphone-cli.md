@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[nvidia-openshell]] [[t8y2-dbx]] [[paperclipai-paperclip]] [[homebrew-brewui]]
+[[nvidia-openshell]] [[abue-ammar-tinycast]] [[obra-superpowers]] [[homebrew-brewui]] [[earendil-works-pi]]
 
 **所属领域**: [[cli]]
 

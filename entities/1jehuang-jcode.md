@@ -38,5 +38,5 @@ The most RAM efficient harness
 
 ## 相关项目
 
-[[t8y2-dbx]] [[akitaonrails-ai-memory]] [[block-buzz]] [[nvidia-openshell]]
+[[nvidia-openshell]] [[t8y2-dbx]] [[block-buzz]] [[akitaonrails-ai-memory]]
 

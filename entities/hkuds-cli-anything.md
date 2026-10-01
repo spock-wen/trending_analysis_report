@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[nvidia-openshell]] [[t8y2-dbx]] [[paperclipai-paperclip]]
+[[nvidia-openshell]] [[tile-ai-tilelang]] [[obra-superpowers]] [[averygan-reclip]] [[rakyll-hey]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

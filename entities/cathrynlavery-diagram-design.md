@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[averygan-reclip]] [[hkuds-cli-anything]] [[ripienaar-free-for-dev]] [[rakyll-hey]]
+[[obra-superpowers]] [[averygan-reclip]] [[rakyll-hey]] [[heygen-com-hyperframes]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

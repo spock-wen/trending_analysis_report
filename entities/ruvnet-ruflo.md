@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[heygen-com-hyperframes]] [[cs341-illinois-coursebook]] [[mksglu-context-mode]] [[mvschwarz-openrig]]
+[[oblien-openship]] [[vectorize-io-hindsight]] [[obra-superpowers]] [[mksglu-context-mode]] [[cilium-cilium]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

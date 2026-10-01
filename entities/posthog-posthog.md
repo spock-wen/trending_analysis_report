@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[cilium-cilium]] [[t8y2-dbx]] [[averygan-reclip]]
+[[openbao-openbao]] [[t8y2-dbx]] [[deusdata-codebase-memory-mcp]] [[averygan-reclip]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

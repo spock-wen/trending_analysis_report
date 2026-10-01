@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[composiohq-awesome-claude-skills]] [[vectorize-io-hindsight]] [[nvidia-model-optimizer]]
+[[vectorize-io-hindsight]] [[tile-ai-tilelang]] [[hunxbyts-ghosttrack]] [[nvidia-model-optimizer]] [[cs341-illinois-coursebook]]
 
 **所属领域**: [[education]]
 

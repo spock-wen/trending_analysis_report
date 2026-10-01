@@ -35,5 +35,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[androoagi-starnet]] [[dietrichgebert-ponytail]] [[byoungd-up]] [[pbakaus-impeccable]]
+[[dietrichgebert-ponytail]] [[byoungd-up]] [[androoagi-starnet]] [[pbakaus-impeccable]]
 

@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[debpalash-voicestudio]] [[mattpocock-skills]] [[colbymchenry-codegraph]]
+[[tile-ai-tilelang]] [[obra-superpowers]] [[hunxbyts-ghosttrack]] [[pbakaus-impeccable]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]]
 

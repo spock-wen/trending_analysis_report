@@ -37,5 +37,5 @@ A modern formatting library
 
 ## 相关项目
 
-[[firebase-firebase-ios-sdk]] [[tensorflow-tensorflow]] [[harry7557558-spirula-studio]]
+[[harry7557558-spirula-studio]] [[firebase-firebase-ios-sdk]] [[tensorflow-tensorflow]]
 

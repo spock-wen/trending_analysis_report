@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[jamiepine-voicebox]] [[heygen-com-hyperframes]] [[multimodal-art-projection-yue]] [[lakr233-vphone-cli]]
+[[multimodal-art-projection-yue]] [[abue-ammar-tinycast]] [[obra-superpowers]] [[homebrew-brewui]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

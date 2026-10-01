@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[nvidia-openshell]] [[t8y2-dbx]] [[paperclipai-paperclip]] [[mattpocock-skills]]
+[[nvidia-openshell]] [[obra-superpowers]] [[pbakaus-impeccable]] [[earendil-works-pi]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

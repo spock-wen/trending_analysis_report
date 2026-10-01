@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[google-guava]] [[t8y2-dbx]] [[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]]
+[[openbao-openbao]] [[t8y2-dbx]] [[google-guava]] [[obra-superpowers]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

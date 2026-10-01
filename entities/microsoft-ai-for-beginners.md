@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[rohitg00-ai-engineering-from-scratch]] [[higgsfield-ai-higgsfield]] [[heygen-com-hyperframes]] [[cs341-illinois-coursebook]]
+[[higgsfield-ai-higgsfield]] [[vectorize-io-hindsight]] [[obra-superpowers]] [[lyogavin-airllm]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

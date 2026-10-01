@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[nvidia-openshell]] [[t8y2-dbx]] [[google-ax]] [[agent-substrate-substrate]] [[paperclipai-paperclip]]
+[[nvidia-openshell]] [[openbao-openbao]] [[agent-substrate-substrate]] [[obra-superpowers]] [[google-ax]]
 
 **所属领域**: [[cli]]
 

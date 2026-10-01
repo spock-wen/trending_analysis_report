@@ -38,7 +38,7 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[debpalash-voicestudio]] [[vectifyai-pageindex]] [[mattpocock-skills]]
+[[tile-ai-tilelang]] [[obra-superpowers]] [[hunxbyts-ghosttrack]] [[pbakaus-impeccable]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]]
 

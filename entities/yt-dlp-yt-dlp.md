@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[multimodal-art-projection-yue]] [[composiohq-awesome-claude-skills]] [[nvidia-openshell]] [[t8y2-dbx]]
+[[nvidia-openshell]] [[multimodal-art-projection-yue]] [[tile-ai-tilelang]] [[obra-superpowers]] [[jamiepine-voicebox]]
 
 **所属领域**: [[cli]] [[audio]]
 

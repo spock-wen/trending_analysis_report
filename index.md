@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-01 | 总页面：648
+> 最后更新：2026-10-02 | 总页面：651
 
 ## Entities
 
@@ -170,7 +170,7 @@
 - [[derv82-wifit3|wifit3"]] — Wifite but USB-only & cross-platform.
 - [[deusdata-codebase-memory-mcp|codebase-memory-mcp"]] — High-performance code intelligence MCP server. Indexes codeb...
 - [[diegosouzapw-omniroute|OmniRoute"]] — Never stop coding. Free MIT AI gateway: one endpoint, 352 pr...
-- [[dietrichgebert-ponytail|ponytail"]] — Makes your AI agent think like the laziest senior dev in the...
+- [[dietrichgebert-ponytail|ponytail"]] — Makes your AI agent think like the laziest senior dev in the... 🆕
 - [[different-ai-openwork|openwork"]] — The open-source alternative to Claude Cowork (powered by ope...
 - [[digitalplatdev-freedomain|FreeDomain"]] — DigitalPlat FreeDomain: Free Domain For Everyone 🔥
 - [[diolinux-photogimp|PhotoGIMP"]] — A Patch for GIMP 3+ for Photoshop Users
@@ -211,6 +211,7 @@
 - [[free-tv-iptv|IPTV"]] — M3U Playlist for free TV channels
 - [[freecodecamp-freecodecamp|freeCodeCamp"]] — freeCodeCamp.org's open-source codebase and curriculum. Lear... 🔥
 - [[freestylefly-awesome-gpt-image-2|awesome-gpt-image-2"]] — Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级... 🆕
+- [[friedrich-m-unimate|UniMate"]] — [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate D... 🆕
 - [[fxembed-fxembed|FxEmbed"]] — Fix X/Twitter and Bluesky embeds! Use multiple images, video...
 - [[gabime-spdlog|spdlog"]] — Fast C++ logging library.
 - [[galilai-group-stable-worldmodel|stable-worldmodel"]] — A platform for reproducible world model research and evaluat... 🆕
@@ -249,7 +250,7 @@
 - [[henryndubuaku-maths-cs-ai-compendium|maths-cs-ai-compendium"]] — Become a cracked AI/ML Research Engineer
 - [[hesreallyhim-awesome-claude-code|awesome-claude-code"]] — A hand-picked collection of the finest of resources for the ...
 - [[hexo-ai-sia|sia"]] — SIA is a Self Improving AI framework to autonomously improve...
-- [[heygen-com-hyperframes|hyperframes"]] — Write HTML. Render video. Built for agents.
+- [[heygen-com-hyperframes|hyperframes"]] — Write HTML. Render video. Built for agents. 🆕
 - [[higgsfield-ai-higgsfield|higgsfield"]] — Fault-tolerant, highly scalable GPU orchestration, and a mac... 🆕
 - [[hkuds-cli-anything|CLI-Anything"]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:... 🆕
 - [[hkuds-deeptutor|DeepTutor"]] — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor...
@@ -358,7 +359,7 @@
 - [[marin-community-marin|marin"]] — Open-source framework for the research and development of fo... 🔥
 - [[masterking32-masterdnsvpn|MasterDnsVPN"]] — Advanced DNS tunneling VPN for censorship bypass, optimized ... 🔥
 - [[mattermost-mattermost|mattermost"]] — Mattermost is an open source platform for secure collaborati... 🆕
-- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .agents director...
+- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .agents director... 🆕
 - [[mauriceboe-trek|TREK"]] — A self-hosted travel/trip planner with real-time collaborati... 🆕
 - [[max-sixty-worktrunk|worktrunk"]] — Worktrunk is a CLI for Git worktree management, designed for...
 - [[maziyarpanahi-openmed|openmed"]] — open-source healthcare ai 🔥
@@ -384,9 +385,9 @@
 - [[mihail911-modern-software-dev-assignments|modern-software-dev-assignments"]] — Assignments for CS146S: The Modern Software Dev (Stanford Un...
 - [[mikeroyal-self-hosting-guide|Self-Hosting-Guide"]] — Self-Hosting Guide. Learn all about locally hosting (on prem...
 - [[mikumifa-bilitickerbuy|biliTickerBuy"]] — b站会员购购票辅助工具
-- [[mksglu-context-mode|context-mode"]] — Context window optimization for AI coding agents. Sandboxes ...
+- [[mksglu-context-mode|context-mode"]] — Context window optimization for AI coding agents. Sandboxes ... 🆕
 - [[mobile-next-mobile-mcp|mobile-mcp"]] — Model Context Protocol Server for Mobile Automation and Scra...
-- [[modelcontextprotocol-servers|servers"]] — Model Context Protocol Servers 🆕
+- [[modelcontextprotocol-servers|servers"]] — Model Context Protocol Servers
 - [[modular-modular|modular"]] — The Modular Platform (includes MAX & Mojo) 🔥
 - [[moeru-ai-airi|airi"]] — 💖🧸 Self hosted, you-owned Grok Companion, a container of sou... 🔥
 - [[moonshine-ai-moonshine|moonshine"]] — Very low latency speech to text, intent recognition, and tex...
@@ -400,7 +401,7 @@
 - [[multimodal-art-projection-yue|YuE"]] — YuE2: frontier music generation with symbolic planning, zero...
 - [[music-assistant-server|server"]] — Music Assistant is a free, opensource Media library manager ... 🔥
 - [[mvanhorn-last30days-skill|last30days-skill"]] — AI agent skill that researches any topic across Reddit, X, Y...
-- [[mvschwarz-openrig|openrig"]] — Multi-agent harness that runs Claude Code and Codex together... 🔥
+- [[mvschwarz-openrig|openrig"]] — Build your own network of agents from Claude Code, Codex and... 🔥
 - [[mvt-project-mvt|mvt"]] — MVT (Mobile Verification Toolkit) helps with conducting fore... 🔥
 - [[n0-computer-iroh|iroh"]] — IP addresses break, dial keys instead. Modular networking st... 🔥
 - [[n8n-io-n8n|n8n"]] — Fair-code workflow automation platform with native AI capabi...
@@ -419,12 +420,12 @@
 - [[nvidia-cosmos|cosmos"]] — NVIDIA Cosmos is an open platform of world models, datasets,... 🆕
 - [[nvidia-model-optimizer|Model-Optimizer"]] — A unified library of SOTA model optimization techniques like... 🔥
 - [[nvidia-nemo-switchyard|Switchyard"]] — Switchyard lets LLM applications route traffic across models... 🆕
-- [[nvidia-openshell|OpenShell"]] — OpenShell is the safe, private runtime for autonomous AI age... 🆕
+- [[nvidia-openshell|OpenShell"]] — OpenShell is the safe, private runtime for autonomous AI age... 🔥
 - [[nvidia-skillspector|SkillSpector"]] — Security scanner for AI agent skills. Detect vulnerabilities... 🔥
 - [[nvlabs-sana|Sana"]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
 - [[nvm-sh-nvm|nvm"]] — Node Version Manager - POSIX-compliant bash script to manage...
 - [[oblien-openship|openship"]] — Self-hosted deployment platform
-- [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo... 🔥
+- [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo...
 - [[ocornut-imgui|imgui"]] — Dear ImGui: Bloat-free Graphical User interface for C++ with...
 - [[odoo-odoo|odoo"]] — Odoo. Open Source Apps To Grow Your Business.
 - [[ogulcancelik-herdr|herdr"]] — agent multiplexer that lives in your terminal. 🔥
@@ -456,6 +457,7 @@
 - [[owainlewis-awesome-artificial-intelligence|awesome-artificial-intelligence"]] — A curated list of Artificial Intelligence (AI) courses, book...
 - [[p-e-w-heretic|heretic"]] — Fully automatic censorship removal for language models 🔥
 - [[p1neapplexpress-openflux|OpenFlux"]] — Network stack research tool. TCP tunnel with pluggable trans... 🆕
+- [[pablostanley-yoinks|yoinks"]] — yoink any video from your terminal. no shady ads. 🆕
 - [[pacifio-atlas|atlas"]] — Source control for agents. Use multiple coding agents, track...
 - [[paddlepaddle-paddleocr|PaddleOCR"]] — Turn any PDF or image document into structured data for your... 🆕
 - [[palmier-io-palmier-pro|palmier-pro"]] — macOS video editor built for AI
@@ -566,6 +568,7 @@
 - [[the-swarm-corporation-autohedge|AutoHedge"]] — Build your autonomous hedge fund in minutes. AutoHedge harne... 🔥
 - [[thedotmack-claude-mem|claude-mem"]] — Persistent Context Across Sessions for Every Agent – Capture...
 - [[thu-maic-openmaic|OpenMAIC"]] — Open Multi-Agent Interactive Classroom — Get an immersive, m...
+- [[tile-ai-tilelang|tilelang"]] — Domain-specific language designed to streamline the developm... 🆕
 - [[tinyhumansai-openhuman|openhuman"]] — Your Personal AI super intelligence. A brain that builds a l... 🔥
 - [[tirth8205-code-review-graph|code-review-graph"]] — Local-first code intelligence graph for MCP and CLI. Builds ...
 - [[tnt-likely-panwatch|PanWatch"]] — 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A...

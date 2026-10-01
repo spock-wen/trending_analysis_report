@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[higgsfield-ai-higgsfield]] [[heygen-com-hyperframes]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]]
+[[higgsfield-ai-higgsfield]] [[obra-superpowers]] [[lyogavin-airllm]] [[microsoft-generative-ai-for-beginners]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

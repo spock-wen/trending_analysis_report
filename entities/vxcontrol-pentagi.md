@@ -36,7 +36,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[google-ax]] [[agent-substrate-substrate]] [[openbao-openbao]] [[rakyll-hey]]
+[[openbao-openbao]] [[agent-substrate-substrate]] [[obra-superpowers]] [[google-ax]] [[rakyll-hey]]
 
 **所属领域**: [[ai-agent]]
 

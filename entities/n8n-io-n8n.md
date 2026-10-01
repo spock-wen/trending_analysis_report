@@ -35,7 +35,7 @@ Fair-code workflow automation platform with native AI capabilities. Combine visu
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[mksglu-context-mode]] [[mvschwarz-openrig]] [[openclaw-openclaw]] [[mattpocock-skills]]
+[[obra-superpowers]] [[mksglu-context-mode]] [[cursor-plugins]] [[heygen-com-hyperframes]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

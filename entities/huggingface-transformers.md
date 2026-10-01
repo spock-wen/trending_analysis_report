@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[rohitg00-ai-engineering-from-scratch]] [[heygen-com-hyperframes]] [[cs341-illinois-coursebook]] [[multimodal-art-projection-yue]]
+[[multimodal-art-projection-yue]] [[vectorize-io-hindsight]] [[tile-ai-tilelang]] [[obra-superpowers]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

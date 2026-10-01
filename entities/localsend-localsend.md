@@ -35,7 +35,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[chen08209-flclash]] [[flutter-flutter]] [[mattpocock-skills]] [[colbymchenry-codegraph]]
+[[chen08209-flclash]] [[obra-superpowers]] [[flutter-flutter]] [[pbakaus-impeccable]] [[earendil-works-pi]]
 
 **所属领域**: [[ai-agent]]
 

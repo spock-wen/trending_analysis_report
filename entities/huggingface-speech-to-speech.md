@@ -37,7 +37,7 @@ Build local voice agents with open-source models
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[heygen-com-hyperframes]] [[multimodal-art-projection-yue]] [[composiohq-awesome-claude-skills]] [[debpalash-voicestudio]]
+[[multimodal-art-projection-yue]] [[tile-ai-tilelang]] [[obra-superpowers]] [[jamiepine-voicebox]] [[hunxbyts-ghosttrack]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

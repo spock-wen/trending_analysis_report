@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[t8y2-dbx]] [[averygan-reclip]] [[debpalash-voicestudio]]
+[[openbao-openbao]] [[t8y2-dbx]] [[tile-ai-tilelang]] [[deusdata-codebase-memory-mcp]] [[averygan-reclip]]
 
 **所属领域**: [[web]] [[data]]
 

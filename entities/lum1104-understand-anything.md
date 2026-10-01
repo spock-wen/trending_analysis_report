@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[heygen-com-hyperframes]] [[cs341-illinois-coursebook]] [[mksglu-context-mode]] [[mvschwarz-openrig]]
+[[nvidia-openshell]] [[vectorize-io-hindsight]] [[obra-superpowers]] [[mksglu-context-mode]] [[cursor-plugins]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[willfaust-madeira]] [[justvugg-colibri]] [[heygen-com-hyperframes]] [[deusdata-codebase-memory-mcp]] [[mattpocock-skills]]
+[[obra-superpowers]] [[colbymchenry-codegraph]] [[deusdata-codebase-memory-mcp]] [[willfaust-madeira]] [[justvugg-colibri]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[heygen-com-hyperframes]] [[cs341-illinois-coursebook]] [[composiohq-awesome-claude-skills]] [[vectorize-io-hindsight]]
+[[vectorize-io-hindsight]] [[tile-ai-tilelang]] [[obra-superpowers]] [[hunxbyts-ghosttrack]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

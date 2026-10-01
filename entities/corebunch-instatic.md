@@ -37,7 +37,7 @@ The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[mksglu-context-mode]] [[mvschwarz-openrig]] [[t8y2-dbx]] [[averygan-reclip]]
+[[openbao-openbao]] [[t8y2-dbx]] [[obra-superpowers]] [[mksglu-context-mode]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

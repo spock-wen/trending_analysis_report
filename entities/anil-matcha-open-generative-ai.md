@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[colbymchenry-codegraph]] [[mattpocock-skills]] [[zhouxiaoka-autoclip]] [[actions-runner-images]]
+[[obra-superpowers]] [[zhouxiaoka-autoclip]] [[androoagi-starnet]] [[byoungd-up]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

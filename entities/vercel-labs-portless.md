@@ -34,7 +34,7 @@ Replace port numbers with stable, named local URLs. For humans and agents.
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[zhouxiaoka-autoclip]] [[mksglu-context-mode]] [[mvschwarz-openrig]] [[actions-runner-images]]
+[[obra-superpowers]] [[zhouxiaoka-autoclip]] [[mksglu-context-mode]] [[cursor-plugins]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -36,7 +36,7 @@ Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[debpalash-voicestudio]] [[vectifyai-pageindex]] [[mattpocock-skills]]
+[[tile-ai-tilelang]] [[obra-superpowers]] [[hunxbyts-ghosttrack]] [[pbakaus-impeccable]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[averygan-reclip]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[ripienaar-free-for-dev]]
+[[obra-superpowers]] [[averygan-reclip]] [[rakyll-hey]] [[heygen-com-hyperframes]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

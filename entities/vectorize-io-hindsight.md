@@ -38,7 +38,7 @@ Hindsight: Agent Memory That Learns
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[heygen-com-hyperframes]] [[cs341-illinois-coursebook]] [[composiohq-awesome-claude-skills]] [[nvidia-model-optimizer]]
+[[tile-ai-tilelang]] [[obra-superpowers]] [[hunxbyts-ghosttrack]] [[nvidia-model-optimizer]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

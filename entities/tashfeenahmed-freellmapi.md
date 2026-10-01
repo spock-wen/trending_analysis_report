@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[zhaoxuya520-reverse-skill]] [[mksglu-context-mode]] [[mvschwarz-openrig]] [[cloudflare-security-audit-skill]]
+[[affaan-m-ecc]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]] [[mksglu-context-mode]] [[cursor-plugins]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

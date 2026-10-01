@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[zhaoxuya520-reverse-skill]] [[nvidia-openshell]] [[t8y2-dbx]] [[akitaonrails-ai-memory]]
+[[openbao-openbao]] [[t8y2-dbx]] [[akitaonrails-ai-memory]] [[deusdata-codebase-memory-mcp]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

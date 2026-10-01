@@ -36,7 +36,7 @@ Orca is the ADE for working with a fleet of parallel agents. Run any coding agen
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[mksglu-context-mode]] [[mvschwarz-openrig]] [[openclaw-openclaw]] [[mattpocock-skills]]
+[[obra-superpowers]] [[mksglu-context-mode]] [[cursor-plugins]] [[heygen-com-hyperframes]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[composiohq-awesome-claude-skills]] [[actions-runner-images]] [[debpalash-voicestudio]] [[vectifyai-pageindex]]
+[[tile-ai-tilelang]] [[zhouxiaoka-autoclip]] [[hunxbyts-ghosttrack]] [[fxembed-fxembed]] [[trycua-cua]]
 
 **所属领域**: [[image-gen]]
 

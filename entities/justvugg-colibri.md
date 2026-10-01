@@ -38,5 +38,5 @@ Run frontier MoE models on hardware you already own — pure C, zero deps, exper
 
 ## 相关项目
 
-[[willfaust-madeira]] [[colbymchenry-codegraph]] [[deusdata-codebase-memory-mcp]]
+[[colbymchenry-codegraph]] [[willfaust-madeira]] [[deusdata-codebase-memory-mcp]]
 

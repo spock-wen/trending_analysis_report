@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[zhouxiaoka-autoclip]] [[composiohq-awesome-claude-skills]] [[actions-runner-images]] [[t8y2-dbx]]
+[[openbao-openbao]] [[t8y2-dbx]] [[tile-ai-tilelang]] [[obra-superpowers]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

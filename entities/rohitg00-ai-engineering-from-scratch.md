@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[cs341-illinois-coursebook]] [[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[vectorize-io-hindsight]] [[nvidia-model-optimizer]]
+[[vectorize-io-hindsight]] [[tile-ai-tilelang]] [[obra-superpowers]] [[hunxbyts-ghosttrack]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

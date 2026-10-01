@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[nvidia-openshell]] [[akitaonrails-ai-memory]] [[paperclipai-paperclip]] [[block-buzz]]
+[[nvidia-openshell]] [[openbao-openbao]] [[block-buzz]] [[akitaonrails-ai-memory]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

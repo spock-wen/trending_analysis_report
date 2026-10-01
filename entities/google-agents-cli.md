@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[nvidia-openshell]] [[cilium-cilium]] [[t8y2-dbx]]
+[[nvidia-openshell]] [[oblien-openship]] [[tile-ai-tilelang]] [[obra-superpowers]] [[cilium-cilium]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

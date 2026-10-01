@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[zhouxiaoka-autoclip]] [[nvidia-openshell]] [[t8y2-dbx]] [[paperclipai-paperclip]]
+[[nvidia-openshell]] [[raphire-win11debloat]] [[obra-superpowers]] [[zhouxiaoka-autoclip]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

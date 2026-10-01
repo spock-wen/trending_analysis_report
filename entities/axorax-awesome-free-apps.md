@@ -36,5 +36,5 @@ Curated list of the best free apps for PC and mobile
 
 ## 相关项目
 
-[[androoagi-starnet]] [[dietrichgebert-ponytail]] [[byoungd-up]] [[pbakaus-impeccable]]
+[[dietrichgebert-ponytail]] [[byoungd-up]] [[androoagi-starnet]] [[pbakaus-impeccable]]
 

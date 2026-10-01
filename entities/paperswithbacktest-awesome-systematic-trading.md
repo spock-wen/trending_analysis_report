@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[zhaoxuya520-reverse-skill]] [[paperless-ngx-paperless-ngx]] [[composiohq-awesome-claude-skills]]
+[[vectorize-io-hindsight]] [[tile-ai-tilelang]] [[affaan-m-ecc]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[education]] [[science]]
 

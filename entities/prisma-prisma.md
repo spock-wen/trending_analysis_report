@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[zhouxiaoka-autoclip]] [[mksglu-context-mode]] [[mvschwarz-openrig]] [[actions-runner-images]]
+[[openbao-openbao]] [[t8y2-dbx]] [[zhouxiaoka-autoclip]] [[mksglu-context-mode]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[data]] [[image-gen]]
 

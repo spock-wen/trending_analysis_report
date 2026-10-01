@@ -38,7 +38,7 @@ A curated list of awesome Claude Skills, resources, and tools for customizing Cl
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[debpalash-voicestudio]] [[vectifyai-pageindex]] [[mattpocock-skills]] [[colbymchenry-codegraph]]
+[[tile-ai-tilelang]] [[obra-superpowers]] [[hunxbyts-ghosttrack]] [[pbakaus-impeccable]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]]
 

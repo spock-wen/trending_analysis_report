@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[mattpocock-skills]] [[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]]
+[[earendil-works-pi]] [[mattpocock-skills]] [[pbakaus-impeccable]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

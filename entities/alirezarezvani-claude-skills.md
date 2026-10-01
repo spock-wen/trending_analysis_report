@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[heygen-com-hyperframes]] [[zhaoxuya520-reverse-skill]] [[paperless-ngx-paperless-ngx]] [[composiohq-awesome-claude-skills]]
+[[nvidia-openshell]] [[tile-ai-tilelang]] [[melgarafael-deskcommcrm]] [[obra-superpowers]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

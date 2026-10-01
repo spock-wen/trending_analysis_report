@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[t8y2-dbx]] [[trycua-cua]] [[openbao-openbao]] [[deusdata-codebase-memory-mcp]]
+[[openbao-openbao]] [[t8y2-dbx]] [[obra-superpowers]] [[plausible-analytics]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

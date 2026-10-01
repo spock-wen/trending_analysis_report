@@ -35,7 +35,7 @@ Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[heygen-com-hyperframes]] [[multimodal-art-projection-yue]] [[zhouxiaoka-autoclip]] [[composiohq-awesome-claude-skills]]
+[[multimodal-art-projection-yue]] [[tile-ai-tilelang]] [[obra-superpowers]] [[zhouxiaoka-autoclip]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[penpot-penpot]] [[mattpocock-skills]] [[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]]
+[[obra-superpowers]] [[penpot-penpot]] [[pbakaus-impeccable]] [[earendil-works-pi]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

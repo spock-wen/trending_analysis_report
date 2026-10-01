@@ -37,7 +37,7 @@ Google's open agentic orchestration runtime
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[agent-substrate-substrate]] [[openbao-openbao]] [[rakyll-hey]] [[mattpocock-skills]]
+[[openbao-openbao]] [[agent-substrate-substrate]] [[obra-superpowers]] [[rakyll-hey]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

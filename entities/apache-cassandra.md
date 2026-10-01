@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[google-guava]] [[cilium-cilium]] [[t8y2-dbx]] [[nationalsecurityagency-ghidra]] [[oblien-openship]]
+[[oblien-openship]] [[openbao-openbao]] [[t8y2-dbx]] [[google-guava]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[data]] [[devops]]
 

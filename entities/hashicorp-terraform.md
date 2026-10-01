@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[openbao-openbao]] [[harry0703-moneyprinterturbo]] [[cilium-cilium]] [[heygen-com-hyperframes]] [[colbymchenry-codegraph]]
+[[google-ax]] [[rakyll-hey]] [[openbao-openbao]] [[agent-substrate-substrate]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

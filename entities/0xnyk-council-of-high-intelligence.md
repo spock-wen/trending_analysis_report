@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[infinityloop1308-pipepipe]] [[obra-superpowers]] [[heygen-com-hyperframes]] [[paperclipai-paperclip]]
+[[infinityloop1308-pipepipe]] [[obra-superpowers]] [[paperclipai-paperclip]] [[colbymchenry-codegraph]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

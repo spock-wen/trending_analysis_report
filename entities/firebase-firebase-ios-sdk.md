@@ -34,5 +34,5 @@ Firebase SDK for Apple App Development
 
 ## 相关项目
 
-[[harry7557558-spirula-studio]] [[tensorflow-tensorflow]] [[fmtlib-fmt]]
+[[harry7557558-spirula-studio]] [[fmtlib-fmt]] [[tensorflow-tensorflow]]
 

@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[openbao-openbao]] [[harry0703-moneyprinterturbo]] [[dietrichgebert-ponytail]] [[trycua-cua]] [[heygen-com-hyperframes]]
+[[rakyll-hey]] [[colbymchenry-codegraph]] [[androoagi-starnet]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

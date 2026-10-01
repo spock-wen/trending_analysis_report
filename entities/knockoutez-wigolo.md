@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[paperclipai-paperclip]] [[hkuds-cli-anything]]
+[[affaan-m-ecc]] [[paperclipai-paperclip]] [[rakyll-hey]] [[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -35,5 +35,5 @@ Browse media content with your own rules on Android TV
 
 ## 相关项目
 
-[[google-guava]] [[checkstyle-checkstyle]] [[nationalsecurityagency-ghidra]]
+[[google-guava]] [[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]]
 

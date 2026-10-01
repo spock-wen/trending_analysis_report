@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[firebase-firebase-ios-sdk]] [[harry7557558-spirula-studio]] [[nvidia-openshell]] [[paperclipai-paperclip]] [[nationalsecurityagency-ghidra]]
+[[affaan-m-ecc]] [[paperclipai-paperclip]] [[nationalsecurityagency-ghidra]] [[mattpocock-skills]] [[harry7557558-spirula-studio]]
 
 **所属领域**: [[cli]] [[security]]
 

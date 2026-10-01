@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[dietrichgebert-ponytail]] [[heygen-com-hyperframes]] [[nationalsecurityagency-ghidra]] [[colbymchenry-codegraph]]
+[[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[colbymchenry-codegraph]] [[androoagi-starnet]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

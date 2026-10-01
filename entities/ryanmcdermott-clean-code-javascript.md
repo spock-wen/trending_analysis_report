@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[byoungd-up]] [[dietrichgebert-ponytail]] [[androoagi-starnet]]
+[[dietrichgebert-ponytail]] [[androoagi-starnet]] [[pbakaus-impeccable]] [[byoungd-up]]
 

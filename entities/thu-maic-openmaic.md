@@ -38,7 +38,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[harry0703-moneyprinterturbo]] [[vectorize-io-hindsight]] [[cs341-illinois-coursebook]] [[heygen-com-hyperframes]]
+[[paperclipai-paperclip]] [[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

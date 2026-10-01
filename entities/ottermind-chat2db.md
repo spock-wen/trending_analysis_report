@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[openbao-openbao]] [[harry0703-moneyprinterturbo]] [[trycua-cua]] [[heygen-com-hyperframes]] [[google-guava]]
+[[paperclipai-paperclip]] [[colbymchenry-codegraph]] [[yuliskov-smarttube]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

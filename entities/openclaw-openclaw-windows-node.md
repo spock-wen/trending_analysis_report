@@ -35,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[nvidia-openshell]] [[jellyfin-jellyfin]] [[dotnet-aspnetcore]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[dotnet-aspnetcore]] [[nvidia-openshell]] [[t8y2-dbx]] [[jellyfin-jellyfin]]
 
 **所属领域**: [[cli]]
 

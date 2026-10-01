@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[openbao-openbao]] [[trycua-cua]] [[cilium-cilium]] [[google-guava]] [[yuliskov-smarttube]]
+[[openbao-openbao]] [[yuliskov-smarttube]] [[trycua-cua]] [[t8y2-dbx]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[data]] [[devops]]
 

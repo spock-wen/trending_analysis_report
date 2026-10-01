@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[firebase-firebase-ios-sdk]] [[heygen-com-hyperframes]] [[harry7557558-spirula-studio]] [[nvidia-openshell]] [[hkuds-cli-anything]]
+[[paperclipai-paperclip]] [[rakyll-hey]] [[mattpocock-skills]] [[harry7557558-spirula-studio]] [[nvidia-openshell]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -35,5 +35,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[byoungd-up]] [[dietrichgebert-ponytail]] [[androoagi-starnet]]
+[[dietrichgebert-ponytail]] [[androoagi-starnet]] [[pbakaus-impeccable]] [[byoungd-up]]
 

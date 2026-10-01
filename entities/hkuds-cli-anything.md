@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[vectifyai-pageindex]] [[heygen-com-hyperframes]]
+[[paperclipai-paperclip]] [[rakyll-hey]] [[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[vectifyai-pageindex]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

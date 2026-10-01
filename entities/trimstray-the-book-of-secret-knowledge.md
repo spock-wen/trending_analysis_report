@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[paperclipai-paperclip]] [[nvidia-openshell]] [[hkuds-cli-anything]] [[mattpocock-skills]]
+[[paperclipai-paperclip]] [[rakyll-hey]] [[mattpocock-skills]] [[nvidia-openshell]] [[t8y2-dbx]]
 
 **所属领域**: [[web]] [[cli]]
 

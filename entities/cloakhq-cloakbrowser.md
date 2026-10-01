@@ -35,7 +35,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[vectifyai-pageindex]] [[obra-superpowers]]
+[[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[rakyll-hey]] [[harry0703-moneyprinterturbo]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[vectifyai-pageindex]] [[heygen-com-hyperframes]]
+[[affaan-m-ecc]] [[paperclipai-paperclip]] [[rakyll-hey]] [[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

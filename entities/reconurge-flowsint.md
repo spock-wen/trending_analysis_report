@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[openclaw-openclaw]] [[nationalsecurityagency-ghidra]] [[mksglu-context-mode]] [[cloudflare-security-audit-skill]]
+[[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[mksglu-context-mode]] [[zhaoxuya520-reverse-skill]] [[mvschwarz-openrig]]
 
 **所属领域**: [[security]]
 

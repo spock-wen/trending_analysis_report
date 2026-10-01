@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[conardli-garden-skills]] [[nutlope-hallmark]] [[obra-superpowers]] [[heygen-com-hyperframes]] [[hkuds-cli-anything]]
+[[obra-superpowers]] [[rakyll-hey]] [[melgarafael-deskcommcrm]] [[ever-co-ever-gauzy]] [[conardli-garden-skills]]
 
 **所属领域**: [[web]] [[erp]]
 

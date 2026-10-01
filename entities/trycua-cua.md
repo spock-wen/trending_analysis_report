@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[openbao-openbao]] [[harry0703-moneyprinterturbo]] [[actions-runner-images]] [[heygen-com-hyperframes]]
+[[rakyll-hey]] [[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[openbao-openbao]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

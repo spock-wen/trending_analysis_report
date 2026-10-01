@@ -37,7 +37,7 @@ Google's open agentic orchestration runtime
 
 ## 相关项目
 
-[[openbao-openbao]] [[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[colbymchenry-codegraph]] [[mattpocock-skills]]
+[[rakyll-hey]] [[openbao-openbao]] [[colbymchenry-codegraph]] [[mattpocock-skills]] [[agent-substrate-substrate]]
 
 **所属领域**: [[ai-agent]]
 

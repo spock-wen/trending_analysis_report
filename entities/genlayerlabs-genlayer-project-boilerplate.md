@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[obra-superpowers]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[mksglu-context-mode]] [[ever-co-ever-gauzy]]
+[[obra-superpowers]] [[melgarafael-deskcommcrm]] [[mksglu-context-mode]] [[ever-co-ever-gauzy]] [[mvschwarz-openrig]]
 
 **所属领域**: [[erp]]
 

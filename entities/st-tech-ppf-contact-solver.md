@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[vectifyai-pageindex]] [[paperclipai-paperclip]]
+[[harry0703-moneyprinterturbo]] [[vectifyai-pageindex]] [[mattpocock-skills]] [[nvidia-openshell]] [[t8y2-dbx]]
 
 **所属领域**: [[cli]]
 

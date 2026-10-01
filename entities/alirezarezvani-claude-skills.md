@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[vectifyai-pageindex]] [[obra-superpowers]]
+[[obra-superpowers]] [[paperclipai-paperclip]] [[affaan-m-ecc]] [[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

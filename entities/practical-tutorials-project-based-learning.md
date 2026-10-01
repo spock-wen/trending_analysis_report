@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[vectifyai-pageindex]] [[rohitg00-ai-engineering-from-scratch]]
+[[harry0703-moneyprinterturbo]] [[vectorize-io-hindsight]] [[vectifyai-pageindex]] [[debpalash-voicestudio]] [[cs341-illinois-coursebook]]
 
 **所属领域**: [[education]]
 

@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[vectifyai-pageindex]] [[openbao-openbao]]
+[[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[paperclipai-paperclip]] [[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

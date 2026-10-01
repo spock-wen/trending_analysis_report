@@ -38,5 +38,5 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[vectifyai-pageindex]]
+[[vectifyai-pageindex]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[debpalash-voicestudio]]
 

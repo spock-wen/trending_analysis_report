@@ -34,5 +34,5 @@ TypeScript-to-Native Compiler
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[openclaw-openclaw]] [[mvschwarz-openrig]] [[mksglu-context-mode]]
+[[openclaw-openclaw]] [[mvschwarz-openrig]] [[heygen-com-hyperframes]] [[mksglu-context-mode]]
 

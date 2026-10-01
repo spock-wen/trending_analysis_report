@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[hkuds-cli-anything]]
+[[rakyll-hey]] [[rohitg00-ai-engineering-from-scratch]] [[mksglu-context-mode]] [[mvschwarz-openrig]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[education]]
 

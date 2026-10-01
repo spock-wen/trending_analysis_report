@@ -37,7 +37,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[vectifyai-pageindex]] [[heygen-com-hyperframes]]
+[[rakyll-hey]] [[harry0703-moneyprinterturbo]] [[vectifyai-pageindex]] [[hkuds-cli-anything]] [[debpalash-voicestudio]]
 
 **所属领域**: [[web]]
 

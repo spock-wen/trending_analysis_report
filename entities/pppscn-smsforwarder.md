@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[embabel-embabel-agent]] [[heygen-com-hyperframes]] [[hkuds-cli-anything]] [[andreknieriem-headunit-revived]]
+[[bannedbook-fanqiang]] [[rakyll-hey]] [[embabel-embabel-agent]] [[hkuds-cli-anything]] [[mahlernim-google-timeline-visualizer]]
 
 **所属领域**: [[web]]
 

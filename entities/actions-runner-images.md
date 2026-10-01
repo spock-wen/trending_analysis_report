@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[trycua-cua]] [[paperclipai-paperclip]] [[nvidia-openshell]] [[fxembed-fxembed]] [[zhouxiaoka-autoclip]]
+[[trycua-cua]] [[mattpocock-skills]] [[nvidia-openshell]] [[t8y2-dbx]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

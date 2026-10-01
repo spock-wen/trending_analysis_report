@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[nvidia-openshell]] [[block-buzz]] [[mattpocock-skills]] [[akitaonrails-ai-memory]]
+[[mattpocock-skills]] [[nvidia-openshell]] [[block-buzz]] [[akitaonrails-ai-memory]] [[t8y2-dbx]]
 
 **所属领域**: [[cli]]
 

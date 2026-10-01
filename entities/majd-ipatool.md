@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[openbao-openbao]] [[paperclipai-paperclip]] [[nvidia-openshell]] [[mattpocock-skills]] [[google-ax]]
+[[google-ax]] [[rakyll-hey]] [[openbao-openbao]] [[agent-substrate-substrate]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

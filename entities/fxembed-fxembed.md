@@ -34,7 +34,7 @@ Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translatio
 
 ## 相关项目
 
-[[actions-runner-images]] [[trycua-cua]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[zhouxiaoka-autoclip]]
+[[trycua-cua]] [[mksglu-context-mode]] [[mvschwarz-openrig]] [[zhouxiaoka-autoclip]] [[openclaw-openclaw]]
 
 **所属领域**: [[image-gen]]
 

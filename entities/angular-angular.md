@@ -34,7 +34,7 @@ Deliver web apps with confidence 🚀
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[openclaw-openclaw]] [[hkuds-cli-anything]] [[mksglu-context-mode]] [[averygan-reclip]]
+[[rakyll-hey]] [[mksglu-context-mode]] [[mvschwarz-openrig]] [[hkuds-cli-anything]] [[openclaw-openclaw]]
 
 **所属领域**: [[web]]
 

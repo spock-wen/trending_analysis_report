@@ -38,7 +38,7 @@ An advanced guide to learn English which might benefit you a lot 🎉 . 人生�
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[nvidia-model-optimizer]] [[cs341-illinois-coursebook]] [[vectorize-io-hindsight]]
+[[cs341-illinois-coursebook]] [[nvidia-model-optimizer]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[education]]
 

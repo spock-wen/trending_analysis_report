@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[vectifyai-pageindex]] [[openbao-openbao]]
+[[rakyll-hey]] [[harry0703-moneyprinterturbo]] [[openbao-openbao]] [[vectifyai-pageindex]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[data]]
 

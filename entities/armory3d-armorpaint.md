@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[justvugg-colibri]] [[colbymchenry-codegraph]] [[mattpocock-skills]]
+[[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[willfaust-madeira]] [[deusdata-codebase-memory-mcp]]
 
 **所属领域**: [[ai-agent]]
 

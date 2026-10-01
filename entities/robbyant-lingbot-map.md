@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[vectifyai-pageindex]] [[openbao-openbao]]
+[[harry0703-moneyprinterturbo]] [[openbao-openbao]] [[vectifyai-pageindex]] [[trycua-cua]] [[t8y2-dbx]]
 
 **所属领域**: [[data]]
 

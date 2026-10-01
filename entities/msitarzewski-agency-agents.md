@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[infinityloop1308-pipepipe]] [[obra-superpowers]] [[heygen-com-hyperframes]] [[paperclipai-paperclip]]
+[[infinityloop1308-pipepipe]] [[obra-superpowers]] [[rakyll-hey]] [[colbymchenry-codegraph]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[cilium-cilium]] [[nvidia-openshell]] [[block-buzz]] [[akitaonrails-ai-memory]] [[davila7-claude-code-templates]]
+[[nvidia-openshell]] [[block-buzz]] [[akitaonrails-ai-memory]] [[t8y2-dbx]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[devops]]
 

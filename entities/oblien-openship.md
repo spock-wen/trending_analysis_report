@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[cilium-cilium]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[mksglu-context-mode]] [[davila7-claude-code-templates]]
+[[mksglu-context-mode]] [[mvschwarz-openrig]] [[openclaw-openclaw]] [[davila7-claude-code-templates]] [[cilium-cilium]]
 
 **所属领域**: [[devops]]
 

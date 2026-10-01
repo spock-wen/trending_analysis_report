@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[nationalsecurityagency-ghidra]] [[colbymchenry-codegraph]]
+[[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[penpot-penpot]] [[heygen-com-hyperframes]] [[colbymchenry-codegraph]] [[mattpocock-skills]]
+[[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[mattpocock-skills]] [[penpot-penpot]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]]
 

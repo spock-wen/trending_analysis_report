@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[harry0703-moneyprinterturbo]] [[trycua-cua]] [[heygen-com-hyperframes]] [[paperclipai-paperclip]]
+[[affaan-m-ecc]] [[paperclipai-paperclip]] [[rakyll-hey]] [[trycua-cua]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

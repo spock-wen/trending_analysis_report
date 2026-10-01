@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[vectifyai-pageindex]] [[paperclipai-paperclip]]
+[[harry0703-moneyprinterturbo]] [[jamiepine-voicebox]] [[vectifyai-pageindex]] [[mattpocock-skills]] [[nvidia-openshell]]
 
 **所属领域**: [[cli]] [[audio]]
 

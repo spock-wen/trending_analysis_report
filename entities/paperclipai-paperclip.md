@@ -38,7 +38,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[nvidia-openshell]] [[colbymchenry-codegraph]]
+[[affaan-m-ecc]] [[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

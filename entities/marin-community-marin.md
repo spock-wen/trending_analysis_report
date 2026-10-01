@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[vectifyai-pageindex]] [[paperclipai-paperclip]]
+[[affaan-m-ecc]] [[harry0703-moneyprinterturbo]] [[vectifyai-pageindex]] [[zhaoxuya520-reverse-skill]] [[debpalash-voicestudio]]
 
 **所属领域**: [[science]]
 

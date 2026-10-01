@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[paperclipai-paperclip]] [[nvidia-openshell]] [[block-buzz]] [[hkuds-cli-anything]]
+[[paperclipai-paperclip]] [[rakyll-hey]] [[mattpocock-skills]] [[nvidia-openshell]] [[block-buzz]]
 
 **所属领域**: [[web]] [[cli]]
 

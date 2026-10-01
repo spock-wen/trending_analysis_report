@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[openclaw-openclaw]] [[paperclipai-paperclip]] [[nvidia-openshell]] [[mksglu-context-mode]]
+[[paperclipai-paperclip]] [[mattpocock-skills]] [[mksglu-context-mode]] [[nvidia-openshell]] [[mvschwarz-openrig]]
 
 **所属领域**: [[cli]]
 

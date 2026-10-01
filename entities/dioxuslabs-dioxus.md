@@ -35,7 +35,7 @@ Fullstack app framework for web, desktop, and mobile.
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[nvidia-openshell]] [[block-buzz]] [[hkuds-cli-anything]] [[akitaonrails-ai-memory]]
+[[rakyll-hey]] [[nvidia-openshell]] [[block-buzz]] [[akitaonrails-ai-memory]] [[t8y2-dbx]]
 
 **所属领域**: [[web]]
 

@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[trycua-cua]] [[mksglu-context-mode]]
+[[heygen-com-hyperframes]] [[zhouxiaoka-autoclip]] [[mksglu-context-mode]] [[mvschwarz-openrig]] [[actions-runner-images]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

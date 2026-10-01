@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[mattpocock-skills]] [[microsoft-generative-ai-for-beginners]] [[heygen-com-hyperframes]] [[lyogavin-airllm]]
+[[nvidia-model-optimizer]] [[davila7-claude-code-templates]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

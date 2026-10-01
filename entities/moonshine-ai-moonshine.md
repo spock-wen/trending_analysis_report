@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[harry7557558-spirula-studio]] [[jamiepine-voicebox]]
+[[jamiepine-voicebox]] [[firebase-firebase-ios-sdk]] [[heygen-com-hyperframes]] [[colbymchenry-codegraph]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

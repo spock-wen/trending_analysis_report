@@ -34,7 +34,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[rakyll-hey]] [[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[vectifyai-pageindex]]
+[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[nvidia-openshell]] [[t8y2-dbx]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

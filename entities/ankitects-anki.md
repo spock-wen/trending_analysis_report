@@ -35,5 +35,5 @@ Anki is a smart spaced repetition flashcard program
 
 ## 相关项目
 
-[[block-buzz]] [[akitaonrails-ai-memory]] [[t8y2-dbx]] [[nvidia-openshell]]
+[[t8y2-dbx]] [[akitaonrails-ai-memory]] [[block-buzz]] [[nvidia-openshell]]
 

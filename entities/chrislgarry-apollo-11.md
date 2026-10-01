@@ -37,7 +37,7 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 
 ## 相关项目
 
-[[t8y2-dbx]] [[mattpocock-skills]] [[paperclipai-paperclip]] [[nvidia-openshell]]
+[[paperclipai-paperclip]] [[t8y2-dbx]] [[mattpocock-skills]] [[nvidia-openshell]]
 
 **所属领域**: [[cli]]
 

@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[cs341-illinois-coursebook]] [[heygen-com-hyperframes]]
+[[cs341-illinois-coursebook]] [[heygen-com-hyperframes]] [[mattpocock-skills]] [[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]]
 

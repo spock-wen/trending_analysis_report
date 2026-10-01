@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[colbymchenry-codegraph]] [[androoagi-starnet]] [[mattpocock-skills]]
+[[heygen-com-hyperframes]] [[colbymchenry-codegraph]] [[mattpocock-skills]] [[zhaoxuya520-reverse-skill]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

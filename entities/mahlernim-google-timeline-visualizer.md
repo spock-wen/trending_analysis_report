@@ -36,7 +36,7 @@ Visualize your year in travel using your Google Location History (Timeline) data
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[openbao-openbao]] [[trycua-cua]] [[embabel-embabel-agent]] [[t8y2-dbx]]
+[[embabel-embabel-agent]] [[andreknieriem-headunit-revived]] [[t8y2-dbx]] [[openbao-openbao]] [[bannedbook-fanqiang]]
 
 **所属领域**: [[data]]
 

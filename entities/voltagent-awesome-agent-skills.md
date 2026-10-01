@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[nvidia-openshell]]
+[[heygen-com-hyperframes]] [[nvidia-openshell]] [[t8y2-dbx]] [[paperclipai-paperclip]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

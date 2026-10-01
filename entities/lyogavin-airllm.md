@@ -38,7 +38,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[microsoft-generative-ai-for-beginners]]
+[[microsoft-generative-ai-for-beginners]] [[higgsfield-ai-higgsfield]] [[heygen-com-hyperframes]] [[microsoft-ai-for-beginners]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

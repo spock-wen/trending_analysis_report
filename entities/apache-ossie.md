@@ -35,7 +35,7 @@ Apache Ossie, industry wide specification effort to standardize how we exchange 
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[vectifyai-pageindex]] [[mattpocock-skills]] [[openbao-openbao]]
+[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[t8y2-dbx]] [[debpalash-voicestudio]] [[vectifyai-pageindex]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

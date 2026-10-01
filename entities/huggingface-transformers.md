@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[vectifyai-pageindex]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[jamiepine-voicebox]] [[rohitg00-ai-engineering-from-scratch]] [[heygen-com-hyperframes]] [[cs341-illinois-coursebook]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

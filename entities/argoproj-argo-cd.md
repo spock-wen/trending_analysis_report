@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[google-ax]] [[rakyll-hey]] [[openbao-openbao]] [[agent-substrate-substrate]] [[davila7-claude-code-templates]]
+[[cilium-cilium]] [[google-ax]] [[agent-substrate-substrate]] [[oblien-openship]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[devops]]
 

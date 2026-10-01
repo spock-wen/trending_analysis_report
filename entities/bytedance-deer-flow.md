@@ -38,7 +38,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[paperclipai-paperclip]] [[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[vectifyai-pageindex]]
+[[paperless-ngx-paperless-ngx]] [[heygen-com-hyperframes]] [[zhaoxuya520-reverse-skill]] [[composiohq-awesome-claude-skills]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

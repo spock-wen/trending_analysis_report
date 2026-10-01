@@ -34,5 +34,5 @@ OpenToonz - An open-source full-featured 2D animation creation software
 
 ## 相关项目
 
-[[harry7557558-spirula-studio]] [[fmtlib-fmt]] [[firebase-firebase-ios-sdk]] [[tensorflow-tensorflow]]
+[[fmtlib-fmt]] [[firebase-firebase-ios-sdk]] [[tensorflow-tensorflow]] [[harry7557558-spirula-studio]]
 

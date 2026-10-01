@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[google-ax]] [[rakyll-hey]] [[openbao-openbao]] [[agent-substrate-substrate]] [[mattpocock-skills]]
+[[nvidia-openshell]] [[t8y2-dbx]] [[google-ax]] [[agent-substrate-substrate]] [[paperclipai-paperclip]]
 
 **所属领域**: [[cli]]
 

@@ -37,7 +37,7 @@ Open source inference server that runs the best local models for your hardware, 
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[mksglu-context-mode]]
+[[heygen-com-hyperframes]] [[mksglu-context-mode]] [[mvschwarz-openrig]] [[nvidia-openshell]] [[t8y2-dbx]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

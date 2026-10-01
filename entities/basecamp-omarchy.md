@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[obra-superpowers]] [[nvm-sh-nvm]] [[mattpocock-skills]] [[nvidia-openshell]]
+[[nvm-sh-nvm]] [[nvidia-openshell]] [[t8y2-dbx]] [[obra-superpowers]] [[paperclipai-paperclip]]
 
 **所属领域**: [[cli]]
 

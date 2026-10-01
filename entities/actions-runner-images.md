@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[trycua-cua]] [[mattpocock-skills]] [[nvidia-openshell]] [[t8y2-dbx]] [[zhaoxuya520-reverse-skill]]
+[[zhaoxuya520-reverse-skill]] [[zhouxiaoka-autoclip]] [[nvidia-openshell]] [[t8y2-dbx]] [[paperclipai-paperclip]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

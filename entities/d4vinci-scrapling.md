@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[rakyll-hey]] [[harry0703-moneyprinterturbo]] [[vectifyai-pageindex]] [[hkuds-cli-anything]] [[debpalash-voicestudio]]
+[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[averygan-reclip]] [[debpalash-voicestudio]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

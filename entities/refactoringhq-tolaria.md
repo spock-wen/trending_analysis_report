@@ -38,5 +38,5 @@ Desktop app to manage markdown knowledge bases
 
 ## 相关项目
 
-[[openclaw-openclaw]] [[mvschwarz-openrig]] [[heygen-com-hyperframes]] [[mksglu-context-mode]]
+[[mvschwarz-openrig]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[mksglu-context-mode]]
 

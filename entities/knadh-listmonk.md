@@ -34,7 +34,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[google-ax]] [[rakyll-hey]] [[openbao-openbao]] [[agent-substrate-substrate]] [[mattpocock-skills]]
+[[heygen-com-hyperframes]] [[google-ax]] [[agent-substrate-substrate]] [[openbao-openbao]] [[rakyll-hey]]
 
 **所属领域**: [[ai-agent]]
 

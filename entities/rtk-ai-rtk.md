@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[nvidia-openshell]]
+[[heygen-com-hyperframes]] [[nvidia-openshell]] [[t8y2-dbx]] [[akitaonrails-ai-memory]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

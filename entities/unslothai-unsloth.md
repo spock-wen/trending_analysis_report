@@ -37,7 +37,7 @@ Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[vectifyai-pageindex]] [[mattpocock-skills]] [[trycua-cua]]
+[[heygen-com-hyperframes]] [[zhouxiaoka-autoclip]] [[composiohq-awesome-claude-skills]] [[actions-runner-images]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

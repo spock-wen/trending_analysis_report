@@ -36,7 +36,7 @@ Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[peetzweg-opendisplay]] [[colbymchenry-codegraph]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]]
+[[abue-ammar-tinycast]] [[heygen-com-hyperframes]] [[nvidia-openshell]] [[lakr233-vphone-cli]] [[t8y2-dbx]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

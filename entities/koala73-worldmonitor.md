@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[mksglu-context-mode]] [[mvschwarz-openrig]]
+[[heygen-com-hyperframes]] [[mksglu-context-mode]] [[mvschwarz-openrig]] [[cilium-cilium]] [[oblien-openship]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

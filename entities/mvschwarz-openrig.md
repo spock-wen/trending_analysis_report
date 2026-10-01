@@ -37,7 +37,7 @@ Multi-agent harness that runs Claude Code and Codex together as one system
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[mksglu-context-mode]] [[openclaw-openclaw]]
+[[heygen-com-hyperframes]] [[mksglu-context-mode]] [[openclaw-openclaw]] [[mattpocock-skills]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]]
 

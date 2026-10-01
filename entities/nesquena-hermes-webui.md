@@ -37,7 +37,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[rakyll-hey]] [[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[vectifyai-pageindex]] [[mattpocock-skills]]
+[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[averygan-reclip]] [[debpalash-voicestudio]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

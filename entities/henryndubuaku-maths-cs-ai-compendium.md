@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[paperclipai-paperclip]] [[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]]
+[[paperless-ngx-paperless-ngx]] [[heygen-com-hyperframes]] [[zhaoxuya520-reverse-skill]] [[mksglu-context-mode]] [[mvschwarz-openrig]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

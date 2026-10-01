@@ -38,7 +38,7 @@ Collection of publicly available IPTV channels from all over the world
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[mksglu-context-mode]] [[mvschwarz-openrig]]
+[[heygen-com-hyperframes]] [[mksglu-context-mode]] [[mvschwarz-openrig]] [[openclaw-openclaw]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

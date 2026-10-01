@@ -36,7 +36,7 @@ RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine tha
 
 ## 相关项目
 
-[[google-ax]] [[rakyll-hey]] [[openbao-openbao]] [[agent-substrate-substrate]] [[mattpocock-skills]]
+[[heygen-com-hyperframes]] [[zhouxiaoka-autoclip]] [[actions-runner-images]] [[google-ax]] [[agent-substrate-substrate]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

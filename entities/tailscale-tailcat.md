@@ -35,7 +35,7 @@ like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 ## 相关项目
 
-[[google-ax]] [[rakyll-hey]] [[openbao-openbao]] [[agent-substrate-substrate]] [[mattpocock-skills]]
+[[heygen-com-hyperframes]] [[t8y2-dbx]] [[google-ax]] [[agent-substrate-substrate]] [[openbao-openbao]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

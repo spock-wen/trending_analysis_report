@@ -34,7 +34,7 @@ Persistent file-based planning for AI coding agents and long-running agentic tas
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[vectifyai-pageindex]] [[mattpocock-skills]]
+[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[nvidia-openshell]] [[t8y2-dbx]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

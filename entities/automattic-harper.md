@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[nvidia-openshell]] [[block-buzz]] [[akitaonrails-ai-memory]] [[zhaoxuya520-reverse-skill]]
+[[zhaoxuya520-reverse-skill]] [[nvidia-openshell]] [[t8y2-dbx]] [[akitaonrails-ai-memory]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[security]]
 

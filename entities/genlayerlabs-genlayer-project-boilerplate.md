@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[obra-superpowers]] [[melgarafael-deskcommcrm]] [[mksglu-context-mode]] [[ever-co-ever-gauzy]] [[mvschwarz-openrig]]
+[[ever-co-ever-gauzy]] [[heygen-com-hyperframes]] [[mksglu-context-mode]] [[mvschwarz-openrig]] [[danny-avila-librechat]]
 
 **所属领域**: [[erp]]
 

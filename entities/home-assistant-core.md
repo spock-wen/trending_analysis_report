@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[harry0703-moneyprinterturbo]] [[vectifyai-pageindex]] [[zhaoxuya520-reverse-skill]] [[debpalash-voicestudio]]
+[[zhaoxuya520-reverse-skill]] [[composiohq-awesome-claude-skills]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]] [[debpalash-voicestudio]]
 
 **所属领域**: [[security]]
 

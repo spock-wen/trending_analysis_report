@@ -35,7 +35,7 @@ An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶�
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[androoagi-starnet]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[dietrichgebert-ponytail]]
+[[heygen-com-hyperframes]] [[pbakaus-impeccable]] [[androoagi-starnet]] [[dietrichgebert-ponytail]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

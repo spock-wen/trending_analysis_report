@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[paperclipai-paperclip]] [[colbymchenry-codegraph]] [[nvm-sh-nvm]] [[mattpocock-skills]]
+[[ever-co-ever-gauzy]] [[heygen-com-hyperframes]] [[nvm-sh-nvm]] [[nvidia-openshell]] [[t8y2-dbx]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

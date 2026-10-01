@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[vectifyai-pageindex]] [[mattpocock-skills]]
+[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[nvidia-openshell]] [[cilium-cilium]] [[t8y2-dbx]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

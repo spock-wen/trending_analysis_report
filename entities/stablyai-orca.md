@@ -36,7 +36,7 @@ Orca is the ADE for working with a fleet of parallel agents. Run any coding agen
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[mksglu-context-mode]] [[mvschwarz-openrig]]
+[[heygen-com-hyperframes]] [[mksglu-context-mode]] [[mvschwarz-openrig]] [[openclaw-openclaw]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[dotnet-aspnetcore]] [[jellyfin-jellyfin]]
+[[dotnet-aspnetcore]] [[heygen-com-hyperframes]] [[jellyfin-jellyfin]] [[k1tbyte-wand-enhancer]] [[sonarr-sonarr]]
 
 **所属领域**: [[ai-agent]]
 

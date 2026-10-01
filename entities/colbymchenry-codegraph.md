@@ -39,7 +39,7 @@ Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[willfaust-madeira]] [[deusdata-codebase-memory-mcp]] [[justvugg-colibri]]
+[[willfaust-madeira]] [[justvugg-colibri]] [[heygen-com-hyperframes]] [[deusdata-codebase-memory-mcp]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

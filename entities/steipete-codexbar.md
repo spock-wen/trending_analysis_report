@@ -36,7 +36,7 @@ Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 ## 相关项目
 
-[[peetzweg-opendisplay]] [[colbymchenry-codegraph]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[abue-ammar-tinycast]]
+[[abue-ammar-tinycast]] [[heygen-com-hyperframes]] [[lakr233-vphone-cli]] [[homebrew-brewui]] [[peetzweg-opendisplay]]
 
 **所属领域**: [[ai-agent]]
 

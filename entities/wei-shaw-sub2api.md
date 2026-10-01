@@ -34,7 +34,7 @@ Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅
 
 ## 相关项目
 
-[[google-ax]] [[rakyll-hey]] [[openbao-openbao]] [[agent-substrate-substrate]] [[mattpocock-skills]]
+[[heygen-com-hyperframes]] [[google-ax]] [[agent-substrate-substrate]] [[openbao-openbao]] [[rakyll-hey]]
 
 **所属领域**: [[ai-agent]]
 

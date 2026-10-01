@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[obra-superpowers]] [[rakyll-hey]] [[colbymchenry-codegraph]] [[nvm-sh-nvm]]
+[[heygen-com-hyperframes]] [[nvm-sh-nvm]] [[nvidia-openshell]] [[t8y2-dbx]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

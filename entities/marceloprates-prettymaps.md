@@ -34,7 +34,7 @@ Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[openbao-openbao]] [[vectifyai-pageindex]] [[trycua-cua]] [[t8y2-dbx]]
+[[composiohq-awesome-claude-skills]] [[t8y2-dbx]] [[debpalash-voicestudio]] [[vectifyai-pageindex]] [[openbao-openbao]]
 
 **所属领域**: [[data]]
 

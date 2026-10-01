@@ -36,7 +36,7 @@ Agent Substrate: the core system
 
 ## 相关项目
 
-[[google-ax]] [[rakyll-hey]] [[openbao-openbao]] [[colbymchenry-codegraph]] [[mattpocock-skills]]
+[[heygen-com-hyperframes]] [[google-ax]] [[openbao-openbao]] [[rakyll-hey]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

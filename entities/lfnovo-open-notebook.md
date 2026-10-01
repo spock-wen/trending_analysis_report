@@ -37,5 +37,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[openclaw-openclaw]] [[mvschwarz-openrig]] [[heygen-com-hyperframes]] [[mksglu-context-mode]]
+[[mvschwarz-openrig]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[mksglu-context-mode]]
 

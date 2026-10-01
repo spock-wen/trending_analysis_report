@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[openbao-openbao]]
+[[heygen-com-hyperframes]] [[nvidia-openshell]] [[akitaonrails-ai-memory]] [[paperclipai-paperclip]] [[block-buzz]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

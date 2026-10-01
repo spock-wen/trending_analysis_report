@@ -37,7 +37,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[androoagi-starnet]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[dietrichgebert-ponytail]]
+[[heygen-com-hyperframes]] [[mattpocock-skills]] [[androoagi-starnet]] [[dietrichgebert-ponytail]] [[byoungd-up]]
 
 **所属领域**: [[ai-agent]]
 

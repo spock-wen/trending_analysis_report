@@ -34,7 +34,7 @@ Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB lapto
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[vectifyai-pageindex]] [[mattpocock-skills]] [[debpalash-voicestudio]]
+[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[debpalash-voicestudio]] [[vectifyai-pageindex]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

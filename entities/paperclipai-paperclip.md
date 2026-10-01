@@ -38,7 +38,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[mksglu-context-mode]]
+[[paperless-ngx-paperless-ngx]] [[heygen-com-hyperframes]] [[zhaoxuya520-reverse-skill]] [[mksglu-context-mode]] [[mvschwarz-openrig]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

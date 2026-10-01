@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[vectifyai-pageindex]]
+[[heygen-com-hyperframes]] [[zhaoxuya520-reverse-skill]] [[composiohq-awesome-claude-skills]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

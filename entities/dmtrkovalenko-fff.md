@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[nvidia-openshell]] [[block-buzz]]
+[[heygen-com-hyperframes]] [[nvidia-openshell]] [[t8y2-dbx]] [[akitaonrails-ai-memory]] [[block-buzz]]
 
 **所属领域**: [[ai-agent]]
 

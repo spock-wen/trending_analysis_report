@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[trycua-cua]] [[vectifyai-pageindex]] [[zhouxiaoka-autoclip]] [[debpalash-voicestudio]]
+[[zhouxiaoka-autoclip]] [[composiohq-awesome-claude-skills]] [[actions-runner-images]] [[debpalash-voicestudio]] [[vectifyai-pageindex]]
 
 **所属领域**: [[image-gen]]
 

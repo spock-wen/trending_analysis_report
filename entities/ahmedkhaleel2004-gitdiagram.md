@@ -34,5 +34,5 @@ Free, simple, fast interactive diagrams for any GitHub repository
 
 ## 相关项目
 
-[[openclaw-openclaw]] [[mvschwarz-openrig]] [[heygen-com-hyperframes]] [[mksglu-context-mode]]
+[[mvschwarz-openrig]] [[heygen-com-hyperframes]] [[openclaw-openclaw]] [[mksglu-context-mode]]
 

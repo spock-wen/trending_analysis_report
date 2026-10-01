@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[rohitg00-ai-engineering-from-scratch]] [[heygen-com-hyperframes]] [[cs341-illinois-coursebook]] [[mksglu-context-mode]] [[mvschwarz-openrig]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

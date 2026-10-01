@@ -36,7 +36,7 @@ Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, to
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[mksglu-context-mode]] [[mvschwarz-openrig]]
+[[heygen-com-hyperframes]] [[mksglu-context-mode]] [[mvschwarz-openrig]] [[openclaw-openclaw]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 |
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[vectifyai-pageindex]] [[mattpocock-skills]] [[debpalash-voicestudio]]
+[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[debpalash-voicestudio]] [[vectifyai-pageindex]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

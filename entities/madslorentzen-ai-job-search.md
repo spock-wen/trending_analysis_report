@@ -37,7 +37,7 @@ The job search that runs on your machine. AI job application framework built on 
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[vectifyai-pageindex]] [[mattpocock-skills]] [[debpalash-voicestudio]]
+[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[debpalash-voicestudio]] [[vectifyai-pageindex]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

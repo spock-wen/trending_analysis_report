@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[rakyll-hey]] [[trycua-cua]] [[colbymchenry-codegraph]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]]
+[[heygen-com-hyperframes]] [[t8y2-dbx]] [[averygan-reclip]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

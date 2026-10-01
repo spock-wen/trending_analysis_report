@@ -34,7 +34,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[vectifyai-pageindex]] [[mattpocock-skills]] [[jamiepine-voicebox]]
+[[jamiepine-voicebox]] [[heygen-com-hyperframes]] [[multimodal-art-projection-yue]] [[composiohq-awesome-claude-skills]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

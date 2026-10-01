@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[openbao-openbao]] [[trycua-cua]] [[mksglu-context-mode]] [[t8y2-dbx]] [[mvschwarz-openrig]]
+[[heygen-com-hyperframes]] [[mksglu-context-mode]] [[mvschwarz-openrig]] [[cilium-cilium]] [[t8y2-dbx]]
 
 **所属领域**: [[data]] [[devops]]
 

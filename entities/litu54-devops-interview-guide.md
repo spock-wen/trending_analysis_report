@@ -34,7 +34,7 @@ DevOps Interview Guide
 
 ## 相关项目
 
-[[oblien-openship]] [[cilium-cilium]] [[nvidia-model-optimizer]] [[davila7-claude-code-templates]]
+[[cilium-cilium]] [[davila7-claude-code-templates]] [[oblien-openship]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[devops]]
 

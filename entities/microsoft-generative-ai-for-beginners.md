@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[rohitg00-ai-engineering-from-scratch]] [[higgsfield-ai-higgsfield]] [[heygen-com-hyperframes]] [[cs341-illinois-coursebook]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[colbymchenry-codegraph]] [[yuliskov-smarttube]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]]
+[[heygen-com-hyperframes]] [[google-guava]] [[nvidia-openshell]] [[t8y2-dbx]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

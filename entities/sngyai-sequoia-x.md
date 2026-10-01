@@ -34,7 +34,7 @@ A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运�
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[vectifyai-pageindex]] [[mattpocock-skills]] [[debpalash-voicestudio]]
+[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[debpalash-voicestudio]] [[vectifyai-pageindex]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

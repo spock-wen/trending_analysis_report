@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[rakyll-hey]] [[trycua-cua]] [[rohitg00-ai-engineering-from-scratch]] [[hkuds-cli-anything]] [[cathrynlavery-diagram-design]]
+[[rohitg00-ai-engineering-from-scratch]] [[heygen-com-hyperframes]] [[cs341-illinois-coursebook]] [[averygan-reclip]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[web]] [[education]]
 

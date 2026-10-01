@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[paperclipai-paperclip]] [[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[vectifyai-pageindex]]
+[[paperless-ngx-paperless-ngx]] [[heygen-com-hyperframes]] [[zhaoxuya520-reverse-skill]] [[zhouxiaoka-autoclip]] [[composiohq-awesome-claude-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

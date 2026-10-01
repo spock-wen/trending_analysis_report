@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[microsoft-generative-ai-for-beginners]]
+[[microsoft-generative-ai-for-beginners]] [[higgsfield-ai-higgsfield]] [[heygen-com-hyperframes]] [[lyogavin-airllm]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

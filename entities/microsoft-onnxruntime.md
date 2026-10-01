@@ -34,7 +34,7 @@ ONNX Runtime: cross-platform, high performance ML inferencing and training accel
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[harry7557558-spirula-studio]] [[fmtlib-fmt]]
+[[firebase-firebase-ios-sdk]] [[heygen-com-hyperframes]] [[colbymchenry-codegraph]] [[harry7557558-spirula-studio]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]]
 

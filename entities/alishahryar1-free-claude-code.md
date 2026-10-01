@@ -38,7 +38,7 @@ Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your 
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[vectifyai-pageindex]] [[mattpocock-skills]]
+[[jamiepine-voicebox]] [[heygen-com-hyperframes]] [[multimodal-art-projection-yue]] [[composiohq-awesome-claude-skills]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

@@ -38,7 +38,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[paperclipai-paperclip]] [[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[vectifyai-pageindex]]
+[[paperless-ngx-paperless-ngx]] [[heygen-com-hyperframes]] [[zhaoxuya520-reverse-skill]] [[composiohq-awesome-claude-skills]] [[t8y2-dbx]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

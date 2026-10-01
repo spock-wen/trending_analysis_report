@@ -38,5 +38,5 @@ Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, struct
 
 ## 相关项目
 
-[[vectifyai-pageindex]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[debpalash-voicestudio]]
+[[vectifyai-pageindex]] [[debpalash-voicestudio]] [[composiohq-awesome-claude-skills]] [[harry0703-moneyprinterturbo]]
 

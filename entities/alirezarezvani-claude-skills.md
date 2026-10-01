@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[obra-superpowers]] [[paperclipai-paperclip]] [[affaan-m-ecc]] [[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]]
+[[ever-co-ever-gauzy]] [[heygen-com-hyperframes]] [[zhaoxuya520-reverse-skill]] [[paperless-ngx-paperless-ngx]] [[composiohq-awesome-claude-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

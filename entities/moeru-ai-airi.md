@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[rakyll-hey]] [[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[jamiepine-voicebox]]
+[[jamiepine-voicebox]] [[heygen-com-hyperframes]] [[multimodal-art-projection-yue]] [[mksglu-context-mode]] [[mvschwarz-openrig]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

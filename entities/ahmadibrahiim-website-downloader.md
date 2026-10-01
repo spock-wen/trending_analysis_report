@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[rakyll-hey]] [[trycua-cua]] [[hkuds-cli-anything]] [[cathrynlavery-diagram-design]] [[zhouxiaoka-autoclip]]
+[[heygen-com-hyperframes]] [[zhouxiaoka-autoclip]] [[actions-runner-images]] [[averygan-reclip]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[image-gen]]
 

@@ -34,7 +34,7 @@ Lightpanda: the headless browser designed for AI and automation
 
 ## 相关项目
 
-[[rakyll-hey]] [[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[hkuds-cli-anything]]
+[[heygen-com-hyperframes]] [[averygan-reclip]] [[hkuds-cli-anything]] [[rakyll-hey]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

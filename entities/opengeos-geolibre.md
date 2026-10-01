@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[rakyll-hey]] [[openbao-openbao]] [[trycua-cua]] [[mksglu-context-mode]] [[mvschwarz-openrig]]
+[[heygen-com-hyperframes]] [[mksglu-context-mode]] [[mvschwarz-openrig]] [[t8y2-dbx]] [[averygan-reclip]]
 
 **所属领域**: [[web]] [[data]]
 

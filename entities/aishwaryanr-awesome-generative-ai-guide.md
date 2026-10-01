@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[paperclipai-paperclip]] [[rakyll-hey]] [[trycua-cua]] [[colbymchenry-codegraph]]
+[[paperless-ngx-paperless-ngx]] [[heygen-com-hyperframes]] [[zhaoxuya520-reverse-skill]] [[paperclipai-paperclip]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

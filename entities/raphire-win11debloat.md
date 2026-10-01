@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[mattpocock-skills]] [[nvidia-openshell]] [[t8y2-dbx]] [[zhaoxuya520-reverse-skill]] [[actions-runner-images]]
+[[zhaoxuya520-reverse-skill]] [[nvidia-openshell]] [[actions-runner-images]] [[t8y2-dbx]] [[paperclipai-paperclip]]
 
 **所属领域**: [[cli]]
 

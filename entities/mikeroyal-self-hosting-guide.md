@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[rakyll-hey]] [[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[rohitg00-ai-engineering-from-scratch]] [[heygen-com-hyperframes]] [[cs341-illinois-coursebook]] [[averygan-reclip]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

@@ -36,5 +36,5 @@ A beautiful, powerful, self-hosted rom manager and player.
 
 ## 相关项目
 
-[[vectifyai-pageindex]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[debpalash-voicestudio]]
+[[vectifyai-pageindex]] [[debpalash-voicestudio]] [[composiohq-awesome-claude-skills]] [[harry0703-moneyprinterturbo]]
 

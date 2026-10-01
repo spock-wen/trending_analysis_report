@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[google-ax]] [[rakyll-hey]] [[openbao-openbao]] [[agent-substrate-substrate]] [[mattpocock-skills]]
+[[heygen-com-hyperframes]] [[nvidia-openshell]] [[t8y2-dbx]] [[google-ax]] [[agent-substrate-substrate]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

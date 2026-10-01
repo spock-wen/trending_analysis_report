@@ -36,7 +36,7 @@ Lightweight coding agent that runs in your terminal
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[nvidia-openshell]]
+[[heygen-com-hyperframes]] [[nvidia-openshell]] [[t8y2-dbx]] [[akitaonrails-ai-memory]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

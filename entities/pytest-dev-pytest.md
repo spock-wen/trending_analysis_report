@@ -34,5 +34,5 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 
 ## 相关项目
 
-[[vectifyai-pageindex]] [[harry0703-moneyprinterturbo]] [[composiohq-awesome-claude-skills]] [[debpalash-voicestudio]]
+[[vectifyai-pageindex]] [[debpalash-voicestudio]] [[composiohq-awesome-claude-skills]] [[harry0703-moneyprinterturbo]]
 

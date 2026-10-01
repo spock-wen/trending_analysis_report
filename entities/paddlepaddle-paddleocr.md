@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[vectifyai-pageindex]] [[mattpocock-skills]] [[openbao-openbao]]
+[[heygen-com-hyperframes]] [[zhouxiaoka-autoclip]] [[composiohq-awesome-claude-skills]] [[actions-runner-images]] [[t8y2-dbx]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

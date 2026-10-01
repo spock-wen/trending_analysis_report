@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[rakyll-hey]] [[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[vectifyai-pageindex]] [[mattpocock-skills]]
+[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[cilium-cilium]] [[t8y2-dbx]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

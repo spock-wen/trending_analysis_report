@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[obra-superpowers]] [[harry0703-moneyprinterturbo]] [[melgarafael-deskcommcrm]] [[vectifyai-pageindex]] [[ever-co-ever-gauzy]]
+[[ever-co-ever-gauzy]] [[composiohq-awesome-claude-skills]] [[danny-avila-librechat]] [[obra-superpowers]] [[melgarafael-deskcommcrm]]
 
 **所属领域**: [[erp]]
 

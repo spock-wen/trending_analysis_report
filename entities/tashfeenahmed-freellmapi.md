@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[colbymchenry-codegraph]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]]
+[[heygen-com-hyperframes]] [[zhaoxuya520-reverse-skill]] [[mksglu-context-mode]] [[mvschwarz-openrig]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

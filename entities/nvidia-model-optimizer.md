@@ -36,7 +36,7 @@ A unified library of SOTA model optimization techniques like quantization, disti
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[vectifyai-pageindex]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[rohitg00-ai-engineering-from-scratch]] [[heygen-com-hyperframes]] [[cs341-illinois-coursebook]] [[composiohq-awesome-claude-skills]] [[cilium-cilium]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

@@ -38,7 +38,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[yuliskov-smarttube]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[heygen-com-hyperframes]]
+[[heygen-com-hyperframes]] [[google-guava]] [[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]] [[yuliskov-smarttube]]
 
 **所属领域**: [[ai-agent]]
 

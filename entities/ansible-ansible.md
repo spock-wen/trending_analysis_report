@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[rakyll-hey]] [[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[vectifyai-pageindex]] [[mattpocock-skills]]
+[[heygen-com-hyperframes]] [[composiohq-awesome-claude-skills]] [[cilium-cilium]] [[averygan-reclip]] [[oblien-openship]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

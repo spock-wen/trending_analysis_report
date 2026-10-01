@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[google-ax]] [[rakyll-hey]] [[openbao-openbao]] [[agent-substrate-substrate]]
+[[zhaoxuya520-reverse-skill]] [[cloudflare-security-audit-skill]] [[google-ax]] [[agent-substrate-substrate]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[devops]] [[security]]
 

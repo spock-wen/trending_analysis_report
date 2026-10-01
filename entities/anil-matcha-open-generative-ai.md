@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[androoagi-starnet]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[trycua-cua]]
+[[heygen-com-hyperframes]] [[colbymchenry-codegraph]] [[mattpocock-skills]] [[zhouxiaoka-autoclip]] [[actions-runner-images]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

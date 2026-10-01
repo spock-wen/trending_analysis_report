@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[jamiepine-voicebox]] [[vectifyai-pageindex]] [[mattpocock-skills]] [[nvidia-openshell]]
+[[jamiepine-voicebox]] [[multimodal-art-projection-yue]] [[composiohq-awesome-claude-skills]] [[nvidia-openshell]] [[t8y2-dbx]]
 
 **所属领域**: [[cli]] [[audio]]
 

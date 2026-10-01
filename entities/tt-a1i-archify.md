@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[rakyll-hey]] [[colbymchenry-codegraph]] [[androoagi-starnet]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]]
+[[heygen-com-hyperframes]] [[colbymchenry-codegraph]] [[mattpocock-skills]] [[t8y2-dbx]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

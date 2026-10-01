@@ -38,7 +38,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[androoagi-starnet]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[pbakaus-impeccable]]
+[[heygen-com-hyperframes]] [[mattpocock-skills]] [[pbakaus-impeccable]] [[androoagi-starnet]] [[byoungd-up]]
 
 **所属领域**: [[ai-agent]]
 

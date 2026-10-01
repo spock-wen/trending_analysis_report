@@ -34,5 +34,5 @@ GitHub Stacked PRs
 
 ## 相关项目
 
-[[google-ax]] [[rakyll-hey]] [[openbao-openbao]] [[agent-substrate-substrate]]
+[[openbao-openbao]] [[rakyll-hey]] [[google-ax]] [[agent-substrate-substrate]]
 

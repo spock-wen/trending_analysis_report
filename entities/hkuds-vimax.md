@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[harry0703-moneyprinterturbo]] [[colbymchenry-codegraph]] [[vectifyai-pageindex]] [[mattpocock-skills]] [[trycua-cua]]
+[[heygen-com-hyperframes]] [[zhouxiaoka-autoclip]] [[composiohq-awesome-claude-skills]] [[actions-runner-images]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

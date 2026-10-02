@@ -34,7 +34,7 @@ Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 
 ## 相关项目
 
-[[openbao-openbao]] [[t8y2-dbx]] [[tile-ai-tilelang]] [[deusdata-codebase-memory-mcp]] [[hunxbyts-ghosttrack]]
+[[deusdata-codebase-memory-mcp]] [[t8y2-dbx]] [[getsentry-sentry]] [[openbao-openbao]] [[hunxbyts-ghosttrack]]
 
 **所属领域**: [[data]]
 

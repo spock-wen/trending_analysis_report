@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[vectorize-io-hindsight]] [[tile-ai-tilelang]] [[obra-superpowers]] [[jamiepine-voicebox]]
+[[debpalash-voicestudio]] [[colbymchenry-codegraph]] [[tonhowtf-omniget]] [[pbakaus-impeccable]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

@@ -36,7 +36,7 @@ Turso is an in-process SQL database, compatible with SQLite.
 
 ## 相关项目
 
-[[nvidia-openshell]] [[openbao-openbao]] [[t8y2-dbx]] [[block-buzz]] [[akitaonrails-ai-memory]]
+[[deusdata-codebase-memory-mcp]] [[akitaonrails-ai-memory]] [[nvidia-openshell]] [[t8y2-dbx]] [[openbao-openbao]]
 
 **所属领域**: [[data]]
 

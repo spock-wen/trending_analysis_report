@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[mksglu-context-mode]] [[cursor-plugins]] [[heygen-com-hyperframes]]
+[[heygen-com-hyperframes]] [[nationalsecurityagency-ghidra]] [[cursor-plugins]] [[mksglu-context-mode]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[security]]
 

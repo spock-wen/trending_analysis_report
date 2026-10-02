@@ -37,7 +37,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[tile-ai-tilelang]] [[obra-superpowers]] [[averygan-reclip]] [[rakyll-hey]] [[hunxbyts-ghosttrack]]
+[[heygen-com-hyperframes]] [[rakyll-hey]] [[colbymchenry-codegraph]] [[averygan-reclip]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

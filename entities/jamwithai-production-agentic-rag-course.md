@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[vectorize-io-hindsight]] [[tile-ai-tilelang]] [[obra-superpowers]] [[hunxbyts-ghosttrack]] [[nvidia-model-optimizer]]
+[[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

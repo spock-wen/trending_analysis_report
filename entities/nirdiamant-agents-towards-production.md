@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[oblien-openship]] [[higgsfield-ai-higgsfield]] [[vectorize-io-hindsight]] [[melgarafael-deskcommcrm]] [[obra-superpowers]]
+[[oblien-openship]] [[davila7-claude-code-templates]] [[colbymchenry-codegraph]] [[lyogavin-airllm]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

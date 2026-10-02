@@ -38,7 +38,7 @@ Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
 
 ## 相关项目
 
-[[obra-superpowers]] [[androoagi-starnet]] [[byoungd-up]] [[pbakaus-impeccable]] [[dietrichgebert-ponytail]]
+[[dietrichgebert-ponytail]] [[colbymchenry-codegraph]] [[obra-superpowers]] [[byoungd-up]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[nvidia-openshell]] [[openbao-openbao]] [[t8y2-dbx]] [[google-guava]] [[obra-superpowers]]
+[[yuliskov-smarttube]] [[nationalsecurityagency-ghidra]] [[deusdata-codebase-memory-mcp]] [[checkstyle-checkstyle]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

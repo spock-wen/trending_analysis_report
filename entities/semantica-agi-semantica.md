@@ -38,7 +38,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[oblien-openship]] [[tile-ai-tilelang]] [[obra-superpowers]] [[cilium-cilium]] [[davila7-claude-code-templates]]
+[[oblien-openship]] [[davila7-claude-code-templates]] [[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

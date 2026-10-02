@@ -35,7 +35,7 @@ GLM-5: From Vibe Coding to Agentic Engineering
 
 ## 相关项目
 
-[[earendil-works-pi]] [[mattpocock-skills]] [[pbakaus-impeccable]] [[obra-superpowers]]
+[[mattpocock-skills]] [[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

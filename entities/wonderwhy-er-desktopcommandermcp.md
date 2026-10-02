@@ -38,7 +38,7 @@ This is MCP server for Claude that gives it terminal control, file system search
 
 ## 相关项目
 
-[[nvidia-openshell]] [[obra-superpowers]] [[mksglu-context-mode]] [[cursor-plugins]] [[heygen-com-hyperframes]]
+[[heygen-com-hyperframes]] [[cursor-plugins]] [[mksglu-context-mode]] [[colbymchenry-codegraph]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

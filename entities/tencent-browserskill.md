@@ -35,7 +35,7 @@ Let AI agents use your real, logged-in browser without interrupting your work. C
 
 ## 相关项目
 
-[[nvidia-openshell]] [[obra-superpowers]] [[mksglu-context-mode]] [[cursor-plugins]] [[averygan-reclip]]
+[[heygen-com-hyperframes]] [[cursor-plugins]] [[rakyll-hey]] [[mksglu-context-mode]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

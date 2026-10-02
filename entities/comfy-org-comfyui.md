@@ -35,7 +35,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[tile-ai-tilelang]] [[zhouxiaoka-autoclip]] [[hunxbyts-ghosttrack]] [[fxembed-fxembed]] [[trycua-cua]]
+[[actions-runner-images]] [[zhouxiaoka-autoclip]] [[trycua-cua]] [[getsentry-sentry]] [[hunxbyts-ghosttrack]]
 
 **所属领域**: [[image-gen]]
 

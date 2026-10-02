@@ -37,7 +37,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
 ## 相关项目
 
-[[nvidia-openshell]] [[obra-superpowers]] [[mksglu-context-mode]] [[cursor-plugins]] [[pbakaus-impeccable]]
+[[heygen-com-hyperframes]] [[cursor-plugins]] [[mksglu-context-mode]] [[colbymchenry-codegraph]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

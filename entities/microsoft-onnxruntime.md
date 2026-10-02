@@ -34,7 +34,7 @@ ONNX Runtime: cross-platform, high performance ML inferencing and training accel
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[obra-superpowers]] [[tensorflow-tensorflow]] [[pbakaus-impeccable]] [[harry7557558-spirula-studio]]
+[[fmtlib-fmt]] [[colbymchenry-codegraph]] [[firebase-firebase-ios-sdk]] [[obra-superpowers]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[ai-agent]]
 

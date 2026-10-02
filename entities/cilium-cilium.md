@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[oblien-openship]] [[openbao-openbao]] [[agent-substrate-substrate]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]]
+[[nationalsecurityagency-ghidra]] [[juliusbrussee-caveman]] [[oblien-openship]] [[rakyll-hey]] [[google-ax]]
 
 **所属领域**: [[devops]] [[security]]
 

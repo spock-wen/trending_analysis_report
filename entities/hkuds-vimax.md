@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tile-ai-tilelang]] [[obra-superpowers]] [[zhouxiaoka-autoclip]] [[hunxbyts-ghosttrack]] [[fxembed-fxembed]]
+[[actions-runner-images]] [[colbymchenry-codegraph]] [[zhouxiaoka-autoclip]] [[pbakaus-impeccable]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

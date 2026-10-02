@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[oblien-openship]] [[openbao-openbao]] [[t8y2-dbx]] [[mksglu-context-mode]] [[deusdata-codebase-memory-mcp]]
+[[heygen-com-hyperframes]] [[cursor-plugins]] [[oblien-openship]] [[deusdata-codebase-memory-mcp]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[data]] [[devops]]
 

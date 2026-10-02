@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[nvidia-openshell]] [[oblien-openship]] [[tile-ai-tilelang]] [[obra-superpowers]] [[cilium-cilium]]
+[[oblien-openship]] [[davila7-claude-code-templates]] [[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

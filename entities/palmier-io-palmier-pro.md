@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[obra-superpowers]] [[homebrew-brewui]] [[pbakaus-impeccable]] [[earendil-works-pi]]
+[[lakr233-vphone-cli]] [[peetzweg-opendisplay]] [[abue-ammar-tinycast]] [[colbymchenry-codegraph]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

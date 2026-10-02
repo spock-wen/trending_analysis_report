@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[obra-superpowers]] [[mksglu-context-mode]] [[jamiepine-voicebox]] [[cursor-plugins]]
+[[heygen-com-hyperframes]] [[cursor-plugins]] [[debpalash-voicestudio]] [[rakyll-hey]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

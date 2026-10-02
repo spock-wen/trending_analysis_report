@@ -35,7 +35,7 @@ Gas Town - multi-agent workspace manager
 
 ## 相关项目
 
-[[openbao-openbao]] [[agent-substrate-substrate]] [[obra-superpowers]] [[google-ax]] [[rakyll-hey]]
+[[juliusbrussee-caveman]] [[rakyll-hey]] [[google-ax]] [[colbymchenry-codegraph]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

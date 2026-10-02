@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]] [[mksglu-context-mode]] [[cursor-plugins]]
+[[heygen-com-hyperframes]] [[nationalsecurityagency-ghidra]] [[cursor-plugins]] [[mksglu-context-mode]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[nvidia-openshell]] [[tile-ai-tilelang]] [[obra-superpowers]] [[hunxbyts-ghosttrack]] [[harry0703-moneyprinterturbo]]
+[[obra-superpowers]] [[nvidia-openshell]] [[getsentry-sentry]] [[hunxbyts-ghosttrack]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

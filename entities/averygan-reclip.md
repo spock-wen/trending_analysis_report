@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[nvidia-openshell]] [[obra-superpowers]] [[rakyll-hey]] [[earendil-works-pi]] [[trycua-cua]]
+[[ripienaar-free-for-dev]] [[heygen-com-hyperframes]] [[rakyll-hey]] [[panniantong-agent-reach]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[cli]]
 

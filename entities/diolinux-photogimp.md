@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[obra-superpowers]] [[averygan-reclip]] [[rakyll-hey]] [[ever-co-ever-gauzy]]
+[[heygen-com-hyperframes]] [[rakyll-hey]] [[averygan-reclip]] [[melgarafael-deskcommcrm]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[erp]]
 

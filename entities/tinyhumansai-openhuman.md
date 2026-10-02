@@ -38,7 +38,7 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 ## 相关项目
 
-[[nvidia-openshell]] [[t8y2-dbx]] [[block-buzz]] [[akitaonrails-ai-memory]] [[obra-superpowers]]
+[[akitaonrails-ai-memory]] [[colbymchenry-codegraph]] [[paperclipai-paperclip]] [[paperless-ngx-paperless-ngx]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -38,7 +38,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[nvidia-openshell]] [[oblien-openship]] [[tile-ai-tilelang]] [[obra-superpowers]] [[cilium-cilium]]
+[[oblien-openship]] [[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

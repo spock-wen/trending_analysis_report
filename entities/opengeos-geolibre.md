@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[openbao-openbao]] [[t8y2-dbx]] [[mksglu-context-mode]] [[deusdata-codebase-memory-mcp]] [[cursor-plugins]]
+[[heygen-com-hyperframes]] [[cursor-plugins]] [[rakyll-hey]] [[deusdata-codebase-memory-mcp]] [[mksglu-context-mode]]
 
 **所属领域**: [[web]] [[data]]
 

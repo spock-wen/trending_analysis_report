@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[nvidia-openshell]] [[multimodal-art-projection-yue]] [[t8y2-dbx]] [[vectorize-io-hindsight]] [[block-buzz]]
+[[debpalash-voicestudio]] [[akitaonrails-ai-memory]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

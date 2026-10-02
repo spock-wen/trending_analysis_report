@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[vectorize-io-hindsight]] [[obra-superpowers]] [[averygan-reclip]] [[rakyll-hey]] [[nvidia-model-optimizer]]
+[[heygen-com-hyperframes]] [[rakyll-hey]] [[colbymchenry-codegraph]] [[averygan-reclip]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

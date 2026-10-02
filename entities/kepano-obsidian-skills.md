@@ -34,7 +34,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[nvidia-openshell]] [[vectorize-io-hindsight]] [[obra-superpowers]] [[nvidia-model-optimizer]] [[pbakaus-impeccable]]
+[[colbymchenry-codegraph]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

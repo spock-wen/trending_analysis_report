@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[vectorize-io-hindsight]] [[mksglu-context-mode]] [[cursor-plugins]] [[heygen-com-hyperframes]] [[nvidia-model-optimizer]]
+[[heygen-com-hyperframes]] [[cursor-plugins]] [[mksglu-context-mode]] [[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]]
 
 **所属领域**: [[education]]
 

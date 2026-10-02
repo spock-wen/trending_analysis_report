@@ -34,7 +34,7 @@ Claude Code toolkit - agents, commands, skills, rules, and hooks for productive 
 
 ## 相关项目
 
-[[nvidia-openshell]] [[obra-superpowers]] [[androoagi-starnet]] [[byoungd-up]] [[pbakaus-impeccable]]
+[[dietrichgebert-ponytail]] [[colbymchenry-codegraph]] [[obra-superpowers]] [[byoungd-up]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

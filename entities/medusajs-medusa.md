@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[obra-superpowers]] [[mksglu-context-mode]] [[cursor-plugins]] [[ever-co-ever-gauzy]]
+[[heygen-com-hyperframes]] [[cursor-plugins]] [[mksglu-context-mode]] [[melgarafael-deskcommcrm]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

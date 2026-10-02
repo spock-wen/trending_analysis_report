@@ -35,7 +35,7 @@ Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex 
 
 ## 相关项目
 
-[[obra-superpowers]] [[mksglu-context-mode]] [[cursor-plugins]] [[averygan-reclip]] [[heygen-com-hyperframes]]
+[[heygen-com-hyperframes]] [[cursor-plugins]] [[rakyll-hey]] [[mksglu-context-mode]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

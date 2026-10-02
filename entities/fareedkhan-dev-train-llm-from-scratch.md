@@ -37,7 +37,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[openbao-openbao]] [[t8y2-dbx]] [[tile-ai-tilelang]] [[obra-superpowers]] [[deusdata-codebase-memory-mcp]]
+[[deusdata-codebase-memory-mcp]] [[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]] [[t8y2-dbx]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

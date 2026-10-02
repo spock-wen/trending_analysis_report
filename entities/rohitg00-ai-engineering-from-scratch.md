@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[vectorize-io-hindsight]] [[tile-ai-tilelang]] [[obra-superpowers]] [[hunxbyts-ghosttrack]] [[nvidia-model-optimizer]]
+[[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]] [[cs341-illinois-coursebook]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

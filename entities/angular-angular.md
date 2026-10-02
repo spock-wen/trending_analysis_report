@@ -34,7 +34,7 @@ Deliver web apps with confidence 🚀
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[cursor-plugins]] [[averygan-reclip]] [[heygen-com-hyperframes]] [[rakyll-hey]]
+[[heygen-com-hyperframes]] [[cursor-plugins]] [[rakyll-hey]] [[mksglu-context-mode]] [[averygan-reclip]]
 
 **所属领域**: [[web]]
 

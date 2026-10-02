@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[obra-superpowers]] [[mksglu-context-mode]] [[cursor-plugins]] [[heygen-com-hyperframes]]
+[[heygen-com-hyperframes]] [[cursor-plugins]] [[debpalash-voicestudio]] [[mksglu-context-mode]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

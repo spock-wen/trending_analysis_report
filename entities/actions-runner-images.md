@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[nvidia-openshell]] [[raphire-win11debloat]] [[obra-superpowers]] [[zhouxiaoka-autoclip]] [[zhaoxuya520-reverse-skill]]
+[[zhouxiaoka-autoclip]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]] [[trycua-cua]] [[nvidia-openshell]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

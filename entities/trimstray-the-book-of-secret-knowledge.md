@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[nvidia-openshell]] [[obra-superpowers]] [[averygan-reclip]] [[rakyll-hey]] [[hkuds-cli-anything]]
+[[heygen-com-hyperframes]] [[rakyll-hey]] [[averygan-reclip]] [[obra-superpowers]] [[nvidia-openshell]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -36,7 +36,7 @@ Agent Substrate: the core system
 
 ## 相关项目
 
-[[openbao-openbao]] [[obra-superpowers]] [[google-ax]] [[rakyll-hey]] [[pbakaus-impeccable]]
+[[juliusbrussee-caveman]] [[rakyll-hey]] [[google-ax]] [[colbymchenry-codegraph]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[openbao-openbao]] [[t8y2-dbx]] [[obra-superpowers]] [[colbymchenry-codegraph]] [[willfaust-madeira]]
+[[colbymchenry-codegraph]] [[obra-superpowers]] [[t8y2-dbx]] [[justvugg-colibri]] [[willfaust-madeira]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[oblien-openship]] [[obra-superpowers]] [[mksglu-context-mode]] [[cilium-cilium]] [[davila7-claude-code-templates]]
+[[heygen-com-hyperframes]] [[cursor-plugins]] [[oblien-openship]] [[davila7-claude-code-templates]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

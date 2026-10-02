@@ -36,7 +36,7 @@ Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harnes
 
 ## 相关项目
 
-[[obra-superpowers]] [[mksglu-context-mode]] [[cursor-plugins]] [[heygen-com-hyperframes]] [[pbakaus-impeccable]]
+[[heygen-com-hyperframes]] [[cursor-plugins]] [[mksglu-context-mode]] [[colbymchenry-codegraph]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

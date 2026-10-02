@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tile-ai-tilelang]] [[averygan-reclip]] [[rakyll-hey]] [[hunxbyts-ghosttrack]] [[harry0703-moneyprinterturbo]]
+[[heygen-com-hyperframes]] [[rakyll-hey]] [[averygan-reclip]] [[hkuds-cli-anything]] [[getsentry-sentry]]
 
 **所属领域**: [[web]]
 

@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[nvidia-openshell]] [[obra-superpowers]] [[mksglu-context-mode]] [[cursor-plugins]] [[averygan-reclip]]
+[[heygen-com-hyperframes]] [[cursor-plugins]] [[rakyll-hey]] [[mksglu-context-mode]] [[averygan-reclip]]
 
 **所属领域**: [[web]] [[cli]]
 

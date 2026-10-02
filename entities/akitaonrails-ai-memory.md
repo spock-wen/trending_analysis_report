@@ -37,7 +37,7 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 ## 相关项目
 
-[[nvidia-openshell]] [[t8y2-dbx]] [[block-buzz]] [[obra-superpowers]] [[pbakaus-impeccable]]
+[[colbymchenry-codegraph]] [[obra-superpowers]] [[nvidia-openshell]] [[t8y2-dbx]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

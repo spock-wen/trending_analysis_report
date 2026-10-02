@@ -37,7 +37,7 @@ Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,
 
 ## 相关项目
 
-[[tile-ai-tilelang]] [[obra-superpowers]] [[zhouxiaoka-autoclip]] [[hunxbyts-ghosttrack]] [[fxembed-fxembed]]
+[[actions-runner-images]] [[colbymchenry-codegraph]] [[zhouxiaoka-autoclip]] [[pbakaus-impeccable]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

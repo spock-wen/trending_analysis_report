@@ -35,7 +35,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[obra-superpowers]] [[zhouxiaoka-autoclip]] [[androoagi-starnet]] [[byoungd-up]] [[fxembed-fxembed]]
+[[actions-runner-images]] [[dietrichgebert-ponytail]] [[colbymchenry-codegraph]] [[zhouxiaoka-autoclip]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

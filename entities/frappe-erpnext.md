@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[tile-ai-tilelang]] [[melgarafael-deskcommcrm]] [[obra-superpowers]] [[ever-co-ever-gauzy]] [[hunxbyts-ghosttrack]]
+[[melgarafael-deskcommcrm]] [[obra-superpowers]] [[getsentry-sentry]] [[ever-co-ever-gauzy]] [[hunxbyts-ghosttrack]]
 
 **所属领域**: [[erp]]
 

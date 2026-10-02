@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[openbao-openbao]] [[t8y2-dbx]] [[tile-ai-tilelang]] [[affaan-m-ecc]] [[obra-superpowers]]
+[[nationalsecurityagency-ghidra]] [[deusdata-codebase-memory-mcp]] [[colbymchenry-codegraph]] [[paperclipai-paperclip]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

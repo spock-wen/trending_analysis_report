@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[obra-superpowers]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[androoagi-starnet]] [[byoungd-up]]
+[[nationalsecurityagency-ghidra]] [[dietrichgebert-ponytail]] [[colbymchenry-codegraph]] [[paperclipai-paperclip]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[nvidia-openshell]] [[openbao-openbao]] [[agent-substrate-substrate]] [[obra-superpowers]] [[google-ax]]
+[[juliusbrussee-caveman]] [[rakyll-hey]] [[google-ax]] [[obra-superpowers]] [[nvidia-openshell]]
 
 **所属领域**: [[cli]]
 

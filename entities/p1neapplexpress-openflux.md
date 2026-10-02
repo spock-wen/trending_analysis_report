@@ -35,7 +35,7 @@ Network stack research tool. TCP tunnel with pluggable transports.
 
 ## 相关项目
 
-[[openbao-openbao]] [[agent-substrate-substrate]] [[affaan-m-ecc]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]]
+[[juliusbrussee-caveman]] [[rakyll-hey]] [[google-ax]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[science]]
 

@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[nvidia-openshell]] [[obra-superpowers]] [[pbakaus-impeccable]] [[earendil-works-pi]] [[mattpocock-skills]]
+[[colbymchenry-codegraph]] [[obra-superpowers]] [[nvidia-openshell]] [[pbakaus-impeccable]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -35,7 +35,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[higgsfield-ai-higgsfield]] [[obra-superpowers]] [[lyogavin-airllm]] [[microsoft-generative-ai-for-beginners]] [[pbakaus-impeccable]]
+[[colbymchenry-codegraph]] [[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[obra-superpowers]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[tile-ai-tilelang]] [[affaan-m-ecc]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[hunxbyts-ghosttrack]]
+[[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[getsentry-sentry]] [[affaan-m-ecc]] [[hunxbyts-ghosttrack]]
 
 **所属领域**: [[science]]
 

@@ -34,7 +34,7 @@ An Open Source Machine Learning Framework for Everyone
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[vectorize-io-hindsight]] [[nvidia-model-optimizer]] [[cs341-illinois-coursebook]] [[rohitg00-ai-engineering-from-scratch]]
+[[fmtlib-fmt]] [[firebase-firebase-ios-sdk]] [[rohitg00-ai-engineering-from-scratch]] [[harry7557558-spirula-studio]] [[cs341-illinois-coursebook]]
 
 **所属领域**: [[education]]
 

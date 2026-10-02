@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[cilium-cilium]] [[davila7-claude-code-templates]] [[cursor-plugins]] [[heygen-com-hyperframes]]
+[[heygen-com-hyperframes]] [[cursor-plugins]] [[davila7-claude-code-templates]] [[mksglu-context-mode]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[devops]]
 

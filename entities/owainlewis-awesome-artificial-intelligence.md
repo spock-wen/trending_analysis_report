@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[vectorize-io-hindsight]] [[affaan-m-ecc]] [[obra-superpowers]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]]
+[[colbymchenry-codegraph]] [[paperclipai-paperclip]] [[paperless-ngx-paperless-ngx]] [[rohitg00-ai-engineering-from-scratch]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

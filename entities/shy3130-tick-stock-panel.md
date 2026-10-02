@@ -34,7 +34,7 @@ TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 |
 
 ## 相关项目
 
-[[tile-ai-tilelang]] [[obra-superpowers]] [[hunxbyts-ghosttrack]] [[pbakaus-impeccable]] [[harry0703-moneyprinterturbo]]
+[[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]] [[getsentry-sentry]] [[hunxbyts-ghosttrack]]
 
 **所属领域**: [[ai-agent]]
 

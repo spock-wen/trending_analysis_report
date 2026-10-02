@@ -34,5 +34,5 @@ the full-stack Vue framework
 
 ## 相关项目
 
-[[cursor-plugins]] [[earendil-works-pi]] [[heygen-com-hyperframes]] [[mksglu-context-mode]]
+[[heygen-com-hyperframes]] [[mksglu-context-mode]] [[cursor-plugins]] [[mvschwarz-openrig]]
 

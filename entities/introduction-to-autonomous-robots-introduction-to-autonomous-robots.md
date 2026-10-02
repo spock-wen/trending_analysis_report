@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[cs341-illinois-coursebook]] [[earendil-works-pi]] [[mattpocock-skills]]
+[[colbymchenry-codegraph]] [[obra-superpowers]] [[cs341-illinois-coursebook]] [[pbakaus-impeccable]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

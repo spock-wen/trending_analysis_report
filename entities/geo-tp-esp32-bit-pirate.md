@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[nvidia-openshell]] [[fmtlib-fmt]] [[obra-superpowers]] [[harry7557558-spirula-studio]] [[tensorflow-tensorflow]]
+[[heygen-com-hyperframes]] [[fmtlib-fmt]] [[rakyll-hey]] [[averygan-reclip]] [[firebase-firebase-ios-sdk]]
 
 **所属领域**: [[web]] [[cli]]
 

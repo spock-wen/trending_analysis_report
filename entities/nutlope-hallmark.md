@@ -38,7 +38,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## 相关项目
 
-[[obra-superpowers]] [[diolinux-photogimp]] [[averygan-reclip]] [[rakyll-hey]] [[heygen-com-hyperframes]]
+[[heygen-com-hyperframes]] [[rakyll-hey]] [[diolinux-photogimp]] [[colbymchenry-codegraph]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

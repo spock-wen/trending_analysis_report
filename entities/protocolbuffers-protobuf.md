@@ -36,7 +36,7 @@ Protocol Buffers - Google's data interchange format
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[t8y2-dbx]] [[openbao-openbao]] [[deusdata-codebase-memory-mcp]] [[tensorflow-tensorflow]]
+[[fmtlib-fmt]] [[deusdata-codebase-memory-mcp]] [[firebase-firebase-ios-sdk]] [[tensorflow-tensorflow]] [[harry7557558-spirula-studio]]
 
 **所属领域**: [[data]]
 

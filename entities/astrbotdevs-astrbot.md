@@ -36,7 +36,7 @@ AI Agent Assistant & development framework that integrates lots of IM platforms,
 
 ## 相关项目
 
-[[tile-ai-tilelang]] [[obra-superpowers]] [[hunxbyts-ghosttrack]] [[pbakaus-impeccable]] [[harry0703-moneyprinterturbo]]
+[[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]] [[getsentry-sentry]] [[hunxbyts-ghosttrack]]
 
 **所属领域**: [[ai-agent]]
 

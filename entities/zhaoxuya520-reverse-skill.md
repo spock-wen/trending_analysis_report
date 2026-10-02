@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[nvidia-openshell]] [[raphire-win11debloat]] [[affaan-m-ecc]] [[obra-superpowers]] [[paperclipai-paperclip]]
+[[nationalsecurityagency-ghidra]] [[actions-runner-images]] [[colbymchenry-codegraph]] [[paperclipai-paperclip]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

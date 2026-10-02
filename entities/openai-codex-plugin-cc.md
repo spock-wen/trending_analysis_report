@@ -38,7 +38,7 @@ Use Codex from Claude Code to review code or delegate tasks.
 
 ## 相关项目
 
-[[obra-superpowers]] [[androoagi-starnet]] [[byoungd-up]] [[pbakaus-impeccable]] [[dietrichgebert-ponytail]]
+[[dietrichgebert-ponytail]] [[colbymchenry-codegraph]] [[obra-superpowers]] [[byoungd-up]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

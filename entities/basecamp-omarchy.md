@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[nvidia-openshell]] [[obra-superpowers]] [[infinityloop1308-pipepipe]] [[nvm-sh-nvm]] [[earendil-works-pi]]
+[[nvm-sh-nvm]] [[obra-superpowers]] [[nvidia-openshell]] [[mattpocock-skills]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]]
 

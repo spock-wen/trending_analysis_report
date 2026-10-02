@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[vectorize-io-hindsight]] [[mksglu-context-mode]] [[cursor-plugins]] [[averygan-reclip]] [[heygen-com-hyperframes]]
+[[heygen-com-hyperframes]] [[cursor-plugins]] [[rakyll-hey]] [[mksglu-context-mode]] [[averygan-reclip]]
 
 **所属领域**: [[web]] [[education]]
 

@@ -35,7 +35,7 @@ like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 ## 相关项目
 
-[[openbao-openbao]] [[agent-substrate-substrate]] [[t8y2-dbx]] [[obra-superpowers]] [[deusdata-codebase-memory-mcp]]
+[[juliusbrussee-caveman]] [[rakyll-hey]] [[deusdata-codebase-memory-mcp]] [[google-ax]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

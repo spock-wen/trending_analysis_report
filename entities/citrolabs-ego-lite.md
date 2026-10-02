@@ -38,7 +38,7 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 
 ## 相关项目
 
-[[obra-superpowers]] [[androoagi-starnet]] [[averygan-reclip]] [[rakyll-hey]] [[byoungd-up]]
+[[heygen-com-hyperframes]] [[rakyll-hey]] [[dietrichgebert-ponytail]] [[colbymchenry-codegraph]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

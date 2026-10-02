@@ -38,5 +38,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
 
 ## 相关项目
 
-[[nvidia-openshell]] [[t8y2-dbx]] [[block-buzz]] [[akitaonrails-ai-memory]]
+[[akitaonrails-ai-memory]] [[nvidia-openshell]] [[t8y2-dbx]] [[block-buzz]]
 

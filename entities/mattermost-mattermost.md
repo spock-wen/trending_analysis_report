@@ -35,5 +35,5 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## 相关项目
 
-[[cursor-plugins]] [[earendil-works-pi]] [[heygen-com-hyperframes]] [[mksglu-context-mode]]
+[[heygen-com-hyperframes]] [[mksglu-context-mode]] [[cursor-plugins]] [[mvschwarz-openrig]]
 

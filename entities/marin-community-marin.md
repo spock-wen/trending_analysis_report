@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[tile-ai-tilelang]] [[affaan-m-ecc]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[hunxbyts-ghosttrack]]
+[[paperclipai-paperclip]] [[paperless-ngx-paperless-ngx]] [[zhaoxuya520-reverse-skill]] [[getsentry-sentry]] [[affaan-m-ecc]]
 
 **所属领域**: [[science]]
 

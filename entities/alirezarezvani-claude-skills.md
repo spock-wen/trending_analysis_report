@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nvidia-openshell]] [[tile-ai-tilelang]] [[melgarafael-deskcommcrm]] [[obra-superpowers]] [[affaan-m-ecc]]
+[[colbymchenry-codegraph]] [[paperclipai-paperclip]] [[pbakaus-impeccable]] [[melgarafael-deskcommcrm]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

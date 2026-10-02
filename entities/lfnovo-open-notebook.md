@@ -37,5 +37,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[cursor-plugins]] [[earendil-works-pi]] [[heygen-com-hyperframes]] [[mksglu-context-mode]]
+[[heygen-com-hyperframes]] [[mksglu-context-mode]] [[cursor-plugins]] [[mvschwarz-openrig]]
 

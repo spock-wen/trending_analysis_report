@@ -35,7 +35,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[openbao-openbao]] [[agent-substrate-substrate]] [[t8y2-dbx]] [[obra-superpowers]] [[deusdata-codebase-memory-mcp]]
+[[juliusbrussee-caveman]] [[rakyll-hey]] [[deusdata-codebase-memory-mcp]] [[google-ax]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

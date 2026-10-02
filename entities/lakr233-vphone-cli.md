@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[nvidia-openshell]] [[abue-ammar-tinycast]] [[obra-superpowers]] [[homebrew-brewui]] [[earendil-works-pi]]
+[[peetzweg-opendisplay]] [[abue-ammar-tinycast]] [[obra-superpowers]] [[nvidia-openshell]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

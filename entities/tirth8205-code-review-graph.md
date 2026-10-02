@@ -38,7 +38,7 @@ Local-first code intelligence graph for MCP and CLI. Builds a persistent map of 
 
 ## 相关项目
 
-[[nvidia-openshell]] [[tile-ai-tilelang]] [[obra-superpowers]] [[hunxbyts-ghosttrack]] [[pbakaus-impeccable]]
+[[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]] [[nvidia-openshell]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

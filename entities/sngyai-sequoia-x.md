@@ -34,7 +34,7 @@ A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运�
 
 ## 相关项目
 
-[[tile-ai-tilelang]] [[obra-superpowers]] [[hunxbyts-ghosttrack]] [[pbakaus-impeccable]] [[harry0703-moneyprinterturbo]]
+[[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]] [[getsentry-sentry]] [[hunxbyts-ghosttrack]]
 
 **所属领域**: [[ai-agent]]
 

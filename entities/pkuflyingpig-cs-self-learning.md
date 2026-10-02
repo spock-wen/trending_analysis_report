@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[vectorize-io-hindsight]] [[averygan-reclip]] [[rakyll-hey]] [[nvidia-model-optimizer]] [[trycua-cua]]
+[[ripienaar-free-for-dev]] [[heygen-com-hyperframes]] [[rakyll-hey]] [[averygan-reclip]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[web]] [[education]]
 

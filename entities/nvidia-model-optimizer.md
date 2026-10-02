@@ -36,7 +36,7 @@ A unified library of SOTA model optimization techniques like quantization, disti
 
 ## 相关项目
 
-[[oblien-openship]] [[vectorize-io-hindsight]] [[tile-ai-tilelang]] [[obra-superpowers]] [[cilium-cilium]]
+[[oblien-openship]] [[davila7-claude-code-templates]] [[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

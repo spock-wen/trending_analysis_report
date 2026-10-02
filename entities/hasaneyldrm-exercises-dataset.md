@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[openbao-openbao]] [[t8y2-dbx]] [[obra-superpowers]] [[deusdata-codebase-memory-mcp]] [[averygan-reclip]]
+[[ripienaar-free-for-dev]] [[heygen-com-hyperframes]] [[rakyll-hey]] [[deusdata-codebase-memory-mcp]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[nvidia-openshell]] [[multimodal-art-projection-yue]] [[tile-ai-tilelang]] [[obra-superpowers]] [[jamiepine-voicebox]]
+[[debpalash-voicestudio]] [[tonhowtf-omniget]] [[obra-superpowers]] [[nvidia-openshell]] [[getsentry-sentry]]
 
 **所属领域**: [[cli]] [[audio]]
 

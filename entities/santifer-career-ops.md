@@ -38,7 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[nvidia-openshell]] [[obra-superpowers]] [[androoagi-starnet]] [[byoungd-up]] [[pbakaus-impeccable]]
+[[dietrichgebert-ponytail]] [[colbymchenry-codegraph]] [[obra-superpowers]] [[byoungd-up]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

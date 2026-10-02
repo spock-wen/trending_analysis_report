@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-02 | 总页面：651
+> 最后更新：2026-10-03 | 总页面：653
 
 ## Entities
 
@@ -145,13 +145,13 @@
 - [[coplaydev-unity-mcp|unity-mcp"]] — Unity MCP acts as a bridge between AI assistants and your Un... 🆕
 - [[cordiverse-cordis|cordis"]] — Meta-Framework of Spatiotemporal Composability 🔥
 - [[corebunch-instatic|Instatic"]] — The open-source alternative to Webflow, Framer and WordPress... 🆕
-- [[coreyhaines31-marketingskills|marketingskills"]] — Marketing skills for Claude Code and AI agents. CRO, copywri... 🔥
+- [[coreyhaines31-marketingskills|marketingskills"]] — Marketing skills for Claude Code and AI agents. CRO, copywri...
 - [[corsairdev-corsair|corsair"]] — Connect your users to their apps
 - [[crosstalk-solutions-project-nomad|project-nomad"]] — Project NOMAD is an offline-first knowledge and education se...
 - [[crynta-terax-ai|terax-ai"]] — Lightweight (7MB) Terminal-first AI-native dev workspace
 - [[cs341-illinois-coursebook|coursebook"]] — Open Source Introductory Systems Programming Textbook for th... 🆕
 - [[cupy-cupy|cupy"]] — NumPy & SciPy for GPU 🆕
-- [[cursor-plugins|plugins"]] — Cursor plugin specification and official plugins
+- [[cursor-plugins|plugins"]] — Cursor plugin specification and official plugins 🆕
 - [[cypress-io-cypress|cypress"]] — Fast, easy and reliable testing for anything that runs in a ...
 - [[czlonkowski-n8n-mcp|n8n-mcp"]] — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor t... 🆕
 - [[d4vinci-scrapling|Scrapling"]] — 🕷️ An adaptive Web Scraping framework that handles everythin... 🔥
@@ -170,7 +170,7 @@
 - [[derv82-wifit3|wifit3"]] — Wifite but USB-only & cross-platform.
 - [[deusdata-codebase-memory-mcp|codebase-memory-mcp"]] — High-performance code intelligence MCP server. Indexes codeb...
 - [[diegosouzapw-omniroute|OmniRoute"]] — Never stop coding. Free MIT AI gateway: one endpoint, 352 pr...
-- [[dietrichgebert-ponytail|ponytail"]] — Makes your AI agent think like the laziest senior dev in the... 🆕
+- [[dietrichgebert-ponytail|ponytail"]] — Makes your AI agent think like the laziest senior dev in the... 🔥
 - [[different-ai-openwork|openwork"]] — The open-source alternative to Claude Cowork (powered by ope...
 - [[digitalplatdev-freedomain|FreeDomain"]] — DigitalPlat FreeDomain: Free Domain For Everyone 🔥
 - [[diolinux-photogimp|PhotoGIMP"]] — A Patch for GIMP 3+ for Photoshop Users
@@ -187,6 +187,7 @@
 - [[dreammis-social-auto-upload|social-auto-upload"]] — 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 - [[earendil-works-pi|pi"]] — AI agent toolkit: unified LLM API, agent loop, TUI, coding a...
 - [[earthtojake-text-to-cad|text-to-cad"]] — A library of agent skills for CAD, CAE and CAM
+- [[effect-ts-effect|effect"]] — Build production-ready applications in TypeScript 🆕
 - [[elastic-elasticsearch|elasticsearch"]] — Free and Open Source, Distributed, RESTful Search Engine
 - [[elder-plinius-g0dm0d3|G0DM0D3"]] — LIBERATED AI CHAT
 - [[elder-plinius-obliteratus|OBLITERATUS"]] — OBLITERATE THE CHAINS THAT BIND YOU
@@ -211,7 +212,7 @@
 - [[free-tv-iptv|IPTV"]] — M3U Playlist for free TV channels
 - [[freecodecamp-freecodecamp|freeCodeCamp"]] — freeCodeCamp.org's open-source codebase and curriculum. Lear... 🔥
 - [[freestylefly-awesome-gpt-image-2|awesome-gpt-image-2"]] — Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级... 🆕
-- [[friedrich-m-unimate|UniMate"]] — [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate D... 🆕
+- [[friedrich-m-unimate|UniMate"]] — [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate D...
 - [[fxembed-fxembed|FxEmbed"]] — Fix X/Twitter and Bluesky embeds! Use multiple images, video...
 - [[gabime-spdlog|spdlog"]] — Fast C++ logging library.
 - [[galilai-group-stable-worldmodel|stable-worldmodel"]] — A platform for reproducible world model research and evaluat... 🆕
@@ -219,6 +220,7 @@
 - [[gastownhall-gastown|gastown"]] — Gas Town - multi-agent workspace manager 🆕
 - [[genlayerlabs-genlayer-project-boilerplate|genlayer-project-boilerplate"]] — No description 🆕
 - [[geo-tp-esp32-bit-pirate|ESP32-Bit-Pirate"]] — A Hardware Hacking Tool with Web-Based CLI That Speaks Every...
+- [[getsentry-sentry|sentry"]] — Developer-first error tracking and performance monitoring 🆕
 - [[github-copilot-sdk|copilot-sdk"]] — Multi-platform SDK for integrating GitHub Copilot Agent into... 🆕
 - [[github-docs|docs"]] — The open-source repo for docs.github.com
 - [[github-gh-stack|gh-stack"]] — GitHub Stacked PRs
@@ -233,7 +235,7 @@
 - [[google-guava|guava"]] — Google core libraries for Java 🔥
 - [[google-labs-code-stitch-skills|stitch-skills"]] — A library of Agent Skills designed to work with the Stitch M... 🆕
 - [[google-research-timesfm|timesfm"]] — TimesFM (Time Series Foundation Model) is a pretrained time-... 🔥
-- [[google-skills|skills"]] — Agent Skills for Google products and technologies 🔥
+- [[google-skills|skills"]] — Agent Skills for Google products and technologies
 - [[gorvgoyl-clone-wars|Clone-Wars"]] — 100+ open-source clones of popular sites like Airbnb, Amazon...
 - [[grafana-grafana|grafana"]] — The open and composable observability and data visualization...
 - [[graphify-labs-graphify|graphify"]] — AI coding assistant skill (Claude Code, Codex, OpenCode, Cur...
@@ -250,7 +252,7 @@
 - [[henryndubuaku-maths-cs-ai-compendium|maths-cs-ai-compendium"]] — Become a cracked AI/ML Research Engineer
 - [[hesreallyhim-awesome-claude-code|awesome-claude-code"]] — A hand-picked collection of the finest of resources for the ...
 - [[hexo-ai-sia|sia"]] — SIA is a Self Improving AI framework to autonomously improve...
-- [[heygen-com-hyperframes|hyperframes"]] — Write HTML. Render video. Built for agents. 🆕
+- [[heygen-com-hyperframes|hyperframes"]] — Write HTML. Render video. Built for agents. 🔥
 - [[higgsfield-ai-higgsfield|higgsfield"]] — Fault-tolerant, highly scalable GPU orchestration, and a mac... 🆕
 - [[hkuds-cli-anything|CLI-Anything"]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:... 🆕
 - [[hkuds-deeptutor|DeepTutor"]] — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor...
@@ -298,7 +300,7 @@
 - [[jo-inc-camofox-browser|camofox-browser"]] — Stealth headless browser for AI agents — bypass Cloudflare, ... 🆕
 - [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm"]] — Claude Skill: Multi-source content processor for NotebookLM. 🆕
 - [[jordan-gibbs-hyperresearch|hyperresearch"]] — Agent-driven research knowledge base. Agents collect, search...
-- [[juliusbrussee-caveman|caveman"]] — 🪨 why use many token when few token do trick — Claude Code s... 🔥
+- [[juliusbrussee-caveman|caveman"]] — 🪨 why use many token when few token do trick. Viral skill + ...
 - [[julyx10-lap|lap"]] — An offline-first photo manager for large local libraries
 - [[jundot-omlx|omlx"]] — LLM inference server with continuous batching & SSD caching ... 🔥
 - [[justvugg-colibri|colibri"]] — Run frontier MoE models on hardware you already own — pure C... 🔥
@@ -359,7 +361,7 @@
 - [[marin-community-marin|marin"]] — Open-source framework for the research and development of fo... 🔥
 - [[masterking32-masterdnsvpn|MasterDnsVPN"]] — Advanced DNS tunneling VPN for censorship bypass, optimized ... 🔥
 - [[mattermost-mattermost|mattermost"]] — Mattermost is an open source platform for secure collaborati... 🆕
-- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .agents director... 🆕
+- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .agents director... 🔥
 - [[mauriceboe-trek|TREK"]] — A self-hosted travel/trip planner with real-time collaborati... 🆕
 - [[max-sixty-worktrunk|worktrunk"]] — Worktrunk is a CLI for Git worktree management, designed for...
 - [[maziyarpanahi-openmed|openmed"]] — open-source healthcare ai 🔥
@@ -385,7 +387,7 @@
 - [[mihail911-modern-software-dev-assignments|modern-software-dev-assignments"]] — Assignments for CS146S: The Modern Software Dev (Stanford Un...
 - [[mikeroyal-self-hosting-guide|Self-Hosting-Guide"]] — Self-Hosting Guide. Learn all about locally hosting (on prem...
 - [[mikumifa-bilitickerbuy|biliTickerBuy"]] — b站会员购购票辅助工具
-- [[mksglu-context-mode|context-mode"]] — Context window optimization for AI coding agents. Sandboxes ... 🆕
+- [[mksglu-context-mode|context-mode"]] — Context window optimization for AI coding agents. Sandboxes ... 🔥
 - [[mobile-next-mobile-mcp|mobile-mcp"]] — Model Context Protocol Server for Mobile Automation and Scra...
 - [[modelcontextprotocol-servers|servers"]] — Model Context Protocol Servers
 - [[modular-modular|modular"]] — The Modular Platform (includes MAX & Mojo) 🔥
@@ -425,7 +427,7 @@
 - [[nvlabs-sana|Sana"]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
 - [[nvm-sh-nvm|nvm"]] — Node Version Manager - POSIX-compliant bash script to manage...
 - [[oblien-openship|openship"]] — Self-hosted deployment platform
-- [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo...
+- [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo... 🆕
 - [[ocornut-imgui|imgui"]] — Dear ImGui: Bloat-free Graphical User interface for C++ with...
 - [[odoo-odoo|odoo"]] — Odoo. Open Source Apps To Grow Your Business.
 - [[ogulcancelik-herdr|herdr"]] — agent multiplexer that lives in your terminal. 🔥
@@ -467,7 +469,7 @@
 - [[paperswithbacktest-awesome-systematic-trading|awesome-systematic-trading"]] — A curated list of awesome libraries, packages, strategies, b... 🔥
 - [[par274-sharpemu|sharpemu"]] — An experimental PlayStation 5 emulator project.
 - [[pascalorg-editor|editor"]] — Open-source 3D architectural editor with a local CLI, MCP to...
-- [[pbakaus-impeccable|impeccable"]] — The design language that makes your AI harness better at des...
+- [[pbakaus-impeccable|impeccable"]] — The design language that makes your AI harness better at des... 🆕
 - [[peetzweg-opendisplay|opendisplay"]] — Free, open-source Sidecar/Duet alternative — use your iPhone...
 - [[penpot-penpot|penpot"]] — Penpot: The open-source design platform for Product teams th...
 - [[permissionlesstech-bitchat|bitchat"]] — bluetooth mesh chat, IRC vibes
@@ -568,7 +570,7 @@
 - [[the-swarm-corporation-autohedge|AutoHedge"]] — Build your autonomous hedge fund in minutes. AutoHedge harne... 🔥
 - [[thedotmack-claude-mem|claude-mem"]] — Persistent Context Across Sessions for Every Agent – Capture...
 - [[thu-maic-openmaic|OpenMAIC"]] — Open Multi-Agent Interactive Classroom — Get an immersive, m...
-- [[tile-ai-tilelang|tilelang"]] — Domain-specific language designed to streamline the developm... 🆕
+- [[tile-ai-tilelang|tilelang"]] — Domain-specific language designed to streamline the developm...
 - [[tinyhumansai-openhuman|openhuman"]] — Your Personal AI super intelligence. A brain that builds a l... 🔥
 - [[tirth8205-code-review-graph|code-review-graph"]] — Local-first code intelligence graph for MCP and CLI. Builds ...
 - [[tnt-likely-panwatch|PanWatch"]] — 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A...

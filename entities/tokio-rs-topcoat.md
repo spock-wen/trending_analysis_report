@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[nvidia-openshell]] [[t8y2-dbx]] [[block-buzz]] [[akitaonrails-ai-memory]] [[averygan-reclip]]
+[[heygen-com-hyperframes]] [[rakyll-hey]] [[akitaonrails-ai-memory]] [[averygan-reclip]] [[nvidia-openshell]]
 
 **所属领域**: [[web]]
 

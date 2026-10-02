@@ -36,7 +36,7 @@ The Postgres development platform. Supabase gives you a dedicated Postgres datab
 
 ## 相关项目
 
-[[openbao-openbao]] [[t8y2-dbx]] [[obra-superpowers]] [[mksglu-context-mode]] [[deusdata-codebase-memory-mcp]]
+[[heygen-com-hyperframes]] [[cursor-plugins]] [[rakyll-hey]] [[deusdata-codebase-memory-mcp]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

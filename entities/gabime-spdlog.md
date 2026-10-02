@@ -34,5 +34,5 @@ Fast C++ logging library.
 
 ## 相关项目
 
-[[harry7557558-spirula-studio]] [[fmtlib-fmt]] [[firebase-firebase-ios-sdk]] [[tensorflow-tensorflow]]
+[[fmtlib-fmt]] [[harry7557558-spirula-studio]] [[firebase-firebase-ios-sdk]] [[tensorflow-tensorflow]]
 

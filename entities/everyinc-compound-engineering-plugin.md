@@ -38,7 +38,7 @@ Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 
 ## 相关项目
 
-[[obra-superpowers]] [[mksglu-context-mode]] [[cursor-plugins]] [[heygen-com-hyperframes]] [[pbakaus-impeccable]]
+[[heygen-com-hyperframes]] [[cursor-plugins]] [[mksglu-context-mode]] [[colbymchenry-codegraph]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[obra-superpowers]] [[averygan-reclip]] [[rakyll-hey]] [[heygen-com-hyperframes]] [[trycua-cua]]
+[[ripienaar-free-for-dev]] [[heygen-com-hyperframes]] [[rakyll-hey]] [[averygan-reclip]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

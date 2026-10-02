@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[obra-superpowers]] [[zhouxiaoka-autoclip]] [[diolinux-photogimp]] [[averygan-reclip]] [[rakyll-hey]]
+[[heygen-com-hyperframes]] [[actions-runner-images]] [[rakyll-hey]] [[diolinux-photogimp]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

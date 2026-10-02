@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[nvidia-openshell]] [[openbao-openbao]] [[block-buzz]] [[akitaonrails-ai-memory]] [[obra-superpowers]]
+[[deusdata-codebase-memory-mcp]] [[akitaonrails-ai-memory]] [[colbymchenry-codegraph]] [[obra-superpowers]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

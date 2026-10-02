@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[higgsfield-ai-higgsfield]] [[vectorize-io-hindsight]] [[obra-superpowers]] [[lyogavin-airllm]] [[nvidia-model-optimizer]]
+[[colbymchenry-codegraph]] [[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[openbao-openbao]] [[t8y2-dbx]] [[deusdata-codebase-memory-mcp]] [[averygan-reclip]] [[hkuds-cli-anything]]
+[[mattpocock-skills]] [[google-skills]] [[heygen-com-hyperframes]] [[deusdata-codebase-memory-mcp]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

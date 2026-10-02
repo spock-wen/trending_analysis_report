@@ -34,7 +34,7 @@ Domain-specific language designed to streamline the development of high-performa
 
 ## 相关项目
 
-[[obra-superpowers]] [[hunxbyts-ghosttrack]] [[pbakaus-impeccable]] [[harry0703-moneyprinterturbo]] [[friedrich-m-unimate]]
+[[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]] [[getsentry-sentry]] [[hunxbyts-ghosttrack]]
 
 **所属领域**: [[ai-agent]]
 

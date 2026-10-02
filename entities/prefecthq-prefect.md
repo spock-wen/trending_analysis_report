@@ -34,7 +34,7 @@ Prefect is a workflow orchestration framework for building resilient data pipeli
 
 ## 相关项目
 
-[[openbao-openbao]] [[t8y2-dbx]] [[tile-ai-tilelang]] [[deusdata-codebase-memory-mcp]] [[hunxbyts-ghosttrack]]
+[[deusdata-codebase-memory-mcp]] [[t8y2-dbx]] [[getsentry-sentry]] [[openbao-openbao]] [[hunxbyts-ghosttrack]]
 
 **所属领域**: [[data]]
 

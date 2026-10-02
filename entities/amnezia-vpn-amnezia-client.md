@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[nvidia-openshell]] [[fmtlib-fmt]] [[affaan-m-ecc]] [[obra-superpowers]] [[cloudflare-security-audit-skill]]
+[[nationalsecurityagency-ghidra]] [[fmtlib-fmt]] [[firebase-firebase-ios-sdk]] [[obra-superpowers]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[cli]] [[security]]
 

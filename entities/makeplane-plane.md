@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[nvidia-openshell]] [[obra-superpowers]] [[mksglu-context-mode]] [[cursor-plugins]] [[heygen-com-hyperframes]]
+[[heygen-com-hyperframes]] [[cursor-plugins]] [[mksglu-context-mode]] [[obra-superpowers]] [[nvidia-openshell]]
 
 **所属领域**: [[cli]]
 

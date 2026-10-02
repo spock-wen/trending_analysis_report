@@ -1,7 +1,7 @@
 ---
 title: "TypeScript Ecosystem Surge"
 created: 2026-06-08
-updated: 2026-10-02
+updated: 2026-10-03
 type: concept
 tags: [typescript, surge]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 信号概述
 
-2026-10-02 检测到 TypeScript 领域有 6 个项目同时上榜，表明该语言生态近期活跃度显著上升。
+2026-10-03 检测到 TypeScript 领域有 6 个项目同时上榜，表明该语言生态近期活跃度显著上升。
 
 ## 上榜项目（6 个）
 
-[[mvschwarz-openrig]] [[cursor-plugins]] [[mksglu-context-mode]] [[heygen-com-hyperframes]] [[earendil-works-pi]] [[pablostanley-yoinks]]
+[[heygen-com-hyperframes]] [[mksglu-context-mode]] [[cursor-plugins]] [[mvschwarz-openrig]] [[effect-ts-effect]] [[pablostanley-yoinks]]
 
 ## 语言分布
 

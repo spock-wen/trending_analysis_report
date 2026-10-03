@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[juliusbrussee-caveman]] [[oblien-openship]] [[rakyll-hey]] [[google-ax]]
+[[juliusbrussee-caveman]] [[openbao-openbao]] [[rakyll-hey]] [[oblien-openship]] [[google-ax]]
 
 **所属领域**: [[devops]] [[security]]
 

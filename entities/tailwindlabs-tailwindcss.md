@@ -35,7 +35,7 @@ A utility-first CSS framework for rapid UI development.
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[cursor-plugins]] [[rakyll-hey]] [[mksglu-context-mode]] [[colbymchenry-codegraph]]
+[[hkuds-cli-anything]] [[averygan-reclip]] [[thedotmack-claude-mem]] [[anthropics-claude-code]] [[rakyll-hey]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

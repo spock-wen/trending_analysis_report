@@ -35,7 +35,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[actions-runner-images]] [[zhouxiaoka-autoclip]] [[trycua-cua]] [[getsentry-sentry]] [[hunxbyts-ghosttrack]]
+[[trycua-cua]] [[zhouxiaoka-autoclip]] [[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[actions-runner-images]]
 
 **所属领域**: [[image-gen]]
 

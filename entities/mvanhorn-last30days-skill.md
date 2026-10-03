@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[rakyll-hey]] [[colbymchenry-codegraph]] [[averygan-reclip]] [[pbakaus-impeccable]]
+[[zhaoxuya520-reverse-skill]] [[hkuds-cli-anything]] [[paperless-ngx-paperless-ngx]] [[averygan-reclip]] [[meituan-longcat-longcat-video]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

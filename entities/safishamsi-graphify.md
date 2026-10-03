@@ -34,7 +34,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[paperclipai-paperclip]] [[affaan-m-ecc]] [[paperless-ngx-paperless-ngx]] [[mattpocock-skills]]
+[[actions-runner-images]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[coreyhaines31-marketingskills]] [[meituan-longcat-longcat-video]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

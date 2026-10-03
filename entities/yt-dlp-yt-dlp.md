@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[tonhowtf-omniget]] [[obra-superpowers]] [[nvidia-openshell]] [[getsentry-sentry]]
+[[jamiepine-voicebox]] [[meituan-longcat-longcat-video]] [[debpalash-voicestudio]] [[panniantong-agent-reach]] [[anthropics-claude-code]]
 
 **所属领域**: [[cli]] [[audio]]
 

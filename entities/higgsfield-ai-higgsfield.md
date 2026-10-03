@@ -35,7 +35,7 @@ Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[lyogavin-airllm]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]]
+[[lyogavin-airllm]] [[rohitg00-ai-engineering-from-scratch]] [[microsoft-ai-for-beginners]] [[mattpocock-skills]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

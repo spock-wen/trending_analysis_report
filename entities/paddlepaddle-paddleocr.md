@@ -36,7 +36,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[actions-runner-images]] [[deusdata-codebase-memory-mcp]] [[colbymchenry-codegraph]] [[zhouxiaoka-autoclip]] [[pbakaus-impeccable]]
+[[trycua-cua]] [[coreyhaines31-marketingskills]] [[deusdata-codebase-memory-mcp]] [[zhouxiaoka-autoclip]] [[t8y2-dbx]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

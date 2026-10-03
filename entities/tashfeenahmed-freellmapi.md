@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[nationalsecurityagency-ghidra]] [[cursor-plugins]] [[mksglu-context-mode]] [[colbymchenry-codegraph]]
+[[thedotmack-claude-mem]] [[anthropics-claude-code]] [[mattpocock-skills]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

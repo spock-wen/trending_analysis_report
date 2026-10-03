@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[colbymchenry-codegraph]] [[melgarafael-deskcommcrm]] [[obra-superpowers]] [[nvidia-openshell]]
+[[danny-avila-librechat]] [[t8y2-dbx]] [[ever-co-ever-gauzy]] [[block-buzz]] [[melgarafael-deskcommcrm]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

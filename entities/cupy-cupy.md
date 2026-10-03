@@ -35,5 +35,5 @@ NumPy & SciPy for GPU
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[getsentry-sentry]] [[google-skills]] [[hunxbyts-ghosttrack]]
+[[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[getsentry-sentry]] [[jamwithai-production-agentic-rag-course]]
 

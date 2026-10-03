@@ -34,7 +34,7 @@ Model router for agentic systems. Routes every prompt to the right model in <50m
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[rakyll-hey]] [[google-ax]] [[colbymchenry-codegraph]] [[obra-superpowers]]
+[[juliusbrussee-caveman]] [[openbao-openbao]] [[rakyll-hey]] [[google-ax]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

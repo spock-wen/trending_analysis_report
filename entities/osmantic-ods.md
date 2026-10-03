@@ -35,7 +35,7 @@ Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice
 
 ## 相关项目
 
-[[actions-runner-images]] [[debpalash-voicestudio]] [[colbymchenry-codegraph]] [[zhouxiaoka-autoclip]] [[pbakaus-impeccable]]
+[[trycua-cua]] [[zhouxiaoka-autoclip]] [[jamiepine-voicebox]] [[meituan-longcat-longcat-video]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

@@ -35,5 +35,5 @@ Useful tool to track location or mobile number
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[getsentry-sentry]] [[google-skills]]
+[[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[getsentry-sentry]] [[jamwithai-production-agentic-rag-course]]
 

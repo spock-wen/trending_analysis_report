@@ -34,7 +34,7 @@ A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运�
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]] [[getsentry-sentry]] [[hunxbyts-ghosttrack]]
+[[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[getsentry-sentry]] [[jamwithai-production-agentic-rag-course]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ A collection of MCP servers.
 
 ## 相关项目
 
-[[mattpocock-skills]] [[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]]
+[[earendil-works-pi]] [[obra-superpowers]] [[mattpocock-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

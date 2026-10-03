@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[cursor-plugins]] [[mksglu-context-mode]] [[melgarafael-deskcommcrm]] [[obra-superpowers]]
+[[danny-avila-librechat]] [[ever-co-ever-gauzy]] [[thedotmack-claude-mem]] [[anthropics-claude-code]] [[melgarafael-deskcommcrm]]
 
 **所属领域**: [[erp]]
 

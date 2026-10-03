@@ -35,7 +35,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[heygen-com-hyperframes]] [[rakyll-hey]] [[averygan-reclip]] [[colbymchenry-codegraph]]
+[[trycua-cua]] [[hkuds-cli-anything]] [[averygan-reclip]] [[rakyll-hey]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

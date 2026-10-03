@@ -38,7 +38,7 @@ World's first open-source, agentic video production system. 12 production pipeli
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]] [[t8y2-dbx]]
+[[coreyhaines31-marketingskills]] [[deusdata-codebase-memory-mcp]] [[t8y2-dbx]] [[openbao-openbao]] [[meituan-longcat-longcat-video]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

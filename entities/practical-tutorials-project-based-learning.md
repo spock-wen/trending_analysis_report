@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[nvidia-model-optimizer]] [[getsentry-sentry]] [[vectorize-io-hindsight]]
+[[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[rohitg00-ai-engineering-from-scratch]] [[getsentry-sentry]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[education]]
 

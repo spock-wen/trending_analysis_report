@@ -37,7 +37,7 @@ Google's open agentic orchestration runtime
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[rakyll-hey]] [[colbymchenry-codegraph]] [[obra-superpowers]] [[openbao-openbao]]
+[[juliusbrussee-caveman]] [[openbao-openbao]] [[rakyll-hey]] [[mattpocock-skills]] [[earendil-works-pi]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[paperclipai-paperclip]] [[pbakaus-impeccable]] [[melgarafael-deskcommcrm]] [[paperless-ngx-paperless-ngx]]
+[[zhaoxuya520-reverse-skill]] [[danny-avila-librechat]] [[paperless-ngx-paperless-ngx]] [[ever-co-ever-gauzy]] [[meituan-longcat-longcat-video]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

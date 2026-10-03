@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[oblien-openship]] [[rakyll-hey]] [[google-ax]] [[davila7-claude-code-templates]]
+[[juliusbrussee-caveman]] [[openbao-openbao]] [[rakyll-hey]] [[oblien-openship]] [[google-ax]]
 
 **所属领域**: [[devops]]
 

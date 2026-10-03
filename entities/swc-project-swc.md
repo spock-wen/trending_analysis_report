@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[rakyll-hey]] [[akitaonrails-ai-memory]] [[averygan-reclip]] [[nvidia-openshell]]
+[[hkuds-cli-anything]] [[averygan-reclip]] [[t8y2-dbx]] [[block-buzz]] [[rakyll-hey]]
 
 **所属领域**: [[web]]
 

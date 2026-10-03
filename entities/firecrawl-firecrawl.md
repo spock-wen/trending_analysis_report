@@ -36,7 +36,7 @@ The context API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[cursor-plugins]] [[rakyll-hey]] [[mksglu-context-mode]] [[averygan-reclip]]
+[[hkuds-cli-anything]] [[pingdotgg-t3code]] [[averygan-reclip]] [[thedotmack-claude-mem]] [[anthropics-claude-code]]
 
 **所属领域**: [[web]]
 

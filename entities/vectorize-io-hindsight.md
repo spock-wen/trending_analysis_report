@@ -38,7 +38,7 @@ Hindsight: Agent Memory That Learns
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]] [[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]]
+[[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

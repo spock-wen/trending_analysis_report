@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[rakyll-hey]] [[colbymchenry-codegraph]] [[averygan-reclip]] [[pbakaus-impeccable]]
+[[hkuds-cli-anything]] [[averygan-reclip]] [[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[rakyll-hey]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

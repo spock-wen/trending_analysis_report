@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[rakyll-hey]] [[deusdata-codebase-memory-mcp]] [[dietrichgebert-ponytail]] [[colbymchenry-codegraph]]
+[[hkuds-cli-anything]] [[coreyhaines31-marketingskills]] [[averygan-reclip]] [[dietrichgebert-ponytail]] [[t8y2-dbx]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

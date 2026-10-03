@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[colbymchenry-codegraph]] [[obra-superpowers]] [[nvidia-openshell]] [[pbakaus-impeccable]]
+[[anthropics-claude-code]] [[mattpocock-skills]] [[infinityloop1308-pipepipe]] [[nvm-sh-nvm]] [[earendil-works-pi]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

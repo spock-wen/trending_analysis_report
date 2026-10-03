@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[cursor-plugins]] [[mksglu-context-mode]] [[colbymchenry-codegraph]] [[paperclipai-paperclip]]
+[[paperless-ngx-paperless-ngx]] [[thedotmack-claude-mem]] [[anthropics-claude-code]] [[paperclipai-paperclip]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

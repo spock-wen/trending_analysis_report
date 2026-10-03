@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[google-skills]] [[heygen-com-hyperframes]] [[deusdata-codebase-memory-mcp]] [[averygan-reclip]]
+[[averygan-reclip]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[coreyhaines31-marketingskills]] [[meituan-longcat-longcat-video]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

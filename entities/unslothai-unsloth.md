@@ -37,7 +37,7 @@ Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,
 
 ## 相关项目
 
-[[actions-runner-images]] [[colbymchenry-codegraph]] [[zhouxiaoka-autoclip]] [[pbakaus-impeccable]] [[obra-superpowers]]
+[[trycua-cua]] [[zhouxiaoka-autoclip]] [[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

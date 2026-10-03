@@ -35,7 +35,7 @@ yoink any video from your terminal. no shady ads.
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[cursor-plugins]] [[mksglu-context-mode]] [[obra-superpowers]] [[nvidia-openshell]]
+[[thedotmack-claude-mem]] [[anthropics-claude-code]] [[mattpocock-skills]] [[earendil-works-pi]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

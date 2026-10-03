@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]] [[cs341-illinois-coursebook]] [[nvidia-model-optimizer]]
+[[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[getsentry-sentry]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

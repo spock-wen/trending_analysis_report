@@ -34,5 +34,5 @@ Free and Open Source Machine Translation API. Self-hosted, offline capable and e
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[getsentry-sentry]] [[google-skills]] [[hunxbyts-ghosttrack]]
+[[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[getsentry-sentry]] [[jamwithai-production-agentic-rag-course]]
 

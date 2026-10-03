@@ -35,7 +35,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[nationalsecurityagency-ghidra]] [[rakyll-hey]] [[averygan-reclip]] [[melgarafael-deskcommcrm]]
+[[zhaoxuya520-reverse-skill]] [[danny-avila-librechat]] [[hkuds-cli-anything]] [[averygan-reclip]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

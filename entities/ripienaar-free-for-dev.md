@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[oblien-openship]] [[rakyll-hey]] [[davila7-claude-code-templates]] [[averygan-reclip]]
+[[hkuds-cli-anything]] [[averygan-reclip]] [[rakyll-hey]] [[oblien-openship]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[web]] [[devops]]
 

@@ -35,5 +35,5 @@ Automatic quad remeshing tool
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[harry7557558-spirula-studio]] [[firebase-firebase-ios-sdk]] [[tensorflow-tensorflow]]
+[[harry7557558-spirula-studio]] [[firebase-firebase-ios-sdk]] [[fmtlib-fmt]] [[tensorflow-tensorflow]]
 

@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[rakyll-hey]] [[averygan-reclip]] [[melgarafael-deskcommcrm]] [[hkuds-cli-anything]]
+[[danny-avila-librechat]] [[hkuds-cli-anything]] [[averygan-reclip]] [[nutlope-hallmark]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[web]] [[erp]]
 

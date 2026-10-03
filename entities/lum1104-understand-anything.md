@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[cursor-plugins]] [[mksglu-context-mode]] [[colbymchenry-codegraph]] [[obra-superpowers]]
+[[thedotmack-claude-mem]] [[anthropics-claude-code]] [[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]] [[cs341-illinois-coursebook]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

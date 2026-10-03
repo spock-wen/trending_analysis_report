@@ -34,7 +34,7 @@ Training neural networks on Apple Neural Engine via reverse-engineered private A
 
 ## 相关项目
 
-[[mattpocock-skills]] [[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]]
+[[earendil-works-pi]] [[obra-superpowers]] [[mattpocock-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

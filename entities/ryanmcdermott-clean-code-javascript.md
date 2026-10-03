@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[byoungd-up]] [[coreyhaines31-marketingskills]] [[pbakaus-impeccable]]
+[[addyosmani-agent-skills]] [[pbakaus-impeccable]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]]
 

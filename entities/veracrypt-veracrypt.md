@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[deusdata-codebase-memory-mcp]] [[colbymchenry-codegraph]] [[zhaoxuya520-reverse-skill]] [[cloudflare-security-audit-skill]]
+[[deusdata-codebase-memory-mcp]] [[justvugg-colibri]] [[colbymchenry-codegraph]] [[willfaust-madeira]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[security]]
 

@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[actions-runner-images]] [[colbymchenry-codegraph]] [[zhouxiaoka-autoclip]] [[pbakaus-impeccable]] [[paperclipai-paperclip]]
+[[trycua-cua]] [[zhaoxuya520-reverse-skill]] [[paperless-ngx-paperless-ngx]] [[zhouxiaoka-autoclip]] [[meituan-longcat-longcat-video]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[juliusbrussee-caveman]] [[rakyll-hey]] [[google-ax]] [[averygan-reclip]]
+[[juliusbrussee-caveman]] [[hkuds-cli-anything]] [[averygan-reclip]] [[openbao-openbao]] [[anthropics-claude-code]]
 
 **所属领域**: [[web]] [[cli]]
 

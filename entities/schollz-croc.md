@@ -35,5 +35,5 @@ Easily and securely send things from one computer to another 🐊 📦
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[rakyll-hey]] [[openbao-openbao]] [[google-ax]]
+[[juliusbrussee-caveman]] [[rakyll-hey]] [[google-ax]] [[openbao-openbao]]
 

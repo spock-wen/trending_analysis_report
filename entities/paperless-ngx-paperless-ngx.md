@@ -35,7 +35,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[getsentry-sentry]] [[affaan-m-ecc]] [[hunxbyts-ghosttrack]]
+[[zhaoxuya520-reverse-skill]] [[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[paperclipai-paperclip]] [[getsentry-sentry]]
 
 **所属领域**: [[science]]
 

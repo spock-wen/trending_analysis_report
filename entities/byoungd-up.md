@@ -35,7 +35,7 @@ An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶�
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[colbymchenry-codegraph]] [[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]]
+[[dietrichgebert-ponytail]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[addyosmani-agent-skills]] [[earendil-works-pi]]
 
 **所属领域**: [[ai-agent]]
 

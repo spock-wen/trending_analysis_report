@@ -35,5 +35,5 @@ git push no-mistakes
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[rakyll-hey]] [[openbao-openbao]] [[google-ax]]
+[[juliusbrussee-caveman]] [[rakyll-hey]] [[google-ax]] [[openbao-openbao]]
 

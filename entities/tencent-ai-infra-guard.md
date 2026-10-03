@@ -35,7 +35,7 @@ A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skil
 
 ## 相关项目
 
-[[oblien-openship]] [[davila7-claude-code-templates]] [[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]]
+[[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[oblien-openship]] [[mattpocock-skills]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[cursor-plugins]] [[davila7-claude-code-templates]] [[mksglu-context-mode]] [[nvidia-model-optimizer]]
+[[thedotmack-claude-mem]] [[anthropics-claude-code]] [[nvidia-model-optimizer]] [[davila7-claude-code-templates]] [[getsentry-sentry]]
 
 **所属领域**: [[devops]]
 

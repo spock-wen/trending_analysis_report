@@ -34,7 +34,7 @@ Socket-based TS/JavaScript API for WhatsApp Web
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[rakyll-hey]] [[dietrichgebert-ponytail]] [[colbymchenry-codegraph]] [[averygan-reclip]]
+[[hkuds-cli-anything]] [[averygan-reclip]] [[dietrichgebert-ponytail]] [[pbakaus-impeccable]] [[rakyll-hey]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

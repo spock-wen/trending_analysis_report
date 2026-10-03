@@ -38,5 +38,5 @@ Cursor plugin specification and official plugins
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[mksglu-context-mode]] [[mvschwarz-openrig]]
+[[thedotmack-claude-mem]] [[earendil-works-pi]] [[anthropics-claude-code]] [[pingdotgg-t3code]]
 

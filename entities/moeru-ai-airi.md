@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[cursor-plugins]] [[debpalash-voicestudio]] [[rakyll-hey]] [[mksglu-context-mode]]
+[[hkuds-cli-anything]] [[averygan-reclip]] [[thedotmack-claude-mem]] [[debpalash-voicestudio]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[mattpocock-skills]] [[panniantong-agent-reach]] [[nvidia-openshell]] [[obra-superpowers]]
+[[earendil-works-pi]] [[anthropics-claude-code]] [[obra-superpowers]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

@@ -35,7 +35,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[fmtlib-fmt]] [[rakyll-hey]] [[averygan-reclip]] [[firebase-firebase-ios-sdk]]
+[[fmtlib-fmt]] [[hkuds-cli-anything]] [[firebase-firebase-ios-sdk]] [[averygan-reclip]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[web]]
 

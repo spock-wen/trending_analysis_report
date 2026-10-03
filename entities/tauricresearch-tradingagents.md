@@ -38,7 +38,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[paperclipai-paperclip]] [[pbakaus-impeccable]] [[paperless-ngx-paperless-ngx]] [[obra-superpowers]]
+[[zhaoxuya520-reverse-skill]] [[paperless-ngx-paperless-ngx]] [[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

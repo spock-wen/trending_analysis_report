@@ -34,7 +34,7 @@ Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true
 
 ## 相关项目
 
-[[lakr233-vphone-cli]] [[oblien-openship]] [[abue-ammar-tinycast]] [[davila7-claude-code-templates]] [[nvidia-model-optimizer]]
+[[lakr233-vphone-cli]] [[oblien-openship]] [[abue-ammar-tinycast]] [[nvidia-model-optimizer]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[devops]]
 

@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[heygen-com-hyperframes]] [[rakyll-hey]] [[averygan-reclip]] [[colbymchenry-codegraph]]
+[[trycua-cua]] [[hkuds-cli-anything]] [[paperless-ngx-paperless-ngx]] [[averygan-reclip]] [[rakyll-hey]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

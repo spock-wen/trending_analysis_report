@@ -38,7 +38,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[cursor-plugins]] [[mksglu-context-mode]] [[colbymchenry-codegraph]] [[paperless-ngx-paperless-ngx]]
+[[paperless-ngx-paperless-ngx]] [[thedotmack-claude-mem]] [[anthropics-claude-code]] [[mattpocock-skills]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

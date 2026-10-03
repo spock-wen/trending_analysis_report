@@ -35,7 +35,7 @@ OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换�
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[colbymchenry-codegraph]] [[obra-superpowers]] [[nvidia-openshell]] [[t8y2-dbx]]
+[[t8y2-dbx]] [[anthropics-claude-code]] [[block-buzz]] [[mattpocock-skills]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

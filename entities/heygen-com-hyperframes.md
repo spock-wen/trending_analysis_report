@@ -38,7 +38,7 @@ Write HTML. Render video. Built for agents.
 
 ## 相关项目
 
-[[cursor-plugins]] [[rakyll-hey]] [[mksglu-context-mode]] [[colbymchenry-codegraph]] [[averygan-reclip]]
+[[hkuds-cli-anything]] [[averygan-reclip]] [[thedotmack-claude-mem]] [[anthropics-claude-code]] [[rakyll-hey]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

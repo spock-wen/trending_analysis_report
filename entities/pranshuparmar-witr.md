@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[rakyll-hey]] [[google-ax]] [[colbymchenry-codegraph]] [[obra-superpowers]]
+[[juliusbrussee-caveman]] [[openbao-openbao]] [[anthropics-claude-code]] [[rakyll-hey]] [[google-ax]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

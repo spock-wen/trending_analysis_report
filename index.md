@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-03 | 总页面：653
+> 最后更新：2026-10-04 | 总页面：655
 
 ## Entities
 
@@ -18,7 +18,7 @@
 - [[actions-checkout|checkout"]] — Action for checking out a repo
 - [[actions-runner-images|runner-images"]] — GitHub Actions runner images
 - [[activeloopai-hivemind|hivemind"]] — One brain for all your agents
-- [[addyosmani-agent-skills|agent-skills"]] — Production-grade engineering skills for AI coding agents. 🔥
+- [[addyosmani-agent-skills|agent-skills"]] — Production-grade engineering skills for AI coding agents.
 - [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i...
 - [[agalwood-motrix|Motrix"]] — A full-featured download manager. 🆕
 - [[agavra-tuicr|tuicr"]] — a code review TUI with vim keybindings 🆕
@@ -58,7 +58,7 @@
 - [[anomalyco-opencode|opencode"]] — The open source coding agent. 🔥
 - [[ansible-ansible|ansible"]] — Ansible is a radically simple IT automation platform that ma...
 - [[anthropics-claude-code-action|claude-code-action"]] — No description
-- [[anthropics-claude-code|claude-code"]] — Claude Code is an agentic coding tool that lives in your ter... 🔥
+- [[anthropics-claude-code|claude-code"]] — Claude Code is an agentic coding tool that lives in your ter...
 - [[anthropics-claude-cookbooks|claude-cookbooks"]] — A collection of notebooks/recipes showcasing some fun and ef...
 - [[anthropics-claude-plugins-community|claude-plugins-community"]] — Community plugin marketplace for Claude Cowork and Claude Co... 🔥
 - [[anthropics-claude-plugins-official|claude-plugins-official"]] — Official, Anthropic-managed directory of high quality Claude...
@@ -127,6 +127,7 @@
 - [[citrolabs-ego-lite|ego-lite"]] — The fastest browser for AI agents to run browser automation,... 🆕
 - [[cline-cline|cline"]] — Autonomous coding agent as an SDK, IDE extension, or CLI ass... 🆕
 - [[cloakhq-cloakbrowser|CloakBrowser"]] — Stealth Chromium that passes every bot detection test. Drop-... 🆕
+- [[cloudflare-cloudflare-os|cloudflare-os"]] — Agent workspace built on Cloudflare Workers for creating doc... 🆕
 - [[cloudflare-computer|computer"]] — Give your agent a computer 👾 🔥
 - [[cloudflare-quiche|quiche"]] — 🥧 Savoury implementation of the QUIC transport protocol and ...
 - [[cloudflare-security-audit-skill|security-audit-skill"]] — A coding-agent skill for multi-phase security audits with in... 🔥
@@ -300,7 +301,7 @@
 - [[jo-inc-camofox-browser|camofox-browser"]] — Stealth headless browser for AI agents — bypass Cloudflare, ... 🆕
 - [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm"]] — Claude Skill: Multi-source content processor for NotebookLM. 🆕
 - [[jordan-gibbs-hyperresearch|hyperresearch"]] — Agent-driven research knowledge base. Agents collect, search...
-- [[juliusbrussee-caveman|caveman"]] — 🪨 why use many token when few token do trick. Viral skill + ...
+- [[juliusbrussee-caveman|caveman"]] — 🪨 why use many token when few token do trick. Viral skill + ... 🆕
 - [[julyx10-lap|lap"]] — An offline-first photo manager for large local libraries
 - [[jundot-omlx|omlx"]] — LLM inference server with continuous batching & SSD caching ... 🔥
 - [[justvugg-colibri|colibri"]] — Run frontier MoE models on hardware you already own — pure C... 🔥
@@ -368,6 +369,7 @@
 - [[mebus-cupp|cupp"]] — Common User Passwords Profiler (CUPP) 🆕
 - [[medusajs-medusa|medusa"]] — The world's most flexible commerce platform.
 - [[megadose-holehe|holehe"]] — holehe allows you to check if the mail is used on different ... 🔥
+- [[meituan-longcat-longcat-video|LongCat-Video"]] — No description 🆕
 - [[melgarafael-deskcommcrm|DeskcommCRM"]] — Open-source AI sales OS — self-hosted CRM with native AI age...
 - [[mempalace-mempalace|mempalace"]] — The best-benchmarked open-source AI memory system. And it's ...
 - [[meshery-meshery|meshery"]] — Meshery, the cloud native manager 🔥
@@ -427,7 +429,7 @@
 - [[nvlabs-sana|Sana"]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
 - [[nvm-sh-nvm|nvm"]] — Node Version Manager - POSIX-compliant bash script to manage...
 - [[oblien-openship|openship"]] — Self-hosted deployment platform
-- [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo... 🆕
+- [[obra-superpowers|superpowers"]] — An agentic skills framework & software development methodolo... 🔥
 - [[ocornut-imgui|imgui"]] — Dear ImGui: Bloat-free Graphical User interface for C++ with...
 - [[odoo-odoo|odoo"]] — Odoo. Open Source Apps To Grow Your Business.
 - [[ogulcancelik-herdr|herdr"]] — agent multiplexer that lives in your terminal. 🔥
@@ -463,18 +465,18 @@
 - [[pacifio-atlas|atlas"]] — Source control for agents. Use multiple coding agents, track...
 - [[paddlepaddle-paddleocr|PaddleOCR"]] — Turn any PDF or image document into structured data for your... 🆕
 - [[palmier-io-palmier-pro|palmier-pro"]] — macOS video editor built for AI
-- [[panniantong-agent-reach|Agent-Reach"]] — Give your AI agent eyes to see the entire internet. Read & s...
+- [[panniantong-agent-reach|Agent-Reach"]] — Give your AI agent eyes to see the entire internet. Read & s... 🆕
 - [[paperclipai-paperclip|paperclip"]] — The open-source app everyone uses to manage agents at work 🔥
 - [[paperless-ngx-paperless-ngx|paperless-ngx"]] — A community-supported supercharged document management syste...
 - [[paperswithbacktest-awesome-systematic-trading|awesome-systematic-trading"]] — A curated list of awesome libraries, packages, strategies, b... 🔥
 - [[par274-sharpemu|sharpemu"]] — An experimental PlayStation 5 emulator project.
 - [[pascalorg-editor|editor"]] — Open-source 3D architectural editor with a local CLI, MCP to...
-- [[pbakaus-impeccable|impeccable"]] — The design language that makes your AI harness better at des... 🆕
+- [[pbakaus-impeccable|impeccable"]] — The design language that makes your AI harness better at des... 🔥
 - [[peetzweg-opendisplay|opendisplay"]] — Free, open-source Sidecar/Duet alternative — use your iPhone...
 - [[penpot-penpot|penpot"]] — Penpot: The open-source design platform for Product teams th...
 - [[permissionlesstech-bitchat|bitchat"]] — bluetooth mesh chat, IRC vibes
 - [[phuryn-pm-skills|pm-skills"]] — PM Skills Marketplace: 100+ agentic skills, commands, and pl... 🔥
-- [[pingdotgg-t3code|t3code"]] — No description 🆕
+- [[pingdotgg-t3code|t3code"]] — No description
 - [[pkuflyingpig-cs-self-learning|cs-self-learning"]] — 计算机自学指南
 - [[plausible-analytics|analytics"]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
 - [[posthog-posthog|posthog"]] — 🦔 PostHog is the leading platform for building self-driving ...

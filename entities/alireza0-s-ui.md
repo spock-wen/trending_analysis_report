@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[juliusbrussee-caveman]] [[rakyll-hey]] [[google-ax]] [[averygan-reclip]]
+[[juliusbrussee-caveman]] [[hkuds-cli-anything]] [[averygan-reclip]] [[openbao-openbao]] [[rakyll-hey]]
 
 **所属领域**: [[web]]
 

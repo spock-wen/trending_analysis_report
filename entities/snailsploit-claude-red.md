@@ -37,7 +37,7 @@ claude-red is a curated library of offensive security skills designed for the Cl
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[deusdata-codebase-memory-mcp]] [[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]]
+[[zhaoxuya520-reverse-skill]] [[coreyhaines31-marketingskills]] [[deusdata-codebase-memory-mcp]] [[t8y2-dbx]] [[openbao-openbao]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[security]]
 

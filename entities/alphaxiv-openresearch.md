@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[colbymchenry-codegraph]] [[paperclipai-paperclip]] [[paperless-ngx-paperless-ngx]] [[obra-superpowers]]
+[[paperless-ngx-paperless-ngx]] [[t8y2-dbx]] [[block-buzz]] [[paperclipai-paperclip]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

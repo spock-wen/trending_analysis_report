@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[deusdata-codebase-memory-mcp]] [[colbymchenry-codegraph]] [[paperclipai-paperclip]] [[pbakaus-impeccable]]
+[[zhaoxuya520-reverse-skill]] [[coreyhaines31-marketingskills]] [[deusdata-codebase-memory-mcp]] [[paperless-ngx-paperless-ngx]] [[t8y2-dbx]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[cursor-plugins]] [[rakyll-hey]] [[deusdata-codebase-memory-mcp]] [[mksglu-context-mode]]
+[[hkuds-cli-anything]] [[coreyhaines31-marketingskills]] [[pingdotgg-t3code]] [[averygan-reclip]] [[t8y2-dbx]]
 
 **所属领域**: [[web]] [[data]]
 

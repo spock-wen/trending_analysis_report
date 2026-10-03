@@ -34,7 +34,7 @@ Persistent file-based planning for AI coding agents and long-running agentic tas
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]] [[nvidia-openshell]] [[getsentry-sentry]]
+[[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[anthropics-claude-code]] [[mattpocock-skills]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

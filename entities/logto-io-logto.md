@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[cursor-plugins]] [[oblien-openship]] [[davila7-claude-code-templates]] [[mksglu-context-mode]]
+[[thedotmack-claude-mem]] [[anthropics-claude-code]] [[oblien-openship]] [[mattpocock-skills]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

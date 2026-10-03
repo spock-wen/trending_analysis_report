@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[heygen-com-hyperframes]] [[rakyll-hey]] [[panniantong-agent-reach]] [[obra-superpowers]]
+[[obra-superpowers]] [[hkuds-cli-anything]] [[anthropics-claude-code]] [[rakyll-hey]] [[mattpocock-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

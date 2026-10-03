@@ -34,7 +34,7 @@ SIA is a Self Improving AI framework to autonomously improve the performance of 
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]] [[getsentry-sentry]] [[hunxbyts-ghosttrack]]
+[[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[getsentry-sentry]] [[jamwithai-production-agentic-rag-course]]
 
 **所属领域**: [[ai-agent]]
 

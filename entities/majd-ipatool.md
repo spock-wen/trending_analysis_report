@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[rakyll-hey]] [[google-ax]] [[obra-superpowers]] [[nvidia-openshell]]
+[[juliusbrussee-caveman]] [[openbao-openbao]] [[anthropics-claude-code]] [[rakyll-hey]] [[google-ax]]
 
 **所属领域**: [[cli]]
 

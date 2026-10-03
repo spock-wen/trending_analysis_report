@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[paperless-ngx-paperless-ngx]] [[rohitg00-ai-engineering-from-scratch]] [[zhaoxuya520-reverse-skill]] [[cs341-illinois-coursebook]]
+[[zhaoxuya520-reverse-skill]] [[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]]
 
 **所属领域**: [[education]] [[science]]
 

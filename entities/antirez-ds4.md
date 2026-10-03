@@ -35,5 +35,5 @@ DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[justvugg-colibri]] [[deusdata-codebase-memory-mcp]] [[willfaust-madeira]]
+[[deusdata-codebase-memory-mcp]] [[colbymchenry-codegraph]] [[willfaust-madeira]] [[justvugg-colibri]]
 

@@ -38,7 +38,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[oblien-openship]] [[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]] [[nvidia-openshell]]
+[[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[anthropics-claude-code]] [[oblien-openship]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

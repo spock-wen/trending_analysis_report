@@ -34,7 +34,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[rakyll-hey]] [[google-ax]] [[colbymchenry-codegraph]] [[obra-superpowers]]
+[[juliusbrussee-caveman]] [[openbao-openbao]] [[rakyll-hey]] [[google-ax]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[yuliskov-smarttube]] [[nationalsecurityagency-ghidra]] [[deusdata-codebase-memory-mcp]] [[checkstyle-checkstyle]] [[colbymchenry-codegraph]]
+[[coreyhaines31-marketingskills]] [[deusdata-codebase-memory-mcp]] [[t8y2-dbx]] [[openbao-openbao]] [[yuliskov-smarttube]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -38,5 +38,5 @@ Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, struct
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[getsentry-sentry]] [[google-skills]] [[hunxbyts-ghosttrack]]
+[[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[getsentry-sentry]] [[jamwithai-production-agentic-rag-course]]
 

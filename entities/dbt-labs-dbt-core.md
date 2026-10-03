@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[akitaonrails-ai-memory]] [[nvidia-openshell]] [[t8y2-dbx]] [[openbao-openbao]]
+[[coreyhaines31-marketingskills]] [[deusdata-codebase-memory-mcp]] [[t8y2-dbx]] [[openbao-openbao]] [[block-buzz]]
 
 **所属领域**: [[data]]
 

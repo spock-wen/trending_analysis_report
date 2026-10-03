@@ -34,7 +34,7 @@ Transform unstructured text into structured knowledge with LLMs. Graphs, hypergr
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[pbakaus-impeccable]] [[obra-superpowers]] [[nvidia-openshell]] [[getsentry-sentry]]
+[[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[anthropics-claude-code]] [[mattpocock-skills]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

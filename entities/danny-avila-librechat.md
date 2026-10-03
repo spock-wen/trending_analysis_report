@@ -34,7 +34,7 @@ Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, 
 
 ## 相关项目
 
-[[heygen-com-hyperframes]] [[cursor-plugins]] [[mksglu-context-mode]] [[colbymchenry-codegraph]] [[melgarafael-deskcommcrm]]
+[[ever-co-ever-gauzy]] [[thedotmack-claude-mem]] [[anthropics-claude-code]] [[melgarafael-deskcommcrm]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

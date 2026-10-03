@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[rakyll-hey]] [[google-ax]] [[obra-superpowers]] [[nvidia-openshell]]
+[[juliusbrussee-caveman]] [[openbao-openbao]] [[anthropics-claude-code]] [[rakyll-hey]] [[google-ax]]
 
 **所属领域**: [[cli]]
 

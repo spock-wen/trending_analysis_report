@@ -34,7 +34,7 @@ A living pixel-art station where real AI agents do real work. Local-first deskto
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[colbymchenry-codegraph]] [[obra-superpowers]] [[byoungd-up]] [[pbakaus-impeccable]]
+[[dietrichgebert-ponytail]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[addyosmani-agent-skills]] [[earendil-works-pi]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[heygen-com-hyperframes]] [[rakyll-hey]] [[deusdata-codebase-memory-mcp]] [[averygan-reclip]]
+[[trycua-cua]] [[hkuds-cli-anything]] [[coreyhaines31-marketingskills]] [[averygan-reclip]] [[t8y2-dbx]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

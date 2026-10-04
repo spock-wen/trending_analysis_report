@@ -14,7 +14,7 @@ consecutive_days: 1
 first_trending: 2026-05-16
 last_trending: 2026-05-19
 peak_rank: 4
-total_stars: 6294
+total_stars: 8338
 language: "Swift"
 ---
 

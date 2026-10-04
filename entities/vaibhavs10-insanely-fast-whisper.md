@@ -4,7 +4,7 @@ created: 2026-03-27
 updated: 2026-03-28
 last_active: 2026-03-28
 type: tool
-tags: [python, ai-agent]
+tags: [tool]
 sources: [raw/trending/2026-03-28.json]
 confidence: medium
 trending_count_daily: 2
@@ -19,6 +19,9 @@ language: "Jupyter Notebook"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "no-evidence"
+domain_source: daily-report
 ---
 
 # Vaibhavs10/insanely-fast-whisper
@@ -40,4 +43,4 @@ No description
 
 [[earendil-works-pi]] [[microsoft-ai-for-beginners]] [[affaan-m-ecc]] [[lyogavin-airllm]] [[obra-superpowers]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: （无可靠依据，未判定）

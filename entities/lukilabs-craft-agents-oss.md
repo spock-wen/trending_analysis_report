@@ -4,7 +4,7 @@ created: 2026-04-18
 updated: 2026-05-01
 last_active: 2026-05-01
 type: tool
-tags: [typescript, ai-agent]
+tags: [typescript]
 sources: [raw/trending/2026-05-01.json]
 confidence: high
 trending_count_daily: 3
@@ -19,6 +19,9 @@ language: "TypeScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "no-evidence"
+domain_source: daily-report
 ---
 
 # lukilabs/craft-agents-oss
@@ -41,4 +44,4 @@ No description
 
 [[thedotmack-claude-mem]] [[earendil-works-pi]] [[pingdotgg-t3code]] [[affaan-m-ecc]] [[anthropics-claude-code]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: （无可靠依据，未判定）

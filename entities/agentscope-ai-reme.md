@@ -4,7 +4,7 @@ created: 2026-03-04
 updated: 2026-03-06
 last_active: 2026-03-06
 type: tool
-tags: [python, ai-agent, rising]
+tags: [python, ai-agent]
 sources: [raw/trending/2026-03-06.json]
 confidence: high
 trending_count_daily: 3
@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:agent; topic:ai-agents; topic:rag"
+domain_source: daily-report
 ---
 
 # agentscope-ai/ReMe
@@ -41,4 +44,4 @@ ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 
 [[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[obra-superpowers]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: ai-agent

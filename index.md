@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-04 | 总页面：788
+> 最后更新：2026-10-04 | 总页面：785
 
 ## Entities
 
@@ -747,8 +747,6 @@
 - [[openbmb-chatdev|chatdev"]] — ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration 🆕
 - [[openwrt-openwrt|openwrt"]] — This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for refer... 🆕
 - [[oracle-devrel-oracle-ai-developer-hub|devrel-oracle-ai-developer-hub"]] — Technical resources for AI developers to build applications, agents, and systems using Ora... 🆕
-- [[owner-repo1|repo1"]] — Test repo 1 🆕
-- [[owner-repo2|repo2"]] — Test repo 2 🆕
 - [[playcanvas-supersplat|supersplat"]] — 3D Gaussian Splat Editor 🆕
 - [[powershell-powershell|powershell"]] — PowerShell for every system! 🆕
 - [[priorlabs-tabpfn|tabpfn"]] — ⚡ TabPFN: Foundation Model for Tabular Data ⚡ 🆕
@@ -774,7 +772,6 @@
 - [[systemd-systemd|systemd"]] — The systemd System and Service Manager 🆕
 - [[telegramdesktop-tdesktop|tdesktop"]] — Telegram Desktop messaging app 🆕
 - [[telegrammessenger-telegram-ios|telegram-ios"]] — Telegram-iOS 🆕
-- [[test-org-test-project|org-test-project"]] — 测试项目 🆕
 - [[thecraighewitt-seomachine|seomachine"]] — A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for... 🆕
 - [[thunderbird-thunderbolt|thunderbolt"]] — AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. 🆕
 - [[tinygrad-tinygrad|tinygrad"]] — You like pytorch? You like micrograd? You love tinygrad! ❤️ 🆕

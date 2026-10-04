@@ -4,7 +4,7 @@ created: 2026-05-12
 updated: 2026-05-12
 last_active: 2026-05-12
 type: tool
-tags: [typescript]
+tags: [typescript, image-gen]
 sources: [raw/trending/2026-05-12.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "TypeScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:gaussian-splatting"
+domain_source: daily-report
 ---
 
 # playcanvas/supersplat
@@ -38,3 +41,5 @@ backfill_source: daily-report
 ## 相关项目
 
 [[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[earendil-works-pi]] [[anthropics-claude-code]]
+
+**所属领域**: image-gen

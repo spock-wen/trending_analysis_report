@@ -4,7 +4,7 @@ created: 2026-03-05
 updated: 2026-03-05
 last_active: 2026-03-05
 type: tool
-tags: [rust]
+tags: [rust, ai-agent, finance]
 sources: [raw/trending/2026-03-05.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "Rust"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:machine-learning; topic:trading"
+domain_source: daily-report
 ---
 
 # nautechsystems/nautilus_trader
@@ -38,3 +41,5 @@ A high-performance algorithmic trading platform and event-driven backtester
 ## 相关项目
 
 [[akitaonrails-ai-memory]] [[t8y2-dbx]] [[nvidia-openshell]] [[block-buzz]]
+
+**所属领域**: ai-agent、finance

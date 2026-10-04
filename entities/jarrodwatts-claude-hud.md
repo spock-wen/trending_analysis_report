@@ -4,7 +4,7 @@ created: 2026-03-18
 updated: 2026-03-22
 last_active: 2026-03-22
 type: tool
-tags: [ai-agent, audio]
+tags: [javascript, ai-agent, cli, tool]
 sources: [raw/trending/2026-03-22.json]
 confidence: high
 trending_count_daily: 4
@@ -19,6 +19,9 @@ language: "JavaScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:claude; topic:claude-code; topic:cli; desc:tool"
+domain_source: daily-report
 ---
 
 # jarrodwatts/claude-hud
@@ -42,4 +45,4 @@ A Claude Code plugin that shows what's happening - context usage, active tools, 
 
 [[multimodal-art-projection-yue]] [[earendil-works-pi]] [[addyosmani-agent-skills]] [[tonhowtf-omniget]] [[pbakaus-impeccable]]
 
-**所属领域**: [[ai-agent]] [[audio]]
+**所属领域**: ai-agent、cli、tool

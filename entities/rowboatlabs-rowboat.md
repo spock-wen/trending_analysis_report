@@ -19,6 +19,9 @@ language: "TypeScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:ai; topic:ai-agents; topic:claude-code; topic:llm"
+domain_source: daily-report
 ---
 
 # rowboatlabs/rowboat
@@ -40,4 +43,4 @@ Open-source AI coworker, with memory
 
 [[thedotmack-claude-mem]] [[earendil-works-pi]] [[pingdotgg-t3code]] [[affaan-m-ecc]] [[anthropics-claude-code]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: ai-agent

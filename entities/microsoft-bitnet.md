@@ -4,7 +4,7 @@ created: 2026-03-13
 updated: 2026-03-14
 last_active: 2026-03-14
 type: framework
-tags: [python, ai-agent]
+tags: [cpp, ai-agent]
 sources: [raw/trending/2026-03-14.json]
 confidence: medium
 trending_count_daily: 2
@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:ai-agent"
+domain_source: github-api
 ---
 
 # microsoft/BitNet
@@ -40,4 +43,4 @@ Official inference framework for 1-bit LLMs
 
 [[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[obra-superpowers]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: ai-agent

@@ -4,7 +4,7 @@ created: 2026-03-04
 updated: 2026-03-05
 last_active: 2026-03-05
 type: framework
-tags: [python, ai-agent, science]
+tags: [python, ai-agent, data, science]
 sources: [raw/trending/2026-03-05.json]
 confidence: medium
 trending_count_daily: 2
@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:agent-skills; topic:bioinformatics; topic:claude; topic:claude-skills"
+domain_source: daily-report
 ---
 
 # K-Dense-AI/claude-scientific-skills
@@ -40,4 +43,4 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 [[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]]
 
-**所属领域**: [[ai-agent]] [[science]]
+**所属领域**: ai-agent、data、science

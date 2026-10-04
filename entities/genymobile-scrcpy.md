@@ -4,7 +4,7 @@ created: 2026-05-15
 updated: 2026-05-15
 last_active: 2026-05-15
 type: tool
-tags: [tool]
+tags: [c, mobile, video]
 sources: [raw/trending/2026-05-15.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "C"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:android; topic:ffmpeg"
+domain_source: daily-report
 ---
 
 # Genymobile/scrcpy
@@ -38,3 +41,5 @@ Display and control your Android device
 ## 相关项目
 
 [[deusdata-codebase-memory-mcp]] [[willfaust-madeira]] [[justvugg-colibri]] [[colbymchenry-codegraph]]
+
+**所属领域**: mobile、video

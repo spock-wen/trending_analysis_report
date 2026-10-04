@@ -4,7 +4,7 @@ created: 2026-04-25
 updated: 2026-04-25
 last_active: 2026-04-25
 type: tool
-tags: [typescript, data, devops]
+tags: [typescript, ai-agent, data]
 sources: [raw/trending/2026-04-25.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "TypeScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:mcp; desc:data"
+domain_source: daily-report
 ---
 
 # open-metadata/OpenMetadata
@@ -39,4 +42,4 @@ OpenMetadata is a unified metadata platform for data discovery, data observabili
 
 [[thedotmack-claude-mem]] [[earendil-works-pi]] [[oblien-openship]] [[pingdotgg-t3code]] [[deusdata-codebase-memory-mcp]]
 
-**所属领域**: [[data]] [[devops]]
+**所属领域**: ai-agent、data

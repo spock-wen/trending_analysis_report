@@ -4,7 +4,7 @@ created: 2026-04-08
 updated: 2026-04-09
 last_active: 2026-04-09
 type: tool
-tags: [python, cli]
+tags: [python, video]
 sources: [raw/trending/2026-04-09.json]
 confidence: medium
 trending_count_daily: 2
@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:video"
+domain_source: github-api
 ---
 
 # elebumm/RedditVideoMakerBot
@@ -40,4 +43,4 @@ Create Reddit Videos with just✨ one command ✨
 
 [[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[anthropics-claude-code]] [[obra-superpowers]]
 
-**所属领域**: [[cli]]
+**所属领域**: video

@@ -4,7 +4,7 @@ created: 2026-03-20
 updated: 2026-03-20
 last_active: 2026-03-20
 type: tool
-tags: [ai-agent, web]
+tags: [kotlin, mobile]
 sources: [raw/trending/2026-03-20.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "Kotlin"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:android; topic:ios"
+domain_source: daily-report
 ---
 
 # mobile-dev-inc/Maestro
@@ -39,4 +42,4 @@ Painless E2E Automation for Mobile and Web
 
 [[earendil-works-pi]] [[affaan-m-ecc]] [[heygen-com-hyperframes]] [[hkuds-cli-anything]] [[andreknieriem-headunit-revived]]
 
-**所属领域**: [[ai-agent]] [[web]]
+**所属领域**: mobile

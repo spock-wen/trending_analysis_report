@@ -4,7 +4,7 @@ created: 2026-03-17
 updated: 2026-03-18
 last_active: 2026-03-18
 type: tool
-tags: [python, ai-agent]
+tags: [python, ai-agent, tool]
 sources: [raw/trending/2026-03-18.json]
 confidence: medium
 trending_count_daily: 2
@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:ai; topic:langchain; topic:langgraph; desc:tool"
+domain_source: daily-report
 ---
 
 # langchain-ai/deepagents
@@ -40,4 +43,4 @@ Agent harness built with LangChain and LangGraph. Equipped with a planning tool,
 
 [[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[obra-superpowers]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: ai-agent、tool

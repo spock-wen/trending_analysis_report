@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: 2026-04-26
 last_active: 2026-04-26
 type: tool
-tags: [cli]
+tags: [cli, devops, tool]
 sources: [raw/trending/2026-04-26.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "C#"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:command-line; topic:linux; topic:shell; topic:windows"
+domain_source: daily-report
 ---
 
 # PowerShell/PowerShell
@@ -39,4 +42,4 @@ PowerShell for every system!
 
 [[jellyfin-jellyfin]] [[dotnet-aspnetcore]] [[earendil-works-pi]] [[anthropics-claude-code]] [[obra-superpowers]]
 
-**所属领域**: [[cli]]
+**所属领域**: cli、devops、tool

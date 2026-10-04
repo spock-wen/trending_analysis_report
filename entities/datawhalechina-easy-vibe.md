@@ -4,7 +4,7 @@ created: 2026-05-10
 updated: 2026-05-12
 last_active: 2026-05-12
 type: tutorial
-tags: [data, education, rising]
+tags: [javascript, ai-agent, education, web]
 sources: [raw/trending/2026-05-12.json]
 confidence: high
 trending_count_daily: 3
@@ -19,6 +19,9 @@ language: "JavaScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:agent; topic:ai; topic:course; topic:deepseek"
+domain_source: daily-report
 ---
 
 # datawhalechina/easy-vibe
@@ -41,4 +44,4 @@ backfill_source: daily-report
 
 [[vectorize-io-hindsight]] [[cs341-illinois-coursebook]] [[addyosmani-agent-skills]] [[deusdata-codebase-memory-mcp]] [[pbakaus-impeccable]]
 
-**所属领域**: [[data]] [[education]]
+**所属领域**: ai-agent、education、web

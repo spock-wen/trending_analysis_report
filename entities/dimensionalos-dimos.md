@@ -4,7 +4,7 @@ created: 2026-03-15
 updated: 2026-03-15
 last_active: 2026-03-15
 type: framework
-tags: [python]
+tags: [python, ai-agent]
 sources: [raw/trending/2026-03-15.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:ai-agent"
+domain_source: github-api
 ---
 
 # dimensionalOS/dimos
@@ -38,3 +41,5 @@ The Dimensional Framework
 ## 相关项目
 
 [[getsentry-sentry]] [[jamwithai-production-agentic-rag-course]] [[panniantong-agent-reach]] [[meituan-longcat-longcat-video]]
+
+**所属领域**: ai-agent

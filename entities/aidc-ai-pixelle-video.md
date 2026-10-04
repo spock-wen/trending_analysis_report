@@ -4,7 +4,7 @@ created: 2026-04-23
 updated: 2026-05-06
 last_active: 2026-05-06
 type: framework
-tags: [python, ai-agent]
+tags: [python, audio, image-gen, video]
 sources: [raw/trending/2026-05-06.json]
 confidence: high
 trending_count_daily: 3
@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:image-generation; topic:tts; topic:video-generation"
+domain_source: daily-report
 ---
 
 # AIDC-AI/Pixelle-Video
@@ -41,4 +44,4 @@ backfill_source: daily-report
 
 [[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[obra-superpowers]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: audio、image-gen、video

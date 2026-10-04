@@ -4,7 +4,7 @@ created: 2026-03-10
 updated: 2026-03-10
 last_active: 2026-03-10
 type: tool
-tags: [python, ai-agent]
+tags: [python, ai-agent, data]
 sources: [raw/trending/2026-03-10.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:data-analysis; topic:nlp"
+domain_source: daily-report
 ---
 
 # 666ghj/BettaFish
@@ -39,4 +42,4 @@ backfill_source: daily-report
 
 [[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[obra-superpowers]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: ai-agent、data

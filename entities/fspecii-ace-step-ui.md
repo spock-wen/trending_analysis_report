@@ -4,7 +4,7 @@ created: 2026-04-29
 updated: 2026-05-05
 last_active: 2026-05-05
 type: tool
-tags: [ai-agent, image-gen, audio]
+tags: [javascript, ai-agent, audio, web]
 sources: [raw/trending/2026-05-05.json]
 confidence: medium
 trending_count_daily: 2
@@ -19,6 +19,9 @@ language: "JavaScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:ai; topic:music; topic:react"
+domain_source: daily-report
 ---
 
 # fspecii/ace-step-ui
@@ -40,4 +43,4 @@ backfill_source: daily-report
 
 [[multimodal-art-projection-yue]] [[fxembed-fxembed]] [[earendil-works-pi]] [[trycua-cua]] [[addyosmani-agent-skills]]
 
-**所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
+**所属领域**: ai-agent、audio、web

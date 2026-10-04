@@ -4,7 +4,7 @@ created: 2026-03-22
 updated: 2026-03-22
 last_active: 2026-03-22
 type: tool
-tags: [python, image-gen]
+tags: [python, ai-agent]
 sources: [raw/trending/2026-03-22.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:gpt; topic:graphrag; topic:knowledge-graph; topic:llm"
+domain_source: github-api
 ---
 
 # HKUDS/LightRAG
@@ -39,4 +42,4 @@ backfill_source: daily-report
 
 [[fxembed-fxembed]] [[panniantong-agent-reach]] [[trycua-cua]] [[jamwithai-production-agentic-rag-course]] [[actions-runner-images]]
 
-**所属领域**: [[image-gen]]
+**所属领域**: ai-agent

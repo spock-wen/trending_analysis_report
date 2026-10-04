@@ -4,7 +4,7 @@ created: 2026-03-07
 updated: 2026-03-07
 last_active: 2026-03-07
 type: framework
-tags: [go, ai-agent, security]
+tags: [go, ai-agent, tool]
 sources: [raw/trending/2026-03-07.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "Go"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:ai; topic:ai-agents; topic:mcp; desc:tool"
+domain_source: daily-report
 ---
 
 # Ed1s0nZ/CyberStrikeAI
@@ -39,4 +42,4 @@ CyberStrikeAI is an AI-native security testing platform built in Go. It integrat
 
 [[google-ax]] [[earendil-works-pi]] [[juliusbrussee-caveman]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]]
 
-**所属领域**: [[ai-agent]] [[security]]
+**所属领域**: ai-agent、tool

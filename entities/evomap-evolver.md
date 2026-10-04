@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-18
 last_active: 2026-04-18
 type: framework
-tags: [ai-agent]
+tags: [javascript, ai-agent, cli]
 sources: [raw/trending/2026-04-18.json]
 confidence: medium
 trending_count_daily: 2
@@ -19,6 +19,9 @@ language: "JavaScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:ai-agent; topic:cli; topic:llm-agent; topic:mcp"
+domain_source: github-api
 ---
 
 # EvoMap/evolver
@@ -40,4 +43,4 @@ The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. 
 
 [[earendil-works-pi]] [[addyosmani-agent-skills]] [[pbakaus-impeccable]] [[affaan-m-ecc]] [[obra-superpowers]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: ai-agent、cli

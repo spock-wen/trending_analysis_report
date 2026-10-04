@@ -4,7 +4,7 @@ created: 2026-05-13
 updated: 2026-05-13
 last_active: 2026-05-13
 type: tool
-tags: [java]
+tags: [java, mobile, video]
 sources: [raw/trending/2026-05-13.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "Java"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:video; desc:mobile"
+domain_source: daily-report
 ---
 
 # anonfaded/FadCam
@@ -38,3 +41,5 @@ Open-source, ad-free Android multimedia recorder with background video recording
 ## 相关项目
 
 [[yuliskov-smarttube]] [[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]] [[google-guava]]
+
+**所属领域**: mobile、video

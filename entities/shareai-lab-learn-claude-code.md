@@ -19,6 +19,9 @@ language: "TypeScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:agent; topic:ai-agent; topic:claude; topic:claude-code"
+domain_source: daily-report
 ---
 
 # shareAI-lab/learn-claude-code
@@ -42,4 +45,4 @@ Bash is all you need - A nano claude code–like 「agent harness」, built from
 
 [[vectorize-io-hindsight]] [[thedotmack-claude-mem]] [[earendil-works-pi]] [[cs341-illinois-coursebook]] [[pingdotgg-t3code]]
 
-**所属领域**: [[ai-agent]] [[education]]
+**所属领域**: ai-agent、education

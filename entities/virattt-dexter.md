@@ -4,7 +4,7 @@ created: 2026-03-27
 updated: 2026-05-07
 last_active: 2026-05-07
 type: tool
-tags: [typescript, ai-agent, science, rising]
+tags: [typescript, ai-agent]
 sources: [raw/trending/2026-05-07.json]
 confidence: high
 trending_count_daily: 6
@@ -19,6 +19,9 @@ language: "TypeScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:ai-agent"
+domain_source: github-api
 ---
 
 # virattt/dexter
@@ -43,4 +46,4 @@ An autonomous agent for deep financial research
 
 [[thedotmack-claude-mem]] [[earendil-works-pi]] [[pingdotgg-t3code]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]]
 
-**所属领域**: [[ai-agent]] [[science]]
+**所属领域**: ai-agent

@@ -19,6 +19,9 @@ language: ""
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:ai-agent"
+domain_source: github-api
 ---
 
 # forrestchang/andrej-karpathy-skills
@@ -43,4 +46,4 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 [[kelseyhightower-kubernetes-the-hard-way]] [[earendil-works-pi]] [[ruanyf-weekly]] [[affaan-m-ecc]] [[liquidslr-system-design-notes]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: ai-agent

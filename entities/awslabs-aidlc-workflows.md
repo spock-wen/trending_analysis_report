@@ -4,7 +4,7 @@ created: 2026-05-09
 updated: 2026-05-09
 last_active: 2026-05-09
 type: tool
-tags: [python, ai-agent]
+tags: [typescript, ai-agent]
 sources: [raw/trending/2026-05-09.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:ai-agent"
+domain_source: github-api
 ---
 
 # awslabs/aidlc-workflows
@@ -39,4 +42,4 @@ AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding age
 
 [[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[obra-superpowers]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: ai-agent

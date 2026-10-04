@@ -19,6 +19,9 @@ language: "Elixir"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:agent; topic:ai"
+domain_source: daily-report
 ---
 
 # agentjido/jido
@@ -39,4 +42,4 @@ backfill_source: daily-report
 
 [[teslamate-org-teslamate]] [[plausible-analytics]] [[earendil-works-pi]] [[affaan-m-ecc]] [[obra-superpowers]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: ai-agent

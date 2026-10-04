@@ -4,7 +4,7 @@ created: 2026-04-23
 updated: 2026-04-28
 last_active: 2026-04-28
 type: tool
-tags: [python, rising]
+tags: [python, devops, security, tool]
 sources: [raw/trending/2026-04-28.json]
 confidence: high
 trending_count_daily: 6
@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:hacking; topic:linux; desc:tool"
+domain_source: daily-report
 ---
 
 # Z4nzu/hackingtool
@@ -42,3 +45,5 @@ ALL IN ONE Hacking Tool For Hackers
 ## 相关项目
 
 [[getsentry-sentry]] [[jamwithai-production-agentic-rag-course]] [[panniantong-agent-reach]] [[meituan-longcat-longcat-video]]
+
+**所属领域**: devops、security、tool

@@ -4,7 +4,7 @@ created: 2026-05-14
 updated: 2026-06-07
 last_active: 2026-06-07
 type: tool
-tags: [typescript, ai-agent, devops]
+tags: [typescript, ai-agent]
 sources: [raw/trending/2026-06-07.json]
 confidence: medium
 trending_count_daily: 2
@@ -19,6 +19,9 @@ language: "TypeScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:ai"
+domain_source: daily-report
 ---
 
 # danielmiessler/Personal_AI_Infrastructure
@@ -40,4 +43,4 @@ Agentic AI Infrastructure for magnifying HUMAN capabilities.
 
 [[thedotmack-claude-mem]] [[earendil-works-pi]] [[oblien-openship]] [[pingdotgg-t3code]] [[davila7-claude-code-templates]]
 
-**所属领域**: [[ai-agent]] [[devops]]
+**所属领域**: ai-agent

@@ -4,7 +4,7 @@ created: 2026-05-02
 updated: 2026-05-02
 last_active: 2026-05-02
 type: tool
-tags: [typescript, ai-agent, devops]
+tags: [typescript, ai-agent, web]
 sources: [raw/trending/2026-05-02.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "TypeScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:ai; topic:chatbot; topic:deepseek; topic:nextjs"
+domain_source: daily-report
 ---
 
 # simstudioai/sim
@@ -39,4 +42,4 @@ Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer 
 
 [[thedotmack-claude-mem]] [[earendil-works-pi]] [[oblien-openship]] [[pingdotgg-t3code]] [[davila7-claude-code-templates]]
 
-**所属领域**: [[ai-agent]] [[devops]]
+**所属领域**: ai-agent、web

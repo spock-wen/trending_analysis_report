@@ -19,6 +19,9 @@ language: "Go"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "no-evidence"
+domain_source: github-api
 ---
 
 # microsoft/typescript-go
@@ -39,3 +42,5 @@ Staging repo for development of native port of TypeScript
 ## 相关项目
 
 [[google-ax]] [[openbao-openbao]] [[rakyll-hey]] [[juliusbrussee-caveman]]
+
+**所属领域**: （无可靠依据，未判定）

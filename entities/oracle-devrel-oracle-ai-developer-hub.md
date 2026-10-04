@@ -4,7 +4,7 @@ created: 2026-05-10
 updated: 2026-05-10
 last_active: 2026-05-10
 type: tool
-tags: [python, ai-agent, data]
+tags: [ai-agent, data, devops]
 sources: [raw/trending/2026-05-10.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "Jupyter Notebook"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:ai; topic:kubernetes; topic:rag; desc:data"
+domain_source: daily-report
 ---
 
 # oracle-devrel/oracle-ai-developer-hub
@@ -39,4 +42,4 @@ Technical resources for AI developers to build applications, agents, and systems
 
 [[earendil-works-pi]] [[microsoft-ai-for-beginners]] [[deusdata-codebase-memory-mcp]] [[affaan-m-ecc]] [[coreyhaines31-marketingskills]]
 
-**所属领域**: [[ai-agent]] [[data]]
+**所属领域**: ai-agent、data、devops

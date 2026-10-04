@@ -19,6 +19,9 @@ language: "TypeScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:analytics; topic:langchain; topic:llm; topic:monitoring"
+domain_source: daily-report
 ---
 
 # langfuse/langfuse
@@ -39,4 +42,4 @@ backfill_source: daily-report
 
 [[thedotmack-claude-mem]] [[earendil-works-pi]] [[oblien-openship]] [[pingdotgg-t3code]] [[deusdata-codebase-memory-mcp]]
 
-**所属领域**: [[ai-agent]] [[data]] [[devops]]
+**所属领域**: ai-agent、data、devops

@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:ai; topic:llm; topic:mcp"
+domain_source: daily-report
 ---
 
 # Arindam200/awesome-ai-apps
@@ -39,4 +42,4 @@ A collection of projects showcasing RAG, agents, workflows, and other AI use cas
 
 [[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[obra-superpowers]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: ai-agent

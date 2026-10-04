@@ -19,6 +19,9 @@ language: "TypeScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:claude-code"
+domain_source: daily-report
 ---
 
 # YishenTu/claudian
@@ -40,4 +43,4 @@ An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
 
 [[thedotmack-claude-mem]] [[earendil-works-pi]] [[pingdotgg-t3code]] [[affaan-m-ecc]] [[anthropics-claude-code]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: ai-agent

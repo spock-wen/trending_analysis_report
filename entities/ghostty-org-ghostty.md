@@ -4,7 +4,7 @@ created: 2026-05-01
 updated: 2026-05-01
 last_active: 2026-05-01
 type: tool
-tags: [cli]
+tags: [zig, cli, game]
 sources: [raw/trending/2026-05-01.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "Zig"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:cli; desc:game"
+domain_source: github-api
 ---
 
 # ghostty-org/ghostty
@@ -39,4 +42,4 @@ backfill_source: daily-report
 
 [[earendil-works-pi]] [[lightpanda-io-browser]] [[anthropics-claude-code]] [[obra-superpowers]] [[mattpocock-skills]]
 
-**所属领域**: [[cli]]
+**所属领域**: cli、game

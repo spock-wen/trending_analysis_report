@@ -4,7 +4,7 @@ created: 2026-05-08
 updated: 2026-05-12
 last_active: 2026-05-12
 type: tool
-tags: [ai-agent, cli, rising]
+tags: [javascript, ai-agent, cli]
 sources: [raw/trending/2026-05-12.json]
 confidence: high
 trending_count_daily: 5
@@ -19,6 +19,9 @@ language: "JavaScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:ai-agents; topic:claude; topic:claude-code; topic:copilot"
+domain_source: daily-report
 ---
 
 # decolua/9router
@@ -43,4 +46,4 @@ Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An
 
 [[earendil-works-pi]] [[addyosmani-agent-skills]] [[pbakaus-impeccable]] [[affaan-m-ecc]] [[anthropics-claude-code]]
 
-**所属领域**: [[ai-agent]] [[cli]]
+**所属领域**: ai-agent、cli

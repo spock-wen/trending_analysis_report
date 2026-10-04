@@ -4,7 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 last_active: 2026-04-18
 type: tool
-tags: [web, erp]
+tags: [javascript, ai-agent]
 sources: [raw/trending/2026-04-18.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "HTML"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:ai-agents; topic:claude-code; topic:mcp"
+domain_source: github-api
 ---
 
 # tractorjuice/arc-kit
@@ -39,4 +42,4 @@ Enterprise Architecture Governance & Vendor Procurement Toolkit
 
 [[ever-co-ever-gauzy]] [[trycua-cua]] [[cathrynlavery-diagram-design]] [[heygen-com-hyperframes]] [[hkuds-cli-anything]]
 
-**所属领域**: [[web]] [[erp]]
+**所属领域**: ai-agent

@@ -19,6 +19,9 @@ language: "TypeScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:agent; topic:ai"
+domain_source: daily-report
 ---
 
 # vercel-labs/open-agents
@@ -41,4 +44,4 @@ An open source template for building cloud agents.
 
 [[thedotmack-claude-mem]] [[earendil-works-pi]] [[pingdotgg-t3code]] [[affaan-m-ecc]] [[anthropics-claude-code]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: ai-agent

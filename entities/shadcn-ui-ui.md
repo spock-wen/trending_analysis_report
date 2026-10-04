@@ -4,7 +4,7 @@ created: 2026-03-08
 updated: 2026-03-08
 last_active: 2026-03-08
 type: framework
-tags: [typescript]
+tags: [typescript, web]
 sources: [raw/trending/2026-03-08.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "TypeScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:nextjs; topic:react"
+domain_source: daily-report
 ---
 
 # shadcn-ui/ui
@@ -38,3 +41,5 @@ A set of beautifully-designed, accessible components and a code distribution pla
 ## 相关项目
 
 [[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[earendil-works-pi]] [[anthropics-claude-code]]
+
+**所属领域**: web

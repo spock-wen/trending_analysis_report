@@ -19,6 +19,9 @@ language: "C++"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:ai-agent"
+domain_source: daily-report
 ---
 
 # ggml-org/llama.cpp
@@ -39,4 +42,4 @@ LLM inference in C/C++
 
 [[tensorflow-tensorflow]] [[earendil-works-pi]] [[firebase-firebase-ios-sdk]] [[affaan-m-ecc]] [[obra-superpowers]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: ai-agent

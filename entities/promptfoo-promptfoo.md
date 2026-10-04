@@ -19,6 +19,9 @@ language: "TypeScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:ci-cd; topic:llm; topic:rag; desc:cli"
+domain_source: daily-report
 ---
 
 # promptfoo/promptfoo
@@ -41,4 +44,4 @@ Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni
 
 [[thedotmack-claude-mem]] [[earendil-works-pi]] [[oblien-openship]] [[pingdotgg-t3code]] [[davila7-claude-code-templates]]
 
-**所属领域**: [[ai-agent]] [[cli]] [[devops]]
+**所属领域**: ai-agent、cli、devops

@@ -4,7 +4,7 @@ created: 2026-05-09
 updated: 2026-05-13
 last_active: 2026-05-13
 type: tool
-tags: [python, ai-agent]
+tags: [python, ai-agent, finance]
 sources: [raw/trending/2026-05-13.json]
 confidence: high
 trending_count_daily: 3
@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:ai-agent; desc:finance"
+domain_source: github-api
 ---
 
 # HKUDS/AI-Trader
@@ -41,4 +44,4 @@ backfill_source: daily-report
 
 [[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[obra-superpowers]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: ai-agent、finance

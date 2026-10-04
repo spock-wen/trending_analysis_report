@@ -4,7 +4,7 @@ created: 2026-05-01
 updated: 2026-05-06
 last_active: 2026-05-06
 type: framework
-tags: [ai-agent, web, rising]
+tags: [javascript, ai-agent]
 sources: [raw/trending/2026-05-06.json]
 confidence: high
 trending_count_daily: 6
@@ -19,6 +19,9 @@ language: "JavaScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:ai-agent"
+domain_source: github-api
 ---
 
 # browserbase/skills
@@ -43,4 +46,4 @@ Claude Agent SDK with a web browsing tool
 
 [[earendil-works-pi]] [[addyosmani-agent-skills]] [[pbakaus-impeccable]] [[affaan-m-ecc]] [[heygen-com-hyperframes]]
 
-**所属领域**: [[ai-agent]] [[web]]
+**所属领域**: ai-agent

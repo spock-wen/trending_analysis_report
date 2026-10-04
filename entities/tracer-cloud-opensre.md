@@ -4,7 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 last_active: 2026-04-18
 type: tool
-tags: [python, ai-agent]
+tags: [python, ai-agent, devops, tool]
 sources: [raw/trending/2026-04-18.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:observability; desc:ai-agent; desc:tool"
+domain_source: daily-report
 ---
 
 # Tracer-Cloud/opensre
@@ -39,4 +42,4 @@ Build your own AI SRE agents. The open source toolkit for the AI era ✨
 
 [[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[obra-superpowers]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: ai-agent、devops、tool

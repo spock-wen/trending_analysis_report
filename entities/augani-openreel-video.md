@@ -4,7 +4,7 @@ created: 2026-05-08
 updated: 2026-05-08
 last_active: 2026-05-08
 type: tool
-tags: [typescript, web]
+tags: [typescript, video]
 sources: [raw/trending/2026-05-08.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "TypeScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:video"
+domain_source: github-api
 ---
 
 # Augani/openreel-video
@@ -39,4 +42,4 @@ OpenReel Video - Professional browser-based video editor. Open source CapCut alt
 
 [[thedotmack-claude-mem]] [[earendil-works-pi]] [[pingdotgg-t3code]] [[heygen-com-hyperframes]] [[anthropics-claude-code]]
 
-**所属领域**: [[web]]
+**所属领域**: video

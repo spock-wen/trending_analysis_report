@@ -4,7 +4,7 @@ created: 2026-03-13
 updated: 2026-03-14
 last_active: 2026-03-14
 type: framework
-tags: [cpp, ai-agent, devops]
+tags: [cpp, devops]
 sources: [raw/trending/2026-03-14.json]
 confidence: medium
 trending_count_daily: 2
@@ -19,6 +19,9 @@ language: "C++"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:devops"
+domain_source: github-api
 ---
 
 # google-ai-edge/LiteRT
@@ -40,4 +43,4 @@ LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-p
 
 [[tensorflow-tensorflow]] [[earendil-works-pi]] [[oblien-openship]] [[firebase-firebase-ios-sdk]] [[davila7-claude-code-templates]]
 
-**所属领域**: [[ai-agent]] [[devops]]
+**所属领域**: devops

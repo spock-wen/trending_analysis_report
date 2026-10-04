@@ -4,7 +4,7 @@ created: 2026-03-29
 updated: 2026-03-31
 last_active: 2026-03-31
 type: tool
-tags: [typescript, data]
+tags: [typescript, data, web]
 sources: [raw/trending/2026-03-31.json]
 confidence: medium
 trending_count_daily: 2
@@ -19,6 +19,9 @@ language: "TypeScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:analytics; topic:data-analysis; topic:react"
+domain_source: daily-report
 ---
 
 # apache/superset
@@ -40,4 +43,4 @@ Apache Superset is a Data Visualization and Data Exploration Platform
 
 [[thedotmack-claude-mem]] [[earendil-works-pi]] [[pingdotgg-t3code]] [[deusdata-codebase-memory-mcp]] [[coreyhaines31-marketingskills]]
 
-**所属领域**: [[data]]
+**所属领域**: data、web

@@ -4,7 +4,7 @@ created: 2026-04-30
 updated: 2026-05-02
 last_active: 2026-05-02
 type: tool
-tags: [rust, ai-agent, cli, rising]
+tags: [rust, ai-agent, cli, devops]
 sources: [raw/trending/2026-05-02.json]
 confidence: high
 trending_count_daily: 3
@@ -19,6 +19,9 @@ language: "Rust"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:bash; topic:linux; topic:shell; topic:terminal"
+domain_source: daily-report
 ---
 
 # warpdotdev/warp
@@ -41,4 +44,4 @@ Warp is an agentic development environment, born out of the terminal.
 
 [[earendil-works-pi]] [[nvidia-openshell]] [[block-buzz]] [[affaan-m-ecc]] [[anthropics-claude-code]]
 
-**所属领域**: [[ai-agent]] [[cli]]
+**所属领域**: ai-agent、cli、devops

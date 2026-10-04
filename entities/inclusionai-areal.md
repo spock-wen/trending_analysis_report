@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:agent; topic:llm; topic:llm-agent"
+domain_source: daily-report
 ---
 
 # inclusionAI/AReaL
@@ -40,4 +43,4 @@ Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.
 
 [[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[obra-superpowers]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: ai-agent

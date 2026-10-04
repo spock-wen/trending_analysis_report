@@ -4,7 +4,7 @@ created: 2026-04-07
 updated: 2026-04-07
 last_active: 2026-04-07
 type: tool
-tags: [tool]
+tags: [swift, mobile]
 sources: [raw/trending/2026-04-07.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "Swift"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:mobile"
+domain_source: github-api
 ---
 
 # TelegramMessenger/Telegram-iOS
@@ -38,3 +41,5 @@ Telegram-iOS
 ## 相关项目
 
 [[homebrew-brewui]] [[lakr233-vphone-cli]] [[peetzweg-opendisplay]] [[abue-ammar-tinycast]]
+
+**所属领域**: mobile

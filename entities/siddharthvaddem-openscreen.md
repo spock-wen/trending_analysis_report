@@ -4,7 +4,7 @@ created: 2026-04-03
 updated: 2026-04-06
 last_active: 2026-04-06
 type: tool
-tags: [typescript, rising]
+tags: [typescript, tool]
 sources: [raw/trending/2026-04-06.json]
 confidence: high
 trending_count_daily: 4
@@ -19,6 +19,9 @@ language: "TypeScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:screen-recorder"
+domain_source: daily-report
 ---
 
 # siddharthvaddem/openscreen
@@ -41,3 +44,5 @@ Create stunning demos for free. Open-source, no subscriptions, no watermarks, an
 ## 相关项目
 
 [[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[earendil-works-pi]] [[anthropics-claude-code]]
+
+**所属领域**: tool

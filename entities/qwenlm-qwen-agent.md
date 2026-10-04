@@ -4,7 +4,7 @@ created: 2026-03-07
 updated: 2026-03-08
 last_active: 2026-03-08
 type: framework
-tags: [python, ai-agent, web, erp]
+tags: [python, ai-agent]
 sources: [raw/trending/2026-03-08.json]
 confidence: medium
 trending_count_daily: 2
@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:ai-agent"
+domain_source: github-api
 ---
 
 # QwenLM/Qwen-Agent
@@ -40,4 +43,4 @@ Agent framework and applications built upon Qwen>=3.0, featuring Function Callin
 
 [[ever-co-ever-gauzy]] [[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]]
 
-**所属领域**: [[ai-agent]] [[web]] [[erp]]
+**所属领域**: ai-agent

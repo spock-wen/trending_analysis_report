@@ -4,7 +4,7 @@ created: 2026-03-13
 updated: 2026-03-15
 last_active: 2026-03-15
 type: tool
-tags: [python, ai-agent, cli, image-gen, rising]
+tags: [python, ai-agent, cli]
 sources: [raw/trending/2026-03-15.json]
 confidence: high
 trending_count_daily: 3
@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:ai-agent; desc:cli"
+domain_source: github-api
 ---
 
 # langflow-ai/openrag
@@ -41,4 +44,4 @@ OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo
 
 [[fxembed-fxembed]] [[earendil-works-pi]] [[panniantong-agent-reach]] [[trycua-cua]] [[jamwithai-production-agentic-rag-course]]
 
-**所属领域**: [[ai-agent]] [[cli]] [[image-gen]]
+**所属领域**: ai-agent、cli

@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:science"
+domain_source: daily-report
 ---
 
 # newton-physics/newton
@@ -41,4 +44,4 @@ An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp
 
 [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[getsentry-sentry]]
 
-**所属领域**: [[science]]
+**所属领域**: science

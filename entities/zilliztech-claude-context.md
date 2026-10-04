@@ -4,7 +4,7 @@ created: 2026-04-23
 updated: 2026-04-25
 last_active: 2026-04-25
 type: tool
-tags: [typescript, ai-agent, rising]
+tags: [typescript, ai-agent]
 sources: [raw/trending/2026-04-25.json]
 confidence: high
 trending_count_daily: 3
@@ -19,6 +19,9 @@ language: "TypeScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:agent; topic:claude-code; topic:mcp; topic:rag"
+domain_source: daily-report
 ---
 
 # zilliztech/claude-context
@@ -41,4 +44,4 @@ Code search MCP for Claude Code. Make entire codebase the context for any coding
 
 [[thedotmack-claude-mem]] [[earendil-works-pi]] [[pingdotgg-t3code]] [[affaan-m-ecc]] [[anthropics-claude-code]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: ai-agent

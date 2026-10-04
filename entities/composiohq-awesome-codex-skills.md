@@ -4,7 +4,7 @@ created: 2026-04-27
 updated: 2026-04-30
 last_active: 2026-04-30
 type: tool
-tags: [python, ai-agent, cli, rising]
+tags: [python, ai-agent, cli]
 sources: [raw/trending/2026-04-30.json]
 confidence: high
 trending_count_daily: 4
@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:llm; topic:skills; desc:cli"
+domain_source: daily-report
 ---
 
 # ComposioHQ/awesome-codex-skills
@@ -42,4 +45,4 @@ A curated list of practical Codex skills for automating workflows across the Cod
 
 [[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[anthropics-claude-code]]
 
-**所属领域**: [[ai-agent]] [[cli]]
+**所属领域**: ai-agent、cli

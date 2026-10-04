@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:ai-agent; topic:claude; topic:llm-agent"
+domain_source: daily-report
 ---
 
 # lsdefine/GenericAgent
@@ -42,4 +45,4 @@ Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system
 
 [[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[obra-superpowers]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: ai-agent

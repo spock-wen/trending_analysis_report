@@ -4,7 +4,7 @@ created: 2026-05-06
 updated: 2026-05-08
 last_active: 2026-05-08
 type: tool
-tags: [python, data, rising]
+tags: [python, ai-agent, data]
 sources: [raw/trending/2026-05-08.json]
 confidence: high
 trending_count_daily: 3
@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:machine-learning; desc:data"
+domain_source: daily-report
 ---
 
 # PriorLabs/TabPFN
@@ -41,4 +44,4 @@ backfill_source: daily-report
 
 [[panniantong-agent-reach]] [[deusdata-codebase-memory-mcp]] [[jamwithai-production-agentic-rag-course]] [[coreyhaines31-marketingskills]] [[getsentry-sentry]]
 
-**所属领域**: [[data]]
+**所属领域**: ai-agent、data

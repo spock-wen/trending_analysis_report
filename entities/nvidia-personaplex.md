@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "no-evidence"
+domain_source: github-api
 ---
 
 # NVIDIA/personaplex
@@ -39,3 +42,5 @@ PersonaPlex code.
 ## 相关项目
 
 [[getsentry-sentry]] [[jamwithai-production-agentic-rag-course]] [[panniantong-agent-reach]] [[meituan-longcat-longcat-video]]
+
+**所属领域**: （无可靠依据，未判定）

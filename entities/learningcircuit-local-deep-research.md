@@ -4,7 +4,7 @@ created: 2026-05-06
 updated: 2026-05-06
 last_active: 2026-05-06
 type: framework
-tags: [python, ai-agent, security, education, science]
+tags: [python, ai-agent, science, security]
 sources: [raw/trending/2026-05-06.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:encryption; topic:research; desc:ai-agent"
+domain_source: daily-report
 ---
 
 # LearningCircuit/local-deep-research
@@ -39,4 +42,4 @@ backfill_source: daily-report
 
 [[vectorize-io-hindsight]] [[earendil-works-pi]] [[panniantong-agent-reach]] [[cs341-illinois-coursebook]] [[jamwithai-production-agentic-rag-course]]
 
-**所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
+**所属领域**: ai-agent、science、security

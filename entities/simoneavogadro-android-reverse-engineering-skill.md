@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-18
 last_active: 2026-04-18
 type: framework
-tags: [shell, ai-agent, cli]
+tags: [shell, ai-agent, mobile]
 sources: [raw/trending/2026-04-18.json]
 confidence: medium
 trending_count_daily: 2
@@ -19,6 +19,9 @@ language: "Shell"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:ai-agent; desc:mobile"
+domain_source: github-api
 ---
 
 # SimoneAvogadro/android-reverse-engineering-skill
@@ -40,4 +43,4 @@ Claude Code skill to support Android app's reverse engineering
 
 [[nvm-sh-nvm]] [[earendil-works-pi]] [[infinityloop1308-pipepipe]] [[affaan-m-ecc]] [[anthropics-claude-code]]
 
-**所属领域**: [[ai-agent]] [[cli]]
+**所属领域**: ai-agent、mobile

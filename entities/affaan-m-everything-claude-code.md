@@ -4,7 +4,7 @@ created: 2026-03-24
 updated: 2026-03-24
 last_active: 2026-03-24
 type: tool
-tags: [ai-agent, security, science]
+tags: [javascript, ai-agent]
 sources: [raw/trending/2026-03-24.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "JavaScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:ai-agents; topic:claude; topic:claude-code; topic:llm"
+domain_source: daily-report
 ---
 
 # affaan-m/everything-claude-code
@@ -39,4 +42,4 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 [[earendil-works-pi]] [[addyosmani-agent-skills]] [[pbakaus-impeccable]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]]
 
-**所属领域**: [[ai-agent]] [[security]] [[science]]
+**所属领域**: ai-agent

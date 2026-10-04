@@ -4,7 +4,7 @@ created: 2026-04-23
 updated: 2026-04-24
 last_active: 2026-04-24
 type: framework
-tags: [python]
+tags: [python, ai-agent]
 sources: [raw/trending/2026-04-24.json]
 confidence: medium
 trending_count_daily: 2
@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:ai-agent"
+domain_source: daily-report
 ---
 
 # HKUDS/RAG-Anything
@@ -39,3 +42,5 @@ backfill_source: daily-report
 ## 相关项目
 
 [[getsentry-sentry]] [[jamwithai-production-agentic-rag-course]] [[panniantong-agent-reach]] [[meituan-longcat-longcat-video]]
+
+**所属领域**: ai-agent

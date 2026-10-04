@@ -4,7 +4,7 @@ created: 2026-04-24
 updated: 2026-04-26
 last_active: 2026-04-26
 type: framework
-tags: [python, ai-agent, science, rising]
+tags: [python]
 sources: [raw/trending/2026-04-26.json]
 confidence: high
 trending_count_daily: 3
@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "no-evidence"
+domain_source: github-api
 ---
 
 # huggingface/ml-intern
@@ -41,4 +44,4 @@ backfill_source: daily-report
 
 [[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]]
 
-**所属领域**: [[ai-agent]] [[science]]
+**所属领域**: （无可靠依据，未判定）

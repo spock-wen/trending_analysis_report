@@ -4,7 +4,7 @@ created: 2026-04-06
 updated: 2026-04-09
 last_active: 2026-04-09
 type: tool
-tags: [cpp, ai-agent, rising]
+tags: [cpp]
 sources: [raw/trending/2026-04-09.json]
 confidence: high
 trending_count_daily: 4
@@ -19,6 +19,9 @@ language: "C++"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "no-evidence"
+domain_source: github-api
 ---
 
 # google-ai-edge/LiteRT-LM
@@ -42,4 +45,4 @@ No description
 
 [[tensorflow-tensorflow]] [[earendil-works-pi]] [[firebase-firebase-ios-sdk]] [[affaan-m-ecc]] [[obra-superpowers]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: （无可靠依据，未判定）

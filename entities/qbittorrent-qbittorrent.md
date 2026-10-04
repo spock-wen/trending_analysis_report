@@ -19,6 +19,9 @@ language: "C++"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:cli"
+domain_source: daily-report
 ---
 
 # qbittorrent/qBittorrent
@@ -39,4 +42,4 @@ qBittorrent BitTorrent client
 
 [[tensorflow-tensorflow]] [[earendil-works-pi]] [[firebase-firebase-ios-sdk]] [[anthropics-claude-code]] [[obra-superpowers]]
 
-**所属领域**: [[cli]]
+**所属领域**: cli

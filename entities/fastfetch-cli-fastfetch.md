@@ -4,7 +4,7 @@ created: 2026-03-30
 updated: 2026-03-31
 last_active: 2026-03-31
 type: tool
-tags: [ai-agent, cli]
+tags: [c, cli, tool]
 sources: [raw/trending/2026-03-31.json]
 confidence: medium
 trending_count_daily: 2
@@ -19,6 +19,9 @@ language: "C"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:command-line; topic:terminal; desc:tool"
+domain_source: daily-report
 ---
 
 # fastfetch-cli/fastfetch
@@ -40,4 +43,4 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 [[earendil-works-pi]] [[justvugg-colibri]] [[deusdata-codebase-memory-mcp]] [[affaan-m-ecc]] [[anthropics-claude-code]]
 
-**所属领域**: [[ai-agent]] [[cli]]
+**所属领域**: cli、tool

@@ -4,7 +4,7 @@ created: 2026-04-28
 updated: 2026-04-28
 last_active: 2026-04-28
 type: tool
-tags: [python, ai-agent]
+tags: [python]
 sources: [raw/trending/2026-04-28.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "no-evidence"
+domain_source: daily-report
 ---
 
 # deepseek-ai/DeepSeek-V3
@@ -39,4 +42,4 @@ No description
 
 [[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[obra-superpowers]]
 
-**所属领域**: [[ai-agent]]
+**所属领域**: （无可靠依据，未判定）

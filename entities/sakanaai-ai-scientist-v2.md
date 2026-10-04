@@ -4,7 +4,7 @@ created: 2026-03-28
 updated: 2026-03-29
 last_active: 2026-03-29
 type: tool
-tags: [python, ai-agent, erp, science]
+tags: [python, ai-agent, science]
 sources: [raw/trending/2026-03-29.json]
 confidence: medium
 trending_count_daily: 2
@@ -19,6 +19,9 @@ language: "Python"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:ai-agent; desc:science"
+domain_source: github-api
 ---
 
 # SakanaAI/AI-Scientist-v2
@@ -40,4 +43,4 @@ The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T
 
 [[ever-co-ever-gauzy]] [[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]]
 
-**所属领域**: [[ai-agent]] [[erp]] [[science]]
+**所属领域**: ai-agent、science

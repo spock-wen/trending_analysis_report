@@ -19,6 +19,9 @@ language: "TypeScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: true
+domain_evidence: "topic:ai; topic:ai-agents; desc:data"
+domain_source: daily-report
 ---
 
 # thunderbird/thunderbolt
@@ -39,4 +42,4 @@ AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 
 [[thedotmack-claude-mem]] [[earendil-works-pi]] [[pingdotgg-t3code]] [[deusdata-codebase-memory-mcp]] [[affaan-m-ecc]]
 
-**所属领域**: [[ai-agent]] [[data]]
+**所属领域**: ai-agent、data

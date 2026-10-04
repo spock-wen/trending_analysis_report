@@ -19,6 +19,9 @@ language: "TypeScript"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:cli"
+domain_source: github-api
 ---
 
 # tobi/qmd
@@ -40,4 +43,4 @@ mini cli search engine for your docs, knowledge bases, meeting notes, whatever. 
 
 [[thedotmack-claude-mem]] [[earendil-works-pi]] [[pingdotgg-t3code]] [[anthropics-claude-code]] [[obra-superpowers]]
 
-**所属领域**: [[cli]]
+**所属领域**: cli

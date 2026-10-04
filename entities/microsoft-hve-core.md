@@ -4,7 +4,7 @@ created: 2026-03-06
 updated: 2026-03-08
 last_active: 2026-03-08
 type: framework
-tags: [ai-agent, cli, rising]
+tags: [python, ai-agent]
 sources: [raw/trending/2026-03-08.json]
 confidence: high
 trending_count_daily: 3
@@ -19,6 +19,9 @@ language: "PowerShell"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:ai-agent"
+domain_source: github-api
 ---
 
 # microsoft/hve-core
@@ -41,4 +44,4 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 [[earendil-works-pi]] [[zhaoxuya520-reverse-skill]] [[bwya77-vscode-dark-islands]] [[affaan-m-ecc]] [[raphire-win11debloat]]
 
-**所属领域**: [[ai-agent]] [[cli]]
+**所属领域**: ai-agent

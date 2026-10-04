@@ -4,7 +4,7 @@ created: 2026-04-25
 updated: 2026-04-25
 last_active: 2026-04-25
 type: tool
-tags: [go, web, data]
+tags: [go, data]
 sources: [raw/trending/2026-04-25.json]
 confidence: low
 trending_count_daily: 1
@@ -19,6 +19,9 @@ language: "Go"
 source_backfill: true
 rank_inferred: true
 backfill_source: daily-report
+domain_verified: false
+domain_evidence: "desc:data"
+domain_source: daily-report
 ---
 
 # google/osv-scanner
@@ -39,4 +42,4 @@ Vulnerability scanner written in Go which uses the data provided by https://osv.
 
 [[google-ax]] [[juliusbrussee-caveman]] [[deusdata-codebase-memory-mcp]] [[heygen-com-hyperframes]] [[hkuds-cli-anything]]
 
-**所属领域**: [[web]] [[data]]
+**所属领域**: data

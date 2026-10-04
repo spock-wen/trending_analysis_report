@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-04 | 总页面：655
+> 最后更新：2026-10-04 | 总页面：788
 
 ## Entities
 
@@ -641,6 +641,158 @@
 - [[zhouxiaoka-autoclip|autoclip"]] — AutoClip : AI-powered video clipping and highlight generatio...
 - [[zuodaotech-everyone-can-use-english|everyone-can-use-english"]] — 人人都能用英语
 - [[zyronon-typewords|TypeWords"]] — Practice English, one strike, one step forward; 练习英语，一次敲击，一点...
+- [[666ghj-bettafish|bettafish"]] — 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 🆕
+- [[aaddrick-claude-desktop-debian|claude-desktop-debian"]] — Claude Desktop for Debian-based Linux distributions 🆕
+- [[affaan-m-everything-claude-code|m-everything-claude-code"]] — The agent harness performance optimization system. Skills, instincts, memory, security, an... 🆕
+- [[agentjido-jido|jido"]] — 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dy... 🆕
+- [[agentscope-ai-agentscope|ai-agentscope"]] — Build and run agents you can see, understand and trust. 🆕
+- [[agentscope-ai-reme|ai-reme"]] — ReMe: Memory Management Kit for Agents - Remember Me, Refine Me. 🆕
+- [[ahujasid-blender-mcp|blender-mcp"]] — No description 🆕
+- [[aidc-ai-pixelle-video|ai-pixelle-video"]] — 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine 🆕
+- [[alibaba-opensandbox|opensandbox"]] — OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-lang... 🆕
+- [[anonfaded-fadcam|fadcam"]] — Open-source, ad-free Android multimedia recorder with background video recording, screen r... 🆕
+- [[anthropics-claude-agent-sdk|claude-agent-sdk"]] — Anthropic 官方 Claude Agent SDK 🆕
+- [[apache-superset|superset"]] — Apache Superset is a Data Visualization and Data Exploration Platform 🆕
+- [[apernet-hysteria|hysteria"]] — Hysteria is a powerful, lightning fast and censorship resistant proxy. 🆕
+- [[arindam200-awesome-ai-apps|awesome-ai-apps"]] — A collection of projects showcasing RAG, agents, workflows, and other AI use cases 🆕
+- [[arthurbrussee-brush|brush"]] — 3D Reconstruction for all 🆕
+- [[augani-openreel-video|openreel-video"]] — OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. ... 🆕
+- [[automatic1111-stable-diffusion-webui|stable-diffusion-webui"]] — Stable Diffusion web UI 🆕
+- [[awslabs-aidlc-workflows|aidlc-workflows"]] — AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents 🆕
+- [[basedhardware-omi|omi"]] — AI that sees your screen, listens to your conversations and tells you what to do 🆕
+- [[blaizzy-mlx-vlm|mlx-vlm"]] — MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on you... 🆕
+- [[block-goose|goose"]] — an open source, extensible AI agent that goes beyond code suggestions - install, execute, ... 🆕
+- [[browserbase-skills|skills"]] — Claude Agent SDK with a web browsing tool 🆕
+- [[bwya77-vscode-dark-islands|vscode-dark-islands"]] — VSCode theme based off the easemate IDE and Jetbrains islands theme 🆕
+- [[cheahjs-free-llm-api-resources|free-llm-api-resources"]] — A list of free LLM inference resources accessible via API. 🆕
+- [[chiphuyen-aie-book|aie-book"]] — [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engin... 🆕
+- [[cjackhwang-ds2api|ds2api"]] — Deepseek to API: A lightweight, high-performance full-stack middleware converting client p... 🆕
+- [[cloudflare-workerd|workerd"]] — The JavaScript / Wasm runtime that powers Cloudflare Workers 🆕
+- [[cocoindex-io-cocoindex|io-cocoindex"]] — Incremental engine for long horizon agents 🌟 Star if you like it! 🆕
+- [[codebuffai-codebuff|codebuff"]] — Generate code from the terminal! 🆕
+- [[coleam00-archon|archon"]] — The first open-source harness builder for AI coding. Make AI coding deterministic and repe... 🆕
+- [[composiohq-awesome-codex-skills|awesome-codex-skills"]] — A curated list of practical Codex skills for automating workflows across the Codex CLI and... 🆕
+- [[danielmiessler-personal_ai_infrastructure|personal_ai_infrastructure"]] — Agentic AI Infrastructure for magnifying HUMAN capabilities. 🆕
+- [[datalab-to-chandra|to-chandra"]] — OCR model that handles complex tables, forms, handwriting with full layout. 🆕
+- [[datawhalechina-easy-vibe|easy-vibe"]] — 💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step. 🆕
+- [[datawhalechina-hello-agents|hello-agents"]] — 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 🆕
+- [[decolua-9router|9router"]] — Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity ... 🆕
+- [[deepseek-ai-deepep|ai-deepep"]] — DeepEP: an efficient expert-parallel communication library 🆕
+- [[deepseek-ai-deepgemm|ai-deepgemm"]] — DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling 🆕
+- [[deepseek-ai-deepseek-v3|ai-deepseek-v3"]] — No description 🆕
+- [[dimensionalos-dimos|dimos"]] — The Dimensional Framework 🆕
+- [[ed1s0nz-cyberstrikeai|cyberstrikeai"]] — CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ se... 🆕
+- [[elebumm-redditvideomakerbot|redditvideomakerbot"]] — Create Reddit Videos with just✨ one command ✨ 🆕
+- [[evomap-evolver|evolver"]] — The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.a... 🆕
+- [[fastfetch-cli-fastfetch|cli-fastfetch"]] — A maintained, feature-rich and performance oriented, neofetch like system information tool... 🆕
+- [[fishaudio-fish-speech|fish-speech"]] — SOTA Open Source TTS 🆕
+- [[flutter-skills|skills"]] — No description 🆕
+- [[forrestchang-andrej-karpathy-skills|andrej-karpathy-skills"]] — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's ob... 🆕
+- [[forrestknight-open-source-cs|open-source-cs"]] — Video discussing this curriculum: 🆕
+- [[fspecii-ace-step-ui|ace-step-ui"]] — 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Ge... 🆕
+- [[fujiwarachoki-moneyprinterv2|moneyprinterv2"]] — Automate the process of making money online. 🆕
+- [[gastownhall-beads|beads"]] — Beads - A memory upgrade for your coding agent 🆕
+- [[genymobile-scrcpy|scrcpy"]] — Display and control your Android device 🆕
+- [[ggml-org-llama.cpp|org-llama.cpp"]] — LLM inference in C/C++ 🆕
+- [[ghostty-org-ghostty|org-ghostty"]] — 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform... 🆕
+- [[goharbor-harbor|harbor"]] — An open source trusted cloud native registry project that stores, signs, and scans content... 🆕
+- [[google-a2ui|a2ui"]] — No description 🆕
+- [[google-ai-edge-gallery|ai-edge-gallery"]] — A gallery that showcases on-device ML/GenAI use cases and allows people to try and use mod... 🆕
+- [[google-ai-edge-litert|ai-edge-litert"]] — LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance... 🆕
+- [[google-ai-edge-litert-lm|ai-edge-litert-lm"]] — No description 🆕
+- [[google-magika|magika"]] — Fast and accurate AI powered file content types detection 🆕
+- [[google-osv-scanner|osv-scanner"]] — Vulnerability scanner written in Go which uses the data provided by https://osv.dev 🆕
+- [[googlecloudplatform-generative-ai|generative-ai"]] — Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI 🆕
+- [[gorhill-ublock|ublock"]] — uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. 🆕
+- [[greedeks-gtweak|gtweak"]] — Portable Tool for an Ideal Windows Setup 🆕
+- [[gsd-build-get-shit-done|build-get-shit-done"]] — A light-weight and powerful meta-prompting, context engineering and spec-driven developmen... 🆕
+- [[hacksider-deep-live-cam|deep-live-cam"]] — real time face swap and one-click video deepfake with only a single image 🆕
+- [[hkuds-ai-trader|ai-trader"]] — "AI-Trader: 100% Fully-Automated Agent-Native Trading" 🆕
+- [[hkuds-lightrag|lightrag"]] — [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" 🆕
+- [[hkuds-rag-anything|rag-anything"]] — "RAG-Anything: All-in-One RAG Framework" 🆕
+- [[hmbown-deepseek-tui|deepseek-tui"]] — Coding agent for DeepSeek models that runs in your terminal 🆕
+- [[hsliuping-tradingagents-cn|tradingagents-cn"]] — 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 🆕
+- [[huggingface-ml-intern|ml-intern"]] — 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML mod... 🆕
+- [[inclusionai-areal|areal"]] — Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible. 🆕
+- [[itzcrazykns-perplexica|perplexica"]] — Perplexica is an AI-powered answering engine. 🆕
+- [[jarrodwatts-claude-hud|claude-hud"]] — A Claude Code plugin that shows what's happening - context usage, active tools, running ag... 🆕
+- [[k-dense-ai-claude-scientific-skills|dense-ai-claude-scientific-skills"]] — A set of ready to use Agent Skills for research, science, engineering, analysis, finance a... 🆕
+- [[karpathy-nanochat|nanochat"]] — The best ChatGPT that $100 can buy. 🆕
+- [[langchain-ai-deepagents|ai-deepagents"]] — Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesys... 🆕
+- [[langchain-ai-langgraph|ai-langgraph"]] — 多 Agent 协作框架 🆕
+- [[langchain-ai-open-swe|ai-open-swe"]] — An Open-Source Asynchronous Coding Agent 🆕
+- [[langflow-ai-openrag|ai-openrag"]] — OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built o... 🆕
+- [[langfuse-langfuse|langfuse"]] — 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt manageme... 🆕
+- [[learningcircuit-local-deep-research|local-deep-research"]] — ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cp... 🆕
+- [[letta-ai-claude-subconscious|ai-claude-subconscious"]] — Give Claude Code a subconscious 🆕
+- [[lingfengqaq-webnovel-writer|webnovel-writer"]] — 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。 🆕
+- [[louis-e-arnis|e-arnis"]] — Generate any location from the real world in Minecraft with a high level of detail. 🆕
+- [[lsdefine-genericagent|genericagent"]] — Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control w... 🆕
+- [[lukilabs-craft-agents-oss|craft-agents-oss"]] — No description 🆕
+- [[microsoft-agent-framework|agent-framework"]] — A framework for building, orchestrating and deploying AI agents and multi-agent workflows ... 🆕
+- [[microsoft-agent-lightning|agent-lightning"]] — The absolute trainer to light up AI agents. 🆕
+- [[microsoft-bitnet|bitnet"]] — Official inference framework for 1-bit LLMs 🆕
+- [[microsoft-hve-core|hve-core"]] — A refined collection of Hypervelocity Engineering components (instructions, prompts, agent... 🆕
+- [[microsoft-mcp-for-beginners|mcp-for-beginners"]] — This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) th... 🆕
+- [[microsoft-typescript-go|typescript-go"]] — Staging repo for development of native port of TypeScript 🆕
+- [[millionco-react-doctor|react-doctor"]] — Your agent writes bad React. This catches it 🆕
+- [[mobile-dev-inc-maestro|dev-inc-maestro"]] — Painless E2E Automation for Mobile and Web 🆕
+- [[nautechsystems-nautilus_trader|nautilus_trader"]] — A high-performance algorithmic trading platform and event-driven backtester 🆕
+- [[newton-physics-newton|physics-newton"]] — An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specific... 🆕
+- [[nvidia-personaplex|personaplex"]] — PersonaPlex code. 🆕
+- [[ollama-ollama|ollama"]] — Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and othe... 🆕
+- [[onyx-dot-app-onyx|dot-app-onyx"]] — Open Source AI Platform - AI Chat with advanced features that works with every LLM 🆕
+- [[open-metadata-openmetadata|metadata-openmetadata"]] — OpenMetadata is a unified metadata platform for data discovery, data observability, and da... 🆕
+- [[openai-openai-agents-python|openai-agents-python"]] — A lightweight, powerful framework for multi-agent workflows 🆕
+- [[openbmb-chatdev|chatdev"]] — ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration 🆕
+- [[openwrt-openwrt|openwrt"]] — This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for refer... 🆕
+- [[oracle-devrel-oracle-ai-developer-hub|devrel-oracle-ai-developer-hub"]] — Technical resources for AI developers to build applications, agents, and systems using Ora... 🆕
+- [[owner-repo1|repo1"]] — Test repo 1 🆕
+- [[owner-repo2|repo2"]] — Test repo 2 🆕
+- [[playcanvas-supersplat|supersplat"]] — 3D Gaussian Splat Editor 🆕
+- [[powershell-powershell|powershell"]] — PowerShell for every system! 🆕
+- [[priorlabs-tabpfn|tabpfn"]] — ⚡ TabPFN: Foundation Model for Tabular Data ⚡ 🆕
+- [[promptfoo-promptfoo|promptfoo"]] — Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI.... 🆕
+- [[qbittorrent-qbittorrent|qbittorrent"]] — qBittorrent BitTorrent client 🆕
+- [[qwenlm-qwen-agent|qwen-agent"]] — Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Co... 🆕
+- [[rasbt-llms-from-scratch|llms-from-scratch"]] — Implement a ChatGPT-like LLM in PyTorch from scratch, step by step 🆕
+- [[roocodeinc-roo-code|roo-code"]] — Roo Code gives you a whole dev team of AI agents in your code editor. 🆕
+- [[rowboatlabs-rowboat|rowboat"]] — Open-source AI coworker, with memory 🆕
+- [[sakanaai-ai-scientist-v2|ai-scientist-v2"]] — The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search 🆕
+- [[sansan0-trendradar|trendradar"]] — ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart ... 🆕
+- [[sepinf-inc-iped|inc-iped"]] — IPED Digital Forensic Tool. It is an open source software that can be used to process and ... 🆕
+- [[shadcn-ui-ui|ui-ui"]] — A set of beautifully-designed, accessible components and a code distribution platform. Wor... 🆕
+- [[shadps4-emu-shadps4|emu-shadps4"]] — PlayStation 4 emulator for Windows, Linux and macOS written in C++ 🆕
+- [[shareai-lab-learn-claude-code|lab-learn-claude-code"]] — Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1 🆕
+- [[sharex-sharex|sharex"]] — ShareX is a free and open-source application that enables users to capture or record any a... 🆕
+- [[sherlock-project-sherlock|project-sherlock"]] — Hunt down social media accounts by username across social networks 🆕
+- [[siddharthvaddem-openscreen|openscreen"]] — Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for... 🆕
+- [[simoneavogadro-android-reverse-engineering-skill|android-reverse-engineering-skill"]] — Claude Code skill to support Android app's reverse engineering 🆕
+- [[simstudioai-sim|sim"]] — Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your A... 🆕
+- [[snarktank-ralph|ralph"]] — Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete... 🆕
+- [[superset-sh-superset|sh-superset"]] — IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine 🆕
+- [[systemd-systemd|systemd"]] — The systemd System and Service Manager 🆕
+- [[telegramdesktop-tdesktop|tdesktop"]] — Telegram Desktop messaging app 🆕
+- [[telegrammessenger-telegram-ios|telegram-ios"]] — Telegram-iOS 🆕
+- [[test-org-test-project|org-test-project"]] — 测试项目 🆕
+- [[thecraighewitt-seomachine|seomachine"]] — A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for... 🆕
+- [[thunderbird-thunderbolt|thunderbolt"]] — AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. 🆕
+- [[tinygrad-tinygrad|tinygrad"]] — You like pytorch? You like micrograd? You love tinygrad! ❤️ 🆕
+- [[tobi-qmd|qmd"]] — mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking c... 🆕
+- [[ton-blockchain-acton|blockchain-acton"]] — Toolchain for TON smart contract development and beyond 🆕
+- [[tracer-cloud-opensre|cloud-opensre"]] — Build your own AI SRE agents. The open source toolkit for the AI era ✨ 🆕
+- [[tractorjuice-arc-kit|arc-kit"]] — Enterprise Architecture Governance & Vendor Procurement Toolkit 🆕
+- [[vaibhavs10-insanely-fast-whisper|insanely-fast-whisper"]] — No description 🆕
+- [[vercel-labs-open-agents|labs-open-agents"]] — An open source template for building cloud agents. 🆕
+- [[virattt-dexter|dexter"]] — An autonomous agent for deep financial research 🆕
+- [[voidzero-dev-vite-plus|dev-vite-plus"]] — Vite+ is the unified toolchain and entry point for web development. It manages your runtim... 🆕
+- [[warpdotdev-warp|warp"]] — Warp is an agentic development environment, born out of the terminal. 🆕
+- [[yeachan-heo-oh-my-codex|heo-oh-my-codex"]] — OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more... 🆕
+- [[yishentu-claudian|claudian"]] — An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault 🆕
+- [[z-lab-dflash|lab-dflash"]] — DFlash: Block Diffusion for Flash Speculative Decoding 🆕
+- [[z4nzu-hackingtool|hackingtool"]] — ALL IN ONE Hacking Tool For Hackers 🆕
+- [[zhulinsen-daily_stock_analysis|daily_stock_analysis"]] — LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysi... 🆕
+- [[zilliztech-claude-context|claude-context"]] — Code search MCP for Claude Code. Make entire codebase the context for any coding agent. 🆕
 
 ## Concepts
 

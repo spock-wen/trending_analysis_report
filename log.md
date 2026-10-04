@@ -24733,3 +24733,11 @@
 - 连续 2 天上榜: getsentry/sentry
 - 连续 2 天上榜: Effect-TS/effect
 - 当日 star 增长 Top 3: Panniantong/Agent-Reach +1683⭐, DietrichGebert/ponytail +1289⭐, affaan-m/ECC +954⭐
+
+## 2026-10-04 回填 daily-report 历史数据 (2026-03-04 ~ 2026-05-15)
+
+- 新增 trending_daily 626 行 / 66 天；repo_stats 636 → 788；entity 636 → 788
+- 日期归属规则：generatedAt + 8h（daily-report date 为 UTC 目标日，快照在北京次日早晨）
+- 删除伪造的 2026-05-17（5/16 逐字节复制），用 daily-report 真实 8 条补回
+- 周榜未回填（回填期日均 8.8 项 vs wiki 12~17 项，口径不可比）
+- rank 为数组下标推断，19 行 language 为 NULL，均已标注 rank_inferred

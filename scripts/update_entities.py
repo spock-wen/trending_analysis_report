@@ -1,8 +1,19 @@
-import re, os
+#!/usr/bin/env python3
+"""历史遗留脚本（2026-05-17 一次性使用），保留作记录。
+数据已写死在下方，导入/带任何参数执行都会重写 entity 文件。
+新逻辑见 wiki_daily.py / generate_entities_for_new.py。"""
+
+import re, os, sys
 
 WIKI = "/srv/www/github-trending-wiki"
 today = "2026-05-17"
 yesterday = "2026-05-16"
+
+if __name__ != '__main__':
+    raise ImportError(
+        "update_entities.py 是 2026-05-17 的一次性脚本，"
+        "顶层代码会直接重写 entity 文件，禁止 import。"
+    )
 
 data = [
     (1, "tinyhumansai/openhuman", "Rust", 1271, 9679, "tinyhumansai-openhuman"),

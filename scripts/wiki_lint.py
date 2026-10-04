@@ -29,6 +29,7 @@ VALID_TAGS = {
     'blockchain', 'iot', 'ar-vr', 'education', 'healthcare', 'finance',
     'rust', 'python', 'typescript', 'go', 'java', 'cpp', 'c', 'zig', 'ruby', 'php',
     'swift', 'kotlin', 'dart', 'shell',
+    'javascript', 'cplusplus', 'jupyter-notebook',
     'framework', 'tool', 'library', 'app', 'model', 'dataset', 'benchmark', 'tutorial', 'awesome-list',
     'trending', 'rising', 'viral', 'new', 'returning', 'github',
     'erp', 'audio', 'image-gen', 'science', 'surge'

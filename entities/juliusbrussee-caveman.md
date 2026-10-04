@@ -16,14 +16,15 @@ last_trending: 2026-10-04
 peak_rank: 2
 total_stars: 109515
 language: "Go"
-contested: true
+first_language: "JavaScript"
+language_shifted: 2026-08-21
 ---
 
 # JuliusBrussee/caveman
 
 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 
-- 语言: Go
+- 语言: Go（2026-08 起，此前为 JavaScript）
 - 上榜次数: 10 次
 - 连续上榜: 2 天
 - 最高排名: #2

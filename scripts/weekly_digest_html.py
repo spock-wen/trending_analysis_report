@@ -29,7 +29,24 @@ DESC = {r[0]: (r[4] or '').strip() for r in rows}
 
 ZH_DESC = {'ayghri/i-have-adhd': '强制编码 Agent 把结论放在输出最前面，告别翻找答案（ADHD 友好）', 'bilawalsidhu/gods-eye-view': '浏览器里的侦察卫星模拟器：写实 3D 地球 + 真实开源空间情报', 'tt-a1i/archify': 'Agent 架构/工作流/时序图生成 skill，自包含 HTML 可导出', 'DietrichGebert/ponytail': '让 Agent 像"屋里最懒的资深工程师"一样思考：能不写的代码就不写', 'mattpocock/skills': 'TypeScript 教育者 Matt Pocock 的工程技能集', 'affaan-m/ECC': 'Agent 性能调优系统：技能、本能、记忆、安全，支持多平台', 'cathrynlavery/diagram-design': '38 种编辑部风格图表模板，自包含 HTML+SVG，拒绝 Mermaid 风', 'heygen-com/hyperframes': '写 HTML、渲染成视频，为 Agent 设计的视频生产管线', 'microsoft/markitdown': '微软官方文件转 Markdown 工具，Office/图片/音频全支持', 'THU-MAIC/OpenMAIC': '清华开源多 Agent 互动课堂，一键搭建沉浸式教学',
     'alibaba/open-code-review': '阿里开源混合架构代码评审：确定性流水线 + LLM 判断，内部规模验证', 'stablyai/orca': '并行 Agent 机群的 ADE：用自己的订阅跑任意编码 Agent', 'Tencent/WeKnora': '腾讯 LLM 知识平台：文档转 RAG、自主推理 Agent、自维护 Wiki', 'Panniantong/Agent-Reach': '给 Agent 全网视野：读搜 Twitter、Reddit、YouTube、B站、小红书', 'addyosmani/agent-skills': 'Chrome 团队 Addy Osmani 的生产级工程技能包', 'blader/humanizer': '去除文本中 AI 生成痕迹的 Agent skill', 'anthropics/claude-code': 'Claude Code 官方仓库：终端里的 agentic 编码工具', 'danny-avila/LibreChat': '增强版多模型聊天 UI，Agents/MCP/Skills 全支持', 'supabase/supabase': 'Postgres 开发平台，Web/移动/AI 应用的后端底座', 'mksglu/context-mode': 'Agent 上下文窗口优化：工具输出沙箱化、会话记忆持久化', 'huggingface/transformers': 'Hugging Face 模型定义框架，文本/视觉/音频全覆盖', 'max-sixty/worktrunk': 'Git worktree 管理 CLI，为并行 AI Agent 工作流设计', 'kunchenguid/firstmate': '"指挥一个 Agent，用一队人马交付"，单入口多 Agent 协作', 'anthropics/knowledge-work-plugins': 'Anthropic 知识工作插件官方仓库，服务 Claude Cowork', 'openai/plugins': 'OpenAI 官方插件仓库', 'home-assistant/core': '开源自托管家庭自动化主打项目，本地优先',
-    'vectorize-io/hindsight': '会学习的 Agent 记忆系统：用得越久记得越多，表现越好',
+    'vectorize-io/hindsight': '会学习的 Agent 记忆系统：运行时积累经验',
+    'paperclipai/paperclip': '开源 Agent 工作管理，"在公司管好你的 agents"',
+    'Panniantong/Agent-Reach': '给 Agent 全网视野：读搜 Twitter、Reddit、YouTube、B站、小红书',
+    'pbakaus/impeccable': '给 AI 编码 Agent 的设计语言：24 条命令 + 61 条确定性检测规则',
+    'debpalash/VoiceStudio': '全本地语音工作台：ElevenLabs 的开源平替，646 种语言克隆/配音',
+    'heygen-com/hyperframes': '写 HTML、渲染成视频，为 Agent 设计的视频生产管线',
+    'rohitg00/ai-engineering-from-scratch': 'AI 工程从零到实战：学它、建它、交付它',
+    'harry0703/MoneyPrinterTurbo': '一个主题词生成整条高清短视频的自动化流水线',
+    'pablostanley/yoinks': '终端里的视频下载工具，无套路无广告',
+    'boykopovar/AnyPS5': '把 PS5 可执行文件自动移植到 Linux 和 Windows',
+    'HunxByts/GhostTrack': '位置与手机号追踪 / OSINT 信息收集工具',
+    'TencentCloud/Octop': '腾讯云自托管 AI 助手，多用户、多 Agent',
+    'alirezarezvani/claude-skills': '380 个 Claude Code 技能与插件，覆盖 8 类编码 Agent',
+    'longbridge/gpui-kit': '基于 GPUI 的跨平台桌面 Rust GUI 组件库',
+    'tile-ai/tilelang': 'GPU/加速器内核开发专用语言，简化高性能算子编写',
+    'Effect-TS/effect': 'TypeScript 生产级应用开发框架',
+    'pytorch/pytorch': 'PyTorch 深度学习框架官方仓库',
+    'flutter/flutter': 'Google 跨平台 UI 工具包',
     'cloudflare/security-audit-skill': 'Cloudflare 官方编码 Agent 安全审计 skill，多阶段可独立验证',
     'paperclipai/paperclip': '开源 Agent 工作管理，"在公司管好你的 agents"',
     'dream-num/univer': 'AI Agent 的 Office 运行时：表格/文档/幻灯片一体化',
@@ -57,15 +74,17 @@ churn = sum(1 for n in WK if n not in prev_names) / n_projects * 100 if prev_nam
 
 # 组别推导：连续 / 回归（断档周数）/ 新面孔
 def weeks_gone(name):
-    """断档周数：按日历周差算（DB 可能缺周，如 2026-08-02），上周减上次上榜周的周数差"""
-    r = db.execute("SELECT MAX(week_end) FROM weekly_trending WHERE repo_full_name=? AND week_end<?", (name, prev_end)).fetchone()
+    """断档周数：本次 week_end 之前最后一次上榜周，到本次之间缺席的周数。
+    终点必须是本周 week_end（不是上周 prev_end），否则所有断档数少算 1。"""
+    r = db.execute("SELECT MAX(week_end) FROM weekly_trending WHERE repo_full_name=? AND week_end<?",
+                   (name, week_end)).fetchone()
     if not r or not r[0]:
         return 99
     from datetime import datetime
     import datetime as dt
     cur = datetime.strptime(r[0], '%Y-%m-%d') + dt.timedelta(days=7)
     gap = 0
-    while cur < datetime.strptime(prev_end, '%Y-%m-%d'):
+    while cur < datetime.strptime(week_end, '%Y-%m-%d'):
         gap += 1
         cur += dt.timedelta(days=7)
     return gap
@@ -109,22 +128,22 @@ C = {'blue': '#4C72B0', 'orange': '#E4572E', 'purple': '#8172B2', 'green': '#2E8
 
 # TODO(每周手填)：NARRATIVES / KNIVES / WATCH 按周报正文更新
 NARRATIVES = [
-    (C['blue'], '#EAF0F9', '#3A62A8', 'Skill 长尾出清，注意力完成换位',
-     '续榜 7 项合计 <b>15,294★（27%）</b>且无一正增长，11 个新面孔贡献 41,351★（73%）。上上周 Skill 席位阈值 ≥8 守住后，本周长尾（context-mode、humanizer、hyperframes 等 8 个）全部出局——脉冲结束，注意力从"怎么用 Agent"移向"怎么养 Agent"。'),
-    (C['orange'], '#FDEEE8', '#D14A24', 'Agent 记忆与机群接管头部',
-     '<b>hindsight（+7,282★）</b>三连日榜登顶，周日后单日 2,152★ 全榜最高；paperclip 断档 5 周后星数翻倍回归（+5,376★）连拿两天日榜第一，orca 续榜且星数再涨（+6,503★）。"skill 教做事 + 记忆攒经验 + 机群并行"的运行时基础设施链成型。'),
-    (C['purple'], '#F1EEF8', '#6D5CA8', '大厂席位翻倍，但续榜全负增长',
-     '厂商主体 4 → <b>8 个席位</b>，Anthropic 一家占 3 席（financial-services 连续 3 天日榜第 1）；但 4 个续榜项目无一正增长，open-code-review 星数 -71%——"发布会式增长"窗口关闭，厂商转多仓库轮动补位。'),
+    (C['orange'], '#FDEEE8', '#D14A24', '总星反弹 24%，但换血率创新高',
+     '18 个项目 70,298★（上周 56,645★，+24.1%），两连降后首次回升；换血率从 61.1% 升到 <b>77.8%</b>（14 个新面孔），上周 18 个留榜项目 14 个掉出，仅 4 个留下——反弹靠的是新面孔涌入，不是老项目回暖，轮动比上周更快。'),
+    (C['blue'], '#EAF0F9', '#3A62A8', '语音/视频创作工具包抄 AI 基础设施',
+     '<b>VoiceStudio（+16,775★）</b>四天榜 3 天第 1、单日峰值 4,712★，空降周榜第一；HyperFrames（+3,011★，断档 1 周回归）、MoneyPrinterTurbo（+2,324★，断档 5 周回归）同周在榜。"本地 TTS + 渲染管线 + 一键成片"组成平民创作三件套，非 Agent 品类首次单独撑起头部。'),
+    (C['purple'], '#F1EEF8', '#6D5CA8', 'Agent 记忆续写纪录，paperclip 星数再翻倍',
+     '<b>hindsight（+14,507★，上周 +7,282★，+99%）</b>三连日榜确认上周 ≥5,000★ 阈值；<b>paperclip（+10,722★）</b>连续两天日榜第 1，两周星数从 +5,376★ 翻到 +10,722★。反面是"发布会窗口"关闭——上周厂商 8 席本周只剩 Octop 一席，续榜全灭。'),
 ]
 KNIVES = [
-    (C['blue'], '加速', 'Agent 运行时', 'hindsight/orca/paperclip/univer 合计 23,821★<br>占全榜 42.1%，记忆+机群接棒 Skill'),
-    (C['green'], '回落', '大厂单点星数', '26,217★ → 20,527★（-21.7%）<br>席位翻倍对决续榜全负，入场方式转向轮动'),
-    (C['orange'], '出清', '长尾 Skill', '上周 8 个社区 skill 全部出局<br>留存率 44% → 33%，脉冲正式结束'),
+    (C['orange'], '加速', 'AI 创作工具', 'VoiceStudio/HyperFrames/MoneyPrinterTurbo<br>合计 22,110★ 占全榜 31.5%，首次超过 Agent 品类星数'),
+    (C['blue'], '续强', 'Agent 运行时', 'hindsight + paperclip 合计 25,229★<br>占 35.9%，记忆与机群连续两周双位数增长'),
+    (C['purple'], '出清', '大厂官方与 Skill 长尾', '厂商 8 席 → 1 席，ECC/skills 全灭<br>上周头条 cloudflare/security-audit-skill、financial-services 均出局'),
 ]
 WATCH = [
-    ('"记忆/机群"接棒确认吗？', 'hindsight 或 paperclip 任一周星 <b>≥5,000★</b> 则运行时基础设施成为新主线'),
-    ('大厂席位会守住翻倍吗？', '厂商主体席位 <b>≥6</b> 则官方进场持稳，Anthropic 一家 3 席是关键'),
-    ('orca 能成为留得住的标的吗？', 'orca 续榜第 3 周且星数 <b>≥4,500★</b>，则是机群赛道第一个沉淀用户的'),
+    ('"AI 创作三件套"是脉冲还是主线？', 'VoiceStudio 或 HyperFrames 周星 <b>≥5,000★</b> 则创作品类成为常驻主线；跌破则又是一次首发热'),
+    ('hindsight 能连涨第三周吗？', 'hindsight 周星 <b>≥8,000★</b>，则"会学习的记忆"从项目升级为品类；回落且跌破 <b>4,000★</b> 则视为衰竭'),
+    ('大厂会重返榜单吗？', '厂商主体席位 <b>≥4</b> 则上周 8 席不是顶点；连续两周 ≤2 席则确认厂商周榜退潮'),
 ]
 
 def esc(s):

@@ -159,9 +159,23 @@ def validate_repo_name(repo_name):
     if len(parts) != 2:
         return False
     owner, name = parts
-    # GitHub 用户名/仓库名规则：字母数字连字符，不能以连字符开头/结尾
-    pattern = r'^[a-zA-Z0-9]([a-zA-Z0-9-]*[a-zA-Z0-9])?$'
-    return bool(re.match(pattern, owner)) and bool(re.match(pattern, name))
+    # owner 是账号名：仅 ASCII 字母数字和连字符，不能以连字符开头/结尾，
+    # 也不能含连续连字符（GitHub 账号名规则）
+    # repo 名额外允许下划线和点，但不能以 .git 结尾；单点/双点被 GitHub 保留
+    # 用 \Z 而非 $ —— $ 在 re.match 下会匹配末尾换行前的文本，属校验漏洞
+    owner_pat = r'^[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\Z'
+    name_pat = r'^[a-zA-Z0-9](?:[a-zA-Z0-9._-]*[a-zA-Z0-9._])?\Z'
+    if bool(re.match(owner_pat, owner)) is False:
+        return False
+    if bool(re.match(name_pat, name)) is False:
+        return False
+    if '--' in owner:
+        return False
+    if name.endswith('.git'):
+        return False
+    if name in ('.', '..'):
+        return False
+    return True
 
 
 def parse_trending(html_content):

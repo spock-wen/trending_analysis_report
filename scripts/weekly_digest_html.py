@@ -136,7 +136,7 @@ NARRATIVES = [
      '<b>hindsight（+14,507★，上周 +7,282★，+99%）</b>三连日榜确认上周 ≥5,000★ 阈值；<b>paperclip（+10,722★）</b>连续两天日榜第 1，两周星数从 +5,376★ 翻到 +10,722★。反面是"发布会窗口"关闭——上周厂商 8 席本周只剩 Octop 一席，续榜全灭。'),
 ]
 KNIVES = [
-    (C['orange'], '加速', 'AI 创作工具', 'VoiceStudio/HyperFrames/MoneyPrinterTurbo<br>合计 22,110★ 占全榜 31.5%，首次超过 Agent 品类星数'),
+    (C['orange'], '加速', 'AI 创作工具', 'VoiceStudio/HyperFrames/MoneyPrinterTurbo<br>合计 22,110★ 占全榜 31.5%，上周同口径 0 项 0★'),
     (C['blue'], '续强', 'Agent 运行时', 'hindsight + paperclip 合计 25,229★<br>占 35.9%，记忆与机群连续两周双位数增长'),
     (C['purple'], '出清', '大厂官方与 Skill 长尾', '厂商 8 席 → 1 席，ECC/skills 全灭<br>上周头条 cloudflare/security-audit-skill、financial-services 均出局'),
 ]

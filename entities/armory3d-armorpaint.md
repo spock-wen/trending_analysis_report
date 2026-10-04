@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[justvugg-colibri]] [[colbymchenry-codegraph]] [[willfaust-madeira]] [[mattpocock-skills]]
+[[willfaust-madeira]] [[pbakaus-impeccable]] [[antirez-ds4]] [[thedotmack-claude-mem]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]]
 

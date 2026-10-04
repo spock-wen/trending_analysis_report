@@ -4,7 +4,7 @@ created: 2026-03-04
 updated: 2026-03-06
 last_active: 2026-03-06
 type: tool
-tags: [typescript, ai-agent]
+tags: [typescript, ai-agent, cli, rising]
 sources: [raw/trending/2026-03-06.json]
 confidence: high
 trending_count_daily: 3
@@ -16,12 +16,6 @@ last_trending: 2026-03-06
 peak_rank: 3
 total_stars: 3849
 language: "TypeScript"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "desc:ai-agent"
-domain_source: github-api
 ---
 
 # CodebuffAI/codebuff
@@ -42,6 +36,7 @@ Generate code from the terminal!
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[earendil-works-pi]] [[pingdotgg-t3code]] [[affaan-m-ecc]] [[anthropics-claude-code]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[earendil-works-pi]] [[opencut-app-opencut]]
 
-**所属领域**: ai-agent
+**所属领域**: [[ai-agent]] [[cli]]
+

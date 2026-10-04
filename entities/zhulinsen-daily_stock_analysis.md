@@ -4,7 +4,7 @@ created: 2026-04-30
 updated: 2026-04-30
 last_active: 2026-04-30
 type: tool
-tags: [python, ai-agent, finance]
+tags: [python, ai-agent]
 sources: [raw/trending/2026-04-30.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-04-30
 peak_rank: 5
 total_stars: 32719
 language: "Python"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:agent; topic:ai; topic:llm; topic:quant"
-domain_source: daily-report
 ---
 
 # ZhuLinsen/daily_stock_analysis
@@ -40,6 +34,7 @@ LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM
 
 ## 相关项目
 
-[[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[obra-superpowers]]
+[[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[garrytan-gstack]]
 
-**所属领域**: ai-agent、finance
+**所属领域**: [[ai-agent]]
+

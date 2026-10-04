@@ -34,7 +34,7 @@ Lightweight (7MB) Terminal-first AI-native dev workspace
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[anthropics-claude-code]] [[mattpocock-skills]] [[earendil-works-pi]] [[obra-superpowers]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[earendil-works-pi]] [[opencut-app-opencut]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

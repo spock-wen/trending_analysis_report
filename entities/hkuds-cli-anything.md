@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[averygan-reclip]] [[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[rakyll-hey]] [[anthropics-claude-code]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[calesthio-openmontage]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -4,7 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 last_active: 2026-04-18
 type: tool
-tags: [ai-agent, mobile, web]
+tags: [ai-agent]
 sources: [raw/trending/2026-04-18.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-04-18
 peak_rank: 12
 total_stars: 10099
 language: "Dart"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:ai; topic:flutter; topic:mobile; topic:nextjs"
-domain_source: daily-report
 ---
 
 # BasedHardware/omi
@@ -40,6 +34,7 @@ AI that sees your screen, listens to your conversations and tells you what to do
 
 ## 相关项目
 
-[[chen08209-flclash]] [[flutter-flutter]] [[earendil-works-pi]] [[localsend-localsend]] [[affaan-m-ecc]]
+[[pbakaus-impeccable]] [[thedotmack-claude-mem]] [[chen08209-flclash]] [[flutter-flutter]] [[localsend-localsend]]
 
-**所属领域**: ai-agent、mobile、web
+**所属领域**: [[ai-agent]]
+

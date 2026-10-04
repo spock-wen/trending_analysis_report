@@ -4,7 +4,7 @@ created: 2026-05-12
 updated: 2026-05-14
 last_active: 2026-05-14
 type: tool
-tags: [ai-agent]
+tags: [python, ai-agent, rising]
 sources: [raw/trending/2026-05-14.json]
 confidence: high
 trending_count_daily: 3
@@ -16,12 +16,6 @@ last_trending: 2026-05-14
 peak_rank: 8
 total_stars: 94433
 language: "Jupyter Notebook"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:ai; topic:chatbot; topic:deep-learning; topic:gpt"
-domain_source: daily-report
 ---
 
 # rasbt/LLMs-from-scratch
@@ -42,6 +36,7 @@ Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
 ## 相关项目
 
-[[earendil-works-pi]] [[microsoft-ai-for-beginners]] [[affaan-m-ecc]] [[lyogavin-airllm]] [[obra-superpowers]]
+[[microsoft-generative-ai-for-beginners]] [[pbakaus-impeccable]] [[higgsfield-ai-higgsfield]] [[garrytan-gstack]] [[lyogavin-airllm]]
 
-**所属领域**: ai-agent
+**所属领域**: [[ai-agent]]
+

@@ -4,7 +4,7 @@ created: 2026-04-06
 updated: 2026-04-09
 last_active: 2026-04-09
 type: tool
-tags: [cpp]
+tags: [cpp, ai-agent, rising]
 sources: [raw/trending/2026-04-09.json]
 confidence: high
 trending_count_daily: 4
@@ -16,12 +16,6 @@ last_trending: 2026-04-09
 peak_rank: 2
 total_stars: 2970
 language: "C++"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "no-evidence"
-domain_source: github-api
 ---
 
 # google-ai-edge/LiteRT-LM
@@ -43,6 +37,7 @@ No description
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[earendil-works-pi]] [[firebase-firebase-ios-sdk]] [[affaan-m-ecc]] [[obra-superpowers]]
+[[pbakaus-impeccable]] [[harry7557558-spirula-studio]] [[thedotmack-claude-mem]] [[firebase-firebase-ios-sdk]] [[garrytan-gstack]]
 
-**所属领域**: （无可靠依据，未判定）
+**所属领域**: [[ai-agent]]
+

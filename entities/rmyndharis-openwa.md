@@ -36,5 +36,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[earendil-works-pi]] [[anthropics-claude-code]] [[pingdotgg-t3code]]
+[[pingdotgg-t3code]] [[opencut-app-opencut]] [[garrytan-gstack]] [[thedotmack-claude-mem]]
 

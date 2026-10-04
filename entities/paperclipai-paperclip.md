@@ -38,7 +38,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[paperless-ngx-paperless-ngx]] [[thedotmack-claude-mem]] [[anthropics-claude-code]] [[mattpocock-skills]] [[zhaoxuya520-reverse-skill]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[earendil-works-pi]] [[opencut-app-opencut]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

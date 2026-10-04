@@ -13,15 +13,9 @@ trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-05-10
 last_trending: 2026-05-10
-peak_rank: 3
+peak_rank: 1
 total_stars: 1393
 language: "TypeScript"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "desc:ai-agent"
-domain_source: daily-report
 ---
 
 # anthropics/claude-agent-sdk
@@ -31,15 +25,16 @@ Anthropic 官方 Claude Agent SDK
 - 语言: TypeScript
 - 上榜次数: 1 次
 - 连续上榜: 1 天
-- 最高排名: #3
+- 最高排名: #1
 - 链接: [anthropics/claude-agent-sdk](https://github.com/anthropics/claude-agent-sdk)
 
 ## 上榜历史
 
-  - 2026-05-10: #3, +500⭐
+  - 2026-05-10: #1, +500⭐
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[earendil-works-pi]] [[pingdotgg-t3code]] [[affaan-m-ecc]] [[anthropics-claude-code]]
+[[pbakaus-impeccable]] [[opencut-app-opencut]] [[garrytan-gstack]] [[pingdotgg-t3code]] [[panniantong-agent-reach]]
 
-**所属领域**: ai-agent
+**所属领域**: [[ai-agent]]
+

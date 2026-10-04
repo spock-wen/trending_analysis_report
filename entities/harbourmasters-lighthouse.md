@@ -34,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[colbymchenry-codegraph]] [[willfaust-madeira]] [[justvugg-colibri]]
+[[antirez-ds4]] [[deusdata-codebase-memory-mcp]] [[willfaust-madeira]] [[colbymchenry-codegraph]]
 

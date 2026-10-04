@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[lakr233-vphone-cli]] [[averygan-reclip]] [[jamiepine-voicebox]] [[debpalash-voicestudio]]
+[[abue-ammar-tinycast]] [[pbakaus-impeccable]] [[multimodal-art-projection-yue]] [[lakr233-vphone-cli]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

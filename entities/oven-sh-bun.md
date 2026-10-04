@@ -13,7 +13,7 @@ trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-05-16
 last_trending: 2026-07-12
-peak_rank: 2
+peak_rank: 1
 total_stars: 94545
 language: "Rust"
 ---
@@ -25,7 +25,7 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
 - 语言: Rust
 - 上榜次数: 5 次
 - 连续上榜: 2 天
-- 最高排名: #2
+- 最高排名: #1
 - 链接: [oven-sh/bun](https://github.com/oven-sh/bun)
 
 ## 上榜历史
@@ -33,10 +33,10 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
   - 2026-07-12: #10, +654⭐
   - 2026-07-11: #2, +307⭐
   - 2026-05-18: #4, +908⭐
-  - 2026-05-17: #10, +448⭐
+  - 2026-05-17: #1, +414⭐
   - 2026-05-16: #10, +448⭐
 
 ## 相关项目
 
-[[nvidia-openshell]] [[block-buzz]] [[akitaonrails-ai-memory]] [[t8y2-dbx]]
+[[akitaonrails-ai-memory]] [[nvidia-openshell]] [[t8y2-dbx]] [[block-buzz]]
 

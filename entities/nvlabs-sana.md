@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[trycua-cua]] [[zhouxiaoka-autoclip]] [[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[actions-runner-images]]
+[[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[actions-runner-images]] [[fxembed-fxembed]]
 
 **所属领域**: [[image-gen]]
 

@@ -37,7 +37,7 @@ Open source inference server that runs the best local models for your hardware, 
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[anthropics-claude-code]] [[mattpocock-skills]] [[earendil-works-pi]] [[obra-superpowers]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[earendil-works-pi]] [[opencut-app-opencut]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

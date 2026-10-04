@@ -4,7 +4,7 @@ created: 2026-05-14
 updated: 2026-05-14
 last_active: 2026-05-14
 type: tool
-tags: [rust, devops, tool]
+tags: [rust, ai-agent]
 sources: [raw/trending/2026-05-14.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-05-14
 peak_rank: 17
 total_stars: 197
 language: "Rust"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "desc:devops; desc:tool"
-domain_source: daily-report
 ---
 
 # ton-blockchain/acton
@@ -40,6 +34,7 @@ Toolchain for TON smart contract development and beyond
 
 ## 相关项目
 
-[[earendil-works-pi]] [[nvidia-openshell]] [[block-buzz]] [[affaan-m-ecc]] [[obra-superpowers]]
+[[pbakaus-impeccable]] [[nvidia-openshell]] [[block-buzz]] [[garrytan-gstack]] [[t8y2-dbx]]
 
-**所属领域**: devops、tool
+**所属领域**: [[ai-agent]]
+

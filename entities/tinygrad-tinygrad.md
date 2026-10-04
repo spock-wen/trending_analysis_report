@@ -16,12 +16,6 @@ last_trending: 2026-03-24
 peak_rank: 7
 total_stars: 31876
 language: "Python"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "no-evidence"
-domain_source: github-api
 ---
 
 # tinygrad/tinygrad
@@ -40,6 +34,5 @@ You like pytorch? You like micrograd? You love tinygrad! ❤️
 
 ## 相关项目
 
-[[getsentry-sentry]] [[jamwithai-production-agentic-rag-course]] [[panniantong-agent-reach]] [[meituan-longcat-longcat-video]]
+[[earthtojake-text-to-cad]] [[panniantong-agent-reach]] [[getsentry-sentry]] [[calesthio-openmontage]]
 
-**所属领域**: （无可靠依据，未判定）

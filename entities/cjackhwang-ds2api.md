@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: 2026-04-30
 last_active: 2026-04-30
 type: tool
-tags: [go, ai-agent, cli, devops, web]
+tags: [go, ai-agent, cli, rising]
 sources: [raw/trending/2026-04-30.json]
 confidence: high
 trending_count_daily: 4
@@ -16,12 +16,6 @@ last_trending: 2026-04-30
 peak_rank: 3
 total_stars: 2702
 language: "Go"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:deepseek; topic:docker; topic:react; desc:cli"
-domain_source: daily-report
 ---
 
 # CJackHwang/ds2api
@@ -43,6 +37,7 @@ Deepseek to API: A lightweight, high-performance full-stack middleware convertin
 
 ## 相关项目
 
-[[google-ax]] [[earendil-works-pi]] [[juliusbrussee-caveman]] [[affaan-m-ecc]] [[mattpocock-skills]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[rakyll-hey]] [[mattpocock-skills]] [[openbao-openbao]]
 
-**所属领域**: ai-agent、cli、devops、web
+**所属领域**: [[ai-agent]] [[cli]]
+

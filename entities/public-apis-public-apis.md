@@ -1,17 +1,17 @@
 ---
 title: "public-apis/public-apis"
-created: 2026-08-16
+created: 2026-03-14
 updated: 2026-08-19
 last_active: 2026-08-19
 type: tool
 tags: [python]
 sources: [raw/trending/2026-08-19.json]
 confidence: high
-trending_count_daily: 3
+trending_count_daily: 7
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
-first_trending: 2026-08-16
+first_trending: 2026-03-14
 last_trending: 2026-08-19
 peak_rank: 5
 total_stars: 464473
@@ -23,7 +23,7 @@ language: "Python"
 A collective list of free APIs
 
 - 语言: Python
-- 上榜次数: 3 次
+- 上榜次数: 7 次
 - 连续上榜: 1 天
 - 最高排名: #5
 - 链接: [public-apis/public-apis](https://github.com/public-apis/public-apis)
@@ -33,8 +33,10 @@ A collective list of free APIs
   - 2026-08-19: #6, +1139⭐
   - 2026-08-17: #5, +1583⭐
   - 2026-08-16: #6, +2476⭐
+  - 2026-05-01: #6, +307⭐
+  - 2026-04-29: #7, +600⭐
 
 ## 相关项目
 
-[[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[getsentry-sentry]] [[jamwithai-production-agentic-rag-course]]
+[[earthtojake-text-to-cad]] [[panniantong-agent-reach]] [[getsentry-sentry]] [[calesthio-openmontage]]
 

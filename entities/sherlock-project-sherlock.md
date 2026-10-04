@@ -4,7 +4,7 @@ created: 2026-03-31
 updated: 2026-04-05
 last_active: 2026-04-05
 type: tool
-tags: [python, cli, devops, security]
+tags: [python, rising]
 sources: [raw/trending/2026-04-05.json]
 confidence: high
 trending_count_daily: 5
@@ -16,12 +16,6 @@ last_trending: 2026-04-05
 peak_rank: 2
 total_stars: 79331
 language: "Python"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:cli; topic:forensics; topic:linux"
-domain_source: daily-report
 ---
 
 # sherlock-project/sherlock
@@ -44,6 +38,5 @@ Hunt down social media accounts by username across social networks
 
 ## 相关项目
 
-[[getsentry-sentry]] [[jamwithai-production-agentic-rag-course]] [[panniantong-agent-reach]] [[meituan-longcat-longcat-video]]
+[[earthtojake-text-to-cad]] [[panniantong-agent-reach]] [[getsentry-sentry]] [[calesthio-openmontage]]
 
-**所属领域**: cli、devops、security

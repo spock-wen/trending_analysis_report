@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[trycua-cua]] [[zhaoxuya520-reverse-skill]] [[paperless-ngx-paperless-ngx]] [[zhouxiaoka-autoclip]] [[meituan-longcat-longcat-video]]
+[[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[actions-runner-images]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

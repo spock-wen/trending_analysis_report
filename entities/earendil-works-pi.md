@@ -38,7 +38,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[anthropics-claude-code]] [[mattpocock-skills]] [[pingdotgg-t3code]] [[obra-superpowers]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[opencut-app-opencut]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

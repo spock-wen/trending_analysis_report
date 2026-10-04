@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[trycua-cua]] [[zhouxiaoka-autoclip]] [[thedotmack-claude-mem]] [[anthropics-claude-code]] [[fxembed-fxembed]]
+[[pbakaus-impeccable]] [[actions-runner-images]] [[opencut-app-opencut]] [[fxembed-fxembed]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

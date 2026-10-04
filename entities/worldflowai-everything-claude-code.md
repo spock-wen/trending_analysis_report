@@ -34,7 +34,7 @@ Claude Code toolkit - agents, commands, skills, rules, and hooks for productive 
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[pbakaus-impeccable]] [[anthropics-claude-code]] [[mattpocock-skills]] [[addyosmani-agent-skills]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[dietrichgebert-ponytail]] [[addyosmani-agent-skills]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

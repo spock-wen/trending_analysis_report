@@ -4,7 +4,7 @@ created: 2026-05-06
 updated: 2026-05-06
 last_active: 2026-05-06
 type: tool
-tags: [tool]
+tags: [ai-agent, cli]
 sources: [raw/trending/2026-05-06.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-05-06
 peak_rank: 5
 total_stars: 7834
 language: "PowerShell"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "no-evidence"
-domain_source: daily-report
 ---
 
 # bwya77/vscode-dark-islands
@@ -40,6 +34,7 @@ VSCode theme based off the easemate IDE and Jetbrains islands theme
 
 ## 相关项目
 
-[[earendil-works-pi]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[raphire-win11debloat]] [[anthropics-claude-code]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[earendil-works-pi]] [[actions-runner-images]]
 
-**所属领域**: （无可靠依据，未判定）
+**所属领域**: [[ai-agent]] [[cli]]
+

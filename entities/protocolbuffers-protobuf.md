@@ -1,19 +1,19 @@
 ---
 title: "protocolbuffers/protobuf"
-created: 2026-07-18
+created: 2026-03-22
 updated: 2026-09-03
 last_active: 2026-09-03
 type: tool
 tags: [cpp, data]
 sources: [raw/trending/2026-09-03.json]
 confidence: high
-trending_count_daily: 3
+trending_count_daily: 4
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
-first_trending: 2026-07-18
+first_trending: 2026-03-22
 last_trending: 2026-09-03
-peak_rank: 8
+peak_rank: 7
 total_stars: 71930
 language: "C++"
 ---
@@ -23,9 +23,9 @@ language: "C++"
 Protocol Buffers - Google's data interchange format
 
 - 语言: C++
-- 上榜次数: 3 次
+- 上榜次数: 4 次
 - 连续上榜: 1 天
-- 最高排名: #8
+- 最高排名: #7
 - 链接: [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
 
 ## 上榜历史
@@ -33,10 +33,11 @@ Protocol Buffers - Google's data interchange format
   - 2026-09-03: #13, +16⭐
   - 2026-08-22: #15, +4⭐
   - 2026-07-18: #8, +18⭐
+  - 2026-03-22: #7, +7⭐
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[coreyhaines31-marketingskills]] [[firebase-firebase-ios-sdk]] [[deusdata-codebase-memory-mcp]] [[t8y2-dbx]]
+[[harry7557558-spirula-studio]] [[calesthio-openmontage]] [[openbao-openbao]] [[firebase-firebase-ios-sdk]] [[coreyhaines31-marketingskills]]
 
 **所属领域**: [[data]]
 

@@ -16,12 +16,6 @@ last_trending: 2026-04-09
 peak_rank: 3
 total_stars: 4076
 language: "Python"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "desc:science"
-domain_source: daily-report
 ---
 
 # newton-physics/newton
@@ -42,6 +36,7 @@ An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[getsentry-sentry]]
+[[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[zhaoxuya520-reverse-skill]] [[paperless-ngx-paperless-ngx]]
 
-**所属领域**: science
+**所属领域**: [[science]]
+

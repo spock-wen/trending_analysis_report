@@ -4,7 +4,7 @@ created: 2026-04-29
 updated: 2026-05-05
 last_active: 2026-05-05
 type: tool
-tags: [javascript, ai-agent, audio, web]
+tags: [ai-agent, image-gen, audio]
 sources: [raw/trending/2026-05-05.json]
 confidence: medium
 trending_count_daily: 2
@@ -16,12 +16,6 @@ last_trending: 2026-05-05
 peak_rank: 2
 total_stars: 2827
 language: "JavaScript"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:ai; topic:music; topic:react"
-domain_source: daily-report
 ---
 
 # fspecii/ace-step-ui
@@ -41,6 +35,7 @@ domain_source: daily-report
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[fxembed-fxembed]] [[earendil-works-pi]] [[trycua-cua]] [[addyosmani-agent-skills]]
+[[pbakaus-impeccable]] [[dietrichgebert-ponytail]] [[addyosmani-agent-skills]] [[multimodal-art-projection-yue]] [[jamiepine-voicebox]]
 
-**所属领域**: ai-agent、audio、web
+**所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
+

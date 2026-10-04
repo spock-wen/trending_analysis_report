@@ -4,7 +4,7 @@ created: 2026-03-12
 updated: 2026-03-15
 last_active: 2026-03-15
 type: tool
-tags: [python, ai-agent, audio]
+tags: [python, audio, rising]
 sources: [raw/trending/2026-03-15.json]
 confidence: high
 trending_count_daily: 4
@@ -16,12 +16,6 @@ last_trending: 2026-03-15
 peak_rank: 2
 total_stars: 27204
 language: "Python"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:llama; topic:transformer; topic:tts"
-domain_source: daily-report
 ---
 
 # fishaudio/fish-speech
@@ -43,6 +37,7 @@ SOTA Open Source TTS
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[panniantong-agent-reach]] [[tonhowtf-omniget]] [[jamwithai-production-agentic-rag-course]] [[getsentry-sentry]]
+[[multimodal-art-projection-yue]] [[calesthio-openmontage]] [[jamiepine-voicebox]] [[getsentry-sentry]] [[earthtojake-text-to-cad]]
 
-**所属领域**: ai-agent、audio
+**所属领域**: [[audio]]
+

@@ -16,12 +16,6 @@ last_trending: 2026-03-14
 peak_rank: 2
 total_stars: 15225
 language: "TypeScript"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:ci-cd; topic:llm; topic:rag; desc:cli"
-domain_source: daily-report
 ---
 
 # promptfoo/promptfoo
@@ -42,6 +36,7 @@ Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[earendil-works-pi]] [[oblien-openship]] [[pingdotgg-t3code]] [[davila7-claude-code-templates]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[davila7-claude-code-templates]] [[earendil-works-pi]]
 
-**所属领域**: ai-agent、cli、devops
+**所属领域**: [[ai-agent]] [[cli]] [[devops]]
+

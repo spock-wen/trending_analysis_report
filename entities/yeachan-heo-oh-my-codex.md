@@ -16,12 +16,6 @@ last_trending: 2026-04-05
 peak_rank: 3
 total_stars: 15588
 language: "TypeScript"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "desc:ai-agent"
-domain_source: github-api
 ---
 
 # Yeachan-Heo/oh-my-codex
@@ -40,6 +34,7 @@ OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[earendil-works-pi]] [[pingdotgg-t3code]] [[affaan-m-ecc]] [[anthropics-claude-code]]
+[[pbakaus-impeccable]] [[opencut-app-opencut]] [[garrytan-gstack]] [[pingdotgg-t3code]] [[panniantong-agent-reach]]
 
-**所属领域**: ai-agent
+**所属领域**: [[ai-agent]]
+

@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[mattpocock-skills]] [[infinityloop1308-pipepipe]] [[nvm-sh-nvm]] [[earendil-works-pi]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[earendil-works-pi]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

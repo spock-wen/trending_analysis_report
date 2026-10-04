@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[trycua-cua]] [[hkuds-cli-anything]] [[averygan-reclip]] [[rakyll-hey]] [[mattpocock-skills]]
+[[pbakaus-impeccable]] [[ripienaar-free-for-dev]] [[heygen-com-hyperframes]] [[caddyserver-caddy]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

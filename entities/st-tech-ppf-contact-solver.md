@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[anthropics-claude-code]] [[mattpocock-skills]] [[getsentry-sentry]]
+[[obra-superpowers]] [[mattpocock-skills]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earendil-works-pi]]
 
 **所属领域**: [[cli]]
 

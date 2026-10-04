@@ -16,12 +16,6 @@ last_trending: 2026-05-14
 peak_rank: 11
 total_stars: 911
 language: "C#"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "desc:tool"
-domain_source: daily-report
 ---
 
 # Greedeks/GTweak
@@ -40,6 +34,5 @@ Portable Tool for an Ideal Windows Setup
 
 ## 相关项目
 
-[[jellyfin-jellyfin]] [[dotnet-aspnetcore]] [[sonarr-sonarr]] [[k1tbyte-wand-enhancer]]
+[[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]] [[sonarr-sonarr]] [[jellyfin-jellyfin]]
 
-**所属领域**: tool

@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[paperless-ngx-paperless-ngx]] [[averygan-reclip]] [[thedotmack-claude-mem]] [[anthropics-claude-code]]
+[[pbakaus-impeccable]] [[heygen-com-hyperframes]] [[caddyserver-caddy]] [[opencut-app-opencut]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

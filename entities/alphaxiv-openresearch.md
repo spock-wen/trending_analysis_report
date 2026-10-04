@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[paperless-ngx-paperless-ngx]] [[t8y2-dbx]] [[block-buzz]] [[paperclipai-paperclip]] [[mattpocock-skills]]
+[[pbakaus-impeccable]] [[nvidia-openshell]] [[zhaoxuya520-reverse-skill]] [[block-buzz]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

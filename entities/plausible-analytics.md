@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[coreyhaines31-marketingskills]] [[averygan-reclip]] [[t8y2-dbx]] [[openbao-openbao]]
+[[nationalsecurityagency-ghidra]] [[teslamate-org-teslamate]] [[calesthio-openmontage]] [[openbao-openbao]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

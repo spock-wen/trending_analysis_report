@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[deusdata-codebase-memory-mcp]] [[openbao-openbao]] [[anthropics-claude-code]] [[block-buzz]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[nvidia-openshell]] [[mattpocock-skills]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

@@ -1,19 +1,19 @@
 ---
 title: "HKUDS/DeepTutor"
-created: 2026-07-16
+created: 2026-04-08
 updated: 2026-08-12
 last_active: 2026-08-12
 type: tool
 tags: [python, web]
 sources: [raw/trending/2026-08-12.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 8
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
-first_trending: 2026-07-16
+first_trending: 2026-04-08
 last_trending: 2026-08-12
-peak_rank: 8
+peak_rank: 3
 total_stars: 34667
 language: "Python"
 ---
@@ -23,9 +23,9 @@ language: "Python"
 DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 - 语言: Python
-- 上榜次数: 4 次
+- 上榜次数: 8 次
 - 连续上榜: 1 天
-- 最高排名: #8
+- 最高排名: #3
 - 链接: [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
 
 ## 上榜历史
@@ -34,10 +34,11 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
   - 2026-07-18: #13, +528⭐
   - 2026-07-17: #11, +647⭐
   - 2026-07-16: #8, +128⭐
+  - 2026-04-12: #9, +836⭐
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[averygan-reclip]] [[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[rakyll-hey]]
+[[calesthio-openmontage]] [[getsentry-sentry]] [[heygen-com-hyperframes]] [[earthtojake-text-to-cad]] [[caddyserver-caddy]]
 
 **所属领域**: [[web]]
 

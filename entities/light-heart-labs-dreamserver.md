@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[trycua-cua]] [[zhouxiaoka-autoclip]] [[jamiepine-voicebox]] [[meituan-longcat-longcat-video]] [[debpalash-voicestudio]]
+[[pbakaus-impeccable]] [[multimodal-art-projection-yue]] [[calesthio-openmontage]] [[jamiepine-voicebox]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

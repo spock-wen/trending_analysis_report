@@ -4,7 +4,7 @@ created: 2026-05-08
 updated: 2026-05-12
 last_active: 2026-05-12
 type: tool
-tags: [javascript, ai-agent, cli]
+tags: [ai-agent, cli, rising]
 sources: [raw/trending/2026-05-12.json]
 confidence: high
 trending_count_daily: 5
@@ -16,12 +16,6 @@ last_trending: 2026-05-12
 peak_rank: 3
 total_stars: 8275
 language: "JavaScript"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:ai-agents; topic:claude; topic:claude-code; topic:copilot"
-domain_source: daily-report
 ---
 
 # decolua/9router
@@ -38,12 +32,13 @@ Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An
 
   - 2026-05-12: #6, +942⭐
   - 2026-05-11: #6, +806⭐
-  - 2026-05-10: #12, +980⭐
+  - 2026-05-10: #9, +980⭐
   - 2026-05-09: #3, +1028⭐
   - 2026-05-08: #4, +249⭐
 
 ## 相关项目
 
-[[earendil-works-pi]] [[addyosmani-agent-skills]] [[pbakaus-impeccable]] [[affaan-m-ecc]] [[anthropics-claude-code]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[dietrichgebert-ponytail]] [[addyosmani-agent-skills]] [[mattpocock-skills]]
 
-**所属领域**: ai-agent、cli
+**所属领域**: [[ai-agent]] [[cli]]
+

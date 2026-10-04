@@ -34,7 +34,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[averygan-reclip]] [[dietrichgebert-ponytail]] [[pbakaus-impeccable]] [[rakyll-hey]]
+[[pbakaus-impeccable]] [[dietrichgebert-ponytail]] [[addyosmani-agent-skills]] [[heygen-com-hyperframes]] [[caddyserver-caddy]]
 
 **所属领域**: [[web]]
 

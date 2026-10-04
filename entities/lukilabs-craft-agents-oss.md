@@ -4,7 +4,7 @@ created: 2026-04-18
 updated: 2026-05-01
 last_active: 2026-05-01
 type: tool
-tags: [typescript]
+tags: [typescript, ai-agent]
 sources: [raw/trending/2026-05-01.json]
 confidence: high
 trending_count_daily: 3
@@ -16,12 +16,6 @@ last_trending: 2026-05-01
 peak_rank: 3
 total_stars: 5562
 language: "TypeScript"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "no-evidence"
-domain_source: daily-report
 ---
 
 # lukilabs/craft-agents-oss
@@ -42,6 +36,7 @@ No description
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[earendil-works-pi]] [[pingdotgg-t3code]] [[affaan-m-ecc]] [[anthropics-claude-code]]
+[[pbakaus-impeccable]] [[opencut-app-opencut]] [[garrytan-gstack]] [[pingdotgg-t3code]] [[panniantong-agent-reach]]
 
-**所属领域**: （无可靠依据，未判定）
+**所属领域**: [[ai-agent]]
+

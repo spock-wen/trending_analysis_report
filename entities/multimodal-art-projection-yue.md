@@ -37,7 +37,7 @@ YuE2: frontier music generation with symbolic planning, zero-shot covers, and ag
 
 ## 相关项目
 
-[[trycua-cua]] [[zhouxiaoka-autoclip]] [[jamiepine-voicebox]] [[meituan-longcat-longcat-video]] [[debpalash-voicestudio]]
+[[pbakaus-impeccable]] [[calesthio-openmontage]] [[jamiepine-voicebox]] [[getsentry-sentry]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

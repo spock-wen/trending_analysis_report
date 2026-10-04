@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[pingdotgg-t3code]] [[averygan-reclip]] [[thedotmack-claude-mem]] [[anthropics-claude-code]]
+[[rohitg00-ai-engineering-from-scratch]] [[heygen-com-hyperframes]] [[caddyserver-caddy]] [[opencut-app-opencut]] [[garrytan-gstack]]
 
 **所属领域**: [[web]] [[education]]
 

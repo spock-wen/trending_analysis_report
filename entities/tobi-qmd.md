@@ -16,12 +16,6 @@ last_trending: 2026-04-08
 peak_rank: 6
 total_stars: 19515
 language: "TypeScript"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "desc:cli"
-domain_source: github-api
 ---
 
 # tobi/qmd
@@ -41,6 +35,7 @@ mini cli search engine for your docs, knowledge bases, meeting notes, whatever. 
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[earendil-works-pi]] [[pingdotgg-t3code]] [[anthropics-claude-code]] [[obra-superpowers]]
+[[obra-superpowers]] [[mattpocock-skills]] [[earendil-works-pi]] [[opencut-app-opencut]] [[garrytan-gstack]]
 
-**所属领域**: cli
+**所属领域**: [[cli]]
+

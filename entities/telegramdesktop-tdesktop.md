@@ -16,12 +16,6 @@ last_trending: 2026-04-06
 peak_rank: 5
 total_stars: 31060
 language: "C++"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "no-evidence"
-domain_source: daily-report
 ---
 
 # telegramdesktop/tdesktop
@@ -41,6 +35,5 @@ Telegram Desktop messaging app
 
 ## 相关项目
 
-[[firebase-firebase-ios-sdk]] [[fmtlib-fmt]] [[tensorflow-tensorflow]] [[harry7557558-spirula-studio]]
+[[harry7557558-spirula-studio]] [[tensorflow-tensorflow]] [[fmtlib-fmt]] [[firebase-firebase-ios-sdk]]
 
-**所属领域**: （无可靠依据，未判定）

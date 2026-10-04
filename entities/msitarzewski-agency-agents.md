@@ -1,17 +1,17 @@
 ---
 title: "msitarzewski/agency-agents"
-created: 2026-05-20
+created: 2026-05-06
 updated: 2026-08-14
 last_active: 2026-08-14
 type: tool
 tags: [shell, ai-agent, web, cli, rising]
 sources: [raw/trending/2026-08-14.json]
 confidence: high
-trending_count_daily: 16
+trending_count_daily: 17
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 5
-first_trending: 2026-05-20
+first_trending: 2026-05-06
 last_trending: 2026-08-14
 peak_rank: 1
 total_stars: 145165
@@ -23,7 +23,7 @@ language: "Shell"
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
 - 语言: Shell
-- 上榜次数: 16 次
+- 上榜次数: 17 次
 - 连续上榜: 5 天
 - 最高排名: #1
 - 链接: [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[averygan-reclip]] [[anthropics-claude-code]] [[rakyll-hey]] [[mattpocock-skills]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[earendil-works-pi]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

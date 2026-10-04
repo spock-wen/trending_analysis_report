@@ -1,19 +1,19 @@
 ---
 title: "bytedance/deer-flow"
-created: 2026-06-22
+created: 2026-03-11
 updated: 2026-09-08
 last_active: 2026-09-08
 type: tool
 tags: [python, ai-agent, science]
 sources: [raw/trending/2026-09-08.json]
 confidence: high
-trending_count_daily: 5
+trending_count_daily: 12
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
-first_trending: 2026-06-22
+first_trending: 2026-03-11
 last_trending: 2026-09-08
-peak_rank: 5
+peak_rank: 1
 total_stars: 81822
 language: "Python"
 ---
@@ -23,9 +23,9 @@ language: "Python"
 An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
 
 - 语言: Python
-- 上榜次数: 5 次
+- 上榜次数: 12 次
 - 连续上榜: 1 天
-- 最高排名: #5
+- 最高排名: #1
 - 链接: [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
 
 ## 上榜历史
@@ -38,7 +38,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[paperless-ngx-paperless-ngx]] [[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[paperclipai-paperclip]]
+[[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

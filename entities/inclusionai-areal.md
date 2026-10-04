@@ -16,12 +16,6 @@ last_trending: 2026-03-07
 peak_rank: 5
 total_stars: 4386
 language: "Python"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:agent; topic:llm; topic:llm-agent"
-domain_source: daily-report
 ---
 
 # inclusionAI/AReaL
@@ -41,6 +35,7 @@ Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.
 
 ## 相关项目
 
-[[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[obra-superpowers]]
+[[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[garrytan-gstack]]
 
-**所属领域**: ai-agent
+**所属领域**: [[ai-agent]]
+

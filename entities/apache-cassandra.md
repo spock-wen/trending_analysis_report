@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[deusdata-codebase-memory-mcp]] [[t8y2-dbx]] [[openbao-openbao]] [[yuliskov-smarttube]]
+[[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]] [[calesthio-openmontage]] [[openbao-openbao]] [[getsentry-sentry]]
 
 **所属领域**: [[data]] [[devops]]
 

@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[anthropics-claude-code]] [[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[vectorize-io-hindsight]]
+[[rohitg00-ai-engineering-from-scratch]] [[opencut-app-opencut]] [[garrytan-gstack]] [[cs341-illinois-coursebook]] [[jamwithai-production-agentic-rag-course]]
 
 **所属领域**: [[education]]
 

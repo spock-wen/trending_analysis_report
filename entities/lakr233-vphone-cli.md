@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[mattpocock-skills]] [[abue-ammar-tinycast]] [[homebrew-brewui]] [[earendil-works-pi]]
+[[obra-superpowers]] [[abue-ammar-tinycast]] [[mattpocock-skills]] [[earendil-works-pi]] [[homebrew-brewui]]
 
 **所属领域**: [[cli]]
 

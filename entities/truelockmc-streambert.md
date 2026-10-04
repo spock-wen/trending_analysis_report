@@ -35,5 +35,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[pbakaus-impeccable]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]]
+[[dietrichgebert-ponytail]] [[coreyhaines31-marketingskills]] [[pbakaus-impeccable]] [[addyosmani-agent-skills]]
 

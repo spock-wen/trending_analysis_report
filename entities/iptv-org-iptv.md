@@ -1,17 +1,17 @@
 ---
 title: "iptv-org/iptv"
-created: 2026-06-13
+created: 2026-03-24
 updated: 2026-07-21
 last_active: 2026-07-21
 type: tool
 tags: [typescript, ai-agent]
 sources: [raw/trending/2026-07-21.json]
 confidence: high
-trending_count_daily: 6
+trending_count_daily: 7
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
-first_trending: 2026-06-13
+first_trending: 2026-03-24
 last_trending: 2026-07-21
 peak_rank: 1
 total_stars: 133754
@@ -23,7 +23,7 @@ language: "TypeScript"
 Collection of publicly available IPTV channels from all over the world
 
 - 语言: TypeScript
-- 上榜次数: 6 次
+- 上榜次数: 7 次
 - 连续上榜: 1 天
 - 最高排名: #1
 - 链接: [iptv-org/iptv](https://github.com/iptv-org/iptv)
@@ -38,7 +38,7 @@ Collection of publicly available IPTV channels from all over the world
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[anthropics-claude-code]] [[mattpocock-skills]] [[earendil-works-pi]] [[obra-superpowers]]
+[[pbakaus-impeccable]] [[opencut-app-opencut]] [[garrytan-gstack]] [[pingdotgg-t3code]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]]
 

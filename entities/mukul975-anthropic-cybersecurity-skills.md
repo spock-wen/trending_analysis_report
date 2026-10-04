@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[anthropics-claude-code]] [[mattpocock-skills]]
+[[obra-superpowers]] [[nationalsecurityagency-ghidra]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

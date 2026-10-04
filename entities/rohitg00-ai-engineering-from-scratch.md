@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[getsentry-sentry]] [[vectorize-io-hindsight]]
+[[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

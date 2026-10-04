@@ -1,17 +1,17 @@
 ---
 title: "anthropics/financial-services"
-created: 2026-09-21
+created: 2026-05-08
 updated: 2026-09-25
 last_active: 2026-09-25
 type: tool
 tags: [python, rising]
 sources: [raw/trending/2026-09-25.json]
 confidence: high
-trending_count_daily: 5
+trending_count_daily: 9
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 5
-first_trending: 2026-09-21
+first_trending: 2026-05-08
 last_trending: 2026-09-25
 peak_rank: 1
 total_stars: 37339
@@ -23,7 +23,7 @@ language: "Python"
 No description
 
 - 语言: Python
-- 上榜次数: 5 次
+- 上榜次数: 9 次
 - 连续上榜: 5 天
 - 最高排名: #1
 - 链接: [anthropics/financial-services](https://github.com/anthropics/financial-services)
@@ -38,5 +38,5 @@ No description
 
 ## 相关项目
 
-[[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[getsentry-sentry]] [[jamwithai-production-agentic-rag-course]]
+[[earthtojake-text-to-cad]] [[panniantong-agent-reach]] [[getsentry-sentry]] [[calesthio-openmontage]]
 

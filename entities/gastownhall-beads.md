@@ -16,12 +16,6 @@ last_trending: 2026-04-28
 peak_rank: 1
 total_stars: 22179
 language: "Go"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:claude-code"
-domain_source: daily-report
 ---
 
 # gastownhall/beads
@@ -41,6 +35,7 @@ Beads - A memory upgrade for your coding agent
 
 ## 相关项目
 
-[[google-ax]] [[earendil-works-pi]] [[juliusbrussee-caveman]] [[affaan-m-ecc]] [[mattpocock-skills]]
+[[pbakaus-impeccable]] [[rakyll-hey]] [[openbao-openbao]] [[caddyserver-caddy]] [[juliusbrussee-caveman]]
 
-**所属领域**: ai-agent
+**所属领域**: [[ai-agent]]
+

@@ -4,7 +4,7 @@ created: 2026-05-03
 updated: 2026-05-03
 last_active: 2026-05-03
 type: tool
-tags: [tool]
+tags: [image-gen]
 sources: [raw/trending/2026-05-03.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-05-03
 peak_rank: 6
 total_stars: 36788
 language: "C#"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:screen-recorder; topic:screenshot"
-domain_source: daily-report
 ---
 
 # ShareX/ShareX
@@ -40,6 +34,7 @@ ShareX is a free and open-source application that enables users to capture or re
 
 ## 相关项目
 
-[[jellyfin-jellyfin]] [[dotnet-aspnetcore]] [[fxembed-fxembed]] [[trycua-cua]] [[actions-runner-images]]
+[[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]] [[actions-runner-images]] [[fxembed-fxembed]] [[sonarr-sonarr]]
 
-**所属领域**: tool
+**所属领域**: [[image-gen]]
+

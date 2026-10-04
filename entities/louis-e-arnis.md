@@ -4,7 +4,7 @@ created: 2026-03-20
 updated: 2026-03-22
 last_active: 2026-03-22
 type: tool
-tags: [rust, game]
+tags: [rust, ai-agent]
 sources: [raw/trending/2026-03-22.json]
 confidence: medium
 trending_count_daily: 2
@@ -16,12 +16,6 @@ last_trending: 2026-03-22
 peak_rank: 5
 total_stars: 12192
 language: "Rust"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:minecraft"
-domain_source: daily-report
 ---
 
 # louis-e/arnis
@@ -41,6 +35,7 @@ Generate any location from the real world in Minecraft with a high level of deta
 
 ## 相关项目
 
-[[earendil-works-pi]] [[nvidia-openshell]] [[block-buzz]] [[affaan-m-ecc]] [[obra-superpowers]]
+[[pbakaus-impeccable]] [[nvidia-openshell]] [[block-buzz]] [[garrytan-gstack]] [[t8y2-dbx]]
 
-**所属领域**: game
+**所属领域**: [[ai-agent]]
+

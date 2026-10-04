@@ -4,7 +4,7 @@ created: 2026-05-09
 updated: 2026-05-09
 last_active: 2026-05-09
 type: tool
-tags: [tool]
+tags: [ai-agent]
 sources: [raw/trending/2026-05-09.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-05-09
 peak_rank: 10
 total_stars: 1659
 language: "Dart"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "no-evidence"
-domain_source: daily-report
 ---
 
 # flutter/skills
@@ -40,6 +34,7 @@ No description
 
 ## 相关项目
 
-[[chen08209-flclash]] [[flutter-flutter]] [[earendil-works-pi]] [[localsend-localsend]] [[affaan-m-ecc]]
+[[pbakaus-impeccable]] [[chen08209-flclash]] [[flutter-flutter]] [[localsend-localsend]] [[garrytan-gstack]]
 
-**所属领域**: （无可靠依据，未判定）
+**所属领域**: [[ai-agent]]
+

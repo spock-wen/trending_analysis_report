@@ -4,7 +4,7 @@ created: 2026-05-01
 updated: 2026-05-01
 last_active: 2026-05-01
 type: tool
-tags: [zig, cli, game]
+tags: [cli]
 sources: [raw/trending/2026-05-01.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-05-01
 peak_rank: 8
 total_stars: 52841
 language: "Zig"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "desc:cli; desc:game"
-domain_source: github-api
 ---
 
 # ghostty-org/ghostty
@@ -40,6 +34,7 @@ domain_source: github-api
 
 ## 相关项目
 
-[[earendil-works-pi]] [[lightpanda-io-browser]] [[anthropics-claude-code]] [[obra-superpowers]] [[mattpocock-skills]]
+[[obra-superpowers]] [[mattpocock-skills]] [[earendil-works-pi]] [[lightpanda-io-browser]] [[panniantong-agent-reach]]
 
-**所属领域**: cli、game
+**所属领域**: [[cli]]
+

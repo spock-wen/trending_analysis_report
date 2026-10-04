@@ -1,17 +1,17 @@
 ---
 title: "kepano/obsidian-skills"
-created: 2026-08-14
+created: 2026-03-24
 updated: 2026-08-14
 last_active: 2026-08-14
 type: tool
 tags: [ai-agent, cli, education]
 sources: [raw/trending/2026-08-14.json]
-confidence: low
-trending_count_daily: 1
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
-first_trending: 2026-08-14
+first_trending: 2026-03-24
 last_trending: 2026-08-14
 peak_rank: 12
 total_stars: 45685
@@ -23,7 +23,7 @@ language: ""
 Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 
 - 语言: 未标注
-- 上榜次数: 1 次
+- 上榜次数: 2 次
 - 连续上榜: 1 天
 - 最高排名: #12
 - 链接: [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)
@@ -31,10 +31,11 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 ## 上榜历史
 
   - 2026-08-14: #12, +411⭐
+  - 2026-03-24: #12, +453⭐
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]] [[vectorize-io-hindsight]] [[jamwithai-production-agentic-rag-course]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]] [[earendil-works-pi]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

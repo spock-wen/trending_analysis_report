@@ -4,7 +4,7 @@ created: 2026-03-18
 updated: 2026-03-18
 last_active: 2026-03-18
 type: tool
-tags: [cpp, devops]
+tags: [cpp]
 sources: [raw/trending/2026-03-18.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-03-18
 peak_rank: 4
 total_stars: 7814
 language: "C++"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "desc:devops"
-domain_source: github-api
 ---
 
 # cloudflare/workerd
@@ -40,6 +34,5 @@ The JavaScript / Wasm runtime that powers Cloudflare Workers
 
 ## 相关项目
 
-[[firebase-firebase-ios-sdk]] [[fmtlib-fmt]] [[tensorflow-tensorflow]] [[harry7557558-spirula-studio]]
+[[harry7557558-spirula-studio]] [[tensorflow-tensorflow]] [[fmtlib-fmt]] [[firebase-firebase-ios-sdk]]
 
-**所属领域**: devops

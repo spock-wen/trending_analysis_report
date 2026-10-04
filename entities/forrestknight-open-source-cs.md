@@ -4,7 +4,7 @@ created: 2026-05-01
 updated: 2026-05-01
 last_active: 2026-05-01
 type: tool
-tags: [video]
+tags: [tool]
 sources: [raw/trending/2026-05-01.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-05-01
 peak_rank: 9
 total_stars: 22366
 language: ""
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "desc:video"
-domain_source: daily-report
 ---
 
 # ForrestKnight/open-source-cs
@@ -40,6 +34,5 @@ Video discussing this curriculum:
 
 ## 相关项目
 
-[[liquidslr-system-design-notes]] [[multica-ai-andrej-karpathy-skills]] [[kelseyhightower-kubernetes-the-hard-way]] [[ruanyf-weekly]]
+- 暂无
 
-**所属领域**: video

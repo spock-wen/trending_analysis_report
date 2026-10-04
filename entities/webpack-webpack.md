@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[trycua-cua]] [[hkuds-cli-anything]] [[averygan-reclip]] [[dietrichgebert-ponytail]] [[zhouxiaoka-autoclip]]
+[[pbakaus-impeccable]] [[dietrichgebert-ponytail]] [[addyosmani-agent-skills]] [[heygen-com-hyperframes]] [[caddyserver-caddy]]
 
 **所属领域**: [[web]] [[image-gen]]
 

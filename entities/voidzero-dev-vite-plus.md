@@ -4,7 +4,7 @@ created: 2026-03-16
 updated: 2026-03-17
 last_active: 2026-03-17
 type: tool
-tags: [rust, devops, tool]
+tags: [rust, ai-agent, web]
 sources: [raw/trending/2026-03-17.json]
 confidence: medium
 trending_count_daily: 2
@@ -16,12 +16,6 @@ last_trending: 2026-03-17
 peak_rank: 8
 total_stars: 2221
 language: "Rust"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "desc:devops; desc:tool"
-domain_source: github-api
 ---
 
 # voidzero-dev/vite-plus
@@ -41,6 +35,7 @@ Vite+ is the unified toolchain and entry point for web development. It manages y
 
 ## 相关项目
 
-[[earendil-works-pi]] [[nvidia-openshell]] [[block-buzz]] [[affaan-m-ecc]] [[heygen-com-hyperframes]]
+[[pbakaus-impeccable]] [[nvidia-openshell]] [[heygen-com-hyperframes]] [[caddyserver-caddy]] [[block-buzz]]
 
-**所属领域**: devops、tool
+**所属领域**: [[ai-agent]] [[web]]
+

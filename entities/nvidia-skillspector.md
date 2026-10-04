@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[nationalsecurityagency-ghidra]]
+[[nationalsecurityagency-ghidra]] [[pbakaus-impeccable]] [[calesthio-openmontage]] [[cloudflare-security-audit-skill]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

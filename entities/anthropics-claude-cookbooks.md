@@ -1,17 +1,17 @@
 ---
 title: "anthropics/claude-cookbooks"
-created: 2026-05-26
+created: 2026-04-15
 updated: 2026-07-26
 last_active: 2026-07-26
 type: tool
 tags: [python, ai-agent]
 sources: [raw/trending/2026-07-26.json]
 confidence: high
-trending_count_daily: 5
+trending_count_daily: 6
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
-first_trending: 2026-05-26
+first_trending: 2026-04-15
 last_trending: 2026-07-26
 peak_rank: 5
 total_stars: 49860
@@ -23,7 +23,7 @@ language: "Jupyter Notebook"
 A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 
 - 语言: Jupyter Notebook
-- 上榜次数: 5 次
+- 上榜次数: 6 次
 - 连续上榜: 1 天
 - 最高排名: #5
 - 链接: [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[microsoft-ai-for-beginners]] [[mattpocock-skills]] [[microsoft-generative-ai-for-beginners]]
+[[microsoft-generative-ai-for-beginners]] [[pbakaus-impeccable]] [[higgsfield-ai-higgsfield]] [[garrytan-gstack]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

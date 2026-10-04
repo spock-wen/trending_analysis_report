@@ -1,7 +1,7 @@
 ---
 title: "JavaScript Ecosystem Surge"
 created: 2026-07-03
-updated: 2026-10-04
+updated: 2026-10-05
 type: concept
 tags: [javascript, surge]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 信号概述
 
-2026-10-04 检测到 JavaScript 领域有 4 个项目同时上榜，表明该语言生态近期活跃度显著上升。
+2026-10-05 检测到 JavaScript 领域有 4 个项目同时上榜，表明该语言生态近期活跃度显著上升。
 
 ## 上榜项目（4 个）
 
-[[dietrichgebert-ponytail]] [[pbakaus-impeccable]] [[affaan-m-ecc]] [[addyosmani-agent-skills]]
+[[pbakaus-impeccable]] [[coreyhaines31-marketingskills]] [[dietrichgebert-ponytail]] [[addyosmani-agent-skills]]
 
 ## 语言分布
 

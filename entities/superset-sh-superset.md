@@ -4,7 +4,7 @@ created: 2026-03-04
 updated: 2026-03-04
 last_active: 2026-03-04
 type: tool
-tags: [typescript, ai-agent, cli, tool]
+tags: [typescript, ai-agent]
 sources: [raw/trending/2026-03-04.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-03-04
 peak_rank: 7
 total_stars: 4104
 language: "TypeScript"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:ai-agents; topic:claude-code; topic:cli; topic:desktop-app"
-domain_source: daily-report
 ---
 
 # superset-sh/superset
@@ -40,6 +34,7 @@ IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your mach
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[earendil-works-pi]] [[pingdotgg-t3code]] [[affaan-m-ecc]] [[anthropics-claude-code]]
+[[pbakaus-impeccable]] [[opencut-app-opencut]] [[garrytan-gstack]] [[pingdotgg-t3code]] [[panniantong-agent-reach]]
 
-**所属领域**: ai-agent、cli、tool
+**所属领域**: [[ai-agent]]
+

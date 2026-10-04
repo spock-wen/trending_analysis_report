@@ -38,7 +38,7 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[averygan-reclip]] [[dietrichgebert-ponytail]] [[pbakaus-impeccable]] [[rakyll-hey]]
+[[pbakaus-impeccable]] [[dietrichgebert-ponytail]] [[addyosmani-agent-skills]] [[heygen-com-hyperframes]] [[caddyserver-caddy]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

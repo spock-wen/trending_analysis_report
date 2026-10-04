@@ -4,7 +4,7 @@ created: 2026-04-05
 updated: 2026-04-07
 last_active: 2026-04-07
 type: tool
-tags: [rust, ai-agent]
+tags: [rust, ai-agent, rising]
 sources: [raw/trending/2026-04-07.json]
 confidence: high
 trending_count_daily: 3
@@ -16,12 +16,6 @@ last_trending: 2026-04-07
 peak_rank: 2
 total_stars: 38084
 language: "Rust"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:mcp"
-domain_source: daily-report
 ---
 
 # block/goose
@@ -42,6 +36,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[earendil-works-pi]] [[nvidia-openshell]] [[block-buzz]] [[affaan-m-ecc]] [[obra-superpowers]]
+[[pbakaus-impeccable]] [[nvidia-openshell]] [[block-buzz]] [[garrytan-gstack]] [[t8y2-dbx]]
 
-**所属领域**: ai-agent
+**所属领域**: [[ai-agent]]
+

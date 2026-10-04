@@ -1,19 +1,19 @@
 ---
 title: "openai/skills"
-created: 2026-09-07
+created: 2026-03-07
 updated: 2026-09-09
 last_active: 2026-09-09
 type: tool
 tags: [python, ai-agent, rising]
 sources: [raw/trending/2026-09-09.json]
 confidence: high
-trending_count_daily: 3
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 3
-first_trending: 2026-09-07
+first_trending: 2026-03-07
 last_trending: 2026-09-09
-peak_rank: 3
+peak_rank: 2
 total_stars: 26484
 language: "Python"
 ---
@@ -23,9 +23,9 @@ language: "Python"
 Skills Catalog for Codex
 
 - 语言: Python
-- 上榜次数: 3 次
+- 上榜次数: 5 次
 - 连续上榜: 3 天
-- 最高排名: #3
+- 最高排名: #2
 - 链接: [openai/skills](https://github.com/openai/skills)
 
 ## 上榜历史
@@ -33,10 +33,12 @@ Skills Catalog for Codex
   - 2026-09-09: #3, +490⭐
   - 2026-09-08: #11, +372⭐
   - 2026-09-07: #5, +44⭐
+  - 2026-03-08: #2, +947⭐
+  - 2026-03-07: #7, +582⭐
 
 ## 相关项目
 
-[[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[getsentry-sentry]] [[jamwithai-production-agentic-rag-course]]
+[[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]]
 

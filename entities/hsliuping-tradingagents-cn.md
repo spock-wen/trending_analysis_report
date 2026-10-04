@@ -4,7 +4,7 @@ created: 2026-03-22
 updated: 2026-03-26
 last_active: 2026-03-26
 type: tool
-tags: [python, ai-agent, finance]
+tags: [python, ai-agent, rising]
 sources: [raw/trending/2026-03-26.json]
 confidence: high
 trending_count_daily: 4
@@ -16,12 +16,6 @@ last_trending: 2026-03-26
 peak_rank: 8
 total_stars: 21291
 language: "Python"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "desc:ai-agent; desc:finance"
-domain_source: github-api
 ---
 
 # hsliuping/TradingAgents-CN
@@ -43,6 +37,7 @@ domain_source: github-api
 
 ## 相关项目
 
-[[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[obra-superpowers]]
+[[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[garrytan-gstack]]
 
-**所属领域**: ai-agent、finance
+**所属领域**: [[ai-agent]]
+

@@ -4,7 +4,7 @@ created: 2026-05-12
 updated: 2026-05-14
 last_active: 2026-05-14
 type: tool
-tags: [typescript, ai-agent, web]
+tags: [typescript, ai-agent, rising]
 sources: [raw/trending/2026-05-14.json]
 confidence: high
 trending_count_daily: 3
@@ -16,12 +16,6 @@ last_trending: 2026-05-14
 peak_rank: 6
 total_stars: 9257
 language: "TypeScript"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:react; desc:ai-agent"
-domain_source: daily-report
 ---
 
 # millionco/react-doctor
@@ -42,6 +36,7 @@ Your agent writes bad React. This catches it
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[earendil-works-pi]] [[pingdotgg-t3code]] [[affaan-m-ecc]] [[anthropics-claude-code]]
+[[pbakaus-impeccable]] [[opencut-app-opencut]] [[garrytan-gstack]] [[pingdotgg-t3code]] [[panniantong-agent-reach]]
 
-**所属领域**: ai-agent、web
+**所属领域**: [[ai-agent]]
+

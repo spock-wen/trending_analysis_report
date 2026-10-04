@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[averygan-reclip]] [[rakyll-hey]] [[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]]
+[[pbakaus-impeccable]] [[rohitg00-ai-engineering-from-scratch]] [[heygen-com-hyperframes]] [[caddyserver-caddy]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

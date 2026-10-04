@@ -16,12 +16,6 @@ last_trending: 2026-05-11
 peak_rank: 2
 total_stars: 10501
 language: "Python"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:ai-agent; topic:claude; topic:llm-agent"
-domain_source: daily-report
 ---
 
 # lsdefine/GenericAgent
@@ -43,6 +37,7 @@ Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system
 
 ## 相关项目
 
-[[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[obra-superpowers]]
+[[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[garrytan-gstack]]
 
-**所属领域**: ai-agent
+**所属领域**: [[ai-agent]]
+

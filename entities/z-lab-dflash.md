@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-05-09
 last_active: 2026-05-09
 type: tool
-tags: [python]
+tags: [python, image-gen]
 sources: [raw/trending/2026-05-09.json]
 confidence: high
 trending_count_daily: 3
@@ -16,12 +16,6 @@ last_trending: 2026-05-09
 peak_rank: 8
 total_stars: 3838
 language: "Python"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "no-evidence"
-domain_source: daily-report
 ---
 
 # z-lab/dflash
@@ -42,6 +36,7 @@ DFlash: Block Diffusion for Flash Speculative Decoding
 
 ## 相关项目
 
-[[fxembed-fxembed]] [[panniantong-agent-reach]] [[trycua-cua]] [[jamwithai-production-agentic-rag-course]] [[actions-runner-images]]
+[[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[actions-runner-images]] [[fxembed-fxembed]]
 
-**所属领域**: （无可靠依据，未判定）
+**所属领域**: [[image-gen]]
+

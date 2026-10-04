@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[pingdotgg-t3code]] [[averygan-reclip]] [[thedotmack-claude-mem]] [[anthropics-claude-code]]
+[[heygen-com-hyperframes]] [[caddyserver-caddy]] [[opencut-app-opencut]] [[garrytan-gstack]] [[tester-army-e2e]]
 
 **所属领域**: [[web]]
 

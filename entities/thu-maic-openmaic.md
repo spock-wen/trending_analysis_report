@@ -38,7 +38,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[anthropics-claude-code]] [[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]] [[cs341-illinois-coursebook]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]] [[earendil-works-pi]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

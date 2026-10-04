@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-18
 last_active: 2026-04-18
 type: tool
-tags: [python, ai-agent]
+tags: [python, ai-agent, rising]
 sources: [raw/trending/2026-04-18.json]
 confidence: high
 trending_count_daily: 3
@@ -16,12 +16,6 @@ last_trending: 2026-04-18
 peak_rank: 4
 total_stars: 15440
 language: "Python"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:ai; topic:deep-learning"
-domain_source: daily-report
 ---
 
 # google/magika
@@ -42,6 +36,7 @@ Fast and accurate AI powered file content types detection
 
 ## 相关项目
 
-[[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[obra-superpowers]]
+[[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[garrytan-gstack]]
 
-**所属领域**: ai-agent
+**所属领域**: [[ai-agent]]
+

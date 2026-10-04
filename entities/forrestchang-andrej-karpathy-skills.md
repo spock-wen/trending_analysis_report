@@ -16,12 +16,6 @@ last_trending: 2026-05-06
 peak_rank: 1
 total_stars: 113775
 language: ""
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "desc:ai-agent"
-domain_source: github-api
 ---
 
 # forrestchang/andrej-karpathy-skills
@@ -44,6 +38,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[kelseyhightower-kubernetes-the-hard-way]] [[earendil-works-pi]] [[ruanyf-weekly]] [[affaan-m-ecc]] [[liquidslr-system-design-notes]]
+[[pbakaus-impeccable]] [[garrytan-gstack]] [[thedotmack-claude-mem]] [[panniantong-agent-reach]]
 
-**所属领域**: ai-agent
+**所属领域**: [[ai-agent]]
+

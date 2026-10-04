@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]]
+[[rohitg00-ai-engineering-from-scratch]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[education]] [[science]]
 

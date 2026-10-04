@@ -4,7 +4,7 @@ created: 2026-03-06
 updated: 2026-03-06
 last_active: 2026-03-06
 type: tool
-tags: [ai-agent, tool]
+tags: [python, ai-agent, education]
 sources: [raw/trending/2026-03-06.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-03-06
 peak_rank: 6
 total_stars: 14883
 language: "Jupyter Notebook"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:mcp; desc:tool"
-domain_source: daily-report
 ---
 
 # microsoft/mcp-for-beginners
@@ -40,6 +34,7 @@ This open-source curriculum introduces the fundamentals of Model Context Protoco
 
 ## 相关项目
 
-[[vectorize-io-hindsight]] [[earendil-works-pi]] [[microsoft-ai-for-beginners]] [[cs341-illinois-coursebook]] [[jamwithai-production-agentic-rag-course]]
+[[microsoft-generative-ai-for-beginners]] [[pbakaus-impeccable]] [[higgsfield-ai-higgsfield]] [[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]]
 
-**所属领域**: ai-agent、tool
+**所属领域**: [[ai-agent]] [[education]]
+

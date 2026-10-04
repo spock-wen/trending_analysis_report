@@ -1,19 +1,19 @@
 ---
 title: "p-e-w/heretic"
-created: 2026-05-28
+created: 2026-03-15
 updated: 2026-09-01
 last_active: 2026-09-01
 type: tool
 tags: [python, rising]
 sources: [raw/trending/2026-09-01.json]
 confidence: high
-trending_count_daily: 5
+trending_count_daily: 8
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 3
-first_trending: 2026-05-28
+first_trending: 2026-03-15
 last_trending: 2026-09-01
-peak_rank: 5
+peak_rank: 2
 total_stars: 29626
 language: "Python"
 ---
@@ -23,9 +23,9 @@ language: "Python"
 Fully automatic censorship removal for language models
 
 - 语言: Python
-- 上榜次数: 5 次
+- 上榜次数: 8 次
 - 连续上榜: 3 天
-- 最高排名: #5
+- 最高排名: #2
 - 链接: [p-e-w/heretic](https://github.com/p-e-w/heretic)
 
 ## 上榜历史
@@ -38,5 +38,5 @@ Fully automatic censorship removal for language models
 
 ## 相关项目
 
-[[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[getsentry-sentry]] [[jamwithai-production-agentic-rag-course]]
+[[earthtojake-text-to-cad]] [[panniantong-agent-reach]] [[getsentry-sentry]] [[calesthio-openmontage]]
 

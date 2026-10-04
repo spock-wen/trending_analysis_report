@@ -4,7 +4,7 @@ created: 2026-03-05
 updated: 2026-03-05
 last_active: 2026-03-05
 type: framework
-tags: [typescript, ai-agent]
+tags: [typescript, ai-agent, erp]
 sources: [raw/trending/2026-03-05.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-03-05
 peak_rank: 7
 total_stars: 30817
 language: "TypeScript"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:ai-agents; topic:llm; topic:machine-learning; topic:rag"
-domain_source: daily-report
 ---
 
 # ItzCrazyKns/Perplexica
@@ -40,6 +34,7 @@ Perplexica is an AI-powered answering engine.
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[earendil-works-pi]] [[ever-co-ever-gauzy]] [[pingdotgg-t3code]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[earthtojake-text-to-cad]] [[opencut-app-opencut]] [[melgarafael-deskcommcrm]]
 
-**所属领域**: ai-agent
+**所属领域**: [[ai-agent]] [[erp]]
+

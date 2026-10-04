@@ -1,17 +1,17 @@
 ---
 title: "alirezarezvani/claude-skills"
-created: 2026-07-05
+created: 2026-03-10
 updated: 2026-07-07
 last_active: 2026-07-07
 type: framework
 tags: [python, ai-agent, cli, erp, science, rising]
 sources: [raw/trending/2026-07-07.json]
 confidence: high
-trending_count_daily: 3
+trending_count_daily: 4
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 3
-first_trending: 2026-07-05
+first_trending: 2026-03-10
 last_trending: 2026-07-07
 peak_rank: 5
 total_stars: 21126
@@ -23,7 +23,7 @@ language: "Python"
 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
 
 - 语言: Python
-- 上榜次数: 3 次
+- 上榜次数: 4 次
 - 连续上榜: 3 天
 - 最高排名: #5
 - 链接: [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)
@@ -33,10 +33,11 @@ language: "Python"
   - 2026-07-07: #6, +611⭐
   - 2026-07-06: #5, +394⭐
   - 2026-07-05: #17, +197⭐
+  - 2026-03-10: #8, +228⭐
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[danny-avila-librechat]] [[paperless-ngx-paperless-ngx]] [[ever-co-ever-gauzy]] [[meituan-longcat-longcat-video]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[calesthio-openmontage]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

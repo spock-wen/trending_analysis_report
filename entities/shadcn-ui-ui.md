@@ -4,7 +4,7 @@ created: 2026-03-08
 updated: 2026-03-08
 last_active: 2026-03-08
 type: framework
-tags: [typescript, web]
+tags: [typescript]
 sources: [raw/trending/2026-03-08.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-03-08
 peak_rank: 9
 total_stars: 108151
 language: "TypeScript"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:nextjs; topic:react"
-domain_source: daily-report
 ---
 
 # shadcn-ui/ui
@@ -40,6 +34,5 @@ A set of beautifully-designed, accessible components and a code distribution pla
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[earendil-works-pi]] [[anthropics-claude-code]]
+[[pingdotgg-t3code]] [[opencut-app-opencut]] [[garrytan-gstack]] [[thedotmack-claude-mem]]
 
-**所属领域**: web

@@ -4,7 +4,7 @@ created: 2026-04-25
 updated: 2026-04-26
 last_active: 2026-04-26
 type: tool
-tags: [tool]
+tags: [ai-agent]
 sources: [raw/trending/2026-04-26.json]
 confidence: medium
 trending_count_daily: 2
@@ -16,12 +16,6 @@ last_trending: 2026-04-26
 peak_rank: 2
 total_stars: 9487
 language: "Cuda"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "no-evidence"
-domain_source: github-api
 ---
 
 # deepseek-ai/DeepEP
@@ -41,6 +35,7 @@ DeepEP: an efficient expert-parallel communication library
 
 ## 相关项目
 
-[[earendil-works-pi]] [[affaan-m-ecc]] [[obra-superpowers]] [[moonshotai-flashkda]] [[deepseek-ai-deepgemm]]
+[[pbakaus-impeccable]] [[deepseek-ai-deepgemm]] [[moonshotai-flashkda]] [[garrytan-gstack]] [[panniantong-agent-reach]]
 
-**所属领域**: （无可靠依据，未判定）
+**所属领域**: [[ai-agent]]
+

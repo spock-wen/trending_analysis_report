@@ -34,7 +34,7 @@ Agent-driven research knowledge base. Agents collect, search, and synthesize web
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[hkuds-cli-anything]] [[paperless-ngx-paperless-ngx]] [[averygan-reclip]] [[meituan-longcat-longcat-video]]
+[[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[heygen-com-hyperframes]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

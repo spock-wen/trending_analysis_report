@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[trycua-cua]] [[hkuds-cli-anything]] [[coreyhaines31-marketingskills]] [[averygan-reclip]] [[t8y2-dbx]]
+[[cathrynlavery-diagram-design]] [[pbakaus-impeccable]] [[ripienaar-free-for-dev]] [[calesthio-openmontage]] [[openbao-openbao]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

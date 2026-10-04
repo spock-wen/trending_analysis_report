@@ -1,17 +1,17 @@
 ---
 title: "aaif-goose/goose"
-created: 2026-06-08
+created: 2026-05-08
 updated: 2026-06-10
 last_active: 2026-06-10
 type: tool
 tags: [rust, ai-agent, rising]
 sources: [raw/trending/2026-06-10.json]
 confidence: high
-trending_count_daily: 3
+trending_count_daily: 4
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 3
-first_trending: 2026-06-08
+first_trending: 2026-05-08
 last_trending: 2026-06-10
 peak_rank: 6
 total_stars: 48477
@@ -23,7 +23,7 @@ language: "Rust"
 an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 
 - 语言: Rust
-- 上榜次数: 3 次
+- 上榜次数: 4 次
 - 连续上榜: 3 天
 - 最高排名: #6
 - 链接: [aaif-goose/goose](https://github.com/aaif-goose/goose)
@@ -33,10 +33,11 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
   - 2026-06-10: #6, +490⭐
   - 2026-06-09: #16, +699⭐
   - 2026-06-08: #7, +338⭐
+  - 2026-05-08: #6, +431⭐
 
 ## 相关项目
 
-[[t8y2-dbx]] [[block-buzz]] [[mattpocock-skills]] [[nvidia-openshell]] [[earendil-works-pi]]
+[[pbakaus-impeccable]] [[nvidia-openshell]] [[block-buzz]] [[garrytan-gstack]] [[t8y2-dbx]]
 
 **所属领域**: [[ai-agent]]
 

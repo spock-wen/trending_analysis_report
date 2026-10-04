@@ -1,19 +1,19 @@
 ---
 title: "ruvnet/RuView"
-created: 2026-05-16
+created: 2026-03-04
 updated: 2026-09-15
 last_active: 2026-09-15
 type: tool
 tags: [rust, devops]
 sources: [raw/trending/2026-09-15.json]
 confidence: high
-trending_count_daily: 15
+trending_count_daily: 21
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
-first_trending: 2026-05-16
+first_trending: 2026-03-04
 last_trending: 2026-09-15
-peak_rank: 2
+peak_rank: 1
 total_stars: 93815
 language: "Rust"
 ---
@@ -23,9 +23,9 @@ language: "Rust"
 π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 
 - 语言: Rust
-- 上榜次数: 15 次
+- 上榜次数: 21 次
 - 连续上榜: 1 天
-- 最高排名: #2
+- 最高排名: #1
 - 链接: [ruvnet/RuView](https://github.com/ruvnet/RuView)
 
 ## 上榜历史
@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[t8y2-dbx]] [[block-buzz]] [[oblien-openship]] [[nvidia-model-optimizer]] [[davila7-claude-code-templates]]
+[[nvidia-openshell]] [[davila7-claude-code-templates]] [[getsentry-sentry]] [[block-buzz]] [[oblien-openship]]
 
 **所属领域**: [[devops]]
 

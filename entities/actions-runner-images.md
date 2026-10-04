@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[trycua-cua]] [[zhouxiaoka-autoclip]] [[raphire-win11debloat]] [[anthropics-claude-code]] [[fxembed-fxembed]]
+[[obra-superpowers]] [[mattpocock-skills]] [[earendil-works-pi]] [[zhaoxuya520-reverse-skill]] [[fxembed-fxembed]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

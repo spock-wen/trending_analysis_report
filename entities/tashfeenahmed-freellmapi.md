@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[anthropics-claude-code]] [[mattpocock-skills]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]]
+[[nationalsecurityagency-ghidra]] [[pbakaus-impeccable]] [[cloudflare-security-audit-skill]] [[opencut-app-opencut]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

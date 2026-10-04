@@ -1,19 +1,19 @@
 ---
 title: "dani-garcia/vaultwarden"
-created: 2026-08-25
+created: 2026-04-25
 updated: 2026-09-15
 last_active: 2026-09-15
 type: tool
 tags: [rust]
 sources: [raw/trending/2026-09-15.json]
-confidence: medium
-trending_count_daily: 2
+confidence: high
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
-first_trending: 2026-08-25
+first_trending: 2026-04-25
 last_trending: 2026-09-15
-peak_rank: 10
+peak_rank: 8
 total_stars: 67516
 language: "Rust"
 ---
@@ -23,17 +23,18 @@ language: "Rust"
 Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 
 - 语言: Rust
-- 上榜次数: 2 次
+- 上榜次数: 3 次
 - 连续上榜: 1 天
-- 最高排名: #10
+- 最高排名: #8
 - 链接: [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
 
 ## 上榜历史
 
   - 2026-09-15: #10, +110⭐
   - 2026-08-25: #16, +176⭐
+  - 2026-04-25: #8, +252⭐
 
 ## 相关项目
 
-[[nvidia-openshell]] [[block-buzz]] [[akitaonrails-ai-memory]] [[t8y2-dbx]]
+[[akitaonrails-ai-memory]] [[nvidia-openshell]] [[t8y2-dbx]] [[block-buzz]]
 

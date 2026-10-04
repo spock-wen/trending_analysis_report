@@ -4,7 +4,7 @@ created: 2026-05-12
 updated: 2026-05-12
 last_active: 2026-05-12
 type: tool
-tags: [python, ai-agent, image-gen, web]
+tags: [python, web, image-gen]
 sources: [raw/trending/2026-05-12.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-05-12
 peak_rank: 10
 total_stars: 162891
 language: "Python"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:ai; topic:deep-learning; topic:diffusion; topic:image-generation"
-domain_source: daily-report
 ---
 
 # AUTOMATIC1111/stable-diffusion-webui
@@ -40,6 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[fxembed-fxembed]] [[panniantong-agent-reach]] [[trycua-cua]] [[jamwithai-production-agentic-rag-course]] [[heygen-com-hyperframes]]
+[[calesthio-openmontage]] [[getsentry-sentry]] [[heygen-com-hyperframes]] [[earthtojake-text-to-cad]] [[caddyserver-caddy]]
 
-**所属领域**: ai-agent、image-gen、web
+**所属领域**: [[web]] [[image-gen]]
+

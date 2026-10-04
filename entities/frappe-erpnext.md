@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[danny-avila-librechat]] [[ever-co-ever-gauzy]] [[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[melgarafael-deskcommcrm]]
+[[obra-superpowers]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[melgarafael-deskcommcrm]]
 
 **所属领域**: [[erp]]
 

@@ -1,19 +1,19 @@
 ---
 title: "Anil-matcha/Open-Generative-AI"
-created: 2026-05-18
+created: 2026-04-24
 updated: 2026-06-28
 last_active: 2026-06-28
 type: tool
 tags: [ai-agent, image-gen]
 sources: [raw/trending/2026-06-28.json]
-confidence: medium
-trending_count_daily: 2
+confidence: high
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
-first_trending: 2026-05-18
+first_trending: 2026-04-24
 last_trending: 2026-06-28
-peak_rank: 5
+peak_rank: 4
 total_stars: 21361
 language: "JavaScript"
 ---
@@ -23,19 +23,22 @@ language: "JavaScript"
 Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 
 - 语言: JavaScript
-- 上榜次数: 2 次
+- 上榜次数: 5 次
 - 连续上榜: 1 天
-- 最高排名: #5
+- 最高排名: #4
 - 链接: [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 
 ## 上榜历史
 
   - 2026-06-28: #12, +254⭐
   - 2026-05-18: #5, +704⭐
+  - 2026-05-17: #4, +393⭐
+  - 2026-04-25: #9, +847⭐
+  - 2026-04-24: #4, +384⭐
 
 ## 相关项目
 
-[[trycua-cua]] [[zhouxiaoka-autoclip]] [[dietrichgebert-ponytail]] [[pbakaus-impeccable]] [[fxembed-fxembed]]
+[[pbakaus-impeccable]] [[dietrichgebert-ponytail]] [[addyosmani-agent-skills]] [[actions-runner-images]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

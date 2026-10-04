@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[obra-superpowers]] [[hkuds-cli-anything]] [[anthropics-claude-code]] [[rakyll-hey]] [[mattpocock-skills]]
+[[obra-superpowers]] [[cathrynlavery-diagram-design]] [[ripienaar-free-for-dev]] [[mattpocock-skills]] [[earendil-works-pi]]
 
 **所属领域**: [[web]] [[cli]]
 

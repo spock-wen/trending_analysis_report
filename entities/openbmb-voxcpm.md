@@ -1,19 +1,19 @@
 ---
 title: "OpenBMB/VoxCPM"
-created: 2026-05-31
+created: 2026-04-10
 updated: 2026-09-15
 last_active: 2026-09-15
 type: tool
 tags: [python, image-gen, audio]
 sources: [raw/trending/2026-09-15.json]
 confidence: high
-trending_count_daily: 6
+trending_count_daily: 9
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
-first_trending: 2026-05-31
+first_trending: 2026-04-10
 last_trending: 2026-09-15
-peak_rank: 7
+peak_rank: 4
 total_stars: 37341
 language: "Python"
 ---
@@ -23,9 +23,9 @@ language: "Python"
 VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 
 - 语言: Python
-- 上榜次数: 6 次
+- 上榜次数: 9 次
 - 连续上榜: 1 天
-- 最高排名: #7
+- 最高排名: #4
 - 链接: [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
 
 ## 上榜历史
@@ -38,7 +38,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[trycua-cua]] [[zhouxiaoka-autoclip]] [[jamiepine-voicebox]] [[meituan-longcat-longcat-video]] [[debpalash-voicestudio]]
+[[multimodal-art-projection-yue]] [[calesthio-openmontage]] [[jamiepine-voicebox]] [[getsentry-sentry]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

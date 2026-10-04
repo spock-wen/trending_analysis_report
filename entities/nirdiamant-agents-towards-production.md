@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[ever-co-ever-gauzy]] [[higgsfield-ai-higgsfield]]
+[[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[jamwithai-production-agentic-rag-course]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

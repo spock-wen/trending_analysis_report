@@ -4,7 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 last_active: 2026-04-18
 type: tool
-tags: [shell, ai-agent]
+tags: [shell, ai-agent, cli]
 sources: [raw/trending/2026-04-18.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-04-18
 peak_rank: 17
 total_stars: 3371
 language: "Shell"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "desc:ai-agent"
-domain_source: github-api
 ---
 
 # aaddrick/claude-desktop-debian
@@ -40,6 +34,7 @@ Claude Desktop for Debian-based Linux distributions
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[earendil-works-pi]] [[infinityloop1308-pipepipe]] [[affaan-m-ecc]] [[anthropics-claude-code]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[earendil-works-pi]] [[garrytan-gstack]]
 
-**所属领域**: ai-agent
+**所属领域**: [[ai-agent]] [[cli]]
+

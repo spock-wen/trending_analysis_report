@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[paperless-ngx-paperless-ngx]] [[rohitg00-ai-engineering-from-scratch]] [[paperclipai-paperclip]] [[mattpocock-skills]]
+[[pbakaus-impeccable]] [[rohitg00-ai-engineering-from-scratch]] [[zhaoxuya520-reverse-skill]] [[paperless-ngx-paperless-ngx]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

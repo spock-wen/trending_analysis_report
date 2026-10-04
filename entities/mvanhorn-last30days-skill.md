@@ -1,17 +1,17 @@
 ---
 title: "mvanhorn/last30days-skill"
-created: 2026-06-05
+created: 2026-03-25
 updated: 2026-08-31
 last_active: 2026-08-31
 type: tool
 tags: [python, ai-agent, web, science]
 sources: [raw/trending/2026-08-31.json]
 confidence: high
-trending_count_daily: 14
+trending_count_daily: 19
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
-first_trending: 2026-06-05
+first_trending: 2026-03-25
 last_trending: 2026-08-31
 peak_rank: 1
 total_stars: 60480
@@ -23,7 +23,7 @@ language: "Python"
 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
 - 语言: Python
-- 上榜次数: 14 次
+- 上榜次数: 19 次
 - 连续上榜: 1 天
 - 最高排名: #1
 - 链接: [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[hkuds-cli-anything]] [[paperless-ngx-paperless-ngx]] [[averygan-reclip]] [[meituan-longcat-longcat-video]]
+[[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[heygen-com-hyperframes]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

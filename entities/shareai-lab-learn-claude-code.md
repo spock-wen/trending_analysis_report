@@ -16,12 +16,6 @@ last_trending: 2026-03-30
 peak_rank: 4
 total_stars: 42631
 language: "TypeScript"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:agent; topic:ai-agent; topic:claude; topic:claude-code"
-domain_source: daily-report
 ---
 
 # shareAI-lab/learn-claude-code
@@ -43,6 +37,7 @@ Bash is all you need - A nano claude code–like 「agent harness」, built from
 
 ## 相关项目
 
-[[vectorize-io-hindsight]] [[thedotmack-claude-mem]] [[earendil-works-pi]] [[cs341-illinois-coursebook]] [[pingdotgg-t3code]]
+[[pbakaus-impeccable]] [[rohitg00-ai-engineering-from-scratch]] [[opencut-app-opencut]] [[garrytan-gstack]] [[cs341-illinois-coursebook]]
 
-**所属领域**: ai-agent、education
+**所属领域**: [[ai-agent]] [[education]]
+

@@ -4,7 +4,7 @@ created: 2026-05-06
 updated: 2026-05-08
 last_active: 2026-05-08
 type: tool
-tags: [python, ai-agent, data]
+tags: [python, data, rising]
 sources: [raw/trending/2026-05-08.json]
 confidence: high
 trending_count_daily: 3
@@ -16,12 +16,6 @@ last_trending: 2026-05-08
 peak_rank: 3
 total_stars: 6781
 language: "Python"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:machine-learning; desc:data"
-domain_source: daily-report
 ---
 
 # PriorLabs/TabPFN
@@ -42,6 +36,7 @@ domain_source: daily-report
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[deusdata-codebase-memory-mcp]] [[jamwithai-production-agentic-rag-course]] [[coreyhaines31-marketingskills]] [[getsentry-sentry]]
+[[calesthio-openmontage]] [[openbao-openbao]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[coreyhaines31-marketingskills]]
 
-**所属领域**: ai-agent、data
+**所属领域**: [[data]]
+

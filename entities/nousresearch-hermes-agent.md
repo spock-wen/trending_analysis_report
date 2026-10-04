@@ -1,19 +1,19 @@
 ---
 title: "NousResearch/hermes-agent"
-created: 2026-06-04
+created: 2026-03-10
 updated: 2026-09-07
 last_active: 2026-09-07
 type: tool
 tags: [python, ai-agent, science, rising]
 sources: [raw/trending/2026-09-07.json]
 confidence: high
-trending_count_daily: 12
+trending_count_daily: 29
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 5
-first_trending: 2026-06-04
+first_trending: 2026-03-10
 last_trending: 2026-09-07
-peak_rank: 2
+peak_rank: 1
 total_stars: 242516
 language: "Python"
 ---
@@ -23,9 +23,9 @@ language: "Python"
 The agent that grows with you
 
 - 语言: Python
-- 上榜次数: 12 次
+- 上榜次数: 29 次
 - 连续上榜: 5 天
-- 最高排名: #2
+- 最高排名: #1
 - 链接: [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 
 ## 上榜历史
@@ -38,7 +38,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[paperless-ngx-paperless-ngx]] [[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[paperclipai-paperclip]]
+[[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

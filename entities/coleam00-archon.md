@@ -4,7 +4,7 @@ created: 2026-04-10
 updated: 2026-04-14
 last_active: 2026-04-14
 type: tool
-tags: [typescript, ai-agent, cli]
+tags: [typescript, ai-agent, rising]
 sources: [raw/trending/2026-04-14.json]
 confidence: high
 trending_count_daily: 5
@@ -16,12 +16,6 @@ last_trending: 2026-04-14
 peak_rank: 1
 total_stars: 17597
 language: "TypeScript"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:ai; topic:claude; topic:cli"
-domain_source: daily-report
 ---
 
 # coleam00/Archon
@@ -44,6 +38,7 @@ The first open-source harness builder for AI coding. Make AI coding deterministi
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[earendil-works-pi]] [[pingdotgg-t3code]] [[affaan-m-ecc]] [[anthropics-claude-code]]
+[[pbakaus-impeccable]] [[opencut-app-opencut]] [[garrytan-gstack]] [[pingdotgg-t3code]] [[panniantong-agent-reach]]
 
-**所属领域**: ai-agent、cli
+**所属领域**: [[ai-agent]]
+

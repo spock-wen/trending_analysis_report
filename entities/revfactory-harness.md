@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[trycua-cua]] [[hkuds-cli-anything]] [[averygan-reclip]] [[rakyll-hey]] [[mattpocock-skills]]
+[[cathrynlavery-diagram-design]] [[pbakaus-impeccable]] [[ripienaar-free-for-dev]] [[heygen-com-hyperframes]] [[caddyserver-caddy]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

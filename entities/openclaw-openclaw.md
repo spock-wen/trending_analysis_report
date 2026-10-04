@@ -35,7 +35,7 @@ The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[anthropics-claude-code]] [[mattpocock-skills]] [[earendil-works-pi]] [[obra-superpowers]]
+[[pbakaus-impeccable]] [[opencut-app-opencut]] [[garrytan-gstack]] [[pingdotgg-t3code]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]]
 

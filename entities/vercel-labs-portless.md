@@ -34,7 +34,7 @@ Replace port numbers with stable, named local URLs. For humans and agents.
 
 ## 相关项目
 
-[[trycua-cua]] [[zhouxiaoka-autoclip]] [[thedotmack-claude-mem]] [[anthropics-claude-code]] [[fxembed-fxembed]]
+[[pbakaus-impeccable]] [[actions-runner-images]] [[opencut-app-opencut]] [[fxembed-fxembed]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

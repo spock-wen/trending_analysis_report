@@ -4,7 +4,7 @@ created: 2026-05-04
 updated: 2026-05-09
 last_active: 2026-05-09
 type: tool
-tags: [rust, ai-agent, cli]
+tags: [rust, ai-agent, cli, rising]
 sources: [raw/trending/2026-05-09.json]
 confidence: high
 trending_count_daily: 6
@@ -16,12 +16,6 @@ last_trending: 2026-05-09
 peak_rank: 1
 total_stars: 21707
 language: "Rust"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:cli; topic:deepseek; topic:llm; topic:terminal"
-domain_source: daily-report
 ---
 
 # Hmbown/DeepSeek-TUI
@@ -44,6 +38,7 @@ Coding agent for DeepSeek models that runs in your terminal
 
 ## 相关项目
 
-[[earendil-works-pi]] [[nvidia-openshell]] [[block-buzz]] [[affaan-m-ecc]] [[anthropics-claude-code]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[nvidia-openshell]] [[mattpocock-skills]] [[earendil-works-pi]]
 
-**所属领域**: ai-agent、cli
+**所属领域**: [[ai-agent]] [[cli]]
+

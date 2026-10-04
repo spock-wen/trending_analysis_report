@@ -1,17 +1,17 @@
 ---
 title: "1jehuang/jcode"
-created: 2026-06-21
+created: 2026-04-30
 updated: 2026-08-01
 last_active: 2026-08-01
 type: tool
 tags: [rust]
 sources: [raw/trending/2026-08-01.json]
 confidence: high
-trending_count_daily: 6
+trending_count_daily: 12
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
-first_trending: 2026-06-21
+first_trending: 2026-04-30
 last_trending: 2026-08-01
 peak_rank: 2
 total_stars: 14593
@@ -23,7 +23,7 @@ language: "Rust"
 The most RAM efficient harness
 
 - 语言: Rust
-- 上榜次数: 6 次
+- 上榜次数: 12 次
 - 连续上榜: 1 天
 - 最高排名: #2
 - 链接: [1jehuang/jcode](https://github.com/1jehuang/jcode)
@@ -38,5 +38,5 @@ The most RAM efficient harness
 
 ## 相关项目
 
-[[nvidia-openshell]] [[block-buzz]] [[akitaonrails-ai-memory]] [[t8y2-dbx]]
+[[akitaonrails-ai-memory]] [[nvidia-openshell]] [[t8y2-dbx]] [[block-buzz]]
 

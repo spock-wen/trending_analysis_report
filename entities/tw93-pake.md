@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[averygan-reclip]] [[t8y2-dbx]] [[anthropics-claude-code]] [[block-buzz]]
+[[obra-superpowers]] [[nvidia-openshell]] [[mattpocock-skills]] [[earendil-works-pi]] [[heygen-com-hyperframes]]
 
 **所属领域**: [[web]] [[cli]]
 

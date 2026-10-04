@@ -1,17 +1,17 @@
 ---
 title: "ChromeDevTools/chrome-devtools-mcp"
-created: 2026-05-22
+created: 2026-04-18
 updated: 2026-09-03
 last_active: 2026-09-03
 type: tool
 tags: [typescript, ai-agent, web]
 sources: [raw/trending/2026-09-03.json]
 confidence: high
-trending_count_daily: 8
+trending_count_daily: 10
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
-first_trending: 2026-05-22
+first_trending: 2026-04-18
 last_trending: 2026-09-03
 peak_rank: 5
 total_stars: 50617
@@ -23,7 +23,7 @@ language: "TypeScript"
 Chrome DevTools for coding agents
 
 - 语言: TypeScript
-- 上榜次数: 8 次
+- 上榜次数: 10 次
 - 连续上榜: 1 天
 - 最高排名: #5
 - 链接: [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
@@ -38,7 +38,7 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[averygan-reclip]] [[thedotmack-claude-mem]] [[anthropics-claude-code]] [[rakyll-hey]]
+[[pbakaus-impeccable]] [[heygen-com-hyperframes]] [[caddyserver-caddy]] [[opencut-app-opencut]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

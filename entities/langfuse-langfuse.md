@@ -16,12 +16,6 @@ last_trending: 2026-04-23
 peak_rank: 3
 total_stars: 25584
 language: "TypeScript"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:analytics; topic:langchain; topic:llm; topic:monitoring"
-domain_source: daily-report
 ---
 
 # langfuse/langfuse
@@ -40,6 +34,7 @@ domain_source: daily-report
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[earendil-works-pi]] [[oblien-openship]] [[pingdotgg-t3code]] [[deusdata-codebase-memory-mcp]]
+[[pbakaus-impeccable]] [[calesthio-openmontage]] [[openbao-openbao]] [[getsentry-sentry]] [[davila7-claude-code-templates]]
 
-**所属领域**: ai-agent、data、devops
+**所属领域**: [[ai-agent]] [[data]] [[devops]]
+

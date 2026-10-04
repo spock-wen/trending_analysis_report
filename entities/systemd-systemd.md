@@ -4,7 +4,7 @@ created: 2026-03-22
 updated: 2026-03-22
 last_active: 2026-03-22
 type: tool
-tags: [c, devops]
+tags: [tool]
 sources: [raw/trending/2026-03-22.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-03-22
 peak_rank: 6
 total_stars: 15715
 language: "C"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:linux; topic:systemd"
-domain_source: daily-report
 ---
 
 # systemd/systemd
@@ -40,6 +34,5 @@ The systemd System and Service Manager
 
 ## 相关项目
 
-[[deusdata-codebase-memory-mcp]] [[willfaust-madeira]] [[justvugg-colibri]] [[colbymchenry-codegraph]]
+[[antirez-ds4]] [[deusdata-codebase-memory-mcp]] [[willfaust-madeira]] [[colbymchenry-codegraph]]
 
-**所属领域**: devops

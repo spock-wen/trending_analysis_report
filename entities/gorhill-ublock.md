@@ -4,7 +4,7 @@ created: 2026-04-30
 updated: 2026-04-30
 last_active: 2026-04-30
 type: tool
-tags: [javascript, security, web]
+tags: [tool]
 sources: [raw/trending/2026-04-30.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-04-30
 peak_rank: 10
 total_stars: 64029
 language: "JavaScript"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:browser-extension; desc:security"
-domain_source: daily-report
 ---
 
 # gorhill/uBlock
@@ -40,6 +34,5 @@ uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[pbakaus-impeccable]] [[affaan-m-ecc]] [[dietrichgebert-ponytail]]
+[[dietrichgebert-ponytail]] [[coreyhaines31-marketingskills]] [[pbakaus-impeccable]] [[addyosmani-agent-skills]]
 
-**所属领域**: security、web

@@ -1,19 +1,19 @@
 ---
 title: "teng-lin/notebooklm-py"
-created: 2026-05-22
+created: 2026-03-10
 updated: 2026-05-22
 last_active: 2026-05-22
 type: tool
 tags: [python, ai-agent, web, cli]
 sources: [raw/trending/2026-05-22.json]
-confidence: low
-trending_count_daily: 1
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
-first_trending: 2026-05-22
+first_trending: 2026-03-10
 last_trending: 2026-05-22
-peak_rank: 10
+peak_rank: 9
 total_stars: 14355
 language: "Python"
 ---
@@ -23,18 +23,19 @@ language: "Python"
 Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
 
 - 语言: Python
-- 上榜次数: 1 次
+- 上榜次数: 2 次
 - 连续上榜: 1 天
-- 最高排名: #10
+- 最高排名: #9
 - 链接: [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)
 
 ## 上榜历史
 
   - 2026-05-22: #10, +182⭐
+  - 2026-03-10: #9, +457⭐
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[averygan-reclip]] [[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[rakyll-hey]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[calesthio-openmontage]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

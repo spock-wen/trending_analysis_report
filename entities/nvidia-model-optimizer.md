@@ -36,7 +36,7 @@ A unified library of SOTA model optimization techniques like quantization, disti
 
 ## 相关项目
 
-[[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[oblien-openship]] [[rohitg00-ai-engineering-from-scratch]] [[mattpocock-skills]]
+[[pbakaus-impeccable]] [[rohitg00-ai-engineering-from-scratch]] [[calesthio-openmontage]] [[davila7-claude-code-templates]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

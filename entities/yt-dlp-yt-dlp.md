@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[meituan-longcat-longcat-video]] [[debpalash-voicestudio]] [[panniantong-agent-reach]] [[anthropics-claude-code]]
+[[obra-superpowers]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[calesthio-openmontage]] [[jamiepine-voicebox]]
 
 **所属领域**: [[cli]] [[audio]]
 

@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[coreyhaines31-marketingskills]] [[deusdata-codebase-memory-mcp]] [[t8y2-dbx]] [[openbao-openbao]]
+[[pbakaus-impeccable]] [[rakyll-hey]] [[openbao-openbao]] [[calesthio-openmontage]] [[caddyserver-caddy]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

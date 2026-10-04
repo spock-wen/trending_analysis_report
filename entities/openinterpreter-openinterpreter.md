@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[danny-avila-librechat]] [[t8y2-dbx]] [[ever-co-ever-gauzy]] [[block-buzz]] [[melgarafael-deskcommcrm]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[nvidia-openshell]] [[earthtojake-text-to-cad]] [[block-buzz]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

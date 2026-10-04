@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[t8y2-dbx]] [[block-buzz]] [[mattpocock-skills]] [[nvidia-openshell]] [[earendil-works-pi]]
+[[pbakaus-impeccable]] [[nvidia-openshell]] [[block-buzz]] [[garrytan-gstack]] [[t8y2-dbx]]
 
 **所属领域**: [[ai-agent]]
 

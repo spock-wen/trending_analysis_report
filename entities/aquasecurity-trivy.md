@@ -1,19 +1,19 @@
 ---
 title: "aquasecurity/trivy"
-created: 2026-06-04
-updated: 2026-06-06
-last_active: 2026-06-06
+created: 2026-03-04
+updated: 2026-06-07
+last_active: 2026-06-07
 type: tool
 tags: [go, ai-agent, security, rising]
-sources: [raw/trending/2026-06-06.json]
+sources: [raw/trending/2026-06-07.json]
 confidence: high
-trending_count_daily: 3
+trending_count_daily: 9
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 3
-first_trending: 2026-06-04
-last_trending: 2026-06-06
-peak_rank: 3
+consecutive_days: 4
+first_trending: 2026-03-04
+last_trending: 2026-06-07
+peak_rank: 1
 total_stars: 35971
 language: "Go"
 ---
@@ -23,9 +23,9 @@ language: "Go"
 Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 - 语言: Go
-- 上榜次数: 3 次
-- 连续上榜: 3 天
-- 最高排名: #3
+- 上榜次数: 9 次
+- 连续上榜: 4 天
+- 最高排名: #1
 - 链接: [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
 
 ## 上榜历史
@@ -34,10 +34,11 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
   - 2026-06-06: #17, +208⭐
   - 2026-06-05: #11, +255⭐
   - 2026-06-04: #3, +26⭐
+  - 2026-03-25: #10, +103⭐
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[openbao-openbao]] [[rakyll-hey]] [[google-ax]] [[mattpocock-skills]]
+[[nationalsecurityagency-ghidra]] [[pbakaus-impeccable]] [[rakyll-hey]] [[openbao-openbao]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

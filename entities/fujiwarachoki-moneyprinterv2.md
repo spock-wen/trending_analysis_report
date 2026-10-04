@@ -4,7 +4,7 @@ created: 2026-03-24
 updated: 2026-03-24
 last_active: 2026-03-24
 type: tool
-tags: [python, cli]
+tags: [python]
 sources: [raw/trending/2026-03-24.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-03-24
 peak_rank: 1
 total_stars: 22828
 language: "Python"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:cli"
-domain_source: daily-report
 ---
 
 # FujiwaraChoki/MoneyPrinterV2
@@ -40,6 +34,5 @@ Automate the process of making money online.
 
 ## 相关项目
 
-[[getsentry-sentry]] [[jamwithai-production-agentic-rag-course]] [[panniantong-agent-reach]] [[meituan-longcat-longcat-video]]
+[[earthtojake-text-to-cad]] [[panniantong-agent-reach]] [[getsentry-sentry]] [[calesthio-openmontage]]
 
-**所属领域**: cli

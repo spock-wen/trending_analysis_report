@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[averygan-reclip]] [[anthropics-claude-code]] [[rakyll-hey]] [[mattpocock-skills]]
+[[obra-superpowers]] [[mattpocock-skills]] [[earendil-works-pi]] [[heygen-com-hyperframes]] [[caddyserver-caddy]]
 
 **所属领域**: [[web]] [[cli]]
 

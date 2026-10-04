@@ -34,5 +34,5 @@ C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 
 ## 相关项目
 
-[[harry7557558-spirula-studio]] [[firebase-firebase-ios-sdk]] [[fmtlib-fmt]] [[tensorflow-tensorflow]]
+[[harry7557558-spirula-studio]] [[tensorflow-tensorflow]] [[fmtlib-fmt]] [[firebase-firebase-ios-sdk]]
 

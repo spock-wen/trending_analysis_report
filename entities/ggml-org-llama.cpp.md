@@ -16,12 +16,6 @@ last_trending: 2026-04-07
 peak_rank: 7
 total_stars: 102010
 language: "C++"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "desc:ai-agent"
-domain_source: daily-report
 ---
 
 # ggml-org/llama.cpp
@@ -40,6 +34,7 @@ LLM inference in C/C++
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[earendil-works-pi]] [[firebase-firebase-ios-sdk]] [[affaan-m-ecc]] [[obra-superpowers]]
+[[pbakaus-impeccable]] [[harry7557558-spirula-studio]] [[thedotmack-claude-mem]] [[firebase-firebase-ios-sdk]] [[garrytan-gstack]]
 
-**所属领域**: ai-agent
+**所属领域**: [[ai-agent]]
+

@@ -34,5 +34,5 @@ Neural Networks: Zero to Hero
 
 ## 相关项目
 
-[[higgsfield-ai-higgsfield]] [[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]]
+[[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]] [[higgsfield-ai-higgsfield]] [[lyogavin-airllm]]
 

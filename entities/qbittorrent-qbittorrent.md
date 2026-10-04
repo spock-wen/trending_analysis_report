@@ -16,12 +16,6 @@ last_trending: 2026-05-05
 peak_rank: 9
 total_stars: 37038
 language: "C++"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "desc:cli"
-domain_source: daily-report
 ---
 
 # qbittorrent/qBittorrent
@@ -40,6 +34,7 @@ qBittorrent BitTorrent client
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[earendil-works-pi]] [[firebase-firebase-ios-sdk]] [[anthropics-claude-code]] [[obra-superpowers]]
+[[obra-superpowers]] [[harry7557558-spirula-studio]] [[mattpocock-skills]] [[earendil-works-pi]] [[firebase-firebase-ios-sdk]]
 
-**所属领域**: cli
+**所属领域**: [[cli]]
+

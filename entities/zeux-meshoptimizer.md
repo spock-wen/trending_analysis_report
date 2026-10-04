@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[danny-avila-librechat]] [[firebase-firebase-ios-sdk]] [[ever-co-ever-gauzy]] [[tensorflow-tensorflow]]
+[[obra-superpowers]] [[ever-co-ever-gauzy]] [[harry7557558-spirula-studio]] [[earthtojake-text-to-cad]] [[firebase-firebase-ios-sdk]]
 
 **所属领域**: [[erp]]
 

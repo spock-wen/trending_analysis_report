@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[mattpocock-skills]] [[infinityloop1308-pipepipe]] [[nvm-sh-nvm]] [[earendil-works-pi]]
+[[obra-superpowers]] [[mattpocock-skills]] [[earendil-works-pi]] [[infinityloop1308-pipepipe]] [[nvm-sh-nvm]]
 
 **所属领域**: [[cli]]
 

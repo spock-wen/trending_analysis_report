@@ -4,7 +4,7 @@ created: 2026-05-13
 updated: 2026-05-14
 last_active: 2026-05-14
 type: tool
-tags: [go, security]
+tags: [go]
 sources: [raw/trending/2026-05-14.json]
 confidence: medium
 trending_count_daily: 2
@@ -16,12 +16,6 @@ last_trending: 2026-05-14
 peak_rank: 4
 total_stars: 20602
 language: "Go"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:vpn"
-domain_source: daily-report
 ---
 
 # apernet/hysteria
@@ -41,6 +35,5 @@ Hysteria is a powerful, lightning fast and censorship resistant proxy.
 
 ## 相关项目
 
-[[google-ax]] [[openbao-openbao]] [[rakyll-hey]] [[juliusbrussee-caveman]]
+[[openbao-openbao]] [[caddyserver-caddy]] [[rakyll-hey]] [[juliusbrussee-caveman]]
 
-**所属领域**: security

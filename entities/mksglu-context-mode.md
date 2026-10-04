@@ -1,17 +1,17 @@
 ---
 title: "mksglu/context-mode"
-created: 2026-09-08
+created: 2026-05-06
 updated: 2026-10-04
 last_active: 2026-10-04
 type: tool
 tags: [typescript, ai-agent, rising]
 sources: [raw/trending/2026-10-04.json]
 confidence: high
-trending_count_daily: 6
+trending_count_daily: 7
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 4
-first_trending: 2026-09-08
+first_trending: 2026-05-06
 last_trending: 2026-10-04
 peak_rank: 3
 total_stars: 25237
@@ -23,7 +23,7 @@ language: "TypeScript"
 Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
 
 - 语言: TypeScript
-- 上榜次数: 6 次
+- 上榜次数: 7 次
 - 连续上榜: 4 天
 - 最高排名: #3
 - 链接: [mksglu/context-mode](https://github.com/mksglu/context-mode)
@@ -38,7 +38,7 @@ Context window optimization for AI coding agents. Sandboxes tool output (98% red
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[anthropics-claude-code]] [[mattpocock-skills]] [[earendil-works-pi]] [[obra-superpowers]]
+[[pbakaus-impeccable]] [[opencut-app-opencut]] [[garrytan-gstack]] [[pingdotgg-t3code]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]]
 

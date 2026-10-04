@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[fmtlib-fmt]] [[coreyhaines31-marketingskills]] [[firebase-firebase-ios-sdk]] [[deusdata-codebase-memory-mcp]] [[t8y2-dbx]]
+[[harry7557558-spirula-studio]] [[calesthio-openmontage]] [[openbao-openbao]] [[firebase-firebase-ios-sdk]] [[coreyhaines31-marketingskills]]
 
 **所属领域**: [[data]]
 

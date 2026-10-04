@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[pingdotgg-t3code]] [[averygan-reclip]] [[thedotmack-claude-mem]] [[anthropics-claude-code]]
+[[obra-superpowers]] [[mattpocock-skills]] [[earendil-works-pi]] [[heygen-com-hyperframes]] [[caddyserver-caddy]]
 
 **所属领域**: [[web]] [[cli]]
 

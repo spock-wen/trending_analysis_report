@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[deusdata-codebase-memory-mcp]] [[t8y2-dbx]] [[openbao-openbao]] [[meituan-longcat-longcat-video]]
+[[calesthio-openmontage]] [[openbao-openbao]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[coreyhaines31-marketingskills]]
 
 **所属领域**: [[data]]
 

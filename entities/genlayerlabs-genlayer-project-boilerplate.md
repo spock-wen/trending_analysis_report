@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[danny-avila-librechat]] [[ever-co-ever-gauzy]] [[thedotmack-claude-mem]] [[anthropics-claude-code]] [[melgarafael-deskcommcrm]]
+[[obra-superpowers]] [[earthtojake-text-to-cad]] [[opencut-app-opencut]] [[melgarafael-deskcommcrm]] [[garrytan-gstack]]
 
 **所属领域**: [[erp]]
 

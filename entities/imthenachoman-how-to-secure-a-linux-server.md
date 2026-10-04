@@ -1,17 +1,17 @@
 ---
 title: "imthenachoman/How-To-Secure-A-Linux-Server"
-created: 2026-07-10
+created: 2026-05-14
 updated: 2026-07-10
 last_active: 2026-07-10
 type: tool
 tags: [tool]
 sources: [raw/trending/2026-07-10.json]
-confidence: low
-trending_count_daily: 1
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
-first_trending: 2026-07-10
+first_trending: 2026-05-14
 last_trending: 2026-07-10
 peak_rank: 10
 total_stars: 29053
@@ -23,7 +23,7 @@ language: ""
 An evolving how-to guide for securing a Linux server.
 
 - 语言: 未标注
-- 上榜次数: 1 次
+- 上榜次数: 2 次
 - 连续上榜: 1 天
 - 最高排名: #10
 - 链接: [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
@@ -31,6 +31,7 @@ An evolving how-to guide for securing a Linux server.
 ## 上榜历史
 
   - 2026-07-10: #10, +306⭐
+  - 2026-05-14: #14, +233⭐
 
 ## 相关项目
 

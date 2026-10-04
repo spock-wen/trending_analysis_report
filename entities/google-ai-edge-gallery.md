@@ -4,7 +4,7 @@ created: 2026-04-06
 updated: 2026-04-09
 last_active: 2026-04-09
 type: tool
-tags: [kotlin]
+tags: [ai-agent, rising]
 sources: [raw/trending/2026-04-09.json]
 confidence: high
 trending_count_daily: 4
@@ -16,12 +16,6 @@ last_trending: 2026-04-09
 peak_rank: 1
 total_stars: 19482
 language: "Kotlin"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "no-evidence"
-domain_source: github-api
 ---
 
 # google-ai-edge/gallery
@@ -43,6 +37,7 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 
 ## 相关项目
 
-[[earendil-works-pi]] [[affaan-m-ecc]] [[andreknieriem-headunit-revived]] [[obra-superpowers]] [[bannedbook-fanqiang]]
+[[mahlernim-google-timeline-visualizer]] [[bannedbook-fanqiang]] [[pbakaus-impeccable]] [[garrytan-gstack]] [[andreknieriem-headunit-revived]]
 
-**所属领域**: （无可靠依据，未判定）
+**所属领域**: [[ai-agent]]
+

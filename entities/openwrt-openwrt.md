@@ -4,7 +4,7 @@ created: 2026-05-04
 updated: 2026-05-04
 last_active: 2026-05-04
 type: tool
-tags: [c]
+tags: [web]
 sources: [raw/trending/2026-05-04.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-05-04
 peak_rank: 9
 total_stars: 26603
 language: "C"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "no-evidence"
-domain_source: github-api
 ---
 
 # openwrt/openwrt
@@ -40,6 +34,7 @@ This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is
 
 ## 相关项目
 
-[[justvugg-colibri]] [[deusdata-codebase-memory-mcp]] [[heygen-com-hyperframes]] [[hkuds-cli-anything]] [[averygan-reclip]]
+[[willfaust-madeira]] [[antirez-ds4]] [[heygen-com-hyperframes]] [[caddyserver-caddy]] [[tester-army-e2e]]
 
-**所属领域**: （无可靠依据，未判定）
+**所属领域**: [[web]]
+

@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[anthropics-claude-code]] [[nvidia-model-optimizer]] [[davila7-claude-code-templates]] [[getsentry-sentry]]
+[[davila7-claude-code-templates]] [[getsentry-sentry]] [[opencut-app-opencut]] [[nvidia-model-optimizer]] [[garrytan-gstack]]
 
 **所属领域**: [[devops]]
 

@@ -4,7 +4,7 @@ created: 2026-03-19
 updated: 2026-03-19
 last_active: 2026-03-19
 type: tool
-tags: [cpp, devops, game, tool]
+tags: [cpp]
 sources: [raw/trending/2026-03-19.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-03-19
 peak_rank: 4
 total_stars: 29839
 language: "C++"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:emulation; topic:emulator; topic:linux; topic:windows"
-domain_source: daily-report
 ---
 
 # shadps4-emu/shadPS4
@@ -40,6 +34,5 @@ PlayStation 4 emulator for Windows, Linux and macOS written in C++
 
 ## 相关项目
 
-[[firebase-firebase-ios-sdk]] [[fmtlib-fmt]] [[tensorflow-tensorflow]] [[harry7557558-spirula-studio]]
+[[harry7557558-spirula-studio]] [[tensorflow-tensorflow]] [[fmtlib-fmt]] [[firebase-firebase-ios-sdk]]
 
-**所属领域**: devops、game、tool

@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[rohitg00-ai-engineering-from-scratch]] [[getsentry-sentry]] [[vectorize-io-hindsight]]
+[[rohitg00-ai-engineering-from-scratch]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[cs341-illinois-coursebook]]
 
 **所属领域**: [[education]]
 

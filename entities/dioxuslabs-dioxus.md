@@ -35,7 +35,7 @@ Fullstack app framework for web, desktop, and mobile.
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[averygan-reclip]] [[t8y2-dbx]] [[block-buzz]] [[rakyll-hey]]
+[[nvidia-openshell]] [[heygen-com-hyperframes]] [[caddyserver-caddy]] [[block-buzz]] [[tester-army-e2e]]
 
 **所属领域**: [[web]]
 

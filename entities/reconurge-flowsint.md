@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[anthropics-claude-code]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]] [[zhaoxuya520-reverse-skill]]
+[[nationalsecurityagency-ghidra]] [[cloudflare-security-audit-skill]] [[opencut-app-opencut]] [[zhaoxuya520-reverse-skill]] [[garrytan-gstack]]
 
 **所属领域**: [[security]]
 

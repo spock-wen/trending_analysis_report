@@ -4,7 +4,7 @@ created: 2026-03-07
 updated: 2026-03-07
 last_active: 2026-03-07
 type: tool
-tags: [python, ai-agent]
+tags: [python, ai-agent, web]
 sources: [raw/trending/2026-03-07.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-03-07
 peak_rank: 6
 total_stars: 762
 language: "Python"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "desc:ai-agent"
-domain_source: github-api
 ---
 
 # lingfengQAQ/webnovel-writer
@@ -40,6 +34,7 @@ domain_source: github-api
 
 ## 相关项目
 
-[[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]] [[heygen-com-hyperframes]]
+[[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[heygen-com-hyperframes]] [[earthtojake-text-to-cad]]
 
-**所属领域**: ai-agent
+**所属领域**: [[ai-agent]] [[web]]
+

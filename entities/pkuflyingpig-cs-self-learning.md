@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[averygan-reclip]] [[rakyll-hey]] [[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]]
+[[cathrynlavery-diagram-design]] [[rohitg00-ai-engineering-from-scratch]] [[ripienaar-free-for-dev]] [[heygen-com-hyperframes]] [[caddyserver-caddy]]
 
 **所属领域**: [[web]] [[education]]
 

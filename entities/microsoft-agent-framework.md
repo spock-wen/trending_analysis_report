@@ -4,7 +4,7 @@ created: 2026-04-05
 updated: 2026-04-05
 last_active: 2026-04-05
 type: framework
-tags: [python, ai-agent]
+tags: [python, ai-agent, devops]
 sources: [raw/trending/2026-04-05.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-04-05
 peak_rank: 7
 total_stars: 8691
 language: "Python"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:ai; topic:multi-agent"
-domain_source: daily-report
 ---
 
 # microsoft/agent-framework
@@ -40,6 +34,7 @@ A framework for building, orchestrating and deploying AI agents and multi-agent 
 
 ## 相关项目
 
-[[oblien-openship]] [[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]]
+[[pbakaus-impeccable]] [[calesthio-openmontage]] [[davila7-claude-code-templates]] [[getsentry-sentry]] [[earthtojake-text-to-cad]]
 
-**所属领域**: ai-agent
+**所属领域**: [[ai-agent]] [[devops]]
+

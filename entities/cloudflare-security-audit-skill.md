@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[nationalsecurityagency-ghidra]] [[zhaoxuya520-reverse-skill]]
+[[nationalsecurityagency-ghidra]] [[pbakaus-impeccable]] [[dietrichgebert-ponytail]] [[addyosmani-agent-skills]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

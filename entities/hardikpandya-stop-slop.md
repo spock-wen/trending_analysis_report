@@ -38,7 +38,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[earendil-works-pi]] [[obra-superpowers]] [[mattpocock-skills]] [[affaan-m-ecc]]
+[[pbakaus-impeccable]] [[garrytan-gstack]] [[thedotmack-claude-mem]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]]
 

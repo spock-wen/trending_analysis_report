@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[meituan-longcat-longcat-video]] [[debpalash-voicestudio]] [[panniantong-agent-reach]] [[rohitg00-ai-engineering-from-scratch]]
+[[pbakaus-impeccable]] [[rohitg00-ai-engineering-from-scratch]] [[multimodal-art-projection-yue]] [[calesthio-openmontage]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

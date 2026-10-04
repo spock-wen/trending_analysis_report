@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[deusdata-codebase-memory-mcp]] [[t8y2-dbx]] [[openbao-openbao]] [[thedotmack-claude-mem]]
+[[calesthio-openmontage]] [[openbao-openbao]] [[getsentry-sentry]] [[davila7-claude-code-templates]] [[opencut-app-opencut]]
 
 **所属领域**: [[data]] [[devops]]
 

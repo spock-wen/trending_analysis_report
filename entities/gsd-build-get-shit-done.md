@@ -4,7 +4,7 @@ created: 2026-03-20
 updated: 2026-04-14
 last_active: 2026-04-14
 type: framework
-tags: [javascript, ai-agent]
+tags: [ai-agent]
 sources: [raw/trending/2026-04-14.json]
 confidence: medium
 trending_count_daily: 2
@@ -16,12 +16,6 @@ last_trending: 2026-04-14
 peak_rank: 6
 total_stars: 52075
 language: "JavaScript"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:claude-code"
-domain_source: daily-report
 ---
 
 # gsd-build/get-shit-done
@@ -41,6 +35,7 @@ A light-weight and powerful meta-prompting, context engineering and spec-driven 
 
 ## 相关项目
 
-[[earendil-works-pi]] [[addyosmani-agent-skills]] [[pbakaus-impeccable]] [[affaan-m-ecc]] [[obra-superpowers]]
+[[pbakaus-impeccable]] [[dietrichgebert-ponytail]] [[addyosmani-agent-skills]] [[coreyhaines31-marketingskills]] [[garrytan-gstack]]
 
-**所属领域**: ai-agent
+**所属领域**: [[ai-agent]]
+

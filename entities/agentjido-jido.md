@@ -16,12 +16,6 @@ last_trending: 2026-03-08
 peak_rank: 4
 total_stars: 1414
 language: "Elixir"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:agent; topic:ai"
-domain_source: daily-report
 ---
 
 # agentjido/jido
@@ -40,6 +34,7 @@ domain_source: daily-report
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[plausible-analytics]] [[earendil-works-pi]] [[affaan-m-ecc]] [[obra-superpowers]]
+[[pbakaus-impeccable]] [[teslamate-org-teslamate]] [[plausible-analytics]] [[garrytan-gstack]] [[panniantong-agent-reach]]
 
-**所属领域**: ai-agent
+**所属领域**: [[ai-agent]]
+

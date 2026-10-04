@@ -30,12 +30,11 @@ Claude Skill: Multi-source content processor for NotebookLM.
 
 ## 上榜历史
 
-  - 2026-05-17: #12, +438⭐
   - 2026-05-16: #12, +438⭐
 
 ## 相关项目
 
-[[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[getsentry-sentry]] [[jamwithai-production-agentic-rag-course]]
+[[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]]
 

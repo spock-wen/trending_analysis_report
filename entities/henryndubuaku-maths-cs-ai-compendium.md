@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[paperless-ngx-paperless-ngx]] [[thedotmack-claude-mem]] [[anthropics-claude-code]] [[paperclipai-paperclip]] [[mattpocock-skills]]
+[[pbakaus-impeccable]] [[opencut-app-opencut]] [[zhaoxuya520-reverse-skill]] [[paperless-ngx-paperless-ngx]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

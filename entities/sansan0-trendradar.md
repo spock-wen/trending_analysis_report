@@ -4,7 +4,7 @@ created: 2026-04-23
 updated: 2026-04-23
 last_active: 2026-04-23
 type: tool
-tags: [python, ai-agent, data, devops]
+tags: [python, ai-agent, devops]
 sources: [raw/trending/2026-04-23.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-04-23
 peak_rank: 6
 total_stars: 54408
 language: "Python"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:ai; topic:data-analysis; topic:docker; topic:llm"
-domain_source: daily-report
 ---
 
 # sansan0/TrendRadar
@@ -40,6 +34,7 @@ domain_source: daily-report
 
 ## 相关项目
 
-[[oblien-openship]] [[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]]
+[[pbakaus-impeccable]] [[calesthio-openmontage]] [[davila7-claude-code-templates]] [[getsentry-sentry]] [[earthtojake-text-to-cad]]
 
-**所属领域**: ai-agent、data、devops
+**所属领域**: [[ai-agent]] [[devops]]
+

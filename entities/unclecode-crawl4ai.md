@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[averygan-reclip]] [[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[rakyll-hey]]
+[[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[heygen-com-hyperframes]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

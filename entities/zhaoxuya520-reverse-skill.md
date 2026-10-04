@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[paperless-ngx-paperless-ngx]] [[raphire-win11debloat]] [[anthropics-claude-code]] [[paperclipai-paperclip]] [[mattpocock-skills]]
+[[obra-superpowers]] [[nationalsecurityagency-ghidra]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

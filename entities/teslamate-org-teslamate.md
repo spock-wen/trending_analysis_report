@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[deusdata-codebase-memory-mcp]] [[t8y2-dbx]] [[openbao-openbao]] [[mattpocock-skills]]
+[[pbakaus-impeccable]] [[calesthio-openmontage]] [[openbao-openbao]] [[agentjido-jido]] [[plausible-analytics]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

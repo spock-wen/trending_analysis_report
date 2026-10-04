@@ -4,7 +4,7 @@ created: 2026-03-08
 updated: 2026-03-11
 last_active: 2026-03-11
 type: tool
-tags: [ai-agent]
+tags: [python, ai-agent]
 sources: [raw/trending/2026-03-11.json]
 confidence: high
 trending_count_daily: 3
@@ -16,12 +16,6 @@ last_trending: 2026-03-11
 peak_rank: 1
 total_stars: 15708
 language: "Jupyter Notebook"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:langchain; topic:llm"
-domain_source: daily-report
 ---
 
 # GoogleCloudPlatform/generative-ai
@@ -42,6 +36,7 @@ Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vert
 
 ## 相关项目
 
-[[earendil-works-pi]] [[microsoft-ai-for-beginners]] [[affaan-m-ecc]] [[lyogavin-airllm]] [[obra-superpowers]]
+[[microsoft-generative-ai-for-beginners]] [[pbakaus-impeccable]] [[higgsfield-ai-higgsfield]] [[garrytan-gstack]] [[lyogavin-airllm]]
 
-**所属领域**: ai-agent
+**所属领域**: [[ai-agent]]
+

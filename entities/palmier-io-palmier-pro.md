@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[lakr233-vphone-cli]] [[mattpocock-skills]] [[abue-ammar-tinycast]] [[homebrew-brewui]] [[earendil-works-pi]]
+[[abue-ammar-tinycast]] [[pbakaus-impeccable]] [[lakr233-vphone-cli]] [[homebrew-brewui]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]]
 

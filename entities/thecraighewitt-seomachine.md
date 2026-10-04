@@ -4,7 +4,7 @@ created: 2026-03-06
 updated: 2026-04-10
 last_active: 2026-04-10
 type: tool
-tags: [python, ai-agent]
+tags: [python, ai-agent, erp, science, rising]
 sources: [raw/trending/2026-04-10.json]
 confidence: high
 trending_count_daily: 5
@@ -16,12 +16,6 @@ last_trending: 2026-04-10
 peak_rank: 1
 total_stars: 5177
 language: "Python"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "desc:ai-agent"
-domain_source: github-api
 ---
 
 # TheCraigHewitt/seomachine
@@ -44,6 +38,7 @@ A specialized Claude Code workspace for creating long-form, SEO-optimized blog c
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[earendil-works-pi]] [[panniantong-agent-reach]] [[jamwithai-production-agentic-rag-course]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]]
 
-**所属领域**: ai-agent
+**所属领域**: [[ai-agent]] [[erp]] [[science]]
+

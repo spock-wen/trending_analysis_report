@@ -1,19 +1,19 @@
 ---
 title: "TauricResearch/TradingAgents"
-created: 2026-06-02
+created: 2026-03-22
 updated: 2026-09-15
 last_active: 2026-09-15
 type: framework
 tags: [python, ai-agent, science]
 sources: [raw/trending/2026-09-15.json]
 confidence: high
-trending_count_daily: 7
+trending_count_daily: 16
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
-first_trending: 2026-06-02
+first_trending: 2026-03-22
 last_trending: 2026-09-15
-peak_rank: 4
+peak_rank: 1
 total_stars: 106066
 language: "Python"
 ---
@@ -23,9 +23,9 @@ language: "Python"
 TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 - 语言: Python
-- 上榜次数: 7 次
+- 上榜次数: 16 次
 - 连续上榜: 1 天
-- 最高排名: #4
+- 最高排名: #1
 - 链接: [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
 
 ## 上榜历史
@@ -38,7 +38,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[paperless-ngx-paperless-ngx]] [[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[paperclipai-paperclip]]
+[[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

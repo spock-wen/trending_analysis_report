@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[anthropics-claude-code]] [[oblien-openship]] [[mattpocock-skills]] [[nvidia-model-optimizer]]
+[[pbakaus-impeccable]] [[davila7-claude-code-templates]] [[getsentry-sentry]] [[opencut-app-opencut]] [[oblien-openship]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

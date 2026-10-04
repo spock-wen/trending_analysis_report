@@ -16,12 +16,6 @@ last_trending: 2026-03-13
 peak_rank: 9
 total_stars: 12568
 language: "TypeScript"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "no-evidence"
-domain_source: daily-report
 ---
 
 # google/A2UI
@@ -40,6 +34,5 @@ No description
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[earendil-works-pi]] [[anthropics-claude-code]]
+[[pingdotgg-t3code]] [[opencut-app-opencut]] [[garrytan-gstack]] [[thedotmack-claude-mem]]
 
-**所属领域**: （无可靠依据，未判定）

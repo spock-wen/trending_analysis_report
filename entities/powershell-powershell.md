@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: 2026-04-26
 last_active: 2026-04-26
 type: tool
-tags: [cli, devops, tool]
+tags: [cli]
 sources: [raw/trending/2026-04-26.json]
 confidence: low
 trending_count_daily: 1
@@ -16,12 +16,6 @@ last_trending: 2026-04-26
 peak_rank: 9
 total_stars: 53054
 language: "C#"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: true
-domain_evidence: "topic:command-line; topic:linux; topic:shell; topic:windows"
-domain_source: daily-report
 ---
 
 # PowerShell/PowerShell
@@ -40,6 +34,7 @@ PowerShell for every system!
 
 ## 相关项目
 
-[[jellyfin-jellyfin]] [[dotnet-aspnetcore]] [[earendil-works-pi]] [[anthropics-claude-code]] [[obra-superpowers]]
+[[obra-superpowers]] [[mattpocock-skills]] [[dotnet-aspnetcore]] [[earendil-works-pi]] [[k1tbyte-wand-enhancer]]
 
-**所属领域**: cli、devops、tool
+**所属领域**: [[cli]]
+

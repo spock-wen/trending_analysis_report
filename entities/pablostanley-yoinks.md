@@ -35,7 +35,7 @@ yoink any video from your terminal. no shady ads.
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[anthropics-claude-code]] [[mattpocock-skills]] [[earendil-works-pi]] [[obra-superpowers]]
+[[obra-superpowers]] [[mattpocock-skills]] [[earendil-works-pi]] [[opencut-app-opencut]] [[garrytan-gstack]]
 
 **所属领域**: [[cli]]
 

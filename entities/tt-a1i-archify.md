@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[coreyhaines31-marketingskills]] [[averygan-reclip]] [[dietrichgebert-ponytail]] [[t8y2-dbx]]
+[[pbakaus-impeccable]] [[dietrichgebert-ponytail]] [[addyosmani-agent-skills]] [[calesthio-openmontage]] [[openbao-openbao]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

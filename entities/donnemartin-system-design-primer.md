@@ -1,17 +1,17 @@
 ---
 title: "donnemartin/system-design-primer"
-created: 2026-08-04
+created: 2026-04-29
 updated: 2026-08-06
 last_active: 2026-08-06
 type: tool
 tags: [python, education]
 sources: [raw/trending/2026-08-06.json]
-confidence: medium
-trending_count_daily: 2
+confidence: high
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
-first_trending: 2026-08-04
+first_trending: 2026-04-29
 last_trending: 2026-08-06
 peak_rank: 4
 total_stars: 361483
@@ -23,7 +23,7 @@ language: "Python"
 Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
 - 语言: Python
-- 上榜次数: 2 次
+- 上榜次数: 3 次
 - 连续上榜: 1 天
 - 最高排名: #4
 - 链接: [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
@@ -32,10 +32,11 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
   - 2026-08-06: #4, +304⭐
   - 2026-08-04: #8, +323⭐
+  - 2026-04-29: #9, +734⭐
 
 ## 相关项目
 
-[[meituan-longcat-longcat-video]] [[panniantong-agent-reach]] [[rohitg00-ai-engineering-from-scratch]] [[getsentry-sentry]] [[vectorize-io-hindsight]]
+[[rohitg00-ai-engineering-from-scratch]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[cs341-illinois-coursebook]]
 
 **所属领域**: [[education]]
 

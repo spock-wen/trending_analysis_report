@@ -4,7 +4,7 @@ created: 2026-03-27
 updated: 2026-03-28
 last_active: 2026-03-28
 type: tool
-tags: [tool]
+tags: [python, ai-agent]
 sources: [raw/trending/2026-03-28.json]
 confidence: medium
 trending_count_daily: 2
@@ -16,12 +16,6 @@ last_trending: 2026-03-28
 peak_rank: 4
 total_stars: 11851
 language: "Jupyter Notebook"
-source_backfill: true
-rank_inferred: true
-backfill_source: daily-report
-domain_verified: false
-domain_evidence: "no-evidence"
-domain_source: daily-report
 ---
 
 # Vaibhavs10/insanely-fast-whisper
@@ -41,6 +35,7 @@ No description
 
 ## 相关项目
 
-[[earendil-works-pi]] [[microsoft-ai-for-beginners]] [[affaan-m-ecc]] [[lyogavin-airllm]] [[obra-superpowers]]
+[[microsoft-generative-ai-for-beginners]] [[pbakaus-impeccable]] [[higgsfield-ai-higgsfield]] [[garrytan-gstack]] [[lyogavin-airllm]]
 
-**所属领域**: （无可靠依据，未判定）
+**所属领域**: [[ai-agent]]
+

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[calesthio-openmontage]] [[openbao-openbao]] [[getsentry-sentry]] [[heygen-com-hyperframes]]
+[[tester-army-e2e]] [[t8y2-dbx]] [[stremio-stremio-web]] [[oblien-openship]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

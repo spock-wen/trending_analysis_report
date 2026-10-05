@@ -38,5 +38,5 @@ High performance self-hosted photo and video management solution.
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[opencut-app-opencut]] [[garrytan-gstack]] [[thedotmack-claude-mem]]
+[[thedotmack-claude-mem]] [[cloudflare-cloudflare-os]] [[tester-army-e2e]] [[pingdotgg-t3code]]
 

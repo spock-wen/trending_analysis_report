@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[obra-superpowers]] [[nationalsecurityagency-ghidra]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[calesthio-openmontage]]
+[[nationalsecurityagency-ghidra]] [[affaan-m-ecc]] [[mattpocock-skills]] [[zhaoxuya520-reverse-skill]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

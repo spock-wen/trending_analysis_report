@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[heygen-com-hyperframes]] [[caddyserver-caddy]] [[actions-runner-images]] [[fxembed-fxembed]]
+[[tester-army-e2e]] [[stremio-stremio-web]] [[diolinux-photogimp]] [[actions-runner-images]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

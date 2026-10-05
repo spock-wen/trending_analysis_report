@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[rohitg00-ai-engineering-from-scratch]] [[multimodal-art-projection-yue]] [[calesthio-openmontage]] [[jamiepine-voicebox]]
+[[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]] [[jamiepine-voicebox]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

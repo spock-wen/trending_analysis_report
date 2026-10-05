@@ -35,7 +35,7 @@ DeepEP: an efficient expert-parallel communication library
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[deepseek-ai-deepgemm]] [[moonshotai-flashkda]] [[garrytan-gstack]] [[panniantong-agent-reach]]
+[[moonshotai-flashkda]] [[panniantong-agent-reach]] [[msitarzewski-agency-agents]] [[calesthio-openmontage]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]]
 

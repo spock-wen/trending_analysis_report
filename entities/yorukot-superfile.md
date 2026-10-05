@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[obra-superpowers]] [[rakyll-hey]] [[mattpocock-skills]] [[openbao-openbao]] [[earendil-works-pi]]
+[[mattpocock-skills]] [[panniantong-agent-reach]] [[juliusbrussee-caveman]] [[msitarzewski-agency-agents]] [[rakyll-hey]]
 
 **所属领域**: [[cli]]
 

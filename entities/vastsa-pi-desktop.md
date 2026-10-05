@@ -36,7 +36,7 @@ Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harnes
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[opencut-app-opencut]] [[garrytan-gstack]] [[pingdotgg-t3code]] [[panniantong-agent-reach]]
+[[tester-army-e2e]] [[panniantong-agent-reach]] [[cloudflare-cloudflare-os]] [[msitarzewski-agency-agents]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[earendil-works-pi]] [[garrytan-gstack]]
+[[mattpocock-skills]] [[panniantong-agent-reach]] [[msitarzewski-agency-agents]] [[calesthio-openmontage]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

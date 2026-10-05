@@ -38,7 +38,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[dietrichgebert-ponytail]] [[addyosmani-agent-skills]] [[actions-runner-images]] [[fxembed-fxembed]]
+[[tester-army-e2e]] [[stremio-stremio-web]] [[addyosmani-agent-skills]] [[actions-runner-images]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

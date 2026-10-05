@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[dietrichgebert-ponytail]] [[addyosmani-agent-skills]] [[heygen-com-hyperframes]] [[caddyserver-caddy]]
+[[tester-army-e2e]] [[stremio-stremio-web]] [[addyosmani-agent-skills]] [[actions-runner-images]] [[fxembed-fxembed]]
 
 **所属领域**: [[web]] [[image-gen]]
 

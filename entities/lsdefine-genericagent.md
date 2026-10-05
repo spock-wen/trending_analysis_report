@@ -37,7 +37,7 @@ Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[garrytan-gstack]]
+[[panniantong-agent-reach]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[msitarzewski-agency-agents]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]]
 

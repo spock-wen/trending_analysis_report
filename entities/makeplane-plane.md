@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[earendil-works-pi]] [[opencut-app-opencut]] [[garrytan-gstack]]
+[[tester-army-e2e]] [[mattpocock-skills]] [[panniantong-agent-reach]] [[cloudflare-cloudflare-os]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[cli]]
 

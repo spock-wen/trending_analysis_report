@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[actions-runner-images]] [[opencut-app-opencut]] [[fxembed-fxembed]] [[garrytan-gstack]]
+[[tester-army-e2e]] [[actions-runner-images]] [[fxembed-fxembed]] [[panniantong-agent-reach]] [[cloudflare-cloudflare-os]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

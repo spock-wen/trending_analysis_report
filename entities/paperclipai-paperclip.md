@@ -38,7 +38,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[earendil-works-pi]] [[opencut-app-opencut]]
+[[tester-army-e2e]] [[affaan-m-ecc]] [[mattpocock-skills]] [[paperless-ngx-paperless-ngx]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

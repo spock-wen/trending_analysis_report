@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[obra-superpowers]] [[nvidia-openshell]] [[mattpocock-skills]] [[earendil-works-pi]] [[block-buzz]]
+[[t8y2-dbx]] [[akitaonrails-ai-memory]] [[mattpocock-skills]] [[panniantong-agent-reach]] [[nvidia-openshell]]
 
 **所属领域**: [[cli]]
 

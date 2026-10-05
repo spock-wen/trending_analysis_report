@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[calesthio-openmontage]] [[getsentry-sentry]]
+[[tester-army-e2e]] [[stremio-stremio-web]] [[mattpocock-skills]] [[panniantong-agent-reach]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

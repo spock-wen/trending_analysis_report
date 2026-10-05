@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[obra-superpowers]] [[rakyll-hey]] [[mattpocock-skills]] [[openbao-openbao]] [[earendil-works-pi]]
+[[mattpocock-skills]] [[panniantong-agent-reach]] [[juliusbrussee-caveman]] [[msitarzewski-agency-agents]] [[rakyll-hey]]
 
 **所属领域**: [[cli]]
 

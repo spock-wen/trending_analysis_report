@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[rohitg00-ai-engineering-from-scratch]] [[ripienaar-free-for-dev]] [[heygen-com-hyperframes]] [[caddyserver-caddy]]
+[[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]] [[tester-army-e2e]] [[stremio-stremio-web]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[web]] [[education]]
 

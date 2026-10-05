@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[actions-runner-images]] [[fxembed-fxembed]]
+[[tester-army-e2e]] [[actions-runner-images]] [[fxembed-fxembed]] [[panniantong-agent-reach]] [[getsentry-sentry]]
 
 **所属领域**: [[image-gen]]
 

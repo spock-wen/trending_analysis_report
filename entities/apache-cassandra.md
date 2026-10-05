@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]] [[calesthio-openmontage]] [[openbao-openbao]] [[getsentry-sentry]]
+[[nationalsecurityagency-ghidra]] [[t8y2-dbx]] [[yuliskov-smarttube]] [[oblien-openship]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[data]] [[devops]]
 

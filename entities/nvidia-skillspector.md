@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[pbakaus-impeccable]] [[calesthio-openmontage]] [[cloudflare-security-audit-skill]] [[getsentry-sentry]]
+[[nationalsecurityagency-ghidra]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[panniantong-agent-reach]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

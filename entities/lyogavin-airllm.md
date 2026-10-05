@@ -38,7 +38,7 @@ AirLLM 70B inference with single 4GB GPU
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[pbakaus-impeccable]] [[higgsfield-ai-higgsfield]] [[garrytan-gstack]] [[microsoft-ai-for-beginners]]
+[[higgsfield-ai-higgsfield]] [[microsoft-generative-ai-for-beginners]] [[panniantong-agent-reach]] [[msitarzewski-agency-agents]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]]
 

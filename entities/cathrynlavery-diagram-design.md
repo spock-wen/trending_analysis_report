@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[ripienaar-free-for-dev]] [[heygen-com-hyperframes]] [[caddyserver-caddy]] [[garrytan-gstack]]
+[[tester-army-e2e]] [[stremio-stremio-web]] [[panniantong-agent-reach]] [[ripienaar-free-for-dev]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

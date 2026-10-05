@@ -35,7 +35,7 @@ Create Reddit Videos with just✨ one command ✨
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earendil-works-pi]]
+[[mattpocock-skills]] [[panniantong-agent-reach]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[cli]]
 

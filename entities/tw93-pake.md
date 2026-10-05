@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[obra-superpowers]] [[nvidia-openshell]] [[mattpocock-skills]] [[earendil-works-pi]] [[heygen-com-hyperframes]]
+[[t8y2-dbx]] [[tester-army-e2e]] [[stremio-stremio-web]] [[akitaonrails-ai-memory]] [[mattpocock-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

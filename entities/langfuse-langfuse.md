@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[calesthio-openmontage]] [[openbao-openbao]] [[getsentry-sentry]] [[davila7-claude-code-templates]]
+[[tester-army-e2e]] [[t8y2-dbx]] [[oblien-openship]] [[davila7-claude-code-templates]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

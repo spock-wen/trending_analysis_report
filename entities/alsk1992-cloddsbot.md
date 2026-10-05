@@ -36,7 +36,7 @@ Open Source AI trading agent that operates autonomously across 1000+ markets - P
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[earthtojake-text-to-cad]] [[opencut-app-opencut]] [[melgarafael-deskcommcrm]]
+[[tester-army-e2e]] [[melgarafael-deskcommcrm]] [[panniantong-agent-reach]] [[cloudflare-cloudflare-os]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

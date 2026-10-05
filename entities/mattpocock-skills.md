@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[earendil-works-pi]] [[infinityloop1308-pipepipe]] [[garrytan-gstack]]
+[[infinityloop1308-pipepipe]] [[panniantong-agent-reach]] [[msitarzewski-agency-agents]] [[calesthio-openmontage]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

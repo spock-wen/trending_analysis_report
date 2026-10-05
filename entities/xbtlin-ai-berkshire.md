@@ -38,7 +38,7 @@ AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框�
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[zhaoxuya520-reverse-skill]]
+[[affaan-m-ecc]] [[paperless-ngx-paperless-ngx]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

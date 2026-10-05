@@ -34,7 +34,7 @@ Training neural networks on Apple Neural Engine via reverse-engineered private A
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[garrytan-gstack]] [[thedotmack-claude-mem]] [[panniantong-agent-reach]]
+[[thedotmack-claude-mem]] [[msitarzewski-agency-agents]] [[calesthio-openmontage]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]]
 

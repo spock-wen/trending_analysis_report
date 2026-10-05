@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[dietrichgebert-ponytail]] [[addyosmani-agent-skills]] [[multimodal-art-projection-yue]] [[jamiepine-voicebox]]
+[[jamiepine-voicebox]] [[tester-army-e2e]] [[multimodal-art-projection-yue]] [[stremio-stremio-web]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

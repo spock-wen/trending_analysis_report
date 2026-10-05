@@ -37,7 +37,7 @@ Bash is all you need - A nano claude code–like 「agent harness」, built from
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[rohitg00-ai-engineering-from-scratch]] [[opencut-app-opencut]] [[garrytan-gstack]] [[cs341-illinois-coursebook]]
+[[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]] [[tester-army-e2e]] [[panniantong-agent-reach]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

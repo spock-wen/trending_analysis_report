@@ -35,7 +35,7 @@ Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[pbakaus-impeccable]] [[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[garrytan-gstack]]
+[[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]] [[microsoft-generative-ai-for-beginners]] [[panniantong-agent-reach]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

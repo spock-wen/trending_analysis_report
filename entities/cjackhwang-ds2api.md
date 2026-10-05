@@ -37,7 +37,7 @@ Deepseek to API: A lightweight, high-performance full-stack middleware convertin
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[rakyll-hey]] [[mattpocock-skills]] [[openbao-openbao]]
+[[mattpocock-skills]] [[panniantong-agent-reach]] [[juliusbrussee-caveman]] [[msitarzewski-agency-agents]] [[rakyll-hey]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

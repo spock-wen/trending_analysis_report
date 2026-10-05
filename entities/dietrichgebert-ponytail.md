@@ -38,7 +38,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[addyosmani-agent-skills]] [[coreyhaines31-marketingskills]] [[garrytan-gstack]] [[panniantong-agent-reach]]
+[[stremio-stremio-web]] [[addyosmani-agent-skills]] [[pbakaus-impeccable]] [[duartesantos8-opengym]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]]
 

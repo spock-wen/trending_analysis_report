@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[rohitg00-ai-engineering-from-scratch]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]]
+[[cs341-illinois-coursebook]] [[panniantong-agent-reach]] [[rohitg00-ai-engineering-from-scratch]] [[getsentry-sentry]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

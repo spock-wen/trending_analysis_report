@@ -36,7 +36,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[cs341-illinois-coursebook]]
+[[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]] [[panniantong-agent-reach]] [[rohitg00-ai-engineering-from-scratch]] [[getsentry-sentry]]
 
 **所属领域**: [[education]]
 

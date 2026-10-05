@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[teslamate-org-teslamate]] [[plausible-analytics]] [[garrytan-gstack]] [[panniantong-agent-reach]]
+[[teslamate-org-teslamate]] [[panniantong-agent-reach]] [[plausible-analytics]] [[msitarzewski-agency-agents]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]]
 

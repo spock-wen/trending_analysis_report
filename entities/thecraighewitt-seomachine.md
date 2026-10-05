@@ -38,7 +38,7 @@ A specialized Claude Code workspace for creating long-form, SEO-optimized blog c
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]]
+[[affaan-m-ecc]] [[paperless-ngx-paperless-ngx]] [[melgarafael-deskcommcrm]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

@@ -34,7 +34,7 @@ Enterprise Architecture Governance & Vendor Procurement Toolkit
 
 ## 相关项目
 
-[[obra-superpowers]] [[cathrynlavery-diagram-design]] [[ripienaar-free-for-dev]] [[heygen-com-hyperframes]] [[caddyserver-caddy]]
+[[tester-army-e2e]] [[stremio-stremio-web]] [[ever-co-ever-gauzy]] [[ripienaar-free-for-dev]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[erp]]
 

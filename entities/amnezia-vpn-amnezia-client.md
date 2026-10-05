@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[obra-superpowers]] [[nationalsecurityagency-ghidra]] [[harry7557558-spirula-studio]] [[mattpocock-skills]] [[cloudflare-security-audit-skill]]
+[[nationalsecurityagency-ghidra]] [[affaan-m-ecc]] [[mattpocock-skills]] [[zhaoxuya520-reverse-skill]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]] [[security]]
 

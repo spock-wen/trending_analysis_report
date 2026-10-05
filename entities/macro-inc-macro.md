@@ -36,7 +36,7 @@ Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[nvidia-openshell]] [[block-buzz]] [[garrytan-gstack]] [[t8y2-dbx]]
+[[t8y2-dbx]] [[akitaonrails-ai-memory]] [[panniantong-agent-reach]] [[nvidia-openshell]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

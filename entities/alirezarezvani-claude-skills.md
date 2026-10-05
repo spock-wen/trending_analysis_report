@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[calesthio-openmontage]] [[getsentry-sentry]]
+[[affaan-m-ecc]] [[mattpocock-skills]] [[melgarafael-deskcommcrm]] [[paperless-ngx-paperless-ngx]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[mahlernim-google-timeline-visualizer]] [[bannedbook-fanqiang]] [[heygen-com-hyperframes]] [[caddyserver-caddy]] [[tester-army-e2e]]
+[[embabel-embabel-agent]] [[tester-army-e2e]] [[stremio-stremio-web]] [[mahlernim-google-timeline-visualizer]] [[bannedbook-fanqiang]]
 
 **所属领域**: [[web]]
 

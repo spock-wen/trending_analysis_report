@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[dietrichgebert-ponytail]] [[addyosmani-agent-skills]] [[calesthio-openmontage]] [[openbao-openbao]]
+[[tester-army-e2e]] [[t8y2-dbx]] [[stremio-stremio-web]] [[addyosmani-agent-skills]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

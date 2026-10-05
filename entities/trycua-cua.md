@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[pbakaus-impeccable]] [[ripienaar-free-for-dev]] [[calesthio-openmontage]] [[openbao-openbao]]
+[[tester-army-e2e]] [[t8y2-dbx]] [[stremio-stremio-web]] [[actions-runner-images]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[image-gen]]
 

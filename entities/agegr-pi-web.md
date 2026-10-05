@@ -36,7 +36,7 @@ Web UI for the pi coding agent
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[heygen-com-hyperframes]] [[caddyserver-caddy]] [[opencut-app-opencut]] [[garrytan-gstack]]
+[[tester-army-e2e]] [[stremio-stremio-web]] [[panniantong-agent-reach]] [[cloudflare-cloudflare-os]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

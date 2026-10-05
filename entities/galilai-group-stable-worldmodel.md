@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[actions-runner-images]]
+[[tester-army-e2e]] [[affaan-m-ecc]] [[paperless-ngx-paperless-ngx]] [[actions-runner-images]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

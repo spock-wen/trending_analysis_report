@@ -38,7 +38,7 @@ Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[dietrichgebert-ponytail]] [[addyosmani-agent-skills]] [[actions-runner-images]] [[fxembed-fxembed]]
+[[tester-army-e2e]] [[stremio-stremio-web]] [[addyosmani-agent-skills]] [[actions-runner-images]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -34,7 +34,7 @@ Toolkit for linearizing PDFs for LLM datasets/training
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[calesthio-openmontage]] [[openbao-openbao]] [[getsentry-sentry]] [[earthtojake-text-to-cad]]
+[[t8y2-dbx]] [[panniantong-agent-reach]] [[duartesantos8-opengym]] [[getsentry-sentry]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[pbakaus-impeccable]] [[higgsfield-ai-higgsfield]] [[calesthio-openmontage]] [[openbao-openbao]]
+[[t8y2-dbx]] [[higgsfield-ai-higgsfield]] [[microsoft-generative-ai-for-beginners]] [[panniantong-agent-reach]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

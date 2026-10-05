@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[dietrichgebert-ponytail]] [[addyosmani-agent-skills]] [[calesthio-openmontage]] [[openbao-openbao]]
+[[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]] [[t8y2-dbx]] [[stremio-stremio-web]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[data]] [[education]]
 

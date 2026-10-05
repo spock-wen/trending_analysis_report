@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[rohitg00-ai-engineering-from-scratch]] [[davila7-claude-code-templates]] [[getsentry-sentry]] [[opencut-app-opencut]]
+[[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]] [[tester-army-e2e]] [[oblien-openship]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

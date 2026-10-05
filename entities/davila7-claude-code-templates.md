@@ -38,7 +38,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[calesthio-openmontage]] [[getsentry-sentry]]
+[[mattpocock-skills]] [[oblien-openship]] [[panniantong-agent-reach]] [[getsentry-sentry]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

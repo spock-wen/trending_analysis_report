@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[harry7557558-spirula-studio]] [[multimodal-art-projection-yue]] [[thedotmack-claude-mem]] [[jamiepine-voicebox]]
+[[jamiepine-voicebox]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[panniantong-agent-reach]] [[firebase-firebase-ios-sdk]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

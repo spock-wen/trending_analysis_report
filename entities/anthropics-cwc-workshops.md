@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[obra-superpowers]] [[earthtojake-text-to-cad]] [[opencut-app-opencut]] [[melgarafael-deskcommcrm]] [[garrytan-gstack]]
+[[tester-army-e2e]] [[melgarafael-deskcommcrm]] [[cloudflare-cloudflare-os]] [[earthtojake-text-to-cad]] [[pingdotgg-t3code]]
 
 **所属领域**: [[erp]]
 

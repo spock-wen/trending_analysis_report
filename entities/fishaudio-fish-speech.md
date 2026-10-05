@@ -37,7 +37,7 @@ SOTA Open Source TTS
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[calesthio-openmontage]] [[jamiepine-voicebox]] [[getsentry-sentry]] [[earthtojake-text-to-cad]]
+[[jamiepine-voicebox]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[panniantong-agent-reach]] [[getsentry-sentry]]
 
 **所属领域**: [[audio]]
 

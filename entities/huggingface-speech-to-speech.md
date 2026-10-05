@@ -37,7 +37,7 @@ Build local voice agents with open-source models
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[multimodal-art-projection-yue]] [[calesthio-openmontage]] [[jamiepine-voicebox]] [[getsentry-sentry]]
+[[jamiepine-voicebox]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[panniantong-agent-reach]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

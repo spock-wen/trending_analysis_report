@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[multimodal-art-projection-yue]] [[jamiepine-voicebox]] [[heygen-com-hyperframes]] [[caddyserver-caddy]]
+[[jamiepine-voicebox]] [[tester-army-e2e]] [[multimodal-art-projection-yue]] [[stremio-stremio-web]] [[tonhowtf-omniget]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

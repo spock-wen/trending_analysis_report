@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[nvidia-openshell]] [[heygen-com-hyperframes]] [[caddyserver-caddy]] [[block-buzz]] [[tester-army-e2e]]
+[[t8y2-dbx]] [[tester-army-e2e]] [[stremio-stremio-web]] [[akitaonrails-ai-memory]] [[nvidia-openshell]]
 
 **所属领域**: [[web]]
 

@@ -36,5 +36,5 @@ Curated list of the best free apps for PC and mobile
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[coreyhaines31-marketingskills]] [[pbakaus-impeccable]] [[addyosmani-agent-skills]]
+[[pbakaus-impeccable]] [[stremio-stremio-web]] [[addyosmani-agent-skills]] [[duartesantos8-opengym]]
 

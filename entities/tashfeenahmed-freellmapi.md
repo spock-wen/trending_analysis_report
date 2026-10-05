@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[pbakaus-impeccable]] [[cloudflare-security-audit-skill]] [[opencut-app-opencut]] [[zhaoxuya520-reverse-skill]]
+[[nationalsecurityagency-ghidra]] [[tester-army-e2e]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

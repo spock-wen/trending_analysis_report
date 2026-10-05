@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[rakyll-hey]] [[openbao-openbao]] [[davila7-claude-code-templates]] [[getsentry-sentry]]
+[[nationalsecurityagency-ghidra]] [[affaan-m-ecc]] [[oblien-openship]] [[davila7-claude-code-templates]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[devops]] [[security]]
 

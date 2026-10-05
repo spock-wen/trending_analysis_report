@@ -38,7 +38,7 @@ An autonomous agent for deep financial research
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[opencut-app-opencut]] [[zhaoxuya520-reverse-skill]] [[paperless-ngx-paperless-ngx]] [[garrytan-gstack]]
+[[tester-army-e2e]] [[affaan-m-ecc]] [[paperless-ngx-paperless-ngx]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

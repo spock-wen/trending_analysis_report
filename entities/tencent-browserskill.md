@@ -35,7 +35,7 @@ Let AI agents use your real, logged-in browser without interrupting your work. C
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[earendil-works-pi]] [[heygen-com-hyperframes]]
+[[tester-army-e2e]] [[stremio-stremio-web]] [[mattpocock-skills]] [[panniantong-agent-reach]] [[cloudflare-cloudflare-os]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

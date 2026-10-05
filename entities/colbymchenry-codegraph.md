@@ -38,7 +38,7 @@ Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
 
 ## 相关项目
 
-[[willfaust-madeira]] [[pbakaus-impeccable]] [[antirez-ds4]] [[garrytan-gstack]] [[deusdata-codebase-memory-mcp]]
+[[willfaust-madeira]] [[antirez-ds4]] [[panniantong-agent-reach]] [[msitarzewski-agency-agents]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]]
 

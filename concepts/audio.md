@@ -1,7 +1,7 @@
 ---
 title: "audio"
 created: 2026-05-31
-updated: 2026-10-05
+updated: 2026-10-06
 type: concept
 tags: [audio]
 confidence: medium

@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[multimodal-art-projection-yue]] [[opencut-app-opencut]] [[tonhowtf-omniget]] [[garrytan-gstack]]
+[[multimodal-art-projection-yue]] [[tester-army-e2e]] [[tonhowtf-omniget]] [[debpalash-voicestudio]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -34,7 +34,7 @@ Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translatio
 
 ## 相关项目
 
-[[actions-runner-images]] [[opencut-app-opencut]] [[garrytan-gstack]] [[tester-army-e2e]] [[trycua-cua]]
+[[tester-army-e2e]] [[actions-runner-images]] [[cloudflare-cloudflare-os]] [[trycua-cua]] [[pingdotgg-t3code]]
 
 **所属领域**: [[image-gen]]
 

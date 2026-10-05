@@ -34,7 +34,7 @@ PowerShell for every system!
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[dotnet-aspnetcore]] [[earendil-works-pi]] [[k1tbyte-wand-enhancer]]
+[[jellyfin-jellyfin]] [[sonarr-sonarr]] [[mattpocock-skills]] [[panniantong-agent-reach]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[cli]]
 

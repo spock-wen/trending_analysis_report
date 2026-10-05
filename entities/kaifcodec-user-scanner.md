@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[pbakaus-impeccable]] [[calesthio-openmontage]] [[openbao-openbao]] [[getsentry-sentry]]
+[[nationalsecurityagency-ghidra]] [[t8y2-dbx]] [[affaan-m-ecc]] [[paperless-ngx-paperless-ngx]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

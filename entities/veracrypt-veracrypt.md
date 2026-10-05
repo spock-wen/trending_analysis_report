@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[willfaust-madeira]] [[cloudflare-security-audit-skill]] [[antirez-ds4]] [[zhaoxuya520-reverse-skill]]
+[[nationalsecurityagency-ghidra]] [[colbymchenry-codegraph]] [[affaan-m-ecc]] [[willfaust-madeira]] [[antirez-ds4]]
 
 **所属领域**: [[security]]
 

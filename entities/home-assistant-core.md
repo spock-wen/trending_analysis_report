@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[calesthio-openmontage]] [[cloudflare-security-audit-skill]] [[getsentry-sentry]] [[earthtojake-text-to-cad]]
+[[nationalsecurityagency-ghidra]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[panniantong-agent-reach]] [[getsentry-sentry]]
 
 **所属领域**: [[security]]
 

@@ -36,7 +36,7 @@ Hundreds of models & providers. One command to find what runs on your hardware.
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[nvidia-openshell]] [[mattpocock-skills]] [[earendil-works-pi]]
+[[t8y2-dbx]] [[akitaonrails-ai-memory]] [[mattpocock-skills]] [[panniantong-agent-reach]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

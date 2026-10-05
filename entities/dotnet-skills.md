@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]] [[garrytan-gstack]] [[sonarr-sonarr]]
+[[jellyfin-jellyfin]] [[sonarr-sonarr]] [[thedotmack-claude-mem]] [[panniantong-agent-reach]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

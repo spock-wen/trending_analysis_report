@@ -34,5 +34,5 @@ Free and Open Source Machine Translation API. Self-hosted, offline capable and e
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[panniantong-agent-reach]] [[getsentry-sentry]] [[calesthio-openmontage]]
+[[getsentry-sentry]] [[earthtojake-text-to-cad]] [[calesthio-openmontage]] [[panniantong-agent-reach]]
 

@@ -37,7 +37,7 @@ Open source inference server that runs the best local models for your hardware, 
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[earendil-works-pi]] [[opencut-app-opencut]]
+[[tester-army-e2e]] [[mattpocock-skills]] [[panniantong-agent-reach]] [[cloudflare-cloudflare-os]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

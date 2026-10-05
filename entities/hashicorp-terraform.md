@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[rakyll-hey]] [[openbao-openbao]] [[davila7-claude-code-templates]] [[getsentry-sentry]]
+[[oblien-openship]] [[davila7-claude-code-templates]] [[panniantong-agent-reach]] [[getsentry-sentry]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

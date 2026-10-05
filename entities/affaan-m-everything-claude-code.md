@@ -34,7 +34,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[pbakaus-impeccable]] [[dietrichgebert-ponytail]] [[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]]
+[[nationalsecurityagency-ghidra]] [[affaan-m-ecc]] [[stremio-stremio-web]] [[addyosmani-agent-skills]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

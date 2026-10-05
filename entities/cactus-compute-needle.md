@@ -38,5 +38,5 @@ Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, struct
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[panniantong-agent-reach]] [[getsentry-sentry]] [[calesthio-openmontage]]
+[[getsentry-sentry]] [[earthtojake-text-to-cad]] [[calesthio-openmontage]] [[panniantong-agent-reach]]
 

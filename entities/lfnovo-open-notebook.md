@@ -37,5 +37,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[opencut-app-opencut]] [[garrytan-gstack]] [[thedotmack-claude-mem]]
+[[thedotmack-claude-mem]] [[cloudflare-cloudflare-os]] [[tester-army-e2e]] [[pingdotgg-t3code]]
 

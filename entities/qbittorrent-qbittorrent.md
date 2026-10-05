@@ -34,7 +34,7 @@ qBittorrent BitTorrent client
 
 ## 相关项目
 
-[[obra-superpowers]] [[harry7557558-spirula-studio]] [[mattpocock-skills]] [[earendil-works-pi]] [[firebase-firebase-ios-sdk]]
+[[mattpocock-skills]] [[panniantong-agent-reach]] [[firebase-firebase-ios-sdk]] [[msitarzewski-agency-agents]] [[boykopovar-anyps5]]
 
 **所属领域**: [[cli]]
 

@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[getsentry-sentry]] [[opencut-app-opencut]] [[nvidia-model-optimizer]] [[garrytan-gstack]]
+[[tester-army-e2e]] [[davila7-claude-code-templates]] [[cloudflare-cloudflare-os]] [[getsentry-sentry]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[devops]]
 

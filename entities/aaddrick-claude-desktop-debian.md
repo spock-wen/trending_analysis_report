@@ -34,7 +34,7 @@ Claude Desktop for Debian-based Linux distributions
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[earendil-works-pi]] [[garrytan-gstack]]
+[[mattpocock-skills]] [[infinityloop1308-pipepipe]] [[panniantong-agent-reach]] [[msitarzewski-agency-agents]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -36,7 +36,7 @@ OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[heygen-com-hyperframes]] [[earthtojake-text-to-cad]]
+[[tester-army-e2e]] [[stremio-stremio-web]] [[panniantong-agent-reach]] [[getsentry-sentry]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

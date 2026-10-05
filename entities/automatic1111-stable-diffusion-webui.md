@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[getsentry-sentry]] [[heygen-com-hyperframes]] [[earthtojake-text-to-cad]] [[caddyserver-caddy]]
+[[tester-army-e2e]] [[stremio-stremio-web]] [[actions-runner-images]] [[fxembed-fxembed]] [[panniantong-agent-reach]]
 
 **所属领域**: [[web]] [[image-gen]]
 

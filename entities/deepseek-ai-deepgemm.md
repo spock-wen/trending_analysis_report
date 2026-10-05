@@ -34,7 +34,7 @@ DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[deepseek-ai-deepep]] [[moonshotai-flashkda]] [[garrytan-gstack]] [[panniantong-agent-reach]]
+[[moonshotai-flashkda]] [[panniantong-agent-reach]] [[deepseek-ai-deepep]] [[msitarzewski-agency-agents]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]]
 

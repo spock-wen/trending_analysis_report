@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[garrytan-gstack]]
+[[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]] [[panniantong-agent-reach]] [[vectorize-io-hindsight]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

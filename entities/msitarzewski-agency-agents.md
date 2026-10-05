@@ -1,20 +1,20 @@
 ---
 title: "msitarzewski/agency-agents"
 created: 2026-05-06
-updated: 2026-08-14
-last_active: 2026-08-14
+updated: 2026-10-06
+last_active: 2026-10-06
 type: tool
-tags: [shell, ai-agent, web, cli, rising]
-sources: [raw/trending/2026-08-14.json]
+tags: [shell, ai-agent, web, cli]
+sources: [raw/trending/2026-10-06.json]
 confidence: high
-trending_count_daily: 17
+trending_count_daily: 18
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 5
+consecutive_days: 1
 first_trending: 2026-05-06
-last_trending: 2026-08-14
+last_trending: 2026-10-06
 peak_rank: 1
-total_stars: 145165
+total_stars: 157225
 language: "Shell"
 ---
 
@@ -23,22 +23,22 @@ language: "Shell"
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
 - 语言: Shell
-- 上榜次数: 17 次
-- 连续上榜: 5 天
+- 上榜次数: 18 次
+- 连续上榜: 1 天
 - 最高排名: #1
 - 链接: [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
 
 ## 上榜历史
 
+  - 2026-10-06: #12, +687⭐
   - 2026-08-14: #14, +762⭐
   - 2026-08-13: #5, +1969⭐
   - 2026-08-12: #1, +971⭐
   - 2026-08-11: #2, +1352⭐
-  - 2026-08-10: #3, +932⭐
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[earendil-works-pi]] [[heygen-com-hyperframes]]
+[[tester-army-e2e]] [[stremio-stremio-web]] [[mattpocock-skills]] [[infinityloop1308-pipepipe]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

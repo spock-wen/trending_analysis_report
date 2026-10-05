@@ -38,7 +38,7 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[nvidia-openshell]] [[zhaoxuya520-reverse-skill]] [[block-buzz]] [[paperless-ngx-paperless-ngx]]
+[[t8y2-dbx]] [[affaan-m-ecc]] [[akitaonrails-ai-memory]] [[paperless-ngx-paperless-ngx]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

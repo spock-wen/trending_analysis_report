@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[dietrichgebert-ponytail]] [[coreyhaines31-marketingskills]] [[garrytan-gstack]] [[panniantong-agent-reach]]
+[[stremio-stremio-web]] [[pbakaus-impeccable]] [[duartesantos8-opengym]] [[panniantong-agent-reach]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

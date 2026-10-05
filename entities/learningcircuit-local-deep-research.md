@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[jamwithai-production-agentic-rag-course]] [[pbakaus-impeccable]] [[rohitg00-ai-engineering-from-scratch]] [[calesthio-openmontage]]
+[[jamwithai-production-agentic-rag-course]] [[nationalsecurityagency-ghidra]] [[cs341-illinois-coursebook]] [[affaan-m-ecc]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

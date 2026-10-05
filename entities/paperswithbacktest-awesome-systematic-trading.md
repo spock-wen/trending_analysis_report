@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[zhaoxuya520-reverse-skill]]
+[[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]] [[affaan-m-ecc]] [[paperless-ngx-paperless-ngx]] [[paperclipai-paperclip]]
 
 **所属领域**: [[education]] [[science]]
 

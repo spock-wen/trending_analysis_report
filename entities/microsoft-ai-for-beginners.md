@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[pbakaus-impeccable]] [[higgsfield-ai-higgsfield]] [[rohitg00-ai-engineering-from-scratch]] [[garrytan-gstack]]
+[[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]] [[higgsfield-ai-higgsfield]] [[microsoft-generative-ai-for-beginners]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

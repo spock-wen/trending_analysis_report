@@ -38,7 +38,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[addyosmani-agent-skills]] [[coreyhaines31-marketingskills]] [[garrytan-gstack]] [[panniantong-agent-reach]]
+[[stremio-stremio-web]] [[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[panniantong-agent-reach]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[ripienaar-free-for-dev]] [[heygen-com-hyperframes]] [[caddyserver-caddy]] [[actions-runner-images]]
+[[tester-army-e2e]] [[stremio-stremio-web]] [[actions-runner-images]] [[fxembed-fxembed]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[web]] [[image-gen]]
 

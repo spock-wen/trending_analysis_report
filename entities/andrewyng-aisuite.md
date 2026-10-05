@@ -37,7 +37,7 @@ Simple, unified interface to multiple Generative AI providers
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[garrytan-gstack]]
+[[panniantong-agent-reach]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[msitarzewski-agency-agents]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]]
 

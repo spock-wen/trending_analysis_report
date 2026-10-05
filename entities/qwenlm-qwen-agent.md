@@ -35,7 +35,7 @@ Agent framework and applications built upon Qwen>=3.0, featuring Function Callin
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[calesthio-openmontage]] [[getsentry-sentry]] [[heygen-com-hyperframes]]
+[[tester-army-e2e]] [[stremio-stremio-web]] [[melgarafael-deskcommcrm]] [[ever-co-ever-gauzy]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[web]] [[erp]]
 

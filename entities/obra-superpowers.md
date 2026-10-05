@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[mattpocock-skills]] [[earendil-works-pi]] [[earthtojake-text-to-cad]] [[melgarafael-deskcommcrm]]
+[[mattpocock-skills]] [[infinityloop1308-pipepipe]] [[melgarafael-deskcommcrm]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

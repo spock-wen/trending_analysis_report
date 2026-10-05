@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[jamwithai-production-agentic-rag-course]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]]
+[[jamwithai-production-agentic-rag-course]] [[higgsfield-ai-higgsfield]] [[microsoft-generative-ai-for-beginners]] [[davila7-claude-code-templates]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

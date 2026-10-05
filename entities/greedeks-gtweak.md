@@ -34,5 +34,5 @@ Portable Tool for an Ideal Windows Setup
 
 ## 相关项目
 
-[[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]] [[sonarr-sonarr]] [[jellyfin-jellyfin]]
+[[dotnet-aspnetcore]] [[jellyfin-jellyfin]] [[k1tbyte-wand-enhancer]] [[sonarr-sonarr]]
 

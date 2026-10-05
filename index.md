@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-05 | 总页面：806
+> 最后更新：2026-10-06 | 总页面：809
 
 ## Entities
 
@@ -116,6 +116,7 @@
 - [[block-buzz|buzz"]] — A hive mind communication platform
 - [[block-goose|goose"]] — an open source, extensible AI agent that goes beyond code su... 🔥
 - [[bojieli-ai-agent-book|ai-agent-book"]] — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+- [[boykopovar-anyps5|AnyPS5"]] — Tool for automatic PS5 executables porting to Linux and Wind... 🆕
 - [[bradautomates-claude-video|claude-video"]] — Give Claude the ability to watch any video. /watch downloads... 🆕
 - [[braveopotato-fcksignups|FckSignups"]] — A list of tools that are open-source, in-browser, and requir... 🔥
 - [[browser-use-browser-use|browser-use"]] — 🌐 Make websites accessible for AI agents. Automate tasks onl...
@@ -131,7 +132,7 @@
 - [[bytedance-ui-tars-desktop|UI-TARS-desktop"]] — The Open-Source Multimodal AI Agent Stack: Connecting Cuttin...
 - [[cactus-compute-needle|needle"]] — Automation foundation model for tiny devices: 2-bit, 8-29 MB...
 - [[caddyserver-caddy|caddy"]] — Fast and extensible multi-platform HTTP/1-2-3 web server wit... 🆕
-- [[calesthio-openmontage|OpenMontage"]] — World's first open-source, agentic video production system. ...
+- [[calesthio-openmontage|OpenMontage"]] — World's first open-source, agentic video production system. ... 🆕
 - [[can1357-oh-my-pi|oh-my-pi"]] — ⌥ AI Coding agent for the terminal — hash-anchored edits, op...
 - [[canner-wrenai|WrenAI"]] — GenBI (Generative BI) for AI agents, an open-source, governe...
 - [[catchorg-catch2|Catch2"]] — A modern, C++-native, test framework for unit-tests, TDD and... 🆕
@@ -227,8 +228,9 @@
 - [[dottxt-ai-outlines|outlines"]] — Structured Outputs 🆕
 - [[dream-num-univer|univer"]] — The Office Harness for AI Agents — Spreadsheets, Docs, Slide... 🔥
 - [[dreammis-social-auto-upload|social-auto-upload"]] — 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+- [[duartesantos8-opengym|openGym"]] — Self-hosted gym & body-weight tracker — plan routines, log w... 🆕
 - [[earendil-works-pi|pi"]] — AI agent toolkit: unified LLM API, agent loop, TUI, coding a...
-- [[earthtojake-text-to-cad|text-to-cad"]] — Give your agent CAD superpowers.
+- [[earthtojake-text-to-cad|text-to-cad"]] — Give your agent CAD superpowers. 🆕
 - [[ed1s0nz-cyberstrikeai|CyberStrikeAI"]] — CyberStrikeAI is an AI-native security testing platform buil...
 - [[effect-ts-effect|effect"]] — Build production-ready applications in TypeScript 🆕
 - [[elastic-elasticsearch|elasticsearch"]] — Free and Open Source, Distributed, RESTful Search Engine
@@ -437,6 +439,7 @@
 - [[lum1104-understand-anything|Understand-Anything"]] — Graphs that teach > graphs that impress. Turn any code into ... 🔥
 - [[luongnv89-claude-howto|claude-howto"]] — A visual, example-driven guide to Claude Code — from basic c...
 - [[lyogavin-airllm|airllm"]] — AirLLM 70B inference with single 4GB GPU 🔥
+- [[m-abozaid-esp32-c3-adblock|esp32-c3-adblock"]] — Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 53... 🆕
 - [[macro-inc-macro|macro"]] — Macro is a unified workspace for teams: email, chat, docs, t... 🔥
 - [[maderix-ane|ANE"]] — Training neural networks on Apple Neural Engine via reverse-...
 - [[madslorentzen-ai-job-search|ai-job-search"]] — The job search that runs on your machine. AI job application...
@@ -495,7 +498,7 @@
 - [[moonshotai-flashkda|FlashKDA"]] — FlashKDA: high-performance Kimi Delta Attention kernels
 - [[moonshotai-kimi-cli|kimi-cli"]] — Kimi Code CLI is your next CLI agent. 🔥
 - [[moontechlab-lunatv|LunaTV"]] — 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 🆕
-- [[msitarzewski-agency-agents|agency-agents"]] — A complete AI agency at your fingertips - From frontend wiza... 🔥
+- [[msitarzewski-agency-agents|agency-agents"]] — A complete AI agency at your fingertips - From frontend wiza...
 - [[mukul975-anthropic-cybersecurity-skills|Anthropic-Cybersecurity-Skills"]] — 817 structured cybersecurity skills for AI agents · Mapped t... 🔥
 - [[multica-ai-andrej-karpathy-skills|andrej-karpathy-skills"]] — A single CLAUDE.md file to improve Claude Code behavior, der...
 - [[multica-ai-multica|multica"]] — The open-source managed agents platform. Turn coding agents ... 🆕
@@ -583,7 +586,7 @@
 - [[penpot-penpot|penpot"]] — Penpot: The open-source design platform for Product teams th...
 - [[permissionlesstech-bitchat|bitchat"]] — bluetooth mesh chat, IRC vibes
 - [[phuryn-pm-skills|pm-skills"]] — PM Skills Marketplace: 100+ agentic skills, commands, and pl... 🔥
-- [[pingdotgg-t3code|t3code"]] — No description 🆕
+- [[pingdotgg-t3code|t3code"]] — No description 🔥
 - [[pkuflyingpig-cs-self-learning|cs-self-learning"]] — 计算机自学指南
 - [[plausible-analytics|analytics"]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
 - [[playcanvas-supersplat|supersplat"]] — 3D Gaussian Splat Editor
@@ -704,7 +707,7 @@
 - [[tester-army-e2e|e2e"]] — Next generation e2e testing framework for web and mobile app... 🆕
 - [[the-swarm-corporation-autohedge|AutoHedge"]] — Build your autonomous hedge fund in minutes. AutoHedge harne... 🔥
 - [[thecraighewitt-seomachine|seomachine"]] — A specialized Claude Code workspace for creating long-form, ... 🔥
-- [[thedotmack-claude-mem|claude-mem"]] — Persistent Context Across Sessions for Every Agent – Capture... 🆕
+- [[thedotmack-claude-mem|claude-mem"]] — Persistent Context Across Sessions for Every Agent – Capture... 🔥
 - [[thu-maic-openmaic|OpenMAIC"]] — Open Multi-Agent Interactive Classroom — Get an immersive, m...
 - [[thunderbird-thunderbolt|thunderbolt"]] — AI You Control: Choose your models. Own your data. Eliminate...
 - [[tile-ai-tilelang|tilelang"]] — Domain-specific language designed to streamline the developm...

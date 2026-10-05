@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[mattpocock-skills]] [[calesthio-openmontage]] [[davila7-claude-code-templates]]
+[[mattpocock-skills]] [[oblien-openship]] [[davila7-claude-code-templates]] [[panniantong-agent-reach]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

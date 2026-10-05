@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[obra-superpowers]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[calesthio-openmontage]] [[jamiepine-voicebox]]
+[[jamiepine-voicebox]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[debpalash-voicestudio]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]] [[audio]]
 

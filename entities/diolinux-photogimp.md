@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[obra-superpowers]] [[heygen-com-hyperframes]] [[caddyserver-caddy]] [[earthtojake-text-to-cad]] [[conardli-garden-skills]]
+[[tester-army-e2e]] [[stremio-stremio-web]] [[conardli-garden-skills]] [[ever-co-ever-gauzy]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[web]] [[erp]]
 

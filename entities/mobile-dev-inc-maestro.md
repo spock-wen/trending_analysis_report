@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[mahlernim-google-timeline-visualizer]] [[bannedbook-fanqiang]] [[pbakaus-impeccable]] [[heygen-com-hyperframes]] [[caddyserver-caddy]]
+[[embabel-embabel-agent]] [[tester-army-e2e]] [[stremio-stremio-web]] [[panniantong-agent-reach]] [[mahlernim-google-timeline-visualizer]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

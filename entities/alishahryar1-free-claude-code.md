@@ -38,7 +38,7 @@ Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your 
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[calesthio-openmontage]]
+[[jamiepine-voicebox]] [[multimodal-art-projection-yue]] [[mattpocock-skills]] [[debpalash-voicestudio]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

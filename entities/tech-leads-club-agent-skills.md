@@ -37,7 +37,7 @@ The secure, validated skill registry for professional AI coding agents. Extend A
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[opencut-app-opencut]] [[garrytan-gstack]] [[pingdotgg-t3code]] [[panniantong-agent-reach]]
+[[tester-army-e2e]] [[panniantong-agent-reach]] [[cloudflare-cloudflare-os]] [[msitarzewski-agency-agents]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]]
 

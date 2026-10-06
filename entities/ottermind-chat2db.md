@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[t8y2-dbx]] [[mattpocock-skills]] [[yuliskov-smarttube]] [[google-guava]]
+[[checkstyle-checkstyle]] [[duartesantos8-opengym]] [[obra-superpowers]] [[coreyhaines31-marketingskills]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

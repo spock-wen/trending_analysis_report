@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[tester-army-e2e]] [[actions-runner-images]] [[fxembed-fxembed]] [[panniantong-agent-reach]] [[cloudflare-cloudflare-os]]
+[[pingdotgg-t3code]] [[tester-army-e2e]] [[morluto-rea]] [[actions-runner-images]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[t8y2-dbx]] [[tester-army-e2e]] [[stremio-stremio-web]] [[akitaonrails-ai-memory]] [[nvidia-openshell]]
+[[tester-army-e2e]] [[block-buzz]] [[cathrynlavery-diagram-design]] [[nvidia-openshell]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[web]]
 

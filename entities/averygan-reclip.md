@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[tester-army-e2e]] [[stremio-stremio-web]] [[mattpocock-skills]] [[panniantong-agent-reach]] [[ripienaar-free-for-dev]]
+[[obra-superpowers]] [[tester-army-e2e]] [[trycua-cua]] [[cathrynlavery-diagram-design]] [[panniantong-agent-reach]]
 
 **所属领域**: [[web]] [[cli]]
 

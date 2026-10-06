@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[tester-army-e2e]] [[stremio-stremio-web]] [[panniantong-agent-reach]] [[ripienaar-free-for-dev]] [[trycua-cua]]
+[[tester-army-e2e]] [[trycua-cua]] [[cathrynlavery-diagram-design]] [[averygan-reclip]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

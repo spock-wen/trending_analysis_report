@@ -38,7 +38,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[tester-army-e2e]] [[stremio-stremio-web]] [[addyosmani-agent-skills]] [[actions-runner-images]] [[fxembed-fxembed]]
+[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[tester-army-e2e]] [[actions-runner-images]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

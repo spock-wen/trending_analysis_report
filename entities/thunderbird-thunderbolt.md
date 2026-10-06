@@ -34,7 +34,7 @@ AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 
 ## 相关项目
 
-[[tester-army-e2e]] [[t8y2-dbx]] [[panniantong-agent-reach]] [[duartesantos8-opengym]] [[cloudflare-cloudflare-os]]
+[[duartesantos8-opengym]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[morluto-rea]] [[coreyhaines31-marketingskills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

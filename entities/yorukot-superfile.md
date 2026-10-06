@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[mattpocock-skills]] [[panniantong-agent-reach]] [[juliusbrussee-caveman]] [[msitarzewski-agency-agents]] [[rakyll-hey]]
+[[caddyserver-caddy]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[openbao-openbao]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]]
 

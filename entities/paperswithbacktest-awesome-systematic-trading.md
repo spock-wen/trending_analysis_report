@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]] [[affaan-m-ecc]] [[paperless-ngx-paperless-ngx]] [[paperclipai-paperclip]]
+[[earthtojake-text-to-cad]] [[vectorize-io-hindsight]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[jamwithai-production-agentic-rag-course]]
 
 **所属领域**: [[education]] [[science]]
 

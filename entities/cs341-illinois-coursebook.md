@@ -35,7 +35,7 @@ Open Source Introductory Systems Programming Textbook for the University of Illi
 
 ## 相关项目
 
-[[jamwithai-production-agentic-rag-course]] [[introduction-to-autonomous-robots-introduction-to-autonomous-robots]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]]
+[[jamwithai-production-agentic-rag-course]] [[vectorize-io-hindsight]] [[introduction-to-autonomous-robots-introduction-to-autonomous-robots]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[education]]
 

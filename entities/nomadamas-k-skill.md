@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[stremio-stremio-web]] [[addyosmani-agent-skills]] [[pbakaus-impeccable]] [[duartesantos8-opengym]] [[panniantong-agent-reach]]
+[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]] [[stremio-stremio-web]]
 
 **所属领域**: [[ai-agent]]
 

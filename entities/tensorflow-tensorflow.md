@@ -34,7 +34,7 @@ An Open Source Machine Learning Framework for Everyone
 
 ## 相关项目
 
-[[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[firebase-firebase-ios-sdk]]
+[[firebase-firebase-ios-sdk]] [[vectorize-io-hindsight]] [[boykopovar-anyps5]] [[jamwithai-production-agentic-rag-course]] [[m-abozaid-esp32-c3-adblock]]
 
 **所属领域**: [[education]]
 

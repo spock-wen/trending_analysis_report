@@ -38,7 +38,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]] [[tester-army-e2e]] [[mattpocock-skills]] [[panniantong-agent-reach]]
+[[pingdotgg-t3code]] [[obra-superpowers]] [[tester-army-e2e]] [[vectorize-io-hindsight]] [[morluto-rea]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

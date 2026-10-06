@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[mattpocock-skills]] [[panniantong-agent-reach]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[msitarzewski-agency-agents]]
+[[obra-superpowers]] [[earthtojake-text-to-cad]] [[msitarzewski-agency-agents]] [[calesthio-openmontage]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]]
 

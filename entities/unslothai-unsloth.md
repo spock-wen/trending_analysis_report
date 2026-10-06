@@ -37,7 +37,7 @@ Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,
 
 ## 相关项目
 
-[[tester-army-e2e]] [[actions-runner-images]] [[fxembed-fxembed]] [[panniantong-agent-reach]] [[getsentry-sentry]]
+[[earthtojake-text-to-cad]] [[tester-army-e2e]] [[msitarzewski-agency-agents]] [[actions-runner-images]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

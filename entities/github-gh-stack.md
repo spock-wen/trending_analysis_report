@@ -34,5 +34,5 @@ GitHub Stacked PRs
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[rakyll-hey]] [[openbao-openbao]] [[caddyserver-caddy]]
+[[juliusbrussee-caveman]] [[caddyserver-caddy]] [[openbao-openbao]] [[rakyll-hey]]
 

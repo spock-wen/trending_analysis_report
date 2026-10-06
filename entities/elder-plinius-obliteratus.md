@@ -34,7 +34,7 @@ OBLITERATE THE CHAINS THAT BIND YOU
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[getsentry-sentry]] [[earthtojake-text-to-cad]] [[msitarzewski-agency-agents]] [[calesthio-openmontage]]
+[[earthtojake-text-to-cad]] [[msitarzewski-agency-agents]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]]
 

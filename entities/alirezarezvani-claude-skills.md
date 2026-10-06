@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[mattpocock-skills]] [[melgarafael-deskcommcrm]] [[paperless-ngx-paperless-ngx]] [[paperclipai-paperclip]]
+[[obra-superpowers]] [[ever-co-ever-gauzy]] [[earthtojake-text-to-cad]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

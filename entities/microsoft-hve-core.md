@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[mattpocock-skills]] [[actions-runner-images]] [[zhaoxuya520-reverse-skill]] [[thedotmack-claude-mem]] [[panniantong-agent-reach]]
+[[obra-superpowers]] [[actions-runner-images]] [[zhaoxuya520-reverse-skill]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

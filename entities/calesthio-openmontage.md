@@ -38,7 +38,7 @@ World's first open-source, agentic video production system. 12 production pipeli
 
 ## 相关项目
 
-[[t8y2-dbx]] [[panniantong-agent-reach]] [[duartesantos8-opengym]] [[getsentry-sentry]] [[earthtojake-text-to-cad]]
+[[duartesantos8-opengym]] [[earthtojake-text-to-cad]] [[coreyhaines31-marketingskills]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

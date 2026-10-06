@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[t8y2-dbx]] [[akitaonrails-ai-memory]] [[panniantong-agent-reach]] [[nvidia-openshell]] [[msitarzewski-agency-agents]]
+[[block-buzz]] [[pbakaus-impeccable]] [[nvidia-openshell]] [[akitaonrails-ai-memory]] [[t8y2-dbx]]
 
 **所属领域**: [[ai-agent]]
 

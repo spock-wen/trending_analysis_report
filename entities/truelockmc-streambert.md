@@ -35,5 +35,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[stremio-stremio-web]] [[addyosmani-agent-skills]] [[duartesantos8-opengym]]
+[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[stremio-stremio-web]] [[pbakaus-impeccable]]
 

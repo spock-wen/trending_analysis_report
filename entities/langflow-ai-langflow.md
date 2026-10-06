@@ -34,7 +34,7 @@ Langflow is a powerful tool for building and deploying AI-powered agents and wor
 
 ## 相关项目
 
-[[oblien-openship]] [[davila7-claude-code-templates]] [[panniantong-agent-reach]] [[getsentry-sentry]] [[nvidia-model-optimizer]]
+[[oblien-openship]] [[earthtojake-text-to-cad]] [[davila7-claude-code-templates]] [[msitarzewski-agency-agents]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

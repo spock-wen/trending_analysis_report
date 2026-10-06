@@ -36,7 +36,7 @@ Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni
 
 ## 相关项目
 
-[[tester-army-e2e]] [[mattpocock-skills]] [[oblien-openship]] [[davila7-claude-code-templates]] [[panniantong-agent-reach]]
+[[oblien-openship]] [[pingdotgg-t3code]] [[obra-superpowers]] [[tester-army-e2e]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

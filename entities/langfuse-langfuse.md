@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[tester-army-e2e]] [[t8y2-dbx]] [[oblien-openship]] [[davila7-claude-code-templates]] [[panniantong-agent-reach]]
+[[duartesantos8-opengym]] [[pingdotgg-t3code]] [[oblien-openship]] [[tester-army-e2e]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

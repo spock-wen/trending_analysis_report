@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]] [[t8y2-dbx]] [[stremio-stremio-web]] [[addyosmani-agent-skills]]
+[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[vectorize-io-hindsight]] [[coreyhaines31-marketingskills]] [[jamwithai-production-agentic-rag-course]]
 
 **所属领域**: [[data]] [[education]]
 

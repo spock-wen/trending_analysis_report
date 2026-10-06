@@ -34,7 +34,7 @@ Toolchain for TON smart contract development and beyond
 
 ## 相关项目
 
-[[t8y2-dbx]] [[akitaonrails-ai-memory]] [[panniantong-agent-reach]] [[nvidia-openshell]] [[msitarzewski-agency-agents]]
+[[block-buzz]] [[pbakaus-impeccable]] [[nvidia-openshell]] [[akitaonrails-ai-memory]] [[t8y2-dbx]]
 
 **所属领域**: [[ai-agent]]
 

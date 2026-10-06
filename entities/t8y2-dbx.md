@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[mattpocock-skills]] [[panniantong-agent-reach]] [[nvidia-openshell]] [[duartesantos8-opengym]]
+[[duartesantos8-opengym]] [[obra-superpowers]] [[block-buzz]] [[coreyhaines31-marketingskills]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

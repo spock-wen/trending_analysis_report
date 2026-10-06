@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tester-army-e2e]] [[t8y2-dbx]] [[stremio-stremio-web]] [[oblien-openship]] [[davila7-claude-code-templates]]
+[[duartesantos8-opengym]] [[oblien-openship]] [[earthtojake-text-to-cad]] [[tester-army-e2e]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

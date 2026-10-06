@@ -35,7 +35,7 @@ Stremio - Freedom to Stream
 
 ## 相关项目
 
-[[tester-army-e2e]] [[addyosmani-agent-skills]] [[pbakaus-impeccable]] [[duartesantos8-opengym]] [[msitarzewski-agency-agents]]
+[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[pbakaus-impeccable]]
 
 **所属领域**: [[web]]
 

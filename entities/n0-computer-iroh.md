@@ -37,5 +37,5 @@ IP addresses break, dial keys instead. Modular networking stack in Rust.
 
 ## 相关项目
 
-[[nvidia-openshell]] [[t8y2-dbx]] [[block-buzz]] [[akitaonrails-ai-memory]]
+[[nvidia-openshell]] [[akitaonrails-ai-memory]] [[t8y2-dbx]] [[block-buzz]]
 

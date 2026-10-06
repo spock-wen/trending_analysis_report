@@ -37,7 +37,7 @@ Open source inference server that runs the best local models for your hardware, 
 
 ## 相关项目
 
-[[tester-army-e2e]] [[mattpocock-skills]] [[panniantong-agent-reach]] [[cloudflare-cloudflare-os]] [[msitarzewski-agency-agents]]
+[[pingdotgg-t3code]] [[obra-superpowers]] [[tester-army-e2e]] [[morluto-rea]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

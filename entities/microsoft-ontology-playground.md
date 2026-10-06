@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]] [[tester-army-e2e]] [[stremio-stremio-web]] [[vectorize-io-hindsight]]
+[[pingdotgg-t3code]] [[tester-army-e2e]] [[vectorize-io-hindsight]] [[morluto-rea]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[education]]
 

@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[tester-army-e2e]] [[oblien-openship]] [[davila7-claude-code-templates]] [[panniantong-agent-reach]] [[cloudflare-cloudflare-os]]
+[[oblien-openship]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[davila7-claude-code-templates]] [[morluto-rea]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

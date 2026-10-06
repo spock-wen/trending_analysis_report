@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]] [[tester-army-e2e]] [[oblien-openship]] [[davila7-claude-code-templates]]
+[[oblien-openship]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[vectorize-io-hindsight]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

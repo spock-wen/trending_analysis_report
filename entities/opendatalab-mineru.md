@@ -36,7 +36,7 @@ Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J
 
 ## 相关项目
 
-[[t8y2-dbx]] [[panniantong-agent-reach]] [[duartesantos8-opengym]] [[getsentry-sentry]] [[earthtojake-text-to-cad]]
+[[duartesantos8-opengym]] [[earthtojake-text-to-cad]] [[msitarzewski-agency-agents]] [[coreyhaines31-marketingskills]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

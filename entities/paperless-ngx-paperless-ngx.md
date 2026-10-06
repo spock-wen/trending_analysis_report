@@ -35,7 +35,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[panniantong-agent-reach]] [[getsentry-sentry]]
+[[earthtojake-text-to-cad]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[paperclipai-paperclip]] [[calesthio-openmontage]]
 
 **所属领域**: [[science]]
 

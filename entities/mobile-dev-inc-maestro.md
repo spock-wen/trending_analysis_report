@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[embabel-embabel-agent]] [[tester-army-e2e]] [[stremio-stremio-web]] [[panniantong-agent-reach]] [[mahlernim-google-timeline-visualizer]]
+[[tester-army-e2e]] [[embabel-embabel-agent]] [[cathrynlavery-diagram-design]] [[bannedbook-fanqiang]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

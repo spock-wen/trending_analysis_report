@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[mahlernim-google-timeline-visualizer]] [[bannedbook-fanqiang]] [[msitarzewski-agency-agents]] [[calesthio-openmontage]]
+[[bannedbook-fanqiang]] [[pbakaus-impeccable]] [[andreknieriem-headunit-revived]] [[thedotmack-claude-mem]] [[mahlernim-google-timeline-visualizer]]
 
 **所属领域**: [[ai-agent]]
 

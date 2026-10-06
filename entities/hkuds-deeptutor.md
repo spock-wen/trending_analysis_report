@@ -38,7 +38,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[tester-army-e2e]] [[stremio-stremio-web]] [[panniantong-agent-reach]] [[getsentry-sentry]] [[earthtojake-text-to-cad]]
+[[earthtojake-text-to-cad]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[calesthio-openmontage]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[web]]
 

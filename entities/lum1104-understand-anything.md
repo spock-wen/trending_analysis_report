@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]] [[tester-army-e2e]] [[mattpocock-skills]] [[panniantong-agent-reach]]
+[[pingdotgg-t3code]] [[obra-superpowers]] [[tester-army-e2e]] [[vectorize-io-hindsight]] [[morluto-rea]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

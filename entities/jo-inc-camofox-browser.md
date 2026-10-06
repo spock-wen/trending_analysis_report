@@ -35,7 +35,7 @@ Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and
 
 ## 相关项目
 
-[[tester-army-e2e]] [[stremio-stremio-web]] [[addyosmani-agent-skills]] [[pbakaus-impeccable]] [[duartesantos8-opengym]]
+[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -36,7 +36,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[t8y2-dbx]] [[panniantong-agent-reach]] [[duartesantos8-opengym]] [[juliusbrussee-caveman]] [[msitarzewski-agency-agents]]
+[[duartesantos8-opengym]] [[caddyserver-caddy]] [[msitarzewski-agency-agents]] [[coreyhaines31-marketingskills]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

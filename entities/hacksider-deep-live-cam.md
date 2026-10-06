@@ -34,7 +34,7 @@ real time face swap and one-click video deepfake with only a single image
 
 ## 相关项目
 
-[[tester-army-e2e]] [[mattpocock-skills]] [[actions-runner-images]] [[fxembed-fxembed]] [[panniantong-agent-reach]]
+[[obra-superpowers]] [[earthtojake-text-to-cad]] [[tester-army-e2e]] [[msitarzewski-agency-agents]] [[actions-runner-images]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

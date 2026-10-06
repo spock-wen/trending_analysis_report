@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[jamwithai-production-agentic-rag-course]] [[nationalsecurityagency-ghidra]] [[cs341-illinois-coursebook]] [[affaan-m-ecc]] [[paperless-ngx-paperless-ngx]]
+[[earthtojake-text-to-cad]] [[vectorize-io-hindsight]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

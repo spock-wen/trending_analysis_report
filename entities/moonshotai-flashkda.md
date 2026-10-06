@@ -34,7 +34,7 @@ FlashKDA: high-performance Kimi Delta Attention kernels
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[deepseek-ai-deepep]] [[msitarzewski-agency-agents]] [[calesthio-openmontage]] [[thedotmack-claude-mem]]
+[[deepseek-ai-deepgemm]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]] [[mattpocock-skills]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[tester-army-e2e]] [[stremio-stremio-web]] [[mattpocock-skills]] [[panniantong-agent-reach]] [[firebase-firebase-ios-sdk]]
+[[obra-superpowers]] [[firebase-firebase-ios-sdk]] [[tester-army-e2e]] [[boykopovar-anyps5]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[cli]]
 

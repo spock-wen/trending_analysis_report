@@ -34,7 +34,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[tester-army-e2e]] [[stremio-stremio-web]] [[addyosmani-agent-skills]] [[pbakaus-impeccable]] [[duartesantos8-opengym]]
+[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[stremio-stremio-web]]
 
 **所属领域**: [[web]]
 

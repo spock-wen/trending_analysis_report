@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[t8y2-dbx]] [[tester-army-e2e]] [[stremio-stremio-web]] [[affaan-m-ecc]]
+[[duartesantos8-opengym]] [[cloudflare-security-audit-skill]] [[tester-army-e2e]] [[affaan-m-ecc]] [[block-buzz]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

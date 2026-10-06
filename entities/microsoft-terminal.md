@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[mattpocock-skills]] [[panniantong-agent-reach]] [[firebase-firebase-ios-sdk]] [[msitarzewski-agency-agents]] [[boykopovar-anyps5]]
+[[obra-superpowers]] [[firebase-firebase-ios-sdk]] [[boykopovar-anyps5]] [[panniantong-agent-reach]] [[m-abozaid-esp32-c3-adblock]]
 
 **所属领域**: [[cli]]
 

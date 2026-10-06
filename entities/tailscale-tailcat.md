@@ -35,7 +35,7 @@ like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 ## 相关项目
 
-[[t8y2-dbx]] [[panniantong-agent-reach]] [[duartesantos8-opengym]] [[juliusbrussee-caveman]] [[msitarzewski-agency-agents]]
+[[duartesantos8-opengym]] [[caddyserver-caddy]] [[msitarzewski-agency-agents]] [[coreyhaines31-marketingskills]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

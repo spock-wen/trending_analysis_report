@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[tester-army-e2e]] [[mattpocock-skills]] [[fxembed-fxembed]] [[zhaoxuya520-reverse-skill]] [[panniantong-agent-reach]]
+[[obra-superpowers]] [[tester-army-e2e]] [[zhaoxuya520-reverse-skill]] [[trycua-cua]] [[bwya77-vscode-dark-islands]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

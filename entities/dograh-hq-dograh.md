@@ -34,7 +34,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]] [[panniantong-agent-reach]] [[getsentry-sentry]]
+[[jamiepine-voicebox]] [[earthtojake-text-to-cad]] [[msitarzewski-agency-agents]] [[multimodal-art-projection-yue]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -36,7 +36,7 @@ A unified library of SOTA model optimization techniques like quantization, disti
 
 ## 相关项目
 
-[[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]] [[oblien-openship]] [[davila7-claude-code-templates]] [[panniantong-agent-reach]]
+[[oblien-openship]] [[earthtojake-text-to-cad]] [[vectorize-io-hindsight]] [[davila7-claude-code-templates]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

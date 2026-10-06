@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[tester-army-e2e]] [[stremio-stremio-web]] [[actions-runner-images]] [[fxembed-fxembed]] [[panniantong-agent-reach]]
+[[earthtojake-text-to-cad]] [[tester-army-e2e]] [[actions-runner-images]] [[trycua-cua]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[image-gen]]
 

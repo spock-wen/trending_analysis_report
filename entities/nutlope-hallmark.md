@@ -38,7 +38,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## 相关项目
 
-[[tester-army-e2e]] [[conardli-garden-skills]] [[stremio-stremio-web]] [[diolinux-photogimp]] [[panniantong-agent-reach]]
+[[tester-army-e2e]] [[diolinux-photogimp]] [[conardli-garden-skills]] [[cathrynlavery-diagram-design]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

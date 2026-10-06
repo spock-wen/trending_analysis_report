@@ -35,7 +35,7 @@ Beads - A memory upgrade for your coding agent
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[juliusbrussee-caveman]] [[msitarzewski-agency-agents]] [[rakyll-hey]] [[calesthio-openmontage]]
+[[caddyserver-caddy]] [[msitarzewski-agency-agents]] [[pbakaus-impeccable]] [[openbao-openbao]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]]
 

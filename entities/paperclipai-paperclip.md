@@ -38,7 +38,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[tester-army-e2e]] [[affaan-m-ecc]] [[mattpocock-skills]] [[paperless-ngx-paperless-ngx]] [[zhaoxuya520-reverse-skill]]
+[[pingdotgg-t3code]] [[obra-superpowers]] [[tester-army-e2e]] [[affaan-m-ecc]] [[morluto-rea]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

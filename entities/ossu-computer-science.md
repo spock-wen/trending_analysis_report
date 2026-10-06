@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[tester-army-e2e]] [[stremio-stremio-web]] [[ripienaar-free-for-dev]] [[trycua-cua]] [[averygan-reclip]]
+[[tester-army-e2e]] [[trycua-cua]] [[cathrynlavery-diagram-design]] [[averygan-reclip]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[web]]
 

@@ -35,7 +35,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]] [[mattpocock-skills]] [[panniantong-agent-reach]] [[rohitg00-ai-engineering-from-scratch]]
+[[obra-superpowers]] [[vectorize-io-hindsight]] [[mattpocock-skills]] [[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

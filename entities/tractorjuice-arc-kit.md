@@ -34,7 +34,7 @@ Enterprise Architecture Governance & Vendor Procurement Toolkit
 
 ## 相关项目
 
-[[tester-army-e2e]] [[stremio-stremio-web]] [[ever-co-ever-gauzy]] [[ripienaar-free-for-dev]] [[trycua-cua]]
+[[obra-superpowers]] [[ever-co-ever-gauzy]] [[earthtojake-text-to-cad]] [[tester-army-e2e]] [[melgarafael-deskcommcrm]]
 
 **所属领域**: [[web]] [[erp]]
 

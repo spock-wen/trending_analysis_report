@@ -36,5 +36,5 @@ Unofficial Bitwarden compatible server written in Rust, formerly known as bitwar
 
 ## 相关项目
 
-[[nvidia-openshell]] [[t8y2-dbx]] [[block-buzz]] [[akitaonrails-ai-memory]]
+[[nvidia-openshell]] [[akitaonrails-ai-memory]] [[t8y2-dbx]] [[block-buzz]]
 

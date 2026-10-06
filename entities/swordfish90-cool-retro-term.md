@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[obra-superpowers]] [[mattpocock-skills]] [[panniantong-agent-reach]]
+[[panniantong-agent-reach]] [[obra-superpowers]] [[mattpocock-skills]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]] [[tester-army-e2e]] [[stremio-stremio-web]] [[vectorize-io-hindsight]]
+[[tester-army-e2e]] [[vectorize-io-hindsight]] [[trycua-cua]] [[cathrynlavery-diagram-design]] [[jamwithai-production-agentic-rag-course]]
 
 **所属领域**: [[web]] [[education]]
 

@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[tester-army-e2e]] [[stremio-stremio-web]] [[juliusbrussee-caveman]] [[msitarzewski-agency-agents]] [[rakyll-hey]]
+[[rakyll-hey]] [[caddyserver-caddy]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[openbao-openbao]]
 
 **所属领域**: [[web]]
 

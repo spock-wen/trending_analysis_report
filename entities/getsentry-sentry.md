@@ -36,7 +36,7 @@ Developer-first error tracking and performance monitoring
 
 ## 相关项目
 
-[[oblien-openship]] [[davila7-claude-code-templates]] [[panniantong-agent-reach]] [[nvidia-model-optimizer]] [[earthtojake-text-to-cad]]
+[[oblien-openship]] [[earthtojake-text-to-cad]] [[davila7-claude-code-templates]] [[calesthio-openmontage]] [[panniantong-agent-reach]]
 
 **所属领域**: [[devops]]
 

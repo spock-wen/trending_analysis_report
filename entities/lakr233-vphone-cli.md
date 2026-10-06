@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[mattpocock-skills]] [[homebrew-brewui]] [[peetzweg-opendisplay]] [[panniantong-agent-reach]]
+[[obra-superpowers]] [[homebrew-brewui]] [[peetzweg-opendisplay]] [[panniantong-agent-reach]] [[abue-ammar-tinycast]]
 
 **所属领域**: [[cli]]
 

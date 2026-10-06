@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]] [[jamiepine-voicebox]] [[multimodal-art-projection-yue]] [[debpalash-voicestudio]]
+[[jamiepine-voicebox]] [[earthtojake-text-to-cad]] [[vectorize-io-hindsight]] [[msitarzewski-agency-agents]] [[jamwithai-production-agentic-rag-course]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

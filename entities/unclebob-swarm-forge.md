@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[msitarzewski-agency-agents]] [[calesthio-openmontage]] [[penpot-penpot]] [[thedotmack-claude-mem]]
+[[mattpocock-skills]] [[penpot-penpot]] [[thedotmack-claude-mem]] [[pbakaus-impeccable]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]]
 

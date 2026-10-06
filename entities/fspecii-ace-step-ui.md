@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[tester-army-e2e]] [[multimodal-art-projection-yue]] [[stremio-stremio-web]] [[addyosmani-agent-skills]]
+[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[jamiepine-voicebox]] [[tester-army-e2e]] [[actions-runner-images]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

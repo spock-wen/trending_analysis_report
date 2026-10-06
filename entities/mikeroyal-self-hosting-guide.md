@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]] [[tester-army-e2e]] [[stremio-stremio-web]] [[panniantong-agent-reach]]
+[[tester-army-e2e]] [[vectorize-io-hindsight]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[jamwithai-production-agentic-rag-course]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

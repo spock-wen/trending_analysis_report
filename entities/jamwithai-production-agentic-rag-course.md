@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[cs341-illinois-coursebook]] [[panniantong-agent-reach]] [[rohitg00-ai-engineering-from-scratch]] [[getsentry-sentry]] [[vectorize-io-hindsight]]
+[[earthtojake-text-to-cad]] [[vectorize-io-hindsight]] [[msitarzewski-agency-agents]] [[pbakaus-impeccable]] [[cs341-illinois-coursebook]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

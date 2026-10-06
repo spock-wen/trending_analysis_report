@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[tester-army-e2e]] [[stremio-stremio-web]] [[diolinux-photogimp]] [[actions-runner-images]] [[fxembed-fxembed]]
+[[tester-army-e2e]] [[nutlope-hallmark]] [[diolinux-photogimp]] [[actions-runner-images]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

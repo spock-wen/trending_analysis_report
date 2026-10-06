@@ -34,5 +34,5 @@ The systemd System and Service Manager
 
 ## 相关项目
 
-[[willfaust-madeira]] [[antirez-ds4]] [[deusdata-codebase-memory-mcp]] [[colbymchenry-codegraph]]
+[[deusdata-codebase-memory-mcp]] [[antirez-ds4]] [[willfaust-madeira]] [[colbymchenry-codegraph]]
 

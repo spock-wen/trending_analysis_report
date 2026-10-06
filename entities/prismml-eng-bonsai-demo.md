@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[mattpocock-skills]] [[infinityloop1308-pipepipe]] [[panniantong-agent-reach]] [[msitarzewski-agency-agents]] [[calesthio-openmontage]]
+[[obra-superpowers]] [[infinityloop1308-pipepipe]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

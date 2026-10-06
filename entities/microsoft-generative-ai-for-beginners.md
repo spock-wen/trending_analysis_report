@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[jamwithai-production-agentic-rag-course]] [[cs341-illinois-coursebook]] [[higgsfield-ai-higgsfield]] [[panniantong-agent-reach]] [[lyogavin-airllm]]
+[[lyogavin-airllm]] [[vectorize-io-hindsight]] [[jamwithai-production-agentic-rag-course]] [[pbakaus-impeccable]] [[cs341-illinois-coursebook]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

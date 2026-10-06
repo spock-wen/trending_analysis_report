@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[msitarzewski-agency-agents]] [[rakyll-hey]] [[calesthio-openmontage]] [[thedotmack-claude-mem]]
+[[rakyll-hey]] [[caddyserver-caddy]] [[pbakaus-impeccable]] [[openbao-openbao]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]]
 

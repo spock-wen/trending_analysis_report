@@ -35,7 +35,7 @@ ADR secures enterprise AI agents through observability, security benchmarking, a
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[affaan-m-ecc]] [[melgarafael-deskcommcrm]] [[oblien-openship]] [[davila7-claude-code-templates]]
+[[thedotmack-claude-mem]] [[panniantong-agent-reach]] [[msitarzewski-agency-agents]] [[davila7-claude-code-templates]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[security]] [[erp]]
 

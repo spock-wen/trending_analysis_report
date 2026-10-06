@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[tester-army-e2e]] [[affaan-m-ecc]] [[stremio-stremio-web]] [[paperless-ngx-paperless-ngx]] [[paperclipai-paperclip]]
+[[earthtojake-text-to-cad]] [[tester-army-e2e]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

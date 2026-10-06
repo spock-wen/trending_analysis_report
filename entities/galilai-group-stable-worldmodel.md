@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[tester-army-e2e]] [[affaan-m-ecc]] [[paperless-ngx-paperless-ngx]] [[actions-runner-images]] [[fxembed-fxembed]]
+[[earthtojake-text-to-cad]] [[tester-army-e2e]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[actions-runner-images]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

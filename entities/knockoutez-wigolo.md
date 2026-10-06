@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[tester-army-e2e]] [[affaan-m-ecc]] [[stremio-stremio-web]] [[paperless-ngx-paperless-ngx]] [[paperclipai-paperclip]]
+[[pingdotgg-t3code]] [[tester-army-e2e]] [[affaan-m-ecc]] [[morluto-rea]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

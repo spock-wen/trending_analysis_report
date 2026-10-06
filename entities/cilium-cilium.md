@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[affaan-m-ecc]] [[oblien-openship]] [[davila7-claude-code-templates]] [[zhaoxuya520-reverse-skill]]
+[[oblien-openship]] [[caddyserver-caddy]] [[davila7-claude-code-templates]] [[affaan-m-ecc]] [[getsentry-sentry]]
 
 **所属领域**: [[devops]] [[security]]
 

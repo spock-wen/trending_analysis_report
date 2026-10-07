@@ -34,5 +34,5 @@ Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engi
 
 ## 相关项目
 
-[[nvidia-openshell]] [[akitaonrails-ai-memory]] [[t8y2-dbx]] [[block-buzz]]
+[[trycua-cua]] [[t8y2-dbx]] [[block-buzz]] [[nvidia-openshell]]
 

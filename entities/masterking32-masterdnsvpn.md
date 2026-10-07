@@ -36,7 +36,7 @@ Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli
 
 ## 相关项目
 
-[[caddyserver-caddy]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[openbao-openbao]] [[cloudflare-security-audit-skill]]
+[[juliusbrussee-caveman]] [[openbao-openbao]] [[caddyserver-caddy]] [[rakyll-hey]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[security]]
 

@@ -34,7 +34,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[pbakaus-impeccable]]
+[[manaflow-ai-cmux]] [[pbakaus-impeccable]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[duartesantos8-opengym]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

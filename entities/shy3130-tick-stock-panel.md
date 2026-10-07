@@ -34,7 +34,7 @@ TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 |
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[msitarzewski-agency-agents]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]] [[calesthio-openmontage]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

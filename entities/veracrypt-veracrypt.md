@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[deusdata-codebase-memory-mcp]] [[antirez-ds4]]
+[[colbymchenry-codegraph]] [[willfaust-madeira]] [[nationalsecurityagency-ghidra]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[security]]
 

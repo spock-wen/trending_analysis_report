@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[tester-army-e2e]] [[affaan-m-ecc]] [[trycua-cua]] [[cathrynlavery-diagram-design]] [[zhaoxuya520-reverse-skill]]
+[[manaflow-ai-cmux]] [[ripienaar-free-for-dev]] [[addyosmani-agent-skills]] [[tester-army-e2e]] [[stremio-stremio-web]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

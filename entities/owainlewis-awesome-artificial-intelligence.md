@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[vectorize-io-hindsight]] [[mattpocock-skills]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[jamwithai-production-agentic-rag-course]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[paperless-ngx-paperless-ngx]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

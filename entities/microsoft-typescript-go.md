@@ -35,5 +35,5 @@ Staging repo for development of native port of TypeScript
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[caddyserver-caddy]] [[openbao-openbao]] [[rakyll-hey]]
+[[caddyserver-caddy]] [[juliusbrussee-caveman]] [[rakyll-hey]] [[openbao-openbao]]
 

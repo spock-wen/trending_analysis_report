@@ -36,7 +36,7 @@ Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of sw
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[msitarzewski-agency-agents]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]] [[calesthio-openmontage]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

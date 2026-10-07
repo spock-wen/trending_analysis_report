@@ -37,7 +37,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[earthtojake-text-to-cad]] [[tester-army-e2e]] [[msitarzewski-agency-agents]] [[actions-runner-images]]
+[[manaflow-ai-cmux]] [[actions-runner-images]] [[addyosmani-agent-skills]] [[tester-army-e2e]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

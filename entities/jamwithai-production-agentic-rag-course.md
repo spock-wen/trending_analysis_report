@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[vectorize-io-hindsight]] [[msitarzewski-agency-agents]] [[pbakaus-impeccable]] [[cs341-illinois-coursebook]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

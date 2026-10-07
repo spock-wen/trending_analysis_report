@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[obra-superpowers]] [[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[actions-runner-images]] [[pbakaus-impeccable]]
+[[actions-runner-images]] [[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

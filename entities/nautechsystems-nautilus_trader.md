@@ -34,5 +34,5 @@ A high-performance algorithmic trading platform and event-driven backtester
 
 ## 相关项目
 
-[[nvidia-openshell]] [[akitaonrails-ai-memory]] [[t8y2-dbx]] [[block-buzz]]
+[[trycua-cua]] [[t8y2-dbx]] [[block-buzz]] [[nvidia-openshell]]
 

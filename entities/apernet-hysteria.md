@@ -35,5 +35,5 @@ Hysteria is a powerful, lightning fast and censorship resistant proxy.
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[caddyserver-caddy]] [[openbao-openbao]] [[rakyll-hey]]
+[[caddyserver-caddy]] [[juliusbrussee-caveman]] [[rakyll-hey]] [[openbao-openbao]]
 

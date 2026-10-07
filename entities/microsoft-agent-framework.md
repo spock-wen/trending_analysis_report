@@ -34,7 +34,7 @@ A framework for building, orchestrating and deploying AI agents and multi-agent 
 
 ## 相关项目
 
-[[oblien-openship]] [[earthtojake-text-to-cad]] [[davila7-claude-code-templates]] [[msitarzewski-agency-agents]] [[getsentry-sentry]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

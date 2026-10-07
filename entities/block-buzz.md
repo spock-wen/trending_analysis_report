@@ -37,5 +37,5 @@ A hive mind communication platform
 
 ## 相关项目
 
-[[nvidia-openshell]] [[akitaonrails-ai-memory]] [[t8y2-dbx]]
+[[trycua-cua]] [[t8y2-dbx]] [[nvidia-openshell]]
 

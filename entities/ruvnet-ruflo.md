@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[oblien-openship]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[vectorize-io-hindsight]] [[davila7-claude-code-templates]]
+[[morluto-rea]] [[manaflow-ai-cmux]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

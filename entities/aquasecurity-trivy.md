@@ -38,7 +38,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[caddyserver-caddy]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[zhaoxuya520-reverse-skill]] [[pbakaus-impeccable]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[juliusbrussee-caveman]] [[openbao-openbao]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

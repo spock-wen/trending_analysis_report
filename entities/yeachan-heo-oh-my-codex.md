@@ -34,7 +34,7 @@ OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[tester-army-e2e]] [[morluto-rea]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]]
+[[morluto-rea]] [[manaflow-ai-cmux]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

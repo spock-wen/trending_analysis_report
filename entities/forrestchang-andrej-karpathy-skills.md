@@ -38,7 +38,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[thedotmack-claude-mem]] [[mattpocock-skills]] [[msitarzewski-agency-agents]]
+[[manaflow-ai-cmux]] [[thedotmack-claude-mem]] [[addyosmani-agent-skills]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

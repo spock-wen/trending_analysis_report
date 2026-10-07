@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[vectorize-io-hindsight]] [[jamwithai-production-agentic-rag-course]] [[pbakaus-impeccable]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

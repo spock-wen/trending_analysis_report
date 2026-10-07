@@ -35,7 +35,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[tester-army-e2e]] [[actions-runner-images]] [[trycua-cua]] [[calesthio-openmontage]]
+[[actions-runner-images]] [[tester-army-e2e]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[calesthio-openmontage]]
 
 **所属领域**: [[image-gen]]
 

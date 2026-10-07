@@ -34,7 +34,7 @@ Miles is an enterprise-facing reinforcement learning framework for LLM and VLM p
 
 ## 相关项目
 
-[[obra-superpowers]] [[ever-co-ever-gauzy]] [[earthtojake-text-to-cad]] [[vectorize-io-hindsight]] [[msitarzewski-agency-agents]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[ever-co-ever-gauzy]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[ai-agent]] [[education]] [[erp]]
 

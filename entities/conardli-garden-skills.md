@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[tester-army-e2e]] [[nutlope-hallmark]] [[diolinux-photogimp]] [[actions-runner-images]] [[trycua-cua]]
+[[manaflow-ai-cmux]] [[nutlope-hallmark]] [[addyosmani-agent-skills]] [[tester-army-e2e]] [[stremio-stremio-web]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

@@ -34,7 +34,7 @@ Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[msitarzewski-agency-agents]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]] [[calesthio-openmontage]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

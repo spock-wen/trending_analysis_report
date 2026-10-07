@@ -37,7 +37,7 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 
 ## 相关项目
 
-[[embabel-embabel-agent]] [[bannedbook-fanqiang]] [[pbakaus-impeccable]] [[andreknieriem-headunit-revived]] [[thedotmack-claude-mem]]
+[[manaflow-ai-cmux]] [[andreknieriem-headunit-revived]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[mahlernim-google-timeline-visualizer]]
 
 **所属领域**: [[ai-agent]]
 

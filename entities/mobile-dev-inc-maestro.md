@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[tester-army-e2e]] [[embabel-embabel-agent]] [[cathrynlavery-diagram-design]] [[bannedbook-fanqiang]] [[pbakaus-impeccable]]
+[[manaflow-ai-cmux]] [[andreknieriem-headunit-revived]] [[addyosmani-agent-skills]] [[tester-army-e2e]] [[stremio-stremio-web]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

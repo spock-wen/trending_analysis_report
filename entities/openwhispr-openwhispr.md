@@ -34,7 +34,7 @@ Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud model
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[jamiepine-voicebox]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]]
+[[manaflow-ai-cmux]] [[multimodal-art-projection-yue]] [[pbakaus-impeccable]] [[addyosmani-agent-skills]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[security]] [[audio]]
 

@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[block-buzz]] [[zhaoxuya520-reverse-skill]] [[pbakaus-impeccable]] [[nvidia-openshell]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[paperless-ngx-paperless-ngx]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

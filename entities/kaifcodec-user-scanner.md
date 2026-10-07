@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[earthtojake-text-to-cad]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

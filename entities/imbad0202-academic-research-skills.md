@@ -38,7 +38,7 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[zhaoxuya520-reverse-skill]] [[pbakaus-impeccable]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -38,7 +38,7 @@ Coding agent for DeepSeek models that runs in your terminal
 
 ## 相关项目
 
-[[obra-superpowers]] [[block-buzz]] [[pbakaus-impeccable]] [[nvidia-openshell]] [[akitaonrails-ai-memory]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

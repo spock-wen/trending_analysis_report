@@ -38,7 +38,7 @@ TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conv
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[tester-army-e2e]] [[morluto-rea]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]]
+[[morluto-rea]] [[manaflow-ai-cmux]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[vectorize-io-hindsight]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[zhaoxuya520-reverse-skill]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

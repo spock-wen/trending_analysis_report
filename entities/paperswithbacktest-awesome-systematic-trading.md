@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[vectorize-io-hindsight]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[jamwithai-production-agentic-rag-course]]
+[[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[rohitg00-ai-engineering-from-scratch]] [[paperless-ngx-paperless-ngx]] [[calesthio-openmontage]]
 
 **所属领域**: [[education]] [[science]]
 

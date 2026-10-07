@@ -36,7 +36,7 @@ Help AI coding agents write modern Go
 
 ## 相关项目
 
-[[caddyserver-caddy]] [[msitarzewski-agency-agents]] [[pbakaus-impeccable]] [[openbao-openbao]] [[thedotmack-claude-mem]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[juliusbrussee-caveman]] [[openbao-openbao]]
 
 **所属领域**: [[ai-agent]]
 

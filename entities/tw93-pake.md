@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[obra-superpowers]] [[tester-army-e2e]] [[block-buzz]] [[cathrynlavery-diagram-design]] [[nvidia-openshell]]
+[[manaflow-ai-cmux]] [[stremio-stremio-web]] [[tester-army-e2e]] [[panniantong-agent-reach]] [[mattpocock-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

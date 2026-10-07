@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[tester-army-e2e]] [[actions-runner-images]] [[trycua-cua]]
+[[actions-runner-images]] [[stremio-stremio-web]] [[pbakaus-impeccable]] [[addyosmani-agent-skills]] [[tester-army-e2e]]
 
 **所属领域**: [[web]] [[image-gen]]
 

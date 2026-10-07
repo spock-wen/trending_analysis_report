@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[obra-superpowers]] [[earthtojake-text-to-cad]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[zhaoxuya520-reverse-skill]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

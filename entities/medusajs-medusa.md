@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[obra-superpowers]] [[ever-co-ever-gauzy]] [[earthtojake-text-to-cad]] [[tester-army-e2e]]
+[[morluto-rea]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[ever-co-ever-gauzy]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[erp]]
 

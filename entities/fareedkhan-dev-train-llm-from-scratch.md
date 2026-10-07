@@ -37,7 +37,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[earthtojake-text-to-cad]] [[msitarzewski-agency-agents]] [[coreyhaines31-marketingskills]] [[pbakaus-impeccable]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

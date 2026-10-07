@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[homebrew-brewui]] [[lakr233-vphone-cli]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]] [[peetzweg-opendisplay]]
+[[manaflow-ai-cmux]] [[abue-ammar-tinycast]] [[homebrew-brewui]] [[addyosmani-agent-skills]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

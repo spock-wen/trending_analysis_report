@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[flutter-flutter]] [[localsend-localsend]] [[chen08209-flclash]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[chen08209-flclash]] [[flutter-flutter]]
 
 **所属领域**: [[ai-agent]]
 

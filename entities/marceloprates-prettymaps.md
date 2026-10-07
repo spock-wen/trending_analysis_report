@@ -34,7 +34,7 @@ Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[earthtojake-text-to-cad]] [[coreyhaines31-marketingskills]] [[t8y2-dbx]] [[calesthio-openmontage]]
+[[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[duartesantos8-opengym]] [[calesthio-openmontage]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[data]]
 

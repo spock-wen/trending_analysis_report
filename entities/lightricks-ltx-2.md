@@ -37,7 +37,7 @@ Official Python inference and LoRA trainer package for the LTX-2 audio–video g
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[earthtojake-text-to-cad]] [[msitarzewski-agency-agents]] [[multimodal-art-projection-yue]] [[pbakaus-impeccable]]
+[[manaflow-ai-cmux]] [[multimodal-art-projection-yue]] [[addyosmani-agent-skills]] [[jamiepine-voicebox]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

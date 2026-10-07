@@ -38,7 +38,7 @@ Give your agent CAD superpowers.
 
 ## 相关项目
 
-[[obra-superpowers]] [[ever-co-ever-gauzy]] [[melgarafael-deskcommcrm]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[ever-co-ever-gauzy]] [[panniantong-agent-reach]] [[melgarafael-deskcommcrm]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

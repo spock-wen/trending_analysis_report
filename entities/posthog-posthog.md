@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[oblien-openship]] [[earthtojake-text-to-cad]] [[tester-army-e2e]] [[davila7-claude-code-templates]]
+[[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[nvidia-model-optimizer]] [[msitarzewski-agency-agents]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[vectorize-io-hindsight]] [[msitarzewski-agency-agents]] [[jamwithai-production-agentic-rag-course]] [[pbakaus-impeccable]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

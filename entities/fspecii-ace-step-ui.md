@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[jamiepine-voicebox]] [[tester-army-e2e]] [[actions-runner-images]]
+[[manaflow-ai-cmux]] [[actions-runner-images]] [[pbakaus-impeccable]] [[addyosmani-agent-skills]] [[tester-army-e2e]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

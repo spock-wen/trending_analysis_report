@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[obra-superpowers]] [[infinityloop1308-pipepipe]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]] [[panniantong-agent-reach]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[infinityloop1308-pipepipe]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

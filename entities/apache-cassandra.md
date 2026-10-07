@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[duartesantos8-opengym]] [[oblien-openship]] [[davila7-claude-code-templates]] [[getsentry-sentry]]
+[[getsentry-sentry]] [[oblien-openship]] [[checkstyle-checkstyle]] [[yuliskov-smarttube]] [[duartesantos8-opengym]]
 
 **所属领域**: [[data]] [[devops]]
 

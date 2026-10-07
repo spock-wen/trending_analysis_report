@@ -35,7 +35,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[flutter-skills]] [[flutter-flutter]] [[chen08209-flclash]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[flutter-skills]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]]
 

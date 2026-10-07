@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[vectorize-io-hindsight]] [[coreyhaines31-marketingskills]] [[jamwithai-production-agentic-rag-course]]
+[[pbakaus-impeccable]] [[addyosmani-agent-skills]] [[rohitg00-ai-engineering-from-scratch]] [[duartesantos8-opengym]] [[calesthio-openmontage]]
 
 **所属领域**: [[data]] [[education]]
 

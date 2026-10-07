@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[pingdotgg-t3code]] [[oblien-openship]] [[tester-army-e2e]] [[davila7-claude-code-templates]]
+[[morluto-rea]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[oblien-openship]] [[duartesantos8-opengym]]
 
 **所属领域**: [[data]] [[devops]]
 

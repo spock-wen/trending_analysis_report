@@ -16,7 +16,6 @@ last_trending: 2026-10-07
 peak_rank: 9
 total_stars: 8676
 language: "Cuda"
-contested: true
 ---
 
 # deepseek-ai/DeepGEMM
@@ -36,17 +35,7 @@ DeepGEMM: clean and efficient BLAS kernel library on GPU
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[thedotmack-claude-mem]] [[moonshotai-flashkda]] [[mattpocock-skills]] [[msitarzewski-agency-agents]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[moonshotai-flashkda]] [[deepseek-ai-deepep]]
 
 **所属领域**: [[ai-agent]]
-
-
-## ⚠️ 描述变更（2026-10-07）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
-- **新描述**: DeepGEMM: clean and efficient BLAS kernel library on GPU
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

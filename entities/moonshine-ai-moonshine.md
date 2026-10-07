@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[firebase-firebase-ios-sdk]] [[boykopovar-anyps5]] [[multimodal-art-projection-yue]] [[pbakaus-impeccable]]
+[[manaflow-ai-cmux]] [[multimodal-art-projection-yue]] [[tensorflow-tensorflow]] [[addyosmani-agent-skills]] [[jamiepine-voicebox]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

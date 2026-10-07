@@ -37,7 +37,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ## 相关项目
 
-[[block-buzz]] [[pbakaus-impeccable]] [[nvidia-openshell]] [[akitaonrails-ai-memory]] [[t8y2-dbx]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[nvidia-openshell]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]]
 

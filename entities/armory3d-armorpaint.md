@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[deusdata-codebase-memory-mcp]] [[willfaust-madeira]] [[pbakaus-impeccable]] [[antirez-ds4]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[willfaust-madeira]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]]
 

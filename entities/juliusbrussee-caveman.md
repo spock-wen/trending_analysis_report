@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[rakyll-hey]] [[caddyserver-caddy]] [[pbakaus-impeccable]] [[openbao-openbao]] [[thedotmack-claude-mem]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[openbao-openbao]] [[caddyserver-caddy]]
 
 **所属领域**: [[ai-agent]]
 

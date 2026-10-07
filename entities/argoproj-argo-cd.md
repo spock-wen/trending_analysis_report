@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[oblien-openship]] [[caddyserver-caddy]] [[davila7-claude-code-templates]] [[getsentry-sentry]] [[openbao-openbao]]
+[[oblien-openship]] [[juliusbrussee-caveman]] [[openbao-openbao]] [[nvidia-model-optimizer]] [[caddyserver-caddy]]
 
 **所属领域**: [[devops]]
 

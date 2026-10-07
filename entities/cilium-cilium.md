@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[oblien-openship]] [[caddyserver-caddy]] [[davila7-claude-code-templates]] [[affaan-m-ecc]] [[getsentry-sentry]]
+[[oblien-openship]] [[juliusbrussee-caveman]] [[openbao-openbao]] [[nvidia-model-optimizer]] [[caddyserver-caddy]]
 
 **所属领域**: [[devops]] [[security]]
 

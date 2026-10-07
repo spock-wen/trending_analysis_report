@@ -34,7 +34,7 @@ Model router for agentic systems. Routes every prompt to the right model in <50m
 
 ## 相关项目
 
-[[caddyserver-caddy]] [[msitarzewski-agency-agents]] [[pbakaus-impeccable]] [[openbao-openbao]] [[thedotmack-claude-mem]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[juliusbrussee-caveman]] [[openbao-openbao]]
 
 **所属领域**: [[ai-agent]]
 

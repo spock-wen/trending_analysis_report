@@ -35,7 +35,7 @@ Source control for agents. Use multiple coding agents, track their changes and q
 
 ## 相关项目
 
-[[block-buzz]] [[pbakaus-impeccable]] [[nvidia-openshell]] [[akitaonrails-ai-memory]] [[t8y2-dbx]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[nvidia-openshell]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[firebase-firebase-ios-sdk]] [[boykopovar-anyps5]] [[coreyhaines31-marketingskills]] [[t8y2-dbx]]
+[[tensorflow-tensorflow]] [[duartesantos8-opengym]] [[calesthio-openmontage]] [[trycua-cua]] [[firebase-firebase-ios-sdk]]
 
 **所属领域**: [[data]]
 

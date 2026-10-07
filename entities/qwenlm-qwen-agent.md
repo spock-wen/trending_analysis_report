@@ -35,7 +35,7 @@ Agent framework and applications built upon Qwen>=3.0, featuring Function Callin
 
 ## 相关项目
 
-[[obra-superpowers]] [[ever-co-ever-gauzy]] [[earthtojake-text-to-cad]] [[tester-army-e2e]] [[msitarzewski-agency-agents]]
+[[manaflow-ai-cmux]] [[stremio-stremio-web]] [[addyosmani-agent-skills]] [[tester-army-e2e]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[web]] [[erp]]
 

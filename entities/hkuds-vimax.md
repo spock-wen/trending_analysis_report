@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[tester-army-e2e]] [[msitarzewski-agency-agents]] [[actions-runner-images]] [[trycua-cua]]
+[[manaflow-ai-cmux]] [[actions-runner-images]] [[addyosmani-agent-skills]] [[tester-army-e2e]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

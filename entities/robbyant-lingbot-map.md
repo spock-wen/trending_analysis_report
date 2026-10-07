@@ -37,7 +37,7 @@ A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[earthtojake-text-to-cad]] [[coreyhaines31-marketingskills]] [[t8y2-dbx]] [[calesthio-openmontage]]
+[[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[duartesantos8-opengym]] [[calesthio-openmontage]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[data]]
 

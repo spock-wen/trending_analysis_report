@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-07 | 总页面：810
+> 最后更新：2026-10-08 | 总页面：811
 
 ## Entities
 
@@ -20,7 +20,7 @@
 - [[actions-checkout|checkout"]] — Action for checking out a repo
 - [[actions-runner-images|runner-images"]] — GitHub Actions runner images
 - [[activeloopai-hivemind|hivemind"]] — One brain for all your agents
-- [[addyosmani-agent-skills|agent-skills"]] — Production-grade engineering skills for AI coding agents. 🆕
+- [[addyosmani-agent-skills|agent-skills"]] — Production-grade engineering skills for AI coding agents.
 - [[affaan-m-ecc|ECC"]] — The agent harness performance optimization system. Skills, i...
 - [[affaan-m-everything-claude-code|everything-claude-code"]] — The agent harness performance optimization system. Skills, i...
 - [[agalwood-motrix|Motrix"]] — A full-featured download manager. 🆕
@@ -101,7 +101,7 @@
 - [[aws-agent-toolkit-for-aws|agent-toolkit-for-aws"]] — Official, AWS-supported MCP servers, skills, and plugins to ... 🆕
 - [[awslabs-aidlc-workflows|aidlc-workflows"]] — AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rul...
 - [[axorax-awesome-free-apps|awesome-free-apps"]] — Curated list of the best free apps for PC and mobile 🔥
-- [[ayghri-i-have-adhd|i-have-adhd"]] — A skill to stop your coding agent from burying the answer. A...
+- [[ayghri-i-have-adhd|i-have-adhd"]] — A skill to stop your coding agent from burying the answer. A... 🆕
 - [[bannedbook-fanqiang|fanqiang"]] — 翻墙-科学上网 🆕
 - [[basecamp-omarchy|omarchy"]] — Beautiful, Modern & Opinionated Linux 🔥
 - [[basedhardware-omi|omi"]] — AI that sees your screen, listens to your conversations and ...
@@ -116,7 +116,7 @@
 - [[block-buzz|buzz"]] — A hive mind communication platform
 - [[block-goose|goose"]] — an open source, extensible AI agent that goes beyond code su... 🔥
 - [[bojieli-ai-agent-book|ai-agent-book"]] — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
-- [[boykopovar-anyps5|AnyPS5"]] — Tool for automatic PS5 executables porting to Linux and Wind... 🆕
+- [[boykopovar-anyps5|AnyPS5"]] — Tool for automatic PS5 executables porting to Linux and Wind... 🔥
 - [[bradautomates-claude-video|claude-video"]] — Give Claude the ability to watch any video. /watch downloads... 🆕
 - [[braveopotato-fcksignups|FckSignups"]] — A list of tools that are open-source, in-browser, and requir... 🔥
 - [[browser-use-browser-use|browser-use"]] — 🌐 Make websites accessible for AI agents. Automate tasks onl...
@@ -136,7 +136,7 @@
 - [[can1357-oh-my-pi|oh-my-pi"]] — ⌥ AI Coding agent for the terminal — hash-anchored edits, op...
 - [[canner-wrenai|WrenAI"]] — GenBI (Generative BI) for AI agents, an open-source, governe...
 - [[catchorg-catch2|Catch2"]] — A modern, C++-native, test framework for unit-tests, TDD and... 🆕
-- [[cathrynlavery-diagram-design|diagram-design"]] — Editorial diagram design for Claude Code, Codex, GitHub Copi...
+- [[cathrynlavery-diagram-design|diagram-design"]] — Editorial diagram design for Claude Code, Codex, GitHub Copi... 🆕
 - [[chachamaru127-claude-code-harness|claude-code-harness"]] — Claude Code Dedicated Development Harness - Achieving High-Q...
 - [[chaitanyagiri-munder-difflin|munder-difflin"]] — local multi-agent harness 🔥
 - [[chatwoot-chatwoot|chatwoot"]] — Open-source live-chat, email support, omni-channel desk. An ...
@@ -158,7 +158,7 @@
 - [[cloudflare-cloudflare-os|cloudflare-os"]] — Agent workspace built on Cloudflare Workers for creating doc...
 - [[cloudflare-computer|computer"]] — Give your agent a computer 👾 🔥
 - [[cloudflare-quiche|quiche"]] — 🥧 Savoury implementation of the QUIC transport protocol and ...
-- [[cloudflare-security-audit-skill|security-audit-skill"]] — A coding-agent skill for multi-phase security audits with in... 🔥
+- [[cloudflare-security-audit-skill|security-audit-skill"]] — A coding-agent skill for multi-phase security audits with in...
 - [[cloudflare-workerd|workerd"]] — The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [[clshortfuse-renodx|renodx"]] — Renovation Engine for DirectX Games
 - [[cocoindex-io-cocoindex|cocoindex"]] — Incremental engine for long horizon agents 🌟 Star if you lik... 🆕
@@ -228,7 +228,7 @@
 - [[dottxt-ai-outlines|outlines"]] — Structured Outputs 🆕
 - [[dream-num-univer|univer"]] — The Office Harness for AI Agents — Spreadsheets, Docs, Slide... 🔥
 - [[dreammis-social-auto-upload|social-auto-upload"]] — 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
-- [[duartesantos8-opengym|openGym"]] — Self-hosted gym & body-weight tracker — plan routines, log w... 🆕
+- [[duartesantos8-opengym|openGym"]] — Self-hosted gym & body-weight tracker — plan routines, log w... 🔥
 - [[earendil-works-pi|pi"]] — AI agent toolkit: unified LLM API, agent loop, TUI, coding a...
 - [[earthtojake-text-to-cad|text-to-cad"]] — Give your agent CAD superpowers. 🔥
 - [[ed1s0nz-cyberstrikeai|CyberStrikeAI"]] — CyberStrikeAI is an AI-native security testing platform buil...
@@ -239,6 +239,7 @@
 - [[elebumm-redditvideomakerbot|RedditVideoMakerBot"]] — Create Reddit Videos with just✨ one command ✨ 🆕
 - [[embabel-embabel-agent|embabel-agent"]] — Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbə...
 - [[emmabostian-developer-portfolios|developer-portfolios"]] — A list of developer portfolios for your inspiration
+- [[epicgames-raddebugger|raddebugger"]] — A native, user-mode, multi-process, graphical debugger. 🆕
 - [[esengine-deepseek-reasonix|DeepSeek-Reasonix"]] — DeepSeek-native AI coding agent for your terminal. Engineere... 🔥
 - [[ever-co-ever-gauzy|ever-gauzy"]] — Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HR... 🔥
 - [[every-app-open-seo|open-seo"]] — Open source alternative to Semrush and Ahrefs 🔥
@@ -449,12 +450,12 @@
 - [[makazhanalpamys-soup|Soup"]] — Fine-tune LLMs from one YAML. Layer streaming trains an 8B m...
 - [[makeplane-plane|plane"]] — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternativ...
 - [[malisper-pgrust|pgrust"]] — Postgres rewritten in Rust, now passing 100% of the Postgres... 🆕
-- [[manaflow-ai-cmux|cmux"]] — Ghostty-based macOS terminal with vertical tabs and notifica... 🔥
+- [[manaflow-ai-cmux|cmux"]] — Open source Ghostty-based macOS terminal with vertical tabs ...
 - [[marceloprates-prettymaps|prettymaps"]] — Draw pretty maps from OpenStreetMap data! Built with osmnx +...
 - [[marin-community-marin|marin"]] — Open-source framework for the research and development of fo... 🔥
 - [[masterking32-masterdnsvpn|MasterDnsVPN"]] — Advanced DNS tunneling VPN for censorship bypass, optimized ... 🔥
 - [[mattermost-mattermost|mattermost"]] — Mattermost is an open source platform for secure collaborati... 🆕
-- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .agents director...
+- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .agents director... 🆕
 - [[mauriceboe-trek|TREK"]] — A self-hosted travel/trip planner with real-time collaborati... 🆕
 - [[max-sixty-worktrunk|worktrunk"]] — Worktrunk is a CLI for Git worktree management, designed for...
 - [[maziyarpanahi-openmed|openmed"]] — open-source healthcare ai 🔥
@@ -728,7 +729,7 @@
 - [[tradesdontlie-tradingview-mcp|tradingview-mcp"]] — AI-assisted TradingView chart analysis — connect Claude Code...
 - [[trimstray-the-book-of-secret-knowledge|the-book-of-secret-knowledge"]] — A collection of inspiring lists, manuals, cheatsheets, blogs... 🆕
 - [[truelockmc-streambert|streambert"]] — A cross-platform Electron Desktop App to stream and download... 🆕
-- [[trycua-cua|cua"]] — Scale computer-use 2.0 with open-source drivers, cross-OS fl... 🔥
+- [[trycua-cua|cua"]] — Scale computer-use 2.0 with open-source drivers, cross-OS fl...
 - [[tryghost-ghost|Ghost"]] — Independent technology for modern publishing, memberships, s...
 - [[tt-a1i-archify|archify"]] — Agent skill for beautiful, verifiable architecture, workflow... 🔥
 - [[tursodatabase-turso|turso"]] — Turso is an in-process SQL database, compatible with SQLite. 🔥

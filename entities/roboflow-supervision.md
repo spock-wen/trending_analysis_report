@@ -38,5 +38,5 @@ We write your reusable computer vision tools. 💜
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[calesthio-openmontage]] [[ayghri-i-have-adhd]]
+[[calesthio-openmontage]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[ayghri-i-have-adhd]]
 

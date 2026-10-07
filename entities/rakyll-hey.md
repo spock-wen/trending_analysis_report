@@ -34,7 +34,7 @@ HTTP load generator, ApacheBench (ab) replacement
 
 ## 相关项目
 
-[[caddyserver-caddy]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[openbao-openbao]] [[juliusbrussee-caveman]]
+[[stremio-stremio-web]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[juliusbrussee-caveman]] [[openbao-openbao]]
 
 **所属领域**: [[web]]
 

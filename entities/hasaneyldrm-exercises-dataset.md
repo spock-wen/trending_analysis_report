@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[tester-army-e2e]] [[trycua-cua]] [[cathrynlavery-diagram-design]] [[coreyhaines31-marketingskills]]
+[[manaflow-ai-cmux]] [[ripienaar-free-for-dev]] [[addyosmani-agent-skills]] [[tester-army-e2e]] [[stremio-stremio-web]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

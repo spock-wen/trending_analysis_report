@@ -35,5 +35,5 @@ bluetooth mesh chat, IRC vibes
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[peetzweg-opendisplay]] [[homebrew-brewui]] [[lakr233-vphone-cli]]
+[[manaflow-ai-cmux]] [[abue-ammar-tinycast]] [[lakr233-vphone-cli]] [[homebrew-brewui]]
 

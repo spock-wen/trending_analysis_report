@@ -34,7 +34,7 @@ VSCode theme based off the easemate IDE and Jetbrains islands theme
 
 ## 相关项目
 
-[[obra-superpowers]] [[actions-runner-images]] [[zhaoxuya520-reverse-skill]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]]
+[[actions-runner-images]] [[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

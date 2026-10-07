@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[tester-army-e2e]] [[affaan-m-ecc]] [[morluto-rea]] [[zhaoxuya520-reverse-skill]]
+[[morluto-rea]] [[manaflow-ai-cmux]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

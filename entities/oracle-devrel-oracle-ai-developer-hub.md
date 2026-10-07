@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[coreyhaines31-marketingskills]] [[pbakaus-impeccable]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[microsoft-ai-for-beginners]] [[mattpocock-skills]] [[duartesantos8-opengym]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

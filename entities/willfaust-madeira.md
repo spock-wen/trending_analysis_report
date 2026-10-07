@@ -35,7 +35,7 @@ Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[deusdata-codebase-memory-mcp]] [[pbakaus-impeccable]] [[antirez-ds4]] [[thedotmack-claude-mem]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[colbymchenry-codegraph]] [[antirez-ds4]]
 
 **所属领域**: [[ai-agent]]
 

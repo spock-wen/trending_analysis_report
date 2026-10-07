@@ -34,7 +34,7 @@ language: "Zig"
 
 ## 相关项目
 
-[[obra-superpowers]] [[lightpanda-io-browser]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[msitarzewski-agency-agents]]
+[[manaflow-ai-cmux]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[msitarzewski-agency-agents]] [[lightpanda-io-browser]]
 
 **所属领域**: [[cli]]
 

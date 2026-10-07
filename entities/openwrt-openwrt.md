@@ -34,7 +34,7 @@ This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[deusdata-codebase-memory-mcp]] [[antirez-ds4]]
+[[stremio-stremio-web]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[willfaust-madeira]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[web]]
 

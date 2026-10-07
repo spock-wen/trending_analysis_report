@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[morluto-rea]] [[cathrynlavery-diagram-design]]
+[[morluto-rea]] [[stremio-stremio-web]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[data]]
 

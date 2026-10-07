@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[earthtojake-text-to-cad]] [[vectorize-io-hindsight]] [[msitarzewski-agency-agents]] [[jamwithai-production-agentic-rag-course]]
+[[manaflow-ai-cmux]] [[multimodal-art-projection-yue]] [[addyosmani-agent-skills]] [[jamiepine-voicebox]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

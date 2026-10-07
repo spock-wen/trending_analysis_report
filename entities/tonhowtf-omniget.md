@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[obra-superpowers]] [[vectorize-io-hindsight]] [[block-buzz]] [[jamwithai-production-agentic-rag-course]]
+[[manaflow-ai-cmux]] [[multimodal-art-projection-yue]] [[cs341-illinois-coursebook]] [[jamiepine-voicebox]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

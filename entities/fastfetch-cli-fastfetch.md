@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[obra-superpowers]] [[colbymchenry-codegraph]] [[deusdata-codebase-memory-mcp]] [[willfaust-madeira]] [[pbakaus-impeccable]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[willfaust-madeira]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

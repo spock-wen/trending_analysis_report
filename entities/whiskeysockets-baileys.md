@@ -34,7 +34,7 @@ Socket-based TS/JavaScript API for WhatsApp Web
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[pbakaus-impeccable]]
+[[manaflow-ai-cmux]] [[stremio-stremio-web]] [[pbakaus-impeccable]] [[addyosmani-agent-skills]] [[tester-army-e2e]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

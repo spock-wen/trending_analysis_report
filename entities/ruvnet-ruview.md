@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[oblien-openship]] [[davila7-claude-code-templates]] [[getsentry-sentry]] [[block-buzz]] [[nvidia-openshell]]
+[[oblien-openship]] [[nvidia-model-optimizer]] [[nvidia-openshell]] [[trycua-cua]] [[t8y2-dbx]]
 
 **所属领域**: [[devops]]
 

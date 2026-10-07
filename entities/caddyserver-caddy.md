@@ -35,7 +35,7 @@ Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## 相关项目
 
-[[rakyll-hey]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[openbao-openbao]] [[juliusbrussee-caveman]]
+[[stremio-stremio-web]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[juliusbrussee-caveman]] [[openbao-openbao]]
 
 **所属领域**: [[web]]
 

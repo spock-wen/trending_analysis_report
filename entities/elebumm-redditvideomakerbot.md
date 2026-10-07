@@ -35,7 +35,7 @@ Create Reddit Videos with just✨ one command ✨
 
 ## 相关项目
 
-[[obra-superpowers]] [[earthtojake-text-to-cad]] [[msitarzewski-agency-agents]] [[calesthio-openmontage]] [[panniantong-agent-reach]]
+[[manaflow-ai-cmux]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[mattpocock-skills]] [[calesthio-openmontage]]
 
 **所属领域**: [[cli]]
 

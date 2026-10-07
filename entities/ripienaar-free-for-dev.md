@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[oblien-openship]] [[tester-army-e2e]] [[davila7-claude-code-templates]] [[getsentry-sentry]] [[trycua-cua]]
+[[stremio-stremio-web]] [[tester-army-e2e]] [[oblien-openship]] [[cathrynlavery-diagram-design]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[web]] [[devops]]
 

@@ -35,7 +35,7 @@ Node Version Manager - POSIX-compliant bash script to manage multiple active nod
 
 ## 相关项目
 
-[[obra-superpowers]] [[infinityloop1308-pipepipe]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[msitarzewski-agency-agents]]
+[[manaflow-ai-cmux]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[infinityloop1308-pipepipe]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

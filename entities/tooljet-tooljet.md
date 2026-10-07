@@ -36,7 +36,7 @@ ToolJet is the open-source foundation of ToolJet AI - the enterprise app generat
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[obra-superpowers]] [[ever-co-ever-gauzy]] [[earthtojake-text-to-cad]]
+[[manaflow-ai-cmux]] [[actions-runner-images]] [[pbakaus-impeccable]] [[addyosmani-agent-skills]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[image-gen]]
 

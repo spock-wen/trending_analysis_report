@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[caddyserver-caddy]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[openbao-openbao]] [[panniantong-agent-reach]]
+[[manaflow-ai-cmux]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[juliusbrussee-caveman]] [[openbao-openbao]]
 
 **所属领域**: [[cli]]
 

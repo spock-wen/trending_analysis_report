@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[obra-superpowers]] [[earthtojake-text-to-cad]] [[msitarzewski-agency-agents]] [[multimodal-art-projection-yue]]
+[[manaflow-ai-cmux]] [[multimodal-art-projection-yue]] [[jamiepine-voicebox]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[cli]] [[audio]]
 

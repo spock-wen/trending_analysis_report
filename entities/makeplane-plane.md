@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[obra-superpowers]] [[tester-army-e2e]] [[morluto-rea]] [[thedotmack-claude-mem]]
+[[morluto-rea]] [[manaflow-ai-cmux]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]]
 

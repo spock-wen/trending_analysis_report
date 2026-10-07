@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]] [[paperclipai-paperclip]] [[calesthio-openmontage]]
+[[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[paperless-ngx-paperless-ngx]] [[calesthio-openmontage]] [[ayghri-i-have-adhd]]
 
 **所属领域**: [[science]]
 

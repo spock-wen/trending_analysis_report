@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[msitarzewski-agency-agents]] [[davila7-claude-code-templates]] [[jamwithai-production-agentic-rag-course]] [[melgarafael-deskcommcrm]]
+[[addyosmani-agent-skills]] [[lyogavin-airllm]] [[obra-superpowers]] [[nvidia-model-optimizer]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

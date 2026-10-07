@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[tester-army-e2e]] [[affaan-m-ecc]] [[morluto-rea]] [[zhaoxuya520-reverse-skill]]
+[[morluto-rea]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[nationalsecurityagency-ghidra]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

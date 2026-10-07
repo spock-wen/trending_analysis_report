@@ -37,7 +37,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[tester-army-e2e]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]]
+[[morluto-rea]] [[stremio-stremio-web]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]]
 

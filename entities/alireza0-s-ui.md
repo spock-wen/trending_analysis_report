@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[rakyll-hey]] [[caddyserver-caddy]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[openbao-openbao]]
+[[stremio-stremio-web]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[juliusbrussee-caveman]] [[openbao-openbao]]
 
 **所属领域**: [[web]]
 

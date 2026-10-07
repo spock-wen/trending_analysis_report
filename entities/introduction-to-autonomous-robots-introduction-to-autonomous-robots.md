@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[mattpocock-skills]] [[cs341-illinois-coursebook]] [[thedotmack-claude-mem]] [[pbakaus-impeccable]] [[msitarzewski-agency-agents]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[thedotmack-claude-mem]] [[cs341-illinois-coursebook]]
 
 **所属领域**: [[ai-agent]]
 

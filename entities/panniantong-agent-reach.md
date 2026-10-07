@@ -38,7 +38,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## 相关项目
 
-[[obra-superpowers]] [[earthtojake-text-to-cad]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]] [[calesthio-openmontage]]
+[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[earthtojake-text-to-cad]] [[mattpocock-skills]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

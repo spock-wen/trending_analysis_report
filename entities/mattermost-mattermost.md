@@ -35,5 +35,5 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## 相关项目
 
-[[morluto-rea]] [[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[tester-army-e2e]]
+[[morluto-rea]] [[thedotmack-claude-mem]] [[pingdotgg-t3code]] [[tester-army-e2e]]
 

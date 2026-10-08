@@ -38,5 +38,5 @@ Hunt down social media accounts by username across social networks
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[ayghri-i-have-adhd]]
+[[anthropics-knowledge-work-plugins]] [[ayghri-i-have-adhd]] [[earthtojake-text-to-cad]] [[panniantong-agent-reach]]
 

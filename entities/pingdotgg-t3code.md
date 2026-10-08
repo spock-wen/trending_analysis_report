@@ -38,5 +38,5 @@ No description
 
 ## 相关项目
 
-[[morluto-rea]] [[thedotmack-claude-mem]] [[tester-army-e2e]]
+[[tester-army-e2e]] [[morluto-rea]] [[thedotmack-claude-mem]]
 

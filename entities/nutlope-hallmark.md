@@ -38,7 +38,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[stremio-stremio-web]] [[conardli-garden-skills]] [[addyosmani-agent-skills]] [[tester-army-e2e]]
+[[conardli-garden-skills]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[diolinux-photogimp]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

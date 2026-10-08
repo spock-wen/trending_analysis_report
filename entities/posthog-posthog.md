@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[nvidia-model-optimizer]] [[msitarzewski-agency-agents]] [[calesthio-openmontage]]
+[[oblien-openship]] [[ayghri-i-have-adhd]] [[coreyhaines31-marketingskills]] [[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

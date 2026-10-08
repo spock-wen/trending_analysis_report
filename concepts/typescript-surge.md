@@ -1,7 +1,7 @@
 ---
 title: "TypeScript Ecosystem Surge"
 created: 2026-06-08
-updated: 2026-10-08
+updated: 2026-10-09
 type: concept
 tags: [typescript, surge]
 confidence: medium

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[stremio-stremio-web]] [[tester-army-e2e]] [[cs341-illinois-coursebook]] [[rohitg00-ai-engineering-from-scratch]]
+[[ripienaar-free-for-dev]] [[vectorize-io-hindsight]] [[cs341-illinois-coursebook]] [[rohitg00-ai-engineering-from-scratch]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[education]]
 

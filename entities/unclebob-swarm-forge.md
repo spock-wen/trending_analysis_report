@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[penpot-penpot]] [[mattpocock-skills]] [[thedotmack-claude-mem]]
+[[anthropics-knowledge-work-plugins]] [[penpot-penpot]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]]
 

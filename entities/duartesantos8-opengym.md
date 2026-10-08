@@ -36,7 +36,7 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[pbakaus-impeccable]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[calesthio-openmontage]]
+[[coreyhaines31-marketingskills]] [[addyosmani-agent-skills]] [[anthropics-knowledge-work-plugins]] [[calesthio-openmontage]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

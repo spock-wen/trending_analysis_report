@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[actions-runner-images]] [[addyosmani-agent-skills]] [[tester-army-e2e]] [[panniantong-agent-reach]]
+[[jamiepine-voicebox]] [[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[actions-runner-images]] [[tonhowtf-omniget]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

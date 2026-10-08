@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[addyosmani-agent-skills]] [[rohitg00-ai-engineering-from-scratch]] [[duartesantos8-opengym]] [[calesthio-openmontage]]
+[[coreyhaines31-marketingskills]] [[cs341-illinois-coursebook]] [[rohitg00-ai-engineering-from-scratch]] [[addyosmani-agent-skills]] [[duartesantos8-opengym]]
 
 **所属领域**: [[data]] [[education]]
 

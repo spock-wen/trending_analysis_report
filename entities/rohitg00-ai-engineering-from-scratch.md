@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[mattpocock-skills]]
+[[ayghri-i-have-adhd]] [[cs341-illinois-coursebook]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

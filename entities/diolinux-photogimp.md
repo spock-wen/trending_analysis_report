@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[nutlope-hallmark]] [[conardli-garden-skills]] [[tester-army-e2e]] [[stremio-stremio-web]] [[earthtojake-text-to-cad]]
+[[obra-superpowers]] [[conardli-garden-skills]] [[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[stremio-stremio-web]]
 
 **所属领域**: [[web]] [[erp]]
 

@@ -37,7 +37,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[actions-runner-images]] [[addyosmani-agent-skills]] [[tester-army-e2e]] [[panniantong-agent-reach]]
+[[ayghri-i-have-adhd]] [[coreyhaines31-marketingskills]] [[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[multimodal-art-projection-yue]] [[tensorflow-tensorflow]] [[addyosmani-agent-skills]] [[jamiepine-voicebox]]
+[[jamiepine-voicebox]] [[m-abozaid-esp32-c3-adblock]] [[anthropics-knowledge-work-plugins]] [[tensorflow-tensorflow]] [[tonhowtf-omniget]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

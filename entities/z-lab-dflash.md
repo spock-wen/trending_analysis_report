@@ -36,7 +36,7 @@ DFlash: Block Diffusion for Flash Speculative Decoding
 
 ## 相关项目
 
-[[actions-runner-images]] [[tester-army-e2e]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[calesthio-openmontage]]
+[[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[actions-runner-images]] [[earthtojake-text-to-cad]] [[panniantong-agent-reach]]
 
 **所属领域**: [[image-gen]]
 

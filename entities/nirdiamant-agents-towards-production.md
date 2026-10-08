@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[lyogavin-airllm]] [[obra-superpowers]] [[nvidia-model-optimizer]] [[higgsfield-ai-higgsfield]]
+[[nvidia-model-optimizer]] [[jamwithai-production-agentic-rag-course]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

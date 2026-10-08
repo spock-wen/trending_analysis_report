@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[tester-army-e2e]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[trycua-cua]]
+[[tester-army-e2e]] [[mattpocock-skills]] [[bwya77-vscode-dark-islands]] [[msitarzewski-agency-agents]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

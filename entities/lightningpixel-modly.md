@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[morluto-rea]] [[manaflow-ai-cmux]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[addyosmani-agent-skills]]
+[[anthropics-knowledge-work-plugins]] [[actions-runner-images]] [[morluto-rea]] [[mattpocock-skills]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

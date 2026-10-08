@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[microsoft-ai-for-beginners]] [[mattpocock-skills]] [[lyogavin-airllm]]
+[[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

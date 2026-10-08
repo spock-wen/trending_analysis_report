@@ -38,7 +38,7 @@ Hindsight: Agent Memory That Learns
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[mattpocock-skills]]
+[[ayghri-i-have-adhd]] [[cs341-illinois-coursebook]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

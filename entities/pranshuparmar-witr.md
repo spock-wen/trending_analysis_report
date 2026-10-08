@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[juliusbrussee-caveman]]
+[[juliusbrussee-caveman]] [[anthropics-knowledge-work-plugins]] [[thedotmack-claude-mem]] [[mattpocock-skills]] [[rakyll-hey]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

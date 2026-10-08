@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[stremio-stremio-web]] [[addyosmani-agent-skills]] [[tester-army-e2e]] [[cs341-illinois-coursebook]]
+[[vectorize-io-hindsight]] [[cs341-illinois-coursebook]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

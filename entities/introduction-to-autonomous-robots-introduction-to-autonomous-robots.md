@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[thedotmack-claude-mem]] [[cs341-illinois-coursebook]]
+[[cs341-illinois-coursebook]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]]
 

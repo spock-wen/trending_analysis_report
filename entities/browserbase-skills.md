@@ -38,7 +38,7 @@ Claude Agent SDK with a web browsing tool
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[stremio-stremio-web]] [[pbakaus-impeccable]] [[addyosmani-agent-skills]] [[tester-army-e2e]]
+[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[anthropics-knowledge-work-plugins]] [[thedotmack-claude-mem]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -38,7 +38,7 @@ A specialized Claude Code workspace for creating long-form, SEO-optimized blog c
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[ever-co-ever-gauzy]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]]
+[[ayghri-i-have-adhd]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

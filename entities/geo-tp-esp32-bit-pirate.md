@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[stremio-stremio-web]] [[tensorflow-tensorflow]] [[tester-army-e2e]] [[panniantong-agent-reach]]
+[[m-abozaid-esp32-c3-adblock]] [[tensorflow-tensorflow]] [[mattpocock-skills]] [[firebase-firebase-ios-sdk]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[cli]]
 

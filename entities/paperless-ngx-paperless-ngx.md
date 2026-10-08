@@ -35,7 +35,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[calesthio-openmontage]] [[ayghri-i-have-adhd]] [[affaan-m-ecc]]
+[[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[affaan-m-ecc]] [[earthtojake-text-to-cad]] [[panniantong-agent-reach]]
 
 **所属领域**: [[science]]
 

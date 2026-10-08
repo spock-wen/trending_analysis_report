@@ -36,7 +36,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[actions-runner-images]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[nvidia-model-optimizer]] [[zhaoxuya520-reverse-skill]]
+[[msitarzewski-agency-agents]] [[nvidia-model-optimizer]] [[panniantong-agent-reach]] [[thedotmack-claude-mem]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

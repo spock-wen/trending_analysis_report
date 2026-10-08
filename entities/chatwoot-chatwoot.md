@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[thedotmack-claude-mem]] [[docusealco-docuseal]]
+[[anthropics-knowledge-work-plugins]] [[docusealco-docuseal]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]]
 

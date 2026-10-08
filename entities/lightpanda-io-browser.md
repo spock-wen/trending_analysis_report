@@ -38,7 +38,7 @@ Lightpanda: the headless browser designed for AI and automation
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[stremio-stremio-web]] [[addyosmani-agent-skills]] [[tester-army-e2e]] [[mattpocock-skills]]
+[[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[stremio-stremio-web]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

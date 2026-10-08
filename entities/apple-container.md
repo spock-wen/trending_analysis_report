@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[abue-ammar-tinycast]] [[homebrew-brewui]] [[addyosmani-agent-skills]] [[mattpocock-skills]]
+[[anthropics-knowledge-work-plugins]] [[homebrew-brewui]] [[mattpocock-skills]] [[manaflow-ai-cmux]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]]
 

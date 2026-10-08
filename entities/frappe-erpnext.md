@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[melgarafael-deskcommcrm]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[obra-superpowers]]
+[[ayghri-i-have-adhd]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[earthtojake-text-to-cad]] [[panniantong-agent-reach]]
 
 **所属领域**: [[erp]]
 

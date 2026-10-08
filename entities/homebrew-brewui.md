@@ -34,5 +34,5 @@ language: "Swift"
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[abue-ammar-tinycast]] [[lakr233-vphone-cli]]
+[[lakr233-vphone-cli]] [[manaflow-ai-cmux]] [[abue-ammar-tinycast]]
 

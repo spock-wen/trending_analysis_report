@@ -35,5 +35,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[duartesantos8-opengym]] [[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]]
+[[duartesantos8-opengym]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]] [[addyosmani-agent-skills]]
 

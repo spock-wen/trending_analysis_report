@@ -36,7 +36,7 @@ Open Source AI trading agent that operates autonomously across 1000+ markets - P
 
 ## 相关项目
 
-[[morluto-rea]] [[manaflow-ai-cmux]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[addyosmani-agent-skills]]
+[[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[morluto-rea]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

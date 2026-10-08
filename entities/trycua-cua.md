@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[actions-runner-images]] [[addyosmani-agent-skills]] [[tester-army-e2e]] [[mattpocock-skills]]
+[[coreyhaines31-marketingskills]] [[tester-army-e2e]] [[storytold-artcraft]] [[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

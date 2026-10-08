@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-08 | 总页面：811
+> 最后更新：2026-10-09 | 总页面：812
 
 ## Entities
 
@@ -75,7 +75,7 @@
 - [[anthropics-claude-plugins-official|claude-plugins-official"]] — Official, Anthropic-managed directory of high quality Claude...
 - [[anthropics-cwc-workshops|cwc-workshops"]] — No description
 - [[anthropics-financial-services|financial-services"]] — No description 🔥
-- [[anthropics-knowledge-work-plugins|knowledge-work-plugins"]] — Open source repository of plugins primarily intended for kno... 🔥
+- [[anthropics-knowledge-work-plugins|knowledge-work-plugins"]] — Open source repository of plugins primarily intended for kno...
 - [[anthropics-skills|skills"]] — Public repository for Agent Skills
 - [[antirez-ds4|ds4"]] — DeepSeek 4 Flash and PRO local inference engine for Metal, C...
 - [[antoinezambelli-forge|forge"]] — A Python framework for self-hosted LLM tool-calling and mult...
@@ -136,7 +136,7 @@
 - [[can1357-oh-my-pi|oh-my-pi"]] — ⌥ AI Coding agent for the terminal — hash-anchored edits, op...
 - [[canner-wrenai|WrenAI"]] — GenBI (Generative BI) for AI agents, an open-source, governe...
 - [[catchorg-catch2|Catch2"]] — A modern, C++-native, test framework for unit-tests, TDD and... 🆕
-- [[cathrynlavery-diagram-design|diagram-design"]] — Editorial diagram design for Claude Code, Codex, GitHub Copi... 🆕
+- [[cathrynlavery-diagram-design|diagram-design"]] — Editorial diagram design for Claude Code, Codex, GitHub Copi... 🔥
 - [[chachamaru127-claude-code-harness|claude-code-harness"]] — Claude Code Dedicated Development Harness - Achieving High-Q...
 - [[chaitanyagiri-munder-difflin|munder-difflin"]] — local multi-agent harness 🔥
 - [[chatwoot-chatwoot|chatwoot"]] — Open-source live-chat, email support, omni-channel desk. An ...
@@ -425,7 +425,7 @@
 - [[lightricks-ltx-2|LTX-2"]] — Official Python inference and LoRA trainer package for the L... 🆕
 - [[likec4-likec4|likec4"]] — Visualize, collaborate, and evolve the software architecture... 🔥
 - [[lingfengqaq-webnovel-writer|webnovel-writer"]] — 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级...
-- [[liquidslr-system-design-notes|system-design-notes"]] — Notes of the book System Desgin Interview - An Insider's Gui... 🆕
+- [[liquidslr-system-design-notes|system-design-notes"]] — Notes of the book System Desgin Interview - An Insider's Gui...
 - [[litu54-devops-interview-guide|DevOps-Interview-Guide"]] — DevOps Interview Guide
 - [[livekit-agents|agents"]] — A framework for building realtime voice AI agents 🤖🎙️📹
 - [[llvm-llvm-project|llvm-project"]] — The LLVM Project is a collection of modular and reusable com...
@@ -455,7 +455,7 @@
 - [[marin-community-marin|marin"]] — Open-source framework for the research and development of fo... 🔥
 - [[masterking32-masterdnsvpn|MasterDnsVPN"]] — Advanced DNS tunneling VPN for censorship bypass, optimized ... 🔥
 - [[mattermost-mattermost|mattermost"]] — Mattermost is an open source platform for secure collaborati... 🆕
-- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .agents director... 🆕
+- [[mattpocock-skills|skills"]] — Skills for Real Engineers. Straight from my .agents director... 🔥
 - [[mauriceboe-trek|TREK"]] — A self-hosted travel/trip planner with real-time collaborati... 🆕
 - [[max-sixty-worktrunk|worktrunk"]] — Worktrunk is a CLI for Git worktree management, designed for...
 - [[maziyarpanahi-openmed|openmed"]] — open-source healthcare ai 🔥
@@ -499,7 +499,7 @@
 - [[moonshotai-flashkda|FlashKDA"]] — FlashKDA: high-performance Kimi Delta Attention kernels
 - [[moonshotai-kimi-cli|kimi-cli"]] — Kimi Code CLI is your next CLI agent. 🔥
 - [[moontechlab-lunatv|LunaTV"]] — 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 🆕
-- [[morluto-rea|rea"]] — Reverse engineer anything with agents, from app behavior dow... 🆕
+- [[morluto-rea|rea"]] — Reverse engineer anything with agents, from app behavior dow... 🔥
 - [[msitarzewski-agency-agents|agency-agents"]] — A complete AI agency at your fingertips - From frontend wiza... 🆕
 - [[mukul975-anthropic-cybersecurity-skills|Anthropic-Cybersecurity-Skills"]] — 817 structured cybersecurity skills for AI agents · Mapped t... 🔥
 - [[multica-ai-andrej-karpathy-skills|andrej-karpathy-skills"]] — A single CLAUDE.md file to improve Claude Code behavior, der...
@@ -674,6 +674,7 @@
 - [[stefan-jansen-machine-learning-for-trading|machine-learning-for-trading"]] — Code for Machine Learning for Algorithmic Trading, 2nd editi... 🆕
 - [[steipete-codexbar|CodexBar"]] — Show usage stats for OpenAI Codex and Claude Code, without h... 🔥
 - [[stirling-tools-stirling-pdf|Stirling-PDF"]] — - 语言: TypeScript
+- [[storytold-artcraft|artcraft"]] — ArtCraft is an intentional crafting engine for artists, desi... 🆕
 - [[strands-agents-harness-sdk|harness-sdk"]] — Build an agent harness and control it end-to-end. Open-sourc... 🆕
 - [[stremio-stremio-web|stremio-web"]] — Stremio - Freedom to Stream
 - [[supabase-supabase|supabase"]] — The Postgres development platform. Supabase gives you a dedi...

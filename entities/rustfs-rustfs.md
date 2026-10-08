@@ -35,5 +35,5 @@ RustFS is an open-source, S3-compatible high-performance object storage system s
 
 ## 相关项目
 
-[[trycua-cua]] [[t8y2-dbx]] [[block-buzz]] [[nvidia-openshell]]
+[[storytold-artcraft]] [[trycua-cua]] [[nvidia-openshell]] [[t8y2-dbx]]
 

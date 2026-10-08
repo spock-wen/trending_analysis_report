@@ -34,7 +34,7 @@ AI that sees your screen, listens to your conversations and tells you what to do
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[flutter-skills]] [[chen08209-flclash]]
+[[anthropics-knowledge-work-plugins]] [[localsend-localsend]] [[mattpocock-skills]] [[flutter-flutter]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[infinityloop1308-pipepipe]] [[obra-superpowers]]
+[[obra-superpowers]] [[infinityloop1308-pipepipe]] [[mattpocock-skills]] [[msitarzewski-agency-agents]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]]
 

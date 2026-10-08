@@ -34,5 +34,5 @@ OpenToonz - An open-source full-featured 2D animation creation software
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]] [[firebase-firebase-ios-sdk]]
+[[m-abozaid-esp32-c3-adblock]] [[tensorflow-tensorflow]] [[boykopovar-anyps5]] [[firebase-firebase-ios-sdk]]
 

@@ -38,7 +38,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[pbakaus-impeccable]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[duartesantos8-opengym]]
+[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[anthropics-knowledge-work-plugins]] [[thedotmack-claude-mem]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

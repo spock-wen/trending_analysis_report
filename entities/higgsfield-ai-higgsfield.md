@@ -35,7 +35,7 @@ Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[microsoft-ai-for-beginners]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[lyogavin-airllm]] [[cs341-illinois-coursebook]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

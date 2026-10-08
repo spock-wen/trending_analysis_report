@@ -35,7 +35,7 @@ mini cli search engine for your docs, knowledge bases, meeting notes, whatever. 
 
 ## 相关项目
 
-[[morluto-rea]] [[manaflow-ai-cmux]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[panniantong-agent-reach]]
+[[morluto-rea]] [[mattpocock-skills]] [[msitarzewski-agency-agents]] [[panniantong-agent-reach]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[cli]]
 

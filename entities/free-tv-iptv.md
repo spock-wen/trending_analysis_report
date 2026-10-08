@@ -36,5 +36,5 @@ M3U Playlist for free TV channels
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[ayghri-i-have-adhd]]
+[[anthropics-knowledge-work-plugins]] [[ayghri-i-have-adhd]] [[earthtojake-text-to-cad]] [[panniantong-agent-reach]]
 

@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[duartesantos8-opengym]] [[calesthio-openmontage]]
+[[willfaust-madeira]] [[colbymchenry-codegraph]] [[coreyhaines31-marketingskills]] [[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

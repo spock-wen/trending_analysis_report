@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[checkstyle-checkstyle]]
+[[coreyhaines31-marketingskills]] [[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]] [[calesthio-openmontage]] [[google-guava]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

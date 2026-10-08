@@ -38,7 +38,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[morluto-rea]] [[manaflow-ai-cmux]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[addyosmani-agent-skills]]
+[[vectorize-io-hindsight]] [[cs341-illinois-coursebook]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-knowledge-work-plugins]] [[morluto-rea]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

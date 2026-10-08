@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[ripienaar-free-for-dev]] [[addyosmani-agent-skills]] [[tester-army-e2e]] [[stremio-stremio-web]]
+[[ripienaar-free-for-dev]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[pkuflyingpig-cs-self-learning]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[willfaust-madeira]] [[colbymchenry-codegraph]]
+[[willfaust-madeira]] [[colbymchenry-codegraph]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[epicgames-raddebugger]]
 
 **所属领域**: [[ai-agent]]
 

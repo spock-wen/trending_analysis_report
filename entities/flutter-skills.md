@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[chen08209-flclash]] [[flutter-flutter]]
+[[anthropics-knowledge-work-plugins]] [[localsend-localsend]] [[mattpocock-skills]] [[flutter-flutter]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]]
 

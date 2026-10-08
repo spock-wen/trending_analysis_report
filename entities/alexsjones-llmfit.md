@@ -36,7 +36,7 @@ Hundreds of models & providers. One command to find what runs on your hardware.
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[nvidia-openshell]]
+[[storytold-artcraft]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[manaflow-ai-cmux]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

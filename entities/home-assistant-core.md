@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[calesthio-openmontage]] [[ayghri-i-have-adhd]] [[nationalsecurityagency-ghidra]]
+[[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[affaan-m-ecc]] [[earthtojake-text-to-cad]] [[panniantong-agent-reach]]
 
 **所属领域**: [[security]]
 

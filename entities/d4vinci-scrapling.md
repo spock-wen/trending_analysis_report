@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[stremio-stremio-web]] [[tester-army-e2e]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[cathrynlavery-diagram-design]]
+[[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[cathrynlavery-diagram-design]] [[earthtojake-text-to-cad]] [[panniantong-agent-reach]]
 
 **所属领域**: [[web]]
 

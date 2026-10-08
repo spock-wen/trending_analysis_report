@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[nationalsecurityagency-ghidra]] [[zhaoxuya520-reverse-skill]] [[msitarzewski-agency-agents]] [[block-buzz]]
+[[cloudflare-security-audit-skill]] [[tester-army-e2e]] [[coreyhaines31-marketingskills]] [[storytold-artcraft]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

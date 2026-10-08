@@ -38,7 +38,7 @@ Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[willfaust-madeira]] [[antirez-ds4]]
+[[willfaust-madeira]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[epicgames-raddebugger]] [[antirez-ds4]]
 
 **所属领域**: [[ai-agent]]
 

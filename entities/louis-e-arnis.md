@@ -35,7 +35,7 @@ Generate any location from the real world in Minecraft with a high level of deta
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[nvidia-openshell]] [[trycua-cua]]
+[[storytold-artcraft]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ AutoClip : AI-powered video clipping and highlight generation · 一款智能高
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[actions-runner-images]] [[addyosmani-agent-skills]] [[tester-army-e2e]] [[panniantong-agent-reach]]
+[[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[actions-runner-images]] [[mattpocock-skills]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[image-gen]]
 

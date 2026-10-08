@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[ripienaar-free-for-dev]] [[stremio-stremio-web]] [[tester-army-e2e]] [[panniantong-agent-reach]]
+[[ripienaar-free-for-dev]] [[mattpocock-skills]] [[pkuflyingpig-cs-self-learning]] [[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]] [[cli]]
 

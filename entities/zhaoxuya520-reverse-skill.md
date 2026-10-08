@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[actions-runner-images]] [[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[mattpocock-skills]]
+[[cloudflare-security-audit-skill]] [[anthropics-knowledge-work-plugins]] [[actions-runner-images]] [[nationalsecurityagency-ghidra]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

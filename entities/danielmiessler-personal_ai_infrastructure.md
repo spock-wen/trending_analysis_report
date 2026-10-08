@@ -35,7 +35,7 @@ Agentic AI Infrastructure for magnifying HUMAN capabilities.
 
 ## 相关项目
 
-[[morluto-rea]] [[manaflow-ai-cmux]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[addyosmani-agent-skills]]
+[[oblien-openship]] [[anthropics-knowledge-work-plugins]] [[davila7-claude-code-templates]] [[morluto-rea]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

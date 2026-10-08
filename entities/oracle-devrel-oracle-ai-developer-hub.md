@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[microsoft-ai-for-beginners]] [[mattpocock-skills]] [[duartesantos8-opengym]]
+[[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[coreyhaines31-marketingskills]] [[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

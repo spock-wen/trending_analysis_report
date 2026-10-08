@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[morluto-rea]] [[manaflow-ai-cmux]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[addyosmani-agent-skills]]
+[[anthropics-knowledge-work-plugins]] [[actions-runner-images]] [[morluto-rea]] [[mattpocock-skills]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

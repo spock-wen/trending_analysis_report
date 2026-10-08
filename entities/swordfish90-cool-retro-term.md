@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[msitarzewski-agency-agents]] [[panniantong-agent-reach]] [[mattpocock-skills]]
+[[panniantong-agent-reach]] [[manaflow-ai-cmux]] [[msitarzewski-agency-agents]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

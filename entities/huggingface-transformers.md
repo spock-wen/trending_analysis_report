@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[multimodal-art-projection-yue]] [[addyosmani-agent-skills]] [[jamiepine-voicebox]] [[panniantong-agent-reach]]
+[[jamiepine-voicebox]] [[ayghri-i-have-adhd]] [[cs341-illinois-coursebook]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

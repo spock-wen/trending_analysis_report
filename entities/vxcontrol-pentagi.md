@@ -38,7 +38,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[juliusbrussee-caveman]] [[openbao-openbao]]
+[[juliusbrussee-caveman]] [[anthropics-knowledge-work-plugins]] [[thedotmack-claude-mem]] [[mattpocock-skills]] [[rakyll-hey]]
 
 **所属领域**: [[ai-agent]]
 

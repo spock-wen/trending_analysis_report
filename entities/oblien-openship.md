@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[morluto-rea]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[nvidia-model-optimizer]] [[thedotmack-claude-mem]]
+[[davila7-claude-code-templates]] [[morluto-rea]] [[getsentry-sentry]] [[nvidia-model-optimizer]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[devops]]
 

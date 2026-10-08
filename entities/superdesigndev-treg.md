@@ -36,7 +36,7 @@ OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[stremio-stremio-web]] [[addyosmani-agent-skills]] [[tester-army-e2e]] [[panniantong-agent-reach]]
+[[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

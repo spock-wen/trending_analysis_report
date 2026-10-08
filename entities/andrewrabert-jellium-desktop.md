@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[nvidia-openshell]] [[trycua-cua]]
+[[storytold-artcraft]] [[mattpocock-skills]] [[manaflow-ai-cmux]] [[msitarzewski-agency-agents]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[andreknieriem-headunit-revived]] [[addyosmani-agent-skills]] [[tester-army-e2e]] [[stremio-stremio-web]]
+[[andreknieriem-headunit-revived]] [[bannedbook-fanqiang]] [[anthropics-knowledge-work-plugins]] [[mahlernim-google-timeline-visualizer]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

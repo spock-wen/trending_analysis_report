@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[ripienaar-free-for-dev]] [[addyosmani-agent-skills]] [[tester-army-e2e]] [[stremio-stremio-web]]
+[[ripienaar-free-for-dev]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[pkuflyingpig-cs-self-learning]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

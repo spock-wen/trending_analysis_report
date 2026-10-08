@@ -38,7 +38,7 @@ Open source Ghostty-based macOS terminal with vertical tabs and notifications fo
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[homebrew-brewui]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[mattpocock-skills]]
+[[anthropics-knowledge-work-plugins]] [[homebrew-brewui]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -35,7 +35,7 @@ An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶�
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[pbakaus-impeccable]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[duartesantos8-opengym]]
+[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[anthropics-knowledge-work-plugins]] [[thedotmack-claude-mem]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

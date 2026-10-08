@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[stremio-stremio-web]] [[addyosmani-agent-skills]] [[tester-army-e2e]] [[panniantong-agent-reach]]
+[[oblien-openship]] [[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[davila7-claude-code-templates]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

@@ -38,7 +38,7 @@ Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https
 
 ## 相关项目
 
-[[morluto-rea]] [[stremio-stremio-web]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[melgarafael-deskcommcrm]]
+[[obra-superpowers]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[stremio-stremio-web]]
 
 **所属领域**: [[web]] [[erp]]
 

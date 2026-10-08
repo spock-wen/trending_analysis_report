@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[morluto-rea]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]]
+[[vectorize-io-hindsight]] [[cs341-illinois-coursebook]] [[rohitg00-ai-engineering-from-scratch]] [[morluto-rea]] [[jamwithai-production-agentic-rag-course]]
 
 **所属领域**: [[education]]
 

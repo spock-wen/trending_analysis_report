@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[rohitg00-ai-engineering-from-scratch]] [[calesthio-openmontage]] [[vectorize-io-hindsight]]
+[[ayghri-i-have-adhd]] [[cs341-illinois-coursebook]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-knowledge-work-plugins]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[education]]
 

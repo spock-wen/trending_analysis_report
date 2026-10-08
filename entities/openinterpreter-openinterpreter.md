@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[ever-co-ever-gauzy]] [[melgarafael-deskcommcrm]] [[earthtojake-text-to-cad]]
+[[obra-superpowers]] [[storytold-artcraft]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

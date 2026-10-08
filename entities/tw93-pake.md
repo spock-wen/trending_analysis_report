@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[stremio-stremio-web]] [[tester-army-e2e]] [[panniantong-agent-reach]] [[mattpocock-skills]]
+[[tester-army-e2e]] [[storytold-artcraft]] [[mattpocock-skills]] [[manaflow-ai-cmux]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -38,7 +38,7 @@ Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[actions-runner-images]] [[pbakaus-impeccable]] [[addyosmani-agent-skills]] [[tester-army-e2e]]
+[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[anthropics-knowledge-work-plugins]] [[actions-runner-images]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -38,7 +38,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[actions-runner-images]] [[multimodal-art-projection-yue]] [[tester-army-e2e]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]]
+[[jamiepine-voicebox]] [[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[actions-runner-images]] [[tonhowtf-omniget]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

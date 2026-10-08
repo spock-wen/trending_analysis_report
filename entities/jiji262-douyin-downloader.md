@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[stremio-stremio-web]] [[tester-army-e2e]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[cathrynlavery-diagram-design]]
+[[ayghri-i-have-adhd]] [[coreyhaines31-marketingskills]] [[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]] [[calesthio-openmontage]]
 
 **所属领域**: [[web]] [[data]]
 

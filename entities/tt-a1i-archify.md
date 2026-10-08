@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[stremio-stremio-web]] [[pbakaus-impeccable]] [[addyosmani-agent-skills]] [[tester-army-e2e]]
+[[coreyhaines31-marketingskills]] [[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[anthropics-knowledge-work-plugins]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

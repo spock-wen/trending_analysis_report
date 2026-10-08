@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[morluto-rea]] [[manaflow-ai-cmux]] [[pingdotgg-t3code]] [[tester-army-e2e]] [[addyosmani-agent-skills]]
+[[oblien-openship]] [[vectorize-io-hindsight]] [[cs341-illinois-coursebook]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

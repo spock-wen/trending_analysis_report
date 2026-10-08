@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[actions-runner-images]] [[ripienaar-free-for-dev]] [[stremio-stremio-web]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]]
+[[ripienaar-free-for-dev]] [[actions-runner-images]] [[pkuflyingpig-cs-self-learning]] [[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]] [[image-gen]]
 

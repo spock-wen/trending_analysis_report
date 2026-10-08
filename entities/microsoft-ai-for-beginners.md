@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]] [[lyogavin-airllm]]
+[[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

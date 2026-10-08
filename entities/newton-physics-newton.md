@@ -36,7 +36,7 @@ An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[paperless-ngx-paperless-ngx]] [[calesthio-openmontage]] [[ayghri-i-have-adhd]]
+[[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[affaan-m-ecc]] [[earthtojake-text-to-cad]] [[panniantong-agent-reach]]
 
 **所属领域**: [[science]]
 

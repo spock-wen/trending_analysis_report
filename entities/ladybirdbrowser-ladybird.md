@@ -36,7 +36,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[stremio-stremio-web]] [[tensorflow-tensorflow]] [[tester-army-e2e]] [[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]]
+[[m-abozaid-esp32-c3-adblock]] [[tensorflow-tensorflow]] [[firebase-firebase-ios-sdk]] [[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]]
 

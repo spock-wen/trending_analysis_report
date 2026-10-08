@@ -38,7 +38,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[actions-runner-images]] [[pbakaus-impeccable]] [[addyosmani-agent-skills]] [[tester-army-e2e]]
+[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[anthropics-knowledge-work-plugins]] [[actions-runner-images]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

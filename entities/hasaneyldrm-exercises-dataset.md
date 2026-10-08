@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[ripienaar-free-for-dev]] [[addyosmani-agent-skills]] [[tester-army-e2e]] [[stremio-stremio-web]]
+[[ripienaar-free-for-dev]] [[coreyhaines31-marketingskills]] [[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]] [[calesthio-openmontage]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

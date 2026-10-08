@@ -36,7 +36,7 @@ Developer-first error tracking and performance monitoring
 
 ## 相关项目
 
-[[oblien-openship]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[calesthio-openmontage]] [[ayghri-i-have-adhd]]
+[[oblien-openship]] [[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[davila7-claude-code-templates]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[devops]]
 

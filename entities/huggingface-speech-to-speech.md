@@ -37,7 +37,7 @@ Build local voice agents with open-source models
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[multimodal-art-projection-yue]] [[addyosmani-agent-skills]] [[jamiepine-voicebox]] [[panniantong-agent-reach]]
+[[jamiepine-voicebox]] [[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[tonhowtf-omniget]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

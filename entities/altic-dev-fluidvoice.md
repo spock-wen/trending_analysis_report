@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[abue-ammar-tinycast]] [[homebrew-brewui]] [[addyosmani-agent-skills]] [[tester-army-e2e]]
+[[jamiepine-voicebox]] [[anthropics-knowledge-work-plugins]] [[homebrew-brewui]] [[mattpocock-skills]] [[tonhowtf-omniget]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

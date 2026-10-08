@@ -38,5 +38,5 @@ Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, struct
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[ayghri-i-have-adhd]]
+[[anthropics-knowledge-work-plugins]] [[ayghri-i-have-adhd]] [[earthtojake-text-to-cad]] [[panniantong-agent-reach]]
 

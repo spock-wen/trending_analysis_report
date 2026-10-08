@@ -34,7 +34,7 @@ Claude Desktop for Debian-based Linux distributions
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[panniantong-agent-reach]] [[mattpocock-skills]] [[infinityloop1308-pipepipe]]
+[[obra-superpowers]] [[infinityloop1308-pipepipe]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

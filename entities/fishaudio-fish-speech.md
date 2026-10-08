@@ -37,7 +37,7 @@ SOTA Open Source TTS
 
 ## 相关项目
 
-[[multimodal-art-projection-yue]] [[jamiepine-voicebox]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[calesthio-openmontage]]
+[[jamiepine-voicebox]] [[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[tonhowtf-omniget]] [[multimodal-art-projection-yue]]
 
 **所属领域**: [[audio]]
 

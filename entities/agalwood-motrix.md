@@ -35,5 +35,5 @@ A full-featured download manager.
 
 ## 相关项目
 
-[[morluto-rea]] [[thedotmack-claude-mem]] [[pingdotgg-t3code]] [[tester-army-e2e]]
+[[pingdotgg-t3code]] [[tester-army-e2e]] [[morluto-rea]] [[thedotmack-claude-mem]]
 

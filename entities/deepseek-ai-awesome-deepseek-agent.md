@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[thedotmack-claude-mem]] [[addyosmani-agent-skills]] [[mattpocock-skills]]
+[[anthropics-knowledge-work-plugins]] [[cathrynlavery-diagram-design]] [[mattpocock-skills]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]]
 

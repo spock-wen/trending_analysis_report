@@ -34,5 +34,5 @@ Free and Open Source Machine Translation API. Self-hosted, offline capable and e
 
 ## 相关项目
 
-[[calesthio-openmontage]] [[panniantong-agent-reach]] [[earthtojake-text-to-cad]] [[ayghri-i-have-adhd]]
+[[anthropics-knowledge-work-plugins]] [[ayghri-i-have-adhd]] [[earthtojake-text-to-cad]] [[panniantong-agent-reach]]
 

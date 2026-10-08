@@ -34,7 +34,7 @@ This open-source curriculum introduces the fundamentals of Model Context Protoco
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[microsoft-ai-for-beginners]] [[mattpocock-skills]] [[rohitg00-ai-engineering-from-scratch]]
+[[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

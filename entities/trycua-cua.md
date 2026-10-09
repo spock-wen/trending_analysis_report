@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[tester-army-e2e]] [[storytold-artcraft]] [[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]]
+[[nvidia-openshell]] [[t8y2-dbx]] [[duartesantos8-opengym]] [[fxembed-fxembed]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

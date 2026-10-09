@@ -35,7 +35,7 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[coreyhaines31-marketingskills]] [[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]] [[calesthio-openmontage]]
+[[duartesantos8-opengym]] [[trycua-cua]] [[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

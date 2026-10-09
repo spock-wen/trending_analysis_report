@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[affaan-m-ecc]] [[cathrynlavery-diagram-design]]
+[[cathrynlavery-diagram-design]] [[stremio-stremio-web]] [[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

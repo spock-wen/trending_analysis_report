@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[affaan-m-ecc]]
+[[melgarafael-deskcommcrm]] [[manaflow-ai-cmux]] [[ever-co-ever-gauzy]] [[berriai-litellm]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

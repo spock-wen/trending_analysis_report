@@ -35,7 +35,7 @@ Stremio - Freedom to Stream
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[cloudflare-security-audit-skill]]
+[[cathrynlavery-diagram-design]] [[pbakaus-impeccable]] [[duartesantos8-opengym]] [[cloudflare-security-audit-skill]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[web]]
 

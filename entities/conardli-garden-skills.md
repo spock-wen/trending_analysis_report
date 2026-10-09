@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[actions-runner-images]] [[mattpocock-skills]] [[diolinux-photogimp]] [[fxembed-fxembed]]
+[[cathrynlavery-diagram-design]] [[diolinux-photogimp]] [[fxembed-fxembed]] [[trycua-cua]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

@@ -38,7 +38,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[anthropics-knowledge-work-plugins]] [[actions-runner-images]] [[thedotmack-claude-mem]]
+[[pbakaus-impeccable]] [[duartesantos8-opengym]] [[fxembed-fxembed]] [[trycua-cua]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

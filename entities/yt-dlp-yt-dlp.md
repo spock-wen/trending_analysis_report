@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[tonhowtf-omniget]] [[mattpocock-skills]]
+[[jamiepine-voicebox]] [[manaflow-ai-cmux]] [[multimodal-art-projection-yue]] [[berriai-litellm]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]] [[audio]]
 

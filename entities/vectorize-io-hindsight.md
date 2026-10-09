@@ -38,7 +38,7 @@ Hindsight: Agent Memory That Learns
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[cs341-illinois-coursebook]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]]
+[[cs341-illinois-coursebook]] [[rohitg00-ai-engineering-from-scratch]] [[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

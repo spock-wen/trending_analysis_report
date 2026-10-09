@@ -35,7 +35,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[flutter-flutter]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]]
+[[flutter-flutter]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[flutter-skills]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[penpot-penpot]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]]
+[[penpot-penpot]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

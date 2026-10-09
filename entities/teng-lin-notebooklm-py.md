@@ -35,7 +35,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[earthtojake-text-to-cad]]
+[[cathrynlavery-diagram-design]] [[manaflow-ai-cmux]] [[stremio-stremio-web]] [[berriai-litellm]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

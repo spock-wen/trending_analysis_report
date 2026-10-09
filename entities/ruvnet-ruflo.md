@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[oblien-openship]] [[vectorize-io-hindsight]] [[cs341-illinois-coursebook]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-knowledge-work-plugins]]
+[[anthropics-knowledge-work-plugins]] [[cs341-illinois-coursebook]] [[davila7-claude-code-templates]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

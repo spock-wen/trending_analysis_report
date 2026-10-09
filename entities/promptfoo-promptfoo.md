@@ -36,7 +36,7 @@ Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni
 
 ## 相关项目
 
-[[oblien-openship]] [[anthropics-knowledge-work-plugins]] [[davila7-claude-code-templates]] [[morluto-rea]] [[mattpocock-skills]]
+[[manaflow-ai-cmux]] [[anthropics-knowledge-work-plugins]] [[davila7-claude-code-templates]] [[addyosmani-agent-skills]] [[morluto-rea]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

@@ -34,7 +34,7 @@ Enterprise Architecture Governance & Vendor Procurement Toolkit
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[obra-superpowers]] [[pkuflyingpig-cs-self-learning]] [[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]]
+[[cathrynlavery-diagram-design]] [[averygan-reclip]] [[melgarafael-deskcommcrm]] [[ripienaar-free-for-dev]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[web]] [[erp]]
 

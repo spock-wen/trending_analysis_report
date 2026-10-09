@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[obra-superpowers]] [[conardli-garden-skills]] [[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[stremio-stremio-web]]
+[[cathrynlavery-diagram-design]] [[melgarafael-deskcommcrm]] [[ever-co-ever-gauzy]] [[earthtojake-text-to-cad]] [[tester-army-e2e]]
 
 **所属领域**: [[web]] [[erp]]
 

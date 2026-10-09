@@ -37,7 +37,7 @@ claude-red is a curated library of offensive security skills designed for the Cl
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[coreyhaines31-marketingskills]] [[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]] [[calesthio-openmontage]]
+[[nationalsecurityagency-ghidra]] [[manaflow-ai-cmux]] [[duartesantos8-opengym]] [[trycua-cua]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[security]]
 

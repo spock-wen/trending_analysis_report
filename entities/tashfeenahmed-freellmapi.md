@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[anthropics-knowledge-work-plugins]] [[nationalsecurityagency-ghidra]] [[morluto-rea]] [[mattpocock-skills]]
+[[nationalsecurityagency-ghidra]] [[anthropics-knowledge-work-plugins]] [[zhaoxuya520-reverse-skill]] [[cloudflare-security-audit-skill]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

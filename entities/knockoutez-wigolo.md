@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[morluto-rea]] [[mattpocock-skills]] [[affaan-m-ecc]] [[cathrynlavery-diagram-design]]
+[[cathrynlavery-diagram-design]] [[anthropics-knowledge-work-plugins]] [[zhaoxuya520-reverse-skill]] [[addyosmani-agent-skills]] [[morluto-rea]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

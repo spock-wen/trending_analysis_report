@@ -38,7 +38,7 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[morluto-rea]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[pingdotgg-t3code]]
+[[anthropics-knowledge-work-plugins]] [[addyosmani-agent-skills]] [[morluto-rea]] [[alibaba-open-code-review]] [[tester-army-e2e]]
 
 **所属领域**: [[ai-agent]]
 

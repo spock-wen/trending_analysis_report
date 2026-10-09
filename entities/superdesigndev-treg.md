@@ -36,7 +36,7 @@ OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[earthtojake-text-to-cad]]
+[[cathrynlavery-diagram-design]] [[stremio-stremio-web]] [[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

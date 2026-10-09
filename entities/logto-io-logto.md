@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[oblien-openship]] [[anthropics-knowledge-work-plugins]] [[davila7-claude-code-templates]] [[morluto-rea]] [[mattpocock-skills]]
+[[anthropics-knowledge-work-plugins]] [[davila7-claude-code-templates]] [[addyosmani-agent-skills]] [[morluto-rea]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

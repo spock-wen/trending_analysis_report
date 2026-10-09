@@ -36,7 +36,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[cs341-illinois-coursebook]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-knowledge-work-plugins]] [[earthtojake-text-to-cad]]
+[[cs341-illinois-coursebook]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[berriai-litellm]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[education]]
 

@@ -37,7 +37,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[coreyhaines31-marketingskills]] [[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]] [[calesthio-openmontage]]
+[[duartesantos8-opengym]] [[fxembed-fxembed]] [[trycua-cua]] [[berriai-litellm]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

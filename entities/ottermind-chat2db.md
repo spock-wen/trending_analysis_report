@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]] [[calesthio-openmontage]] [[google-guava]]
+[[nationalsecurityagency-ghidra]] [[manaflow-ai-cmux]] [[duartesantos8-opengym]] [[trycua-cua]] [[checkstyle-checkstyle]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

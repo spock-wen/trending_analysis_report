@@ -38,7 +38,7 @@ Give your agent CAD superpowers.
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]]
+[[melgarafael-deskcommcrm]] [[ever-co-ever-gauzy]] [[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

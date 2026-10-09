@@ -36,7 +36,7 @@ OCR model that handles complex tables, forms, handwriting with full layout.
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[coreyhaines31-marketingskills]] [[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]] [[calesthio-openmontage]]
+[[duartesantos8-opengym]] [[trycua-cua]] [[berriai-litellm]] [[alibaba-open-code-review]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[data]]
 

@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[cs341-illinois-coursebook]] [[rohitg00-ai-engineering-from-scratch]] [[addyosmani-agent-skills]] [[duartesantos8-opengym]]
+[[pbakaus-impeccable]] [[duartesantos8-opengym]] [[cs341-illinois-coursebook]] [[trycua-cua]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[data]] [[education]]
 

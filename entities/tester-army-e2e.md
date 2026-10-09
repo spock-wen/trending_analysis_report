@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[actions-runner-images]] [[morluto-rea]] [[fxembed-fxembed]] [[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]]
+[[cathrynlavery-diagram-design]] [[fxembed-fxembed]] [[trycua-cua]] [[morluto-rea]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]] [[image-gen]]
 

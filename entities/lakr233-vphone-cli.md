@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[homebrew-brewui]] [[mattpocock-skills]] [[msitarzewski-agency-agents]] [[abue-ammar-tinycast]] [[panniantong-agent-reach]]
+[[homebrew-brewui]] [[abue-ammar-tinycast]] [[manaflow-ai-cmux]] [[panniantong-agent-reach]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[cli]]
 

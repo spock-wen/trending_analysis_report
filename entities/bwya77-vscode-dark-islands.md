@@ -34,7 +34,7 @@ VSCode theme based off the easemate IDE and Jetbrains islands theme
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[actions-runner-images]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]]
+[[manaflow-ai-cmux]] [[raphire-win11debloat]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

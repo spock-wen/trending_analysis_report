@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[obra-superpowers]] [[morluto-rea]] [[earthtojake-text-to-cad]] [[thedotmack-claude-mem]] [[pingdotgg-t3code]]
+[[melgarafael-deskcommcrm]] [[ever-co-ever-gauzy]] [[morluto-rea]] [[earthtojake-text-to-cad]] [[tester-army-e2e]]
 
 **所属领域**: [[erp]]
 

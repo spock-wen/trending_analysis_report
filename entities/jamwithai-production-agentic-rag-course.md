@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[cs341-illinois-coursebook]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]]
+[[cs341-illinois-coursebook]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[berriai-litellm]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[morluto-rea]] [[mattpocock-skills]] [[msitarzewski-agency-agents]] [[panniantong-agent-reach]] [[thedotmack-claude-mem]]
+[[manaflow-ai-cmux]] [[panniantong-agent-reach]] [[morluto-rea]] [[tester-army-e2e]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[cli]]
 

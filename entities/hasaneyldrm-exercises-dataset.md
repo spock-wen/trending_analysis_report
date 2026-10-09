@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[coreyhaines31-marketingskills]] [[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]] [[calesthio-openmontage]]
+[[cathrynlavery-diagram-design]] [[averygan-reclip]] [[ripienaar-free-for-dev]] [[duartesantos8-opengym]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

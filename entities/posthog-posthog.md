@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[oblien-openship]] [[ayghri-i-have-adhd]] [[coreyhaines31-marketingskills]] [[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]]
+[[cathrynlavery-diagram-design]] [[duartesantos8-opengym]] [[stremio-stremio-web]] [[trycua-cua]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

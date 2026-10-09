@@ -35,7 +35,7 @@ A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Opti
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[earthtojake-text-to-cad]]
+[[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[anthropics-knowledge-work-plugins]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]]
 

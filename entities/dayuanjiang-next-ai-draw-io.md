@@ -34,7 +34,7 @@ A next.js web application that integrates AI capabilities with draw.io diagrams.
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[morluto-rea]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]]
+[[cathrynlavery-diagram-design]] [[manaflow-ai-cmux]] [[anthropics-knowledge-work-plugins]] [[addyosmani-agent-skills]] [[morluto-rea]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

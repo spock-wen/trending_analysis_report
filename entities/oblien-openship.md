@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[morluto-rea]] [[getsentry-sentry]] [[nvidia-model-optimizer]] [[thedotmack-claude-mem]]
+[[davila7-claude-code-templates]] [[morluto-rea]] [[getsentry-sentry]] [[nvidia-model-optimizer]] [[tester-army-e2e]]
 
 **所属领域**: [[devops]]
 

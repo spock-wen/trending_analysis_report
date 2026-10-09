@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[willfaust-madeira]] [[colbymchenry-codegraph]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[epicgames-raddebugger]]
+[[epicgames-raddebugger]] [[manaflow-ai-cmux]] [[antirez-ds4]] [[willfaust-madeira]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

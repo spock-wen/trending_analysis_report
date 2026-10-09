@@ -38,7 +38,7 @@ An advanced guide to learn English which might benefit you a lot 🎉 . 人生�
 
 ## 相关项目
 
-[[cs341-illinois-coursebook]] [[rohitg00-ai-engineering-from-scratch]] [[jamwithai-production-agentic-rag-course]] [[vectorize-io-hindsight]]
+[[cs341-illinois-coursebook]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[jamwithai-production-agentic-rag-course]]
 
 **所属领域**: [[education]]
 

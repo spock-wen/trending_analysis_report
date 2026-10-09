@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[nvidia-model-optimizer]] [[jamwithai-production-agentic-rag-course]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]] [[obra-superpowers]]
+[[microsoft-generative-ai-for-beginners]] [[melgarafael-deskcommcrm]] [[cs341-illinois-coursebook]] [[vectorize-io-hindsight]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

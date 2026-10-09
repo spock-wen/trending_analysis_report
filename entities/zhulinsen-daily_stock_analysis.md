@@ -34,7 +34,7 @@ LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[earthtojake-text-to-cad]]
+[[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[anthropics-knowledge-work-plugins]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]]
 

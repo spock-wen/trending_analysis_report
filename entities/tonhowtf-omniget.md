@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[vectorize-io-hindsight]] [[jamiepine-voicebox]] [[cs341-illinois-coursebook]] [[rohitg00-ai-engineering-from-scratch]] [[storytold-artcraft]]
+[[jamiepine-voicebox]] [[nvidia-openshell]] [[manaflow-ai-cmux]] [[t8y2-dbx]] [[cs341-illinois-coursebook]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

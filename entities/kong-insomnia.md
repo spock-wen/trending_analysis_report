@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[morluto-rea]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[stremio-stremio-web]]
+[[cathrynlavery-diagram-design]] [[manaflow-ai-cmux]] [[panniantong-agent-reach]] [[morluto-rea]] [[tester-army-e2e]]
 
 **所属领域**: [[web]] [[cli]]
 

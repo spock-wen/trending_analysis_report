@@ -35,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[sonarr-sonarr]] [[k1tbyte-wand-enhancer]] [[mattpocock-skills]] [[msitarzewski-agency-agents]] [[panniantong-agent-reach]]
+[[manaflow-ai-cmux]] [[dotnet-aspnetcore]] [[jellyfin-jellyfin]] [[panniantong-agent-reach]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[cli]]
 

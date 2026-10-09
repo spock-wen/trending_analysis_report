@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[morluto-rea]] [[thedotmack-claude-mem]] [[affaan-m-ecc]] [[zhaoxuya520-reverse-skill]]
+[[nationalsecurityagency-ghidra]] [[zhaoxuya520-reverse-skill]] [[cloudflare-security-audit-skill]] [[morluto-rea]] [[tester-army-e2e]]
 
 **所属领域**: [[security]]
 

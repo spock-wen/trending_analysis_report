@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[cs341-illinois-coursebook]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]]
+[[cs341-illinois-coursebook]] [[vectorize-io-hindsight]] [[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

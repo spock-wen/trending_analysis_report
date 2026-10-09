@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[oblien-openship]] [[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[davila7-claude-code-templates]] [[mattpocock-skills]]
+[[manaflow-ai-cmux]] [[davila7-claude-code-templates]] [[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

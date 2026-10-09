@@ -35,7 +35,7 @@ Agent framework and applications built upon Qwen>=3.0, featuring Function Callin
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]]
+[[cathrynlavery-diagram-design]] [[melgarafael-deskcommcrm]] [[stremio-stremio-web]] [[ever-co-ever-gauzy]] [[berriai-litellm]]
 
 **所属领域**: [[ai-agent]] [[web]] [[erp]]
 

@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[anthropics-knowledge-work-plugins]] [[morluto-rea]] [[tonhowtf-omniget]] [[mattpocock-skills]]
+[[jamiepine-voicebox]] [[cathrynlavery-diagram-design]] [[anthropics-knowledge-work-plugins]] [[multimodal-art-projection-yue]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

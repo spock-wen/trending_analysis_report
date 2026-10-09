@@ -36,5 +36,5 @@ Visualize, collaborate, and evolve the software architecture with always actual 
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[tester-army-e2e]] [[morluto-rea]] [[thedotmack-claude-mem]]
+[[morluto-rea]] [[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[tester-army-e2e]]
 

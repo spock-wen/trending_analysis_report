@@ -35,7 +35,7 @@ Code for Machine Learning for Algorithmic Trading, 2nd edition.
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[microsoft-ai-for-beginners]]
+[[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]] [[cs341-illinois-coursebook]] [[lyogavin-airllm]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[education]]
 

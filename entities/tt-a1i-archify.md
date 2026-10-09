@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[anthropics-knowledge-work-plugins]] [[calesthio-openmontage]]
+[[cathrynlavery-diagram-design]] [[pbakaus-impeccable]] [[duartesantos8-opengym]] [[trycua-cua]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[oblien-openship]] [[coreyhaines31-marketingskills]] [[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]] [[calesthio-openmontage]]
+[[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]] [[trycua-cua]] [[davila7-claude-code-templates]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

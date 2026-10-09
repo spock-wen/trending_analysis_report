@@ -36,7 +36,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[coreyhaines31-marketingskills]] [[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]] [[calesthio-openmontage]]
+[[caddyserver-caddy]] [[duartesantos8-opengym]] [[rakyll-hey]] [[trycua-cua]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-09 | 总页面：812
+> 最后更新：2026-10-10 | 总页面：814
 
 ## Entities
 
@@ -43,7 +43,7 @@
 - [[alchaincyf-zhangxuefeng-skill|zhangxuefeng-skill"]] — 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 - [[alexsjones-llmfit|llmfit"]] — Hundreds of models & providers. One command to find what run...
 - [[alexzhang13-rlm|rlm"]] — General plug-and-play inference library for Recursive Langua...
-- [[alibaba-open-code-review|open-code-review"]] — Secure, fast, efficient, battle-tested at Alibaba's scale. H... 🔥
+- [[alibaba-open-code-review|open-code-review"]] — Secure, fast, efficient, battle-tested at Alibaba's scale. H...
 - [[alibaba-opensandbox|OpenSandbox"]] — OpenSandbox is a general-purpose sandbox platform for AI app... 🆕
 - [[alibaba-page-agent|page-agent"]] — JavaScript in-page GUI agent. Control web interfaces with na... 🆕
 - [[alibaba-zvec|zvec"]] — A lightweight, lightning-fast, in-process vector database
@@ -75,7 +75,7 @@
 - [[anthropics-claude-plugins-official|claude-plugins-official"]] — Official, Anthropic-managed directory of high quality Claude...
 - [[anthropics-cwc-workshops|cwc-workshops"]] — No description
 - [[anthropics-financial-services|financial-services"]] — No description 🔥
-- [[anthropics-knowledge-work-plugins|knowledge-work-plugins"]] — Open source repository of plugins primarily intended for kno...
+- [[anthropics-knowledge-work-plugins|knowledge-work-plugins"]] — Open source repository of plugins primarily intended for kno... 🆕
 - [[anthropics-skills|skills"]] — Public repository for Agent Skills
 - [[antirez-ds4|ds4"]] — DeepSeek 4 Flash and PRO local inference engine for Metal, C...
 - [[antoinezambelli-forge|forge"]] — A Python framework for self-hosted LLM tool-calling and mult...
@@ -105,6 +105,7 @@
 - [[bannedbook-fanqiang|fanqiang"]] — 翻墙-科学上网 🆕
 - [[basecamp-omarchy|omarchy"]] — Beautiful, Modern & Opinionated Linux 🔥
 - [[basedhardware-omi|omi"]] — AI that sees your screen, listens to your conversations and ...
+- [[berriai-litellm|litellm"]] — The fastest, litest AI Gateway. Rust core with Python SDK. C... 🆕
 - [[bigbodycobain-shadowbroker|Shadowbroker"]] — Open-source intelligence for the global theater. Track every... 🆕
 - [[bigskysoftware-htmx|htmx"]] — </> htmx - high power tools for HTML
 - [[bikini-exploitarium|exploitarium"]] — A single archive of public exploit PoCs and vulnerability re... 🆕
@@ -624,7 +625,7 @@
 - [[ripienaar-free-for-dev|free-for-dev"]] — A list of SaaS, PaaS and IaaS offerings that have free tiers...
 - [[rlaope-oh-my-hermes|oh-my-hermes"]] — All in one plugin for Hermes Agent ⚚ the coding intelligence...
 - [[rmyndharis-openwa|OpenWA"]] — Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [[robbyant-lingbot-map|lingbot-map"]] — A feed-forward 3D foundation model for reconstructing scenes...
+- [[robbyant-lingbot-map|lingbot-map"]] — [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometri...
 - [[roboflow-supervision|supervision"]] — We write your reusable computer vision tools. 💜 🆕
 - [[rohitg00-agentmemory|agentmemory"]] — - 语言: TypeScript 🆕
 - [[rohitg00-ai-engineering-from-scratch|ai-engineering-from-scratch"]] — Learn it. Build it. Ship it for others.
@@ -736,6 +737,7 @@
 - [[tursodatabase-turso|turso"]] — Turso is an in-process SQL database, compatible with SQLite. 🔥
 - [[tw93-pake|Pake"]] — 🤱🏻 Turn any webpage into a desktop app with one command. 🆕
 - [[twentyhq-twenty|twenty"]] — The open alternative to Salesforce, designed for AI.
+- [[twostraws-swiftui-agent-skill|SwiftUI-Agent-Skill"]] — SwiftUI agent skill for Claude Code, Codex, and other AI too... 🆕
 - [[uber-adr|ADR"]] — ADR secures enterprise AI agents through observability, secu... 🆕
 - [[unclebob-swarm-forge|swarm-forge"]] — A simple tool for coordinating several AI agents.
 - [[unclecheng-li-vulnclaw|VulnClaw"]] — 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「...

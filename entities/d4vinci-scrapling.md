@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[cathrynlavery-diagram-design]] [[earthtojake-text-to-cad]] [[panniantong-agent-reach]]
+[[cathrynlavery-diagram-design]] [[stremio-stremio-web]] [[berriai-litellm]] [[tester-army-e2e]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]]
 

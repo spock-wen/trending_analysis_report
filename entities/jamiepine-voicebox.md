@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[morluto-rea]] [[tonhowtf-omniget]] [[mattpocock-skills]] [[debpalash-voicestudio]]
+[[anthropics-knowledge-work-plugins]] [[multimodal-art-projection-yue]] [[addyosmani-agent-skills]] [[morluto-rea]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

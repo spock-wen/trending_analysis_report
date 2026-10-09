@@ -37,7 +37,7 @@ An open source design system that's fully customizable and agent ready
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[morluto-rea]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]]
+[[anthropics-knowledge-work-plugins]] [[addyosmani-agent-skills]] [[morluto-rea]] [[alibaba-open-code-review]] [[tester-army-e2e]]
 
 **所属领域**: [[ai-agent]]
 

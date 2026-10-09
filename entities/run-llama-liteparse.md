@@ -35,5 +35,5 @@ A fast, helpful, and open-source document parser
 
 ## 相关项目
 
-[[storytold-artcraft]] [[trycua-cua]] [[nvidia-openshell]] [[t8y2-dbx]]
+[[storytold-artcraft]] [[nvidia-openshell]] [[trycua-cua]] [[t8y2-dbx]]
 

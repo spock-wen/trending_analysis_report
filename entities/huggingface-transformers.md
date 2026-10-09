@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[ayghri-i-have-adhd]] [[cs341-illinois-coursebook]] [[rohitg00-ai-engineering-from-scratch]] [[anthropics-knowledge-work-plugins]]
+[[jamiepine-voicebox]] [[cs341-illinois-coursebook]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[berriai-litellm]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

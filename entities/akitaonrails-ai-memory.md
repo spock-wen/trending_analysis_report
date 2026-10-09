@@ -37,7 +37,7 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 ## 相关项目
 
-[[storytold-artcraft]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[manaflow-ai-cmux]] [[cathrynlavery-diagram-design]]
+[[nvidia-openshell]] [[manaflow-ai-cmux]] [[t8y2-dbx]] [[trycua-cua]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

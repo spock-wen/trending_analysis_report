@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[vectorize-io-hindsight]] [[cs341-illinois-coursebook]] [[rohitg00-ai-engineering-from-scratch]] [[cathrynlavery-diagram-design]]
+[[cathrynlavery-diagram-design]] [[averygan-reclip]] [[ripienaar-free-for-dev]] [[cs341-illinois-coursebook]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[web]] [[education]]
 

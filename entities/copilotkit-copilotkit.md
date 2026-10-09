@@ -36,7 +36,7 @@ The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, an
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[morluto-rea]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]]
+[[cathrynlavery-diagram-design]] [[anthropics-knowledge-work-plugins]] [[addyosmani-agent-skills]] [[morluto-rea]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

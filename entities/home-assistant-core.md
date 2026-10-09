@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[affaan-m-ecc]] [[earthtojake-text-to-cad]] [[panniantong-agent-reach]]
+[[nationalsecurityagency-ghidra]] [[cloudflare-security-audit-skill]] [[berriai-litellm]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[security]]
 

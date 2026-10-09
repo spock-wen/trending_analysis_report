@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[m-abozaid-esp32-c3-adblock]] [[tensorflow-tensorflow]] [[mattpocock-skills]] [[firebase-firebase-ios-sdk]] [[cathrynlavery-diagram-design]]
+[[cathrynlavery-diagram-design]] [[manaflow-ai-cmux]] [[firebase-firebase-ios-sdk]] [[panniantong-agent-reach]] [[mattpocock-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

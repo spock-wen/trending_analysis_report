@@ -38,7 +38,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[oblien-openship]] [[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[getsentry-sentry]]
+[[manaflow-ai-cmux]] [[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

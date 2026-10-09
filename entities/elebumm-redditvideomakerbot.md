@@ -35,7 +35,7 @@ Create Reddit Videos with just✨ one command ✨
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[earthtojake-text-to-cad]] [[panniantong-agent-reach]]
+[[manaflow-ai-cmux]] [[berriai-litellm]] [[panniantong-agent-reach]] [[msitarzewski-agency-agents]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[cli]]
 

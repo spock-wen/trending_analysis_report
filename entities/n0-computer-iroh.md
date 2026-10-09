@@ -37,5 +37,5 @@ IP addresses break, dial keys instead. Modular networking stack in Rust.
 
 ## 相关项目
 
-[[storytold-artcraft]] [[trycua-cua]] [[nvidia-openshell]] [[t8y2-dbx]]
+[[storytold-artcraft]] [[nvidia-openshell]] [[trycua-cua]] [[t8y2-dbx]]
 

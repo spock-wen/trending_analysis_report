@@ -38,7 +38,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]] [[calesthio-openmontage]] [[google-guava]]
+[[nationalsecurityagency-ghidra]] [[duartesantos8-opengym]] [[trycua-cua]] [[checkstyle-checkstyle]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

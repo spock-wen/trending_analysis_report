@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[actions-runner-images]] [[mattpocock-skills]] [[fxembed-fxembed]]
+[[affaan-m-ecc]] [[fxembed-fxembed]] [[trycua-cua]] [[berriai-litellm]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

@@ -35,7 +35,7 @@ ONNX Runtime: cross-platform, high performance ML inferencing and training accel
 
 ## 相关项目
 
-[[m-abozaid-esp32-c3-adblock]] [[anthropics-knowledge-work-plugins]] [[tensorflow-tensorflow]] [[mattpocock-skills]] [[firebase-firebase-ios-sdk]]
+[[boykopovar-anyps5]] [[firebase-firebase-ios-sdk]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ real time face swap and one-click video deepfake with only a single image
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[actions-runner-images]] [[mattpocock-skills]] [[earthtojake-text-to-cad]]
+[[manaflow-ai-cmux]] [[fxembed-fxembed]] [[trycua-cua]] [[berriai-litellm]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

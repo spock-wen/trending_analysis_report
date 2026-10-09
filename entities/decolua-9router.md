@@ -38,7 +38,7 @@ Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[anthropics-knowledge-work-plugins]] [[thedotmack-claude-mem]] [[mattpocock-skills]]
+[[pbakaus-impeccable]] [[manaflow-ai-cmux]] [[duartesantos8-opengym]] [[cloudflare-security-audit-skill]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[storytold-artcraft]] [[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]] [[calesthio-openmontage]]
+[[nvidia-openshell]] [[manaflow-ai-cmux]] [[duartesantos8-opengym]] [[trycua-cua]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

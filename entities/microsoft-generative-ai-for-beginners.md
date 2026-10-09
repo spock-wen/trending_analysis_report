@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[anthropics-knowledge-work-plugins]]
+[[microsoft-ai-for-beginners]] [[cs341-illinois-coursebook]] [[lyogavin-airllm]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

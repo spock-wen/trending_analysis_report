@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[pkuflyingpig-cs-self-learning]] [[affaan-m-ecc]]
+[[cathrynlavery-diagram-design]] [[averygan-reclip]] [[ripienaar-free-for-dev]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

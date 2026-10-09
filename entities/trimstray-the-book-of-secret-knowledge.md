@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[stremio-stremio-web]] [[msitarzewski-agency-agents]] [[panniantong-agent-reach]]
+[[cathrynlavery-diagram-design]] [[manaflow-ai-cmux]] [[panniantong-agent-reach]] [[tester-army-e2e]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]] [[cli]]
 

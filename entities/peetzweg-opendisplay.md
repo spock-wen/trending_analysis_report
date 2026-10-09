@@ -34,7 +34,7 @@ Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true
 
 ## 相关项目
 
-[[oblien-openship]] [[davila7-claude-code-templates]] [[homebrew-brewui]] [[getsentry-sentry]] [[manaflow-ai-cmux]]
+[[lakr233-vphone-cli]] [[homebrew-brewui]] [[abue-ammar-tinycast]] [[manaflow-ai-cmux]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[devops]]
 

@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[localsend-localsend]] [[mattpocock-skills]] [[flutter-flutter]] [[cathrynlavery-diagram-design]]
+[[localsend-localsend]] [[flutter-flutter]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[m-abozaid-esp32-c3-adblock]] [[tensorflow-tensorflow]] [[mattpocock-skills]] [[firebase-firebase-ios-sdk]] [[msitarzewski-agency-agents]]
+[[boykopovar-anyps5]] [[manaflow-ai-cmux]] [[firebase-firebase-ios-sdk]] [[panniantong-agent-reach]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[cli]]
 

@@ -37,7 +37,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[earthtojake-text-to-cad]]
+[[cathrynlavery-diagram-design]] [[stremio-stremio-web]] [[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

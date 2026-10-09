@@ -38,7 +38,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[anthropics-knowledge-work-plugins]] [[thedotmack-claude-mem]] [[mattpocock-skills]]
+[[pbakaus-impeccable]] [[duartesantos8-opengym]] [[cloudflare-security-audit-skill]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

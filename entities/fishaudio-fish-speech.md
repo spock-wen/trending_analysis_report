@@ -37,7 +37,7 @@ SOTA Open Source TTS
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[tonhowtf-omniget]] [[multimodal-art-projection-yue]]
+[[jamiepine-voicebox]] [[multimodal-art-projection-yue]] [[berriai-litellm]] [[debpalash-voicestudio]] [[tonhowtf-omniget]]
 
 **所属领域**: [[audio]]
 

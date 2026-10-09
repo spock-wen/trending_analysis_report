@@ -34,5 +34,5 @@ Automate the process of making money online.
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[ayghri-i-have-adhd]] [[earthtojake-text-to-cad]] [[panniantong-agent-reach]]
+[[anthropics-knowledge-work-plugins]] [[robbyant-lingbot-map]] [[ayghri-i-have-adhd]] [[berriai-litellm]]
 

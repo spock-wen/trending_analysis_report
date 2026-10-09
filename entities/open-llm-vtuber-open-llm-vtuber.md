@@ -37,7 +37,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[tonhowtf-omniget]] [[mattpocock-skills]]
+[[jamiepine-voicebox]] [[multimodal-art-projection-yue]] [[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

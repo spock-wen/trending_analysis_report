@@ -38,7 +38,7 @@ World's first open-source, agentic video production system. 12 production pipeli
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[coreyhaines31-marketingskills]] [[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]] [[mattpocock-skills]]
+[[duartesantos8-opengym]] [[trycua-cua]] [[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

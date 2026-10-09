@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[m-abozaid-esp32-c3-adblock]] [[anthropics-knowledge-work-plugins]] [[tensorflow-tensorflow]] [[tonhowtf-omniget]]
+[[jamiepine-voicebox]] [[boykopovar-anyps5]] [[firebase-firebase-ios-sdk]] [[multimodal-art-projection-yue]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

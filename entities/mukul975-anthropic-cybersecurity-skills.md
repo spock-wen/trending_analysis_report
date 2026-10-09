@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[nationalsecurityagency-ghidra]] [[mattpocock-skills]] [[affaan-m-ecc]]
+[[nationalsecurityagency-ghidra]] [[manaflow-ai-cmux]] [[cloudflare-security-audit-skill]] [[berriai-litellm]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

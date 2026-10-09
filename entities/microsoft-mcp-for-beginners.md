@@ -34,7 +34,7 @@ This open-source curriculum introduces the fundamentals of Model Context Protoco
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[rohitg00-ai-engineering-from-scratch]] [[cs341-illinois-coursebook]] [[anthropics-knowledge-work-plugins]]
+[[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]] [[cs341-illinois-coursebook]] [[lyogavin-airllm]] [[vectorize-io-hindsight]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

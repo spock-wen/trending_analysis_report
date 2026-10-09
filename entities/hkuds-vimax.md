@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[actions-runner-images]] [[mattpocock-skills]] [[fxembed-fxembed]]
+[[fxembed-fxembed]] [[trycua-cua]] [[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

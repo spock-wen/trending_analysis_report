@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[microsoft-ai-for-beginners]]
+[[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[m-abozaid-esp32-c3-adblock]] [[coreyhaines31-marketingskills]] [[duartesantos8-opengym]] [[calesthio-openmontage]] [[tensorflow-tensorflow]]
+[[duartesantos8-opengym]] [[firebase-firebase-ios-sdk]] [[trycua-cua]] [[alibaba-open-code-review]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[data]]
 

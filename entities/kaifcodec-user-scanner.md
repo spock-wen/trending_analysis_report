@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[coreyhaines31-marketingskills]] [[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]] [[calesthio-openmontage]]
+[[nationalsecurityagency-ghidra]] [[duartesantos8-opengym]] [[trycua-cua]] [[cloudflare-security-audit-skill]] [[berriai-litellm]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

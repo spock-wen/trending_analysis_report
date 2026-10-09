@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[anthropics-knowledge-work-plugins]] [[actions-runner-images]]
+[[jamiepine-voicebox]] [[pbakaus-impeccable]] [[duartesantos8-opengym]] [[fxembed-fxembed]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

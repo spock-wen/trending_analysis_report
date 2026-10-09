@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]] [[addyosmani-agent-skills]]
+[[addyosmani-agent-skills]] [[pbakaus-impeccable]] [[cloudflare-security-audit-skill]] [[duartesantos8-opengym]]
 

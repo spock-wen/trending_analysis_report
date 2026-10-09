@@ -38,7 +38,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[earthtojake-text-to-cad]]
+[[manaflow-ai-cmux]] [[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

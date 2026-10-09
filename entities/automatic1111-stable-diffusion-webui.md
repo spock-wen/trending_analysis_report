@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[actions-runner-images]] [[fxembed-fxembed]] [[cathrynlavery-diagram-design]]
+[[cathrynlavery-diagram-design]] [[stremio-stremio-web]] [[fxembed-fxembed]] [[trycua-cua]] [[berriai-litellm]]
 
 **所属领域**: [[web]] [[image-gen]]
 

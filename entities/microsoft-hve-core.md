@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[actions-runner-images]] [[mattpocock-skills]] [[bwya77-vscode-dark-islands]] [[cathrynlavery-diagram-design]]
+[[manaflow-ai-cmux]] [[raphire-win11debloat]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

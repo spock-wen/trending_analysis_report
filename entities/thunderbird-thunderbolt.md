@@ -34,7 +34,7 @@ AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 
 ## 相关项目
 
-[[coreyhaines31-marketingskills]] [[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]] [[calesthio-openmontage]] [[morluto-rea]]
+[[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]] [[trycua-cua]] [[addyosmani-agent-skills]] [[morluto-rea]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

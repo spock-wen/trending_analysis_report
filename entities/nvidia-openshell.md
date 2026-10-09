@@ -37,7 +37,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 
 ## 相关项目
 
-[[storytold-artcraft]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]]
+[[manaflow-ai-cmux]] [[t8y2-dbx]] [[trycua-cua]] [[addyosmani-agent-skills]] [[storytold-artcraft]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

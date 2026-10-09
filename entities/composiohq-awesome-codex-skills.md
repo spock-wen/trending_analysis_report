@@ -37,7 +37,7 @@ A curated list of practical Codex skills for automating workflows across the Cod
 
 ## 相关项目
 
-[[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[earthtojake-text-to-cad]]
+[[manaflow-ai-cmux]] [[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

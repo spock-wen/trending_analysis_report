@@ -38,7 +38,7 @@ An autonomous agent for deep financial research
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[morluto-rea]] [[mattpocock-skills]] [[affaan-m-ecc]] [[cathrynlavery-diagram-design]]
+[[anthropics-knowledge-work-plugins]] [[zhaoxuya520-reverse-skill]] [[addyosmani-agent-skills]] [[morluto-rea]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

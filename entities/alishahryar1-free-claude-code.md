@@ -38,7 +38,7 @@ Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your 
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[ayghri-i-have-adhd]] [[anthropics-knowledge-work-plugins]] [[tonhowtf-omniget]] [[mattpocock-skills]]
+[[jamiepine-voicebox]] [[manaflow-ai-cmux]] [[multimodal-art-projection-yue]] [[berriai-litellm]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[audio]]
 

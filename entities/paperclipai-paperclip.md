@@ -38,7 +38,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[morluto-rea]] [[mattpocock-skills]] [[affaan-m-ecc]] [[cathrynlavery-diagram-design]]
+[[manaflow-ai-cmux]] [[anthropics-knowledge-work-plugins]] [[zhaoxuya520-reverse-skill]] [[addyosmani-agent-skills]] [[morluto-rea]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

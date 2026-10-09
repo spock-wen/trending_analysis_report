@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[storytold-artcraft]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[affaan-m-ecc]] [[cathrynlavery-diagram-design]]
+[[nvidia-openshell]] [[t8y2-dbx]] [[trycua-cua]] [[addyosmani-agent-skills]] [[storytold-artcraft]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

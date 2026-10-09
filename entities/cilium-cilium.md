@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[oblien-openship]] [[juliusbrussee-caveman]] [[davila7-claude-code-templates]] [[nationalsecurityagency-ghidra]] [[rakyll-hey]]
+[[nationalsecurityagency-ghidra]] [[caddyserver-caddy]] [[rakyll-hey]] [[davila7-claude-code-templates]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[devops]] [[security]]
 

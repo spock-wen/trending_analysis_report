@@ -35,7 +35,7 @@ Switchyard lets LLM applications route traffic across models and providers while
 
 ## 相关项目
 
-[[storytold-artcraft]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]]
+[[nvidia-openshell]] [[t8y2-dbx]] [[trycua-cua]] [[addyosmani-agent-skills]] [[storytold-artcraft]]
 
 **所属领域**: [[ai-agent]]
 

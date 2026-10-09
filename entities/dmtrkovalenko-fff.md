@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[storytold-artcraft]] [[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]]
+[[nvidia-openshell]] [[t8y2-dbx]] [[trycua-cua]] [[addyosmani-agent-skills]] [[storytold-artcraft]]
 
 **所属领域**: [[ai-agent]]
 

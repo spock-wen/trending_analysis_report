@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[fxembed-fxembed]] [[trycua-cua]] [[berriai-litellm]] [[tester-army-e2e]] [[actions-runner-images]]
+[[tester-army-e2e]] [[actions-runner-images]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[fxembed-fxembed]]
 
 **所属领域**: [[image-gen]]
 

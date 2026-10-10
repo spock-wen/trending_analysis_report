@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[cs341-illinois-coursebook]] [[vectorize-io-hindsight]] [[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
+[[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[jamwithai-production-agentic-rag-course]] [[tensorflow-tensorflow]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

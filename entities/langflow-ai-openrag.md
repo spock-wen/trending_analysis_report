@@ -36,7 +36,7 @@ OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[fxembed-fxembed]] [[trycua-cua]] [[berriai-litellm]] [[addyosmani-agent-skills]]
+[[msitarzewski-agency-agents]] [[tester-army-e2e]] [[actions-runner-images]] [[pytorch-pytorch]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[image-gen]]
 

@@ -37,7 +37,7 @@ A Claude Code plugin that shows what's happening - context usage, active tools, 
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[pbakaus-impeccable]] [[duartesantos8-opengym]] [[cloudflare-security-audit-skill]] [[multimodal-art-projection-yue]]
+[[pbakaus-impeccable]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[debpalash-voicestudio]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

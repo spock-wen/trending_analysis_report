@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[cathrynlavery-diagram-design]] [[anthropics-knowledge-work-plugins]] [[multimodal-art-projection-yue]] [[addyosmani-agent-skills]]
+[[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[tester-army-e2e]] [[stremio-stremio-web]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

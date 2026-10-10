@@ -34,7 +34,7 @@ PowerShell for every system!
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[dotnet-aspnetcore]] [[jellyfin-jellyfin]] [[panniantong-agent-reach]] [[msitarzewski-agency-agents]]
+[[jellyfin-jellyfin]] [[msitarzewski-agency-agents]] [[sonarr-sonarr]] [[panniantong-agent-reach]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[cli]]
 

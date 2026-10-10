@@ -38,7 +38,7 @@ Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[duartesantos8-opengym]] [[fxembed-fxembed]] [[trycua-cua]] [[cloudflare-security-audit-skill]]
+[[pbakaus-impeccable]] [[tester-army-e2e]] [[actions-runner-images]] [[anthropics-knowledge-work-plugins]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

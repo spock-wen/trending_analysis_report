@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[pbakaus-impeccable]] [[duartesantos8-opengym]] [[trycua-cua]] [[cloudflare-security-audit-skill]]
+[[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[pbakaus-impeccable]] [[tester-army-e2e]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

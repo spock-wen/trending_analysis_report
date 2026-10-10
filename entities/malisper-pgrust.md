@@ -35,5 +35,5 @@ Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 
 ## 相关项目
 
-[[storytold-artcraft]] [[nvidia-openshell]] [[trycua-cua]] [[t8y2-dbx]]
+[[nvidia-openshell]] [[t8y2-dbx]] [[trycua-cua]] [[storytold-artcraft]]
 

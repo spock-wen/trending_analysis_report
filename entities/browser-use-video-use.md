@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[stremio-stremio-web]] [[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
+[[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[tester-army-e2e]] [[stremio-stremio-web]] [[pytorch-pytorch]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

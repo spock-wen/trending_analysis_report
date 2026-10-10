@@ -38,7 +38,7 @@ Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c
 
 ## 相关项目
 
-[[caddyserver-caddy]] [[duartesantos8-opengym]] [[rakyll-hey]] [[trycua-cua]] [[addyosmani-agent-skills]]
+[[juliusbrussee-caveman]] [[rakyll-hey]] [[anthropics-knowledge-work-plugins]] [[caddyserver-caddy]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[pbakaus-impeccable]] [[duartesantos8-opengym]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
+[[pbakaus-impeccable]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[zhaoxuya520-reverse-skill]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

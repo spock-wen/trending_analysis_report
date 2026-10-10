@@ -35,7 +35,7 @@ yoink any video from your terminal. no shady ads.
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[panniantong-agent-reach]] [[morluto-rea]] [[tester-army-e2e]] [[msitarzewski-agency-agents]]
+[[msitarzewski-agency-agents]] [[tester-army-e2e]] [[panniantong-agent-reach]] [[mksglu-context-mode]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding age
 
 ## 相关项目
 
-[[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[anthropics-knowledge-work-plugins]] [[robbyant-lingbot-map]]
+[[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[hugohe3-ppt-master]] [[huggingface-transformers]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

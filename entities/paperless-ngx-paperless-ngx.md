@@ -35,7 +35,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[berriai-litellm]] [[paperclipai-paperclip]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[robbyant-lingbot-map]]
+[[paperclipai-paperclip]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[zhaoxuya520-reverse-skill]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[science]]
 

@@ -35,7 +35,7 @@ GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[manaflow-ai-cmux]] [[anthropics-knowledge-work-plugins]] [[addyosmani-agent-skills]] [[morluto-rea]]
+[[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[tester-army-e2e]] [[stremio-stremio-web]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

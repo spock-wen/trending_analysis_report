@@ -36,7 +36,7 @@ A hand-picked collection of the finest of resources for the most awesome of agen
 
 ## 相关项目
 
-[[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[anthropics-knowledge-work-plugins]] [[robbyant-lingbot-map]]
+[[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[hugohe3-ppt-master]] [[huggingface-transformers]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

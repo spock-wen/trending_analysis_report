@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[anthropics-knowledge-work-plugins]] [[zhaoxuya520-reverse-skill]] [[addyosmani-agent-skills]] [[morluto-rea]]
+[[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[tester-army-e2e]] [[stremio-stremio-web]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

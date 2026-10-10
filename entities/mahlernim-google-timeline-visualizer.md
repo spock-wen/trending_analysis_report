@@ -36,7 +36,7 @@ Visualize your year in travel using your Google Location History (Timeline) data
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[duartesantos8-opengym]] [[andreknieriem-headunit-revived]] [[trycua-cua]] [[alibaba-open-code-review]]
+[[embabel-embabel-agent]] [[alibaba-open-code-review]] [[bannedbook-fanqiang]] [[hugohe3-ppt-master]] [[andreknieriem-headunit-revived]]
 
 **所属领域**: [[data]]
 

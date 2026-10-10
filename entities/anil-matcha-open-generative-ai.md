@@ -38,7 +38,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[duartesantos8-opengym]] [[fxembed-fxembed]] [[trycua-cua]] [[cloudflare-security-audit-skill]]
+[[pbakaus-impeccable]] [[tester-army-e2e]] [[actions-runner-images]] [[anthropics-knowledge-work-plugins]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

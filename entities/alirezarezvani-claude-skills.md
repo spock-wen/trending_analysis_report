@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[manaflow-ai-cmux]] [[ever-co-ever-gauzy]] [[berriai-litellm]] [[addyosmani-agent-skills]]
+[[paperclipai-paperclip]] [[msitarzewski-agency-agents]] [[affaan-m-ecc]] [[pytorch-pytorch]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

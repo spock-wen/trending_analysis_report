@@ -36,7 +36,7 @@ Open Source AI trading agent that operates autonomously across 1000+ markets - P
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[anthropics-knowledge-work-plugins]] [[ever-co-ever-gauzy]] [[addyosmani-agent-skills]] [[morluto-rea]]
+[[tester-army-e2e]] [[ever-co-ever-gauzy]] [[mksglu-context-mode]] [[anthropics-knowledge-work-plugins]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[raphire-win11debloat]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[panniantong-agent-reach]]
+[[msitarzewski-agency-agents]] [[actions-runner-images]] [[panniantong-agent-reach]] [[zhaoxuya520-reverse-skill]] [[bwya77-vscode-dark-islands]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

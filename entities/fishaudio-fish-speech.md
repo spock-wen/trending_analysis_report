@@ -37,7 +37,7 @@ SOTA Open Source TTS
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[multimodal-art-projection-yue]] [[berriai-litellm]] [[debpalash-voicestudio]] [[tonhowtf-omniget]]
+[[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[debpalash-voicestudio]] [[hugohe3-ppt-master]] [[huggingface-transformers]]
 
 **所属领域**: [[audio]]
 

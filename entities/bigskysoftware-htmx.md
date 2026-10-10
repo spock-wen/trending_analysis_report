@@ -34,7 +34,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[pbakaus-impeccable]] [[duartesantos8-opengym]] [[cloudflare-security-audit-skill]] [[addyosmani-agent-skills]]
+[[cathrynlavery-diagram-design]] [[pbakaus-impeccable]] [[tester-army-e2e]] [[stremio-stremio-web]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[web]]
 

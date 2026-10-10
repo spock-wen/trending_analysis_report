@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[cs341-illinois-coursebook]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[berriai-litellm]] [[anthropics-knowledge-work-plugins]]
+[[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[rohitg00-ai-engineering-from-scratch]] [[jamwithai-production-agentic-rag-course]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[education]]
 

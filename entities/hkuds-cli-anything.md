@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[manaflow-ai-cmux]] [[stremio-stremio-web]] [[berriai-litellm]] [[addyosmani-agent-skills]]
+[[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[tester-army-e2e]] [[stremio-stremio-web]] [[pytorch-pytorch]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

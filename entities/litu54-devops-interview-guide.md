@@ -34,7 +34,7 @@ DevOps Interview Guide
 
 ## 相关项目
 
-[[getsentry-sentry]] [[nvidia-model-optimizer]] [[davila7-claude-code-templates]] [[oblien-openship]]
+[[davila7-claude-code-templates]] [[getsentry-sentry]] [[nvidia-model-optimizer]] [[oblien-openship]]
 
 **所属领域**: [[devops]]
 

@@ -34,7 +34,7 @@ TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 |
 
 ## 相关项目
 
-[[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[anthropics-knowledge-work-plugins]] [[robbyant-lingbot-map]]
+[[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[hugohe3-ppt-master]] [[huggingface-transformers]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

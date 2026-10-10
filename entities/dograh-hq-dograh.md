@@ -34,7 +34,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[multimodal-art-projection-yue]] [[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
+[[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[debpalash-voicestudio]] [[jamiepine-voicebox]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

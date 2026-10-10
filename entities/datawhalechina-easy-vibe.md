@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[duartesantos8-opengym]] [[cs341-illinois-coursebook]] [[trycua-cua]] [[cloudflare-security-audit-skill]]
+[[pbakaus-impeccable]] [[alibaba-open-code-review]] [[rohitg00-ai-engineering-from-scratch]] [[cloudflare-security-audit-skill]] [[jamwithai-production-agentic-rag-course]]
 
 **所属领域**: [[data]] [[education]]
 

@@ -34,7 +34,7 @@ Prefect is a workflow orchestration framework for building resilient data pipeli
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[trycua-cua]] [[berriai-litellm]] [[alibaba-open-code-review]] [[anthropics-knowledge-work-plugins]]
+[[alibaba-open-code-review]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[hugohe3-ppt-master]] [[huggingface-transformers]]
 
 **所属领域**: [[data]]
 

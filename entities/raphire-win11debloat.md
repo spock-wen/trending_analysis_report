@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[panniantong-agent-reach]] [[bwya77-vscode-dark-islands]] [[msitarzewski-agency-agents]] [[actions-runner-images]]
+[[msitarzewski-agency-agents]] [[actions-runner-images]] [[panniantong-agent-reach]] [[zhaoxuya520-reverse-skill]] [[bwya77-vscode-dark-islands]]
 
 **所属领域**: [[cli]]
 

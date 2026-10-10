@@ -35,5 +35,5 @@ git push no-mistakes
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[rakyll-hey]] [[caddyserver-caddy]]
+[[rakyll-hey]] [[alibaba-open-code-review]] [[caddyserver-caddy]] [[juliusbrussee-caveman]]
 

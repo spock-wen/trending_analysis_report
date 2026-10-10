@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]] [[duartesantos8-opengym]] [[lyogavin-airllm]] [[trycua-cua]]
+[[alibaba-open-code-review]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[anthropics-knowledge-work-plugins]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

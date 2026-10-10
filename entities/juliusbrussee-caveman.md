@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[caddyserver-caddy]] [[rakyll-hey]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[anthropics-knowledge-work-plugins]]
+[[alibaba-open-code-review]] [[rakyll-hey]] [[anthropics-knowledge-work-plugins]] [[caddyserver-caddy]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]]
 

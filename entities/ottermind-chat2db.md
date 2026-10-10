@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[manaflow-ai-cmux]] [[duartesantos8-opengym]] [[trycua-cua]] [[checkstyle-checkstyle]]
+[[msitarzewski-agency-agents]] [[alibaba-open-code-review]] [[google-guava]] [[panniantong-agent-reach]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

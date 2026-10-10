@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[duartesantos8-opengym]] [[trycua-cua]] [[davila7-claude-code-templates]] [[addyosmani-agent-skills]]
+[[alibaba-open-code-review]] [[tester-army-e2e]] [[davila7-claude-code-templates]] [[mksglu-context-mode]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

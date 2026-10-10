@@ -34,7 +34,7 @@ Toolchain for TON smart contract development and beyond
 
 ## 相关项目
 
-[[nvidia-openshell]] [[t8y2-dbx]] [[trycua-cua]] [[addyosmani-agent-skills]] [[storytold-artcraft]]
+[[nvidia-openshell]] [[multica-ai-andrej-karpathy-skills]] [[anthropics-knowledge-work-plugins]] [[storytold-artcraft]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]]
 

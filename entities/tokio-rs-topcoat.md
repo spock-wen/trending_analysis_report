@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[nvidia-openshell]] [[t8y2-dbx]] [[trycua-cua]] [[storytold-artcraft]]
+[[cathrynlavery-diagram-design]] [[nvidia-openshell]] [[tester-army-e2e]] [[stremio-stremio-web]] [[storytold-artcraft]]
 
 **所属领域**: [[web]]
 

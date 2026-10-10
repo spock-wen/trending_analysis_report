@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[fxembed-fxembed]] [[trycua-cua]] [[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
+[[tester-army-e2e]] [[actions-runner-images]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

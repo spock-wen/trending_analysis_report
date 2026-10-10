@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[ever-co-ever-gauzy]] [[morluto-rea]] [[earthtojake-text-to-cad]] [[tester-army-e2e]]
+[[tester-army-e2e]] [[ever-co-ever-gauzy]] [[mksglu-context-mode]] [[thedotmack-claude-mem]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[erp]]
 

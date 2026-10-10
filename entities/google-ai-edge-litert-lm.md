@@ -37,7 +37,7 @@ No description
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[firebase-firebase-ios-sdk]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[tensorflow-tensorflow]]
+[[anthropics-knowledge-work-plugins]] [[m-abozaid-esp32-c3-adblock]] [[firebase-firebase-ios-sdk]] [[tensorflow-tensorflow]] [[boykopovar-anyps5]]
 
 **所属领域**: [[ai-agent]]
 

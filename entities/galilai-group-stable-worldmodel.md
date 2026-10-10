@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[fxembed-fxembed]] [[trycua-cua]] [[berriai-litellm]] [[addyosmani-agent-skills]]
+[[paperclipai-paperclip]] [[tester-army-e2e]] [[actions-runner-images]] [[affaan-m-ecc]] [[pytorch-pytorch]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

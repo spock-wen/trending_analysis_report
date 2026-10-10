@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[stremio-stremio-web]] [[davila7-claude-code-templates]] [[berriai-litellm]] [[addyosmani-agent-skills]]
+[[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[tester-army-e2e]] [[stremio-stremio-web]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

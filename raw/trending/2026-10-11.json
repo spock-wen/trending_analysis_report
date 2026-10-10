@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-11",
+  "scraped_at": "2026-10-11T07:00:23.253807",
+  "period": "daily",
+  "count": 13,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars_today": 25784,
+      "total_stars": 71059,
+      "url": "https://github.com/morluto/rea"
+    },
+    {
+      "rank": 2,
+      "repo": "boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars_today": 5831,
+      "total_stars": 26618,
+      "url": "https://github.com/boykopovar/AnyPS5"
+    },
+    {
+      "rank": 3,
+      "repo": "storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars_today": 3217,
+      "total_stars": 14341,
+      "url": "https://github.com/storytold/artcraft"
+    },
+    {
+      "rank": 4,
+      "repo": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars_today": 1189,
+      "total_stars": 48886,
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "rank": 5,
+      "repo": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars_today": 178,
+      "total_stars": 26291,
+      "url": "https://github.com/mksglu/context-mode"
+    },
+    {
+      "rank": 6,
+      "repo": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": 1737,
+      "total_stars": 284393,
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "rank": 7,
+      "repo": "flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "stars_today": 164,
+      "total_stars": 179497,
+      "url": "https://github.com/flutter/flutter"
+    },
+    {
+      "rank": 8,
+      "repo": "tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars_today": 24,
+      "total_stars": 200715,
+      "url": "https://github.com/tensorflow/tensorflow"
+    },
+    {
+      "rank": 9,
+      "repo": "hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "language": "Python",
+      "stars_today": 515,
+      "total_stars": 59384,
+      "url": "https://github.com/hugohe3/ppt-master"
+    },
+    {
+      "rank": 10,
+      "repo": "pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "stars_today": 81,
+      "total_stars": 104130,
+      "url": "https://github.com/pytorch/pytorch"
+    },
+    {
+      "rank": 11,
+      "repo": "huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "stars_today": 94,
+      "total_stars": 167226,
+      "url": "https://github.com/huggingface/transformers"
+    },
+    {
+      "rank": 12,
+      "repo": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars_today": 626,
+      "total_stars": 28789,
+      "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+      "rank": 13,
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "stars_today": 279,
+      "total_stars": 218224,
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+    }
+  ]
+}

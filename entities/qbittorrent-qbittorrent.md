@@ -34,7 +34,7 @@ qBittorrent BitTorrent client
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[manaflow-ai-cmux]] [[firebase-firebase-ios-sdk]] [[panniantong-agent-reach]] [[tensorflow-tensorflow]]
+[[msitarzewski-agency-agents]] [[panniantong-agent-reach]] [[m-abozaid-esp32-c3-adblock]] [[manaflow-ai-cmux]] [[firebase-firebase-ios-sdk]]
 
 **所属领域**: [[cli]]
 

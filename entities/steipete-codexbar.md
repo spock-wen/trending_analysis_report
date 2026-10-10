@@ -36,7 +36,7 @@ Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 ## 相关项目
 
-[[lakr233-vphone-cli]] [[homebrew-brewui]] [[abue-ammar-tinycast]] [[manaflow-ai-cmux]] [[addyosmani-agent-skills]]
+[[anthropics-knowledge-work-plugins]] [[abue-ammar-tinycast]] [[manaflow-ai-cmux]] [[hugohe3-ppt-master]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

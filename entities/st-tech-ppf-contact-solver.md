@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[berriai-litellm]] [[panniantong-agent-reach]] [[msitarzewski-agency-agents]] [[anthropics-knowledge-work-plugins]]
+[[msitarzewski-agency-agents]] [[pytorch-pytorch]] [[panniantong-agent-reach]] [[anthropics-knowledge-work-plugins]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[cli]]
 

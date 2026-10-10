@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[morluto-rea]] [[tester-army-e2e]] [[msitarzewski-agency-agents]] [[pingdotgg-t3code]]
+[[cathrynlavery-diagram-design]] [[tester-army-e2e]] [[stremio-stremio-web]] [[mksglu-context-mode]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[web]]
 

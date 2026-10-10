@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[caddyserver-caddy]] [[rakyll-hey]] [[davila7-claude-code-templates]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
+[[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[davila7-claude-code-templates]] [[rakyll-hey]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

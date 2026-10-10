@@ -1,20 +1,20 @@
 ---
 title: "morluto/rea"
 created: 2026-10-07
-updated: 2026-10-10
-last_active: 2026-10-10
+updated: 2026-10-11
+last_active: 2026-10-11
 type: framework
 tags: [typescript, ai-agent, rising]
-sources: [raw/trending/2026-10-10.json]
+sources: [raw/trending/2026-10-11.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 4
+consecutive_days: 5
 first_trending: 2026-10-07
-last_trending: 2026-10-10
+last_trending: 2026-10-11
 peak_rank: 1
-total_stars: 44474
+total_stars: 71059
 language: "TypeScript"
 ---
 
@@ -23,13 +23,14 @@ language: "TypeScript"
 Reverse engineer anything with agents, from app behavior down to native binaries.
 
 - 语言: TypeScript
-- 上榜次数: 4 次
-- 连续上榜: 4 天
+- 上榜次数: 5 次
+- 连续上榜: 5 天
 - 最高排名: #1
 - 链接: [morluto/rea](https://github.com/morluto/rea)
 
 ## 上榜历史
 
+  - 2026-10-11: #1, +25784⭐
   - 2026-10-10: #1, +15335⭐
   - 2026-10-09: #3, +7744⭐
   - 2026-10-08: #1, +4666⭐
@@ -37,7 +38,7 @@ Reverse engineer anything with agents, from app behavior down to native binaries
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[tester-army-e2e]] [[pingdotgg-t3code]]
+[[tester-army-e2e]] [[mksglu-context-mode]] [[anthropics-knowledge-work-plugins]] [[thedotmack-claude-mem]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]]
 

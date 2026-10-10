@@ -36,7 +36,7 @@ An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp
 
 ## 相关项目
 
-[[berriai-litellm]] [[paperclipai-paperclip]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[robbyant-lingbot-map]]
+[[paperclipai-paperclip]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[zhaoxuya520-reverse-skill]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[science]]
 

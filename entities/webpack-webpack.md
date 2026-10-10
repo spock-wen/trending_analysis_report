@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[pbakaus-impeccable]] [[duartesantos8-opengym]] [[fxembed-fxembed]] [[trycua-cua]]
+[[cathrynlavery-diagram-design]] [[pbakaus-impeccable]] [[tester-army-e2e]] [[actions-runner-images]] [[stremio-stremio-web]]
 
 **所属领域**: [[web]] [[image-gen]]
 

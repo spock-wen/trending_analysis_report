@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[mahlernim-google-timeline-visualizer]] [[andreknieriem-headunit-revived]] [[tester-army-e2e]] [[msitarzewski-agency-agents]]
+[[cathrynlavery-diagram-design]] [[embabel-embabel-agent]] [[mahlernim-google-timeline-visualizer]] [[tester-army-e2e]] [[stremio-stremio-web]]
 
 **所属领域**: [[web]]
 

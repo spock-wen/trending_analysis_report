@@ -34,7 +34,7 @@ Enterprise Architecture Governance & Vendor Procurement Toolkit
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[averygan-reclip]] [[melgarafael-deskcommcrm]] [[ripienaar-free-for-dev]] [[ever-co-ever-gauzy]]
+[[cathrynlavery-diagram-design]] [[averygan-reclip]] [[tester-army-e2e]] [[stremio-stremio-web]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[web]] [[erp]]
 

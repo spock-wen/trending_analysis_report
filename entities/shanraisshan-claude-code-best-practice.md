@@ -38,7 +38,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[averygan-reclip]] [[ripienaar-free-for-dev]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
+[[cathrynlavery-diagram-design]] [[averygan-reclip]] [[msitarzewski-agency-agents]] [[tester-army-e2e]] [[stremio-stremio-web]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[nvidia-openshell]] [[manaflow-ai-cmux]] [[t8y2-dbx]] [[trycua-cua]]
+[[cathrynlavery-diagram-design]] [[nvidia-openshell]] [[tester-army-e2e]] [[stremio-stremio-web]] [[mattpocock-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

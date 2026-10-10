@@ -34,7 +34,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[nvidia-model-optimizer]] [[paperclipai-paperclip]] [[duartesantos8-opengym]] [[getsentry-sentry]]
+[[affaan-m-ecc]] [[manaflow-ai-cmux]] [[getsentry-sentry]] [[huggingface-transformers]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

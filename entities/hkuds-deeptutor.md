@@ -38,7 +38,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[stremio-stremio-web]] [[berriai-litellm]] [[tester-army-e2e]] [[msitarzewski-agency-agents]]
+[[cathrynlavery-diagram-design]] [[tester-army-e2e]] [[stremio-stremio-web]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[web]]
 

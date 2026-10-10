@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[manaflow-ai-cmux]] [[multimodal-art-projection-yue]] [[berriai-litellm]] [[panniantong-agent-reach]]
+[[msitarzewski-agency-agents]] [[pytorch-pytorch]] [[panniantong-agent-reach]] [[anthropics-knowledge-work-plugins]] [[debpalash-voicestudio]]
 
 **所属领域**: [[cli]] [[audio]]
 

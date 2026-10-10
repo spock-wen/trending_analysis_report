@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[anthropics-knowledge-work-plugins]] [[cs341-illinois-coursebook]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]]
+[[msitarzewski-agency-agents]] [[tester-army-e2e]] [[panniantong-agent-reach]] [[mksglu-context-mode]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

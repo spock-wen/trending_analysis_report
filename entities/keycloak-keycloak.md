@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[cloudflare-security-audit-skill]] [[checkstyle-checkstyle]] [[yuliskov-smarttube]] [[affaan-m-ecc]]
+[[google-guava]] [[zhaoxuya520-reverse-skill]] [[yuliskov-smarttube]] [[cloudflare-security-audit-skill]] [[checkstyle-checkstyle]]
 
 **所属领域**: [[security]]
 

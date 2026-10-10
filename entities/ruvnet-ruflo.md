@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[cs341-illinois-coursebook]] [[davila7-claude-code-templates]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]]
+[[tester-army-e2e]] [[davila7-claude-code-templates]] [[mksglu-context-mode]] [[anthropics-knowledge-work-plugins]] [[rohitg00-ai-engineering-from-scratch]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

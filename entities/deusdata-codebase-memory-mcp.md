@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[epicgames-raddebugger]] [[duartesantos8-opengym]] [[antirez-ds4]] [[trycua-cua]] [[willfaust-madeira]]
+[[alibaba-open-code-review]] [[anthropics-knowledge-work-plugins]] [[robbyant-lingbot-map]] [[epicgames-raddebugger]] [[antirez-ds4]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[fxembed-fxembed]] [[trycua-cua]] [[raphire-win11debloat]] [[panniantong-agent-reach]]
+[[msitarzewski-agency-agents]] [[tester-army-e2e]] [[panniantong-agent-reach]] [[zhaoxuya520-reverse-skill]] [[bwya77-vscode-dark-islands]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

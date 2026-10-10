@@ -35,7 +35,7 @@ A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skil
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[getsentry-sentry]]
+[[davila7-claude-code-templates]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[getsentry-sentry]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

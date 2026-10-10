@@ -35,7 +35,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[fxembed-fxembed]] [[trycua-cua]] [[berriai-litellm]] [[tester-army-e2e]] [[actions-runner-images]]
+[[tester-army-e2e]] [[actions-runner-images]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[fxembed-fxembed]]
 
 **所属领域**: [[image-gen]]
 

@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[trycua-cua]] [[davila7-claude-code-templates]] [[morluto-rea]] [[alibaba-open-code-review]]
+[[alibaba-open-code-review]] [[tester-army-e2e]] [[davila7-claude-code-templates]] [[mksglu-context-mode]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[data]] [[devops]]
 

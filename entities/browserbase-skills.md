@@ -38,7 +38,7 @@ Claude Agent SDK with a web browsing tool
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[pbakaus-impeccable]] [[duartesantos8-opengym]] [[cloudflare-security-audit-skill]] [[addyosmani-agent-skills]]
+[[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[pbakaus-impeccable]] [[tester-army-e2e]] [[stremio-stremio-web]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

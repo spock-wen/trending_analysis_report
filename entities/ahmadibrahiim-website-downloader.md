@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[averygan-reclip]] [[ripienaar-free-for-dev]] [[fxembed-fxembed]] [[trycua-cua]]
+[[cathrynlavery-diagram-design]] [[averygan-reclip]] [[tester-army-e2e]] [[actions-runner-images]] [[stremio-stremio-web]]
 
 **所属领域**: [[web]] [[image-gen]]
 

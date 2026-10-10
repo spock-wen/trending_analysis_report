@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[manaflow-ai-cmux]] [[cloudflare-security-audit-skill]] [[berriai-litellm]] [[addyosmani-agent-skills]]
+[[msitarzewski-agency-agents]] [[affaan-m-ecc]] [[pytorch-pytorch]] [[panniantong-agent-reach]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

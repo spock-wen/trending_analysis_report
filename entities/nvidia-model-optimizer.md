@@ -36,7 +36,7 @@ A unified library of SOTA model optimization techniques like quantization, disti
 
 ## 相关项目
 
-[[cs341-illinois-coursebook]] [[davila7-claude-code-templates]] [[rohitg00-ai-engineering-from-scratch]] [[berriai-litellm]] [[addyosmani-agent-skills]]
+[[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[rohitg00-ai-engineering-from-scratch]] [[jamwithai-production-agentic-rag-course]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

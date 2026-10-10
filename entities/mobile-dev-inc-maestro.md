@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[mahlernim-google-timeline-visualizer]] [[andreknieriem-headunit-revived]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
+[[cathrynlavery-diagram-design]] [[embabel-embabel-agent]] [[msitarzewski-agency-agents]] [[mahlernim-google-timeline-visualizer]] [[tester-army-e2e]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

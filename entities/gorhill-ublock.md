@@ -34,5 +34,5 @@ uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[pbakaus-impeccable]] [[cloudflare-security-audit-skill]] [[duartesantos8-opengym]]
+[[duartesantos8-opengym]] [[pbakaus-impeccable]] [[cloudflare-security-audit-skill]] [[addyosmani-agent-skills]]
 

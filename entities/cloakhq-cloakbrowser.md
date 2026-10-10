@@ -38,7 +38,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[nationalsecurityagency-ghidra]] [[melgarafael-deskcommcrm]] [[stremio-stremio-web]] [[ever-co-ever-gauzy]]
+[[cathrynlavery-diagram-design]] [[tester-army-e2e]] [[stremio-stremio-web]] [[pytorch-pytorch]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

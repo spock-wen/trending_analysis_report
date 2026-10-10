@@ -1,20 +1,20 @@
 ---
 title: "huggingface/transformers"
 created: 2026-08-12
-updated: 2026-09-15
-last_active: 2026-09-15
+updated: 2026-10-11
+last_active: 2026-10-11
 type: framework
 tags: [python, ai-agent, education, audio]
-sources: [raw/trending/2026-09-15.json]
+sources: [raw/trending/2026-10-11.json]
 confidence: high
-trending_count_daily: 3
+trending_count_daily: 4
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 1
 first_trending: 2026-08-12
-last_trending: 2026-09-15
-peak_rank: 12
-total_stars: 165950
+last_trending: 2026-10-11
+peak_rank: 11
+total_stars: 167226
 language: "Python"
 ---
 
@@ -23,20 +23,21 @@ language: "Python"
 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 
 - 语言: Python
-- 上榜次数: 3 次
-- 连续上榜: 2 天
-- 最高排名: #12
+- 上榜次数: 4 次
+- 连续上榜: 1 天
+- 最高排名: #11
 - 链接: [huggingface/transformers](https://github.com/huggingface/transformers)
 
 ## 上榜历史
 
+  - 2026-10-11: #11, +94⭐
   - 2026-09-15: #15, +528⭐
   - 2026-09-14: #19, +102⭐
   - 2026-08-12: #12, +69⭐
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[cs341-illinois-coursebook]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[berriai-litellm]]
+[[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]] [[jamwithai-production-agentic-rag-course]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

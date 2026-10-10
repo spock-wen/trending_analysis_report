@@ -36,7 +36,7 @@ Developer-first error tracking and performance monitoring
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[berriai-litellm]] [[nvidia-model-optimizer]] [[anthropics-knowledge-work-plugins]] [[robbyant-lingbot-map]]
+[[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[hugohe3-ppt-master]] [[oblien-openship]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[devops]]
 

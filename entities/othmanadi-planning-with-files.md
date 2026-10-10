@@ -34,7 +34,7 @@ Persistent file-based planning for AI coding agents and long-running agentic tas
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[panniantong-agent-reach]]
+[[msitarzewski-agency-agents]] [[pytorch-pytorch]] [[panniantong-agent-reach]] [[anthropics-knowledge-work-plugins]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

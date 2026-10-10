@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[duartesantos8-opengym]] [[trycua-cua]] [[cloudflare-security-audit-skill]] [[berriai-litellm]]
+[[paperclipai-paperclip]] [[alibaba-open-code-review]] [[affaan-m-ecc]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

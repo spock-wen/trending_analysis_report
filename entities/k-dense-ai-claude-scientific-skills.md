@@ -35,7 +35,7 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[paperclipai-paperclip]] [[affaan-m-ecc]]
+[[paperclipai-paperclip]] [[affaan-m-ecc]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

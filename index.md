@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-10 | 总页面：814
+> 最后更新：2026-10-11 | 总页面：814
 
 ## Entities
 
@@ -75,7 +75,7 @@
 - [[anthropics-claude-plugins-official|claude-plugins-official"]] — Official, Anthropic-managed directory of high quality Claude...
 - [[anthropics-cwc-workshops|cwc-workshops"]] — No description
 - [[anthropics-financial-services|financial-services"]] — No description 🔥
-- [[anthropics-knowledge-work-plugins|knowledge-work-plugins"]] — Open source repository of plugins primarily intended for kno... 🆕
+- [[anthropics-knowledge-work-plugins|knowledge-work-plugins"]] — Open source repository of plugins primarily intended for kno... 🔥
 - [[anthropics-skills|skills"]] — Public repository for Agent Skills
 - [[antirez-ds4|ds4"]] — DeepSeek 4 Flash and PRO local inference engine for Metal, C...
 - [[antoinezambelli-forge|forge"]] — A Python framework for self-hosted LLM tool-calling and mult...
@@ -105,7 +105,7 @@
 - [[bannedbook-fanqiang|fanqiang"]] — 翻墙-科学上网 🆕
 - [[basecamp-omarchy|omarchy"]] — Beautiful, Modern & Opinionated Linux 🔥
 - [[basedhardware-omi|omi"]] — AI that sees your screen, listens to your conversations and ...
-- [[berriai-litellm|litellm"]] — The fastest, litest AI Gateway. Rust core with Python SDK. C... 🆕
+- [[berriai-litellm|litellm"]] — The fastest, litest AI Gateway. Rust core with Python SDK. C...
 - [[bigbodycobain-shadowbroker|Shadowbroker"]] — Open-source intelligence for the global theater. Track every... 🆕
 - [[bigskysoftware-htmx|htmx"]] — </> htmx - high power tools for HTML
 - [[bikini-exploitarium|exploitarium"]] — A single archive of public exploit PoCs and vulnerability re... 🆕
@@ -341,7 +341,7 @@
 - [[huangruiteng-loopx|loopx"]] — Lightweight loop engineering state kernel for long-running A... 🆕
 - [[huggingface-ml-intern|ml-intern"]] — 🤗 ml-intern: an open-source ML engineer that reads papers, t... 🔥
 - [[huggingface-speech-to-speech|speech-to-speech"]] — Build local voice agents with open-source models
-- [[huggingface-transformers|transformers"]] — 🤗 Transformers: the model-definition framework for state-of-... 🆕
+- [[huggingface-transformers|transformers"]] — 🤗 Transformers: the model-definition framework for state-of-...
 - [[hugohe3-ppt-master|ppt-master"]] — AI turns documents or topics into real, native PowerPoint de...
 - [[humanlayer-12-factor-agents|12-factor-agents"]] — What are the principles we can use to build LLM-powered soft... 🆕
 - [[humanlayer-skills|skills"]] — No description 🆕
@@ -490,7 +490,7 @@
 - [[mikeroyal-self-hosting-guide|Self-Hosting-Guide"]] — Self-Hosting Guide. Learn all about locally hosting (on prem...
 - [[mikumifa-bilitickerbuy|biliTickerBuy"]] — b站会员购购票辅助工具
 - [[millionco-react-doctor|react-doctor"]] — Your agent writes bad React. This catches it 🔥
-- [[mksglu-context-mode|context-mode"]] — Context window optimization for AI coding agents. Sandboxes ... 🔥
+- [[mksglu-context-mode|context-mode"]] — Context window optimization for AI coding agents. Sandboxes ...
 - [[mobile-dev-inc-maestro|Maestro"]] — Painless E2E Automation for Mobile and Web
 - [[mobile-next-mobile-mcp|mobile-mcp"]] — Model Context Protocol Server for Mobile Automation and Scra...
 - [[modelcontextprotocol-servers|servers"]] — Model Context Protocol Servers
@@ -611,7 +611,7 @@
 - [[punkpeye-awesome-mcp-servers|awesome-mcp-servers"]] — A collection of MCP servers.
 - [[puppeteer-puppeteer|puppeteer"]] — JavaScript API for Chrome and Firefox
 - [[pytest-dev-pytest|pytest"]] — The pytest framework makes it easy to write small tests, yet...
-- [[pytorch-pytorch|pytorch"]] — Tensors and Dynamic neural networks in Python with strong GP... 🆕
+- [[pytorch-pytorch|pytorch"]] — Tensors and Dynamic neural networks in Python with strong GP...
 - [[qbittorrent-qbittorrent|qBittorrent"]] — qBittorrent BitTorrent client
 - [[qwenlm-qwen-agent|Qwen-Agent"]] — Agent framework and applications built upon Qwen>=3.0, featu... 🆕
 - [[radixark-miles|miles"]] — Miles is an enterprise-facing reinforcement learning framewo...
@@ -675,7 +675,7 @@
 - [[stefan-jansen-machine-learning-for-trading|machine-learning-for-trading"]] — Code for Machine Learning for Algorithmic Trading, 2nd editi... 🆕
 - [[steipete-codexbar|CodexBar"]] — Show usage stats for OpenAI Codex and Claude Code, without h... 🔥
 - [[stirling-tools-stirling-pdf|Stirling-PDF"]] — - 语言: TypeScript
-- [[storytold-artcraft|artcraft"]] — ArtCraft is an intentional crafting engine for artists, desi... 🆕
+- [[storytold-artcraft|artcraft"]] — ArtCraft is an intentional crafting engine for artists, desi... 🔥
 - [[strands-agents-harness-sdk|harness-sdk"]] — Build an agent harness and control it end-to-end. Open-sourc... 🆕
 - [[stremio-stremio-web|stremio-web"]] — Stremio - Freedom to Stream
 - [[supabase-supabase|supabase"]] — The Postgres development platform. Supabase gives you a dedi...
@@ -737,7 +737,7 @@
 - [[tursodatabase-turso|turso"]] — Turso is an in-process SQL database, compatible with SQLite. 🔥
 - [[tw93-pake|Pake"]] — 🤱🏻 Turn any webpage into a desktop app with one command. 🆕
 - [[twentyhq-twenty|twenty"]] — The open alternative to Salesforce, designed for AI.
-- [[twostraws-swiftui-agent-skill|SwiftUI-Agent-Skill"]] — SwiftUI agent skill for Claude Code, Codex, and other AI too... 🆕
+- [[twostraws-swiftui-agent-skill|SwiftUI-Agent-Skill"]] — SwiftUI agent skill for Claude Code, Codex, and other AI too...
 - [[uber-adr|ADR"]] — ADR secures enterprise AI agents through observability, secu... 🆕
 - [[unclebob-swarm-forge|swarm-forge"]] — A simple tool for coordinating several AI agents.
 - [[unclecheng-li-vulnclaw|VulnClaw"]] — 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「...

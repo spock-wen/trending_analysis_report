@@ -34,7 +34,7 @@ ShareX is a free and open-source application that enables users to capture or re
 
 ## 相关项目
 
-[[actions-runner-images]] [[dotnet-aspnetcore]] [[trycua-cua]] [[jellyfin-jellyfin]] [[fxembed-fxembed]]
+[[jellyfin-jellyfin]] [[tester-army-e2e]] [[actions-runner-images]] [[sonarr-sonarr]] [[fxembed-fxembed]]
 
 **所属领域**: [[image-gen]]
 

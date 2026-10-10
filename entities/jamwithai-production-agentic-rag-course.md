@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[cs341-illinois-coursebook]] [[vectorize-io-hindsight]] [[rohitg00-ai-engineering-from-scratch]] [[berriai-litellm]] [[addyosmani-agent-skills]]
+[[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[rohitg00-ai-engineering-from-scratch]] [[tensorflow-tensorflow]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

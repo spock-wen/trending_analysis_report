@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[panniantong-agent-reach]] [[obra-superpowers]]
+[[mattpocock-skills]] [[panniantong-agent-reach]] [[infinityloop1308-pipepipe]] [[anthropics-knowledge-work-plugins]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

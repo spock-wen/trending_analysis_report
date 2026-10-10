@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[cs341-illinois-coursebook]] [[vectorize-io-hindsight]] [[cloudflare-security-audit-skill]] [[berriai-litellm]]
+[[paperclipai-paperclip]] [[affaan-m-ecc]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

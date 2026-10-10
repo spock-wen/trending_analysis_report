@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[anthropics-knowledge-work-plugins]] [[zhaoxuya520-reverse-skill]] [[cloudflare-security-audit-skill]] [[addyosmani-agent-skills]]
+[[tester-army-e2e]] [[affaan-m-ecc]] [[mksglu-context-mode]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

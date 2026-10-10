@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[localsend-localsend]] [[flutter-flutter]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[anthropics-knowledge-work-plugins]]
+[[anthropics-knowledge-work-plugins]] [[flutter-flutter]] [[localsend-localsend]] [[chen08209-flclash]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]]
 

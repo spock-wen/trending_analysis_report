@@ -38,7 +38,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[msitarzewski-agency-agents]]
+[[msitarzewski-agency-agents]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[manaflow-ai-cmux]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -35,7 +35,7 @@ OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换�
 
 ## 相关项目
 
-[[nvidia-openshell]] [[manaflow-ai-cmux]] [[t8y2-dbx]] [[trycua-cua]] [[addyosmani-agent-skills]]
+[[nvidia-openshell]] [[multica-ai-andrej-karpathy-skills]] [[msitarzewski-agency-agents]] [[panniantong-agent-reach]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

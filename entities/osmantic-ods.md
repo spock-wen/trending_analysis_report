@@ -35,7 +35,7 @@ Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[fxembed-fxembed]] [[trycua-cua]] [[multimodal-art-projection-yue]] [[berriai-litellm]]
+[[tester-army-e2e]] [[actions-runner-images]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[fxembed-fxembed]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

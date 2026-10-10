@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[duartesantos8-opengym]] [[stremio-stremio-web]] [[trycua-cua]] [[davila7-claude-code-templates]]
+[[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[alibaba-open-code-review]] [[tester-army-e2e]] [[stremio-stremio-web]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

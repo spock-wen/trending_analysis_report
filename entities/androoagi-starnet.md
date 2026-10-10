@@ -34,7 +34,7 @@ A living pixel-art station where real AI agents do real work. Local-first deskto
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[duartesantos8-opengym]] [[cloudflare-security-audit-skill]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
+[[pbakaus-impeccable]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[addyosmani-agent-skills]] [[duartesantos8-opengym]]
 
 **所属领域**: [[ai-agent]]
 

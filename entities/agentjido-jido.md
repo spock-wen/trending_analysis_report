@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[plausible-analytics]] [[anthropics-knowledge-work-plugins]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[teslamate-org-teslamate]]
+[[anthropics-knowledge-work-plugins]] [[plausible-analytics]] [[teslamate-org-teslamate]] [[hugohe3-ppt-master]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

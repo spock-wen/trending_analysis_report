@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[duartesantos8-opengym]] [[stremio-stremio-web]] [[trycua-cua]] [[berriai-litellm]]
+[[cathrynlavery-diagram-design]] [[alibaba-open-code-review]] [[tester-army-e2e]] [[stremio-stremio-web]] [[pytorch-pytorch]]
 
 **所属领域**: [[web]] [[data]]
 

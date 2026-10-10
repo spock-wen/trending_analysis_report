@@ -16,7 +16,6 @@ last_trending: 2026-10-10
 peak_rank: 1
 total_stars: 17678
 language: "Python"
-contested: true
 ---
 
 # Robbyant/lingbot-map
@@ -39,17 +38,7 @@ contested: true
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[trycua-cua]] [[berriai-litellm]] [[alibaba-open-code-review]] [[paperclipai-paperclip]]
+[[paperclipai-paperclip]] [[alibaba-open-code-review]] [[affaan-m-ecc]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[data]] [[science]]
-
-
-## ⚠️ 描述变更（2026-10-10）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: A feed-forward 3D foundation model for reconstructing scenes from streaming data
-- **新描述**: [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

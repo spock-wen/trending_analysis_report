@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[melgarafael-deskcommcrm]] [[manaflow-ai-cmux]] [[ever-co-ever-gauzy]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
+[[mattpocock-skills]] [[panniantong-agent-reach]] [[infinityloop1308-pipepipe]] [[anthropics-knowledge-work-plugins]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

@@ -35,7 +35,7 @@ Agent framework and applications built upon Qwen>=3.0, featuring Function Callin
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[melgarafael-deskcommcrm]] [[stremio-stremio-web]] [[ever-co-ever-gauzy]] [[berriai-litellm]]
+[[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[tester-army-e2e]] [[stremio-stremio-web]] [[pytorch-pytorch]]
 
 **所属领域**: [[ai-agent]] [[web]] [[erp]]
 

@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[stremio-stremio-web]] [[fxembed-fxembed]] [[trycua-cua]] [[berriai-litellm]]
+[[cathrynlavery-diagram-design]] [[tester-army-e2e]] [[actions-runner-images]] [[stremio-stremio-web]] [[pytorch-pytorch]]
 
 **所属领域**: [[web]] [[image-gen]]
 

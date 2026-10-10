@@ -34,7 +34,7 @@ Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer 
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[davila7-claude-code-templates]] [[addyosmani-agent-skills]] [[morluto-rea]] [[alibaba-open-code-review]]
+[[tester-army-e2e]] [[davila7-claude-code-templates]] [[mksglu-context-mode]] [[anthropics-knowledge-work-plugins]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -34,7 +34,7 @@ Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅
 
 ## 相关项目
 
-[[caddyserver-caddy]] [[rakyll-hey]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[juliusbrussee-caveman]]
+[[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[rakyll-hey]] [[anthropics-knowledge-work-plugins]] [[caddyserver-caddy]]
 
 **所属领域**: [[ai-agent]]
 

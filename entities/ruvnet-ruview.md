@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[nvidia-openshell]] [[t8y2-dbx]] [[trycua-cua]] [[davila7-claude-code-templates]] [[storytold-artcraft]]
+[[nvidia-openshell]] [[storytold-artcraft]] [[getsentry-sentry]] [[oblien-openship]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[devops]]
 

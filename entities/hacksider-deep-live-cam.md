@@ -34,7 +34,7 @@ real time face swap and one-click video deepfake with only a single image
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[fxembed-fxembed]] [[trycua-cua]] [[berriai-litellm]] [[panniantong-agent-reach]]
+[[msitarzewski-agency-agents]] [[tester-army-e2e]] [[actions-runner-images]] [[pytorch-pytorch]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

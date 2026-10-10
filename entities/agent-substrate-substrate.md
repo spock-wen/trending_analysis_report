@@ -36,7 +36,7 @@ Agent Substrate: the core system
 
 ## 相关项目
 
-[[caddyserver-caddy]] [[rakyll-hey]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[juliusbrussee-caveman]]
+[[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[rakyll-hey]] [[anthropics-knowledge-work-plugins]] [[caddyserver-caddy]]
 
 **所属领域**: [[ai-agent]]
 

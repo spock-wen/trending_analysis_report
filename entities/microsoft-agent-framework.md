@@ -34,7 +34,7 @@ A framework for building, orchestrating and deploying AI agents and multi-agent 
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[berriai-litellm]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[getsentry-sentry]]
+[[davila7-claude-code-templates]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[getsentry-sentry]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

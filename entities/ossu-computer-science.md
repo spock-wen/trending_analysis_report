@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[averygan-reclip]] [[ripienaar-free-for-dev]] [[pkuflyingpig-cs-self-learning]] [[tester-army-e2e]]
+[[cathrynlavery-diagram-design]] [[averygan-reclip]] [[tester-army-e2e]] [[stremio-stremio-web]] [[pkuflyingpig-cs-self-learning]]
 
 **所属领域**: [[web]]
 

@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[jamiepine-voicebox]] [[nvidia-openshell]] [[manaflow-ai-cmux]] [[t8y2-dbx]] [[cs341-illinois-coursebook]]
+[[nvidia-openshell]] [[msitarzewski-agency-agents]] [[panniantong-agent-reach]] [[rohitg00-ai-engineering-from-scratch]] [[debpalash-voicestudio]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

@@ -35,5 +35,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[pbakaus-impeccable]] [[cloudflare-security-audit-skill]] [[duartesantos8-opengym]]
+[[duartesantos8-opengym]] [[pbakaus-impeccable]] [[cloudflare-security-audit-skill]] [[addyosmani-agent-skills]]
 

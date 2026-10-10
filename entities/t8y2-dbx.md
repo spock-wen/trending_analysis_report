@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[nvidia-openshell]] [[manaflow-ai-cmux]] [[duartesantos8-opengym]] [[trycua-cua]] [[addyosmani-agent-skills]]
+[[nvidia-openshell]] [[msitarzewski-agency-agents]] [[alibaba-open-code-review]] [[panniantong-agent-reach]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

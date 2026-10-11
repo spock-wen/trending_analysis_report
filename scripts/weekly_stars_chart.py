@@ -16,15 +16,19 @@ db = sqlite3.connect('/srv/www/github-trending-wiki/data/github_trending.db')
 rows = db.execute("SELECT repo_full_name, weekly_stars FROM weekly_trending WHERE week_end=? ORDER BY weekly_stars DESC", (week_end,)).fetchall()
 
 def cat(name):
-    workflow = {'affaan-m/ECC','stablyai/orca','paperclipai/paperclip','vectorize-io/hindsight','dream-num/univer','superdesigndev/treg','HKUDS/CLI-Anything','davila7/claude-code-templates','addyosmani/agent-skills','Panniantong/Agent-Reach','pbakaus/impeccable','alirezarezvani/claude-skills'}
+    workflow = {'affaan-m/ECC','stablyai/orca','paperclipai/paperclip','vectorize-io/hindsight','dream-num/univer','superdesigndev/treg','HKUDS/CLI-Anything','davila7/claude-code-templates','addyosmani/agent-skills','Panniantong/Agent-Reach','pbakaus/impeccable','alirezarezvani/claude-skills',
+                'mattpocock/skills','thedotmack/claude-mem','pingdotgg/t3code','mvschwarz/openrig','cursor/plugins','ranxianglei/billion-context','earthtojake/text-to-cad'}
     if name in workflow:
         return 'Skill/Agent 工作流'
-    big_vendors = {'anthropics/financial-services','anthropics/claude-code','anthropics/knowledge-work-plugins','cloudflare/security-audit-skill','cloudflare/quiche','Tencent/WeKnora','alibaba/open-code-review','TencentCloud/Octop','pytorch/pytorch','flutter/flutter'}
+    big_vendors = {'anthropics/financial-services','anthropics/claude-code','anthropics/knowledge-work-plugins','cloudflare/security-audit-skill','cloudflare/quiche','Tencent/WeKnora','alibaba/open-code-review','TencentCloud/Octop','pytorch/pytorch','flutter/flutter','EpicGames/raddebugger'}
     if name in big_vendors:
         return '大厂官方/产品级'
+    ai_content = {'heygen-com/hyperframes','debpalash/VoiceStudio','harry0703/MoneyPrinterTurbo'}
+    if name in ai_content:
+        return 'AI 内容创作'
     return '独立应用/其他'
 
-colors = {'Skill/Agent 工作流': '#4C72B0', '大厂官方/产品级': '#E4572E', '独立应用/其他': '#2E8B57'}
+colors = {'Skill/Agent 工作流': '#4C72B0', '大厂官方/产品级': '#E4572E', '独立应用/其他': '#2E8B57', 'AI 内容创作': '#8172B2'}
 names = [r[0] for r in rows][::-1]
 stars = [r[1] for r in rows][::-1]
 cats = [cat(r[0]) for r in rows][::-1]

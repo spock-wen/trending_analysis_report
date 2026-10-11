@@ -56,7 +56,22 @@ ZH_DESC = {'ayghri/i-have-adhd': '强制编码 Agent 把结论放在输出最前
     'HKUDS/CLI-Anything': '港大数据智能实验室：让所有软件 Agent 原生',
     'TencentCloud/Octop': '腾讯云自托管 AI 助手',
     'cloudflare/quiche': 'QUIC/HTTP3 的 Rust 实现，Chrome 同款协议栈',
-    'pytorch/pytorch': 'PyTorch 深度学习框架官方仓库'}
+    'pytorch/pytorch': 'PyTorch 深度学习框架官方仓库',
+    'boykopovar/AnyPS5': '把 PS5 可执行文件自动移植到 Linux 和 Windows：relinker 直接转原生格式，无模拟器',
+    'DuarteSantos8/openGym': '自托管健身追踪：训练计划、组数记录、肌肉疲劳度，数据自持',
+    'tester-army/e2e': '面向 Web 与移动应用的下一代 e2e 测试框架，Apache-2.0',
+    'thedotmack/claude-mem': '跨会话持久上下文：捕获 agent 行为、AI 压缩、注入后续会话',
+    'earthtojake/text-to-cad': '给 agent 加 CAD 超能力',
+    'pingdotgg/t3code': 'agent harness 控制面：四端远程控制本机所有编码 agent',
+    'mvschwarz/openrig': '用 YAML 定义 agent 团队网络，一条命令启动',
+    'cursor/plugins': 'Cursor 插件规范与官方插件',
+    'EpicGames/raddebugger': '原生用户态、多进程图形调试器，Epic Games 出品',
+    'flutter/flutter': 'Google 跨平台 UI 工具包',
+    'ranxianglei/billion-context': '上下文压缩插件：100K 窗口、省 5 倍 token、支撑数十亿 token 单会话',
+    'morluto/rea': '用 agent 逆向一切：从应用行为到原生二进制',
+    'storytold/artcraft': '面向艺术家、设计师与电影人的意图驱动创作引擎',
+    'cathrynlavery/diagram-design': '编辑部风格图表设计：44 种图，自包含 HTML+SVG，拒绝 Mermaid 风',
+}
 total_stars = sum(WK.values())
 n_projects = len(rows)
 
@@ -128,22 +143,22 @@ C = {'blue': '#4C72B0', 'orange': '#E4572E', 'purple': '#8172B2', 'green': '#2E8
 
 # TODO(每周手填)：NARRATIVES / KNIVES / WATCH 按周报正文更新
 NARRATIVES = [
-    (C['orange'], '#FDEEE8', '#D14A24', '总星反弹 24%，但换血率创新高',
-     '18 个项目 70,298★（上周 56,645★，+24.1%），两连降后首次回升；换血率从 61.1% 升到 <b>77.8%</b>（14 个新面孔），上周 18 个留榜项目 14 个掉出，仅 4 个留下——反弹靠的是新面孔涌入，不是老项目回暖，轮动比上周更快。'),
-    (C['blue'], '#EAF0F9', '#3A62A8', '语音/视频创作工具包抄 AI 基础设施',
-     '<b>VoiceStudio（+16,775★）</b>四天榜 3 天第 1、单日峰值 4,712★，空降周榜第一；HyperFrames（+3,011★，断档 1 周回归）、MoneyPrinterTurbo（+2,324★，断档 5 周回归）同周在榜。"本地 TTS + 渲染管线 + 一键成片"组成平民创作三件套，非 Agent 品类首次单独撑起头部。'),
-    (C['purple'], '#F1EEF8', '#6D5CA8', 'Agent 记忆续写纪录，paperclip 星数再翻倍',
-     '<b>hindsight（+14,507★，上周 +7,282★，+99%）</b>三连日榜确认上周 ≥5,000★ 阈值；<b>paperclip（+10,722★）</b>连续两天日榜第 1，两周星数从 +5,376★ 翻到 +10,722★。反面是"发布会窗口"关闭——上周厂商 8 席本周只剩 Octop 一席，续榜全灭。'),
+    (C['orange'], '#FDEEE8', '#D14A24', '总量回落 12.1%，但 Agent 席位反而多了两席',
+     '13 个项目 61,769★（上周 70,298★，<b>-12.1%</b>），上周 +24.1% 的反弹未延续；换血率 76.9%（上周 77.8%），上周 18 席仅 3 席留存。Agent/Skill 工作流席位 5 → <b>7</b>，星数却从 33,440★ 掉到 <b>21,387★（-36.0%）</b>——上周五家 Agent 头条全部掉出。'),
+    (C['blue'], '#EAF0F9', '#3A62A8', '硬件与系统工具接棒头部',
+     '<b>AnyPS5（+21,365★）</b>日榜连坐 6 天、1 天第 1，周星是上周 +1,820★ 的 <b>11.7 倍</b>，独占全榜 34.6%——relinker 直接转原生格式 + 自研 prx 库，无模拟器。openGym（+7,369★）、e2e（+6,564★）同周在榜，非 AI 项目 5 项 36,301★ 占全榜 58.8%。'),
+    (C['purple'], '#F1EEF8', '#6D5CA8', 'Agent 新血转向"控制平面"',
+     'mattpocock/skills（+9,179★，断档 3 周）稳居第二；<b>claude-mem（+4,035★）</b>首次上周榜，总星已达 99,318。t3code（+2,367★）与 openrig（+2,068★）同周进场——一个远程控制本机所有 agent harness，一个用 YAML 定义 agent 团队，合计 8,470★ 是本周唯一的新方向。'),
 ]
 KNIVES = [
-    (C['orange'], '加速', 'AI 创作工具', 'VoiceStudio/HyperFrames/MoneyPrinterTurbo<br>合计 22,110★ 占全榜 31.5%，上周同口径 0 项 0★'),
-    (C['blue'], '续强', 'Agent 运行时', 'hindsight + paperclip 合计 25,229★<br>占 35.9%，记忆与机群连续两周双位数增长'),
-    (C['purple'], '出清', '大厂官方与 Skill 长尾', '厂商 8 席 → 1 席，ECC/skills 全灭<br>上周头条 cloudflare/security-audit-skill、financial-services 均出局'),
+    (C['orange'], '降温', 'Agent/Skill 工作流', '5 项 33,440★ → 7 项 21,387★<br>星数 -36.0%，上周五家头条全军覆没'),
+    (C['blue'], '加速', '硬件与个人自托管', 'AnyPS5 +21,365★（11.7 倍）领衔<br>独立应用 3 项 35,298★ 占全榜 57.1%'),
+    (C['purple'], '出清', '大厂官方与 AI 创作', '大厂 2 项 1,003★（-52.0%）<br>AI 创作仅剩 hyperframes 一席（-81.5%）'),
 ]
 WATCH = [
-    ('"AI 创作三件套"是脉冲还是主线？', 'VoiceStudio 或 HyperFrames 周星 <b>≥5,000★</b> 则创作品类成为常驻主线；跌破则又是一次首发热'),
-    ('hindsight 能连涨第三周吗？', 'hindsight 周星 <b>≥8,000★</b>，则"会学习的记忆"从项目升级为品类；回落且跌破 <b>4,000★</b> 则视为衰竭'),
-    ('大厂会重返榜单吗？', '厂商主体席位 <b>≥4</b> 则上周 8 席不是顶点；连续两周 ≤2 席则确认厂商周榜退潮'),
+    ('Agent 是脉冲还是退潮？', 'Agent/Skill 工作流周星回到 <b>≥30,000★</b> 则本周 -36.0% 是脉冲；连续两周低于 <b>20,000★</b> 则确认退潮'),
+    ('AnyPS5 热度能否延续？', '周星 <b>≥10,000★</b> 且兼容列表扩张（目前仅 1 款游戏），则硬件移植成主线；跌破 <b>5,000★</b> 视为脉冲衰减'),
+    ('"数据自持"能否成线？', 'openGym + e2e + text-to-cad 中 <b>≥2 席留存</b>且合计 <b>≥10,000★</b>（本周 16,302★），则本地优先成为常驻品类'),
 ]
 
 def esc(s):

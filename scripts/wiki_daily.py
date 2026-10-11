@@ -719,8 +719,20 @@ def update_index_and_log(all_repos):
         log_entry += f"- 连续 {days} 天上榜: {repo}\n"
     log_entry += f"- 当日 star 增长 Top 3: {top3_str}\n"
     
-    with open(f'{BASE}/log.md', 'a') as f:
-        f.write(log_entry)
+    # 幂等：当天已有「GitHub Trending 日报」段就不再追加。
+    # 历史 bug：旧版无条件 append，导致重复运行/补跑时同一天被写入多段
+    # （2026-05-20 曾重复 7 次）。
+    log_path = f'{BASE}/log.md'
+    already_logged = False
+    if os.path.exists(log_path):
+        with open(log_path, encoding='utf-8') as f:
+            existing_log = f.read()
+        already_logged = f'## [{TODAY}] update | GitHub Trending 日报' in existing_log
+    if already_logged:
+        print(f"  log.md 已有 {TODAY} 日报段，跳过追加（幂等）")
+    else:
+        with open(log_path, 'a') as f:
+            f.write(log_entry)
 
 # ============ 第四步：Git Commit ============
 def git_commit():

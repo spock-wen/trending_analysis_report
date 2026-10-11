@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[alibaba-open-code-review]] [[tester-army-e2e]] [[stremio-stremio-web]]
+[[robbyant-lingbot-map]] [[getsentry-sentry]] [[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[morluto-rea]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

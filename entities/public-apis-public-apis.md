@@ -38,5 +38,5 @@ A collective list of free APIs
 
 ## 相关项目
 
-[[huggingface-transformers]] [[anthropics-knowledge-work-plugins]] [[hugohe3-ppt-master]] [[pytorch-pytorch]]
+[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[huggingface-transformers]] [[pytorch-pytorch]]
 

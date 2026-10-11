@@ -37,7 +37,7 @@ A framework for building realtime voice AI agents 🤖🎙️📹
 
 ## 相关项目
 
-[[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[debpalash-voicestudio]] [[jamiepine-voicebox]] [[hugohe3-ppt-master]]
+[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[pytorch-pytorch]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

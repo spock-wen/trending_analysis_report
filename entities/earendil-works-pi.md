@@ -38,7 +38,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[tester-army-e2e]] [[panniantong-agent-reach]] [[mksglu-context-mode]] [[anthropics-knowledge-work-plugins]]
+[[mksglu-context-mode]] [[morluto-rea]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[chrislgarry-apollo-11]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

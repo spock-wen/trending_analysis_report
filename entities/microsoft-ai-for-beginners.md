@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[anthropics-knowledge-work-plugins]] [[rohitg00-ai-engineering-from-scratch]] [[higgsfield-ai-higgsfield]] [[jamwithai-production-agentic-rag-course]]
+[[higgsfield-ai-higgsfield]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[mattpocock-skills]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

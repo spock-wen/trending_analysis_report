@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[alibaba-open-code-review]] [[affaan-m-ecc]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]]
+[[robbyant-lingbot-map]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

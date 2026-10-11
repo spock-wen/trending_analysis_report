@@ -35,7 +35,7 @@ Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[epicgames-raddebugger]] [[antirez-ds4]] [[hugohe3-ppt-master]] [[mattpocock-skills]]
+[[morluto-rea]] [[cathrynlavery-diagram-design]] [[epicgames-raddebugger]] [[mattpocock-skills]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

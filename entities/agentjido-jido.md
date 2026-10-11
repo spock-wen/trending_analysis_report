@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[plausible-analytics]] [[teslamate-org-teslamate]] [[hugohe3-ppt-master]] [[mattpocock-skills]]
+[[morluto-rea]] [[cathrynlavery-diagram-design]] [[mattpocock-skills]] [[plausible-analytics]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

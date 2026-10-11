@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[alibaba-open-code-review]] [[google-guava]] [[panniantong-agent-reach]] [[anthropics-knowledge-work-plugins]]
+[[robbyant-lingbot-map]] [[nationalsecurityagency-ghidra]] [[google-guava]] [[morluto-rea]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[jellyfin-jellyfin]] [[sonarr-sonarr]] [[anthropics-knowledge-work-plugins]] [[k1tbyte-wand-enhancer]] [[hugohe3-ppt-master]]
+[[dotnet-aspnetcore]] [[morluto-rea]] [[sonarr-sonarr]] [[k1tbyte-wand-enhancer]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[panniantong-agent-reach]] [[anthropics-knowledge-work-plugins]] [[epicgames-raddebugger]] [[manaflow-ai-cmux]]
+[[morluto-rea]] [[cathrynlavery-diagram-design]] [[chrislgarry-apollo-11]] [[epicgames-raddebugger]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

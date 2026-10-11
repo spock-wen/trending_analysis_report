@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[actions-runner-images]] [[panniantong-agent-reach]] [[zhaoxuya520-reverse-skill]] [[bwya77-vscode-dark-islands]]
+[[zhaoxuya520-reverse-skill]] [[morluto-rea]] [[raphire-win11debloat]] [[bwya77-vscode-dark-islands]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[nvidia-openshell]] [[alibaba-open-code-review]] [[tester-army-e2e]] [[actions-runner-images]] [[anthropics-knowledge-work-plugins]]
+[[robbyant-lingbot-map]] [[nvidia-openshell]] [[t8y2-dbx]] [[bilawalsidhu-gods-eye-view]] [[morluto-rea]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

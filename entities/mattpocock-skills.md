@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[infinityloop1308-pipepipe]] [[anthropics-knowledge-work-plugins]] [[manaflow-ai-cmux]] [[obra-superpowers]]
+[[infinityloop1308-pipepipe]] [[manaflow-ai-cmux]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[chrislgarry-apollo-11]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

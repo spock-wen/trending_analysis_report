@@ -38,7 +38,7 @@ Lightning-Fast, On-Device, Multilingual TTS running natively via ONNX.
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[abue-ammar-tinycast]] [[manaflow-ai-cmux]] [[hugohe3-ppt-master]] [[huggingface-transformers]]
+[[abue-ammar-tinycast]] [[homebrew-brewui]] [[lakr233-vphone-cli]] [[hugohe3-ppt-master]] [[jamiepine-voicebox]]
 
 **所属领域**: [[audio]]
 

@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[mattpocock-skills]] [[panniantong-agent-reach]] [[infinityloop1308-pipepipe]] [[anthropics-knowledge-work-plugins]] [[manaflow-ai-cmux]]
+[[infinityloop1308-pipepipe]] [[manaflow-ai-cmux]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[chrislgarry-apollo-11]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

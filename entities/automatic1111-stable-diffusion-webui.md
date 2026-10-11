@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[tester-army-e2e]] [[actions-runner-images]] [[stremio-stremio-web]] [[pytorch-pytorch]]
+[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[bilawalsidhu-gods-eye-view]] [[cathrynlavery-diagram-design]] [[pytorch-pytorch]]
 
 **所属领域**: [[web]] [[image-gen]]
 

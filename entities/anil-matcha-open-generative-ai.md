@@ -38,7 +38,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[tester-army-e2e]] [[actions-runner-images]] [[anthropics-knowledge-work-plugins]] [[fxembed-fxembed]]
+[[bilawalsidhu-gods-eye-view]] [[morluto-rea]] [[trycua-cua]] [[cathrynlavery-diagram-design]] [[tester-army-e2e]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

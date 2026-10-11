@@ -1,20 +1,20 @@
 ---
 title: "chrislgarry/Apollo-11"
 created: 2026-07-22
-updated: 2026-07-25
-last_active: 2026-07-25
+updated: 2026-10-12
+last_active: 2026-10-12
 type: tool
-tags: [cli, rising]
-sources: [raw/trending/2026-07-25.json]
+tags: [cli]
+sources: [raw/trending/2026-10-12.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 4
+consecutive_days: 1
 first_trending: 2026-07-22
-last_trending: 2026-07-25
+last_trending: 2026-10-12
 peak_rank: 6
-total_stars: 71391
+total_stars: 74212
 language: "Assembly"
 ---
 
@@ -23,13 +23,14 @@ language: "Assembly"
 Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
 - 语言: Assembly
-- 上榜次数: 4 次
-- 连续上榜: 4 天
+- 上榜次数: 5 次
+- 连续上榜: 1 天
 - 最高排名: #6
 - 链接: [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)
 
 ## 上榜历史
 
+  - 2026-10-12: #8, +581⭐
   - 2026-07-25: #12, +409⭐
   - 2026-07-24: #6, +599⭐
   - 2026-07-23: #6, +766⭐
@@ -37,7 +38,7 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[manaflow-ai-cmux]] [[mattpocock-skills]] [[msitarzewski-agency-agents]]
+[[mattpocock-skills]] [[manaflow-ai-cmux]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[cli]]
 

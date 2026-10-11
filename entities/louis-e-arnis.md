@@ -35,7 +35,7 @@ Generate any location from the real world in Minecraft with a high level of deta
 
 ## 相关项目
 
-[[nvidia-openshell]] [[multica-ai-andrej-karpathy-skills]] [[anthropics-knowledge-work-plugins]] [[storytold-artcraft]] [[hugohe3-ppt-master]]
+[[nvidia-openshell]] [[t8y2-dbx]] [[trycua-cua]] [[morluto-rea]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]]
 

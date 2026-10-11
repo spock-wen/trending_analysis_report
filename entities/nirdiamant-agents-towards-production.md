@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[rohitg00-ai-engineering-from-scratch]] [[getsentry-sentry]] [[obra-superpowers]] [[huggingface-transformers]]
+[[higgsfield-ai-higgsfield]] [[hugohe3-ppt-master]] [[huggingface-transformers]] [[rohitg00-ai-engineering-from-scratch]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

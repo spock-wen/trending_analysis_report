@@ -34,5 +34,5 @@ An open source trusted cloud native registry project that stores, signs, and sca
 
 ## 相关项目
 
-[[rakyll-hey]] [[alibaba-open-code-review]] [[caddyserver-caddy]] [[juliusbrussee-caveman]]
+[[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[rakyll-hey]] [[caddyserver-caddy]]
 

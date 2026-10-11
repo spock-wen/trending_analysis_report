@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[tester-army-e2e]] [[mksglu-context-mode]] [[anthropics-knowledge-work-plugins]] [[thedotmack-claude-mem]] [[hugohe3-ppt-master]]
+[[mksglu-context-mode]] [[morluto-rea]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

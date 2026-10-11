@@ -38,7 +38,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[google-guava]] [[anthropics-knowledge-work-plugins]] [[yuliskov-smarttube]] [[robbyant-lingbot-map]]
+[[robbyant-lingbot-map]] [[nationalsecurityagency-ghidra]] [[google-guava]] [[morluto-rea]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

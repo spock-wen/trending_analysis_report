@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[tester-army-e2e]] [[panniantong-agent-reach]] [[zhaoxuya520-reverse-skill]] [[bwya77-vscode-dark-islands]]
+[[zhaoxuya520-reverse-skill]] [[trycua-cua]] [[raphire-win11debloat]] [[chrislgarry-apollo-11]] [[bwya77-vscode-dark-islands]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

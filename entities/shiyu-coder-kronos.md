@@ -38,5 +38,5 @@ Kronos: A Foundation Model for the Language of Financial Markets
 
 ## 相关项目
 
-[[huggingface-transformers]] [[anthropics-knowledge-work-plugins]] [[hugohe3-ppt-master]] [[pytorch-pytorch]]
+[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[huggingface-transformers]] [[pytorch-pytorch]]
 

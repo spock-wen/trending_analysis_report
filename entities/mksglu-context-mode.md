@@ -38,7 +38,7 @@ Context window optimization for AI coding agents. Sandboxes tool output (98% red
 
 ## 相关项目
 
-[[tester-army-e2e]] [[anthropics-knowledge-work-plugins]] [[thedotmack-claude-mem]] [[hugohe3-ppt-master]] [[mattpocock-skills]]
+[[morluto-rea]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[mattpocock-skills]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

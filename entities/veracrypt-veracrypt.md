@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[cloudflare-security-audit-skill]] [[epicgames-raddebugger]] [[antirez-ds4]] [[willfaust-madeira]]
+[[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[antirez-ds4]] [[nationalsecurityagency-ghidra]] [[epicgames-raddebugger]]
 
 **所属领域**: [[security]]
 

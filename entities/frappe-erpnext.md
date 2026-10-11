@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[pytorch-pytorch]] [[ever-co-ever-gauzy]] [[anthropics-knowledge-work-plugins]] [[earthtojake-text-to-cad]] [[obra-superpowers]]
+[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[pytorch-pytorch]] [[huggingface-transformers]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[erp]]
 

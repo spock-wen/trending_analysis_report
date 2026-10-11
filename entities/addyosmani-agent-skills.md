@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[duartesantos8-opengym]] [[hugohe3-ppt-master]]
+[[bilawalsidhu-gods-eye-view]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[duartesantos8-opengym]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

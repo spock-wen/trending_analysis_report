@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[tester-army-e2e]] [[stremio-stremio-web]] [[ever-co-ever-gauzy]] [[conardli-garden-skills]]
+[[bilawalsidhu-gods-eye-view]] [[hugohe3-ppt-master]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[web]] [[erp]]
 

@@ -38,7 +38,7 @@ Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[epicgames-raddebugger]] [[antirez-ds4]] [[hugohe3-ppt-master]] [[willfaust-madeira]]
+[[morluto-rea]] [[cathrynlavery-diagram-design]] [[epicgames-raddebugger]] [[mattpocock-skills]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

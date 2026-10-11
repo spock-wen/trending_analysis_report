@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[msitarzewski-agency-agents]] [[affaan-m-ecc]] [[pytorch-pytorch]] [[panniantong-agent-reach]]
+[[robbyant-lingbot-map]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

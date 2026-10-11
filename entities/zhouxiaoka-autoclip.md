@@ -34,7 +34,7 @@ AutoClip : AI-powered video clipping and highlight generation · 一款智能高
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[tester-army-e2e]] [[actions-runner-images]] [[pytorch-pytorch]] [[panniantong-agent-reach]]
+[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[pytorch-pytorch]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[image-gen]]
 

@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[panniantong-agent-reach]] [[zhaoxuya520-reverse-skill]] [[cloudflare-security-audit-skill]] [[m-abozaid-esp32-c3-adblock]]
+[[firebase-firebase-ios-sdk]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[cli]] [[security]]
 

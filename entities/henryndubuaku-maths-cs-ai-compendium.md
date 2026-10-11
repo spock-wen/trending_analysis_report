@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[tester-army-e2e]] [[affaan-m-ecc]] [[mksglu-context-mode]] [[anthropics-knowledge-work-plugins]]
+[[robbyant-lingbot-map]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[mksglu-context-mode]] [[morluto-rea]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

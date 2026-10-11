@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[tester-army-e2e]] [[stremio-stremio-web]] [[anthropics-knowledge-work-plugins]]
+[[abue-ammar-tinycast]] [[homebrew-brewui]] [[lakr233-vphone-cli]] [[bilawalsidhu-gods-eye-view]] [[morluto-rea]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

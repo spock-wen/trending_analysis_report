@@ -35,7 +35,7 @@ ADR secures enterprise AI agents through observability, security benchmarking, a
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[pytorch-pytorch]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]] [[zhaoxuya520-reverse-skill]]
+[[zhaoxuya520-reverse-skill]] [[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[huggingface-transformers]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[security]] [[erp]]
 

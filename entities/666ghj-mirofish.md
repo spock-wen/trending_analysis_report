@@ -38,5 +38,5 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通
 
 ## 相关项目
 
-[[huggingface-transformers]] [[anthropics-knowledge-work-plugins]] [[hugohe3-ppt-master]] [[pytorch-pytorch]]
+[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[huggingface-transformers]] [[pytorch-pytorch]]
 

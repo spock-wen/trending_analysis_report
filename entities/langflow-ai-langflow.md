@@ -34,7 +34,7 @@ Langflow is a powerful tool for building and deploying AI-powered agents and wor
 
 ## 相关项目
 
-[[davila7-claude-code-templates]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[getsentry-sentry]] [[hugohe3-ppt-master]]
+[[getsentry-sentry]] [[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[morluto-rea]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

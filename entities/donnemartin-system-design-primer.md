@@ -36,7 +36,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[rohitg00-ai-engineering-from-scratch]] [[jamwithai-production-agentic-rag-course]] [[tensorflow-tensorflow]]
+[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[pytorch-pytorch]] [[tensorflow-tensorflow]] [[huggingface-transformers]]
 
 **所属领域**: [[education]]
 

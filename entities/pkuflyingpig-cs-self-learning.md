@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[averygan-reclip]] [[tester-army-e2e]] [[stremio-stremio-web]] [[rohitg00-ai-engineering-from-scratch]]
+[[bilawalsidhu-gods-eye-view]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[tensorflow-tensorflow]] [[huggingface-transformers]]
 
 **所属领域**: [[web]] [[education]]
 

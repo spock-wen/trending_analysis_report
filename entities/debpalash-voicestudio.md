@@ -38,7 +38,7 @@ VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice clo
 
 ## 相关项目
 
-[[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[hugohe3-ppt-master]] [[huggingface-transformers]] [[jamiepine-voicebox]]
+[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[pytorch-pytorch]] [[huggingface-transformers]] [[jamiepine-voicebox]]
 
 **所属领域**: [[audio]]
 

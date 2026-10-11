@@ -34,7 +34,7 @@ AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[tester-army-e2e]] [[mksglu-context-mode]] [[anthropics-knowledge-work-plugins]] [[robbyant-lingbot-map]]
+[[robbyant-lingbot-map]] [[mksglu-context-mode]] [[morluto-rea]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[tester-army-e2e]] [[panniantong-agent-reach]] [[mksglu-context-mode]] [[thedotmack-claude-mem]]
+[[mksglu-context-mode]] [[morluto-rea]] [[tester-army-e2e]] [[chrislgarry-apollo-11]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

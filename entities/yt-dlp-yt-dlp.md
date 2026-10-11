@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[pytorch-pytorch]] [[panniantong-agent-reach]] [[anthropics-knowledge-work-plugins]] [[debpalash-voicestudio]]
+[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[chrislgarry-apollo-11]] [[pytorch-pytorch]] [[jamiepine-voicebox]]
 
 **所属领域**: [[cli]] [[audio]]
 

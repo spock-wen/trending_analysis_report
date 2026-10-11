@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[tester-army-e2e]] [[mksglu-context-mode]] [[thedotmack-claude-mem]] [[getsentry-sentry]] [[davila7-claude-code-templates]]
+[[getsentry-sentry]] [[mksglu-context-mode]] [[morluto-rea]] [[tester-army-e2e]] [[davila7-claude-code-templates]]
 
 **所属领域**: [[devops]]
 

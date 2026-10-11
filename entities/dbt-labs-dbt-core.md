@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[nvidia-openshell]] [[alibaba-open-code-review]] [[storytold-artcraft]] [[hugohe3-ppt-master]] [[t8y2-dbx]]
+[[robbyant-lingbot-map]] [[nvidia-openshell]] [[t8y2-dbx]] [[bilawalsidhu-gods-eye-view]] [[trycua-cua]]
 
 **所属领域**: [[data]]
 

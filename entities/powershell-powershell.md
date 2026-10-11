@@ -34,7 +34,7 @@ PowerShell for every system!
 
 ## 相关项目
 
-[[jellyfin-jellyfin]] [[msitarzewski-agency-agents]] [[sonarr-sonarr]] [[panniantong-agent-reach]] [[manaflow-ai-cmux]]
+[[dotnet-aspnetcore]] [[sonarr-sonarr]] [[k1tbyte-wand-enhancer]] [[chrislgarry-apollo-11]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

@@ -35,7 +35,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[hugohe3-ppt-master]] [[multica-ai-andrej-karpathy-skills]]
+[[mattpocock-skills]] [[morluto-rea]] [[lyogavin-airllm]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]]
 

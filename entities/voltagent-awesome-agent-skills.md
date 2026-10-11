@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[panniantong-agent-reach]] [[anthropics-knowledge-work-plugins]] [[manaflow-ai-cmux]] [[hugohe3-ppt-master]]
+[[morluto-rea]] [[cathrynlavery-diagram-design]] [[chrislgarry-apollo-11]] [[mattpocock-skills]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

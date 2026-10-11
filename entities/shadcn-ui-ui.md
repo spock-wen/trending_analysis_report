@@ -34,5 +34,5 @@ A set of beautifully-designed, accessible components and a code distribution pla
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[tester-army-e2e]] [[thedotmack-claude-mem]] [[morluto-rea]]
+[[mksglu-context-mode]] [[morluto-rea]] [[tester-army-e2e]] [[thedotmack-claude-mem]]
 

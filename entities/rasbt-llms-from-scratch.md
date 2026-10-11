@@ -36,7 +36,7 @@ Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[anthropics-knowledge-work-plugins]] [[higgsfield-ai-higgsfield]] [[hugohe3-ppt-master]]
+[[higgsfield-ai-higgsfield]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[microsoft-ai-for-beginners]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ CyberStrikeAI is an AI-native security testing platform built in Go. It integrat
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[affaan-m-ecc]] [[rakyll-hey]] [[anthropics-knowledge-work-plugins]]
+[[zhaoxuya520-reverse-skill]] [[rakyll-hey]] [[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[morluto-rea]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

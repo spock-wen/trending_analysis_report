@@ -38,7 +38,7 @@ Open source repository of plugins primarily intended for knowledge workers to us
 
 ## 相关项目
 
-[[pytorch-pytorch]] [[hugohe3-ppt-master]] [[huggingface-transformers]] [[mattpocock-skills]] [[multica-ai-andrej-karpathy-skills]]
+[[hugohe3-ppt-master]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[pytorch-pytorch]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

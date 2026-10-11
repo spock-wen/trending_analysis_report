@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[alibaba-open-code-review]] [[tester-army-e2e]] [[stremio-stremio-web]] [[pytorch-pytorch]]
+[[robbyant-lingbot-map]] [[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[bilawalsidhu-gods-eye-view]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[data]]
 

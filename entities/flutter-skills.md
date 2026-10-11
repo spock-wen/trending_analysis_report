@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[flutter-flutter]] [[localsend-localsend]] [[chen08209-flclash]] [[hugohe3-ppt-master]]
+[[localsend-localsend]] [[flutter-flutter]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]]
 

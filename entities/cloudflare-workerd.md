@@ -34,5 +34,5 @@ The JavaScript / Wasm runtime that powers Cloudflare Workers
 
 ## 相关项目
 
-[[m-abozaid-esp32-c3-adblock]] [[firebase-firebase-ios-sdk]] [[tensorflow-tensorflow]] [[boykopovar-anyps5]]
+[[m-abozaid-esp32-c3-adblock]] [[tensorflow-tensorflow]] [[firebase-firebase-ios-sdk]] [[boykopovar-anyps5]]
 

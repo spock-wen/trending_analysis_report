@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[m-abozaid-esp32-c3-adblock]] [[earthtojake-text-to-cad]] [[firebase-firebase-ios-sdk]] [[tensorflow-tensorflow]]
+[[firebase-firebase-ios-sdk]] [[hugohe3-ppt-master]] [[m-abozaid-esp32-c3-adblock]] [[tensorflow-tensorflow]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[erp]]
 

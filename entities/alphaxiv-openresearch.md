@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[nvidia-openshell]] [[multica-ai-andrej-karpathy-skills]] [[affaan-m-ecc]] [[anthropics-knowledge-work-plugins]]
+[[robbyant-lingbot-map]] [[zhaoxuya520-reverse-skill]] [[nvidia-openshell]] [[affaan-m-ecc]] [[t8y2-dbx]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

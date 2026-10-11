@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[nvidia-openshell]] [[msitarzewski-agency-agents]] [[alibaba-open-code-review]] [[panniantong-agent-reach]] [[anthropics-knowledge-work-plugins]]
+[[robbyant-lingbot-map]] [[nvidia-openshell]] [[bilawalsidhu-gods-eye-view]] [[trycua-cua]] [[morluto-rea]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

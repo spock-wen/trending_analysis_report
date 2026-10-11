@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[cs341-illinois-coursebook]] [[hugohe3-ppt-master]] [[mattpocock-skills]] [[multica-ai-andrej-karpathy-skills]]
+[[morluto-rea]] [[cathrynlavery-diagram-design]] [[mattpocock-skills]] [[lyogavin-airllm]] [[cs341-illinois-coursebook]]
 
 **所属领域**: [[ai-agent]]
 

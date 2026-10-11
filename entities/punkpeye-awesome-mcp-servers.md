@@ -34,7 +34,7 @@ A collection of MCP servers.
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[mattpocock-skills]] [[hugohe3-ppt-master]] [[multica-ai-andrej-karpathy-skills]]
+[[mattpocock-skills]] [[morluto-rea]] [[lyogavin-airllm]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]]
 

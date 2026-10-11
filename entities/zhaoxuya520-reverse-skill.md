@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[msitarzewski-agency-agents]] [[actions-runner-images]] [[affaan-m-ecc]] [[panniantong-agent-reach]]
+[[robbyant-lingbot-map]] [[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[morluto-rea]] [[bwya77-vscode-dark-islands]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

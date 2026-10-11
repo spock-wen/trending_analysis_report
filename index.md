@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-11 | 总页面：814
+> 最后更新：2026-10-12 | 总页面：814
 
 ## Entities
 
@@ -109,7 +109,7 @@
 - [[bigbodycobain-shadowbroker|Shadowbroker]] — Open-source intelligence for the global theater. Track every... 🆕
 - [[bigskysoftware-htmx|htmx]] — </> htmx - high power tools for HTML
 - [[bikini-exploitarium|exploitarium]] — A single archive of public exploit PoCs and vulnerability re... 🆕
-- [[bilawalsidhu-gods-eye-view|gods-eye-view]] — A spy satellite simulator in your browser, except the data i... 🔥
+- [[bilawalsidhu-gods-eye-view|gods-eye-view]] — A spy satellite simulator in your browser, except the data i...
 - [[biohub-esm|esm]] — No description
 - [[blader-humanizer|humanizer]] — Agent skill that removes signs of AI-generated writing from ... 🔥
 - [[blaizzy-mlx-vlm|mlx-vlm]] — MLX-VLM is a package for inference and fine-tuning of Vision...
@@ -148,7 +148,7 @@
 - [[chiphuyen-aie-book|aie-book]] — [WIP] Resources for AI engineers. Also contains supporting m...
 - [[chopratejas-headroom|headroom]] — Compress tool outputs, logs, files, and RAG chunks before th... 🔥
 - [[chriskohlhoff-asio|asio]] — Asio C++ Library 🆕
-- [[chrislgarry-apollo-11|Apollo-11]] — Original Apollo 11 Guidance Computer (AGC) source code for t... 🔥
+- [[chrislgarry-apollo-11|Apollo-11]] — Original Apollo 11 Guidance Computer (AGC) source code for t...
 - [[chromedevtools-chrome-devtools-mcp|chrome-devtools-mcp]] — Chrome DevTools for coding agents
 - [[chthollyphile-folia-major|folia-major]] — 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
 - [[cilium-cilium|cilium]] — eBPF-based Networking, Security, and Observability
@@ -440,7 +440,7 @@
 - [[lukilabs-craft-agents-oss|craft-agents-oss]] — No description 🆕
 - [[lum1104-understand-anything|Understand-Anything]] — Graphs that teach > graphs that impress. Turn any code into ... 🔥
 - [[luongnv89-claude-howto|claude-howto]] — A visual, example-driven guide to Claude Code — from basic c...
-- [[lyogavin-airllm|airllm]] — AirLLM 70B inference with single 4GB GPU 🔥
+- [[lyogavin-airllm|airllm]] — AirLLM 70B inference with single 4GB GPU
 - [[m-abozaid-esp32-c3-adblock|esp32-c3-adblock]] — Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 53...
 - [[macro-inc-macro|macro]] — Macro is a unified workspace for teams: email, chat, docs, t... 🔥
 - [[maderix-ane|ANE]] — Training neural networks on Apple Neural Engine via reverse-...
@@ -611,7 +611,7 @@
 - [[punkpeye-awesome-mcp-servers|awesome-mcp-servers]] — A collection of MCP servers.
 - [[puppeteer-puppeteer|puppeteer]] — JavaScript API for Chrome and Firefox
 - [[pytest-dev-pytest|pytest]] — The pytest framework makes it easy to write small tests, yet...
-- [[pytorch-pytorch|pytorch]] — Tensors and Dynamic neural networks in Python with strong GP...
+- [[pytorch-pytorch|pytorch]] — Tensors and Dynamic neural networks in Python with strong GP... 🆕
 - [[qbittorrent-qbittorrent|qBittorrent]] — qBittorrent BitTorrent client
 - [[qwenlm-qwen-agent|Qwen-Agent]] — Agent framework and applications built upon Qwen>=3.0, featu... 🆕
 - [[radixark-miles|miles]] — Miles is an enterprise-facing reinforcement learning framewo...

@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[panniantong-agent-reach]] [[abue-ammar-tinycast]] [[manaflow-ai-cmux]] [[mattpocock-skills]]
+[[abue-ammar-tinycast]] [[homebrew-brewui]] [[chrislgarry-apollo-11]] [[mattpocock-skills]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[cli]]
 

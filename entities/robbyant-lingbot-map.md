@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[alibaba-open-code-review]] [[affaan-m-ecc]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]]
+[[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[bilawalsidhu-gods-eye-view]] [[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[data]] [[science]]
 

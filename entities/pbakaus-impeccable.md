@@ -38,7 +38,7 @@ The design language that makes your AI harness better at design.
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[addyosmani-agent-skills]] [[duartesantos8-opengym]] [[hugohe3-ppt-master]]
+[[bilawalsidhu-gods-eye-view]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[duartesantos8-opengym]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

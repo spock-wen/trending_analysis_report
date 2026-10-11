@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[nvidia-openshell]] [[multica-ai-andrej-karpathy-skills]] [[ever-co-ever-gauzy]] [[anthropics-knowledge-work-plugins]] [[storytold-artcraft]]
+[[nvidia-openshell]] [[t8y2-dbx]] [[hugohe3-ppt-master]] [[trycua-cua]] [[morluto-rea]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

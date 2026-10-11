@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[rakyll-hey]] [[panniantong-agent-reach]]
+[[rakyll-hey]] [[alibaba-open-code-review]] [[chrislgarry-apollo-11]] [[juliusbrussee-caveman]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

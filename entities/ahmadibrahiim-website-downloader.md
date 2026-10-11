@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[averygan-reclip]] [[tester-army-e2e]] [[actions-runner-images]] [[stremio-stremio-web]]
+[[bilawalsidhu-gods-eye-view]] [[trycua-cua]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[pkuflyingpig-cs-self-learning]]
 
 **所属领域**: [[web]] [[image-gen]]
 

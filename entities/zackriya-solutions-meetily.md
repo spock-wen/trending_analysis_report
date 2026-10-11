@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[nvidia-openshell]] [[multica-ai-andrej-karpathy-skills]] [[tester-army-e2e]] [[msitarzewski-agency-agents]]
+[[robbyant-lingbot-map]] [[zhaoxuya520-reverse-skill]] [[nvidia-openshell]] [[affaan-m-ecc]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

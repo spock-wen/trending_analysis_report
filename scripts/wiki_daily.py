@@ -601,7 +601,12 @@ def update_index_and_log(all_repos):
                     continue
                 if in_fm and ':' in line:
                     k, v = line.strip().split(':', 1)
-                    fm[k.strip()] = v.strip()
+                    v = v.strip()
+                    # frontmatter 里 title 等字段写成 title: "owner/repo"（带引号），
+                    # 不去引号会让 index.md 的 alias 显示成 owner/repo"
+                    if len(v) >= 2 and v[0] == v[-1] and v[0] in ('"', "'"):
+                        v = v[1:-1]
+                    fm[k.strip()] = v
         
         title_fm = fm.get('title', slug)
         consecutive = int(fm.get('consecutive_days', '0') or '0')

@@ -27144,3 +27144,1051 @@
 - 连续 2 天上榜: caddyserver/caddy
 - 连续 2 天上榜: EpicGames/raddebugger
 - 当日 star 增长 Top 3: morluto/rea +25784⭐, boykopovar/AnyPS5 +5831⭐, storytold/artcraft +3217⭐
+
+## [2026-10-11] update | GitHub Trending 日报
+- 采集 13 个项目（raw/trending/2026-10-11.json）
+- 新建 entity: 0 个（）
+- 趋势: Python 4个, C++ 2个, TypeScript 2个, HTML 1个, Dart 1个
+- 连续 8 天上榜: Lum1104/Understand-Anything
+- 连续 8 天上榜: dream-num/univer
+- 连续 7 天上榜: K-Dense-AI/scientific-agent-skills
+- 连续 6 天上榜: thedotmack/claude-mem
+- 连续 6 天上榜: JCodesMore/ai-website-cloner-template
+- 连续 6 天上榜: xbtlin/ai-berkshire
+- 连续 6 天上榜: TencentCloud/TencentDB-Agent-Memory
+- 连续 6 天上榜: Nutlope/hallmark
+- 连续 6 天上榜: tt-a1i/archify
+- 连续 6 天上榜: vectorize-io/hindsight
+- 连续 6 天上榜: mvschwarz/openrig
+- 连续 6 天上榜: Hmbown/DeepSeek-TUI
+- 连续 6 天上榜: Z4nzu/hackingtool
+- 连续 6 天上榜: browserbase/skills
+- 连续 6 天上榜: boykopovar/AnyPS5
+- 连续 5 天上榜: mattpocock/skills
+- 连续 5 天上榜: hardikpandya/stop-slop
+- 连续 5 天上榜: NousResearch/hermes-agent
+- 连续 5 天上榜: phuryn/pm-skills
+- 连续 5 天上榜: music-assistant/server
+- 连续 5 天上榜: freeCodeCamp/freeCodeCamp
+- 连续 5 天上榜: simplex-chat/simplex-chat
+- 连续 5 天上榜: microsoft/AI-For-Beginners
+- 连续 5 天上榜: openai/codex-plugin-cc
+- 连续 5 天上榜: wonderwhy-er/DesktopCommanderMCP
+- 连续 5 天上榜: paperswithbacktest/awesome-systematic-trading
+- 连续 5 天上榜: usekaneo/kaneo
+- 连续 5 天上榜: esengine/DeepSeek-Reasonix
+- 连续 5 天上榜: PrimeIntellect-ai/prime-agent
+- 连续 5 天上榜: semantica-agi/semantica
+- 连续 5 天上榜: paperclipai/paperclip
+- 连续 5 天上榜: cathrynlavery/diagram-design
+- 连续 5 天上榜: DietrichGebert/ponytail
+- 连续 5 天上榜: blader/humanizer
+- 连续 5 天上榜: JustVugg/colibri
+- 连续 5 天上榜: ever-co/ever-gauzy
+- 连续 5 天上榜: coder/coder
+- 连续 5 天上榜: anthropics/financial-services
+- 连续 5 天上榜: coleam00/Archon
+- 连续 5 天上榜: decolua/9router
+- 连续 5 天上榜: morluto/rea
+- 连续 4 天上榜: DigitalPlatDev/FreeDomain
+- 连续 4 天上榜: D4Vinci/Scrapling
+- 连续 4 天上榜: nesquena/hermes-webui
+- 连续 4 天上榜: Open-LLM-VTuber/Open-LLM-VTuber
+- 连续 4 天上榜: aquasecurity/trivy
+- 连续 4 天上榜: lyogavin/airllm
+- 连续 4 天上榜: HKUDS/Vibe-Trading
+- 连续 4 天上榜: lfnovo/open-notebook
+- 连续 4 天上榜: Panniantong/Agent-Reach
+- 连续 4 天上榜: maziyarpanahi/openmed
+- 连续 4 天上榜: meshery/meshery
+- 连续 4 天上榜: n0-computer/iroh
+- 连续 4 天上榜: koala73/worldmonitor
+- 连续 4 天上榜: commaai/openpilot
+- 连续 4 天上榜: hasaneyldrm/exercises-dataset
+- 连续 4 天上榜: ogulcancelik/herdr
+- 连续 4 天上榜: Zackriya-Solutions/meetily
+- 连续 4 天上榜: iOfficeAI/OfficeCLI
+- 连续 4 天上榜: KnockOutEZ/wigolo
+- 连续 4 天上榜: chrislgarry/Apollo-11
+- 连续 4 天上榜: Pumpkin-MC/Pumpkin
+- 连续 4 天上榜: microsoft/generative-ai-for-beginners
+- 连续 4 天上榜: goauthentik/authentik
+- 连续 4 天上榜: unslothai/unsloth
+- 连续 4 天上榜: AgriciDaniel/claude-obsidian
+- 连续 4 天上榜: marin-community/marin
+- 连续 4 天上榜: bilawalsidhu/gods-eye-view
+- 连续 4 天上榜: fmtlib/fmt
+- 连续 4 天上榜: debpalash/VoiceStudio
+- 连续 4 天上榜: magnitudedev/magnitude
+- 连续 4 天上榜: mvt-project/mvt
+- 连续 4 天上榜: google/ax
+- 连续 4 天上榜: NVIDIA/OpenShell
+- 连续 4 天上榜: ComposioHQ/awesome-codex-skills
+- 连续 4 天上榜: fishaudio/fish-speech
+- 连续 4 天上榜: google-ai-edge/LiteRT-LM
+- 连续 4 天上榜: google-ai-edge/gallery
+- 连续 4 天上榜: siddharthvaddem/openscreen
+- 连续 4 天上榜: tester-army/e2e
+- 连续 3 天上榜: tinyhumansai/openhuman
+- 连续 3 天上榜: obra/superpowers
+- 连续 3 天上榜: influxdata/telegraf
+- 连续 3 天上榜: microsoft/ai-agents-for-beginners
+- 连续 3 天上榜: Imbad0202/academic-research-skills
+- 连续 3 天上榜: anthropics/knowledge-work-plugins
+- 连续 3 天上榜: mukul975/Anthropic-Cybersecurity-Skills
+- 连续 3 天上榜: moeru-ai/airi
+- 连续 3 天上榜: Axorax/awesome-free-apps
+- 连续 3 天上榜: p-e-w/heretic
+- 连续 3 天上榜: chopratejas/headroom
+- 连续 3 天上榜: PaddlePaddle/PaddleOCR
+- 连续 3 天上榜: aaif-goose/goose
+- 连续 3 天上榜: santifer/career-ops
+- 连续 3 天上榜: masterking32/MasterDnsVPN
+- 连续 3 天上榜: NVIDIA/SkillSpector
+- 连续 3 天上榜: Universal-Debloater-Alliance/universal-android-debloater-next-generation
+- 连续 3 天上榜: google-research/timesfm
+- 连续 3 天上榜: withastro/flue
+- 连续 3 天上榜: Kong/insomnia
+- 连续 3 天上榜: tursodatabase/turso
+- 连续 3 天上榜: smicallef/spiderfoot
+- 连续 3 天上榜: heygen-com/hyperframes
+- 连续 3 天上榜: every-app/open-seo
+- 连续 3 天上榜: IceWhaleTech/CasaOS
+- 连续 3 天上榜: anomalyco/opencode
+- 连续 3 天上榜: agentskills/agentskills
+- 连续 3 天上榜: rommapp/romm
+- 连续 3 天上榜: alirezarezvani/claude-skills
+- 连续 3 天上榜: steipete/CodexBar
+- 连续 3 天上榜: pingdotgg/t3code
+- 连续 3 天上榜: openinterpreter/openinterpreter
+- 连续 3 天上榜: MoonshotAI/kimi-cli
+- 连续 3 天上榜: AstrBotDevs/AstrBot
+- 连续 3 天上榜: earthtojake/text-to-cad
+- 连续 3 天上榜: agegr/pi-web
+- 连续 3 天上榜: likec4/likec4
+- 连续 3 天上榜: Automattic/harper
+- 连续 3 天上榜: opengeos/GeoLibre
+- 连续 3 天上榜: firecrawl/pdf-inspector
+- 连续 3 天上榜: cloudflare/computer
+- 连续 3 天上榜: google/guava
+- 连续 3 天上榜: vitali87/code-graph-rag
+- 连续 3 天上榜: macro-inc/macro
+- 连续 3 天上榜: infiniflow/ragflow
+- 连续 3 天上榜: megadose/holehe
+- 连续 3 天上榜: ToolJet/ToolJet
+- 连续 3 天上榜: cordiverse/cordis
+- 连续 3 天上榜: basecamp/omarchy
+- 连续 3 天上榜: jundot/omlx
+- 连续 3 天上榜: chaitanyagiri/munder-difflin
+- 连续 3 天上榜: volcengine/OpenViking
+- 连续 3 天上榜: modular/modular
+- 连续 3 天上榜: mahlernim/google-timeline-visualizer
+- 连续 3 天上榜: ruvnet/ruflo
+- 连续 3 天上榜: anthropics/claude-plugins-community
+- 连续 3 天上榜: JetBrains/go-modern-guidelines
+- 连续 3 天上榜: google/googletest
+- 连续 3 天上榜: NationalSecurityAgency/ghidra
+- 连续 3 天上榜: handsomestWei/patent-disclosure-skill
+- 连续 3 天上榜: Gitlawb/openclaude
+- 连续 3 天上榜: BraveOPotato/FckSignups
+- 连续 3 天上榜: openai/skills
+- 连续 3 天上榜: The-Swarm-Corporation/AutoHedge
+- 连续 3 天上榜: vastsa/PI-Desktop
+- 连续 3 天上榜: alsk1992/CloddsBot
+- 连续 3 天上榜: armory3d/armorpaint
+- 连续 3 天上榜: jihe520/MathModelAgent
+- 连续 3 天上榜: alphaXiv/OpenResearch
+- 连续 3 天上榜: superdesigndev/treg
+- 连续 3 天上榜: NVIDIA/Model-Optimizer
+- 连续 3 天上榜: getsentry/sentry
+- 连续 3 天上榜: CJackHwang/ds2api
+- 连续 3 天上榜: CodebuffAI/codebuff
+- 连续 3 天上榜: PriorLabs/TabPFN
+- 连续 3 天上榜: TheCraigHewitt/seomachine
+- 连续 3 天上榜: agentscope-ai/ReMe
+- 连续 3 天上榜: block/goose
+- 连续 3 天上榜: datalab-to/chandra
+- 连续 3 天上榜: datawhalechina/easy-vibe
+- 连续 3 天上榜: google/magika
+- 连续 3 天上榜: hsliuping/TradingAgents-CN
+- 连续 3 天上榜: huggingface/ml-intern
+- 连续 3 天上榜: langflow-ai/openrag
+- 连续 3 天上榜: microsoft/hve-core
+- 连续 3 天上榜: millionco/react-doctor
+- 连续 3 天上榜: onyx-dot-app/onyx
+- 连续 3 天上榜: rasbt/LLMs-from-scratch
+- 连续 3 天上榜: sherlock-project/sherlock
+- 连续 3 天上榜: virattt/dexter
+- 连续 3 天上榜: warpdotdev/warp
+- 连续 3 天上榜: zilliztech/claude-context
+- 连续 3 天上榜: DuarteSantos8/openGym
+- 连续 3 天上榜: storytold/artcraft
+- 连续 2 天上榜: NVIDIA-AI-Blueprints/video-search-and-summarization
+- 连续 2 天上榜: oven-sh/bun
+- 连续 2 天上榜: joeseesun/qiaomu-anything-to-notebooklm
+- 连续 2 天上榜: HKUDS/CLI-Anything
+- 连续 2 天上榜: BigBodyCobain/Shadowbroker
+- 连续 2 天上榜: tech-leads-club/agent-skills
+- 连续 2 天上榜: plausible/analytics
+- 连续 2 天上榜: CloakHQ/CloakBrowser
+- 连续 2 天上榜: humanlayer/12-factor-agents
+- 连续 2 天上榜: rohitg00/agentmemory
+- 连续 2 天上榜: msitarzewski/agency-agents
+- 连续 2 天上榜: HKUDS/ViMax
+- 连续 2 天上榜: truelockmc/streambert
+- 连续 2 天上榜: multica-ai/multica
+- 连续 2 天上榜: trimstray/the-book-of-secret-knowledge
+- 连续 2 天上榜: blakeblackshear/frigate
+- 连续 2 天上榜: Leonxlnx/taste-skill
+- 连续 2 天上榜: microsoft/markitdown
+- 连续 2 天上榜: revfactory/harness
+- 连续 2 天上榜: cursor/plugins
+- 连续 2 天上榜: run-llama/liteparse
+- 连续 2 天上榜: galilai-group/stable-worldmodel
+- 连续 2 天上榜: DataTalksClub/data-engineering-zoomcamp
+- 连续 2 天上榜: stefan-jansen/machine-learning-for-trading
+- 连续 2 天上榜: NVIDIA/cosmos
+- 连续 2 天上榜: github/copilot-sdk
+- 连续 2 天上榜: openclaw/openclaw-windows-node
+- 连续 2 天上榜: openai/plugins
+- 连续 2 天上榜: Andyyyy64/whichllm
+- 连续 2 天上榜: roboflow/supervision
+- 连续 2 天上榜: apple/container
+- 连续 2 天上榜: mattermost/mattermost
+- 连续 2 天上榜: bannedbook/fanqiang
+- 连续 2 天上榜: LMCache/LMCache
+- 连续 2 天上榜: Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots
+- 连续 2 天上榜: teslamate-org/teslamate
+- 连续 2 天上榜: Raphire/Win11Debloat
+- 连续 2 天上榜: calesthio/OpenMontage
+- 连续 2 天上榜: zai-org/GLM-5
+- 连续 2 天上榜: Lightricks/LTX-2
+- 连续 2 天上榜: tw93/Pake
+- 连续 2 天上榜: jamiepine/voicebox
+- 连续 2 天上榜: stablyai/orca
+- 连续 2 天上榜: mauriceboe/TREK
+- 连续 2 天上榜: aws/agent-toolkit-for-aws
+- 连续 2 天上榜: alibaba/page-agent
+- 连续 2 天上榜: cupy/cupy
+- 连续 2 天上榜: browser-use/video-use
+- 连续 2 天上榜: Mebus/cupp
+- 连续 2 天上榜: CoreBunch/Instatic
+- 连续 2 天上榜: TencentCloud/CubeSandbox
+- 连续 2 天上榜: JuliusBrussee/caveman
+- 连续 2 天上榜: CoplayDev/unity-mcp
+- 连续 2 天上榜: gastownhall/gastown
+- 连续 2 天上榜: bradautomates/claude-video
+- 连续 2 天上榜: huxingyi/autoremesher
+- 连续 2 天上榜: vxcontrol/pentagi
+- 连续 2 天上榜: abseil/abseil-cpp
+- 连续 2 天上榜: microsoft/TypeScript
+- 连续 2 天上榜: catchorg/Catch2
+- 连续 2 天上榜: chriskohlhoff/asio
+- 连续 2 天上榜: davila7/claude-code-templates
+- 连续 2 天上榜: zeux/meshoptimizer
+- 连续 2 天上榜: google-labs-code/stitch-skills
+- 连续 2 天上榜: hashicorp/terraform
+- 连续 2 天上榜: home-assistant/core
+- 连续 2 天上榜: malisper/pgrust
+- 连续 2 天上榜: OpenCut-app/OpenCut
+- 连续 2 天上榜: YimMenu/YimMenuV2
+- 连续 2 天上榜: PrismML-Eng/Bonsai-demo
+- 连续 2 天上榜: kvcache-ai/ktransformers
+- 连续 2 天上榜: microsoft/Ontology-Playground
+- 连续 2 天上榜: ayghri/i-have-adhd
+- 连续 2 天上榜: hyprwm/Hyprland
+- 连续 2 天上榜: DioxusLabs/dioxus
+- 连续 2 天上榜: schollz/croc
+- 连续 2 天上榜: dottxt-ai/outlines
+- 连续 2 天上榜: citrolabs/ego-lite
+- 连续 2 天上榜: yorukot/superfile
+- 连续 2 天上榜: Lordog/dive-into-llms
+- 连续 2 天上榜: OtterMind/Chat2DB
+- 连续 2 天上榜: virgiliojr94/book-to-skill
+- 连续 2 天上榜: agavra/tuicr
+- 连续 2 天上榜: NomaDamas/k-skill
+- 连续 2 天上榜: uber/ADR
+- 连续 2 天上榜: tailwindlabs/tailwindcss
+- 连续 2 天上榜: huangruiteng/loopx
+- 连续 2 天上榜: Significant-Gravitas/AutoGPT
+- 连续 2 天上榜: denoland/celld
+- 连续 2 天上榜: google-deepmind/weathernext
+- 连续 2 天上榜: Comfy-Org/ComfyUI
+- 连续 2 天上榜: NVIDIA-NeMo/Switchyard
+- 连续 2 天上榜: holaboss-ai/holaOS
+- 连续 2 天上榜: lightningpixel/modly
+- 连续 2 天上榜: agalwood/Motrix
+- 连续 2 天上榜: genlayerlabs/genlayer-project-boilerplate
+- 连续 2 天上榜: agent-substrate/substrate
+- 连续 2 天上榜: apache/maka
+- 连续 2 天上榜: openai/codex
+- 连续 2 天上榜: freestylefly/awesome-gpt-image-2
+- 连续 2 天上榜: asciimoo/hister
+- 连续 2 天上榜: ConardLi/garden-skills
+- 连续 2 天上榜: abi/screenshot-to-code
+- 连续 2 天上榜: tailscale/tailcat
+- 连续 2 天上榜: majd/ipatool
+- 连续 2 天上榜: checkstyle/checkstyle
+- 连续 2 天上榜: jingyaogong/minimind
+- 连续 2 天上榜: bikini/exploitarium
+- 连续 2 天上榜: humanlayer/skills
+- 连续 2 天上榜: jo-inc/camofox-browser
+- 连续 2 天上榜: MoonTechLab/LunaTV
+- 连续 2 天上榜: Tencent/teamai-cli
+- 连续 2 天上榜: nab138/iloader
+- 连续 2 天上榜: Sonarr/Sonarr
+- 连续 2 天上榜: p1neappleXpress/OpenFlux
+- 连续 2 天上榜: yuliskov/SmartTube
+- 连续 2 天上榜: abue-ammar/tinycast
+- 连续 2 天上榜: Tencent/WeKnora
+- 连续 2 天上榜: cline/cline
+- 连续 2 天上榜: Tencent/BrowserSkill
+- 连续 2 天上榜: TencentCloud/Octop
+- 连续 2 天上榜: higgsfield-ai/higgsfield
+- 连续 2 天上榜: strands-agents/harness-sdk
+- 连续 2 天上榜: openbao/openbao
+- 连续 2 天上榜: cs341-illinois/coursebook
+- 连续 2 天上榜: t8y2/dbx
+- 连续 2 天上榜: VectifyAI/PageIndex
+- 连续 2 天上榜: firebase/firebase-ios-sdk
+- 连续 2 天上榜: pablostanley/yoinks
+- 连续 2 天上榜: Effect-TS/effect
+- 连续 2 天上榜: EvoMap/evolver
+- 连续 2 天上榜: GoogleCloudPlatform/generative-ai
+- 连续 2 天上榜: HKUDS/RAG-Anything
+- 连续 2 天上榜: K-Dense-AI/claude-scientific-skills
+- 连续 2 天上榜: NVIDIA/personaplex
+- 连续 2 天上榜: QwenLM/Qwen-Agent
+- 连续 2 天上榜: SakanaAI/AI-Scientist-v2
+- 连续 2 天上榜: SimoneAvogadro/android-reverse-engineering-skill
+- 连续 2 天上榜: Vaibhavs10/insanely-fast-whisper
+- 连续 2 天上榜: alibaba/OpenSandbox
+- 连续 2 天上榜: apernet/hysteria
+- 连续 2 天上榜: cocoindex-io/cocoindex
+- 连续 2 天上榜: deepseek-ai/DeepEP
+- 连续 2 天上榜: elebumm/RedditVideoMakerBot
+- 连续 2 天上榜: fastfetch-cli/fastfetch
+- 连续 2 天上榜: gastownhall/beads
+- 连续 2 天上榜: google-ai-edge/LiteRT
+- 连续 2 天上榜: inclusionAI/AReaL
+- 连续 2 天上榜: karpathy/nanochat
+- 连续 2 天上榜: langchain-ai/deepagents
+- 连续 2 天上榜: langchain-ai/open-swe
+- 连续 2 天上榜: lukilabs/craft-agents-oss
+- 连续 2 天上榜: microsoft/BitNet
+- 连续 2 天上榜: openai/openai-agents-python
+- 连续 2 天上榜: snarktank/ralph
+- 连续 2 天上榜: telegramdesktop/tdesktop
+- 连续 2 天上榜: tobi/qmd
+- 连续 2 天上榜: voidzero-dev/vite-plus
+- 连续 2 天上榜: z-lab/dflash
+- 连续 2 天上榜: caddyserver/caddy
+- 连续 2 天上榜: EpicGames/raddebugger
+- 当日 star 增长 Top 3: morluto/rea +25784⭐, boykopovar/AnyPS5 +5831⭐, storytold/artcraft +3217⭐
+
+
+## [2026-03-04] update | GitHub Trending 日报（backfill）
+- 采集 10 个项目（raw/trending/2026-03-04.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 5个, TypeScript 3个, Go 1个, Rust 1个
+- 当日 star 增长 Top 3: ruvnet/RuView +4,557⭐, alibaba/OpenSandbox +1,097⭐, moeru-ai/airi +842⭐
+
+## [2026-03-05] update | GitHub Trending 日报（backfill）
+- 采集 10 个项目（raw/trending/2026-03-05.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: TypeScript 4个, Python 4个, Go 1个, Rust 1个
+- 连续 2 天上榜: CodebuffAI/codebuff
+- 连续 2 天上榜: K-Dense-AI/claude-scientific-skills
+- 连续 2 天上榜: agentscope-ai/ReMe
+- 连续 2 天上榜: agentscope-ai/agentscope
+- 连续 2 天上榜: alibaba/OpenSandbox
+- 连续 2 天上榜: aquasecurity/trivy
+- 连续 2 天上榜: moeru-ai/airi
+- 当日 star 增长 Top 3: KeygraphHQ/shannon +1,847⭐, moeru-ai/airi +1,794⭐, ItzCrazyKns/Perplexica +1,096⭐
+
+## [2026-03-06] update | GitHub Trending 日报（backfill）
+- 采集 9 个项目（raw/trending/2026-03-06.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 3个, TypeScript 3个, Go 1个, Jupyter Notebook 1个, PowerShell 1个
+- 连续 3 天上榜: CodebuffAI/codebuff
+- 连续 3 天上榜: agentscope-ai/ReMe
+- 连续 3 天上榜: aquasecurity/trivy
+- 连续 3 天上榜: moeru-ai/airi
+- 连续 2 天上榜: KeygraphHQ/shannon
+- 当日 star 增长 Top 3: moeru-ai/airi +3,003⭐, KeygraphHQ/shannon +2,926⭐, TheCraigHewitt/seomachine +371⭐
+
+## [2026-03-07] update | GitHub Trending 日报（backfill）
+- 采集 9 个项目（raw/trending/2026-03-07.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 6个, TypeScript 1个, PowerShell 1个, Go 1个
+- 连续 4 天上榜: moeru-ai/airi
+- 连续 2 天上榜: TheCraigHewitt/seomachine
+- 连续 2 天上榜: inclusionAI/AReaL
+- 连续 2 天上榜: microsoft/hve-core
+- 当日 star 增长 Top 3: moeru-ai/airi +2,544⭐, QwenLM/Qwen-Agent +684⭐, TheCraigHewitt/seomachine +675⭐
+
+## [2026-03-08] update | GitHub Trending 日报（backfill）
+- 采集 9 个项目（raw/trending/2026-03-08.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 4个, TypeScript 2个, Jupyter Notebook 1个, Elixir 1个, PowerShell 1个
+- 连续 3 天上榜: microsoft/hve-core
+- 连续 2 天上榜: QwenLM/Qwen-Agent
+- 连续 2 天上榜: openai/skills
+- 连续 2 天上榜: virattt/ai-hedge-fund
+- 当日 star 增长 Top 3: openai/skills +947⭐, QwenLM/Qwen-Agent +586⭐, GoogleCloudPlatform/generative-ai +348⭐
+
+## [2026-03-10] update | GitHub Trending 日报（backfill）
+- 采集 9 个项目（raw/trending/2026-03-10.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 6个, Jupyter Notebook 1个, JavaScript 1个, TypeScript 1个
+- 当日 star 增长 Top 3: 666ghj/MiroFish +2,222⭐, GoogleCloudPlatform/generative-ai +1,291⭐, pbakaus/impeccable +1,291⭐
+
+## [2026-03-11] update | GitHub Trending 日报（backfill）
+- 采集 10 个项目（raw/trending/2026-03-11.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 5个, TypeScript 2个, Jupyter Notebook 1个, JavaScript 1个, Java 1个
+- 连续 2 天上榜: 666ghj/MiroFish
+- 连续 2 天上榜: GoogleCloudPlatform/generative-ai
+- 连续 2 天上榜: NousResearch/hermes-agent
+- 连续 2 天上榜: alibaba/page-agent
+- 连续 2 天上榜: karpathy/nanochat
+- 连续 2 天上榜: pbakaus/impeccable
+- 当日 star 增长 Top 3: 666ghj/MiroFish +4,469⭐, bytedance/deer-flow +1,443⭐, pbakaus/impeccable +932⭐
+
+## [2026-03-12] update | GitHub Trending 日报（backfill）
+- 采集 7 个项目（raw/trending/2026-03-12.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 5个, TypeScript 2个
+- 连续 3 天上榜: 666ghj/MiroFish
+- 连续 3 天上榜: NousResearch/hermes-agent
+- 连续 3 天上榜: alibaba/page-agent
+- 连续 2 天上榜: promptfoo/promptfoo
+- 连续 2 天上榜: virattt/ai-hedge-fund
+- 当日 star 增长 Top 3: 666ghj/MiroFish +2,909⭐, alibaba/page-agent +1,206⭐, NousResearch/hermes-agent +1,204⭐
+
+## [2026-03-13] update | GitHub Trending 日报（backfill）
+- 采集 10 个项目（raw/trending/2026-03-13.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 7个, TypeScript 2个, C++ 1个
+- 连续 4 天上榜: 666ghj/MiroFish
+- 连续 4 天上榜: NousResearch/hermes-agent
+- 连续 4 天上榜: alibaba/page-agent
+- 连续 2 天上榜: fishaudio/fish-speech
+- 当日 star 增长 Top 3: microsoft/BitNet +2,149⭐, 666ghj/MiroFish +1,809⭐, NousResearch/hermes-agent +1,235⭐
+
+## [2026-03-14] update | GitHub Trending 日报（backfill）
+- 采集 10 个项目（raw/trending/2026-03-14.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 6个, TypeScript 2个, Zig 1个, C++ 1个
+- 连续 5 天上榜: alibaba/page-agent
+- 连续 3 天上榜: fishaudio/fish-speech
+- 连续 2 天上榜: google-ai-edge/LiteRT
+- 连续 2 天上榜: langflow-ai/openrag
+- 连续 2 天上榜: microsoft/BitNet
+- 连续 2 天上榜: vectorize-io/hindsight
+- 当日 star 增长 Top 3: microsoft/BitNet +2,223⭐, promptfoo/promptfoo +1,850⭐, alibaba/page-agent +1,467⭐
+
+## [2026-03-15] update | GitHub Trending 日报（backfill）
+- 采集 7 个项目（raw/trending/2026-03-15.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 6个, Zig 1个
+- 连续 4 天上榜: fishaudio/fish-speech
+- 连续 3 天上榜: langflow-ai/openrag
+- 连续 2 天上榜: lightpanda-io/browser
+- 当日 star 增长 Top 3: lightpanda-io/browser +2,100⭐, volcengine/OpenViking +1,557⭐, p-e-w/heretic +661⭐
+
+## [2026-03-16] update | GitHub Trending 日报（backfill）
+- 采集 9 个项目（raw/trending/2026-03-16.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 4个, TypeScript 2个, Zig 1个, HTML 1个, Rust 1个
+- 连续 3 天上榜: lightpanda-io/browser
+- 连续 2 天上榜: anthropics/claude-plugins-official
+- 连续 2 天上榜: p-e-w/heretic
+- 连续 2 天上榜: volcengine/OpenViking
+- 当日 star 增长 Top 3: 666ghj/MiroFish +2,782⭐, volcengine/OpenViking +1,870⭐, lightpanda-io/browser +1,335⭐
+
+## [2026-03-17] update | GitHub Trending 日报（backfill）
+- 采集 9 个项目（raw/trending/2026-03-17.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 4个, TypeScript 3个, Zig 1个, Rust 1个
+- 连续 4 天上榜: lightpanda-io/browser
+- 连续 3 天上榜: p-e-w/heretic
+- 连续 3 天上榜: volcengine/OpenViking
+- 连续 2 天上榜: 666ghj/MiroFish
+- 连续 2 天上榜: Crosstalk-Solutions/project-nomad
+- 连续 2 天上榜: shareAI-lab/learn-claude-code
+- 连续 2 天上榜: voidzero-dev/vite-plus
+- 当日 star 增长 Top 3: 666ghj/MiroFish +3,257⭐, lightpanda-io/browser +2,089⭐, volcengine/OpenViking +2,014⭐
+
+## [2026-03-18] update | GitHub Trending 日报（backfill）
+- 采集 4 个项目（raw/trending/2026-03-18.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 1个, JavaScript 1个, Markdown 1个, C++ 1个
+- 连续 2 天上榜: langchain-ai/deepagents
+- 当日 star 增长 Top 3: codecrafters-io/build-your-own-x +2,011⭐, langchain-ai/deepagents +1,418⭐, jarrodwatts/claude-hud +454⭐
+
+## [2026-03-19] update | GitHub Trending 日报（backfill）
+- 采集 4 个项目（raw/trending/2026-03-19.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 2个, JavaScript 1个, C++ 1个
+- 连续 2 天上榜: jarrodwatts/claude-hud
+- 当日 star 增长 Top 3: jarrodwatts/claude-hud +1,040⭐, langchain-ai/open-swe +454⭐, shadps4-emu/shadPS4 +292⭐
+
+## [2026-03-20] update | GitHub Trending 日报（backfill）
+- 采集 8 个项目（raw/trending/2026-03-20.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 2个, JavaScript 2个, Java 1个, Kotlin 1个, Rust 1个
+- 连续 3 天上榜: jarrodwatts/claude-hud
+- 连续 2 天上榜: langchain-ai/open-swe
+- 连续 2 天上榜: newton-physics/newton
+- 当日 star 增长 Top 3: jarrodwatts/claude-hud +1,851⭐, shareAI-lab/learn-claude-code +1,458⭐, gsd-build/get-shit-done +1,414⭐
+
+## [2026-03-22] update | GitHub Trending 日报（backfill）
+- 采集 15 个项目（raw/trending/2026-03-22.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 7个, Go 2个, TypeScript 1个, Java 1个, JavaScript 1个
+- 当日 star 增长 Top 3: Crosstalk-Solutions/project-nomad +2,054⭐, bytedance/deer-flow +1,508⭐, TauricResearch/TradingAgents +1,503⭐
+
+## [2026-03-24] update | GitHub Trending 日报（backfill）
+- 采集 15 个项目（raw/trending/2026-03-24.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 9个, TypeScript 3个, Go 1个, JavaScript 1个, 其他 1个
+- 当日 star 增长 Top 3: affaan-m/everything-claude-code +4,453⭐, Crosstalk-Solutions/project-nomad +4,148⭐, bytedance/deer-flow +3,569⭐
+
+## [2026-03-25] update | GitHub Trending 日报（backfill）
+- 采集 10 个项目（raw/trending/2026-03-25.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 6个, TypeScript 3个, Go 1个
+- 连续 2 天上榜: Crosstalk-Solutions/project-nomad
+- 连续 2 天上榜: NousResearch/hermes-agent
+- 连续 2 天上榜: TauricResearch/TradingAgents
+- 连续 2 天上榜: bytedance/deer-flow
+- 连续 2 天上榜: hsliuping/TradingAgents-CN
+- 当日 star 增长 Top 3: bytedance/deer-flow +4,319⭐, Crosstalk-Solutions/project-nomad +2,450⭐, TauricResearch/TradingAgents +1,746⭐
+
+## [2026-03-26] update | GitHub Trending 日报（backfill）
+- 采集 10 个项目（raw/trending/2026-03-26.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: TypeScript 5个, Python 4个, Rust 1个
+- 连续 3 天上榜: Crosstalk-Solutions/project-nomad
+- 连续 3 天上榜: bytedance/deer-flow
+- 连续 3 天上榜: hsliuping/TradingAgents-CN
+- 连续 2 天上榜: mvanhorn/last30days-skill
+- 连续 2 天上榜: ruvnet/ruflo
+- 连续 2 天上榜: supermemoryai/supermemory
+- 当日 star 增长 Top 3: bytedance/deer-flow +3,787⭐, pascalorg/editor +2,353⭐, Crosstalk-Solutions/project-nomad +1,717⭐
+
+## [2026-03-27] update | GitHub Trending 日报（backfill）
+- 采集 8 个项目（raw/trending/2026-03-27.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 4个, TypeScript 2个, Jupyter Notebook 1个, Rust 1个
+- 连续 4 天上榜: bytedance/deer-flow
+- 连续 3 天上榜: mvanhorn/last30days-skill
+- 连续 2 天上榜: ruvnet/RuView
+- 当日 star 增长 Top 3: mvanhorn/last30days-skill +2,684⭐, bytedance/deer-flow +2,388⭐, Vaibhavs10/insanely-fast-whisper +1,381⭐
+
+## [2026-03-28] update | GitHub Trending 日报（backfill）
+- 采集 8 个项目（raw/trending/2026-03-28.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 5个, TypeScript 2个, Jupyter Notebook 1个
+- 连续 4 天上榜: mvanhorn/last30days-skill
+- 连续 2 天上榜: Vaibhavs10/insanely-fast-whisper
+- 连续 2 天上榜: datalab-to/chandra
+- 连续 2 天上榜: twentyhq/twenty
+- 连续 2 天上榜: virattt/dexter
+- 当日 star 增长 Top 3: mvanhorn/last30days-skill +2,824⭐, Vaibhavs10/insanely-fast-whisper +1,075⭐, datalab-to/chandra +913⭐
+
+## [2026-03-29] update | GitHub Trending 日报（backfill）
+- 采集 9 个项目（raw/trending/2026-03-29.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 5个, TypeScript 3个, Shell 1个
+- 连续 3 天上榜: datalab-to/chandra
+- 连续 3 天上榜: twentyhq/twenty
+- 连续 3 天上榜: virattt/dexter
+- 连续 2 天上榜: SakanaAI/AI-Scientist-v2
+- 连续 2 天上榜: onyx-dot-app/onyx
+- 当日 star 增长 Top 3: obra/superpowers +2,293⭐, hacksider/Deep-Live-Cam +1,789⭐, onyx-dot-app/onyx +870⭐
+
+## [2026-03-30] update | GitHub Trending 日报（backfill）
+- 采集 7 个项目（raw/trending/2026-03-30.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 3个, TypeScript 3个, C 1个
+- 连续 4 天上榜: twentyhq/twenty
+- 当日 star 增长 Top 3: microsoft/VibeVoice +1,190⭐, mvanhorn/last30days-skill +1,186⭐, NousResearch/hermes-agent +997⭐
+
+## [2026-03-31] update | GitHub Trending 日报（backfill）
+- 采集 6 个项目（raw/trending/2026-03-31.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 3个, HTML 1个, C 1个, TypeScript 1个
+- 连续 2 天上榜: NousResearch/hermes-agent
+- 连续 2 天上榜: fastfetch-cli/fastfetch
+- 连续 2 天上榜: microsoft/VibeVoice
+- 当日 star 增长 Top 3: microsoft/VibeVoice +2,509⭐, NousResearch/hermes-agent +1,859⭐, shanraisshan/claude-code-best-practice +1,342⭐
+
+## [2026-04-01] update | GitHub Trending 日报（backfill）
+- 采集 8 个项目（raw/trending/2026-04-01.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 6个, HTML 1个, 其他 1个
+- 连续 3 天上榜: NousResearch/hermes-agent
+- 连续 3 天上榜: microsoft/VibeVoice
+- 连续 2 天上榜: shanraisshan/claude-code-best-practice
+- 连续 2 天上榜: sherlock-project/sherlock
+- 当日 star 增长 Top 3: microsoft/VibeVoice +3,862⭐, shanraisshan/claude-code-best-practice +2,408⭐, NousResearch/hermes-agent +1,909⭐
+
+## [2026-04-02] update | GitHub Trending 日报（backfill）
+- 采集 4 个项目（raw/trending/2026-04-02.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 2个, Shell 1个, Rust 1个
+- 连续 4 天上榜: microsoft/VibeVoice
+- 当日 star 增长 Top 3: anthropics/claude-code +10,087⭐, openai/codex +2,345⭐, microsoft/VibeVoice +1,704⭐
+
+## [2026-04-03] update | GitHub Trending 日报（backfill）
+- 采集 2 个项目（raw/trending/2026-04-03.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: TypeScript 1个, Python 1个
+- 当日 star 增长 Top 3: siddharthvaddem/openscreen +2,496⭐, sherlock-project/sherlock +807⭐
+
+## [2026-04-04] update | GitHub Trending 日报（backfill）
+- 采集 4 个项目（raw/trending/2026-04-04.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 3个, TypeScript 1个
+- 连续 2 天上榜: sherlock-project/sherlock
+- 连续 2 天上榜: siddharthvaddem/openscreen
+- 当日 star 增长 Top 3: siddharthvaddem/openscreen +2,855⭐, onyx-dot-app/onyx +1,872⭐, sherlock-project/sherlock +1,230⭐
+
+## [2026-04-05] update | GitHub Trending 日报（backfill）
+- 采集 8 个项目（raw/trending/2026-04-05.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 4个, TypeScript 2个, C++ 1个, Rust 1个
+- 连续 3 天上榜: sherlock-project/sherlock
+- 连续 3 天上榜: siddharthvaddem/openscreen
+- 连续 2 天上榜: onyx-dot-app/onyx
+- 当日 star 增长 Top 3: Yeachan-Heo/oh-my-codex +1,803⭐, siddharthvaddem/openscreen +1,600⭐, onyx-dot-app/onyx +1,212⭐
+
+## [2026-04-06] update | GitHub Trending 日报（backfill）
+- 采集 6 个项目（raw/trending/2026-04-06.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: C++ 2个, Kotlin 1个, Rust 1个, Python 1个, TypeScript 1个
+- 连续 4 天上榜: siddharthvaddem/openscreen
+- 连续 3 天上榜: onyx-dot-app/onyx
+- 连续 2 天上榜: block/goose
+- 连续 2 天上榜: telegramdesktop/tdesktop
+- 当日 star 增长 Top 3: siddharthvaddem/openscreen +2,692⭐, onyx-dot-app/onyx +960⭐, block/goose +866⭐
+
+## [2026-04-07] update | GitHub Trending 日报（backfill）
+- 采集 10 个项目（raw/trending/2026-04-07.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: TypeScript 3个, C++ 2个, Kotlin 1个, Rust 1个, Python 1个
+- 连续 3 天上榜: block/goose
+- 连续 2 天上榜: google-ai-edge/LiteRT-LM
+- 连续 2 天上榜: google-ai-edge/gallery
+- 当日 star 增长 Top 3: NousResearch/hermes-agent +1,721⭐, block/goose +1,514⭐, google-ai-edge/gallery +1,109⭐
+
+## [2026-04-08] update | GitHub Trending 日报（backfill）
+- 采集 8 个项目（raw/trending/2026-04-08.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 4个, Kotlin 1个, C++ 1个, TypeScript 1个, 其他 1个
+- 连续 3 天上榜: google-ai-edge/LiteRT-LM
+- 连续 3 天上榜: google-ai-edge/gallery
+- 连续 2 天上榜: tobi/qmd
+- 当日 star 增长 Top 3: google-ai-edge/gallery +899⭐, tobi/qmd +859⭐, NVIDIA/personaplex +663⭐
+
+## [2026-04-09] update | GitHub Trending 日报（backfill）
+- 采集 9 个项目（raw/trending/2026-04-09.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 5个, Kotlin 1个, C++ 1个, 其他 1个, Go 1个
+- 连续 4 天上榜: google-ai-edge/LiteRT-LM
+- 连续 4 天上榜: google-ai-edge/gallery
+- 连续 2 天上榜: NVIDIA/personaplex
+- 连续 2 天上榜: TheCraigHewitt/seomachine
+- 连续 2 天上榜: elebumm/RedditVideoMakerBot
+- 连续 2 天上榜: forrestchang/andrej-karpathy-skills
+- 当日 star 增长 Top 3: google-ai-edge/gallery +853⭐, forrestchang/andrej-karpathy-skills +686⭐, TheCraigHewitt/seomachine +645⭐
+
+## [2026-04-10] update | GitHub Trending 日报（backfill）
+- 采集 9 个项目（raw/trending/2026-04-10.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 5个, TypeScript 2个, 其他 1个, Java 1个
+- 连续 3 天上榜: TheCraigHewitt/seomachine
+- 连续 3 天上榜: forrestchang/andrej-karpathy-skills
+- 当日 star 增长 Top 3: NousResearch/hermes-agent +6,788⭐, forrestchang/andrej-karpathy-skills +1,371⭐, HKUDS/DeepTutor +1,300⭐
+
+## [2026-04-11] update | GitHub Trending 日报（backfill）
+- 采集 10 个项目（raw/trending/2026-04-11.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 4个, TypeScript 3个, 其他 1个, Java 1个, HTML 1个
+- 连续 4 天上榜: forrestchang/andrej-karpathy-skills
+- 连续 2 天上榜: HKUDS/DeepTutor
+- 连续 2 天上榜: NousResearch/hermes-agent
+- 连续 2 天上榜: coleam00/Archon
+- 连续 2 天上榜: opendataloader-project/opendataloader-pdf
+- 连续 2 天上榜: shiyu-coder/Kronos
+- 当日 star 增长 Top 3: NousResearch/hermes-agent +7,674⭐, microsoft/markitdown +2,353⭐, multica-ai/multica +1,544⭐
+
+## [2026-04-12] update | GitHub Trending 日报（backfill）
+- 采集 10 个项目（raw/trending/2026-04-12.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 5个, TypeScript 2个, 其他 1个, HTML 1个, Java 1个
+- 连续 5 天上榜: forrestchang/andrej-karpathy-skills
+- 连续 3 天上榜: HKUDS/DeepTutor
+- 连续 3 天上榜: NousResearch/hermes-agent
+- 连续 3 天上榜: coleam00/Archon
+- 连续 3 天上榜: opendataloader-project/opendataloader-pdf
+- 连续 3 天上榜: shiyu-coder/Kronos
+- 连续 2 天上榜: microsoft/markitdown
+- 连续 2 天上榜: multica-ai/multica
+- 连续 2 天上榜: shanraisshan/claude-code-best-practice
+- 当日 star 增长 Top 3: NousResearch/hermes-agent +6,437⭐, microsoft/markitdown +3,069⭐, multica-ai/multica +1,950⭐
+
+## [2026-04-13] update | GitHub Trending 日报（backfill）
+- 采集 14 个项目（raw/trending/2026-04-13.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 6个, TypeScript 4个, 其他 1个, HTML 1个, Rust 1个
+- 连续 6 天上榜: forrestchang/andrej-karpathy-skills
+- 连续 4 天上榜: NousResearch/hermes-agent
+- 连续 4 天上榜: coleam00/Archon
+- 连续 4 天上榜: shiyu-coder/Kronos
+- 连续 3 天上榜: microsoft/markitdown
+- 连续 3 天上榜: multica-ai/multica
+- 连续 3 天上榜: shanraisshan/claude-code-best-practice
+- 连续 2 天上榜: OpenBMB/VoxCPM
+- 当日 star 增长 Top 3: NousResearch/hermes-agent +7,450⭐, microsoft/markitdown +2,513⭐, forrestchang/andrej-karpathy-skills +2,351⭐
+
+## [2026-04-14] update | GitHub Trending 日报（backfill）
+- 采集 10 个项目（raw/trending/2026-04-14.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 4个, TypeScript 3个, 其他 1个, HTML 1个, JavaScript 1个
+- 连续 7 天上榜: forrestchang/andrej-karpathy-skills
+- 连续 5 天上榜: NousResearch/hermes-agent
+- 连续 5 天上榜: coleam00/Archon
+- 连续 5 天上榜: shiyu-coder/Kronos
+- 连续 4 天上榜: microsoft/markitdown
+- 连续 4 天上榜: multica-ai/multica
+- 连续 4 天上榜: shanraisshan/claude-code-best-practice
+- 连续 2 天上榜: snarktank/ralph
+- 连续 2 天上榜: virattt/ai-hedge-fund
+- 当日 star 增长 Top 3: NousResearch/hermes-agent +11,297⭐, forrestchang/andrej-karpathy-skills +5,828⭐, microsoft/markitdown +2,811⭐
+
+## [2026-04-15] update | GitHub Trending 日报（backfill）
+- 采集 9 个项目（raw/trending/2026-04-15.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 4个, TypeScript 2个, 其他 1个, HTML 1个, Jupyter Notebook 1个
+- 连续 8 天上榜: forrestchang/andrej-karpathy-skills
+- 连续 6 天上榜: NousResearch/hermes-agent
+- 连续 6 天上榜: shiyu-coder/Kronos
+- 连续 5 天上榜: microsoft/markitdown
+- 连续 5 天上榜: shanraisshan/claude-code-best-practice
+- 连续 3 天上榜: virattt/ai-hedge-fund
+- 当日 star 增长 Top 3: forrestchang/andrej-karpathy-skills +9,230⭐, NousResearch/hermes-agent +8,282⭐, shanraisshan/claude-code-best-practice +2,569⭐
+
+## [2026-04-16] update | GitHub Trending 日报（backfill）
+- 采集 9 个项目（raw/trending/2026-04-16.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 4个, TypeScript 3个, 其他 1个, Jupyter Notebook 1个
+- 连续 9 天上榜: forrestchang/andrej-karpathy-skills
+- 连续 4 天上榜: virattt/ai-hedge-fund
+- 连续 2 天上榜: jamiepine/voicebox
+- 连续 2 天上榜: pascalorg/editor
+- 当日 star 增长 Top 3: forrestchang/andrej-karpathy-skills +9,622⭐, pascalorg/editor +1,422⭐, jamiepine/voicebox +1,079⭐
+
+## [2026-04-17] update | GitHub Trending 日报（backfill）
+- 采集 10 个项目（raw/trending/2026-04-17.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 4个, TypeScript 2个, 其他 1个, Jupyter Notebook 1个, JavaScript 1个
+- 连续 10 天上榜: forrestchang/andrej-karpathy-skills
+- 连续 3 天上榜: jamiepine/voicebox
+- 连续 2 天上榜: Lordog/dive-into-llms
+- 连续 2 天上榜: google/magika
+- 连续 2 天上榜: lsdefine/GenericAgent
+- 连续 2 天上榜: vercel-labs/open-agents
+- 当日 star 增长 Top 3: forrestchang/andrej-karpathy-skills +7,939⭐, Lordog/dive-into-llms +1,394⭐, jamiepine/voicebox +887⭐
+
+## [2026-04-18] update | GitHub Trending 日报（backfill）
+- 采集 16 个项目（raw/trending/2026-04-18.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 4个, TypeScript 4个, Shell 2个, JavaScript 1个, Jupyter Notebook 1个
+- 连续 4 天上榜: jamiepine/voicebox
+- 连续 3 天上榜: Lordog/dive-into-llms
+- 连续 3 天上榜: google/magika
+- 连续 3 天上榜: lsdefine/GenericAgent
+- 连续 2 天上榜: EvoMap/evolver
+- 连续 2 天上榜: SimoneAvogadro/android-reverse-engineering-skill
+- 连续 2 天上榜: openai/openai-agents-python
+- 当日 star 增长 Top 3: Lordog/dive-into-llms +949⭐, google/magika +949⭐, lsdefine/GenericAgent +848⭐
+
+## [2026-04-23] update | GitHub Trending 日报（backfill）
+- 采集 10 个项目（raw/trending/2026-04-23.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: TypeScript 5个, Python 4个, Rust 1个
+- 当日 star 增长 Top 3: sansan0/TrendRadar +932⭐, zilliztech/claude-context +873⭐, HKUDS/RAG-Anything +770⭐
+
+## [2026-04-24] update | GitHub Trending 日报（backfill）
+- 采集 10 个项目（raw/trending/2026-04-24.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 3个, TypeScript 2个, Jupyter Notebook 2个, JavaScript 1个, C++ 1个
+- 连续 2 天上榜: HKUDS/RAG-Anything
+- 连续 2 天上榜: Z4nzu/hackingtool
+- 连续 2 天上榜: ruvnet/RuView
+- 连续 2 天上榜: zilliztech/claude-context
+- 当日 star 增长 Top 3: Z4nzu/hackingtool +1,366⭐, zilliztech/claude-context +1,023⭐, HKUDS/RAG-Anything +574⭐
+
+## [2026-04-25] update | GitHub Trending 日报（backfill）
+- 采集 12 个项目（raw/trending/2026-04-25.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 4个, Go 2个, TypeScript 2个, Rust 1个, JavaScript 1个
+- 连续 3 天上榜: Z4nzu/hackingtool
+- 连续 3 天上榜: zilliztech/claude-context
+- 连续 2 天上榜: Anil-matcha/Open-Generative-AI
+- 连续 2 天上榜: huggingface/ml-intern
+- 当日 star 增长 Top 3: huggingface/ml-intern +2,981⭐, Alishahryar1/free-claude-code +2,640⭐, Z4nzu/hackingtool +1,377⭐
+
+## [2026-04-26] update | GitHub Trending 日报（backfill）
+- 采集 10 个项目（raw/trending/2026-04-26.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 5个, Cuda 1个, TypeScript 1个, Go 1个, C# 1个
+- 连续 4 天上榜: Z4nzu/hackingtool
+- 连续 3 天上榜: huggingface/ml-intern
+- 连续 2 天上榜: Alishahryar1/free-claude-code
+- 连续 2 天上榜: PostHog/posthog
+- 连续 2 天上榜: codecrafters-io/build-your-own-x
+- 连续 2 天上榜: deepseek-ai/DeepEP
+- 当日 star 增长 Top 3: Alishahryar1/free-claude-code +3,975⭐, codecrafters-io/build-your-own-x +1,431⭐, huggingface/ml-intern +1,236⭐
+
+## [2026-04-27] update | GitHub Trending 日报（backfill）
+- 采集 8 个项目（raw/trending/2026-04-27.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 5个, Go 2个, Markdown 1个
+- 连续 5 天上榜: Z4nzu/hackingtool
+- 连续 3 天上榜: Alishahryar1/free-claude-code
+- 连续 3 天上榜: PostHog/posthog
+- 连续 3 天上榜: codecrafters-io/build-your-own-x
+- 当日 star 增长 Top 3: Z4nzu/hackingtool +1,724⭐, Alishahryar1/free-claude-code +1,694⭐, codecrafters-io/build-your-own-x +1,074⭐
+
+## [2026-04-28] update | GitHub Trending 日报（backfill）
+- 采集 10 个项目（raw/trending/2026-04-28.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 7个, Go 2个, Clojure 1个
+- 连续 6 天上榜: Z4nzu/hackingtool
+- 连续 4 天上榜: Alishahryar1/free-claude-code
+- 连续 2 天上榜: ComposioHQ/awesome-codex-skills
+- 连续 2 天上榜: gastownhall/beads
+- 当日 star 增长 Top 3: Alishahryar1/free-claude-code +2,973⭐, Z4nzu/hackingtool +1,839⭐, microsoft/VibeVoice +771⭐
+
+## [2026-04-29] update | GitHub Trending 日报（backfill）
+- 采集 9 个项目（raw/trending/2026-04-29.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 7个, JavaScript 1个, Go 1个
+- 连续 5 天上榜: Alishahryar1/free-claude-code
+- 连续 3 天上榜: ComposioHQ/awesome-codex-skills
+- 连续 2 天上榜: CJackHwang/ds2api
+- 连续 2 天上榜: davila7/claude-code-templates
+- 连续 2 天上榜: microsoft/VibeVoice
+- 当日 star 增长 Top 3: Alishahryar1/free-claude-code +1,706⭐, microsoft/VibeVoice +1,523⭐, HunxByts/GhostTrack +976⭐
+
+## [2026-04-30] update | GitHub Trending 日报（backfill）
+- 采集 10 个项目（raw/trending/2026-04-30.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 4个, Rust 2个, Go 1个, TypeScript 1个, Crystal 1个
+- 连续 4 天上榜: ComposioHQ/awesome-codex-skills
+- 连续 3 天上榜: CJackHwang/ds2api
+- 连续 3 天上榜: microsoft/VibeVoice
+- 连续 2 天上榜: HunxByts/GhostTrack
+- 当日 star 增长 Top 3: warpdotdev/warp +11,955⭐, microsoft/VibeVoice +1,688⭐, ComposioHQ/awesome-codex-skills +1,180⭐
+
+## [2026-05-01] update | GitHub Trending 日报（backfill）
+- 采集 9 个项目（raw/trending/2026-05-01.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 3个, Rust 2个, TypeScript 1个, JavaScript 1个, Zig 1个
+- 连续 3 天上榜: HunxByts/GhostTrack
+- 连续 2 天上榜: 1jehuang/jcode
+- 连续 2 天上榜: lukilabs/craft-agents-oss
+- 连续 2 天上榜: warpdotdev/warp
+- 当日 star 增长 Top 3: warpdotdev/warp +8,262⭐, TauricResearch/TradingAgents +2,203⭐, HunxByts/GhostTrack +830⭐
+
+## [2026-05-02] update | GitHub Trending 日报（backfill）
+- 采集 6 个项目（raw/trending/2026-05-02.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Rust 2个, Python 1个, JavaScript 1个, TypeScript 1个, Batchfile 1个
+- 连续 3 天上榜: 1jehuang/jcode
+- 连续 3 天上榜: warpdotdev/warp
+- 连续 2 天上榜: TauricResearch/TradingAgents
+- 连续 2 天上榜: browserbase/skills
+- 当日 star 增长 Top 3: warpdotdev/warp +3,403⭐, TauricResearch/TradingAgents +2,115⭐, 1jehuang/jcode +404⭐
+
+## [2026-05-03] update | GitHub Trending 日报（backfill）
+- 采集 7 个项目（raw/trending/2026-05-03.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 1个, TypeScript 1个, JavaScript 1个, Rust 1个, Batchfile 1个
+- 连续 4 天上榜: 1jehuang/jcode
+- 连续 3 天上榜: TauricResearch/TradingAgents
+- 连续 3 天上榜: browserbase/skills
+- 连续 2 天上榜: Flowseal/zapret-discord-youtube
+- 当日 star 增长 Top 3: TauricResearch/TradingAgents +2,227⭐, ruvnet/ruflo +1,258⭐, jwasham/coding-interview-university +717⭐
+
+## [2026-05-04] update | GitHub Trending 日报（backfill）
+- 采集 9 个项目（raw/trending/2026-05-04.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 3个, TypeScript 2个, Rust 2个, JavaScript 1个, C 1个
+- 连续 5 天上榜: 1jehuang/jcode
+- 连续 4 天上榜: TauricResearch/TradingAgents
+- 连续 4 天上榜: browserbase/skills
+- 连续 2 天上榜: ruvnet/ruflo
+- 当日 star 增长 Top 3: TauricResearch/TradingAgents +3,315⭐, ruvnet/ruflo +1,834⭐, soxoj/maigret +1,117⭐
+
+## [2026-05-05] update | GitHub Trending 日报（backfill）
+- 采集 10 个项目（raw/trending/2026-05-05.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: TypeScript 2个, Python 2个, JavaScript 2个, Rust 2个, C++ 1个
+- 连续 6 天上榜: 1jehuang/jcode
+- 连续 5 天上榜: TauricResearch/TradingAgents
+- 连续 5 天上榜: browserbase/skills
+- 连续 3 天上榜: ruvnet/ruflo
+- 连续 2 天上榜: Hmbown/DeepSeek-TUI
+- 当日 star 增长 Top 3: ruvnet/ruflo +2,594⭐, TauricResearch/TradingAgents +2,181⭐, Hmbown/DeepSeek-TUI +1,277⭐
+
+## [2026-05-06] update | GitHub Trending 日报（backfill）
+- 采集 15 个项目（raw/trending/2026-05-06.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 5个, TypeScript 3个, 其他 2个, Rust 1个, Ruby 1个
+- 连续 6 天上榜: browserbase/skills
+- 连续 4 天上榜: ruvnet/ruflo
+- 连续 3 天上榜: Hmbown/DeepSeek-TUI
+- 连续 2 天上榜: cocoindex-io/cocoindex
+- 连续 2 天上榜: virattt/dexter
+- 当日 star 增长 Top 3: ruvnet/ruflo +2,441⭐, Hmbown/DeepSeek-TUI +2,389⭐, forrestchang/andrej-karpathy-skills +2,381⭐
+
+## [2026-05-07] update | GitHub Trending 日报（backfill）
+- 采集 10 个项目（raw/trending/2026-05-07.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 4个, TypeScript 2个, Rust 1个, Shell 1个, Ruby 1个
+- 连续 5 天上榜: ruvnet/ruflo
+- 连续 4 天上榜: Hmbown/DeepSeek-TUI
+- 连续 3 天上榜: virattt/dexter
+- 连续 2 天上榜: PriorLabs/TabPFN
+- 连续 2 天上榜: docusealco/docuseal
+- 当日 star 增长 Top 3: Hmbown/DeepSeek-TUI +6,184⭐, ruvnet/ruflo +2,190⭐, docusealco/docuseal +772⭐
+
+## [2026-05-08] update | GitHub Trending 日报（backfill）
+- 采集 10 个项目（raw/trending/2026-05-08.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 3个, Rust 2个, TypeScript 2个, Shell 1个, JavaScript 1个
+- 连续 5 天上榜: Hmbown/DeepSeek-TUI
+- 连续 3 天上榜: PriorLabs/TabPFN
+- 连续 3 天上榜: docusealco/docuseal
+- 连续 2 天上榜: addyosmani/agent-skills
+- 当日 star 增长 Top 3: Hmbown/DeepSeek-TUI +5,787⭐, addyosmani/agent-skills +3,058⭐, anthropics/financial-services +1,367⭐
+
+## [2026-05-09] update | GitHub Trending 日报（backfill）
+- 采集 10 个项目（raw/trending/2026-05-09.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 6个, Shell 1个, Rust 1个, JavaScript 1个, Dart 1个
+- 连续 6 天上榜: Hmbown/DeepSeek-TUI
+- 连续 3 天上榜: addyosmani/agent-skills
+- 连续 2 天上榜: anthropics/financial-services
+- 连续 2 天上榜: decolua/9router
+- 连续 2 天上榜: z-lab/dflash
+- 当日 star 增长 Top 3: Hmbown/DeepSeek-TUI +3,827⭐, anthropics/financial-services +3,662⭐, addyosmani/agent-skills +1,794⭐
+
+## [2026-05-10] update | GitHub Trending 日报（backfill）
+- 采集 12 个项目（raw/trending/2026-05-10.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: TypeScript 4个, Python 3个, Jupyter Notebook 2个, JavaScript 2个, Shell 1个
+- 连续 4 天上榜: addyosmani/agent-skills
+- 连续 3 天上榜: anthropics/financial-services
+- 连续 3 天上榜: decolua/9router
+- 连续 2 天上榜: datawhalechina/hello-agents
+- 当日 star 增长 Top 3: anthropics/financial-services +3,077⭐, addyosmani/agent-skills +2,801⭐, datawhalechina/hello-agents +1,162⭐
+
+## [2026-05-11] update | GitHub Trending 日报（backfill）
+- 采集 10 个项目（raw/trending/2026-05-11.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 6个, JavaScript 2个, TypeScript 1个, Shell 1个
+- 连续 5 天上榜: addyosmani/agent-skills
+- 连续 4 天上榜: anthropics/financial-services
+- 连续 4 天上榜: decolua/9router
+- 连续 3 天上榜: datawhalechina/hello-agents
+- 连续 2 天上榜: bytedance/UI-TARS-desktop
+- 连续 2 天上榜: datawhalechina/easy-vibe
+- 当日 star 增长 Top 3: anthropics/financial-services +1,479⭐, addyosmani/agent-skills +1,092⭐, decolua/9router +806⭐
+
+## [2026-05-12] update | GitHub Trending 日报（backfill）
+- 采集 13 个项目（raw/trending/2026-05-12.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: TypeScript 5个, Python 3个, JavaScript 2个, Jupyter Notebook 2个, Rust 1个
+- 连续 5 天上榜: decolua/9router
+- 连续 3 天上榜: bytedance/UI-TARS-desktop
+- 连续 3 天上榜: datawhalechina/easy-vibe
+- 连续 2 天上榜: CloakHQ/CloakBrowser
+- 当日 star 增长 Top 3: NousResearch/hermes-agent +2,229⭐, CloakHQ/CloakBrowser +1,325⭐, bytedance/UI-TARS-desktop +956⭐
+
+## [2026-05-13] update | GitHub Trending 日报（backfill）
+- 采集 11 个项目（raw/trending/2026-05-13.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: TypeScript 3个, Python 3个, Rust 1个, Go 1个, Shell 1个
+- 连续 3 天上榜: CloakHQ/CloakBrowser
+- 连续 2 天上榜: millionco/react-doctor
+- 连续 2 天上榜: rasbt/LLMs-from-scratch
+- 连续 2 天上榜: rohitg00/agentmemory
+- 连续 2 天上榜: tinyhumansai/openhuman
+- 连续 2 天上榜: yikart/AiToEarn
+- 当日 star 增长 Top 3: mattpocock/skills +3,886⭐, CloakHQ/CloakBrowser +1,589⭐, yikart/AiToEarn +1,264⭐
+
+## [2026-05-14] update | GitHub Trending 日报（backfill）
+- 采集 19 个项目（raw/trending/2026-05-14.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: TypeScript 4个, Rust 3个, Python 3个, Shell 2个, Go 2个
+- 连续 4 天上榜: CloakHQ/CloakBrowser
+- 连续 3 天上榜: millionco/react-doctor
+- 连续 3 天上榜: rasbt/LLMs-from-scratch
+- 连续 3 天上榜: rohitg00/agentmemory
+- 连续 3 天上榜: tinyhumansai/openhuman
+- 连续 3 天上榜: yikart/AiToEarn
+- 连续 2 天上榜: apernet/hysteria
+- 连续 2 天上榜: mattpocock/skills
+- 当日 star 增长 Top 3: mattpocock/skills +3,372⭐, CloakHQ/CloakBrowser +1,829⭐, tinyhumansai/openhuman +1,595⭐
+
+## [2026-05-15] update | GitHub Trending 日报（backfill）
+- 采集 15 个项目（raw/trending/2026-05-15.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 6个, Rust 2个, TypeScript 2个, Shell 2个, Go 1个
+- 连续 5 天上榜: CloakHQ/CloakBrowser
+- 连续 4 天上榜: rohitg00/agentmemory
+- 连续 4 天上榜: tinyhumansai/openhuman
+- 连续 3 天上榜: mattpocock/skills
+- 连续 2 天上榜: K-Dense-AI/scientific-agent-skills
+- 连续 2 天上榜: github/spec-kit
+- 连续 2 天上榜: influxdata/telegraf
+- 连续 2 天上榜: obra/superpowers
+- 连续 2 天上榜: supertone-inc/supertonic
+- 当日 star 增长 Top 3: tinyhumansai/openhuman +3,476⭐, mattpocock/skills +2,971⭐, rohitg00/agentmemory +1,978⭐
+
+## [2026-05-24] update | GitHub Trending 日报（backfill）
+- 采集 16 个项目（raw/trending/2026-05-24.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 7个, TypeScript 5个, 其他 1个, Swift 1个, Markdown 1个
+- 连续 5 天上榜: anthropics/claude-plugins-official
+- 连续 5 天上榜: colbymchenry/codegraph
+- 连续 4 天上榜: rohitg00/ai-engineering-from-scratch
+- 连续 3 天上榜: Lum1104/Understand-Anything
+- 连续 3 天上榜: dotnet/skills
+- 当日 star 增长 Top 3: Lum1104/Understand-Anything +3,987⭐, colbymchenry/codegraph +2,993⭐, multica-ai/andrej-karpathy-skills +2,555⭐
+
+## [2026-06-06] update | GitHub Trending 日报（backfill）
+- 采集 19 个项目（raw/trending/2026-06-06.json）
+- backfill 补录：2026-10-11 由 Scholar 从 trending_daily 表重建，「新建 entity」项历史无法回溯故省略
+- 趋势: Python 9个, TypeScript 3个, JavaScript 2个, 其他 1个, Jupyter Notebook 1个
+- 连续 4 天上榜: Open-LLM-VTuber/Open-LLM-VTuber
+- 连续 4 天上榜: affaan-m/ECC
+- 连续 4 天上榜: chopratejas/headroom
+- 连续 3 天上榜: NousResearch/hermes-agent
+- 连续 3 天上榜: aquasecurity/trivy
+- 连续 3 天上榜: jwasham/coding-interview-university
+- 连续 2 天上榜: NVIDIA/cosmos
+- 连续 2 天上榜: PaddlePaddle/PaddleOCR
+- 连续 2 天上榜: github/copilot-sdk
+- 连续 2 天上榜: github/spec-kit
+- 连续 2 天上榜: lfnovo/open-notebook
+- 连续 2 天上榜: mvanhorn/last30days-skill
+- 连续 2 天上榜: openclaw/openclaw-windows-node
+- 连续 2 天上榜: reconurge/flowsint
+- 当日 star 增长 Top 3: chopratejas/headroom +2,503⭐, NousResearch/hermes-agent +1,821⭐, affaan-m/ECC +1,368⭐

@@ -101,14 +101,34 @@ def unescape_html(text):
     return html_lib.unescape(text)
 
 def validate_repo_name(repo_name):
+    """校验 repo 路径格式：必须是 owner/repo
+
+    与日采集脚本 github_trending_collector.py 保持同一套规则（10-04 修复同步）：
+    - owner 是账号名：仅 ASCII 字母数字和连字符，不能以连字符开头/结尾，不能含连续连字符
+    - repo 名额外允许下划线和点，但不能以 .git 结尾；单点/双点被 GitHub 保留
+    - 用 \Z 而非 $ —— $ 在 re.match 下会匹配末尾换行前的文本，属校验漏洞
+    旧版 pattern 不允许 . 和 _，导致 vercel/next.js、ggml-org/llama.cpp、
+    microsoft/TRELLIS.2 等合法 repo 在周榜被静默丢弃。
+    """
     if not repo_name:
         return False
     parts = repo_name.split('/')
     if len(parts) != 2:
         return False
     owner, name = parts
-    pattern = r'^[a-zA-Z0-9]([a-zA-Z0-9-]*[a-zA-Z0-9])?$'
-    return bool(re.match(pattern, owner)) and bool(re.match(pattern, name))
+    owner_pat = r'^[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\Z'
+    name_pat = r'^[a-zA-Z0-9](?:[a-zA-Z0-9._-]*[a-zA-Z0-9._])?\Z'
+    if bool(re.match(owner_pat, owner)) is False:
+        return False
+    if bool(re.match(name_pat, name)) is False:
+        return False
+    if '--' in owner:
+        return False
+    if name.endswith('.git'):
+        return False
+    if name in ('.', '..'):
+        return False
+    return True
 
 def parse_weekly(html_content):
     projects = []

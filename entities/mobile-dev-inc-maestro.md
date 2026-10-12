@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[bilawalsidhu-gods-eye-view]] [[morluto-rea]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[mattpocock-skills]]
+[[open-webui-open-webui]] [[andreknieriem-headunit-revived]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[embabel-embabel-agent]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

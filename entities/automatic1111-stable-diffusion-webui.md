@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[bilawalsidhu-gods-eye-view]] [[cathrynlavery-diagram-design]] [[pytorch-pytorch]]
+[[open-webui-open-webui]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[actions-runner-images]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]] [[image-gen]]
 

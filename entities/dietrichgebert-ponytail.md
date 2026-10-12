@@ -38,7 +38,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ## 相关项目
 
-[[bilawalsidhu-gods-eye-view]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[duartesantos8-opengym]] [[mattpocock-skills]]
+[[duartesantos8-opengym]] [[cloudflare-security-audit-skill]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

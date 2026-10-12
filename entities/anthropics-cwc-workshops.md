@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[morluto-rea]] [[tester-army-e2e]] [[hugohe3-ppt-master]] [[ever-co-ever-gauzy]]
+[[tester-army-e2e]] [[hugohe3-ppt-master]] [[thedotmack-claude-mem]] [[ever-co-ever-gauzy]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[erp]]
 

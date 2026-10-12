@@ -35,7 +35,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[trycua-cua]] [[tester-army-e2e]] [[pytorch-pytorch]]
+[[open-webui-open-webui]] [[tester-army-e2e]] [[actions-runner-images]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[image-gen]]
 

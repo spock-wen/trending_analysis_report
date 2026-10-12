@@ -36,7 +36,7 @@ AI turns documents or topics into real, native PowerPoint decks—with native sh
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[bilawalsidhu-gods-eye-view]] [[anthropics-knowledge-work-plugins]] [[morluto-rea]] [[cathrynlavery-diagram-design]]
+[[open-webui-open-webui]] [[alibaba-open-code-review]] [[huggingface-transformers]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[data]] [[erp]] [[audio]]
 

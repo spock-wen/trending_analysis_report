@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[getsentry-sentry]] [[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[morluto-rea]]
+[[open-webui-open-webui]] [[alibaba-open-code-review]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]]
+[[open-webui-open-webui]] [[cloudflare-security-audit-skill]] [[cathrynlavery-diagram-design]] [[manaflow-ai-cmux]] [[pytorch-pytorch]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

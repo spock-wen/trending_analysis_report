@@ -34,7 +34,7 @@ HTTP load generator, ApacheBench (ab) replacement
 
 ## 相关项目
 
-[[bilawalsidhu-gods-eye-view]] [[alibaba-open-code-review]] [[cathrynlavery-diagram-design]] [[tester-army-e2e]] [[juliusbrussee-caveman]]
+[[open-webui-open-webui]] [[alibaba-open-code-review]] [[cathrynlavery-diagram-design]] [[juliusbrussee-caveman]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]]
 

@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[nvidia-openshell]] [[t8y2-dbx]] [[trycua-cua]] [[morluto-rea]] [[cathrynlavery-diagram-design]]
+[[nvidia-openshell]] [[cathrynlavery-diagram-design]] [[manaflow-ai-cmux]] [[mattpocock-skills]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

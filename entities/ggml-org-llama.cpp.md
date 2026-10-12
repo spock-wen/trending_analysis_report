@@ -34,7 +34,7 @@ LLM inference in C/C++
 
 ## 相关项目
 
-[[firebase-firebase-ios-sdk]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[m-abozaid-esp32-c3-adblock]] [[mattpocock-skills]]
+[[cathrynlavery-diagram-design]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]] [[lyogavin-airllm]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[ai-agent]]
 

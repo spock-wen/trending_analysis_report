@@ -34,7 +34,7 @@ Toolchain for TON smart contract development and beyond
 
 ## 相关项目
 
-[[nvidia-openshell]] [[t8y2-dbx]] [[trycua-cua]] [[morluto-rea]] [[cathrynlavery-diagram-design]]
+[[nvidia-openshell]] [[cathrynlavery-diagram-design]] [[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[storytold-artcraft]]
 
 **所属领域**: [[ai-agent]]
 

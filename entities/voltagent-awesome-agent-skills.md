@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[morluto-rea]] [[cathrynlavery-diagram-design]] [[chrislgarry-apollo-11]] [[mattpocock-skills]] [[lyogavin-airllm]]
+[[cathrynlavery-diagram-design]] [[manaflow-ai-cmux]] [[mattpocock-skills]] [[lyogavin-airllm]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

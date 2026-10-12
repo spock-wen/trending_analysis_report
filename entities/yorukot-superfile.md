@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[rakyll-hey]] [[alibaba-open-code-review]] [[chrislgarry-apollo-11]] [[juliusbrussee-caveman]] [[mattpocock-skills]]
+[[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[manaflow-ai-cmux]] [[mattpocock-skills]] [[rakyll-hey]]
 
 **所属领域**: [[cli]]
 

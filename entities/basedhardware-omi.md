@@ -34,7 +34,7 @@ AI that sees your screen, listens to your conversations and tells you what to do
 
 ## 相关项目
 
-[[flutter-skills]] [[localsend-localsend]] [[flutter-flutter]] [[morluto-rea]] [[cathrynlavery-diagram-design]]
+[[cathrynlavery-diagram-design]] [[localsend-localsend]] [[lyogavin-airllm]] [[flutter-flutter]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[nvidia-openshell]] [[t8y2-dbx]] [[hugohe3-ppt-master]] [[trycua-cua]] [[morluto-rea]]
+[[nvidia-openshell]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[ever-co-ever-gauzy]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

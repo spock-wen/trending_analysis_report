@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[morluto-rea]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[trycua-cua]]
+[[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[actions-runner-images]] [[thedotmack-claude-mem]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[nvidia-openshell]] [[t8y2-dbx]] [[hugohe3-ppt-master]] [[trycua-cua]] [[chrislgarry-apollo-11]]
+[[jamwithai-production-agentic-rag-course]] [[rohitg00-ai-engineering-from-scratch]] [[huggingface-transformers]] [[nvidia-openshell]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

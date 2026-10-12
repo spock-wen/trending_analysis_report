@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[pytorch-pytorch]]
+[[open-webui-open-webui]] [[jamwithai-production-agentic-rag-course]] [[huggingface-transformers]] [[cathrynlavery-diagram-design]] [[pytorch-pytorch]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

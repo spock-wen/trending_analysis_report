@@ -34,7 +34,7 @@ Enterprise Architecture Governance & Vendor Procurement Toolkit
 
 ## 相关项目
 
-[[bilawalsidhu-gods-eye-view]] [[hugohe3-ppt-master]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[pkuflyingpig-cs-self-learning]]
+[[pkuflyingpig-cs-self-learning]] [[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]] [[erp]]
 

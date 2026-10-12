@@ -35,7 +35,7 @@ yoink any video from your terminal. no shady ads.
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[morluto-rea]] [[tester-army-e2e]] [[chrislgarry-apollo-11]] [[mattpocock-skills]]
+[[tester-army-e2e]] [[thedotmack-claude-mem]] [[manaflow-ai-cmux]] [[mattpocock-skills]] [[mksglu-context-mode]]
 
 **所属领域**: [[cli]]
 

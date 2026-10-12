@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[hugohe3-ppt-master]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[chrislgarry-apollo-11]]
+[[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[manaflow-ai-cmux]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

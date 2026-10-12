@@ -35,7 +35,7 @@ Fullstack app framework for web, desktop, and mobile.
 
 ## 相关项目
 
-[[nvidia-openshell]] [[t8y2-dbx]] [[bilawalsidhu-gods-eye-view]] [[trycua-cua]] [[tester-army-e2e]]
+[[open-webui-open-webui]] [[nvidia-openshell]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[web]]
 

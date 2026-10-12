@@ -34,7 +34,7 @@ A modern video editor built with Tauri, React, and TypeScript. Focus on building
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[morluto-rea]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[mattpocock-skills]]
+[[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]] [[mksglu-context-mode]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

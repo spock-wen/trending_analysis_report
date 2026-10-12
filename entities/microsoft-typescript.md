@@ -36,5 +36,5 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[rakyll-hey]] [[caddyserver-caddy]]
+[[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[caddyserver-caddy]] [[rakyll-hey]]
 

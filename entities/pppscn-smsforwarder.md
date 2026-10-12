@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[bilawalsidhu-gods-eye-view]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[mahlernim-google-timeline-visualizer]]
+[[open-webui-open-webui]] [[andreknieriem-headunit-revived]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[embabel-embabel-agent]]
 
 **所属领域**: [[web]]
 

@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[morluto-rea]] [[cathrynlavery-diagram-design]]
+[[jamwithai-production-agentic-rag-course]] [[rohitg00-ai-engineering-from-scratch]] [[huggingface-transformers]] [[cathrynlavery-diagram-design]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

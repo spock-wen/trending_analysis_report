@@ -38,7 +38,7 @@ A specialized Claude Code workspace for creating long-form, SEO-optimized blog c
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]]
+[[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[paperclipai-paperclip]] [[pytorch-pytorch]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

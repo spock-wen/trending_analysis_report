@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[bilawalsidhu-gods-eye-view]] [[trycua-cua]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[duartesantos8-opengym]]
+[[duartesantos8-opengym]] [[open-webui-open-webui]] [[cloudflare-security-audit-skill]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[image-gen]]
 

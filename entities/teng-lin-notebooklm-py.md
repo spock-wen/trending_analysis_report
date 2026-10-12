@@ -35,7 +35,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[pytorch-pytorch]]
+[[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[pytorch-pytorch]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

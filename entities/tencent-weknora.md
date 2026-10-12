@@ -35,7 +35,7 @@ Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an 
 
 ## 相关项目
 
-[[rakyll-hey]] [[morluto-rea]] [[alibaba-open-code-review]] [[cathrynlavery-diagram-design]] [[juliusbrussee-caveman]]
+[[alibaba-open-code-review]] [[cathrynlavery-diagram-design]] [[juliusbrussee-caveman]] [[rakyll-hey]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

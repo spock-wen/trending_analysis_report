@@ -35,7 +35,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[mattpocock-skills]] [[morluto-rea]] [[lyogavin-airllm]] [[cathrynlavery-diagram-design]]
+[[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]]
 

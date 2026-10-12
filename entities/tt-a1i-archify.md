@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[bilawalsidhu-gods-eye-view]] [[morluto-rea]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]]
+[[duartesantos8-opengym]] [[open-webui-open-webui]] [[alibaba-open-code-review]] [[cloudflare-security-audit-skill]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

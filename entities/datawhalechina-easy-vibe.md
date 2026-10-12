@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[bilawalsidhu-gods-eye-view]] [[hugohe3-ppt-master]] [[alibaba-open-code-review]] [[duartesantos8-opengym]]
+[[duartesantos8-opengym]] [[jamwithai-production-agentic-rag-course]] [[alibaba-open-code-review]] [[cloudflare-security-audit-skill]] [[huggingface-transformers]]
 
 **所属领域**: [[data]] [[education]]
 

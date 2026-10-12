@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[bilawalsidhu-gods-eye-view]] [[mksglu-context-mode]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[trycua-cua]]
+[[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[actions-runner-images]] [[thedotmack-claude-mem]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]] [[image-gen]]
 

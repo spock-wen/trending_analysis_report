@@ -35,7 +35,7 @@ language: ""
 
 ## 相关项目
 
-[[mattpocock-skills]] [[morluto-rea]] [[lyogavin-airllm]] [[cathrynlavery-diagram-design]]
+[[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]]
 

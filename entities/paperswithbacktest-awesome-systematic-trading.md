@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]]
+[[open-webui-open-webui]] [[jamwithai-production-agentic-rag-course]] [[rohitg00-ai-engineering-from-scratch]] [[huggingface-transformers]] [[paperclipai-paperclip]]
 
 **所属领域**: [[education]] [[science]]
 

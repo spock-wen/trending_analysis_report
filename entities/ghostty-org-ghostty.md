@@ -34,7 +34,7 @@ language: "Zig"
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[chrislgarry-apollo-11]] [[mattpocock-skills]] [[msitarzewski-agency-agents]] [[manaflow-ai-cmux]]
+[[lightpanda-io-browser]] [[manaflow-ai-cmux]] [[mattpocock-skills]] [[alishahryar1-free-claude-code]] [[chrislgarry-apollo-11]]
 
 **所属领域**: [[cli]]
 

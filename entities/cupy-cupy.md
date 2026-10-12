@@ -35,5 +35,5 @@ NumPy & SciPy for GPU
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[huggingface-transformers]] [[pytorch-pytorch]]
+[[open-webui-open-webui]] [[alishahryar1-free-claude-code]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]]
 

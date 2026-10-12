@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[bilawalsidhu-gods-eye-view]] [[duartesantos8-opengym]] [[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]]
+[[duartesantos8-opengym]] [[bilawalsidhu-gods-eye-view]] [[cloudflare-security-audit-skill]] [[addyosmani-agent-skills]]
 

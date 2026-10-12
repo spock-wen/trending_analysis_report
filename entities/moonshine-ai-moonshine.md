@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[firebase-firebase-ios-sdk]] [[hugohe3-ppt-master]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[m-abozaid-esp32-c3-adblock]]
+[[huggingface-transformers]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

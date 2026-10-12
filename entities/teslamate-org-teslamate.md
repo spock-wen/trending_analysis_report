@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[bilawalsidhu-gods-eye-view]] [[morluto-rea]] [[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]]
+[[alibaba-open-code-review]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[bilawalsidhu-gods-eye-view]] [[plausible-analytics]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

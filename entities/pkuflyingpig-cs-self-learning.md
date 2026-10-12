@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[bilawalsidhu-gods-eye-view]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[tensorflow-tensorflow]] [[huggingface-transformers]]
+[[open-webui-open-webui]] [[jamwithai-production-agentic-rag-course]] [[rohitg00-ai-engineering-from-scratch]] [[huggingface-transformers]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[education]]
 

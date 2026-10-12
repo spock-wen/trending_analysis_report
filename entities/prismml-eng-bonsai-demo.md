@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[manaflow-ai-cmux]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[chrislgarry-apollo-11]]
+[[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[manaflow-ai-cmux]] [[infinityloop1308-pipepipe]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

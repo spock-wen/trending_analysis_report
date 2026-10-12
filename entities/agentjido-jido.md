@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[morluto-rea]] [[cathrynlavery-diagram-design]] [[mattpocock-skills]] [[plausible-analytics]] [[lyogavin-airllm]]
+[[cathrynlavery-diagram-design]] [[plausible-analytics]] [[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[firebase-firebase-ios-sdk]] [[robbyant-lingbot-map]] [[bilawalsidhu-gods-eye-view]] [[hugohe3-ppt-master]] [[alibaba-open-code-review]]
+[[alibaba-open-code-review]] [[hugohe3-ppt-master]] [[m-abozaid-esp32-c3-adblock]] [[bilawalsidhu-gods-eye-view]] [[boykopovar-anyps5]]
 
 **所属领域**: [[data]]
 

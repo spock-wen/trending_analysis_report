@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[infinityloop1308-pipepipe]] [[manaflow-ai-cmux]] [[bilawalsidhu-gods-eye-view]] [[morluto-rea]] [[tester-army-e2e]]
+[[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[manaflow-ai-cmux]] [[infinityloop1308-pipepipe]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

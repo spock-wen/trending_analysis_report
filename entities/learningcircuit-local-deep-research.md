@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[robbyant-lingbot-map]] [[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[hugohe3-ppt-master]]
+[[open-webui-open-webui]] [[jamwithai-production-agentic-rag-course]] [[rohitg00-ai-engineering-from-scratch]] [[cloudflare-security-audit-skill]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[mksglu-context-mode]] [[morluto-rea]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]]
+[[open-webui-open-webui]] [[alibaba-open-code-review]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[web]] [[data]]
 

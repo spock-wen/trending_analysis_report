@@ -35,7 +35,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[morluto-rea]] [[cathrynlavery-diagram-design]] [[chrislgarry-apollo-11]] [[mattpocock-skills]] [[tensorflow-tensorflow]]
+[[jamwithai-production-agentic-rag-course]] [[rohitg00-ai-engineering-from-scratch]] [[huggingface-transformers]] [[cathrynlavery-diagram-design]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

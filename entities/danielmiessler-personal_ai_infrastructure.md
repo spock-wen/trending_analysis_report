@@ -35,7 +35,7 @@ Agentic AI Infrastructure for magnifying HUMAN capabilities.
 
 ## 相关项目
 
-[[getsentry-sentry]] [[mksglu-context-mode]] [[morluto-rea]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]]
+[[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[getsentry-sentry]] [[nvidia-model-optimizer]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

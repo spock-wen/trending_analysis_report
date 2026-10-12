@@ -38,7 +38,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[rakyll-hey]] [[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[morluto-rea]]
+[[alibaba-open-code-review]] [[cloudflare-security-audit-skill]] [[cathrynlavery-diagram-design]] [[juliusbrussee-caveman]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

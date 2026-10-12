@@ -35,7 +35,7 @@ A TTS that fits in your CPU (and pocket)
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[pytorch-pytorch]]
+[[open-webui-open-webui]] [[huggingface-transformers]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[pytorch-pytorch]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

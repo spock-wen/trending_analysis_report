@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[higgsfield-ai-higgsfield]] [[hugohe3-ppt-master]] [[huggingface-transformers]] [[rohitg00-ai-engineering-from-scratch]] [[getsentry-sentry]]
+[[jamwithai-production-agentic-rag-course]] [[rohitg00-ai-engineering-from-scratch]] [[earthtojake-text-to-cad]] [[mksglu-context-mode]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

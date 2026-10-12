@@ -37,5 +37,5 @@ Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[huggingface-transformers]]
+[[open-webui-open-webui]] [[alishahryar1-free-claude-code]] [[anthropics-knowledge-work-plugins]]
 

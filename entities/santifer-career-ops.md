@@ -38,7 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[bilawalsidhu-gods-eye-view]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[chrislgarry-apollo-11]] [[duartesantos8-opengym]]
+[[duartesantos8-opengym]] [[cloudflare-security-audit-skill]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

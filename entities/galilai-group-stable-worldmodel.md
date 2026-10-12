@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]]
+[[open-webui-open-webui]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[actions-runner-images]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

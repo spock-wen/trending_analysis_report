@@ -36,7 +36,7 @@ Generate code from the terminal!
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[morluto-rea]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[chrislgarry-apollo-11]]
+[[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]] [[manaflow-ai-cmux]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

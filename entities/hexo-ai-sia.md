@@ -34,7 +34,7 @@ SIA is a Self Improving AI framework to autonomously improve the performance of 
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[pytorch-pytorch]]
+[[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[rakyll-hey]] [[morluto-rea]] [[alibaba-open-code-review]] [[cathrynlavery-diagram-design]] [[juliusbrussee-caveman]]
+[[alibaba-open-code-review]] [[cathrynlavery-diagram-design]] [[juliusbrussee-caveman]] [[rakyll-hey]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

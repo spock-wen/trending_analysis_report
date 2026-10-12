@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[bilawalsidhu-gods-eye-view]] [[morluto-rea]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]]
+[[pkuflyingpig-cs-self-learning]] [[open-webui-open-webui]] [[alibaba-open-code-review]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

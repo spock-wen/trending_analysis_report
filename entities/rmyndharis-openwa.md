@@ -36,5 +36,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[morluto-rea]] [[tester-army-e2e]] [[thedotmack-claude-mem]]
+[[mksglu-context-mode]] [[thedotmack-claude-mem]] [[morluto-rea]] [[tester-army-e2e]]
 

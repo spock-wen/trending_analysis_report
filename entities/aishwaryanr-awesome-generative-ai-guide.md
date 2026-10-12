@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[bilawalsidhu-gods-eye-view]] [[morluto-rea]]
+[[pkuflyingpig-cs-self-learning]] [[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

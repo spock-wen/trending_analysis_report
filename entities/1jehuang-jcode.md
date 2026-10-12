@@ -38,5 +38,5 @@ The most RAM efficient harness
 
 ## 相关项目
 
-[[trycua-cua]] [[storytold-artcraft]] [[nvidia-openshell]] [[t8y2-dbx]]
+[[storytold-artcraft]] [[t8y2-dbx]] [[trycua-cua]] [[nvidia-openshell]]
 

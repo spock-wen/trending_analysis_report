@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[morluto-rea]] [[raphire-win11debloat]] [[bwya77-vscode-dark-islands]] [[cathrynlavery-diagram-design]]
+[[cathrynlavery-diagram-design]] [[actions-runner-images]] [[manaflow-ai-cmux]] [[mattpocock-skills]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

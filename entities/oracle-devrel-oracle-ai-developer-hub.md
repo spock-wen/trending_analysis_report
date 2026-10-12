@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[higgsfield-ai-higgsfield]] [[bilawalsidhu-gods-eye-view]] [[morluto-rea]] [[hugohe3-ppt-master]]
+[[alibaba-open-code-review]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[microsoft-ai-for-beginners]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

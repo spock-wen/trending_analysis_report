@@ -36,7 +36,7 @@ Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vert
 
 ## 相关项目
 
-[[higgsfield-ai-higgsfield]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[microsoft-ai-for-beginners]] [[mattpocock-skills]]
+[[cathrynlavery-diagram-design]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]]
 

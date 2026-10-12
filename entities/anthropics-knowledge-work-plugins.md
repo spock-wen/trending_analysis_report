@@ -38,7 +38,7 @@ Open source repository of plugins primarily intended for knowledge workers to us
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[pytorch-pytorch]] [[mattpocock-skills]]
+[[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[pytorch-pytorch]] [[lyogavin-airllm]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

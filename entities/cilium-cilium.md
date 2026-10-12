@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[getsentry-sentry]] [[rakyll-hey]] [[affaan-m-ecc]] [[nationalsecurityagency-ghidra]]
+[[alibaba-open-code-review]] [[cloudflare-security-audit-skill]] [[getsentry-sentry]] [[juliusbrussee-caveman]] [[nvidia-model-optimizer]]
 
 **所属领域**: [[devops]] [[security]]
 

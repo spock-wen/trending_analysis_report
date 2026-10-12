@@ -34,7 +34,7 @@ real time face swap and one-click video deepfake with only a single image
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[trycua-cua]] [[chrislgarry-apollo-11]] [[pytorch-pytorch]]
+[[open-webui-open-webui]] [[tester-army-e2e]] [[actions-runner-images]] [[manaflow-ai-cmux]] [[pytorch-pytorch]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

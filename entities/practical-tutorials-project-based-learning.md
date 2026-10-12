@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[pytorch-pytorch]] [[tensorflow-tensorflow]] [[huggingface-transformers]]
+[[open-webui-open-webui]] [[jamwithai-production-agentic-rag-course]] [[rohitg00-ai-engineering-from-scratch]] [[huggingface-transformers]] [[pytorch-pytorch]]
 
 **所属领域**: [[education]]
 

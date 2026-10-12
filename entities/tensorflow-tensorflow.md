@@ -35,7 +35,7 @@ An Open Source Machine Learning Framework for Everyone
 
 ## 相关项目
 
-[[firebase-firebase-ios-sdk]] [[m-abozaid-esp32-c3-adblock]] [[huggingface-transformers]] [[boykopovar-anyps5]] [[jamwithai-production-agentic-rag-course]]
+[[jamwithai-production-agentic-rag-course]] [[rohitg00-ai-engineering-from-scratch]] [[huggingface-transformers]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]]
 
 **所属领域**: [[education]]
 

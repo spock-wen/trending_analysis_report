@@ -35,5 +35,5 @@ Easily and securely send things from one computer to another 🐊 📦
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[rakyll-hey]] [[caddyserver-caddy]]
+[[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[caddyserver-caddy]] [[rakyll-hey]]
 

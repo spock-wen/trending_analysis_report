@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-12 | 总页面：814
+> 最后更新：2026-10-13 | 总页面：815
 
 ## Entities
 
@@ -49,7 +49,7 @@
 - [[alibaba-zvec|zvec]] — A lightweight, lightning-fast, in-process vector database
 - [[alireza0-s-ui|s-ui]] — An advanced Web Panel • Built for SagerNet/Sing-Box
 - [[alirezarezvani-claude-skills|claude-skills]] — 345 Claude Code skills & agent skills & plugins (30+ Agents,... 🔥
-- [[alishahryar1-free-claude-code|free-claude-code]] — Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ fre...
+- [[alishahryar1-free-claude-code|free-claude-code]] — Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 othe...
 - [[allenai-olmocr|olmocr]] — Toolkit for linearizing PDFs for LLM datasets/training
 - [[alphaxiv-openresearch|OpenResearch]] — Turn your coding agents into research agents 🔥
 - [[alsk1992-cloddsbot|CloddsBot]] — Open Source AI trading agent that operates autonomously acro... 🔥
@@ -109,7 +109,7 @@
 - [[bigbodycobain-shadowbroker|Shadowbroker]] — Open-source intelligence for the global theater. Track every... 🆕
 - [[bigskysoftware-htmx|htmx]] — </> htmx - high power tools for HTML
 - [[bikini-exploitarium|exploitarium]] — A single archive of public exploit PoCs and vulnerability re... 🆕
-- [[bilawalsidhu-gods-eye-view|gods-eye-view]] — A spy satellite simulator in your browser, except the data i...
+- [[bilawalsidhu-gods-eye-view|gods-eye-view]] — A spy satellite simulator in your browser, except the data i... 🆕
 - [[biohub-esm|esm]] — No description
 - [[blader-humanizer|humanizer]] — Agent skill that removes signs of AI-generated writing from ... 🔥
 - [[blaizzy-mlx-vlm|mlx-vlm]] — MLX-VLM is a package for inference and fine-tuning of Vision...
@@ -440,7 +440,7 @@
 - [[lukilabs-craft-agents-oss|craft-agents-oss]] — No description 🆕
 - [[lum1104-understand-anything|Understand-Anything]] — Graphs that teach > graphs that impress. Turn any code into ... 🔥
 - [[luongnv89-claude-howto|claude-howto]] — A visual, example-driven guide to Claude Code — from basic c...
-- [[lyogavin-airllm|airllm]] — AirLLM 70B inference with single 4GB GPU
+- [[lyogavin-airllm|airllm]] — AirLLM 2.8T LLM inference with single 4GB GPU 🆕
 - [[m-abozaid-esp32-c3-adblock|esp32-c3-adblock]] — Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 53...
 - [[macro-inc-macro|macro]] — Macro is a unified workspace for teams: email, chat, docs, t... 🔥
 - [[maderix-ane|ANE]] — Training neural networks on Apple Neural Engine via reverse-...
@@ -473,7 +473,7 @@
 - [[microsoft-agent-lightning|agent-lightning]] — The absolute trainer to light up AI agents.
 - [[microsoft-ai-agents-for-beginners|ai-agents-for-beginners]] — 12 Lessons to Get Started Building AI Agents 🔥
 - [[microsoft-ai-for-beginners|AI-For-Beginners]] — 12 Weeks, 24 Lessons, AI for All! 🔥
-- [[microsoft-bitnet|BitNet]] — Official inference framework for 1-bit LLMs 🆕
+- [[microsoft-bitnet|BitNet]] — Official inference framework for 1-bit LLMs
 - [[microsoft-generative-ai-for-beginners|generative-ai-for-beginners]] — 21 Lessons, Get Started Building with Generative AI 🔥
 - [[microsoft-hve-core|hve-core]] — A refined collection of Hypervelocity Engineering components... 🔥
 - [[microsoft-markitdown|markitdown]] — Python tool for converting files and office documents to Mar... 🆕
@@ -545,6 +545,7 @@
 - [[open-dev-society-openstock|OpenStock]] — OpenStock is an open-source alternative to expensive market ...
 - [[open-llm-vtuber-open-llm-vtuber|Open-LLM-VTuber]] — Talk to any LLM with hands-free voice interaction, voice int... 🔥
 - [[open-metadata-openmetadata|OpenMetadata]] — OpenMetadata is a unified metadata platform for data discove...
+- [[open-webui-open-webui|open-webui]] — User-friendly AI Interface (Supports Ollama, OpenAI API, ...... 🆕
 - [[openai-codex-plugin-cc|codex-plugin-cc]] — Use Codex from Claude Code to review code or delegate tasks. 🔥
 - [[openai-codex|codex]] — Lightweight coding agent that runs in your terminal 🆕
 - [[openai-openai-agents-python|openai-agents-python]] — A lightweight, powerful framework for multi-agent workflows 🆕

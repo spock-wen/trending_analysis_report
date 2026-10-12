@@ -36,7 +36,7 @@ Developer-first error tracking and performance monitoring
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[oblien-openship]] [[davila7-claude-code-templates]] [[pytorch-pytorch]]
+[[open-webui-open-webui]] [[nvidia-model-optimizer]] [[pytorch-pytorch]] [[davila7-claude-code-templates]] [[oblien-openship]]
 
 **所属领域**: [[devops]]
 

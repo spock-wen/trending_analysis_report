@@ -34,7 +34,7 @@ Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer 
 
 ## 相关项目
 
-[[getsentry-sentry]] [[mksglu-context-mode]] [[morluto-rea]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]]
+[[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[getsentry-sentry]] [[nvidia-model-optimizer]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

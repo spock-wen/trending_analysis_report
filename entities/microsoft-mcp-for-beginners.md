@@ -34,7 +34,7 @@ This open-source curriculum introduces the fundamentals of Model Context Protoco
 
 ## 相关项目
 
-[[higgsfield-ai-higgsfield]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[microsoft-ai-for-beginners]] [[mattpocock-skills]]
+[[jamwithai-production-agentic-rag-course]] [[rohitg00-ai-engineering-from-scratch]] [[huggingface-transformers]] [[cathrynlavery-diagram-design]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

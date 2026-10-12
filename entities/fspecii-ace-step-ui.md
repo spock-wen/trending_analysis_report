@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[bilawalsidhu-gods-eye-view]] [[morluto-rea]] [[trycua-cua]] [[cathrynlavery-diagram-design]] [[tester-army-e2e]]
+[[duartesantos8-opengym]] [[cloudflare-security-audit-skill]] [[huggingface-transformers]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

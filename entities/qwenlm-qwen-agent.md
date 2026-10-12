@@ -35,7 +35,7 @@ Agent framework and applications built upon Qwen>=3.0, featuring Function Callin
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[morluto-rea]] [[cathrynlavery-diagram-design]] [[pytorch-pytorch]]
+[[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[bilawalsidhu-gods-eye-view]] [[pytorch-pytorch]]
 
 **所属领域**: [[ai-agent]] [[web]] [[erp]]
 

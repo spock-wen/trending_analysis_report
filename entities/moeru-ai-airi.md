@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[morluto-rea]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]]
+[[open-webui-open-webui]] [[huggingface-transformers]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

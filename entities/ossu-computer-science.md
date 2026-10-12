@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[bilawalsidhu-gods-eye-view]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[pkuflyingpig-cs-self-learning]] [[msitarzewski-agency-agents]]
+[[pkuflyingpig-cs-self-learning]] [[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[averygan-reclip]]
 
 **所属领域**: [[web]]
 

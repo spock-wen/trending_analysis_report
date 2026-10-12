@@ -37,7 +37,7 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 
 ## 相关项目
 
-[[morluto-rea]] [[cathrynlavery-diagram-design]] [[mattpocock-skills]] [[lyogavin-airllm]] [[mahlernim-google-timeline-visualizer]]
+[[andreknieriem-headunit-revived]] [[cathrynlavery-diagram-design]] [[embabel-embabel-agent]] [[lyogavin-airllm]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

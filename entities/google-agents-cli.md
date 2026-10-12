@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[getsentry-sentry]] [[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[morluto-rea]] [[cathrynlavery-diagram-design]]
+[[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[getsentry-sentry]] [[nvidia-model-optimizer]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

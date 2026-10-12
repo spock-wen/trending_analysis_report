@@ -35,7 +35,7 @@ Apache Ossie, industry wide specification effort to standardize how we exchange 
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[morluto-rea]] [[cathrynlavery-diagram-design]]
+[[open-webui-open-webui]] [[alibaba-open-code-review]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[bilawalsidhu-gods-eye-view]] [[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]]
+[[open-webui-open-webui]] [[alibaba-open-code-review]] [[hugohe3-ppt-master]] [[bilawalsidhu-gods-eye-view]] [[pytorch-pytorch]]
 
 **所属领域**: [[data]] [[science]]
 

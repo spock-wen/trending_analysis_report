@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[nvidia-openshell]] [[bilawalsidhu-gods-eye-view]] [[trycua-cua]] [[morluto-rea]]
+[[alibaba-open-code-review]] [[nvidia-openshell]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

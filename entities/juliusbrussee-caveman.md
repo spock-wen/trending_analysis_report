@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[rakyll-hey]] [[morluto-rea]] [[alibaba-open-code-review]] [[cathrynlavery-diagram-design]] [[mattpocock-skills]]
+[[alibaba-open-code-review]] [[cathrynlavery-diagram-design]] [[rakyll-hey]] [[alishahryar1-free-claude-code]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

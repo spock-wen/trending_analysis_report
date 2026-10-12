@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[chrislgarry-apollo-11]] [[pytorch-pytorch]] [[jamiepine-voicebox]]
+[[open-webui-open-webui]] [[huggingface-transformers]] [[hugohe3-ppt-master]] [[manaflow-ai-cmux]] [[pytorch-pytorch]]
 
 **所属领域**: [[cli]] [[audio]]
 

@@ -34,7 +34,7 @@ Vulnerability scanner written in Go which uses the data provided by https://osv.
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[rakyll-hey]] [[bilawalsidhu-gods-eye-view]] [[hugohe3-ppt-master]] [[alibaba-open-code-review]]
+[[open-webui-open-webui]] [[alibaba-open-code-review]] [[cathrynlavery-diagram-design]] [[juliusbrussee-caveman]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[web]] [[data]]
 

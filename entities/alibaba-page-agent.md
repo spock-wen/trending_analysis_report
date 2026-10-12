@@ -38,7 +38,7 @@ JavaScript in-page GUI agent. Control web interfaces with natural language.
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[morluto-rea]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]]
+[[open-webui-open-webui]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

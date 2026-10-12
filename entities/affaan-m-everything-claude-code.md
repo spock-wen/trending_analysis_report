@@ -34,7 +34,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[robbyant-lingbot-map]] [[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[bilawalsidhu-gods-eye-view]]
+[[duartesantos8-opengym]] [[cloudflare-security-audit-skill]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

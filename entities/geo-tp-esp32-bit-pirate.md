@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[firebase-firebase-ios-sdk]] [[bilawalsidhu-gods-eye-view]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[chrislgarry-apollo-11]]
+[[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[m-abozaid-esp32-c3-adblock]] [[bilawalsidhu-gods-eye-view]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[web]] [[cli]]
 

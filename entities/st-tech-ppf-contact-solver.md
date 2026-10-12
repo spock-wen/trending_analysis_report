@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[chrislgarry-apollo-11]] [[pytorch-pytorch]] [[mattpocock-skills]]
+[[open-webui-open-webui]] [[manaflow-ai-cmux]] [[pytorch-pytorch]] [[mattpocock-skills]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[cli]]
 

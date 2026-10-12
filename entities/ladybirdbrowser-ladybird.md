@@ -36,7 +36,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[firebase-firebase-ios-sdk]] [[bilawalsidhu-gods-eye-view]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[m-abozaid-esp32-c3-adblock]]
+[[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[m-abozaid-esp32-c3-adblock]] [[bilawalsidhu-gods-eye-view]] [[boykopovar-anyps5]]
 
 **所属领域**: [[web]]
 

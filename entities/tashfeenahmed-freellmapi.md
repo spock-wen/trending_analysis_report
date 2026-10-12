@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[nationalsecurityagency-ghidra]] [[mksglu-context-mode]] [[morluto-rea]]
+[[cloudflare-security-audit-skill]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

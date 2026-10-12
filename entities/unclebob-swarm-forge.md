@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[morluto-rea]] [[cathrynlavery-diagram-design]] [[mattpocock-skills]] [[lyogavin-airllm]] [[penpot-penpot]]
+[[cathrynlavery-diagram-design]] [[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[penpot-penpot]]
 
 **所属领域**: [[ai-agent]]
 

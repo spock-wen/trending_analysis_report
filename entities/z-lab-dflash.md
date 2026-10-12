@@ -36,7 +36,7 @@ DFlash: Block Diffusion for Flash Speculative Decoding
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[anthropics-knowledge-work-plugins]] [[trycua-cua]] [[tester-army-e2e]] [[pytorch-pytorch]]
+[[open-webui-open-webui]] [[tester-army-e2e]] [[actions-runner-images]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[image-gen]]
 

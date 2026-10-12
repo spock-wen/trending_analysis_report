@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[homebrew-brewui]] [[chrislgarry-apollo-11]] [[mattpocock-skills]] [[msitarzewski-agency-agents]]
+[[manaflow-ai-cmux]] [[mattpocock-skills]] [[alishahryar1-free-claude-code]] [[chrislgarry-apollo-11]] [[homebrew-brewui]]
 
 **所属领域**: [[cli]]
 

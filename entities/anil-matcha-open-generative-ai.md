@@ -38,7 +38,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[bilawalsidhu-gods-eye-view]] [[morluto-rea]] [[trycua-cua]] [[cathrynlavery-diagram-design]] [[tester-army-e2e]]
+[[duartesantos8-opengym]] [[cloudflare-security-audit-skill]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[actions-runner-images]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

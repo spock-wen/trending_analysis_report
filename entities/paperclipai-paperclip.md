@@ -38,7 +38,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[mksglu-context-mode]] [[morluto-rea]]
+[[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]] [[manaflow-ai-cmux]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

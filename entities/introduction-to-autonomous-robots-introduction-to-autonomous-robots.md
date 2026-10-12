@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[morluto-rea]] [[cathrynlavery-diagram-design]] [[mattpocock-skills]] [[lyogavin-airllm]] [[cs341-illinois-coursebook]]
+[[cathrynlavery-diagram-design]] [[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[cs341-illinois-coursebook]]
 
 **所属领域**: [[ai-agent]]
 

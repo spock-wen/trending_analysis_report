@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[jamwithai-production-agentic-rag-course]] [[rohitg00-ai-engineering-from-scratch]] [[huggingface-transformers]] [[tester-army-e2e]] [[thedotmack-claude-mem]]
+[[mksglu-context-mode]] [[huggingface-transformers]] [[jamwithai-production-agentic-rag-course]] [[thedotmack-claude-mem]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[education]]
 

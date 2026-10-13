@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[manaflow-ai-cmux]] [[mattpocock-skills]] [[lyogavin-airllm]] [[alishahryar1-free-claude-code]]
+[[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[mattpocock-skills]] [[vercel-labs-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

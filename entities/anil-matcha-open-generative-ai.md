@@ -38,7 +38,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[cloudflare-security-audit-skill]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[actions-runner-images]]
+[[addyosmani-agent-skills]] [[lyogavin-airllm]] [[fxembed-fxembed]] [[cloudflare-security-audit-skill]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

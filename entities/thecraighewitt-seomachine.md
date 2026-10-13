@@ -38,7 +38,7 @@ A specialized Claude Code workspace for creating long-form, SEO-optimized blog c
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[paperclipai-paperclip]] [[pytorch-pytorch]]
+[[lyogavin-airllm]] [[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[open-webui-open-webui]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

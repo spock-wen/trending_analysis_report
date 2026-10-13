@@ -36,7 +36,7 @@ Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni
 
 ## 相关项目
 
-[[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[getsentry-sentry]] [[nvidia-model-optimizer]] [[thedotmack-claude-mem]]
+[[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[oblien-openship]] [[xtool-org-xtool]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

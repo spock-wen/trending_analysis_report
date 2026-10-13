@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[jamwithai-production-agentic-rag-course]] [[rohitg00-ai-engineering-from-scratch]] [[huggingface-transformers]] [[tester-army-e2e]]
+[[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[huggingface-transformers]] [[jamwithai-production-agentic-rag-course]] [[open-webui-open-webui]]
 
 **所属领域**: [[web]] [[education]]
 

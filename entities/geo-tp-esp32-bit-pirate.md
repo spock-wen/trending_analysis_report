@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[m-abozaid-esp32-c3-adblock]] [[bilawalsidhu-gods-eye-view]] [[manaflow-ai-cmux]]
+[[boykopovar-anyps5]] [[alishahryar1-free-claude-code]] [[open-webui-open-webui]] [[bilawalsidhu-gods-eye-view]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[web]] [[cli]]
 

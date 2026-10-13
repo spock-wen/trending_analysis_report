@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[nvidia-openshell]] [[cathrynlavery-diagram-design]] [[paperclipai-paperclip]] [[affaan-m-ecc]] [[lyogavin-airllm]]
+[[lyogavin-airllm]] [[zhaoxuya520-reverse-skill]] [[mksglu-context-mode]] [[trycua-cua]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

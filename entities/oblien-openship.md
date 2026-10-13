@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[tester-army-e2e]] [[getsentry-sentry]] [[nvidia-model-optimizer]] [[thedotmack-claude-mem]] [[davila7-claude-code-templates]]
+[[mksglu-context-mode]] [[xtool-org-xtool]] [[thedotmack-claude-mem]] [[nvidia-model-optimizer]] [[vercel-labs-skills]]
 
 **所属领域**: [[devops]]
 

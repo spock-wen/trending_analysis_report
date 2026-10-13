@@ -37,7 +37,7 @@ Open source inference server that runs the best local models for your hardware, 
 
 ## 相关项目
 
-[[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]] [[manaflow-ai-cmux]] [[mattpocock-skills]]
+[[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[thedotmack-claude-mem]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

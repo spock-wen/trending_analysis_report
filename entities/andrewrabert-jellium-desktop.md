@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[nvidia-openshell]] [[manaflow-ai-cmux]] [[mattpocock-skills]] [[alishahryar1-free-claude-code]] [[storytold-artcraft]]
+[[alishahryar1-free-claude-code]] [[trycua-cua]] [[mattpocock-skills]] [[t8y2-dbx]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[cli]]
 

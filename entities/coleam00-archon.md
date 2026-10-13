@@ -38,7 +38,7 @@ The first open-source harness builder for AI coding. Make AI coding deterministi
 
 ## 相关项目
 
-[[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]] [[mksglu-context-mode]] [[alishahryar1-free-claude-code]]
+[[lyogavin-airllm]] [[mksglu-context-mode]] [[thedotmack-claude-mem]] [[cathrynlavery-diagram-design]] [[vercel-labs-skills]]
 
 **所属领域**: [[ai-agent]]
 

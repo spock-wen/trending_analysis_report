@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[open-webui-open-webui]] [[alibaba-open-code-review]] [[cloudflare-security-audit-skill]] [[cathrynlavery-diagram-design]]
+[[addyosmani-agent-skills]] [[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[cloudflare-security-audit-skill]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

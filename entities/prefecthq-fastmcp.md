@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[manaflow-ai-cmux]] [[pytorch-pytorch]] [[mattpocock-skills]]
+[[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[open-webui-open-webui]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

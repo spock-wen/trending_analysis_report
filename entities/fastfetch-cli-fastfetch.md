@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[epicgames-raddebugger]] [[manaflow-ai-cmux]] [[mattpocock-skills]] [[lyogavin-airllm]]
+[[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[epicgames-raddebugger]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

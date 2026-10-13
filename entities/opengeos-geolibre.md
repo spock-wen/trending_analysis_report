@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[alibaba-open-code-review]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]]
+[[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[open-webui-open-webui]] [[thedotmack-claude-mem]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[data]]
 

@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[rohitg00-ai-engineering-from-scratch]] [[huggingface-transformers]] [[cathrynlavery-diagram-design]] [[pytorch-pytorch]]
+[[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[huggingface-transformers]] [[open-webui-open-webui]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

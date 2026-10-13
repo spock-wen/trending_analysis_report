@@ -1,7 +1,7 @@
 ---
 title: "audio"
 created: 2026-05-31
-updated: 2026-10-13
+updated: 2026-10-14
 type: concept
 tags: [audio]
 confidence: medium
@@ -11,7 +11,7 @@ confidence: medium
 
 ## 领域项目（共 29 个，今日上榜 1 个）
 
-[[alishahryar1-free-claude-code]] [[hugohe3-ppt-master]] [[huggingface-transformers]] [[debpalash-voicestudio]] [[jamiepine-voicebox]] [[multimodal-art-projection-yue]] [[tonhowtf-omniget]] [[openbmb-voxcpm]] [[openwhispr-openwhispr]] [[osmantic-ods]] [[livekit-agents]] [[altic-dev-fluidvoice]] [[lightricks-ltx-2]] [[huggingface-speech-to-speech]] [[abus-aikorea-voice-pro]] [[moeru-ai-airi]] [[microsoft-vibevoice]] [[moonshine-ai-moonshine]] [[kyutai-labs-pocket-tts]] [[music-assistant-server]] [[open-llm-vtuber-open-llm-vtuber]] [[openmoss-moss-tts]] [[yt-dlp-yt-dlp]] [[supertone-inc-supertonic]] [[dograh-hq-dograh]] [[light-heart-labs-dreamserver]] [[fspecii-ace-step-ui]] [[jarrodwatts-claude-hud]] [[fishaudio-fish-speech]]
+[[debpalash-voicestudio]] [[alishahryar1-free-claude-code]] [[hugohe3-ppt-master]] [[huggingface-transformers]] [[jamiepine-voicebox]] [[multimodal-art-projection-yue]] [[tonhowtf-omniget]] [[openbmb-voxcpm]] [[openwhispr-openwhispr]] [[osmantic-ods]] [[livekit-agents]] [[altic-dev-fluidvoice]] [[lightricks-ltx-2]] [[huggingface-speech-to-speech]] [[abus-aikorea-voice-pro]] [[moeru-ai-airi]] [[microsoft-vibevoice]] [[moonshine-ai-moonshine]] [[kyutai-labs-pocket-tts]] [[music-assistant-server]] [[open-llm-vtuber-open-llm-vtuber]] [[openmoss-moss-tts]] [[yt-dlp-yt-dlp]] [[supertone-inc-supertonic]] [[dograh-hq-dograh]] [[light-heart-labs-dreamserver]] [[fspecii-ace-step-ui]] [[jarrodwatts-claude-hud]] [[fishaudio-fish-speech]]
 
 ## 语言分布
 

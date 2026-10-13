@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[jamwithai-production-agentic-rag-course]] [[rohitg00-ai-engineering-from-scratch]] [[huggingface-transformers]] [[pytorch-pytorch]]
+[[alishahryar1-free-claude-code]] [[huggingface-transformers]] [[jamwithai-production-agentic-rag-course]] [[open-webui-open-webui]] [[debpalash-voicestudio]]
 
 **所属领域**: [[education]]
 

@@ -37,7 +37,7 @@ A Claude Code plugin that shows what's happening - context usage, active tools, 
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[cloudflare-security-audit-skill]] [[huggingface-transformers]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]]
+[[addyosmani-agent-skills]] [[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[cloudflare-security-audit-skill]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

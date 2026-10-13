@@ -38,7 +38,7 @@ Clone any website with one command using AI coding agents
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]] [[bilawalsidhu-gods-eye-view]]
+[[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[open-webui-open-webui]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

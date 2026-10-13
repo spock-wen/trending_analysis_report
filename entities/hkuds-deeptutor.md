@@ -38,7 +38,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]]
+[[alishahryar1-free-claude-code]] [[open-webui-open-webui]] [[debpalash-voicestudio]] [[bilawalsidhu-gods-eye-view]] [[pytorch-pytorch]]
 
 **所属领域**: [[web]]
 

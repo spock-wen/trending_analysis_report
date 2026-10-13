@@ -1,20 +1,20 @@
 ---
 title: "vercel-labs/skills"
 created: 2026-04-23
-updated: 2026-09-11
-last_active: 2026-09-11
+updated: 2026-10-14
+last_active: 2026-10-14
 type: tool
 tags: [typescript, ai-agent]
-sources: [raw/trending/2026-09-11.json]
-confidence: medium
-trending_count_daily: 2
+sources: [raw/trending/2026-10-14.json]
+confidence: high
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-04-23
-last_trending: 2026-09-11
-peak_rank: 8
-total_stars: 31110
+last_trending: 2026-10-14
+peak_rank: 6
+total_stars: 34453
 language: "TypeScript"
 ---
 
@@ -23,19 +23,20 @@ language: "TypeScript"
 The open agent skills tool - npx skills
 
 - 语言: TypeScript
-- 上榜次数: 2 次
+- 上榜次数: 3 次
 - 连续上榜: 1 天
-- 最高排名: #8
+- 最高排名: #6
 - 链接: [vercel-labs/skills](https://github.com/vercel-labs/skills)
 
 ## 上榜历史
 
+  - 2026-10-14: #6, +187⭐
   - 2026-09-11: #15, +175⭐
   - 2026-04-23: #8, +317⭐
 
 ## 相关项目
 
-[[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]] [[mksglu-context-mode]] [[alishahryar1-free-claude-code]]
+[[lyogavin-airllm]] [[mksglu-context-mode]] [[thedotmack-claude-mem]] [[cathrynlavery-diagram-design]] [[morluto-rea]]
 
 **所属领域**: [[ai-agent]]
 

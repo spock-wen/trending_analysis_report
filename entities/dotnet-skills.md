@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[sonarr-sonarr]] [[k1tbyte-wand-enhancer]] [[cathrynlavery-diagram-design]] [[dotnet-aspnetcore]] [[alishahryar1-free-claude-code]]
+[[sonarr-sonarr]] [[lyogavin-airllm]] [[mksglu-context-mode]] [[jellyfin-jellyfin]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[ai-agent]]
 

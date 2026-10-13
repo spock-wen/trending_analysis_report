@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[actions-runner-images]] [[thedotmack-claude-mem]] [[mksglu-context-mode]]
+[[lyogavin-airllm]] [[fxembed-fxembed]] [[mksglu-context-mode]] [[trycua-cua]] [[actions-runner-images]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

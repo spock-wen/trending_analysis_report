@@ -37,7 +37,7 @@ Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[actions-runner-images]] [[pytorch-pytorch]]
+[[lyogavin-airllm]] [[fxembed-fxembed]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

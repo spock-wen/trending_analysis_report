@@ -35,7 +35,7 @@ Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[huggingface-transformers]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]]
+[[lyogavin-airllm]] [[fxembed-fxembed]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

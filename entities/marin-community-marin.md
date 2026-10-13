@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[paperclipai-paperclip]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[affaan-m-ecc]]
+[[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]] [[open-webui-open-webui]] [[debpalash-voicestudio]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[science]]
 

@@ -35,7 +35,7 @@ AI-assisted TradingView chart analysis — connect Claude Code to your TradingVi
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[cloudflare-security-audit-skill]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[lyogavin-airllm]]
+[[addyosmani-agent-skills]] [[lyogavin-airllm]] [[cloudflare-security-audit-skill]] [[mksglu-context-mode]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]]
 

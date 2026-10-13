@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]] [[affaan-m-ecc]]
+[[lyogavin-airllm]] [[zhaoxuya520-reverse-skill]] [[cloudflare-security-audit-skill]] [[mksglu-context-mode]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

@@ -38,7 +38,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[alibaba-open-code-review]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[bilawalsidhu-gods-eye-view]]
+[[lyogavin-airllm]] [[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[open-webui-open-webui]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

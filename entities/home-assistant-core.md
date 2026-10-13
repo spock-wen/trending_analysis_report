@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[cloudflare-security-audit-skill]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]] [[affaan-m-ecc]]
+[[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]] [[cloudflare-security-audit-skill]] [[open-webui-open-webui]] [[debpalash-voicestudio]]
 
 **所属领域**: [[security]]
 

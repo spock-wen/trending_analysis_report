@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]] [[bilawalsidhu-gods-eye-view]]
+[[lyogavin-airllm]] [[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[open-webui-open-webui]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

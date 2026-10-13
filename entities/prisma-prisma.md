@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[tester-army-e2e]] [[hugohe3-ppt-master]] [[actions-runner-images]] [[thedotmack-claude-mem]]
+[[fxembed-fxembed]] [[mksglu-context-mode]] [[trycua-cua]] [[actions-runner-images]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[data]] [[image-gen]]
 

@@ -38,5 +38,5 @@ A collective list of free APIs
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[alishahryar1-free-claude-code]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]]
+[[open-webui-open-webui]] [[alishahryar1-free-claude-code]] [[debpalash-voicestudio]] [[pytorch-pytorch]]
 

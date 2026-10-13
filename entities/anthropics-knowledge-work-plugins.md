@@ -38,7 +38,7 @@ Open source repository of plugins primarily intended for knowledge workers to us
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[pytorch-pytorch]] [[lyogavin-airllm]] [[alishahryar1-free-claude-code]]
+[[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[open-webui-open-webui]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]]
 

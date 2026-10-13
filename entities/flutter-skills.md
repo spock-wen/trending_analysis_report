@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[localsend-localsend]] [[lyogavin-airllm]] [[flutter-flutter]] [[alishahryar1-free-claude-code]]
+[[lyogavin-airllm]] [[localsend-localsend]] [[mksglu-context-mode]] [[vercel-labs-skills]] [[flutter-flutter]]
 
 **所属领域**: [[ai-agent]]
 

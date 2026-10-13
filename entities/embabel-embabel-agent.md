@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[andreknieriem-headunit-revived]] [[cathrynlavery-diagram-design]] [[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]]
+[[lyogavin-airllm]] [[andreknieriem-headunit-revived]] [[mksglu-context-mode]] [[mahlernim-google-timeline-visualizer]] [[vercel-labs-skills]]
 
 **所属领域**: [[ai-agent]]
 

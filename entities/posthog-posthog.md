@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[alibaba-open-code-review]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[getsentry-sentry]]
+[[lyogavin-airllm]] [[getsentry-sentry]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[open-webui-open-webui]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

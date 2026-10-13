@@ -37,7 +37,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[alibaba-open-code-review]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]]
+[[lyogavin-airllm]] [[fxembed-fxembed]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

@@ -34,7 +34,7 @@ Socket-based TS/JavaScript API for WhatsApp Web
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[open-webui-open-webui]] [[cloudflare-security-audit-skill]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]]
+[[addyosmani-agent-skills]] [[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[cloudflare-security-audit-skill]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

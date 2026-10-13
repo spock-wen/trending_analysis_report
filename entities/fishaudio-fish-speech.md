@@ -37,7 +37,7 @@ SOTA Open Source TTS
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[huggingface-transformers]] [[hugohe3-ppt-master]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]]
+[[alishahryar1-free-claude-code]] [[huggingface-transformers]] [[open-webui-open-webui]] [[debpalash-voicestudio]] [[pytorch-pytorch]]
 
 **所属领域**: [[audio]]
 

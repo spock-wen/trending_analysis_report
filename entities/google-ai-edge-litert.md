@@ -35,7 +35,7 @@ LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-p
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[getsentry-sentry]] [[m-abozaid-esp32-c3-adblock]] [[nvidia-model-optimizer]] [[davila7-claude-code-templates]]
+[[lyogavin-airllm]] [[boykopovar-anyps5]] [[mksglu-context-mode]] [[oblien-openship]] [[xtool-org-xtool]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

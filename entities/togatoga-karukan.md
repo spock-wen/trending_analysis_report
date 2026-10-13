@@ -34,5 +34,5 @@ Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engi
 
 ## 相关项目
 
-[[storytold-artcraft]] [[t8y2-dbx]] [[trycua-cua]] [[nvidia-openshell]]
+[[trycua-cua]] [[t8y2-dbx]] [[storytold-artcraft]] [[nvidia-openshell]]
 

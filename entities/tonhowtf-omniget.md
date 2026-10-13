@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[jamwithai-production-agentic-rag-course]] [[rohitg00-ai-engineering-from-scratch]] [[huggingface-transformers]] [[nvidia-openshell]] [[hugohe3-ppt-master]]
+[[alishahryar1-free-claude-code]] [[huggingface-transformers]] [[jamwithai-production-agentic-rag-course]] [[trycua-cua]] [[debpalash-voicestudio]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

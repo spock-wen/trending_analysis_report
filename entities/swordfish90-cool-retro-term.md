@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[manaflow-ai-cmux]] [[chrislgarry-apollo-11]] [[mattpocock-skills]]
+[[manaflow-ai-cmux]] [[chrislgarry-apollo-11]] [[alishahryar1-free-claude-code]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

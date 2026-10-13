@@ -35,7 +35,7 @@ DeepGEMM: clean and efficient BLAS kernel library on GPU
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[moonshotai-flashkda]]
+[[deepseek-ai-deepep]] [[lyogavin-airllm]] [[mksglu-context-mode]] [[vercel-labs-skills]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]]
 

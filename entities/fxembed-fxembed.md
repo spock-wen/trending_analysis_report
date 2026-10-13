@@ -34,7 +34,7 @@ Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translatio
 
 ## 相关项目
 
-[[tester-army-e2e]] [[actions-runner-images]] [[thedotmack-claude-mem]] [[mksglu-context-mode]] [[morluto-rea]]
+[[mksglu-context-mode]] [[trycua-cua]] [[actions-runner-images]] [[thedotmack-claude-mem]] [[vercel-labs-skills]]
 
 **所属领域**: [[image-gen]]
 

@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[manaflow-ai-cmux]] [[ever-co-ever-gauzy]]
+[[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[msitarzewski-agency-agents]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

@@ -36,7 +36,7 @@ Developer-first error tracking and performance monitoring
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[nvidia-model-optimizer]] [[pytorch-pytorch]] [[davila7-claude-code-templates]] [[oblien-openship]]
+[[alishahryar1-free-claude-code]] [[open-webui-open-webui]] [[xtool-org-xtool]] [[oblien-openship]] [[debpalash-voicestudio]]
 
 **所属领域**: [[devops]]
 

@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[huggingface-transformers]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]]
+[[lyogavin-airllm]] [[boykopovar-anyps5]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

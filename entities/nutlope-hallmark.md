@@ -38,7 +38,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[diolinux-photogimp]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[lyogavin-airllm]]
+[[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[open-webui-open-webui]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

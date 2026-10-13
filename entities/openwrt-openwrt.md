@@ -34,7 +34,7 @@ This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[epicgames-raddebugger]] [[bilawalsidhu-gods-eye-view]] [[alishahryar1-free-claude-code]]
+[[alishahryar1-free-claude-code]] [[epicgames-raddebugger]] [[open-webui-open-webui]] [[colbymchenry-codegraph]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]]
 

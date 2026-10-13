@@ -36,7 +36,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[jamwithai-production-agentic-rag-course]] [[rohitg00-ai-engineering-from-scratch]] [[huggingface-transformers]] [[pytorch-pytorch]]
+[[alishahryar1-free-claude-code]] [[huggingface-transformers]] [[jamwithai-production-agentic-rag-course]] [[open-webui-open-webui]] [[debpalash-voicestudio]]
 
 **所属领域**: [[education]]
 

@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[plausible-analytics]] [[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]]
+[[lyogavin-airllm]] [[teslamate-org-teslamate]] [[plausible-analytics]] [[mksglu-context-mode]] [[vercel-labs-skills]]
 
 **所属领域**: [[ai-agent]]
 

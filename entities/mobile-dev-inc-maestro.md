@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[andreknieriem-headunit-revived]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[embabel-embabel-agent]]
+[[lyogavin-airllm]] [[andreknieriem-headunit-revived]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[mahlernim-google-timeline-visualizer]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

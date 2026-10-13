@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[open-webui-open-webui]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[actions-runner-images]]
+[[fxembed-fxembed]] [[alishahryar1-free-claude-code]] [[ripienaar-free-for-dev]] [[trycua-cua]] [[open-webui-open-webui]]
 
 **所属领域**: [[web]] [[image-gen]]
 

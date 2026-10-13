@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[jamwithai-production-agentic-rag-course]] [[rohitg00-ai-engineering-from-scratch]] [[cloudflare-security-audit-skill]] [[huggingface-transformers]]
+[[lyogavin-airllm]] [[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]] [[cloudflare-security-audit-skill]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[manaflow-ai-cmux]] [[mattpocock-skills]] [[rakyll-hey]]
+[[alishahryar1-free-claude-code]] [[juliusbrussee-caveman]] [[rakyll-hey]] [[mattpocock-skills]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ FlashKDA: high-performance Kimi Delta Attention kernels
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[deepseek-ai-deepgemm]]
+[[deepseek-ai-deepep]] [[lyogavin-airllm]] [[mksglu-context-mode]] [[deepseek-ai-deepgemm]] [[vercel-labs-skills]]
 
 **所属领域**: [[ai-agent]]
 

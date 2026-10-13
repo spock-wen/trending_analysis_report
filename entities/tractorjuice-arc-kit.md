@@ -34,7 +34,7 @@ Enterprise Architecture Governance & Vendor Procurement Toolkit
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[bilawalsidhu-gods-eye-view]]
+[[alishahryar1-free-claude-code]] [[ripienaar-free-for-dev]] [[open-webui-open-webui]] [[earthtojake-text-to-cad]] [[averygan-reclip]]
 
 **所属领域**: [[web]] [[erp]]
 

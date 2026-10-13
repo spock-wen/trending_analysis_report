@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[cathrynlavery-diagram-design]] [[rakyll-hey]] [[alishahryar1-free-claude-code]] [[lyogavin-airllm]]
+[[lyogavin-airllm]] [[mksglu-context-mode]] [[rakyll-hey]] [[vercel-labs-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

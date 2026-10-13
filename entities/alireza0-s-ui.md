@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[alibaba-open-code-review]] [[cathrynlavery-diagram-design]] [[juliusbrussee-caveman]] [[bilawalsidhu-gods-eye-view]]
+[[alishahryar1-free-claude-code]] [[juliusbrussee-caveman]] [[rakyll-hey]] [[open-webui-open-webui]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]]
 

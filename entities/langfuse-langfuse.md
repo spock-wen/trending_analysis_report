@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[getsentry-sentry]]
+[[lyogavin-airllm]] [[getsentry-sentry]] [[mksglu-context-mode]] [[oblien-openship]] [[xtool-org-xtool]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

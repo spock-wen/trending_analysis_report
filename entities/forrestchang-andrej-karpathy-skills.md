@@ -38,7 +38,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[cathrynlavery-diagram-design]]
+[[lyogavin-airllm]] [[cathrynlavery-diagram-design]] [[vercel-labs-skills]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]]
 

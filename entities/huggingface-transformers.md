@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[jamwithai-production-agentic-rag-course]] [[rohitg00-ai-engineering-from-scratch]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]]
+[[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[jamwithai-production-agentic-rag-course]] [[open-webui-open-webui]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

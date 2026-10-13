@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[tester-army-e2e]] [[hugohe3-ppt-master]] [[thedotmack-claude-mem]] [[ever-co-ever-gauzy]] [[earthtojake-text-to-cad]]
+[[mksglu-context-mode]] [[earthtojake-text-to-cad]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[vercel-labs-skills]]
 
 **所属领域**: [[erp]]
 

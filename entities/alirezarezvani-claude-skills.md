@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[manaflow-ai-cmux]] [[pytorch-pytorch]]
+[[open-webui-open-webui]] [[pytorch-pytorch]] [[debpalash-voicestudio]] [[robbyant-lingbot-map]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

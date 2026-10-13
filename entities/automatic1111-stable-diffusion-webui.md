@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[actions-runner-images]] [[bilawalsidhu-gods-eye-view]]
+[[fxembed-fxembed]] [[alishahryar1-free-claude-code]] [[trycua-cua]] [[open-webui-open-webui]] [[actions-runner-images]]
 
 **所属领域**: [[web]] [[image-gen]]
 

@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[diolinux-photogimp]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[actions-runner-images]]
+[[lyogavin-airllm]] [[fxembed-fxembed]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[tester-army-e2e]] [[thedotmack-claude-mem]] [[affaan-m-ecc]] [[mksglu-context-mode]]
+[[zhaoxuya520-reverse-skill]] [[cloudflare-security-audit-skill]] [[mksglu-context-mode]] [[thedotmack-claude-mem]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[security]]
 

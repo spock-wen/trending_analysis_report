@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-13 | 总页面：815
+> 最后更新：2026-10-14 | 总页面：816
 
 ## Entities
 
@@ -109,7 +109,7 @@
 - [[bigbodycobain-shadowbroker|Shadowbroker]] — Open-source intelligence for the global theater. Track every... 🆕
 - [[bigskysoftware-htmx|htmx]] — </> htmx - high power tools for HTML
 - [[bikini-exploitarium|exploitarium]] — A single archive of public exploit PoCs and vulnerability re... 🆕
-- [[bilawalsidhu-gods-eye-view|gods-eye-view]] — A spy satellite simulator in your browser, except the data i... 🆕
+- [[bilawalsidhu-gods-eye-view|gods-eye-view]] — A spy satellite simulator in your browser, except the data i... 🔥
 - [[biohub-esm|esm]] — No description
 - [[blader-humanizer|humanizer]] — Agent skill that removes signs of AI-generated writing from ... 🔥
 - [[blaizzy-mlx-vlm|mlx-vlm]] — MLX-VLM is a package for inference and fine-tuning of Vision...
@@ -201,7 +201,7 @@
 - [[davila7-claude-code-templates|claude-code-templates]] — CLI tool for configuring and monitoring Claude Code 🆕
 - [[dayuanjiang-next-ai-draw-io|next-ai-draw-io]] — A next.js web application that integrates AI capabilities wi...
 - [[dbt-labs-dbt-core|dbt-core]] — dbt enables data analysts and engineers to transform their d...
-- [[debpalash-voicestudio|VoiceStudio]] — VoiceStudio is the open-source, fully-local ElevenLabs alter... 🔥
+- [[debpalash-voicestudio|VoiceStudio]] — VoiceStudio is the open-source, fully-local ElevenLabs alter...
 - [[decolua-9router|9router]] — Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor... 🔥
 - [[deepfakes-faceswap|faceswap]] — Deepfakes Software For All
 - [[deepseek-ai-awesome-deepseek-agent|awesome-deepseek-agent]] — No description
@@ -440,7 +440,7 @@
 - [[lukilabs-craft-agents-oss|craft-agents-oss]] — No description 🆕
 - [[lum1104-understand-anything|Understand-Anything]] — Graphs that teach > graphs that impress. Turn any code into ... 🔥
 - [[luongnv89-claude-howto|claude-howto]] — A visual, example-driven guide to Claude Code — from basic c...
-- [[lyogavin-airllm|airllm]] — AirLLM 2.8T LLM inference with single 4GB GPU 🆕
+- [[lyogavin-airllm|airllm]] — AirLLM 2.8T LLM inference with single 4GB GPU 🔥
 - [[m-abozaid-esp32-c3-adblock|esp32-c3-adblock]] — Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 53...
 - [[macro-inc-macro|macro]] — Macro is a unified workspace for teams: email, chat, docs, t... 🔥
 - [[maderix-ane|ANE]] — Training neural networks on Apple Neural Engine via reverse-...
@@ -490,7 +490,7 @@
 - [[mikeroyal-self-hosting-guide|Self-Hosting-Guide]] — Self-Hosting Guide. Learn all about locally hosting (on prem...
 - [[mikumifa-bilitickerbuy|biliTickerBuy]] — b站会员购购票辅助工具
 - [[millionco-react-doctor|react-doctor]] — Your agent writes bad React. This catches it 🔥
-- [[mksglu-context-mode|context-mode]] — Context window optimization for AI coding agents. Sandboxes ...
+- [[mksglu-context-mode|context-mode]] — Context window optimization for AI coding agents. Sandboxes ... 🆕
 - [[mobile-dev-inc-maestro|Maestro]] — Painless E2E Automation for Mobile and Web
 - [[mobile-next-mobile-mcp|mobile-mcp]] — Model Context Protocol Server for Mobile Automation and Scra...
 - [[modelcontextprotocol-servers|servers]] — Model Context Protocol Servers
@@ -545,7 +545,7 @@
 - [[open-dev-society-openstock|OpenStock]] — OpenStock is an open-source alternative to expensive market ...
 - [[open-llm-vtuber-open-llm-vtuber|Open-LLM-VTuber]] — Talk to any LLM with hands-free voice interaction, voice int... 🔥
 - [[open-metadata-openmetadata|OpenMetadata]] — OpenMetadata is a unified metadata platform for data discove...
-- [[open-webui-open-webui|open-webui]] — User-friendly AI Interface (Supports Ollama, OpenAI API, ...... 🆕
+- [[open-webui-open-webui|open-webui]] — User-friendly AI Interface (Supports Ollama, OpenAI API, ......
 - [[openai-codex-plugin-cc|codex-plugin-cc]] — Use Codex from Claude Code to review code or delegate tasks. 🔥
 - [[openai-codex|codex]] — Lightweight coding agent that runs in your terminal 🆕
 - [[openai-openai-agents-python|openai-agents-python]] — A lightweight, powerful framework for multi-agent workflows 🆕
@@ -779,6 +779,7 @@
 - [[worldflowai-everything-claude-code|everything-claude-code]] — Claude Code toolkit - agents, commands, skills, rules, and h...
 - [[x1xhlol-system-prompts-and-models-of-ai-tools|system-prompts-and-models-of-ai-tools]] — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cu...
 - [[xbtlin-ai-berkshire|ai-berkshire]] — AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师... 🔥
+- [[xtool-org-xtool|xtool]] — Cross-platform Xcode replacement. Build and deploy iOS apps ... 🆕
 - [[yairm210-unciv|Unciv]] — Open-source Android/Desktop remake of Civ V
 - [[yeachan-heo-oh-my-codex|oh-my-codex]] — OmX - Oh My codeX: Your codex is not alone. Add hooks, agent...
 - [[yifanfeng97-hyper-extract|Hyper-Extract]] — Transform unstructured text into structured knowledge with L...

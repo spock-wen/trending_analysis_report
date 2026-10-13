@@ -37,7 +37,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[getsentry-sentry]] [[nvidia-model-optimizer]] [[thedotmack-claude-mem]]
+[[lyogavin-airllm]] [[mksglu-context-mode]] [[oblien-openship]] [[xtool-org-xtool]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

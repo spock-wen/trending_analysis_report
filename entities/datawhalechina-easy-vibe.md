@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[jamwithai-production-agentic-rag-course]] [[alibaba-open-code-review]] [[cloudflare-security-audit-skill]] [[huggingface-transformers]]
+[[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]] [[huggingface-transformers]] [[jamwithai-production-agentic-rag-course]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[data]] [[education]]
 

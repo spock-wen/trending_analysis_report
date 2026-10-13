@@ -38,5 +38,5 @@ Tool for automatic PS5 executables porting to Linux and Windows
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[m-abozaid-esp32-c3-adblock]] [[microsoft-bitnet]]
+[[m-abozaid-esp32-c3-adblock]] [[microsoft-bitnet]] [[tensorflow-tensorflow]]
 

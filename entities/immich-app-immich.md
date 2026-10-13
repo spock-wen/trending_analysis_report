@@ -38,5 +38,5 @@ High performance self-hosted photo and video management solution.
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[thedotmack-claude-mem]] [[morluto-rea]] [[tester-army-e2e]]
+[[vercel-labs-skills]] [[morluto-rea]] [[thedotmack-claude-mem]] [[mksglu-context-mode]]
 

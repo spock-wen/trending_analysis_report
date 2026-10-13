@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[cloudflare-security-audit-skill]] [[cathrynlavery-diagram-design]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]]
+[[lyogavin-airllm]] [[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]] [[cloudflare-security-audit-skill]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

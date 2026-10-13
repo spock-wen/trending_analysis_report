@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[manaflow-ai-cmux]]
+[[alishahryar1-free-claude-code]] [[ripienaar-free-for-dev]] [[open-webui-open-webui]] [[bilawalsidhu-gods-eye-view]] [[mattpocock-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

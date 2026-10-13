@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[averygan-reclip]]
+[[alishahryar1-free-claude-code]] [[ripienaar-free-for-dev]] [[open-webui-open-webui]] [[averygan-reclip]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]]
 

@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[affaan-m-ecc]] [[lyogavin-airllm]]
+[[addyosmani-agent-skills]] [[lyogavin-airllm]] [[zhaoxuya520-reverse-skill]] [[mksglu-context-mode]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[hugohe3-ppt-master]] [[getsentry-sentry]] [[nvidia-model-optimizer]] [[bilawalsidhu-gods-eye-view]]
+[[google-guava]] [[getsentry-sentry]] [[checkstyle-checkstyle]] [[oblien-openship]] [[xtool-org-xtool]]
 
 **所属领域**: [[data]] [[devops]]
 

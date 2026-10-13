@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[docusealco-docuseal]] [[cathrynlavery-diagram-design]] [[mksglu-context-mode]] [[alishahryar1-free-claude-code]] [[lyogavin-airllm]]
+[[lyogavin-airllm]] [[mksglu-context-mode]] [[vercel-labs-skills]] [[cathrynlavery-diagram-design]] [[docusealco-docuseal]]
 
 **所属领域**: [[ai-agent]]
 

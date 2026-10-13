@@ -35,7 +35,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[cathrynlavery-diagram-design]]
+[[lyogavin-airllm]] [[cathrynlavery-diagram-design]] [[vercel-labs-skills]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]]
 

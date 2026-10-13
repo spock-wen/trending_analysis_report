@@ -37,7 +37,7 @@ claude-red is a curated library of offensive security skills designed for the Cl
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[alibaba-open-code-review]] [[cloudflare-security-audit-skill]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]]
+[[open-webui-open-webui]] [[pytorch-pytorch]] [[cloudflare-security-audit-skill]] [[debpalash-voicestudio]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[security]]
 

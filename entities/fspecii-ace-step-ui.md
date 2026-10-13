@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[cloudflare-security-audit-skill]] [[huggingface-transformers]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]]
+[[addyosmani-agent-skills]] [[lyogavin-airllm]] [[fxembed-fxembed]] [[alishahryar1-free-claude-code]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[jamwithai-production-agentic-rag-course]] [[rohitg00-ai-engineering-from-scratch]] [[huggingface-transformers]] [[paperclipai-paperclip]]
+[[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]] [[huggingface-transformers]] [[jamwithai-production-agentic-rag-course]] [[open-webui-open-webui]]
 
 **所属领域**: [[education]] [[science]]
 

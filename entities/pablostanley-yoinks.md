@@ -35,7 +35,7 @@ yoink any video from your terminal. no shady ads.
 
 ## 相关项目
 
-[[tester-army-e2e]] [[thedotmack-claude-mem]] [[manaflow-ai-cmux]] [[mattpocock-skills]] [[mksglu-context-mode]]
+[[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[thedotmack-claude-mem]] [[mattpocock-skills]] [[vercel-labs-skills]]
 
 **所属领域**: [[cli]]
 

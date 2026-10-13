@@ -38,7 +38,7 @@ An autonomous agent for deep financial research
 
 ## 相关项目
 
-[[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]] [[paperclipai-paperclip]] [[affaan-m-ecc]]
+[[lyogavin-airllm]] [[zhaoxuya520-reverse-skill]] [[mksglu-context-mode]] [[thedotmack-claude-mem]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

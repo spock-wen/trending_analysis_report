@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[andreknieriem-headunit-revived]] [[cathrynlavery-diagram-design]] [[embabel-embabel-agent]] [[lyogavin-airllm]] [[alishahryar1-free-claude-code]]
+[[lyogavin-airllm]] [[andreknieriem-headunit-revived]] [[mksglu-context-mode]] [[mahlernim-google-timeline-visualizer]] [[vercel-labs-skills]]
 
 **所属领域**: [[ai-agent]]
 

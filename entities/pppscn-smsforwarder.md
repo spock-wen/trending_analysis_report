@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[andreknieriem-headunit-revived]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[embabel-embabel-agent]]
+[[andreknieriem-headunit-revived]] [[alishahryar1-free-claude-code]] [[mahlernim-google-timeline-visualizer]] [[open-webui-open-webui]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]]
 

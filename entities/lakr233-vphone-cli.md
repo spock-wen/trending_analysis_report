@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[mattpocock-skills]] [[alishahryar1-free-claude-code]] [[chrislgarry-apollo-11]] [[homebrew-brewui]]
+[[alishahryar1-free-claude-code]] [[xtool-org-xtool]] [[mattpocock-skills]] [[abue-ammar-tinycast]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[cli]]
 

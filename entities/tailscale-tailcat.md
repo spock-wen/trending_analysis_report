@@ -35,7 +35,7 @@ like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[cathrynlavery-diagram-design]] [[juliusbrussee-caveman]] [[hugohe3-ppt-master]] [[bilawalsidhu-gods-eye-view]]
+[[lyogavin-airllm]] [[mksglu-context-mode]] [[juliusbrussee-caveman]] [[rakyll-hey]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

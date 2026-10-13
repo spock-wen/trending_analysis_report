@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[cathrynlavery-diagram-design]] [[actions-runner-images]] [[manaflow-ai-cmux]] [[paperclipai-paperclip]]
+[[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[cloudflare-security-audit-skill]] [[mksglu-context-mode]] [[bwya77-vscode-dark-islands]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

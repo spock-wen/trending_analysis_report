@@ -34,7 +34,7 @@ Deliver web apps with confidence 🚀
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]] [[bilawalsidhu-gods-eye-view]]
+[[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[open-webui-open-webui]] [[thedotmack-claude-mem]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]]
 

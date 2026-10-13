@@ -38,5 +38,5 @@ Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, struct
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[alishahryar1-free-claude-code]] [[pytorch-pytorch]] [[anthropics-knowledge-work-plugins]]
+[[open-webui-open-webui]] [[alishahryar1-free-claude-code]] [[debpalash-voicestudio]] [[pytorch-pytorch]]
 

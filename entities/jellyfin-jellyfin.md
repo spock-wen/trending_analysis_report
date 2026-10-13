@@ -35,5 +35,5 @@ The Free Software Media System - Server Backend & API
 
 ## 相关项目
 
-[[dotnet-aspnetcore]] [[sonarr-sonarr]] [[k1tbyte-wand-enhancer]]
+[[sonarr-sonarr]] [[k1tbyte-wand-enhancer]] [[dotnet-aspnetcore]]
 

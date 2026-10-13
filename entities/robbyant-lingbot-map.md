@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[alibaba-open-code-review]] [[hugohe3-ppt-master]] [[bilawalsidhu-gods-eye-view]] [[pytorch-pytorch]]
+[[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]] [[open-webui-open-webui]] [[debpalash-voicestudio]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[data]] [[science]]
 

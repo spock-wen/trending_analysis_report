@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]] [[manaflow-ai-cmux]] [[bilawalsidhu-gods-eye-view]]
+[[lyogavin-airllm]] [[google-guava]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[checkstyle-checkstyle]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

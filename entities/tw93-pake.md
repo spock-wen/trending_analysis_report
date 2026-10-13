@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[nvidia-openshell]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[manaflow-ai-cmux]]
+[[alishahryar1-free-claude-code]] [[trycua-cua]] [[open-webui-open-webui]] [[bilawalsidhu-gods-eye-view]] [[mattpocock-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

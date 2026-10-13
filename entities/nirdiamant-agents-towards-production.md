@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[jamwithai-production-agentic-rag-course]] [[rohitg00-ai-engineering-from-scratch]] [[earthtojake-text-to-cad]] [[mksglu-context-mode]] [[alishahryar1-free-claude-code]]
+[[microsoft-ai-for-beginners]] [[tensorflow-tensorflow]] [[ever-co-ever-gauzy]] [[microsoft-generative-ai-for-beginners]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

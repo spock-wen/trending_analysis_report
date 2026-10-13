@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[cs341-illinois-coursebook]]
+[[lyogavin-airllm]] [[mksglu-context-mode]] [[vercel-labs-skills]] [[cathrynlavery-diagram-design]] [[cs341-illinois-coursebook]]
 
 **所属领域**: [[ai-agent]]
 

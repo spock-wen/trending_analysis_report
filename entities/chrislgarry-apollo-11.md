@@ -38,7 +38,7 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[manaflow-ai-cmux]] [[mattpocock-skills]]
+[[manaflow-ai-cmux]] [[alishahryar1-free-claude-code]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

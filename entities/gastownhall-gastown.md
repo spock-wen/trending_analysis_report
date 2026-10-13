@@ -35,7 +35,7 @@ Gas Town - multi-agent workspace manager
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[cathrynlavery-diagram-design]] [[juliusbrussee-caveman]] [[rakyll-hey]] [[alishahryar1-free-claude-code]]
+[[lyogavin-airllm]] [[mksglu-context-mode]] [[juliusbrussee-caveman]] [[rakyll-hey]] [[vercel-labs-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[lakr233-vphone-cli]] [[huggingface-transformers]] [[cathrynlavery-diagram-design]] [[hugohe3-ppt-master]]
+[[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[lakr233-vphone-cli]] [[mksglu-context-mode]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

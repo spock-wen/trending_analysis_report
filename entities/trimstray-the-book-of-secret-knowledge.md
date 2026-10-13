@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[manaflow-ai-cmux]] [[mattpocock-skills]]
+[[alishahryar1-free-claude-code]] [[open-webui-open-webui]] [[bilawalsidhu-gods-eye-view]] [[mattpocock-skills]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[web]] [[cli]]
 

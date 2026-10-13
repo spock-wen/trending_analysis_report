@@ -37,7 +37,7 @@ No description
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]] [[lyogavin-airllm]] [[tensorflow-tensorflow]]
+[[lyogavin-airllm]] [[boykopovar-anyps5]] [[mksglu-context-mode]] [[tensorflow-tensorflow]] [[vercel-labs-skills]]
 
 **所属领域**: [[ai-agent]]
 

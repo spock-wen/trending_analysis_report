@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]]
+[[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[mksglu-context-mode]] [[microsoft-ai-for-beginners]] [[vercel-labs-skills]]
 
 **所属领域**: [[ai-agent]]
 

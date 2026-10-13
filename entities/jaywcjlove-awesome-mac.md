@@ -34,5 +34,5 @@ language: "Swift"
 
 ## 相关项目
 
-[[homebrew-brewui]] [[manaflow-ai-cmux]] [[lakr233-vphone-cli]] [[abue-ammar-tinycast]]
+[[xtool-org-xtool]] [[abue-ammar-tinycast]] [[lakr233-vphone-cli]] [[manaflow-ai-cmux]]
 

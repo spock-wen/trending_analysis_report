@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[tester-army-e2e]] [[cathrynlavery-diagram-design]] [[actions-runner-images]] [[paperclipai-paperclip]]
+[[lyogavin-airllm]] [[fxembed-fxembed]] [[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

@@ -37,7 +37,7 @@ Open source Ghostty-based macOS terminal with vertical tabs and notifications fo
 
 ## 相关项目
 
-[[lakr233-vphone-cli]] [[cathrynlavery-diagram-design]] [[mattpocock-skills]] [[lyogavin-airllm]] [[alishahryar1-free-claude-code]]
+[[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[lakr233-vphone-cli]] [[mksglu-context-mode]] [[xtool-org-xtool]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

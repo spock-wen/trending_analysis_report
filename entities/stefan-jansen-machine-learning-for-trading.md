@@ -35,7 +35,7 @@ Code for Machine Learning for Algorithmic Trading, 2nd edition.
 
 ## 相关项目
 
-[[jamwithai-production-agentic-rag-course]] [[rohitg00-ai-engineering-from-scratch]] [[huggingface-transformers]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]]
+[[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[huggingface-transformers]] [[jamwithai-production-agentic-rag-course]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[education]]
 

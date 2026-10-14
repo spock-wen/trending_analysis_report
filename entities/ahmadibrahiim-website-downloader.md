@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[fxembed-fxembed]] [[alishahryar1-free-claude-code]] [[ripienaar-free-for-dev]] [[trycua-cua]] [[open-webui-open-webui]]
+[[pkuflyingpig-cs-self-learning]] [[ntdevlabs-tiny11builder]] [[alishahryar1-free-claude-code]] [[averygan-reclip]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[image-gen]]
 

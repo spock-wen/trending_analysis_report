@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[andreknieriem-headunit-revived]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[mahlernim-google-timeline-visualizer]]
+[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[andreknieriem-headunit-revived]] [[bannedbook-fanqiang]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

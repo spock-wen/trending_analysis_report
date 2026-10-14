@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[fxembed-fxembed]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[trycua-cua]] [[open-webui-open-webui]]
+[[ntdevlabs-tiny11builder]] [[mksglu-context-mode]] [[alishahryar1-free-claude-code]] [[morluto-rea]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[web]] [[image-gen]]
 

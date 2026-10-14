@@ -35,7 +35,7 @@ An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶�
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[lyogavin-airllm]] [[cloudflare-security-audit-skill]] [[mksglu-context-mode]] [[bilawalsidhu-gods-eye-view]]
+[[duartesantos8-opengym]] [[addyosmani-agent-skills]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]]
 

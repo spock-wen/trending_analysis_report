@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[mksglu-context-mode]] [[vercel-labs-skills]] [[cathrynlavery-diagram-design]] [[cs341-illinois-coursebook]]
+[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[cs341-illinois-coursebook]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

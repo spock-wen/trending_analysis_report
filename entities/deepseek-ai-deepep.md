@@ -35,7 +35,7 @@ DeepEP: an efficient expert-parallel communication library
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[mksglu-context-mode]] [[deepseek-ai-deepgemm]] [[vercel-labs-skills]] [[cathrynlavery-diagram-design]]
+[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[deepseek-ai-deepgemm]] [[vxcontrol-pentagi]] [[moonshotai-flashkda]]
 
 **所属领域**: [[ai-agent]]
 

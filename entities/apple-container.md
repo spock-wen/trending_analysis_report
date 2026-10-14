@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[lakr233-vphone-cli]] [[mksglu-context-mode]] [[xtool-org-xtool]] [[vercel-labs-skills]]
+[[k-dense-ai-scientific-agent-skills]] [[manaflow-ai-cmux]] [[vxcontrol-pentagi]] [[mksglu-context-mode]] [[xtool-org-xtool]]
 
 **所属领域**: [[ai-agent]]
 

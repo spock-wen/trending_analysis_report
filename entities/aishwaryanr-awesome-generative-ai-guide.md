@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]] [[ripienaar-free-for-dev]] [[mksglu-context-mode]]
+[[pkuflyingpig-cs-self-learning]] [[k-dense-ai-scientific-agent-skills]] [[hkuds-cli-anything]] [[vxcontrol-pentagi]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

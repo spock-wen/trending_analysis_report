@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[pytorch-pytorch]] [[debpalash-voicestudio]] [[robbyant-lingbot-map]] [[ever-co-ever-gauzy]]
+[[nvm-sh-nvm]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]] [[mksglu-context-mode]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

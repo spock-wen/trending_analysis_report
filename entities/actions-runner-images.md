@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[fxembed-fxembed]] [[alishahryar1-free-claude-code]] [[bwya77-vscode-dark-islands]] [[trycua-cua]]
+[[ntdevlabs-tiny11builder]] [[nvm-sh-nvm]] [[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]] [[chrislgarry-apollo-11]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

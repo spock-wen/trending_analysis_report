@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]] [[open-webui-open-webui]] [[debpalash-voicestudio]] [[robbyant-lingbot-map]]
+[[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[ifixai-ai-ifixai]] [[paperclipai-paperclip]] [[hkuds-cli-anything]]
 
 **所属领域**: [[science]]
 

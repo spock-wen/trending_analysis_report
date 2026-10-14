@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[earthtojake-text-to-cad]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[vercel-labs-skills]]
+[[mksglu-context-mode]] [[obra-superpowers]] [[morluto-rea]] [[ever-co-ever-gauzy]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[erp]]
 

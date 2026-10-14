@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[msitarzewski-agency-agents]] [[obra-superpowers]] [[mattpocock-skills]] [[infinityloop1308-pipepipe]]
+[[nvm-sh-nvm]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[alishahryar1-free-claude-code]] [[chrislgarry-apollo-11]]
 
 **所属领域**: [[cli]]
 

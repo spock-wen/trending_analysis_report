@@ -35,7 +35,7 @@ Apache Superset is a Data Visualization and Data Exploration Platform
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[thedotmack-claude-mem]] [[bilawalsidhu-gods-eye-view]] [[robbyant-lingbot-map]] [[vercel-labs-skills]]
+[[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[morluto-rea]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[data]]
 

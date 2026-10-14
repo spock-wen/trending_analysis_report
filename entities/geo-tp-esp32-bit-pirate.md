@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[alishahryar1-free-claude-code]] [[open-webui-open-webui]] [[bilawalsidhu-gods-eye-view]] [[tensorflow-tensorflow]]
+[[bilawalsidhu-gods-eye-view]] [[nvm-sh-nvm]] [[tensorflow-tensorflow]] [[m-abozaid-esp32-c3-adblock]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[web]] [[cli]]
 

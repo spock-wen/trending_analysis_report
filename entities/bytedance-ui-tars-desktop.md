@@ -37,7 +37,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[mksglu-context-mode]] [[oblien-openship]] [[xtool-org-xtool]] [[thedotmack-claude-mem]]
+[[k-dense-ai-scientific-agent-skills]] [[oblien-openship]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

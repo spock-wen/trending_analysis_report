@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[plausible-analytics]] [[mksglu-context-mode]] [[bilawalsidhu-gods-eye-view]] [[robbyant-lingbot-map]]
+[[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[agentjido-jido]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[juliusbrussee-caveman]] [[rakyll-hey]] [[mattpocock-skills]] [[manaflow-ai-cmux]]
+[[nvm-sh-nvm]] [[caddyserver-caddy]] [[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[cli]]
 

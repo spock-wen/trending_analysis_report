@@ -34,7 +34,7 @@ qBittorrent BitTorrent client
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[alishahryar1-free-claude-code]] [[tensorflow-tensorflow]] [[mattpocock-skills]] [[microsoft-bitnet]]
+[[nvm-sh-nvm]] [[tensorflow-tensorflow]] [[m-abozaid-esp32-c3-adblock]] [[alishahryar1-free-claude-code]] [[chrislgarry-apollo-11]]
 
 **所属领域**: [[cli]]
 

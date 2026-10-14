@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[ripienaar-free-for-dev]] [[huggingface-transformers]] [[jamwithai-production-agentic-rag-course]] [[open-webui-open-webui]]
+[[rohitg00-ai-engineering-from-scratch]] [[tensorflow-tensorflow]] [[alishahryar1-free-claude-code]] [[averygan-reclip]] [[jamwithai-production-agentic-rag-course]]
 
 **所属领域**: [[web]] [[education]]
 

@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[sonarr-sonarr]] [[lyogavin-airllm]] [[mksglu-context-mode]] [[jellyfin-jellyfin]] [[dotnet-aspnetcore]]
+[[ntdevlabs-tiny11builder]] [[dotnet-aspnetcore]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]]
 

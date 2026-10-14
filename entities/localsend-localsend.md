@@ -35,7 +35,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[mksglu-context-mode]] [[cathrynlavery-diagram-design]] [[vercel-labs-skills]] [[flutter-flutter]]
+[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[flutter-skills]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]]
 

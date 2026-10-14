@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[open-webui-open-webui]] [[bilawalsidhu-gods-eye-view]] [[mattpocock-skills]] [[manaflow-ai-cmux]]
+[[nvm-sh-nvm]] [[alishahryar1-free-claude-code]] [[chrislgarry-apollo-11]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[cli]]
 

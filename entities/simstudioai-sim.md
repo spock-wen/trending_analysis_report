@@ -34,7 +34,7 @@ Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer 
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[mksglu-context-mode]] [[oblien-openship]] [[xtool-org-xtool]] [[thedotmack-claude-mem]]
+[[k-dense-ai-scientific-agent-skills]] [[oblien-openship]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

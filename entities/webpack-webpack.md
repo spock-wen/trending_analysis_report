@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[fxembed-fxembed]] [[alishahryar1-free-claude-code]] [[cloudflare-security-audit-skill]] [[trycua-cua]]
+[[duartesantos8-opengym]] [[ntdevlabs-tiny11builder]] [[addyosmani-agent-skills]] [[alishahryar1-free-claude-code]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[web]] [[image-gen]]
 

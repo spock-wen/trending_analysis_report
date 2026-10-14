@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[open-webui-open-webui]] [[earthtojake-text-to-cad]] [[debpalash-voicestudio]] [[obra-superpowers]]
+[[k-dense-ai-scientific-agent-skills]] [[obra-superpowers]] [[ifixai-ai-ifixai]] [[ever-co-ever-gauzy]] [[hkuds-cli-anything]]
 
 **所属领域**: [[erp]]
 

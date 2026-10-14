@@ -38,5 +38,5 @@ Kronos: A Foundation Model for the Language of Financial Markets
 
 ## 相关项目
 
-[[open-webui-open-webui]] [[alishahryar1-free-claude-code]] [[debpalash-voicestudio]] [[pytorch-pytorch]]
+[[ifixai-ai-ifixai]] [[k-dense-ai-scientific-agent-skills]] [[debpalash-voicestudio]] [[hkuds-cli-anything]]
 

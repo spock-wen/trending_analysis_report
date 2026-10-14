@@ -38,7 +38,7 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[mksglu-context-mode]] [[cathrynlavery-diagram-design]] [[vercel-labs-skills]] [[morluto-rea]]
+[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[morluto-rea]] [[vercel-labs-skills]]
 
 **所属领域**: [[ai-agent]]
 

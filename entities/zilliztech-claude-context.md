@@ -36,7 +36,7 @@ Code search MCP for Claude Code. Make entire codebase the context for any coding
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[mksglu-context-mode]] [[thedotmack-claude-mem]] [[cathrynlavery-diagram-design]] [[vercel-labs-skills]]
+[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[morluto-rea]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]]
 

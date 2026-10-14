@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[cloudflare-security-audit-skill]] [[trycua-cua]] [[nationalsecurityagency-ghidra]] [[t8y2-dbx]]
+[[nationalsecurityagency-ghidra]] [[nvidia-openshell]] [[affaan-m-ecc]] [[storytold-artcraft]] [[rust-lang-rust]]
 
 **所属领域**: [[security]]
 

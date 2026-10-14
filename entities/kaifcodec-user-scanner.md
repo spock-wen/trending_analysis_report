@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]] [[cloudflare-security-audit-skill]] [[mksglu-context-mode]]
+[[nationalsecurityagency-ghidra]] [[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

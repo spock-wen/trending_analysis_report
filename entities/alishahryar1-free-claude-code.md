@@ -16,7 +16,6 @@ last_trending: 2026-10-13
 peak_rank: 1
 total_stars: 59037
 language: "Python"
-contested: true
 ---
 
 # Alishahryar1/free-claude-code
@@ -39,17 +38,7 @@ Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for fre
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[mksglu-context-mode]] [[huggingface-transformers]] [[open-webui-open-webui]] [[debpalash-voicestudio]]
+[[nvm-sh-nvm]] [[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]] [[audio]]
-
-
-## ⚠️ 描述变更（2026-10-13）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
-- **新描述**: Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

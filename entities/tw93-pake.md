@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[trycua-cua]] [[open-webui-open-webui]] [[bilawalsidhu-gods-eye-view]] [[mattpocock-skills]]
+[[nvm-sh-nvm]] [[nvidia-openshell]] [[storytold-artcraft]] [[alishahryar1-free-claude-code]] [[rust-lang-rust]]
 
 **所属领域**: [[web]] [[cli]]
 

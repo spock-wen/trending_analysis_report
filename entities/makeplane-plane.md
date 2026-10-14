@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[thedotmack-claude-mem]] [[mattpocock-skills]] [[vercel-labs-skills]]
+[[nvm-sh-nvm]] [[mksglu-context-mode]] [[alishahryar1-free-claude-code]] [[morluto-rea]] [[chrislgarry-apollo-11]]
 
 **所属领域**: [[cli]]
 

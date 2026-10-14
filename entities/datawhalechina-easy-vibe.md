@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]] [[huggingface-transformers]] [[jamwithai-production-agentic-rag-course]] [[bilawalsidhu-gods-eye-view]]
+[[duartesantos8-opengym]] [[rohitg00-ai-engineering-from-scratch]] [[addyosmani-agent-skills]] [[k-dense-ai-scientific-agent-skills]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[data]] [[education]]
 

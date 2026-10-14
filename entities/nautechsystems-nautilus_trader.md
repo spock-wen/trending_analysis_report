@@ -34,5 +34,5 @@ A high-performance algorithmic trading platform and event-driven backtester
 
 ## 相关项目
 
-[[trycua-cua]] [[t8y2-dbx]] [[storytold-artcraft]] [[nvidia-openshell]]
+[[storytold-artcraft]] [[trycua-cua]] [[nvidia-openshell]] [[rust-lang-rust]]
 

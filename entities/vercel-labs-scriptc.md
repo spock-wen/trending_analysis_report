@@ -34,5 +34,5 @@ TypeScript-to-Native Compiler
 
 ## 相关项目
 
-[[vercel-labs-skills]] [[morluto-rea]] [[thedotmack-claude-mem]] [[mksglu-context-mode]]
+[[thedotmack-claude-mem]] [[vercel-labs-skills]] [[morluto-rea]] [[mksglu-context-mode]]
 

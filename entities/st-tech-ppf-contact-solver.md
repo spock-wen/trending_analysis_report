@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[open-webui-open-webui]] [[debpalash-voicestudio]] [[mattpocock-skills]] [[pytorch-pytorch]]
+[[nvm-sh-nvm]] [[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]] [[ifixai-ai-ifixai]] [[chrislgarry-apollo-11]]
 
 **所属领域**: [[cli]]
 

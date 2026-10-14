@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[fxembed-fxembed]] [[alishahryar1-free-claude-code]] [[trycua-cua]] [[open-webui-open-webui]] [[actions-runner-images]]
+[[ntdevlabs-tiny11builder]] [[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]] [[ifixai-ai-ifixai]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[image-gen]]
 

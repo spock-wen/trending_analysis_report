@@ -35,7 +35,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[cathrynlavery-diagram-design]] [[vercel-labs-skills]] [[mksglu-context-mode]]
+[[vxcontrol-pentagi]] [[mksglu-context-mode]] [[k-dense-ai-scientific-agent-skills]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

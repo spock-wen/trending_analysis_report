@@ -34,7 +34,7 @@ LLM inference in C/C++
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[boykopovar-anyps5]] [[mksglu-context-mode]] [[tensorflow-tensorflow]] [[vercel-labs-skills]]
+[[k-dense-ai-scientific-agent-skills]] [[tensorflow-tensorflow]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[m-abozaid-esp32-c3-adblock]]
 
 **所属领域**: [[ai-agent]]
 

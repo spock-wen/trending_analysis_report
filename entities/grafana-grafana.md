@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[getsentry-sentry]] [[mksglu-context-mode]] [[oblien-openship]] [[xtool-org-xtool]] [[thedotmack-claude-mem]]
+[[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[oblien-openship]] [[mksglu-context-mode]] [[getsentry-sentry]]
 
 **所属领域**: [[data]] [[devops]]
 

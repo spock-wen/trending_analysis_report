@@ -37,5 +37,5 @@ Empowering everyone to host fast and efficient Minecraft servers.
 
 ## 相关项目
 
-[[trycua-cua]] [[t8y2-dbx]] [[storytold-artcraft]] [[nvidia-openshell]]
+[[storytold-artcraft]] [[trycua-cua]] [[nvidia-openshell]] [[rust-lang-rust]]
 

@@ -35,7 +35,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[fxembed-fxembed]] [[alishahryar1-free-claude-code]] [[trycua-cua]] [[open-webui-open-webui]] [[actions-runner-images]]
+[[ntdevlabs-tiny11builder]] [[k-dense-ai-scientific-agent-skills]] [[ifixai-ai-ifixai]] [[trycua-cua]] [[hkuds-cli-anything]]
 
 **所属领域**: [[image-gen]]
 

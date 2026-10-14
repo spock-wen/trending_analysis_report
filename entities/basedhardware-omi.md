@@ -34,7 +34,7 @@ AI that sees your screen, listens to your conversations and tells you what to do
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[localsend-localsend]] [[mksglu-context-mode]] [[cathrynlavery-diagram-design]] [[vercel-labs-skills]]
+[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[flutter-skills]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]]
 

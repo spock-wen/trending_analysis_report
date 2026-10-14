@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[teslamate-org-teslamate]] [[plausible-analytics]] [[mksglu-context-mode]] [[vercel-labs-skills]]
+[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[plausible-analytics]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

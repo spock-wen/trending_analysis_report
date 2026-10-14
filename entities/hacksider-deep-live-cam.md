@@ -34,7 +34,7 @@ real time face swap and one-click video deepfake with only a single image
 
 ## 相关项目
 
-[[fxembed-fxembed]] [[alishahryar1-free-claude-code]] [[trycua-cua]] [[open-webui-open-webui]] [[actions-runner-images]]
+[[ntdevlabs-tiny11builder]] [[nvm-sh-nvm]] [[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]] [[ifixai-ai-ifixai]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

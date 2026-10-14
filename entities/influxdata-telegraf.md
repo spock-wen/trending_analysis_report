@@ -36,7 +36,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[mksglu-context-mode]] [[juliusbrussee-caveman]] [[rakyll-hey]] [[bilawalsidhu-gods-eye-view]]
+[[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[caddyserver-caddy]] [[mksglu-context-mode]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

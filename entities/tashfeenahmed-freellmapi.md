@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[zhaoxuya520-reverse-skill]] [[cloudflare-security-audit-skill]] [[mksglu-context-mode]] [[thedotmack-claude-mem]]
+[[nationalsecurityagency-ghidra]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

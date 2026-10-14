@@ -34,5 +34,5 @@ Telegram-iOS
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[abue-ammar-tinycast]] [[lakr233-vphone-cli]] [[manaflow-ai-cmux]]
+[[abue-ammar-tinycast]] [[xtool-org-xtool]] [[lakr233-vphone-cli]] [[manaflow-ai-cmux]]
 

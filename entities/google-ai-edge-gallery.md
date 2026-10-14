@@ -37,7 +37,7 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[andreknieriem-headunit-revived]] [[mksglu-context-mode]] [[mahlernim-google-timeline-visualizer]] [[vercel-labs-skills]]
+[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[andreknieriem-headunit-revived]] [[bannedbook-fanqiang]]
 
 **所属领域**: [[ai-agent]]
 

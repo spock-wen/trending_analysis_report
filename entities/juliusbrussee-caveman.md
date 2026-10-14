@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[mksglu-context-mode]] [[rakyll-hey]] [[vercel-labs-skills]] [[alibaba-open-code-review]]
+[[k-dense-ai-scientific-agent-skills]] [[caddyserver-caddy]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

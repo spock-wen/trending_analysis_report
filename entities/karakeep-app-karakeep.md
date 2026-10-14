@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[fxembed-fxembed]] [[mksglu-context-mode]] [[trycua-cua]] [[actions-runner-images]]
+[[ntdevlabs-tiny11builder]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[morluto-rea]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

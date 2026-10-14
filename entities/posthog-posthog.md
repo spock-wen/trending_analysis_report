@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[getsentry-sentry]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[open-webui-open-webui]]
+[[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]] [[mksglu-context-mode]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

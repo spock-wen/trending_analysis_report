@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[mksglu-context-mode]] [[epicgames-raddebugger]] [[colbymchenry-codegraph]] [[bilawalsidhu-gods-eye-view]]
+[[antirez-ds4]] [[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

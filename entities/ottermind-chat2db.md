@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[google-guava]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[checkstyle-checkstyle]]
+[[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]] [[yuliskov-smarttube]] [[google-guava]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

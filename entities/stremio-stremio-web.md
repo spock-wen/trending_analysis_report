@@ -35,7 +35,7 @@ Stremio - Freedom to Stream
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[alishahryar1-free-claude-code]] [[cloudflare-security-audit-skill]] [[open-webui-open-webui]] [[bilawalsidhu-gods-eye-view]]
+[[duartesantos8-opengym]] [[addyosmani-agent-skills]] [[alishahryar1-free-claude-code]] [[cloudflare-security-audit-skill]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]]
 

@@ -36,7 +36,7 @@ The open agent skills tool - npx skills
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[mksglu-context-mode]] [[thedotmack-claude-mem]] [[cathrynlavery-diagram-design]] [[morluto-rea]]
+[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[morluto-rea]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]]
 

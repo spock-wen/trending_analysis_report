@@ -34,7 +34,7 @@ HTTP load generator, ApacheBench (ab) replacement
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[juliusbrussee-caveman]] [[open-webui-open-webui]] [[bilawalsidhu-gods-eye-view]] [[alibaba-open-code-review]]
+[[caddyserver-caddy]] [[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]]
 

@@ -36,7 +36,7 @@ Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[open-webui-open-webui]] [[debpalash-voicestudio]]
+[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[ifixai-ai-ifixai]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

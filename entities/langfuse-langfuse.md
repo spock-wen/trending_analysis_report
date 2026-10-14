@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[getsentry-sentry]] [[mksglu-context-mode]] [[oblien-openship]] [[xtool-org-xtool]]
+[[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[oblien-openship]] [[mksglu-context-mode]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

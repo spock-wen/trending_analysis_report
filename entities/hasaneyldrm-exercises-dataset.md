@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[ripienaar-free-for-dev]] [[mksglu-context-mode]] [[open-webui-open-webui]]
+[[pkuflyingpig-cs-self-learning]] [[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[hkuds-cli-anything]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

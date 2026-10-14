@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[mksglu-context-mode]] [[epicgames-raddebugger]] [[colbymchenry-codegraph]] [[willfaust-madeira]]
+[[antirez-ds4]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]]
 

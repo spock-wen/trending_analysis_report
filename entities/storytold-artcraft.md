@@ -38,5 +38,5 @@ ArtCraft is an intentional crafting engine for artists, designers, and filmmaker
 
 ## 相关项目
 
-[[trycua-cua]] [[t8y2-dbx]] [[nvidia-openshell]]
+[[trycua-cua]] [[nvidia-openshell]] [[rust-lang-rust]]
 

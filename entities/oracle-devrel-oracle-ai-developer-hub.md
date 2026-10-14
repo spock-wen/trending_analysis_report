@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[mksglu-context-mode]] [[microsoft-ai-for-beginners]] [[bilawalsidhu-gods-eye-view]]
+[[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]] [[mksglu-context-mode]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

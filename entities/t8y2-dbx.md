@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[alishahryar1-free-claude-code]] [[mksglu-context-mode]] [[trycua-cua]] [[bilawalsidhu-gods-eye-view]]
+[[nvm-sh-nvm]] [[hugohe3-ppt-master]] [[nvidia-openshell]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

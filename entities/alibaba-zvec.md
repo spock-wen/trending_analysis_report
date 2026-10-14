@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[bilawalsidhu-gods-eye-view]] [[tensorflow-tensorflow]] [[robbyant-lingbot-map]] [[microsoft-bitnet]]
+[[bilawalsidhu-gods-eye-view]] [[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[tensorflow-tensorflow]] [[m-abozaid-esp32-c3-adblock]]
 
 **所属领域**: [[data]]
 

@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]] [[cloudflare-security-audit-skill]] [[open-webui-open-webui]] [[debpalash-voicestudio]]
+[[nationalsecurityagency-ghidra]] [[k-dense-ai-scientific-agent-skills]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[ifixai-ai-ifixai]]
 
 **所属领域**: [[security]]
 

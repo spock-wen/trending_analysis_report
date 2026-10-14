@@ -34,7 +34,7 @@ Roo Code gives you a whole dev team of AI agents in your code editor.
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[mksglu-context-mode]] [[thedotmack-claude-mem]] [[cathrynlavery-diagram-design]] [[vercel-labs-skills]]
+[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[morluto-rea]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[fxembed-fxembed]] [[mksglu-context-mode]] [[actions-runner-images]] [[bilawalsidhu-gods-eye-view]]
+[[ntdevlabs-tiny11builder]] [[hugohe3-ppt-master]] [[nvidia-openshell]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

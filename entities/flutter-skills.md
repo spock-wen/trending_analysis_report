@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[localsend-localsend]] [[mksglu-context-mode]] [[vercel-labs-skills]] [[flutter-flutter]]
+[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[chen08209-flclash]] [[localsend-localsend]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[nutlope-hallmark]] [[open-webui-open-webui]] [[earthtojake-text-to-cad]] [[bilawalsidhu-gods-eye-view]]
+[[hugohe3-ppt-master]] [[obra-superpowers]] [[alishahryar1-free-claude-code]] [[nutlope-hallmark]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[web]] [[erp]]
 

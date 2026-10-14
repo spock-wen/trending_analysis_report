@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[alishahryar1-free-claude-code]] [[open-webui-open-webui]] [[debpalash-voicestudio]] [[bilawalsidhu-gods-eye-view]]
+[[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[ifixai-ai-ifixai]] [[paperclipai-paperclip]]
 
 **所属领域**: [[data]] [[science]]
 

@@ -34,7 +34,7 @@ DevOps Interview Guide
 
 ## 相关项目
 
-[[oblien-openship]] [[xtool-org-xtool]] [[nvidia-model-optimizer]] [[getsentry-sentry]]
+[[xtool-org-xtool]] [[getsentry-sentry]] [[nvidia-model-optimizer]] [[oblien-openship]]
 
 **所属领域**: [[devops]]
 

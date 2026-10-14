@@ -35,5 +35,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]] [[bilawalsidhu-gods-eye-view]] [[duartesantos8-opengym]]
+[[duartesantos8-opengym]] [[bilawalsidhu-gods-eye-view]] [[cloudflare-security-audit-skill]] [[addyosmani-agent-skills]]
 

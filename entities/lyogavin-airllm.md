@@ -16,7 +16,6 @@ last_trending: 2026-10-14
 peak_rank: 1
 total_stars: 38290
 language: "Jupyter Notebook"
-contested: true
 ---
 
 # lyogavin/airllm
@@ -39,17 +38,7 @@ AirLLM 2.8T LLM inference with single 4GB GPU
 
 ## 相关项目
 
-[[higgsfield-ai-higgsfield]] [[mksglu-context-mode]] [[microsoft-ai-for-beginners]] [[vercel-labs-skills]] [[cathrynlavery-diagram-design]]
+[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[higgsfield-ai-higgsfield]] [[vxcontrol-pentagi]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
-
-
-## ⚠️ 描述变更（2026-10-13）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: AirLLM 70B inference with single 4GB GPU
-- **新描述**: AirLLM 2.8T LLM inference with single 4GB GPU
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

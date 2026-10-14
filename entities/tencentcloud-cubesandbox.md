@@ -37,7 +37,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[mksglu-context-mode]] [[trycua-cua]] [[vercel-labs-skills]] [[t8y2-dbx]]
+[[nvidia-openshell]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[storytold-artcraft]]
 
 **所属领域**: [[ai-agent]]
 

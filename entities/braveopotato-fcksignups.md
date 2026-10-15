@@ -36,7 +36,7 @@ A list of tools that are open-source, in-browser, and require no-signups!
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[alishahryar1-free-claude-code]] [[morluto-rea]] [[thedotmack-claude-mem]] [[vercel-labs-skills]]
+[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[mksglu-context-mode]] [[morluto-rea]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]]
 

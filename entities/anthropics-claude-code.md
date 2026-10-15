@@ -38,7 +38,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[alishahryar1-free-claude-code]]
+[[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

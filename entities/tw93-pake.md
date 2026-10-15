@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[nvidia-openshell]] [[storytold-artcraft]] [[alishahryar1-free-claude-code]] [[rust-lang-rust]]
+[[cathrynlavery-diagram-design]] [[trycua-cua]] [[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[cli]]
 

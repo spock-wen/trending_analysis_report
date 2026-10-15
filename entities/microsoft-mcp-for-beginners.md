@@ -34,7 +34,7 @@ This open-source curriculum introduces the fundamentals of Model Context Protoco
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[k-dense-ai-scientific-agent-skills]] [[tensorflow-tensorflow]] [[mksglu-context-mode]] [[higgsfield-ai-higgsfield]]
+[[lyogavin-airllm]] [[anthropics-claude-plugins-official]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

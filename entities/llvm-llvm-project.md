@@ -35,7 +35,7 @@ The LLVM Project is a collection of modular and reusable compiler and toolchain 
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[mksglu-context-mode]] [[k-dense-ai-scientific-agent-skills]] [[hkuds-cli-anything]]
+[[k-dense-ai-scientific-agent-skills]] [[obra-superpowers]] [[anthropics-claude-plugins-official]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

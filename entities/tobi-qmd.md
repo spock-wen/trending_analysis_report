@@ -35,7 +35,7 @@ mini cli search engine for your docs, knowledge bases, meeting notes, whatever. 
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[mksglu-context-mode]] [[alishahryar1-free-claude-code]] [[morluto-rea]] [[chrislgarry-apollo-11]]
+[[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]] [[mksglu-context-mode]] [[morluto-rea]]
 
 **所属领域**: [[cli]]
 

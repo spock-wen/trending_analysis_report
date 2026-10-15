@@ -34,7 +34,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[alishahryar1-free-claude-code]] [[ifixai-ai-ifixai]]
+[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

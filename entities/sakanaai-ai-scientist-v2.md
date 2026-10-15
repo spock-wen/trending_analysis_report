@@ -35,7 +35,7 @@ The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[obra-superpowers]]
+[[lightseekorg-tokenspeed]] [[earthtojake-text-to-cad]] [[anthropics-claude-plugins-official]] [[ever-co-ever-gauzy]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

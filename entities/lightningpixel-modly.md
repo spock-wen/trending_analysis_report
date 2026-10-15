@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[morluto-rea]]
+[[anthropics-claude-plugins-official]] [[trycua-cua]] [[obra-superpowers]] [[tester-army-e2e]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

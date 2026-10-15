@@ -35,5 +35,5 @@ language: "Python"
 
 ## 相关项目
 
-[[ifixai-ai-ifixai]] [[k-dense-ai-scientific-agent-skills]] [[debpalash-voicestudio]] [[hkuds-cli-anything]]
+[[lightseekorg-tokenspeed]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[debpalash-voicestudio]]
 

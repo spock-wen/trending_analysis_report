@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[obra-superpowers]] [[alishahryar1-free-claude-code]] [[nutlope-hallmark]] [[ever-co-ever-gauzy]]
+[[cathrynlavery-diagram-design]] [[earthtojake-text-to-cad]] [[ever-co-ever-gauzy]] [[conardli-garden-skills]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[erp]]
 

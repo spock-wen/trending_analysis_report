@@ -37,7 +37,7 @@ A Claude Code plugin that shows what's happening - context usage, active tools, 
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[addyosmani-agent-skills]] [[k-dense-ai-scientific-agent-skills]] [[hugohe3-ppt-master]] [[mksglu-context-mode]]
+[[anthropics-claude-plugins-official]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[bilawalsidhu-gods-eye-view]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

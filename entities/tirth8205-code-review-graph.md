@@ -38,7 +38,7 @@ Local-first code intelligence graph for MCP and CLI. Builds a persistent map of 
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[alishahryar1-free-claude-code]]
+[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

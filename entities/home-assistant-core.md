@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[k-dense-ai-scientific-agent-skills]] [[zhaoxuya520-reverse-skill]] [[affaan-m-ecc]] [[ifixai-ai-ifixai]]
+[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

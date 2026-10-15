@@ -37,7 +37,7 @@ Bash is all you need - A nano claude code–like 「agent harness」, built from
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[k-dense-ai-scientific-agent-skills]] [[tensorflow-tensorflow]] [[mksglu-context-mode]] [[vxcontrol-pentagi]]
+[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[tensorflow-tensorflow]] [[mksglu-context-mode]] [[morluto-rea]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -34,7 +34,7 @@ Agent-driven research knowledge base. Agents collect, search, and synthesize web
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[affaan-m-ecc]]
+[[lightseekorg-tokenspeed]] [[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

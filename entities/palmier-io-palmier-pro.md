@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[manaflow-ai-cmux]] [[vxcontrol-pentagi]] [[mksglu-context-mode]] [[xtool-org-xtool]]
+[[lakr233-vphone-cli]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[xtool-org-xtool]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

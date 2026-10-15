@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[morluto-rea]]
+[[anthropics-claude-plugins-official]] [[trycua-cua]] [[obra-superpowers]] [[tester-army-e2e]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

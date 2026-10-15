@@ -36,7 +36,7 @@ Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[alishahryar1-free-claude-code]]
+[[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

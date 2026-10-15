@@ -35,7 +35,7 @@ Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linu
 
 ## 相关项目
 
-[[oblien-openship]] [[manaflow-ai-cmux]] [[getsentry-sentry]] [[lakr233-vphone-cli]] [[nvidia-model-optimizer]]
+[[lakr233-vphone-cli]] [[oblien-openship]] [[getsentry-sentry]] [[abue-ammar-tinycast]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[devops]]
 

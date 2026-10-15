@@ -36,7 +36,7 @@ Open Source AI trading agent that operates autonomously across 1000+ markets - P
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[obra-superpowers]] [[morluto-rea]]
+[[earthtojake-text-to-cad]] [[anthropics-claude-plugins-official]] [[ever-co-ever-gauzy]] [[obra-superpowers]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

@@ -35,5 +35,5 @@ Easily and securely send things from one computer to another 🐊 📦
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[caddyserver-caddy]] [[juliusbrussee-caveman]]
+[[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[caddyserver-caddy]] [[alibaba-open-code-review]]
 

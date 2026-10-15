@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[k-dense-ai-scientific-agent-skills]] [[tensorflow-tensorflow]] [[mksglu-context-mode]] [[vxcontrol-pentagi]]
+[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[tensorflow-tensorflow]] [[jamwithai-production-agentic-rag-course]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

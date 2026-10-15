@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[manaflow-ai-cmux]] [[alishahryar1-free-claude-code]] [[chrislgarry-apollo-11]] [[xtool-org-xtool]]
+[[xerj-org-xerj]] [[obra-superpowers]] [[xtool-org-xtool]] [[hkuds-cli-anything]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[cli]]
 

@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[hkuds-cli-anything]] [[vxcontrol-pentagi]]
+[[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[averygan-reclip]] [[pkuflyingpig-cs-self-learning]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

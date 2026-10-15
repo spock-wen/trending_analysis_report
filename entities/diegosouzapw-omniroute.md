@@ -38,7 +38,7 @@ Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[alishahryar1-free-claude-code]]
+[[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

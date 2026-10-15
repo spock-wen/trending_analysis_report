@@ -34,7 +34,7 @@ Independent Auditing of AI Agents. Run by human or the agent itself, to answer t
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[hkuds-cli-anything]] [[debpalash-voicestudio]]
+[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

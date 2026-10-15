@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[plausible-analytics]] [[hkuds-cli-anything]]
+[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[plausible-analytics]] [[teslamate-org-teslamate]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

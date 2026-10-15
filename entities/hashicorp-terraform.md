@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[caddyserver-caddy]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[oblien-openship]]
+[[oblien-openship]] [[juliusbrussee-caveman]] [[anthropics-claude-plugins-official]] [[caddyserver-caddy]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

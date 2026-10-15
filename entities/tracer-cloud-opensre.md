@@ -34,7 +34,7 @@ Build your own AI SRE agents. The open source toolkit for the AI era ✨
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[ifixai-ai-ifixai]] [[hkuds-cli-anything]]
+[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

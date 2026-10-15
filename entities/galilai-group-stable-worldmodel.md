@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]] [[mksglu-context-mode]] [[vxcontrol-pentagi]]
+[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[trycua-cua]] [[obra-superpowers]] [[tester-army-e2e]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

@@ -34,7 +34,7 @@ Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[caddyserver-caddy]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[alibaba-open-code-review]]
+[[juliusbrussee-caveman]] [[anthropics-claude-plugins-official]] [[caddyserver-caddy]] [[vxcontrol-pentagi]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

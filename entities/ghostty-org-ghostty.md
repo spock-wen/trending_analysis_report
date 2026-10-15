@@ -34,7 +34,7 @@ language: "Zig"
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[nvm-sh-nvm]] [[alishahryar1-free-claude-code]] [[chrislgarry-apollo-11]] [[hkuds-cli-anything]]
+[[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]] [[nvm-sh-nvm]] [[lightpanda-io-browser]]
 
 **所属领域**: [[cli]]
 

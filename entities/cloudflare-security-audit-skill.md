@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[nationalsecurityagency-ghidra]] [[addyosmani-agent-skills]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]]
+[[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

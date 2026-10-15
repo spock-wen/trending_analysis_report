@@ -34,7 +34,7 @@ PowerShell for every system!
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[nvm-sh-nvm]] [[dotnet-aspnetcore]] [[sonarr-sonarr]] [[alishahryar1-free-claude-code]]
+[[dotnet-aspnetcore]] [[sonarr-sonarr]] [[xerj-org-xerj]] [[obra-superpowers]] [[k1tbyte-wand-enhancer]]
 
 **所属领域**: [[cli]]
 

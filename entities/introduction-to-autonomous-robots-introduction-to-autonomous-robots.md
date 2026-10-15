@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[cs341-illinois-coursebook]] [[hkuds-cli-anything]]
+[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[cs341-illinois-coursebook]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

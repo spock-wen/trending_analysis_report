@@ -36,17 +36,7 @@ Node Version Manager - POSIX-compliant bash script to manage multiple active nod
 
 ## 相关项目
 
-[[obra-superpowers]] [[msitarzewski-agency-agents]] [[alishahryar1-free-claude-code]] [[chrislgarry-apollo-11]] [[mattpocock-skills]]
+[[msitarzewski-agency-agents]] [[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
-
-
-## ⚠️ 描述变更（2026-10-15）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
-- **新描述**: Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

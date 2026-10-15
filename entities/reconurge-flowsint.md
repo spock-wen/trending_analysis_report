@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[mksglu-context-mode]] [[affaan-m-ecc]] [[morluto-rea]] [[cloudflare-security-audit-skill]]
+[[xerj-org-xerj]] [[mksglu-context-mode]] [[morluto-rea]] [[affaan-m-ecc]] [[vercel-labs-skills]]
 
 **所属领域**: [[security]]
 

@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[tensorflow-tensorflow]] [[mksglu-context-mode]] [[alishahryar1-free-claude-code]] [[morluto-rea]]
+[[cathrynlavery-diagram-design]] [[tensorflow-tensorflow]] [[hkuds-cli-anything]] [[mksglu-context-mode]] [[morluto-rea]]
 
 **所属领域**: [[web]] [[education]]
 

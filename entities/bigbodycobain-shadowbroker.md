@@ -35,7 +35,7 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]] [[mksglu-context-mode]] [[vxcontrol-pentagi]]
+[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[obra-superpowers]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

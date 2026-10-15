@@ -1,20 +1,20 @@
 ---
 title: "JuliusBrussee/caveman"
 created: 2026-07-03
-updated: 2026-10-04
-last_active: 2026-10-04
+updated: 2026-10-16
+last_active: 2026-10-16
 type: tool
 tags: [go, ai-agent]
-sources: [raw/trending/2026-10-04.json]
+sources: [raw/trending/2026-10-16.json]
 confidence: high
-trending_count_daily: 10
+trending_count_daily: 11
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 1
 first_trending: 2026-07-03
-last_trending: 2026-10-04
+last_trending: 2026-10-16
 peak_rank: 2
-total_stars: 109515
+total_stars: 112492
 language: "Go"
 ---
 
@@ -23,22 +23,22 @@ language: "Go"
 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 
 - 语言: Go
-- 上榜次数: 10 次
-- 连续上榜: 2 天
+- 上榜次数: 11 次
+- 连续上榜: 1 天
 - 最高排名: #2
 - 链接: [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
 
 ## 上榜历史
 
+  - 2026-10-16: #4, +530⭐
   - 2026-10-04: #5, +505⭐
   - 2026-10-03: #2, +271⭐
   - 2026-09-05: #8, +503⭐
   - 2026-09-04: #7, +545⭐
-  - 2026-09-03: #16, +234⭐
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[caddyserver-caddy]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[alibaba-open-code-review]]
+[[anthropics-claude-plugins-official]] [[caddyserver-caddy]] [[vxcontrol-pentagi]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

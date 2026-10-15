@@ -37,7 +37,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]] [[mksglu-context-mode]]
+[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[trycua-cua]] [[xerj-org-xerj]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

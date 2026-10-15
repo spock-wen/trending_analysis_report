@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]] [[mksglu-context-mode]] [[vxcontrol-pentagi]]
+[[lightseekorg-tokenspeed]] [[earthtojake-text-to-cad]] [[anthropics-claude-plugins-official]] [[ever-co-ever-gauzy]] [[xerj-org-xerj]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

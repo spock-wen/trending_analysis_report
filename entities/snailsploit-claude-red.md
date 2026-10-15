@@ -37,7 +37,7 @@ claude-red is a curated library of offensive security skills designed for the Cl
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[nvm-sh-nvm]] [[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]]
+[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[security]]
 

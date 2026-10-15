@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[caddyserver-caddy]] [[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[alishahryar1-free-claude-code]]
+[[cathrynlavery-diagram-design]] [[juliusbrussee-caveman]] [[caddyserver-caddy]] [[xerj-org-xerj]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[web]] [[cli]]
 

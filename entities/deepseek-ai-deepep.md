@@ -35,7 +35,7 @@ DeepEP: an efficient expert-parallel communication library
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[deepseek-ai-deepgemm]] [[vxcontrol-pentagi]] [[moonshotai-flashkda]]
+[[moonshotai-flashkda]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

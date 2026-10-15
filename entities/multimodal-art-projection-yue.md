@@ -37,7 +37,7 @@ YuE2: frontier music generation with symbolic planning, zero-shot covers, and ag
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[alishahryar1-free-claude-code]]
+[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[trycua-cua]] [[obra-superpowers]] [[tester-army-e2e]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

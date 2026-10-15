@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[tensorflow-tensorflow]] [[m-abozaid-esp32-c3-adblock]] [[alishahryar1-free-claude-code]] [[chrislgarry-apollo-11]]
+[[boykopovar-anyps5]] [[xerj-org-xerj]] [[m-abozaid-esp32-c3-adblock]] [[tensorflow-tensorflow]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

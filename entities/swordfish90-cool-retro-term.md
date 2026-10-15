@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[chrislgarry-apollo-11]] [[nvm-sh-nvm]] [[alishahryar1-free-claude-code]] [[hkuds-cli-anything]]
+[[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]] [[nvm-sh-nvm]]
 
 **所属领域**: [[cli]]
 

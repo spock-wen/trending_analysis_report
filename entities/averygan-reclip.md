@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[nvm-sh-nvm]] [[alishahryar1-free-claude-code]] [[chrislgarry-apollo-11]] [[cathrynlavery-diagram-design]]
+[[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]] [[pkuflyingpig-cs-self-learning]] [[xerj-org-xerj]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[cli]]
 

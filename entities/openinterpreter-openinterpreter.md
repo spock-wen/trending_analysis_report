@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[nvidia-openshell]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[obra-superpowers]]
+[[earthtojake-text-to-cad]] [[anthropics-claude-plugins-official]] [[ever-co-ever-gauzy]] [[trycua-cua]] [[xerj-org-xerj]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

@@ -35,5 +35,5 @@ bluetooth mesh chat, IRC vibes
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[xtool-org-xtool]] [[lakr233-vphone-cli]] [[manaflow-ai-cmux]]
+[[lakr233-vphone-cli]] [[xtool-org-xtool]] [[abue-ammar-tinycast]] [[manaflow-ai-cmux]]
 

@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]] [[ifixai-ai-ifixai]] [[trycua-cua]]
+[[lightseekorg-tokenspeed]] [[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[trycua-cua]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[image-gen]]
 

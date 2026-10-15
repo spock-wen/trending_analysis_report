@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[andreknieriem-headunit-revived]] [[bannedbook-fanqiang]]
+[[cathrynlavery-diagram-design]] [[andreknieriem-headunit-revived]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

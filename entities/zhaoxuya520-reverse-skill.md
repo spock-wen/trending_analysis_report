@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[nvm-sh-nvm]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]]
+[[bwya77-vscode-dark-islands]] [[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[cloudflare-security-audit-skill]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

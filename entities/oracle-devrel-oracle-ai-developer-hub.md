@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]] [[mksglu-context-mode]] [[higgsfield-ai-higgsfield]]
+[[lyogavin-airllm]] [[anthropics-claude-plugins-official]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[xerj-org-xerj]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

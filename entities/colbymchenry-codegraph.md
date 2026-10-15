@@ -38,7 +38,7 @@ Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
 
 ## 相关项目
 
-[[antirez-ds4]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[epicgames-raddebugger]]
+[[epicgames-raddebugger]] [[anthropics-claude-plugins-official]] [[antirez-ds4]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

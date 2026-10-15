@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[tensorflow-tensorflow]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[ifixai-ai-ifixai]]
+[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[tensorflow-tensorflow]] [[jamwithai-production-agentic-rag-course]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[mksglu-context-mode]] [[alishahryar1-free-claude-code]] [[morluto-rea]] [[thedotmack-claude-mem]]
+[[cathrynlavery-diagram-design]] [[trycua-cua]] [[hkuds-cli-anything]] [[mksglu-context-mode]] [[morluto-rea]]
 
 **所属领域**: [[web]] [[image-gen]]
 

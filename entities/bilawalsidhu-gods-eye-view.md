@@ -38,7 +38,7 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[addyosmani-agent-skills]] [[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]] [[cloudflare-security-audit-skill]]
+[[cathrynlavery-diagram-design]] [[xerj-org-xerj]] [[addyosmani-agent-skills]] [[hkuds-cli-anything]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[web]] [[data]]
 

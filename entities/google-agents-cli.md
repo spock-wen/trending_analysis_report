@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[k-dense-ai-scientific-agent-skills]] [[oblien-openship]] [[mksglu-context-mode]] [[vxcontrol-pentagi]]
+[[lightseekorg-tokenspeed]] [[oblien-openship]] [[anthropics-claude-plugins-official]] [[getsentry-sentry]] [[xerj-org-xerj]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

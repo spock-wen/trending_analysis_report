@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[rohitg00-ai-engineering-from-scratch]] [[k-dense-ai-scientific-agent-skills]] [[tensorflow-tensorflow]] [[mksglu-context-mode]]
+[[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[obra-superpowers]] [[tensorflow-tensorflow]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

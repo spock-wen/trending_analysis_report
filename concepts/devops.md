@@ -1,7 +1,7 @@
 ---
 title: "devops"
 created: 2026-06-27
-updated: 2026-10-15
+updated: 2026-10-16
 type: concept
 tags: [devops]
 confidence: medium
@@ -11,7 +11,7 @@ confidence: medium
 
 ## 领域项目（共 37 个，今日上榜 1 个）
 
-[[xtool-org-xtool]] [[getsentry-sentry]] [[oblien-openship]] [[nvidia-model-optimizer]] [[davila7-claude-code-templates]] [[cilium-cilium]] [[ruvnet-ruview]] [[peetzweg-opendisplay]] [[ruvnet-ruflo]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[tencent-ai-infra-guard]] [[semantica-agi-semantica]] [[litu54-devops-interview-guide]] [[uber-adr]] [[ansible-ansible]] [[apache-cassandra]] [[koala73-worldmonitor]] [[graphify-labs-graphify]] [[hashicorp-terraform]] [[argoproj-argo-cd]] [[safishamsi-graphify]] [[langflow-ai-langflow]] [[logto-io-logto]] [[google-agents-cli]] [[grafana-grafana]] [[bytedance-ui-tars-desktop]] [[danielmiessler-personal_ai_infrastructure]] [[nvidia-cosmos]] [[nirdiamant-agents-towards-production]] [[simstudioai-sim]] [[open-metadata-openmetadata]] [[langfuse-langfuse]] [[sansan0-trendradar]] [[microsoft-agent-framework]] [[google-ai-edge-litert]] [[promptfoo-promptfoo]]
+[[ruvnet-ruflo]] [[xtool-org-xtool]] [[getsentry-sentry]] [[oblien-openship]] [[nvidia-model-optimizer]] [[davila7-claude-code-templates]] [[cilium-cilium]] [[ruvnet-ruview]] [[peetzweg-opendisplay]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[tencent-ai-infra-guard]] [[semantica-agi-semantica]] [[litu54-devops-interview-guide]] [[uber-adr]] [[ansible-ansible]] [[apache-cassandra]] [[koala73-worldmonitor]] [[graphify-labs-graphify]] [[hashicorp-terraform]] [[argoproj-argo-cd]] [[safishamsi-graphify]] [[langflow-ai-langflow]] [[logto-io-logto]] [[google-agents-cli]] [[grafana-grafana]] [[bytedance-ui-tars-desktop]] [[danielmiessler-personal_ai_infrastructure]] [[nvidia-cosmos]] [[nirdiamant-agents-towards-production]] [[simstudioai-sim]] [[open-metadata-openmetadata]] [[langfuse-langfuse]] [[sansan0-trendradar]] [[microsoft-agent-framework]] [[google-ai-edge-litert]] [[promptfoo-promptfoo]]
 
 ## 语言分布
 

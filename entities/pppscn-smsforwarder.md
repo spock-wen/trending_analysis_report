@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[andreknieriem-headunit-revived]] [[bannedbook-fanqiang]] [[alishahryar1-free-claude-code]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]]
+[[cathrynlavery-diagram-design]] [[andreknieriem-headunit-revived]] [[hkuds-cli-anything]] [[mahlernim-google-timeline-visualizer]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]]
 

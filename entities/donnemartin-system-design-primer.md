@@ -36,7 +36,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[k-dense-ai-scientific-agent-skills]] [[tensorflow-tensorflow]] [[ifixai-ai-ifixai]] [[jamwithai-production-agentic-rag-course]]
+[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[tensorflow-tensorflow]] [[jamwithai-production-agentic-rag-course]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[education]]
 

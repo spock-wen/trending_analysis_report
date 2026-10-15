@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[affaan-m-ecc]] [[alishahryar1-free-claude-code]]
+[[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[hkuds-cli-anything]] [[mksglu-context-mode]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

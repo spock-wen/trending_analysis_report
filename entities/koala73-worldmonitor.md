@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[oblien-openship]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[getsentry-sentry]]
+[[oblien-openship]] [[anthropics-claude-plugins-official]] [[getsentry-sentry]] [[obra-superpowers]] [[xtool-org-xtool]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

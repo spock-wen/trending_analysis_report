@@ -35,5 +35,5 @@ A fast, helpful, and open-source document parser
 
 ## 相关项目
 
-[[storytold-artcraft]] [[trycua-cua]] [[nvidia-openshell]] [[rust-lang-rust]]
+[[xerj-org-xerj]] [[rust-lang-rust]] [[trycua-cua]] [[storytold-artcraft]]
 

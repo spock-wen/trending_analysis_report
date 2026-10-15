@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[cloudflare-security-audit-skill]]
+[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[bilawalsidhu-gods-eye-view]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

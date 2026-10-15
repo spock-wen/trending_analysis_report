@@ -34,7 +34,7 @@ Claude Desktop for Debian-based Linux distributions
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[k-dense-ai-scientific-agent-skills]] [[hkuds-cli-anything]] [[vxcontrol-pentagi]] [[obra-superpowers]]
+[[anthropics-claude-plugins-official]] [[msitarzewski-agency-agents]] [[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[nvidia-openshell]] [[storytold-artcraft]] [[alishahryar1-free-claude-code]] [[rust-lang-rust]]
+[[trycua-cua]] [[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]] [[rust-lang-rust]]
 
 **所属领域**: [[cli]]
 

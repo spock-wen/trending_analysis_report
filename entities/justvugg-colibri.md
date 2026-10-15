@@ -38,5 +38,5 @@ Run frontier MoE models on hardware you already own — pure C, zero deps, exper
 
 ## 相关项目
 
-[[antirez-ds4]] [[colbymchenry-codegraph]] [[willfaust-madeira]] [[epicgames-raddebugger]]
+[[epicgames-raddebugger]] [[colbymchenry-codegraph]] [[willfaust-madeira]] [[antirez-ds4]]
 

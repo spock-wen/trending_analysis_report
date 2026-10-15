@@ -35,5 +35,5 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[vercel-labs-skills]] [[morluto-rea]] [[mksglu-context-mode]]
+[[morluto-rea]] [[vercel-labs-skills]] [[ruvnet-ruflo]] [[mksglu-context-mode]]
 

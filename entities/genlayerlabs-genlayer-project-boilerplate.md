@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[obra-superpowers]] [[morluto-rea]] [[ever-co-ever-gauzy]] [[thedotmack-claude-mem]]
+[[earthtojake-text-to-cad]] [[ever-co-ever-gauzy]] [[obra-superpowers]] [[hugohe3-ppt-master]] [[mksglu-context-mode]]
 
 **所属领域**: [[erp]]
 

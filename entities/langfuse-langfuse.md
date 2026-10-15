@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[oblien-openship]] [[mksglu-context-mode]] [[vxcontrol-pentagi]]
+[[oblien-openship]] [[anthropics-claude-plugins-official]] [[getsentry-sentry]] [[xerj-org-xerj]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

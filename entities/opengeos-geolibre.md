@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[alishahryar1-free-claude-code]] [[morluto-rea]]
+[[cathrynlavery-diagram-design]] [[xerj-org-xerj]] [[hkuds-cli-anything]] [[mksglu-context-mode]] [[morluto-rea]]
 
 **所属领域**: [[web]] [[data]]
 

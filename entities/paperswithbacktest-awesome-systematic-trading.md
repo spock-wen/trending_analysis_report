@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[rohitg00-ai-engineering-from-scratch]] [[k-dense-ai-scientific-agent-skills]] [[tensorflow-tensorflow]] [[robbyant-lingbot-map]] [[affaan-m-ecc]]
+[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[tensorflow-tensorflow]] [[jamwithai-production-agentic-rag-course]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[education]] [[science]]
 

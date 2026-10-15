@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[ifixai-ai-ifixai]] [[paperclipai-paperclip]]
+[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[bilawalsidhu-gods-eye-view]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[data]] [[science]]
 

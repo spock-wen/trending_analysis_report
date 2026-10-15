@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[xtool-org-xtool]] [[nvidia-model-optimizer]] [[earthtojake-text-to-cad]] [[k-dense-ai-scientific-agent-skills]]
+[[lyogavin-airllm]] [[anthropics-claude-plugins-official]] [[getsentry-sentry]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[mksglu-context-mode]] [[alishahryar1-free-claude-code]] [[morluto-rea]] [[chrislgarry-apollo-11]]
+[[cathrynlavery-diagram-design]] [[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]] [[mksglu-context-mode]]
 
 **所属领域**: [[web]] [[cli]]
 

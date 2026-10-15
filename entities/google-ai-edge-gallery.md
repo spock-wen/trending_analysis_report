@@ -37,7 +37,7 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[andreknieriem-headunit-revived]] [[bannedbook-fanqiang]]
+[[andreknieriem-headunit-revived]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[mahlernim-google-timeline-visualizer]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

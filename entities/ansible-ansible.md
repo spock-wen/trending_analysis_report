@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[oblien-openship]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[alishahryar1-free-claude-code]]
+[[lightseekorg-tokenspeed]] [[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[getsentry-sentry]] [[oblien-openship]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

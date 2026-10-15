@@ -38,5 +38,5 @@ Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, struct
 
 ## 相关项目
 
-[[ifixai-ai-ifixai]] [[k-dense-ai-scientific-agent-skills]] [[debpalash-voicestudio]] [[hkuds-cli-anything]]
+[[lightseekorg-tokenspeed]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[debpalash-voicestudio]]
 

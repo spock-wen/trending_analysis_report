@@ -34,5 +34,5 @@ A list of developer portfolios for your inspiration
 
 ## 相关项目
 
-[[ifixai-ai-ifixai]] [[k-dense-ai-scientific-agent-skills]] [[debpalash-voicestudio]] [[hkuds-cli-anything]]
+[[lightseekorg-tokenspeed]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[debpalash-voicestudio]]
 

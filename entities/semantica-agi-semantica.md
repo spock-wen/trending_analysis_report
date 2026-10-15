@@ -38,7 +38,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[oblien-openship]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[getsentry-sentry]]
+[[lightseekorg-tokenspeed]] [[oblien-openship]] [[anthropics-claude-plugins-official]] [[getsentry-sentry]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

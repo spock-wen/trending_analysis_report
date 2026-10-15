@@ -35,7 +35,7 @@ ONNX Runtime: cross-platform, high performance ML inferencing and training accel
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[tensorflow-tensorflow]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[m-abozaid-esp32-c3-adblock]]
+[[boykopovar-anyps5]] [[anthropics-claude-plugins-official]] [[m-abozaid-esp32-c3-adblock]] [[tensorflow-tensorflow]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

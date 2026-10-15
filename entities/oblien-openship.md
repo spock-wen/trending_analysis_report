@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[getsentry-sentry]] [[morluto-rea]] [[xtool-org-xtool]] [[thedotmack-claude-mem]]
+[[getsentry-sentry]] [[xtool-org-xtool]] [[mksglu-context-mode]] [[morluto-rea]] [[vercel-labs-skills]]
 
 **所属领域**: [[devops]]
 

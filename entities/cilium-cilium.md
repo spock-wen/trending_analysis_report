@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[caddyserver-caddy]] [[oblien-openship]] [[vxcontrol-pentagi]] [[affaan-m-ecc]]
+[[oblien-openship]] [[juliusbrussee-caveman]] [[getsentry-sentry]] [[caddyserver-caddy]] [[xerj-org-xerj]]
 
 **所属领域**: [[devops]] [[security]]
 

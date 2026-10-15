@@ -36,7 +36,7 @@ Developer-first error tracking and performance monitoring
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[oblien-openship]] [[ifixai-ai-ifixai]] [[xtool-org-xtool]] [[nvidia-model-optimizer]]
+[[lightseekorg-tokenspeed]] [[oblien-openship]] [[anthropics-claude-plugins-official]] [[xtool-org-xtool]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[devops]]
 

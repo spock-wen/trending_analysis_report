@@ -37,7 +37,7 @@ The secure, validated skill registry for professional AI coding agents. Extend A
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[morluto-rea]] [[thedotmack-claude-mem]]
+[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[mksglu-context-mode]] [[morluto-rea]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

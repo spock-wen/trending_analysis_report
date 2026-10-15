@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[nvm-sh-nvm]] [[tensorflow-tensorflow]] [[zhaoxuya520-reverse-skill]] [[m-abozaid-esp32-c3-adblock]]
+[[boykopovar-anyps5]] [[xerj-org-xerj]] [[nationalsecurityagency-ghidra]] [[m-abozaid-esp32-c3-adblock]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[cli]] [[security]]
 

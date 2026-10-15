@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]] [[mksglu-context-mode]] [[vxcontrol-pentagi]]
+[[lightseekorg-tokenspeed]] [[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[getsentry-sentry]] [[oblien-openship]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

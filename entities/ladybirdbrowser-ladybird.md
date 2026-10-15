@@ -36,7 +36,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[bilawalsidhu-gods-eye-view]] [[tensorflow-tensorflow]] [[m-abozaid-esp32-c3-adblock]] [[alishahryar1-free-claude-code]] [[cathrynlavery-diagram-design]]
+[[boykopovar-anyps5]] [[cathrynlavery-diagram-design]] [[m-abozaid-esp32-c3-adblock]] [[tensorflow-tensorflow]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

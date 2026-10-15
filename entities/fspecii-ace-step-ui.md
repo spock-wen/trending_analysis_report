@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[ntdevlabs-tiny11builder]] [[addyosmani-agent-skills]] [[k-dense-ai-scientific-agent-skills]] [[hugohe3-ppt-master]]
+[[anthropics-claude-plugins-official]] [[trycua-cua]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

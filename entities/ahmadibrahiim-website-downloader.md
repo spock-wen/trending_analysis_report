@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[ntdevlabs-tiny11builder]] [[alishahryar1-free-claude-code]] [[averygan-reclip]] [[trycua-cua]]
+[[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]] [[trycua-cua]] [[averygan-reclip]] [[pkuflyingpig-cs-self-learning]]
 
 **所属领域**: [[web]] [[image-gen]]
 

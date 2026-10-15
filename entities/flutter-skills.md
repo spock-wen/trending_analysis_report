@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[chen08209-flclash]] [[localsend-localsend]]
+[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[flutter-flutter]] [[localsend-localsend]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

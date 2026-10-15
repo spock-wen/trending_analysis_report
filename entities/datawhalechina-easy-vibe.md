@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[rohitg00-ai-engineering-from-scratch]] [[addyosmani-agent-skills]] [[k-dense-ai-scientific-agent-skills]] [[hugohe3-ppt-master]]
+[[xerj-org-xerj]] [[addyosmani-agent-skills]] [[tensorflow-tensorflow]] [[bilawalsidhu-gods-eye-view]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[data]] [[education]]
 

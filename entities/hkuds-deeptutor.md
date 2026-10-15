@@ -38,7 +38,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]] [[ifixai-ai-ifixai]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]]
+[[lightseekorg-tokenspeed]] [[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]]
 

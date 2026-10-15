@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[zhaoxuya520-reverse-skill]]
+[[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[obra-superpowers]] [[mksglu-context-mode]] [[morluto-rea]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

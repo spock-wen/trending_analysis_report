@@ -37,7 +37,7 @@ Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[ifixai-ai-ifixai]]
+[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[trycua-cua]] [[obra-superpowers]] [[tester-army-e2e]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[k-dense-ai-scientific-agent-skills]] [[hkuds-cli-anything]] [[vxcontrol-pentagi]] [[mksglu-context-mode]]
+[[bwya77-vscode-dark-islands]] [[anthropics-claude-plugins-official]] [[zhaoxuya520-reverse-skill]] [[xerj-org-xerj]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

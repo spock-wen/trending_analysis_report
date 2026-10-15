@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[nvidia-openshell]] [[oblien-openship]] [[storytold-artcraft]] [[getsentry-sentry]] [[rust-lang-rust]]
+[[oblien-openship]] [[getsentry-sentry]] [[trycua-cua]] [[xerj-org-xerj]] [[xtool-org-xtool]]
 
 **所属领域**: [[devops]]
 

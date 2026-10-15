@@ -34,7 +34,7 @@ real time face swap and one-click video deepfake with only a single image
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[nvm-sh-nvm]] [[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]] [[ifixai-ai-ifixai]]
+[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[actions-runner-images]] [[trycua-cua]] [[xerj-org-xerj]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

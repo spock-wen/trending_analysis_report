@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[higgsfield-ai-higgsfield]] [[vxcontrol-pentagi]] [[microsoft-generative-ai-for-beginners]]
+[[lyogavin-airllm]] [[anthropics-claude-plugins-official]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

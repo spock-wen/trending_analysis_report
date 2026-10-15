@@ -38,7 +38,7 @@ An autonomous agent for deep financial research
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[mksglu-context-mode]] [[vxcontrol-pentagi]] [[affaan-m-ecc]] [[morluto-rea]]
+[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[mksglu-context-mode]] [[morluto-rea]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

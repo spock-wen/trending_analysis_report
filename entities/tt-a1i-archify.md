@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[duartesantos8-opengym]] [[addyosmani-agent-skills]] [[k-dense-ai-scientific-agent-skills]] [[hugohe3-ppt-master]] [[mksglu-context-mode]]
+[[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[addyosmani-agent-skills]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

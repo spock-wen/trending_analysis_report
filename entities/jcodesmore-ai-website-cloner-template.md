@@ -38,7 +38,7 @@ Clone any website with one command using AI coding agents
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]]
+[[mksglu-context-mode]] [[cursor-plugins]] [[k-dense-ai-scientific-agent-skills]] [[cathrynlavery-diagram-design]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

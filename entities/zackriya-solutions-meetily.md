@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[trycua-cua]] [[xerj-org-xerj]] [[obra-superpowers]]
+[[affaan-m-ecc]] [[alishahryar1-free-claude-code]] [[cloudflare-security-audit-skill]] [[k-dense-ai-scientific-agent-skills]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

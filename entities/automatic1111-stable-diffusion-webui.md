@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[trycua-cua]] [[hkuds-cli-anything]]
+[[madslorentzen-ai-job-search]] [[tester-army-e2e]] [[actions-runner-images]] [[k-dense-ai-scientific-agent-skills]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[image-gen]]
 

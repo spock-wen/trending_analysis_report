@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[caddyserver-caddy]] [[xerj-org-xerj]] [[vxcontrol-pentagi]] [[obra-superpowers]]
+[[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[nvm-sh-nvm]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[hkuds-cli-anything]] [[mksglu-context-mode]]
+[[debpalash-voicestudio]] [[mksglu-context-mode]] [[cursor-plugins]] [[k-dense-ai-scientific-agent-skills]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

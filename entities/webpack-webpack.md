@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[trycua-cua]] [[addyosmani-agent-skills]] [[hkuds-cli-anything]] [[bilawalsidhu-gods-eye-view]]
+[[affaan-m-ecc]] [[alishahryar1-free-claude-code]] [[tester-army-e2e]] [[actions-runner-images]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[image-gen]]
 

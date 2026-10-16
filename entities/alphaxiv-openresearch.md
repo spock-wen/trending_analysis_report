@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[trycua-cua]] [[xerj-org-xerj]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]]
+[[affaan-m-ecc]] [[paperclipai-paperclip]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

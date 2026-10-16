@@ -38,7 +38,7 @@ Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG 
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[obra-superpowers]] [[bilawalsidhu-gods-eye-view]]
+[[madslorentzen-ai-job-search]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[hugohe3-ppt-master]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

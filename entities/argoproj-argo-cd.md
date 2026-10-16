@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[oblien-openship]] [[juliusbrussee-caveman]] [[getsentry-sentry]] [[caddyserver-caddy]] [[vxcontrol-pentagi]]
+[[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[xtool-org-xtool]] [[ruvnet-ruflo]] [[getsentry-sentry]]
 
 **所属领域**: [[devops]]
 

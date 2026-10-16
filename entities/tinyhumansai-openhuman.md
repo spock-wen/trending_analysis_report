@@ -38,7 +38,7 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[trycua-cua]] [[xerj-org-xerj]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]]
+[[affaan-m-ecc]] [[paperclipai-paperclip]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

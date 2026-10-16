@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]]
+[[checkstyle-checkstyle]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]] [[google-guava]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

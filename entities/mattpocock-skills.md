@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[msitarzewski-agency-agents]] [[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]]
+[[msitarzewski-agency-agents]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[nvm-sh-nvm]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

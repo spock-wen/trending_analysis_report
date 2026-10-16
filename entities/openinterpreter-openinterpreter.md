@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[anthropics-claude-plugins-official]] [[ever-co-ever-gauzy]] [[trycua-cua]] [[xerj-org-xerj]]
+[[earthtojake-text-to-cad]] [[k-dense-ai-scientific-agent-skills]] [[trycua-cua]] [[ever-co-ever-gauzy]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

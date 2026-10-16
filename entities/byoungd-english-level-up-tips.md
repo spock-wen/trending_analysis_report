@@ -38,7 +38,7 @@ An advanced guide to learn English which might benefit you a lot 🎉 . 人生�
 
 ## 相关项目
 
-[[huggingface-transformers]] [[tensorflow-tensorflow]] [[ruvnet-ruflo]] [[jamwithai-production-agentic-rag-course]]
+[[ruvnet-ruflo]] [[jamwithai-production-agentic-rag-course]] [[tensorflow-tensorflow]] [[huggingface-transformers]]
 
 **所属领域**: [[education]]
 

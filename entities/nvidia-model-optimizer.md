@@ -36,7 +36,7 @@ A unified library of SOTA model optimization techniques like quantization, disti
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[oblien-openship]] [[anthropics-claude-plugins-official]] [[getsentry-sentry]] [[obra-superpowers]]
+[[madslorentzen-ai-job-search]] [[tensorflow-tensorflow]] [[k-dense-ai-scientific-agent-skills]] [[huggingface-transformers]] [[xtool-org-xtool]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

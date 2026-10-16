@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[oblien-openship]] [[getsentry-sentry]] [[trycua-cua]] [[xerj-org-xerj]] [[xtool-org-xtool]]
+[[trycua-cua]] [[oblien-openship]] [[xtool-org-xtool]] [[ruvnet-ruflo]] [[getsentry-sentry]]
 
 **所属领域**: [[devops]]
 

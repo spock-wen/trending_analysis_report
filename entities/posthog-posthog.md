@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[getsentry-sentry]] [[oblien-openship]]
+[[madslorentzen-ai-job-search]] [[k-dense-ai-scientific-agent-skills]] [[cathrynlavery-diagram-design]] [[oblien-openship]] [[xtool-org-xtool]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

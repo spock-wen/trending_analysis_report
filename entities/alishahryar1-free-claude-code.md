@@ -38,7 +38,7 @@ Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for fre
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[obra-superpowers]]
+[[debpalash-voicestudio]] [[madslorentzen-ai-job-search]] [[k-dense-ai-scientific-agent-skills]] [[cathrynlavery-diagram-design]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]] [[audio]]
 

@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[addyosmani-agent-skills]] [[tensorflow-tensorflow]] [[bilawalsidhu-gods-eye-view]] [[hugohe3-ppt-master]]
+[[affaan-m-ecc]] [[tensorflow-tensorflow]] [[k-dense-ai-scientific-agent-skills]] [[huggingface-transformers]] [[ruvnet-ruflo]]
 
 **所属领域**: [[data]] [[education]]
 

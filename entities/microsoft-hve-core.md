@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[bwya77-vscode-dark-islands]] [[anthropics-claude-plugins-official]] [[zhaoxuya520-reverse-skill]] [[xerj-org-xerj]] [[obra-superpowers]]
+[[raphire-win11debloat]] [[actions-runner-images]] [[k-dense-ai-scientific-agent-skills]] [[bwya77-vscode-dark-islands]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

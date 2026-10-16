@@ -35,7 +35,7 @@ An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶�
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[bilawalsidhu-gods-eye-view]] [[k-dense-ai-scientific-agent-skills]]
+[[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[hmjz100-linkswift]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]]
 

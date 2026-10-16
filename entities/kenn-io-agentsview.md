@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[anthropics-claude-plugins-official]] [[caddyserver-caddy]] [[xerj-org-xerj]] [[vxcontrol-pentagi]]
+[[alibaba-open-code-review]] [[k-dense-ai-scientific-agent-skills]] [[juliusbrussee-caveman]] [[anthropics-claude-plugins-official]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -38,7 +38,7 @@ The first open-source harness builder for AI coding. Make AI coding deterministi
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[mksglu-context-mode]] [[morluto-rea]] [[k-dense-ai-scientific-agent-skills]]
+[[mksglu-context-mode]] [[cursor-plugins]] [[k-dense-ai-scientific-agent-skills]] [[ruvnet-ruflo]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]]
 

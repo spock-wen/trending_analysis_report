@@ -1,20 +1,20 @@
 ---
 title: "MadsLorentzen/ai-job-search"
 created: 2026-07-08
-updated: 2026-08-27
-last_active: 2026-08-27
+updated: 2026-10-17
+last_active: 2026-10-17
 type: framework
 tags: [python, ai-agent]
-sources: [raw/trending/2026-08-27.json]
+sources: [raw/trending/2026-10-17.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-07-08
-last_trending: 2026-08-27
+last_trending: 2026-10-17
 peak_rank: 1
-total_stars: 36426
+total_stars: 48434
 language: "Python"
 ---
 
@@ -23,13 +23,14 @@ language: "Python"
 The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 
 - 语言: Python
-- 上榜次数: 4 次
+- 上榜次数: 5 次
 - 连续上榜: 1 天
 - 最高排名: #1
 - 链接: [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 
 ## 上榜历史
 
+  - 2026-10-17: #11, +879⭐
   - 2026-08-27: #5, +1299⭐
   - 2026-08-25: #3, +378⭐
   - 2026-07-10: #1, +3728⭐
@@ -37,7 +38,7 @@ The job search that runs on your machine. AI job application framework built on 
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]]
+[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

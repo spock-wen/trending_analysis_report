@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[actions-runner-images]] [[trycua-cua]] [[obra-superpowers]]
+[[diolinux-photogimp]] [[tester-army-e2e]] [[k-dense-ai-scientific-agent-skills]] [[actions-runner-images]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

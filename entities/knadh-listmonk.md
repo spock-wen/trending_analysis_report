@@ -34,7 +34,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[anthropics-claude-plugins-official]] [[caddyserver-caddy]] [[vxcontrol-pentagi]] [[obra-superpowers]]
+[[alibaba-open-code-review]] [[k-dense-ai-scientific-agent-skills]] [[juliusbrussee-caveman]] [[anthropics-claude-plugins-official]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]]
 

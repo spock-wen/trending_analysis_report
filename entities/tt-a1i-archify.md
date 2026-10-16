@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[addyosmani-agent-skills]] [[obra-superpowers]]
+[[affaan-m-ecc]] [[alishahryar1-free-claude-code]] [[k-dense-ai-scientific-agent-skills]] [[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

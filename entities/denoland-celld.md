@@ -35,5 +35,5 @@ self-hosted, distributed Durable Objects
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[rust-lang-rust]] [[trycua-cua]] [[storytold-artcraft]]
+[[trycua-cua]] [[storytold-artcraft]] [[xerj-org-xerj]] [[rust-lang-rust]]
 

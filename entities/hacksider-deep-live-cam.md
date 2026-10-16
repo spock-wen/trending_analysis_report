@@ -34,7 +34,7 @@ real time face swap and one-click video deepfake with only a single image
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[actions-runner-images]] [[trycua-cua]] [[xerj-org-xerj]]
+[[madslorentzen-ai-job-search]] [[tester-army-e2e]] [[actions-runner-images]] [[k-dense-ai-scientific-agent-skills]] [[trycua-cua]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

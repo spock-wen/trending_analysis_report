@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[anthropics-claude-plugins-official]] [[microsoft-ai-for-beginners]] [[obra-superpowers]] [[tensorflow-tensorflow]]
+[[tensorflow-tensorflow]] [[k-dense-ai-scientific-agent-skills]] [[microsoft-ai-for-beginners]] [[huggingface-transformers]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

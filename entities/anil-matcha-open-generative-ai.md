@@ -38,7 +38,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[trycua-cua]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[bilawalsidhu-gods-eye-view]]
+[[affaan-m-ecc]] [[tester-army-e2e]] [[actions-runner-images]] [[k-dense-ai-scientific-agent-skills]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

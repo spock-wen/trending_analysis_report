@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[hkuds-cli-anything]]
+[[madslorentzen-ai-job-search]] [[k-dense-ai-scientific-agent-skills]] [[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[web]] [[data]]
 

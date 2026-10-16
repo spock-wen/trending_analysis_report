@@ -38,7 +38,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[anthropics-claude-plugins-official]] [[caddyserver-caddy]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]]
+[[alibaba-open-code-review]] [[k-dense-ai-scientific-agent-skills]] [[juliusbrussee-caveman]] [[anthropics-claude-plugins-official]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

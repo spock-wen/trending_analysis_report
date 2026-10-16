@@ -36,5 +36,5 @@ Unofficial Bitwarden compatible server written in Rust, formerly known as bitwar
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[rust-lang-rust]] [[trycua-cua]] [[storytold-artcraft]]
+[[trycua-cua]] [[storytold-artcraft]] [[xerj-org-xerj]] [[rust-lang-rust]]
 

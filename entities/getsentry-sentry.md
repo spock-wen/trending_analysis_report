@@ -36,7 +36,7 @@ Developer-first error tracking and performance monitoring
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[oblien-openship]] [[anthropics-claude-plugins-official]] [[xtool-org-xtool]] [[k-dense-ai-scientific-agent-skills]]
+[[madslorentzen-ai-job-search]] [[k-dense-ai-scientific-agent-skills]] [[xtool-org-xtool]] [[ruvnet-ruflo]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[devops]]
 

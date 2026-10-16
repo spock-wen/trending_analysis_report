@@ -38,7 +38,7 @@ Give your agent CAD superpowers.
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[ever-co-ever-gauzy]] [[obra-superpowers]] [[hugohe3-ppt-master]]
+[[madslorentzen-ai-job-search]] [[k-dense-ai-scientific-agent-skills]] [[ever-co-ever-gauzy]] [[anthropics-claude-plugins-official]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[hugohe3-ppt-master]] [[mksglu-context-mode]] [[morluto-rea]]
+[[debpalash-voicestudio]] [[mksglu-context-mode]] [[cursor-plugins]] [[k-dense-ai-scientific-agent-skills]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

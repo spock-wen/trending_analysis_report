@@ -34,7 +34,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[addyosmani-agent-skills]] [[hkuds-cli-anything]] [[bilawalsidhu-gods-eye-view]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[alishahryar1-free-claude-code]] [[cathrynlavery-diagram-design]] [[hmjz100-linkswift]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]]
 

@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[averygan-reclip]] [[pkuflyingpig-cs-self-learning]]
+[[ripienaar-free-for-dev]] [[k-dense-ai-scientific-agent-skills]] [[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

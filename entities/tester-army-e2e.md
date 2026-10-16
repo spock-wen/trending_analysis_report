@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[trycua-cua]] [[hkuds-cli-anything]] [[mksglu-context-mode]] [[morluto-rea]]
+[[mksglu-context-mode]] [[actions-runner-images]] [[cursor-plugins]] [[trycua-cua]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[image-gen]]
 

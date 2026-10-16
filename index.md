@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-16 | 总页面：821
+> 最后更新：2026-10-17 | 总页面：823
 
 ## Entities
 
@@ -21,7 +21,7 @@
 - [[actions-runner-images|runner-images]] — GitHub Actions runner images
 - [[activeloopai-hivemind|hivemind]] — One brain for all your agents
 - [[addyosmani-agent-skills|agent-skills]] — Production-grade engineering skills for AI coding agents.
-- [[affaan-m-ecc|ECC]] — The agent harness performance optimization system. Skills, i...
+- [[affaan-m-ecc|ECC]] — The agent harness performance optimization system. Skills, i... 🆕
 - [[affaan-m-everything-claude-code|everything-claude-code]] — The agent harness performance optimization system. Skills, i...
 - [[agalwood-motrix|Motrix]] — A full-featured download manager. 🆕
 - [[agavra-tuicr|tuicr]] — a code review TUI with vim keybindings 🆕
@@ -59,6 +59,7 @@
 - [[andreknieriem-headunit-revived|headunit-revived]] — Headunit App for displaying Android Auto
 - [[andrewrabert-jellium-desktop|jellium-desktop]] — An unofficial desktop client for Jellyfin
 - [[andrewyng-aisuite|aisuite]] — Simple, unified interface to multiple Generative AI provider...
+- [[android-skills|skills]] — No description 🆕
 - [[androoagi-starnet|starnet]] — A living pixel-art station where real AI agents do real work...
 - [[andyyyy64-whichllm|whichllm]] — Find the local LLM that actually runs and performs best on y... 🆕
 - [[angular-angular|angular]] — Deliver web apps with confidence 🚀
@@ -72,7 +73,7 @@
 - [[anthropics-claude-code|claude-code]] — Claude Code is an agentic coding tool that lives in your ter...
 - [[anthropics-claude-cookbooks|claude-cookbooks]] — A collection of notebooks/recipes showcasing some fun and ef...
 - [[anthropics-claude-plugins-community|claude-plugins-community]] — Community plugin marketplace for Claude Cowork and Claude Co... 🔥
-- [[anthropics-claude-plugins-official|claude-plugins-official]] — Official, Anthropic-managed directory of high quality Claude...
+- [[anthropics-claude-plugins-official|claude-plugins-official]] — Official, Anthropic-managed directory of high quality Claude... 🆕
 - [[anthropics-cwc-workshops|cwc-workshops]] — No description
 - [[anthropics-financial-services|financial-services]] — No description 🔥
 - [[anthropics-knowledge-work-plugins|knowledge-work-plugins]] — Open source repository of plugins primarily intended for kno... 🔥
@@ -186,7 +187,7 @@
 - [[crynta-terax-ai|terax-ai]] — Lightweight (7MB) Terminal-first AI-native dev workspace
 - [[cs341-illinois-coursebook|coursebook]] — Open Source Introductory Systems Programming Textbook for th... 🆕
 - [[cupy-cupy|cupy]] — NumPy & SciPy for GPU 🆕
-- [[cursor-plugins|plugins]] — Cursor plugin specification and official plugins 🆕
+- [[cursor-plugins|plugins]] — Cursor plugin specification and official plugins
 - [[cypress-io-cypress|cypress]] — Fast, easy and reliable testing for anything that runs in a ...
 - [[czlonkowski-n8n-mcp|n8n-mcp]] — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor t...
 - [[d4vinci-scrapling|Scrapling]] — 🕷️ An adaptive Web Scraping framework that handles everythin... 🔥
@@ -334,6 +335,7 @@
 - [[hkuds-vibe-trading|Vibe-Trading]] — "Vibe-Trading: Your Personal Trading Agent" 🔥
 - [[hkuds-vimax|ViMax]] — "ViMax: Agentic Video Generation (Director, Screenwriter, Pr... 🆕
 - [[hmbown-deepseek-tui|DeepSeek-TUI]] — Coding agent for DeepSeek models that runs in your terminal 🔥
+- [[hmjz100-linkswift|LinkSwift]] — 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘... 🆕
 - [[holaboss-ai-holaos|holaOS]] — Open-source All in One AI agent workspace. Run any agent — C... 🆕
 - [[home-assistant-core|core]] — 🏡 Open source home automation that puts local control and pr... 🆕
 - [[homebrew-brewui|BrewUI]] — 📺 Homebrew's official macOS GUI
@@ -388,7 +390,7 @@
 - [[justvugg-colibri|colibri]] — Run frontier MoE models on hardware you already own — pure C... 🔥
 - [[jwasham-coding-interview-university|coding-interview-university]] — A complete computer science study plan to become a software ...
 - [[k-dense-ai-claude-scientific-skills|claude-scientific-skills]] — A set of ready to use Agent Skills for research, science, en... 🆕
-- [[k-dense-ai-scientific-agent-skills|scientific-agent-skills]] — Turn any AI agent into an AI Scientist. The #1 Agent Skills ... 🆕
+- [[k-dense-ai-scientific-agent-skills|scientific-agent-skills]] — Turn any AI agent into an AI Scientist. The #1 Agent Skills ... 🔥
 - [[k1tbyte-wand-enhancer|Wand-Enhancer]] — Advanced UX and interoperability extension for Wand (WeMod) ...
 - [[kaifcodec-user-scanner|user-scanner]] — 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data ex...
 - [[karakeep-app-karakeep|karakeep]] — A self-hostable bookmark-everything app (links, notes and im...
@@ -425,7 +427,7 @@
 - [[lightningpixel-modly|modly]] — Desktop app to generate 3D models from images or prompt usin... 🆕
 - [[lightpanda-io-browser|browser]] — Lightpanda: the headless browser designed for AI and automat...
 - [[lightricks-ltx-2|LTX-2]] — Official Python inference and LoRA trainer package for the L... 🆕
-- [[lightseekorg-tokenspeed|tokenspeed]] — TokenSpeed is a speed-of-light LLM inference engine. 🆕
+- [[lightseekorg-tokenspeed|tokenspeed]] — TokenSpeed is a speed-of-light LLM inference engine.
 - [[likec4-likec4|likec4]] — Visualize, collaborate, and evolve the software architecture... 🔥
 - [[lingfengqaq-webnovel-writer|webnovel-writer]] — 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级...
 - [[liquidslr-system-design-notes|system-design-notes]] — Notes of the book System Desgin Interview - An Insider's Gui...
@@ -538,7 +540,7 @@
 - [[nvlabs-sana|Sana]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
 - [[nvm-sh-nvm|nvm]] — Node Version Manager - POSIX-compliant bash script to manage...
 - [[oblien-openship|openship]] — Self-hosted deployment platform
-- [[obra-superpowers|superpowers]] — An agentic skills framework & software development methodolo...
+- [[obra-superpowers|superpowers]] — An agentic skills framework & software development methodolo... 🆕
 - [[ocornut-imgui|imgui]] — Dear ImGui: Bloat-free Graphical User interface for C++ with...
 - [[odoo-odoo|odoo]] — Odoo. Open Source Apps To Grow Your Business.
 - [[ogulcancelik-herdr|herdr]] — agent multiplexer that lives in your terminal. 🔥
@@ -642,7 +644,7 @@
 - [[rust-lang-rust|rust]] — Empowering everyone to build reliable and efficient software...
 - [[rustdesk-rustdesk|rustdesk]] — An open-source remote desktop application designed for self-...
 - [[rustfs-rustfs|rustfs]] — RustFS is an open-source, S3-compatible high-performance obj...
-- [[ruvnet-ruflo|ruflo]] — 🌊 The original agent harness. Deploy intelligent multi-playe...
+- [[ruvnet-ruflo|ruflo]] — 🌊 The original agent harness. Deploy intelligent multi-playe... 🆕
 - [[ruvnet-ruview|RuView]] — π RuView turns commodity WiFi signals into real-time spatial...
 - [[ryancodrai-turbovec|turbovec]] — A vector index built on TurboQuant, written in Rust with Pyt...
 - [[ryanmcdermott-clean-code-javascript|clean-code-javascript]] — Clean Code concepts adapted for JavaScript

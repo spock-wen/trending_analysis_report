@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[obra-superpowers]] [[bilawalsidhu-gods-eye-view]] [[hugohe3-ppt-master]]
+[[tester-army-e2e]] [[actions-runner-images]] [[k-dense-ai-scientific-agent-skills]] [[ntdevlabs-tiny11builder]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

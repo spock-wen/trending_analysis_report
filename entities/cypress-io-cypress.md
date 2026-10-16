@@ -37,7 +37,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[mksglu-context-mode]] [[morluto-rea]] [[bilawalsidhu-gods-eye-view]]
+[[mksglu-context-mode]] [[cursor-plugins]] [[cathrynlavery-diagram-design]] [[ruvnet-ruflo]] [[morluto-rea]]
 
 **所属领域**: [[web]]
 

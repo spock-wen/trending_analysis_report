@@ -38,7 +38,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[obra-superpowers]] [[bilawalsidhu-gods-eye-view]]
+[[checkstyle-checkstyle]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]] [[google-guava]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

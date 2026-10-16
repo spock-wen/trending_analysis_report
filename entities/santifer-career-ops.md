@@ -38,7 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[bilawalsidhu-gods-eye-view]]
+[[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[nvm-sh-nvm]] [[xerj-org-xerj]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

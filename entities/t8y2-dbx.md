@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[trycua-cua]] [[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]]
+[[k-dense-ai-scientific-agent-skills]] [[trycua-cua]] [[anthropics-claude-plugins-official]] [[nvm-sh-nvm]] [[storytold-artcraft]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

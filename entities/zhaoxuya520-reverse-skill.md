@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[bwya77-vscode-dark-islands]] [[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[cloudflare-security-audit-skill]] [[obra-superpowers]]
+[[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[raphire-win11debloat]] [[paperclipai-paperclip]] [[actions-runner-images]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

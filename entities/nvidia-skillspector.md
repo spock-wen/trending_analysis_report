@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]]
+[[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[madslorentzen-ai-job-search]] [[k-dense-ai-scientific-agent-skills]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

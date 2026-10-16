@@ -37,5 +37,5 @@ Create stunning demos for free. Open-source, no subscriptions, no watermarks, an
 
 ## 相关项目
 
-[[morluto-rea]] [[vercel-labs-skills]] [[ruvnet-ruflo]] [[mksglu-context-mode]]
+[[ruvnet-ruflo]] [[mksglu-context-mode]] [[morluto-rea]] [[cursor-plugins]]
 

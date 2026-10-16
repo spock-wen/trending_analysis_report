@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]] [[averygan-reclip]] [[pkuflyingpig-cs-self-learning]] [[hkuds-cli-anything]]
+[[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]] [[pkuflyingpig-cs-self-learning]] [[bilawalsidhu-gods-eye-view]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

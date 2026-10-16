@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[oblien-openship]] [[anthropics-claude-plugins-official]] [[getsentry-sentry]] [[obra-superpowers]]
+[[madslorentzen-ai-job-search]] [[k-dense-ai-scientific-agent-skills]] [[xtool-org-xtool]] [[ruvnet-ruflo]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

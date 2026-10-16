@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[tensorflow-tensorflow]] [[jamwithai-production-agentic-rag-course]] [[k-dense-ai-scientific-agent-skills]]
+[[affaan-m-ecc]] [[madslorentzen-ai-job-search]] [[tensorflow-tensorflow]] [[paperclipai-paperclip]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[education]] [[science]]
 

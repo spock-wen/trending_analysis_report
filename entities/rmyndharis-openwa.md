@@ -36,5 +36,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[morluto-rea]] [[vercel-labs-skills]] [[ruvnet-ruflo]] [[mksglu-context-mode]]
+[[ruvnet-ruflo]] [[mksglu-context-mode]] [[morluto-rea]] [[cursor-plugins]]
 

@@ -38,7 +38,7 @@ Hindsight: Agent Memory That Learns
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[tensorflow-tensorflow]] [[jamwithai-production-agentic-rag-course]]
+[[madslorentzen-ai-job-search]] [[tensorflow-tensorflow]] [[k-dense-ai-scientific-agent-skills]] [[huggingface-transformers]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

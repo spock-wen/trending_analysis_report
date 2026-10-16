@@ -37,7 +37,7 @@ A Claude Code plugin that shows what's happening - context usage, active tools, 
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[bilawalsidhu-gods-eye-view]] [[hugohe3-ppt-master]]
+[[affaan-m-ecc]] [[debpalash-voicestudio]] [[alishahryar1-free-claude-code]] [[k-dense-ai-scientific-agent-skills]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

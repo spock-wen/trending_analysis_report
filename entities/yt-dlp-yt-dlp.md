@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]]
+[[debpalash-voicestudio]] [[alishahryar1-free-claude-code]] [[madslorentzen-ai-job-search]] [[k-dense-ai-scientific-agent-skills]] [[huggingface-transformers]]
 
 **所属领域**: [[cli]] [[audio]]
 

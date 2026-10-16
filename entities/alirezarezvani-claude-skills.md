@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[earthtojake-text-to-cad]] [[anthropics-claude-plugins-official]] [[ever-co-ever-gauzy]] [[xerj-org-xerj]]
+[[affaan-m-ecc]] [[madslorentzen-ai-job-search]] [[earthtojake-text-to-cad]] [[paperclipai-paperclip]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

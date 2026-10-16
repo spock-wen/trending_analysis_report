@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[oblien-openship]] [[getsentry-sentry]] [[xerj-org-xerj]] [[ruvnet-ruflo]]
+[[checkstyle-checkstyle]] [[k-dense-ai-scientific-agent-skills]] [[oblien-openship]] [[google-guava]] [[xtool-org-xtool]]
 
 **所属领域**: [[data]] [[devops]]
 

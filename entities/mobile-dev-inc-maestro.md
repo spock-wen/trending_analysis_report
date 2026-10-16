@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[andreknieriem-headunit-revived]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[hkuds-cli-anything]]
+[[mahlernim-google-timeline-visualizer]] [[bannedbook-fanqiang]] [[k-dense-ai-scientific-agent-skills]] [[embabel-embabel-agent]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

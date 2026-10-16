@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[andreknieriem-headunit-revived]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[mahlernim-google-timeline-visualizer]] [[k-dense-ai-scientific-agent-skills]]
+[[mahlernim-google-timeline-visualizer]] [[bannedbook-fanqiang]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[android-skills]]
 
 **所属领域**: [[ai-agent]]
 

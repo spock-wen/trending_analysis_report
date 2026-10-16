@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[tensorflow-tensorflow]] [[k-dense-ai-scientific-agent-skills]]
+[[madslorentzen-ai-job-search]] [[tensorflow-tensorflow]] [[k-dense-ai-scientific-agent-skills]] [[huggingface-transformers]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

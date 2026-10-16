@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[ever-co-ever-gauzy]] [[obra-superpowers]] [[hugohe3-ppt-master]] [[mksglu-context-mode]]
+[[mksglu-context-mode]] [[earthtojake-text-to-cad]] [[cursor-plugins]] [[ever-co-ever-gauzy]] [[ruvnet-ruflo]]
 
 **所属领域**: [[erp]]
 

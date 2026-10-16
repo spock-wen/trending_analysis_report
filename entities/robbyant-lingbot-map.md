@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[bilawalsidhu-gods-eye-view]] [[hugohe3-ppt-master]]
+[[affaan-m-ecc]] [[madslorentzen-ai-job-search]] [[paperclipai-paperclip]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[data]] [[science]]
 

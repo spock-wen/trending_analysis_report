@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[caddyserver-caddy]] [[xerj-org-xerj]] [[vxcontrol-pentagi]] [[obra-superpowers]]
+[[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[nvm-sh-nvm]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

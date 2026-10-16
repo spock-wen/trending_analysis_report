@@ -34,7 +34,7 @@ Persistent file-based planning for AI coding agents and long-running agentic tas
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]]
+[[madslorentzen-ai-job-search]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[nvm-sh-nvm]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

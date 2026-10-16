@@ -36,7 +36,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[trycua-cua]] [[xerj-org-xerj]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]]
+[[k-dense-ai-scientific-agent-skills]] [[trycua-cua]] [[anthropics-claude-plugins-official]] [[storytold-artcraft]] [[rust-lang-rust]]
 
 **所属领域**: [[ai-agent]]
 

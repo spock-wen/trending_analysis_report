@@ -34,5 +34,5 @@ Empowering everyone to build reliable and efficient software.
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[trycua-cua]] [[storytold-artcraft]]
+[[trycua-cua]] [[storytold-artcraft]] [[xerj-org-xerj]]
 

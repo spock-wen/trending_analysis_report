@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[flutter-flutter]] [[localsend-localsend]] [[k-dense-ai-scientific-agent-skills]]
+[[chen08209-flclash]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[flutter-flutter]]
 
 **所属领域**: [[ai-agent]]
 

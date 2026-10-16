@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[bwya77-vscode-dark-islands]] [[zhaoxuya520-reverse-skill]] [[trycua-cua]] [[xerj-org-xerj]] [[obra-superpowers]]
+[[raphire-win11debloat]] [[tester-army-e2e]] [[bwya77-vscode-dark-islands]] [[trycua-cua]] [[nvm-sh-nvm]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

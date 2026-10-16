@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[earthtojake-text-to-cad]] [[ever-co-ever-gauzy]] [[conardli-garden-skills]] [[obra-superpowers]]
+[[earthtojake-text-to-cad]] [[nutlope-hallmark]] [[cathrynlavery-diagram-design]] [[ever-co-ever-gauzy]] [[conardli-garden-skills]]
 
 **所属领域**: [[web]] [[erp]]
 

@@ -35,7 +35,7 @@ Open Source Introductory Systems Programming Textbook for the University of Illi
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[jamwithai-production-agentic-rag-course]] [[huggingface-transformers]] [[introduction-to-autonomous-robots-introduction-to-autonomous-robots]] [[ruvnet-ruflo]]
+[[tensorflow-tensorflow]] [[huggingface-transformers]] [[ruvnet-ruflo]] [[jamwithai-production-agentic-rag-course]] [[introduction-to-autonomous-robots-introduction-to-autonomous-robots]]
 
 **所属领域**: [[education]]
 

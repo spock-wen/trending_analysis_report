@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]] [[nvm-sh-nvm]]
+[[msitarzewski-agency-agents]] [[nvm-sh-nvm]] [[mattpocock-skills]] [[obra-superpowers]] [[hkuds-cli-anything]]
 
 **所属领域**: [[cli]]
 

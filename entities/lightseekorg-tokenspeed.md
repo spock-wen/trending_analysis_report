@@ -34,7 +34,7 @@ TokenSpeed is a speed-of-light LLM inference engine.
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[debpalash-voicestudio]]
+[[madslorentzen-ai-job-search]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

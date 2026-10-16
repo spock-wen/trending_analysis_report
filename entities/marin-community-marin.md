@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[debpalash-voicestudio]]
+[[affaan-m-ecc]] [[madslorentzen-ai-job-search]] [[paperclipai-paperclip]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[science]]
 

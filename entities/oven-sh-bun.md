@@ -38,5 +38,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[rust-lang-rust]] [[trycua-cua]] [[storytold-artcraft]]
+[[trycua-cua]] [[storytold-artcraft]] [[xerj-org-xerj]] [[rust-lang-rust]]
 

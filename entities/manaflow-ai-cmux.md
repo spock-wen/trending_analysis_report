@@ -37,7 +37,7 @@ Open source Ghostty-based macOS terminal with vertical tabs and notifications fo
 
 ## 相关项目
 
-[[lakr233-vphone-cli]] [[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[obra-superpowers]] [[xtool-org-xtool]]
+[[lakr233-vphone-cli]] [[k-dense-ai-scientific-agent-skills]] [[xtool-org-xtool]] [[anthropics-claude-plugins-official]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

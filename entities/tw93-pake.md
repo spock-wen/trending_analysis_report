@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[trycua-cua]] [[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]]
+[[alishahryar1-free-claude-code]] [[trycua-cua]] [[cathrynlavery-diagram-design]] [[nvm-sh-nvm]] [[storytold-artcraft]]
 
 **所属领域**: [[web]] [[cli]]
 

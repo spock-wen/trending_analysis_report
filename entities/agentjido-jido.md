@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[plausible-analytics]] [[teslamate-org-teslamate]] [[k-dense-ai-scientific-agent-skills]]
+[[k-dense-ai-scientific-agent-skills]] [[teslamate-org-teslamate]] [[anthropics-claude-plugins-official]] [[plausible-analytics]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

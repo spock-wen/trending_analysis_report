@@ -34,7 +34,7 @@ qBittorrent BitTorrent client
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[xerj-org-xerj]] [[m-abozaid-esp32-c3-adblock]] [[tensorflow-tensorflow]] [[obra-superpowers]]
+[[tensorflow-tensorflow]] [[microsoft-bitnet]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]] [[nvm-sh-nvm]]
 
 **所属领域**: [[cli]]
 

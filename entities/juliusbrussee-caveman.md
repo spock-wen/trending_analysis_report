@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[caddyserver-caddy]] [[vxcontrol-pentagi]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]]
+[[alibaba-open-code-review]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[vxcontrol-pentagi]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

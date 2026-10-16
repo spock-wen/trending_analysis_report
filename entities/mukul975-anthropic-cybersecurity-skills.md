@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]]
+[[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[madslorentzen-ai-job-search]] [[k-dense-ai-scientific-agent-skills]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

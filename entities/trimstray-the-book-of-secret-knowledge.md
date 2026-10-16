@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[xerj-org-xerj]] [[obra-superpowers]] [[bilawalsidhu-gods-eye-view]] [[hkuds-cli-anything]]
+[[cathrynlavery-diagram-design]] [[nvm-sh-nvm]] [[xerj-org-xerj]] [[bilawalsidhu-gods-eye-view]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[cli]]
 

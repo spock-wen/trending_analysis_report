@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[trycua-cua]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[bilawalsidhu-gods-eye-view]]
+[[affaan-m-ecc]] [[debpalash-voicestudio]] [[alishahryar1-free-claude-code]] [[tester-army-e2e]] [[actions-runner-images]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

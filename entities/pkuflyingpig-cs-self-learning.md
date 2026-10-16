@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]] [[averygan-reclip]] [[tensorflow-tensorflow]] [[bilawalsidhu-gods-eye-view]]
+[[ripienaar-free-for-dev]] [[tensorflow-tensorflow]] [[cathrynlavery-diagram-design]] [[huggingface-transformers]] [[ruvnet-ruflo]]
 
 **所属领域**: [[web]] [[education]]
 

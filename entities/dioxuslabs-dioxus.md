@@ -35,7 +35,7 @@ Fullstack app framework for web, desktop, and mobile.
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[trycua-cua]] [[xerj-org-xerj]] [[hkuds-cli-anything]] [[bilawalsidhu-gods-eye-view]]
+[[alishahryar1-free-claude-code]] [[trycua-cua]] [[cathrynlavery-diagram-design]] [[storytold-artcraft]] [[rust-lang-rust]]
 
 **所属领域**: [[web]]
 

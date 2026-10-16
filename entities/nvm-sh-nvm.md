@@ -36,7 +36,7 @@ Node Version Manager - POSIX-compliant bash script to manage multiple active nod
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]] [[mattpocock-skills]]
+[[msitarzewski-agency-agents]] [[mattpocock-skills]] [[obra-superpowers]] [[hkuds-cli-anything]] [[xerj-org-xerj]]
 
 **所属领域**: [[cli]]
 

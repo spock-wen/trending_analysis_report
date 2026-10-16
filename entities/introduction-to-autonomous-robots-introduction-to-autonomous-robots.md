@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[cs341-illinois-coursebook]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]]
+[[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[cs341-illinois-coursebook]] [[obra-superpowers]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

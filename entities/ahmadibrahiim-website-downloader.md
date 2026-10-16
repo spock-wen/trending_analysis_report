@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]] [[trycua-cua]] [[averygan-reclip]] [[pkuflyingpig-cs-self-learning]]
+[[ripienaar-free-for-dev]] [[tester-army-e2e]] [[actions-runner-images]] [[trycua-cua]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[image-gen]]
 

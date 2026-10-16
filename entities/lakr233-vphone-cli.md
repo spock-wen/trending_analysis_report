@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[obra-superpowers]] [[xtool-org-xtool]] [[hkuds-cli-anything]] [[manaflow-ai-cmux]]
+[[manaflow-ai-cmux]] [[xtool-org-xtool]] [[nvm-sh-nvm]] [[xerj-org-xerj]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

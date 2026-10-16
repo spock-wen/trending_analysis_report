@@ -38,7 +38,7 @@ Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
 
 ## 相关项目
 
-[[epicgames-raddebugger]] [[anthropics-claude-plugins-official]] [[antirez-ds4]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]]
+[[antirez-ds4]] [[k-dense-ai-scientific-agent-skills]] [[willfaust-madeira]] [[anthropics-claude-plugins-official]] [[epicgames-raddebugger]]
 
 **所属领域**: [[ai-agent]]
 

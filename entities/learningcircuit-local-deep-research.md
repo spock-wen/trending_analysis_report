@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[paperclipai-paperclip]] [[obra-superpowers]]
+[[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[madslorentzen-ai-job-search]] [[tensorflow-tensorflow]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

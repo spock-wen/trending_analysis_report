@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[anthropics-claude-plugins-official]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[xerj-org-xerj]]
+[[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

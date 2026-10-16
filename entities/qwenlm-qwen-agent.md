@@ -35,7 +35,7 @@ Agent framework and applications built upon Qwen>=3.0, featuring Function Callin
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[earthtojake-text-to-cad]] [[ever-co-ever-gauzy]]
+[[madslorentzen-ai-job-search]] [[earthtojake-text-to-cad]] [[k-dense-ai-scientific-agent-skills]] [[cathrynlavery-diagram-design]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[ai-agent]] [[web]] [[erp]]
 

@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[tensorflow-tensorflow]] [[hugohe3-ppt-master]]
+[[debpalash-voicestudio]] [[madslorentzen-ai-job-search]] [[tensorflow-tensorflow]] [[k-dense-ai-scientific-agent-skills]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

@@ -35,7 +35,7 @@ Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[anthropics-claude-plugins-official]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[obra-superpowers]]
+[[hkuds-cli-anything]] [[tensorflow-tensorflow]] [[k-dense-ai-scientific-agent-skills]] [[microsoft-ai-for-beginners]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

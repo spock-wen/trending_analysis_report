@@ -35,7 +35,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[flutter-flutter]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]]
+[[chen08209-flclash]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[flutter-flutter]] [[flutter-skills]]
 
 **所属领域**: [[ai-agent]]
 

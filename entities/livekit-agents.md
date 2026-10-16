@@ -37,7 +37,7 @@ A framework for building realtime voice AI agents 🤖🎙️📹
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]]
+[[debpalash-voicestudio]] [[madslorentzen-ai-job-search]] [[k-dense-ai-scientific-agent-skills]] [[huggingface-transformers]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[obra-superpowers]] [[mksglu-context-mode]] [[morluto-rea]]
+[[affaan-m-ecc]] [[mksglu-context-mode]] [[cloudflare-security-audit-skill]] [[cursor-plugins]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

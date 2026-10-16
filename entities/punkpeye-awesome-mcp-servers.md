@@ -34,7 +34,7 @@ A collection of MCP servers.
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[obra-superpowers]] [[anthropics-claude-plugins-official]] [[affaan-m-ecc]]
+[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

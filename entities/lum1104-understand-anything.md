@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[obra-superpowers]] [[tensorflow-tensorflow]] [[hkuds-cli-anything]]
+[[mksglu-context-mode]] [[tensorflow-tensorflow]] [[cursor-plugins]] [[k-dense-ai-scientific-agent-skills]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[addyosmani-agent-skills]] [[obra-superpowers]] [[bilawalsidhu-gods-eye-view]]
+[[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[nationalsecurityagency-ghidra]] [[anthropics-claude-plugins-official]] [[xerj-org-xerj]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

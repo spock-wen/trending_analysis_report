@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[epicgames-raddebugger]] [[anthropics-claude-plugins-official]] [[antirez-ds4]] [[xerj-org-xerj]] [[obra-superpowers]]
+[[antirez-ds4]] [[willfaust-madeira]] [[colbymchenry-codegraph]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

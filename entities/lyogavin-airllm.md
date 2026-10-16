@@ -38,7 +38,7 @@ AirLLM 2.8T LLM inference with single 4GB GPU
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[obra-superpowers]] [[higgsfield-ai-higgsfield]]
+[[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]] [[microsoft-ai-for-beginners]] [[anthropics-claude-plugins-official]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[ai-agent]]
 

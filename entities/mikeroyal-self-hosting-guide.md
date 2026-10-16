@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[tensorflow-tensorflow]] [[hkuds-cli-anything]]
+[[tensorflow-tensorflow]] [[k-dense-ai-scientific-agent-skills]] [[cathrynlavery-diagram-design]] [[huggingface-transformers]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

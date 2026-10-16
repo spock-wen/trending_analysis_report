@@ -36,7 +36,7 @@ Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[anthropics-claude-plugins-official]] [[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[obra-superpowers]]
+[[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]]
 

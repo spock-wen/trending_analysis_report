@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[trycua-cua]] [[xerj-org-xerj]] [[obra-superpowers]] [[tensorflow-tensorflow]] [[hkuds-cli-anything]]
+[[debpalash-voicestudio]] [[alishahryar1-free-claude-code]] [[tensorflow-tensorflow]] [[trycua-cua]] [[huggingface-transformers]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

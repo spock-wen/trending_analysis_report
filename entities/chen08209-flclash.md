@@ -35,7 +35,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[obra-superpowers]] [[flutter-flutter]] [[localsend-localsend]] [[hkuds-cli-anything]]
+[[obra-superpowers]] [[flutter-flutter]] [[nvm-sh-nvm]] [[flutter-skills]] [[localsend-localsend]]
 
 **所属领域**: [[cli]]
 

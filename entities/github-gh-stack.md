@@ -34,5 +34,5 @@ GitHub Stacked PRs
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[caddyserver-caddy]] [[alibaba-open-code-review]]
+[[alibaba-open-code-review]] [[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[caddyserver-caddy]]
 

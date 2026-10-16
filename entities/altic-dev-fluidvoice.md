@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[lakr233-vphone-cli]] [[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[obra-superpowers]] [[xtool-org-xtool]]
+[[debpalash-voicestudio]] [[alishahryar1-free-claude-code]] [[manaflow-ai-cmux]] [[lakr233-vphone-cli]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

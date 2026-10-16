@@ -38,7 +38,7 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[obra-superpowers]] [[hkuds-cli-anything]] [[nvm-sh-nvm]]
+[[nvm-sh-nvm]] [[obra-superpowers]] [[hkuds-cli-anything]] [[xerj-org-xerj]]
 
 **所属领域**: [[cli]]
 

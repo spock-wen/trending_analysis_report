@@ -38,7 +38,7 @@ Reverse engineer anything with agents, from app behavior down to native binaries
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[mksglu-context-mode]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]]
+[[mksglu-context-mode]] [[k-dense-ai-scientific-agent-skills]] [[cursor-plugins]] [[ruvnet-ruflo]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]]
 

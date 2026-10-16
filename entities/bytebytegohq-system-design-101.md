@@ -35,7 +35,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[obra-superpowers]] [[anthropics-claude-plugins-official]] [[affaan-m-ecc]]
+[[anthropics-claude-plugins-official]] [[obra-superpowers]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

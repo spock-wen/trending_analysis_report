@@ -36,7 +36,7 @@ Official inference framework for 1-bit LLMs
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[anthropics-claude-plugins-official]] [[m-abozaid-esp32-c3-adblock]] [[tensorflow-tensorflow]] [[obra-superpowers]]
+[[tensorflow-tensorflow]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[boykopovar-anyps5]] [[m-abozaid-esp32-c3-adblock]]
 
 **所属领域**: [[ai-agent]]
 

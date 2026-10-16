@@ -38,7 +38,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[xerj-org-xerj]] [[obra-superpowers]] [[tensorflow-tensorflow]] [[hkuds-cli-anything]]
+[[mksglu-context-mode]] [[tensorflow-tensorflow]] [[cursor-plugins]] [[k-dense-ai-scientific-agent-skills]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

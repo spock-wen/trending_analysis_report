@@ -37,5 +37,5 @@ Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[debpalash-voicestudio]]
+[[anthropics-claude-plugins-official]] [[madslorentzen-ai-job-search]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]]
 

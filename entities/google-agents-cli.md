@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[lightseekorg-tokenspeed]] [[oblien-openship]] [[anthropics-claude-plugins-official]] [[getsentry-sentry]] [[xerj-org-xerj]]
+[[madslorentzen-ai-job-search]] [[k-dense-ai-scientific-agent-skills]] [[oblien-openship]] [[xtool-org-xtool]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

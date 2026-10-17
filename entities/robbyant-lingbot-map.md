@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[madslorentzen-ai-job-search]] [[paperclipai-paperclip]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]]
+[[hugohe3-ppt-master]] [[affaan-m-ecc]] [[paperclipai-paperclip]] [[madslorentzen-ai-job-search]] [[hkuds-cli-anything]]
 
 **所属领域**: [[data]] [[science]]
 

@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[nvm-sh-nvm]] [[mattpocock-skills]] [[obra-superpowers]] [[hkuds-cli-anything]]
+[[obra-superpowers]] [[akitaonrails-ai-memory]] [[nvm-sh-nvm]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]]
 
 **所属领域**: [[cli]]
 

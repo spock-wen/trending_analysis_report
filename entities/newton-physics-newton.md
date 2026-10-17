@@ -36,7 +36,7 @@ An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[madslorentzen-ai-job-search]] [[paperclipai-paperclip]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]]
+[[affaan-m-ecc]] [[paperclipai-paperclip]] [[robbyant-lingbot-map]] [[madslorentzen-ai-job-search]] [[hkuds-cli-anything]]
 
 **所属领域**: [[science]]
 

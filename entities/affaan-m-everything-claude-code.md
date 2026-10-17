@@ -34,7 +34,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[paperclipai-paperclip]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]]
+[[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[paperclipai-paperclip]] [[hmjz100-linkswift]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

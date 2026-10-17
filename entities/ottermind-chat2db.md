@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]] [[google-guava]] [[anthropics-claude-plugins-official]]
+[[akitaonrails-ai-memory]] [[google-guava]] [[yuliskov-smarttube]] [[anthropics-claude-code]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[vxcontrol-pentagi]] [[obra-superpowers]]
+[[alibaba-open-code-review]] [[affaan-m-ecc]] [[caddyserver-caddy]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

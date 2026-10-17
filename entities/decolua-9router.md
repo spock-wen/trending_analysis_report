@@ -38,7 +38,7 @@ Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[nvm-sh-nvm]] [[xerj-org-xerj]]
+[[akitaonrails-ai-memory]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[hmjz100-linkswift]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

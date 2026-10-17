@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[cursor-plugins]] [[k-dense-ai-scientific-agent-skills]] [[cathrynlavery-diagram-design]] [[ruvnet-ruflo]]
+[[alishahryar1-free-claude-code]] [[anthropics-claude-code]] [[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[ruvnet-ruflo]]
 
 **所属领域**: [[web]] [[data]]
 

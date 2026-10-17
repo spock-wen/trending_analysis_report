@@ -38,7 +38,7 @@ Clone any website with one command using AI coding agents
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[cursor-plugins]] [[k-dense-ai-scientific-agent-skills]] [[cathrynlavery-diagram-design]] [[ruvnet-ruflo]]
+[[akitaonrails-ai-memory]] [[anomalyco-opencode]] [[alishahryar1-free-claude-code]] [[anthropics-claude-code]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -35,7 +35,7 @@ A light-weight and powerful meta-prompting, context engineering and spec-driven 
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[hmjz100-linkswift]] [[bilawalsidhu-gods-eye-view]]
+[[affaan-m-ecc]] [[hmjz100-linkswift]] [[addyosmani-agent-skills]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

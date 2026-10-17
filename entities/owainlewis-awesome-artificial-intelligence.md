@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tensorflow-tensorflow]] [[paperclipai-paperclip]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]]
+[[tensorflow-tensorflow]] [[huggingface-transformers]] [[affaan-m-ecc]] [[jamwithai-production-agentic-rag-course]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

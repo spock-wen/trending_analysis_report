@@ -1,7 +1,7 @@
 ---
 title: "image-gen"
 created: 2026-05-31
-updated: 2026-10-17
+updated: 2026-10-18
 type: concept
 tags: [image-gen]
 confidence: medium

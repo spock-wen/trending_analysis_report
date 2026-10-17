@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[madslorentzen-ai-job-search]] [[tensorflow-tensorflow]] [[paperclipai-paperclip]] [[k-dense-ai-scientific-agent-skills]]
+[[tensorflow-tensorflow]] [[huggingface-transformers]] [[affaan-m-ecc]] [[jamwithai-production-agentic-rag-course]] [[paperclipai-paperclip]]
 
 **所属领域**: [[education]] [[science]]
 

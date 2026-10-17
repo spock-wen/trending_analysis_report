@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[mksglu-context-mode]] [[paperclipai-paperclip]] [[cursor-plugins]] [[k-dense-ai-scientific-agent-skills]]
+[[anomalyco-opencode]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[paperclipai-paperclip]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

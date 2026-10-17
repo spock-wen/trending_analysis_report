@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[cursor-plugins]] [[cathrynlavery-diagram-design]] [[ruvnet-ruflo]] [[morluto-rea]]
+[[akitaonrails-ai-memory]] [[alishahryar1-free-claude-code]] [[anthropics-claude-code]] [[cathrynlavery-diagram-design]] [[ruvnet-ruflo]]
 
 **所属领域**: [[web]] [[cli]]
 

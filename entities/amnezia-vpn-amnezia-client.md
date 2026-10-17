@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[tensorflow-tensorflow]] [[nationalsecurityagency-ghidra]] [[microsoft-bitnet]]
+[[cloudflare-security-audit-skill]] [[akitaonrails-ai-memory]] [[tensorflow-tensorflow]] [[anthropics-claude-code]] [[affaan-m-ecc]]
 
 **所属领域**: [[cli]] [[security]]
 

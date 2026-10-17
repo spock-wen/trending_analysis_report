@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[anthropics-claude-plugins-official]]
+[[hugohe3-ppt-master]] [[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[affaan-m-ecc]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

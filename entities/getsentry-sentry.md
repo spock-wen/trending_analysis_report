@@ -36,7 +36,7 @@ Developer-first error tracking and performance monitoring
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[k-dense-ai-scientific-agent-skills]] [[xtool-org-xtool]] [[ruvnet-ruflo]] [[anthropics-claude-plugins-official]]
+[[xtool-org-xtool]] [[oblien-openship]] [[madslorentzen-ai-job-search]] [[ruvnet-ruflo]] [[hkuds-cli-anything]]
 
 **所属领域**: [[devops]]
 

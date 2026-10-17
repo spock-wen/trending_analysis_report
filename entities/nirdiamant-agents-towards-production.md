@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[tensorflow-tensorflow]] [[earthtojake-text-to-cad]] [[k-dense-ai-scientific-agent-skills]] [[microsoft-ai-for-beginners]]
+[[ever-co-ever-gauzy]] [[tensorflow-tensorflow]] [[oblien-openship]] [[hugohe3-ppt-master]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[cursor-plugins]] [[k-dense-ai-scientific-agent-skills]] [[oblien-openship]] [[xtool-org-xtool]]
+[[getsentry-sentry]] [[anomalyco-opencode]] [[xtool-org-xtool]] [[oblien-openship]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

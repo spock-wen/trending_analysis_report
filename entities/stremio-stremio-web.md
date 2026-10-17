@@ -35,7 +35,7 @@ Stremio - Freedom to Stream
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[alishahryar1-free-claude-code]] [[cathrynlavery-diagram-design]] [[hmjz100-linkswift]] [[bilawalsidhu-gods-eye-view]]
+[[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[hmjz100-linkswift]] [[cathrynlavery-diagram-design]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[web]]
 

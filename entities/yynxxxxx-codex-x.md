@@ -35,7 +35,7 @@ OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换�
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[trycua-cua]] [[anthropics-claude-plugins-official]] [[nvm-sh-nvm]] [[storytold-artcraft]]
+[[akitaonrails-ai-memory]] [[rust-lang-rust]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[storytold-artcraft]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

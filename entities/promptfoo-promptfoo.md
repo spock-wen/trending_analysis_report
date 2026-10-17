@@ -36,7 +36,7 @@ Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[cursor-plugins]] [[k-dense-ai-scientific-agent-skills]] [[oblien-openship]] [[xtool-org-xtool]]
+[[akitaonrails-ai-memory]] [[getsentry-sentry]] [[anomalyco-opencode]] [[xtool-org-xtool]] [[oblien-openship]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

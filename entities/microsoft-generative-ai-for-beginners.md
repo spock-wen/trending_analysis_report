@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[k-dense-ai-scientific-agent-skills]] [[microsoft-ai-for-beginners]] [[huggingface-transformers]] [[lyogavin-airllm]]
+[[tensorflow-tensorflow]] [[huggingface-transformers]] [[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

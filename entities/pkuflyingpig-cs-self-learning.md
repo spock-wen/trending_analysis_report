@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[tensorflow-tensorflow]] [[cathrynlavery-diagram-design]] [[huggingface-transformers]] [[ruvnet-ruflo]]
+[[tensorflow-tensorflow]] [[ripienaar-free-for-dev]] [[huggingface-transformers]] [[alishahryar1-free-claude-code]] [[jamwithai-production-agentic-rag-course]]
 
 **所属领域**: [[web]] [[education]]
 

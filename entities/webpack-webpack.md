@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[alishahryar1-free-claude-code]] [[tester-army-e2e]] [[actions-runner-images]] [[trycua-cua]]
+[[tester-army-e2e]] [[ntdevlabs-tiny11builder]] [[trycua-cua]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]]
 
 **所属领域**: [[web]] [[image-gen]]
 

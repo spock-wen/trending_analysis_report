@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[trycua-cua]] [[cathrynlavery-diagram-design]] [[storytold-artcraft]] [[rust-lang-rust]]
+[[akitaonrails-ai-memory]] [[alishahryar1-free-claude-code]] [[rust-lang-rust]] [[cathrynlavery-diagram-design]] [[storytold-artcraft]]
 
 **所属领域**: [[web]]
 

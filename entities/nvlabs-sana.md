@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[tester-army-e2e]] [[actions-runner-images]] [[k-dense-ai-scientific-agent-skills]] [[trycua-cua]]
+[[tester-army-e2e]] [[ntdevlabs-tiny11builder]] [[trycua-cua]] [[actions-runner-images]] [[madslorentzen-ai-job-search]]
 
 **所属领域**: [[image-gen]]
 

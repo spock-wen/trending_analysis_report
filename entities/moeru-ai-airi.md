@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[mksglu-context-mode]] [[cursor-plugins]] [[k-dense-ai-scientific-agent-skills]] [[cathrynlavery-diagram-design]]
+[[anomalyco-opencode]] [[huggingface-transformers]] [[alishahryar1-free-claude-code]] [[anthropics-claude-code]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

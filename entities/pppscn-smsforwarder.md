@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[mahlernim-google-timeline-visualizer]] [[bannedbook-fanqiang]] [[embabel-embabel-agent]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]]
+[[bannedbook-fanqiang]] [[embabel-embabel-agent]] [[mahlernim-google-timeline-visualizer]] [[alishahryar1-free-claude-code]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]]
 

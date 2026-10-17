@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[madslorentzen-ai-job-search]] [[tensorflow-tensorflow]] [[paperclipai-paperclip]]
+[[cloudflare-security-audit-skill]] [[tensorflow-tensorflow]] [[huggingface-transformers]] [[affaan-m-ecc]] [[jamwithai-production-agentic-rag-course]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

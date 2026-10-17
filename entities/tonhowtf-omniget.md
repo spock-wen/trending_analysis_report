@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[alishahryar1-free-claude-code]] [[tensorflow-tensorflow]] [[trycua-cua]] [[huggingface-transformers]]
+[[akitaonrails-ai-memory]] [[tensorflow-tensorflow]] [[huggingface-transformers]] [[alishahryar1-free-claude-code]] [[rust-lang-rust]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

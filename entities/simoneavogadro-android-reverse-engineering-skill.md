@@ -35,7 +35,7 @@ Claude Code skill to support Android app's reverse engineering
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[nvm-sh-nvm]] [[mattpocock-skills]]
+[[obra-superpowers]] [[akitaonrails-ai-memory]] [[nvm-sh-nvm]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -38,7 +38,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tester-army-e2e]] [[actions-runner-images]] [[k-dense-ai-scientific-agent-skills]] [[trycua-cua]]
+[[tester-army-e2e]] [[ntdevlabs-tiny11builder]] [[trycua-cua]] [[affaan-m-ecc]] [[actions-runner-images]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

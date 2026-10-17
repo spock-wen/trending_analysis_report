@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[tester-army-e2e]] [[actions-runner-images]] [[trycua-cua]] [[cathrynlavery-diagram-design]]
+[[tester-army-e2e]] [[ntdevlabs-tiny11builder]] [[ripienaar-free-for-dev]] [[trycua-cua]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[web]] [[image-gen]]
 

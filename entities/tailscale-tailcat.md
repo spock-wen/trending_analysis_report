@@ -35,7 +35,7 @@ like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[k-dense-ai-scientific-agent-skills]] [[juliusbrussee-caveman]] [[anthropics-claude-plugins-official]] [[vxcontrol-pentagi]]
+[[alibaba-open-code-review]] [[hugohe3-ppt-master]] [[affaan-m-ecc]] [[juliusbrussee-caveman]] [[caddyserver-caddy]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

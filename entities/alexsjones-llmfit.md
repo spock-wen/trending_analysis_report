@@ -36,7 +36,7 @@ Hundreds of models & providers. One command to find what runs on your hardware.
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[trycua-cua]] [[anthropics-claude-plugins-official]] [[nvm-sh-nvm]] [[storytold-artcraft]]
+[[akitaonrails-ai-memory]] [[rust-lang-rust]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[storytold-artcraft]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

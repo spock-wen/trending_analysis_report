@@ -34,5 +34,5 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[bilawalsidhu-gods-eye-view]] [[addyosmani-agent-skills]]
+[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[bilawalsidhu-gods-eye-view]]
 

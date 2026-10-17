@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[madslorentzen-ai-job-search]] [[tensorflow-tensorflow]] [[k-dense-ai-scientific-agent-skills]] [[ruvnet-ruflo]]
+[[tensorflow-tensorflow]] [[alishahryar1-free-claude-code]] [[hugohe3-ppt-master]] [[affaan-m-ecc]] [[jamwithai-production-agentic-rag-course]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

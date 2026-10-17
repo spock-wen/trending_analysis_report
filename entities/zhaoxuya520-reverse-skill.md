@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[raphire-win11debloat]] [[paperclipai-paperclip]] [[actions-runner-images]]
+[[cloudflare-security-audit-skill]] [[akitaonrails-ai-memory]] [[bwya77-vscode-dark-islands]] [[raphire-win11debloat]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

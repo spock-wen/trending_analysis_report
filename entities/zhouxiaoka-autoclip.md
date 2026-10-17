@@ -34,7 +34,7 @@ AutoClip : AI-powered video clipping and highlight generation · 一款智能高
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[tester-army-e2e]] [[actions-runner-images]] [[k-dense-ai-scientific-agent-skills]] [[trycua-cua]]
+[[tester-army-e2e]] [[akitaonrails-ai-memory]] [[ntdevlabs-tiny11builder]] [[trycua-cua]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[image-gen]]
 

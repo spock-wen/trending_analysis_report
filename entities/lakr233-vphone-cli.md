@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[xtool-org-xtool]] [[nvm-sh-nvm]] [[xerj-org-xerj]] [[obra-superpowers]]
+[[manaflow-ai-cmux]] [[akitaonrails-ai-memory]] [[xtool-org-xtool]] [[anthropics-claude-code]] [[abue-ammar-tinycast]]
 
 **所属领域**: [[cli]]
 

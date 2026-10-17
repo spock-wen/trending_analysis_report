@@ -34,7 +34,7 @@ AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[cursor-plugins]] [[k-dense-ai-scientific-agent-skills]] [[ruvnet-ruflo]] [[anthropics-claude-plugins-official]]
+[[anomalyco-opencode]] [[anthropics-claude-code]] [[hugohe3-ppt-master]] [[affaan-m-ecc]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

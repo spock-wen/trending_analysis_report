@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[earthtojake-text-to-cad]] [[cursor-plugins]] [[ever-co-ever-gauzy]] [[ruvnet-ruflo]]
+[[ever-co-ever-gauzy]] [[obra-superpowers]] [[anthropics-claude-code]] [[hugohe3-ppt-master]] [[ruvnet-ruflo]]
 
 **所属领域**: [[erp]]
 

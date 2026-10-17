@@ -38,7 +38,7 @@ A specialized Claude Code workspace for creating long-form, SEO-optimized blog c
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[madslorentzen-ai-job-search]] [[earthtojake-text-to-cad]] [[paperclipai-paperclip]] [[k-dense-ai-scientific-agent-skills]]
+[[ever-co-ever-gauzy]] [[obra-superpowers]] [[hugohe3-ppt-master]] [[affaan-m-ecc]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

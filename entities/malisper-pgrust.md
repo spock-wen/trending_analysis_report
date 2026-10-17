@@ -35,5 +35,5 @@ Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 
 ## 相关项目
 
-[[trycua-cua]] [[storytold-artcraft]] [[xerj-org-xerj]] [[rust-lang-rust]]
+[[rust-lang-rust]] [[akitaonrails-ai-memory]] [[storytold-artcraft]] [[xerj-org-xerj]]
 

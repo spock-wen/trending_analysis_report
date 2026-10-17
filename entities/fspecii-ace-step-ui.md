@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[debpalash-voicestudio]] [[alishahryar1-free-claude-code]] [[tester-army-e2e]] [[actions-runner-images]]
+[[tester-army-e2e]] [[ntdevlabs-tiny11builder]] [[trycua-cua]] [[huggingface-transformers]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

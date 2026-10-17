@@ -36,7 +36,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[cathrynlavery-diagram-design]] [[microsoft-bitnet]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]]
+[[tensorflow-tensorflow]] [[alishahryar1-free-claude-code]] [[m-abozaid-esp32-c3-adblock]] [[cathrynlavery-diagram-design]] [[boykopovar-anyps5]]
 
 **所属领域**: [[web]]
 

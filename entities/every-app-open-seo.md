@@ -38,5 +38,5 @@ Open source alternative to Semrush and Ahrefs
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[mksglu-context-mode]] [[morluto-rea]] [[cursor-plugins]]
+[[anthropics-claude-code]] [[stablyai-orca]] [[ruvnet-ruflo]] [[anomalyco-opencode]]
 

@@ -37,7 +37,7 @@ A curated list of practical Codex skills for automating workflows across the Cod
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[nvm-sh-nvm]] [[obra-superpowers]]
+[[akitaonrails-ai-memory]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[madslorentzen-ai-job-search]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[madslorentzen-ai-job-search]] [[earthtojake-text-to-cad]] [[paperclipai-paperclip]] [[k-dense-ai-scientific-agent-skills]]
+[[ever-co-ever-gauzy]] [[obra-superpowers]] [[akitaonrails-ai-memory]] [[anthropics-claude-code]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

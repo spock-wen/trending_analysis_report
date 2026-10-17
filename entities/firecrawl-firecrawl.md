@@ -36,7 +36,7 @@ The context API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[cursor-plugins]] [[cathrynlavery-diagram-design]] [[ruvnet-ruflo]] [[morluto-rea]]
+[[alishahryar1-free-claude-code]] [[anthropics-claude-code]] [[cathrynlavery-diagram-design]] [[ruvnet-ruflo]] [[stablyai-orca]]
 
 **所属领域**: [[web]]
 

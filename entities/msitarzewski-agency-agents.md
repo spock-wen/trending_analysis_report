@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[cathrynlavery-diagram-design]] [[anthropics-claude-plugins-official]] [[nvm-sh-nvm]] [[mattpocock-skills]]
+[[obra-superpowers]] [[akitaonrails-ai-memory]] [[nvm-sh-nvm]] [[alishahryar1-free-claude-code]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

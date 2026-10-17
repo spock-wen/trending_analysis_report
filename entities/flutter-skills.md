@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[chen08209-flclash]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[flutter-flutter]]
+[[affaan-m-ecc]] [[chen08209-flclash]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]] [[flutter-flutter]]
 
 **所属领域**: [[ai-agent]]
 

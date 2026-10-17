@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[raphire-win11debloat]] [[actions-runner-images]] [[k-dense-ai-scientific-agent-skills]] [[bwya77-vscode-dark-islands]] [[anthropics-claude-plugins-official]]
+[[akitaonrails-ai-memory]] [[bwya77-vscode-dark-islands]] [[raphire-win11debloat]] [[anthropics-claude-code]] [[actions-runner-images]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

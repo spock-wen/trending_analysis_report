@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-17 | 总页面：823
+> 最后更新：2026-10-18 | 总页面：823
 
 ## Entities
 
@@ -21,7 +21,7 @@
 - [[actions-runner-images|runner-images]] — GitHub Actions runner images
 - [[activeloopai-hivemind|hivemind]] — One brain for all your agents
 - [[addyosmani-agent-skills|agent-skills]] — Production-grade engineering skills for AI coding agents.
-- [[affaan-m-ecc|ECC]] — The agent harness performance optimization system. Skills, i... 🆕
+- [[affaan-m-ecc|ECC]] — The agent harness performance optimization system. Skills, i... 🔥
 - [[affaan-m-everything-claude-code|everything-claude-code]] — The agent harness performance optimization system. Skills, i...
 - [[agalwood-motrix|Motrix]] — A full-featured download manager. 🆕
 - [[agavra-tuicr|tuicr]] — a code review TUI with vim keybindings 🆕
@@ -65,7 +65,7 @@
 - [[angular-angular|angular]] — Deliver web apps with confidence 🚀
 - [[anil-matcha-open-generative-ai|Open-Generative-AI]] — Unrestricted Open-source alternative to AI video platforms —...
 - [[ankitects-anki|anki]] — Anki is a smart spaced repetition flashcard program
-- [[anomalyco-opencode|opencode]] — The open source coding agent. 🔥
+- [[anomalyco-opencode|opencode]] — The open source coding agent.
 - [[anonfaded-fadcam|FadCam]] — Open-source, ad-free Android multimedia recorder with backgr...
 - [[ansible-ansible|ansible]] — Ansible is a radically simple IT automation platform that ma...
 - [[anthropics-claude-agent-sdk|claude-agent-sdk]] — Anthropic 官方 Claude Agent SDK
@@ -73,7 +73,7 @@
 - [[anthropics-claude-code|claude-code]] — Claude Code is an agentic coding tool that lives in your ter...
 - [[anthropics-claude-cookbooks|claude-cookbooks]] — A collection of notebooks/recipes showcasing some fun and ef...
 - [[anthropics-claude-plugins-community|claude-plugins-community]] — Community plugin marketplace for Claude Cowork and Claude Co... 🔥
-- [[anthropics-claude-plugins-official|claude-plugins-official]] — Official, Anthropic-managed directory of high quality Claude... 🆕
+- [[anthropics-claude-plugins-official|claude-plugins-official]] — Official, Anthropic-managed directory of high quality Claude... 🔥
 - [[anthropics-cwc-workshops|cwc-workshops]] — No description
 - [[anthropics-financial-services|financial-services]] — No description 🔥
 - [[anthropics-knowledge-work-plugins|knowledge-work-plugins]] — Open source repository of plugins primarily intended for kno... 🔥
@@ -328,14 +328,14 @@
 - [[heygen-com-hyperframes|hyperframes]] — Write HTML. Render video. Built for agents. 🔥
 - [[higgsfield-ai-higgsfield|higgsfield]] — Fault-tolerant, highly scalable GPU orchestration, and a mac... 🆕
 - [[hkuds-ai-trader|AI-Trader]] — "AI-Trader: 100% Fully-Automated Agent-Native Trading"
-- [[hkuds-cli-anything|CLI-Anything]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:...
+- [[hkuds-cli-anything|CLI-Anything]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:... 🆕
 - [[hkuds-deeptutor|DeepTutor]] — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor...
 - [[hkuds-lightrag|LightRAG]] — [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented G...
 - [[hkuds-rag-anything|RAG-Anything]] — "RAG-Anything: All-in-One RAG Framework" 🆕
 - [[hkuds-vibe-trading|Vibe-Trading]] — "Vibe-Trading: Your Personal Trading Agent" 🔥
 - [[hkuds-vimax|ViMax]] — "ViMax: Agentic Video Generation (Director, Screenwriter, Pr... 🆕
 - [[hmbown-deepseek-tui|DeepSeek-TUI]] — Coding agent for DeepSeek models that runs in your terminal 🔥
-- [[hmjz100-linkswift|LinkSwift]] — 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘... 🆕
+- [[hmjz100-linkswift|LinkSwift]] — 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘...
 - [[holaboss-ai-holaos|holaOS]] — Open-source All in One AI agent workspace. Run any agent — C... 🆕
 - [[home-assistant-core|core]] — 🏡 Open source home automation that puts local control and pr... 🆕
 - [[homebrew-brewui|BrewUI]] — 📺 Homebrew's official macOS GUI
@@ -448,7 +448,7 @@
 - [[m-abozaid-esp32-c3-adblock|esp32-c3-adblock]] — Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 53...
 - [[macro-inc-macro|macro]] — Macro is a unified workspace for teams: email, chat, docs, t... 🔥
 - [[maderix-ane|ANE]] — Training neural networks on Apple Neural Engine via reverse-...
-- [[madslorentzen-ai-job-search|ai-job-search]] — The job search that runs on your machine. AI job application...
+- [[madslorentzen-ai-job-search|ai-job-search]] — The job search that runs on your machine. AI job application... 🆕
 - [[magnitudedev-magnitude|magnitude]] — Open source inference server that runs the best local models... 🔥
 - [[mahlernim-google-timeline-visualizer|google-timeline-visualizer]] — Visualize your year in travel using your Google Location His... 🔥
 - [[majd-ipatool|ipatool]] — Command-line tool that allows searching and downloading app ... 🆕
@@ -644,7 +644,7 @@
 - [[rust-lang-rust|rust]] — Empowering everyone to build reliable and efficient software...
 - [[rustdesk-rustdesk|rustdesk]] — An open-source remote desktop application designed for self-...
 - [[rustfs-rustfs|rustfs]] — RustFS is an open-source, S3-compatible high-performance obj...
-- [[ruvnet-ruflo|ruflo]] — 🌊 The original agent harness. Deploy intelligent multi-playe... 🆕
+- [[ruvnet-ruflo|ruflo]] — 🌊 The original agent harness. Deploy intelligent multi-playe... 🔥
 - [[ruvnet-ruview|RuView]] — π RuView turns commodity WiFi signals into real-time spatial...
 - [[ryancodrai-turbovec|turbovec]] — A vector index built on TurboQuant, written in Rust with Pyt...
 - [[ryanmcdermott-clean-code-javascript|clean-code-javascript]] — Clean Code concepts adapted for JavaScript
@@ -678,7 +678,7 @@
 - [[sonarr-sonarr|Sonarr]] — Smart PVR for newsgroup and bittorrent users. 🆕
 - [[soxoj-maigret|maigret]] — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ s...
 - [[st-tech-ppf-contact-solver|ppf-contact-solver]] — A contact solver for physics-based simulations involving 👚 s...
-- [[stablyai-orca|orca]] — Orca is the ADE for working with a fleet of parallel agents.... 🆕
+- [[stablyai-orca|orca]] — Orca is the place for working with a fleet of agents (e.g. G...
 - [[stefan-jansen-machine-learning-for-trading|machine-learning-for-trading]] — Code for Machine Learning for Algorithmic Trading, 2nd editi... 🆕
 - [[steipete-codexbar|CodexBar]] — Show usage stats for OpenAI Codex and Claude Code, without h... 🔥
 - [[stirling-tools-stirling-pdf|Stirling-PDF]] — - 语言: TypeScript
@@ -785,7 +785,7 @@
 - [[worldflowai-everything-claude-code|everything-claude-code]] — Claude Code toolkit - agents, commands, skills, rules, and h...
 - [[x1xhlol-system-prompts-and-models-of-ai-tools|system-prompts-and-models-of-ai-tools]] — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cu...
 - [[xbtlin-ai-berkshire|ai-berkshire]] — AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师... 🔥
-- [[xerj-org-xerj|xerj]] — XERJ is the new way for AI to search data. Its autoindex cap... 🆕
+- [[xerj-org-xerj|xerj]] — XERJ is the new way for AI to search data. Its autoindex cap... 🔥
 - [[xtool-org-xtool|xtool]] — Cross-platform Xcode replacement. Build and deploy iOS apps ... 🆕
 - [[yairm210-unciv|Unciv]] — Open-source Android/Desktop remake of Civ V
 - [[yeachan-heo-oh-my-codex|oh-my-codex]] — OmX - Oh My codeX: Your codex is not alone. Add hooks, agent...

@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[cathrynlavery-diagram-design]] [[vxcontrol-pentagi]] [[bilawalsidhu-gods-eye-view]]
+[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[cathrynlavery-diagram-design]] [[juliusbrussee-caveman]] [[caddyserver-caddy]]
 
 **所属领域**: [[web]]
 

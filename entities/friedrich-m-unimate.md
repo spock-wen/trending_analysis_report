@@ -34,5 +34,5 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[madslorentzen-ai-job-search]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]]
+[[madslorentzen-ai-job-search]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]]
 

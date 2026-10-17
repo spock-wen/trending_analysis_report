@@ -35,7 +35,7 @@ mini cli search engine for your docs, knowledge bases, meeting notes, whatever. 
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[cursor-plugins]] [[ruvnet-ruflo]] [[morluto-rea]] [[nvm-sh-nvm]]
+[[akitaonrails-ai-memory]] [[anthropics-claude-code]] [[ruvnet-ruflo]] [[stablyai-orca]] [[hkuds-cli-anything]]
 
 **所属领域**: [[cli]]
 

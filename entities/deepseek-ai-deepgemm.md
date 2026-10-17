@@ -35,7 +35,7 @@ DeepGEMM: clean and efficient BLAS kernel library on GPU
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[deepseek-ai-deepep]] [[obra-superpowers]] [[hkuds-cli-anything]]
+[[affaan-m-ecc]] [[moonshotai-flashkda]] [[deepseek-ai-deepep]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

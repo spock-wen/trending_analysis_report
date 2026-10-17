@@ -34,5 +34,5 @@ Display and control your Android device
 
 ## 相关项目
 
-[[willfaust-madeira]] [[epicgames-raddebugger]] [[antirez-ds4]] [[colbymchenry-codegraph]]
+[[willfaust-madeira]] [[epicgames-raddebugger]] [[colbymchenry-codegraph]] [[antirez-ds4]]
 

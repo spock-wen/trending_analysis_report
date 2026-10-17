@@ -35,7 +35,7 @@ Source control for agents. Use multiple coding agents, track their changes and q
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[trycua-cua]] [[anthropics-claude-plugins-official]] [[storytold-artcraft]] [[rust-lang-rust]]
+[[akitaonrails-ai-memory]] [[rust-lang-rust]] [[affaan-m-ecc]] [[storytold-artcraft]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

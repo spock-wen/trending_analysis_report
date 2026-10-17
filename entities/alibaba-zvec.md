@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[k-dense-ai-scientific-agent-skills]] [[microsoft-bitnet]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]]
+[[tensorflow-tensorflow]] [[hugohe3-ppt-master]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[data]]
 

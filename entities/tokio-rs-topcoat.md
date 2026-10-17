@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[trycua-cua]] [[cathrynlavery-diagram-design]] [[storytold-artcraft]] [[rust-lang-rust]]
+[[akitaonrails-ai-memory]] [[alishahryar1-free-claude-code]] [[rust-lang-rust]] [[cathrynlavery-diagram-design]] [[storytold-artcraft]]
 
 **所属领域**: [[web]]
 

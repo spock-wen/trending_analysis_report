@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[sonarr-sonarr]]
+[[sonarr-sonarr]] [[ntdevlabs-tiny11builder]] [[affaan-m-ecc]] [[hkuds-cli-anything]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]]
 

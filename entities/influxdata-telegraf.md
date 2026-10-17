@@ -36,7 +36,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[k-dense-ai-scientific-agent-skills]] [[juliusbrussee-caveman]] [[anthropics-claude-plugins-official]] [[vxcontrol-pentagi]]
+[[alibaba-open-code-review]] [[hugohe3-ppt-master]] [[affaan-m-ecc]] [[juliusbrussee-caveman]] [[caddyserver-caddy]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

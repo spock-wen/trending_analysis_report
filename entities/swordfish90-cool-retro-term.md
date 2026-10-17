@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[obra-superpowers]] [[hkuds-cli-anything]] [[xerj-org-xerj]]
+[[anthropics-claude-code]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]]
 
 **所属领域**: [[cli]]
 

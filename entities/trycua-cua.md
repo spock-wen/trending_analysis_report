@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[tester-army-e2e]] [[actions-runner-images]] [[k-dense-ai-scientific-agent-skills]] [[ntdevlabs-tiny11builder]] [[anthropics-claude-plugins-official]]
+[[tester-army-e2e]] [[akitaonrails-ai-memory]] [[ntdevlabs-tiny11builder]] [[rust-lang-rust]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[trycua-cua]] [[oblien-openship]] [[xtool-org-xtool]] [[ruvnet-ruflo]] [[getsentry-sentry]]
+[[akitaonrails-ai-memory]] [[getsentry-sentry]] [[xtool-org-xtool]] [[oblien-openship]] [[rust-lang-rust]]
 
 **所属领域**: [[devops]]
 

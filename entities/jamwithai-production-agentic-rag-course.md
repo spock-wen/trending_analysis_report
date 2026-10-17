@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[tensorflow-tensorflow]] [[k-dense-ai-scientific-agent-skills]] [[huggingface-transformers]] [[ruvnet-ruflo]]
+[[tensorflow-tensorflow]] [[huggingface-transformers]] [[affaan-m-ecc]] [[madslorentzen-ai-job-search]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

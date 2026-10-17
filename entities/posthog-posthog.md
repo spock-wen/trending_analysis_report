@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[k-dense-ai-scientific-agent-skills]] [[cathrynlavery-diagram-design]] [[oblien-openship]] [[xtool-org-xtool]]
+[[getsentry-sentry]] [[xtool-org-xtool]] [[alishahryar1-free-claude-code]] [[hugohe3-ppt-master]] [[oblien-openship]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

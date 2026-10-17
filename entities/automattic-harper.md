@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[trycua-cua]] [[storytold-artcraft]] [[rust-lang-rust]]
+[[cloudflare-security-audit-skill]] [[akitaonrails-ai-memory]] [[rust-lang-rust]] [[affaan-m-ecc]] [[storytold-artcraft]]
 
 **所属领域**: [[security]]
 

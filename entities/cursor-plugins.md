@@ -38,5 +38,5 @@ Cursor plugin specification and official plugins
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[mksglu-context-mode]] [[morluto-rea]]
+[[anthropics-claude-code]] [[stablyai-orca]] [[ruvnet-ruflo]] [[anomalyco-opencode]]
 

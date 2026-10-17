@@ -38,7 +38,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[tensorflow-tensorflow]] [[cursor-plugins]] [[k-dense-ai-scientific-agent-skills]] [[huggingface-transformers]]
+[[akitaonrails-ai-memory]] [[tensorflow-tensorflow]] [[anomalyco-opencode]] [[huggingface-transformers]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

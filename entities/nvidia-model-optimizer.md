@@ -36,7 +36,7 @@ A unified library of SOTA model optimization techniques like quantization, disti
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[tensorflow-tensorflow]] [[k-dense-ai-scientific-agent-skills]] [[huggingface-transformers]] [[xtool-org-xtool]]
+[[getsentry-sentry]] [[tensorflow-tensorflow]] [[xtool-org-xtool]] [[huggingface-transformers]] [[oblien-openship]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

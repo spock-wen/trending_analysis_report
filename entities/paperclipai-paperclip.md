@@ -38,7 +38,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[mksglu-context-mode]] [[cursor-plugins]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]]
+[[akitaonrails-ai-memory]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[tensorflow-tensorflow]] [[k-dense-ai-scientific-agent-skills]] [[huggingface-transformers]] [[ruvnet-ruflo]]
+[[tensorflow-tensorflow]] [[huggingface-transformers]] [[hugohe3-ppt-master]] [[affaan-m-ecc]] [[jamwithai-production-agentic-rag-course]]
 
 **所属领域**: [[data]] [[education]]
 

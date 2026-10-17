@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[madslorentzen-ai-job-search]] [[k-dense-ai-scientific-agent-skills]] [[nationalsecurityagency-ghidra]]
+[[cloudflare-security-audit-skill]] [[akitaonrails-ai-memory]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[madslorentzen-ai-job-search]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

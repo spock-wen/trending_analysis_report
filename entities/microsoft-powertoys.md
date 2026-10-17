@@ -38,5 +38,5 @@ Microsoft PowerToys is a collection of utilities that supercharge productivity a
 
 ## 相关项目
 
-[[willfaust-madeira]] [[epicgames-raddebugger]] [[antirez-ds4]] [[colbymchenry-codegraph]]
+[[willfaust-madeira]] [[epicgames-raddebugger]] [[colbymchenry-codegraph]] [[antirez-ds4]]
 

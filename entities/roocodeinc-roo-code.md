@@ -34,7 +34,7 @@ Roo Code gives you a whole dev team of AI agents in your code editor.
 
 ## 相关项目
 
-[[mksglu-context-mode]] [[cursor-plugins]] [[k-dense-ai-scientific-agent-skills]] [[ruvnet-ruflo]] [[anthropics-claude-plugins-official]]
+[[anomalyco-opencode]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[ruvnet-ruflo]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]]
 

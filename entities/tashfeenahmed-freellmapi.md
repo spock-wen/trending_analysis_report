@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[mksglu-context-mode]] [[cloudflare-security-audit-skill]] [[cursor-plugins]] [[k-dense-ai-scientific-agent-skills]]
+[[cloudflare-security-audit-skill]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

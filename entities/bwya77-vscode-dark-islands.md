@@ -34,7 +34,7 @@ VSCode theme based off the easemate IDE and Jetbrains islands theme
 
 ## 相关项目
 
-[[raphire-win11debloat]] [[actions-runner-images]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[nvm-sh-nvm]]
+[[akitaonrails-ai-memory]] [[raphire-win11debloat]] [[anthropics-claude-code]] [[actions-runner-images]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

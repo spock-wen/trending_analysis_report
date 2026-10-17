@@ -38,7 +38,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[k-dense-ai-scientific-agent-skills]] [[oblien-openship]] [[xtool-org-xtool]] [[ruvnet-ruflo]]
+[[akitaonrails-ai-memory]] [[getsentry-sentry]] [[xtool-org-xtool]] [[oblien-openship]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

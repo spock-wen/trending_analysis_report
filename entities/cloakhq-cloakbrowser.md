@@ -38,7 +38,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[madslorentzen-ai-job-search]] [[earthtojake-text-to-cad]] [[k-dense-ai-scientific-agent-skills]]
+[[ever-co-ever-gauzy]] [[obra-superpowers]] [[cloudflare-security-audit-skill]] [[alishahryar1-free-claude-code]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

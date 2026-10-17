@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[trycua-cua]] [[cathrynlavery-diagram-design]] [[nvm-sh-nvm]] [[storytold-artcraft]]
+[[akitaonrails-ai-memory]] [[alishahryar1-free-claude-code]] [[rust-lang-rust]] [[anthropics-claude-code]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[cli]]
 

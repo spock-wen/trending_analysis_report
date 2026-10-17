@@ -38,7 +38,7 @@ Context window optimization for AI coding agents. Sandboxes tool output (98% red
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[cursor-plugins]] [[ruvnet-ruflo]] [[anthropics-claude-plugins-official]] [[morluto-rea]]
+[[anomalyco-opencode]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[ruvnet-ruflo]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]]
 

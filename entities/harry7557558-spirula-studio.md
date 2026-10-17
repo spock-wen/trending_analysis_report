@@ -34,7 +34,7 @@ Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or C
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]] [[microsoft-bitnet]] [[m-abozaid-esp32-c3-adblock]]
+[[tensorflow-tensorflow]] [[affaan-m-ecc]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

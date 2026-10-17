@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[raphire-win11debloat]] [[tester-army-e2e]] [[bwya77-vscode-dark-islands]] [[trycua-cua]] [[nvm-sh-nvm]]
+[[tester-army-e2e]] [[akitaonrails-ai-memory]] [[ntdevlabs-tiny11builder]] [[bwya77-vscode-dark-islands]] [[raphire-win11debloat]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

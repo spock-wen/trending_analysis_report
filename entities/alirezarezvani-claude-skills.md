@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[obra-superpowers]] [[akitaonrails-ai-memory]] [[anthropics-claude-code]] [[hugohe3-ppt-master]]
+[[earthtojake-text-to-cad]] [[comfy-org-comfyui]] [[obra-superpowers]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

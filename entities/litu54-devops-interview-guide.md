@@ -34,7 +34,7 @@ DevOps Interview Guide
 
 ## 相关项目
 
-[[oblien-openship]] [[ruvnet-ruflo]] [[getsentry-sentry]] [[xtool-org-xtool]]
+[[xtool-org-xtool]] [[ruvnet-ruflo]] [[oblien-openship]] [[getsentry-sentry]]
 
 **所属领域**: [[devops]]
 

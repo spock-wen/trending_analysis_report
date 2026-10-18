@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[plausible-analytics]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]]
+[[hkuds-cli-anything]] [[stablyai-orca]] [[plausible-analytics]] [[teslamate-org-teslamate]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]]
 

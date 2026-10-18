@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[alishahryar1-free-claude-code]] [[hugohe3-ppt-master]] [[affaan-m-ecc]] [[cathrynlavery-diagram-design]]
+[[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[xerj-org-xerj]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

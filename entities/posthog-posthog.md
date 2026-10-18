@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[getsentry-sentry]] [[xtool-org-xtool]] [[alishahryar1-free-claude-code]] [[hugohe3-ppt-master]] [[oblien-openship]]
+[[comfy-org-comfyui]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[xerj-org-xerj]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

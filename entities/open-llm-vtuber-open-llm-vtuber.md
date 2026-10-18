@@ -37,7 +37,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[huggingface-transformers]] [[alishahryar1-free-claude-code]] [[hugohe3-ppt-master]] [[affaan-m-ecc]] [[debpalash-voicestudio]]
+[[huggingface-transformers]] [[comfy-org-comfyui]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

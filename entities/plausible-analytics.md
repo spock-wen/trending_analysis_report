@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[alishahryar1-free-claude-code]] [[hugohe3-ppt-master]] [[affaan-m-ecc]] [[cathrynlavery-diagram-design]]
+[[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[xerj-org-xerj]] [[nationalsecurityagency-ghidra]] [[affaan-m-ecc]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

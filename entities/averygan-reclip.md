@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[ripienaar-free-for-dev]] [[alishahryar1-free-claude-code]] [[anthropics-claude-code]] [[cathrynlavery-diagram-design]]
+[[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[xerj-org-xerj]] [[pkuflyingpig-cs-self-learning]]
 
 **所属领域**: [[web]] [[cli]]
 

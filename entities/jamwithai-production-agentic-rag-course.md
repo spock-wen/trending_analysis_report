@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[huggingface-transformers]] [[affaan-m-ecc]] [[madslorentzen-ai-job-search]] [[ruvnet-ruflo]]
+[[huggingface-transformers]] [[comfy-org-comfyui]] [[tensorflow-tensorflow]] [[hkuds-cli-anything]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

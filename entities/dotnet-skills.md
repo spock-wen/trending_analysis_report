@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[sonarr-sonarr]] [[ntdevlabs-tiny11builder]] [[affaan-m-ecc]] [[hkuds-cli-anything]] [[anthropics-claude-plugins-official]]
+[[sonarr-sonarr]] [[hkuds-cli-anything]] [[dotnet-aspnetcore]] [[stablyai-orca]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]]
 

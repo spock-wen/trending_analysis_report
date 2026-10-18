@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[obra-superpowers]] [[akitaonrails-ai-memory]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

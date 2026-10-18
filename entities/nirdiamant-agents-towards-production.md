@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[tensorflow-tensorflow]] [[oblien-openship]] [[hugohe3-ppt-master]] [[affaan-m-ecc]]
+[[huggingface-transformers]] [[higgsfield-ai-higgsfield]] [[tensorflow-tensorflow]] [[hkuds-cli-anything]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

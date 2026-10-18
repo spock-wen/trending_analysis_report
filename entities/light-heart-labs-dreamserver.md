@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[tester-army-e2e]] [[ntdevlabs-tiny11builder]] [[trycua-cua]] [[huggingface-transformers]] [[alishahryar1-free-claude-code]]
+[[huggingface-transformers]] [[comfy-org-comfyui]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[rust-lang-rust]] [[affaan-m-ecc]] [[paperclipai-paperclip]] [[robbyant-lingbot-map]]
+[[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[robbyant-lingbot-map]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

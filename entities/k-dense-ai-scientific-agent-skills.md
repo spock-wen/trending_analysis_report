@@ -38,7 +38,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[affaan-m-ecc]] [[paperclipai-paperclip]] [[robbyant-lingbot-map]] [[madslorentzen-ai-job-search]]
+[[comfy-org-comfyui]] [[robbyant-lingbot-map]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[akitaonrails-ai-memory]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[madslorentzen-ai-job-search]]
+[[comfy-org-comfyui]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

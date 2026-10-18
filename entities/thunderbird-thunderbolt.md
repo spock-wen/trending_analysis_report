@@ -34,7 +34,7 @@ AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[anthropics-claude-code]] [[hugohe3-ppt-master]] [[affaan-m-ecc]] [[ruvnet-ruflo]]
+[[cursor-plugins]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[stablyai-orca]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

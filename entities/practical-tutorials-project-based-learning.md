@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[huggingface-transformers]] [[jamwithai-production-agentic-rag-course]] [[madslorentzen-ai-job-search]] [[ruvnet-ruflo]]
+[[huggingface-transformers]] [[comfy-org-comfyui]] [[tensorflow-tensorflow]] [[hkuds-cli-anything]] [[ruvnet-ruflo]]
 
 **所属领域**: [[education]]
 

@@ -35,7 +35,7 @@ OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换�
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[rust-lang-rust]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[storytold-artcraft]]
+[[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[stablyai-orca]] [[rust-lang-rust]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

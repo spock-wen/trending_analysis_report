@@ -34,7 +34,7 @@ A framework for building, orchestrating and deploying AI agents and multi-agent 
 
 ## 相关项目
 
-[[getsentry-sentry]] [[xtool-org-xtool]] [[oblien-openship]] [[affaan-m-ecc]] [[madslorentzen-ai-job-search]]
+[[comfy-org-comfyui]] [[hkuds-cli-anything]] [[stablyai-orca]] [[xtool-org-xtool]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -38,7 +38,7 @@ Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for fre
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[huggingface-transformers]] [[anthropics-claude-code]] [[hugohe3-ppt-master]] [[affaan-m-ecc]]
+[[huggingface-transformers]] [[comfy-org-comfyui]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]] [[audio]]
 

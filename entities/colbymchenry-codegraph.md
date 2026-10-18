@@ -38,7 +38,7 @@ Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
 
 ## 相关项目
 
-[[antirez-ds4]] [[epicgames-raddebugger]] [[affaan-m-ecc]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]]
+[[willfaust-madeira]] [[hkuds-cli-anything]] [[stablyai-orca]] [[antirez-ds4]] [[epicgames-raddebugger]]
 
 **所属领域**: [[ai-agent]]
 

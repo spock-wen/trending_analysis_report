@@ -37,7 +37,7 @@ Deepseek to API: A lightweight, high-performance full-stack middleware convertin
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[akitaonrails-ai-memory]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[juliusbrussee-caveman]]
+[[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[caddyserver-caddy]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

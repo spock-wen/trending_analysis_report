@@ -36,7 +36,7 @@ OCR model that handles complex tables, forms, handwriting with full layout.
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[madslorentzen-ai-job-search]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]]
+[[comfy-org-comfyui]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[data]]
 

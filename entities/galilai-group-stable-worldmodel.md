@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[tester-army-e2e]] [[ntdevlabs-tiny11builder]] [[trycua-cua]] [[affaan-m-ecc]] [[actions-runner-images]]
+[[comfy-org-comfyui]] [[robbyant-lingbot-map]] [[hkuds-cli-anything]] [[stablyai-orca]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

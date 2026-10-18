@@ -34,5 +34,5 @@ Open-source, ad-free Android multimedia recorder with background video recording
 
 ## 相关项目
 
-[[yuliskov-smarttube]] [[nationalsecurityagency-ghidra]] [[google-guava]] [[checkstyle-checkstyle]]
+[[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]] [[yuliskov-smarttube]] [[google-guava]]
 

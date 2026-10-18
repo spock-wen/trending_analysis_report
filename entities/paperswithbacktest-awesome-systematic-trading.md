@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[huggingface-transformers]] [[affaan-m-ecc]] [[jamwithai-production-agentic-rag-course]] [[paperclipai-paperclip]]
+[[huggingface-transformers]] [[comfy-org-comfyui]] [[tensorflow-tensorflow]] [[robbyant-lingbot-map]] [[hkuds-cli-anything]]
 
 **所属领域**: [[education]] [[science]]
 

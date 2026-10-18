@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-18 | 总页面：823
+> 最后更新：2026-10-19 | 总页面：825
 
 ## Entities
 
@@ -39,7 +39,7 @@
 - [[aieradev-clypra|Clypra]] — A modern video editor built with Tauri, React, and TypeScrip...
 - [[aipoch-open-science|open-science]] — Open Science by AIPOCH is an open-source, local-first, model...
 - [[aishwaryanr-awesome-generative-ai-guide|awesome-generative-ai-guide]] — A one stop repository for generative AI research updates, in...
-- [[akitaonrails-ai-memory|ai-memory]] — Solution for long term memory for agent coding CLIs and to f...
+- [[akitaonrails-ai-memory|ai-memory]] — Solution for long term memory for agent coding CLIs and to f... 🆕
 - [[alchaincyf-zhangxuefeng-skill|zhangxuefeng-skill]] — 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 - [[alexsjones-llmfit|llmfit]] — Hundreds of models & providers. One command to find what run...
 - [[alexzhang13-rlm|rlm]] — General plug-and-play inference library for Recursive Langua...
@@ -59,13 +59,13 @@
 - [[andreknieriem-headunit-revived|headunit-revived]] — Headunit App for displaying Android Auto
 - [[andrewrabert-jellium-desktop|jellium-desktop]] — An unofficial desktop client for Jellyfin
 - [[andrewyng-aisuite|aisuite]] — Simple, unified interface to multiple Generative AI provider...
-- [[android-skills|skills]] — No description 🆕
+- [[android-skills|skills]] — No description 🔥
 - [[androoagi-starnet|starnet]] — A living pixel-art station where real AI agents do real work...
 - [[andyyyy64-whichllm|whichllm]] — Find the local LLM that actually runs and performs best on y... 🆕
 - [[angular-angular|angular]] — Deliver web apps with confidence 🚀
 - [[anil-matcha-open-generative-ai|Open-Generative-AI]] — Unrestricted Open-source alternative to AI video platforms —...
 - [[ankitects-anki|anki]] — Anki is a smart spaced repetition flashcard program
-- [[anomalyco-opencode|opencode]] — The open source coding agent.
+- [[anomalyco-opencode|opencode]] — The open source coding agent. 🆕
 - [[anonfaded-fadcam|FadCam]] — Open-source, ad-free Android multimedia recorder with backgr...
 - [[ansible-ansible|ansible]] — Ansible is a radically simple IT automation platform that ma...
 - [[anthropics-claude-agent-sdk|claude-agent-sdk]] — Anthropic 官方 Claude Agent SDK
@@ -171,7 +171,7 @@
 - [[coleam00-archon|Archon]] — The first open-source harness builder for AI coding. Make AI... 🔥
 - [[colemurray-background-agents|background-agents]] — An open-source background agents coding system
 - [[colinhacks-zod|zod]] — TypeScript-first schema validation with static type inferenc...
-- [[comfy-org-comfyui|ComfyUI]] — The most powerful and modular diffusion model GUI, api and b... 🆕
+- [[comfy-org-comfyui|ComfyUI]] — The most powerful and modular diffusion model GUI, api and b...
 - [[commaai-openpilot|openpilot]] — openpilot is an operating system for robotics. Currently, it... 🔥
 - [[composiohq-awesome-claude-skills|awesome-claude-skills]] — A curated list of awesome Claude Skills, resources, and tool...
 - [[composiohq-awesome-codex-skills|awesome-codex-skills]] — A curated list of practical Codex skills for automating work... 🔥
@@ -328,7 +328,7 @@
 - [[heygen-com-hyperframes|hyperframes]] — Write HTML. Render video. Built for agents. 🔥
 - [[higgsfield-ai-higgsfield|higgsfield]] — Fault-tolerant, highly scalable GPU orchestration, and a mac... 🆕
 - [[hkuds-ai-trader|AI-Trader]] — "AI-Trader: 100% Fully-Automated Agent-Native Trading"
-- [[hkuds-cli-anything|CLI-Anything]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:... 🆕
+- [[hkuds-cli-anything|CLI-Anything]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:... 🔥
 - [[hkuds-deeptutor|DeepTutor]] — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor...
 - [[hkuds-lightrag|LightRAG]] — [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented G...
 - [[hkuds-rag-anything|RAG-Anything]] — "RAG-Anything: All-in-One RAG Framework" 🆕
@@ -407,6 +407,7 @@
 - [[koala73-worldmonitor|worldmonitor]] — Real-time global intelligence dashboard. AI-powered news agg... 🔥
 - [[kong-insomnia|insomnia]] — The open-source, cross-platform API client for GraphQL, REST... 🔥
 - [[krahets-hello-algo|hello-algo]] — 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python...
+- [[kruk2-jasna|jasna]] — Video restoration tool 🆕
 - [[kunchenguid-no-mistakes|no-mistakes]] — git push no-mistakes
 - [[kvcache-ai-ktransformers|ktransformers]] — A Flexible Framework for Experiencing Heterogeneous LLM Infe... 🆕
 - [[kyutai-labs-pocket-tts|pocket-tts]] — A TTS that fits in your CPU (and pocket)
@@ -448,7 +449,7 @@
 - [[m-abozaid-esp32-c3-adblock|esp32-c3-adblock]] — Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 53...
 - [[macro-inc-macro|macro]] — Macro is a unified workspace for teams: email, chat, docs, t... 🔥
 - [[maderix-ane|ANE]] — Training neural networks on Apple Neural Engine via reverse-...
-- [[madslorentzen-ai-job-search|ai-job-search]] — The job search that runs on your machine. AI job application... 🆕
+- [[madslorentzen-ai-job-search|ai-job-search]] — The job search that runs on your machine. AI job application... 🔥
 - [[magnitudedev-magnitude|magnitude]] — Open source inference server that runs the best local models... 🔥
 - [[mahlernim-google-timeline-visualizer|google-timeline-visualizer]] — Visualize your year in travel using your Google Location His... 🔥
 - [[majd-ipatool|ipatool]] — Command-line tool that allows searching and downloading app ... 🆕
@@ -495,6 +496,7 @@
 - [[mikumifa-bilitickerbuy|biliTickerBuy]] — b站会员购购票辅助工具
 - [[millionco-react-doctor|react-doctor]] — Your agent writes bad React. This catches it 🔥
 - [[mksglu-context-mode|context-mode]] — Context window optimization for AI coding agents. Sandboxes ... 🔥
+- [[mlabonne-llm-course|llm-course]] — Course to get into Large Language Models (LLMs) with roadmap... 🆕
 - [[mobile-dev-inc-maestro|Maestro]] — Painless E2E Automation for Mobile and Web
 - [[mobile-next-mobile-mcp|mobile-mcp]] — Model Context Protocol Server for Mobile Automation and Scra...
 - [[modelcontextprotocol-servers|servers]] — Model Context Protocol Servers
@@ -678,7 +680,7 @@
 - [[sonarr-sonarr|Sonarr]] — Smart PVR for newsgroup and bittorrent users. 🆕
 - [[soxoj-maigret|maigret]] — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ s...
 - [[st-tech-ppf-contact-solver|ppf-contact-solver]] — A contact solver for physics-based simulations involving 👚 s...
-- [[stablyai-orca|orca]] — Orca is the place for working with a fleet of agents (e.g. G...
+- [[stablyai-orca|orca]] — Orca is the place for working with a fleet of agents (e.g. G... 🆕
 - [[stefan-jansen-machine-learning-for-trading|machine-learning-for-trading]] — Code for Machine Learning for Algorithmic Trading, 2nd editi... 🆕
 - [[steipete-codexbar|CodexBar]] — Show usage stats for OpenAI Codex and Claude Code, without h... 🔥
 - [[stirling-tools-stirling-pdf|Stirling-PDF]] — - 语言: TypeScript

@@ -34,5 +34,5 @@ You like pytorch? You like micrograd? You love tinygrad! ❤️
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]]
+[[comfy-org-comfyui]] [[madslorentzen-ai-job-search]] [[hkuds-cli-anything]] [[anthropics-claude-plugins-official]]
 

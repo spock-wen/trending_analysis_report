@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[hugohe3-ppt-master]] [[affaan-m-ecc]] [[paperclipai-paperclip]] [[robbyant-lingbot-map]]
+[[comfy-org-comfyui]] [[robbyant-lingbot-map]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

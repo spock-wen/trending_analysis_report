@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[alishahryar1-free-claude-code]] [[hugohe3-ppt-master]] [[affaan-m-ecc]] [[jamwithai-production-agentic-rag-course]]
+[[comfy-org-comfyui]] [[tensorflow-tensorflow]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

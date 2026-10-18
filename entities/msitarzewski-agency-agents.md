@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[obra-superpowers]] [[akitaonrails-ai-memory]] [[nvm-sh-nvm]] [[alishahryar1-free-claude-code]] [[anthropics-claude-code]]
+[[obra-superpowers]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[xerj-org-xerj]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

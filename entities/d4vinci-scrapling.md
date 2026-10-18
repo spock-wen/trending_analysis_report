@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[madslorentzen-ai-job-search]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]]
+[[anthropics-claude-plugins-official]] [[comfy-org-comfyui]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[madslorentzen-ai-job-search]]
 
 **所属领域**: [[web]]
 

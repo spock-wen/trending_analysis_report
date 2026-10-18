@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tester-army-e2e]] [[ntdevlabs-tiny11builder]] [[trycua-cua]] [[affaan-m-ecc]] [[actions-runner-images]]
+[[comfy-org-comfyui]] [[hkuds-cli-anything]] [[stablyai-orca]] [[ntdevlabs-tiny11builder]] [[madslorentzen-ai-job-search]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

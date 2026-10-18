@@ -36,7 +36,7 @@ Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[getsentry-sentry]] [[anomalyco-opencode]] [[xtool-org-xtool]] [[oblien-openship]]
+[[cursor-plugins]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

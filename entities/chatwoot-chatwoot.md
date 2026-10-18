@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[docusealco-docuseal]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]]
+[[docusealco-docuseal]] [[hkuds-cli-anything]] [[stablyai-orca]] [[anthropics-claude-plugins-official]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ DeepEP: an efficient expert-parallel communication library
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[moonshotai-flashkda]] [[deepseek-ai-deepgemm]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]]
+[[hkuds-cli-anything]] [[stablyai-orca]] [[moonshotai-flashkda]] [[deepseek-ai-deepgemm]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]]
 

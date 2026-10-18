@@ -38,7 +38,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[affaan-m-ecc]] [[juliusbrussee-caveman]] [[caddyserver-caddy]] [[hkuds-cli-anything]]
+[[hkuds-cli-anything]] [[caddyserver-caddy]] [[stablyai-orca]] [[anomalyco-opencode]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ Source control for agents. Use multiple coding agents, track their changes and q
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[rust-lang-rust]] [[affaan-m-ecc]] [[storytold-artcraft]] [[hkuds-cli-anything]]
+[[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[stablyai-orca]] [[rust-lang-rust]]
 
 **所属领域**: [[ai-agent]]
 

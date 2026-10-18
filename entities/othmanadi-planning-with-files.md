@@ -34,7 +34,7 @@ Persistent file-based planning for AI coding agents and long-running agentic tas
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[madslorentzen-ai-job-search]] [[hkuds-cli-anything]]
+[[comfy-org-comfyui]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

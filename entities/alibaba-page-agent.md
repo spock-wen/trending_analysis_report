@@ -38,7 +38,7 @@ JavaScript in-page GUI agent. Control web interfaces with natural language.
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[alishahryar1-free-claude-code]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[cathrynlavery-diagram-design]]
+[[cursor-plugins]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[stablyai-orca]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

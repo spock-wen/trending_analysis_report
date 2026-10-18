@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[cloudflare-security-audit-skill]] [[getsentry-sentry]] [[xtool-org-xtool]] [[oblien-openship]]
+[[xerj-org-xerj]] [[nationalsecurityagency-ghidra]] [[caddyserver-caddy]] [[affaan-m-ecc]] [[alibaba-open-code-review]]
 
 **所属领域**: [[devops]] [[security]]
 

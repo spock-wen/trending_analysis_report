@@ -35,7 +35,7 @@ Data Engineering Zoomcamp is a free 9-week course on building production-ready d
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[huggingface-transformers]] [[hugohe3-ppt-master]] [[lyogavin-airllm]] [[higgsfield-ai-higgsfield]]
+[[huggingface-transformers]] [[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[xerj-org-xerj]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[data]] [[education]]
 

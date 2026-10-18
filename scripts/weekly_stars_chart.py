@@ -17,18 +17,19 @@ rows = db.execute("SELECT repo_full_name, weekly_stars FROM weekly_trending WHER
 
 def cat(name):
     workflow = {'affaan-m/ECC','stablyai/orca','paperclipai/paperclip','vectorize-io/hindsight','dream-num/univer','superdesigndev/treg','HKUDS/CLI-Anything','davila7/claude-code-templates','addyosmani/agent-skills','Panniantong/Agent-Reach','pbakaus/impeccable','alirezarezvani/claude-skills',
-                'mattpocock/skills','thedotmack/claude-mem','pingdotgg/t3code','mvschwarz/openrig','cursor/plugins','ranxianglei/billion-context','earthtojake/text-to-cad'}
+                'mattpocock/skills','thedotmack/claude-mem','pingdotgg/t3code','mvschwarz/openrig','cursor/plugins','ranxianglei/billion-context','earthtojake/text-to-cad',
+                'morluto/rea','cathrynlavery/diagram-design','mksglu/context-mode'}
     if name in workflow:
-        return 'Skill/Agent 工作流'
-    big_vendors = {'anthropics/financial-services','anthropics/claude-code','anthropics/knowledge-work-plugins','cloudflare/security-audit-skill','cloudflare/quiche','Tencent/WeKnora','alibaba/open-code-review','TencentCloud/Octop','pytorch/pytorch','flutter/flutter','EpicGames/raddebugger'}
+        return 'Agent/Skill 工作流'
+    big_vendors = {'anthropics/financial-services','anthropics/claude-code','anthropics/knowledge-work-plugins','anthropics/claude-plugins-official','cloudflare/security-audit-skill','cloudflare/quiche','Tencent/WeKnora','alibaba/open-code-review','TencentCloud/Octop','pytorch/pytorch','flutter/flutter','EpicGames/raddebugger','NationalSecurityAgency/ghidra'}
     if name in big_vendors:
-        return '大厂官方/产品级'
-    ai_content = {'heygen-com/hyperframes','debpalash/VoiceStudio','harry0703/MoneyPrinterTurbo'}
+        return '大厂官方'
+    ai_content = {'heygen-com/hyperframes','debpalash/VoiceStudio','harry0703/MoneyPrinterTurbo','storytold/artcraft'}
     if name in ai_content:
         return 'AI 内容创作'
-    return '独立应用/其他'
+    return '独立应用/硬件'
 
-colors = {'Skill/Agent 工作流': '#4C72B0', '大厂官方/产品级': '#E4572E', '独立应用/其他': '#2E8B57', 'AI 内容创作': '#8172B2'}
+colors = {'Agent/Skill 工作流': '#4C72B0', '大厂官方': '#E4572E', '独立应用/硬件': '#2E8B57', 'AI 内容创作': '#8172B2'}
 names = [r[0] for r in rows][::-1]
 stars = [r[1] for r in rows][::-1]
 cats = [cat(r[0]) for r in rows][::-1]

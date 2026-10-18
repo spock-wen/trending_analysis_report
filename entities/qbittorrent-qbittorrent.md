@@ -34,7 +34,7 @@ qBittorrent BitTorrent client
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[tensorflow-tensorflow]] [[anthropics-claude-code]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]]
+[[microsoft-bitnet]] [[tensorflow-tensorflow]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]]
 
 **所属领域**: [[cli]]
 

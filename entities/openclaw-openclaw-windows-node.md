@@ -35,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[sonarr-sonarr]] [[akitaonrails-ai-memory]] [[ntdevlabs-tiny11builder]] [[anthropics-claude-code]] [[hkuds-cli-anything]]
+[[sonarr-sonarr]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[cli]]
 

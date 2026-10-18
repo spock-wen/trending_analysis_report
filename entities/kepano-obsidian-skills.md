@@ -35,7 +35,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[tensorflow-tensorflow]] [[huggingface-transformers]] [[anthropics-claude-code]] [[affaan-m-ecc]]
+[[huggingface-transformers]] [[tensorflow-tensorflow]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

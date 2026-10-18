@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[huggingface-transformers]] [[alishahryar1-free-claude-code]] [[hugohe3-ppt-master]] [[affaan-m-ecc]]
+[[huggingface-transformers]] [[microsoft-bitnet]] [[tensorflow-tensorflow]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

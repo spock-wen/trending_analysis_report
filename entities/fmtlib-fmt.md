@@ -37,5 +37,5 @@ A modern formatting library
 
 ## 相关项目
 
-[[m-abozaid-esp32-c3-adblock]] [[microsoft-bitnet]] [[boykopovar-anyps5]] [[tensorflow-tensorflow]]
+[[boykopovar-anyps5]] [[microsoft-bitnet]] [[m-abozaid-esp32-c3-adblock]] [[tensorflow-tensorflow]]
 

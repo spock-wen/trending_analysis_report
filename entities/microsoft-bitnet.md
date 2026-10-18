@@ -36,7 +36,7 @@ Official inference framework for 1-bit LLMs
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[affaan-m-ecc]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]] [[hkuds-cli-anything]]
+[[tensorflow-tensorflow]] [[hkuds-cli-anything]] [[boykopovar-anyps5]] [[stablyai-orca]] [[m-abozaid-esp32-c3-adblock]]
 
 **所属领域**: [[ai-agent]]
 

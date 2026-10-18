@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[obra-superpowers]] [[anthropics-claude-code]] [[hugohe3-ppt-master]] [[ruvnet-ruflo]]
+[[earthtojake-text-to-cad]] [[cursor-plugins]] [[obra-superpowers]] [[stablyai-orca]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[erp]]
 

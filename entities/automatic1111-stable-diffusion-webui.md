@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[tester-army-e2e]] [[ntdevlabs-tiny11builder]] [[trycua-cua]] [[alishahryar1-free-claude-code]] [[actions-runner-images]]
+[[anthropics-claude-plugins-official]] [[comfy-org-comfyui]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[ntdevlabs-tiny11builder]]
 
 **所属领域**: [[web]] [[image-gen]]
 

@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[cathrynlavery-diagram-design]] [[averygan-reclip]]
+[[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[stablyai-orca]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

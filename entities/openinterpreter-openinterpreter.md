@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[obra-superpowers]] [[akitaonrails-ai-memory]] [[rust-lang-rust]] [[hugohe3-ppt-master]]
+[[earthtojake-text-to-cad]] [[obra-superpowers]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

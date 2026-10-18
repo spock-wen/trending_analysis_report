@@ -37,5 +37,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[stablyai-orca]] [[ruvnet-ruflo]] [[anomalyco-opencode]]
+[[cursor-plugins]] [[stablyai-orca]] [[anomalyco-opencode]] [[ruvnet-ruflo]]
 

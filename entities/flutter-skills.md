@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[chen08209-flclash]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]] [[flutter-flutter]]
+[[localsend-localsend]] [[hkuds-cli-anything]] [[stablyai-orca]] [[chen08209-flclash]] [[flutter-flutter]]
 
 **所属领域**: [[ai-agent]]
 

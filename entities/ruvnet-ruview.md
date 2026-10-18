@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[getsentry-sentry]] [[xtool-org-xtool]] [[oblien-openship]] [[rust-lang-rust]]
+[[akitaonrails-ai-memory]] [[xerj-org-xerj]] [[rust-lang-rust]] [[storytold-artcraft]] [[xtool-org-xtool]]
 
 **所属领域**: [[devops]]
 

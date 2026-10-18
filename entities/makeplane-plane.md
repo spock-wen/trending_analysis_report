@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[anthropics-claude-code]] [[ruvnet-ruflo]] [[stablyai-orca]] [[hkuds-cli-anything]]
+[[cursor-plugins]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[stablyai-orca]]
 
 **所属领域**: [[cli]]
 

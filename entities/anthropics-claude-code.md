@@ -38,7 +38,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[anomalyco-opencode]] [[affaan-m-ecc]] [[ruvnet-ruflo]] [[stablyai-orca]]
+[[cursor-plugins]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[paperclipai-paperclip]] [[robbyant-lingbot-map]] [[madslorentzen-ai-job-search]] [[hkuds-cli-anything]]
+[[comfy-org-comfyui]] [[robbyant-lingbot-map]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[science]]
 

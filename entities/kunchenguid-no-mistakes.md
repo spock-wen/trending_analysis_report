@@ -35,5 +35,5 @@ git push no-mistakes
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[caddyserver-caddy]]
+[[caddyserver-caddy]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[vxcontrol-pentagi]]
 

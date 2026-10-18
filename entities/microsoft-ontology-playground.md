@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[huggingface-transformers]] [[alishahryar1-free-claude-code]] [[anthropics-claude-code]] [[jamwithai-production-agentic-rag-course]]
+[[huggingface-transformers]] [[cursor-plugins]] [[tensorflow-tensorflow]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[web]] [[education]]
 

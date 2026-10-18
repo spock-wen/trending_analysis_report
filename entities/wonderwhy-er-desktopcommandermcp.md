@@ -38,7 +38,7 @@ This is MCP server for Claude that gives it terminal control, file system search
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[ruvnet-ruflo]]
+[[cursor-plugins]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

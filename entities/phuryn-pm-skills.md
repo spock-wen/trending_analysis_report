@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]]
+[[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[stablyai-orca]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

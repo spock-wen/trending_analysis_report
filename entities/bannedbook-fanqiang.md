@@ -38,5 +38,5 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[mahlernim-google-timeline-visualizer]] [[embabel-embabel-agent]] [[android-skills]]
+[[android-skills]] [[embabel-embabel-agent]] [[mahlernim-google-timeline-visualizer]]
 

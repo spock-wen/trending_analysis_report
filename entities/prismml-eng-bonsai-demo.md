@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[obra-superpowers]] [[akitaonrails-ai-memory]] [[nvm-sh-nvm]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]]
+[[obra-superpowers]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

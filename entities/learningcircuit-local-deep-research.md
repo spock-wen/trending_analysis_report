@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[tensorflow-tensorflow]] [[huggingface-transformers]] [[affaan-m-ecc]] [[jamwithai-production-agentic-rag-course]]
+[[huggingface-transformers]] [[comfy-org-comfyui]] [[tensorflow-tensorflow]] [[robbyant-lingbot-map]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

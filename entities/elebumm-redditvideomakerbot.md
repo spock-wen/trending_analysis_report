@@ -35,7 +35,7 @@ Create Reddit Videos with just✨ one command ✨
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[anthropics-claude-code]] [[madslorentzen-ai-job-search]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]]
+[[comfy-org-comfyui]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[madslorentzen-ai-job-search]]
 
 **所属领域**: [[cli]]
 

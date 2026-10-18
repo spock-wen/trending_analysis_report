@@ -37,7 +37,7 @@ Lightweight coding agent that runs in your terminal
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[rust-lang-rust]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[storytold-artcraft]]
+[[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[stablyai-orca]] [[rust-lang-rust]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

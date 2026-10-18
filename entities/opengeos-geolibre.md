@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[anthropics-claude-code]] [[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[ruvnet-ruflo]]
+[[cursor-plugins]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[xerj-org-xerj]] [[stablyai-orca]]
 
 **所属领域**: [[web]] [[data]]
 

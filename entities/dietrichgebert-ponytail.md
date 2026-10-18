@@ -38,7 +38,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[hmjz100-linkswift]] [[addyosmani-agent-skills]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]]
+[[hkuds-cli-anything]] [[addyosmani-agent-skills]] [[stablyai-orca]] [[hmjz100-linkswift]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

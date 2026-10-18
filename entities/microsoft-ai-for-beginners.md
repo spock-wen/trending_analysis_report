@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[huggingface-transformers]] [[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[affaan-m-ecc]]
+[[huggingface-transformers]] [[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[hkuds-cli-anything]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

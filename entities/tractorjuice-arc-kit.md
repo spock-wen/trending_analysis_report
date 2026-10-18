@@ -34,7 +34,7 @@ Enterprise Architecture Governance & Vendor Procurement Toolkit
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[obra-superpowers]] [[ripienaar-free-for-dev]] [[alishahryar1-free-claude-code]] [[hugohe3-ppt-master]]
+[[earthtojake-text-to-cad]] [[obra-superpowers]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[pkuflyingpig-cs-self-learning]]
 
 **所属领域**: [[web]] [[erp]]
 

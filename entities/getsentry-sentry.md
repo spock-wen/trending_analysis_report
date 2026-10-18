@@ -36,7 +36,7 @@ Developer-first error tracking and performance monitoring
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[oblien-openship]] [[madslorentzen-ai-job-search]] [[ruvnet-ruflo]] [[hkuds-cli-anything]]
+[[comfy-org-comfyui]] [[hkuds-cli-anything]] [[xtool-org-xtool]] [[ruvnet-ruflo]] [[oblien-openship]]
 
 **所属领域**: [[devops]]
 

@@ -38,7 +38,7 @@ Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG 
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[affaan-m-ecc]] [[madslorentzen-ai-job-search]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]]
+[[comfy-org-comfyui]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[stablyai-orca]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

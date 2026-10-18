@@ -36,7 +36,7 @@ DFlash: Block Diffusion for Flash Speculative Decoding
 
 ## 相关项目
 
-[[tester-army-e2e]] [[ntdevlabs-tiny11builder]] [[trycua-cua]] [[actions-runner-images]] [[madslorentzen-ai-job-search]]
+[[comfy-org-comfyui]] [[hkuds-cli-anything]] [[ntdevlabs-tiny11builder]] [[madslorentzen-ai-job-search]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[image-gen]]
 

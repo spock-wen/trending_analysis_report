@@ -38,7 +38,7 @@ Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[averygan-reclip]] [[hkuds-cli-anything]]
+[[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[stablyai-orca]] [[pkuflyingpig-cs-self-learning]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

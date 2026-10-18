@@ -38,7 +38,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[robbyant-lingbot-map]]
+[[cursor-plugins]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

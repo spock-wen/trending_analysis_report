@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[hmjz100-linkswift]] [[nationalsecurityagency-ghidra]] [[addyosmani-agent-skills]] [[hkuds-cli-anything]]
+[[hkuds-cli-anything]] [[xerj-org-xerj]] [[addyosmani-agent-skills]] [[stablyai-orca]] [[hmjz100-linkswift]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

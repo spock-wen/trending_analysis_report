@@ -36,7 +36,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[hugohe3-ppt-master]] [[affaan-m-ecc]] [[juliusbrussee-caveman]] [[caddyserver-caddy]]
+[[hkuds-cli-anything]] [[xerj-org-xerj]] [[caddyserver-caddy]] [[stablyai-orca]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

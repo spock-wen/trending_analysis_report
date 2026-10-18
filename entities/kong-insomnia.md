@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[alishahryar1-free-claude-code]] [[anthropics-claude-code]] [[cathrynlavery-diagram-design]] [[ruvnet-ruflo]]
+[[cursor-plugins]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[xerj-org-xerj]]
 
 **所属领域**: [[web]] [[cli]]
 

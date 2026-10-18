@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[paperclipai-paperclip]] [[robbyant-lingbot-map]]
+[[anthropics-claude-plugins-official]] [[robbyant-lingbot-map]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -38,7 +38,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[getsentry-sentry]] [[xtool-org-xtool]] [[oblien-openship]] [[anthropics-claude-code]]
+[[comfy-org-comfyui]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

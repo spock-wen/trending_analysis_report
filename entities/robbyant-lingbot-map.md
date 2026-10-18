@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[affaan-m-ecc]] [[paperclipai-paperclip]] [[madslorentzen-ai-job-search]] [[hkuds-cli-anything]]
+[[comfy-org-comfyui]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[affaan-m-ecc]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[data]] [[science]]
 

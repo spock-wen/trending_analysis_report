@@ -36,7 +36,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[huggingface-transformers]] [[jamwithai-production-agentic-rag-course]] [[madslorentzen-ai-job-search]] [[ruvnet-ruflo]]
+[[huggingface-transformers]] [[comfy-org-comfyui]] [[tensorflow-tensorflow]] [[hkuds-cli-anything]] [[ruvnet-ruflo]]
 
 **所属领域**: [[education]]
 

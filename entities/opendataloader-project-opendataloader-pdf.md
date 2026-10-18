@@ -38,7 +38,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[google-guava]] [[yuliskov-smarttube]] [[hugohe3-ppt-master]] [[affaan-m-ecc]] [[nationalsecurityagency-ghidra]]
+[[yuliskov-smarttube]] [[google-guava]] [[hkuds-cli-anything]] [[nationalsecurityagency-ghidra]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

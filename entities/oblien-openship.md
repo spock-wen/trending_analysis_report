@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[getsentry-sentry]] [[xtool-org-xtool]] [[anthropics-claude-code]] [[ruvnet-ruflo]] [[stablyai-orca]]
+[[cursor-plugins]] [[stablyai-orca]] [[xtool-org-xtool]] [[ruvnet-ruflo]] [[getsentry-sentry]]
 
 **所属领域**: [[devops]]
 

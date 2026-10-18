@@ -34,7 +34,7 @@ real time face swap and one-click video deepfake with only a single image
 
 ## 相关项目
 
-[[tester-army-e2e]] [[akitaonrails-ai-memory]] [[ntdevlabs-tiny11builder]] [[trycua-cua]] [[anthropics-claude-code]]
+[[tester-army-e2e]] [[comfy-org-comfyui]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[madslorentzen-ai-job-search]] [[nationalsecurityagency-ghidra]] [[hkuds-cli-anything]]
+[[comfy-org-comfyui]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[nationalsecurityagency-ghidra]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

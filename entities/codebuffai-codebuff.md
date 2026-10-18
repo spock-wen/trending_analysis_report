@@ -36,7 +36,7 @@ Generate code from the terminal!
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[ruvnet-ruflo]]
+[[cursor-plugins]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

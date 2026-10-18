@@ -38,7 +38,7 @@ An autonomous agent for deep financial research
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[paperclipai-paperclip]] [[robbyant-lingbot-map]]
+[[cursor-plugins]] [[robbyant-lingbot-map]] [[hkuds-cli-anything]] [[stablyai-orca]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

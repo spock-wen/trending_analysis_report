@@ -35,7 +35,7 @@ The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[obra-superpowers]] [[hugohe3-ppt-master]] [[affaan-m-ecc]] [[paperclipai-paperclip]]
+[[earthtojake-text-to-cad]] [[comfy-org-comfyui]] [[obra-superpowers]] [[robbyant-lingbot-map]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

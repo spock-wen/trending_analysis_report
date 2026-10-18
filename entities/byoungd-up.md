@@ -35,7 +35,7 @@ An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶�
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[hmjz100-linkswift]] [[addyosmani-agent-skills]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]]
+[[hkuds-cli-anything]] [[addyosmani-agent-skills]] [[stablyai-orca]] [[hmjz100-linkswift]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo
 
 ## 相关项目
 
-[[tester-army-e2e]] [[akitaonrails-ai-memory]] [[ntdevlabs-tiny11builder]] [[trycua-cua]] [[anthropics-claude-code]]
+[[tester-army-e2e]] [[comfy-org-comfyui]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[image-gen]]
 

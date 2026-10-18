@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[paperclipai-paperclip]] [[robbyant-lingbot-map]] [[madslorentzen-ai-job-search]]
+[[comfy-org-comfyui]] [[robbyant-lingbot-map]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[tensorflow-tensorflow]] [[alishahryar1-free-claude-code]] [[anthropics-claude-code]] [[m-abozaid-esp32-c3-adblock]]
+[[microsoft-bitnet]] [[tensorflow-tensorflow]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[web]] [[cli]]
 

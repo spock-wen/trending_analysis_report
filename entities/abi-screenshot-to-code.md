@@ -35,7 +35,7 @@ Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[madslorentzen-ai-job-search]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]]
+[[comfy-org-comfyui]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[stablyai-orca]] [[madslorentzen-ai-job-search]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

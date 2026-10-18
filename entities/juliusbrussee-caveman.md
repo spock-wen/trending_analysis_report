@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[affaan-m-ecc]] [[caddyserver-caddy]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]]
+[[hkuds-cli-anything]] [[caddyserver-caddy]] [[stablyai-orca]] [[alibaba-open-code-review]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]]
 

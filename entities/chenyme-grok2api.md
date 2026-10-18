@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[akitaonrails-ai-memory]] [[alishahryar1-free-claude-code]] [[anthropics-claude-code]] [[cathrynlavery-diagram-design]]
+[[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[xerj-org-xerj]] [[caddyserver-caddy]]
 
 **所属领域**: [[web]] [[cli]]
 

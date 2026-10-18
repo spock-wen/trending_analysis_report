@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[akitaonrails-ai-memory]] [[anthropics-claude-code]] [[juliusbrussee-caveman]] [[caddyserver-caddy]]
+[[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[caddyserver-caddy]] [[alibaba-open-code-review]]
 
 **所属领域**: [[cli]]
 

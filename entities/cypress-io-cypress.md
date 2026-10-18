@@ -37,7 +37,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[anthropics-claude-code]] [[cathrynlavery-diagram-design]] [[ruvnet-ruflo]] [[stablyai-orca]]
+[[cursor-plugins]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[stablyai-orca]] [[ruvnet-ruflo]]
 
 **所属领域**: [[web]]
 

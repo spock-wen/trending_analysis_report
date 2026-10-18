@@ -37,7 +37,7 @@ A Claude Code plugin that shows what's happening - context usage, active tools, 
 
 ## 相关项目
 
-[[huggingface-transformers]] [[alishahryar1-free-claude-code]] [[hugohe3-ppt-master]] [[affaan-m-ecc]] [[debpalash-voicestudio]]
+[[huggingface-transformers]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[addyosmani-agent-skills]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

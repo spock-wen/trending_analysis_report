@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[alishahryar1-free-claude-code]] [[rust-lang-rust]] [[cathrynlavery-diagram-design]] [[storytold-artcraft]]
+[[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[alishahryar1-free-claude-code]] [[rust-lang-rust]]
 
 **所属领域**: [[web]]
 

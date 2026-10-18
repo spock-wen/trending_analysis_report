@@ -36,7 +36,7 @@ A unified library of SOTA model optimization techniques like quantization, disti
 
 ## 相关项目
 
-[[getsentry-sentry]] [[tensorflow-tensorflow]] [[xtool-org-xtool]] [[huggingface-transformers]] [[oblien-openship]]
+[[huggingface-transformers]] [[comfy-org-comfyui]] [[tensorflow-tensorflow]] [[hkuds-cli-anything]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

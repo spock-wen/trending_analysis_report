@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[ruvnet-ruflo]]
+[[cursor-plugins]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[nationalsecurityagency-ghidra]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

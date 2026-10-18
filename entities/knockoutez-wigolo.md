@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[alishahryar1-free-claude-code]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[paperclipai-paperclip]]
+[[cursor-plugins]] [[robbyant-lingbot-map]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

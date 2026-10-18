@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[hugohe3-ppt-master]] [[madslorentzen-ai-job-search]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]]
+[[anthropics-claude-plugins-official]] [[comfy-org-comfyui]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[xerj-org-xerj]]
 
 **所属领域**: [[web]] [[data]]
 

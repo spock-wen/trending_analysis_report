@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[affaan-m-ecc]] [[bilawalsidhu-gods-eye-view]] [[hmjz100-linkswift]]
+[[addyosmani-agent-skills]] [[hmjz100-linkswift]] [[affaan-m-ecc]] [[bilawalsidhu-gods-eye-view]]
 

@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[hugohe3-ppt-master]] [[affaan-m-ecc]] [[hmjz100-linkswift]] [[cathrynlavery-diagram-design]]
+[[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[addyosmani-agent-skills]] [[stablyai-orca]] [[hmjz100-linkswift]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

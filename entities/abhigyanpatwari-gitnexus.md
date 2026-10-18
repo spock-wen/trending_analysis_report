@@ -35,7 +35,7 @@ GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[anomalyco-opencode]] [[alishahryar1-free-claude-code]] [[anthropics-claude-code]] [[affaan-m-ecc]]
+[[cursor-plugins]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[xerj-org-xerj]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

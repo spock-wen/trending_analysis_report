@@ -35,7 +35,7 @@ An Open Source Machine Learning Framework for Everyone
 
 ## 相关项目
 
-[[huggingface-transformers]] [[jamwithai-production-agentic-rag-course]] [[m-abozaid-esp32-c3-adblock]] [[ruvnet-ruflo]] [[boykopovar-anyps5]]
+[[huggingface-transformers]] [[microsoft-bitnet]] [[boykopovar-anyps5]] [[m-abozaid-esp32-c3-adblock]] [[ruvnet-ruflo]]
 
 **所属领域**: [[education]]
 

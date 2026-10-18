@@ -34,7 +34,7 @@ AI that sees your screen, listens to your conversations and tells you what to do
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[flutter-skills]] [[chen08209-flclash]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]]
+[[localsend-localsend]] [[hkuds-cli-anything]] [[flutter-skills]] [[stablyai-orca]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]]
 

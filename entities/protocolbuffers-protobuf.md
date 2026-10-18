@@ -37,7 +37,7 @@ Protocol Buffers - Google's data interchange format
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[hugohe3-ppt-master]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]] [[k-dense-ai-scientific-agent-skills]]
+[[microsoft-bitnet]] [[tensorflow-tensorflow]] [[xerj-org-xerj]] [[boykopovar-anyps5]] [[m-abozaid-esp32-c3-adblock]]
 
 **所属领域**: [[data]]
 

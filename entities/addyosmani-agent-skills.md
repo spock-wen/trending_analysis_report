@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[hmjz100-linkswift]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]]
+[[hkuds-cli-anything]] [[stablyai-orca]] [[hmjz100-linkswift]] [[affaan-m-ecc]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[alishahryar1-free-claude-code]] [[anthropics-claude-code]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]]
+[[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[xerj-org-xerj]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[web]] [[cli]]
 

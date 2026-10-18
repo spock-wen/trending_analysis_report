@@ -68,9 +68,11 @@ ZH_DESC = {'ayghri/i-have-adhd': '强制编码 Agent 把结论放在输出最前
     'EpicGames/raddebugger': '原生用户态、多进程图形调试器，Epic Games 出品',
     'flutter/flutter': 'Google 跨平台 UI 工具包',
     'ranxianglei/billion-context': '上下文压缩插件：100K 窗口、省 5 倍 token、支撑数十亿 token 单会话',
-    'morluto/rea': '用 agent 逆向一切：从应用行为到原生二进制',
-    'storytold/artcraft': '面向艺术家、设计师与电影人的意图驱动创作引擎',
+    'morluto/rea': '用 agent 逆向一切：从应用行为到原生二进制，一个 MCP 统管逆向工具链',
+    'storytold/artcraft': '面向艺术家与电影人的 AI 创作 IDE：2D 合成 + 3D 场景搭建 + 角色姿态',
     'cathrynlavery/diagram-design': '编辑部风格图表设计：44 种图，自包含 HTML+SVG，拒绝 Mermaid 风',
+    'NationalSecurityAgency/ghidra': 'NSA 开源的软件逆向工程框架，反汇编/反编译/脚本全能',
+    'anthropics/claude-plugins-official': 'Anthropic 官方 Claude Code 插件目录',
 }
 total_stars = sum(WK.values())
 n_projects = len(rows)
@@ -121,14 +123,29 @@ for name, cnt in db.execute(
     daily[name] = cnt
 
 # ── TOP10 副信息行 ──
+def consec_weeks(name, week_end):
+    """真实连续上榜周数：从 week_end 往前逐周回数，遇断档即停。"""
+    from datetime import datetime
+    import datetime as dt
+    cur = datetime.strptime(week_end, '%Y-%m-%d')
+    n = 0
+    while True:
+        r = db.execute("SELECT 1 FROM weekly_trending WHERE repo_full_name=? AND week_end=?",
+                       (name, cur.strftime('%Y-%m-%d'))).fetchone()
+        if not r:
+            break
+        n += 1
+        cur -= dt.timedelta(days=7)
+    return n
+
+
 def subline(name):
     tag, color = GROUP[name]
     parts = []
     if LANG[name]:
         parts.append(LANG[name])
     if name in prev_names:
-        n_weeks = db.execute("SELECT COUNT(DISTINCT week_end) FROM weekly_trending WHERE repo_full_name=? AND week_end<=?", (name, week_end)).fetchone()[0]
-        parts.append(f'连续 {n_weeks} 周' if tag == '连续上榜' else '')
+        parts.append(f'连续 {consec_weeks(name, week_end)} 周')
     elif tag.startswith('断档'):
         parts.append(f'时隔 {tag[3:-1]} 周回归')
     if daily.get(name):
@@ -143,22 +160,23 @@ C = {'blue': '#4C72B0', 'orange': '#E4572E', 'purple': '#8172B2', 'green': '#2E8
 
 # TODO(每周手填)：NARRATIVES / KNIVES / WATCH 按周报正文更新
 NARRATIVES = [
-    (C['orange'], '#FDEEE8', '#D14A24', '总量回落 12.1%，但 Agent 席位反而多了两席',
-     '13 个项目 61,769★（上周 70,298★，<b>-12.1%</b>），上周 +24.1% 的反弹未延续；换血率 76.9%（上周 77.8%），上周 18 席仅 3 席留存。Agent/Skill 工作流席位 5 → <b>7</b>，星数却从 33,440★ 掉到 <b>21,387★（-36.0%）</b>——上周五家 Agent 头条全部掉出。'),
-    (C['blue'], '#EAF0F9', '#3A62A8', '硬件与系统工具接棒头部',
-     '<b>AnyPS5（+21,365★）</b>日榜连坐 6 天、1 天第 1，周星是上周 +1,820★ 的 <b>11.7 倍</b>，独占全榜 34.6%——relinker 直接转原生格式 + 自研 prx 库，无模拟器。openGym（+7,369★）、e2e（+6,564★）同周在榜，非 AI 项目 5 项 36,301★ 占全榜 58.8%。'),
-    (C['purple'], '#F1EEF8', '#6D5CA8', 'Agent 新血转向"控制平面"',
-     'mattpocock/skills（+9,179★，断档 3 周）稳居第二；<b>claude-mem（+4,035★）</b>首次上周榜，总星已达 99,318。t3code（+2,367★）与 openrig（+2,068★）同周进场——一个远程控制本机所有 agent harness，一个用 YAML 定义 agent 团队，合计 8,470★ 是本周唯一的新方向。'),
+    (C['orange'], '#FDEEE8', '#D14A24', '一个项目贡献 75.8% 的星，榜单被"逆向"接管',
+     '10 个项目 316,460★（上周 13 项 61,769★，<b>+412.3%</b>，近 20 周最高）。但 239,923★ 来自 <b>morluto/rea</b> 一个仓库，占全榜 <b>75.8%</b>、是第二名 artcraft 的 <b>13 倍</b>；剔除它，其余 9 项合计 76,537★、环比仅 +23.9%。换血率 60.0%（上周 76.9%），上周 13 席只留住 4 席。'),
+    (C['blue'], '#EAF0F9', '#3A62A8', '逆向工程从"专家工具"变成"agent 的一个 MCP"',
+     'rea 是一个 MCP 服务器：把 Hopper / Ghidra / IDA、JavaScript/Electron 静态分析、Android APK、SQLite、固件、抓包分析全部接到 agent 手上，10 月 13 日 rea.tools 登上 HN 首页（<b>805 赞、337 评论</b>）。它不自研反编译器——深度分析仍依赖你装好的 Ghidra/IDA/Hopper，rea 做的是把这堆工具包成带契约、带 Evidence ID、可存快照的 MCP 接口。'),
+    (C['purple'], '#F1EEF8', '#6D5CA8', '上下文管理连续两周占位，创作与硬件同步降温',
+     '<b>mksglu/context-mode</b>（+4,438★）时隔 3 周回归：工具输出沙箱化（315KB → 5.4KB）、会话记忆落 SQLite，是本周唯一"基础设施型"续榜项目。与此同时，上周的硬件移植 <b>AnyPS5 周星 -23.9%</b>（+21,365★ → +16,250★）、AI 内容创作上周仅剩 hyperframes 一席（+4,081★）本周 +38.2% 回血，而 e2e、openGym、text-to-cad、claude-mem、t3code、openrig 六个上周项目全部出局。'),
 ]
 KNIVES = [
-    (C['orange'], '降温', 'Agent/Skill 工作流', '5 项 33,440★ → 7 项 21,387★<br>星数 -36.0%，上周五家头条全军覆没'),
-    (C['blue'], '加速', '硬件与个人自托管', 'AnyPS5 +21,365★（11.7 倍）领衔<br>独立应用 3 项 35,298★ 占全榜 57.1%'),
-    (C['purple'], '出清', '大厂官方与 AI 创作', '大厂 2 项 1,003★（-52.0%）<br>AI 创作仅剩 hyperframes 一席（-81.5%）'),
+    (C['orange'], '换挡', 'Agent/Skill 工作流', '5 项 264,903★ vs 上周 7 项 21,387★<br>其中 rea 一项占 239,923★，席位由 7 缩到 5'),
+    (C['blue'], '加速', '大厂官方与产品级', 'Ghidra + claude-plugins 2 项 11,189★<br>vs 上周 2 项 1,003★（raddebugger、flutter）'),
+    (C['purple'], '降温', '独立应用与硬件工具', 'AnyPS5 一项 16,250★，环比 -23.9%<br>上周 openGym/e2e 合计 13,933★ 全部出局'),
+    (C['green'], '新品类', '逆向工程进入 agent 视野', 'rea 一周 239,923★ + Ghidra 时隔 6 周回归<br>DX-Ball 3,205 个用例、63 字节全对上'),
 ]
 WATCH = [
-    ('Agent 是脉冲还是退潮？', 'Agent/Skill 工作流周星回到 <b>≥30,000★</b> 则本周 -36.0% 是脉冲；连续两周低于 <b>20,000★</b> 则确认退潮'),
-    ('AnyPS5 热度能否延续？', '周星 <b>≥10,000★</b> 且兼容列表扩张（目前仅 1 款游戏），则硬件移植成主线；跌破 <b>5,000★</b> 视为脉冲衰减'),
-    ('"数据自持"能否成线？', 'openGym + e2e + text-to-cad 中 <b>≥2 席留存</b>且合计 <b>≥10,000★</b>（本周 16,302★），则本地优先成为常驻品类'),
+    ('rea 是脉冲还是新品类？', '周星 <b>≥50,000★</b> 则"agent 逆向"从首发脉冲变常驻主线；跌破 <b>20,000★</b> 且 HN 热度不再，则视为一次性传播事件'),
+    ('逆向赛道能否扩容？', '除 rea 外再出现 <b>≥1 个逆向/安全类</b>项目且周星 <b>≥3,000★</b>，则 Ghidra 回归不是巧合，赛道成立；否则只有单一玩家'),
+    ('上下文管理能否回到上周水位？', 'context-mode + billion-context 合计周星回到 <b>≥8,000★</b>（本周 5,326★），则"上下文工程"仍是常驻需求'),
 ]
 
 def esc(s):

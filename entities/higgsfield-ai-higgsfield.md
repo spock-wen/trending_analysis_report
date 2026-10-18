@@ -35,7 +35,7 @@ Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[huggingface-transformers]] [[lyogavin-airllm]] [[affaan-m-ecc]] [[jamwithai-production-agentic-rag-course]]
+[[huggingface-transformers]] [[lyogavin-airllm]] [[tensorflow-tensorflow]] [[hkuds-cli-anything]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

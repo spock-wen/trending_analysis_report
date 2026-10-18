@@ -34,7 +34,7 @@ Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[getsentry-sentry]] [[xtool-org-xtool]] [[oblien-openship]] [[ruvnet-ruflo]]
+[[abue-ammar-tinycast]] [[manaflow-ai-cmux]] [[xtool-org-xtool]] [[ruvnet-ruflo]] [[getsentry-sentry]]
 
 **所属领域**: [[devops]]
 

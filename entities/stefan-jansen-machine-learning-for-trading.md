@@ -35,7 +35,7 @@ Code for Machine Learning for Algorithmic Trading, 2nd edition.
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[huggingface-transformers]] [[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[jamwithai-production-agentic-rag-course]]
+[[huggingface-transformers]] [[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[tensorflow-tensorflow]] [[ruvnet-ruflo]]
 
 **所属领域**: [[education]]
 

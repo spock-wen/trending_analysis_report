@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[ruvnet-ruflo]] [[nationalsecurityagency-ghidra]]
+[[cursor-plugins]] [[xerj-org-xerj]] [[nationalsecurityagency-ghidra]] [[stablyai-orca]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

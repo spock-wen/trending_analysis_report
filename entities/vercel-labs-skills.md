@@ -36,7 +36,7 @@ The open agent skills tool - npx skills
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[anthropics-claude-code]] [[affaan-m-ecc]] [[ruvnet-ruflo]] [[stablyai-orca]]
+[[cursor-plugins]] [[hkuds-cli-anything]] [[stablyai-orca]] [[ruvnet-ruflo]] [[anthropics-claude-plugins-official]]
 
 **所属领域**: [[ai-agent]]
 

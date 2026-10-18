@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[tensorflow-tensorflow]] [[anomalyco-opencode]] [[huggingface-transformers]] [[anthropics-claude-code]]
+[[huggingface-transformers]] [[cursor-plugins]] [[tensorflow-tensorflow]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

@@ -36,7 +36,7 @@ Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vert
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[affaan-m-ecc]] [[microsoft-ai-for-beginners]] [[hkuds-cli-anything]]
+[[anthropics-claude-plugins-official]] [[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[hkuds-cli-anything]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]]
 

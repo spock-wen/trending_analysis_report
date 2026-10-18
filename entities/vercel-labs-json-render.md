@@ -34,5 +34,5 @@ The Generative UI framework
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[stablyai-orca]] [[ruvnet-ruflo]] [[anomalyco-opencode]]
+[[cursor-plugins]] [[stablyai-orca]] [[anomalyco-opencode]] [[ruvnet-ruflo]]
 

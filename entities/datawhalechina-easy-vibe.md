@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[huggingface-transformers]] [[hugohe3-ppt-master]] [[affaan-m-ecc]] [[jamwithai-production-agentic-rag-course]]
+[[huggingface-transformers]] [[tensorflow-tensorflow]] [[xerj-org-xerj]] [[addyosmani-agent-skills]] [[hmjz100-linkswift]]
 
 **所属领域**: [[data]] [[education]]
 

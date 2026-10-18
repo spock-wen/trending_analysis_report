@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[penpot-penpot]] [[hkuds-cli-anything]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-plugins-official]]
+[[hkuds-cli-anything]] [[stablyai-orca]] [[penpot-penpot]] [[anthropics-claude-plugins-official]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]]
 

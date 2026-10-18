@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[google-guava]] [[yuliskov-smarttube]] [[anthropics-claude-code]] [[affaan-m-ecc]]
+[[yuliskov-smarttube]] [[akitaonrails-ai-memory]] [[google-guava]] [[hkuds-cli-anything]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

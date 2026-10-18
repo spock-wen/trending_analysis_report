@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[ever-co-ever-gauzy]] [[obra-superpowers]] [[hugohe3-ppt-master]] [[madslorentzen-ai-job-search]] [[hkuds-cli-anything]]
+[[earthtojake-text-to-cad]] [[comfy-org-comfyui]] [[obra-superpowers]] [[hkuds-cli-anything]] [[ever-co-ever-gauzy]]
 
 **所属领域**: [[erp]]
 

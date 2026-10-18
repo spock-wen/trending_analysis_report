@@ -38,7 +38,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[paperclipai-paperclip]] [[robbyant-lingbot-map]] [[madslorentzen-ai-job-search]] [[hkuds-cli-anything]]
+[[comfy-org-comfyui]] [[robbyant-lingbot-map]] [[hkuds-cli-anything]] [[stablyai-orca]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

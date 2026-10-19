@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[pkuflyingpig-cs-self-learning]] [[bilawalsidhu-gods-eye-view]] [[ripienaar-free-for-dev]]
+[[pkuflyingpig-cs-self-learning]] [[averygan-reclip]] [[ripienaar-free-for-dev]] [[alishahryar1-free-claude-code]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

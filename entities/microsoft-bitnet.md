@@ -36,7 +36,7 @@ Official inference framework for 1-bit LLMs
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[hkuds-cli-anything]] [[boykopovar-anyps5]] [[stablyai-orca]] [[m-abozaid-esp32-c3-adblock]]
+[[tensorflow-tensorflow]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]] [[m-abozaid-esp32-c3-adblock]]
 
 **所属领域**: [[ai-agent]]
 

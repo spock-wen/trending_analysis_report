@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[willfaust-madeira]] [[hkuds-cli-anything]] [[stablyai-orca]] [[antirez-ds4]]
+[[epicgames-raddebugger]] [[antirez-ds4]] [[anomalyco-opencode]] [[colbymchenry-codegraph]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

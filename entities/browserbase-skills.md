@@ -38,7 +38,7 @@ Claude Agent SDK with a web browsing tool
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[addyosmani-agent-skills]] [[stablyai-orca]] [[hmjz100-linkswift]]
+[[anomalyco-opencode]] [[hmjz100-linkswift]] [[anthropics-claude-code]] [[stablyai-orca]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

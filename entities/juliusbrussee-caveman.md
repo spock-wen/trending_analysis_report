@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[caddyserver-caddy]] [[stablyai-orca]] [[alibaba-open-code-review]] [[anthropics-claude-plugins-official]]
+[[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]] [[hkuds-cli-anything]] [[caddyserver-caddy]]
 
 **所属领域**: [[ai-agent]]
 

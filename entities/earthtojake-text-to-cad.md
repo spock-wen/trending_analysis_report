@@ -38,7 +38,7 @@ Give your agent CAD superpowers.
 
 ## 相关项目
 
-[[comfy-org-comfyui]] [[obra-superpowers]] [[hkuds-cli-anything]] [[stablyai-orca]] [[ever-co-ever-gauzy]]
+[[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]] [[stablyai-orca]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

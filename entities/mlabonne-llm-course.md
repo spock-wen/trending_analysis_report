@@ -34,7 +34,7 @@ Course to get into Large Language Models (LLMs) with roadmaps and Colab notebook
 
 ## 相关项目
 
-[[huggingface-transformers]] [[tensorflow-tensorflow]] [[hkuds-cli-anything]] [[stablyai-orca]] [[ruvnet-ruflo]]
+[[anomalyco-opencode]] [[tensorflow-tensorflow]] [[anthropics-claude-code]] [[huggingface-transformers]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

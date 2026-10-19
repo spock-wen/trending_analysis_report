@@ -35,7 +35,7 @@ Network stack research tool. TCP tunnel with pluggable transports.
 
 ## 相关项目
 
-[[robbyant-lingbot-map]] [[caddyserver-caddy]] [[affaan-m-ecc]] [[alibaba-open-code-review]] [[k-dense-ai-scientific-agent-skills]]
+[[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]] [[paperclipai-paperclip]] [[caddyserver-caddy]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[science]]
 

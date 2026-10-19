@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-19 | 总页面：825
+> 最后更新：2026-10-20 | 总页面：827
 
 ## Entities
 
@@ -39,7 +39,7 @@
 - [[aieradev-clypra|Clypra]] — A modern video editor built with Tauri, React, and TypeScrip...
 - [[aipoch-open-science|open-science]] — Open Science by AIPOCH is an open-source, local-first, model...
 - [[aishwaryanr-awesome-generative-ai-guide|awesome-generative-ai-guide]] — A one stop repository for generative AI research updates, in...
-- [[akitaonrails-ai-memory|ai-memory]] — Solution for long term memory for agent coding CLIs and to f... 🆕
+- [[akitaonrails-ai-memory|ai-memory]] — Solution for long term memory for agent coding CLIs and to f... 🔥
 - [[alchaincyf-zhangxuefeng-skill|zhangxuefeng-skill]] — 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 - [[alexsjones-llmfit|llmfit]] — Hundreds of models & providers. One command to find what run...
 - [[alexzhang13-rlm|rlm]] — General plug-and-play inference library for Recursive Langua...
@@ -65,7 +65,7 @@
 - [[angular-angular|angular]] — Deliver web apps with confidence 🚀
 - [[anil-matcha-open-generative-ai|Open-Generative-AI]] — Unrestricted Open-source alternative to AI video platforms —...
 - [[ankitects-anki|anki]] — Anki is a smart spaced repetition flashcard program
-- [[anomalyco-opencode|opencode]] — The open source coding agent. 🆕
+- [[anomalyco-opencode|opencode]] — The open source coding agent. 🔥
 - [[anonfaded-fadcam|FadCam]] — Open-source, ad-free Android multimedia recorder with backgr...
 - [[ansible-ansible|ansible]] — Ansible is a radically simple IT automation platform that ma...
 - [[anthropics-claude-agent-sdk|claude-agent-sdk]] — Anthropic 官方 Claude Agent SDK
@@ -171,7 +171,7 @@
 - [[coleam00-archon|Archon]] — The first open-source harness builder for AI coding. Make AI... 🔥
 - [[colemurray-background-agents|background-agents]] — An open-source background agents coding system
 - [[colinhacks-zod|zod]] — TypeScript-first schema validation with static type inferenc...
-- [[comfy-org-comfyui|ComfyUI]] — The most powerful and modular diffusion model GUI, api and b...
+- [[comfy-org-comfyui|ComfyUI]] — The most powerful and modular diffusion model GUI, api and b... 🆕
 - [[commaai-openpilot|openpilot]] — openpilot is an operating system for robotics. Currently, it... 🔥
 - [[composiohq-awesome-claude-skills|awesome-claude-skills]] — A curated list of awesome Claude Skills, resources, and tool...
 - [[composiohq-awesome-codex-skills|awesome-codex-skills]] — A curated list of practical Codex skills for automating work... 🔥
@@ -322,6 +322,7 @@
 - [[harveyai-harvey-labs|harvey-labs]] — A benchmark built to evaluate and improve agent capabilities...
 - [[hasaneyldrm-exercises-dataset|exercises-dataset]] — 1,324-exercise fitness dataset — animation GIFs, 180×180 thu... 🔥
 - [[hashicorp-terraform|terraform]] — Terraform enables you to safely and predictably create, chan... 🆕
+- [[headroomlabs-ai-headroom|headroom]] — Compress tool outputs, logs, files, and RAG chunks before th... 🆕
 - [[henryndubuaku-maths-cs-ai-compendium|maths-cs-ai-compendium]] — Become a cracked AI/ML Research Engineer
 - [[hesreallyhim-awesome-claude-code|awesome-claude-code]] — A hand-picked collection of the finest of resources for the ...
 - [[hexo-ai-sia|sia]] — SIA is a Self Improving AI framework to autonomously improve...
@@ -496,7 +497,7 @@
 - [[mikumifa-bilitickerbuy|biliTickerBuy]] — b站会员购购票辅助工具
 - [[millionco-react-doctor|react-doctor]] — Your agent writes bad React. This catches it 🔥
 - [[mksglu-context-mode|context-mode]] — Context window optimization for AI coding agents. Sandboxes ... 🔥
-- [[mlabonne-llm-course|llm-course]] — Course to get into Large Language Models (LLMs) with roadmap... 🆕
+- [[mlabonne-llm-course|llm-course]] — Course to get into Large Language Models (LLMs) with roadmap...
 - [[mobile-dev-inc-maestro|Maestro]] — Painless E2E Automation for Mobile and Web
 - [[mobile-next-mobile-mcp|mobile-mcp]] — Model Context Protocol Server for Mobile Automation and Scra...
 - [[modelcontextprotocol-servers|servers]] — Model Context Protocol Servers
@@ -680,7 +681,7 @@
 - [[sonarr-sonarr|Sonarr]] — Smart PVR for newsgroup and bittorrent users. 🆕
 - [[soxoj-maigret|maigret]] — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ s...
 - [[st-tech-ppf-contact-solver|ppf-contact-solver]] — A contact solver for physics-based simulations involving 👚 s...
-- [[stablyai-orca|orca]] — Orca is the place for working with a fleet of agents (e.g. G... 🆕
+- [[stablyai-orca|orca]] — Orca is the place for working with a fleet of agents (e.g. G... 🔥
 - [[stefan-jansen-machine-learning-for-trading|machine-learning-for-trading]] — Code for Machine Learning for Algorithmic Trading, 2nd editi... 🆕
 - [[steipete-codexbar|CodexBar]] — Show usage stats for OpenAI Codex and Claude Code, without h... 🔥
 - [[stirling-tools-stirling-pdf|Stirling-PDF]] — - 语言: TypeScript
@@ -782,6 +783,7 @@
 - [[whiskeysockets-baileys|Baileys]] — Socket-based TS/JavaScript API for WhatsApp Web
 - [[willfaust-madeira|Madeira]] — Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine...
 - [[withastro-flue|flue]] — The sandbox agent framework. 🔥
+- [[withmarbleapp-os-taxonomy|os-taxonomy]] — No description 🆕
 - [[wonderwhy-er-desktopcommandermcp|DesktopCommanderMCP]] — This is MCP server for Claude that gives it terminal control... 🔥
 - [[workweave-router|router]] — Model router for agentic systems. Routes every prompt to the...
 - [[worldflowai-everything-claude-code|everything-claude-code]] — Claude Code toolkit - agents, commands, skills, rules, and h...

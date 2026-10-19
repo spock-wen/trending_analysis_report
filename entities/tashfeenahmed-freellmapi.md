@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cursor-plugins]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[nationalsecurityagency-ghidra]] [[stablyai-orca]]
+[[nationalsecurityagency-ghidra]] [[xerj-org-xerj]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

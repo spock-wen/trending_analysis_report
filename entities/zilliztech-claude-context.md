@@ -36,7 +36,7 @@ Code search MCP for Claude Code. Make entire codebase the context for any coding
 
 ## 相关项目
 
-[[cursor-plugins]] [[hkuds-cli-anything]] [[stablyai-orca]] [[ruvnet-ruflo]] [[anthropics-claude-plugins-official]]
+[[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]] [[ruvnet-ruflo]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

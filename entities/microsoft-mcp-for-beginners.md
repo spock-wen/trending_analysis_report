@@ -34,7 +34,7 @@ This open-source curriculum introduces the fundamentals of Model Context Protoco
 
 ## 相关项目
 
-[[huggingface-transformers]] [[anthropics-claude-plugins-official]] [[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[hkuds-cli-anything]]
+[[higgsfield-ai-higgsfield]] [[mlabonne-llm-course]] [[lyogavin-airllm]] [[anomalyco-opencode]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

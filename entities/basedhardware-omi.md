@@ -34,7 +34,7 @@ AI that sees your screen, listens to your conversations and tells you what to do
 
 ## 相关项目
 
-[[localsend-localsend]] [[hkuds-cli-anything]] [[flutter-skills]] [[stablyai-orca]] [[chen08209-flclash]]
+[[flutter-flutter]] [[chen08209-flclash]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[flutter-skills]]
 
 **所属领域**: [[ai-agent]]
 

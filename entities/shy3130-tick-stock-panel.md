@@ -34,7 +34,7 @@ TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 |
 
 ## 相关项目
 
-[[comfy-org-comfyui]] [[hkuds-cli-anything]] [[stablyai-orca]] [[madslorentzen-ai-job-search]] [[anthropics-claude-plugins-official]]
+[[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]] [[stablyai-orca]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

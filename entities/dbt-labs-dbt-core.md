@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[xerj-org-xerj]] [[rust-lang-rust]] [[storytold-artcraft]] [[hugohe3-ppt-master]]
+[[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[rust-lang-rust]] [[akitaonrails-ai-memory]] [[storytold-artcraft]]
 
 **所属领域**: [[data]]
 

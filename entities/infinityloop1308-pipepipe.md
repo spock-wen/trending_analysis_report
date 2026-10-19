@@ -34,7 +34,7 @@ An open-source Android app to let you browse YouTube and other services freely.
 
 ## 相关项目
 
-[[obra-superpowers]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[mattpocock-skills]]
+[[xerj-org-xerj]] [[msitarzewski-agency-agents]] [[nvm-sh-nvm]] [[anthropics-claude-code]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

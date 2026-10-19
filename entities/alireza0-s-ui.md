@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[caddyserver-caddy]] [[alibaba-open-code-review]] [[bilawalsidhu-gods-eye-view]]
+[[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[alishahryar1-free-claude-code]] [[hkuds-cli-anything]] [[caddyserver-caddy]]
 
 **所属领域**: [[web]]
 

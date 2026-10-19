@@ -34,7 +34,7 @@ Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer 
 
 ## 相关项目
 
-[[cursor-plugins]] [[hkuds-cli-anything]] [[stablyai-orca]] [[xtool-org-xtool]] [[ruvnet-ruflo]]
+[[anomalyco-opencode]] [[anthropics-claude-code]] [[getsentry-sentry]] [[xtool-org-xtool]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

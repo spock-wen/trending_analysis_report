@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[hkuds-cli-anything]] [[stablyai-orca]]
+[[higgsfield-ai-higgsfield]] [[lyogavin-airllm]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

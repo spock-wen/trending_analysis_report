@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[comfy-org-comfyui]] [[obra-superpowers]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]]
+[[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

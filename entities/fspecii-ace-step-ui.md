@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[huggingface-transformers]] [[comfy-org-comfyui]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[addyosmani-agent-skills]]
+[[ntdevlabs-tiny11builder]] [[anomalyco-opencode]] [[comfy-org-comfyui]] [[hmjz100-linkswift]] [[tester-army-e2e]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

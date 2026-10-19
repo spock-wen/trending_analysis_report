@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[embabel-embabel-agent]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[stablyai-orca]]
+[[anomalyco-opencode]] [[mahlernim-google-timeline-visualizer]] [[anthropics-claude-code]] [[stablyai-orca]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

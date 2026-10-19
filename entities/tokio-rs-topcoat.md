@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[alishahryar1-free-claude-code]] [[rust-lang-rust]]
+[[xerj-org-xerj]] [[rust-lang-rust]] [[alishahryar1-free-claude-code]] [[hkuds-cli-anything]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[web]]
 

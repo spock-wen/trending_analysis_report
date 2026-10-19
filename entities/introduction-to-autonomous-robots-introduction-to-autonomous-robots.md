@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[stablyai-orca]] [[cs341-illinois-coursebook]] [[anthropics-claude-plugins-official]] [[anomalyco-opencode]]
+[[anomalyco-opencode]] [[cs341-illinois-coursebook]] [[anthropics-claude-code]] [[stablyai-orca]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

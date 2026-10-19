@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[xerj-org-xerj]] [[nationalsecurityagency-ghidra]] [[affaan-m-ecc]]
+[[agentjido-jido]] [[k-dense-ai-scientific-agent-skills]] [[nationalsecurityagency-ghidra]] [[teslamate-org-teslamate]] [[xerj-org-xerj]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[comfy-org-comfyui]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[nationalsecurityagency-ghidra]]
+[[nationalsecurityagency-ghidra]] [[xerj-org-xerj]] [[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

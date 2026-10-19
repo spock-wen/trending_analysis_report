@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[cursor-plugins]] [[comfy-org-comfyui]] [[xerj-org-xerj]] [[stablyai-orca]] [[ruvnet-ruflo]]
+[[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[ntdevlabs-tiny11builder]] [[anomalyco-opencode]] [[tester-army-e2e]]
 
 **所属领域**: [[data]] [[image-gen]]
 

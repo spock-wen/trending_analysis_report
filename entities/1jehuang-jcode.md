@@ -38,5 +38,5 @@ The most RAM efficient harness
 
 ## 相关项目
 
-[[rust-lang-rust]] [[storytold-artcraft]] [[akitaonrails-ai-memory]] [[xerj-org-xerj]]
+[[rust-lang-rust]] [[storytold-artcraft]] [[xerj-org-xerj]] [[akitaonrails-ai-memory]]
 

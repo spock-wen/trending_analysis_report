@@ -34,7 +34,7 @@ Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translatio
 
 ## 相关项目
 
-[[cursor-plugins]] [[comfy-org-comfyui]] [[stablyai-orca]] [[ruvnet-ruflo]] [[ntdevlabs-tiny11builder]]
+[[ntdevlabs-tiny11builder]] [[anomalyco-opencode]] [[tester-army-e2e]] [[anthropics-claude-code]] [[stablyai-orca]]
 
 **所属领域**: [[image-gen]]
 

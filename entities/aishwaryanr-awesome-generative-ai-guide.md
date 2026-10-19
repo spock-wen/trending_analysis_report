@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[robbyant-lingbot-map]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[stablyai-orca]]
+[[pkuflyingpig-cs-self-learning]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[anomalyco-opencode]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

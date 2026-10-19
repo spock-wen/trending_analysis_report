@@ -36,7 +36,7 @@ Open Source AI trading agent that operates autonomously across 1000+ markets - P
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[cursor-plugins]] [[obra-superpowers]] [[hkuds-cli-anything]] [[stablyai-orca]]
+[[anomalyco-opencode]] [[earthtojake-text-to-cad]] [[anthropics-claude-code]] [[stablyai-orca]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

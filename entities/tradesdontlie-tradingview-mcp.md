@@ -35,7 +35,7 @@ AI-assisted TradingView chart analysis — connect Claude Code to your TradingVi
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[addyosmani-agent-skills]] [[stablyai-orca]] [[hmjz100-linkswift]] [[affaan-m-ecc]]
+[[anomalyco-opencode]] [[hmjz100-linkswift]] [[anthropics-claude-code]] [[stablyai-orca]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

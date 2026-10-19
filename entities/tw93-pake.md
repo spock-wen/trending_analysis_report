@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[alishahryar1-free-claude-code]] [[rust-lang-rust]]
+[[xerj-org-xerj]] [[rust-lang-rust]] [[anthropics-claude-code]] [[alishahryar1-free-claude-code]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[comfy-org-comfyui]] [[robbyant-lingbot-map]] [[hkuds-cli-anything]] [[stablyai-orca]] [[affaan-m-ecc]]
+[[k-dense-ai-scientific-agent-skills]] [[ntdevlabs-tiny11builder]] [[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[tester-army-e2e]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

@@ -38,7 +38,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[stablyai-orca]] [[anomalyco-opencode]]
+[[pkuflyingpig-cs-self-learning]] [[averygan-reclip]] [[anomalyco-opencode]] [[ripienaar-free-for-dev]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

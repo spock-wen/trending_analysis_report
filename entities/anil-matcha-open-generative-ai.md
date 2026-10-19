@@ -38,7 +38,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[comfy-org-comfyui]] [[hkuds-cli-anything]] [[addyosmani-agent-skills]] [[stablyai-orca]] [[hmjz100-linkswift]]
+[[ntdevlabs-tiny11builder]] [[anomalyco-opencode]] [[comfy-org-comfyui]] [[hmjz100-linkswift]] [[tester-army-e2e]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

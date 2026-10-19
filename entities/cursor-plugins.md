@@ -38,5 +38,5 @@ Cursor plugin specification and official plugins
 
 ## 相关项目
 
-[[stablyai-orca]] [[anomalyco-opencode]] [[ruvnet-ruflo]]
+[[stablyai-orca]] [[anthropics-claude-code]] [[ruvnet-ruflo]] [[anomalyco-opencode]]
 

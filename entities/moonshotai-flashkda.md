@@ -34,7 +34,7 @@ FlashKDA: high-performance Kimi Delta Attention kernels
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[stablyai-orca]] [[deepseek-ai-deepgemm]] [[anthropics-claude-plugins-official]] [[deepseek-ai-deepep]]
+[[anomalyco-opencode]] [[deepseek-ai-deepgemm]] [[anthropics-claude-code]] [[stablyai-orca]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

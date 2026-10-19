@@ -38,5 +38,5 @@ Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, struct
 
 ## 相关项目
 
-[[comfy-org-comfyui]] [[madslorentzen-ai-job-search]] [[hkuds-cli-anything]] [[anthropics-claude-plugins-official]]
+[[madslorentzen-ai-job-search]] [[hkuds-cli-anything]] [[comfy-org-comfyui]] [[shiyu-coder-kronos]]
 

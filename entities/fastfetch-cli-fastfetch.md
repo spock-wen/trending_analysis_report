@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[willfaust-madeira]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]]
+[[epicgames-raddebugger]] [[antirez-ds4]] [[anomalyco-opencode]] [[xerj-org-xerj]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

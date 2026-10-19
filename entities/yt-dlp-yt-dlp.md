@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[huggingface-transformers]] [[comfy-org-comfyui]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]]
+[[xerj-org-xerj]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]] [[huggingface-transformers]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[cli]] [[audio]]
 

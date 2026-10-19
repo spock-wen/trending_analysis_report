@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[tensorflow-tensorflow]] [[xerj-org-xerj]] [[boykopovar-anyps5]] [[m-abozaid-esp32-c3-adblock]]
+[[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[tensorflow-tensorflow]] [[m-abozaid-esp32-c3-adblock]] [[microsoft-bitnet]]
 
 **所属领域**: [[data]]
 

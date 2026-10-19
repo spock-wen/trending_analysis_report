@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[yuliskov-smarttube]] [[akitaonrails-ai-memory]] [[google-guava]] [[hkuds-cli-anything]] [[nationalsecurityagency-ghidra]]
+[[k-dense-ai-scientific-agent-skills]] [[nationalsecurityagency-ghidra]] [[xerj-org-xerj]] [[anomalyco-opencode]] [[yuliskov-smarttube]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[localsend-localsend]] [[hkuds-cli-anything]] [[stablyai-orca]] [[chen08209-flclash]] [[flutter-flutter]]
+[[flutter-flutter]] [[chen08209-flclash]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]]
 

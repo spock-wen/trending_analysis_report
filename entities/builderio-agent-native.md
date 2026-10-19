@@ -37,7 +37,7 @@ A framework for building agentic apps
 
 ## 相关项目
 
-[[cursor-plugins]] [[hkuds-cli-anything]] [[stablyai-orca]] [[ruvnet-ruflo]] [[anthropics-claude-plugins-official]]
+[[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]] [[ruvnet-ruflo]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

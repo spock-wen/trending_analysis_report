@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[comfy-org-comfyui]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[xerj-org-xerj]] [[stablyai-orca]]
+[[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

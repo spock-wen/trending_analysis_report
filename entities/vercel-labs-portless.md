@@ -34,7 +34,7 @@ Replace port numbers with stable, named local URLs. For humans and agents.
 
 ## 相关项目
 
-[[cursor-plugins]] [[comfy-org-comfyui]] [[hkuds-cli-anything]] [[stablyai-orca]] [[ruvnet-ruflo]]
+[[ntdevlabs-tiny11builder]] [[anomalyco-opencode]] [[tester-army-e2e]] [[anthropics-claude-code]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

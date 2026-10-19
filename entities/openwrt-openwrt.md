@@ -34,7 +34,7 @@ This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is
 
 ## 相关项目
 
-[[willfaust-madeira]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[antirez-ds4]] [[bilawalsidhu-gods-eye-view]]
+[[epicgames-raddebugger]] [[antirez-ds4]] [[colbymchenry-codegraph]] [[willfaust-madeira]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[web]]
 

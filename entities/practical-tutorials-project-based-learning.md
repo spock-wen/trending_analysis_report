@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[huggingface-transformers]] [[comfy-org-comfyui]] [[tensorflow-tensorflow]] [[hkuds-cli-anything]] [[ruvnet-ruflo]]
+[[mlabonne-llm-course]] [[tensorflow-tensorflow]] [[madslorentzen-ai-job-search]] [[huggingface-transformers]] [[ruvnet-ruflo]]
 
 **所属领域**: [[education]]
 

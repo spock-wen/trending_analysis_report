@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[tester-army-e2e]] [[zhaoxuya520-reverse-skill]] [[comfy-org-comfyui]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]]
+[[bwya77-vscode-dark-islands]] [[xerj-org-xerj]] [[ntdevlabs-tiny11builder]] [[comfy-org-comfyui]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

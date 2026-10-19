@@ -36,7 +36,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[hugohe3-ppt-master]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]] [[robbyant-lingbot-map]]
+[[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[xtool-org-xtool]] [[stablyai-orca]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

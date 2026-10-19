@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[huggingface-transformers]] [[comfy-org-comfyui]] [[tensorflow-tensorflow]] [[robbyant-lingbot-map]] [[hkuds-cli-anything]]
+[[k-dense-ai-scientific-agent-skills]] [[nationalsecurityagency-ghidra]] [[xerj-org-xerj]] [[mlabonne-llm-course]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[embabel-embabel-agent]] [[hkuds-cli-anything]] [[stablyai-orca]] [[bannedbook-fanqiang]]
+[[anomalyco-opencode]] [[mahlernim-google-timeline-visualizer]] [[anthropics-claude-code]] [[stablyai-orca]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

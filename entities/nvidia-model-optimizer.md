@@ -36,7 +36,7 @@ A unified library of SOTA model optimization techniques like quantization, disti
 
 ## 相关项目
 
-[[huggingface-transformers]] [[comfy-org-comfyui]] [[tensorflow-tensorflow]] [[hkuds-cli-anything]] [[stablyai-orca]]
+[[mlabonne-llm-course]] [[anomalyco-opencode]] [[tensorflow-tensorflow]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

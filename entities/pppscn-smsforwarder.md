@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[embabel-embabel-agent]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[bilawalsidhu-gods-eye-view]] [[bannedbook-fanqiang]]
+[[mahlernim-google-timeline-visualizer]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[alishahryar1-free-claude-code]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

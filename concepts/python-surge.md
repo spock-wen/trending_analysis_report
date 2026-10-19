@@ -1,7 +1,7 @@
 ---
 title: "Python Ecosystem Surge"
 created: 2026-06-07
-updated: 2026-10-19
+updated: 2026-10-20
 type: concept
 tags: [python, surge]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 信号概述
 
-2026-10-19 检测到 Python 领域有 6 个项目同时上榜，表明该语言生态近期活跃度显著上升。
+2026-10-20 检测到 Python 领域有 6 个项目同时上榜，表明该语言生态近期活跃度显著上升。
 
 ## 上榜项目（6 个）
 
-[[madslorentzen-ai-job-search]] [[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[debpalash-voicestudio]] [[kruk2-jasna]] [[comfy-org-comfyui]]
+[[madslorentzen-ai-job-search]] [[comfy-org-comfyui]] [[headroomlabs-ai-headroom]] [[kruk2-jasna]] [[hkuds-cli-anything]] [[shiyu-coder-kronos]]
 
 ## 语言分布
 

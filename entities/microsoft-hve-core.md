@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[akitaonrails-ai-memory]] [[actions-runner-images]] [[hkuds-cli-anything]] [[xerj-org-xerj]]
+[[bwya77-vscode-dark-islands]] [[xerj-org-xerj]] [[anomalyco-opencode]] [[zhaoxuya520-reverse-skill]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

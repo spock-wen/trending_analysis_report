@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[obra-superpowers]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[ever-co-ever-gauzy]]
+[[earthtojake-text-to-cad]] [[conardli-garden-skills]] [[obra-superpowers]] [[alishahryar1-free-claude-code]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[erp]]
 

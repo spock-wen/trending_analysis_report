@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[embabel-embabel-agent]] [[hkuds-cli-anything]] [[stablyai-orca]] [[anomalyco-opencode]] [[anthropics-claude-plugins-official]]
+[[anomalyco-opencode]] [[mahlernim-google-timeline-visualizer]] [[anthropics-claude-code]] [[stablyai-orca]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[comfy-org-comfyui]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[madslorentzen-ai-job-search]]
+[[madslorentzen-ai-job-search]] [[bilawalsidhu-gods-eye-view]] [[alishahryar1-free-claude-code]] [[hkuds-cli-anything]] [[comfy-org-comfyui]]
 
 **所属领域**: [[web]]
 

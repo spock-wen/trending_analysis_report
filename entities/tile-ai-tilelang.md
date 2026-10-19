@@ -34,7 +34,7 @@ Domain-specific language designed to streamline the development of high-performa
 
 ## 相关项目
 
-[[comfy-org-comfyui]] [[hkuds-cli-anything]] [[stablyai-orca]] [[madslorentzen-ai-job-search]] [[anthropics-claude-plugins-official]]
+[[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]] [[stablyai-orca]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ No description
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[tensorflow-tensorflow]] [[hkuds-cli-anything]] [[boykopovar-anyps5]] [[stablyai-orca]]
+[[tensorflow-tensorflow]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]] [[m-abozaid-esp32-c3-adblock]]
 
 **所属领域**: [[ai-agent]]
 

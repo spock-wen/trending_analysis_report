@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[huggingface-transformers]] [[comfy-org-comfyui]] [[tensorflow-tensorflow]] [[robbyant-lingbot-map]] [[hkuds-cli-anything]]
+[[k-dense-ai-scientific-agent-skills]] [[mlabonne-llm-course]] [[tensorflow-tensorflow]] [[madslorentzen-ai-job-search]] [[huggingface-transformers]]
 
 **所属领域**: [[education]] [[science]]
 

@@ -34,5 +34,5 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 
 ## 相关项目
 
-[[comfy-org-comfyui]] [[madslorentzen-ai-job-search]] [[hkuds-cli-anything]] [[anthropics-claude-plugins-official]]
+[[madslorentzen-ai-job-search]] [[hkuds-cli-anything]] [[comfy-org-comfyui]] [[shiyu-coder-kronos]]
 

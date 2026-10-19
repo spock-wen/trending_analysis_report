@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[comfy-org-comfyui]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[madslorentzen-ai-job-search]]
+[[xerj-org-xerj]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]] [[hkuds-cli-anything]] [[comfy-org-comfyui]]
 
 **所属领域**: [[cli]]
 

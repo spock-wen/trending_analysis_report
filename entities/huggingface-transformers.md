@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[comfy-org-comfyui]] [[tensorflow-tensorflow]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[stablyai-orca]]
+[[mlabonne-llm-course]] [[anomalyco-opencode]] [[tensorflow-tensorflow]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

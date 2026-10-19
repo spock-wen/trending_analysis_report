@@ -34,5 +34,5 @@ The open-source repo for docs.github.com
 
 ## 相关项目
 
-[[cursor-plugins]] [[stablyai-orca]] [[anomalyco-opencode]] [[ruvnet-ruflo]]
+[[stablyai-orca]] [[anthropics-claude-code]] [[ruvnet-ruflo]] [[anomalyco-opencode]]
 

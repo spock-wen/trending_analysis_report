@@ -38,7 +38,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[yuliskov-smarttube]] [[google-guava]] [[hkuds-cli-anything]] [[nationalsecurityagency-ghidra]] [[stablyai-orca]]
+[[nationalsecurityagency-ghidra]] [[anomalyco-opencode]] [[yuliskov-smarttube]] [[anthropics-claude-code]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]]
 

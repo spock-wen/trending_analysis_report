@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[anthropics-claude-plugins-official]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[xerj-org-xerj]] [[stablyai-orca]]
+[[pkuflyingpig-cs-self-learning]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[xerj-org-xerj]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

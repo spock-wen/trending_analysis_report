@@ -37,7 +37,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[comfy-org-comfyui]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[stablyai-orca]] [[ntdevlabs-tiny11builder]]
+[[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[ntdevlabs-tiny11builder]] [[anomalyco-opencode]] [[madslorentzen-ai-job-search]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

@@ -37,7 +37,7 @@ SOTA Open Source TTS
 
 ## 相关项目
 
-[[huggingface-transformers]] [[comfy-org-comfyui]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[debpalash-voicestudio]]
+[[madslorentzen-ai-job-search]] [[huggingface-transformers]] [[alishahryar1-free-claude-code]] [[hkuds-cli-anything]] [[comfy-org-comfyui]]
 
 **所属领域**: [[audio]]
 

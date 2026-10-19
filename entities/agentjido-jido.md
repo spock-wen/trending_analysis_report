@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[stablyai-orca]] [[plausible-analytics]] [[teslamate-org-teslamate]] [[anthropics-claude-plugins-official]]
+[[teslamate-org-teslamate]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]] [[plausible-analytics]]
 
 **所属领域**: [[ai-agent]]
 

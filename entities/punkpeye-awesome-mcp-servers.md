@@ -34,7 +34,7 @@ A collection of MCP servers.
 
 ## 相关项目
 
-[[stablyai-orca]] [[anomalyco-opencode]] [[hkuds-cli-anything]] [[anthropics-claude-plugins-official]]
+[[stablyai-orca]] [[anthropics-claude-code]] [[hkuds-cli-anything]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]]
 

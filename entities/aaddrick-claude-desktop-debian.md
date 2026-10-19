@@ -34,7 +34,7 @@ Claude Desktop for Debian-based Linux distributions
 
 ## 相关项目
 
-[[obra-superpowers]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[stablyai-orca]]
+[[xerj-org-xerj]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[nvm-sh-nvm]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

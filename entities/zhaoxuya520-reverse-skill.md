@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[actions-runner-images]] [[xerj-org-xerj]] [[stablyai-orca]]
+[[k-dense-ai-scientific-agent-skills]] [[bwya77-vscode-dark-islands]] [[xerj-org-xerj]] [[nationalsecurityagency-ghidra]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

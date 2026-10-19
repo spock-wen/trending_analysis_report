@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cursor-plugins]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[stablyai-orca]] [[xtool-org-xtool]]
+[[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

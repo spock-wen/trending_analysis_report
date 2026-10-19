@@ -35,7 +35,7 @@ An Open Source Machine Learning Framework for Everyone
 
 ## 相关项目
 
-[[huggingface-transformers]] [[microsoft-bitnet]] [[boykopovar-anyps5]] [[m-abozaid-esp32-c3-adblock]] [[ruvnet-ruflo]]
+[[mlabonne-llm-course]] [[huggingface-transformers]] [[m-abozaid-esp32-c3-adblock]] [[ruvnet-ruflo]] [[microsoft-bitnet]]
 
 **所属领域**: [[education]]
 

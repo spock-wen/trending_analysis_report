@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[huggingface-transformers]] [[cursor-plugins]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[stablyai-orca]]
+[[anomalyco-opencode]] [[anthropics-claude-code]] [[huggingface-transformers]] [[stablyai-orca]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

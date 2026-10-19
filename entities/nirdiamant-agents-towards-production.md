@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[huggingface-transformers]] [[higgsfield-ai-higgsfield]] [[tensorflow-tensorflow]] [[hkuds-cli-anything]] [[ever-co-ever-gauzy]]
+[[lyogavin-airllm]] [[anomalyco-opencode]] [[microsoft-generative-ai-for-beginners]] [[stablyai-orca]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

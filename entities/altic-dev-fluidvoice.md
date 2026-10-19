@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[huggingface-transformers]] [[hkuds-cli-anything]] [[abue-ammar-tinycast]] [[cathrynlavery-diagram-design]] [[stablyai-orca]]
+[[abue-ammar-tinycast]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[xtool-org-xtool]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

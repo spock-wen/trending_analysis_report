@@ -35,7 +35,7 @@ Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[alibaba-open-code-review]] [[bilawalsidhu-gods-eye-view]] [[cathrynlavery-diagram-design]]
+[[bilawalsidhu-gods-eye-view]] [[alishahryar1-free-claude-code]] [[hkuds-cli-anything]] [[juliusbrussee-caveman]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]]
 

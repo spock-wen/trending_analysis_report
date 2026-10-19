@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[abue-ammar-tinycast]] [[xerj-org-xerj]] [[manaflow-ai-cmux]]
+[[abue-ammar-tinycast]] [[xerj-org-xerj]] [[anthropics-claude-code]] [[xtool-org-xtool]] [[hkuds-cli-anything]]
 
 **所属领域**: [[cli]]
 

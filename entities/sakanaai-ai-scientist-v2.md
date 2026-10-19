@@ -35,7 +35,7 @@ The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[comfy-org-comfyui]] [[obra-superpowers]] [[robbyant-lingbot-map]] [[hkuds-cli-anything]]
+[[k-dense-ai-scientific-agent-skills]] [[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[earthtojake-text-to-cad]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

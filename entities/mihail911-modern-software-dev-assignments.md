@@ -34,7 +34,7 @@ Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2
 
 ## 相关项目
 
-[[comfy-org-comfyui]] [[hkuds-cli-anything]] [[stablyai-orca]] [[madslorentzen-ai-job-search]] [[anthropics-claude-plugins-official]]
+[[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]] [[stablyai-orca]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

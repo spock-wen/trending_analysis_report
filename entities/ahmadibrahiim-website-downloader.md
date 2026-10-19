@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[comfy-org-comfyui]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[pkuflyingpig-cs-self-learning]] [[ntdevlabs-tiny11builder]]
+[[pkuflyingpig-cs-self-learning]] [[averygan-reclip]] [[ntdevlabs-tiny11builder]] [[ripienaar-free-for-dev]] [[tester-army-e2e]]
 
 **所属领域**: [[web]] [[image-gen]]
 

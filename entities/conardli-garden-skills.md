@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[comfy-org-comfyui]] [[diolinux-photogimp]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[stablyai-orca]]
+[[ntdevlabs-tiny11builder]] [[diolinux-photogimp]] [[anomalyco-opencode]] [[tester-army-e2e]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

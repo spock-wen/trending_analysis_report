@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[stablyai-orca]] [[rust-lang-rust]]
+[[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[anomalyco-opencode]] [[rust-lang-rust]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[huggingface-transformers]] [[tensorflow-tensorflow]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]]
+[[mlabonne-llm-course]] [[xerj-org-xerj]] [[tensorflow-tensorflow]] [[rust-lang-rust]] [[anthropics-claude-code]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

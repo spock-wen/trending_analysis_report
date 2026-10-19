@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[comfy-org-comfyui]] [[hkuds-cli-anything]] [[ntdevlabs-tiny11builder]] [[madslorentzen-ai-job-search]] [[anthropics-claude-plugins-official]]
+[[ntdevlabs-tiny11builder]] [[madslorentzen-ai-job-search]] [[tester-army-e2e]] [[hkuds-cli-anything]] [[comfy-org-comfyui]]
 
 **所属领域**: [[image-gen]]
 

@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[obra-superpowers]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[mattpocock-skills]]
+[[xerj-org-xerj]] [[msitarzewski-agency-agents]] [[nvm-sh-nvm]] [[anthropics-claude-code]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

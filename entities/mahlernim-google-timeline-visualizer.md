@@ -36,7 +36,7 @@ Visualize your year in travel using your Google Location History (Timeline) data
 
 ## 相关项目
 
-[[embabel-embabel-agent]] [[xerj-org-xerj]] [[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[bilawalsidhu-gods-eye-view]]
+[[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[bilawalsidhu-gods-eye-view]] [[embabel-embabel-agent]] [[android-skills]]
 
 **所属领域**: [[data]]
 

@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[xerj-org-xerj]] [[stablyai-orca]] [[plausible-analytics]] [[agentjido-jido]]
+[[agentjido-jido]] [[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[anomalyco-opencode]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

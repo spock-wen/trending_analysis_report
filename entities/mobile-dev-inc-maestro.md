@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[mahlernim-google-timeline-visualizer]] [[anthropics-claude-code]] [[stablyai-orca]] [[cathrynlavery-diagram-design]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[cathrynlavery-diagram-design]] [[bannedbook-fanqiang]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

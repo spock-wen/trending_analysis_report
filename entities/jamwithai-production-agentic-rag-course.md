@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[mlabonne-llm-course]] [[anomalyco-opencode]] [[tensorflow-tensorflow]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[tensorflow-tensorflow]] [[shiyu-coder-kronos]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

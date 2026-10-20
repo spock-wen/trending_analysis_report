@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[anomalyco-opencode]] [[microsoft-generative-ai-for-beginners]] [[stablyai-orca]] [[microsoft-ai-for-beginners]]
+[[oblien-openship]] [[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[xtool-org-xtool]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

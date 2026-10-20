@@ -34,7 +34,7 @@ WinUI app for building smaller, customized Windows 11 images.
 
 ## 相关项目
 
-[[tester-army-e2e]] [[dotnet-aspnetcore]] [[sonarr-sonarr]] [[comfy-org-comfyui]] [[trycua-cua]]
+[[comfy-org-comfyui]] [[tester-army-e2e]] [[trycua-cua]] [[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]]
 
 **所属领域**: [[image-gen]]
 

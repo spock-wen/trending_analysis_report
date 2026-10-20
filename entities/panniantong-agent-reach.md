@@ -38,7 +38,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]] [[stablyai-orca]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

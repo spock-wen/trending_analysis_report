@@ -36,7 +36,7 @@ Warp is an agentic development environment, born out of the terminal.
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[anomalyco-opencode]] [[rust-lang-rust]] [[anthropics-claude-code]] [[stablyai-orca]]
+[[storytold-artcraft]] [[msitarzewski-agency-agents]] [[stablyai-orca]] [[anthropics-knowledge-work-plugins]] [[rust-lang-rust]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

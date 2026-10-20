@@ -37,5 +37,5 @@ Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[hkuds-cli-anything]] [[comfy-org-comfyui]] [[shiyu-coder-kronos]]
+[[madslorentzen-ai-job-search]] [[anthropics-knowledge-work-plugins]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]]
 

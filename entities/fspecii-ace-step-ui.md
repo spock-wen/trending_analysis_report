@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[anomalyco-opencode]] [[comfy-org-comfyui]] [[hmjz100-linkswift]] [[tester-army-e2e]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[debpalash-voicestudio]] [[comfy-org-comfyui]] [[dietrichgebert-ponytail]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

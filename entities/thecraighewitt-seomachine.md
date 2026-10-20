@@ -38,7 +38,7 @@ A specialized Claude Code workspace for creating long-form, SEO-optimized blog c
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[earthtojake-text-to-cad]] [[anthropics-claude-code]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[obra-superpowers]] [[earthtojake-text-to-cad]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[madslorentzen-ai-job-search]] [[tester-army-e2e]] [[hkuds-cli-anything]] [[comfy-org-comfyui]]
+[[comfy-org-comfyui]] [[shiyu-coder-kronos]] [[tester-army-e2e]] [[ntdevlabs-tiny11builder]] [[graphify-labs-graphify]]
 
 **所属领域**: [[image-gen]]
 

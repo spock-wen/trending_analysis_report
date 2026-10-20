@@ -34,5 +34,5 @@ dev tools, env vars, task runner
 
 ## 相关项目
 
-[[rust-lang-rust]] [[storytold-artcraft]] [[xerj-org-xerj]] [[akitaonrails-ai-memory]]
+[[storytold-artcraft]] [[akitaonrails-ai-memory]] [[xerj-org-xerj]] [[rust-lang-rust]]
 

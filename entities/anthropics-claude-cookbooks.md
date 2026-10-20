@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[higgsfield-ai-higgsfield]] [[lyogavin-airllm]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[microsoft-generative-ai-for-beginners]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]]
 

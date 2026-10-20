@@ -35,7 +35,7 @@ DeepEP: an efficient expert-parallel communication library
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[deepseek-ai-deepgemm]] [[anthropics-claude-code]] [[moonshotai-flashkda]] [[stablyai-orca]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[deepseek-ai-deepgemm]] [[anomalyco-opencode]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

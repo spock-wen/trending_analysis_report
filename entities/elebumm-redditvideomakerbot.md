@@ -35,7 +35,7 @@ Create Reddit Videos with just✨ one command ✨
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]] [[hkuds-cli-anything]] [[comfy-org-comfyui]]
+[[msitarzewski-agency-agents]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[anthropics-claude-code]] [[hkuds-cli-anything]]
 
 **所属领域**: [[cli]]
 

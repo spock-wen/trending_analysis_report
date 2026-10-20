@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[anthropics-claude-code]] [[hkuds-cli-anything]] [[akitaonrails-ai-memory]] [[caddyserver-caddy]]
+[[msitarzewski-agency-agents]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[graphify-labs-graphify]] [[anthropics-claude-code]]
 
 **所属领域**: [[cli]]
 

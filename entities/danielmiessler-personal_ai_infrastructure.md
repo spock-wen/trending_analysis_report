@@ -35,7 +35,7 @@ Agentic AI Infrastructure for magnifying HUMAN capabilities.
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[anthropics-claude-code]] [[getsentry-sentry]] [[xtool-org-xtool]] [[stablyai-orca]]
+[[stablyai-orca]] [[msitarzewski-agency-agents]] [[oblien-openship]] [[anomalyco-opencode]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

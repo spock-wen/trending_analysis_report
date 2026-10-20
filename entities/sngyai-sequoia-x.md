@@ -34,7 +34,7 @@ A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运�
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]] [[stablyai-orca]] [[hkuds-cli-anything]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]]
 

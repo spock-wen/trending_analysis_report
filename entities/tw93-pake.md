@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[rust-lang-rust]] [[anthropics-claude-code]] [[alishahryar1-free-claude-code]] [[hkuds-cli-anything]]
+[[storytold-artcraft]] [[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[rust-lang-rust]] [[graphify-labs-graphify]]
 
 **所属领域**: [[web]] [[cli]]
 

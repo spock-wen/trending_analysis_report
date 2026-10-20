@@ -1,20 +1,20 @@
 ---
 title: "Comfy-Org/ComfyUI"
 created: 2026-08-10
-updated: 2026-10-20
-last_active: 2026-10-20
+updated: 2026-10-21
+last_active: 2026-10-21
 type: framework
-tags: [python, image-gen]
-sources: [raw/trending/2026-10-20.json]
+tags: [python, image-gen, rising]
+sources: [raw/trending/2026-10-21.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 3
 first_trending: 2026-08-10
-last_trending: 2026-10-20
+last_trending: 2026-10-21
 peak_rank: 4
-total_stars: 139665
+total_stars: 140713
 language: "Python"
 ---
 
@@ -23,13 +23,14 @@ language: "Python"
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 
 - 语言: Python
-- 上榜次数: 4 次
-- 连续上榜: 2 天
+- 上榜次数: 5 次
+- 连续上榜: 3 天
 - 最高排名: #4
 - 链接: [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
 
 ## 上榜历史
 
+  - 2026-10-21: #5, +1201⭐
   - 2026-10-20: #4, +1011⭐
   - 2026-10-19: #13, +155⭐
   - 2026-08-11: #15, +921⭐
@@ -37,17 +38,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[madslorentzen-ai-job-search]] [[tester-army-e2e]] [[hkuds-cli-anything]] [[trycua-cua]]
+[[shiyu-coder-kronos]] [[tester-army-e2e]] [[ntdevlabs-tiny11builder]] [[graphify-labs-graphify]] [[trycua-cua]]
 
 **所属领域**: [[image-gen]]
-
-
-## ⚠️ 描述变更（2026-10-19）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-- **新描述**: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

@@ -38,7 +38,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]] [[getsentry-sentry]] [[xtool-org-xtool]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[oblien-openship]] [[shiyu-coder-kronos]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

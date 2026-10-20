@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[mlabonne-llm-course]] [[anomalyco-opencode]] [[tensorflow-tensorflow]] [[anthropics-claude-code]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[tensorflow-tensorflow]] [[paperclipai-paperclip]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

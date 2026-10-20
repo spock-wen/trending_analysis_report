@@ -37,7 +37,7 @@ Deepseek to API: A lightweight, high-performance full-stack middleware convertin
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]] [[hkuds-cli-anything]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

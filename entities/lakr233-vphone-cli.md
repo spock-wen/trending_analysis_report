@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[xerj-org-xerj]] [[anthropics-claude-code]] [[xtool-org-xtool]] [[hkuds-cli-anything]]
+[[msitarzewski-agency-agents]] [[graphify-labs-graphify]] [[xtool-org-xtool]] [[anthropics-claude-code]] [[hkuds-cli-anything]]
 
 **所属领域**: [[cli]]
 

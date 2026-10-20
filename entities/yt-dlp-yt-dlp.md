@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]] [[huggingface-transformers]] [[alishahryar1-free-claude-code]]
+[[msitarzewski-agency-agents]] [[debpalash-voicestudio]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[anthropics-claude-code]]
 
 **所属领域**: [[cli]] [[audio]]
 

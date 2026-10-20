@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]] [[ruvnet-ruflo]]
+[[stablyai-orca]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[affaan-m-ecc]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

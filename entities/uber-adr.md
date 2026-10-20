@@ -35,7 +35,7 @@ ADR secures enterprise AI agents through observability, security benchmarking, a
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[xtool-org-xtool]] [[stablyai-orca]] [[hugohe3-ppt-master]]
+[[oblien-openship]] [[xtool-org-xtool]] [[ruvnet-ruflo]] [[madslorentzen-ai-job-search]] [[getsentry-sentry]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[security]] [[erp]]
 

@@ -38,7 +38,7 @@ Secure environments for developers and their agents
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]] [[hkuds-cli-anything]] [[caddyserver-caddy]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[caddyserver-caddy]]
 
 **所属领域**: [[ai-agent]]
 

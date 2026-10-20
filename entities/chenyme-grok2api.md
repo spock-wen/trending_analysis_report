@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[anthropics-claude-code]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[alishahryar1-free-claude-code]]
+[[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[graphify-labs-graphify]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[epicgames-raddebugger]] [[antirez-ds4]] [[anomalyco-opencode]] [[xerj-org-xerj]] [[colbymchenry-codegraph]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[colbymchenry-codegraph]] [[willfaust-madeira]] [[epicgames-raddebugger]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

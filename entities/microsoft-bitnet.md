@@ -36,7 +36,7 @@ Official inference framework for 1-bit LLMs
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]] [[m-abozaid-esp32-c3-adblock]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]]
 

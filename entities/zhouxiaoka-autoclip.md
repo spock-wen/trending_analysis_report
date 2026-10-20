@@ -34,7 +34,7 @@ AutoClip : AI-powered video clipping and highlight generation · 一款智能高
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[ntdevlabs-tiny11builder]] [[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[tester-army-e2e]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[comfy-org-comfyui]] [[shiyu-coder-kronos]] [[tester-army-e2e]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[image-gen]]
 

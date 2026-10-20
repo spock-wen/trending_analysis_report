@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]]
+[[stablyai-orca]] [[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[anomalyco-opencode]] [[anthropics-claude-code]]
 
 **所属领域**: [[web]] [[data]]
 

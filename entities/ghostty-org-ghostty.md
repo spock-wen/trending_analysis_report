@@ -34,7 +34,7 @@ language: "Zig"
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[lightpanda-io-browser]] [[anthropics-claude-code]] [[hkuds-cli-anything]] [[akitaonrails-ai-memory]]
+[[msitarzewski-agency-agents]] [[graphify-labs-graphify]] [[anthropics-claude-code]] [[hkuds-cli-anything]] [[lightpanda-io-browser]]
 
 **所属领域**: [[cli]]
 

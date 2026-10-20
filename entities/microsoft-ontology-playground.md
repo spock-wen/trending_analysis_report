@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[mlabonne-llm-course]] [[anomalyco-opencode]] [[tensorflow-tensorflow]] [[anthropics-claude-code]] [[huggingface-transformers]]
+[[stablyai-orca]] [[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[tensorflow-tensorflow]] [[anomalyco-opencode]]
 
 **所属领域**: [[web]] [[education]]
 

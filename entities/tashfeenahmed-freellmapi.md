@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[xerj-org-xerj]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]]
+[[stablyai-orca]] [[msitarzewski-agency-agents]] [[affaan-m-ecc]] [[anomalyco-opencode]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

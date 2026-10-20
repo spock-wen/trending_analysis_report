@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[nvm-sh-nvm]] [[earthtojake-text-to-cad]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[earthtojake-text-to-cad]] [[mattpocock-skills]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

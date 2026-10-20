@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[bilawalsidhu-gods-eye-view]] [[alishahryar1-free-claude-code]] [[hkuds-cli-anything]] [[comfy-org-comfyui]]
+[[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

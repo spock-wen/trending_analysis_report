@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[higgsfield-ai-higgsfield]] [[mlabonne-llm-course]] [[lyogavin-airllm]] [[anomalyco-opencode]] [[tensorflow-tensorflow]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[tensorflow-tensorflow]] [[lyogavin-airllm]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

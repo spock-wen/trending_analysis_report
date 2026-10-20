@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[huggingface-transformers]] [[stablyai-orca]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[debpalash-voicestudio]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

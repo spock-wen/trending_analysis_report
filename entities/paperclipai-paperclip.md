@@ -38,7 +38,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]]
+[[stablyai-orca]] [[msitarzewski-agency-agents]] [[affaan-m-ecc]] [[robbyant-lingbot-map]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

@@ -38,5 +38,5 @@ Python tool for converting files and office documents to Markdown.
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[hkuds-cli-anything]] [[comfy-org-comfyui]] [[shiyu-coder-kronos]]
+[[madslorentzen-ai-job-search]] [[anthropics-knowledge-work-plugins]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]]
 

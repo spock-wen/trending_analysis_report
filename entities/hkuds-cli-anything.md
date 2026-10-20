@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]] [[stablyai-orca]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[cathrynlavery-diagram-design]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

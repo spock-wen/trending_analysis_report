@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[madslorentzen-ai-job-search]] [[bilawalsidhu-gods-eye-view]] [[hkuds-cli-anything]]
+[[shiyu-coder-kronos]] [[paperclipai-paperclip]] [[affaan-m-ecc]] [[graphify-labs-graphify]] [[madslorentzen-ai-job-search]]
 
 **所属领域**: [[data]] [[science]]
 

@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[anthropics-claude-code]] [[getsentry-sentry]] [[xtool-org-xtool]] [[stablyai-orca]]
+[[stablyai-orca]] [[xtool-org-xtool]] [[anthropics-claude-code]] [[anomalyco-opencode]] [[ruvnet-ruflo]]
 
 **所属领域**: [[devops]]
 

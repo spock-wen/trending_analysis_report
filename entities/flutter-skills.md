@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[flutter-flutter]] [[chen08209-flclash]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[chen08209-flclash]] [[localsend-localsend]] [[flutter-flutter]]
 
 **所属领域**: [[ai-agent]]
 

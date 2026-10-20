@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[nationalsecurityagency-ghidra]] [[xerj-org-xerj]] [[anomalyco-opencode]] [[madslorentzen-ai-job-search]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[shiyu-coder-kronos]] [[paperclipai-paperclip]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

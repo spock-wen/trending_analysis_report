@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]] [[getsentry-sentry]] [[xtool-org-xtool]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[cathrynlavery-diagram-design]] [[oblien-openship]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

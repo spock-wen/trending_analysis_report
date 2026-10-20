@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[getsentry-sentry]]
+[[stablyai-orca]] [[msitarzewski-agency-agents]] [[oblien-openship]] [[anomalyco-opencode]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

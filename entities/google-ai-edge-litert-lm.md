@@ -37,7 +37,7 @@ No description
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]] [[m-abozaid-esp32-c3-adblock]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]] [[microsoft-bitnet]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[anomalyco-opencode]] [[hmjz100-linkswift]] [[anthropics-claude-code]] [[stablyai-orca]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

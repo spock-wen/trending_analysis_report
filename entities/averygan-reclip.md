@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[xerj-org-xerj]] [[ripienaar-free-for-dev]] [[anthropics-claude-code]] [[alishahryar1-free-claude-code]]
+[[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[ripienaar-free-for-dev]] [[pkuflyingpig-cs-self-learning]] [[graphify-labs-graphify]]
 
 **所属领域**: [[web]] [[cli]]
 

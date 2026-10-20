@@ -38,7 +38,7 @@ This is MCP server for Claude that gives it terminal control, file system search
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]] [[ruvnet-ruflo]]
+[[stablyai-orca]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

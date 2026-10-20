@@ -38,7 +38,7 @@ Claude Agent SDK with a web browsing tool
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[hmjz100-linkswift]] [[anthropics-claude-code]] [[stablyai-orca]] [[alishahryar1-free-claude-code]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[cathrynlavery-diagram-design]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

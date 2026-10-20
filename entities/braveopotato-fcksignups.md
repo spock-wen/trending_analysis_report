@@ -36,7 +36,7 @@ A list of tools that are open-source, in-browser, and require no-signups!
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]] [[alishahryar1-free-claude-code]] [[ruvnet-ruflo]]
+[[stablyai-orca]] [[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[anomalyco-opencode]] [[anthropics-claude-code]]
 
 **所属领域**: [[web]]
 

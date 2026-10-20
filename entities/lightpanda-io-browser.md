@@ -38,7 +38,7 @@ Lightpanda: the headless browser designed for AI and automation
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]] [[alishahryar1-free-claude-code]] [[hkuds-cli-anything]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[cathrynlavery-diagram-design]] [[bilawalsidhu-gods-eye-view]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

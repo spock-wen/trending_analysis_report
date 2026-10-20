@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[tester-army-e2e]] [[anthropics-claude-code]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[comfy-org-comfyui]] [[shiyu-coder-kronos]] [[tester-army-e2e]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

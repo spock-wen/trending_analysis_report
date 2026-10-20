@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[anthropics-claude-code]] [[getsentry-sentry]] [[xtool-org-xtool]] [[stablyai-orca]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[oblien-openship]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

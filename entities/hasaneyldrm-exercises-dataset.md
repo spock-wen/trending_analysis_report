@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[xerj-org-xerj]] [[anomalyco-opencode]]
+[[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[stablyai-orca]] [[ripienaar-free-for-dev]] [[pkuflyingpig-cs-self-learning]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

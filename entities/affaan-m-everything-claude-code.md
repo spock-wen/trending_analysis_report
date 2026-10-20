@@ -34,7 +34,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[nationalsecurityagency-ghidra]] [[xerj-org-xerj]] [[anomalyco-opencode]] [[hmjz100-linkswift]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[paperclipai-paperclip]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

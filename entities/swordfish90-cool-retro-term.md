@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[anthropics-claude-code]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[akitaonrails-ai-memory]]
+[[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[hkuds-cli-anything]] [[graphify-labs-graphify]]
 
 **所属领域**: [[cli]]
 

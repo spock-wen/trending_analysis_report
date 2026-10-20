@@ -35,7 +35,7 @@ The LLVM Project is a collection of modular and reusable compiler and toolchain 
 
 ## 相关项目
 
-[[stablyai-orca]] [[anthropics-claude-code]] [[hkuds-cli-anything]] [[anomalyco-opencode]]
+[[msitarzewski-agency-agents]] [[anthropics-knowledge-work-plugins]] [[anomalyco-opencode]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]]
 

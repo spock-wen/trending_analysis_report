@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]] [[alishahryar1-free-claude-code]]
+[[stablyai-orca]] [[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[paperclipai-paperclip]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

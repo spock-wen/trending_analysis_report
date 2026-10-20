@@ -38,7 +38,7 @@ Open-Source Frontier Voice AI
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]] [[huggingface-transformers]] [[stablyai-orca]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[debpalash-voicestudio]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

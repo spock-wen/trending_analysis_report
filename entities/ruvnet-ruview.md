@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[rust-lang-rust]] [[getsentry-sentry]] [[xtool-org-xtool]] [[ruvnet-ruflo]]
+[[storytold-artcraft]] [[oblien-openship]] [[rust-lang-rust]] [[xtool-org-xtool]] [[ruvnet-ruflo]]
 
 **所属领域**: [[devops]]
 

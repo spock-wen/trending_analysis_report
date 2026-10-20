@@ -37,5 +37,5 @@ MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devi
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[hkuds-cli-anything]] [[comfy-org-comfyui]] [[shiyu-coder-kronos]]
+[[madslorentzen-ai-job-search]] [[anthropics-knowledge-work-plugins]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]]
 

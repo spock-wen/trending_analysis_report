@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[mlabonne-llm-course]] [[anomalyco-opencode]] [[tensorflow-tensorflow]] [[anthropics-claude-code]] [[huggingface-transformers]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[cathrynlavery-diagram-design]] [[tensorflow-tensorflow]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

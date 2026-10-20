@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[anomalyco-opencode]] [[rust-lang-rust]] [[anthropics-claude-code]] [[stablyai-orca]]
+[[storytold-artcraft]] [[msitarzewski-agency-agents]] [[stablyai-orca]] [[anthropics-knowledge-work-plugins]] [[rust-lang-rust]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

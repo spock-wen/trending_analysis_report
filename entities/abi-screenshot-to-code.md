@@ -35,7 +35,7 @@ Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]] [[stablyai-orca]] [[bilawalsidhu-gods-eye-view]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[cathrynlavery-diagram-design]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

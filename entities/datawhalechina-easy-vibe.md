@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[mlabonne-llm-course]] [[xerj-org-xerj]] [[tensorflow-tensorflow]] [[hmjz100-linkswift]]
+[[tensorflow-tensorflow]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[graphify-labs-graphify]] [[mlabonne-llm-course]]
 
 **所属领域**: [[data]] [[education]]
 

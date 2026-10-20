@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[nvm-sh-nvm]] [[anthropics-claude-code]]
+[[msitarzewski-agency-agents]] [[obra-superpowers]] [[stablyai-orca]] [[graphify-labs-graphify]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

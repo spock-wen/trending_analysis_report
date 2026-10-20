@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]] [[hkuds-cli-anything]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[graphify-labs-graphify]] [[anthropics-claude-code]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

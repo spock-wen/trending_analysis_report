@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[nvm-sh-nvm]] [[anthropics-claude-code]]
+[[msitarzewski-agency-agents]] [[obra-superpowers]] [[stablyai-orca]] [[mattpocock-skills]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

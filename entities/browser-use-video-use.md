@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]] [[stablyai-orca]] [[bilawalsidhu-gods-eye-view]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[cathrynlavery-diagram-design]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

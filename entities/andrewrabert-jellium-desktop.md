@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[rust-lang-rust]] [[anthropics-claude-code]] [[hkuds-cli-anything]] [[akitaonrails-ai-memory]]
+[[storytold-artcraft]] [[msitarzewski-agency-agents]] [[rust-lang-rust]] [[graphify-labs-graphify]] [[anthropics-claude-code]]
 
 **所属领域**: [[cli]]
 

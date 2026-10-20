@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[bwya77-vscode-dark-islands]] [[xerj-org-xerj]] [[ntdevlabs-tiny11builder]] [[comfy-org-comfyui]] [[zhaoxuya520-reverse-skill]]
+[[msitarzewski-agency-agents]] [[comfy-org-comfyui]] [[tester-army-e2e]] [[ntdevlabs-tiny11builder]] [[graphify-labs-graphify]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

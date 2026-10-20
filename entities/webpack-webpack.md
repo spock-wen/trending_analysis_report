@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[comfy-org-comfyui]] [[hmjz100-linkswift]] [[tester-army-e2e]] [[alishahryar1-free-claude-code]]
+[[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[comfy-org-comfyui]] [[dietrichgebert-ponytail]] [[tester-army-e2e]]
 
 **所属领域**: [[web]] [[image-gen]]
 

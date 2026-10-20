@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[anomalyco-opencode]] [[dotnet-aspnetcore]] [[anthropics-claude-code]] [[stablyai-orca]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[ntdevlabs-tiny11builder]] [[dotnet-aspnetcore]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]]
 

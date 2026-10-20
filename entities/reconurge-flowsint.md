@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[xerj-org-xerj]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]]
+[[stablyai-orca]] [[affaan-m-ecc]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[security]]
 

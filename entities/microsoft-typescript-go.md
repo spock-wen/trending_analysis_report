@@ -35,5 +35,5 @@ Staging repo for development of native port of TypeScript
 
 ## 相关项目
 
-[[caddyserver-caddy]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[alibaba-open-code-review]]
+[[vxcontrol-pentagi]] [[caddyserver-caddy]] [[alibaba-open-code-review]] [[juliusbrussee-caveman]]
 

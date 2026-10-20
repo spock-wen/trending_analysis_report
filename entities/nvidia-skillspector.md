@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[xerj-org-xerj]] [[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[shiyu-coder-kronos]] [[affaan-m-ecc]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[mlabonne-llm-course]] [[xerj-org-xerj]] [[tensorflow-tensorflow]] [[rust-lang-rust]] [[anthropics-claude-code]]
+[[storytold-artcraft]] [[msitarzewski-agency-agents]] [[tensorflow-tensorflow]] [[debpalash-voicestudio]] [[rust-lang-rust]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

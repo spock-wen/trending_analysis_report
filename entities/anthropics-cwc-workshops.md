@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[earthtojake-text-to-cad]] [[anthropics-claude-code]] [[stablyai-orca]] [[obra-superpowers]]
+[[stablyai-orca]] [[obra-superpowers]] [[earthtojake-text-to-cad]] [[anomalyco-opencode]] [[anthropics-claude-code]]
 
 **所属领域**: [[erp]]
 

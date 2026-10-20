@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[bwya77-vscode-dark-islands]] [[xerj-org-xerj]] [[anomalyco-opencode]] [[zhaoxuya520-reverse-skill]] [[anthropics-claude-code]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[actions-runner-images]] [[anomalyco-opencode]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

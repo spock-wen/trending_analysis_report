@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[nationalsecurityagency-ghidra]] [[xerj-org-xerj]] [[anomalyco-opencode]] [[yuliskov-smarttube]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[checkstyle-checkstyle]] [[graphify-labs-graphify]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

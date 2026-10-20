@@ -35,7 +35,7 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]] [[stablyai-orca]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[shiyu-coder-kronos]] [[paperclipai-paperclip]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

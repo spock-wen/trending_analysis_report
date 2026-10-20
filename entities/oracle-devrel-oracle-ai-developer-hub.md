@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[higgsfield-ai-higgsfield]] [[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[lyogavin-airllm]] [[anomalyco-opencode]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

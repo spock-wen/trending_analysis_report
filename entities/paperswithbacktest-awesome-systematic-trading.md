@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[mlabonne-llm-course]] [[tensorflow-tensorflow]] [[madslorentzen-ai-job-search]] [[huggingface-transformers]]
+[[tensorflow-tensorflow]] [[shiyu-coder-kronos]] [[paperclipai-paperclip]] [[affaan-m-ecc]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[education]] [[science]]
 

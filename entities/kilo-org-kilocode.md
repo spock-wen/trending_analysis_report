@@ -35,7 +35,7 @@ Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate fa
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]] [[ruvnet-ruflo]] [[hkuds-cli-anything]]
+[[stablyai-orca]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]]
 

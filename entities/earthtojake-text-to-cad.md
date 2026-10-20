@@ -38,7 +38,7 @@ Give your agent CAD superpowers.
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]] [[stablyai-orca]] [[obra-superpowers]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[obra-superpowers]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

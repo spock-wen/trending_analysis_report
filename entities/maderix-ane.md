@@ -34,7 +34,7 @@ Training neural networks on Apple Neural Engine via reverse-engineered private A
 
 ## 相关项目
 
-[[stablyai-orca]] [[anthropics-claude-code]] [[hkuds-cli-anything]] [[anomalyco-opencode]]
+[[msitarzewski-agency-agents]] [[anthropics-knowledge-work-plugins]] [[anomalyco-opencode]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]]
 

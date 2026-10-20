@@ -38,7 +38,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[anomalyco-opencode]] [[comfy-org-comfyui]] [[hmjz100-linkswift]] [[tester-army-e2e]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[comfy-org-comfyui]] [[dietrichgebert-ponytail]] [[tester-army-e2e]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

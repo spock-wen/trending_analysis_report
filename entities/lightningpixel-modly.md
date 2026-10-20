@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[anomalyco-opencode]] [[tester-army-e2e]] [[anthropics-claude-code]] [[stablyai-orca]]
+[[stablyai-orca]] [[msitarzewski-agency-agents]] [[comfy-org-comfyui]] [[tester-army-e2e]] [[ntdevlabs-tiny11builder]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

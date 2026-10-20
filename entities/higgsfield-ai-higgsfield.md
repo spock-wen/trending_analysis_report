@@ -35,7 +35,7 @@ Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew
 
 ## 相关项目
 
-[[mlabonne-llm-course]] [[lyogavin-airllm]] [[anomalyco-opencode]] [[tensorflow-tensorflow]] [[anthropics-claude-code]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[tensorflow-tensorflow]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

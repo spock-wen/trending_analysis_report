@@ -38,7 +38,7 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[anomalyco-opencode]] [[rust-lang-rust]] [[anthropics-claude-code]] [[stablyai-orca]]
+[[storytold-artcraft]] [[msitarzewski-agency-agents]] [[stablyai-orca]] [[rust-lang-rust]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

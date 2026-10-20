@@ -38,7 +38,7 @@ The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relatio
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]] [[ruvnet-ruflo]] [[hkuds-cli-anything]]
+[[stablyai-orca]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]]
 

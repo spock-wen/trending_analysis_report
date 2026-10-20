@@ -34,7 +34,7 @@ PowerShell for every system!
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[xerj-org-xerj]] [[dotnet-aspnetcore]] [[anthropics-claude-code]] [[hkuds-cli-anything]]
+[[msitarzewski-agency-agents]] [[ntdevlabs-tiny11builder]] [[graphify-labs-graphify]] [[anthropics-claude-code]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[nationalsecurityagency-ghidra]] [[xerj-org-xerj]] [[mlabonne-llm-course]] [[anomalyco-opencode]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[tensorflow-tensorflow]] [[shiyu-coder-kronos]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

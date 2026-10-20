@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[agentjido-jido]] [[k-dense-ai-scientific-agent-skills]] [[nationalsecurityagency-ghidra]] [[teslamate-org-teslamate]] [[xerj-org-xerj]]
+[[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[teslamate-org-teslamate]] [[nationalsecurityagency-ghidra]] [[agentjido-jido]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

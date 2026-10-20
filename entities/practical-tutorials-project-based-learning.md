@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[mlabonne-llm-course]] [[tensorflow-tensorflow]] [[madslorentzen-ai-job-search]] [[huggingface-transformers]] [[ruvnet-ruflo]]
+[[tensorflow-tensorflow]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[huggingface-transformers]] [[ruvnet-ruflo]]
 
 **所属领域**: [[education]]
 

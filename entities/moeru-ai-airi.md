@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[anthropics-claude-code]] [[huggingface-transformers]] [[stablyai-orca]] [[alishahryar1-free-claude-code]]
+[[stablyai-orca]] [[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[debpalash-voicestudio]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

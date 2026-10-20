@@ -34,7 +34,7 @@ VSCode theme based off the easemate IDE and Jetbrains islands theme
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[anomalyco-opencode]] [[zhaoxuya520-reverse-skill]] [[anthropics-claude-code]] [[actions-runner-images]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[actions-runner-images]] [[graphify-labs-graphify]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

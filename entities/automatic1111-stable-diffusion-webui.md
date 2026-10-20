@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[madslorentzen-ai-job-search]] [[tester-army-e2e]] [[bilawalsidhu-gods-eye-view]] [[alishahryar1-free-claude-code]]
+[[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[comfy-org-comfyui]] [[shiyu-coder-kronos]] [[tester-army-e2e]]
 
 **所属领域**: [[web]] [[image-gen]]
 

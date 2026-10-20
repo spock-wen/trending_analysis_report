@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[k-dense-ai-scientific-agent-skills]] [[averygan-reclip]] [[anomalyco-opencode]] [[ripienaar-free-for-dev]]
+[[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[stablyai-orca]] [[ripienaar-free-for-dev]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

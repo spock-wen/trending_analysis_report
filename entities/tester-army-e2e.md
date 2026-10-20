@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]] [[alishahryar1-free-claude-code]]
+[[stablyai-orca]] [[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[comfy-org-comfyui]] [[ntdevlabs-tiny11builder]]
 
 **所属领域**: [[web]] [[image-gen]]
 

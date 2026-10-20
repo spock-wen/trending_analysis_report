@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[cs341-illinois-coursebook]] [[anthropics-claude-code]] [[stablyai-orca]] [[hkuds-cli-anything]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[cs341-illinois-coursebook]] [[anomalyco-opencode]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

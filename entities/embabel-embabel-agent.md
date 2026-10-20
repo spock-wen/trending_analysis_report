@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[mahlernim-google-timeline-visualizer]] [[anthropics-claude-code]] [[stablyai-orca]] [[hkuds-cli-anything]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[bannedbook-fanqiang]] [[anomalyco-opencode]] [[android-skills]]
 
 **所属领域**: [[ai-agent]]
 

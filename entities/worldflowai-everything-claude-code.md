@@ -34,7 +34,7 @@ Claude Code toolkit - agents, commands, skills, rules, and hooks for productive 
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[anomalyco-opencode]] [[hmjz100-linkswift]] [[anthropics-claude-code]] [[stablyai-orca]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

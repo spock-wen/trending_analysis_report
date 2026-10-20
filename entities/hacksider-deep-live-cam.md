@@ -34,7 +34,7 @@ real time face swap and one-click video deepfake with only a single image
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[ntdevlabs-tiny11builder]] [[madslorentzen-ai-job-search]] [[tester-army-e2e]] [[anthropics-claude-code]]
+[[msitarzewski-agency-agents]] [[comfy-org-comfyui]] [[shiyu-coder-kronos]] [[tester-army-e2e]] [[ntdevlabs-tiny11builder]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

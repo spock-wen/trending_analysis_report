@@ -34,7 +34,7 @@ AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]]
+[[stablyai-orca]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

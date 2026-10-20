@@ -34,7 +34,7 @@ Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[madslorentzen-ai-job-search]] [[bilawalsidhu-gods-eye-view]] [[hkuds-cli-anything]]
+[[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[madslorentzen-ai-job-search]] [[anthropics-knowledge-work-plugins]] [[bilawalsidhu-gods-eye-view]]
 
 **所属领域**: [[data]]
 

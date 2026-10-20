@@ -36,7 +36,7 @@ AI turns documents or topics into real, native PowerPoint decks—with native sh
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[earthtojake-text-to-cad]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[obra-superpowers]] [[earthtojake-text-to-cad]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[data]] [[erp]] [[audio]]
 

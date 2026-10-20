@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[stablyai-orca]] [[alishahryar1-free-claude-code]]
+[[stablyai-orca]] [[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[anomalyco-opencode]] [[anthropics-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

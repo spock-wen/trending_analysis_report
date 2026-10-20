@@ -38,7 +38,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[stablyai-orca]] [[anthropics-claude-code]] [[hkuds-cli-anything]] [[anomalyco-opencode]]
+[[msitarzewski-agency-agents]] [[anthropics-knowledge-work-plugins]] [[anomalyco-opencode]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]]
 

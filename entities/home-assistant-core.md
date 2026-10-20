@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[xerj-org-xerj]] [[madslorentzen-ai-job-search]] [[cloudflare-security-audit-skill]] [[hkuds-cli-anything]]
+[[shiyu-coder-kronos]] [[affaan-m-ecc]] [[graphify-labs-graphify]] [[cloudflare-security-audit-skill]] [[madslorentzen-ai-job-search]]
 
 **所属领域**: [[security]]
 

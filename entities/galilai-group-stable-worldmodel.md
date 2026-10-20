@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[ntdevlabs-tiny11builder]] [[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[tester-army-e2e]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[comfy-org-comfyui]] [[shiyu-coder-kronos]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

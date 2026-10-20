@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[getsentry-sentry]]
+[[stablyai-orca]] [[oblien-openship]] [[graphify-labs-graphify]] [[anthropics-claude-code]] [[anomalyco-opencode]]
 
 **所属领域**: [[data]] [[devops]]
 

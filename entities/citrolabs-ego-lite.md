@@ -38,7 +38,7 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[hmjz100-linkswift]] [[anthropics-claude-code]] [[stablyai-orca]] [[alishahryar1-free-claude-code]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[cathrynlavery-diagram-design]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

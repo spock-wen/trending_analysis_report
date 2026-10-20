@@ -38,7 +38,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[anomalyco-opencode]] [[madslorentzen-ai-job-search]] [[anthropics-claude-code]] [[getsentry-sentry]]
+[[msitarzewski-agency-agents]] [[stablyai-orca]] [[oblien-openship]] [[shiyu-coder-kronos]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

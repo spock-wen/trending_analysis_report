@@ -36,7 +36,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[m-abozaid-esp32-c3-adblock]] [[alishahryar1-free-claude-code]] [[hkuds-cli-anything]] [[cathrynlavery-diagram-design]]
+[[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]] [[microsoft-bitnet]]
 
 **所属领域**: [[web]]
 

@@ -37,7 +37,7 @@ SOTA Open Source TTS
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[huggingface-transformers]] [[hugohe3-ppt-master]]
+[[shiyu-coder-kronos]] [[alishahryar1-free-claude-code]] [[huggingface-transformers]] [[headroomlabs-ai-headroom]] [[comfy-org-comfyui]]
 
 **所属领域**: [[audio]]
 

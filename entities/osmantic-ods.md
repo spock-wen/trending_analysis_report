@@ -35,7 +35,7 @@ Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[debpalash-voicestudio]] [[comfy-org-comfyui]] [[shiyu-coder-kronos]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[alishahryar1-free-claude-code]] [[tester-army-e2e]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

@@ -35,7 +35,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[chen08209-flclash]] [[flutter-skills]] [[flutter-flutter]]
+[[supabase-supabase]] [[flutter-flutter]] [[flutter-skills]] [[graphify-labs-graphify]] [[twentyhq-twenty]]
 
 **所属领域**: [[ai-agent]]
 

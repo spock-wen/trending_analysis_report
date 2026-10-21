@@ -34,7 +34,7 @@ PowerShell for every system!
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[ntdevlabs-tiny11builder]] [[graphify-labs-graphify]] [[anthropics-claude-code]] [[dotnet-aspnetcore]]
+[[sonarr-sonarr]] [[dotnet-aspnetcore]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]] [[graphify-labs-graphify]]
 
 **所属领域**: [[cli]]
 

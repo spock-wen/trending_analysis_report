@@ -35,7 +35,7 @@ Stremio - Freedom to Stream
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]]
+[[supabase-supabase]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

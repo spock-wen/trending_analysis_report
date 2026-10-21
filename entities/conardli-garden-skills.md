@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[cathrynlavery-diagram-design]] [[comfy-org-comfyui]] [[nutlope-hallmark]]
+[[supabase-supabase]] [[diolinux-photogimp]] [[nutlope-hallmark]] [[tester-army-e2e]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

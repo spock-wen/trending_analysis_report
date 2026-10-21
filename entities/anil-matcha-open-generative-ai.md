@@ -38,7 +38,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[comfy-org-comfyui]] [[dietrichgebert-ponytail]] [[tester-army-e2e]]
+[[supabase-supabase]] [[cloudflare-security-audit-skill]] [[tester-army-e2e]] [[affaan-m-ecc]] [[comfy-org-comfyui]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

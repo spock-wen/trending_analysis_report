@@ -38,7 +38,7 @@ OpenStock is an open-source alternative to expensive market platforms. Track rea
 
 ## 相关项目
 
-[[stablyai-orca]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[ruvnet-ruflo]]
+[[supabase-supabase]] [[graphify-labs-graphify]] [[anomalyco-opencode]] [[twentyhq-twenty]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]]
 

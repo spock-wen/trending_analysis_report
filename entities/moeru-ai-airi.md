@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[stablyai-orca]] [[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[debpalash-voicestudio]] [[anomalyco-opencode]]
+[[supabase-supabase]] [[alishahryar1-free-claude-code]] [[huggingface-transformers]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

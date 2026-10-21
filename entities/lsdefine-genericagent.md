@@ -37,7 +37,7 @@ Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[anomalyco-opencode]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[headroomlabs-ai-headroom]] [[comfy-org-comfyui]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]]
 

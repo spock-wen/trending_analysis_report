@@ -36,7 +36,7 @@ An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[paperclipai-paperclip]] [[affaan-m-ecc]] [[robbyant-lingbot-map]] [[graphify-labs-graphify]]
+[[shiyu-coder-kronos]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[headroomlabs-ai-headroom]] [[comfy-org-comfyui]]
 
 **所属领域**: [[science]]
 

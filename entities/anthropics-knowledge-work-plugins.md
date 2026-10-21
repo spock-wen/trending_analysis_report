@@ -38,7 +38,7 @@ Open source repository of plugins primarily intended for knowledge workers to us
 
 ## 相关项目
 
-[[stablyai-orca]] [[msitarzewski-agency-agents]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[anomalyco-opencode]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[headroomlabs-ai-headroom]] [[comfy-org-comfyui]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[juliusbrussee-caveman]] [[caddyserver-caddy]] [[alibaba-open-code-review]]
+[[supabase-supabase]] [[strelov1-freehire]] [[alibaba-open-code-review]] [[graphify-labs-graphify]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]]
 

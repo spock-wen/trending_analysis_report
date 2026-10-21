@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[stablyai-orca]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[affaan-m-ecc]] [[robbyant-lingbot-map]]
+[[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[paperclipai-paperclip]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

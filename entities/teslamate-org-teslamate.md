@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[agentjido-jido]] [[graphify-labs-graphify]] [[plausible-analytics]]
+[[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[graphify-labs-graphify]] [[plausible-analytics]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

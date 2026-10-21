@@ -34,5 +34,5 @@ Empowering everyone to build reliable and efficient software.
 
 ## 相关项目
 
-[[storytold-artcraft]] [[akitaonrails-ai-memory]] [[xerj-org-xerj]]
+[[storytold-artcraft]] [[xerj-org-xerj]] [[akitaonrails-ai-memory]]
 

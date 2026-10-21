@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[teslamate-org-teslamate]] [[plausible-analytics]] [[anomalyco-opencode]]
+[[supabase-supabase]] [[teslamate-org-teslamate]] [[graphify-labs-graphify]] [[plausible-analytics]] [[twentyhq-twenty]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[cathrynlavery-diagram-design]] [[shiyu-coder-kronos]] [[paperclipai-paperclip]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

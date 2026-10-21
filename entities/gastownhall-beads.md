@@ -35,7 +35,7 @@ Beads - A memory upgrade for your coding agent
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[caddyserver-caddy]]
+[[supabase-supabase]] [[strelov1-freehire]] [[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]]
 

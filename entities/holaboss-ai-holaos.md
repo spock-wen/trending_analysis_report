@@ -35,7 +35,7 @@ Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex 
 
 ## 相关项目
 
-[[stablyai-orca]] [[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[anomalyco-opencode]] [[anthropics-claude-code]]
+[[supabase-supabase]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]] [[graphify-labs-graphify]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

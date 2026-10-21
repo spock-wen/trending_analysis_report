@@ -37,7 +37,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[comfy-org-comfyui]] [[shiyu-coder-kronos]] [[tester-army-e2e]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[tester-army-e2e]] [[xerj-org-xerj]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

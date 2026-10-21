@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[obra-superpowers]] [[earthtojake-text-to-cad]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[hugohe3-ppt-master]]
+[[shiyu-coder-kronos]] [[ever-co-ever-gauzy]] [[headroomlabs-ai-headroom]] [[comfy-org-comfyui]] [[graphify-labs-graphify]]
 
 **所属领域**: [[erp]]
 

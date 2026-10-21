@@ -35,7 +35,7 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 
 ## 相关项目
 
-[[stablyai-orca]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[graphify-labs-graphify]]
+[[supabase-supabase]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]] [[graphify-labs-graphify]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -36,7 +36,7 @@ The context API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[stablyai-orca]] [[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[anomalyco-opencode]] [[anthropics-claude-code]]
+[[supabase-supabase]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]] [[anomalyco-opencode]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]]
 

@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[graphify-labs-graphify]] [[mlabonne-llm-course]]
+[[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[mlabonne-llm-course]] [[cloudflare-security-audit-skill]] [[huggingface-transformers]]
 
 **所属领域**: [[data]] [[education]]
 

@@ -36,7 +36,7 @@ Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[anomalyco-opencode]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[headroomlabs-ai-headroom]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[oblien-openship]] [[shiyu-coder-kronos]] [[ruvnet-ruflo]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[oblien-openship]] [[msitarzewski-agency-agents]] [[headroomlabs-ai-headroom]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

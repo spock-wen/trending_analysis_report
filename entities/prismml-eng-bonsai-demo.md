@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[obra-superpowers]] [[stablyai-orca]] [[mattpocock-skills]] [[graphify-labs-graphify]]
+[[supabase-supabase]] [[mattpocock-skills]] [[msitarzewski-agency-agents]] [[stablyai-orca]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

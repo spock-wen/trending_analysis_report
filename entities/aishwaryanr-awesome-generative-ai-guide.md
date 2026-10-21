@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[stablyai-orca]] [[ripienaar-free-for-dev]] [[paperclipai-paperclip]]
+[[supabase-supabase]] [[averygan-reclip]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[tensorflow-tensorflow]] [[debpalash-voicestudio]] [[shiyu-coder-kronos]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[tensorflow-tensorflow]] [[mlabonne-llm-course]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

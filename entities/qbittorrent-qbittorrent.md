@@ -34,7 +34,7 @@ qBittorrent BitTorrent client
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]] [[microsoft-bitnet]] [[graphify-labs-graphify]]
+[[akitaonrails-ai-memory]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]] [[m-abozaid-esp32-c3-adblock]] [[graphify-labs-graphify]]
 
 **所属领域**: [[cli]]
 

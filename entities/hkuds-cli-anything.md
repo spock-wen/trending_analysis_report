@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[cathrynlavery-diagram-design]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[msitarzewski-agency-agents]] [[headroomlabs-ai-headroom]] [[comfy-org-comfyui]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

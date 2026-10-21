@@ -34,7 +34,7 @@ A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运�
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[anomalyco-opencode]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[headroomlabs-ai-headroom]] [[comfy-org-comfyui]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]]
 

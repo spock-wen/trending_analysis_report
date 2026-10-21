@@ -34,5 +34,5 @@ A set of beautifully-designed, accessible components and a code distribution pla
 
 ## 相关项目
 
-[[stablyai-orca]] [[anthropics-claude-code]] [[ruvnet-ruflo]] [[anomalyco-opencode]]
+[[supabase-supabase]] [[twentyhq-twenty]] [[anomalyco-opencode]] [[stablyai-orca]]
 

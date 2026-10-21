@@ -34,7 +34,7 @@ LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[anomalyco-opencode]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[headroomlabs-ai-headroom]] [[comfy-org-comfyui]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]]
 

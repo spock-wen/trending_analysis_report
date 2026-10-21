@@ -38,7 +38,7 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 
 ## 相关项目
 
-[[stablyai-orca]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[ruvnet-ruflo]]
+[[supabase-supabase]] [[graphify-labs-graphify]] [[anomalyco-opencode]] [[twentyhq-twenty]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]]
 

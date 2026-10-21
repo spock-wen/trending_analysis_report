@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[stablyai-orca]] [[obra-superpowers]] [[earthtojake-text-to-cad]] [[anomalyco-opencode]] [[anthropics-claude-code]]
+[[supabase-supabase]] [[ever-co-ever-gauzy]] [[hugohe3-ppt-master]] [[anomalyco-opencode]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[erp]]
 

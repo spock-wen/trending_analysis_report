@@ -38,7 +38,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[oblien-openship]] [[shiyu-coder-kronos]] [[ruvnet-ruflo]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[oblien-openship]] [[msitarzewski-agency-agents]] [[headroomlabs-ai-headroom]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

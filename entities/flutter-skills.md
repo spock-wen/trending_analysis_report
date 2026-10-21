@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[chen08209-flclash]] [[localsend-localsend]] [[flutter-flutter]]
+[[supabase-supabase]] [[flutter-flutter]] [[localsend-localsend]] [[graphify-labs-graphify]] [[twentyhq-twenty]]
 
 **所属领域**: [[ai-agent]]
 

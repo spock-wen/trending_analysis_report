@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[checkstyle-checkstyle]] [[graphify-labs-graphify]] [[anthropics-claude-code]]
+[[supabase-supabase]] [[checkstyle-checkstyle]] [[k-dense-ai-scientific-agent-skills]] [[google-guava]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

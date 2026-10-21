@@ -34,5 +34,5 @@ TypeScript-first schema validation with static type inference
 
 ## 相关项目
 
-[[stablyai-orca]] [[anthropics-claude-code]] [[ruvnet-ruflo]] [[anomalyco-opencode]]
+[[supabase-supabase]] [[twentyhq-twenty]] [[anomalyco-opencode]] [[stablyai-orca]]
 

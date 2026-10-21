@@ -36,7 +36,7 @@ XERJ is the new way for AI to search data. Its autoindex capability activates ag
 
 ## 相关项目
 
-[[storytold-artcraft]] [[msitarzewski-agency-agents]] [[stablyai-orca]] [[rust-lang-rust]] [[nationalsecurityagency-ghidra]]
+[[supabase-supabase]] [[storytold-artcraft]] [[k-dense-ai-scientific-agent-skills]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[security]]
 

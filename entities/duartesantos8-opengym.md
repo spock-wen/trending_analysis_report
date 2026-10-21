@@ -36,7 +36,7 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[graphify-labs-graphify]]
+[[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[xerj-org-xerj]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

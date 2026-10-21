@@ -38,7 +38,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[stablyai-orca]] [[ripienaar-free-for-dev]] [[pkuflyingpig-cs-self-learning]]
+[[supabase-supabase]] [[averygan-reclip]] [[msitarzewski-agency-agents]] [[pkuflyingpig-cs-self-learning]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

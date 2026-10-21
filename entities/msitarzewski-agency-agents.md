@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[obra-superpowers]] [[stablyai-orca]] [[cathrynlavery-diagram-design]] [[mattpocock-skills]] [[graphify-labs-graphify]]
+[[supabase-supabase]] [[mattpocock-skills]] [[hkuds-cli-anything]] [[nvm-sh-nvm]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

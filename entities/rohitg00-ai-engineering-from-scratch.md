@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[tensorflow-tensorflow]] [[shiyu-coder-kronos]] [[ruvnet-ruflo]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[tensorflow-tensorflow]] [[mlabonne-llm-course]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

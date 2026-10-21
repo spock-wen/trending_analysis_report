@@ -34,7 +34,7 @@ This open-source curriculum introduces the fundamentals of Model Context Protoco
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[tensorflow-tensorflow]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]]
+[[supabase-supabase]] [[microsoft-generative-ai-for-beginners]] [[tensorflow-tensorflow]] [[mlabonne-llm-course]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

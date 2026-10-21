@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[bannedbook-fanqiang]] [[android-skills]] [[embabel-embabel-agent]]
+[[supabase-supabase]] [[android-skills]] [[bannedbook-fanqiang]] [[msitarzewski-agency-agents]] [[mahlernim-google-timeline-visualizer]]
 
 **所属领域**: [[web]]
 

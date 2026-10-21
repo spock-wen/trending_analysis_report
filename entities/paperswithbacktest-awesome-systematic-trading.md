@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[shiyu-coder-kronos]] [[paperclipai-paperclip]] [[affaan-m-ecc]] [[robbyant-lingbot-map]]
+[[shiyu-coder-kronos]] [[k-dense-ai-scientific-agent-skills]] [[mlabonne-llm-course]] [[huggingface-transformers]] [[affaan-m-ecc]]
 
 **所属领域**: [[education]] [[science]]
 

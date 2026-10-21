@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[storytold-artcraft]] [[msitarzewski-agency-agents]] [[stablyai-orca]] [[anthropics-knowledge-work-plugins]] [[comfy-org-comfyui]]
+[[supabase-supabase]] [[storytold-artcraft]] [[k-dense-ai-scientific-agent-skills]] [[tester-army-e2e]] [[xerj-org-xerj]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

@@ -38,7 +38,7 @@ Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[ripienaar-free-for-dev]] [[pkuflyingpig-cs-self-learning]] [[hkuds-cli-anything]]
+[[supabase-supabase]] [[averygan-reclip]] [[msitarzewski-agency-agents]] [[ripienaar-free-for-dev]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

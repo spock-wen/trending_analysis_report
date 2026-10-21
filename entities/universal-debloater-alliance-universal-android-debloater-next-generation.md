@@ -36,7 +36,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[storytold-artcraft]] [[comfy-org-comfyui]] [[rust-lang-rust]] [[tester-army-e2e]] [[ntdevlabs-tiny11builder]]
+[[storytold-artcraft]] [[cloudflare-security-audit-skill]] [[tester-army-e2e]] [[affaan-m-ecc]] [[xerj-org-xerj]]
 
 **所属领域**: [[security]] [[image-gen]]
 

@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[storytold-artcraft]] [[msitarzewski-agency-agents]] [[stablyai-orca]] [[anthropics-knowledge-work-plugins]] [[obra-superpowers]]
+[[supabase-supabase]] [[storytold-artcraft]] [[ever-co-ever-gauzy]] [[xerj-org-xerj]] [[rust-lang-rust]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

@@ -36,7 +36,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[huggingface-transformers]] [[ruvnet-ruflo]]
+[[shiyu-coder-kronos]] [[mlabonne-llm-course]] [[huggingface-transformers]] [[headroomlabs-ai-headroom]] [[comfy-org-comfyui]]
 
 **所属领域**: [[education]]
 

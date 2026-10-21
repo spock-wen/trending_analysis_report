@@ -38,7 +38,7 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 
 ## 相关项目
 
-[[stablyai-orca]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[ruvnet-ruflo]]
+[[supabase-supabase]] [[graphify-labs-graphify]] [[anomalyco-opencode]] [[twentyhq-twenty]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]]
 

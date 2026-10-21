@@ -35,7 +35,7 @@ Create Reddit Videos with just✨ one command ✨
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[anthropics-claude-code]] [[hkuds-cli-anything]]
+[[shiyu-coder-kronos]] [[msitarzewski-agency-agents]] [[headroomlabs-ai-headroom]] [[hkuds-cli-anything]] [[comfy-org-comfyui]]
 
 **所属领域**: [[cli]]
 

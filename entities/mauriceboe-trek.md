@@ -35,5 +35,5 @@ A self-hosted travel/trip planner with real-time collaboration, interactive maps
 
 ## 相关项目
 
-[[stablyai-orca]] [[anthropics-claude-code]] [[ruvnet-ruflo]] [[anomalyco-opencode]]
+[[supabase-supabase]] [[twentyhq-twenty]] [[anomalyco-opencode]] [[stablyai-orca]]
 

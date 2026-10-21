@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[hkuds-cli-anything]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[msitarzewski-agency-agents]] [[headroomlabs-ai-headroom]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

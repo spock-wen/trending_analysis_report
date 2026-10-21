@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[stablyai-orca]] [[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[anomalyco-opencode]] [[anthropics-claude-code]]
+[[supabase-supabase]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]] [[anomalyco-opencode]] [[graphify-labs-graphify]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -38,7 +38,7 @@ Claude Agent SDK with a web browsing tool
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[cathrynlavery-diagram-design]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]]
+[[supabase-supabase]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

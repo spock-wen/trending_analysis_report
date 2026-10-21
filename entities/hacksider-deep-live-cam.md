@@ -34,7 +34,7 @@ real time face swap and one-click video deepfake with only a single image
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[comfy-org-comfyui]] [[shiyu-coder-kronos]] [[tester-army-e2e]] [[ntdevlabs-tiny11builder]]
+[[shiyu-coder-kronos]] [[tester-army-e2e]] [[msitarzewski-agency-agents]] [[headroomlabs-ai-headroom]] [[hkuds-cli-anything]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

@@ -38,7 +38,7 @@ World's first open-source, agentic video production system. 12 production pipeli
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[anomalyco-opencode]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[headroomlabs-ai-headroom]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

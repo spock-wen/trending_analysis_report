@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[comfy-org-comfyui]] [[shiyu-coder-kronos]] [[paperclipai-paperclip]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[tester-army-e2e]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

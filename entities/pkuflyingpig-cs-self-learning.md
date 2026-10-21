@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[tensorflow-tensorflow]] [[ripienaar-free-for-dev]] [[huggingface-transformers]]
+[[supabase-supabase]] [[averygan-reclip]] [[mlabonne-llm-course]] [[huggingface-transformers]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]] [[education]]
 

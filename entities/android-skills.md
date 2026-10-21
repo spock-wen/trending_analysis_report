@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[bannedbook-fanqiang]] [[anomalyco-opencode]] [[embabel-embabel-agent]]
+[[supabase-supabase]] [[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]] [[graphify-labs-graphify]] [[twentyhq-twenty]]
 
 **所属领域**: [[ai-agent]]
 

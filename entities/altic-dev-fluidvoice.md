@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[cathrynlavery-diagram-design]] [[debpalash-voicestudio]] [[bilawalsidhu-gods-eye-view]]
+[[supabase-supabase]] [[lakr233-vphone-cli]] [[alishahryar1-free-claude-code]] [[huggingface-transformers]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

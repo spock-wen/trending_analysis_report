@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[hkuds-cli-anything]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[msitarzewski-agency-agents]] [[xerj-org-xerj]]
 
 **所属领域**: [[web]] [[data]]
 

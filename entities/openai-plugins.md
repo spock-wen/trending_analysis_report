@@ -38,7 +38,7 @@ OpenAI Plugins
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]]
+[[supabase-supabase]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[graphify-labs-graphify]] [[dietrichgebert-ponytail]]
 
 **所属领域**: [[ai-agent]]
 

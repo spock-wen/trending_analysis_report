@@ -38,5 +38,5 @@ Hunt down social media accounts by username across social networks
 
 ## 相关项目
 
-[[madslorentzen-ai-job-search]] [[anthropics-knowledge-work-plugins]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]]
+[[shiyu-coder-kronos]] [[comfy-org-comfyui]] [[graphify-labs-graphify]] [[headroomlabs-ai-headroom]]
 

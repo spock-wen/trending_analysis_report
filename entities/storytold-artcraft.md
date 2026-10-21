@@ -38,5 +38,5 @@ ArtCraft is an intentional crafting engine for artists, designers, and filmmaker
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[xerj-org-xerj]] [[rust-lang-rust]]
+[[rust-lang-rust]] [[xerj-org-xerj]] [[akitaonrails-ai-memory]]
 

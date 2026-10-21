@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[stablyai-orca]] [[msitarzewski-agency-agents]] [[affaan-m-ecc]] [[anomalyco-opencode]] [[anthropics-claude-code]]
+[[supabase-supabase]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[xerj-org-xerj]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

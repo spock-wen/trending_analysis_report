@@ -37,5 +37,5 @@ Create stunning demos for free. Open-source, no subscriptions, no watermarks, an
 
 ## 相关项目
 
-[[stablyai-orca]] [[anthropics-claude-code]] [[ruvnet-ruflo]] [[anomalyco-opencode]]
+[[supabase-supabase]] [[twentyhq-twenty]] [[anomalyco-opencode]] [[stablyai-orca]]
 

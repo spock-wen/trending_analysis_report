@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[graphify-labs-graphify]] [[anthropics-claude-code]]
+[[strelov1-freehire]] [[msitarzewski-agency-agents]] [[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[hkuds-cli-anything]]
 
 **所属领域**: [[cli]]
 

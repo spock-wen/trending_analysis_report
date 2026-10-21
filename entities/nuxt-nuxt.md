@@ -34,5 +34,5 @@ the full-stack Vue framework
 
 ## 相关项目
 
-[[stablyai-orca]] [[anthropics-claude-code]] [[ruvnet-ruflo]] [[anomalyco-opencode]]
+[[supabase-supabase]] [[twentyhq-twenty]] [[anomalyco-opencode]] [[stablyai-orca]]
 

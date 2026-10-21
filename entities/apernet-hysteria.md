@@ -35,5 +35,5 @@ Hysteria is a powerful, lightning fast and censorship resistant proxy.
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[caddyserver-caddy]] [[alibaba-open-code-review]] [[juliusbrussee-caveman]]
+[[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[strelov1-freehire]] [[vxcontrol-pentagi]]
 

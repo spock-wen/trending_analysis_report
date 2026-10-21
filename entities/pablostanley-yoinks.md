@@ -35,7 +35,7 @@ yoink any video from your terminal. no shady ads.
 
 ## 相关项目
 
-[[stablyai-orca]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[graphify-labs-graphify]]
+[[supabase-supabase]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]] [[graphify-labs-graphify]] [[anomalyco-opencode]]
 
 **所属领域**: [[cli]]
 

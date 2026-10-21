@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[oblien-openship]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[affaan-m-ecc]] [[xtool-org-xtool]]
+[[strelov1-freehire]] [[cloudflare-security-audit-skill]] [[oblien-openship]] [[affaan-m-ecc]] [[xerj-org-xerj]]
 
 **所属领域**: [[devops]] [[security]]
 

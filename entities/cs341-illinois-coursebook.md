@@ -35,7 +35,7 @@ Open Source Introductory Systems Programming Textbook for the University of Illi
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[huggingface-transformers]] [[introduction-to-autonomous-robots-introduction-to-autonomous-robots]] [[ruvnet-ruflo]] [[mlabonne-llm-course]]
+[[mlabonne-llm-course]] [[huggingface-transformers]] [[introduction-to-autonomous-robots-introduction-to-autonomous-robots]] [[ruvnet-ruflo]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[education]]
 

@@ -38,7 +38,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[shiyu-coder-kronos]] [[paperclipai-paperclip]] [[affaan-m-ecc]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[affaan-m-ecc]] [[xerj-org-xerj]] [[headroomlabs-ai-headroom]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

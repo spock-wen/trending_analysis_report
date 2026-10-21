@@ -35,7 +35,7 @@ Generate any location from the real world in Minecraft with a high level of deta
 
 ## 相关项目
 
-[[storytold-artcraft]] [[msitarzewski-agency-agents]] [[stablyai-orca]] [[anthropics-knowledge-work-plugins]] [[rust-lang-rust]]
+[[supabase-supabase]] [[storytold-artcraft]] [[xerj-org-xerj]] [[rust-lang-rust]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]]
 

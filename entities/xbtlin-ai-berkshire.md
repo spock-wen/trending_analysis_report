@@ -38,7 +38,7 @@ AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框�
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[shiyu-coder-kronos]] [[paperclipai-paperclip]] [[affaan-m-ecc]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[headroomlabs-ai-headroom]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

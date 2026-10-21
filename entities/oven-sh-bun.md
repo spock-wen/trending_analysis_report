@@ -38,5 +38,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
 
 ## 相关项目
 
-[[storytold-artcraft]] [[akitaonrails-ai-memory]] [[xerj-org-xerj]] [[rust-lang-rust]]
+[[rust-lang-rust]] [[xerj-org-xerj]] [[storytold-artcraft]] [[akitaonrails-ai-memory]]
 

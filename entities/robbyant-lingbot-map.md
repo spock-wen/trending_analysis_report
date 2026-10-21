@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[paperclipai-paperclip]] [[affaan-m-ecc]] [[graphify-labs-graphify]] [[madslorentzen-ai-job-search]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[xerj-org-xerj]]
 
 **所属领域**: [[data]] [[science]]
 

@@ -34,7 +34,7 @@ User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[cathrynlavery-diagram-design]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[msitarzewski-agency-agents]] [[headroomlabs-ai-headroom]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

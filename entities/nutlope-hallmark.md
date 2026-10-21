@@ -38,7 +38,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[cathrynlavery-diagram-design]] [[diolinux-photogimp]] [[hkuds-cli-anything]]
+[[supabase-supabase]] [[diolinux-photogimp]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

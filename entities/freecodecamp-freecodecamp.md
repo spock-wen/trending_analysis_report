@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[stablyai-orca]] [[tensorflow-tensorflow]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[huggingface-transformers]]
+[[supabase-supabase]] [[tensorflow-tensorflow]] [[mlabonne-llm-course]] [[huggingface-transformers]] [[anomalyco-opencode]]
 
 **所属领域**: [[education]]
 

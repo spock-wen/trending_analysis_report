@@ -35,7 +35,7 @@ Fullstack app framework for web, desktop, and mobile.
 
 ## 相关项目
 
-[[storytold-artcraft]] [[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[rust-lang-rust]] [[hkuds-cli-anything]]
+[[supabase-supabase]] [[storytold-artcraft]] [[msitarzewski-agency-agents]] [[xerj-org-xerj]] [[rust-lang-rust]]
 
 **所属领域**: [[web]]
 

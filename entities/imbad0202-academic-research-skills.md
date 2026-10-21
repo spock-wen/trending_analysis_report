@@ -38,7 +38,7 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[shiyu-coder-kronos]] [[paperclipai-paperclip]] [[affaan-m-ecc]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[headroomlabs-ai-headroom]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

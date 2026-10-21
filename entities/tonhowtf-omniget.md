@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[storytold-artcraft]] [[msitarzewski-agency-agents]] [[tensorflow-tensorflow]] [[debpalash-voicestudio]] [[rust-lang-rust]]
+[[storytold-artcraft]] [[mlabonne-llm-course]] [[alishahryar1-free-claude-code]] [[huggingface-transformers]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

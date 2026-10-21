@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[comfy-org-comfyui]] [[shiyu-coder-kronos]] [[tester-army-e2e]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[tester-army-e2e]] [[msitarzewski-agency-agents]] [[headroomlabs-ai-headroom]]
 
 **所属领域**: [[web]] [[image-gen]]
 

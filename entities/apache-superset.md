@@ -35,7 +35,7 @@ Apache Superset is a Data Visualization and Data Exploration Platform
 
 ## 相关项目
 
-[[stablyai-orca]] [[graphify-labs-graphify]] [[anthropics-claude-code]] [[anomalyco-opencode]] [[ruvnet-ruflo]]
+[[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[graphify-labs-graphify]] [[anomalyco-opencode]]
 
 **所属领域**: [[data]]
 

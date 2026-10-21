@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[tensorflow-tensorflow]] [[shiyu-coder-kronos]] [[paperclipai-paperclip]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[tensorflow-tensorflow]] [[k-dense-ai-scientific-agent-skills]] [[mlabonne-llm-course]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

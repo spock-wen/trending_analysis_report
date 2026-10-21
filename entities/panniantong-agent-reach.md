@@ -38,7 +38,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[anthropics-claude-code]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[msitarzewski-agency-agents]] [[headroomlabs-ai-headroom]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

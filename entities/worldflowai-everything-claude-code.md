@@ -34,7 +34,7 @@ Claude Code toolkit - agents, commands, skills, rules, and hooks for productive 
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[graphify-labs-graphify]]
+[[supabase-supabase]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

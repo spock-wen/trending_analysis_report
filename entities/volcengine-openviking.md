@@ -38,7 +38,7 @@ Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG 
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[anomalyco-opencode]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[headroomlabs-ai-headroom]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

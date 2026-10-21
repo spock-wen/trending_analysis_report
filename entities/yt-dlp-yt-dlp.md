@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[debpalash-voicestudio]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[anthropics-claude-code]]
+[[shiyu-coder-kronos]] [[alishahryar1-free-claude-code]] [[huggingface-transformers]] [[msitarzewski-agency-agents]] [[headroomlabs-ai-headroom]]
 
 **所属领域**: [[cli]] [[audio]]
 

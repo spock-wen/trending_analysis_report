@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[storytold-artcraft]] [[msitarzewski-agency-agents]] [[stablyai-orca]] [[anthropics-knowledge-work-plugins]] [[rust-lang-rust]]
+[[supabase-supabase]] [[storytold-artcraft]] [[k-dense-ai-scientific-agent-skills]] [[msitarzewski-agency-agents]] [[xerj-org-xerj]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

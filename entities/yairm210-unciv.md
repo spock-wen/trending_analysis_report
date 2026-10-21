@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[bannedbook-fanqiang]] [[anomalyco-opencode]] [[android-skills]]
+[[supabase-supabase]] [[android-skills]] [[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]]
 

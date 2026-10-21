@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[debpalash-voicestudio]] [[comfy-org-comfyui]] [[dietrichgebert-ponytail]]
+[[supabase-supabase]] [[cloudflare-security-audit-skill]] [[alishahryar1-free-claude-code]] [[tester-army-e2e]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

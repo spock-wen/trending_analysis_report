@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[microsoft-generative-ai-for-beginners]]
+[[supabase-supabase]] [[microsoft-generative-ai-for-beginners]] [[k-dense-ai-scientific-agent-skills]] [[microsoft-ai-for-beginners]] [[xerj-org-xerj]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

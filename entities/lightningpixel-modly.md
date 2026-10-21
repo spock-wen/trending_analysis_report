@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[stablyai-orca]] [[msitarzewski-agency-agents]] [[comfy-org-comfyui]] [[tester-army-e2e]] [[ntdevlabs-tiny11builder]]
+[[supabase-supabase]] [[tester-army-e2e]] [[comfy-org-comfyui]] [[graphify-labs-graphify]] [[anomalyco-opencode]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

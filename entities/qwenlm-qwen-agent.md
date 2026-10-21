@@ -35,7 +35,7 @@ Agent framework and applications built upon Qwen>=3.0, featuring Function Callin
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[cathrynlavery-diagram-design]] [[obra-superpowers]] [[earthtojake-text-to-cad]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[ever-co-ever-gauzy]] [[earthtojake-text-to-cad]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[web]] [[erp]]
 

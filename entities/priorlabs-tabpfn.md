@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[madslorentzen-ai-job-search]] [[anthropics-knowledge-work-plugins]] [[bilawalsidhu-gods-eye-view]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[xerj-org-xerj]] [[headroomlabs-ai-headroom]]
 
 **所属领域**: [[data]]
 

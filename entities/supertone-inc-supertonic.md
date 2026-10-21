@@ -38,7 +38,7 @@ Lightning-Fast, On-Device, Multilingual TTS running natively via ONNX.
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[lakr233-vphone-cli]] [[xtool-org-xtool]] [[huggingface-transformers]] [[hugohe3-ppt-master]]
+[[lakr233-vphone-cli]] [[alishahryar1-free-claude-code]] [[huggingface-transformers]] [[xtool-org-xtool]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[audio]]
 

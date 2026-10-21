@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[obra-superpowers]] [[earthtojake-text-to-cad]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]] [[microsoft-bitnet]]
+[[ever-co-ever-gauzy]] [[m-abozaid-esp32-c3-adblock]] [[earthtojake-text-to-cad]] [[hugohe3-ppt-master]] [[microsoft-bitnet]]
 
 **所属领域**: [[erp]]
 

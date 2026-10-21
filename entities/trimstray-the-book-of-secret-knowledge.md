@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[graphify-labs-graphify]] [[anthropics-claude-code]] [[hkuds-cli-anything]]
+[[supabase-supabase]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]] [[graphify-labs-graphify]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[cli]]
 

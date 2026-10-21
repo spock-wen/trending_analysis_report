@@ -34,7 +34,7 @@ Worktrunk is a CLI for Git worktree management, designed for parallel AI agent w
 
 ## 相关项目
 
-[[storytold-artcraft]] [[msitarzewski-agency-agents]] [[stablyai-orca]] [[anthropics-knowledge-work-plugins]] [[rust-lang-rust]]
+[[supabase-supabase]] [[storytold-artcraft]] [[msitarzewski-agency-agents]] [[xerj-org-xerj]] [[rust-lang-rust]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

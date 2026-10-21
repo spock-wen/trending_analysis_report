@@ -38,7 +38,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[stablyai-orca]] [[msitarzewski-agency-agents]] [[affaan-m-ecc]] [[robbyant-lingbot-map]] [[anomalyco-opencode]]
+[[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

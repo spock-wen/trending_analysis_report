@@ -38,7 +38,7 @@ The open source coding agent.
 
 ## 相关项目
 
-[[stablyai-orca]] [[msitarzewski-agency-agents]] [[anthropics-claude-code]] [[ruvnet-ruflo]] [[anthropics-knowledge-work-plugins]]
+[[supabase-supabase]] [[graphify-labs-graphify]] [[twentyhq-twenty]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]]
 

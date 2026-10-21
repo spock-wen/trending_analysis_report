@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[stablyai-orca]] [[msitarzewski-agency-agents]] [[oblien-openship]] [[tensorflow-tensorflow]] [[xtool-org-xtool]]
+[[supabase-supabase]] [[tensorflow-tensorflow]] [[mlabonne-llm-course]] [[huggingface-transformers]] [[oblien-openship]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

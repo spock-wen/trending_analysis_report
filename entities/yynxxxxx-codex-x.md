@@ -35,7 +35,7 @@ OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换�
 
 ## 相关项目
 
-[[storytold-artcraft]] [[msitarzewski-agency-agents]] [[stablyai-orca]] [[anthropics-knowledge-work-plugins]] [[rust-lang-rust]]
+[[supabase-supabase]] [[storytold-artcraft]] [[msitarzewski-agency-agents]] [[xerj-org-xerj]] [[rust-lang-rust]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[comfy-org-comfyui]] [[tester-army-e2e]] [[ntdevlabs-tiny11builder]] [[graphify-labs-graphify]]
+[[bwya77-vscode-dark-islands]] [[raphire-win11debloat]] [[tester-army-e2e]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

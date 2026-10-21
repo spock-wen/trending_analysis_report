@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[comfy-org-comfyui]] [[dietrichgebert-ponytail]] [[tester-army-e2e]]
+[[supabase-supabase]] [[cloudflare-security-audit-skill]] [[tester-army-e2e]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]] [[image-gen]]
 

@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[graphify-labs-graphify]] [[anthropics-claude-code]] [[hkuds-cli-anything]]
+[[supabase-supabase]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]] [[graphify-labs-graphify]] [[twentyhq-twenty]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

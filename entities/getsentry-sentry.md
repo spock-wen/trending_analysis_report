@@ -36,7 +36,7 @@ Developer-first error tracking and performance monitoring
 
 ## 相关项目
 
-[[oblien-openship]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]] [[xtool-org-xtool]] [[ruvnet-ruflo]]
+[[shiyu-coder-kronos]] [[oblien-openship]] [[headroomlabs-ai-headroom]] [[xtool-org-xtool]] [[comfy-org-comfyui]]
 
 **所属领域**: [[devops]]
 

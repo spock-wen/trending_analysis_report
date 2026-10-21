@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[graphify-labs-graphify]] [[xtool-org-xtool]] [[anthropics-claude-code]] [[hkuds-cli-anything]]
+[[msitarzewski-agency-agents]] [[xtool-org-xtool]] [[hkuds-cli-anything]] [[graphify-labs-graphify]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[cli]]
 

@@ -35,7 +35,7 @@ Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[lakr233-vphone-cli]] [[graphify-labs-graphify]] [[xtool-org-xtool]] [[anthropics-claude-code]]
+[[lakr233-vphone-cli]] [[msitarzewski-agency-agents]] [[xtool-org-xtool]] [[hkuds-cli-anything]] [[graphify-labs-graphify]]
 
 **所属领域**: [[cli]]
 

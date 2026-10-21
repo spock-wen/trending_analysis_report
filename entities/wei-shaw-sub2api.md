@@ -34,7 +34,7 @@ Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[caddyserver-caddy]]
+[[supabase-supabase]] [[strelov1-freehire]] [[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]]
 

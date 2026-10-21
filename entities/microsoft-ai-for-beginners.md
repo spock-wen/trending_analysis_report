@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[tensorflow-tensorflow]] [[lyogavin-airllm]] [[microsoft-generative-ai-for-beginners]]
+[[supabase-supabase]] [[microsoft-generative-ai-for-beginners]] [[tensorflow-tensorflow]] [[mlabonne-llm-course]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

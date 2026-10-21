@@ -36,7 +36,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]] [[microsoft-bitnet]]
+[[supabase-supabase]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]] [[m-abozaid-esp32-c3-adblock]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]]
 

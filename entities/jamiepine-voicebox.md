@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[stablyai-orca]] [[msitarzewski-agency-agents]] [[debpalash-voicestudio]] [[anomalyco-opencode]] [[anthropics-claude-code]]
+[[supabase-supabase]] [[alishahryar1-free-claude-code]] [[huggingface-transformers]] [[hugohe3-ppt-master]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

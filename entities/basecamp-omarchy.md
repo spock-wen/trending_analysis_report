@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[obra-superpowers]] [[mattpocock-skills]] [[graphify-labs-graphify]] [[nvm-sh-nvm]]
+[[mattpocock-skills]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]] [[graphify-labs-graphify]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[cli]]
 

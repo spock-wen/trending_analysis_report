@@ -36,7 +36,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[storytold-artcraft]] [[msitarzewski-agency-agents]] [[stablyai-orca]] [[anthropics-knowledge-work-plugins]] [[rust-lang-rust]]
+[[supabase-supabase]] [[storytold-artcraft]] [[xerj-org-xerj]] [[rust-lang-rust]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]]
 

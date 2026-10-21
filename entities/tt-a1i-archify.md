@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[cathrynlavery-diagram-design]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]]
+[[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

@@ -36,5 +36,5 @@ CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[caddyserver-caddy]] [[alibaba-open-code-review]] [[juliusbrussee-caveman]]
+[[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[strelov1-freehire]] [[vxcontrol-pentagi]]
 

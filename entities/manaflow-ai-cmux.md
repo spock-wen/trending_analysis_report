@@ -37,7 +37,7 @@ Open source Ghostty-based macOS terminal with vertical tabs and notifications fo
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[lakr233-vphone-cli]] [[xtool-org-xtool]] [[graphify-labs-graphify]]
+[[supabase-supabase]] [[lakr233-vphone-cli]] [[msitarzewski-agency-agents]] [[xtool-org-xtool]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

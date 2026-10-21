@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[graphify-labs-graphify]]
+[[supabase-supabase]] [[strelov1-freehire]] [[msitarzewski-agency-agents]] [[vxcontrol-pentagi]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

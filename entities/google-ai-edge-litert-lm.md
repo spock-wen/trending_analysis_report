@@ -37,7 +37,7 @@ No description
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]] [[microsoft-bitnet]]
+[[supabase-supabase]] [[stablyai-orca]] [[m-abozaid-esp32-c3-adblock]] [[graphify-labs-graphify]] [[twentyhq-twenty]]
 
 **所属领域**: [[ai-agent]]
 

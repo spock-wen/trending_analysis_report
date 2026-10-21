@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[comfy-org-comfyui]] [[shiyu-coder-kronos]] [[tester-army-e2e]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[tester-army-e2e]] [[headroomlabs-ai-headroom]] [[comfy-org-comfyui]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

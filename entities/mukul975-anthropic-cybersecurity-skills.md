@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[shiyu-coder-kronos]] [[affaan-m-ecc]] [[graphify-labs-graphify]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

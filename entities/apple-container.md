@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[lakr233-vphone-cli]] [[xtool-org-xtool]] [[anomalyco-opencode]]
+[[supabase-supabase]] [[lakr233-vphone-cli]] [[xtool-org-xtool]] [[graphify-labs-graphify]] [[twentyhq-twenty]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[graphify-labs-graphify]]
+[[supabase-supabase]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

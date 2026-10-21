@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[msitarzewski-agency-agents]] [[comfy-org-comfyui]] [[ripienaar-free-for-dev]] [[tester-army-e2e]]
+[[supabase-supabase]] [[averygan-reclip]] [[tester-army-e2e]] [[msitarzewski-agency-agents]] [[pkuflyingpig-cs-self-learning]]
 
 **所属领域**: [[web]] [[image-gen]]
 

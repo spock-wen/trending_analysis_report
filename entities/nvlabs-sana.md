@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[comfy-org-comfyui]] [[shiyu-coder-kronos]] [[tester-army-e2e]] [[ntdevlabs-tiny11builder]] [[graphify-labs-graphify]]
+[[shiyu-coder-kronos]] [[tester-army-e2e]] [[headroomlabs-ai-headroom]] [[comfy-org-comfyui]] [[graphify-labs-graphify]]
 
 **所属领域**: [[image-gen]]
 

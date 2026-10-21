@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]] [[obra-superpowers]] [[earthtojake-text-to-cad]] [[nutlope-hallmark]]
+[[supabase-supabase]] [[nutlope-hallmark]] [[ever-co-ever-gauzy]] [[earthtojake-text-to-cad]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]] [[erp]]
 

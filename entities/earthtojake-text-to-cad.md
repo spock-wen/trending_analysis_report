@@ -38,7 +38,7 @@ Give your agent CAD superpowers.
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[obra-superpowers]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[ever-co-ever-gauzy]] [[headroomlabs-ai-headroom]] [[comfy-org-comfyui]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

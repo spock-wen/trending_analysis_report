@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[affaan-m-ecc]] [[graphify-labs-graphify]] [[cloudflare-security-audit-skill]] [[madslorentzen-ai-job-search]]
+[[shiyu-coder-kronos]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[xerj-org-xerj]] [[headroomlabs-ai-headroom]]
 
 **所属领域**: [[security]]
 

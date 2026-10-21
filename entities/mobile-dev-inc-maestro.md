@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[cathrynlavery-diagram-design]] [[bannedbook-fanqiang]] [[anomalyco-opencode]]
+[[supabase-supabase]] [[android-skills]] [[bannedbook-fanqiang]] [[msitarzewski-agency-agents]] [[mahlernim-google-timeline-visualizer]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

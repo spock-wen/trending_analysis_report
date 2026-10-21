@@ -38,7 +38,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[shiyu-coder-kronos]] [[paperclipai-paperclip]] [[affaan-m-ecc]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[headroomlabs-ai-headroom]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

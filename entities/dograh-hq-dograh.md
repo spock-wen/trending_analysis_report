@@ -34,7 +34,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[debpalash-voicestudio]] [[shiyu-coder-kronos]] [[graphify-labs-graphify]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[alishahryar1-free-claude-code]] [[huggingface-transformers]] [[headroomlabs-ai-headroom]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

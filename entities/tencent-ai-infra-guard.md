@@ -35,7 +35,7 @@ A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skil
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[stablyai-orca]] [[oblien-openship]] [[shiyu-coder-kronos]] [[ruvnet-ruflo]]
+[[shiyu-coder-kronos]] [[supabase-supabase]] [[oblien-openship]] [[headroomlabs-ai-headroom]] [[xtool-org-xtool]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

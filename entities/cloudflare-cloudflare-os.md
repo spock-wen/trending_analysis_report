@@ -35,7 +35,7 @@ Agent workspace built on Cloudflare Workers for creating documents, building app
 
 ## 相关项目
 
-[[stablyai-orca]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[anthropics-claude-code]] [[ruvnet-ruflo]]
+[[supabase-supabase]] [[graphify-labs-graphify]] [[anomalyco-opencode]] [[twentyhq-twenty]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]]
 

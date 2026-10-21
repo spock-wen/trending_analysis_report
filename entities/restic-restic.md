@@ -34,5 +34,5 @@ Fast, secure, efficient backup program
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[caddyserver-caddy]] [[alibaba-open-code-review]] [[juliusbrussee-caveman]]
+[[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[strelov1-freehire]] [[vxcontrol-pentagi]]
 

@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[supabase-supabase]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]] [[comfy-org-comfyui]] [[anomalyco-opencode]]
+[[trycua-cua]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[ntdevlabs-tiny11builder]] [[comfy-org-comfyui]]
 
 **所属领域**: [[web]] [[image-gen]]
 

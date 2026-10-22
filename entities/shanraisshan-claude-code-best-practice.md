@@ -38,7 +38,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[supabase-supabase]] [[averygan-reclip]] [[msitarzewski-agency-agents]] [[pkuflyingpig-cs-self-learning]] [[ripienaar-free-for-dev]]
+[[graphify-labs-graphify]] [[ripienaar-free-for-dev]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

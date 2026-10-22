@@ -34,7 +34,7 @@ OpenReel Video - Professional browser-based video editor. Open source CapCut alt
 
 ## 相关项目
 
-[[supabase-supabase]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]] [[anomalyco-opencode]] [[cathrynlavery-diagram-design]]
+[[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[twentyhq-twenty]] [[stablyai-orca]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]]
 

@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[supabase-supabase]] [[storytold-artcraft]] [[msitarzewski-agency-agents]] [[xerj-org-xerj]] [[rust-lang-rust]]
+[[msitarzewski-agency-agents]] [[graphify-labs-graphify]] [[xerj-org-xerj]] [[akitaonrails-ai-memory]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[cli]]
 

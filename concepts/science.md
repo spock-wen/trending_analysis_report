@@ -1,7 +1,7 @@
 ---
 title: "science"
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-23
 type: concept
 tags: [science]
 confidence: medium

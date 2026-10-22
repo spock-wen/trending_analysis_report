@@ -35,5 +35,5 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## 相关项目
 
-[[supabase-supabase]] [[twentyhq-twenty]] [[anomalyco-opencode]] [[stablyai-orca]]
+[[anomalyco-opencode]] [[stablyai-orca]] [[twentyhq-twenty]] [[supabase-supabase]]
 

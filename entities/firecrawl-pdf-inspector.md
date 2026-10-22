@@ -38,5 +38,5 @@ Fast Rust library for PDF inspection, classification, and text extraction. Intel
 
 ## 相关项目
 
-[[rust-lang-rust]] [[xerj-org-xerj]] [[storytold-artcraft]] [[akitaonrails-ai-memory]]
+[[storytold-artcraft]] [[rust-lang-rust]] [[akitaonrails-ai-memory]] [[xerj-org-xerj]]
 

@@ -36,7 +36,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[strelov1-freehire]] [[xerj-org-xerj]] [[vxcontrol-pentagi]]
+[[graphify-labs-graphify]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[luongnv89-claude-howto]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

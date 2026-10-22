@@ -37,7 +37,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ## 相关项目
 
-[[supabase-supabase]] [[ever-co-ever-gauzy]] [[hugohe3-ppt-master]] [[graphify-labs-graphify]] [[earthtojake-text-to-cad]]
+[[earthtojake-text-to-cad]] [[graphify-labs-graphify]] [[hugohe3-ppt-master]] [[php-php-src]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

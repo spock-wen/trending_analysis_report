@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[supabase-supabase]] [[tensorflow-tensorflow]] [[mlabonne-llm-course]] [[huggingface-transformers]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[ruvnet-ruflo]] [[luongnv89-claude-howto]] [[mlabonne-llm-course]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

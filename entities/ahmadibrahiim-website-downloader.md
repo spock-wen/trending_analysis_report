@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[supabase-supabase]] [[averygan-reclip]] [[tester-army-e2e]] [[msitarzewski-agency-agents]] [[pkuflyingpig-cs-self-learning]]
+[[trycua-cua]] [[msitarzewski-agency-agents]] [[ripienaar-free-for-dev]] [[ntdevlabs-tiny11builder]] [[comfy-org-comfyui]]
 
 **所属领域**: [[web]] [[image-gen]]
 

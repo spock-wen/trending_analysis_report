@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[supabase-supabase]] [[teslamate-org-teslamate]] [[graphify-labs-graphify]] [[plausible-analytics]] [[twentyhq-twenty]]
+[[graphify-labs-graphify]] [[teslamate-org-teslamate]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]] [[plausible-analytics]]
 
 **所属领域**: [[ai-agent]]
 

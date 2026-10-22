@@ -34,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[sonarr-sonarr]] [[cloudflare-security-audit-skill]] [[dotnet-aspnetcore]] [[affaan-m-ecc]] [[xerj-org-xerj]]
+[[ntdevlabs-tiny11builder]] [[cloudflare-security-audit-skill]] [[dotnet-aspnetcore]] [[nationalsecurityagency-ghidra]] [[xerj-org-xerj]]
 
 **所属领域**: [[security]]
 

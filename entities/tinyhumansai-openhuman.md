@@ -38,7 +38,7 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 ## 相关项目
 
-[[supabase-supabase]] [[storytold-artcraft]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[xerj-org-xerj]]
+[[graphify-labs-graphify]] [[paperclipai-paperclip]] [[xerj-org-xerj]] [[luongnv89-claude-howto]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

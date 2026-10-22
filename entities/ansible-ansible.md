@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[supabase-supabase]] [[oblien-openship]] [[msitarzewski-agency-agents]] [[headroomlabs-ai-headroom]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[getsentry-sentry]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

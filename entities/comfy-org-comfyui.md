@@ -38,7 +38,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[tester-army-e2e]] [[headroomlabs-ai-headroom]] [[graphify-labs-graphify]] [[trycua-cua]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[trycua-cua]] [[ntdevlabs-tiny11builder]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[image-gen]]
 

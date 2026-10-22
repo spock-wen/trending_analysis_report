@@ -1,20 +1,20 @@
 ---
 title: "supabase/supabase"
 created: 2026-07-04
-updated: 2026-10-22
-last_active: 2026-10-22
+updated: 2026-10-23
+last_active: 2026-10-23
 type: tool
 tags: [typescript, ai-agent, web, data]
-sources: [raw/trending/2026-10-22.json]
+sources: [raw/trending/2026-10-23.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-07-04
-last_trending: 2026-10-22
-peak_rank: 7
-total_stars: 112961
+last_trending: 2026-10-23
+peak_rank: 6
+total_stars: 113463
 language: "TypeScript"
 ---
 
@@ -23,13 +23,14 @@ language: "TypeScript"
 The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 - 语言: TypeScript
-- 上榜次数: 4 次
-- 连续上榜: 1 天
-- 最高排名: #7
+- 上榜次数: 5 次
+- 连续上榜: 2 天
+- 最高排名: #6
 - 链接: [supabase/supabase](https://github.com/supabase/supabase)
 
 ## 上榜历史
 
+  - 2026-10-23: #6, +683⭐
   - 2026-10-22: #7, +509⭐
   - 2026-09-19: #14, +128⭐
   - 2026-09-17: #14, +118⭐
@@ -37,7 +38,7 @@ The Postgres development platform. Supabase gives you a dedicated Postgres datab
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[msitarzewski-agency-agents]] [[xerj-org-xerj]] [[hkuds-cli-anything]] [[graphify-labs-graphify]]
+[[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[luongnv89-claude-howto]] [[twentyhq-twenty]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

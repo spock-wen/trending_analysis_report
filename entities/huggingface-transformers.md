@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[supabase-supabase]] [[tensorflow-tensorflow]] [[mlabonne-llm-course]] [[alishahryar1-free-claude-code]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[hugohe3-ppt-master]] [[ruvnet-ruflo]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

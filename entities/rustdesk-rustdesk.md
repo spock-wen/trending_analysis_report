@@ -35,5 +35,5 @@ An open-source remote desktop application designed for self-hosting, as an alter
 
 ## 相关项目
 
-[[rust-lang-rust]] [[xerj-org-xerj]] [[storytold-artcraft]] [[akitaonrails-ai-memory]]
+[[storytold-artcraft]] [[rust-lang-rust]] [[akitaonrails-ai-memory]] [[xerj-org-xerj]]
 

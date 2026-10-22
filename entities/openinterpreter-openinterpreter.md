@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[supabase-supabase]] [[storytold-artcraft]] [[ever-co-ever-gauzy]] [[xerj-org-xerj]] [[rust-lang-rust]]
+[[earthtojake-text-to-cad]] [[graphify-labs-graphify]] [[hugohe3-ppt-master]] [[php-php-src]] [[xerj-org-xerj]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

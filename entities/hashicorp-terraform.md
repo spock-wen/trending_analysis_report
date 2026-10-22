@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[supabase-supabase]] [[strelov1-freehire]] [[oblien-openship]] [[vxcontrol-pentagi]] [[xtool-org-xtool]]
+[[graphify-labs-graphify]] [[juliusbrussee-caveman]] [[ruvnet-ruflo]] [[oblien-openship]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

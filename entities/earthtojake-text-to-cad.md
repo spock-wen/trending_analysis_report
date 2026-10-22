@@ -38,7 +38,7 @@ Give your agent CAD superpowers.
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[supabase-supabase]] [[ever-co-ever-gauzy]] [[headroomlabs-ai-headroom]] [[comfy-org-comfyui]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[hugohe3-ppt-master]] [[php-php-src]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

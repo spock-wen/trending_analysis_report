@@ -34,7 +34,7 @@ Agent-driven research knowledge base. Agents collect, search, and synthesize web
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

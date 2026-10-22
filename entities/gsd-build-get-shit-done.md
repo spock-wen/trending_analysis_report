@@ -35,7 +35,7 @@ A light-weight and powerful meta-prompting, context engineering and spec-driven 
 
 ## 相关项目
 
-[[supabase-supabase]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[graphify-labs-graphify]] [[dietrichgebert-ponytail]]
+[[graphify-labs-graphify]] [[withmarbleapp-os-taxonomy]] [[cloudflare-security-audit-skill]] [[luongnv89-claude-howto]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

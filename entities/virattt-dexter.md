@@ -38,7 +38,7 @@ An autonomous agent for deep financial research
 
 ## 相关项目
 
-[[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[paperclipai-paperclip]] [[graphify-labs-graphify]]
+[[graphify-labs-graphify]] [[paperclipai-paperclip]] [[anomalyco-opencode]] [[luongnv89-claude-howto]] [[twentyhq-twenty]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

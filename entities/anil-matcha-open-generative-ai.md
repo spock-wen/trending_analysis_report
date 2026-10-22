@@ -38,7 +38,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[supabase-supabase]] [[cloudflare-security-audit-skill]] [[tester-army-e2e]] [[affaan-m-ecc]] [[comfy-org-comfyui]]
+[[trycua-cua]] [[graphify-labs-graphify]] [[ntdevlabs-tiny11builder]] [[withmarbleapp-os-taxonomy]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

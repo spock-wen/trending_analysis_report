@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[supabase-supabase]] [[storytold-artcraft]] [[msitarzewski-agency-agents]] [[xerj-org-xerj]] [[rust-lang-rust]]
+[[msitarzewski-agency-agents]] [[xerj-org-xerj]] [[akitaonrails-ai-memory]] [[cathrynlavery-diagram-design]] [[storytold-artcraft]]
 
 **所属领域**: [[web]]
 

@@ -34,5 +34,5 @@ Headunit App for displaying Android Auto
 
 ## 相关项目
 
-[[android-skills]] [[embabel-embabel-agent]] [[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]]
+[[embabel-embabel-agent]] [[android-skills]] [[mahlernim-google-timeline-visualizer]] [[bannedbook-fanqiang]]
 

@@ -35,7 +35,7 @@ The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[ever-co-ever-gauzy]] [[affaan-m-ecc]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[hugohe3-ppt-master]] [[earthtojake-text-to-cad]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

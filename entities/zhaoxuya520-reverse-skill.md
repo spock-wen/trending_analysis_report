@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[bwya77-vscode-dark-islands]] [[cloudflare-security-audit-skill]] [[raphire-win11debloat]]
+[[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[bwya77-vscode-dark-islands]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

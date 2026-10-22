@@ -35,5 +35,5 @@ Build production-ready applications in TypeScript
 
 ## 相关项目
 
-[[supabase-supabase]] [[twentyhq-twenty]] [[anomalyco-opencode]] [[stablyai-orca]]
+[[anomalyco-opencode]] [[stablyai-orca]] [[twentyhq-twenty]] [[supabase-supabase]]
 

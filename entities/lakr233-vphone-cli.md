@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[xtool-org-xtool]] [[hkuds-cli-anything]] [[graphify-labs-graphify]] [[manaflow-ai-cmux]]
+[[abue-ammar-tinycast]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[manaflow-ai-cmux]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[cli]]
 

@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[supabase-supabase]] [[antirez-ds4]] [[colbymchenry-codegraph]] [[epicgames-raddebugger]] [[willfaust-madeira]]
+[[epicgames-raddebugger]] [[antirez-ds4]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[php-php-src]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

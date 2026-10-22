@@ -35,7 +35,7 @@ Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew
 
 ## 相关项目
 
-[[supabase-supabase]] [[microsoft-generative-ai-for-beginners]] [[tensorflow-tensorflow]] [[mlabonne-llm-course]] [[microsoft-ai-for-beginners]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[ruvnet-ruflo]] [[luongnv89-claude-howto]] [[mlabonne-llm-course]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

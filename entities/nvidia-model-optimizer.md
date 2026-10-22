@@ -36,7 +36,7 @@ A unified library of SOTA model optimization techniques like quantization, disti
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[supabase-supabase]] [[tensorflow-tensorflow]] [[mlabonne-llm-course]] [[huggingface-transformers]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[ruvnet-ruflo]] [[oblien-openship]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

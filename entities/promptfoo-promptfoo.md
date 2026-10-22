@@ -36,7 +36,7 @@ Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni
 
 ## 相关项目
 
-[[supabase-supabase]] [[oblien-openship]] [[msitarzewski-agency-agents]] [[xtool-org-xtool]] [[hkuds-cli-anything]]
+[[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[ruvnet-ruflo]] [[oblien-openship]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

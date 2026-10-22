@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[supabase-supabase]] [[tensorflow-tensorflow]] [[k-dense-ai-scientific-agent-skills]] [[mlabonne-llm-course]] [[huggingface-transformers]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[paperclipai-paperclip]] [[ruvnet-ruflo]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

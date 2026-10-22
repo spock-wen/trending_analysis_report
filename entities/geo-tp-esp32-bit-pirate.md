@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[supabase-supabase]] [[akitaonrails-ai-memory]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]] [[m-abozaid-esp32-c3-adblock]]
+[[msitarzewski-agency-agents]] [[graphify-labs-graphify]] [[m-abozaid-esp32-c3-adblock]] [[microsoft-bitnet]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -38,7 +38,7 @@ Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c
 
 ## 相关项目
 
-[[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[strelov1-freehire]] [[xerj-org-xerj]] [[vxcontrol-pentagi]]
+[[graphify-labs-graphify]] [[juliusbrussee-caveman]] [[luongnv89-claude-howto]] [[vxcontrol-pentagi]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

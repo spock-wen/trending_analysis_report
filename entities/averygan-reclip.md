@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[supabase-supabase]] [[msitarzewski-agency-agents]] [[pkuflyingpig-cs-self-learning]] [[ripienaar-free-for-dev]] [[hkuds-cli-anything]]
+[[msitarzewski-agency-agents]] [[ripienaar-free-for-dev]] [[graphify-labs-graphify]] [[akitaonrails-ai-memory]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[cli]]
 

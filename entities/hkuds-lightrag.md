@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[tester-army-e2e]] [[headroomlabs-ai-headroom]] [[comfy-org-comfyui]] [[graphify-labs-graphify]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[trycua-cua]] [[ntdevlabs-tiny11builder]] [[comfy-org-comfyui]]
 
 **所属领域**: [[image-gen]]
 

@@ -34,7 +34,7 @@ VSCode theme based off the easemate IDE and Jetbrains islands theme
 
 ## 相关项目
 
-[[supabase-supabase]] [[raphire-win11debloat]] [[msitarzewski-agency-agents]] [[actions-runner-images]] [[hkuds-cli-anything]]
+[[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[supabase-supabase]] [[luongnv89-claude-howto]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

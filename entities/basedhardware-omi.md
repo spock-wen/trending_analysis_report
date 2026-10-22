@@ -34,7 +34,7 @@ AI that sees your screen, listens to your conversations and tells you what to do
 
 ## 相关项目
 
-[[supabase-supabase]] [[flutter-flutter]] [[flutter-skills]] [[localsend-localsend]] [[graphify-labs-graphify]]
+[[graphify-labs-graphify]] [[supabase-supabase]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]] [[localsend-localsend]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[teslamate-org-teslamate]]
+[[msitarzewski-agency-agents]] [[graphify-labs-graphify]] [[cloudflare-security-audit-skill]] [[teslamate-org-teslamate]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

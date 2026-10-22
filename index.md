@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-22 | 总页面：829
+> 最后更新：2026-10-23 | 总页面：832
 
 ## Entities
 
@@ -160,7 +160,7 @@
 - [[cloudflare-cloudflare-os|cloudflare-os]] — Agent workspace built on Cloudflare Workers for creating doc...
 - [[cloudflare-computer|computer]] — Give your agent a computer 👾 🔥
 - [[cloudflare-quiche|quiche]] — 🥧 Savoury implementation of the QUIC transport protocol and ...
-- [[cloudflare-security-audit-skill|security-audit-skill]] — A coding-agent skill for multi-phase security audits with in... 🆕
+- [[cloudflare-security-audit-skill|security-audit-skill]] — A coding-agent skill for multi-phase security audits with in... 🔥
 - [[cloudflare-workerd|workerd]] — The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [[clshortfuse-renodx|renodx]] — Renovation Engine for DirectX Games
 - [[cocoindex-io-cocoindex|cocoindex]] — Incremental engine for long horizon agents 🌟 Star if you lik... 🆕
@@ -214,7 +214,7 @@
 - [[derv82-wifit3|wifit3]] — Wifite but USB-only & cross-platform.
 - [[deusdata-codebase-memory-mcp|codebase-memory-mcp]] — High-performance code intelligence MCP server. Indexes codeb...
 - [[diegosouzapw-omniroute|OmniRoute]] — Never stop coding. Free MIT AI gateway: one endpoint, 352 pr...
-- [[dietrichgebert-ponytail|ponytail]] — Makes your AI agent think like the laziest senior dev in the... 🆕
+- [[dietrichgebert-ponytail|ponytail]] — Makes your AI agent think like the laziest senior dev in the... 🔥
 - [[different-ai-openwork|openwork]] — The open-source alternative to Claude Cowork (powered by ope...
 - [[digitalplatdev-freedomain|FreeDomain]] — DigitalPlat FreeDomain: Free Domain For Everyone 🔥
 - [[dimensionalos-dimos|dimos]] — The Dimensional Framework
@@ -249,6 +249,7 @@
 - [[evomap-evolver|evolver]] — The GEP-Powered Self-Evolution Engine for AI Agents. Genome ... 🆕
 - [[facebook-astryx|astryx]] — An open source design system that's fully customizable and a...
 - [[fareedkhan-dev-train-llm-from-scratch|train-llm-from-scratch]] — A straightforward method for training your LLM, from downloa...
+- [[fastapi-fastapi|fastapi]] — FastAPI framework, high performance, easy to learn, fast to ... 🆕
 - [[fastfetch-cli-fastfetch|fastfetch]] — A maintained, feature-rich and performance oriented, neofetc... 🆕
 - [[fincept-corporation-finceptterminal|FinceptTerminal]] — FinceptTerminal is a modern finance application offering adv...
 - [[firebase-firebase-ios-sdk|firebase-ios-sdk]] — Firebase SDK for Apple App Development 🆕
@@ -308,7 +309,7 @@
 - [[gorhill-ublock|uBlock]] — uBlock Origin - An efficient blocker for Chromium and Firefo...
 - [[gorvgoyl-clone-wars|Clone-Wars]] — 100+ open-source clones of popular sites like Airbnb, Amazon...
 - [[grafana-grafana|grafana]] — The open and composable observability and data visualization...
-- [[graphify-labs-graphify|graphify]] — Turn any codebase, with its docs, SQL schemas, configs, and ... 🆕
+- [[graphify-labs-graphify|graphify]] — Turn any codebase, with its docs, SQL schemas, configs, and ... 🔥
 - [[greedeks-gtweak|GTweak]] — Portable Tool for an Ideal Windows Setup
 - [[grokability-snipe-it|snipe-it]] — A free open source IT asset/license management system
 - [[grpc-grpc|grpc]] — C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
@@ -471,6 +472,7 @@
 - [[megadose-holehe|holehe]] — holehe allows you to check if the mail is used on different ... 🔥
 - [[meituan-longcat-longcat-video|LongCat-Video]] — No description
 - [[melgarafael-deskcommcrm|DeskcommCRM]] — Open-source AI sales OS — self-hosted CRM with native AI age...
+- [[meloong-git-pcl|PCL]] — Minecraft 启动器 Plain Craft Launcher（PCL）。 🆕
 - [[mempalace-mempalace|mempalace]] — The best-benchmarked open-source AI memory system. And it's ...
 - [[meshery-meshery|meshery]] — Meshery, the cloud native manager 🔥
 - [[mg1937-asc|ASC]] — ASC is a super FAST Android decompiler front-end designed fo...
@@ -597,6 +599,7 @@
 - [[peetzweg-opendisplay|opendisplay]] — Free, open-source Sidecar/Duet alternative — use your iPhone...
 - [[penpot-penpot|penpot]] — Penpot: The open-source design platform for Product teams th...
 - [[permissionlesstech-bitchat|bitchat]] — bluetooth mesh chat, IRC vibes
+- [[php-php-src|php-src]] — The PHP Interpreter 🆕
 - [[phuryn-pm-skills|pm-skills]] — PM Skills Marketplace: 100+ agentic skills, commands, and pl... 🔥
 - [[pingdotgg-t3code|t3code]] — No description 🔥
 - [[pkuflyingpig-cs-self-learning|cs-self-learning]] — 计算机自学指南
@@ -687,9 +690,9 @@
 - [[stirling-tools-stirling-pdf|Stirling-PDF]] — - 语言: TypeScript
 - [[storytold-artcraft|artcraft]] — ArtCraft is an intentional crafting engine for artists, desi... 🔥
 - [[strands-agents-harness-sdk|harness-sdk]] — Build an agent harness and control it end-to-end. Open-sourc... 🆕
-- [[strelov1-freehire|freehire]] — freehire — the open-source search engine for job seekers 🆕
+- [[strelov1-freehire|freehire]] — freehire — the open-source search engine for job seekers
 - [[stremio-stremio-web|stremio-web]] — Stremio - Freedom to Stream
-- [[supabase-supabase|supabase]] — The Postgres development platform. Supabase gives you a dedi...
+- [[supabase-supabase|supabase]] — The Postgres development platform. Supabase gives you a dedi... 🆕
 - [[superdesigndev-treg|treg]] — OpenRouter for agent tools. Join community here: https://dis... 🔥
 - [[superlinked-sie|sie]] — Open-source inference server and production cluster for all ...
 - [[supermemoryai-supermemory|supermemory]] — Memory and context engine + app that is extremely fast, scal...

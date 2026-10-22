@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[supabase-supabase]] [[ever-co-ever-gauzy]] [[mattpocock-skills]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]]
+[[earthtojake-text-to-cad]] [[msitarzewski-agency-agents]] [[mattpocock-skills]] [[graphify-labs-graphify]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

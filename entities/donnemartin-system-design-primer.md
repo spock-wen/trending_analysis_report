@@ -36,7 +36,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[mlabonne-llm-course]] [[huggingface-transformers]] [[headroomlabs-ai-headroom]] [[comfy-org-comfyui]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[ruvnet-ruflo]] [[luongnv89-claude-howto]] [[mlabonne-llm-course]]
 
 **所属领域**: [[education]]
 

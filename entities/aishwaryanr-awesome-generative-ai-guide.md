@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[supabase-supabase]] [[averygan-reclip]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]]
+[[graphify-labs-graphify]] [[ripienaar-free-for-dev]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[supabase-supabase]] [[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]] [[graphify-labs-graphify]] [[twentyhq-twenty]]
+[[mahlernim-google-timeline-visualizer]] [[graphify-labs-graphify]] [[bannedbook-fanqiang]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

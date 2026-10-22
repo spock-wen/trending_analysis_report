@@ -35,7 +35,7 @@ Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you
 
 ## 相关项目
 
-[[supabase-supabase]] [[sonarr-sonarr]] [[dotnet-aspnetcore]] [[graphify-labs-graphify]] [[k1tbyte-wand-enhancer]]
+[[graphify-labs-graphify]] [[ntdevlabs-tiny11builder]] [[dotnet-aspnetcore]] [[luongnv89-claude-howto]] [[sonarr-sonarr]]
 
 **所属领域**: [[ai-agent]]
 

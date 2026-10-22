@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[supabase-supabase]] [[cloudflare-security-audit-skill]] [[alishahryar1-free-claude-code]] [[tester-army-e2e]] [[affaan-m-ecc]]
+[[trycua-cua]] [[graphify-labs-graphify]] [[hugohe3-ppt-master]] [[ntdevlabs-tiny11builder]] [[withmarbleapp-os-taxonomy]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

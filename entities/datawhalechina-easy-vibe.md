@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[mlabonne-llm-course]] [[cloudflare-security-audit-skill]] [[huggingface-transformers]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[withmarbleapp-os-taxonomy]] [[cloudflare-security-audit-skill]] [[ruvnet-ruflo]]
 
 **所属领域**: [[data]] [[education]]
 

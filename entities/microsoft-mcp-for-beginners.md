@@ -34,7 +34,7 @@ This open-source curriculum introduces the fundamentals of Model Context Protoco
 
 ## 相关项目
 
-[[supabase-supabase]] [[microsoft-generative-ai-for-beginners]] [[tensorflow-tensorflow]] [[mlabonne-llm-course]] [[microsoft-ai-for-beginners]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[higgsfield-ai-higgsfield]] [[ruvnet-ruflo]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

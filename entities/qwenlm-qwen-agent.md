@@ -35,7 +35,7 @@ Agent framework and applications built upon Qwen>=3.0, featuring Function Callin
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[supabase-supabase]] [[ever-co-ever-gauzy]] [[earthtojake-text-to-cad]] [[msitarzewski-agency-agents]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[hugohe3-ppt-master]] [[earthtojake-text-to-cad]]
 
 **所属领域**: [[ai-agent]] [[web]] [[erp]]
 

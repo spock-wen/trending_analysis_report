@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[supabase-supabase]] [[averygan-reclip]] [[k-dense-ai-scientific-agent-skills]] [[msitarzewski-agency-agents]] [[xerj-org-xerj]]
+[[graphify-labs-graphify]] [[ripienaar-free-for-dev]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]] [[xerj-org-xerj]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

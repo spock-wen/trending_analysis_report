@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[supabase-supabase]] [[checkstyle-checkstyle]] [[k-dense-ai-scientific-agent-skills]] [[google-guava]] [[msitarzewski-agency-agents]]
+[[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[checkstyle-checkstyle]] [[yuliskov-smarttube]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

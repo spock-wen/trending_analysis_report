@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[supabase-supabase]] [[flutter-flutter]] [[localsend-localsend]] [[graphify-labs-graphify]] [[twentyhq-twenty]]
+[[graphify-labs-graphify]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]] [[localsend-localsend]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]]
 

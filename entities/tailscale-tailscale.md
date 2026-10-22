@@ -34,7 +34,7 @@ The easiest, most secure way to use WireGuard and 2FA.
 
 ## 相关项目
 
-[[supabase-supabase]] [[strelov1-freehire]] [[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[graphify-labs-graphify]]
+[[graphify-labs-graphify]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

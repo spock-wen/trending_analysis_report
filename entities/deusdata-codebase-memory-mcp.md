@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[antirez-ds4]] [[colbymchenry-codegraph]] [[epicgames-raddebugger]]
+[[epicgames-raddebugger]] [[antirez-ds4]] [[graphify-labs-graphify]] [[php-php-src]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[supabase-supabase]] [[averygan-reclip]] [[mlabonne-llm-course]] [[huggingface-transformers]] [[msitarzewski-agency-agents]]
+[[fastapi-fastapi]] [[msitarzewski-agency-agents]] [[ripienaar-free-for-dev]] [[ruvnet-ruflo]] [[mlabonne-llm-course]]
 
 **所属领域**: [[web]] [[education]]
 

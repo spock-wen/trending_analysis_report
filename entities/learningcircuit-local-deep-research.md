@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[supabase-supabase]] [[tensorflow-tensorflow]] [[k-dense-ai-scientific-agent-skills]] [[mlabonne-llm-course]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[paperclipai-paperclip]] [[cloudflare-security-audit-skill]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

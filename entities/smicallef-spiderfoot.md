@@ -37,5 +37,5 @@ SpiderFoot automates OSINT for threat intelligence and mapping your attack surfa
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[comfy-org-comfyui]] [[graphify-labs-graphify]] [[headroomlabs-ai-headroom]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]]
 

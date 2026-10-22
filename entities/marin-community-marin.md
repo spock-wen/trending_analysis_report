@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[headroomlabs-ai-headroom]] [[comfy-org-comfyui]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[paperclipai-paperclip]] [[luongnv89-claude-howto]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[science]]
 

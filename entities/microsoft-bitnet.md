@@ -36,7 +36,7 @@ Official inference framework for 1-bit LLMs
 
 ## 相关项目
 
-[[supabase-supabase]] [[tensorflow-tensorflow]] [[m-abozaid-esp32-c3-adblock]] [[graphify-labs-graphify]] [[twentyhq-twenty]]
+[[graphify-labs-graphify]] [[luongnv89-claude-howto]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

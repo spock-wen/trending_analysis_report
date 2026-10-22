@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[msitarzewski-agency-agents]] [[xerj-org-xerj]] [[hkuds-cli-anything]]
+[[msitarzewski-agency-agents]] [[graphify-labs-graphify]] [[anomalyco-opencode]] [[xerj-org-xerj]] [[twentyhq-twenty]]
 
 **所属领域**: [[web]] [[data]]
 

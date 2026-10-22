@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[supabase-supabase]] [[ever-co-ever-gauzy]] [[hugohe3-ppt-master]] [[anomalyco-opencode]] [[earthtojake-text-to-cad]]
+[[earthtojake-text-to-cad]] [[hugohe3-ppt-master]] [[anomalyco-opencode]] [[php-php-src]] [[twentyhq-twenty]]
 
 **所属领域**: [[erp]]
 

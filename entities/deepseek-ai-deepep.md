@@ -35,7 +35,7 @@ DeepEP: an efficient expert-parallel communication library
 
 ## 相关项目
 
-[[supabase-supabase]] [[moonshotai-flashkda]] [[deepseek-ai-deepgemm]] [[graphify-labs-graphify]] [[twentyhq-twenty]]
+[[moonshotai-flashkda]] [[deepseek-ai-deepgemm]] [[graphify-labs-graphify]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

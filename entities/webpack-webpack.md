@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[supabase-supabase]] [[cloudflare-security-audit-skill]] [[tester-army-e2e]] [[affaan-m-ecc]] [[msitarzewski-agency-agents]]
+[[trycua-cua]] [[msitarzewski-agency-agents]] [[ntdevlabs-tiny11builder]] [[withmarbleapp-os-taxonomy]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[web]] [[image-gen]]
 

@@ -35,7 +35,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[supabase-supabase]] [[flutter-flutter]] [[flutter-skills]] [[graphify-labs-graphify]] [[twentyhq-twenty]]
+[[graphify-labs-graphify]] [[supabase-supabase]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your mach
 
 ## 相关项目
 
-[[supabase-supabase]] [[graphify-labs-graphify]] [[anomalyco-opencode]] [[twentyhq-twenty]] [[stablyai-orca]]
+[[graphify-labs-graphify]] [[anomalyco-opencode]] [[luongnv89-claude-howto]] [[twentyhq-twenty]] [[stablyai-orca]]
 
 **所属领域**: [[ai-agent]]
 

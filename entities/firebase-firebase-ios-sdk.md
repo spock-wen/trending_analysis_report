@@ -35,5 +35,5 @@ Firebase SDK for Apple App Development
 
 ## 相关项目
 
-[[m-abozaid-esp32-c3-adblock]] [[microsoft-bitnet]] [[tensorflow-tensorflow]] [[boykopovar-anyps5]]
+[[m-abozaid-esp32-c3-adblock]] [[tensorflow-tensorflow]] [[microsoft-bitnet]] [[boykopovar-anyps5]]
 

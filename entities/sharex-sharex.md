@@ -34,7 +34,7 @@ ShareX is a free and open-source application that enables users to capture or re
 
 ## 相关项目
 
-[[sonarr-sonarr]] [[dotnet-aspnetcore]] [[tester-army-e2e]] [[comfy-org-comfyui]] [[trycua-cua]]
+[[trycua-cua]] [[ntdevlabs-tiny11builder]] [[dotnet-aspnetcore]] [[comfy-org-comfyui]] [[tester-army-e2e]]
 
 **所属领域**: [[image-gen]]
 

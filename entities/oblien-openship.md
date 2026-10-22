@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[supabase-supabase]] [[xtool-org-xtool]] [[anomalyco-opencode]] [[getsentry-sentry]] [[ruvnet-ruflo]]
+[[anomalyco-opencode]] [[ruvnet-ruflo]] [[twentyhq-twenty]] [[stablyai-orca]] [[getsentry-sentry]]
 
 **所属领域**: [[devops]]
 

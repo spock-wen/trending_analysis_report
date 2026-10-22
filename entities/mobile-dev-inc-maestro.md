@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[supabase-supabase]] [[android-skills]] [[bannedbook-fanqiang]] [[msitarzewski-agency-agents]] [[mahlernim-google-timeline-visualizer]]
+[[android-skills]] [[mahlernim-google-timeline-visualizer]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[bannedbook-fanqiang]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

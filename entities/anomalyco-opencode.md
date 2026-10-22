@@ -38,7 +38,7 @@ The open source coding agent.
 
 ## 相关项目
 
-[[supabase-supabase]] [[graphify-labs-graphify]] [[twentyhq-twenty]] [[stablyai-orca]]
+[[graphify-labs-graphify]] [[luongnv89-claude-howto]] [[twentyhq-twenty]] [[stablyai-orca]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

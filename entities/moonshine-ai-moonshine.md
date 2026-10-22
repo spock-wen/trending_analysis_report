@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[supabase-supabase]] [[alishahryar1-free-claude-code]] [[huggingface-transformers]] [[stablyai-orca]] [[hugohe3-ppt-master]]
+[[graphify-labs-graphify]] [[hugohe3-ppt-master]] [[debpalash-voicestudio]] [[alishahryar1-free-claude-code]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

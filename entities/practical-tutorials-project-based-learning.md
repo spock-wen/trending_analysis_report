@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[mlabonne-llm-course]] [[huggingface-transformers]] [[headroomlabs-ai-headroom]] [[comfy-org-comfyui]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[ruvnet-ruflo]] [[luongnv89-claude-howto]] [[mlabonne-llm-course]]
 
 **所属领域**: [[education]]
 

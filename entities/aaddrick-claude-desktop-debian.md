@@ -34,7 +34,7 @@ Claude Desktop for Debian-based Linux distributions
 
 ## 相关项目
 
-[[supabase-supabase]] [[mattpocock-skills]] [[msitarzewski-agency-agents]] [[stablyai-orca]] [[hkuds-cli-anything]]
+[[msitarzewski-agency-agents]] [[mattpocock-skills]] [[graphify-labs-graphify]] [[luongnv89-claude-howto]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

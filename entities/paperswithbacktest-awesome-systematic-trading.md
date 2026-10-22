@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[k-dense-ai-scientific-agent-skills]] [[mlabonne-llm-course]] [[huggingface-transformers]] [[affaan-m-ecc]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[paperclipai-paperclip]] [[ruvnet-ruflo]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[education]] [[science]]
 

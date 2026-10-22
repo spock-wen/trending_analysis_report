@@ -36,7 +36,7 @@ Open Source AI trading agent that operates autonomously across 1000+ markets - P
 
 ## 相关项目
 
-[[supabase-supabase]] [[ever-co-ever-gauzy]] [[hugohe3-ppt-master]] [[graphify-labs-graphify]] [[anomalyco-opencode]]
+[[earthtojake-text-to-cad]] [[graphify-labs-graphify]] [[hugohe3-ppt-master]] [[anomalyco-opencode]] [[php-php-src]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

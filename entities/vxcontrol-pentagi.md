@@ -38,7 +38,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[supabase-supabase]] [[strelov1-freehire]] [[alibaba-open-code-review]] [[graphify-labs-graphify]] [[juliusbrussee-caveman]]
+[[graphify-labs-graphify]] [[juliusbrussee-caveman]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]] [[strelov1-freehire]]
 
 **所属领域**: [[ai-agent]]
 

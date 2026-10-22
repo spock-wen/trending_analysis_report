@@ -36,7 +36,7 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[supabase-supabase]] [[comfy-org-comfyui]] [[graphify-labs-graphify]] [[twentyhq-twenty]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]] [[supabase-supabase]]
 
 **所属领域**: [[ai-agent]]
 

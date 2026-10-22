@@ -35,7 +35,7 @@ AI-assisted TradingView chart analysis — connect Claude Code to your TradingVi
 
 ## 相关项目
 
-[[supabase-supabase]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[graphify-labs-graphify]] [[dietrichgebert-ponytail]]
+[[graphify-labs-graphify]] [[withmarbleapp-os-taxonomy]] [[cloudflare-security-audit-skill]] [[luongnv89-claude-howto]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

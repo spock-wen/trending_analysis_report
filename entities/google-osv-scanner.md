@@ -34,7 +34,7 @@ Vulnerability scanner written in Go which uses the data provided by https://osv.
 
 ## 相关项目
 
-[[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[strelov1-freehire]] [[msitarzewski-agency-agents]] [[xerj-org-xerj]]
+[[msitarzewski-agency-agents]] [[graphify-labs-graphify]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[xerj-org-xerj]]
 
 **所属领域**: [[web]] [[data]]
 

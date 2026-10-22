@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[supabase-supabase]] [[bwya77-vscode-dark-islands]] [[raphire-win11debloat]] [[msitarzewski-agency-agents]] [[actions-runner-images]]
+[[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[bwya77-vscode-dark-islands]] [[supabase-supabase]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

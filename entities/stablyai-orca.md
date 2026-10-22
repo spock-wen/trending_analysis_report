@@ -38,7 +38,7 @@ Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code
 
 ## 相关项目
 
-[[supabase-supabase]] [[graphify-labs-graphify]] [[twentyhq-twenty]] [[anomalyco-opencode]]
+[[graphify-labs-graphify]] [[anomalyco-opencode]] [[luongnv89-claude-howto]] [[twentyhq-twenty]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

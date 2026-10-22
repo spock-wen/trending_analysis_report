@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[supabase-supabase]] [[tester-army-e2e]] [[comfy-org-comfyui]] [[graphify-labs-graphify]] [[anomalyco-opencode]]
+[[trycua-cua]] [[graphify-labs-graphify]] [[anomalyco-opencode]] [[ntdevlabs-tiny11builder]] [[comfy-org-comfyui]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

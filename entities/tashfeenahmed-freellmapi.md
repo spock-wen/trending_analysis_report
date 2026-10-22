@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[supabase-supabase]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[xerj-org-xerj]] [[graphify-labs-graphify]]
+[[graphify-labs-graphify]] [[anomalyco-opencode]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

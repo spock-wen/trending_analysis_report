@@ -34,7 +34,7 @@ Langflow is a powerful tool for building and deploying AI-powered agents and wor
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[supabase-supabase]] [[oblien-openship]] [[headroomlabs-ai-headroom]] [[xtool-org-xtool]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[ruvnet-ruflo]] [[oblien-openship]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

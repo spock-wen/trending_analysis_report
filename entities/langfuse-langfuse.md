@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[oblien-openship]] [[xerj-org-xerj]] [[xtool-org-xtool]]
+[[graphify-labs-graphify]] [[anomalyco-opencode]] [[ruvnet-ruflo]] [[oblien-openship]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

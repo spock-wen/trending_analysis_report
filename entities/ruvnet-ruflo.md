@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[supabase-supabase]] [[tensorflow-tensorflow]] [[mlabonne-llm-course]] [[huggingface-transformers]] [[oblien-openship]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[anomalyco-opencode]] [[oblien-openship]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

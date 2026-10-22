@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[supabase-supabase]] [[strelov1-freehire]] [[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[graphify-labs-graphify]]
+[[graphify-labs-graphify]] [[luongnv89-claude-howto]] [[vxcontrol-pentagi]] [[anthropics-knowledge-work-plugins]] [[strelov1-freehire]]
 
 **所属领域**: [[ai-agent]]
 

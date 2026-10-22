@@ -37,7 +37,7 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 
 ## 相关项目
 
-[[supabase-supabase]] [[android-skills]] [[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]] [[graphify-labs-graphify]]
+[[android-skills]] [[mahlernim-google-timeline-visualizer]] [[graphify-labs-graphify]] [[bannedbook-fanqiang]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]]
 

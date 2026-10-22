@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[supabase-supabase]] [[msitarzewski-agency-agents]] [[hkuds-cli-anything]] [[nvm-sh-nvm]] [[graphify-labs-graphify]]
+[[msitarzewski-agency-agents]] [[graphify-labs-graphify]] [[luongnv89-claude-howto]] [[obra-superpowers]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

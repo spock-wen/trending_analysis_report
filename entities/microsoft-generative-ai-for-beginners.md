@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[supabase-supabase]] [[tensorflow-tensorflow]] [[mlabonne-llm-course]] [[microsoft-ai-for-beginners]] [[huggingface-transformers]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[higgsfield-ai-higgsfield]] [[ruvnet-ruflo]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

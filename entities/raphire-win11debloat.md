@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[bwya77-vscode-dark-islands]] [[msitarzewski-agency-agents]] [[actions-runner-images]] [[hkuds-cli-anything]] [[graphify-labs-graphify]]
+[[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[bwya77-vscode-dark-islands]] [[akitaonrails-ai-memory]] [[actions-runner-images]]
 
 **所属领域**: [[cli]]
 

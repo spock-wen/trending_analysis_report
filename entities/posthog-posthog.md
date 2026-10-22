@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[supabase-supabase]] [[k-dense-ai-scientific-agent-skills]] [[oblien-openship]] [[msitarzewski-agency-agents]]
+[[fastapi-fastapi]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[getsentry-sentry]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

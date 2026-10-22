@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[supabase-supabase]] [[penpot-penpot]] [[graphify-labs-graphify]] [[twentyhq-twenty]] [[stablyai-orca]]
+[[graphify-labs-graphify]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]] [[penpot-penpot]] [[supabase-supabase]]
 
 **所属领域**: [[ai-agent]]
 

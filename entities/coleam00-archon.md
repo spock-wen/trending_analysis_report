@@ -38,7 +38,7 @@ The first open-source harness builder for AI coding. Make AI coding deterministi
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[anomalyco-opencode]] [[luongnv89-claude-howto]] [[twentyhq-twenty]] [[stablyai-orca]]
+[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]]
 

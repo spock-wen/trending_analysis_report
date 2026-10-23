@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-23 | 总页面：832
+> 最后更新：2026-10-24 | 总页面：834
 
 ## Entities
 
@@ -76,7 +76,7 @@
 - [[anthropics-claude-plugins-official|claude-plugins-official]] — Official, Anthropic-managed directory of high quality Claude... 🔥
 - [[anthropics-cwc-workshops|cwc-workshops]] — No description
 - [[anthropics-financial-services|financial-services]] — No description 🔥
-- [[anthropics-knowledge-work-plugins|knowledge-work-plugins]] — Open source repository of plugins primarily intended for kno...
+- [[anthropics-knowledge-work-plugins|knowledge-work-plugins]] — Open source repository of plugins primarily intended for kno... 🆕
 - [[anthropics-skills|skills]] — Public repository for Agent Skills
 - [[antirez-ds4|ds4]] — DeepSeek 4 Flash and PRO local inference engine for Metal, C...
 - [[antoinezambelli-forge|forge]] — A Python framework for self-hosted LLM tool-calling and mult...
@@ -249,7 +249,7 @@
 - [[evomap-evolver|evolver]] — The GEP-Powered Self-Evolution Engine for AI Agents. Genome ... 🆕
 - [[facebook-astryx|astryx]] — An open source design system that's fully customizable and a...
 - [[fareedkhan-dev-train-llm-from-scratch|train-llm-from-scratch]] — A straightforward method for training your LLM, from downloa...
-- [[fastapi-fastapi|fastapi]] — FastAPI framework, high performance, easy to learn, fast to ... 🆕
+- [[fastapi-fastapi|fastapi]] — FastAPI framework, high performance, easy to learn, fast to ...
 - [[fastfetch-cli-fastfetch|fastfetch]] — A maintained, feature-rich and performance oriented, neofetc... 🆕
 - [[fincept-corporation-finceptterminal|FinceptTerminal]] — FinceptTerminal is a modern finance application offering adv...
 - [[firebase-firebase-ios-sdk|firebase-ios-sdk]] — Firebase SDK for Apple App Development 🆕
@@ -472,7 +472,7 @@
 - [[megadose-holehe|holehe]] — holehe allows you to check if the mail is used on different ... 🔥
 - [[meituan-longcat-longcat-video|LongCat-Video]] — No description
 - [[melgarafael-deskcommcrm|DeskcommCRM]] — Open-source AI sales OS — self-hosted CRM with native AI age...
-- [[meloong-git-pcl|PCL]] — Minecraft 启动器 Plain Craft Launcher（PCL）。 🆕
+- [[meloong-git-pcl|PCL]] — Minecraft 启动器 Plain Craft Launcher（PCL）。
 - [[mempalace-mempalace|mempalace]] — The best-benchmarked open-source AI memory system. And it's ...
 - [[meshery-meshery|meshery]] — Meshery, the cloud native manager 🔥
 - [[mg1937-asc|ASC]] — ASC is a super FAST Android decompiler front-end designed fo...
@@ -530,6 +530,7 @@
 - [[newton-physics-newton|newton]] — An open-source, GPU-accelerated physics simulation engine bu...
 - [[nicobailon-pi-subagents|pi-subagents]] — Pi extension for async subagent delegation with truncation, ...
 - [[nirdiamant-agents-towards-production|agents-towards-production]] — End-to-end, code-first tutorials for building production-gra...
+- [[nodejs-node|node]] — Node.js JavaScript runtime ✨🐢🚀✨ 🆕
 - [[nomadamas-k-skill|k-skill]] — 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로 🆕
 - [[nousresearch-hermes-agent|hermes-agent]] — The agent that grows with you 🔥
 - [[ntdevlabs-tiny11builder|tiny11builder]] — WinUI app for building smaller, customized Windows 11 images...
@@ -539,7 +540,7 @@
 - [[nvidia-cosmos|cosmos]] — NVIDIA Cosmos is an open platform of world models, datasets,... 🆕
 - [[nvidia-model-optimizer|Model-Optimizer]] — A unified library of SOTA model optimization techniques like... 🔥
 - [[nvidia-nemo-switchyard|Switchyard]] — Switchyard lets LLM applications route traffic across models... 🆕
-- [[nvidia-openshell|OpenShell]] — OpenShell is the safe, private runtime for autonomous AI age... 🔥
+- [[nvidia-openshell|OpenShell]] — OpenShell is the safe, private runtime for autonomous AI age...
 - [[nvidia-personaplex|personaplex]] — PersonaPlex code. 🆕
 - [[nvidia-skillspector|SkillSpector]] — Security scanner for AI agent skills. Detect vulnerabilities... 🔥
 - [[nvlabs-sana|Sana]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
@@ -632,6 +633,7 @@
 - [[rasbt-llms-from-scratch|LLMs-from-scratch]] — Implement a ChatGPT-like LLM in PyTorch from scratch, step b... 🔥
 - [[reconurge-flowsint|flowsint]] — A modern platform for visual, flexible, and extensible graph...
 - [[refactoringhq-tolaria|tolaria]] — Desktop app to manage markdown knowledge bases
+- [[renhuai123-ziwei-doushu|ziwei-doushu]] — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 🆕
 - [[restic-restic|restic]] — Fast, secure, efficient backup program
 - [[revfactory-harness|harness]] — A meta-skill that designs domain-specific agent teams, defin... 🆕
 - [[ripienaar-free-for-dev|free-for-dev]] — A list of SaaS, PaaS and IaaS offerings that have free tiers...

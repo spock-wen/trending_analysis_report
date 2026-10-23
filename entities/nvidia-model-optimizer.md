@@ -36,7 +36,7 @@ A unified library of SOTA model optimization techniques like quantization, disti
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[ruvnet-ruflo]] [[oblien-openship]] [[luongnv89-claude-howto]]
+[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[xtool-org-xtool]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

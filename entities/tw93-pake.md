@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[graphify-labs-graphify]] [[xerj-org-xerj]] [[akitaonrails-ai-memory]] [[cathrynlavery-diagram-design]]
+[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[xerj-org-xerj]] [[rust-lang-rust]]
 
 **所属领域**: [[web]] [[cli]]
 

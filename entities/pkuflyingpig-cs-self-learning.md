@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[msitarzewski-agency-agents]] [[ripienaar-free-for-dev]] [[ruvnet-ruflo]] [[mlabonne-llm-course]]
+[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[mlabonne-llm-course]] [[averygan-reclip]] [[fastapi-fastapi]]
 
 **所属领域**: [[web]] [[education]]
 

@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]] [[localsend-localsend]] [[chen08209-flclash]]
+[[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[chen08209-flclash]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]]
 

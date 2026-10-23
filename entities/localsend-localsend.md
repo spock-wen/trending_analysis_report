@@ -35,7 +35,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[supabase-supabase]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]] [[chen08209-flclash]]
+[[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[chen08209-flclash]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]]
 

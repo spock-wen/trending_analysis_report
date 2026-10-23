@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[trycua-cua]] [[msitarzewski-agency-agents]] [[ntdevlabs-tiny11builder]] [[withmarbleapp-os-taxonomy]] [[cloudflare-security-audit-skill]]
+[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[openbmb-voxcpm]] [[ntdevlabs-tiny11builder]] [[trycua-cua]]
 
 **所属领域**: [[web]] [[image-gen]]
 

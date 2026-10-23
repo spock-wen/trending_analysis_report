@@ -35,7 +35,7 @@ like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[luongnv89-claude-howto]] [[k-dense-ai-scientific-agent-skills]]
+[[strelov1-freehire]] [[snailsploit-claude-red]] [[alibaba-open-code-review]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

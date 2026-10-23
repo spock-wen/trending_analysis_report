@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]] [[xerj-org-xerj]]
+[[m-abozaid-esp32-c3-adblock]] [[snailsploit-claude-red]] [[xerj-org-xerj]] [[microsoft-bitnet]] [[graphify-labs-graphify]]
 
 **所属领域**: [[cli]] [[security]]
 

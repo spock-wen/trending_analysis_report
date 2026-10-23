@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]]
+[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[xerj-org-xerj]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

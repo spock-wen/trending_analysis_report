@@ -37,7 +37,7 @@ Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and 
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]] [[supabase-supabase]]
+[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]]
 

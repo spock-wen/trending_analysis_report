@@ -34,7 +34,7 @@ Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translatio
 
 ## 相关项目
 
-[[trycua-cua]] [[anomalyco-opencode]] [[ntdevlabs-tiny11builder]] [[comfy-org-comfyui]] [[twentyhq-twenty]]
+[[twentyhq-twenty]] [[openbmb-voxcpm]] [[renhuai123-ziwei-doushu]] [[ntdevlabs-tiny11builder]] [[trycua-cua]]
 
 **所属领域**: [[image-gen]]
 

@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[ripienaar-free-for-dev]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[luongnv89-claude-howto]]
+[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[averygan-reclip]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

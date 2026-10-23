@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[ruvnet-ruflo]] [[twentyhq-twenty]]
+[[twentyhq-twenty]] [[cathrynlavery-diagram-design]] [[renhuai123-ziwei-doushu]] [[hkuds-cli-anything]] [[mlabonne-llm-course]]
 
 **所属领域**: [[web]] [[education]]
 

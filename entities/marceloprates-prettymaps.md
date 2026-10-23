@@ -34,7 +34,7 @@ Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[luongnv89-claude-howto]] [[xerj-org-xerj]] [[k-dense-ai-scientific-agent-skills]]
+[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]] [[supabase-supabase]]
 
 **所属领域**: [[data]]
 

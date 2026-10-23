@@ -36,7 +36,7 @@ ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]] [[supabase-supabase]]
+[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]]
 

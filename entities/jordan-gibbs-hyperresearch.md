@@ -34,7 +34,7 @@ Agent-driven research knowledge base. Agents collect, search, and synthesize web
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[luongnv89-claude-howto]]
+[[openbmb-voxcpm]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[cathrynlavery-diagram-design]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

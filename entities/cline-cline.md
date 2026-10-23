@@ -36,7 +36,7 @@ Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[luongnv89-claude-howto]] [[twentyhq-twenty]]
+[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

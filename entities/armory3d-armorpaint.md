@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[epicgames-raddebugger]] [[antirez-ds4]] [[graphify-labs-graphify]] [[php-php-src]] [[luongnv89-claude-howto]]
+[[epicgames-raddebugger]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[php-php-src]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]]
 

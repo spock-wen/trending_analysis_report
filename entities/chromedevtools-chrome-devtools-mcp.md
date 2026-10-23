@@ -38,7 +38,7 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[luongnv89-claude-howto]] [[twentyhq-twenty]]
+[[twentyhq-twenty]] [[cathrynlavery-diagram-design]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

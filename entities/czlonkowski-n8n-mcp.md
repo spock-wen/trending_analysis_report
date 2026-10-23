@@ -36,7 +36,7 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[anomalyco-opencode]] [[luongnv89-claude-howto]] [[twentyhq-twenty]] [[stablyai-orca]]
+[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]]
 

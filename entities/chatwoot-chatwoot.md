@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]] [[docusealco-docuseal]] [[supabase-supabase]]
+[[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]] [[docusealco-docuseal]]
 
 **所属领域**: [[ai-agent]]
 

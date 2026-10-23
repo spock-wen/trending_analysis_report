@@ -35,7 +35,7 @@ mini cli search engine for your docs, knowledge bases, meeting notes, whatever. 
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[twentyhq-twenty]] [[stablyai-orca]]
+[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[graphify-labs-graphify]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[cli]]
 

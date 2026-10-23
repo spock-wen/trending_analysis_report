@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[anomalyco-opencode]] [[ruvnet-ruflo]] [[oblien-openship]] [[xerj-org-xerj]]
+[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[xtool-org-xtool]] [[oblien-openship]]
 
 **所属领域**: [[data]] [[devops]]
 

@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[trycua-cua]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]] [[ntdevlabs-tiny11builder]]
+[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[openbmb-voxcpm]] [[ntdevlabs-tiny11builder]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[graphify-labs-graphify]] [[akitaonrails-ai-memory]] [[msitarzewski-agency-agents]]
+[[akitaonrails-ai-memory]] [[nvidia-openshell]] [[snailsploit-claude-red]] [[graphify-labs-graphify]]
 
 **所属领域**: [[cli]]
 

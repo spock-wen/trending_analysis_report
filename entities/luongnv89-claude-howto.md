@@ -37,7 +37,7 @@ A visual, example-driven guide to Claude Code — from basic concepts to advance
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[anthropics-knowledge-work-plugins]] [[supabase-supabase]]
+[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]]
 

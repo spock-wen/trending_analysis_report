@@ -35,7 +35,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]] [[akitaonrails-ai-memory]]
+[[openbmb-voxcpm]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[cathrynlavery-diagram-design]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -34,7 +34,7 @@ Persistent file-based planning for AI coding agents and long-running agentic tas
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]] [[akitaonrails-ai-memory]]
+[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

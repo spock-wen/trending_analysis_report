@@ -35,7 +35,7 @@ The LLVM Project is a collection of modular and reusable compiler and toolchain 
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]] [[supabase-supabase]]
+[[cloudflare-security-audit-skill]] [[nvidia-openshell]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

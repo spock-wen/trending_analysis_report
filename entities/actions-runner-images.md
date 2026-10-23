@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[trycua-cua]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[ntdevlabs-tiny11builder]] [[bwya77-vscode-dark-islands]]
+[[bwya77-vscode-dark-islands]] [[openbmb-voxcpm]] [[snailsploit-claude-red]] [[ntdevlabs-tiny11builder]] [[trycua-cua]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

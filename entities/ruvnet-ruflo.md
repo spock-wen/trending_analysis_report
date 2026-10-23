@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[anomalyco-opencode]] [[oblien-openship]] [[luongnv89-claude-howto]]
+[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[mlabonne-llm-course]] [[fastapi-fastapi]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

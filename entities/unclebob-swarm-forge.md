@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]] [[penpot-penpot]] [[supabase-supabase]]
+[[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]] [[penpot-penpot]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ LLM inference in C/C++
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[luongnv89-claude-howto]] [[m-abozaid-esp32-c3-adblock]] [[microsoft-bitnet]] [[boykopovar-anyps5]]
+[[m-abozaid-esp32-c3-adblock]] [[snailsploit-claude-red]] [[microsoft-bitnet]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]]
 

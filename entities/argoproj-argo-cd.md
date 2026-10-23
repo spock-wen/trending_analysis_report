@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[ruvnet-ruflo]] [[oblien-openship]] [[vxcontrol-pentagi]] [[strelov1-freehire]]
+[[strelov1-freehire]] [[alibaba-open-code-review]] [[xtool-org-xtool]] [[oblien-openship]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[devops]]
 

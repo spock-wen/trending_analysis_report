@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[luongnv89-claude-howto]]
+[[openbmb-voxcpm]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[cathrynlavery-diagram-design]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

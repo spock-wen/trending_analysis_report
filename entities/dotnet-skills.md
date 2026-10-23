@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[ntdevlabs-tiny11builder]] [[dotnet-aspnetcore]] [[luongnv89-claude-howto]] [[sonarr-sonarr]]
+[[ntdevlabs-tiny11builder]] [[snailsploit-claude-red]] [[dotnet-aspnetcore]] [[anthropics-knowledge-work-plugins]] [[k1tbyte-wand-enhancer]]
 
 **所属领域**: [[ai-agent]]
 

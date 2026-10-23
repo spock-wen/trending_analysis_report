@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[checkstyle-checkstyle]] [[yuliskov-smarttube]] [[ruvnet-ruflo]] [[oblien-openship]]
+[[snailsploit-claude-red]] [[nationalsecurityagency-ghidra]] [[google-guava]] [[xtool-org-xtool]] [[oblien-openship]]
 
 **所属领域**: [[data]] [[devops]]
 

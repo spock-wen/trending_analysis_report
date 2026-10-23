@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]] [[xerj-org-xerj]] [[twentyhq-twenty]]
+[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[xerj-org-xerj]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[security]]
 

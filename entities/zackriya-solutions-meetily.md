@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]] [[xerj-org-xerj]]
+[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[xerj-org-xerj]] [[rust-lang-rust]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

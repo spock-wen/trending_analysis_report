@@ -38,7 +38,7 @@ The open source coding agent.
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[luongnv89-claude-howto]] [[twentyhq-twenty]] [[stablyai-orca]] [[anthropics-knowledge-work-plugins]]
+[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[paperclipai-paperclip]] [[luongnv89-claude-howto]]
+[[twentyhq-twenty]] [[cathrynlavery-diagram-design]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

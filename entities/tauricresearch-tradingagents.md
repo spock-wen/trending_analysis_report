@@ -38,7 +38,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[paperclipai-paperclip]] [[luongnv89-claude-howto]] [[k-dense-ai-scientific-agent-skills]]
+[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

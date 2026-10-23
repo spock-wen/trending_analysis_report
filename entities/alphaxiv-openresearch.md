@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[paperclipai-paperclip]] [[xerj-org-xerj]] [[luongnv89-claude-howto]] [[k-dense-ai-scientific-agent-skills]]
+[[snailsploit-claude-red]] [[xerj-org-xerj]] [[rust-lang-rust]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

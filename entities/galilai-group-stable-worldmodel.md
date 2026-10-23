@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[trycua-cua]] [[ntdevlabs-tiny11builder]] [[paperclipai-paperclip]]
+[[openbmb-voxcpm]] [[ntdevlabs-tiny11builder]] [[snailsploit-claude-red]] [[trycua-cua]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

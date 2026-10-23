@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[mahlernim-google-timeline-visualizer]] [[graphify-labs-graphify]] [[bannedbook-fanqiang]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]]
+[[snailsploit-claude-red]] [[mahlernim-google-timeline-visualizer]] [[anthropics-knowledge-work-plugins]] [[embabel-embabel-agent]] [[bannedbook-fanqiang]]
 
 **所属领域**: [[ai-agent]]
 

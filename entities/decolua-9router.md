@@ -38,7 +38,7 @@ Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[withmarbleapp-os-taxonomy]] [[cloudflare-security-audit-skill]] [[luongnv89-claude-howto]]
+[[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]] [[cloudflare-security-audit-skill]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

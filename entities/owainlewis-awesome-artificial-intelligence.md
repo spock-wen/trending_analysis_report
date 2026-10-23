@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[paperclipai-paperclip]] [[ruvnet-ruflo]] [[luongnv89-claude-howto]]
+[[snailsploit-claude-red]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

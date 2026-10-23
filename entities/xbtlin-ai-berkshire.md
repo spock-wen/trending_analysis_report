@@ -38,7 +38,7 @@ AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框�
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[paperclipai-paperclip]] [[luongnv89-claude-howto]] [[k-dense-ai-scientific-agent-skills]]
+[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

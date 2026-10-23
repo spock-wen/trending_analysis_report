@@ -35,7 +35,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[paperclipai-paperclip]] [[luongnv89-claude-howto]] [[k-dense-ai-scientific-agent-skills]]
+[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[science]]
 

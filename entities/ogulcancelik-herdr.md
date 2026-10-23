@@ -38,7 +38,7 @@ agent multiplexer that lives in your terminal.
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[xerj-org-xerj]] [[luongnv89-claude-howto]] [[akitaonrails-ai-memory]]
+[[snailsploit-claude-red]] [[xerj-org-xerj]] [[rust-lang-rust]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

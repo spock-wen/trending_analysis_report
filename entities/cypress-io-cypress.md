@@ -37,7 +37,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[twentyhq-twenty]] [[stablyai-orca]] [[cathrynlavery-diagram-design]]
+[[twentyhq-twenty]] [[cathrynlavery-diagram-design]] [[renhuai123-ziwei-doushu]] [[hkuds-cli-anything]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]]
 

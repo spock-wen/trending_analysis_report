@@ -37,7 +37,7 @@ Deepseek to API: A lightweight, high-performance full-stack middleware convertin
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[luongnv89-claude-howto]]
+[[strelov1-freehire]] [[snailsploit-claude-red]] [[alibaba-open-code-review]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[trycua-cua]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[ntdevlabs-tiny11builder]] [[comfy-org-comfyui]]
+[[twentyhq-twenty]] [[cathrynlavery-diagram-design]] [[renhuai123-ziwei-doushu]] [[hkuds-cli-anything]] [[openbmb-voxcpm]]
 
 **所属领域**: [[web]] [[image-gen]]
 

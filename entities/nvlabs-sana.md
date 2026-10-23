@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[trycua-cua]] [[ntdevlabs-tiny11builder]] [[comfy-org-comfyui]]
+[[openbmb-voxcpm]] [[ntdevlabs-tiny11builder]] [[snailsploit-claude-red]] [[trycua-cua]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[image-gen]]
 

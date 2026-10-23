@@ -38,7 +38,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[trycua-cua]] [[graphify-labs-graphify]] [[ntdevlabs-tiny11builder]] [[withmarbleapp-os-taxonomy]] [[cloudflare-security-audit-skill]]
+[[openbmb-voxcpm]] [[ntdevlabs-tiny11builder]] [[snailsploit-claude-red]] [[trycua-cua]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

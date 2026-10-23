@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[higgsfield-ai-higgsfield]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]] [[microsoft-ai-for-beginners]]
+[[lyogavin-airllm]] [[snailsploit-claude-red]] [[higgsfield-ai-higgsfield]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]]
 

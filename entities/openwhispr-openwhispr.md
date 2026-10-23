@@ -34,7 +34,7 @@ Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud model
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[hugohe3-ppt-master]] [[withmarbleapp-os-taxonomy]] [[cloudflare-security-audit-skill]] [[debpalash-voicestudio]]
+[[openbmb-voxcpm]] [[debpalash-voicestudio]] [[snailsploit-claude-red]] [[xerj-org-xerj]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[security]] [[audio]]
 

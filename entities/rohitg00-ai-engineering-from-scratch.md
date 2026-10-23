@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[ruvnet-ruflo]] [[luongnv89-claude-howto]] [[mlabonne-llm-course]]
+[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

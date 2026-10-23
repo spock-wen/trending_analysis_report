@@ -35,5 +35,5 @@ No description
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]]
+[[luongnv89-claude-howto]] [[openbmb-voxcpm]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]]
 

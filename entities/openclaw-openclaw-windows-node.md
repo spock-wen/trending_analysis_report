@@ -35,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[ntdevlabs-tiny11builder]] [[dotnet-aspnetcore]] [[sonarr-sonarr]]
+[[ntdevlabs-tiny11builder]] [[snailsploit-claude-red]] [[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]] [[graphify-labs-graphify]]
 
 **所属领域**: [[cli]]
 

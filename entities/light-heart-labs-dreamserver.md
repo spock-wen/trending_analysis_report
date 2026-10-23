@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[trycua-cua]] [[ntdevlabs-tiny11builder]] [[hugohe3-ppt-master]]
+[[openbmb-voxcpm]] [[ntdevlabs-tiny11builder]] [[snailsploit-claude-red]] [[debpalash-voicestudio]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

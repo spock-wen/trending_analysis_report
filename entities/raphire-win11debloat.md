@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[bwya77-vscode-dark-islands]] [[akitaonrails-ai-memory]] [[actions-runner-images]]
+[[bwya77-vscode-dark-islands]] [[snailsploit-claude-red]] [[graphify-labs-graphify]] [[akitaonrails-ai-memory]] [[nvidia-openshell]]
 
 **所属领域**: [[cli]]
 

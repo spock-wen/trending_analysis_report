@@ -38,7 +38,7 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[withmarbleapp-os-taxonomy]] [[cloudflare-security-audit-skill]] [[luongnv89-claude-howto]]
+[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

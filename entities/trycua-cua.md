@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[ntdevlabs-tiny11builder]] [[comfy-org-comfyui]] [[xerj-org-xerj]] [[luongnv89-claude-howto]]
+[[openbmb-voxcpm]] [[ntdevlabs-tiny11builder]] [[snailsploit-claude-red]] [[xerj-org-xerj]] [[rust-lang-rust]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

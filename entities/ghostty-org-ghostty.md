@@ -34,7 +34,7 @@ language: "Zig"
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[lightpanda-io-browser]] [[akitaonrails-ai-memory]] [[hkuds-cli-anything]]
+[[snailsploit-claude-red]] [[graphify-labs-graphify]] [[akitaonrails-ai-memory]] [[nvidia-openshell]] [[lightpanda-io-browser]]
 
 **所属领域**: [[cli]]
 

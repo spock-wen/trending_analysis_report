@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[trycua-cua]] [[msitarzewski-agency-agents]] [[ripienaar-free-for-dev]] [[ntdevlabs-tiny11builder]] [[comfy-org-comfyui]]
+[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[openbmb-voxcpm]] [[ntdevlabs-tiny11builder]] [[averygan-reclip]]
 
 **所属领域**: [[web]] [[image-gen]]
 

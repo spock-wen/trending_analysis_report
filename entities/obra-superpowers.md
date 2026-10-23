@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[earthtojake-text-to-cad]] [[msitarzewski-agency-agents]] [[mattpocock-skills]] [[graphify-labs-graphify]] [[hugohe3-ppt-master]]
+[[snailsploit-claude-red]] [[nvm-sh-nvm]] [[mattpocock-skills]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

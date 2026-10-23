@@ -38,7 +38,7 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[graphify-labs-graphify]] [[withmarbleapp-os-taxonomy]] [[cloudflare-security-audit-skill]] [[xerj-org-xerj]]
+[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[graphify-labs-graphify]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[web]] [[data]]
 

@@ -36,7 +36,7 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[withmarbleapp-os-taxonomy]] [[cloudflare-security-audit-skill]] [[luongnv89-claude-howto]] [[xerj-org-xerj]]
+[[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

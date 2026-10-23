@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[paperclipai-paperclip]] [[cloudflare-security-audit-skill]] [[ruvnet-ruflo]]
+[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[xerj-org-xerj]] [[mlabonne-llm-course]] [[fastapi-fastapi]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

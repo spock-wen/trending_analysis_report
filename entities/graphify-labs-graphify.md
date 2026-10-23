@@ -39,7 +39,7 @@ Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]] [[xerj-org-xerj]] [[k-dense-ai-scientific-agent-skills]]
+[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

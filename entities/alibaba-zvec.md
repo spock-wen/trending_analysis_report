@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[xerj-org-xerj]] [[k-dense-ai-scientific-agent-skills]] [[m-abozaid-esp32-c3-adblock]] [[microsoft-bitnet]]
+[[m-abozaid-esp32-c3-adblock]] [[snailsploit-claude-red]] [[microsoft-bitnet]] [[graphify-labs-graphify]] [[supabase-supabase]]
 
 **所属领域**: [[data]]
 

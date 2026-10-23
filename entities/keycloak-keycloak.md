@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[yuliskov-smarttube]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]] [[xerj-org-xerj]]
+[[snailsploit-claude-red]] [[xerj-org-xerj]] [[nationalsecurityagency-ghidra]] [[google-guava]] [[checkstyle-checkstyle]]
 
 **所属领域**: [[security]]
 

@@ -36,7 +36,7 @@ Official inference framework for 1-bit LLMs
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[luongnv89-claude-howto]] [[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]] [[anthropics-knowledge-work-plugins]]
+[[m-abozaid-esp32-c3-adblock]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]]
 

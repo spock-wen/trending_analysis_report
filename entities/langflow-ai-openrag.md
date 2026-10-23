@@ -36,7 +36,7 @@ OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[ntdevlabs-tiny11builder]] [[trycua-cua]]
+[[openbmb-voxcpm]] [[ntdevlabs-tiny11builder]] [[snailsploit-claude-red]] [[trycua-cua]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[image-gen]]
 

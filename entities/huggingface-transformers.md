@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[hugohe3-ppt-master]] [[ruvnet-ruflo]] [[debpalash-voicestudio]]
+[[openbmb-voxcpm]] [[debpalash-voicestudio]] [[snailsploit-claude-red]] [[mlabonne-llm-course]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

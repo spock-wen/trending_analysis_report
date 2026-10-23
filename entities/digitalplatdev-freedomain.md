@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[ripienaar-free-for-dev]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]]
+[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[averygan-reclip]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

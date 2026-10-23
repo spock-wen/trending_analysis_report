@@ -38,7 +38,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[withmarbleapp-os-taxonomy]] [[cloudflare-security-audit-skill]] [[luongnv89-claude-howto]] [[affaan-m-ecc]]
+[[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]] [[nodejs-node]]
 
 **所属领域**: [[ai-agent]]
 

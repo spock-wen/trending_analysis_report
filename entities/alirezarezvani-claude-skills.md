@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[hugohe3-ppt-master]] [[earthtojake-text-to-cad]]
+[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

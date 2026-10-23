@@ -38,7 +38,7 @@ Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 
 
 ## 相关项目
 
-[[trycua-cua]] [[graphify-labs-graphify]] [[ntdevlabs-tiny11builder]] [[withmarbleapp-os-taxonomy]] [[cloudflare-security-audit-skill]]
+[[openbmb-voxcpm]] [[ntdevlabs-tiny11builder]] [[snailsploit-claude-red]] [[trycua-cua]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

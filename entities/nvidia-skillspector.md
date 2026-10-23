@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[cloudflare-security-audit-skill]] [[nationalsecurityagency-ghidra]] [[luongnv89-claude-howto]]
+[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[xerj-org-xerj]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]]
+[[openbmb-voxcpm]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[cathrynlavery-diagram-design]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

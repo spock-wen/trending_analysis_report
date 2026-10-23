@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[ripienaar-free-for-dev]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]] [[xerj-org-xerj]]
+[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[averygan-reclip]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

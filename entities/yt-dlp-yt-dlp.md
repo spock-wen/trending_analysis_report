@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[hugohe3-ppt-master]] [[debpalash-voicestudio]]
+[[openbmb-voxcpm]] [[debpalash-voicestudio]] [[snailsploit-claude-red]] [[alishahryar1-free-claude-code]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[cli]] [[audio]]
 

@@ -38,7 +38,7 @@ The open alternative to Salesforce, designed for AI.
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[anomalyco-opencode]] [[luongnv89-claude-howto]] [[stablyai-orca]] [[anthropics-knowledge-work-plugins]]
+[[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[supabase-supabase]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[hugohe3-ppt-master]] [[ruvnet-ruflo]]
+[[openbmb-voxcpm]] [[debpalash-voicestudio]] [[snailsploit-claude-red]] [[xerj-org-xerj]] [[rust-lang-rust]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

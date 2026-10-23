@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[ripienaar-free-for-dev]] [[pkuflyingpig-cs-self-learning]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]]
+[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[averygan-reclip]] [[msitarzewski-agency-agents]] [[supabase-supabase]]
 
 **所属领域**: [[web]]
 

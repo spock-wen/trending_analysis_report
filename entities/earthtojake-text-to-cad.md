@@ -38,7 +38,7 @@ Give your agent CAD superpowers.
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[hugohe3-ppt-master]] [[php-php-src]] [[luongnv89-claude-howto]]
+[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[php-php-src]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

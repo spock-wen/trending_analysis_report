@@ -35,7 +35,7 @@ Agentic AI Infrastructure for magnifying HUMAN capabilities.
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[anomalyco-opencode]] [[ruvnet-ruflo]] [[oblien-openship]] [[luongnv89-claude-howto]]
+[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[xtool-org-xtool]] [[oblien-openship]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

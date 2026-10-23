@@ -37,7 +37,7 @@ A Claude Code plugin that shows what's happening - context usage, active tools, 
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[hugohe3-ppt-master]] [[withmarbleapp-os-taxonomy]] [[cloudflare-security-audit-skill]] [[debpalash-voicestudio]]
+[[openbmb-voxcpm]] [[debpalash-voicestudio]] [[snailsploit-claude-red]] [[alishahryar1-free-claude-code]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

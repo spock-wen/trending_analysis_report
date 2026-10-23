@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[paperclipai-paperclip]] [[bwya77-vscode-dark-islands]] [[cloudflare-security-audit-skill]]
+[[bwya77-vscode-dark-islands]] [[snailsploit-claude-red]] [[xerj-org-xerj]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

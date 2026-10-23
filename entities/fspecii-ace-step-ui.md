@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[trycua-cua]] [[graphify-labs-graphify]] [[hugohe3-ppt-master]] [[ntdevlabs-tiny11builder]] [[withmarbleapp-os-taxonomy]]
+[[openbmb-voxcpm]] [[ntdevlabs-tiny11builder]] [[snailsploit-claude-red]] [[debpalash-voicestudio]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

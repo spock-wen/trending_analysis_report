@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[xerj-org-xerj]] [[luongnv89-claude-howto]] [[akitaonrails-ai-memory]] [[anthropics-knowledge-work-plugins]]
+[[snailsploit-claude-red]] [[xerj-org-xerj]] [[rust-lang-rust]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]]
 

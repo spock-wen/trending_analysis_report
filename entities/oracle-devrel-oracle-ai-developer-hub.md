@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[higgsfield-ai-higgsfield]] [[luongnv89-claude-howto]] [[xerj-org-xerj]] [[k-dense-ai-scientific-agent-skills]]
+[[lyogavin-airllm]] [[snailsploit-claude-red]] [[higgsfield-ai-higgsfield]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

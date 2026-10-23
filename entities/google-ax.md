@@ -37,7 +37,7 @@ Google's open agentic orchestration runtime
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]]
+[[strelov1-freehire]] [[snailsploit-claude-red]] [[alibaba-open-code-review]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]]
 

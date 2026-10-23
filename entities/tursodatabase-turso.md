@@ -36,7 +36,7 @@ Turso is an in-process SQL database, compatible with SQLite.
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[xerj-org-xerj]] [[k-dense-ai-scientific-agent-skills]] [[akitaonrails-ai-memory]] [[storytold-artcraft]]
+[[snailsploit-claude-red]] [[xerj-org-xerj]] [[rust-lang-rust]] [[graphify-labs-graphify]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[data]]
 

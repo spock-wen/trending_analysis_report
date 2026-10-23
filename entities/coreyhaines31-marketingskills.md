@@ -38,7 +38,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[withmarbleapp-os-taxonomy]] [[cloudflare-security-audit-skill]] [[luongnv89-claude-howto]] [[xerj-org-xerj]]
+[[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

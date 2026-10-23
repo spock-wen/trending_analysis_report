@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[msitarzewski-agency-agents]] [[graphify-labs-graphify]] [[ruvnet-ruflo]] [[luongnv89-claude-howto]]
+[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[mlabonne-llm-course]] [[fastapi-fastapi]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

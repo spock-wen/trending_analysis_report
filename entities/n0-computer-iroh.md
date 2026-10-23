@@ -37,5 +37,5 @@ IP addresses break, dial keys instead. Modular networking stack in Rust.
 
 ## 相关项目
 
-[[storytold-artcraft]] [[rust-lang-rust]] [[akitaonrails-ai-memory]] [[xerj-org-xerj]]
+[[akitaonrails-ai-memory]] [[nvidia-openshell]] [[xerj-org-xerj]] [[rust-lang-rust]]
 

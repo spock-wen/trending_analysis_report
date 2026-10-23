@@ -38,7 +38,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[ruvnet-ruflo]] [[oblien-openship]]
+[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[xtool-org-xtool]] [[oblien-openship]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

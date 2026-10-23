@@ -34,7 +34,7 @@ This open-source curriculum introduces the fundamentals of Model Context Protoco
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[higgsfield-ai-higgsfield]] [[ruvnet-ruflo]] [[luongnv89-claude-howto]]
+[[lyogavin-airllm]] [[snailsploit-claude-red]] [[mlabonne-llm-course]] [[higgsfield-ai-higgsfield]] [[fastapi-fastapi]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

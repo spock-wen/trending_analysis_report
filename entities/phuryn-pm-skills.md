@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]] [[akitaonrails-ai-memory]] [[anthropics-knowledge-work-plugins]]
+[[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]] [[cloudflare-security-audit-skill]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

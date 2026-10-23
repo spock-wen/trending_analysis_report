@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[checkstyle-checkstyle]] [[yuliskov-smarttube]] [[nationalsecurityagency-ghidra]]
+[[snailsploit-claude-red]] [[nationalsecurityagency-ghidra]] [[google-guava]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

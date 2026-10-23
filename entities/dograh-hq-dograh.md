@@ -34,7 +34,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[hugohe3-ppt-master]] [[debpalash-voicestudio]] [[alishahryar1-free-claude-code]]
+[[openbmb-voxcpm]] [[debpalash-voicestudio]] [[snailsploit-claude-red]] [[alishahryar1-free-claude-code]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

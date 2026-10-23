@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[anomalyco-opencode]] [[ruvnet-ruflo]]
+[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[mlabonne-llm-course]] [[fastapi-fastapi]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

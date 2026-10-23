@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[withmarbleapp-os-taxonomy]] [[cloudflare-security-audit-skill]] [[ruvnet-ruflo]]
+[[snailsploit-claude-red]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[graphify-labs-graphify]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[data]] [[education]]
 

@@ -34,7 +34,7 @@ FastAPI framework, high performance, easy to learn, fast to code, ready for prod
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[ruvnet-ruflo]] [[luongnv89-claude-howto]] [[mlabonne-llm-course]] [[huggingface-transformers]]
+[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[mlabonne-llm-course]] [[anthropics-knowledge-work-plugins]] [[huggingface-transformers]]
 
 **所属领域**: [[education]]
 

@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[msitarzewski-agency-agents]] [[ripienaar-free-for-dev]] [[graphify-labs-graphify]] [[akitaonrails-ai-memory]] [[cathrynlavery-diagram-design]]
+[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]] [[cli]]
 

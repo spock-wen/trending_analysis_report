@@ -35,5 +35,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[withmarbleapp-os-taxonomy]]
+[[cloudflare-security-audit-skill]] [[dietrichgebert-ponytail]] [[nodejs-node]] [[withmarbleapp-os-taxonomy]]
 

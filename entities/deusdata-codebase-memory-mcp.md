@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[epicgames-raddebugger]] [[antirez-ds4]] [[graphify-labs-graphify]] [[php-php-src]] [[luongnv89-claude-howto]]
+[[epicgames-raddebugger]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]] [[php-php-src]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

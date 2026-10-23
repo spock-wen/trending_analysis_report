@@ -34,5 +34,5 @@ The Generative UI framework
 
 ## 相关项目
 
-[[anomalyco-opencode]] [[stablyai-orca]] [[twentyhq-twenty]] [[supabase-supabase]]
+[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[stablyai-orca]] [[supabase-supabase]]
 

@@ -38,7 +38,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[ruvnet-ruflo]] [[oblien-openship]] [[luongnv89-claude-howto]]
+[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[xtool-org-xtool]] [[oblien-openship]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

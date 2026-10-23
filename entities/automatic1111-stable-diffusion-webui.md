@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]] [[ntdevlabs-tiny11builder]] [[trycua-cua]]
+[[openbmb-voxcpm]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[cathrynlavery-diagram-design]] [[ntdevlabs-tiny11builder]]
 
 **所属领域**: [[web]] [[image-gen]]
 

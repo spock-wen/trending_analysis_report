@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """
 GitHub Trending 周榜采集脚本
-每周日爬取 GitHub Trending ?since=weekly 页面，写入 weekly_trending 表。
+每周日爬取 GitHub Trending ?since=weekly 页面，写入 weekly_trending 表，
+并落 raw/trending-weekly/<week_start>.json（week_start=该周周一 YYYY-MM-DD）。
 
 用法：
-  python3 github_weekly_collector.py              # 正常采集
-  python3 github_weekly_collector.py --dry-run    # 只抓取解析，不写 DB
+  python3 github_weekly_collector.py              # 正常采集（DB + raw）
+  python3 github_weekly_collector.py --dry-run    # 只抓取解析，不写 DB/raw
 """
 
 import html as html_lib
@@ -42,6 +43,7 @@ PROXY = os.environ.get("GITHUB_TRENDING_PROXY", "http://127.0.0.1:7890")
 WEEKLY_URL = os.environ.get("GITHUB_WEEKLY_URL", "https://github.com/trending?since=weekly")
 WIKI_PATH = os.environ.get("GITHUB_TRENDING_WIKI_PATH", "/srv/www/github-trending-wiki")
 DB_PATH = os.path.join(WIKI_PATH, "data", "github_trending.db")
+RAW_DIR = os.path.join(WIKI_PATH, "raw", "trending-weekly")
 LOG_DIR = os.path.join(WIKI_PATH, "logs")
 MAX_RETRIES = int(os.environ.get("GITHUB_TRENDING_MAX_RETRIES", "3"))
 RETRY_DELAY = int(os.environ.get("GITHUB_TRENDING_RETRY_DELAY", "5"))
@@ -167,6 +169,15 @@ def parse_single_article(article, rank):
     lang_match = re.search(r'itemprop="programmingLanguage"[^>]*>([^<]+)<', article)
     language = lang_match.group(1).strip() if lang_match else ""
 
+    # 总 star 数（与日榜同一选择器）
+    star_match = re.search(
+        r'<a[^>]*href="/' + re.escape(repo_full_name) + r'/stargazers"[^>]*>.*?([0-9,]+)\s*</a>',
+        article, re.DOTALL
+    )
+    total_stars = 0
+    if star_match:
+        total_stars = int(star_match.group(1).replace(',', ''))
+
     # 本周 star 数（GitHub 周榜显示 "X stars this week"）
     weekly_match = re.search(r'([\d,]+)\s+stars?\s+this\s+week', article)
     weekly_stars = 0
@@ -178,9 +189,45 @@ def parse_single_article(article, rank):
         "repo": repo_full_name,
         "description": description,
         "language": language,
-        "weekly_stars": weekly_stars,
+        "stars_this_period": weekly_stars,
+        "weekly_stars": weekly_stars,  # DB 兼容字段
+        "total_stars": total_stars,
         "url": f"https://github.com/{repo_full_name}"
     }
+
+# ========== 写入 raw JSON ==========
+def projects_for_raw(projects):
+    """raw 契约字段：rank/repo/description/language/stars_this_period/total_stars/url"""
+    out = []
+    for p in projects:
+        out.append({
+            "rank": p["rank"],
+            "repo": p["repo"],
+            "description": p.get("description", ""),
+            "language": p.get("language", ""),
+            "stars_this_period": p.get("stars_this_period", p.get("weekly_stars", 0)),
+            "total_stars": p.get("total_stars", 0),
+            "url": p.get("url") or f"https://github.com/{p['repo']}",
+        })
+    return out
+
+def save_raw_json(projects, week_start, week_end):
+    """落 raw/trending-weekly/<week_start>.json；命名锁定 week_start=周一 YYYY-MM-DD"""
+    os.makedirs(RAW_DIR, exist_ok=True)
+    filepath = os.path.join(RAW_DIR, f"{week_start}.json")
+    data = {
+        "date": week_start,
+        "week_start": week_start,
+        "week_end": week_end,
+        "scraped_at": datetime.now().isoformat(),
+        "period": "weekly",
+        "count": len(projects),
+        "projects": projects_for_raw(projects),
+    }
+    with open(filepath, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    log.info(f"原始周榜已保存: {filepath}")
+    return filepath
 
 # ========== 写入 DB ==========
 def write_to_db(projects, week_start, week_end):
@@ -221,17 +268,18 @@ def main():
 
     if dry_run:
         print("\n=== DRY RUN ===")
-        print(json.dumps(projects, ensure_ascii=False, indent=2))
-        print(f"\n共 {len(projects)} 个项目，未写入 DB")
+        print(json.dumps(projects_for_raw(projects), ensure_ascii=False, indent=2))
+        print(f"\n共 {len(projects)} 个项目，未写入 DB/raw")
         return
 
     write_to_db(projects, week_start, week_end)
+    save_raw_json(projects, week_start, week_end)
 
     # 打印摘要
-    total_stars = sum(p["weekly_stars"] for p in projects)
-    print(f"\n周报采集完成: {len(projects)} 个项目, 总周 star: {total_stars:,}")
+    period_stars = sum(p.get("stars_this_period", p.get("weekly_stars", 0)) for p in projects)
+    print(f"\n周报采集完成: {len(projects)} 个项目, 总周 star: {period_stars:,}")
     for p in projects[:5]:
-        print(f"  #{p['rank']} {p['repo']} - +{p['weekly_stars']:,} stars [{p['language']}]")
+        print(f"  #{p['rank']} {p['repo']} - +{p.get('stars_this_period', p.get('weekly_stars', 0)):,} stars [{p['language']}]")
 
 if __name__ == '__main__':
     main()

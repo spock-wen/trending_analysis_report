@@ -25,7 +25,9 @@
 ├── .gitignore
 │
 ├── scripts/
-│   ├── github_trending_collector.py   # 采集脚本 v2
+│   ├── github_trending_collector.py   # 日榜采集 → raw/trending/
+│   ├── github_weekly_collector.py     # 周榜采集 → DB + raw/trending-weekly/
+│   ├── github_monthly_collector.py    # 月榜采集 → raw/trending-monthly/
 │   └── wiki_lint.py                   # Lint 健康检查脚本
 │
 ├── data/                        # SQLite 数据库（gitignore）
@@ -38,6 +40,10 @@
 │
 ├── raw/trending/                # 每日原始 JSON 快照（不可变）
 │   └── 2026-05-16.json
+├── raw/trending-weekly/         # 周榜 raw：<week_start YYYY-MM-DD>.json（周一）
+│   └── 2026-10-19.json
+├── raw/trending-monthly/        # 月榜 raw：YYYY-MM.json（GitHub ?since=monthly）
+│   └── 2026-10.json
 │
 ├── entities/                    # 项目 Wiki 页面
 │   ├── tinyhumansai-openhuman.md
@@ -67,6 +73,18 @@ python3 scripts/github_trending_collector.py
 - `data/github_trending.db` — SQLite 数据库更新
 
 加 `--dry-run` 只解析不写入。
+
+### 1b. 周榜 / 月榜 raw
+
+```bash
+python3 scripts/github_weekly_collector.py          # → raw/trending-weekly/<周一 YYYY-MM-DD>.json
+python3 scripts/github_monthly_collector.py         # → raw/trending-monthly/YYYY-MM.json
+```
+
+命名锁定：
+- **周**：文件名 = `week_start`（该周周一，`YYYY-MM-DD`）；顶层 `period=weekly`，项目字段用 `stars_this_period`（非 `stars_today`）
+- **月**：文件名 = 日历月 `YYYY-MM`；顶层 `period=monthly`，同样用 `stars_this_period`
+- 月榜 raw 只服务 GitHub monthly 榜同源；**不**替代 `wiki_daily.py --month-report` 叙事聚合
 
 ### 2. 运行 Lint 检查
 

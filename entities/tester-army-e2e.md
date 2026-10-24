@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[cathrynlavery-diagram-design]] [[renhuai123-ziwei-doushu]] [[hkuds-cli-anything]] [[openbmb-voxcpm]]
+[[openbmb-voxcpm]] [[makecindy-cindy]] [[trycua-cua]] [[hkuds-cli-anything]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]] [[image-gen]]
 

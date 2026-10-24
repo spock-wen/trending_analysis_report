@@ -34,7 +34,7 @@ Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[microsoft-bitnet]] [[anthropics-knowledge-work-plugins]]
+[[boykopovar-anyps5]] [[hkuds-cli-anything]] [[luongnv89-claude-howto]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

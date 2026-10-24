@@ -38,7 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]] [[cloudflare-security-audit-skill]] [[akitaonrails-ai-memory]]
+[[dietrichgebert-ponytail]] [[luongnv89-claude-howto]] [[graphify-labs-graphify]] [[nutlope-hallmark]] [[google-gemini-gemini-cli]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

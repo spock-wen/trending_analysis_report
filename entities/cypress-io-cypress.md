@@ -37,7 +37,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[cathrynlavery-diagram-design]] [[renhuai123-ziwei-doushu]] [[hkuds-cli-anything]] [[msitarzewski-agency-agents]]
+[[makecindy-cindy]] [[hkuds-cli-anything]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]] [[supabase-supabase]]
 
 **所属领域**: [[web]]
 

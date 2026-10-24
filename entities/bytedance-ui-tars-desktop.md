@@ -37,7 +37,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[xtool-org-xtool]] [[oblien-openship]]
+[[xtool-org-xtool]] [[makecindy-cindy]] [[oblien-openship]] [[luongnv89-claude-howto]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

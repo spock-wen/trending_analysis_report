@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[cs341-illinois-coursebook]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]]
+[[luongnv89-claude-howto]] [[nutlope-hallmark]] [[cs341-illinois-coursebook]] [[aws-agent-toolkit-for-aws]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

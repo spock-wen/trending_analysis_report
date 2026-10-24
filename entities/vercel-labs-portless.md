@@ -34,7 +34,7 @@ Replace port numbers with stable, named local URLs. For humans and agents.
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[openbmb-voxcpm]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[ntdevlabs-tiny11builder]]
+[[openbmb-voxcpm]] [[makecindy-cindy]] [[trycua-cua]] [[luongnv89-claude-howto]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

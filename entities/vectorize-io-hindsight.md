@@ -38,7 +38,7 @@ Hindsight: Agent Memory That Learns
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[anthropics-knowledge-work-plugins]]
+[[jbiaojerry-ebook-treasure-chest]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[fastapi-fastapi]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

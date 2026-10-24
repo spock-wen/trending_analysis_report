@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[strelov1-freehire]] [[snailsploit-claude-red]] [[alibaba-open-code-review]] [[graphify-labs-graphify]] [[akitaonrails-ai-memory]]
+[[nvidia-openshell]] [[graphify-labs-graphify]] [[google-gemini-gemini-cli]] [[alibaba-open-code-review]] [[strelov1-freehire]]
 
 **所属领域**: [[cli]]
 

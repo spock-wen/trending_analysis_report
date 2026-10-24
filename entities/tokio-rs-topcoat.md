@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[xerj-org-xerj]] [[rust-lang-rust]] [[msitarzewski-agency-agents]]
+[[hkuds-cli-anything]] [[msitarzewski-agency-agents]] [[akitaonrails-ai-memory]] [[nutlope-hallmark]] [[supabase-supabase]]
 
 **所属领域**: [[web]]
 

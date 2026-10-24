@@ -34,7 +34,7 @@ A living pixel-art station where real AI agents do real work. Local-first deskto
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]] [[dietrichgebert-ponytail]]
+[[dietrichgebert-ponytail]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[aws-agent-toolkit-for-aws]]
 
 **所属领域**: [[ai-agent]]
 

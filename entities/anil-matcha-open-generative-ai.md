@@ -38,7 +38,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[ntdevlabs-tiny11builder]] [[snailsploit-claude-red]] [[trycua-cua]] [[anthropics-knowledge-work-plugins]]
+[[openbmb-voxcpm]] [[dietrichgebert-ponytail]] [[trycua-cua]] [[luongnv89-claude-howto]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

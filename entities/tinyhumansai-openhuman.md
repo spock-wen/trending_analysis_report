@@ -38,7 +38,7 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[xerj-org-xerj]] [[rust-lang-rust]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
+[[k-dense-ai-scientific-agent-skills]] [[luongnv89-claude-howto]] [[akitaonrails-ai-memory]] [[nutlope-hallmark]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

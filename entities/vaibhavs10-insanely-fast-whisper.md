@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[snailsploit-claude-red]] [[higgsfield-ai-higgsfield]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
+[[lyogavin-airllm]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[microsoft-generative-ai-for-beginners]] [[aws-agent-toolkit-for-aws]]
 
 **所属领域**: [[ai-agent]]
 

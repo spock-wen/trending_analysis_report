@@ -35,7 +35,7 @@ Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[ntdevlabs-tiny11builder]] [[snailsploit-claude-red]] [[debpalash-voicestudio]] [[alishahryar1-free-claude-code]]
+[[hugohe3-ppt-master]] [[openbmb-voxcpm]] [[alishahryar1-free-claude-code]] [[jbiaojerry-ebook-treasure-chest]] [[trycua-cua]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

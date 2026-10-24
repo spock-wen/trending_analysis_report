@@ -38,7 +38,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]] [[cloudflare-security-audit-skill]]
+[[jbiaojerry-ebook-treasure-chest]] [[luongnv89-claude-howto]] [[paperclipai-paperclip]] [[nutlope-hallmark]] [[supabase-supabase]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

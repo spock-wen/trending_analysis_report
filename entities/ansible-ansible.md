@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[cathrynlavery-diagram-design]] [[xtool-org-xtool]]
+[[xtool-org-xtool]] [[jbiaojerry-ebook-treasure-chest]] [[hkuds-cli-anything]] [[oblien-openship]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

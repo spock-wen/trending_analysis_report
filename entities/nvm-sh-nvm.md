@@ -36,7 +36,7 @@ Node Version Manager - POSIX-compliant bash script to manage multiple active nod
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[obra-superpowers]] [[mattpocock-skills]] [[graphify-labs-graphify]] [[msitarzewski-agency-agents]]
+[[obra-superpowers]] [[msitarzewski-agency-agents]] [[graphify-labs-graphify]] [[mattpocock-skills]] [[nvidia-openshell]]
 
 **所属领域**: [[cli]]
 

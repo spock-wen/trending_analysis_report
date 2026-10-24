@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[manaflow-ai-cmux]] [[xtool-org-xtool]] [[graphify-labs-graphify]] [[akitaonrails-ai-memory]]
+[[xtool-org-xtool]] [[abue-ammar-tinycast]] [[graphify-labs-graphify]] [[manaflow-ai-cmux]] [[nvidia-openshell]]
 
 **所属领域**: [[cli]]
 

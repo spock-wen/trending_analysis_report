@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[xerj-org-xerj]] [[rust-lang-rust]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]]
+[[hugohe3-ppt-master]] [[obra-superpowers]] [[luongnv89-claude-howto]] [[akitaonrails-ai-memory]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

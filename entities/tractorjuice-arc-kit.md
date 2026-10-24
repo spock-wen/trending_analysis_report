@@ -34,7 +34,7 @@ Enterprise Architecture Governance & Vendor Procurement Toolkit
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[averygan-reclip]] [[obra-superpowers]] [[earthtojake-text-to-cad]]
+[[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[obra-superpowers]] [[pkuflyingpig-cs-self-learning]]
 
 **所属领域**: [[web]] [[erp]]
 

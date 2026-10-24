@@ -35,5 +35,5 @@ NVR with realtime local object detection for IP cameras
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[stablyai-orca]] [[supabase-supabase]]
+[[renhuai123-ziwei-doushu]] [[supabase-supabase]] [[makecindy-cindy]] [[google-gemini-gemini-cli]]
 

@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[xerj-org-xerj]] [[cloudflare-security-audit-skill]]
+[[makecindy-cindy]] [[xerj-org-xerj]] [[supabase-supabase]] [[cloudflare-security-audit-skill]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[security]]
 

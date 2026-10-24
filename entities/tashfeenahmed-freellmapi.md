@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[xerj-org-xerj]] [[anthropics-knowledge-work-plugins]]
+[[makecindy-cindy]] [[luongnv89-claude-howto]] [[xerj-org-xerj]] [[nutlope-hallmark]] [[supabase-supabase]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

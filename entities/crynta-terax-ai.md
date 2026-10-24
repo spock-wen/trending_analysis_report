@@ -34,7 +34,7 @@ Lightweight (7MB) Terminal-first AI-native dev workspace
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]]
+[[makecindy-cindy]] [[luongnv89-claude-howto]] [[graphify-labs-graphify]] [[nutlope-hallmark]] [[supabase-supabase]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

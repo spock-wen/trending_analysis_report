@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[xerj-org-xerj]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]]
+[[k-dense-ai-scientific-agent-skills]] [[jbiaojerry-ebook-treasure-chest]] [[luongnv89-claude-howto]] [[xerj-org-xerj]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

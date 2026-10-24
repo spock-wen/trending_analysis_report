@@ -34,7 +34,7 @@ qBittorrent BitTorrent client
 
 ## 相关项目
 
-[[m-abozaid-esp32-c3-adblock]] [[snailsploit-claude-red]] [[microsoft-bitnet]] [[graphify-labs-graphify]] [[akitaonrails-ai-memory]]
+[[boykopovar-anyps5]] [[microsoft-bitnet]] [[graphify-labs-graphify]] [[tensorflow-tensorflow]] [[snailsploit-claude-red]]
 
 **所属领域**: [[cli]]
 

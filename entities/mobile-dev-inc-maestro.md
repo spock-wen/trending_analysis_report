@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[mahlernim-google-timeline-visualizer]] [[anthropics-knowledge-work-plugins]]
+[[android-skills]] [[embabel-embabel-agent]] [[bannedbook-fanqiang]] [[hkuds-cli-anything]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

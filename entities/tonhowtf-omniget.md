@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[debpalash-voicestudio]] [[snailsploit-claude-red]] [[xerj-org-xerj]] [[rust-lang-rust]]
+[[hugohe3-ppt-master]] [[openbmb-voxcpm]] [[alishahryar1-free-claude-code]] [[mlabonne-llm-course]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

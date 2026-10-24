@@ -38,7 +38,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[averygan-reclip]] [[anthropics-knowledge-work-plugins]]
+[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[pkuflyingpig-cs-self-learning]] [[ripienaar-free-for-dev]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

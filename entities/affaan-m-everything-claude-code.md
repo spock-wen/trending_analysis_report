@@ -34,7 +34,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[xerj-org-xerj]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]]
+[[dietrichgebert-ponytail]] [[k-dense-ai-scientific-agent-skills]] [[luongnv89-claude-howto]] [[xerj-org-xerj]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

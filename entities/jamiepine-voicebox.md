@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[openbmb-voxcpm]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[debpalash-voicestudio]]
+[[hugohe3-ppt-master]] [[openbmb-voxcpm]] [[alishahryar1-free-claude-code]] [[makecindy-cindy]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

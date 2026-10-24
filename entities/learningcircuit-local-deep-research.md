@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[xerj-org-xerj]] [[mlabonne-llm-course]] [[fastapi-fastapi]]
+[[k-dense-ai-scientific-agent-skills]] [[jbiaojerry-ebook-treasure-chest]] [[mlabonne-llm-course]] [[luongnv89-claude-howto]] [[xerj-org-xerj]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[openbmb-voxcpm]] [[ntdevlabs-tiny11builder]] [[averygan-reclip]]
+[[openbmb-voxcpm]] [[cathrynlavery-diagram-design]] [[trycua-cua]] [[hkuds-cli-anything]] [[pkuflyingpig-cs-self-learning]]
 
 **所属领域**: [[web]] [[image-gen]]
 

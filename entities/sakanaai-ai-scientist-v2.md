@@ -35,7 +35,7 @@ The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[earthtojake-text-to-cad]]
+[[hugohe3-ppt-master]] [[k-dense-ai-scientific-agent-skills]] [[jbiaojerry-ebook-treasure-chest]] [[obra-superpowers]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

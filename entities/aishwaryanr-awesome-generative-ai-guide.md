@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[averygan-reclip]] [[anthropics-knowledge-work-plugins]]
+[[cathrynlavery-diagram-design]] [[k-dense-ai-scientific-agent-skills]] [[hkuds-cli-anything]] [[pkuflyingpig-cs-self-learning]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

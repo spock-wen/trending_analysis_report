@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[strelov1-freehire]] [[hkuds-cli-anything]] [[alibaba-open-code-review]] [[snailsploit-claude-red]]
+[[nvidia-openshell]] [[hkuds-cli-anything]] [[msitarzewski-agency-agents]] [[graphify-labs-graphify]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]] [[cli]]
 

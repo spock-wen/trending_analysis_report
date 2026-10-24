@@ -36,5 +36,5 @@ Unofficial Bitwarden compatible server written in Rust, formerly known as bitwar
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[nvidia-openshell]] [[xerj-org-xerj]] [[rust-lang-rust]]
+[[pbakaus-impeccable]] [[nvidia-openshell]] [[pollen-robotics-microduck]] [[akitaonrails-ai-memory]]
 

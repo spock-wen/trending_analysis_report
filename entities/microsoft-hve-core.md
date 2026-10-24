@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[bwya77-vscode-dark-islands]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]] [[cloudflare-security-audit-skill]]
+[[nvidia-openshell]] [[luongnv89-claude-howto]] [[graphify-labs-graphify]] [[nutlope-hallmark]] [[google-gemini-gemini-cli]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

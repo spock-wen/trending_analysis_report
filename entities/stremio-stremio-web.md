@@ -35,7 +35,7 @@ Stremio - Freedom to Stream
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[cloudflare-security-audit-skill]] [[msitarzewski-agency-agents]] [[supabase-supabase]]
+[[dietrichgebert-ponytail]] [[hkuds-cli-anything]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]] [[supabase-supabase]]
 
 **所属领域**: [[web]]
 

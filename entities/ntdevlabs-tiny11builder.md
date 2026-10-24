@@ -34,7 +34,7 @@ WinUI app for building smaller, customized Windows 11 images.
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[dotnet-aspnetcore]] [[trycua-cua]] [[k1tbyte-wand-enhancer]] [[sonarr-sonarr]]
+[[openbmb-voxcpm]] [[trycua-cua]] [[dotnet-aspnetcore]] [[comfy-org-comfyui]] [[sonarr-sonarr]]
 
 **所属领域**: [[image-gen]]
 

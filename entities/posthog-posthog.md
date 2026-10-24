@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[cathrynlavery-diagram-design]] [[xtool-org-xtool]]
+[[xtool-org-xtool]] [[k-dense-ai-scientific-agent-skills]] [[jbiaojerry-ebook-treasure-chest]] [[hkuds-cli-anything]] [[oblien-openship]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

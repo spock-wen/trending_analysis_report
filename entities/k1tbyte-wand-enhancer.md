@@ -35,5 +35,5 @@ Advanced UX and interoperability extension for Wand (WeMod) app
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[dotnet-aspnetcore]] [[sonarr-sonarr]]
+[[dotnet-aspnetcore]] [[sonarr-sonarr]] [[ntdevlabs-tiny11builder]]
 

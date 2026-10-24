@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[openbmb-voxcpm]] [[ntdevlabs-tiny11builder]]
+[[openbmb-voxcpm]] [[diolinux-photogimp]] [[trycua-cua]] [[hkuds-cli-anything]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

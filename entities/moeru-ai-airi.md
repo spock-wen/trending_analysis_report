@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[cathrynlavery-diagram-design]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[hkuds-cli-anything]]
+[[hugohe3-ppt-master]] [[openbmb-voxcpm]] [[alishahryar1-free-claude-code]] [[makecindy-cindy]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

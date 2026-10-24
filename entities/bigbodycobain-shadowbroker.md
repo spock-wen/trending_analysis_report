@@ -35,7 +35,7 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]] [[cloudflare-security-audit-skill]]
+[[k-dense-ai-scientific-agent-skills]] [[jbiaojerry-ebook-treasure-chest]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[supabase-supabase]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

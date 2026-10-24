@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[strelov1-freehire]] [[snailsploit-claude-red]] [[alibaba-open-code-review]] [[xerj-org-xerj]] [[xtool-org-xtool]]
+[[xtool-org-xtool]] [[oblien-openship]] [[xerj-org-xerj]] [[alibaba-open-code-review]] [[getsentry-sentry]]
 
 **所属领域**: [[devops]] [[security]]
 

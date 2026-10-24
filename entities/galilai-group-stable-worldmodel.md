@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[ntdevlabs-tiny11builder]] [[snailsploit-claude-red]] [[trycua-cua]] [[anthropics-knowledge-work-plugins]]
+[[openbmb-voxcpm]] [[k-dense-ai-scientific-agent-skills]] [[jbiaojerry-ebook-treasure-chest]] [[trycua-cua]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

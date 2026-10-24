@@ -37,7 +37,7 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[mahlernim-google-timeline-visualizer]] [[anthropics-knowledge-work-plugins]] [[embabel-embabel-agent]] [[bannedbook-fanqiang]]
+[[android-skills]] [[embabel-embabel-agent]] [[bannedbook-fanqiang]] [[luongnv89-claude-howto]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]]
 

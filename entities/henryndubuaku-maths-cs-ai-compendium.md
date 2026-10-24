@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
+[[k-dense-ai-scientific-agent-skills]] [[makecindy-cindy]] [[luongnv89-claude-howto]] [[paperclipai-paperclip]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

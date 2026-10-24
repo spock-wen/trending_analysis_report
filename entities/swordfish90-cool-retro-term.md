@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[nvidia-openshell]] [[snailsploit-claude-red]] [[graphify-labs-graphify]]
+[[nvidia-openshell]] [[snailsploit-claude-red]] [[graphify-labs-graphify]] [[google-gemini-gemini-cli]]
 
 **所属领域**: [[cli]]
 

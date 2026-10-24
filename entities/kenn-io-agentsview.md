@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[strelov1-freehire]] [[snailsploit-claude-red]] [[alibaba-open-code-review]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]]
+[[k-dense-ai-scientific-agent-skills]] [[luongnv89-claude-howto]] [[graphify-labs-graphify]] [[nutlope-hallmark]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

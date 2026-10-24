@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]] [[cloudflare-security-audit-skill]] [[akitaonrails-ai-memory]]
+[[luongnv89-claude-howto]] [[graphify-labs-graphify]] [[nutlope-hallmark]] [[aws-agent-toolkit-for-aws]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

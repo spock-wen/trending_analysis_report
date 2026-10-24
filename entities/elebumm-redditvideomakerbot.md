@@ -35,7 +35,7 @@ Create Reddit Videos with just✨ one command ✨
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]] [[akitaonrails-ai-memory]]
+[[jbiaojerry-ebook-treasure-chest]] [[luongnv89-claude-howto]] [[graphify-labs-graphify]] [[aws-agent-toolkit-for-aws]] [[nvidia-openshell]]
 
 **所属领域**: [[cli]]
 

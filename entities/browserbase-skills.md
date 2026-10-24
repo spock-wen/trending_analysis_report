@@ -38,7 +38,7 @@ Claude Agent SDK with a web browsing tool
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
+[[dietrichgebert-ponytail]] [[hkuds-cli-anything]] [[luongnv89-claude-howto]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

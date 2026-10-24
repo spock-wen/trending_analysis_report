@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[xtool-org-xtool]] [[supabase-supabase]] [[stablyai-orca]]
+[[xtool-org-xtool]] [[makecindy-cindy]] [[supabase-supabase]] [[getsentry-sentry]] [[ruvnet-ruflo]]
 
 **所属领域**: [[devops]]
 

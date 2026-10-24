@@ -34,7 +34,7 @@ The easiest, most secure way to use WireGuard and 2FA.
 
 ## 相关项目
 
-[[strelov1-freehire]] [[snailsploit-claude-red]] [[alibaba-open-code-review]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
+[[luongnv89-claude-howto]] [[nutlope-hallmark]] [[alibaba-open-code-review]] [[aws-agent-toolkit-for-aws]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

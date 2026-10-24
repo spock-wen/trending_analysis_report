@@ -38,7 +38,7 @@ Open source repository of plugins primarily intended for knowledge workers to us
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]] [[luongnv89-claude-howto]]
+[[jbiaojerry-ebook-treasure-chest]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[aws-agent-toolkit-for-aws]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

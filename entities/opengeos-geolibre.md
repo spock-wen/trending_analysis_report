@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[cathrynlavery-diagram-design]] [[renhuai123-ziwei-doushu]] [[hkuds-cli-anything]] [[snailsploit-claude-red]]
+[[k-dense-ai-scientific-agent-skills]] [[makecindy-cindy]] [[hkuds-cli-anything]] [[msitarzewski-agency-agents]] [[graphify-labs-graphify]]
 
 **所属领域**: [[web]] [[data]]
 

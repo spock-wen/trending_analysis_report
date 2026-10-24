@@ -34,7 +34,7 @@ AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]]
+[[k-dense-ai-scientific-agent-skills]] [[makecindy-cindy]] [[luongnv89-claude-howto]] [[graphify-labs-graphify]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

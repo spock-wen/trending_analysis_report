@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[xtool-org-xtool]] [[oblien-openship]] [[anthropics-knowledge-work-plugins]]
+[[xtool-org-xtool]] [[jbiaojerry-ebook-treasure-chest]] [[oblien-openship]] [[luongnv89-claude-howto]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

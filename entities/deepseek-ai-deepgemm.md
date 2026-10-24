@@ -35,7 +35,7 @@ DeepGEMM: clean and efficient BLAS kernel library on GPU
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]] [[deepseek-ai-deepep]]
+[[deepseek-ai-deepep]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[moonshotai-flashkda]] [[aws-agent-toolkit-for-aws]]
 
 **所属领域**: [[ai-agent]]
 

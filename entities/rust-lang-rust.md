@@ -34,5 +34,5 @@ Empowering everyone to build reliable and efficient software.
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[nvidia-openshell]] [[xerj-org-xerj]]
+[[pbakaus-impeccable]] [[nvidia-openshell]] [[pollen-robotics-microduck]] [[akitaonrails-ai-memory]]
 

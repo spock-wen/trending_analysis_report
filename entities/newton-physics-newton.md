@@ -36,7 +36,7 @@ An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]]
+[[k-dense-ai-scientific-agent-skills]] [[jbiaojerry-ebook-treasure-chest]] [[luongnv89-claude-howto]] [[paperclipai-paperclip]] [[aws-agent-toolkit-for-aws]]
 
 **所属领域**: [[science]]
 

@@ -34,7 +34,7 @@ PowerShell for every system!
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[snailsploit-claude-red]] [[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]] [[graphify-labs-graphify]]
+[[graphify-labs-graphify]] [[google-gemini-gemini-cli]] [[snailsploit-claude-red]] [[dotnet-aspnetcore]] [[nvidia-openshell]]
 
 **所属领域**: [[cli]]
 

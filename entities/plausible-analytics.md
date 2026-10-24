@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[xerj-org-xerj]]
+[[k-dense-ai-scientific-agent-skills]] [[hkuds-cli-anything]] [[msitarzewski-agency-agents]] [[graphify-labs-graphify]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[bwya77-vscode-dark-islands]] [[openbmb-voxcpm]] [[snailsploit-claude-red]] [[ntdevlabs-tiny11builder]] [[trycua-cua]]
+[[openbmb-voxcpm]] [[trycua-cua]] [[nvidia-openshell]] [[graphify-labs-graphify]] [[raphire-win11debloat]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

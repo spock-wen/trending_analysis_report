@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[supabase-supabase]]
+[[makecindy-cindy]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[supabase-supabase]] [[aws-agent-toolkit-for-aws]]
 
 **所属领域**: [[ai-agent]]
 

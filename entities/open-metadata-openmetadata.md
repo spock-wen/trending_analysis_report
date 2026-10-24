@@ -34,7 +34,7 @@ OpenMetadata is a unified metadata platform for data discovery, data observabili
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[xtool-org-xtool]] [[oblien-openship]]
+[[xtool-org-xtool]] [[k-dense-ai-scientific-agent-skills]] [[makecindy-cindy]] [[oblien-openship]] [[graphify-labs-graphify]]
 
 **所属领域**: [[data]] [[devops]]
 

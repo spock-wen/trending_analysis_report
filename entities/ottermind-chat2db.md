@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[nationalsecurityagency-ghidra]] [[google-guava]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]]
+[[k-dense-ai-scientific-agent-skills]] [[google-guava]] [[yuliskov-smarttube]] [[checkstyle-checkstyle]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

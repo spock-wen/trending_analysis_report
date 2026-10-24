@@ -35,7 +35,7 @@ Switchyard lets LLM applications route traffic across models and providers while
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[xerj-org-xerj]] [[rust-lang-rust]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
+[[luongnv89-claude-howto]] [[akitaonrails-ai-memory]] [[nutlope-hallmark]] [[aws-agent-toolkit-for-aws]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

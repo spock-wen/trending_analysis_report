@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[anthropics-knowledge-work-plugins]]
+[[jbiaojerry-ebook-treasure-chest]] [[luongnv89-claude-howto]] [[fastapi-fastapi]] [[ruvnet-ruflo]] [[aws-agent-toolkit-for-aws]]
 
 **所属领域**: [[education]]
 

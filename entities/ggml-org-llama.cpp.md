@@ -34,7 +34,7 @@ LLM inference in C/C++
 
 ## 相关项目
 
-[[m-abozaid-esp32-c3-adblock]] [[snailsploit-claude-red]] [[microsoft-bitnet]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
+[[boykopovar-anyps5]] [[microsoft-bitnet]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[xtool-org-xtool]] [[oblien-openship]] [[anthropics-knowledge-work-plugins]]
+[[xtool-org-xtool]] [[jbiaojerry-ebook-treasure-chest]] [[oblien-openship]] [[luongnv89-claude-howto]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

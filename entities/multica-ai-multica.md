@@ -38,7 +38,7 @@ The open-source managed agents platform. Turn coding agents into real teammates 
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
+[[makecindy-cindy]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[supabase-supabase]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[ai-agent]]
 

@@ -1,20 +1,20 @@
 ---
 title: "luongnv89/claude-howto"
 created: 2026-06-09
-updated: 2026-10-23
-last_active: 2026-10-23
+updated: 2026-10-25
+last_active: 2026-10-25
 type: tool
 tags: [python, ai-agent]
-sources: [raw/trending/2026-10-23.json]
+sources: [raw/trending/2026-10-25.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-09
-last_trending: 2026-10-23
-peak_rank: 8
-total_stars: 43143
+last_trending: 2026-10-25
+peak_rank: 5
+total_stars: 44511
 language: "Python"
 ---
 
@@ -23,13 +23,14 @@ language: "Python"
 A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
 - 语言: Python
-- 上榜次数: 4 次
+- 上榜次数: 5 次
 - 连续上榜: 1 天
-- 最高排名: #8
+- 最高排名: #5
 - 链接: [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
 
 ## 上榜历史
 
+  - 2026-10-25: #5, +442⭐
   - 2026-10-23: #8, +370⭐
   - 2026-06-28: #15, +138⭐
   - 2026-06-11: #11, +204⭐
@@ -37,7 +38,7 @@ A visual, example-driven guide to Claude Code — from basic concepts to advance
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]]
+[[jbiaojerry-ebook-treasure-chest]] [[nutlope-hallmark]] [[aws-agent-toolkit-for-aws]] [[pbakaus-impeccable]] [[anthropics-knowledge-work-plugins]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,5 +35,5 @@ Deepfakes Software For All
 
 ## 相关项目
 
-[[luongnv89-claude-howto]] [[openbmb-voxcpm]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]]
+[[anthropics-knowledge-work-plugins]] [[luongnv89-claude-howto]] [[jbiaojerry-ebook-treasure-chest]] [[aws-agent-toolkit-for-aws]]
 

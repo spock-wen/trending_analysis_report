@@ -35,7 +35,7 @@ Code for Machine Learning for Algorithmic Trading, 2nd edition.
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[mlabonne-llm-course]] [[higgsfield-ai-higgsfield]] [[fastapi-fastapi]] [[ruvnet-ruflo]]
+[[microsoft-generative-ai-for-beginners]] [[fastapi-fastapi]] [[ruvnet-ruflo]] [[huggingface-transformers]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[education]]
 

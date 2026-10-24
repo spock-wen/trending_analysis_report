@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[mahlernim-google-timeline-visualizer]] [[anthropics-knowledge-work-plugins]] [[embabel-embabel-agent]] [[bannedbook-fanqiang]]
+[[android-skills]] [[embabel-embabel-agent]] [[bannedbook-fanqiang]] [[luongnv89-claude-howto]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]]
 

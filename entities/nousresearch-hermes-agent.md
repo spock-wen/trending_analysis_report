@@ -38,7 +38,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]]
+[[k-dense-ai-scientific-agent-skills]] [[jbiaojerry-ebook-treasure-chest]] [[luongnv89-claude-howto]] [[paperclipai-paperclip]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

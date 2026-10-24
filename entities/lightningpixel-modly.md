@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[openbmb-voxcpm]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[ntdevlabs-tiny11builder]]
+[[openbmb-voxcpm]] [[makecindy-cindy]] [[trycua-cua]] [[luongnv89-claude-howto]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[huggingface-transformers]] [[microsoft-generative-ai-for-beginners]]
+[[getsentry-sentry]] [[ruvnet-ruflo]] [[higgsfield-ai-higgsfield]] [[mlabonne-llm-course]] [[microsoft-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

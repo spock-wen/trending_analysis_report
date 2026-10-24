@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[xerj-org-xerj]] [[rust-lang-rust]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]]
+[[k-dense-ai-scientific-agent-skills]] [[luongnv89-claude-howto]] [[akitaonrails-ai-memory]] [[nutlope-hallmark]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

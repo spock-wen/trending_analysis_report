@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[mahlernim-google-timeline-visualizer]] [[anthropics-knowledge-work-plugins]] [[bannedbook-fanqiang]] [[cloudflare-security-audit-skill]]
+[[android-skills]] [[bannedbook-fanqiang]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[aws-agent-toolkit-for-aws]]
 
 **所属领域**: [[ai-agent]]
 

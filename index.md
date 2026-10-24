@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-24 | 总页面：834
+> 最后更新：2026-10-25 | 总页面：838
 
 ## Entities
 
@@ -99,7 +99,7 @@
 - [[automatic1111-stable-diffusion-webui|stable-diffusion-webui]] — Stable Diffusion web UI
 - [[automattic-harper|harper]] — Offline, privacy-first grammar checker. Fast, open-source, R... 🔥
 - [[averygan-reclip|reclip]] — Download videos from almost any website. Lightweight, self-h...
-- [[aws-agent-toolkit-for-aws|agent-toolkit-for-aws]] — Official, AWS-supported MCP servers, skills, and plugins to ... 🆕
+- [[aws-agent-toolkit-for-aws|agent-toolkit-for-aws]] — Official, AWS-supported MCP servers, skills, and plugins to ...
 - [[awslabs-aidlc-workflows|aidlc-workflows]] — AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rul...
 - [[axorax-awesome-free-apps|awesome-free-apps]] — Curated list of the best free apps for PC and mobile 🔥
 - [[ayghri-i-have-adhd|i-have-adhd]] — A skill to stop your coding agent from burying the answer. A... 🆕
@@ -298,6 +298,7 @@
 - [[google-ai-edge-litert|LiteRT]] — LiteRT, successor to TensorFlow Lite. is Google's On-device ... 🆕
 - [[google-ax|ax]] — Google's open agentic orchestration runtime 🔥
 - [[google-deepmind-weathernext|weathernext]] — No description 🆕
+- [[google-gemini-gemini-cli|gemini-cli]] — An open-source AI agent that brings the power of Gemini dire... 🆕
 - [[google-googletest|googletest]] — GoogleTest - Google Testing and Mocking Framework 🔥
 - [[google-guava|guava]] — Google core libraries for Java 🔥
 - [[google-labs-code-stitch-skills|stitch-skills]] — A library of Agent Skills designed to work with the Stitch M... 🆕
@@ -375,6 +376,7 @@
 - [[jarrodwatts-claude-hud|claude-hud]] — A Claude Code plugin that shows what's happening - context u...
 - [[jaywcjlove-awesome-mac|awesome-mac]] —  This project is dedicated to collecting high-quality macOS...
 - [[jbeder-yaml-cpp|yaml-cpp]] — A YAML parser and emitter in C++
+- [[jbiaojerry-ebook-treasure-chest|ebook-treasure-chest]] — 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术... 🆕
 - [[jcodesmore-ai-website-cloner-template|ai-website-cloner-template]] — Clone any website with one command using AI coding agents 🔥
 - [[jdx-mise|mise]] — dev tools, env vars, task runner
 - [[jellyfin-jellyfin|jellyfin]] — The Free Software Media System - Server Backend & API
@@ -456,6 +458,7 @@
 - [[mahlernim-google-timeline-visualizer|google-timeline-visualizer]] — Visualize your year in travel using your Google Location His... 🔥
 - [[majd-ipatool|ipatool]] — Command-line tool that allows searching and downloading app ... 🆕
 - [[makazhanalpamys-soup|Soup]] — Fine-tune LLMs from one YAML. Layer streaming trains an 8B m...
+- [[makecindy-cindy|cindy]] — Consider it done. The open-source AI agent that works out of... 🆕
 - [[makeplane-plane|plane]] — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternativ...
 - [[malisper-pgrust|pgrust]] — Postgres rewritten in Rust, now passing 100% of the Postgres... 🆕
 - [[manaflow-ai-cmux|cmux]] — Open source Ghostty-based macOS terminal with vertical tabs ...
@@ -530,17 +533,17 @@
 - [[newton-physics-newton|newton]] — An open-source, GPU-accelerated physics simulation engine bu...
 - [[nicobailon-pi-subagents|pi-subagents]] — Pi extension for async subagent delegation with truncation, ...
 - [[nirdiamant-agents-towards-production|agents-towards-production]] — End-to-end, code-first tutorials for building production-gra...
-- [[nodejs-node|node]] — Node.js JavaScript runtime ✨🐢🚀✨ 🆕
+- [[nodejs-node|node]] — Node.js JavaScript runtime ✨🐢🚀✨
 - [[nomadamas-k-skill|k-skill]] — 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로 🆕
 - [[nousresearch-hermes-agent|hermes-agent]] — The agent that grows with you 🔥
 - [[ntdevlabs-tiny11builder|tiny11builder]] — WinUI app for building smaller, customized Windows 11 images...
-- [[nutlope-hallmark|hallmark]] — Anti-AI-slop design skill for Claude Code, Cursor, and Codex... 🔥
+- [[nutlope-hallmark|hallmark]] — Anti-AI-slop design skill for Claude Code, Cursor, and Codex...
 - [[nuxt-nuxt|nuxt]] — the full-stack Vue framework
 - [[nvidia-ai-blueprints-video-search-and-summarization|video-search-and-summarization]] — Suite of reference architectures for building GPU-accelerate... 🆕
 - [[nvidia-cosmos|cosmos]] — NVIDIA Cosmos is an open platform of world models, datasets,... 🆕
 - [[nvidia-model-optimizer|Model-Optimizer]] — A unified library of SOTA model optimization techniques like... 🔥
 - [[nvidia-nemo-switchyard|Switchyard]] — Switchyard lets LLM applications route traffic across models... 🆕
-- [[nvidia-openshell|OpenShell]] — OpenShell is the safe, private runtime for autonomous AI age...
+- [[nvidia-openshell|OpenShell]] — OpenShell is the safe, private runtime for autonomous AI age... 🆕
 - [[nvidia-personaplex|personaplex]] — PersonaPlex code. 🆕
 - [[nvidia-skillspector|SkillSpector]] — Security scanner for AI agent skills. Detect vulnerabilities... 🔥
 - [[nvlabs-sana|Sana]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
@@ -606,6 +609,7 @@
 - [[pkuflyingpig-cs-self-learning|cs-self-learning]] — 计算机自学指南
 - [[plausible-analytics|analytics]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
 - [[playcanvas-supersplat|supersplat]] — 3D Gaussian Splat Editor
+- [[pollen-robotics-microduck|microduck]] — A Tiny biped duck robot 🦆 🆕
 - [[posthog-posthog|posthog]] — 🦔 PostHog is the leading platform for building self-driving ...
 - [[powershell-powershell|PowerShell]] — PowerShell for every system!
 - [[pppscn-smsforwarder|SmsForwarder]] — 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内...
@@ -633,7 +637,7 @@
 - [[rasbt-llms-from-scratch|LLMs-from-scratch]] — Implement a ChatGPT-like LLM in PyTorch from scratch, step b... 🔥
 - [[reconurge-flowsint|flowsint]] — A modern platform for visual, flexible, and extensible graph...
 - [[refactoringhq-tolaria|tolaria]] — Desktop app to manage markdown knowledge bases
-- [[renhuai123-ziwei-doushu|ziwei-doushu]] — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 🆕
+- [[renhuai123-ziwei-doushu|ziwei-doushu]] — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
 - [[restic-restic|restic]] — Fast, secure, efficient backup program
 - [[revfactory-harness|harness]] — A meta-skill that designs domain-specific agent teams, defin... 🆕
 - [[ripienaar-free-for-dev|free-for-dev]] — A list of SaaS, PaaS and IaaS offerings that have free tiers...

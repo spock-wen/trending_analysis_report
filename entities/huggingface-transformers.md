@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[debpalash-voicestudio]] [[snailsploit-claude-red]] [[mlabonne-llm-course]] [[alishahryar1-free-claude-code]]
+[[hugohe3-ppt-master]] [[openbmb-voxcpm]] [[alishahryar1-free-claude-code]] [[jbiaojerry-ebook-treasure-chest]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[chen08209-flclash]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]]
+[[flutter-flutter]] [[localsend-localsend]] [[chen08209-flclash]] [[luongnv89-claude-howto]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Reverse engineer anything with agents, from app behavior down to native binaries
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
+[[makecindy-cindy]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[supabase-supabase]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[xerj-org-xerj]] [[rust-lang-rust]]
+[[k-dense-ai-scientific-agent-skills]] [[hkuds-cli-anything]] [[luongnv89-claude-howto]] [[akitaonrails-ai-memory]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

@@ -34,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[snailsploit-claude-red]] [[xerj-org-xerj]] [[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]]
+[[xerj-org-xerj]] [[cloudflare-security-audit-skill]] [[snailsploit-claude-red]] [[dotnet-aspnetcore]] [[sonarr-sonarr]]
 
 **所属领域**: [[security]]
 

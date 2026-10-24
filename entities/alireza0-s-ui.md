@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[strelov1-freehire]] [[hkuds-cli-anything]] [[alibaba-open-code-review]] [[msitarzewski-agency-agents]]
+[[hkuds-cli-anything]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]] [[alibaba-open-code-review]] [[supabase-supabase]]
 
 **所属领域**: [[web]]
 

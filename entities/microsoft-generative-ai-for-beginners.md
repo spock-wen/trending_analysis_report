@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[snailsploit-claude-red]] [[mlabonne-llm-course]] [[higgsfield-ai-higgsfield]] [[fastapi-fastapi]]
+[[lyogavin-airllm]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[fastapi-fastapi]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

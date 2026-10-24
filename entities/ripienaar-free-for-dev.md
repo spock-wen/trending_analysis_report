@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[ruvnet-ruflo]] [[xtool-org-xtool]] [[oblien-openship]]
+[[xtool-org-xtool]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[oblien-openship]] [[pkuflyingpig-cs-self-learning]]
 
 **所属领域**: [[web]] [[devops]]
 

@@ -34,7 +34,7 @@ Get your documents ready for gen AI
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]] [[cloudflare-security-audit-skill]]
+[[jbiaojerry-ebook-treasure-chest]] [[luongnv89-claude-howto]] [[graphify-labs-graphify]] [[nutlope-hallmark]] [[aws-agent-toolkit-for-aws]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

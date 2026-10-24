@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[graphify-labs-graphify]] [[cloudflare-security-audit-skill]]
+[[dietrichgebert-ponytail]] [[k-dense-ai-scientific-agent-skills]] [[supabase-supabase]] [[fastapi-fastapi]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[data]] [[education]]
 

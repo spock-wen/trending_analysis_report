@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[snailsploit-claude-red]] [[plausible-analytics]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
+[[luongnv89-claude-howto]] [[teslamate-org-teslamate]] [[nutlope-hallmark]] [[plausible-analytics]] [[aws-agent-toolkit-for-aws]]
 
 **所属领域**: [[ai-agent]]
 

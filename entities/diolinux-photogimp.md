@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[obra-superpowers]] [[earthtojake-text-to-cad]] [[php-php-src]]
+[[hugohe3-ppt-master]] [[hkuds-cli-anything]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]] [[erp]]
 

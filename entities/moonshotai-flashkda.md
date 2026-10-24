@@ -34,7 +34,7 @@ FlashKDA: high-performance Kimi Delta Attention kernels
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[deepseek-ai-deepgemm]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]]
+[[deepseek-ai-deepgemm]] [[deepseek-ai-deepep]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[aws-agent-toolkit-for-aws]]
 
 **所属领域**: [[ai-agent]]
 

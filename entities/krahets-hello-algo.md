@@ -35,5 +35,5 @@ language: "Java"
 
 ## 相关项目
 
-[[google-guava]] [[yuliskov-smarttube]] [[checkstyle-checkstyle]] [[nationalsecurityagency-ghidra]]
+[[yuliskov-smarttube]] [[checkstyle-checkstyle]] [[google-guava]] [[nationalsecurityagency-ghidra]]
 

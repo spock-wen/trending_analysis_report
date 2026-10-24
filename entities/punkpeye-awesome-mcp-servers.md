@@ -34,7 +34,7 @@ A collection of MCP servers.
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[nvidia-openshell]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]]
+[[pbakaus-impeccable]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[aws-agent-toolkit-for-aws]]
 
 **所属领域**: [[ai-agent]]
 

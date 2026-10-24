@@ -36,7 +36,7 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]]
+[[dietrichgebert-ponytail]] [[k-dense-ai-scientific-agent-skills]] [[luongnv89-claude-howto]] [[graphify-labs-graphify]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

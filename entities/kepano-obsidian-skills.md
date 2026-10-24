@@ -35,7 +35,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]]
+[[luongnv89-claude-howto]] [[graphify-labs-graphify]] [[nutlope-hallmark]] [[fastapi-fastapi]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

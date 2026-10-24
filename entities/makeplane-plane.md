@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[graphify-labs-graphify]] [[akitaonrails-ai-memory]]
+[[makecindy-cindy]] [[graphify-labs-graphify]] [[supabase-supabase]] [[renhuai123-ziwei-doushu]] [[nvidia-openshell]]
 
 **所属领域**: [[cli]]
 

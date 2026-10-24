@@ -34,7 +34,7 @@ Course to get into Large Language Models (LLMs) with roadmaps and Colab notebook
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[fastapi-fastapi]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]] [[huggingface-transformers]]
+[[luongnv89-claude-howto]] [[nutlope-hallmark]] [[fastapi-fastapi]] [[ruvnet-ruflo]] [[aws-agent-toolkit-for-aws]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

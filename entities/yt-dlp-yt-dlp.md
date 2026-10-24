@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[debpalash-voicestudio]] [[snailsploit-claude-red]] [[alishahryar1-free-claude-code]] [[anthropics-knowledge-work-plugins]]
+[[hugohe3-ppt-master]] [[openbmb-voxcpm]] [[alishahryar1-free-claude-code]] [[jbiaojerry-ebook-treasure-chest]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[cli]] [[audio]]
 

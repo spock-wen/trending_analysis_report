@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[openbmb-voxcpm]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[ntdevlabs-tiny11builder]]
+[[openbmb-voxcpm]] [[k-dense-ai-scientific-agent-skills]] [[makecindy-cindy]] [[trycua-cua]] [[graphify-labs-graphify]]
 
 **所属领域**: [[data]] [[image-gen]]
 

@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[xerj-org-xerj]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
+[[jbiaojerry-ebook-treasure-chest]] [[luongnv89-claude-howto]] [[xerj-org-xerj]] [[cloudflare-security-audit-skill]] [[aws-agent-toolkit-for-aws]]
 
 **所属领域**: [[security]]
 

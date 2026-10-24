@@ -36,7 +36,7 @@ RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine tha
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[strelov1-freehire]] [[snailsploit-claude-red]] [[alibaba-open-code-review]] [[ntdevlabs-tiny11builder]]
+[[openbmb-voxcpm]] [[trycua-cua]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

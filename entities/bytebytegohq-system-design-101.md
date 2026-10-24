@@ -35,7 +35,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[nvidia-openshell]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]]
+[[pbakaus-impeccable]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[aws-agent-toolkit-for-aws]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[nvm-sh-nvm]] [[obra-superpowers]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[luongnv89-claude-howto]] [[graphify-labs-graphify]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

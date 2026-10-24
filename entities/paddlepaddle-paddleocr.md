@@ -37,7 +37,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[ntdevlabs-tiny11builder]] [[snailsploit-claude-red]] [[trycua-cua]] [[anthropics-knowledge-work-plugins]]
+[[openbmb-voxcpm]] [[k-dense-ai-scientific-agent-skills]] [[jbiaojerry-ebook-treasure-chest]] [[trycua-cua]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[rust-lang-rust]] [[xtool-org-xtool]] [[oblien-openship]] [[akitaonrails-ai-memory]]
+[[xtool-org-xtool]] [[oblien-openship]] [[akitaonrails-ai-memory]] [[getsentry-sentry]] [[ruvnet-ruflo]]
 
 **所属领域**: [[devops]]
 

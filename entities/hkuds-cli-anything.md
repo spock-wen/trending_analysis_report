@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[cathrynlavery-diagram-design]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[graphify-labs-graphify]]
+[[jbiaojerry-ebook-treasure-chest]] [[luongnv89-claude-howto]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

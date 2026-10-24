@@ -34,7 +34,7 @@ IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your mach
 
 ## 相关项目
 
-[[twentyhq-twenty]] [[renhuai123-ziwei-doushu]] [[snailsploit-claude-red]] [[anthropics-knowledge-work-plugins]] [[cloudflare-security-audit-skill]]
+[[makecindy-cindy]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[supabase-supabase]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[ai-agent]]
 

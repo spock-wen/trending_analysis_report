@@ -34,7 +34,7 @@ Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud model
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[debpalash-voicestudio]] [[snailsploit-claude-red]] [[xerj-org-xerj]] [[alishahryar1-free-claude-code]]
+[[hugohe3-ppt-master]] [[openbmb-voxcpm]] [[alishahryar1-free-claude-code]] [[dietrichgebert-ponytail]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[security]] [[audio]]
 

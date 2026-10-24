@@ -36,7 +36,7 @@ DFlash: Block Diffusion for Flash Speculative Decoding
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[ntdevlabs-tiny11builder]] [[snailsploit-claude-red]] [[trycua-cua]] [[anthropics-knowledge-work-plugins]]
+[[openbmb-voxcpm]] [[jbiaojerry-ebook-treasure-chest]] [[trycua-cua]] [[luongnv89-claude-howto]] [[aws-agent-toolkit-for-aws]]
 
 **所属领域**: [[image-gen]]
 

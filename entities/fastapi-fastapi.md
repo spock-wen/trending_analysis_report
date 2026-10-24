@@ -34,7 +34,7 @@ FastAPI framework, high performance, easy to learn, fast to code, ready for prod
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[mlabonne-llm-course]] [[anthropics-knowledge-work-plugins]] [[huggingface-transformers]]
+[[jbiaojerry-ebook-treasure-chest]] [[luongnv89-claude-howto]] [[ruvnet-ruflo]] [[aws-agent-toolkit-for-aws]] [[huggingface-transformers]]
 
 **所属领域**: [[education]]
 

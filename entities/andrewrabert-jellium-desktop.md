@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[xerj-org-xerj]] [[rust-lang-rust]] [[graphify-labs-graphify]] [[akitaonrails-ai-memory]]
+[[akitaonrails-ai-memory]] [[graphify-labs-graphify]] [[pbakaus-impeccable]] [[nvidia-openshell]] [[snailsploit-claude-red]]
 
 **所属领域**: [[cli]]
 

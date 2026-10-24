@@ -35,7 +35,7 @@ Odoo. Open Source Apps To Grow Your Business.
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[snailsploit-claude-red]] [[obra-superpowers]] [[anthropics-knowledge-work-plugins]] [[earthtojake-text-to-cad]]
+[[hugohe3-ppt-master]] [[jbiaojerry-ebook-treasure-chest]] [[obra-superpowers]] [[luongnv89-claude-howto]] [[php-php-src]]
 
 **所属领域**: [[erp]]
 

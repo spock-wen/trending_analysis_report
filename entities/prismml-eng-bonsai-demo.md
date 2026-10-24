@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[nvm-sh-nvm]] [[obra-superpowers]] [[mattpocock-skills]] [[anthropics-knowledge-work-plugins]]
+[[obra-superpowers]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[graphify-labs-graphify]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

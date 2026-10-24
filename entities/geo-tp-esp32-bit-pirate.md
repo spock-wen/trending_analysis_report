@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[m-abozaid-esp32-c3-adblock]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[microsoft-bitnet]]
+[[boykopovar-anyps5]] [[microsoft-bitnet]] [[hkuds-cli-anything]] [[msitarzewski-agency-agents]] [[graphify-labs-graphify]]
 
 **所属领域**: [[web]] [[cli]]
 

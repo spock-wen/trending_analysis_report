@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[m-abozaid-esp32-c3-adblock]] [[snailsploit-claude-red]] [[debpalash-voicestudio]] [[alishahryar1-free-claude-code]]
+[[hugohe3-ppt-master]] [[openbmb-voxcpm]] [[boykopovar-anyps5]] [[alishahryar1-free-claude-code]] [[microsoft-bitnet]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

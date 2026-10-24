@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[nvm-sh-nvm]] [[obra-superpowers]] [[mattpocock-skills]] [[graphify-labs-graphify]]
+[[obra-superpowers]] [[msitarzewski-agency-agents]] [[graphify-labs-graphify]] [[mattpocock-skills]] [[nvidia-openshell]]
 
 **所属领域**: [[cli]]
 

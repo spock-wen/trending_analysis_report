@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[hkuds-cli-anything]] [[snailsploit-claude-red]] [[cathrynlavery-diagram-design]] [[ntdevlabs-tiny11builder]]
+[[openbmb-voxcpm]] [[jbiaojerry-ebook-treasure-chest]] [[trycua-cua]] [[hkuds-cli-anything]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[web]] [[image-gen]]
 

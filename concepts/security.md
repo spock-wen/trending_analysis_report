@@ -1,7 +1,7 @@
 ---
 title: "security"
 created: 2026-05-26
-updated: 2026-10-24
+updated: 2026-10-25
 type: concept
 tags: [security]
 confidence: medium
@@ -9,9 +9,9 @@ confidence: medium
 
 # security
 
-## 领域项目（共 29 个，今日上榜 2 个）
+## 领域项目（共 29 个，今日上榜 1 个）
 
-[[snailsploit-claude-red]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[xerj-org-xerj]] [[nationalsecurityagency-ghidra]] [[zhaoxuya520-reverse-skill]] [[cilium-cilium]] [[reconurge-flowsint]] [[openwhispr-openwhispr]] [[kaifcodec-user-scanner]] [[tashfeenahmed-freellmapi]] [[mukul975-anthropic-cybersecurity-skills]] [[uber-adr]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[home-assistant-core]] [[zackriya-solutions-meetily]] [[veracrypt-veracrypt]] [[keycloak-keycloak]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[nvidia-skillspector]] [[itsfatduck-optimizerduck]] [[masterking32-masterdnsvpn]] [[aquasecurity-trivy]] [[cloakhq-cloakbrowser]] [[plausible-analytics]] [[learningcircuit-local-deep-research]] [[affaan-m-everything-claude-code]] [[ed1s0nz-cyberstrikeai]]
+[[cloudflare-security-audit-skill]] [[snailsploit-claude-red]] [[affaan-m-ecc]] [[xerj-org-xerj]] [[nationalsecurityagency-ghidra]] [[zhaoxuya520-reverse-skill]] [[cilium-cilium]] [[reconurge-flowsint]] [[openwhispr-openwhispr]] [[kaifcodec-user-scanner]] [[tashfeenahmed-freellmapi]] [[mukul975-anthropic-cybersecurity-skills]] [[uber-adr]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[home-assistant-core]] [[zackriya-solutions-meetily]] [[veracrypt-veracrypt]] [[keycloak-keycloak]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[nvidia-skillspector]] [[itsfatduck-optimizerduck]] [[masterking32-masterdnsvpn]] [[aquasecurity-trivy]] [[cloakhq-cloakbrowser]] [[plausible-analytics]] [[learningcircuit-local-deep-research]] [[affaan-m-everything-claude-code]] [[ed1s0nz-cyberstrikeai]]
 
 ## 语言分布
 
@@ -19,5 +19,5 @@ Python 8个, JavaScript 4个, Rust 4个, Go 4个, Java 2个, TypeScript 2个, Po
 
 ## 趋势观察
 
-29 个 security 领域项目被追踪，其中 2 个今日同时上榜，反映该领域持续活跃。
+29 个 security 领域项目被追踪，其中 1 个今日同时上榜，反映该领域持续活跃。
 

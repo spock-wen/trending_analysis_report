@@ -73,6 +73,18 @@ ZH_DESC = {'ayghri/i-have-adhd': '强制编码 Agent 把结论放在输出最前
     'cathrynlavery/diagram-design': '编辑部风格图表设计：44 种图，自包含 HTML+SVG，拒绝 Mermaid 风',
     'NationalSecurityAgency/ghidra': 'NSA 开源的软件逆向工程框架，反汇编/反编译/脚本全能',
     'anthropics/claude-plugins-official': 'Anthropic 官方 Claude Code 插件目录',
+    'Graphify-Labs/graphify': '把代码库连同文档、SQL 结构、配置、PDF 变成可查询知识图谱，无向量库',
+    'anomalyco/opencode': '开源编码 agent：终端里的 agentic 编程工具',
+    'Comfy-Org/ComfyUI': '最强模块化扩散模型 GUI 与后端，节点图驱动本地推理',
+    'akitaonrails/ai-memory': 'Rust 写的跨厂商 agent 长期记忆：Claude Code 停工、Codex 接手不用重讲架构',
+    'ruvnet/ruflo': '面向 Claude Code 与 Codex 的 agent 元 harness：多智能体集群、自适应记忆',
+    'vllm-project/vllm': '高吞吐、省显存的 LLM 推理与服务引擎',
+    'android/skills': 'Android 官方 AI skills：面向 LLM 表现不佳的开发场景的模块化指令',
+    'cursor/plugins': 'Cursor 插件规范与官方插件仓库',
+    'anthropics/knowledge-work-plugins': 'Anthropic 知识工作插件官方仓库，服务 Claude Cowork',
+    'cloudflare/security-audit-skill': 'Cloudflare 官方安全审计 skill：六阶段审计，每个候选漏洞独立复核',
+    'HKUDS/CLI-Anything': '港大数据智能实验室：让所有软件 Agent 原生',
+    'heygen-com/hyperframes': '写 HTML、渲染成视频，为 Agent 设计的视频生产管线',
 }
 total_stars = sum(WK.values())
 n_projects = len(rows)
@@ -160,23 +172,23 @@ C = {'blue': '#4C72B0', 'orange': '#E4572E', 'purple': '#8172B2', 'green': '#2E8
 
 # TODO(每周手填)：NARRATIVES / KNIVES / WATCH 按周报正文更新
 NARRATIVES = [
-    (C['orange'], '#FDEEE8', '#D14A24', '一个项目贡献 75.8% 的星，榜单被"逆向"接管',
-     '10 个项目 316,460★（上周 13 项 61,769★，<b>+412.3%</b>，近 20 周最高）。但 239,923★ 来自 <b>morluto/rea</b> 一个仓库，占全榜 <b>75.8%</b>、是第二名 artcraft 的 <b>13 倍</b>；剔除它，其余 9 项合计 76,537★、环比仅 +23.9%。换血率 60.0%（上周 76.9%），上周 13 席只留住 4 席。'),
-    (C['blue'], '#EAF0F9', '#3A62A8', '逆向工程从"专家工具"变成"agent 的一个 MCP"',
-     'rea 是一个 MCP 服务器：把 Hopper / Ghidra / IDA、JavaScript/Electron 静态分析、Android APK、SQLite、固件、抓包分析全部接到 agent 手上，10 月 13 日 rea.tools 登上 HN 首页（<b>805 赞、337 评论</b>）。它不自研反编译器——深度分析仍依赖你装好的 Ghidra/IDA/Hopper，rea 做的是把这堆工具包成带契约、带 Evidence ID、可存快照的 MCP 接口。'),
-    (C['purple'], '#F1EEF8', '#6D5CA8', '上下文管理连续两周占位，创作与硬件同步降温',
-     '<b>mksglu/context-mode</b>（+4,438★）时隔 3 周回归：工具输出沙箱化（315KB → 5.4KB）、会话记忆落 SQLite，是本周唯一"基础设施型"续榜项目。与此同时，上周的硬件移植 <b>AnyPS5 周星 -23.9%</b>（+21,365★ → +16,250★）、AI 内容创作上周仅剩 hyperframes 一席（+4,081★）本周 +38.2% 回血，而 e2e、openGym、text-to-cad、claude-mem、t3code、openrig 六个上周项目全部出局。'),
+    (C['orange'], '#FDEEE8', '#D14A24', '单一仓库退潮，Agent 生态回到多项目稳态',
+     '15 个项目 145,207★（上周 10 项 316,460★，<b>-54.1%</b>，21 周采数史第 2 高）。回落的主因是 <b>morluto/rea</b> 从 239,923★ 跌到 78,562★（<b>-67.2%</b>）——它 10 月 16 日后完全退出日榜，热度脉冲确实在衰减但没断。剔除 rea，其余 14 项合计 66,645★，环比上周的 9 项 76,537★ 为 <b>-13.0%</b>。换血率 80.0%（上周 60.0%），上周 10 席只留住 3 席，但 12 个新面孔里真正首次上榜的只有 4 个，其余 8 个是断档 1~13 周的回归——轮动加快和老玩家回流同时发生。'),
+    (C['blue'], '#EAF0F9', '#3A62A8', '「Skill」成为大厂共同的发行格式',
+     '本周 15 席里 6 席是 <b>Skill/插件生态</b>（合计 100,151★，占 69.0%，但其中 rea 一项 78,562★）。Cloudflare 把内部漏洞挖掘 harness 开源成 <b>security-audit-skill</b>（+12,680★，官方周榜第 1，日榜 5 次、3 天第 1）；Anthropic 两个官方仓库同时在榜；<b>android/skills</b>（+1,317★）第一次上榜，明确说只做「评测显示 LLM 表现不佳」的 Android 场景；<b>cursor/plugins</b> 断档 1 周回归。Cloudflare、Google、Cursor、Anthropic 在同一周用同一格式发东西。'),
+    (C['purple'], '#F1EEF8', '#6D5CA8', '上下文与记忆连续两周占位，成为最稳的一条线',
+     '<b>Graphify-Labs/graphify</b>（+6,868★，日榜 3 次）把代码库连同文档、SQL schema、配置、PDF 转成可查询知识图谱，本地确定性 AST 解析、每条边可解释、<b>不用向量库</b>；<b>akitaonrails/ai-memory</b>（+3,541★，Rust）做跨厂商长期记忆，卖点是「Claude Code 停工、Codex 在同一目录接手，不用重讲架构」。上周 context-mode 与 billion-context 本周双双出局，但换成了两个更强的玩家——上下文这条线连续两周在榜，是本期最稳定的信号。'),
 ]
 KNIVES = [
-    (C['orange'], '换挡', 'Agent/Skill 工作流', '5 项 264,903★ vs 上周 7 项 21,387★<br>其中 rea 一项占 239,923★，席位由 7 缩到 5'),
-    (C['blue'], '加速', '大厂官方与产品级', 'Ghidra + claude-plugins 2 项 11,189★<br>vs 上周 2 项 1,003★（raddebugger、flutter）'),
-    (C['purple'], '降温', '独立应用与硬件工具', 'AnyPS5 一项 16,250★，环比 -23.9%<br>上周 openGym/e2e 合计 13,933★ 全部出局'),
-    (C['green'], '新品类', '逆向工程进入 agent 视野', 'rea 一周 239,923★ + Ghidra 时隔 6 周回归<br>DX-Ball 3,205 个用例、63 字节全对上'),
+    (C['orange'], '换挡', 'Agent 编排与运行时', '4 项 22,995★ vs 上周 0 席<br>整条线集体回归，其中 opencode / ruflo / CLI-Anything 首次上榜'),
+    (C['blue'], '加速', 'Skill 与插件生态', '6 项 100,151★（剔除 rea 后 21,589★）<br>vs 上周 4 项 263,158★（剔除 rea 后 23,235★，-2.8%）'),
+    (C['purple'], '稳态', '上下文与记忆', 'graphify + ai-memory 2 项 10,409★<br>上周同赛道 context-mode + billion-context 合计 5,326★'),
+    (C['green'], '新增', '推理基础设施入榜', 'vllm-project/vllm +1,371★ 首次进周榜<br>日榜 2 天冲到第 2，15 席中唯一的推理引擎'),
 ]
 WATCH = [
-    ('rea 是脉冲还是新品类？', '周星 <b>≥50,000★</b> 则"agent 逆向"从首发脉冲变常驻主线；跌破 <b>20,000★</b> 且 HN 热度不再，则视为一次性传播事件'),
-    ('逆向赛道能否扩容？', '除 rea 外再出现 <b>≥1 个逆向/安全类</b>项目且周星 <b>≥3,000★</b>，则 Ghidra 回归不是巧合，赛道成立；否则只有单一玩家'),
-    ('上下文管理能否回到上周水位？', 'context-mode + billion-context 合计周星回到 <b>≥8,000★</b>（本周 5,326★），则"上下文工程"仍是常驻需求'),
+    ('rea 是脉冲还是新品类？', '周星 <b>≥50,000★</b> 则「agent 逆向」是常驻主线；跌破 <b>20,000★</b> 且日榜连续 7 天缺席，则确认一次性传播事件'),
+    ('Skill 发行潮能否扩容？', '下周出现 <b>≥2 个新 Skill/插件类</b>项目且各自周星 <b>≥1,500★</b>（本周仅 cloudflare 一个达标），则「大厂用 skill 格式发工具」成为固定形态'),
+    ('上下文赛道能否再进一步？', '上下文与记忆合计周星 <b>≥15,000★</b> 或席位 <b>≥3</b>（本周 2 项 10,409★），则从「两个项目」升级为「一条独立赛道」'),
 ]
 
 def esc(s):

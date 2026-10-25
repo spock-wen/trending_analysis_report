@@ -35,7 +35,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 ## 相关项目
 
-[[makecindy-cindy]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[supabase-supabase]] [[renhuai123-ziwei-doushu]]
+[[makecindy-cindy]] [[jetbrains-thinkrail]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

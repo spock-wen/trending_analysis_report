@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[makecindy-cindy]] [[hkuds-cli-anything]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]] [[supabase-supabase]]
+[[makecindy-cindy]] [[jetbrains-thinkrail]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[web]]
 

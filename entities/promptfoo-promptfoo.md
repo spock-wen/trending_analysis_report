@@ -36,7 +36,7 @@ Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[makecindy-cindy]] [[oblien-openship]] [[luongnv89-claude-howto]] [[graphify-labs-graphify]]
+[[makecindy-cindy]] [[xtool-org-xtool]] [[jetbrains-thinkrail]] [[getsentry-sentry]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

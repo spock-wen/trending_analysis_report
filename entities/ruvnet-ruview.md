@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[oblien-openship]] [[akitaonrails-ai-memory]] [[getsentry-sentry]] [[ruvnet-ruflo]]
+[[xtool-org-xtool]] [[getsentry-sentry]] [[ruvnet-ruflo]] [[nvidia-openshell]] [[coollabsio-coolify]]
 
 **所属领域**: [[devops]]
 

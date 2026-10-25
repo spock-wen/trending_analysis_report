@@ -37,7 +37,7 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 
 ## 相关项目
 
-[[android-skills]] [[embabel-embabel-agent]] [[bannedbook-fanqiang]] [[luongnv89-claude-howto]] [[nutlope-hallmark]]
+[[bannedbook-fanqiang]] [[android-skills]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

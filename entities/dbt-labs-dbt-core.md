@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[akitaonrails-ai-memory]] [[supabase-supabase]] [[pbakaus-impeccable]] [[nvidia-openshell]]
+[[supabase-supabase]] [[agricidaniel-claude-seo]] [[snailsploit-claude-red]] [[nvidia-openshell]] [[coollabsio-coolify]]
 
 **所属领域**: [[data]]
 

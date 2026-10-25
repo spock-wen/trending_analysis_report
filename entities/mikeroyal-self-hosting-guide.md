@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[luongnv89-claude-howto]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]] [[supabase-supabase]]
+[[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[ruvnet-ruflo]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

@@ -34,5 +34,5 @@ An open source trusted cloud native registry project that stores, signs, and sca
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[strelov1-freehire]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]]
+[[strelov1-freehire]] [[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[juliusbrussee-caveman]]
 

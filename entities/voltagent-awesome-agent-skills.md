@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[luongnv89-claude-howto]] [[graphify-labs-graphify]] [[nutlope-hallmark]] [[aws-agent-toolkit-for-aws]] [[pbakaus-impeccable]]
+[[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[coollabsio-coolify]] [[nvidia-openshell]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

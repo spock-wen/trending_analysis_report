@@ -35,7 +35,7 @@ The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. 
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[aws-agent-toolkit-for-aws]]
+[[nodejs-node]] [[withmarbleapp-os-taxonomy]] [[dietrichgebert-ponytail]] [[cloudflare-security-audit-skill]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]]
 

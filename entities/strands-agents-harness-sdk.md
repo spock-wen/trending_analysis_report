@@ -35,7 +35,7 @@ Build an agent harness and control it end-to-end. Open-source SDK for production
 
 ## 相关项目
 
-[[jbiaojerry-ebook-treasure-chest]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[aws-agent-toolkit-for-aws]] [[pbakaus-impeccable]]
+[[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]]
 

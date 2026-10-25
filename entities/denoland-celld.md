@@ -35,5 +35,5 @@ self-hosted, distributed Durable Objects
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[nvidia-openshell]] [[pollen-robotics-microduck]] [[akitaonrails-ai-memory]]
+[[pollen-robotics-microduck]] [[nvidia-openshell]] [[pbakaus-impeccable]] [[akitaonrails-ai-memory]]
 

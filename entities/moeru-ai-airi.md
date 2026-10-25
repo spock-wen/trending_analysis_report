@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[openbmb-voxcpm]] [[alishahryar1-free-claude-code]] [[makecindy-cindy]] [[hkuds-cli-anything]]
+[[makecindy-cindy]] [[jetbrains-thinkrail]] [[openbmb-voxcpm]] [[supabase-supabase]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

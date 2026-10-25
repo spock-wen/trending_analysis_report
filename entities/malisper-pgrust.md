@@ -35,5 +35,5 @@ Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[nvidia-openshell]] [[pollen-robotics-microduck]] [[akitaonrails-ai-memory]]
+[[pollen-robotics-microduck]] [[nvidia-openshell]] [[pbakaus-impeccable]] [[akitaonrails-ai-memory]]
 

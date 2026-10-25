@@ -36,7 +36,7 @@ Official inference framework for 1-bit LLMs
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[tensorflow-tensorflow]] [[aws-agent-toolkit-for-aws]]
+[[boykopovar-anyps5]] [[tensorflow-tensorflow]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

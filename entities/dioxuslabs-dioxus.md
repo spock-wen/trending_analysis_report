@@ -35,7 +35,7 @@ Fullstack app framework for web, desktop, and mobile.
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[msitarzewski-agency-agents]] [[akitaonrails-ai-memory]] [[nutlope-hallmark]] [[supabase-supabase]]
+[[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[nvidia-openshell]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]]
 

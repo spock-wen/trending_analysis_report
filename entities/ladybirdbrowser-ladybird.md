@@ -36,7 +36,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[microsoft-bitnet]] [[hkuds-cli-anything]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]]
+[[microsoft-bitnet]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[web]]
 

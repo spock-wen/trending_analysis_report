@@ -34,7 +34,7 @@ An open-source AI agent that brings the power of Gemini directly into your termi
 
 ## 相关项目
 
-[[makecindy-cindy]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[supabase-supabase]] [[renhuai123-ziwei-doushu]]
+[[makecindy-cindy]] [[jetbrains-thinkrail]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[coollabsio-coolify]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -35,5 +35,5 @@ Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## 相关项目
 
-[[flutter-skills]] [[localsend-localsend]] [[chen08209-flclash]]
+[[localsend-localsend]] [[chen08209-flclash]] [[flutter-skills]]
 

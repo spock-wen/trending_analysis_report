@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[k-dense-ai-scientific-agent-skills]] [[makecindy-cindy]] [[oblien-openship]] [[graphify-labs-graphify]]
+[[makecindy-cindy]] [[xtool-org-xtool]] [[jetbrains-thinkrail]] [[getsentry-sentry]] [[supabase-supabase]]
 
 **所属领域**: [[data]] [[devops]]
 

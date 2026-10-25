@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[k-dense-ai-scientific-agent-skills]] [[luongnv89-claude-howto]] [[xerj-org-xerj]] [[nutlope-hallmark]]
+[[xerj-org-xerj]] [[nodejs-node]] [[withmarbleapp-os-taxonomy]] [[dietrichgebert-ponytail]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

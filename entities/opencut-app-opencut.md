@@ -38,5 +38,5 @@ The open-source CapCut alternative
 
 ## 相关项目
 
-[[renhuai123-ziwei-doushu]] [[supabase-supabase]] [[makecindy-cindy]] [[google-gemini-gemini-cli]]
+[[google-gemini-gemini-cli]] [[makecindy-cindy]] [[jetbrains-thinkrail]] [[renhuai123-ziwei-doushu]]
 

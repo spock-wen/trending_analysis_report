@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[k-dense-ai-scientific-agent-skills]] [[luongnv89-claude-howto]] [[akitaonrails-ai-memory]] [[nutlope-hallmark]]
+[[openbmb-voxcpm]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[snailsploit-claude-red]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

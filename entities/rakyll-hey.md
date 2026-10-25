@@ -34,7 +34,7 @@ HTTP load generator, ApacheBench (ab) replacement
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]] [[alibaba-open-code-review]] [[supabase-supabase]]
+[[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[vxcontrol-pentagi]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[web]]
 

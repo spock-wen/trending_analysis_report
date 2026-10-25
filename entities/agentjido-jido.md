@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[luongnv89-claude-howto]] [[teslamate-org-teslamate]] [[nutlope-hallmark]] [[plausible-analytics]] [[aws-agent-toolkit-for-aws]]
+[[plausible-analytics]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

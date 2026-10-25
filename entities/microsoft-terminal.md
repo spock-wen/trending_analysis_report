@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[microsoft-bitnet]] [[graphify-labs-graphify]] [[tensorflow-tensorflow]] [[snailsploit-claude-red]]
+[[microsoft-bitnet]] [[tensorflow-tensorflow]] [[coollabsio-coolify]] [[nvidia-openshell]] [[m-abozaid-esp32-c3-adblock]]
 
 **所属领域**: [[cli]]
 

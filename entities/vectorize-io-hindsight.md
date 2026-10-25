@@ -38,7 +38,7 @@ Hindsight: Agent Memory That Learns
 
 ## 相关项目
 
-[[jbiaojerry-ebook-treasure-chest]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[fastapi-fastapi]] [[ruvnet-ruflo]]
+[[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[ruvnet-ruflo]] [[tauricresearch-tradingagents]] [[mlabonne-llm-course]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

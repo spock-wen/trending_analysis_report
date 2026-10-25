@@ -35,7 +35,7 @@ Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]] [[alibaba-open-code-review]] [[supabase-supabase]]
+[[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[vxcontrol-pentagi]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[web]]
 

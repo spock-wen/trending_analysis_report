@@ -36,7 +36,7 @@ Help AI coding agents write modern Go
 
 ## 相关项目
 
-[[luongnv89-claude-howto]] [[nutlope-hallmark]] [[alibaba-open-code-review]] [[aws-agent-toolkit-for-aws]] [[pbakaus-impeccable]]
+[[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

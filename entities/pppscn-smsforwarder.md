@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[android-skills]] [[embabel-embabel-agent]] [[bannedbook-fanqiang]] [[hkuds-cli-anything]] [[msitarzewski-agency-agents]]
+[[supabase-supabase]] [[bannedbook-fanqiang]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[android-skills]]
 
 **所属领域**: [[web]]
 

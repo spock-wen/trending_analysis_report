@@ -35,7 +35,7 @@ Create Reddit Videos with just✨ one command ✨
 
 ## 相关项目
 
-[[jbiaojerry-ebook-treasure-chest]] [[luongnv89-claude-howto]] [[graphify-labs-graphify]] [[aws-agent-toolkit-for-aws]] [[nvidia-openshell]]
+[[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[coollabsio-coolify]] [[nvidia-openshell]]
 
 **所属领域**: [[cli]]
 

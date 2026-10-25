@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[luongnv89-claude-howto]] [[nutlope-hallmark]] [[cs341-illinois-coursebook]] [[aws-agent-toolkit-for-aws]] [[pbakaus-impeccable]]
+[[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]] [[cs341-illinois-coursebook]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

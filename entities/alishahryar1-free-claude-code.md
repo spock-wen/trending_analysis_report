@@ -38,7 +38,7 @@ Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for fre
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[openbmb-voxcpm]] [[jbiaojerry-ebook-treasure-chest]] [[hkuds-cli-anything]] [[luongnv89-claude-howto]]
+[[openbmb-voxcpm]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]] [[audio]]
 

@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[makecindy-cindy]] [[supabase-supabase]] [[fastapi-fastapi]] [[renhuai123-ziwei-doushu]] [[ruvnet-ruflo]]
+[[makecindy-cindy]] [[jetbrains-thinkrail]] [[ruvnet-ruflo]] [[huggingface-transformers]] [[mlabonne-llm-course]]
 
 **所属领域**: [[education]]
 

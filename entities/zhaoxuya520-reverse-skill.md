@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[luongnv89-claude-howto]] [[graphify-labs-graphify]] [[nutlope-hallmark]] [[google-gemini-gemini-cli]]
+[[xerj-org-xerj]] [[actions-runner-images]] [[bwya77-vscode-dark-islands]] [[k-dense-ai-scientific-agent-skills]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

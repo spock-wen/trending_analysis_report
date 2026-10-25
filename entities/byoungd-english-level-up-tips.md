@@ -38,7 +38,7 @@ An advanced guide to learn English which might benefit you a lot 🎉 . 人生�
 
 ## 相关项目
 
-[[huggingface-transformers]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[ruvnet-ruflo]]
+[[ruvnet-ruflo]] [[fastapi-fastapi]] [[huggingface-transformers]] [[mlabonne-llm-course]]
 
 **所属领域**: [[education]]
 

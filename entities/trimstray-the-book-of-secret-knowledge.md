@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[msitarzewski-agency-agents]] [[graphify-labs-graphify]] [[nutlope-hallmark]] [[supabase-supabase]]
+[[supabase-supabase]] [[msitarzewski-agency-agents]] [[agricidaniel-claude-seo]] [[nutlope-hallmark]] [[coollabsio-coolify]]
 
 **所属领域**: [[web]] [[cli]]
 

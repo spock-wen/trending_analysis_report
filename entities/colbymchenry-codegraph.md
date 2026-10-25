@@ -38,7 +38,7 @@ Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
 
 ## 相关项目
 
-[[luongnv89-claude-howto]] [[antirez-ds4]] [[epicgames-raddebugger]] [[nutlope-hallmark]] [[php-php-src]]
+[[antirez-ds4]] [[nutlope-hallmark]] [[epicgames-raddebugger]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

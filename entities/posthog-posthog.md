@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[k-dense-ai-scientific-agent-skills]] [[jbiaojerry-ebook-treasure-chest]] [[hkuds-cli-anything]] [[oblien-openship]]
+[[xtool-org-xtool]] [[getsentry-sentry]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

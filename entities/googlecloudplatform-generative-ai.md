@@ -36,7 +36,7 @@ Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vert
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[microsoft-generative-ai-for-beginners]] [[aws-agent-toolkit-for-aws]]
+[[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[lakr233-vphone-cli]] [[luongnv89-claude-howto]] [[abue-ammar-tinycast]] [[nutlope-hallmark]]
+[[xtool-org-xtool]] [[abue-ammar-tinycast]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[ai-agent]]
 

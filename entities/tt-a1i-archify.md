@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[k-dense-ai-scientific-agent-skills]] [[hkuds-cli-anything]] [[luongnv89-claude-howto]] [[msitarzewski-agency-agents]]
+[[nodejs-node]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[withmarbleapp-os-taxonomy]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[jbiaojerry-ebook-treasure-chest]] [[trycua-cua]] [[hkuds-cli-anything]] [[luongnv89-claude-howto]]
+[[openbmb-voxcpm]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]]
 
 **所属领域**: [[web]] [[image-gen]]
 

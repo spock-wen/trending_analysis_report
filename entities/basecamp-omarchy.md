@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[obra-superpowers]] [[msitarzewski-agency-agents]] [[graphify-labs-graphify]] [[mattpocock-skills]] [[nvidia-openshell]]
+[[nvm-sh-nvm]] [[msitarzewski-agency-agents]] [[coollabsio-coolify]] [[obra-superpowers]] [[nvidia-openshell]]
 
 **所属领域**: [[cli]]
 

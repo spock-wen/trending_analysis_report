@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[makecindy-cindy]] [[luongnv89-claude-howto]] [[xerj-org-xerj]] [[nutlope-hallmark]] [[supabase-supabase]]
+[[xerj-org-xerj]] [[makecindy-cindy]] [[jetbrains-thinkrail]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

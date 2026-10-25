@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[android-skills]] [[embabel-embabel-agent]] [[bannedbook-fanqiang]] [[hkuds-cli-anything]] [[luongnv89-claude-howto]]
+[[supabase-supabase]] [[bannedbook-fanqiang]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[android-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

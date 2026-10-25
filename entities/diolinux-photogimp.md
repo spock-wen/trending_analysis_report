@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[hkuds-cli-anything]] [[obra-superpowers]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]]
+[[supabase-supabase]] [[msitarzewski-agency-agents]] [[agricidaniel-claude-seo]] [[hugohe3-ppt-master]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]] [[erp]]
 

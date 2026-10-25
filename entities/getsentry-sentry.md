@@ -36,7 +36,7 @@ Developer-first error tracking and performance monitoring
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[jbiaojerry-ebook-treasure-chest]] [[oblien-openship]] [[luongnv89-claude-howto]] [[ruvnet-ruflo]]
+[[xtool-org-xtool]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[ruvnet-ruflo]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[devops]]
 

@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[nvidia-openshell]] [[graphify-labs-graphify]] [[google-gemini-gemini-cli]] [[alibaba-open-code-review]] [[strelov1-freehire]]
+[[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[coollabsio-coolify]] [[nvidia-openshell]] [[alibaba-open-code-review]]
 
 **所属领域**: [[cli]]
 

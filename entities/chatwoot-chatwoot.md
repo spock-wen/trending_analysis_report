@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[luongnv89-claude-howto]] [[nutlope-hallmark]] [[docusealco-docuseal]] [[aws-agent-toolkit-for-aws]] [[pbakaus-impeccable]]
+[[docusealco-docuseal]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

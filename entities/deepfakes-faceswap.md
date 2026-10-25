@@ -35,5 +35,5 @@ Deepfakes Software For All
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[luongnv89-claude-howto]] [[jbiaojerry-ebook-treasure-chest]] [[aws-agent-toolkit-for-aws]]
+[[agricidaniel-claude-seo]] [[debpalash-voicestudio]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]]
 

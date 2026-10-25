@@ -35,7 +35,7 @@ DeepEP: an efficient expert-parallel communication library
 
 ## 相关项目
 
-[[deepseek-ai-deepgemm]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[moonshotai-flashkda]] [[aws-agent-toolkit-for-aws]]
+[[deepseek-ai-deepgemm]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]] [[moonshotai-flashkda]]
 
 **所属领域**: [[ai-agent]]
 

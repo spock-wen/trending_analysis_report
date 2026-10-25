@@ -38,7 +38,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[luongnv89-claude-howto]] [[xerj-org-xerj]] [[nutlope-hallmark]] [[alibaba-open-code-review]] [[cloudflare-security-audit-skill]]
+[[xerj-org-xerj]] [[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[luongnv89-claude-howto]] [[nutlope-hallmark]] [[ntdevlabs-tiny11builder]] [[aws-agent-toolkit-for-aws]] [[dotnet-aspnetcore]]
+[[k1tbyte-wand-enhancer]] [[dotnet-aspnetcore]] [[tauricresearch-tradingagents]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]]
 

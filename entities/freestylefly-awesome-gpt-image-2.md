@@ -38,7 +38,7 @@ Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[dietrichgebert-ponytail]] [[trycua-cua]] [[luongnv89-claude-howto]] [[nutlope-hallmark]]
+[[nodejs-node]] [[openbmb-voxcpm]] [[withmarbleapp-os-taxonomy]] [[dietrichgebert-ponytail]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

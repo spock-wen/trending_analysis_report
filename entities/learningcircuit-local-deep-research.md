@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[jbiaojerry-ebook-treasure-chest]] [[mlabonne-llm-course]] [[luongnv89-claude-howto]] [[xerj-org-xerj]]
+[[xerj-org-xerj]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[ruvnet-ruflo]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

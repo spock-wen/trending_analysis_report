@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[openbmb-voxcpm]] [[boykopovar-anyps5]] [[alishahryar1-free-claude-code]] [[microsoft-bitnet]]
+[[microsoft-bitnet]] [[openbmb-voxcpm]] [[debpalash-voicestudio]] [[tensorflow-tensorflow]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[microsoft-generative-ai-for-beginners]] [[fastapi-fastapi]]
+[[microsoft-generative-ai-for-beginners]] [[ruvnet-ruflo]] [[lyogavin-airllm]] [[mlabonne-llm-course]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

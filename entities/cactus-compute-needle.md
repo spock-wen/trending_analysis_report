@@ -38,5 +38,5 @@ Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, struct
 
 ## 相关项目
 
-[[anthropics-knowledge-work-plugins]] [[luongnv89-claude-howto]] [[jbiaojerry-ebook-treasure-chest]] [[aws-agent-toolkit-for-aws]]
+[[agricidaniel-claude-seo]] [[debpalash-voicestudio]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]]
 

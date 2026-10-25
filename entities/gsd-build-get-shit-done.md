@@ -35,7 +35,7 @@ A light-weight and powerful meta-prompting, context engineering and spec-driven 
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[aws-agent-toolkit-for-aws]]
+[[nodejs-node]] [[withmarbleapp-os-taxonomy]] [[dietrichgebert-ponytail]] [[cloudflare-security-audit-skill]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]]
 

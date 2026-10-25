@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[k-dense-ai-scientific-agent-skills]] [[makecindy-cindy]] [[oblien-openship]] [[luongnv89-claude-howto]]
+[[makecindy-cindy]] [[xtool-org-xtool]] [[jetbrains-thinkrail]] [[getsentry-sentry]] [[supabase-supabase]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

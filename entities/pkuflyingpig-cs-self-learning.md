@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[msitarzewski-agency-agents]] [[ripienaar-free-for-dev]] [[nutlope-hallmark]]
+[[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[ruvnet-ruflo]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[education]]
 

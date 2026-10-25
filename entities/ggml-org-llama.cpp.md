@@ -34,7 +34,7 @@ LLM inference in C/C++
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[microsoft-bitnet]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[tensorflow-tensorflow]]
+[[microsoft-bitnet]] [[tensorflow-tensorflow]] [[tauricresearch-tradingagents]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]]
 

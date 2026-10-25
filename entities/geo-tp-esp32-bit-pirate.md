@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[microsoft-bitnet]] [[hkuds-cli-anything]] [[msitarzewski-agency-agents]] [[graphify-labs-graphify]]
+[[microsoft-bitnet]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[web]] [[cli]]
 

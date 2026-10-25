@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[luongnv89-claude-howto]] [[graphify-labs-graphify]] [[antirez-ds4]] [[epicgames-raddebugger]] [[nutlope-hallmark]]
+[[colbymchenry-codegraph]] [[antirez-ds4]] [[snailsploit-claude-red]] [[nutlope-hallmark]] [[epicgames-raddebugger]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

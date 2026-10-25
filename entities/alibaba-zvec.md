@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[k-dense-ai-scientific-agent-skills]] [[microsoft-bitnet]] [[tensorflow-tensorflow]] [[supabase-supabase]]
+[[microsoft-bitnet]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[tensorflow-tensorflow]] [[coollabsio-coolify]]
 
 **所属领域**: [[data]]
 

@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[obra-superpowers]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]] [[nutlope-hallmark]] [[graphify-labs-graphify]]
+[[nvm-sh-nvm]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]] [[obra-superpowers]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

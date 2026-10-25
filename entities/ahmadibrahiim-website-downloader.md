@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[cathrynlavery-diagram-design]] [[trycua-cua]] [[hkuds-cli-anything]] [[pkuflyingpig-cs-self-learning]]
+[[pkuflyingpig-cs-self-learning]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[openbmb-voxcpm]]
 
 **所属领域**: [[web]] [[image-gen]]
 

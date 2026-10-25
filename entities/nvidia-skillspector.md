@@ -37,7 +37,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[jbiaojerry-ebook-treasure-chest]] [[luongnv89-claude-howto]] [[xerj-org-xerj]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]]
+[[xerj-org-xerj]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

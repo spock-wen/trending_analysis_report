@@ -34,7 +34,7 @@ PowerShell for every system!
 
 ## 相关项目
 
-[[graphify-labs-graphify]] [[google-gemini-gemini-cli]] [[snailsploit-claude-red]] [[dotnet-aspnetcore]] [[nvidia-openshell]]
+[[k1tbyte-wand-enhancer]] [[dotnet-aspnetcore]] [[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]]
 
 **所属领域**: [[cli]]
 

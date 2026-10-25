@@ -34,5 +34,5 @@ language: "Python"
 
 ## 相关项目
 
-[[luongnv89-claude-howto]] [[anthropics-knowledge-work-plugins]] [[aws-agent-toolkit-for-aws]]
+[[agricidaniel-claude-seo]] [[debpalash-voicestudio]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]]
 

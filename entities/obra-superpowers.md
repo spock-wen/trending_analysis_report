@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[luongnv89-claude-howto]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]] [[graphify-labs-graphify]]
+[[nvm-sh-nvm]] [[msitarzewski-agency-agents]] [[agricidaniel-claude-seo]] [[hugohe3-ppt-master]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

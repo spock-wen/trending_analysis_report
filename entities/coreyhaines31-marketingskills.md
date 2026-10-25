@@ -38,7 +38,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[k-dense-ai-scientific-agent-skills]] [[luongnv89-claude-howto]] [[graphify-labs-graphify]] [[nutlope-hallmark]]
+[[nodejs-node]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[withmarbleapp-os-taxonomy]] [[dietrichgebert-ponytail]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

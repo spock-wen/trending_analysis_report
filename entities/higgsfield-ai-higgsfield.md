@@ -35,7 +35,7 @@ Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew
 
 ## 相关项目
 
-[[luongnv89-claude-howto]] [[nutlope-hallmark]] [[microsoft-generative-ai-for-beginners]] [[fastapi-fastapi]] [[ruvnet-ruflo]]
+[[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]] [[ruvnet-ruflo]] [[lyogavin-airllm]] [[mlabonne-llm-course]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -34,7 +34,7 @@ Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translatio
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[makecindy-cindy]] [[trycua-cua]] [[supabase-supabase]] [[renhuai123-ziwei-doushu]]
+[[makecindy-cindy]] [[jetbrains-thinkrail]] [[openbmb-voxcpm]] [[coollabsio-coolify]] [[comfy-org-comfyui]]
 
 **所属领域**: [[image-gen]]
 

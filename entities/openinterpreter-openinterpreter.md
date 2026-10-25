@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[obra-superpowers]] [[luongnv89-claude-howto]] [[akitaonrails-ai-memory]] [[nutlope-hallmark]]
+[[agricidaniel-claude-seo]] [[tauricresearch-tradingagents]] [[hugohe3-ppt-master]] [[nvidia-openshell]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

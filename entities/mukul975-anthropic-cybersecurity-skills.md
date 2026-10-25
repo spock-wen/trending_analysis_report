@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[jbiaojerry-ebook-treasure-chest]] [[luongnv89-claude-howto]] [[graphify-labs-graphify]] [[nutlope-hallmark]] [[xerj-org-xerj]]
+[[xerj-org-xerj]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

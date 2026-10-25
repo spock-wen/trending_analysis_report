@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[jbiaojerry-ebook-treasure-chest]] [[luongnv89-claude-howto]] [[xerj-org-xerj]] [[cloudflare-security-audit-skill]] [[aws-agent-toolkit-for-aws]]
+[[xerj-org-xerj]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[security]]
 

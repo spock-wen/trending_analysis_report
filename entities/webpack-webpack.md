@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[dietrichgebert-ponytail]] [[trycua-cua]] [[hkuds-cli-anything]] [[msitarzewski-agency-agents]]
+[[nodejs-node]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[openbmb-voxcpm]]
 
 **所属领域**: [[web]] [[image-gen]]
 

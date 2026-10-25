@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[luongnv89-claude-howto]] [[paperclipai-paperclip]] [[nutlope-hallmark]] [[robbyant-lingbot-map]]
+[[ruvnet-ruflo]] [[huggingface-transformers]] [[mlabonne-llm-course]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

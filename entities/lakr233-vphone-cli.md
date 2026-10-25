@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[abue-ammar-tinycast]] [[graphify-labs-graphify]] [[manaflow-ai-cmux]] [[nvidia-openshell]]
+[[xtool-org-xtool]] [[abue-ammar-tinycast]] [[coollabsio-coolify]] [[nvidia-openshell]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[cli]]
 

@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[makecindy-cindy]] [[graphify-labs-graphify]] [[supabase-supabase]] [[renhuai123-ziwei-doushu]] [[nvidia-openshell]]
+[[makecindy-cindy]] [[jetbrains-thinkrail]] [[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]]
 
 **所属领域**: [[cli]]
 

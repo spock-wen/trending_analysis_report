@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[k-dense-ai-scientific-agent-skills]] [[supabase-supabase]] [[fastapi-fastapi]] [[cloudflare-security-audit-skill]]
+[[nodejs-node]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[ruvnet-ruflo]] [[withmarbleapp-os-taxonomy]]
 
 **所属领域**: [[data]] [[education]]
 

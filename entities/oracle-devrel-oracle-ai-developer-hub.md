@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[k-dense-ai-scientific-agent-skills]] [[luongnv89-claude-howto]] [[graphify-labs-graphify]] [[nutlope-hallmark]]
+[[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -35,7 +35,7 @@ Agent framework and applications built upon Qwen>=3.0, featuring Function Callin
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[jbiaojerry-ebook-treasure-chest]] [[hkuds-cli-anything]] [[obra-superpowers]] [[luongnv89-claude-howto]]
+[[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[web]] [[erp]]
 

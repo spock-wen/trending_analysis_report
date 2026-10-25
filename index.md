@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-25 | 总页面：838
+> 最后更新：2026-10-26 | 总页面：841
 
 ## Entities
 
@@ -32,6 +32,7 @@
 - [[agentscope-ai-reme|ReMe]] — ReMe: Memory Management Kit for Agents - Remember Me, Refine... 🔥
 - [[agentskills-agentskills|agentskills]] — Specification and documentation for Agent Skills 🔥
 - [[agricidaniel-claude-obsidian|claude-obsidian]] — Self-organizing AI second brain for Obsidian + Claude Code. ... 🔥
+- [[agricidaniel-claude-seo|claude-seo]] — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-... 🆕
 - [[ahmadibrahiim-website-downloader|Website-downloader]] — 💡 Download the complete source code of any website (includin...
 - [[ahmedkhaleel2004-gitdiagram|gitdiagram]] — Free, simple, fast interactive diagrams for any GitHub repos...
 - [[ahujasid-blender-mcp|blender-mcp]] — No description
@@ -177,6 +178,7 @@
 - [[composiohq-awesome-codex-skills|awesome-codex-skills]] — A curated list of practical Codex skills for automating work... 🔥
 - [[conardli-garden-skills|garden-skills]] — ConardLi's open-source Skills collection, featuring web desi... 🆕
 - [[continuedev-continue|continue]] — open-source coding agent
+- [[coollabsio-coolify|coolify]] — An open-source, self-hostable PaaS alternative to Vercel, He... 🆕
 - [[copilotkit-copilotkit|CopilotKit]] — The Frontend Stack for Agents & Generative UI. React, Angula...
 - [[coplaydev-unity-mcp|unity-mcp]] — Unity MCP acts as a bridge between AI assistants and your Un... 🆕
 - [[cordiverse-cordis|cordis]] — Meta-Framework of Spatiotemporal Composability 🔥
@@ -202,7 +204,7 @@
 - [[davila7-claude-code-templates|claude-code-templates]] — CLI tool for configuring and monitoring Claude Code 🆕
 - [[dayuanjiang-next-ai-draw-io|next-ai-draw-io]] — A next.js web application that integrates AI capabilities wi...
 - [[dbt-labs-dbt-core|dbt-core]] — dbt enables data analysts and engineers to transform their d...
-- [[debpalash-voicestudio|VoiceStudio]] — VoiceStudio is the open-source, fully-local ElevenLabs alter... 🔥
+- [[debpalash-voicestudio|VoiceStudio]] — VoiceStudio is the open-source, fully-local ElevenLabs alter...
 - [[decolua-9router|9router]] — Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor... 🔥
 - [[deepfakes-faceswap|faceswap]] — Deepfakes Software For All
 - [[deepseek-ai-awesome-deepseek-agent|awesome-deepseek-agent]] — No description
@@ -298,7 +300,7 @@
 - [[google-ai-edge-litert|LiteRT]] — LiteRT, successor to TensorFlow Lite. is Google's On-device ... 🆕
 - [[google-ax|ax]] — Google's open agentic orchestration runtime 🔥
 - [[google-deepmind-weathernext|weathernext]] — No description 🆕
-- [[google-gemini-gemini-cli|gemini-cli]] — An open-source AI agent that brings the power of Gemini dire... 🆕
+- [[google-gemini-gemini-cli|gemini-cli]] — An open-source AI agent that brings the power of Gemini dire...
 - [[google-googletest|googletest]] — GoogleTest - Google Testing and Mocking Framework 🔥
 - [[google-guava|guava]] — Google core libraries for Java 🔥
 - [[google-labs-code-stitch-skills|stitch-skills]] — A library of Agent Skills designed to work with the Stitch M... 🆕
@@ -376,12 +378,13 @@
 - [[jarrodwatts-claude-hud|claude-hud]] — A Claude Code plugin that shows what's happening - context u...
 - [[jaywcjlove-awesome-mac|awesome-mac]] —  This project is dedicated to collecting high-quality macOS...
 - [[jbeder-yaml-cpp|yaml-cpp]] — A YAML parser and emitter in C++
-- [[jbiaojerry-ebook-treasure-chest|ebook-treasure-chest]] — 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术... 🆕
+- [[jbiaojerry-ebook-treasure-chest|ebook-treasure-chest]] — 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术...
 - [[jcodesmore-ai-website-cloner-template|ai-website-cloner-template]] — Clone any website with one command using AI coding agents 🔥
 - [[jdx-mise|mise]] — dev tools, env vars, task runner
 - [[jellyfin-jellyfin|jellyfin]] — The Free Software Media System - Server Backend & API
 - [[jenkinsci-jenkins|jenkins]] — Jenkins automation server
 - [[jetbrains-go-modern-guidelines|go-modern-guidelines]] — Help AI coding agents write modern Go 🔥
+- [[jetbrains-thinkrail|thinkrail]] — Vibe code with pi in a lightweight, real IDE that customises... 🆕
 - [[jihe520-mathmodelagent|MathModelAgent]] — 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Ag... 🔥
 - [[jiji262-douyin-downloader|douyin-downloader]] — A practical Douyin downloader for both single-item and profi...
 - [[jingyaogong-minimind|minimind]] — 🧠 Train a 64M-parameter LLM from scratch in just 2h! 🆕
@@ -537,7 +540,7 @@
 - [[nomadamas-k-skill|k-skill]] — 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로 🆕
 - [[nousresearch-hermes-agent|hermes-agent]] — The agent that grows with you 🔥
 - [[ntdevlabs-tiny11builder|tiny11builder]] — WinUI app for building smaller, customized Windows 11 images...
-- [[nutlope-hallmark|hallmark]] — Anti-AI-slop design skill for Claude Code, Cursor, and Codex...
+- [[nutlope-hallmark|hallmark]] — Anti-AI-slop design skill for Claude Code, Cursor, and Codex... 🆕
 - [[nuxt-nuxt|nuxt]] — the full-stack Vue framework
 - [[nvidia-ai-blueprints-video-search-and-summarization|video-search-and-summarization]] — Suite of reference architectures for building GPU-accelerate... 🆕
 - [[nvidia-cosmos|cosmos]] — NVIDIA Cosmos is an open platform of world models, datasets,... 🆕
@@ -599,7 +602,7 @@
 - [[paperswithbacktest-awesome-systematic-trading|awesome-systematic-trading]] — A curated list of awesome libraries, packages, strategies, b... 🔥
 - [[par274-sharpemu|sharpemu]] — An experimental PlayStation 5 emulator project.
 - [[pascalorg-editor|editor]] — Open-source 3D architectural editor with a local CLI, MCP to...
-- [[pbakaus-impeccable|impeccable]] — The design language that makes your AI harness better at des...
+- [[pbakaus-impeccable|impeccable]] — The design language that makes your AI harness better at des... 🆕
 - [[peetzweg-opendisplay|opendisplay]] — Free, open-source Sidecar/Duet alternative — use your iPhone...
 - [[penpot-penpot|penpot]] — Penpot: The open-source design platform for Product teams th...
 - [[permissionlesstech-bitchat|bitchat]] — bluetooth mesh chat, IRC vibes

@@ -38,7 +38,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[google-guava]] [[yuliskov-smarttube]] [[checkstyle-checkstyle]] [[luongnv89-claude-howto]]
+[[yuliskov-smarttube]] [[checkstyle-checkstyle]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[google-guava]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

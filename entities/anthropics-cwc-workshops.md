@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[makecindy-cindy]] [[obra-superpowers]] [[supabase-supabase]] [[php-php-src]]
+[[makecindy-cindy]] [[jetbrains-thinkrail]] [[agricidaniel-claude-seo]] [[hugohe3-ppt-master]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

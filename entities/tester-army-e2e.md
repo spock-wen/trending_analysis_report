@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[makecindy-cindy]] [[trycua-cua]] [[hkuds-cli-anything]] [[msitarzewski-agency-agents]]
+[[makecindy-cindy]] [[jetbrains-thinkrail]] [[openbmb-voxcpm]] [[supabase-supabase]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[web]] [[image-gen]]
 

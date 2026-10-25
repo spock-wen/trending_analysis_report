@@ -38,7 +38,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[luongnv89-claude-howto]] [[nutlope-hallmark]] [[alibaba-open-code-review]] [[aws-agent-toolkit-for-aws]] [[pbakaus-impeccable]]
+[[juliusbrussee-caveman]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[alibaba-open-code-review]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[makecindy-cindy]] [[supabase-supabase]] [[getsentry-sentry]] [[ruvnet-ruflo]]
+[[makecindy-cindy]] [[xtool-org-xtool]] [[jetbrains-thinkrail]] [[getsentry-sentry]] [[ruvnet-ruflo]]
 
 **所属领域**: [[devops]]
 

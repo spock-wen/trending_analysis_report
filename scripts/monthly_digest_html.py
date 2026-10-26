@@ -216,13 +216,13 @@ top_html = ''
 for i, r in enumerate(top10):
     d = domain(r['name'])
     c = COLORS[d]
-    sub = [r['lang'], f"上榜 {r['days']}", f"最佳 #{r['best']}", f"总星 {r['total']}★"]
+    # 375px 宽：星数并入副信息行首，序号 1 而非 01，去掉右侧星数栏
+    sub = [f"上榜 {r['days']}", f"最佳 #{r['best']}", f"总星 {r['total']}★"]
     sub_html = ' · '.join(s for s in sub if s)
-    top_html += f'''<div class="row"><div class="idx">{i+1:02d}</div>
+    top_html += f'''<div class="row"><div class="idx">{i+1}</div>
   <div class="main"><div class="l1"><span class="name">{esc(r['name'])}</span>
     <span class="tag" style="background:{c}">{LABELS[d]}</span></div>
-    <div class="sub">{esc(sub_html)}</div></div>
-  <div class="stars"><div class="wk" style="color:{c}">+{esc(r['new'])}<span style="font-size:15px">★</span></div></div>
+    <div class="sub"><span class="st" style="color:{c}">+{esc(r['new'])}★</span><span class="sep">·</span>{esc(sub_html)}</div></div>
 </div>'''
 
 crown_html = ''
@@ -243,65 +243,84 @@ if grid_rows:
     grid_html = f'''<div class="gridwrap"><table class="kv">
 <thead><tr>{head_cells}</tr></thead><tbody>{body_cells}</tbody></table></div>'''
 
-meta_bits = [f'{p1} ~ {p2}', f'{n_projects} 个项目', f'{n_records} 条记录']
-if mom_pct:
-    meta_bits.append(f'环比 {mom_pct}')
-meta = ' ｜ '.join(meta_bits)
+# 375px 头部：meta 拆两行（日期 / 指标）。指标行只放数字格里没有的信息，
+# 避免 204 个项目 / 环比 +9.0% 与三格数字条重复（vision 复检抓到的冗余）
+meta_date = f'{p1} ~ {p2}'
+meta_rest = f'{n_records} 条上榜记录'
+meta = meta_date  # 兼容 print
 
-toc = '本图结构 ｜ ' + ' · '.join(
+# 375px 头部：孤立大数字改三格数字条（与周报同构）
+mom_sign = ''
+if mom_pct:
+    mom_sign = mom_pct.strip()
+mom_cls = 'down' if mom_sign.startswith('-') else ''
+stat_stars = esc(total_stars) or '0'
+stat_html = f'''<div class="stats">
+    <div class="stat"><div class="v hl">{stat_stars}★</div><div class="k">月度新增</div></div>
+    <div class="stat"><div class="v {mom_cls}">{esc(mom_sign) or '—'}</div><div class="k">环比上月</div></div>
+    <div class="stat"><div class="v">{n_projects}</div><div class="k">收录项目</div></div>
+  </div>'''
+
+toc = '本图结构 · ' + ' · '.join(
     t for t, ok in [('本月格局', narratives), ('月度 TOP10', top10),
                     ('三大王冠', crowns), ('关键指标', grid_rows)] if ok)
 
 HTML = f'''<!DOCTYPE html><html lang="zh"><head><meta charset="UTF-8">
 <style>
   * {{ margin:0; padding:0; box-sizing:border-box; }}
-  body {{ font-family:'Noto Sans CJK SC','Noto Sans SC',sans-serif; background:#EEF0F4; width:1080px; }}
-  .head {{ padding:44px 36px 34px; display:flex; justify-content:space-between; align-items:flex-start; }}
-  .head h1 {{ font-size:40px; font-weight:900; color:#1A1B26; letter-spacing:1px; }}
-  .head .bar {{ width:96px; height:7px; background:#E4572E; border-radius:4px; margin:14px 0 16px; }}
-  .head .meta {{ font-size:19px; color:#4A4F66; font-weight:500; }}
-  .head .toc {{ font-size:16px; color:#9AA0B5; margin-top:8px; }}
-  .head .right {{ text-align:right; padding-top:6px; }}
-  .head .num {{ font-size:42px; font-weight:900; color:#E4572E; }}
-  .head .lbl {{ font-size:15px; color:#9AA0B5; margin-top:4px; }}
-  .sec {{ font-size:28px; font-weight:900; color:#1A1B26; margin:38px 0 20px; letter-spacing:1px; }}
-  .sec .no {{ color:#E4572E; margin-right:10px; }}
-  .narr {{ background:#fff; border-radius:16px; margin-bottom:16px; overflow:hidden;
-          box-shadow:0 2px 10px rgba(26,27,38,.05); display:flex; }}
-  .narr .spine {{ width:7px; flex-shrink:0; }}
-  .narr .body {{ padding:22px 26px 20px; flex:1; }}
-  .narr .ttl {{ font-size:21px; font-weight:700; padding:10px 16px; border-radius:9px; margin-bottom:14px; display:inline-block; }}
-  .narr p {{ font-size:17px; color:#4A4F66; line-height:1.65; }}
-  .row {{ background:#fff; border-radius:14px; margin-bottom:16px; padding:20px 26px 18px;
-         box-shadow:0 2px 8px rgba(26,27,38,.04); display:flex; align-items:flex-start; }}
-  .row .idx {{ font-size:26px; font-weight:900; color:#C3C8D4; width:52px; flex-shrink:0; padding-top:2px; }}
-  .row .main {{ flex:1; min-width:0; padding-right:20px; }}
-  .row .l1 {{ display:flex; align-items:center; gap:14px; margin-bottom:8px; }}
-  .row .name {{ font-size:20px; font-weight:700; color:#1A1B26; }}
-  .row .tag {{ font-size:13px; font-weight:700; color:#fff; padding:4px 12px; border-radius:20px; white-space:nowrap; }}
-  .row .sub {{ font-size:14px; color:#9AA0B5; margin-top:2px; }}
-  .row .stars {{ text-align:right; flex-shrink:0; padding-top:2px; }}
-  .row .wk {{ font-size:22px; font-weight:900; }}
-  .knives {{ display:flex; gap:20px; }}
-  .knife {{ flex:1; background:#fff; border-radius:16px; padding:24px 24px 20px; box-shadow:0 2px 10px rgba(26,27,38,.05); }}
-  .knife .tag {{ display:inline-block; font-size:14px; font-weight:700; color:#fff; padding:5px 16px; border-radius:20px; margin-bottom:14px; }}
-  .knife h3 {{ font-size:19px; font-weight:700; color:#1A1B26; margin-bottom:10px; word-break:break-all; }}
-  .knife p {{ font-size:15.5px; color:#4A4F66; line-height:1.6; }}
-  .gridwrap {{ background:#fff; border-radius:16px; padding:10px 20px 16px; box-shadow:0 2px 10px rgba(26,27,38,.05); }}
-  table.kv {{ width:100%; border-collapse:collapse; }}
-  table.kv th {{ font-size:15px; color:#9AA0B5; font-weight:700; text-align:left; padding:14px 12px 10px; border-bottom:2px solid #E7E9EF; }}
-  table.kv td {{ font-size:16px; color:#4A4F66; padding:11px 12px; border-bottom:1px solid #EFF1F5; }}
+  body {{ font-family:'Noto Sans CJK SC','Noto Sans SC',sans-serif; background:#EEF0F4; width:375px; }}
+  .head {{ padding:24px 14px 18px; }}
+  .head h1 {{ font-size:26px; font-weight:900; color:#1A1B26; letter-spacing:.5px; }}
+  .head .bar {{ width:52px; height:5px; background:#E4572E; border-radius:3px; margin:10px 0 11px; }}
+  .head .meta {{ font-size:13px; color:#3F4459; font-weight:600; line-height:1.6; }}
+  .head .meta2 {{ font-size:12px; color:#6B7186; font-weight:500; line-height:1.6; margin-top:1px; }}
+  .head .toc {{ font-size:11px; color:#8A90A5; margin-top:6px; }}
+  .stats {{ display:grid; grid-template-columns:1.3fr 1fr 1fr; gap:8px; margin:14px 0 2px; }}
+  .stat {{ background:#fff; border-radius:11px; padding:11px 10px 9px; box-shadow:0 2px 8px rgba(26,27,38,.05); }}
+  .stat .v {{ font-size:19px; font-weight:900; color:#1A1B26; line-height:1.15; font-variant-numeric:tabular-nums; white-space:nowrap; }}
+  .stat .v.hl {{ color:#E4572E; }}
+  .stat .v.down {{ color:#C0392B; }}
+  .stat .k {{ font-size:11px; color:#8A90A5; margin-top:4px; font-weight:500; }}
+  .sec {{ font-size:17px; font-weight:900; color:#1A1B26; margin:22px 0 11px; letter-spacing:.3px; }}
+  .sec .no {{ color:#E4572E; margin-right:6px; }}
+  .narr {{ background:#fff; border-radius:13px; margin-bottom:10px; overflow:hidden;
+          box-shadow:0 2px 8px rgba(26,27,38,.05); display:flex; }}
+  .narr .spine {{ width:5px; flex-shrink:0; }}
+  .narr .body {{ padding:13px 14px 12px; flex:1; }}
+  .narr .ttl {{ font-size:15px; font-weight:700; padding:6px 11px; border-radius:7px; margin-bottom:9px; display:inline-block; line-height:1.4; }}
+  .narr p {{ font-size:15px; color:#3F4459; line-height:1.8; }}
+  .row {{ background:#fff; border-radius:12px; margin-bottom:8px; padding:11px 13px 10px;
+         box-shadow:0 2px 6px rgba(26,27,38,.04); display:flex; align-items:flex-start; }}
+  .row .idx {{ font-size:15px; font-weight:900; color:#B8BECB; width:18px; flex-shrink:0; padding-top:1px; }}
+  .row .main {{ flex:1; min-width:0; }}
+  .row .l1 {{ display:flex; align-items:center; gap:7px; margin-bottom:4px; flex-wrap:wrap; }}
+  .row .name {{ font-size:15px; font-weight:700; color:#1A1B26; }}
+  .row .tag {{ font-size:10px; font-weight:700; color:#fff; padding:2px 7px; border-radius:11px; white-space:nowrap; }}
+  .row .sub {{ font-size:12px; color:#8A90A5; margin-top:5px; line-height:1.5; }}
+  .row .sub .st {{ font-weight:900; }}
+  .row .sub .sep {{ margin:0 5px; color:#C8CDD8; }}
+  .knives {{ display:flex; flex-direction:column; gap:10px; }}
+  .knife {{ background:#fff; border-radius:13px; padding:13px 14px 12px; box-shadow:0 2px 8px rgba(26,27,38,.05); }}
+  .knife .tag {{ display:inline-block; font-size:11px; font-weight:700; color:#fff; padding:3px 9px; border-radius:11px; margin-bottom:7px; }}
+  .knife h3 {{ font-size:15px; font-weight:700; color:#1A1B26; margin-bottom:5px; word-break:break-all; }}
+  .knife p {{ font-size:13px; color:#3F4459; line-height:1.7; }}
+  .gridwrap {{ background:#fff; border-radius:13px; padding:6px 12px 10px; box-shadow:0 2px 8px rgba(26,27,38,.05); }}
+  table.kv {{ width:100%; border-collapse:collapse; table-layout:fixed; }}
+  table.kv th {{ font-size:11px; color:#8A90A5; font-weight:700; text-align:left; padding:10px 4px 7px; border-bottom:2px solid #E7E9EF; }}
+  table.kv th:first-child {{ width:38%; }}
+  table.kv td {{ font-size:12px; color:#3F4459; padding:8px 4px; border-bottom:1px solid #EFF1F5; line-height:1.45; word-break:break-all; }}
   table.kv tr:last-child td {{ border-bottom:none; }}
   table.kv td:first-child {{ color:#1A1B26; font-weight:500; }}
-  .foot {{ background:#E7E9EF; padding:20px 0 22px; margin-top:36px; text-align:center; font-size:14px; color:#9AA0B5; }}
+  .foot {{ background:#E7E9EF; padding:12px 0 13px; margin-top:20px; text-align:center; font-size:11px; color:#8A90A5; }}
 </style></head><body>
 <div class="head">
-  <div class="left"><h1>GitHub Trending 月报</h1><div class="bar"></div>
-    <div class="meta">{esc(meta)}</div>
-    <div class="toc">{esc(toc)}</div></div>
-  <div class="right"><div class="num">{esc(total_stars)}★</div><div class="lbl">月度新增</div></div>
+  <h1>GitHub Trending 月报</h1><div class="bar"></div>
+  <div class="meta">{esc(meta_date)}</div>
+  <div class="meta2">{esc(meta_rest)}</div>
+  <div class="toc">{esc(toc)}</div>
+  {stat_html}
 </div>
-<div style="padding:0 36px;">
+<div style="padding:0 14px;">
 {sec_title('本月格局变了什么') if narratives else ''}{narr_html}
 {sec_title(f'月度 TOP10（{mm_label} 按新增星排序）') if top_html else ''}{top_html}
 {sec_title('三大王冠') if crown_html else ''}
@@ -316,12 +335,13 @@ open(wrap, 'w', encoding='utf-8').write(HTML)
 png = f'{REPO}/reports/monthly/monthly-{month}-digest.png'
 subprocess.run(['chromium', '--headless=new', '--no-sandbox', '--disable-gpu',
                 '--disable-dev-shm-usage', '--hide-scrollbars',
-                '--force-device-scale-factor=2', '--window-size=1080,4400',
+                '--force-device-scale-factor=6', '--window-size=375,4400',
                 f'--screenshot={png}.raw.png', wrap], check=True)
 im = Image.open(f'{png}.raw.png')
 a = np.asarray(im.convert('L'))
 content_end = np.where((a < 235).any(axis=1))[0].max()
-im.crop((0, 0, 2160, int(content_end) + 46)).save(png)
+im.crop((0, 0, 2250, int(content_end) + 90)).save(png)
 os.remove(f'{png}.raw.png')
-print(f'saved: {png} | 2160x{int(content_end)+46}px')
+print(f'saved: {png} | 2250x{int(content_end)+90}px')
+print(f'手机可读性：正文 15px/375画布 → {15*343/375:.1f}px ({15*343/375/2:.1f}pt)；旧版 1080 画布 17px → {17*343/1080:.1f}px ({17*343/1080/2:.1f}pt)')
 print(f'narratives={len(narratives)} top10={len(top10)} crowns={len(crowns)} grid={len(grid_rows)} rows | {meta}')

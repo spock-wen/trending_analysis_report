@@ -28,6 +28,9 @@
 │   ├── github_trending_collector.py   # 日榜采集 → raw/trending/
 │   ├── github_weekly_collector.py     # 周榜采集 → DB + raw/trending-weekly/
 │   ├── github_monthly_collector.py    # 月榜采集 → raw/trending-monthly/
+│   ├── init_monthly_db.py             # 幂等建 monthly_trending
+│   ├── ingest_trending_raw.py         # raw 日/周/月 → SQLite（可重跑）
+│   ├── reconcile_trending_db.py       # DB≡raw 对账
 │   └── wiki_lint.py                   # Lint 健康检查脚本
 │
 ├── data/                        # SQLite 数据库（gitignore）
@@ -85,6 +88,20 @@ python3 scripts/github_monthly_collector.py         # → raw/trending-monthly/Y
 - **周**：文件名 = `week_start`（该周周一，`YYYY-MM-DD`）；顶层 `period=weekly`，项目字段用 `stars_this_period`（非 `stars_today`）
 - **月**：文件名 = 日历月 `YYYY-MM`；顶层 `period=monthly`，同样用 `stars_this_period`
 - 月榜 raw 只服务 GitHub monthly 榜同源；**不**替代 `wiki_daily.py --month-report` 叙事聚合
+
+### 1c. raw → SQLite 入库 / 对账
+
+扩同文件 `data/github_trending.db`（现网同路径约定）。权威仍是 raw；DB 可重建。
+
+```bash
+python3 scripts/init_monthly_db.py                 # 幂等建 monthly_trending
+python3 scripts/ingest_trending_raw.py --all       # 日/周/月 raw → 表（可重跑）
+python3 scripts/reconcile_trending_db.py --window 14
+```
+
+- 日 → `trending_daily`；周 → `weekly_trending`（`stars_this_period`→`weekly_stars`）；月 → `monthly_trending`（列名 `stars_this_period`）
+- ingest 独立于 scrape：失败 **不** 回滚 raw；exit≠0 时可单独重跑
+- 查询样例见 [`docs/trending-db-queries.md`](docs/trending-db-queries.md)
 
 ### 2. 运行 Lint 检查
 

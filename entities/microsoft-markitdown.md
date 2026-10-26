@@ -8,7 +8,7 @@ tags: [python]
 sources: [raw/trending/2026-09-09.json]
 confidence: high
 trending_count_daily: 14
-trending_count_weekly: 0
+trending_count_weekly: 5
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-04-11
@@ -38,5 +38,5 @@ Python tool for converting files and office documents to Markdown.
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[debpalash-voicestudio]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]]
+[[nvidia-skillspector]] [[panniantong-agent-reach]] [[tauricresearch-tradingagents]] [[debpalash-voicestudio]]
 

@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[plausible-analytics]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]] [[tauricresearch-tradingagents]]
+[[plausible-analytics]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[teslamate-org-teslamate]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]]
 

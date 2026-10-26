@@ -8,7 +8,7 @@ tags: [python, ai-agent, education, rising]
 sources: [raw/trending/2026-08-04.json]
 confidence: high
 trending_count_daily: 7
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 5
 first_trending: 2026-07-01
@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[ruvnet-ruflo]] [[lyogavin-airllm]] [[mlabonne-llm-course]] [[nutlope-hallmark]]
+[[ruvnet-ruflo]] [[microsoft-generative-ai-for-beginners]] [[fastapi-fastapi]] [[mlabonne-llm-course]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

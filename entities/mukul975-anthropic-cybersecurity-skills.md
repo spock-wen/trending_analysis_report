@@ -8,7 +8,7 @@ tags: [python, ai-agent, cli, security, rising]
 sources: [raw/trending/2026-08-20.json]
 confidence: high
 trending_count_daily: 12
-trending_count_weekly: 0
+trending_count_weekly: 3
 trending_count_monthly: 0
 consecutive_days: 3
 first_trending: 2026-05-25
@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[nutlope-hallmark]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[google-gemini-gemini-cli]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

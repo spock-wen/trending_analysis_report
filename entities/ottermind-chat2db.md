@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[yuliskov-smarttube]] [[checkstyle-checkstyle]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[google-guava]]
+[[coollabsio-coolify]] [[google-guava]] [[nvidia-openshell]] [[snailsploit-claude-red]] [[checkstyle-checkstyle]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

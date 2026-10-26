@@ -34,7 +34,7 @@ Lightweight (7MB) Terminal-first AI-native dev workspace
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[coollabsio-coolify]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[jetbrains-thinkrail]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

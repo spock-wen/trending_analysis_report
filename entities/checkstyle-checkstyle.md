@@ -8,7 +8,7 @@ tags: [java, cli]
 sources: [raw/trending/2026-09-01.json]
 confidence: medium
 trending_count_daily: 2
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-08-31
@@ -35,7 +35,7 @@ Checkstyle is a development tool to help programmers write Java code that adhere
 
 ## 相关项目
 
-[[yuliskov-smarttube]] [[google-guava]] [[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]]
+[[coollabsio-coolify]] [[google-guava]] [[nvidia-openshell]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]]
 

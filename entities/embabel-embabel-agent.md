@@ -8,7 +8,7 @@ tags: [ai-agent]
 sources: [raw/trending/2026-08-13.json]
 confidence: low
 trending_count_daily: 1
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-08-13
@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[android-skills]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]]
+[[android-skills]] [[mahlernim-google-timeline-visualizer]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni
 
 ## 相关项目
 
-[[makecindy-cindy]] [[xtool-org-xtool]] [[jetbrains-thinkrail]] [[getsentry-sentry]] [[ruvnet-ruflo]]
+[[coollabsio-coolify]] [[ruvnet-ruflo]] [[nvidia-openshell]] [[jetbrains-thinkrail]] [[google-gemini-gemini-cli]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

@@ -8,7 +8,7 @@ tags: [typescript, ai-agent, security]
 sources: [raw/trending/2026-08-31.json]
 confidence: high
 trending_count_daily: 3
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-08-25
@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[makecindy-cindy]] [[jetbrains-thinkrail]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]]
+[[jetbrains-thinkrail]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[makecindy-cindy]] [[nightly-labs-openbot]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

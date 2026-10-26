@@ -37,7 +37,7 @@ A Claude Code plugin that shows what's happening - context usage, active tools, 
 
 ## 相关项目
 
-[[nodejs-node]] [[openbmb-voxcpm]] [[debpalash-voicestudio]] [[withmarbleapp-os-taxonomy]] [[dietrichgebert-ponytail]]
+[[openbmb-voxcpm]] [[hugohe3-ppt-master]] [[dietrichgebert-ponytail]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

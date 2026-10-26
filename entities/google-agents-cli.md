@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[getsentry-sentry]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[ruvnet-ruflo]]
+[[coollabsio-coolify]] [[ruvnet-ruflo]] [[nvidia-openshell]] [[nvidia-skillspector]] [[google-gemini-gemini-cli]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

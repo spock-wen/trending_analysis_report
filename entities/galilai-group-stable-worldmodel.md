@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[nutlope-hallmark]]
+[[coollabsio-coolify]] [[openbmb-voxcpm]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

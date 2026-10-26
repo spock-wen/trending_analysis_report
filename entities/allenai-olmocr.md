@@ -8,7 +8,7 @@ tags: [python, ai-agent, data]
 sources: [raw/trending/2026-07-02.json]
 confidence: low
 trending_count_daily: 1
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-07-02
@@ -34,7 +34,7 @@ Toolkit for linearizing PDFs for LLM datasets/training
 
 ## 相关项目
 
-[[supabase-supabase]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[nutlope-hallmark]]
+[[coollabsio-coolify]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

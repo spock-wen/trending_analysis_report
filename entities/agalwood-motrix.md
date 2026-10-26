@@ -35,5 +35,5 @@ A full-featured download manager.
 
 ## 相关项目
 
-[[google-gemini-gemini-cli]] [[makecindy-cindy]] [[jetbrains-thinkrail]] [[renhuai123-ziwei-doushu]]
+[[gitroomhq-postiz-app]] [[makecindy-cindy]] [[jetbrains-thinkrail]] [[nightly-labs-openbot]]
 

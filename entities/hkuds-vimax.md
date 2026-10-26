@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[nutlope-hallmark]]
+[[coollabsio-coolify]] [[openbmb-voxcpm]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

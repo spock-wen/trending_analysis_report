@@ -34,7 +34,7 @@ AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[nutlope-hallmark]]
+[[coollabsio-coolify]] [[jetbrains-thinkrail]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[makecindy-cindy]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

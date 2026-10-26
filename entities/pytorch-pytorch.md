@@ -8,7 +8,7 @@ tags: [python]
 sources: [raw/trending/2026-10-12.json]
 confidence: high
 trending_count_daily: 4
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-07-03
@@ -37,5 +37,5 @@ Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[debpalash-voicestudio]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]]
+[[nvidia-skillspector]] [[panniantong-agent-reach]] [[tauricresearch-tradingagents]] [[debpalash-voicestudio]]
 

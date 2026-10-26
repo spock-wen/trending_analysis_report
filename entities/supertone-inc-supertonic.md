@@ -31,14 +31,14 @@ Lightning-Fast, On-Device, Multilingual TTS running natively via ONNX.
 ## 上榜历史
 
   - 2026-05-19: #5, +715⭐
-  - 2026-05-17: #5, +745⭐
+  - 2026-05-17: #4, +719⭐
   - 2026-05-16: #4, +719⭐
   - 2026-05-15: #9, +1163⭐
   - 2026-05-14: #9, +1048⭐
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[openbmb-voxcpm]] [[abue-ammar-tinycast]] [[hugohe3-ppt-master]] [[manaflow-ai-cmux]]
+[[openbmb-voxcpm]] [[hugohe3-ppt-master]] [[alishahryar1-free-claude-code]] [[debpalash-voicestudio]] [[abue-ammar-tinycast]]
 
 **所属领域**: [[audio]]
 

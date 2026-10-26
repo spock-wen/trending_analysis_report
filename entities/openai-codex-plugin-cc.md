@@ -8,7 +8,7 @@ tags: [ai-agent, rising]
 sources: [raw/trending/2026-07-07.json]
 confidence: high
 trending_count_daily: 5
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 5
 first_trending: 2026-07-03
@@ -38,7 +38,7 @@ Use Codex from Claude Code to review code or delegate tasks.
 
 ## 相关项目
 
-[[nodejs-node]] [[withmarbleapp-os-taxonomy]] [[dietrichgebert-ponytail]] [[cloudflare-security-audit-skill]] [[nutlope-hallmark]]
+[[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[tauricresearch-tradingagents]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]]
 

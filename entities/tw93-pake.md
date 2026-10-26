@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[snailsploit-claude-red]] [[nvidia-openshell]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[pollen-robotics-microduck]] [[google-gemini-gemini-cli]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]] [[cli]]
 

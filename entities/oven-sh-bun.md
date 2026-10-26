@@ -33,10 +33,10 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
   - 2026-07-12: #10, +654⭐
   - 2026-07-11: #2, +307⭐
   - 2026-05-18: #4, +908⭐
-  - 2026-05-17: #1, +414⭐
+  - 2026-05-17: #10, +448⭐
   - 2026-05-16: #10, +448⭐
 
 ## 相关项目
 
-[[pollen-robotics-microduck]] [[nvidia-openshell]] [[pbakaus-impeccable]] [[akitaonrails-ai-memory]]
+[[nvidia-openshell]] [[pollen-robotics-microduck]] [[akitaonrails-ai-memory]] [[pbakaus-impeccable]]
 

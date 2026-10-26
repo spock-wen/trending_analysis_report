@@ -8,7 +8,7 @@ tags: [python, ai-agent, data, devops]
 sources: [raw/trending/2026-06-06.json]
 confidence: medium
 trending_count_daily: 2
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-06-05
@@ -35,7 +35,7 @@ NVIDIA Cosmos is an open platform of world models, datasets, and tools that enab
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[xtool-org-xtool]] [[microsoft-ai-for-beginners]] [[getsentry-sentry]] [[supabase-supabase]]
+[[coollabsio-coolify]] [[ruvnet-ruflo]] [[snailsploit-claude-red]] [[microsoft-ai-for-beginners]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

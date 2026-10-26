@@ -9,7 +9,7 @@ sources: [raw/trending/2026-10-24.json]
 confidence: high
 trending_count_daily: 5
 trending_count_weekly: 0
-trending_count_monthly: 0
+trending_count_monthly: 1
 consecutive_days: 1
 first_trending: 2026-09-13
 last_trending: 2026-10-24
@@ -38,7 +38,7 @@ claude-red is a curated library of offensive security skills designed for the Cl
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[nvidia-skillspector]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[security]]
 

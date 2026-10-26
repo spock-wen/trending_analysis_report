@@ -8,7 +8,7 @@ tags: [typescript, ai-agent, cli]
 sources: [raw/trending/2026-07-12.json]
 confidence: medium
 trending_count_daily: 2
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-07-11
@@ -35,7 +35,7 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[coollabsio-coolify]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[jetbrains-thinkrail]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

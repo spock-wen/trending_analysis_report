@@ -8,7 +8,7 @@ tags: [typescript]
 sources: [raw/trending/2026-10-19.json]
 confidence: high
 trending_count_daily: 12
-trending_count_weekly: 0
+trending_count_weekly: 6
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-05-30
@@ -38,5 +38,5 @@ Cursor plugin specification and official plugins
 
 ## 相关项目
 
-[[google-gemini-gemini-cli]] [[makecindy-cindy]] [[jetbrains-thinkrail]] [[renhuai123-ziwei-doushu]]
+[[gitroomhq-postiz-app]] [[makecindy-cindy]] [[jetbrains-thinkrail]] [[nightly-labs-openbot]]
 

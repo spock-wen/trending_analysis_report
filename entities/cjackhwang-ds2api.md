@@ -37,7 +37,7 @@ Deepseek to API: A lightweight, high-performance full-stack middleware convertin
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[coollabsio-coolify]]
+[[vxcontrol-pentagi]] [[coollabsio-coolify]] [[alibaba-open-code-review]] [[nvidia-openshell]] [[strelov1-freehire]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -8,7 +8,7 @@ tags: [typescript]
 sources: [raw/trending/2026-10-04.json]
 confidence: medium
 trending_count_daily: 2
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-10-03
@@ -35,5 +35,5 @@ Build production-ready applications in TypeScript
 
 ## 相关项目
 
-[[google-gemini-gemini-cli]] [[makecindy-cindy]] [[jetbrains-thinkrail]] [[renhuai123-ziwei-doushu]]
+[[gitroomhq-postiz-app]] [[makecindy-cindy]] [[jetbrains-thinkrail]] [[nightly-labs-openbot]]
 

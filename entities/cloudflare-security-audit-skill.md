@@ -8,8 +8,8 @@ tags: [ai-agent, security, rising]
 sources: [raw/trending/2026-10-26.json]
 confidence: high
 trending_count_daily: 12
-trending_count_weekly: 0
-trending_count_monthly: 0
+trending_count_weekly: 2
+trending_count_monthly: 1
 consecutive_days: 6
 first_trending: 2026-09-17
 last_trending: 2026-10-26
@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[nodejs-node]] [[dietrichgebert-ponytail]] [[withmarbleapp-os-taxonomy]] [[nutlope-hallmark]]
+[[snailsploit-claude-red]] [[nvidia-skillspector]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

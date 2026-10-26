@@ -8,7 +8,7 @@ tags: [rust, ai-agent, rising]
 sources: [raw/trending/2026-08-15.json]
 confidence: high
 trending_count_daily: 3
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 3
 first_trending: 2026-08-13
@@ -36,7 +36,7 @@ Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[nvidia-openshell]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]]
+[[nvidia-openshell]] [[pollen-robotics-microduck]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]]
 

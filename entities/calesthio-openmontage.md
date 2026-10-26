@@ -8,7 +8,7 @@ tags: [python, ai-agent, data]
 sources: [raw/trending/2026-10-06.json]
 confidence: high
 trending_count_daily: 16
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-06-18
@@ -38,7 +38,7 @@ World's first open-source, agentic video production system. 12 production pipeli
 
 ## 相关项目
 
-[[supabase-supabase]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[nutlope-hallmark]]
+[[coollabsio-coolify]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[yuliskov-smarttube]] [[checkstyle-checkstyle]] [[getsentry-sentry]] [[supabase-supabase]]
+[[coollabsio-coolify]] [[ruvnet-ruflo]] [[google-guava]] [[snailsploit-claude-red]] [[checkstyle-checkstyle]]
 
 **所属领域**: [[data]] [[devops]]
 

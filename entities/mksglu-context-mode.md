@@ -8,7 +8,7 @@ tags: [typescript, ai-agent, rising]
 sources: [raw/trending/2026-10-17.json]
 confidence: high
 trending_count_daily: 13
-trending_count_weekly: 0
+trending_count_weekly: 3
 trending_count_monthly: 0
 consecutive_days: 5
 first_trending: 2026-05-06
@@ -38,7 +38,7 @@ Context window optimization for AI coding agents. Sandboxes tool output (98% red
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]]
+[[jetbrains-thinkrail]] [[makecindy-cindy]] [[nightly-labs-openbot]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[snailsploit-claude-red]]
+[[coollabsio-coolify]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[nutlope-hallmark]] [[nightly-labs-openbot]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

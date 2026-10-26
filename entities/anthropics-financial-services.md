@@ -8,7 +8,7 @@ tags: [python, rising]
 sources: [raw/trending/2026-09-25.json]
 confidence: high
 trending_count_daily: 9
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 5
 first_trending: 2026-05-08
@@ -38,5 +38,5 @@ No description
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[debpalash-voicestudio]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]]
+[[nvidia-skillspector]] [[panniantong-agent-reach]] [[tauricresearch-tradingagents]] [[debpalash-voicestudio]]
 

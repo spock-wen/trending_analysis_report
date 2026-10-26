@@ -36,7 +36,7 @@ Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[coollabsio-coolify]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[jetbrains-thinkrail]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

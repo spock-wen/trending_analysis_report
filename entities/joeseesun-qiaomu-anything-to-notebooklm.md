@@ -30,11 +30,12 @@ Claude Skill: Multi-source content processor for NotebookLM.
 
 ## 上榜历史
 
+  - 2026-05-17: #12, +438⭐
   - 2026-05-16: #12, +438⭐
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]]
+[[nvidia-skillspector]] [[panniantong-agent-reach]] [[debpalash-voicestudio]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

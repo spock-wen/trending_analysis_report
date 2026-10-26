@@ -38,7 +38,7 @@ An autonomous agent for deep financial research
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]]
+[[jetbrains-thinkrail]] [[k-dense-ai-scientific-agent-skills]] [[makecindy-cindy]] [[nightly-labs-openbot]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

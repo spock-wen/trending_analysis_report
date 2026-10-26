@@ -8,7 +8,7 @@ tags: [python, image-gen, rising]
 sources: [raw/trending/2026-10-22.json]
 confidence: high
 trending_count_daily: 6
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 4
 first_trending: 2026-08-10
@@ -38,7 +38,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[coollabsio-coolify]]
+[[coollabsio-coolify]] [[openbmb-voxcpm]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[debpalash-voicestudio]]
 
 **所属领域**: [[image-gen]]
 

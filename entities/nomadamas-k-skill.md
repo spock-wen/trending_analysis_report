@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[nodejs-node]] [[withmarbleapp-os-taxonomy]] [[dietrichgebert-ponytail]] [[cloudflare-security-audit-skill]] [[nutlope-hallmark]]
+[[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[tauricresearch-tradingagents]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]]
 

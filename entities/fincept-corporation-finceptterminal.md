@@ -35,7 +35,7 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 
 ## 相关项目
 
-[[supabase-supabase]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[coollabsio-coolify]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[google-gemini-gemini-cli]]
 
 **所属领域**: [[cli]] [[data]] [[science]]
 

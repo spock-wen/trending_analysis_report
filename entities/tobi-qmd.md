@@ -35,7 +35,7 @@ mini cli search engine for your docs, knowledge bases, meeting notes, whatever. 
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[jetbrains-thinkrail]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]]
 

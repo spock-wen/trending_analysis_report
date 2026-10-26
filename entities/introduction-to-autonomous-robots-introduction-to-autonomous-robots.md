@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]] [[cs341-illinois-coursebook]] [[tauricresearch-tradingagents]]
+[[cs341-illinois-coursebook]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[multica-ai-andrej-karpathy-skills]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

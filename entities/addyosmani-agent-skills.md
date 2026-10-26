@@ -8,7 +8,7 @@ tags: [ai-agent]
 sources: [raw/trending/2026-10-10.json]
 confidence: high
 trending_count_daily: 34
-trending_count_weekly: 0
+trending_count_weekly: 5
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-05-07
@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[nodejs-node]] [[withmarbleapp-os-taxonomy]] [[dietrichgebert-ponytail]] [[cloudflare-security-audit-skill]] [[nutlope-hallmark]]
+[[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[tauricresearch-tradingagents]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]]
 

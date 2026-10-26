@@ -8,7 +8,7 @@ tags: [rust]
 sources: [raw/trending/2026-05-28.json]
 confidence: low
 trending_count_daily: 1
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-05-28
@@ -34,5 +34,5 @@ Effortlessly compose, extend, and observe every service in real-time for the fir
 
 ## 相关项目
 
-[[pollen-robotics-microduck]] [[nvidia-openshell]] [[pbakaus-impeccable]] [[akitaonrails-ai-memory]]
+[[nvidia-openshell]] [[pollen-robotics-microduck]] [[akitaonrails-ai-memory]] [[pbakaus-impeccable]]
 

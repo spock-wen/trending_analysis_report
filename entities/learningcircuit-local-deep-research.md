@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[ruvnet-ruflo]] [[tauricresearch-tradingagents]]
+[[ruvnet-ruflo]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[mlabonne-llm-course]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

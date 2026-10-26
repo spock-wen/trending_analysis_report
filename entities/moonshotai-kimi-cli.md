@@ -8,7 +8,7 @@ tags: [python, ai-agent, cli, rising]
 sources: [raw/trending/2026-07-21.json]
 confidence: high
 trending_count_daily: 3
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 3
 first_trending: 2026-07-19
@@ -36,7 +36,7 @@ Kimi Code CLI is your next CLI agent.
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[nvidia-skillspector]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

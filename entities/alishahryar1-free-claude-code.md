@@ -8,7 +8,7 @@ tags: [python, ai-agent, web, cli, audio]
 sources: [raw/trending/2026-10-13.json]
 confidence: high
 trending_count_daily: 12
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-04-25
@@ -38,7 +38,7 @@ Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for fre
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]]
+[[coollabsio-coolify]] [[openbmb-voxcpm]] [[nvidia-openshell]] [[hugohe3-ppt-master]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]] [[audio]]
 

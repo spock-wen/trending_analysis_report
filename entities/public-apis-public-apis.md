@@ -8,7 +8,7 @@ tags: [python]
 sources: [raw/trending/2026-08-19.json]
 confidence: high
 trending_count_daily: 7
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-03-14
@@ -38,5 +38,5 @@ A collective list of free APIs
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[debpalash-voicestudio]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]]
+[[nvidia-skillspector]] [[panniantong-agent-reach]] [[tauricresearch-tradingagents]] [[debpalash-voicestudio]]
 

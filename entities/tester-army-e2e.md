@@ -8,7 +8,7 @@ tags: [typescript, web, image-gen, rising]
 sources: [raw/trending/2026-10-08.json]
 confidence: high
 trending_count_daily: 4
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 4
 first_trending: 2026-10-05
@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[openbmb-voxcpm]] [[supabase-supabase]] [[agricidaniel-claude-seo]]
+[[coollabsio-coolify]] [[openbmb-voxcpm]] [[jetbrains-thinkrail]] [[nutlope-hallmark]] [[makecindy-cindy]]
 
 **所属领域**: [[web]] [[image-gen]]
 

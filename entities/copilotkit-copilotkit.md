@@ -8,7 +8,7 @@ tags: [typescript, ai-agent, web]
 sources: [raw/trending/2026-06-09.json]
 confidence: high
 trending_count_daily: 3
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-06
@@ -36,7 +36,7 @@ The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, an
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]]
+[[jetbrains-thinkrail]] [[nutlope-hallmark]] [[makecindy-cindy]] [[nightly-labs-openbot]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -8,7 +8,7 @@ tags: [tool]
 sources: [raw/trending/2026-10-05.json]
 confidence: high
 trending_count_daily: 3
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-08-03
@@ -36,5 +36,5 @@ DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[epicgames-raddebugger]] [[php-php-src]]
+[[php-php-src]] [[colbymchenry-codegraph]] [[epicgames-raddebugger]]
 

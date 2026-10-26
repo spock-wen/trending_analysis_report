@@ -35,7 +35,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]] [[tauricresearch-tradingagents]]
+[[multica-ai-andrej-karpathy-skills]] [[affaan-m-ecc]] [[pbakaus-impeccable]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

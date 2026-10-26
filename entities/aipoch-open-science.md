@@ -34,7 +34,7 @@ Open Science by AIPOCH is an open-source, local-first, model-agnostic AI researc
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[nutlope-hallmark]]
+[[coollabsio-coolify]] [[jetbrains-thinkrail]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

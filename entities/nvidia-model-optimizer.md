@@ -36,7 +36,7 @@ A unified library of SOTA model optimization techniques like quantization, disti
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[getsentry-sentry]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[ruvnet-ruflo]]
+[[coollabsio-coolify]] [[ruvnet-ruflo]] [[nvidia-skillspector]] [[mlabonne-llm-course]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

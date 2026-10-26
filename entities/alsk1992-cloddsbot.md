@@ -36,7 +36,7 @@ Open Source AI trading agent that operates autonomously across 1000+ markets - P
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[agricidaniel-claude-seo]] [[hugohe3-ppt-master]] [[nutlope-hallmark]]
+[[hugohe3-ppt-master]] [[jetbrains-thinkrail]] [[php-php-src]] [[makecindy-cindy]] [[nightly-labs-openbot]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

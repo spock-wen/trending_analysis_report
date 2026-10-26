@@ -8,7 +8,7 @@ tags: [python, ai-agent, rising]
 sources: [raw/trending/2026-10-14.json]
 confidence: high
 trending_count_daily: 11
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 3
 first_trending: 2026-06-04
@@ -38,7 +38,7 @@ AirLLM 2.8T LLM inference with single 4GB GPU
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]]
+[[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[ai-agent]]
 

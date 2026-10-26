@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[microsoft-bitnet]] [[tensorflow-tensorflow]] [[coollabsio-coolify]] [[nvidia-openshell]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[snailsploit-claude-red]] [[tensorflow-tensorflow]] [[google-gemini-gemini-cli]]
 
 **所属领域**: [[cli]] [[security]]
 

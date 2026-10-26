@@ -37,7 +37,7 @@ Open source Ghostty-based macOS terminal with vertical tabs and notifications fo
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[abue-ammar-tinycast]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[coollabsio-coolify]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

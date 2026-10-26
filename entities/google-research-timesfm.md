@@ -8,7 +8,7 @@ tags: [python, ai-agent, science, rising]
 sources: [raw/trending/2026-09-05.json]
 confidence: high
 trending_count_daily: 9
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 3
 first_trending: 2026-04-02
@@ -38,7 +38,7 @@ TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]]
+[[nvidia-skillspector]] [[panniantong-agent-reach]] [[k-dense-ai-scientific-agent-skills]] [[debpalash-voicestudio]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

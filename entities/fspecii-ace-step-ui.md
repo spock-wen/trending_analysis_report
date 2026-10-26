@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[nodejs-node]] [[openbmb-voxcpm]] [[debpalash-voicestudio]] [[withmarbleapp-os-taxonomy]] [[dietrichgebert-ponytail]]
+[[coollabsio-coolify]] [[openbmb-voxcpm]] [[hugohe3-ppt-master]] [[dietrichgebert-ponytail]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

@@ -8,7 +8,7 @@ tags: [cpp, rising]
 sources: [raw/trending/2026-10-12.json]
 confidence: high
 trending_count_daily: 7
-trending_count_weekly: 0
+trending_count_weekly: 3
 trending_count_monthly: 0
 consecutive_days: 7
 first_trending: 2026-10-06
@@ -38,5 +38,5 @@ Tool for automatic PS5 executables porting to Linux and Windows
 
 ## 相关项目
 
-[[m-abozaid-esp32-c3-adblock]] [[microsoft-bitnet]] [[tensorflow-tensorflow]]
+[[microsoft-bitnet]] [[m-abozaid-esp32-c3-adblock]] [[tensorflow-tensorflow]]
 

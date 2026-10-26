@@ -8,7 +8,7 @@ tags: [typescript, ai-agent, erp]
 sources: [raw/trending/2026-09-16.json]
 confidence: low
 trending_count_daily: 1
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-09-16
@@ -34,7 +34,7 @@ Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, 
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[agricidaniel-claude-seo]] [[hugohe3-ppt-master]] [[nutlope-hallmark]]
+[[hugohe3-ppt-master]] [[jetbrains-thinkrail]] [[php-php-src]] [[makecindy-cindy]] [[nightly-labs-openbot]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

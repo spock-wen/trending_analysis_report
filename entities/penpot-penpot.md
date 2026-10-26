@@ -8,7 +8,7 @@ tags: [tool]
 sources: [raw/trending/2026-07-15.json]
 confidence: high
 trending_count_daily: 7
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-04-28

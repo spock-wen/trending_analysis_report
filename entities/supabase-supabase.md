@@ -8,7 +8,7 @@ tags: [typescript, ai-agent, web, data]
 sources: [raw/trending/2026-10-23.json]
 confidence: high
 trending_count_daily: 5
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-07-04
@@ -38,7 +38,7 @@ The Postgres development platform. Supabase gives you a dedicated Postgres datab
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]]
+[[coollabsio-coolify]] [[jetbrains-thinkrail]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

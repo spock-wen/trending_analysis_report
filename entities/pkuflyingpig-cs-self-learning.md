@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[ruvnet-ruflo]] [[cathrynlavery-diagram-design]]
+[[ruvnet-ruflo]] [[cathrynlavery-diagram-design]] [[nutlope-hallmark]] [[fastapi-fastapi]] [[mlabonne-llm-course]]
 
 **所属领域**: [[web]] [[education]]
 

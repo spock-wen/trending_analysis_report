@@ -8,7 +8,7 @@ tags: [rust, ai-agent, cli]
 sources: [raw/trending/2026-08-26.json]
 confidence: high
 trending_count_daily: 4
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-04-02
@@ -37,7 +37,7 @@ Lightweight coding agent that runs in your terminal
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[tauricresearch-tradingagents]] [[nvidia-openshell]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[pollen-robotics-microduck]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

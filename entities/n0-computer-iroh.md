@@ -8,7 +8,7 @@ tags: [rust, rising]
 sources: [raw/trending/2026-06-20.json]
 confidence: high
 trending_count_daily: 4
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 4
 first_trending: 2026-06-17
@@ -37,5 +37,5 @@ IP addresses break, dial keys instead. Modular networking stack in Rust.
 
 ## 相关项目
 
-[[pollen-robotics-microduck]] [[nvidia-openshell]] [[pbakaus-impeccable]] [[akitaonrails-ai-memory]]
+[[nvidia-openshell]] [[pollen-robotics-microduck]] [[akitaonrails-ai-memory]] [[pbakaus-impeccable]]
 

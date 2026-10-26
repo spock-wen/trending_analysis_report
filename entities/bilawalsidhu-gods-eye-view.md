@@ -8,7 +8,7 @@ tags: [web, data, rising]
 sources: [raw/trending/2026-10-14.json]
 confidence: high
 trending_count_daily: 10
-trending_count_weekly: 0
+trending_count_weekly: 3
 trending_count_monthly: 0
 consecutive_days: 3
 first_trending: 2026-08-28
@@ -38,7 +38,7 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 
 ## 相关项目
 
-[[nodejs-node]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[withmarbleapp-os-taxonomy]]
+[[coollabsio-coolify]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[nutlope-hallmark]] [[dietrichgebert-ponytail]]
 
 **所属领域**: [[web]] [[data]]
 

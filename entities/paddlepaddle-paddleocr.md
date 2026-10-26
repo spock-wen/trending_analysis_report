@@ -37,7 +37,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]]
+[[coollabsio-coolify]] [[openbmb-voxcpm]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

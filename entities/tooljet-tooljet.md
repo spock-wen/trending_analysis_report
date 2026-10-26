@@ -8,7 +8,7 @@ tags: [ai-agent, erp, image-gen, rising]
 sources: [raw/trending/2026-08-17.json]
 confidence: high
 trending_count_daily: 3
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 3
 first_trending: 2026-08-15
@@ -36,7 +36,7 @@ ToolJet is the open-source foundation of ToolJet AI - the enterprise app generat
 
 ## 相关项目
 
-[[nodejs-node]] [[openbmb-voxcpm]] [[agricidaniel-claude-seo]] [[withmarbleapp-os-taxonomy]] [[dietrichgebert-ponytail]]
+[[coollabsio-coolify]] [[openbmb-voxcpm]] [[hugohe3-ppt-master]] [[php-php-src]] [[dietrichgebert-ponytail]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[image-gen]]
 

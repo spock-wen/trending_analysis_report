@@ -8,7 +8,7 @@ tags: [ai-agent]
 sources: [raw/trending/2026-06-26.json]
 confidence: high
 trending_count_daily: 6
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-06-11
@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[abue-ammar-tinycast]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[manaflow-ai-cmux]]
+[[affaan-m-ecc]] [[abue-ammar-tinycast]] [[lakr233-vphone-cli]] [[tauricresearch-tradingagents]] [[xtool-org-xtool]]
 
 **所属领域**: [[ai-agent]]
 

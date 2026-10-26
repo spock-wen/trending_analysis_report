@@ -9,7 +9,7 @@ sources: [raw/trending/2026-10-24.json]
 confidence: high
 trending_count_daily: 10
 trending_count_weekly: 0
-trending_count_monthly: 0
+trending_count_monthly: 1
 consecutive_days: 1
 first_trending: 2026-04-10
 last_trending: 2026-10-24
@@ -38,7 +38,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[hugohe3-ppt-master]] [[coollabsio-coolify]]
+[[coollabsio-coolify]] [[hugohe3-ppt-master]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

@@ -35,7 +35,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[flutter-flutter]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[chen08209-flclash]] [[pbakaus-impeccable]]
+[[flutter-flutter]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[multica-ai-andrej-karpathy-skills]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[nvidia-openshell]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]]
+[[nvidia-openshell]] [[pollen-robotics-microduck]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

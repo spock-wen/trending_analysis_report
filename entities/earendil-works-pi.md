@@ -8,7 +8,7 @@ tags: [typescript, ai-agent, cli]
 sources: [raw/trending/2026-10-04.json]
 confidence: high
 trending_count_daily: 5
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-05-25
@@ -38,7 +38,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[coollabsio-coolify]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[jetbrains-thinkrail]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

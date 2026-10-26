@@ -34,7 +34,7 @@ Toolchain for TON smart contract development and beyond
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[nvidia-openshell]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]]
+[[nvidia-openshell]] [[pollen-robotics-microduck]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]]
 

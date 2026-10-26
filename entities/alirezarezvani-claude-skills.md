@@ -8,7 +8,7 @@ tags: [python, ai-agent, cli, erp, science, rising]
 sources: [raw/trending/2026-07-07.json]
 confidence: high
 trending_count_daily: 4
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 3
 first_trending: 2026-03-10
@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[hugohe3-ppt-master]] [[nutlope-hallmark]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[hugohe3-ppt-master]] [[nvidia-skillspector]] [[google-gemini-gemini-cli]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]]
+[[coollabsio-coolify]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

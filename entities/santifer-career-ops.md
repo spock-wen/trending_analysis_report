@@ -38,7 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[nodejs-node]] [[withmarbleapp-os-taxonomy]] [[dietrichgebert-ponytail]] [[cloudflare-security-audit-skill]] [[nutlope-hallmark]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]] [[dietrichgebert-ponytail]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -38,7 +38,7 @@ Open-Source Frontier Voice AI
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[hugohe3-ppt-master]]
+[[openbmb-voxcpm]] [[hugohe3-ppt-master]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

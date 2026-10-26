@@ -8,7 +8,7 @@ tags: [typescript, education, rising]
 sources: [raw/trending/2026-06-19.json]
 confidence: high
 trending_count_daily: 5
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 5
 first_trending: 2026-06-15
@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[ruvnet-ruflo]] [[huggingface-transformers]] [[mlabonne-llm-course]]
+[[ruvnet-ruflo]] [[jetbrains-thinkrail]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[huggingface-transformers]]
 
 **所属领域**: [[education]]
 

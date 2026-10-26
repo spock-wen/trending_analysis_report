@@ -34,7 +34,7 @@ An open-source AI agent that brings the power of Gemini directly into your termi
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[coollabsio-coolify]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[jetbrains-thinkrail]] [[panniantong-agent-reach]] [[makecindy-cindy]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

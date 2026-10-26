@@ -34,7 +34,7 @@ Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or C
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[tensorflow-tensorflow]] [[tauricresearch-tradingagents]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]]
+[[tensorflow-tensorflow]] [[microsoft-bitnet]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[boykopovar-anyps5]]
 
 **所属领域**: [[ai-agent]]
 

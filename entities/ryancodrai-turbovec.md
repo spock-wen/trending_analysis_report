@@ -38,7 +38,7 @@ A vector index built on TurboQuant, written in Rust with Python bindings
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[nvidia-openshell]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]]
+[[nvidia-openshell]] [[pollen-robotics-microduck]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]]
 

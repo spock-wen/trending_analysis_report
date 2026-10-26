@@ -34,7 +34,7 @@ Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemm
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[alibaba-open-code-review]]
+[[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[strelov1-freehire]] [[juliusbrussee-caveman]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

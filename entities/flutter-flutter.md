@@ -8,7 +8,7 @@ tags: [tool]
 sources: [raw/trending/2026-10-11.json]
 confidence: medium
 trending_count_daily: 2
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-25
@@ -35,5 +35,5 @@ Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## 相关项目
 
-[[localsend-localsend]] [[chen08209-flclash]] [[flutter-skills]]
+[[localsend-localsend]] [[flutter-skills]] [[chen08209-flclash]]
 

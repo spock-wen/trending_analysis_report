@@ -8,7 +8,7 @@ tags: [python, ai-agent, web]
 sources: [raw/trending/2026-08-30.json]
 confidence: medium
 trending_count_daily: 2
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-08-29
@@ -35,7 +35,7 @@ Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 
 ## 相关项目
 
-[[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]]
+[[nvidia-skillspector]] [[nutlope-hallmark]] [[panniantong-agent-reach]] [[debpalash-voicestudio]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

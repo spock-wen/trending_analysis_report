@@ -35,7 +35,7 @@ A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Opti
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]]
+[[nvidia-skillspector]] [[panniantong-agent-reach]] [[debpalash-voicestudio]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

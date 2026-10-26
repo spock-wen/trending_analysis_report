@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[openbmb-voxcpm]]
+[[coollabsio-coolify]] [[openbmb-voxcpm]] [[cathrynlavery-diagram-design]] [[nutlope-hallmark]] [[nightly-labs-openbot]]
 
 **所属领域**: [[web]] [[image-gen]]
 

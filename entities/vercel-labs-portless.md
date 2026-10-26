@@ -34,7 +34,7 @@ Replace port numbers with stable, named local URLs. For humans and agents.
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[openbmb-voxcpm]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]]
+[[coollabsio-coolify]] [[openbmb-voxcpm]] [[jetbrains-thinkrail]] [[makecindy-cindy]] [[nightly-labs-openbot]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

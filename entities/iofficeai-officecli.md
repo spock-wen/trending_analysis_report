@@ -8,7 +8,7 @@ tags: [ai-agent, cli, erp, rising]
 sources: [raw/trending/2026-07-11.json]
 confidence: high
 trending_count_daily: 4
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 4
 first_trending: 2026-07-08
@@ -37,7 +37,7 @@ OfficeCLI is the first and best Office suite purpose-built for AI agents to read
 
 ## 相关项目
 
-[[k1tbyte-wand-enhancer]] [[dotnet-aspnetcore]] [[agricidaniel-claude-seo]] [[tauricresearch-tradingagents]] [[hugohe3-ppt-master]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[hugohe3-ppt-master]] [[google-gemini-gemini-cli]] [[php-php-src]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

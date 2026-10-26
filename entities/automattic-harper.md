@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[snailsploit-claude-red]] [[cloudflare-security-audit-skill]] [[nvidia-openshell]] [[pbakaus-impeccable]]
+[[nvidia-openshell]] [[snailsploit-claude-red]] [[pollen-robotics-microduck]] [[nvidia-skillspector]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

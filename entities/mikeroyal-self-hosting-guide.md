@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[ruvnet-ruflo]] [[huggingface-transformers]]
+[[ruvnet-ruflo]] [[nutlope-hallmark]] [[fastapi-fastapi]] [[mlabonne-llm-course]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

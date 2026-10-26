@@ -8,7 +8,7 @@ tags: [ai-agent, web]
 sources: [raw/trending/2026-06-25.json]
 confidence: high
 trending_count_daily: 6
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-05-29
@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]]
+[[cathrynlavery-diagram-design]] [[nutlope-hallmark]] [[affaan-m-ecc]] [[nightly-labs-openbot]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

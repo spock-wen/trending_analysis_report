@@ -8,7 +8,7 @@ tags: [python, ai-agent, devops, rising]
 sources: [raw/trending/2026-08-15.json]
 confidence: high
 trending_count_daily: 6
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 5
 first_trending: 2026-08-08
@@ -38,7 +38,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[getsentry-sentry]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[ruvnet-ruflo]]
+[[coollabsio-coolify]] [[ruvnet-ruflo]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

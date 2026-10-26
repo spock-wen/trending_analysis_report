@@ -8,7 +8,7 @@ tags: [ai-agent, data, rising]
 sources: [raw/trending/2026-10-08.json]
 confidence: high
 trending_count_daily: 3
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 3
 first_trending: 2026-10-06
@@ -36,7 +36,7 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 
 ## 相关项目
 
-[[nodejs-node]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[withmarbleapp-os-taxonomy]] [[dietrichgebert-ponytail]]
+[[coollabsio-coolify]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

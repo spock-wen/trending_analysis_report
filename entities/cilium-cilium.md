@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[xtool-org-xtool]] [[getsentry-sentry]] [[ruvnet-ruflo]] [[vxcontrol-pentagi]]
+[[vxcontrol-pentagi]] [[coollabsio-coolify]] [[alibaba-open-code-review]] [[ruvnet-ruflo]] [[strelov1-freehire]]
 
 **所属领域**: [[devops]] [[security]]
 

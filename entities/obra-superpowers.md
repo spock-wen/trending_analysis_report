@@ -8,7 +8,7 @@ tags: [shell, ai-agent, cli, erp]
 sources: [raw/trending/2026-10-17.json]
 confidence: high
 trending_count_daily: 47
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-03-29
@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[msitarzewski-agency-agents]] [[agricidaniel-claude-seo]] [[hugohe3-ppt-master]] [[nutlope-hallmark]]
+[[nvm-sh-nvm]] [[coollabsio-coolify]] [[nvidia-openshell]] [[hugohe3-ppt-master]] [[google-gemini-gemini-cli]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

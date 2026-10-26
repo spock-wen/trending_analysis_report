@@ -34,7 +34,7 @@ LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]]
+[[nvidia-skillspector]] [[panniantong-agent-reach]] [[debpalash-voicestudio]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

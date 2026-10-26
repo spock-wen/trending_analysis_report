@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[supabase-supabase]] [[agricidaniel-claude-seo]] [[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[nutlope-hallmark]]
+[[vxcontrol-pentagi]] [[coollabsio-coolify]] [[alibaba-open-code-review]] [[strelov1-freehire]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

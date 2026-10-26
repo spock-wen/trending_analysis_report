@@ -8,7 +8,7 @@ tags: [typescript, cli]
 sources: [raw/trending/2026-08-25.json]
 confidence: high
 trending_count_daily: 5
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-18
@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[jetbrains-thinkrail]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]]
 

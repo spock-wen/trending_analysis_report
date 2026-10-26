@@ -34,7 +34,7 @@ Enterprise Architecture Governance & Vendor Procurement Toolkit
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]]
+[[hugohe3-ppt-master]] [[cathrynlavery-diagram-design]] [[nutlope-hallmark]] [[php-php-src]] [[nightly-labs-openbot]]
 
 **所属领域**: [[web]] [[erp]]
 

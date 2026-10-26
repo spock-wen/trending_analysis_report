@@ -8,7 +8,7 @@ tags: [rust, web]
 sources: [raw/trending/2026-09-22.json]
 confidence: medium
 trending_count_daily: 2
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-09-20
@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[nvidia-openshell]] [[nutlope-hallmark]]
+[[nvidia-openshell]] [[pollen-robotics-microduck]] [[nutlope-hallmark]] [[nightly-labs-openbot]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[web]]
 

@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[nvidia-openshell]] [[coollabsio-coolify]] [[pbakaus-impeccable]] [[google-gemini-gemini-cli]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[pollen-robotics-microduck]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[raphire-win11debloat]] [[bwya77-vscode-dark-islands]] [[openbmb-voxcpm]] [[coollabsio-coolify]] [[nvidia-openshell]]
+[[coollabsio-coolify]] [[openbmb-voxcpm]] [[nvidia-openshell]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

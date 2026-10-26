@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[xerj-org-xerj]] [[antirez-ds4]] [[snailsploit-claude-red]] [[cloudflare-security-audit-skill]]
+[[snailsploit-claude-red]] [[nvidia-skillspector]] [[antirez-ds4]] [[php-php-src]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

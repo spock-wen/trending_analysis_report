@@ -8,7 +8,7 @@ tags: [typescript, cli]
 sources: [raw/trending/2026-10-03.json]
 confidence: medium
 trending_count_daily: 2
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-10-02
@@ -35,7 +35,7 @@ yoink any video from your terminal. no shady ads.
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[jetbrains-thinkrail]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]]
 

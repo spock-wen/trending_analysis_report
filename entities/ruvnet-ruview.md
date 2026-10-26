@@ -8,7 +8,7 @@ tags: [rust, devops]
 sources: [raw/trending/2026-09-15.json]
 confidence: high
 trending_count_daily: 21
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-03-04
@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[getsentry-sentry]] [[ruvnet-ruflo]] [[nvidia-openshell]] [[coollabsio-coolify]]
+[[coollabsio-coolify]] [[ruvnet-ruflo]] [[nvidia-openshell]] [[pollen-robotics-microduck]] [[xtool-org-xtool]]
 
 **所属领域**: [[devops]]
 

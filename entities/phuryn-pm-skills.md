@@ -8,7 +8,7 @@ tags: [ai-agent, cli, rising]
 sources: [raw/trending/2026-06-13.json]
 confidence: high
 trending_count_daily: 5
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 5
 first_trending: 2026-06-09
@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[coollabsio-coolify]] [[nvidia-openshell]] [[pbakaus-impeccable]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

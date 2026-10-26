@@ -8,7 +8,7 @@ tags: [go, ai-agent]
 sources: [raw/trending/2026-10-15.json]
 confidence: high
 trending_count_daily: 6
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-03-22
@@ -38,7 +38,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[alibaba-open-code-review]] [[pbakaus-impeccable]]
+[[alibaba-open-code-review]] [[strelov1-freehire]] [[juliusbrussee-caveman]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

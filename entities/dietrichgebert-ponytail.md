@@ -8,7 +8,7 @@ tags: [ai-agent, rising]
 sources: [raw/trending/2026-10-23.json]
 confidence: high
 trending_count_daily: 17
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 3
 first_trending: 2026-08-26
@@ -38,7 +38,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ## 相关项目
 
-[[nodejs-node]] [[withmarbleapp-os-taxonomy]] [[cloudflare-security-audit-skill]] [[nutlope-hallmark]] [[pbakaus-impeccable]]
+[[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[tauricresearch-tradingagents]] [[multica-ai-andrej-karpathy-skills]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

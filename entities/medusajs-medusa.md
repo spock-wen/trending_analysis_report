@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[agricidaniel-claude-seo]] [[hugohe3-ppt-master]] [[obra-superpowers]]
+[[hugohe3-ppt-master]] [[jetbrains-thinkrail]] [[php-php-src]] [[makecindy-cindy]] [[nightly-labs-openbot]]
 
 **所属领域**: [[erp]]
 

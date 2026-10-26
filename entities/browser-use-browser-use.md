@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]]
+[[nvidia-skillspector]] [[nutlope-hallmark]] [[panniantong-agent-reach]] [[debpalash-voicestudio]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

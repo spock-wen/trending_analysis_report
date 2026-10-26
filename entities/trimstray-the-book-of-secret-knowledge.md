@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[supabase-supabase]] [[msitarzewski-agency-agents]] [[agricidaniel-claude-seo]] [[nutlope-hallmark]] [[coollabsio-coolify]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]] [[nutlope-hallmark]] [[panniantong-agent-reach]]
 
 **所属领域**: [[web]] [[cli]]
 

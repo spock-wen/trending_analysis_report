@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[hugohe3-ppt-master]]
+[[coollabsio-coolify]] [[openbmb-voxcpm]] [[nvidia-openshell]] [[hugohe3-ppt-master]] [[nvidia-skillspector]]
 
 **所属领域**: [[cli]] [[audio]]
 

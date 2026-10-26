@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]]
+[[coollabsio-coolify]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[nutlope-hallmark]] [[panniantong-agent-reach]]
 
 **所属领域**: [[web]] [[data]]
 

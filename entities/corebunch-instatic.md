@@ -37,7 +37,7 @@ The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]]
+[[coollabsio-coolify]] [[jetbrains-thinkrail]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

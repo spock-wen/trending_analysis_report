@@ -8,7 +8,7 @@ tags: [rust, ai-agent, science, rising]
 sources: [raw/trending/2026-08-27.json]
 confidence: high
 trending_count_daily: 13
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 3
 first_trending: 2026-05-12
@@ -38,7 +38,7 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[nvidia-openshell]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]]
+[[nvidia-openshell]] [[pollen-robotics-microduck]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

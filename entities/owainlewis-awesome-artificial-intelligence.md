@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[huggingface-transformers]] [[mlabonne-llm-course]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]]
+[[ruvnet-ruflo]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[huggingface-transformers]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

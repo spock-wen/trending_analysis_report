@@ -8,7 +8,7 @@ tags: [go, ai-agent, data]
 sources: [raw/trending/2026-10-10.json]
 confidence: high
 trending_count_daily: 11
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-07-24
@@ -38,7 +38,7 @@ Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c
 
 ## 相关项目
 
-[[supabase-supabase]] [[agricidaniel-claude-seo]] [[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[nutlope-hallmark]]
+[[vxcontrol-pentagi]] [[coollabsio-coolify]] [[strelov1-freehire]] [[snailsploit-claude-red]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

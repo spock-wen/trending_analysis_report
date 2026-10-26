@@ -32,13 +32,12 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
   - 2026-06-28: #12, +254⭐
   - 2026-05-18: #5, +704⭐
-  - 2026-05-17: #4, +393⭐
   - 2026-04-25: #9, +847⭐
   - 2026-04-24: #4, +384⭐
 
 ## 相关项目
 
-[[nodejs-node]] [[openbmb-voxcpm]] [[withmarbleapp-os-taxonomy]] [[dietrichgebert-ponytail]] [[cloudflare-security-audit-skill]]
+[[coollabsio-coolify]] [[openbmb-voxcpm]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

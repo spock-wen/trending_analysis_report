@@ -34,7 +34,7 @@ Miles is an enterprise-facing reinforcement learning framework for LLM and VLM p
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[ruvnet-ruflo]] [[tauricresearch-tradingagents]] [[mlabonne-llm-course]]
+[[ruvnet-ruflo]] [[hugohe3-ppt-master]] [[nvidia-skillspector]] [[mlabonne-llm-course]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[education]] [[erp]]
 

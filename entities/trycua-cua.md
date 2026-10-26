@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[snailsploit-claude-red]] [[tauricresearch-tradingagents]]
+[[coollabsio-coolify]] [[openbmb-voxcpm]] [[nvidia-openshell]] [[snailsploit-claude-red]] [[pollen-robotics-microduck]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

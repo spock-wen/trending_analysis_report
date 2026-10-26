@@ -8,7 +8,7 @@ tags: [ai-agent, image-gen]
 sources: [raw/trending/2026-09-11.json]
 confidence: high
 trending_count_daily: 7
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-08-25
@@ -38,7 +38,7 @@ Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 
 
 ## 相关项目
 
-[[nodejs-node]] [[openbmb-voxcpm]] [[withmarbleapp-os-taxonomy]] [[dietrichgebert-ponytail]] [[cloudflare-security-audit-skill]]
+[[coollabsio-coolify]] [[openbmb-voxcpm]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

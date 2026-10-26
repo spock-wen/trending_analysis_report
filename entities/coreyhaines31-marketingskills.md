@@ -8,7 +8,7 @@ tags: [ai-agent, data]
 sources: [raw/trending/2026-10-05.json]
 confidence: high
 trending_count_daily: 8
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-07-06
@@ -38,7 +38,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 ## 相关项目
 
-[[nodejs-node]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[withmarbleapp-os-taxonomy]] [[dietrichgebert-ponytail]]
+[[coollabsio-coolify]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

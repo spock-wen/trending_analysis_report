@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[supabase-supabase]] [[bannedbook-fanqiang]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[android-skills]]
+[[android-skills]] [[nutlope-hallmark]] [[mahlernim-google-timeline-visualizer]] [[affaan-m-ecc]] [[nightly-labs-openbot]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

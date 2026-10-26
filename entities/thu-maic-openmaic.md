@@ -8,7 +8,7 @@ tags: [typescript, ai-agent, cli, education]
 sources: [raw/trending/2026-09-11.json]
 confidence: high
 trending_count_daily: 5
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-08-30
@@ -38,7 +38,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[ruvnet-ruflo]] [[huggingface-transformers]] [[mlabonne-llm-course]]
+[[coollabsio-coolify]] [[ruvnet-ruflo]] [[nvidia-openshell]] [[jetbrains-thinkrail]] [[google-gemini-gemini-cli]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

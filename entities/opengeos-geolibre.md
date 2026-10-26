@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]]
+[[coollabsio-coolify]] [[jetbrains-thinkrail]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]] [[data]]
 

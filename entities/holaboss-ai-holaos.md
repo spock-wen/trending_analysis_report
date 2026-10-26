@@ -35,7 +35,7 @@ Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex 
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]]
+[[jetbrains-thinkrail]] [[nutlope-hallmark]] [[makecindy-cindy]] [[nightly-labs-openbot]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

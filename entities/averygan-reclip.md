@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[cathrynlavery-diagram-design]] [[google-gemini-gemini-cli]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]] [[cli]]
 

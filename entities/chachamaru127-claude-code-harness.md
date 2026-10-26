@@ -8,7 +8,7 @@ tags: [shell, ai-agent, cli]
 sources: [raw/trending/2026-05-28.json]
 confidence: low
 trending_count_daily: 1
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-05-28
@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]] [[obra-superpowers]] [[cloudflare-security-audit-skill]]
+[[nvm-sh-nvm]] [[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -8,7 +8,7 @@ tags: [ai-agent]
 sources: [raw/trending/2026-10-03.json]
 confidence: high
 trending_count_daily: 10
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-05-18
@@ -38,7 +38,7 @@ Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
 
 ## 相关项目
 
-[[antirez-ds4]] [[nutlope-hallmark]] [[epicgames-raddebugger]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]]
+[[antirez-ds4]] [[php-php-src]] [[affaan-m-ecc]] [[epicgames-raddebugger]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[dietrichgebert-ponytail]] [[nodejs-node]]
+[[cloudflare-security-audit-skill]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[nodejs-node]]
 

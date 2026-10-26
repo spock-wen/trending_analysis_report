@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[tensorflow-tensorflow]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[tensorflow-tensorflow]] [[google-gemini-gemini-cli]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]] [[cli]]
 

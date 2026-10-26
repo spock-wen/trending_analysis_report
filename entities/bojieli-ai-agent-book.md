@@ -8,7 +8,7 @@ tags: [python, ai-agent]
 sources: [raw/trending/2026-08-19.json]
 confidence: high
 trending_count_daily: 3
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-07-20
@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]]
+[[nvidia-skillspector]] [[panniantong-agent-reach]] [[debpalash-voicestudio]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

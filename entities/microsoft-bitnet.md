@@ -36,7 +36,7 @@ Official inference framework for 1-bit LLMs
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[tensorflow-tensorflow]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]]
+[[tensorflow-tensorflow]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[boykopovar-anyps5]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]]
 

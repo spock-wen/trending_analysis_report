@@ -8,7 +8,7 @@ tags: [ai-agent, web, image-gen]
 sources: [raw/trending/2026-08-28.json]
 confidence: medium
 trending_count_daily: 2
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-08-27
@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]]
+[[coollabsio-coolify]] [[openbmb-voxcpm]] [[diolinux-photogimp]] [[nutlope-hallmark]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

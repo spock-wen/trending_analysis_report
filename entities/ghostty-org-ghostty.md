@@ -34,7 +34,7 @@ language: "Zig"
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]] [[snailsploit-claude-red]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]] [[lightpanda-io-browser]]
 
 **所属领域**: [[cli]]
 

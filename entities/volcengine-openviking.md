@@ -8,7 +8,7 @@ tags: [python, ai-agent, data, rising]
 sources: [raw/trending/2026-08-21.json]
 confidence: high
 trending_count_daily: 6
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 3
 first_trending: 2026-03-15
@@ -38,7 +38,7 @@ Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG 
 
 ## 相关项目
 
-[[supabase-supabase]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[nutlope-hallmark]]
+[[coollabsio-coolify]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

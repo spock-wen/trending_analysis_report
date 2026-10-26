@@ -34,7 +34,7 @@ Agent-driven research knowledge base. Agents collect, search, and synthesize web
 
 ## 相关项目
 
-[[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]]
+[[nvidia-skillspector]] [[nutlope-hallmark]] [[panniantong-agent-reach]] [[k-dense-ai-scientific-agent-skills]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

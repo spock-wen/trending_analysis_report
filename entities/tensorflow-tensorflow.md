@@ -35,7 +35,7 @@ An Open Source Machine Learning Framework for Everyone
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[ruvnet-ruflo]] [[huggingface-transformers]] [[mlabonne-llm-course]] [[fastapi-fastapi]]
+[[ruvnet-ruflo]] [[mlabonne-llm-course]] [[microsoft-bitnet]] [[fastapi-fastapi]] [[huggingface-transformers]]
 
 **所属领域**: [[education]]
 

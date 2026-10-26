@@ -8,7 +8,7 @@ tags: [ai-agent]
 sources: [raw/trending/2026-07-07.json]
 confidence: high
 trending_count_daily: 8
-trending_count_weekly: 0
+trending_count_weekly: 3
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-05-26
@@ -38,7 +38,7 @@ Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
 
 ## 相关项目
 
-[[nodejs-node]] [[withmarbleapp-os-taxonomy]] [[dietrichgebert-ponytail]] [[cloudflare-security-audit-skill]] [[nutlope-hallmark]]
+[[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[tauricresearch-tradingagents]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[tensorflow-tensorflow]]
+[[tensorflow-tensorflow]] [[nutlope-hallmark]] [[microsoft-bitnet]] [[nightly-labs-openbot]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[web]]
 

@@ -8,7 +8,7 @@ tags: [rust, ai-agent, rising]
 sources: [raw/trending/2026-06-10.json]
 confidence: high
 trending_count_daily: 4
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 3
 first_trending: 2026-05-08
@@ -37,7 +37,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[nvidia-openshell]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]]
+[[nvidia-openshell]] [[pollen-robotics-microduck]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]]
 

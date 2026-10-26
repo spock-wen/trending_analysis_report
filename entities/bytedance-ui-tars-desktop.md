@@ -37,7 +37,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[makecindy-cindy]] [[xtool-org-xtool]] [[jetbrains-thinkrail]] [[getsentry-sentry]] [[ruvnet-ruflo]]
+[[coollabsio-coolify]] [[ruvnet-ruflo]] [[jetbrains-thinkrail]] [[makecindy-cindy]] [[nightly-labs-openbot]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

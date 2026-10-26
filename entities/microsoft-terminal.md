@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[tensorflow-tensorflow]] [[coollabsio-coolify]] [[nvidia-openshell]] [[m-abozaid-esp32-c3-adblock]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[tensorflow-tensorflow]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]]
 

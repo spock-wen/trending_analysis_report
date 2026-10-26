@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]]
+[[coollabsio-coolify]] [[cathrynlavery-diagram-design]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

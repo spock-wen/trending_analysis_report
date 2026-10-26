@@ -8,7 +8,7 @@ tags: [python, ai-agent, science, rising]
 sources: [raw/trending/2026-07-01.json]
 confidence: high
 trending_count_daily: 6
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 6
 first_trending: 2026-06-26
@@ -38,7 +38,7 @@ AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框�
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]]
+[[nvidia-skillspector]] [[panniantong-agent-reach]] [[k-dense-ai-scientific-agent-skills]] [[debpalash-voicestudio]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

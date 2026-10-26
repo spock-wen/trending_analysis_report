@@ -8,7 +8,7 @@ tags: [tool]
 sources: [raw/trending/2026-10-09.json]
 confidence: medium
 trending_count_daily: 2
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-10-08
@@ -35,5 +35,5 @@ A native, user-mode, multi-process, graphical debugger.
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[antirez-ds4]] [[php-php-src]]
+[[antirez-ds4]] [[php-php-src]] [[colbymchenry-codegraph]]
 

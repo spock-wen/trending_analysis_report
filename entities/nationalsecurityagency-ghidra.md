@@ -8,7 +8,7 @@ tags: [java, security]
 sources: [raw/trending/2026-10-16.json]
 confidence: high
 trending_count_daily: 7
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-08-29
@@ -38,7 +38,7 @@ Ghidra is a software reverse engineering (SRE) framework
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[yuliskov-smarttube]] [[checkstyle-checkstyle]] [[google-guava]] [[cloudflare-security-audit-skill]]
+[[google-guava]] [[snailsploit-claude-red]] [[checkstyle-checkstyle]] [[nvidia-skillspector]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

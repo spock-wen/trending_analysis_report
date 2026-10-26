@@ -8,7 +8,7 @@ tags: [go, ai-agent, data]
 sources: [raw/trending/2026-08-30.json]
 confidence: medium
 trending_count_daily: 2
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-08-29
@@ -35,7 +35,7 @@ like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 ## 相关项目
 
-[[supabase-supabase]] [[agricidaniel-claude-seo]] [[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[nutlope-hallmark]]
+[[vxcontrol-pentagi]] [[coollabsio-coolify]] [[alibaba-open-code-review]] [[strelov1-freehire]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

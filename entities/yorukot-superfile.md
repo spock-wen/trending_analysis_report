@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[coollabsio-coolify]] [[nvidia-openshell]] [[alibaba-open-code-review]]
+[[vxcontrol-pentagi]] [[coollabsio-coolify]] [[alibaba-open-code-review]] [[nvidia-openshell]] [[strelov1-freehire]]
 
 **所属领域**: [[cli]]
 

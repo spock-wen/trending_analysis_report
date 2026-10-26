@@ -35,7 +35,7 @@ A collection of DESIGN.md files analysis by popular brand design systems. Drop o
 
 ## 相关项目
 
-[[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]] [[tauricresearch-tradingagents]]
+[[multica-ai-andrej-karpathy-skills]] [[affaan-m-ecc]] [[pbakaus-impeccable]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

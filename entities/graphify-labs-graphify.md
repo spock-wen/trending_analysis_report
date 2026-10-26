@@ -8,7 +8,7 @@ tags: [python, ai-agent, cli, data, rising]
 sources: [raw/trending/2026-10-23.json]
 confidence: high
 trending_count_daily: 6
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 3
 first_trending: 2026-07-14
@@ -16,7 +16,6 @@ last_trending: 2026-10-23
 peak_rank: 5
 total_stars: 132887
 language: "Python"
-contested: true
 ---
 
 # Graphify-Labs/graphify
@@ -39,17 +38,7 @@ Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab
 
 ## 相关项目
 
-[[supabase-supabase]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[nutlope-hallmark]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[google-gemini-gemini-cli]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
-
-
-## ⚠️ 描述变更（2026-10-21）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
-- **新描述**: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

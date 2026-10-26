@@ -35,5 +35,5 @@ Staging repo for development of native port of TypeScript
 
 ## 相关项目
 
-[[strelov1-freehire]] [[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[juliusbrussee-caveman]]
+[[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[strelov1-freehire]]
 

@@ -1,35 +1,37 @@
 ---
 title: "NVIDIA/SkillSpector"
 created: 2026-06-12
-updated: 2026-06-16
-last_active: 2026-06-16
+updated: 2026-10-27
+last_active: 2026-10-27
 type: tool
-tags: [python, ai-agent, security, rising]
-sources: [raw/trending/2026-06-16.json]
+tags: [python, ai-agent, data, security]
+sources: [raw/trending/2026-10-27.json]
 confidence: high
-trending_count_daily: 4
-trending_count_weekly: 0
+trending_count_daily: 5
+trending_count_weekly: 2
 trending_count_monthly: 0
-consecutive_days: 3
+consecutive_days: 1
 first_trending: 2026-06-12
-last_trending: 2026-06-16
+last_trending: 2026-10-27
 peak_rank: 5
-total_stars: 6287
+total_stars: 22132
 language: "Python"
+contested: true
 ---
 
 # NVIDIA/SkillSpector
 
-Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
+Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
 
 - 语言: Python
-- 上榜次数: 4 次
-- 连续上榜: 3 天
+- 上榜次数: 5 次
+- 连续上榜: 1 天
 - 最高排名: #5
 - 链接: [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
 
 ## 上榜历史
 
+  - 2026-10-27: #7, +203⭐
   - 2026-06-16: #17, +1079⭐
   - 2026-06-15: #6, +962⭐
   - 2026-06-14: #11, +809⭐
@@ -37,7 +39,17 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[nutlope-hallmark]]
+[[coollabsio-coolify]] [[snailsploit-claude-red]] [[panniantong-agent-reach]] [[affaan-m-ecc]] [[debpalash-voicestudio]]
 
-**所属领域**: [[ai-agent]] [[security]]
+**所属领域**: [[ai-agent]] [[data]] [[security]]
+
+
+## ⚠️ 描述变更（2026-10-27）
+
+该项目描述近期发生过重大变化，可能存在定位调整：
+
+- **旧描述**: Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
+- **新描述**: Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
+
+> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

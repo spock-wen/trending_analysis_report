@@ -8,7 +8,7 @@ tags: [python, ai-agent, education]
 sources: [raw/trending/2026-09-30.json]
 confidence: high
 trending_count_daily: 23
-trending_count_weekly: 0
+trending_count_weekly: 5
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-05-21
@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[ruvnet-ruflo]] [[tauricresearch-tradingagents]] [[mlabonne-llm-course]]
+[[ruvnet-ruflo]] [[nvidia-skillspector]] [[mlabonne-llm-course]] [[panniantong-agent-reach]] [[fastapi-fastapi]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

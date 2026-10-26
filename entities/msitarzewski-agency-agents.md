@@ -8,7 +8,7 @@ tags: [shell, ai-agent, web, cli]
 sources: [raw/trending/2026-10-21.json]
 confidence: high
 trending_count_daily: 20
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-05-06
@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[nutlope-hallmark]] [[obra-superpowers]]
+[[nvm-sh-nvm]] [[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

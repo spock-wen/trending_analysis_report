@@ -35,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[k1tbyte-wand-enhancer]] [[dotnet-aspnetcore]] [[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]] [[dotnet-aspnetcore]]
 
 **所属领域**: [[cli]]
 

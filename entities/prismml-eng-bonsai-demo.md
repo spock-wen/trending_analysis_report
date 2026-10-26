@@ -35,7 +35,7 @@ Bonsai Demo
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]] [[obra-superpowers]] [[cloudflare-security-audit-skill]]
+[[nvm-sh-nvm]] [[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

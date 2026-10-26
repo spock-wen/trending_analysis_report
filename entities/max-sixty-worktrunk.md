@@ -8,7 +8,7 @@ tags: [rust, ai-agent, cli]
 sources: [raw/trending/2026-09-13.json]
 confidence: low
 trending_count_daily: 1
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-09-13
@@ -34,7 +34,7 @@ Worktrunk is a CLI for Git worktree management, designed for parallel AI agent w
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[tauricresearch-tradingagents]] [[nvidia-openshell]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[pollen-robotics-microduck]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

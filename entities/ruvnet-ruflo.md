@@ -8,7 +8,7 @@ tags: [typescript, ai-agent, devops, education, rising]
 sources: [raw/trending/2026-10-21.json]
 confidence: high
 trending_count_daily: 17
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 6
 first_trending: 2026-03-25
@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[makecindy-cindy]] [[xtool-org-xtool]] [[jetbrains-thinkrail]] [[getsentry-sentry]] [[huggingface-transformers]]
+[[coollabsio-coolify]] [[jetbrains-thinkrail]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[huggingface-transformers]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

@@ -35,7 +35,7 @@ Open Source Introductory Systems Programming Textbook for the University of Illi
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[huggingface-transformers]] [[introduction-to-autonomous-robots-introduction-to-autonomous-robots]] [[mlabonne-llm-course]] [[fastapi-fastapi]]
+[[ruvnet-ruflo]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[huggingface-transformers]] [[introduction-to-autonomous-robots-introduction-to-autonomous-robots]]
 
 **所属领域**: [[education]]
 

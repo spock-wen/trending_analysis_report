@@ -8,7 +8,7 @@ tags: [ai-agent, cli, security, science]
 sources: [raw/trending/2026-09-27.json]
 confidence: high
 trending_count_daily: 7
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-08-01
@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[actions-runner-images]] [[bwya77-vscode-dark-islands]] [[k-dense-ai-scientific-agent-skills]] [[nutlope-hallmark]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[snailsploit-claude-red]] [[google-gemini-gemini-cli]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

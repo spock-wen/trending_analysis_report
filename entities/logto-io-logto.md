@@ -8,7 +8,7 @@ tags: [typescript, ai-agent, devops]
 sources: [raw/trending/2026-07-02.json]
 confidence: medium
 trending_count_daily: 2
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-30
@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[makecindy-cindy]] [[xtool-org-xtool]] [[jetbrains-thinkrail]] [[getsentry-sentry]] [[ruvnet-ruflo]]
+[[coollabsio-coolify]] [[ruvnet-ruflo]] [[jetbrains-thinkrail]] [[makecindy-cindy]] [[nightly-labs-openbot]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

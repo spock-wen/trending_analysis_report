@@ -8,7 +8,7 @@ tags: [python, ai-agent, web, cli, rising]
 sources: [raw/trending/2026-10-20.json]
 confidence: high
 trending_count_daily: 13
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 4
 first_trending: 2026-05-18
@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[nvidia-skillspector]] [[nutlope-hallmark]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

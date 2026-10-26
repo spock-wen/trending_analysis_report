@@ -8,7 +8,7 @@ tags: [python, security]
 sources: [raw/trending/2026-07-13.json]
 confidence: high
 trending_count_daily: 3
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-04-27
@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[cloudflare-security-audit-skill]]
+[[snailsploit-claude-red]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[affaan-m-ecc]] [[debpalash-voicestudio]]
 
 **所属领域**: [[security]]
 

@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[lyogavin-airllm]]
+[[coollabsio-coolify]] [[snailsploit-claude-red]] [[microsoft-ai-for-beginners]] [[nvidia-skillspector]] [[microsoft-generative-ai-for-beginners]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

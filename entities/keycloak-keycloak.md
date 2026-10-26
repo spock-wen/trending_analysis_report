@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[yuliskov-smarttube]] [[checkstyle-checkstyle]] [[google-guava]] [[cloudflare-security-audit-skill]]
+[[google-guava]] [[snailsploit-claude-red]] [[checkstyle-checkstyle]] [[nvidia-skillspector]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

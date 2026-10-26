@@ -8,7 +8,7 @@ tags: [go]
 sources: [raw/trending/2026-07-23.json]
 confidence: medium
 trending_count_daily: 2
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-07-22
@@ -35,5 +35,5 @@ Easily and securely send things from one computer to another 🐊 📦
 
 ## 相关项目
 
-[[strelov1-freehire]] [[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[juliusbrussee-caveman]]
+[[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[strelov1-freehire]]
 

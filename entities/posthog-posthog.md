@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[getsentry-sentry]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]]
+[[coollabsio-coolify]] [[ruvnet-ruflo]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

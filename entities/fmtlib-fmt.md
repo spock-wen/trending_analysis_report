@@ -8,7 +8,7 @@ tags: [cpp, rising]
 sources: [raw/trending/2026-09-06.json]
 confidence: high
 trending_count_daily: 4
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 4
 first_trending: 2026-09-03
@@ -37,5 +37,5 @@ A modern formatting library
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[m-abozaid-esp32-c3-adblock]] [[microsoft-bitnet]] [[tensorflow-tensorflow]]
+[[boykopovar-anyps5]] [[microsoft-bitnet]] [[m-abozaid-esp32-c3-adblock]] [[tensorflow-tensorflow]]
 

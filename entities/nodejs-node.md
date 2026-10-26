@@ -9,7 +9,7 @@ sources: [raw/trending/2026-10-24.json]
 confidence: low
 trending_count_daily: 1
 trending_count_weekly: 0
-trending_count_monthly: 0
+trending_count_monthly: 1
 consecutive_days: 1
 first_trending: 2026-10-24
 last_trending: 2026-10-24
@@ -34,5 +34,5 @@ Node.js JavaScript runtime ✨🐢🚀✨
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[withmarbleapp-os-taxonomy]] [[dietrichgebert-ponytail]]
+[[cloudflare-security-audit-skill]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]]
 

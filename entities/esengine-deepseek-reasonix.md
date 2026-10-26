@@ -8,7 +8,7 @@ tags: [go, ai-agent, cli, rising]
 sources: [raw/trending/2026-08-07.json]
 confidence: high
 trending_count_daily: 5
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 5
 first_trending: 2026-08-03
@@ -38,7 +38,7 @@ DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[coollabsio-coolify]]
+[[vxcontrol-pentagi]] [[coollabsio-coolify]] [[alibaba-open-code-review]] [[nvidia-openshell]] [[strelov1-freehire]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

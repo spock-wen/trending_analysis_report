@@ -35,7 +35,7 @@ Agent framework and applications built upon Qwen>=3.0, featuring Function Callin
 
 ## 相关项目
 
-[[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]]
+[[hugohe3-ppt-master]] [[nvidia-skillspector]] [[nutlope-hallmark]] [[panniantong-agent-reach]] [[php-php-src]]
 
 **所属领域**: [[ai-agent]] [[web]] [[erp]]
 

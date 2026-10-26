@@ -8,7 +8,7 @@ tags: [python, ai-agent, education, audio]
 sources: [raw/trending/2026-10-11.json]
 confidence: high
 trending_count_daily: 4
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-08-12
@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[ruvnet-ruflo]] [[tauricresearch-tradingagents]]
+[[ruvnet-ruflo]] [[openbmb-voxcpm]] [[hugohe3-ppt-master]] [[nvidia-skillspector]] [[mlabonne-llm-course]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

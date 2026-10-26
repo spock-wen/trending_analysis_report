@@ -8,7 +8,7 @@ tags: [cpp]
 sources: [raw/trending/2026-07-12.json]
 confidence: medium
 trending_count_daily: 2
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-07-11
@@ -35,5 +35,5 @@ Abseil Common Libraries (C++)
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[m-abozaid-esp32-c3-adblock]] [[microsoft-bitnet]] [[tensorflow-tensorflow]]
+[[boykopovar-anyps5]] [[microsoft-bitnet]] [[m-abozaid-esp32-c3-adblock]] [[tensorflow-tensorflow]]
 

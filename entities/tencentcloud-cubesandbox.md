@@ -8,7 +8,7 @@ tags: [rust, ai-agent]
 sources: [raw/trending/2026-07-09.json]
 confidence: high
 trending_count_daily: 4
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-07-02
@@ -37,7 +37,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[nvidia-openshell]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]]
+[[nvidia-openshell]] [[pollen-robotics-microduck]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[akitaonrails-ai-memory]]
 
 **所属领域**: [[ai-agent]]
 

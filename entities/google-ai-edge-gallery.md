@@ -37,7 +37,7 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[android-skills]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]]
+[[android-skills]] [[mahlernim-google-timeline-visualizer]] [[affaan-m-ecc]] [[bannedbook-fanqiang]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

@@ -8,7 +8,7 @@ tags: [shell, ai-agent, cli, rising]
 sources: [raw/trending/2026-10-11.json]
 confidence: high
 trending_count_daily: 37
-trending_count_weekly: 0
+trending_count_weekly: 5
 trending_count_monthly: 0
 consecutive_days: 5
 first_trending: 2026-05-13
@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]] [[obra-superpowers]] [[cloudflare-security-audit-skill]]
+[[nvm-sh-nvm]] [[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

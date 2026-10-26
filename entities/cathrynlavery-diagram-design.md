@@ -8,7 +8,7 @@ tags: [ai-agent, web, rising]
 sources: [raw/trending/2026-10-14.json]
 confidence: high
 trending_count_daily: 18
-trending_count_weekly: 0
+trending_count_weekly: 4
 trending_count_monthly: 0
 consecutive_days: 8
 first_trending: 2026-08-13
@@ -38,7 +38,7 @@ Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]]
+[[nutlope-hallmark]] [[affaan-m-ecc]] [[nightly-labs-openbot]] [[averygan-reclip]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

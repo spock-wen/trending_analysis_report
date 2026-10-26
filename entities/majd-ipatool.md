@@ -8,7 +8,7 @@ tags: [go, cli]
 sources: [raw/trending/2026-09-01.json]
 confidence: medium
 trending_count_daily: 2
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-08-31
@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[coollabsio-coolify]] [[nvidia-openshell]] [[alibaba-open-code-review]]
+[[vxcontrol-pentagi]] [[coollabsio-coolify]] [[alibaba-open-code-review]] [[nvidia-openshell]] [[strelov1-freehire]]
 
 **所属领域**: [[cli]]
 

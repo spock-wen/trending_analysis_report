@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[nodejs-node]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[ruvnet-ruflo]] [[withmarbleapp-os-taxonomy]]
+[[coollabsio-coolify]] [[ruvnet-ruflo]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[mlabonne-llm-course]]
 
 **所属领域**: [[data]] [[education]]
 

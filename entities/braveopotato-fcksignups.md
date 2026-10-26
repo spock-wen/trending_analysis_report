@@ -36,7 +36,7 @@ A list of tools that are open-source, in-browser, and require no-signups!
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]]
+[[jetbrains-thinkrail]] [[nutlope-hallmark]] [[makecindy-cindy]] [[nightly-labs-openbot]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[web]]
 

@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[antirez-ds4]] [[snailsploit-claude-red]] [[nutlope-hallmark]] [[epicgames-raddebugger]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]] [[antirez-ds4]] [[php-php-src]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

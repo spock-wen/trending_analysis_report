@@ -8,7 +8,7 @@ tags: [python, ai-agent, audio]
 sources: [raw/trending/2026-05-18.json]
 confidence: low
 trending_count_daily: 1
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-05-18
@@ -34,7 +34,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[hugohe3-ppt-master]]
+[[openbmb-voxcpm]] [[hugohe3-ppt-master]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

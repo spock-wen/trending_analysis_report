@@ -8,7 +8,7 @@ tags: [typescript, web]
 sources: [raw/trending/2026-06-17.json]
 confidence: medium
 trending_count_daily: 2
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-15
@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]]
+[[jetbrains-thinkrail]] [[nutlope-hallmark]] [[makecindy-cindy]] [[nightly-labs-openbot]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[web]]
 

@@ -8,7 +8,7 @@ tags: [go, ai-agent]
 sources: [raw/trending/2026-09-18.json]
 confidence: medium
 trending_count_daily: 2
-trending_count_weekly: 0
+trending_count_weekly: 3
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-09-17
@@ -35,7 +35,7 @@ Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an 
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[alibaba-open-code-review]]
+[[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[strelov1-freehire]] [[juliusbrussee-caveman]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

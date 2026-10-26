@@ -8,7 +8,7 @@ tags: [typescript, ai-agent, devops, rising]
 sources: [raw/trending/2026-07-25.json]
 confidence: high
 trending_count_daily: 8
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 4
 first_trending: 2026-04-23
@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[makecindy-cindy]] [[xtool-org-xtool]] [[jetbrains-thinkrail]] [[getsentry-sentry]] [[ruvnet-ruflo]]
+[[coollabsio-coolify]] [[ruvnet-ruflo]] [[jetbrains-thinkrail]] [[makecindy-cindy]] [[nightly-labs-openbot]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

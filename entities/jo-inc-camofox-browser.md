@@ -35,7 +35,7 @@ Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and
 
 ## 相关项目
 
-[[nodejs-node]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[withmarbleapp-os-taxonomy]]
+[[nutlope-hallmark]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[nightly-labs-openbot]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

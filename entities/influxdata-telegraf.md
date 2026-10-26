@@ -30,13 +30,14 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 上榜历史
 
+  - 2026-05-17: #6, +212⭐
   - 2026-05-16: #6, +212⭐
   - 2026-05-15: #8, +211⭐
   - 2026-05-14: #5, +6⭐
 
 ## 相关项目
 
-[[supabase-supabase]] [[agricidaniel-claude-seo]] [[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[nutlope-hallmark]]
+[[vxcontrol-pentagi]] [[coollabsio-coolify]] [[alibaba-open-code-review]] [[strelov1-freehire]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

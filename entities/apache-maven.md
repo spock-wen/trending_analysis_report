@@ -8,7 +8,7 @@ tags: [java]
 sources: [raw/trending/2026-07-04.json]
 confidence: low
 trending_count_daily: 1
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-07-04
@@ -34,5 +34,5 @@ Apache Maven core
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[yuliskov-smarttube]] [[checkstyle-checkstyle]] [[google-guava]]
+[[yuliskov-smarttube]] [[google-guava]] [[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]]
 

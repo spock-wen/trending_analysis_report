@@ -34,7 +34,7 @@ Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[tauricresearch-tradingagents]]
+[[tensorflow-tensorflow]] [[nutlope-hallmark]] [[microsoft-bitnet]] [[affaan-m-ecc]] [[nightly-labs-openbot]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

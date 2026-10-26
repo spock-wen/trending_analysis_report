@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[nvidia-openshell]] [[nutlope-hallmark]]
+[[nvidia-openshell]] [[pollen-robotics-microduck]] [[nutlope-hallmark]] [[nightly-labs-openbot]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[web]]
 

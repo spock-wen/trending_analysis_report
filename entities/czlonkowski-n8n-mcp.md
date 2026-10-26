@@ -30,13 +30,14 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ## 上榜历史
 
+  - 2026-05-17: #8, +68⭐
   - 2026-05-16: #8, +68⭐
   - 2026-05-04: #7, +264⭐
   - 2026-03-24: #13, +136⭐
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]]
+[[jetbrains-thinkrail]] [[makecindy-cindy]] [[nightly-labs-openbot]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

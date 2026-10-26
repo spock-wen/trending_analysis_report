@@ -8,7 +8,7 @@ tags: [typescript, ai-agent, cli, education, rising]
 sources: [raw/trending/2026-05-29.json]
 confidence: high
 trending_count_daily: 8
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 8
 first_trending: 2026-05-22
@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[ruvnet-ruflo]] [[huggingface-transformers]] [[mlabonne-llm-course]]
+[[coollabsio-coolify]] [[ruvnet-ruflo]] [[nvidia-openshell]] [[jetbrains-thinkrail]] [[google-gemini-gemini-cli]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

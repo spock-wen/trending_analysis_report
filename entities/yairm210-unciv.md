@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[android-skills]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]]
+[[android-skills]] [[mahlernim-google-timeline-visualizer]] [[affaan-m-ecc]] [[bannedbook-fanqiang]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

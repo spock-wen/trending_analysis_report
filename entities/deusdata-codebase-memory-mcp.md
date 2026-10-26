@@ -8,7 +8,7 @@ tags: [ai-agent, data]
 sources: [raw/trending/2026-09-24.json]
 confidence: high
 trending_count_daily: 9
-trending_count_weekly: 0
+trending_count_weekly: 3
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-06-18
@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[antirez-ds4]] [[snailsploit-claude-red]]
+[[coollabsio-coolify]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[antirez-ds4]] [[php-php-src]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

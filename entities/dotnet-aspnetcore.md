@@ -36,7 +36,7 @@ ASP.NET Core is a cross-platform .NET framework for building modern cloud-based 
 
 ## 相关项目
 
-[[supabase-supabase]] [[k1tbyte-wand-enhancer]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[nutlope-hallmark]]
+[[nutlope-hallmark]] [[nightly-labs-openbot]] [[agricidaniel-claude-seo]] [[ntdevlabs-tiny11builder]] [[k1tbyte-wand-enhancer]]
 
 **所属领域**: [[web]]
 

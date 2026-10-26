@@ -8,7 +8,7 @@ tags: [python, ai-agent, web, science]
 sources: [raw/trending/2026-08-31.json]
 confidence: high
 trending_count_daily: 19
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-03-25
@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]]
+[[nvidia-skillspector]] [[nutlope-hallmark]] [[panniantong-agent-reach]] [[k-dense-ai-scientific-agent-skills]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

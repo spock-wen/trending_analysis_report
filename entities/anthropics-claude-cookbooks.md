@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]] [[lyogavin-airllm]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]]
+[[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[affaan-m-ecc]] [[lyogavin-airllm]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

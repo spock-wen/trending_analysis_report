@@ -8,7 +8,7 @@ tags: [ai-agent, cli]
 sources: [raw/trending/2026-08-27.json]
 confidence: medium
 trending_count_daily: 2
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-08-25
@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[coollabsio-coolify]] [[nvidia-openshell]] [[pbakaus-impeccable]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

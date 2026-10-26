@@ -8,7 +8,7 @@ tags: [typescript, rising]
 sources: [raw/trending/2026-08-18.json]
 confidence: high
 trending_count_daily: 3
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 3
 first_trending: 2026-08-16
@@ -36,5 +36,5 @@ Meta-Framework of Spatiotemporal Composability
 
 ## 相关项目
 
-[[google-gemini-gemini-cli]] [[makecindy-cindy]] [[jetbrains-thinkrail]] [[renhuai123-ziwei-doushu]]
+[[gitroomhq-postiz-app]] [[makecindy-cindy]] [[jetbrains-thinkrail]] [[nightly-labs-openbot]]
 

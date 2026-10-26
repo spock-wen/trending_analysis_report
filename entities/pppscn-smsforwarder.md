@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[supabase-supabase]] [[bannedbook-fanqiang]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[android-skills]]
+[[android-skills]] [[nutlope-hallmark]] [[mahlernim-google-timeline-visualizer]] [[nightly-labs-openbot]] [[bannedbook-fanqiang]]
 
 **所属领域**: [[web]]
 

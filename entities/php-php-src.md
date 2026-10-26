@@ -9,7 +9,7 @@ sources: [raw/trending/2026-10-24.json]
 confidence: medium
 trending_count_daily: 2
 trending_count_weekly: 0
-trending_count_monthly: 0
+trending_count_monthly: 1
 consecutive_days: 2
 first_trending: 2026-10-23
 last_trending: 2026-10-24
@@ -35,7 +35,7 @@ The PHP Interpreter
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[agricidaniel-claude-seo]] [[antirez-ds4]] [[hugohe3-ppt-master]] [[epicgames-raddebugger]]
+[[hugohe3-ppt-master]] [[antirez-ds4]] [[epicgames-raddebugger]] [[agricidaniel-claude-seo]] [[colbymchenry-codegraph]]
 
 **所属领域**: [[erp]]
 

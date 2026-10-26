@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[actions-runner-images]] [[raphire-win11debloat]] [[bwya77-vscode-dark-islands]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]] [[actions-runner-images]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[openbmb-voxcpm]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]]
+[[openbmb-voxcpm]] [[hugohe3-ppt-master]] [[nutlope-hallmark]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

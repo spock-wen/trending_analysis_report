@@ -35,7 +35,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]] [[affaan-m-ecc]] [[robbyant-lingbot-map]]
+[[nvidia-skillspector]] [[panniantong-agent-reach]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[debpalash-voicestudio]]
 
 **所属领域**: [[science]]
 

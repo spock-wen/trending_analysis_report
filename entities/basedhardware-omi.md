@@ -34,7 +34,7 @@ AI that sees your screen, listens to your conversations and tells you what to do
 
 ## 相关项目
 
-[[localsend-localsend]] [[flutter-flutter]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[chen08209-flclash]]
+[[localsend-localsend]] [[flutter-flutter]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]]
 

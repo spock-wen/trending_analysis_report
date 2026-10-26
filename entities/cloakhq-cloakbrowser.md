@@ -38,7 +38,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]]
+[[hugohe3-ppt-master]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[nutlope-hallmark]] [[panniantong-agent-reach]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

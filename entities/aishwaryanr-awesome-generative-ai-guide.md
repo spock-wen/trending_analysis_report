@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]]
+[[cathrynlavery-diagram-design]] [[nutlope-hallmark]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[nightly-labs-openbot]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

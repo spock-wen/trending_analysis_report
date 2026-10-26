@@ -8,7 +8,7 @@ tags: [ai-agent, rising]
 sources: [raw/trending/2026-05-30.json]
 confidence: high
 trending_count_daily: 5
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 5
 first_trending: 2026-05-26
@@ -38,7 +38,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]] [[tauricresearch-tradingagents]]
+[[multica-ai-andrej-karpathy-skills]] [[affaan-m-ecc]] [[pbakaus-impeccable]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

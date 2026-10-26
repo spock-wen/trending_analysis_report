@@ -8,7 +8,7 @@ tags: [python, web]
 sources: [raw/trending/2026-08-12.json]
 confidence: high
 trending_count_daily: 8
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-04-08
@@ -38,7 +38,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[luongnv89-claude-howto]] [[tauricresearch-tradingagents]]
+[[nvidia-skillspector]] [[nutlope-hallmark]] [[panniantong-agent-reach]] [[debpalash-voicestudio]] [[nightly-labs-openbot]]
 
 **所属领域**: [[web]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[pkuflyingpig-cs-self-learning]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[cathrynlavery-diagram-design]]
+[[cathrynlavery-diagram-design]] [[nutlope-hallmark]] [[nightly-labs-openbot]] [[agricidaniel-claude-seo]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[web]]
 

@@ -8,7 +8,7 @@ tags: [typescript]
 sources: [raw/trending/2026-10-05.json]
 confidence: high
 trending_count_daily: 11
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-07-14
@@ -38,5 +38,5 @@ The open-source CapCut alternative
 
 ## 相关项目
 
-[[google-gemini-gemini-cli]] [[makecindy-cindy]] [[jetbrains-thinkrail]] [[renhuai123-ziwei-doushu]]
+[[gitroomhq-postiz-app]] [[makecindy-cindy]] [[jetbrains-thinkrail]] [[nightly-labs-openbot]]
 

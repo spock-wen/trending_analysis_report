@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[google-gemini-gemini-cli]] [[nvidia-openshell]] [[snailsploit-claude-red]]
+[[google-gemini-gemini-cli]] [[coollabsio-coolify]] [[panniantong-agent-reach]] [[nvidia-openshell]]
 
 **所属领域**: [[cli]]
 

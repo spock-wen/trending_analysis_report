@@ -8,7 +8,7 @@ tags: [typescript, ai-agent, web, cli, rising]
 sources: [raw/trending/2026-06-28.json]
 confidence: high
 trending_count_daily: 6
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 6
 first_trending: 2026-06-23
@@ -38,7 +38,7 @@ Clone any website with one command using AI coding agents
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]]
+[[coollabsio-coolify]] [[nvidia-openshell]] [[jetbrains-thinkrail]] [[google-gemini-gemini-cli]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

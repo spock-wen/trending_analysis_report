@@ -8,7 +8,7 @@ tags: [ai-agent, web, data, rising]
 sources: [raw/trending/2026-09-01.json]
 confidence: high
 trending_count_daily: 6
-trending_count_weekly: 0
+trending_count_weekly: 4
 trending_count_monthly: 0
 consecutive_days: 6
 first_trending: 2026-08-27
@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[nodejs-node]] [[supabase-supabase]] [[agricidaniel-claude-seo]] [[msitarzewski-agency-agents]] [[withmarbleapp-os-taxonomy]]
+[[coollabsio-coolify]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[nutlope-hallmark]] [[dietrichgebert-ponytail]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

@@ -8,7 +8,7 @@ tags: [typescript, ai-agent, audio]
 sources: [raw/trending/2026-09-18.json]
 confidence: high
 trending_count_daily: 13
-trending_count_weekly: 0
+trending_count_weekly: 2
 trending_count_monthly: 0
 consecutive_days: 2
 first_trending: 2026-04-15
@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[makecindy-cindy]] [[jetbrains-thinkrail]] [[openbmb-voxcpm]] [[debpalash-voicestudio]] [[hugohe3-ppt-master]]
+[[openbmb-voxcpm]] [[hugohe3-ppt-master]] [[jetbrains-thinkrail]] [[makecindy-cindy]] [[nightly-labs-openbot]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[xerj-org-xerj]] [[makecindy-cindy]] [[jetbrains-thinkrail]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]]
+[[jetbrains-thinkrail]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[makecindy-cindy]] [[nightly-labs-openbot]]
 
 **所属领域**: [[security]]
 

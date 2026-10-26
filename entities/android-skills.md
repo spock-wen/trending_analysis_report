@@ -8,7 +8,7 @@ tags: [ai-agent, rising]
 sources: [raw/trending/2026-10-19.json]
 confidence: high
 trending_count_daily: 3
-trending_count_weekly: 0
+trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 3
 first_trending: 2026-10-17
@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]] [[mahlernim-google-timeline-visualizer]]
+[[mahlernim-google-timeline-visualizer]] [[affaan-m-ecc]] [[bannedbook-fanqiang]] [[tauricresearch-tradingagents]] [[multica-ai-andrej-karpathy-skills]]
 
 **所属领域**: [[ai-agent]]
 

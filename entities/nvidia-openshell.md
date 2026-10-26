@@ -9,7 +9,7 @@ sources: [raw/trending/2026-10-25.json]
 confidence: high
 trending_count_daily: 6
 trending_count_weekly: 0
-trending_count_monthly: 0
+trending_count_monthly: 1
 consecutive_days: 2
 first_trending: 2026-09-30
 last_trending: 2026-10-25
@@ -38,7 +38,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[tauricresearch-tradingagents]] [[nutlope-hallmark]] [[cloudflare-security-audit-skill]] [[coollabsio-coolify]]
+[[coollabsio-coolify]] [[pollen-robotics-microduck]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

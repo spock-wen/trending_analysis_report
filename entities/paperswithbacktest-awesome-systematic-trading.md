@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[luongnv89-claude-howto]] [[ruvnet-ruflo]] [[tauricresearch-tradingagents]] [[mlabonne-llm-course]]
+[[ruvnet-ruflo]] [[nvidia-skillspector]] [[mlabonne-llm-course]] [[panniantong-agent-reach]] [[fastapi-fastapi]]
 
 **所属领域**: [[education]] [[science]]
 

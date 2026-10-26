@@ -1,10 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""周报一图流生成器（HTML → Chromium 截图）
-用法：python3 weekly_digest_html.py <week_end YYYY-MM-DD>
-数据源：/srv/www/github-trending-wiki/data/github_trending.db（weekly_trending / trending_daily / repo_stats）
-输出：reports/weekly/weekly-<week_end>-digest.png（2160px 宽）
-叙事文案需人工审校：本脚本只生成骨架 + 榜单数据，NARRATIVES/KNIVES/WATCH 内容按周报正文替换。
+"""周报一图流 v3（手机可读性优先 + 布局重排）
+画布 720px（原 1080）→ 飞书手机端缩放比 0.95，字号等效 ×1.5。
+结构重排：
+  头部 = 标题 + 日期 + 三格关键数字（总星/环比/换血率）
+  一、本周主线（3 张叙事卡，标题胶囊 + 结论段）
+  二、本周 TOP10（10 行，名字/星数同栏，标签+语言一行，描述一行）
+  三、趋势三刀（2×2 网格）
+  四、下周观测（3 条，图标 + 问题 + 阈值）
+用法：python3 weekly_digest_html_v3.py <week_end YYYY-MM-DD>
 """
 import sqlite3, sys, subprocess, os
 import numpy as np
@@ -13,13 +17,11 @@ from PIL import Image
 REPO = '/srv/www/github-trending-wiki'
 DB = f'{REPO}/data/github_trending.db'
 
-week_end = sys.argv[1] if len(sys.argv) > 1 else '2026-09-06'
+week_end = sys.argv[1] if len(sys.argv) > 1 else '2026-10-25'
 from datetime import datetime, timedelta
 week_start = (datetime.strptime(week_end, '%Y-%m-%d') - timedelta(days=6)).strftime('%Y-%m-%d')
 
 db = sqlite3.connect(DB)
-
-# ── 基础数据 ──
 rows = list(db.execute(
     "SELECT repo_full_name, weekly_stars, language, rank, description FROM weekly_trending "
     "WHERE week_end=?", (week_end,)))
@@ -27,72 +29,27 @@ WK = {r[0]: r[1] for r in rows}
 LANG = {r[0]: r[2] or '' for r in rows}
 DESC = {r[0]: (r[4] or '').strip() for r in rows}
 
-ZH_DESC = {'ayghri/i-have-adhd': '强制编码 Agent 把结论放在输出最前面，告别翻找答案（ADHD 友好）', 'bilawalsidhu/gods-eye-view': '浏览器里的侦察卫星模拟器：写实 3D 地球 + 真实开源空间情报', 'tt-a1i/archify': 'Agent 架构/工作流/时序图生成 skill，自包含 HTML 可导出', 'DietrichGebert/ponytail': '让 Agent 像"屋里最懒的资深工程师"一样思考：能不写的代码就不写', 'mattpocock/skills': 'TypeScript 教育者 Matt Pocock 的工程技能集', 'affaan-m/ECC': 'Agent 性能调优系统：技能、本能、记忆、安全，支持多平台', 'cathrynlavery/diagram-design': '38 种编辑部风格图表模板，自包含 HTML+SVG，拒绝 Mermaid 风', 'heygen-com/hyperframes': '写 HTML、渲染成视频，为 Agent 设计的视频生产管线', 'microsoft/markitdown': '微软官方文件转 Markdown 工具，Office/图片/音频全支持', 'THU-MAIC/OpenMAIC': '清华开源多 Agent 互动课堂，一键搭建沉浸式教学',
-    'alibaba/open-code-review': '阿里开源混合架构代码评审：确定性流水线 + LLM 判断，内部规模验证', 'stablyai/orca': '并行 Agent 机群的 ADE：用自己的订阅跑任意编码 Agent', 'Tencent/WeKnora': '腾讯 LLM 知识平台：文档转 RAG、自主推理 Agent、自维护 Wiki', 'Panniantong/Agent-Reach': '给 Agent 全网视野：读搜 Twitter、Reddit、YouTube、B站、小红书', 'addyosmani/agent-skills': 'Chrome 团队 Addy Osmani 的生产级工程技能包', 'blader/humanizer': '去除文本中 AI 生成痕迹的 Agent skill', 'anthropics/claude-code': 'Claude Code 官方仓库：终端里的 agentic 编码工具', 'danny-avila/LibreChat': '增强版多模型聊天 UI，Agents/MCP/Skills 全支持', 'supabase/supabase': 'Postgres 开发平台，Web/移动/AI 应用的后端底座', 'mksglu/context-mode': 'Agent 上下文窗口优化：工具输出沙箱化、会话记忆持久化', 'huggingface/transformers': 'Hugging Face 模型定义框架，文本/视觉/音频全覆盖', 'max-sixty/worktrunk': 'Git worktree 管理 CLI，为并行 AI Agent 工作流设计', 'kunchenguid/firstmate': '"指挥一个 Agent，用一队人马交付"，单入口多 Agent 协作', 'anthropics/knowledge-work-plugins': 'Anthropic 知识工作插件官方仓库，服务 Claude Cowork', 'openai/plugins': 'OpenAI 官方插件仓库', 'home-assistant/core': '开源自托管家庭自动化主打项目，本地优先',
-    'vectorize-io/hindsight': '会学习的 Agent 记忆系统：运行时积累经验',
-    'paperclipai/paperclip': '开源 Agent 工作管理，"在公司管好你的 agents"',
-    'Panniantong/Agent-Reach': '给 Agent 全网视野：读搜 Twitter、Reddit、YouTube、B站、小红书',
-    'pbakaus/impeccable': '给 AI 编码 Agent 的设计语言：24 条命令 + 61 条确定性检测规则',
-    'debpalash/VoiceStudio': '全本地语音工作台：ElevenLabs 的开源平替，646 种语言克隆/配音',
-    'heygen-com/hyperframes': '写 HTML、渲染成视频，为 Agent 设计的视频生产管线',
-    'rohitg00/ai-engineering-from-scratch': 'AI 工程从零到实战：学它、建它、交付它',
-    'harry0703/MoneyPrinterTurbo': '一个主题词生成整条高清短视频的自动化流水线',
-    'pablostanley/yoinks': '终端里的视频下载工具，无套路无广告',
-    'boykopovar/AnyPS5': '把 PS5 可执行文件自动移植到 Linux 和 Windows',
-    'HunxByts/GhostTrack': '位置与手机号追踪 / OSINT 信息收集工具',
-    'TencentCloud/Octop': '腾讯云自托管 AI 助手，多用户、多 Agent',
-    'alirezarezvani/claude-skills': '380 个 Claude Code 技能与插件，覆盖 8 类编码 Agent',
-    'longbridge/gpui-kit': '基于 GPUI 的跨平台桌面 Rust GUI 组件库',
-    'tile-ai/tilelang': 'GPU/加速器内核开发专用语言，简化高性能算子编写',
-    'Effect-TS/effect': 'TypeScript 生产级应用开发框架',
-    'pytorch/pytorch': 'PyTorch 深度学习框架官方仓库',
-    'flutter/flutter': 'Google 跨平台 UI 工具包',
-    'cloudflare/security-audit-skill': 'Cloudflare 官方编码 Agent 安全审计 skill，多阶段可独立验证',
-    'paperclipai/paperclip': '开源 Agent 工作管理，"在公司管好你的 agents"',
-    'dream-num/univer': 'AI Agent 的 Office 运行时：表格/文档/幻灯片一体化',
-    'anthropics/financial-services': 'Anthropic 官方金融服务插件包',
-    'superdesigndev/treg': 'Agent 工具的 OpenRouter，社区工具市场',
-    'davila7/claude-code-templates': 'Claude Code 配置与监控 CLI',
-    'HKUDS/CLI-Anything': '港大数据智能实验室：让所有软件 Agent 原生',
-    'TencentCloud/Octop': '腾讯云自托管 AI 助手',
-    'cloudflare/quiche': 'QUIC/HTTP3 的 Rust 实现，Chrome 同款协议栈',
-    'pytorch/pytorch': 'PyTorch 深度学习框架官方仓库',
-    'boykopovar/AnyPS5': '把 PS5 可执行文件自动移植到 Linux 和 Windows：relinker 直接转原生格式，无模拟器',
-    'DuarteSantos8/openGym': '自托管健身追踪：训练计划、组数记录、肌肉疲劳度，数据自持',
-    'tester-army/e2e': '面向 Web 与移动应用的下一代 e2e 测试框架，Apache-2.0',
-    'thedotmack/claude-mem': '跨会话持久上下文：捕获 agent 行为、AI 压缩、注入后续会话',
-    'earthtojake/text-to-cad': '给 agent 加 CAD 超能力',
-    'pingdotgg/t3code': 'agent harness 控制面：四端远程控制本机所有编码 agent',
-    'mvschwarz/openrig': '用 YAML 定义 agent 团队网络，一条命令启动',
-    'cursor/plugins': 'Cursor 插件规范与官方插件',
-    'EpicGames/raddebugger': '原生用户态、多进程图形调试器，Epic Games 出品',
-    'flutter/flutter': 'Google 跨平台 UI 工具包',
-    'ranxianglei/billion-context': '上下文压缩插件：100K 窗口、省 5 倍 token、支撑数十亿 token 单会话',
-    'morluto/rea': '用 agent 逆向一切：从应用行为到原生二进制，一个 MCP 统管逆向工具链',
-    'storytold/artcraft': '面向艺术家与电影人的 AI 创作 IDE：2D 合成 + 3D 场景搭建 + 角色姿态',
-    'cathrynlavery/diagram-design': '编辑部风格图表设计：44 种图，自包含 HTML+SVG，拒绝 Mermaid 风',
-    'NationalSecurityAgency/ghidra': 'NSA 开源的软件逆向工程框架，反汇编/反编译/脚本全能',
-    'anthropics/claude-plugins-official': 'Anthropic 官方 Claude Code 插件目录',
-    'Graphify-Labs/graphify': '把代码库连同文档、SQL 结构、配置、PDF 变成可查询知识图谱，无向量库',
-    'anomalyco/opencode': '开源编码 agent：终端里的 agentic 编程工具',
-    'Comfy-Org/ComfyUI': '最强模块化扩散模型 GUI 与后端，节点图驱动本地推理',
-    'akitaonrails/ai-memory': 'Rust 写的跨厂商 agent 长期记忆：Claude Code 停工、Codex 接手不用重讲架构',
-    'ruvnet/ruflo': '面向 Claude Code 与 Codex 的 agent 元 harness：多智能体集群、自适应记忆',
-    'vllm-project/vllm': '高吞吐、省显存的 LLM 推理与服务引擎',
-    'android/skills': 'Android 官方 AI skills：面向 LLM 表现不佳的开发场景的模块化指令',
-    'cursor/plugins': 'Cursor 插件规范与官方插件仓库',
-    'anthropics/knowledge-work-plugins': 'Anthropic 知识工作插件官方仓库，服务 Claude Cowork',
-    'cloudflare/security-audit-skill': 'Cloudflare 官方安全审计 skill：六阶段审计，每个候选漏洞独立复核',
-    'HKUDS/CLI-Anything': '港大数据智能实验室：让所有软件 Agent 原生',
-    'heygen-com/hyperframes': '写 HTML、渲染成视频，为 Agent 设计的视频生产管线',
+# ⚠️ 每周手填：新进 TOP10 的 repo 中文描述
+ZH_DESC = {
+ 'cloudflare/security-audit-skill': 'Cloudflare 官方编码 Agent 安全审计 skill：六阶段审计，每个候选漏洞独立复核',
+ 'Graphify-Labs/graphify': '把代码库连同文档、SQL 结构、配置、PDF 变成可查询知识图谱，不用向量库',
+ 'akitaonrails/ai-memory': 'Rust 写的跨厂商 agent 长期记忆：Claude Code 停工、Codex 接手不用重讲架构',
+ 'ruvnet/ruflo': '面向 Claude Code 与 Codex 的 agent 元 harness：多智能体集群、自适应记忆',
+ 'morluto/rea': '用 agent 逆向一切：从应用行为到原生二进制，一个 MCP 统管逆向工具链',
+ 'anomalyco/opencode': '开源编码 agent：终端里的 agentic 编程工具',
+ 'HKUDS/CLI-Anything': '港大数据智能实验室：让所有软件 Agent 原生',
+ 'vllm-project/vllm': '高吞吐、省显存的 LLM 推理与服务引擎',
+ 'cathrynlavery/diagram-design': '编辑部风格图表设计：44 种图，自包含 HTML+SVG，拒绝 Mermaid 风',
+ 'stablyai/orca': '并行 Agent 机群的 ADE：用自己的订阅跑任意编码 Agent',
+ 'heygen-com/hyperframes': '写 HTML、渲染成视频，为 Agent 设计的视频生产管线',
+ 'Comfy-Org/ComfyUI': '最强模块化扩散模型 GUI 与后端，节点图驱动本地推理',
+ 'anthropics/claude-plugins-official': 'Anthropic 官方 Claude Code 插件目录',
+ 'anthropics/knowledge-work-plugins': 'Anthropic 知识工作插件官方仓库，服务 Claude Cowork',
 }
 total_stars = sum(WK.values())
 n_projects = len(rows)
 
-# 上周数据（环比 + 换血）
-prev_end = None
-prev_total = None
-prev_names = set()
+prev_end = None; prev_total = None; prev_names = set()
 r = db.execute("SELECT MAX(week_end) FROM weekly_trending WHERE week_end<?", (week_end,)).fetchone()
 if r and r[0]:
     prev_end = r[0]
@@ -101,21 +58,15 @@ if r and r[0]:
 wow = (total_stars - prev_total) / prev_total * 100 if prev_total else 0
 churn = sum(1 for n in WK if n not in prev_names) / n_projects * 100 if prev_names else 0
 
-# 组别推导：连续 / 回归（断档周数）/ 新面孔
 def weeks_gone(name):
-    """断档周数：本次 week_end 之前最后一次上榜周，到本次之间缺席的周数。
-    终点必须是本周 week_end（不是上周 prev_end），否则所有断档数少算 1。"""
     r = db.execute("SELECT MAX(week_end) FROM weekly_trending WHERE repo_full_name=? AND week_end<?",
                    (name, week_end)).fetchone()
     if not r or not r[0]:
         return 99
-    from datetime import datetime
-    import datetime as dt
-    cur = datetime.strptime(r[0], '%Y-%m-%d') + dt.timedelta(days=7)
+    cur = datetime.strptime(r[0], '%Y-%m-%d') + timedelta(days=7)
     gap = 0
     while cur < datetime.strptime(week_end, '%Y-%m-%d'):
-        gap += 1
-        cur += dt.timedelta(days=7)
+        gap += 1; cur += timedelta(days=7)
     return gap
 
 GROUP = {}
@@ -126,7 +77,6 @@ for name in WK:
         g = weeks_gone(name)
         GROUP[name] = (f'断档 {g} 周', 'purple') if g <= 11 else ('新面孔', 'blue')
 
-# 日榜次数（本周期内）
 daily = {}
 for name, cnt in db.execute(
         "SELECT repo_full_name, COUNT(*) FROM trending_daily "
@@ -134,61 +84,49 @@ for name, cnt in db.execute(
             ','.join('?' * len(WK))), (week_start, week_end, *WK.keys())):
     daily[name] = cnt
 
-# ── TOP10 副信息行 ──
 def consec_weeks(name, week_end):
-    """真实连续上榜周数：从 week_end 往前逐周回数，遇断档即停。"""
-    from datetime import datetime
-    import datetime as dt
-    cur = datetime.strptime(week_end, '%Y-%m-%d')
-    n = 0
+    cur = datetime.strptime(week_end, '%Y-%m-%d'); n = 0
     while True:
         r = db.execute("SELECT 1 FROM weekly_trending WHERE repo_full_name=? AND week_end=?",
                        (name, cur.strftime('%Y-%m-%d'))).fetchone()
-        if not r:
-            break
-        n += 1
-        cur -= dt.timedelta(days=7)
+        if not r: break
+        n += 1; cur -= timedelta(days=7)
     return n
 
-
 def subline(name):
-    tag, color = GROUP[name]
-    parts = []
-    if LANG[name]:
-        parts.append(LANG[name])
-    if name in prev_names:
-        parts.append(f'连续 {consec_weeks(name, week_end)} 周')
-    elif tag.startswith('断档'):
-        parts.append(f'时隔 {tag[3:-1]} 周回归')
-    if daily.get(name):
-        parts.append(f'日榜 {daily[name]} 次')
+    tag, color = GROUP[name]; parts = []
+    if LANG[name]: parts.append(LANG[name])
+    if name in prev_names: parts.append(f'连续 {consec_weeks(name, week_end)} 周')
+    elif tag.startswith('断档'): parts.append(f'时隔 {tag[3:-1]} 周回归')
+    if daily.get(name): parts.append(f'日榜 {daily[name]} 次')
     return ' · '.join(p for p in parts if p)
 
 top10 = sorted(WK.items(), key=lambda kv: kv[1], reverse=True)[:10]
 
-# ══ 生成 HTML（叙事区留占位，按周改） ══
 TAG_LABEL = {'blue': '新面孔', 'orange': '连续上榜', 'purple': '回归'}
 C = {'blue': '#4C72B0', 'orange': '#E4572E', 'purple': '#8172B2', 'green': '#2E8B57'}
 
-# TODO(每周手填)：NARRATIVES / KNIVES / WATCH 按周报正文更新
+# ⚠️ 每周手填：三段主线叙事（结论前置，正文压到 3-4 行）
 NARRATIVES = [
-    (C['orange'], '#FDEEE8', '#D14A24', '单一仓库退潮，Agent 生态回到多项目稳态',
-     '15 个项目 145,207★（上周 10 项 316,460★，<b>-54.1%</b>，21 周采数史第 2 高）。回落的主因是 <b>morluto/rea</b> 从 239,923★ 跌到 78,562★（<b>-67.2%</b>）——它 10 月 16 日后完全退出日榜，热度脉冲确实在衰减但没断。剔除 rea，其余 14 项合计 66,645★，环比上周的 9 项 76,537★ 为 <b>-13.0%</b>。换血率 80.0%（上周 60.0%），上周 10 席只留住 3 席，但 12 个新面孔里真正首次上榜的只有 4 个，其余 8 个是断档 1~13 周的回归——轮动加快和老玩家回流同时发生。'),
+    (C['orange'], '#FDEEE8', '#D14A24', '单一仓库退潮，生态回到多项目稳态',
+     '15 个项目 145,207★，上周 10 项 316,460★，环比 <b>-54.1%</b>。回落主因是 <b>morluto/rea</b> 从 239,923★ 跌到 78,562★（<b>-67.2%</b>），10 月 16 日后完全退出日榜。剔除 rea 后其余 14 项合计 66,645★，环比仅 <b>-13.0%</b>——大盘退潮但生态没塌。'),
     (C['blue'], '#EAF0F9', '#3A62A8', '「Skill」成为大厂共同的发行格式',
-     '本周 15 席里 6 席是 <b>Skill/插件生态</b>（合计 100,151★，占 69.0%，但其中 rea 一项 78,562★）。Cloudflare 把内部漏洞挖掘 harness 开源成 <b>security-audit-skill</b>（+12,680★，官方周榜第 1，日榜 5 次、3 天第 1）；Anthropic 两个官方仓库同时在榜；<b>android/skills</b>（+1,317★）第一次上榜，明确说只做「评测显示 LLM 表现不佳」的 Android 场景；<b>cursor/plugins</b> 断档 1 周回归。Cloudflare、Google、Cursor、Anthropic 在同一周用同一格式发东西。'),
-    (C['purple'], '#F1EEF8', '#6D5CA8', '上下文与记忆连续两周占位，成为最稳的一条线',
-     '<b>Graphify-Labs/graphify</b>（+6,868★，日榜 3 次）把代码库连同文档、SQL schema、配置、PDF 转成可查询知识图谱，本地确定性 AST 解析、每条边可解释、<b>不用向量库</b>；<b>akitaonrails/ai-memory</b>（+3,541★，Rust）做跨厂商长期记忆，卖点是「Claude Code 停工、Codex 在同一目录接手，不用重讲架构」。上周 context-mode 与 billion-context 本周双双出局，但换成了两个更强的玩家——上下文这条线连续两周在榜，是本期最稳定的信号。'),
+     '本周 15 席里 6 席是 <b>Skill/插件生态</b>。Cloudflare 把内部漏洞挖掘 harness 开源成 <b>security-audit-skill</b>（+12,680★，官方周榜第 1）；Anthropic 两个官方仓库同时在榜；<b>android/skills</b> 首次上榜。Cloudflare、Google、Cursor、Anthropic 同一周用同一格式发东西。'),
+    (C['purple'], '#F1EEF8', '#6D5CA8', '上下文与记忆连续两周占位',
+     '<b>graphify</b>（+6,868★）把代码库连同文档、SQL schema、配置、PDF 转成可查询知识图谱，<b>不用向量库</b>；<b>ai-memory</b>（+3,541★，Rust）做跨厂商长期记忆。上周两个项目出局，但换成两个更强的玩家——这条线连续两周在榜。'),
 ]
+# ⚠️ 每周手填：四张赛道卡
 KNIVES = [
-    (C['orange'], '换挡', 'Agent 编排与运行时', '4 项 22,995★ vs 上周 0 席<br>整条线集体回归，其中 opencode / ruflo / CLI-Anything 首次上榜'),
-    (C['blue'], '加速', 'Skill 与插件生态', '6 项 100,151★（剔除 rea 后 21,589★）<br>vs 上周 4 项 263,158★（剔除 rea 后 23,235★，-2.8%）'),
-    (C['purple'], '稳态', '上下文与记忆', 'graphify + ai-memory 2 项 10,409★<br>上周同赛道 context-mode + billion-context 合计 5,326★'),
-    (C['green'], '新增', '推理基础设施入榜', 'vllm-project/vllm +1,371★ 首次进周榜<br>日榜 2 天冲到第 2，15 席中唯一的推理引擎'),
+    (C['orange'], '换挡', 'Agent 编排与运行时', '4 项 22,995★<br>上周 0 席，opencode / ruflo / CLI-Anything 首次上榜'),
+    (C['blue'], '加速', 'Skill 与插件生态', '6 项 100,151★<br>剔除 rea 后 21,589★，vs 上周 23,235★，-2.8%'),
+    (C['purple'], '稳态', '上下文与记忆', '2 项 10,409★<br>上周同赛道合计 5,326★，接近翻倍'),
+    (C['green'], '新增', '推理基础设施入榜', 'vllm +1,371★<br>首次进周榜，15 席中唯一推理引擎'),
 ]
+# ⚠️ 每周手填：三条观测
 WATCH = [
-    ('rea 是脉冲还是新品类？', '周星 <b>≥50,000★</b> 则「agent 逆向」是常驻主线；跌破 <b>20,000★</b> 且日榜连续 7 天缺席，则确认一次性传播事件'),
-    ('Skill 发行潮能否扩容？', '下周出现 <b>≥2 个新 Skill/插件类</b>项目且各自周星 <b>≥1,500★</b>（本周仅 cloudflare 一个达标），则「大厂用 skill 格式发工具」成为固定形态'),
-    ('上下文赛道能否再进一步？', '上下文与记忆合计周星 <b>≥15,000★</b> 或席位 <b>≥3</b>（本周 2 项 10,409★），则从「两个项目」升级为「一条独立赛道」'),
+    ('rea 是脉冲还是新品类？', '周星 <b>≥50,000★</b> → 常驻主线<br>跌破 <b>20,000★</b> 且日榜连续 7 天缺席 → 一次性传播事件'),
+    ('Skill 发行潮能否扩容？', '下周 <b>≥2 个新 Skill 类</b>项目且各自 <b>≥1,500★</b><br>→ 「大厂用 skill 格式发工具」成为固定形态'),
+    ('上下文赛道能否再进一步？', '合计周星 <b>≥15,000★</b> 或席位 <b>≥3</b>（本周 2 项 10,409★）<br>→ 从「两个项目」升级为独立赛道'),
 ]
 
 def esc(s):
@@ -197,15 +135,14 @@ def esc(s):
 top10_html = ''
 for i, (name, stars) in enumerate(top10):
     tag, color = GROUP[name]
-    s = f'+{stars:,}<span style="font-size:15px">★</span>'
+    # 星数并入副信息行：序号 → 仓库名 → 描述 → 副信息（含星数）
     top10_html += f'''<div class="row">
-    <div class="idx">{i+1:02d}</div>
+    <div class="idx">{i+1}</div>
     <div class="main">
       <div class="l1"><span class="name">{esc(name)}</span><span class="tag" style="background:{C[color]}">{TAG_LABEL[color]}</span></div>
       <div class="desc">{esc(ZH_DESC.get(name) or DESC.get(name, ''))}</div>
-      <div class="sub">{esc(subline(name))}</div>
+      <div class="sub"><span class="st" style="color:{C[color]}">+{stars:,}★</span><span class="sep">·</span>{esc(subline(name))}</div>
     </div>
-    <div class="stars"><div class="wk" style="color:{C[color]}">{s}</div></div>
   </div>'''
 
 narr_html = ''.join(f'''<div class="narr">
@@ -217,62 +154,69 @@ knife_html = ''.join(f'''<div class="knife"><span class="tag" style="background:
   <h3>{t}</h3><p>{p}</p></div>''' for c, tag, t, p in KNIVES)
 
 watch_html = ''.join(f'''<div class="watch"><div class="ico" style="background:{c}">◎</div>
-  <div class="q">{q}</div><div class="m">{m}</div></div>'''
+  <div class="wbody"><div class="q">{q}</div><div class="m">{m}</div></div></div>'''
     for (q, m), c in zip(WATCH, [C['blue'], C['orange'], C['purple']]))
 
 HTML = f'''<!DOCTYPE html><html lang="zh"><head><meta charset="UTF-8">
 <style>
   * {{ margin:0; padding:0; box-sizing:border-box; }}
-  body {{ font-family:'Noto Sans CJK SC','Noto Sans SC',sans-serif; background:#EEF0F4; width:1080px; }}
-  .wrap {{ padding:0 36px; }}
-  .head {{ padding:44px 36px 34px; display:flex; justify-content:space-between; align-items:flex-start; }}
-  .head h1 {{ font-size:40px; font-weight:900; color:#1A1B26; letter-spacing:1px; }}
-  .head .bar {{ width:96px; height:7px; background:#E4572E; border-radius:4px; margin:14px 0 16px; }}
-  .head .meta {{ font-size:19px; color:#4A4F66; font-weight:500; }}
-  .head .toc {{ font-size:16px; color:#9AA0B5; margin-top:8px; }}
-  .head .right {{ text-align:right; padding-top:6px; }}
-  .head .num {{ font-size:42px; font-weight:900; color:#E4572E; }}
-  .head .lbl {{ font-size:15px; color:#9AA0B5; margin-top:4px; }}
-  .sec {{ font-size:28px; font-weight:900; color:#1A1B26; margin:38px 0 20px; letter-spacing:1px; }}
-  .sec .no {{ color:#E4572E; margin-right:10px; }}
-  .narr {{ background:#fff; border-radius:16px; margin-bottom:16px; overflow:hidden;
-          box-shadow:0 2px 10px rgba(26,27,38,.05); display:flex; }}
-  .narr .spine {{ width:7px; flex-shrink:0; }}
-  .narr .body {{ padding:22px 26px 20px; flex:1; }}
-  .narr .ttl {{ font-size:21px; font-weight:700; padding:10px 16px; border-radius:9px; margin-bottom:14px; display:inline-block; }}
-  .narr p {{ font-size:17px; color:#4A4F66; line-height:1.65; }}
-  .row {{ background:#fff; border-radius:14px; margin-bottom:16px; padding:20px 26px 18px;
-         box-shadow:0 2px 8px rgba(26,27,38,.04); display:flex; align-items:flex-start; }}
-  .row .idx {{ font-size:26px; font-weight:900; color:#C3C8D4; width:52px; flex-shrink:0; padding-top:2px; }}
-  .row .main {{ flex:1; min-width:0; padding-right:20px; }}
-  .row .l1 {{ display:flex; align-items:center; gap:14px; margin-bottom:8px; }}
-  .row .name {{ font-size:20px; font-weight:700; color:#1A1B26; }}
-  .row .tag {{ font-size:13px; font-weight:700; color:#fff; padding:4px 12px; border-radius:20px; white-space:nowrap; }}
-  .row .desc {{ font-size:16px; color:#4A4F66; margin-bottom:5px; }}
-  .row .sub {{ font-size:14px; color:#9AA0B5; margin-top:2px; }}
-  .row .stars {{ text-align:right; flex-shrink:0; padding-top:2px; }}
-  .row .wk {{ font-size:22px; font-weight:900; }}
-  .knives {{ display:flex; gap:20px; }}
-  .knife {{ flex:1; background:#fff; border-radius:16px; padding:24px 24px 20px; box-shadow:0 2px 10px rgba(26,27,38,.05); }}
-  .knife .tag {{ display:inline-block; font-size:14px; font-weight:700; color:#fff; padding:5px 16px; border-radius:20px; margin-bottom:14px; }}
-  .knife h3 {{ font-size:20px; font-weight:700; color:#1A1B26; margin-bottom:10px; }}
-  .knife p {{ font-size:15.5px; color:#4A4F66; line-height:1.55; }}
-  .watch {{ background:#fff; border-radius:14px; margin-bottom:16px; padding:18px 26px;
-           box-shadow:0 2px 8px rgba(26,27,38,.04); display:flex; align-items:center; gap:18px; }}
-  .watch .ico {{ width:34px; height:34px; border-radius:9px; color:#fff; display:flex; align-items:center; justify-content:center; font-size:18px; flex-shrink:0; }}
-  .watch .q {{ font-size:18px; font-weight:700; color:#1A1B26; width:250px; flex-shrink:0; }}
-  .watch .m {{ font-size:16px; color:#4A4F66; }}
-  .watch .m b {{ color:#E4572E; }}
-  .foot {{ background:#E7E9EF; padding:20px 0 22px; margin-top:36px; text-align:center; font-size:14px; color:#9AA0B5; }}
+  body {{ font-family:'Noto Sans CJK SC','Noto Sans SC',sans-serif; background:#EEF0F4; width:375px; }}
+  .wrap {{ padding:0 14px; }}
+  .head {{ padding:24px 14px 18px; }}
+  .head h1 {{ font-size:26px; font-weight:900; color:#1A1B26; letter-spacing:.5px; }}
+  .head .bar {{ width:52px; height:5px; background:#E4572E; border-radius:3px; margin:10px 0 11px; }}
+  .head .meta {{ font-size:13px; color:#3F4459; font-weight:600; }}
+  .stats {{ display:grid; grid-template-columns:1.3fr 1fr 1fr; gap:8px; margin:14px 0 2px; }}
+  .stat {{ background:#fff; border-radius:11px; padding:11px 10px 9px; box-shadow:0 2px 8px rgba(26,27,38,.05); }}
+  .stat .v {{ font-size:19px; font-weight:900; color:#1A1B26; line-height:1.15; font-variant-numeric:tabular-nums; white-space:nowrap; }}
+  .stat .v.hl {{ color:#E4572E; }}
+  .stat .v.down {{ color:#C0392B; }}
+  .stat .k {{ font-size:11px; color:#8A90A5; margin-top:4px; font-weight:500; }}
+  .sec {{ font-size:17px; font-weight:900; color:#1A1B26; margin:22px 0 11px; letter-spacing:.3px; }}
+  .sec .no {{ color:#E4572E; margin-right:6px; }}
+  .narr {{ background:#fff; border-radius:13px; margin-bottom:10px; overflow:hidden;
+          box-shadow:0 2px 8px rgba(26,27,38,.05); display:flex; }}
+  .narr .spine {{ width:5px; flex-shrink:0; }}
+  .narr .body {{ padding:13px 14px 12px; flex:1; }}
+  .narr .ttl {{ font-size:15px; font-weight:700; padding:6px 11px; border-radius:7px; margin-bottom:9px; display:inline-block; line-height:1.4; }}
+  .narr p {{ font-size:15px; color:#3F4459; line-height:1.8; }}
+  .row {{ background:#fff; border-radius:12px; margin-bottom:8px; padding:11px 13px 10px;
+         box-shadow:0 2px 6px rgba(26,27,38,.04); display:flex; align-items:flex-start; }}
+  .row .idx {{ font-size:15px; font-weight:900; color:#B8BECB; width:18px; flex-shrink:0; padding-top:1px; }}
+  .row .main {{ flex:1; min-width:0; }}
+  .row .l1 {{ display:flex; align-items:center; gap:7px; margin-bottom:4px; flex-wrap:wrap; }}
+  .row .name {{ font-size:15px; font-weight:700; color:#1A1B26; }}
+  .row .tag {{ font-size:10px; font-weight:700; color:#fff; padding:2px 7px; border-radius:11px; white-space:nowrap; }}
+  .row .sub {{ font-size:12px; color:#8A90A5; margin-top:5px; line-height:1.5; }}
+  .row .sub .st {{ font-weight:900; }}
+  .row .sub .sep {{ margin:0 5px; color:#C8CDD8; }}
+  .row .desc {{ font-size:14px; color:#3F4459; line-height:1.6; }}
+  .knives {{ display:flex; flex-direction:column; gap:10px; }}
+  .knife {{ background:#fff; border-radius:13px; padding:13px 14px 12px; box-shadow:0 2px 8px rgba(26,27,38,.05); }}
+  .knife .tag {{ display:inline-block; font-size:11px; font-weight:700; color:#fff; padding:3px 9px; border-radius:11px; margin-bottom:7px; }}
+  .knife h3 {{ font-size:15px; font-weight:700; color:#1A1B26; margin-bottom:5px; }}
+  .knife p {{ font-size:13px; color:#3F4459; line-height:1.7; }}
+  .knife p b {{ font-weight:900; }}
+  .watch {{ background:#fff; border-radius:12px; margin-bottom:8px; padding:11px 13px;
+           box-shadow:0 2px 6px rgba(26,27,38,.04); display:flex; align-items:flex-start; gap:9px; }}
+  .watch .ico {{ width:20px; height:20px; border-radius:6px; color:#fff; display:flex; align-items:center; justify-content:center; font-size:11px; flex-shrink:0; margin-top:2px; }}
+  .watch .wbody {{ flex:1; min-width:0; }}
+  .watch .q {{ font-size:15px; font-weight:700; color:#1A1B26; line-height:1.45; }}
+  .watch .m {{ font-size:13px; color:#3F4459; line-height:1.7; margin-top:4px; }}
+  .watch .m b {{ color:#E4572E; font-weight:900; }}
+  .foot {{ background:#E7E9EF; padding:12px 0 13px; margin-top:20px; text-align:center; font-size:11px; color:#8A90A5; }}
 </style></head><body>
 <div class="head">
-  <div class="left"><h1>GitHub Trending 周报</h1><div class="bar"></div>
-    <div class="meta">{week_start} ~ {week_end} ｜ {n_projects} 个项目 · 环比 {wow:+.1f}% · 换血率 {churn:.1f}%</div>
-    <div class="toc">本图结构 ｜ 一、核心叙事 · 二、本周 TOP10 · 三、趋势三刀 · 四、下周观测</div></div>
-  <div class="right"><div class="num">{total_stars:,}★</div><div class="lbl">本周总星</div></div>
+  <h1>GitHub Trending 周报</h1><div class="bar"></div>
+  <div class="meta">{week_start} ~ {week_end} ｜ {n_projects} 个项目</div>
+  <div class="stats">
+    <div class="stat"><div class="v hl">{total_stars:,}★</div><div class="k">本周总星</div></div>
+    <div class="stat"><div class="v {('down' if wow < 0 else '')}">{wow:+.1f}%</div><div class="k">环比上周</div></div>
+    <div class="stat"><div class="v">{churn:.1f}%</div><div class="k">换血率</div></div>
+  </div>
 </div>
 <div class="wrap">
-<div class="sec"><span class="no">一</span>核心叙事</div>
+<div class="sec"><span class="no">一</span>本周主线</div>
 {narr_html}
 <div class="sec"><span class="no">二</span>本周 TOP10（按周星排序）</div>
 {top10_html}
@@ -289,12 +233,14 @@ open(tmp_html, 'w').write(HTML)
 png = f'{REPO}/reports/weekly/weekly-{week_end}-digest.png'
 subprocess.run(['chromium', '--headless=new', '--no-sandbox', '--disable-gpu',
                 '--disable-dev-shm-usage', '--hide-scrollbars',
-                '--force-device-scale-factor=2', '--window-size=1080,3600',
+                '--force-device-scale-factor=6', '--window-size=375,4000',
                 f'--screenshot={png}.raw.png', tmp_html], check=True)
 im = Image.open(f'{png}.raw.png')
 a = np.asarray(im.convert('L'))
 content_end = np.where((a < 235).any(axis=1))[0].max()
-im.crop((0, 0, 2160, int(content_end) + 46)).save(png)
+im.crop((0, 0, 2250, int(content_end) + 90)).save(png)
 os.remove(f'{png}.raw.png')
-print(f'saved: {png} | 2160x{int(content_end)+46}px | total {total_stars:,}★ wow {wow:+.1f}% churn {churn:.1f}%')
-print('NOTE: NARRATIVES/KNIVES/WATCH 为上周内容，每周发文前需按周报正文更新')
+print(f'saved: {png} | 2250x{int(content_end)+90}px')
+print(f'手机可读性：正文 15px/375画布 → {15*343/375:.1f}px ({15*343/375/2:.1f}pt)')
+print(f'  对比 v1: {17*343/1080:.1f}px ({17*343/1080/2:.1f}pt) / v4: {17*343/720:.1f}px ({17*343/720/2:.1f}pt)')
+print(f'高度：CSS {int((content_end+90)/6)}px')

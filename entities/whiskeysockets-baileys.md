@@ -34,7 +34,7 @@ Socket-based TS/JavaScript API for WhatsApp Web
 
 ## 相关项目
 
-[[nutlope-hallmark]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[nightly-labs-openbot]] [[cloudflare-security-audit-skill]]
+[[dietrichgebert-ponytail]] [[obra-superpowers]] [[pbakaus-impeccable]] [[cloudflare-security-audit-skill]] [[alchaincyf-huashu-design]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

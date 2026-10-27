@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[nutlope-hallmark]] [[affaan-m-ecc]] [[nightly-labs-openbot]] [[averygan-reclip]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[hkuds-deeptutor]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

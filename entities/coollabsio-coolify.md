@@ -34,7 +34,7 @@ An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that 
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[swoole-typephp]] [[nvidia-openshell]] [[openbmb-voxcpm]] [[snailsploit-claude-red]]
+[[swoole-typephp]] [[openbmb-voxcpm]] [[obra-superpowers]] [[panniantong-agent-reach]] [[snailsploit-claude-red]]
 
 **所属领域**: [[cli]] [[data]] [[devops]] [[image-gen]]
 

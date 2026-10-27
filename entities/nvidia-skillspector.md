@@ -39,7 +39,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[snailsploit-claude-red]] [[panniantong-agent-reach]] [[affaan-m-ecc]] [[debpalash-voicestudio]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[cloudflare-security-audit-skill]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]]
 

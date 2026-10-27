@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[makecindy-cindy]] [[nightly-labs-openbot]]
+[[jetbrains-thinkrail]] [[obra-superpowers]] [[pbakaus-impeccable]] [[gitroomhq-postiz-app]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

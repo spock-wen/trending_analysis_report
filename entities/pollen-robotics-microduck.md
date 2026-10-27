@@ -36,5 +36,5 @@ A Tiny biped duck robot 🦆
 
 ## 相关项目
 
-[[akitaonrails-ai-memory]] [[nvidia-openshell]] [[pbakaus-impeccable]]
+[[nvidia-openshell]] [[pbakaus-impeccable]] [[akitaonrails-ai-memory]]
 

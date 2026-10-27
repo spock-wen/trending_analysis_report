@@ -38,7 +38,7 @@ Build your own network of agents from Claude Code, Codex and Pi: persistent team
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[makecindy-cindy]] [[nightly-labs-openbot]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]]
+[[jetbrains-thinkrail]] [[obra-superpowers]] [[pbakaus-impeccable]] [[gitroomhq-postiz-app]] [[makecindy-cindy]]
 
 **所属领域**: [[ai-agent]]
 

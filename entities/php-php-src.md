@@ -35,7 +35,7 @@ The PHP Interpreter
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[antirez-ds4]] [[epicgames-raddebugger]] [[agricidaniel-claude-seo]] [[colbymchenry-codegraph]]
+[[obra-superpowers]] [[colbymchenry-codegraph]] [[epicgames-raddebugger]] [[agricidaniel-claude-seo]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[erp]]
 

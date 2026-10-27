@@ -36,7 +36,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[nutlope-hallmark]] [[microsoft-bitnet]] [[nightly-labs-openbot]] [[agricidaniel-claude-seo]]
+[[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]] [[tensorflow-tensorflow]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]]
 
 **所属领域**: [[web]]
 

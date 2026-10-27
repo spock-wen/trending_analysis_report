@@ -34,5 +34,5 @@ b站会员购购票辅助工具
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[panniantong-agent-reach]] [[tauricresearch-tradingagents]] [[debpalash-voicestudio]]
+[[tauricresearch-tradingagents]] [[panniantong-agent-reach]] [[nvidia-skillspector]] [[hkuds-deeptutor]]
 

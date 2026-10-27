@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[openbmb-voxcpm]] [[diolinux-photogimp]] [[nutlope-hallmark]] [[affaan-m-ecc]]
+[[openbmb-voxcpm]] [[obra-superpowers]] [[pbakaus-impeccable]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

@@ -38,7 +38,7 @@ A specialized Claude Code workspace for creating long-form, SEO-optimized blog c
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[nvidia-skillspector]] [[php-php-src]] [[panniantong-agent-reach]] [[k-dense-ai-scientific-agent-skills]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[hkuds-deeptutor]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

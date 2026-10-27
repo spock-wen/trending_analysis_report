@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[openbmb-voxcpm]] [[hugohe3-ppt-master]] [[nvidia-skillspector]] [[mlabonne-llm-course]]
+[[openbmb-voxcpm]] [[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[fastapi-fastapi]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

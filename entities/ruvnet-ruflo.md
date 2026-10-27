@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[jetbrains-thinkrail]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[huggingface-transformers]]
+[[jetbrains-thinkrail]] [[huggingface-transformers]] [[obra-superpowers]] [[pbakaus-impeccable]] [[fastapi-fastapi]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

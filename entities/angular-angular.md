@@ -34,7 +34,7 @@ Deliver web apps with confidence 🚀
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[nutlope-hallmark]] [[makecindy-cindy]] [[nightly-labs-openbot]] [[agricidaniel-claude-seo]]
+[[jetbrains-thinkrail]] [[gitroomhq-postiz-app]] [[makecindy-cindy]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]]
 
 **所属领域**: [[web]]
 

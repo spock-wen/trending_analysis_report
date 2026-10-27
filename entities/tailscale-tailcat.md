@@ -35,7 +35,7 @@ like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[coollabsio-coolify]] [[alibaba-open-code-review]] [[strelov1-freehire]] [[snailsploit-claude-red]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[snailsploit-claude-red]] [[nutlope-hallmark]] [[strelov1-freehire]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

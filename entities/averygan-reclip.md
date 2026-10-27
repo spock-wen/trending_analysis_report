@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[nvidia-openshell]] [[cathrynlavery-diagram-design]] [[google-gemini-gemini-cli]] [[nutlope-hallmark]]
+[[obra-superpowers]] [[panniantong-agent-reach]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[hkuds-deeptutor]]
 
 **所属领域**: [[web]] [[cli]]
 

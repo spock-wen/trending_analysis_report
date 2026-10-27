@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[snailsploit-claude-red]] [[microsoft-ai-for-beginners]] [[nvidia-skillspector]] [[microsoft-generative-ai-for-beginners]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[snailsploit-claude-red]] [[lyogavin-airllm]] [[coollabsio-coolify]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

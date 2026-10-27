@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[plausible-analytics]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[teslamate-org-teslamate]] [[multica-ai-andrej-karpathy-skills]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[teslamate-org-teslamate]] [[affaan-m-ecc]] [[plausible-analytics]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[hugohe3-ppt-master]] [[jetbrains-thinkrail]] [[makecindy-cindy]] [[nightly-labs-openbot]]
+[[jetbrains-thinkrail]] [[openbmb-voxcpm]] [[obra-superpowers]] [[pbakaus-impeccable]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-27 | 总页面：844
+> 最后更新：2026-10-28 | 总页面：846
 
 ## Entities
 
@@ -21,7 +21,7 @@
 - [[actions-runner-images|runner-images]] — GitHub Actions runner images
 - [[activeloopai-hivemind|hivemind]] — One brain for all your agents
 - [[addyosmani-agent-skills|agent-skills]] — Production-grade engineering skills for AI coding agents.
-- [[affaan-m-ecc|ECC]] — The agent harness performance optimization system. Skills, i...
+- [[affaan-m-ecc|ECC]] — The agent harness performance optimization system. Skills, i... 🆕
 - [[affaan-m-everything-claude-code|everything-claude-code]] — The agent harness performance optimization system. Skills, i...
 - [[agalwood-motrix|Motrix]] — A full-featured download manager. 🆕
 - [[agavra-tuicr|tuicr]] — a code review TUI with vim keybindings 🆕
@@ -41,7 +41,7 @@
 - [[aipoch-open-science|open-science]] — Open Science by AIPOCH is an open-source, local-first, model...
 - [[aishwaryanr-awesome-generative-ai-guide|awesome-generative-ai-guide]] — A one stop repository for generative AI research updates, in...
 - [[akitaonrails-ai-memory|ai-memory]] — Solution for long term memory for agent coding CLIs and to f...
-- [[alchaincyf-huashu-design|huashu-design]] — Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑... 🆕
+- [[alchaincyf-huashu-design|huashu-design]] — Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑...
 - [[alchaincyf-zhangxuefeng-skill|zhangxuefeng-skill]] — 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 - [[alexsjones-llmfit|llmfit]] — Hundreds of models & providers. One command to find what run...
 - [[alexzhang13-rlm|rlm]] — General plug-and-play inference library for Recursive Langua...
@@ -239,6 +239,7 @@
 - [[ed1s0nz-cyberstrikeai|CyberStrikeAI]] — CyberStrikeAI is an AI-native security testing platform buil...
 - [[effect-ts-effect|effect]] — Build production-ready applications in TypeScript 🆕
 - [[elastic-elasticsearch|elasticsearch]] — Free and Open Source, Distributed, RESTful Search Engine
+- [[elayadesign-ai-design-skills|ai-design-skills]] — No description 🆕
 - [[elder-plinius-g0dm0d3|G0DM0D3]] — LIBERATED AI CHAT
 - [[elder-plinius-obliteratus|OBLITERATUS]] — OBLITERATE THE CHAINS THAT BIND YOU
 - [[elebumm-redditvideomakerbot|RedditVideoMakerBot]] — Create Reddit Videos with just✨ one command ✨ 🆕
@@ -386,7 +387,7 @@
 - [[jellyfin-jellyfin|jellyfin]] — The Free Software Media System - Server Backend & API
 - [[jenkinsci-jenkins|jenkins]] — Jenkins automation server
 - [[jetbrains-go-modern-guidelines|go-modern-guidelines]] — Help AI coding agents write modern Go 🔥
-- [[jetbrains-thinkrail|thinkrail]] — Vibe code with pi in a lightweight, real IDE that customises... 🆕
+- [[jetbrains-thinkrail|thinkrail]] — Vibe code with pi in a lightweight, real IDE that customises... 🔥
 - [[jihe520-mathmodelagent|MathModelAgent]] — 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Ag... 🔥
 - [[jiji262-douyin-downloader|douyin-downloader]] — A practical Douyin downloader for both single-item and profi...
 - [[jingyaogong-minimind|minimind]] — 🧠 Train a 64M-parameter LLM from scratch in just 2h! 🆕
@@ -555,7 +556,7 @@
 - [[nvlabs-sana|Sana]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
 - [[nvm-sh-nvm|nvm]] — Node Version Manager - POSIX-compliant bash script to manage...
 - [[oblien-openship|openship]] — Self-hosted deployment platform
-- [[obra-superpowers|superpowers]] — An agentic skills framework & software development methodolo... 🆕
+- [[obra-superpowers|superpowers]] — An agentic skills framework & software development methodolo...
 - [[ocornut-imgui|imgui]] — Dear ImGui: Bloat-free Graphical User interface for C++ with...
 - [[odoo-odoo|odoo]] — Odoo. Open Source Apps To Grow Your Business.
 - [[ogulcancelik-herdr|herdr]] — agent multiplexer that lives in your terminal. 🔥
@@ -747,6 +748,7 @@
 - [[tnt-likely-panwatch|PanWatch]] — 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A...
 - [[tobi-qmd|qmd]] — mini cli search engine for your docs, knowledge bases, meeti... 🆕
 - [[togatoga-karukan|karukan]] — Japanese Input Method System for Linux, macOS, Neural Kana-K...
+- [[togg53192-cmd-jailbreaks|jailbreaks]] — LIST OF ALL MY JAILBREAKS 🆕
 - [[tokio-rs-topcoat|topcoat]] — A batteries-included framework for building web apps
 - [[ton-blockchain-acton|acton]] — Toolchain for TON smart contract development and beyond
 - [[tonhowtf-omniget|omniget]] — Download Udemy and Hotmart courses, YouTube videos, music an...

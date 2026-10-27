@@ -36,7 +36,7 @@ OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[openbmb-voxcpm]] [[nvidia-openshell]] [[nvidia-skillspector]] [[google-gemini-gemini-cli]]
+[[openbmb-voxcpm]] [[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[nvidia-openshell]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[image-gen]]
 

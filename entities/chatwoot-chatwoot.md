@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[docusealco-docuseal]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[multica-ai-andrej-karpathy-skills]] [[pbakaus-impeccable]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[docusealco-docuseal]] [[affaan-m-ecc]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]]
 

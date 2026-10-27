@@ -34,5 +34,5 @@ Automate the process of making money online.
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[panniantong-agent-reach]] [[tauricresearch-tradingagents]] [[debpalash-voicestudio]]
+[[tauricresearch-tradingagents]] [[panniantong-agent-reach]] [[nvidia-skillspector]] [[hkuds-deeptutor]]
 

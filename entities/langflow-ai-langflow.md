@@ -34,7 +34,7 @@ Langflow is a powerful tool for building and deploying AI-powered agents and wor
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[ruvnet-ruflo]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[debpalash-voicestudio]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[hkuds-deeptutor]] [[coollabsio-coolify]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

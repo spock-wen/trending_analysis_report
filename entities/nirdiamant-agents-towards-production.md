@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[hugohe3-ppt-master]] [[microsoft-ai-for-beginners]] [[fastapi-fastapi]] [[huggingface-transformers]]
+[[xtool-org-xtool]] [[obra-superpowers]] [[pbakaus-impeccable]] [[fastapi-fastapi]] [[mlabonne-llm-course]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

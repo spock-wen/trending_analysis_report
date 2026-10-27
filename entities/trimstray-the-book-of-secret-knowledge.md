@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]] [[nutlope-hallmark]] [[panniantong-agent-reach]]
+[[obra-superpowers]] [[panniantong-agent-reach]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]] [[coollabsio-coolify]]
 
 **所属领域**: [[web]] [[cli]]
 

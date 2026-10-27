@@ -34,7 +34,7 @@ Model router for agentic systems. Routes every prompt to the right model in <50m
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[strelov1-freehire]] [[juliusbrussee-caveman]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[nutlope-hallmark]] [[strelov1-freehire]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]]
 

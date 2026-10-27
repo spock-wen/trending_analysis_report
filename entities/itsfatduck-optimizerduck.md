@@ -34,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[nvidia-skillspector]] [[dotnet-aspnetcore]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]]
+[[dotnet-aspnetcore]] [[cloudflare-security-audit-skill]] [[sonarr-sonarr]] [[snailsploit-claude-red]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

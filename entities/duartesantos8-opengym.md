@@ -36,7 +36,7 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]]
+[[dietrichgebert-ponytail]] [[obra-superpowers]] [[pbakaus-impeccable]] [[cloudflare-security-audit-skill]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

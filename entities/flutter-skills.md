@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[localsend-localsend]] [[flutter-flutter]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[multica-ai-andrej-karpathy-skills]]
+[[flutter-flutter]] [[obra-superpowers]] [[pbakaus-impeccable]] [[localsend-localsend]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

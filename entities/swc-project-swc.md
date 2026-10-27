@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[nvidia-openshell]] [[pollen-robotics-microduck]] [[nutlope-hallmark]] [[nightly-labs-openbot]] [[agricidaniel-claude-seo]]
+[[pbakaus-impeccable]] [[akitaonrails-ai-memory]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]] [[nightly-labs-openbot]]
 
 **所属领域**: [[web]]
 

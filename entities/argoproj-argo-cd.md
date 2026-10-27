@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[coollabsio-coolify]] [[alibaba-open-code-review]] [[ruvnet-ruflo]] [[strelov1-freehire]]
+[[strelov1-freehire]] [[coollabsio-coolify]] [[ruvnet-ruflo]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]]
 
 **所属领域**: [[devops]]
 

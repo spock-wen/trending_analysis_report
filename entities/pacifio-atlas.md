@@ -35,7 +35,7 @@ Source control for agents. Use multiple coding agents, track their changes and q
 
 ## 相关项目
 
-[[nvidia-openshell]] [[pollen-robotics-microduck]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[akitaonrails-ai-memory]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[akitaonrails-ai-memory]] [[affaan-m-ecc]] [[pollen-robotics-microduck]]
 
 **所属领域**: [[ai-agent]]
 

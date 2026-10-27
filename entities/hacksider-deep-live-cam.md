@@ -34,7 +34,7 @@ real time face swap and one-click video deepfake with only a single image
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[openbmb-voxcpm]] [[nvidia-openshell]] [[nvidia-skillspector]] [[google-gemini-gemini-cli]]
+[[openbmb-voxcpm]] [[obra-superpowers]] [[nvidia-openshell]] [[panniantong-agent-reach]] [[hkuds-deeptutor]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

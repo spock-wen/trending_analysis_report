@@ -34,7 +34,7 @@ qBittorrent BitTorrent client
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[nvidia-openshell]] [[tensorflow-tensorflow]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]]
+[[m-abozaid-esp32-c3-adblock]] [[obra-superpowers]] [[boykopovar-anyps5]] [[tensorflow-tensorflow]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]]
 

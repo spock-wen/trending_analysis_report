@@ -38,7 +38,7 @@ Lightning-Fast, On-Device, Multilingual TTS running natively via ONNX.
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[hugohe3-ppt-master]] [[alishahryar1-free-claude-code]] [[debpalash-voicestudio]] [[abue-ammar-tinycast]]
+[[openbmb-voxcpm]] [[alishahryar1-free-claude-code]] [[abue-ammar-tinycast]] [[debpalash-voicestudio]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[audio]]
 

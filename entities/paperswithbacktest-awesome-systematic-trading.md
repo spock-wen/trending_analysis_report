@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[nvidia-skillspector]] [[mlabonne-llm-course]] [[panniantong-agent-reach]] [[fastapi-fastapi]]
+[[huggingface-transformers]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[panniantong-agent-reach]] [[hkuds-deeptutor]]
 
 **所属领域**: [[education]] [[science]]
 

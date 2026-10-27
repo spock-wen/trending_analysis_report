@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[ruvnet-ruflo]] [[nvidia-openshell]] [[nvidia-skillspector]] [[google-gemini-gemini-cli]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[nvidia-openshell]] [[hkuds-deeptutor]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

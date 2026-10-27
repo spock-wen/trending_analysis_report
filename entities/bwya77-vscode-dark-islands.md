@@ -34,7 +34,7 @@ VSCode theme based off the easemate IDE and Jetbrains islands theme
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]] [[actions-runner-images]]
+[[obra-superpowers]] [[zhaoxuya520-reverse-skill]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[coollabsio-coolify]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

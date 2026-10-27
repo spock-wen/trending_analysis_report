@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[ruvnet-ruflo]] [[nvidia-skillspector]] [[nutlope-hallmark]] [[panniantong-agent-reach]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

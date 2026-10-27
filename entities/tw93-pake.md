@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[nvidia-openshell]] [[pollen-robotics-microduck]] [[google-gemini-gemini-cli]] [[nutlope-hallmark]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[akitaonrails-ai-memory]] [[alchaincyf-huashu-design]]
 
 **所属领域**: [[web]] [[cli]]
 

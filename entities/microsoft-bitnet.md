@@ -36,7 +36,7 @@ Official inference framework for 1-bit LLMs
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[boykopovar-anyps5]] [[multica-ai-andrej-karpathy-skills]]
+[[m-abozaid-esp32-c3-adblock]] [[obra-superpowers]] [[boykopovar-anyps5]] [[tensorflow-tensorflow]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

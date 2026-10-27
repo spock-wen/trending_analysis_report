@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[cathrynlavery-diagram-design]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[nutlope-hallmark]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[snailsploit-claude-red]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

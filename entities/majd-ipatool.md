@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[coollabsio-coolify]] [[alibaba-open-code-review]] [[nvidia-openshell]] [[strelov1-freehire]]
+[[obra-superpowers]] [[panniantong-agent-reach]] [[strelov1-freehire]] [[coollabsio-coolify]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[cli]]
 

@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[debpalash-voicestudio]]
+[[panniantong-agent-reach]] [[snailsploit-claude-red]] [[hkuds-deeptutor]] [[coollabsio-coolify]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[data]]
 

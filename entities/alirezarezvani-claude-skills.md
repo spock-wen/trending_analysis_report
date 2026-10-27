@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[nvidia-openshell]] [[hugohe3-ppt-master]] [[nvidia-skillspector]] [[google-gemini-gemini-cli]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[nvidia-openshell]] [[hkuds-deeptutor]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

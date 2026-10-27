@@ -38,7 +38,7 @@ Claude Agent SDK with a web browsing tool
 
 ## 相关项目
 
-[[nutlope-hallmark]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[nightly-labs-openbot]] [[cloudflare-security-audit-skill]]
+[[dietrichgebert-ponytail]] [[obra-superpowers]] [[pbakaus-impeccable]] [[cloudflare-security-audit-skill]] [[alchaincyf-huashu-design]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

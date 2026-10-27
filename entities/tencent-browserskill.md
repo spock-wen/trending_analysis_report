@@ -35,7 +35,7 @@ Let AI agents use your real, logged-in browser without interrupting your work. C
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[nvidia-openshell]] [[jetbrains-thinkrail]] [[google-gemini-gemini-cli]] [[nutlope-hallmark]]
+[[jetbrains-thinkrail]] [[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[gitroomhq-postiz-app]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

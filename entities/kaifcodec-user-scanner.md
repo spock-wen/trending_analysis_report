@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[k-dense-ai-scientific-agent-skills]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[cloudflare-security-audit-skill]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

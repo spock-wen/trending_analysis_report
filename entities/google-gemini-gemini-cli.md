@@ -34,7 +34,7 @@ An open-source AI agent that brings the power of Gemini directly into your termi
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[nvidia-openshell]] [[jetbrains-thinkrail]] [[panniantong-agent-reach]] [[makecindy-cindy]]
+[[jetbrains-thinkrail]] [[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[gitroomhq-postiz-app]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

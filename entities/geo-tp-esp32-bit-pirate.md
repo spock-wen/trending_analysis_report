@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[nvidia-openshell]] [[tensorflow-tensorflow]] [[google-gemini-gemini-cli]] [[nutlope-hallmark]]
+[[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]] [[obra-superpowers]] [[tensorflow-tensorflow]] [[panniantong-agent-reach]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[nutlope-hallmark]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[nightly-labs-openbot]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[hkuds-deeptutor]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

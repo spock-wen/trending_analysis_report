@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[ruvnet-ruflo]] [[jetbrains-thinkrail]] [[snailsploit-claude-red]] [[nvidia-skillspector]]
+[[jetbrains-thinkrail]] [[gitroomhq-postiz-app]] [[makecindy-cindy]] [[snailsploit-claude-red]] [[coollabsio-coolify]]
 
 **所属领域**: [[data]] [[devops]]
 

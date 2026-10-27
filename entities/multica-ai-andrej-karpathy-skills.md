@@ -38,7 +38,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[affaan-m-ecc]] [[pbakaus-impeccable]]
+[[pbakaus-impeccable]] [[nutlope-hallmark]] [[obra-superpowers]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

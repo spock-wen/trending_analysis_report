@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[nutlope-hallmark]] [[nightly-labs-openbot]] [[agricidaniel-claude-seo]] [[ripienaar-free-for-dev]]
+[[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[hkuds-deeptutor]] [[nightly-labs-openbot]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]]
 

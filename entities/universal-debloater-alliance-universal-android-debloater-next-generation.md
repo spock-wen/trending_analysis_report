@@ -36,7 +36,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[openbmb-voxcpm]] [[nvidia-openshell]] [[snailsploit-claude-red]] [[pollen-robotics-microduck]]
+[[openbmb-voxcpm]] [[pbakaus-impeccable]] [[akitaonrails-ai-memory]] [[cloudflare-security-audit-skill]] [[snailsploit-claude-red]]
 
 **所属领域**: [[security]] [[image-gen]]
 

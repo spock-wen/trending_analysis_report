@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]]
+[[obra-superpowers]] [[mattpocock-skills]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

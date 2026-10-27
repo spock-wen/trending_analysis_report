@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]] [[abue-ammar-tinycast]]
+[[obra-superpowers]] [[nvidia-openshell]] [[panniantong-agent-reach]] [[abue-ammar-tinycast]] [[coollabsio-coolify]]
 
 **所属领域**: [[cli]]
 

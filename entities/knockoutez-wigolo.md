@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[nutlope-hallmark]] [[k-dense-ai-scientific-agent-skills]] [[makecindy-cindy]] [[nightly-labs-openbot]]
+[[jetbrains-thinkrail]] [[obra-superpowers]] [[pbakaus-impeccable]] [[gitroomhq-postiz-app]] [[makecindy-cindy]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

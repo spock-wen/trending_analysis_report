@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[google-guava]] [[nvidia-openshell]] [[snailsploit-claude-red]] [[checkstyle-checkstyle]]
+[[checkstyle-checkstyle]] [[obra-superpowers]] [[nationalsecurityagency-ghidra]] [[pbakaus-impeccable]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

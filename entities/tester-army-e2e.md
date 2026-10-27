@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[openbmb-voxcpm]] [[jetbrains-thinkrail]] [[nutlope-hallmark]] [[makecindy-cindy]]
+[[jetbrains-thinkrail]] [[openbmb-voxcpm]] [[gitroomhq-postiz-app]] [[makecindy-cindy]] [[alchaincyf-huashu-design]]
 
 **所属领域**: [[web]] [[image-gen]]
 

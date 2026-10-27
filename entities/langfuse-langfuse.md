@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[ruvnet-ruflo]] [[jetbrains-thinkrail]] [[snailsploit-claude-red]] [[nvidia-skillspector]]
+[[jetbrains-thinkrail]] [[obra-superpowers]] [[pbakaus-impeccable]] [[gitroomhq-postiz-app]] [[makecindy-cindy]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

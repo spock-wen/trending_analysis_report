@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[nvidia-openshell]] [[snailsploit-claude-red]] [[google-gemini-gemini-cli]] [[nvidia-skillspector]]
+[[nvidia-skillspector]] [[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

@@ -35,7 +35,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[localsend-localsend]] [[coollabsio-coolify]] [[flutter-flutter]] [[nvidia-openshell]] [[google-gemini-gemini-cli]]
+[[flutter-flutter]] [[obra-superpowers]] [[panniantong-agent-reach]] [[localsend-localsend]] [[coollabsio-coolify]]
 
 **所属领域**: [[cli]]
 

@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[dotnet-aspnetcore]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[ntdevlabs-tiny11builder]] [[k1tbyte-wand-enhancer]]
+[[dotnet-aspnetcore]] [[obra-superpowers]] [[pbakaus-impeccable]] [[sonarr-sonarr]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

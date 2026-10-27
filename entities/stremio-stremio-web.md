@@ -35,7 +35,7 @@ Stremio - Freedom to Stream
 
 ## 相关项目
 
-[[nutlope-hallmark]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]] [[nightly-labs-openbot]] [[cloudflare-security-audit-skill]]
+[[dietrichgebert-ponytail]] [[cloudflare-security-audit-skill]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]] [[affaan-m-ecc]]
 
 **所属领域**: [[web]]
 

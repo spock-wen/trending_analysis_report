@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[ruvnet-ruflo]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[nutlope-hallmark]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[snailsploit-claude-red]] [[alchaincyf-huashu-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

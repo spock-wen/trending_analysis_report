@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[ruvnet-ruflo]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[mlabonne-llm-course]]
+[[dietrichgebert-ponytail]] [[huggingface-transformers]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[data]] [[education]]
 

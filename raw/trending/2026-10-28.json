@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-28",
+  "scraped_at": "2026-10-28T07:00:41.785817",
+  "period": "daily",
+  "count": 11,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "elayadesign/ai-design-skills",
+      "description": "",
+      "language": "",
+      "stars_today": 1395,
+      "total_stars": 9224,
+      "url": "https://github.com/elayadesign/ai-design-skills"
+    },
+    {
+      "rank": 2,
+      "repo": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars_today": 2859,
+      "total_stars": 38902,
+      "url": "https://github.com/Nutlope/hallmark"
+    },
+    {
+      "rank": 3,
+      "repo": "nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "language": "TypeScript",
+      "stars_today": 794,
+      "total_stars": 2365,
+      "url": "https://github.com/nightly-labs/openbot"
+    },
+    {
+      "rank": 4,
+      "repo": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": 608,
+      "total_stars": 306385,
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "rank": 5,
+      "repo": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "stars_today": 1458,
+      "total_stars": 90439,
+      "url": "https://github.com/pbakaus/impeccable"
+    },
+    {
+      "rank": 6,
+      "repo": "makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars_today": 1446,
+      "total_stars": 7431,
+      "url": "https://github.com/makecindy/cindy"
+    },
+    {
+      "rank": 7,
+      "repo": "gitroomhq/postiz-app",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "language": "TypeScript",
+      "stars_today": 953,
+      "total_stars": 39308,
+      "url": "https://github.com/gitroomhq/postiz-app"
+    },
+    {
+      "rank": 8,
+      "repo": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": 1183,
+      "total_stars": 290837,
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "rank": 9,
+      "repo": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "stars_today": 1587,
+      "total_stars": 45765,
+      "url": "https://github.com/HKUDS/DeepTutor"
+    },
+    {
+      "rank": 10,
+      "repo": "JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars_today": 1211,
+      "total_stars": 3928,
+      "url": "https://github.com/JetBrains/thinkrail"
+    },
+    {
+      "rank": 11,
+      "repo": "togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "language": "",
+      "stars_today": 890,
+      "total_stars": 5444,
+      "url": "https://github.com/togg53192-cmd/jailbreaks"
+    }
+  ]
+}

@@ -37,7 +37,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[coollabsio-coolify]] [[alibaba-open-code-review]] [[strelov1-freehire]] [[snailsploit-claude-red]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[snailsploit-claude-red]] [[nutlope-hallmark]] [[strelov1-freehire]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

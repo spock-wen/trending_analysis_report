@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[nutlope-hallmark]] [[nightly-labs-openbot]]
+[[cloudflare-security-audit-skill]] [[snailsploit-claude-red]] [[alchaincyf-huashu-design]] [[teslamate-org-teslamate]] [[hkuds-deeptutor]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

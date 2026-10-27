@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[makecindy-cindy]] [[nightly-labs-openbot]]
+[[jetbrains-thinkrail]] [[gitroomhq-postiz-app]] [[cloudflare-security-audit-skill]] [[makecindy-cindy]] [[snailsploit-claude-red]]
 
 **所属领域**: [[security]]
 

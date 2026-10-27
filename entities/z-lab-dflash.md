@@ -36,7 +36,7 @@ DFlash: Block Diffusion for Flash Speculative Decoding
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[openbmb-voxcpm]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[debpalash-voicestudio]]
+[[openbmb-voxcpm]] [[panniantong-agent-reach]] [[hkuds-deeptutor]] [[comfy-org-comfyui]] [[coollabsio-coolify]]
 
 **所属领域**: [[image-gen]]
 

@@ -36,7 +36,7 @@ Generate code from the terminal!
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[nvidia-openshell]] [[jetbrains-thinkrail]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]]
+[[jetbrains-thinkrail]] [[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[gitroomhq-postiz-app]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

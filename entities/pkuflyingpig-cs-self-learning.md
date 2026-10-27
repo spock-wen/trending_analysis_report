@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[cathrynlavery-diagram-design]] [[nutlope-hallmark]] [[fastapi-fastapi]] [[mlabonne-llm-course]]
+[[huggingface-transformers]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[web]] [[education]]
 

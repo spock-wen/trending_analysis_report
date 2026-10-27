@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[openbmb-voxcpm]] [[nvidia-openshell]] [[snailsploit-claude-red]] [[pollen-robotics-microduck]]
+[[openbmb-voxcpm]] [[obra-superpowers]] [[pbakaus-impeccable]] [[akitaonrails-ai-memory]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

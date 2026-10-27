@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[microsoft-ai-for-beginners]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[huggingface-transformers]]
+[[huggingface-transformers]] [[obra-superpowers]] [[pbakaus-impeccable]] [[fastapi-fastapi]] [[mlabonne-llm-course]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

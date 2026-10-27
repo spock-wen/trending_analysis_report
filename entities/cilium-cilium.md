@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[coollabsio-coolify]] [[alibaba-open-code-review]] [[ruvnet-ruflo]] [[strelov1-freehire]]
+[[cloudflare-security-audit-skill]] [[snailsploit-claude-red]] [[strelov1-freehire]] [[coollabsio-coolify]] [[ruvnet-ruflo]]
 
 **所属领域**: [[devops]] [[security]]
 

@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[ruvnet-ruflo]] [[nvidia-openshell]] [[pollen-robotics-microduck]] [[xtool-org-xtool]]
+[[pbakaus-impeccable]] [[akitaonrails-ai-memory]] [[coollabsio-coolify]] [[ruvnet-ruflo]] [[getsentry-sentry]]
 
 **所属领域**: [[devops]]
 

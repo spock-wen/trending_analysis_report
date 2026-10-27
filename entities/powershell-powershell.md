@@ -34,7 +34,7 @@ PowerShell for every system!
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]] [[dotnet-aspnetcore]]
+[[dotnet-aspnetcore]] [[obra-superpowers]] [[panniantong-agent-reach]] [[sonarr-sonarr]] [[coollabsio-coolify]]
 
 **所属领域**: [[cli]]
 

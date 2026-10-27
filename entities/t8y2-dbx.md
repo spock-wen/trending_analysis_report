@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[nvidia-openshell]] [[snailsploit-claude-red]] [[pollen-robotics-microduck]] [[google-gemini-gemini-cli]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[akitaonrails-ai-memory]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

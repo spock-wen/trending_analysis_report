@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[jetbrains-thinkrail]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[huggingface-transformers]]
+[[jetbrains-thinkrail]] [[huggingface-transformers]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[gitroomhq-postiz-app]]
 
 **所属领域**: [[education]]
 

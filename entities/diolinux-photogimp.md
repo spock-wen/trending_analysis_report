@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[nutlope-hallmark]] [[php-php-src]] [[nightly-labs-openbot]] [[conardli-garden-skills]]
+[[obra-superpowers]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]] [[conardli-garden-skills]] [[nightly-labs-openbot]]
 
 **所属领域**: [[web]] [[erp]]
 

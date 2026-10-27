@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[openbmb-voxcpm]] [[cathrynlavery-diagram-design]] [[nutlope-hallmark]] [[nightly-labs-openbot]]
+[[openbmb-voxcpm]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[hkuds-deeptutor]] [[comfy-org-comfyui]]
 
 **所属领域**: [[web]] [[image-gen]]
 

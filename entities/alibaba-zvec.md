@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[snailsploit-claude-red]] [[tensorflow-tensorflow]] [[nvidia-skillspector]] [[microsoft-bitnet]]
+[[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]] [[tensorflow-tensorflow]] [[snailsploit-claude-red]] [[coollabsio-coolify]]
 
 **所属领域**: [[data]]
 

@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[strelov1-freehire]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[nutlope-hallmark]] [[strelov1-freehire]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ Developer-first error tracking and performance monitoring
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[ruvnet-ruflo]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[debpalash-voicestudio]]
+[[panniantong-agent-reach]] [[hkuds-deeptutor]] [[coollabsio-coolify]] [[ruvnet-ruflo]] [[xtool-org-xtool]]
 
 **所属领域**: [[devops]]
 

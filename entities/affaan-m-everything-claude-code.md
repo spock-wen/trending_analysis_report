@@ -34,7 +34,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[nvidia-skillspector]] [[k-dense-ai-scientific-agent-skills]] [[dietrichgebert-ponytail]] [[affaan-m-ecc]]
+[[dietrichgebert-ponytail]] [[obra-superpowers]] [[pbakaus-impeccable]] [[cloudflare-security-audit-skill]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

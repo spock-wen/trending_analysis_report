@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[mlabonne-llm-course]] [[panniantong-agent-reach]]
+[[huggingface-transformers]] [[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[fastapi-fastapi]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

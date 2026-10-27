@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[openbmb-voxcpm]] [[nvidia-skillspector]] [[nutlope-hallmark]] [[panniantong-agent-reach]]
+[[openbmb-voxcpm]] [[panniantong-agent-reach]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]] [[comfy-org-comfyui]]
 
 **所属领域**: [[web]] [[image-gen]]
 

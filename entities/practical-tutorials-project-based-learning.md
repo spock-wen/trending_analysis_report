@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[nvidia-skillspector]] [[mlabonne-llm-course]] [[panniantong-agent-reach]] [[fastapi-fastapi]]
+[[huggingface-transformers]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[panniantong-agent-reach]] [[hkuds-deeptutor]]
 
 **所属领域**: [[education]]
 

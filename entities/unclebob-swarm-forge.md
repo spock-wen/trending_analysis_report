@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[penpot-penpot]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[multica-ai-andrej-karpathy-skills]] [[pbakaus-impeccable]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[affaan-m-ecc]] [[nutlope-hallmark]] [[penpot-penpot]]
 
 **所属领域**: [[ai-agent]]
 

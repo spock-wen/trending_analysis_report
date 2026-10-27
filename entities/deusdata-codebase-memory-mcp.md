@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[antirez-ds4]] [[php-php-src]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[snailsploit-claude-red]] [[colbymchenry-codegraph]] [[epicgames-raddebugger]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -38,7 +38,7 @@ VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice clo
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[hugohe3-ppt-master]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[alishahryar1-free-claude-code]]
+[[openbmb-voxcpm]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[hkuds-deeptutor]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[audio]]
 

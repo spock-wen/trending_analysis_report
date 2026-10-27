@@ -38,7 +38,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[google-guava]] [[snailsploit-claude-red]] [[checkstyle-checkstyle]] [[nvidia-skillspector]]
+[[checkstyle-checkstyle]] [[obra-superpowers]] [[nationalsecurityagency-ghidra]] [[pbakaus-impeccable]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

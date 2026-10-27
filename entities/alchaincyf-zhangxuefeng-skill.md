@@ -35,7 +35,7 @@ language: ""
 
 ## 相关项目
 
-[[multica-ai-andrej-karpathy-skills]] [[affaan-m-ecc]] [[pbakaus-impeccable]] [[tauricresearch-tradingagents]]
+[[pbakaus-impeccable]] [[nutlope-hallmark]] [[obra-superpowers]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

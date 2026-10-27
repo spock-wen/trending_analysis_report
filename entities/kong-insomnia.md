@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[nvidia-openshell]] [[jetbrains-thinkrail]] [[google-gemini-gemini-cli]] [[nutlope-hallmark]]
+[[jetbrains-thinkrail]] [[obra-superpowers]] [[panniantong-agent-reach]] [[gitroomhq-postiz-app]] [[makecindy-cindy]]
 
 **所属领域**: [[web]] [[cli]]
 

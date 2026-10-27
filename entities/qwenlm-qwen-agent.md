@@ -35,7 +35,7 @@ Agent framework and applications built upon Qwen>=3.0, featuring Function Callin
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[nvidia-skillspector]] [[nutlope-hallmark]] [[panniantong-agent-reach]] [[php-php-src]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]]
 
 **所属领域**: [[ai-agent]] [[web]] [[erp]]
 

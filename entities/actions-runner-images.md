@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[openbmb-voxcpm]] [[nvidia-openshell]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]]
+[[openbmb-voxcpm]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]] [[panniantong-agent-reach]] [[comfy-org-comfyui]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

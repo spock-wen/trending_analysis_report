@@ -38,7 +38,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[openbmb-voxcpm]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[debpalash-voicestudio]]
+[[openbmb-voxcpm]] [[panniantong-agent-reach]] [[hkuds-deeptutor]] [[coollabsio-coolify]] [[ntdevlabs-tiny11builder]]
 
 **所属领域**: [[image-gen]]
 

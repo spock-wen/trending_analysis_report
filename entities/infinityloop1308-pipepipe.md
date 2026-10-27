@@ -34,7 +34,7 @@ An open-source Android app to let you browse YouTube and other services freely.
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[coollabsio-coolify]] [[nvidia-openshell]] [[google-gemini-gemini-cli]] [[panniantong-agent-reach]]
+[[obra-superpowers]] [[mattpocock-skills]] [[panniantong-agent-reach]] [[nvm-sh-nvm]] [[coollabsio-coolify]]
 
 **所属领域**: [[cli]]
 

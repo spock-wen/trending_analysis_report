@@ -34,7 +34,7 @@ LLM inference in C/C++
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[microsoft-bitnet]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[boykopovar-anyps5]]
+[[m-abozaid-esp32-c3-adblock]] [[obra-superpowers]] [[boykopovar-anyps5]] [[tensorflow-tensorflow]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

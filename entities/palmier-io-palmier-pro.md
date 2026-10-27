@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[abue-ammar-tinycast]] [[lakr233-vphone-cli]] [[tauricresearch-tradingagents]] [[xtool-org-xtool]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[abue-ammar-tinycast]] [[affaan-m-ecc]] [[xtool-org-xtool]]
 
 **所属领域**: [[ai-agent]]
 

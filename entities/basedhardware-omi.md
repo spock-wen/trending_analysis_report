@@ -34,7 +34,7 @@ AI that sees your screen, listens to your conversations and tells you what to do
 
 ## 相关项目
 
-[[localsend-localsend]] [[flutter-flutter]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[multica-ai-andrej-karpathy-skills]]
+[[flutter-flutter]] [[obra-superpowers]] [[pbakaus-impeccable]] [[localsend-localsend]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

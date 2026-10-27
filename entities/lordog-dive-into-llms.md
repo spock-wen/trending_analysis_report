@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[microsoft-ai-for-beginners]] [[microsoft-generative-ai-for-beginners]] [[affaan-m-ecc]] [[lyogavin-airllm]] [[tauricresearch-tradingagents]]
+[[obra-superpowers]] [[pbakaus-impeccable]] [[lyogavin-airllm]] [[microsoft-generative-ai-for-beginners]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

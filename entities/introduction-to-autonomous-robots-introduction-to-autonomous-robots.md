@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[cs341-illinois-coursebook]] [[affaan-m-ecc]] [[nutlope-hallmark]]
+[[obra-superpowers]] [[macro-inc-macro]] [[pbakaus-impeccable]] [[cs341-illinois-coursebook]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]]
 

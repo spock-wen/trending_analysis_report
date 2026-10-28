@@ -38,7 +38,7 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[coollabsio-coolify]] [[affaan-m-ecc]]
+[[ruvnet-ruview]] [[obra-superpowers]] [[macro-inc-macro]] [[coollabsio-coolify]] [[pollen-robotics-microduck]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

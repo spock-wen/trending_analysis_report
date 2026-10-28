@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]] [[obra-superpowers]] [[tensorflow-tensorflow]] [[panniantong-agent-reach]]
+[[alchaincyf-huashu-design]] [[obra-superpowers]] [[boykopovar-anyps5]] [[microsoft-bitnet]] [[coollabsio-coolify]]
 
 **所属领域**: [[web]] [[cli]]
 

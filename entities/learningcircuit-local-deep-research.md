@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[huggingface-transformers]] [[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[fastapi-fastapi]]
+[[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[macro-inc-macro]] [[affaan-m-ecc]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

@@ -35,7 +35,7 @@ OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换�
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[akitaonrails-ai-memory]] [[coollabsio-coolify]]
+[[ruvnet-ruview]] [[obra-superpowers]] [[macro-inc-macro]] [[coollabsio-coolify]] [[pollen-robotics-microduck]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -38,7 +38,7 @@ Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[nvidia-openshell]] [[snailsploit-claude-red]]
+[[agricidaniel-claude-seo]] [[obra-superpowers]] [[macro-inc-macro]] [[snailsploit-claude-red]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

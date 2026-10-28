@@ -38,7 +38,7 @@ Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[obra-superpowers]] [[gitroomhq-postiz-app]] [[makecindy-cindy]] [[alchaincyf-huashu-design]]
+[[gitroomhq-postiz-app]] [[alchaincyf-huashu-design]] [[obra-superpowers]] [[agricidaniel-claude-seo]] [[makecindy-cindy]]
 
 **所属领域**: [[web]] [[erp]]
 

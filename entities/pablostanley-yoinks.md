@@ -35,7 +35,7 @@ yoink any video from your terminal. no shady ads.
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[obra-superpowers]] [[panniantong-agent-reach]] [[gitroomhq-postiz-app]] [[makecindy-cindy]]
+[[gitroomhq-postiz-app]] [[obra-superpowers]] [[makecindy-cindy]] [[coollabsio-coolify]] [[expo-skills]]
 
 **所属领域**: [[cli]]
 

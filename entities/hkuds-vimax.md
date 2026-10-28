@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[hkuds-deeptutor]]
+[[obra-superpowers]] [[macro-inc-macro]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]] [[coollabsio-coolify]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

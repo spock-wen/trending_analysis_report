@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[mahlernim-google-timeline-visualizer]] [[obra-superpowers]] [[pbakaus-impeccable]] [[bannedbook-fanqiang]] [[embabel-embabel-agent]]
+[[bannedbook-fanqiang]] [[obra-superpowers]] [[macro-inc-macro]] [[pbakaus-impeccable]] [[embabel-embabel-agent]]
 
 **所属领域**: [[ai-agent]]
 

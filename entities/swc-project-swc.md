@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[akitaonrails-ai-memory]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]] [[nightly-labs-openbot]]
+[[ruvnet-ruview]] [[alchaincyf-huashu-design]] [[macro-inc-macro]] [[pollen-robotics-microduck]] [[pbakaus-impeccable]]
 
 **所属领域**: [[web]]
 

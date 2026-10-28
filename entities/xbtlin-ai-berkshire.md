@@ -38,7 +38,7 @@ AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框�
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[hkuds-deeptutor]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[macro-inc-macro]] [[affaan-m-ecc]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

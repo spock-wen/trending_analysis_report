@@ -35,7 +35,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[hkuds-deeptutor]] [[affaan-m-ecc]] [[robbyant-lingbot-map]] [[tauricresearch-tradingagents]]
+[[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[robbyant-lingbot-map]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[science]]
 

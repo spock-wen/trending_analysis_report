@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[obra-superpowers]] [[panniantong-agent-reach]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[hkuds-deeptutor]]
+[[cathrynlavery-diagram-design]] [[alchaincyf-huashu-design]] [[obra-superpowers]] [[coollabsio-coolify]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[web]] [[cli]]
 

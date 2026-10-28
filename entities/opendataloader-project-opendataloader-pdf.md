@@ -38,7 +38,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[obra-superpowers]] [[nationalsecurityagency-ghidra]] [[pbakaus-impeccable]] [[snailsploit-claude-red]]
+[[agricidaniel-claude-seo]] [[obra-superpowers]] [[google-guava]] [[macro-inc-macro]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[nvm-sh-nvm]]
+[[obra-superpowers]] [[macro-inc-macro]] [[nvm-sh-nvm]] [[coollabsio-coolify]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

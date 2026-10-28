@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[huggingface-transformers]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[gitroomhq-postiz-app]]
+[[gitroomhq-postiz-app]] [[alchaincyf-huashu-design]] [[makecindy-cindy]] [[xiaolai-the-craft-of-selfteaching]] [[fastapi-fastapi]]
 
 **所属领域**: [[web]] [[education]]
 

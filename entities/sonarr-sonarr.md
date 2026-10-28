@@ -35,5 +35,5 @@ Smart PVR for newsgroup and bittorrent users.
 
 ## 相关项目
 
-[[dotnet-aspnetcore]] [[ntdevlabs-tiny11builder]] [[k1tbyte-wand-enhancer]]
+[[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]] [[ntdevlabs-tiny11builder]]
 

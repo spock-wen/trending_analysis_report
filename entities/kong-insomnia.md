@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[obra-superpowers]] [[panniantong-agent-reach]] [[gitroomhq-postiz-app]] [[makecindy-cindy]]
+[[gitroomhq-postiz-app]] [[alchaincyf-huashu-design]] [[obra-superpowers]] [[makecindy-cindy]] [[coollabsio-coolify]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]]
+[[alchaincyf-huashu-design]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[macro-inc-macro]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

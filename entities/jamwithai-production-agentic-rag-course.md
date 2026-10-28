@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[huggingface-transformers]] [[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[fastapi-fastapi]]
+[[obra-superpowers]] [[macro-inc-macro]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

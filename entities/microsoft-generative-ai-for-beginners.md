@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[huggingface-transformers]] [[obra-superpowers]] [[pbakaus-impeccable]] [[fastapi-fastapi]] [[mlabonne-llm-course]]
+[[lyogavin-airllm]] [[obra-superpowers]] [[macro-inc-macro]] [[xiaolai-the-craft-of-selfteaching]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

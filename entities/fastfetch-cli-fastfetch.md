@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[colbymchenry-codegraph]] [[epicgames-raddebugger]]
+[[colbymchenry-codegraph]] [[obra-superpowers]] [[macro-inc-macro]] [[antirez-ds4]] [[php-php-src]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

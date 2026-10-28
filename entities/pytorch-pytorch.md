@@ -37,5 +37,5 @@ Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[panniantong-agent-reach]] [[nvidia-skillspector]] [[hkuds-deeptutor]]
+[[nvidia-skillspector]] [[hkuds-deeptutor]] [[panniantong-agent-reach]] [[tauricresearch-tradingagents]]
 

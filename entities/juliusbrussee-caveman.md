@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[nutlope-hallmark]] [[strelov1-freehire]] [[alibaba-open-code-review]]
+[[obra-superpowers]] [[macro-inc-macro]] [[vxcontrol-pentagi]] [[pbakaus-impeccable]] [[strelov1-freehire]]
 
 **所属领域**: [[ai-agent]]
 

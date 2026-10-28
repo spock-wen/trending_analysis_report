@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[hkuds-deeptutor]]
+[[cathrynlavery-diagram-design]] [[alchaincyf-huashu-design]] [[obra-superpowers]] [[macro-inc-macro]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

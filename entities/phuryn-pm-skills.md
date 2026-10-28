@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[coollabsio-coolify]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[macro-inc-macro]] [[coollabsio-coolify]] [[pbakaus-impeccable]] [[expo-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

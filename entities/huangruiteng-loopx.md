@@ -35,7 +35,7 @@ Lightweight loop engineering state kernel for long-running AI agent teams. Agent
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[hkuds-deeptutor]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[macro-inc-macro]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

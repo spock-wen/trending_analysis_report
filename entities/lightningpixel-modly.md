@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[openbmb-voxcpm]] [[obra-superpowers]] [[pbakaus-impeccable]] [[gitroomhq-postiz-app]]
+[[gitroomhq-postiz-app]] [[obra-superpowers]] [[makecindy-cindy]] [[macro-inc-macro]] [[coollabsio-coolify]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

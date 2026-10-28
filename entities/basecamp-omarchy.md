@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[panniantong-agent-reach]] [[nvm-sh-nvm]] [[coollabsio-coolify]]
+[[obra-superpowers]] [[nvm-sh-nvm]] [[coollabsio-coolify]] [[expo-skills]] [[msitarzewski-agency-agents]]
 
 **所属领域**: [[cli]]
 

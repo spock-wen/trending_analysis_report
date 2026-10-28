@@ -35,7 +35,7 @@ Agentic AI Infrastructure for magnifying HUMAN capabilities.
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[obra-superpowers]] [[pbakaus-impeccable]] [[gitroomhq-postiz-app]] [[makecindy-cindy]]
+[[ruvnet-ruview]] [[gitroomhq-postiz-app]] [[obra-superpowers]] [[makecindy-cindy]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

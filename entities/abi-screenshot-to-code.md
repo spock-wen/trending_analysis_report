@@ -35,7 +35,7 @@ Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]]
+[[alchaincyf-huashu-design]] [[obra-superpowers]] [[macro-inc-macro]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

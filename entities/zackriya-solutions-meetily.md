@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[akitaonrails-ai-memory]] [[cloudflare-security-audit-skill]] [[snailsploit-claude-red]]
+[[ruvnet-ruview]] [[agricidaniel-claude-seo]] [[alchaincyf-huashu-design]] [[obra-superpowers]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[obra-superpowers]] [[gitroomhq-postiz-app]] [[makecindy-cindy]] [[nightly-labs-openbot]]
+[[gitroomhq-postiz-app]] [[agricidaniel-claude-seo]] [[obra-superpowers]] [[makecindy-cindy]] [[php-php-src]]
 
 **所属领域**: [[erp]]
 

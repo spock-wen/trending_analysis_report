@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[cloudflare-security-audit-skill]] [[snailsploit-claude-red]]
+[[agricidaniel-claude-seo]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[macro-inc-macro]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

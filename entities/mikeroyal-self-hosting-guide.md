@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[huggingface-transformers]] [[obra-superpowers]] [[pbakaus-impeccable]] [[fastapi-fastapi]] [[mlabonne-llm-course]]
+[[alchaincyf-huashu-design]] [[obra-superpowers]] [[macro-inc-macro]] [[xiaolai-the-craft-of-selfteaching]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

@@ -35,5 +35,5 @@ Telegram Desktop messaging app
 
 ## 相关项目
 
-[[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]] [[microsoft-bitnet]] [[tensorflow-tensorflow]]
+[[tensorflow-tensorflow]] [[boykopovar-anyps5]] [[m-abozaid-esp32-c3-adblock]] [[microsoft-bitnet]]
 

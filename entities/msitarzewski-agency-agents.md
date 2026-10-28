@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[alchaincyf-huashu-design]]
+[[alchaincyf-huashu-design]] [[obra-superpowers]] [[macro-inc-macro]] [[nvm-sh-nvm]] [[coollabsio-coolify]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

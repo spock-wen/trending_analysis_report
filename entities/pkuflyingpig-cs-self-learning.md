@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[huggingface-transformers]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]]
+[[cathrynlavery-diagram-design]] [[alchaincyf-huashu-design]] [[xiaolai-the-craft-of-selfteaching]] [[averygan-reclip]] [[fastapi-fastapi]]
 
 **所属领域**: [[web]] [[education]]
 

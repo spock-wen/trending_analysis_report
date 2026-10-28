@@ -35,7 +35,7 @@ Find the local LLM that actually runs and performs best on your hardware. Ranked
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[nvidia-openshell]] [[hkuds-deeptutor]]
+[[obra-superpowers]] [[macro-inc-macro]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]] [[coollabsio-coolify]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

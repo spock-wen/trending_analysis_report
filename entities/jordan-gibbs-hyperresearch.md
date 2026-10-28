@@ -34,7 +34,7 @@ Agent-driven research knowledge base. Agents collect, search, and synthesize web
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]]
+[[alchaincyf-huashu-design]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[macro-inc-macro]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

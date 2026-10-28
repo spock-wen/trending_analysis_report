@@ -34,7 +34,7 @@ DevOps Interview Guide
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[ruvnet-ruflo]] [[xtool-org-xtool]] [[getsentry-sentry]]
+[[ruvnet-ruview]] [[xtool-org-xtool]] [[coollabsio-coolify]] [[ruvnet-ruflo]]
 
 **所属领域**: [[devops]]
 

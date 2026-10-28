@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[obra-superpowers]] [[pbakaus-impeccable]] [[akitaonrails-ai-memory]] [[snailsploit-claude-red]]
+[[ruvnet-ruview]] [[agricidaniel-claude-seo]] [[obra-superpowers]] [[macro-inc-macro]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

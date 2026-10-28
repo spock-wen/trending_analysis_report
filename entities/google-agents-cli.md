@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[nvidia-openshell]] [[hkuds-deeptutor]]
+[[ruvnet-ruview]] [[obra-superpowers]] [[macro-inc-macro]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

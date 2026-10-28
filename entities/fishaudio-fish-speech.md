@@ -37,7 +37,7 @@ SOTA Open Source TTS
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[alishahryar1-free-claude-code]] [[panniantong-agent-reach]] [[debpalash-voicestudio]] [[hkuds-deeptutor]]
+[[debpalash-voicestudio]] [[alishahryar1-free-claude-code]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]] [[openbmb-voxcpm]]
 
 **所属领域**: [[audio]]
 

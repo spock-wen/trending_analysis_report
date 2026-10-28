@@ -34,7 +34,7 @@ Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网�
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[ripienaar-free-for-dev]] [[hkuds-deeptutor]] [[affaan-m-ecc]]
+[[cathrynlavery-diagram-design]] [[obra-superpowers]] [[macro-inc-macro]] [[averygan-reclip]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

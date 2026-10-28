@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[nvidia-openshell]] [[hkuds-deeptutor]]
+[[agricidaniel-claude-seo]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[macro-inc-macro]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

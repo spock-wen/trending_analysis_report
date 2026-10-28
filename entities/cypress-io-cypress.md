@@ -37,7 +37,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[gitroomhq-postiz-app]] [[makecindy-cindy]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]]
+[[gitroomhq-postiz-app]] [[alchaincyf-huashu-design]] [[makecindy-cindy]] [[hkuds-deeptutor]] [[jetbrains-thinkrail]]
 
 **所属领域**: [[web]]
 

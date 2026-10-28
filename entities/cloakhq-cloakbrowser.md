@@ -38,7 +38,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[obra-superpowers]] [[panniantong-agent-reach]] [[cloudflare-security-audit-skill]] [[snailsploit-claude-red]] [[alchaincyf-huashu-design]]
+[[agricidaniel-claude-seo]] [[alchaincyf-huashu-design]] [[obra-superpowers]] [[affaan-m-ecc]] [[snailsploit-claude-red]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[huggingface-transformers]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[panniantong-agent-reach]] [[hkuds-deeptutor]]
+[[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[robbyant-lingbot-map]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[education]] [[science]]
 

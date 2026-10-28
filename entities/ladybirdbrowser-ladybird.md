@@ -36,7 +36,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[m-abozaid-esp32-c3-adblock]] [[boykopovar-anyps5]] [[tensorflow-tensorflow]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]]
+[[alchaincyf-huashu-design]] [[boykopovar-anyps5]] [[microsoft-bitnet]] [[tensorflow-tensorflow]] [[hkuds-deeptutor]]
 
 **所属领域**: [[web]]
 

@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[obra-superpowers]] [[pbakaus-impeccable]] [[gitroomhq-postiz-app]] [[makecindy-cindy]]
+[[ruvnet-ruview]] [[gitroomhq-postiz-app]] [[agricidaniel-claude-seo]] [[obra-superpowers]] [[makecindy-cindy]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

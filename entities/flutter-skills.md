@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[flutter-flutter]] [[obra-superpowers]] [[pbakaus-impeccable]] [[localsend-localsend]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[chen08209-flclash]] [[macro-inc-macro]] [[flutter-flutter]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

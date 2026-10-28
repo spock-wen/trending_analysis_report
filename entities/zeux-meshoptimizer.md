@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[m-abozaid-esp32-c3-adblock]] [[obra-superpowers]] [[boykopovar-anyps5]] [[tensorflow-tensorflow]] [[microsoft-bitnet]]
+[[agricidaniel-claude-seo]] [[obra-superpowers]] [[boykopovar-anyps5]] [[microsoft-bitnet]] [[php-php-src]]
 
 **所属领域**: [[erp]]
 

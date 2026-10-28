@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[obra-superpowers]] [[panniantong-agent-reach]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]] [[coollabsio-coolify]]
+[[alchaincyf-huashu-design]] [[obra-superpowers]] [[coollabsio-coolify]] [[hkuds-deeptutor]] [[expo-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -38,7 +38,7 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[hkuds-deeptutor]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[macro-inc-macro]] [[affaan-m-ecc]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

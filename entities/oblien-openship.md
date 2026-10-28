@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[gitroomhq-postiz-app]] [[makecindy-cindy]] [[coollabsio-coolify]] [[ruvnet-ruflo]]
+[[ruvnet-ruview]] [[gitroomhq-postiz-app]] [[makecindy-cindy]] [[coollabsio-coolify]] [[xtool-org-xtool]]
 
 **所属领域**: [[devops]]
 

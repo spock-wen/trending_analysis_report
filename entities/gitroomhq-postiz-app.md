@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[obra-superpowers]] [[pbakaus-impeccable]] [[makecindy-cindy]] [[nightly-labs-openbot]]
+[[obra-superpowers]] [[makecindy-cindy]] [[macro-inc-macro]] [[pbakaus-impeccable]] [[jetbrains-thinkrail]]
 
 **所属领域**: [[ai-agent]]
 

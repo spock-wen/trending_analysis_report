@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[alishahryar1-free-claude-code]]
+[[debpalash-voicestudio]] [[alishahryar1-free-claude-code]] [[obra-superpowers]] [[macro-inc-macro]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

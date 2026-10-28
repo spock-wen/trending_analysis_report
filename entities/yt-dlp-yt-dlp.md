@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[obra-superpowers]] [[nvidia-openshell]] [[panniantong-agent-reach]] [[alishahryar1-free-claude-code]]
+[[debpalash-voicestudio]] [[alishahryar1-free-claude-code]] [[obra-superpowers]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[cli]] [[audio]]
 

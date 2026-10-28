@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[huggingface-transformers]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[cloudflare-security-audit-skill]]
+[[agricidaniel-claude-seo]] [[hmjz100-linkswift]] [[affaan-m-ecc]] [[snailsploit-claude-red]] [[nvidia-skillspector]]
 
 **所属领域**: [[data]] [[education]]
 

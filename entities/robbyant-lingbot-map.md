@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[snailsploit-claude-red]] [[hkuds-deeptutor]] [[coollabsio-coolify]] [[affaan-m-ecc]]
+[[agricidaniel-claude-seo]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[snailsploit-claude-red]] [[nvidia-skillspector]]
 
 **所属领域**: [[data]] [[science]]
 

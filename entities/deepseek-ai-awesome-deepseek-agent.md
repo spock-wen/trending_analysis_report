@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[nutlope-hallmark]] [[obra-superpowers]] [[affaan-m-ecc]]
+[[nutlope-hallmark]] [[obra-superpowers]] [[macro-inc-macro]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

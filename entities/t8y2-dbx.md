@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[akitaonrails-ai-memory]] [[snailsploit-claude-red]]
+[[ruvnet-ruview]] [[agricidaniel-claude-seo]] [[obra-superpowers]] [[macro-inc-macro]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

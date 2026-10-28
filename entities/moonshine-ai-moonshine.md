@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[m-abozaid-esp32-c3-adblock]] [[obra-superpowers]] [[boykopovar-anyps5]] [[tensorflow-tensorflow]] [[pbakaus-impeccable]]
+[[debpalash-voicestudio]] [[alishahryar1-free-claude-code]] [[obra-superpowers]] [[macro-inc-macro]] [[boykopovar-anyps5]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

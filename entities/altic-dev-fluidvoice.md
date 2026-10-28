@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[obra-superpowers]] [[pbakaus-impeccable]] [[alishahryar1-free-claude-code]] [[abue-ammar-tinycast]]
+[[debpalash-voicestudio]] [[alchaincyf-huashu-design]] [[obra-superpowers]] [[alishahryar1-free-claude-code]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

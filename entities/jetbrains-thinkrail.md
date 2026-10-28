@@ -1,20 +1,20 @@
 ---
 title: "JetBrains/thinkrail"
 created: 2026-10-26
-updated: 2026-10-28
-last_active: 2026-10-28
+updated: 2026-10-29
+last_active: 2026-10-29
 type: tool
 tags: [typescript, ai-agent, rising]
-sources: [raw/trending/2026-10-28.json]
+sources: [raw/trending/2026-10-29.json]
 confidence: high
-trending_count_daily: 3
+trending_count_daily: 4
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 3
+consecutive_days: 4
 first_trending: 2026-10-26
-last_trending: 2026-10-28
-peak_rank: 3
-total_stars: 3928
+last_trending: 2026-10-29
+peak_rank: 1
+total_stars: 4994
 language: "TypeScript"
 ---
 
@@ -23,20 +23,21 @@ language: "TypeScript"
 Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
 
 - 语言: TypeScript
-- 上榜次数: 3 次
-- 连续上榜: 3 天
-- 最高排名: #3
+- 上榜次数: 4 次
+- 连续上榜: 4 天
+- 最高排名: #1
 - 链接: [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
 
 ## 上榜历史
 
+  - 2026-10-29: #1, +1075⭐
   - 2026-10-28: #10, +1211⭐
   - 2026-10-27: #3, +1156⭐
   - 2026-10-26: #8, +52⭐
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[gitroomhq-postiz-app]] [[makecindy-cindy]] [[nightly-labs-openbot]]
+[[gitroomhq-postiz-app]] [[obra-superpowers]] [[makecindy-cindy]] [[macro-inc-macro]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

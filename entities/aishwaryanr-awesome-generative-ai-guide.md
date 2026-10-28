@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[hkuds-deeptutor]]
+[[cathrynlavery-diagram-design]] [[alchaincyf-huashu-design]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

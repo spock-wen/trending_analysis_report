@@ -35,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[dotnet-aspnetcore]] [[obra-superpowers]] [[panniantong-agent-reach]] [[sonarr-sonarr]] [[coollabsio-coolify]]
+[[obra-superpowers]] [[k1tbyte-wand-enhancer]] [[coollabsio-coolify]] [[dotnet-aspnetcore]] [[ntdevlabs-tiny11builder]]
 
 **所属领域**: [[cli]]
 

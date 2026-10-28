@@ -38,7 +38,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[nutlope-hallmark]]
+[[obra-superpowers]] [[hmjz100-linkswift]] [[macro-inc-macro]] [[affaan-m-ecc]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[nutlope-hallmark]] [[obra-superpowers]] [[affaan-m-ecc]]
+[[nutlope-hallmark]] [[obra-superpowers]] [[macro-inc-macro]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

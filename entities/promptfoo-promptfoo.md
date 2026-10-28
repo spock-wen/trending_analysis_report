@@ -36,7 +36,7 @@ Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[gitroomhq-postiz-app]]
+[[ruvnet-ruview]] [[gitroomhq-postiz-app]] [[obra-superpowers]] [[makecindy-cindy]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

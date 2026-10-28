@@ -34,7 +34,7 @@ Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer 
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[obra-superpowers]] [[pbakaus-impeccable]] [[gitroomhq-postiz-app]] [[makecindy-cindy]]
+[[ruvnet-ruview]] [[gitroomhq-postiz-app]] [[obra-superpowers]] [[makecindy-cindy]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

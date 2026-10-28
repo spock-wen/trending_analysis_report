@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[coollabsio-coolify]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[macro-inc-macro]] [[coollabsio-coolify]] [[pbakaus-impeccable]] [[expo-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

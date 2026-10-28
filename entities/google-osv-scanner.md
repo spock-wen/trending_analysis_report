@@ -34,7 +34,7 @@ Vulnerability scanner written in Go which uses the data provided by https://osv.
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[nutlope-hallmark]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]] [[strelov1-freehire]]
+[[agricidaniel-claude-seo]] [[alchaincyf-huashu-design]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[web]] [[data]]
 

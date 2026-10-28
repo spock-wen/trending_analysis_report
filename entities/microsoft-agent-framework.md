@@ -34,7 +34,7 @@ A framework for building, orchestrating and deploying AI agents and multi-agent 
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[hkuds-deeptutor]] [[coollabsio-coolify]]
+[[ruvnet-ruview]] [[obra-superpowers]] [[macro-inc-macro]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

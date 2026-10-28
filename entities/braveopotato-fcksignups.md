@@ -36,7 +36,7 @@ A list of tools that are open-source, in-browser, and require no-signups!
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[gitroomhq-postiz-app]] [[makecindy-cindy]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]]
+[[gitroomhq-postiz-app]] [[alchaincyf-huashu-design]] [[makecindy-cindy]] [[hkuds-deeptutor]] [[jetbrains-thinkrail]]
 
 **所属领域**: [[web]]
 

@@ -34,7 +34,7 @@ FastAPI framework, high performance, easy to learn, fast to code, ready for prod
 
 ## 相关项目
 
-[[huggingface-transformers]] [[mlabonne-llm-course]] [[panniantong-agent-reach]] [[hkuds-deeptutor]] [[ruvnet-ruflo]]
+[[nvidia-skillspector]] [[tauricresearch-tradingagents]] [[xiaolai-the-craft-of-selfteaching]] [[ruvnet-ruflo]] [[hkuds-deeptutor]]
 
 **所属领域**: [[education]]
 

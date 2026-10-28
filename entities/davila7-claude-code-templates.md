@@ -38,7 +38,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[nvidia-openshell]] [[hkuds-deeptutor]]
+[[ruvnet-ruview]] [[obra-superpowers]] [[macro-inc-macro]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

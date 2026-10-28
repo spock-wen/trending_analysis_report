@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[huggingface-transformers]] [[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[akitaonrails-ai-memory]]
+[[ruvnet-ruview]] [[mlabonne-llm-course]] [[debpalash-voicestudio]] [[obra-superpowers]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

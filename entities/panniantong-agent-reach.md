@@ -38,7 +38,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[nvidia-openshell]] [[hkuds-deeptutor]] [[coollabsio-coolify]]
+[[obra-superpowers]] [[macro-inc-macro]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]] [[coollabsio-coolify]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

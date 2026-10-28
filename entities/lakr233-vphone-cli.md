@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[obra-superpowers]] [[nvidia-openshell]] [[panniantong-agent-reach]] [[abue-ammar-tinycast]] [[coollabsio-coolify]]
+[[obra-superpowers]] [[abue-ammar-tinycast]] [[xtool-org-xtool]] [[coollabsio-coolify]] [[expo-skills]]
 
 **所属领域**: [[cli]]
 

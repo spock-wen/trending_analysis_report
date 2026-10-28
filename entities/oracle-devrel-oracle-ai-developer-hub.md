@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[snailsploit-claude-red]] [[lyogavin-airllm]] [[coollabsio-coolify]]
+[[agricidaniel-claude-seo]] [[lyogavin-airllm]] [[obra-superpowers]] [[microsoft-generative-ai-for-beginners]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

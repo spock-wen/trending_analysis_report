@@ -35,7 +35,7 @@ AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[hkuds-deeptutor]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[macro-inc-macro]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

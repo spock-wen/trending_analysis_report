@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[snailsploit-claude-red]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]]
+[[agricidaniel-claude-seo]] [[cathrynlavery-diagram-design]] [[alchaincyf-huashu-design]] [[obra-superpowers]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

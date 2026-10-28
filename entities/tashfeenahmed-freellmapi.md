@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[obra-superpowers]] [[pbakaus-impeccable]] [[gitroomhq-postiz-app]] [[cloudflare-security-audit-skill]]
+[[gitroomhq-postiz-app]] [[obra-superpowers]] [[makecindy-cindy]] [[macro-inc-macro]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

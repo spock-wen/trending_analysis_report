@@ -35,7 +35,7 @@ Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew
 
 ## 相关项目
 
-[[huggingface-transformers]] [[obra-superpowers]] [[pbakaus-impeccable]] [[fastapi-fastapi]] [[mlabonne-llm-course]]
+[[lyogavin-airllm]] [[obra-superpowers]] [[microsoft-generative-ai-for-beginners]] [[macro-inc-macro]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

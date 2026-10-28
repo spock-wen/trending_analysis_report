@@ -35,7 +35,7 @@ Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linu
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[coollabsio-coolify]] [[ruvnet-ruflo]] [[getsentry-sentry]] [[manaflow-ai-cmux]]
+[[ruvnet-ruview]] [[coollabsio-coolify]] [[abue-ammar-tinycast]] [[ruvnet-ruflo]] [[lakr233-vphone-cli]]
 
 **所属领域**: [[devops]]
 

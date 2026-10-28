@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[obra-superpowers]] [[panniantong-agent-reach]] [[nutlope-hallmark]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]]
+[[alchaincyf-huashu-design]] [[obra-superpowers]] [[vxcontrol-pentagi]] [[coollabsio-coolify]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[web]] [[cli]]
 

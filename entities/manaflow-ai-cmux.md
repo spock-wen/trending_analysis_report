@@ -37,7 +37,7 @@ Open source Ghostty-based macOS terminal with vertical tabs and notifications fo
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[abue-ammar-tinycast]] [[coollabsio-coolify]]
+[[obra-superpowers]] [[macro-inc-macro]] [[nutlope-hallmark]] [[abue-ammar-tinycast]] [[xtool-org-xtool]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

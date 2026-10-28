@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[nvm-sh-nvm]] [[coollabsio-coolify]]
+[[obra-superpowers]] [[macro-inc-macro]] [[nvm-sh-nvm]] [[coollabsio-coolify]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

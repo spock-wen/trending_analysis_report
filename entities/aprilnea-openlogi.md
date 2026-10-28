@@ -37,5 +37,5 @@ language: "Rust"
 
 ## 相关项目
 
-[[nvidia-openshell]] [[pbakaus-impeccable]] [[pollen-robotics-microduck]] [[akitaonrails-ai-memory]]
+[[ruvnet-ruview]] [[pollen-robotics-microduck]] [[macro-inc-macro]] [[pbakaus-impeccable]]
 

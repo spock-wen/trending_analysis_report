@@ -37,7 +37,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[openbmb-voxcpm]] [[obra-superpowers]] [[pbakaus-impeccable]] [[cloudflare-security-audit-skill]]
+[[obra-superpowers]] [[hmjz100-linkswift]] [[macro-inc-macro]] [[affaan-m-ecc]] [[coollabsio-coolify]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

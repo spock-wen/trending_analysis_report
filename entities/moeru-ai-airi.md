@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[openbmb-voxcpm]] [[obra-superpowers]] [[pbakaus-impeccable]] [[alishahryar1-free-claude-code]]
+[[gitroomhq-postiz-app]] [[alchaincyf-huashu-design]] [[obra-superpowers]] [[debpalash-voicestudio]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

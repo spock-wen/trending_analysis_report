@@ -36,7 +36,7 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[snailsploit-claude-red]] [[hkuds-deeptutor]]
+[[agricidaniel-claude-seo]] [[obra-superpowers]] [[macro-inc-macro]] [[snailsploit-claude-red]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -38,7 +38,7 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[cloudflare-security-audit-skill]] [[snailsploit-claude-red]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]]
+[[agricidaniel-claude-seo]] [[alchaincyf-huashu-design]] [[hmjz100-linkswift]] [[affaan-m-ecc]] [[snailsploit-claude-red]]
 
 **所属领域**: [[web]] [[data]]
 

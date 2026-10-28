@@ -37,7 +37,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[snailsploit-claude-red]] [[nutlope-hallmark]] [[strelov1-freehire]]
+[[agricidaniel-claude-seo]] [[obra-superpowers]] [[macro-inc-macro]] [[snailsploit-claude-red]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

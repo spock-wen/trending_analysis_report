@@ -35,7 +35,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[huggingface-transformers]] [[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[fastapi-fastapi]]
+[[mlabonne-llm-course]] [[obra-superpowers]] [[macro-inc-macro]] [[xiaolai-the-craft-of-selfteaching]] [[coollabsio-coolify]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

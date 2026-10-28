@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[mahlernim-google-timeline-visualizer]] [[obra-superpowers]] [[pbakaus-impeccable]] [[bannedbook-fanqiang]] [[embabel-embabel-agent]]
+[[bannedbook-fanqiang]] [[obra-superpowers]] [[macro-inc-macro]] [[pbakaus-impeccable]] [[android-skills]]
 
 **所属领域**: [[ai-agent]]
 

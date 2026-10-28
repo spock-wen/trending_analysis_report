@@ -36,7 +36,7 @@ Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vert
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[lyogavin-airllm]] [[microsoft-generative-ai-for-beginners]] [[affaan-m-ecc]]
+[[lyogavin-airllm]] [[obra-superpowers]] [[microsoft-generative-ai-for-beginners]] [[macro-inc-macro]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,5 +34,5 @@ Free, simple, fast interactive diagrams for any GitHub repository
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[makecindy-cindy]] [[nightly-labs-openbot]] [[gitroomhq-postiz-app]]
+[[jetbrains-thinkrail]] [[gitroomhq-postiz-app]] [[nightly-labs-openbot]] [[makecindy-cindy]]
 

@@ -34,7 +34,7 @@ FlashKDA: high-performance Kimi Delta Attention kernels
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[deepseek-ai-deepgemm]] [[affaan-m-ecc]] [[nutlope-hallmark]]
+[[obra-superpowers]] [[deepseek-ai-deepep]] [[macro-inc-macro]] [[deepseek-ai-deepgemm]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

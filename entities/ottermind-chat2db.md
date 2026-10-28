@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[obra-superpowers]] [[nationalsecurityagency-ghidra]] [[pbakaus-impeccable]] [[panniantong-agent-reach]]
+[[agricidaniel-claude-seo]] [[obra-superpowers]] [[google-guava]] [[macro-inc-macro]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

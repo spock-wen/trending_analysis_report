@@ -34,7 +34,7 @@ Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[snailsploit-claude-red]] [[hkuds-deeptutor]] [[coollabsio-coolify]] [[agricidaniel-claude-seo]]
+[[agricidaniel-claude-seo]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]] [[coollabsio-coolify]]
 
 **所属领域**: [[data]]
 

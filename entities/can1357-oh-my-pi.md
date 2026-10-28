@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[gitroomhq-postiz-app]]
+[[gitroomhq-postiz-app]] [[alchaincyf-huashu-design]] [[obra-superpowers]] [[makecindy-cindy]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

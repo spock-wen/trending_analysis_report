@@ -36,7 +36,7 @@ Official inference framework for 1-bit LLMs
 
 ## 相关项目
 
-[[m-abozaid-esp32-c3-adblock]] [[obra-superpowers]] [[boykopovar-anyps5]] [[tensorflow-tensorflow]] [[pbakaus-impeccable]]
+[[obra-superpowers]] [[macro-inc-macro]] [[boykopovar-anyps5]] [[pbakaus-impeccable]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[ai-agent]]
 

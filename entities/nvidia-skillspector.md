@@ -16,7 +16,6 @@ last_trending: 2026-10-27
 peak_rank: 5
 total_stars: 22132
 language: "Python"
-contested: true
 ---
 
 # NVIDIA/SkillSpector
@@ -39,17 +38,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[cloudflare-security-audit-skill]] [[snailsploit-claude-red]]
+[[agricidaniel-claude-seo]] [[obra-superpowers]] [[macro-inc-macro]] [[affaan-m-ecc]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]]
-
-
-## ⚠️ 描述变更（2026-10-27）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
-- **新描述**: Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

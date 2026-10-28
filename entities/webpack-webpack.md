@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[openbmb-voxcpm]] [[cloudflare-security-audit-skill]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]]
+[[alchaincyf-huashu-design]] [[hmjz100-linkswift]] [[affaan-m-ecc]] [[coollabsio-coolify]] [[openbmb-voxcpm]]
 
 **所属领域**: [[web]] [[image-gen]]
 

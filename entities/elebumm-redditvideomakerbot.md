@@ -35,7 +35,7 @@ Create Reddit Videos with just✨ one command ✨
 
 ## 相关项目
 
-[[obra-superpowers]] [[nvidia-openshell]] [[panniantong-agent-reach]] [[hkuds-deeptutor]] [[coollabsio-coolify]]
+[[obra-superpowers]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]] [[coollabsio-coolify]] [[hkuds-deeptutor]]
 
 **所属领域**: [[cli]]
 

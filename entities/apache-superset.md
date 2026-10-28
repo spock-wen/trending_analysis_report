@@ -35,7 +35,7 @@ Apache Superset is a Data Visualization and Data Exploration Platform
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[gitroomhq-postiz-app]] [[makecindy-cindy]] [[snailsploit-claude-red]] [[coollabsio-coolify]]
+[[gitroomhq-postiz-app]] [[agricidaniel-claude-seo]] [[makecindy-cindy]] [[snailsploit-claude-red]] [[nvidia-skillspector]]
 
 **所属领域**: [[data]]
 

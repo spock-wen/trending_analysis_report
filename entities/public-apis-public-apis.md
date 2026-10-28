@@ -38,5 +38,5 @@ A collective list of free APIs
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[panniantong-agent-reach]] [[nvidia-skillspector]] [[hkuds-deeptutor]]
+[[nvidia-skillspector]] [[hkuds-deeptutor]] [[panniantong-agent-reach]] [[tauricresearch-tradingagents]]
 

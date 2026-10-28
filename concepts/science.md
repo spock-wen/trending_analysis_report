@@ -1,7 +1,7 @@
 ---
 title: "science"
 created: 2026-05-26
-updated: 2026-10-28
+updated: 2026-10-29
 type: concept
 tags: [science]
 confidence: medium
@@ -9,7 +9,7 @@ confidence: medium
 
 # science
 
-## 领域项目（共 40 个，今日上榜 1 个）
+## 领域项目（共 40 个，今日上榜 0 个）
 
 [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]] [[paperclipai-paperclip]] [[zhaoxuya520-reverse-skill]] [[paperless-ngx-paperless-ngx]] [[alphaxiv-openresearch]] [[mg1937-asc]] [[jihe520-mathmodelagent]] [[p1neapplexpress-openflux]] [[jordan-gibbs-hyperresearch]] [[bytedance-deer-flow]] [[nousresearch-hermes-agent]] [[aipoch-open-science]] [[bikini-exploitarium]] [[google-research-timesfm]] [[imbad0202-academic-research-skills]] [[kaifcodec-user-scanner]] [[mvanhorn-last30days-skill]] [[marin-community-marin]] [[tinyhumansai-openhuman]] [[paperswithbacktest-awesome-systematic-trading]] [[knockoutez-wigolo]] [[henryndubuaku-maths-cs-ai-compendium]] [[alirezarezvani-claude-skills]] [[safishamsi-graphify]] [[xbtlin-ai-berkshire]] [[owainlewis-awesome-artificial-intelligence]] [[aishwaryanr-awesome-generative-ai-guide]] [[galilai-group-stable-worldmodel]] [[fincept-corporation-finceptterminal]] [[virattt-dexter]] [[learningcircuit-local-deep-research]] [[huggingface-ml-intern]] [[thecraighewitt-seomachine]] [[newton-physics-newton]] [[sakanaai-ai-scientist-v2]] [[affaan-m-everything-claude-code]] [[k-dense-ai-claude-scientific-skills]]
 
@@ -19,5 +19,5 @@ Python 27个, TypeScript 5个, JavaScript 2个, Rust 2个, PowerShell 1个, Go 1
 
 ## 趋势观察
 
-40 个 science 领域项目被追踪，其中 1 个今日同时上榜，反映该领域持续活跃。
+40 个 science 领域项目被追踪，其中 0 个今日同时上榜，反映该领域持续活跃。
 

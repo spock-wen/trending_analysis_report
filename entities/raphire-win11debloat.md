@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[obra-superpowers]] [[zhaoxuya520-reverse-skill]] [[panniantong-agent-reach]] [[coollabsio-coolify]] [[bwya77-vscode-dark-islands]]
+[[obra-superpowers]] [[bwya77-vscode-dark-islands]] [[panniantong-agent-reach]] [[coollabsio-coolify]] [[expo-skills]]
 
 **所属领域**: [[cli]]
 

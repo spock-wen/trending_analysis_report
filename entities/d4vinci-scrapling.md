@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]] [[nightly-labs-openbot]] [[nutlope-hallmark]]
+[[alchaincyf-huashu-design]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]] [[hkuds-deeptutor]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]]
 

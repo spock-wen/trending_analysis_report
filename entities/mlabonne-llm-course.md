@@ -34,7 +34,7 @@ Course to get into Large Language Models (LLMs) with roadmaps and Colab notebook
 
 ## 相关项目
 
-[[huggingface-transformers]] [[obra-superpowers]] [[pbakaus-impeccable]] [[fastapi-fastapi]] [[ruvnet-ruflo]]
+[[obra-superpowers]] [[macro-inc-macro]] [[xiaolai-the-craft-of-selfteaching]] [[pbakaus-impeccable]] [[fastapi-fastapi]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

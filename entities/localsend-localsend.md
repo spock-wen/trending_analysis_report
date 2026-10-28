@@ -35,7 +35,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[flutter-flutter]] [[obra-superpowers]] [[pbakaus-impeccable]] [[affaan-m-ecc]] [[nutlope-hallmark]]
+[[obra-superpowers]] [[chen08209-flclash]] [[macro-inc-macro]] [[flutter-flutter]] [[flutter-skills]]
 
 **所属领域**: [[ai-agent]]
 

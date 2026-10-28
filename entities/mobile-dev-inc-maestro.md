@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[mahlernim-google-timeline-visualizer]] [[obra-superpowers]] [[pbakaus-impeccable]] [[bannedbook-fanqiang]] [[alchaincyf-huashu-design]]
+[[bannedbook-fanqiang]] [[obra-superpowers]] [[nightly-labs-openbot]] [[alchaincyf-huashu-design]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

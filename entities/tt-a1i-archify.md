@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[obra-superpowers]] [[pbakaus-impeccable]] [[cloudflare-security-audit-skill]] [[snailsploit-claude-red]]
+[[agricidaniel-claude-seo]] [[alchaincyf-huashu-design]] [[obra-superpowers]] [[hmjz100-linkswift]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

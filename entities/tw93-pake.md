@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[akitaonrails-ai-memory]] [[alchaincyf-huashu-design]]
+[[ruvnet-ruview]] [[alchaincyf-huashu-design]] [[obra-superpowers]] [[macro-inc-macro]] [[coollabsio-coolify]]
 
 **所属领域**: [[web]] [[cli]]
 

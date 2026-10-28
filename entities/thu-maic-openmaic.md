@@ -38,7 +38,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[huggingface-transformers]] [[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]]
+[[gitroomhq-postiz-app]] [[mlabonne-llm-course]] [[obra-superpowers]] [[makecindy-cindy]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

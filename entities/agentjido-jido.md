@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[teslamate-org-teslamate]] [[affaan-m-ecc]] [[plausible-analytics]]
+[[teslamate-org-teslamate]] [[obra-superpowers]] [[plausible-analytics]] [[macro-inc-macro]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

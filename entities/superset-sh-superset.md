@@ -34,7 +34,7 @@ IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your mach
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[obra-superpowers]] [[pbakaus-impeccable]] [[gitroomhq-postiz-app]] [[makecindy-cindy]]
+[[gitroomhq-postiz-app]] [[obra-superpowers]] [[makecindy-cindy]] [[macro-inc-macro]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[obra-superpowers]] [[panniantong-agent-reach]] [[nvidia-openshell]]
+[[obra-superpowers]] [[coollabsio-coolify]] [[panniantong-agent-reach]] [[expo-skills]]
 
 **所属领域**: [[cli]]
 

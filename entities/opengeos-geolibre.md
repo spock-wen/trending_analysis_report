@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[gitroomhq-postiz-app]] [[makecindy-cindy]] [[snailsploit-claude-red]] [[alchaincyf-huashu-design]]
+[[gitroomhq-postiz-app]] [[alchaincyf-huashu-design]] [[agricidaniel-claude-seo]] [[makecindy-cindy]] [[snailsploit-claude-red]]
 
 **所属领域**: [[web]] [[data]]
 

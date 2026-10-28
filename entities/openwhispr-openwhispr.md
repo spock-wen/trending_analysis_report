@@ -34,7 +34,7 @@ Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud model
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[openbmb-voxcpm]] [[obra-superpowers]] [[pbakaus-impeccable]] [[alishahryar1-free-claude-code]]
+[[debpalash-voicestudio]] [[alishahryar1-free-claude-code]] [[obra-superpowers]] [[hmjz100-linkswift]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]] [[security]] [[audio]]
 

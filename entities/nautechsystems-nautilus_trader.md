@@ -34,5 +34,5 @@ A high-performance algorithmic trading platform and event-driven backtester
 
 ## 相关项目
 
-[[nvidia-openshell]] [[pbakaus-impeccable]] [[pollen-robotics-microduck]] [[akitaonrails-ai-memory]]
+[[ruvnet-ruview]] [[pollen-robotics-microduck]] [[macro-inc-macro]] [[pbakaus-impeccable]]
 

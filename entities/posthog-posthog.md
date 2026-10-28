@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[snailsploit-claude-red]] [[alchaincyf-huashu-design]]
+[[ruvnet-ruview]] [[agricidaniel-claude-seo]] [[alchaincyf-huashu-design]] [[obra-superpowers]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

@@ -34,7 +34,7 @@ Replace port numbers with stable, named local URLs. For humans and agents.
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[openbmb-voxcpm]] [[obra-superpowers]] [[pbakaus-impeccable]] [[gitroomhq-postiz-app]]
+[[gitroomhq-postiz-app]] [[obra-superpowers]] [[makecindy-cindy]] [[macro-inc-macro]] [[coollabsio-coolify]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

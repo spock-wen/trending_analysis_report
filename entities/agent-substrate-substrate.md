@@ -36,7 +36,7 @@ Agent Substrate: the core system
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[nutlope-hallmark]] [[strelov1-freehire]] [[juliusbrussee-caveman]]
+[[obra-superpowers]] [[macro-inc-macro]] [[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

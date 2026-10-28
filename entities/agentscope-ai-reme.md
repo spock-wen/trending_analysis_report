@@ -36,7 +36,7 @@ ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[hkuds-deeptutor]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[macro-inc-macro]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

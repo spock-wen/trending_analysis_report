@@ -35,7 +35,7 @@ Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and
 
 ## 相关项目
 
-[[dietrichgebert-ponytail]] [[obra-superpowers]] [[pbakaus-impeccable]] [[cloudflare-security-audit-skill]] [[alchaincyf-huashu-design]]
+[[alchaincyf-huashu-design]] [[obra-superpowers]] [[hmjz100-linkswift]] [[macro-inc-macro]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

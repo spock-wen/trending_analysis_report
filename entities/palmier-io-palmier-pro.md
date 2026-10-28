@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[abue-ammar-tinycast]] [[affaan-m-ecc]] [[xtool-org-xtool]]
+[[obra-superpowers]] [[macro-inc-macro]] [[nutlope-hallmark]] [[abue-ammar-tinycast]] [[xtool-org-xtool]]
 
 **所属领域**: [[ai-agent]]
 

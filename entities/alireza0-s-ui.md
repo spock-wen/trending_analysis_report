@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[nutlope-hallmark]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]] [[strelov1-freehire]] [[juliusbrussee-caveman]]
+[[alchaincyf-huashu-design]] [[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[hkuds-deeptutor]] [[strelov1-freehire]]
 
 **所属领域**: [[web]]
 

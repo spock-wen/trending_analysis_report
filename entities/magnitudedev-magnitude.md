@@ -37,7 +37,7 @@ Open source inference server that runs the best local models for your hardware, 
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[gitroomhq-postiz-app]]
+[[gitroomhq-postiz-app]] [[obra-superpowers]] [[makecindy-cindy]] [[macro-inc-macro]] [[coollabsio-coolify]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

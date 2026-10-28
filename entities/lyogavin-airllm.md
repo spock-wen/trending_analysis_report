@@ -38,7 +38,7 @@ AirLLM 2.8T LLM inference with single 4GB GPU
 
 ## 相关项目
 
-[[obra-superpowers]] [[pbakaus-impeccable]] [[microsoft-generative-ai-for-beginners]] [[affaan-m-ecc]] [[microsoft-ai-for-beginners]]
+[[obra-superpowers]] [[microsoft-generative-ai-for-beginners]] [[macro-inc-macro]] [[xiaolai-the-craft-of-selfteaching]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

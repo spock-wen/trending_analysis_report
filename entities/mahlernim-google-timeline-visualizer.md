@@ -36,7 +36,7 @@ Visualize your year in travel using your Google Location History (Timeline) data
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[snailsploit-claude-red]] [[embabel-embabel-agent]] [[coollabsio-coolify]] [[agricidaniel-claude-seo]]
+[[agricidaniel-claude-seo]] [[bannedbook-fanqiang]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[coollabsio-coolify]]
 
 **所属领域**: [[data]]
 

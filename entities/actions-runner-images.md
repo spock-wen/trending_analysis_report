@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[obra-superpowers]] [[zhaoxuya520-reverse-skill]] [[panniantong-agent-reach]] [[comfy-org-comfyui]]
+[[obra-superpowers]] [[bwya77-vscode-dark-islands]] [[panniantong-agent-reach]] [[coollabsio-coolify]] [[openbmb-voxcpm]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

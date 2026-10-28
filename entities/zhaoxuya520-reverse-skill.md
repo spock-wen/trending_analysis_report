@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[obra-superpowers]] [[pbakaus-impeccable]] [[panniantong-agent-reach]] [[cloudflare-security-audit-skill]]
+[[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[bwya77-vscode-dark-islands]] [[macro-inc-macro]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

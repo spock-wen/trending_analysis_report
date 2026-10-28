@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[panniantong-agent-reach]] [[hkuds-deeptutor]] [[comfy-org-comfyui]] [[coollabsio-coolify]]
+[[nvidia-skillspector]] [[tauricresearch-tradingagents]] [[coollabsio-coolify]] [[openbmb-voxcpm]] [[comfy-org-comfyui]]
 
 **所属领域**: [[image-gen]]
 

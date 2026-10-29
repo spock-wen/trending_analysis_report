@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[obra-superpowers]] [[affaan-m-ecc]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[boykopovar-anyps5]]
+[[donchitos-claude-code-game-studios]] [[expo-skills]] [[snailsploit-claude-red]] [[boykopovar-anyps5]] [[obra-superpowers]]
 
 **所属领域**: [[cli]] [[security]]
 

@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[colbymchenry-codegraph]] [[obra-superpowers]] [[macro-inc-macro]] [[antirez-ds4]] [[php-php-src]]
+[[donchitos-claude-code-game-studios]] [[expo-skills]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

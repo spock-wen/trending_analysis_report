@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[obra-superpowers]] [[coollabsio-coolify]] [[panniantong-agent-reach]] [[expo-skills]]
+[[donchitos-claude-code-game-studios]] [[panniantong-agent-reach]] [[expo-skills]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

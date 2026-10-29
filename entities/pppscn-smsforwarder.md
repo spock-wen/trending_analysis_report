@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[nightly-labs-openbot]] [[alchaincyf-huashu-design]] [[android-skills]] [[hkuds-deeptutor]]
+[[embabel-embabel-agent]] [[nightly-labs-openbot]] [[android-skills]] [[mahlernim-google-timeline-visualizer]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]]
 

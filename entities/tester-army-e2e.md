@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[gitroomhq-postiz-app]] [[alchaincyf-huashu-design]] [[makecindy-cindy]] [[coollabsio-coolify]] [[openbmb-voxcpm]]
+[[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[nutlope-hallmark]] [[hkuds-deeptutor]]
 
 **所属领域**: [[web]] [[image-gen]]
 

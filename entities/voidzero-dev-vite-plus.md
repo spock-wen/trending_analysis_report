@@ -35,7 +35,7 @@ Vite+ is the unified toolchain and entry point for web development. It manages y
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[alchaincyf-huashu-design]] [[obra-superpowers]] [[macro-inc-macro]] [[pollen-robotics-microduck]]
+[[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[pbakaus-impeccable]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

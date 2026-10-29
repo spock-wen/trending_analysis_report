@@ -37,7 +37,7 @@ Open source inference server that runs the best local models for your hardware, 
 
 ## 相关项目
 
-[[gitroomhq-postiz-app]] [[obra-superpowers]] [[makecindy-cindy]] [[macro-inc-macro]] [[coollabsio-coolify]]
+[[donchitos-claude-code-game-studios]] [[expo-skills]] [[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

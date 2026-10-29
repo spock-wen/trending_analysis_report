@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[alchaincyf-huashu-design]] [[obra-superpowers]] [[hmjz100-linkswift]] [[macro-inc-macro]]
+[[hmjz100-linkswift]] [[snailsploit-claude-red]] [[agricidaniel-claude-seo]] [[nightly-labs-openbot]] [[nodejs-node]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

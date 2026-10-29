@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[gitroomhq-postiz-app]] [[makecindy-cindy]] [[affaan-m-ecc]] [[snailsploit-claude-red]] [[nvidia-skillspector]]
+[[snailsploit-claude-red]] [[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

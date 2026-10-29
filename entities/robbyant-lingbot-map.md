@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[snailsploit-claude-red]] [[nvidia-skillspector]]
+[[k-dense-ai-scientific-agent-skills]] [[snailsploit-claude-red]] [[agricidaniel-claude-seo]] [[affaan-m-ecc]] [[nvidia-skillspector]]
 
 **所属领域**: [[data]] [[science]]
 

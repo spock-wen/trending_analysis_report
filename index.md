@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-29 | 总页面：848
+> 最后更新：2026-10-30 | 总页面：851
 
 ## Entities
 
@@ -181,6 +181,7 @@
 - [[continuedev-continue|continue]] — open-source coding agent
 - [[coollabsio-coolify|coolify]] — An open-source, self-hostable PaaS alternative to Vercel, He...
 - [[copilotkit-copilotkit|CopilotKit]] — The Frontend Stack for Agents & Generative UI. React, Angula...
+- [[copilotkit-openbot|OpenBot]] — Open-source AI coworkers that each get a computer of their o... 🆕
 - [[coplaydev-unity-mcp|unity-mcp]] — Unity MCP acts as a bridge between AI assistants and your Un... 🆕
 - [[cordiverse-cordis|cordis]] — Meta-Framework of Spatiotemporal Composability 🔥
 - [[corebunch-instatic|Instatic]] — The open-source alternative to Webflow, Framer and WordPress... 🆕
@@ -227,6 +228,7 @@
 - [[docling-project-docling|docling]] — Get your documents ready for gen AI
 - [[docusealco-docuseal|docuseal]] — Open source DocuSign alternative. Create, fill, and sign dig...
 - [[dograh-hq-dograh|dograh]] — Open Source Voice Agent Platform
+- [[donchitos-claude-code-game-studios|Claude-Code-Game-Studios]] — Turn Claude Code into a full game dev studio — 49 AI agents,... 🆕
 - [[donnemartin-system-design-primer|system-design-primer]] — Learn how to design large-scale systems. Prep for the system...
 - [[dotnet-aspnetcore|aspnetcore]] — ASP.NET Core is a cross-platform .NET framework for building...
 - [[dotnet-skills|skills]] — Repository for skills to assist AI coding agents with .NET a...
@@ -239,7 +241,7 @@
 - [[ed1s0nz-cyberstrikeai|CyberStrikeAI]] — CyberStrikeAI is an AI-native security testing platform buil...
 - [[effect-ts-effect|effect]] — Build production-ready applications in TypeScript 🆕
 - [[elastic-elasticsearch|elasticsearch]] — Free and Open Source, Distributed, RESTful Search Engine
-- [[elayadesign-ai-design-skills|ai-design-skills]] — No description 🆕
+- [[elayadesign-ai-design-skills|ai-design-skills]] — No description 🔥
 - [[elder-plinius-g0dm0d3|G0DM0D3]] — LIBERATED AI CHAT
 - [[elder-plinius-obliteratus|OBLITERATUS]] — OBLITERATE THE CHAINS THAT BIND YOU
 - [[elebumm-redditvideomakerbot|RedditVideoMakerBot]] — Create Reddit Videos with just✨ one command ✨ 🆕
@@ -251,7 +253,7 @@
 - [[every-app-open-seo|open-seo]] — Open source alternative to Semrush and Ahrefs 🔥
 - [[everyinc-compound-engineering-plugin|compound-engineering-plugin]] — Official Compound Engineering plugin for Claude Code, Codex,...
 - [[evomap-evolver|evolver]] — The GEP-Powered Self-Evolution Engine for AI Agents. Genome ... 🆕
-- [[expo-skills|skills]] — A collection of AI agent skills for working with Expo projec... 🆕
+- [[expo-skills|skills]] — A collection of AI agent skills for working with Expo projec...
 - [[facebook-astryx|astryx]] — An open source design system that's fully customizable and a...
 - [[fareedkhan-dev-train-llm-from-scratch|train-llm-from-scratch]] — A straightforward method for training your LLM, from downloa...
 - [[fastapi-fastapi|fastapi]] — FastAPI framework, high performance, easy to learn, fast to ...
@@ -338,7 +340,7 @@
 - [[higgsfield-ai-higgsfield|higgsfield]] — Fault-tolerant, highly scalable GPU orchestration, and a mac... 🆕
 - [[hkuds-ai-trader|AI-Trader]] — "AI-Trader: 100% Fully-Automated Agent-Native Trading"
 - [[hkuds-cli-anything|CLI-Anything]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:... 🔥
-- [[hkuds-deeptutor|DeepTutor]] — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor... 🆕
+- [[hkuds-deeptutor|DeepTutor]] — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor... 🔥
 - [[hkuds-lightrag|LightRAG]] — [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented G...
 - [[hkuds-rag-anything|RAG-Anything]] — "RAG-Anything: All-in-One RAG Framework" 🆕
 - [[hkuds-vibe-trading|Vibe-Trading]] — "Vibe-Trading: Your Personal Trading Agent" 🔥
@@ -507,6 +509,7 @@
 - [[mihail911-modern-software-dev-assignments|modern-software-dev-assignments]] — Assignments for CS146S: The Modern Software Dev (Stanford Un...
 - [[mikeroyal-self-hosting-guide|Self-Hosting-Guide]] — Self-Hosting Guide. Learn all about locally hosting (on prem...
 - [[mikumifa-bilitickerbuy|biliTickerBuy]] — b站会员购购票辅助工具
+- [[milind-soni-openmausbot|OpenMausBot]] — Open-source Grok Bot alternative with a virtual machine that... 🆕
 - [[millionco-react-doctor|react-doctor]] — Your agent writes bad React. This catches it 🔥
 - [[mksglu-context-mode|context-mode]] — Context window optimization for AI coding agents. Sandboxes ... 🔥
 - [[mlabonne-llm-course|llm-course]] — Course to get into Large Language Models (LLMs) with roadmap...
@@ -557,7 +560,7 @@
 - [[nvlabs-sana|Sana]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
 - [[nvm-sh-nvm|nvm]] — Node Version Manager - POSIX-compliant bash script to manage...
 - [[oblien-openship|openship]] — Self-hosted deployment platform
-- [[obra-superpowers|superpowers]] — An agentic skills framework & software development methodolo... 🆕
+- [[obra-superpowers|superpowers]] — An agentic skills framework & software development methodolo... 🔥
 - [[ocornut-imgui|imgui]] — Dear ImGui: Bloat-free Graphical User interface for C++ with...
 - [[odoo-odoo|odoo]] — Odoo. Open Source Apps To Grow Your Business.
 - [[ogulcancelik-herdr|herdr]] — agent multiplexer that lives in your terminal. 🔥
@@ -739,7 +742,7 @@
 - [[tester-army-e2e|e2e]] — Next generation e2e testing framework for web and mobile app... 🔥
 - [[the-swarm-corporation-autohedge|AutoHedge]] — Build your autonomous hedge fund in minutes. AutoHedge harne... 🔥
 - [[thecraighewitt-seomachine|seomachine]] — A specialized Claude Code workspace for creating long-form, ... 🔥
-- [[thedotmack-claude-mem|claude-mem]] — Persistent Context Across Sessions for Every Agent – Capture... 🔥
+- [[thedotmack-claude-mem|claude-mem]] — Persistent Context Across Sessions for Every Agent – Capture...
 - [[thu-maic-openmaic|OpenMAIC]] — Open Multi-Agent Interactive Classroom — Get an immersive, m...
 - [[thunderbird-thunderbolt|thunderbolt]] — AI You Control: Choose your models. Own your data. Eliminate...
 - [[tile-ai-tilelang|tilelang]] — Domain-specific language designed to streamline the developm...
@@ -749,7 +752,7 @@
 - [[tnt-likely-panwatch|PanWatch]] — 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A...
 - [[tobi-qmd|qmd]] — mini cli search engine for your docs, knowledge bases, meeti... 🆕
 - [[togatoga-karukan|karukan]] — Japanese Input Method System for Linux, macOS, Neural Kana-K...
-- [[togg53192-cmd-jailbreaks|jailbreaks]] — LIST OF ALL MY JAILBREAKS 🆕
+- [[togg53192-cmd-jailbreaks|jailbreaks]] — LIST OF ALL MY JAILBREAKS 🔥
 - [[tokio-rs-topcoat|topcoat]] — A batteries-included framework for building web apps
 - [[ton-blockchain-acton|acton]] — Toolchain for TON smart contract development and beyond
 - [[tonhowtf-omniget|omniget]] — Download Udemy and Hotmart courses, YouTube videos, music an...
@@ -810,7 +813,7 @@
 - [[x1xhlol-system-prompts-and-models-of-ai-tools|system-prompts-and-models-of-ai-tools]] — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cu...
 - [[xbtlin-ai-berkshire|ai-berkshire]] — AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师... 🔥
 - [[xerj-org-xerj|xerj]] — XERJ is the new way for AI to search data. Its autoindex cap... 🔥
-- [[xiaolai-the-craft-of-selfteaching|the-craft-of-selfteaching]] — One has no future if one couldn't teach themself. 🆕
+- [[xiaolai-the-craft-of-selfteaching|the-craft-of-selfteaching]] — One has no future if one couldn't teach themself.
 - [[xtool-org-xtool|xtool]] — Cross-platform Xcode replacement. Build and deploy iOS apps ... 🆕
 - [[yairm210-unciv|Unciv]] — Open-source Android/Desktop remake of Civ V
 - [[yeachan-heo-oh-my-codex|oh-my-codex]] — OmX - Oh My codeX: Your codex is not alone. Add hooks, agent...

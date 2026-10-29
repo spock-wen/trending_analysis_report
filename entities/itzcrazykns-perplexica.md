@@ -34,7 +34,7 @@ Perplexica is an AI-powered answering engine.
 
 ## 相关项目
 
-[[gitroomhq-postiz-app]] [[agricidaniel-claude-seo]] [[obra-superpowers]] [[makecindy-cindy]] [[macro-inc-macro]]
+[[agricidaniel-claude-seo]] [[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

@@ -35,7 +35,7 @@ mini cli search engine for your docs, knowledge bases, meeting notes, whatever. 
 
 ## 相关项目
 
-[[gitroomhq-postiz-app]] [[obra-superpowers]] [[makecindy-cindy]] [[coollabsio-coolify]] [[expo-skills]]
+[[donchitos-claude-code-game-studios]] [[expo-skills]] [[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]]
 
 **所属领域**: [[cli]]
 

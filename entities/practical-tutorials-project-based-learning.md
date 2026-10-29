@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[tauricresearch-tradingagents]] [[xiaolai-the-craft-of-selfteaching]] [[fastapi-fastapi]] [[ruvnet-ruflo]]
+[[fastapi-fastapi]] [[mlabonne-llm-course]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[education]]
 

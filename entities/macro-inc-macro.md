@@ -37,7 +37,7 @@ Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[obra-superpowers]] [[pollen-robotics-microduck]] [[pbakaus-impeccable]] [[nutlope-hallmark]]
+[[thedotmack-claude-mem]] [[obra-superpowers]] [[pbakaus-impeccable]] [[ruvnet-ruview]] [[jetbrains-thinkrail]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[obra-superpowers]] [[abue-ammar-tinycast]] [[xtool-org-xtool]] [[coollabsio-coolify]] [[expo-skills]]
+[[xtool-org-xtool]] [[manaflow-ai-cmux]] [[donchitos-claude-code-game-studios]] [[expo-skills]] [[abue-ammar-tinycast]]
 
 **所属领域**: [[cli]]
 

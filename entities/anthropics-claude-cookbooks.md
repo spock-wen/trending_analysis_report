@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[obra-superpowers]] [[microsoft-generative-ai-for-beginners]] [[macro-inc-macro]] [[xiaolai-the-craft-of-selfteaching]]
+[[higgsfield-ai-higgsfield]] [[thedotmack-claude-mem]] [[lyogavin-airllm]] [[obra-superpowers]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[gitroomhq-postiz-app]] [[alchaincyf-huashu-design]] [[agricidaniel-claude-seo]] [[makecindy-cindy]] [[snailsploit-claude-red]]
+[[snailsploit-claude-red]] [[agricidaniel-claude-seo]] [[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]]
 
 **所属领域**: [[web]] [[data]]
 

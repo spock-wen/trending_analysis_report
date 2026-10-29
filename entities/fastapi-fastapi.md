@@ -34,7 +34,7 @@ FastAPI framework, high performance, easy to learn, fast to code, ready for prod
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[tauricresearch-tradingagents]] [[xiaolai-the-craft-of-selfteaching]] [[ruvnet-ruflo]] [[hkuds-deeptutor]]
+[[mlabonne-llm-course]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[tauricresearch-tradingagents]] [[hkuds-deeptutor]]
 
 **所属领域**: [[education]]
 

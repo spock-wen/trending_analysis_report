@@ -37,7 +37,7 @@ Bash is all you need - A nano claude code–like 「agent harness」, built from
 
 ## 相关项目
 
-[[gitroomhq-postiz-app]] [[obra-superpowers]] [[makecindy-cindy]] [[macro-inc-macro]] [[xiaolai-the-craft-of-selfteaching]]
+[[fastapi-fastapi]] [[mlabonne-llm-course]] [[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

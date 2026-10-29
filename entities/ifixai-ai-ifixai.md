@@ -34,7 +34,7 @@ Independent Auditing of AI Agents. Run by human or the agent itself, to answer t
 
 ## 相关项目
 
-[[obra-superpowers]] [[macro-inc-macro]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]] [[pbakaus-impeccable]]
+[[thedotmack-claude-mem]] [[obra-superpowers]] [[pbakaus-impeccable]] [[nvidia-skillspector]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]]
 

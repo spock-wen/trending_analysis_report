@@ -38,5 +38,5 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[hkuds-deeptutor]] [[panniantong-agent-reach]] [[tauricresearch-tradingagents]]
+[[tauricresearch-tradingagents]] [[panniantong-agent-reach]] [[hkuds-deeptutor]] [[nvidia-skillspector]]
 

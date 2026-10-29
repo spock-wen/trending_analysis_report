@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[affaan-m-ecc]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[vxcontrol-pentagi]]
+[[xtool-org-xtool]] [[alibaba-open-code-review]] [[snailsploit-claude-red]] [[strelov1-freehire]] [[affaan-m-ecc]]
 
 **所属领域**: [[devops]] [[security]]
 

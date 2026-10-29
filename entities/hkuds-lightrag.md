@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[tauricresearch-tradingagents]] [[coollabsio-coolify]] [[openbmb-voxcpm]] [[comfy-org-comfyui]]
+[[nvidia-skillspector]] [[panniantong-agent-reach]] [[tauricresearch-tradingagents]] [[hkuds-deeptutor]] [[ntdevlabs-tiny11builder]]
 
 **所属领域**: [[image-gen]]
 

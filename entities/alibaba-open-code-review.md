@@ -38,7 +38,7 @@ Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[obra-superpowers]] [[macro-inc-macro]] [[snailsploit-claude-red]] [[nvidia-skillspector]]
+[[snailsploit-claude-red]] [[agricidaniel-claude-seo]] [[thedotmack-claude-mem]] [[strelov1-freehire]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

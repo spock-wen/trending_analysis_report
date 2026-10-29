@@ -38,7 +38,7 @@ agent multiplexer that lives in your terminal.
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[obra-superpowers]] [[macro-inc-macro]] [[coollabsio-coolify]] [[pollen-robotics-microduck]]
+[[donchitos-claude-code-game-studios]] [[expo-skills]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

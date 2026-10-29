@@ -38,7 +38,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[obra-superpowers]] [[macro-inc-macro]] [[affaan-m-ecc]] [[snailsploit-claude-red]] [[nvidia-skillspector]]
+[[alibaba-open-code-review]] [[snailsploit-claude-red]] [[thedotmack-claude-mem]] [[strelov1-freehire]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

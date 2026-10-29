@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[alishahryar1-free-claude-code]] [[obra-superpowers]] [[macro-inc-macro]] [[boykopovar-anyps5]]
+[[boykopovar-anyps5]] [[thedotmack-claude-mem]] [[openbmb-voxcpm]] [[obra-superpowers]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

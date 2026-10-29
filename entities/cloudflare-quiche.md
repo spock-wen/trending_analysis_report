@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[alchaincyf-huashu-design]] [[macro-inc-macro]] [[pollen-robotics-microduck]] [[pbakaus-impeccable]]
+[[nightly-labs-openbot]] [[pbakaus-impeccable]] [[macro-inc-macro]] [[ruvnet-ruview]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]]
 

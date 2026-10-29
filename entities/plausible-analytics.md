@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[agricidaniel-claude-seo]] [[alchaincyf-huashu-design]] [[affaan-m-ecc]] [[snailsploit-claude-red]]
+[[snailsploit-claude-red]] [[teslamate-org-teslamate]] [[nightly-labs-openbot]] [[agentjido-jido]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

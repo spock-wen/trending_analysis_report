@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[obra-superpowers]] [[macro-inc-macro]] [[affaan-m-ecc]] [[snailsploit-claude-red]] [[nvidia-skillspector]]
+[[donchitos-claude-code-game-studios]] [[expo-skills]] [[snailsploit-claude-red]] [[thedotmack-claude-mem]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

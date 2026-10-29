@@ -35,7 +35,7 @@ An Open Source Machine Learning Framework for Everyone
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[boykopovar-anyps5]] [[microsoft-bitnet]] [[fastapi-fastapi]] [[ruvnet-ruflo]]
+[[fastapi-fastapi]] [[mlabonne-llm-course]] [[boykopovar-anyps5]] [[xiaolai-the-craft-of-selfteaching]] [[m-abozaid-esp32-c3-adblock]]
 
 **所属领域**: [[education]]
 

@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[gitroomhq-postiz-app]] [[agricidaniel-claude-seo]] [[obra-superpowers]] [[makecindy-cindy]]
+[[xtool-org-xtool]] [[snailsploit-claude-red]] [[agricidaniel-claude-seo]] [[nightly-labs-openbot]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

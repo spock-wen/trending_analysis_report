@@ -34,5 +34,5 @@ Free and Open Source Machine Translation API. Self-hosted, offline capable and e
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[hkuds-deeptutor]] [[panniantong-agent-reach]] [[tauricresearch-tradingagents]]
+[[tauricresearch-tradingagents]] [[panniantong-agent-reach]] [[hkuds-deeptutor]] [[nvidia-skillspector]]
 

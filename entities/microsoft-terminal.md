@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[obra-superpowers]] [[boykopovar-anyps5]] [[microsoft-bitnet]] [[coollabsio-coolify]] [[tensorflow-tensorflow]]
+[[donchitos-claude-code-game-studios]] [[expo-skills]] [[boykopovar-anyps5]] [[obra-superpowers]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]]
 

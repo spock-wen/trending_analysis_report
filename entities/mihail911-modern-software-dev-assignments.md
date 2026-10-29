@@ -34,7 +34,7 @@ Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2
 
 ## 相关项目
 
-[[obra-superpowers]] [[macro-inc-macro]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]] [[pbakaus-impeccable]]
+[[thedotmack-claude-mem]] [[obra-superpowers]] [[pbakaus-impeccable]] [[nvidia-skillspector]] [[panniantong-agent-reach]]
 
 **所属领域**: [[ai-agent]]
 

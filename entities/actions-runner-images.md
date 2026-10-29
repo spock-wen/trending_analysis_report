@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[obra-superpowers]] [[bwya77-vscode-dark-islands]] [[panniantong-agent-reach]] [[coollabsio-coolify]] [[openbmb-voxcpm]]
+[[bwya77-vscode-dark-islands]] [[donchitos-claude-code-game-studios]] [[expo-skills]] [[obra-superpowers]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

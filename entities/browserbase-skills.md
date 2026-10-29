@@ -38,7 +38,7 @@ Claude Agent SDK with a web browsing tool
 
 ## 相关项目
 
-[[alchaincyf-huashu-design]] [[obra-superpowers]] [[hmjz100-linkswift]] [[macro-inc-macro]] [[affaan-m-ecc]]
+[[hmjz100-linkswift]] [[nightly-labs-openbot]] [[nodejs-node]] [[thedotmack-claude-mem]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

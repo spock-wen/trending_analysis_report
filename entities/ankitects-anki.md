@@ -35,5 +35,5 @@ Anki is a smart spaced repetition flashcard program
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[pollen-robotics-microduck]] [[macro-inc-macro]] [[pbakaus-impeccable]]
+[[macro-inc-macro]] [[pollen-robotics-microduck]] [[pbakaus-impeccable]] [[ruvnet-ruview]]
 

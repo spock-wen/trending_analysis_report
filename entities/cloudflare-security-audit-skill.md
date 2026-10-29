@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[obra-superpowers]] [[hmjz100-linkswift]] [[macro-inc-macro]] [[affaan-m-ecc]] [[snailsploit-claude-red]]
+[[hmjz100-linkswift]] [[snailsploit-claude-red]] [[nodejs-node]] [[thedotmack-claude-mem]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

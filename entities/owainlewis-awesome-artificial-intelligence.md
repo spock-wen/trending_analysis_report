@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[macro-inc-macro]] [[affaan-m-ecc]] [[robbyant-lingbot-map]]
+[[k-dense-ai-scientific-agent-skills]] [[fastapi-fastapi]] [[mlabonne-llm-course]] [[thedotmack-claude-mem]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

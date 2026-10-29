@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[agricidaniel-claude-seo]] [[obra-superpowers]] [[macro-inc-macro]] [[snailsploit-claude-red]]
+[[donchitos-claude-code-game-studios]] [[expo-skills]] [[snailsploit-claude-red]] [[agricidaniel-claude-seo]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

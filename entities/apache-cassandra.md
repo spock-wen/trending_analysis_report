@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[agricidaniel-claude-seo]] [[google-guava]] [[snailsploit-claude-red]] [[nvidia-skillspector]]
+[[xtool-org-xtool]] [[snailsploit-claude-red]] [[agricidaniel-claude-seo]] [[checkstyle-checkstyle]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[data]] [[devops]]
 

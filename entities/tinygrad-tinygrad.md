@@ -34,5 +34,5 @@ You like pytorch? You like micrograd? You love tinygrad! ❤️
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[hkuds-deeptutor]] [[panniantong-agent-reach]] [[tauricresearch-tradingagents]]
+[[tauricresearch-tradingagents]] [[panniantong-agent-reach]] [[hkuds-deeptutor]] [[nvidia-skillspector]]
 

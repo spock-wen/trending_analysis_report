@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[obra-superpowers]] [[plausible-analytics]] [[macro-inc-macro]] [[snailsploit-claude-red]]
+[[snailsploit-claude-red]] [[agricidaniel-claude-seo]] [[agentjido-jido]] [[thedotmack-claude-mem]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[alchaincyf-huashu-design]] [[obra-superpowers]] [[coollabsio-coolify]] [[ripienaar-free-for-dev]]
+[[donchitos-claude-code-game-studios]] [[expo-skills]] [[nightly-labs-openbot]] [[obra-superpowers]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[obra-superpowers]] [[hmjz100-linkswift]] [[k-dense-ai-scientific-agent-skills]] [[macro-inc-macro]] [[robbyant-lingbot-map]]
+[[k-dense-ai-scientific-agent-skills]] [[hmjz100-linkswift]] [[snailsploit-claude-red]] [[nodejs-node]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

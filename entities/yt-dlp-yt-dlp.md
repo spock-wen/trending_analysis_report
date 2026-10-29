@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[alishahryar1-free-claude-code]] [[obra-superpowers]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]]
+[[donchitos-claude-code-game-studios]] [[expo-skills]] [[obra-superpowers]] [[nvidia-skillspector]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[cli]] [[audio]]
 

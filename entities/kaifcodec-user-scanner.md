@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[macro-inc-macro]] [[affaan-m-ecc]]
+[[k-dense-ai-scientific-agent-skills]] [[snailsploit-claude-red]] [[agricidaniel-claude-seo]] [[thedotmack-claude-mem]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

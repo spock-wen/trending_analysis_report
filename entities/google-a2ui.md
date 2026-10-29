@@ -34,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[jetbrains-thinkrail]] [[gitroomhq-postiz-app]] [[nightly-labs-openbot]] [[makecindy-cindy]]
+[[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[jetbrains-thinkrail]]
 

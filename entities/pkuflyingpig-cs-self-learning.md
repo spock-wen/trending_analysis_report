@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[alchaincyf-huashu-design]] [[xiaolai-the-craft-of-selfteaching]] [[averygan-reclip]] [[fastapi-fastapi]]
+[[fastapi-fastapi]] [[mlabonne-llm-course]] [[nightly-labs-openbot]] [[cathrynlavery-diagram-design]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]] [[education]]
 

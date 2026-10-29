@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[affaan-m-ecc]] [[robbyant-lingbot-map]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]]
+[[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]] [[affaan-m-ecc]] [[nvidia-skillspector]] [[panniantong-agent-reach]]
 
 **所属领域**: [[science]]
 

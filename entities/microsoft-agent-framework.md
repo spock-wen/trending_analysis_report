@@ -34,7 +34,7 @@ A framework for building, orchestrating and deploying AI agents and multi-agent 
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[obra-superpowers]] [[macro-inc-macro]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]]
+[[xtool-org-xtool]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[pbakaus-impeccable]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

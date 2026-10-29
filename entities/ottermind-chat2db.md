@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[obra-superpowers]] [[google-guava]] [[macro-inc-macro]] [[panniantong-agent-reach]]
+[[donchitos-claude-code-game-studios]] [[expo-skills]] [[snailsploit-claude-red]] [[agricidaniel-claude-seo]] [[checkstyle-checkstyle]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

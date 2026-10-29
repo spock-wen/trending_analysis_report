@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[alchaincyf-huashu-design]] [[obra-superpowers]] [[coollabsio-coolify]] [[hkuds-deeptutor]] [[expo-skills]]
+[[donchitos-claude-code-game-studios]] [[expo-skills]] [[nightly-labs-openbot]] [[obra-superpowers]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -34,7 +34,7 @@ VSCode theme based off the easemate IDE and Jetbrains islands theme
 
 ## 相关项目
 
-[[obra-superpowers]] [[macro-inc-macro]] [[panniantong-agent-reach]] [[coollabsio-coolify]] [[pbakaus-impeccable]]
+[[donchitos-claude-code-game-studios]] [[expo-skills]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

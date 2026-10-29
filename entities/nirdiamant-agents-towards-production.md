@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[agricidaniel-claude-seo]] [[lyogavin-airllm]] [[obra-superpowers]] [[microsoft-generative-ai-for-beginners]]
+[[xtool-org-xtool]] [[higgsfield-ai-higgsfield]] [[fastapi-fastapi]] [[mlabonne-llm-course]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

@@ -34,7 +34,7 @@ This open-source curriculum introduces the fundamentals of Model Context Protoco
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[obra-superpowers]] [[microsoft-generative-ai-for-beginners]] [[macro-inc-macro]] [[xiaolai-the-craft-of-selfteaching]]
+[[higgsfield-ai-higgsfield]] [[fastapi-fastapi]] [[mlabonne-llm-course]] [[thedotmack-claude-mem]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

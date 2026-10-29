@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[obra-superpowers]] [[macro-inc-macro]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]] [[xiaolai-the-craft-of-selfteaching]]
+[[fastapi-fastapi]] [[mlabonne-llm-course]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

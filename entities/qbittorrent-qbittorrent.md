@@ -34,7 +34,7 @@ qBittorrent BitTorrent client
 
 ## 相关项目
 
-[[obra-superpowers]] [[boykopovar-anyps5]] [[microsoft-bitnet]] [[coollabsio-coolify]] [[tensorflow-tensorflow]]
+[[donchitos-claude-code-game-studios]] [[expo-skills]] [[boykopovar-anyps5]] [[obra-superpowers]] [[panniantong-agent-reach]]
 
 **所属领域**: [[cli]]
 

@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[gitroomhq-postiz-app]] [[makecindy-cindy]] [[coollabsio-coolify]] [[xtool-org-xtool]]
+[[xtool-org-xtool]] [[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[ruvnet-ruview]]
 
 **所属领域**: [[devops]]
 

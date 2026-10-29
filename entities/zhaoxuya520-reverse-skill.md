@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[bwya77-vscode-dark-islands]] [[macro-inc-macro]] [[affaan-m-ecc]]
+[[bwya77-vscode-dark-islands]] [[donchitos-claude-code-game-studios]] [[k-dense-ai-scientific-agent-skills]] [[expo-skills]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

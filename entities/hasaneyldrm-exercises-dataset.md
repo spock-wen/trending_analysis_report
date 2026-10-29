@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[cathrynlavery-diagram-design]] [[alchaincyf-huashu-design]] [[obra-superpowers]] [[macro-inc-macro]]
+[[snailsploit-claude-red]] [[agricidaniel-claude-seo]] [[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

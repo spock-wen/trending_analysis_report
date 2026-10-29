@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[obra-superpowers]] [[macro-inc-macro]] [[pollen-robotics-microduck]] [[pbakaus-impeccable]]
+[[thedotmack-claude-mem]] [[obra-superpowers]] [[pbakaus-impeccable]] [[macro-inc-macro]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]]
 

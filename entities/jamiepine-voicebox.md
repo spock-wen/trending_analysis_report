@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[gitroomhq-postiz-app]] [[debpalash-voicestudio]] [[obra-superpowers]] [[alishahryar1-free-claude-code]] [[makecindy-cindy]]
+[[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[obra-superpowers]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

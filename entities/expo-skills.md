@@ -34,7 +34,7 @@ A collection of AI agent skills for working with Expo projects and Expo Applicat
 
 ## 相关项目
 
-[[obra-superpowers]] [[macro-inc-macro]] [[nvm-sh-nvm]] [[coollabsio-coolify]] [[pbakaus-impeccable]]
+[[donchitos-claude-code-game-studios]] [[msitarzewski-agency-agents]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

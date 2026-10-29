@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[gitroomhq-postiz-app]] [[alchaincyf-huashu-design]] [[makecindy-cindy]] [[hkuds-deeptutor]] [[jetbrains-thinkrail]]
+[[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[nutlope-hallmark]] [[hkuds-deeptutor]]
 
 **所属领域**: [[web]]
 

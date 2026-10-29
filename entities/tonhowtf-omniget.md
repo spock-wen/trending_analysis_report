@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[mlabonne-llm-course]] [[debpalash-voicestudio]] [[obra-superpowers]] [[alishahryar1-free-claude-code]]
+[[donchitos-claude-code-game-studios]] [[expo-skills]] [[fastapi-fastapi]] [[mlabonne-llm-course]] [[obra-superpowers]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

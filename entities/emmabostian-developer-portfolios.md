@@ -34,5 +34,5 @@ A list of developer portfolios for your inspiration
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[hkuds-deeptutor]] [[panniantong-agent-reach]] [[tauricresearch-tradingagents]]
+[[tauricresearch-tradingagents]] [[panniantong-agent-reach]] [[hkuds-deeptutor]] [[nvidia-skillspector]]
 

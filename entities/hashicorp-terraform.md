@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[obra-superpowers]] [[macro-inc-macro]] [[vxcontrol-pentagi]] [[coollabsio-coolify]]
+[[xtool-org-xtool]] [[alibaba-open-code-review]] [[thedotmack-claude-mem]] [[strelov1-freehire]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

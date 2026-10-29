@@ -1,7 +1,7 @@
 ---
 title: "education"
 created: 2026-05-22
-updated: 2026-10-29
+updated: 2026-10-30
 type: concept
 tags: [education]
 confidence: medium
@@ -9,7 +9,7 @@ confidence: medium
 
 # education
 
-## 领域项目（共 37 个，今日上榜 1 个）
+## 领域项目（共 37 个，今日上榜 0 个）
 
 [[xiaolai-the-craft-of-selfteaching]] [[fastapi-fastapi]] [[ruvnet-ruflo]] [[mlabonne-llm-course]] [[huggingface-transformers]] [[tensorflow-tensorflow]] [[jamwithai-production-agentic-rag-course]] [[rohitg00-ai-engineering-from-scratch]] [[vectorize-io-hindsight]] [[cs341-illinois-coursebook]] [[nvidia-model-optimizer]] [[crosstalk-solutions-project-nomad]] [[higgsfield-ai-higgsfield]] [[tonhowtf-omniget]] [[thu-maic-openmaic]] [[radixark-miles]] [[kepano-obsidian-skills]] [[practical-tutorials-project-based-learning]] [[donnemartin-system-design-primer]] [[microsoft-generative-ai-for-beginners]] [[microsoft-ai-for-beginners]] [[paperswithbacktest-awesome-systematic-trading]] [[microsoft-ontology-playground]] [[pkuflyingpig-cs-self-learning]] [[byoungd-english-level-up-tips]] [[owainlewis-awesome-artificial-intelligence]] [[freecodecamp-freecodecamp]] [[mikeroyal-self-hosting-guide]] [[stefan-jansen-machine-learning-for-trading]] [[datatalksclub-data-engineering-zoomcamp]] [[lum1104-understand-anything]] [[microsoft-ai-agents-for-beginners]] [[nirdiamant-agents-towards-production]] [[datawhalechina-easy-vibe]] [[learningcircuit-local-deep-research]] [[shareai-lab-learn-claude-code]] [[microsoft-mcp-for-beginners]]
 
@@ -19,5 +19,5 @@ Python 11个, Jupyter Notebook 9个, TypeScript 7个, ? 4个, C++ 1个, TeX 1个
 
 ## 趋势观察
 
-37 个 education 领域项目被追踪，其中 1 个今日同时上榜，反映该领域持续活跃。
+37 个 education 领域项目被追踪，其中 0 个今日同时上榜，反映该领域持续活跃。
 

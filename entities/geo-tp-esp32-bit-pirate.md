@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[alchaincyf-huashu-design]] [[obra-superpowers]] [[boykopovar-anyps5]] [[microsoft-bitnet]] [[coollabsio-coolify]]
+[[donchitos-claude-code-game-studios]] [[expo-skills]] [[nightly-labs-openbot]] [[boykopovar-anyps5]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[cli]]
 

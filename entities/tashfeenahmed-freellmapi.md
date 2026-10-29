@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[gitroomhq-postiz-app]] [[obra-superpowers]] [[makecindy-cindy]] [[macro-inc-macro]] [[affaan-m-ecc]]
+[[snailsploit-claude-red]] [[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

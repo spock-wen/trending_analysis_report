@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[obra-superpowers]] [[vxcontrol-pentagi]] [[coollabsio-coolify]] [[juliusbrussee-caveman]] [[strelov1-freehire]]
+[[donchitos-claude-code-game-studios]] [[alibaba-open-code-review]] [[expo-skills]] [[strelov1-freehire]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

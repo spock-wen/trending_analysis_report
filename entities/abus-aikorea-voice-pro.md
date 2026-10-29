@@ -34,7 +34,7 @@ Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) a
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[alchaincyf-huashu-design]] [[obra-superpowers]] [[alishahryar1-free-claude-code]] [[macro-inc-macro]]
+[[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[pbakaus-impeccable]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

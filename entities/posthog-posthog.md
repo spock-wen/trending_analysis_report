@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[agricidaniel-claude-seo]] [[alchaincyf-huashu-design]] [[obra-superpowers]] [[macro-inc-macro]]
+[[xtool-org-xtool]] [[snailsploit-claude-red]] [[agricidaniel-claude-seo]] [[nightly-labs-openbot]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

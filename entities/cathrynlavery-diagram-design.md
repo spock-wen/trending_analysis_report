@@ -38,7 +38,7 @@ Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory
 
 ## 相关项目
 
-[[alchaincyf-huashu-design]] [[obra-superpowers]] [[macro-inc-macro]] [[averygan-reclip]] [[pbakaus-impeccable]]
+[[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[pbakaus-impeccable]] [[nutlope-hallmark]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

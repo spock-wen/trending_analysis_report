@@ -1,20 +1,20 @@
 ---
 title: "pbakaus/impeccable"
 created: 2026-03-10
-updated: 2026-10-29
-last_active: 2026-10-29
+updated: 2026-10-30
+last_active: 2026-10-30
 type: tool
 tags: [rust, ai-agent, rising]
-sources: [raw/trending/2026-10-29.json]
+sources: [raw/trending/2026-10-30.json]
 confidence: high
-trending_count_daily: 16
+trending_count_daily: 17
 trending_count_weekly: 1
 trending_count_monthly: 0
-consecutive_days: 5
+consecutive_days: 6
 first_trending: 2026-03-10
-last_trending: 2026-10-29
+last_trending: 2026-10-30
 peak_rank: 2
-total_stars: 92518
+total_stars: 95209
 language: "Rust"
 contested: true
 ---
@@ -24,22 +24,22 @@ contested: true
 The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 
 - 语言: Rust
-- 上榜次数: 16 次
-- 连续上榜: 5 天
+- 上榜次数: 17 次
+- 连续上榜: 6 天
 - 最高排名: #2
 - 链接: [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 
 ## 上榜历史
 
+  - 2026-10-30: #3, +2881⭐
   - 2026-10-29: #7, +1471⭐
   - 2026-10-28: #5, +1458⭐
   - 2026-10-27: #6, +1551⭐
   - 2026-10-26: #4, +1113⭐
-  - 2026-10-25: #6, +733⭐
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[obra-superpowers]] [[macro-inc-macro]] [[pollen-robotics-microduck]] [[nutlope-hallmark]]
+[[thedotmack-claude-mem]] [[obra-superpowers]] [[macro-inc-macro]] [[ruvnet-ruview]] [[jetbrains-thinkrail]]
 
 **所属领域**: [[ai-agent]]
 

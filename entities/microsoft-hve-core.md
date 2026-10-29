@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[obra-superpowers]] [[bwya77-vscode-dark-islands]] [[macro-inc-macro]] [[panniantong-agent-reach]] [[coollabsio-coolify]]
+[[bwya77-vscode-dark-islands]] [[donchitos-claude-code-game-studios]] [[expo-skills]] [[thedotmack-claude-mem]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

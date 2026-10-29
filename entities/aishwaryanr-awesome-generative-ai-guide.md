@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[alchaincyf-huashu-design]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[macro-inc-macro]]
+[[k-dense-ai-scientific-agent-skills]] [[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[robbyant-lingbot-map]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

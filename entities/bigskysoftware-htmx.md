@@ -34,7 +34,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[alchaincyf-huashu-design]] [[hmjz100-linkswift]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[hkuds-deeptutor]]
+[[hmjz100-linkswift]] [[nightly-labs-openbot]] [[nodejs-node]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[web]]
 

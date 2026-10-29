@@ -35,7 +35,7 @@ A light-weight and powerful meta-prompting, context engineering and spec-driven 
 
 ## 相关项目
 
-[[obra-superpowers]] [[hmjz100-linkswift]] [[macro-inc-macro]] [[affaan-m-ecc]] [[pbakaus-impeccable]]
+[[hmjz100-linkswift]] [[nodejs-node]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

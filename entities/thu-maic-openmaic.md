@@ -38,7 +38,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[gitroomhq-postiz-app]] [[mlabonne-llm-course]] [[obra-superpowers]] [[makecindy-cindy]] [[macro-inc-macro]]
+[[donchitos-claude-code-game-studios]] [[expo-skills]] [[fastapi-fastapi]] [[mlabonne-llm-course]] [[nightly-labs-openbot]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

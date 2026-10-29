@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[alchaincyf-huashu-design]] [[obra-superpowers]] [[macro-inc-macro]] [[coollabsio-coolify]]
+[[donchitos-claude-code-game-studios]] [[expo-skills]] [[nightly-labs-openbot]] [[obra-superpowers]] [[pbakaus-impeccable]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -37,7 +37,7 @@ Protocol Buffers - Google's data interchange format
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[snailsploit-claude-red]] [[nvidia-skillspector]] [[boykopovar-anyps5]] [[microsoft-bitnet]]
+[[snailsploit-claude-red]] [[agricidaniel-claude-seo]] [[boykopovar-anyps5]] [[nvidia-skillspector]] [[m-abozaid-esp32-c3-adblock]]
 
 **所属领域**: [[data]]
 

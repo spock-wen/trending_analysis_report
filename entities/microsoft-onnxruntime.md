@@ -35,7 +35,7 @@ ONNX Runtime: cross-platform, high performance ML inferencing and training accel
 
 ## 相关项目
 
-[[obra-superpowers]] [[macro-inc-macro]] [[boykopovar-anyps5]] [[microsoft-bitnet]] [[pbakaus-impeccable]]
+[[boykopovar-anyps5]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[pbakaus-impeccable]] [[m-abozaid-esp32-c3-adblock]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[obra-superpowers]] [[macro-inc-macro]] [[nvm-sh-nvm]] [[coollabsio-coolify]] [[pbakaus-impeccable]]
+[[donchitos-claude-code-game-studios]] [[expo-skills]] [[msitarzewski-agency-agents]] [[thedotmack-claude-mem]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

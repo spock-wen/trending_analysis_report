@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[alchaincyf-huashu-design]] [[nvidia-skillspector]] [[tauricresearch-tradingagents]] [[coollabsio-coolify]] [[openbmb-voxcpm]]
+[[nightly-labs-openbot]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[nutlope-hallmark]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[web]] [[image-gen]]
 

@@ -36,7 +36,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[alchaincyf-huashu-design]] [[boykopovar-anyps5]] [[microsoft-bitnet]] [[tensorflow-tensorflow]] [[hkuds-deeptutor]]
+[[nightly-labs-openbot]] [[boykopovar-anyps5]] [[nutlope-hallmark]] [[hkuds-deeptutor]] [[copilotkit-openbot]]
 
 **所属领域**: [[web]]
 

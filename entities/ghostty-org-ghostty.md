@@ -34,7 +34,7 @@ language: "Zig"
 
 ## 相关项目
 
-[[obra-superpowers]] [[coollabsio-coolify]] [[lightpanda-io-browser]] [[expo-skills]] [[panniantong-agent-reach]]
+[[donchitos-claude-code-game-studios]] [[expo-skills]] [[obra-superpowers]] [[panniantong-agent-reach]] [[lightpanda-io-browser]]
 
 **所属领域**: [[cli]]
 

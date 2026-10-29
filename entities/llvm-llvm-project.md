@@ -35,7 +35,7 @@ The LLVM Project is a collection of modular and reusable compiler and toolchain 
 
 ## 相关项目
 
-[[nutlope-hallmark]] [[obra-superpowers]] [[macro-inc-macro]] [[pbakaus-impeccable]]
+[[thedotmack-claude-mem]] [[obra-superpowers]] [[pbakaus-impeccable]] [[jetbrains-thinkrail]]
 
 **所属领域**: [[ai-agent]]
 

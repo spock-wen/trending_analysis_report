@@ -37,7 +37,7 @@ A Claude Code plugin that shows what's happening - context usage, active tools, 
 
 ## 相关项目
 
-[[debpalash-voicestudio]] [[alishahryar1-free-claude-code]] [[obra-superpowers]] [[hmjz100-linkswift]] [[macro-inc-macro]]
+[[hmjz100-linkswift]] [[nodejs-node]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

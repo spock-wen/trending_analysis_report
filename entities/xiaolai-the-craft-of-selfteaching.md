@@ -34,7 +34,7 @@ One has no future if one couldn't teach themself.
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[obra-superpowers]] [[microsoft-generative-ai-for-beginners]] [[macro-inc-macro]] [[pbakaus-impeccable]]
+[[higgsfield-ai-higgsfield]] [[fastapi-fastapi]] [[mlabonne-llm-course]] [[thedotmack-claude-mem]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

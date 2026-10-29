@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[hmjz100-linkswift]] [[affaan-m-ecc]] [[snailsploit-claude-red]] [[nvidia-skillspector]]
+[[hmjz100-linkswift]] [[fastapi-fastapi]] [[snailsploit-claude-red]] [[agricidaniel-claude-seo]] [[mlabonne-llm-course]]
 
 **所属领域**: [[data]] [[education]]
 

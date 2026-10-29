@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[obra-superpowers]] [[nightly-labs-openbot]] [[alchaincyf-huashu-design]] [[macro-inc-macro]]
+[[embabel-embabel-agent]] [[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[android-skills]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

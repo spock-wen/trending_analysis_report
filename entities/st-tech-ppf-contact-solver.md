@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[expo-skills]] [[obra-superpowers]] [[nvidia-skillspector]] [[panniantong-agent-reach]]
+[[donchitos-claude-code-game-studios]] [[hkuds-deeptutor]] [[obra-superpowers]] [[tauricresearch-tradingagents]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

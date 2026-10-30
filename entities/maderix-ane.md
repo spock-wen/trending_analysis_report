@@ -34,7 +34,7 @@ Training neural networks on Apple Neural Engine via reverse-engineered private A
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[obra-superpowers]] [[pbakaus-impeccable]] [[jetbrains-thinkrail]]
+[[thedotmack-claude-mem]] [[obra-superpowers]] [[anthropics-skills]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ A vector index built on TurboQuant, written in Rust with Python bindings
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[obra-superpowers]] [[pbakaus-impeccable]] [[macro-inc-macro]] [[ruvnet-ruview]]
+[[pollen-robotics-microduck]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[mattpocock-skills]] [[macro-inc-macro]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[fastapi-fastapi]] [[mlabonne-llm-course]] [[robbyant-lingbot-map]] [[affaan-m-ecc]]
+[[xiaolai-the-craft-of-selfteaching]] [[hkuds-deeptutor]] [[affaan-m-ecc]] [[mlabonne-llm-course]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[education]] [[science]]
 

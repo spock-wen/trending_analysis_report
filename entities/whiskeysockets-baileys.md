@@ -34,7 +34,7 @@ Socket-based TS/JavaScript API for WhatsApp Web
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[nightly-labs-openbot]] [[nodejs-node]] [[thedotmack-claude-mem]] [[obra-superpowers]]
+[[hkuds-deeptutor]] [[hmjz100-linkswift]] [[thedotmack-claude-mem]] [[nodejs-node]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

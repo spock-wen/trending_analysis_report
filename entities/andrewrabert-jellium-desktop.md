@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[expo-skills]] [[obra-superpowers]] [[pbakaus-impeccable]] [[macro-inc-macro]]
+[[donchitos-claude-code-game-studios]] [[pollen-robotics-microduck]] [[obra-superpowers]] [[mattpocock-skills]] [[macro-inc-macro]]
 
 **所属领域**: [[cli]]
 

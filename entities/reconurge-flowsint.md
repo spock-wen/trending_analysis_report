@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[affaan-m-ecc]]
+[[thedotmack-claude-mem]] [[jetbrains-thinkrail]] [[cloudflare-security-audit-skill]] [[renhuai123-ziwei-doushu]] [[nvidia-skillspector]]
 
 **所属领域**: [[security]]
 

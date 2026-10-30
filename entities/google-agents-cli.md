@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[xtool-org-xtool]] [[expo-skills]] [[thedotmack-claude-mem]] [[obra-superpowers]]
+[[donchitos-claude-code-game-studios]] [[hkuds-deeptutor]] [[ruvnet-ruflo]] [[coollabsio-coolify]] [[xtool-org-xtool]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

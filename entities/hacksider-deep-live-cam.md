@@ -34,7 +34,7 @@ real time face swap and one-click video deepfake with only a single image
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[expo-skills]] [[obra-superpowers]] [[nvidia-skillspector]] [[panniantong-agent-reach]]
+[[donchitos-claude-code-game-studios]] [[hkuds-deeptutor]] [[coollabsio-coolify]] [[ntdevlabs-tiny11builder]] [[obra-superpowers]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

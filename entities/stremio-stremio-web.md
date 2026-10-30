@@ -35,7 +35,7 @@ Stremio - Freedom to Stream
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[nightly-labs-openbot]] [[nodejs-node]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]]
+[[hkuds-deeptutor]] [[hmjz100-linkswift]] [[nodejs-node]] [[cloudflare-security-audit-skill]] [[lightpanda-io-browser]]
 
 **所属领域**: [[web]]
 

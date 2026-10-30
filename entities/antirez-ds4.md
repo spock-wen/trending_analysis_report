@@ -36,5 +36,5 @@ DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 
 ## 相关项目
 
-[[php-php-src]] [[colbymchenry-codegraph]] [[epicgames-raddebugger]]
+[[epicgames-raddebugger]] [[php-php-src]] [[colbymchenry-codegraph]]
 

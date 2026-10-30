@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[snailsploit-claude-red]] [[nodejs-node]] [[thedotmack-claude-mem]] [[obra-superpowers]]
+[[hmjz100-linkswift]] [[thedotmack-claude-mem]] [[nodejs-node]] [[obra-superpowers]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

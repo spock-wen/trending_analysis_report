@@ -36,7 +36,7 @@ The context API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[nutlope-hallmark]] [[hkuds-deeptutor]]
+[[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[jetbrains-thinkrail]] [[lightpanda-io-browser]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[web]]
 

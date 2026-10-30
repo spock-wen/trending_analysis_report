@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[alibaba-open-code-review]] [[expo-skills]] [[strelov1-freehire]] [[obra-superpowers]]
+[[donchitos-claude-code-game-studios]] [[alibaba-open-code-review]] [[obra-superpowers]] [[strelov1-freehire]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[cli]]
 

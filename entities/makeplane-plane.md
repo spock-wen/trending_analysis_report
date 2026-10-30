@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[expo-skills]] [[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]]
+[[donchitos-claude-code-game-studios]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[jetbrains-thinkrail]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[cli]]
 

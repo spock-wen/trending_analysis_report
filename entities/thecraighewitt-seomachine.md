@@ -38,7 +38,7 @@ A specialized Claude Code workspace for creating long-form, SEO-optimized blog c
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[agricidaniel-claude-seo]] [[thedotmack-claude-mem]] [[robbyant-lingbot-map]] [[obra-superpowers]]
+[[agricidaniel-claude-seo]] [[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

@@ -34,7 +34,7 @@ Agent-driven research knowledge base. Agents collect, search, and synthesize web
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[robbyant-lingbot-map]] [[obra-superpowers]]
+[[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[lightpanda-io-browser]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

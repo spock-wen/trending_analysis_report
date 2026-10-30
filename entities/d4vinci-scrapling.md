@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nightly-labs-openbot]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[nutlope-hallmark]] [[tauricresearch-tradingagents]]
+[[hkuds-deeptutor]] [[lightpanda-io-browser]] [[tauricresearch-tradingagents]] [[nightly-labs-openbot]] [[copilotkit-openbot]]
 
 **所属领域**: [[web]]
 

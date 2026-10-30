@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[nightly-labs-openbot]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[nutlope-hallmark]] [[tauricresearch-tradingagents]]
+[[hkuds-deeptutor]] [[coollabsio-coolify]] [[ntdevlabs-tiny11builder]] [[openbmb-voxcpm]] [[lightpanda-io-browser]]
 
 **所属领域**: [[web]] [[image-gen]]
 

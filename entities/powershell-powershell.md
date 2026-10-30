@@ -34,7 +34,7 @@ PowerShell for every system!
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[sonarr-sonarr]] [[expo-skills]] [[k1tbyte-wand-enhancer]] [[dotnet-aspnetcore]]
+[[donchitos-claude-code-game-studios]] [[sonarr-sonarr]] [[ntdevlabs-tiny11builder]] [[obra-superpowers]] [[k1tbyte-wand-enhancer]]
 
 **所属领域**: [[cli]]
 

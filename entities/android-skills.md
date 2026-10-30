@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[embabel-embabel-agent]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[pbakaus-impeccable]] [[mahlernim-google-timeline-visualizer]]
+[[embabel-embabel-agent]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]]
 
 **所属领域**: [[ai-agent]]
 

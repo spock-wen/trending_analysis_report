@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[expo-skills]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[pbakaus-impeccable]]
+[[donchitos-claude-code-game-studios]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[mattpocock-skills]] [[expo-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

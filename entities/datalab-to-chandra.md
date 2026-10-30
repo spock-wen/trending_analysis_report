@@ -36,7 +36,7 @@ OCR model that handles complex tables, forms, handwriting with full layout.
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[agricidaniel-claude-seo]] [[nvidia-skillspector]] [[panniantong-agent-reach]] [[tauricresearch-tradingagents]]
+[[agricidaniel-claude-seo]] [[hkuds-deeptutor]] [[coollabsio-coolify]] [[snailsploit-claude-red]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[data]]
 

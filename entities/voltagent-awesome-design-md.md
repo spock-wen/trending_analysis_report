@@ -35,7 +35,7 @@ A collection of DESIGN.md files analysis by popular brand design systems. Drop o
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[obra-superpowers]] [[pbakaus-impeccable]] [[jetbrains-thinkrail]]
+[[thedotmack-claude-mem]] [[obra-superpowers]] [[anthropics-skills]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

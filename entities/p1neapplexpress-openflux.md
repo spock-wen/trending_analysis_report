@@ -35,7 +35,7 @@ Network stack research tool. TCP tunnel with pluggable transports.
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[alibaba-open-code-review]] [[robbyant-lingbot-map]] [[strelov1-freehire]] [[affaan-m-ecc]]
+[[alibaba-open-code-review]] [[strelov1-freehire]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[science]]
 

@@ -34,7 +34,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[affaan-m-ecc]] [[panniantong-agent-reach]] [[donchitos-claude-code-game-studios]] [[k-dense-ai-scientific-agent-skills]]
+[[donchitos-claude-code-game-studios]] [[openbmb-voxcpm]] [[k-dense-ai-scientific-agent-skills]] [[comfy-org-comfyui]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

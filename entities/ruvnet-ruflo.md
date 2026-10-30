@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[fastapi-fastapi]] [[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]]
+[[xiaolai-the-craft-of-selfteaching]] [[anthropics-skills]] [[coollabsio-coolify]] [[xtool-org-xtool]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

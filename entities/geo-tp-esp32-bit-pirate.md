@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[expo-skills]] [[nightly-labs-openbot]] [[boykopovar-anyps5]] [[obra-superpowers]]
+[[donchitos-claude-code-game-studios]] [[hkuds-deeptutor]] [[m-abozaid-esp32-c3-adblock]] [[obra-superpowers]] [[lightpanda-io-browser]]
 
 **所属领域**: [[web]] [[cli]]
 

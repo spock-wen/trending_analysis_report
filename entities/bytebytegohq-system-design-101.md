@@ -35,7 +35,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[obra-superpowers]] [[pbakaus-impeccable]] [[jetbrains-thinkrail]]
+[[thedotmack-claude-mem]] [[obra-superpowers]] [[anthropics-skills]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

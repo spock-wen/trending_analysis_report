@@ -36,7 +36,7 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[snailsploit-claude-red]] [[agricidaniel-claude-seo]] [[nodejs-node]] [[thedotmack-claude-mem]]
+[[agricidaniel-claude-seo]] [[coollabsio-coolify]] [[hmjz100-linkswift]] [[thedotmack-claude-mem]] [[nodejs-node]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

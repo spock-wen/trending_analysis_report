@@ -34,7 +34,7 @@ Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering tech
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[pbakaus-impeccable]]
+[[hkuds-deeptutor]] [[coollabsio-coolify]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[erp]]
 

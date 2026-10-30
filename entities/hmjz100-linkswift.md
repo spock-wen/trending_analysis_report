@@ -35,5 +35,5 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[nodejs-node]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[nodejs-node]] [[cloudflare-security-audit-skill]]
 

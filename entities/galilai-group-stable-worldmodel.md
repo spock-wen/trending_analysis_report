@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[thedotmack-claude-mem]] [[robbyant-lingbot-map]] [[obra-superpowers]] [[pbakaus-impeccable]]
+[[hkuds-deeptutor]] [[coollabsio-coolify]] [[ntdevlabs-tiny11builder]] [[thedotmack-claude-mem]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

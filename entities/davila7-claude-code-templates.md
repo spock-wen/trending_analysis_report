@@ -38,7 +38,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[xtool-org-xtool]] [[expo-skills]] [[thedotmack-claude-mem]] [[obra-superpowers]]
+[[donchitos-claude-code-game-studios]] [[hkuds-deeptutor]] [[ruvnet-ruflo]] [[coollabsio-coolify]] [[xtool-org-xtool]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

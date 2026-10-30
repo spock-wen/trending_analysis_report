@@ -35,5 +35,5 @@ git push no-mistakes
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[strelov1-freehire]] [[vxcontrol-pentagi]]
+[[alibaba-open-code-review]] [[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[strelov1-freehire]]
 

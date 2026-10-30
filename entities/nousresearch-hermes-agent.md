@@ -38,7 +38,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[thedotmack-claude-mem]] [[robbyant-lingbot-map]] [[obra-superpowers]] [[pbakaus-impeccable]]
+[[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

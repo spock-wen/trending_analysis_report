@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[mlabonne-llm-course]] [[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]]
+[[xiaolai-the-craft-of-selfteaching]] [[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[jetbrains-thinkrail]] [[lightpanda-io-browser]]
 
 **所属领域**: [[web]] [[education]]
 

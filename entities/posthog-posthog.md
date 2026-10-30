@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[snailsploit-claude-red]] [[agricidaniel-claude-seo]] [[nightly-labs-openbot]] [[thedotmack-claude-mem]]
+[[ruvnet-ruview]] [[agricidaniel-claude-seo]] [[hkuds-deeptutor]] [[ruvnet-ruflo]] [[coollabsio-coolify]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

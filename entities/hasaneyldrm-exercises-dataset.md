@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[agricidaniel-claude-seo]] [[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[obra-superpowers]]
+[[averygan-reclip]] [[anthropics-skills]] [[agricidaniel-claude-seo]] [[hkuds-deeptutor]] [[alchaincyf-huashu-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

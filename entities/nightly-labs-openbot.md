@@ -37,7 +37,7 @@ A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, 
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[obra-superpowers]] [[pbakaus-impeccable]] [[nutlope-hallmark]]
+[[anthropics-skills]] [[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[jetbrains-thinkrail]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

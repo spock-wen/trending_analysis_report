@@ -34,7 +34,7 @@ This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is
 
 ## 相关项目
 
-[[nightly-labs-openbot]] [[php-php-src]] [[antirez-ds4]] [[nutlope-hallmark]] [[hkuds-deeptutor]]
+[[hkuds-deeptutor]] [[colbymchenry-codegraph]] [[antirez-ds4]] [[lightpanda-io-browser]] [[php-php-src]]
 
 **所属领域**: [[web]]
 

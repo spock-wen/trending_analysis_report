@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[nightly-labs-openbot]] [[cathrynlavery-diagram-design]] [[nutlope-hallmark]] [[ripienaar-free-for-dev]] [[hkuds-deeptutor]]
+[[averygan-reclip]] [[hkuds-deeptutor]] [[alchaincyf-huashu-design]] [[coollabsio-coolify]] [[ntdevlabs-tiny11builder]]
 
 **所属领域**: [[web]] [[image-gen]]
 

@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[nightly-labs-openbot]] [[pbakaus-impeccable]] [[macro-inc-macro]] [[ruvnet-ruview]] [[nutlope-hallmark]]
+[[pollen-robotics-microduck]] [[hkuds-deeptutor]] [[lightpanda-io-browser]] [[nightly-labs-openbot]] [[copilotkit-openbot]]
 
 **所属领域**: [[web]]
 

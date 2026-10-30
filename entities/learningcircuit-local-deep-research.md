@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[fastapi-fastapi]] [[snailsploit-claude-red]] [[mlabonne-llm-course]] [[thedotmack-claude-mem]]
+[[xiaolai-the-craft-of-selfteaching]] [[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

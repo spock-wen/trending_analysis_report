@@ -34,5 +34,5 @@ freehire — the open-source search engine for job seekers
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[vxcontrol-pentagi]]
+[[alibaba-open-code-review]] [[vxcontrol-pentagi]] [[juliusbrussee-caveman]]
 

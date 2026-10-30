@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[expo-skills]] [[fastapi-fastapi]] [[mlabonne-llm-course]] [[obra-superpowers]]
+[[donchitos-claude-code-game-studios]] [[xiaolai-the-craft-of-selfteaching]] [[pollen-robotics-microduck]] [[ruvnet-ruflo]] [[debpalash-voicestudio]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[snailsploit-claude-red]] [[agricidaniel-claude-seo]] [[nightly-labs-openbot]] [[thedotmack-claude-mem]]
+[[anthropics-skills]] [[agricidaniel-claude-seo]] [[ruvnet-ruflo]] [[coollabsio-coolify]] [[xtool-org-xtool]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

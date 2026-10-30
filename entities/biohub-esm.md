@@ -34,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[xiaolai-the-craft-of-selfteaching]] [[microsoft-generative-ai-for-beginners]] [[higgsfield-ai-higgsfield]]
+[[lyogavin-airllm]] [[xiaolai-the-craft-of-selfteaching]] [[higgsfield-ai-higgsfield]] [[microsoft-generative-ai-for-beginners]]
 

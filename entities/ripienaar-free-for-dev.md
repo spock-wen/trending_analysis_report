@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[nightly-labs-openbot]] [[ruvnet-ruview]] [[cathrynlavery-diagram-design]] [[nutlope-hallmark]]
+[[averygan-reclip]] [[hkuds-deeptutor]] [[alchaincyf-huashu-design]] [[coollabsio-coolify]] [[ruvnet-ruflo]]
 
 **所属领域**: [[web]] [[devops]]
 

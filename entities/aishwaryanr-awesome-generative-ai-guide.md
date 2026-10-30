@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[robbyant-lingbot-map]] [[obra-superpowers]]
+[[averygan-reclip]] [[anthropics-skills]] [[hkuds-deeptutor]] [[alchaincyf-huashu-design]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-30 | 总页面：851
+> 最后更新：2026-10-31 | 总页面：851
 
 ## Entities
 
@@ -228,7 +228,7 @@
 - [[docling-project-docling|docling]] — Get your documents ready for gen AI
 - [[docusealco-docuseal|docuseal]] — Open source DocuSign alternative. Create, fill, and sign dig...
 - [[dograh-hq-dograh|dograh]] — Open Source Voice Agent Platform
-- [[donchitos-claude-code-game-studios|Claude-Code-Game-Studios]] — Turn Claude Code into a full game dev studio — 49 AI agents,... 🆕
+- [[donchitos-claude-code-game-studios|Claude-Code-Game-Studios]] — Turn Claude Code into a full game dev studio — 49 AI agents,...
 - [[donnemartin-system-design-primer|system-design-primer]] — Learn how to design large-scale systems. Prep for the system...
 - [[dotnet-aspnetcore|aspnetcore]] — ASP.NET Core is a cross-platform .NET framework for building...
 - [[dotnet-skills|skills]] — Repository for skills to assist AI coding agents with .NET a...
@@ -475,7 +475,7 @@
 - [[marin-community-marin|marin]] — Open-source framework for the research and development of fo... 🔥
 - [[masterking32-masterdnsvpn|MasterDnsVPN]] — Advanced DNS tunneling VPN for censorship bypass, optimized ... 🔥
 - [[mattermost-mattermost|mattermost]] — Mattermost is an open source platform for secure collaborati... 🆕
-- [[mattpocock-skills|skills]] — Skills for Real Engineers. Straight from my .agents director... 🔥
+- [[mattpocock-skills|skills]] — Skills for Real Engineers. Straight from my .agents director...
 - [[mauriceboe-trek|TREK]] — A self-hosted travel/trip planner with real-time collaborati... 🆕
 - [[max-sixty-worktrunk|worktrunk]] — Worktrunk is a CLI for Git worktree management, designed for...
 - [[maziyarpanahi-openmed|openmed]] — open-source healthcare ai 🔥
@@ -616,7 +616,7 @@
 - [[permissionlesstech-bitchat|bitchat]] — bluetooth mesh chat, IRC vibes
 - [[php-php-src|php-src]] — The PHP Interpreter 🆕
 - [[phuryn-pm-skills|pm-skills]] — PM Skills Marketplace: 100+ agentic skills, commands, and pl... 🔥
-- [[pingdotgg-t3code|t3code]] — No description 🔥
+- [[pingdotgg-t3code|t3code]] — No description
 - [[pkuflyingpig-cs-self-learning|cs-self-learning]] — 计算机自学指南
 - [[plausible-analytics|analytics]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
 - [[playcanvas-supersplat|supersplat]] — 3D Gaussian Splat Editor
@@ -742,7 +742,7 @@
 - [[tester-army-e2e|e2e]] — Next generation e2e testing framework for web and mobile app... 🔥
 - [[the-swarm-corporation-autohedge|AutoHedge]] — Build your autonomous hedge fund in minutes. AutoHedge harne... 🔥
 - [[thecraighewitt-seomachine|seomachine]] — A specialized Claude Code workspace for creating long-form, ... 🔥
-- [[thedotmack-claude-mem|claude-mem]] — Persistent Context Across Sessions for Every Agent – Capture...
+- [[thedotmack-claude-mem|claude-mem]] — Persistent Context Across Sessions for Every Agent – Capture... 🆕
 - [[thu-maic-openmaic|OpenMAIC]] — Open Multi-Agent Interactive Classroom — Get an immersive, m...
 - [[thunderbird-thunderbolt|thunderbolt]] — AI You Control: Choose your models. Own your data. Eliminate...
 - [[tile-ai-tilelang|tilelang]] — Domain-specific language designed to streamline the developm...

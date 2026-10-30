@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[manaflow-ai-cmux]] [[lakr233-vphone-cli]] [[abue-ammar-tinycast]] [[thedotmack-claude-mem]]
+[[xtool-org-xtool]] [[thedotmack-claude-mem]] [[lakr233-vphone-cli]] [[obra-superpowers]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[ai-agent]]
 

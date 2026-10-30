@@ -36,5 +36,5 @@ Meta-Framework of Spatiotemporal Composability
 
 ## 相关项目
 
-[[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[jetbrains-thinkrail]]
+[[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[pingdotgg-t3code]] [[jetbrains-thinkrail]]
 

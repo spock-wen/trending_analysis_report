@@ -36,7 +36,7 @@ A list of tools that are open-source, in-browser, and require no-signups!
 
 ## 相关项目
 
-[[nightly-labs-openbot]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[nutlope-hallmark]] [[hkuds-deeptutor]]
+[[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[jetbrains-thinkrail]] [[lightpanda-io-browser]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[web]]
 

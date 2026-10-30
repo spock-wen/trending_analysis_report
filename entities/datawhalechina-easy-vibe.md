@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[fastapi-fastapi]] [[snailsploit-claude-red]] [[agricidaniel-claude-seo]] [[mlabonne-llm-course]]
+[[xiaolai-the-craft-of-selfteaching]] [[agricidaniel-claude-seo]] [[coollabsio-coolify]] [[hmjz100-linkswift]] [[nodejs-node]]
 
 **所属领域**: [[data]] [[education]]
 

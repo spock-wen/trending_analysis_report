@@ -37,7 +37,7 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 
 ## 相关项目
 
-[[embabel-embabel-agent]] [[thedotmack-claude-mem]] [[android-skills]] [[obra-superpowers]] [[pbakaus-impeccable]]
+[[android-skills]] [[embabel-embabel-agent]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[bannedbook-fanqiang]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[snailsploit-claude-red]] [[checkstyle-checkstyle]] [[nationalsecurityagency-ghidra]] [[affaan-m-ecc]] [[nvidia-skillspector]]
+[[checkstyle-checkstyle]] [[yuliskov-smarttube]] [[snailsploit-claude-red]] [[cloudflare-security-audit-skill]] [[nvidia-skillspector]]
 
 **所属领域**: [[security]]
 

@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[expo-skills]] [[snailsploit-claude-red]] [[agricidaniel-claude-seo]] [[checkstyle-checkstyle]]
+[[donchitos-claude-code-game-studios]] [[agricidaniel-claude-seo]] [[checkstyle-checkstyle]] [[yuliskov-smarttube]] [[coollabsio-coolify]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

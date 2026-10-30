@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[manaflow-ai-cmux]] [[donchitos-claude-code-game-studios]] [[expo-skills]] [[abue-ammar-tinycast]]
+[[donchitos-claude-code-game-studios]] [[xtool-org-xtool]] [[obra-superpowers]] [[manaflow-ai-cmux]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

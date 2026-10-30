@@ -34,7 +34,7 @@ A collection of MCP servers.
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[obra-superpowers]] [[pbakaus-impeccable]] [[jetbrains-thinkrail]]
+[[thedotmack-claude-mem]] [[obra-superpowers]] [[anthropics-skills]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

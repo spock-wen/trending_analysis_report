@@ -36,7 +36,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[nightly-labs-openbot]] [[boykopovar-anyps5]] [[nutlope-hallmark]] [[hkuds-deeptutor]] [[copilotkit-openbot]]
+[[hkuds-deeptutor]] [[m-abozaid-esp32-c3-adblock]] [[lightpanda-io-browser]] [[tensorflow-tensorflow]] [[boykopovar-anyps5]]
 
 **所属领域**: [[web]]
 

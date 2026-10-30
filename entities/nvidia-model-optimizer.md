@@ -36,7 +36,7 @@ A unified library of SOTA model optimization techniques like quantization, disti
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[fastapi-fastapi]] [[mlabonne-llm-course]] [[thedotmack-claude-mem]] [[obra-superpowers]]
+[[xiaolai-the-craft-of-selfteaching]] [[hkuds-deeptutor]] [[ruvnet-ruflo]] [[coollabsio-coolify]] [[xtool-org-xtool]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

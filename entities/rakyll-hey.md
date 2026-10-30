@@ -34,7 +34,7 @@ HTTP load generator, ApacheBench (ab) replacement
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[nightly-labs-openbot]] [[strelov1-freehire]] [[juliusbrussee-caveman]] [[nutlope-hallmark]]
+[[hkuds-deeptutor]] [[alibaba-open-code-review]] [[strelov1-freehire]] [[lightpanda-io-browser]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[web]]
 

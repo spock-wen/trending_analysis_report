@@ -34,7 +34,7 @@ User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[lightpanda-io-browser]] [[tauricresearch-tradingagents]]
+[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[lightpanda-io-browser]] [[copilotkit-openbot]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

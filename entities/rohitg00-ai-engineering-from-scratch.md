@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[mlabonne-llm-course]]
+[[bregman-arie-devops-exercises]] [[fastapi-fastapi]] [[pbakaus-impeccable]] [[obra-superpowers]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

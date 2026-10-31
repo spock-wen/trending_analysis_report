@@ -38,7 +38,7 @@ AI Agent Assistant & development framework that integrates lots of IM platforms,
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[tauricresearch-tradingagents]] [[mattpocock-skills]]
+[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thedotmack-claude-mem]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

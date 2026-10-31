@@ -34,7 +34,7 @@ GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL throug
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[agricidaniel-claude-seo]] [[hkuds-deeptutor]] [[coollabsio-coolify]] [[thedotmack-claude-mem]]
+[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

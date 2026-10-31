@@ -34,7 +34,7 @@ ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[tauricresearch-tradingagents]] [[mattpocock-skills]]
+[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thedotmack-claude-mem]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[hkuds-deeptutor]] [[coollabsio-coolify]] [[thedotmack-claude-mem]] [[obra-superpowers]]
+[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[affaan-m-ecc]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]]
 

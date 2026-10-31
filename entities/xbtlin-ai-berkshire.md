@@ -38,7 +38,7 @@ AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框�
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]]
+[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[affaan-m-ecc]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

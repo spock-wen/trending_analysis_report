@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[pollen-robotics-microduck]] [[agricidaniel-claude-seo]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[php-php-src]]
+[[pbakaus-impeccable]] [[macro-inc-macro]] [[obra-superpowers]] [[pollen-robotics-microduck]] [[php-php-src]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

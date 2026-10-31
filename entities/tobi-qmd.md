@@ -35,7 +35,7 @@ mini cli search engine for your docs, knowledge bases, meeting notes, whatever. 
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[jetbrains-thinkrail]] [[renhuai123-ziwei-doushu]]
+[[pingdotgg-t3code]] [[obra-superpowers]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

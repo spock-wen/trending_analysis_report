@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[snailsploit-claude-red]] [[cloudflare-security-audit-skill]] [[tauricresearch-tradingagents]] [[nvidia-skillspector]]
+[[bregman-arie-devops-exercises]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[nvidia-skillspector]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[security]]
 

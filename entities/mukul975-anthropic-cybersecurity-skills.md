@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[snailsploit-claude-red]]
+[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[affaan-m-ecc]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

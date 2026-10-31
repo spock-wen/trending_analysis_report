@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[hmjz100-linkswift]] [[thedotmack-claude-mem]] [[nodejs-node]] [[ntdevlabs-tiny11builder]]
+[[ntdevlabs-tiny11builder]] [[alishahryar1-free-claude-code]] [[pbakaus-impeccable]] [[obra-superpowers]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

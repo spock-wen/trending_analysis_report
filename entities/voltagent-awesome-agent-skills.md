@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[mattpocock-skills]] [[expo-skills]]
+[[pbakaus-impeccable]] [[obra-superpowers]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

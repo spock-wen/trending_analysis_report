@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[pollen-robotics-microduck]] [[agricidaniel-claude-seo]] [[coollabsio-coolify]] [[thedotmack-claude-mem]]
+[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[macro-inc-macro]] [[obra-superpowers]] [[pollen-robotics-microduck]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

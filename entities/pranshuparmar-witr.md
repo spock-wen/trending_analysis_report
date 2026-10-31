@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[alibaba-open-code-review]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[strelov1-freehire]]
+[[vxcontrol-pentagi]] [[strelov1-freehire]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

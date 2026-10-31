@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[hkuds-deeptutor]] [[coollabsio-coolify]] [[agentjido-jido]] [[cloudflare-security-audit-skill]]
+[[bregman-arie-devops-exercises]] [[copilotkit-openbot]] [[lightpanda-io-browser]] [[affaan-m-ecc]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

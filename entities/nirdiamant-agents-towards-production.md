@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[agricidaniel-claude-seo]] [[higgsfield-ai-higgsfield]] [[ruvnet-ruflo]] [[coollabsio-coolify]]
+[[bregman-arie-devops-exercises]] [[fastapi-fastapi]] [[pbakaus-impeccable]] [[obra-superpowers]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

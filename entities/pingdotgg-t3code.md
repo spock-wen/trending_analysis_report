@@ -1,20 +1,20 @@
 ---
 title: "pingdotgg/t3code"
 created: 2026-07-13
-updated: 2026-10-31
-last_active: 2026-10-31
+updated: 2026-11-01
+last_active: 2026-11-01
 type: tool
 tags: [typescript]
-sources: [raw/trending/2026-10-31.json]
+sources: [raw/trending/2026-11-01.json]
 confidence: high
-trending_count_daily: 7
+trending_count_daily: 8
 trending_count_weekly: 1
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-07-13
-last_trending: 2026-10-31
+last_trending: 2026-11-01
 peak_rank: 4
-total_stars: 32693
+total_stars: 35385
 language: "TypeScript"
 ---
 
@@ -23,20 +23,20 @@ language: "TypeScript"
 No description
 
 - 语言: TypeScript
-- 上榜次数: 7 次
-- 连续上榜: 1 天
+- 上榜次数: 8 次
+- 连续上榜: 2 天
 - 最高排名: #4
 - 链接: [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 
 ## 上榜历史
 
+  - 2026-11-01: #4, +1148⭐
   - 2026-10-31: #9, +920⭐
   - 2026-10-06: #4, +487⭐
   - 2026-10-05: #9, +492⭐
   - 2026-10-04: #7, +251⭐
-  - 2026-08-11: #14, +388⭐
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[jetbrains-thinkrail]]
+[[renhuai123-ziwei-doushu]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]]
 

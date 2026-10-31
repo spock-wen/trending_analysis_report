@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[hkuds-deeptutor]] [[coollabsio-coolify]] [[thedotmack-claude-mem]] [[jetbrains-thinkrail]]
+[[pingdotgg-t3code]] [[bregman-arie-devops-exercises]] [[lightpanda-io-browser]] [[copilotkit-openbot]] [[thu-maic-openmaic]]
 
 **所属领域**: [[web]] [[data]]
 

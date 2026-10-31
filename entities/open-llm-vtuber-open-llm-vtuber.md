@@ -37,7 +37,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[debpalash-voicestudio]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[openbmb-voxcpm]]
+[[alishahryar1-free-claude-code]] [[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

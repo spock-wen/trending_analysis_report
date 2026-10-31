@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[m-abozaid-esp32-c3-adblock]] [[coollabsio-coolify]] [[tensorflow-tensorflow]] [[boykopovar-anyps5]]
+[[microsoft-bitnet]] [[bregman-arie-devops-exercises]] [[boykopovar-anyps5]] [[m-abozaid-esp32-c3-adblock]] [[nvidia-skillspector]]
 
 **所属领域**: [[data]]
 

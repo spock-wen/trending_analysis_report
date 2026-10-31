@@ -37,7 +37,7 @@ LIST OF ALL MY JAILBREAKS
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[obra-superpowers]] [[anthropics-skills]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[thedotmack-claude-mem]] [[pbakaus-impeccable]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

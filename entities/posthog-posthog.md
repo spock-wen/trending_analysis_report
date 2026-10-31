@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[agricidaniel-claude-seo]] [[hkuds-deeptutor]] [[ruvnet-ruflo]] [[coollabsio-coolify]]
+[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[lightpanda-io-browser]] [[copilotkit-openbot]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

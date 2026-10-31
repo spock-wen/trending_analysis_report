@@ -38,7 +38,7 @@ Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[hmjz100-linkswift]] [[thedotmack-claude-mem]] [[nodejs-node]] [[obra-superpowers]]
+[[pbakaus-impeccable]] [[obra-superpowers]] [[affaan-m-ecc]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -36,7 +36,7 @@ Web UI for the pi coding agent
 
 ## 相关项目
 
-[[anthropics-skills]] [[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[jetbrains-thinkrail]]
+[[pingdotgg-t3code]] [[pbakaus-impeccable]] [[obra-superpowers]] [[lightpanda-io-browser]] [[copilotkit-openbot]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

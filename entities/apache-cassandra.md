@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[checkstyle-checkstyle]] [[ruvnet-ruflo]] [[yuliskov-smarttube]] [[coollabsio-coolify]]
+[[bregman-arie-devops-exercises]] [[google-guava]] [[ruvnet-ruflo]] [[ruvnet-ruview]] [[checkstyle-checkstyle]]
 
 **所属领域**: [[data]] [[devops]]
 

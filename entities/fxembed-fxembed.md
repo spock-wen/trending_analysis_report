@@ -34,7 +34,7 @@ Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translatio
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[ntdevlabs-tiny11builder]] [[thedotmack-claude-mem]] [[jetbrains-thinkrail]] [[openbmb-voxcpm]]
+[[ntdevlabs-tiny11builder]] [[pingdotgg-t3code]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[image-gen]]
 

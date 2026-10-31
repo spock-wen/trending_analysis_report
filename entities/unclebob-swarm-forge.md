@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[penpot-penpot]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[mattpocock-skills]] [[anthropics-skills]]
+[[penpot-penpot]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thedotmack-claude-mem]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

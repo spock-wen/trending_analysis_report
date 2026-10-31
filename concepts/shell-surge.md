@@ -1,7 +1,7 @@
 ---
 title: "Shell Ecosystem Surge"
 created: 2026-06-12
-updated: 2026-10-31
+updated: 2026-11-01
 type: concept
 tags: [shell, surge]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 信号概述
 
-2026-10-31 检测到 Shell 领域有 3 个项目同时上榜，表明该语言生态近期活跃度显著上升。
+2026-11-01 检测到 Shell 领域有 3 个项目同时上榜，表明该语言生态近期活跃度显著上升。
 
 ## 上榜项目（3 个）
 
-[[expo-skills]] [[mattpocock-skills]] [[obra-superpowers]]
+[[mattpocock-skills]] [[donchitos-claude-code-game-studios]] [[obra-superpowers]]
 
 ## 语言分布
 

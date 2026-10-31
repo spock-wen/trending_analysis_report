@@ -34,7 +34,7 @@ DevOps Interview Guide
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[ruvnet-ruflo]] [[xtool-org-xtool]] [[ruvnet-ruview]]
+[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[ruvnet-ruview]] [[ruvnet-ruflo]]
 
 **所属领域**: [[devops]]
 

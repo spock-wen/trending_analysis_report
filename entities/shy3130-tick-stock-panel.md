@@ -34,7 +34,7 @@ TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 |
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[tauricresearch-tradingagents]] [[mattpocock-skills]]
+[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thedotmack-claude-mem]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

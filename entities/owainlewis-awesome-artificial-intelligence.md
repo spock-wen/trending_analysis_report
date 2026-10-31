@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[affaan-m-ecc]] [[mlabonne-llm-course]]
+[[fastapi-fastapi]] [[pbakaus-impeccable]] [[obra-superpowers]] [[ruvnet-ruflo]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

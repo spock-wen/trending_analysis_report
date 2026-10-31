@@ -38,7 +38,7 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]]
+[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[affaan-m-ecc]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

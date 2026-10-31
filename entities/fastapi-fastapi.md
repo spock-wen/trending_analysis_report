@@ -34,7 +34,7 @@ FastAPI framework, high performance, easy to learn, fast to code, ready for prod
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[hkuds-deeptutor]] [[mlabonne-llm-course]] [[tauricresearch-tradingagents]] [[panniantong-agent-reach]]
+[[bregman-arie-devops-exercises]] [[ruvnet-ruflo]] [[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[education]]
 

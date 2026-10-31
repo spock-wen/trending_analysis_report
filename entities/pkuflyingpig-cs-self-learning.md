@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[averygan-reclip]] [[hkuds-deeptutor]] [[alchaincyf-huashu-design]] [[lightpanda-io-browser]]
+[[fastapi-fastapi]] [[lightpanda-io-browser]] [[copilotkit-openbot]] [[ruvnet-ruflo]] [[thu-maic-openmaic]]
 
 **所属领域**: [[web]] [[education]]
 

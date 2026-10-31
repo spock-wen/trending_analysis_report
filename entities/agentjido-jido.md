@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[plausible-analytics]] [[thedotmack-claude-mem]] [[teslamate-org-teslamate]] [[obra-superpowers]] [[mattpocock-skills]]
+[[pbakaus-impeccable]] [[obra-superpowers]] [[plausible-analytics]] [[thedotmack-claude-mem]] [[teslamate-org-teslamate]]
 
 **所属领域**: [[ai-agent]]
 

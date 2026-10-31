@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[agricidaniel-claude-seo]] [[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[obra-superpowers]]
+[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[php-php-src]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

@@ -36,7 +36,7 @@ An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]] [[tauricresearch-tradingagents]] [[panniantong-agent-reach]]
+[[bregman-arie-devops-exercises]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[robbyant-lingbot-map]] [[hkuds-deeptutor]]
 
 **所属领域**: [[science]]
 

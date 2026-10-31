@@ -35,7 +35,7 @@ OpenBao is a software solution to manage, store, and distribute sensitive data i
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[coollabsio-coolify]] [[alibaba-open-code-review]] [[strelov1-freehire]] [[vxcontrol-pentagi]]
+[[bregman-arie-devops-exercises]] [[vxcontrol-pentagi]] [[strelov1-freehire]] [[agricidaniel-claude-seo]] [[alibaba-open-code-review]]
 
 **所属领域**: [[data]]
 

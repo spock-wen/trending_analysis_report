@@ -34,7 +34,7 @@ VSCode theme based off the easemate IDE and Jetbrains islands theme
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[actions-runner-images]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[raphire-win11debloat]]
+[[zhaoxuya520-reverse-skill]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

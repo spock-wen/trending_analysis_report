@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[agricidaniel-claude-seo]] [[checkstyle-checkstyle]] [[yuliskov-smarttube]] [[coollabsio-coolify]]
+[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[google-guava]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

@@ -34,5 +34,5 @@ dev tools, env vars, task runner
 
 ## 相关项目
 
-[[macro-inc-macro]] [[pollen-robotics-microduck]] [[pbakaus-impeccable]] [[ruvnet-ruview]]
+[[ruvnet-ruview]] [[pbakaus-impeccable]] [[macro-inc-macro]] [[pollen-robotics-microduck]]
 

@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[anthropics-skills]] [[hkuds-deeptutor]] [[debpalash-voicestudio]] [[thedotmack-claude-mem]] [[obra-superpowers]]
+[[alishahryar1-free-claude-code]] [[pingdotgg-t3code]] [[pbakaus-impeccable]] [[obra-superpowers]] [[lightpanda-io-browser]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

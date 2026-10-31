@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[coollabsio-coolify]] [[ntdevlabs-tiny11builder]] [[thedotmack-claude-mem]] [[obra-superpowers]]
+[[ntdevlabs-tiny11builder]] [[pbakaus-impeccable]] [[obra-superpowers]] [[lightpanda-io-browser]] [[copilotkit-openbot]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

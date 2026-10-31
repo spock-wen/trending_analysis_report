@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[pollen-robotics-microduck]] [[agricidaniel-claude-seo]] [[coollabsio-coolify]] [[ntdevlabs-tiny11builder]] [[thedotmack-claude-mem]]
+[[ntdevlabs-tiny11builder]] [[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[macro-inc-macro]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

@@ -37,5 +37,5 @@ MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devi
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[tauricresearch-tradingagents]] [[hkuds-deeptutor]] [[anthropics-skills]]
+[[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[tauricresearch-tradingagents]] [[anthropics-skills]]
 

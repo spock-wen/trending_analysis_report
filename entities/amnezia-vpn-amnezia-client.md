@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[m-abozaid-esp32-c3-adblock]] [[obra-superpowers]] [[cloudflare-security-audit-skill]] [[tensorflow-tensorflow]]
+[[microsoft-bitnet]] [[boykopovar-anyps5]] [[m-abozaid-esp32-c3-adblock]] [[obra-superpowers]] [[affaan-m-ecc]]
 
 **所属领域**: [[cli]] [[security]]
 

@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[coollabsio-coolify]] [[ntdevlabs-tiny11builder]] [[thedotmack-claude-mem]] [[jetbrains-thinkrail]]
+[[ntdevlabs-tiny11builder]] [[pingdotgg-t3code]] [[bregman-arie-devops-exercises]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[data]] [[image-gen]]
 

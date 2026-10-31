@@ -38,7 +38,7 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[pollen-robotics-microduck]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[mattpocock-skills]]
+[[pbakaus-impeccable]] [[macro-inc-macro]] [[obra-superpowers]] [[pollen-robotics-microduck]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

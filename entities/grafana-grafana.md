@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[ruvnet-ruflo]] [[coollabsio-coolify]] [[xtool-org-xtool]] [[thedotmack-claude-mem]]
+[[pingdotgg-t3code]] [[bregman-arie-devops-exercises]] [[ruvnet-ruflo]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[data]] [[devops]]
 

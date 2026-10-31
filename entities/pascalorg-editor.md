@@ -38,7 +38,7 @@ Open-source 3D architectural editor with a local CLI, MCP tools, and practical w
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[anthropics-skills]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[jetbrains-thinkrail]]
+[[pingdotgg-t3code]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

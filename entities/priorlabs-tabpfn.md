@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[hkuds-deeptutor]] [[coollabsio-coolify]] [[snailsploit-claude-red]] [[tauricresearch-tradingagents]]
+[[bregman-arie-devops-exercises]] [[anthropics-skills]] [[tauricresearch-tradingagents]] [[agricidaniel-claude-seo]] [[coollabsio-coolify]]
 
 **所属领域**: [[data]]
 

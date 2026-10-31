@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[pollen-robotics-microduck]] [[hkuds-deeptutor]] [[lightpanda-io-browser]] [[nightly-labs-openbot]] [[copilotkit-openbot]]
+[[pbakaus-impeccable]] [[macro-inc-macro]] [[pollen-robotics-microduck]] [[lightpanda-io-browser]] [[copilotkit-openbot]]
 
 **所属领域**: [[web]]
 

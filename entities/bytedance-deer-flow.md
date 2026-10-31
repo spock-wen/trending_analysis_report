@@ -38,7 +38,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]]
+[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[affaan-m-ecc]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

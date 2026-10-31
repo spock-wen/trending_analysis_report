@@ -34,7 +34,7 @@ An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that 
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[donchitos-claude-code-game-studios]] [[agricidaniel-claude-seo]] [[ruvnet-ruflo]] [[xtool-org-xtool]]
+[[ntdevlabs-tiny11builder]] [[bregman-arie-devops-exercises]] [[obra-superpowers]] [[ruvnet-ruflo]] [[swoole-typephp]]
 
 **所属领域**: [[cli]] [[data]] [[devops]] [[image-gen]]
 

@@ -36,7 +36,7 @@ Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[thedotmack-claude-mem]] [[lakr233-vphone-cli]] [[obra-superpowers]] [[manaflow-ai-cmux]]
+[[abue-ammar-tinycast]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thedotmack-claude-mem]] [[vorssaint-vorssaint-utils]]
 
 **所属领域**: [[ai-agent]]
 

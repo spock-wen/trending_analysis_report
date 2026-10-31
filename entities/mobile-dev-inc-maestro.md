@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[android-skills]] [[hkuds-deeptutor]] [[embabel-embabel-agent]] [[thedotmack-claude-mem]] [[obra-superpowers]]
+[[android-skills]] [[pbakaus-impeccable]] [[obra-superpowers]] [[lightpanda-io-browser]] [[copilotkit-openbot]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

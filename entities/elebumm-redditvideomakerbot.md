@@ -35,7 +35,7 @@ Create Reddit Videos with just✨ one command ✨
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[hkuds-deeptutor]] [[obra-superpowers]] [[tauricresearch-tradingagents]] [[mattpocock-skills]]
+[[bregman-arie-devops-exercises]] [[obra-superpowers]] [[thu-maic-openmaic]] [[tauricresearch-tradingagents]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

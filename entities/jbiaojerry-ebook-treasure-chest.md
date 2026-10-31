@@ -34,5 +34,5 @@ language: "Python"
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[tauricresearch-tradingagents]] [[hkuds-deeptutor]] [[anthropics-skills]]
+[[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[tauricresearch-tradingagents]] [[anthropics-skills]]
 

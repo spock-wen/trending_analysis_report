@@ -34,7 +34,7 @@ Enterprise Architecture Governance & Vendor Procurement Toolkit
 
 ## 相关项目
 
-[[averygan-reclip]] [[agricidaniel-claude-seo]] [[hkuds-deeptutor]] [[alchaincyf-huashu-design]] [[obra-superpowers]]
+[[lightpanda-io-browser]] [[copilotkit-openbot]] [[obra-superpowers]] [[php-php-src]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[erp]]
 

@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[anthropics-skills]] [[agricidaniel-claude-seo]] [[ruvnet-ruflo]] [[coollabsio-coolify]] [[xtool-org-xtool]]
+[[pingdotgg-t3code]] [[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

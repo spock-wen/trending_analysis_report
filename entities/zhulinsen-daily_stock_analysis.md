@@ -34,7 +34,7 @@ LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[tauricresearch-tradingagents]] [[mattpocock-skills]]
+[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thedotmack-claude-mem]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

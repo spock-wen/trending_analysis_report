@@ -34,7 +34,7 @@ AutoClip : AI-powered video clipping and highlight generation · 一款智能高
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[hkuds-deeptutor]] [[coollabsio-coolify]] [[ntdevlabs-tiny11builder]] [[thedotmack-claude-mem]]
+[[ntdevlabs-tiny11builder]] [[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[image-gen]]
 

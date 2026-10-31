@@ -35,7 +35,7 @@ The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]]
+[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[php-php-src]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

@@ -35,7 +35,7 @@ A high-throughput and memory-efficient inference and serving engine for LLMs
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[tauricresearch-tradingagents]] [[mattpocock-skills]]
+[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thedotmack-claude-mem]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]]
 

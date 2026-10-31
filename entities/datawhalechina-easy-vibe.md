@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[agricidaniel-claude-seo]] [[coollabsio-coolify]] [[hmjz100-linkswift]] [[nodejs-node]]
+[[bregman-arie-devops-exercises]] [[fastapi-fastapi]] [[affaan-m-ecc]] [[ruvnet-ruflo]] [[thu-maic-openmaic]]
 
 **所属领域**: [[data]] [[education]]
 

@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[jetbrains-thinkrail]]
+[[pingdotgg-t3code]] [[lightpanda-io-browser]] [[copilotkit-openbot]] [[obra-superpowers]] [[thu-maic-openmaic]]
 
 **所属领域**: [[web]] [[cli]]
 

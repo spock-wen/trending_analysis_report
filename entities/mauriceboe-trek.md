@@ -35,5 +35,5 @@ A self-hosted travel/trip planner with real-time collaboration, interactive maps
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[pingdotgg-t3code]] [[jetbrains-thinkrail]]
+[[renhuai123-ziwei-doushu]] [[pingdotgg-t3code]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]]
 

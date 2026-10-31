@@ -36,7 +36,7 @@ AI turns documents or topics into real, native PowerPoint decks—with native sh
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[hkuds-deeptutor]] [[coollabsio-coolify]] [[debpalash-voicestudio]] [[thedotmack-claude-mem]]
+[[alishahryar1-free-claude-code]] [[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[php-php-src]]
 
 **所属领域**: [[ai-agent]] [[data]] [[erp]] [[audio]]
 

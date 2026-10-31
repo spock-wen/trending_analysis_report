@@ -34,7 +34,7 @@ Replace port numbers with stable, named local URLs. For humans and agents.
 
 ## 相关项目
 
-[[anthropics-skills]] [[coollabsio-coolify]] [[ntdevlabs-tiny11builder]] [[thedotmack-claude-mem]] [[obra-superpowers]]
+[[ntdevlabs-tiny11builder]] [[pingdotgg-t3code]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

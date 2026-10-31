@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-10-31 | 总页面：851
+> 最后更新：2026-11-01 | 总页面：854
 
 ## Entities
 
@@ -123,6 +123,7 @@
 - [[boykopovar-anyps5|AnyPS5]] — Tool for automatic PS5 executables porting to Linux and Wind... 🔥
 - [[bradautomates-claude-video|claude-video]] — Give Claude the ability to watch any video. /watch downloads... 🆕
 - [[braveopotato-fcksignups|FckSignups]] — A list of tools that are open-source, in-browser, and requir... 🔥
+- [[bregman-arie-devops-exercises|devops-exercises]] — Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansibl... 🆕
 - [[browser-use-browser-use|browser-use]] — 🌐 Make websites accessible for AI agents. Automate tasks onl...
 - [[browser-use-video-use|video-use]] — Edit videos with coding agents 🆕
 - [[browserbase-skills|skills]] — Claude Agent SDK with a web browsing tool 🔥
@@ -439,7 +440,7 @@
 - [[libretranslate-libretranslate|LibreTranslate]] — Free and Open Source Machine Translation API. Self-hosted, o...
 - [[light-heart-labs-dreamserver|DreamServer]] — Local AI anywhere, for everyone — LLM inference, chat UI, vo...
 - [[lightningpixel-modly|modly]] — Desktop app to generate 3D models from images or prompt usin... 🆕
-- [[lightpanda-io-browser|browser]] — Lightpanda: the headless browser designed for AI and automat...
+- [[lightpanda-io-browser|browser]] — Lightpanda: the headless browser designed for AI and automat... 🆕
 - [[lightricks-ltx-2|LTX-2]] — Official Python inference and LoRA trainer package for the L... 🆕
 - [[lightseekorg-tokenspeed|tokenspeed]] — TokenSpeed is a speed-of-light LLM inference engine.
 - [[likec4-likec4|likec4]] — Visualize, collaborate, and evolve the software architecture... 🔥
@@ -475,7 +476,7 @@
 - [[marin-community-marin|marin]] — Open-source framework for the research and development of fo... 🔥
 - [[masterking32-masterdnsvpn|MasterDnsVPN]] — Advanced DNS tunneling VPN for censorship bypass, optimized ... 🔥
 - [[mattermost-mattermost|mattermost]] — Mattermost is an open source platform for secure collaborati... 🆕
-- [[mattpocock-skills|skills]] — Skills for Real Engineers. Straight from my .agents director...
+- [[mattpocock-skills|skills]] — Skills for Real Engineers. Straight from my .agents director... 🆕
 - [[mauriceboe-trek|TREK]] — A self-hosted travel/trip planner with real-time collaborati... 🆕
 - [[max-sixty-worktrunk|worktrunk]] — Worktrunk is a CLI for Git worktree management, designed for...
 - [[maziyarpanahi-openmed|openmed]] — open-source healthcare ai 🔥
@@ -509,7 +510,7 @@
 - [[mihail911-modern-software-dev-assignments|modern-software-dev-assignments]] — Assignments for CS146S: The Modern Software Dev (Stanford Un...
 - [[mikeroyal-self-hosting-guide|Self-Hosting-Guide]] — Self-Hosting Guide. Learn all about locally hosting (on prem...
 - [[mikumifa-bilitickerbuy|biliTickerBuy]] — b站会员购购票辅助工具
-- [[milind-soni-openmausbot|OpenMausBot]] — Open-source Grok Bot alternative with a virtual machine that... 🆕
+- [[milind-soni-openmausbot|OpenMausBot]] — Open-source Grok Bot alternative with a virtual machine that... 🔥
 - [[millionco-react-doctor|react-doctor]] — Your agent writes bad React. This catches it 🔥
 - [[mksglu-context-mode|context-mode]] — Context window optimization for AI coding agents. Sandboxes ... 🔥
 - [[mlabonne-llm-course|llm-course]] — Course to get into Large Language Models (LLMs) with roadmap...
@@ -592,6 +593,7 @@
 - [[openwhispr-openwhispr|openwhispr]] — Voice-to-text dictation app with local (Nvidia Parakeet/Whis...
 - [[openwrt-openwrt|openwrt]] — This repository is a mirror of https://git.openwrt.org/openw...
 - [[oracle-devrel-oracle-ai-developer-hub|oracle-ai-developer-hub]] — Technical resources for AI developers to build applications,...
+- [[orkas-ai-orkas|Orkas]] — Orkas is an open-source (MIT), local-first AI team for your ... 🆕
 - [[osmantic-ods|ODS]] — Turn your PC, Mac, or Linux box into an AI server. LLM infer...
 - [[ossu-computer-science|computer-science]] — 🎓 Path to a free self-taught education in Computer Science!
 - [[othmanadi-planning-with-files|planning-with-files]] — Persistent file-based planning for AI coding agents and long...
@@ -616,7 +618,7 @@
 - [[permissionlesstech-bitchat|bitchat]] — bluetooth mesh chat, IRC vibes
 - [[php-php-src|php-src]] — The PHP Interpreter 🆕
 - [[phuryn-pm-skills|pm-skills]] — PM Skills Marketplace: 100+ agentic skills, commands, and pl... 🔥
-- [[pingdotgg-t3code|t3code]] — No description
+- [[pingdotgg-t3code|t3code]] — No description 🆕
 - [[pkuflyingpig-cs-self-learning|cs-self-learning]] — 计算机自学指南
 - [[plausible-analytics|analytics]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
 - [[playcanvas-supersplat|supersplat]] — 3D Gaussian Splat Editor
@@ -648,7 +650,7 @@
 - [[rasbt-llms-from-scratch|LLMs-from-scratch]] — Implement a ChatGPT-like LLM in PyTorch from scratch, step b... 🔥
 - [[reconurge-flowsint|flowsint]] — A modern platform for visual, flexible, and extensible graph...
 - [[refactoringhq-tolaria|tolaria]] — Desktop app to manage markdown knowledge bases
-- [[renhuai123-ziwei-doushu|ziwei-doushu]] — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+- [[renhuai123-ziwei-doushu|ziwei-doushu]] — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 🆕
 - [[restic-restic|restic]] — Fast, secure, efficient backup program
 - [[revfactory-harness|harness]] — A meta-skill that designs domain-specific agent teams, defin... 🆕
 - [[ripienaar-free-for-dev|free-for-dev]] — A list of SaaS, PaaS and IaaS offerings that have free tiers...
@@ -742,7 +744,7 @@
 - [[tester-army-e2e|e2e]] — Next generation e2e testing framework for web and mobile app... 🔥
 - [[the-swarm-corporation-autohedge|AutoHedge]] — Build your autonomous hedge fund in minutes. AutoHedge harne... 🔥
 - [[thecraighewitt-seomachine|seomachine]] — A specialized Claude Code workspace for creating long-form, ... 🔥
-- [[thedotmack-claude-mem|claude-mem]] — Persistent Context Across Sessions for Every Agent – Capture... 🆕
+- [[thedotmack-claude-mem|claude-mem]] — Persistent Context Across Sessions for Every Agent – Capture... 🔥
 - [[thu-maic-openmaic|OpenMAIC]] — Open Multi-Agent Interactive Classroom — Get an immersive, m...
 - [[thunderbird-thunderbolt|thunderbolt]] — AI You Control: Choose your models. Own your data. Eliminate...
 - [[tile-ai-tilelang|tilelang]] — Domain-specific language designed to streamline the developm...
@@ -798,6 +800,7 @@
 - [[volcengine-openviking|OpenViking]] — Self-evolving Context Database for AI Agents. Unify Agent Me... 🔥
 - [[voltagent-awesome-agent-skills|awesome-agent-skills]] — A curated collection of 1000+ agent skills from official dev...
 - [[voltagent-awesome-design-md|awesome-design-md]] — A collection of DESIGN.md files analysis by popular brand de...
+- [[vorssaint-vorssaint-utils|vorssaint-utils]] — Free and open-source macOS menu bar toolkit. 🆕
 - [[vudovn-ag-kit|ag-kit]] — No description
 - [[vxcontrol-pentagi|pentagi]] — Fully autonomous AI Agents system capable of performing comp...
 - [[warpdotdev-warp|warp]] — Warp is an agentic development environment, born out of the ... 🔥

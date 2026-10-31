@@ -38,7 +38,7 @@ Claude Agent SDK with a web browsing tool
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[hmjz100-linkswift]] [[thedotmack-claude-mem]] [[nodejs-node]] [[obra-superpowers]]
+[[pbakaus-impeccable]] [[obra-superpowers]] [[affaan-m-ecc]] [[lightpanda-io-browser]] [[copilotkit-openbot]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[snailsploit-claude-red]]
+[[bregman-arie-devops-exercises]] [[fastapi-fastapi]] [[pbakaus-impeccable]] [[obra-superpowers]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

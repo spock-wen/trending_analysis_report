@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[actions-runner-images]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[raphire-win11debloat]]
+[[pbakaus-impeccable]] [[obra-superpowers]] [[affaan-m-ecc]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

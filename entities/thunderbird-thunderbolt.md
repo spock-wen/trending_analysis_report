@@ -34,7 +34,7 @@ AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 
 ## 相关项目
 
-[[anthropics-skills]] [[agricidaniel-claude-seo]] [[coollabsio-coolify]] [[thedotmack-claude-mem]] [[obra-superpowers]]
+[[pingdotgg-t3code]] [[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[obra-superpowers]] [[chen08209-flclash]] [[localsend-localsend]] [[flutter-flutter]]
+[[pbakaus-impeccable]] [[localsend-localsend]] [[obra-superpowers]] [[thedotmack-claude-mem]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[coollabsio-coolify]] [[ntdevlabs-tiny11builder]] [[obra-superpowers]] [[openbmb-voxcpm]]
+[[ntdevlabs-tiny11builder]] [[zhaoxuya520-reverse-skill]] [[obra-superpowers]] [[thu-maic-openmaic]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[anthropics-skills]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[jetbrains-thinkrail]] [[openbmb-voxcpm]]
+[[alishahryar1-free-claude-code]] [[pingdotgg-t3code]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

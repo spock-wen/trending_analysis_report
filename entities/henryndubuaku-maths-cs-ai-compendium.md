@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[anthropics-skills]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[jetbrains-thinkrail]] [[k-dense-ai-scientific-agent-skills]]
+[[pingdotgg-t3code]] [[pbakaus-impeccable]] [[obra-superpowers]] [[affaan-m-ecc]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[coollabsio-coolify]] [[xtool-org-xtool]] [[thedotmack-claude-mem]] [[jetbrains-thinkrail]]
+[[pingdotgg-t3code]] [[bregman-arie-devops-exercises]] [[ruvnet-ruflo]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[devops]]
 

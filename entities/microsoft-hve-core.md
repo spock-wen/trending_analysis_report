@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[actions-runner-images]] [[anthropics-skills]] [[thedotmack-claude-mem]] [[obra-superpowers]]
+[[zhaoxuya520-reverse-skill]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[anthropics-skills]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[jetbrains-thinkrail]] [[renhuai123-ziwei-doushu]]
+[[pingdotgg-t3code]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]]
 

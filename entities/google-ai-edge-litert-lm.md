@@ -37,7 +37,7 @@ No description
 
 ## 相关项目
 
-[[m-abozaid-esp32-c3-adblock]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[tensorflow-tensorflow]] [[boykopovar-anyps5]]
+[[microsoft-bitnet]] [[boykopovar-anyps5]] [[m-abozaid-esp32-c3-adblock]] [[pbakaus-impeccable]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

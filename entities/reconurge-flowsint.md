@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[jetbrains-thinkrail]] [[cloudflare-security-audit-skill]] [[renhuai123-ziwei-doushu]] [[nvidia-skillspector]]
+[[pingdotgg-t3code]] [[affaan-m-ecc]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[security]]
 

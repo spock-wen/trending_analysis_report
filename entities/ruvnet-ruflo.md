@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[anthropics-skills]] [[coollabsio-coolify]] [[xtool-org-xtool]] [[thedotmack-claude-mem]]
+[[pingdotgg-t3code]] [[bregman-arie-devops-exercises]] [[fastapi-fastapi]] [[pbakaus-impeccable]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

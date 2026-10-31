@@ -35,7 +35,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 ## 相关项目
 
-[[anthropics-skills]] [[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[jetbrains-thinkrail]]
+[[pingdotgg-t3code]] [[pbakaus-impeccable]] [[obra-superpowers]] [[lightpanda-io-browser]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

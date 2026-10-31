@@ -36,5 +36,5 @@ A Tiny biped duck robot 🦆
 
 ## 相关项目
 
-[[macro-inc-macro]] [[pbakaus-impeccable]] [[ruvnet-ruview]]
+[[ruvnet-ruview]] [[pbakaus-impeccable]] [[macro-inc-macro]]
 

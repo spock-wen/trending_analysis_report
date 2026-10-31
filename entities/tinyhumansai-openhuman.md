@@ -38,7 +38,7 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 ## 相关项目
 
-[[pollen-robotics-microduck]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]]
+[[pbakaus-impeccable]] [[macro-inc-macro]] [[obra-superpowers]] [[pollen-robotics-microduck]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

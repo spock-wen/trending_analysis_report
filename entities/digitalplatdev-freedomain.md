@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[averygan-reclip]] [[anthropics-skills]] [[hkuds-deeptutor]] [[alchaincyf-huashu-design]] [[thedotmack-claude-mem]]
+[[pbakaus-impeccable]] [[obra-superpowers]] [[lightpanda-io-browser]] [[copilotkit-openbot]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

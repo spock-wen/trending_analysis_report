@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[pollen-robotics-microduck]] [[coollabsio-coolify]] [[xtool-org-xtool]] [[macro-inc-macro]] [[pbakaus-impeccable]]
+[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[macro-inc-macro]] [[pollen-robotics-microduck]] [[ruvnet-ruflo]]
 
 **所属领域**: [[devops]]
 

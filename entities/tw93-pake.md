@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[pollen-robotics-microduck]] [[hkuds-deeptutor]] [[obra-superpowers]] [[lightpanda-io-browser]]
+[[pbakaus-impeccable]] [[macro-inc-macro]] [[pollen-robotics-microduck]] [[lightpanda-io-browser]] [[copilotkit-openbot]]
 
 **所属领域**: [[web]] [[cli]]
 

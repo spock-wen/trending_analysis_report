@@ -38,7 +38,7 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 
 ## 相关项目
 
-[[expo-skills]] [[donchitos-claude-code-game-studios]] [[obra-superpowers]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[thu-maic-openmaic]] [[donchitos-claude-code-game-studios]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

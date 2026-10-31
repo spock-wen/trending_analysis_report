@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[k-dense-ai-scientific-agent-skills]] [[robbyant-lingbot-map]] [[tauricresearch-tradingagents]] [[panniantong-agent-reach]]
+[[bregman-arie-devops-exercises]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[robbyant-lingbot-map]] [[hkuds-deeptutor]]
 
 **所属领域**: [[science]]
 

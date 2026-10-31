@@ -34,7 +34,7 @@ Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[coollabsio-coolify]] [[xtool-org-xtool]] [[lakr233-vphone-cli]] [[manaflow-ai-cmux]]
+[[bregman-arie-devops-exercises]] [[abue-ammar-tinycast]] [[ruvnet-ruflo]] [[ruvnet-ruview]] [[vorssaint-vorssaint-utils]]
 
 **所属领域**: [[devops]]
 

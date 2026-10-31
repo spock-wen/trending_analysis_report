@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[averygan-reclip]] [[anthropics-skills]] [[agricidaniel-claude-seo]] [[hkuds-deeptutor]] [[alchaincyf-huashu-design]]
+[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[lightpanda-io-browser]] [[copilotkit-openbot]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

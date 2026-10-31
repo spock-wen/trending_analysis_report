@@ -38,7 +38,7 @@ Vibe code with pi in a lightweight, real IDE that customises itself around the w
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[renhuai123-ziwei-doushu]] [[mattpocock-skills]]
+[[pingdotgg-t3code]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]]
 

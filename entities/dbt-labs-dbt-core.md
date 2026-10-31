@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[pollen-robotics-microduck]] [[agricidaniel-claude-seo]] [[coollabsio-coolify]] [[snailsploit-claude-red]] [[nvidia-skillspector]]
+[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[macro-inc-macro]] [[pollen-robotics-microduck]] [[ruvnet-ruview]]
 
 **所属领域**: [[data]]
 

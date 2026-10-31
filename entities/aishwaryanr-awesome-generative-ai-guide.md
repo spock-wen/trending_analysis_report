@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[averygan-reclip]] [[anthropics-skills]] [[hkuds-deeptutor]] [[alchaincyf-huashu-design]] [[thedotmack-claude-mem]]
+[[pbakaus-impeccable]] [[obra-superpowers]] [[lightpanda-io-browser]] [[copilotkit-openbot]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

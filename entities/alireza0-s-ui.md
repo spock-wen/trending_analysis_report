@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[alibaba-open-code-review]] [[strelov1-freehire]] [[lightpanda-io-browser]] [[vxcontrol-pentagi]]
+[[vxcontrol-pentagi]] [[strelov1-freehire]] [[lightpanda-io-browser]] [[copilotkit-openbot]] [[hkuds-deeptutor]]
 
 **所属领域**: [[web]]
 

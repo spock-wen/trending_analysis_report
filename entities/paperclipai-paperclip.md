@@ -38,7 +38,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[anthropics-skills]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[jetbrains-thinkrail]]
+[[pingdotgg-t3code]] [[pbakaus-impeccable]] [[obra-superpowers]] [[affaan-m-ecc]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

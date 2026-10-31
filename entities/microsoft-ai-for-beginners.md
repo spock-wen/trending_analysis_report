@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[higgsfield-ai-higgsfield]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[microsoft-generative-ai-for-beginners]]
+[[fastapi-fastapi]] [[pbakaus-impeccable]] [[obra-superpowers]] [[lyogavin-airllm]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

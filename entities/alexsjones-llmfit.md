@@ -36,7 +36,7 @@ Hundreds of models & providers. One command to find what runs on your hardware.
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[pollen-robotics-microduck]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[mattpocock-skills]]
+[[pbakaus-impeccable]] [[macro-inc-macro]] [[obra-superpowers]] [[pollen-robotics-microduck]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

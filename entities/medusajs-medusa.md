@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[jetbrains-thinkrail]] [[php-php-src]]
+[[pingdotgg-t3code]] [[obra-superpowers]] [[php-php-src]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[erp]]
 

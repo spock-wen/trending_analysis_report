@@ -35,7 +35,7 @@ A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skil
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[ruvnet-ruflo]] [[coollabsio-coolify]] [[xtool-org-xtool]] [[thedotmack-claude-mem]]
+[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[ruvnet-ruflo]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

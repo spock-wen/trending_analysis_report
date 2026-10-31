@@ -34,5 +34,5 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 
 ## 相关项目
 
-[[panniantong-agent-reach]] [[tauricresearch-tradingagents]] [[hkuds-deeptutor]] [[anthropics-skills]]
+[[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[tauricresearch-tradingagents]] [[anthropics-skills]]
 

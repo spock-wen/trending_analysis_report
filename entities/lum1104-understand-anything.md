@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[xiaolai-the-craft-of-selfteaching]] [[anthropics-skills]] [[thedotmack-claude-mem]] [[obra-superpowers]]
+[[pingdotgg-t3code]] [[fastapi-fastapi]] [[pbakaus-impeccable]] [[obra-superpowers]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

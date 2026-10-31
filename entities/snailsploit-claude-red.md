@@ -38,7 +38,7 @@ claude-red is a curated library of offensive security skills designed for the Cl
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[agricidaniel-claude-seo]] [[hkuds-deeptutor]] [[coollabsio-coolify]] [[thedotmack-claude-mem]]
+[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[affaan-m-ecc]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[security]]
 

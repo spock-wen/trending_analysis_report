@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[lightpanda-io-browser]] [[tauricresearch-tradingagents]] [[nightly-labs-openbot]] [[copilotkit-openbot]]
+[[bregman-arie-devops-exercises]] [[lightpanda-io-browser]] [[copilotkit-openbot]] [[tauricresearch-tradingagents]] [[nightly-labs-openbot]]
 
 **所属领域**: [[web]]
 

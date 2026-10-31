@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[thedotmack-claude-mem]] [[nodejs-node]] [[obra-superpowers]] [[cloudflare-security-audit-skill]]
+[[pbakaus-impeccable]] [[obra-superpowers]] [[affaan-m-ecc]] [[thedotmack-claude-mem]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ A list of tools that are open-source, in-browser, and require no-signups!
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[jetbrains-thinkrail]] [[lightpanda-io-browser]] [[renhuai123-ziwei-doushu]]
+[[pingdotgg-t3code]] [[lightpanda-io-browser]] [[copilotkit-openbot]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[web]]
 

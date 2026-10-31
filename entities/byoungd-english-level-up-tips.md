@@ -38,7 +38,7 @@ An advanced guide to learn English which might benefit you a lot 🎉 . 人生�
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[mlabonne-llm-course]] [[fastapi-fastapi]] [[ruvnet-ruflo]]
+[[ruvnet-ruflo]] [[fastapi-fastapi]] [[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[education]]
 

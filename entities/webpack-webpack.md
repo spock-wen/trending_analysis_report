@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[coollabsio-coolify]] [[hmjz100-linkswift]] [[ntdevlabs-tiny11builder]] [[nodejs-node]]
+[[ntdevlabs-tiny11builder]] [[lightpanda-io-browser]] [[affaan-m-ecc]] [[copilotkit-openbot]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[web]] [[image-gen]]
 

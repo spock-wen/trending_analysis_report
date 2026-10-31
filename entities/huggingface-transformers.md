@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[hkuds-deeptutor]] [[debpalash-voicestudio]] [[thedotmack-claude-mem]] [[obra-superpowers]]
+[[alishahryar1-free-claude-code]] [[bregman-arie-devops-exercises]] [[fastapi-fastapi]] [[pbakaus-impeccable]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

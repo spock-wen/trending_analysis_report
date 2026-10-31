@@ -35,7 +35,7 @@ Beads - A memory upgrade for your coding agent
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[strelov1-freehire]] [[vxcontrol-pentagi]]
+[[vxcontrol-pentagi]] [[strelov1-freehire]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[thedotmack-claude-mem]] [[obra-superpowers]] [[microsoft-generative-ai-for-beginners]] [[lyogavin-airllm]]
+[[fastapi-fastapi]] [[pbakaus-impeccable]] [[obra-superpowers]] [[ruvnet-ruflo]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

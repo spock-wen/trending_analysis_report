@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[thedotmack-claude-mem]] [[nodejs-node]] [[obra-superpowers]] [[cloudflare-security-audit-skill]]
+[[pbakaus-impeccable]] [[obra-superpowers]] [[thedotmack-claude-mem]] [[robbyant-lingbot-map]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

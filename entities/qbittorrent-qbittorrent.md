@@ -34,7 +34,7 @@ qBittorrent BitTorrent client
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[boykopovar-anyps5]] [[m-abozaid-esp32-c3-adblock]] [[obra-superpowers]] [[thu-maic-openmaic]]
+[[mattpocock-skills]] [[thu-maic-openmaic]] [[donchitos-claude-code-game-studios]] [[microsoft-bitnet]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

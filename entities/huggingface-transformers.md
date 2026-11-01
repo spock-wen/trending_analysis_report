@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[bregman-arie-devops-exercises]] [[fastapi-fastapi]] [[pbakaus-impeccable]] [[obra-superpowers]]
+[[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[mattpocock-skills]] [[thu-maic-openmaic]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

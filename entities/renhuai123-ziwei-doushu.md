@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]]
+[[thu-maic-openmaic]] [[mattpocock-skills]] [[pbakaus-impeccable]] [[obra-superpowers]] [[pingdotgg-t3code]]
 
 **所属领域**: [[ai-agent]]
 

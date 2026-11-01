@@ -34,7 +34,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thedotmack-claude-mem]]
+[[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[mattpocock-skills]] [[hugohe3-ppt-master]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

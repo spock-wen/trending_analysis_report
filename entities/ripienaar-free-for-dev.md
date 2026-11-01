@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[lightpanda-io-browser]] [[copilotkit-openbot]] [[ruvnet-ruflo]] [[ruvnet-ruview]]
+[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[averygan-reclip]] [[hkuds-deeptutor]] [[alchaincyf-huashu-design]]
 
 **所属领域**: [[web]] [[devops]]
 

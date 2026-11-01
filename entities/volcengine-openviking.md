@@ -38,7 +38,7 @@ Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG 
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thedotmack-claude-mem]] [[tauricresearch-tradingagents]]
+[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[mattpocock-skills]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

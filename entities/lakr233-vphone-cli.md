@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[obra-superpowers]] [[thu-maic-openmaic]] [[vorssaint-vorssaint-utils]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[thu-maic-openmaic]] [[abue-ammar-tinycast]] [[donchitos-claude-code-game-studios]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[cli]]
 

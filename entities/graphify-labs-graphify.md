@@ -38,7 +38,7 @@ Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]]
+[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[mattpocock-skills]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

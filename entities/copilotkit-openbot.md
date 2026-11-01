@@ -35,7 +35,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[pbakaus-impeccable]] [[obra-superpowers]] [[lightpanda-io-browser]] [[thu-maic-openmaic]]
+[[thu-maic-openmaic]] [[mattpocock-skills]] [[hkuds-deeptutor]] [[pbakaus-impeccable]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

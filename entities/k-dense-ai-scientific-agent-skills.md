@@ -38,7 +38,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[affaan-m-ecc]] [[thedotmack-claude-mem]]
+[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[mattpocock-skills]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

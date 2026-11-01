@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[macro-inc-macro]] [[obra-superpowers]] [[pollen-robotics-microduck]] [[ruvnet-ruview]]
+[[mattpocock-skills]] [[pollen-robotics-microduck]] [[thu-maic-openmaic]] [[donchitos-claude-code-game-studios]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

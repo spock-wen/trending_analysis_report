@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[android-skills]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thedotmack-claude-mem]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[pbakaus-impeccable]] [[obra-superpowers]] [[bannedbook-fanqiang]] [[android-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[pingdotgg-t3code]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thu-maic-openmaic]]
+[[coollabsio-coolify]] [[thu-maic-openmaic]] [[mattpocock-skills]] [[ntdevlabs-tiny11builder]] [[comfy-org-comfyui]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

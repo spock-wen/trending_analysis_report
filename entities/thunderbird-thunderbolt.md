@@ -34,7 +34,7 @@ AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thu-maic-openmaic]]
+[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[thu-maic-openmaic]] [[mattpocock-skills]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

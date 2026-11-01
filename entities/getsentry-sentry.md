@@ -36,7 +36,7 @@ Developer-first error tracking and performance monitoring
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[ruvnet-ruflo]] [[ruvnet-ruview]] [[tauricresearch-tradingagents]] [[coollabsio-coolify]]
+[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[ruvnet-ruview]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[devops]]
 

@@ -38,7 +38,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[copilotkit-openbot]] [[lightpanda-io-browser]] [[tauricresearch-tradingagents]] [[nightly-labs-openbot]]
+[[bregman-arie-devops-exercises]] [[tauricresearch-tradingagents]] [[copilotkit-openbot]] [[lightpanda-io-browser]] [[nightly-labs-openbot]]
 
 **所属领域**: [[web]]
 

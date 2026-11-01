@@ -34,7 +34,7 @@ Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, 
 
 ## 相关项目
 
-[[anthropics-skills]] [[ruvnet-ruflo]] [[ruvnet-ruview]] [[tauricresearch-tradingagents]] [[agricidaniel-claude-seo]]
+[[coollabsio-coolify]] [[hkuds-deeptutor]] [[nvidia-skillspector]] [[agricidaniel-claude-seo]] [[ruvnet-ruview]]
 
 **所属领域**: [[data]] [[devops]]
 

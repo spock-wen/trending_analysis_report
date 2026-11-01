@@ -36,7 +36,7 @@ Help AI coding agents write modern Go
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[strelov1-freehire]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thedotmack-claude-mem]]
+[[alibaba-open-code-review]] [[mattpocock-skills]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]]
 

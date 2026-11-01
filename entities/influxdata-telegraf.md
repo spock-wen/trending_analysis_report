@@ -37,7 +37,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[vxcontrol-pentagi]] [[strelov1-freehire]] [[pbakaus-impeccable]] [[obra-superpowers]]
+[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[alibaba-open-code-review]] [[mattpocock-skills]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

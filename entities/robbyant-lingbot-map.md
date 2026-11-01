@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[anthropics-skills]] [[affaan-m-ecc]] [[tauricresearch-tradingagents]] [[agricidaniel-claude-seo]]
+[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[nvidia-skillspector]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[data]] [[science]]
 

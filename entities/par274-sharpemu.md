@@ -35,5 +35,5 @@ An experimental PlayStation 5 emulator project.
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[k1tbyte-wand-enhancer]] [[dotnet-aspnetcore]] [[sonarr-sonarr]]
+[[sonarr-sonarr]] [[ntdevlabs-tiny11builder]] [[k1tbyte-wand-enhancer]] [[dotnet-aspnetcore]]
 

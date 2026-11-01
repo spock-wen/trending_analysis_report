@@ -34,7 +34,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[obra-superpowers]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]] [[agricidaniel-claude-seo]]
+[[bregman-arie-devops-exercises]] [[mattpocock-skills]] [[ntdevlabs-tiny11builder]] [[comfy-org-comfyui]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

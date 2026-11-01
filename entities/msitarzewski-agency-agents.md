@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[obra-superpowers]] [[lightpanda-io-browser]] [[copilotkit-openbot]] [[thu-maic-openmaic]]
+[[donchitos-claude-code-game-studios]] [[mattpocock-skills]] [[hkuds-deeptutor]] [[thu-maic-openmaic]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

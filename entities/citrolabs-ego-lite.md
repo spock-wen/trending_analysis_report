@@ -38,7 +38,7 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[obra-superpowers]] [[affaan-m-ecc]] [[lightpanda-io-browser]] [[copilotkit-openbot]]
+[[mattpocock-skills]] [[hkuds-deeptutor]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

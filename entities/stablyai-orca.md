@@ -38,7 +38,7 @@ Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]]
+[[thu-maic-openmaic]] [[mattpocock-skills]] [[pbakaus-impeccable]] [[obra-superpowers]] [[pingdotgg-t3code]]
 
 **所属领域**: [[ai-agent]]
 

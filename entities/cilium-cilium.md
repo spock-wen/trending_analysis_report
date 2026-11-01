@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[vxcontrol-pentagi]] [[strelov1-freehire]] [[ruvnet-ruflo]] [[affaan-m-ecc]]
+[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[nvidia-skillspector]]
 
 **所属领域**: [[devops]] [[security]]
 

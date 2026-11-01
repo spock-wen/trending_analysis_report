@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[affaan-m-ecc]]
+[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[mattpocock-skills]] [[ntdevlabs-tiny11builder]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

@@ -38,7 +38,7 @@ Claude Agent SDK with a web browsing tool
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[obra-superpowers]] [[affaan-m-ecc]] [[lightpanda-io-browser]] [[copilotkit-openbot]]
+[[mattpocock-skills]] [[hkuds-deeptutor]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

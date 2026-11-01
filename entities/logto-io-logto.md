@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[ruvnet-ruflo]]
+[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[thu-maic-openmaic]] [[mattpocock-skills]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -37,7 +37,7 @@ Deepseek to API: A lightweight, high-performance full-stack middleware convertin
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[strelov1-freehire]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thu-maic-openmaic]]
+[[alibaba-open-code-review]] [[mattpocock-skills]] [[juliusbrussee-caveman]] [[thu-maic-openmaic]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

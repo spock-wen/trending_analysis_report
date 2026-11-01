@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[fastapi-fastapi]] [[pbakaus-impeccable]] [[obra-superpowers]] [[lyogavin-airllm]]
+[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[mattpocock-skills]] [[thu-maic-openmaic]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

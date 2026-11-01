@@ -35,5 +35,5 @@ a code review TUI with vim keybindings
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[pbakaus-impeccable]] [[macro-inc-macro]] [[pollen-robotics-microduck]]
+[[ruvnet-ruview]] [[pbakaus-impeccable]] [[pollen-robotics-microduck]] [[macro-inc-macro]]
 

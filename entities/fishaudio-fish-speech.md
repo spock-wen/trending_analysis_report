@@ -37,7 +37,7 @@ SOTA Open Source TTS
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[bregman-arie-devops-exercises]] [[tauricresearch-tradingagents]] [[hugohe3-ppt-master]] [[openbmb-voxcpm]]
+[[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[hugohe3-ppt-master]] [[tauricresearch-tradingagents]] [[debpalash-voicestudio]]
 
 **所属领域**: [[audio]]
 

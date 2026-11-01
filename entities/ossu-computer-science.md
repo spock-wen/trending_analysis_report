@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[copilotkit-openbot]] [[cathrynlavery-diagram-design]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]]
+[[ripienaar-free-for-dev]] [[averygan-reclip]] [[hkuds-deeptutor]] [[alchaincyf-huashu-design]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]]
 

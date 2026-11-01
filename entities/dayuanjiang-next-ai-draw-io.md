@@ -34,7 +34,7 @@ A next.js web application that integrates AI capabilities with draw.io diagrams.
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[pbakaus-impeccable]] [[obra-superpowers]] [[lightpanda-io-browser]] [[copilotkit-openbot]]
+[[thu-maic-openmaic]] [[mattpocock-skills]] [[hkuds-deeptutor]] [[donchitos-claude-code-game-studios]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

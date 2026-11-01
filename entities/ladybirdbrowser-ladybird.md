@@ -36,7 +36,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[boykopovar-anyps5]] [[m-abozaid-esp32-c3-adblock]] [[lightpanda-io-browser]] [[copilotkit-openbot]]
+[[hkuds-deeptutor]] [[microsoft-bitnet]] [[boykopovar-anyps5]] [[lightpanda-io-browser]] [[copilotkit-openbot]]
 
 **所属领域**: [[web]]
 

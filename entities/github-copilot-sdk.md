@@ -38,7 +38,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[obra-superpowers]] [[google-guava]] [[thedotmack-claude-mem]] [[checkstyle-checkstyle]]
+[[google-guava]] [[mattpocock-skills]] [[checkstyle-checkstyle]] [[pbakaus-impeccable]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[obra-superpowers]] [[affaan-m-ecc]] [[thedotmack-claude-mem]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[nvidia-skillspector]] [[pbakaus-impeccable]] [[obra-superpowers]] [[snailsploit-claude-red]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

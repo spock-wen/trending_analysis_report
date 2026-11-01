@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[boykopovar-anyps5]] [[m-abozaid-esp32-c3-adblock]] [[obra-superpowers]] [[php-php-src]]
+[[hugohe3-ppt-master]] [[agricidaniel-claude-seo]] [[php-php-src]] [[microsoft-bitnet]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

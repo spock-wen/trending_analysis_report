@@ -38,7 +38,7 @@ AirLLM 2.8T LLM inference with single 4GB GPU
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[obra-superpowers]] [[xiaolai-the-craft-of-selfteaching]] [[thedotmack-claude-mem]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[xiaolai-the-craft-of-selfteaching]] [[pbakaus-impeccable]] [[obra-superpowers]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[ai-agent]]
 

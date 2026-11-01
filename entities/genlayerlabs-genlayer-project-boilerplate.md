@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[obra-superpowers]] [[php-php-src]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]]
+[[thu-maic-openmaic]] [[hugohe3-ppt-master]] [[agricidaniel-claude-seo]] [[php-php-src]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

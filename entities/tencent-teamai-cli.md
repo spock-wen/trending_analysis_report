@@ -35,7 +35,7 @@ Make Every Team AI Native
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]]
+[[thu-maic-openmaic]] [[mattpocock-skills]] [[donchitos-claude-code-game-studios]] [[pbakaus-impeccable]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

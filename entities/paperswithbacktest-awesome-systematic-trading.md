@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[fastapi-fastapi]] [[ruvnet-ruflo]] [[affaan-m-ecc]] [[thu-maic-openmaic]]
+[[bregman-arie-devops-exercises]] [[thu-maic-openmaic]] [[hkuds-deeptutor]] [[xiaolai-the-craft-of-selfteaching]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[education]] [[science]]
 

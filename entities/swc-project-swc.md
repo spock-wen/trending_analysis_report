@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[macro-inc-macro]] [[pollen-robotics-microduck]] [[lightpanda-io-browser]] [[copilotkit-openbot]]
+[[hkuds-deeptutor]] [[pollen-robotics-microduck]] [[ruvnet-ruview]] [[pbakaus-impeccable]] [[copilotkit-openbot]]
 
 **所属领域**: [[web]]
 

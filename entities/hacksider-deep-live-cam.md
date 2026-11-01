@@ -34,7 +34,7 @@ real time face swap and one-click video deepfake with only a single image
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[bregman-arie-devops-exercises]] [[obra-superpowers]] [[thu-maic-openmaic]] [[tauricresearch-tradingagents]]
+[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[mattpocock-skills]] [[thu-maic-openmaic]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

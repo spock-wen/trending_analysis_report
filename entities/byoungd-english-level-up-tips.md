@@ -38,7 +38,7 @@ An advanced guide to learn English which might benefit you a lot 🎉 . 人生�
 
 ## 相关项目
 
-[[ruvnet-ruflo]] [[fastapi-fastapi]] [[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]]
+[[xiaolai-the-craft-of-selfteaching]] [[thu-maic-openmaic]] [[fastapi-fastapi]] [[ruvnet-ruflo]]
 
 **所属领域**: [[education]]
 

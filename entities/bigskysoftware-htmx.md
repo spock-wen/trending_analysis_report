@@ -34,7 +34,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[affaan-m-ecc]] [[copilotkit-openbot]] [[cloudflare-security-audit-skill]] [[orkas-ai-orkas]]
+[[hkuds-deeptutor]] [[cloudflare-security-audit-skill]] [[copilotkit-openbot]] [[lightpanda-io-browser]] [[nightly-labs-openbot]]
 
 **所属领域**: [[web]]
 

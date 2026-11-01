@@ -36,7 +36,7 @@ Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vert
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[obra-superpowers]] [[lyogavin-airllm]] [[xiaolai-the-craft-of-selfteaching]] [[thedotmack-claude-mem]]
+[[mattpocock-skills]] [[xiaolai-the-craft-of-selfteaching]] [[pbakaus-impeccable]] [[obra-superpowers]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

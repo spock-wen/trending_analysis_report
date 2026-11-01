@@ -34,7 +34,7 @@ One has no future if one couldn't teach themself.
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[pbakaus-impeccable]] [[obra-superpowers]] [[lyogavin-airllm]] [[ruvnet-ruflo]]
+[[mattpocock-skills]] [[thu-maic-openmaic]] [[pbakaus-impeccable]] [[obra-superpowers]] [[ruvnet-ruflo]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

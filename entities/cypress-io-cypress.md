@@ -37,7 +37,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[lightpanda-io-browser]] [[copilotkit-openbot]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]]
+[[hkuds-deeptutor]] [[thu-maic-openmaic]] [[pingdotgg-t3code]] [[lightpanda-io-browser]] [[copilotkit-openbot]]
 
 **所属领域**: [[web]]
 

@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[fastapi-fastapi]] [[pbakaus-impeccable]] [[obra-superpowers]] [[affaan-m-ecc]]
+[[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[mattpocock-skills]] [[thu-maic-openmaic]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

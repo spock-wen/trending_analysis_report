@@ -34,7 +34,7 @@ AI that sees your screen, listens to your conversations and tells you what to do
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[localsend-localsend]] [[obra-superpowers]] [[flutter-skills]] [[thedotmack-claude-mem]]
+[[chen08209-flclash]] [[mattpocock-skills]] [[localsend-localsend]] [[pbakaus-impeccable]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

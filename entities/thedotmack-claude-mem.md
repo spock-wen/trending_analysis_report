@@ -38,7 +38,7 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thu-maic-openmaic]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[thu-maic-openmaic]] [[pbakaus-impeccable]] [[obra-superpowers]] [[pingdotgg-t3code]]
 
 **所属领域**: [[ai-agent]]
 

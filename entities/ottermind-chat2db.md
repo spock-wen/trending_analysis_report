@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[google-guava]] [[thu-maic-openmaic]]
+[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[google-guava]] [[mattpocock-skills]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

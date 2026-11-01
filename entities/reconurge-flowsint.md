@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[affaan-m-ecc]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]] [[cloudflare-security-audit-skill]]
+[[thu-maic-openmaic]] [[nvidia-skillspector]] [[cloudflare-security-audit-skill]] [[pingdotgg-t3code]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

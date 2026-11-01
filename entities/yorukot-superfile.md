@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[strelov1-freehire]] [[obra-superpowers]] [[thu-maic-openmaic]] [[mattpocock-skills]]
+[[alibaba-open-code-review]] [[mattpocock-skills]] [[juliusbrussee-caveman]] [[thu-maic-openmaic]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[cli]]
 

@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[lightpanda-io-browser]] [[copilotkit-openbot]]
+[[ripienaar-free-for-dev]] [[bregman-arie-devops-exercises]] [[coollabsio-coolify]] [[averygan-reclip]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

@@ -38,7 +38,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[obra-superpowers]] [[lightpanda-io-browser]] [[copilotkit-openbot]] [[thedotmack-claude-mem]]
+[[mattpocock-skills]] [[hkuds-deeptutor]] [[conardli-garden-skills]] [[diolinux-photogimp]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

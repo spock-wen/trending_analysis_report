@@ -36,7 +36,7 @@ Official inference framework for 1-bit LLMs
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[m-abozaid-esp32-c3-adblock]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thedotmack-claude-mem]]
+[[mattpocock-skills]] [[pbakaus-impeccable]] [[obra-superpowers]] [[boykopovar-anyps5]] [[m-abozaid-esp32-c3-adblock]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,5 +36,5 @@ Meta-Framework of Spatiotemporal Composability
 
 ## 相关项目
 
-[[renhuai123-ziwei-doushu]] [[pingdotgg-t3code]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]]
+[[thu-maic-openmaic]] [[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]]
 

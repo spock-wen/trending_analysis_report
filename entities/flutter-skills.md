@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[localsend-localsend]] [[obra-superpowers]] [[thedotmack-claude-mem]] [[chen08209-flclash]]
+[[chen08209-flclash]] [[mattpocock-skills]] [[localsend-localsend]] [[pbakaus-impeccable]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

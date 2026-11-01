@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[obra-superpowers]] [[php-php-src]] [[tauricresearch-tradingagents]] [[agricidaniel-claude-seo]]
+[[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[hugohe3-ppt-master]] [[agricidaniel-claude-seo]] [[php-php-src]]
 
 **所属领域**: [[erp]]
 

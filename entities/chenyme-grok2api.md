@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[strelov1-freehire]] [[lightpanda-io-browser]] [[copilotkit-openbot]] [[obra-superpowers]]
+[[alibaba-open-code-review]] [[hkuds-deeptutor]] [[juliusbrussee-caveman]] [[mattpocock-skills]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[web]] [[cli]]
 

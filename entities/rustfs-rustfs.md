@@ -35,5 +35,5 @@ RustFS is an open-source, S3-compatible high-performance object storage system s
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[pbakaus-impeccable]] [[macro-inc-macro]] [[pollen-robotics-microduck]]
+[[ruvnet-ruview]] [[pbakaus-impeccable]] [[pollen-robotics-microduck]] [[macro-inc-macro]]
 

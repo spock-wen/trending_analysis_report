@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[bregman-arie-devops-exercises]] [[obra-superpowers]] [[thu-maic-openmaic]] [[tauricresearch-tradingagents]]
+[[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[mattpocock-skills]] [[thu-maic-openmaic]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[cli]] [[audio]]
 

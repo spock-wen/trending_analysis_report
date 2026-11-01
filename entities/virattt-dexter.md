@@ -38,7 +38,7 @@ An autonomous agent for deep financial research
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[pbakaus-impeccable]] [[obra-superpowers]] [[affaan-m-ecc]] [[thu-maic-openmaic]]
+[[thu-maic-openmaic]] [[mattpocock-skills]] [[pbakaus-impeccable]] [[obra-superpowers]] [[pingdotgg-t3code]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

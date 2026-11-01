@@ -36,7 +36,7 @@ OCR model that handles complex tables, forms, handwriting with full layout.
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[anthropics-skills]] [[tauricresearch-tradingagents]] [[agricidaniel-claude-seo]] [[coollabsio-coolify]]
+[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[nvidia-skillspector]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[data]]
 

@@ -38,5 +38,5 @@ No description
 
 ## 相关项目
 
-[[renhuai123-ziwei-doushu]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]]
+[[thu-maic-openmaic]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]]
 

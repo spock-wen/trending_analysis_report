@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[obra-superpowers]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]] [[mattpocock-skills]]
+[[thu-maic-openmaic]] [[mattpocock-skills]] [[donchitos-claude-code-game-studios]] [[obra-superpowers]] [[pingdotgg-t3code]]
 
 **所属领域**: [[cli]]
 

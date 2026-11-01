@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[fastapi-fastapi]] [[pbakaus-impeccable]] [[obra-superpowers]] [[ruvnet-ruflo]]
+[[thu-maic-openmaic]] [[mattpocock-skills]] [[donchitos-claude-code-game-studios]] [[xiaolai-the-craft-of-selfteaching]] [[pbakaus-impeccable]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

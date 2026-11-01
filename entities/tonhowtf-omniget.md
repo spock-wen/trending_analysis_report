@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[fastapi-fastapi]] [[pbakaus-impeccable]] [[macro-inc-macro]] [[obra-superpowers]]
+[[mattpocock-skills]] [[pollen-robotics-microduck]] [[thu-maic-openmaic]] [[donchitos-claude-code-game-studios]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

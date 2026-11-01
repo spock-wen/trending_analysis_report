@@ -34,7 +34,7 @@ An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that 
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[bregman-arie-devops-exercises]] [[obra-superpowers]] [[ruvnet-ruflo]] [[swoole-typephp]]
+[[grokability-snipe-it]] [[bregman-arie-devops-exercises]] [[thu-maic-openmaic]] [[mattpocock-skills]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[cli]] [[data]] [[devops]] [[image-gen]]
 

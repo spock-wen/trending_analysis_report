@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[obra-superpowers]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]] [[expo-skills]]
+[[donchitos-claude-code-game-studios]] [[thu-maic-openmaic]] [[pbakaus-impeccable]] [[obra-superpowers]] [[expo-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

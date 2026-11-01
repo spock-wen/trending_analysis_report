@@ -35,7 +35,7 @@ Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skill
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[obra-superpowers]] [[thu-maic-openmaic]] [[thedotmack-claude-mem]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[thu-maic-openmaic]] [[pbakaus-impeccable]] [[obra-superpowers]] [[expo-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

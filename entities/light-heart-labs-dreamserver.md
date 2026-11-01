@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[bregman-arie-devops-exercises]] [[alishahryar1-free-claude-code]] [[pbakaus-impeccable]] [[obra-superpowers]]
+[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[mattpocock-skills]] [[ntdevlabs-tiny11builder]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

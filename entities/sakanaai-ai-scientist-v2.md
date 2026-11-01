@@ -35,7 +35,7 @@ The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[pbakaus-impeccable]] [[obra-superpowers]] [[php-php-src]] [[affaan-m-ecc]]
+[[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[mattpocock-skills]] [[hugohe3-ppt-master]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

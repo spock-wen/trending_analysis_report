@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[alishahryar1-free-claude-code]] [[boykopovar-anyps5]] [[m-abozaid-esp32-c3-adblock]] [[pbakaus-impeccable]]
+[[mattpocock-skills]] [[hugohe3-ppt-master]] [[microsoft-bitnet]] [[pbakaus-impeccable]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

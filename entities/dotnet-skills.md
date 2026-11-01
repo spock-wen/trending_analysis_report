@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[pbakaus-impeccable]] [[obra-superpowers]] [[sonarr-sonarr]] [[thedotmack-claude-mem]]
+[[mattpocock-skills]] [[ntdevlabs-tiny11builder]] [[sonarr-sonarr]] [[pbakaus-impeccable]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

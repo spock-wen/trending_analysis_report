@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[nvidia-skillspector]] [[agricidaniel-claude-seo]]
+[[hkuds-deeptutor]] [[nvidia-skillspector]] [[public-apis-public-apis]] [[beenuar-aisoc]] [[copilotkit-openbot]]
 
 **所属领域**: [[web]] [[data]]
 

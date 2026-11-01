@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[mattpocock-skills]] [[pollen-robotics-microduck]] [[thu-maic-openmaic]]
+[[cjpais-handy]] [[macro-inc-macro]] [[nvidia-skillspector]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

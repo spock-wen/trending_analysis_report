@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[mattpocock-skills]] [[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[pbakaus-impeccable]]
+[[hkuds-deeptutor]] [[fastapi-fastapi]] [[thedotmack-claude-mem]] [[copilotkit-openbot]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

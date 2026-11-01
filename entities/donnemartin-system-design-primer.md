@@ -36,7 +36,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[thu-maic-openmaic]] [[hkuds-deeptutor]] [[xiaolai-the-craft-of-selfteaching]] [[tauricresearch-tradingagents]]
+[[fastapi-fastapi]] [[public-apis-public-apis]] [[beenuar-aisoc]] [[shiyu-coder-kronos]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[education]]
 

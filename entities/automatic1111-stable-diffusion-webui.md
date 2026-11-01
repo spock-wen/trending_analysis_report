@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[ntdevlabs-tiny11builder]] [[comfy-org-comfyui]]
+[[hkuds-deeptutor]] [[public-apis-public-apis]] [[beenuar-aisoc]] [[copilotkit-openbot]] [[lightpanda-io-browser]]
 
 **所属领域**: [[web]] [[image-gen]]
 

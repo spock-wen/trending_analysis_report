@@ -38,7 +38,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[averygan-reclip]] [[mattpocock-skills]] [[alchaincyf-huashu-design]] [[hkuds-deeptutor]]
+[[hkuds-deeptutor]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]] [[copilotkit-openbot]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

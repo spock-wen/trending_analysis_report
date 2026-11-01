@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[mattpocock-skills]] [[thu-maic-openmaic]] [[hugohe3-ppt-master]]
+[[cjpais-handy]] [[fastapi-fastapi]] [[public-apis-public-apis]] [[beenuar-aisoc]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

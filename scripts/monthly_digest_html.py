@@ -132,8 +132,9 @@ if sec >= 0:
         if len(r) >= 7:
             top10.append({
                 'rank': r[0], 'name': r[1].replace('**', ''),
-                'new': r[2].replace('+', ''), 'total': r[3],
-                'lang': r[4], 'days': r[5], 'best': r[6],
+                'new': r[2].replace('+', '').replace('**', ''), 'total': r[3].replace('**', ''),
+                'lang': r[4].replace('**', ''), 'days': r[5].replace('**', ''),
+                'best': r[6].replace('**', ''),
             })
 
 # ── 三、三大王冠 ──
@@ -148,16 +149,16 @@ if sec >= 0:
             continue
         name = row[0].replace('**', '')
         if '持久' in title:
-            key = f'全月 {row[1]} · 连续 {row[2]}'
-            right, sub = row[3], row[4] if len(row) > 4 else ''
+            key = f'全月 {row[1].replace("**","")} · 连续 {row[2].replace("**","")}'
+            right, sub = row[3].replace('**', ''), row[4].replace('**', '') if len(row) > 4 else ''
         elif '单日' in title or '爆发' in title:
-            key = f'{row[2]} 单日 +{row[1]}'
-            right, sub = '', row[3] if len(row) > 3 else ''
+            key = f'{row[2].replace("**","")} 单日 +{row[1].replace("**","").replace("+","")}'
+            right, sub = '', row[3].replace('**', '') if len(row) > 3 else ''
         elif '新秀' in title:
-            key = f'{row[1]}★ · {row[2]}'
-            right, sub = '', row[3] if len(row) > 3 else ''
+            key = f'{row[1].replace("**","")}★ · {row[2].replace("**","")}'
+            right, sub = '', row[3].replace('**', '') if len(row) > 3 else ''
         else:
-            key, right, sub = ' · '.join(row[1:3]), '', row[3] if len(row) > 3 else ''
+            key, right, sub = ' · '.join(row[1:3]), '', row[3].replace('**', '') if len(row) > 3 else ''
         tag = re.sub(r'^[^\w]*', '', title.split('—')[0]).strip()  # 去 emoji
         crowns.append((tag, name, key, right, sub))
 

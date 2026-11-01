@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-11-01 | 总页面：854
+> 最后更新：2026-11-02 | 总页面：860
 
 ## Entities
 
@@ -67,6 +67,7 @@
 - [[angular-angular|angular]] — Deliver web apps with confidence 🚀
 - [[anil-matcha-open-generative-ai|Open-Generative-AI]] — Unrestricted Open-source alternative to AI video platforms —...
 - [[ankitects-anki|anki]] — Anki is a smart spaced repetition flashcard program
+- [[anomalyco-hex|hex]] — Local voice dictation for mac, windows and linux 🆕
 - [[anomalyco-opencode|opencode]] — The open source coding agent. 🔥
 - [[anonfaded-fadcam|FadCam]] — Open-source, ad-free Android multimedia recorder with backgr...
 - [[ansible-ansible|ansible]] — Ansible is a radically simple IT automation platform that ma...
@@ -108,6 +109,7 @@
 - [[bannedbook-fanqiang|fanqiang]] — 翻墙-科学上网 🆕
 - [[basecamp-omarchy|omarchy]] — Beautiful, Modern & Opinionated Linux 🔥
 - [[basedhardware-omi|omi]] — AI that sees your screen, listens to your conversations and ...
+- [[beenuar-aisoc|AiSOC]] — Open-source AI Security Operations Center: alert fusion, LLM... 🆕
 - [[berriai-litellm|litellm]] — The fastest, litest AI Gateway. Rust core with Python SDK. C...
 - [[bigbodycobain-shadowbroker|Shadowbroker]] — Open-source intelligence for the global theater. Track every... 🆕
 - [[bigskysoftware-htmx|htmx]] — </> htmx - high power tools for HTML
@@ -123,7 +125,7 @@
 - [[boykopovar-anyps5|AnyPS5]] — Tool for automatic PS5 executables porting to Linux and Wind... 🔥
 - [[bradautomates-claude-video|claude-video]] — Give Claude the ability to watch any video. /watch downloads... 🆕
 - [[braveopotato-fcksignups|FckSignups]] — A list of tools that are open-source, in-browser, and requir... 🔥
-- [[bregman-arie-devops-exercises|devops-exercises]] — Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansibl... 🆕
+- [[bregman-arie-devops-exercises|devops-exercises]] — Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansibl...
 - [[browser-use-browser-use|browser-use]] — 🌐 Make websites accessible for AI agents. Automate tasks onl...
 - [[browser-use-video-use|video-use]] — Edit videos with coding agents 🆕
 - [[browserbase-skills|skills]] — Claude Agent SDK with a web browsing tool 🔥
@@ -158,6 +160,7 @@
 - [[cilium-cilium|cilium]] — eBPF-based Networking, Security, and Observability
 - [[citrolabs-ego-lite|ego-lite]] — The fastest browser for AI agents to run browser automation,... 🆕
 - [[cjackhwang-ds2api|ds2api]] — Deepseek to API: A lightweight, high-performance full-stack ... 🔥
+- [[cjpais-handy|Handy]] — A free, open source, and extensible speech-to-text applicati... 🆕
 - [[cline-cline|cline]] — Autonomous coding agent as an SDK, IDE extension, or CLI ass... 🆕
 - [[cloakhq-cloakbrowser|CloakBrowser]] — Stealth Chromium that passes every bot detection test. Drop-... 🆕
 - [[cloudflare-cloudflare-os|cloudflare-os]] — Agent workspace built on Cloudflare Workers for creating doc...
@@ -182,7 +185,7 @@
 - [[continuedev-continue|continue]] — open-source coding agent
 - [[coollabsio-coolify|coolify]] — An open-source, self-hostable PaaS alternative to Vercel, He...
 - [[copilotkit-copilotkit|CopilotKit]] — The Frontend Stack for Agents & Generative UI. React, Angula...
-- [[copilotkit-openbot|OpenBot]] — Open-source AI coworkers that each get a computer of their o... 🆕
+- [[copilotkit-openbot|OpenBot]] — Open-source AI coworkers that each get a computer of their o...
 - [[coplaydev-unity-mcp|unity-mcp]] — Unity MCP acts as a bridge between AI assistants and your Un... 🆕
 - [[cordiverse-cordis|cordis]] — Meta-Framework of Spatiotemporal Composability 🔥
 - [[corebunch-instatic|Instatic]] — The open-source alternative to Webflow, Framer and WordPress... 🆕
@@ -229,7 +232,7 @@
 - [[docling-project-docling|docling]] — Get your documents ready for gen AI
 - [[docusealco-docuseal|docuseal]] — Open source DocuSign alternative. Create, fill, and sign dig...
 - [[dograh-hq-dograh|dograh]] — Open Source Voice Agent Platform
-- [[donchitos-claude-code-game-studios|Claude-Code-Game-Studios]] — Turn Claude Code into a full game dev studio — 49 AI agents,...
+- [[donchitos-claude-code-game-studios|Claude-Code-Game-Studios]] — Turn Claude Code into a full game dev studio — 49 AI agents,... 🆕
 - [[donnemartin-system-design-primer|system-design-primer]] — Learn how to design large-scale systems. Prep for the system...
 - [[dotnet-aspnetcore|aspnetcore]] — ASP.NET Core is a cross-platform .NET framework for building...
 - [[dotnet-skills|skills]] — Repository for skills to assist AI coding agents with .NET a...
@@ -265,6 +268,7 @@
 - [[firecrawl-pdf-inspector|pdf-inspector]] — Fast Rust library for PDF inspection, classification, and te... 🔥
 - [[fishaudio-fish-speech|fish-speech]] — SOTA Open Source TTS 🔥
 - [[fission-ai-openspec|OpenSpec]] — Spec-driven development (SDD) for AI coding assistants.
+- [[flashml-org-freetoken|FreeToken]] — FreeToken brings datacenter-scale model serving to your desk... 🆕
 - [[flowseal-zapret-discord-youtube|zapret-discord-youtube]] — No description
 - [[flutter-flutter|flutter]] — Flutter makes it easy and fast to build beautiful apps for m...
 - [[flutter-skills|skills]] — No description
@@ -361,7 +365,7 @@
 - [[humanlayer-skills|skills]] — No description 🆕
 - [[hunxbyts-ghosttrack|GhostTrack]] — Useful tool to track location or mobile number
 - [[huxingyi-autoremesher|autoremesher]] — Automatic quad remeshing tool 🆕
-- [[hyprwm-hyprland|Hyprland]] — Hyprland is an independent, highly customizable, dynamic til... 🆕
+- [[hyprwm-hyprland|Hyprland]] — Hyprland is an independent, highly customizable, dynamic til...
 - [[ibelick-ui-skills|ui-skills]] — Skills for Design Engineers
 - [[icewhaletech-casaos|CasaOS]] — CasaOS - A simple, easy-to-use, elegant open-source Personal... 🔥
 - [[ifixai-ai-ifixai|iFixAi]] — Independent Auditing of AI Agents. Run by human or the agent...
@@ -420,6 +424,7 @@
 - [[knockoutez-wigolo|wigolo]] — The go-to web for your AI coding agent — local-first search,... 🔥
 - [[koala73-worldmonitor|worldmonitor]] — Real-time global intelligence dashboard. AI-powered news agg... 🔥
 - [[kong-insomnia|insomnia]] — The open-source, cross-platform API client for GraphQL, REST... 🔥
+- [[kornia-kornia|kornia]] — 🐍 Geometric Computer Vision Library for Spatial AI 🆕
 - [[krahets-hello-algo|hello-algo]] — 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python...
 - [[kruk2-jasna|jasna]] — Video restoration tool 🆕
 - [[kunchenguid-no-mistakes|no-mistakes]] — git push no-mistakes
@@ -440,7 +445,7 @@
 - [[libretranslate-libretranslate|LibreTranslate]] — Free and Open Source Machine Translation API. Self-hosted, o...
 - [[light-heart-labs-dreamserver|DreamServer]] — Local AI anywhere, for everyone — LLM inference, chat UI, vo...
 - [[lightningpixel-modly|modly]] — Desktop app to generate 3D models from images or prompt usin... 🆕
-- [[lightpanda-io-browser|browser]] — Lightpanda: the headless browser designed for AI and automat... 🆕
+- [[lightpanda-io-browser|browser]] — Lightpanda: the headless browser designed for AI and automat... 🔥
 - [[lightricks-ltx-2|LTX-2]] — Official Python inference and LoRA trainer package for the L... 🆕
 - [[lightseekorg-tokenspeed|tokenspeed]] — TokenSpeed is a speed-of-light LLM inference engine.
 - [[likec4-likec4|likec4]] — Visualize, collaborate, and evolve the software architecture... 🔥
@@ -593,7 +598,7 @@
 - [[openwhispr-openwhispr|openwhispr]] — Voice-to-text dictation app with local (Nvidia Parakeet/Whis...
 - [[openwrt-openwrt|openwrt]] — This repository is a mirror of https://git.openwrt.org/openw...
 - [[oracle-devrel-oracle-ai-developer-hub|oracle-ai-developer-hub]] — Technical resources for AI developers to build applications,...
-- [[orkas-ai-orkas|Orkas]] — Orkas is an open-source (MIT), local-first AI team for your ... 🆕
+- [[orkas-ai-orkas|Orkas]] — Orkas is an open-source (MIT), local-first AI team for your ...
 - [[osmantic-ods|ODS]] — Turn your PC, Mac, or Linux box into an AI server. LLM infer...
 - [[ossu-computer-science|computer-science]] — 🎓 Path to a free self-taught education in Computer Science!
 - [[othmanadi-planning-with-files|planning-with-files]] — Persistent file-based planning for AI coding agents and long...
@@ -612,13 +617,14 @@
 - [[paperswithbacktest-awesome-systematic-trading|awesome-systematic-trading]] — A curated list of awesome libraries, packages, strategies, b... 🔥
 - [[par274-sharpemu|sharpemu]] — An experimental PlayStation 5 emulator project.
 - [[pascalorg-editor|editor]] — Open-source 3D architectural editor with a local CLI, MCP to...
+- [[patchy631-ai-engineering-hub|ai-engineering-hub]] — In-depth tutorials on LLMs, RAGs and real-world AI agent app... 🆕
 - [[pbakaus-impeccable|impeccable]] — The design vocabulary for your coding agent. Steer with poli... 🔥
 - [[peetzweg-opendisplay|opendisplay]] — Free, open-source Sidecar/Duet alternative — use your iPhone...
 - [[penpot-penpot|penpot]] — Penpot: The open-source design platform for Product teams th...
 - [[permissionlesstech-bitchat|bitchat]] — bluetooth mesh chat, IRC vibes
 - [[php-php-src|php-src]] — The PHP Interpreter 🆕
 - [[phuryn-pm-skills|pm-skills]] — PM Skills Marketplace: 100+ agentic skills, commands, and pl... 🔥
-- [[pingdotgg-t3code|t3code]] — No description 🆕
+- [[pingdotgg-t3code|t3code]] — No description 🔥
 - [[pkuflyingpig-cs-self-learning|cs-self-learning]] — 计算机自学指南
 - [[plausible-analytics|analytics]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
 - [[playcanvas-supersplat|supersplat]] — 3D Gaussian Splat Editor
@@ -650,7 +656,7 @@
 - [[rasbt-llms-from-scratch|LLMs-from-scratch]] — Implement a ChatGPT-like LLM in PyTorch from scratch, step b... 🔥
 - [[reconurge-flowsint|flowsint]] — A modern platform for visual, flexible, and extensible graph...
 - [[refactoringhq-tolaria|tolaria]] — Desktop app to manage markdown knowledge bases
-- [[renhuai123-ziwei-doushu|ziwei-doushu]] — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 🆕
+- [[renhuai123-ziwei-doushu|ziwei-doushu]] — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 🔥
 - [[restic-restic|restic]] — Fast, secure, efficient backup program
 - [[revfactory-harness|harness]] — A meta-skill that designs domain-specific agent teams, defin... 🆕
 - [[ripienaar-free-for-dev|free-for-dev]] — A list of SaaS, PaaS and IaaS offerings that have free tiers...
@@ -686,7 +692,7 @@
 - [[shareai-lab-learn-claude-code|learn-claude-code]] — Bash is all you need - A nano claude code–like 「agent harnes...
 - [[sharex-sharex|ShareX]] — ShareX is a free and open-source application that enables us...
 - [[sherlock-project-sherlock|sherlock]] — Hunt down social media accounts by username across social ne... 🔥
-- [[shiyu-coder-kronos|Kronos]] — Kronos: A Foundation Model for the Language of Financial Mar... 🔥
+- [[shiyu-coder-kronos|Kronos]] — Kronos: A Foundation Model for the Language of Financial Mar...
 - [[shubhamsaboo-awesome-llm-apps|awesome-llm-apps]] — 100+ AI Agents, Agent Skills and RAG Apps - Free and Open So...
 - [[shy3130-tick-stock-panel|tick-stock-panel]] — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自...
 - [[siddharthvaddem-openscreen|openscreen]] — Create stunning demos for free. Open-source, no subscription... 🔥
@@ -754,7 +760,7 @@
 - [[tnt-likely-panwatch|PanWatch]] — 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A...
 - [[tobi-qmd|qmd]] — mini cli search engine for your docs, knowledge bases, meeti... 🆕
 - [[togatoga-karukan|karukan]] — Japanese Input Method System for Linux, macOS, Neural Kana-K...
-- [[togg53192-cmd-jailbreaks|jailbreaks]] — LIST OF ALL MY JAILBREAKS 🔥
+- [[togg53192-cmd-jailbreaks|jailbreaks]] — LIST OF ALL MY JAILBREAKS
 - [[tokio-rs-topcoat|topcoat]] — A batteries-included framework for building web apps
 - [[ton-blockchain-acton|acton]] — Toolchain for TON smart contract development and beyond
 - [[tonhowtf-omniget|omniget]] — Download Udemy and Hotmart courses, YouTube videos, music an...
@@ -800,7 +806,7 @@
 - [[volcengine-openviking|OpenViking]] — Self-evolving Context Database for AI Agents. Unify Agent Me... 🔥
 - [[voltagent-awesome-agent-skills|awesome-agent-skills]] — A curated collection of 1000+ agent skills from official dev...
 - [[voltagent-awesome-design-md|awesome-design-md]] — A collection of DESIGN.md files analysis by popular brand de...
-- [[vorssaint-vorssaint-utils|vorssaint-utils]] — Free and open-source macOS menu bar toolkit. 🆕
+- [[vorssaint-vorssaint-utils|vorssaint-utils]] — Free and open-source macOS menu bar toolkit.
 - [[vudovn-ag-kit|ag-kit]] — No description
 - [[vxcontrol-pentagi|pentagi]] — Fully autonomous AI Agents system capable of performing comp...
 - [[warpdotdev-warp|warp]] — Warp is an agentic development environment, born out of the ... 🔥

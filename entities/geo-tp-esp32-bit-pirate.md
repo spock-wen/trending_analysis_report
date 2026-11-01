@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[mattpocock-skills]] [[thu-maic-openmaic]] [[donchitos-claude-code-game-studios]] [[microsoft-bitnet]]
+[[hyprwm-hyprland]] [[boykopovar-anyps5]] [[hkuds-deeptutor]] [[copilotkit-openbot]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[cli]]
 

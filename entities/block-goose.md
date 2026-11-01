@@ -36,7 +36,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 
 ## 相关项目
 
-[[mattpocock-skills]] [[pollen-robotics-microduck]] [[ruvnet-ruview]] [[pbakaus-impeccable]] [[obra-superpowers]]
+[[cjpais-handy]] [[macro-inc-macro]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[ai-agent]]
 

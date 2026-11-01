@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[mattpocock-skills]] [[pbakaus-impeccable]] [[obra-superpowers]]
+[[hkuds-deeptutor]] [[public-apis-public-apis]] [[beenuar-aisoc]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -38,7 +38,7 @@ Clone any website with one command using AI coding agents
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[mattpocock-skills]] [[hkuds-deeptutor]] [[donchitos-claude-code-game-studios]] [[pbakaus-impeccable]]
+[[pingdotgg-t3code]] [[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

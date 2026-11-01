@@ -34,7 +34,7 @@ LLM inference in C/C++
 
 ## 相关项目
 
-[[mattpocock-skills]] [[microsoft-bitnet]] [[pbakaus-impeccable]] [[obra-superpowers]] [[boykopovar-anyps5]]
+[[hyprwm-hyprland]] [[boykopovar-anyps5]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]]
 
 **所属领域**: [[ai-agent]]
 

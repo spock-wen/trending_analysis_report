@@ -35,7 +35,7 @@ A collection of AI agent skills for working with Expo projects and Expo Applicat
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[mattpocock-skills]] [[thu-maic-openmaic]] [[pbakaus-impeccable]] [[obra-superpowers]]
+[[thedotmack-claude-mem]] [[obra-superpowers]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

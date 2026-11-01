@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[ruvnet-ruflo]] [[pingdotgg-t3code]] [[fastapi-fastapi]]
+[[pingdotgg-t3code]] [[fastapi-fastapi]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[education]]
 

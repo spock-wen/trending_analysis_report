@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[ntdevlabs-tiny11builder]] [[comfy-org-comfyui]]
+[[public-apis-public-apis]] [[beenuar-aisoc]] [[shiyu-coder-kronos]] [[coollabsio-coolify]] [[openbmb-voxcpm]]
 
 **所属领域**: [[image-gen]]
 

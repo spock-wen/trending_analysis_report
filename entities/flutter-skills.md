@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[chen08209-flclash]] [[mattpocock-skills]] [[localsend-localsend]] [[pbakaus-impeccable]] [[obra-superpowers]]
+[[chen08209-flclash]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[flutter-flutter]]
 
 **所属领域**: [[ai-agent]]
 

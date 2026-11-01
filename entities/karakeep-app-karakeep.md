@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[thu-maic-openmaic]] [[mattpocock-skills]] [[ntdevlabs-tiny11builder]] [[comfy-org-comfyui]]
+[[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]] [[beenuar-aisoc]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

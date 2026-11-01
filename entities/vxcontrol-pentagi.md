@@ -38,7 +38,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[mattpocock-skills]] [[juliusbrussee-caveman]] [[pbakaus-impeccable]] [[obra-superpowers]]
+[[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[juliusbrussee-caveman]] [[strelov1-freehire]]
 
 **所属领域**: [[ai-agent]]
 

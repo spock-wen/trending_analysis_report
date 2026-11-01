@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[mattpocock-skills]] [[thu-maic-openmaic]] [[donchitos-claude-code-game-studios]] [[nvidia-skillspector]] [[cloudflare-security-audit-skill]]
+[[bwya77-vscode-dark-islands]] [[nvidia-skillspector]] [[thedotmack-claude-mem]] [[beenuar-aisoc]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

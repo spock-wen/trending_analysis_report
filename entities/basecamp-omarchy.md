@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[thu-maic-openmaic]] [[mattpocock-skills]] [[obra-superpowers]] [[expo-skills]]
+[[obra-superpowers]] [[expo-skills]] [[donchitos-claude-code-game-studios]] [[thu-maic-openmaic]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

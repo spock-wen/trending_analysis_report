@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[thu-maic-openmaic]] [[mattpocock-skills]] [[nvidia-skillspector]]
+[[pingdotgg-t3code]] [[ruvnet-ruview]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

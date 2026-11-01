@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[pollen-robotics-microduck]] [[nvidia-skillspector]] [[cloudflare-security-audit-skill]] [[ruvnet-ruview]] [[pbakaus-impeccable]]
+[[cjpais-handy]] [[macro-inc-macro]] [[nvidia-skillspector]] [[pbakaus-impeccable]] [[beenuar-aisoc]]
 
 **所属领域**: [[security]]
 

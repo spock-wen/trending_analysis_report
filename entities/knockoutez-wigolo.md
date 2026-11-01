@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[mattpocock-skills]] [[hkuds-deeptutor]] [[pbakaus-impeccable]] [[obra-superpowers]]
+[[pingdotgg-t3code]] [[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

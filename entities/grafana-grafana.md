@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[thu-maic-openmaic]] [[nvidia-skillspector]] [[agricidaniel-claude-seo]]
+[[pingdotgg-t3code]] [[ruvnet-ruview]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[data]] [[devops]]
 

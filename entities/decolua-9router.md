@@ -38,7 +38,7 @@ Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An
 
 ## 相关项目
 
-[[mattpocock-skills]] [[thu-maic-openmaic]] [[donchitos-claude-code-game-studios]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]]
+[[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[orkas-ai-orkas]] [[lightpanda-io-browser]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

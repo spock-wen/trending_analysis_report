@@ -38,5 +38,5 @@ Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, struct
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[tauricresearch-tradingagents]] [[anthropics-skills]]
+[[public-apis-public-apis]] [[beenuar-aisoc]] [[shiyu-coder-kronos]] [[kornia-kornia]]
 

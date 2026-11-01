@@ -45,6 +45,20 @@ ZH_DESC = {
  'Comfy-Org/ComfyUI': '最强模块化扩散模型 GUI 与后端，节点图驱动本地推理',
  'anthropics/claude-plugins-official': 'Anthropic 官方 Claude Code 插件目录',
  'anthropics/knowledge-work-plugins': 'Anthropic 知识工作插件官方仓库，服务 Claude Cowork',
+ 'Nutlope/hallmark': '反 AI 垃圾设计 skill：给 Claude Code / Cursor / Codex 的审美矫正包',
+ 'pbakaus/impeccable': '编码 agent 的设计词汇表：润色引导、批判评审、交付前审计',
+ 'YuJunZhiXue/dsh-purge': 'DeepSeek Harness 破甲：让所有模型都能越狱，提示词按模型换',
+ 'affaan-m/ECC': 'agent harness 性能优化系统：技能、直觉、记忆、安全一体',
+ 'obra/superpowers': 'agentic 技能框架与软件开发方法论，31 万星老项目',
+ 'TauricResearch/TradingAgents': '多智能体 LLM 金融交易框架',
+ 'Leonxlnx/taste-skill': '给编码 agent 品味的技能：艺术方向、参考图、浏览器自检',
+ 'AgriciDaniel/claude-seo': 'Claude Code 通用 SEO 技能包：26 个子技能 + 19 个子 agent',
+ 'thedotmack/claude-mem': '跨会话持久上下文：压缩 agent 会话记忆并按需注入',
+ 'multica-ai/andrej-karpathy-skills': '源自 Karpathy 观察的单文件 CLAUDE.md：矫正编码行为',
+ 'anthropics/skills': 'Anthropic 官方 Agent Skills 公共仓库',
+ 'AstrBotDevs/AstrBot': '多平台接入的 AI Agent 助手与开发框架',
+ 'pingdotgg/t3code': 'agent harness 控制台：手机 / 网页 / 桌面遥控本机编码 agent',
+ 'jakubkrehel/skills': '帮助 agent 做好界面的技能合集',
 }
 total_stars = sum(WK.values())
 n_projects = len(rows)
@@ -108,25 +122,25 @@ C = {'blue': '#4C72B0', 'orange': '#E4572E', 'purple': '#8172B2', 'green': '#2E8
 
 # ⚠️ 每周手填：三段主线叙事（结论前置，正文压到 3-4 行）
 NARRATIVES = [
-    (C['orange'], '#FDEEE8', '#D14A24', '单一仓库退潮，生态回到多项目稳态',
-     '15 个项目 145,207★，上周 10 项 316,460★，环比 <b>-54.1%</b>。回落主因是 <b>morluto/rea</b> 从 239,923★ 跌到 78,562★（<b>-67.2%</b>），10 月 16 日后完全退出日榜。剔除 rea 后其余 14 项合计 66,645★，环比仅 <b>-13.0%</b>——大盘退潮但生态没塌。'),
-    (C['blue'], '#EAF0F9', '#3A62A8', '「Skill」成为大厂共同的发行格式',
-     '本周 15 席里 6 席是 <b>Skill/插件生态</b>。Cloudflare 把内部漏洞挖掘 harness 开源成 <b>security-audit-skill</b>（+12,680★，官方周榜第 1）；Anthropic 两个官方仓库同时在榜；<b>android/skills</b> 首次上榜。Cloudflare、Google、Cursor、Anthropic 同一周用同一格式发东西。'),
-    (C['purple'], '#F1EEF8', '#6D5CA8', '上下文与记忆连续两周占位',
-     '<b>graphify</b>（+6,868★）把代码库连同文档、SQL schema、配置、PDF 转成可查询知识图谱，<b>不用向量库</b>；<b>ai-memory</b>（+3,541★，Rust）做跨厂商长期记忆。上周两个项目出局，但换成两个更强的玩家——这条线连续两周在榜。'),
+    (C['orange'], '#FDEEE8', '#D14A24', '总量回落近四成，基本盘反而 +32.5%',
+     '15 项 88,298★，环比 <b>-39.2%</b>——但这是账面现象：上周 145,207★ 里 <b>78,562★</b> 是 morluto/rea 单仓脉冲尾差，剔除后基数 66,645★，本周实为 <b>+32.5%</b>，剔除 rea 两周脉冲后为近 7 周最高。rea 完全出局，脉冲叙事收尾。'),
+    (C['blue'], '#EAF0F9', '#3A62A8', '技能包接管十席，「反 AI 垃圾」成品类',
+     'Skill/插件生态拿下 <b>10 席 65,744★</b>（上周 6 席，剔除 rea 后 21,589★，<b>+204.5%</b>）。四个「反 AI 垃圾」设计技能包同榜：<b>hallmark</b> +12,062★ 登顶、<b>impeccable</b> +12,031★ 日榜全勤，再加 taste-skill 与 jakubkrehel——6 月是单品，本周是品类。'),
+    (C['purple'], '#F1EEF8', '#6D5CA8', '换血率 93.3%：七去七进，三线收缩',
+     '15 席仅 cloudflare 续榜：<b>7 个首次上榜 + 7 个断档回归</b>（taste-skill 隔 19 周、hallmark 隔 13 周）。上下文与记忆从 2 项 10,409★ 缩到 1 项 4,575★，内容创作 2 席归零，vllm 出局——扩容与收缩发生在同一周。'),
 ]
 # ⚠️ 每周手填：四张赛道卡
 KNIVES = [
-    (C['orange'], '换挡', 'Agent 编排与运行时', '4 项 22,995★<br>上周 0 席，opencode / ruflo / CLI-Anything 首次上榜'),
-    (C['blue'], '加速', 'Skill 与插件生态', '6 项 100,151★<br>剔除 rea 后 21,589★，vs 上周 23,235★，-2.8%'),
-    (C['purple'], '稳态', '上下文与记忆', '2 项 10,409★<br>上周同赛道合计 5,326★，接近翻倍'),
-    (C['green'], '新增', '推理基础设施入榜', 'vllm +1,371★<br>首次进周榜，15 席中唯一推理引擎'),
+    (C['orange'], '换挡', 'Agent 编排与运行时', '3 项 11,338★<br>上周 4 项 22,995★，星数 -50.7%，老面孔全出局'),
+    (C['blue'], '加速', 'Skill 与插件生态', '10 项 65,744★<br>上周剔除 rea 后 21,589★，实际 +204.5%'),
+    (C['purple'], '分化', '上下文与记忆', '1 项 4,575★<br>上周 2 项 10,409★，graphify / ai-memory 出局'),
+    (C['red'] if 'red' in C else C['green'], '新增', '提示词 / 越狱工具入榜', 'dsh-purge +6,641★<br>周星第 4 但日榜 0 次，星数来自榜外传播'),
 ]
 # ⚠️ 每周手填：三条观测
 WATCH = [
-    ('rea 是脉冲还是新品类？', '周星 <b>≥50,000★</b> → 常驻主线<br>跌破 <b>20,000★</b> 且日榜连续 7 天缺席 → 一次性传播事件'),
-    ('Skill 发行潮能否扩容？', '下周 <b>≥2 个新 Skill 类</b>项目且各自 <b>≥1,500★</b><br>→ 「大厂用 skill 格式发工具」成为固定形态'),
-    ('上下文赛道能否再进一步？', '合计周星 <b>≥15,000★</b> 或席位 <b>≥3</b>（本周 2 项 10,409★）<br>→ 从「两个项目」升级为独立赛道'),
+    ('设计技能包是品类还是集中传播？', '下周 <b>≥3 项续榜</b>且合计 <b>≥25,000★</b>（本周 4 项 30,340★）<br>→「反 AI 垃圾」固化为常驻品类'),
+    ('skill 十席能否守住？', 'Skill 类 <b>≥8 席</b>且周星 <b>≥50,000★</b>（本周 10 席 65,744★）<br>→ 官方仓库与框架续榜是关键信号'),
+    ('上下文赛道二次收缩？', '回到 <b>≥2 项</b>或合计 <b>≥10,000★</b>（本周 1 项 4,575★）<br>→ claude-mem 日榜 3 次最高第 1 的势头能否带玩家回来'),
 ]
 
 def esc(s):

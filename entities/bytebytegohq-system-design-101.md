@@ -35,7 +35,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[mattpocock-skills]] [[obra-superpowers]] [[thedotmack-claude-mem]]
+[[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[togg53192-cmd-jailbreaks]]
 
 **所属领域**: [[ai-agent]]
 

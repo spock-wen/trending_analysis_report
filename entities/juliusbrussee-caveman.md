@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[alibaba-open-code-review]] [[vxcontrol-pentagi]] [[pbakaus-impeccable]] [[obra-superpowers]]
+[[vxcontrol-pentagi]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[strelov1-freehire]]
 
 **所属领域**: [[ai-agent]]
 

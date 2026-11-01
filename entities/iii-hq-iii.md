@@ -34,5 +34,5 @@ Effortlessly compose, extend, and observe every service in real-time for the fir
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[pbakaus-impeccable]] [[pollen-robotics-microduck]] [[macro-inc-macro]]
+[[cjpais-handy]] [[macro-inc-macro]] [[anomalyco-hex]] [[pbakaus-impeccable]]
 

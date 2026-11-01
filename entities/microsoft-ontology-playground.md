@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[ruvnet-ruflo]] [[pingdotgg-t3code]]
+[[pingdotgg-t3code]] [[hkuds-deeptutor]] [[fastapi-fastapi]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]]
 
 **所属领域**: [[web]] [[education]]
 

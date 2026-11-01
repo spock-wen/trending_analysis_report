@@ -35,7 +35,7 @@ Agent framework and applications built upon Qwen>=3.0, featuring Function Callin
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[mattpocock-skills]] [[hugohe3-ppt-master]] [[agricidaniel-claude-seo]]
+[[hkuds-deeptutor]] [[agricidaniel-claude-seo]] [[public-apis-public-apis]] [[beenuar-aisoc]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[web]] [[erp]]
 

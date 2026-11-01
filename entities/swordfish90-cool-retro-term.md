@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[donchitos-claude-code-game-studios]] [[mattpocock-skills]] [[obra-superpowers]]
+[[donchitos-claude-code-game-studios]] [[thu-maic-openmaic]] [[obra-superpowers]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

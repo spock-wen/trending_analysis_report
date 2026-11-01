@@ -35,7 +35,7 @@ DeepEP: an efficient expert-parallel communication library
 
 ## 相关项目
 
-[[mattpocock-skills]] [[moonshotai-flashkda]] [[pbakaus-impeccable]] [[obra-superpowers]] [[deepseek-ai-deepgemm]]
+[[moonshotai-flashkda]] [[deepseek-ai-deepgemm]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[mattpocock-skills]] [[nvidia-skillspector]]
+[[hkuds-deeptutor]] [[nvidia-skillspector]] [[ruvnet-ruview]] [[public-apis-public-apis]] [[beenuar-aisoc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

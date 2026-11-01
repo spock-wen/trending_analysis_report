@@ -39,7 +39,7 @@ The design vocabulary for your coding agent. Steer with polish and bolder, revie
 
 ## 相关项目
 
-[[mattpocock-skills]] [[pollen-robotics-microduck]] [[ruvnet-ruview]] [[obra-superpowers]] [[thedotmack-claude-mem]]
+[[cjpais-handy]] [[macro-inc-macro]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]]
 
 **所属领域**: [[ai-agent]]
 

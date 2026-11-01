@@ -37,7 +37,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[mattpocock-skills]] [[ntdevlabs-tiny11builder]] [[cloudflare-security-audit-skill]] [[comfy-org-comfyui]]
+[[thedotmack-claude-mem]] [[beenuar-aisoc]] [[renhuai123-ziwei-doushu]] [[orkas-ai-orkas]] [[lightpanda-io-browser]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

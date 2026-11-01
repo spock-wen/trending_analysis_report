@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[mattpocock-skills]] [[nvidia-skillspector]] [[agricidaniel-claude-seo]]
+[[higgsfield-ai-higgsfield]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

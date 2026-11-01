@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[mattpocock-skills]] [[hkuds-deeptutor]] [[pbakaus-impeccable]] [[obra-superpowers]] [[copilotkit-openbot]]
+[[bannedbook-fanqiang]] [[hkuds-deeptutor]] [[android-skills]] [[thedotmack-claude-mem]] [[copilotkit-openbot]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -38,7 +38,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[ntdevlabs-tiny11builder]] [[tauricresearch-tradingagents]]
+[[public-apis-public-apis]] [[beenuar-aisoc]] [[shiyu-coder-kronos]] [[coollabsio-coolify]] [[openbmb-voxcpm]]
 
 **所属领域**: [[image-gen]]
 

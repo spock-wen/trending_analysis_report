@@ -35,7 +35,7 @@ Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an 
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[mattpocock-skills]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]] [[pbakaus-impeccable]]
+[[vxcontrol-pentagi]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]]
 

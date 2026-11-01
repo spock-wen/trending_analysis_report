@@ -38,5 +38,5 @@ ArtCraft is an intentional crafting engine for artists, designers, and filmmaker
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[pbakaus-impeccable]] [[pollen-robotics-microduck]] [[macro-inc-macro]]
+[[cjpais-handy]] [[macro-inc-macro]] [[anomalyco-hex]] [[pbakaus-impeccable]]
 

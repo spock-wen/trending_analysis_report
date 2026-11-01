@@ -37,7 +37,7 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 
 ## 相关项目
 
-[[mattpocock-skills]] [[pbakaus-impeccable]] [[obra-superpowers]] [[bannedbook-fanqiang]] [[android-skills]]
+[[bannedbook-fanqiang]] [[android-skills]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]]
 
 **所属领域**: [[ai-agent]]
 

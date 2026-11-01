@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[mattpocock-skills]] [[nvidia-skillspector]] [[cloudflare-security-audit-skill]] [[pbakaus-impeccable]]
+[[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]] [[beenuar-aisoc]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

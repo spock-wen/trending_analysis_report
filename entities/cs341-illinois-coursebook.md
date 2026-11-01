@@ -35,7 +35,7 @@ Open Source Introductory Systems Programming Textbook for the University of Illi
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[introduction-to-autonomous-robots-introduction-to-autonomous-robots]] [[xiaolai-the-craft-of-selfteaching]] [[ruvnet-ruflo]] [[fastapi-fastapi]]
+[[introduction-to-autonomous-robots-introduction-to-autonomous-robots]] [[fastapi-fastapi]] [[xiaolai-the-craft-of-selfteaching]] [[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]]
 
 **所属领域**: [[education]]
 

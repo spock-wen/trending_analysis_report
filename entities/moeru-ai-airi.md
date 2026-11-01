@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[mattpocock-skills]] [[hkuds-deeptutor]] [[hugohe3-ppt-master]] [[pbakaus-impeccable]]
+[[pingdotgg-t3code]] [[hkuds-deeptutor]] [[cjpais-handy]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

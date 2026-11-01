@@ -34,5 +34,5 @@ GitHub Stacked PRs
 
 ## 相关项目
 
-[[strelov1-freehire]] [[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[vxcontrol-pentagi]]
+[[strelov1-freehire]] [[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[juliusbrussee-caveman]]
 

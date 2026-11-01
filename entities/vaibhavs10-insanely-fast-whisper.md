@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[mattpocock-skills]] [[xiaolai-the-craft-of-selfteaching]] [[pbakaus-impeccable]] [[obra-superpowers]] [[lyogavin-airllm]]
+[[higgsfield-ai-higgsfield]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[mattpocock-skills]] [[thu-maic-openmaic]] [[donchitos-claude-code-game-studios]]
+[[beenuar-aisoc]] [[renhuai123-ziwei-doushu]] [[hugohe3-ppt-master]] [[mattpocock-skills]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

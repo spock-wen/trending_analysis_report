@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[mattpocock-skills]] [[thu-maic-openmaic]] [[pbakaus-impeccable]] [[obra-superpowers]]
+[[thedotmack-claude-mem]] [[obra-superpowers]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[expo-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

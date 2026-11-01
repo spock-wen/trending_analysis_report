@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[bregman-arie-devops-exercises]] [[coollabsio-coolify]] [[averygan-reclip]] [[mattpocock-skills]]
+[[hkuds-deeptutor]] [[cathrynlavery-diagram-design]] [[nvidia-skillspector]] [[thedotmack-claude-mem]] [[copilotkit-openbot]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

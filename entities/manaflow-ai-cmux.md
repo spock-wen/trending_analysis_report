@@ -37,7 +37,7 @@ Open source Ghostty-based macOS terminal with vertical tabs and notifications fo
 
 ## 相关项目
 
-[[mattpocock-skills]] [[thu-maic-openmaic]] [[abue-ammar-tinycast]] [[donchitos-claude-code-game-studios]] [[pbakaus-impeccable]]
+[[abue-ammar-tinycast]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[obra-superpowers]] [[lightpanda-io-browser]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

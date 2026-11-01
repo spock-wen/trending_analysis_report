@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[thu-maic-openmaic]] [[pingdotgg-t3code]] [[lightpanda-io-browser]] [[copilotkit-openbot]]
+[[pingdotgg-t3code]] [[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[web]]
 

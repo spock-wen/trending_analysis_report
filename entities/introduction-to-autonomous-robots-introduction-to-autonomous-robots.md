@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[mattpocock-skills]] [[pbakaus-impeccable]] [[obra-superpowers]] [[thedotmack-claude-mem]] [[cs341-illinois-coursebook]]
+[[thedotmack-claude-mem]] [[cs341-illinois-coursebook]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[togg53192-cmd-jailbreaks]]
 
 **所属领域**: [[ai-agent]]
 

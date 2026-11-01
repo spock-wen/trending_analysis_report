@@ -34,7 +34,7 @@ qBittorrent BitTorrent client
 
 ## 相关项目
 
-[[mattpocock-skills]] [[thu-maic-openmaic]] [[donchitos-claude-code-game-studios]] [[microsoft-bitnet]] [[obra-superpowers]]
+[[hyprwm-hyprland]] [[boykopovar-anyps5]] [[obra-superpowers]] [[donchitos-claude-code-game-studios]] [[thu-maic-openmaic]]
 
 **所属领域**: [[cli]]
 

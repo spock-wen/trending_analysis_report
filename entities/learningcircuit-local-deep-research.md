@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[mattpocock-skills]] [[thu-maic-openmaic]] [[nvidia-skillspector]]
+[[k-dense-ai-scientific-agent-skills]] [[fastapi-fastapi]] [[public-apis-public-apis]] [[beenuar-aisoc]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

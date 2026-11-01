@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[mattpocock-skills]] [[thu-maic-openmaic]] [[donchitos-claude-code-game-studios]] [[ntdevlabs-tiny11builder]]
+[[bwya77-vscode-dark-islands]] [[beenuar-aisoc]] [[obra-superpowers]] [[donchitos-claude-code-game-studios]] [[thu-maic-openmaic]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

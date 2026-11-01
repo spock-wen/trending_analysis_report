@@ -34,5 +34,5 @@ Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engi
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[pbakaus-impeccable]] [[pollen-robotics-microduck]] [[macro-inc-macro]]
+[[cjpais-handy]] [[macro-inc-macro]] [[anomalyco-hex]] [[pbakaus-impeccable]]
 

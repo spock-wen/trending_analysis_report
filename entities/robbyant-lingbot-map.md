@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[nvidia-skillspector]] [[agricidaniel-claude-seo]]
+[[k-dense-ai-scientific-agent-skills]] [[public-apis-public-apis]] [[beenuar-aisoc]] [[kornia-kornia]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[data]] [[science]]
 

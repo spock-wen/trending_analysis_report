@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[pollen-robotics-microduck]] [[ruvnet-ruview]] [[pbakaus-impeccable]] [[copilotkit-openbot]]
+[[cjpais-handy]] [[hkuds-deeptutor]] [[macro-inc-macro]] [[nightly-labs-openbot]] [[pbakaus-impeccable]]
 
 **所属领域**: [[web]]
 

@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[google-guava]] [[mattpocock-skills]] [[thu-maic-openmaic]]
+[[checkstyle-checkstyle]] [[yuliskov-smarttube]] [[thedotmack-claude-mem]] [[nationalsecurityagency-ghidra]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

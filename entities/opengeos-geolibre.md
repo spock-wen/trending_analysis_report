@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[thu-maic-openmaic]] [[nvidia-skillspector]]
+[[pingdotgg-t3code]] [[hkuds-deeptutor]] [[nvidia-skillspector]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]]
 
 **所属领域**: [[web]] [[data]]
 

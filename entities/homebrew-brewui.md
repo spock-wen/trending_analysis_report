@@ -34,5 +34,5 @@ language: "Swift"
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[xtool-org-xtool]] [[abue-ammar-tinycast]] [[vorssaint-vorssaint-utils]]
+[[abue-ammar-tinycast]] [[vorssaint-vorssaint-utils]] [[xtool-org-xtool]] [[manaflow-ai-cmux]]
 

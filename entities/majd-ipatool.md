@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[mattpocock-skills]] [[juliusbrussee-caveman]] [[thu-maic-openmaic]] [[vxcontrol-pentagi]]
+[[vxcontrol-pentagi]] [[obra-superpowers]] [[juliusbrussee-caveman]] [[strelov1-freehire]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[cli]]
 

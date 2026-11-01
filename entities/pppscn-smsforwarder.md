@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[copilotkit-openbot]] [[bannedbook-fanqiang]] [[lightpanda-io-browser]] [[nightly-labs-openbot]]
+[[bannedbook-fanqiang]] [[hkuds-deeptutor]] [[android-skills]] [[copilotkit-openbot]] [[lightpanda-io-browser]]
 
 **所属领域**: [[web]]
 

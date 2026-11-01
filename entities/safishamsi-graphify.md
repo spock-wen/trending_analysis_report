@@ -34,7 +34,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[mattpocock-skills]] [[ntdevlabs-tiny11builder]] [[comfy-org-comfyui]] [[agricidaniel-claude-seo]]
+[[beenuar-aisoc]] [[renhuai123-ziwei-doushu]] [[openbmb-voxcpm]] [[mattpocock-skills]] [[flashml-org-freetoken]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

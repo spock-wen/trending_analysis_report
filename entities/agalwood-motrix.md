@@ -35,5 +35,5 @@ A full-featured download manager.
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]]
+[[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]] [[pingdotgg-t3code]]
 

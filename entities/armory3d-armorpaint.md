@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[epicgames-raddebugger]] [[mattpocock-skills]] [[php-php-src]] [[pbakaus-impeccable]] [[colbymchenry-codegraph]]
+[[thedotmack-claude-mem]] [[php-php-src]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[togg53192-cmd-jailbreaks]]
 
 **所属领域**: [[ai-agent]]
 

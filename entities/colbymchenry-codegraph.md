@@ -38,7 +38,7 @@ Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
 
 ## 相关项目
 
-[[epicgames-raddebugger]] [[mattpocock-skills]] [[php-php-src]] [[pbakaus-impeccable]] [[obra-superpowers]]
+[[thedotmack-claude-mem]] [[php-php-src]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[togg53192-cmd-jailbreaks]]
 
 **所属领域**: [[ai-agent]]
 

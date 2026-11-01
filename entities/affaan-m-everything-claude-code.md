@@ -34,7 +34,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[mattpocock-skills]] [[cloudflare-security-audit-skill]] [[nvidia-skillspector]] [[pbakaus-impeccable]] [[robbyant-lingbot-map]]
+[[thedotmack-claude-mem]] [[beenuar-aisoc]] [[renhuai123-ziwei-doushu]] [[orkas-ai-orkas]] [[lightpanda-io-browser]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

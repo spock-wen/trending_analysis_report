@@ -34,7 +34,7 @@ An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that 
 
 ## 相关项目
 
-[[grokability-snipe-it]] [[bregman-arie-devops-exercises]] [[thu-maic-openmaic]] [[mattpocock-skills]] [[donchitos-claude-code-game-studios]]
+[[ruvnet-ruview]] [[grokability-snipe-it]] [[ruvnet-ruflo]] [[swoole-typephp]] [[obra-superpowers]]
 
 **所属领域**: [[cli]] [[data]] [[devops]] [[image-gen]]
 

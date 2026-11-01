@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[donchitos-claude-code-game-studios]] [[mattpocock-skills]] [[thu-maic-openmaic]] [[hugohe3-ppt-master]] [[agricidaniel-claude-seo]]
+[[agricidaniel-claude-seo]] [[thedotmack-claude-mem]] [[php-php-src]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

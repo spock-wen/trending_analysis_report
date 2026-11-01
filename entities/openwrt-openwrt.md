@@ -34,7 +34,7 @@ This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is
 
 ## 相关项目
 
-[[epicgames-raddebugger]] [[hkuds-deeptutor]] [[php-php-src]] [[colbymchenry-codegraph]] [[copilotkit-openbot]]
+[[hkuds-deeptutor]] [[copilotkit-openbot]] [[php-php-src]] [[lightpanda-io-browser]] [[epicgames-raddebugger]]
 
 **所属领域**: [[web]]
 

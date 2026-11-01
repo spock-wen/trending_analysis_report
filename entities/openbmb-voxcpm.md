@@ -38,7 +38,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[ntdevlabs-tiny11builder]] [[hugohe3-ppt-master]]
+[[cjpais-handy]] [[public-apis-public-apis]] [[beenuar-aisoc]] [[debpalash-voicestudio]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

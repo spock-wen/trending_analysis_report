@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[mattpocock-skills]] [[pbakaus-impeccable]] [[obra-superpowers]] [[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]]
+[[bannedbook-fanqiang]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[embabel-embabel-agent]]
 
 **所属领域**: [[ai-agent]]
 

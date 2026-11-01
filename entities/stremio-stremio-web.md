@@ -35,7 +35,7 @@ Stremio - Freedom to Stream
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[cloudflare-security-audit-skill]] [[copilotkit-openbot]] [[lightpanda-io-browser]] [[nightly-labs-openbot]]
+[[hkuds-deeptutor]] [[copilotkit-openbot]] [[orkas-ai-orkas]] [[lightpanda-io-browser]] [[affaan-m-ecc]]
 
 **所属领域**: [[web]]
 

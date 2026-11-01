@@ -34,7 +34,7 @@ real time face swap and one-click video deepfake with only a single image
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[hkuds-deeptutor]] [[mattpocock-skills]] [[thu-maic-openmaic]]
+[[public-apis-public-apis]] [[beenuar-aisoc]] [[obra-superpowers]] [[shiyu-coder-kronos]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

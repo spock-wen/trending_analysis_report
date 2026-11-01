@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[thu-maic-openmaic]] [[cloudflare-security-audit-skill]] [[nvidia-skillspector]]
+[[fastapi-fastapi]] [[orkas-ai-orkas]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[bregman-arie-devops-exercises]]
 
 **所属领域**: [[data]] [[education]]
 

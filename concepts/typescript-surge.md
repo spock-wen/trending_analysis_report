@@ -1,7 +1,7 @@
 ---
 title: "TypeScript Ecosystem Surge"
 created: 2026-06-08
-updated: 2026-11-01
+updated: 2026-11-02
 type: concept
 tags: [typescript, surge]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 信号概述
 
-2026-11-01 检测到 TypeScript 领域有 5 个项目同时上榜，表明该语言生态近期活跃度显著上升。
+2026-11-02 检测到 TypeScript 领域有 5 个项目同时上榜，表明该语言生态近期活跃度显著上升。
 
 ## 上榜项目（5 个）
 
-[[thedotmack-claude-mem]] [[pingdotgg-t3code]] [[renhuai123-ziwei-doushu]] [[milind-soni-openmausbot]] [[thu-maic-openmaic]]
+[[thedotmack-claude-mem]] [[pingdotgg-t3code]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]] [[copilotkit-openbot]]
 
 ## 语言分布
 

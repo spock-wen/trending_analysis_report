@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[ripienaar-free-for-dev]] [[hkuds-deeptutor]] [[mattpocock-skills]] [[alchaincyf-huashu-design]] [[thu-maic-openmaic]]
+[[hkuds-deeptutor]] [[cathrynlavery-diagram-design]] [[copilotkit-openbot]] [[obra-superpowers]] [[lightpanda-io-browser]]
 
 **所属领域**: [[web]] [[cli]]
 

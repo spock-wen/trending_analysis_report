@@ -34,7 +34,7 @@ language: "Zig"
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[donchitos-claude-code-game-studios]] [[mattpocock-skills]] [[obra-superpowers]] [[lightpanda-io-browser]]
+[[obra-superpowers]] [[lightpanda-io-browser]] [[donchitos-claude-code-game-studios]] [[thu-maic-openmaic]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

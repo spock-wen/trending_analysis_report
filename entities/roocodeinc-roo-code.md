@@ -34,7 +34,7 @@ Roo Code gives you a whole dev team of AI agents in your code editor.
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[mattpocock-skills]] [[pbakaus-impeccable]] [[obra-superpowers]] [[pingdotgg-t3code]]
+[[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]]
 
 **所属领域**: [[ai-agent]]
 

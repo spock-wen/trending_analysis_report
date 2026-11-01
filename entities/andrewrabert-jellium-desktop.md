@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[mattpocock-skills]] [[pollen-robotics-microduck]] [[thu-maic-openmaic]] [[donchitos-claude-code-game-studios]] [[ruvnet-ruview]]
+[[cjpais-handy]] [[macro-inc-macro]] [[pbakaus-impeccable]] [[obra-superpowers]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[cli]]
 

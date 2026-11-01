@@ -1,20 +1,20 @@
 ---
 title: "togg53192-cmd/jailbreaks"
 created: 2026-10-28
-updated: 2026-10-31
-last_active: 2026-10-31
+updated: 2026-11-02
+last_active: 2026-11-02
 type: tool
-tags: [ai-agent, rising]
-sources: [raw/trending/2026-10-31.json]
+tags: [ai-agent]
+sources: [raw/trending/2026-11-02.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 4
+consecutive_days: 1
 first_trending: 2026-10-28
-last_trending: 2026-10-31
+last_trending: 2026-11-02
 peak_rank: 10
-total_stars: 10888
+total_stars: 12907
 language: ""
 ---
 
@@ -23,13 +23,14 @@ language: ""
 LIST OF ALL MY JAILBREAKS
 
 - 语言: 未标注
-- 上榜次数: 4 次
-- 连续上榜: 4 天
+- 上榜次数: 5 次
+- 连续上榜: 1 天
 - 最高排名: #10
 - 链接: [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
 
 ## 上榜历史
 
+  - 2026-11-02: #14, +730⭐
   - 2026-10-31: #13, +2053⭐
   - 2026-10-30: #10, +1610⭐
   - 2026-10-29: #10, +1478⭐
@@ -37,7 +38,7 @@ LIST OF ALL MY JAILBREAKS
 
 ## 相关项目
 
-[[pbakaus-impeccable]] [[mattpocock-skills]] [[obra-superpowers]] [[thedotmack-claude-mem]]
+[[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]]
 
 **所属领域**: [[ai-agent]]
 

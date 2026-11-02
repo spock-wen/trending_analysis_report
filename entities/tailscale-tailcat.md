@@ -35,7 +35,7 @@ like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[juliusbrussee-caveman]]
+[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

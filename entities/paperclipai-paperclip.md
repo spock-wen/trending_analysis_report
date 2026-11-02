@@ -1,20 +1,20 @@
 ---
 title: "paperclipai/paperclip"
 created: 2026-08-11
-updated: 2026-09-30
-last_active: 2026-09-30
+updated: 2026-11-03
+last_active: 2026-11-03
 type: tool
-tags: [typescript, ai-agent, cli, science, rising]
-sources: [raw/trending/2026-09-30.json]
+tags: [typescript, ai-agent, cli, science]
+sources: [raw/trending/2026-11-03.json]
 confidence: high
-trending_count_daily: 8
+trending_count_daily: 9
 trending_count_weekly: 3
 trending_count_monthly: 0
-consecutive_days: 5
+consecutive_days: 1
 first_trending: 2026-08-11
-last_trending: 2026-09-30
+last_trending: 2026-11-03
 peak_rank: 1
-total_stars: 94405
+total_stars: 110352
 language: "TypeScript"
 ---
 
@@ -23,22 +23,22 @@ language: "TypeScript"
 The open-source app everyone uses to manage agents at work
 
 - 语言: TypeScript
-- 上榜次数: 8 次
-- 连续上榜: 5 天
+- 上榜次数: 9 次
+- 连续上榜: 1 天
 - 最高排名: #1
 - 链接: [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
 
 ## 上榜历史
 
+  - 2026-11-03: #13, +451⭐
   - 2026-09-30: #4, +2412⭐
   - 2026-09-29: #2, +3185⭐
   - 2026-09-28: #1, +2527⭐
   - 2026-09-27: #1, +2589⭐
-  - 2026-09-26: #1, +1853⭐
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]] [[obra-superpowers]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[max-sixty-worktrunk]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

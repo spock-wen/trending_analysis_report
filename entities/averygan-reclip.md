@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[cathrynlavery-diagram-design]] [[copilotkit-openbot]] [[obra-superpowers]] [[lightpanda-io-browser]]
+[[lightpanda-io-browser]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[hkuds-deeptutor]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[web]] [[cli]]
 

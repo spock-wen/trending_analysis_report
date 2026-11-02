@@ -34,7 +34,7 @@ AI that sees your screen, listens to your conversations and tells you what to do
 
 ## 相关项目
 
-[[chen08209-flclash]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[flutter-skills]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[localsend-localsend]] [[thedotmack-claude-mem]] [[flutter-skills]]
 
 **所属领域**: [[ai-agent]]
 

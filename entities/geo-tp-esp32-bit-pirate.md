@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[hyprwm-hyprland]] [[boykopovar-anyps5]] [[hkuds-deeptutor]] [[copilotkit-openbot]] [[obra-superpowers]]
+[[lightpanda-io-browser]] [[boykopovar-anyps5]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[hkuds-deeptutor]]
 
 **所属领域**: [[web]] [[cli]]
 

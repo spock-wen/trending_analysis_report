@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[cathrynlavery-diagram-design]] [[copilotkit-openbot]] [[beenuar-aisoc]] [[lightpanda-io-browser]]
+[[lightpanda-io-browser]] [[coollabsio-coolify]] [[d4vinci-scrapling]] [[hkuds-deeptutor]] [[openbmb-voxcpm]]
 
 **所属领域**: [[web]] [[image-gen]]
 

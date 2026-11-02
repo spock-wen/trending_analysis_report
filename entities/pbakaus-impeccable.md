@@ -16,7 +16,6 @@ last_trending: 2026-11-01
 peak_rank: 2
 total_stars: 98208
 language: "Rust"
-contested: true
 ---
 
 # pbakaus/impeccable
@@ -39,17 +38,7 @@ The design vocabulary for your coding agent. Steer with polish and bolder, revie
 
 ## 相关项目
 
-[[cjpais-handy]] [[macro-inc-macro]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[vercel-labs-agent-desktop]] [[cjpais-handy]]
 
 **所属领域**: [[ai-agent]]
-
-
-## ⚠️ 描述变更（2026-10-29）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: The design language that makes your AI harness better at design.
-- **新描述**: The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

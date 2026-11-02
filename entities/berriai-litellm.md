@@ -34,7 +34,7 @@ The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[beenuar-aisoc]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thedotmack-claude-mem]] [[shiyu-coder-kronos]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

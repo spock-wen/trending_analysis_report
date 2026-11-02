@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[bwya77-vscode-dark-islands]] [[nvidia-skillspector]] [[thedotmack-claude-mem]] [[beenuar-aisoc]] [[renhuai123-ziwei-doushu]]
+[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

@@ -34,7 +34,7 @@ FastAPI framework, high performance, easy to learn, fast to code, ready for prod
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[beenuar-aisoc]] [[shiyu-coder-kronos]] [[xiaolai-the-craft-of-selfteaching]] [[thu-maic-openmaic]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[education]]
 

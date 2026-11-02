@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[public-apis-public-apis]] [[beenuar-aisoc]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -35,7 +35,7 @@ OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换�
 
 ## 相关项目
 
-[[cjpais-handy]] [[macro-inc-macro]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[donchitos-claude-code-game-studios]] [[vercel-labs-agent-desktop]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

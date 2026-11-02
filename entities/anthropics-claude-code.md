@@ -38,7 +38,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]] [[obra-superpowers]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[donchitos-claude-code-game-studios]] [[pingdotgg-t3code]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

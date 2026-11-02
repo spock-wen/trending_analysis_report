@@ -38,7 +38,7 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[nvidia-skillspector]] [[copilotkit-openbot]] [[orkas-ai-orkas]] [[lightpanda-io-browser]]
+[[lightpanda-io-browser]] [[nvidia-skillspector]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[hkuds-deeptutor]]
 
 **所属领域**: [[web]] [[data]]
 

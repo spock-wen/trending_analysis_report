@@ -38,7 +38,7 @@ Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[beenuar-aisoc]] [[renhuai123-ziwei-doushu]] [[orkas-ai-orkas]] [[lightpanda-io-browser]]
+[[coollabsio-coolify]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

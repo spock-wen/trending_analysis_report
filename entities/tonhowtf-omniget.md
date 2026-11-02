@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[cjpais-handy]] [[macro-inc-macro]] [[pbakaus-impeccable]] [[fastapi-fastapi]] [[debpalash-voicestudio]]
+[[thu-maic-openmaic]] [[max-sixty-worktrunk]] [[openbmb-voxcpm]] [[donchitos-claude-code-game-studios]] [[vercel-labs-agent-desktop]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

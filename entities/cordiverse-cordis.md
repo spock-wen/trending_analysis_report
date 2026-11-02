@@ -36,5 +36,5 @@ Meta-Framework of Spatiotemporal Composability
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]] [[pingdotgg-t3code]]
+[[pingdotgg-t3code]] [[paperclipai-paperclip]] [[renhuai123-ziwei-doushu]] [[thedotmack-claude-mem]]
 

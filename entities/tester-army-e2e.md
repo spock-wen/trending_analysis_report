@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]]
+[[lightpanda-io-browser]] [[coollabsio-coolify]] [[d4vinci-scrapling]] [[hkuds-deeptutor]] [[openbmb-voxcpm]]
 
 **所属领域**: [[web]] [[image-gen]]
 

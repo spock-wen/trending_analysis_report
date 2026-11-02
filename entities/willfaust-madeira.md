@@ -35,7 +35,7 @@ Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[php-php-src]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[togg53192-cmd-jailbreaks]]
+[[epicgames-raddebugger]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[thedotmack-claude-mem]] [[justvugg-colibri]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[affaan-m-ecc]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thu-maic-openmaic]] [[affaan-m-ecc]] [[patchy631-ai-engineering-hub]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[cjpais-handy]] [[fastapi-fastapi]] [[public-apis-public-apis]] [[beenuar-aisoc]] [[thedotmack-claude-mem]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thu-maic-openmaic]] [[openbmb-voxcpm]] [[patchy631-ai-engineering-hub]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

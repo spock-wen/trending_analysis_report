@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[fastapi-fastapi]] [[public-apis-public-apis]] [[beenuar-aisoc]] [[thedotmack-claude-mem]]
+[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[thu-maic-openmaic]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

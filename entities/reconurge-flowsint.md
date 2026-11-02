@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]] [[beenuar-aisoc]]
+[[nvidia-skillspector]] [[affaan-m-ecc]] [[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[security]]
 

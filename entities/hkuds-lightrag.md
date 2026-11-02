@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[beenuar-aisoc]] [[shiyu-coder-kronos]] [[coollabsio-coolify]] [[openbmb-voxcpm]]
+[[coollabsio-coolify]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[openbmb-voxcpm]] [[comfy-org-comfyui]]
 
 **所属领域**: [[image-gen]]
 

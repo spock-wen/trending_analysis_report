@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[bwya77-vscode-dark-islands]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[obra-superpowers]] [[lightpanda-io-browser]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[zhaoxuya520-reverse-skill]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

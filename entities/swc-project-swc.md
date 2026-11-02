@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[cjpais-handy]] [[hkuds-deeptutor]] [[macro-inc-macro]] [[nightly-labs-openbot]] [[pbakaus-impeccable]]
+[[lightpanda-io-browser]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[hkuds-deeptutor]] [[vercel-labs-agent-desktop]]
 
 **所属领域**: [[web]]
 

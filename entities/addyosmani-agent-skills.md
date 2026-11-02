@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[orkas-ai-orkas]] [[lightpanda-io-browser]] [[affaan-m-ecc]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[hmjz100-linkswift]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]]
 

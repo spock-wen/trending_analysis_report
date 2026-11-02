@@ -38,7 +38,7 @@ Give your agent CAD superpowers.
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[public-apis-public-apis]] [[beenuar-aisoc]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[hugohe3-ppt-master]] [[obra-superpowers]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

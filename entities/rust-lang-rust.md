@@ -34,5 +34,5 @@ Empowering everyone to build reliable and efficient software.
 
 ## 相关项目
 
-[[cjpais-handy]] [[macro-inc-macro]] [[anomalyco-hex]] [[pbakaus-impeccable]]
+[[anomalyco-hex]] [[vercel-labs-agent-desktop]] [[cjpais-handy]] [[max-sixty-worktrunk]]
 

@@ -38,7 +38,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[thedotmack-claude-mem]] [[beenuar-aisoc]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]]
+[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

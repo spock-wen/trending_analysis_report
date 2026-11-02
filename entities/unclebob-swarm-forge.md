@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[togg53192-cmd-jailbreaks]] [[penpot-penpot]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thedotmack-claude-mem]] [[penpot-penpot]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

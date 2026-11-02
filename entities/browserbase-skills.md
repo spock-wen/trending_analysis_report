@@ -38,7 +38,7 @@ Claude Agent SDK with a web browsing tool
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[copilotkit-openbot]] [[renhuai123-ziwei-doushu]] [[orkas-ai-orkas]]
+[[lightpanda-io-browser]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[hkuds-deeptutor]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

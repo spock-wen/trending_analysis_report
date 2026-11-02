@@ -37,7 +37,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]]
+[[lightpanda-io-browser]] [[d4vinci-scrapling]] [[hkuds-deeptutor]] [[pingdotgg-t3code]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[web]]
 

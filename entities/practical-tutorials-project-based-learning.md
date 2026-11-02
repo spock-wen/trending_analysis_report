@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[public-apis-public-apis]] [[beenuar-aisoc]] [[shiyu-coder-kronos]] [[xiaolai-the-craft-of-selfteaching]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[education]]
 

@@ -38,7 +38,7 @@ Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,
 
 ## 相关项目
 
-[[cjpais-handy]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[vercel-labs-agent-desktop]] [[cjpais-handy]]
 
 **所属领域**: [[ai-agent]]
 

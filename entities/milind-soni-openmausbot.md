@@ -37,5 +37,5 @@ Open-source Grok Bot alternative with a virtual machine that bots can use
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[pingdotgg-t3code]]
+[[pingdotgg-t3code]] [[paperclipai-paperclip]] [[renhuai123-ziwei-doushu]] [[thedotmack-claude-mem]]
 

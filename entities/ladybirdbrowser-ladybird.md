@@ -36,7 +36,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[hyprwm-hyprland]] [[boykopovar-anyps5]] [[hkuds-deeptutor]] [[copilotkit-openbot]] [[lightpanda-io-browser]]
+[[lightpanda-io-browser]] [[boykopovar-anyps5]] [[d4vinci-scrapling]] [[hkuds-deeptutor]] [[tensorflow-tensorflow]]
 
 **所属领域**: [[web]]
 

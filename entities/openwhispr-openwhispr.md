@@ -34,7 +34,7 @@ Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud model
 
 ## 相关项目
 
-[[cjpais-handy]] [[thedotmack-claude-mem]] [[beenuar-aisoc]] [[renhuai123-ziwei-doushu]] [[orkas-ai-orkas]]
+[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[security]] [[audio]]
 

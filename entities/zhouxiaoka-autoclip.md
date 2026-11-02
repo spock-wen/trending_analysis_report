@@ -34,7 +34,7 @@ AutoClip : AI-powered video clipping and highlight generation · 一款智能高
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[beenuar-aisoc]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]]
+[[coollabsio-coolify]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[paperclipai-paperclip]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[image-gen]]
 

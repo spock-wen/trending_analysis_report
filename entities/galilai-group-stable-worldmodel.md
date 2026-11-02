@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[public-apis-public-apis]] [[beenuar-aisoc]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]]
+[[coollabsio-coolify]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[paperclipai-paperclip]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

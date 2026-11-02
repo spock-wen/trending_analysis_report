@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[nvidia-skillspector]] [[public-apis-public-apis]] [[beenuar-aisoc]] [[copilotkit-openbot]]
+[[lightpanda-io-browser]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[nvidia-skillspector]]
 
 **所属领域**: [[web]] [[data]]
 

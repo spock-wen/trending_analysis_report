@@ -35,7 +35,7 @@ Let AI agents use your real, logged-in browser without interrupting your work. C
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]]
+[[lightpanda-io-browser]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[hkuds-deeptutor]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

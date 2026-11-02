@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[cjpais-handy]] [[macro-inc-macro]] [[nvidia-skillspector]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]]
+[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

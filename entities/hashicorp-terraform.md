@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[thedotmack-claude-mem]] [[ruvnet-ruflo]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]]
+[[coollabsio-coolify]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -34,5 +34,5 @@ A list of developer portfolios for your inspiration
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[beenuar-aisoc]] [[shiyu-coder-kronos]] [[kornia-kornia]]
+[[shiyu-coder-kronos]] [[d4vinci-scrapling]] [[p-e-w-heretic]] [[karpathy-nanochat]]
 

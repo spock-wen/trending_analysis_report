@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[obra-superpowers]] [[juliusbrussee-caveman]] [[strelov1-freehire]] [[donchitos-claude-code-game-studios]]
+[[max-sixty-worktrunk]] [[vxcontrol-pentagi]] [[donchitos-claude-code-game-studios]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]]
 
 **所属领域**: [[cli]]
 

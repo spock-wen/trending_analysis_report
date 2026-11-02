@@ -38,7 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[orkas-ai-orkas]] [[lightpanda-io-browser]] [[affaan-m-ecc]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[max-sixty-worktrunk]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[togg53192-cmd-jailbreaks]] [[docusealco-docuseal]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[docusealco-docuseal]] [[thedotmack-claude-mem]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[copilotkit-openbot]] [[obra-superpowers]] [[lightpanda-io-browser]] [[donchitos-claude-code-game-studios]]
+[[lightpanda-io-browser]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[hkuds-deeptutor]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[web]] [[cli]]
 

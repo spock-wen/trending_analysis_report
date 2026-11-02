@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[public-apis-public-apis]] [[beenuar-aisoc]] [[shiyu-coder-kronos]] [[affaan-m-ecc]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[shiyu-coder-kronos]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[science]]
 

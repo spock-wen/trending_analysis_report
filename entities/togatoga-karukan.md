@@ -34,5 +34,5 @@ Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engi
 
 ## 相关项目
 
-[[cjpais-handy]] [[macro-inc-macro]] [[anomalyco-hex]] [[pbakaus-impeccable]]
+[[anomalyco-hex]] [[vercel-labs-agent-desktop]] [[cjpais-handy]] [[max-sixty-worktrunk]]
 

@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[agricidaniel-claude-seo]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]]
+[[hugohe3-ppt-master]] [[pingdotgg-t3code]] [[obra-superpowers]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[erp]]
 

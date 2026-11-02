@@ -37,7 +37,7 @@ YuE2: frontier music generation with symbolic planning, zero-shot covers, and ag
 
 ## 相关项目
 
-[[cjpais-handy]] [[public-apis-public-apis]] [[beenuar-aisoc]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]]
+[[coollabsio-coolify]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[openbmb-voxcpm]] [[comfy-org-comfyui]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[cathrynlavery-diagram-design]] [[fastapi-fastapi]] [[copilotkit-openbot]] [[lightpanda-io-browser]]
+[[lightpanda-io-browser]] [[d4vinci-scrapling]] [[thu-maic-openmaic]] [[hkuds-deeptutor]] [[patchy631-ai-engineering-hub]]
 
 **所属领域**: [[web]] [[education]]
 

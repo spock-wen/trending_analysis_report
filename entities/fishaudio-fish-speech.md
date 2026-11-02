@@ -37,7 +37,7 @@ SOTA Open Source TTS
 
 ## 相关项目
 
-[[cjpais-handy]] [[public-apis-public-apis]] [[beenuar-aisoc]] [[debpalash-voicestudio]] [[shiyu-coder-kronos]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[openbmb-voxcpm]] [[cjpais-handy]] [[anomalyco-hex]]
 
 **所属领域**: [[audio]]
 

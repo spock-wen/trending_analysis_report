@@ -35,5 +35,5 @@ An open-source remote desktop application designed for self-hosting, as an alter
 
 ## 相关项目
 
-[[cjpais-handy]] [[macro-inc-macro]] [[anomalyco-hex]] [[pbakaus-impeccable]]
+[[anomalyco-hex]] [[vercel-labs-agent-desktop]] [[cjpais-handy]] [[max-sixty-worktrunk]]
 

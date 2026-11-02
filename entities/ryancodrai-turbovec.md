@@ -38,7 +38,7 @@ A vector index built on TurboQuant, written in Rust with Python bindings
 
 ## 相关项目
 
-[[cjpais-handy]] [[macro-inc-macro]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[vercel-labs-agent-desktop]] [[cjpais-handy]]
 
 **所属领域**: [[ai-agent]]
 

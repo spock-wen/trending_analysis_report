@@ -38,5 +38,5 @@ A collective list of free APIs
 
 ## 相关项目
 
-[[beenuar-aisoc]] [[shiyu-coder-kronos]] [[kornia-kornia]]
+[[shiyu-coder-kronos]] [[d4vinci-scrapling]] [[p-e-w-heretic]] [[karpathy-nanochat]]
 

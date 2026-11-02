@@ -34,7 +34,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[higgsfield-ai-higgsfield]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[lyogavin-airllm]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[higgsfield-ai-higgsfield]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[ai-agent]]
 

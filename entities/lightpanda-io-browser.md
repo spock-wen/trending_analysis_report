@@ -38,7 +38,7 @@ Lightpanda: the headless browser designed for AI and automation
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[copilotkit-openbot]] [[renhuai123-ziwei-doushu]] [[ghostty-org-ghostty]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[ghostty-org-ghostty]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

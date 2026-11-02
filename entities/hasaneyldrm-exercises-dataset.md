@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[cathrynlavery-diagram-design]] [[nvidia-skillspector]] [[thedotmack-claude-mem]] [[copilotkit-openbot]]
+[[lightpanda-io-browser]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

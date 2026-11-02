@@ -35,7 +35,7 @@ Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[public-apis-public-apis]] [[beenuar-aisoc]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]]
+[[lightpanda-io-browser]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[hkuds-deeptutor]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

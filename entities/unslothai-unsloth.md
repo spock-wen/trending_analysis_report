@@ -37,7 +37,7 @@ Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[beenuar-aisoc]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]]
+[[coollabsio-coolify]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[openbmb-voxcpm]] [[comfy-org-comfyui]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

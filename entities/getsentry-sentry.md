@@ -36,7 +36,7 @@ Developer-first error tracking and performance monitoring
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[beenuar-aisoc]] [[ruvnet-ruflo]] [[shiyu-coder-kronos]] [[bregman-arie-devops-exercises]]
+[[coollabsio-coolify]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[ruvnet-ruview]]
 
 **所属领域**: [[devops]]
 

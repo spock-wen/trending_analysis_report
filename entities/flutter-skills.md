@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[chen08209-flclash]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[flutter-flutter]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[localsend-localsend]] [[thedotmack-claude-mem]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]]
 

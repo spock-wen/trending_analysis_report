@@ -34,7 +34,7 @@ OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[ai-agent]]
 

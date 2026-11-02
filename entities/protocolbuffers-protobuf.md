@@ -37,7 +37,7 @@ Protocol Buffers - Google's data interchange format
 
 ## 相关项目
 
-[[hyprwm-hyprland]] [[boykopovar-anyps5]] [[bregman-arie-devops-exercises]] [[tensorflow-tensorflow]] [[microsoft-bitnet]]
+[[nvidia-skillspector]] [[boykopovar-anyps5]] [[bregman-arie-devops-exercises]] [[tensorflow-tensorflow]] [[hyprwm-hyprland]]
 
 **所属领域**: [[data]]
 

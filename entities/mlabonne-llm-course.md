@@ -34,7 +34,7 @@ Course to get into Large Language Models (LLMs) with roadmaps and Colab notebook
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[xiaolai-the-craft-of-selfteaching]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -34,7 +34,7 @@ qBittorrent BitTorrent client
 
 ## 相关项目
 
-[[hyprwm-hyprland]] [[boykopovar-anyps5]] [[obra-superpowers]] [[donchitos-claude-code-game-studios]] [[thu-maic-openmaic]]
+[[boykopovar-anyps5]] [[max-sixty-worktrunk]] [[tensorflow-tensorflow]] [[donchitos-claude-code-game-studios]] [[hyprwm-hyprland]]
 
 **所属领域**: [[cli]]
 

@@ -1,20 +1,20 @@
 ---
 title: "karpathy/nanochat"
 created: 2026-03-10
-updated: 2026-03-11
-last_active: 2026-03-11
+updated: 2026-11-03
+last_active: 2026-11-03
 type: tool
 tags: [python, ai-agent]
-sources: [raw/trending/2026-03-11.json]
-confidence: medium
-trending_count_daily: 2
+sources: [raw/trending/2026-11-03.json]
+confidence: high
+trending_count_daily: 3
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 2
+consecutive_days: 1
 first_trending: 2026-03-10
-last_trending: 2026-03-11
+last_trending: 2026-11-03
 peak_rank: 3
-total_stars: 46203
+total_stars: 59851
 language: "Python"
 ---
 
@@ -23,19 +23,20 @@ language: "Python"
 The best ChatGPT that $100 can buy.
 
 - 语言: Python
-- 上榜次数: 2 次
-- 连续上榜: 2 天
+- 上榜次数: 3 次
+- 连续上榜: 1 天
 - 最高排名: #3
 - 链接: [karpathy/nanochat](https://github.com/karpathy/nanochat)
 
 ## 上榜历史
 
+  - 2026-11-03: #14, +325⭐
   - 2026-03-11: #6, +709⭐
   - 2026-03-10: #3, +332⭐
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[beenuar-aisoc]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thedotmack-claude-mem]] [[shiyu-coder-kronos]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[cjpais-handy]] [[macro-inc-macro]] [[pbakaus-impeccable]] [[ruvnet-ruflo]] [[bregman-arie-devops-exercises]]
+[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[max-sixty-worktrunk]] [[vercel-labs-agent-desktop]] [[cjpais-handy]]
 
 **所属领域**: [[devops]]
 

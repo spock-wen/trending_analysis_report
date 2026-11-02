@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[higgsfield-ai-higgsfield]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[lyogavin-airllm]]
+[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

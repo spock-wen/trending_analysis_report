@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[cjpais-handy]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[openbmb-voxcpm]] [[pingdotgg-t3code]] [[cjpais-handy]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

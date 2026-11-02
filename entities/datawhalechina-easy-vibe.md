@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[orkas-ai-orkas]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[bregman-arie-devops-exercises]]
+[[nvidia-skillspector]] [[bregman-arie-devops-exercises]] [[thu-maic-openmaic]] [[hmjz100-linkswift]] [[patchy631-ai-engineering-hub]]
 
 **所属领域**: [[data]] [[education]]
 

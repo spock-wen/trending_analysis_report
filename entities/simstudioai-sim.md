@@ -34,7 +34,7 @@ Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer 
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]] [[ruvnet-ruflo]]
+[[coollabsio-coolify]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -38,7 +38,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[togg53192-cmd-jailbreaks]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[mattpocock-skills]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]]
 

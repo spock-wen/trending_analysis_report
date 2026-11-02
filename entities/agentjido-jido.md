@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[plausible-analytics]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[plausible-analytics]] [[teslamate-org-teslamate]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]]
 

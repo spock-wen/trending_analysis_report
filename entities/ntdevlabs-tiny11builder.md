@@ -34,7 +34,7 @@ WinUI app for building smaller, customized Windows 11 images.
 
 ## 相关项目
 
-[[beenuar-aisoc]] [[k1tbyte-wand-enhancer]] [[sonarr-sonarr]] [[coollabsio-coolify]] [[openbmb-voxcpm]]
+[[coollabsio-coolify]] [[openbmb-voxcpm]] [[dotnet-aspnetcore]] [[sonarr-sonarr]] [[comfy-org-comfyui]]
 
 **所属领域**: [[image-gen]]
 

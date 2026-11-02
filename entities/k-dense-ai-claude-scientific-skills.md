@@ -35,7 +35,7 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[public-apis-public-apis]] [[beenuar-aisoc]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[paperclipai-paperclip]] [[affaan-m-ecc]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[cathrynlavery-diagram-design]] [[thedotmack-claude-mem]] [[copilotkit-openbot]] [[renhuai123-ziwei-doushu]]
+[[lightpanda-io-browser]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[hkuds-deeptutor]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

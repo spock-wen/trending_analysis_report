@@ -37,7 +37,7 @@ No description
 
 ## 相关项目
 
-[[hyprwm-hyprland]] [[boykopovar-anyps5]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]]
+[[p-e-w-heretic]] [[boykopovar-anyps5]] [[d4vinci-scrapling]] [[tensorflow-tensorflow]] [[hyprwm-hyprland]]
 
 **所属领域**: [[ai-agent]]
 

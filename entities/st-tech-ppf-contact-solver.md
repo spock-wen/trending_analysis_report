@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[beenuar-aisoc]] [[obra-superpowers]] [[shiyu-coder-kronos]] [[donchitos-claude-code-game-studios]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[paperclipai-paperclip]] [[max-sixty-worktrunk]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[cli]]
 

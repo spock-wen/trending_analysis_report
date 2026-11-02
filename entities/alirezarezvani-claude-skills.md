@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[beenuar-aisoc]] [[renhuai123-ziwei-doushu]] [[hugohe3-ppt-master]] [[mattpocock-skills]] [[obra-superpowers]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[paperclipai-paperclip]] [[affaan-m-ecc]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

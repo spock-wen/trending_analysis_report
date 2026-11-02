@@ -36,7 +36,7 @@ Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]] [[obra-superpowers]]
+[[coollabsio-coolify]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

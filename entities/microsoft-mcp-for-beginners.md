@@ -34,7 +34,7 @@ This open-source curriculum introduces the fundamentals of Model Context Protoco
 
 ## 相关项目
 
-[[fastapi-fastapi]] [[higgsfield-ai-higgsfield]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thu-maic-openmaic]] [[higgsfield-ai-higgsfield]] [[patchy631-ai-engineering-hub]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[cathrynlavery-diagram-design]] [[ruvnet-ruview]] [[copilotkit-openbot]] [[ruvnet-ruflo]]
+[[lightpanda-io-browser]] [[coollabsio-coolify]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[ruvnet-ruview]]
 
 **所属领域**: [[web]] [[devops]]
 

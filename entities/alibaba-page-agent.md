@@ -38,7 +38,7 @@ JavaScript in-page GUI agent. Control web interfaces with natural language.
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]]
+[[lightpanda-io-browser]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[hkuds-deeptutor]] [[pingdotgg-t3code]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

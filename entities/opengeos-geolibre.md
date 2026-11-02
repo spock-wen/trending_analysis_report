@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[hkuds-deeptutor]] [[nvidia-skillspector]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]]
+[[lightpanda-io-browser]] [[nvidia-skillspector]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[hkuds-deeptutor]]
 
 **所属领域**: [[web]] [[data]]
 

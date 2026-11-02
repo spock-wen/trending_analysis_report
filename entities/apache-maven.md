@@ -34,5 +34,5 @@ Apache Maven core
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]] [[google-guava]] [[yuliskov-smarttube]]
+[[checkstyle-checkstyle]] [[yuliskov-smarttube]] [[google-guava]] [[nationalsecurityagency-ghidra]]
 

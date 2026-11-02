@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[cjpais-handy]] [[thedotmack-claude-mem]] [[beenuar-aisoc]] [[renhuai123-ziwei-doushu]] [[orkas-ai-orkas]]
+[[coollabsio-coolify]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[openbmb-voxcpm]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

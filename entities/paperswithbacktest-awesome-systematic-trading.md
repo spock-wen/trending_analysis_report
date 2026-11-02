@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[fastapi-fastapi]] [[public-apis-public-apis]] [[beenuar-aisoc]] [[shiyu-coder-kronos]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thu-maic-openmaic]] [[affaan-m-ecc]] [[patchy631-ai-engineering-hub]]
 
 **所属领域**: [[education]] [[science]]
 

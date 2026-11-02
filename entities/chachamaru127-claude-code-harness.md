@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[obra-superpowers]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[expo-skills]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[donchitos-claude-code-game-studios]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

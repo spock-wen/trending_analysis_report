@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[bwya77-vscode-dark-islands]] [[beenuar-aisoc]] [[obra-superpowers]] [[donchitos-claude-code-game-studios]] [[thu-maic-openmaic]]
+[[coollabsio-coolify]] [[max-sixty-worktrunk]] [[openbmb-voxcpm]] [[zhaoxuya520-reverse-skill]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[beenuar-aisoc]] [[kornia-kornia]] [[shiyu-coder-kronos]] [[bregman-arie-devops-exercises]]
+[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[data]]
 

@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[lightpanda-io-browser]] [[togg53192-cmd-jailbreaks]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

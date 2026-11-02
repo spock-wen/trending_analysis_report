@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[beenuar-aisoc]] [[shiyu-coder-kronos]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]]
+[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[cloudflare-security-audit-skill]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[security]]
 

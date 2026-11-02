@@ -35,7 +35,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[chen08209-flclash]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[flutter-skills]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thedotmack-claude-mem]] [[flutter-skills]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]]
 

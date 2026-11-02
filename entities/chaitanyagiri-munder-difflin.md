@@ -36,7 +36,7 @@ local multi-agent harness
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ language: "Zig"
 
 ## 相关项目
 
-[[obra-superpowers]] [[lightpanda-io-browser]] [[donchitos-claude-code-game-studios]] [[thu-maic-openmaic]] [[mattpocock-skills]]
+[[lightpanda-io-browser]] [[max-sixty-worktrunk]] [[donchitos-claude-code-game-studios]] [[mattpocock-skills]] [[paperclipai-paperclip]]
 
 **所属领域**: [[cli]]
 

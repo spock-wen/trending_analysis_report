@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[bwya77-vscode-dark-islands]] [[obra-superpowers]] [[donchitos-claude-code-game-studios]] [[thu-maic-openmaic]] [[zhaoxuya520-reverse-skill]]
+[[max-sixty-worktrunk]] [[zhaoxuya520-reverse-skill]] [[donchitos-claude-code-game-studios]] [[bwya77-vscode-dark-islands]] [[actions-runner-images]]
 
 **所属领域**: [[cli]]
 

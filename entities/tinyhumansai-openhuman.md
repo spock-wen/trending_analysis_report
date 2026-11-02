@@ -38,7 +38,7 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 ## 相关项目
 
-[[cjpais-handy]] [[macro-inc-macro]] [[pbakaus-impeccable]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[max-sixty-worktrunk]] [[vercel-labs-agent-desktop]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

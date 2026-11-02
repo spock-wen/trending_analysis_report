@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[copilotkit-openbot]] [[beenuar-aisoc]] [[orkas-ai-orkas]] [[lightpanda-io-browser]]
+[[lightpanda-io-browser]] [[coollabsio-coolify]] [[d4vinci-scrapling]] [[hkuds-deeptutor]] [[openbmb-voxcpm]]
 
 **所属领域**: [[web]] [[image-gen]]
 

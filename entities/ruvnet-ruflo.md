@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[fastapi-fastapi]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]]
+[[coollabsio-coolify]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

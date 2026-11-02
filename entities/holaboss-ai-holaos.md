@@ -35,7 +35,7 @@ Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex 
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[hkuds-deeptutor]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]]
+[[lightpanda-io-browser]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[hkuds-deeptutor]] [[pingdotgg-t3code]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

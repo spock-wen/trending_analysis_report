@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[yuliskov-smarttube]] [[thedotmack-claude-mem]] [[nationalsecurityagency-ghidra]] [[renhuai123-ziwei-doushu]]
+[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

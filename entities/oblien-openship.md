@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]] [[ruvnet-ruflo]]
+[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[ruvnet-ruview]] [[pingdotgg-t3code]] [[ruvnet-ruflo]]
 
 **所属领域**: [[devops]]
 

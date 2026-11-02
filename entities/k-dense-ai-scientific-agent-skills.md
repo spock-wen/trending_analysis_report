@@ -38,7 +38,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[beenuar-aisoc]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]]
+[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[public-apis-public-apis]] [[beenuar-aisoc]] [[kornia-kornia]] [[shiyu-coder-kronos]]
+[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[affaan-m-ecc]]
 
 **所属领域**: [[data]] [[science]]
 

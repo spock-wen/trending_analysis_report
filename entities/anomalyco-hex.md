@@ -34,7 +34,7 @@ Local voice dictation for mac, windows and linux
 
 ## 相关项目
 
-[[cjpais-handy]] [[macro-inc-macro]] [[pbakaus-impeccable]] [[debpalash-voicestudio]] [[openbmb-voxcpm]]
+[[max-sixty-worktrunk]] [[openbmb-voxcpm]] [[vercel-labs-agent-desktop]] [[cjpais-handy]] [[debpalash-voicestudio]]
 
 **所属领域**: [[audio]]
 

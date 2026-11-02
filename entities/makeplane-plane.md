@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[milind-soni-openmausbot]] [[renhuai123-ziwei-doushu]] [[obra-superpowers]]
+[[max-sixty-worktrunk]] [[donchitos-claude-code-game-studios]] [[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE
 
 ## 相关项目
 
-[[public-apis-public-apis]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[lightpanda-io-browser]] [[shiyu-coder-kronos]]
+[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[coollabsio-coolify]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[security]] [[image-gen]]
 

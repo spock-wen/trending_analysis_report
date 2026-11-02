@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]] [[k1tbyte-wand-enhancer]] [[lightpanda-io-browser]] [[ntdevlabs-tiny11builder]]
+[[p-e-w-heretic]] [[d4vinci-scrapling]] [[dotnet-aspnetcore]] [[sonarr-sonarr]] [[ntdevlabs-tiny11builder]]
 
 **所属领域**: [[ai-agent]]
 

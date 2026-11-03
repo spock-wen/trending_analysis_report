@@ -35,7 +35,7 @@ DeepEP: an efficient expert-parallel communication library
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[moonshotai-flashkda]] [[deepseek-ai-deepgemm]] [[thedotmack-claude-mem]]
+[[d4vinci-scrapling]] [[deepseek-ai-deepgemm]] [[moonshotai-flashkda]] [[p-e-w-heretic]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

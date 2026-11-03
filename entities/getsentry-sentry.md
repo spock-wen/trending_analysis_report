@@ -36,7 +36,7 @@ Developer-first error tracking and performance monitoring
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[ruvnet-ruview]]
+[[ruvnet-ruview]] [[d4vinci-scrapling]] [[shiyu-coder-kronos]] [[p-e-w-heretic]] [[usagi-org-ai-goofish-monitor]]
 
 **所属领域**: [[devops]]
 

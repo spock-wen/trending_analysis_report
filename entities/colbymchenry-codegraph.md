@@ -38,7 +38,7 @@ Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
 
 ## 相关项目
 
-[[epicgames-raddebugger]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[thedotmack-claude-mem]] [[justvugg-colibri]]
+[[justvugg-colibri]] [[epicgames-raddebugger]] [[d4vinci-scrapling]] [[mattpocock-skills]] [[p-e-w-heretic]]
 
 **所属领域**: [[ai-agent]]
 

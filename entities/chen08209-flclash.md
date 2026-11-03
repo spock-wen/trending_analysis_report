@@ -35,7 +35,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[mattpocock-skills]] [[max-sixty-worktrunk]] [[donchitos-claude-code-game-studios]] [[localsend-localsend]] [[flutter-skills]]
+[[localsend-localsend]] [[flutter-flutter]] [[vercel-labs-agent-desktop]] [[donchitos-claude-code-game-studios]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that 
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[bregman-arie-devops-exercises]] [[max-sixty-worktrunk]] [[ruvnet-ruview]] [[openbmb-voxcpm]]
+[[bregman-arie-devops-exercises]] [[openbmb-voxcpm]] [[ruvnet-ruview]] [[beenuar-aisoc]] [[vercel-labs-agent-desktop]]
 
 **所属领域**: [[cli]] [[data]] [[devops]] [[image-gen]]
 

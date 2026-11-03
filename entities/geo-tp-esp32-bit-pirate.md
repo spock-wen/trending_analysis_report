@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[boykopovar-anyps5]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[hkuds-deeptutor]]
+[[hkuds-deeptutor]] [[d4vinci-scrapling]] [[microsoft-bitnet]] [[tensorflow-tensorflow]] [[boykopovar-anyps5]]
 
 **所属领域**: [[web]] [[cli]]
 

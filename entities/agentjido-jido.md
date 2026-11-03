@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[plausible-analytics]] [[teslamate-org-teslamate]] [[thedotmack-claude-mem]]
+[[d4vinci-scrapling]] [[teslamate-org-teslamate]] [[p-e-w-heretic]] [[mattpocock-skills]] [[plausible-analytics]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[epicgames-raddebugger]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[nvidia-skillspector]]
+[[justvugg-colibri]] [[epicgames-raddebugger]] [[d4vinci-scrapling]] [[nvidia-skillspector]] [[kornia-kornia]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

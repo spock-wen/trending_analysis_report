@@ -35,7 +35,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[coollabsio-coolify]] [[hkuds-deeptutor]]
+[[hkuds-deeptutor]] [[diolinux-photogimp]] [[openbmb-voxcpm]] [[d4vinci-scrapling]] [[beenuar-aisoc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

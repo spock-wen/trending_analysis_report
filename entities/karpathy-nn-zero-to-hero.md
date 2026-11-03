@@ -34,5 +34,5 @@ Neural Networks: Zero to Hero
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[higgsfield-ai-higgsfield]]
+[[patchy631-ai-engineering-hub]] [[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[xiaolai-the-craft-of-selfteaching]]
 

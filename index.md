@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-11-03 | 总页面：861
+> 最后更新：2026-11-04 | 总页面：864
 
 ## Entities
 
@@ -198,7 +198,7 @@
 - [[cursor-plugins|plugins]] — Cursor plugin specification and official plugins
 - [[cypress-io-cypress|cypress]] — Fast, easy and reliable testing for anything that runs in a ...
 - [[czlonkowski-n8n-mcp|n8n-mcp]] — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor t...
-- [[d4vinci-scrapling|Scrapling]] — 🕷️ The BEST Web Scraping framework that handles everything f...
+- [[d4vinci-scrapling|Scrapling]] — 🕷️ The BEST Web Scraping framework that handles everything f... 🆕
 - [[dani-garcia-vaultwarden|vaultwarden]] — Unofficial Bitwarden compatible server written in Rust, form...
 - [[danielmiessler-lifeos|LifeOS]] — ⛰️A General Hill-climbing AI harness that helps you move fro...
 - [[danielmiessler-personal_ai_infrastructure|Personal_AI_Infrastructure]] — Agentic AI Infrastructure for magnifying HUMAN capabilities.
@@ -269,6 +269,7 @@
 - [[fishaudio-fish-speech|fish-speech]] — SOTA Open Source TTS 🔥
 - [[fission-ai-openspec|OpenSpec]] — Spec-driven development (SDD) for AI coding assistants.
 - [[flashml-org-freetoken|FreeToken]] — FreeToken brings datacenter-scale model serving to your desk... 🆕
+- [[floci-io-floci|floci]] — Light, fluffy, and always free - The AWS Local Emulator alte... 🆕
 - [[flowseal-zapret-discord-youtube|zapret-discord-youtube]] — No description
 - [[flutter-flutter|flutter]] — Flutter makes it easy and fast to build beautiful apps for m...
 - [[flutter-skills|skills]] — No description
@@ -405,7 +406,7 @@
 - [[juliusbrussee-caveman|caveman]] — 🪨 why use many token when few token do trick. Viral skill + ...
 - [[julyx10-lap|lap]] — An offline-first photo manager for large local libraries
 - [[jundot-omlx|omlx]] — LLM inference server with continuous batching & SSD caching ... 🔥
-- [[justvugg-colibri|colibri]] — Run frontier MoE models on hardware you already own — pure C...
+- [[justvugg-colibri|colibri]] — A hierarchical inference engine for frontier MoE models: hot... 🆕
 - [[jwasham-coding-interview-university|coding-interview-university]] — A complete computer science study plan to become a software ...
 - [[k-dense-ai-claude-scientific-skills|claude-scientific-skills]] — A set of ready to use Agent Skills for research, science, en... 🆕
 - [[k-dense-ai-scientific-agent-skills|scientific-agent-skills]] — Turn any AI agent into an AI Scientist. The #1 Agent Skills ... 🔥
@@ -481,9 +482,9 @@
 - [[marin-community-marin|marin]] — Open-source framework for the research and development of fo... 🔥
 - [[masterking32-masterdnsvpn|MasterDnsVPN]] — Advanced DNS tunneling VPN for censorship bypass, optimized ... 🔥
 - [[mattermost-mattermost|mattermost]] — Mattermost is an open source platform for secure collaborati... 🆕
-- [[mattpocock-skills|skills]] — Skills for Real Engineers. Straight from my .agents director...
+- [[mattpocock-skills|skills]] — Skills for Real Engineers. Straight from my .agents director... 🆕
 - [[mauriceboe-trek|TREK]] — A self-hosted travel/trip planner with real-time collaborati... 🆕
-- [[max-sixty-worktrunk|worktrunk]] — Worktrunk is a CLI for Git worktree management, designed for...
+- [[max-sixty-worktrunk|worktrunk]] — Worktrunk is a CLI for Git worktree management, designed for... 🆕
 - [[maziyarpanahi-openmed|openmed]] — open-source healthcare ai 🔥
 - [[mebus-cupp|cupp]] — Common User Passwords Profiler (CUPP) 🆕
 - [[medusajs-medusa|medusa]] — The world's most flexible commerce platform.
@@ -605,7 +606,7 @@
 - [[ottermind-chat2db|Chat2DB]] — 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI ... 🆕
 - [[oven-sh-bun|bun]] — Incredibly fast JavaScript runtime, bundler, test runner, an... 🆕
 - [[owainlewis-awesome-artificial-intelligence|awesome-artificial-intelligence]] — A curated list of Artificial Intelligence (AI) courses, book...
-- [[p-e-w-heretic|heretic]] — Training-free language model modification: Remove censorship...
+- [[p-e-w-heretic|heretic]] — Training-free language model modification: Remove censorship... 🆕
 - [[p1neapplexpress-openflux|OpenFlux]] — Network stack research tool. TCP tunnel with pluggable trans... 🆕
 - [[pablostanley-yoinks|yoinks]] — yoink any video from your terminal. no shady ads. 🆕
 - [[pacifio-atlas|atlas]] — Source control for agents. Use multiple coding agents, track...
@@ -692,7 +693,7 @@
 - [[shareai-lab-learn-claude-code|learn-claude-code]] — Bash is all you need - A nano claude code–like 「agent harnes...
 - [[sharex-sharex|ShareX]] — ShareX is a free and open-source application that enables us...
 - [[sherlock-project-sherlock|sherlock]] — Hunt down social media accounts by username across social ne... 🔥
-- [[shiyu-coder-kronos|Kronos]] — Kronos: A Foundation Model for the Language of Financial Mar... 🆕
+- [[shiyu-coder-kronos|Kronos]] — Kronos: A Foundation Model for the Language of Financial Mar... 🔥
 - [[shubhamsaboo-awesome-llm-apps|awesome-llm-apps]] — 100+ AI Agents, Agent Skills and RAG Apps - Free and Open So...
 - [[shy3130-tick-stock-panel|tick-stock-panel]] — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自...
 - [[siddharthvaddem-openscreen|openscreen]] — Create stunning demos for free. Open-source, no subscription... 🔥
@@ -708,6 +709,7 @@
 - [[sngyai-sequoia-x|Sequoia-X]] — A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书
 - [[sonarr-sonarr|Sonarr]] — Smart PVR for newsgroup and bittorrent users. 🆕
 - [[soxoj-maigret|maigret]] — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ s...
+- [[spotify-portal-ai-plugins|portal-ai-plugins]] — No description 🆕
 - [[st-tech-ppf-contact-solver|ppf-contact-solver]] — A contact solver for physics-based simulations involving 👚 s...
 - [[stablyai-orca|orca]] — Orca is the place for working with a fleet of agents (e.g. G... 🔥
 - [[stefan-jansen-machine-learning-for-trading|machine-learning-for-trading]] — Code for Machine Learning for Algorithmic Trading, 2nd editi... 🆕
@@ -784,6 +786,7 @@
 - [[unclecode-crawl4ai|crawl4ai]] — 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper....
 - [[universal-debloater-alliance-universal-android-debloater-next-generation|universal-android-debloater-next-generation]] — Cross-platform GUI written in Rust using ADB to debloat non-... 🔥
 - [[unslothai-unsloth|unsloth]] — Local UI to run and train LLMs and diffusion models, includi... 🔥
+- [[usagi-org-ai-goofish-monitor|ai-goofish-monitor]] — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从... 🆕
 - [[usekaneo-kaneo|kaneo]] — 🎯 All you need. Nothing you don't. Open source project manag... 🔥
 - [[usestrix-strix|strix]] — Open-source AI penetration testing tool to find and fix your...
 - [[vaibhavs10-insanely-fast-whisper|insanely-fast-whisper]] — No description 🆕

@@ -1,7 +1,7 @@
 ---
 title: "Rust Ecosystem Surge"
 created: 2026-06-17
-updated: 2026-10-29
+updated: 2026-11-04
 type: concept
 tags: [rust, surge]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 信号概述
 
-2026-10-29 检测到 Rust 领域有 3 个项目同时上榜，表明该语言生态近期活跃度显著上升。
+2026-11-04 检测到 Rust 领域有 3 个项目同时上榜，表明该语言生态近期活跃度显著上升。
 
 ## 上榜项目（3 个）
 
-[[macro-inc-macro]] [[pbakaus-impeccable]] [[ruvnet-ruview]]
+[[vercel-labs-agent-desktop]] [[max-sixty-worktrunk]] [[anomalyco-hex]]
 
 ## 语言分布
 

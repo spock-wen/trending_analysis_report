@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[epicgames-raddebugger]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[donchitos-claude-code-game-studios]]
+[[justvugg-colibri]] [[epicgames-raddebugger]] [[d4vinci-scrapling]] [[vercel-labs-agent-desktop]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

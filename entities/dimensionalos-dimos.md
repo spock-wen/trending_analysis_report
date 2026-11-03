@@ -34,5 +34,5 @@ The Dimensional Framework
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[d4vinci-scrapling]] [[p-e-w-heretic]] [[karpathy-nanochat]]
+[[usagi-org-ai-goofish-monitor]] [[shiyu-coder-kronos]] [[p-e-w-heretic]] [[d4vinci-scrapling]]
 

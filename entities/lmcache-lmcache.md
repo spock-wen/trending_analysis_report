@@ -36,7 +36,7 @@ LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thedotmack-claude-mem]] [[shiyu-coder-kronos]] [[mattpocock-skills]]
+[[d4vinci-scrapling]] [[p-e-w-heretic]] [[mattpocock-skills]] [[usagi-org-ai-goofish-monitor]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[ai-agent]]
 

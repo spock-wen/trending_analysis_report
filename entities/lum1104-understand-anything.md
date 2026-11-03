@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thu-maic-openmaic]] [[max-sixty-worktrunk]] [[donchitos-claude-code-game-studios]]
+[[patchy631-ai-engineering-hub]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]] [[xiaolai-the-craft-of-selfteaching]] [[vercel-labs-agent-desktop]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[paperclipai-paperclip]] [[affaan-m-ecc]] [[max-sixty-worktrunk]]
+[[hugohe3-ppt-master]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]] [[agricidaniel-claude-seo]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[hmjz100-linkswift]] [[thedotmack-claude-mem]]
+[[hmjz100-linkswift]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[k-dense-ai-scientific-agent-skills]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

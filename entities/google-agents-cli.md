@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[paperclipai-paperclip]] [[bregman-arie-devops-exercises]]
+[[bregman-arie-devops-exercises]] [[max-sixty-worktrunk]] [[ruvnet-ruview]] [[d4vinci-scrapling]] [[vercel-labs-agent-desktop]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

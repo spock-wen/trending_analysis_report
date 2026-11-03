@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[shiyu-coder-kronos]] [[tauricresearch-tradingagents]]
+[[d4vinci-scrapling]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[paperclipai-paperclip]] [[p-e-w-heretic]]
 
 **所属领域**: [[science]]
 

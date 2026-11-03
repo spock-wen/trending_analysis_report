@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[max-sixty-worktrunk]]
+[[bregman-arie-devops-exercises]] [[anomalyco-hex]] [[d4vinci-scrapling]] [[cjpais-handy]] [[vercel-labs-agent-desktop]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

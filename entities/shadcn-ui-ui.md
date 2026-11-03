@@ -34,5 +34,5 @@ A set of beautifully-designed, accessible components and a code distribution pla
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[paperclipai-paperclip]] [[renhuai123-ziwei-doushu]] [[thedotmack-claude-mem]]
+[[paperclipai-paperclip]] [[spotify-portal-ai-plugins]] [[pingdotgg-t3code]] [[thedotmack-claude-mem]]
 

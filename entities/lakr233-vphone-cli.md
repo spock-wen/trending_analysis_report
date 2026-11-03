@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[max-sixty-worktrunk]] [[xtool-org-xtool]] [[vorssaint-vorssaint-utils]] [[donchitos-claude-code-game-studios]]
+[[manaflow-ai-cmux]] [[vercel-labs-agent-desktop]] [[abue-ammar-tinycast]] [[xtool-org-xtool]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[cli]]
 

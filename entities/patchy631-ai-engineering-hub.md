@@ -34,7 +34,7 @@ In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thu-maic-openmaic]] [[higgsfield-ai-higgsfield]] [[xiaolai-the-craft-of-selfteaching]]
+[[xiaolai-the-craft-of-selfteaching]] [[d4vinci-scrapling]] [[fastapi-fastapi]] [[higgsfield-ai-higgsfield]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

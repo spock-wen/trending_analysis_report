@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[affaan-m-ecc]]
+[[bregman-arie-devops-exercises]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

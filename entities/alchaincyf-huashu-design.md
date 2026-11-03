@@ -34,7 +34,7 @@ Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网�
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[hkuds-deeptutor]] [[averygan-reclip]]
+[[hkuds-deeptutor]] [[d4vinci-scrapling]] [[copilotkit-openbot]] [[ripienaar-free-for-dev]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

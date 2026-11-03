@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[cloudflare-security-audit-skill]] [[shiyu-coder-kronos]]
+[[d4vinci-scrapling]] [[beenuar-aisoc]] [[affaan-m-ecc]] [[nvidia-skillspector]] [[p-e-w-heretic]]
 
 **所属领域**: [[security]]
 

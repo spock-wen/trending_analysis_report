@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[ruvnet-ruview]] [[pingdotgg-t3code]] [[ruvnet-ruflo]]
+[[bregman-arie-devops-exercises]] [[ruvnet-ruview]] [[spotify-portal-ai-plugins]] [[usagi-org-ai-goofish-monitor]] [[paperclipai-paperclip]]
 
 **所属领域**: [[devops]]
 

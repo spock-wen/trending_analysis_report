@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thu-maic-openmaic]] [[affaan-m-ecc]] [[patchy631-ai-engineering-hub]]
+[[patchy631-ai-engineering-hub]] [[d4vinci-scrapling]] [[xiaolai-the-craft-of-selfteaching]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[education]] [[science]]
 

@@ -36,7 +36,7 @@ Web UI for the pi coding agent
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[hkuds-deeptutor]] [[pingdotgg-t3code]]
+[[hkuds-deeptutor]] [[d4vinci-scrapling]] [[copilotkit-openbot]] [[spotify-portal-ai-plugins]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

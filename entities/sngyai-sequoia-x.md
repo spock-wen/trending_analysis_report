@@ -34,7 +34,7 @@ A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运�
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thedotmack-claude-mem]] [[shiyu-coder-kronos]] [[mattpocock-skills]]
+[[d4vinci-scrapling]] [[p-e-w-heretic]] [[mattpocock-skills]] [[usagi-org-ai-goofish-monitor]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[ai-agent]]
 

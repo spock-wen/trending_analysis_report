@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[higgsfield-ai-higgsfield]]
+[[patchy631-ai-engineering-hub]] [[flashml-org-freetoken]] [[xiaolai-the-craft-of-selfteaching]] [[d4vinci-scrapling]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

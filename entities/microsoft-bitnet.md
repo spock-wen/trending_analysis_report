@@ -36,7 +36,7 @@ Official inference framework for 1-bit LLMs
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[boykopovar-anyps5]] [[d4vinci-scrapling]] [[tensorflow-tensorflow]] [[thedotmack-claude-mem]]
+[[d4vinci-scrapling]] [[tensorflow-tensorflow]] [[boykopovar-anyps5]] [[hyprwm-hyprland]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

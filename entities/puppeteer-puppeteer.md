@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[d4vinci-scrapling]] [[hkuds-deeptutor]] [[pingdotgg-t3code]] [[thedotmack-claude-mem]]
+[[hkuds-deeptutor]] [[d4vinci-scrapling]] [[copilotkit-openbot]] [[spotify-portal-ai-plugins]] [[lightpanda-io-browser]]
 
 **所属领域**: [[web]]
 

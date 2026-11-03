@@ -38,7 +38,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[google-guava]]
+[[d4vinci-scrapling]] [[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]] [[floci-io-floci]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

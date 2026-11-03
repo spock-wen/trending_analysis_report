@@ -35,7 +35,7 @@ Stremio - Freedom to Stream
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[d4vinci-scrapling]] [[hkuds-deeptutor]] [[hmjz100-linkswift]] [[cloudflare-security-audit-skill]]
+[[hmjz100-linkswift]] [[hkuds-deeptutor]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[orkas-ai-orkas]]
 
 **所属领域**: [[web]]
 

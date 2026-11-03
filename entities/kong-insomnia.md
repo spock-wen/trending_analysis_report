@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[hkuds-deeptutor]] [[donchitos-claude-code-game-studios]]
+[[hkuds-deeptutor]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]] [[copilotkit-openbot]] [[spotify-portal-ai-plugins]]
 
 **所属领域**: [[web]] [[cli]]
 

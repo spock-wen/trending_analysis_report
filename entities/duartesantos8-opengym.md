@@ -36,7 +36,7 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[affaan-m-ecc]]
+[[hmjz100-linkswift]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[orkas-ai-orkas]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

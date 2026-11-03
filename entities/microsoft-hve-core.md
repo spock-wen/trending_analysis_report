@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[zhaoxuya520-reverse-skill]] [[donchitos-claude-code-game-studios]]
+[[zhaoxuya520-reverse-skill]] [[raphire-win11debloat]] [[d4vinci-scrapling]] [[vercel-labs-agent-desktop]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

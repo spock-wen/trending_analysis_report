@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[hkuds-deeptutor]]
+[[hkuds-deeptutor]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]] [[copilotkit-openbot]] [[spotify-portal-ai-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

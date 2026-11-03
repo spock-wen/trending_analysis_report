@@ -35,5 +35,5 @@ Experimental menu for GTA 5: Enhanced
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[boykopovar-anyps5]] [[microsoft-bitnet]] [[hyprwm-hyprland]]
+[[microsoft-bitnet]] [[tensorflow-tensorflow]] [[boykopovar-anyps5]] [[hyprwm-hyprland]]
 

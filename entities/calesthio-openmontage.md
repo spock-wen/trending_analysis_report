@@ -38,7 +38,7 @@ World's first open-source, agentic video production system. 12 production pipeli
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[thedotmack-claude-mem]]
+[[bregman-arie-devops-exercises]] [[d4vinci-scrapling]] [[nvidia-skillspector]] [[kornia-kornia]] [[p-e-w-heretic]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

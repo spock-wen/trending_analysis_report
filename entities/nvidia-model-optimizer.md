@@ -36,7 +36,7 @@ A unified library of SOTA model optimization techniques like quantization, disti
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[thu-maic-openmaic]]
+[[patchy631-ai-engineering-hub]] [[bregman-arie-devops-exercises]] [[ruvnet-ruview]] [[d4vinci-scrapling]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

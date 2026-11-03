@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[paperclipai-paperclip]] [[max-sixty-worktrunk]]
+[[hkuds-deeptutor]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]] [[copilotkit-openbot]] [[vercel-labs-agent-desktop]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

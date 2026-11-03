@@ -35,7 +35,7 @@ FreeToken brings datacenter-scale model serving to your desktop. Run massive mod
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[shiyu-coder-kronos]]
+[[bregman-arie-devops-exercises]] [[d4vinci-scrapling]] [[nvidia-skillspector]] [[kornia-kornia]] [[p-e-w-heretic]]
 
 **所属领域**: [[data]]
 

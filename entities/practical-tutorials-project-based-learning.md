@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]]
+[[patchy631-ai-engineering-hub]] [[d4vinci-scrapling]] [[xiaolai-the-craft-of-selfteaching]] [[fastapi-fastapi]] [[p-e-w-heretic]]
 
 **所属领域**: [[education]]
 

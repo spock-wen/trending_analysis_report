@@ -38,7 +38,7 @@ Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[paperclipai-paperclip]] [[bregman-arie-devops-exercises]]
+[[bregman-arie-devops-exercises]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]] [[vercel-labs-agent-desktop]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

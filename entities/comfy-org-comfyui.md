@@ -38,7 +38,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[openbmb-voxcpm]] [[shiyu-coder-kronos]]
+[[openbmb-voxcpm]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[p-e-w-heretic]] [[usagi-org-ai-goofish-monitor]]
 
 **所属领域**: [[image-gen]]
 

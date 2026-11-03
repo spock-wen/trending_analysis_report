@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[thu-maic-openmaic]] [[hkuds-deeptutor]]
+[[patchy631-ai-engineering-hub]] [[hkuds-deeptutor]] [[d4vinci-scrapling]] [[xiaolai-the-craft-of-selfteaching]] [[copilotkit-openbot]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

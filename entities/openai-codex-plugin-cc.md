@@ -38,7 +38,7 @@ Use Codex from Claude Code to review code or delegate tasks.
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[hmjz100-linkswift]] [[thedotmack-claude-mem]]
+[[hmjz100-linkswift]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[orkas-ai-orkas]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

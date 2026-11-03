@@ -38,7 +38,7 @@ claude-red is a curated library of offensive security skills designed for the Cl
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[paperclipai-paperclip]] [[bregman-arie-devops-exercises]]
+[[bregman-arie-devops-exercises]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[security]]
 

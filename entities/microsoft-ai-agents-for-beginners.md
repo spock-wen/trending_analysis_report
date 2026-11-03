@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thu-maic-openmaic]] [[higgsfield-ai-higgsfield]] [[patchy631-ai-engineering-hub]]
+[[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[d4vinci-scrapling]] [[fastapi-fastapi]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

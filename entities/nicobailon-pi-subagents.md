@@ -34,7 +34,7 @@ Pi extension for async subagent delegation with truncation, artifacts, and sessi
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]]
+[[d4vinci-scrapling]] [[spotify-portal-ai-plugins]] [[mattpocock-skills]] [[p-e-w-heretic]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[paperclipai-paperclip]] [[max-sixty-worktrunk]]
+[[max-sixty-worktrunk]] [[openbmb-voxcpm]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[vercel-labs-agent-desktop]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[image-gen]]
 

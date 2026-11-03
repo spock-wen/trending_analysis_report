@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[hkuds-deeptutor]] [[donchitos-claude-code-game-studios]]
+[[hkuds-deeptutor]] [[anomalyco-hex]] [[d4vinci-scrapling]] [[cjpais-handy]] [[vercel-labs-agent-desktop]]
 
 **所属领域**: [[web]] [[cli]]
 

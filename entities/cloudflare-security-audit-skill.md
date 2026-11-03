@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[hmjz100-linkswift]]
+[[hmjz100-linkswift]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[affaan-m-ecc]] [[orkas-ai-orkas]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

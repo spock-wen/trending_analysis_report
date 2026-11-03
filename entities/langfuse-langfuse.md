@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[coollabsio-coolify]]
+[[bregman-arie-devops-exercises]] [[ruvnet-ruview]] [[d4vinci-scrapling]] [[coollabsio-coolify]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

@@ -34,7 +34,7 @@ Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or C
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[boykopovar-anyps5]] [[d4vinci-scrapling]] [[tensorflow-tensorflow]] [[hyprwm-hyprland]]
+[[d4vinci-scrapling]] [[microsoft-bitnet]] [[tensorflow-tensorflow]] [[boykopovar-anyps5]] [[hyprwm-hyprland]]
 
 **所属领域**: [[ai-agent]]
 

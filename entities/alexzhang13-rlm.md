@@ -34,5 +34,5 @@ General plug-and-play inference library for Recursive Language Models (RLMs), su
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[d4vinci-scrapling]] [[p-e-w-heretic]] [[karpathy-nanochat]]
+[[usagi-org-ai-goofish-monitor]] [[shiyu-coder-kronos]] [[p-e-w-heretic]] [[d4vinci-scrapling]]
 

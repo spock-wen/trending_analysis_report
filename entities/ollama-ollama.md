@@ -34,7 +34,7 @@ Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemm
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[thedotmack-claude-mem]]
+[[d4vinci-scrapling]] [[strelov1-freehire]] [[thedotmack-claude-mem]] [[vxcontrol-pentagi]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -38,5 +38,5 @@ No description
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[renhuai123-ziwei-doushu]] [[thedotmack-claude-mem]]
+[[paperclipai-paperclip]] [[spotify-portal-ai-plugins]] [[thedotmack-claude-mem]]
 

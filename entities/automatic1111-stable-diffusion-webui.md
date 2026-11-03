@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[coollabsio-coolify]] [[hkuds-deeptutor]]
+[[hkuds-deeptutor]] [[openbmb-voxcpm]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[copilotkit-openbot]]
 
 **所属领域**: [[web]] [[image-gen]]
 

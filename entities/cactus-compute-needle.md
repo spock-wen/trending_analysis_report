@@ -38,5 +38,5 @@ Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, struct
 
 ## 相关项目
 
-[[shiyu-coder-kronos]] [[d4vinci-scrapling]] [[p-e-w-heretic]] [[karpathy-nanochat]]
+[[usagi-org-ai-goofish-monitor]] [[shiyu-coder-kronos]] [[p-e-w-heretic]] [[d4vinci-scrapling]]
 

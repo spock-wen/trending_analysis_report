@@ -35,7 +35,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thu-maic-openmaic]] [[max-sixty-worktrunk]] [[donchitos-claude-code-game-studios]]
+[[patchy631-ai-engineering-hub]] [[d4vinci-scrapling]] [[xiaolai-the-craft-of-selfteaching]] [[vercel-labs-agent-desktop]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

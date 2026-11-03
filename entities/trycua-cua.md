@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[coollabsio-coolify]]
+[[bregman-arie-devops-exercises]] [[anomalyco-hex]] [[openbmb-voxcpm]] [[d4vinci-scrapling]] [[beenuar-aisoc]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

@@ -35,7 +35,7 @@ Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[d4vinci-scrapling]] [[vxcontrol-pentagi]] [[hkuds-deeptutor]] [[juliusbrussee-caveman]]
+[[hkuds-deeptutor]] [[d4vinci-scrapling]] [[strelov1-freehire]] [[copilotkit-openbot]] [[vxcontrol-pentagi]]
 
 **所属领域**: [[web]]
 

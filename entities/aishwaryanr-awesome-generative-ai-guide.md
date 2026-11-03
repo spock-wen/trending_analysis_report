@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[hkuds-deeptutor]]
+[[hkuds-deeptutor]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[alchaincyf-huashu-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

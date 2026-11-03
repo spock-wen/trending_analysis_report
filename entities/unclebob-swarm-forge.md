@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thedotmack-claude-mem]] [[penpot-penpot]] [[mattpocock-skills]]
+[[d4vinci-scrapling]] [[penpot-penpot]] [[p-e-w-heretic]] [[mattpocock-skills]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]]
 

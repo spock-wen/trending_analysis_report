@@ -34,7 +34,7 @@ Claude Code toolkit - agents, commands, skills, rules, and hooks for productive 
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[max-sixty-worktrunk]] [[donchitos-claude-code-game-studios]]
+[[hmjz100-linkswift]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[orkas-ai-orkas]] [[vercel-labs-agent-desktop]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

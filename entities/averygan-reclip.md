@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[hkuds-deeptutor]] [[donchitos-claude-code-game-studios]]
+[[hkuds-deeptutor]] [[d4vinci-scrapling]] [[alchaincyf-huashu-design]] [[copilotkit-openbot]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[web]] [[cli]]
 

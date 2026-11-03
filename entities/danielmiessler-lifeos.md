@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[donchitos-claude-code-game-studios]] [[pingdotgg-t3code]]
+[[max-sixty-worktrunk]] [[d4vinci-scrapling]] [[vercel-labs-agent-desktop]] [[spotify-portal-ai-plugins]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

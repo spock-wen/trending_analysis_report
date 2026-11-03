@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-04",
+  "scraped_at": "2026-11-04T07:00:39.178040",
+  "period": "daily",
+  "count": 13,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars_today": 1138,
+      "total_stars": 111829,
+      "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+      "rank": 2,
+      "repo": "vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "language": "Rust",
+      "stars_today": 3792,
+      "total_stars": 12586,
+      "url": "https://github.com/vercel-labs/agent-desktop"
+    },
+    {
+      "rank": 3,
+      "repo": "max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "stars_today": 437,
+      "total_stars": 10455,
+      "url": "https://github.com/max-sixty/worktrunk"
+    },
+    {
+      "rank": 4,
+      "repo": "JustVugg/colibri",
+      "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+      "language": "C",
+      "stars_today": 803,
+      "total_stars": 47215,
+      "url": "https://github.com/JustVugg/colibri"
+    },
+    {
+      "rank": 5,
+      "repo": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": 1164,
+      "total_stars": 311386,
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "rank": 6,
+      "repo": "p-e-w/heretic",
+      "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+      "language": "Python",
+      "stars_today": 699,
+      "total_stars": 38742,
+      "url": "https://github.com/p-e-w/heretic"
+    },
+    {
+      "rank": 7,
+      "repo": "spotify/portal-ai-plugins",
+      "description": "",
+      "language": "TypeScript",
+      "stars_today": 94,
+      "total_stars": 3022,
+      "url": "https://github.com/spotify/portal-ai-plugins"
+    },
+    {
+      "rank": 8,
+      "repo": "floci-io/floci",
+      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "language": "Java",
+      "stars_today": 679,
+      "total_stars": 28702,
+      "url": "https://github.com/floci-io/floci"
+    },
+    {
+      "rank": 9,
+      "repo": "Usagi-org/ai-goofish-monitor",
+      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "language": "Python",
+      "stars_today": 204,
+      "total_stars": 16331,
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor"
+    },
+    {
+      "rank": 10,
+      "repo": "anomalyco/hex",
+      "description": "Local voice dictation for mac, windows and linux",
+      "language": "Rust",
+      "stars_today": 410,
+      "total_stars": 4542,
+      "url": "https://github.com/anomalyco/hex"
+    },
+    {
+      "rank": 11,
+      "repo": "D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "language": "Python",
+      "stars_today": 1658,
+      "total_stars": 94705,
+      "url": "https://github.com/D4Vinci/Scrapling"
+    },
+    {
+      "rank": 12,
+      "repo": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars_today": 503,
+      "total_stars": 46490,
+      "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+      "rank": 13,
+      "repo": "Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "language": "Shell",
+      "stars_today": 1181,
+      "total_stars": 34610,
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
+    }
+  ]
+}

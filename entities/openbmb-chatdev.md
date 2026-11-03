@@ -34,7 +34,7 @@ ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thedotmack-claude-mem]] [[shiyu-coder-kronos]] [[mattpocock-skills]]
+[[d4vinci-scrapling]] [[p-e-w-heretic]] [[mattpocock-skills]] [[usagi-org-ai-goofish-monitor]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[ai-agent]]
 

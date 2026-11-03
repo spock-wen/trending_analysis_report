@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[dotnet-aspnetcore]] [[sonarr-sonarr]] [[ntdevlabs-tiny11builder]]
+[[k1tbyte-wand-enhancer]] [[d4vinci-scrapling]] [[dotnet-aspnetcore]] [[sonarr-sonarr]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

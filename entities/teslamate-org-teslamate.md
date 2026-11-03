@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[plausible-analytics]]
+[[d4vinci-scrapling]] [[nvidia-skillspector]] [[kornia-kornia]] [[agentjido-jido]] [[p-e-w-heretic]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

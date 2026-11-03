@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[orkas-ai-orkas]] [[affaan-m-ecc]] [[hmjz100-linkswift]]
+[[hmjz100-linkswift]] [[affaan-m-ecc]] [[orkas-ai-orkas]] [[cloudflare-security-audit-skill]]
 

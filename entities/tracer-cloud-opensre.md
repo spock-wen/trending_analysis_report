@@ -34,7 +34,7 @@ Build your own AI SRE agents. The open source toolkit for the AI era ✨
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thedotmack-claude-mem]] [[shiyu-coder-kronos]] [[mattpocock-skills]]
+[[d4vinci-scrapling]] [[p-e-w-heretic]] [[mattpocock-skills]] [[usagi-org-ai-goofish-monitor]] [[shiyu-coder-kronos]]
 
 **所属领域**: [[ai-agent]]
 

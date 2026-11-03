@@ -34,5 +34,5 @@ Free and Open Source, Distributed, RESTful Search Engine
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[yuliskov-smarttube]] [[google-guava]] [[nationalsecurityagency-ghidra]]
+[[yuliskov-smarttube]] [[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]] [[floci-io-floci]]
 

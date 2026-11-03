@@ -34,7 +34,7 @@ Free and open-source macOS menu bar toolkit.
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[manaflow-ai-cmux]] [[d4vinci-scrapling]] [[xtool-org-xtool]] [[thedotmack-claude-mem]]
+[[manaflow-ai-cmux]] [[d4vinci-scrapling]] [[abue-ammar-tinycast]] [[xtool-org-xtool]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

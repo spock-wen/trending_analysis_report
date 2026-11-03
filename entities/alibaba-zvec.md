@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[boykopovar-anyps5]] [[bregman-arie-devops-exercises]] [[tensorflow-tensorflow]] [[hyprwm-hyprland]]
+[[microsoft-bitnet]] [[tensorflow-tensorflow]] [[boykopovar-anyps5]] [[nvidia-skillspector]] [[hyprwm-hyprland]]
 
 **所属领域**: [[data]]
 

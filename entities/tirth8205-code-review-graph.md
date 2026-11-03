@@ -38,7 +38,7 @@ Local-first code intelligence graph for MCP and CLI. Builds a persistent map of 
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[paperclipai-paperclip]] [[max-sixty-worktrunk]] [[donchitos-claude-code-game-studios]]
+[[max-sixty-worktrunk]] [[d4vinci-scrapling]] [[vercel-labs-agent-desktop]] [[donchitos-claude-code-game-studios]] [[p-e-w-heretic]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[openbmb-voxcpm]] [[comfy-org-comfyui]]
+[[openbmb-voxcpm]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[comfy-org-comfyui]] [[p-e-w-heretic]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

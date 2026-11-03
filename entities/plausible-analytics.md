@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[nvidia-skillspector]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[hkuds-deeptutor]]
+[[hkuds-deeptutor]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[teslamate-org-teslamate]] [[affaan-m-ecc]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

@@ -34,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[affaan-m-ecc]] [[dotnet-aspnetcore]] [[sonarr-sonarr]] [[k1tbyte-wand-enhancer]]
+[[k1tbyte-wand-enhancer]] [[beenuar-aisoc]] [[affaan-m-ecc]] [[dotnet-aspnetcore]] [[nvidia-skillspector]]
 
 **所属领域**: [[security]]
 

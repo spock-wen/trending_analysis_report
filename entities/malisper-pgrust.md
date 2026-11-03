@@ -35,5 +35,5 @@ Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 
 ## 相关项目
 
-[[anomalyco-hex]] [[vercel-labs-agent-desktop]] [[cjpais-handy]] [[max-sixty-worktrunk]]
+[[cjpais-handy]] [[max-sixty-worktrunk]] [[anomalyco-hex]] [[vercel-labs-agent-desktop]]
 

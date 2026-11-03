@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[max-sixty-worktrunk]] [[openbmb-voxcpm]] [[donchitos-claude-code-game-studios]] [[vercel-labs-agent-desktop]]
+[[patchy631-ai-engineering-hub]] [[anomalyco-hex]] [[openbmb-voxcpm]] [[xiaolai-the-craft-of-selfteaching]] [[debpalash-voicestudio]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

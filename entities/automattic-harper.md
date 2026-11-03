@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[max-sixty-worktrunk]] [[vercel-labs-agent-desktop]] [[cjpais-handy]] [[anomalyco-hex]]
+[[anomalyco-hex]] [[beenuar-aisoc]] [[cjpais-handy]] [[affaan-m-ecc]] [[vercel-labs-agent-desktop]]
 
 **所属领域**: [[security]]
 

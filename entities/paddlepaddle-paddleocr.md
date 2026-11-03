@@ -37,7 +37,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[coollabsio-coolify]]
+[[bregman-arie-devops-exercises]] [[openbmb-voxcpm]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

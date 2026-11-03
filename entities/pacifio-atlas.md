@@ -35,7 +35,7 @@ Source control for agents. Use multiple coding agents, track their changes and q
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[vercel-labs-agent-desktop]] [[cjpais-handy]]
+[[anomalyco-hex]] [[d4vinci-scrapling]] [[cjpais-handy]] [[vercel-labs-agent-desktop]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

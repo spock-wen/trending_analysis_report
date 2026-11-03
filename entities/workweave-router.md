@@ -34,7 +34,7 @@ Model router for agentic systems. Routes every prompt to the right model in <50m
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[vxcontrol-pentagi]] [[juliusbrussee-caveman]] [[thedotmack-claude-mem]]
+[[d4vinci-scrapling]] [[strelov1-freehire]] [[thedotmack-claude-mem]] [[vxcontrol-pentagi]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

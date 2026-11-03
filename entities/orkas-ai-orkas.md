@@ -34,7 +34,7 @@ Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[max-sixty-worktrunk]] [[donchitos-claude-code-game-studios]]
+[[hmjz100-linkswift]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[vercel-labs-agent-desktop]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

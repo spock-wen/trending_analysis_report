@@ -36,7 +36,7 @@ AI turns documents or topics into real, native PowerPoint decks—with native sh
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[openbmb-voxcpm]]
+[[bregman-arie-devops-exercises]] [[anomalyco-hex]] [[openbmb-voxcpm]] [[d4vinci-scrapling]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[ai-agent]] [[data]] [[erp]] [[audio]]
 

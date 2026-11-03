@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[max-sixty-worktrunk]]
+[[bregman-arie-devops-exercises]] [[d4vinci-scrapling]] [[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]] [[floci-io-floci]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

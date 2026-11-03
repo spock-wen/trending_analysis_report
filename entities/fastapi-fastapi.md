@@ -34,7 +34,7 @@ FastAPI framework, high performance, easy to learn, fast to code, ready for prod
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]]
+[[patchy631-ai-engineering-hub]] [[d4vinci-scrapling]] [[xiaolai-the-craft-of-selfteaching]] [[p-e-w-heretic]] [[usagi-org-ai-goofish-monitor]]
 
 **所属领域**: [[education]]
 

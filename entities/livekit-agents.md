@@ -37,7 +37,7 @@ A framework for building realtime voice AI agents 🤖🎙️📹
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[openbmb-voxcpm]] [[cjpais-handy]] [[anomalyco-hex]]
+[[anomalyco-hex]] [[openbmb-voxcpm]] [[d4vinci-scrapling]] [[debpalash-voicestudio]] [[cjpais-handy]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

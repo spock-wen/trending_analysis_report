@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[manaflow-ai-cmux]] [[d4vinci-scrapling]] [[xtool-org-xtool]] [[vorssaint-vorssaint-utils]]
+[[manaflow-ai-cmux]] [[d4vinci-scrapling]] [[abue-ammar-tinycast]] [[xtool-org-xtool]] [[vorssaint-vorssaint-utils]]
 
 **所属领域**: [[ai-agent]]
 

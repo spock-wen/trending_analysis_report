@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[hkuds-deeptutor]] [[openbmb-voxcpm]]
+[[hkuds-deeptutor]] [[anomalyco-hex]] [[openbmb-voxcpm]] [[d4vinci-scrapling]] [[debpalash-voicestudio]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

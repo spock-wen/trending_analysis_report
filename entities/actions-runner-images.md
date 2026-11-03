@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[max-sixty-worktrunk]] [[openbmb-voxcpm]] [[zhaoxuya520-reverse-skill]] [[donchitos-claude-code-game-studios]]
+[[zhaoxuya520-reverse-skill]] [[raphire-win11debloat]] [[openbmb-voxcpm]] [[beenuar-aisoc]] [[vercel-labs-agent-desktop]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

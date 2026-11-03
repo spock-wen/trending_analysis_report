@@ -37,5 +37,5 @@ A hive mind communication platform
 
 ## 相关项目
 
-[[anomalyco-hex]] [[vercel-labs-agent-desktop]] [[cjpais-handy]] [[max-sixty-worktrunk]]
+[[cjpais-handy]] [[max-sixty-worktrunk]] [[anomalyco-hex]] [[vercel-labs-agent-desktop]]
 

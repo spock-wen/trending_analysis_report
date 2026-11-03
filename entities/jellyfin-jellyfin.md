@@ -35,5 +35,5 @@ The Free Software Media System - Server Backend & API
 
 ## 相关项目
 
-[[k1tbyte-wand-enhancer]] [[sonarr-sonarr]] [[ntdevlabs-tiny11builder]] [[dotnet-aspnetcore]]
+[[sonarr-sonarr]] [[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]] [[ntdevlabs-tiny11builder]]
 

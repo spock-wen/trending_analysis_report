@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[bregman-arie-devops-exercises]] [[thu-maic-openmaic]] [[hmjz100-linkswift]] [[patchy631-ai-engineering-hub]]
+[[patchy631-ai-engineering-hub]] [[hmjz100-linkswift]] [[xiaolai-the-craft-of-selfteaching]] [[affaan-m-ecc]] [[orkas-ai-orkas]]
 
 **所属领域**: [[data]] [[education]]
 

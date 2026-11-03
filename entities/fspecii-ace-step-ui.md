@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[openbmb-voxcpm]]
+[[hmjz100-linkswift]] [[anomalyco-hex]] [[openbmb-voxcpm]] [[d4vinci-scrapling]] [[beenuar-aisoc]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

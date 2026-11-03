@@ -36,7 +36,7 @@ Visualize your year in travel using your Google Location History (Timeline) data
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[bregman-arie-devops-exercises]] [[bannedbook-fanqiang]] [[kornia-kornia]] [[embabel-embabel-agent]]
+[[embabel-embabel-agent]] [[nvidia-skillspector]] [[bannedbook-fanqiang]] [[kornia-kornia]] [[bregman-arie-devops-exercises]]
 
 **所属领域**: [[data]]
 

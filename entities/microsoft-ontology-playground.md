@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[d4vinci-scrapling]] [[thu-maic-openmaic]] [[hkuds-deeptutor]] [[pingdotgg-t3code]]
+[[patchy631-ai-engineering-hub]] [[hkuds-deeptutor]] [[d4vinci-scrapling]] [[xiaolai-the-craft-of-selfteaching]] [[copilotkit-openbot]]
 
 **所属领域**: [[web]] [[education]]
 

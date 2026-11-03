@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[hkuds-deeptutor]] [[thedotmack-claude-mem]]
+[[hkuds-deeptutor]] [[d4vinci-scrapling]] [[copilotkit-openbot]] [[p-e-w-heretic]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[paperclipai-paperclip]] [[affaan-m-ecc]]
+[[max-sixty-worktrunk]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[affaan-m-ecc]] [[vercel-labs-agent-desktop]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

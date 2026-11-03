@@ -38,7 +38,7 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[hkuds-deeptutor]]
+[[hmjz100-linkswift]] [[hkuds-deeptutor]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[orkas-ai-orkas]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

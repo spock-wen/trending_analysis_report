@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[hkuds-deeptutor]]
+[[hkuds-deeptutor]] [[expo-skills]] [[d4vinci-scrapling]] [[copilotkit-openbot]] [[vercel-labs-agent-desktop]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

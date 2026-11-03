@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[d4vinci-scrapling]] [[thu-maic-openmaic]] [[hkuds-deeptutor]] [[patchy631-ai-engineering-hub]]
+[[patchy631-ai-engineering-hub]] [[hkuds-deeptutor]] [[thu-maic-openmaic]] [[d4vinci-scrapling]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[web]] [[education]]
 

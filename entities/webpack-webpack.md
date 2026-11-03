@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[coollabsio-coolify]] [[d4vinci-scrapling]] [[hkuds-deeptutor]] [[openbmb-voxcpm]]
+[[hmjz100-linkswift]] [[hkuds-deeptutor]] [[openbmb-voxcpm]] [[d4vinci-scrapling]] [[beenuar-aisoc]]
 
 **所属领域**: [[web]] [[image-gen]]
 

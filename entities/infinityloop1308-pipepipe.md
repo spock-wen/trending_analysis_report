@@ -34,7 +34,7 @@ An open-source Android app to let you browse YouTube and other services freely.
 
 ## 相关项目
 
-[[max-sixty-worktrunk]] [[donchitos-claude-code-game-studios]] [[obra-superpowers]] [[mattpocock-skills]] [[expo-skills]]
+[[expo-skills]] [[vercel-labs-agent-desktop]] [[donchitos-claude-code-game-studios]] [[mattpocock-skills]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[cli]]
 

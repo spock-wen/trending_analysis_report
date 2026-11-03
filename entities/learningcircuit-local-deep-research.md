@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[thu-maic-openmaic]] [[affaan-m-ecc]]
+[[patchy631-ai-engineering-hub]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[xiaolai-the-craft-of-selfteaching]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

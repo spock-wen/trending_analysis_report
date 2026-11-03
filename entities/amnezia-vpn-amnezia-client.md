@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[boykopovar-anyps5]] [[affaan-m-ecc]] [[max-sixty-worktrunk]] [[tensorflow-tensorflow]]
+[[beenuar-aisoc]] [[microsoft-bitnet]] [[affaan-m-ecc]] [[tensorflow-tensorflow]] [[boykopovar-anyps5]]
 
 **所属领域**: [[cli]] [[security]]
 

@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[bregman-arie-devops-exercises]] [[max-sixty-worktrunk]] [[vercel-labs-agent-desktop]] [[cjpais-handy]]
+[[bregman-arie-devops-exercises]] [[anomalyco-hex]] [[cjpais-handy]] [[vercel-labs-agent-desktop]] [[nvidia-skillspector]]
 
 **所属领域**: [[data]]
 

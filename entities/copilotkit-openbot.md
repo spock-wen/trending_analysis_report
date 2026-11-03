@@ -36,7 +36,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[hkuds-deeptutor]] [[pingdotgg-t3code]]
+[[hkuds-deeptutor]] [[d4vinci-scrapling]] [[spotify-portal-ai-plugins]] [[mattpocock-skills]] [[p-e-w-heretic]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

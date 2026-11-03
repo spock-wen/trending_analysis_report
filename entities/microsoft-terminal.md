@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[max-sixty-worktrunk]] [[tensorflow-tensorflow]] [[donchitos-claude-code-game-studios]] [[hyprwm-hyprland]]
+[[microsoft-bitnet]] [[tensorflow-tensorflow]] [[boykopovar-anyps5]] [[vercel-labs-agent-desktop]] [[hyprwm-hyprland]]
 
 **所属领域**: [[cli]]
 

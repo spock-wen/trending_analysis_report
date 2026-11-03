@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[max-sixty-worktrunk]] [[vercel-labs-agent-desktop]] [[cjpais-handy]]
+[[bregman-arie-devops-exercises]] [[anomalyco-hex]] [[cjpais-handy]] [[vercel-labs-agent-desktop]] [[usagi-org-ai-goofish-monitor]]
 
 **所属领域**: [[devops]]
 

@@ -38,7 +38,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[donchitos-claude-code-game-studios]] [[pingdotgg-t3code]]
+[[patchy631-ai-engineering-hub]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]] [[xiaolai-the-craft-of-selfteaching]] [[vercel-labs-agent-desktop]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

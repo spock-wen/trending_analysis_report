@@ -34,7 +34,7 @@ AI that sees your screen, listens to your conversations and tells you what to do
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[localsend-localsend]] [[thedotmack-claude-mem]] [[flutter-skills]]
+[[localsend-localsend]] [[flutter-flutter]] [[d4vinci-scrapling]] [[mattpocock-skills]] [[p-e-w-heretic]]
 
 **所属领域**: [[ai-agent]]
 

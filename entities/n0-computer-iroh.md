@@ -37,5 +37,5 @@ IP addresses break, dial keys instead. Modular networking stack in Rust.
 
 ## 相关项目
 
-[[anomalyco-hex]] [[vercel-labs-agent-desktop]] [[cjpais-handy]] [[max-sixty-worktrunk]]
+[[cjpais-handy]] [[max-sixty-worktrunk]] [[anomalyco-hex]] [[vercel-labs-agent-desktop]]
 

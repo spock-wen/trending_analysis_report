@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[coollabsio-coolify]] [[bregman-arie-devops-exercises]] [[ruvnet-ruview]] [[pingdotgg-t3code]]
+[[bregman-arie-devops-exercises]] [[ruvnet-ruview]] [[coollabsio-coolify]] [[nvidia-skillspector]] [[spotify-portal-ai-plugins]]
 
 **所属领域**: [[data]] [[devops]]
 

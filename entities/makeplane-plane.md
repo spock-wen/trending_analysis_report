@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[max-sixty-worktrunk]] [[donchitos-claude-code-game-studios]] [[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[renhuai123-ziwei-doushu]]
+[[max-sixty-worktrunk]] [[vercel-labs-agent-desktop]] [[spotify-portal-ai-plugins]] [[donchitos-claude-code-game-studios]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

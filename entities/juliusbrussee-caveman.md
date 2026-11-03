@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[vxcontrol-pentagi]] [[thedotmack-claude-mem]] [[alibaba-open-code-review]]
+[[d4vinci-scrapling]] [[strelov1-freehire]] [[vxcontrol-pentagi]] [[mattpocock-skills]] [[p-e-w-heretic]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[donchitos-claude-code-game-studios]] [[obra-superpowers]]
+[[expo-skills]] [[d4vinci-scrapling]] [[vercel-labs-agent-desktop]] [[donchitos-claude-code-game-studios]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

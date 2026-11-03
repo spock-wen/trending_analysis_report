@@ -34,5 +34,5 @@ A high-performance algorithmic trading platform and event-driven backtester
 
 ## 相关项目
 
-[[anomalyco-hex]] [[vercel-labs-agent-desktop]] [[cjpais-handy]] [[max-sixty-worktrunk]]
+[[cjpais-handy]] [[max-sixty-worktrunk]] [[anomalyco-hex]] [[vercel-labs-agent-desktop]]
 

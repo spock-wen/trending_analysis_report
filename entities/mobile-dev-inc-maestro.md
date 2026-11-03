@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[mahlernim-google-timeline-visualizer]] [[hkuds-deeptutor]]
+[[hkuds-deeptutor]] [[embabel-embabel-agent]] [[d4vinci-scrapling]] [[copilotkit-openbot]] [[bannedbook-fanqiang]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

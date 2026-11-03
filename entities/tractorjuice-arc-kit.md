@@ -34,7 +34,7 @@ Enterprise Architecture Governance & Vendor Procurement Toolkit
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[d4vinci-scrapling]] [[hkuds-deeptutor]] [[hugohe3-ppt-master]] [[obra-superpowers]]
+[[hkuds-deeptutor]] [[hugohe3-ppt-master]] [[d4vinci-scrapling]] [[agricidaniel-claude-seo]] [[alchaincyf-huashu-design]]
 
 **所属领域**: [[web]] [[erp]]
 

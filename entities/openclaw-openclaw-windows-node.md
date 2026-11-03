@@ -35,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[max-sixty-worktrunk]] [[dotnet-aspnetcore]] [[sonarr-sonarr]] [[donchitos-claude-code-game-studios]] [[ntdevlabs-tiny11builder]]
+[[k1tbyte-wand-enhancer]] [[dotnet-aspnetcore]] [[vercel-labs-agent-desktop]] [[donchitos-claude-code-game-studios]] [[sonarr-sonarr]]
 
 **所属领域**: [[cli]]
 

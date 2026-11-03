@@ -34,7 +34,7 @@ AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[p-e-w-heretic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[pingdotgg-t3code]]
+[[bregman-arie-devops-exercises]] [[d4vinci-scrapling]] [[nvidia-skillspector]] [[spotify-portal-ai-plugins]] [[kornia-kornia]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[pingdotgg-t3code]] [[thedotmack-claude-mem]]
+[[d4vinci-scrapling]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[spotify-portal-ai-plugins]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

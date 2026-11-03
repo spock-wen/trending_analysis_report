@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[p-e-w-heretic]] [[d4vinci-scrapling]] [[max-sixty-worktrunk]] [[hugohe3-ppt-master]] [[vercel-labs-agent-desktop]]
+[[hugohe3-ppt-master]] [[anomalyco-hex]] [[d4vinci-scrapling]] [[agricidaniel-claude-seo]] [[cjpais-handy]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

@@ -38,7 +38,7 @@ Claude Agent SDK with a web browsing tool
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[hkuds-deeptutor]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[orkas-ai-orkas]]
+[[hkuds-deeptutor]] [[cloudflare-security-audit-skill]] [[garrytan-gstack]] [[d4vinci-scrapling]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

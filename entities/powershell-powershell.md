@@ -34,7 +34,7 @@ PowerShell for every system!
 
 ## 相关项目
 
-[[k1tbyte-wand-enhancer]] [[dotnet-aspnetcore]] [[vercel-labs-agent-desktop]] [[donchitos-claude-code-game-studios]] [[sonarr-sonarr]]
+[[jiafeimiao-k-cat-discimagestudio]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[ntdevlabs-tiny11builder]] [[sonarr-sonarr]]
 
 **所属领域**: [[cli]]
 

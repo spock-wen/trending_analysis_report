@@ -37,7 +37,7 @@ Deepseek to API: A lightweight, high-performance full-stack middleware convertin
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[strelov1-freehire]] [[thedotmack-claude-mem]] [[vercel-labs-agent-desktop]] [[donchitos-claude-code-game-studios]]
+[[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

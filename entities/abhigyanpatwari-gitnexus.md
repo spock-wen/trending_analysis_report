@@ -35,7 +35,7 @@ GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]] [[copilotkit-openbot]] [[spotify-portal-ai-plugins]]
+[[hkuds-deeptutor]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[pingdotgg-t3code]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

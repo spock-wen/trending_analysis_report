@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[d4vinci-scrapling]] [[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]] [[floci-io-floci]]
+[[kornia-kornia]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[floci-io-floci]] [[checkstyle-checkstyle]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

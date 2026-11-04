@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[k1tbyte-wand-enhancer]] [[d4vinci-scrapling]] [[dotnet-aspnetcore]] [[sonarr-sonarr]] [[mattpocock-skills]]
+[[jiafeimiao-k-cat-discimagestudio]] [[garrytan-gstack]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]]
 

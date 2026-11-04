@@ -34,7 +34,7 @@ In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[d4vinci-scrapling]] [[fastapi-fastapi]] [[higgsfield-ai-higgsfield]] [[mattpocock-skills]]
+[[lyogavin-airllm]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

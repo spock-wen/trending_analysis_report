@@ -36,7 +36,7 @@ OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[d4vinci-scrapling]] [[copilotkit-openbot]] [[p-e-w-heretic]] [[mattpocock-skills]]
+[[hkuds-deeptutor]] [[garrytan-gstack]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

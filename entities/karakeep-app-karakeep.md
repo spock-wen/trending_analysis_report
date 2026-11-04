@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[spotify-portal-ai-plugins]] [[comfy-org-comfyui]]
+[[jiafeimiao-k-cat-discimagestudio]] [[garrytan-gstack]] [[pingdotgg-t3code]] [[beenuar-aisoc]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

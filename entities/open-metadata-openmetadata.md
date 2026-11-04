@@ -34,7 +34,7 @@ OpenMetadata is a unified metadata platform for data discovery, data observabili
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[ruvnet-ruview]] [[coollabsio-coolify]] [[nvidia-skillspector]] [[spotify-portal-ai-plugins]]
+[[kornia-kornia]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[pingdotgg-t3code]] [[bregman-arie-devops-exercises]]
 
 **所属领域**: [[data]] [[devops]]
 

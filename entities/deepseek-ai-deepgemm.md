@@ -35,7 +35,7 @@ DeepGEMM: clean and efficient BLAS kernel library on GPU
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[moonshotai-flashkda]] [[deepseek-ai-deepep]] [[p-e-w-heretic]] [[mattpocock-skills]]
+[[garrytan-gstack]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[deepseek-ai-deepep]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[cs341-illinois-coursebook]] [[p-e-w-heretic]] [[mattpocock-skills]] [[thedotmack-claude-mem]]
+[[garrytan-gstack]] [[cs341-illinois-coursebook]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]]
 

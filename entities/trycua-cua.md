@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[anomalyco-hex]] [[openbmb-voxcpm]] [[d4vinci-scrapling]] [[beenuar-aisoc]]
+[[kornia-kornia]] [[jiafeimiao-k-cat-discimagestudio]] [[garrytan-gstack]] [[beenuar-aisoc]] [[bregman-arie-devops-exercises]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

@@ -34,7 +34,7 @@ Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translatio
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[beenuar-aisoc]] [[spotify-portal-ai-plugins]] [[comfy-org-comfyui]] [[paperclipai-paperclip]]
+[[jiafeimiao-k-cat-discimagestudio]] [[garrytan-gstack]] [[pingdotgg-t3code]] [[beenuar-aisoc]] [[spotify-portal-ai-plugins]]
 
 **所属领域**: [[image-gen]]
 

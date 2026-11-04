@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[anomalyco-hex]] [[d4vinci-scrapling]] [[cjpais-handy]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]]
+[[k-dense-ai-scientific-agent-skills]] [[garrytan-gstack]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]]
+[[k-dense-ai-scientific-agent-skills]] [[jiafeimiao-k-cat-discimagestudio]] [[garrytan-gstack]] [[d4vinci-scrapling]] [[beenuar-aisoc]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[anomalyco-hex]] [[d4vinci-scrapling]] [[cjpais-handy]] [[vercel-labs-agent-desktop]]
+[[kornia-kornia]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[bregman-arie-devops-exercises]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

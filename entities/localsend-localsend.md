@@ -35,7 +35,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[flutter-flutter]] [[d4vinci-scrapling]] [[mattpocock-skills]] [[p-e-w-heretic]] [[flutter-skills]]
+[[garrytan-gstack]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[flutter-skills]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]]
 

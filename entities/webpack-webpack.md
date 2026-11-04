@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[hkuds-deeptutor]] [[openbmb-voxcpm]] [[d4vinci-scrapling]] [[beenuar-aisoc]]
+[[hkuds-deeptutor]] [[cloudflare-security-audit-skill]] [[jiafeimiao-k-cat-discimagestudio]] [[d4vinci-scrapling]] [[beenuar-aisoc]]
 
 **所属领域**: [[web]] [[image-gen]]
 

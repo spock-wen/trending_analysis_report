@@ -34,7 +34,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[anomalyco-hex]] [[openbmb-voxcpm]] [[d4vinci-scrapling]] [[debpalash-voicestudio]] [[cjpais-handy]]
+[[garrytan-gstack]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[github-spec-kit]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

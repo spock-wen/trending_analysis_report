@@ -36,7 +36,7 @@ Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[max-sixty-worktrunk]] [[ruvnet-ruview]] [[d4vinci-scrapling]] [[vercel-labs-agent-desktop]]
+[[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[pingdotgg-t3code]] [[bregman-arie-devops-exercises]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

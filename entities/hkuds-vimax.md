@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[openbmb-voxcpm]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[comfy-org-comfyui]] [[p-e-w-heretic]]
+[[jiafeimiao-k-cat-discimagestudio]] [[garrytan-gstack]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

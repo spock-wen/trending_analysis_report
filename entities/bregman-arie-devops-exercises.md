@@ -34,7 +34,7 @@ Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, 
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[d4vinci-scrapling]] [[nvidia-skillspector]] [[kornia-kornia]] [[p-e-w-heretic]]
+[[kornia-kornia]] [[michaelcade-90daysofdevops]] [[d4vinci-scrapling]] [[ruvnet-ruview]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[data]] [[devops]]
 

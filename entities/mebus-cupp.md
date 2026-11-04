@@ -35,5 +35,5 @@ Common User Passwords Profiler (CUPP)
 
 ## 相关项目
 
-[[usagi-org-ai-goofish-monitor]] [[shiyu-coder-kronos]] [[p-e-w-heretic]] [[d4vinci-scrapling]]
+[[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[nvidia-auto-ontology]] [[github-spec-kit]]
 

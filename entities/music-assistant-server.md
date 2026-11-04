@@ -38,7 +38,7 @@ Music Assistant is a free, opensource Media library manager that connects to you
 
 ## 相关项目
 
-[[anomalyco-hex]] [[openbmb-voxcpm]] [[d4vinci-scrapling]] [[debpalash-voicestudio]] [[cjpais-handy]]
+[[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[github-spec-kit]] [[debpalash-voicestudio]] [[anomalyco-hex]]
 
 **所属领域**: [[audio]]
 

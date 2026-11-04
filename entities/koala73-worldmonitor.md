@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[ruvnet-ruview]] [[d4vinci-scrapling]] [[spotify-portal-ai-plugins]] [[mattpocock-skills]]
+[[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[pingdotgg-t3code]] [[bregman-arie-devops-exercises]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

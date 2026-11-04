@@ -35,7 +35,7 @@ like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 ## 相关项目
 
-[[flashml-org-freetoken]] [[d4vinci-scrapling]] [[strelov1-freehire]] [[thedotmack-claude-mem]] [[nvidia-skillspector]]
+[[kornia-kornia]] [[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[garrytan-gstack]] [[bregman-arie-devops-exercises]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

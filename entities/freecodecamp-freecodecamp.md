@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[spotify-portal-ai-plugins]] [[fastapi-fastapi]] [[paperclipai-paperclip]]
+[[patchy631-ai-engineering-hub]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[pingdotgg-t3code]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[education]]
 

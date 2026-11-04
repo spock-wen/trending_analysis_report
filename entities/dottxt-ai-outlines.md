@@ -35,7 +35,7 @@ Structured Outputs
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[p-e-w-heretic]] [[mattpocock-skills]] [[usagi-org-ai-goofish-monitor]] [[shiyu-coder-kronos]]
+[[garrytan-gstack]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[github-spec-kit]]
 
 **所属领域**: [[ai-agent]]
 

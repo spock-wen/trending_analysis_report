@@ -38,7 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[orkas-ai-orkas]] [[vercel-labs-agent-desktop]]
+[[cloudflare-security-audit-skill]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -37,5 +37,5 @@ Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## 相关项目
 
-[[usagi-org-ai-goofish-monitor]] [[shiyu-coder-kronos]] [[p-e-w-heretic]] [[d4vinci-scrapling]]
+[[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[nvidia-auto-ontology]] [[github-spec-kit]]
 

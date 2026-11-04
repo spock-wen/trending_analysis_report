@@ -34,7 +34,7 @@ Agent-driven research knowledge base. Agents collect, search, and synthesize web
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[tauricresearch-tradingagents]]
+[[k-dense-ai-scientific-agent-skills]] [[hkuds-deeptutor]] [[garrytan-gstack]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

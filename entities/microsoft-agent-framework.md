@@ -34,7 +34,7 @@ A framework for building, orchestrating and deploying AI agents and multi-agent 
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[ruvnet-ruview]] [[d4vinci-scrapling]] [[p-e-w-heretic]] [[mattpocock-skills]]
+[[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -35,7 +35,7 @@ What are the principles we can use to build LLM-powered software that is actuall
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[spotify-portal-ai-plugins]] [[mattpocock-skills]] [[p-e-w-heretic]] [[paperclipai-paperclip]]
+[[garrytan-gstack]] [[pingdotgg-t3code]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[spotify-portal-ai-plugins]]
 
 **所属领域**: [[ai-agent]]
 

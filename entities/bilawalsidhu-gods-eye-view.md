@@ -38,7 +38,7 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[hkuds-deeptutor]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[orkas-ai-orkas]]
+[[kornia-kornia]] [[hkuds-deeptutor]] [[cloudflare-security-audit-skill]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]]
 
 **所属领域**: [[web]] [[data]]
 

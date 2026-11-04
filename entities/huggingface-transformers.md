@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[anomalyco-hex]] [[openbmb-voxcpm]] [[d4vinci-scrapling]] [[xiaolai-the-craft-of-selfteaching]]
+[[patchy631-ai-engineering-hub]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

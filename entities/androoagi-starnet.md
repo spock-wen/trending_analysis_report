@@ -34,7 +34,7 @@ A living pixel-art station where real AI agents do real work. Local-first deskto
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[orkas-ai-orkas]] [[mattpocock-skills]]
+[[cloudflare-security-audit-skill]] [[garrytan-gstack]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[orkas-ai-orkas]]
 
 **所属领域**: [[ai-agent]]
 

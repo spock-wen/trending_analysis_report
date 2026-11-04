@@ -37,7 +37,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[d4vinci-scrapling]] [[copilotkit-openbot]] [[p-e-w-heretic]] [[mattpocock-skills]]
+[[hkuds-deeptutor]] [[garrytan-gstack]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

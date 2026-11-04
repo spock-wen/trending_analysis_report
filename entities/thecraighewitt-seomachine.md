@@ -38,7 +38,7 @@ A specialized Claude Code workspace for creating long-form, SEO-optimized blog c
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[d4vinci-scrapling]] [[agricidaniel-claude-seo]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]]
+[[k-dense-ai-scientific-agent-skills]] [[garrytan-gstack]] [[obra-superpowers]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

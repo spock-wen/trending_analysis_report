@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[flashml-org-freetoken]] [[xiaolai-the-craft-of-selfteaching]] [[d4vinci-scrapling]] [[nvidia-skillspector]]
+[[patchy631-ai-engineering-hub]] [[lyogavin-airllm]] [[kornia-kornia]] [[garrytan-gstack]] [[bregman-arie-devops-exercises]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

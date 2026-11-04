@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[justvugg-colibri]] [[epicgames-raddebugger]] [[d4vinci-scrapling]] [[vercel-labs-agent-desktop]] [[donchitos-claude-code-game-studios]]
+[[garrytan-gstack]] [[justvugg-colibri]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[php-php-src]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

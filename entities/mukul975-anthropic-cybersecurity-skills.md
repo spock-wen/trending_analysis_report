@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[max-sixty-worktrunk]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[affaan-m-ecc]] [[vercel-labs-agent-desktop]]
+[[cloudflare-security-audit-skill]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[nvidia-skillspector]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

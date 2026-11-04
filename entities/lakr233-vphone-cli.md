@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[vercel-labs-agent-desktop]] [[abue-ammar-tinycast]] [[xtool-org-xtool]] [[donchitos-claude-code-game-studios]]
+[[abue-ammar-tinycast]] [[xtool-org-xtool]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[cli]]
 

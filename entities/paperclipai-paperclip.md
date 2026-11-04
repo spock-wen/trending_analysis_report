@@ -38,7 +38,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[vercel-labs-agent-desktop]] [[spotify-portal-ai-plugins]]
+[[k-dense-ai-scientific-agent-skills]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[pingdotgg-t3code]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

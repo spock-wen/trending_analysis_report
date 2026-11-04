@@ -34,7 +34,7 @@ Claude Desktop for Debian-based Linux distributions
 
 ## 相关项目
 
-[[expo-skills]] [[d4vinci-scrapling]] [[vercel-labs-agent-desktop]] [[donchitos-claude-code-game-studios]] [[mattpocock-skills]]
+[[garrytan-gstack]] [[obra-superpowers]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

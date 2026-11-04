@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[raphire-win11debloat]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]]
+[[k-dense-ai-scientific-agent-skills]] [[cloudflare-security-audit-skill]] [[garrytan-gstack]] [[raphire-win11debloat]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

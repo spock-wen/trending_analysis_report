@@ -38,7 +38,7 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 
 ## 相关项目
 
-[[max-sixty-worktrunk]] [[vercel-labs-agent-desktop]] [[mattpocock-skills]] [[donchitos-claude-code-game-studios]]
+[[mattpocock-skills]] [[michaelcade-90daysofdevops]] [[vercel-labs-agent-desktop]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[cli]]
 

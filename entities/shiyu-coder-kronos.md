@@ -38,5 +38,5 @@ Kronos: A Foundation Model for the Language of Financial Markets
 
 ## 相关项目
 
-[[usagi-org-ai-goofish-monitor]] [[p-e-w-heretic]] [[d4vinci-scrapling]]
+[[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[nvidia-auto-ontology]] [[github-spec-kit]]
 

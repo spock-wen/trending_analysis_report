@@ -35,7 +35,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[paperclipai-paperclip]] [[p-e-w-heretic]]
+[[k-dense-ai-scientific-agent-skills]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[github-spec-kit]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[science]]
 

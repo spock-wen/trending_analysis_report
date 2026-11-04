@@ -35,5 +35,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[affaan-m-ecc]] [[orkas-ai-orkas]] [[cloudflare-security-audit-skill]]
+[[hmjz100-linkswift]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[orkas-ai-orkas]]
 

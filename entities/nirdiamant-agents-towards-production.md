@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[hugohe3-ppt-master]] [[ruvnet-ruview]] [[xiaolai-the-craft-of-selfteaching]] [[d4vinci-scrapling]]
+[[patchy631-ai-engineering-hub]] [[lyogavin-airllm]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

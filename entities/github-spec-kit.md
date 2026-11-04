@@ -1,42 +1,53 @@
 ---
 title: "github/spec-kit"
 created: 2026-05-14
-updated: 2026-09-12
-last_active: 2026-09-12
+updated: 2026-11-05
+last_active: 2026-11-05
 type: tool
 tags: [python]
-sources: [raw/trending/2026-09-12.json]
+sources: [raw/trending/2026-11-05.json]
 confidence: high
-trending_count_daily: 8
+trending_count_daily: 9
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-05-14
-last_trending: 2026-09-12
+last_trending: 2026-11-05
 peak_rank: 5
-total_stars: 135751
+total_stars: 147257
 language: "Python"
+contested: true
 ---
 
 # github/spec-kit
 
-💫 Toolkit to help you get started with Spec-Driven Development
+💫 Toolkit to help you get started with SDD or any other process!
 
 - 语言: Python
-- 上榜次数: 8 次
+- 上榜次数: 9 次
 - 连续上榜: 1 天
 - 最高排名: #5
 - 链接: [github/spec-kit](https://github.com/github/spec-kit)
 
 ## 上榜历史
 
+  - 2026-11-05: #7, +810⭐
   - 2026-09-12: #15, +985⭐
   - 2026-08-16: #8, +901⭐
   - 2026-08-15: #8, +1147⭐
   - 2026-07-14: #9, +508⭐
-  - 2026-06-06: #8, +612⭐
 
 ## 相关项目
 
-[[usagi-org-ai-goofish-monitor]] [[shiyu-coder-kronos]] [[p-e-w-heretic]] [[d4vinci-scrapling]]
+[[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[nvidia-auto-ontology]]
+
+
+## ⚠️ 描述变更（2026-11-05）
+
+该项目描述近期发生过重大变化，可能存在定位调整：
+
+- **旧描述**: 💫 Toolkit to help you get started with Spec-Driven Development
+- **新描述**: 💫 Toolkit to help you get started with SDD or any other process!
+
+> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

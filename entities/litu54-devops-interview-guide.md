@@ -34,7 +34,7 @@ DevOps Interview Guide
 
 ## 相关项目
 
-[[usagi-org-ai-goofish-monitor]] [[bregman-arie-devops-exercises]] [[coollabsio-coolify]] [[ruvnet-ruview]]
+[[bregman-arie-devops-exercises]] [[ruvnet-ruview]] [[michaelcade-90daysofdevops]] [[usagi-org-ai-goofish-monitor]]
 
 **所属领域**: [[devops]]
 

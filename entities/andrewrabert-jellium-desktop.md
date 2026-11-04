@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[anomalyco-hex]] [[cjpais-handy]] [[vercel-labs-agent-desktop]] [[donchitos-claude-code-game-studios]] [[mattpocock-skills]]
+[[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[anomalyco-hex]] [[cjpais-handy]] [[vercel-labs-agent-desktop]]
 
 **所属领域**: [[cli]]
 

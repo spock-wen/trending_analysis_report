@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[anomalyco-hex]] [[max-sixty-worktrunk]] [[openbmb-voxcpm]] [[d4vinci-scrapling]] [[debpalash-voicestudio]]
+[[michaelcade-90daysofdevops]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[github-spec-kit]]
 
 **所属领域**: [[cli]] [[audio]]
 

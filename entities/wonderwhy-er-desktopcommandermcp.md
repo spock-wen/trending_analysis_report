@@ -38,7 +38,7 @@ This is MCP server for Claude that gives it terminal control, file system search
 
 ## 相关项目
 
-[[max-sixty-worktrunk]] [[d4vinci-scrapling]] [[vercel-labs-agent-desktop]] [[spotify-portal-ai-plugins]] [[donchitos-claude-code-game-studios]]
+[[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[pingdotgg-t3code]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

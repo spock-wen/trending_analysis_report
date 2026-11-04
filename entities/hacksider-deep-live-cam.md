@@ -34,7 +34,7 @@ real time face swap and one-click video deepfake with only a single image
 
 ## 相关项目
 
-[[max-sixty-worktrunk]] [[openbmb-voxcpm]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[vercel-labs-agent-desktop]]
+[[jiafeimiao-k-cat-discimagestudio]] [[michaelcade-90daysofdevops]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[anomalyco-hex]] [[openbmb-voxcpm]] [[d4vinci-scrapling]] [[beenuar-aisoc]]
+[[cloudflare-security-audit-skill]] [[garrytan-gstack]] [[jiafeimiao-k-cat-discimagestudio]] [[beenuar-aisoc]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

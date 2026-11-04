@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[max-sixty-worktrunk]] [[vercel-labs-agent-desktop]] [[mattpocock-skills]] [[donchitos-claude-code-game-studios]]
+[[mattpocock-skills]] [[michaelcade-90daysofdevops]] [[vercel-labs-agent-desktop]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[cli]]
 

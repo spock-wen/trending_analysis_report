@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[strelov1-freehire]] [[beenuar-aisoc]] [[affaan-m-ecc]] [[nvidia-skillspector]]
+[[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[michaelcade-90daysofdevops]] [[nvidia-skillspector]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[devops]] [[security]]
 

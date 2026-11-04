@@ -34,7 +34,7 @@ language: "Zig"
 
 ## 相关项目
 
-[[vercel-labs-agent-desktop]] [[donchitos-claude-code-game-studios]] [[lightpanda-io-browser]] [[mattpocock-skills]] [[max-sixty-worktrunk]]
+[[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[lightpanda-io-browser]] [[vercel-labs-agent-desktop]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[cli]]
 

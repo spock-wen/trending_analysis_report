@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[openbmb-voxcpm]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[alchaincyf-huashu-design]]
+[[hkuds-deeptutor]] [[jiafeimiao-k-cat-discimagestudio]] [[alchaincyf-huashu-design]] [[cathrynlavery-diagram-design]] [[d4vinci-scrapling]]
 
 **所属领域**: [[web]] [[image-gen]]
 

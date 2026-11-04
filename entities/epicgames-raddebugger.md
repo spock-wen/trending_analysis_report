@@ -35,5 +35,5 @@ A native, user-mode, multi-process, graphical debugger.
 
 ## 相关项目
 
-[[antirez-ds4]] [[justvugg-colibri]] [[php-php-src]]
+[[fareedkhan-dev-kimi-k3-in-c]] [[php-php-src]] [[justvugg-colibri]]
 

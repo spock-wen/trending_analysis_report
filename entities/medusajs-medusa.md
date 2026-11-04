@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[agricidaniel-claude-seo]] [[spotify-portal-ai-plugins]] [[php-php-src]] [[paperclipai-paperclip]]
+[[garrytan-gstack]] [[obra-superpowers]] [[pingdotgg-t3code]] [[php-php-src]] [[spotify-portal-ai-plugins]]
 
 **所属领域**: [[erp]]
 

@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[raphire-win11debloat]] [[openbmb-voxcpm]] [[beenuar-aisoc]] [[vercel-labs-agent-desktop]]
+[[jiafeimiao-k-cat-discimagestudio]] [[raphire-win11debloat]] [[michaelcade-90daysofdevops]] [[beenuar-aisoc]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

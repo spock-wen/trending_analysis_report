@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[d4vinci-scrapling]] [[copilotkit-openbot]] [[vercel-labs-agent-desktop]] [[donchitos-claude-code-game-studios]]
+[[hkuds-deeptutor]] [[michaelcade-90daysofdevops]] [[d4vinci-scrapling]] [[mattpocock-skills]] [[vercel-labs-agent-desktop]]
 
 **所属领域**: [[web]] [[cli]]
 

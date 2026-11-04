@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[xiaolai-the-craft-of-selfteaching]] [[affaan-m-ecc]]
+[[patchy631-ai-engineering-hub]] [[k-dense-ai-scientific-agent-skills]] [[cloudflare-security-audit-skill]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

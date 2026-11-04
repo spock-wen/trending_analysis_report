@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[strelov1-freehire]] [[vercel-labs-agent-desktop]] [[donchitos-claude-code-game-studios]] [[vxcontrol-pentagi]] [[mattpocock-skills]]
+[[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[cli]]
 

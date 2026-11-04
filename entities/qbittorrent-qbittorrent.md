@@ -34,7 +34,7 @@ qBittorrent BitTorrent client
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[tensorflow-tensorflow]] [[boykopovar-anyps5]] [[vercel-labs-agent-desktop]] [[hyprwm-hyprland]]
+[[microsoft-bitnet]] [[michaelcade-90daysofdevops]] [[hyprwm-hyprland]] [[mattpocock-skills]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[cli]]
 

@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[conardli-garden-skills]] [[hugohe3-ppt-master]] [[d4vinci-scrapling]] [[agricidaniel-claude-seo]]
+[[hkuds-deeptutor]] [[obra-superpowers]] [[nutlope-hallmark]] [[d4vinci-scrapling]] [[php-php-src]]
 
 **所属领域**: [[web]] [[erp]]
 

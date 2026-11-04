@@ -34,7 +34,7 @@ Toolchain for TON smart contract development and beyond
 
 ## 相关项目
 
-[[anomalyco-hex]] [[d4vinci-scrapling]] [[cjpais-handy]] [[vercel-labs-agent-desktop]] [[mattpocock-skills]]
+[[garrytan-gstack]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[anomalyco-hex]] [[cjpais-handy]]
 
 **所属领域**: [[ai-agent]]
 

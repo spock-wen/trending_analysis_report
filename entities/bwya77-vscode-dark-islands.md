@@ -34,7 +34,7 @@ VSCode theme based off the easemate IDE and Jetbrains islands theme
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[raphire-win11debloat]] [[d4vinci-scrapling]] [[vercel-labs-agent-desktop]] [[donchitos-claude-code-game-studios]]
+[[garrytan-gstack]] [[raphire-win11debloat]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

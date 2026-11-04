@@ -36,7 +36,7 @@ Warp is an agentic development environment, born out of the terminal.
 
 ## 相关项目
 
-[[anomalyco-hex]] [[d4vinci-scrapling]] [[cjpais-handy]] [[vercel-labs-agent-desktop]] [[donchitos-claude-code-game-studios]]
+[[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[anomalyco-hex]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

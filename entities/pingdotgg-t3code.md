@@ -38,5 +38,5 @@ No description
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[spotify-portal-ai-plugins]] [[thedotmack-claude-mem]]
+[[thedotmack-claude-mem]] [[spotify-portal-ai-plugins]] [[garrytan-gstack]]
 

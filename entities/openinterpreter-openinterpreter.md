@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[anomalyco-hex]] [[d4vinci-scrapling]] [[agricidaniel-claude-seo]] [[cjpais-handy]]
+[[garrytan-gstack]] [[obra-superpowers]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[php-php-src]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

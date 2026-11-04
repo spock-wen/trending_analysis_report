@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[hkuds-deeptutor]] [[d4vinci-scrapling]] [[affaan-m-ecc]] [[orkas-ai-orkas]]
+[[kornia-kornia]] [[hkuds-deeptutor]] [[cloudflare-security-audit-skill]] [[garrytan-gstack]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

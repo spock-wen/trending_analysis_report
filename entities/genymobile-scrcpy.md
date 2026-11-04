@@ -34,5 +34,5 @@ Display and control your Android device
 
 ## 相关项目
 
-[[antirez-ds4]] [[justvugg-colibri]] [[php-php-src]] [[epicgames-raddebugger]]
+[[fareedkhan-dev-kimi-k3-in-c]] [[php-php-src]] [[justvugg-colibri]] [[epicgames-raddebugger]]
 

@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[ruvnet-ruview]] [[spotify-portal-ai-plugins]] [[usagi-org-ai-goofish-monitor]] [[paperclipai-paperclip]]
+[[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[pingdotgg-t3code]] [[bregman-arie-devops-exercises]] [[ruvnet-ruview]]
 
 **所属领域**: [[devops]]
 

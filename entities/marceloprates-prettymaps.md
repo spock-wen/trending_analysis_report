@@ -34,7 +34,7 @@ Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[d4vinci-scrapling]] [[nvidia-skillspector]] [[kornia-kornia]] [[p-e-w-heretic]]
+[[kornia-kornia]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[harry0703-moneyprinterturbo]] [[github-spec-kit]]
 
 **所属领域**: [[data]]
 

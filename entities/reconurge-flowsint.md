@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[beenuar-aisoc]] [[affaan-m-ecc]] [[nvidia-skillspector]] [[spotify-portal-ai-plugins]] [[cloudflare-security-audit-skill]]
+[[cloudflare-security-audit-skill]] [[garrytan-gstack]] [[nvidia-skillspector]] [[pingdotgg-t3code]] [[beenuar-aisoc]]
 
 **所属领域**: [[security]]
 

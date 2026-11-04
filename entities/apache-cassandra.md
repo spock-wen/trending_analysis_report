@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]] [[floci-io-floci]] [[nvidia-skillspector]]
+[[kornia-kornia]] [[michaelcade-90daysofdevops]] [[floci-io-floci]] [[checkstyle-checkstyle]] [[bregman-arie-devops-exercises]]
 
 **所属领域**: [[data]] [[devops]]
 

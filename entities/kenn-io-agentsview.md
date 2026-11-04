@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[flashml-org-freetoken]] [[d4vinci-scrapling]] [[strelov1-freehire]] [[thedotmack-claude-mem]] [[nvidia-skillspector]]
+[[kornia-kornia]] [[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[garrytan-gstack]] [[bregman-arie-devops-exercises]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[anomalyco-hex]] [[openbmb-voxcpm]] [[d4vinci-scrapling]] [[debpalash-voicestudio]]
+[[hkuds-deeptutor]] [[garrytan-gstack]] [[pingdotgg-t3code]] [[d4vinci-scrapling]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

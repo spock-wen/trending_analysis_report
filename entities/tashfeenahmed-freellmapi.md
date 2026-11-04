@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[beenuar-aisoc]] [[affaan-m-ecc]] [[nvidia-skillspector]] [[spotify-portal-ai-plugins]]
+[[cloudflare-security-audit-skill]] [[garrytan-gstack]] [[nvidia-skillspector]] [[pingdotgg-t3code]] [[beenuar-aisoc]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

@@ -34,5 +34,5 @@ Portable Tool for an Ideal Windows Setup
 
 ## 相关项目
 
-[[sonarr-sonarr]] [[dotnet-aspnetcore]] [[k1tbyte-wand-enhancer]] [[ntdevlabs-tiny11builder]]
+[[k1tbyte-wand-enhancer]] [[jiafeimiao-k-cat-discimagestudio]] [[sonarr-sonarr]] [[ntdevlabs-tiny11builder]]
 

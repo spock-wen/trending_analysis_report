@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[d4vinci-scrapling]] [[alchaincyf-huashu-design]] [[copilotkit-openbot]] [[nvidia-skillspector]]
+[[kornia-kornia]] [[hkuds-deeptutor]] [[alchaincyf-huashu-design]] [[garrytan-gstack]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

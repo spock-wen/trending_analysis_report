@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[strelov1-freehire]] [[vxcontrol-pentagi]] [[usagi-org-ai-goofish-monitor]] [[bregman-arie-devops-exercises]]
+[[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[michaelcade-90daysofdevops]] [[bregman-arie-devops-exercises]] [[ruvnet-ruview]]
 
 **所属领域**: [[devops]]
 

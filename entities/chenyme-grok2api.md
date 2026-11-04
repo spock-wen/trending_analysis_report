@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[d4vinci-scrapling]] [[strelov1-freehire]] [[copilotkit-openbot]] [[vercel-labs-agent-desktop]]
+[[hkuds-deeptutor]] [[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[michaelcade-90daysofdevops]] [[d4vinci-scrapling]]
 
 **所属领域**: [[web]] [[cli]]
 

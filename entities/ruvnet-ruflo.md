@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[bregman-arie-devops-exercises]] [[ruvnet-ruview]] [[d4vinci-scrapling]] [[xiaolai-the-craft-of-selfteaching]]
+[[patchy631-ai-engineering-hub]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[pingdotgg-t3code]] [[bregman-arie-devops-exercises]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

@@ -38,7 +38,7 @@ Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[strelov1-freehire]] [[juliusbrussee-caveman]] [[nvidia-skillspector]] [[kornia-kornia]]
+[[kornia-kornia]] [[vxcontrol-pentagi]] [[garrytan-gstack]] [[bregman-arie-devops-exercises]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

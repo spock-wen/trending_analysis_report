@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[hkuds-deeptutor]] [[thu-maic-openmaic]] [[d4vinci-scrapling]] [[xiaolai-the-craft-of-selfteaching]]
+[[patchy631-ai-engineering-hub]] [[hkuds-deeptutor]] [[alchaincyf-huashu-design]] [[michaelcade-90daysofdevops]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[education]]
 

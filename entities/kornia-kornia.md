@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[d4vinci-scrapling]] [[nvidia-skillspector]] [[p-e-w-heretic]] [[mattpocock-skills]]
+[[garrytan-gstack]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

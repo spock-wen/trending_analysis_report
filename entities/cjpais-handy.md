@@ -34,7 +34,7 @@ A free, open source, and extensible speech-to-text application that works comple
 
 ## 相关项目
 
-[[anomalyco-hex]] [[openbmb-voxcpm]] [[d4vinci-scrapling]] [[debpalash-voicestudio]] [[vercel-labs-agent-desktop]]
+[[garrytan-gstack]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[debpalash-voicestudio]] [[anomalyco-hex]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-11-04 | 总页面：864
+> 最后更新：2026-11-05 | 总页面：871
 
 ## Entities
 
@@ -198,7 +198,7 @@
 - [[cursor-plugins|plugins]] — Cursor plugin specification and official plugins
 - [[cypress-io-cypress|cypress]] — Fast, easy and reliable testing for anything that runs in a ...
 - [[czlonkowski-n8n-mcp|n8n-mcp]] — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor t...
-- [[d4vinci-scrapling|Scrapling]] — 🕷️ The BEST Web Scraping framework that handles everything f... 🆕
+- [[d4vinci-scrapling|Scrapling]] — 🕷️ The BEST Web Scraping framework that handles everything f... 🔥
 - [[dani-garcia-vaultwarden|vaultwarden]] — Unofficial Bitwarden compatible server written in Rust, form...
 - [[danielmiessler-lifeos|LifeOS]] — ⛰️A General Hill-climbing AI harness that helps you move fro...
 - [[danielmiessler-personal_ai_infrastructure|Personal_AI_Infrastructure]] — Agentic AI Infrastructure for magnifying HUMAN capabilities.
@@ -259,6 +259,7 @@
 - [[evomap-evolver|evolver]] — The GEP-Powered Self-Evolution Engine for AI Agents. Genome ... 🆕
 - [[expo-skills|skills]] — A collection of AI agent skills for working with Expo projec...
 - [[facebook-astryx|astryx]] — An open source design system that's fully customizable and a...
+- [[fareedkhan-dev-kimi-k3-in-c|kimi-k3-in-c]] — A 2.78-trillion-parameter Kimi K3 running inference on a sin... 🆕
 - [[fareedkhan-dev-train-llm-from-scratch|train-llm-from-scratch]] — A straightforward method for training your LLM, from downloa...
 - [[fastapi-fastapi|fastapi]] — FastAPI framework, high performance, easy to learn, fast to ...
 - [[fastfetch-cli-fastfetch|fastfetch]] — A maintained, feature-rich and performance oriented, neofetc... 🆕
@@ -299,7 +300,7 @@
 - [[github-copilot-sdk|copilot-sdk]] — Multi-platform SDK for integrating GitHub Copilot Agent into... 🆕
 - [[github-docs|docs]] — The open-source repo for docs.github.com
 - [[github-gh-stack|gh-stack]] — GitHub Stacked PRs
-- [[github-spec-kit|spec-kit]] — 💫 Toolkit to help you get started with Spec-Driven Developme...
+- [[github-spec-kit|spec-kit]] — 💫 Toolkit to help you get started with SDD or any other proc...
 - [[gitlawb-openclaude|openclaude]] — runs anywhere. uses anything 🔥
 - [[gitroomhq-postiz-app|postiz-app]] — 📨 The ultimate agentic social media scheduling tool 🤖 🆕
 - [[goauthentik-authentik|authentik]] — The authentication glue you need. 🔥
@@ -397,6 +398,7 @@
 - [[jenkinsci-jenkins|jenkins]] — Jenkins automation server
 - [[jetbrains-go-modern-guidelines|go-modern-guidelines]] — Help AI coding agents write modern Go 🔥
 - [[jetbrains-thinkrail|thinkrail]] — Vibe code with pi in a lightweight, real IDE that customises... 🔥
+- [[jiafeimiao-k-cat-discimagestudio|DiscImageStudio]] — No description 🆕
 - [[jihe520-mathmodelagent|MathModelAgent]] — 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Ag... 🔥
 - [[jiji262-douyin-downloader|douyin-downloader]] — A practical Douyin downloader for both single-item and profi...
 - [[jingyaogong-minimind|minimind]] — 🧠 Train a 64M-parameter LLM from scratch in just 2h! 🆕
@@ -482,9 +484,9 @@
 - [[marin-community-marin|marin]] — Open-source framework for the research and development of fo... 🔥
 - [[masterking32-masterdnsvpn|MasterDnsVPN]] — Advanced DNS tunneling VPN for censorship bypass, optimized ... 🔥
 - [[mattermost-mattermost|mattermost]] — Mattermost is an open source platform for secure collaborati... 🆕
-- [[mattpocock-skills|skills]] — Skills for Real Engineers. Straight from my .agents director... 🆕
+- [[mattpocock-skills|skills]] — Skills for Real Engineers. Straight from my .agents director... 🔥
 - [[mauriceboe-trek|TREK]] — A self-hosted travel/trip planner with real-time collaborati... 🆕
-- [[max-sixty-worktrunk|worktrunk]] — Worktrunk is a CLI for Git worktree management, designed for... 🆕
+- [[max-sixty-worktrunk|worktrunk]] — Worktrunk is a CLI for Git worktree management, designed for... 🔥
 - [[maziyarpanahi-openmed|openmed]] — open-source healthcare ai 🔥
 - [[mebus-cupp|cupp]] — Common User Passwords Profiler (CUPP) 🆕
 - [[medusajs-medusa|medusa]] — The world's most flexible commerce platform.
@@ -495,6 +497,7 @@
 - [[mempalace-mempalace|mempalace]] — The best-benchmarked open-source AI memory system. And it's ...
 - [[meshery-meshery|meshery]] — Meshery, the cloud native manager 🔥
 - [[mg1937-asc|ASC]] — ASC is a super FAST Android decompiler front-end designed fo...
+- [[michaelcade-90daysofdevops|90DaysOfDevOps]] — This repository started out as a learning in public project ... 🆕
 - [[microsoft-agent-framework|agent-framework]] — A framework for building, orchestrating and deploying AI age...
 - [[microsoft-agent-governance-toolkit|agent-governance-toolkit]] — AI Agent Governance Toolkit — Policy enforcement, zero-trust...
 - [[microsoft-agent-lightning|agent-lightning]] — The absolute trainer to light up AI agents.
@@ -558,6 +561,7 @@
 - [[nutlope-hallmark|hallmark]] — Anti-AI-slop design skill for Claude Code, Cursor, and Codex... 🔥
 - [[nuxt-nuxt|nuxt]] — the full-stack Vue framework
 - [[nvidia-ai-blueprints-video-search-and-summarization|video-search-and-summarization]] — Suite of reference architectures for building GPU-accelerate... 🆕
+- [[nvidia-auto-ontology|auto-ontology]] — Auto Ontology is a Python framework for building semantic, g... 🆕
 - [[nvidia-cosmos|cosmos]] — NVIDIA Cosmos is an open platform of world models, datasets,... 🆕
 - [[nvidia-model-optimizer|Model-Optimizer]] — A unified library of SOTA model optimization techniques like... 🔥
 - [[nvidia-nemo-switchyard|Switchyard]] — Switchyard lets LLM applications route traffic across models... 🆕
@@ -684,6 +688,7 @@
 - [[sakanaai-ai-scientist-v2|AI-Scientist-v2]] — The AI Scientist-v2: Workshop-Level Automated Scientific Dis... 🆕
 - [[sansan0-trendradar|TrendRadar]] — ⭐AI-driven public opinion & trend monitor with multi-platfor...
 - [[santifer-career-ops|career-ops]] — Open-source AI job search: scan job portals, evaluate listin... 🔥
+- [[scenario-labs-skills|skills]] — Get production-ready images, video, audio, and 3D from any A... 🆕
 - [[schollz-croc|croc]] — Easily and securely send things from one computer to another... 🆕
 - [[semantica-agi-semantica|semantica]] — Graph-Native Infrastructure for Context and Accountable AI S... 🔥
 - [[sepinf-inc-iped|IPED]] — IPED Digital Forensic Tool. It is an open source software th...
@@ -709,7 +714,7 @@
 - [[sngyai-sequoia-x|Sequoia-X]] — A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书
 - [[sonarr-sonarr|Sonarr]] — Smart PVR for newsgroup and bittorrent users. 🆕
 - [[soxoj-maigret|maigret]] — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ s...
-- [[spotify-portal-ai-plugins|portal-ai-plugins]] — No description 🆕
+- [[spotify-portal-ai-plugins|portal-ai-plugins]] — No description
 - [[st-tech-ppf-contact-solver|ppf-contact-solver]] — A contact solver for physics-based simulations involving 👚 s...
 - [[stablyai-orca|orca]] — Orca is the place for working with a fleet of agents (e.g. G... 🔥
 - [[stefan-jansen-machine-learning-for-trading|machine-learning-for-trading]] — Code for Machine Learning for Algorithmic Trading, 2nd editi... 🆕
@@ -750,11 +755,13 @@
 - [[tensorflow-tensorflow|tensorflow]] — An Open Source Machine Learning Framework for Everyone
 - [[teslamate-org-teslamate|teslamate]] — A self-hosted data logger for your Tesla 🚘 [main maintainer=... 🆕
 - [[tester-army-e2e|e2e]] — Next generation e2e testing framework for web and mobile app... 🔥
+- [[the-pr-agent-pr-agent|pr-agent]] — 🚀 PR Agent: The Original Open-Source PR Reviewer. This proje... 🆕
 - [[the-swarm-corporation-autohedge|AutoHedge]] — Build your autonomous hedge fund in minutes. AutoHedge harne... 🔥
 - [[thecraighewitt-seomachine|seomachine]] — A specialized Claude Code workspace for creating long-form, ... 🔥
 - [[thedotmack-claude-mem|claude-mem]] — Persistent Context Across Sessions for Every Agent – Capture... 🔥
 - [[thu-maic-openmaic|OpenMAIC]] — Open Multi-Agent Interactive Classroom — Get an immersive, m...
 - [[thunderbird-thunderbolt|thunderbolt]] — AI You Control: Choose your models. Own your data. Eliminate...
+- [[thysrael-horizon|Horizon]] — 📡 Your own AI-powered news radar. Generates daily briefings ... 🆕
 - [[tile-ai-tilelang|tilelang]] — Domain-specific language designed to streamline the developm...
 - [[tinygrad-tinygrad|tinygrad]] — You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [[tinyhumansai-openhuman|openhuman]] — Your Personal AI super intelligence. A brain that builds a l... 🔥
@@ -786,7 +793,7 @@
 - [[unclecode-crawl4ai|crawl4ai]] — 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper....
 - [[universal-debloater-alliance-universal-android-debloater-next-generation|universal-android-debloater-next-generation]] — Cross-platform GUI written in Rust using ADB to debloat non-... 🔥
 - [[unslothai-unsloth|unsloth]] — Local UI to run and train LLMs and diffusion models, includi... 🔥
-- [[usagi-org-ai-goofish-monitor|ai-goofish-monitor]] — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从... 🆕
+- [[usagi-org-ai-goofish-monitor|ai-goofish-monitor]] — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从...
 - [[usekaneo-kaneo|kaneo]] — 🎯 All you need. Nothing you don't. Open source project manag... 🔥
 - [[usestrix-strix|strix]] — Open-source AI penetration testing tool to find and fix your...
 - [[vaibhavs10-insanely-fast-whisper|insanely-fast-whisper]] — No description 🆕
@@ -794,7 +801,7 @@
 - [[vectifyai-pageindex|PageIndex]] — 📑 PageIndex: Document Index for Vectorless, Reasoning-based ... 🆕
 - [[vectorize-io-hindsight|hindsight]] — Hindsight: Agent Memory That Learns 🔥
 - [[veracrypt-veracrypt|VeraCrypt]] — Disk encryption with strong security based on TrueCrypt
-- [[vercel-labs-agent-desktop|agent-desktop]] — Computer use CLI for AI agents 🆕
+- [[vercel-labs-agent-desktop|agent-desktop]] — Computer use CLI for AI agents 🔥
 - [[vercel-labs-json-render|json-render]] — The Generative UI framework
 - [[vercel-labs-open-agents|open-agents]] — An open source template for building cloud agents.
 - [[vercel-labs-portless|portless]] — Replace port numbers with stable, named local URLs. For huma...

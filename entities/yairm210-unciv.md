@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[embabel-embabel-agent]] [[d4vinci-scrapling]] [[bannedbook-fanqiang]] [[mattpocock-skills]] [[p-e-w-heretic]]
+[[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]] [[garrytan-gstack]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[ai-agent]]
 

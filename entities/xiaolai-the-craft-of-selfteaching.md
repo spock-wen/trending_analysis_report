@@ -34,7 +34,7 @@ One has no future if one couldn't teach themself.
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[d4vinci-scrapling]] [[fastapi-fastapi]] [[higgsfield-ai-higgsfield]] [[mattpocock-skills]]
+[[patchy631-ai-engineering-hub]] [[lyogavin-airllm]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

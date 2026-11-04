@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[embabel-embabel-agent]] [[d4vinci-scrapling]] [[copilotkit-openbot]] [[bannedbook-fanqiang]]
+[[bannedbook-fanqiang]] [[hkuds-deeptutor]] [[mahlernim-google-timeline-visualizer]] [[d4vinci-scrapling]] [[embabel-embabel-agent]]
 
 **所属领域**: [[web]]
 

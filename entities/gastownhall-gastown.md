@@ -35,7 +35,7 @@ Gas Town - multi-agent workspace manager
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[strelov1-freehire]] [[thedotmack-claude-mem]] [[vxcontrol-pentagi]] [[mattpocock-skills]]
+[[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[garrytan-gstack]] [[mattpocock-skills]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]]
 

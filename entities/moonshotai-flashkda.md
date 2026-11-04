@@ -34,7 +34,7 @@ FlashKDA: high-performance Kimi Delta Attention kernels
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[deepseek-ai-deepgemm]] [[deepseek-ai-deepep]] [[p-e-w-heretic]] [[mattpocock-skills]]
+[[garrytan-gstack]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[deepseek-ai-deepep]] [[deepseek-ai-deepgemm]]
 
 **所属领域**: [[ai-agent]]
 

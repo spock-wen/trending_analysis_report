@@ -36,7 +36,7 @@ Developer-first error tracking and performance monitoring
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[d4vinci-scrapling]] [[shiyu-coder-kronos]] [[p-e-w-heretic]] [[usagi-org-ai-goofish-monitor]]
+[[michaelcade-90daysofdevops]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[harry0703-moneyprinterturbo]] [[ruvnet-ruview]]
 
 **所属领域**: [[devops]]
 

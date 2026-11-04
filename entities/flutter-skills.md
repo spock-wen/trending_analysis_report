@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[localsend-localsend]] [[flutter-flutter]] [[d4vinci-scrapling]] [[mattpocock-skills]] [[p-e-w-heretic]]
+[[garrytan-gstack]] [[localsend-localsend]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]]
 

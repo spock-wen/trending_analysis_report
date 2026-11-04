@@ -34,7 +34,7 @@ Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud model
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[anomalyco-hex]] [[openbmb-voxcpm]] [[d4vinci-scrapling]] [[beenuar-aisoc]]
+[[cloudflare-security-audit-skill]] [[garrytan-gstack]] [[nvidia-skillspector]] [[beenuar-aisoc]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[security]] [[audio]]
 

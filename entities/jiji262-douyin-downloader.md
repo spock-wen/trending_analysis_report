@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[bregman-arie-devops-exercises]] [[d4vinci-scrapling]] [[copilotkit-openbot]] [[nvidia-skillspector]]
+[[kornia-kornia]] [[hkuds-deeptutor]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[harry0703-moneyprinterturbo]]
 
 **所属领域**: [[web]] [[data]]
 

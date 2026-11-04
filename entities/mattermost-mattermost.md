@@ -35,5 +35,5 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[spotify-portal-ai-plugins]] [[pingdotgg-t3code]] [[thedotmack-claude-mem]]
+[[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[spotify-portal-ai-plugins]] [[garrytan-gstack]]
 

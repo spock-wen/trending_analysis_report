@@ -36,7 +36,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[d4vinci-scrapling]] [[xiaolai-the-craft-of-selfteaching]] [[fastapi-fastapi]] [[p-e-w-heretic]]
+[[patchy631-ai-engineering-hub]] [[michaelcade-90daysofdevops]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[education]]
 

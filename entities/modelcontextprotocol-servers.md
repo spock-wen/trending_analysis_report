@@ -34,5 +34,5 @@ Model Context Protocol Servers
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[spotify-portal-ai-plugins]] [[pingdotgg-t3code]] [[thedotmack-claude-mem]]
+[[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[spotify-portal-ai-plugins]] [[garrytan-gstack]]
 

@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]] [[agricidaniel-claude-seo]] [[affaan-m-ecc]]
+[[k-dense-ai-scientific-agent-skills]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[obra-superpowers]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

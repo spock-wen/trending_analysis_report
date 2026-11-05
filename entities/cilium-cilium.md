@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[michaelcade-90daysofdevops]] [[nvidia-skillspector]] [[cloudflare-security-audit-skill]]
+[[vxcontrol-pentagi]] [[ruvnet-ruview]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[beenuar-aisoc]]
 
 **所属领域**: [[devops]] [[security]]
 

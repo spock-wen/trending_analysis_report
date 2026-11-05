@@ -35,7 +35,7 @@ yoink any video from your terminal. no shady ads.
 
 ## 相关项目
 
-[[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[pingdotgg-t3code]] [[mattpocock-skills]] [[spotify-portal-ai-plugins]]
+[[pingdotgg-t3code]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[cli]]
 

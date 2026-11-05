@@ -38,7 +38,7 @@ Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
 
 ## 相关项目
 
-[[garrytan-gstack]] [[justvugg-colibri]] [[mattpocock-skills]] [[php-php-src]] [[harry0703-moneyprinterturbo]]
+[[lz4-lz4]] [[php-php-src]] [[garrytan-gstack]] [[justvugg-colibri]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]]
 

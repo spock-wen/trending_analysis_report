@@ -35,7 +35,7 @@ like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 ## 相关项目
 
-[[kornia-kornia]] [[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[garrytan-gstack]] [[bregman-arie-devops-exercises]]
+[[vxcontrol-pentagi]] [[garrytan-gstack]] [[nvidia-auto-ontology]] [[bregman-arie-devops-exercises]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -38,7 +38,7 @@ claude-red is a curated library of offensive security skills designed for the Cl
 
 ## 相关项目
 
-[[kornia-kornia]] [[cloudflare-security-audit-skill]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[nvidia-skillspector]]
+[[garrytan-gstack]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[security]]
 

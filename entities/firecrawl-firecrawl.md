@@ -36,7 +36,7 @@ The context API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[garrytan-gstack]] [[pingdotgg-t3code]] [[d4vinci-scrapling]] [[spotify-portal-ai-plugins]]
+[[pingdotgg-t3code]] [[lightpanda-io-browser]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[web]]
 

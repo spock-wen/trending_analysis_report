@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[michaelcade-90daysofdevops]] [[hyprwm-hyprland]] [[mattpocock-skills]] [[max-sixty-worktrunk]]
+[[microsoft-bitnet]] [[tensorflow-tensorflow]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[hyprwm-hyprland]]
 
 **所属领域**: [[cli]]
 

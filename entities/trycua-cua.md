@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[kornia-kornia]] [[jiafeimiao-k-cat-discimagestudio]] [[garrytan-gstack]] [[beenuar-aisoc]] [[bregman-arie-devops-exercises]]
+[[garrytan-gstack]] [[anomalyco-hex]] [[scenario-labs-skills]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

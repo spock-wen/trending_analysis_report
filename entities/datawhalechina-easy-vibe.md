@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[kornia-kornia]] [[patchy631-ai-engineering-hub]] [[cloudflare-security-audit-skill]] [[michaelcade-90daysofdevops]] [[bregman-arie-devops-exercises]]
+[[hmjz100-linkswift]] [[thu-maic-openmaic]] [[affaan-m-ecc]] [[xiaolai-the-craft-of-selfteaching]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[data]] [[education]]
 

@@ -35,5 +35,5 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[orkas-ai-orkas]]
+[[orkas-ai-orkas]] [[conardli-garden-skills]] [[affaan-m-ecc]]
 

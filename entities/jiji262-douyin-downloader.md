@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[kornia-kornia]] [[hkuds-deeptutor]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[harry0703-moneyprinterturbo]]
+[[lightpanda-io-browser]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]]
 
 **所属领域**: [[web]] [[data]]
 

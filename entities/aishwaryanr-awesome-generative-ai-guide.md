@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[hkuds-deeptutor]] [[alchaincyf-huashu-design]] [[garrytan-gstack]] [[cathrynlavery-diagram-design]]
+[[alchaincyf-huashu-design]] [[lightpanda-io-browser]] [[garrytan-gstack]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

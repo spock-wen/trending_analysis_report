@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[alchaincyf-huashu-design]] [[michaelcade-90daysofdevops]] [[cathrynlavery-diagram-design]] [[d4vinci-scrapling]]
+[[alchaincyf-huashu-design]] [[lightpanda-io-browser]] [[vercel-labs-agent-browser]] [[ripienaar-free-for-dev]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[web]] [[cli]]
 

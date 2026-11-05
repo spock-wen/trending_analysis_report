@@ -36,7 +36,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[hkuds-deeptutor]] [[hyprwm-hyprland]] [[d4vinci-scrapling]] [[lightpanda-io-browser]]
+[[microsoft-bitnet]] [[lightpanda-io-browser]] [[tensorflow-tensorflow]] [[vercel-labs-agent-browser]] [[hyprwm-hyprland]]
 
 **所属领域**: [[web]]
 

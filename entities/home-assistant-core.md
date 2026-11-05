@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[nvidia-skillspector]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[harry0703-moneyprinterturbo]]
+[[affaan-m-ecc]] [[beenuar-aisoc]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[nvidia-skillspector]]
 
 **所属领域**: [[security]]
 

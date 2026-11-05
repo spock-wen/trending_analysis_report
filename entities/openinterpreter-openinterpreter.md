@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[garrytan-gstack]] [[obra-superpowers]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[php-php-src]]
+[[agricidaniel-claude-seo]] [[php-php-src]] [[garrytan-gstack]] [[anomalyco-hex]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

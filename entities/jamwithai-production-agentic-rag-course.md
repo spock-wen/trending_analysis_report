@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]]
+[[thu-maic-openmaic]] [[garrytan-gstack]] [[xiaolai-the-craft-of-selfteaching]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

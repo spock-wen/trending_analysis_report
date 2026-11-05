@@ -34,7 +34,7 @@ Free and open-source macOS menu bar toolkit.
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[xtool-org-xtool]] [[garrytan-gstack]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]]
+[[manaflow-ai-cmux]] [[garrytan-gstack]] [[d4vinci-scrapling]] [[abue-ammar-tinycast]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

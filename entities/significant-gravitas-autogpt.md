@@ -35,7 +35,7 @@ AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our
 
 ## 相关项目
 
-[[garrytan-gstack]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[github-spec-kit]]
+[[garrytan-gstack]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[mattpocock-skills]] [[google-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[michaelcade-90daysofdevops]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[github-spec-kit]]
+[[scenario-labs-skills]] [[anomalyco-hex]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[usagi-org-ai-goofish-monitor]]
 
 **所属领域**: [[cli]] [[audio]]
 

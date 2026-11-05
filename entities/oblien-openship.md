@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[pingdotgg-t3code]] [[bregman-arie-devops-exercises]] [[ruvnet-ruview]]
+[[pingdotgg-t3code]] [[ruvnet-ruview]] [[garrytan-gstack]] [[usagi-org-ai-goofish-monitor]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[devops]]
 

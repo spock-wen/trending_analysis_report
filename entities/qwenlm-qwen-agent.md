@@ -35,7 +35,7 @@ Agent framework and applications built upon Qwen>=3.0, featuring Function Callin
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[garrytan-gstack]] [[obra-superpowers]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]]
+[[agricidaniel-claude-seo]] [[lightpanda-io-browser]] [[php-php-src]] [[garrytan-gstack]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[web]] [[erp]]
 

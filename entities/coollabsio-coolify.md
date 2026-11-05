@@ -34,7 +34,7 @@ An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that 
 
 ## 相关项目
 
-[[kornia-kornia]] [[jiafeimiao-k-cat-discimagestudio]] [[michaelcade-90daysofdevops]] [[beenuar-aisoc]] [[bregman-arie-devops-exercises]]
+[[swoole-typephp]] [[grokability-snipe-it]] [[ruvnet-ruview]] [[scenario-labs-skills]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[cli]] [[data]] [[devops]] [[image-gen]]
 

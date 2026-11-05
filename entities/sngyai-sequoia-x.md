@@ -34,7 +34,7 @@ A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运�
 
 ## 相关项目
 
-[[garrytan-gstack]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[github-spec-kit]]
+[[garrytan-gstack]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[mattpocock-skills]] [[google-skills]]
 
 **所属领域**: [[ai-agent]]
 

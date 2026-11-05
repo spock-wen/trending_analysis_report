@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]] [[garrytan-gstack]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]]
+[[garrytan-gstack]] [[bannedbook-fanqiang]] [[embabel-embabel-agent]] [[d4vinci-scrapling]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

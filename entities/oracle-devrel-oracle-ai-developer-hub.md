@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[lyogavin-airllm]] [[kornia-kornia]] [[garrytan-gstack]] [[bregman-arie-devops-exercises]]
+[[garrytan-gstack]] [[xiaolai-the-craft-of-selfteaching]] [[lyogavin-airllm]] [[nvidia-auto-ontology]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

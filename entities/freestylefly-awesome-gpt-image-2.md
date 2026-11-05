@@ -38,7 +38,7 @@ Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[garrytan-gstack]] [[jiafeimiao-k-cat-discimagestudio]] [[beenuar-aisoc]] [[mattpocock-skills]]
+[[hmjz100-linkswift]] [[garrytan-gstack]] [[affaan-m-ecc]] [[scenario-labs-skills]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[kornia-kornia]] [[bregman-arie-devops-exercises]] [[flashml-org-freetoken]] [[anomalyco-hex]] [[cjpais-handy]]
+[[anomalyco-hex]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[nvidia-auto-ontology]] [[flashml-org-freetoken]]
 
 **所属领域**: [[data]]
 

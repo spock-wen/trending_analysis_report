@@ -34,7 +34,7 @@ Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translatio
 
 ## 相关项目
 
-[[jiafeimiao-k-cat-discimagestudio]] [[garrytan-gstack]] [[pingdotgg-t3code]] [[beenuar-aisoc]] [[spotify-portal-ai-plugins]]
+[[pingdotgg-t3code]] [[garrytan-gstack]] [[scenario-labs-skills]] [[nvidia-auto-ontology]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[image-gen]]
 

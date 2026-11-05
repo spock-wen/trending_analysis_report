@@ -34,7 +34,7 @@ real time face swap and one-click video deepfake with only a single image
 
 ## 相关项目
 
-[[jiafeimiao-k-cat-discimagestudio]] [[michaelcade-90daysofdevops]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[harry0703-moneyprinterturbo]]
+[[scenario-labs-skills]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[nvidia-auto-ontology]] [[usagi-org-ai-goofish-monitor]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

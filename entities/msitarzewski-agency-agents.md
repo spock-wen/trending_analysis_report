@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[garrytan-gstack]] [[obra-superpowers]] [[michaelcade-90daysofdevops]] [[d4vinci-scrapling]]
+[[lightpanda-io-browser]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

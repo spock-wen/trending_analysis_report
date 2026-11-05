@@ -37,5 +37,5 @@ Create stunning demos for free. Open-source, no subscriptions, no watermarks, an
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[spotify-portal-ai-plugins]] [[garrytan-gstack]]
+[[garrytan-gstack]] [[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[spotify-portal-ai-plugins]]
 

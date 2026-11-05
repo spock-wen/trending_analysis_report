@@ -35,7 +35,7 @@ Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
 
 ## 相关项目
 
-[[garrytan-gstack]] [[justvugg-colibri]] [[mattpocock-skills]] [[php-php-src]] [[harry0703-moneyprinterturbo]]
+[[lz4-lz4]] [[php-php-src]] [[garrytan-gstack]] [[justvugg-colibri]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]]
 

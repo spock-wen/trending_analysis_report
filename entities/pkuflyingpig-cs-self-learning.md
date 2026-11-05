@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[hkuds-deeptutor]] [[alchaincyf-huashu-design]] [[michaelcade-90daysofdevops]] [[cathrynlavery-diagram-design]]
+[[alchaincyf-huashu-design]] [[lightpanda-io-browser]] [[thu-maic-openmaic]] [[vercel-labs-agent-browser]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[web]] [[education]]
 

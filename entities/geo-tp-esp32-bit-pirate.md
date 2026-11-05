@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[hkuds-deeptutor]] [[michaelcade-90daysofdevops]] [[hyprwm-hyprland]] [[d4vinci-scrapling]]
+[[microsoft-bitnet]] [[lightpanda-io-browser]] [[tensorflow-tensorflow]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[web]] [[cli]]
 

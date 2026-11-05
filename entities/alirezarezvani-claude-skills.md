@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[obra-superpowers]] [[d4vinci-scrapling]]
+[[agricidaniel-claude-seo]] [[php-php-src]] [[garrytan-gstack]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[anomalyco-hex]] [[cjpais-handy]] [[vercel-labs-agent-desktop]]
+[[anomalyco-hex]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[vercel-labs-agent-desktop]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

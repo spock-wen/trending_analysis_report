@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[kornia-kornia]] [[garrytan-gstack]] [[justvugg-colibri]] [[bregman-arie-devops-exercises]] [[mattpocock-skills]]
+[[lz4-lz4]] [[php-php-src]] [[garrytan-gstack]] [[justvugg-colibri]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

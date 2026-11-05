@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[kornia-kornia]] [[k-dense-ai-scientific-agent-skills]] [[cloudflare-security-audit-skill]] [[garrytan-gstack]] [[nvidia-skillspector]]
+[[garrytan-gstack]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[k-dense-ai-scientific-agent-skills]] [[beenuar-aisoc]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

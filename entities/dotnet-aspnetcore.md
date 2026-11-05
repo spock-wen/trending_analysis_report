@@ -36,7 +36,7 @@ ASP.NET Core is a cross-platform .NET framework for building modern cloud-based 
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[jiafeimiao-k-cat-discimagestudio]] [[d4vinci-scrapling]] [[ntdevlabs-tiny11builder]] [[sonarr-sonarr]]
+[[k1tbyte-wand-enhancer]] [[lightpanda-io-browser]] [[sonarr-sonarr]] [[vercel-labs-agent-browser]] [[d4vinci-scrapling]]
 
 **所属领域**: [[web]]
 

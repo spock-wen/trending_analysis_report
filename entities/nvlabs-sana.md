@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[jiafeimiao-k-cat-discimagestudio]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[harry0703-moneyprinterturbo]] [[github-spec-kit]]
+[[scenario-labs-skills]] [[nvidia-auto-ontology]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[jiafeimiao-k-cat-discimagestudio]]
 
 **所属领域**: [[image-gen]]
 

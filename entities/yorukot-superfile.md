@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[juliusbrussee-caveman]]
+[[vxcontrol-pentagi]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[strelov1-freehire]] [[vercel-labs-agent-desktop]]
 
 **所属领域**: [[cli]]
 

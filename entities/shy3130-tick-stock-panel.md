@@ -34,7 +34,7 @@ TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 |
 
 ## 相关项目
 
-[[garrytan-gstack]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[github-spec-kit]]
+[[garrytan-gstack]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[mattpocock-skills]] [[google-skills]]
 
 **所属领域**: [[ai-agent]]
 

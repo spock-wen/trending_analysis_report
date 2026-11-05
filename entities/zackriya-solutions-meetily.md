@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[kornia-kornia]] [[cloudflare-security-audit-skill]] [[nvidia-skillspector]] [[cjpais-handy]] [[affaan-m-ecc]]
+[[lightpanda-io-browser]] [[garrytan-gstack]] [[anomalyco-hex]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

@@ -34,5 +34,5 @@ A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o
 
 ## 相关项目
 
-[[php-php-src]] [[justvugg-colibri]] [[epicgames-raddebugger]]
+[[lz4-lz4]] [[justvugg-colibri]] [[php-php-src]]
 

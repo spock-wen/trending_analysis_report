@@ -35,7 +35,7 @@ A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Opti
 
 ## 相关项目
 
-[[garrytan-gstack]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[github-spec-kit]]
+[[garrytan-gstack]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[mattpocock-skills]] [[google-skills]]
 
 **所属领域**: [[ai-agent]]
 

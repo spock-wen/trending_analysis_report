@@ -37,7 +37,7 @@ Build local voice agents with open-source models
 
 ## 相关项目
 
-[[garrytan-gstack]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[github-spec-kit]]
+[[garrytan-gstack]] [[scenario-labs-skills]] [[anomalyco-hex]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

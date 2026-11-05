@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[jiafeimiao-k-cat-discimagestudio]] [[garrytan-gstack]] [[pingdotgg-t3code]] [[beenuar-aisoc]] [[mattpocock-skills]]
+[[pingdotgg-t3code]] [[garrytan-gstack]] [[scenario-labs-skills]] [[nvidia-auto-ontology]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[michaelcade-90daysofdevops]] [[d4vinci-scrapling]] [[mattpocock-skills]] [[vercel-labs-agent-desktop]]
+[[lightpanda-io-browser]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]] [[conardli-garden-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

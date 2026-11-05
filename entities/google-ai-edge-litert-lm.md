@@ -37,7 +37,7 @@ No description
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[garrytan-gstack]] [[hyprwm-hyprland]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]]
+[[microsoft-bitnet]] [[tensorflow-tensorflow]] [[garrytan-gstack]] [[hyprwm-hyprland]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]]
 

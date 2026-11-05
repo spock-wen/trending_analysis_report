@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[php-php-src]]
+[[agricidaniel-claude-seo]] [[php-php-src]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

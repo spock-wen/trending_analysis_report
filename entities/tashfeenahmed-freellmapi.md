@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[garrytan-gstack]] [[nvidia-skillspector]] [[pingdotgg-t3code]] [[beenuar-aisoc]]
+[[pingdotgg-t3code]] [[garrytan-gstack]] [[affaan-m-ecc]] [[beenuar-aisoc]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

@@ -38,7 +38,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[pingdotgg-t3code]] [[mattpocock-skills]]
+[[pingdotgg-t3code]] [[garrytan-gstack]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

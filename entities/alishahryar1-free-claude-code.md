@@ -38,7 +38,7 @@ Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for fre
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]]
+[[lightpanda-io-browser]] [[garrytan-gstack]] [[scenario-labs-skills]] [[anomalyco-hex]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]] [[audio]]
 

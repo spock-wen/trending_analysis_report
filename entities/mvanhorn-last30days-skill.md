@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[hkuds-deeptutor]] [[garrytan-gstack]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]]
+[[lightpanda-io-browser]] [[garrytan-gstack]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

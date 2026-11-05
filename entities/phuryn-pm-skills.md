@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[thedotmack-claude-mem]]
+[[garrytan-gstack]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]] [[vercel-labs-agent-desktop]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

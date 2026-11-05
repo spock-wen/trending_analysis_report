@@ -38,5 +38,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
 
 ## 相关项目
 
-[[cjpais-handy]] [[anomalyco-hex]] [[vercel-labs-agent-desktop]] [[max-sixty-worktrunk]]
+[[anomalyco-hex]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[vercel-labs-agent-desktop]]
 

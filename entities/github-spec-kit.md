@@ -39,7 +39,7 @@ contested: true
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[nvidia-auto-ontology]]
+[[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[google-skills]] [[microsoft-vibevoice]]
 
 
 ## ⚠️ 描述变更（2026-11-05）

@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[alchaincyf-huashu-design]] [[garrytan-gstack]] [[cathrynlavery-diagram-design]] [[d4vinci-scrapling]]
+[[alchaincyf-huashu-design]] [[lightpanda-io-browser]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

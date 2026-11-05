@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[hkuds-deeptutor]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[d4vinci-scrapling]]
+[[lightpanda-io-browser]] [[thu-maic-openmaic]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

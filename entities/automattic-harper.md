@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[nvidia-skillspector]] [[beenuar-aisoc]] [[anomalyco-hex]] [[cjpais-handy]]
+[[anomalyco-hex]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[beenuar-aisoc]]
 
 **所属领域**: [[security]]
 

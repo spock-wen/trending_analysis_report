@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[garrytan-gstack]] [[obra-superpowers]] [[pingdotgg-t3code]] [[php-php-src]] [[spotify-portal-ai-plugins]]
+[[agricidaniel-claude-seo]] [[pingdotgg-t3code]] [[php-php-src]] [[garrytan-gstack]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[erp]]
 

@@ -38,5 +38,5 @@ Microsoft PowerToys is a collection of utilities that supercharge productivity a
 
 ## 相关项目
 
-[[fareedkhan-dev-kimi-k3-in-c]] [[php-php-src]] [[justvugg-colibri]] [[epicgames-raddebugger]]
+[[fareedkhan-dev-kimi-k3-in-c]] [[lz4-lz4]] [[justvugg-colibri]] [[php-php-src]]
 

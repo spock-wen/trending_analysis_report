@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[kornia-kornia]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[floci-io-floci]] [[checkstyle-checkstyle]]
+[[checkstyle-checkstyle]] [[yuliskov-smarttube]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

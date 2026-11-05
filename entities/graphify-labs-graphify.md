@@ -38,7 +38,7 @@ Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab
 
 ## 相关项目
 
-[[kornia-kornia]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]]
+[[garrytan-gstack]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[nvidia-auto-ontology]] [[usagi-org-ai-goofish-monitor]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

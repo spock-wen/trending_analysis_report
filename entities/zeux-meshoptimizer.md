@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[obra-superpowers]] [[hyprwm-hyprland]] [[php-php-src]] [[hugohe3-ppt-master]]
+[[microsoft-bitnet]] [[agricidaniel-claude-seo]] [[tensorflow-tensorflow]] [[php-php-src]] [[hyprwm-hyprland]]
 
 **所属领域**: [[erp]]
 

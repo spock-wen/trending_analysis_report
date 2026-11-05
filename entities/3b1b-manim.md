@@ -36,5 +36,5 @@ Animation engine for explanatory math videos
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[nvidia-auto-ontology]] [[github-spec-kit]]
+[[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[google-skills]] [[microsoft-vibevoice]]
 

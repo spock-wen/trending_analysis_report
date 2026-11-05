@@ -38,7 +38,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[jiafeimiao-k-cat-discimagestudio]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[harry0703-moneyprinterturbo]] [[github-spec-kit]]
+[[scenario-labs-skills]] [[nvidia-auto-ontology]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[jiafeimiao-k-cat-discimagestudio]]
 
 **所属领域**: [[image-gen]]
 

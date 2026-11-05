@@ -34,7 +34,7 @@ Training neural networks on Apple Neural Engine via reverse-engineered private A
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[mattpocock-skills]] [[garrytan-gstack]] [[harry0703-moneyprinterturbo]]
+[[mattpocock-skills]] [[d4vinci-scrapling]] [[google-skills]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]]
 

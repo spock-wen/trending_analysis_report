@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[k-dense-ai-scientific-agent-skills]] [[michaelcade-90daysofdevops]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]]
+[[thu-maic-openmaic]] [[affaan-m-ecc]] [[xiaolai-the-craft-of-selfteaching]] [[k-dense-ai-scientific-agent-skills]] [[usagi-org-ai-goofish-monitor]]
 
 **所属领域**: [[education]] [[science]]
 

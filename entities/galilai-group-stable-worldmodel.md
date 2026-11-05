@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[jiafeimiao-k-cat-discimagestudio]] [[garrytan-gstack]] [[d4vinci-scrapling]] [[beenuar-aisoc]]
+[[garrytan-gstack]] [[scenario-labs-skills]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

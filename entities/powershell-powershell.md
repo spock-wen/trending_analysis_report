@@ -34,7 +34,7 @@ PowerShell for every system!
 
 ## 相关项目
 
-[[jiafeimiao-k-cat-discimagestudio]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[ntdevlabs-tiny11builder]] [[sonarr-sonarr]]
+[[k1tbyte-wand-enhancer]] [[sonarr-sonarr]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[jiafeimiao-k-cat-discimagestudio]]
 
 **所属领域**: [[cli]]
 

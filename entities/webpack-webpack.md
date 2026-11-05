@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[cloudflare-security-audit-skill]] [[jiafeimiao-k-cat-discimagestudio]] [[d4vinci-scrapling]] [[beenuar-aisoc]]
+[[hmjz100-linkswift]] [[lightpanda-io-browser]] [[scenario-labs-skills]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[web]] [[image-gen]]
 

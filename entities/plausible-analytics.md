@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[kornia-kornia]] [[teslamate-org-teslamate]] [[hkuds-deeptutor]] [[cloudflare-security-audit-skill]] [[nvidia-skillspector]]
+[[agentjido-jido]] [[lightpanda-io-browser]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

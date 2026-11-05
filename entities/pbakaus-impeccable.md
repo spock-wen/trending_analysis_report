@@ -38,7 +38,7 @@ The design vocabulary for your coding agent. Steer with polish and bolder, revie
 
 ## 相关项目
 
-[[garrytan-gstack]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[anomalyco-hex]] [[cjpais-handy]]
+[[garrytan-gstack]] [[anomalyco-hex]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]]
 

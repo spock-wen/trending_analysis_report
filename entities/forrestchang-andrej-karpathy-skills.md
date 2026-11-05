@@ -38,7 +38,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[mattpocock-skills]] [[garrytan-gstack]] [[harry0703-moneyprinterturbo]]
+[[mattpocock-skills]] [[d4vinci-scrapling]] [[google-skills]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]]
 

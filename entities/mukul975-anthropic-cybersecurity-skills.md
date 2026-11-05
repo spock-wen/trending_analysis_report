@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[nvidia-skillspector]] [[d4vinci-scrapling]]
+[[garrytan-gstack]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[beenuar-aisoc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

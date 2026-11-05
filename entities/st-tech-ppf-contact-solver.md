@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[michaelcade-90daysofdevops]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]] [[github-spec-kit]]
+[[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[vercel-labs-agent-desktop]]
 
 **所属领域**: [[cli]]
 

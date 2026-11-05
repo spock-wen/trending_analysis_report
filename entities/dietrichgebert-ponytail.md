@@ -38,7 +38,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[garrytan-gstack]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[orkas-ai-orkas]]
+[[hmjz100-linkswift]] [[garrytan-gstack]] [[affaan-m-ecc]] [[d4vinci-scrapling]] [[conardli-garden-skills]]
 
 **所属领域**: [[ai-agent]]
 

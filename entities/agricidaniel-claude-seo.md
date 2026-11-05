@@ -34,7 +34,7 @@ Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering tech
 
 ## 相关项目
 
-[[kornia-kornia]] [[hkuds-deeptutor]] [[garrytan-gstack]] [[obra-superpowers]] [[d4vinci-scrapling]]
+[[lightpanda-io-browser]] [[php-php-src]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[erp]]
 

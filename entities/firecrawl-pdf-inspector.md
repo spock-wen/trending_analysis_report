@@ -38,5 +38,5 @@ Fast Rust library for PDF inspection, classification, and text extraction. Intel
 
 ## 相关项目
 
-[[cjpais-handy]] [[anomalyco-hex]] [[vercel-labs-agent-desktop]] [[max-sixty-worktrunk]]
+[[anomalyco-hex]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[vercel-labs-agent-desktop]]
 

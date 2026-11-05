@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]] [[garrytan-gstack]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]]
+[[garrytan-gstack]] [[bannedbook-fanqiang]] [[android-skills]] [[d4vinci-scrapling]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

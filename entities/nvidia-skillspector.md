@@ -38,7 +38,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[kornia-kornia]] [[cloudflare-security-audit-skill]] [[garrytan-gstack]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]]
+[[garrytan-gstack]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[beenuar-aisoc]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]]
 

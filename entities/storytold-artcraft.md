@@ -38,5 +38,5 @@ ArtCraft is an intentional crafting engine for artists, designers, and filmmaker
 
 ## 相关项目
 
-[[cjpais-handy]] [[anomalyco-hex]] [[vercel-labs-agent-desktop]] [[max-sixty-worktrunk]]
+[[anomalyco-hex]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[vercel-labs-agent-desktop]]
 

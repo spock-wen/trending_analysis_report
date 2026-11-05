@@ -34,7 +34,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[kornia-kornia]] [[ruvnet-ruview]] [[usagi-org-ai-goofish-monitor]] [[affaan-m-ecc]] [[scenario-labs-skills]]
+[[garrytan-gstack]] [[scenario-labs-skills]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

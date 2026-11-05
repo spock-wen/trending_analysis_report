@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[garrytan-gstack]] [[d4vinci-scrapling]] [[mattpocock-skills]] [[github-spec-kit]] [[thedotmack-claude-mem]]
+[[garrytan-gstack]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[mattpocock-skills]] [[google-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[d4vinci-scrapling]] [[lightpanda-io-browser]] [[anomalyco-hex]] [[cjpais-handy]]
+[[lightpanda-io-browser]] [[anomalyco-hex]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]]
 
 **所属领域**: [[web]]
 

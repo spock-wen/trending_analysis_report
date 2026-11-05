@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[kornia-kornia]] [[hkuds-deeptutor]] [[garrytan-gstack]] [[pingdotgg-t3code]] [[d4vinci-scrapling]]
+[[pingdotgg-t3code]] [[lightpanda-io-browser]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[web]] [[data]]
 

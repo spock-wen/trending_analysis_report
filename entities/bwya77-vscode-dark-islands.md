@@ -34,7 +34,7 @@ VSCode theme based off the easemate IDE and Jetbrains islands theme
 
 ## 相关项目
 
-[[garrytan-gstack]] [[raphire-win11debloat]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[zhaoxuya520-reverse-skill]]
+[[garrytan-gstack]] [[actions-runner-images]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

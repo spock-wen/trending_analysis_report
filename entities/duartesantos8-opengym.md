@@ -36,7 +36,7 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 
 ## 相关项目
 
-[[kornia-kornia]] [[cloudflare-security-audit-skill]] [[garrytan-gstack]] [[bregman-arie-devops-exercises]] [[mattpocock-skills]]
+[[hmjz100-linkswift]] [[garrytan-gstack]] [[affaan-m-ecc]] [[nvidia-auto-ontology]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

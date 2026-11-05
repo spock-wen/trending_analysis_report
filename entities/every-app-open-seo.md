@@ -38,5 +38,5 @@ Open source alternative to Semrush and Ahrefs
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[spotify-portal-ai-plugins]] [[garrytan-gstack]]
+[[garrytan-gstack]] [[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[spotify-portal-ai-plugins]]
 

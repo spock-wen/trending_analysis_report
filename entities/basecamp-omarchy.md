@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[obra-superpowers]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[donchitos-claude-code-game-studios]] [[vercel-labs-agent-desktop]]
+[[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[michaelcade-90daysofdevops]] [[vercel-labs-agent-desktop]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

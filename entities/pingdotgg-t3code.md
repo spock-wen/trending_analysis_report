@@ -38,5 +38,5 @@ No description
 
 ## 相关项目
 
-[[thedotmack-claude-mem]] [[spotify-portal-ai-plugins]] [[garrytan-gstack]]
+[[garrytan-gstack]] [[thedotmack-claude-mem]] [[spotify-portal-ai-plugins]]
 

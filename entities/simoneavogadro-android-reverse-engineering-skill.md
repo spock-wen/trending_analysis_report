@@ -35,7 +35,7 @@ Claude Code skill to support Android app's reverse engineering
 
 ## 相关项目
 
-[[garrytan-gstack]] [[obra-superpowers]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]]
+[[garrytan-gstack]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

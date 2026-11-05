@@ -1,20 +1,20 @@
 ---
 title: "JiaFeiMiao-K-Cat/DiscImageStudio"
 created: 2026-11-05
-updated: 2026-11-05
-last_active: 2026-11-05
+updated: 2026-11-06
+last_active: 2026-11-06
 type: tool
 tags: [image-gen]
-sources: [raw/trending/2026-11-05.json]
-confidence: low
-trending_count_daily: 1
+sources: [raw/trending/2026-11-06.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-11-05
-last_trending: 2026-11-05
+last_trending: 2026-11-06
 peak_rank: 12
-total_stars: 6537
+total_stars: 7240
 language: "C#"
 ---
 
@@ -23,18 +23,19 @@ language: "C#"
 No description
 
 - 语言: C#
-- 上榜次数: 1 次
-- 连续上榜: 1 天
+- 上榜次数: 2 次
+- 连续上榜: 2 天
 - 最高排名: #12
 - 链接: [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
 
 ## 上榜历史
 
+  - 2026-11-06: #15, +977⭐
   - 2026-11-05: #12, +1792⭐
 
 ## 相关项目
 
-[[beenuar-aisoc]] [[ntdevlabs-tiny11builder]] [[sonarr-sonarr]] [[k1tbyte-wand-enhancer]] [[nvidia-auto-ontology]]
+[[k1tbyte-wand-enhancer]] [[scenario-labs-skills]] [[sonarr-sonarr]] [[nvidia-auto-ontology]] [[conardli-garden-skills]]
 
 **所属领域**: [[image-gen]]
 

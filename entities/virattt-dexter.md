@@ -38,7 +38,7 @@ An autonomous agent for deep financial research
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[garrytan-gstack]] [[pingdotgg-t3code]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]]
+[[pingdotgg-t3code]] [[garrytan-gstack]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[kornia-kornia]] [[michaelcade-90daysofdevops]] [[floci-io-floci]] [[checkstyle-checkstyle]] [[bregman-arie-devops-exercises]]
+[[checkstyle-checkstyle]] [[ruvnet-ruview]] [[yuliskov-smarttube]] [[nvidia-auto-ontology]] [[floci-io-floci]]
 
 **所属领域**: [[data]] [[devops]]
 

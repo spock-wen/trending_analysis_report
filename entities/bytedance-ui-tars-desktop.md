@@ -37,7 +37,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[pingdotgg-t3code]] [[bregman-arie-devops-exercises]] [[mattpocock-skills]]
+[[pingdotgg-t3code]] [[ruvnet-ruview]] [[garrytan-gstack]] [[thedotmack-claude-mem]] [[usagi-org-ai-goofish-monitor]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

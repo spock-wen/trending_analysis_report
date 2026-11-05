@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[kornia-kornia]] [[hkuds-deeptutor]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[d4vinci-scrapling]]
+[[ruvnet-ruview]] [[lightpanda-io-browser]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

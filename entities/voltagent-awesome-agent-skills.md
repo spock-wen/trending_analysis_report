@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[thedotmack-claude-mem]]
+[[garrytan-gstack]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]] [[vercel-labs-agent-desktop]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

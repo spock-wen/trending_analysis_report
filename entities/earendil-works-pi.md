@@ -38,7 +38,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
 ## 相关项目
 
-[[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[pingdotgg-t3code]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]]
+[[pingdotgg-t3code]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

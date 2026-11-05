@@ -36,7 +36,7 @@ Open Source AI trading agent that operates autonomously across 1000+ markets - P
 
 ## 相关项目
 
-[[garrytan-gstack]] [[obra-superpowers]] [[pingdotgg-t3code]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]]
+[[agricidaniel-claude-seo]] [[pingdotgg-t3code]] [[php-php-src]] [[garrytan-gstack]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

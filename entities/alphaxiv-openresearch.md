@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[garrytan-gstack]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[paperclipai-paperclip]]
+[[garrytan-gstack]] [[anomalyco-hex]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

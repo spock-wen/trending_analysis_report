@@ -38,7 +38,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[cloudflare-security-audit-skill]] [[obra-superpowers]] [[nvidia-skillspector]] [[d4vinci-scrapling]]
+[[agricidaniel-claude-seo]] [[lightpanda-io-browser]] [[php-php-src]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

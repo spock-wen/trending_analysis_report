@@ -38,7 +38,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[harry0703-moneyprinterturbo]]
+[[ruvnet-ruview]] [[garrytan-gstack]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

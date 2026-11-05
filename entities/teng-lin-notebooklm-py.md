@@ -35,7 +35,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]]
+[[lightpanda-io-browser]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[usagi-org-ai-goofish-monitor]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

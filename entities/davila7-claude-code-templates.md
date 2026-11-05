@@ -38,7 +38,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[harry0703-moneyprinterturbo]]
+[[ruvnet-ruview]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[usagi-org-ai-goofish-monitor]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

@@ -34,7 +34,7 @@ In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[xiaolai-the-craft-of-selfteaching]]
+[[garrytan-gstack]] [[xiaolai-the-craft-of-selfteaching]] [[lyogavin-airllm]] [[d4vinci-scrapling]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

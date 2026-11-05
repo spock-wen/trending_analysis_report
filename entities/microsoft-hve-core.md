@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[raphire-win11debloat]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[zhaoxuya520-reverse-skill]]
+[[garrytan-gstack]] [[actions-runner-images]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

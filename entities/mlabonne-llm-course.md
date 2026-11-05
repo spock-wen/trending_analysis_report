@@ -34,7 +34,7 @@ Course to get into Large Language Models (LLMs) with roadmaps and Colab notebook
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]]
+[[thu-maic-openmaic]] [[garrytan-gstack]] [[xiaolai-the-craft-of-selfteaching]] [[d4vinci-scrapling]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[garrytan-gstack]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]]
+[[lightpanda-io-browser]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

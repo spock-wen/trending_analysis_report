@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[jiafeimiao-k-cat-discimagestudio]] [[garrytan-gstack]] [[pingdotgg-t3code]] [[beenuar-aisoc]] [[mattpocock-skills]]
+[[pingdotgg-t3code]] [[garrytan-gstack]] [[scenario-labs-skills]] [[nvidia-auto-ontology]] [[thedotmack-claude-mem]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

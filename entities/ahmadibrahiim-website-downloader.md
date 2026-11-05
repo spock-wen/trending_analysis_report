@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[jiafeimiao-k-cat-discimagestudio]] [[alchaincyf-huashu-design]] [[cathrynlavery-diagram-design]] [[d4vinci-scrapling]]
+[[alchaincyf-huashu-design]] [[lightpanda-io-browser]] [[scenario-labs-skills]] [[vercel-labs-agent-browser]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[web]] [[image-gen]]
 

@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[garrytan-gstack]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[orkas-ai-orkas]]
+[[hmjz100-linkswift]] [[garrytan-gstack]] [[affaan-m-ecc]] [[d4vinci-scrapling]] [[conardli-garden-skills]]
 
 **所属领域**: [[ai-agent]]
 

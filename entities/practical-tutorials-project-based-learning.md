@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[michaelcade-90daysofdevops]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[xiaolai-the-craft-of-selfteaching]]
+[[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[education]]
 

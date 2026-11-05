@@ -35,7 +35,7 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[k-dense-ai-scientific-agent-skills]] [[garrytan-gstack]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]]
+[[garrytan-gstack]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

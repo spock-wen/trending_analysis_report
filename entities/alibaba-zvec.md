@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[kornia-kornia]] [[microsoft-bitnet]] [[hyprwm-hyprland]] [[bregman-arie-devops-exercises]] [[flashml-org-freetoken]]
+[[microsoft-bitnet]] [[tensorflow-tensorflow]] [[nvidia-auto-ontology]] [[hyprwm-hyprland]] [[flashml-org-freetoken]]
 
 **所属领域**: [[data]]
 

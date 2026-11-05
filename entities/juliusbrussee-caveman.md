@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[alibaba-open-code-review]] [[garrytan-gstack]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]]
+[[vxcontrol-pentagi]] [[garrytan-gstack]] [[d4vinci-scrapling]] [[strelov1-freehire]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

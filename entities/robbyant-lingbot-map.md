@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[kornia-kornia]] [[k-dense-ai-scientific-agent-skills]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[harry0703-moneyprinterturbo]]
+[[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[nvidia-auto-ontology]] [[usagi-org-ai-goofish-monitor]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[data]] [[science]]
 

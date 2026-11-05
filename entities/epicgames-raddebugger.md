@@ -35,5 +35,5 @@ A native, user-mode, multi-process, graphical debugger.
 
 ## 相关项目
 
-[[fareedkhan-dev-kimi-k3-in-c]] [[php-php-src]] [[justvugg-colibri]]
+[[fareedkhan-dev-kimi-k3-in-c]] [[lz4-lz4]] [[justvugg-colibri]] [[php-php-src]]
 

@@ -35,7 +35,7 @@ Apache Ossie, industry wide specification effort to standardize how we exchange 
 
 ## 相关项目
 
-[[kornia-kornia]] [[garrytan-gstack]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[harry0703-moneyprinterturbo]]
+[[garrytan-gstack]] [[nvidia-auto-ontology]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[flashml-org-freetoken]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[jiafeimiao-k-cat-discimagestudio]] [[garrytan-gstack]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[harry0703-moneyprinterturbo]]
+[[garrytan-gstack]] [[scenario-labs-skills]] [[anomalyco-hex]] [[nvidia-auto-ontology]] [[usagi-org-ai-goofish-monitor]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

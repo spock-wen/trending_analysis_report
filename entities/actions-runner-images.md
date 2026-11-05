@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[jiafeimiao-k-cat-discimagestudio]] [[raphire-win11debloat]] [[michaelcade-90daysofdevops]] [[beenuar-aisoc]] [[mattpocock-skills]]
+[[scenario-labs-skills]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[nvidia-auto-ontology]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

@@ -38,7 +38,7 @@ Vibe code with pi in a lightweight, real IDE that customises itself around the w
 
 ## 相关项目
 
-[[garrytan-gstack]] [[pingdotgg-t3code]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[spotify-portal-ai-plugins]]
+[[pingdotgg-t3code]] [[garrytan-gstack]] [[thedotmack-claude-mem]] [[d4vinci-scrapling]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

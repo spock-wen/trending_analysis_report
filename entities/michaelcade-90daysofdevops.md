@@ -34,7 +34,7 @@ This repository started out as a learning in public project for myself and has n
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[obra-superpowers]] [[bregman-arie-devops-exercises]] [[mattpocock-skills]] [[ruvnet-ruview]]
+[[ruvnet-ruview]] [[thu-maic-openmaic]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[cli]] [[devops]] [[education]]
 

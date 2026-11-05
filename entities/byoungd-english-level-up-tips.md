@@ -38,7 +38,7 @@ An advanced guide to learn English which might benefit you a lot 🎉 . 人生�
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[michaelcade-90daysofdevops]] [[thu-maic-openmaic]]
+[[patchy631-ai-engineering-hub]] [[michaelcade-90daysofdevops]] [[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[education]]
 

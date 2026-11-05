@@ -35,5 +35,5 @@ A self-hosted travel/trip planner with real-time collaboration, interactive maps
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[spotify-portal-ai-plugins]] [[garrytan-gstack]]
+[[garrytan-gstack]] [[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[spotify-portal-ai-plugins]]
 

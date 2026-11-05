@@ -34,7 +34,7 @@ AutoClip : AI-powered video clipping and highlight generation · 一款智能高
 
 ## 相关项目
 
-[[jiafeimiao-k-cat-discimagestudio]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[d4vinci-scrapling]] [[beenuar-aisoc]]
+[[garrytan-gstack]] [[scenario-labs-skills]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[image-gen]]
 

@@ -36,5 +36,5 @@ Unofficial Bitwarden compatible server written in Rust, formerly known as bitwar
 
 ## 相关项目
 
-[[cjpais-handy]] [[anomalyco-hex]] [[vercel-labs-agent-desktop]] [[max-sixty-worktrunk]]
+[[anomalyco-hex]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[vercel-labs-agent-desktop]]
 

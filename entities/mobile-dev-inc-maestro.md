@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[hkuds-deeptutor]] [[mahlernim-google-timeline-visualizer]] [[garrytan-gstack]] [[d4vinci-scrapling]]
+[[lightpanda-io-browser]] [[garrytan-gstack]] [[bannedbook-fanqiang]] [[android-skills]] [[embabel-embabel-agent]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

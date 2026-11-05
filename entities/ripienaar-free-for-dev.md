@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[alchaincyf-huashu-design]] [[michaelcade-90daysofdevops]] [[cathrynlavery-diagram-design]] [[d4vinci-scrapling]]
+[[alchaincyf-huashu-design]] [[ruvnet-ruview]] [[lightpanda-io-browser]] [[vercel-labs-agent-browser]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[devops]]
 

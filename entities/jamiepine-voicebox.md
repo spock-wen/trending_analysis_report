@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[garrytan-gstack]] [[pingdotgg-t3code]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[spotify-portal-ai-plugins]]
+[[pingdotgg-t3code]] [[garrytan-gstack]] [[scenario-labs-skills]] [[anomalyco-hex]] [[microsoft-vibevoice]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

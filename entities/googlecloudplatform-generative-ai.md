@@ -36,7 +36,7 @@ Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vert
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[lyogavin-airllm]] [[garrytan-gstack]] [[xiaolai-the-craft-of-selfteaching]] [[mattpocock-skills]]
+[[garrytan-gstack]] [[xiaolai-the-craft-of-selfteaching]] [[lyogavin-airllm]] [[d4vinci-scrapling]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

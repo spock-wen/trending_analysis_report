@@ -1,0 +1,143 @@
+{
+  "date": "2026-11-06",
+  "scraped_at": "2026-11-06T07:00:49.533756",
+  "period": "daily",
+  "count": 15,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "language": "Python",
+      "stars_today": 2707,
+      "total_stars": 7223,
+      "url": "https://github.com/NVIDIA/auto-ontology"
+    },
+    {
+      "rank": 2,
+      "repo": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": 2053,
+      "total_stars": 315133,
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "rank": 3,
+      "repo": "garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "stars_today": 608,
+      "total_stars": 139921,
+      "url": "https://github.com/garrytan/gstack"
+    },
+    {
+      "rank": 4,
+      "repo": "Usagi-org/ai-goofish-monitor",
+      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "language": "Python",
+      "stars_today": 242,
+      "total_stars": 17495,
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor"
+    },
+    {
+      "rank": 5,
+      "repo": "D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "language": "Python",
+      "stars_today": 1661,
+      "total_stars": 97905,
+      "url": "https://github.com/D4Vinci/Scrapling"
+    },
+    {
+      "rank": 6,
+      "repo": "vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "language": "Rust",
+      "stars_today": 2173,
+      "total_stars": 16765,
+      "url": "https://github.com/vercel-labs/agent-desktop"
+    },
+    {
+      "rank": 7,
+      "repo": "max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "stars_today": 546,
+      "total_stars": 11487,
+      "url": "https://github.com/max-sixty/worktrunk"
+    },
+    {
+      "rank": 8,
+      "repo": "lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "stars_today": 16,
+      "total_stars": 12355,
+      "url": "https://github.com/lz4/lz4"
+    },
+    {
+      "rank": 9,
+      "repo": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars_today": 199,
+      "total_stars": 22339,
+      "url": "https://github.com/google/skills"
+    },
+    {
+      "rank": 10,
+      "repo": "vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars_today": 181,
+      "total_stars": 45840,
+      "url": "https://github.com/vercel-labs/agent-browser"
+    },
+    {
+      "rank": 11,
+      "repo": "scenario-labs/skills",
+      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+      "language": "Python",
+      "stars_today": 674,
+      "total_stars": 3014,
+      "url": "https://github.com/scenario-labs/skills"
+    },
+    {
+      "rank": 12,
+      "repo": "ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "language": "JavaScript",
+      "stars_today": 241,
+      "total_stars": 14105,
+      "url": "https://github.com/ConardLi/garden-skills"
+    },
+    {
+      "rank": 13,
+      "repo": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars_today": 214,
+      "total_stars": 55856,
+      "url": "https://github.com/microsoft/VibeVoice"
+    },
+    {
+      "rank": 14,
+      "repo": "floci-io/floci",
+      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "language": "Java",
+      "stars_today": 784,
+      "total_stars": 30368,
+      "url": "https://github.com/floci-io/floci"
+    },
+    {
+      "rank": 15,
+      "repo": "JiaFeiMiao-K-Cat/DiscImageStudio",
+      "description": "",
+      "language": "C#",
+      "stars_today": 977,
+      "total_stars": 7240,
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio"
+    }
+  ]
+}

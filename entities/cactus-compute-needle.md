@@ -38,5 +38,5 @@ Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, struct
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[nvidia-auto-ontology]] [[github-spec-kit]]
+[[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[google-skills]] [[microsoft-vibevoice]]
 

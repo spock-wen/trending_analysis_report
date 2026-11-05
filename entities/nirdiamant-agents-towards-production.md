@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[lyogavin-airllm]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[obra-superpowers]]
+[[agricidaniel-claude-seo]] [[ruvnet-ruview]] [[thu-maic-openmaic]] [[php-php-src]] [[garrytan-gstack]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

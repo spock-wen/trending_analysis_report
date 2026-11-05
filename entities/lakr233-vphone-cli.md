@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[xtool-org-xtool]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[manaflow-ai-cmux]]
+[[manaflow-ai-cmux]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[vorssaint-vorssaint-utils]] [[abue-ammar-tinycast]]
 
 **所属领域**: [[cli]]
 

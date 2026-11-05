@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[jiafeimiao-k-cat-discimagestudio]] [[d4vinci-scrapling]] [[beenuar-aisoc]] [[harry0703-moneyprinterturbo]]
+[[lightpanda-io-browser]] [[scenario-labs-skills]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]] [[usagi-org-ai-goofish-monitor]]
 
 **所属领域**: [[web]] [[image-gen]]
 

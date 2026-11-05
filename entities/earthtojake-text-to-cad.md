@@ -38,7 +38,7 @@ Give your agent CAD superpowers.
 
 ## 相关项目
 
-[[garrytan-gstack]] [[obra-superpowers]] [[d4vinci-scrapling]] [[harry0703-moneyprinterturbo]] [[mattpocock-skills]]
+[[agricidaniel-claude-seo]] [[php-php-src]] [[garrytan-gstack]] [[usagi-org-ai-goofish-monitor]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

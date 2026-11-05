@@ -34,7 +34,7 @@ Miles is an enterprise-facing reinforcement learning framework for LLM and VLM p
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[obra-superpowers]] [[d4vinci-scrapling]]
+[[agricidaniel-claude-seo]] [[thu-maic-openmaic]] [[php-php-src]] [[garrytan-gstack]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[ai-agent]] [[education]] [[erp]]
 

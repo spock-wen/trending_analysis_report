@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[kornia-kornia]] [[garrytan-gstack]] [[michaelcade-90daysofdevops]] [[bregman-arie-devops-exercises]] [[mattpocock-skills]]
+[[garrytan-gstack]] [[anomalyco-hex]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

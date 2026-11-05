@@ -34,7 +34,7 @@ Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[xtool-org-xtool]] [[michaelcade-90daysofdevops]] [[bregman-arie-devops-exercises]] [[ruvnet-ruview]]
+[[ruvnet-ruview]] [[manaflow-ai-cmux]] [[bregman-arie-devops-exercises]] [[usagi-org-ai-goofish-monitor]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[devops]]
 

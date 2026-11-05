@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[garrytan-gstack]] [[mattpocock-skills]] [[harry0703-moneyprinterturbo]] [[thedotmack-claude-mem]]
+[[garrytan-gstack]] [[teslamate-org-teslamate]] [[d4vinci-scrapling]] [[mattpocock-skills]] [[google-skills]]
 
 **所属领域**: [[ai-agent]]
 

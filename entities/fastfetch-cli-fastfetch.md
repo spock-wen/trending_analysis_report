@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[garrytan-gstack]] [[justvugg-colibri]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[php-php-src]]
+[[lz4-lz4]] [[php-php-src]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[hkuds-deeptutor]] [[jiafeimiao-k-cat-discimagestudio]] [[garrytan-gstack]] [[pingdotgg-t3code]] [[d4vinci-scrapling]]
+[[pingdotgg-t3code]] [[lightpanda-io-browser]] [[garrytan-gstack]] [[scenario-labs-skills]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[web]] [[image-gen]]
 

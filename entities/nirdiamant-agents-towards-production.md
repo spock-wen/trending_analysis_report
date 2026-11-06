@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[ruvnet-ruview]] [[thu-maic-openmaic]] [[php-php-src]] [[garrytan-gstack]]
+[[higgsfield-ai-higgsfield]] [[thu-maic-openmaic]] [[bregman-arie-devops-exercises]] [[prometheus-prometheus]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

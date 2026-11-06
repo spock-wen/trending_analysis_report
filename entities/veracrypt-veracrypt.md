@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[lz4-lz4]] [[php-php-src]] [[affaan-m-ecc]] [[beenuar-aisoc]] [[justvugg-colibri]]
+[[mpv-player-mpv]] [[lz4-lz4]] [[openssl-openssl]] [[cloudflare-security-audit-skill]] [[fareedkhan-dev-kimi-k3-in-c]]
 
 **所属领域**: [[security]]
 

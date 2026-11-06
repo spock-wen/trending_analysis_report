@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[vorssaint-vorssaint-utils]] [[abue-ammar-tinycast]]
+[[xtool-org-xtool]] [[vorssaint-vorssaint-utils]] [[abue-ammar-tinycast]] [[mpv-player-mpv]] [[nushell-nushell]]
 
 **所属领域**: [[cli]]
 

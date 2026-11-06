@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[alchaincyf-huashu-design]] [[lightpanda-io-browser]] [[thu-maic-openmaic]] [[vercel-labs-agent-browser]] [[ripienaar-free-for-dev]]
+[[thu-maic-openmaic]] [[d4vinci-scrapling]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[web]] [[education]]
 

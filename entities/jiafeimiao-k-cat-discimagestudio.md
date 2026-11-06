@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[k1tbyte-wand-enhancer]] [[scenario-labs-skills]] [[sonarr-sonarr]] [[nvidia-auto-ontology]] [[conardli-garden-skills]]
+[[scenario-labs-skills]] [[nvidia-auto-ontology]] [[k1tbyte-wand-enhancer]] [[ntdevlabs-tiny11builder]] [[conardli-garden-skills]]
 
 **所属领域**: [[image-gen]]
 

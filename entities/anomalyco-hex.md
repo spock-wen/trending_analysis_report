@@ -35,7 +35,7 @@ Local voice dictation for mac, windows and linux
 
 ## 相关项目
 
-[[scenario-labs-skills]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[cjpais-handy]] [[vercel-labs-agent-desktop]]
+[[nushell-nushell]] [[scenario-labs-skills]] [[zed-industries-zed]] [[rust-lang-rust]] [[astral-sh-ruff]]
 
 **所属领域**: [[audio]]
 

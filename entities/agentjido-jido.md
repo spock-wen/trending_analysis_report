@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[garrytan-gstack]] [[teslamate-org-teslamate]] [[d4vinci-scrapling]] [[mattpocock-skills]] [[google-skills]]
+[[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]] [[teslamate-org-teslamate]] [[plausible-analytics]]
 
 **所属领域**: [[ai-agent]]
 

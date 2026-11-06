@@ -37,5 +37,5 @@ SpiderFoot automates OSINT for threat intelligence and mapping your attack surfa
 
 ## 相关项目
 
-[[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[google-skills]] [[microsoft-vibevoice]]
+[[d4vinci-scrapling]] [[microsoft-vibevoice]] [[google-skills]] [[nvidia-auto-ontology]]
 

@@ -35,5 +35,5 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## 相关项目
 
-[[garrytan-gstack]] [[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[spotify-portal-ai-plugins]]
+[[microsoft-vscode]] [[thedotmack-claude-mem]] [[angular-angular]] [[garrytan-gstack]]
 

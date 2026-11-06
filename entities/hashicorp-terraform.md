@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[ruvnet-ruview]] [[garrytan-gstack]] [[bregman-arie-devops-exercises]] [[usagi-org-ai-goofish-monitor]]
+[[bregman-arie-devops-exercises]] [[prometheus-prometheus]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[etcd-io-etcd]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

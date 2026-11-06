@@ -35,7 +35,7 @@ GLM-5: From Vibe Coding to Agentic Engineering
 
 ## 相关项目
 
-[[mattpocock-skills]] [[d4vinci-scrapling]] [[google-skills]] [[garrytan-gstack]]
+[[cloudflare-security-audit-skill]] [[mattpocock-skills]] [[google-skills]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]]
 

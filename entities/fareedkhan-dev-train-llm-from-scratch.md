@@ -37,7 +37,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[garrytan-gstack]] [[nvidia-auto-ontology]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[flashml-org-freetoken]]
+[[d4vinci-scrapling]] [[prometheus-prometheus]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

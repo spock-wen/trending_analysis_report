@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]] [[conardli-garden-skills]]
+[[d4vinci-scrapling]] [[nushell-nushell]] [[mpv-player-mpv]] [[angular-angular]] [[react-react]]
 
 **所属领域**: [[web]] [[cli]]
 

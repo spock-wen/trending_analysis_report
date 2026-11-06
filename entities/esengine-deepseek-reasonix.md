@@ -38,7 +38,7 @@ DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]]
+[[nushell-nushell]] [[prometheus-prometheus]] [[mpv-player-mpv]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

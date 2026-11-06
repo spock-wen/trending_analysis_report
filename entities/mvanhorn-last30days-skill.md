@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[garrytan-gstack]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]] [[k-dense-ai-scientific-agent-skills]]
+[[d4vinci-scrapling]] [[tauricresearch-tradingagents]] [[nvidia-auto-ontology]] [[angular-angular]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[yuliskov-smarttube]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]]
+[[nushell-nushell]] [[mpv-player-mpv]] [[floci-io-floci]] [[nvidia-auto-ontology]] [[prometheus-prometheus]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

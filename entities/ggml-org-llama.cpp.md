@@ -34,7 +34,7 @@ LLM inference in C/C++
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[tensorflow-tensorflow]] [[garrytan-gstack]] [[hyprwm-hyprland]] [[d4vinci-scrapling]]
+[[boykopovar-anyps5]] [[hyprwm-hyprland]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

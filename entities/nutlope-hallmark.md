@@ -38,7 +38,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[d4vinci-scrapling]] [[diolinux-photogimp]]
+[[d4vinci-scrapling]] [[nvidia-auto-ontology]] [[diolinux-photogimp]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

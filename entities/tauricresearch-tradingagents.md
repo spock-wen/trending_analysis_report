@@ -38,7 +38,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[garrytan-gstack]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]]
+[[d4vinci-scrapling]] [[nvidia-auto-ontology]] [[paperclipai-paperclip]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -38,7 +38,7 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[garrytan-gstack]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]]
+[[d4vinci-scrapling]] [[tauricresearch-tradingagents]] [[nvidia-auto-ontology]] [[paperclipai-paperclip]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

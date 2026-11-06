@@ -35,7 +35,7 @@ A smarter, self-hosted AI assistant — multi-user, multi-agent.
 
 ## 相关项目
 
-[[garrytan-gstack]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[mattpocock-skills]] [[google-skills]]
+[[d4vinci-scrapling]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]] [[microsoft-vibevoice]]
 
 **所属领域**: [[ai-agent]]
 

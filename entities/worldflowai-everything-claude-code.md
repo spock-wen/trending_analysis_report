@@ -34,7 +34,7 @@ Claude Code toolkit - agents, commands, skills, rules, and hooks for productive 
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[garrytan-gstack]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]]
+[[nushell-nushell]] [[mpv-player-mpv]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[react-react]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

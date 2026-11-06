@@ -39,7 +39,7 @@ contested: true
 
 ## 相关项目
 
-[[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[google-skills]] [[microsoft-vibevoice]]
+[[d4vinci-scrapling]] [[microsoft-vibevoice]] [[google-skills]] [[nvidia-auto-ontology]]
 
 
 ## ⚠️ 描述变更（2026-11-05）

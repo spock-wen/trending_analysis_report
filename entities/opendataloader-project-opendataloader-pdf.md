@@ -38,7 +38,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[yuliskov-smarttube]] [[garrytan-gstack]] [[floci-io-floci]] [[nvidia-auto-ontology]]
+[[prometheus-prometheus]] [[floci-io-floci]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

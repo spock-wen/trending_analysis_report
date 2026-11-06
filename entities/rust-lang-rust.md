@@ -1,20 +1,20 @@
 ---
 title: "rust-lang/rust"
 created: 2026-10-15
-updated: 2026-10-15
-last_active: 2026-10-15
+updated: 2026-11-07
+last_active: 2026-11-07
 type: tool
 tags: [rust]
-sources: [raw/trending/2026-10-15.json]
-confidence: low
-trending_count_daily: 1
+sources: [raw/trending/2026-11-07.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-10-15
-last_trending: 2026-10-15
-peak_rank: 9
-total_stars: 119992
+last_trending: 2026-11-07
+peak_rank: 5
+total_stars: 121420
 language: "Rust"
 ---
 
@@ -23,16 +23,17 @@ language: "Rust"
 Empowering everyone to build reliable and efficient software.
 
 - 语言: Rust
-- 上榜次数: 1 次
+- 上榜次数: 2 次
 - 连续上榜: 1 天
-- 最高排名: #9
+- 最高排名: #5
 - 链接: [rust-lang/rust](https://github.com/rust-lang/rust)
 
 ## 上榜历史
 
+  - 2026-11-07: #5, +186⭐
   - 2026-10-15: #9, +205⭐
 
 ## 相关项目
 
-[[anomalyco-hex]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[vercel-labs-agent-desktop]]
+[[astral-sh-ruff]] [[nushell-nushell]] [[zed-industries-zed]]
 

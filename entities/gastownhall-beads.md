@@ -35,7 +35,7 @@ Beads - A memory upgrade for your coding agent
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[garrytan-gstack]] [[d4vinci-scrapling]] [[strelov1-freehire]] [[google-skills]]
+[[prometheus-prometheus]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[etcd-io-etcd]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

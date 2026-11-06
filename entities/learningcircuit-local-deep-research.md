@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[garrytan-gstack]] [[affaan-m-ecc]] [[xiaolai-the-craft-of-selfteaching]] [[k-dense-ai-scientific-agent-skills]]
+[[thu-maic-openmaic]] [[d4vinci-scrapling]] [[xiaolai-the-craft-of-selfteaching]] [[nvidia-auto-ontology]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

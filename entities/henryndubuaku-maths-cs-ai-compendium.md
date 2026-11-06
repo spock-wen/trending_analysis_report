@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[garrytan-gstack]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[thedotmack-claude-mem]]
+[[microsoft-vscode]] [[garrytan-gstack]] [[tauricresearch-tradingagents]] [[angular-angular]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[lightpanda-io-browser]] [[vercel-labs-agent-browser]] [[d4vinci-scrapling]] [[strelov1-freehire]]
+[[d4vinci-scrapling]] [[prometheus-prometheus]] [[angular-angular]] [[etcd-io-etcd]] [[react-react]]
 
 **所属领域**: [[web]]
 

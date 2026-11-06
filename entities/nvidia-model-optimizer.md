@@ -36,7 +36,7 @@ A unified library of SOTA model optimization techniques like quantization, disti
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[thu-maic-openmaic]] [[garrytan-gstack]] [[xiaolai-the-craft-of-selfteaching]] [[usagi-org-ai-goofish-monitor]]
+[[thu-maic-openmaic]] [[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[prometheus-prometheus]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

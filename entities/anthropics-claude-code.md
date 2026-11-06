@@ -38,7 +38,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[thedotmack-claude-mem]]
+[[microsoft-vscode]] [[garrytan-gstack]] [[mpv-player-mpv]] [[angular-angular]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

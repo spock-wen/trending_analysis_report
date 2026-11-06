@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[scenario-labs-skills]] [[nvidia-auto-ontology]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[jiafeimiao-k-cat-discimagestudio]]
+[[d4vinci-scrapling]] [[scenario-labs-skills]] [[nvidia-auto-ontology]] [[microsoft-vibevoice]] [[conardli-garden-skills]]
 
 **所属领域**: [[image-gen]]
 

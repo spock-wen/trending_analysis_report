@@ -38,7 +38,7 @@ Coding agent for DeepSeek models that runs in your terminal
 
 ## 相关项目
 
-[[garrytan-gstack]] [[anomalyco-hex]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]]
+[[nushell-nushell]] [[mpv-player-mpv]] [[zed-industries-zed]] [[nvidia-auto-ontology]] [[rust-lang-rust]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

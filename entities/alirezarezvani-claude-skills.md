@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[php-php-src]] [[garrytan-gstack]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]]
+[[agricidaniel-claude-seo]] [[d4vinci-scrapling]] [[nushell-nushell]] [[mpv-player-mpv]] [[php-php-src]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

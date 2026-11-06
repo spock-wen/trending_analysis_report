@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[alchaincyf-huashu-design]] [[lightpanda-io-browser]] [[garrytan-gstack]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]]
+[[d4vinci-scrapling]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[tauricresearch-tradingagents]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[anomalyco-hex]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[usagi-org-ai-goofish-monitor]] [[michaelcade-90daysofdevops]]
+[[nushell-nushell]] [[prometheus-prometheus]] [[zed-industries-zed]] [[bregman-arie-devops-exercises]] [[rust-lang-rust]]
 
 **所属领域**: [[devops]]
 

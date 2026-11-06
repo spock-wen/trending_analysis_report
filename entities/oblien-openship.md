@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[ruvnet-ruview]] [[garrytan-gstack]] [[usagi-org-ai-goofish-monitor]] [[thedotmack-claude-mem]]
+[[microsoft-vscode]] [[prometheus-prometheus]] [[garrytan-gstack]] [[angular-angular]] [[bregman-arie-devops-exercises]]
 
 **所属领域**: [[devops]]
 

@@ -35,7 +35,7 @@ A collection of AI agent skills for working with Expo projects and Expo Applicat
 
 ## 相关项目
 
-[[garrytan-gstack]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]] [[michaelcade-90daysofdevops]]
+[[nushell-nushell]] [[mpv-player-mpv]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

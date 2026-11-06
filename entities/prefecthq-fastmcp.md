@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[garrytan-gstack]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]]
+[[d4vinci-scrapling]] [[nushell-nushell]] [[mpv-player-mpv]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

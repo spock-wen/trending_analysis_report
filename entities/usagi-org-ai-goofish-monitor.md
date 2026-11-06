@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[garrytan-gstack]] [[d4vinci-scrapling]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]]
+[[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[prometheus-prometheus]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

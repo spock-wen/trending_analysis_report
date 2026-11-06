@@ -38,7 +38,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[garrytan-gstack]] [[d4vinci-scrapling]] [[strelov1-freehire]] [[google-skills]] [[mattpocock-skills]]
+[[prometheus-prometheus]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[etcd-io-etcd]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

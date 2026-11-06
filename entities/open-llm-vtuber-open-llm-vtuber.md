@@ -37,7 +37,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[garrytan-gstack]] [[scenario-labs-skills]] [[anomalyco-hex]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]]
+[[d4vinci-scrapling]] [[scenario-labs-skills]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

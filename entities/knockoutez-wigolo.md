@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[lightpanda-io-browser]] [[garrytan-gstack]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]]
+[[d4vinci-scrapling]] [[microsoft-vscode]] [[garrytan-gstack]] [[tauricresearch-tradingagents]] [[angular-angular]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

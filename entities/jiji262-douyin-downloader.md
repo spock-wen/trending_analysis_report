@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]]
+[[d4vinci-scrapling]] [[prometheus-prometheus]] [[angular-angular]] [[nvidia-auto-ontology]] [[react-react]]
 
 **所属领域**: [[web]] [[data]]
 

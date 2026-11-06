@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[garrytan-gstack]] [[anomalyco-hex]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]]
+[[d4vinci-scrapling]] [[nushell-nushell]] [[prometheus-prometheus]] [[zed-industries-zed]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

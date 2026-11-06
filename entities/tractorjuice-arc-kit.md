@@ -34,7 +34,7 @@ Enterprise Architecture Governance & Vendor Procurement Toolkit
 
 ## 相关项目
 
-[[alchaincyf-huashu-design]] [[agricidaniel-claude-seo]] [[lightpanda-io-browser]] [[php-php-src]] [[vercel-labs-agent-browser]]
+[[agricidaniel-claude-seo]] [[d4vinci-scrapling]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[php-php-src]]
 
 **所属领域**: [[web]] [[erp]]
 

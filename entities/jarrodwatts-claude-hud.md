@@ -37,7 +37,7 @@ A Claude Code plugin that shows what's happening - context usage, active tools, 
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[garrytan-gstack]] [[affaan-m-ecc]] [[scenario-labs-skills]] [[anomalyco-hex]]
+[[scenario-labs-skills]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[react-react]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

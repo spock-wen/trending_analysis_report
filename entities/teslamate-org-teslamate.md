@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[agentjido-jido]] [[garrytan-gstack]] [[nvidia-auto-ontology]] [[d4vinci-scrapling]] [[flashml-org-freetoken]]
+[[prometheus-prometheus]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]] [[etcd-io-etcd]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

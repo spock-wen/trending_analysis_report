@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[ruvnet-ruview]] [[garrytan-gstack]] [[nvidia-auto-ontology]] [[thedotmack-claude-mem]]
+[[microsoft-vscode]] [[garrytan-gstack]] [[prometheus-prometheus]] [[nvidia-auto-ontology]] [[angular-angular]]
 
 **所属领域**: [[data]] [[devops]]
 

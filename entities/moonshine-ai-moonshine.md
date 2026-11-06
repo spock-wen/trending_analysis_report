@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[tensorflow-tensorflow]] [[garrytan-gstack]] [[scenario-labs-skills]] [[anomalyco-hex]]
+[[boykopovar-anyps5]] [[hyprwm-hyprland]] [[scenario-labs-skills]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

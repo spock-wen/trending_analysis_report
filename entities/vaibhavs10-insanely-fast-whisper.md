@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[garrytan-gstack]] [[xiaolai-the-craft-of-selfteaching]] [[lyogavin-airllm]] [[d4vinci-scrapling]] [[mattpocock-skills]]
+[[higgsfield-ai-higgsfield]] [[xiaolai-the-craft-of-selfteaching]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[beenuar-aisoc]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[nvidia-skillspector]]
+[[d4vinci-scrapling]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[microsoft-vibevoice]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

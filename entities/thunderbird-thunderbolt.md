@@ -34,7 +34,7 @@ AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[garrytan-gstack]] [[nvidia-auto-ontology]] [[thedotmack-claude-mem]] [[d4vinci-scrapling]]
+[[microsoft-vscode]] [[garrytan-gstack]] [[prometheus-prometheus]] [[angular-angular]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

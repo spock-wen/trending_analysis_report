@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[lz4-lz4]] [[php-php-src]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]]
+[[nushell-nushell]] [[mpv-player-mpv]] [[lz4-lz4]] [[nvidia-auto-ontology]] [[openssl-openssl]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

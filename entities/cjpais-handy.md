@@ -34,7 +34,7 @@ A free, open source, and extensible speech-to-text application that works comple
 
 ## 相关项目
 
-[[garrytan-gstack]] [[anomalyco-hex]] [[scenario-labs-skills]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]]
+[[nushell-nushell]] [[scenario-labs-skills]] [[zed-industries-zed]] [[nvidia-auto-ontology]] [[rust-lang-rust]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

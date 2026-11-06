@@ -35,7 +35,7 @@ The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[php-php-src]] [[garrytan-gstack]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]]
+[[agricidaniel-claude-seo]] [[d4vinci-scrapling]] [[php-php-src]] [[nvidia-auto-ontology]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

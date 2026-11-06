@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[strelov1-freehire]] [[vercel-labs-agent-desktop]]
+[[nushell-nushell]] [[prometheus-prometheus]] [[mpv-player-mpv]] [[etcd-io-etcd]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

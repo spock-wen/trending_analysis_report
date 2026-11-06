@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[lightpanda-io-browser]] [[garrytan-gstack]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]]
+[[d4vinci-scrapling]] [[prometheus-prometheus]] [[nvidia-auto-ontology]] [[angular-angular]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

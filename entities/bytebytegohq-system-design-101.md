@@ -35,7 +35,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[mattpocock-skills]] [[d4vinci-scrapling]] [[google-skills]] [[garrytan-gstack]]
+[[cloudflare-security-audit-skill]] [[mattpocock-skills]] [[google-skills]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]]
 

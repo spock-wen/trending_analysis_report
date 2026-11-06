@@ -34,5 +34,5 @@ C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[tensorflow-tensorflow]] [[boykopovar-anyps5]] [[hyprwm-hyprland]]
+[[boykopovar-anyps5]] [[microsoft-bitnet]] [[hyprwm-hyprland]] [[tensorflow-tensorflow]]
 

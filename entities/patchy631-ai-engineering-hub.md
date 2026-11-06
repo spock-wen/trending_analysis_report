@@ -34,7 +34,7 @@ In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
 ## 相关项目
 
-[[garrytan-gstack]] [[xiaolai-the-craft-of-selfteaching]] [[lyogavin-airllm]] [[d4vinci-scrapling]] [[michaelcade-90daysofdevops]]
+[[higgsfield-ai-higgsfield]] [[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

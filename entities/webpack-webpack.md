@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[lightpanda-io-browser]] [[scenario-labs-skills]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]]
+[[d4vinci-scrapling]] [[scenario-labs-skills]] [[angular-angular]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[web]] [[image-gen]]
 

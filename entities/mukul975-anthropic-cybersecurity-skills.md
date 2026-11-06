@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[garrytan-gstack]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[beenuar-aisoc]]
+[[d4vinci-scrapling]] [[nushell-nushell]] [[mpv-player-mpv]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

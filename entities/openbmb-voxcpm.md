@@ -38,7 +38,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[scenario-labs-skills]] [[anomalyco-hex]] [[nvidia-auto-ontology]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]]
+[[d4vinci-scrapling]] [[scenario-labs-skills]] [[nvidia-auto-ontology]] [[microsoft-vibevoice]] [[conardli-garden-skills]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

@@ -37,7 +37,7 @@ Open source Ghostty-based macOS terminal with vertical tabs and notifications fo
 
 ## 相关项目
 
-[[garrytan-gstack]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]] [[vorssaint-vorssaint-utils]]
+[[xtool-org-xtool]] [[vorssaint-vorssaint-utils]] [[abue-ammar-tinycast]] [[nvidia-auto-ontology]] [[mpv-player-mpv]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

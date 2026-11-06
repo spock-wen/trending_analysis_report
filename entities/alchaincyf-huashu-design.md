@@ -34,7 +34,7 @@ Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网�
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]]
+[[d4vinci-scrapling]] [[ripienaar-free-for-dev]] [[nvidia-auto-ontology]] [[angular-angular]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

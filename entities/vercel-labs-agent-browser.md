@@ -34,7 +34,7 @@ Browser automation CLI for AI agents
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[garrytan-gstack]] [[anomalyco-hex]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]]
+[[d4vinci-scrapling]] [[nushell-nushell]] [[mpv-player-mpv]] [[zed-industries-zed]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

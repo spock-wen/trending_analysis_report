@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[flashml-org-freetoken]] [[kornia-kornia]]
+[[d4vinci-scrapling]] [[prometheus-prometheus]] [[nvidia-auto-ontology]] [[etcd-io-etcd]] [[kornia-kornia]]
 
 **所属领域**: [[data]]
 

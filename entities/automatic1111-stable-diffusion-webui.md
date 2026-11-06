@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[scenario-labs-skills]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]] [[usagi-org-ai-goofish-monitor]]
+[[d4vinci-scrapling]] [[scenario-labs-skills]] [[angular-angular]] [[nvidia-auto-ontology]] [[react-react]]
 
 **所属领域**: [[web]] [[image-gen]]
 

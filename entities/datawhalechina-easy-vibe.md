@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[thu-maic-openmaic]] [[affaan-m-ecc]] [[xiaolai-the-craft-of-selfteaching]] [[nvidia-auto-ontology]]
+[[thu-maic-openmaic]] [[prometheus-prometheus]] [[xiaolai-the-craft-of-selfteaching]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[data]] [[education]]
 

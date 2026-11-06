@@ -37,7 +37,7 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[garrytan-gstack]] [[thedotmack-claude-mem]] [[d4vinci-scrapling]] [[mattpocock-skills]]
+[[microsoft-vscode]] [[garrytan-gstack]] [[angular-angular]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]]
 

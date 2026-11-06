@@ -35,7 +35,7 @@ OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换�
 
 ## 相关项目
 
-[[garrytan-gstack]] [[anomalyco-hex]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]]
+[[nushell-nushell]] [[mpv-player-mpv]] [[zed-industries-zed]] [[nvidia-auto-ontology]] [[rust-lang-rust]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

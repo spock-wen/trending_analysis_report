@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[scenario-labs-skills]] [[anomalyco-hex]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]]
+[[thu-maic-openmaic]] [[nushell-nushell]] [[mpv-player-mpv]] [[zed-industries-zed]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

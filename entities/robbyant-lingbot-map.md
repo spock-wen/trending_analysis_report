@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[nvidia-auto-ontology]] [[usagi-org-ai-goofish-monitor]] [[tauricresearch-tradingagents]]
+[[d4vinci-scrapling]] [[prometheus-prometheus]] [[tauricresearch-tradingagents]] [[nvidia-auto-ontology]] [[paperclipai-paperclip]]
 
 **所属领域**: [[data]] [[science]]
 

@@ -35,7 +35,7 @@ Switchyard lets LLM applications route traffic across models and providers while
 
 ## 相关项目
 
-[[garrytan-gstack]] [[anomalyco-hex]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]]
+[[nushell-nushell]] [[zed-industries-zed]] [[nvidia-auto-ontology]] [[rust-lang-rust]] [[astral-sh-ruff]]
 
 **所属领域**: [[ai-agent]]
 

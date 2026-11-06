@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[garrytan-gstack]] [[d4vinci-scrapling]] [[penpot-penpot]] [[mattpocock-skills]] [[google-skills]]
+[[penpot-penpot]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]] [[google-skills]]
 
 **所属领域**: [[ai-agent]]
 

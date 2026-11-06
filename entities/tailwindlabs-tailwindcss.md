@@ -35,7 +35,7 @@ A utility-first CSS framework for rapid UI development.
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[lightpanda-io-browser]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[thedotmack-claude-mem]]
+[[d4vinci-scrapling]] [[microsoft-vscode]] [[garrytan-gstack]] [[angular-angular]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[paperclipai-paperclip]]
+[[d4vinci-scrapling]] [[tauricresearch-tradingagents]] [[nvidia-auto-ontology]] [[paperclipai-paperclip]] [[microsoft-vibevoice]]
 
 **所属领域**: [[science]]
 

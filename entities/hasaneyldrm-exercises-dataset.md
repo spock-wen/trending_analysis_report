@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[alchaincyf-huashu-design]] [[lightpanda-io-browser]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[ripienaar-free-for-dev]]
+[[d4vinci-scrapling]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[prometheus-prometheus]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

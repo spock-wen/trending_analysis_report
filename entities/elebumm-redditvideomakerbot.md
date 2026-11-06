@@ -35,7 +35,7 @@ Create Reddit Videos with just✨ one command ✨
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[vercel-labs-agent-desktop]]
+[[d4vinci-scrapling]] [[nushell-nushell]] [[mpv-player-mpv]] [[nvidia-auto-ontology]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

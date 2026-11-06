@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[anomalyco-hex]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[vercel-labs-agent-desktop]] [[mattpocock-skills]]
+[[nushell-nushell]] [[mpv-player-mpv]] [[zed-industries-zed]] [[rust-lang-rust]] [[astral-sh-ruff]]
 
 **所属领域**: [[cli]]
 

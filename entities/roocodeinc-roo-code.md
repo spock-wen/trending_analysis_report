@@ -34,7 +34,7 @@ Roo Code gives you a whole dev team of AI agents in your code editor.
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[garrytan-gstack]] [[thedotmack-claude-mem]] [[d4vinci-scrapling]] [[mattpocock-skills]]
+[[microsoft-vscode]] [[garrytan-gstack]] [[angular-angular]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]]
 

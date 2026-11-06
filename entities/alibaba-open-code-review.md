@@ -38,7 +38,7 @@ Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[garrytan-gstack]] [[nvidia-auto-ontology]] [[d4vinci-scrapling]] [[flashml-org-freetoken]]
+[[prometheus-prometheus]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[etcd-io-etcd]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

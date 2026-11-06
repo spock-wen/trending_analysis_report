@@ -34,7 +34,7 @@ A next.js web application that integrates AI capabilities with draw.io diagrams.
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[lightpanda-io-browser]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]]
+[[d4vinci-scrapling]] [[microsoft-vscode]] [[garrytan-gstack]] [[mpv-player-mpv]] [[angular-angular]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[alchaincyf-huashu-design]] [[lightpanda-io-browser]] [[vercel-labs-agent-browser]] [[ripienaar-free-for-dev]] [[max-sixty-worktrunk]]
+[[d4vinci-scrapling]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[mpv-player-mpv]] [[angular-angular]]
 
 **所属领域**: [[web]] [[cli]]
 

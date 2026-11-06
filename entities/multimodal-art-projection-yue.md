@@ -37,7 +37,7 @@ YuE2: frontier music generation with symbolic planning, zero-shot covers, and ag
 
 ## 相关项目
 
-[[garrytan-gstack]] [[scenario-labs-skills]] [[anomalyco-hex]] [[nvidia-auto-ontology]] [[usagi-org-ai-goofish-monitor]]
+[[d4vinci-scrapling]] [[scenario-labs-skills]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

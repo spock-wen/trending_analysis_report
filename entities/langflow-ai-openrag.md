@@ -36,7 +36,7 @@ OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo
 
 ## 相关项目
 
-[[garrytan-gstack]] [[scenario-labs-skills]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[nvidia-auto-ontology]]
+[[d4vinci-scrapling]] [[nushell-nushell]] [[mpv-player-mpv]] [[scenario-labs-skills]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[image-gen]]
 

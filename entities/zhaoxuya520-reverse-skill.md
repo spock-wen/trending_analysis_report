@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[garrytan-gstack]] [[actions-runner-images]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]]
+[[nushell-nushell]] [[mpv-player-mpv]] [[tauricresearch-tradingagents]] [[nvidia-auto-ontology]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

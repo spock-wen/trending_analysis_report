@@ -35,7 +35,7 @@ FreeToken brings datacenter-scale model serving to your desktop. Run massive mod
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[kornia-kornia]] [[bregman-arie-devops-exercises]]
+[[d4vinci-scrapling]] [[prometheus-prometheus]] [[nvidia-auto-ontology]] [[etcd-io-etcd]] [[kornia-kornia]]
 
 **所属领域**: [[data]]
 

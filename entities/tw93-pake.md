@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[anomalyco-hex]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]]
+[[d4vinci-scrapling]] [[nushell-nushell]] [[mpv-player-mpv]] [[zed-industries-zed]] [[angular-angular]]
 
 **所属领域**: [[web]] [[cli]]
 

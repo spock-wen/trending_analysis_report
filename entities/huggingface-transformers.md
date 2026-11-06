@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[garrytan-gstack]] [[scenario-labs-skills]] [[anomalyco-hex]] [[xiaolai-the-craft-of-selfteaching]]
+[[thu-maic-openmaic]] [[d4vinci-scrapling]] [[scenario-labs-skills]] [[xiaolai-the-craft-of-selfteaching]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

@@ -37,7 +37,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[lightpanda-io-browser]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[thedotmack-claude-mem]]
+[[d4vinci-scrapling]] [[microsoft-vscode]] [[garrytan-gstack]] [[angular-angular]] [[react-react]]
 
 **所属领域**: [[web]]
 

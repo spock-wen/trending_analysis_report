@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[tensorflow-tensorflow]] [[nvidia-auto-ontology]] [[hyprwm-hyprland]] [[flashml-org-freetoken]]
+[[boykopovar-anyps5]] [[hyprwm-hyprland]] [[prometheus-prometheus]] [[nvidia-auto-ontology]] [[etcd-io-etcd]]
 
 **所属领域**: [[data]]
 

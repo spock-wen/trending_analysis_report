@@ -35,7 +35,7 @@ Get production-ready images, video, audio, and 3D from any AI agent: skills that
 
 ## 相关项目
 
-[[garrytan-gstack]] [[anomalyco-hex]] [[nvidia-auto-ontology]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]]
+[[d4vinci-scrapling]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]] [[microsoft-vibevoice]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

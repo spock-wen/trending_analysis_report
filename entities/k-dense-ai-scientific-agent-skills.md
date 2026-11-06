@@ -38,7 +38,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ## 相关项目
 
-[[garrytan-gstack]] [[affaan-m-ecc]] [[nvidia-auto-ontology]] [[usagi-org-ai-goofish-monitor]] [[tauricresearch-tradingagents]]
+[[d4vinci-scrapling]] [[prometheus-prometheus]] [[tauricresearch-tradingagents]] [[nvidia-auto-ontology]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

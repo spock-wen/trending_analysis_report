@@ -34,7 +34,7 @@ This repository started out as a learning in public project for myself and has n
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[thu-maic-openmaic]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[xiaolai-the-craft-of-selfteaching]]
+[[thu-maic-openmaic]] [[nushell-nushell]] [[mpv-player-mpv]] [[prometheus-prometheus]] [[bregman-arie-devops-exercises]]
 
 **所属领域**: [[cli]] [[devops]] [[education]]
 

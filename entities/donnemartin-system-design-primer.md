@@ -36,7 +36,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[michaelcade-90daysofdevops]]
+[[thu-maic-openmaic]] [[d4vinci-scrapling]] [[xiaolai-the-craft-of-selfteaching]] [[nvidia-auto-ontology]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[education]]
 

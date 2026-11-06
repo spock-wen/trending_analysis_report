@@ -34,5 +34,5 @@ A set of beautifully-designed, accessible components and a code distribution pla
 
 ## 相关项目
 
-[[garrytan-gstack]] [[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[spotify-portal-ai-plugins]]
+[[microsoft-vscode]] [[thedotmack-claude-mem]] [[angular-angular]] [[garrytan-gstack]]
 

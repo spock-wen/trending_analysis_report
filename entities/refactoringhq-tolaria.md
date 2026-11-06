@@ -38,5 +38,5 @@ Desktop app to manage markdown knowledge bases
 
 ## 相关项目
 
-[[garrytan-gstack]] [[pingdotgg-t3code]] [[thedotmack-claude-mem]] [[spotify-portal-ai-plugins]]
+[[microsoft-vscode]] [[thedotmack-claude-mem]] [[angular-angular]] [[garrytan-gstack]]
 

@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[ruvnet-ruview]] [[garrytan-gstack]] [[thedotmack-claude-mem]] [[usagi-org-ai-goofish-monitor]]
+[[microsoft-vscode]] [[garrytan-gstack]] [[prometheus-prometheus]] [[angular-angular]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-11-06 | 总页面：873
+> 最后更新：2026-11-07 | 总页面：883
 
 ## Entities
 
@@ -97,6 +97,7 @@
 - [[armory3d-armorpaint|armorpaint]] — Graphics Creation Tools 🔥
 - [[arthurbrussee-brush|brush]] — 3D Reconstruction for all
 - [[asciimoo-hister|hister]] — Your own search engine 🆕
+- [[astral-sh-ruff|ruff]] — An extremely fast Python linter and code formatter, written ... 🆕
 - [[astrbotdevs-astrbot|AstrBot]] — AI Agent Assistant & development framework that integrates l... 🔥
 - [[augani-openreel-video|openreel-video]] — OpenReel Video - Professional browser-based video editor. Op...
 - [[automatic1111-stable-diffusion-webui|stable-diffusion-webui]] — Stable Diffusion web UI
@@ -166,7 +167,7 @@
 - [[cloudflare-cloudflare-os|cloudflare-os]] — Agent workspace built on Cloudflare Workers for creating doc...
 - [[cloudflare-computer|computer]] — Give your agent a computer 👾 🔥
 - [[cloudflare-quiche|quiche]] — 🥧 Savoury implementation of the QUIC transport protocol and ...
-- [[cloudflare-security-audit-skill|security-audit-skill]] — A coding-agent skill for multi-phase security audits with in... 🔥
+- [[cloudflare-security-audit-skill|security-audit-skill]] — A coding-agent skill for multi-phase security audits with in...
 - [[cloudflare-workerd|workerd]] — The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [[clshortfuse-renodx|renodx]] — Renovation Engine for DirectX Games
 - [[cocoindex-io-cocoindex|cocoindex]] — Incremental engine for long horizon agents 🌟 Star if you lik... 🆕
@@ -253,6 +254,7 @@
 - [[emmabostian-developer-portfolios|developer-portfolios]] — A list of developer portfolios for your inspiration
 - [[epicgames-raddebugger|raddebugger]] — A native, user-mode, multi-process, graphical debugger. 🆕
 - [[esengine-deepseek-reasonix|DeepSeek-Reasonix]] — DeepSeek-native AI coding agent for your terminal. Engineere... 🔥
+- [[etcd-io-etcd|etcd]] — Distributed reliable key-value store for the most critical d... 🆕
 - [[ever-co-ever-gauzy|ever-gauzy]] — Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HR... 🔥
 - [[every-app-open-seo|open-seo]] — Open source alternative to Semrush and Ahrefs 🔥
 - [[everyinc-compound-engineering-plugin|compound-engineering-plugin]] — Official Compound Engineering plugin for Claude Code, Codex,...
@@ -320,7 +322,7 @@
 - [[google-magika|magika]] — Fast and accurate AI powered file content types detection 🔥
 - [[google-osv-scanner|osv-scanner]] — Vulnerability scanner written in Go which uses the data prov...
 - [[google-research-timesfm|timesfm]] — TimesFM (Time Series Foundation Model) is a pretrained time-... 🔥
-- [[google-skills|skills]] — Agent Skills for Google products and technologies
+- [[google-skills|skills]] — Agent Skills for Google products and technologies 🆕
 - [[googlecloudplatform-generative-ai|generative-ai]] — Sample code and notebooks for Generative AI on Google Cloud,... 🆕
 - [[gorhill-ublock|uBlock]] — uBlock Origin - An efficient blocker for Chromium and Firefo...
 - [[gorvgoyl-clone-wars|Clone-Wars]] — 100+ open-source clones of popular sites like Airbnb, Amazon...
@@ -468,7 +470,7 @@
 - [[lum1104-understand-anything|Understand-Anything]] — Graphs that teach > graphs that impress. Turn any code into ... 🔥
 - [[luongnv89-claude-howto|claude-howto]] — A visual, example-driven guide to Claude Code — from basic c...
 - [[lyogavin-airllm|airllm]] — AirLLM 2.8T LLM inference with single 4GB GPU 🔥
-- [[lz4-lz4|lz4]] — Extremely Fast Compression algorithm 🆕
+- [[lz4-lz4|lz4]] — Extremely Fast Compression algorithm
 - [[m-abozaid-esp32-c3-adblock|esp32-c3-adblock]] — Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 53...
 - [[macro-inc-macro|macro]] — Macro is a unified workspace for teams: email, chat, docs, t...
 - [[maderix-ane|ANE]] — Training neural networks on Apple Neural Engine via reverse-...
@@ -534,6 +536,7 @@
 - [[moonshotai-kimi-cli|kimi-cli]] — Kimi Code CLI is your next CLI agent. 🔥
 - [[moontechlab-lunatv|LunaTV]] — 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 🆕
 - [[morluto-rea|rea]] — Reverse engineer anything with agents, from app behavior dow... 🔥
+- [[mpv-player-mpv|mpv]] — 🎥 Command line media player 🆕
 - [[msitarzewski-agency-agents|agency-agents]] — A complete AI agency at your fingertips - From frontend wiza...
 - [[mukul975-anthropic-cybersecurity-skills|Anthropic-Cybersecurity-Skills]] — 817 structured cybersecurity skills for AI agents · Mapped t... 🔥
 - [[multica-ai-andrej-karpathy-skills|andrej-karpathy-skills]] — A single CLAUDE.md file to improve Claude Code behavior, der...
@@ -559,10 +562,11 @@
 - [[nomadamas-k-skill|k-skill]] — 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로 🆕
 - [[nousresearch-hermes-agent|hermes-agent]] — The agent that grows with you 🔥
 - [[ntdevlabs-tiny11builder|tiny11builder]] — WinUI app for building smaller, customized Windows 11 images...
+- [[nushell-nushell|nushell]] — A new type of shell 🆕
 - [[nutlope-hallmark|hallmark]] — Anti-AI-slop design skill for Claude Code, Cursor, and Codex... 🔥
 - [[nuxt-nuxt|nuxt]] — the full-stack Vue framework
 - [[nvidia-ai-blueprints-video-search-and-summarization|video-search-and-summarization]] — Suite of reference architectures for building GPU-accelerate... 🆕
-- [[nvidia-auto-ontology|auto-ontology]] — Auto Ontology is a Python framework for building semantic, g... 🆕
+- [[nvidia-auto-ontology|auto-ontology]] — Auto Ontology is a Python framework for building semantic, g... 🔥
 - [[nvidia-cosmos|cosmos]] — NVIDIA Cosmos is an open platform of world models, datasets,... 🆕
 - [[nvidia-model-optimizer|Model-Optimizer]] — A unified library of SOTA model optimization techniques like... 🔥
 - [[nvidia-nemo-switchyard|Switchyard]] — Switchyard lets LLM applications route traffic across models... 🆕
@@ -600,6 +604,7 @@
 - [[opengeos-geolibre|GeoLibre]] — A lightweight, cloud-native GIS platform for visualizing, ex... 🔥
 - [[openinterpreter-openinterpreter|openinterpreter]] — A coding agent for open models like Kimi K3 🔥
 - [[openmoss-moss-tts|MOSS-TTS]] — MOSS‑TTS Family is an open‑source speech and sound generatio...
+- [[openssl-openssl|openssl]] — General purpose TLS and crypto library 🆕
 - [[opentoonz-opentoonz|opentoonz]] — OpenToonz - An open-source full-featured 2D animation creati...
 - [[openwhispr-openwhispr|openwhispr]] — Voice-to-text dictation app with local (Nvidia Parakeet/Whis...
 - [[openwrt-openwrt|openwrt]] — This repository is a mirror of https://git.openwrt.org/openw...
@@ -646,6 +651,7 @@
 - [[priorlabs-tabpfn|TabPFN]] — ⚡ TabPFN: Foundation Model for Tabular Data ⚡ 🔥
 - [[prisma-prisma|prisma]] — Next-generation ORM for Node.js & TypeScript | PostgreSQL, M...
 - [[prismml-eng-bonsai-demo|Bonsai-demo]] — Bonsai Demo 🆕
+- [[prometheus-prometheus|prometheus]] — The Prometheus monitoring system and time series database. 🆕
 - [[promptfoo-promptfoo|promptfoo]] — Test your prompts, agents, and RAGs. Red teaming/pentesting/...
 - [[protocolbuffers-protobuf|protobuf]] — Protocol Buffers - Google's data interchange format
 - [[public-apis-public-apis|public-apis]] — A collective list of free APIs
@@ -657,9 +663,11 @@
 - [[qbittorrent-qbittorrent|qBittorrent]] — qBittorrent BitTorrent client
 - [[qwenlm-qwen-agent|Qwen-Agent]] — Agent framework and applications built upon Qwen>=3.0, featu... 🆕
 - [[radixark-miles|miles]] — Miles is an enterprise-facing reinforcement learning framewo...
+- [[rails-rails|rails]] — Ruby on Rails 🆕
 - [[rakyll-hey|hey]] — HTTP load generator, ApacheBench (ab) replacement
 - [[raphire-win11debloat|Win11Debloat]] — A simple, lightweight PowerShell script that allows you to r... 🆕
 - [[rasbt-llms-from-scratch|LLMs-from-scratch]] — Implement a ChatGPT-like LLM in PyTorch from scratch, step b... 🔥
+- [[react-react|react]] — The library for web and native user interfaces. 🆕
 - [[reconurge-flowsint|flowsint]] — A modern platform for visual, flexible, and extensible graph...
 - [[refactoringhq-tolaria|tolaria]] — Desktop app to manage markdown knowledge bases
 - [[renhuai123-ziwei-doushu|ziwei-doushu]] — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 🔥
@@ -734,6 +742,7 @@
 - [[swc-project-swc|swc]] — Rust-based platform for the Web
 - [[swoole-typephp|typephp]] — Compile PHP to Native Binaries
 - [[swordfish90-cool-retro-term|cool-retro-term]] — A good looking terminal emulator which mimics the old cathod...
+- [[symfony-symfony|symfony]] — The Symfony PHP framework 🆕
 - [[systemd-systemd|systemd]] — The systemd System and Service Manager
 - [[t8y2-dbx|dbx]] — 25 MB lightweight cross-platform database client for 100+ da... 🆕
 - [[tailscale-tailcat|tailcat]] — like netcat, but over Tailscale's data plane, without Tailsc... 🆕
@@ -802,7 +811,7 @@
 - [[vectifyai-pageindex|PageIndex]] — 📑 PageIndex: Document Index for Vectorless, Reasoning-based ... 🆕
 - [[vectorize-io-hindsight|hindsight]] — Hindsight: Agent Memory That Learns 🔥
 - [[veracrypt-veracrypt|VeraCrypt]] — Disk encryption with strong security based on TrueCrypt
-- [[vercel-labs-agent-browser|agent-browser]] — Browser automation CLI for AI agents 🆕
+- [[vercel-labs-agent-browser|agent-browser]] — Browser automation CLI for AI agents
 - [[vercel-labs-agent-desktop|agent-desktop]] — Computer use CLI for AI agents 🔥
 - [[vercel-labs-json-render|json-render]] — The Generative UI framework
 - [[vercel-labs-open-agents|open-agents]] — An open source template for building cloud agents.
@@ -851,6 +860,7 @@
 - [[z4nzu-hackingtool|hackingtool]] — ALL IN ONE Hacking Tool For Hackers 🔥
 - [[zackriya-solutions-meetily|meetily]] — Privacy first, AI meeting assistant with 4x faster Parakeet/... 🔥
 - [[zai-org-glm-5|GLM-5]] — GLM-5: From Vibe Coding to Agentic Engineering 🆕
+- [[zed-industries-zed|zed]] — Code at the speed of thought – Zed is a high-performance, mu... 🆕
 - [[zedeus-nitter|nitter]] — Alternative Twitter front-end
 - [[zeux-meshoptimizer|meshoptimizer]] — Mesh optimization library that makes meshes smaller and fast... 🆕
 - [[zhaoxuya520-reverse-skill|reverse-skill]] — Reverse Engineering / Authorized Penetration Testing / Secur...

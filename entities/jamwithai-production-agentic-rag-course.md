@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[garrytan-gstack]] [[xiaolai-the-craft-of-selfteaching]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]]
+[[thu-maic-openmaic]] [[d4vinci-scrapling]] [[xiaolai-the-craft-of-selfteaching]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[alchaincyf-huashu-design]] [[lightpanda-io-browser]] [[scenario-labs-skills]] [[vercel-labs-agent-browser]] [[ripienaar-free-for-dev]]
+[[d4vinci-scrapling]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[scenario-labs-skills]] [[angular-angular]]
 
 **所属领域**: [[web]] [[image-gen]]
 

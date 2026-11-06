@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[php-php-src]] [[usagi-org-ai-goofish-monitor]] [[hugohe3-ppt-master]] [[d4vinci-scrapling]]
+[[agricidaniel-claude-seo]] [[d4vinci-scrapling]] [[php-php-src]] [[nvidia-auto-ontology]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

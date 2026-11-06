@@ -37,7 +37,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[garrytan-gstack]] [[nvidia-auto-ontology]] [[bregman-arie-devops-exercises]] [[d4vinci-scrapling]]
+[[prometheus-prometheus]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[etcd-io-etcd]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

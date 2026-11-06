@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[lightpanda-io-browser]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]]
+[[d4vinci-scrapling]] [[microsoft-vscode]] [[garrytan-gstack]] [[prometheus-prometheus]] [[angular-angular]]
 
 **所属领域**: [[web]] [[data]]
 

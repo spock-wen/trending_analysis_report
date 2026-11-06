@@ -36,5 +36,5 @@ Your own search engine
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[strelov1-freehire]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]]
+[[etcd-io-etcd]] [[juliusbrussee-caveman]] [[prometheus-prometheus]] [[strelov1-freehire]]
 

@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[lightpanda-io-browser]] [[garrytan-gstack]] [[scenario-labs-skills]] [[anomalyco-hex]]
+[[d4vinci-scrapling]] [[microsoft-vscode]] [[garrytan-gstack]] [[scenario-labs-skills]] [[angular-angular]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

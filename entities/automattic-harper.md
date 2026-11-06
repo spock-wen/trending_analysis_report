@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[anomalyco-hex]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[beenuar-aisoc]]
+[[nushell-nushell]] [[zed-industries-zed]] [[rust-lang-rust]] [[astral-sh-ruff]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[security]]
 

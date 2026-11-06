@@ -37,7 +37,7 @@ The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[lightpanda-io-browser]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]]
+[[d4vinci-scrapling]] [[microsoft-vscode]] [[garrytan-gstack]] [[prometheus-prometheus]] [[angular-angular]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

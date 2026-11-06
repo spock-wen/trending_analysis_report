@@ -34,7 +34,7 @@ PowerShell for every system!
 
 ## 相关项目
 
-[[k1tbyte-wand-enhancer]] [[sonarr-sonarr]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[jiafeimiao-k-cat-discimagestudio]]
+[[nushell-nushell]] [[mpv-player-mpv]] [[k1tbyte-wand-enhancer]] [[ntdevlabs-tiny11builder]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

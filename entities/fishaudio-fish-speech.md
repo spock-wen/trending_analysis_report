@@ -37,7 +37,7 @@ SOTA Open Source TTS
 
 ## 相关项目
 
-[[scenario-labs-skills]] [[anomalyco-hex]] [[usagi-org-ai-goofish-monitor]] [[d4vinci-scrapling]] [[cjpais-handy]]
+[[d4vinci-scrapling]] [[scenario-labs-skills]] [[nvidia-auto-ontology]] [[microsoft-vibevoice]] [[cjpais-handy]]
 
 **所属领域**: [[audio]]
 

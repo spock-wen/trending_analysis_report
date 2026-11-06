@@ -34,7 +34,7 @@ Vulnerability scanner written in Go which uses the data provided by https://osv.
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[lightpanda-io-browser]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]] [[bregman-arie-devops-exercises]]
+[[d4vinci-scrapling]] [[prometheus-prometheus]] [[angular-angular]] [[nvidia-auto-ontology]] [[etcd-io-etcd]]
 
 **所属领域**: [[web]] [[data]]
 

@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[lightpanda-io-browser]] [[php-php-src]] [[vercel-labs-agent-browser]] [[hugohe3-ppt-master]]
+[[agricidaniel-claude-seo]] [[d4vinci-scrapling]] [[php-php-src]] [[angular-angular]] [[react-react]]
 
 **所属领域**: [[web]] [[erp]]
 

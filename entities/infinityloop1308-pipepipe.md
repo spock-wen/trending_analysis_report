@@ -34,7 +34,7 @@ An open-source Android app to let you browse YouTube and other services freely.
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[michaelcade-90daysofdevops]] [[vercel-labs-agent-desktop]] [[mattpocock-skills]]
+[[nushell-nushell]] [[mpv-player-mpv]] [[mattpocock-skills]] [[donchitos-claude-code-game-studios]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[cli]]
 

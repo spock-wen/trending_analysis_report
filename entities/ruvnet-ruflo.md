@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[ruvnet-ruview]] [[thu-maic-openmaic]] [[garrytan-gstack]] [[xiaolai-the-craft-of-selfteaching]]
+[[thu-maic-openmaic]] [[microsoft-vscode]] [[garrytan-gstack]] [[prometheus-prometheus]] [[angular-angular]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

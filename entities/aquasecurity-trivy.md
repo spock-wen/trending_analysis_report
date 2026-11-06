@@ -38,7 +38,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[garrytan-gstack]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[beenuar-aisoc]]
+[[prometheus-prometheus]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[etcd-io-etcd]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

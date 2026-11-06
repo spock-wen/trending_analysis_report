@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[lightpanda-io-browser]] [[tensorflow-tensorflow]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]]
+[[boykopovar-anyps5]] [[d4vinci-scrapling]] [[hyprwm-hyprland]] [[mpv-player-mpv]] [[nushell-nushell]]
 
 **所属领域**: [[web]] [[cli]]
 

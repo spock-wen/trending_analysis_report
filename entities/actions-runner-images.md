@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[scenario-labs-skills]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[nvidia-auto-ontology]] [[zhaoxuya520-reverse-skill]]
+[[nushell-nushell]] [[mpv-player-mpv]] [[scenario-labs-skills]] [[nvidia-auto-ontology]] [[raphire-win11debloat]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

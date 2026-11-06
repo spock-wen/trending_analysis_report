@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[lightpanda-io-browser]] [[garrytan-gstack]] [[vercel-labs-agent-browser]] [[usagi-org-ai-goofish-monitor]]
+[[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[prometheus-prometheus]] [[nvidia-auto-ontology]] [[angular-angular]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

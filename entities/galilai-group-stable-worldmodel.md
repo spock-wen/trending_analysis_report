@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[garrytan-gstack]] [[scenario-labs-skills]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[nvidia-auto-ontology]]
+[[d4vinci-scrapling]] [[scenario-labs-skills]] [[tauricresearch-tradingagents]] [[nvidia-auto-ontology]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

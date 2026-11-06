@@ -37,5 +37,5 @@ Empowering everyone to host fast and efficient Minecraft servers.
 
 ## 相关项目
 
-[[anomalyco-hex]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[vercel-labs-agent-desktop]]
+[[astral-sh-ruff]] [[nushell-nushell]] [[zed-industries-zed]] [[rust-lang-rust]]
 

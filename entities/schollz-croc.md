@@ -35,5 +35,5 @@ Easily and securely send things from one computer to another 🐊 📦
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[strelov1-freehire]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]]
+[[etcd-io-etcd]] [[juliusbrussee-caveman]] [[prometheus-prometheus]] [[strelov1-freehire]]
 

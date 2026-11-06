@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[garrytan-gstack]] [[anomalyco-hex]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]]
+[[nushell-nushell]] [[zed-industries-zed]] [[nvidia-auto-ontology]] [[rust-lang-rust]] [[astral-sh-ruff]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

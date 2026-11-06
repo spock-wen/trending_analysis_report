@@ -38,7 +38,7 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[lightpanda-io-browser]] [[garrytan-gstack]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]]
+[[d4vinci-scrapling]] [[nvidia-auto-ontology]] [[angular-angular]] [[cloudflare-security-audit-skill]] [[react-react]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

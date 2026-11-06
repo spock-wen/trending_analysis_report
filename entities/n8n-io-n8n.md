@@ -35,7 +35,7 @@ Fair-code workflow automation platform with native AI capabilities. Combine visu
 
 ## 相关项目
 
-[[pingdotgg-t3code]] [[garrytan-gstack]] [[thedotmack-claude-mem]] [[d4vinci-scrapling]] [[mattpocock-skills]]
+[[microsoft-vscode]] [[garrytan-gstack]] [[angular-angular]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]]
 

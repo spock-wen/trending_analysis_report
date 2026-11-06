@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[vxcontrol-pentagi]] [[lightpanda-io-browser]] [[vercel-labs-agent-browser]] [[max-sixty-worktrunk]] [[d4vinci-scrapling]]
+[[d4vinci-scrapling]] [[nushell-nushell]] [[prometheus-prometheus]] [[mpv-player-mpv]] [[angular-angular]]
 
 **所属领域**: [[web]] [[cli]]
 

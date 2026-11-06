@@ -36,7 +36,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[lightpanda-io-browser]] [[garrytan-gstack]] [[affaan-m-ecc]] [[scenario-labs-skills]]
+[[d4vinci-scrapling]] [[scenario-labs-skills]] [[nvidia-auto-ontology]] [[angular-angular]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

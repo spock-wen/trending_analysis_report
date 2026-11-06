@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[garrytan-gstack]] [[affaan-m-ecc]] [[cloudflare-security-audit-skill]] [[k-dense-ai-scientific-agent-skills]] [[beenuar-aisoc]]
+[[d4vinci-scrapling]] [[prometheus-prometheus]] [[tauricresearch-tradingagents]] [[nvidia-auto-ontology]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

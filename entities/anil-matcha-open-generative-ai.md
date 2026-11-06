@@ -37,7 +37,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[hmjz100-linkswift]] [[garrytan-gstack]] [[affaan-m-ecc]] [[scenario-labs-skills]] [[nvidia-auto-ontology]]
+[[scenario-labs-skills]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[react-react]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

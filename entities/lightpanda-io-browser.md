@@ -38,7 +38,7 @@ Lightpanda: the headless browser designed for AI and automation
 
 ## 相关项目
 
-[[garrytan-gstack]] [[vercel-labs-agent-browser]] [[d4vinci-scrapling]] [[ghostty-org-ghostty]] [[conardli-garden-skills]]
+[[d4vinci-scrapling]] [[nvidia-auto-ontology]] [[angular-angular]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

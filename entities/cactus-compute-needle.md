@@ -38,5 +38,5 @@ Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, struct
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[microsoft-vibevoice]] [[google-skills]] [[nvidia-auto-ontology]]
+[[anthropics-skills]] [[google-skills]] [[sherlock-project-sherlock]] [[mbillow-localthings]]
 

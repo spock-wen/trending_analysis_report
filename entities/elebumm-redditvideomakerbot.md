@@ -35,7 +35,7 @@ Create Reddit Videos with just✨ one command ✨
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[nushell-nushell]] [[mpv-player-mpv]] [[nvidia-auto-ontology]] [[mattpocock-skills]]
+[[anthropics-skills]] [[mpv-player-mpv]] [[google-skills]] [[vercel-labs-agent-browser]] [[nushell-nushell]]
 
 **所属领域**: [[cli]]
 

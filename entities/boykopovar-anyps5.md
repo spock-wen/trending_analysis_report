@@ -38,5 +38,5 @@ Tool for automatic PS5 executables porting to Linux and Windows
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[microsoft-bitnet]] [[hyprwm-hyprland]]
+[[tensorflow-tensorflow]] [[hyprwm-hyprland]] [[microsoft-bitnet]]
 

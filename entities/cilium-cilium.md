@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[prometheus-prometheus]] [[cloudflare-security-audit-skill]] [[etcd-io-etcd]] [[michaelcade-90daysofdevops]]
+[[cloudflare-security-audit-skill]] [[beenuar-aisoc]] [[nvidia-skillspector]] [[dsx-ai-factory-nvke]] [[bregman-arie-devops-exercises]]
 
 **所属领域**: [[devops]] [[security]]
 

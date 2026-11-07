@@ -38,7 +38,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 
 ## 相关项目
 
-[[microsoft-vscode]] [[garrytan-gstack]] [[mpv-player-mpv]] [[angular-angular]] [[nvidia-auto-ontology]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[mpv-player-mpv]] [[ranxianglei-billion-context]] [[google-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

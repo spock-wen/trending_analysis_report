@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[cs341-illinois-coursebook]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]] [[google-skills]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[google-skills]] [[cs341-illinois-coursebook]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

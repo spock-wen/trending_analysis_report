@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[prometheus-prometheus]] [[xiaolai-the-craft-of-selfteaching]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]]
+[[react-react]] [[nvidia-auto-ontology]] [[conardli-garden-skills]] [[xiaolai-the-craft-of-selfteaching]] [[orkas-ai-orkas]]
 
 **所属领域**: [[data]] [[education]]
 

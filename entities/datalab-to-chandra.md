@@ -36,7 +36,7 @@ OCR model that handles complex tables, forms, handwriting with full layout.
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[prometheus-prometheus]] [[nvidia-auto-ontology]] [[etcd-io-etcd]] [[kornia-kornia]]
+[[anthropics-skills]] [[nvidia-auto-ontology]] [[google-skills]] [[kornia-kornia]] [[mbillow-localthings]]
 
 **所属领域**: [[data]]
 

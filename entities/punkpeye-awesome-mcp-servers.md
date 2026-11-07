@@ -34,7 +34,7 @@ A collection of MCP servers.
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[mattpocock-skills]] [[google-skills]] [[nvidia-auto-ontology]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[google-skills]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -1,7 +1,7 @@
 ---
 title: "Rust Ecosystem Surge"
 created: 2026-06-17
-updated: 2026-11-07
+updated: 2026-11-08
 type: concept
 tags: [rust, surge]
 confidence: medium
@@ -11,19 +11,19 @@ confidence: medium
 
 ## 信号概述
 
-2026-11-07 检测到 Rust 领域有 4 个项目同时上榜，表明该语言生态近期活跃度显著上升。
+2026-11-08 检测到 Rust 领域有 3 个项目同时上榜，表明该语言生态近期活跃度显著上升。
 
-## 上榜项目（4 个）
+## 上榜项目（3 个）
 
-[[zed-industries-zed]] [[rust-lang-rust]] [[nushell-nushell]] [[astral-sh-ruff]]
+[[vercel-labs-agent-browser]] [[astral-sh-ruff]] [[zed-industries-zed]]
 
 ## 语言分布
 
-Rust 4个
+Rust 3个
 
 ## 趋势分析
 
-Rust 领域 4 个项目同时上榜，可能反映：
+Rust 领域 3 个项目同时上榜，可能反映：
 - 该语言在特定领域（如 AI、Web、系统编程）的技术突破
 - 社区活跃度提升，新项目涌现
 - 现有项目获得广泛关注

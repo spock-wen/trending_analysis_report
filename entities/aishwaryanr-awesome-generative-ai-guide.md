@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[tauricresearch-tradingagents]] [[nvidia-auto-ontology]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[averygan-reclip]] [[ripienaar-free-for-dev]] [[react-react]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -36,7 +36,7 @@ Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 
 ## 相关项目
 
-[[microsoft-vscode]] [[garrytan-gstack]] [[mpv-player-mpv]] [[angular-angular]] [[nvidia-auto-ontology]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[mpv-player-mpv]] [[ranxianglei-billion-context]] [[google-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

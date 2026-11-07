@@ -34,7 +34,7 @@ GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL throug
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[nushell-nushell]] [[mpv-player-mpv]] [[prometheus-prometheus]] [[nvidia-auto-ontology]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[nvidia-auto-ontology]] [[mpv-player-mpv]] [[google-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

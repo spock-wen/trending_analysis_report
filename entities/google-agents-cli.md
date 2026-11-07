@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[nushell-nushell]] [[mpv-player-mpv]] [[prometheus-prometheus]] [[nvidia-auto-ontology]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[mpv-player-mpv]] [[google-skills]] [[bregman-arie-devops-exercises]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

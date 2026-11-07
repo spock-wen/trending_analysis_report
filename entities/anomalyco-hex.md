@@ -35,7 +35,7 @@ Local voice dictation for mac, windows and linux
 
 ## 相关项目
 
-[[nushell-nushell]] [[scenario-labs-skills]] [[zed-industries-zed]] [[rust-lang-rust]] [[astral-sh-ruff]]
+[[astral-sh-ruff]] [[cjpais-handy]] [[scenario-labs-skills]] [[rust-lang-rust]] [[zed-industries-zed]]
 
 **所属领域**: [[audio]]
 

@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[microsoft-vscode]] [[garrytan-gstack]] [[php-php-src]] [[angular-angular]]
+[[tailwindlabs-tailwindcss]] [[ranxianglei-billion-context]] [[agricidaniel-claude-seo]] [[hugohe3-ppt-master]] [[milind-soni-openmausbot]]
 
 **所属领域**: [[erp]]
 

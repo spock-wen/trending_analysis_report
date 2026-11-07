@@ -1,0 +1,143 @@
+{
+  "date": "2026-11-08",
+  "scraped_at": "2026-11-08T07:00:53.102459",
+  "period": "daily",
+  "count": 15,
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars_today": 180,
+      "total_stars": 46779,
+      "url": "https://github.com/vercel-labs/agent-browser"
+    },
+    {
+      "rank": 2,
+      "repo": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars_today": 2088,
+      "total_stars": 65621,
+      "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+      "rank": 3,
+      "repo": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars_today": 449,
+      "total_stars": 23359,
+      "url": "https://github.com/google/skills"
+    },
+    {
+      "rank": 4,
+      "repo": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": 1111,
+      "total_stars": 317648,
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "rank": 5,
+      "repo": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars_today": 386,
+      "total_stars": 188741,
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "rank": 6,
+      "repo": "meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars_today": 185,
+      "total_stars": 14447,
+      "url": "https://github.com/meta/astryx"
+    },
+    {
+      "rank": 7,
+      "repo": "prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars_today": 325,
+      "total_stars": 67435,
+      "url": "https://github.com/prometheus/prometheus"
+    },
+    {
+      "rank": 8,
+      "repo": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars_today": 1819,
+      "total_stars": 100357,
+      "url": "https://github.com/sherlock-project/sherlock"
+    },
+    {
+      "rank": 9,
+      "repo": "milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars_today": 1986,
+      "total_stars": 16904,
+      "url": "https://github.com/milind-soni/OpenMausBot"
+    },
+    {
+      "rank": 10,
+      "repo": "astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars_today": 350,
+      "total_stars": 50961,
+      "url": "https://github.com/astral-sh/ruff"
+    },
+    {
+      "rank": 11,
+      "repo": "tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "language": "TypeScript",
+      "stars_today": 181,
+      "total_stars": 98438,
+      "url": "https://github.com/tailwindlabs/tailwindcss"
+    },
+    {
+      "rank": 12,
+      "repo": "mbillow/localthings",
+      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "language": "Python",
+      "stars_today": 184,
+      "total_stars": 1041,
+      "url": "https://github.com/mbillow/localthings"
+    },
+    {
+      "rank": 13,
+      "repo": "zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars_today": 1119,
+      "total_stars": 94247,
+      "url": "https://github.com/zed-industries/zed"
+    },
+    {
+      "rank": 14,
+      "repo": "ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "language": "TypeScript",
+      "stars_today": 185,
+      "total_stars": 4578,
+      "url": "https://github.com/ranxianglei/billion-context"
+    },
+    {
+      "rank": 15,
+      "repo": "dsx-ai-factory/nvke",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "language": "Go",
+      "stars_today": 125,
+      "total_stars": 536,
+      "url": "https://github.com/dsx-ai-factory/nvke"
+    }
+  ]
+}

@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[nushell-nushell]] [[mpv-player-mpv]] [[floci-io-floci]] [[nvidia-auto-ontology]] [[prometheus-prometheus]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[nvidia-auto-ontology]] [[mpv-player-mpv]] [[google-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

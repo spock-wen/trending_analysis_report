@@ -34,7 +34,7 @@ Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网�
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[ripienaar-free-for-dev]] [[nvidia-auto-ontology]] [[angular-angular]] [[cloudflare-security-audit-skill]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[averygan-reclip]] [[ripienaar-free-for-dev]] [[react-react]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

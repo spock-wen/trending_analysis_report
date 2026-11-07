@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[vorssaint-vorssaint-utils]] [[abue-ammar-tinycast]] [[mpv-player-mpv]] [[nushell-nushell]]
+[[manaflow-ai-cmux]] [[mpv-player-mpv]] [[vercel-labs-agent-browser]] [[nushell-nushell]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[hyprwm-hyprland]] [[mpv-player-mpv]] [[nushell-nushell]] [[cloudflare-security-audit-skill]]
+[[tensorflow-tensorflow]] [[hyprwm-hyprland]] [[mpv-player-mpv]] [[beenuar-aisoc]] [[nvidia-skillspector]]
 
 **所属领域**: [[cli]] [[security]]
 

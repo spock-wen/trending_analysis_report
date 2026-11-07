@@ -35,7 +35,7 @@ An Open Source Machine Learning Framework for Everyone
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[thu-maic-openmaic]] [[hyprwm-hyprland]] [[xiaolai-the-craft-of-selfteaching]] [[michaelcade-90daysofdevops]]
+[[xiaolai-the-craft-of-selfteaching]] [[hyprwm-hyprland]] [[thu-maic-openmaic]] [[boykopovar-anyps5]] [[patchy631-ai-engineering-hub]]
 
 **所属领域**: [[education]]
 

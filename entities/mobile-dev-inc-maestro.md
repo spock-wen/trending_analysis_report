@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[android-skills]] [[d4vinci-scrapling]] [[mahlernim-google-timeline-visualizer]] [[nvidia-auto-ontology]] [[angular-angular]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[bannedbook-fanqiang]] [[embabel-embabel-agent]] [[react-react]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[nushell-nushell]] [[zed-industries-zed]] [[nvidia-auto-ontology]] [[rust-lang-rust]]
+[[astral-sh-ruff]] [[anthropics-skills]] [[tailwindlabs-tailwindcss]] [[rust-lang-rust]] [[google-skills]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

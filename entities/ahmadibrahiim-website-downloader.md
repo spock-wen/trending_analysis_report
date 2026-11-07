@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[scenario-labs-skills]] [[angular-angular]]
+[[tailwindlabs-tailwindcss]] [[react-react]] [[averygan-reclip]] [[ripienaar-free-for-dev]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[web]] [[image-gen]]
 

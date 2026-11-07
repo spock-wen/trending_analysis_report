@@ -37,7 +37,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[php-php-src]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[google-skills]] [[agricidaniel-claude-seo]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

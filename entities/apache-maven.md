@@ -34,5 +34,5 @@ Apache Maven core
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[nationalsecurityagency-ghidra]] [[floci-io-floci]] [[yuliskov-smarttube]]
+[[checkstyle-checkstyle]] [[floci-io-floci]] [[nationalsecurityagency-ghidra]] [[yuliskov-smarttube]]
 

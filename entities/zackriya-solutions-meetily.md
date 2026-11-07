@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[nushell-nushell]] [[prometheus-prometheus]] [[zed-industries-zed]] [[nvidia-auto-ontology]]
+[[astral-sh-ruff]] [[anthropics-skills]] [[tailwindlabs-tailwindcss]] [[react-react]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

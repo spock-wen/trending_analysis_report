@@ -34,7 +34,7 @@ Ruby on Rails
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]] [[docusealco-docuseal]] [[google-skills]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[chatwoot-chatwoot]] [[google-skills]] [[docusealco-docuseal]]
 
 **所属领域**: [[ai-agent]]
 

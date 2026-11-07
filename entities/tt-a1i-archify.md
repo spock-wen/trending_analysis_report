@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[prometheus-prometheus]] [[nvidia-auto-ontology]] [[angular-angular]] [[cloudflare-security-audit-skill]]
+[[react-react]] [[anthropics-skills]] [[conardli-garden-skills]] [[tailwindlabs-tailwindcss]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

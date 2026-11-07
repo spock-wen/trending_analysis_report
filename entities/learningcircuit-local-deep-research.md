@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[d4vinci-scrapling]] [[xiaolai-the-craft-of-selfteaching]] [[nvidia-auto-ontology]] [[paperclipai-paperclip]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[xiaolai-the-craft-of-selfteaching]] [[beenuar-aisoc]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

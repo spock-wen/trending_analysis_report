@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[nushell-nushell]] [[mpv-player-mpv]] [[scenario-labs-skills]] [[nvidia-auto-ontology]] [[raphire-win11debloat]]
+[[zhaoxuya520-reverse-skill]] [[nvidia-auto-ontology]] [[conardli-garden-skills]] [[scenario-labs-skills]] [[jiafeimiao-k-cat-discimagestudio]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

@@ -38,7 +38,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[prometheus-prometheus]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[etcd-io-etcd]] [[mattpocock-skills]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[cloudflare-security-audit-skill]] [[beenuar-aisoc]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

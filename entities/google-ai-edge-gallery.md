@@ -37,7 +37,7 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 
 ## 相关项目
 
-[[android-skills]] [[mahlernim-google-timeline-visualizer]] [[nvidia-auto-ontology]] [[embabel-embabel-agent]] [[mattpocock-skills]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[bannedbook-fanqiang]] [[embabel-embabel-agent]] [[mahlernim-google-timeline-visualizer]]
 
 **所属领域**: [[ai-agent]]
 

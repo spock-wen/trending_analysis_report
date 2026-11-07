@@ -38,7 +38,7 @@ Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),
 
 ## 相关项目
 
-[[microsoft-vscode]] [[garrytan-gstack]] [[mpv-player-mpv]] [[angular-angular]] [[nvidia-auto-ontology]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[mpv-player-mpv]] [[ranxianglei-billion-context]] [[google-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

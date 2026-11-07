@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[mpv-player-mpv]] [[angular-angular]]
+[[tailwindlabs-tailwindcss]] [[react-react]] [[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]] [[mpv-player-mpv]]
 
 **所属领域**: [[web]] [[cli]]
 

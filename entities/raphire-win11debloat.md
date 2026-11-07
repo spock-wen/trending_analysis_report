@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[nushell-nushell]] [[mpv-player-mpv]] [[mattpocock-skills]] [[zhaoxuya520-reverse-skill]] [[max-sixty-worktrunk]]
+[[zhaoxuya520-reverse-skill]] [[mpv-player-mpv]] [[vercel-labs-agent-browser]] [[nushell-nushell]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

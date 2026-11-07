@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[scenario-labs-skills]] [[angular-angular]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]]
+[[react-react]] [[tailwindlabs-tailwindcss]] [[conardli-garden-skills]] [[nvidia-auto-ontology]] [[scenario-labs-skills]]
 
 **所属领域**: [[web]] [[image-gen]]
 

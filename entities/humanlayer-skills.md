@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[microsoft-vscode]] [[garrytan-gstack]] [[angular-angular]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[ranxianglei-billion-context]] [[google-skills]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

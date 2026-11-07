@@ -34,7 +34,7 @@ One has no future if one couldn't teach themself.
 
 ## 相关项目
 
-[[higgsfield-ai-higgsfield]] [[thu-maic-openmaic]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]]
+[[higgsfield-ai-higgsfield]] [[anthropics-skills]] [[tailwindlabs-tailwindcss]] [[google-skills]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

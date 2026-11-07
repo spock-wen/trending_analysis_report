@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[microsoft-vscode]] [[garrytan-gstack]] [[scenario-labs-skills]] [[angular-angular]]
+[[tailwindlabs-tailwindcss]] [[react-react]] [[nvidia-auto-ontology]] [[conardli-garden-skills]] [[scenario-labs-skills]]
 
 **所属领域**: [[web]] [[image-gen]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[prometheus-prometheus]] [[nvidia-auto-ontology]] [[angular-angular]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[react-react]] [[nvidia-auto-ontology]] [[google-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

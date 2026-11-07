@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[mattpocock-skills]] [[nushell-nushell]] [[mpv-player-mpv]] [[max-sixty-worktrunk]]
+[[mpv-player-mpv]] [[nushell-nushell]] [[mattpocock-skills]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[cli]]
 

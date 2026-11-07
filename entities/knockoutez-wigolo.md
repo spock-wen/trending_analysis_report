@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[microsoft-vscode]] [[garrytan-gstack]] [[tauricresearch-tradingagents]] [[angular-angular]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[react-react]] [[ranxianglei-billion-context]] [[google-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

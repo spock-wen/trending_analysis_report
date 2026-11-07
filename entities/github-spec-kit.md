@@ -39,7 +39,7 @@ contested: true
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[microsoft-vibevoice]] [[google-skills]] [[nvidia-auto-ontology]]
+[[anthropics-skills]] [[google-skills]] [[sherlock-project-sherlock]] [[mbillow-localthings]]
 
 
 ## ⚠️ 描述变更（2026-11-05）

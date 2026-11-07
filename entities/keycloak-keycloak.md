@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[floci-io-floci]] [[cloudflare-security-audit-skill]] [[checkstyle-checkstyle]] [[yuliskov-smarttube]] [[nationalsecurityagency-ghidra]]
+[[beenuar-aisoc]] [[nvidia-skillspector]] [[checkstyle-checkstyle]] [[floci-io-floci]] [[yuliskov-smarttube]]
 
 **所属领域**: [[security]]
 

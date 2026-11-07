@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[xtool-org-xtool]] [[vorssaint-vorssaint-utils]] [[abue-ammar-tinycast]] [[nvidia-auto-ontology]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[react-react]] [[manaflow-ai-cmux]] [[scenario-labs-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

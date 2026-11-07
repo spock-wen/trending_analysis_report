@@ -34,5 +34,5 @@ OpenToonz - An open-source full-featured 2D animation creation software
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[microsoft-bitnet]] [[hyprwm-hyprland]] [[tensorflow-tensorflow]]
+[[boykopovar-anyps5]] [[tensorflow-tensorflow]] [[hyprwm-hyprland]] [[microsoft-bitnet]]
 

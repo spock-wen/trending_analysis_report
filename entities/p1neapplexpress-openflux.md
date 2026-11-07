@@ -35,7 +35,7 @@ Network stack research tool. TCP tunnel with pluggable transports.
 
 ## 相关项目
 
-[[prometheus-prometheus]] [[tauricresearch-tradingagents]] [[paperclipai-paperclip]] [[etcd-io-etcd]] [[strelov1-freehire]]
+[[dsx-ai-factory-nvke]] [[tauricresearch-tradingagents]] [[prometheus-prometheus]] [[k-dense-ai-scientific-agent-skills]] [[paperclipai-paperclip]]
 
 **所属领域**: [[science]]
 

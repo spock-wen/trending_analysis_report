@@ -35,7 +35,7 @@ Vite+ is the unified toolchain and entry point for web development. It manages y
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[nushell-nushell]] [[zed-industries-zed]] [[nvidia-auto-ontology]] [[rust-lang-rust]]
+[[astral-sh-ruff]] [[anthropics-skills]] [[tailwindlabs-tailwindcss]] [[react-react]] [[rust-lang-rust]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

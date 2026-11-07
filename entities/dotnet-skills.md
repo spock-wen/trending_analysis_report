@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[k1tbyte-wand-enhancer]] [[ntdevlabs-tiny11builder]] [[mattpocock-skills]] [[cloudflare-security-audit-skill]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[k1tbyte-wand-enhancer]] [[jiafeimiao-k-cat-discimagestudio]] [[sonarr-sonarr]]
 
 **所属领域**: [[ai-agent]]
 

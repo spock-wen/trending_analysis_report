@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[bregman-arie-devops-exercises]] [[prometheus-prometheus]] [[floci-io-floci]] [[nvidia-auto-ontology]] [[etcd-io-etcd]]
+[[nvidia-auto-ontology]] [[kornia-kornia]] [[bregman-arie-devops-exercises]] [[checkstyle-checkstyle]] [[floci-io-floci]]
 
 **所属领域**: [[data]] [[devops]]
 

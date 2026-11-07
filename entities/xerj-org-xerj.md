@@ -36,7 +36,7 @@ XERJ is the new way for AI to search data. Its autoindex capability activates ag
 
 ## 相关项目
 
-[[nushell-nushell]] [[mpv-player-mpv]] [[zed-industries-zed]] [[nvidia-auto-ontology]] [[rust-lang-rust]]
+[[astral-sh-ruff]] [[anthropics-skills]] [[tailwindlabs-tailwindcss]] [[nvidia-auto-ontology]] [[mpv-player-mpv]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[security]]
 

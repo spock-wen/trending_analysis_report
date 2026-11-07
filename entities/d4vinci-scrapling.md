@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[angular-angular]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]] [[react-react]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[react-react]] [[google-skills]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

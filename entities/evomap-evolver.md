@@ -35,7 +35,7 @@ The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. 
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[react-react]] [[mattpocock-skills]] [[conardli-garden-skills]]
+[[react-react]] [[anthropics-skills]] [[conardli-garden-skills]] [[tailwindlabs-tailwindcss]] [[orkas-ai-orkas]]
 
 **所属领域**: [[ai-agent]]
 

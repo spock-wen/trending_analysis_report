@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[prometheus-prometheus]] [[angular-angular]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]]
+[[tailwindlabs-tailwindcss]] [[react-react]] [[nvidia-auto-ontology]] [[teslamate-org-teslamate]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

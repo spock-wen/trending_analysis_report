@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[microsoft-vscode]] [[garrytan-gstack]] [[mpv-player-mpv]] [[angular-angular]] [[nushell-nushell]]
+[[tailwindlabs-tailwindcss]] [[mpv-player-mpv]] [[ranxianglei-billion-context]] [[vercel-labs-agent-browser]] [[nushell-nushell]]
 
 **所属领域**: [[cli]]
 

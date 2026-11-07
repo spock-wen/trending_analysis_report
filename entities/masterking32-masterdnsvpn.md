@@ -36,7 +36,7 @@ Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli
 
 ## 相关项目
 
-[[prometheus-prometheus]] [[cloudflare-security-audit-skill]] [[etcd-io-etcd]] [[strelov1-freehire]] [[juliusbrussee-caveman]]
+[[etcd-io-etcd]] [[beenuar-aisoc]] [[nvidia-skillspector]] [[dsx-ai-factory-nvke]] [[prometheus-prometheus]]
 
 **所属领域**: [[security]]
 

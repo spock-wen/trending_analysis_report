@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[prometheus-prometheus]] [[nvidia-auto-ontology]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[averygan-reclip]] [[ripienaar-free-for-dev]] [[react-react]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

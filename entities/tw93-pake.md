@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[nushell-nushell]] [[mpv-player-mpv]] [[zed-industries-zed]] [[angular-angular]]
+[[astral-sh-ruff]] [[tailwindlabs-tailwindcss]] [[react-react]] [[mpv-player-mpv]] [[rust-lang-rust]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[d4vinci-scrapling]] [[microsoft-vscode]] [[garrytan-gstack]] [[xiaolai-the-craft-of-selfteaching]]
+[[tailwindlabs-tailwindcss]] [[react-react]] [[xiaolai-the-craft-of-selfteaching]] [[ranxianglei-billion-context]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[web]] [[education]]
 

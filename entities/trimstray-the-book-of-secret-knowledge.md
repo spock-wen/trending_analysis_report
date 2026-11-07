@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[nushell-nushell]] [[mpv-player-mpv]] [[angular-angular]] [[react-react]]
+[[tailwindlabs-tailwindcss]] [[react-react]] [[mpv-player-mpv]] [[vercel-labs-agent-browser]] [[nushell-nushell]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -34,7 +34,7 @@ This repository started out as a learning in public project for myself and has n
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[nushell-nushell]] [[mpv-player-mpv]] [[prometheus-prometheus]] [[bregman-arie-devops-exercises]]
+[[xiaolai-the-craft-of-selfteaching]] [[mpv-player-mpv]] [[bregman-arie-devops-exercises]] [[vercel-labs-agent-browser]] [[nushell-nushell]]
 
 **所属领域**: [[cli]] [[devops]] [[education]]
 

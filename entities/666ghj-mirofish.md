@@ -38,5 +38,5 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[microsoft-vibevoice]] [[google-skills]] [[nvidia-auto-ontology]]
+[[anthropics-skills]] [[google-skills]] [[sherlock-project-sherlock]] [[mbillow-localthings]]
 

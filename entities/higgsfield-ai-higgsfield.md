@@ -35,7 +35,7 @@ Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]]
+[[xiaolai-the-craft-of-selfteaching]] [[anthropics-skills]] [[tailwindlabs-tailwindcss]] [[google-skills]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

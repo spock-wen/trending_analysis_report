@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[microsoft-vscode]] [[garrytan-gstack]] [[mpv-player-mpv]] [[angular-angular]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[xiaolai-the-craft-of-selfteaching]] [[mpv-player-mpv]] [[ranxianglei-billion-context]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

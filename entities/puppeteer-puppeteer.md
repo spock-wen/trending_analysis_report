@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[microsoft-vscode]] [[garrytan-gstack]] [[angular-angular]] [[react-react]]
+[[tailwindlabs-tailwindcss]] [[react-react]] [[ranxianglei-billion-context]] [[vercel-labs-agent-browser]] [[angular-angular]]
 
 **所属领域**: [[web]]
 

@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[scenario-labs-skills]] [[angular-angular]] [[nvidia-auto-ontology]] [[react-react]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[react-react]] [[nvidia-auto-ontology]] [[conardli-garden-skills]]
 
 **所属领域**: [[web]] [[image-gen]]
 

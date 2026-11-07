@@ -34,7 +34,7 @@ A new type of shell
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[zed-industries-zed]] [[rust-lang-rust]] [[astral-sh-ruff]] [[mattpocock-skills]]
+[[astral-sh-ruff]] [[mpv-player-mpv]] [[rust-lang-rust]] [[zed-industries-zed]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[cli]]
 

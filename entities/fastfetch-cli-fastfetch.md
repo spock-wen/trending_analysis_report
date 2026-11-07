@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[nushell-nushell]] [[mpv-player-mpv]] [[lz4-lz4]] [[nvidia-auto-ontology]] [[openssl-openssl]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[mpv-player-mpv]] [[fareedkhan-dev-kimi-k3-in-c]] [[google-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

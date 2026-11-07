@@ -35,5 +35,5 @@ A native, user-mode, multi-process, graphical debugger.
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[lz4-lz4]] [[fareedkhan-dev-kimi-k3-in-c]] [[openssl-openssl]]
+[[lz4-lz4]] [[fareedkhan-dev-kimi-k3-in-c]] [[openssl-openssl]] [[mpv-player-mpv]]
 

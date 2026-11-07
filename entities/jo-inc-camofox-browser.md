@@ -35,7 +35,7 @@ Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[nvidia-auto-ontology]] [[angular-angular]] [[cloudflare-security-audit-skill]] [[react-react]]
+[[react-react]] [[anthropics-skills]] [[conardli-garden-skills]] [[tailwindlabs-tailwindcss]] [[orkas-ai-orkas]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

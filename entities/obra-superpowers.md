@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[nushell-nushell]] [[mpv-player-mpv]] [[php-php-src]] [[nvidia-auto-ontology]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[mpv-player-mpv]] [[google-skills]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

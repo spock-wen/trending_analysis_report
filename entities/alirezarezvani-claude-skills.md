@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[d4vinci-scrapling]] [[nushell-nushell]] [[mpv-player-mpv]] [[php-php-src]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[mpv-player-mpv]] [[google-skills]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

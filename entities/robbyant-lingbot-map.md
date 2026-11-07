@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[prometheus-prometheus]] [[tauricresearch-tradingagents]] [[nvidia-auto-ontology]] [[paperclipai-paperclip]]
+[[anthropics-skills]] [[nvidia-auto-ontology]] [[google-skills]] [[tauricresearch-tradingagents]] [[kornia-kornia]]
 
 **所属领域**: [[data]] [[science]]
 

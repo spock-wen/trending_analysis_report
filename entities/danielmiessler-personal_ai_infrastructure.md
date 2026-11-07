@@ -35,7 +35,7 @@ Agentic AI Infrastructure for magnifying HUMAN capabilities.
 
 ## 相关项目
 
-[[microsoft-vscode]] [[garrytan-gstack]] [[prometheus-prometheus]] [[angular-angular]] [[nvidia-auto-ontology]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[ranxianglei-billion-context]] [[google-skills]] [[bregman-arie-devops-exercises]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

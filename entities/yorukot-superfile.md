@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[nushell-nushell]] [[prometheus-prometheus]] [[mpv-player-mpv]] [[etcd-io-etcd]] [[mattpocock-skills]]
+[[mpv-player-mpv]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[nushell-nushell]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

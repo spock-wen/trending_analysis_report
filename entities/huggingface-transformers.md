@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[d4vinci-scrapling]] [[scenario-labs-skills]] [[xiaolai-the-craft-of-selfteaching]] [[nvidia-auto-ontology]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[xiaolai-the-craft-of-selfteaching]] [[cjpais-handy]] [[scenario-labs-skills]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

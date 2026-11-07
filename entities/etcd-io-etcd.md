@@ -34,7 +34,7 @@ Distributed reliable key-value store for the most critical data of a distributed
 
 ## 相关项目
 
-[[prometheus-prometheus]] [[nvidia-auto-ontology]] [[kornia-kornia]] [[strelov1-freehire]] [[juliusbrussee-caveman]]
+[[nvidia-auto-ontology]] [[dsx-ai-factory-nvke]] [[kornia-kornia]] [[prometheus-prometheus]] [[strelov1-freehire]]
 
 **所属领域**: [[data]]
 

@@ -37,7 +37,7 @@ Protocol Buffers - Google's data interchange format
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[hyprwm-hyprland]] [[prometheus-prometheus]] [[nvidia-auto-ontology]] [[etcd-io-etcd]]
+[[nvidia-auto-ontology]] [[tensorflow-tensorflow]] [[hyprwm-hyprland]] [[kornia-kornia]] [[prometheus-prometheus]]
 
 **所属领域**: [[data]]
 

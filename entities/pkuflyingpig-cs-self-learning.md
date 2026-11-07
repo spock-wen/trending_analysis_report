@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[d4vinci-scrapling]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[xiaolai-the-craft-of-selfteaching]]
+[[tailwindlabs-tailwindcss]] [[react-react]] [[averygan-reclip]] [[ripienaar-free-for-dev]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[web]] [[education]]
 

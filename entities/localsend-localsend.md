@@ -35,7 +35,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[chen08209-flclash]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]] [[flutter-flutter]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[google-skills]] [[chen08209-flclash]] [[flutter-skills]]
 
 **所属领域**: [[ai-agent]]
 

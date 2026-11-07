@@ -34,7 +34,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[scenario-labs-skills]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[cjpais-handy]] [[scenario-labs-skills]] [[google-skills]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

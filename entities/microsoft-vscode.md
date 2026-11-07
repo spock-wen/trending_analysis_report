@@ -35,5 +35,5 @@ Visual Studio Code
 
 ## 相关项目
 
-[[garrytan-gstack]] [[thedotmack-claude-mem]] [[angular-angular]]
+[[tailwindlabs-tailwindcss]] [[meta-astryx]] [[milind-soni-openmausbot]] [[ranxianglei-billion-context]]
 

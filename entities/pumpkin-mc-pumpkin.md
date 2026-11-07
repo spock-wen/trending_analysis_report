@@ -37,5 +37,5 @@ Empowering everyone to host fast and efficient Minecraft servers.
 
 ## 相关项目
 
-[[astral-sh-ruff]] [[nushell-nushell]] [[zed-industries-zed]] [[rust-lang-rust]]
+[[astral-sh-ruff]] [[zed-industries-zed]] [[rust-lang-rust]] [[vercel-labs-agent-browser]]
 

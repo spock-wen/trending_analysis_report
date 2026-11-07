@@ -35,7 +35,7 @@ DeepEP: an efficient expert-parallel communication library
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]] [[moonshotai-flashkda]] [[google-skills]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[moonshotai-flashkda]] [[google-skills]] [[deepseek-ai-deepgemm]]
 
 **所属领域**: [[ai-agent]]
 

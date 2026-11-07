@@ -36,7 +36,7 @@ Developer-first error tracking and performance monitoring
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[bregman-arie-devops-exercises]] [[prometheus-prometheus]] [[nvidia-auto-ontology]] [[michaelcade-90daysofdevops]]
+[[anthropics-skills]] [[google-skills]] [[bregman-arie-devops-exercises]] [[mbillow-localthings]] [[prometheus-prometheus]]
 
 **所属领域**: [[devops]]
 

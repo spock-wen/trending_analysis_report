@@ -34,7 +34,7 @@ AI that sees your screen, listens to your conversations and tells you what to do
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[chen08209-flclash]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]] [[flutter-flutter]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[localsend-localsend]] [[google-skills]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]]
 

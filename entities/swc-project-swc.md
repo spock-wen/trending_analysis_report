@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[nushell-nushell]] [[zed-industries-zed]] [[angular-angular]] [[rust-lang-rust]]
+[[astral-sh-ruff]] [[tailwindlabs-tailwindcss]] [[react-react]] [[rust-lang-rust]] [[zed-industries-zed]]
 
 **所属领域**: [[web]]
 

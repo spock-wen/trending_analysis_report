@@ -35,7 +35,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[mattpocock-skills]] [[google-skills]] [[nvidia-auto-ontology]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[google-skills]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]]
 

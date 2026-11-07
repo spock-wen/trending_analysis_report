@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[microsoft-vscode]] [[garrytan-gstack]] [[mpv-player-mpv]] [[angular-angular]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[react-react]] [[mpv-player-mpv]] [[ranxianglei-billion-context]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

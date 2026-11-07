@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[microsoft-vscode]] [[garrytan-gstack]] [[prometheus-prometheus]] [[angular-angular]]
+[[tailwindlabs-tailwindcss]] [[react-react]] [[nvidia-auto-ontology]] [[ranxianglei-billion-context]] [[kornia-kornia]]
 
 **所属领域**: [[web]] [[data]]
 

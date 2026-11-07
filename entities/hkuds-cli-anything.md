@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[nushell-nushell]] [[mpv-player-mpv]] [[nvidia-auto-ontology]] [[angular-angular]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[react-react]] [[mpv-player-mpv]] [[google-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

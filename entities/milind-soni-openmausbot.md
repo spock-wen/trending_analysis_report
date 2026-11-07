@@ -1,20 +1,20 @@
 ---
 title: "milind-soni/OpenMausBot"
 created: 2026-10-30
-updated: 2026-11-02
-last_active: 2026-11-02
+updated: 2026-11-08
+last_active: 2026-11-08
 type: tool
-tags: [typescript, rising]
-sources: [raw/trending/2026-11-02.json]
+tags: [typescript]
+sources: [raw/trending/2026-11-08.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 4
+consecutive_days: 1
 first_trending: 2026-10-30
-last_trending: 2026-11-02
+last_trending: 2026-11-08
 peak_rank: 2
-total_stars: 10470
+total_stars: 16904
 language: "TypeScript"
 ---
 
@@ -23,13 +23,14 @@ language: "TypeScript"
 Open-source Grok Bot alternative with a virtual machine that bots can use
 
 - 语言: TypeScript
-- 上榜次数: 4 次
-- 连续上榜: 4 天
+- 上榜次数: 5 次
+- 连续上榜: 1 天
 - 最高排名: #2
 - 链接: [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
 
 ## 上榜历史
 
+  - 2026-11-08: #9, +1986⭐
   - 2026-11-02: #5, +919⭐
   - 2026-11-01: #6, +1304⭐
   - 2026-10-31: #2, +899⭐
@@ -37,5 +38,5 @@ Open-source Grok Bot alternative with a virtual machine that bots can use
 
 ## 相关项目
 
-[[microsoft-vscode]] [[thedotmack-claude-mem]] [[angular-angular]] [[garrytan-gstack]]
+[[tailwindlabs-tailwindcss]] [[meta-astryx]] [[ranxianglei-billion-context]]
 

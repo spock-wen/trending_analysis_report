@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[nushell-nushell]] [[mpv-player-mpv]] [[nvidia-auto-ontology]] [[raphire-win11debloat]] [[mattpocock-skills]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[zhaoxuya520-reverse-skill]] [[mpv-player-mpv]] [[raphire-win11debloat]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

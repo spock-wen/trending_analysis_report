@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[microsoft-vscode]] [[garrytan-gstack]] [[angular-angular]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]]
+[[tailwindlabs-tailwindcss]] [[ranxianglei-billion-context]] [[beenuar-aisoc]] [[nvidia-skillspector]] [[milind-soni-openmausbot]]
 
 **所属领域**: [[security]]
 

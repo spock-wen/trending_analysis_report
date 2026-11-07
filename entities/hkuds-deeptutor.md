@@ -38,7 +38,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[angular-angular]] [[nvidia-auto-ontology]] [[react-react]] [[microsoft-vibevoice]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[react-react]] [[google-skills]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[web]]
 

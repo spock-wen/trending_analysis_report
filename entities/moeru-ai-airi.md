@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[microsoft-vscode]] [[garrytan-gstack]] [[scenario-labs-skills]] [[angular-angular]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[react-react]] [[cjpais-handy]] [[scenario-labs-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

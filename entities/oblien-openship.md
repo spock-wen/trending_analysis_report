@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[microsoft-vscode]] [[prometheus-prometheus]] [[garrytan-gstack]] [[angular-angular]] [[bregman-arie-devops-exercises]]
+[[tailwindlabs-tailwindcss]] [[ranxianglei-billion-context]] [[bregman-arie-devops-exercises]] [[usagi-org-ai-goofish-monitor]] [[prometheus-prometheus]]
 
 **所属领域**: [[devops]]
 

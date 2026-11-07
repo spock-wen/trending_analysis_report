@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[microsoft-vscode]] [[garrytan-gstack]] [[scenario-labs-skills]] [[angular-angular]] [[nvidia-auto-ontology]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[cjpais-handy]] [[scenario-labs-skills]] [[ranxianglei-billion-context]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

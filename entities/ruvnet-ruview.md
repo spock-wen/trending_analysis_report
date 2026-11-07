@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[nushell-nushell]] [[prometheus-prometheus]] [[zed-industries-zed]] [[bregman-arie-devops-exercises]] [[rust-lang-rust]]
+[[astral-sh-ruff]] [[rust-lang-rust]] [[bregman-arie-devops-exercises]] [[zed-industries-zed]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[devops]]
 

@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[nushell-nushell]] [[mpv-player-mpv]] [[scenario-labs-skills]] [[nvidia-auto-ontology]]
+[[anthropics-skills]] [[cjpais-handy]] [[scenario-labs-skills]] [[mpv-player-mpv]] [[google-skills]]
 
 **所属领域**: [[cli]] [[audio]]
 

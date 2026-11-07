@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[tauricresearch-tradingagents]] [[nvidia-auto-ontology]] [[paperclipai-paperclip]] [[microsoft-vibevoice]]
+[[anthropics-skills]] [[google-skills]] [[tauricresearch-tradingagents]] [[mbillow-localthings]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[science]]
 

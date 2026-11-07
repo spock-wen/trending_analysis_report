@@ -34,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[ntdevlabs-tiny11builder]] [[k1tbyte-wand-enhancer]] [[sonarr-sonarr]] [[affaan-m-ecc]]
+[[k1tbyte-wand-enhancer]] [[jiafeimiao-k-cat-discimagestudio]] [[sonarr-sonarr]] [[beenuar-aisoc]] [[nvidia-skillspector]]
 
 **所属领域**: [[security]]
 

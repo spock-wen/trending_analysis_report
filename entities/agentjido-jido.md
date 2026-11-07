@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[mattpocock-skills]] [[teslamate-org-teslamate]] [[plausible-analytics]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[teslamate-org-teslamate]] [[google-skills]] [[plausible-analytics]]
 
 **所属领域**: [[ai-agent]]
 

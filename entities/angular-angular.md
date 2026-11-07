@@ -35,7 +35,7 @@ Deliver web apps with confidence 🚀
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[microsoft-vscode]] [[garrytan-gstack]] [[react-react]] [[conardli-garden-skills]]
+[[tailwindlabs-tailwindcss]] [[react-react]] [[ranxianglei-billion-context]] [[vercel-labs-agent-browser]] [[milind-soni-openmausbot]]
 
 **所属领域**: [[web]]
 

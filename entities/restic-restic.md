@@ -34,5 +34,5 @@ Fast, secure, efficient backup program
 
 ## 相关项目
 
-[[etcd-io-etcd]] [[juliusbrussee-caveman]] [[prometheus-prometheus]] [[strelov1-freehire]]
+[[strelov1-freehire]] [[dsx-ai-factory-nvke]] [[etcd-io-etcd]] [[prometheus-prometheus]]
 

@@ -34,5 +34,5 @@ Telegram-iOS
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[vorssaint-vorssaint-utils]] [[abue-ammar-tinycast]] [[manaflow-ai-cmux]]
+[[abue-ammar-tinycast]] [[xtool-org-xtool]] [[manaflow-ai-cmux]] [[vorssaint-vorssaint-utils]]
 

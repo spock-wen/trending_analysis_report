@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-11-07 | 总页面：883
+> 最后更新：2026-11-08 | 总页面：887
 
 ## Entities
 
@@ -167,7 +167,7 @@
 - [[cloudflare-cloudflare-os|cloudflare-os]] — Agent workspace built on Cloudflare Workers for creating doc...
 - [[cloudflare-computer|computer]] — Give your agent a computer 👾 🔥
 - [[cloudflare-quiche|quiche]] — 🥧 Savoury implementation of the QUIC transport protocol and ...
-- [[cloudflare-security-audit-skill|security-audit-skill]] — A coding-agent skill for multi-phase security audits with in...
+- [[cloudflare-security-audit-skill|security-audit-skill]] — A coding-agent skill for multi-phase security audits with in... 🆕
 - [[cloudflare-workerd|workerd]] — The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [[clshortfuse-renodx|renodx]] — Renovation Engine for DirectX Games
 - [[cocoindex-io-cocoindex|cocoindex]] — Incremental engine for long horizon agents 🌟 Star if you lik... 🆕
@@ -240,6 +240,7 @@
 - [[dottxt-ai-outlines|outlines]] — Structured Outputs 🆕
 - [[dream-num-univer|univer]] — The Office Harness for AI Agents — Spreadsheets, Docs, Slide... 🔥
 - [[dreammis-social-auto-upload|social-auto-upload]] — 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+- [[dsx-ai-factory-nvke|nvke]] — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU ... 🆕
 - [[duartesantos8-opengym|openGym]] — Self-hosted gym & body-weight tracker — plan routines, log w... 🔥
 - [[earendil-works-pi|pi]] — AI agent toolkit: unified LLM API, agent loop, TUI, coding a...
 - [[earthtojake-text-to-cad|text-to-cad]] — Give your agent CAD superpowers. 🔥
@@ -254,7 +255,7 @@
 - [[emmabostian-developer-portfolios|developer-portfolios]] — A list of developer portfolios for your inspiration
 - [[epicgames-raddebugger|raddebugger]] — A native, user-mode, multi-process, graphical debugger. 🆕
 - [[esengine-deepseek-reasonix|DeepSeek-Reasonix]] — DeepSeek-native AI coding agent for your terminal. Engineere... 🔥
-- [[etcd-io-etcd|etcd]] — Distributed reliable key-value store for the most critical d... 🆕
+- [[etcd-io-etcd|etcd]] — Distributed reliable key-value store for the most critical d...
 - [[ever-co-ever-gauzy|ever-gauzy]] — Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HR... 🔥
 - [[every-app-open-seo|open-seo]] — Open source alternative to Semrush and Ahrefs 🔥
 - [[everyinc-compound-engineering-plugin|compound-engineering-plugin]] — Official Compound Engineering plugin for Claude Code, Codex,...
@@ -322,7 +323,7 @@
 - [[google-magika|magika]] — Fast and accurate AI powered file content types detection 🔥
 - [[google-osv-scanner|osv-scanner]] — Vulnerability scanner written in Go which uses the data prov...
 - [[google-research-timesfm|timesfm]] — TimesFM (Time Series Foundation Model) is a pretrained time-... 🔥
-- [[google-skills|skills]] — Agent Skills for Google products and technologies 🆕
+- [[google-skills|skills]] — Agent Skills for Google products and technologies 🔥
 - [[googlecloudplatform-generative-ai|generative-ai]] — Sample code and notebooks for Generative AI on Google Cloud,... 🆕
 - [[gorhill-ublock|uBlock]] — uBlock Origin - An efficient blocker for Chromium and Firefo...
 - [[gorvgoyl-clone-wars|Clone-Wars]] — 100+ open-source clones of popular sites like Airbnb, Amazon...
@@ -491,6 +492,7 @@
 - [[mauriceboe-trek|TREK]] — A self-hosted travel/trip planner with real-time collaborati... 🆕
 - [[max-sixty-worktrunk|worktrunk]] — Worktrunk is a CLI for Git worktree management, designed for... 🔥
 - [[maziyarpanahi-openmed|openmed]] — open-source healthcare ai 🔥
+- [[mbillow-localthings|localthings]] — Control your Samsung appliances from Home Assistant over you... 🆕
 - [[mebus-cupp|cupp]] — Common User Passwords Profiler (CUPP) 🆕
 - [[medusajs-medusa|medusa]] — The world's most flexible commerce platform.
 - [[megadose-holehe|holehe]] — holehe allows you to check if the mail is used on different ... 🔥
@@ -499,6 +501,7 @@
 - [[meloong-git-pcl|PCL]] — Minecraft 启动器 Plain Craft Launcher（PCL）。
 - [[mempalace-mempalace|mempalace]] — The best-benchmarked open-source AI memory system. And it's ...
 - [[meshery-meshery|meshery]] — Meshery, the cloud native manager 🔥
+- [[meta-astryx|astryx]] — An open source design system that's fully customizable and a... 🆕
 - [[mg1937-asc|ASC]] — ASC is a super FAST Android decompiler front-end designed fo...
 - [[michaelcade-90daysofdevops|90DaysOfDevOps]] — This repository started out as a learning in public project ...
 - [[microsoft-agent-framework|agent-framework]] — A framework for building, orchestrating and deploying AI age...
@@ -522,7 +525,7 @@
 - [[mihail911-modern-software-dev-assignments|modern-software-dev-assignments]] — Assignments for CS146S: The Modern Software Dev (Stanford Un...
 - [[mikeroyal-self-hosting-guide|Self-Hosting-Guide]] — Self-Hosting Guide. Learn all about locally hosting (on prem...
 - [[mikumifa-bilitickerbuy|biliTickerBuy]] — b站会员购购票辅助工具
-- [[milind-soni-openmausbot|OpenMausBot]] — Open-source Grok Bot alternative with a virtual machine that... 🔥
+- [[milind-soni-openmausbot|OpenMausBot]] — Open-source Grok Bot alternative with a virtual machine that...
 - [[millionco-react-doctor|react-doctor]] — Your agent writes bad React. This catches it 🔥
 - [[mksglu-context-mode|context-mode]] — Context window optimization for AI coding agents. Sandboxes ... 🔥
 - [[mlabonne-llm-course|llm-course]] — Course to get into Large Language Models (LLMs) with roadmap...
@@ -536,7 +539,7 @@
 - [[moonshotai-kimi-cli|kimi-cli]] — Kimi Code CLI is your next CLI agent. 🔥
 - [[moontechlab-lunatv|LunaTV]] — 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 🆕
 - [[morluto-rea|rea]] — Reverse engineer anything with agents, from app behavior dow... 🔥
-- [[mpv-player-mpv|mpv]] — 🎥 Command line media player 🆕
+- [[mpv-player-mpv|mpv]] — 🎥 Command line media player
 - [[msitarzewski-agency-agents|agency-agents]] — A complete AI agency at your fingertips - From frontend wiza...
 - [[mukul975-anthropic-cybersecurity-skills|Anthropic-Cybersecurity-Skills]] — 817 structured cybersecurity skills for AI agents · Mapped t... 🔥
 - [[multica-ai-andrej-karpathy-skills|andrej-karpathy-skills]] — A single CLAUDE.md file to improve Claude Code behavior, der...
@@ -562,7 +565,7 @@
 - [[nomadamas-k-skill|k-skill]] — 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로 🆕
 - [[nousresearch-hermes-agent|hermes-agent]] — The agent that grows with you 🔥
 - [[ntdevlabs-tiny11builder|tiny11builder]] — WinUI app for building smaller, customized Windows 11 images...
-- [[nushell-nushell|nushell]] — A new type of shell 🆕
+- [[nushell-nushell|nushell]] — A new type of shell
 - [[nutlope-hallmark|hallmark]] — Anti-AI-slop design skill for Claude Code, Cursor, and Codex... 🔥
 - [[nuxt-nuxt|nuxt]] — the full-stack Vue framework
 - [[nvidia-ai-blueprints-video-search-and-summarization|video-search-and-summarization]] — Suite of reference architectures for building GPU-accelerate... 🆕
@@ -604,7 +607,7 @@
 - [[opengeos-geolibre|GeoLibre]] — A lightweight, cloud-native GIS platform for visualizing, ex... 🔥
 - [[openinterpreter-openinterpreter|openinterpreter]] — A coding agent for open models like Kimi K3 🔥
 - [[openmoss-moss-tts|MOSS-TTS]] — MOSS‑TTS Family is an open‑source speech and sound generatio...
-- [[openssl-openssl|openssl]] — General purpose TLS and crypto library 🆕
+- [[openssl-openssl|openssl]] — General purpose TLS and crypto library
 - [[opentoonz-opentoonz|opentoonz]] — OpenToonz - An open-source full-featured 2D animation creati...
 - [[openwhispr-openwhispr|openwhispr]] — Voice-to-text dictation app with local (Nvidia Parakeet/Whis...
 - [[openwrt-openwrt|openwrt]] — This repository is a mirror of https://git.openwrt.org/openw...
@@ -663,11 +666,12 @@
 - [[qbittorrent-qbittorrent|qBittorrent]] — qBittorrent BitTorrent client
 - [[qwenlm-qwen-agent|Qwen-Agent]] — Agent framework and applications built upon Qwen>=3.0, featu... 🆕
 - [[radixark-miles|miles]] — Miles is an enterprise-facing reinforcement learning framewo...
-- [[rails-rails|rails]] — Ruby on Rails 🆕
+- [[rails-rails|rails]] — Ruby on Rails
 - [[rakyll-hey|hey]] — HTTP load generator, ApacheBench (ab) replacement
+- [[ranxianglei-billion-context|billion-context]] — A context-compression plugin for month-long single sessions ... 🆕
 - [[raphire-win11debloat|Win11Debloat]] — A simple, lightweight PowerShell script that allows you to r... 🆕
 - [[rasbt-llms-from-scratch|LLMs-from-scratch]] — Implement a ChatGPT-like LLM in PyTorch from scratch, step b... 🔥
-- [[react-react|react]] — The library for web and native user interfaces. 🆕
+- [[react-react|react]] — The library for web and native user interfaces.
 - [[reconurge-flowsint|flowsint]] — A modern platform for visual, flexible, and extensible graph...
 - [[refactoringhq-tolaria|tolaria]] — Desktop app to manage markdown knowledge bases
 - [[renhuai123-ziwei-doushu|ziwei-doushu]] — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 🔥
@@ -706,7 +710,7 @@
 - [[shanraisshan-claude-code-best-practice|claude-code-best-practice]] — from vibe coding to agentic engineering - practice makes cla...
 - [[shareai-lab-learn-claude-code|learn-claude-code]] — Bash is all you need - A nano claude code–like 「agent harnes...
 - [[sharex-sharex|ShareX]] — ShareX is a free and open-source application that enables us...
-- [[sherlock-project-sherlock|sherlock]] — Hunt down social media accounts by username across social ne... 🔥
+- [[sherlock-project-sherlock|sherlock]] — Hunt down social media accounts by username across social ne...
 - [[shiyu-coder-kronos|Kronos]] — Kronos: A Foundation Model for the Language of Financial Mar... 🔥
 - [[shubhamsaboo-awesome-llm-apps|awesome-llm-apps]] — 100+ AI Agents, Agent Skills and RAG Apps - Free and Open So...
 - [[shy3130-tick-stock-panel|tick-stock-panel]] — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自...
@@ -742,12 +746,12 @@
 - [[swc-project-swc|swc]] — Rust-based platform for the Web
 - [[swoole-typephp|typephp]] — Compile PHP to Native Binaries
 - [[swordfish90-cool-retro-term|cool-retro-term]] — A good looking terminal emulator which mimics the old cathod...
-- [[symfony-symfony|symfony]] — The Symfony PHP framework 🆕
+- [[symfony-symfony|symfony]] — The Symfony PHP framework
 - [[systemd-systemd|systemd]] — The systemd System and Service Manager
 - [[t8y2-dbx|dbx]] — 25 MB lightweight cross-platform database client for 100+ da... 🆕
 - [[tailscale-tailcat|tailcat]] — like netcat, but over Tailscale's data plane, without Tailsc... 🆕
 - [[tailscale-tailscale|tailscale]] — The easiest, most secure way to use WireGuard and 2FA.
-- [[tailwindlabs-tailwindcss|tailwindcss]] — A utility-first CSS framework for rapid UI development. 🆕
+- [[tailwindlabs-tailwindcss|tailwindcss]] — A utility-first CSS framework for rapid UI development.
 - [[tapxworld-chinatextbook|ChinaTextbook]] — 所有小初高、大学PDF教材。
 - [[tashfeenahmed-freellmapi|freellmapi]] — 7.4 billion tokens per month. 34 free LLM providers. 635 fre...
 - [[tauricresearch-tradingagents|TradingAgents]] — TradingAgents: Multi-Agents LLM Financial Trading Framework 🆕

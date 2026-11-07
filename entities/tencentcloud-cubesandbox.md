@@ -37,7 +37,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ## 相关项目
 
-[[nushell-nushell]] [[zed-industries-zed]] [[nvidia-auto-ontology]] [[rust-lang-rust]] [[astral-sh-ruff]]
+[[astral-sh-ruff]] [[anthropics-skills]] [[tailwindlabs-tailwindcss]] [[rust-lang-rust]] [[google-skills]]
 
 **所属领域**: [[ai-agent]]
 

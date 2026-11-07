@@ -38,5 +38,5 @@ Useful tool to track location or mobile number
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[microsoft-vibevoice]] [[google-skills]] [[nvidia-auto-ontology]]
+[[anthropics-skills]] [[google-skills]] [[sherlock-project-sherlock]] [[mbillow-localthings]]
 

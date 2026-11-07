@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[d4vinci-scrapling]] [[xiaolai-the-craft-of-selfteaching]] [[nvidia-auto-ontology]] [[michaelcade-90daysofdevops]]
+[[xiaolai-the-craft-of-selfteaching]] [[anthropics-skills]] [[google-skills]] [[mbillow-localthings]] [[thu-maic-openmaic]]
 
 **所属领域**: [[education]]
 

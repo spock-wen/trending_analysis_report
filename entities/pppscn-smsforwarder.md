@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[android-skills]] [[d4vinci-scrapling]] [[mahlernim-google-timeline-visualizer]] [[angular-angular]] [[embabel-embabel-agent]]
+[[tailwindlabs-tailwindcss]] [[react-react]] [[bannedbook-fanqiang]] [[embabel-embabel-agent]] [[mahlernim-google-timeline-visualizer]]
 
 **所属领域**: [[web]]
 

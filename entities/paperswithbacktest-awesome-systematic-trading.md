@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[d4vinci-scrapling]] [[xiaolai-the-craft-of-selfteaching]] [[nvidia-auto-ontology]] [[paperclipai-paperclip]]
+[[xiaolai-the-craft-of-selfteaching]] [[anthropics-skills]] [[google-skills]] [[tauricresearch-tradingagents]] [[mbillow-localthings]]
 
 **所属领域**: [[education]] [[science]]
 

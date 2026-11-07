@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[nushell-nushell]] [[mpv-player-mpv]] [[tauricresearch-tradingagents]] [[nvidia-auto-ontology]] [[paperclipai-paperclip]]
+[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[mpv-player-mpv]] [[beenuar-aisoc]] [[nvidia-skillspector]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

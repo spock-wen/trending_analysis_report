@@ -38,5 +38,5 @@ A collective list of free APIs
 
 ## 相关项目
 
-[[d4vinci-scrapling]] [[microsoft-vibevoice]] [[google-skills]] [[nvidia-auto-ontology]]
+[[anthropics-skills]] [[google-skills]] [[sherlock-project-sherlock]] [[mbillow-localthings]]
 

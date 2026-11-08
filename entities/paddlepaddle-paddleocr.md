@@ -37,7 +37,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[nvidia-auto-ontology]] [[conardli-garden-skills]] [[scenario-labs-skills]]
+[[jiafeimiao-k-cat-discimagestudio]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[google-skills]] [[dsx-ai-factory-nvke]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

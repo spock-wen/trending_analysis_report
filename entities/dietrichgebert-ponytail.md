@@ -38,7 +38,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ## 相关项目
 
-[[react-react]] [[anthropics-skills]] [[conardli-garden-skills]] [[tailwindlabs-tailwindcss]] [[orkas-ai-orkas]]
+[[cloudflare-security-audit-skill]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[meta-astryx]] [[react-react]]
 
 **所属领域**: [[ai-agent]]
 

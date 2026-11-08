@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[nvidia-auto-ontology]] [[cloudflare-security-audit-skill]] [[beenuar-aisoc]]
+[[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[google-skills]] [[cloudflare-security-audit-skill]] [[dsx-ai-factory-nvke]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

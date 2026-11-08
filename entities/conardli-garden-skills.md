@@ -36,7 +36,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[react-react]] [[anthropics-skills]] [[tailwindlabs-tailwindcss]] [[nvidia-auto-ontology]] [[scenario-labs-skills]]
+[[tailwindlabs-tailwindcss]] [[jiafeimiao-k-cat-discimagestudio]] [[cloudflare-security-audit-skill]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

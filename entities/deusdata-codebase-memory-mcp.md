@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[nvidia-auto-ontology]] [[mpv-player-mpv]] [[fareedkhan-dev-kimi-k3-in-c]]
+[[prometheus-prometheus]] [[fareedkhan-dev-kimi-k3-in-c]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

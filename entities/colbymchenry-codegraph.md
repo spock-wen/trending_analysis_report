@@ -38,7 +38,7 @@ Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[mpv-player-mpv]] [[fareedkhan-dev-kimi-k3-in-c]] [[google-skills]]
+[[fareedkhan-dev-kimi-k3-in-c]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]] [[openssl-openssl]]
 
 **所属领域**: [[ai-agent]]
 

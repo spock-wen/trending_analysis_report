@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[bannedbook-fanqiang]] [[embabel-embabel-agent]] [[mahlernim-google-timeline-visualizer]]
+[[embabel-embabel-agent]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]]
 
 **所属领域**: [[ai-agent]]
 

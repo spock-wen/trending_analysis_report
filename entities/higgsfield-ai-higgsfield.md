@@ -35,7 +35,7 @@ Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[anthropics-skills]] [[tailwindlabs-tailwindcss]] [[google-skills]] [[mattpocock-skills]]
+[[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

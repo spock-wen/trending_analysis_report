@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[react-react]] [[xiaolai-the-craft-of-selfteaching]] [[google-skills]]
+[[tailwindlabs-tailwindcss]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

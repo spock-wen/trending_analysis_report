@@ -34,5 +34,5 @@ Extremely Fast Compression algorithm
 
 ## 相关项目
 
-[[fareedkhan-dev-kimi-k3-in-c]] [[openssl-openssl]] [[mpv-player-mpv]]
+[[openssl-openssl]] [[mpv-player-mpv]] [[fareedkhan-dev-kimi-k3-in-c]]
 

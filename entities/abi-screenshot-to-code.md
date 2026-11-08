@@ -35,7 +35,7 @@ Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[react-react]] [[google-skills]] [[vercel-labs-agent-browser]]
+[[tailwindlabs-tailwindcss]] [[anthropics-claude-quickstarts]] [[google-skills]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

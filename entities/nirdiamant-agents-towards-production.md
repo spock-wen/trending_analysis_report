@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[higgsfield-ai-higgsfield]] [[anthropics-skills]] [[tailwindlabs-tailwindcss]] [[obra-superpowers]]
+[[usagi-org-ai-goofish-monitor]] [[patchy631-ai-engineering-hub]] [[prometheus-prometheus]] [[xiaolai-the-craft-of-selfteaching]] [[anthropics-claude-quickstarts]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

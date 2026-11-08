@@ -35,7 +35,7 @@ The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[google-skills]] [[agricidaniel-claude-seo]] [[hugohe3-ppt-master]]
+[[hugohe3-ppt-master]] [[anthropics-claude-quickstarts]] [[php-php-src]] [[google-skills]] [[dsx-ai-factory-nvke]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

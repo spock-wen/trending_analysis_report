@@ -34,5 +34,5 @@ You like pytorch? You like micrograd? You love tinygrad! ❤️
 
 ## 相关项目
 
-[[anthropics-skills]] [[google-skills]] [[sherlock-project-sherlock]] [[mbillow-localthings]]
+[[sherlock-project-sherlock]] [[anthropics-skills]] [[anthropics-claude-quickstarts]] [[google-skills]]
 

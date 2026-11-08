@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[astral-sh-ruff]] [[nvidia-auto-ontology]] [[rust-lang-rust]] [[kornia-kornia]] [[zed-industries-zed]]
+[[prometheus-prometheus]] [[rust-lang-rust]] [[vercel-labs-agent-browser]] [[etcd-io-etcd]] [[astral-sh-ruff]]
 
 **所属领域**: [[data]]
 

@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[anthropics-skills]] [[google-skills]] [[tauricresearch-tradingagents]] [[mbillow-localthings]]
+[[patchy631-ai-engineering-hub]] [[anthropics-claude-quickstarts]] [[xiaolai-the-craft-of-selfteaching]] [[google-skills]] [[sherlock-project-sherlock]]
 
 **所属领域**: [[education]] [[science]]
 

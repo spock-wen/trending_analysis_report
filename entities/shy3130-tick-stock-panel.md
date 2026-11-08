@@ -34,7 +34,7 @@ TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 |
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[google-skills]] [[mattpocock-skills]] [[mbillow-localthings]]
+[[anthropics-claude-quickstarts]] [[google-skills]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[sherlock-project-sherlock]]
 
 **所属领域**: [[ai-agent]]
 

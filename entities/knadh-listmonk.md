@@ -34,7 +34,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[dsx-ai-factory-nvke]] [[google-skills]] [[mattpocock-skills]]
+[[prometheus-prometheus]] [[dsx-ai-factory-nvke]] [[etcd-io-etcd]] [[vercel-labs-agent-browser]] [[strelov1-freehire]]
 
 **所属领域**: [[ai-agent]]
 

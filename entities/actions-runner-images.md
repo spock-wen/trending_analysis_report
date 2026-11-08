@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[nvidia-auto-ontology]] [[conardli-garden-skills]] [[scenario-labs-skills]] [[jiafeimiao-k-cat-discimagestudio]]
+[[jiafeimiao-k-cat-discimagestudio]] [[raphire-win11debloat]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

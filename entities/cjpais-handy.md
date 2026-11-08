@@ -34,7 +34,7 @@ A free, open source, and extensible speech-to-text application that works comple
 
 ## 相关项目
 
-[[astral-sh-ruff]] [[anthropics-skills]] [[tailwindlabs-tailwindcss]] [[scenario-labs-skills]] [[rust-lang-rust]]
+[[rust-lang-rust]] [[dsx-ai-factory-nvke]] [[microsoft-vibevoice]] [[vercel-labs-agent-browser]] [[zed-industries-zed]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

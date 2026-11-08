@@ -37,7 +37,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[cjpais-handy]] [[scenario-labs-skills]] [[google-skills]]
+[[anthropics-claude-quickstarts]] [[google-skills]] [[dsx-ai-factory-nvke]] [[microsoft-vibevoice]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

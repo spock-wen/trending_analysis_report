@@ -38,7 +38,7 @@ Agent Skills for Google products and technologies
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[mattpocock-skills]] [[mbillow-localthings]] [[sherlock-project-sherlock]]
+[[anthropics-claude-quickstarts]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[sherlock-project-sherlock]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

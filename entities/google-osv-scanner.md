@@ -34,7 +34,7 @@ Vulnerability scanner written in Go which uses the data provided by https://osv.
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[react-react]] [[nvidia-auto-ontology]] [[dsx-ai-factory-nvke]] [[kornia-kornia]]
+[[tailwindlabs-tailwindcss]] [[prometheus-prometheus]] [[dsx-ai-factory-nvke]] [[etcd-io-etcd]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[web]] [[data]]
 

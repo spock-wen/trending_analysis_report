@@ -34,7 +34,7 @@ VSCode theme based off the easemate IDE and Jetbrains islands theme
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[zhaoxuya520-reverse-skill]] [[anthropics-skills]] [[mpv-player-mpv]] [[raphire-win11debloat]]
+[[raphire-win11debloat]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]] [[nushell-nushell]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

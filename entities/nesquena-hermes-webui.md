@@ -37,7 +37,7 @@ Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[react-react]] [[google-skills]] [[vercel-labs-agent-browser]]
+[[tailwindlabs-tailwindcss]] [[anthropics-claude-quickstarts]] [[google-skills]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -38,5 +38,5 @@ Python tool for converting files and office documents to Markdown.
 
 ## 相关项目
 
-[[anthropics-skills]] [[google-skills]] [[sherlock-project-sherlock]] [[mbillow-localthings]]
+[[sherlock-project-sherlock]] [[anthropics-skills]] [[anthropics-claude-quickstarts]] [[google-skills]]
 

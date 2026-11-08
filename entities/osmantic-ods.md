@@ -35,7 +35,7 @@ Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[nvidia-auto-ontology]] [[conardli-garden-skills]] [[scenario-labs-skills]]
+[[jiafeimiao-k-cat-discimagestudio]] [[anthropics-claude-quickstarts]] [[google-skills]] [[dsx-ai-factory-nvke]] [[microsoft-vibevoice]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

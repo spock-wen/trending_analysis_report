@@ -36,7 +36,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[react-react]] [[tensorflow-tensorflow]] [[hyprwm-hyprland]] [[vercel-labs-agent-browser]]
+[[boykopovar-anyps5]] [[tailwindlabs-tailwindcss]] [[vercel-labs-agent-browser]] [[hyprwm-hyprland]] [[react-react]]
 
 **所属领域**: [[web]]
 

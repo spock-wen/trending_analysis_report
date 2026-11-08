@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[higgsfield-ai-higgsfield]] [[anthropics-skills]] [[tailwindlabs-tailwindcss]] [[google-skills]]
+[[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[ai-agent]]
 

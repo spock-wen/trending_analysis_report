@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-skills]] [[nvidia-auto-ontology]] [[google-skills]] [[tauricresearch-tradingagents]] [[kornia-kornia]]
+[[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[google-skills]] [[sherlock-project-sherlock]] [[etcd-io-etcd]]
 
 **所属领域**: [[data]] [[science]]
 

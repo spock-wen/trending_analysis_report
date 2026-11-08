@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[zhaoxuya520-reverse-skill]] [[mpv-player-mpv]] [[raphire-win11debloat]]
+[[bwya77-vscode-dark-islands]] [[raphire-win11debloat]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

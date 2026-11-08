@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[dsx-ai-factory-nvke]] [[bregman-arie-devops-exercises]] [[usagi-org-ai-goofish-monitor]] [[prometheus-prometheus]] [[michaelcade-90daysofdevops]]
+[[usagi-org-ai-goofish-monitor]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[dsx-ai-factory-nvke]] [[etcd-io-etcd]]
 
 **所属领域**: [[devops]]
 

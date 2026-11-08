@@ -16,42 +16,25 @@ db = sqlite3.connect('/srv/www/github-trending-wiki/data/github_trending.db')
 rows = db.execute("SELECT repo_full_name, weekly_stars FROM weekly_trending WHERE week_end=? ORDER BY weekly_stars DESC", (week_end,)).fetchall()
 
 def cat(name):
-    # 口径（2026-11-01 起，与周报速览/复盘表一致）：Skill/编排/上下文/越狱/其他
-    skill = {'morluto/rea','cloudflare/security-audit-skill','anthropics/claude-plugins-official',
-             'anthropics/knowledge-work-plugins','cursor/plugins','android/skills',
-             'mattpocock/skills','cathrynlavery/diagram-design','alirezarezvani/claude-skills',
-             'addyosmani/agent-skills','pbakaus/impeccable','davila7/claude-code-templates',
-             'affaan-m/ECC','Nutlope/hallmark','SnailSploit/Claude-Red','luongnv89/claude-howto',
-             'AgriciDaniel/claude-seo','multica-ai/andrej-karpathy-skills','obra/superpowers',
-             'jakubkrehel/skills','Leonxlnx/taste-skill','anthropics/skills'}
+    # 口径（2026-11-08 起，与周报速览/复盘表一致）：Skill/基建/其他AI/非AI
+    skill = {'Donchitos/Claude-Code-Game-Studios','anthropics/skills','Nutlope/hallmark',
+             'jakubkrehel/skills','mattpocock/skills','obra/superpowers','pbakaus/impeccable',
+             'cloudflare/security-audit-skill','AgriciDaniel/claude-seo','Leonxlnx/taste-skill',
+             'multica-ai/andrej-karpathy-skills'}
     if name in skill:
-        return 'Skill/插件生态'
-    orch = {'stablyai/orca','anomalyco/opencode','ruvnet/ruflo','HKUDS/CLI-Anything',
-            'paperclipai/paperclip','vectorize-io/hindsight','dream-num/univer','superdesigndev/treg',
-            'Panniantong/Agent-Reach','pingdotgg/t3code','mvschwarz/openrig',
-            'msitarzewski/agency-agents','aws/agent-toolkit-for-aws',
-            'TauricResearch/TradingAgents','AstrBotDevs/AstrBot'}
-    if name in orch:
-        return 'Agent 编排与运行时'
-    ctx = {'Graphify-Labs/graphify','akitaonrails/ai-memory','ranxianglei/billion-context',
-           'mksglu/context-mode','headroomlabs-ai/headroom','thedotmack/claude-mem'}
-    if name in ctx:
-        return '上下文与记忆'
-    jailbreak = {'YuJunZhiXue/dsh-purge'}
-    if name in jailbreak:
-        return '提示词/越狱工具'
-    content = {'heygen-com/hyperframes','Comfy-Org/ComfyUI','storytold/artcraft',
-               'debpalash/VoiceStudio','harry0703/MoneyPrinterTurbo','Kruk2/jasna','OpenBMB/VoxCPM'}
-    if name in content:
-        return 'AI 内容创作'
-    infer = {'vllm-project/vllm','pytorch/pytorch','huggingface/transformers','tile-ai/tilelang'}
-    if name in infer:
-        return '推理基础设施'
-    return '独立应用/硬件'
+        return 'Skill 与插件生态'
+    infra = {'thedotmack/claude-mem','max-sixty/worktrunk','pingdotgg/t3code',
+             'github/spec-kit','The-PR-Agent/pr-agent','vercel-labs/agent-browser','affaan-m/ECC'}
+    if name in infra:
+        return '编码 Agent 基础设施'
+    otherai = {'milind-soni/OpenMausBot','shiyu-coder/Kronos','TauricResearch/TradingAgents',
+               'AstrBotDevs/AstrBot','YuJunZhiXue/dsh-purge'}
+    if name in otherai:
+        return '其他 AI 应用'
+    return '非 AI 工具'
 
-colors = {'Skill/插件生态': '#4C72B0', 'Agent 编排与运行时': '#E4572E', '上下文与记忆': '#2E8B57',
-          '提示词/越狱工具': '#C0392B',
-          'AI 内容创作': '#8172B2', '推理基础设施': '#C4A35A', '独立应用/硬件': '#8C8C8C'}
+colors = {'Skill 与插件生态': '#4C72B0', '编码 Agent 基础设施': '#E4572E',
+          '其他 AI 应用': '#8172B2', '非 AI 工具': '#8C8C8C'}
 names = [r[0] for r in rows][::-1]
 stars = [r[1] for r in rows][::-1]
 cats = [cat(r[0]) for r in rows][::-1]

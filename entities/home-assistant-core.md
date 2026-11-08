@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-skills]] [[beenuar-aisoc]] [[nvidia-skillspector]] [[google-skills]] [[mbillow-localthings]]
+[[anthropics-claude-quickstarts]] [[google-skills]] [[cloudflare-security-audit-skill]] [[sherlock-project-sherlock]] [[nvidia-skillspector]]
 
 **所属领域**: [[security]]
 

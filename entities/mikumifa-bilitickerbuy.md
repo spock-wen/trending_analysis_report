@@ -34,5 +34,5 @@ b站会员购购票辅助工具
 
 ## 相关项目
 
-[[anthropics-skills]] [[google-skills]] [[sherlock-project-sherlock]] [[mbillow-localthings]]
+[[sherlock-project-sherlock]] [[anthropics-skills]] [[anthropics-claude-quickstarts]] [[google-skills]]
 

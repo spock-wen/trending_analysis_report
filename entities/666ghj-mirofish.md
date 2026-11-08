@@ -38,5 +38,5 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通
 
 ## 相关项目
 
-[[anthropics-skills]] [[google-skills]] [[sherlock-project-sherlock]] [[mbillow-localthings]]
+[[sherlock-project-sherlock]] [[anthropics-skills]] [[anthropics-claude-quickstarts]] [[google-skills]]
 

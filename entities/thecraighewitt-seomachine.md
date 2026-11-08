@@ -38,7 +38,7 @@ A specialized Claude Code workspace for creating long-form, SEO-optimized blog c
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[google-skills]] [[agricidaniel-claude-seo]] [[hugohe3-ppt-master]]
+[[hugohe3-ppt-master]] [[anthropics-claude-quickstarts]] [[php-php-src]] [[google-skills]] [[dsx-ai-factory-nvke]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

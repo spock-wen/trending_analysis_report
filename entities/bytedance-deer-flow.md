@@ -38,7 +38,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[google-skills]] [[tauricresearch-tradingagents]] [[mattpocock-skills]]
+[[anthropics-claude-quickstarts]] [[google-skills]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[sherlock-project-sherlock]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

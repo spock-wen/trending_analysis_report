@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[react-react]] [[averygan-reclip]] [[ripienaar-free-for-dev]] [[xiaolai-the-craft-of-selfteaching]]
+[[tailwindlabs-tailwindcss]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[ripienaar-free-for-dev]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[web]] [[education]]
 

@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[xiaolai-the-craft-of-selfteaching]] [[beenuar-aisoc]] [[nvidia-skillspector]]
+[[patchy631-ai-engineering-hub]] [[anthropics-claude-quickstarts]] [[xiaolai-the-craft-of-selfteaching]] [[google-skills]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

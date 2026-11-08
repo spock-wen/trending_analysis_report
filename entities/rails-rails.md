@@ -34,7 +34,7 @@ Ruby on Rails
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[chatwoot-chatwoot]] [[google-skills]] [[docusealco-docuseal]]
+[[dsx-ai-factory-nvke]] [[chatwoot-chatwoot]] [[vercel-labs-agent-browser]] [[docusealco-docuseal]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ yoink any video from your terminal. no shady ads.
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[mpv-player-mpv]] [[ranxianglei-billion-context]] [[vercel-labs-agent-browser]] [[nushell-nushell]]
+[[tailwindlabs-tailwindcss]] [[ranxianglei-billion-context]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]] [[nushell-nushell]]
 
 **所属领域**: [[cli]]
 

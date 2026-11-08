@@ -37,7 +37,7 @@ Bash is all you need - A nano claude code–like 「agent harness」, built from
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[xiaolai-the-craft-of-selfteaching]] [[ranxianglei-billion-context]] [[google-skills]]
+[[tailwindlabs-tailwindcss]] [[patchy631-ai-engineering-hub]] [[ranxianglei-billion-context]] [[xiaolai-the-craft-of-selfteaching]] [[dsx-ai-factory-nvke]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

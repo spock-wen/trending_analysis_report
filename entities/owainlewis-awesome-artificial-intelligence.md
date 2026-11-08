@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[xiaolai-the-craft-of-selfteaching]] [[google-skills]] [[tauricresearch-tradingagents]]
+[[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

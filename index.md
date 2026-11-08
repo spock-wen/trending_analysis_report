@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-11-08 | 总页面：887
+> 最后更新：2026-11-09 | 总页面：889
 
 ## Entities
 
@@ -77,10 +77,11 @@
 - [[anthropics-claude-cookbooks|claude-cookbooks]] — A collection of notebooks/recipes showcasing some fun and ef...
 - [[anthropics-claude-plugins-community|claude-plugins-community]] — Community plugin marketplace for Claude Cowork and Claude Co... 🔥
 - [[anthropics-claude-plugins-official|claude-plugins-official]] — Official, Anthropic-managed directory of high quality Claude... 🔥
+- [[anthropics-claude-quickstarts|claude-quickstarts]] — A collection of projects designed to help developers quickly... 🆕
 - [[anthropics-cwc-workshops|cwc-workshops]] — No description
 - [[anthropics-financial-services|financial-services]] — No description 🔥
 - [[anthropics-knowledge-work-plugins|knowledge-work-plugins]] — Open source repository of plugins primarily intended for kno... 🆕
-- [[anthropics-skills|skills]] — Public repository for Agent Skills
+- [[anthropics-skills|skills]] — Public repository for Agent Skills 🆕
 - [[antirez-ds4|ds4]] — DeepSeek 4 Flash and PRO local inference engine for Metal, C...
 - [[antoinezambelli-forge|forge]] — A Python framework for self-hosted LLM tool-calling and mult...
 - [[apache-cassandra|cassandra]] — Open source transactional distributed database. Linear scala...
@@ -315,6 +316,7 @@
 - [[google-ai-edge-litert-lm|LiteRT-LM]] — No description 🔥
 - [[google-ai-edge-litert|LiteRT]] — LiteRT, successor to TensorFlow Lite. is Google's On-device ... 🆕
 - [[google-ax|ax]] — Google's open agentic orchestration runtime 🔥
+- [[google-deepmind-mujoco|mujoco]] — Multi-Joint dynamics with Contact. A general purpose physics... 🆕
 - [[google-deepmind-weathernext|weathernext]] — No description 🆕
 - [[google-gemini-gemini-cli|gemini-cli]] — An open-source AI agent that brings the power of Gemini dire...
 - [[google-googletest|googletest]] — GoogleTest - Google Testing and Mocking Framework 🔥
@@ -492,7 +494,7 @@
 - [[mauriceboe-trek|TREK]] — A self-hosted travel/trip planner with real-time collaborati... 🆕
 - [[max-sixty-worktrunk|worktrunk]] — Worktrunk is a CLI for Git worktree management, designed for... 🔥
 - [[maziyarpanahi-openmed|openmed]] — open-source healthcare ai 🔥
-- [[mbillow-localthings|localthings]] — Control your Samsung appliances from Home Assistant over you... 🆕
+- [[mbillow-localthings|localthings]] — Control your Samsung appliances from Home Assistant over you...
 - [[mebus-cupp|cupp]] — Common User Passwords Profiler (CUPP) 🆕
 - [[medusajs-medusa|medusa]] — The world's most flexible commerce platform.
 - [[megadose-holehe|holehe]] — holehe allows you to check if the mail is used on different ... 🔥
@@ -525,7 +527,7 @@
 - [[mihail911-modern-software-dev-assignments|modern-software-dev-assignments]] — Assignments for CS146S: The Modern Software Dev (Stanford Un...
 - [[mikeroyal-self-hosting-guide|Self-Hosting-Guide]] — Self-Hosting Guide. Learn all about locally hosting (on prem...
 - [[mikumifa-bilitickerbuy|biliTickerBuy]] — b站会员购购票辅助工具
-- [[milind-soni-openmausbot|OpenMausBot]] — Open-source Grok Bot alternative with a virtual machine that...
+- [[milind-soni-openmausbot|OpenMausBot]] — Open-source Grok Bot alternative with a virtual machine that... 🆕
 - [[millionco-react-doctor|react-doctor]] — Your agent writes bad React. This catches it 🔥
 - [[mksglu-context-mode|context-mode]] — Context window optimization for AI coding agents. Sandboxes ... 🔥
 - [[mlabonne-llm-course|llm-course]] — Course to get into Large Language Models (LLMs) with roadmap...
@@ -710,7 +712,7 @@
 - [[shanraisshan-claude-code-best-practice|claude-code-best-practice]] — from vibe coding to agentic engineering - practice makes cla...
 - [[shareai-lab-learn-claude-code|learn-claude-code]] — Bash is all you need - A nano claude code–like 「agent harnes...
 - [[sharex-sharex|ShareX]] — ShareX is a free and open-source application that enables us...
-- [[sherlock-project-sherlock|sherlock]] — Hunt down social media accounts by username across social ne...
+- [[sherlock-project-sherlock|sherlock]] — Hunt down social media accounts by username across social ne... 🆕
 - [[shiyu-coder-kronos|Kronos]] — Kronos: A Foundation Model for the Language of Financial Mar... 🔥
 - [[shubhamsaboo-awesome-llm-apps|awesome-llm-apps]] — 100+ AI Agents, Agent Skills and RAG Apps - Free and Open So...
 - [[shy3130-tick-stock-panel|tick-stock-panel]] — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自...
@@ -815,7 +817,7 @@
 - [[vectifyai-pageindex|PageIndex]] — 📑 PageIndex: Document Index for Vectorless, Reasoning-based ... 🆕
 - [[vectorize-io-hindsight|hindsight]] — Hindsight: Agent Memory That Learns 🔥
 - [[veracrypt-veracrypt|VeraCrypt]] — Disk encryption with strong security based on TrueCrypt
-- [[vercel-labs-agent-browser|agent-browser]] — Browser automation CLI for AI agents
+- [[vercel-labs-agent-browser|agent-browser]] — Browser automation CLI for AI agents 🆕
 - [[vercel-labs-agent-desktop|agent-desktop]] — Computer use CLI for AI agents 🔥
 - [[vercel-labs-json-render|json-render]] — The Generative UI framework
 - [[vercel-labs-open-agents|open-agents]] — An open source template for building cloud agents.

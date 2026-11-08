@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[bannedbook-fanqiang]] [[embabel-embabel-agent]] [[react-react]]
+[[embabel-embabel-agent]] [[tailwindlabs-tailwindcss]] [[android-skills]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[nvidia-auto-ontology]] [[mpv-player-mpv]] [[google-skills]]
+[[yuliskov-smarttube]] [[floci-io-floci]] [[prometheus-prometheus]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

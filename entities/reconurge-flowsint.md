@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[ranxianglei-billion-context]] [[beenuar-aisoc]] [[nvidia-skillspector]] [[milind-soni-openmausbot]]
+[[tailwindlabs-tailwindcss]] [[ranxianglei-billion-context]] [[cloudflare-security-audit-skill]] [[nvidia-skillspector]] [[beenuar-aisoc]]
 
 **所属领域**: [[security]]
 

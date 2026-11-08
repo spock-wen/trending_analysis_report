@@ -38,7 +38,7 @@ Clone any website with one command using AI coding agents
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[react-react]] [[mpv-player-mpv]] [[ranxianglei-billion-context]]
+[[tailwindlabs-tailwindcss]] [[ranxianglei-billion-context]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

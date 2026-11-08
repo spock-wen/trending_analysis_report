@@ -35,7 +35,7 @@ DeepEP: an efficient expert-parallel communication library
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[moonshotai-flashkda]] [[google-skills]] [[deepseek-ai-deepgemm]]
+[[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[moonshotai-flashkda]] [[deepseek-ai-deepgemm]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

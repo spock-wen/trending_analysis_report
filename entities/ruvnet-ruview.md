@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[astral-sh-ruff]] [[rust-lang-rust]] [[bregman-arie-devops-exercises]] [[zed-industries-zed]] [[vercel-labs-agent-browser]]
+[[usagi-org-ai-goofish-monitor]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[rust-lang-rust]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[devops]]
 

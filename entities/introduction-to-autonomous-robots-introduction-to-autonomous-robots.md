@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[google-skills]] [[cs341-illinois-coursebook]] [[mattpocock-skills]]
+[[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[cs341-illinois-coursebook]] [[anthropics-skills]] [[meta-astryx]]
 
 **所属领域**: [[ai-agent]]
 

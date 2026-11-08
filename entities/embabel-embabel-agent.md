@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]] [[google-skills]]
+[[android-skills]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[react-react]] [[nvidia-auto-ontology]] [[ranxianglei-billion-context]] [[kornia-kornia]]
+[[tailwindlabs-tailwindcss]] [[prometheus-prometheus]] [[ranxianglei-billion-context]] [[vercel-labs-agent-browser]] [[etcd-io-etcd]]
 
 **所属领域**: [[web]] [[data]]
 

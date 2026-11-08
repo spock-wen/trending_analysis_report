@@ -38,7 +38,7 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 
 ## 相关项目
 
-[[react-react]] [[tailwindlabs-tailwindcss]] [[conardli-garden-skills]] [[nvidia-auto-ontology]] [[orkas-ai-orkas]]
+[[tailwindlabs-tailwindcss]] [[prometheus-prometheus]] [[cloudflare-security-audit-skill]] [[vercel-labs-agent-browser]] [[etcd-io-etcd]]
 
 **所属领域**: [[web]] [[data]]
 

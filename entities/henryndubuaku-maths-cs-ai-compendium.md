@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[ranxianglei-billion-context]] [[google-skills]] [[tauricresearch-tradingagents]]
+[[tailwindlabs-tailwindcss]] [[ranxianglei-billion-context]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[milind-soni-openmausbot]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

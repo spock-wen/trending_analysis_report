@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[mpv-player-mpv]] [[beenuar-aisoc]] [[nvidia-skillspector]]
+[[anthropics-claude-quickstarts]] [[google-skills]] [[cloudflare-security-audit-skill]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

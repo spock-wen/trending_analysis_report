@@ -35,7 +35,7 @@ GLM-5: From Vibe Coding to Agentic Engineering
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[google-skills]] [[mattpocock-skills]]
+[[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[anthropics-skills]] [[meta-astryx]]
 
 **所属领域**: [[ai-agent]]
 

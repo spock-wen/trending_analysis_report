@@ -35,7 +35,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[google-skills]] [[chen08209-flclash]] [[flutter-skills]]
+[[flutter-skills]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[flutter-flutter]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]]
 

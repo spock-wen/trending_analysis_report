@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[google-skills]] [[docusealco-docuseal]] [[rails-rails]]
+[[rails-rails]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[docusealco-docuseal]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

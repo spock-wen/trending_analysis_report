@@ -35,7 +35,7 @@ Get production-ready images, video, audio, and 3D from any AI agent: skills that
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[nvidia-auto-ontology]] [[conardli-garden-skills]] [[cjpais-handy]]
+[[jiafeimiao-k-cat-discimagestudio]] [[anthropics-claude-quickstarts]] [[google-skills]] [[dsx-ai-factory-nvke]] [[microsoft-vibevoice]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

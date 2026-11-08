@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[astral-sh-ruff]] [[mpv-player-mpv]] [[rust-lang-rust]] [[zed-industries-zed]] [[vercel-labs-agent-browser]]
+[[rust-lang-rust]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]] [[astral-sh-ruff]] [[nushell-nushell]]
 
 **所属领域**: [[cli]]
 

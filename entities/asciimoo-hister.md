@@ -36,5 +36,5 @@ Your own search engine
 
 ## 相关项目
 
-[[strelov1-freehire]] [[dsx-ai-factory-nvke]] [[etcd-io-etcd]] [[prometheus-prometheus]]
+[[dsx-ai-factory-nvke]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[strelov1-freehire]]
 

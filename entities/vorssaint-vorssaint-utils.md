@@ -34,7 +34,7 @@ Free and open-source macOS menu bar toolkit.
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[manaflow-ai-cmux]] [[google-skills]] [[mattpocock-skills]]
+[[abue-ammar-tinycast]] [[dsx-ai-factory-nvke]] [[manaflow-ai-cmux]] [[vercel-labs-agent-browser]] [[xtool-org-xtool]]
 
 **所属领域**: [[ai-agent]]
 

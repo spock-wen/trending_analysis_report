@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[tensorflow-tensorflow]] [[hyprwm-hyprland]] [[kornia-kornia]] [[prometheus-prometheus]]
+[[boykopovar-anyps5]] [[prometheus-prometheus]] [[etcd-io-etcd]] [[hyprwm-hyprland]] [[google-deepmind-mujoco]]
 
 **所属领域**: [[data]]
 

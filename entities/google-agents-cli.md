@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[mpv-player-mpv]] [[google-skills]] [[bregman-arie-devops-exercises]]
+[[usagi-org-ai-goofish-monitor]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[google-skills]] [[dsx-ai-factory-nvke]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

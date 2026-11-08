@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[react-react]] [[averygan-reclip]] [[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]]
+[[tailwindlabs-tailwindcss]] [[ripienaar-free-for-dev]] [[vercel-labs-agent-browser]] [[cathrynlavery-diagram-design]] [[averygan-reclip]]
 
 **所属领域**: [[web]]
 

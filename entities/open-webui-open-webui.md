@@ -34,7 +34,7 @@ User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[react-react]] [[google-skills]] [[vercel-labs-agent-browser]]
+[[tailwindlabs-tailwindcss]] [[anthropics-claude-quickstarts]] [[google-skills]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

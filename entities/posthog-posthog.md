@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[react-react]] [[nvidia-auto-ontology]] [[google-skills]]
+[[tailwindlabs-tailwindcss]] [[usagi-org-ai-goofish-monitor]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[google-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

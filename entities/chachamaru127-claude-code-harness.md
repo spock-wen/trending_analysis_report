@@ -34,7 +34,7 @@ Claude Code Dedicated Development Harness - Achieving High-Quality Development T
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[mpv-player-mpv]] [[google-skills]] [[vercel-labs-agent-browser]]
+[[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]] [[anthropics-skills]] [[nushell-nushell]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

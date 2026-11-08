@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[nvidia-auto-ontology]] [[conardli-garden-skills]] [[scenario-labs-skills]]
+[[tailwindlabs-tailwindcss]] [[jiafeimiao-k-cat-discimagestudio]] [[ranxianglei-billion-context]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

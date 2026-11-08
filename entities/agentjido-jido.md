@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[teslamate-org-teslamate]] [[google-skills]] [[plausible-analytics]]
+[[plausible-analytics]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[teslamate-org-teslamate]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

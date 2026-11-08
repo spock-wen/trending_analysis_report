@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[react-react]] [[averygan-reclip]] [[cathrynlavery-diagram-design]] [[bregman-arie-devops-exercises]]
+[[tailwindlabs-tailwindcss]] [[usagi-org-ai-goofish-monitor]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[web]] [[devops]]
 

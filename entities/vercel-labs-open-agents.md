@@ -36,7 +36,7 @@ An open source template for building cloud agents.
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[ranxianglei-billion-context]] [[google-skills]] [[mattpocock-skills]]
+[[tailwindlabs-tailwindcss]] [[ranxianglei-billion-context]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[milind-soni-openmausbot]]
 
 **所属领域**: [[ai-agent]]
 

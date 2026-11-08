@@ -34,5 +34,5 @@ General plug-and-play inference library for Recursive Language Models (RLMs), su
 
 ## 相关项目
 
-[[anthropics-skills]] [[google-skills]] [[sherlock-project-sherlock]] [[mbillow-localthings]]
+[[sherlock-project-sherlock]] [[anthropics-skills]] [[anthropics-claude-quickstarts]] [[google-skills]]
 

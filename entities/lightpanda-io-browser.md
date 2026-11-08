@@ -38,7 +38,7 @@ Lightpanda: the headless browser designed for AI and automation
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[react-react]] [[google-skills]] [[vercel-labs-agent-browser]]
+[[tailwindlabs-tailwindcss]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[react-react]] [[ghostty-org-ghostty]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[anthropics-skills]] [[cjpais-handy]] [[scenario-labs-skills]] [[mpv-player-mpv]] [[google-skills]]
+[[anthropics-claude-quickstarts]] [[google-skills]] [[microsoft-vibevoice]] [[vercel-labs-agent-browser]] [[sherlock-project-sherlock]]
 
 **所属领域**: [[cli]] [[audio]]
 

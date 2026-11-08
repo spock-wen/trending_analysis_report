@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[anthropics-skills]] [[google-skills]] [[tauricresearch-tradingagents]] [[mbillow-localthings]] [[k-dense-ai-scientific-agent-skills]]
+[[anthropics-claude-quickstarts]] [[google-skills]] [[sherlock-project-sherlock]] [[paperclipai-paperclip]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[science]]
 

@@ -38,7 +38,7 @@ Lightning-Fast, On-Device, Multilingual TTS running natively via ONNX.
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[scenario-labs-skills]] [[cjpais-handy]] [[vorssaint-vorssaint-utils]] [[anomalyco-hex]]
+[[abue-ammar-tinycast]] [[manaflow-ai-cmux]] [[microsoft-vibevoice]] [[vorssaint-vorssaint-utils]] [[cjpais-handy]]
 
 **所属领域**: [[audio]]
 

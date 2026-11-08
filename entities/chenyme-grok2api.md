@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[react-react]] [[mpv-player-mpv]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]]
+[[tailwindlabs-tailwindcss]] [[prometheus-prometheus]] [[dsx-ai-factory-nvke]] [[etcd-io-etcd]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[web]] [[cli]]
 

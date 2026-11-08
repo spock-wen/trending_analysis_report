@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[react-react]] [[anthropics-skills]] [[conardli-garden-skills]] [[tailwindlabs-tailwindcss]] [[nvidia-auto-ontology]]
+[[jiafeimiao-k-cat-discimagestudio]] [[cloudflare-security-audit-skill]] [[dsx-ai-factory-nvke]] [[microsoft-vibevoice]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[mpv-player-mpv]] [[google-skills]] [[agricidaniel-claude-seo]]
+[[hugohe3-ppt-master]] [[anthropics-claude-quickstarts]] [[php-php-src]] [[google-skills]] [[dsx-ai-factory-nvke]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

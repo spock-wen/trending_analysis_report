@@ -36,7 +36,7 @@ Auto Ontology is a Python framework for building semantic, graph-based reasoning
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[conardli-garden-skills]] [[scenario-labs-skills]] [[jiafeimiao-k-cat-discimagestudio]]
+[[jiafeimiao-k-cat-discimagestudio]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[google-skills]] [[dsx-ai-factory-nvke]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

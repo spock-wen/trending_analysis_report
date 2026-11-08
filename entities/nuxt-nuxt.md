@@ -34,5 +34,5 @@ the full-stack Vue framework
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[meta-astryx]] [[milind-soni-openmausbot]] [[ranxianglei-billion-context]]
+[[tailwindlabs-tailwindcss]] [[milind-soni-openmausbot]] [[ranxianglei-billion-context]] [[meta-astryx]]
 

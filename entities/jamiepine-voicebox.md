@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[cjpais-handy]] [[scenario-labs-skills]] [[ranxianglei-billion-context]]
+[[tailwindlabs-tailwindcss]] [[ranxianglei-billion-context]] [[dsx-ai-factory-nvke]] [[microsoft-vibevoice]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

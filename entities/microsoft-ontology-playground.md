@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[react-react]] [[xiaolai-the-craft-of-selfteaching]] [[ranxianglei-billion-context]] [[vercel-labs-agent-browser]]
+[[tailwindlabs-tailwindcss]] [[patchy631-ai-engineering-hub]] [[ranxianglei-billion-context]] [[xiaolai-the-craft-of-selfteaching]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[web]] [[education]]
 

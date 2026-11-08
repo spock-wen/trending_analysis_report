@@ -59,6 +59,17 @@ ZH_DESC = {
  'AstrBotDevs/AstrBot': '多平台接入的 AI Agent 助手与开发框架',
  'pingdotgg/t3code': 'agent harness 控制台：手机 / 网页 / 桌面遥控本机编码 agent',
  'jakubkrehel/skills': '帮助 agent 做好界面的技能合集',
+ 'mattpocock/skills': '给真实工程师的技能包：直接搬自作者的 .agents 目录',
+ 'D4Vinci/Scrapling': '自适应网页抓取框架：单次请求到全站爬取一站搞定',
+ 'milind-soni/OpenMausBot': '开源 Grok 替代品：自带虚拟机供 bot 操作',
+ 'Donchitos/Claude-Code-Game-Studios': '把 Claude Code 变成游戏工作室：49 个 agent + 72 个工作流技能',
+ 'Renhuai123/ziwei-doushu': '紫微斗数开源排盘引擎：基于倪海厦《天纪》，含四化与格局库',
+ 'max-sixty/worktrunk': 'Git worktree 管理 CLI：为并行 agent 工作流设计',
+ 'github/spec-kit': 'GitHub 官方规范驱动开发（SDD）起步工具箱',
+ 'vercel-labs/agent-browser': 'Vercel 出品的浏览器自动化 CLI，给 agent 用',
+ 'The-PR-Agent/pr-agent': '老牌开源 PR 评审 agent：审查、建议、描述一站搞定',
+ 'shiyu-coder/Kronos': '金融市场基础模型：对 K 线时间序列做预训练',
+ 'hyprwm/Hyprland': '高可定制的动态平铺 Wayland 合成器',
 }
 total_stars = sum(WK.values())
 n_projects = len(rows)
@@ -89,7 +100,7 @@ for name in WK:
         GROUP[name] = ('连续上榜', 'orange')
     else:
         g = weeks_gone(name)
-        GROUP[name] = (f'断档 {g} 周', 'purple') if g <= 11 else ('新面孔', 'blue')
+        GROUP[name] = (f'断档 {g} 周', 'purple') if g <= 15 else ('新面孔', 'blue')
 
 daily = {}
 for name, cnt in db.execute(
@@ -122,25 +133,25 @@ C = {'blue': '#4C72B0', 'orange': '#E4572E', 'purple': '#8172B2', 'green': '#2E8
 
 # ⚠️ 每周手填：三段主线叙事（结论前置，正文压到 3-4 行）
 NARRATIVES = [
-    (C['orange'], '#FDEEE8', '#D14A24', '总量回落近四成，基本盘反而 +32.5%',
-     '15 项 88,298★，环比 <b>-39.2%</b>——但这是账面现象：上周 145,207★ 里 <b>78,562★</b> 是 morluto/rea 单仓脉冲尾差，剔除后基数 66,645★，本周实为 <b>+32.5%</b>，剔除 rea 两周脉冲后为近 7 周最高。rea 完全出局，脉冲叙事收尾。'),
-    (C['blue'], '#EAF0F9', '#3A62A8', '技能包接管十席，「反 AI 垃圾」成品类',
-     'Skill/插件生态拿下 <b>10 席 65,744★</b>（上周 6 席，剔除 rea 后 21,589★，<b>+204.5%</b>）。四个「反 AI 垃圾」设计技能包同榜：<b>hallmark</b> +12,062★ 登顶、<b>impeccable</b> +12,031★ 日榜全勤，再加 taste-skill 与 jakubkrehel——6 月是单品，本周是品类。'),
-    (C['purple'], '#F1EEF8', '#6D5CA8', '换血率 93.3%：七去七进，三线收缩',
-     '15 席仅 cloudflare 续榜：<b>7 个首次上榜 + 7 个断档回归</b>（taste-skill 隔 19 周、hallmark 隔 13 周）。上下文与记忆从 2 项 10,409★ 缩到 1 项 4,575★，内容创作 2 席归零，vllm 出局——扩容与收缩发生在同一周。'),
+    (C['orange'], '#FDEEE8', '#D14A24', '总量回升 11%，换血率 61%',
+     '18 项 98,104★，环比 <b>+11.1%</b>，近八周第三高，仍低于 10-18、10-25 两个脉冲周。上周 15 项里 <b>8 项出局</b>、仅 7 项留存（47%），本周 11 席换血：8 个首次上榜 + 3 个回归。'),
+    (C['blue'], '#EAF0F9', '#3A62A8', 'Skills 退烧：9 席缩到 7 席，星数砍 35%',
+     'Skill 类 <b>59,364★ → 38,830★（-34.6%）</b>。上周同榜的 security-audit-skill、taste-skill、claude-seo、karpathy-skills 四项全出局；<b>mattpocock/skills</b> 断档 2 周回归 +9,664★，新 skills 只进了 Game-Studios 一个。'),
+    (C['purple'], '#F1EEF8', '#6D5CA8', '基建接棒：席位翻倍，t3code 单仓 17,100★',
+     '编码基建 <b>3 项 14,673★ → 6 项 34,206★（+133%）</b>。t3code 周星 <b>17,100★</b> 列第一；claude-mem 登顶官方榜 #1；worktrunk 断档 6 周回归即官方 #2。注意力从「教 agent 做事」转向「让 agent 跑稳」。'),
 ]
 # ⚠️ 每周手填：四张赛道卡
 KNIVES = [
-    (C['orange'], '换挡', 'Agent 编排与运行时', '3 项 11,338★<br>上周 4 项 22,995★，星数 -50.7%，老面孔全出局'),
-    (C['blue'], '加速', 'Skill 与插件生态', '10 项 65,744★<br>上周剔除 rea 后 21,589★，实际 +204.5%'),
-    (C['purple'], '分化', '上下文与记忆', '1 项 4,575★<br>上周 2 项 10,409★，graphify / ai-memory 出局'),
-    (C['red'] if 'red' in C else C['green'], '新增', '提示词 / 越狱工具入榜', 'dsh-purge +6,641★<br>周星第 4 但日榜 0 次，星数来自榜外传播'),
+    (C['blue'], '减速', 'Skill 与插件生态', '7 项 38,830★<br>上周 9 项 59,364★，星数 -34.6%，二线 skills 四项出局'),
+    (C['orange'], '加速', '编码 Agent 基础设施', '6 项 34,206★<br>上周 3 项 14,673★，星数 +133%，t3code 单仓贡献一半'),
+    (C['purple'], '换挡', '其他 AI 应用', '2 项 10,014★<br>上周 3 项 14,261★，金融 AI 从 TradingAgents 换成 Kronos'),
+    (C['red'] if 'red' in C else C['green'], '新增', '非 AI 工具进场', '3 项 15,054★<br>上周 0 项：Scrapling、紫微斗数、Hyprland 三个圈外项目'),
 ]
 # ⚠️ 每周手填：三条观测
 WATCH = [
-    ('设计技能包是品类还是集中传播？', '下周 <b>≥3 项续榜</b>且合计 <b>≥25,000★</b>（本周 4 项 30,340★）<br>→「反 AI 垃圾」固化为常驻品类'),
-    ('skill 十席能否守住？', 'Skill 类 <b>≥8 席</b>且周星 <b>≥50,000★</b>（本周 10 席 65,744★）<br>→ 官方仓库与框架续榜是关键信号'),
-    ('上下文赛道二次收缩？', '回到 <b>≥2 项</b>或合计 <b>≥10,000★</b>（本周 1 项 4,575★）<br>→ claude-mem 日榜 3 次最高第 1 的势头能否带玩家回来'),
+    ('t3code 的 17,100★ 是起点还是脉冲？', '日榜 11-03 后已退出。下周周星 <b>≥10,000★</b> → 动能延续；<b>&lt;10,000★</b> → 确认透支回落'),
+    ('Skills 是退烧还是固化？', '席位 <b>≥6 项</b>且新 skills 首上榜 <b>≥2 个</b> → 回暖；<b>≤4 项</b> → 存量固化，只剩老牌轮播'),
+    ('圈外项目留得住吗？', '非 AI 工具留存 <b>≥2 项</b> → 回潮成立；<b>≤1 项</b> → 判定为单周噪音'),
 ]
 
 def esc(s):

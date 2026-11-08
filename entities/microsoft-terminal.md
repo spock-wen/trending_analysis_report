@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[tensorflow-tensorflow]] [[hyprwm-hyprland]] [[mpv-player-mpv]] [[vercel-labs-agent-browser]] [[nushell-nushell]]
+[[boykopovar-anyps5]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]] [[hyprwm-hyprland]] [[nushell-nushell]]
 
 **所属领域**: [[cli]]
 

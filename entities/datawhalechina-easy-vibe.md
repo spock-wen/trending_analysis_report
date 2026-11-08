@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[react-react]] [[nvidia-auto-ontology]] [[conardli-garden-skills]] [[xiaolai-the-craft-of-selfteaching]] [[orkas-ai-orkas]]
+[[patchy631-ai-engineering-hub]] [[prometheus-prometheus]] [[xiaolai-the-craft-of-selfteaching]] [[cloudflare-security-audit-skill]] [[etcd-io-etcd]]
 
 **所属领域**: [[data]] [[education]]
 

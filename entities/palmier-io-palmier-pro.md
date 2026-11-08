@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[manaflow-ai-cmux]] [[google-skills]] [[mattpocock-skills]]
+[[abue-ammar-tinycast]] [[dsx-ai-factory-nvke]] [[manaflow-ai-cmux]] [[vercel-labs-agent-browser]] [[vorssaint-vorssaint-utils]]
 
 **所属领域**: [[ai-agent]]
 

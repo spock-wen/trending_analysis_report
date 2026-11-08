@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[react-react]] [[nvidia-auto-ontology]] [[google-skills]]
+[[tailwindlabs-tailwindcss]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[google-skills]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[web]] [[data]]
 

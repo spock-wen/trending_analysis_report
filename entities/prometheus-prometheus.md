@@ -35,7 +35,7 @@ The Prometheus monitoring system and time series database.
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[dsx-ai-factory-nvke]] [[kornia-kornia]] [[bregman-arie-devops-exercises]] [[usagi-org-ai-goofish-monitor]]
+[[usagi-org-ai-goofish-monitor]] [[anthropics-claude-quickstarts]] [[dsx-ai-factory-nvke]] [[etcd-io-etcd]] [[strelov1-freehire]]
 
 **所属领域**: [[data]] [[devops]]
 

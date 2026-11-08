@@ -35,7 +35,7 @@ Build an agent harness and control it end-to-end. Open-source SDK for production
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[google-skills]] [[mattpocock-skills]] [[mbillow-localthings]]
+[[anthropics-claude-quickstarts]] [[google-skills]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[sherlock-project-sherlock]]
 
 **所属领域**: [[ai-agent]]
 

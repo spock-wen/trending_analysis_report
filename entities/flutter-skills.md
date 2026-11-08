@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[localsend-localsend]] [[google-skills]] [[chen08209-flclash]]
+[[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[flutter-flutter]] [[localsend-localsend]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]]
 

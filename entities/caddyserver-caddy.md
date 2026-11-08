@@ -35,7 +35,7 @@ Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[react-react]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[angular-angular]]
+[[tailwindlabs-tailwindcss]] [[prometheus-prometheus]] [[dsx-ai-factory-nvke]] [[etcd-io-etcd]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[web]]
 

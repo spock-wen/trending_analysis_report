@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[react-react]] [[google-skills]] [[bregman-arie-devops-exercises]]
+[[tailwindlabs-tailwindcss]] [[usagi-org-ai-goofish-monitor]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[google-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

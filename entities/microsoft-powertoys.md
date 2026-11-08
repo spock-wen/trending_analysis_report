@@ -38,5 +38,5 @@ Microsoft PowerToys is a collection of utilities that supercharge productivity a
 
 ## 相关项目
 
-[[lz4-lz4]] [[fareedkhan-dev-kimi-k3-in-c]] [[openssl-openssl]] [[mpv-player-mpv]]
+[[openssl-openssl]] [[lz4-lz4]] [[mpv-player-mpv]] [[fareedkhan-dev-kimi-k3-in-c]]
 

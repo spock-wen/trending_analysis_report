@@ -37,5 +37,5 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[meta-astryx]] [[milind-soni-openmausbot]] [[ranxianglei-billion-context]]
+[[tailwindlabs-tailwindcss]] [[milind-soni-openmausbot]] [[ranxianglei-billion-context]] [[meta-astryx]]
 

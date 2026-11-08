@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[mpv-player-mpv]] [[ranxianglei-billion-context]] [[google-skills]]
+[[tailwindlabs-tailwindcss]] [[ranxianglei-billion-context]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

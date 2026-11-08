@@ -34,7 +34,7 @@ A living pixel-art station where real AI agents do real work. Local-first deskto
 
 ## 相关项目
 
-[[react-react]] [[anthropics-skills]] [[conardli-garden-skills]] [[tailwindlabs-tailwindcss]] [[orkas-ai-orkas]]
+[[cloudflare-security-audit-skill]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[meta-astryx]] [[react-react]]
 
 **所属领域**: [[ai-agent]]
 

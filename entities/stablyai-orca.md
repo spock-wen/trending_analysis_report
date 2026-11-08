@@ -38,7 +38,7 @@ Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[ranxianglei-billion-context]] [[google-skills]] [[mattpocock-skills]]
+[[tailwindlabs-tailwindcss]] [[ranxianglei-billion-context]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[milind-soni-openmausbot]]
 
 **所属领域**: [[ai-agent]]
 

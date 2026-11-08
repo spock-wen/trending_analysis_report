@@ -35,5 +35,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[react-react]] [[conardli-garden-skills]] [[cloudflare-security-audit-skill]] [[orkas-ai-orkas]]
+[[cloudflare-security-audit-skill]] [[conardli-garden-skills]] [[orkas-ai-orkas]] [[react-react]]
 

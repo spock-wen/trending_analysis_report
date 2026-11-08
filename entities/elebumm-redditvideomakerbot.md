@@ -35,7 +35,7 @@ Create Reddit Videos with just✨ one command ✨
 
 ## 相关项目
 
-[[anthropics-skills]] [[mpv-player-mpv]] [[google-skills]] [[vercel-labs-agent-browser]] [[nushell-nushell]]
+[[anthropics-claude-quickstarts]] [[google-skills]] [[vercel-labs-agent-browser]] [[sherlock-project-sherlock]] [[mpv-player-mpv]]
 
 **所属领域**: [[cli]]
 

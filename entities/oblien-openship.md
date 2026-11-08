@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[ranxianglei-billion-context]] [[bregman-arie-devops-exercises]] [[usagi-org-ai-goofish-monitor]] [[prometheus-prometheus]]
+[[tailwindlabs-tailwindcss]] [[usagi-org-ai-goofish-monitor]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[ranxianglei-billion-context]]
 
 **所属领域**: [[devops]]
 

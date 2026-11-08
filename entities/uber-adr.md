@@ -35,7 +35,7 @@ ADR secures enterprise AI agents through observability, security benchmarking, a
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[beenuar-aisoc]] [[obra-superpowers]] [[nvidia-skillspector]]
+[[usagi-org-ai-goofish-monitor]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[php-php-src]] [[google-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[security]] [[erp]]
 

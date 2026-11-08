@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[xiaolai-the-craft-of-selfteaching]] [[cjpais-handy]] [[scenario-labs-skills]]
+[[patchy631-ai-engineering-hub]] [[anthropics-claude-quickstarts]] [[xiaolai-the-craft-of-selfteaching]] [[google-skills]] [[dsx-ai-factory-nvke]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

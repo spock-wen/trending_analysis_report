@@ -36,7 +36,7 @@ A unified library of SOTA model optimization techniques like quantization, disti
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[xiaolai-the-craft-of-selfteaching]] [[google-skills]] [[bregman-arie-devops-exercises]]
+[[usagi-org-ai-goofish-monitor]] [[patchy631-ai-engineering-hub]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

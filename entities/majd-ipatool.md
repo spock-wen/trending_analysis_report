@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[nushell-nushell]] [[mattpocock-skills]]
+[[prometheus-prometheus]] [[dsx-ai-factory-nvke]] [[etcd-io-etcd]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]]
 
 **所属领域**: [[cli]]
 

@@ -36,5 +36,5 @@ Google core libraries for Java
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[floci-io-floci]] [[nationalsecurityagency-ghidra]] [[yuliskov-smarttube]]
+[[yuliskov-smarttube]] [[floci-io-floci]] [[checkstyle-checkstyle]] [[nationalsecurityagency-ghidra]]
 

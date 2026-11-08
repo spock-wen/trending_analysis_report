@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[react-react]] [[anthropics-skills]] [[conardli-garden-skills]] [[tailwindlabs-tailwindcss]] [[orkas-ai-orkas]]
+[[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[meta-astryx]] [[nvidia-skillspector]] [[react-react]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

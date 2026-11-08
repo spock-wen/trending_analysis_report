@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[averygan-reclip]] [[ripienaar-free-for-dev]] [[react-react]]
+[[tailwindlabs-tailwindcss]] [[prometheus-prometheus]] [[ripienaar-free-for-dev]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

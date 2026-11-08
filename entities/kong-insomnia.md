@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[react-react]] [[mpv-player-mpv]] [[ranxianglei-billion-context]] [[vercel-labs-agent-browser]]
+[[tailwindlabs-tailwindcss]] [[ranxianglei-billion-context]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]] [[react-react]]
 
 **所属领域**: [[web]] [[cli]]
 

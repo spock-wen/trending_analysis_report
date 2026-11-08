@@ -37,7 +37,7 @@ A framework for building realtime voice AI agents 🤖🎙️📹
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[cjpais-handy]] [[scenario-labs-skills]] [[google-skills]]
+[[anthropics-claude-quickstarts]] [[google-skills]] [[dsx-ai-factory-nvke]] [[microsoft-vibevoice]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

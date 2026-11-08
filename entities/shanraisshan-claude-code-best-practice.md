@@ -38,7 +38,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[averygan-reclip]] [[ripienaar-free-for-dev]] [[react-react]]
+[[tailwindlabs-tailwindcss]] [[ripienaar-free-for-dev]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

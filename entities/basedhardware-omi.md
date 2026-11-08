@@ -34,7 +34,7 @@ AI that sees your screen, listens to your conversations and tells you what to do
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[localsend-localsend]] [[google-skills]] [[chen08209-flclash]]
+[[flutter-skills]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[flutter-flutter]] [[localsend-localsend]]
 
 **所属领域**: [[ai-agent]]
 

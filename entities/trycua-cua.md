@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[astral-sh-ruff]] [[anthropics-skills]] [[tailwindlabs-tailwindcss]] [[nvidia-auto-ontology]] [[conardli-garden-skills]]
+[[jiafeimiao-k-cat-discimagestudio]] [[prometheus-prometheus]] [[rust-lang-rust]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[dsx-ai-factory-nvke]] [[google-skills]] [[bregman-arie-devops-exercises]]
+[[usagi-org-ai-goofish-monitor]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[dsx-ai-factory-nvke]] [[etcd-io-etcd]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

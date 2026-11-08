@@ -35,7 +35,7 @@ FreeToken brings datacenter-scale model serving to your desktop. Run massive mod
 
 ## 相关项目
 
-[[anthropics-skills]] [[nvidia-auto-ontology]] [[google-skills]] [[kornia-kornia]] [[mbillow-localthings]]
+[[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[google-skills]] [[sherlock-project-sherlock]] [[etcd-io-etcd]]
 
 **所属领域**: [[data]]
 

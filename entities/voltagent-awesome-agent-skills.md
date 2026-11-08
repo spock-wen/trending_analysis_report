@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[mpv-player-mpv]] [[google-skills]] [[vercel-labs-agent-browser]]
+[[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]] [[nushell-nushell]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

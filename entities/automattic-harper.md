@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[astral-sh-ruff]] [[rust-lang-rust]] [[beenuar-aisoc]] [[nvidia-skillspector]] [[zed-industries-zed]]
+[[rust-lang-rust]] [[cloudflare-security-audit-skill]] [[vercel-labs-agent-browser]] [[astral-sh-ruff]] [[nvidia-skillspector]]
 
 **所属领域**: [[security]]
 

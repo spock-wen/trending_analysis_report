@@ -36,7 +36,7 @@ A utility-first CSS framework for rapid UI development.
 
 ## 相关项目
 
-[[react-react]] [[anthropics-skills]] [[ranxianglei-billion-context]] [[google-skills]] [[vercel-labs-agent-browser]]
+[[ranxianglei-billion-context]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[milind-soni-openmausbot]] [[react-react]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

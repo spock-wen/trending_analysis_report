@@ -37,7 +37,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[nvidia-auto-ontology]] [[dsx-ai-factory-nvke]] [[google-skills]]
+[[prometheus-prometheus]] [[dsx-ai-factory-nvke]] [[etcd-io-etcd]] [[vercel-labs-agent-browser]] [[strelov1-freehire]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

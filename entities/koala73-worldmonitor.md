@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[ranxianglei-billion-context]] [[google-skills]] [[bregman-arie-devops-exercises]]
+[[tailwindlabs-tailwindcss]] [[usagi-org-ai-goofish-monitor]] [[prometheus-prometheus]] [[ranxianglei-billion-context]] [[anthropics-claude-quickstarts]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

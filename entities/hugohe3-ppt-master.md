@@ -36,7 +36,7 @@ AI turns documents or topics into real, native PowerPoint decks—with native sh
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[nvidia-auto-ontology]] [[cjpais-handy]] [[scenario-labs-skills]]
+[[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[php-php-src]] [[google-skills]] [[dsx-ai-factory-nvke]]
 
 **所属领域**: [[ai-agent]] [[data]] [[erp]] [[audio]]
 

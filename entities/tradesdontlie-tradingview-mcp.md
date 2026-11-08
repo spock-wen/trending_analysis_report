@@ -35,7 +35,7 @@ AI-assisted TradingView chart analysis — connect Claude Code to your TradingVi
 
 ## 相关项目
 
-[[react-react]] [[anthropics-skills]] [[conardli-garden-skills]] [[tailwindlabs-tailwindcss]] [[orkas-ai-orkas]]
+[[cloudflare-security-audit-skill]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[meta-astryx]] [[react-react]]
 
 **所属领域**: [[ai-agent]]
 

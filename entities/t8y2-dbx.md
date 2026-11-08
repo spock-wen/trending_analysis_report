@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[astral-sh-ruff]] [[anthropics-skills]] [[tailwindlabs-tailwindcss]] [[nvidia-auto-ontology]] [[mpv-player-mpv]]
+[[prometheus-prometheus]] [[rust-lang-rust]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[zed-industries-zed]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

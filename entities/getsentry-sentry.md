@@ -36,7 +36,7 @@ Developer-first error tracking and performance monitoring
 
 ## 相关项目
 
-[[anthropics-skills]] [[google-skills]] [[bregman-arie-devops-exercises]] [[mbillow-localthings]] [[prometheus-prometheus]]
+[[usagi-org-ai-goofish-monitor]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[google-skills]] [[sherlock-project-sherlock]]
 
 **所属领域**: [[devops]]
 

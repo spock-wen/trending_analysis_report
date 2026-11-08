@@ -37,7 +37,7 @@ A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, 
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[react-react]] [[ranxianglei-billion-context]] [[google-skills]]
+[[tailwindlabs-tailwindcss]] [[ranxianglei-billion-context]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[milind-soni-openmausbot]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

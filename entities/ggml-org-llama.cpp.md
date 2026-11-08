@@ -34,7 +34,7 @@ LLM inference in C/C++
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[tensorflow-tensorflow]] [[hyprwm-hyprland]] [[google-skills]]
+[[boykopovar-anyps5]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[hyprwm-hyprland]] [[microsoft-bitnet]]
 
 **所属领域**: [[ai-agent]]
 

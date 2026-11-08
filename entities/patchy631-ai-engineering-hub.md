@@ -34,7 +34,7 @@ In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[anthropics-skills]] [[higgsfield-ai-higgsfield]] [[tailwindlabs-tailwindcss]] [[google-skills]]
+[[xiaolai-the-craft-of-selfteaching]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[michaelcade-90daysofdevops]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[astral-sh-ruff]] [[tailwindlabs-tailwindcss]] [[react-react]] [[mpv-player-mpv]] [[rust-lang-rust]]
+[[tailwindlabs-tailwindcss]] [[rust-lang-rust]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]] [[astral-sh-ruff]]
 
 **所属领域**: [[web]] [[cli]]
 

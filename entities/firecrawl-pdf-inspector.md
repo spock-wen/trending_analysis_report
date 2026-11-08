@@ -38,5 +38,5 @@ Fast Rust library for PDF inspection, classification, and text extraction. Intel
 
 ## 相关项目
 
-[[astral-sh-ruff]] [[zed-industries-zed]] [[rust-lang-rust]] [[vercel-labs-agent-browser]]
+[[vercel-labs-agent-browser]] [[zed-industries-zed]] [[astral-sh-ruff]] [[rust-lang-rust]]
 

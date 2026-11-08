@@ -34,7 +34,7 @@ Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, 
 
 ## 相关项目
 
-[[anthropics-skills]] [[nvidia-auto-ontology]] [[google-skills]] [[kornia-kornia]] [[mbillow-localthings]]
+[[usagi-org-ai-goofish-monitor]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[google-skills]] [[sherlock-project-sherlock]]
 
 **所属领域**: [[data]] [[devops]]
 

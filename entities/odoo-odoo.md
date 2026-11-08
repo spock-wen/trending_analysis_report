@@ -35,7 +35,7 @@ Odoo. Open Source Apps To Grow Your Business.
 
 ## 相关项目
 
-[[anthropics-skills]] [[google-skills]] [[agricidaniel-claude-seo]] [[hugohe3-ppt-master]] [[mbillow-localthings]]
+[[hugohe3-ppt-master]] [[anthropics-claude-quickstarts]] [[php-php-src]] [[google-skills]] [[sherlock-project-sherlock]]
 
 **所属领域**: [[erp]]
 

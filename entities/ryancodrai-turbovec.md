@@ -38,7 +38,7 @@ A vector index built on TurboQuant, written in Rust with Python bindings
 
 ## 相关项目
 
-[[astral-sh-ruff]] [[anthropics-skills]] [[tailwindlabs-tailwindcss]] [[rust-lang-rust]] [[google-skills]]
+[[rust-lang-rust]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[zed-industries-zed]] [[astral-sh-ruff]]
 
 **所属领域**: [[ai-agent]]
 

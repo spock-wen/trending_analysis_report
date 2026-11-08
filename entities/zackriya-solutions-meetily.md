@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[astral-sh-ruff]] [[anthropics-skills]] [[tailwindlabs-tailwindcss]] [[react-react]] [[nvidia-auto-ontology]]
+[[tailwindlabs-tailwindcss]] [[prometheus-prometheus]] [[rust-lang-rust]] [[cloudflare-security-audit-skill]] [[dsx-ai-factory-nvke]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

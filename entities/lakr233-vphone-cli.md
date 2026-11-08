@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[mpv-player-mpv]] [[vercel-labs-agent-browser]] [[nushell-nushell]] [[mattpocock-skills]]
+[[abue-ammar-tinycast]] [[manaflow-ai-cmux]] [[vercel-labs-agent-browser]] [[vorssaint-vorssaint-utils]] [[mpv-player-mpv]]
 
 **所属领域**: [[cli]]
 

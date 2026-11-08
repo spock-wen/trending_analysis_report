@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[react-react]] [[averygan-reclip]] [[ripienaar-free-for-dev]] [[nvidia-auto-ontology]]
+[[tailwindlabs-tailwindcss]] [[jiafeimiao-k-cat-discimagestudio]] [[ripienaar-free-for-dev]] [[vercel-labs-agent-browser]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[image-gen]]
 

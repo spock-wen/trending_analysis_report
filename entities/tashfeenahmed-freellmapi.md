@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[ranxianglei-billion-context]] [[beenuar-aisoc]] [[nvidia-skillspector]]
+[[tailwindlabs-tailwindcss]] [[ranxianglei-billion-context]] [[cloudflare-security-audit-skill]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

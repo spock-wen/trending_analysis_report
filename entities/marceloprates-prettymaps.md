@@ -34,7 +34,7 @@ Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 
 ## 相关项目
 
-[[anthropics-skills]] [[nvidia-auto-ontology]] [[google-skills]] [[kornia-kornia]] [[mbillow-localthings]]
+[[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[google-skills]] [[sherlock-project-sherlock]] [[etcd-io-etcd]]
 
 **所属领域**: [[data]]
 

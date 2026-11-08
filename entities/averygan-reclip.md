@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[react-react]] [[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]] [[mpv-player-mpv]]
+[[tailwindlabs-tailwindcss]] [[ripienaar-free-for-dev]] [[vercel-labs-agent-browser]] [[cathrynlavery-diagram-design]] [[mpv-player-mpv]]
 
 **所属领域**: [[web]] [[cli]]
 

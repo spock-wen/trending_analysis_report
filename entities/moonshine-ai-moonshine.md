@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[tensorflow-tensorflow]] [[scenario-labs-skills]] [[cjpais-handy]]
+[[boykopovar-anyps5]] [[dsx-ai-factory-nvke]] [[microsoft-vibevoice]] [[vercel-labs-agent-browser]] [[hyprwm-hyprland]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

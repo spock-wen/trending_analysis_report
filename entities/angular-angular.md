@@ -35,7 +35,7 @@ Deliver web apps with confidence 🚀
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[react-react]] [[ranxianglei-billion-context]] [[vercel-labs-agent-browser]] [[milind-soni-openmausbot]]
+[[tailwindlabs-tailwindcss]] [[ranxianglei-billion-context]] [[vercel-labs-agent-browser]] [[react-react]] [[milind-soni-openmausbot]]
 
 **所属领域**: [[web]]
 

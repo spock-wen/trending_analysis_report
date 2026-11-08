@@ -34,7 +34,7 @@ FastAPI framework, high performance, easy to learn, fast to code, ready for prod
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[anthropics-skills]] [[google-skills]] [[mbillow-localthings]] [[thu-maic-openmaic]]
+[[patchy631-ai-engineering-hub]] [[anthropics-claude-quickstarts]] [[xiaolai-the-craft-of-selfteaching]] [[google-skills]] [[sherlock-project-sherlock]]
 
 **所属领域**: [[education]]
 

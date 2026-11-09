@@ -34,7 +34,7 @@ Ruby on Rails
 
 ## 相关项目
 
-[[dsx-ai-factory-nvke]] [[chatwoot-chatwoot]] [[vercel-labs-agent-browser]] [[docusealco-docuseal]] [[anthropics-skills]]
+[[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]] [[docusealco-docuseal]] [[chatwoot-chatwoot]]
 
 **所属领域**: [[ai-agent]]
 

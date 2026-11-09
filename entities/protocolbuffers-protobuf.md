@@ -37,7 +37,7 @@ Protocol Buffers - Google's data interchange format
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[prometheus-prometheus]] [[etcd-io-etcd]] [[hyprwm-hyprland]] [[google-deepmind-mujoco]]
+[[microsoft-bitnet]] [[zhulinsen-daily_stock_analysis]] [[etcd-io-etcd]] [[hyprwm-hyprland]] [[google-deepmind-mujoco]]
 
 **所属领域**: [[data]]
 

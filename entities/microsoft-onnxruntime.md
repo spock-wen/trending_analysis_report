@@ -35,7 +35,7 @@ ONNX Runtime: cross-platform, high performance ML inferencing and training accel
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[hyprwm-hyprland]] [[microsoft-bitnet]]
+[[microsoft-bitnet]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]] [[hyprwm-hyprland]]
 
 **所属领域**: [[ai-agent]]
 

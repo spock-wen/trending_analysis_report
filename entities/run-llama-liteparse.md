@@ -35,5 +35,5 @@ A fast, helpful, and open-source document parser
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[zed-industries-zed]] [[astral-sh-ruff]] [[rust-lang-rust]]
+[[astral-sh-ruff]] [[ruvnet-ruview]] [[zed-industries-zed]] [[vercel-labs-agent-browser]]
 

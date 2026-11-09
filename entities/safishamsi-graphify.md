@@ -34,7 +34,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[jiafeimiao-k-cat-discimagestudio]] [[etcd-io-etcd]] [[paperclipai-paperclip]] [[tauricresearch-tradingagents]] [[nvidia-auto-ontology]]
+[[mattpocock-skills]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[mpv-player-mpv]] [[nushell-nushell]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

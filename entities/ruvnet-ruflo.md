@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[usagi-org-ai-goofish-monitor]] [[patchy631-ai-engineering-hub]] [[prometheus-prometheus]] [[ranxianglei-billion-context]]
+[[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[anthropics-claude-quickstarts]] [[vercel-labs-agent-browser]] [[garrytan-gbrain]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

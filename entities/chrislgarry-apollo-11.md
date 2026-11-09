@@ -38,7 +38,7 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 
 ## 相关项目
 
-[[nushell-nushell]] [[mattpocock-skills]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]]
+[[nushell-nushell]] [[mattpocock-skills]] [[mpv-player-mpv]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[cli]]
 

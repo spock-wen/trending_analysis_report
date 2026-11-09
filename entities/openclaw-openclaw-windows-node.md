@@ -35,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[sonarr-sonarr]] [[jiafeimiao-k-cat-discimagestudio]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]] [[k1tbyte-wand-enhancer]]
+[[sonarr-sonarr]] [[mpv-player-mpv]] [[nushell-nushell]] [[ntdevlabs-tiny11builder]] [[k1tbyte-wand-enhancer]]
 
 **所属领域**: [[cli]]
 

@@ -34,5 +34,5 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[milind-soni-openmausbot]] [[ranxianglei-billion-context]] [[meta-astryx]]
+[[milind-soni-openmausbot]] [[garrytan-gbrain]] [[meta-astryx]] [[ranxianglei-billion-context]]
 

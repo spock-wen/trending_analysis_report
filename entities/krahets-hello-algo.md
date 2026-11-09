@@ -35,5 +35,5 @@ language: "Java"
 
 ## 相关项目
 
-[[yuliskov-smarttube]] [[floci-io-floci]] [[checkstyle-checkstyle]] [[nationalsecurityagency-ghidra]]
+[[nationalsecurityagency-ghidra]] [[checkstyle-checkstyle]] [[floci-io-floci]] [[yuliskov-smarttube]]
 

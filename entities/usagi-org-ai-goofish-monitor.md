@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[google-skills]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]]
+[[sherlock-project-sherlock]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[ruvnet-ruview]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

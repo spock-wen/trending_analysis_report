@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[plausible-analytics]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[teslamate-org-teslamate]] [[anthropics-skills]]
+[[plausible-analytics]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]] [[teslamate-org-teslamate]]
 
 **所属领域**: [[ai-agent]]
 

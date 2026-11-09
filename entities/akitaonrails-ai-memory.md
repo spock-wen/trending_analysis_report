@@ -38,7 +38,7 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 ## 相关项目
 
-[[rust-lang-rust]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[zed-industries-zed]] [[astral-sh-ruff]]
+[[mpv-player-mpv]] [[nushell-nushell]] [[astral-sh-ruff]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

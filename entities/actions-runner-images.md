@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[jiafeimiao-k-cat-discimagestudio]] [[raphire-win11debloat]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]] [[zhaoxuya520-reverse-skill]]
+[[mpv-player-mpv]] [[bwya77-vscode-dark-islands]] [[nushell-nushell]] [[mattpocock-skills]] [[conardli-garden-skills]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

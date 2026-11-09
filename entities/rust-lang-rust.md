@@ -35,5 +35,5 @@ Empowering everyone to build reliable and efficient software.
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[zed-industries-zed]] [[astral-sh-ruff]]
+[[astral-sh-ruff]] [[ruvnet-ruview]] [[zed-industries-zed]] [[vercel-labs-agent-browser]]
 

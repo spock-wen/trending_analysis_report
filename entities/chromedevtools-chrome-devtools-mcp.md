@@ -38,7 +38,7 @@ Chrome DevTools for coding agents
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[ranxianglei-billion-context]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[milind-soni-openmausbot]]
+[[vercel-labs-agent-browser]] [[garrytan-gbrain]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[tailwindlabs-tailwindcss]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

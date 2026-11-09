@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[embabel-embabel-agent]] [[tailwindlabs-tailwindcss]] [[android-skills]] [[vercel-labs-agent-browser]] [[bannedbook-fanqiang]]
+[[embabel-embabel-agent]] [[mahlernim-google-timeline-visualizer]] [[android-skills]] [[tailwindlabs-tailwindcss]] [[react-react]]
 
 **所属领域**: [[web]]
 

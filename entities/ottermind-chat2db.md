@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[yuliskov-smarttube]] [[floci-io-floci]] [[prometheus-prometheus]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]]
+[[mpv-player-mpv]] [[floci-io-floci]] [[nushell-nushell]] [[zhulinsen-daily_stock_analysis]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[patchy631-ai-engineering-hub]] [[ranxianglei-billion-context]] [[xiaolai-the-craft-of-selfteaching]] [[dsx-ai-factory-nvke]]
+[[mpv-player-mpv]] [[thu-maic-openmaic]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

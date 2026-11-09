@@ -34,7 +34,7 @@ One has no future if one couldn't teach themself.
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[michaelcade-90daysofdevops]] [[thu-maic-openmaic]]
+[[lyogavin-airllm]] [[thu-maic-openmaic]] [[zhulinsen-daily_stock_analysis]] [[michaelcade-90daysofdevops]] [[meta-astryx]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

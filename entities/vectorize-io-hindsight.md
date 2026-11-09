@@ -38,7 +38,7 @@ Hindsight: Agent Memory That Learns
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[anthropics-claude-quickstarts]] [[xiaolai-the-craft-of-selfteaching]] [[google-skills]] [[dsx-ai-factory-nvke]]
+[[sherlock-project-sherlock]] [[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[zhulinsen-daily_stock_analysis]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

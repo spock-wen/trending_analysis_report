@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[anthropics-claude-quickstarts]] [[php-php-src]] [[google-skills]] [[dsx-ai-factory-nvke]]
+[[tauricresearch-tradingagents]] [[sherlock-project-sherlock]] [[mpv-player-mpv]] [[k-dense-ai-scientific-agent-skills]] [[nushell-nushell]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

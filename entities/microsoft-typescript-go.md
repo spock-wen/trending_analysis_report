@@ -35,5 +35,5 @@ Staging repo for development of native port of TypeScript
 
 ## 相关项目
 
-[[dsx-ai-factory-nvke]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[strelov1-freehire]]
+[[strelov1-freehire]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[dsx-ai-factory-nvke]]
 

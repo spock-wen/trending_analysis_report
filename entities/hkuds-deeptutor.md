@@ -38,7 +38,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[anthropics-claude-quickstarts]] [[google-skills]] [[vercel-labs-agent-browser]] [[sherlock-project-sherlock]]
+[[sherlock-project-sherlock]] [[zhulinsen-daily_stock_analysis]] [[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[react-react]]
 
 **所属领域**: [[web]]
 

@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[jiafeimiao-k-cat-discimagestudio]] [[ranxianglei-billion-context]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]]
+[[vercel-labs-agent-browser]] [[jiafeimiao-k-cat-discimagestudio]] [[garrytan-gbrain]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

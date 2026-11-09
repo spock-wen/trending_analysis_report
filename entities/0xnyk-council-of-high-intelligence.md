@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]] [[anthropics-skills]] [[nushell-nushell]]
+[[mpv-player-mpv]] [[nushell-nushell]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -16,7 +16,6 @@ last_trending: 2026-11-05
 peak_rank: 5
 total_stars: 147257
 language: "Python"
-contested: true
 ---
 
 # github/spec-kit
@@ -39,15 +38,5 @@ contested: true
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[anthropics-skills]] [[anthropics-claude-quickstarts]] [[google-skills]]
-
-
-## ⚠️ 描述变更（2026-11-05）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: 💫 Toolkit to help you get started with Spec-Driven Development
-- **新描述**: 💫 Toolkit to help you get started with SDD or any other process!
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
+[[anthropics-claude-quickstarts]] [[zhulinsen-daily_stock_analysis]] [[sherlock-project-sherlock]] [[anthropics-skills]]
 

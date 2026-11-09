@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]] [[michaelcade-90daysofdevops]] [[nushell-nushell]]
+[[mpv-player-mpv]] [[nushell-nushell]] [[zhulinsen-daily_stock_analysis]] [[michaelcade-90daysofdevops]] [[meta-astryx]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

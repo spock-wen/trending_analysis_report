@@ -35,5 +35,5 @@ Advanced UX and interoperability extension for Wand (WeMod) app
 
 ## 相关项目
 
-[[sonarr-sonarr]] [[jiafeimiao-k-cat-discimagestudio]] [[ntdevlabs-tiny11builder]]
+[[jiafeimiao-k-cat-discimagestudio]] [[sonarr-sonarr]] [[ntdevlabs-tiny11builder]]
 

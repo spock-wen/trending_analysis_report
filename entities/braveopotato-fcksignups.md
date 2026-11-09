@@ -36,7 +36,7 @@ A list of tools that are open-source, in-browser, and require no-signups!
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[ranxianglei-billion-context]] [[vercel-labs-agent-browser]] [[react-react]] [[angular-angular]]
+[[ranxianglei-billion-context]] [[garrytan-gbrain]] [[meta-astryx]] [[tailwindlabs-tailwindcss]] [[react-react]]
 
 **所属领域**: [[web]]
 

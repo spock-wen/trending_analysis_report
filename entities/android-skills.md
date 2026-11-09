@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[embabel-embabel-agent]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]]
+[[embabel-embabel-agent]] [[mahlernim-google-timeline-visualizer]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[jiafeimiao-k-cat-discimagestudio]] [[cloudflare-security-audit-skill]] [[vercel-labs-agent-browser]] [[react-react]]
+[[tailwindlabs-tailwindcss]] [[react-react]] [[angular-angular]] [[conardli-garden-skills]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[web]] [[image-gen]]
 

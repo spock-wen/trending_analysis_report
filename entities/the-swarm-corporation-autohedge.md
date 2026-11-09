@@ -36,7 +36,7 @@ Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of sw
 
 ## 相关项目
 
-[[anthropics-claude-quickstarts]] [[google-skills]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[sherlock-project-sherlock]]
+[[sherlock-project-sherlock]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]] [[anthropics-claude-quickstarts]]
 
 **所属领域**: [[ai-agent]]
 

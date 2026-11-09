@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[embabel-embabel-agent]] [[android-skills]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[bannedbook-fanqiang]]
+[[embabel-embabel-agent]] [[mahlernim-google-timeline-visualizer]] [[zhulinsen-daily_stock_analysis]] [[android-skills]] [[meta-astryx]]
 
 **所属领域**: [[ai-agent]]
 

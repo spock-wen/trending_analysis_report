@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[hugohe3-ppt-master]] [[ranxianglei-billion-context]] [[php-php-src]] [[agricidaniel-claude-seo]]
+[[garrytan-gbrain]] [[meta-astryx]] [[obra-superpowers]] [[agricidaniel-claude-seo]] [[php-php-src]]
 
 **所属领域**: [[erp]]
 

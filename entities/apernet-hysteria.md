@@ -35,5 +35,5 @@ Hysteria is a powerful, lightning fast and censorship resistant proxy.
 
 ## 相关项目
 
-[[dsx-ai-factory-nvke]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[strelov1-freehire]]
+[[strelov1-freehire]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[dsx-ai-factory-nvke]]
 

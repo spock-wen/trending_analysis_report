@@ -34,7 +34,7 @@ Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translatio
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[jiafeimiao-k-cat-discimagestudio]] [[ranxianglei-billion-context]] [[scenario-labs-skills]] [[nvidia-auto-ontology]]
+[[jiafeimiao-k-cat-discimagestudio]] [[garrytan-gbrain]] [[meta-astryx]] [[conardli-garden-skills]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[image-gen]]
 

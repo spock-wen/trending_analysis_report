@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[anthropics-claude-quickstarts]] [[php-php-src]] [[google-skills]] [[sherlock-project-sherlock]]
+[[sherlock-project-sherlock]] [[zhulinsen-daily_stock_analysis]] [[obra-superpowers]] [[anthropics-skills]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[erp]]
 

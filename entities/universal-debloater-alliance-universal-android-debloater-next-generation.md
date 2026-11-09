@@ -36,7 +36,7 @@ Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic
 
 ## 相关项目
 
-[[jiafeimiao-k-cat-discimagestudio]] [[rust-lang-rust]] [[cloudflare-security-audit-skill]] [[vercel-labs-agent-browser]] [[astral-sh-ruff]]
+[[beenuar-aisoc]] [[astral-sh-ruff]] [[ruvnet-ruview]] [[nvidia-skillspector]] [[conardli-garden-skills]]
 
 **所属领域**: [[security]] [[image-gen]]
 

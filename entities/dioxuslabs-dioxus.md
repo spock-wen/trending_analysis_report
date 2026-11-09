@@ -35,7 +35,7 @@ Fullstack app framework for web, desktop, and mobile.
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[rust-lang-rust]] [[vercel-labs-agent-browser]] [[astral-sh-ruff]] [[react-react]]
+[[astral-sh-ruff]] [[tailwindlabs-tailwindcss]] [[ruvnet-ruview]] [[react-react]] [[angular-angular]]
 
 **所属领域**: [[web]]
 

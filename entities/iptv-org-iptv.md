@@ -38,7 +38,7 @@ Collection of publicly available IPTV channels from all over the world
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[ranxianglei-billion-context]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[milind-soni-openmausbot]]
+[[vercel-labs-agent-browser]] [[garrytan-gbrain]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

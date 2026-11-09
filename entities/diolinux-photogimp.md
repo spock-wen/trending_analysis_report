@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[hugohe3-ppt-master]] [[php-php-src]] [[vercel-labs-agent-browser]] [[nutlope-hallmark]]
+[[tailwindlabs-tailwindcss]] [[obra-superpowers]] [[react-react]] [[angular-angular]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[web]] [[erp]]
 

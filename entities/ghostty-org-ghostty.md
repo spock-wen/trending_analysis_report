@@ -34,7 +34,7 @@ language: "Zig"
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]] [[nushell-nushell]] [[mattpocock-skills]]
+[[mpv-player-mpv]] [[nushell-nushell]] [[mattpocock-skills]] [[lightpanda-io-browser]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[cli]]
 

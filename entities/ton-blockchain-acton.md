@@ -34,7 +34,7 @@ Toolchain for TON smart contract development and beyond
 
 ## 相关项目
 
-[[rust-lang-rust]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[zed-industries-zed]] [[astral-sh-ruff]]
+[[astral-sh-ruff]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[ruvnet-ruview]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

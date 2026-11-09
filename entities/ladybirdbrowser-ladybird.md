@@ -36,7 +36,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[tailwindlabs-tailwindcss]] [[vercel-labs-agent-browser]] [[hyprwm-hyprland]] [[react-react]]
+[[microsoft-bitnet]] [[tailwindlabs-tailwindcss]] [[react-react]] [[angular-angular]] [[hyprwm-hyprland]]
 
 **所属领域**: [[web]]
 

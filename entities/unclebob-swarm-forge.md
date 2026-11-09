@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[penpot-penpot]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[anthropics-skills]] [[meta-astryx]]
+[[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]] [[penpot-penpot]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]]
 

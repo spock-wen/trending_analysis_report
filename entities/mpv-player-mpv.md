@@ -34,7 +34,7 @@ language: "C"
 
 ## 相关项目
 
-[[fareedkhan-dev-kimi-k3-in-c]] [[vercel-labs-agent-browser]] [[nushell-nushell]] [[lz4-lz4]] [[openssl-openssl]]
+[[nushell-nushell]] [[lz4-lz4]] [[mattpocock-skills]] [[fareedkhan-dev-kimi-k3-in-c]] [[openssl-openssl]]
 
 **所属领域**: [[cli]]
 

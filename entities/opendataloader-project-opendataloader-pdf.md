@@ -38,7 +38,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[yuliskov-smarttube]] [[floci-io-floci]] [[prometheus-prometheus]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]]
+[[floci-io-floci]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[etcd-io-etcd]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

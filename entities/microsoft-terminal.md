@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]] [[hyprwm-hyprland]] [[nushell-nushell]]
+[[microsoft-bitnet]] [[mpv-player-mpv]] [[nushell-nushell]] [[mattpocock-skills]] [[hyprwm-hyprland]]
 
 **所属领域**: [[cli]]
 

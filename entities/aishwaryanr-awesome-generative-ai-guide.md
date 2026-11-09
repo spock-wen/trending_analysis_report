@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[ripienaar-free-for-dev]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[cathrynlavery-diagram-design]]
+[[tauricresearch-tradingagents]] [[k-dense-ai-scientific-agent-skills]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[tailwindlabs-tailwindcss]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -35,7 +35,7 @@ Stremio - Freedom to Stream
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[cloudflare-security-audit-skill]] [[vercel-labs-agent-browser]] [[react-react]] [[angular-angular]]
+[[tailwindlabs-tailwindcss]] [[react-react]] [[angular-angular]] [[conardli-garden-skills]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[web]]
 

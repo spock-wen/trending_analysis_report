@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[cs341-illinois-coursebook]] [[anthropics-skills]] [[meta-astryx]]
+[[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]] [[cs341-illinois-coursebook]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]]
 

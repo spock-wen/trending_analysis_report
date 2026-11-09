@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[dsx-ai-factory-nvke]] [[manaflow-ai-cmux]] [[vercel-labs-agent-browser]] [[vorssaint-vorssaint-utils]]
+[[manaflow-ai-cmux]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[abue-ammar-tinycast]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

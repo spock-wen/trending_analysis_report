@@ -38,7 +38,7 @@ Agent Skills for Google products and technologies
 
 ## 相关项目
 
-[[anthropics-claude-quickstarts]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[sherlock-project-sherlock]] [[anthropics-skills]]
+[[sherlock-project-sherlock]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]] [[anthropics-claude-quickstarts]]
 
 **所属领域**: [[ai-agent]]
 

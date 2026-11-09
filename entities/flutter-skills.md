@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[flutter-flutter]] [[localsend-localsend]] [[chen08209-flclash]]
+[[chen08209-flclash]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]] [[flutter-flutter]]
 
 **所属领域**: [[ai-agent]]
 

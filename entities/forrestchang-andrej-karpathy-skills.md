@@ -38,7 +38,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[anthropics-skills]] [[meta-astryx]]
+[[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[vercel-labs-agent-browser]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

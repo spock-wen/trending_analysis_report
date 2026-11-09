@@ -35,5 +35,5 @@ An open-source remote desktop application designed for self-hosting, as an alter
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[zed-industries-zed]] [[astral-sh-ruff]] [[rust-lang-rust]]
+[[astral-sh-ruff]] [[ruvnet-ruview]] [[zed-industries-zed]] [[vercel-labs-agent-browser]]
 

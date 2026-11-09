@@ -34,7 +34,7 @@ HTTP load generator, ApacheBench (ab) replacement
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[prometheus-prometheus]] [[dsx-ai-factory-nvke]] [[etcd-io-etcd]] [[vercel-labs-agent-browser]]
+[[strelov1-freehire]] [[dsx-ai-factory-nvke]] [[etcd-io-etcd]] [[tailwindlabs-tailwindcss]] [[react-react]]
 
 **所属领域**: [[web]]
 

@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[jiafeimiao-k-cat-discimagestudio]] [[prometheus-prometheus]] [[ranxianglei-billion-context]] [[etcd-io-etcd]]
+[[jiafeimiao-k-cat-discimagestudio]] [[garrytan-gbrain]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[etcd-io-etcd]]
 
 **所属领域**: [[data]] [[image-gen]]
 

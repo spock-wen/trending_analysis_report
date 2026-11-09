@@ -34,7 +34,7 @@ Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true
 
 ## 相关项目
 
-[[usagi-org-ai-goofish-monitor]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[abue-ammar-tinycast]] [[manaflow-ai-cmux]]
+[[manaflow-ai-cmux]] [[ruvnet-ruview]] [[abue-ammar-tinycast]] [[xtool-org-xtool]] [[vorssaint-vorssaint-utils]]
 
 **所属领域**: [[devops]]
 

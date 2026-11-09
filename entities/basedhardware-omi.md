@@ -34,7 +34,7 @@ AI that sees your screen, listens to your conversations and tells you what to do
 
 ## 相关项目
 
-[[flutter-skills]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[flutter-flutter]] [[localsend-localsend]]
+[[chen08209-flclash]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]] [[flutter-flutter]]
 
 **所属领域**: [[ai-agent]]
 

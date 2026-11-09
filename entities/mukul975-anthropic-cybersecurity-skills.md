@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-claude-quickstarts]] [[google-skills]] [[cloudflare-security-audit-skill]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]]
+[[sherlock-project-sherlock]] [[mpv-player-mpv]] [[beenuar-aisoc]] [[nushell-nushell]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

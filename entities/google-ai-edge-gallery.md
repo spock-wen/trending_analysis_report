@@ -37,7 +37,7 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 
 ## 相关项目
 
-[[embabel-embabel-agent]] [[android-skills]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[bannedbook-fanqiang]]
+[[embabel-embabel-agent]] [[mahlernim-google-timeline-visualizer]] [[zhulinsen-daily_stock_analysis]] [[android-skills]] [[meta-astryx]]
 
 **所属领域**: [[ai-agent]]
 

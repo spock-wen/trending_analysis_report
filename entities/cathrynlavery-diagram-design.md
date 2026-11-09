@@ -38,7 +38,7 @@ Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[ripienaar-free-for-dev]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[averygan-reclip]]
+[[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[tailwindlabs-tailwindcss]] [[averygan-reclip]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

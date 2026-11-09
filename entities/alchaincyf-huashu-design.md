@@ -34,7 +34,7 @@ Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网�
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[ripienaar-free-for-dev]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[cathrynlavery-diagram-design]]
+[[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[tailwindlabs-tailwindcss]] [[averygan-reclip]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

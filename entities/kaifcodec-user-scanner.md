@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[google-skills]] [[cloudflare-security-audit-skill]] [[dsx-ai-factory-nvke]]
+[[tauricresearch-tradingagents]] [[sherlock-project-sherlock]] [[beenuar-aisoc]] [[k-dense-ai-scientific-agent-skills]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

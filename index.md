@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-11-09 | 总页面：889
+> 最后更新：2026-11-10 | 总页面：891
 
 ## Entities
 
@@ -81,7 +81,7 @@
 - [[anthropics-cwc-workshops|cwc-workshops]] — No description
 - [[anthropics-financial-services|financial-services]] — No description 🔥
 - [[anthropics-knowledge-work-plugins|knowledge-work-plugins]] — Open source repository of plugins primarily intended for kno... 🆕
-- [[anthropics-skills|skills]] — Public repository for Agent Skills 🆕
+- [[anthropics-skills|skills]] — Public repository for Agent Skills 🔥
 - [[antirez-ds4|ds4]] — DeepSeek 4 Flash and PRO local inference engine for Metal, C...
 - [[antoinezambelli-forge|forge]] — A Python framework for self-hosted LLM tool-calling and mult...
 - [[apache-cassandra|cassandra]] — Open source transactional distributed database. Linear scala...
@@ -292,6 +292,7 @@
 - [[fxembed-fxembed|FxEmbed]] — Fix X/Twitter and Bluesky embeds! Use multiple images, video...
 - [[gabime-spdlog|spdlog]] — Fast C++ logging library.
 - [[galilai-group-stable-worldmodel|stable-worldmodel]] — A platform for reproducible world model research and evaluat... 🆕
+- [[garrytan-gbrain|gbrain]] — Garry's Opinionated OpenClaw/Hermes Agent Brain 🆕
 - [[garrytan-gstack|gstack]] — Use Garry Tan's exact Claude Code setup: 23 opinionated tool... 🆕
 - [[gastownhall-beads|beads]] — Beads - A memory upgrade for your coding agent 🆕
 - [[gastownhall-gastown|gastown]] — Gas Town - multi-agent workspace manager 🆕
@@ -361,6 +362,7 @@
 - [[hmjz100-linkswift|LinkSwift]] — 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘...
 - [[holaboss-ai-holaos|holaOS]] — Open-source All in One AI agent workspace. Run any agent — C... 🆕
 - [[home-assistant-core|core]] — 🏡 Open source home automation that puts local control and pr... 🆕
+- [[homeassistant-ai-ha-mcp|ha-mcp]] — Configure and automate Home Assistant with Claude, ChatGPT, ... 🆕
 - [[homebrew-brewui|BrewUI]] — 📺 Homebrew's official macOS GUI
 - [[hsliuping-tradingagents-cn|TradingAgents-CN]] — 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 🔥
 - [[huangruiteng-loopx|loopx]] — Lightweight loop engineering state kernel for long-running A... 🆕
@@ -503,7 +505,7 @@
 - [[meloong-git-pcl|PCL]] — Minecraft 启动器 Plain Craft Launcher（PCL）。
 - [[mempalace-mempalace|mempalace]] — The best-benchmarked open-source AI memory system. And it's ...
 - [[meshery-meshery|meshery]] — Meshery, the cloud native manager 🔥
-- [[meta-astryx|astryx]] — An open source design system that's fully customizable and a... 🆕
+- [[meta-astryx|astryx]] — An open source design system that's fully customizable and a... 🔥
 - [[mg1937-asc|ASC]] — ASC is a super FAST Android decompiler front-end designed fo...
 - [[michaelcade-90daysofdevops|90DaysOfDevOps]] — This repository started out as a learning in public project ...
 - [[microsoft-agent-framework|agent-framework]] — A framework for building, orchestrating and deploying AI age...
@@ -527,7 +529,7 @@
 - [[mihail911-modern-software-dev-assignments|modern-software-dev-assignments]] — Assignments for CS146S: The Modern Software Dev (Stanford Un...
 - [[mikeroyal-self-hosting-guide|Self-Hosting-Guide]] — Self-Hosting Guide. Learn all about locally hosting (on prem...
 - [[mikumifa-bilitickerbuy|biliTickerBuy]] — b站会员购购票辅助工具
-- [[milind-soni-openmausbot|OpenMausBot]] — Open-source Grok Bot alternative with a virtual machine that... 🆕
+- [[milind-soni-openmausbot|OpenMausBot]] — Open-source Grok Bot alternative with a virtual machine that... 🔥
 - [[millionco-react-doctor|react-doctor]] — Your agent writes bad React. This catches it 🔥
 - [[mksglu-context-mode|context-mode]] — Context window optimization for AI coding agents. Sandboxes ... 🔥
 - [[mlabonne-llm-course|llm-course]] — Course to get into Large Language Models (LLMs) with roadmap...
@@ -712,7 +714,7 @@
 - [[shanraisshan-claude-code-best-practice|claude-code-best-practice]] — from vibe coding to agentic engineering - practice makes cla...
 - [[shareai-lab-learn-claude-code|learn-claude-code]] — Bash is all you need - A nano claude code–like 「agent harnes...
 - [[sharex-sharex|ShareX]] — ShareX is a free and open-source application that enables us...
-- [[sherlock-project-sherlock|sherlock]] — Hunt down social media accounts by username across social ne... 🆕
+- [[sherlock-project-sherlock|sherlock]] — Hunt down social media accounts by username across social ne... 🔥
 - [[shiyu-coder-kronos|Kronos]] — Kronos: A Foundation Model for the Language of Financial Mar... 🔥
 - [[shubhamsaboo-awesome-llm-apps|awesome-llm-apps]] — 100+ AI Agents, Agent Skills and RAG Apps - Free and Open So...
 - [[shy3130-tick-stock-panel|tick-stock-panel]] — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自...
@@ -817,7 +819,7 @@
 - [[vectifyai-pageindex|PageIndex]] — 📑 PageIndex: Document Index for Vectorless, Reasoning-based ... 🆕
 - [[vectorize-io-hindsight|hindsight]] — Hindsight: Agent Memory That Learns 🔥
 - [[veracrypt-veracrypt|VeraCrypt]] — Disk encryption with strong security based on TrueCrypt
-- [[vercel-labs-agent-browser|agent-browser]] — Browser automation CLI for AI agents 🆕
+- [[vercel-labs-agent-browser|agent-browser]] — Browser automation CLI for AI agents 🔥
 - [[vercel-labs-agent-desktop|agent-desktop]] — Computer use CLI for AI agents 🔥
 - [[vercel-labs-json-render|json-render]] — The Generative UI framework
 - [[vercel-labs-open-agents|open-agents]] — An open source template for building cloud agents.
@@ -871,7 +873,7 @@
 - [[zeux-meshoptimizer|meshoptimizer]] — Mesh optimization library that makes meshes smaller and fast... 🆕
 - [[zhaoxuya520-reverse-skill|reverse-skill]] — Reverse Engineering / Authorized Penetration Testing / Secur...
 - [[zhouxiaoka-autoclip|autoclip]] — AutoClip : AI-powered video clipping and highlight generatio...
-- [[zhulinsen-daily_stock_analysis|daily_stock_analysis]] — LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，...
+- [[zhulinsen-daily_stock_analysis|daily_stock_analysis]] — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powere...
 - [[zilliztech-claude-context|claude-context]] — Code search MCP for Claude Code. Make entire codebase the co... 🔥
 - [[zuodaotech-everyone-can-use-english|everyone-can-use-english]] — 人人都能用英语
 - [[zyronon-typewords|TypeWords]] — Practice English, one strike, one step forward; 练习英语，一次敲击，一点...

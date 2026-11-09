@@ -35,7 +35,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[anthropics-skills]] [[meta-astryx]]
+[[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[vercel-labs-agent-browser]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

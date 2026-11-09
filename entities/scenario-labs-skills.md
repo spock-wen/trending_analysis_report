@@ -35,7 +35,7 @@ Get production-ready images, video, audio, and 3D from any AI agent: skills that
 
 ## 相关项目
 
-[[jiafeimiao-k-cat-discimagestudio]] [[anthropics-claude-quickstarts]] [[google-skills]] [[dsx-ai-factory-nvke]] [[microsoft-vibevoice]]
+[[sherlock-project-sherlock]] [[jiafeimiao-k-cat-discimagestudio]] [[zhulinsen-daily_stock_analysis]] [[anomalyco-hex]] [[meta-astryx]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

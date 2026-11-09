@@ -36,7 +36,7 @@ Node Version Manager - POSIX-compliant bash script to manage multiple active nod
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[mpv-player-mpv]] [[nushell-nushell]] [[obra-superpowers]] [[donchitos-claude-code-game-studios]]
+[[mpv-player-mpv]] [[nushell-nushell]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

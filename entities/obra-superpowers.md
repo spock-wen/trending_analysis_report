@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[php-php-src]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]]
+[[mpv-player-mpv]] [[nushell-nushell]] [[zhulinsen-daily_stock_analysis]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

@@ -35,7 +35,7 @@ A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Opti
 
 ## 相关项目
 
-[[anthropics-claude-quickstarts]] [[google-skills]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[sherlock-project-sherlock]]
+[[sherlock-project-sherlock]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]] [[anthropics-claude-quickstarts]]
 
 **所属领域**: [[ai-agent]]
 

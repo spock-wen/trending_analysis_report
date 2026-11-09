@@ -35,5 +35,5 @@ A context-compression plugin for month-long single sessions (billions of tokens)
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[milind-soni-openmausbot]] [[meta-astryx]]
+[[milind-soni-openmausbot]] [[garrytan-gbrain]] [[meta-astryx]]
 

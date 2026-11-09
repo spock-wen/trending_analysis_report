@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[fareedkhan-dev-kimi-k3-in-c]] [[cloudflare-security-audit-skill]] [[mpv-player-mpv]] [[nvidia-skillspector]] [[openssl-openssl]]
+[[mpv-player-mpv]] [[beenuar-aisoc]] [[lz4-lz4]] [[fareedkhan-dev-kimi-k3-in-c]] [[nvidia-skillspector]]
 
 **所属领域**: [[security]]
 

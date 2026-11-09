@@ -34,7 +34,7 @@ This repository started out as a learning in public project for myself and has n
 
 ## 相关项目
 
-[[usagi-org-ai-goofish-monitor]] [[patchy631-ai-engineering-hub]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[xiaolai-the-craft-of-selfteaching]]
+[[mpv-player-mpv]] [[thu-maic-openmaic]] [[nushell-nushell]] [[xiaolai-the-craft-of-selfteaching]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]] [[devops]] [[education]]
 

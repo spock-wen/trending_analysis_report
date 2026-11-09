@@ -38,5 +38,5 @@ ArtCraft is an intentional crafting engine for artists, designers, and filmmaker
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[zed-industries-zed]] [[astral-sh-ruff]] [[rust-lang-rust]]
+[[astral-sh-ruff]] [[ruvnet-ruview]] [[zed-industries-zed]] [[vercel-labs-agent-browser]]
 

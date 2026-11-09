@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[jiafeimiao-k-cat-discimagestudio]] [[cloudflare-security-audit-skill]] [[dsx-ai-factory-nvke]] [[microsoft-vibevoice]] [[vercel-labs-agent-browser]]
+[[zhulinsen-daily_stock_analysis]] [[anomalyco-hex]] [[meta-astryx]] [[cjpais-handy]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

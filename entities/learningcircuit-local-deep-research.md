@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[anthropics-claude-quickstarts]] [[xiaolai-the-craft-of-selfteaching]] [[google-skills]] [[cloudflare-security-audit-skill]]
+[[tauricresearch-tradingagents]] [[sherlock-project-sherlock]] [[beenuar-aisoc]] [[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[usagi-org-ai-goofish-monitor]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[ranxianglei-billion-context]]
+[[anthropics-claude-quickstarts]] [[garrytan-gbrain]] [[meta-astryx]] [[ruvnet-ruview]] [[usagi-org-ai-goofish-monitor]]
 
 **所属领域**: [[devops]]
 

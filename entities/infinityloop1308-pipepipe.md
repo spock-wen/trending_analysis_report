@@ -34,7 +34,7 @@ An open-source Android app to let you browse YouTube and other services freely.
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[mpv-player-mpv]] [[nushell-nushell]] [[obra-superpowers]] [[donchitos-claude-code-game-studios]]
+[[mpv-player-mpv]] [[nushell-nushell]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

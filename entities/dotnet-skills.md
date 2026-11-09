@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[sonarr-sonarr]] [[jiafeimiao-k-cat-discimagestudio]] [[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[k1tbyte-wand-enhancer]]
+[[sonarr-sonarr]] [[ntdevlabs-tiny11builder]] [[zhulinsen-daily_stock_analysis]] [[k1tbyte-wand-enhancer]] [[meta-astryx]]
 
 **所属领域**: [[ai-agent]]
 

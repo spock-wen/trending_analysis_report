@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[rust-lang-rust]] [[microsoft-vibevoice]] [[vercel-labs-agent-browser]]
+[[mpv-player-mpv]] [[thu-maic-openmaic]] [[nushell-nushell]] [[xiaolai-the-craft-of-selfteaching]] [[astral-sh-ruff]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

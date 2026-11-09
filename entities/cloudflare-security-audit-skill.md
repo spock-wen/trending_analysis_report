@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[dsx-ai-factory-nvke]] [[vercel-labs-agent-browser]] [[meta-astryx]] [[nvidia-skillspector]] [[react-react]]
+[[beenuar-aisoc]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]] [[react-react]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

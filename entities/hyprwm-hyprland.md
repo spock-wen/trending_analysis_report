@@ -37,5 +37,5 @@ Hyprland is an independent, highly customizable, dynamic tiling Wayland composit
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[google-deepmind-mujoco]] [[microsoft-bitnet]]
+[[boykopovar-anyps5]] [[microsoft-bitnet]] [[google-deepmind-mujoco]]
 

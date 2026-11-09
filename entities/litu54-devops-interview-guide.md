@@ -34,7 +34,7 @@ DevOps Interview Guide
 
 ## 相关项目
 
-[[michaelcade-90daysofdevops]] [[usagi-org-ai-goofish-monitor]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]]
+[[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[ruvnet-ruview]] [[usagi-org-ai-goofish-monitor]]
 
 **所属领域**: [[devops]]
 

@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[tailwindlabs-tailwindcss]] [[vercel-labs-agent-browser]] [[mpv-player-mpv]] [[hyprwm-hyprland]]
+[[microsoft-bitnet]] [[mpv-player-mpv]] [[nushell-nushell]] [[mattpocock-skills]] [[tailwindlabs-tailwindcss]]
 
 **所属领域**: [[web]] [[cli]]
 

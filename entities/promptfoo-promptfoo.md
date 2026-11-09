@@ -36,7 +36,7 @@ Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[usagi-org-ai-goofish-monitor]] [[prometheus-prometheus]] [[ranxianglei-billion-context]] [[anthropics-claude-quickstarts]]
+[[mpv-player-mpv]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[anthropics-claude-quickstarts]] [[garrytan-gbrain]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

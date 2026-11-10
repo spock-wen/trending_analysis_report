@@ -38,5 +38,5 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-claude-quickstarts]] [[zhulinsen-daily_stock_analysis]] [[sherlock-project-sherlock]] [[anthropics-skills]]
+[[sherlock-project-sherlock]] [[anthropics-skills]] [[homeassistant-ai-ha-mcp]] [[anthropics-claude-quickstarts]]
 

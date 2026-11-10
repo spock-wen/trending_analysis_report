@@ -38,7 +38,7 @@ Open-source 3D architectural editor with a local CLI, MCP tools, and practical w
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[garrytan-gbrain]] [[zhulinsen-daily_stock_analysis]]
+[[mattpocock-skills]] [[nushell-nushell]] [[garrytan-gbrain]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

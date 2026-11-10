@@ -35,7 +35,7 @@ ADR secures enterprise AI agents through observability, security benchmarking, a
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[beenuar-aisoc]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[ruvnet-ruview]]
+[[php-php-src]] [[mattpocock-skills]] [[nvidia-skillspector]] [[affaan-m-ecc]] [[anthropics-claude-quickstarts]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[security]] [[erp]]
 

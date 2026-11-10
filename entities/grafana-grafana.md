@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[anthropics-claude-quickstarts]] [[garrytan-gbrain]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[etcd-io-etcd]]
+[[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[zhulinsen-daily_stock_analysis]] [[garrytan-gbrain]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[data]] [[devops]]
 

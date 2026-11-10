@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[mpv-player-mpv]] [[nushell-nushell]] [[zhulinsen-daily_stock_analysis]] [[mattpocock-skills]]
+[[scenario-labs-skills]] [[mattpocock-skills]] [[cjpais-handy]] [[anthropics-claude-quickstarts]] [[nushell-nushell]]
 
 **所属领域**: [[cli]] [[audio]]
 

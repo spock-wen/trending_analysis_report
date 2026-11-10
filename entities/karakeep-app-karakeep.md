@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[jiafeimiao-k-cat-discimagestudio]] [[garrytan-gbrain]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]]
+[[scenario-labs-skills]] [[mattpocock-skills]] [[garrytan-gbrain]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

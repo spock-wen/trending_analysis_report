@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[beenuar-aisoc]] [[vercel-labs-agent-browser]] [[garrytan-gbrain]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]]
+[[mattpocock-skills]] [[nvidia-skillspector]] [[affaan-m-ecc]] [[garrytan-gbrain]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

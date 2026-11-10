@@ -38,7 +38,7 @@ The Postgres development platform. Supabase gives you a dedicated Postgres datab
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[garrytan-gbrain]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[tailwindlabs-tailwindcss]]
+[[mattpocock-skills]] [[tokio-rs-topcoat]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[garrytan-gbrain]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

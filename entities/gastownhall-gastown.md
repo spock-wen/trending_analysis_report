@@ -35,7 +35,7 @@ Gas Town - multi-agent workspace manager
 
 ## 相关项目
 
-[[strelov1-freehire]] [[dsx-ai-factory-nvke]] [[zhulinsen-daily_stock_analysis]] [[etcd-io-etcd]] [[meta-astryx]]
+[[dsx-ai-factory-nvke]] [[mattpocock-skills]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]] [[etcd-io-etcd]]
 
 **所属领域**: [[ai-agent]]
 

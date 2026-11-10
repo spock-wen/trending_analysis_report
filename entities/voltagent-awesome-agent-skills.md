@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[nushell-nushell]] [[zhulinsen-daily_stock_analysis]] [[mattpocock-skills]] [[meta-astryx]]
+[[mattpocock-skills]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

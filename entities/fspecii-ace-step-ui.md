@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[anomalyco-hex]] [[meta-astryx]] [[cjpais-handy]] [[anthropics-skills]]
+[[scenario-labs-skills]] [[mattpocock-skills]] [[cjpais-handy]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

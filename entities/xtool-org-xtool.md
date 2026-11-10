@@ -35,7 +35,7 @@ Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linu
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[ruvnet-ruview]] [[abue-ammar-tinycast]] [[vorssaint-vorssaint-utils]] [[usagi-org-ai-goofish-monitor]]
+[[vorssaint-vorssaint-utils]] [[abue-ammar-tinycast]] [[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[ruvnet-ruview]]
 
 **所属领域**: [[devops]]
 

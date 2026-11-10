@@ -34,7 +34,7 @@ Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering tech
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[tailwindlabs-tailwindcss]] [[etcd-io-etcd]]
+[[php-php-src]] [[mattpocock-skills]] [[hugohe3-ppt-master]] [[tokio-rs-topcoat]] [[anthropics-claude-quickstarts]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[erp]]
 

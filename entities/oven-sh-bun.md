@@ -38,5 +38,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
 
 ## 相关项目
 
-[[astral-sh-ruff]] [[ruvnet-ruview]] [[zed-industries-zed]] [[vercel-labs-agent-browser]]
+[[vercel-labs-agent-browser]] [[zed-industries-zed]] [[ruvnet-ruview]] [[tokio-rs-topcoat]]
 

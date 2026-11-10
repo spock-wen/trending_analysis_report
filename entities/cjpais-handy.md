@@ -34,7 +34,7 @@ A free, open source, and extensible speech-to-text application that works comple
 
 ## 相关项目
 
-[[astral-sh-ruff]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[ruvnet-ruview]] [[anomalyco-hex]]
+[[scenario-labs-skills]] [[mattpocock-skills]] [[tokio-rs-topcoat]] [[vercel-labs-agent-browser]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

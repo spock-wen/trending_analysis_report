@@ -34,7 +34,7 @@ real time face swap and one-click video deepfake with only a single image
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[mpv-player-mpv]] [[nushell-nushell]] [[jiafeimiao-k-cat-discimagestudio]] [[zhulinsen-daily_stock_analysis]]
+[[scenario-labs-skills]] [[mattpocock-skills]] [[anthropics-claude-quickstarts]] [[nushell-nushell]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

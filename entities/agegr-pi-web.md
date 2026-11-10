@@ -36,7 +36,7 @@ Web UI for the pi coding agent
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[garrytan-gbrain]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[tailwindlabs-tailwindcss]]
+[[mattpocock-skills]] [[tokio-rs-topcoat]] [[garrytan-gbrain]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

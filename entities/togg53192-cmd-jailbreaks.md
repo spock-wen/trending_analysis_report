@@ -38,7 +38,7 @@ LIST OF ALL MY JAILBREAKS
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[vercel-labs-agent-browser]] [[anthropics-skills]]
+[[vercel-labs-agent-browser]] [[anthropics-skills]] [[mattpocock-skills]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

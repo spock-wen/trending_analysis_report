@@ -34,5 +34,5 @@ Control your Samsung appliances from Home Assistant over your home network, with
 
 ## 相关项目
 
-[[anthropics-claude-quickstarts]] [[zhulinsen-daily_stock_analysis]] [[sherlock-project-sherlock]] [[anthropics-skills]]
+[[sherlock-project-sherlock]] [[anthropics-skills]] [[homeassistant-ai-ha-mcp]] [[anthropics-claude-quickstarts]]
 

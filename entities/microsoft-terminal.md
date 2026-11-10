@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[mpv-player-mpv]] [[nushell-nushell]] [[mattpocock-skills]] [[hyprwm-hyprland]]
+[[microsoft-bitnet]] [[mattpocock-skills]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[google-deepmind-mujoco]]
 
 **所属领域**: [[cli]]
 

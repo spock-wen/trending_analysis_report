@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[zhulinsen-daily_stock_analysis]] [[michaelcade-90daysofdevops]]
+[[mattpocock-skills]] [[xiaolai-the-craft-of-selfteaching]] [[anthropics-claude-quickstarts]] [[patchy631-ai-engineering-hub]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

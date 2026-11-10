@@ -34,5 +34,5 @@ A set of beautifully-designed, accessible components and a code distribution pla
 
 ## 相关项目
 
-[[milind-soni-openmausbot]] [[garrytan-gbrain]] [[meta-astryx]] [[ranxianglei-billion-context]]
+[[garrytan-gbrain]] [[meta-astryx]] [[milind-soni-openmausbot]] [[ranxianglei-billion-context]]
 

@@ -37,7 +37,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]] [[react-react]] [[conardli-garden-skills]]
+[[scenario-labs-skills]] [[mattpocock-skills]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]] [[conardli-garden-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

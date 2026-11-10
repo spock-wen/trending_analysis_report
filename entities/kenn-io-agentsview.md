@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[strelov1-freehire]] [[dsx-ai-factory-nvke]] [[zhulinsen-daily_stock_analysis]] [[etcd-io-etcd]] [[meta-astryx]]
+[[dsx-ai-factory-nvke]] [[mattpocock-skills]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

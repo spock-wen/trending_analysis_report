@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[tailwindlabs-tailwindcss]] [[etcd-io-etcd]] [[anthropics-skills]]
+[[mattpocock-skills]] [[tokio-rs-topcoat]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

@@ -37,7 +37,7 @@ Deepseek to API: A lightweight, high-performance full-stack middleware convertin
 
 ## 相关项目
 
-[[strelov1-freehire]] [[mpv-player-mpv]] [[dsx-ai-factory-nvke]] [[nushell-nushell]] [[zhulinsen-daily_stock_analysis]]
+[[dsx-ai-factory-nvke]] [[mattpocock-skills]] [[prometheus-prometheus]] [[nushell-nushell]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[ranxianglei-billion-context]] [[jiafeimiao-k-cat-discimagestudio]] [[garrytan-gbrain]] [[meta-astryx]] [[tailwindlabs-tailwindcss]]
+[[scenario-labs-skills]] [[tokio-rs-topcoat]] [[garrytan-gbrain]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[web]] [[image-gen]]
 

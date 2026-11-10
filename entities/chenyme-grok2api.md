@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[strelov1-freehire]] [[mpv-player-mpv]] [[dsx-ai-factory-nvke]] [[nushell-nushell]] [[mattpocock-skills]]
+[[dsx-ai-factory-nvke]] [[mattpocock-skills]] [[tokio-rs-topcoat]] [[prometheus-prometheus]] [[nushell-nushell]]
 
 **所属领域**: [[web]] [[cli]]
 

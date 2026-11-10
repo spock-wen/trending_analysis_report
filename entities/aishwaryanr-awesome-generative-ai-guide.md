@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[k-dense-ai-scientific-agent-skills]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[tailwindlabs-tailwindcss]]
+[[paperclipai-paperclip]] [[mattpocock-skills]] [[averygan-reclip]] [[tokio-rs-topcoat]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

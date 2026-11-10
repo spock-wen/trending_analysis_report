@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[sherlock-project-sherlock]] [[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[k-dense-ai-scientific-agent-skills]]
+[[paperclipai-paperclip]] [[xiaolai-the-craft-of-selfteaching]] [[affaan-m-ecc]] [[anthropics-claude-quickstarts]] [[patchy631-ai-engineering-hub]]
 
 **所属领域**: [[education]] [[science]]
 

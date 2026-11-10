@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[astral-sh-ruff]] [[usagi-org-ai-goofish-monitor]] [[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[zed-industries-zed]]
+[[tokio-rs-topcoat]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[vercel-labs-agent-browser]] [[usagi-org-ai-goofish-monitor]]
 
 **所属领域**: [[devops]]
 

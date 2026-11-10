@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[strelov1-freehire]] [[dsx-ai-factory-nvke]] [[zhulinsen-daily_stock_analysis]] [[etcd-io-etcd]] [[meta-astryx]]
+[[dsx-ai-factory-nvke]] [[mattpocock-skills]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

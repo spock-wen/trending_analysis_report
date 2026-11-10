@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[anthropics-claude-quickstarts]] [[vercel-labs-agent-browser]] [[garrytan-gbrain]]
+[[mattpocock-skills]] [[xiaolai-the-craft-of-selfteaching]] [[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[patchy631-ai-engineering-hub]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

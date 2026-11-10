@@ -38,7 +38,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[tailwindlabs-tailwindcss]] [[diolinux-photogimp]] [[anthropics-skills]]
+[[diolinux-photogimp]] [[mattpocock-skills]] [[tokio-rs-topcoat]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

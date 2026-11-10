@@ -36,7 +36,7 @@ LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、�
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[meta-astryx]] [[etcd-io-etcd]] [[anthropics-skills]] [[nvidia-auto-ontology]]
+[[mattpocock-skills]] [[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]] [[homeassistant-ai-ha-mcp]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

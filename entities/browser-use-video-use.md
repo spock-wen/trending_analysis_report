@@ -38,7 +38,7 @@ Edit videos with coding agents
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[tailwindlabs-tailwindcss]] [[anthropics-skills]]
+[[mattpocock-skills]] [[tokio-rs-topcoat]] [[anthropics-claude-quickstarts]] [[tailwindlabs-tailwindcss]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

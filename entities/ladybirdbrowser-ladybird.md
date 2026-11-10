@@ -36,7 +36,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[tailwindlabs-tailwindcss]] [[react-react]] [[angular-angular]] [[hyprwm-hyprland]]
+[[microsoft-bitnet]] [[tokio-rs-topcoat]] [[tailwindlabs-tailwindcss]] [[vercel-labs-agent-browser]] [[google-deepmind-mujoco]]
 
 **所属领域**: [[web]]
 

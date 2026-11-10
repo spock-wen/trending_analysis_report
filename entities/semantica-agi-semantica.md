@@ -38,7 +38,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[ruvnet-ruview]] [[anthropics-skills]]
+[[mattpocock-skills]] [[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]] [[homeassistant-ai-ha-mcp]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

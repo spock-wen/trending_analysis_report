@@ -34,7 +34,7 @@ Enterprise Architecture Governance & Vendor Procurement Toolkit
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[averygan-reclip]] [[obra-superpowers]] [[react-react]] [[alchaincyf-huashu-design]]
+[[php-php-src]] [[hugohe3-ppt-master]] [[tokio-rs-topcoat]] [[averygan-reclip]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[web]] [[erp]]
 

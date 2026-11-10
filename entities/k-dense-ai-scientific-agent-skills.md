@@ -38,7 +38,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[sherlock-project-sherlock]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[etcd-io-etcd]]
+[[paperclipai-paperclip]] [[mattpocock-skills]] [[affaan-m-ecc]] [[anthropics-claude-quickstarts]] [[prometheus-prometheus]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

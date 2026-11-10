@@ -37,7 +37,7 @@ No description
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]] [[hyprwm-hyprland]]
+[[microsoft-bitnet]] [[mattpocock-skills]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[google-deepmind-mujoco]]
 
 **所属领域**: [[ai-agent]]
 

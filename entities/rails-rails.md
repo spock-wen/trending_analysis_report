@@ -34,7 +34,7 @@ Ruby on Rails
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]] [[docusealco-docuseal]] [[chatwoot-chatwoot]]
+[[mattpocock-skills]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[chatwoot-chatwoot]] [[we-promise-sure]]
 
 **所属领域**: [[ai-agent]]
 

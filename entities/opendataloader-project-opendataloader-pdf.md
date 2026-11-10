@@ -38,7 +38,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[floci-io-floci]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[etcd-io-etcd]] [[anthropics-skills]]
+[[mattpocock-skills]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[checkstyle-checkstyle]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

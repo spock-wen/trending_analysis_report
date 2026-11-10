@@ -34,7 +34,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[zhulinsen-daily_stock_analysis]] [[anomalyco-hex]] [[meta-astryx]] [[cjpais-handy]]
+[[scenario-labs-skills]] [[mattpocock-skills]] [[cjpais-handy]] [[anthropics-claude-quickstarts]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[nushell-nushell]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[obra-superpowers]]
+[[mattpocock-skills]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[michaelcade-90daysofdevops]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[cli]]
 

@@ -37,7 +37,7 @@ Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WA
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[garrytan-gbrain]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]]
+[[php-php-src]] [[mattpocock-skills]] [[hugohe3-ppt-master]] [[garrytan-gbrain]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

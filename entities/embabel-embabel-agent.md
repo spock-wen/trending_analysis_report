@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[mahlernim-google-timeline-visualizer]] [[zhulinsen-daily_stock_analysis]] [[android-skills]] [[meta-astryx]] [[anthropics-skills]]
+[[mattpocock-skills]] [[mahlernim-google-timeline-visualizer]] [[vercel-labs-agent-browser]] [[android-skills]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

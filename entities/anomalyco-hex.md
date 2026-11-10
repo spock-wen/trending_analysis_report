@@ -35,7 +35,7 @@ Local voice dictation for mac, windows and linux
 
 ## 相关项目
 
-[[astral-sh-ruff]] [[cjpais-handy]] [[ruvnet-ruview]] [[scenario-labs-skills]] [[microsoft-vibevoice]]
+[[scenario-labs-skills]] [[cjpais-handy]] [[tokio-rs-topcoat]] [[vercel-labs-agent-browser]] [[ruvnet-ruview]]
 
 **所属领域**: [[audio]]
 

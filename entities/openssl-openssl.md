@@ -34,5 +34,5 @@ General purpose TLS and crypto library
 
 ## 相关项目
 
-[[lz4-lz4]] [[mpv-player-mpv]] [[fareedkhan-dev-kimi-k3-in-c]]
+[[lz4-lz4]] [[fareedkhan-dev-kimi-k3-in-c]] [[mpv-player-mpv]]
 

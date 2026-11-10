@@ -36,7 +36,7 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[etcd-io-etcd]] [[anthropics-skills]] [[react-react]]
+[[mattpocock-skills]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

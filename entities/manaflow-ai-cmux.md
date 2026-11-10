@@ -37,7 +37,7 @@ Open source Ghostty-based macOS terminal with vertical tabs and notifications fo
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[nushell-nushell]] [[zhulinsen-daily_stock_analysis]] [[mattpocock-skills]] [[meta-astryx]]
+[[vorssaint-vorssaint-utils]] [[mattpocock-skills]] [[abue-ammar-tinycast]] [[nushell-nushell]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

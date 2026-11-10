@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[nushell-nushell]] [[zhulinsen-daily_stock_analysis]] [[mattpocock-skills]] [[meta-astryx]]
+[[mattpocock-skills]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

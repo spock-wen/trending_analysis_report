@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[sherlock-project-sherlock]] [[k-dense-ai-scientific-agent-skills]] [[jiafeimiao-k-cat-discimagestudio]] [[zhulinsen-daily_stock_analysis]]
+[[scenario-labs-skills]] [[paperclipai-paperclip]] [[mattpocock-skills]] [[affaan-m-ecc]] [[anthropics-claude-quickstarts]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

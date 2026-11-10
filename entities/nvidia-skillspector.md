@@ -38,7 +38,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[beenuar-aisoc]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[etcd-io-etcd]]
+[[mattpocock-skills]] [[affaan-m-ecc]] [[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]]
 

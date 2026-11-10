@@ -38,7 +38,7 @@ AirLLM 2.8T LLM inference with single 4GB GPU
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]] [[higgsfield-ai-higgsfield]]
+[[mattpocock-skills]] [[xiaolai-the-craft-of-selfteaching]] [[patchy631-ai-engineering-hub]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

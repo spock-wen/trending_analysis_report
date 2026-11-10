@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[embabel-embabel-agent]] [[mahlernim-google-timeline-visualizer]] [[zhulinsen-daily_stock_analysis]] [[android-skills]] [[meta-astryx]]
+[[mattpocock-skills]] [[mahlernim-google-timeline-visualizer]] [[tokio-rs-topcoat]] [[vercel-labs-agent-browser]] [[android-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

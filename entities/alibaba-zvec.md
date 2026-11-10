@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[zhulinsen-daily_stock_analysis]] [[etcd-io-etcd]] [[hyprwm-hyprland]] [[google-deepmind-mujoco]]
+[[microsoft-bitnet]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[nvidia-auto-ontology]] [[etcd-io-etcd]]
 
 **所属领域**: [[data]]
 

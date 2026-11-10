@@ -38,7 +38,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[k-dense-ai-scientific-agent-skills]] [[mpv-player-mpv]] [[nushell-nushell]] [[vercel-labs-agent-browser]]
+[[mattpocock-skills]] [[affaan-m-ecc]] [[nushell-nushell]] [[garrytan-gbrain]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

@@ -34,7 +34,7 @@ This repository started out as a learning in public project for myself and has n
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[thu-maic-openmaic]] [[nushell-nushell]] [[xiaolai-the-craft-of-selfteaching]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[xiaolai-the-craft-of-selfteaching]] [[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[nushell-nushell]]
 
 **所属领域**: [[cli]] [[devops]] [[education]]
 

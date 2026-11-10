@@ -35,7 +35,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[nushell-nushell]] [[mattpocock-skills]] [[flutter-flutter]] [[localsend-localsend]]
+[[mattpocock-skills]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[flutter-skills]] [[flutter-flutter]]
 
 **所属领域**: [[cli]]
 

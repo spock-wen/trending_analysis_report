@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[tailwindlabs-tailwindcss]] [[ruvnet-ruview]]
+[[mattpocock-skills]] [[tokio-rs-topcoat]] [[anthropics-claude-quickstarts]] [[tailwindlabs-tailwindcss]] [[prometheus-prometheus]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

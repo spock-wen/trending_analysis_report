@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[astral-sh-ruff]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[ruvnet-ruview]] [[anthropics-skills]]
+[[php-php-src]] [[mattpocock-skills]] [[hugohe3-ppt-master]] [[tokio-rs-topcoat]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

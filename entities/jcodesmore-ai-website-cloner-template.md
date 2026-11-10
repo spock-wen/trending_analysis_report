@@ -38,7 +38,7 @@ Clone any website with one command using AI coding agents
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[garrytan-gbrain]] [[zhulinsen-daily_stock_analysis]]
+[[mattpocock-skills]] [[tokio-rs-topcoat]] [[nushell-nushell]] [[garrytan-gbrain]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

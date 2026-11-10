@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[garrytan-gbrain]] [[zhulinsen-daily_stock_analysis]] [[anomalyco-hex]] [[meta-astryx]]
+[[scenario-labs-skills]] [[mattpocock-skills]] [[cjpais-handy]] [[tokio-rs-topcoat]] [[garrytan-gbrain]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

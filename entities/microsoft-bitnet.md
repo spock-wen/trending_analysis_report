@@ -36,7 +36,7 @@ Official inference framework for 1-bit LLMs
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]] [[hyprwm-hyprland]] [[google-deepmind-mujoco]]
+[[mattpocock-skills]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[google-deepmind-mujoco]] [[boykopovar-anyps5]]
 
 **所属领域**: [[ai-agent]]
 

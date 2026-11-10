@@ -38,5 +38,5 @@ Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, struct
 
 ## 相关项目
 
-[[anthropics-claude-quickstarts]] [[zhulinsen-daily_stock_analysis]] [[sherlock-project-sherlock]] [[anthropics-skills]]
+[[sherlock-project-sherlock]] [[anthropics-skills]] [[homeassistant-ai-ha-mcp]] [[anthropics-claude-quickstarts]]
 

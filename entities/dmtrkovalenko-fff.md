@@ -34,7 +34,7 @@ The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus
 
 ## 相关项目
 
-[[astral-sh-ruff]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[ruvnet-ruview]] [[anthropics-skills]]
+[[mattpocock-skills]] [[tokio-rs-topcoat]] [[vercel-labs-agent-browser]] [[ruvnet-ruview]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

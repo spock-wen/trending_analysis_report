@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[sherlock-project-sherlock]] [[beenuar-aisoc]] [[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]]
+[[paperclipai-paperclip]] [[mattpocock-skills]] [[nvidia-skillspector]] [[affaan-m-ecc]] [[anthropics-claude-quickstarts]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

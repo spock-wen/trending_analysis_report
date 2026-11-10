@@ -35,7 +35,7 @@ An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶�
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]] [[react-react]] [[conardli-garden-skills]]
+[[mattpocock-skills]] [[vercel-labs-agent-browser]] [[conardli-garden-skills]] [[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,5 +36,5 @@ Meta-Framework of Spatiotemporal Composability
 
 ## 相关项目
 
-[[milind-soni-openmausbot]] [[garrytan-gbrain]] [[meta-astryx]] [[ranxianglei-billion-context]]
+[[garrytan-gbrain]] [[meta-astryx]] [[milind-soni-openmausbot]] [[ranxianglei-billion-context]]
 

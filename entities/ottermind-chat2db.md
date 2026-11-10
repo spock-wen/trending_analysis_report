@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[floci-io-floci]] [[nushell-nushell]] [[zhulinsen-daily_stock_analysis]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[prometheus-prometheus]] [[nushell-nushell]] [[checkstyle-checkstyle]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

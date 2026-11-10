@@ -38,7 +38,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[k-dense-ai-scientific-agent-skills]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]]
+[[paperclipai-paperclip]] [[mattpocock-skills]] [[affaan-m-ecc]] [[anthropics-claude-quickstarts]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

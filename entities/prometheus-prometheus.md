@@ -35,7 +35,7 @@ The Prometheus monitoring system and time series database.
 
 ## 相关项目
 
-[[strelov1-freehire]] [[dsx-ai-factory-nvke]] [[zhulinsen-daily_stock_analysis]] [[etcd-io-etcd]] [[ruvnet-ruview]]
+[[dsx-ai-factory-nvke]] [[anthropics-claude-quickstarts]] [[zhulinsen-daily_stock_analysis]] [[nvidia-auto-ontology]] [[etcd-io-etcd]]
 
 **所属领域**: [[data]] [[devops]]
 

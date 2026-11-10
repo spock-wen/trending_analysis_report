@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-11-10 | 总页面：891
+> 最后更新：2026-11-11 | 总页面：892
 
 ## Entities
 
@@ -77,7 +77,7 @@
 - [[anthropics-claude-cookbooks|claude-cookbooks]] — A collection of notebooks/recipes showcasing some fun and ef...
 - [[anthropics-claude-plugins-community|claude-plugins-community]] — Community plugin marketplace for Claude Cowork and Claude Co... 🔥
 - [[anthropics-claude-plugins-official|claude-plugins-official]] — Official, Anthropic-managed directory of high quality Claude... 🔥
-- [[anthropics-claude-quickstarts|claude-quickstarts]] — A collection of projects designed to help developers quickly... 🆕
+- [[anthropics-claude-quickstarts|claude-quickstarts]] — A collection of projects designed to help developers quickly... 🔥
 - [[anthropics-cwc-workshops|cwc-workshops]] — No description
 - [[anthropics-financial-services|financial-services]] — No description 🔥
 - [[anthropics-knowledge-work-plugins|knowledge-work-plugins]] — Open source repository of plugins primarily intended for kno... 🆕
@@ -292,7 +292,7 @@
 - [[fxembed-fxembed|FxEmbed]] — Fix X/Twitter and Bluesky embeds! Use multiple images, video...
 - [[gabime-spdlog|spdlog]] — Fast C++ logging library.
 - [[galilai-group-stable-worldmodel|stable-worldmodel]] — A platform for reproducible world model research and evaluat... 🆕
-- [[garrytan-gbrain|gbrain]] — Garry's Opinionated OpenClaw/Hermes Agent Brain 🆕
+- [[garrytan-gbrain|gbrain]] — Garry's Opinionated OpenClaw/Hermes Agent Brain
 - [[garrytan-gstack|gstack]] — Use Garry Tan's exact Claude Code setup: 23 opinionated tool... 🆕
 - [[gastownhall-beads|beads]] — Beads - A memory upgrade for your coding agent 🆕
 - [[gastownhall-gastown|gastown]] — Gas Town - multi-agent workspace manager 🆕
@@ -317,7 +317,7 @@
 - [[google-ai-edge-litert-lm|LiteRT-LM]] — No description 🔥
 - [[google-ai-edge-litert|LiteRT]] — LiteRT, successor to TensorFlow Lite. is Google's On-device ... 🆕
 - [[google-ax|ax]] — Google's open agentic orchestration runtime 🔥
-- [[google-deepmind-mujoco|mujoco]] — Multi-Joint dynamics with Contact. A general purpose physics... 🆕
+- [[google-deepmind-mujoco|mujoco]] — Multi-Joint dynamics with Contact. A general purpose physics... 🔥
 - [[google-deepmind-weathernext|weathernext]] — No description 🆕
 - [[google-gemini-gemini-cli|gemini-cli]] — An open-source AI agent that brings the power of Gemini dire...
 - [[google-googletest|googletest]] — GoogleTest - Google Testing and Mocking Framework 🔥
@@ -492,7 +492,7 @@
 - [[marin-community-marin|marin]] — Open-source framework for the research and development of fo... 🔥
 - [[masterking32-masterdnsvpn|MasterDnsVPN]] — Advanced DNS tunneling VPN for censorship bypass, optimized ... 🔥
 - [[mattermost-mattermost|mattermost]] — Mattermost is an open source platform for secure collaborati... 🆕
-- [[mattpocock-skills|skills]] — Skills for Real Engineers. Straight from my .agents director... 🔥
+- [[mattpocock-skills|skills]] — Skills for Real Engineers. Straight from my .agents director...
 - [[mauriceboe-trek|TREK]] — A self-hosted travel/trip planner with real-time collaborati... 🆕
 - [[max-sixty-worktrunk|worktrunk]] — Worktrunk is a CLI for Git worktree management, designed for... 🔥
 - [[maziyarpanahi-openmed|openmed]] — open-source healthcare ai 🔥
@@ -672,7 +672,7 @@
 - [[radixark-miles|miles]] — Miles is an enterprise-facing reinforcement learning framewo...
 - [[rails-rails|rails]] — Ruby on Rails
 - [[rakyll-hey|hey]] — HTTP load generator, ApacheBench (ab) replacement
-- [[ranxianglei-billion-context|billion-context]] — A context-compression plugin for month-long single sessions ... 🆕
+- [[ranxianglei-billion-context|billion-context]] — A context-compression plugin for month-long single sessions ...
 - [[raphire-win11debloat|Win11Debloat]] — A simple, lightweight PowerShell script that allows you to r... 🆕
 - [[rasbt-llms-from-scratch|LLMs-from-scratch]] — Implement a ChatGPT-like LLM in PyTorch from scratch, step b... 🔥
 - [[react-react|react]] — The library for web and native user interfaces.
@@ -840,6 +840,7 @@
 - [[vudovn-ag-kit|ag-kit]] — No description
 - [[vxcontrol-pentagi|pentagi]] — Fully autonomous AI Agents system capable of performing comp...
 - [[warpdotdev-warp|warp]] — Warp is an agentic development environment, born out of the ... 🔥
+- [[we-promise-sure|sure]] — The personal finance app for everyone (by everyone) 🆕
 - [[webpack-webpack|webpack]] — A bundler for javascript and friends. Packs many modules int...
 - [[wei-shaw-sub2api|sub2api]] — Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，...
 - [[whiskeysockets-baileys|Baileys]] — Socket-based TS/JavaScript API for WhatsApp Web

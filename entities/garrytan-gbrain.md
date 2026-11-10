@@ -34,7 +34,7 @@ Garry's Opinionated OpenClaw/Hermes Agent Brain
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]] [[milind-soni-openmausbot]]
+[[mattpocock-skills]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[anthropics-skills]] [[meta-astryx]]
 
 **所属领域**: [[ai-agent]]
 

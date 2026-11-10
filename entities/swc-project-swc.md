@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[astral-sh-ruff]] [[tailwindlabs-tailwindcss]] [[ruvnet-ruview]] [[react-react]] [[angular-angular]]
+[[tokio-rs-topcoat]] [[vercel-labs-agent-browser]] [[ruvnet-ruview]] [[zed-industries-zed]] [[tailwindlabs-tailwindcss]]
 
 **所属领域**: [[web]]
 

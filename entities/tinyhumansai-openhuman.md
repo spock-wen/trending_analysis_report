@@ -38,7 +38,7 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[k-dense-ai-scientific-agent-skills]] [[astral-sh-ruff]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]]
+[[paperclipai-paperclip]] [[mattpocock-skills]] [[tokio-rs-topcoat]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

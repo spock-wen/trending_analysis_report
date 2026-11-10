@@ -36,7 +36,7 @@ OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[mpv-player-mpv]] [[nushell-nushell]] [[jiafeimiao-k-cat-discimagestudio]] [[zhulinsen-daily_stock_analysis]]
+[[scenario-labs-skills]] [[mattpocock-skills]] [[anthropics-claude-quickstarts]] [[nushell-nushell]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[image-gen]]
 

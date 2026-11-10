@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[bwya77-vscode-dark-islands]] [[nushell-nushell]] [[mattpocock-skills]] [[conardli-garden-skills]]
+[[scenario-labs-skills]] [[mattpocock-skills]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

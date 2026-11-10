@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[mpv-player-mpv]] [[beenuar-aisoc]] [[nushell-nushell]] [[mattpocock-skills]]
+[[microsoft-bitnet]] [[mattpocock-skills]] [[nvidia-skillspector]] [[affaan-m-ecc]] [[nushell-nushell]]
 
 **所属领域**: [[cli]] [[security]]
 

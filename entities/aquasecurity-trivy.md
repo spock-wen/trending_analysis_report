@@ -38,7 +38,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[strelov1-freehire]] [[beenuar-aisoc]] [[dsx-ai-factory-nvke]] [[zhulinsen-daily_stock_analysis]] [[etcd-io-etcd]]
+[[dsx-ai-factory-nvke]] [[mattpocock-skills]] [[nvidia-skillspector]] [[affaan-m-ecc]] [[prometheus-prometheus]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

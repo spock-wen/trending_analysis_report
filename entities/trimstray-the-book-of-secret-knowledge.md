@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[nushell-nushell]] [[mattpocock-skills]] [[tailwindlabs-tailwindcss]] [[react-react]]
+[[mattpocock-skills]] [[tokio-rs-topcoat]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[tailwindlabs-tailwindcss]]
 
 **所属领域**: [[web]] [[cli]]
 

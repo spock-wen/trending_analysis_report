@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[sherlock-project-sherlock]] [[k-dense-ai-scientific-agent-skills]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]]
+[[paperclipai-paperclip]] [[mattpocock-skills]] [[tokio-rs-topcoat]] [[anthropics-claude-quickstarts]] [[tailwindlabs-tailwindcss]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

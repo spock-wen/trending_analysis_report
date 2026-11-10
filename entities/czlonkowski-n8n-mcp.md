@@ -37,7 +37,7 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[garrytan-gbrain]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]]
+[[mattpocock-skills]] [[garrytan-gbrain]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

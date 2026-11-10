@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[zhulinsen-daily_stock_analysis]] [[michaelcade-90daysofdevops]]
+[[lyogavin-airllm]] [[mattpocock-skills]] [[xiaolai-the-craft-of-selfteaching]] [[patchy631-ai-engineering-hub]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[ranxianglei-billion-context]] [[mpv-player-mpv]] [[nushell-nushell]] [[garrytan-gbrain]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[tokio-rs-topcoat]] [[nushell-nushell]] [[garrytan-gbrain]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[web]] [[cli]]
 

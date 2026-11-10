@@ -35,7 +35,7 @@ Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## 相关项目
 
-[[strelov1-freehire]] [[dsx-ai-factory-nvke]] [[etcd-io-etcd]] [[tailwindlabs-tailwindcss]] [[react-react]]
+[[dsx-ai-factory-nvke]] [[tokio-rs-topcoat]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]] [[etcd-io-etcd]]
 
 **所属领域**: [[web]]
 

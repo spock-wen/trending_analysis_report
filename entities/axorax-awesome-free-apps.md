@@ -36,5 +36,5 @@ Curated list of the best free apps for PC and mobile
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[conardli-garden-skills]] [[orkas-ai-orkas]] [[react-react]]
+[[cloudflare-security-audit-skill]] [[react-react]] [[conardli-garden-skills]] [[addyosmani-agent-skills]]
 

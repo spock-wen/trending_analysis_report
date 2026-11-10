@@ -38,7 +38,7 @@ Give your agent CAD superpowers.
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]] [[obra-superpowers]]
+[[php-php-src]] [[mattpocock-skills]] [[hugohe3-ppt-master]] [[anthropics-claude-quickstarts]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

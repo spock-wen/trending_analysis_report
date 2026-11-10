@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[sherlock-project-sherlock]] [[k-dense-ai-scientific-agent-skills]] [[zhulinsen-daily_stock_analysis]] [[etcd-io-etcd]]
+[[paperclipai-paperclip]] [[affaan-m-ecc]] [[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[data]] [[science]]
 

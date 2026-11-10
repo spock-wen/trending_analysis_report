@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[sherlock-project-sherlock]] [[mpv-player-mpv]] [[k-dense-ai-scientific-agent-skills]] [[nushell-nushell]]
+[[php-php-src]] [[paperclipai-paperclip]] [[mattpocock-skills]] [[hugohe3-ppt-master]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

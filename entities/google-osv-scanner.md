@@ -34,7 +34,7 @@ Vulnerability scanner written in Go which uses the data provided by https://osv.
 
 ## 相关项目
 
-[[strelov1-freehire]] [[dsx-ai-factory-nvke]] [[zhulinsen-daily_stock_analysis]] [[etcd-io-etcd]] [[tailwindlabs-tailwindcss]]
+[[dsx-ai-factory-nvke]] [[tokio-rs-topcoat]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[web]] [[data]]
 

@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[k-dense-ai-scientific-agent-skills]] [[astral-sh-ruff]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]]
+[[paperclipai-paperclip]] [[mattpocock-skills]] [[tokio-rs-topcoat]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

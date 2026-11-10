@@ -36,7 +36,7 @@ AI turns documents or topics into real, native PowerPoint decks—with native sh
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[zhulinsen-daily_stock_analysis]] [[anomalyco-hex]] [[meta-astryx]] [[etcd-io-etcd]]
+[[php-php-src]] [[scenario-labs-skills]] [[mattpocock-skills]] [[cjpais-handy]] [[anthropics-claude-quickstarts]]
 
 **所属领域**: [[ai-agent]] [[data]] [[erp]] [[audio]]
 

@@ -34,7 +34,7 @@ An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that 
 
 ## 相关项目
 
-[[symfony-symfony]] [[mpv-player-mpv]] [[nushell-nushell]] [[jiafeimiao-k-cat-discimagestudio]] [[zhulinsen-daily_stock_analysis]]
+[[scenario-labs-skills]] [[mattpocock-skills]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[nushell-nushell]]
 
 **所属领域**: [[cli]] [[data]] [[devops]] [[image-gen]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[mpv-player-mpv]] [[beenuar-aisoc]] [[nushell-nushell]] [[zhulinsen-daily_stock_analysis]]
+[[mattpocock-skills]] [[nvidia-skillspector]] [[affaan-m-ecc]] [[anthropics-claude-quickstarts]] [[nushell-nushell]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

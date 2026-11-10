@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[strelov1-freehire]] [[mpv-player-mpv]] [[dsx-ai-factory-nvke]] [[nushell-nushell]] [[zhulinsen-daily_stock_analysis]]
+[[dsx-ai-factory-nvke]] [[mattpocock-skills]] [[prometheus-prometheus]] [[nushell-nushell]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

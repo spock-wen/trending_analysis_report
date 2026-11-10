@@ -35,5 +35,5 @@ bluetooth mesh chat, IRC vibes
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[vorssaint-vorssaint-utils]] [[abue-ammar-tinycast]] [[xtool-org-xtool]]
+[[abue-ammar-tinycast]] [[vorssaint-vorssaint-utils]] [[xtool-org-xtool]] [[manaflow-ai-cmux]]
 

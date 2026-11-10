@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[garrytan-gbrain]] [[michaelcade-90daysofdevops]] [[meta-astryx]]
+[[xiaolai-the-craft-of-selfteaching]] [[patchy631-ai-engineering-hub]] [[garrytan-gbrain]] [[thu-maic-openmaic]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[education]]
 

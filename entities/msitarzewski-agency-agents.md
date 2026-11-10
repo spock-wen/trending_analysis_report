@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[nushell-nushell]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]] [[zhulinsen-daily_stock_analysis]]
+[[mattpocock-skills]] [[tokio-rs-topcoat]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

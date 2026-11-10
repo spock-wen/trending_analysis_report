@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[tailwindlabs-tailwindcss]] [[etcd-io-etcd]]
+[[mattpocock-skills]] [[tokio-rs-topcoat]] [[anthropics-claude-quickstarts]] [[tailwindlabs-tailwindcss]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

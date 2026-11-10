@@ -38,7 +38,7 @@ Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for fre
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[mpv-player-mpv]] [[nushell-nushell]] [[zhulinsen-daily_stock_analysis]] [[mattpocock-skills]]
+[[scenario-labs-skills]] [[mattpocock-skills]] [[cjpais-handy]] [[tokio-rs-topcoat]] [[anthropics-claude-quickstarts]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]] [[audio]]
 

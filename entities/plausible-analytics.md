@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[beenuar-aisoc]] [[zhulinsen-daily_stock_analysis]] [[etcd-io-etcd]] [[tailwindlabs-tailwindcss]] [[nvidia-skillspector]]
+[[agentjido-jido]] [[nvidia-skillspector]] [[tokio-rs-topcoat]] [[prometheus-prometheus]] [[affaan-m-ecc]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

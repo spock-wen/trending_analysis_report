@@ -34,7 +34,7 @@ A living pixel-art station where real AI agents do real work. Local-first deskto
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]] [[react-react]] [[conardli-garden-skills]]
+[[mattpocock-skills]] [[vercel-labs-agent-browser]] [[conardli-garden-skills]] [[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]]
 

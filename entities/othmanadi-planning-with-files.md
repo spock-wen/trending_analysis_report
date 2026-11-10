@@ -34,7 +34,7 @@ Persistent file-based planning for AI coding agents and long-running agentic tas
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[mpv-player-mpv]] [[nushell-nushell]] [[zhulinsen-daily_stock_analysis]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[anthropics-claude-quickstarts]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[homeassistant-ai-ha-mcp]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

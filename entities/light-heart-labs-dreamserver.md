@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[jiafeimiao-k-cat-discimagestudio]] [[zhulinsen-daily_stock_analysis]] [[anomalyco-hex]] [[meta-astryx]]
+[[scenario-labs-skills]] [[mattpocock-skills]] [[cjpais-handy]] [[anthropics-claude-quickstarts]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

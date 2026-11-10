@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[ranxianglei-billion-context]] [[garrytan-gbrain]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[tailwindlabs-tailwindcss]]
+[[tokio-rs-topcoat]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[garrytan-gbrain]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[web]] [[data]]
 

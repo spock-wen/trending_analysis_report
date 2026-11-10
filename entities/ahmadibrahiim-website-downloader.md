@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[tailwindlabs-tailwindcss]] [[averygan-reclip]] [[react-react]] [[alchaincyf-huashu-design]] [[angular-angular]]
+[[scenario-labs-skills]] [[tokio-rs-topcoat]] [[averygan-reclip]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[web]] [[image-gen]]
 

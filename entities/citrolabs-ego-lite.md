@@ -38,7 +38,7 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[tailwindlabs-tailwindcss]] [[anthropics-skills]] [[react-react]]
+[[mattpocock-skills]] [[tokio-rs-topcoat]] [[vercel-labs-agent-browser]] [[conardli-garden-skills]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

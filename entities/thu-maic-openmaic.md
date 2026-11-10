@@ -38,7 +38,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[xiaolai-the-craft-of-selfteaching]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[garrytan-gbrain]]
+[[mattpocock-skills]] [[xiaolai-the-craft-of-selfteaching]] [[nushell-nushell]] [[garrytan-gbrain]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

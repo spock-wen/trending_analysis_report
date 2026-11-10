@@ -34,7 +34,7 @@ In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[zhulinsen-daily_stock_analysis]] [[michaelcade-90daysofdevops]]
+[[lyogavin-airllm]] [[mattpocock-skills]] [[xiaolai-the-craft-of-selfteaching]] [[vercel-labs-agent-browser]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

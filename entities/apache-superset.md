@@ -35,7 +35,7 @@ Apache Superset is a Data Visualization and Data Exploration Platform
 
 ## 相关项目
 
-[[garrytan-gbrain]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[etcd-io-etcd]] [[nvidia-auto-ontology]]
+[[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[garrytan-gbrain]] [[nvidia-auto-ontology]] [[etcd-io-etcd]]
 
 **所属领域**: [[data]]
 

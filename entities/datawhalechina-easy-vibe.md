@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[zhulinsen-daily_stock_analysis]] [[michaelcade-90daysofdevops]] [[etcd-io-etcd]]
+[[xiaolai-the-craft-of-selfteaching]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[patchy631-ai-engineering-hub]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[data]] [[education]]
 

@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[garrytan-gbrain]] [[meta-astryx]] [[obra-superpowers]] [[agricidaniel-claude-seo]] [[php-php-src]]
+[[php-php-src]] [[hugohe3-ppt-master]] [[garrytan-gbrain]] [[agricidaniel-claude-seo]] [[meta-astryx]]
 
 **所属领域**: [[erp]]
 

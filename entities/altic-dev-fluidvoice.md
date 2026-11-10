@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[zhulinsen-daily_stock_analysis]] [[anomalyco-hex]] [[meta-astryx]] [[tailwindlabs-tailwindcss]]
+[[scenario-labs-skills]] [[vorssaint-vorssaint-utils]] [[mattpocock-skills]] [[cjpais-handy]] [[abue-ammar-tinycast]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

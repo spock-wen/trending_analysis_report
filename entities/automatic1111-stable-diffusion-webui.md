@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[jiafeimiao-k-cat-discimagestudio]] [[zhulinsen-daily_stock_analysis]] [[tailwindlabs-tailwindcss]] [[anthropics-skills]]
+[[scenario-labs-skills]] [[tokio-rs-topcoat]] [[anthropics-claude-quickstarts]] [[tailwindlabs-tailwindcss]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[web]] [[image-gen]]
 

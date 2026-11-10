@@ -38,7 +38,7 @@ Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[garrytan-gbrain]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]]
+[[mattpocock-skills]] [[garrytan-gbrain]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]]
 

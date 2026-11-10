@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[nushell-nushell]] [[mattpocock-skills]] [[tailwindlabs-tailwindcss]] [[react-react]]
+[[mattpocock-skills]] [[tokio-rs-topcoat]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[cli]]
 

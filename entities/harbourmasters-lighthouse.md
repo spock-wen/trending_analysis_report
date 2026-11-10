@@ -34,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[lz4-lz4]] [[mpv-player-mpv]] [[openssl-openssl]] [[fareedkhan-dev-kimi-k3-in-c]]
+[[fareedkhan-dev-kimi-k3-in-c]] [[lz4-lz4]] [[openssl-openssl]] [[mpv-player-mpv]]
 

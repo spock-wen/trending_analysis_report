@@ -34,7 +34,7 @@ AutoClip : AI-powered video clipping and highlight generation · 一款智能高
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[mpv-player-mpv]] [[nushell-nushell]] [[jiafeimiao-k-cat-discimagestudio]] [[zhulinsen-daily_stock_analysis]]
+[[scenario-labs-skills]] [[mattpocock-skills]] [[anthropics-claude-quickstarts]] [[nushell-nushell]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[image-gen]]
 

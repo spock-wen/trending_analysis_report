@@ -37,7 +37,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[jiafeimiao-k-cat-discimagestudio]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[etcd-io-etcd]]
+[[scenario-labs-skills]] [[mattpocock-skills]] [[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

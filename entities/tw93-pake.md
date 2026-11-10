@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[nushell-nushell]] [[astral-sh-ruff]] [[mattpocock-skills]] [[tailwindlabs-tailwindcss]]
+[[mattpocock-skills]] [[tokio-rs-topcoat]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[ruvnet-ruview]]
 
 **所属领域**: [[web]] [[cli]]
 

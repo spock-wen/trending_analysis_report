@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[nushell-nushell]] [[astral-sh-ruff]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]]
+[[mattpocock-skills]] [[tokio-rs-topcoat]] [[prometheus-prometheus]] [[nushell-nushell]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

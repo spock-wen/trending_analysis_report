@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[sherlock-project-sherlock]] [[beenuar-aisoc]] [[k-dense-ai-scientific-agent-skills]] [[zhulinsen-daily_stock_analysis]]
+[[paperclipai-paperclip]] [[mattpocock-skills]] [[nvidia-skillspector]] [[affaan-m-ecc]] [[anthropics-claude-quickstarts]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

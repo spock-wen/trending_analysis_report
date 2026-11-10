@@ -36,7 +36,7 @@ An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[sherlock-project-sherlock]] [[k-dense-ai-scientific-agent-skills]] [[zhulinsen-daily_stock_analysis]] [[anthropics-skills]]
+[[paperclipai-paperclip]] [[affaan-m-ecc]] [[anthropics-claude-quickstarts]] [[homeassistant-ai-ha-mcp]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[science]]
 

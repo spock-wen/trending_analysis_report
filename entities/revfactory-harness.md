@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[tailwindlabs-tailwindcss]] [[averygan-reclip]] [[anthropics-skills]]
+[[mattpocock-skills]] [[averygan-reclip]] [[tokio-rs-topcoat]] [[vercel-labs-agent-browser]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

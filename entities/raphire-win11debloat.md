@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[bwya77-vscode-dark-islands]] [[nushell-nushell]] [[actions-runner-images]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[zhaoxuya520-reverse-skill]] [[bwya77-vscode-dark-islands]]
 
 **所属领域**: [[cli]]
 

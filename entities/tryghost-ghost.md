@@ -35,5 +35,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[conardli-garden-skills]] [[orkas-ai-orkas]] [[react-react]]
+[[cloudflare-security-audit-skill]] [[react-react]] [[conardli-garden-skills]] [[addyosmani-agent-skills]]
 

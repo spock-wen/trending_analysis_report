@@ -35,7 +35,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[chen08209-flclash]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]] [[flutter-flutter]]
+[[mattpocock-skills]] [[vercel-labs-agent-browser]] [[flutter-flutter]] [[flutter-skills]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

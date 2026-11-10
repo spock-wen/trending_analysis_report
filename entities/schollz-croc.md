@@ -35,5 +35,5 @@ Easily and securely send things from one computer to another 🐊 📦
 
 ## 相关项目
 
-[[strelov1-freehire]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[dsx-ai-factory-nvke]]
+[[dsx-ai-factory-nvke]] [[etcd-io-etcd]] [[strelov1-freehire]] [[prometheus-prometheus]]
 

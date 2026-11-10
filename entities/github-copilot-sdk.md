@@ -38,7 +38,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[floci-io-floci]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]] [[checkstyle-checkstyle]]
+[[mattpocock-skills]] [[checkstyle-checkstyle]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[yuliskov-smarttube]]
 
 **所属领域**: [[ai-agent]]
 

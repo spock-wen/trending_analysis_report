@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[embabel-embabel-agent]] [[mahlernim-google-timeline-visualizer]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]]
+[[mattpocock-skills]] [[mahlernim-google-timeline-visualizer]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[bannedbook-fanqiang]]
 
 **所属领域**: [[ai-agent]]
 

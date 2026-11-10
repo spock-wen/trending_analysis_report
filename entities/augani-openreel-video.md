@@ -34,7 +34,7 @@ OpenReel Video - Professional browser-based video editor. Open source CapCut alt
 
 ## 相关项目
 
-[[ranxianglei-billion-context]] [[garrytan-gbrain]] [[meta-astryx]] [[tailwindlabs-tailwindcss]] [[react-react]]
+[[tokio-rs-topcoat]] [[garrytan-gbrain]] [[vercel-labs-agent-browser]] [[tailwindlabs-tailwindcss]] [[meta-astryx]]
 
 **所属领域**: [[web]]
 

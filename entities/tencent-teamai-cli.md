@@ -35,7 +35,7 @@ Make Every Team AI Native
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[garrytan-gbrain]] [[zhulinsen-daily_stock_analysis]]
+[[mattpocock-skills]] [[nushell-nushell]] [[garrytan-gbrain]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

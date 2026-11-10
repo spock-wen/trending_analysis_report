@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[zhulinsen-daily_stock_analysis]] [[michaelcade-90daysofdevops]]
+[[scenario-labs-skills]] [[mattpocock-skills]] [[cjpais-handy]] [[xiaolai-the-craft-of-selfteaching]] [[anthropics-claude-quickstarts]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

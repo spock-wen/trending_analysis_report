@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[jiafeimiao-k-cat-discimagestudio]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]]
+[[scenario-labs-skills]] [[mattpocock-skills]] [[anthropics-claude-quickstarts]] [[vercel-labs-agent-browser]] [[homeassistant-ai-ha-mcp]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[lz4-lz4]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[etcd-io-etcd]]
+[[mattpocock-skills]] [[openssl-openssl]] [[fareedkhan-dev-kimi-k3-in-c]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

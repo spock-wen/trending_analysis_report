@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[strelov1-freehire]] [[dsx-ai-factory-nvke]] [[etcd-io-etcd]] [[tailwindlabs-tailwindcss]] [[react-react]]
+[[dsx-ai-factory-nvke]] [[tokio-rs-topcoat]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]] [[etcd-io-etcd]]
 
 **所属领域**: [[web]]
 

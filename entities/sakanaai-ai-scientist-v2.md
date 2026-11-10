@@ -35,7 +35,7 @@ The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[sherlock-project-sherlock]] [[k-dense-ai-scientific-agent-skills]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]]
+[[php-php-src]] [[paperclipai-paperclip]] [[mattpocock-skills]] [[hugohe3-ppt-master]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

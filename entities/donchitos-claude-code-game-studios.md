@@ -38,7 +38,7 @@ Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skill
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[nushell-nushell]] [[zhulinsen-daily_stock_analysis]] [[michaelcade-90daysofdevops]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[michaelcade-90daysofdevops]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

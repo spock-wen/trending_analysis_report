@@ -38,7 +38,7 @@ Give Claude the ability to watch any video. /watch downloads, extracts frames, t
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[anthropics-skills]] [[anthropics-claude-quickstarts]]
+[[mattpocock-skills]] [[anthropics-claude-quickstarts]] [[vercel-labs-agent-browser]] [[homeassistant-ai-ha-mcp]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

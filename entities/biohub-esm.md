@@ -34,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[higgsfield-ai-higgsfield]] [[lyogavin-airllm]] [[xiaolai-the-craft-of-selfteaching]] [[patchy631-ai-engineering-hub]]
+[[patchy631-ai-engineering-hub]] [[lyogavin-airllm]] [[xiaolai-the-craft-of-selfteaching]] [[higgsfield-ai-higgsfield]]
 

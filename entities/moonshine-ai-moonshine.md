@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[zhulinsen-daily_stock_analysis]] [[anomalyco-hex]] [[meta-astryx]] [[cjpais-handy]]
+[[scenario-labs-skills]] [[microsoft-bitnet]] [[mattpocock-skills]] [[cjpais-handy]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

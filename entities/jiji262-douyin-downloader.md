@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[sherlock-project-sherlock]] [[zhulinsen-daily_stock_analysis]] [[etcd-io-etcd]] [[tailwindlabs-tailwindcss]] [[anthropics-skills]]
+[[tokio-rs-topcoat]] [[anthropics-claude-quickstarts]] [[tailwindlabs-tailwindcss]] [[zhulinsen-daily_stock_analysis]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[web]] [[data]]
 

@@ -34,5 +34,5 @@ Godot Engine – Multi-platform 2D and 3D game engine
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[hyprwm-hyprland]] [[google-deepmind-mujoco]] [[microsoft-bitnet]]
+[[boykopovar-anyps5]] [[microsoft-bitnet]] [[hyprwm-hyprland]] [[google-deepmind-mujoco]]
 

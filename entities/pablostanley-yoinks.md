@@ -35,7 +35,7 @@ yoink any video from your terminal. no shady ads.
 
 ## 相关项目
 
-[[ranxianglei-billion-context]] [[mpv-player-mpv]] [[nushell-nushell]] [[garrytan-gbrain]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[nushell-nushell]] [[garrytan-gbrain]] [[vercel-labs-agent-browser]] [[meta-astryx]]
 
 **所属领域**: [[cli]]
 

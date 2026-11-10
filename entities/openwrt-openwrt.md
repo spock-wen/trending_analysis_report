@@ -34,7 +34,7 @@ This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[lz4-lz4]] [[tailwindlabs-tailwindcss]] [[fareedkhan-dev-kimi-k3-in-c]] [[react-react]]
+[[openssl-openssl]] [[tokio-rs-topcoat]] [[fareedkhan-dev-kimi-k3-in-c]] [[vercel-labs-agent-browser]] [[lz4-lz4]]
 
 **所属领域**: [[web]]
 

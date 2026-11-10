@@ -36,7 +36,7 @@ Warp is an agentic development environment, born out of the terminal.
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[nushell-nushell]] [[astral-sh-ruff]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]]
+[[mattpocock-skills]] [[tokio-rs-topcoat]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -34,7 +34,7 @@ Distributed reliable key-value store for the most critical data of a distributed
 
 ## 相关项目
 
-[[strelov1-freehire]] [[dsx-ai-factory-nvke]] [[zhulinsen-daily_stock_analysis]] [[nvidia-auto-ontology]] [[prometheus-prometheus]]
+[[dsx-ai-factory-nvke]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[nvidia-auto-ontology]] [[strelov1-freehire]]
 
 **所属领域**: [[data]]
 

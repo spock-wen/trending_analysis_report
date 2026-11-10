@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[nushell-nushell]] [[lz4-lz4]] [[zhulinsen-daily_stock_analysis]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[openssl-openssl]] [[fareedkhan-dev-kimi-k3-in-c]] [[nushell-nushell]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

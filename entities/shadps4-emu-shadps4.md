@@ -34,5 +34,5 @@ PlayStation 4 emulator for Windows, Linux and macOS written in C++
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[hyprwm-hyprland]] [[google-deepmind-mujoco]] [[microsoft-bitnet]]
+[[boykopovar-anyps5]] [[microsoft-bitnet]] [[hyprwm-hyprland]] [[google-deepmind-mujoco]]
 

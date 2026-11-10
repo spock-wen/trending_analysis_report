@@ -38,7 +38,7 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[nushell-nushell]] [[astral-sh-ruff]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]]
+[[mattpocock-skills]] [[tokio-rs-topcoat]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

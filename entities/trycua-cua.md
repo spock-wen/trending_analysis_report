@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[astral-sh-ruff]] [[zhulinsen-daily_stock_analysis]] [[meta-astryx]] [[ruvnet-ruview]] [[etcd-io-etcd]]
+[[scenario-labs-skills]] [[mattpocock-skills]] [[tokio-rs-topcoat]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

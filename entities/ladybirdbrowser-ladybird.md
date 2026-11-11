@@ -36,7 +36,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[tokio-rs-topcoat]] [[tailwindlabs-tailwindcss]] [[vercel-labs-agent-browser]] [[google-deepmind-mujoco]]
+[[tokio-rs-topcoat]] [[google-deepmind-mujoco]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[boykopovar-anyps5]]
 
 **所属领域**: [[web]]
 

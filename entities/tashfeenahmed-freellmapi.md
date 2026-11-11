@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[nvidia-skillspector]] [[affaan-m-ecc]] [[garrytan-gbrain]] [[vercel-labs-agent-browser]]
+[[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

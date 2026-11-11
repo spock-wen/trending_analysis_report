@@ -38,7 +38,7 @@ Give your agent CAD superpowers.
 
 ## 相关项目
 
-[[php-php-src]] [[mattpocock-skills]] [[hugohe3-ppt-master]] [[anthropics-claude-quickstarts]] [[vercel-labs-agent-browser]]
+[[agricidaniel-claude-seo]] [[obra-superpowers]] [[php-php-src]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

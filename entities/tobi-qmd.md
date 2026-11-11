@@ -35,7 +35,7 @@ mini cli search engine for your docs, knowledge bases, meeting notes, whatever. 
 
 ## 相关项目
 
-[[mattpocock-skills]] [[nushell-nushell]] [[garrytan-gbrain]] [[vercel-labs-agent-browser]] [[meta-astryx]]
+[[mattpocock-skills]] [[mpv-player-mpv]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[meta-astryx]]
 
 **所属领域**: [[cli]]
 

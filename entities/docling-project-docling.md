@@ -34,7 +34,7 @@ Get your documents ready for gen AI
 
 ## 相关项目
 
-[[mattpocock-skills]] [[anthropics-claude-quickstarts]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[homeassistant-ai-ha-mcp]]
+[[mattpocock-skills]] [[mpv-player-mpv]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[meta-astryx]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

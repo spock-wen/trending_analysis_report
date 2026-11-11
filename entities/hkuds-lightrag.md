@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[scenario-labs-skills]] [[anthropics-claude-quickstarts]] [[homeassistant-ai-ha-mcp]] [[nvidia-auto-ontology]] [[conardli-garden-skills]]
+[[conardli-garden-skills]] [[nvidia-auto-ontology]] [[zhulinsen-daily_stock_analysis]] [[sherlock-project-sherlock]] [[anthropics-skills]]
 
 **所属领域**: [[image-gen]]
 

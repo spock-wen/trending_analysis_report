@@ -34,7 +34,7 @@ This repository started out as a learning in public project for myself and has n
 
 ## 相关项目
 
-[[mattpocock-skills]] [[xiaolai-the-craft-of-selfteaching]] [[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[nushell-nushell]]
+[[ruvnet-ruview]] [[obra-superpowers]] [[mattpocock-skills]] [[mpv-player-mpv]] [[prometheus-prometheus]]
 
 **所属领域**: [[cli]] [[devops]] [[education]]
 

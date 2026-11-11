@@ -35,7 +35,7 @@ Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and
 
 ## 相关项目
 
-[[mattpocock-skills]] [[tokio-rs-topcoat]] [[vercel-labs-agent-browser]] [[conardli-garden-skills]] [[addyosmani-agent-skills]]
+[[tokio-rs-topcoat]] [[cloudflare-security-audit-skill]] [[react-react]] [[conardli-garden-skills]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

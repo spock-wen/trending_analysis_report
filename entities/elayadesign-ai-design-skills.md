@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[anthropics-skills]] [[mattpocock-skills]] [[addyosmani-agent-skills]]
+[[meta-astryx]] [[vercel-labs-agent-browser]] [[zhulinsen-daily_stock_analysis]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

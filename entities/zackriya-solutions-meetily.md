@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[mattpocock-skills]] [[nvidia-skillspector]] [[tokio-rs-topcoat]] [[prometheus-prometheus]] [[affaan-m-ecc]]
+[[ruvnet-ruview]] [[tokio-rs-topcoat]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[googlechrome-modern-web-guidance-src]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

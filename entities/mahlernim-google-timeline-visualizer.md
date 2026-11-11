@@ -36,7 +36,7 @@ Visualize your year in travel using your Google Location History (Timeline) data
 
 ## 相关项目
 
-[[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[nvidia-auto-ontology]] [[android-skills]] [[etcd-io-etcd]]
+[[android-skills]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[embabel-embabel-agent]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[data]]
 

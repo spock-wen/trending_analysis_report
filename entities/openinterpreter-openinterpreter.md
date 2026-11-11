@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[php-php-src]] [[mattpocock-skills]] [[hugohe3-ppt-master]] [[tokio-rs-topcoat]] [[vercel-labs-agent-browser]]
+[[ruvnet-ruview]] [[tokio-rs-topcoat]] [[obra-superpowers]] [[agricidaniel-claude-seo]] [[php-php-src]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

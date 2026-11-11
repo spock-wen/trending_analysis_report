@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[php-php-src]] [[mattpocock-skills]] [[hugohe3-ppt-master]] [[nushell-nushell]] [[vercel-labs-agent-browser]]
+[[agricidaniel-claude-seo]] [[mattpocock-skills]] [[mpv-player-mpv]] [[php-php-src]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

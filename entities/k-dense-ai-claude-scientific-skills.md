@@ -35,7 +35,7 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[mattpocock-skills]] [[affaan-m-ecc]] [[anthropics-claude-quickstarts]] [[vercel-labs-agent-browser]]
+[[tauricresearch-tradingagents]] [[vercel-labs-agent-browser]] [[affaan-m-ecc]] [[addyosmani-agent-skills]] [[meta-astryx]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

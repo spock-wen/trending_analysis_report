@@ -34,7 +34,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[scenario-labs-skills]] [[nushell-nushell]] [[ruvnet-ruview]] [[addyosmani-agent-skills]] [[anthropics-skills]]
+[[meta-astryx]] [[k-dense-ai-scientific-agent-skills]] [[anthropics-claude-quickstarts]] [[homeassistant-ai-ha-mcp]] [[usagi-org-ai-goofish-monitor]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

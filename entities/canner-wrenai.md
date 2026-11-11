@@ -34,7 +34,7 @@ GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL throug
 
 ## 相关项目
 
-[[mattpocock-skills]] [[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[nushell-nushell]] [[vercel-labs-agent-browser]]
+[[mattpocock-skills]] [[etcd-io-etcd]] [[mpv-player-mpv]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

@@ -38,7 +38,7 @@ An autonomous agent for deep financial research
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[mattpocock-skills]] [[affaan-m-ecc]] [[k-dense-ai-scientific-agent-skills]] [[garrytan-gbrain]]
+[[tauricresearch-tradingagents]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[affaan-m-ecc]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

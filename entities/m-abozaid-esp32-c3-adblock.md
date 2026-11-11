@@ -34,7 +34,7 @@ Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[mattpocock-skills]] [[tokio-rs-topcoat]] [[tailwindlabs-tailwindcss]] [[vercel-labs-agent-browser]]
+[[tokio-rs-topcoat]] [[google-deepmind-mujoco]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

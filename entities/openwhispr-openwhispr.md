@@ -34,7 +34,7 @@ Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud model
 
 ## 相关项目
 
-[[scenario-labs-skills]] [[mattpocock-skills]] [[cjpais-handy]] [[nvidia-skillspector]] [[affaan-m-ecc]]
+[[anomalyco-hex]] [[microsoft-vibevoice]] [[cjpais-handy]] [[cloudflare-security-audit-skill]] [[react-react]]
 
 **所属领域**: [[ai-agent]] [[security]] [[audio]]
 

@@ -37,7 +37,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[mattpocock-skills]] [[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[garrytan-gbrain]] [[vercel-labs-agent-browser]]
+[[ruvnet-ruview]] [[prometheus-prometheus]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

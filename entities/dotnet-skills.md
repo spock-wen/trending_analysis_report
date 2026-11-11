@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[mattpocock-skills]] [[vercel-labs-agent-browser]] [[sonarr-sonarr]] [[addyosmani-agent-skills]] [[k1tbyte-wand-enhancer]]
+[[ntdevlabs-tiny11builder]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[sonarr-sonarr]] [[k1tbyte-wand-enhancer]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 
 ## 相关项目
 
-[[mattpocock-skills]] [[mahlernim-google-timeline-visualizer]] [[vercel-labs-agent-browser]] [[android-skills]] [[addyosmani-agent-skills]]
+[[android-skills]] [[embabel-embabel-agent]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[meta-astryx]]
 
 **所属领域**: [[ai-agent]]
 

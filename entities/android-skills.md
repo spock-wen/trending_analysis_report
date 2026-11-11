@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[mattpocock-skills]] [[mahlernim-google-timeline-visualizer]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[bannedbook-fanqiang]]
+[[embabel-embabel-agent]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[meta-astryx]] [[bannedbook-fanqiang]]
 
 **所属领域**: [[ai-agent]]
 

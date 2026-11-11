@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[scenario-labs-skills]] [[mattpocock-skills]] [[cjpais-handy]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]]
+[[anomalyco-hex]] [[microsoft-vibevoice]] [[cjpais-handy]] [[cloudflare-security-audit-skill]] [[react-react]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

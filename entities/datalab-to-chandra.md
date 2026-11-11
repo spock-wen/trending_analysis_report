@@ -36,7 +36,7 @@ OCR model that handles complex tables, forms, handwriting with full layout.
 
 ## 相关项目
 
-[[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[homeassistant-ai-ha-mcp]] [[nvidia-auto-ontology]]
+[[etcd-io-etcd]] [[prometheus-prometheus]] [[nvidia-auto-ontology]] [[zhulinsen-daily_stock_analysis]] [[sherlock-project-sherlock]]
 
 **所属领域**: [[data]]
 

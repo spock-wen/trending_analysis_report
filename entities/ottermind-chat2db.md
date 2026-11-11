@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[prometheus-prometheus]] [[nushell-nushell]] [[checkstyle-checkstyle]] [[vercel-labs-agent-browser]]
+[[thealgorithms-java]] [[floci-io-floci]] [[yuliskov-smarttube]] [[mattpocock-skills]] [[etcd-io-etcd]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

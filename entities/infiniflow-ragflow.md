@@ -36,7 +36,7 @@ RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine tha
 
 ## 相关项目
 
-[[scenario-labs-skills]] [[dsx-ai-factory-nvke]] [[mattpocock-skills]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]]
+[[jiafeimiao-k-cat-discimagestudio]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

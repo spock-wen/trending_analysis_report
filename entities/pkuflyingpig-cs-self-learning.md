@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[tokio-rs-topcoat]] [[averygan-reclip]] [[patchy631-ai-engineering-hub]] [[vercel-labs-agent-browser]]
+[[cathrynlavery-diagram-design]] [[tokio-rs-topcoat]] [[averygan-reclip]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[web]] [[education]]
 

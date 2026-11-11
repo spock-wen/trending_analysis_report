@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[affaan-m-ecc]] [[anthropics-claude-quickstarts]] [[homeassistant-ai-ha-mcp]] [[cloudflare-security-audit-skill]]
+[[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[beenuar-aisoc]] [[zhulinsen-daily_stock_analysis]] [[sherlock-project-sherlock]]
 
 **所属领域**: [[security]]
 

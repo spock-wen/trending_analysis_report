@@ -36,5 +36,5 @@ A context-compression plugin for month-long single sessions (billions of tokens)
 
 ## 相关项目
 
-[[garrytan-gbrain]] [[meta-astryx]] [[milind-soni-openmausbot]]
+[[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[meta-astryx]]
 

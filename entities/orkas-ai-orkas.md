@@ -34,7 +34,7 @@ Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander
 
 ## 相关项目
 
-[[mattpocock-skills]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[conardli-garden-skills]] [[addyosmani-agent-skills]]
+[[mattpocock-skills]] [[mpv-player-mpv]] [[cloudflare-security-audit-skill]] [[react-react]] [[conardli-garden-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

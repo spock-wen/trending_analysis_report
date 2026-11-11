@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[php-php-src]] [[paperclipai-paperclip]] [[mattpocock-skills]] [[hugohe3-ppt-master]] [[affaan-m-ecc]]
+[[agricidaniel-claude-seo]] [[mattpocock-skills]] [[obra-superpowers]] [[tauricresearch-tradingagents]] [[mpv-player-mpv]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

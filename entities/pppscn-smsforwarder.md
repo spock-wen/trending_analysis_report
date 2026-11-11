@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[mahlernim-google-timeline-visualizer]] [[vercel-labs-agent-browser]] [[android-skills]] [[bannedbook-fanqiang]]
+[[tokio-rs-topcoat]] [[android-skills]] [[embabel-embabel-agent]] [[vercel-labs-agent-browser]] [[googlechrome-modern-web-guidance-src]]
 
 **所属领域**: [[web]]
 

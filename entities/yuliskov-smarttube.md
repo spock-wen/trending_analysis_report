@@ -35,5 +35,5 @@ Browse media content with your own rules on Android TV
 
 ## 相关项目
 
-[[checkstyle-checkstyle]] [[floci-io-floci]] [[nationalsecurityagency-ghidra]]
+[[thealgorithms-java]] [[floci-io-floci]] [[nationalsecurityagency-ghidra]]
 

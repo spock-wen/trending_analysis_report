@@ -35,7 +35,7 @@ Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an 
 
 ## 相关项目
 
-[[dsx-ai-factory-nvke]] [[mattpocock-skills]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]] [[etcd-io-etcd]]
+[[etcd-io-etcd]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[meta-astryx]]
 
 **所属领域**: [[ai-agent]]
 

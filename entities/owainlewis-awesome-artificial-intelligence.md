@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[mattpocock-skills]] [[xiaolai-the-craft-of-selfteaching]] [[affaan-m-ecc]] [[patchy631-ai-engineering-hub]]
+[[tauricresearch-tradingagents]] [[vercel-labs-agent-browser]] [[michaelcade-90daysofdevops]] [[affaan-m-ecc]] [[meta-astryx]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

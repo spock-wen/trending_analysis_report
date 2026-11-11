@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[affaan-m-ecc]] [[checkstyle-checkstyle]] [[yuliskov-smarttube]] [[cloudflare-security-audit-skill]]
+[[thealgorithms-java]] [[floci-io-floci]] [[yuliskov-smarttube]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[garrytan-gbrain]] [[ruvnet-ruview]] [[usagi-org-ai-goofish-monitor]]
+[[ruvnet-ruview]] [[prometheus-prometheus]] [[googlechrome-modern-web-guidance-src]] [[meta-astryx]] [[openai-codex-security]]
 
 **所属领域**: [[devops]]
 

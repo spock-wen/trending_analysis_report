@@ -36,7 +36,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[scenario-labs-skills]] [[mattpocock-skills]] [[tokio-rs-topcoat]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]]
+[[tokio-rs-topcoat]] [[cloudflare-security-audit-skill]] [[vercel-labs-agent-browser]] [[react-react]] [[googlechrome-modern-web-guidance-src]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

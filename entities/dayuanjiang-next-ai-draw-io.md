@@ -34,7 +34,7 @@ A next.js web application that integrates AI capabilities with draw.io diagrams.
 
 ## 相关项目
 
-[[mattpocock-skills]] [[tokio-rs-topcoat]] [[nushell-nushell]] [[garrytan-gbrain]] [[vercel-labs-agent-browser]]
+[[tokio-rs-topcoat]] [[mattpocock-skills]] [[mpv-player-mpv]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[mattpocock-skills]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[raphire-win11debloat]] [[zhaoxuya520-reverse-skill]]
+[[raphire-win11debloat]] [[bwya77-vscode-dark-islands]] [[mattpocock-skills]] [[mpv-player-mpv]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

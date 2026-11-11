@@ -38,7 +38,7 @@ A self-improving RLM agent for coding workflows and long-running autonomous task
 
 ## 相关项目
 
-[[mattpocock-skills]] [[garrytan-gbrain]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[anthropics-skills]]
+[[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[meta-astryx]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[ai-agent]]
 

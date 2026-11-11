@@ -35,7 +35,7 @@ DeepEP: an efficient expert-parallel communication library
 
 ## 相关项目
 
-[[mattpocock-skills]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[deepseek-ai-deepgemm]] [[moonshotai-flashkda]]
+[[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[meta-astryx]] [[deepseek-ai-deepgemm]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[ai-agent]]
 

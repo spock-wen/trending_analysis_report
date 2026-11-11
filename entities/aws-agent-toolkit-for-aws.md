@@ -36,7 +36,7 @@ Official, AWS-supported MCP servers, skills, and plugins to help AI agents build
 
 ## 相关项目
 
-[[mattpocock-skills]] [[anthropics-claude-quickstarts]] [[vercel-labs-agent-browser]] [[homeassistant-ai-ha-mcp]] [[addyosmani-agent-skills]]
+[[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[meta-astryx]] [[zhulinsen-daily_stock_analysis]] [[sherlock-project-sherlock]]
 
 **所属领域**: [[ai-agent]]
 

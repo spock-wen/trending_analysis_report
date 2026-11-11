@@ -35,7 +35,7 @@ LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-p
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[mattpocock-skills]] [[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]]
+[[ruvnet-ruview]] [[google-deepmind-mujoco]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

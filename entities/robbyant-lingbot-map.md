@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[affaan-m-ecc]] [[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]]
+[[tauricresearch-tradingagents]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[affaan-m-ecc]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[data]] [[science]]
 

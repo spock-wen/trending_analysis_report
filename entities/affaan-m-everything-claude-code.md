@@ -34,7 +34,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[mattpocock-skills]] [[nvidia-skillspector]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]]
+[[tauricresearch-tradingagents]] [[cloudflare-security-audit-skill]] [[react-react]] [[conardli-garden-skills]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

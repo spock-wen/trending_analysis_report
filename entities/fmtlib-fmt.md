@@ -37,5 +37,5 @@ A modern formatting library
 
 ## 相关项目
 
-[[boykopovar-anyps5]] [[microsoft-bitnet]] [[hyprwm-hyprland]] [[google-deepmind-mujoco]]
+[[google-deepmind-mujoco]] [[microsoft-bitnet]] [[boykopovar-anyps5]] [[hyprwm-hyprland]]
 

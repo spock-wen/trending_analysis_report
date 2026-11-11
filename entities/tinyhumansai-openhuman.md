@@ -38,7 +38,7 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[mattpocock-skills]] [[tokio-rs-topcoat]] [[affaan-m-ecc]] [[vercel-labs-agent-browser]]
+[[ruvnet-ruview]] [[tokio-rs-topcoat]] [[tauricresearch-tradingagents]] [[vercel-labs-agent-browser]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

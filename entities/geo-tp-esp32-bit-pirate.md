@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[mattpocock-skills]] [[tokio-rs-topcoat]] [[tailwindlabs-tailwindcss]] [[nushell-nushell]]
+[[tokio-rs-topcoat]] [[mattpocock-skills]] [[google-deepmind-mujoco]] [[mpv-player-mpv]] [[googlechrome-modern-web-guidance-src]]
 
 **所属领域**: [[web]] [[cli]]
 

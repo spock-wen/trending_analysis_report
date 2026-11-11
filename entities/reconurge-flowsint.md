@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[nvidia-skillspector]] [[affaan-m-ecc]] [[garrytan-gbrain]] [[cloudflare-security-audit-skill]] [[meta-astryx]]
+[[googlechrome-modern-web-guidance-src]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[meta-astryx]] [[beenuar-aisoc]]
 
 **所属领域**: [[security]]
 

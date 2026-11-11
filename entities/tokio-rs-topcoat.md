@@ -35,7 +35,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[ruvnet-ruview]] [[zed-industries-zed]] [[tailwindlabs-tailwindcss]] [[angular-angular]]
+[[ruvnet-ruview]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[openai-codex-security]] [[zed-industries-zed]]
 
 **所属领域**: [[web]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[scenario-labs-skills]] [[tokio-rs-topcoat]] [[averygan-reclip]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]]
+[[cathrynlavery-diagram-design]] [[tokio-rs-topcoat]] [[averygan-reclip]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[web]] [[image-gen]]
 

@@ -36,7 +36,7 @@ Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 ## 相关项目
 
-[[vorssaint-vorssaint-utils]] [[mattpocock-skills]] [[abue-ammar-tinycast]] [[vercel-labs-agent-browser]] [[manaflow-ai-cmux]]
+[[vorssaint-vorssaint-utils]] [[manaflow-ai-cmux]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[meta-astryx]]
 
 **所属领域**: [[ai-agent]]
 

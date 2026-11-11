@@ -35,7 +35,7 @@ Get production-ready images, video, audio, and 3D from any AI agent: skills that
 
 ## 相关项目
 
-[[mattpocock-skills]] [[cjpais-handy]] [[anthropics-claude-quickstarts]] [[vercel-labs-agent-browser]] [[homeassistant-ai-ha-mcp]]
+[[anomalyco-hex]] [[microsoft-vibevoice]] [[cjpais-handy]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

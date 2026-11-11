@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[zhulinsen-daily_stock_analysis]] [[garrytan-gbrain]]
+[[ruvnet-ruview]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

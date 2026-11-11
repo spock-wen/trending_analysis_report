@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-11-11 | 总页面：892
+> 最后更新：2026-11-12 | 总页面：896
 
 ## Entities
 
@@ -20,7 +20,7 @@
 - [[actions-checkout|checkout]] — Action for checking out a repo
 - [[actions-runner-images|runner-images]] — GitHub Actions runner images
 - [[activeloopai-hivemind|hivemind]] — One brain for all your agents
-- [[addyosmani-agent-skills|agent-skills]] — Production-grade engineering skills for AI coding agents.
+- [[addyosmani-agent-skills|agent-skills]] — Production-grade engineering skills for AI coding agents. 🆕
 - [[affaan-m-ecc|ECC]] — The agent harness performance optimization system. Skills, i... 🆕
 - [[affaan-m-everything-claude-code|everything-claude-code]] — The agent harness performance optimization system. Skills, i...
 - [[agalwood-motrix|Motrix]] — A full-featured download manager. 🆕
@@ -327,6 +327,7 @@
 - [[google-osv-scanner|osv-scanner]] — Vulnerability scanner written in Go which uses the data prov...
 - [[google-research-timesfm|timesfm]] — TimesFM (Time Series Foundation Model) is a pretrained time-... 🔥
 - [[google-skills|skills]] — Agent Skills for Google products and technologies 🔥
+- [[googlechrome-modern-web-guidance-src|modern-web-guidance-src]] — No description 🆕
 - [[googlecloudplatform-generative-ai|generative-ai]] — Sample code and notebooks for Generative AI on Google Cloud,... 🆕
 - [[gorhill-ublock|uBlock]] — uBlock Origin - An efficient blocker for Chromium and Firefo...
 - [[gorvgoyl-clone-wars|Clone-Wars]] — 100+ open-source clones of popular sites like Airbnb, Amazon...
@@ -362,7 +363,7 @@
 - [[hmjz100-linkswift|LinkSwift]] — 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘...
 - [[holaboss-ai-holaos|holaOS]] — Open-source All in One AI agent workspace. Run any agent — C... 🆕
 - [[home-assistant-core|core]] — 🏡 Open source home automation that puts local control and pr... 🆕
-- [[homeassistant-ai-ha-mcp|ha-mcp]] — Configure and automate Home Assistant with Claude, ChatGPT, ... 🆕
+- [[homeassistant-ai-ha-mcp|ha-mcp]] — Configure and automate Home Assistant with Claude, ChatGPT, ... 🔥
 - [[homebrew-brewui|BrewUI]] — 📺 Homebrew's official macOS GUI
 - [[hsliuping-tradingagents-cn|TradingAgents-CN]] — 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 🔥
 - [[huangruiteng-loopx|loopx]] — Lightweight loop engineering state kernel for long-running A... 🆕
@@ -595,6 +596,7 @@
 - [[open-metadata-openmetadata|OpenMetadata]] — OpenMetadata is a unified metadata platform for data discove...
 - [[open-webui-open-webui|open-webui]] — User-friendly AI Interface (Supports Ollama, OpenAI API, ......
 - [[openai-codex-plugin-cc|codex-plugin-cc]] — Use Codex from Claude Code to review code or delegate tasks. 🔥
+- [[openai-codex-security|codex-security]] — OpenAI's Codex Security CLI and TypeScript SDK for finding, ... 🆕
 - [[openai-codex|codex]] — Lightweight coding agent that runs in your terminal 🆕
 - [[openai-openai-agents-python|openai-agents-python]] — A lightweight, powerful framework for multi-agent workflows 🆕
 - [[openai-plugins|plugins]] — OpenAI Plugins 🆕
@@ -709,6 +711,7 @@
 - [[schollz-croc|croc]] — Easily and securely send things from one computer to another... 🆕
 - [[semantica-agi-semantica|semantica]] — Graph-Native Infrastructure for Context and Accountable AI S... 🔥
 - [[sepinf-inc-iped|IPED]] — IPED Digital Forensic Tool. It is an open source software th...
+- [[shadcn-improve|improve]] — Use your most capable model to audit your codebase and write... 🆕
 - [[shadcn-ui-ui|ui]] — A set of beautifully-designed, accessible components and a c...
 - [[shadps4-emu-shadps4|shadPS4]] — PlayStation 4 emulator for Windows, Linux and macOS written ...
 - [[shanraisshan-claude-code-best-practice|claude-code-best-practice]] — from vibe coding to agentic engineering - practice makes cla...
@@ -775,6 +778,7 @@
 - [[tester-army-e2e|e2e]] — Next generation e2e testing framework for web and mobile app... 🔥
 - [[the-pr-agent-pr-agent|pr-agent]] — 🚀 PR Agent: The Original Open-Source PR Reviewer. This proje...
 - [[the-swarm-corporation-autohedge|AutoHedge]] — Build your autonomous hedge fund in minutes. AutoHedge harne... 🔥
+- [[thealgorithms-java|Java]] — All Algorithms implemented in Java 🆕
 - [[thecraighewitt-seomachine|seomachine]] — A specialized Claude Code workspace for creating long-form, ... 🔥
 - [[thedotmack-claude-mem|claude-mem]] — Persistent Context Across Sessions for Every Agent – Capture... 🔥
 - [[thu-maic-openmaic|OpenMAIC]] — Open Multi-Agent Interactive Classroom — Get an immersive, m...

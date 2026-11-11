@@ -36,7 +36,7 @@ The context API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[garrytan-gbrain]] [[vercel-labs-agent-browser]] [[tailwindlabs-tailwindcss]] [[meta-astryx]]
+[[tokio-rs-topcoat]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[meta-astryx]] [[openai-codex-security]]
 
 **所属领域**: [[web]]
 

@@ -38,5 +38,5 @@ Open-source Grok Bot alternative with a virtual machine that bots can use
 
 ## 相关项目
 
-[[garrytan-gbrain]] [[meta-astryx]] [[ranxianglei-billion-context]]
+[[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[ranxianglei-billion-context]] [[meta-astryx]]
 

@@ -35,7 +35,7 @@ GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k
 
 ## 相关项目
 
-[[mattpocock-skills]] [[tokio-rs-topcoat]] [[nushell-nushell]] [[garrytan-gbrain]] [[vercel-labs-agent-browser]]
+[[tokio-rs-topcoat]] [[mattpocock-skills]] [[mpv-player-mpv]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

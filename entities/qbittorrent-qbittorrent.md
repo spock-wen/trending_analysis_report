@@ -34,7 +34,7 @@ qBittorrent BitTorrent client
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[mattpocock-skills]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[google-deepmind-mujoco]]
+[[mattpocock-skills]] [[google-deepmind-mujoco]] [[mpv-player-mpv]] [[vercel-labs-agent-browser]] [[boykopovar-anyps5]]
 
 **所属领域**: [[cli]]
 

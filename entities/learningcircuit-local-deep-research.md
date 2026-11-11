@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[mattpocock-skills]] [[nvidia-skillspector]] [[affaan-m-ecc]] [[anthropics-claude-quickstarts]]
+[[patchy631-ai-engineering-hub]] [[tauricresearch-tradingagents]] [[cloudflare-security-audit-skill]] [[vercel-labs-agent-browser]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

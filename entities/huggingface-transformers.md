@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[scenario-labs-skills]] [[mattpocock-skills]] [[cjpais-handy]] [[xiaolai-the-craft-of-selfteaching]] [[anthropics-claude-quickstarts]]
+[[patchy631-ai-engineering-hub]] [[anomalyco-hex]] [[microsoft-vibevoice]] [[cjpais-handy]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[mattpocock-skills]] [[nvidia-skillspector]] [[affaan-m-ecc]] [[nushell-nushell]]
+[[raphire-win11debloat]] [[tauricresearch-tradingagents]] [[bwya77-vscode-dark-islands]] [[mattpocock-skills]] [[mpv-player-mpv]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

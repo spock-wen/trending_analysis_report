@@ -36,5 +36,5 @@ Visualize, collaborate, and evolve the software architecture with always actual 
 
 ## 相关项目
 
-[[garrytan-gbrain]] [[meta-astryx]] [[milind-soni-openmausbot]] [[ranxianglei-billion-context]]
+[[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[ranxianglei-billion-context]] [[meta-astryx]]
 

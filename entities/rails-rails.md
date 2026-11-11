@@ -34,7 +34,7 @@ Ruby on Rails
 
 ## 相关项目
 
-[[mattpocock-skills]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[chatwoot-chatwoot]] [[we-promise-sure]]
+[[docusealco-docuseal]] [[we-promise-sure]] [[chatwoot-chatwoot]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]]
 

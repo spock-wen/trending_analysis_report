@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[teslamate-org-teslamate]] [[plausible-analytics]]
+[[plausible-analytics]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[teslamate-org-teslamate]] [[meta-astryx]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[dsx-ai-factory-nvke]] [[nvidia-skillspector]] [[affaan-m-ecc]] [[anthropics-claude-quickstarts]] [[prometheus-prometheus]]
+[[ruvnet-ruview]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[cloudflare-security-audit-skill]] [[usagi-org-ai-goofish-monitor]]
 
 **所属领域**: [[devops]] [[security]]
 

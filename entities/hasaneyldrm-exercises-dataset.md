@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[averygan-reclip]] [[tokio-rs-topcoat]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]]
+[[cathrynlavery-diagram-design]] [[tokio-rs-topcoat]] [[averygan-reclip]] [[etcd-io-etcd]] [[prometheus-prometheus]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[mattpocock-skills]] [[tokio-rs-topcoat]] [[nushell-nushell]] [[vercel-labs-agent-browser]] [[ruvnet-ruview]]
+[[ruvnet-ruview]] [[tokio-rs-topcoat]] [[mattpocock-skills]] [[mpv-player-mpv]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[cli]]
 

@@ -37,7 +37,7 @@ No description
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[mattpocock-skills]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[google-deepmind-mujoco]]
+[[google-deepmind-mujoco]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[boykopovar-anyps5]] [[meta-astryx]]
 
 **所属领域**: [[ai-agent]]
 

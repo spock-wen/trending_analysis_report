@@ -35,5 +35,5 @@ Anki is a smart spaced repetition flashcard program
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[zed-industries-zed]] [[ruvnet-ruview]] [[tokio-rs-topcoat]]
+[[ruvnet-ruview]] [[tokio-rs-topcoat]] [[vercel-labs-agent-browser]] [[zed-industries-zed]]
 

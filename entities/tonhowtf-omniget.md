@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[scenario-labs-skills]] [[mattpocock-skills]] [[cjpais-handy]] [[xiaolai-the-craft-of-selfteaching]] [[tokio-rs-topcoat]]
+[[ruvnet-ruview]] [[tokio-rs-topcoat]] [[mattpocock-skills]] [[anomalyco-hex]] [[mpv-player-mpv]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

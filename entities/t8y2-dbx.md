@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[tokio-rs-topcoat]] [[prometheus-prometheus]] [[nushell-nushell]] [[vercel-labs-agent-browser]]
+[[ruvnet-ruview]] [[tokio-rs-topcoat]] [[mattpocock-skills]] [[etcd-io-etcd]] [[mpv-player-mpv]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

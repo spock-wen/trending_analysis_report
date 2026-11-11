@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[mattpocock-skills]] [[xiaolai-the-craft-of-selfteaching]] [[patchy631-ai-engineering-hub]] [[vercel-labs-agent-browser]]
+[[lyogavin-airllm]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[higgsfield-ai-higgsfield]] [[meta-astryx]]
 
 **所属领域**: [[ai-agent]]
 

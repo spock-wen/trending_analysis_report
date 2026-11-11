@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[anthropics-claude-quickstarts]] [[patchy631-ai-engineering-hub]] [[homeassistant-ai-ha-mcp]] [[thu-maic-openmaic]]
+[[patchy631-ai-engineering-hub]] [[michaelcade-90daysofdevops]] [[thu-maic-openmaic]] [[zhulinsen-daily_stock_analysis]] [[sherlock-project-sherlock]]
 
 **所属领域**: [[education]]
 

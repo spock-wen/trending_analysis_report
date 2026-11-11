@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[php-php-src]] [[hugohe3-ppt-master]] [[tokio-rs-topcoat]] [[vercel-labs-agent-browser]] [[nutlope-hallmark]]
+[[tokio-rs-topcoat]] [[obra-superpowers]] [[agricidaniel-claude-seo]] [[php-php-src]] [[googlechrome-modern-web-guidance-src]]
 
 **所属领域**: [[web]] [[erp]]
 

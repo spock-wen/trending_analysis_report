@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[scenario-labs-skills]] [[microsoft-bitnet]] [[mattpocock-skills]] [[cjpais-handy]] [[vercel-labs-agent-browser]]
+[[anomalyco-hex]] [[google-deepmind-mujoco]] [[microsoft-vibevoice]] [[cjpais-handy]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -38,7 +38,7 @@ A specialized Claude Code workspace for creating long-form, SEO-optimized blog c
 
 ## 相关项目
 
-[[php-php-src]] [[paperclipai-paperclip]] [[mattpocock-skills]] [[hugohe3-ppt-master]] [[affaan-m-ecc]]
+[[agricidaniel-claude-seo]] [[obra-superpowers]] [[tauricresearch-tradingagents]] [[php-php-src]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

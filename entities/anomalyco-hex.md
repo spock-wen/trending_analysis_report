@@ -35,7 +35,7 @@ Local voice dictation for mac, windows and linux
 
 ## 相关项目
 
-[[scenario-labs-skills]] [[cjpais-handy]] [[tokio-rs-topcoat]] [[vercel-labs-agent-browser]] [[ruvnet-ruview]]
+[[ruvnet-ruview]] [[tokio-rs-topcoat]] [[microsoft-vibevoice]] [[cjpais-handy]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[audio]]
 

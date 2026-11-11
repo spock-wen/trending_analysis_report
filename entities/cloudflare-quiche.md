@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[vercel-labs-agent-browser]] [[ruvnet-ruview]] [[zed-industries-zed]] [[tailwindlabs-tailwindcss]]
+[[ruvnet-ruview]] [[tokio-rs-topcoat]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[openai-codex-security]]
 
 **所属领域**: [[web]]
 

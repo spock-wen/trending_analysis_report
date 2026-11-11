@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[mattpocock-skills]] [[mahlernim-google-timeline-visualizer]] [[tokio-rs-topcoat]] [[vercel-labs-agent-browser]] [[android-skills]]
+[[tokio-rs-topcoat]] [[android-skills]] [[embabel-embabel-agent]] [[vercel-labs-agent-browser]] [[googlechrome-modern-web-guidance-src]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

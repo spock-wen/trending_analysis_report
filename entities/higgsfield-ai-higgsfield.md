@@ -35,7 +35,7 @@ Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[vercel-labs-agent-browser]] [[michaelcade-90daysofdevops]] [[addyosmani-agent-skills]] [[meta-astryx]]
+[[lyogavin-airllm]] [[xiaolai-the-craft-of-selfteaching]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

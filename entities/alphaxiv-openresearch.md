@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[tokio-rs-topcoat]] [[tauricresearch-tradingagents]] [[vercel-labs-agent-browser]] [[affaan-m-ecc]]
+[[zed-industries-zed]] [[addyosmani-agent-skills]] [[paperclipai-paperclip]] [[ruvnet-ruview]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

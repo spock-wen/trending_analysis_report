@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[docusealco-docuseal]] [[we-promise-sure]] [[rails-rails]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]]
+[[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[rails-rails]] [[we-promise-sure]]
 
 **所属领域**: [[ai-agent]]
 

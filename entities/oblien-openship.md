@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[prometheus-prometheus]] [[googlechrome-modern-web-guidance-src]] [[meta-astryx]] [[openai-codex-security]]
+[[openai-codex-security]] [[ruvnet-ruview]] [[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[meta-astryx]]
 
 **所属领域**: [[devops]]
 

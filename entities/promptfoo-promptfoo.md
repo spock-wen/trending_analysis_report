@@ -36,7 +36,7 @@ Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[mattpocock-skills]] [[mpv-player-mpv]] [[prometheus-prometheus]] [[googlechrome-modern-web-guidance-src]]
+[[qwenlm-qwen-code]] [[addyosmani-agent-skills]] [[nvm-sh-nvm]] [[openai-codex-security]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

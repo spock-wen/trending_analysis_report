@@ -35,7 +35,7 @@ An Open Source Machine Learning Framework for Everyone
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[google-deepmind-mujoco]] [[michaelcade-90daysofdevops]] [[boykopovar-anyps5]] [[thu-maic-openmaic]]
+[[xiaolai-the-craft-of-selfteaching]] [[thu-maic-openmaic]] [[ggml-org-llama.cpp]] [[google-deepmind-mujoco]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[education]]
 

@@ -34,7 +34,7 @@ A new type of shell
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[tokio-rs-topcoat]] [[mattpocock-skills]] [[mpv-player-mpv]] [[vercel-labs-agent-browser]]
+[[zed-industries-zed]] [[qwenlm-qwen-code]] [[nvm-sh-nvm]] [[openai-codex-security]] [[ruvnet-ruview]]
 
 **所属领域**: [[cli]]
 

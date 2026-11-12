@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[tokio-rs-topcoat]] [[mattpocock-skills]] [[anomalyco-hex]] [[mpv-player-mpv]]
+[[zed-industries-zed]] [[qwenlm-qwen-code]] [[xiaolai-the-craft-of-selfteaching]] [[thu-maic-openmaic]] [[scenario-labs-skills]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[mattpocock-skills]] [[obra-superpowers]] [[tauricresearch-tradingagents]] [[mpv-player-mpv]]
+[[qwenlm-qwen-code]] [[obra-superpowers]] [[anthropics-skills]] [[addyosmani-agent-skills]] [[homeassistant-ai-ha-mcp]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

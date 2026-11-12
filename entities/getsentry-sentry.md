@@ -36,7 +36,7 @@ Developer-first error tracking and performance monitoring
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[sherlock-project-sherlock]] [[anthropics-claude-quickstarts]]
+[[anthropics-skills]] [[homeassistant-ai-ha-mcp]] [[ruvnet-ruview]] [[anthropics-claude-quickstarts]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[devops]]
 

@@ -38,7 +38,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[thealgorithms-java]] [[floci-io-floci]] [[yuliskov-smarttube]] [[etcd-io-etcd]] [[prometheus-prometheus]]
+[[addyosmani-agent-skills]] [[zhulinsen-daily_stock_analysis]] [[ggml-org-llama.cpp]] [[prometheus-prometheus]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

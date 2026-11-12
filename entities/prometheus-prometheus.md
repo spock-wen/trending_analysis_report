@@ -35,7 +35,7 @@ The Prometheus monitoring system and time series database.
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[etcd-io-etcd]] [[usagi-org-ai-goofish-monitor]] [[nvidia-auto-ontology]] [[zhulinsen-daily_stock_analysis]]
+[[ruvnet-ruview]] [[anthropics-claude-quickstarts]] [[etcd-io-etcd]] [[dsx-ai-factory-nvke]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[data]] [[devops]]
 

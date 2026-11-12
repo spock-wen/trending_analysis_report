@@ -38,5 +38,5 @@ Tool for automatic PS5 executables porting to Linux and Windows
 
 ## 相关项目
 
-[[google-deepmind-mujoco]] [[microsoft-bitnet]] [[hyprwm-hyprland]]
+[[microsoft-bitnet]] [[google-deepmind-mujoco]] [[hyprwm-hyprland]] [[ggml-org-llama.cpp]]
 

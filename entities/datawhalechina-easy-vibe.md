@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[etcd-io-etcd]] [[prometheus-prometheus]] [[cloudflare-security-audit-skill]] [[react-react]] [[conardli-garden-skills]]
+[[xiaolai-the-craft-of-selfteaching]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[nodejs-node]] [[prometheus-prometheus]]
 
 **所属领域**: [[data]] [[education]]
 

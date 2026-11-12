@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[embabel-embabel-agent]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[meta-astryx]] [[bannedbook-fanqiang]]
+[[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[embabel-embabel-agent]] [[alishahryar1-free-claude-code]] [[mahlernim-google-timeline-visualizer]]
 
 **所属领域**: [[ai-agent]]
 

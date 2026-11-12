@@ -38,7 +38,7 @@ Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab
 
 ## 相关项目
 
-[[mattpocock-skills]] [[etcd-io-etcd]] [[mpv-player-mpv]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]]
+[[qwenlm-qwen-code]] [[anthropics-skills]] [[addyosmani-agent-skills]] [[homeassistant-ai-ha-mcp]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

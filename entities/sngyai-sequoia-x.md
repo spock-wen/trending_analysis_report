@@ -34,7 +34,7 @@ A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运�
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[meta-astryx]] [[zhulinsen-daily_stock_analysis]] [[sherlock-project-sherlock]]
+[[anthropics-skills]] [[addyosmani-agent-skills]] [[homeassistant-ai-ha-mcp]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

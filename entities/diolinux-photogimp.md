@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[obra-superpowers]] [[agricidaniel-claude-seo]] [[php-php-src]] [[googlechrome-modern-web-guidance-src]]
+[[obra-superpowers]] [[nutlope-hallmark]] [[openai-codex-security]] [[agricidaniel-claude-seo]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[web]] [[erp]]
 

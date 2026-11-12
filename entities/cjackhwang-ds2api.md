@@ -37,7 +37,7 @@ Deepseek to API: A lightweight, high-performance full-stack middleware convertin
 
 ## 相关项目
 
-[[mattpocock-skills]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[mpv-player-mpv]] [[vercel-labs-agent-browser]]
+[[qwenlm-qwen-code]] [[addyosmani-agent-skills]] [[nvm-sh-nvm]] [[openai-codex-security]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

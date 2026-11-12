@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[ruvnet-ruview]] [[prometheus-prometheus]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]]
+[[xiaolai-the-craft-of-selfteaching]] [[addyosmani-agent-skills]] [[patchy631-ai-engineering-hub]] [[thu-maic-openmaic]] [[openai-codex-security]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

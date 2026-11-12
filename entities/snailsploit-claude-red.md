@@ -38,7 +38,7 @@ claude-red is a curated library of offensive security skills designed for the Cl
 
 ## 相关项目
 
-[[mattpocock-skills]] [[etcd-io-etcd]] [[mpv-player-mpv]] [[prometheus-prometheus]] [[cloudflare-security-audit-skill]]
+[[qwenlm-qwen-code]] [[beenuar-aisoc]] [[anthropics-skills]] [[addyosmani-agent-skills]] [[homeassistant-ai-ha-mcp]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[security]]
 

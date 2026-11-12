@@ -37,7 +37,7 @@ A Claude Code plugin that shows what's happening - context usage, active tools, 
 
 ## 相关项目
 
-[[anomalyco-hex]] [[microsoft-vibevoice]] [[cjpais-handy]] [[cloudflare-security-audit-skill]] [[react-react]]
+[[addyosmani-agent-skills]] [[scenario-labs-skills]] [[ggml-org-llama.cpp]] [[nodejs-node]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

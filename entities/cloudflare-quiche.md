@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[tokio-rs-topcoat]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[openai-codex-security]]
+[[zed-industries-zed]] [[openai-codex-security]] [[ruvnet-ruview]] [[alishahryar1-free-claude-code]] [[tokio-rs-topcoat]]
 
 **所属领域**: [[web]]
 

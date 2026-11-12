@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[tokio-rs-topcoat]] [[prometheus-prometheus]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]]
+[[anthropics-skills]] [[addyosmani-agent-skills]] [[homeassistant-ai-ha-mcp]] [[openai-codex-security]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

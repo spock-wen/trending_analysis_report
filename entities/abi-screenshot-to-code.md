@@ -35,7 +35,7 @@ Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[meta-astryx]]
+[[anthropics-skills]] [[addyosmani-agent-skills]] [[homeassistant-ai-ha-mcp]] [[openai-codex-security]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

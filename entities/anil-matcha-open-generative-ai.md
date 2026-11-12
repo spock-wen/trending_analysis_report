@@ -37,7 +37,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[react-react]] [[conardli-garden-skills]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]]
+[[jiafeimiao-k-cat-discimagestudio]] [[addyosmani-agent-skills]] [[scenario-labs-skills]] [[ggml-org-llama.cpp]] [[nodejs-node]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

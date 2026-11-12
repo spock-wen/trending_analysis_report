@@ -38,5 +38,5 @@ A hierarchical inference engine for frontier MoE models: hot experts on the GPU 
 
 ## 相关项目
 
-[[openssl-openssl]] [[lz4-lz4]] [[fareedkhan-dev-kimi-k3-in-c]] [[mpv-player-mpv]]
+[[mpv-player-mpv]] [[lz4-lz4]] [[openssl-openssl]] [[fareedkhan-dev-kimi-k3-in-c]]
 

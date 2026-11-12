@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[vercel-labs-agent-browser]] [[michaelcade-90daysofdevops]] [[addyosmani-agent-skills]] [[higgsfield-ai-higgsfield]]
+[[lyogavin-airllm]] [[xiaolai-the-craft-of-selfteaching]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

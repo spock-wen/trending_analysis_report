@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[tokio-rs-topcoat]] [[averygan-reclip]] [[tauricresearch-tradingagents]] [[googlechrome-modern-web-guidance-src]]
+[[averygan-reclip]] [[addyosmani-agent-skills]] [[alchaincyf-huashu-design]] [[paperclipai-paperclip]] [[openai-codex-security]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

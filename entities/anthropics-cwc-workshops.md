@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[obra-superpowers]] [[php-php-src]] [[googlechrome-modern-web-guidance-src]] [[meta-astryx]]
+[[obra-superpowers]] [[openai-codex-security]] [[agricidaniel-claude-seo]] [[meta-astryx]] [[hugohe3-ppt-master]]
 
 **所属领域**: [[erp]]
 

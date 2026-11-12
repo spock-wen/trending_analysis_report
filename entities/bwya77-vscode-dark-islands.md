@@ -34,7 +34,7 @@ VSCode theme based off the easemate IDE and Jetbrains islands theme
 
 ## 相关项目
 
-[[raphire-win11debloat]] [[mattpocock-skills]] [[mpv-player-mpv]] [[vercel-labs-agent-browser]] [[openai-codex-security]]
+[[qwenlm-qwen-code]] [[addyosmani-agent-skills]] [[nvm-sh-nvm]] [[openai-codex-security]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

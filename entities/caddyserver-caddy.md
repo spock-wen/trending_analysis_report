@@ -35,7 +35,7 @@ Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]]
+[[openai-codex-security]] [[prometheus-prometheus]] [[alishahryar1-free-claude-code]] [[etcd-io-etcd]] [[strelov1-freehire]]
 
 **所属领域**: [[web]]
 

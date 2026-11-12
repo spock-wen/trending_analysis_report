@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]]
+[[anthropics-skills]] [[homeassistant-ai-ha-mcp]] [[openai-codex-security]] [[prometheus-prometheus]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[web]] [[data]]
 

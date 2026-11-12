@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[cloudflare-security-audit-skill]] [[react-react]]
+[[addyosmani-agent-skills]] [[openai-codex-security]] [[ggml-org-llama.cpp]] [[nodejs-node]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

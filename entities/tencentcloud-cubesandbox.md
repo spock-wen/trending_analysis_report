@@ -37,7 +37,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[tokio-rs-topcoat]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[meta-astryx]]
+[[zed-industries-zed]] [[addyosmani-agent-skills]] [[ruvnet-ruview]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

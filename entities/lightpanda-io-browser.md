@@ -38,7 +38,7 @@ Lightpanda: the headless browser designed for AI and automation
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[meta-astryx]] [[addyosmani-agent-skills]]
+[[ashhart-tensorfold]] [[addyosmani-agent-skills]] [[openai-codex-security]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

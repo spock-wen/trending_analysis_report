@@ -34,7 +34,7 @@ language: "Zig"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[mpv-player-mpv]] [[vercel-labs-agent-browser]] [[lightpanda-io-browser]] [[openai-codex-security]]
+[[lightpanda-io-browser]] [[qwenlm-qwen-code]] [[ashhart-tensorfold]] [[nvm-sh-nvm]] [[openai-codex-security]]
 
 **所属领域**: [[cli]]
 

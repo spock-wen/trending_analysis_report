@@ -35,5 +35,5 @@ Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[tokio-rs-topcoat]] [[vercel-labs-agent-browser]] [[zed-industries-zed]]
+[[zed-industries-zed]] [[ruvnet-ruview]] [[vercel-labs-agent-browser]] [[tokio-rs-topcoat]]
 

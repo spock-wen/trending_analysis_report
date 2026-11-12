@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[tokio-rs-topcoat]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]]
+[[zed-industries-zed]] [[jiafeimiao-k-cat-discimagestudio]] [[addyosmani-agent-skills]] [[scenario-labs-skills]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

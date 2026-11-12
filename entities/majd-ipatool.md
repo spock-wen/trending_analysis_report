@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[mattpocock-skills]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[mpv-player-mpv]] [[vercel-labs-agent-browser]]
+[[qwenlm-qwen-code]] [[nvm-sh-nvm]] [[openai-codex-security]] [[prometheus-prometheus]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[cli]]
 

@@ -35,7 +35,7 @@ Stremio - Freedom to Stream
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[cloudflare-security-audit-skill]] [[vercel-labs-agent-browser]] [[react-react]] [[conardli-garden-skills]]
+[[addyosmani-agent-skills]] [[openai-codex-security]] [[nodejs-node]] [[alishahryar1-free-claude-code]] [[react-react]]
 
 **所属领域**: [[web]]
 

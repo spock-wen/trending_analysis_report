@@ -34,7 +34,7 @@ Persistent file-based planning for AI coding agents and long-running agentic tas
 
 ## 相关项目
 
-[[mattpocock-skills]] [[mpv-player-mpv]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[meta-astryx]]
+[[qwenlm-qwen-code]] [[anthropics-skills]] [[addyosmani-agent-skills]] [[homeassistant-ai-ha-mcp]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

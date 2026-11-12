@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-11-12 | 总页面：896
+> 最后更新：2026-11-13 | 总页面：899
 
 ## Entities
 
@@ -20,7 +20,7 @@
 - [[actions-checkout|checkout]] — Action for checking out a repo
 - [[actions-runner-images|runner-images]] — GitHub Actions runner images
 - [[activeloopai-hivemind|hivemind]] — One brain for all your agents
-- [[addyosmani-agent-skills|agent-skills]] — Production-grade engineering skills for AI coding agents. 🆕
+- [[addyosmani-agent-skills|agent-skills]] — Production-grade engineering skills for AI coding agents. 🔥
 - [[affaan-m-ecc|ECC]] — The agent harness performance optimization system. Skills, i... 🆕
 - [[affaan-m-everything-claude-code|everything-claude-code]] — The agent harness performance optimization system. Skills, i...
 - [[agalwood-motrix|Motrix]] — A full-featured download manager. 🆕
@@ -51,7 +51,7 @@
 - [[alibaba-zvec|zvec]] — A lightweight, lightning-fast, in-process vector database
 - [[alireza0-s-ui|s-ui]] — An advanced Web Panel • Built for SagerNet/Sing-Box
 - [[alirezarezvani-claude-skills|claude-skills]] — 345 Claude Code skills & agent skills & plugins (30+ Agents,... 🔥
-- [[alishahryar1-free-claude-code|free-claude-code]] — Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 othe...
+- [[alishahryar1-free-claude-code|free-claude-code]] — Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCod...
 - [[allenai-olmocr|olmocr]] — Toolkit for linearizing PDFs for LLM datasets/training
 - [[alphaxiv-openresearch|OpenResearch]] — Turn your coding agents into research agents 🔥
 - [[alsk1992-cloddsbot|CloddsBot]] — Open Source AI trading agent that operates autonomously acro... 🔥
@@ -98,6 +98,7 @@
 - [[armory3d-armorpaint|armorpaint]] — Graphics Creation Tools 🔥
 - [[arthurbrussee-brush|brush]] — 3D Reconstruction for all
 - [[asciimoo-hister|hister]] — Your own search engine 🆕
+- [[ashhart-tensorfold|TensorFold]] — LLM Inference Engine for Metal, CUDA and Vulkan. 🆕
 - [[astral-sh-ruff|ruff]] — An extremely fast Python linter and code formatter, written ... 🆕
 - [[astrbotdevs-astrbot|AstrBot]] — AI Agent Assistant & development framework that integrates l... 🔥
 - [[augani-openreel-video|openreel-video]] — OpenReel Video - Professional browser-based video editor. Op...
@@ -327,7 +328,7 @@
 - [[google-osv-scanner|osv-scanner]] — Vulnerability scanner written in Go which uses the data prov...
 - [[google-research-timesfm|timesfm]] — TimesFM (Time Series Foundation Model) is a pretrained time-... 🔥
 - [[google-skills|skills]] — Agent Skills for Google products and technologies 🔥
-- [[googlechrome-modern-web-guidance-src|modern-web-guidance-src]] — No description 🆕
+- [[googlechrome-modern-web-guidance-src|modern-web-guidance-src]] — Keep your coding agent up to date with the latest web best p... 🆕
 - [[googlecloudplatform-generative-ai|generative-ai]] — Sample code and notebooks for Generative AI on Google Cloud,... 🆕
 - [[gorhill-ublock|uBlock]] — uBlock Origin - An efficient blocker for Chromium and Firefo...
 - [[gorvgoyl-clone-wars|Clone-Wars]] — 100+ open-source clones of popular sites like Airbnb, Amazon...
@@ -649,6 +650,7 @@
 - [[plausible-analytics|analytics]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
 - [[playcanvas-supersplat|supersplat]] — 3D Gaussian Splat Editor
 - [[pollen-robotics-microduck|microduck]] — A Tiny biped duck robot 🦆 🔥
+- [[pookjw-hermesenabler|HermesEnabler]] — Enable Hermès Watch Faces on any Apple Watch devices 🆕
 - [[posthog-posthog|posthog]] — 🦔 PostHog is the leading platform for building self-driving ...
 - [[powershell-powershell|PowerShell]] — PowerShell for every system!
 - [[pppscn-smsforwarder|SmsForwarder]] — 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内...
@@ -671,6 +673,7 @@
 - [[pytorch-pytorch|pytorch]] — Tensors and Dynamic neural networks in Python with strong GP... 🆕
 - [[qbittorrent-qbittorrent|qBittorrent]] — qBittorrent BitTorrent client
 - [[qwenlm-qwen-agent|Qwen-Agent]] — Agent framework and applications built upon Qwen>=3.0, featu... 🆕
+- [[qwenlm-qwen-code|qwen-code]] — An open-source AI coding agent that lives in your terminal. 🆕
 - [[radixark-miles|miles]] — Miles is an enterprise-facing reinforcement learning framewo...
 - [[rails-rails|rails]] — Ruby on Rails
 - [[rakyll-hey|hey]] — HTTP load generator, ApacheBench (ab) replacement
@@ -711,7 +714,7 @@
 - [[schollz-croc|croc]] — Easily and securely send things from one computer to another... 🆕
 - [[semantica-agi-semantica|semantica]] — Graph-Native Infrastructure for Context and Accountable AI S... 🔥
 - [[sepinf-inc-iped|IPED]] — IPED Digital Forensic Tool. It is an open source software th...
-- [[shadcn-improve|improve]] — Use your most capable model to audit your codebase and write... 🆕
+- [[shadcn-improve|improve]] — Use your most capable model to audit your codebase and write...
 - [[shadcn-ui-ui|ui]] — A set of beautifully-designed, accessible components and a c...
 - [[shadps4-emu-shadps4|shadPS4]] — PlayStation 4 emulator for Windows, Linux and macOS written ...
 - [[shanraisshan-claude-code-best-practice|claude-code-best-practice]] — from vibe coding to agentic engineering - practice makes cla...
@@ -778,7 +781,7 @@
 - [[tester-army-e2e|e2e]] — Next generation e2e testing framework for web and mobile app... 🔥
 - [[the-pr-agent-pr-agent|pr-agent]] — 🚀 PR Agent: The Original Open-Source PR Reviewer. This proje...
 - [[the-swarm-corporation-autohedge|AutoHedge]] — Build your autonomous hedge fund in minutes. AutoHedge harne... 🔥
-- [[thealgorithms-java|Java]] — All Algorithms implemented in Java 🆕
+- [[thealgorithms-java|Java]] — All Algorithms implemented in Java
 - [[thecraighewitt-seomachine|seomachine]] — A specialized Claude Code workspace for creating long-form, ... 🔥
 - [[thedotmack-claude-mem|claude-mem]] — Persistent Context Across Sessions for Every Agent – Capture... 🔥
 - [[thu-maic-openmaic|OpenMAIC]] — Open Multi-Agent Interactive Classroom — Get an immersive, m...
@@ -844,7 +847,7 @@
 - [[vudovn-ag-kit|ag-kit]] — No description
 - [[vxcontrol-pentagi|pentagi]] — Fully autonomous AI Agents system capable of performing comp...
 - [[warpdotdev-warp|warp]] — Warp is an agentic development environment, born out of the ... 🔥
-- [[we-promise-sure|sure]] — The personal finance app for everyone (by everyone) 🆕
+- [[we-promise-sure|sure]] — The personal finance app for everyone (by everyone) 🔥
 - [[webpack-webpack|webpack]] — A bundler for javascript and friends. Packs many modules int...
 - [[wei-shaw-sub2api|sub2api]] — Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，...
 - [[whiskeysockets-baileys|Baileys]] — Socket-based TS/JavaScript API for WhatsApp Web

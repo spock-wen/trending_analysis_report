@@ -36,5 +36,5 @@ CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
 ## 相关项目
 
-[[etcd-io-etcd]] [[strelov1-freehire]] [[dsx-ai-factory-nvke]] [[prometheus-prometheus]]
+[[strelov1-freehire]] [[etcd-io-etcd]] [[dsx-ai-factory-nvke]] [[prometheus-prometheus]]
 

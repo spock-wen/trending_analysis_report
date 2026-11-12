@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[cloudflare-security-audit-skill]] [[usagi-org-ai-goofish-monitor]]
+[[beenuar-aisoc]] [[openai-codex-security]] [[ruvnet-ruview]] [[anthropics-claude-quickstarts]] [[prometheus-prometheus]]
 
 **所属领域**: [[devops]] [[security]]
 

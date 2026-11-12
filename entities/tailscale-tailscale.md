@@ -34,7 +34,7 @@ The easiest, most secure way to use WireGuard and 2FA.
 
 ## 相关项目
 
-[[etcd-io-etcd]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[meta-astryx]]
+[[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[prometheus-prometheus]] [[alishahryar1-free-claude-code]] [[etcd-io-etcd]]
 
 **所属领域**: [[ai-agent]]
 

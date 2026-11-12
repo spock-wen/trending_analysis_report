@@ -37,5 +37,5 @@ Create stunning demos for free. Open-source, no subscriptions, no watermarks, an
 
 ## 相关项目
 
-[[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[ranxianglei-billion-context]] [[meta-astryx]]
+[[openai-codex-security]] [[copilotkit-openbot]] [[meta-astryx]] [[googlechrome-modern-web-guidance-src]]
 

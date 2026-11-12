@@ -38,7 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[mattpocock-skills]] [[mpv-player-mpv]] [[cloudflare-security-audit-skill]] [[react-react]] [[conardli-garden-skills]]
+[[qwenlm-qwen-code]] [[addyosmani-agent-skills]] [[nvm-sh-nvm]] [[openai-codex-security]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

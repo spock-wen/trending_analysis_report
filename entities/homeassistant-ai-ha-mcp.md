@@ -36,7 +36,7 @@ Configure and automate Home Assistant with Claude, ChatGPT, and other AI assista
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[meta-astryx]] [[zhulinsen-daily_stock_analysis]] [[sherlock-project-sherlock]]
+[[anthropics-skills]] [[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ Hundreds of models & providers. One command to find what runs on your hardware.
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[tokio-rs-topcoat]] [[mattpocock-skills]] [[mpv-player-mpv]] [[vercel-labs-agent-browser]]
+[[zed-industries-zed]] [[qwenlm-qwen-code]] [[addyosmani-agent-skills]] [[nvm-sh-nvm]] [[openai-codex-security]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

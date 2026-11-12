@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[tauricresearch-tradingagents]] [[cloudflare-security-audit-skill]] [[vercel-labs-agent-browser]] [[affaan-m-ecc]]
+[[beenuar-aisoc]] [[anthropics-skills]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[homeassistant-ai-ha-mcp]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

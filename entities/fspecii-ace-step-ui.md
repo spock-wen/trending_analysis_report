@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[anomalyco-hex]] [[microsoft-vibevoice]] [[cjpais-handy]] [[cloudflare-security-audit-skill]] [[react-react]]
+[[jiafeimiao-k-cat-discimagestudio]] [[addyosmani-agent-skills]] [[scenario-labs-skills]] [[ggml-org-llama.cpp]] [[nodejs-node]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

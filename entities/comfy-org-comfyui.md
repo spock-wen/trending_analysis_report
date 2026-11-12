@@ -38,7 +38,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[conardli-garden-skills]] [[nvidia-auto-ontology]] [[zhulinsen-daily_stock_analysis]] [[sherlock-project-sherlock]] [[anthropics-skills]]
+[[anthropics-skills]] [[jiafeimiao-k-cat-discimagestudio]] [[scenario-labs-skills]] [[homeassistant-ai-ha-mcp]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[image-gen]]
 

@@ -1,20 +1,20 @@
 ---
 title: "CopilotKit/OpenBot"
 created: 2026-10-30
-updated: 2026-11-02
-last_active: 2026-11-02
+updated: 2026-11-13
+last_active: 2026-11-13
 type: tool
 tags: [typescript, ai-agent, web]
-sources: [raw/trending/2026-11-02.json]
+sources: [raw/trending/2026-11-13.json]
 confidence: high
-trending_count_daily: 3
+trending_count_daily: 4
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-10-30
-last_trending: 2026-11-02
+last_trending: 2026-11-13
 peak_rank: 4
-total_stars: 9491
+total_stars: 11550
 language: "TypeScript"
 ---
 
@@ -23,20 +23,21 @@ language: "TypeScript"
 Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 
 - 语言: TypeScript
-- 上榜次数: 3 次
+- 上榜次数: 4 次
 - 连续上榜: 1 天
 - 最高排名: #4
 - 链接: [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
 
 ## 上榜历史
 
+  - 2026-11-13: #11, +291⭐
   - 2026-11-02: #13, +178⭐
   - 2026-10-31: #4, +707⭐
   - 2026-10-30: #9, +240⭐
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[meta-astryx]]
+[[addyosmani-agent-skills]] [[openai-codex-security]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[meta-astryx]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

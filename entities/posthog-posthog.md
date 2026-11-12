@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[tokio-rs-topcoat]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[googlechrome-modern-web-guidance-src]]
+[[anthropics-skills]] [[addyosmani-agent-skills]] [[homeassistant-ai-ha-mcp]] [[openai-codex-security]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

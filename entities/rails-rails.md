@@ -34,7 +34,7 @@ Ruby on Rails
 
 ## 相关项目
 
-[[docusealco-docuseal]] [[we-promise-sure]] [[chatwoot-chatwoot]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]]
+[[chatwoot-chatwoot]] [[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[we-promise-sure]]
 
 **所属领域**: [[ai-agent]]
 

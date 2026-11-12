@@ -38,7 +38,7 @@ Write HTML. Render video. Built for agents.
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[meta-astryx]]
+[[addyosmani-agent-skills]] [[openai-codex-security]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[meta-astryx]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

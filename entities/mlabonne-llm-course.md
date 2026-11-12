@@ -34,7 +34,7 @@ Course to get into Large Language Models (LLMs) with roadmaps and Colab notebook
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[michaelcade-90daysofdevops]] [[meta-astryx]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]]
+[[xiaolai-the-craft-of-selfteaching]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

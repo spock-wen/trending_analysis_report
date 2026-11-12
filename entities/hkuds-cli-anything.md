@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[mattpocock-skills]] [[mpv-player-mpv]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]]
+[[qwenlm-qwen-code]] [[anthropics-skills]] [[addyosmani-agent-skills]] [[homeassistant-ai-ha-mcp]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

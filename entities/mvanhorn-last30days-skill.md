@@ -38,7 +38,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[tauricresearch-tradingagents]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[affaan-m-ecc]]
+[[anthropics-skills]] [[addyosmani-agent-skills]] [[homeassistant-ai-ha-mcp]] [[paperclipai-paperclip]] [[openai-codex-security]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

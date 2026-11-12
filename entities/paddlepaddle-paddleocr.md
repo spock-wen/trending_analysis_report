@@ -37,7 +37,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[etcd-io-etcd]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]] [[conardli-garden-skills]]
+[[anthropics-skills]] [[addyosmani-agent-skills]] [[jiafeimiao-k-cat-discimagestudio]] [[homeassistant-ai-ha-mcp]] [[scenario-labs-skills]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

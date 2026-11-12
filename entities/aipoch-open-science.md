@@ -34,7 +34,7 @@ Open Science by AIPOCH is an open-source, local-first, model-agnostic AI researc
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]]
+[[addyosmani-agent-skills]] [[paperclipai-paperclip]] [[openai-codex-security]] [[ggml-org-llama.cpp]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

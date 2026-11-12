@@ -36,5 +36,5 @@ Multi-Joint dynamics with Contact. A general purpose physics simulator.
 
 ## 相关项目
 
-[[microsoft-bitnet]] [[boykopovar-anyps5]] [[hyprwm-hyprland]]
+[[microsoft-bitnet]] [[hyprwm-hyprland]] [[ggml-org-llama.cpp]]
 

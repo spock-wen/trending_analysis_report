@@ -38,7 +38,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 ## 相关项目
 
-[[etcd-io-etcd]] [[prometheus-prometheus]] [[cloudflare-security-audit-skill]] [[react-react]] [[conardli-garden-skills]]
+[[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[nodejs-node]] [[alishahryar1-free-claude-code]] [[prometheus-prometheus]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

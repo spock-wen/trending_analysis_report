@@ -34,7 +34,7 @@ language: "C"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[vercel-labs-agent-browser]] [[openssl-openssl]] [[lz4-lz4]] [[fareedkhan-dev-kimi-k3-in-c]]
+[[qwenlm-qwen-code]] [[nvm-sh-nvm]] [[openai-codex-security]] [[alishahryar1-free-claude-code]] [[fareedkhan-dev-kimi-k3-in-c]]
 
 **所属领域**: [[cli]]
 

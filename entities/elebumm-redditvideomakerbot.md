@@ -35,7 +35,7 @@ Create Reddit Videos with just✨ one command ✨
 
 ## 相关项目
 
-[[mattpocock-skills]] [[mpv-player-mpv]] [[vercel-labs-agent-browser]] [[zhulinsen-daily_stock_analysis]] [[sherlock-project-sherlock]]
+[[qwenlm-qwen-code]] [[anthropics-skills]] [[homeassistant-ai-ha-mcp]] [[nvm-sh-nvm]] [[openai-codex-security]]
 
 **所属领域**: [[cli]]
 

@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[anomalyco-hex]] [[microsoft-vibevoice]] [[cjpais-handy]] [[vercel-labs-agent-browser]]
+[[anthropics-skills]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[homeassistant-ai-ha-mcp]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

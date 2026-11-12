@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[mpv-player-mpv]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[meta-astryx]]
+[[qwenlm-qwen-code]] [[nvm-sh-nvm]] [[openai-codex-security]] [[alishahryar1-free-claude-code]] [[meta-astryx]]
 
 **所属领域**: [[cli]]
 

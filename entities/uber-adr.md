@@ -35,7 +35,7 @@ ADR secures enterprise AI agents through observability, security benchmarking, a
 
 ## 相关项目
 
-[[meta-astryx]] [[anthropics-claude-quickstarts]] [[homeassistant-ai-ha-mcp]] [[usagi-org-ai-goofish-monitor]] [[agricidaniel-claude-seo]]
+[[openai-codex-security]] [[agricidaniel-claude-seo]] [[hugohe3-ppt-master]] [[obra-superpowers]] [[anthropics-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[security]] [[erp]]
 

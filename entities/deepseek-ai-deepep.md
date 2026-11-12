@@ -35,7 +35,7 @@ DeepEP: an efficient expert-parallel communication library
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[meta-astryx]] [[deepseek-ai-deepgemm]] [[zhulinsen-daily_stock_analysis]]
+[[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[moonshotai-flashkda]] [[deepseek-ai-deepgemm]]
 
 **所属领域**: [[ai-agent]]
 

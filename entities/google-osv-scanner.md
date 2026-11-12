@@ -34,7 +34,7 @@ Vulnerability scanner written in Go which uses the data provided by https://osv.
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]]
+[[openai-codex-security]] [[prometheus-prometheus]] [[alishahryar1-free-claude-code]] [[etcd-io-etcd]] [[strelov1-freehire]]
 
 **所属领域**: [[web]] [[data]]
 

@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[tokio-rs-topcoat]] [[obra-superpowers]] [[agricidaniel-claude-seo]] [[php-php-src]]
+[[zed-industries-zed]] [[obra-superpowers]] [[addyosmani-agent-skills]] [[php-php-src]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

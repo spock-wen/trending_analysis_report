@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[tauricresearch-tradingagents]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[affaan-m-ecc]]
+[[addyosmani-agent-skills]] [[paperclipai-paperclip]] [[openai-codex-security]] [[ggml-org-llama.cpp]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -38,7 +38,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[etcd-io-etcd]] [[prometheus-prometheus]] [[cloudflare-security-audit-skill]] [[vercel-labs-agent-browser]] [[affaan-m-ecc]]
+[[beenuar-aisoc]] [[addyosmani-agent-skills]] [[openai-codex-security]] [[ggml-org-llama.cpp]] [[prometheus-prometheus]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

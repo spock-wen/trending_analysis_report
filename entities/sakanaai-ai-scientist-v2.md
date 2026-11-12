@@ -35,7 +35,7 @@ The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[obra-superpowers]] [[tauricresearch-tradingagents]] [[php-php-src]] [[vercel-labs-agent-browser]]
+[[obra-superpowers]] [[anthropics-skills]] [[addyosmani-agent-skills]] [[homeassistant-ai-ha-mcp]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

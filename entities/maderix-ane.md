@@ -34,7 +34,7 @@ Training neural networks on Apple Neural Engine via reverse-engineered private A
 
 ## 相关项目
 
-[[meta-astryx]] [[vercel-labs-agent-browser]] [[zhulinsen-daily_stock_analysis]] [[addyosmani-agent-skills]]
+[[pookjw-hermesenabler]] [[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[copilotkit-openbot]]
 
 **所属领域**: [[ai-agent]]
 

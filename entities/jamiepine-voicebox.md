@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[anomalyco-hex]] [[microsoft-vibevoice]] [[cjpais-handy]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]]
+[[addyosmani-agent-skills]] [[scenario-labs-skills]] [[openai-codex-security]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

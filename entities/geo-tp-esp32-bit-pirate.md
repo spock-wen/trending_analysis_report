@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[mattpocock-skills]] [[google-deepmind-mujoco]] [[mpv-player-mpv]] [[googlechrome-modern-web-guidance-src]]
+[[qwenlm-qwen-code]] [[nvm-sh-nvm]] [[openai-codex-security]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[web]] [[cli]]
 

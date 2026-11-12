@@ -34,7 +34,7 @@ The library for web and native user interfaces.
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[cloudflare-security-audit-skill]] [[conardli-garden-skills]]
+[[addyosmani-agent-skills]] [[openai-codex-security]] [[nodejs-node]] [[alishahryar1-free-claude-code]] [[copilotkit-openbot]]
 
 **所属领域**: [[web]]
 

@@ -34,5 +34,5 @@ An open source trusted cloud native registry project that stores, signs, and sca
 
 ## 相关项目
 
-[[etcd-io-etcd]] [[strelov1-freehire]] [[dsx-ai-factory-nvke]] [[prometheus-prometheus]]
+[[strelov1-freehire]] [[etcd-io-etcd]] [[dsx-ai-factory-nvke]] [[prometheus-prometheus]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[affaan-m-ecc]] [[nvidia-auto-ontology]]
+[[anthropics-skills]] [[homeassistant-ai-ha-mcp]] [[paperclipai-paperclip]] [[k-dense-ai-scientific-agent-skills]] [[prometheus-prometheus]]
 
 **所属领域**: [[data]] [[science]]
 

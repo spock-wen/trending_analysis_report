@@ -36,7 +36,7 @@ Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[higgsfield-ai-higgsfield]] [[meta-astryx]]
+[[lyogavin-airllm]] [[xiaolai-the-craft-of-selfteaching]] [[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

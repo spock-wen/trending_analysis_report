@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[android-skills]] [[embabel-embabel-agent]] [[vercel-labs-agent-browser]] [[googlechrome-modern-web-guidance-src]]
+[[addyosmani-agent-skills]] [[openai-codex-security]] [[ggml-org-llama.cpp]] [[embabel-embabel-agent]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

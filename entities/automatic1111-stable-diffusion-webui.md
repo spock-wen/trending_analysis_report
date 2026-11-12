@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]] [[conardli-garden-skills]]
+[[anthropics-skills]] [[jiafeimiao-k-cat-discimagestudio]] [[scenario-labs-skills]] [[homeassistant-ai-ha-mcp]] [[openai-codex-security]]
 
 **所属领域**: [[web]] [[image-gen]]
 

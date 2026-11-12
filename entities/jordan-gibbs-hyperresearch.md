@@ -34,7 +34,7 @@ Agent-driven research knowledge base. Agents collect, search, and synthesize web
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[tauricresearch-tradingagents]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[affaan-m-ecc]]
+[[anthropics-skills]] [[addyosmani-agent-skills]] [[homeassistant-ai-ha-mcp]] [[paperclipai-paperclip]] [[openai-codex-security]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

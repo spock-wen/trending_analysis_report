@@ -36,7 +36,7 @@ Open Source AI trading agent that operates autonomously across 1000+ markets - P
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[obra-superpowers]] [[php-php-src]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]]
+[[obra-superpowers]] [[addyosmani-agent-skills]] [[openai-codex-security]] [[agricidaniel-claude-seo]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

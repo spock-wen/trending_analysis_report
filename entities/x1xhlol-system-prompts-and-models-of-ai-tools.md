@@ -37,7 +37,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[obra-superpowers]] [[php-php-src]] [[vercel-labs-agent-browser]] [[meta-astryx]]
+[[obra-superpowers]] [[addyosmani-agent-skills]] [[agricidaniel-claude-seo]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

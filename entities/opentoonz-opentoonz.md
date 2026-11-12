@@ -34,5 +34,5 @@ OpenToonz - An open-source full-featured 2D animation creation software
 
 ## 相关项目
 
-[[google-deepmind-mujoco]] [[microsoft-bitnet]] [[boykopovar-anyps5]] [[hyprwm-hyprland]]
+[[microsoft-bitnet]] [[google-deepmind-mujoco]] [[hyprwm-hyprland]] [[ggml-org-llama.cpp]]
 

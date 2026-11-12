@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]] [[usagi-org-ai-goofish-monitor]]
+[[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[ruvnet-ruview]] [[prometheus-prometheus]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

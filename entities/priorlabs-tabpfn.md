@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[etcd-io-etcd]] [[prometheus-prometheus]] [[nvidia-auto-ontology]] [[zhulinsen-daily_stock_analysis]] [[sherlock-project-sherlock]]
+[[anthropics-skills]] [[homeassistant-ai-ha-mcp]] [[prometheus-prometheus]] [[alishahryar1-free-claude-code]] [[etcd-io-etcd]]
 
 **所属领域**: [[data]]
 

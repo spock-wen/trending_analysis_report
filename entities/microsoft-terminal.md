@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[mattpocock-skills]] [[google-deepmind-mujoco]] [[mpv-player-mpv]] [[vercel-labs-agent-browser]] [[boykopovar-anyps5]]
+[[qwenlm-qwen-code]] [[nvm-sh-nvm]] [[openai-codex-security]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[cli]]
 

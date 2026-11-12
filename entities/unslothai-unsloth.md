@@ -37,7 +37,7 @@ Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[nvidia-auto-ontology]] [[conardli-garden-skills]] [[addyosmani-agent-skills]] [[meta-astryx]]
+[[anthropics-skills]] [[addyosmani-agent-skills]] [[jiafeimiao-k-cat-discimagestudio]] [[homeassistant-ai-ha-mcp]] [[scenario-labs-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

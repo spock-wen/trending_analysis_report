@@ -34,7 +34,7 @@ Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translatio
 
 ## 相关项目
 
-[[googlechrome-modern-web-guidance-src]] [[conardli-garden-skills]] [[nvidia-auto-ontology]] [[meta-astryx]] [[openai-codex-security]]
+[[jiafeimiao-k-cat-discimagestudio]] [[scenario-labs-skills]] [[openai-codex-security]] [[nvidia-auto-ontology]] [[conardli-garden-skills]]
 
 **所属领域**: [[image-gen]]
 

@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[etcd-io-etcd]] [[agentjido-jido]] [[prometheus-prometheus]] [[googlechrome-modern-web-guidance-src]]
+[[beenuar-aisoc]] [[openai-codex-security]] [[prometheus-prometheus]] [[alishahryar1-free-claude-code]] [[etcd-io-etcd]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

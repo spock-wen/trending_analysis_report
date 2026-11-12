@@ -34,7 +34,7 @@ Free and open-source macOS menu bar toolkit.
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[meta-astryx]] [[xtool-org-xtool]]
+[[xtool-org-xtool]] [[addyosmani-agent-skills]] [[abue-ammar-tinycast]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

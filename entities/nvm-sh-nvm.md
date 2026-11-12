@@ -1,20 +1,20 @@
 ---
 title: "nvm-sh/nvm"
 created: 2026-08-12
-updated: 2026-10-15
-last_active: 2026-10-15
+updated: 2026-11-13
+last_active: 2026-11-13
 type: tool
 tags: [shell, cli]
-sources: [raw/trending/2026-10-15.json]
+sources: [raw/trending/2026-11-13.json]
 confidence: high
-trending_count_daily: 3
+trending_count_daily: 4
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-08-12
-last_trending: 2026-10-15
+last_trending: 2026-11-13
 peak_rank: 3
-total_stars: 95442
+total_stars: 95999
 language: "Shell"
 ---
 
@@ -23,20 +23,21 @@ language: "Shell"
 Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 
 - 语言: Shell
-- 上榜次数: 3 次
+- 上榜次数: 4 次
 - 连续上榜: 1 天
 - 最高排名: #3
 - 链接: [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
 
 ## 上榜历史
 
+  - 2026-11-13: #3, +107⭐
   - 2026-10-15: #4, +70⭐
   - 2026-09-06: #16, +57⭐
   - 2026-08-12: #3, +18⭐
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[mpv-player-mpv]] [[vercel-labs-agent-browser]] [[michaelcade-90daysofdevops]]
+[[qwenlm-qwen-code]] [[openai-codex-security]] [[alishahryar1-free-claude-code]] [[mattpocock-skills]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[cli]]
 

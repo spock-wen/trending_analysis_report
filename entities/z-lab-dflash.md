@@ -36,7 +36,7 @@ DFlash: Block Diffusion for Flash Speculative Decoding
 
 ## 相关项目
 
-[[conardli-garden-skills]] [[nvidia-auto-ontology]] [[zhulinsen-daily_stock_analysis]] [[sherlock-project-sherlock]] [[anthropics-skills]]
+[[anthropics-skills]] [[jiafeimiao-k-cat-discimagestudio]] [[scenario-labs-skills]] [[homeassistant-ai-ha-mcp]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[image-gen]]
 

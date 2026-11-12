@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]]
+[[openai-codex-security]] [[prometheus-prometheus]] [[alishahryar1-free-claude-code]] [[etcd-io-etcd]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[web]] [[data]]
 

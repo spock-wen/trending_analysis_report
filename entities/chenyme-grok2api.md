@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[mattpocock-skills]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[mpv-player-mpv]]
+[[qwenlm-qwen-code]] [[nvm-sh-nvm]] [[openai-codex-security]] [[prometheus-prometheus]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[web]] [[cli]]
 

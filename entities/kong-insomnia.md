@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[mattpocock-skills]] [[mpv-player-mpv]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]]
+[[qwenlm-qwen-code]] [[nvm-sh-nvm]] [[openai-codex-security]] [[alishahryar1-free-claude-code]] [[meta-astryx]]
 
 **所属领域**: [[web]] [[cli]]
 

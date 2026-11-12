@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[cloudflare-security-audit-skill]] [[vercel-labs-agent-browser]] [[react-react]] [[conardli-garden-skills]]
+[[jiafeimiao-k-cat-discimagestudio]] [[addyosmani-agent-skills]] [[scenario-labs-skills]] [[openai-codex-security]] [[nodejs-node]]
 
 **所属领域**: [[web]] [[image-gen]]
 

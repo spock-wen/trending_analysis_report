@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[etcd-io-etcd]] [[mpv-player-mpv]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]]
+[[addyosmani-agent-skills]] [[mpv-player-mpv]] [[ggml-org-llama.cpp]] [[prometheus-prometheus]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

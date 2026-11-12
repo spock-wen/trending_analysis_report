@@ -38,7 +38,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[etcd-io-etcd]] [[prometheus-prometheus]] [[cloudflare-security-audit-skill]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]]
+[[beenuar-aisoc]] [[anthropics-skills]] [[addyosmani-agent-skills]] [[homeassistant-ai-ha-mcp]] [[openai-codex-security]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]]
 

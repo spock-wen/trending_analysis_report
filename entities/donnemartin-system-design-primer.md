@@ -36,7 +36,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[michaelcade-90daysofdevops]] [[thu-maic-openmaic]] [[zhulinsen-daily_stock_analysis]] [[sherlock-project-sherlock]]
+[[anthropics-skills]] [[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[homeassistant-ai-ha-mcp]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[education]]
 

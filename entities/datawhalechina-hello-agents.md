@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[etcd-io-etcd]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]] [[addyosmani-agent-skills]]
+[[anthropics-skills]] [[addyosmani-agent-skills]] [[homeassistant-ai-ha-mcp]] [[ggml-org-llama.cpp]] [[prometheus-prometheus]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

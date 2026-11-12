@@ -36,5 +36,5 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 ## 相关项目
 
-[[etcd-io-etcd]] [[strelov1-freehire]] [[dsx-ai-factory-nvke]] [[prometheus-prometheus]]
+[[strelov1-freehire]] [[etcd-io-etcd]] [[dsx-ai-factory-nvke]] [[prometheus-prometheus]]
 

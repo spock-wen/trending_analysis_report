@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[plausible-analytics]] [[etcd-io-etcd]] [[agentjido-jido]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]]
+[[plausible-analytics]] [[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[prometheus-prometheus]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

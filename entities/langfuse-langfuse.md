@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]]
+[[addyosmani-agent-skills]] [[openai-codex-security]] [[ggml-org-llama.cpp]] [[ruvnet-ruview]] [[prometheus-prometheus]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

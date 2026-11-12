@@ -37,7 +37,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[etcd-io-etcd]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]] [[addyosmani-agent-skills]]
+[[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[prometheus-prometheus]] [[alishahryar1-free-claude-code]] [[etcd-io-etcd]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

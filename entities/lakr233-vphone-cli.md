@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[mattpocock-skills]] [[vorssaint-vorssaint-utils]] [[manaflow-ai-cmux]] [[mpv-player-mpv]] [[vercel-labs-agent-browser]]
+[[qwenlm-qwen-code]] [[xtool-org-xtool]] [[abue-ammar-tinycast]] [[nvm-sh-nvm]] [[openai-codex-security]]
 
 **所属领域**: [[cli]]
 

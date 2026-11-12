@@ -35,7 +35,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[mattpocock-skills]] [[mpv-player-mpv]] [[vercel-labs-agent-browser]] [[michaelcade-90daysofdevops]] [[meta-astryx]]
+[[qwenlm-qwen-code]] [[xiaolai-the-craft-of-selfteaching]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

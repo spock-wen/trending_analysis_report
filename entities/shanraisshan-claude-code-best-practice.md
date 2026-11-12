@@ -38,7 +38,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[tokio-rs-topcoat]] [[averygan-reclip]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]]
+[[averygan-reclip]] [[addyosmani-agent-skills]] [[alchaincyf-huashu-design]] [[openai-codex-security]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

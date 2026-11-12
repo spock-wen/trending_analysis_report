@@ -34,7 +34,7 @@ One has no future if one couldn't teach themself.
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[vercel-labs-agent-browser]] [[michaelcade-90daysofdevops]] [[addyosmani-agent-skills]] [[higgsfield-ai-higgsfield]]
+[[lyogavin-airllm]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

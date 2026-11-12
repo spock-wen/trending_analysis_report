@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[thealgorithms-java]] [[floci-io-floci]] [[yuliskov-smarttube]] [[mattpocock-skills]] [[etcd-io-etcd]]
+[[qwenlm-qwen-code]] [[addyosmani-agent-skills]] [[zhulinsen-daily_stock_analysis]] [[nvm-sh-nvm]] [[openai-codex-security]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

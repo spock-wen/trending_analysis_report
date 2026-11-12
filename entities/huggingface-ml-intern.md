@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[vercel-labs-agent-browser]] [[affaan-m-ecc]] [[addyosmani-agent-skills]] [[meta-astryx]]
+[[anthropics-skills]] [[addyosmani-agent-skills]] [[homeassistant-ai-ha-mcp]] [[paperclipai-paperclip]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[tokio-rs-topcoat]] [[mattpocock-skills]] [[mpv-player-mpv]] [[googlechrome-modern-web-guidance-src]]
+[[qwenlm-qwen-code]] [[alchaincyf-huashu-design]] [[nvm-sh-nvm]] [[openai-codex-security]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]]
+[[lyogavin-airllm]] [[xiaolai-the-craft-of-selfteaching]] [[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[prometheus-prometheus]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[obra-superpowers]] [[mattpocock-skills]] [[mpv-player-mpv]] [[vercel-labs-agent-browser]] [[michaelcade-90daysofdevops]]
+[[qwenlm-qwen-code]] [[nvm-sh-nvm]] [[openai-codex-security]] [[alishahryar1-free-claude-code]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]]
 

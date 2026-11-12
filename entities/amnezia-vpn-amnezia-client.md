@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[mattpocock-skills]] [[google-deepmind-mujoco]] [[mpv-player-mpv]] [[cloudflare-security-audit-skill]] [[vercel-labs-agent-browser]]
+[[qwenlm-qwen-code]] [[beenuar-aisoc]] [[nvm-sh-nvm]] [[openai-codex-security]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[cli]] [[security]]
 

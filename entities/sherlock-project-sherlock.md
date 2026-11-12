@@ -38,5 +38,5 @@ Hunt down social media accounts by username across social networks
 
 ## 相关项目
 
-[[anthropics-skills]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]]
+[[zhulinsen-daily_stock_analysis]] [[anthropics-skills]] [[homeassistant-ai-ha-mcp]] [[alishahryar1-free-claude-code]]
 

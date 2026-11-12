@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[cloudflare-security-audit-skill]] [[react-react]] [[conardli-garden-skills]] [[vercel-labs-agent-browser]]
+[[beenuar-aisoc]] [[addyosmani-agent-skills]] [[paperclipai-paperclip]] [[openai-codex-security]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

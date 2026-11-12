@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[tokio-rs-topcoat]] [[mattpocock-skills]] [[etcd-io-etcd]] [[mpv-player-mpv]]
+[[zed-industries-zed]] [[qwenlm-qwen-code]] [[addyosmani-agent-skills]] [[nvm-sh-nvm]] [[openai-codex-security]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

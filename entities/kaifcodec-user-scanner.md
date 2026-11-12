@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[cloudflare-security-audit-skill]] [[vercel-labs-agent-browser]]
+[[beenuar-aisoc]] [[anthropics-skills]] [[addyosmani-agent-skills]] [[homeassistant-ai-ha-mcp]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

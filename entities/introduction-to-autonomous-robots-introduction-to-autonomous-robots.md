@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[cs341-illinois-coursebook]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[meta-astryx]] [[zhulinsen-daily_stock_analysis]]
+[[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[cs341-illinois-coursebook]] [[copilotkit-openbot]]
 
 **所属领域**: [[ai-agent]]
 

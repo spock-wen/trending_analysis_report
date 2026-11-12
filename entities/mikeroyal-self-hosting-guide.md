@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[michaelcade-90daysofdevops]] [[meta-astryx]]
+[[xiaolai-the-craft-of-selfteaching]] [[addyosmani-agent-skills]] [[patchy631-ai-engineering-hub]] [[thu-maic-openmaic]] [[openai-codex-security]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

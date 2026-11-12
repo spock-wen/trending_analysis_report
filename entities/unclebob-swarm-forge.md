@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[penpot-penpot]] [[vercel-labs-agent-browser]] [[meta-astryx]] [[addyosmani-agent-skills]] [[zhulinsen-daily_stock_analysis]]
+[[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[penpot-penpot]] [[copilotkit-openbot]]
 
 **所属领域**: [[ai-agent]]
 

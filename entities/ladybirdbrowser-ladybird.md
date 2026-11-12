@@ -36,7 +36,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[google-deepmind-mujoco]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[boykopovar-anyps5]]
+[[openai-codex-security]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[google-deepmind-mujoco]] [[copilotkit-openbot]]
 
 **所属领域**: [[web]]
 

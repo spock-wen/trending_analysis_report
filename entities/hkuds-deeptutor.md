@@ -38,7 +38,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[tokio-rs-topcoat]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[zhulinsen-daily_stock_analysis]] [[sherlock-project-sherlock]]
+[[anthropics-skills]] [[homeassistant-ai-ha-mcp]] [[openai-codex-security]] [[alishahryar1-free-claude-code]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[web]]
 

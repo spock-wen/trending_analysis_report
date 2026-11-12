@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[tokio-rs-topcoat]] [[averygan-reclip]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]]
+[[averygan-reclip]] [[alchaincyf-huashu-design]] [[openai-codex-security]] [[alishahryar1-free-claude-code]] [[copilotkit-openbot]]
 
 **所属领域**: [[web]]
 

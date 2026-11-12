@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[conardli-garden-skills]] [[react-react]] [[addyosmani-agent-skills]] [[meta-astryx]]
+[[beenuar-aisoc]] [[addyosmani-agent-skills]] [[openai-codex-security]] [[ggml-org-llama.cpp]] [[nodejs-node]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

@@ -37,7 +37,7 @@ Official Python inference and LoRA trainer package for the LTX-2 audio–video g
 
 ## 相关项目
 
-[[anomalyco-hex]] [[microsoft-vibevoice]] [[cjpais-handy]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]]
+[[anthropics-skills]] [[addyosmani-agent-skills]] [[scenario-labs-skills]] [[homeassistant-ai-ha-mcp]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

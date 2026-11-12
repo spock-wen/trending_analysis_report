@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[googlechrome-modern-web-guidance-src]] [[michaelcade-90daysofdevops]] [[meta-astryx]] [[thu-maic-openmaic]]
+[[xiaolai-the-craft-of-selfteaching]] [[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]] [[openai-codex-security]] [[meta-astryx]]
 
 **所属领域**: [[education]]
 

@@ -34,7 +34,7 @@ Replace port numbers with stable, named local URLs. For humans and agents.
 
 ## 相关项目
 
-[[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]] [[conardli-garden-skills]] [[addyosmani-agent-skills]]
+[[jiafeimiao-k-cat-discimagestudio]] [[addyosmani-agent-skills]] [[scenario-labs-skills]] [[openai-codex-security]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

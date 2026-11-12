@@ -34,7 +34,7 @@ This repository started out as a learning in public project for myself and has n
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[obra-superpowers]] [[mattpocock-skills]] [[mpv-player-mpv]] [[prometheus-prometheus]]
+[[qwenlm-qwen-code]] [[xiaolai-the-craft-of-selfteaching]] [[thu-maic-openmaic]] [[nvm-sh-nvm]] [[openai-codex-security]]
 
 **所属领域**: [[cli]] [[devops]] [[education]]
 

@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[vercel-labs-agent-browser]] [[michaelcade-90daysofdevops]] [[addyosmani-agent-skills]] [[meta-astryx]]
+[[anthropics-skills]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[homeassistant-ai-ha-mcp]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

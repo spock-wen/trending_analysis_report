@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[vercel-labs-agent-browser]] [[michaelcade-90daysofdevops]] [[affaan-m-ecc]] [[meta-astryx]]
+[[xiaolai-the-craft-of-selfteaching]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[paperclipai-paperclip]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

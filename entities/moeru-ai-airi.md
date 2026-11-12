@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[anomalyco-hex]] [[tokio-rs-topcoat]] [[microsoft-vibevoice]] [[cjpais-handy]] [[googlechrome-modern-web-guidance-src]]
+[[addyosmani-agent-skills]] [[scenario-labs-skills]] [[openai-codex-security]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

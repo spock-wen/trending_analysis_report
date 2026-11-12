@@ -36,7 +36,7 @@ Official inference framework for 1-bit LLMs
 
 ## 相关项目
 
-[[google-deepmind-mujoco]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[boykopovar-anyps5]] [[meta-astryx]]
+[[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[google-deepmind-mujoco]] [[copilotkit-openbot]]
 
 **所属领域**: [[ai-agent]]
 

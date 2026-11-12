@@ -35,7 +35,7 @@ A collection of DESIGN.md files analysis by popular brand design systems. Drop o
 
 ## 相关项目
 
-[[meta-astryx]] [[vercel-labs-agent-browser]] [[zhulinsen-daily_stock_analysis]] [[addyosmani-agent-skills]]
+[[copilotkit-openbot]] [[ggml-org-llama.cpp]] [[addyosmani-agent-skills]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]]
 

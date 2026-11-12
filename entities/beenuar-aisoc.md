@@ -34,7 +34,7 @@ Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[vercel-labs-agent-browser]] [[affaan-m-ecc]] [[nvidia-auto-ontology]] [[addyosmani-agent-skills]]
+[[anthropics-skills]] [[addyosmani-agent-skills]] [[jiafeimiao-k-cat-discimagestudio]] [[homeassistant-ai-ha-mcp]] [[scenario-labs-skills]]
 
 **所属领域**: [[ai-agent]] [[security]] [[image-gen]]
 

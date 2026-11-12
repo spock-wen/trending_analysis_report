@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[tokio-rs-topcoat]] [[averygan-reclip]] [[etcd-io-etcd]] [[prometheus-prometheus]]
+[[averygan-reclip]] [[addyosmani-agent-skills]] [[alchaincyf-huashu-design]] [[openai-codex-security]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

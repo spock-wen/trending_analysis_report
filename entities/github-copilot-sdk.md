@@ -38,7 +38,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[thealgorithms-java]] [[floci-io-floci]] [[yuliskov-smarttube]] [[vercel-labs-agent-browser]] [[nationalsecurityagency-ghidra]]
+[[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[yuliskov-smarttube]] [[copilotkit-openbot]]
 
 **所属领域**: [[ai-agent]]
 

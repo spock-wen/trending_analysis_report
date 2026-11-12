@@ -36,7 +36,7 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 
 ## 相关项目
 
-[[etcd-io-etcd]] [[prometheus-prometheus]] [[cloudflare-security-audit-skill]] [[react-react]] [[conardli-garden-skills]]
+[[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[nodejs-node]] [[alishahryar1-free-claude-code]] [[prometheus-prometheus]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

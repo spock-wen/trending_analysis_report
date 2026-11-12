@@ -35,5 +35,5 @@ An experimental PlayStation 5 emulator project.
 
 ## 相关项目
 
-[[k1tbyte-wand-enhancer]] [[ntdevlabs-tiny11builder]] [[jiafeimiao-k-cat-discimagestudio]] [[sonarr-sonarr]]
+[[k1tbyte-wand-enhancer]] [[jiafeimiao-k-cat-discimagestudio]] [[ntdevlabs-tiny11builder]] [[sonarr-sonarr]]
 

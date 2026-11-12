@@ -34,7 +34,7 @@ A free, open source, and extensible speech-to-text application that works comple
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[tokio-rs-topcoat]] [[anomalyco-hex]] [[microsoft-vibevoice]] [[vercel-labs-agent-browser]]
+[[zed-industries-zed]] [[addyosmani-agent-skills]] [[scenario-labs-skills]] [[ruvnet-ruview]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

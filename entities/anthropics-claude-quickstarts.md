@@ -36,7 +36,7 @@ A collection of projects designed to help developers quickly get started with bu
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]] [[meta-astryx]]
+[[anthropics-skills]] [[addyosmani-agent-skills]] [[homeassistant-ai-ha-mcp]] [[ggml-org-llama.cpp]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

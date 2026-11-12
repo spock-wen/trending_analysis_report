@@ -38,7 +38,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[react-react]] [[conardli-garden-skills]] [[vercel-labs-agent-browser]] [[addyosmani-agent-skills]]
+[[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[nodejs-node]] [[alishahryar1-free-claude-code]] [[react-react]]
 
 **所属领域**: [[ai-agent]]
 

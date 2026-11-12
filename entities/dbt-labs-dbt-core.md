@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[tokio-rs-topcoat]] [[etcd-io-etcd]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]]
+[[zed-industries-zed]] [[ruvnet-ruview]] [[prometheus-prometheus]] [[tokio-rs-topcoat]] [[etcd-io-etcd]]
 
 **所属领域**: [[data]]
 

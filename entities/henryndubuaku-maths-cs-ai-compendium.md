@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[tauricresearch-tradingagents]] [[googlechrome-modern-web-guidance-src]] [[vercel-labs-agent-browser]] [[affaan-m-ecc]] [[addyosmani-agent-skills]]
+[[addyosmani-agent-skills]] [[paperclipai-paperclip]] [[openai-codex-security]] [[ggml-org-llama.cpp]] [[k-dense-ai-scientific-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

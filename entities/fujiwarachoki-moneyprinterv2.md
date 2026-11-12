@@ -34,5 +34,5 @@ Automate the process of making money online.
 
 ## 相关项目
 
-[[anthropics-skills]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]] [[sherlock-project-sherlock]]
+[[zhulinsen-daily_stock_analysis]] [[anthropics-skills]] [[homeassistant-ai-ha-mcp]] [[alishahryar1-free-claude-code]]
 

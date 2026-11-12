@@ -36,7 +36,7 @@ A unified library of SOTA model optimization techniques like quantization, disti
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[ruvnet-ruview]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]] [[michaelcade-90daysofdevops]]
+[[anthropics-skills]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[homeassistant-ai-ha-mcp]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

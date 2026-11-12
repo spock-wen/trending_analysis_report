@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[googlechrome-modern-web-guidance-src]] [[cloudflare-security-audit-skill]] [[affaan-m-ecc]] [[meta-astryx]] [[beenuar-aisoc]]
+[[beenuar-aisoc]] [[openai-codex-security]] [[meta-astryx]] [[affaan-m-ecc]] [[copilotkit-openbot]]
 
 **所属领域**: [[security]]
 

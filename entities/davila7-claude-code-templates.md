@@ -38,7 +38,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[mattpocock-skills]] [[mpv-player-mpv]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]]
+[[qwenlm-qwen-code]] [[anthropics-skills]] [[addyosmani-agent-skills]] [[homeassistant-ai-ha-mcp]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[anomalyco-hex]] [[mattpocock-skills]] [[mpv-player-mpv]] [[microsoft-vibevoice]] [[cjpais-handy]]
+[[qwenlm-qwen-code]] [[anthropics-skills]] [[scenario-labs-skills]] [[homeassistant-ai-ha-mcp]] [[nvm-sh-nvm]]
 
 **所属领域**: [[cli]] [[audio]]
 

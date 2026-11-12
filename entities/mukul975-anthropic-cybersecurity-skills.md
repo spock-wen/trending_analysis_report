@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[mpv-player-mpv]] [[cloudflare-security-audit-skill]] [[vercel-labs-agent-browser]] [[affaan-m-ecc]]
+[[qwenlm-qwen-code]] [[beenuar-aisoc]] [[anthropics-skills]] [[addyosmani-agent-skills]] [[homeassistant-ai-ha-mcp]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

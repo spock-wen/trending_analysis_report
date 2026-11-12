@@ -34,5 +34,5 @@ The JavaScript / Wasm runtime that powers Cloudflare Workers
 
 ## 相关项目
 
-[[google-deepmind-mujoco]] [[microsoft-bitnet]] [[boykopovar-anyps5]] [[hyprwm-hyprland]]
+[[microsoft-bitnet]] [[google-deepmind-mujoco]] [[hyprwm-hyprland]] [[ggml-org-llama.cpp]]
 

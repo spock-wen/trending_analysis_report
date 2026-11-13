@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[qwenlm-qwen-code]] [[beenuar-aisoc]] [[addyosmani-agent-skills]] [[nvm-sh-nvm]] [[paperclipai-paperclip]]
+[[actions-runner-images]] [[alibaba-open-code-review]] [[tauricresearch-tradingagents]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

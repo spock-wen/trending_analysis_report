@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[openai-codex-security]] [[ruvnet-ruview]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[etcd-io-etcd]]
+[[alibaba-open-code-review]] [[ruvnet-ruview]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[louislam-uptime-kuma]]
 
 **所属领域**: [[data]] [[devops]]
 

@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[qwenlm-qwen-code]] [[xiaolai-the-craft-of-selfteaching]] [[addyosmani-agent-skills]] [[patchy631-ai-engineering-hub]] [[thu-maic-openmaic]]
+[[alibaba-open-code-review]] [[xiaolai-the-craft-of-selfteaching]] [[alishahryar1-free-claude-code]] [[zhulinsen-daily_stock_analysis]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

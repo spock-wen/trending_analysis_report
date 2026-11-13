@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[cs341-illinois-coursebook]] [[copilotkit-openbot]]
+[[alibaba-open-code-review]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[cs341-illinois-coursebook]] [[tailscale-tailcat]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[qwenlm-qwen-code]] [[nvm-sh-nvm]] [[openai-codex-security]] [[prometheus-prometheus]] [[alishahryar1-free-claude-code]]
+[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[prometheus-prometheus]] [[nvm-sh-nvm]] [[openai-codex-security]]
 
 **所属领域**: [[cli]]
 

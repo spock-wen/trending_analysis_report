@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[jiafeimiao-k-cat-discimagestudio]] [[addyosmani-agent-skills]] [[scenario-labs-skills]] [[ggml-org-llama.cpp]] [[nodejs-node]]
+[[microsoft-vibevoice]] [[alibaba-open-code-review]] [[nvidia-auto-ontology]] [[conardli-garden-skills]] [[scenario-labs-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

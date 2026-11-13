@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[qwenlm-qwen-code]] [[jiafeimiao-k-cat-discimagestudio]] [[scenario-labs-skills]] [[nvm-sh-nvm]] [[openai-codex-security]]
+[[conardli-garden-skills]] [[alishahryar1-free-claude-code]] [[raphire-win11debloat]] [[jiafeimiao-k-cat-discimagestudio]] [[likely7-veyra-nrvideo]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[openai-codex-security]] [[ruvnet-ruview]] [[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[meta-astryx]]
+[[ruvnet-ruview]] [[prometheus-prometheus]] [[louislam-uptime-kuma]] [[anthropics-claude-quickstarts]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[devops]]
 

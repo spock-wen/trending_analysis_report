@@ -34,5 +34,5 @@ A free open source IT asset/license management system
 
 ## 相关项目
 
-[[swoole-typephp]] [[symfony-symfony]] [[coollabsio-coolify]]
+[[symfony-symfony]] [[swoole-typephp]] [[coollabsio-coolify]]
 

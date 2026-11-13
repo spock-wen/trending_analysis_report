@@ -35,7 +35,7 @@ Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[mpv-player-mpv]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[fareedkhan-dev-kimi-k3-in-c]]
+[[lz4-lz4]] [[alibaba-open-code-review]] [[mpv-player-mpv]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]]
 

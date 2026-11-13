@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[qwenlm-qwen-code]] [[openai-codex-security]] [[alishahryar1-free-claude-code]]
+[[openai-codex-security]] [[backnotprop-plannotator]] [[alishahryar1-free-claude-code]] [[nvm-sh-nvm]]
 
 **所属领域**: [[cli]]
 

@@ -35,5 +35,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[react-react]] [[addyosmani-agent-skills]] [[nodejs-node]]
+[[cloudflare-security-audit-skill]] [[addyosmani-agent-skills]] [[nodejs-node]] [[louislam-uptime-kuma]]
 

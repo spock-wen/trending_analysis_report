@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-11-13 | 总页面：899
+> 最后更新：2026-11-14 | 总页面：903
 
 ## Entities
 
@@ -98,7 +98,7 @@
 - [[armory3d-armorpaint|armorpaint]] — Graphics Creation Tools 🔥
 - [[arthurbrussee-brush|brush]] — 3D Reconstruction for all
 - [[asciimoo-hister|hister]] — Your own search engine 🆕
-- [[ashhart-tensorfold|TensorFold]] — LLM Inference Engine for Metal, CUDA and Vulkan. 🆕
+- [[ashhart-tensorfold|TensorFold]] — LLM Inference Engine for Metal, CUDA and Vulkan.
 - [[astral-sh-ruff|ruff]] — An extremely fast Python linter and code formatter, written ... 🆕
 - [[astrbotdevs-astrbot|AstrBot]] — AI Agent Assistant & development framework that integrates l... 🔥
 - [[augani-openreel-video|openreel-video]] — OpenReel Video - Professional browser-based video editor. Op...
@@ -109,6 +109,7 @@
 - [[awslabs-aidlc-workflows|aidlc-workflows]] — AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rul...
 - [[axorax-awesome-free-apps|awesome-free-apps]] — Curated list of the best free apps for PC and mobile 🔥
 - [[ayghri-i-have-adhd|i-have-adhd]] — A skill to stop your coding agent from burying the answer. A... 🆕
+- [[backnotprop-plannotator|plannotator]] — The workspace to stay in the loop and on top of agents - sha... 🆕
 - [[bannedbook-fanqiang|fanqiang]] — 翻墙-科学上网 🆕
 - [[basecamp-omarchy|omarchy]] — Beautiful, Modern & Opinionated Linux 🔥
 - [[basedhardware-omi|omi]] — AI that sees your screen, listens to your conversations and ...
@@ -328,7 +329,7 @@
 - [[google-osv-scanner|osv-scanner]] — Vulnerability scanner written in Go which uses the data prov...
 - [[google-research-timesfm|timesfm]] — TimesFM (Time Series Foundation Model) is a pretrained time-... 🔥
 - [[google-skills|skills]] — Agent Skills for Google products and technologies 🔥
-- [[googlechrome-modern-web-guidance-src|modern-web-guidance-src]] — Keep your coding agent up to date with the latest web best p... 🆕
+- [[googlechrome-modern-web-guidance-src|modern-web-guidance-src]] — Keep your coding agent up to date with the latest web best p... 🔥
 - [[googlecloudplatform-generative-ai|generative-ai]] — Sample code and notebooks for Generative AI on Google Cloud,... 🆕
 - [[gorhill-ublock|uBlock]] — uBlock Origin - An efficient blocker for Chromium and Firefo...
 - [[gorvgoyl-clone-wars|Clone-Wars]] — 100+ open-source clones of popular sites like Airbnb, Amazon...
@@ -461,6 +462,7 @@
 - [[lightricks-ltx-2|LTX-2]] — Official Python inference and LoRA trainer package for the L... 🆕
 - [[lightseekorg-tokenspeed|tokenspeed]] — TokenSpeed is a speed-of-light LLM inference engine.
 - [[likec4-likec4|likec4]] — Visualize, collaborate, and evolve the software architecture... 🔥
+- [[likely7-veyra-nrvideo|Veyra-NRVideo]] — Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows vi... 🆕
 - [[lingfengqaq-webnovel-writer|webnovel-writer]] — 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级...
 - [[liquidslr-system-design-notes|system-design-notes]] — Notes of the book System Desgin Interview - An Insider's Gui...
 - [[litu54-devops-interview-guide|DevOps-Interview-Guide]] — DevOps Interview Guide
@@ -472,6 +474,7 @@
 - [[logto-io-logto|logto]] — 🧑‍🚀 Authentication and authorization infrastructure for SaaS...
 - [[lordog-dive-into-llms|dive-into-llms]] — 《动手学大模型Dive into LLMs》系列编程实践教程 🆕
 - [[louis-e-arnis|arnis]] — Generate any location from the real world in Minecraft with ...
+- [[louislam-uptime-kuma|uptime-kuma]] — A fancy self-hosted monitoring tool 🆕
 - [[lsdefine-genericagent|GenericAgent]] — Self-evolving agent: grows skill tree from 3.3K-line seed, a...
 - [[lukilabs-craft-agents-oss|craft-agents-oss]] — No description 🆕
 - [[lum1104-understand-anything|Understand-Anything]] — Graphs that teach > graphs that impress. Turn any code into ... 🔥
@@ -597,7 +600,7 @@
 - [[open-metadata-openmetadata|OpenMetadata]] — OpenMetadata is a unified metadata platform for data discove...
 - [[open-webui-open-webui|open-webui]] — User-friendly AI Interface (Supports Ollama, OpenAI API, ......
 - [[openai-codex-plugin-cc|codex-plugin-cc]] — Use Codex from Claude Code to review code or delegate tasks. 🔥
-- [[openai-codex-security|codex-security]] — OpenAI's Codex Security CLI and TypeScript SDK for finding, ... 🆕
+- [[openai-codex-security|codex-security]] — OpenAI's Codex Security CLI and TypeScript SDK for finding, ... 🔥
 - [[openai-codex|codex]] — Lightweight coding agent that runs in your terminal 🆕
 - [[openai-openai-agents-python|openai-agents-python]] — A lightweight, powerful framework for multi-agent workflows 🆕
 - [[openai-plugins|plugins]] — OpenAI Plugins 🆕
@@ -650,7 +653,7 @@
 - [[plausible-analytics|analytics]] — Open source, privacy-first web analytics. Lightweight, cooki... 🆕
 - [[playcanvas-supersplat|supersplat]] — 3D Gaussian Splat Editor
 - [[pollen-robotics-microduck|microduck]] — A Tiny biped duck robot 🦆 🔥
-- [[pookjw-hermesenabler|HermesEnabler]] — Enable Hermès Watch Faces on any Apple Watch devices 🆕
+- [[pookjw-hermesenabler|HermesEnabler]] — Enable Hermès Watch Faces on any Apple Watch devices
 - [[posthog-posthog|posthog]] — 🦔 PostHog is the leading platform for building self-driving ...
 - [[powershell-powershell|PowerShell]] — PowerShell for every system!
 - [[pppscn-smsforwarder|SmsForwarder]] — 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内...
@@ -673,7 +676,7 @@
 - [[pytorch-pytorch|pytorch]] — Tensors and Dynamic neural networks in Python with strong GP... 🆕
 - [[qbittorrent-qbittorrent|qBittorrent]] — qBittorrent BitTorrent client
 - [[qwenlm-qwen-agent|Qwen-Agent]] — Agent framework and applications built upon Qwen>=3.0, featu... 🆕
-- [[qwenlm-qwen-code|qwen-code]] — An open-source AI coding agent that lives in your terminal. 🆕
+- [[qwenlm-qwen-code|qwen-code]] — An open-source AI coding agent that lives in your terminal.
 - [[radixark-miles|miles]] — Miles is an enterprise-facing reinforcement learning framewo...
 - [[rails-rails|rails]] — Ruby on Rails
 - [[rakyll-hey|hey]] — HTTP load generator, ApacheBench (ab) replacement
@@ -759,7 +762,7 @@
 - [[symfony-symfony|symfony]] — The Symfony PHP framework
 - [[systemd-systemd|systemd]] — The systemd System and Service Manager
 - [[t8y2-dbx|dbx]] — 25 MB lightweight cross-platform database client for 100+ da... 🆕
-- [[tailscale-tailcat|tailcat]] — like netcat, but over Tailscale's data plane, without Tailsc... 🆕
+- [[tailscale-tailcat|tailcat]] — like netcat, but over Tailscale's data plane, without Tailsc...
 - [[tailscale-tailscale|tailscale]] — The easiest, most secure way to use WireGuard and 2FA.
 - [[tailwindlabs-tailwindcss|tailwindcss]] — A utility-first CSS framework for rapid UI development.
 - [[tapxworld-chinatextbook|ChinaTextbook]] — 所有小初高、大学PDF教材。
@@ -802,6 +805,7 @@
 - [[topoteretes-cognee|cognee]] — Cognee is the open-source AI memory platform for agents. Giv...
 - [[tracer-cloud-opensre|opensre]] — Build your own AI SRE agents. The open source toolkit for th...
 - [[tractorjuice-arc-kit|arc-kit]] — Enterprise Architecture Governance & Vendor Procurement Tool...
+- [[tradermonty-claude-trading-skills|claude-trading-skills]] — Claude Code skills for equity investors and traders — market... 🆕
 - [[tradesdontlie-tradingview-mcp|tradingview-mcp]] — AI-assisted TradingView chart analysis — connect Claude Code...
 - [[trimstray-the-book-of-secret-knowledge|the-book-of-secret-knowledge]] — A collection of inspiring lists, manuals, cheatsheets, blogs... 🆕
 - [[truelockmc-streambert|streambert]] — A cross-platform Electron Desktop App to stream and download... 🆕

@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[beenuar-aisoc]] [[addyosmani-agent-skills]] [[openai-codex-security]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]]
+[[alibaba-open-code-review]] [[affaan-m-ecc]] [[zhulinsen-daily_stock_analysis]] [[cloudflare-security-audit-skill]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

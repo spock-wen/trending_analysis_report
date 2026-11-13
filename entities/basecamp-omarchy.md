@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[qwenlm-qwen-code]] [[nvm-sh-nvm]] [[openai-codex-security]] [[alishahryar1-free-claude-code]] [[mattpocock-skills]]
+[[alishahryar1-free-claude-code]] [[nvm-sh-nvm]] [[openai-codex-security]] [[backnotprop-plannotator]] [[donchitos-claude-code-game-studios]]
 
 **所属领域**: [[cli]]
 

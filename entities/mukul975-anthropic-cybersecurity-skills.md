@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[qwenlm-qwen-code]] [[beenuar-aisoc]] [[anthropics-skills]] [[addyosmani-agent-skills]] [[homeassistant-ai-ha-mcp]]
+[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

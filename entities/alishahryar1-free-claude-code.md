@@ -38,7 +38,7 @@ Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harne
 
 ## 相关项目
 
-[[qwenlm-qwen-code]] [[anthropics-skills]] [[addyosmani-agent-skills]] [[scenario-labs-skills]] [[homeassistant-ai-ha-mcp]]
+[[microsoft-vibevoice]] [[alibaba-open-code-review]] [[scenario-labs-skills]] [[anomalyco-hex]] [[homeassistant-ai-ha-mcp]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]] [[audio]]
 

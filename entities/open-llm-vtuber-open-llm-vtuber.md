@@ -37,7 +37,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[anthropics-skills]] [[addyosmani-agent-skills]] [[scenario-labs-skills]] [[homeassistant-ai-ha-mcp]] [[ggml-org-llama.cpp]]
+[[microsoft-vibevoice]] [[alibaba-open-code-review]] [[scenario-labs-skills]] [[anomalyco-hex]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

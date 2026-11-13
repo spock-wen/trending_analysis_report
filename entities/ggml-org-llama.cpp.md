@@ -35,7 +35,7 @@ LLM inference in C/C++
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[alishahryar1-free-claude-code]] [[google-deepmind-mujoco]] [[copilotkit-openbot]] [[microsoft-bitnet]]
+[[alibaba-open-code-review]] [[zhulinsen-daily_stock_analysis]] [[hyprwm-hyprland]] [[likely7-veyra-nrvideo]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[openai-codex-security]] [[prometheus-prometheus]] [[alishahryar1-free-claude-code]] [[etcd-io-etcd]] [[nvidia-auto-ontology]]
+[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]] [[data]]
 

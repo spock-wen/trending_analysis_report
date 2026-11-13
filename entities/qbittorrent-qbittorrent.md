@@ -34,7 +34,7 @@ qBittorrent BitTorrent client
 
 ## 相关项目
 
-[[qwenlm-qwen-code]] [[nvm-sh-nvm]] [[openai-codex-security]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]]
+[[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[hyprwm-hyprland]] [[likely7-veyra-nrvideo]] [[nvm-sh-nvm]]
 
 **所属领域**: [[cli]]
 

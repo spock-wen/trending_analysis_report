@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[ggml-org-llama.cpp]] [[prometheus-prometheus]] [[google-deepmind-mujoco]] [[etcd-io-etcd]]
+[[alibaba-open-code-review]] [[ggml-org-llama.cpp]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[hyprwm-hyprland]]
 
 **所属领域**: [[data]]
 

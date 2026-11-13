@@ -34,7 +34,7 @@ One has no future if one couldn't teach themself.
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]]
+[[alibaba-open-code-review]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[higgsfield-ai-higgsfield]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

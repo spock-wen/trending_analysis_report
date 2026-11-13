@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[zed-industries-zed]] [[qwenlm-qwen-code]] [[nvm-sh-nvm]] [[openai-codex-security]] [[ruvnet-ruview]]
+[[ruvnet-ruview]] [[alishahryar1-free-claude-code]] [[vercel-labs-agent-browser]] [[nvm-sh-nvm]] [[openai-codex-security]]
 
 **所属领域**: [[cli]]
 

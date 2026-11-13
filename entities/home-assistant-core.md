@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[beenuar-aisoc]] [[anthropics-skills]] [[homeassistant-ai-ha-mcp]] [[openai-codex-security]] [[alishahryar1-free-claude-code]]
+[[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]] [[cloudflare-security-audit-skill]] [[openai-codex-security]]
 
 **所属领域**: [[security]]
 

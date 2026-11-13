@@ -36,7 +36,7 @@ A unified library of SOTA model optimization techniques like quantization, disti
 
 ## 相关项目
 
-[[anthropics-skills]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[homeassistant-ai-ha-mcp]] [[xiaolai-the-craft-of-selfteaching]]
+[[alibaba-open-code-review]] [[xiaolai-the-craft-of-selfteaching]] [[ruvnet-ruview]] [[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

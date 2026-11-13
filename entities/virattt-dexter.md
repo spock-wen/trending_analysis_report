@@ -38,7 +38,7 @@ An autonomous agent for deep financial research
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[paperclipai-paperclip]] [[openai-codex-security]] [[ggml-org-llama.cpp]] [[k-dense-ai-scientific-agent-skills]]
+[[alibaba-open-code-review]] [[tauricresearch-tradingagents]] [[affaan-m-ecc]] [[paperclipai-paperclip]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

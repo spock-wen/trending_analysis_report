@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[scenario-labs-skills]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[google-deepmind-mujoco]]
+[[microsoft-vibevoice]] [[alibaba-open-code-review]] [[ggml-org-llama.cpp]] [[scenario-labs-skills]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

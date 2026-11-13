@@ -34,7 +34,7 @@ PowerShell for every system!
 
 ## 相关项目
 
-[[qwenlm-qwen-code]] [[k1tbyte-wand-enhancer]] [[jiafeimiao-k-cat-discimagestudio]] [[nvm-sh-nvm]] [[openai-codex-security]]
+[[k1tbyte-wand-enhancer]] [[sonarr-sonarr]] [[alishahryar1-free-claude-code]] [[jiafeimiao-k-cat-discimagestudio]] [[nvm-sh-nvm]]
 
 **所属领域**: [[cli]]
 

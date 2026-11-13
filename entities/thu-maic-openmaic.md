@@ -38,7 +38,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[qwenlm-qwen-code]] [[xiaolai-the-craft-of-selfteaching]] [[addyosmani-agent-skills]] [[patchy631-ai-engineering-hub]] [[nvm-sh-nvm]]
+[[alibaba-open-code-review]] [[xiaolai-the-craft-of-selfteaching]] [[alishahryar1-free-claude-code]] [[zhulinsen-daily_stock_analysis]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

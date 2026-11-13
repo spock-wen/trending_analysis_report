@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[etcd-io-etcd]] [[strelov1-freehire]]
+[[alibaba-open-code-review]] [[ruvnet-ruview]] [[prometheus-prometheus]] [[louislam-uptime-kuma]] [[anthropics-claude-quickstarts]]
 
 **所属领域**: [[devops]]
 

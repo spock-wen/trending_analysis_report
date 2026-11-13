@@ -36,7 +36,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[jiafeimiao-k-cat-discimagestudio]] [[addyosmani-agent-skills]] [[scenario-labs-skills]] [[openai-codex-security]] [[ggml-org-llama.cpp]]
+[[alibaba-open-code-review]] [[nvidia-auto-ontology]] [[alishahryar1-free-claude-code]] [[zhulinsen-daily_stock_analysis]] [[louislam-uptime-kuma]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

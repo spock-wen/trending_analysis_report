@@ -37,7 +37,7 @@ No description
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[google-deepmind-mujoco]] [[copilotkit-openbot]]
+[[alibaba-open-code-review]] [[ggml-org-llama.cpp]] [[zhulinsen-daily_stock_analysis]] [[hyprwm-hyprland]] [[likely7-veyra-nrvideo]]
 
 **所属领域**: [[ai-agent]]
 

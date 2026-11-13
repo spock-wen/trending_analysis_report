@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[qwenlm-qwen-code]] [[addyosmani-agent-skills]] [[zhulinsen-daily_stock_analysis]] [[nvm-sh-nvm]] [[openai-codex-security]]
+[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

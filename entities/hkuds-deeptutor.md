@@ -38,7 +38,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[anthropics-skills]] [[homeassistant-ai-ha-mcp]] [[openai-codex-security]] [[alishahryar1-free-claude-code]] [[zhulinsen-daily_stock_analysis]]
+[[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[googlechrome-modern-web-guidance-src]]
 
 **所属领域**: [[web]]
 

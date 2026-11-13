@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[openai-codex-security]] [[ggml-org-llama.cpp]] [[nodejs-node]] [[alishahryar1-free-claude-code]]
+[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[louislam-uptime-kuma]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

@@ -35,7 +35,7 @@ An Open Source Machine Learning Framework for Everyone
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[thu-maic-openmaic]] [[ggml-org-llama.cpp]] [[google-deepmind-mujoco]] [[michaelcade-90daysofdevops]]
+[[xiaolai-the-craft-of-selfteaching]] [[ggml-org-llama.cpp]] [[hyprwm-hyprland]] [[likely7-veyra-nrvideo]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[education]]
 

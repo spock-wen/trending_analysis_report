@@ -35,7 +35,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[copilotkit-openbot]] [[ggml-org-llama.cpp]] [[addyosmani-agent-skills]] [[alishahryar1-free-claude-code]]
+[[alibaba-open-code-review]] [[chromedevtools-chrome-devtools-mcp]] [[zhulinsen-daily_stock_analysis]] [[tailscale-tailcat]]
 
 **所属领域**: [[ai-agent]]
 

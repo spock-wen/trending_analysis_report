@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[beenuar-aisoc]] [[openai-codex-security]] [[prometheus-prometheus]] [[alishahryar1-free-claude-code]] [[etcd-io-etcd]]
+[[alibaba-open-code-review]] [[teslamate-org-teslamate]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[prometheus-prometheus]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

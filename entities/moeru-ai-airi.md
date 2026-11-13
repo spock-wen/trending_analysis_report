@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[scenario-labs-skills]] [[openai-codex-security]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]]
+[[microsoft-vibevoice]] [[alibaba-open-code-review]] [[scenario-labs-skills]] [[alishahryar1-free-claude-code]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

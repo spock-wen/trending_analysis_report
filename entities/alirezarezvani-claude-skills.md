@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[qwenlm-qwen-code]] [[obra-superpowers]] [[anthropics-skills]] [[addyosmani-agent-skills]] [[homeassistant-ai-ha-mcp]]
+[[alibaba-open-code-review]] [[hugohe3-ppt-master]] [[tauricresearch-tradingagents]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

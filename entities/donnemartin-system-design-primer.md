@@ -36,7 +36,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[anthropics-skills]] [[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[homeassistant-ai-ha-mcp]] [[alishahryar1-free-claude-code]]
+[[xiaolai-the-craft-of-selfteaching]] [[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]] [[tradermonty-claude-trading-skills]]
 
 **所属领域**: [[education]]
 

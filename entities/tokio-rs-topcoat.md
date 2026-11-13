@@ -35,7 +35,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[zed-industries-zed]] [[openai-codex-security]] [[ruvnet-ruview]] [[alishahryar1-free-claude-code]] [[copilotkit-openbot]]
+[[ruvnet-ruview]] [[alishahryar1-free-claude-code]] [[vercel-labs-agent-browser]] [[chromedevtools-chrome-devtools-mcp]] [[googlechrome-modern-web-guidance-src]]
 
 **所属领域**: [[web]]
 

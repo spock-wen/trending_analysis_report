@@ -34,5 +34,5 @@ freehire — the open-source search engine for job seekers
 
 ## 相关项目
 
-[[etcd-io-etcd]] [[dsx-ai-factory-nvke]] [[prometheus-prometheus]]
+[[alibaba-open-code-review]] [[prometheus-prometheus]] [[tailscale-tailcat]] [[dsx-ai-factory-nvke]]
 

@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[qwenlm-qwen-code]] [[beenuar-aisoc]] [[nvm-sh-nvm]] [[openai-codex-security]] [[ggml-org-llama.cpp]]
+[[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[hyprwm-hyprland]] [[likely7-veyra-nrvideo]]
 
 **所属领域**: [[cli]] [[security]]
 

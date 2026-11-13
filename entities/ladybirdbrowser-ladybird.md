@@ -36,7 +36,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[openai-codex-security]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[google-deepmind-mujoco]] [[copilotkit-openbot]]
+[[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[hyprwm-hyprland]] [[likely7-veyra-nrvideo]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]]
 

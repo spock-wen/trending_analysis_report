@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[addyosmani-agent-skills]] [[scenario-labs-skills]] [[abue-ammar-tinycast]] [[openai-codex-security]]
+[[abue-ammar-tinycast]] [[alibaba-open-code-review]] [[microsoft-vibevoice]] [[xtool-org-xtool]] [[scenario-labs-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

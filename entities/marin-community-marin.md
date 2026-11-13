@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[anthropics-skills]] [[homeassistant-ai-ha-mcp]] [[paperclipai-paperclip]] [[k-dense-ai-scientific-agent-skills]] [[alishahryar1-free-claude-code]]
+[[tauricresearch-tradingagents]] [[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]] [[paperclipai-paperclip]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[science]]
 

@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[zed-industries-zed]] [[qwenlm-qwen-code]] [[nvm-sh-nvm]] [[openai-codex-security]] [[ruvnet-ruview]]
+[[ruvnet-ruview]] [[alishahryar1-free-claude-code]] [[vercel-labs-agent-browser]] [[nvm-sh-nvm]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]] [[cli]]
 

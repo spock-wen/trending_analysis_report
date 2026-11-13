@@ -36,5 +36,5 @@ A context-compression plugin for month-long single sessions (billions of tokens)
 
 ## 相关项目
 
-[[openai-codex-security]] [[copilotkit-openbot]] [[meta-astryx]] [[googlechrome-modern-web-guidance-src]]
+[[chromedevtools-chrome-devtools-mcp]] [[googlechrome-modern-web-guidance-src]] [[openai-codex-security]] [[backnotprop-plannotator]]
 

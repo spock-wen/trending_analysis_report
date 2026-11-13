@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[zed-industries-zed]] [[beenuar-aisoc]] [[addyosmani-agent-skills]] [[openai-codex-security]] [[ruvnet-ruview]]
+[[alibaba-open-code-review]] [[ruvnet-ruview]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[prometheus-prometheus]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

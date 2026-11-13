@@ -34,5 +34,5 @@ the full-stack Vue framework
 
 ## 相关项目
 
-[[openai-codex-security]] [[copilotkit-openbot]] [[meta-astryx]] [[googlechrome-modern-web-guidance-src]]
+[[chromedevtools-chrome-devtools-mcp]] [[googlechrome-modern-web-guidance-src]] [[openai-codex-security]] [[backnotprop-plannotator]]
 

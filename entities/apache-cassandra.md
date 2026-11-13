@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[ruvnet-ruview]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[yuliskov-smarttube]]
+[[alibaba-open-code-review]] [[ruvnet-ruview]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[data]] [[devops]]
 

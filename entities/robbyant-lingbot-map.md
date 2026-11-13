@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-skills]] [[homeassistant-ai-ha-mcp]] [[paperclipai-paperclip]] [[k-dense-ai-scientific-agent-skills]] [[prometheus-prometheus]]
+[[alibaba-open-code-review]] [[tauricresearch-tradingagents]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[homeassistant-ai-ha-mcp]]
 
 **所属领域**: [[data]] [[science]]
 

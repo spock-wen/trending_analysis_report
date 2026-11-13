@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[beenuar-aisoc]] [[anthropics-skills]] [[addyosmani-agent-skills]] [[thu-maic-openmaic]] [[homeassistant-ai-ha-mcp]]
+[[alibaba-open-code-review]] [[xiaolai-the-craft-of-selfteaching]] [[tauricresearch-tradingagents]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

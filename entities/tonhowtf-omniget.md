@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[zed-industries-zed]] [[qwenlm-qwen-code]] [[xiaolai-the-craft-of-selfteaching]] [[thu-maic-openmaic]] [[scenario-labs-skills]]
+[[microsoft-vibevoice]] [[xiaolai-the-craft-of-selfteaching]] [[scenario-labs-skills]] [[ruvnet-ruview]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

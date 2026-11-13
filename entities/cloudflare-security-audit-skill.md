@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[beenuar-aisoc]] [[addyosmani-agent-skills]] [[openai-codex-security]] [[ggml-org-llama.cpp]] [[nodejs-node]]
+[[alibaba-open-code-review]] [[affaan-m-ecc]] [[zhulinsen-daily_stock_analysis]] [[louislam-uptime-kuma]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

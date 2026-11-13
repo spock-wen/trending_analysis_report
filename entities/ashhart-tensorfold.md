@@ -34,7 +34,7 @@ LLM Inference Engine for Metal, CUDA and Vulkan.
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[ghostty-org-ghostty]]
+[[alibaba-open-code-review]] [[ghostty-org-ghostty]] [[lightpanda-io-browser]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]]
 

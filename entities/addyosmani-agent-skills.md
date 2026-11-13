@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[ggml-org-llama.cpp]] [[nodejs-node]] [[alishahryar1-free-claude-code]] [[react-react]] [[copilotkit-openbot]]
+[[alibaba-open-code-review]] [[zhulinsen-daily_stock_analysis]] [[louislam-uptime-kuma]] [[cloudflare-security-audit-skill]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]]
 

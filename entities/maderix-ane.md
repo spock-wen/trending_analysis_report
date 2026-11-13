@@ -34,7 +34,7 @@ Training neural networks on Apple Neural Engine via reverse-engineered private A
 
 ## 相关项目
 
-[[pookjw-hermesenabler]] [[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[copilotkit-openbot]]
+[[alibaba-open-code-review]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[pookjw-hermesenabler]] [[tailscale-tailcat]]
 
 **所属领域**: [[ai-agent]]
 

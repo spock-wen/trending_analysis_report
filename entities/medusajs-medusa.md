@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[obra-superpowers]] [[openai-codex-security]] [[agricidaniel-claude-seo]] [[meta-astryx]] [[hugohe3-ppt-master]]
+[[hugohe3-ppt-master]] [[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]] [[googlechrome-modern-web-guidance-src]] [[openai-codex-security]]
 
 **所属领域**: [[erp]]
 

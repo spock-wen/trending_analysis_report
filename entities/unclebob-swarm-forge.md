@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[penpot-penpot]] [[copilotkit-openbot]]
+[[alibaba-open-code-review]] [[penpot-penpot]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[tailscale-tailcat]]
 
 **所属领域**: [[ai-agent]]
 

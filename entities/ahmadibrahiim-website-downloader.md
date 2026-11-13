@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[averygan-reclip]] [[jiafeimiao-k-cat-discimagestudio]] [[scenario-labs-skills]] [[alchaincyf-huashu-design]] [[openai-codex-security]]
+[[alchaincyf-huashu-design]] [[conardli-garden-skills]] [[alishahryar1-free-claude-code]] [[cathrynlavery-diagram-design]] [[jiafeimiao-k-cat-discimagestudio]]
 
 **所属领域**: [[web]] [[image-gen]]
 

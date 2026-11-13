@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[zed-industries-zed]] [[addyosmani-agent-skills]] [[paperclipai-paperclip]] [[ruvnet-ruview]] [[ggml-org-llama.cpp]]
+[[alibaba-open-code-review]] [[tauricresearch-tradingagents]] [[ruvnet-ruview]] [[affaan-m-ecc]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

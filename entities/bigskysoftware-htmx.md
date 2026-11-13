@@ -34,7 +34,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[openai-codex-security]] [[nodejs-node]] [[alishahryar1-free-claude-code]] [[react-react]]
+[[alishahryar1-free-claude-code]] [[louislam-uptime-kuma]] [[cloudflare-security-audit-skill]] [[chromedevtools-chrome-devtools-mcp]] [[googlechrome-modern-web-guidance-src]]
 
 **所属领域**: [[web]]
 

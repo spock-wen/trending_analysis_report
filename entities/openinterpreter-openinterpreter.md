@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[zed-industries-zed]] [[obra-superpowers]] [[addyosmani-agent-skills]] [[php-php-src]] [[agricidaniel-claude-seo]]
+[[alibaba-open-code-review]] [[hugohe3-ppt-master]] [[ruvnet-ruview]] [[vercel-labs-agent-browser]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

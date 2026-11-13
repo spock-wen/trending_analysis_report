@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[zed-industries-zed]] [[prometheus-prometheus]] [[anthropics-claude-quickstarts]] [[tokio-rs-topcoat]] [[usagi-org-ai-goofish-monitor]]
+[[prometheus-prometheus]] [[vercel-labs-agent-browser]] [[louislam-uptime-kuma]] [[anthropics-claude-quickstarts]] [[tokio-rs-topcoat]]
 
 **所属领域**: [[devops]]
 

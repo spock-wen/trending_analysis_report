@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[jiafeimiao-k-cat-discimagestudio]] [[addyosmani-agent-skills]] [[scenario-labs-skills]] [[openai-codex-security]] [[nodejs-node]]
+[[nvidia-auto-ontology]] [[conardli-garden-skills]] [[alishahryar1-free-claude-code]] [[jiafeimiao-k-cat-discimagestudio]] [[louislam-uptime-kuma]]
 
 **所属领域**: [[web]] [[image-gen]]
 

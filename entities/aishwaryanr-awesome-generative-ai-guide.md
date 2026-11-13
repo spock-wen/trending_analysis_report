@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[averygan-reclip]] [[addyosmani-agent-skills]] [[alchaincyf-huashu-design]] [[paperclipai-paperclip]] [[openai-codex-security]]
+[[alchaincyf-huashu-design]] [[alibaba-open-code-review]] [[tauricresearch-tradingagents]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[qwenlm-qwen-code]] [[xtool-org-xtool]] [[abue-ammar-tinycast]] [[nvm-sh-nvm]] [[openai-codex-security]]
+[[abue-ammar-tinycast]] [[xtool-org-xtool]] [[manaflow-ai-cmux]] [[alishahryar1-free-claude-code]] [[vorssaint-vorssaint-utils]]
 
 **所属领域**: [[cli]]
 

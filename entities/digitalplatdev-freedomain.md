@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[averygan-reclip]] [[addyosmani-agent-skills]] [[alchaincyf-huashu-design]] [[openai-codex-security]] [[ggml-org-llama.cpp]]
+[[alchaincyf-huashu-design]] [[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[cathrynlavery-diagram-design]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

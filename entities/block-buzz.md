@@ -1,20 +1,20 @@
 ---
 title: "block/buzz"
 created: 2026-07-24
-updated: 2026-09-27
-last_active: 2026-09-27
+updated: 2026-11-14
+last_active: 2026-11-14
 type: tool
 tags: [rust]
-sources: [raw/trending/2026-09-27.json]
+sources: [raw/trending/2026-11-14.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-07-24
-last_trending: 2026-09-27
+last_trending: 2026-11-14
 peak_rank: 1
-total_stars: 34815
+total_stars: 37285
 language: "Rust"
 ---
 
@@ -23,13 +23,14 @@ language: "Rust"
 A hive mind communication platform
 
 - 语言: Rust
-- 上榜次数: 4 次
+- 上榜次数: 5 次
 - 连续上榜: 1 天
 - 最高排名: #1
 - 链接: [block/buzz](https://github.com/block/buzz)
 
 ## 上榜历史
 
+  - 2026-11-14: #8, +95⭐
   - 2026-09-27: #8, +367⭐
   - 2026-07-26: #1, +2506⭐
   - 2026-07-25: #1, +3274⭐
@@ -37,5 +38,5 @@ A hive mind communication platform
 
 ## 相关项目
 
-[[zed-industries-zed]] [[ruvnet-ruview]] [[vercel-labs-agent-browser]] [[tokio-rs-topcoat]]
+[[vercel-labs-agent-browser]] [[tokio-rs-topcoat]] [[ruvnet-ruview]]
 

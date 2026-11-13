@@ -34,7 +34,7 @@ DevOps Interview Guide
 
 ## 相关项目
 
-[[prometheus-prometheus]] [[usagi-org-ai-goofish-monitor]] [[ruvnet-ruview]] [[anthropics-claude-quickstarts]]
+[[prometheus-prometheus]] [[louislam-uptime-kuma]] [[ruvnet-ruview]] [[anthropics-claude-quickstarts]]
 
 **所属领域**: [[devops]]
 

@@ -34,7 +34,7 @@ Ruby on Rails
 
 ## 相关项目
 
-[[chatwoot-chatwoot]] [[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[we-promise-sure]]
+[[alibaba-open-code-review]] [[we-promise-sure]] [[docusealco-docuseal]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]]
 

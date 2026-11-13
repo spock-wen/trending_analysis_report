@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[openai-codex-security]] [[alishahryar1-free-claude-code]] [[meta-astryx]] [[copilotkit-openbot]] [[googlechrome-modern-web-guidance-src]]
+[[alishahryar1-free-claude-code]] [[chromedevtools-chrome-devtools-mcp]] [[googlechrome-modern-web-guidance-src]] [[openai-codex-security]] [[backnotprop-plannotator]]
 
 **所属领域**: [[web]]
 

@@ -35,7 +35,7 @@ DeepEP: an efficient expert-parallel communication library
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[moonshotai-flashkda]] [[deepseek-ai-deepgemm]]
+[[alibaba-open-code-review]] [[moonshotai-flashkda]] [[zhulinsen-daily_stock_analysis]] [[deepseek-ai-deepgemm]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]]
 

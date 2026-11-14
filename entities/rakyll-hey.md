@@ -34,7 +34,7 @@ HTTP load generator, ApacheBench (ab) replacement
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[prometheus-prometheus]] [[chromedevtools-chrome-devtools-mcp]] [[googlechrome-modern-web-guidance-src]]
+[[ag-ui-protocol-ag-ui]] [[juliusbrussee-caveman]] [[tencent-loopforge]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]]
 
 **所属领域**: [[web]]
 

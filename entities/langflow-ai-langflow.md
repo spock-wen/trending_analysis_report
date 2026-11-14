@@ -34,7 +34,7 @@ Langflow is a powerful tool for building and deploying AI-powered agents and wor
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[ruvnet-ruview]] [[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]] [[prometheus-prometheus]]
+[[anthropics-claude-quickstarts]] [[tradermonty-claude-trading-skills]] [[prometheus-prometheus]] [[dream-num-univer]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

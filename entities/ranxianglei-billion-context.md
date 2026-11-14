@@ -36,5 +36,5 @@ A context-compression plugin for month-long single sessions (billions of tokens)
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[googlechrome-modern-web-guidance-src]] [[openai-codex-security]] [[backnotprop-plannotator]]
+[[googlechrome-modern-web-guidance-src]] [[qwenlm-qwen-code]] [[chromedevtools-chrome-devtools-mcp]] [[dream-num-univer]]
 

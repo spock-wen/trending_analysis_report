@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[prometheus-prometheus]] [[nvm-sh-nvm]] [[openai-codex-security]]
+[[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[tencent-loopforge]] [[backnotprop-plannotator]] [[openai-codex-security]]
 
 **所属领域**: [[cli]]
 

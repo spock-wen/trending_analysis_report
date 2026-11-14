@@ -34,7 +34,7 @@ Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[tailscale-tailcat]]
+[[dream-num-univer]] [[juliusbrussee-caveman]] [[tencent-loopforge]] [[alibaba-open-code-review]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]]
 

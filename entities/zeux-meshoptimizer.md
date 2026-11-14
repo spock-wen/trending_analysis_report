@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[ggml-org-llama.cpp]] [[hugohe3-ppt-master]] [[obra-superpowers]] [[hyprwm-hyprland]] [[likely7-veyra-nrvideo]]
+[[hugohe3-ppt-master]] [[hyprwm-hyprland]] [[likely7-veyra-nrvideo]] [[google-deepmind-mujoco]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[erp]]
 

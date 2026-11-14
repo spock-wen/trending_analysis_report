@@ -35,7 +35,7 @@ Deliver web apps with confidence 🚀
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[chromedevtools-chrome-devtools-mcp]] [[googlechrome-modern-web-guidance-src]] [[openai-codex-security]] [[backnotprop-plannotator]]
+[[ag-ui-protocol-ag-ui]] [[dream-num-univer]] [[qwenlm-qwen-code]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]]
 
 **所属领域**: [[web]]
 

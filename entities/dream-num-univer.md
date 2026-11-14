@@ -1,44 +1,55 @@
 ---
 title: "dream-num/univer"
 created: 2026-09-23
-updated: 2026-09-30
-last_active: 2026-09-30
-type: tool
-tags: [typescript, ai-agent, rising]
-sources: [raw/trending/2026-09-30.json]
+updated: 2026-11-15
+last_active: 2026-11-15
+type: framework
+tags: [typescript, ai-agent]
+sources: [raw/trending/2026-11-15.json]
 confidence: high
-trending_count_daily: 8
+trending_count_daily: 9
 trending_count_weekly: 1
 trending_count_monthly: 0
-consecutive_days: 8
+consecutive_days: 1
 first_trending: 2026-09-23
-last_trending: 2026-09-30
+last_trending: 2026-11-15
 peak_rank: 3
-total_stars: 21826
+total_stars: 24449
 language: "TypeScript"
+contested: true
 ---
 
 # dream-num/univer
 
-The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
+Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
 
 - 语言: TypeScript
-- 上榜次数: 8 次
-- 连续上榜: 8 天
+- 上榜次数: 9 次
+- 连续上榜: 1 天
 - 最高排名: #3
 - 链接: [dream-num/univer](https://github.com/dream-num/univer)
 
 ## 上榜历史
 
+  - 2026-11-15: #7, +495⭐
   - 2026-09-30: #13, +692⭐
   - 2026-09-29: #8, +1105⭐
   - 2026-09-28: #8, +920⭐
   - 2026-09-27: #4, +845⭐
-  - 2026-09-26: #6, +1048⭐
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[googlechrome-modern-web-guidance-src]] [[openai-codex-security]]
+[[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[googlechrome-modern-web-guidance-src]] [[alibaba-open-code-review]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]]
+
+
+## ⚠️ 描述变更（2026-11-15）
+
+该项目描述近期发生过重大变化，可能存在定位调整：
+
+- **旧描述**: The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
+- **新描述**: Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
+
+> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

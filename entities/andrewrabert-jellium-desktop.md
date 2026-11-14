@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[alishahryar1-free-claude-code]] [[vercel-labs-agent-browser]] [[nvm-sh-nvm]] [[openai-codex-security]]
+[[vercel-labs-agent-browser]] [[qwenlm-qwen-code]] [[openai-codex-security]] [[backnotprop-plannotator]] [[block-buzz]]
 
 **所属领域**: [[cli]]
 

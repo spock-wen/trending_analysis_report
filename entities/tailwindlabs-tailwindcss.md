@@ -36,7 +36,7 @@ A utility-first CSS framework for rapid UI development.
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[googlechrome-modern-web-guidance-src]]
+[[ag-ui-protocol-ag-ui]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[openai-codex-security]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -34,7 +34,7 @@ Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering tech
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[hugohe3-ppt-master]] [[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]] [[prometheus-prometheus]]
+[[hugohe3-ppt-master]] [[tradermonty-claude-trading-skills]] [[ag-ui-protocol-ag-ui]] [[prometheus-prometheus]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[erp]]
 

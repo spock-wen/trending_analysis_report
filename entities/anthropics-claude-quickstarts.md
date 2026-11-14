@@ -36,7 +36,7 @@ A collection of projects designed to help developers quickly get started with bu
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[ruvnet-ruview]] [[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]] [[prometheus-prometheus]]
+[[tradermonty-claude-trading-skills]] [[prometheus-prometheus]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[homeassistant-ai-ha-mcp]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

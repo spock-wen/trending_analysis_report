@@ -38,7 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[zhulinsen-daily_stock_analysis]] [[louislam-uptime-kuma]] [[nvm-sh-nvm]]
+[[dream-num-univer]] [[juliusbrussee-caveman]] [[addyosmani-agent-skills]] [[nodejs-node]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

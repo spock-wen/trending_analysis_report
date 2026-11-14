@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[ruvnet-ruview]] [[prometheus-prometheus]] [[louislam-uptime-kuma]] [[anthropics-claude-quickstarts]]
+[[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[juliusbrussee-caveman]] [[ruvnet-ruview]] [[tencent-loopforge]]
 
 **所属领域**: [[devops]]
 

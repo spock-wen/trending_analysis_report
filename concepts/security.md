@@ -1,7 +1,7 @@
 ---
 title: "security"
 created: 2026-05-26
-updated: 2026-11-14
+updated: 2026-11-15
 type: concept
 tags: [security]
 confidence: medium
@@ -9,15 +9,15 @@ confidence: medium
 
 # security
 
-## 领域项目（共 31 个，今日上榜 1 个）
+## 领域项目（共 32 个，今日上榜 1 个）
 
-[[openai-codex-security]] [[cloudflare-security-audit-skill]] [[beenuar-aisoc]] [[affaan-m-ecc]] [[nvidia-skillspector]] [[snailsploit-claude-red]] [[xerj-org-xerj]] [[nationalsecurityagency-ghidra]] [[zhaoxuya520-reverse-skill]] [[cilium-cilium]] [[reconurge-flowsint]] [[openwhispr-openwhispr]] [[kaifcodec-user-scanner]] [[tashfeenahmed-freellmapi]] [[mukul975-anthropic-cybersecurity-skills]] [[uber-adr]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[home-assistant-core]] [[zackriya-solutions-meetily]] [[veracrypt-veracrypt]] [[keycloak-keycloak]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[itsfatduck-optimizerduck]] [[masterking32-masterdnsvpn]] [[aquasecurity-trivy]] [[cloakhq-cloakbrowser]] [[plausible-analytics]] [[learningcircuit-local-deep-research]] [[affaan-m-everything-claude-code]] [[ed1s0nz-cyberstrikeai]]
+[[martin-olivier-airgorah]] [[openai-codex-security]] [[cloudflare-security-audit-skill]] [[beenuar-aisoc]] [[affaan-m-ecc]] [[nvidia-skillspector]] [[snailsploit-claude-red]] [[xerj-org-xerj]] [[nationalsecurityagency-ghidra]] [[zhaoxuya520-reverse-skill]] [[cilium-cilium]] [[reconurge-flowsint]] [[openwhispr-openwhispr]] [[kaifcodec-user-scanner]] [[tashfeenahmed-freellmapi]] [[mukul975-anthropic-cybersecurity-skills]] [[uber-adr]] [[amnezia-vpn-amnezia-client]] [[automattic-harper]] [[home-assistant-core]] [[zackriya-solutions-meetily]] [[veracrypt-veracrypt]] [[keycloak-keycloak]] [[universal-debloater-alliance-universal-android-debloater-next-generation]] [[itsfatduck-optimizerduck]] [[masterking32-masterdnsvpn]] [[aquasecurity-trivy]] [[cloakhq-cloakbrowser]] [[plausible-analytics]] [[learningcircuit-local-deep-research]] [[affaan-m-everything-claude-code]] [[ed1s0nz-cyberstrikeai]]
 
 ## 语言分布
 
-Python 9个, JavaScript 4个, Rust 4个, Go 4个, TypeScript 3个, Java 2个, PowerShell 1个, C++ 1个, C 1个, C# 1个, Elixir 1个
+Python 9个, Rust 5个, JavaScript 4个, Go 4个, TypeScript 3个, Java 2个, PowerShell 1个, C++ 1个, C 1个, C# 1个, Elixir 1个
 
 ## 趋势观察
 
-31 个 security 领域项目被追踪，其中 1 个今日同时上榜，反映该领域持续活跃。
+32 个 security 领域项目被追踪，其中 1 个今日同时上榜，反映该领域持续活跃。
 

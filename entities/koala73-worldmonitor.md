@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[ruvnet-ruview]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[louislam-uptime-kuma]]
+[[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

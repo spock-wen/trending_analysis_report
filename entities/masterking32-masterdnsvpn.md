@@ -36,7 +36,7 @@ Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[affaan-m-ecc]] [[prometheus-prometheus]] [[cloudflare-security-audit-skill]] [[openai-codex-security]]
+[[juliusbrussee-caveman]] [[cloudflare-security-audit-skill]] [[tencent-loopforge]] [[openai-codex-security]] [[alibaba-open-code-review]]
 
 **所属领域**: [[security]]
 

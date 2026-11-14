@@ -36,7 +36,7 @@ A unified library of SOTA model optimization techniques like quantization, disti
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[xiaolai-the-craft-of-selfteaching]] [[ruvnet-ruview]] [[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]]
+[[anthropics-claude-quickstarts]] [[tradermonty-claude-trading-skills]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[prometheus-prometheus]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

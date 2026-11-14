@@ -37,7 +37,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[conardli-garden-skills]] [[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]] [[prometheus-prometheus]]
+[[tradermonty-claude-trading-skills]] [[prometheus-prometheus]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[jiafeimiao-k-cat-discimagestudio]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

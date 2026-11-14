@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[xiaolai-the-craft-of-selfteaching]] [[alishahryar1-free-claude-code]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]]
+[[ag-ui-protocol-ag-ui]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[dream-num-univer]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

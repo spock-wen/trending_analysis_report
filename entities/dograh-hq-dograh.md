@@ -34,7 +34,7 @@ Open Source Voice Agent Platform
 
 ## 相关项目
 
-[[microsoft-vibevoice]] [[alibaba-open-code-review]] [[scenario-labs-skills]] [[anomalyco-hex]] [[alishahryar1-free-claude-code]]
+[[tradermonty-claude-trading-skills]] [[microsoft-vibevoice]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[homeassistant-ai-ha-mcp]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[xiaolai-the-craft-of-selfteaching]] [[tauricresearch-tradingagents]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]]
+[[dream-num-univer]] [[michaelcade-90daysofdevops]] [[beenuar-aisoc]] [[tradermonty-claude-trading-skills]] [[patchy631-ai-engineering-hub]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

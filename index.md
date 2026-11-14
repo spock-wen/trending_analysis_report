@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-11-14 | 总页面：903
+> 最后更新：2026-11-15 | 总页面：906
 
 ## Entities
 
@@ -23,6 +23,7 @@
 - [[addyosmani-agent-skills|agent-skills]] — Production-grade engineering skills for AI coding agents. 🔥
 - [[affaan-m-ecc|ECC]] — The agent harness performance optimization system. Skills, i... 🆕
 - [[affaan-m-everything-claude-code|everything-claude-code]] — The agent harness performance optimization system. Skills, i...
+- [[ag-ui-protocol-ag-ui|ag-ui]] — AG-UI: the Agent-User Interaction Protocol. Bring Agents int... 🆕
 - [[agalwood-motrix|Motrix]] — A full-featured download manager. 🆕
 - [[agavra-tuicr|tuicr]] — a code review TUI with vim keybindings 🆕
 - [[agegr-pi-web|pi-web]] — Web UI for the pi coding agent 🔥
@@ -45,7 +46,7 @@
 - [[alchaincyf-zhangxuefeng-skill|zhangxuefeng-skill]] — 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 - [[alexsjones-llmfit|llmfit]] — Hundreds of models & providers. One command to find what run...
 - [[alexzhang13-rlm|rlm]] — General plug-and-play inference library for Recursive Langua...
-- [[alibaba-open-code-review|open-code-review]] — Secure, fast, efficient, battle-tested at Alibaba's scale. H...
+- [[alibaba-open-code-review|open-code-review]] — Secure, fast, efficient, battle-tested at Alibaba's scale. H... 🆕
 - [[alibaba-opensandbox|OpenSandbox]] — OpenSandbox is a general-purpose sandbox platform for AI app... 🆕
 - [[alibaba-page-agent|page-agent]] — JavaScript in-page GUI agent. Control web interfaces with na... 🆕
 - [[alibaba-zvec|zvec]] — A lightweight, lightning-fast, in-process vector database
@@ -159,7 +160,7 @@
 - [[chopratejas-headroom|headroom]] — Compress tool outputs, logs, files, and RAG chunks before th... 🔥
 - [[chriskohlhoff-asio|asio]] — Asio C++ Library 🆕
 - [[chrislgarry-apollo-11|Apollo-11]] — Original Apollo 11 Guidance Computer (AGC) source code for t...
-- [[chromedevtools-chrome-devtools-mcp|chrome-devtools-mcp]] — Chrome DevTools for coding agents
+- [[chromedevtools-chrome-devtools-mcp|chrome-devtools-mcp]] — Chrome DevTools for coding agents 🆕
 - [[chthollyphile-folia-major|folia-major]] — 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
 - [[cilium-cilium|cilium]] — eBPF-based Networking, Security, and Observability
 - [[citrolabs-ego-lite|ego-lite]] — The fastest browser for AI agents to run browser automation,... 🆕
@@ -241,7 +242,7 @@
 - [[dotnet-aspnetcore|aspnetcore]] — ASP.NET Core is a cross-platform .NET framework for building...
 - [[dotnet-skills|skills]] — Repository for skills to assist AI coding agents with .NET a...
 - [[dottxt-ai-outlines|outlines]] — Structured Outputs 🆕
-- [[dream-num-univer|univer]] — The Office Harness for AI Agents — Spreadsheets, Docs, Slide... 🔥
+- [[dream-num-univer|univer]] — Build your own AI office with Univer Office SDK. Bring editi...
 - [[dreammis-social-auto-upload|social-auto-upload]] — 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 - [[dsx-ai-factory-nvke|nvke]] — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU ... 🆕
 - [[duartesantos8-opengym|openGym]] — Self-hosted gym & body-weight tracker — plan routines, log w... 🔥
@@ -495,6 +496,7 @@
 - [[manaflow-ai-cmux|cmux]] — Open source Ghostty-based macOS terminal with vertical tabs ...
 - [[marceloprates-prettymaps|prettymaps]] — Draw pretty maps from OpenStreetMap data! Built with osmnx +...
 - [[marin-community-marin|marin]] — Open-source framework for the research and development of fo... 🔥
+- [[martin-olivier-airgorah|airgorah]] — A WiFi security auditing software 🆕
 - [[masterking32-masterdnsvpn|MasterDnsVPN]] — Advanced DNS tunneling VPN for censorship bypass, optimized ... 🔥
 - [[mattermost-mattermost|mattermost]] — Mattermost is an open source platform for secure collaborati... 🆕
 - [[mattpocock-skills|skills]] — Skills for Real Engineers. Straight from my .agents director...
@@ -773,6 +775,7 @@
 - [[telegrammessenger-telegram-ios|Telegram-iOS]] — Telegram-iOS
 - [[tencent-ai-infra-guard|AI-Infra-Guard]] — A full-stack AI Red Teaming platform securing AI ecosystems ...
 - [[tencent-browserskill|BrowserSkill]] — Let AI agents use your real, logged-in browser without inter... 🆕
+- [[tencent-loopforge|LoopForge]] — Self-hosted workflows for coding-agent delivery. Orchestrate... 🆕
 - [[tencent-teamai-cli|teamai-cli]] — Make Every Team AI Native 🆕
 - [[tencent-weknora|WeKnora]] — Open-source LLM knowledge platform: turn raw documents into ... 🆕
 - [[tencentcloud-cubesandbox|CubeSandbox]] — Instant, Concurrent, Secure & Lightweight Sandbox for AI Age... 🆕

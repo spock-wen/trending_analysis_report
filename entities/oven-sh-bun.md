@@ -38,5 +38,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[ruvnet-ruview]] [[tokio-rs-topcoat]] [[block-buzz]]
+[[block-buzz]] [[vercel-labs-agent-browser]] [[martin-olivier-airgorah]] [[tokio-rs-topcoat]]
 

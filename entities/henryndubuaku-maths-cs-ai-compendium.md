@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[tauricresearch-tradingagents]] [[affaan-m-ecc]] [[paperclipai-paperclip]] [[zhulinsen-daily_stock_analysis]]
+[[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[googlechrome-modern-web-guidance-src]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

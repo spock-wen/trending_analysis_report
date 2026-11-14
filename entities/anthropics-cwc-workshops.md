@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]] [[googlechrome-modern-web-guidance-src]] [[openai-codex-security]]
+[[hugohe3-ppt-master]] [[dream-num-univer]] [[qwenlm-qwen-code]] [[googlechrome-modern-web-guidance-src]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[erp]]
 

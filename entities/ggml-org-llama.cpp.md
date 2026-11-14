@@ -35,7 +35,7 @@ LLM inference in C/C++
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[zhulinsen-daily_stock_analysis]] [[hyprwm-hyprland]] [[likely7-veyra-nrvideo]] [[chromedevtools-chrome-devtools-mcp]]
+[[dream-num-univer]] [[juliusbrussee-caveman]] [[hyprwm-hyprland]] [[likely7-veyra-nrvideo]] [[google-deepmind-mujoco]]
 
 **所属领域**: [[ai-agent]]
 

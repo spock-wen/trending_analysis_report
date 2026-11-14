@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[prometheus-prometheus]] [[nvm-sh-nvm]] [[chromedevtools-chrome-devtools-mcp]]
+[[ag-ui-protocol-ag-ui]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[tencent-loopforge]] [[openai-codex-security]]
 
 **所属领域**: [[web]] [[cli]]
 

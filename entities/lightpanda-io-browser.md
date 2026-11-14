@@ -38,7 +38,7 @@ Lightpanda: the headless browser designed for AI and automation
 
 ## 相关项目
 
-[[ashhart-tensorfold]] [[alibaba-open-code-review]] [[ghostty-org-ghostty]] [[alishahryar1-free-claude-code]] [[zhulinsen-daily_stock_analysis]]
+[[ag-ui-protocol-ag-ui]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

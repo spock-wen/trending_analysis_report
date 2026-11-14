@@ -34,5 +34,5 @@ PlayStation 4 emulator for Windows, Linux and macOS written in C++
 
 ## 相关项目
 
-[[hyprwm-hyprland]] [[ggml-org-llama.cpp]] [[google-deepmind-mujoco]] [[likely7-veyra-nrvideo]]
+[[likely7-veyra-nrvideo]] [[google-deepmind-mujoco]] [[hyprwm-hyprland]] [[ggml-org-llama.cpp]]
 

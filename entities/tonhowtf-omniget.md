@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[microsoft-vibevoice]] [[xiaolai-the-craft-of-selfteaching]] [[scenario-labs-skills]] [[ruvnet-ruview]] [[alishahryar1-free-claude-code]]
+[[vercel-labs-agent-browser]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[microsoft-vibevoice]] [[qwenlm-qwen-code]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

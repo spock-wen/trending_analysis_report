@@ -34,7 +34,7 @@ This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is
 
 ## 相关项目
 
-[[lz4-lz4]] [[mpv-player-mpv]] [[alishahryar1-free-claude-code]] [[chromedevtools-chrome-devtools-mcp]] [[googlechrome-modern-web-guidance-src]]
+[[mpv-player-mpv]] [[ag-ui-protocol-ag-ui]] [[openssl-openssl]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]]
 
 **所属领域**: [[web]]
 

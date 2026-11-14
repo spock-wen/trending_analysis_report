@@ -38,7 +38,7 @@ Give your agent CAD superpowers.
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[hugohe3-ppt-master]] [[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]]
+[[hugohe3-ppt-master]] [[tradermonty-claude-trading-skills]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[homeassistant-ai-ha-mcp]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

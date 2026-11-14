@@ -34,7 +34,7 @@ MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VL
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]]
+[[tradermonty-claude-trading-skills]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[ai-agent]]
 

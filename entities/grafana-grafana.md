@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[ruvnet-ruview]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[louislam-uptime-kuma]]
+[[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[dream-num-univer]] [[qwenlm-qwen-code]] [[ruvnet-ruview]]
 
 **所属领域**: [[data]] [[devops]]
 

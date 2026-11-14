@@ -34,7 +34,7 @@ Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, 
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[ruvnet-ruview]] [[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]] [[prometheus-prometheus]]
+[[anthropics-claude-quickstarts]] [[tradermonty-claude-trading-skills]] [[prometheus-prometheus]] [[homeassistant-ai-ha-mcp]] [[ruvnet-ruview]]
 
 **所属领域**: [[data]] [[devops]]
 

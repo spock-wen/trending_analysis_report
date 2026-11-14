@@ -35,7 +35,7 @@ Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[xiaolai-the-craft-of-selfteaching]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[lyogavin-airllm]]
+[[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[lyogavin-airllm]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

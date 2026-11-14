@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[xtool-org-xtool]] [[manaflow-ai-cmux]] [[alishahryar1-free-claude-code]] [[vorssaint-vorssaint-utils]]
+[[abue-ammar-tinycast]] [[alishahryar1-free-claude-code]] [[qwenlm-qwen-code]] [[vorssaint-vorssaint-utils]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[cli]]
 

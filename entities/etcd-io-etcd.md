@@ -34,7 +34,7 @@ Distributed reliable key-value store for the most critical data of a distributed
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[tailscale-tailcat]] [[dsx-ai-factory-nvke]]
+[[prometheus-prometheus]] [[juliusbrussee-caveman]] [[zhulinsen-daily_stock_analysis]] [[tencent-loopforge]] [[alibaba-open-code-review]]
 
 **所属领域**: [[data]]
 

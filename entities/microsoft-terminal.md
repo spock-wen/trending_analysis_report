@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[hyprwm-hyprland]] [[likely7-veyra-nrvideo]] [[nvm-sh-nvm]]
+[[qwenlm-qwen-code]] [[hyprwm-hyprland]] [[likely7-veyra-nrvideo]] [[backnotprop-plannotator]] [[google-deepmind-mujoco]]
 
 **所属领域**: [[cli]]
 

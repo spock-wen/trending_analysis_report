@@ -37,7 +37,7 @@ Deepseek to API: A lightweight, high-performance full-stack middleware convertin
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[nvm-sh-nvm]]
+[[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[tencent-loopforge]] [[backnotprop-plannotator]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

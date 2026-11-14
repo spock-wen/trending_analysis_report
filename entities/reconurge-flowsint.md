@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[chromedevtools-chrome-devtools-mcp]] [[googlechrome-modern-web-guidance-src]] [[openai-codex-security]] [[backnotprop-plannotator]]
+[[dream-num-univer]] [[qwenlm-qwen-code]] [[cloudflare-security-audit-skill]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]]
 
 **所属领域**: [[security]]
 

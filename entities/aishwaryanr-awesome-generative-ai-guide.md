@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[alchaincyf-huashu-design]] [[alibaba-open-code-review]] [[tauricresearch-tradingagents]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]]
+[[ag-ui-protocol-ag-ui]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[cathrynlavery-diagram-design]] [[openai-codex-security]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

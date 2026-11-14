@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[ruvnet-ruview]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[prometheus-prometheus]]
+[[vercel-labs-agent-browser]] [[ag-ui-protocol-ag-ui]] [[prometheus-prometheus]] [[dream-num-univer]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

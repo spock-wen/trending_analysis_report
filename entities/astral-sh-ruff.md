@@ -35,5 +35,5 @@ An extremely fast Python linter and code formatter, written in Rust.
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[ruvnet-ruview]] [[tokio-rs-topcoat]] [[block-buzz]]
+[[block-buzz]] [[vercel-labs-agent-browser]] [[martin-olivier-airgorah]] [[tokio-rs-topcoat]]
 

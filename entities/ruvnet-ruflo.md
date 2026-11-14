@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[xiaolai-the-craft-of-selfteaching]] [[ruvnet-ruview]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]]
+[[anthropics-claude-quickstarts]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[prometheus-prometheus]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

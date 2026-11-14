@@ -35,7 +35,7 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[tauricresearch-tradingagents]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[homeassistant-ai-ha-mcp]]
+[[tradermonty-claude-trading-skills]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[ruvnet-ruview]] [[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]] [[prometheus-prometheus]]
+[[anthropics-claude-quickstarts]] [[tradermonty-claude-trading-skills]] [[ag-ui-protocol-ag-ui]] [[prometheus-prometheus]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

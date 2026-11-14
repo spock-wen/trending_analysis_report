@@ -38,7 +38,7 @@ An agentic skills framework & software development methodology that works.
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[hugohe3-ppt-master]] [[alishahryar1-free-claude-code]] [[zhulinsen-daily_stock_analysis]] [[nvm-sh-nvm]]
+[[hugohe3-ppt-master]] [[mattpocock-skills]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]]
 

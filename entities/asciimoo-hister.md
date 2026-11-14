@@ -36,5 +36,5 @@ Your own search engine
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[prometheus-prometheus]] [[tailscale-tailcat]] [[dsx-ai-factory-nvke]]
+[[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[tencent-loopforge]] [[tailscale-tailcat]]
 

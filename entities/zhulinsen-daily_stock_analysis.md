@@ -37,7 +37,7 @@ LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、�
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]] [[prometheus-prometheus]] [[chromedevtools-chrome-devtools-mcp]]
+[[tradermonty-claude-trading-skills]] [[prometheus-prometheus]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[homeassistant-ai-ha-mcp]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

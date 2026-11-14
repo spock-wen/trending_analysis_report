@@ -38,7 +38,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[alchaincyf-huashu-design]] [[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[cathrynlavery-diagram-design]] [[zhulinsen-daily_stock_analysis]]
+[[ag-ui-protocol-ag-ui]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[cathrynlavery-diagram-design]] [[openai-codex-security]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[conardli-garden-skills]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[jiafeimiao-k-cat-discimagestudio]]
+[[prometheus-prometheus]] [[dream-num-univer]] [[jiafeimiao-k-cat-discimagestudio]] [[qwenlm-qwen-code]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[data]] [[image-gen]]
 

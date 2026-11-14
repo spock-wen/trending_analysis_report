@@ -35,7 +35,7 @@ The Prometheus monitoring system and time series database.
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[ruvnet-ruview]] [[zhulinsen-daily_stock_analysis]] [[louislam-uptime-kuma]] [[anthropics-claude-quickstarts]]
+[[anthropics-claude-quickstarts]] [[juliusbrussee-caveman]] [[ruvnet-ruview]] [[zhulinsen-daily_stock_analysis]] [[tencent-loopforge]]
 
 **所属领域**: [[data]] [[devops]]
 

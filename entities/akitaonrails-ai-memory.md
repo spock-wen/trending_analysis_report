@@ -38,7 +38,7 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[ruvnet-ruview]] [[alishahryar1-free-claude-code]] [[vercel-labs-agent-browser]] [[zhulinsen-daily_stock_analysis]]
+[[vercel-labs-agent-browser]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[openai-codex-security]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

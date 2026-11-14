@@ -38,7 +38,7 @@ Context window optimization for AI coding agents. Sandboxes tool output (98% red
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[googlechrome-modern-web-guidance-src]] [[openai-codex-security]]
+[[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[googlechrome-modern-web-guidance-src]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

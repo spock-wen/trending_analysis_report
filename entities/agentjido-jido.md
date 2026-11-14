@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[teslamate-org-teslamate]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[tailscale-tailcat]]
+[[dream-num-univer]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[chromedevtools-chrome-devtools-mcp]] [[plausible-analytics]]
 
 **所属领域**: [[ai-agent]]
 

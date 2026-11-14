@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[alchaincyf-huashu-design]] [[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[cathrynlavery-diagram-design]] [[prometheus-prometheus]]
+[[ag-ui-protocol-ag-ui]] [[prometheus-prometheus]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

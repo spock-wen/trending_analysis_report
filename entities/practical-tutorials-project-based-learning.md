@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]] [[tradermonty-claude-trading-skills]]
+[[tradermonty-claude-trading-skills]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[homeassistant-ai-ha-mcp]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[education]]
 

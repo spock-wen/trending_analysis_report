@@ -38,7 +38,7 @@ Hindsight: Agent Memory That Learns
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[xiaolai-the-craft-of-selfteaching]] [[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]]
+[[tradermonty-claude-trading-skills]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[dream-num-univer]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

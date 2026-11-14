@@ -38,7 +38,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[microsoft-vibevoice]] [[conardli-garden-skills]] [[scenario-labs-skills]] [[anomalyco-hex]] [[alishahryar1-free-claude-code]]
+[[tradermonty-claude-trading-skills]] [[microsoft-vibevoice]] [[jiafeimiao-k-cat-discimagestudio]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

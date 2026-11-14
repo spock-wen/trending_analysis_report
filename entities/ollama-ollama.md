@@ -34,7 +34,7 @@ Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemm
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[tailscale-tailcat]]
+[[dream-num-univer]] [[juliusbrussee-caveman]] [[tencent-loopforge]] [[alibaba-open-code-review]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]]
 

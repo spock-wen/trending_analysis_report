@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[conardli-garden-skills]] [[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]] [[jiafeimiao-k-cat-discimagestudio]]
+[[tradermonty-claude-trading-skills]] [[ag-ui-protocol-ag-ui]] [[jiafeimiao-k-cat-discimagestudio]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[web]] [[image-gen]]
 

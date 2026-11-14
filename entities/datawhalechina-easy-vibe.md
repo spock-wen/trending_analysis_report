@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[xiaolai-the-craft-of-selfteaching]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[louislam-uptime-kuma]]
+[[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[prometheus-prometheus]] [[addyosmani-agent-skills]] [[nodejs-node]]
 
 **所属领域**: [[data]] [[education]]
 

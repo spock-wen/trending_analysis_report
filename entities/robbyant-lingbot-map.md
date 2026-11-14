@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[tauricresearch-tradingagents]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[homeassistant-ai-ha-mcp]]
+[[tradermonty-claude-trading-skills]] [[prometheus-prometheus]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]] [[paperclipai-paperclip]]
 
 **所属领域**: [[data]] [[science]]
 

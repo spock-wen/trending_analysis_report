@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[hyprwm-hyprland]] [[likely7-veyra-nrvideo]] [[nvm-sh-nvm]]
+[[ag-ui-protocol-ag-ui]] [[qwenlm-qwen-code]] [[hyprwm-hyprland]] [[likely7-veyra-nrvideo]] [[openai-codex-security]]
 
 **所属领域**: [[web]] [[cli]]
 

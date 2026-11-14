@@ -34,7 +34,7 @@ language: "Zig"
 
 ## 相关项目
 
-[[ashhart-tensorfold]] [[lightpanda-io-browser]] [[alishahryar1-free-claude-code]] [[nvm-sh-nvm]] [[openai-codex-security]]
+[[lightpanda-io-browser]] [[qwenlm-qwen-code]] [[openai-codex-security]] [[backnotprop-plannotator]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[cli]]
 

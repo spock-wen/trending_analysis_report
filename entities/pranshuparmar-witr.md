@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[nvm-sh-nvm]]
+[[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[tencent-loopforge]] [[backnotprop-plannotator]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

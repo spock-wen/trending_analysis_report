@@ -35,7 +35,7 @@ AI-assisted TradingView chart analysis — connect Claude Code to your TradingVi
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[zhulinsen-daily_stock_analysis]] [[louislam-uptime-kuma]] [[cloudflare-security-audit-skill]] [[chromedevtools-chrome-devtools-mcp]]
+[[dream-num-univer]] [[juliusbrussee-caveman]] [[addyosmani-agent-skills]] [[nodejs-node]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[microsoft-vibevoice]] [[alibaba-open-code-review]] [[conardli-garden-skills]] [[scenario-labs-skills]] [[anomalyco-hex]]
+[[tradermonty-claude-trading-skills]] [[microsoft-vibevoice]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[jiafeimiao-k-cat-discimagestudio]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

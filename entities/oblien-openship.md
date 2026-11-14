@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[prometheus-prometheus]] [[louislam-uptime-kuma]] [[anthropics-claude-quickstarts]] [[chromedevtools-chrome-devtools-mcp]]
+[[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[dream-num-univer]] [[qwenlm-qwen-code]] [[ruvnet-ruview]]
 
 **所属领域**: [[devops]]
 

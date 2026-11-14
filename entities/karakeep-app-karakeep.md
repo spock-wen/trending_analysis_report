@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[conardli-garden-skills]] [[zhulinsen-daily_stock_analysis]] [[jiafeimiao-k-cat-discimagestudio]] [[likely7-veyra-nrvideo]]
+[[dream-num-univer]] [[juliusbrussee-caveman]] [[jiafeimiao-k-cat-discimagestudio]] [[qwenlm-qwen-code]] [[likely7-veyra-nrvideo]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

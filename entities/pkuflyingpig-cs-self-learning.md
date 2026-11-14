@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[alchaincyf-huashu-design]] [[xiaolai-the-craft-of-selfteaching]] [[alishahryar1-free-claude-code]] [[cathrynlavery-diagram-design]] [[chromedevtools-chrome-devtools-mcp]]
+[[ag-ui-protocol-ag-ui]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[cathrynlavery-diagram-design]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[web]] [[education]]
 

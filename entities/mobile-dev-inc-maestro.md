@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[mahlernim-google-timeline-visualizer]] [[bannedbook-fanqiang]] [[alishahryar1-free-claude-code]] [[zhulinsen-daily_stock_analysis]]
+[[android-skills]] [[ag-ui-protocol-ag-ui]] [[bannedbook-fanqiang]] [[dream-num-univer]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

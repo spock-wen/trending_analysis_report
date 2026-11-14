@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[zhulinsen-daily_stock_analysis]] [[nvm-sh-nvm]] [[chromedevtools-chrome-devtools-mcp]]
+[[mattpocock-skills]] [[ag-ui-protocol-ag-ui]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[tauricresearch-tradingagents]] [[ruvnet-ruview]] [[affaan-m-ecc]] [[paperclipai-paperclip]]
+[[vercel-labs-agent-browser]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[block-buzz]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

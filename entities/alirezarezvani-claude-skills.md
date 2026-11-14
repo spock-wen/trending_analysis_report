@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[hugohe3-ppt-master]] [[tauricresearch-tradingagents]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]]
+[[dream-num-univer]] [[qwenlm-qwen-code]] [[obra-superpowers]] [[hugohe3-ppt-master]] [[tradermonty-claude-trading-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

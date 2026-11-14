@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[lz4-lz4]] [[alibaba-open-code-review]] [[mpv-player-mpv]] [[alishahryar1-free-claude-code]] [[zhulinsen-daily_stock_analysis]]
+[[mpv-player-mpv]] [[openssl-openssl]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

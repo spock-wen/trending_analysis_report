@@ -34,7 +34,7 @@ Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]]
+[[tradermonty-claude-trading-skills]] [[prometheus-prometheus]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]] [[alibaba-open-code-review]]
 
 **所属领域**: [[data]]
 

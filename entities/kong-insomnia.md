@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[nvm-sh-nvm]] [[chromedevtools-chrome-devtools-mcp]] [[googlechrome-modern-web-guidance-src]] [[openai-codex-security]]
+[[ag-ui-protocol-ag-ui]] [[dream-num-univer]] [[qwenlm-qwen-code]] [[openai-codex-security]] [[backnotprop-plannotator]]
 
 **所属领域**: [[web]] [[cli]]
 

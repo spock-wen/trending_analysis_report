@@ -38,7 +38,7 @@ Local-first code intelligence graph for MCP and CLI. Builds a persistent map of 
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]] [[nvm-sh-nvm]]
+[[tradermonty-claude-trading-skills]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[homeassistant-ai-ha-mcp]] [[qwenlm-qwen-code]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

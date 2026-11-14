@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[microsoft-vibevoice]] [[alibaba-open-code-review]] [[scenario-labs-skills]] [[alishahryar1-free-claude-code]] [[zhulinsen-daily_stock_analysis]]
+[[microsoft-vibevoice]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[googlechrome-modern-web-guidance-src]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

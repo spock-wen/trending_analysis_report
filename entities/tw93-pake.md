@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[alishahryar1-free-claude-code]] [[vercel-labs-agent-browser]] [[nvm-sh-nvm]] [[chromedevtools-chrome-devtools-mcp]]
+[[vercel-labs-agent-browser]] [[ag-ui-protocol-ag-ui]] [[qwenlm-qwen-code]] [[openai-codex-security]] [[backnotprop-plannotator]]
 
 **所属领域**: [[web]] [[cli]]
 

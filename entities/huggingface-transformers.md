@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[microsoft-vibevoice]] [[alibaba-open-code-review]] [[xiaolai-the-craft-of-selfteaching]] [[scenario-labs-skills]] [[anomalyco-hex]]
+[[tradermonty-claude-trading-skills]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[microsoft-vibevoice]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

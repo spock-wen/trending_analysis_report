@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[lz4-lz4]] [[alibaba-open-code-review]] [[mpv-player-mpv]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]]
+[[mpv-player-mpv]] [[openssl-openssl]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

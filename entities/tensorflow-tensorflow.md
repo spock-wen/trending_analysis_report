@@ -35,7 +35,7 @@ An Open Source Machine Learning Framework for Everyone
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[ggml-org-llama.cpp]] [[hyprwm-hyprland]] [[likely7-veyra-nrvideo]] [[michaelcade-90daysofdevops]]
+[[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[hyprwm-hyprland]] [[michaelcade-90daysofdevops]] [[likely7-veyra-nrvideo]]
 
 **所属领域**: [[education]]
 

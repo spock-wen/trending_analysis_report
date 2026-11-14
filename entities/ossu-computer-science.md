@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[alchaincyf-huashu-design]] [[alishahryar1-free-claude-code]] [[cathrynlavery-diagram-design]] [[chromedevtools-chrome-devtools-mcp]] [[averygan-reclip]]
+[[ag-ui-protocol-ag-ui]] [[cathrynlavery-diagram-design]] [[openai-codex-security]] [[averygan-reclip]] [[googlechrome-modern-web-guidance-src]]
 
 **所属领域**: [[web]]
 

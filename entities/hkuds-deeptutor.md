@@ -38,7 +38,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[googlechrome-modern-web-guidance-src]]
+[[tradermonty-claude-trading-skills]] [[ag-ui-protocol-ag-ui]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]] [[openai-codex-security]]
 
 **所属领域**: [[web]]
 

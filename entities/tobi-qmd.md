@@ -35,7 +35,7 @@ mini cli search engine for your docs, knowledge bases, meeting notes, whatever. 
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[nvm-sh-nvm]] [[chromedevtools-chrome-devtools-mcp]] [[googlechrome-modern-web-guidance-src]] [[openai-codex-security]]
+[[dream-num-univer]] [[qwenlm-qwen-code]] [[openai-codex-security]] [[backnotprop-plannotator]] [[googlechrome-modern-web-guidance-src]]
 
 **所属领域**: [[cli]]
 

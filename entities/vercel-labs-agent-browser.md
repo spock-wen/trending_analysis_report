@@ -38,7 +38,7 @@ Browser automation CLI for AI agents
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[ruvnet-ruview]] [[alishahryar1-free-claude-code]] [[zhulinsen-daily_stock_analysis]] [[nvm-sh-nvm]]
+[[ag-ui-protocol-ag-ui]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[openai-codex-security]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

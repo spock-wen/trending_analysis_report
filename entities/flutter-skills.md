@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[flutter-flutter]] [[localsend-localsend]] [[alibaba-open-code-review]] [[zhulinsen-daily_stock_analysis]] [[chen08209-flclash]]
+[[dream-num-univer]] [[juliusbrussee-caveman]] [[localsend-localsend]] [[flutter-flutter]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]]
 

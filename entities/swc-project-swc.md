@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[alishahryar1-free-claude-code]] [[vercel-labs-agent-browser]] [[chromedevtools-chrome-devtools-mcp]] [[googlechrome-modern-web-guidance-src]]
+[[vercel-labs-agent-browser]] [[ag-ui-protocol-ag-ui]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[block-buzz]]
 
 **所属领域**: [[web]]
 

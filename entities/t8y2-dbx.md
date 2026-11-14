@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[ruvnet-ruview]] [[alishahryar1-free-claude-code]] [[prometheus-prometheus]] [[vercel-labs-agent-browser]]
+[[vercel-labs-agent-browser]] [[prometheus-prometheus]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

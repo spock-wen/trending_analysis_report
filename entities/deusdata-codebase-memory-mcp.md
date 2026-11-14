@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[lz4-lz4]] [[alibaba-open-code-review]] [[mpv-player-mpv]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]]
+[[mpv-player-mpv]] [[openssl-openssl]] [[dream-num-univer]] [[prometheus-prometheus]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[mahlernim-google-timeline-visualizer]] [[bannedbook-fanqiang]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]]
+[[android-skills]] [[bannedbook-fanqiang]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[mahlernim-google-timeline-visualizer]]
 
 **所属领域**: [[ai-agent]]
 

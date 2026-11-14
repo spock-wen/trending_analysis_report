@@ -34,7 +34,7 @@ VSCode theme based off the easemate IDE and Jetbrains islands theme
 
 ## 相关项目
 
-[[actions-runner-images]] [[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[raphire-win11debloat]] [[zhulinsen-daily_stock_analysis]]
+[[raphire-win11debloat]] [[dream-num-univer]] [[zhaoxuya520-reverse-skill]] [[actions-runner-images]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

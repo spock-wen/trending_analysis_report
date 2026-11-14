@@ -34,7 +34,7 @@ SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[chromedevtools-chrome-devtools-mcp]] [[zhulinsen-daily_stock_analysis]] [[tailscale-tailcat]]
+[[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[chromedevtools-chrome-devtools-mcp]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

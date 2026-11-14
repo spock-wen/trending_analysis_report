@@ -38,7 +38,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[nationalsecurityagency-ghidra]] [[thealgorithms-java]]
+[[prometheus-prometheus]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[floci-io-floci]] [[yuliskov-smarttube]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

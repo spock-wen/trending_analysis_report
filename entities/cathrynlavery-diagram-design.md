@@ -38,7 +38,7 @@ Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory
 
 ## 相关项目
 
-[[alchaincyf-huashu-design]] [[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]]
+[[ag-ui-protocol-ag-ui]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[openai-codex-security]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -1,20 +1,20 @@
 ---
 title: "alibaba/open-code-review"
 created: 2026-07-24
-updated: 2026-11-14
-last_active: 2026-11-14
+updated: 2026-11-15
+last_active: 2026-11-15
 type: tool
 tags: [go, ai-agent, data]
-sources: [raw/trending/2026-11-14.json]
+sources: [raw/trending/2026-11-15.json]
 confidence: high
-trending_count_daily: 12
+trending_count_daily: 13
 trending_count_weekly: 2
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-07-24
-last_trending: 2026-11-14
+last_trending: 2026-11-15
 peak_rank: 1
-total_stars: 50560
+total_stars: 51386
 language: "Go"
 ---
 
@@ -23,22 +23,22 @@ language: "Go"
 Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 
 - 语言: Go
-- 上榜次数: 12 次
-- 连续上榜: 1 天
+- 上榜次数: 13 次
+- 连续上榜: 2 天
 - 最高排名: #1
 - 链接: [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
 
 ## 上榜历史
 
+  - 2026-11-15: #5, +897⭐
   - 2026-11-14: #1, +206⭐
   - 2026-10-10: #5, +323⭐
   - 2026-09-19: #3, +2724⭐
   - 2026-09-18: #1, +3290⭐
-  - 2026-09-17: #1, +3215⭐
 
 ## 相关项目
 
-[[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[tailscale-tailcat]] [[dsx-ai-factory-nvke]]
+[[prometheus-prometheus]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[tencent-loopforge]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

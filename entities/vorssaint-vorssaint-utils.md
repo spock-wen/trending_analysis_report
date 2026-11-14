@@ -34,7 +34,7 @@ Free and open-source macOS menu bar toolkit.
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[alibaba-open-code-review]] [[xtool-org-xtool]] [[manaflow-ai-cmux]] [[zhulinsen-daily_stock_analysis]]
+[[abue-ammar-tinycast]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[manaflow-ai-cmux]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

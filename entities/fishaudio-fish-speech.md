@@ -37,7 +37,7 @@ SOTA Open Source TTS
 
 ## 相关项目
 
-[[microsoft-vibevoice]] [[scenario-labs-skills]] [[anomalyco-hex]] [[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]]
+[[tradermonty-claude-trading-skills]] [[microsoft-vibevoice]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]] [[anomalyco-hex]]
 
 **所属领域**: [[audio]]
 

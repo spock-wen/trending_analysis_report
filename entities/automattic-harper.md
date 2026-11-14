@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[ruvnet-ruview]] [[vercel-labs-agent-browser]] [[cloudflare-security-audit-skill]] [[openai-codex-security]] [[tokio-rs-topcoat]]
+[[vercel-labs-agent-browser]] [[cloudflare-security-audit-skill]] [[openai-codex-security]] [[block-buzz]] [[tokio-rs-topcoat]]
 
 **所属领域**: [[security]]
 

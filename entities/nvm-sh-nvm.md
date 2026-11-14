@@ -37,7 +37,7 @@ Node Version Manager - POSIX-compliant bash script to manage multiple active nod
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[openai-codex-security]] [[backnotprop-plannotator]] [[donchitos-claude-code-game-studios]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[qwenlm-qwen-code]] [[michaelcade-90daysofdevops]] [[donchitos-claude-code-game-studios]] [[backnotprop-plannotator]]
 
 **所属领域**: [[cli]]
 

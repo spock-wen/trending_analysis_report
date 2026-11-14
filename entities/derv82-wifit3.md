@@ -34,5 +34,5 @@ Wifite but USB-only & cross-platform.
 
 ## 相关项目
 
-[[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]] [[alishahryar1-free-claude-code]] [[tradermonty-claude-trading-skills]]
+[[zhulinsen-daily_stock_analysis]] [[tradermonty-claude-trading-skills]] [[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]]
 

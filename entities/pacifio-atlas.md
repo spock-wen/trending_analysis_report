@@ -35,7 +35,7 @@ Source control for agents. Use multiple coding agents, track their changes and q
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[ruvnet-ruview]] [[vercel-labs-agent-browser]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]]
+[[vercel-labs-agent-browser]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[block-buzz]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

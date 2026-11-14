@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[mahlernim-google-timeline-visualizer]] [[bannedbook-fanqiang]] [[alishahryar1-free-claude-code]] [[embabel-embabel-agent]] [[chromedevtools-chrome-devtools-mcp]]
+[[android-skills]] [[ag-ui-protocol-ag-ui]] [[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]] [[openai-codex-security]]
 
 **所属领域**: [[web]]
 

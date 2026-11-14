@@ -34,7 +34,7 @@ This repository started out as a learning in public project for myself and has n
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[ruvnet-ruview]] [[alishahryar1-free-claude-code]] [[prometheus-prometheus]] [[louislam-uptime-kuma]]
+[[anthropics-claude-quickstarts]] [[mattpocock-skills]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[prometheus-prometheus]]
 
 **所属领域**: [[cli]] [[devops]] [[education]]
 

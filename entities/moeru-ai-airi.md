@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[microsoft-vibevoice]] [[alibaba-open-code-review]] [[scenario-labs-skills]] [[alishahryar1-free-claude-code]] [[zhulinsen-daily_stock_analysis]]
+[[ag-ui-protocol-ag-ui]] [[microsoft-vibevoice]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

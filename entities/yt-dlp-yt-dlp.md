@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[microsoft-vibevoice]] [[scenario-labs-skills]] [[anomalyco-hex]] [[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]]
+[[tradermonty-claude-trading-skills]] [[microsoft-vibevoice]] [[homeassistant-ai-ha-mcp]] [[qwenlm-qwen-code]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[cli]] [[audio]]
 

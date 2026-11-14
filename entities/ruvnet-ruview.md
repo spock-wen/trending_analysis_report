@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[prometheus-prometheus]] [[vercel-labs-agent-browser]] [[louislam-uptime-kuma]] [[anthropics-claude-quickstarts]] [[tokio-rs-topcoat]]
+[[anthropics-claude-quickstarts]] [[vercel-labs-agent-browser]] [[prometheus-prometheus]] [[block-buzz]] [[tokio-rs-topcoat]]
 
 **所属领域**: [[devops]]
 

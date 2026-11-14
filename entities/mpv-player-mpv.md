@@ -34,7 +34,7 @@ language: "C"
 
 ## 相关项目
 
-[[lz4-lz4]] [[alishahryar1-free-claude-code]] [[nvm-sh-nvm]] [[openai-codex-security]] [[backnotprop-plannotator]]
+[[openssl-openssl]] [[qwenlm-qwen-code]] [[openai-codex-security]] [[backnotprop-plannotator]] [[lz4-lz4]]
 
 **所属领域**: [[cli]]
 

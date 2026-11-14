@@ -34,7 +34,7 @@ WinUI app for building smaller, customized Windows 11 images.
 
 ## 相关项目
 
-[[k1tbyte-wand-enhancer]] [[conardli-garden-skills]] [[sonarr-sonarr]] [[jiafeimiao-k-cat-discimagestudio]] [[likely7-veyra-nrvideo]]
+[[jiafeimiao-k-cat-discimagestudio]] [[sonarr-sonarr]] [[likely7-veyra-nrvideo]] [[conardli-garden-skills]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[image-gen]]
 

@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[nationalsecurityagency-ghidra]]
+[[prometheus-prometheus]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[floci-io-floci]] [[yuliskov-smarttube]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

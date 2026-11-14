@@ -34,7 +34,7 @@ DevOps Interview Guide
 
 ## 相关项目
 
-[[prometheus-prometheus]] [[louislam-uptime-kuma]] [[ruvnet-ruview]] [[anthropics-claude-quickstarts]]
+[[anthropics-claude-quickstarts]] [[louislam-uptime-kuma]] [[prometheus-prometheus]] [[ruvnet-ruview]]
 
 **所属领域**: [[devops]]
 

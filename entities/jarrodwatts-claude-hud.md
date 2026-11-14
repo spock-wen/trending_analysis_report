@@ -37,7 +37,7 @@ A Claude Code plugin that shows what's happening - context usage, active tools, 
 
 ## 相关项目
 
-[[microsoft-vibevoice]] [[alibaba-open-code-review]] [[scenario-labs-skills]] [[alishahryar1-free-claude-code]] [[zhulinsen-daily_stock_analysis]]
+[[microsoft-vibevoice]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[addyosmani-agent-skills]] [[nodejs-node]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]] [[nvm-sh-nvm]] [[openai-codex-security]]
+[[tradermonty-claude-trading-skills]] [[homeassistant-ai-ha-mcp]] [[qwenlm-qwen-code]] [[zhulinsen-daily_stock_analysis]] [[backnotprop-plannotator]]
 
 **所属领域**: [[cli]]
 

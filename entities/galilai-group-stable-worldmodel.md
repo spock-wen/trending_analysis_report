@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[conardli-garden-skills]] [[tauricresearch-tradingagents]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]]
+[[tradermonty-claude-trading-skills]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[jiafeimiao-k-cat-discimagestudio]] [[homeassistant-ai-ha-mcp]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

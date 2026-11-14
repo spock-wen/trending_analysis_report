@@ -36,5 +36,5 @@ Jenkins automation server
 
 ## 相关项目
 
-[[thealgorithms-java]] [[floci-io-floci]] [[nationalsecurityagency-ghidra]] [[yuliskov-smarttube]]
+[[nationalsecurityagency-ghidra]] [[floci-io-floci]] [[yuliskov-smarttube]] [[thealgorithms-java]]
 

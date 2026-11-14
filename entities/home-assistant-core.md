@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]] [[cloudflare-security-audit-skill]] [[openai-codex-security]]
+[[tradermonty-claude-trading-skills]] [[homeassistant-ai-ha-mcp]] [[cloudflare-security-audit-skill]] [[zhulinsen-daily_stock_analysis]] [[openai-codex-security]]
 
 **所属领域**: [[security]]
 

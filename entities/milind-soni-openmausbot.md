@@ -38,5 +38,5 @@ Open-source Grok Bot alternative with a virtual machine that bots can use
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[googlechrome-modern-web-guidance-src]] [[openai-codex-security]] [[backnotprop-plannotator]]
+[[googlechrome-modern-web-guidance-src]] [[qwenlm-qwen-code]] [[chromedevtools-chrome-devtools-mcp]] [[dream-num-univer]]
 

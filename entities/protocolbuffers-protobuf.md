@@ -37,7 +37,7 @@ Protocol Buffers - Google's data interchange format
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[ggml-org-llama.cpp]] [[prometheus-prometheus]] [[zhulinsen-daily_stock_analysis]] [[hyprwm-hyprland]]
+[[prometheus-prometheus]] [[hyprwm-hyprland]] [[likely7-veyra-nrvideo]] [[zhulinsen-daily_stock_analysis]] [[google-deepmind-mujoco]]
 
 **所属领域**: [[data]]
 

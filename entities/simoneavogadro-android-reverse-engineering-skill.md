@@ -35,7 +35,7 @@ Claude Code skill to support Android app's reverse engineering
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[zhulinsen-daily_stock_analysis]] [[nvm-sh-nvm]] [[chromedevtools-chrome-devtools-mcp]]
+[[mattpocock-skills]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[nvm-sh-nvm]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

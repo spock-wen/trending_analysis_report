@@ -38,17 +38,7 @@ Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harne
 
 ## 相关项目
 
-[[microsoft-vibevoice]] [[alibaba-open-code-review]] [[scenario-labs-skills]] [[anomalyco-hex]] [[homeassistant-ai-ha-mcp]]
+[[tradermonty-claude-trading-skills]] [[ag-ui-protocol-ag-ui]] [[microsoft-vibevoice]] [[dream-num-univer]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]] [[audio]]
-
-
-## ⚠️ 描述变更（2026-11-13）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
-- **新描述**: Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

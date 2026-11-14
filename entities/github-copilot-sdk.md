@@ -38,7 +38,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[zhulinsen-daily_stock_analysis]] [[nationalsecurityagency-ghidra]] [[thealgorithms-java]] [[chromedevtools-chrome-devtools-mcp]]
+[[dream-num-univer]] [[juliusbrussee-caveman]] [[floci-io-floci]] [[yuliskov-smarttube]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[conardli-garden-skills]] [[alishahryar1-free-claude-code]] [[jiafeimiao-k-cat-discimagestudio]] [[likely7-veyra-nrvideo]] [[chromedevtools-chrome-devtools-mcp]]
+[[ag-ui-protocol-ag-ui]] [[dream-num-univer]] [[jiafeimiao-k-cat-discimagestudio]] [[qwenlm-qwen-code]] [[openai-codex-security]]
 
 **所属领域**: [[web]] [[image-gen]]
 

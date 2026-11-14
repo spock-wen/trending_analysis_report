@@ -37,7 +37,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[nvidia-auto-ontology]] [[conardli-garden-skills]] [[zhulinsen-daily_stock_analysis]] [[louislam-uptime-kuma]]
+[[dream-num-univer]] [[juliusbrussee-caveman]] [[jiafeimiao-k-cat-discimagestudio]] [[addyosmani-agent-skills]] [[nodejs-node]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

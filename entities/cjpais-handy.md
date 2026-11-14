@@ -34,7 +34,7 @@ A free, open source, and extensible speech-to-text application that works comple
 
 ## 相关项目
 
-[[microsoft-vibevoice]] [[alibaba-open-code-review]] [[scenario-labs-skills]] [[ruvnet-ruview]] [[alishahryar1-free-claude-code]]
+[[vercel-labs-agent-browser]] [[microsoft-vibevoice]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[block-buzz]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

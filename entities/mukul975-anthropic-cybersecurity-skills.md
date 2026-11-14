@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]]
+[[tradermonty-claude-trading-skills]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[homeassistant-ai-ha-mcp]] [[qwenlm-qwen-code]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

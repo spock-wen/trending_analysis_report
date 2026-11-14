@@ -37,7 +37,7 @@ No description
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[ggml-org-llama.cpp]] [[zhulinsen-daily_stock_analysis]] [[hyprwm-hyprland]] [[likely7-veyra-nrvideo]]
+[[dream-num-univer]] [[juliusbrussee-caveman]] [[hyprwm-hyprland]] [[likely7-veyra-nrvideo]] [[google-deepmind-mujoco]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[affaan-m-ecc]] [[zhulinsen-daily_stock_analysis]] [[cloudflare-security-audit-skill]] [[chromedevtools-chrome-devtools-mcp]]
+[[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[cloudflare-security-audit-skill]] [[openai-codex-security]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

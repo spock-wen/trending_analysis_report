@@ -35,7 +35,7 @@ Stremio - Freedom to Stream
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[addyosmani-agent-skills]] [[nodejs-node]] [[cloudflare-security-audit-skill]] [[openai-codex-security]]
+[[ag-ui-protocol-ag-ui]] [[addyosmani-agent-skills]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[web]]
 

@@ -34,7 +34,7 @@ Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or C
 
 ## 相关项目
 
-[[dream-num-univer]] [[juliusbrussee-caveman]] [[hyprwm-hyprland]] [[likely7-veyra-nrvideo]] [[google-deepmind-mujoco]]
+[[google-deepmind-mujoco]] [[likely7-veyra-nrvideo]] [[ggml-org-llama.cpp]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

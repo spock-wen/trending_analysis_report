@@ -35,7 +35,7 @@ Vite+ is the unified toolchain and entry point for web development. It manages y
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[ag-ui-protocol-ag-ui]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[openai-codex-security]]
+[[ag-ui-protocol-ag-ui]] [[martin-olivier-airgorah]] [[block-buzz]] [[vercel-labs-agent-browser]] [[tokio-rs-topcoat]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

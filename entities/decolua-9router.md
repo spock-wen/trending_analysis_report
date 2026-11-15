@@ -38,7 +38,7 @@ Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An
 
 ## 相关项目
 
-[[dream-num-univer]] [[juliusbrussee-caveman]] [[addyosmani-agent-skills]] [[nodejs-node]] [[cloudflare-security-audit-skill]]
+[[backnotprop-plannotator]] [[addyosmani-agent-skills]] [[elementalsouls-claude-bughunter]] [[cloudflare-security-audit-skill]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

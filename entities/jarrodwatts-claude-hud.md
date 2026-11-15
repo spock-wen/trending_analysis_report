@@ -37,7 +37,7 @@ A Claude Code plugin that shows what's happening - context usage, active tools, 
 
 ## 相关项目
 
-[[microsoft-vibevoice]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[addyosmani-agent-skills]] [[nodejs-node]]
+[[anomalyco-hex]] [[microsoft-vibevoice]] [[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

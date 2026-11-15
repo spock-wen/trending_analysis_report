@@ -34,7 +34,7 @@ Toolchain for TON smart contract development and beyond
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[block-buzz]] [[alibaba-open-code-review]]
+[[martin-olivier-airgorah]] [[block-buzz]] [[vercel-labs-agent-browser]] [[tokio-rs-topcoat]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]]
 

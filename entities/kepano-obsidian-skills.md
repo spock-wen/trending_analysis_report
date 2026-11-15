@@ -35,7 +35,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]]
+[[michaelcade-90daysofdevops]] [[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

@@ -35,7 +35,7 @@ Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[juliusbrussee-caveman]] [[tencent-loopforge]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]]
+[[ag-ui-protocol-ag-ui]] [[openai-codex-security]] [[juliusbrussee-caveman]] [[googlechrome-modern-web-guidance-src]] [[alibaba-open-code-review]]
 
 **所属领域**: [[web]]
 

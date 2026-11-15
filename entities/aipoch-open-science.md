@@ -34,7 +34,7 @@ Open Science by AIPOCH is an open-source, local-first, model-agnostic AI researc
 
 ## 相关项目
 
-[[prometheus-prometheus]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[zhulinsen-daily_stock_analysis]]
+[[zhulinsen-daily_stock_analysis]] [[k-dense-ai-scientific-agent-skills]] [[googlechrome-modern-web-guidance-src]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

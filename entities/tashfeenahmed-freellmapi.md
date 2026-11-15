@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[cloudflare-security-audit-skill]] [[openai-codex-security]]
+[[martin-olivier-airgorah]] [[beenuar-aisoc]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

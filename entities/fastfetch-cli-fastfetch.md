@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[mpv-player-mpv]] [[openssl-openssl]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]]
+[[lz4-lz4]] [[backnotprop-plannotator]] [[elementalsouls-claude-bughunter]] [[qwenlm-qwen-code]] [[fareedkhan-dev-kimi-k3-in-c]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

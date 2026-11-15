@@ -35,7 +35,7 @@ Get production-ready images, video, audio, and 3D from any AI agent: skills that
 
 ## 相关项目
 
-[[tradermonty-claude-trading-skills]] [[microsoft-vibevoice]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[jiafeimiao-k-cat-discimagestudio]]
+[[anomalyco-hex]] [[nvidia-auto-ontology]] [[zhulinsen-daily_stock_analysis]] [[microsoft-vibevoice]] [[likely7-veyra-nrvideo]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

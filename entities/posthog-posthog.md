@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anthropics-claude-quickstarts]] [[tradermonty-claude-trading-skills]] [[ag-ui-protocol-ag-ui]] [[prometheus-prometheus]] [[dream-num-univer]]
+[[ag-ui-protocol-ag-ui]] [[zhulinsen-daily_stock_analysis]] [[louislam-uptime-kuma]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

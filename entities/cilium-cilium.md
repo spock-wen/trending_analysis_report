@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[juliusbrussee-caveman]] [[cloudflare-security-audit-skill]] [[ruvnet-ruview]]
+[[martin-olivier-airgorah]] [[louislam-uptime-kuma]] [[beenuar-aisoc]] [[openai-codex-security]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[devops]] [[security]]
 

@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[tencent-loopforge]] [[backnotprop-plannotator]] [[openai-codex-security]]
+[[backnotprop-plannotator]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[tailscale-tailcat]]
 
 **所属领域**: [[cli]]
 

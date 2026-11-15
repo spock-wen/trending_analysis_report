@@ -37,7 +37,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[prometheus-prometheus]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[tencent-loopforge]] [[zhulinsen-daily_stock_analysis]]
+[[zhulinsen-daily_stock_analysis]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[tailscale-tailcat]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

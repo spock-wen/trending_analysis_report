@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tradermonty-claude-trading-skills]] [[ag-ui-protocol-ag-ui]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[homeassistant-ai-ha-mcp]]
+[[ag-ui-protocol-ag-ui]] [[zhulinsen-daily_stock_analysis]] [[backnotprop-plannotator]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

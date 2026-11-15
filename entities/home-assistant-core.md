@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tradermonty-claude-trading-skills]] [[homeassistant-ai-ha-mcp]] [[cloudflare-security-audit-skill]] [[zhulinsen-daily_stock_analysis]] [[openai-codex-security]]
+[[martin-olivier-airgorah]] [[zhulinsen-daily_stock_analysis]] [[beenuar-aisoc]] [[openai-codex-security]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[security]]
 

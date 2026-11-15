@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[prometheus-prometheus]] [[martin-olivier-airgorah]] [[cloudflare-security-audit-skill]] [[openai-codex-security]]
+[[ag-ui-protocol-ag-ui]] [[agentjido-jido]] [[teslamate-org-teslamate]] [[zhulinsen-daily_stock_analysis]] [[martin-olivier-airgorah]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

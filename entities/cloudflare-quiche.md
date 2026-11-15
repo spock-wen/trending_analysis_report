@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[ag-ui-protocol-ag-ui]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[block-buzz]]
+[[ag-ui-protocol-ag-ui]] [[martin-olivier-airgorah]] [[block-buzz]] [[vercel-labs-agent-browser]] [[tokio-rs-topcoat]]
 
 **所属领域**: [[web]]
 

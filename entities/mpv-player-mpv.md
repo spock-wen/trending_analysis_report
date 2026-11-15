@@ -34,7 +34,7 @@ language: "C"
 
 ## 相关项目
 
-[[openssl-openssl]] [[qwenlm-qwen-code]] [[openai-codex-security]] [[backnotprop-plannotator]] [[lz4-lz4]]
+[[lz4-lz4]] [[backnotprop-plannotator]] [[elementalsouls-claude-bughunter]] [[qwenlm-qwen-code]] [[fareedkhan-dev-kimi-k3-in-c]]
 
 **所属领域**: [[cli]]
 

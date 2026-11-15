@@ -35,7 +35,7 @@ language: "Shell"
 
 ## 相关项目
 
-[[mattpocock-skills]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[nvm-sh-nvm]]
+[[michaelcade-90daysofdevops]] [[backnotprop-plannotator]] [[nvm-sh-nvm]] [[donchitos-claude-code-game-studios]] [[qwenlm-qwen-code]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

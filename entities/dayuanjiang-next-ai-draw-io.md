@@ -34,7 +34,7 @@ A next.js web application that integrates AI capabilities with draw.io diagrams.
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[openai-codex-security]]
+[[ag-ui-protocol-ag-ui]] [[backnotprop-plannotator]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[qwenlm-qwen-code]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

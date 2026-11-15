@@ -36,7 +36,7 @@ OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixi
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[cloudflare-security-audit-skill]]
+[[ag-ui-protocol-ag-ui]] [[martin-olivier-airgorah]] [[backnotprop-plannotator]] [[beenuar-aisoc]] [[googlechrome-modern-web-guidance-src]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]] [[security]]
 

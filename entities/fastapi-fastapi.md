@@ -34,7 +34,7 @@ FastAPI framework, high performance, easy to learn, fast to code, ready for prod
 
 ## 相关项目
 
-[[tradermonty-claude-trading-skills]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[homeassistant-ai-ha-mcp]] [[michaelcade-90daysofdevops]]
+[[zhulinsen-daily_stock_analysis]] [[michaelcade-90daysofdevops]] [[patchy631-ai-engineering-hub]] [[nvidia-skillevaluator]] [[ggml-org-ggml]]
 
 **所属领域**: [[education]]
 

@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-11-15 | 总页面：906
+> 最后更新：2026-11-16 | 总页面：909
 
 ## Entities
 
@@ -46,7 +46,7 @@
 - [[alchaincyf-zhangxuefeng-skill|zhangxuefeng-skill]] — 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 - [[alexsjones-llmfit|llmfit]] — Hundreds of models & providers. One command to find what run...
 - [[alexzhang13-rlm|rlm]] — General plug-and-play inference library for Recursive Langua...
-- [[alibaba-open-code-review|open-code-review]] — Secure, fast, efficient, battle-tested at Alibaba's scale. H... 🆕
+- [[alibaba-open-code-review|open-code-review]] — Secure, fast, efficient, battle-tested at Alibaba's scale. H... 🔥
 - [[alibaba-opensandbox|OpenSandbox]] — OpenSandbox is a general-purpose sandbox platform for AI app... 🆕
 - [[alibaba-page-agent|page-agent]] — JavaScript in-page GUI agent. Control web interfaces with na... 🆕
 - [[alibaba-zvec|zvec]] — A lightweight, lightning-fast, in-process vector database
@@ -110,7 +110,7 @@
 - [[awslabs-aidlc-workflows|aidlc-workflows]] — AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rul...
 - [[axorax-awesome-free-apps|awesome-free-apps]] — Curated list of the best free apps for PC and mobile 🔥
 - [[ayghri-i-have-adhd|i-have-adhd]] — A skill to stop your coding agent from burying the answer. A... 🆕
-- [[backnotprop-plannotator|plannotator]] — The workspace to stay in the loop and on top of agents - sha... 🆕
+- [[backnotprop-plannotator|plannotator]] — The workspace to stay in the loop and on top of agents - sha... 🔥
 - [[bannedbook-fanqiang|fanqiang]] — 翻墙-科学上网 🆕
 - [[basecamp-omarchy|omarchy]] — Beautiful, Modern & Opinionated Linux 🔥
 - [[basedhardware-omi|omi]] — AI that sees your screen, listens to your conversations and ...
@@ -160,7 +160,7 @@
 - [[chopratejas-headroom|headroom]] — Compress tool outputs, logs, files, and RAG chunks before th... 🔥
 - [[chriskohlhoff-asio|asio]] — Asio C++ Library 🆕
 - [[chrislgarry-apollo-11|Apollo-11]] — Original Apollo 11 Guidance Computer (AGC) source code for t...
-- [[chromedevtools-chrome-devtools-mcp|chrome-devtools-mcp]] — Chrome DevTools for coding agents 🆕
+- [[chromedevtools-chrome-devtools-mcp|chrome-devtools-mcp]] — Chrome DevTools for coding agents 🔥
 - [[chthollyphile-folia-major|folia-major]] — 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
 - [[cilium-cilium|cilium]] — eBPF-based Networking, Security, and Observability
 - [[citrolabs-ego-lite|ego-lite]] — The fastest browser for AI agents to run browser automation,... 🆕
@@ -242,7 +242,7 @@
 - [[dotnet-aspnetcore|aspnetcore]] — ASP.NET Core is a cross-platform .NET framework for building...
 - [[dotnet-skills|skills]] — Repository for skills to assist AI coding agents with .NET a...
 - [[dottxt-ai-outlines|outlines]] — Structured Outputs 🆕
-- [[dream-num-univer|univer]] — Build your own AI office with Univer Office SDK. Bring editi...
+- [[dream-num-univer|univer]] — Build your own AI office with Univer Office SDK. Bring editi... 🆕
 - [[dreammis-social-auto-upload|social-auto-upload]] — 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 - [[dsx-ai-factory-nvke|nvke]] — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU ... 🆕
 - [[duartesantos8-opengym|openGym]] — Self-hosted gym & body-weight tracker — plan routines, log w... 🔥
@@ -255,6 +255,7 @@
 - [[elder-plinius-g0dm0d3|G0DM0D3]] — LIBERATED AI CHAT
 - [[elder-plinius-obliteratus|OBLITERATUS]] — OBLITERATE THE CHAINS THAT BIND YOU
 - [[elebumm-redditvideomakerbot|RedditVideoMakerBot]] — Create Reddit Videos with just✨ one command ✨ 🆕
+- [[elementalsouls-claude-bughunter|Claude-BugHunter]] — A Claude Code skill bundle for bug hunting and external red-... 🆕
 - [[embabel-embabel-agent|embabel-agent]] — Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbə...
 - [[emmabostian-developer-portfolios|developer-portfolios]] — A list of developer portfolios for your inspiration
 - [[epicgames-raddebugger|raddebugger]] — A native, user-mode, multi-process, graphical debugger. 🆕
@@ -303,6 +304,7 @@
 - [[genymobile-scrcpy|scrcpy]] — Display and control your Android device
 - [[geo-tp-esp32-bit-pirate|ESP32-Bit-Pirate]] — A Hardware Hacking Tool with Web-Based CLI That Speaks Every...
 - [[getsentry-sentry|sentry]] — Developer-first error tracking and performance monitoring 🔥
+- [[ggml-org-ggml|ggml]] — Tensor library for machine learning 🆕
 - [[ggml-org-llama.cpp|llama.cpp]] — LLM inference in C/C++
 - [[ghostty-org-ghostty|ghostty]] — 👻 Ghostty is a fast, feature-rich, and cross-platform termin...
 - [[github-copilot-sdk|copilot-sdk]] — Multi-platform SDK for integrating GitHub Copilot Agent into... 🆕
@@ -325,7 +327,7 @@
 - [[google-gemini-gemini-cli|gemini-cli]] — An open-source AI agent that brings the power of Gemini dire...
 - [[google-googletest|googletest]] — GoogleTest - Google Testing and Mocking Framework 🔥
 - [[google-guava|guava]] — Google core libraries for Java 🔥
-- [[google-labs-code-stitch-skills|stitch-skills]] — A library of Agent Skills designed to work with the Stitch M... 🆕
+- [[google-labs-code-stitch-skills|stitch-skills]] — A library of Agent Skills designed to work with the Stitch M...
 - [[google-magika|magika]] — Fast and accurate AI powered file content types detection 🔥
 - [[google-osv-scanner|osv-scanner]] — Vulnerability scanner written in Go which uses the data prov...
 - [[google-research-timesfm|timesfm]] — TimesFM (Time Series Foundation Model) is a pretrained time-... 🔥
@@ -496,7 +498,7 @@
 - [[manaflow-ai-cmux|cmux]] — Open source Ghostty-based macOS terminal with vertical tabs ...
 - [[marceloprates-prettymaps|prettymaps]] — Draw pretty maps from OpenStreetMap data! Built with osmnx +...
 - [[marin-community-marin|marin]] — Open-source framework for the research and development of fo... 🔥
-- [[martin-olivier-airgorah|airgorah]] — A WiFi security auditing software 🆕
+- [[martin-olivier-airgorah|airgorah]] — A WiFi security auditing software
 - [[masterking32-masterdnsvpn|MasterDnsVPN]] — Advanced DNS tunneling VPN for censorship bypass, optimized ... 🔥
 - [[mattermost-mattermost|mattermost]] — Mattermost is an open source platform for secure collaborati... 🆕
 - [[mattpocock-skills|skills]] — Skills for Real Engineers. Straight from my .agents director...
@@ -586,6 +588,7 @@
 - [[nvidia-nemo-switchyard|Switchyard]] — Switchyard lets LLM applications route traffic across models... 🆕
 - [[nvidia-openshell|OpenShell]] — OpenShell is the safe, private runtime for autonomous AI age... 🆕
 - [[nvidia-personaplex|personaplex]] — PersonaPlex code. 🆕
+- [[nvidia-skillevaluator|SkillEvaluator]] — Multi-tier framework for evaluating AI agent skills with qua... 🆕
 - [[nvidia-skillspector|SkillSpector]] — Security scanner for AI agent skills. Detect vulnerabilities...
 - [[nvlabs-sana|Sana]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
 - [[nvm-sh-nvm|nvm]] — Node Version Manager - POSIX-compliant bash script to manage...
@@ -808,7 +811,7 @@
 - [[topoteretes-cognee|cognee]] — Cognee is the open-source AI memory platform for agents. Giv...
 - [[tracer-cloud-opensre|opensre]] — Build your own AI SRE agents. The open source toolkit for th...
 - [[tractorjuice-arc-kit|arc-kit]] — Enterprise Architecture Governance & Vendor Procurement Tool...
-- [[tradermonty-claude-trading-skills|claude-trading-skills]] — Claude Code skills for equity investors and traders — market... 🆕
+- [[tradermonty-claude-trading-skills|claude-trading-skills]] — Claude Code skills for equity investors and traders — market... 🔥
 - [[tradesdontlie-tradingview-mcp|tradingview-mcp]] — AI-assisted TradingView chart analysis — connect Claude Code...
 - [[trimstray-the-book-of-secret-knowledge|the-book-of-secret-knowledge]] — A collection of inspiring lists, manuals, cheatsheets, blogs... 🆕
 - [[truelockmc-streambert|streambert]] — A cross-platform Electron Desktop App to stream and download... 🆕

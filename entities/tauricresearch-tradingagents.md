@@ -38,7 +38,7 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## 相关项目
 
-[[tradermonty-claude-trading-skills]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]]
+[[zhulinsen-daily_stock_analysis]] [[k-dense-ai-scientific-agent-skills]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

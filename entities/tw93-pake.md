@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[ag-ui-protocol-ag-ui]] [[qwenlm-qwen-code]] [[openai-codex-security]] [[backnotprop-plannotator]]
+[[ag-ui-protocol-ag-ui]] [[martin-olivier-airgorah]] [[backnotprop-plannotator]] [[block-buzz]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[web]] [[cli]]
 

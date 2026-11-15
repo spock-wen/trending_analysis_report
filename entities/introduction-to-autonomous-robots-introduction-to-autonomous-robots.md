@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[cs341-illinois-coursebook]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[chromedevtools-chrome-devtools-mcp]]
+[[alibaba-open-code-review]] [[google-labs-code-stitch-skills]] [[dream-num-univer]] [[chromedevtools-chrome-devtools-mcp]] [[cs341-illinois-coursebook]]
 
 **所属领域**: [[ai-agent]]
 

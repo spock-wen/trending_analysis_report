@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[microsoft-vibevoice]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]]
+[[ag-ui-protocol-ag-ui]] [[microsoft-vibevoice]] [[anomalyco-hex]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

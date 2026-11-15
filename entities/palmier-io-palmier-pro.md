@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[vorssaint-vorssaint-utils]] [[manaflow-ai-cmux]]
+[[vorssaint-vorssaint-utils]] [[abue-ammar-tinycast]] [[manaflow-ai-cmux]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

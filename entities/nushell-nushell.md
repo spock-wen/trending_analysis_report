@@ -34,7 +34,7 @@ A new type of shell
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[qwenlm-qwen-code]] [[openai-codex-security]] [[backnotprop-plannotator]] [[block-buzz]]
+[[martin-olivier-airgorah]] [[backnotprop-plannotator]] [[block-buzz]] [[vercel-labs-agent-browser]] [[tokio-rs-topcoat]]
 
 **所属领域**: [[cli]]
 

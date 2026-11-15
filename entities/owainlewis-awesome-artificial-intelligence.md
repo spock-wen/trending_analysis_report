@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[michaelcade-90daysofdevops]]
+[[michaelcade-90daysofdevops]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]] [[tauricresearch-tradingagents]] [[patchy631-ai-engineering-hub]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

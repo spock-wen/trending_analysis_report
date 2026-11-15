@@ -38,7 +38,7 @@ Music Assistant is a free, opensource Media library manager that connects to you
 
 ## 相关项目
 
-[[tradermonty-claude-trading-skills]] [[microsoft-vibevoice]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]] [[anomalyco-hex]]
+[[anomalyco-hex]] [[microsoft-vibevoice]] [[zhulinsen-daily_stock_analysis]] [[alishahryar1-free-claude-code]] [[nvidia-skillevaluator]]
 
 **所属领域**: [[audio]]
 

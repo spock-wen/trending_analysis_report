@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[cathrynlavery-diagram-design]] [[jiafeimiao-k-cat-discimagestudio]] [[openai-codex-security]] [[averygan-reclip]]
+[[ag-ui-protocol-ag-ui]] [[nvidia-auto-ontology]] [[alchaincyf-huashu-design]] [[likely7-veyra-nrvideo]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[image-gen]]
 

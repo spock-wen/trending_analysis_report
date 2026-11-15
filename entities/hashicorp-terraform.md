@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[ruvnet-ruview]]
+[[louislam-uptime-kuma]] [[juliusbrussee-caveman]] [[anthropics-claude-quickstarts]] [[alibaba-open-code-review]] [[tailscale-tailcat]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

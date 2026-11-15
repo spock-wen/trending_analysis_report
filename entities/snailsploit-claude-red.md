@@ -38,7 +38,7 @@ claude-red is a curated library of offensive security skills designed for the Cl
 
 ## 相关项目
 
-[[tradermonty-claude-trading-skills]] [[prometheus-prometheus]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[homeassistant-ai-ha-mcp]]
+[[zhulinsen-daily_stock_analysis]] [[martin-olivier-airgorah]] [[backnotprop-plannotator]] [[beenuar-aisoc]] [[openai-codex-security]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[security]]
 

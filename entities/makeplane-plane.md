@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[dream-num-univer]] [[qwenlm-qwen-code]] [[openai-codex-security]] [[backnotprop-plannotator]] [[googlechrome-modern-web-guidance-src]]
+[[backnotprop-plannotator]] [[googlechrome-modern-web-guidance-src]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[cli]]
 

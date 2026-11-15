@@ -38,7 +38,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[tradermonty-claude-trading-skills]] [[jiafeimiao-k-cat-discimagestudio]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]] [[likely7-veyra-nrvideo]]
+[[nvidia-auto-ontology]] [[zhulinsen-daily_stock_analysis]] [[likely7-veyra-nrvideo]] [[nvidia-skillevaluator]] [[conardli-garden-skills]]
 
 **所属领域**: [[image-gen]]
 

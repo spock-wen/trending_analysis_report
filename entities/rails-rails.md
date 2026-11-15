@@ -34,7 +34,7 @@ Ruby on Rails
 
 ## 相关项目
 
-[[we-promise-sure]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[chromedevtools-chrome-devtools-mcp]]
+[[chatwoot-chatwoot]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[we-promise-sure]] [[docusealco-docuseal]]
 
 **所属领域**: [[ai-agent]]
 

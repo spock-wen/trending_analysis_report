@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[anthropics-claude-quickstarts]] [[tradermonty-claude-trading-skills]] [[prometheus-prometheus]] [[dream-num-univer]] [[juliusbrussee-caveman]]
+[[zhulinsen-daily_stock_analysis]] [[louislam-uptime-kuma]] [[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[anthropics-claude-quickstarts]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

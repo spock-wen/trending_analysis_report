@@ -34,7 +34,7 @@ language: "Zig"
 
 ## 相关项目
 
-[[lightpanda-io-browser]] [[qwenlm-qwen-code]] [[openai-codex-security]] [[backnotprop-plannotator]] [[alishahryar1-free-claude-code]]
+[[ashhart-tensorfold]] [[lightpanda-io-browser]] [[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[cli]]
 

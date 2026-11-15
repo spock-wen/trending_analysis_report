@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[anthropics-claude-quickstarts]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[prometheus-prometheus]] [[dream-num-univer]]
+[[louislam-uptime-kuma]] [[michaelcade-90daysofdevops]] [[googlechrome-modern-web-guidance-src]] [[anthropics-claude-quickstarts]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

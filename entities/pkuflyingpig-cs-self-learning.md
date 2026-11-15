@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[cathrynlavery-diagram-design]] [[michaelcade-90daysofdevops]]
+[[ag-ui-protocol-ag-ui]] [[alchaincyf-huashu-design]] [[michaelcade-90daysofdevops]] [[cathrynlavery-diagram-design]] [[openai-codex-security]]
 
 **所属领域**: [[web]] [[education]]
 

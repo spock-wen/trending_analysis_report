@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[dream-num-univer]] [[tencent-loopforge]] [[alibaba-open-code-review]] [[chromedevtools-chrome-devtools-mcp]] [[tailscale-tailcat]]
+[[google-labs-code-stitch-skills]] [[tailscale-tailcat]] [[alibaba-open-code-review]] [[chromedevtools-chrome-devtools-mcp]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ This repository started out as a learning in public project for myself and has n
 
 ## 相关项目
 
-[[anthropics-claude-quickstarts]] [[mattpocock-skills]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[prometheus-prometheus]]
+[[louislam-uptime-kuma]] [[backnotprop-plannotator]] [[nvm-sh-nvm]] [[donchitos-claude-code-game-studios]] [[qwenlm-qwen-code]]
 
 **所属领域**: [[cli]] [[devops]] [[education]]
 

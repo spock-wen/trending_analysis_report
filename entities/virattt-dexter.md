@@ -38,7 +38,7 @@ An autonomous agent for deep financial research
 
 ## 相关项目
 
-[[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[googlechrome-modern-web-guidance-src]] [[alibaba-open-code-review]]
+[[googlechrome-modern-web-guidance-src]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]] [[tauricresearch-tradingagents]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

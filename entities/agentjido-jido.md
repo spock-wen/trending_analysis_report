@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[dream-num-univer]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[chromedevtools-chrome-devtools-mcp]] [[plausible-analytics]]
+[[teslamate-org-teslamate]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]]
 

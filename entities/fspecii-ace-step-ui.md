@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[microsoft-vibevoice]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[jiafeimiao-k-cat-discimagestudio]] [[addyosmani-agent-skills]]
+[[anomalyco-hex]] [[nvidia-auto-ontology]] [[microsoft-vibevoice]] [[likely7-veyra-nrvideo]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

@@ -34,7 +34,7 @@ Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translatio
 
 ## 相关项目
 
-[[dream-num-univer]] [[jiafeimiao-k-cat-discimagestudio]] [[qwenlm-qwen-code]] [[likely7-veyra-nrvideo]] [[googlechrome-modern-web-guidance-src]]
+[[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[googlechrome-modern-web-guidance-src]] [[google-labs-code-stitch-skills]] [[nvidia-skillevaluator]]
 
 **所属领域**: [[image-gen]]
 

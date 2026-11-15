@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[dream-num-univer]] [[qwenlm-qwen-code]] [[googlechrome-modern-web-guidance-src]] [[agricidaniel-claude-seo]]
+[[obra-superpowers]] [[googlechrome-modern-web-guidance-src]] [[google-labs-code-stitch-skills]] [[agricidaniel-claude-seo]] [[php-php-src]]
 
 **所属领域**: [[erp]]
 

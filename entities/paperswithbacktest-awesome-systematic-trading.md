@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[tradermonty-claude-trading-skills]] [[patchy631-ai-engineering-hub]] [[xiaolai-the-craft-of-selfteaching]] [[homeassistant-ai-ha-mcp]] [[michaelcade-90daysofdevops]]
+[[zhulinsen-daily_stock_analysis]] [[michaelcade-90daysofdevops]] [[tauricresearch-tradingagents]] [[patchy631-ai-engineering-hub]] [[paperclipai-paperclip]]
 
 **所属领域**: [[education]] [[science]]
 

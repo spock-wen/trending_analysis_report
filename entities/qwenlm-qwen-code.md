@@ -35,7 +35,7 @@ An open-source AI coding agent that lives in your terminal.
 
 ## 相关项目
 
-[[dream-num-univer]] [[juliusbrussee-caveman]] [[openai-codex-security]] [[backnotprop-plannotator]] [[googlechrome-modern-web-guidance-src]]
+[[backnotprop-plannotator]] [[googlechrome-modern-web-guidance-src]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

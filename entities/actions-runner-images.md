@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[raphire-win11debloat]] [[zhaoxuya520-reverse-skill]] [[jiafeimiao-k-cat-discimagestudio]] [[qwenlm-qwen-code]] [[openai-codex-security]]
+[[nvidia-auto-ontology]] [[raphire-win11debloat]] [[backnotprop-plannotator]] [[likely7-veyra-nrvideo]] [[qwenlm-qwen-code]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

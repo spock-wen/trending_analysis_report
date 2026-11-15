@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[dream-num-univer]] [[qwenlm-qwen-code]] [[obra-superpowers]] [[hugohe3-ppt-master]] [[tradermonty-claude-trading-skills]]
+[[zhulinsen-daily_stock_analysis]] [[backnotprop-plannotator]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[qwenlm-qwen-code]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

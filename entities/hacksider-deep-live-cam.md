@@ -34,7 +34,7 @@ real time face swap and one-click video deepfake with only a single image
 
 ## 相关项目
 
-[[tradermonty-claude-trading-skills]] [[jiafeimiao-k-cat-discimagestudio]] [[homeassistant-ai-ha-mcp]] [[qwenlm-qwen-code]] [[zhulinsen-daily_stock_analysis]]
+[[nvidia-auto-ontology]] [[zhulinsen-daily_stock_analysis]] [[backnotprop-plannotator]] [[likely7-veyra-nrvideo]] [[qwenlm-qwen-code]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

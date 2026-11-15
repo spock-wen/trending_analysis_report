@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[anthropics-claude-quickstarts]] [[ag-ui-protocol-ag-ui]] [[prometheus-prometheus]] [[cathrynlavery-diagram-design]] [[ruvnet-ruview]]
+[[ag-ui-protocol-ag-ui]] [[alchaincyf-huashu-design]] [[louislam-uptime-kuma]] [[cathrynlavery-diagram-design]] [[openai-codex-security]]
 
 **所属领域**: [[web]] [[devops]]
 

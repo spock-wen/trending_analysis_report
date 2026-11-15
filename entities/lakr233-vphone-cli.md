@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[alishahryar1-free-claude-code]] [[qwenlm-qwen-code]] [[vorssaint-vorssaint-utils]] [[manaflow-ai-cmux]]
+[[vorssaint-vorssaint-utils]] [[backnotprop-plannotator]] [[abue-ammar-tinycast]] [[manaflow-ai-cmux]] [[qwenlm-qwen-code]]
 
 **所属领域**: [[cli]]
 

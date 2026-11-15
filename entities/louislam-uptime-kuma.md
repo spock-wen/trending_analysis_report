@@ -35,7 +35,7 @@ A fancy self-hosted monitoring tool
 
 ## 相关项目
 
-[[anthropics-claude-quickstarts]] [[prometheus-prometheus]] [[addyosmani-agent-skills]] [[nodejs-node]] [[cloudflare-security-audit-skill]]
+[[addyosmani-agent-skills]] [[anthropics-claude-quickstarts]] [[cloudflare-security-audit-skill]] [[ruvnet-ruview]] [[nodejs-node]]
 
 **所属领域**: [[devops]]
 

@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[prometheus-prometheus]] [[dream-num-univer]] [[qwenlm-qwen-code]] [[openai-codex-security]]
+[[ag-ui-protocol-ag-ui]] [[zhulinsen-daily_stock_analysis]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[web]] [[data]]
 

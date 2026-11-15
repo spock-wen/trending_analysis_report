@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[raphire-win11debloat]] [[dream-num-univer]] [[zhaoxuya520-reverse-skill]] [[actions-runner-images]] [[juliusbrussee-caveman]]
+[[raphire-win11debloat]] [[actions-runner-images]] [[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

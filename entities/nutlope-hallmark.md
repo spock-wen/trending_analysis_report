@@ -38,7 +38,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[diolinux-photogimp]] [[openai-codex-security]]
+[[ag-ui-protocol-ag-ui]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[diolinux-photogimp]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

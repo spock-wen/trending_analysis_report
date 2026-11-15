@@ -34,7 +34,7 @@ Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE
 
 ## 相关项目
 
-[[tradermonty-claude-trading-skills]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[jiafeimiao-k-cat-discimagestudio]] [[homeassistant-ai-ha-mcp]]
+[[nvidia-auto-ontology]] [[zhulinsen-daily_stock_analysis]] [[martin-olivier-airgorah]] [[likely7-veyra-nrvideo]] [[openai-codex-security]]
 
 **所属领域**: [[ai-agent]] [[security]] [[image-gen]]
 

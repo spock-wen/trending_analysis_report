@@ -38,7 +38,7 @@ Secure environments for developers and their agents
 
 ## 相关项目
 
-[[dream-num-univer]] [[juliusbrussee-caveman]] [[tencent-loopforge]] [[alibaba-open-code-review]] [[chromedevtools-chrome-devtools-mcp]]
+[[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[tailscale-tailcat]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]]
 

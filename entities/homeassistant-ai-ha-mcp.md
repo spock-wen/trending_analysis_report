@@ -36,7 +36,7 @@ Configure and automate Home Assistant with Claude, ChatGPT, and other AI assista
 
 ## 相关项目
 
-[[tradermonty-claude-trading-skills]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[zhulinsen-daily_stock_analysis]] [[alibaba-open-code-review]]
+[[zhulinsen-daily_stock_analysis]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[nvidia-skillevaluator]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]]
 

@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[dream-num-univer]] [[jiafeimiao-k-cat-discimagestudio]] [[qwenlm-qwen-code]] [[openai-codex-security]]
+[[ag-ui-protocol-ag-ui]] [[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]]
 
 **所属领域**: [[web]] [[image-gen]]
 

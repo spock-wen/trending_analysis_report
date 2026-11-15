@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[actions-runner-images]] [[qwenlm-qwen-code]] [[openai-codex-security]] [[backnotprop-plannotator]]
+[[backnotprop-plannotator]] [[actions-runner-images]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[cli]]
 

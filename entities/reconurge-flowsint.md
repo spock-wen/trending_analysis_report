@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[dream-num-univer]] [[qwenlm-qwen-code]] [[cloudflare-security-audit-skill]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]]
+[[martin-olivier-airgorah]] [[beenuar-aisoc]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[security]]
 

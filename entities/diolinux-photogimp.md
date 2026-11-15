@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[ag-ui-protocol-ag-ui]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[agricidaniel-claude-seo]]
+[[ag-ui-protocol-ag-ui]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[obra-superpowers]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[web]] [[erp]]
 

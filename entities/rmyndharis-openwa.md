@@ -36,5 +36,5 @@ Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## 相关项目
 
-[[googlechrome-modern-web-guidance-src]] [[qwenlm-qwen-code]] [[chromedevtools-chrome-devtools-mcp]] [[dream-num-univer]]
+[[googlechrome-modern-web-guidance-src]] [[chromedevtools-chrome-devtools-mcp]] [[dream-num-univer]] [[google-labs-code-stitch-skills]]
 

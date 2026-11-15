@@ -1,20 +1,20 @@
 ---
 title: "dream-num/univer"
 created: 2026-09-23
-updated: 2026-11-15
-last_active: 2026-11-15
+updated: 2026-11-16
+last_active: 2026-11-16
 type: framework
 tags: [typescript, ai-agent]
-sources: [raw/trending/2026-11-15.json]
+sources: [raw/trending/2026-11-16.json]
 confidence: high
-trending_count_daily: 9
+trending_count_daily: 10
 trending_count_weekly: 1
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-09-23
-last_trending: 2026-11-15
-peak_rank: 3
-total_stars: 24449
+last_trending: 2026-11-16
+peak_rank: 1
+total_stars: 25566
 language: "TypeScript"
 contested: true
 ---
@@ -24,22 +24,22 @@ contested: true
 Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
 
 - 语言: TypeScript
-- 上榜次数: 9 次
-- 连续上榜: 1 天
-- 最高排名: #3
+- 上榜次数: 10 次
+- 连续上榜: 2 天
+- 最高排名: #1
 - 链接: [dream-num/univer](https://github.com/dream-num/univer)
 
 ## 上榜历史
 
+  - 2026-11-16: #1, +1041⭐
   - 2026-11-15: #7, +495⭐
   - 2026-09-30: #13, +692⭐
   - 2026-09-29: #8, +1105⭐
   - 2026-09-28: #8, +920⭐
-  - 2026-09-27: #4, +845⭐
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[googlechrome-modern-web-guidance-src]] [[alibaba-open-code-review]] [[chromedevtools-chrome-devtools-mcp]]
+[[alibaba-open-code-review]] [[googlechrome-modern-web-guidance-src]] [[chromedevtools-chrome-devtools-mcp]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]]
 

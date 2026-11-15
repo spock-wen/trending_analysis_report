@@ -34,7 +34,7 @@ A WiFi security auditing software
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[cloudflare-security-audit-skill]] [[openai-codex-security]]
+[[block-buzz]] [[vercel-labs-agent-browser]] [[beenuar-aisoc]] [[tokio-rs-topcoat]] [[openai-codex-security]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

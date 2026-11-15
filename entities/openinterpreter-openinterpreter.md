@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[hugohe3-ppt-master]] [[vercel-labs-agent-browser]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[block-buzz]]
+[[martin-olivier-airgorah]] [[block-buzz]] [[vercel-labs-agent-browser]] [[tokio-rs-topcoat]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[dream-num-univer]] [[juliusbrussee-caveman]] [[addyosmani-agent-skills]] [[nodejs-node]] [[openai-codex-security]]
+[[martin-olivier-airgorah]] [[addyosmani-agent-skills]] [[beenuar-aisoc]] [[openai-codex-security]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

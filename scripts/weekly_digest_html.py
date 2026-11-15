@@ -70,6 +70,13 @@ ZH_DESC = {
  'The-PR-Agent/pr-agent': '老牌开源 PR 评审 agent：审查、建议、描述一站搞定',
  'shiyu-coder/Kronos': '金融市场基础模型：对 K 线时间序列做预训练',
  'hyprwm/Hyprland': '高可定制的动态平铺 Wayland 合成器',
+ 'meta/astryx': 'Meta 开源 agent-ready 设计系统：给 agent 生成界面提供统一底座',
+ 'sherlock-project/sherlock': '2018 年开源的 OSINT 老工具：一个用户名跨数百平台搜人',
+ 'google/elephant-goldfish-model': 'Google 出品：给 agent 设计和评审软件的开源插件（金鱼记忆梗）',
+ 'ZhuLinsen/daily_stock_analysis': 'LLM 驱动多市场股票分析：多源行情、决策看板、自动推送',
+ 'google-deepmind/mujoco': 'DeepMind 老牌物理仿真器：多关节动力学与接触建模',
+ 'anthropics/claude-quickstarts': 'Anthropic 官方 Claude API 起步项目合集',
+ 'addyosmani/agent-skills': 'Chrome 团队 Addy Osmani 维护的工程 skills 集合',
 }
 total_stars = sum(WK.values())
 n_projects = len(rows)
@@ -133,25 +140,25 @@ C = {'blue': '#4C72B0', 'orange': '#E4572E', 'purple': '#8172B2', 'green': '#2E8
 
 # ⚠️ 每周手填：三段主线叙事（结论前置，正文压到 3-4 行）
 NARRATIVES = [
-    (C['orange'], '#FDEEE8', '#D14A24', '总量回升 11%，换血率 61%',
-     '18 项 98,104★，环比 <b>+11.1%</b>，近八周第三高，仍低于 10-18、10-25 两个脉冲周。上周 15 项里 <b>8 项出局</b>、仅 7 项留存（47%），本周 11 席换血：8 个首次上榜 + 3 个回归。'),
-    (C['blue'], '#EAF0F9', '#3A62A8', 'Skills 退烧：9 席缩到 7 席，星数砍 35%',
-     'Skill 类 <b>59,364★ → 38,830★（-34.6%）</b>。上周同榜的 security-audit-skill、taste-skill、claude-seo、karpathy-skills 四项全出局；<b>mattpocock/skills</b> 断档 2 周回归 +9,664★，新 skills 只进了 Game-Studios 一个。'),
-    (C['purple'], '#F1EEF8', '#6D5CA8', '基建接棒：席位翻倍，t3code 单仓 17,100★',
-     '编码基建 <b>3 项 14,673★ → 6 项 34,206★（+133%）</b>。t3code 周星 <b>17,100★</b> 列第一；claude-mem 登顶官方榜 #1；worktrunk 断档 6 周回归即官方 #2。注意力从「教 agent 做事」转向「让 agent 跑稳」。'),
+    (C['orange'], '#FDEEE8', '#D14A24', '总量缩 37%，换血率 83%',
+     '11 项 61,501★，环比 <b>-37.3%</b>，近八周次低。上周 18 项只留 <b>3 项</b>，换血率 83.3%：周冠军 t3code（17,100★）领衔 15 项出局，脉冲周结束。'),
+    (C['blue'], '#EAF0F9', '#3A62A8', '大厂接管：6 个官方仓撑起一半榜单',
+     '公司官方仓 <b>3 项 8,552★ → 6 项 33,673★（+294%）</b>，占本周总星 54.8%。<b>meta/astryx</b> 13,660★ 登顶官方榜 #1，Google 进两项，Anthropic 进两项。退潮期注意力回流官方仓。'),
+    (C['purple'], '#F1EEF8', '#6D5CA8', 'Skills 退烧到底：7 席缩到 2 席',
+     'Skill 类 <b>38,830★ → 9,890★（-74.5%）</b>。上周「认牌子」的 6 项全出局，只剩官方仓 <b>anthropics/skills</b>（周星翻倍至 6,220★）和断档 6 周回归的 addyosmani/agent-skills。'),
 ]
 # ⚠️ 每周手填：四张赛道卡
 KNIVES = [
-    (C['blue'], '减速', 'Skill 与插件生态', '7 项 38,830★<br>上周 9 项 59,364★，星数 -34.6%，二线 skills 四项出局'),
-    (C['orange'], '加速', '编码 Agent 基础设施', '6 项 34,206★<br>上周 3 项 14,673★，星数 +133%，t3code 单仓贡献一半'),
-    (C['purple'], '换挡', '其他 AI 应用', '2 项 10,014★<br>上周 3 项 14,261★，金融 AI 从 TradingAgents 换成 Kronos'),
-    (C['red'] if 'red' in C else C['green'], '新增', '非 AI 工具进场', '3 项 15,054★<br>上周 0 项：Scrapling、紫微斗数、Hyprland 三个圈外项目'),
+    (C['blue'], '减速', 'Skill 与插件生态', '2 项 9,890★<br>上周 7 项 38,830★，星数 -74.5%，只剩官方仓和 OG'),
+    (C['orange'], '减速', '编码 Agent 基础设施', '5 项 26,412★<br>上周 6 项 34,206★，星数 -22.8%，主力换成大厂官方仓'),
+    (C['purple'], '企稳', '其他 AI 应用', '2 项 10,939★<br>上周 2 项 10,014★，星数 +9.2%，bot 换血叠加股票工具进场'),
+    (C['green'], '换挡', '非 AI 工具', '2 项 14,260★<br>上周 3 项 15,054★，成员全换，sherlock 12,401★ 站上官方 #2'),
 ]
 # ⚠️ 每周手填：三条观测
 WATCH = [
-    ('t3code 的 17,100★ 是起点还是脉冲？', '日榜 11-03 后已退出。下周周星 <b>≥10,000★</b> → 动能延续；<b>&lt;10,000★</b> → 确认透支回落'),
-    ('Skills 是退烧还是固化？', '席位 <b>≥6 项</b>且新 skills 首上榜 <b>≥2 个</b> → 回暖；<b>≤4 项</b> → 存量固化，只剩老牌轮播'),
-    ('圈外项目留得住吗？', '非 AI 工具留存 <b>≥2 项</b> → 回潮成立；<b>≤1 项</b> → 判定为单周噪音'),
+    ('astryx 站得稳吗？', '日榜 11-13 后已退出（峰值单日 3,324★，同 t3code 形态）。下周周星 <b>≥8,000★</b> → 一线站稳；<b>&lt;4,000★</b> → 确认单周脉冲'),
+    ('大厂接管是趋势吗？', '官方仓席位 <b>≥4</b> → 权力交接确认；<b>≤2</b> → 判定为本周单周现象'),
+    ('Skills 见底了吗？', '席位 <b>≤2 项</b>且周星 <b>&lt;10,000★</b> → 长尾化，只剩官方轮播；回升 <b>≥4 席</b> → 二线回流'),
 ]
 
 def esc(s):

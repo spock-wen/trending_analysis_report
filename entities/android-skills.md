@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[mahlernim-google-timeline-visualizer]] [[alibaba-open-code-review]]
+[[mahlernim-google-timeline-visualizer]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[bannedbook-fanqiang]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]]
 

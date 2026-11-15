@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[prometheus-prometheus]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[jiafeimiao-k-cat-discimagestudio]]
+[[nvidia-auto-ontology]] [[martin-olivier-airgorah]] [[zhulinsen-daily_stock_analysis]] [[likely7-veyra-nrvideo]] [[block-buzz]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

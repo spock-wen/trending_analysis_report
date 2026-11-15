@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[prometheus-prometheus]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[floci-io-floci]] [[yuliskov-smarttube]]
+[[zhulinsen-daily_stock_analysis]] [[backnotprop-plannotator]] [[elementalsouls-claude-bughunter]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

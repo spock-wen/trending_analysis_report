@@ -35,7 +35,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[dream-num-univer]] [[juliusbrussee-caveman]] [[flutter-flutter]] [[chen08209-flclash]] [[alibaba-open-code-review]]
+[[flutter-flutter]] [[chen08209-flclash]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[flutter-skills]]
 
 **所属领域**: [[ai-agent]]
 

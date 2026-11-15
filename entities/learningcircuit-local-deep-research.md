@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[dream-num-univer]] [[michaelcade-90daysofdevops]] [[beenuar-aisoc]] [[tradermonty-claude-trading-skills]] [[patchy631-ai-engineering-hub]]
+[[zhulinsen-daily_stock_analysis]] [[beenuar-aisoc]] [[cloudflare-security-audit-skill]] [[alibaba-open-code-review]] [[tauricresearch-tradingagents]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[nvm-sh-nvm]] [[michaelcade-90daysofdevops]]
+[[michaelcade-90daysofdevops]] [[backnotprop-plannotator]] [[donchitos-claude-code-game-studios]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

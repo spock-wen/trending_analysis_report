@@ -35,7 +35,7 @@ Local voice dictation for mac, windows and linux
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[microsoft-vibevoice]] [[block-buzz]] [[tokio-rs-topcoat]] [[alishahryar1-free-claude-code]]
+[[microsoft-vibevoice]] [[martin-olivier-airgorah]] [[block-buzz]] [[vercel-labs-agent-browser]] [[tokio-rs-topcoat]]
 
 **所属领域**: [[audio]]
 

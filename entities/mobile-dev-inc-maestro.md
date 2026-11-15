@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[android-skills]] [[ag-ui-protocol-ag-ui]] [[bannedbook-fanqiang]] [[dream-num-univer]] [[juliusbrussee-caveman]]
+[[mahlernim-google-timeline-visualizer]] [[ag-ui-protocol-ag-ui]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

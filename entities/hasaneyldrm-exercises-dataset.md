@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[prometheus-prometheus]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[cathrynlavery-diagram-design]]
+[[ag-ui-protocol-ag-ui]] [[zhulinsen-daily_stock_analysis]] [[alchaincyf-huashu-design]] [[cathrynlavery-diagram-design]] [[openai-codex-security]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

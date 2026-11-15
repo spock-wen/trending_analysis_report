@@ -36,7 +36,7 @@ A collection of projects designed to help developers quickly get started with bu
 
 ## 相关项目
 
-[[tradermonty-claude-trading-skills]] [[prometheus-prometheus]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[homeassistant-ai-ha-mcp]]
+[[zhulinsen-daily_stock_analysis]] [[louislam-uptime-kuma]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

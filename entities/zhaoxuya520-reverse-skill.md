@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[raphire-win11debloat]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[actions-runner-images]] [[qwenlm-qwen-code]]
+[[martin-olivier-airgorah]] [[raphire-win11debloat]] [[actions-runner-images]] [[backnotprop-plannotator]] [[beenuar-aisoc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

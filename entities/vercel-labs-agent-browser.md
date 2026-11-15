@@ -38,7 +38,7 @@ Browser automation CLI for AI agents
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[openai-codex-security]]
+[[ag-ui-protocol-ag-ui]] [[martin-olivier-airgorah]] [[backnotprop-plannotator]] [[block-buzz]] [[tokio-rs-topcoat]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

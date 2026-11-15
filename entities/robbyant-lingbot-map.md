@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tradermonty-claude-trading-skills]] [[prometheus-prometheus]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]] [[paperclipai-paperclip]]
+[[zhulinsen-daily_stock_analysis]] [[alibaba-open-code-review]] [[tailscale-tailcat]] [[tauricresearch-tradingagents]] [[paperclipai-paperclip]]
 
 **所属领域**: [[data]] [[science]]
 

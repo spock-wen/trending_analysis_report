@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[prometheus-prometheus]] [[dream-num-univer]] [[juliusbrussee-caveman]] [[zhulinsen-daily_stock_analysis]] [[agentjido-jido]]
+[[agentjido-jido]] [[zhulinsen-daily_stock_analysis]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]] [[tailscale-tailcat]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

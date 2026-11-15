@@ -38,7 +38,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ## 相关项目
 
-[[anthropics-claude-quickstarts]] [[tradermonty-claude-trading-skills]] [[prometheus-prometheus]] [[dream-num-univer]] [[juliusbrussee-caveman]]
+[[zhulinsen-daily_stock_analysis]] [[louislam-uptime-kuma]] [[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[anthropics-claude-quickstarts]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

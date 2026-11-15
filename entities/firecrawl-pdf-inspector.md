@@ -38,5 +38,5 @@ Fast Rust library for PDF inspection, classification, and text extraction. Intel
 
 ## 相关项目
 
-[[block-buzz]] [[vercel-labs-agent-browser]] [[martin-olivier-airgorah]] [[tokio-rs-topcoat]]
+[[vercel-labs-agent-browser]] [[martin-olivier-airgorah]] [[tokio-rs-topcoat]] [[block-buzz]]
 

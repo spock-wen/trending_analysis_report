@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[qwenlm-qwen-code]] [[openai-codex-security]] [[backnotprop-plannotator]] [[googlechrome-modern-web-guidance-src]]
+[[ag-ui-protocol-ag-ui]] [[backnotprop-plannotator]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[qwenlm-qwen-code]]
 
 **所属领域**: [[web]] [[cli]]
 

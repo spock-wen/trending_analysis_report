@@ -36,7 +36,7 @@ An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp
 
 ## 相关项目
 
-[[tradermonty-claude-trading-skills]] [[alishahryar1-free-claude-code]] [[homeassistant-ai-ha-mcp]] [[zhulinsen-daily_stock_analysis]] [[affaan-m-ecc]]
+[[zhulinsen-daily_stock_analysis]] [[tauricresearch-tradingagents]] [[paperclipai-paperclip]] [[nvidia-skillevaluator]] [[affaan-m-ecc]]
 
 **所属领域**: [[science]]
 

@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[jiafeimiao-k-cat-discimagestudio]] [[addyosmani-agent-skills]] [[nodejs-node]] [[cloudflare-security-audit-skill]]
+[[ag-ui-protocol-ag-ui]] [[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[addyosmani-agent-skills]] [[openai-codex-security]]
 
 **所属领域**: [[web]] [[image-gen]]
 

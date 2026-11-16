@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[louislam-uptime-kuma]] [[michaelcade-90daysofdevops]] [[xiaolai-the-craft-of-selfteaching]] [[obra-superpowers]] [[anthropics-claude-quickstarts]]
+[[higgsfield-ai-higgsfield]] [[patchy631-ai-engineering-hub]] [[google-labs-code-stitch-skills]] [[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

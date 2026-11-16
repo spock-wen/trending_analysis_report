@@ -36,7 +36,7 @@ Developer-first error tracking and performance monitoring
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[elementalsouls-claude-bughunter]] [[anthropics-claude-quickstarts]] [[ruvnet-ruview]] [[nvidia-skillevaluator]]
+[[anthropics-claude-quickstarts]] [[ruvnet-ruview]] [[mvanhorn-last30days-skill]] [[tradermonty-claude-trading-skills]] [[nvidia-skillevaluator]]
 
 **所属领域**: [[devops]]
 

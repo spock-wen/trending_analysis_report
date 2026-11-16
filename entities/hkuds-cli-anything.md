@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[zhulinsen-daily_stock_analysis]] [[backnotprop-plannotator]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]]
+[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

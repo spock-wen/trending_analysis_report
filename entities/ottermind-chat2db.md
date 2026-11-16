@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[backnotprop-plannotator]] [[elementalsouls-claude-bughunter]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]]
+[[backnotprop-plannotator]] [[yuliskov-smarttube]] [[thealgorithms-java]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

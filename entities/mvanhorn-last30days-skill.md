@@ -1,20 +1,20 @@
 ---
 title: "mvanhorn/last30days-skill"
 created: 2026-03-25
-updated: 2026-08-31
-last_active: 2026-08-31
+updated: 2026-11-17
+last_active: 2026-11-17
 type: tool
 tags: [python, ai-agent, web, science]
-sources: [raw/trending/2026-08-31.json]
+sources: [raw/trending/2026-11-17.json]
 confidence: high
-trending_count_daily: 19
+trending_count_daily: 20
 trending_count_weekly: 1
 trending_count_monthly: 0
 consecutive_days: 1
 first_trending: 2026-03-25
-last_trending: 2026-08-31
+last_trending: 2026-11-17
 peak_rank: 1
-total_stars: 60480
+total_stars: 68087
 language: "Python"
 ---
 
@@ -23,22 +23,22 @@ language: "Python"
 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
 - 语言: Python
-- 上榜次数: 19 次
+- 上榜次数: 20 次
 - 连续上榜: 1 天
 - 最高排名: #1
 - 链接: [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
 
 ## 上榜历史
 
+  - 2026-11-17: #9, +122⭐
   - 2026-08-31: #7, +271⭐
   - 2026-08-03: #11, +217⭐
   - 2026-08-01: #3, +660⭐
   - 2026-07-31: #7, +377⭐
-  - 2026-07-28: #14, +240⭐
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[zhulinsen-daily_stock_analysis]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[k-dense-ai-scientific-agent-skills]]
+[[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[google-research-paper-orchestra]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

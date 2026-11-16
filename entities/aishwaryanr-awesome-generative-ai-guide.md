@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[alchaincyf-huashu-design]] [[cathrynlavery-diagram-design]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]]
+[[cathrynlavery-diagram-design]] [[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[google-research-paper-orchestra]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

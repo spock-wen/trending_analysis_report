@@ -38,7 +38,7 @@ Give Claude the ability to watch any video. /watch downloads, extracts frames, t
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[nvidia-skillevaluator]] [[chromedevtools-chrome-devtools-mcp]]
+[[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[tradermonty-claude-trading-skills]]
 
 **所属领域**: [[ai-agent]]
 

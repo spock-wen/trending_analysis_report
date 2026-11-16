@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[martin-olivier-airgorah]] [[addyosmani-agent-skills]] [[beenuar-aisoc]] [[openai-codex-security]] [[google-labs-code-stitch-skills]]
+[[openai-codex-security]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

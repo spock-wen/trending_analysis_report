@@ -38,7 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[addyosmani-agent-skills]] [[elementalsouls-claude-bughunter]] [[cloudflare-security-audit-skill]] [[google-labs-code-stitch-skills]]
+[[backnotprop-plannotator]] [[elementalsouls-claude-bughunter]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

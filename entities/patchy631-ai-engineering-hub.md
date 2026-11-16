@@ -34,7 +34,7 @@ In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
 ## 相关项目
 
-[[michaelcade-90daysofdevops]] [[xiaolai-the-craft-of-selfteaching]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[higgsfield-ai-higgsfield]]
+[[higgsfield-ai-higgsfield]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[xiaolai-the-craft-of-selfteaching]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

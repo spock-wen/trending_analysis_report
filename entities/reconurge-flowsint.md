@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[martin-olivier-airgorah]] [[beenuar-aisoc]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[cloudflare-security-audit-skill]]
+[[backnotprop-plannotator]] [[openai-codex-security]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[martin-olivier-airgorah]]
 
 **所属领域**: [[security]]
 

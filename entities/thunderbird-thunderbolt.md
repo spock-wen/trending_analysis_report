@@ -34,7 +34,7 @@ AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[googlechrome-modern-web-guidance-src]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]] [[tailscale-tailcat]]
+[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

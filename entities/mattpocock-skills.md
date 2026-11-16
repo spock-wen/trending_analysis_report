@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[michaelcade-90daysofdevops]] [[backnotprop-plannotator]] [[donchitos-claude-code-game-studios]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]]
+[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[donchitos-claude-code-game-studios]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

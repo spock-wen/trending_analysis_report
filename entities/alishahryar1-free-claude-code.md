@@ -38,7 +38,7 @@ Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harne
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[microsoft-vibevoice]] [[zhulinsen-daily_stock_analysis]] [[anomalyco-hex]] [[backnotprop-plannotator]]
+[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[scenario-labs-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]] [[audio]]
 

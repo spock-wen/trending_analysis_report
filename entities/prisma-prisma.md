@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[zhulinsen-daily_stock_analysis]] [[likely7-veyra-nrvideo]] [[googlechrome-modern-web-guidance-src]] [[alibaba-open-code-review]]
+[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[likely7-veyra-nrvideo]]
 
 **所属领域**: [[data]] [[image-gen]]
 

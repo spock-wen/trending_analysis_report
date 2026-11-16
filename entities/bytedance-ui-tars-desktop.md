@@ -37,7 +37,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[louislam-uptime-kuma]] [[googlechrome-modern-web-guidance-src]] [[anthropics-claude-quickstarts]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]]
+[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

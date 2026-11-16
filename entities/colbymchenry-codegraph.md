@@ -38,7 +38,7 @@ Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
 
 ## 相关项目
 
-[[lz4-lz4]] [[fareedkhan-dev-kimi-k3-in-c]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[chromedevtools-chrome-devtools-mcp]]
+[[fareedkhan-dev-kimi-k3-in-c]] [[google-labs-code-stitch-skills]] [[openssl-openssl]] [[mpv-player-mpv]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]]
 

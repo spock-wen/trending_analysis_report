@@ -35,7 +35,7 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[tailscale-tailcat]] [[nvidia-skillevaluator]]
+[[google-labs-code-stitch-skills]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

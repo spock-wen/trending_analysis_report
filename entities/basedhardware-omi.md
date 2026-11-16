@@ -34,7 +34,7 @@ AI that sees your screen, listens to your conversations and tells you what to do
 
 ## 相关项目
 
-[[flutter-flutter]] [[chen08209-flclash]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[flutter-skills]]
+[[chen08209-flclash]] [[google-labs-code-stitch-skills]] [[flutter-flutter]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

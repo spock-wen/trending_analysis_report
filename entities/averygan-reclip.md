@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[alchaincyf-huashu-design]] [[backnotprop-plannotator]] [[cathrynlavery-diagram-design]] [[openai-codex-security]]
+[[backnotprop-plannotator]] [[elementalsouls-claude-bughunter]] [[cathrynlavery-diagram-design]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

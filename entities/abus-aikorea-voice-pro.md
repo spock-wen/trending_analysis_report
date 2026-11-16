@@ -34,7 +34,7 @@ Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) a
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[microsoft-vibevoice]] [[zhulinsen-daily_stock_analysis]] [[anomalyco-hex]] [[openai-codex-security]]
+[[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[scenario-labs-skills]] [[chromedevtools-chrome-devtools-mcp]] [[microsoft-vibevoice]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[obra-superpowers]] [[agricidaniel-claude-seo]]
+[[elementalsouls-claude-bughunter]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[php-php-src]] [[nutlope-hallmark]]
 
 **所属领域**: [[web]] [[erp]]
 

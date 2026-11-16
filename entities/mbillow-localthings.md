@@ -34,5 +34,5 @@ Control your Samsung appliances from Home Assistant over your home network, with
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[nvidia-skillevaluator]] [[tradermonty-claude-trading-skills]] [[elementalsouls-claude-bughunter]]
+[[tradermonty-claude-trading-skills]] [[nvidia-skillevaluator]] [[elementalsouls-claude-bughunter]] [[mvanhorn-last30days-skill]]
 

@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[flutter-flutter]] [[chen08209-flclash]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[chromedevtools-chrome-devtools-mcp]]
+[[chen08209-flclash]] [[google-labs-code-stitch-skills]] [[flutter-flutter]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

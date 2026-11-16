@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[jiafeimiao-k-cat-discimagestudio]] [[sonarr-sonarr]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[chromedevtools-chrome-devtools-mcp]]
+[[k1tbyte-wand-enhancer]] [[google-labs-code-stitch-skills]] [[jiafeimiao-k-cat-discimagestudio]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

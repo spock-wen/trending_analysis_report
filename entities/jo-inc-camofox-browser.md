@@ -35,7 +35,7 @@ Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[addyosmani-agent-skills]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[cloudflare-security-audit-skill]]
+[[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

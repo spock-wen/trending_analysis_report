@@ -38,7 +38,7 @@ Open-source 3D architectural editor with a local CLI, MCP tools, and practical w
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[googlechrome-modern-web-guidance-src]] [[qwenlm-qwen-code]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]]
+[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

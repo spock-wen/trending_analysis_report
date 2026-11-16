@@ -35,7 +35,7 @@ LLM inference in C/C++
 
 ## 相关项目
 
-[[google-deepmind-mujoco]] [[likely7-veyra-nrvideo]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[chromedevtools-chrome-devtools-mcp]]
+[[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[google-deepmind-mujoco]] [[likely7-veyra-nrvideo]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

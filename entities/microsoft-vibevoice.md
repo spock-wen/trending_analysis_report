@@ -38,7 +38,7 @@ Open-Source Frontier Voice AI
 
 ## 相关项目
 
-[[anomalyco-hex]] [[zhulinsen-daily_stock_analysis]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[alishahryar1-free-claude-code]]
+[[google-labs-code-stitch-skills]] [[scenario-labs-skills]] [[chromedevtools-chrome-devtools-mcp]] [[anomalyco-hex]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

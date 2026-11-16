@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[penpot-penpot]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]] [[dream-num-univer]] [[chromedevtools-chrome-devtools-mcp]]
+[[google-labs-code-stitch-skills]] [[penpot-penpot]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

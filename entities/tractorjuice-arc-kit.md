@@ -34,7 +34,7 @@ Enterprise Architecture Governance & Vendor Procurement Toolkit
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[alchaincyf-huashu-design]] [[cathrynlavery-diagram-design]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]]
+[[elementalsouls-claude-bughunter]] [[cathrynlavery-diagram-design]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[averygan-reclip]]
 
 **所属领域**: [[web]] [[erp]]
 

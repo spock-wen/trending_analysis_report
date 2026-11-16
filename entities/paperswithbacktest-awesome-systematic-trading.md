@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[michaelcade-90daysofdevops]] [[tauricresearch-tradingagents]] [[patchy631-ai-engineering-hub]] [[paperclipai-paperclip]]
+[[patchy631-ai-engineering-hub]] [[google-research-paper-orchestra]] [[thu-maic-openmaic]] [[michaelcade-90daysofdevops]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[education]] [[science]]
 

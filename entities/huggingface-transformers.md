@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anomalyco-hex]] [[microsoft-vibevoice]] [[zhulinsen-daily_stock_analysis]] [[michaelcade-90daysofdevops]] [[scenario-labs-skills]]
+[[patchy631-ai-engineering-hub]] [[google-labs-code-stitch-skills]] [[scenario-labs-skills]] [[chromedevtools-chrome-devtools-mcp]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

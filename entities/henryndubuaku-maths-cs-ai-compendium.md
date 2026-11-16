@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[googlechrome-modern-web-guidance-src]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]] [[tauricresearch-tradingagents]] [[paperclipai-paperclip]]
+[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[google-research-paper-orchestra]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

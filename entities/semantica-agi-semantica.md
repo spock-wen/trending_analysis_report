@@ -38,7 +38,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[louislam-uptime-kuma]] [[anthropics-claude-quickstarts]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]]
+[[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[anthropics-claude-quickstarts]] [[alibaba-open-code-review]] [[ruvnet-ruview]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -35,7 +35,7 @@ Agent framework and applications built upon Qwen>=3.0, featuring Function Callin
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[zhulinsen-daily_stock_analysis]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[obra-superpowers]]
+[[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[php-php-src]]
 
 **所属领域**: [[ai-agent]] [[web]] [[erp]]
 

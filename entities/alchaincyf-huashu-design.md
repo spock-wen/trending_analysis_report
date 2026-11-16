@@ -34,7 +34,7 @@ Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网�
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[cathrynlavery-diagram-design]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[ripienaar-free-for-dev]]
+[[cathrynlavery-diagram-design]] [[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

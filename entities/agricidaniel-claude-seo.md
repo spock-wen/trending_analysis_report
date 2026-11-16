@@ -34,7 +34,7 @@ Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering tech
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[zhulinsen-daily_stock_analysis]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[obra-superpowers]]
+[[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[erp]]
 

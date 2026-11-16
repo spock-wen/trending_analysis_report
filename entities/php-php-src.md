@@ -35,7 +35,7 @@ The PHP Interpreter
 
 ## 相关项目
 
-[[lz4-lz4]] [[obra-superpowers]] [[fareedkhan-dev-kimi-k3-in-c]] [[agricidaniel-claude-seo]] [[mpv-player-mpv]]
+[[fareedkhan-dev-kimi-k3-in-c]] [[openssl-openssl]] [[mpv-player-mpv]] [[lz4-lz4]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[erp]]
 

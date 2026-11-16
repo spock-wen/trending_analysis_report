@@ -34,7 +34,7 @@ Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, 
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[louislam-uptime-kuma]] [[anthropics-claude-quickstarts]] [[alibaba-open-code-review]] [[tailscale-tailcat]]
+[[zhulinsen-daily_stock_analysis]] [[anthropics-claude-quickstarts]] [[alibaba-open-code-review]] [[ruvnet-ruview]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[data]] [[devops]]
 

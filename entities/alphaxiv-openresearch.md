@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[martin-olivier-airgorah]] [[block-buzz]] [[vercel-labs-agent-browser]] [[tokio-rs-topcoat]] [[google-labs-code-stitch-skills]]
+[[block-buzz]] [[google-labs-code-stitch-skills]] [[google-research-paper-orchestra]] [[tokio-rs-topcoat]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

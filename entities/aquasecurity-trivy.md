@@ -38,7 +38,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[martin-olivier-airgorah]] [[beenuar-aisoc]] [[openai-codex-security]] [[juliusbrussee-caveman]] [[cloudflare-security-audit-skill]]
+[[openai-codex-security]] [[google-labs-code-stitch-skills]] [[juliusbrussee-caveman]] [[tencent-loopforge]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

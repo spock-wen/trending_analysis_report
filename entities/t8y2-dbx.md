@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[martin-olivier-airgorah]] [[zhulinsen-daily_stock_analysis]] [[backnotprop-plannotator]] [[block-buzz]] [[vercel-labs-agent-browser]]
+[[block-buzz]] [[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[tokio-rs-topcoat]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

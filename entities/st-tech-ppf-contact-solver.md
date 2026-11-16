@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[nvidia-skillevaluator]]
+[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[tradermonty-claude-trading-skills]]
 
 **所属领域**: [[cli]]
 

@@ -38,7 +38,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[thealgorithms-java]] [[nationalsecurityagency-ghidra]]
+[[yuliskov-smarttube]] [[thealgorithms-java]] [[google-labs-code-stitch-skills]] [[floci-io-floci]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

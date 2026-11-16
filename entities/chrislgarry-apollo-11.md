@@ -38,7 +38,7 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 
 ## 相关项目
 
-[[qwenlm-qwen-code]] [[elementalsouls-claude-bughunter]] [[backnotprop-plannotator]] [[google-labs-code-stitch-skills]]
+[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[elementalsouls-claude-bughunter]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[cli]]
 

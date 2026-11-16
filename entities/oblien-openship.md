@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[louislam-uptime-kuma]] [[googlechrome-modern-web-guidance-src]] [[anthropics-claude-quickstarts]] [[google-labs-code-stitch-skills]] [[ruvnet-ruview]]
+[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[ruvnet-ruview]] [[anthropics-claude-quickstarts]]
 
 **所属领域**: [[devops]]
 

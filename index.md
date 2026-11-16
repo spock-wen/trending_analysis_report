@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-11-16 | 总页面：909
+> 最后更新：2026-11-17 | 总页面：914
 
 ## Entities
 
@@ -23,7 +23,7 @@
 - [[addyosmani-agent-skills|agent-skills]] — Production-grade engineering skills for AI coding agents. 🔥
 - [[affaan-m-ecc|ECC]] — The agent harness performance optimization system. Skills, i... 🆕
 - [[affaan-m-everything-claude-code|everything-claude-code]] — The agent harness performance optimization system. Skills, i...
-- [[ag-ui-protocol-ag-ui|ag-ui]] — AG-UI: the Agent-User Interaction Protocol. Bring Agents int... 🆕
+- [[ag-ui-protocol-ag-ui|ag-ui]] — AG-UI: the Agent-User Interaction Protocol. Bring Agents int... 🔥
 - [[agalwood-motrix|Motrix]] — A full-featured download manager. 🆕
 - [[agavra-tuicr|tuicr]] — a code review TUI with vim keybindings 🆕
 - [[agegr-pi-web|pi-web]] — Web UI for the pi coding agent 🔥
@@ -215,6 +215,7 @@
 - [[davila7-claude-code-templates|claude-code-templates]] — CLI tool for configuring and monitoring Claude Code 🆕
 - [[dayuanjiang-next-ai-draw-io|next-ai-draw-io]] — A next.js web application that integrates AI capabilities wi...
 - [[dbt-labs-dbt-core|dbt-core]] — dbt enables data analysts and engineers to transform their d...
+- [[deanchensj-jiangshan-map|jiangshan-map]] — 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Histori... 🆕
 - [[debpalash-voicestudio|VoiceStudio]] — VoiceStudio is the open-source, fully-local ElevenLabs alter... 🆕
 - [[decolua-9router|9router]] — Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor... 🔥
 - [[deepfakes-faceswap|faceswap]] — Deepfakes Software For All
@@ -242,7 +243,7 @@
 - [[dotnet-aspnetcore|aspnetcore]] — ASP.NET Core is a cross-platform .NET framework for building...
 - [[dotnet-skills|skills]] — Repository for skills to assist AI coding agents with .NET a...
 - [[dottxt-ai-outlines|outlines]] — Structured Outputs 🆕
-- [[dream-num-univer|univer]] — Build your own AI office with Univer Office SDK. Bring editi... 🆕
+- [[dream-num-univer|univer]] — Build your own AI office with Univer Office SDK. Bring editi... 🔥
 - [[dreammis-social-auto-upload|social-auto-upload]] — 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 - [[dsx-ai-factory-nvke|nvke]] — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU ... 🆕
 - [[duartesantos8-opengym|openGym]] — Self-hosted gym & body-weight tracker — plan routines, log w... 🔥
@@ -303,8 +304,9 @@
 - [[genlayerlabs-genlayer-project-boilerplate|genlayer-project-boilerplate]] — No description 🆕
 - [[genymobile-scrcpy|scrcpy]] — Display and control your Android device
 - [[geo-tp-esp32-bit-pirate|ESP32-Bit-Pirate]] — A Hardware Hacking Tool with Web-Based CLI That Speaks Every...
+- [[getarcaneapp-arcane|arcane]] — Modern Docker Management, Designed for Everyone 🆕
 - [[getsentry-sentry|sentry]] — Developer-first error tracking and performance monitoring 🔥
-- [[ggml-org-ggml|ggml]] — Tensor library for machine learning 🆕
+- [[ggml-org-ggml|ggml]] — Tensor library for machine learning
 - [[ggml-org-llama.cpp|llama.cpp]] — LLM inference in C/C++
 - [[ghostty-org-ghostty|ghostty]] — 👻 Ghostty is a fast, feature-rich, and cross-platform termin...
 - [[github-copilot-sdk|copilot-sdk]] — Multi-platform SDK for integrating GitHub Copilot Agent into... 🆕
@@ -327,9 +329,10 @@
 - [[google-gemini-gemini-cli|gemini-cli]] — An open-source AI agent that brings the power of Gemini dire...
 - [[google-googletest|googletest]] — GoogleTest - Google Testing and Mocking Framework 🔥
 - [[google-guava|guava]] — Google core libraries for Java 🔥
-- [[google-labs-code-stitch-skills|stitch-skills]] — A library of Agent Skills designed to work with the Stitch M...
+- [[google-labs-code-stitch-skills|stitch-skills]] — A library of Agent Skills designed to work with the Stitch M... 🆕
 - [[google-magika|magika]] — Fast and accurate AI powered file content types detection 🔥
 - [[google-osv-scanner|osv-scanner]] — Vulnerability scanner written in Go which uses the data prov...
+- [[google-research-paper-orchestra|paper-orchestra]] — PaperOrchestra is a multi-agent framework for automated AI r... 🆕
 - [[google-research-timesfm|timesfm]] — TimesFM (Time Series Foundation Model) is a pretrained time-... 🔥
 - [[google-skills|skills]] — Agent Skills for Google products and technologies 🔥
 - [[googlechrome-modern-web-guidance-src|modern-web-guidance-src]] — Keep your coding agent up to date with the latest web best p... 🔥
@@ -427,6 +430,7 @@
 - [[k-dense-ai-scientific-agent-skills|scientific-agent-skills]] — Turn any AI agent into an AI Scientist. The #1 Agent Skills ... 🔥
 - [[k1tbyte-wand-enhancer|Wand-Enhancer]] — Advanced UX and interoperability extension for Wand (WeMod) ...
 - [[kaifcodec-user-scanner|user-scanner]] — 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data ex...
+- [[kajisho5-ffmpeg-skill|ffmpeg-skill]] — Local video editor for coding agents: 42 FFmpeg tools with a... 🆕
 - [[karakeep-app-karakeep|karakeep]] — A self-hostable bookmark-everything app (links, notes and im...
 - [[karpathy-nanochat|nanochat]] — The best ChatGPT that $100 can buy.
 - [[karpathy-nn-zero-to-hero|nn-zero-to-hero]] — Neural Networks: Zero to Hero
@@ -588,7 +592,7 @@
 - [[nvidia-nemo-switchyard|Switchyard]] — Switchyard lets LLM applications route traffic across models... 🆕
 - [[nvidia-openshell|OpenShell]] — OpenShell is the safe, private runtime for autonomous AI age... 🆕
 - [[nvidia-personaplex|personaplex]] — PersonaPlex code. 🆕
-- [[nvidia-skillevaluator|SkillEvaluator]] — Multi-tier framework for evaluating AI agent skills with qua... 🆕
+- [[nvidia-skillevaluator|SkillEvaluator]] — Multi-tier framework for evaluating AI agent skills and plug... 🆕
 - [[nvidia-skillspector|SkillSpector]] — Security scanner for AI agent skills. Detect vulnerabilities...
 - [[nvlabs-sana|Sana]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
 - [[nvm-sh-nvm|nvm]] — Node Version Manager - POSIX-compliant bash script to manage...
@@ -761,6 +765,7 @@
 - [[supermemoryai-supermemory|supermemory]] — Memory and context engine + app that is extremely fast, scal...
 - [[superset-sh-superset|superset]] — IDE for the AI Agents Era - Run an army of Claude Code, Code...
 - [[supertone-inc-supertonic|supertonic]] — Lightning-Fast, On-Device, Multilingual TTS running natively...
+- [[sveltejs-svelte|svelte]] — web development for the rest of us 🆕
 - [[swc-project-swc|swc]] — Rust-based platform for the Web
 - [[swoole-typephp|typephp]] — Compile PHP to Native Binaries
 - [[swordfish90-cool-retro-term|cool-retro-term]] — A good looking terminal emulator which mimics the old cathod...

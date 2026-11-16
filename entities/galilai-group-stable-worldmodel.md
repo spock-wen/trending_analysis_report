@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[zhulinsen-daily_stock_analysis]] [[likely7-veyra-nrvideo]] [[k-dense-ai-scientific-agent-skills]] [[google-labs-code-stitch-skills]]
+[[google-labs-code-stitch-skills]] [[google-research-paper-orchestra]] [[chromedevtools-chrome-devtools-mcp]] [[nvidia-auto-ontology]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

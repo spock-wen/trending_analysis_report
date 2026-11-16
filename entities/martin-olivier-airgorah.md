@@ -34,7 +34,7 @@ A WiFi security auditing software
 
 ## 相关项目
 
-[[block-buzz]] [[vercel-labs-agent-browser]] [[beenuar-aisoc]] [[tokio-rs-topcoat]] [[openai-codex-security]]
+[[block-buzz]] [[openai-codex-security]] [[google-labs-code-stitch-skills]] [[tokio-rs-topcoat]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

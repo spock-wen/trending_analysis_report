@@ -34,7 +34,7 @@ Agent-driven research knowledge base. Agents collect, search, and synthesize web
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[zhulinsen-daily_stock_analysis]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[k-dense-ai-scientific-agent-skills]]
+[[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[google-research-paper-orchestra]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

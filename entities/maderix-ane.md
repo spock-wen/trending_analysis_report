@@ -34,7 +34,7 @@ Training neural networks on Apple Neural Engine via reverse-engineered private A
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[dream-num-univer]] [[pookjw-hermesenabler]]
+[[pookjw-hermesenabler]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

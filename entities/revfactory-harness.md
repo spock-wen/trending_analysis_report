@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[alchaincyf-huashu-design]] [[cathrynlavery-diagram-design]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]]
+[[cathrynlavery-diagram-design]] [[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[averygan-reclip]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

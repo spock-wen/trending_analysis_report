@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[louislam-uptime-kuma]] [[michaelcade-90daysofdevops]] [[googlechrome-modern-web-guidance-src]] [[anthropics-claude-quickstarts]] [[alibaba-open-code-review]]
+[[backnotprop-plannotator]] [[patchy631-ai-engineering-hub]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

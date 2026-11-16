@@ -34,7 +34,7 @@ A free, open source, and extensible speech-to-text application that works comple
 
 ## 相关项目
 
-[[anomalyco-hex]] [[microsoft-vibevoice]] [[martin-olivier-airgorah]] [[block-buzz]] [[vercel-labs-agent-browser]]
+[[block-buzz]] [[google-labs-code-stitch-skills]] [[tokio-rs-topcoat]] [[scenario-labs-skills]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

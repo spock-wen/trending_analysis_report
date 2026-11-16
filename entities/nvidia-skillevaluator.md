@@ -1,40 +1,51 @@
 ---
 title: "NVIDIA/SkillEvaluator"
 created: 2026-11-16
-updated: 2026-11-16
-last_active: 2026-11-16
+updated: 2026-11-17
+last_active: 2026-11-17
 type: framework
 tags: [python, ai-agent, data, image-gen]
-sources: [raw/trending/2026-11-16.json]
-confidence: low
-trending_count_daily: 1
+sources: [raw/trending/2026-11-17.json]
+confidence: medium
+trending_count_daily: 2
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 1
+consecutive_days: 2
 first_trending: 2026-11-16
-last_trending: 2026-11-16
-peak_rank: 12
-total_stars: 1621
+last_trending: 2026-11-17
+peak_rank: 10
+total_stars: 2622
 language: "Python"
 ---
 
 # NVIDIA/SkillEvaluator
 
-Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
+Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
 
 - 语言: Python
-- 上榜次数: 1 次
-- 连续上榜: 1 天
-- 最高排名: #12
+- 上榜次数: 2 次
+- 连续上榜: 2 天
+- 最高排名: #10
 - 链接: [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)
 
 ## 上榜历史
 
+  - 2026-11-17: #10, +953⭐
   - 2026-11-16: #12, +205⭐
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[zhulinsen-daily_stock_analysis]] [[likely7-veyra-nrvideo]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]]
+[[google-labs-code-stitch-skills]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[likely7-veyra-nrvideo]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
+
+
+## ⚠️ 描述变更（2026-11-17）
+
+该项目描述近期发生过重大变化，可能存在定位调整：
+
+- **旧描述**: Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
+- **新描述**: Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
+
+> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

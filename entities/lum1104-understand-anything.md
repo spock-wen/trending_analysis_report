@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[michaelcade-90daysofdevops]] [[backnotprop-plannotator]] [[googlechrome-modern-web-guidance-src]] [[qwenlm-qwen-code]] [[alibaba-open-code-review]]
+[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[patchy631-ai-engineering-hub]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

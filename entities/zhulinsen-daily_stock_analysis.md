@@ -37,7 +37,7 @@ LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、�
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[tailscale-tailcat]] [[nvidia-skillevaluator]] [[chromedevtools-chrome-devtools-mcp]]
+[[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[tradermonty-claude-trading-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

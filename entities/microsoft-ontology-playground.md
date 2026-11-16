@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[michaelcade-90daysofdevops]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[google-labs-code-stitch-skills]]
+[[backnotprop-plannotator]] [[patchy631-ai-engineering-hub]] [[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]] [[education]]
 

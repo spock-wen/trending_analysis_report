@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[louislam-uptime-kuma]] [[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[anthropics-claude-quickstarts]]
+[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[anthropics-claude-quickstarts]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

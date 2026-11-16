@@ -34,7 +34,7 @@ This open-source curriculum introduces the fundamentals of Model Context Protoco
 
 ## 相关项目
 
-[[michaelcade-90daysofdevops]] [[xiaolai-the-craft-of-selfteaching]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[higgsfield-ai-higgsfield]]
+[[higgsfield-ai-higgsfield]] [[patchy631-ai-engineering-hub]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

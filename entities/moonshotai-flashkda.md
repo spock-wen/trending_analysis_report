@@ -34,7 +34,7 @@ FlashKDA: high-performance Kimi Delta Attention kernels
 
 ## 相关项目
 
-[[deepseek-ai-deepep]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[dream-num-univer]]
+[[deepseek-ai-deepep]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[deepseek-ai-deepgemm]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,5 +36,5 @@ Curated list of the best free apps for PC and mobile
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[nodejs-node]] [[cloudflare-security-audit-skill]] [[louislam-uptime-kuma]]
+[[addyosmani-agent-skills]] [[louislam-uptime-kuma]] [[sveltejs-svelte]] [[deanchensj-jiangshan-map]]
 

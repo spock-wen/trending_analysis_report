@@ -37,7 +37,7 @@ Official Python inference and LoRA trainer package for the LTX-2 audio–video g
 
 ## 相关项目
 
-[[anomalyco-hex]] [[microsoft-vibevoice]] [[zhulinsen-daily_stock_analysis]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]]
+[[google-labs-code-stitch-skills]] [[scenario-labs-skills]] [[chromedevtools-chrome-devtools-mcp]] [[microsoft-vibevoice]] [[anomalyco-hex]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

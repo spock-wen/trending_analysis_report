@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[obra-superpowers]] [[googlechrome-modern-web-guidance-src]] [[google-labs-code-stitch-skills]] [[agricidaniel-claude-seo]] [[php-php-src]]
+[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[php-php-src]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[erp]]
 

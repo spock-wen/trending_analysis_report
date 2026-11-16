@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[mahlernim-google-timeline-visualizer]] [[ag-ui-protocol-ag-ui]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[bannedbook-fanqiang]]
+[[android-skills]] [[bannedbook-fanqiang]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]]
 

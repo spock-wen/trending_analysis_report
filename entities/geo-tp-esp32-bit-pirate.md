@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[google-deepmind-mujoco]] [[likely7-veyra-nrvideo]] [[ggml-org-llama.cpp]] [[backnotprop-plannotator]]
+[[backnotprop-plannotator]] [[elementalsouls-claude-bughunter]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[web]] [[cli]]
 

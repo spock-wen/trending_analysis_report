@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[martin-olivier-airgorah]] [[beenuar-aisoc]] [[openai-codex-security]] [[k-dense-ai-scientific-agent-skills]]
+[[paperclipai-paperclip]] [[openai-codex-security]] [[google-labs-code-stitch-skills]] [[cloudflare-security-audit-skill]] [[google-research-paper-orchestra]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

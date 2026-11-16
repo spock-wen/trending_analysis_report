@@ -38,7 +38,7 @@ Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]]
+[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

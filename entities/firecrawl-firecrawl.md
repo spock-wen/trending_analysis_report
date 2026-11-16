@@ -36,7 +36,7 @@ The context API to search, scrape, and interact with the web at scale. 🔥
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]]
+[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]]
 

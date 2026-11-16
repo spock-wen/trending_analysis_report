@@ -34,7 +34,7 @@ An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that 
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[zhulinsen-daily_stock_analysis]] [[louislam-uptime-kuma]] [[backnotprop-plannotator]] [[likely7-veyra-nrvideo]]
+[[backnotprop-plannotator]] [[grokability-snipe-it]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[cli]] [[data]] [[devops]] [[image-gen]]
 

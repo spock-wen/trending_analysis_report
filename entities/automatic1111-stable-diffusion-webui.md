@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[nvidia-auto-ontology]] [[zhulinsen-daily_stock_analysis]] [[likely7-veyra-nrvideo]] [[openai-codex-security]]
+[[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[likely7-veyra-nrvideo]] [[nvidia-auto-ontology]] [[conardli-garden-skills]]
 
 **所属领域**: [[web]] [[image-gen]]
 

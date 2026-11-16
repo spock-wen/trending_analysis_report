@@ -35,5 +35,5 @@ Common User Passwords Profiler (CUPP)
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[nvidia-skillevaluator]] [[tradermonty-claude-trading-skills]] [[elementalsouls-claude-bughunter]]
+[[tradermonty-claude-trading-skills]] [[nvidia-skillevaluator]] [[elementalsouls-claude-bughunter]] [[mvanhorn-last30days-skill]]
 

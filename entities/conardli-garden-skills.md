@@ -36,7 +36,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[addyosmani-agent-skills]] [[openai-codex-security]]
+[[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[addyosmani-agent-skills]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

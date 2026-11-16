@@ -38,7 +38,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[tailscale-tailcat]] [[paperclipai-paperclip]]
+[[google-labs-code-stitch-skills]] [[google-research-paper-orchestra]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

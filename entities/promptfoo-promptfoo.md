@@ -36,7 +36,7 @@ Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni
 
 ## 相关项目
 
-[[louislam-uptime-kuma]] [[backnotprop-plannotator]] [[googlechrome-modern-web-guidance-src]] [[qwenlm-qwen-code]] [[anthropics-claude-quickstarts]]
+[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

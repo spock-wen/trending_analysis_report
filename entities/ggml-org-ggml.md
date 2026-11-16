@@ -34,7 +34,7 @@ Tensor library for machine learning
 
 ## 相关项目
 
-[[google-deepmind-mujoco]] [[likely7-veyra-nrvideo]] [[ggml-org-llama.cpp]] [[michaelcade-90daysofdevops]] [[patchy631-ai-engineering-hub]]
+[[patchy631-ai-engineering-hub]] [[ggml-org-llama.cpp]] [[thu-maic-openmaic]] [[google-deepmind-mujoco]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[education]]
 

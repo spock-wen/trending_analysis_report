@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[martin-olivier-airgorah]] [[louislam-uptime-kuma]] [[block-buzz]] [[vercel-labs-agent-browser]] [[tokio-rs-topcoat]]
+[[block-buzz]] [[tokio-rs-topcoat]] [[vercel-labs-agent-browser]] [[martin-olivier-airgorah]] [[anthropics-claude-quickstarts]]
 
 **所属领域**: [[devops]]
 

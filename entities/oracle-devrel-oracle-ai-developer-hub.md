@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[xiaolai-the-craft-of-selfteaching]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[higgsfield-ai-higgsfield]]
+[[higgsfield-ai-higgsfield]] [[patchy631-ai-engineering-hub]] [[google-labs-code-stitch-skills]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

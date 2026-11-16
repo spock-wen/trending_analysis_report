@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[dream-num-univer]]
+[[google-labs-code-stitch-skills]] [[teslamate-org-teslamate]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

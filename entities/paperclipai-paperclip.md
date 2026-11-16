@@ -38,7 +38,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[googlechrome-modern-web-guidance-src]] [[qwenlm-qwen-code]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]]
+[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[google-research-paper-orchestra]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

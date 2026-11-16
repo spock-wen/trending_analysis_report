@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[martin-olivier-airgorah]] [[google-deepmind-mujoco]] [[likely7-veyra-nrvideo]] [[ggml-org-llama.cpp]] [[backnotprop-plannotator]]
+[[backnotprop-plannotator]] [[openai-codex-security]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[cli]] [[security]]
 

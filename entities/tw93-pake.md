@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[martin-olivier-airgorah]] [[backnotprop-plannotator]] [[block-buzz]] [[vercel-labs-agent-browser]]
+[[block-buzz]] [[backnotprop-plannotator]] [[elementalsouls-claude-bughunter]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

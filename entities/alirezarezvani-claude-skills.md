@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[backnotprop-plannotator]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[qwenlm-qwen-code]]
+[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[google-research-paper-orchestra]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

@@ -37,7 +37,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]] [[google-labs-code-stitch-skills]]
+[[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[addyosmani-agent-skills]] [[nvidia-auto-ontology]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

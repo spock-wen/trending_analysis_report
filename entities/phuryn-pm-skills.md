@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]]
+[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -34,5 +34,5 @@ The JavaScript / Wasm runtime that powers Cloudflare Workers
 
 ## 相关项目
 
-[[ggml-org-ggml]] [[google-deepmind-mujoco]] [[likely7-veyra-nrvideo]] [[ggml-org-llama.cpp]]
+[[google-deepmind-mujoco]] [[ggml-org-llama.cpp]] [[ggml-org-ggml]] [[likely7-veyra-nrvideo]]
 

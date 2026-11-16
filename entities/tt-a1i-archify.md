@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[zhulinsen-daily_stock_analysis]] [[addyosmani-agent-skills]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]]
+[[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[addyosmani-agent-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

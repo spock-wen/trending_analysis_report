@@ -35,7 +35,7 @@ Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and captu
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[google-deepmind-mujoco]] [[ggml-org-llama.cpp]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]]
+[[google-labs-code-stitch-skills]] [[ggml-org-llama.cpp]] [[chromedevtools-chrome-devtools-mcp]] [[google-deepmind-mujoco]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

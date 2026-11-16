@@ -35,7 +35,7 @@ language: ""
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[chromedevtools-chrome-devtools-mcp]] [[dream-num-univer]] [[google-labs-code-stitch-skills]]
+[[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]]
 

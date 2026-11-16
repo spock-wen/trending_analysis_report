@@ -38,7 +38,7 @@ Give your agent CAD superpowers.
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[obra-superpowers]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[agricidaniel-claude-seo]]
+[[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[php-php-src]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

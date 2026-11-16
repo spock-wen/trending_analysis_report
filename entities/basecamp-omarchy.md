@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[michaelcade-90daysofdevops]] [[backnotprop-plannotator]] [[nvm-sh-nvm]] [[donchitos-claude-code-game-studios]] [[qwenlm-qwen-code]]
+[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[donchitos-claude-code-game-studios]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[cli]]
 

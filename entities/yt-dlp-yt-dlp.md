@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[anomalyco-hex]] [[microsoft-vibevoice]] [[zhulinsen-daily_stock_analysis]] [[backnotprop-plannotator]] [[qwenlm-qwen-code]]
+[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[scenario-labs-skills]] [[microsoft-vibevoice]]
 
 **所属领域**: [[cli]] [[audio]]
 

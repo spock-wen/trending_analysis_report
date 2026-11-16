@@ -38,7 +38,7 @@ Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,
 
 ## 相关项目
 
-[[martin-olivier-airgorah]] [[block-buzz]] [[vercel-labs-agent-browser]] [[tokio-rs-topcoat]] [[google-labs-code-stitch-skills]]
+[[block-buzz]] [[google-labs-code-stitch-skills]] [[tokio-rs-topcoat]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

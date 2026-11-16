@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[louislam-uptime-kuma]] [[elementalsouls-claude-bughunter]] [[anthropics-claude-quickstarts]] [[alibaba-open-code-review]]
+[[yuliskov-smarttube]] [[thealgorithms-java]] [[floci-io-floci]] [[zhulinsen-daily_stock_analysis]] [[alibaba-open-code-review]]
 
 **所属领域**: [[data]] [[devops]]
 

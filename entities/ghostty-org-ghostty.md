@@ -34,7 +34,7 @@ language: "Zig"
 
 ## 相关项目
 
-[[ashhart-tensorfold]] [[lightpanda-io-browser]] [[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]]
+[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[ashhart-tensorfold]] [[lightpanda-io-browser]]
 
 **所属领域**: [[cli]]
 

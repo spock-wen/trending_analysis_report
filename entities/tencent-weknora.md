@@ -35,7 +35,7 @@ Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an 
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[tailscale-tailcat]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]]
+[[google-labs-code-stitch-skills]] [[juliusbrussee-caveman]] [[tencent-loopforge]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]]
 

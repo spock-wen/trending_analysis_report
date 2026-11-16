@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[martin-olivier-airgorah]] [[raphire-win11debloat]] [[actions-runner-images]] [[backnotprop-plannotator]] [[beenuar-aisoc]]
+[[backnotprop-plannotator]] [[openai-codex-security]] [[qwenlm-qwen-code]] [[actions-runner-images]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

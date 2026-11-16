@@ -38,7 +38,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[k-dense-ai-scientific-agent-skills]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[tauricresearch-tradingagents]]
+[[google-labs-code-stitch-skills]] [[google-research-paper-orchestra]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

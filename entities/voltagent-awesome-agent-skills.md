@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]]
+[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[alchaincyf-huashu-design]] [[louislam-uptime-kuma]] [[cathrynlavery-diagram-design]] [[openai-codex-security]]
+[[elementalsouls-claude-bughunter]] [[cathrynlavery-diagram-design]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[averygan-reclip]]
 
 **所属领域**: [[web]] [[devops]]
 

@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[martin-olivier-airgorah]] [[block-buzz]] [[vercel-labs-agent-browser]] [[tokio-rs-topcoat]] [[obra-superpowers]]
+[[block-buzz]] [[google-labs-code-stitch-skills]] [[tokio-rs-topcoat]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

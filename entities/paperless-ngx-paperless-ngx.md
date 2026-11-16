@@ -35,7 +35,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[tauricresearch-tradingagents]] [[paperclipai-paperclip]] [[nvidia-skillevaluator]] [[affaan-m-ecc]]
+[[google-research-paper-orchestra]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[tradermonty-claude-trading-skills]] [[nvidia-skillevaluator]]
 
 **所属领域**: [[science]]
 

@@ -35,7 +35,7 @@ The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[obra-superpowers]] [[k-dense-ai-scientific-agent-skills]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]]
+[[google-labs-code-stitch-skills]] [[google-research-paper-orchestra]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[php-php-src]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

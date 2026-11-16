@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[juliusbrussee-caveman]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[tailscale-tailcat]]
+[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[juliusbrussee-caveman]] [[tencent-loopforge]]
 
 **所属领域**: [[cli]]
 

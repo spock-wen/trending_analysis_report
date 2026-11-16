@@ -34,7 +34,7 @@ The library for web and native user interfaces.
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[addyosmani-agent-skills]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[cloudflare-security-audit-skill]]
+[[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[addyosmani-agent-skills]] [[deanchensj-jiangshan-map]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]]
 

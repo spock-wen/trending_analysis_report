@@ -35,7 +35,7 @@ Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history
 
 ## 相关项目
 
-[[vorssaint-vorssaint-utils]] [[backnotprop-plannotator]] [[manaflow-ai-cmux]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]]
+[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[xtool-org-xtool]] [[vorssaint-vorssaint-utils]]
 
 **所属领域**: [[cli]]
 

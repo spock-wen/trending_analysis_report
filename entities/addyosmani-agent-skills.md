@@ -38,7 +38,7 @@ Production-grade engineering skills for AI coding agents.
 
 ## 相关项目
 
-[[cloudflare-security-audit-skill]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[chromedevtools-chrome-devtools-mcp]] [[dream-num-univer]]
+[[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[deanchensj-jiangshan-map]]
 
 **所属领域**: [[ai-agent]]
 

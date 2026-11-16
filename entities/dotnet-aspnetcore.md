@@ -36,7 +36,7 @@ ASP.NET Core is a cross-platform .NET framework for building modern cloud-based 
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[jiafeimiao-k-cat-discimagestudio]] [[sonarr-sonarr]] [[googlechrome-modern-web-guidance-src]] [[openai-codex-security]]
+[[k1tbyte-wand-enhancer]] [[ag-ui-protocol-ag-ui]] [[jiafeimiao-k-cat-discimagestudio]] [[chromedevtools-chrome-devtools-mcp]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]]
 

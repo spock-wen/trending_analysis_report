@@ -38,7 +38,7 @@ Keep your coding agent up to date with the latest web best practices
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[openai-codex-security]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]]
+[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

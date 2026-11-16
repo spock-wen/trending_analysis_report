@@ -34,7 +34,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[zhulinsen-daily_stock_analysis]] [[backnotprop-plannotator]] [[alibaba-open-code-review]] [[tauricresearch-tradingagents]]
+[[backnotprop-plannotator]] [[zhulinsen-daily_stock_analysis]] [[nvidia-auto-ontology]] [[alibaba-open-code-review]] [[conardli-garden-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

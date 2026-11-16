@@ -34,7 +34,7 @@ Replace port numbers with stable, named local URLs. For humans and agents.
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[googlechrome-modern-web-guidance-src]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]]
+[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[nvidia-auto-ontology]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

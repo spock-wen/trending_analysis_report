@@ -35,7 +35,7 @@ Get production-ready images, video, audio, and 3D from any AI agent: skills that
 
 ## 相关项目
 
-[[anomalyco-hex]] [[nvidia-auto-ontology]] [[zhulinsen-daily_stock_analysis]] [[microsoft-vibevoice]] [[likely7-veyra-nrvideo]]
+[[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[microsoft-vibevoice]] [[nvidia-auto-ontology]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

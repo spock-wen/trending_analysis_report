@@ -35,7 +35,7 @@ An Open Source Machine Learning Framework for Everyone
 
 ## 相关项目
 
-[[google-deepmind-mujoco]] [[likely7-veyra-nrvideo]] [[ggml-org-llama.cpp]] [[michaelcade-90daysofdevops]] [[patchy631-ai-engineering-hub]]
+[[patchy631-ai-engineering-hub]] [[ggml-org-llama.cpp]] [[likely7-veyra-nrvideo]] [[google-deepmind-mujoco]] [[thu-maic-openmaic]]
 
 **所属领域**: [[education]]
 

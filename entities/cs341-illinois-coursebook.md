@@ -35,7 +35,7 @@ Open Source Introductory Systems Programming Textbook for the University of Illi
 
 ## 相关项目
 
-[[michaelcade-90daysofdevops]] [[introduction-to-autonomous-robots-introduction-to-autonomous-robots]] [[patchy631-ai-engineering-hub]] [[ggml-org-ggml]] [[thu-maic-openmaic]]
+[[patchy631-ai-engineering-hub]] [[introduction-to-autonomous-robots-introduction-to-autonomous-robots]] [[thu-maic-openmaic]] [[michaelcade-90daysofdevops]] [[ggml-org-ggml]]
 
 **所属领域**: [[education]]
 

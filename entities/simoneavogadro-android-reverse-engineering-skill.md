@@ -35,7 +35,7 @@ Claude Code skill to support Android app's reverse engineering
 
 ## 相关项目
 
-[[michaelcade-90daysofdevops]] [[backnotprop-plannotator]] [[nvm-sh-nvm]] [[donchitos-claude-code-game-studios]] [[qwenlm-qwen-code]]
+[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[donchitos-claude-code-game-studios]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

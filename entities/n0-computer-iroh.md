@@ -37,5 +37,5 @@ IP addresses break, dial keys instead. Modular networking stack in Rust.
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[martin-olivier-airgorah]] [[tokio-rs-topcoat]] [[block-buzz]]
+[[block-buzz]] [[vercel-labs-agent-browser]] [[tokio-rs-topcoat]] [[martin-olivier-airgorah]]
 

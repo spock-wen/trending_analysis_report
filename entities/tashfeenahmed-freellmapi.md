@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[martin-olivier-airgorah]] [[beenuar-aisoc]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]] [[cloudflare-security-audit-skill]]
+[[backnotprop-plannotator]] [[openai-codex-security]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

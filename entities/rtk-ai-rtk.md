@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[martin-olivier-airgorah]] [[backnotprop-plannotator]] [[block-buzz]] [[vercel-labs-agent-browser]] [[tokio-rs-topcoat]]
+[[block-buzz]] [[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[tokio-rs-topcoat]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

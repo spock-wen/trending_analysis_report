@@ -38,7 +38,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[martin-olivier-airgorah]] [[beenuar-aisoc]] [[openai-codex-security]] [[cloudflare-security-audit-skill]]
+[[openai-codex-security]] [[google-labs-code-stitch-skills]] [[cloudflare-security-audit-skill]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]]
 

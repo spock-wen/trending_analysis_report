@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[zhulinsen-daily_stock_analysis]] [[louislam-uptime-kuma]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]]
+[[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[anthropics-claude-quickstarts]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

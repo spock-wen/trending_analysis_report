@@ -35,7 +35,7 @@ OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换�
 
 ## 相关项目
 
-[[martin-olivier-airgorah]] [[backnotprop-plannotator]] [[block-buzz]] [[vercel-labs-agent-browser]] [[tokio-rs-topcoat]]
+[[block-buzz]] [[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[tokio-rs-topcoat]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

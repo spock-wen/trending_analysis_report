@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[zhulinsen-daily_stock_analysis]] [[likely7-veyra-nrvideo]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]]
+[[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[nvidia-auto-ontology]] [[alibaba-open-code-review]] [[conardli-garden-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -36,7 +36,7 @@ like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[juliusbrussee-caveman]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[nvidia-skillevaluator]]
+[[google-labs-code-stitch-skills]] [[juliusbrussee-caveman]] [[tencent-loopforge]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

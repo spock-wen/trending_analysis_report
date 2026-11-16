@@ -36,7 +36,7 @@ A collection of projects designed to help developers quickly get started with bu
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[louislam-uptime-kuma]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[ruvnet-ruview]]
+[[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[ruvnet-ruview]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

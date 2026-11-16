@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[michaelcade-90daysofdevops]] [[addyosmani-agent-skills]] [[cloudflare-security-audit-skill]] [[alibaba-open-code-review]]
+[[patchy631-ai-engineering-hub]] [[zhulinsen-daily_stock_analysis]] [[thu-maic-openmaic]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[data]] [[education]]
 

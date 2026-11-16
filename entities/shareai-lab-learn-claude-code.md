@@ -37,7 +37,7 @@ Bash is all you need - A nano claude code–like 「agent harness」, built from
 
 ## 相关项目
 
-[[michaelcade-90daysofdevops]] [[googlechrome-modern-web-guidance-src]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]] [[patchy631-ai-engineering-hub]]
+[[backnotprop-plannotator]] [[patchy631-ai-engineering-hub]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

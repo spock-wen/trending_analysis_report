@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[michaelcade-90daysofdevops]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[patchy631-ai-engineering-hub]]
+[[patchy631-ai-engineering-hub]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[thu-maic-openmaic]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

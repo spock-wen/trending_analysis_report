@@ -36,7 +36,7 @@ Official inference framework for 1-bit LLMs
 
 ## 相关项目
 
-[[google-deepmind-mujoco]] [[likely7-veyra-nrvideo]] [[ggml-org-llama.cpp]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]]
+[[google-labs-code-stitch-skills]] [[ggml-org-llama.cpp]] [[chromedevtools-chrome-devtools-mcp]] [[google-deepmind-mujoco]] [[likely7-veyra-nrvideo]]
 
 **所属领域**: [[ai-agent]]
 

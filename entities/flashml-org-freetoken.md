@@ -35,7 +35,7 @@ FreeToken brings datacenter-scale model serving to your desktop. Run massive mod
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[alibaba-open-code-review]] [[tailscale-tailcat]] [[nvidia-skillevaluator]] [[tradermonty-claude-trading-skills]]
+[[zhulinsen-daily_stock_analysis]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[tradermonty-claude-trading-skills]] [[nvidia-skillevaluator]]
 
 **所属领域**: [[data]]
 

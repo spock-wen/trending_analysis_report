@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[microsoft-vibevoice]] [[anomalyco-hex]] [[openai-codex-security]] [[googlechrome-modern-web-guidance-src]]
+[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[alishahryar1-free-claude-code]] [[ag-ui-protocol-ag-ui]] [[scenario-labs-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

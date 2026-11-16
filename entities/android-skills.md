@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[mahlernim-google-timeline-visualizer]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[bannedbook-fanqiang]] [[chromedevtools-chrome-devtools-mcp]]
+[[google-labs-code-stitch-skills]] [[bannedbook-fanqiang]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

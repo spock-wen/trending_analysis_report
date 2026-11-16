@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[beenuar-aisoc]] [[cloudflare-security-audit-skill]] [[alibaba-open-code-review]] [[tauricresearch-tradingagents]]
+[[paperclipai-paperclip]] [[openai-codex-security]] [[patchy631-ai-engineering-hub]] [[google-labs-code-stitch-skills]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

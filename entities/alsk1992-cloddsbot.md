@@ -36,7 +36,7 @@ Open Source AI trading agent that operates autonomously across 1000+ markets - P
 
 ## 相关项目
 
-[[obra-superpowers]] [[googlechrome-modern-web-guidance-src]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]] [[agricidaniel-claude-seo]]
+[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[php-php-src]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

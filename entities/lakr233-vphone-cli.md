@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[vorssaint-vorssaint-utils]] [[backnotprop-plannotator]] [[abue-ammar-tinycast]] [[manaflow-ai-cmux]] [[qwenlm-qwen-code]]
+[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[xtool-org-xtool]] [[abue-ammar-tinycast]]
 
 **所属领域**: [[cli]]
 

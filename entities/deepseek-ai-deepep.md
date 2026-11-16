@@ -35,7 +35,7 @@ DeepEP: an efficient expert-parallel communication library
 
 ## 相关项目
 
-[[moonshotai-flashkda]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[dream-num-univer]]
+[[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[deepseek-ai-deepgemm]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

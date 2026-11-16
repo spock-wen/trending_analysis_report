@@ -38,5 +38,5 @@ Desktop app to manage markdown knowledge bases
 
 ## 相关项目
 
-[[googlechrome-modern-web-guidance-src]] [[chromedevtools-chrome-devtools-mcp]] [[dream-num-univer]] [[google-labs-code-stitch-skills]]
+[[backnotprop-plannotator]] [[dream-num-univer]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]]
 

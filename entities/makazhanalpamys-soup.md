@@ -34,7 +34,7 @@ Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB lapto
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[nvidia-skillevaluator]] [[chromedevtools-chrome-devtools-mcp]]
+[[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[tradermonty-claude-trading-skills]]
 
 **所属领域**: [[ai-agent]]
 

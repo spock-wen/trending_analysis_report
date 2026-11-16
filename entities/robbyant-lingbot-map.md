@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[alibaba-open-code-review]] [[tailscale-tailcat]] [[tauricresearch-tradingagents]] [[paperclipai-paperclip]]
+[[google-research-paper-orchestra]] [[zhulinsen-daily_stock_analysis]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]]
 
 **所属领域**: [[data]] [[science]]
 

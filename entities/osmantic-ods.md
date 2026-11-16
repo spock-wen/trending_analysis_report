@@ -35,7 +35,7 @@ Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice
 
 ## 相关项目
 
-[[anomalyco-hex]] [[nvidia-auto-ontology]] [[zhulinsen-daily_stock_analysis]] [[microsoft-vibevoice]] [[likely7-veyra-nrvideo]]
+[[google-labs-code-stitch-skills]] [[scenario-labs-skills]] [[chromedevtools-chrome-devtools-mcp]] [[microsoft-vibevoice]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

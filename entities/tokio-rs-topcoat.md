@@ -35,7 +35,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[martin-olivier-airgorah]] [[block-buzz]] [[vercel-labs-agent-browser]] [[openai-codex-security]]
+[[block-buzz]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[vercel-labs-agent-browser]] [[martin-olivier-airgorah]]
 
 **所属领域**: [[web]]
 

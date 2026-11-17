@@ -38,7 +38,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]]
+[[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[chromedevtools-chrome-devtools-mcp]] [[obra-superpowers]] [[diolinux-photogimp]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

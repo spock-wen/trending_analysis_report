@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[nvidia-auto-ontology]]
+[[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[zhaoxuya520-reverse-skill]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

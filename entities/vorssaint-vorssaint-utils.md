@@ -34,7 +34,7 @@ Free and open-source macOS menu bar toolkit.
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[xtool-org-xtool]] [[abue-ammar-tinycast]] [[manaflow-ai-cmux]] [[chromedevtools-chrome-devtools-mcp]]
+[[manaflow-ai-cmux]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[abue-ammar-tinycast]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

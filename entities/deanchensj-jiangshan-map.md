@@ -34,5 +34,5 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[louislam-uptime-kuma]] [[sveltejs-svelte]]
+[[louislam-uptime-kuma]] [[affaan-m-ecc]] [[sveltejs-svelte]]
 

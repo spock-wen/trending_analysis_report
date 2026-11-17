@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[conardli-garden-skills]] [[mvanhorn-last30days-skill]] [[tradermonty-claude-trading-skills]] [[nvidia-skillevaluator]]
+[[nvidia-auto-ontology]] [[google-research-paper-orchestra]] [[likely7-veyra-nrvideo]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[image-gen]]
 

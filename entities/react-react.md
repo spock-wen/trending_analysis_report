@@ -34,7 +34,7 @@ The library for web and native user interfaces.
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[addyosmani-agent-skills]] [[deanchensj-jiangshan-map]] [[mvanhorn-last30days-skill]]
+[[louislam-uptime-kuma]] [[mvanhorn-last30days-skill]] [[chromedevtools-chrome-devtools-mcp]] [[deanchensj-jiangshan-map]] [[affaan-m-ecc]]
 
 **所属领域**: [[web]]
 

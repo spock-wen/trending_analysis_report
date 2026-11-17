@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[tencent-loopforge]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[getarcaneapp-arcane]]
+[[getarcaneapp-arcane]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[tencent-loopforge]]
 
 **所属领域**: [[ai-agent]]
 

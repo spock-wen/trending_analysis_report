@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[anthropics-claude-quickstarts]] [[alibaba-open-code-review]] [[ruvnet-ruview]]
+[[google-research-paper-orchestra]] [[louislam-uptime-kuma]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[ggml-org-llama.cpp]] [[likely7-veyra-nrvideo]]
+[[likely7-veyra-nrvideo]] [[backnotprop-plannotator]] [[ggml-org-llama.cpp]] [[google-labs-code-stitch-skills]] [[ggml-org-ggml]]
 
 **所属领域**: [[cli]]
 

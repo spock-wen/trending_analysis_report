@@ -37,7 +37,7 @@ YuE2: frontier music generation with symbolic planning, zero-shot covers, and ag
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[scenario-labs-skills]] [[chromedevtools-chrome-devtools-mcp]] [[microsoft-vibevoice]] [[nvidia-auto-ontology]]
+[[nvidia-auto-ontology]] [[google-research-paper-orchestra]] [[likely7-veyra-nrvideo]] [[alishahryar1-free-claude-code]] [[jingyaogong-minimind]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

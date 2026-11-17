@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[google-labs-code-stitch-skills]] [[scenario-labs-skills]] [[chromedevtools-chrome-devtools-mcp]] [[thu-maic-openmaic]]
+[[google-research-paper-orchestra]] [[alishahryar1-free-claude-code]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

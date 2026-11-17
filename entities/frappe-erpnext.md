@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[php-php-src]] [[mvanhorn-last30days-skill]] [[agricidaniel-claude-seo]] [[tradermonty-claude-trading-skills]] [[nvidia-skillevaluator]]
+[[google-research-paper-orchestra]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]] [[elementalsouls-claude-bughunter]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]]
+[[google-research-paper-orchestra]] [[tailscale-tailcat]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]] [[alibaba-open-code-review]]
 
 **所属领域**: [[web]] [[data]]
 

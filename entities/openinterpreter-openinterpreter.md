@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[block-buzz]] [[google-labs-code-stitch-skills]] [[tokio-rs-topcoat]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
+[[vercel-labs-agent-browser]] [[block-buzz]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[elementalsouls-claude-bughunter]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

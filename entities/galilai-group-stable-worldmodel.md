@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[google-research-paper-orchestra]] [[chromedevtools-chrome-devtools-mcp]] [[nvidia-auto-ontology]] [[alibaba-open-code-review]]
+[[nvidia-auto-ontology]] [[google-research-paper-orchestra]] [[likely7-veyra-nrvideo]] [[paperclipai-paperclip]] [[jingyaogong-minimind]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

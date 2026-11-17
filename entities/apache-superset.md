@@ -35,7 +35,7 @@ Apache Superset is a Data Visualization and Data Exploration Platform
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
+[[tailscale-tailcat]] [[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[data]]
 

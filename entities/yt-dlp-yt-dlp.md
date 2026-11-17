@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[scenario-labs-skills]] [[microsoft-vibevoice]]
+[[google-research-paper-orchestra]] [[backnotprop-plannotator]] [[alishahryar1-free-claude-code]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[cli]] [[audio]]
 

@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[thu-maic-openmaic]]
+[[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[ggml-org-ggml]] [[patchy631-ai-engineering-hub]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

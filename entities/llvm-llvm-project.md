@@ -35,7 +35,7 @@ The LLVM Project is a collection of modular and reusable compiler and toolchain 
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[chromedevtools-chrome-devtools-mcp]]
+[[obra-superpowers]] [[google-labs-code-stitch-skills]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

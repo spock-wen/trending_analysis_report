@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[ruvnet-ruview]] [[anthropics-claude-quickstarts]]
+[[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]] [[louislam-uptime-kuma]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[devops]]
 

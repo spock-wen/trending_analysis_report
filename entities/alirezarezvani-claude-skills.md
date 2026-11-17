@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[google-research-paper-orchestra]] [[chromedevtools-chrome-devtools-mcp]]
+[[google-research-paper-orchestra]] [[backnotprop-plannotator]] [[paperclipai-paperclip]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

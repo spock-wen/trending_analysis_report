@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[elementalsouls-claude-bughunter]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]]
+[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[elementalsouls-claude-bughunter]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -35,7 +35,7 @@ GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[elementalsouls-claude-bughunter]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]]
+[[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

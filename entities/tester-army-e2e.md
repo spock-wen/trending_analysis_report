@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[nvidia-auto-ontology]]
+[[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]]
 
 **所属领域**: [[web]] [[image-gen]]
 

@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[higgsfield-ai-higgsfield]] [[patchy631-ai-engineering-hub]] [[google-labs-code-stitch-skills]] [[obra-superpowers]] [[chromedevtools-chrome-devtools-mcp]]
+[[xiaolai-the-craft-of-selfteaching]] [[thu-maic-openmaic]] [[php-php-src]] [[louislam-uptime-kuma]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

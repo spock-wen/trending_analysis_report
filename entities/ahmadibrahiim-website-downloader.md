@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[ag-ui-protocol-ag-ui]] [[nvidia-skillevaluator]] [[chromedevtools-chrome-devtools-mcp]] [[averygan-reclip]]
+[[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[image-gen]]
 

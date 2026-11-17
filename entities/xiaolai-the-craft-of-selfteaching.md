@@ -34,7 +34,7 @@ One has no future if one couldn't teach themself.
 
 ## 相关项目
 
-[[higgsfield-ai-higgsfield]] [[patchy631-ai-engineering-hub]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[thu-maic-openmaic]]
+[[thu-maic-openmaic]] [[google-labs-code-stitch-skills]] [[lyogavin-airllm]] [[mvanhorn-last30days-skill]] [[ggml-org-ggml]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

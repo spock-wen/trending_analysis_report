@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[zhulinsen-daily_stock_analysis]] [[thu-maic-openmaic]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
+[[tailscale-tailcat]] [[thu-maic-openmaic]] [[louislam-uptime-kuma]] [[alibaba-open-code-review]] [[ggml-org-ggml]]
 
 **所属领域**: [[data]] [[education]]
 

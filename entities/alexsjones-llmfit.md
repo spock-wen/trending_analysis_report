@@ -36,7 +36,7 @@ Hundreds of models & providers. One command to find what runs on your hardware.
 
 ## 相关项目
 
-[[block-buzz]] [[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[tokio-rs-topcoat]]
+[[vercel-labs-agent-browser]] [[backnotprop-plannotator]] [[block-buzz]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

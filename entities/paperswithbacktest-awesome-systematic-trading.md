@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[google-research-paper-orchestra]] [[thu-maic-openmaic]] [[michaelcade-90daysofdevops]] [[mvanhorn-last30days-skill]]
+[[google-research-paper-orchestra]] [[paperclipai-paperclip]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]] [[ggml-org-ggml]]
 
 **所属领域**: [[education]] [[science]]
 

@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[xtool-org-xtool]] [[abue-ammar-tinycast]] [[vorssaint-vorssaint-utils]] [[manaflow-ai-cmux]]
+[[manaflow-ai-cmux]] [[alishahryar1-free-claude-code]] [[google-labs-code-stitch-skills]] [[anomalyco-hex]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

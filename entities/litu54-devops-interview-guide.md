@@ -34,7 +34,7 @@ DevOps Interview Guide
 
 ## 相关项目
 
-[[anthropics-claude-quickstarts]] [[ruvnet-ruview]] [[louislam-uptime-kuma]] [[elementalsouls-claude-bughunter]]
+[[louislam-uptime-kuma]] [[elementalsouls-claude-bughunter]] [[ruvnet-ruview]] [[anthropics-claude-quickstarts]]
 
 **所属领域**: [[devops]]
 

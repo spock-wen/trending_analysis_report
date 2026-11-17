@@ -35,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[k1tbyte-wand-enhancer]] [[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[jiafeimiao-k-cat-discimagestudio]]
+[[jiafeimiao-k-cat-discimagestudio]] [[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[k1tbyte-wand-enhancer]] [[elementalsouls-claude-bughunter]]
 
 **所属领域**: [[cli]]
 

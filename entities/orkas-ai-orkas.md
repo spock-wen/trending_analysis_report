@@ -34,7 +34,7 @@ Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[elementalsouls-claude-bughunter]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]]
+[[backnotprop-plannotator]] [[louislam-uptime-kuma]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[elementalsouls-claude-bughunter]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

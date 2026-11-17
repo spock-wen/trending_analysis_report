@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[addyosmani-agent-skills]] [[nvidia-auto-ontology]] [[conardli-garden-skills]]
+[[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[louislam-uptime-kuma]] [[mvanhorn-last30days-skill]] [[conardli-garden-skills]]
 
 **所属领域**: [[web]] [[image-gen]]
 

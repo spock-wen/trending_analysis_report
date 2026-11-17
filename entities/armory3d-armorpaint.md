@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[fareedkhan-dev-kimi-k3-in-c]] [[google-labs-code-stitch-skills]] [[openssl-openssl]] [[mpv-player-mpv]] [[chromedevtools-chrome-devtools-mcp]]
+[[openssl-openssl]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[lz4-lz4]] [[fareedkhan-dev-kimi-k3-in-c]]
 
 **所属领域**: [[ai-agent]]
 

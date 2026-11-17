@@ -38,7 +38,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[patchy631-ai-engineering-hub]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]]
+[[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

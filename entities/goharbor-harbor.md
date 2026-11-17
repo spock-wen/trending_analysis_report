@@ -34,5 +34,5 @@ An open source trusted cloud native registry project that stores, signs, and sca
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[getarcaneapp-arcane]] [[juliusbrussee-caveman]] [[tencent-loopforge]]
+[[tencent-loopforge]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[getarcaneapp-arcane]]
 

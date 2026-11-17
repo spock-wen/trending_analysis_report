@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[block-buzz]] [[ag-ui-protocol-ag-ui]] [[tokio-rs-topcoat]] [[chromedevtools-chrome-devtools-mcp]] [[vercel-labs-agent-browser]]
+[[vercel-labs-agent-browser]] [[block-buzz]] [[mvanhorn-last30days-skill]] [[chromedevtools-chrome-devtools-mcp]] [[tokio-rs-topcoat]]
 
 **所属领域**: [[web]]
 

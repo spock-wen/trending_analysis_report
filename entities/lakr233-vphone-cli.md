@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[xtool-org-xtool]] [[abue-ammar-tinycast]]
+[[manaflow-ai-cmux]] [[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[abue-ammar-tinycast]] [[elementalsouls-claude-bughunter]]
 
 **所属领域**: [[cli]]
 

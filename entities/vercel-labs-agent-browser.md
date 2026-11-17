@@ -38,7 +38,7 @@ Browser automation CLI for AI agents
 
 ## 相关项目
 
-[[block-buzz]] [[backnotprop-plannotator]] [[elementalsouls-claude-bughunter]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]]
+[[backnotprop-plannotator]] [[block-buzz]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[elementalsouls-claude-bughunter]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

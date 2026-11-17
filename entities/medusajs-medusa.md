@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[php-php-src]] [[agricidaniel-claude-seo]]
+[[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]] [[google-labs-code-stitch-skills]] [[elementalsouls-claude-bughunter]]
 
 **所属领域**: [[erp]]
 

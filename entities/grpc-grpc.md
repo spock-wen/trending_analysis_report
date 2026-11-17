@@ -34,5 +34,5 @@ C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 
 ## 相关项目
 
-[[google-deepmind-mujoco]] [[ggml-org-llama.cpp]] [[ggml-org-ggml]] [[likely7-veyra-nrvideo]]
+[[google-deepmind-mujoco]] [[ggml-org-ggml]] [[ggml-org-llama.cpp]] [[likely7-veyra-nrvideo]]
 

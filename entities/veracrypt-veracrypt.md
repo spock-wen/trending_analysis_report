@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[openai-codex-security]] [[fareedkhan-dev-kimi-k3-in-c]] [[openssl-openssl]] [[mpv-player-mpv]] [[lz4-lz4]]
+[[openai-codex-security]] [[openssl-openssl]] [[lz4-lz4]] [[cloudflare-security-audit-skill]] [[fareedkhan-dev-kimi-k3-in-c]]
 
 **所属领域**: [[security]]
 

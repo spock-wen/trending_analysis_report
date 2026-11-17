@@ -34,7 +34,7 @@ Ruby on Rails
 
 ## 相关项目
 
-[[we-promise-sure]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]]
+[[chatwoot-chatwoot]] [[we-promise-sure]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[docusealco-docuseal]]
 
 **所属领域**: [[ai-agent]]
 

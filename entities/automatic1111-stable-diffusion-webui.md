@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[likely7-veyra-nrvideo]] [[nvidia-auto-ontology]] [[conardli-garden-skills]]
+[[nvidia-auto-ontology]] [[google-research-paper-orchestra]] [[likely7-veyra-nrvideo]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]] [[image-gen]]
 

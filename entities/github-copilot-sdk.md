@@ -38,7 +38,7 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ## 相关项目
 
-[[yuliskov-smarttube]] [[thealgorithms-java]] [[google-labs-code-stitch-skills]] [[floci-io-floci]] [[chromedevtools-chrome-devtools-mcp]]
+[[floci-io-floci]] [[yuliskov-smarttube]] [[nationalsecurityagency-ghidra]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

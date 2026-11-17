@@ -38,7 +38,7 @@ Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[averygan-reclip]] [[alibaba-open-code-review]]
+[[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[alchaincyf-huashu-design]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

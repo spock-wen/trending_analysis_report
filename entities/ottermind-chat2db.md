@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[yuliskov-smarttube]] [[thealgorithms-java]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]]
+[[floci-io-floci]] [[tailscale-tailcat]] [[backnotprop-plannotator]] [[yuliskov-smarttube]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

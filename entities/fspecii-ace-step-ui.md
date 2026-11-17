@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[scenario-labs-skills]] [[chromedevtools-chrome-devtools-mcp]] [[addyosmani-agent-skills]] [[nvidia-auto-ontology]]
+[[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[alishahryar1-free-claude-code]] [[louislam-uptime-kuma]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

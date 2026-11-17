@@ -38,7 +38,7 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 ## 相关项目
 
-[[block-buzz]] [[google-labs-code-stitch-skills]] [[google-research-paper-orchestra]] [[tokio-rs-topcoat]] [[chromedevtools-chrome-devtools-mcp]]
+[[vercel-labs-agent-browser]] [[google-research-paper-orchestra]] [[paperclipai-paperclip]] [[block-buzz]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

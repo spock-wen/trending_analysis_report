@@ -35,5 +35,5 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[dream-num-univer]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]]
+[[dream-num-univer]] [[google-labs-code-stitch-skills]] [[cursor-plugins]] [[backnotprop-plannotator]]
 

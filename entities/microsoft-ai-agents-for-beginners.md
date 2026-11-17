@@ -37,7 +37,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[higgsfield-ai-higgsfield]] [[patchy631-ai-engineering-hub]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[xiaolai-the-craft-of-selfteaching]]
+[[xiaolai-the-craft-of-selfteaching]] [[thu-maic-openmaic]] [[google-labs-code-stitch-skills]] [[lyogavin-airllm]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

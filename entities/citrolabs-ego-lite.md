@@ -38,7 +38,7 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
+[[louislam-uptime-kuma]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[chromedevtools-chrome-devtools-mcp]] [[deanchensj-jiangshan-map]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

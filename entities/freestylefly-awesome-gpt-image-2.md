@@ -38,7 +38,7 @@ Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[addyosmani-agent-skills]] [[nvidia-auto-ontology]] [[alibaba-open-code-review]]
+[[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[louislam-uptime-kuma]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[block-buzz]] [[backnotprop-plannotator]] [[elementalsouls-claude-bughunter]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]]
+[[vercel-labs-agent-browser]] [[backnotprop-plannotator]] [[block-buzz]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]] [[cli]]
 

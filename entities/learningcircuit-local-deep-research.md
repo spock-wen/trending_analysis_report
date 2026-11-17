@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[openai-codex-security]] [[patchy631-ai-engineering-hub]] [[google-labs-code-stitch-skills]] [[cloudflare-security-audit-skill]]
+[[google-research-paper-orchestra]] [[paperclipai-paperclip]] [[openai-codex-security]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

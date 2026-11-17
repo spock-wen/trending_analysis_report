@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[alishahryar1-free-claude-code]] [[scenario-labs-skills]] [[chromedevtools-chrome-devtools-mcp]]
+[[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]] [[alishahryar1-free-claude-code]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

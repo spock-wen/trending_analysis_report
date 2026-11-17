@@ -36,7 +36,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[ggml-org-llama.cpp]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[google-deepmind-mujoco]] [[likely7-veyra-nrvideo]]
+[[likely7-veyra-nrvideo]] [[ggml-org-llama.cpp]] [[mvanhorn-last30days-skill]] [[ggml-org-ggml]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]]
 

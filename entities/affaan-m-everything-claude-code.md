@@ -34,7 +34,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[openai-codex-security]] [[google-labs-code-stitch-skills]] [[google-research-paper-orchestra]] [[chromedevtools-chrome-devtools-mcp]] [[addyosmani-agent-skills]]
+[[google-research-paper-orchestra]] [[paperclipai-paperclip]] [[openai-codex-security]] [[louislam-uptime-kuma]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

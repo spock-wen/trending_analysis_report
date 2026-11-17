@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[openai-codex-security]] [[cloudflare-security-audit-skill]] [[martin-olivier-airgorah]] [[mvanhorn-last30days-skill]] [[tradermonty-claude-trading-skills]]
+[[google-research-paper-orchestra]] [[openai-codex-security]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]] [[cloudflare-security-audit-skill]]
 
 **所属领域**: [[security]]
 

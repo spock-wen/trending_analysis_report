@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[google-labs-code-stitch-skills]] [[google-research-paper-orchestra]] [[chromedevtools-chrome-devtools-mcp]] [[thu-maic-openmaic]]
+[[google-research-paper-orchestra]] [[paperclipai-paperclip]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[ggml-org-ggml]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[google-research-paper-orchestra]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[tradermonty-claude-trading-skills]] [[nvidia-skillevaluator]]
+[[google-research-paper-orchestra]] [[paperclipai-paperclip]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]] [[elementalsouls-claude-bughunter]]
 
 **所属领域**: [[science]]
 

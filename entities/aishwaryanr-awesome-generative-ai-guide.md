@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[google-research-paper-orchestra]] [[chromedevtools-chrome-devtools-mcp]]
+[[google-research-paper-orchestra]] [[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[paperclipai-paperclip]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

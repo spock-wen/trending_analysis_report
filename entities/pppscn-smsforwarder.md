@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[android-skills]] [[bannedbook-fanqiang]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[mvanhorn-last30days-skill]]
+[[bannedbook-fanqiang]] [[mvanhorn-last30days-skill]] [[android-skills]] [[mahlernim-google-timeline-visualizer]] [[chromedevtools-chrome-devtools-mcp]]
 
 **所属领域**: [[web]]
 

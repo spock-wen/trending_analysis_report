@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[likely7-veyra-nrvideo]]
+[[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[tailscale-tailcat]] [[cursor-plugins]] [[backnotprop-plannotator]]
 
 **所属领域**: [[data]] [[image-gen]]
 

@@ -34,7 +34,7 @@ real time face swap and one-click video deepfake with only a single image
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[nvidia-auto-ontology]] [[conardli-garden-skills]]
+[[nvidia-auto-ontology]] [[google-research-paper-orchestra]] [[likely7-veyra-nrvideo]] [[backnotprop-plannotator]] [[jingyaogong-minimind]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

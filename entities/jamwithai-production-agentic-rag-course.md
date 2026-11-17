@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[thu-maic-openmaic]] [[alibaba-open-code-review]]
+[[google-research-paper-orchestra]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[ggml-org-ggml]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

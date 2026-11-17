@@ -38,7 +38,7 @@ An autonomous agent for deep financial research
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[google-research-paper-orchestra]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
+[[google-research-paper-orchestra]] [[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

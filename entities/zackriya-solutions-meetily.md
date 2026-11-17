@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[block-buzz]] [[openai-codex-security]] [[google-labs-code-stitch-skills]] [[cloudflare-security-audit-skill]] [[ag-ui-protocol-ag-ui]]
+[[vercel-labs-agent-browser]] [[nvidia-skillevaluator]] [[tailscale-tailcat]] [[openai-codex-security]] [[block-buzz]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

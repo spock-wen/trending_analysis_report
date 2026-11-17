@@ -35,7 +35,7 @@ Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[xiaolai-the-craft-of-selfteaching]] [[thu-maic-openmaic]]
+[[xiaolai-the-craft-of-selfteaching]] [[google-labs-code-stitch-skills]] [[lyogavin-airllm]] [[mvanhorn-last30days-skill]] [[ggml-org-ggml]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

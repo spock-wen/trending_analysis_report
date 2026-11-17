@@ -37,7 +37,7 @@ A Claude Code plugin that shows what's happening - context usage, active tools, 
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[scenario-labs-skills]] [[chromedevtools-chrome-devtools-mcp]] [[addyosmani-agent-skills]] [[microsoft-vibevoice]]
+[[alishahryar1-free-claude-code]] [[louislam-uptime-kuma]] [[google-labs-code-stitch-skills]] [[anomalyco-hex]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

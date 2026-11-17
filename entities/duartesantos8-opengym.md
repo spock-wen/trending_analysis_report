@@ -36,7 +36,7 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]]
+[[tailscale-tailcat]] [[louislam-uptime-kuma]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

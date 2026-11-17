@@ -36,5 +36,5 @@ Multi-Joint dynamics with Contact. A general purpose physics simulator.
 
 ## 相关项目
 
-[[ggml-org-llama.cpp]] [[ggml-org-ggml]] [[likely7-veyra-nrvideo]]
+[[ggml-org-ggml]] [[ggml-org-llama.cpp]] [[likely7-veyra-nrvideo]]
 

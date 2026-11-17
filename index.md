@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-11-17 | 总页面：914
+> 最后更新：2026-11-18 | 总页面：914
 
 ## Entities
 
@@ -21,7 +21,7 @@
 - [[actions-runner-images|runner-images]] — GitHub Actions runner images
 - [[activeloopai-hivemind|hivemind]] — One brain for all your agents
 - [[addyosmani-agent-skills|agent-skills]] — Production-grade engineering skills for AI coding agents. 🔥
-- [[affaan-m-ecc|ECC]] — The agent harness performance optimization system. Skills, i... 🆕
+- [[affaan-m-ecc|ECC]] — The agent harness performance optimization system. Skills, i...
 - [[affaan-m-everything-claude-code|everything-claude-code]] — The agent harness performance optimization system. Skills, i...
 - [[ag-ui-protocol-ag-ui|ag-ui]] — AG-UI: the Agent-User Interaction Protocol. Bring Agents int... 🔥
 - [[agalwood-motrix|Motrix]] — A full-featured download manager. 🆕
@@ -215,7 +215,7 @@
 - [[davila7-claude-code-templates|claude-code-templates]] — CLI tool for configuring and monitoring Claude Code 🆕
 - [[dayuanjiang-next-ai-draw-io|next-ai-draw-io]] — A next.js web application that integrates AI capabilities wi...
 - [[dbt-labs-dbt-core|dbt-core]] — dbt enables data analysts and engineers to transform their d...
-- [[deanchensj-jiangshan-map|jiangshan-map]] — 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Histori... 🆕
+- [[deanchensj-jiangshan-map|jiangshan-map]] — 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Histori...
 - [[debpalash-voicestudio|VoiceStudio]] — VoiceStudio is the open-source, fully-local ElevenLabs alter... 🆕
 - [[decolua-9router|9router]] — Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor... 🔥
 - [[deepfakes-faceswap|faceswap]] — Deepfakes Software For All
@@ -256,7 +256,7 @@
 - [[elder-plinius-g0dm0d3|G0DM0D3]] — LIBERATED AI CHAT
 - [[elder-plinius-obliteratus|OBLITERATUS]] — OBLITERATE THE CHAINS THAT BIND YOU
 - [[elebumm-redditvideomakerbot|RedditVideoMakerBot]] — Create Reddit Videos with just✨ one command ✨ 🆕
-- [[elementalsouls-claude-bughunter|Claude-BugHunter]] — A Claude Code skill bundle for bug hunting and external red-... 🆕
+- [[elementalsouls-claude-bughunter|Claude-BugHunter]] — A Claude Code skill bundle for bug hunting and external red-... 🔥
 - [[embabel-embabel-agent|embabel-agent]] — Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbə...
 - [[emmabostian-developer-portfolios|developer-portfolios]] — A list of developer portfolios for your inspiration
 - [[epicgames-raddebugger|raddebugger]] — A native, user-mode, multi-process, graphical debugger. 🆕
@@ -329,7 +329,7 @@
 - [[google-gemini-gemini-cli|gemini-cli]] — An open-source AI agent that brings the power of Gemini dire...
 - [[google-googletest|googletest]] — GoogleTest - Google Testing and Mocking Framework 🔥
 - [[google-guava|guava]] — Google core libraries for Java 🔥
-- [[google-labs-code-stitch-skills|stitch-skills]] — A library of Agent Skills designed to work with the Stitch M... 🆕
+- [[google-labs-code-stitch-skills|stitch-skills]] — A library of Agent Skills designed to work with the Stitch M... 🔥
 - [[google-magika|magika]] — Fast and accurate AI powered file content types detection 🔥
 - [[google-osv-scanner|osv-scanner]] — Vulnerability scanner written in Go which uses the data prov...
 - [[google-research-paper-orchestra|paper-orchestra]] — PaperOrchestra is a multi-agent framework for automated AI r... 🆕
@@ -417,7 +417,7 @@
 - [[jiafeimiao-k-cat-discimagestudio|DiscImageStudio]] — No description 🆕
 - [[jihe520-mathmodelagent|MathModelAgent]] — 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Ag... 🔥
 - [[jiji262-douyin-downloader|douyin-downloader]] — A practical Douyin downloader for both single-item and profi...
-- [[jingyaogong-minimind|minimind]] — 🧠 Train a 64M-parameter LLM from scratch in just 2h! 🆕
+- [[jingyaogong-minimind|minimind]] — 🧠 Train a 64M-parameter LLM from scratch in just 2h!
 - [[jo-inc-camofox-browser|camofox-browser]] — Stealth headless browser for AI agents — bypass Cloudflare, ... 🆕
 - [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm]] — Claude Skill: Multi-source content processor for NotebookLM. 🆕
 - [[jordan-gibbs-hyperresearch|hyperresearch]] — Agent-driven research knowledge base. Agents collect, search...
@@ -430,7 +430,7 @@
 - [[k-dense-ai-scientific-agent-skills|scientific-agent-skills]] — Turn any AI agent into an AI Scientist. The #1 Agent Skills ... 🔥
 - [[k1tbyte-wand-enhancer|Wand-Enhancer]] — Advanced UX and interoperability extension for Wand (WeMod) ...
 - [[kaifcodec-user-scanner|user-scanner]] — 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data ex...
-- [[kajisho5-ffmpeg-skill|ffmpeg-skill]] — Local video editor for coding agents: 42 FFmpeg tools with a... 🆕
+- [[kajisho5-ffmpeg-skill|ffmpeg-skill]] — Local video editor for coding agents: 42 FFmpeg tools with a...
 - [[karakeep-app-karakeep|karakeep]] — A self-hostable bookmark-everything app (links, notes and im...
 - [[karpathy-nanochat|nanochat]] — The best ChatGPT that $100 can buy.
 - [[karpathy-nn-zero-to-hero|nn-zero-to-hero]] — Neural Networks: Zero to Hero
@@ -563,7 +563,7 @@
 - [[multica-ai-multica|multica]] — The open-source managed agents platform. Turn coding agents ... 🆕
 - [[multimodal-art-projection-yue|YuE]] — YuE2: frontier music generation with symbolic planning, zero...
 - [[music-assistant-server|server]] — Music Assistant is a free, opensource Media library manager ... 🔥
-- [[mvanhorn-last30days-skill|last30days-skill]] — AI agent skill that researches any topic across Reddit, X, Y...
+- [[mvanhorn-last30days-skill|last30days-skill]] — AI agent skill that researches any topic across Reddit, X, Y... 🆕
 - [[mvschwarz-openrig|openrig]] — Build your own network of agents from Claude Code, Codex and... 🔥
 - [[mvt-project-mvt|mvt]] — MVT (Mobile Verification Toolkit) helps with conducting fore... 🔥
 - [[n0-computer-iroh|iroh]] — IP addresses break, dial keys instead. Modular networking st... 🔥
@@ -597,7 +597,7 @@
 - [[nvlabs-sana|Sana]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
 - [[nvm-sh-nvm|nvm]] — Node Version Manager - POSIX-compliant bash script to manage...
 - [[oblien-openship|openship]] — Self-hosted deployment platform
-- [[obra-superpowers|superpowers]] — An agentic skills framework & software development methodolo... 🔥
+- [[obra-superpowers|superpowers]] — An agentic skills framework & software development methodolo...
 - [[ocornut-imgui|imgui]] — Dear ImGui: Bloat-free Graphical User interface for C++ with...
 - [[odoo-odoo|odoo]] — Odoo. Open Source Apps To Grow Your Business.
 - [[ogulcancelik-herdr|herdr]] — agent multiplexer that lives in your terminal. 🔥
@@ -783,7 +783,7 @@
 - [[telegrammessenger-telegram-ios|Telegram-iOS]] — Telegram-iOS
 - [[tencent-ai-infra-guard|AI-Infra-Guard]] — A full-stack AI Red Teaming platform securing AI ecosystems ...
 - [[tencent-browserskill|BrowserSkill]] — Let AI agents use your real, logged-in browser without inter... 🆕
-- [[tencent-loopforge|LoopForge]] — Self-hosted workflows for coding-agent delivery. Orchestrate... 🆕
+- [[tencent-loopforge|LoopForge]] — Self-hosted workflows for coding-agent delivery. Orchestrate...
 - [[tencent-teamai-cli|teamai-cli]] — Make Every Team AI Native 🆕
 - [[tencent-weknora|WeKnora]] — Open-source LLM knowledge platform: turn raw documents into ... 🆕
 - [[tencentcloud-cubesandbox|CubeSandbox]] — Instant, Concurrent, Secure & Lightweight Sandbox for AI Age... 🆕

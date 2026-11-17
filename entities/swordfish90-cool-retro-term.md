@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[elementalsouls-claude-bughunter]] [[google-labs-code-stitch-skills]]
+[[obra-superpowers]] [[elementalsouls-claude-bughunter]] [[google-labs-code-stitch-skills]] [[backnotprop-plannotator]]
 
 **所属领域**: [[cli]]
 

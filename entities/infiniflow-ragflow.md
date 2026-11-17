@@ -36,7 +36,7 @@ RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine tha
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[juliusbrussee-caveman]] [[tencent-loopforge]] [[chromedevtools-chrome-devtools-mcp]] [[nvidia-auto-ontology]]
+[[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[getarcaneapp-arcane]] [[juliusbrussee-caveman]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

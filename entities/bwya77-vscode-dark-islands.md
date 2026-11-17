@@ -34,7 +34,7 @@ VSCode theme based off the easemate IDE and Jetbrains islands theme
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[actions-runner-images]] [[google-labs-code-stitch-skills]]
+[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[zhaoxuya520-reverse-skill]] [[elementalsouls-claude-bughunter]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -38,7 +38,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[openai-codex-security]] [[google-labs-code-stitch-skills]] [[juliusbrussee-caveman]] [[tencent-loopforge]] [[chromedevtools-chrome-devtools-mcp]]
+[[getarcaneapp-arcane]] [[openai-codex-security]] [[juliusbrussee-caveman]] [[google-labs-code-stitch-skills]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

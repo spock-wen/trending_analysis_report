@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[block-buzz]] [[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[tokio-rs-topcoat]]
+[[vercel-labs-agent-browser]] [[backnotprop-plannotator]] [[block-buzz]] [[google-labs-code-stitch-skills]] [[elementalsouls-claude-bughunter]]
 
 **所属领域**: [[cli]]
 

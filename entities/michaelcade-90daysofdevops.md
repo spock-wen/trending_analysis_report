@@ -34,7 +34,7 @@ This repository started out as a learning in public project for myself and has n
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[patchy631-ai-engineering-hub]] [[google-labs-code-stitch-skills]] [[donchitos-claude-code-game-studios]]
+[[backnotprop-plannotator]] [[louislam-uptime-kuma]] [[google-labs-code-stitch-skills]] [[nvm-sh-nvm]] [[mattpocock-skills]]
 
 **所属领域**: [[cli]] [[devops]] [[education]]
 

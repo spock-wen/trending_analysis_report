@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[openai-codex-security]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[cloudflare-security-audit-skill]]
+[[google-research-paper-orchestra]] [[backnotprop-plannotator]] [[openai-codex-security]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

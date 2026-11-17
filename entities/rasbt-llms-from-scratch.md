@@ -36,7 +36,7 @@ Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
 ## 相关项目
 
-[[higgsfield-ai-higgsfield]] [[patchy631-ai-engineering-hub]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[xiaolai-the-craft-of-selfteaching]]
+[[xiaolai-the-craft-of-selfteaching]] [[google-labs-code-stitch-skills]] [[lyogavin-airllm]] [[mvanhorn-last30days-skill]] [[patchy631-ai-engineering-hub]]
 
 **所属领域**: [[ai-agent]]
 

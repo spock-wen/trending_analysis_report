@@ -34,7 +34,7 @@ Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE
 
 ## 相关项目
 
-[[openai-codex-security]] [[google-labs-code-stitch-skills]] [[cloudflare-security-audit-skill]] [[chromedevtools-chrome-devtools-mcp]] [[nvidia-auto-ontology]]
+[[nvidia-auto-ontology]] [[google-research-paper-orchestra]] [[likely7-veyra-nrvideo]] [[openai-codex-security]] [[jingyaogong-minimind]]
 
 **所属领域**: [[ai-agent]] [[security]] [[image-gen]]
 

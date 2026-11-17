@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[we-promise-sure]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]]
+[[we-promise-sure]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[rails-rails]] [[docusealco-docuseal]]
 
 **所属领域**: [[ai-agent]]
 

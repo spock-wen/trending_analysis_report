@@ -36,7 +36,7 @@ Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli
 
 ## 相关项目
 
-[[openai-codex-security]] [[juliusbrussee-caveman]] [[tencent-loopforge]] [[alibaba-open-code-review]] [[getarcaneapp-arcane]]
+[[getarcaneapp-arcane]] [[openai-codex-security]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[tencent-loopforge]]
 
 **所属领域**: [[security]]
 

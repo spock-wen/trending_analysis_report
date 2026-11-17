@@ -38,7 +38,7 @@ Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG 
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]]
+[[google-research-paper-orchestra]] [[tailscale-tailcat]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

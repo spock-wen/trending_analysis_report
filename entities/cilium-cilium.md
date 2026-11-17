@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[openai-codex-security]] [[juliusbrussee-caveman]] [[tencent-loopforge]] [[alibaba-open-code-review]] [[getarcaneapp-arcane]]
+[[getarcaneapp-arcane]] [[openai-codex-security]] [[juliusbrussee-caveman]] [[louislam-uptime-kuma]] [[alibaba-open-code-review]]
 
 **所属领域**: [[devops]] [[security]]
 

@@ -38,7 +38,7 @@ A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[tradermonty-claude-trading-skills]]
+[[google-research-paper-orchestra]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[elementalsouls-claude-bughunter]]
 
 **所属领域**: [[ai-agent]]
 

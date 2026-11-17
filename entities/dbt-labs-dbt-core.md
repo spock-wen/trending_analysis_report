@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[block-buzz]] [[tokio-rs-topcoat]] [[zhulinsen-daily_stock_analysis]] [[alibaba-open-code-review]] [[vercel-labs-agent-browser]]
+[[vercel-labs-agent-browser]] [[tailscale-tailcat]] [[block-buzz]] [[alibaba-open-code-review]] [[zhulinsen-daily_stock_analysis]]
 
 **所属领域**: [[data]]
 

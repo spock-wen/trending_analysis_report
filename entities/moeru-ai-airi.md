@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[alishahryar1-free-claude-code]] [[ag-ui-protocol-ag-ui]] [[scenario-labs-skills]]
+[[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]] [[alishahryar1-free-claude-code]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

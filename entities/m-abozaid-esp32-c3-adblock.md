@@ -34,7 +34,7 @@ Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[ggml-org-llama.cpp]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[google-deepmind-mujoco]]
+[[likely7-veyra-nrvideo]] [[ggml-org-llama.cpp]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[ggml-org-ggml]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

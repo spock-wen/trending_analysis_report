@@ -36,5 +36,5 @@ Curated list of the best free apps for PC and mobile
 
 ## 相关项目
 
-[[addyosmani-agent-skills]] [[louislam-uptime-kuma]] [[sveltejs-svelte]] [[deanchensj-jiangshan-map]]
+[[deanchensj-jiangshan-map]] [[louislam-uptime-kuma]] [[affaan-m-ecc]] [[sveltejs-svelte]]
 

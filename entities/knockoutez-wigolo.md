@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[google-research-paper-orchestra]] [[chromedevtools-chrome-devtools-mcp]]
+[[google-research-paper-orchestra]] [[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

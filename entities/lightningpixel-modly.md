@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[nvidia-auto-ontology]] [[alibaba-open-code-review]]
+[[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

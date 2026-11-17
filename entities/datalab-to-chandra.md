@@ -36,7 +36,7 @@ OCR model that handles complex tables, forms, handwriting with full layout.
 
 ## 相关项目
 
-[[zhulinsen-daily_stock_analysis]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[tradermonty-claude-trading-skills]] [[nvidia-skillevaluator]]
+[[google-research-paper-orchestra]] [[tailscale-tailcat]] [[jingyaogong-minimind]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[data]]
 

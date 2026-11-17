@@ -37,7 +37,7 @@ Open source Ghostty-based macOS terminal with vertical tabs and notifications fo
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[xtool-org-xtool]] [[abue-ammar-tinycast]]
+[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[abue-ammar-tinycast]] [[elementalsouls-claude-bughunter]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

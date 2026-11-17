@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
+[[tailscale-tailcat]] [[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]] [[louislam-uptime-kuma]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

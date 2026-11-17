@@ -34,7 +34,7 @@ Toolchain for TON smart contract development and beyond
 
 ## 相关项目
 
-[[block-buzz]] [[google-labs-code-stitch-skills]] [[tokio-rs-topcoat]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
+[[vercel-labs-agent-browser]] [[block-buzz]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

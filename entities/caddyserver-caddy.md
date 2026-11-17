@@ -35,7 +35,7 @@ Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[tencent-loopforge]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]]
+[[getarcaneapp-arcane]] [[juliusbrussee-caveman]] [[mvanhorn-last30days-skill]] [[alibaba-open-code-review]] [[tencent-loopforge]]
 
 **所属领域**: [[web]]
 

@@ -36,5 +36,5 @@ Visualize, collaborate, and evolve the software architecture with always actual 
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[dream-num-univer]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]]
+[[dream-num-univer]] [[google-labs-code-stitch-skills]] [[cursor-plugins]] [[backnotprop-plannotator]]
 

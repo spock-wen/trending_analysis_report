@@ -34,7 +34,7 @@ Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud model
 
 ## 相关项目
 
-[[openai-codex-security]] [[google-labs-code-stitch-skills]] [[scenario-labs-skills]] [[chromedevtools-chrome-devtools-mcp]] [[addyosmani-agent-skills]]
+[[openai-codex-security]] [[alishahryar1-free-claude-code]] [[louislam-uptime-kuma]] [[google-labs-code-stitch-skills]] [[anomalyco-hex]]
 
 **所属领域**: [[ai-agent]] [[security]] [[audio]]
 

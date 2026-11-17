@@ -37,7 +37,7 @@ A straightforward method for training your LLM, from downloading data to generat
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]]
+[[google-research-paper-orchestra]] [[tailscale-tailcat]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[patchy631-ai-engineering-hub]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[averygan-reclip]]
+[[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[cathrynlavery-diagram-design]] [[mvanhorn-last30days-skill]] [[ggml-org-ggml]]
 
 **所属领域**: [[web]] [[education]]
 

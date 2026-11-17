@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[block-buzz]] [[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[tokio-rs-topcoat]]
+[[vercel-labs-agent-browser]] [[nvidia-skillevaluator]] [[tailscale-tailcat]] [[backnotprop-plannotator]] [[block-buzz]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

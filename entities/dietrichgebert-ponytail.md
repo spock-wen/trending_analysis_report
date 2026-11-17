@@ -38,7 +38,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[addyosmani-agent-skills]] [[alibaba-open-code-review]] [[deanchensj-jiangshan-map]]
+[[louislam-uptime-kuma]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[deanchensj-jiangshan-map]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

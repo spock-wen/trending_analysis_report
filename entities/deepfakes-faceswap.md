@@ -35,5 +35,5 @@ Deepfakes Software For All
 
 ## 相关项目
 
-[[tradermonty-claude-trading-skills]] [[nvidia-skillevaluator]] [[elementalsouls-claude-bughunter]] [[mvanhorn-last30days-skill]]
+[[google-research-paper-orchestra]] [[elementalsouls-claude-bughunter]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]]
 

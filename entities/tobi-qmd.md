@@ -35,7 +35,7 @@ mini cli search engine for your docs, knowledge bases, meeting notes, whatever. 
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[dream-num-univer]]
+[[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]] [[google-labs-code-stitch-skills]] [[elementalsouls-claude-bughunter]]
 
 **所属领域**: [[cli]]
 

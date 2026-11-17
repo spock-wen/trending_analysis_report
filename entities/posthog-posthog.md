@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]] [[anthropics-claude-quickstarts]]
+[[google-research-paper-orchestra]] [[tailscale-tailcat]] [[louislam-uptime-kuma]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

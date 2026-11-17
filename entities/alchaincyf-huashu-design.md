@@ -34,7 +34,7 @@ Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网�
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[chromedevtools-chrome-devtools-mcp]] [[averygan-reclip]]
+[[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[google-labs-code-stitch-skills]] [[cathrynlavery-diagram-design]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

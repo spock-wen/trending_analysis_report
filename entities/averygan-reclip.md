@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[elementalsouls-claude-bughunter]] [[cathrynlavery-diagram-design]] [[qwenlm-qwen-code]] [[google-labs-code-stitch-skills]]
+[[chromedevtools-chrome-devtools-mcp]] [[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[cathrynlavery-diagram-design]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[google-labs-code-stitch-skills]] [[ag-ui-protocol-ag-ui]] [[zhulinsen-daily_stock_analysis]] [[nvidia-skillevaluator]]
+[[nvidia-skillevaluator]] [[tailscale-tailcat]] [[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

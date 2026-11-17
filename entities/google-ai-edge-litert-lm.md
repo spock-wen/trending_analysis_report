@@ -37,7 +37,7 @@ No description
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[ggml-org-llama.cpp]] [[chromedevtools-chrome-devtools-mcp]] [[google-deepmind-mujoco]] [[likely7-veyra-nrvideo]]
+[[likely7-veyra-nrvideo]] [[ggml-org-llama.cpp]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[ggml-org-ggml]]
 
 **所属领域**: [[ai-agent]]
 

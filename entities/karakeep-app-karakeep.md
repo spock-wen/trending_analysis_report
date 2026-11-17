@@ -34,7 +34,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[chromedevtools-chrome-devtools-mcp]] [[nvidia-auto-ontology]] [[alibaba-open-code-review]]
+[[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

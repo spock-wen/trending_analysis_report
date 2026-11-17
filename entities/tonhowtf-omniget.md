@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[block-buzz]] [[backnotprop-plannotator]] [[qwenlm-qwen-code]] [[patchy631-ai-engineering-hub]] [[google-labs-code-stitch-skills]]
+[[vercel-labs-agent-browser]] [[backnotprop-plannotator]] [[alishahryar1-free-claude-code]] [[block-buzz]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

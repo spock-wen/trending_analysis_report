@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[block-buzz]] [[google-labs-code-stitch-skills]] [[tokio-rs-topcoat]] [[zhulinsen-daily_stock_analysis]] [[chromedevtools-chrome-devtools-mcp]]
+[[nvidia-auto-ontology]] [[vercel-labs-agent-browser]] [[nvidia-skillevaluator]] [[likely7-veyra-nrvideo]] [[tailscale-tailcat]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

@@ -35,5 +35,5 @@ self-hosted, distributed Durable Objects
 
 ## 相关项目
 
-[[block-buzz]] [[vercel-labs-agent-browser]] [[tokio-rs-topcoat]] [[martin-olivier-airgorah]]
+[[vercel-labs-agent-browser]] [[block-buzz]] [[tokio-rs-topcoat]] [[martin-olivier-airgorah]]
 

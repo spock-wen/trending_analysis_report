@@ -34,7 +34,7 @@ Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translatio
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]]
+[[appwrite-appwrite]] [[nvidia-auto-ontology]] [[conardli-garden-skills]] [[likely7-veyra-nrvideo]] [[n8n-io-n8n]]
 
 **所属领域**: [[image-gen]]
 

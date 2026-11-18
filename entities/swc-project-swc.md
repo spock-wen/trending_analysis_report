@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[block-buzz]] [[mvanhorn-last30days-skill]] [[chromedevtools-chrome-devtools-mcp]] [[tokio-rs-topcoat]]
+[[astral-sh-uv]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[martin-olivier-airgorah]] [[ag-ui-protocol-ag-ui]]
 
 **所属领域**: [[web]]
 

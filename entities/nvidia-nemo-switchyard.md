@@ -35,7 +35,7 @@ Switchyard lets LLM applications route traffic across models and providers while
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[block-buzz]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[obra-superpowers]]
+[[affaan-m-ecc]] [[astral-sh-uv]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[martin-olivier-airgorah]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ Mesh optimization library that makes meshes smaller and faster to render
 
 ## 相关项目
 
-[[likely7-veyra-nrvideo]] [[ggml-org-llama.cpp]] [[ggml-org-ggml]] [[elementalsouls-claude-bughunter]] [[obra-superpowers]]
+[[elementalsouls-claude-bughunter]] [[ggml-org-ggml]] [[agricidaniel-claude-seo]] [[openvinotoolkit-openvino]] [[likely7-veyra-nrvideo]]
 
 **所属领域**: [[erp]]
 

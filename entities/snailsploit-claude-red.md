@@ -38,7 +38,7 @@ claude-red is a curated library of offensive security skills designed for the Cl
 
 ## 相关项目
 
-[[google-research-paper-orchestra]] [[tailscale-tailcat]] [[backnotprop-plannotator]] [[openai-codex-security]] [[jingyaogong-minimind]]
+[[appwrite-appwrite]] [[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[security]]
 

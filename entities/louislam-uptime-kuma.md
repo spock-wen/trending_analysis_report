@@ -35,7 +35,7 @@ A fancy self-hosted monitoring tool
 
 ## 相关项目
 
-[[elementalsouls-claude-bughunter]] [[anthropics-claude-quickstarts]] [[deanchensj-jiangshan-map]] [[affaan-m-ecc]] [[ruvnet-ruview]]
+[[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[openvinotoolkit-openvino]] [[jquery-jquery]] [[deanchensj-jiangshan-map]]
 
 **所属领域**: [[devops]]
 

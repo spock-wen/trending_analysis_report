@@ -36,7 +36,7 @@ AI turns documents or topics into real, native PowerPoint decks—with native sh
 
 ## 相关项目
 
-[[google-research-paper-orchestra]] [[tailscale-tailcat]] [[alishahryar1-free-claude-code]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]]
+[[appwrite-appwrite]] [[alishahryar1-free-claude-code]] [[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[ai-agent]] [[data]] [[erp]] [[audio]]
 

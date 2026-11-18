@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[penpot-penpot]] [[mvanhorn-last30days-skill]] [[obra-superpowers]] [[affaan-m-ecc]]
+[[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[obra-superpowers]] [[penpot-penpot]]
 
 **所属领域**: [[ai-agent]]
 

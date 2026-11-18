@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[google-research-paper-orchestra]] [[tailscale-tailcat]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]] [[alibaba-open-code-review]]
+[[appwrite-appwrite]] [[elementalsouls-claude-bughunter]] [[mvanhorn-last30days-skill]] [[alibaba-open-code-review]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[data]]
 

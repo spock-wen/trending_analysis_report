@@ -34,7 +34,7 @@ qBittorrent BitTorrent client
 
 ## 相关项目
 
-[[likely7-veyra-nrvideo]] [[backnotprop-plannotator]] [[ggml-org-llama.cpp]] [[google-labs-code-stitch-skills]] [[ggml-org-ggml]]
+[[ggml-org-ggml]] [[openvinotoolkit-openvino]] [[hkuds-cli-anything]] [[likely7-veyra-nrvideo]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[cli]]
 

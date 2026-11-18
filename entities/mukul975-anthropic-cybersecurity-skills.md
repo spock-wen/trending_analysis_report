@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[google-research-paper-orchestra]] [[backnotprop-plannotator]] [[openai-codex-security]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]]
+[[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[openai-codex-security]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]]
 

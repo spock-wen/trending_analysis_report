@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[tailscale-tailcat]] [[thu-maic-openmaic]] [[louislam-uptime-kuma]] [[alibaba-open-code-review]] [[ggml-org-ggml]]
+[[appwrite-appwrite]] [[affaan-m-ecc]] [[ggml-org-ggml]] [[alibaba-open-code-review]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[data]] [[education]]
 

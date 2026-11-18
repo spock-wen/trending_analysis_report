@@ -37,5 +37,5 @@ Empowering everyone to host fast and efficient Minecraft servers.
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[block-buzz]] [[tokio-rs-topcoat]] [[martin-olivier-airgorah]]
+[[block-buzz]] [[astral-sh-uv]] [[martin-olivier-airgorah]] [[vercel-labs-agent-browser]]
 

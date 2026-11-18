@@ -37,7 +37,7 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[bannedbook-fanqiang]] [[android-skills]] [[mvanhorn-last30days-skill]] [[mahlernim-google-timeline-visualizer]]
+[[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[android-skills]] [[hkuds-cli-anything]] [[mahlernim-google-timeline-visualizer]]
 
 **所属领域**: [[ai-agent]]
 

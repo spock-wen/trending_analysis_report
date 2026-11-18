@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[google-research-paper-orchestra]] [[paperclipai-paperclip]] [[block-buzz]] [[google-labs-code-stitch-skills]]
+[[affaan-m-ecc]] [[astral-sh-uv]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[google-research-paper-orchestra]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

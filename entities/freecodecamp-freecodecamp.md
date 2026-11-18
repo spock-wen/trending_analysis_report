@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]] [[google-labs-code-stitch-skills]] [[ggml-org-ggml]]
+[[appwrite-appwrite]] [[ggml-org-ggml]] [[michaelcade-90daysofdevops]] [[n8n-io-n8n]] [[thu-maic-openmaic]]
 
 **所属领域**: [[education]]
 

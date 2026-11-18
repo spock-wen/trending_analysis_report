@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[xiaolai-the-craft-of-selfteaching]] [[tailscale-tailcat]] [[google-labs-code-stitch-skills]] [[lyogavin-airllm]]
+[[appwrite-appwrite]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[alibaba-open-code-review]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

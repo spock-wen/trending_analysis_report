@@ -38,7 +38,7 @@ Build your own AI office with Univer Office SDK. Bring editing, calculation, col
 
 ## 相关项目
 
-[[cursor-plugins]] [[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[obra-superpowers]]
+[[appwrite-appwrite]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[n8n-io-n8n]]
 
 **所属领域**: [[ai-agent]]
 

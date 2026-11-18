@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[tailscale-tailcat]] [[openssl-openssl]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[alibaba-open-code-review]]
+[[appwrite-appwrite]] [[openssl-openssl]] [[fareedkhan-dev-kimi-k3-in-c]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

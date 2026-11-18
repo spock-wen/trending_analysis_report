@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[tailscale-tailcat]] [[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]] [[louislam-uptime-kuma]]
+[[appwrite-appwrite]] [[elementalsouls-claude-bughunter]] [[alibaba-open-code-review]] [[openvinotoolkit-openvino]] [[n8n-io-n8n]]
 
 **所属领域**: [[data]] [[devops]]
 

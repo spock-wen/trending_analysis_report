@@ -37,7 +37,7 @@ A curated list of practical Codex skills for automating workflows across the Cod
 
 ## 相关项目
 
-[[google-research-paper-orchestra]] [[backnotprop-plannotator]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
+[[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

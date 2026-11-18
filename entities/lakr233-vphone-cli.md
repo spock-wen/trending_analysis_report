@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[abue-ammar-tinycast]] [[elementalsouls-claude-bughunter]]
+[[google-labs-code-stitch-skills]] [[hkuds-cli-anything]] [[xtool-org-xtool]] [[obra-superpowers]] [[nvm-sh-nvm]]
 
 **所属领域**: [[cli]]
 

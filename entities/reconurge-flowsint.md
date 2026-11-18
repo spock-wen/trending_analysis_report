@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]] [[openai-codex-security]] [[google-labs-code-stitch-skills]]
+[[appwrite-appwrite]] [[affaan-m-ecc]] [[openai-codex-security]] [[martin-olivier-airgorah]] [[n8n-io-n8n]]
 
 **所属领域**: [[security]]
 

@@ -34,7 +34,7 @@ A new type of shell
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[backnotprop-plannotator]] [[block-buzz]] [[google-labs-code-stitch-skills]] [[elementalsouls-claude-bughunter]]
+[[astral-sh-uv]] [[hkuds-cli-anything]] [[martin-olivier-airgorah]] [[obra-superpowers]] [[nvm-sh-nvm]]
 
 **所属领域**: [[cli]]
 

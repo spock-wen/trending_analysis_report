@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[google-research-paper-orchestra]] [[backnotprop-plannotator]] [[paperclipai-paperclip]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]]
+[[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[agricidaniel-claude-seo]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[block-buzz]] [[louislam-uptime-kuma]] [[elementalsouls-claude-bughunter]] [[anthropics-claude-quickstarts]]
+[[elementalsouls-claude-bughunter]] [[louislam-uptime-kuma]] [[astral-sh-uv]] [[openvinotoolkit-openvino]] [[martin-olivier-airgorah]]
 
 **所属领域**: [[devops]]
 

@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[floci-io-floci]] [[yuliskov-smarttube]] [[openai-codex-security]] [[nationalsecurityagency-ghidra]] [[cloudflare-security-audit-skill]]
+[[floci-io-floci]] [[affaan-m-ecc]] [[thealgorithms-java]] [[openai-codex-security]] [[martin-olivier-airgorah]]
 
 **所属领域**: [[security]]
 

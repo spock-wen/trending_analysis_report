@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[google-research-paper-orchestra]] [[openai-codex-security]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]] [[cloudflare-security-audit-skill]]
+[[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[openai-codex-security]]
 
 **所属领域**: [[security]]
 

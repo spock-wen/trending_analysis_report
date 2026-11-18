@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-11-18 | 总页面：914
+> 最后更新：2026-11-19 | 总页面：919
 
 ## Entities
 
@@ -21,7 +21,7 @@
 - [[actions-runner-images|runner-images]] — GitHub Actions runner images
 - [[activeloopai-hivemind|hivemind]] — One brain for all your agents
 - [[addyosmani-agent-skills|agent-skills]] — Production-grade engineering skills for AI coding agents. 🔥
-- [[affaan-m-ecc|ECC]] — The agent harness performance optimization system. Skills, i...
+- [[affaan-m-ecc|ECC]] — The agent harness performance optimization system. Skills, i... 🆕
 - [[affaan-m-everything-claude-code|everything-claude-code]] — The agent harness performance optimization system. Skills, i...
 - [[ag-ui-protocol-ag-ui|ag-ui]] — AG-UI: the Agent-User Interaction Protocol. Bring Agents int... 🔥
 - [[agalwood-motrix|Motrix]] — A full-featured download manager. 🆕
@@ -92,6 +92,7 @@
 - [[apache-superset|superset]] — Apache Superset is a Data Visualization and Data Exploration...
 - [[apernet-hysteria|hysteria]] — Hysteria is a powerful, lightning fast and censorship resist... 🆕
 - [[apple-container|container]] — A tool for creating and running Linux containers using light... 🆕
+- [[appwrite-appwrite|appwrite]] — The open-source cloud for agents & devs. Including Auth, Dat... 🆕
 - [[aprilnea-openlogi|OpenLogi]] — ⚡️A native, local-first alternative to Logitech Options+, wr...
 - [[aquasecurity-trivy|trivy]] — Find vulnerabilities, misconfigurations, secrets, SBOM in co... 🔥
 - [[argoproj-argo-cd|argo-cd]] — Declarative Continuous Deployment for Kubernetes
@@ -101,6 +102,7 @@
 - [[asciimoo-hister|hister]] — Your own search engine 🆕
 - [[ashhart-tensorfold|TensorFold]] — LLM Inference Engine for Metal, CUDA and Vulkan.
 - [[astral-sh-ruff|ruff]] — An extremely fast Python linter and code formatter, written ... 🆕
+- [[astral-sh-uv|uv]] — An extremely fast Python package and project manager, writte... 🆕
 - [[astrbotdevs-astrbot|AstrBot]] — AI Agent Assistant & development framework that integrates l... 🔥
 - [[augani-openreel-video|openreel-video]] — OpenReel Video - Professional browser-based video editor. Op...
 - [[automatic1111-stable-diffusion-webui|stable-diffusion-webui]] — Stable Diffusion web UI
@@ -200,7 +202,7 @@
 - [[crynta-terax-ai|terax-ai]] — Lightweight (7MB) Terminal-first AI-native dev workspace
 - [[cs341-illinois-coursebook|coursebook]] — Open Source Introductory Systems Programming Textbook for th... 🆕
 - [[cupy-cupy|cupy]] — NumPy & SciPy for GPU 🆕
-- [[cursor-plugins|plugins]] — Cursor plugin specification and official plugins
+- [[cursor-plugins|plugins]] — Cursor plugin specification and official plugins 🆕
 - [[cypress-io-cypress|cypress]] — Fast, easy and reliable testing for anything that runs in a ...
 - [[czlonkowski-n8n-mcp|n8n-mcp]] — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor t...
 - [[d4vinci-scrapling|Scrapling]] — 🕷️ The BEST Web Scraping framework that handles everything f... 🔥
@@ -304,7 +306,7 @@
 - [[genlayerlabs-genlayer-project-boilerplate|genlayer-project-boilerplate]] — No description 🆕
 - [[genymobile-scrcpy|scrcpy]] — Display and control your Android device
 - [[geo-tp-esp32-bit-pirate|ESP32-Bit-Pirate]] — A Hardware Hacking Tool with Web-Based CLI That Speaks Every...
-- [[getarcaneapp-arcane|arcane]] — Modern Docker Management, Designed for Everyone 🆕
+- [[getarcaneapp-arcane|arcane]] — Modern Docker Management, Designed for Everyone 🔥
 - [[getsentry-sentry|sentry]] — Developer-first error tracking and performance monitoring 🔥
 - [[ggml-org-ggml|ggml]] — Tensor library for machine learning
 - [[ggml-org-llama.cpp|llama.cpp]] — LLM inference in C/C++
@@ -332,7 +334,7 @@
 - [[google-labs-code-stitch-skills|stitch-skills]] — A library of Agent Skills designed to work with the Stitch M... 🔥
 - [[google-magika|magika]] — Fast and accurate AI powered file content types detection 🔥
 - [[google-osv-scanner|osv-scanner]] — Vulnerability scanner written in Go which uses the data prov...
-- [[google-research-paper-orchestra|paper-orchestra]] — PaperOrchestra is a multi-agent framework for automated AI r... 🆕
+- [[google-research-paper-orchestra|paper-orchestra]] — PaperOrchestra is a multi-agent framework for automated AI r... 🔥
 - [[google-research-timesfm|timesfm]] — TimesFM (Time Series Foundation Model) is a pretrained time-... 🔥
 - [[google-skills|skills]] — Agent Skills for Google products and technologies 🔥
 - [[googlechrome-modern-web-guidance-src|modern-web-guidance-src]] — Keep your coding agent up to date with the latest web best p... 🔥
@@ -361,7 +363,7 @@
 - [[heygen-com-hyperframes|hyperframes]] — Write HTML. Render video. Built for agents. 🔥
 - [[higgsfield-ai-higgsfield|higgsfield]] — Fault-tolerant, highly scalable GPU orchestration, and a mac... 🆕
 - [[hkuds-ai-trader|AI-Trader]] — "AI-Trader: 100% Fully-Automated Agent-Native Trading"
-- [[hkuds-cli-anything|CLI-Anything]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:... 🔥
+- [[hkuds-cli-anything|CLI-Anything]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:...
 - [[hkuds-deeptutor|DeepTutor]] — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor... 🔥
 - [[hkuds-lightrag|LightRAG]] — [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented G...
 - [[hkuds-rag-anything|RAG-Anything]] — "RAG-Anything: All-in-One RAG Framework" 🆕
@@ -421,6 +423,7 @@
 - [[jo-inc-camofox-browser|camofox-browser]] — Stealth headless browser for AI agents — bypass Cloudflare, ... 🆕
 - [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm]] — Claude Skill: Multi-source content processor for NotebookLM. 🆕
 - [[jordan-gibbs-hyperresearch|hyperresearch]] — Agent-driven research knowledge base. Agents collect, search...
+- [[jquery-jquery|jquery]] — jQuery JavaScript Library 🆕
 - [[juliusbrussee-caveman|caveman]] — 🪨 why use many token when few token do trick. Viral skill + ...
 - [[julyx10-lap|lap]] — An offline-first photo manager for large local libraries
 - [[jundot-omlx|omlx]] — LLM inference server with continuous batching & SSD caching ... 🔥
@@ -563,7 +566,7 @@
 - [[multica-ai-multica|multica]] — The open-source managed agents platform. Turn coding agents ... 🆕
 - [[multimodal-art-projection-yue|YuE]] — YuE2: frontier music generation with symbolic planning, zero...
 - [[music-assistant-server|server]] — Music Assistant is a free, opensource Media library manager ... 🔥
-- [[mvanhorn-last30days-skill|last30days-skill]] — AI agent skill that researches any topic across Reddit, X, Y... 🆕
+- [[mvanhorn-last30days-skill|last30days-skill]] — AI agent skill that researches any topic across Reddit, X, Y... 🔥
 - [[mvschwarz-openrig|openrig]] — Build your own network of agents from Claude Code, Codex and... 🔥
 - [[mvt-project-mvt|mvt]] — MVT (Mobile Verification Toolkit) helps with conducting fore... 🔥
 - [[n0-computer-iroh|iroh]] — IP addresses break, dial keys instead. Modular networking st... 🔥
@@ -592,12 +595,12 @@
 - [[nvidia-nemo-switchyard|Switchyard]] — Switchyard lets LLM applications route traffic across models... 🆕
 - [[nvidia-openshell|OpenShell]] — OpenShell is the safe, private runtime for autonomous AI age... 🆕
 - [[nvidia-personaplex|personaplex]] — PersonaPlex code. 🆕
-- [[nvidia-skillevaluator|SkillEvaluator]] — Multi-tier framework for evaluating AI agent skills and plug... 🆕
+- [[nvidia-skillevaluator|SkillEvaluator]] — Multi-tier framework for evaluating AI agent skills and plug...
 - [[nvidia-skillspector|SkillSpector]] — Security scanner for AI agent skills. Detect vulnerabilities...
 - [[nvlabs-sana|Sana]] — SANA: Efficient High-Resolution Image Synthesis with Linear ...
 - [[nvm-sh-nvm|nvm]] — Node Version Manager - POSIX-compliant bash script to manage...
 - [[oblien-openship|openship]] — Self-hosted deployment platform
-- [[obra-superpowers|superpowers]] — An agentic skills framework & software development methodolo...
+- [[obra-superpowers|superpowers]] — An agentic skills framework & software development methodolo... 🆕
 - [[ocornut-imgui|imgui]] — Dear ImGui: Bloat-free Graphical User interface for C++ with...
 - [[odoo-odoo|odoo]] — Odoo. Open Source Apps To Grow Your Business.
 - [[ogulcancelik-herdr|herdr]] — agent multiplexer that lives in your terminal. 🔥
@@ -628,6 +631,7 @@
 - [[openmoss-moss-tts|MOSS-TTS]] — MOSS‑TTS Family is an open‑source speech and sound generatio...
 - [[openssl-openssl|openssl]] — General purpose TLS and crypto library
 - [[opentoonz-opentoonz|opentoonz]] — OpenToonz - An open-source full-featured 2D animation creati...
+- [[openvinotoolkit-openvino|openvino]] — OpenVINO™ is an open source toolkit for optimizing and deplo... 🆕
 - [[openwhispr-openwhispr|openwhispr]] — Voice-to-text dictation app with local (Nvidia Parakeet/Whis...
 - [[openwrt-openwrt|openwrt]] — This repository is a mirror of https://git.openwrt.org/openw...
 - [[oracle-devrel-oracle-ai-developer-hub|oracle-ai-developer-hub]] — Technical resources for AI developers to build applications,...
@@ -747,6 +751,7 @@
 - [[snailsploit-claude-red|Claude-Red]] — claude-red is a curated library of offensive security skills...
 - [[snarktank-ralph|ralph]] — Ralph is an autonomous AI agent loop that runs repeatedly un... 🆕
 - [[sngyai-sequoia-x|Sequoia-X]] — A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书
+- [[solidjs-solid|solid]] — A declarative, efficient, and flexible JavaScript library fo... 🆕
 - [[sonarr-sonarr|Sonarr]] — Smart PVR for newsgroup and bittorrent users. 🆕
 - [[soxoj-maigret|maigret]] — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ s...
 - [[spotify-portal-ai-plugins|portal-ai-plugins]] — No description
@@ -765,7 +770,7 @@
 - [[supermemoryai-supermemory|supermemory]] — Memory and context engine + app that is extremely fast, scal...
 - [[superset-sh-superset|superset]] — IDE for the AI Agents Era - Run an army of Claude Code, Code...
 - [[supertone-inc-supertonic|supertonic]] — Lightning-Fast, On-Device, Multilingual TTS running natively...
-- [[sveltejs-svelte|svelte]] — web development for the rest of us 🆕
+- [[sveltejs-svelte|svelte]] — web development for the rest of us 🔥
 - [[swc-project-swc|swc]] — Rust-based platform for the Web
 - [[swoole-typephp|typephp]] — Compile PHP to Native Binaries
 - [[swordfish90-cool-retro-term|cool-retro-term]] — A good looking terminal emulator which mimics the old cathod...

@@ -38,7 +38,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[obra-superpowers]] [[google-labs-code-stitch-skills]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

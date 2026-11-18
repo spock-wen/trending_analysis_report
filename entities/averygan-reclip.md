@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[chromedevtools-chrome-devtools-mcp]] [[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[cathrynlavery-diagram-design]] [[mvanhorn-last30days-skill]]
+[[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[ag-ui-protocol-ag-ui]] [[alchaincyf-huashu-design]] [[obra-superpowers]]
 
 **所属领域**: [[web]] [[cli]]
 

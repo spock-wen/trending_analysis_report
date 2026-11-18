@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[google-research-paper-orchestra]] [[tailscale-tailcat]] [[paperclipai-paperclip]] [[jingyaogong-minimind]] [[alibaba-open-code-review]]
+[[appwrite-appwrite]] [[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[alibaba-open-code-review]]
 
 **所属领域**: [[data]] [[science]]
 

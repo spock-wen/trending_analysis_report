@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[google-research-paper-orchestra]] [[paperclipai-paperclip]] [[openai-codex-security]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]]
+[[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[ggml-org-ggml]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

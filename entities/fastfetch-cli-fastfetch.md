@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[openssl-openssl]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[lz4-lz4]]
+[[openssl-openssl]] [[fareedkhan-dev-kimi-k3-in-c]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -35,5 +35,5 @@ Code at the speed of thought – Zed is a high-performance, multiplayer code edi
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[block-buzz]] [[tokio-rs-topcoat]] [[martin-olivier-airgorah]]
+[[block-buzz]] [[astral-sh-uv]] [[martin-olivier-airgorah]] [[vercel-labs-agent-browser]]
 

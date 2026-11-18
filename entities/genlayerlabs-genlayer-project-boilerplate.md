@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]] [[google-labs-code-stitch-skills]] [[elementalsouls-claude-bughunter]]
+[[appwrite-appwrite]] [[elementalsouls-claude-bughunter]] [[agricidaniel-claude-seo]] [[n8n-io-n8n]] [[php-php-src]]
 
 **所属领域**: [[erp]]
 

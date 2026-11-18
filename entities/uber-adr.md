@@ -35,7 +35,7 @@ ADR secures enterprise AI agents through observability, security benchmarking, a
 
 ## 相关项目
 
-[[google-research-paper-orchestra]] [[openai-codex-security]] [[louislam-uptime-kuma]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]]
+[[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[agricidaniel-claude-seo]] [[mvanhorn-last30days-skill]] [[openvinotoolkit-openvino]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[security]] [[erp]]
 

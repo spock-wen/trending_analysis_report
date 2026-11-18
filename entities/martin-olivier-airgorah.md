@@ -34,7 +34,7 @@ A WiFi security auditing software
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[openai-codex-security]] [[block-buzz]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
+[[affaan-m-ecc]] [[astral-sh-uv]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[openai-codex-security]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

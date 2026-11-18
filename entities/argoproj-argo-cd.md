@@ -34,7 +34,7 @@ Declarative Continuous Deployment for Kubernetes
 
 ## 相关项目
 
-[[getarcaneapp-arcane]] [[juliusbrussee-caveman]] [[louislam-uptime-kuma]] [[alibaba-open-code-review]] [[tencent-loopforge]]
+[[elementalsouls-claude-bughunter]] [[anthropics-claude-quickstarts]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[openvinotoolkit-openvino]]
 
 **所属领域**: [[devops]]
 

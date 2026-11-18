@@ -1,7 +1,7 @@
 ---
 title: "TypeScript Ecosystem Surge"
 created: 2026-06-08
-updated: 2026-11-18
+updated: 2026-11-19
 type: concept
 tags: [typescript, surge]
 confidence: medium
@@ -11,11 +11,11 @@ confidence: medium
 
 ## 信号概述
 
-2026-11-18 检测到 TypeScript 领域有 5 个项目同时上榜，表明该语言生态近期活跃度显著上升。
+2026-11-19 检测到 TypeScript 领域有 5 个项目同时上榜，表明该语言生态近期活跃度显著上升。
 
 ## 上榜项目（5 个）
 
-[[dream-num-univer]] [[google-labs-code-stitch-skills]] [[cursor-plugins]] [[ag-ui-protocol-ag-ui]] [[backnotprop-plannotator]]
+[[cursor-plugins]] [[google-labs-code-stitch-skills]] [[appwrite-appwrite]] [[n8n-io-n8n]] [[solidjs-solid]]
 
 ## 语言分布
 

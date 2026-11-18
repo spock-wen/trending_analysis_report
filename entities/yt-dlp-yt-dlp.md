@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[google-research-paper-orchestra]] [[backnotprop-plannotator]] [[alishahryar1-free-claude-code]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]]
+[[alishahryar1-free-claude-code]] [[elementalsouls-claude-bughunter]] [[microsoft-vibevoice]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
 
 **所属领域**: [[cli]] [[audio]]
 

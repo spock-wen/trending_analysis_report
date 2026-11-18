@@ -34,5 +34,5 @@ b站会员购购票辅助工具
 
 ## 相关项目
 
-[[google-research-paper-orchestra]] [[elementalsouls-claude-bughunter]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]]
+[[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[elementalsouls-claude-bughunter]] [[mvanhorn-last30days-skill]]
 

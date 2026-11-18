@@ -38,7 +38,7 @@ AirLLM 2.8T LLM inference with single 4GB GPU
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[patchy631-ai-engineering-hub]] [[obra-superpowers]]
+[[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[higgsfield-ai-higgsfield]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

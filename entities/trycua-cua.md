@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[vercel-labs-agent-browser]] [[nvidia-skillevaluator]] [[likely7-veyra-nrvideo]] [[tailscale-tailcat]]
+[[appwrite-appwrite]] [[affaan-m-ecc]] [[astral-sh-uv]] [[mvanhorn-last30days-skill]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

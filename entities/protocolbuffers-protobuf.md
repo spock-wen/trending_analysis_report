@@ -37,7 +37,7 @@ Protocol Buffers - Google's data interchange format
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[likely7-veyra-nrvideo]] [[tailscale-tailcat]] [[ggml-org-llama.cpp]] [[alibaba-open-code-review]]
+[[appwrite-appwrite]] [[ggml-org-ggml]] [[alibaba-open-code-review]] [[openvinotoolkit-openvino]] [[likely7-veyra-nrvideo]]
 
 **所属领域**: [[data]]
 

@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[google-research-paper-orchestra]] [[backnotprop-plannotator]] [[paperclipai-paperclip]] [[openai-codex-security]] [[google-labs-code-stitch-skills]]
+[[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[actions-runner-images]] [[openai-codex-security]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

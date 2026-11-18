@@ -34,5 +34,5 @@ General plug-and-play inference library for Recursive Language Models (RLMs), su
 
 ## 相关项目
 
-[[google-research-paper-orchestra]] [[elementalsouls-claude-bughunter]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]]
+[[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[elementalsouls-claude-bughunter]] [[mvanhorn-last30days-skill]]
 

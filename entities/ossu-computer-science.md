@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[cathrynlavery-diagram-design]] [[mvanhorn-last30days-skill]] [[ripienaar-free-for-dev]]
+[[averygan-reclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[ag-ui-protocol-ag-ui]] [[alchaincyf-huashu-design]]
 
 **所属领域**: [[web]]
 

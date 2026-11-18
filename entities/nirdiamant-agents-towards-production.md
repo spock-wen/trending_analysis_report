@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[thu-maic-openmaic]] [[php-php-src]] [[louislam-uptime-kuma]] [[google-labs-code-stitch-skills]]
+[[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[louislam-uptime-kuma]] [[ggml-org-ggml]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

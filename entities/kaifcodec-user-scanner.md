@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[google-research-paper-orchestra]] [[tailscale-tailcat]] [[paperclipai-paperclip]] [[openai-codex-security]] [[jingyaogong-minimind]]
+[[appwrite-appwrite]] [[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

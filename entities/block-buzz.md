@@ -38,5 +38,5 @@ A hive mind communication platform
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[tokio-rs-topcoat]] [[martin-olivier-airgorah]]
+[[astral-sh-uv]] [[martin-olivier-airgorah]] [[vercel-labs-agent-browser]]
 

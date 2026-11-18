@@ -34,7 +34,7 @@ OpenMetadata is a unified metadata platform for data discovery, data observabili
 
 ## 相关项目
 
-[[tailscale-tailcat]] [[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]] [[louislam-uptime-kuma]]
+[[appwrite-appwrite]] [[elementalsouls-claude-bughunter]] [[alibaba-open-code-review]] [[openvinotoolkit-openvino]] [[n8n-io-n8n]]
 
 **所属领域**: [[data]] [[devops]]
 

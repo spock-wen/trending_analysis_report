@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[plausible-analytics]] [[mvanhorn-last30days-skill]] [[obra-superpowers]] [[teslamate-org-teslamate]]
+[[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[obra-superpowers]] [[teslamate-org-teslamate]]
 
 **所属领域**: [[ai-agent]]
 

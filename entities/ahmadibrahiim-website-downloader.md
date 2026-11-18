@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[cathrynlavery-diagram-design]]
+[[averygan-reclip]] [[mvanhorn-last30days-skill]] [[nvidia-auto-ontology]] [[hkuds-cli-anything]] [[conardli-garden-skills]]
 
 **所属领域**: [[web]] [[image-gen]]
 

@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[bannedbook-fanqiang]] [[android-skills]] [[mvanhorn-last30days-skill]] [[mahlernim-google-timeline-visualizer]]
+[[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[android-skills]] [[hkuds-cli-anything]] [[mahlernim-google-timeline-visualizer]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

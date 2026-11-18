@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[averygan-reclip]] [[louislam-uptime-kuma]] [[cathrynlavery-diagram-design]] [[mvanhorn-last30days-skill]] [[elementalsouls-claude-bughunter]]
+[[averygan-reclip]] [[elementalsouls-claude-bughunter]] [[mvanhorn-last30days-skill]] [[openvinotoolkit-openvino]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[devops]]
 

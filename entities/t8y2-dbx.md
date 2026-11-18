@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[nvidia-skillevaluator]] [[tailscale-tailcat]] [[backnotprop-plannotator]] [[block-buzz]]
+[[appwrite-appwrite]] [[affaan-m-ecc]] [[astral-sh-uv]] [[mvanhorn-last30days-skill]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

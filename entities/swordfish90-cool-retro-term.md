@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[obra-superpowers]] [[elementalsouls-claude-bughunter]] [[google-labs-code-stitch-skills]] [[backnotprop-plannotator]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[nvm-sh-nvm]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[cli]]
 

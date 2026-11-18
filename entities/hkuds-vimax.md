@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[google-research-paper-orchestra]] [[likely7-veyra-nrvideo]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]]
+[[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[nvidia-auto-ontology]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -34,7 +34,7 @@ This repository started out as a learning in public project for myself and has n
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[louislam-uptime-kuma]] [[google-labs-code-stitch-skills]] [[nvm-sh-nvm]] [[mattpocock-skills]]
+[[elementalsouls-claude-bughunter]] [[louislam-uptime-kuma]] [[ggml-org-ggml]] [[openvinotoolkit-openvino]] [[hkuds-cli-anything]]
 
 **所属领域**: [[cli]] [[devops]] [[education]]
 

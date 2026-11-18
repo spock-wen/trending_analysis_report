@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]] [[alishahryar1-free-claude-code]] [[google-labs-code-stitch-skills]]
+[[appwrite-appwrite]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[microsoft-vibevoice]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[chen08209-flclash]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[flutter-flutter]] [[obra-superpowers]]
+[[localsend-localsend]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[flutter-flutter]]
 
 **所属领域**: [[ai-agent]]
 

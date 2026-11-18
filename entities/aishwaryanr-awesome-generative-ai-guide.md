@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[google-research-paper-orchestra]] [[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[paperclipai-paperclip]] [[google-labs-code-stitch-skills]]
+[[averygan-reclip]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[google-research-paper-orchestra]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]] [[louislam-uptime-kuma]] [[google-labs-code-stitch-skills]]
+[[appwrite-appwrite]] [[elementalsouls-claude-bughunter]] [[openvinotoolkit-openvino]] [[n8n-io-n8n]] [[cursor-plugins]]
 
 **所属领域**: [[devops]]
 

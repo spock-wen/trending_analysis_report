@@ -38,7 +38,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[floci-io-floci]] [[tailscale-tailcat]] [[yuliskov-smarttube]] [[nationalsecurityagency-ghidra]] [[google-labs-code-stitch-skills]]
+[[appwrite-appwrite]] [[floci-io-floci]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

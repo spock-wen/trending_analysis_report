@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[floci-io-floci]] [[tailscale-tailcat]] [[backnotprop-plannotator]] [[yuliskov-smarttube]] [[nationalsecurityagency-ghidra]]
+[[appwrite-appwrite]] [[floci-io-floci]] [[affaan-m-ecc]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

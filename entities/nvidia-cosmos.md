@@ -35,7 +35,7 @@ NVIDIA Cosmos is an open platform of world models, datasets, and tools that enab
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[xiaolai-the-craft-of-selfteaching]] [[tailscale-tailcat]] [[louislam-uptime-kuma]] [[google-labs-code-stitch-skills]]
+[[appwrite-appwrite]] [[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[louislam-uptime-kuma]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

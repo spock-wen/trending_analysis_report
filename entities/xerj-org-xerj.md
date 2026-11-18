@@ -36,7 +36,7 @@ XERJ is the new way for AI to search data. Its autoindex capability activates ag
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[nvidia-skillevaluator]] [[tailscale-tailcat]] [[backnotprop-plannotator]] [[openai-codex-security]]
+[[appwrite-appwrite]] [[affaan-m-ecc]] [[astral-sh-uv]] [[mvanhorn-last30days-skill]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[security]]
 

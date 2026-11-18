@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[google-research-paper-orchestra]] [[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]] [[paperclipai-paperclip]]
+[[appwrite-appwrite]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[google-research-paper-orchestra]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

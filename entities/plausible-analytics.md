@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[tailscale-tailcat]] [[openai-codex-security]] [[agentjido-jido]] [[mvanhorn-last30days-skill]]
+[[appwrite-appwrite]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[alibaba-open-code-review]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

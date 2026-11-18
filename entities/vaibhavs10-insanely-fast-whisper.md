@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[google-labs-code-stitch-skills]] [[lyogavin-airllm]] [[mvanhorn-last30days-skill]] [[patchy631-ai-engineering-hub]]
+[[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[higgsfield-ai-higgsfield]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

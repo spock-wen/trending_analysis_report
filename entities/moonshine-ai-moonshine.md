@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[likely7-veyra-nrvideo]] [[alishahryar1-free-claude-code]] [[ggml-org-llama.cpp]] [[google-labs-code-stitch-skills]] [[anomalyco-hex]]
+[[alishahryar1-free-claude-code]] [[ggml-org-ggml]] [[affaan-m-ecc]] [[microsoft-vibevoice]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

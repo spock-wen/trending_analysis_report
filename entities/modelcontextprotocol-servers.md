@@ -34,5 +34,5 @@ Model Context Protocol Servers
 
 ## 相关项目
 
-[[dream-num-univer]] [[google-labs-code-stitch-skills]] [[cursor-plugins]] [[backnotprop-plannotator]]
+[[appwrite-appwrite]] [[cursor-plugins]] [[google-labs-code-stitch-skills]] [[n8n-io-n8n]]
 

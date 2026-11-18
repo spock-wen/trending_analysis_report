@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]] [[louislam-uptime-kuma]] [[google-labs-code-stitch-skills]]
+[[appwrite-appwrite]] [[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[openvinotoolkit-openvino]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

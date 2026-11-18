@@ -34,7 +34,7 @@ AI that sees your screen, listens to your conversations and tells you what to do
 
 ## 相关项目
 
-[[chen08209-flclash]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[flutter-flutter]] [[flutter-skills]]
+[[localsend-localsend]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[flutter-skills]]
 
 **所属领域**: [[ai-agent]]
 

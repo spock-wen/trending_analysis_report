@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[tailscale-tailcat]] [[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[google-labs-code-stitch-skills]]
+[[appwrite-appwrite]] [[averygan-reclip]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[alibaba-open-code-review]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

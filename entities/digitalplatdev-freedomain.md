@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[averygan-reclip]] [[chromedevtools-chrome-devtools-mcp]] [[google-labs-code-stitch-skills]] [[cathrynlavery-diagram-design]] [[mvanhorn-last30days-skill]]
+[[averygan-reclip]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[ag-ui-protocol-ag-ui]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

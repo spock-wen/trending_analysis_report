@@ -34,7 +34,7 @@ language: "C"
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[openssl-openssl]] [[google-labs-code-stitch-skills]] [[lz4-lz4]] [[fareedkhan-dev-kimi-k3-in-c]]
+[[openssl-openssl]] [[fareedkhan-dev-kimi-k3-in-c]] [[hkuds-cli-anything]] [[lz4-lz4]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

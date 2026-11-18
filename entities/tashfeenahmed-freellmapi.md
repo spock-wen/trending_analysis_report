@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cursor-plugins]] [[backnotprop-plannotator]] [[dream-num-univer]] [[openai-codex-security]] [[google-labs-code-stitch-skills]]
+[[appwrite-appwrite]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[openai-codex-security]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

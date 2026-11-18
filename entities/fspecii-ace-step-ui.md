@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[alishahryar1-free-claude-code]] [[louislam-uptime-kuma]] [[google-labs-code-stitch-skills]]
+[[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[microsoft-vibevoice]] [[mvanhorn-last30days-skill]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

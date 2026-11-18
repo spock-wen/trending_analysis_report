@@ -34,7 +34,7 @@ language: "Zig"
 
 ## 相关项目
 
-[[backnotprop-plannotator]] [[google-labs-code-stitch-skills]] [[ashhart-tensorfold]] [[elementalsouls-claude-bughunter]] [[obra-superpowers]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[nvm-sh-nvm]] [[ashhart-tensorfold]] [[lightpanda-io-browser]]
 
 **所属领域**: [[cli]]
 

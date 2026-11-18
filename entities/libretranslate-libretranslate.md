@@ -34,5 +34,5 @@ Free and Open Source Machine Translation API. Self-hosted, offline capable and e
 
 ## 相关项目
 
-[[google-research-paper-orchestra]] [[elementalsouls-claude-bughunter]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]]
+[[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[elementalsouls-claude-bughunter]] [[mvanhorn-last30days-skill]]
 

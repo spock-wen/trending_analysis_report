@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[affaan-m-ecc]] [[astral-sh-uv]] [[mvanhorn-last30days-skill]] [[alibaba-open-code-review]]
+[[vercel-labs-agent-browser]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]] [[martin-olivier-airgorah]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

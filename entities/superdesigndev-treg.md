@@ -36,7 +36,7 @@ OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
 
 ## 相关项目
 
-[[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[ag-ui-protocol-ag-ui]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[jingyaogong-minimind]] [[sveltejs-svelte]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

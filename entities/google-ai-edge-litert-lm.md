@@ -37,7 +37,7 @@ No description
 
 ## 相关项目
 
-[[ggml-org-ggml]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[openvinotoolkit-openvino]] [[hkuds-cli-anything]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[openvinotoolkit-openvino]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

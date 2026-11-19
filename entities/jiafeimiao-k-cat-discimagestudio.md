@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[sonarr-sonarr]] [[nvidia-auto-ontology]] [[conardli-garden-skills]] [[likely7-veyra-nrvideo]] [[k1tbyte-wand-enhancer]]
+[[ntdevlabs-tiny11builder]] [[k1tbyte-wand-enhancer]] [[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[sonarr-sonarr]]
 
 **所属领域**: [[image-gen]]
 

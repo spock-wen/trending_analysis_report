@@ -34,7 +34,7 @@ A simple tool for coordinating several AI agents.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[obra-superpowers]] [[penpot-penpot]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[penpot-penpot]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

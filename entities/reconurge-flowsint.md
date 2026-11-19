@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[affaan-m-ecc]] [[openai-codex-security]] [[martin-olivier-airgorah]] [[n8n-io-n8n]]
+[[affaan-m-ecc]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]] [[martin-olivier-airgorah]] [[cursor-plugins]]
 
 **所属领域**: [[security]]
 

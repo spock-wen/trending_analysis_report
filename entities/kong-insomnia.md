@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[ag-ui-protocol-ag-ui]] [[n8n-io-n8n]]
+[[zhouxiaoka-autoclip]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[sveltejs-svelte]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]] [[cli]]
 

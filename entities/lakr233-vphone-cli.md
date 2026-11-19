@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[hkuds-cli-anything]] [[xtool-org-xtool]] [[obra-superpowers]] [[nvm-sh-nvm]]
+[[zhouxiaoka-autoclip]] [[obra-superpowers]] [[xtool-org-xtool]] [[manaflow-ai-cmux]] [[abue-ammar-tinycast]]
 
 **所属领域**: [[cli]]
 

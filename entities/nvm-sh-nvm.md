@@ -38,7 +38,7 @@ Node Version Manager - POSIX-compliant bash script to manage multiple active nod
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[michaelcade-90daysofdevops]] [[obra-superpowers]] [[mattpocock-skills]] [[google-labs-code-stitch-skills]]
+[[zhouxiaoka-autoclip]] [[obra-superpowers]] [[mjmirza-app-store-compliance]] [[mattpocock-skills]] [[hkuds-cli-anything]]
 
 **所属领域**: [[cli]]
 

@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[nvidia-auto-ontology]] [[hkuds-cli-anything]] [[conardli-garden-skills]]
+[[affaan-m-ecc]] [[nvidia-skillevaluator]] [[sveltejs-svelte]] [[mvanhorn-last30days-skill]] [[jquery-jquery]]
 
 **所属领域**: [[web]] [[image-gen]]
 

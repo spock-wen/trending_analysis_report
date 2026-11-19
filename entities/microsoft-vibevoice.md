@@ -38,7 +38,7 @@ Open-Source Frontier Voice AI
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[anomalyco-hex]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

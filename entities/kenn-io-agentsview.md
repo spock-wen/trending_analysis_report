@@ -35,7 +35,7 @@ Local-first session intelligence and analytics for coding agents, supporting Cla
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[affaan-m-ecc]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]]
+[[nvidia-skillevaluator]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

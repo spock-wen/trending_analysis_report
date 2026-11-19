@@ -38,7 +38,7 @@ Context window optimization for AI coding agents. Sandboxes tool output (98% red
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[n8n-io-n8n]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[cursor-plugins]] [[toeverything-affine]]
 
 **所属领域**: [[ai-agent]]
 

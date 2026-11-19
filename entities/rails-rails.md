@@ -34,7 +34,7 @@ Ruby on Rails
 
 ## 相关项目
 
-[[docusealco-docuseal]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[chatwoot-chatwoot]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[chatwoot-chatwoot]] [[mvanhorn-last30days-skill]] [[docusealco-docuseal]]
 
 **所属领域**: [[ai-agent]]
 

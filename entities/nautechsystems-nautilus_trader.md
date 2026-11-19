@@ -34,5 +34,5 @@ A high-performance algorithmic trading platform and event-driven backtester
 
 ## 相关项目
 
-[[block-buzz]] [[astral-sh-uv]] [[martin-olivier-airgorah]] [[vercel-labs-agent-browser]]
+[[martin-olivier-airgorah]] [[astral-sh-uv]] [[vercel-labs-agent-browser]] [[block-buzz]]
 

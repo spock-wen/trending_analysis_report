@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[floci-io-floci]] [[elementalsouls-claude-bughunter]] [[alibaba-open-code-review]] [[tailscale-tailcat]]
+[[yuliskov-smarttube]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]] [[tracer-cloud-opensre]] [[openvinotoolkit-openvino]]
 
 **所属领域**: [[data]] [[devops]]
 

@@ -34,7 +34,7 @@ real time face swap and one-click video deepfake with only a single image
 
 ## 相关项目
 
-[[elementalsouls-claude-bughunter]] [[mvanhorn-last30days-skill]] [[nvidia-auto-ontology]] [[hkuds-cli-anything]] [[conardli-garden-skills]]
+[[obra-superpowers]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

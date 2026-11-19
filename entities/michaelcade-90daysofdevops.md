@@ -34,7 +34,7 @@ This repository started out as a learning in public project for myself and has n
 
 ## 相关项目
 
-[[elementalsouls-claude-bughunter]] [[louislam-uptime-kuma]] [[ggml-org-ggml]] [[openvinotoolkit-openvino]] [[hkuds-cli-anything]]
+[[zhouxiaoka-autoclip]] [[thu-maic-openmaic]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[cli]] [[devops]] [[education]]
 

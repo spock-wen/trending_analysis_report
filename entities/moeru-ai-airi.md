@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[microsoft-vibevoice]] [[mvanhorn-last30days-skill]]
+[[microsoft-vibevoice]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[anomalyco-hex]] [[sveltejs-svelte]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

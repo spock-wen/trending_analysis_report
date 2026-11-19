@@ -34,7 +34,7 @@ ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 
 ## 相关项目
 
-[[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[obra-superpowers]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

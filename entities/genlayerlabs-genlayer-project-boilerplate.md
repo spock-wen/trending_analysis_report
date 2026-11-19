@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[elementalsouls-claude-bughunter]] [[agricidaniel-claude-seo]] [[n8n-io-n8n]] [[php-php-src]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[agricidaniel-claude-seo]] [[cursor-plugins]] [[toeverything-affine]]
 
 **所属领域**: [[erp]]
 

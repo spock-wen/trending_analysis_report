@@ -35,7 +35,7 @@ GLM-5: From Vibe Coding to Agentic Engineering
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[obra-superpowers]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

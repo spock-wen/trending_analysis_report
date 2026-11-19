@@ -35,7 +35,7 @@ mini cli search engine for your docs, knowledge bases, meeting notes, whatever. 
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[hkuds-cli-anything]] [[n8n-io-n8n]] [[obra-superpowers]] [[cursor-plugins]]
+[[zhouxiaoka-autoclip]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[toeverything-affine]]
 
 **所属领域**: [[cli]]
 

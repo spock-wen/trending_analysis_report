@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[ggml-org-ggml]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[thu-maic-openmaic]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

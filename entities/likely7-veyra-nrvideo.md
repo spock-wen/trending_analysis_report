@@ -35,7 +35,7 @@ Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and captu
 
 ## 相关项目
 
-[[ggml-org-ggml]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[openvinotoolkit-openvino]] [[hkuds-cli-anything]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[conardli-garden-skills]] [[mvanhorn-last30days-skill]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -38,7 +38,7 @@ A curated list of awesome Claude Skills, resources, and tools for customizing Cl
 
 ## 相关项目
 
-[[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[obra-superpowers]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

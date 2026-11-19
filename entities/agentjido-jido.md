@@ -34,7 +34,7 @@ language: "Elixir"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[obra-superpowers]] [[teslamate-org-teslamate]]
+[[plausible-analytics]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

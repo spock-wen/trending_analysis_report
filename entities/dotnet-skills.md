@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[sonarr-sonarr]] [[hkuds-cli-anything]] [[k1tbyte-wand-enhancer]]
+[[jiafeimiao-k-cat-discimagestudio]] [[ntdevlabs-tiny11builder]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

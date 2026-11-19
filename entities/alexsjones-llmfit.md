@@ -36,7 +36,7 @@ Hundreds of models & providers. One command to find what runs on your hardware.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[astral-sh-uv]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[martin-olivier-airgorah]]
+[[zhouxiaoka-autoclip]] [[vercel-labs-agent-browser]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[martin-olivier-airgorah]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

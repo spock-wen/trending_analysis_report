@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[alibaba-open-code-review]] [[hkuds-cli-anything]]
+[[obra-superpowers]] [[xiaolai-the-craft-of-selfteaching]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]] [[higgsfield-ai-higgsfield]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

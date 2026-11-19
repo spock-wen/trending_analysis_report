@@ -34,5 +34,5 @@ Control your Samsung appliances from Home Assistant over your home network, with
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[elementalsouls-claude-bughunter]] [[mvanhorn-last30days-skill]]
+[[hkuds-cli-anything]] [[mvanhorn-last30days-skill]] [[jingyaogong-minimind]] [[zhouxiaoka-autoclip]]
 

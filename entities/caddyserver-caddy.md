@@ -35,7 +35,7 @@ Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[ag-ui-protocol-ag-ui]]
+[[sveltejs-svelte]] [[mvanhorn-last30days-skill]] [[juliusbrussee-caveman]] [[getarcaneapp-arcane]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

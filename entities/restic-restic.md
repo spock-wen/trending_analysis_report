@@ -34,5 +34,5 @@ Fast, secure, efficient backup program
 
 ## 相关项目
 
-[[tencent-loopforge]] [[getarcaneapp-arcane]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]]
+[[alibaba-open-code-review]] [[tencent-loopforge]] [[juliusbrussee-caveman]] [[getarcaneapp-arcane]]
 

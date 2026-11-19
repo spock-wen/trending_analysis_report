@@ -38,7 +38,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[elementalsouls-claude-bughunter]] [[mvanhorn-last30days-skill]] [[nvidia-auto-ontology]] [[hkuds-cli-anything]] [[conardli-garden-skills]]
+[[jingyaogong-minimind]] [[mvanhorn-last30days-skill]] [[nvidia-auto-ontology]] [[hkuds-cli-anything]] [[likely7-veyra-nrvideo]]
 
 **所属领域**: [[image-gen]]
 

@@ -38,5 +38,5 @@ Open-source Grok Bot alternative with a virtual machine that bots can use
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[cursor-plugins]] [[google-labs-code-stitch-skills]] [[n8n-io-n8n]]
+[[cursor-plugins]] [[toeverything-affine]] [[firecrawl-firecrawl]] [[google-labs-code-stitch-skills]]
 

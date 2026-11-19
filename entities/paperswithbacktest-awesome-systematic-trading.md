@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[elementalsouls-claude-bughunter]] [[ggml-org-ggml]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[thu-maic-openmaic]] [[affaan-m-ecc]] [[google-research-paper-orchestra]] [[jingyaogong-minimind]] [[paperclipai-paperclip]]
 
 **所属领域**: [[education]] [[science]]
 

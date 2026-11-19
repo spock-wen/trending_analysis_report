@@ -35,7 +35,7 @@ NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare m
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[juliusbrussee-caveman]] [[getarcaneapp-arcane]]
 
 **所属领域**: [[ai-agent]]
 

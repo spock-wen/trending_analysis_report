@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[actions-runner-images]] [[openai-codex-security]]
+[[zhouxiaoka-autoclip]] [[affaan-m-ecc]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[google-research-paper-orchestra]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

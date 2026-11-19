@@ -36,17 +36,7 @@ Multi-tier framework for evaluating AI agent skills and plugins with quality gat
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[alibaba-open-code-review]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[jingyaogong-minimind]] [[mjmirza-app-store-compliance]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
-
-
-## ⚠️ 描述变更（2026-11-17）
-
-该项目描述近期发生过重大变化，可能存在定位调整：
-
-- **旧描述**: Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
-- **新描述**: Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
-
-> 此标记由 P1 Contradiction Detection 自动生成，需人工审核。
 

@@ -34,7 +34,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[astral-sh-uv]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[martin-olivier-airgorah]]
+[[zhouxiaoka-autoclip]] [[vercel-labs-agent-browser]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[martin-olivier-airgorah]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

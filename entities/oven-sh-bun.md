@@ -38,5 +38,5 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
 
 ## 相关项目
 
-[[block-buzz]] [[astral-sh-uv]] [[martin-olivier-airgorah]] [[vercel-labs-agent-browser]]
+[[martin-olivier-airgorah]] [[astral-sh-uv]] [[vercel-labs-agent-browser]] [[block-buzz]]
 

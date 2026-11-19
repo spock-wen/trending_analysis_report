@@ -38,7 +38,7 @@ Lightning-Fast, On-Device, Multilingual TTS running natively via ONNX.
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[microsoft-vibevoice]] [[xtool-org-xtool]] [[anomalyco-hex]] [[manaflow-ai-cmux]]
+[[microsoft-vibevoice]] [[anomalyco-hex]] [[xtool-org-xtool]] [[manaflow-ai-cmux]] [[scenario-labs-skills]]
 
 **所属领域**: [[audio]]
 

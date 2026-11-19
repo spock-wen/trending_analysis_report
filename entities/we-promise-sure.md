@@ -38,5 +38,5 @@ The personal finance app for everyone (by everyone)
 
 ## 相关项目
 
-[[docusealco-docuseal]] [[chatwoot-chatwoot]] [[rails-rails]]
+[[chatwoot-chatwoot]] [[rails-rails]] [[docusealco-docuseal]]
 

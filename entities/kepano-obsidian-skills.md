@@ -35,7 +35,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[ggml-org-ggml]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[michaelcade-90daysofdevops]]
+[[zhouxiaoka-autoclip]] [[thu-maic-openmaic]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[ggml-org-ggml]] [[mvanhorn-last30days-skill]]
+[[thu-maic-openmaic]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[tracer-cloud-opensre]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

@@ -34,7 +34,7 @@ A free, open source, and extensible speech-to-text application that works comple
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[astral-sh-uv]] [[microsoft-vibevoice]] [[mvanhorn-last30days-skill]]
+[[microsoft-vibevoice]] [[vercel-labs-agent-browser]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[anomalyco-hex]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

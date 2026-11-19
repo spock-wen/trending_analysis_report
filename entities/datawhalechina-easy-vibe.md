@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[affaan-m-ecc]] [[ggml-org-ggml]] [[alibaba-open-code-review]] [[michaelcade-90daysofdevops]]
+[[thu-maic-openmaic]] [[affaan-m-ecc]] [[nvidia-skillevaluator]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[data]] [[education]]
 

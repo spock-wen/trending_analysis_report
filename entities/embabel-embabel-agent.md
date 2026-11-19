@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[mahlernim-google-timeline-visualizer]] [[obra-superpowers]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[mahlernim-google-timeline-visualizer]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

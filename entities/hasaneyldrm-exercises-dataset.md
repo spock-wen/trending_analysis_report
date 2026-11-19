@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[averygan-reclip]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[alibaba-open-code-review]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]] [[alchaincyf-huashu-design]] [[sveltejs-svelte]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

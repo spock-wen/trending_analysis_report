@@ -38,7 +38,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[openai-codex-security]] [[martin-olivier-airgorah]] [[google-research-paper-orchestra]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[google-research-paper-orchestra]] [[mjmirza-app-store-compliance]] [[sveltejs-svelte]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

@@ -34,7 +34,7 @@ language: "C"
 
 ## 相关项目
 
-[[openssl-openssl]] [[fareedkhan-dev-kimi-k3-in-c]] [[hkuds-cli-anything]] [[lz4-lz4]] [[obra-superpowers]]
+[[openssl-openssl]] [[lz4-lz4]] [[obra-superpowers]] [[zhouxiaoka-autoclip]] [[hkuds-cli-anything]]
 
 **所属领域**: [[cli]]
 

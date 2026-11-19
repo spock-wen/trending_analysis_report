@@ -37,7 +37,7 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[android-skills]] [[hkuds-cli-anything]] [[mahlernim-google-timeline-visualizer]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[embabel-embabel-agent]] [[mahlernim-google-timeline-visualizer]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

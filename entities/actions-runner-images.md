@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[zhaoxuya520-reverse-skill]] [[nvidia-auto-ontology]] [[hkuds-cli-anything]] [[conardli-garden-skills]] [[likely7-veyra-nrvideo]]
+[[zhouxiaoka-autoclip]] [[obra-superpowers]] [[raphire-win11debloat]] [[nvidia-auto-ontology]] [[hkuds-cli-anything]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

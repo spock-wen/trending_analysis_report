@@ -37,7 +37,7 @@ AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applicati
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[n8n-io-n8n]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[sveltejs-svelte]] [[mvanhorn-last30days-skill]] [[cursor-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

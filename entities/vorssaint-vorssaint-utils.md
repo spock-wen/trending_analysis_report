@@ -34,7 +34,7 @@ Free and open-source macOS menu bar toolkit.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[xtool-org-xtool]] [[obra-superpowers]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[xtool-org-xtool]] [[mvanhorn-last30days-skill]] [[abue-ammar-tinycast]]
 
 **所属领域**: [[ai-agent]]
 

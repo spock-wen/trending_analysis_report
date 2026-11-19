@@ -34,7 +34,7 @@ An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that 
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[elementalsouls-claude-bughunter]] [[swoole-typephp]] [[alibaba-open-code-review]] [[hkuds-cli-anything]]
+[[zhouxiaoka-autoclip]] [[obra-superpowers]] [[symfony-symfony]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[cli]] [[data]] [[devops]] [[image-gen]]
 

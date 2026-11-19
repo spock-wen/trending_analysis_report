@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[openai-codex-security]]
+[[affaan-m-ecc]] [[mjmirza-app-store-compliance]] [[jingyaogong-minimind]] [[martin-olivier-airgorah]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[security]]
 

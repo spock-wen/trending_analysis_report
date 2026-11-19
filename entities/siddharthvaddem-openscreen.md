@@ -37,5 +37,5 @@ Create stunning demos for free. Open-source, no subscriptions, no watermarks, an
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[cursor-plugins]] [[google-labs-code-stitch-skills]] [[n8n-io-n8n]]
+[[cursor-plugins]] [[toeverything-affine]] [[firecrawl-firecrawl]] [[google-labs-code-stitch-skills]]
 

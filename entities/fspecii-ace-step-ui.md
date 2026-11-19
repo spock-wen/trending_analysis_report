@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[affaan-m-ecc]] [[microsoft-vibevoice]] [[mvanhorn-last30days-skill]] [[nvidia-auto-ontology]]
+[[affaan-m-ecc]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[nvidia-skillevaluator]] [[microsoft-vibevoice]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

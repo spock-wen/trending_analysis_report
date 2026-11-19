@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[averygan-reclip]] [[ggml-org-ggml]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[michaelcade-90daysofdevops]]
+[[thu-maic-openmaic]] [[alchaincyf-huashu-design]] [[sveltejs-svelte]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[education]]
 

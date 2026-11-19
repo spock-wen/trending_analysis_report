@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[ggml-org-ggml]] [[microsoft-vibevoice]]
+[[thu-maic-openmaic]] [[microsoft-vibevoice]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[anomalyco-hex]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

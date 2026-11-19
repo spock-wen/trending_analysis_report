@@ -36,5 +36,5 @@ A context-compression plugin for month-long single sessions (billions of tokens)
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[cursor-plugins]] [[google-labs-code-stitch-skills]] [[n8n-io-n8n]]
+[[cursor-plugins]] [[toeverything-affine]] [[firecrawl-firecrawl]] [[google-labs-code-stitch-skills]]
 

@@ -35,7 +35,7 @@ Deliver web apps with confidence 🚀
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[ag-ui-protocol-ag-ui]] [[n8n-io-n8n]]
+[[firecrawl-firecrawl]] [[sveltejs-svelte]] [[mvanhorn-last30days-skill]] [[cursor-plugins]] [[toeverything-affine]]
 
 **所属领域**: [[web]]
 

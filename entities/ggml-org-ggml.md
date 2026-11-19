@@ -34,7 +34,7 @@ Tensor library for machine learning
 
 ## 相关项目
 
-[[openvinotoolkit-openvino]] [[likely7-veyra-nrvideo]] [[michaelcade-90daysofdevops]] [[ggml-org-llama.cpp]] [[thu-maic-openmaic]]
+[[thu-maic-openmaic]] [[openvinotoolkit-openvino]] [[ggml-org-llama.cpp]] [[patchy631-ai-engineering-hub]] [[likely7-veyra-nrvideo]]
 
 **所属领域**: [[education]]
 

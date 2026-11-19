@@ -38,7 +38,7 @@ Browser automation CLI for AI agents
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[astral-sh-uv]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[martin-olivier-airgorah]]
+[[zhouxiaoka-autoclip]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[sveltejs-svelte]] [[martin-olivier-airgorah]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

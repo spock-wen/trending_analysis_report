@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[affaan-m-ecc]] [[astral-sh-uv]] [[mvanhorn-last30days-skill]] [[alibaba-open-code-review]]
+[[zhouxiaoka-autoclip]] [[vercel-labs-agent-browser]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

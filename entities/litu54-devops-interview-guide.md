@@ -34,7 +34,7 @@ DevOps Interview Guide
 
 ## 相关项目
 
-[[elementalsouls-claude-bughunter]] [[louislam-uptime-kuma]] [[anthropics-claude-quickstarts]] [[openvinotoolkit-openvino]]
+[[openvinotoolkit-openvino]] [[firecrawl-firecrawl]] [[elementalsouls-claude-bughunter]] [[tracer-cloud-opensre]]
 
 **所属领域**: [[devops]]
 

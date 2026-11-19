@@ -34,7 +34,7 @@ AI that sees your screen, listens to your conversations and tells you what to do
 
 ## 相关项目
 
-[[localsend-localsend]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[flutter-skills]]
+[[obra-superpowers]] [[flutter-skills]] [[firecrawl-firecrawl]] [[localsend-localsend]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

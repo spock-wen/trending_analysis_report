@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[elementalsouls-claude-bughunter]] [[microsoft-vibevoice]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[microsoft-vibevoice]] [[obra-superpowers]] [[anomalyco-hex]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[cli]] [[audio]]
 

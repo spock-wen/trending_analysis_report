@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[openssl-openssl]] [[fareedkhan-dev-kimi-k3-in-c]] [[lz4-lz4]] [[mpv-player-mpv]]
+[[openssl-openssl]] [[lz4-lz4]] [[affaan-m-ecc]] [[mjmirza-app-store-compliance]] [[martin-olivier-airgorah]]
 
 **所属领域**: [[security]]
 

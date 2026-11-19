@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[elementalsouls-claude-bughunter]] [[mvanhorn-last30days-skill]] [[nvidia-auto-ontology]] [[hkuds-cli-anything]] [[conardli-garden-skills]]
+[[jingyaogong-minimind]] [[sveltejs-svelte]] [[mvanhorn-last30days-skill]] [[nvidia-auto-ontology]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[image-gen]]
 

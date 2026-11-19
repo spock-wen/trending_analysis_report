@@ -34,5 +34,5 @@ OpenToonz - An open-source full-featured 2D animation creation software
 
 ## 相关项目
 
-[[ggml-org-llama.cpp]] [[likely7-veyra-nrvideo]] [[ggml-org-ggml]] [[openvinotoolkit-openvino]]
+[[openvinotoolkit-openvino]] [[ggml-org-llama.cpp]] [[ggml-org-ggml]] [[likely7-veyra-nrvideo]]
 

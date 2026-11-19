@@ -1,7 +1,7 @@
 ---
 title: "devops"
 created: 2026-06-27
-updated: 2026-11-19
+updated: 2026-11-20
 type: concept
 tags: [devops]
 confidence: medium
@@ -9,15 +9,15 @@ confidence: medium
 
 # devops
 
-## 领域项目（共 45 个，今日上榜 2 个）
+## 领域项目（共 47 个，今日上榜 4 个）
 
-[[elementalsouls-claude-bughunter]] [[openvinotoolkit-openvino]] [[louislam-uptime-kuma]] [[anthropics-claude-quickstarts]] [[ruvnet-ruview]] [[prometheus-prometheus]] [[usagi-org-ai-goofish-monitor]] [[michaelcade-90daysofdevops]] [[bregman-arie-devops-exercises]] [[coollabsio-coolify]] [[ruvnet-ruflo]] [[xtool-org-xtool]] [[getsentry-sentry]] [[oblien-openship]] [[nvidia-model-optimizer]] [[davila7-claude-code-templates]] [[cilium-cilium]] [[peetzweg-opendisplay]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[tencent-ai-infra-guard]] [[semantica-agi-semantica]] [[litu54-devops-interview-guide]] [[uber-adr]] [[ansible-ansible]] [[apache-cassandra]] [[koala73-worldmonitor]] [[hashicorp-terraform]] [[argoproj-argo-cd]] [[safishamsi-graphify]] [[langflow-ai-langflow]] [[logto-io-logto]] [[google-agents-cli]] [[grafana-grafana]] [[bytedance-ui-tars-desktop]] [[danielmiessler-personal_ai_infrastructure]] [[nvidia-cosmos]] [[nirdiamant-agents-towards-production]] [[simstudioai-sim]] [[open-metadata-openmetadata]] [[langfuse-langfuse]] [[sansan0-trendradar]] [[microsoft-agent-framework]] [[google-ai-edge-litert]] [[promptfoo-promptfoo]]
+[[firecrawl-firecrawl]] [[tracer-cloud-opensre]] [[elementalsouls-claude-bughunter]] [[openvinotoolkit-openvino]] [[louislam-uptime-kuma]] [[anthropics-claude-quickstarts]] [[ruvnet-ruview]] [[prometheus-prometheus]] [[usagi-org-ai-goofish-monitor]] [[michaelcade-90daysofdevops]] [[bregman-arie-devops-exercises]] [[coollabsio-coolify]] [[ruvnet-ruflo]] [[xtool-org-xtool]] [[getsentry-sentry]] [[oblien-openship]] [[nvidia-model-optimizer]] [[davila7-claude-code-templates]] [[cilium-cilium]] [[peetzweg-opendisplay]] [[posthog-posthog]] [[ripienaar-free-for-dev]] [[tencent-ai-infra-guard]] [[semantica-agi-semantica]] [[litu54-devops-interview-guide]] [[uber-adr]] [[ansible-ansible]] [[apache-cassandra]] [[koala73-worldmonitor]] [[hashicorp-terraform]] [[argoproj-argo-cd]] [[safishamsi-graphify]] [[langflow-ai-langflow]] [[logto-io-logto]] [[google-agents-cli]] [[grafana-grafana]] [[bytedance-ui-tars-desktop]] [[danielmiessler-personal_ai_infrastructure]] [[nvidia-cosmos]] [[nirdiamant-agents-towards-production]] [[simstudioai-sim]] [[open-metadata-openmetadata]] [[langfuse-langfuse]] [[sansan0-trendradar]] [[microsoft-agent-framework]] [[google-ai-edge-litert]] [[promptfoo-promptfoo]]
 
 ## 语言分布
 
-Python 17个, TypeScript 11个, Go 4个, C++ 2个, Swift 2个, Jupyter Notebook 2个, JavaScript 1个, Rust 1个, Shell 1个, PHP 1个, HTML 1个, ? 1个, Java 1个
+Python 18个, TypeScript 12个, Go 4个, C++ 2个, Swift 2个, Jupyter Notebook 2个, JavaScript 1个, Rust 1个, Shell 1个, PHP 1个, HTML 1个, ? 1个, Java 1个
 
 ## 趋势观察
 
-45 个 devops 领域项目被追踪，其中 2 个今日同时上榜，反映该领域持续活跃。
+47 个 devops 领域项目被追踪，其中 4 个今日同时上榜，反映该领域持续活跃。
 

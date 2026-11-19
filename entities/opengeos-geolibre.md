@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[mvanhorn-last30days-skill]] [[alibaba-open-code-review]] [[hkuds-cli-anything]] [[ag-ui-protocol-ag-ui]]
+[[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]] [[sveltejs-svelte]] [[mvanhorn-last30days-skill]] [[cursor-plugins]]
 
 **所属领域**: [[web]] [[data]]
 

@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[elementalsouls-claude-bughunter]] [[anthropics-claude-quickstarts]] [[affaan-m-ecc]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]]
+[[affaan-m-ecc]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]] [[martin-olivier-airgorah]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[devops]] [[security]]
 

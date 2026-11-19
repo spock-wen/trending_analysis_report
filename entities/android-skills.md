@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[mahlernim-google-timeline-visualizer]] [[obra-superpowers]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[embabel-embabel-agent]] [[mahlernim-google-timeline-visualizer]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[localsend-localsend]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[flutter-flutter]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[localsend-localsend]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

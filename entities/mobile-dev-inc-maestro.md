@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[android-skills]] [[hkuds-cli-anything]] [[mahlernim-google-timeline-visualizer]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[embabel-embabel-agent]] [[sveltejs-svelte]] [[mahlernim-google-timeline-visualizer]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

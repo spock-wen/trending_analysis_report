@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[ag-ui-protocol-ag-ui]] [[obra-superpowers]] [[nvm-sh-nvm]]
+[[zhouxiaoka-autoclip]] [[obra-superpowers]] [[sveltejs-svelte]] [[mvanhorn-last30days-skill]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[cli]]
 

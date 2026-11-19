@@ -34,7 +34,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[obra-superpowers]] [[nvm-sh-nvm]] [[elementalsouls-claude-bughunter]] [[mvanhorn-last30days-skill]]
+[[obra-superpowers]] [[conardli-garden-skills]] [[firecrawl-firecrawl]] [[jingyaogong-minimind]] [[tracer-cloud-opensre]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]] [[devops]] [[image-gen]] [[science]]
 

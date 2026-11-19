@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[floci-io-floci]] [[affaan-m-ecc]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
+[[yuliskov-smarttube]] [[zhouxiaoka-autoclip]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

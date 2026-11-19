@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[elementalsouls-claude-bughunter]] [[openvinotoolkit-openvino]] [[n8n-io-n8n]] [[cursor-plugins]]
+[[firecrawl-firecrawl]] [[tracer-cloud-opensre]] [[cursor-plugins]] [[toeverything-affine]] [[openvinotoolkit-openvino]]
 
 **所属领域**: [[devops]]
 

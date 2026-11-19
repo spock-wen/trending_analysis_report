@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[louislam-uptime-kuma]] [[ggml-org-ggml]] [[mvanhorn-last30days-skill]]
+[[thu-maic-openmaic]] [[obra-superpowers]] [[xiaolai-the-craft-of-selfteaching]] [[firecrawl-firecrawl]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[obra-superpowers]] [[sveltejs-svelte]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
+[[ggml-org-llama.cpp]] [[ggml-org-ggml]] [[openvinotoolkit-openvino]] [[likely7-veyra-nrvideo]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

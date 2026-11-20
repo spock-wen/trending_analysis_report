@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[mjmirza-app-store-compliance]] [[jingyaogong-minimind]] [[martin-olivier-airgorah]] [[mvanhorn-last30days-skill]]
+[[toeverything-affine]] [[martin-olivier-airgorah]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[security]]
 

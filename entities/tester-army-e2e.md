@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[sveltejs-svelte]] [[mvanhorn-last30days-skill]] [[cursor-plugins]] [[toeverything-affine]]
+[[toeverything-affine]] [[nvidia-skillevaluator]] [[conardli-garden-skills]] [[likely7-veyra-nrvideo]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[web]] [[image-gen]]
 

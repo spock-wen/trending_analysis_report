@@ -34,7 +34,7 @@ Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, 
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[jingyaogong-minimind]] [[mjmirza-app-store-compliance]] [[mvanhorn-last30days-skill]] [[tracer-cloud-opensre]]
+[[tracer-cloud-opensre]] [[nvidia-skillevaluator]] [[openvinotoolkit-openvino]] [[elementalsouls-claude-bughunter]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[data]] [[devops]]
 

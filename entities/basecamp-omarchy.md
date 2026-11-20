@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[obra-superpowers]] [[mjmirza-app-store-compliance]] [[nvm-sh-nvm]] [[mattpocock-skills]]
+[[mattpocock-skills]] [[nvm-sh-nvm]] [[google-labs-code-stitch-skills]] [[mjmirza-app-store-compliance]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[cli]]
 

@@ -37,7 +37,7 @@ No description
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[openvinotoolkit-openvino]] [[hkuds-cli-anything]]
+[[ggml-org-llama.cpp]] [[ggml-org-ggml]] [[openvinotoolkit-openvino]] [[likely7-veyra-nrvideo]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

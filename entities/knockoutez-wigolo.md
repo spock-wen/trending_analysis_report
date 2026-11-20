@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[google-research-paper-orchestra]] [[sveltejs-svelte]]
+[[paperclipai-paperclip]] [[toeverything-affine]] [[affaan-m-ecc]] [[google-labs-code-stitch-skills]] [[cursor-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[google-research-paper-orchestra]] [[jingyaogong-minimind]]
+[[paperclipai-paperclip]] [[nvidia-skillevaluator]] [[conardli-garden-skills]] [[affaan-m-ecc]] [[likely7-veyra-nrvideo]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

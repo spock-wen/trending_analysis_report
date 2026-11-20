@@ -34,7 +34,7 @@ Persistent file-based planning for AI coding agents and long-running agentic tas
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
+[[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[zhouxiaoka-autoclip]] [[jingyaogong-minimind]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

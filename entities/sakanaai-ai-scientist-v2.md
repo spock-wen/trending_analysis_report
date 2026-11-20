@@ -35,7 +35,7 @@ The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[agricidaniel-claude-seo]] [[jingyaogong-minimind]]
+[[paperclipai-paperclip]] [[affaan-m-ecc]] [[elementalsouls-claude-bughunter]] [[mvanhorn-last30days-skill]] [[php-php-src]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

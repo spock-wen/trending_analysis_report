@@ -34,7 +34,7 @@ This repository started out as a learning in public project for myself and has n
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[thu-maic-openmaic]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]]
+[[mattpocock-skills]] [[tracer-cloud-opensre]] [[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]] [[ggml-org-ggml]]
 
 **所属领域**: [[cli]] [[devops]] [[education]]
 

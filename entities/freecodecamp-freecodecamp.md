@@ -38,7 +38,7 @@ freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[toeverything-affine]] [[patchy631-ai-engineering-hub]]
+[[toeverything-affine]] [[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]] [[ggml-org-ggml]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[education]]
 

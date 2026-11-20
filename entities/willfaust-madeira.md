@@ -35,7 +35,7 @@ Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
 
 ## 相关项目
 
-[[openssl-openssl]] [[lz4-lz4]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]]
+[[openssl-openssl]] [[mpv-player-mpv]] [[nginx-nginx]] [[mvanhorn-last30days-skill]] [[lz4-lz4]]
 
 **所属领域**: [[ai-agent]]
 

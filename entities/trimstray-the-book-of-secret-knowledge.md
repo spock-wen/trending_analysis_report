@@ -35,7 +35,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[obra-superpowers]] [[sveltejs-svelte]] [[mvanhorn-last30days-skill]] [[cathrynlavery-diagram-design]]
+[[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[sveltejs-svelte]] [[cathrynlavery-diagram-design]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[web]] [[cli]]
 

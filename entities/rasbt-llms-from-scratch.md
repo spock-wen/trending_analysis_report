@@ -36,7 +36,7 @@ Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
 ## 相关项目
 
-[[obra-superpowers]] [[xiaolai-the-craft-of-selfteaching]] [[firecrawl-firecrawl]] [[higgsfield-ai-higgsfield]] [[mvanhorn-last30days-skill]]
+[[higgsfield-ai-higgsfield]] [[lyogavin-airllm]] [[xiaolai-the-craft-of-selfteaching]] [[patchy631-ai-engineering-hub]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ Socket-based TS/JavaScript API for WhatsApp Web
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[sveltejs-svelte]] [[mvanhorn-last30days-skill]]
+[[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

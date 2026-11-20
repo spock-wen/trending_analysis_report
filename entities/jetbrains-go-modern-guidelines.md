@@ -36,7 +36,7 @@ Help AI coding agents write modern Go
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[juliusbrussee-caveman]] [[getarcaneapp-arcane]]
+[[getarcaneapp-arcane]] [[hkuds-cli-anything]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[tencent-loopforge]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[vercel-labs-agent-browser]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]]
+[[martin-olivier-airgorah]] [[astral-sh-uv]] [[nvidia-skillevaluator]] [[block-buzz]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

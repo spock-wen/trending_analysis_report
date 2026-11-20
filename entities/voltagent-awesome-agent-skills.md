@@ -35,7 +35,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[zhouxiaoka-autoclip]] [[obra-superpowers]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

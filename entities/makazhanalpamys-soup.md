@@ -34,7 +34,7 @@ Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB lapto
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[mvanhorn-last30days-skill]] [[zhouxiaoka-autoclip]] [[jingyaogong-minimind]] [[obra-superpowers]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]]
 

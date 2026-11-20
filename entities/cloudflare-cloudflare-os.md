@@ -35,7 +35,7 @@ Agent workspace built on Cloudflare Workers for creating documents, building app
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[cursor-plugins]] [[toeverything-affine]]
+[[toeverything-affine]] [[google-labs-code-stitch-skills]] [[cursor-plugins]] [[mvanhorn-last30days-skill]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

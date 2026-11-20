@@ -38,7 +38,7 @@ Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]] [[mvanhorn-last30days-skill]]
+[[getarcaneapp-arcane]] [[nvidia-skillevaluator]] [[juliusbrussee-caveman]] [[mvanhorn-last30days-skill]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

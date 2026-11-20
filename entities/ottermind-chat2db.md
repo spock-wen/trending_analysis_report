@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[yuliskov-smarttube]] [[zhouxiaoka-autoclip]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]]
+[[yuliskov-smarttube]] [[nvidia-skillevaluator]] [[google-labs-code-stitch-skills]] [[nationalsecurityagency-ghidra]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

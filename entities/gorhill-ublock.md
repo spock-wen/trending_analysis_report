@@ -34,5 +34,5 @@ uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[deanchensj-jiangshan-map]] [[jquery-jquery]] [[sveltejs-svelte]]
+[[deanchensj-jiangshan-map]] [[affaan-m-ecc]] [[sveltejs-svelte]] [[jquery-jquery]]
 

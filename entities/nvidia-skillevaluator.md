@@ -36,7 +36,7 @@ Multi-tier framework for evaluating AI agent skills and plugins with quality gat
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[jingyaogong-minimind]] [[mjmirza-app-store-compliance]] [[mvanhorn-last30days-skill]]
+[[conardli-garden-skills]] [[likely7-veyra-nrvideo]] [[mvanhorn-last30days-skill]] [[mjmirza-app-store-compliance]] [[appwrite-appwrite]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

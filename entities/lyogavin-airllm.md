@@ -38,7 +38,7 @@ AirLLM 2.8T LLM inference with single 4GB GPU
 
 ## 相关项目
 
-[[obra-superpowers]] [[xiaolai-the-craft-of-selfteaching]] [[firecrawl-firecrawl]] [[higgsfield-ai-higgsfield]] [[mvanhorn-last30days-skill]]
+[[higgsfield-ai-higgsfield]] [[xiaolai-the-craft-of-selfteaching]] [[patchy631-ai-engineering-hub]] [[mvanhorn-last30days-skill]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

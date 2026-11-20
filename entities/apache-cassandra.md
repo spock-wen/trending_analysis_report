@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[yuliskov-smarttube]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]] [[tracer-cloud-opensre]] [[openvinotoolkit-openvino]]
+[[tracer-cloud-opensre]] [[yuliskov-smarttube]] [[nvidia-skillevaluator]] [[openvinotoolkit-openvino]] [[elementalsouls-claude-bughunter]]
 
 **所属领域**: [[data]] [[devops]]
 

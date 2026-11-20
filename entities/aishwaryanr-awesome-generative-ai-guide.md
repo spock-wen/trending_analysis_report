@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[google-research-paper-orchestra]] [[alchaincyf-huashu-design]]
+[[paperclipai-paperclip]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

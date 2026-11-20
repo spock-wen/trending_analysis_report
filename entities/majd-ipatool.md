@@ -35,7 +35,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[obra-superpowers]] [[juliusbrussee-caveman]] [[getarcaneapp-arcane]] [[hkuds-cli-anything]]
+[[getarcaneapp-arcane]] [[hkuds-cli-anything]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[cli]]
 

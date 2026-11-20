@@ -35,7 +35,7 @@ Stremio - Freedom to Stream
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[sveltejs-svelte]] [[mvanhorn-last30days-skill]] [[jquery-jquery]] [[hkuds-cli-anything]]
+[[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]]
 

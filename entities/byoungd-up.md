@@ -35,7 +35,7 @@ An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶�
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[sveltejs-svelte]] [[mvanhorn-last30days-skill]]
+[[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[jquery-jquery]]
 
 **所属领域**: [[ai-agent]]
 

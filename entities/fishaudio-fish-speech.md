@@ -37,7 +37,7 @@ SOTA Open Source TTS
 
 ## 相关项目
 
-[[microsoft-vibevoice]] [[anomalyco-hex]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]] [[scenario-labs-skills]]
+[[anomalyco-hex]] [[microsoft-vibevoice]] [[mvanhorn-last30days-skill]] [[zhouxiaoka-autoclip]] [[jingyaogong-minimind]]
 
 **所属领域**: [[audio]]
 

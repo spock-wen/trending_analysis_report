@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[embabel-embabel-agent]] [[sveltejs-svelte]] [[mahlernim-google-timeline-visualizer]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]] [[mvanhorn-last30days-skill]] [[sveltejs-svelte]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]]
 

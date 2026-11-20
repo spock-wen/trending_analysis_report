@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[patchy631-ai-engineering-hub]]
+[[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]] [[ggml-org-ggml]] [[michaelcade-90daysofdevops]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[education]]
 

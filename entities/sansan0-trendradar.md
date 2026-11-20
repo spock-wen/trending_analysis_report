@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]] [[tracer-cloud-opensre]]
+[[tracer-cloud-opensre]] [[openvinotoolkit-openvino]] [[elementalsouls-claude-bughunter]] [[mvanhorn-last30days-skill]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

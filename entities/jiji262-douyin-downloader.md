@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[jingyaogong-minimind]] [[sveltejs-svelte]] [[mjmirza-app-store-compliance]] [[mvanhorn-last30days-skill]]
+[[nvidia-skillevaluator]] [[mvanhorn-last30days-skill]] [[mjmirza-app-store-compliance]] [[appwrite-appwrite]] [[sveltejs-svelte]]
 
 **所属领域**: [[web]] [[data]]
 

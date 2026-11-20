@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]] [[mvanhorn-last30days-skill]] [[tracer-cloud-opensre]]
+[[tracer-cloud-opensre]] [[toeverything-affine]] [[nvidia-skillevaluator]] [[openvinotoolkit-openvino]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

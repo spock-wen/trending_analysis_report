@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[thu-maic-openmaic]] [[vercel-labs-agent-browser]] [[obra-superpowers]] [[microsoft-vibevoice]]
+[[martin-olivier-airgorah]] [[astral-sh-uv]] [[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

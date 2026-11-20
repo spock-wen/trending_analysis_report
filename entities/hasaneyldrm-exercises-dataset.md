@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]] [[alchaincyf-huashu-design]] [[sveltejs-svelte]]
+[[nvidia-skillevaluator]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[mvanhorn-last30days-skill]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

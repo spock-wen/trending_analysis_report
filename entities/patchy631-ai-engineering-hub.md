@@ -34,7 +34,7 @@ In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[obra-superpowers]] [[xiaolai-the-craft-of-selfteaching]] [[firecrawl-firecrawl]] [[higgsfield-ai-higgsfield]]
+[[higgsfield-ai-higgsfield]] [[lyogavin-airllm]] [[xiaolai-the-craft-of-selfteaching]] [[thu-maic-openmaic]] [[ggml-org-ggml]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

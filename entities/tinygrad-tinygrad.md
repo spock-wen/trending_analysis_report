@@ -34,5 +34,5 @@ You like pytorch? You like micrograd? You love tinygrad! ❤️
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[mvanhorn-last30days-skill]] [[jingyaogong-minimind]] [[zhouxiaoka-autoclip]]
+[[jingyaogong-minimind]] [[mvanhorn-last30days-skill]] [[zhouxiaoka-autoclip]] [[hkuds-cli-anything]]
 

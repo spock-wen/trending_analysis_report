@@ -35,7 +35,7 @@ The Prometheus monitoring system and time series database.
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]] [[juliusbrussee-caveman]] [[getarcaneapp-arcane]]
+[[getarcaneapp-arcane]] [[tracer-cloud-opensre]] [[nvidia-skillevaluator]] [[openvinotoolkit-openvino]] [[alibaba-open-code-review]]
 
 **所属领域**: [[data]] [[devops]]
 

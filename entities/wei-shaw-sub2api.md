@@ -34,7 +34,7 @@ Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[juliusbrussee-caveman]] [[getarcaneapp-arcane]]
+[[getarcaneapp-arcane]] [[hkuds-cli-anything]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[tencent-loopforge]]
 
 **所属领域**: [[ai-agent]]
 

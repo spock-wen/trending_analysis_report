@@ -38,7 +38,7 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[sveltejs-svelte]] [[mvanhorn-last30days-skill]]
+[[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

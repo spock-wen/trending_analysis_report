@@ -37,7 +37,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[sveltejs-svelte]] [[mvanhorn-last30days-skill]]
+[[toeverything-affine]] [[google-labs-code-stitch-skills]] [[cursor-plugins]] [[mvanhorn-last30days-skill]] [[sveltejs-svelte]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -37,7 +37,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[nvidia-skillevaluator]] [[sveltejs-svelte]]
+[[nvidia-skillevaluator]] [[conardli-garden-skills]] [[affaan-m-ecc]] [[likely7-veyra-nrvideo]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

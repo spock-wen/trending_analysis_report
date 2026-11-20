@@ -35,5 +35,5 @@ Experimental menu for GTA 5: Enhanced
 
 ## 相关项目
 
-[[openvinotoolkit-openvino]] [[ggml-org-llama.cpp]] [[ggml-org-ggml]] [[likely7-veyra-nrvideo]]
+[[ggml-org-ggml]] [[openvinotoolkit-openvino]] [[likely7-veyra-nrvideo]] [[ggml-org-llama.cpp]]
 

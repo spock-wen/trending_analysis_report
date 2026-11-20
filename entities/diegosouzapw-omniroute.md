@@ -38,7 +38,7 @@ Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[cursor-plugins]]
+[[toeverything-affine]] [[google-labs-code-stitch-skills]] [[cursor-plugins]] [[mvanhorn-last30days-skill]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

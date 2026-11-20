@@ -35,7 +35,7 @@ MOSS‑TTS Family is an open‑source speech and sound generation model family f
 
 ## 相关项目
 
-[[microsoft-vibevoice]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[anomalyco-hex]] [[jingyaogong-minimind]]
+[[alishahryar1-free-claude-code]] [[nvidia-skillevaluator]] [[anomalyco-hex]] [[conardli-garden-skills]] [[likely7-veyra-nrvideo]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

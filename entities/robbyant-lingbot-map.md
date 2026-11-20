@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[firecrawl-firecrawl]] [[google-research-paper-orchestra]] [[jingyaogong-minimind]] [[mjmirza-app-store-compliance]]
+[[paperclipai-paperclip]] [[nvidia-skillevaluator]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[data]] [[science]]
 

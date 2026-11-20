@@ -38,7 +38,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]]
+[[mvanhorn-last30days-skill]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

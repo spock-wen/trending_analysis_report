@@ -34,5 +34,5 @@ jQuery JavaScript Library
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[deanchensj-jiangshan-map]] [[sveltejs-svelte]]
+[[deanchensj-jiangshan-map]] [[affaan-m-ecc]] [[sveltejs-svelte]]
 

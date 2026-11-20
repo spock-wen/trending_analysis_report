@@ -38,7 +38,7 @@ An advanced guide to learn English which might benefit you a lot 🎉 . 人生�
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[michaelcade-90daysofdevops]] [[ggml-org-ggml]] [[patchy631-ai-engineering-hub]]
+[[ggml-org-ggml]] [[thu-maic-openmaic]] [[michaelcade-90daysofdevops]] [[patchy631-ai-engineering-hub]]
 
 **所属领域**: [[education]]
 

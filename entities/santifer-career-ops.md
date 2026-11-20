@@ -38,7 +38,7 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[affaan-m-ecc]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[sveltejs-svelte]]
+[[affaan-m-ecc]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[deanchensj-jiangshan-map]] [[sveltejs-svelte]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

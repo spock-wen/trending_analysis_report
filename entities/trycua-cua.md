@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]] [[martin-olivier-airgorah]]
+[[martin-olivier-airgorah]] [[astral-sh-uv]] [[nvidia-skillevaluator]] [[conardli-garden-skills]] [[likely7-veyra-nrvideo]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

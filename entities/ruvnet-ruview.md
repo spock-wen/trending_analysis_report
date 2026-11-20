@@ -38,7 +38,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[firecrawl-firecrawl]] [[martin-olivier-airgorah]] [[block-buzz]] [[tracer-cloud-opensre]]
+[[tracer-cloud-opensre]] [[martin-olivier-airgorah]] [[astral-sh-uv]] [[openvinotoolkit-openvino]] [[elementalsouls-claude-bughunter]]
 
 **所属领域**: [[devops]]
 

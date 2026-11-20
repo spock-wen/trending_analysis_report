@@ -37,7 +37,7 @@ Open source inference server that runs the best local models for your hardware, 
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[cursor-plugins]]
+[[toeverything-affine]] [[google-labs-code-stitch-skills]] [[cursor-plugins]] [[mvanhorn-last30days-skill]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

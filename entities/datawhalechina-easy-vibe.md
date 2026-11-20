@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[affaan-m-ecc]] [[nvidia-skillevaluator]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]]
+[[thu-maic-openmaic]] [[nvidia-skillevaluator]] [[patchy631-ai-engineering-hub]] [[ggml-org-ggml]] [[affaan-m-ecc]]
 
 **所属领域**: [[data]] [[education]]
 

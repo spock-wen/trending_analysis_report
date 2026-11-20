@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[vercel-labs-agent-browser]] [[obra-superpowers]] [[martin-olivier-airgorah]] [[block-buzz]]
+[[martin-olivier-airgorah]] [[astral-sh-uv]] [[block-buzz]] [[google-labs-code-stitch-skills]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[cli]]
 

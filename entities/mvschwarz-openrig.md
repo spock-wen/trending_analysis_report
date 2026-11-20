@@ -38,7 +38,7 @@ Build your own network of agents from Claude Code, Codex and Pi: persistent team
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[cursor-plugins]] [[toeverything-affine]]
+[[toeverything-affine]] [[google-labs-code-stitch-skills]] [[cursor-plugins]] [[mvanhorn-last30days-skill]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

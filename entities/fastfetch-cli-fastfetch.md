@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[openssl-openssl]] [[lz4-lz4]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[zhouxiaoka-autoclip]]
+[[openssl-openssl]] [[mpv-player-mpv]] [[nginx-nginx]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[raphire-win11debloat]] [[mvanhorn-last30days-skill]]
+[[actions-runner-images]] [[zhaoxuya520-reverse-skill]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[raphire-win11debloat]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

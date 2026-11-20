@@ -34,7 +34,7 @@ GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL throug
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]] [[mjmirza-app-store-compliance]]
+[[nvidia-skillevaluator]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[mjmirza-app-store-compliance]] [[appwrite-appwrite]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

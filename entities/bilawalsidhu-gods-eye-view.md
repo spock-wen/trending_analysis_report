@@ -38,7 +38,7 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[nvidia-skillevaluator]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]] [[sveltejs-svelte]]
+[[nvidia-skillevaluator]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[deanchensj-jiangshan-map]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[web]] [[data]]
 

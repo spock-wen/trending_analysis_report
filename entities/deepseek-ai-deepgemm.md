@@ -35,7 +35,7 @@ DeepGEMM: clean and efficient BLAS kernel library on GPU
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[moonshotai-flashkda]] [[hkuds-cli-anything]]
+[[deepseek-ai-deepep]] [[moonshotai-flashkda]] [[mvanhorn-last30days-skill]] [[obra-superpowers]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]]
 

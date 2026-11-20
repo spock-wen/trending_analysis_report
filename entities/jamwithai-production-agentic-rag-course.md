@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]]
+[[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]] [[ggml-org-ggml]] [[michaelcade-90daysofdevops]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

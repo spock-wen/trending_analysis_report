@@ -35,5 +35,5 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[jquery-jquery]] [[sveltejs-svelte]]
+[[affaan-m-ecc]] [[sveltejs-svelte]] [[jquery-jquery]]
 

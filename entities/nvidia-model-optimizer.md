@@ -36,7 +36,7 @@ A unified library of SOTA model optimization techniques like quantization, disti
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]]
+[[tracer-cloud-opensre]] [[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]] [[ggml-org-ggml]] [[openvinotoolkit-openvino]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

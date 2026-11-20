@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[alchaincyf-huashu-design]] [[sveltejs-svelte]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]] [[ggml-org-ggml]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[web]] [[education]]
 

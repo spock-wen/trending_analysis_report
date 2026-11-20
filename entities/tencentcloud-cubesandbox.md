@@ -37,7 +37,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[martin-olivier-airgorah]] [[mvanhorn-last30days-skill]]
+[[martin-olivier-airgorah]] [[astral-sh-uv]] [[block-buzz]] [[mvanhorn-last30days-skill]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]]
 

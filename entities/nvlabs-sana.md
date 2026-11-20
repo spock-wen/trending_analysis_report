@@ -34,7 +34,7 @@ SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 ## 相关项目
 
-[[jingyaogong-minimind]] [[mvanhorn-last30days-skill]] [[nvidia-auto-ontology]] [[hkuds-cli-anything]] [[likely7-veyra-nrvideo]]
+[[nvidia-skillevaluator]] [[conardli-garden-skills]] [[likely7-veyra-nrvideo]] [[mvanhorn-last30days-skill]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[image-gen]]
 

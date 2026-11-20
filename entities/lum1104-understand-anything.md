@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[thu-maic-openmaic]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]]
+[[toeverything-affine]] [[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]] [[ggml-org-ggml]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

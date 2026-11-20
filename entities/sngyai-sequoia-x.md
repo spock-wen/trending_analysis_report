@@ -34,7 +34,7 @@ A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运�
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[mvanhorn-last30days-skill]] [[zhouxiaoka-autoclip]] [[jingyaogong-minimind]] [[obra-superpowers]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]]
 

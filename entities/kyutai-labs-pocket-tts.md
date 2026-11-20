@@ -35,7 +35,7 @@ A TTS that fits in your CPU (and pocket)
 
 ## 相关项目
 
-[[microsoft-vibevoice]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[anomalyco-hex]] [[jingyaogong-minimind]]
+[[alishahryar1-free-claude-code]] [[anomalyco-hex]] [[microsoft-vibevoice]] [[mvanhorn-last30days-skill]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

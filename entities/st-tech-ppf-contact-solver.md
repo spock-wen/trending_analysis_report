@@ -34,7 +34,7 @@ A contact solver for physics-based simulations involving 👚 shells, 🪵 solid
 
 ## 相关项目
 
-[[obra-superpowers]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[zhouxiaoka-autoclip]] [[jingyaogong-minimind]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

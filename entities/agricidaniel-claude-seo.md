@@ -34,7 +34,7 @@ Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering tech
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[jingyaogong-minimind]] [[sveltejs-svelte]] [[mjmirza-app-store-compliance]]
+[[nvidia-skillevaluator]] [[elementalsouls-claude-bughunter]] [[mvanhorn-last30days-skill]] [[mjmirza-app-store-compliance]] [[appwrite-appwrite]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[erp]]
 

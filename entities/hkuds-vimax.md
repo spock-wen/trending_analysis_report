@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]] [[nvidia-auto-ontology]]
+[[nvidia-skillevaluator]] [[conardli-garden-skills]] [[likely7-veyra-nrvideo]] [[mvanhorn-last30days-skill]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

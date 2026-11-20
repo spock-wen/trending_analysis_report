@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[vercel-labs-agent-browser]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]]
+[[martin-olivier-airgorah]] [[astral-sh-uv]] [[nvidia-skillevaluator]] [[toeverything-affine]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

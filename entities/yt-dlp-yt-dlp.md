@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[microsoft-vibevoice]] [[obra-superpowers]] [[anomalyco-hex]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]]
+[[alishahryar1-free-claude-code]] [[anomalyco-hex]] [[google-labs-code-stitch-skills]] [[microsoft-vibevoice]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[cli]] [[audio]]
 

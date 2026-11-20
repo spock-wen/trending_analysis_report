@@ -35,7 +35,7 @@ Desktop app to generate 3D models from images or prompt using local AI — runs 
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[cursor-plugins]] [[toeverything-affine]]
+[[toeverything-affine]] [[nvidia-skillevaluator]] [[conardli-garden-skills]] [[likely7-veyra-nrvideo]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

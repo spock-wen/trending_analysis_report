@@ -34,7 +34,7 @@ Vulnerability scanner written in Go which uses the data provided by https://osv.
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]] [[sveltejs-svelte]] [[mvanhorn-last30days-skill]]
+[[getarcaneapp-arcane]] [[nvidia-skillevaluator]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]] [[data]]
 

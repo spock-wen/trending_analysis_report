@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[nvidia-skillevaluator]] [[mjmirza-app-store-compliance]]
+[[nvidia-skillevaluator]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[deanchensj-jiangshan-map]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

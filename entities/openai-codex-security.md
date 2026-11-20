@@ -36,7 +36,7 @@ OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixi
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[affaan-m-ecc]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]]
+[[toeverything-affine]] [[martin-olivier-airgorah]] [[affaan-m-ecc]] [[google-labs-code-stitch-skills]] [[cursor-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]] [[security]]
 

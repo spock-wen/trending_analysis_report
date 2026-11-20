@@ -38,7 +38,7 @@ Give your agent CAD superpowers.
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[agricidaniel-claude-seo]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]]
+[[elementalsouls-claude-bughunter]] [[mvanhorn-last30days-skill]] [[php-php-src]] [[agricidaniel-claude-seo]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

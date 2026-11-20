@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[embabel-embabel-agent]] [[mahlernim-google-timeline-visualizer]] [[mvanhorn-last30days-skill]]
+[[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]] [[mvanhorn-last30days-skill]] [[firecrawl-firecrawl]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

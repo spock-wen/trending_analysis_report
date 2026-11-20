@@ -38,7 +38,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ## 相关项目
 
-[[openssl-openssl]] [[lz4-lz4]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]]
+[[openssl-openssl]] [[mpv-player-mpv]] [[nvidia-skillevaluator]] [[nginx-nginx]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

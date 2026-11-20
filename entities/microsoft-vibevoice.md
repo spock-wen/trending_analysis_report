@@ -38,7 +38,7 @@ Open-Source Frontier Voice AI
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[anomalyco-hex]] [[jingyaogong-minimind]] [[mvanhorn-last30days-skill]]
+[[alishahryar1-free-claude-code]] [[anomalyco-hex]] [[mvanhorn-last30days-skill]] [[zhouxiaoka-autoclip]] [[jingyaogong-minimind]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

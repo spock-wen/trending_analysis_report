@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]] [[martin-olivier-airgorah]]
+[[toeverything-affine]] [[martin-olivier-airgorah]] [[affaan-m-ecc]] [[google-labs-code-stitch-skills]] [[cursor-plugins]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

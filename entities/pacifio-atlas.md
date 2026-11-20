@@ -35,7 +35,7 @@ Source control for agents. Use multiple coding agents, track their changes and q
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[martin-olivier-airgorah]] [[mvanhorn-last30days-skill]]
+[[martin-olivier-airgorah]] [[astral-sh-uv]] [[block-buzz]] [[mvanhorn-last30days-skill]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]]
 

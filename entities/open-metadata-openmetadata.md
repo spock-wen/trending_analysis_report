@@ -34,7 +34,7 @@ OpenMetadata is a unified metadata platform for data discovery, data observabili
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]] [[tracer-cloud-opensre]] [[cursor-plugins]] [[toeverything-affine]]
+[[tracer-cloud-opensre]] [[toeverything-affine]] [[nvidia-skillevaluator]] [[openvinotoolkit-openvino]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[data]] [[devops]]
 

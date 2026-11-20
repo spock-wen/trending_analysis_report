@@ -35,7 +35,7 @@ Local voice dictation for mac, windows and linux
 
 ## 相关项目
 
-[[microsoft-vibevoice]] [[vercel-labs-agent-browser]] [[martin-olivier-airgorah]] [[block-buzz]] [[scenario-labs-skills]]
+[[martin-olivier-airgorah]] [[astral-sh-uv]] [[block-buzz]] [[microsoft-vibevoice]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[audio]]
 

@@ -35,5 +35,5 @@ Staging repo for development of native port of TypeScript
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[tencent-loopforge]] [[juliusbrussee-caveman]] [[getarcaneapp-arcane]]
+[[getarcaneapp-arcane]] [[alibaba-open-code-review]] [[tencent-loopforge]] [[juliusbrussee-caveman]]
 

@@ -38,5 +38,5 @@ Hunt down social media accounts by username across social networks
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[mvanhorn-last30days-skill]] [[jingyaogong-minimind]] [[zhouxiaoka-autoclip]]
+[[jingyaogong-minimind]] [[mvanhorn-last30days-skill]] [[zhouxiaoka-autoclip]] [[hkuds-cli-anything]]
 

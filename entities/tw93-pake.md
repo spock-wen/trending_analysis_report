@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[vercel-labs-agent-browser]] [[obra-superpowers]] [[sveltejs-svelte]] [[martin-olivier-airgorah]]
+[[martin-olivier-airgorah]] [[astral-sh-uv]] [[block-buzz]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]] [[cli]]
 

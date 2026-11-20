@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[microsoft-vibevoice]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[anomalyco-hex]] [[jingyaogong-minimind]]
+[[alishahryar1-free-claude-code]] [[nvidia-skillevaluator]] [[anomalyco-hex]] [[conardli-garden-skills]] [[likely7-veyra-nrvideo]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

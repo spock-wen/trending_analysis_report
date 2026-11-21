@@ -36,7 +36,7 @@ The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, an
 
 ## 相关项目
 
-[[toeverything-affine]] [[google-labs-code-stitch-skills]] [[cursor-plugins]] [[mvanhorn-last30days-skill]] [[sveltejs-svelte]]
+[[obra-superpowers]] [[cathrynlavery-diagram-design]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -34,7 +34,7 @@ A free, open source, and extensible speech-to-text application that works comple
 
 ## 相关项目
 
-[[martin-olivier-airgorah]] [[astral-sh-uv]] [[alishahryar1-free-claude-code]] [[anomalyco-hex]] [[block-buzz]]
+[[astral-sh-uv]] [[vercel-labs-agent-browser]] [[obra-superpowers]] [[alishahryar1-free-claude-code]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

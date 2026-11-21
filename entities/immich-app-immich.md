@@ -38,5 +38,5 @@ High performance self-hosted photo and video management solution.
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[toeverything-affine]]
+[[firecrawl-firecrawl]] [[cursor-plugins]] [[google-labs-code-stitch-skills]] [[toeverything-affine]]
 

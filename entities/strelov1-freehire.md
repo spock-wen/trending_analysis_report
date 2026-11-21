@@ -34,5 +34,5 @@ freehire — the open-source search engine for job seekers
 
 ## 相关项目
 
-[[getarcaneapp-arcane]] [[alibaba-open-code-review]] [[tencent-loopforge]] [[juliusbrussee-caveman]]
+[[tencent-loopforge]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[getarcaneapp-arcane]]
 

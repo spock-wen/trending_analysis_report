@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[ggml-org-llama.cpp]] [[alishahryar1-free-claude-code]] [[anomalyco-hex]] [[ggml-org-ggml]] [[openvinotoolkit-openvino]]
+[[ggml-org-ggml]] [[obra-superpowers]] [[alishahryar1-free-claude-code]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

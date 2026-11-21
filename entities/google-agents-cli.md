@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[tracer-cloud-opensre]] [[openvinotoolkit-openvino]] [[elementalsouls-claude-bughunter]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

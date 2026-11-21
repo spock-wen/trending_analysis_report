@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[tracer-cloud-opensre]] [[nvidia-skillevaluator]] [[openvinotoolkit-openvino]] [[elementalsouls-claude-bughunter]] [[mvanhorn-last30days-skill]]
+[[obra-superpowers]] [[appwrite-appwrite]] [[mjmirza-app-store-compliance]] [[cathrynlavery-diagram-design]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

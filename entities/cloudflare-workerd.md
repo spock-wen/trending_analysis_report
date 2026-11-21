@@ -34,5 +34,5 @@ The JavaScript / Wasm runtime that powers Cloudflare Workers
 
 ## 相关项目
 
-[[ggml-org-ggml]] [[openvinotoolkit-openvino]] [[likely7-veyra-nrvideo]] [[ggml-org-llama.cpp]]
+[[openvinotoolkit-openvino]] [[ggml-org-ggml]] [[likely7-veyra-nrvideo]] [[ggml-org-llama.cpp]]
 

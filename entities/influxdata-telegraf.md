@@ -37,7 +37,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ## 相关项目
 
-[[getarcaneapp-arcane]] [[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]]
+[[obra-superpowers]] [[appwrite-appwrite]] [[mjmirza-app-store-compliance]] [[tencent-loopforge]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

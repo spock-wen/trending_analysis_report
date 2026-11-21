@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[martin-olivier-airgorah]] [[astral-sh-uv]] [[nvidia-skillevaluator]] [[block-buzz]] [[google-labs-code-stitch-skills]]
+[[astral-sh-uv]] [[vercel-labs-agent-browser]] [[obra-superpowers]] [[appwrite-appwrite]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

@@ -38,7 +38,7 @@ Lightpanda: the headless browser designed for AI and automation
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[ghostty-org-ghostty]] [[sveltejs-svelte]] [[cathrynlavery-diagram-design]] [[ashhart-tensorfold]]
+[[obra-superpowers]] [[ashhart-tensorfold]] [[cathrynlavery-diagram-design]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -36,7 +36,7 @@ A utility-first CSS framework for rapid UI development.
 
 ## 相关项目
 
-[[toeverything-affine]] [[google-labs-code-stitch-skills]] [[cursor-plugins]] [[mvanhorn-last30days-skill]] [[sveltejs-svelte]]
+[[obra-superpowers]] [[cathrynlavery-diagram-design]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

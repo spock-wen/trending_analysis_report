@@ -38,7 +38,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[toeverything-affine]] [[affaan-m-ecc]] [[google-labs-code-stitch-skills]] [[cursor-plugins]] [[mvanhorn-last30days-skill]]
+[[obra-superpowers]] [[google-research-paper-orchestra]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

@@ -38,7 +38,7 @@ Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skill
 
 ## 相关项目
 
-[[mattpocock-skills]] [[nvm-sh-nvm]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[mjmirza-app-store-compliance]]
+[[obra-superpowers]] [[mjmirza-app-store-compliance]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

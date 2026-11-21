@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[higgsfield-ai-higgsfield]] [[lyogavin-airllm]] [[xiaolai-the-craft-of-selfteaching]] [[patchy631-ai-engineering-hub]] [[mvanhorn-last30days-skill]]
+[[higgsfield-ai-higgsfield]] [[lyogavin-airllm]] [[obra-superpowers]] [[patchy631-ai-engineering-hub]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]]
 

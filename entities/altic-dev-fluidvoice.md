@@ -38,7 +38,7 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[anomalyco-hex]] [[xtool-org-xtool]] [[microsoft-vibevoice]] [[mvanhorn-last30days-skill]]
+[[manaflow-ai-cmux]] [[vorssaint-vorssaint-utils]] [[obra-superpowers]] [[alishahryar1-free-claude-code]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

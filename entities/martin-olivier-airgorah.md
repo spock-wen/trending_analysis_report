@@ -34,7 +34,7 @@ A WiFi security auditing software
 
 ## 相关项目
 
-[[astral-sh-uv]] [[toeverything-affine]] [[affaan-m-ecc]] [[block-buzz]] [[mvanhorn-last30days-skill]]
+[[astral-sh-uv]] [[vercel-labs-agent-browser]] [[obra-superpowers]] [[mjmirza-app-store-compliance]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

@@ -37,7 +37,7 @@ Build local voice agents with open-source models
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[anomalyco-hex]] [[microsoft-vibevoice]] [[mvanhorn-last30days-skill]] [[zhouxiaoka-autoclip]]
+[[obra-superpowers]] [[alishahryar1-free-claude-code]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[scenario-labs-skills]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -38,7 +38,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[sveltejs-svelte]] [[cathrynlavery-diagram-design]] [[zhouxiaoka-autoclip]] [[jingyaogong-minimind]]
+[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[mvanhorn-last30days-skill]] [[jingyaogong-minimind]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[web]]
 

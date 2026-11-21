@@ -38,7 +38,7 @@ Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[mjmirza-app-store-compliance]] [[appwrite-appwrite]]
+[[obra-superpowers]] [[appwrite-appwrite]] [[mjmirza-app-store-compliance]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

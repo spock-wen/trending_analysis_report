@@ -35,7 +35,7 @@ Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[xiaolai-the-craft-of-selfteaching]] [[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]] [[ggml-org-ggml]]
+[[ggml-org-ggml]] [[lyogavin-airllm]] [[obra-superpowers]] [[patchy631-ai-engineering-hub]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

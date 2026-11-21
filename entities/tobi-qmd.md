@@ -35,7 +35,7 @@ mini cli search engine for your docs, knowledge bases, meeting notes, whatever. 
 
 ## 相关项目
 
-[[toeverything-affine]] [[google-labs-code-stitch-skills]] [[cursor-plugins]] [[zhouxiaoka-autoclip]] [[obra-superpowers]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[hkuds-cli-anything]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[cli]]
 

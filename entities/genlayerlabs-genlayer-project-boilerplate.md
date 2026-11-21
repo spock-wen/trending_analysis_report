@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[toeverything-affine]] [[google-labs-code-stitch-skills]] [[cursor-plugins]] [[php-php-src]] [[agricidaniel-claude-seo]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[google-labs-code-stitch-skills]] [[php-php-src]]
 
 **所属领域**: [[erp]]
 

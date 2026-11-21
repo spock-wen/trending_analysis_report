@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[toeverything-affine]] [[alishahryar1-free-claude-code]] [[anomalyco-hex]] [[google-labs-code-stitch-skills]] [[cursor-plugins]]
+[[obra-superpowers]] [[alishahryar1-free-claude-code]] [[cathrynlavery-diagram-design]] [[firecrawl-firecrawl]] [[cursor-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

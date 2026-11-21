@@ -38,7 +38,7 @@ Secure environments for developers and their agents
 
 ## 相关项目
 
-[[getarcaneapp-arcane]] [[hkuds-cli-anything]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[tencent-loopforge]]
+[[obra-superpowers]] [[tencent-loopforge]] [[juliusbrussee-caveman]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

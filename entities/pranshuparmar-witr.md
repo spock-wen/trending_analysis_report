@@ -35,7 +35,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ## 相关项目
 
-[[getarcaneapp-arcane]] [[hkuds-cli-anything]] [[alibaba-open-code-review]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
+[[obra-superpowers]] [[tencent-loopforge]] [[juliusbrussee-caveman]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

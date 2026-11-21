@@ -37,5 +37,5 @@ language: "Rust"
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[martin-olivier-airgorah]] [[astral-sh-uv]] [[block-buzz]]
+[[martin-olivier-airgorah]] [[astral-sh-uv]] [[vercel-labs-agent-browser]] [[block-buzz]]
 

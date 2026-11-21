@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]] [[sveltejs-svelte]]
+[[obra-superpowers]] [[cathrynlavery-diagram-design]] [[ripienaar-free-for-dev]] [[hkuds-cli-anything]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

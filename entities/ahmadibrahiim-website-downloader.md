@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[conardli-garden-skills]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[likely7-veyra-nrvideo]]
+[[averygan-reclip]] [[cathrynlavery-diagram-design]] [[ripienaar-free-for-dev]] [[hkuds-cli-anything]] [[sveltejs-svelte]]
 
 **所属领域**: [[web]] [[image-gen]]
 

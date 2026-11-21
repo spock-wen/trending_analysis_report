@@ -38,7 +38,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ## 相关项目
 
-[[tracer-cloud-opensre]] [[toeverything-affine]] [[openvinotoolkit-openvino]] [[google-labs-code-stitch-skills]] [[cursor-plugins]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[hkuds-cli-anything]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

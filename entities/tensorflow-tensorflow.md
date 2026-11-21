@@ -35,7 +35,7 @@ An Open Source Machine Learning Framework for Everyone
 
 ## 相关项目
 
-[[ggml-org-llama.cpp]] [[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]] [[ggml-org-ggml]] [[openvinotoolkit-openvino]]
+[[ggml-org-ggml]] [[patchy631-ai-engineering-hub]] [[thu-maic-openmaic]] [[ggml-org-llama.cpp]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[education]]
 

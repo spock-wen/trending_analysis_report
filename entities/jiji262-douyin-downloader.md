@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[mvanhorn-last30days-skill]] [[mjmirza-app-store-compliance]] [[appwrite-appwrite]] [[sveltejs-svelte]]
+[[appwrite-appwrite]] [[mjmirza-app-store-compliance]] [[cathrynlavery-diagram-design]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[data]]
 

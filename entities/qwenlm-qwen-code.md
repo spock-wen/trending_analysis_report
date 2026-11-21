@@ -35,7 +35,7 @@ An open-source AI coding agent that lives in your terminal.
 
 ## 相关项目
 
-[[toeverything-affine]] [[google-labs-code-stitch-skills]] [[cursor-plugins]] [[mvanhorn-last30days-skill]] [[zhouxiaoka-autoclip]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[hkuds-cli-anything]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

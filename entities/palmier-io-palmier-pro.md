@@ -38,7 +38,7 @@ macOS video editor built for AI
 
 ## 相关项目
 
-[[xtool-org-xtool]] [[mvanhorn-last30days-skill]] [[manaflow-ai-cmux]] [[vorssaint-vorssaint-utils]] [[abue-ammar-tinycast]]
+[[manaflow-ai-cmux]] [[vorssaint-vorssaint-utils]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

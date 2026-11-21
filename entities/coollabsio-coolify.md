@@ -34,7 +34,7 @@ An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that 
 
 ## 相关项目
 
-[[tracer-cloud-opensre]] [[nvidia-skillevaluator]] [[conardli-garden-skills]] [[openvinotoolkit-openvino]] [[likely7-veyra-nrvideo]]
+[[likely7-veyra-nrvideo]] [[obra-superpowers]] [[appwrite-appwrite]] [[mjmirza-app-store-compliance]] [[conardli-garden-skills]]
 
 **所属领域**: [[cli]] [[data]] [[devops]] [[image-gen]]
 

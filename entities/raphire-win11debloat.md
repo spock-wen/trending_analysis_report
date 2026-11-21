@@ -36,7 +36,7 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## 相关项目
 
-[[actions-runner-images]] [[zhaoxuya520-reverse-skill]] [[google-labs-code-stitch-skills]] [[zhouxiaoka-autoclip]] [[bwya77-vscode-dark-islands]]
+[[obra-superpowers]] [[zhaoxuya520-reverse-skill]] [[hkuds-cli-anything]] [[google-labs-code-stitch-skills]] [[bwya77-vscode-dark-islands]]
 
 **所属领域**: [[cli]]
 

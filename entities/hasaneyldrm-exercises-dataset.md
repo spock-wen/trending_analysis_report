@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[mvanhorn-last30days-skill]] [[mjmirza-app-store-compliance]]
+[[obra-superpowers]] [[averygan-reclip]] [[mjmirza-app-store-compliance]] [[cathrynlavery-diagram-design]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[toeverything-affine]] [[martin-olivier-airgorah]] [[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]]
+[[ggml-org-ggml]] [[paperclipai-paperclip]] [[obra-superpowers]] [[google-research-paper-orchestra]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

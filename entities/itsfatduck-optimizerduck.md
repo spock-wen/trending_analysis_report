@@ -34,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[sonarr-sonarr]] [[toeverything-affine]] [[k1tbyte-wand-enhancer]] [[martin-olivier-airgorah]] [[jiafeimiao-k-cat-discimagestudio]]
+[[jiafeimiao-k-cat-discimagestudio]] [[sonarr-sonarr]] [[mjmirza-app-store-compliance]] [[affaan-m-ecc]] [[ntdevlabs-tiny11builder]]
 
 **所属领域**: [[security]]
 

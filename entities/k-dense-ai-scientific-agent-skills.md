@@ -38,7 +38,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[nvidia-skillevaluator]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[mjmirza-app-store-compliance]]
+[[paperclipai-paperclip]] [[obra-superpowers]] [[appwrite-appwrite]] [[mjmirza-app-store-compliance]] [[google-research-paper-orchestra]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

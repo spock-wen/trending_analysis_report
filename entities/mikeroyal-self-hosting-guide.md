@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]] [[ggml-org-ggml]] [[michaelcade-90daysofdevops]] [[mvanhorn-last30days-skill]]
+[[ggml-org-ggml]] [[obra-superpowers]] [[patchy631-ai-engineering-hub]] [[cathrynlavery-diagram-design]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

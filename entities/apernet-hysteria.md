@@ -35,5 +35,5 @@ Hysteria is a powerful, lightning fast and censorship resistant proxy.
 
 ## 相关项目
 
-[[getarcaneapp-arcane]] [[alibaba-open-code-review]] [[tencent-loopforge]] [[juliusbrussee-caveman]]
+[[tencent-loopforge]] [[juliusbrussee-caveman]] [[alibaba-open-code-review]] [[getarcaneapp-arcane]]
 

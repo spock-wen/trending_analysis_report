@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 ## 相关项目
 
-[[getarcaneapp-arcane]] [[tracer-cloud-opensre]] [[hkuds-cli-anything]] [[openvinotoolkit-openvino]] [[alibaba-open-code-review]]
+[[obra-superpowers]] [[tencent-loopforge]] [[elementalsouls-claude-bughunter]] [[juliusbrussee-caveman]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

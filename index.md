@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-11-21 | 总页面：923
+> 最后更新：2026-11-22 | 总页面：923
 
 ## Entities
 
@@ -150,7 +150,7 @@
 - [[can1357-oh-my-pi|oh-my-pi]] — ⌥ AI Coding agent for the terminal — hash-anchored edits, op...
 - [[canner-wrenai|WrenAI]] — GenBI (Generative BI) for AI agents, an open-source, governe...
 - [[catchorg-catch2|Catch2]] — A modern, C++-native, test framework for unit-tests, TDD and... 🆕
-- [[cathrynlavery-diagram-design|diagram-design]] — Editorial diagram design for Claude Code, Codex, GitHub Copi... 🆕
+- [[cathrynlavery-diagram-design|diagram-design]] — Editorial diagram design for Claude Code, Codex, GitHub Copi... 🔥
 - [[chachamaru127-claude-code-harness|claude-code-harness]] — Claude Code Dedicated Development Harness - Achieving High-Q...
 - [[chaitanyagiri-munder-difflin|munder-difflin]] — local multi-agent harness 🔥
 - [[chatwoot-chatwoot|chatwoot]] — Open-source live-chat, email support, omni-channel desk. An ...
@@ -276,7 +276,7 @@
 - [[fastfetch-cli-fastfetch|fastfetch]] — A maintained, feature-rich and performance oriented, neofetc... 🆕
 - [[fincept-corporation-finceptterminal|FinceptTerminal]] — FinceptTerminal is a modern finance application offering adv...
 - [[firebase-firebase-ios-sdk|firebase-ios-sdk]] — Firebase SDK for Apple App Development 🆕
-- [[firecrawl-firecrawl|firecrawl]] — Knowledge infrastructure to make your agents smarter. Search... 🆕
+- [[firecrawl-firecrawl|firecrawl]] — Knowledge infrastructure to make your agents smarter. Search... 🔥
 - [[firecrawl-pdf-inspector|pdf-inspector]] — Fast Rust library for PDF inspection, classification, and te... 🔥
 - [[fishaudio-fish-speech|fish-speech]] — SOTA Open Source TTS 🔥
 - [[fission-ai-openspec|OpenSpec]] — Spec-driven development (SDD) for AI coding assistants.
@@ -419,7 +419,7 @@
 - [[jiafeimiao-k-cat-discimagestudio|DiscImageStudio]] — No description 🆕
 - [[jihe520-mathmodelagent|MathModelAgent]] — 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Ag... 🔥
 - [[jiji262-douyin-downloader|douyin-downloader]] — A practical Douyin downloader for both single-item and profi...
-- [[jingyaogong-minimind|minimind]] — 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in... 🆕
+- [[jingyaogong-minimind|minimind]] — 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in... 🔥
 - [[jo-inc-camofox-browser|camofox-browser]] — Stealth headless browser for AI agents — bypass Cloudflare, ... 🆕
 - [[joeseesun-qiaomu-anything-to-notebooklm|qiaomu-anything-to-notebooklm]] — Claude Skill: Multi-source content processor for NotebookLM. 🆕
 - [[jordan-gibbs-hyperresearch|hyperresearch]] — Agent-driven research knowledge base. Agents collect, search...
@@ -547,7 +547,7 @@
 - [[mikumifa-bilitickerbuy|biliTickerBuy]] — b站会员购购票辅助工具
 - [[milind-soni-openmausbot|OpenMausBot]] — Open-source Grok Bot alternative with a virtual machine that... 🔥
 - [[millionco-react-doctor|react-doctor]] — Your agent writes bad React. This catches it 🔥
-- [[mjmirza-app-store-compliance|app-store-compliance]] — Avoid common App Store and Google Play rejections. Open play... 🆕
+- [[mjmirza-app-store-compliance|app-store-compliance]] — Avoid common App Store and Google Play rejections. Open play... 🔥
 - [[mksglu-context-mode|context-mode]] — Context window optimization for AI coding agents. Sandboxes ... 🔥
 - [[mlabonne-llm-course|llm-course]] — Course to get into Large Language Models (LLMs) with roadmap...
 - [[mobile-dev-inc-maestro|Maestro]] — Painless E2E Automation for Mobile and Web
@@ -579,7 +579,7 @@
 - [[nautechsystems-nautilus_trader|nautilus_trader]] — A high-performance algorithmic trading platform and event-dr...
 - [[nesquena-hermes-webui|hermes-webui]] — Hermes WebUI: The best way to use Hermes Agent from the web ... 🔥
 - [[newton-physics-newton|newton]] — An open-source, GPU-accelerated physics simulation engine bu...
-- [[nginx-nginx|nginx]] — The official NGINX Open Source repository. 🆕
+- [[nginx-nginx|nginx]] — The official NGINX Open Source repository. 🔥
 - [[nicobailon-pi-subagents|pi-subagents]] — Pi extension for async subagent delegation with truncation, ...
 - [[nightly-labs-openbot|openbot]] — A local-first desktop workspace for persistent AI teammates.... 🔥
 - [[nirdiamant-agents-towards-production|agents-towards-production]] — End-to-end, code-first tutorials for building production-gra...
@@ -814,7 +814,7 @@
 - [[tirth8205-code-review-graph|code-review-graph]] — Local-first code intelligence graph for MCP and CLI. Builds ...
 - [[tnt-likely-panwatch|PanWatch]] — 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A...
 - [[tobi-qmd|qmd]] — mini cli search engine for your docs, knowledge bases, meeti... 🆕
-- [[toeverything-affine|AFFiNE]] — There can be more than Notion and Miro. AFFiNE(pronounced [ə... 🆕
+- [[toeverything-affine|AFFiNE]] — There can be more than Notion and Miro. AFFiNE(pronounced [ə... 🔥
 - [[togatoga-karukan|karukan]] — Japanese Input Method System for Linux, macOS, Neural Kana-K...
 - [[togg53192-cmd-jailbreaks|jailbreaks]] — LIST OF ALL MY JAILBREAKS
 - [[tokio-rs-topcoat|topcoat]] — A batteries-included framework for building web apps
@@ -822,7 +822,7 @@
 - [[tonhowtf-omniget|omniget]] — Download Udemy and Hotmart courses, YouTube videos, music an...
 - [[tooljet-tooljet|ToolJet]] — ToolJet is the open-source foundation of ToolJet AI - the en... 🔥
 - [[topoteretes-cognee|cognee]] — Cognee is the open-source AI memory platform for agents. Giv...
-- [[tracer-cloud-opensre|opensre]] — The open-source agent for CI/CD reliability. 🆕
+- [[tracer-cloud-opensre|opensre]] — The open-source agent for CI/CD reliability. 🔥
 - [[tractorjuice-arc-kit|arc-kit]] — Enterprise Architecture Governance & Vendor Procurement Tool...
 - [[tradermonty-claude-trading-skills|claude-trading-skills]] — Claude Code skills for equity investors and traders — market... 🔥
 - [[tradesdontlie-tradingview-mcp|tradingview-mcp]] — AI-assisted TradingView chart analysis — connect Claude Code...
@@ -884,7 +884,7 @@
 - [[xbtlin-ai-berkshire|ai-berkshire]] — AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师... 🔥
 - [[xerj-org-xerj|xerj]] — XERJ is the new way for AI to search data. Its autoindex cap... 🔥
 - [[xiaolai-the-craft-of-selfteaching|the-craft-of-selfteaching]] — One has no future if one couldn't teach themself.
-- [[xiaoyouchr-ghost-downloader-3|Ghost-Downloader-3]] — The only downloader you need. 下载器的集大成者。 🆕
+- [[xiaoyouchr-ghost-downloader-3|Ghost-Downloader-3]] — The only downloader you need. 下载器的集大成者。 🔥
 - [[xtool-org-xtool|xtool]] — Cross-platform Xcode replacement. Build and deploy iOS apps ... 🆕
 - [[yairm210-unciv|Unciv]] — Open-source Android/Desktop remake of Civ V
 - [[yeachan-heo-oh-my-codex|oh-my-codex]] — OmX - Oh My codeX: Your codex is not alone. Add hooks, agent...
@@ -904,7 +904,7 @@
 - [[zedeus-nitter|nitter]] — Alternative Twitter front-end
 - [[zeux-meshoptimizer|meshoptimizer]] — Mesh optimization library that makes meshes smaller and fast... 🆕
 - [[zhaoxuya520-reverse-skill|reverse-skill]] — Reverse Engineering / Authorized Penetration Testing / Secur...
-- [[zhouxiaoka-autoclip|autoclip]] — AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、... 🆕
+- [[zhouxiaoka-autoclip|autoclip]] — AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、... 🔥
 - [[zhulinsen-daily_stock_analysis|daily_stock_analysis]] — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powere...
 - [[zilliztech-claude-context|claude-context]] — Code search MCP for Claude Code. Make entire codebase the co... 🔥
 - [[zuodaotech-everyone-can-use-english|everyone-can-use-english]] — 人人都能用英语

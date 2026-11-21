@@ -35,7 +35,7 @@ DeepEP: an efficient expert-parallel communication library
 
 ## 相关项目
 
-[[deepseek-ai-deepgemm]] [[moonshotai-flashkda]] [[mvanhorn-last30days-skill]] [[obra-superpowers]] [[firecrawl-firecrawl]]
+[[deepseek-ai-deepgemm]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

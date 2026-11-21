@@ -35,7 +35,7 @@ The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. 
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[jquery-jquery]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[affaan-m-ecc]] [[jquery-jquery]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

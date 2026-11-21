@@ -34,7 +34,7 @@ Agent-driven research knowledge base. Agents collect, search, and synthesize web
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[sveltejs-svelte]] [[google-research-paper-orchestra]]
+[[paperclipai-paperclip]] [[obra-superpowers]] [[google-research-paper-orchestra]] [[cathrynlavery-diagram-design]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

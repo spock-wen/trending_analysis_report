@@ -34,5 +34,5 @@ Wifite but USB-only & cross-platform.
 
 ## 相关项目
 
-[[jingyaogong-minimind]] [[mvanhorn-last30days-skill]] [[zhouxiaoka-autoclip]] [[hkuds-cli-anything]]
+[[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[jingyaogong-minimind]]
 

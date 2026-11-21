@@ -37,7 +37,7 @@ DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## 相关项目
 
-[[alchaincyf-huashu-design]] [[ripienaar-free-for-dev]] [[mvanhorn-last30days-skill]] [[sveltejs-svelte]] [[averygan-reclip]]
+[[obra-superpowers]] [[averygan-reclip]] [[cathrynlavery-diagram-design]] [[ripienaar-free-for-dev]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

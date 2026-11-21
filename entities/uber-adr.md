@@ -35,7 +35,7 @@ ADR secures enterprise AI agents through observability, security benchmarking, a
 
 ## 相关项目
 
-[[tracer-cloud-opensre]] [[toeverything-affine]] [[martin-olivier-airgorah]] [[openvinotoolkit-openvino]] [[affaan-m-ecc]]
+[[obra-superpowers]] [[mjmirza-app-store-compliance]] [[firecrawl-firecrawl]] [[affaan-m-ecc]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[security]] [[erp]]
 

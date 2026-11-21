@@ -37,7 +37,7 @@ YuE2: frontier music generation with symbolic planning, zero-shot covers, and ag
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[nvidia-skillevaluator]] [[anomalyco-hex]] [[conardli-garden-skills]] [[likely7-veyra-nrvideo]]
+[[microsoft-vibevoice]] [[obra-superpowers]] [[alishahryar1-free-claude-code]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

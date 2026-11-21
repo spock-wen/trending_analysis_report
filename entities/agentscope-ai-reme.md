@@ -36,7 +36,7 @@ ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[zhouxiaoka-autoclip]] [[jingyaogong-minimind]] [[obra-superpowers]] [[firecrawl-firecrawl]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[mvanhorn-last30days-skill]] [[jingyaogong-minimind]]
 
 **所属领域**: [[ai-agent]]
 

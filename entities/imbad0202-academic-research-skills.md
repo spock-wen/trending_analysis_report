@@ -38,7 +38,7 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[affaan-m-ecc]] [[mvanhorn-last30days-skill]] [[google-research-paper-orchestra]] [[zhouxiaoka-autoclip]]
+[[paperclipai-paperclip]] [[obra-superpowers]] [[google-research-paper-orchestra]] [[firecrawl-firecrawl]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

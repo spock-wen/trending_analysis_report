@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[toeverything-affine]] [[martin-olivier-airgorah]] [[nvidia-skillevaluator]] [[affaan-m-ecc]]
+[[paperclipai-paperclip]] [[obra-superpowers]] [[appwrite-appwrite]] [[mjmirza-app-store-compliance]] [[google-research-paper-orchestra]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

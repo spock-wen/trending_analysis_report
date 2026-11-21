@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[martin-olivier-airgorah]] [[astral-sh-uv]] [[block-buzz]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
+[[astral-sh-uv]] [[vercel-labs-agent-browser]] [[obra-superpowers]] [[cathrynlavery-diagram-design]] [[block-buzz]]
 
 **所属领域**: [[web]] [[cli]]
 

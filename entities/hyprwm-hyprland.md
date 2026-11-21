@@ -37,5 +37,5 @@ Hyprland is an independent, highly customizable, dynamic tiling Wayland composit
 
 ## 相关项目
 
-[[ggml-org-ggml]] [[openvinotoolkit-openvino]] [[likely7-veyra-nrvideo]] [[ggml-org-llama.cpp]]
+[[openvinotoolkit-openvino]] [[ggml-org-ggml]] [[likely7-veyra-nrvideo]] [[ggml-org-llama.cpp]]
 

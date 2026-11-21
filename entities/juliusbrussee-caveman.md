@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[getarcaneapp-arcane]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]] [[tencent-loopforge]] [[obra-superpowers]]
+[[obra-superpowers]] [[tencent-loopforge]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

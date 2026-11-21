@@ -36,7 +36,7 @@ OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[sveltejs-svelte]] [[zhouxiaoka-autoclip]] [[cathrynlavery-diagram-design]] [[jingyaogong-minimind]]
+[[obra-superpowers]] [[cathrynlavery-diagram-design]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

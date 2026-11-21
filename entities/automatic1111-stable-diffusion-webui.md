@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[conardli-garden-skills]] [[likely7-veyra-nrvideo]] [[mvanhorn-last30days-skill]] [[sveltejs-svelte]]
+[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[mvanhorn-last30days-skill]] [[jingyaogong-minimind]] [[nvidia-skillevaluator]]
 
 **所属领域**: [[web]] [[image-gen]]
 

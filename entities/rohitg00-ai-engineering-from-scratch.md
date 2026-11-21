@@ -38,7 +38,7 @@ Learn it. Build it. Ship it for others.
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]] [[ggml-org-ggml]] [[michaelcade-90daysofdevops]] [[mvanhorn-last30days-skill]]
+[[ggml-org-ggml]] [[obra-superpowers]] [[patchy631-ai-engineering-hub]] [[thu-maic-openmaic]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

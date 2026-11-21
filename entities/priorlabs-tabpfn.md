@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[mvanhorn-last30days-skill]] [[mjmirza-app-store-compliance]] [[appwrite-appwrite]] [[zhouxiaoka-autoclip]]
+[[appwrite-appwrite]] [[mjmirza-app-store-compliance]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[data]]
 

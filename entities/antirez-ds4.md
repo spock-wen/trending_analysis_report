@@ -36,5 +36,5 @@ DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 
 ## 相关项目
 
-[[openssl-openssl]] [[nginx-nginx]] [[mpv-player-mpv]] [[lz4-lz4]]
+[[lz4-lz4]] [[nginx-nginx]] [[mpv-player-mpv]] [[openssl-openssl]]
 

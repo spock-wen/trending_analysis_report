@@ -34,5 +34,5 @@ Godot Engine – Multi-platform 2D and 3D game engine
 
 ## 相关项目
 
-[[ggml-org-ggml]] [[openvinotoolkit-openvino]] [[likely7-veyra-nrvideo]] [[ggml-org-llama.cpp]]
+[[openvinotoolkit-openvino]] [[ggml-org-ggml]] [[likely7-veyra-nrvideo]] [[ggml-org-llama.cpp]]
 

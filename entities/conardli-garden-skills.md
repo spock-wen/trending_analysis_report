@@ -36,7 +36,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[affaan-m-ecc]] [[likely7-veyra-nrvideo]] [[mvanhorn-last30days-skill]] [[deanchensj-jiangshan-map]]
+[[obra-superpowers]] [[cathrynlavery-diagram-design]] [[firecrawl-firecrawl]] [[affaan-m-ecc]] [[jquery-jquery]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

@@ -1,7 +1,7 @@
 ---
 title: "cli"
 created: 2026-05-20
-updated: 2026-11-21
+updated: 2026-11-22
 type: concept
 tags: [cli]
 confidence: medium

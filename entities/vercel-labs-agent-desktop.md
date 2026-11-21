@@ -37,7 +37,7 @@ Computer use CLI for AI agents
 
 ## 相关项目
 
-[[martin-olivier-airgorah]] [[astral-sh-uv]] [[block-buzz]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
+[[astral-sh-uv]] [[vercel-labs-agent-browser]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[block-buzz]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

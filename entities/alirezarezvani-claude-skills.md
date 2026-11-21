@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[affaan-m-ecc]] [[elementalsouls-claude-bughunter]] [[google-labs-code-stitch-skills]] [[mvanhorn-last30days-skill]]
+[[paperclipai-paperclip]] [[obra-superpowers]] [[google-research-paper-orchestra]] [[firecrawl-firecrawl]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

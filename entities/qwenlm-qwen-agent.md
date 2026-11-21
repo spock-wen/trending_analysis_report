@@ -35,7 +35,7 @@ Agent framework and applications built upon Qwen>=3.0, featuring Function Callin
 
 ## 相关项目
 
-[[elementalsouls-claude-bughunter]] [[mvanhorn-last30days-skill]] [[sveltejs-svelte]] [[agricidaniel-claude-seo]] [[php-php-src]]
+[[obra-superpowers]] [[cathrynlavery-diagram-design]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[php-php-src]]
 
 **所属领域**: [[ai-agent]] [[web]] [[erp]]
 

@@ -36,7 +36,7 @@ Official inference framework for 1-bit LLMs
 
 ## 相关项目
 
-[[ggml-org-llama.cpp]] [[ggml-org-ggml]] [[openvinotoolkit-openvino]] [[likely7-veyra-nrvideo]] [[mvanhorn-last30days-skill]]
+[[ggml-org-ggml]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[toeverything-affine]] [[yuliskov-smarttube]] [[martin-olivier-airgorah]] [[affaan-m-ecc]] [[nationalsecurityagency-ghidra]]
+[[mjmirza-app-store-compliance]] [[thealgorithms-java]] [[yuliskov-smarttube]] [[nationalsecurityagency-ghidra]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

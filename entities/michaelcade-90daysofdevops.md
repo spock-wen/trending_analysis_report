@@ -34,7 +34,7 @@ This repository started out as a learning in public project for myself and has n
 
 ## 相关项目
 
-[[mattpocock-skills]] [[tracer-cloud-opensre]] [[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]] [[ggml-org-ggml]]
+[[ggml-org-ggml]] [[obra-superpowers]] [[mjmirza-app-store-compliance]] [[patchy631-ai-engineering-hub]] [[thu-maic-openmaic]]
 
 **所属领域**: [[cli]] [[devops]] [[education]]
 

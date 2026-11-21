@@ -35,7 +35,7 @@ Fullstack app framework for web, desktop, and mobile.
 
 ## 相关项目
 
-[[martin-olivier-airgorah]] [[astral-sh-uv]] [[block-buzz]] [[mvanhorn-last30days-skill]] [[sveltejs-svelte]]
+[[astral-sh-uv]] [[vercel-labs-agent-browser]] [[cathrynlavery-diagram-design]] [[block-buzz]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]]
 

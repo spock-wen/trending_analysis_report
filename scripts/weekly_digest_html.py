@@ -77,6 +77,14 @@ ZH_DESC = {
  'google-deepmind/mujoco': 'DeepMind 老牌物理仿真器：多关节动力学与接触建模',
  'anthropics/claude-quickstarts': 'Anthropic 官方 Claude API 起步项目合集',
  'addyosmani/agent-skills': 'Chrome 团队 Addy Osmani 维护的工程 skills 集合',
+ 'dream-num/univer': 'AI Office SDK：编辑、计算、协作、文件处理做进产品，人和 agent 共用一套',
+ 'GoogleChrome/modern-web-guidance-src': 'Chrome 团队出品：给编码 agent 喂最新 web 最佳实践',
+ 'alibaba/open-code-review': '阿里开源代码审查：确定性管线 + LLM agent 混合架构，行级精确评论',
+ 'mvanhorn/last30days-skill': 'agent 研究技能：跨 Reddit、X、YouTube、HN 检索近 30 天信息并合成有据摘要',
+ 'kajisho5/ffmpeg-skill': '给编码 agent 的本地视频剪辑：42 个 FFmpeg 工具 + MCP，无云端无 API key',
+ 'tradermonty/claude-trading-skills': '给股票投资者的 Claude Code 技能：行情分析、技术图表、经济日历、选股',
+ 'ag-ui-protocol/ag-ui': 'Agent-User 交互协议：把 agent 接进前端应用的标准',
+ 'pookjw/HermesEnabler': '让任意 Apple Watch 用上 Hermès 表盘的小工具',
 }
 total_stars = sum(WK.values())
 n_projects = len(rows)
@@ -88,7 +96,8 @@ if r and r[0]:
     prev_total = db.execute("SELECT SUM(weekly_stars) FROM weekly_trending WHERE week_end=?", (prev_end,)).fetchone()[0] or 0
     prev_names = {x[0] for x in db.execute("SELECT repo_full_name FROM weekly_trending WHERE week_end=?", (prev_end,))}
 wow = (total_stars - prev_total) / prev_total * 100 if prev_total else 0
-churn = sum(1 for n in WK if n not in prev_names) / n_projects * 100 if prev_names else 0
+# 换血率口径：基数=上周全榜项目数（上周在榜、本周出局的比例）
+churn = sum(1 for n in prev_names if n not in WK) / len(prev_names) * 100 if prev_names else 0
 
 def weeks_gone(name):
     r = db.execute("SELECT MAX(week_end) FROM weekly_trending WHERE repo_full_name=? AND week_end<?",
@@ -107,7 +116,7 @@ for name in WK:
         GROUP[name] = ('连续上榜', 'orange')
     else:
         g = weeks_gone(name)
-        GROUP[name] = (f'断档 {g} 周', 'purple') if g <= 15 else ('新面孔', 'blue')
+        GROUP[name] = (f'断档 {g} 周', 'purple') if g <= 30 else ('新面孔', 'blue')
 
 daily = {}
 for name, cnt in db.execute(
@@ -140,25 +149,25 @@ C = {'blue': '#4C72B0', 'orange': '#E4572E', 'purple': '#8172B2', 'green': '#2E8
 
 # ⚠️ 每周手填：三段主线叙事（结论前置，正文压到 3-4 行）
 NARRATIVES = [
-    (C['orange'], '#FDEEE8', '#D14A24', '总量缩 37%，换血率 83%',
-     '11 项 61,501★，环比 <b>-37.3%</b>，近八周次低。上周 18 项只留 <b>3 项</b>，换血率 83.3%：周冠军 t3code（17,100★）领衔 15 项出局，脉冲周结束。'),
-    (C['blue'], '#EAF0F9', '#3A62A8', '大厂接管：6 个官方仓撑起一半榜单',
-     '公司官方仓 <b>3 项 8,552★ → 6 项 33,673★（+294%）</b>，占本周总星 54.8%。<b>meta/astryx</b> 13,660★ 登顶官方榜 #1，Google 进两项，Anthropic 进两项。退潮期注意力回流官方仓。'),
-    (C['purple'], '#F1EEF8', '#6D5CA8', 'Skills 退烧到底：7 席缩到 2 席',
-     'Skill 类 <b>38,830★ → 9,890★（-74.5%）</b>。上周「认牌子」的 6 项全出局，只剩官方仓 <b>anthropics/skills</b>（周星翻倍至 6,220★）和断档 6 周回归的 addyosmani/agent-skills。'),
+    (C['orange'], '#FDEEE8', '#D14A24', '总量五周最低，换血八成',
+     '13 项 45,527★，环比 <b>-26.0%</b>，近五周最低。上周 11 项只留 <b>2 项</b>，换血率 <b>81.8%</b>：上周冠军 astryx 留榜但 13,660★ → 3,967★（-71%），sherlock、anthropics/skills 等 9 项出局。'),
+    (C['blue'], '#EAF0F9', '#3A62A8', '从造 Agent 转向管 Agent',
+     '工具链 8 项 27,963★ 是唯一逆势增长赛道（<b>+23.5%</b>）。新面孔全是"供货方"：<b>modern-web-guidance-src</b> 给 agent 喂 web 最佳实践（官方 #3），<b>plannotator</b> 人审工作台从上周 #9 冲到官方 #1（+315%）。'),
+    (C['purple'], '#F1EEF8', '#6D5CA8', '五项集体回归，最长断档 22 周',
+     'univer、open-code-review 断档 <b>7 周</b>，chrome-devtools-mcp 9 周，stitch-skills 18 周，last30days-skill 22 周。这条赛道的注意力是脉冲式：热门项目约一个季度回一次锅，而非持续占位。'),
 ]
 # ⚠️ 每周手填：四张赛道卡
 KNIVES = [
-    (C['blue'], '减速', 'Skill 与插件生态', '2 项 9,890★<br>上周 7 项 38,830★，星数 -74.5%，只剩官方仓和 OG'),
-    (C['orange'], '减速', '编码 Agent 基础设施', '5 项 26,412★<br>上周 6 项 34,206★，星数 -22.8%，主力换成大厂官方仓'),
-    (C['purple'], '企稳', '其他 AI 应用', '2 项 10,939★<br>上周 2 项 10,014★，星数 +9.2%，bot 换血叠加股票工具进场'),
-    (C['green'], '换挡', '非 AI 工具', '2 项 14,260★<br>上周 3 项 15,054★，成员全换，sherlock 12,401★ 站上官方 #2'),
+    (C['blue'], '加速', 'Agent 工具链', '8 项 27,963★<br>上周 6 项 22,642★，星数 +23.5%，降温周里唯一逆势增长的赛道'),
+    (C['orange'], '减速', 'Agent 应用与协议', '3 项 14,999★<br>上周 3 项 24,599★，席位持平，星数 -39.0%，astryx 一项就少掉近万星'),
+    (C['green'], '减速', '非 Agent 项目', '2 项 2,565★<br>上周 2 项 14,260★，星数 -82.0%，Watch 表盘和记账 app 撑不起水位'),
+    (C['purple'], '换挡', '回归潮', '5 项 20,496★<br>断档 7~22 周集体返场，占本周榜单 45%，热度周期约一个季度'),
 ]
 # ⚠️ 每周手填：三条观测
 WATCH = [
-    ('astryx 站得稳吗？', '日榜 11-13 后已退出（峰值单日 3,324★，同 t3code 形态）。下周周星 <b>≥8,000★</b> → 一线站稳；<b>&lt;4,000★</b> → 确认单周脉冲'),
-    ('大厂接管是趋势吗？', '官方仓席位 <b>≥4</b> → 权力交接确认；<b>≤2</b> → 判定为本周单周现象'),
-    ('Skills 见底了吗？', '席位 <b>≤2 项</b>且周星 <b>&lt;10,000★</b> → 长尾化，只剩官方轮播；回升 <b>≥4 席</b> → 二线回流'),
+    ('plannotator 站得稳吗？', '本周官方 #1（3,396★，上周 +818）。下周周星 <b>≥2,000★</b> → 一线站稳；<b>&lt;1,000★</b> → 确认上周到本周是单周脉冲'),
+    ('回归潮会二连吗？', '5 个回归项目下周留存 <b>≥2</b> → 赛道回春；<b>≤1</b> → 注意力仍是脉冲式，回归只是回锅'),
+    ('大盘还会降吗？', '总星已从 145,207★ 缩到 45,527★。下周 <b>&lt;40,000★</b> → 三连降确认；回升 <b>&gt;55,000★</b> → 反弹周'),
 ]
 
 def esc(s):

@@ -38,7 +38,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[mvanhorn-last30days-skill]] [[nvidia-skillevaluator]] [[jingyaogong-minimind]] [[nvidia-auto-ontology]]
+[[likely7-veyra-nrvideo]] [[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[zhouxiaoka-autoclip]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[image-gen]]
 

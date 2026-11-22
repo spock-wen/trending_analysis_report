@@ -34,5 +34,5 @@ Fast C++ logging library.
 
 ## 相关项目
 
-[[openvinotoolkit-openvino]] [[ggml-org-ggml]] [[likely7-veyra-nrvideo]] [[ggml-org-llama.cpp]]
+[[likely7-veyra-nrvideo]] [[ggml-org-llama.cpp]] [[openvinotoolkit-openvino]] [[ggml-org-ggml]]
 

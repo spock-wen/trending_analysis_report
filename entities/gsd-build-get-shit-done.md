@@ -35,7 +35,7 @@ A light-weight and powerful meta-prompting, context engineering and spec-driven 
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[affaan-m-ecc]] [[jquery-jquery]] [[hkuds-cli-anything]]
+[[jquery-jquery]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[sveltejs-svelte]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]]
 

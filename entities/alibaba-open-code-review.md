@@ -38,7 +38,7 @@ Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c
 
 ## 相关项目
 
-[[obra-superpowers]] [[appwrite-appwrite]] [[mjmirza-app-store-compliance]] [[tencent-loopforge]] [[juliusbrussee-caveman]]
+[[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[tencent-loopforge]] [[firecrawl-firecrawl]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

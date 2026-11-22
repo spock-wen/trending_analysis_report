@@ -34,7 +34,7 @@ AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding age
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[mvanhorn-last30days-skill]] [[jingyaogong-minimind]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[firecrawl-firecrawl]] [[obra-superpowers]] [[jingyaogong-minimind]]
 
 **所属领域**: [[ai-agent]]
 

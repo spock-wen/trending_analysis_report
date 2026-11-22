@@ -38,7 +38,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## 相关项目
 
-[[averygan-reclip]] [[cathrynlavery-diagram-design]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[sveltejs-svelte]]
+[[averygan-reclip]] [[hkuds-cli-anything]] [[openvinotoolkit-openvino]] [[sveltejs-svelte]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[web]] [[devops]]
 

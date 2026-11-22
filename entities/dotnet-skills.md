@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[jiafeimiao-k-cat-discimagestudio]] [[sonarr-sonarr]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
+[[jiafeimiao-k-cat-discimagestudio]] [[hkuds-cli-anything]] [[sonarr-sonarr]] [[k1tbyte-wand-enhancer]] [[ntdevlabs-tiny11builder]]
 
 **所属领域**: [[ai-agent]]
 

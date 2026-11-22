@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[android-skills]] [[obra-superpowers]] [[cathrynlavery-diagram-design]] [[firecrawl-firecrawl]]
+[[mahlernim-google-timeline-visualizer]] [[embabel-embabel-agent]] [[hkuds-cli-anything]] [[sveltejs-svelte]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

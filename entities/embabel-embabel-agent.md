@@ -34,7 +34,7 @@ Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
 ## 相关项目
 
-[[bannedbook-fanqiang]] [[android-skills]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
+[[mahlernim-google-timeline-visualizer]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[obra-superpowers]] [[android-skills]]
 
 **所属领域**: [[ai-agent]]
 

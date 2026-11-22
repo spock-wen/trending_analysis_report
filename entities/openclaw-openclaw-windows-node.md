@@ -35,7 +35,7 @@ Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an
 
 ## 相关项目
 
-[[jiafeimiao-k-cat-discimagestudio]] [[sonarr-sonarr]] [[obra-superpowers]] [[hkuds-cli-anything]] [[ntdevlabs-tiny11builder]]
+[[jiafeimiao-k-cat-discimagestudio]] [[google-labs-code-stitch-skills]] [[hkuds-cli-anything]] [[sonarr-sonarr]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[cli]]
 

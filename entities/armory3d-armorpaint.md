@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[openssl-openssl]] [[mvanhorn-last30days-skill]]
+[[mpv-player-mpv]] [[lz4-lz4]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

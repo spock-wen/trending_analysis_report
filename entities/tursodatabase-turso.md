@@ -36,7 +36,7 @@ Turso is an in-process SQL database, compatible with SQLite.
 
 ## 相关项目
 
-[[astral-sh-uv]] [[vercel-labs-agent-browser]] [[appwrite-appwrite]] [[mjmirza-app-store-compliance]] [[firecrawl-firecrawl]]
+[[block-buzz]] [[nvidia-skillevaluator]] [[firecrawl-firecrawl]] [[vercel-labs-agent-browser]] [[appwrite-appwrite]]
 
 **所属领域**: [[data]]
 

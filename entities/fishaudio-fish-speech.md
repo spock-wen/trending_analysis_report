@@ -37,7 +37,7 @@ SOTA Open Source TTS
 
 ## 相关项目
 
-[[alishahryar1-free-claude-code]] [[hkuds-cli-anything]] [[scenario-labs-skills]] [[mvanhorn-last30days-skill]] [[jingyaogong-minimind]]
+[[alishahryar1-free-claude-code]] [[hkuds-cli-anything]] [[scenario-labs-skills]] [[zhouxiaoka-autoclip]] [[microsoft-vibevoice]]
 
 **所属领域**: [[audio]]
 

@@ -37,7 +37,7 @@ Deepseek to API: A lightweight, high-performance full-stack middleware convertin
 
 ## 相关项目
 
-[[obra-superpowers]] [[tencent-loopforge]] [[juliusbrussee-caveman]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
+[[alibaba-open-code-review]] [[google-labs-code-stitch-skills]] [[hkuds-cli-anything]] [[tencent-loopforge]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

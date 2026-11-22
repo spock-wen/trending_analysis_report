@@ -34,5 +34,5 @@ TypeScript-first schema validation with static type inference
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[cursor-plugins]] [[google-labs-code-stitch-skills]] [[toeverything-affine]]
+[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[toeverything-affine]] [[firecrawl-firecrawl]]
 

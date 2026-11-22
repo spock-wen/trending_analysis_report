@@ -35,7 +35,7 @@ Generate any location from the real world in Minecraft with a high level of deta
 
 ## 相关项目
 
-[[astral-sh-uv]] [[vercel-labs-agent-browser]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[block-buzz]]
+[[block-buzz]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[obra-superpowers]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]]
 

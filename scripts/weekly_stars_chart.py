@@ -16,27 +16,28 @@ db = sqlite3.connect('/srv/www/github-trending-wiki/data/github_trending.db')
 rows = db.execute("SELECT repo_full_name, weekly_stars FROM weekly_trending WHERE week_end=? ORDER BY weekly_stars DESC", (week_end,)).fetchall()
 
 def cat(name):
-    # 口径（2026-11-08 起，与周报速览/复盘表一致）：Skill/基建/其他AI/非AI
-    skill = {'Donchitos/Claude-Code-Game-Studios','anthropics/skills','Nutlope/hallmark',
-             'jakubkrehel/skills','mattpocock/skills','obra/superpowers','pbakaus/impeccable',
-             'cloudflare/security-audit-skill','AgriciDaniel/claude-seo','Leonxlnx/taste-skill',
-             'multica-ai/andrej-karpathy-skills','addyosmani/agent-skills'}
-    if name in skill:
-        return 'Skill 与插件生态'
-    infra = {'thedotmack/claude-mem','max-sixty/worktrunk','pingdotgg/t3code',
-             'github/spec-kit','The-PR-Agent/pr-agent','vercel-labs/agent-browser','affaan-m/ECC',
-             'meta/astryx','google/elephant-goldfish-model','backnotprop/plannotator',
-             'anthropics/claude-quickstarts'}
-    if name in infra:
-        return '编码 Agent 基础设施'
-    otherai = {'milind-soni/OpenMausBot','shiyu-coder/Kronos','TauricResearch/TradingAgents',
-               'AstrBotDevs/AstrBot','YuJunZhiXue/dsh-purge','ZhuLinsen/daily_stock_analysis'}
-    if name in otherai:
-        return '其他 AI 应用'
-    return '非 AI 工具'
+    # 口径（2026-11-22 起，与周报速览/复盘表一致）：Agent 工具链 / Agent 应用与协议 / 非 Agent 项目
+    toolchain = {'backnotprop/plannotator','google-labs-code/stitch-skills',
+                 'GoogleChrome/modern-web-guidance-src','alibaba/open-code-review',
+                 'mvanhorn/last30days-skill','ChromeDevTools/chrome-devtools-mcp',
+                 'tradermonty/claude-trading-skills','kajisho5/ffmpeg-skill',
+                 'anthropics/skills','Nutlope/hallmark','jakubkrehel/skills',
+                 'mattpocock/skills','obra/superpowers','pbakaus/impeccable',
+                 'cloudflare/security-audit-skill','AgriciDaniel/claude-seo',
+                 'Leonxlnx/taste-skill','multica-ai/andrej-karpathy-skills',
+                 'addyosmani/agent-skills','Donchitos/Claude-Code-Game-Studios',
+                 'vercel-labs/agent-browser','google/elephant-goldfish-model',
+                 'anthropics/claude-quickstarts'}
+    if name in toolchain:
+        return 'Agent 工具链'
+    app = {'ag-ui-protocol/ag-ui','meta/astryx','dream-num/univer',
+           'milind-soni/OpenMausBot','shiyu-coder/Kronos','TauricResearch/TradingAgents',
+           'AstrBotDevs/AstrBot','YuJunZhiXue/dsh-purge','ZhuLinsen/daily_stock_analysis'}
+    if name in app:
+        return 'Agent 应用与协议'
+    return '非 Agent 项目'
 
-colors = {'Skill 与插件生态': '#4C72B0', '编码 Agent 基础设施': '#E4572E',
-          '其他 AI 应用': '#8172B2', '非 AI 工具': '#8C8C8C'}
+colors = {'Agent 工具链': '#4C72B0', 'Agent 应用与协议': '#E4572E', '非 Agent 项目': '#8C8C8C'}
 names = [r[0] for r in rows][::-1]
 stars = [r[1] for r in rows][::-1]
 cats = [cat(r[0]) for r in rows][::-1]

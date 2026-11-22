@@ -36,7 +36,7 @@ Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of sw
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[mvanhorn-last30days-skill]] [[jingyaogong-minimind]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[firecrawl-firecrawl]] [[obra-superpowers]] [[jingyaogong-minimind]]
 
 **所属领域**: [[ai-agent]]
 

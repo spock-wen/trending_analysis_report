@@ -37,7 +37,7 @@ A Claude Code plugin that shows what's happening - context usage, active tools, 
 
 ## 相关项目
 
-[[obra-superpowers]] [[alishahryar1-free-claude-code]] [[firecrawl-firecrawl]] [[affaan-m-ecc]] [[jquery-jquery]]
+[[jquery-jquery]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[scenario-labs-skills]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

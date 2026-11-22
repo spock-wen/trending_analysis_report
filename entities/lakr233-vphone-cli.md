@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[vorssaint-vorssaint-utils]] [[obra-superpowers]] [[hkuds-cli-anything]] [[google-labs-code-stitch-skills]]
+[[vorssaint-vorssaint-utils]] [[google-labs-code-stitch-skills]] [[abue-ammar-tinycast]] [[hkuds-cli-anything]] [[xtool-org-xtool]]
 
 **所属领域**: [[cli]]
 

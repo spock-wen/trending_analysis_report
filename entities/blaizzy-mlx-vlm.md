@@ -34,7 +34,7 @@ MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VL
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[mvanhorn-last30days-skill]] [[jingyaogong-minimind]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[firecrawl-firecrawl]] [[obra-superpowers]] [[jingyaogong-minimind]]
 
 **所属领域**: [[ai-agent]]
 

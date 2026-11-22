@@ -38,7 +38,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[obra-superpowers]] [[appwrite-appwrite]] [[mjmirza-app-store-compliance]] [[thealgorithms-java]] [[yuliskov-smarttube]]
+[[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[yuliskov-smarttube]] [[floci-io-floci]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

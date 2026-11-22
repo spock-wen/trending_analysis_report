@@ -38,7 +38,7 @@ A meta-skill that designs domain-specific agent teams, defines specialized agent
 
 ## 相关项目
 
-[[obra-superpowers]] [[averygan-reclip]] [[cathrynlavery-diagram-design]] [[ripienaar-free-for-dev]] [[firecrawl-firecrawl]]
+[[averygan-reclip]] [[hkuds-cli-anything]] [[sveltejs-svelte]] [[ripienaar-free-for-dev]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

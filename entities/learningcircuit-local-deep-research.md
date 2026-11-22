@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[ggml-org-ggml]] [[paperclipai-paperclip]] [[obra-superpowers]] [[google-research-paper-orchestra]] [[mjmirza-app-store-compliance]]
+[[michaelcade-90daysofdevops]] [[hkuds-cli-anything]] [[thu-maic-openmaic]] [[affaan-m-ecc]] [[ggml-org-ggml]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

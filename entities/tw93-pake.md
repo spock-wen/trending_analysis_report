@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[astral-sh-uv]] [[vercel-labs-agent-browser]] [[obra-superpowers]] [[cathrynlavery-diagram-design]] [[block-buzz]]
+[[google-labs-code-stitch-skills]] [[block-buzz]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[sveltejs-svelte]]
 
 **所属领域**: [[web]] [[cli]]
 

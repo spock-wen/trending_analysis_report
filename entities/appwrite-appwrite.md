@@ -34,7 +34,7 @@ The open-source cloud for agents & devs. Including Auth, Databases, Storage, Fun
 
 ## 相关项目
 
-[[obra-superpowers]] [[mjmirza-app-store-compliance]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[hkuds-cli-anything]]
+[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[toeverything-affine]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[microsoft-vibevoice]] [[obra-superpowers]] [[alishahryar1-free-claude-code]] [[firecrawl-firecrawl]] [[affaan-m-ecc]]
+[[likely7-veyra-nrvideo]] [[jquery-jquery]] [[anomalyco-hex]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

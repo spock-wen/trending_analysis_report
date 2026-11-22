@@ -34,7 +34,7 @@ An advanced Web Panel • Built for SagerNet/Sing-Box
 
 ## 相关项目
 
-[[tencent-loopforge]] [[cathrynlavery-diagram-design]] [[juliusbrussee-caveman]] [[hkuds-cli-anything]] [[mvanhorn-last30days-skill]]
+[[alibaba-open-code-review]] [[hkuds-cli-anything]] [[tencent-loopforge]] [[sveltejs-svelte]] [[getarcaneapp-arcane]]
 
 **所属领域**: [[web]]
 

@@ -34,5 +34,5 @@ Apache Maven core
 
 ## 相关项目
 
-[[thealgorithms-java]] [[nationalsecurityagency-ghidra]] [[floci-io-floci]] [[yuliskov-smarttube]]
+[[nationalsecurityagency-ghidra]] [[yuliskov-smarttube]] [[floci-io-floci]] [[thealgorithms-java]]
 

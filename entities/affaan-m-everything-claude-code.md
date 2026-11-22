@@ -34,7 +34,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[obra-superpowers]] [[google-research-paper-orchestra]] [[mjmirza-app-store-compliance]] [[firecrawl-firecrawl]]
+[[jquery-jquery]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[sveltejs-svelte]] [[toeverything-affine]]
 
 **所属领域**: [[ai-agent]] [[security]] [[science]]
 

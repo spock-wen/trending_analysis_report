@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[obra-superpowers]] [[appwrite-appwrite]] [[mjmirza-app-store-compliance]] [[google-research-paper-orchestra]]
+[[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[affaan-m-ecc]] [[zhouxiaoka-autoclip]] [[toeverything-affine]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

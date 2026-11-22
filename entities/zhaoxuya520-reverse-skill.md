@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[obra-superpowers]] [[google-research-paper-orchestra]] [[mjmirza-app-store-compliance]] [[raphire-win11debloat]]
+[[google-labs-code-stitch-skills]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[zhouxiaoka-autoclip]] [[toeverything-affine]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

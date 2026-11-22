@@ -34,7 +34,7 @@ A good looking terminal emulator which mimics the old cathode display...
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[google-labs-code-stitch-skills]] [[hkuds-cli-anything]] [[obra-superpowers]]
+[[obra-superpowers]] [[google-labs-code-stitch-skills]] [[zhouxiaoka-autoclip]] [[hkuds-cli-anything]]
 
 **所属领域**: [[cli]]
 

@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[obra-superpowers]] [[averygan-reclip]] [[mjmirza-app-store-compliance]] [[cathrynlavery-diagram-design]] [[ripienaar-free-for-dev]]
+[[averygan-reclip]] [[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[sveltejs-svelte]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

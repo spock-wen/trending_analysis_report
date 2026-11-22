@@ -34,7 +34,7 @@ VSCode theme based off the easemate IDE and Jetbrains islands theme
 
 ## 相关项目
 
-[[obra-superpowers]] [[zhaoxuya520-reverse-skill]] [[raphire-win11debloat]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
+[[google-labs-code-stitch-skills]] [[hkuds-cli-anything]] [[zhaoxuya520-reverse-skill]] [[zhouxiaoka-autoclip]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

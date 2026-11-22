@@ -38,7 +38,7 @@ Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harne
 
 ## 相关项目
 
-[[obra-superpowers]] [[cathrynlavery-diagram-design]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[google-labs-code-stitch-skills]]
+[[google-labs-code-stitch-skills]] [[anomalyco-hex]] [[hkuds-cli-anything]] [[scenario-labs-skills]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]] [[audio]]
 

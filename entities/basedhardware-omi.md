@@ -34,7 +34,7 @@ AI that sees your screen, listens to your conversations and tells you what to do
 
 ## 相关项目
 
-[[flutter-flutter]] [[flutter-skills]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
+[[flutter-skills]] [[hkuds-cli-anything]] [[localsend-localsend]] [[firecrawl-firecrawl]] [[flutter-flutter]]
 
 **所属领域**: [[ai-agent]]
 

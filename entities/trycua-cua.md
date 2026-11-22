@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[astral-sh-uv]] [[vercel-labs-agent-browser]] [[obra-superpowers]] [[appwrite-appwrite]] [[mjmirza-app-store-compliance]]
+[[likely7-veyra-nrvideo]] [[block-buzz]] [[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

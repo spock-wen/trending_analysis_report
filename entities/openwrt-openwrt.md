@@ -34,7 +34,7 @@ This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[openssl-openssl]] [[mvanhorn-last30days-skill]] [[lz4-lz4]]
+[[mpv-player-mpv]] [[lz4-lz4]] [[hkuds-cli-anything]] [[sveltejs-svelte]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]]
 

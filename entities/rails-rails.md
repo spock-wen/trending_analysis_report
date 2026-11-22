@@ -34,7 +34,7 @@ Ruby on Rails
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[docusealco-docuseal]] [[hkuds-cli-anything]] [[chatwoot-chatwoot]]
+[[hkuds-cli-anything]] [[chatwoot-chatwoot]] [[firecrawl-firecrawl]] [[obra-superpowers]] [[we-promise-sure]]
 
 **所属领域**: [[ai-agent]]
 

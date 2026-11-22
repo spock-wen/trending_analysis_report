@@ -34,7 +34,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ## 相关项目
 
-[[obra-superpowers]] [[tencent-loopforge]] [[juliusbrussee-caveman]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
+[[alibaba-open-code-review]] [[hkuds-cli-anything]] [[tencent-loopforge]] [[firecrawl-firecrawl]] [[getarcaneapp-arcane]]
 
 **所属领域**: [[ai-agent]]
 

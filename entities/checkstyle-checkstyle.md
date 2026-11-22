@@ -35,7 +35,7 @@ Checkstyle is a development tool to help programmers write Java code that adhere
 
 ## 相关项目
 
-[[obra-superpowers]] [[thealgorithms-java]] [[yuliskov-smarttube]] [[nationalsecurityagency-ghidra]] [[hkuds-cli-anything]]
+[[google-labs-code-stitch-skills]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[yuliskov-smarttube]] [[floci-io-floci]]
 
 **所属领域**: [[cli]]
 

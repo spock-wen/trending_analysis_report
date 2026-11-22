@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[paperclipai-paperclip]] [[obra-superpowers]] [[averygan-reclip]] [[google-research-paper-orchestra]] [[cathrynlavery-diagram-design]]
+[[averygan-reclip]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[sveltejs-svelte]] [[ripienaar-free-for-dev]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -38,7 +38,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ## 相关项目
 
-[[obra-superpowers]] [[mjmirza-app-store-compliance]] [[tencent-loopforge]] [[juliusbrussee-caveman]] [[firecrawl-firecrawl]]
+[[alibaba-open-code-review]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[tencent-loopforge]] [[toeverything-affine]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

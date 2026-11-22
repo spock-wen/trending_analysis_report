@@ -36,7 +36,7 @@ local multi-agent harness
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[hkuds-cli-anything]] [[google-labs-code-stitch-skills]]
+[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[hkuds-cli-anything]] [[toeverything-affine]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]]
 

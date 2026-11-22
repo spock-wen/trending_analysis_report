@@ -34,7 +34,7 @@ The library for web and native user interfaces.
 
 ## 相关项目
 
-[[cathrynlavery-diagram-design]] [[affaan-m-ecc]] [[hkuds-cli-anything]] [[jquery-jquery]] [[mvanhorn-last30days-skill]]
+[[jquery-jquery]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[sveltejs-svelte]] [[deanchensj-jiangshan-map]]
 
 **所属领域**: [[web]]
 

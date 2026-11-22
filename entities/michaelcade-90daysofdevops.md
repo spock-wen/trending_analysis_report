@@ -34,7 +34,7 @@ This repository started out as a learning in public project for myself and has n
 
 ## 相关项目
 
-[[ggml-org-ggml]] [[obra-superpowers]] [[mjmirza-app-store-compliance]] [[patchy631-ai-engineering-hub]] [[thu-maic-openmaic]]
+[[google-labs-code-stitch-skills]] [[mattpocock-skills]] [[hkuds-cli-anything]] [[thu-maic-openmaic]] [[nvm-sh-nvm]]
 
 **所属领域**: [[cli]] [[devops]] [[education]]
 

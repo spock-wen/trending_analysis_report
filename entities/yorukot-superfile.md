@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[obra-superpowers]] [[tencent-loopforge]] [[juliusbrussee-caveman]] [[hkuds-cli-anything]] [[google-labs-code-stitch-skills]]
+[[alibaba-open-code-review]] [[google-labs-code-stitch-skills]] [[hkuds-cli-anything]] [[tencent-loopforge]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[cli]]
 

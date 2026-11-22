@@ -34,7 +34,7 @@ A free, open source, and extensible speech-to-text application that works comple
 
 ## 相关项目
 
-[[astral-sh-uv]] [[vercel-labs-agent-browser]] [[obra-superpowers]] [[alishahryar1-free-claude-code]] [[firecrawl-firecrawl]]
+[[anomalyco-hex]] [[block-buzz]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[scenario-labs-skills]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

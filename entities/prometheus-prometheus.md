@@ -35,7 +35,7 @@ The Prometheus monitoring system and time series database.
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[mjmirza-app-store-compliance]] [[tencent-loopforge]] [[elementalsouls-claude-bughunter]] [[firecrawl-firecrawl]]
+[[alibaba-open-code-review]] [[nvidia-skillevaluator]] [[tencent-loopforge]] [[openvinotoolkit-openvino]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[data]] [[devops]]
 

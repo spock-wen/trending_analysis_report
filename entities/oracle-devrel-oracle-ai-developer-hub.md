@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[higgsfield-ai-higgsfield]] [[lyogavin-airllm]] [[obra-superpowers]] [[appwrite-appwrite]] [[patchy631-ai-engineering-hub]]
+[[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[xiaolai-the-craft-of-selfteaching]] [[firecrawl-firecrawl]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

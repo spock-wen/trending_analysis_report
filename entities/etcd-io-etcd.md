@@ -34,7 +34,7 @@ Distributed reliable key-value store for the most critical data of a distributed
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[mjmirza-app-store-compliance]] [[tencent-loopforge]] [[firecrawl-firecrawl]] [[juliusbrussee-caveman]]
+[[alibaba-open-code-review]] [[nvidia-skillevaluator]] [[tencent-loopforge]] [[firecrawl-firecrawl]] [[getarcaneapp-arcane]]
 
 **所属领域**: [[data]]
 

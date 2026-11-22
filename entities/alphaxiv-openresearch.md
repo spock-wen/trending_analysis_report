@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[astral-sh-uv]] [[vercel-labs-agent-browser]] [[paperclipai-paperclip]] [[obra-superpowers]] [[google-research-paper-orchestra]]
+[[block-buzz]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[firecrawl-firecrawl]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

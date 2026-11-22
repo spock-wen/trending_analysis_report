@@ -36,7 +36,7 @@ Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[vorssaint-vorssaint-utils]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
+[[vorssaint-vorssaint-utils]] [[abue-ammar-tinycast]] [[hkuds-cli-anything]] [[xtool-org-xtool]] [[manaflow-ai-cmux]]
 
 **所属领域**: [[ai-agent]]
 

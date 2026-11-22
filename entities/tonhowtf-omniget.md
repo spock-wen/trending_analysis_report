@@ -35,7 +35,7 @@ Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ s
 
 ## 相关项目
 
-[[astral-sh-uv]] [[vercel-labs-agent-browser]] [[ggml-org-ggml]] [[obra-superpowers]] [[patchy631-ai-engineering-hub]]
+[[google-labs-code-stitch-skills]] [[anomalyco-hex]] [[block-buzz]] [[hkuds-cli-anything]] [[thu-maic-openmaic]]
 
 **所属领域**: [[cli]] [[education]] [[audio]]
 

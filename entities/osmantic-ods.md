@@ -35,7 +35,7 @@ Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice
 
 ## 相关项目
 
-[[microsoft-vibevoice]] [[obra-superpowers]] [[alishahryar1-free-claude-code]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
+[[likely7-veyra-nrvideo]] [[anomalyco-hex]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[nvidia-skillevaluator]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

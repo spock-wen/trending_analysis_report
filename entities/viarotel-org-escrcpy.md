@@ -34,5 +34,5 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[sveltejs-svelte]] [[affaan-m-ecc]] [[jquery-jquery]] [[deanchensj-jiangshan-map]]
+[[deanchensj-jiangshan-map]] [[jquery-jquery]] [[affaan-m-ecc]] [[sveltejs-svelte]]
 

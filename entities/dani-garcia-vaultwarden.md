@@ -36,5 +36,5 @@ Unofficial Bitwarden compatible server written in Rust, formerly known as bitwar
 
 ## 相关项目
 
-[[martin-olivier-airgorah]] [[astral-sh-uv]] [[vercel-labs-agent-browser]] [[block-buzz]]
+[[astral-sh-uv]] [[martin-olivier-airgorah]] [[block-buzz]] [[vercel-labs-agent-browser]]
 

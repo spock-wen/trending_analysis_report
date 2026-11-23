@@ -37,7 +37,7 @@ Self-hosted deployment platform
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[openvinotoolkit-openvino]] [[toeverything-affine]] [[firecrawl-firecrawl]]
+[[tracer-cloud-opensre]] [[elementalsouls-claude-bughunter]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[openvinotoolkit-openvino]]
 
 **所属领域**: [[devops]]
 

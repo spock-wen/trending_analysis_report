@@ -38,7 +38,7 @@ Open-source 3D architectural editor with a local CLI, MCP tools, and practical w
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[toeverything-affine]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

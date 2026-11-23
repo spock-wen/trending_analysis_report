@@ -35,7 +35,7 @@ Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linu
 
 ## 相关项目
 
-[[vorssaint-vorssaint-utils]] [[abue-ammar-tinycast]] [[openvinotoolkit-openvino]] [[manaflow-ai-cmux]] [[firecrawl-firecrawl]]
+[[tracer-cloud-opensre]] [[elementalsouls-claude-bughunter]] [[firecrawl-firecrawl]] [[vorssaint-vorssaint-utils]] [[openvinotoolkit-openvino]]
 
 **所属领域**: [[devops]]
 

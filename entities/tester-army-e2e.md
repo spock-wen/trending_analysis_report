@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[likely7-veyra-nrvideo]] [[google-labs-code-stitch-skills]] [[cursor-plugins]] [[hkuds-cli-anything]] [[nvidia-skillevaluator]]
+[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[sveltejs-svelte]] [[likely7-veyra-nrvideo]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[web]] [[image-gen]]
 

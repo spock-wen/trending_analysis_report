@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[thu-maic-openmaic]] [[ggml-org-ggml]] [[zhouxiaoka-autoclip]] [[firecrawl-firecrawl]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[thu-maic-openmaic]] [[firecrawl-firecrawl]] [[ggml-org-ggml]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

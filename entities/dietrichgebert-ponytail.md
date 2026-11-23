@@ -38,7 +38,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ## 相关项目
 
-[[jquery-jquery]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[sveltejs-svelte]] [[firecrawl-firecrawl]]
+[[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[affaan-m-ecc]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]]
 

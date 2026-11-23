@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[likely7-veyra-nrvideo]] [[sonarr-sonarr]] [[nvidia-skillevaluator]] [[nvidia-auto-ontology]] [[k1tbyte-wand-enhancer]]
+[[nvidia-skillevaluator]] [[k1tbyte-wand-enhancer]] [[likely7-veyra-nrvideo]] [[sonarr-sonarr]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[image-gen]]
 

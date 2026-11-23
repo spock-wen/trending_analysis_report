@@ -36,7 +36,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[affaan-m-ecc]] [[zhouxiaoka-autoclip]] [[toeverything-affine]] [[martin-olivier-airgorah]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[affaan-m-ecc]] [[mjmirza-app-store-compliance]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[security]]
 

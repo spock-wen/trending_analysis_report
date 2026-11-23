@@ -35,7 +35,7 @@ Switchyard lets LLM applications route traffic across models and providers while
 
 ## 相关项目
 
-[[block-buzz]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[obra-superpowers]] [[vercel-labs-agent-browser]]
+[[hkuds-cli-anything]] [[astral-sh-uv]] [[firecrawl-firecrawl]] [[obra-superpowers]] [[martin-olivier-airgorah]]
 
 **所属领域**: [[ai-agent]]
 

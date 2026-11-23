@@ -36,7 +36,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[hkuds-cli-anything]] [[zhaoxuya520-reverse-skill]] [[zhouxiaoka-autoclip]] [[firecrawl-firecrawl]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[bwya77-vscode-dark-islands]] [[firecrawl-firecrawl]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

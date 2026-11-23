@@ -34,7 +34,7 @@ A feature-rich command-line audio/video downloader
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[scenario-labs-skills]] [[zhouxiaoka-autoclip]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[microsoft-vibevoice]] [[obra-superpowers]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[cli]] [[audio]]
 

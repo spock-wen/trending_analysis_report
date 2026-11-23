@@ -36,7 +36,7 @@ Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harnes
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[hkuds-cli-anything]] [[toeverything-affine]] [[firecrawl-firecrawl]]
+[[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[obra-superpowers]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

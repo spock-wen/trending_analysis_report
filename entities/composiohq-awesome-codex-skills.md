@@ -37,7 +37,7 @@ A curated list of practical Codex skills for automating workflows across the Cod
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[firecrawl-firecrawl]] [[obra-superpowers]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[firecrawl-firecrawl]] [[obra-superpowers]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

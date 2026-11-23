@@ -38,7 +38,7 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[yuliskov-smarttube]] [[floci-io-floci]] [[obra-superpowers]]
+[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[mjmirza-app-store-compliance]] [[firecrawl-firecrawl]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

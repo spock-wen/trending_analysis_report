@@ -35,5 +35,5 @@ Easily and securely send things from one computer to another 🐊 📦
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[getarcaneapp-arcane]] [[tencent-loopforge]] [[juliusbrussee-caveman]]
+[[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[tencent-loopforge]] [[getarcaneapp-arcane]]
 

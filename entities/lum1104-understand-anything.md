@@ -38,7 +38,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[hkuds-cli-anything]] [[thu-maic-openmaic]] [[ggml-org-ggml]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[thu-maic-openmaic]] [[firecrawl-firecrawl]] [[cursor-plugins]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

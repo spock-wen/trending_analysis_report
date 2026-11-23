@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[block-buzz]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[firecrawl-firecrawl]] [[obra-superpowers]]
+[[hkuds-cli-anything]] [[affaan-m-ecc]] [[astral-sh-uv]] [[firecrawl-firecrawl]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

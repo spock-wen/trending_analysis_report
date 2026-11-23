@@ -38,7 +38,7 @@ The open-source app everyone uses to manage agents at work
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[zhouxiaoka-autoclip]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[affaan-m-ecc]] [[firecrawl-firecrawl]] [[cursor-plugins]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[science]]
 

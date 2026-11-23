@@ -34,7 +34,7 @@ Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网�
 
 ## 相关项目
 
-[[averygan-reclip]] [[hkuds-cli-anything]] [[sveltejs-svelte]] [[ripienaar-free-for-dev]] [[firecrawl-firecrawl]]
+[[hkuds-cli-anything]] [[sveltejs-svelte]] [[firecrawl-firecrawl]] [[obra-superpowers]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -38,7 +38,7 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 
 ## 相关项目
 
-[[jquery-jquery]] [[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[affaan-m-ecc]] [[sveltejs-svelte]]
+[[nvidia-skillevaluator]] [[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[affaan-m-ecc]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[data]]
 

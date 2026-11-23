@@ -34,7 +34,7 @@ Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud model
 
 ## 相关项目
 
-[[jquery-jquery]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[scenario-labs-skills]] [[affaan-m-ecc]]
+[[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[affaan-m-ecc]] [[hkuds-cli-anything]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[ai-agent]] [[security]] [[audio]]
 

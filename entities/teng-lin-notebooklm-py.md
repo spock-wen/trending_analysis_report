@@ -35,7 +35,7 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[sveltejs-svelte]] [[firecrawl-firecrawl]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[sveltejs-svelte]] [[firecrawl-firecrawl]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

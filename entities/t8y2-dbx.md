@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[block-buzz]] [[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[zhouxiaoka-autoclip]]
+[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[mjmirza-app-store-compliance]] [[astral-sh-uv]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

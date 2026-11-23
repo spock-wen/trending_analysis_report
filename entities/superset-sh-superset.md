@@ -34,7 +34,7 @@ IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your mach
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[hkuds-cli-anything]] [[toeverything-affine]] [[firecrawl-firecrawl]]
+[[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[obra-superpowers]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

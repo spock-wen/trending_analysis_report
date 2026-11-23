@@ -37,7 +37,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[hkuds-cli-anything]] [[toeverything-affine]] [[sveltejs-svelte]]
+[[hkuds-cli-anything]] [[sveltejs-svelte]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

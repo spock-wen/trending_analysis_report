@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[likely7-veyra-nrvideo]] [[averygan-reclip]] [[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[nvidia-auto-ontology]]
+[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[sveltejs-svelte]] [[alchaincyf-huashu-design]] [[likely7-veyra-nrvideo]]
 
 **所属领域**: [[web]] [[image-gen]]
 

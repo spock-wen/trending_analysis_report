@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[mpv-player-mpv]] [[lz4-lz4]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]]
+[[nginx-nginx]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[firecrawl-firecrawl]] [[mpv-player-mpv]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -34,5 +34,5 @@ b站会员购购票辅助工具
 
 ## 相关项目
 
-[[jingyaogong-minimind]] [[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[jingyaogong-minimind]]
 

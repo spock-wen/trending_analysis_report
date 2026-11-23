@@ -36,7 +36,7 @@ Open Source AI trading agent that operates autonomously across 1000+ markets - P
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[hkuds-cli-anything]] [[toeverything-affine]] [[firecrawl-firecrawl]]
+[[hkuds-cli-anything]] [[elementalsouls-claude-bughunter]] [[agricidaniel-claude-seo]] [[firecrawl-firecrawl]] [[cursor-plugins]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

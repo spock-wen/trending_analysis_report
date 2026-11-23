@@ -38,7 +38,7 @@ A specialized Claude Code workspace for creating long-form, SEO-optimized blog c
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[affaan-m-ecc]] [[zhouxiaoka-autoclip]] [[firecrawl-firecrawl]] [[obra-superpowers]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[ai-agent]] [[erp]] [[science]]
 

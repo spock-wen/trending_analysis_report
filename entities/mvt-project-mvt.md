@@ -37,5 +37,5 @@ MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devi
 
 ## 相关项目
 
-[[jingyaogong-minimind]] [[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[jingyaogong-minimind]]
 

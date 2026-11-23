@@ -38,7 +38,7 @@ Give your agent CAD superpowers.
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[firecrawl-firecrawl]] [[obra-superpowers]] [[agricidaniel-claude-seo]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[elementalsouls-claude-bughunter]] [[agricidaniel-claude-seo]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

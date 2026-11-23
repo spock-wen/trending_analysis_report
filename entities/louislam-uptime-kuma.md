@@ -35,7 +35,7 @@ A fancy self-hosted monitoring tool
 
 ## 相关项目
 
-[[jquery-jquery]] [[affaan-m-ecc]] [[openvinotoolkit-openvino]] [[sveltejs-svelte]] [[firecrawl-firecrawl]]
+[[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[affaan-m-ecc]] [[tracer-cloud-opensre]] [[elementalsouls-claude-bughunter]]
 
 **所属领域**: [[devops]]
 

@@ -35,7 +35,7 @@ Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[thu-maic-openmaic]] [[ggml-org-ggml]] [[xiaolai-the-craft-of-selfteaching]] [[firecrawl-firecrawl]]
+[[hkuds-cli-anything]] [[thu-maic-openmaic]] [[lyogavin-airllm]] [[firecrawl-firecrawl]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

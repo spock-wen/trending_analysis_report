@@ -38,5 +38,5 @@ The most RAM efficient harness
 
 ## 相关项目
 
-[[astral-sh-uv]] [[martin-olivier-airgorah]] [[block-buzz]] [[vercel-labs-agent-browser]]
+[[vercel-labs-agent-browser]] [[martin-olivier-airgorah]] [[block-buzz]] [[astral-sh-uv]]
 

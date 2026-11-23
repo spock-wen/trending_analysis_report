@@ -34,7 +34,7 @@ Agent-driven research knowledge base. Agents collect, search, and synthesize web
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[affaan-m-ecc]] [[zhouxiaoka-autoclip]] [[sveltejs-svelte]] [[firecrawl-firecrawl]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[sveltejs-svelte]] [[affaan-m-ecc]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -34,7 +34,7 @@ Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE
 
 ## 相关项目
 
-[[likely7-veyra-nrvideo]] [[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[affaan-m-ecc]] [[zhouxiaoka-autoclip]]
+[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[affaan-m-ecc]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[ai-agent]] [[security]] [[image-gen]]
 

@@ -38,7 +38,7 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[hkuds-cli-anything]] [[ggml-org-ggml]] [[zhouxiaoka-autoclip]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[education]]
 

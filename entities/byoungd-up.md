@@ -35,7 +35,7 @@ An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶�
 
 ## 相关项目
 
-[[jquery-jquery]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[sveltejs-svelte]] [[firecrawl-firecrawl]]
+[[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[affaan-m-ecc]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,5 +34,5 @@ An extremely fast Python package and project manager, written in Rust.
 
 ## 相关项目
 
-[[martin-olivier-airgorah]] [[block-buzz]] [[vercel-labs-agent-browser]]
+[[vercel-labs-agent-browser]] [[martin-olivier-airgorah]] [[block-buzz]]
 

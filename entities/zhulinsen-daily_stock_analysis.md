@@ -37,7 +37,7 @@ LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、�
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[zhouxiaoka-autoclip]] [[firecrawl-firecrawl]] [[obra-superpowers]]
+[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[mjmirza-app-store-compliance]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

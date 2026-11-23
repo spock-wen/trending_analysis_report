@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[mahlernim-google-timeline-visualizer]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[obra-superpowers]] [[embabel-embabel-agent]]
+[[hkuds-cli-anything]] [[mahlernim-google-timeline-visualizer]] [[firecrawl-firecrawl]] [[obra-superpowers]] [[bannedbook-fanqiang]]
 
 **所属领域**: [[ai-agent]]
 

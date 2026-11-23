@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[zhouxiaoka-autoclip]] [[toeverything-affine]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[affaan-m-ecc]] [[mjmirza-app-store-compliance]] [[bwya77-vscode-dark-islands]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

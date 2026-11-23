@@ -38,7 +38,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[xiaolai-the-craft-of-selfteaching]] [[firecrawl-firecrawl]] [[obra-superpowers]] [[patchy631-ai-engineering-hub]]
+[[hkuds-cli-anything]] [[lyogavin-airllm]] [[firecrawl-firecrawl]] [[obra-superpowers]] [[xiaolai-the-craft-of-selfteaching]]
 
 **所属领域**: [[ai-agent]]
 

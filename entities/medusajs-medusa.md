@@ -34,7 +34,7 @@ The world's most flexible commerce platform.
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[toeverything-affine]] [[firecrawl-firecrawl]] [[obra-superpowers]]
+[[elementalsouls-claude-bughunter]] [[agricidaniel-claude-seo]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

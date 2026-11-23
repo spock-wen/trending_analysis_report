@@ -37,5 +37,5 @@ Meshery, the cloud native manager
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[toeverything-affine]] [[firecrawl-firecrawl]]
+[[google-labs-code-stitch-skills]] [[toeverything-affine]] [[firecrawl-firecrawl]] [[cursor-plugins]]
 

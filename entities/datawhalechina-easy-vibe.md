@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[jquery-jquery]] [[thu-maic-openmaic]] [[nvidia-skillevaluator]] [[affaan-m-ecc]] [[sveltejs-svelte]]
+[[nvidia-skillevaluator]] [[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[affaan-m-ecc]] [[thu-maic-openmaic]]
 
 **所属领域**: [[data]] [[education]]
 

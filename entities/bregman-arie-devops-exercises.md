@@ -34,7 +34,7 @@ Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, 
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[zhouxiaoka-autoclip]] [[openvinotoolkit-openvino]] [[firecrawl-firecrawl]]
+[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[tracer-cloud-opensre]] [[elementalsouls-claude-bughunter]]
 
 **所属领域**: [[data]] [[devops]]
 

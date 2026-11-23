@@ -38,7 +38,7 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 
 ## 相关项目
 
-[[obra-superpowers]] [[google-labs-code-stitch-skills]] [[zhouxiaoka-autoclip]] [[hkuds-cli-anything]]
+[[obra-superpowers]] [[google-labs-code-stitch-skills]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[cli]]
 

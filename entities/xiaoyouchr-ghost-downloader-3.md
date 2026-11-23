@@ -1,20 +1,20 @@
 ---
 title: "XiaoYouChR/Ghost-Downloader-3"
 created: 2026-11-20
-updated: 2026-11-23
-last_active: 2026-11-23
+updated: 2026-11-24
+last_active: 2026-11-24
 type: tool
 tags: [python, rising]
-sources: [raw/trending/2026-11-23.json]
+sources: [raw/trending/2026-11-24.json]
 confidence: high
-trending_count_daily: 4
+trending_count_daily: 5
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 4
+consecutive_days: 5
 first_trending: 2026-11-20
-last_trending: 2026-11-23
+last_trending: 2026-11-24
 peak_rank: 15
-total_stars: 15085
+total_stars: 16262
 language: "Python"
 ---
 
@@ -23,13 +23,14 @@ language: "Python"
 The only downloader you need. 下载器的集大成者。
 
 - 语言: Python
-- 上榜次数: 4 次
-- 连续上榜: 4 天
+- 上榜次数: 5 次
+- 连续上榜: 5 天
 - 最高排名: #15
 - 链接: [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3)
 
 ## 上榜历史
 
+  - 2026-11-24: #15, +1078⭐
   - 2026-11-23: #15, +690⭐
   - 2026-11-22: #15, +774⭐
   - 2026-11-21: #15, +1082⭐
@@ -37,5 +38,5 @@ The only downloader you need. 下载器的集大成者。
 
 ## 相关项目
 
-[[jingyaogong-minimind]] [[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[jingyaogong-minimind]]
 

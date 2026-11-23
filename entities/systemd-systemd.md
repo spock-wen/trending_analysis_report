@@ -34,5 +34,5 @@ The systemd System and Service Manager
 
 ## 相关项目
 
-[[lz4-lz4]] [[mpv-player-mpv]] [[nginx-nginx]] [[openssl-openssl]]
+[[nginx-nginx]] [[openssl-openssl]] [[lz4-lz4]] [[mpv-player-mpv]]
 

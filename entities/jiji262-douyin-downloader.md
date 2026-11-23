@@ -34,7 +34,7 @@ A practical Douyin downloader for both single-item and profile batch downloads, 
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[zhouxiaoka-autoclip]] [[sveltejs-svelte]] [[firecrawl-firecrawl]]
+[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[sveltejs-svelte]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[web]] [[data]]
 

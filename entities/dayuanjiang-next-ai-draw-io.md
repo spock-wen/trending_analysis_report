@@ -34,7 +34,7 @@ A next.js web application that integrates AI capabilities with draw.io diagrams.
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[toeverything-affine]]
+[[hkuds-cli-anything]] [[sveltejs-svelte]] [[zhouxiaoka-autoclip]] [[firecrawl-firecrawl]] [[cursor-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

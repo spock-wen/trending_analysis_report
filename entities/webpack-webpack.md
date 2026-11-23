@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[likely7-veyra-nrvideo]] [[jquery-jquery]] [[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[affaan-m-ecc]]
+[[nvidia-skillevaluator]] [[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[affaan-m-ecc]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[image-gen]]
 

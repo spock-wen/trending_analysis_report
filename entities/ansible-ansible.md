@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[sveltejs-svelte]] [[openvinotoolkit-openvino]] [[firecrawl-firecrawl]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[sveltejs-svelte]] [[tracer-cloud-opensre]] [[elementalsouls-claude-bughunter]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

@@ -34,7 +34,7 @@ This repository started out as a learning in public project for myself and has n
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[mattpocock-skills]] [[hkuds-cli-anything]] [[thu-maic-openmaic]] [[nvm-sh-nvm]]
+[[hkuds-cli-anything]] [[nvm-sh-nvm]] [[zhouxiaoka-autoclip]] [[mattpocock-skills]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[cli]] [[devops]] [[education]]
 

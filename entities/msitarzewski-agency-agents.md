@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[mattpocock-skills]] [[hkuds-cli-anything]] [[nvm-sh-nvm]] [[zhouxiaoka-autoclip]]
+[[hkuds-cli-anything]] [[nvm-sh-nvm]] [[sveltejs-svelte]] [[mattpocock-skills]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[jquery-jquery]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[sveltejs-svelte]] [[toeverything-affine]]
+[[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[affaan-m-ecc]] [[hkuds-cli-anything]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

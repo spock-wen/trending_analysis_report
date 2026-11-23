@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[zhouxiaoka-autoclip]] [[sveltejs-svelte]] [[openvinotoolkit-openvino]]
+[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[sveltejs-svelte]] [[tracer-cloud-opensre]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

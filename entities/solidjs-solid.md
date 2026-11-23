@@ -34,5 +34,5 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[toeverything-affine]] [[firecrawl-firecrawl]]
+[[google-labs-code-stitch-skills]] [[toeverything-affine]] [[firecrawl-firecrawl]] [[cursor-plugins]]
 

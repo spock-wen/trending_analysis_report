@@ -38,7 +38,7 @@ Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[toeverything-affine]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

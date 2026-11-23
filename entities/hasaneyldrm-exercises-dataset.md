@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[averygan-reclip]] [[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[sveltejs-svelte]] [[ripienaar-free-for-dev]]
+[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[sveltejs-svelte]] [[alchaincyf-huashu-design]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

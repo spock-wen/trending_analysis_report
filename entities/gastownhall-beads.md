@@ -35,7 +35,7 @@ Beads - A memory upgrade for your coding agent
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[hkuds-cli-anything]] [[tencent-loopforge]] [[firecrawl-firecrawl]] [[getarcaneapp-arcane]]
+[[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[alibaba-open-code-review]] [[obra-superpowers]] [[juliusbrussee-caveman]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ ONNX Runtime: cross-platform, high performance ML inferencing and training accel
 
 ## 相关项目
 
-[[likely7-veyra-nrvideo]] [[hkuds-cli-anything]] [[ggml-org-llama.cpp]] [[openvinotoolkit-openvino]] [[firecrawl-firecrawl]]
+[[hkuds-cli-anything]] [[likely7-veyra-nrvideo]] [[firecrawl-firecrawl]] [[obra-superpowers]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[ai-agent]]
 

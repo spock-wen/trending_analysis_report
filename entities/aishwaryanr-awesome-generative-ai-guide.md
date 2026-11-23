@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[averygan-reclip]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[sveltejs-svelte]] [[ripienaar-free-for-dev]]
+[[hkuds-cli-anything]] [[sveltejs-svelte]] [[affaan-m-ecc]] [[alchaincyf-huashu-design]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

@@ -36,7 +36,7 @@ A unified library of SOTA model optimization techniques like quantization, disti
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[thu-maic-openmaic]] [[ggml-org-ggml]] [[zhouxiaoka-autoclip]] [[openvinotoolkit-openvino]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[tracer-cloud-opensre]] [[elementalsouls-claude-bughunter]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

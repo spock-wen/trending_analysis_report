@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[likely7-veyra-nrvideo]] [[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[zhouxiaoka-autoclip]] [[nvidia-auto-ontology]]
+[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[likely7-veyra-nrvideo]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

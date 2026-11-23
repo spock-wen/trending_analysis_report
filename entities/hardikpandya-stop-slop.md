@@ -38,7 +38,7 @@ A skill file for removing AI tells from prose
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[obra-superpowers]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]]
 

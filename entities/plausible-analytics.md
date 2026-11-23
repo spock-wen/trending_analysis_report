@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[teslamate-org-teslamate]] [[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[affaan-m-ecc]] [[sveltejs-svelte]]
+[[nvidia-skillevaluator]] [[teslamate-org-teslamate]] [[hkuds-cli-anything]] [[sveltejs-svelte]] [[affaan-m-ecc]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

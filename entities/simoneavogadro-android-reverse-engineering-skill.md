@@ -35,7 +35,7 @@ Claude Code skill to support Android app's reverse engineering
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[mattpocock-skills]] [[hkuds-cli-anything]] [[nvm-sh-nvm]] [[zhouxiaoka-autoclip]]
+[[hkuds-cli-anything]] [[nvm-sh-nvm]] [[zhouxiaoka-autoclip]] [[mattpocock-skills]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-11-23 | 总页面：923
+> 最后更新：2026-11-24 | 总页面：923
 
 ## Entities
 

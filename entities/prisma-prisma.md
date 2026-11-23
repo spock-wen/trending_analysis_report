@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[likely7-veyra-nrvideo]] [[google-labs-code-stitch-skills]] [[cursor-plugins]] [[nvidia-skillevaluator]] [[nvidia-auto-ontology]]
+[[nvidia-skillevaluator]] [[mjmirza-app-store-compliance]] [[likely7-veyra-nrvideo]] [[firecrawl-firecrawl]] [[cursor-plugins]]
 
 **所属领域**: [[data]] [[image-gen]]
 

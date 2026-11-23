@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[likely7-veyra-nrvideo]] [[jquery-jquery]] [[anomalyco-hex]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]]
+[[nvidia-skillevaluator]] [[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[affaan-m-ecc]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

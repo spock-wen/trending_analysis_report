@@ -36,7 +36,7 @@ Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[toeverything-affine]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[tracer-cloud-opensre]] [[elementalsouls-claude-bughunter]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

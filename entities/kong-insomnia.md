@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[toeverything-affine]]
+[[hkuds-cli-anything]] [[sveltejs-svelte]] [[zhouxiaoka-autoclip]] [[firecrawl-firecrawl]] [[cursor-plugins]]
 
 **所属领域**: [[web]] [[cli]]
 

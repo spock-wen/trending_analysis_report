@@ -35,7 +35,7 @@ A TTS that fits in your CPU (and pocket)
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[scenario-labs-skills]] [[zhouxiaoka-autoclip]] [[microsoft-vibevoice]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[firecrawl-firecrawl]] [[microsoft-vibevoice]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

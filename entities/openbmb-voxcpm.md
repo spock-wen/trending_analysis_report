@@ -38,7 +38,7 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
 ## 相关项目
 
-[[likely7-veyra-nrvideo]] [[anomalyco-hex]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]] [[nvidia-skillevaluator]]
+[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[likely7-veyra-nrvideo]] [[microsoft-vibevoice]]
 
 **所属领域**: [[image-gen]] [[audio]]
 

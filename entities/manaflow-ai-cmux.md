@@ -37,7 +37,7 @@ Open source Ghostty-based macOS terminal with vertical tabs and notifications fo
 
 ## 相关项目
 
-[[vorssaint-vorssaint-utils]] [[google-labs-code-stitch-skills]] [[abue-ammar-tinycast]] [[hkuds-cli-anything]] [[xtool-org-xtool]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[xtool-org-xtool]] [[firecrawl-firecrawl]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

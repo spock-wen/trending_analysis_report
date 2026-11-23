@@ -34,7 +34,7 @@ eBPF-based Networking, Security, and Observability
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[affaan-m-ecc]] [[tencent-loopforge]] [[openvinotoolkit-openvino]] [[toeverything-affine]]
+[[tracer-cloud-opensre]] [[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[mjmirza-app-store-compliance]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[devops]] [[security]]
 

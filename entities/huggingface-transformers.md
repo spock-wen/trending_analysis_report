@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[anomalyco-hex]] [[hkuds-cli-anything]] [[thu-maic-openmaic]] [[alishahryar1-free-claude-code]] [[scenario-labs-skills]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[thu-maic-openmaic]] [[firecrawl-firecrawl]] [[ggml-org-ggml]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

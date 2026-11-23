@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[vorssaint-vorssaint-utils]] [[google-labs-code-stitch-skills]] [[abue-ammar-tinycast]] [[hkuds-cli-anything]] [[xtool-org-xtool]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[xtool-org-xtool]] [[obra-superpowers]] [[vorssaint-vorssaint-utils]]
 
 **所属领域**: [[cli]]
 

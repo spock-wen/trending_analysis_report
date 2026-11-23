@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[averygan-reclip]] [[hkuds-cli-anything]] [[sveltejs-svelte]] [[ripienaar-free-for-dev]] [[cathrynlavery-diagram-design]]
+[[hkuds-cli-anything]] [[sveltejs-svelte]] [[alchaincyf-huashu-design]] [[cathrynlavery-diagram-design]] [[averygan-reclip]]
 
 **所属领域**: [[web]]
 

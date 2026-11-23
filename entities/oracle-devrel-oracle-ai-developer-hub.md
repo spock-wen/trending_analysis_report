@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[xiaolai-the-craft-of-selfteaching]] [[firecrawl-firecrawl]] [[obra-superpowers]]
+[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[lyogavin-airllm]] [[mjmirza-app-store-compliance]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

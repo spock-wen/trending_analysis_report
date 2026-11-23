@@ -35,7 +35,7 @@ Free, open-source web app for learning about ontologies and Microsoft Fabric IQ.
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[hkuds-cli-anything]] [[thu-maic-openmaic]] [[ggml-org-ggml]]
+[[hkuds-cli-anything]] [[sveltejs-svelte]] [[thu-maic-openmaic]] [[firecrawl-firecrawl]] [[cursor-plugins]]
 
 **所属领域**: [[web]] [[education]]
 

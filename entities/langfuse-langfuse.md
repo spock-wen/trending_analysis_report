@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[openvinotoolkit-openvino]]
+[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[tracer-cloud-opensre]] [[elementalsouls-claude-bughunter]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

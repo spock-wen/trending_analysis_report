@@ -35,7 +35,7 @@ A collection of DESIGN.md files analysis by popular brand design systems. Drop o
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[obra-superpowers]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]]
 

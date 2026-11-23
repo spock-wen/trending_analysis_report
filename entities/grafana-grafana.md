@@ -34,7 +34,7 @@ The open and composable observability and data visualization platform. Visualize
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[nvidia-skillevaluator]] [[openvinotoolkit-openvino]] [[toeverything-affine]]
+[[nvidia-skillevaluator]] [[tracer-cloud-opensre]] [[elementalsouls-claude-bughunter]] [[mjmirza-app-store-compliance]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[data]] [[devops]]
 

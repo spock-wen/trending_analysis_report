@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[michaelcade-90daysofdevops]] [[hkuds-cli-anything]] [[thu-maic-openmaic]] [[affaan-m-ecc]] [[ggml-org-ggml]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[affaan-m-ecc]] [[thu-maic-openmaic]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

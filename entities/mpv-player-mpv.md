@@ -34,7 +34,7 @@ language: "C"
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[lz4-lz4]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[obra-superpowers]]
+[[nginx-nginx]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[openssl-openssl]] [[obra-superpowers]]
 
 **所属领域**: [[cli]]
 

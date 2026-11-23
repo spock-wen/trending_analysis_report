@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[zhouxiaoka-autoclip]] [[firecrawl-firecrawl]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[elementalsouls-claude-bughunter]] [[affaan-m-ecc]] [[agricidaniel-claude-seo]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

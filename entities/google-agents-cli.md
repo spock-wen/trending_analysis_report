@@ -34,7 +34,7 @@ The CLI and skills that turn any coding assistant into an expert at creating, ev
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[openvinotoolkit-openvino]] [[firecrawl-firecrawl]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[tracer-cloud-opensre]] [[elementalsouls-claude-bughunter]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]]
 

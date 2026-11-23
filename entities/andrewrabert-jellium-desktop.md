@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[block-buzz]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[obra-superpowers]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[astral-sh-uv]] [[obra-superpowers]] [[martin-olivier-airgorah]]
 
 **所属领域**: [[cli]]
 

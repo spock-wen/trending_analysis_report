@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[nvidia-skillevaluator]] [[affaan-m-ecc]] [[zhouxiaoka-autoclip]] [[paperclipai-paperclip]]
+[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[affaan-m-ecc]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[data]] [[science]]
 

@@ -35,5 +35,5 @@ git push no-mistakes
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[getarcaneapp-arcane]] [[tencent-loopforge]] [[juliusbrussee-caveman]]
+[[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[tencent-loopforge]] [[getarcaneapp-arcane]]
 

@@ -35,5 +35,5 @@ Smart PVR for newsgroup and bittorrent users.
 
 ## 相关项目
 
-[[jiafeimiao-k-cat-discimagestudio]] [[k1tbyte-wand-enhancer]] [[ntdevlabs-tiny11builder]]
+[[ntdevlabs-tiny11builder]] [[jiafeimiao-k-cat-discimagestudio]] [[k1tbyte-wand-enhancer]]
 

@@ -36,7 +36,7 @@ Multi-tier framework for evaluating AI agent skills and plugins with quality gat
 
 ## 相关项目
 
-[[likely7-veyra-nrvideo]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[nvidia-auto-ontology]] [[firecrawl-firecrawl]]
+[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[mjmirza-app-store-compliance]] [[likely7-veyra-nrvideo]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

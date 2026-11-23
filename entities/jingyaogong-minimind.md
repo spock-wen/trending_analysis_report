@@ -1,20 +1,20 @@
 ---
 title: "jingyaogong/minimind"
 created: 2026-03-24
-updated: 2026-11-23
-last_active: 2026-11-23
+updated: 2026-11-24
+last_active: 2026-11-24
 type: tool
 tags: [python, ai-agent, rising]
-sources: [raw/trending/2026-11-23.json]
+sources: [raw/trending/2026-11-24.json]
 confidence: high
-trending_count_daily: 8
+trending_count_daily: 9
 trending_count_weekly: 1
 trending_count_monthly: 0
-consecutive_days: 4
+consecutive_days: 5
 first_trending: 2026-03-24
-last_trending: 2026-11-23
+last_trending: 2026-11-24
 peak_rank: 4
-total_stars: 68621
+total_stars: 69417
 language: "Python"
 ---
 
@@ -23,18 +23,18 @@ language: "Python"
 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
 
 - 语言: Python
-- 上榜次数: 8 次
-- 连续上榜: 4 天
+- 上榜次数: 9 次
+- 连续上榜: 5 天
 - 最高排名: #4
 - 链接: [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
 
 ## 上榜历史
 
+  - 2026-11-24: #4, +828⭐
   - 2026-11-23: #4, +473⭐
   - 2026-11-22: #4, +488⭐
   - 2026-11-21: #4, +841⭐
   - 2026-11-20: #4, +301⭐
-  - 2026-11-18: #14, +188⭐
 
 ## 相关项目
 

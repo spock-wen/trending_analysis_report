@@ -36,5 +36,5 @@ Light, fluffy, and always free - The AWS Local Emulator alternative
 
 ## 相关项目
 
-[[nationalsecurityagency-ghidra]] [[yuliskov-smarttube]] [[thealgorithms-java]]
+[[thealgorithms-java]] [[nationalsecurityagency-ghidra]] [[yuliskov-smarttube]]
 

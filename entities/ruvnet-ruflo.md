@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[hkuds-cli-anything]] [[thu-maic-openmaic]] [[ggml-org-ggml]]
+[[hkuds-cli-anything]] [[tracer-cloud-opensre]] [[elementalsouls-claude-bughunter]] [[thu-maic-openmaic]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

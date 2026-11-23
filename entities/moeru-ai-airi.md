@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[anomalyco-hex]] [[hkuds-cli-anything]] [[alishahryar1-free-claude-code]]
+[[hkuds-cli-anything]] [[sveltejs-svelte]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

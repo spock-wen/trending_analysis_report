@@ -1,7 +1,7 @@
 ---
 title: "ai-agent"
 created: 2026-05-20
-updated: 2026-11-23
+updated: 2026-11-24
 type: concept
 tags: [ai-agent]
 confidence: medium

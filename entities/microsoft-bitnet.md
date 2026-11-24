@@ -36,7 +36,7 @@ Official inference framework for 1-bit LLMs
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[likely7-veyra-nrvideo]] [[firecrawl-firecrawl]] [[obra-superpowers]] [[ggml-org-llama.cpp]]
+[[openvinotoolkit-openvino]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[ggml-org-llama.cpp]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

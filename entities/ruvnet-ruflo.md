@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[tracer-cloud-opensre]] [[elementalsouls-claude-bughunter]] [[thu-maic-openmaic]] [[firecrawl-firecrawl]]
+[[tracer-cloud-opensre]] [[openvinotoolkit-openvino]] [[google-labs-code-stitch-skills]] [[elementalsouls-claude-bughunter]] [[patchy631-ai-engineering-hub]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

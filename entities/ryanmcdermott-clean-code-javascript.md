@@ -34,5 +34,5 @@ Clean Code concepts adapted for JavaScript
 
 ## 相关项目
 
-[[jquery-jquery]] [[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[affaan-m-ecc]]
+[[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[affaan-m-ecc]] [[jquery-jquery]]
 

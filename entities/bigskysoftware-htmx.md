@@ -34,7 +34,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[affaan-m-ecc]] [[hkuds-cli-anything]] [[cathrynlavery-diagram-design]]
+[[deanchensj-jiangshan-map]] [[affaan-m-ecc]] [[cathrynlavery-diagram-design]] [[jquery-jquery]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]]
 

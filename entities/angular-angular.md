@@ -35,7 +35,7 @@ Deliver web apps with confidence 🚀
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[sveltejs-svelte]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[cathrynlavery-diagram-design]]
+[[google-labs-code-stitch-skills]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[sveltejs-svelte]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]]
 

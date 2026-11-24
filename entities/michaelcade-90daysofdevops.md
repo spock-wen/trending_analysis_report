@@ -34,7 +34,7 @@ This repository started out as a learning in public project for myself and has n
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[nvm-sh-nvm]] [[zhouxiaoka-autoclip]] [[mattpocock-skills]] [[mjmirza-app-store-compliance]]
+[[tracer-cloud-opensre]] [[openvinotoolkit-openvino]] [[nvm-sh-nvm]] [[google-labs-code-stitch-skills]] [[elementalsouls-claude-bughunter]]
 
 **所属领域**: [[cli]] [[devops]] [[education]]
 

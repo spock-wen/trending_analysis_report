@@ -35,5 +35,5 @@ A cross-platform Electron Desktop App to stream and download any Movie, TV Serie
 
 ## 相关项目
 
-[[jquery-jquery]] [[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[affaan-m-ecc]]
+[[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[affaan-m-ecc]] [[jquery-jquery]]
 

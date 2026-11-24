@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[localsend-localsend]] [[hkuds-cli-anything]] [[flutter-flutter]] [[firecrawl-firecrawl]] [[obra-superpowers]]
+[[localsend-localsend]] [[obra-superpowers]] [[flutter-flutter]] [[firecrawl-firecrawl]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]]
 

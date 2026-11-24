@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[teslamate-org-teslamate]] [[hkuds-cli-anything]] [[sveltejs-svelte]] [[affaan-m-ecc]]
+[[toeverything-affine]] [[affaan-m-ecc]] [[appwrite-appwrite]] [[agentjido-jido]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

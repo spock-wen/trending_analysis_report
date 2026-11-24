@@ -34,7 +34,7 @@ A WiFi security auditing software
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[affaan-m-ecc]] [[mjmirza-app-store-compliance]] [[astral-sh-uv]] [[firecrawl-firecrawl]]
+[[affaan-m-ecc]] [[vercel-labs-agent-browser]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

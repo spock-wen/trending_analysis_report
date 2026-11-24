@@ -34,7 +34,7 @@ FastAPI framework, high performance, easy to learn, fast to code, ready for prod
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[thu-maic-openmaic]] [[ggml-org-ggml]] [[mvanhorn-last30days-skill]]
+[[jingyaogong-minimind]] [[patchy631-ai-engineering-hub]] [[zhouxiaoka-autoclip]] [[ggml-org-ggml]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[education]]
 

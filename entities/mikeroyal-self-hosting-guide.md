@@ -34,7 +34,7 @@ Self-Hosting Guide. Learn all about locally hosting (on premises & private web s
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[sveltejs-svelte]] [[thu-maic-openmaic]] [[firecrawl-firecrawl]] [[obra-superpowers]]
+[[patchy631-ai-engineering-hub]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[ggml-org-ggml]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[ai-agent]] [[web]] [[education]]
 

@@ -36,7 +36,7 @@ Truly independent web browser
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[sveltejs-svelte]] [[likely7-veyra-nrvideo]] [[cathrynlavery-diagram-design]] [[ggml-org-llama.cpp]]
+[[openvinotoolkit-openvino]] [[ggml-org-llama.cpp]] [[hkuds-cli-anything]] [[ggml-org-ggml]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]]
 

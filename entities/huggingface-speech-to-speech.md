@@ -37,7 +37,7 @@ Build local voice agents with open-source models
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[firecrawl-firecrawl]] [[microsoft-vibevoice]] [[obra-superpowers]]
+[[jingyaogong-minimind]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[microsoft-vibevoice]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

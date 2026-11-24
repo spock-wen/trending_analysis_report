@@ -34,7 +34,7 @@ Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[mjmirza-app-store-compliance]] [[firecrawl-firecrawl]]
+[[jingyaogong-minimind]] [[appwrite-appwrite]] [[firecrawl-firecrawl]] [[zhouxiaoka-autoclip]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[data]]
 

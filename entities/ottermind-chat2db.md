@@ -35,7 +35,7 @@ language: "Java"
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[mjmirza-app-store-compliance]] [[firecrawl-firecrawl]]
+[[floci-io-floci]] [[google-labs-code-stitch-skills]] [[appwrite-appwrite]] [[yuliskov-smarttube]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

@@ -36,7 +36,7 @@ A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[sveltejs-svelte]] [[mjmirza-app-store-compliance]] [[firecrawl-firecrawl]]
+[[google-labs-code-stitch-skills]] [[appwrite-appwrite]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[sveltejs-svelte]]
 
 **所属领域**: [[web]] [[data]]
 

@@ -38,5 +38,5 @@ Microsoft PowerToys is a collection of utilities that supercharge productivity a
 
 ## 相关项目
 
-[[nginx-nginx]] [[openssl-openssl]] [[lz4-lz4]] [[mpv-player-mpv]]
+[[lz4-lz4]] [[nginx-nginx]] [[mpv-player-mpv]] [[openssl-openssl]]
 

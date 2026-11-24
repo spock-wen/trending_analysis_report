@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[sveltejs-svelte]] [[alchaincyf-huashu-design]] [[mjmirza-app-store-compliance]]
+[[appwrite-appwrite]] [[alchaincyf-huashu-design]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

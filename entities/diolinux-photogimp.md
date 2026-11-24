@@ -35,7 +35,7 @@ A Patch for GIMP 3+ for Photoshop Users
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[sveltejs-svelte]] [[elementalsouls-claude-bughunter]] [[agricidaniel-claude-seo]] [[nutlope-hallmark]]
+[[elementalsouls-claude-bughunter]] [[obra-superpowers]] [[php-php-src]] [[hkuds-cli-anything]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]] [[erp]]
 

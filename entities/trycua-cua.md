@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[mjmirza-app-store-compliance]] [[likely7-veyra-nrvideo]] [[astral-sh-uv]]
+[[nvidia-auto-ontology]] [[conardli-garden-skills]] [[appwrite-appwrite]] [[vercel-labs-agent-browser]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

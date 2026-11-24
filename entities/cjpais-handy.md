@@ -34,7 +34,7 @@ A free, open source, and extensible speech-to-text application that works comple
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[astral-sh-uv]] [[firecrawl-firecrawl]] [[microsoft-vibevoice]] [[obra-superpowers]]
+[[vercel-labs-agent-browser]] [[microsoft-vibevoice]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[scenario-labs-skills]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

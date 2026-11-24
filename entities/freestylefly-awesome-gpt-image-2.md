@@ -38,7 +38,7 @@ Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[affaan-m-ecc]] [[hkuds-cli-anything]]
+[[deanchensj-jiangshan-map]] [[nvidia-auto-ontology]] [[conardli-garden-skills]] [[affaan-m-ecc]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

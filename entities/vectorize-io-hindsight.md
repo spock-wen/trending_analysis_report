@@ -38,7 +38,7 @@ Hindsight: Agent Memory That Learns
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[thu-maic-openmaic]] [[firecrawl-firecrawl]] [[ggml-org-ggml]]
+[[jingyaogong-minimind]] [[patchy631-ai-engineering-hub]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

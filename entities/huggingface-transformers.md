@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[thu-maic-openmaic]] [[firecrawl-firecrawl]] [[ggml-org-ggml]]
+[[jingyaogong-minimind]] [[patchy631-ai-engineering-hub]] [[anomalyco-hex]] [[obra-superpowers]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

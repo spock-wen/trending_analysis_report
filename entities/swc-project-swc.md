@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[sveltejs-svelte]] [[astral-sh-uv]] [[cathrynlavery-diagram-design]] [[martin-olivier-airgorah]]
+[[vercel-labs-agent-browser]] [[block-buzz]] [[martin-olivier-airgorah]] [[mvanhorn-last30days-skill]] [[astral-sh-uv]]
 
 **所属领域**: [[web]]
 

@@ -34,7 +34,7 @@ In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[michaelcade-90daysofdevops]] [[thu-maic-openmaic]] [[lyogavin-airllm]] [[firecrawl-firecrawl]]
+[[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[ggml-org-ggml]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

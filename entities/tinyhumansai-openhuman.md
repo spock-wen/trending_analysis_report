@@ -38,7 +38,7 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[affaan-m-ecc]] [[astral-sh-uv]] [[firecrawl-firecrawl]] [[obra-superpowers]]
+[[affaan-m-ecc]] [[vercel-labs-agent-browser]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[block-buzz]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

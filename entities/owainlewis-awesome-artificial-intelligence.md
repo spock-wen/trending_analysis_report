@@ -35,7 +35,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[thu-maic-openmaic]] [[affaan-m-ecc]] [[firecrawl-firecrawl]] [[obra-superpowers]]
+[[affaan-m-ecc]] [[patchy631-ai-engineering-hub]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[ggml-org-ggml]]
 
 **所属领域**: [[ai-agent]] [[education]] [[science]]
 

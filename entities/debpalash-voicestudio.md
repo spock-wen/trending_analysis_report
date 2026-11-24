@@ -38,7 +38,7 @@ VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice clo
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[microsoft-vibevoice]] [[mvanhorn-last30days-skill]] [[scenario-labs-skills]]
+[[jingyaogong-minimind]] [[microsoft-vibevoice]] [[scenario-labs-skills]] [[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[audio]]
 

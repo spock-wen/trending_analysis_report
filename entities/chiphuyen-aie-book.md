@@ -34,7 +34,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[lyogavin-airllm]] [[firecrawl-firecrawl]] [[obra-superpowers]] [[xiaolai-the-craft-of-selfteaching]]
+[[lyogavin-airllm]] [[patchy631-ai-engineering-hub]] [[higgsfield-ai-higgsfield]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

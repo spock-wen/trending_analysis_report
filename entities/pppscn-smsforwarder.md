@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[android-skills]] [[hkuds-cli-anything]] [[sveltejs-svelte]] [[mahlernim-google-timeline-visualizer]] [[cathrynlavery-diagram-design]]
+[[android-skills]] [[sveltejs-svelte]] [[cathrynlavery-diagram-design]] [[embabel-embabel-agent]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]]
 

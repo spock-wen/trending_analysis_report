@@ -35,5 +35,5 @@ Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[martin-olivier-airgorah]] [[block-buzz]] [[astral-sh-uv]]
+[[vercel-labs-agent-browser]] [[block-buzz]] [[martin-olivier-airgorah]] [[astral-sh-uv]]
 

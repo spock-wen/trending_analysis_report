@@ -36,7 +36,7 @@ DFlash: Block Diffusion for Flash Speculative Decoding
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[likely7-veyra-nrvideo]] [[nvidia-auto-ontology]]
+[[nvidia-auto-ontology]] [[conardli-garden-skills]] [[jingyaogong-minimind]] [[zhouxiaoka-autoclip]] [[likely7-veyra-nrvideo]]
 
 **所属领域**: [[image-gen]]
 

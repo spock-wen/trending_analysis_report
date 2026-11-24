@@ -35,7 +35,7 @@ Vite+ is the unified toolchain and entry point for web development. It manages y
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[sveltejs-svelte]] [[astral-sh-uv]] [[firecrawl-firecrawl]] [[obra-superpowers]]
+[[vercel-labs-agent-browser]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[block-buzz]] [[martin-olivier-airgorah]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

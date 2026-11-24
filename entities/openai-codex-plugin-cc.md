@@ -38,7 +38,7 @@ Use Codex from Claude Code to review code or delegate tasks.
 
 ## 相关项目
 
-[[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[affaan-m-ecc]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]]
+[[deanchensj-jiangshan-map]] [[affaan-m-ecc]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[jquery-jquery]]
 
 **所属领域**: [[ai-agent]]
 

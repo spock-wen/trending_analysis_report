@@ -38,7 +38,7 @@ Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
 
 ## 相关项目
 
-[[nginx-nginx]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[mpv-player-mpv]] [[openssl-openssl]]
+[[nginx-nginx]] [[mpv-player-mpv]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

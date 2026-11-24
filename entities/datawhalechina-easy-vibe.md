@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[affaan-m-ecc]] [[thu-maic-openmaic]]
+[[deanchensj-jiangshan-map]] [[affaan-m-ecc]] [[appwrite-appwrite]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[data]] [[education]]
 

@@ -34,7 +34,7 @@ Technical resources for AI developers to build applications, agents, and systems
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[lyogavin-airllm]] [[mjmirza-app-store-compliance]] [[firecrawl-firecrawl]]
+[[lyogavin-airllm]] [[patchy631-ai-engineering-hub]] [[appwrite-appwrite]] [[higgsfield-ai-higgsfield]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

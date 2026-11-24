@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[sveltejs-svelte]] [[affaan-m-ecc]] [[firecrawl-firecrawl]] [[cursor-plugins]]
+[[affaan-m-ecc]] [[google-labs-code-stitch-skills]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[cursor-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

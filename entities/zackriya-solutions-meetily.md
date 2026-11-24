@@ -37,7 +37,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[sveltejs-svelte]] [[affaan-m-ecc]] [[mjmirza-app-store-compliance]]
+[[toeverything-affine]] [[affaan-m-ecc]] [[appwrite-appwrite]] [[vercel-labs-agent-browser]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[security]]
 

@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[affaan-m-ecc]] [[mjmirza-app-store-compliance]] [[bwya77-vscode-dark-islands]]
+[[affaan-m-ecc]] [[google-labs-code-stitch-skills]] [[bwya77-vscode-dark-islands]] [[obra-superpowers]] [[raphire-win11debloat]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

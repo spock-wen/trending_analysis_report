@@ -38,7 +38,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## 相关项目
 
-[[diolinux-photogimp]] [[hkuds-cli-anything]] [[sveltejs-svelte]] [[firecrawl-firecrawl]] [[obra-superpowers]]
+[[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[mvanhorn-last30days-skill]] [[diolinux-photogimp]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

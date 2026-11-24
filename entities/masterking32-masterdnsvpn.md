@@ -36,7 +36,7 @@ Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[mjmirza-app-store-compliance]] [[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[martin-olivier-airgorah]]
+[[affaan-m-ecc]] [[alibaba-open-code-review]] [[getarcaneapp-arcane]] [[mjmirza-app-store-compliance]] [[martin-olivier-airgorah]]
 
 **所属领域**: [[security]]
 

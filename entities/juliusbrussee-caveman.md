@@ -38,7 +38,7 @@ language: "Go"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[alibaba-open-code-review]] [[obra-superpowers]] [[mvanhorn-last30days-skill]]
+[[obra-superpowers]] [[firecrawl-firecrawl]] [[alibaba-open-code-review]] [[getarcaneapp-arcane]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

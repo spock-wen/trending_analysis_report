@@ -34,7 +34,7 @@ Pi extension for async subagent delegation with truncation, artifacts, and sessi
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[obra-superpowers]] [[mvanhorn-last30days-skill]]
+[[google-labs-code-stitch-skills]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[cursor-plugins]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

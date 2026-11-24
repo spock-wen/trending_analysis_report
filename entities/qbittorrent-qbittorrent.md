@@ -34,7 +34,7 @@ qBittorrent BitTorrent client
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[likely7-veyra-nrvideo]] [[obra-superpowers]] [[ggml-org-llama.cpp]]
+[[openvinotoolkit-openvino]] [[google-labs-code-stitch-skills]] [[obra-superpowers]] [[ggml-org-llama.cpp]] [[hkuds-cli-anything]]
 
 **所属领域**: [[cli]]
 

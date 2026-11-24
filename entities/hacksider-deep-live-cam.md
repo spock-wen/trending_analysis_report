@@ -34,7 +34,7 @@ real time face swap and one-click video deepfake with only a single image
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[likely7-veyra-nrvideo]] [[obra-superpowers]]
+[[nvidia-auto-ontology]] [[conardli-garden-skills]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]] [[obra-superpowers]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

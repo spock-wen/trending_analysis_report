@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[affaan-m-ecc]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[obra-superpowers]]
+[[affaan-m-ecc]] [[google-labs-code-stitch-skills]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[cursor-plugins]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

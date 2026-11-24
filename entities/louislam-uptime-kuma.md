@@ -35,7 +35,7 @@ A fancy self-hosted monitoring tool
 
 ## 相关项目
 
-[[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[affaan-m-ecc]] [[tracer-cloud-opensre]] [[elementalsouls-claude-bughunter]]
+[[deanchensj-jiangshan-map]] [[tracer-cloud-opensre]] [[openvinotoolkit-openvino]] [[affaan-m-ecc]] [[elementalsouls-claude-bughunter]]
 
 **所属领域**: [[devops]]
 

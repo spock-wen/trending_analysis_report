@@ -34,7 +34,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[tracer-cloud-opensre]] [[elementalsouls-claude-bughunter]] [[mjmirza-app-store-compliance]] [[firecrawl-firecrawl]]
+[[tracer-cloud-opensre]] [[floci-io-floci]] [[openvinotoolkit-openvino]] [[appwrite-appwrite]] [[elementalsouls-claude-bughunter]]
 
 **所属领域**: [[data]] [[devops]]
 

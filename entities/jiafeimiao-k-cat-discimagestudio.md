@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[k1tbyte-wand-enhancer]] [[likely7-veyra-nrvideo]] [[sonarr-sonarr]] [[nvidia-auto-ontology]]
+[[nvidia-auto-ontology]] [[conardli-garden-skills]] [[ntdevlabs-tiny11builder]] [[sonarr-sonarr]] [[k1tbyte-wand-enhancer]]
 
 **所属领域**: [[image-gen]]
 

@@ -36,7 +36,7 @@ OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[likely7-veyra-nrvideo]] [[firecrawl-firecrawl]]
+[[nvidia-auto-ontology]] [[conardli-garden-skills]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[image-gen]]
 

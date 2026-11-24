@@ -34,7 +34,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[mjmirza-app-store-compliance]] [[astral-sh-uv]] [[firecrawl-firecrawl]] [[martin-olivier-airgorah]]
+[[appwrite-appwrite]] [[vercel-labs-agent-browser]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]] [[nvidia-skillevaluator]]
 
 **所属领域**: [[data]]
 

@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[affaan-m-ecc]] [[thu-maic-openmaic]] [[mjmirza-app-store-compliance]]
+[[affaan-m-ecc]] [[jingyaogong-minimind]] [[patchy631-ai-engineering-hub]] [[obra-superpowers]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

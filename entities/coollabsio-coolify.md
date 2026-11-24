@@ -34,7 +34,7 @@ An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that 
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[grokability-snipe-it]] [[symfony-symfony]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]]
+[[tracer-cloud-opensre]] [[nvidia-auto-ontology]] [[openvinotoolkit-openvino]] [[conardli-garden-skills]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[cli]] [[data]] [[devops]] [[image-gen]]
 

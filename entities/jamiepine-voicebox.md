@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[obra-superpowers]] [[microsoft-vibevoice]]
+[[google-labs-code-stitch-skills]] [[microsoft-vibevoice]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[scenario-labs-skills]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

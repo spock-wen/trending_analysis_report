@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[affaan-m-ecc]] [[likely7-veyra-nrvideo]] [[mjmirza-app-store-compliance]]
+[[openvinotoolkit-openvino]] [[affaan-m-ecc]] [[google-labs-code-stitch-skills]] [[obra-superpowers]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[cli]] [[security]]
 

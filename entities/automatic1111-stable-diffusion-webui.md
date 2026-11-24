@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[sveltejs-svelte]] [[likely7-veyra-nrvideo]]
+[[nvidia-auto-ontology]] [[conardli-garden-skills]] [[jingyaogong-minimind]] [[zhouxiaoka-autoclip]] [[likely7-veyra-nrvideo]]
 
 **所属领域**: [[web]] [[image-gen]]
 

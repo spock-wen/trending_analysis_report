@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[nvidia-skillevaluator]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[affaan-m-ecc]] [[likely7-veyra-nrvideo]]
+[[nvidia-auto-ontology]] [[conardli-garden-skills]] [[affaan-m-ecc]] [[jingyaogong-minimind]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

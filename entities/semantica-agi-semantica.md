@@ -38,7 +38,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ## 相关项目
 
-[[tracer-cloud-opensre]] [[openvinotoolkit-openvino]] [[jingyaogong-minimind]] [[elementalsouls-claude-bughunter]] [[obra-superpowers]]
+[[mvanhorn-last30days-skill]] [[openvinotoolkit-openvino]] [[tracer-cloud-opensre]] [[jingyaogong-minimind]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -35,5 +35,5 @@ Deepfakes Software For All
 
 ## 相关项目
 
-[[hkuds-cli-anything]] [[jingyaogong-minimind]] [[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]]
+[[jingyaogong-minimind]] [[mvanhorn-last30days-skill]] [[zhouxiaoka-autoclip]] [[hkuds-cli-anything]]
 

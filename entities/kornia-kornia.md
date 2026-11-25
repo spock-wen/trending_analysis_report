@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[jingyaogong-minimind]] [[appwrite-appwrite]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[zhouxiaoka-autoclip]]
+[[mvanhorn-last30days-skill]] [[mjmirza-app-store-compliance]] [[jingyaogong-minimind]] [[hkuds-cli-anything]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

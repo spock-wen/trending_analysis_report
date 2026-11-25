@@ -34,7 +34,7 @@ language: "Kotlin"
 
 ## 相关项目
 
-[[android-skills]] [[sveltejs-svelte]] [[cathrynlavery-diagram-design]] [[embabel-embabel-agent]] [[mvanhorn-last30days-skill]]
+[[mvanhorn-last30days-skill]] [[cathrynlavery-diagram-design]] [[embabel-embabel-agent]] [[bannedbook-fanqiang]] [[sveltejs-svelte]]
 
 **所属领域**: [[web]]
 

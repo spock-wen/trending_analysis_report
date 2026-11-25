@@ -37,7 +37,7 @@ LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、�
 
 ## 相关项目
 
-[[jingyaogong-minimind]] [[appwrite-appwrite]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[zhouxiaoka-autoclip]]
+[[mvanhorn-last30days-skill]] [[mjmirza-app-store-compliance]] [[jingyaogong-minimind]] [[hkuds-cli-anything]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

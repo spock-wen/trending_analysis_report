@@ -35,7 +35,7 @@ An open-source cross-platform alternative to AirDrop
 
 ## 相关项目
 
-[[flutter-skills]] [[obra-superpowers]] [[flutter-flutter]] [[firecrawl-firecrawl]] [[chen08209-flclash]]
+[[mvanhorn-last30days-skill]] [[flutter-flutter]] [[hkuds-cli-anything]] [[obra-superpowers]] [[chen08209-flclash]]
 
 **所属领域**: [[ai-agent]]
 

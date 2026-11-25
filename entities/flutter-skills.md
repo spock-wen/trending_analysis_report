@@ -34,7 +34,7 @@ No description
 
 ## 相关项目
 
-[[localsend-localsend]] [[obra-superpowers]] [[flutter-flutter]] [[firecrawl-firecrawl]] [[chen08209-flclash]]
+[[mvanhorn-last30days-skill]] [[flutter-flutter]] [[localsend-localsend]] [[hkuds-cli-anything]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

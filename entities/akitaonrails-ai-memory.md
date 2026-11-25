@@ -38,7 +38,7 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[vercel-labs-agent-browser]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]]
+[[mvanhorn-last30days-skill]] [[block-buzz]] [[vercel-labs-agent-browser]] [[google-labs-code-stitch-skills]] [[astral-sh-uv]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

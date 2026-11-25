@@ -36,7 +36,7 @@ Learn how to design large-scale systems. Prep for the system design interview. I
 
 ## 相关项目
 
-[[jingyaogong-minimind]] [[patchy631-ai-engineering-hub]] [[zhouxiaoka-autoclip]] [[ggml-org-ggml]] [[mvanhorn-last30days-skill]]
+[[patchy631-ai-engineering-hub]] [[mvanhorn-last30days-skill]] [[jingyaogong-minimind]] [[hkuds-cli-anything]] [[thu-maic-openmaic]]
 
 **所属领域**: [[education]]
 

@@ -34,7 +34,7 @@ Free and Open Source Enterprise Resource Planning (ERP)
 
 ## 相关项目
 
-[[jingyaogong-minimind]] [[elementalsouls-claude-bughunter]] [[obra-superpowers]] [[php-php-src]] [[zhouxiaoka-autoclip]]
+[[mvanhorn-last30days-skill]] [[jingyaogong-minimind]] [[hkuds-cli-anything]] [[elementalsouls-claude-bughunter]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

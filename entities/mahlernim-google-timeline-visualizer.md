@@ -36,7 +36,7 @@ Visualize your year in travel using your Google Location History (Timeline) data
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[firecrawl-firecrawl]] [[android-skills]] [[mjmirza-app-store-compliance]] [[embabel-embabel-agent]]
+[[mjmirza-app-store-compliance]] [[embabel-embabel-agent]] [[bannedbook-fanqiang]] [[android-skills]] [[appwrite-appwrite]]
 
 **所属领域**: [[data]]
 

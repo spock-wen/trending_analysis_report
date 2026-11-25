@@ -38,7 +38,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[jingyaogong-minimind]] [[patchy631-ai-engineering-hub]] [[zhouxiaoka-autoclip]] [[ggml-org-ggml]]
+[[patchy631-ai-engineering-hub]] [[mvanhorn-last30days-skill]] [[google-research-paper-orchestra]] [[jingyaogong-minimind]] [[affaan-m-ecc]]
 
 **所属领域**: [[education]] [[science]]
 

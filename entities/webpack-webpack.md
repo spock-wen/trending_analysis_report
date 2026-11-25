@@ -34,7 +34,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 ## 相关项目
 
-[[deanchensj-jiangshan-map]] [[nvidia-auto-ontology]] [[conardli-garden-skills]] [[affaan-m-ecc]] [[nvidia-skillevaluator]]
+[[mvanhorn-last30days-skill]] [[conardli-garden-skills]] [[nvidia-auto-ontology]] [[jquery-jquery]] [[likely7-veyra-nrvideo]]
 
 **所属领域**: [[web]] [[image-gen]]
 

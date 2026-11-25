@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[tracer-cloud-opensre]] [[openvinotoolkit-openvino]] [[google-labs-code-stitch-skills]] [[elementalsouls-claude-bughunter]] [[patchy631-ai-engineering-hub]]
+[[patchy631-ai-engineering-hub]] [[mvanhorn-last30days-skill]] [[openvinotoolkit-openvino]] [[cursor-plugins]] [[tracer-cloud-opensre]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

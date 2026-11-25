@@ -34,7 +34,7 @@ Get your documents ready for gen AI
 
 ## 相关项目
 
-[[jingyaogong-minimind]] [[google-labs-code-stitch-skills]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[zhouxiaoka-autoclip]]
+[[mvanhorn-last30days-skill]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]] [[hkuds-cli-anything]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

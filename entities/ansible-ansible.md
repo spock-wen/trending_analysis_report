@@ -37,7 +37,7 @@ Ansible is a radically simple IT automation platform that makes your application
 
 ## 相关项目
 
-[[tracer-cloud-opensre]] [[openvinotoolkit-openvino]] [[jingyaogong-minimind]] [[elementalsouls-claude-bughunter]] [[obra-superpowers]]
+[[mvanhorn-last30days-skill]] [[openvinotoolkit-openvino]] [[tracer-cloud-opensre]] [[cathrynlavery-diagram-design]] [[jingyaogong-minimind]]
 
 **所属领域**: [[ai-agent]] [[web]] [[devops]]
 

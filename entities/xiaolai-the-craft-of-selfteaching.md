@@ -34,7 +34,7 @@ One has no future if one couldn't teach themself.
 
 ## 相关项目
 
-[[lyogavin-airllm]] [[higgsfield-ai-higgsfield]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
+[[patchy631-ai-engineering-hub]] [[higgsfield-ai-higgsfield]] [[mvanhorn-last30days-skill]] [[lyogavin-airllm]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

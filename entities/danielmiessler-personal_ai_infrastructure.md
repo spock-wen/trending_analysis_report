@@ -35,7 +35,7 @@ Agentic AI Infrastructure for magnifying HUMAN capabilities.
 
 ## 相关项目
 
-[[tracer-cloud-opensre]] [[openvinotoolkit-openvino]] [[google-labs-code-stitch-skills]] [[elementalsouls-claude-bughunter]] [[firecrawl-firecrawl]]
+[[mvanhorn-last30days-skill]] [[openvinotoolkit-openvino]] [[cursor-plugins]] [[tracer-cloud-opensre]] [[toeverything-affine]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[embabel-embabel-agent]] [[mvanhorn-last30days-skill]] [[obra-superpowers]]
+[[mvanhorn-last30days-skill]] [[embabel-embabel-agent]] [[bannedbook-fanqiang]] [[hkuds-cli-anything]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[deanchensj-jiangshan-map]] [[nvidia-auto-ontology]] [[conardli-garden-skills]] [[affaan-m-ecc]] [[anomalyco-hex]]
+[[mvanhorn-last30days-skill]] [[conardli-garden-skills]] [[nvidia-auto-ontology]] [[jquery-jquery]] [[microsoft-vibevoice]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

@@ -35,7 +35,7 @@ A platform for reproducible world model research and evaluation
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[conardli-garden-skills]] [[affaan-m-ecc]] [[jingyaogong-minimind]] [[obra-superpowers]]
+[[mvanhorn-last30days-skill]] [[conardli-garden-skills]] [[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[google-research-paper-orchestra]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[science]]
 

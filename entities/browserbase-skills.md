@@ -38,7 +38,7 @@ Claude Agent SDK with a web browsing tool
 
 ## 相关项目
 
-[[deanchensj-jiangshan-map]] [[affaan-m-ecc]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[cathrynlavery-diagram-design]]
+[[mvanhorn-last30days-skill]] [[jquery-jquery]] [[cathrynlavery-diagram-design]] [[affaan-m-ecc]] [[sveltejs-svelte]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

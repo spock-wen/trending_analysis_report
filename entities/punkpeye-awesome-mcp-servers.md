@@ -35,7 +35,7 @@ A collection of MCP servers.
 
 ## 相关项目
 
-[[obra-superpowers]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[mvanhorn-last30days-skill]]
+[[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

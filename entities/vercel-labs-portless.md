@@ -34,7 +34,7 @@ Replace port numbers with stable, named local URLs. For humans and agents.
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[conardli-garden-skills]] [[google-labs-code-stitch-skills]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
+[[mvanhorn-last30days-skill]] [[conardli-garden-skills]] [[nvidia-auto-ontology]] [[cursor-plugins]] [[toeverything-affine]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

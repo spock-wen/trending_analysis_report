@@ -38,7 +38,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ## 相关项目
 
-[[nvm-sh-nvm]] [[google-labs-code-stitch-skills]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]]
+[[mvanhorn-last30days-skill]] [[zhouxiaoka-autoclip]] [[mjmirza-app-store-compliance]] [[google-labs-code-stitch-skills]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

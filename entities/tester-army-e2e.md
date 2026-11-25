@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[conardli-garden-skills]] [[google-labs-code-stitch-skills]] [[firecrawl-firecrawl]] [[cursor-plugins]]
+[[mvanhorn-last30days-skill]] [[conardli-garden-skills]] [[nvidia-auto-ontology]] [[cursor-plugins]] [[toeverything-affine]]
 
 **所属领域**: [[web]] [[image-gen]]
 

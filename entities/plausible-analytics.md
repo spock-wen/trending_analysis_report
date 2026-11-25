@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[toeverything-affine]] [[affaan-m-ecc]] [[appwrite-appwrite]] [[agentjido-jido]] [[firecrawl-firecrawl]]
+[[mvanhorn-last30days-skill]] [[toeverything-affine]] [[cathrynlavery-diagram-design]] [[mjmirza-app-store-compliance]] [[martin-olivier-airgorah]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

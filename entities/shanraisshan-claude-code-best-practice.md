@@ -38,7 +38,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 相关项目
 
-[[alchaincyf-huashu-design]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[ripienaar-free-for-dev]] [[mvanhorn-last30days-skill]]
+[[mvanhorn-last30days-skill]] [[averygan-reclip]] [[alchaincyf-huashu-design]] [[cathrynlavery-diagram-design]] [[sveltejs-svelte]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

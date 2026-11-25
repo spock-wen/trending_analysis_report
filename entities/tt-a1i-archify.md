@@ -38,7 +38,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## 相关项目
 
-[[deanchensj-jiangshan-map]] [[affaan-m-ecc]] [[appwrite-appwrite]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
+[[mvanhorn-last30days-skill]] [[jquery-jquery]] [[cathrynlavery-diagram-design]] [[mjmirza-app-store-compliance]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

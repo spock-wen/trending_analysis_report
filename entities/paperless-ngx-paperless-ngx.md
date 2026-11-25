@@ -35,7 +35,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[jingyaogong-minimind]] [[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[mvanhorn-last30days-skill]] [[google-research-paper-orchestra]] [[jingyaogong-minimind]] [[affaan-m-ecc]] [[hkuds-cli-anything]]
 
 **所属领域**: [[science]]
 

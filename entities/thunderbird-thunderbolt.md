@@ -34,7 +34,7 @@ AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[appwrite-appwrite]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[cursor-plugins]]
+[[mvanhorn-last30days-skill]] [[cursor-plugins]] [[toeverything-affine]] [[mjmirza-app-store-compliance]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

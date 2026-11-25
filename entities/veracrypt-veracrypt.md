@@ -34,7 +34,7 @@ Disk encryption with strong security based on TrueCrypt
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[nginx-nginx]] [[mpv-player-mpv]] [[mjmirza-app-store-compliance]] [[martin-olivier-airgorah]]
+[[nginx-nginx]] [[lz4-lz4]] [[toeverything-affine]] [[mjmirza-app-store-compliance]] [[mpv-player-mpv]]
 
 **所属领域**: [[security]]
 

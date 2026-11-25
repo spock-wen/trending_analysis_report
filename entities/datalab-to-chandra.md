@@ -36,7 +36,7 @@ OCR model that handles complex tables, forms, handwriting with full layout.
 
 ## 相关项目
 
-[[jingyaogong-minimind]] [[appwrite-appwrite]] [[firecrawl-firecrawl]] [[zhouxiaoka-autoclip]] [[mjmirza-app-store-compliance]]
+[[mvanhorn-last30days-skill]] [[mjmirza-app-store-compliance]] [[jingyaogong-minimind]] [[hkuds-cli-anything]] [[appwrite-appwrite]]
 
 **所属领域**: [[data]]
 

@@ -37,7 +37,7 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[android-skills]] [[hkuds-cli-anything]] [[embabel-embabel-agent]] [[mvanhorn-last30days-skill]]
+[[mvanhorn-last30days-skill]] [[embabel-embabel-agent]] [[bannedbook-fanqiang]] [[android-skills]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

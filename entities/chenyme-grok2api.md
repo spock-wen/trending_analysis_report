@@ -35,7 +35,7 @@ Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[obra-superpowers]] [[alibaba-open-code-review]] [[getarcaneapp-arcane]] [[zhouxiaoka-autoclip]]
+[[mvanhorn-last30days-skill]] [[juliusbrussee-caveman]] [[cathrynlavery-diagram-design]] [[getarcaneapp-arcane]] [[alibaba-open-code-review]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[alchaincyf-huashu-design]] [[ggml-org-ggml]] [[michaelcade-90daysofdevops]] [[ripienaar-free-for-dev]]
+[[patchy631-ai-engineering-hub]] [[mvanhorn-last30days-skill]] [[averygan-reclip]] [[alchaincyf-huashu-design]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[education]]
 

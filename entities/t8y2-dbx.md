@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[appwrite-appwrite]] [[vercel-labs-agent-browser]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
+[[mvanhorn-last30days-skill]] [[nvidia-skillevaluator]] [[mjmirza-app-store-compliance]] [[block-buzz]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[data]]
 

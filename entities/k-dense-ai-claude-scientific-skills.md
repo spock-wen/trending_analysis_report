@@ -35,7 +35,7 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[jingyaogong-minimind]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[zhouxiaoka-autoclip]]
+[[mvanhorn-last30days-skill]] [[google-research-paper-orchestra]] [[jingyaogong-minimind]] [[affaan-m-ecc]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

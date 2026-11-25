@@ -38,7 +38,7 @@ Open-Source Frontier Voice AI
 
 ## 相关项目
 
-[[jingyaogong-minimind]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[scenario-labs-skills]] [[zhouxiaoka-autoclip]]
+[[mvanhorn-last30days-skill]] [[scenario-labs-skills]] [[jingyaogong-minimind]] [[hkuds-cli-anything]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

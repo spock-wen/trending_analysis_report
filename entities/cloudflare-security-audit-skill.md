@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[deanchensj-jiangshan-map]] [[affaan-m-ecc]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[mjmirza-app-store-compliance]]
+[[mvanhorn-last30days-skill]] [[jquery-jquery]] [[toeverything-affine]] [[mjmirza-app-store-compliance]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

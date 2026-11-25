@@ -37,7 +37,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[deanchensj-jiangshan-map]] [[nvidia-auto-ontology]] [[conardli-garden-skills]] [[affaan-m-ecc]] [[firecrawl-firecrawl]]
+[[mvanhorn-last30days-skill]] [[conardli-garden-skills]] [[nvidia-auto-ontology]] [[jquery-jquery]] [[likely7-veyra-nrvideo]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

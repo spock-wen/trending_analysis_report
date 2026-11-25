@@ -38,7 +38,7 @@ Repository for skills to assist AI coding agents with .NET and C#
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[firecrawl-firecrawl]] [[sonarr-sonarr]] [[hkuds-cli-anything]] [[k1tbyte-wand-enhancer]]
+[[mvanhorn-last30days-skill]] [[sonarr-sonarr]] [[ntdevlabs-tiny11builder]] [[hkuds-cli-anything]] [[k1tbyte-wand-enhancer]]
 
 **所属领域**: [[ai-agent]]
 

@@ -36,7 +36,7 @@ Developer-first error tracking and performance monitoring
 
 ## 相关项目
 
-[[tracer-cloud-opensre]] [[openvinotoolkit-openvino]] [[jingyaogong-minimind]] [[elementalsouls-claude-bughunter]] [[firecrawl-firecrawl]]
+[[mvanhorn-last30days-skill]] [[openvinotoolkit-openvino]] [[tracer-cloud-opensre]] [[jingyaogong-minimind]] [[hkuds-cli-anything]]
 
 **所属领域**: [[devops]]
 

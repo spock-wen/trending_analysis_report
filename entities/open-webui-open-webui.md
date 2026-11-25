@@ -34,7 +34,7 @@ User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## 相关项目
 
-[[jingyaogong-minimind]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]]
+[[mvanhorn-last30days-skill]] [[cathrynlavery-diagram-design]] [[jingyaogong-minimind]] [[sveltejs-svelte]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

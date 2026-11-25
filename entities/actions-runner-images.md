@@ -34,7 +34,7 @@ GitHub Actions runner images
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[conardli-garden-skills]] [[zhaoxuya520-reverse-skill]] [[google-labs-code-stitch-skills]] [[bwya77-vscode-dark-islands]]
+[[bwya77-vscode-dark-islands]] [[conardli-garden-skills]] [[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[raphire-win11debloat]]
 
 **所属领域**: [[cli]] [[image-gen]]
 

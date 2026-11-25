@@ -38,7 +38,7 @@ Build your own network of agents from Claude Code, Codex and Pi: persistent team
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[cursor-plugins]] [[mvanhorn-last30days-skill]]
+[[mvanhorn-last30days-skill]] [[cursor-plugins]] [[toeverything-affine]] [[google-labs-code-stitch-skills]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

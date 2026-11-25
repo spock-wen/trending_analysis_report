@@ -34,7 +34,7 @@ Open-source Android/Desktop remake of Civ V
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[android-skills]] [[hkuds-cli-anything]] [[embabel-embabel-agent]] [[mvanhorn-last30days-skill]]
+[[mvanhorn-last30days-skill]] [[embabel-embabel-agent]] [[bannedbook-fanqiang]] [[android-skills]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

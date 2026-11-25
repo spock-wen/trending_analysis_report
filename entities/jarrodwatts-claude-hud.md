@@ -37,7 +37,7 @@ A Claude Code plugin that shows what's happening - context usage, active tools, 
 
 ## 相关项目
 
-[[deanchensj-jiangshan-map]] [[affaan-m-ecc]] [[anomalyco-hex]] [[microsoft-vibevoice]] [[firecrawl-firecrawl]]
+[[mvanhorn-last30days-skill]] [[jquery-jquery]] [[microsoft-vibevoice]] [[anomalyco-hex]] [[scenario-labs-skills]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

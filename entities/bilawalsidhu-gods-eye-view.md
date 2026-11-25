@@ -38,7 +38,7 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 
 ## 相关项目
 
-[[deanchensj-jiangshan-map]] [[affaan-m-ecc]] [[appwrite-appwrite]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]]
+[[mvanhorn-last30days-skill]] [[jquery-jquery]] [[cathrynlavery-diagram-design]] [[mjmirza-app-store-compliance]] [[affaan-m-ecc]]
 
 **所属领域**: [[web]] [[data]]
 

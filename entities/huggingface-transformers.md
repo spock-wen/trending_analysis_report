@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[jingyaogong-minimind]] [[patchy631-ai-engineering-hub]] [[anomalyco-hex]] [[obra-superpowers]] [[firecrawl-firecrawl]]
+[[patchy631-ai-engineering-hub]] [[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]] [[microsoft-vibevoice]] [[anomalyco-hex]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

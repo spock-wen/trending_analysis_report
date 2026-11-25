@@ -37,7 +37,7 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[conardli-garden-skills]] [[jingyaogong-minimind]] [[appwrite-appwrite]] [[obra-superpowers]]
+[[mvanhorn-last30days-skill]] [[conardli-garden-skills]] [[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

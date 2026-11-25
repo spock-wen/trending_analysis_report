@@ -34,7 +34,7 @@ This repository started out as a learning in public project for myself and has n
 
 ## 相关项目
 
-[[tracer-cloud-opensre]] [[openvinotoolkit-openvino]] [[nvm-sh-nvm]] [[google-labs-code-stitch-skills]] [[elementalsouls-claude-bughunter]]
+[[patchy631-ai-engineering-hub]] [[openvinotoolkit-openvino]] [[tracer-cloud-opensre]] [[mattpocock-skills]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[cli]] [[devops]] [[education]]
 

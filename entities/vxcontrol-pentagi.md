@@ -38,7 +38,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[alibaba-open-code-review]] [[getarcaneapp-arcane]] [[juliusbrussee-caveman]]
+[[mvanhorn-last30days-skill]] [[juliusbrussee-caveman]] [[getarcaneapp-arcane]] [[alibaba-open-code-review]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

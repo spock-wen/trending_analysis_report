@@ -35,7 +35,7 @@ JavaScript API for Chrome and Firefox
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[sveltejs-svelte]] [[mvanhorn-last30days-skill]]
+[[mvanhorn-last30days-skill]] [[cursor-plugins]] [[toeverything-affine]] [[cathrynlavery-diagram-design]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[web]]
 

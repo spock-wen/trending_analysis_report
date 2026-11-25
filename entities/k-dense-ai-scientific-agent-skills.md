@@ -38,7 +38,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[jingyaogong-minimind]] [[appwrite-appwrite]] [[obra-superpowers]] [[firecrawl-firecrawl]]
+[[mvanhorn-last30days-skill]] [[google-research-paper-orchestra]] [[mjmirza-app-store-compliance]] [[jingyaogong-minimind]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[data]] [[science]]
 

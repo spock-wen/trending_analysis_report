@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[deanchensj-jiangshan-map]] [[affaan-m-ecc]] [[appwrite-appwrite]] [[firecrawl-firecrawl]] [[mjmirza-app-store-compliance]]
+[[patchy631-ai-engineering-hub]] [[jquery-jquery]] [[mjmirza-app-store-compliance]] [[affaan-m-ecc]] [[ggml-org-ggml]]
 
 **所属领域**: [[data]] [[education]]
 

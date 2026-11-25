@@ -34,7 +34,7 @@ A free, open source, and extensible speech-to-text application that works comple
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[microsoft-vibevoice]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[scenario-labs-skills]]
+[[mvanhorn-last30days-skill]] [[microsoft-vibevoice]] [[scenario-labs-skills]] [[block-buzz]] [[vercel-labs-agent-browser]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[conardli-garden-skills]] [[appwrite-appwrite]] [[vercel-labs-agent-browser]] [[firecrawl-firecrawl]]
+[[mvanhorn-last30days-skill]] [[conardli-garden-skills]] [[nvidia-skillevaluator]] [[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

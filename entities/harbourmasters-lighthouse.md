@@ -34,5 +34,5 @@ No description
 
 ## 相关项目
 
-[[lz4-lz4]] [[nginx-nginx]] [[mpv-player-mpv]] [[openssl-openssl]]
+[[nginx-nginx]] [[openssl-openssl]] [[lz4-lz4]] [[mpv-player-mpv]]
 

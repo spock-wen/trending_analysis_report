@@ -38,7 +38,7 @@ Browser automation CLI for AI agents
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[block-buzz]]
+[[mvanhorn-last30days-skill]] [[cathrynlavery-diagram-design]] [[block-buzz]] [[google-labs-code-stitch-skills]] [[sveltejs-svelte]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

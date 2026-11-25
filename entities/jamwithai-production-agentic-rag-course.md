@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[jingyaogong-minimind]] [[patchy631-ai-engineering-hub]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[zhouxiaoka-autoclip]]
+[[patchy631-ai-engineering-hub]] [[mvanhorn-last30days-skill]] [[jingyaogong-minimind]] [[hkuds-cli-anything]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

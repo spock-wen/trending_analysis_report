@@ -36,7 +36,7 @@ An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[jingyaogong-minimind]] [[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[mvanhorn-last30days-skill]] [[google-research-paper-orchestra]] [[jingyaogong-minimind]] [[affaan-m-ecc]] [[hkuds-cli-anything]]
 
 **所属领域**: [[science]]
 

@@ -34,7 +34,7 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 
 ## 相关项目
 
-[[openvinotoolkit-openvino]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[ggml-org-llama.cpp]] [[hkuds-cli-anything]]
+[[mvanhorn-last30days-skill]] [[ggml-org-llama.cpp]] [[openvinotoolkit-openvino]] [[microsoft-vibevoice]] [[anomalyco-hex]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

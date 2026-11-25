@@ -34,7 +34,7 @@ Stable Diffusion web UI
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[conardli-garden-skills]] [[jingyaogong-minimind]] [[zhouxiaoka-autoclip]] [[likely7-veyra-nrvideo]]
+[[mvanhorn-last30days-skill]] [[conardli-garden-skills]] [[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[web]] [[image-gen]]
 

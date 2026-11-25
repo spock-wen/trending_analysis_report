@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[manaflow-ai-cmux]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[xtool-org-xtool]]
+[[abue-ammar-tinycast]] [[xtool-org-xtool]] [[vorssaint-vorssaint-utils]] [[manaflow-ai-cmux]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[cli]]
 

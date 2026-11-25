@@ -35,7 +35,7 @@ Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate fa
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[cursor-plugins]] [[mvanhorn-last30days-skill]]
+[[mvanhorn-last30days-skill]] [[cursor-plugins]] [[toeverything-affine]] [[google-labs-code-stitch-skills]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

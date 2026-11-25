@@ -36,7 +36,7 @@ A unified library of SOTA model optimization techniques like quantization, disti
 
 ## 相关项目
 
-[[tracer-cloud-opensre]] [[openvinotoolkit-openvino]] [[jingyaogong-minimind]] [[elementalsouls-claude-bughunter]] [[patchy631-ai-engineering-hub]]
+[[patchy631-ai-engineering-hub]] [[mvanhorn-last30days-skill]] [[openvinotoolkit-openvino]] [[tracer-cloud-opensre]] [[jingyaogong-minimind]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]]
 

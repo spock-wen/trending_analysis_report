@@ -35,7 +35,7 @@ Introduction to Autonomous Robots
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[mvanhorn-last30days-skill]] [[obra-superpowers]] [[cs341-illinois-coursebook]]
+[[mvanhorn-last30days-skill]] [[cs341-illinois-coursebook]] [[hkuds-cli-anything]] [[obra-superpowers]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]]
 

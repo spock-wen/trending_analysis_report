@@ -34,5 +34,5 @@ A modern runtime for JavaScript and TypeScript.
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[block-buzz]] [[martin-olivier-airgorah]] [[astral-sh-uv]]
+[[block-buzz]] [[martin-olivier-airgorah]] [[vercel-labs-agent-browser]] [[astral-sh-uv]]
 

@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[google-labs-code-stitch-skills]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[cursor-plugins]]
+[[mvanhorn-last30days-skill]] [[cursor-plugins]] [[toeverything-affine]] [[mjmirza-app-store-compliance]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

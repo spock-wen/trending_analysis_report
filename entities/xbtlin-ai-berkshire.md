@@ -38,7 +38,7 @@ AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框�
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[jingyaogong-minimind]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[zhouxiaoka-autoclip]]
+[[mvanhorn-last30days-skill]] [[google-research-paper-orchestra]] [[jingyaogong-minimind]] [[affaan-m-ecc]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

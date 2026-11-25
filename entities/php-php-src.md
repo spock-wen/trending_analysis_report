@@ -35,7 +35,7 @@ The PHP Interpreter
 
 ## 相关项目
 
-[[elementalsouls-claude-bughunter]] [[nginx-nginx]] [[mpv-player-mpv]] [[agricidaniel-claude-seo]] [[lz4-lz4]]
+[[nginx-nginx]] [[lz4-lz4]] [[mpv-player-mpv]] [[elementalsouls-claude-bughunter]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[anomalyco-hex]] [[microsoft-vibevoice]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
+[[mvanhorn-last30days-skill]] [[cursor-plugins]] [[microsoft-vibevoice]] [[toeverything-affine]] [[cathrynlavery-diagram-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

@@ -37,7 +37,7 @@ The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[appwrite-appwrite]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[cursor-plugins]]
+[[mvanhorn-last30days-skill]] [[cursor-plugins]] [[toeverything-affine]] [[cathrynlavery-diagram-design]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

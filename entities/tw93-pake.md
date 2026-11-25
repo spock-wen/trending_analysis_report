@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[vercel-labs-agent-browser]] [[obra-superpowers]] [[zhouxiaoka-autoclip]] [[block-buzz]]
+[[mvanhorn-last30days-skill]] [[cathrynlavery-diagram-design]] [[block-buzz]] [[vercel-labs-agent-browser]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

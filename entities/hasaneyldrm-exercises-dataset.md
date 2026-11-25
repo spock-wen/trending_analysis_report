@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[appwrite-appwrite]] [[alchaincyf-huashu-design]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[mjmirza-app-store-compliance]]
+[[mvanhorn-last30days-skill]] [[averygan-reclip]] [[alchaincyf-huashu-design]] [[cathrynlavery-diagram-design]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

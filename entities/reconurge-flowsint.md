@@ -37,7 +37,7 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[google-labs-code-stitch-skills]] [[firecrawl-firecrawl]] [[cursor-plugins]] [[mjmirza-app-store-compliance]]
+[[cursor-plugins]] [[toeverything-affine]] [[mjmirza-app-store-compliance]] [[affaan-m-ecc]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[security]]
 

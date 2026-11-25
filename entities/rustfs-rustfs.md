@@ -35,5 +35,5 @@ RustFS is an open-source, S3-compatible high-performance object storage system s
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[block-buzz]] [[martin-olivier-airgorah]] [[astral-sh-uv]]
+[[block-buzz]] [[martin-olivier-airgorah]] [[vercel-labs-agent-browser]] [[astral-sh-uv]]
 

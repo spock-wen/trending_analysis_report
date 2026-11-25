@@ -34,7 +34,7 @@ Painless E2E Automation for Mobile and Web
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[android-skills]] [[hkuds-cli-anything]] [[sveltejs-svelte]] [[cathrynlavery-diagram-design]]
+[[mvanhorn-last30days-skill]] [[cathrynlavery-diagram-design]] [[embabel-embabel-agent]] [[bannedbook-fanqiang]] [[android-skills]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[elementalsouls-claude-bughunter]] [[firecrawl-firecrawl]] [[php-php-src]] [[cursor-plugins]]
+[[cursor-plugins]] [[toeverything-affine]] [[google-labs-code-stitch-skills]] [[elementalsouls-claude-bughunter]] [[obra-superpowers]]
 
 **所属领域**: [[erp]]
 

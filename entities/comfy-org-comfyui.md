@@ -38,7 +38,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[conardli-garden-skills]] [[jingyaogong-minimind]] [[zhouxiaoka-autoclip]] [[likely7-veyra-nrvideo]]
+[[mvanhorn-last30days-skill]] [[conardli-garden-skills]] [[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[jingyaogong-minimind]]
 
 **所属领域**: [[image-gen]]
 

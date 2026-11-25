@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[affaan-m-ecc]] [[jingyaogong-minimind]] [[patchy631-ai-engineering-hub]] [[obra-superpowers]] [[firecrawl-firecrawl]]
+[[patchy631-ai-engineering-hub]] [[mvanhorn-last30days-skill]] [[toeverything-affine]] [[google-research-paper-orchestra]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

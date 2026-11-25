@@ -37,7 +37,7 @@ Official Python inference and LoRA trainer package for the LTX-2 audio–video g
 
 ## 相关项目
 
-[[jingyaogong-minimind]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[microsoft-vibevoice]] [[zhouxiaoka-autoclip]]
+[[mvanhorn-last30days-skill]] [[microsoft-vibevoice]] [[scenario-labs-skills]] [[jingyaogong-minimind]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

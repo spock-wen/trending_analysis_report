@@ -38,7 +38,7 @@ Project NOMAD is an offline-first knowledge and education server. Wikipedia, tho
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[patchy631-ai-engineering-hub]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[cursor-plugins]]
+[[patchy631-ai-engineering-hub]] [[mvanhorn-last30days-skill]] [[cursor-plugins]] [[toeverything-affine]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

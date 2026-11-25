@@ -37,7 +37,7 @@ Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,
 
 ## 相关项目
 
-[[nvidia-auto-ontology]] [[conardli-garden-skills]] [[jingyaogong-minimind]] [[obra-superpowers]] [[firecrawl-firecrawl]]
+[[mvanhorn-last30days-skill]] [[conardli-garden-skills]] [[nvidia-auto-ontology]] [[likely7-veyra-nrvideo]] [[jingyaogong-minimind]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

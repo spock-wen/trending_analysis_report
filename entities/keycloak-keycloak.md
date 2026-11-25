@@ -34,7 +34,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ## 相关项目
 
-[[floci-io-floci]] [[affaan-m-ecc]] [[yuliskov-smarttube]] [[mjmirza-app-store-compliance]] [[martin-olivier-airgorah]]
+[[yuliskov-smarttube]] [[toeverything-affine]] [[mjmirza-app-store-compliance]] [[martin-olivier-airgorah]] [[nationalsecurityagency-ghidra]]
 
 **所属领域**: [[security]]
 

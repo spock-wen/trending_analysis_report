@@ -34,7 +34,7 @@ Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud model
 
 ## 相关项目
 
-[[deanchensj-jiangshan-map]] [[affaan-m-ecc]] [[anomalyco-hex]] [[microsoft-vibevoice]] [[firecrawl-firecrawl]]
+[[mvanhorn-last30days-skill]] [[jquery-jquery]] [[microsoft-vibevoice]] [[toeverything-affine]] [[anomalyco-hex]]
 
 **所属领域**: [[ai-agent]] [[security]] [[audio]]
 

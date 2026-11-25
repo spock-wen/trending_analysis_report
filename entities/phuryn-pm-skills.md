@@ -38,7 +38,7 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]]
+[[mvanhorn-last30days-skill]] [[google-labs-code-stitch-skills]] [[hkuds-cli-anything]] [[obra-superpowers]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

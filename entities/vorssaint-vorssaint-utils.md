@@ -34,7 +34,7 @@ Free and open-source macOS menu bar toolkit.
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[xtool-org-xtool]] [[mvanhorn-last30days-skill]]
+[[mvanhorn-last30days-skill]] [[abue-ammar-tinycast]] [[xtool-org-xtool]] [[manaflow-ai-cmux]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

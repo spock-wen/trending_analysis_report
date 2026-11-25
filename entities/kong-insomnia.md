@@ -36,7 +36,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[obra-superpowers]] [[firecrawl-firecrawl]] [[zhouxiaoka-autoclip]] [[cursor-plugins]]
+[[mvanhorn-last30days-skill]] [[cursor-plugins]] [[toeverything-affine]] [[cathrynlavery-diagram-design]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -34,7 +34,7 @@ An unofficial desktop client for Jellyfin
 
 ## 相关项目
 
-[[google-labs-code-stitch-skills]] [[vercel-labs-agent-browser]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[block-buzz]]
+[[block-buzz]] [[vercel-labs-agent-browser]] [[google-labs-code-stitch-skills]] [[astral-sh-uv]] [[hkuds-cli-anything]]
 
 **所属领域**: [[cli]]
 

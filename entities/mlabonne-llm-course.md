@@ -34,7 +34,7 @@ Course to get into Large Language Models (LLMs) with roadmaps and Colab notebook
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[ggml-org-ggml]] [[mvanhorn-last30days-skill]]
+[[patchy631-ai-engineering-hub]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[thu-maic-openmaic]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[deanchensj-jiangshan-map]] [[affaan-m-ecc]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[jquery-jquery]]
+[[mvanhorn-last30days-skill]] [[jquery-jquery]] [[affaan-m-ecc]] [[sveltejs-svelte]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

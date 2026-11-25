@@ -35,7 +35,7 @@ A batteries-included framework for building web apps
 
 ## 相关项目
 
-[[vercel-labs-agent-browser]] [[block-buzz]] [[martin-olivier-airgorah]] [[mvanhorn-last30days-skill]] [[astral-sh-uv]]
+[[mvanhorn-last30days-skill]] [[cathrynlavery-diagram-design]] [[block-buzz]] [[vercel-labs-agent-browser]] [[sveltejs-svelte]]
 
 **所属领域**: [[web]]
 

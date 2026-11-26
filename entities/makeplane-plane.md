@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[cursor-plugins]] [[toeverything-affine]] [[google-labs-code-stitch-skills]] [[hkuds-cli-anything]] [[obra-superpowers]]
+[[toeverything-affine]] [[zhouxiaoka-autoclip]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[cli]]
 

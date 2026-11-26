@@ -34,5 +34,5 @@ A set of beautifully-designed, accessible components and a code distribution pla
 
 ## 相关项目
 
-[[cursor-plugins]] [[google-labs-code-stitch-skills]] [[toeverything-affine]] [[firecrawl-firecrawl]]
+[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[firecrawl-firecrawl]] [[toeverything-affine]]
 

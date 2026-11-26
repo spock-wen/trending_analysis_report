@@ -36,7 +36,7 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[jquery-jquery]] [[mjmirza-app-store-compliance]] [[affaan-m-ecc]] [[sveltejs-svelte]]
+[[sveltejs-svelte]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[nvidia-skillevaluator]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

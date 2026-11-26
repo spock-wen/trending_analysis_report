@@ -36,7 +36,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[cursor-plugins]] [[toeverything-affine]] [[mjmirza-app-store-compliance]] [[affaan-m-ecc]]
+[[toeverything-affine]] [[martin-olivier-airgorah]] [[mvanhorn-last30days-skill]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

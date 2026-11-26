@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[mvanhorn-last30days-skill]] [[jingyaogong-minimind]] [[hkuds-cli-anything]] [[thu-maic-openmaic]]
+[[zhouxiaoka-autoclip]] [[thu-maic-openmaic]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

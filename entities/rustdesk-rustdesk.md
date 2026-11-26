@@ -35,5 +35,5 @@ An open-source remote desktop application designed for self-hosting, as an alter
 
 ## 相关项目
 
-[[block-buzz]] [[martin-olivier-airgorah]] [[vercel-labs-agent-browser]] [[astral-sh-uv]]
+[[astral-sh-uv]] [[block-buzz]] [[martin-olivier-airgorah]] [[vercel-labs-agent-browser]]
 

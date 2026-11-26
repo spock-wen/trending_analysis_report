@@ -34,7 +34,7 @@ An open-source AI agent that brings the power of Gemini directly into your termi
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[cursor-plugins]] [[toeverything-affine]] [[google-labs-code-stitch-skills]] [[hkuds-cli-anything]]
+[[toeverything-affine]] [[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

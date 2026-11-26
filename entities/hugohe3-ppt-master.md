@@ -36,7 +36,7 @@ AI turns documents or topics into real, native PowerPoint decks—with native sh
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]] [[microsoft-vibevoice]] [[mjmirza-app-store-compliance]] [[jingyaogong-minimind]]
+[[agricidaniel-claude-seo]] [[zhouxiaoka-autoclip]] [[anomalyco-hex]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[data]] [[erp]] [[audio]]
 

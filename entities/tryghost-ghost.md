@@ -35,5 +35,5 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ## 相关项目
 
-[[jquery-jquery]] [[affaan-m-ecc]] [[sveltejs-svelte]] [[deanchensj-jiangshan-map]]
+[[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[jquery-jquery]] [[affaan-m-ecc]]
 

@@ -34,7 +34,7 @@ Training neural networks on Apple Neural Engine via reverse-engineered private A
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[pookjw-hermesenabler]] [[hkuds-cli-anything]] [[obra-superpowers]] [[firecrawl-firecrawl]]
+[[pookjw-hermesenabler]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[obra-superpowers]]
 
 **所属领域**: [[ai-agent]]
 

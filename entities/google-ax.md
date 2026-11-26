@@ -37,7 +37,7 @@ Google's open agentic orchestration runtime
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[juliusbrussee-caveman]] [[getarcaneapp-arcane]] [[alibaba-open-code-review]] [[hkuds-cli-anything]]
+[[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[tencent-loopforge]] [[hkuds-cli-anything]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

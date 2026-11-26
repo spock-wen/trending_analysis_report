@@ -35,7 +35,7 @@ A collection of AI agent skills for working with Expo projects and Expo Applicat
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[mattpocock-skills]] [[zhouxiaoka-autoclip]] [[mjmirza-app-store-compliance]] [[google-labs-code-stitch-skills]]
+[[mattpocock-skills]] [[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

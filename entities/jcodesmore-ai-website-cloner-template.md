@@ -38,7 +38,7 @@ Clone any website with one command using AI coding agents
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[cursor-plugins]] [[toeverything-affine]] [[cathrynlavery-diagram-design]] [[google-labs-code-stitch-skills]]
+[[sveltejs-svelte]] [[toeverything-affine]] [[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

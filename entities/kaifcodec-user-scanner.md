@@ -35,7 +35,7 @@ language: "Python"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[toeverything-affine]] [[google-research-paper-orchestra]] [[mjmirza-app-store-compliance]] [[jingyaogong-minimind]]
+[[toeverything-affine]] [[zhouxiaoka-autoclip]] [[martin-olivier-airgorah]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[data]] [[security]] [[science]]
 

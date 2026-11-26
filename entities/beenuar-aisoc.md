@@ -34,7 +34,7 @@ Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[conardli-garden-skills]] [[nvidia-skillevaluator]] [[nvidia-auto-ontology]] [[toeverything-affine]]
+[[toeverything-affine]] [[zhouxiaoka-autoclip]] [[martin-olivier-airgorah]] [[nvidia-auto-ontology]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[security]] [[image-gen]]
 

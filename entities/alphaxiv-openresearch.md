@@ -38,7 +38,7 @@ Turn your coding agents into research agents
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[google-research-paper-orchestra]] [[block-buzz]] [[vercel-labs-agent-browser]] [[affaan-m-ecc]]
+[[block-buzz]] [[martin-olivier-airgorah]] [[vercel-labs-agent-browser]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

@@ -36,7 +36,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[nvidia-auto-ontology]] [[jquery-jquery]] [[likely7-veyra-nrvideo]] [[cathrynlavery-diagram-design]]
+[[sveltejs-svelte]] [[nvidia-auto-ontology]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[web]] [[image-gen]]
 

@@ -38,7 +38,7 @@ Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[jquery-jquery]] [[affaan-m-ecc]] [[google-labs-code-stitch-skills]] [[sveltejs-svelte]]
+[[sveltejs-svelte]] [[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

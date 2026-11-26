@@ -35,7 +35,7 @@ Create Reddit Videos with just✨ one command ✨
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[jingyaogong-minimind]] [[google-labs-code-stitch-skills]] [[hkuds-cli-anything]] [[obra-superpowers]]
+[[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[google-labs-code-stitch-skills]] [[jingyaogong-minimind]]
 
 **所属领域**: [[cli]]
 

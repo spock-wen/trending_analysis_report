@@ -36,7 +36,7 @@ PaperOrchestra is a multi-agent framework for automated AI research paper writin
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[jingyaogong-minimind]] [[affaan-m-ecc]] [[hkuds-cli-anything]] [[obra-superpowers]]
+[[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

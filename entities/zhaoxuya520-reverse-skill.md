@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[actions-runner-images]] [[bwya77-vscode-dark-islands]] [[mvanhorn-last30days-skill]] [[toeverything-affine]] [[google-research-paper-orchestra]]
+[[toeverything-affine]] [[zhouxiaoka-autoclip]] [[martin-olivier-airgorah]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

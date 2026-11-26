@@ -35,7 +35,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[openvinotoolkit-openvino]] [[cursor-plugins]] [[tracer-cloud-opensre]] [[toeverything-affine]]
+[[toeverything-affine]] [[mvanhorn-last30days-skill]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

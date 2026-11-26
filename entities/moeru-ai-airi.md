@@ -38,7 +38,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[cursor-plugins]] [[microsoft-vibevoice]] [[toeverything-affine]] [[cathrynlavery-diagram-design]]
+[[sveltejs-svelte]] [[toeverything-affine]] [[anomalyco-hex]] [[mvanhorn-last30days-skill]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[web]] [[audio]]
 

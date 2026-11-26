@@ -35,7 +35,7 @@ All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memo
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[jingyaogong-minimind]] [[hkuds-cli-anything]] [[obra-superpowers]] [[zhouxiaoka-autoclip]]
+[[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[jingyaogong-minimind]]
 
 **所属领域**: [[ai-agent]]
 

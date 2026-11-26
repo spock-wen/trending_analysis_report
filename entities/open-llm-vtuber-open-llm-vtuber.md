@@ -37,7 +37,7 @@ Talk to any LLM with hands-free voice interaction, voice interruption, and Live2
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[microsoft-vibevoice]] [[scenario-labs-skills]] [[jingyaogong-minimind]] [[hkuds-cli-anything]]
+[[zhouxiaoka-autoclip]] [[anomalyco-hex]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

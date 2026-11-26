@@ -34,7 +34,7 @@ This open-source curriculum introduces the fundamentals of Model Context Protoco
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[higgsfield-ai-higgsfield]] [[mvanhorn-last30days-skill]] [[xiaolai-the-craft-of-selfteaching]] [[lyogavin-airllm]]
+[[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[patchy631-ai-engineering-hub]] [[hkuds-cli-anything]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

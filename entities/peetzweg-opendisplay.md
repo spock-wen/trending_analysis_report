@@ -34,7 +34,7 @@ Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true
 
 ## 相关项目
 
-[[abue-ammar-tinycast]] [[openvinotoolkit-openvino]] [[xtool-org-xtool]] [[vorssaint-vorssaint-utils]] [[tracer-cloud-opensre]]
+[[manaflow-ai-cmux]] [[firecrawl-firecrawl]] [[xtool-org-xtool]] [[abue-ammar-tinycast]] [[elementalsouls-claude-bughunter]]
 
 **所属领域**: [[devops]]
 

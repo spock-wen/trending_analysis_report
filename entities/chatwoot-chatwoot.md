@@ -38,7 +38,7 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[rails-rails]] [[docusealco-docuseal]] [[we-promise-sure]] [[hkuds-cli-anything]]
+[[we-promise-sure]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[docusealco-docuseal]]
 
 **所属领域**: [[ai-agent]]
 

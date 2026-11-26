@@ -38,5 +38,5 @@ A hierarchical inference engine for frontier MoE models: hot experts on the GPU 
 
 ## 相关项目
 
-[[nginx-nginx]] [[openssl-openssl]] [[lz4-lz4]] [[mpv-player-mpv]]
+[[lz4-lz4]] [[openssl-openssl]] [[mpv-player-mpv]] [[nginx-nginx]]
 

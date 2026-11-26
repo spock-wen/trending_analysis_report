@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[higgsfield-ai-higgsfield]] [[mvanhorn-last30days-skill]] [[openvinotoolkit-openvino]] [[tracer-cloud-opensre]]
+[[agricidaniel-claude-seo]] [[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[patchy631-ai-engineering-hub]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

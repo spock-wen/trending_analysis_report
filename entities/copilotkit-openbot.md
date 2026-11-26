@@ -37,7 +37,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[cursor-plugins]] [[toeverything-affine]] [[cathrynlavery-diagram-design]] [[google-labs-code-stitch-skills]]
+[[sveltejs-svelte]] [[toeverything-affine]] [[mvanhorn-last30days-skill]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]]
 

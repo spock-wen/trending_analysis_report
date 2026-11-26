@@ -34,7 +34,7 @@ Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workf
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[conardli-garden-skills]] [[nvidia-auto-ontology]] [[microsoft-vibevoice]] [[likely7-veyra-nrvideo]]
+[[zhouxiaoka-autoclip]] [[nvidia-auto-ontology]] [[anomalyco-hex]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

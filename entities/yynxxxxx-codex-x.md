@@ -35,7 +35,7 @@ OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换�
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[block-buzz]] [[vercel-labs-agent-browser]] [[google-labs-code-stitch-skills]] [[astral-sh-uv]]
+[[zhouxiaoka-autoclip]] [[block-buzz]] [[martin-olivier-airgorah]] [[vercel-labs-agent-browser]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

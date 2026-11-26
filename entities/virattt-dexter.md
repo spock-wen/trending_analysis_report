@@ -38,7 +38,7 @@ An autonomous agent for deep financial research
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[cursor-plugins]] [[toeverything-affine]] [[google-research-paper-orchestra]] [[affaan-m-ecc]]
+[[toeverything-affine]] [[mvanhorn-last30days-skill]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

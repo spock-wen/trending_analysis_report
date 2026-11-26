@@ -34,7 +34,7 @@ Curated list of project-based tutorials
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[mvanhorn-last30days-skill]] [[jingyaogong-minimind]] [[hkuds-cli-anything]] [[thu-maic-openmaic]]
+[[zhouxiaoka-autoclip]] [[thu-maic-openmaic]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[patchy631-ai-engineering-hub]]
 
 **所属领域**: [[education]]
 

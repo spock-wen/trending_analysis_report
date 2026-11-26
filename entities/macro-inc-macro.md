@@ -38,7 +38,7 @@ Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[block-buzz]] [[vercel-labs-agent-browser]] [[astral-sh-uv]] [[hkuds-cli-anything]]
+[[block-buzz]] [[martin-olivier-airgorah]] [[vercel-labs-agent-browser]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]]
 

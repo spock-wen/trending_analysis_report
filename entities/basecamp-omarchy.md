@@ -38,7 +38,7 @@ Beautiful, Modern & Opinionated Linux
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zhouxiaoka-autoclip]] [[mjmirza-app-store-compliance]] [[google-labs-code-stitch-skills]] [[hkuds-cli-anything]]
+[[mattpocock-skills]] [[zhouxiaoka-autoclip]] [[hkuds-cli-anything]] [[google-labs-code-stitch-skills]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[cli]]
 

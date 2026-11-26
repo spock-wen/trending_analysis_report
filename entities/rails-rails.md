@@ -34,7 +34,7 @@ Ruby on Rails
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[chatwoot-chatwoot]] [[docusealco-docuseal]] [[we-promise-sure]] [[hkuds-cli-anything]]
+[[we-promise-sure]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[chatwoot-chatwoot]]
 
 **所属领域**: [[ai-agent]]
 

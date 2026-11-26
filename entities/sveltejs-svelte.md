@@ -37,7 +37,7 @@ web development for the rest of us
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[jquery-jquery]] [[cathrynlavery-diagram-design]] [[affaan-m-ecc]] [[hkuds-cli-anything]]
+[[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[cathrynlavery-diagram-design]] [[affaan-m-ecc]] [[deanchensj-jiangshan-map]]
 
 **所属领域**: [[web]]
 

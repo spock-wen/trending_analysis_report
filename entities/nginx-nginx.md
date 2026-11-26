@@ -1,20 +1,20 @@
 ---
 title: "nginx/nginx"
 created: 2026-11-20
-updated: 2026-11-26
-last_active: 2026-11-26
+updated: 2026-11-27
+last_active: 2026-11-27
 type: tool
 tags: [rising]
-sources: [raw/trending/2026-11-26.json]
+sources: [raw/trending/2026-11-27.json]
 confidence: high
-trending_count_daily: 8
+trending_count_daily: 9
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 7
+consecutive_days: 8
 first_trending: 2026-11-20
-last_trending: 2026-11-26
+last_trending: 2026-11-27
 peak_rank: 7
-total_stars: 33359
+total_stars: 33514
 language: "C"
 ---
 
@@ -23,18 +23,18 @@ language: "C"
 The official NGINX Open Source repository.
 
 - 语言: C
-- 上榜次数: 8 次
-- 连续上榜: 7 天
+- 上榜次数: 9 次
+- 连续上榜: 8 天
 - 最高排名: #7
 - 链接: [nginx/nginx](https://github.com/nginx/nginx)
 
 ## 上榜历史
 
+  - 2026-11-27: #7, +150⭐
   - 2026-11-26: #7, +174⭐
   - 2026-11-25: #7, +158⭐
   - 2026-11-24: #7, +174⭐
   - 2026-11-23: #7, +168⭐
-  - 2026-11-22: #7, +195⭐
 
 ## 相关项目
 

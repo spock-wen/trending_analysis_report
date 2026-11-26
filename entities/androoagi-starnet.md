@@ -34,7 +34,7 @@ A living pixel-art station where real AI agents do real work. Local-first deskto
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[jquery-jquery]] [[affaan-m-ecc]] [[sveltejs-svelte]] [[hkuds-cli-anything]]
+[[sveltejs-svelte]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[affaan-m-ecc]]
 
 **所属领域**: [[ai-agent]]
 

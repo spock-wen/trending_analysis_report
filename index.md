@@ -1,7 +1,7 @@
 # GitHub Trending Wiki Index
 
 > 内容目录。所有 wiki 页面按类型分组，每条一行：wikilink + 摘要。
-> 最后更新：2026-11-26 | 总页面：923
+> 最后更新：2026-11-27 | 总页面：923
 
 ## Entities
 
@@ -904,7 +904,7 @@
 - [[zedeus-nitter|nitter]] — Alternative Twitter front-end
 - [[zeux-meshoptimizer|meshoptimizer]] — Mesh optimization library that makes meshes smaller and fast... 🆕
 - [[zhaoxuya520-reverse-skill|reverse-skill]] — Reverse Engineering / Authorized Penetration Testing / Secur...
-- [[zhouxiaoka-autoclip|autoclip]] — AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、... 🔥
+- [[zhouxiaoka-autoclip|autoclip]] — AutoClip｜The open-source OpusClip alternative — local-first ... 🔥
 - [[zhulinsen-daily_stock_analysis|daily_stock_analysis]] — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powere...
 - [[zilliztech-claude-context|claude-context]] — Code search MCP for Claude Code. Make entire codebase the co... 🔥
 - [[zuodaotech-everyone-can-use-english|everyone-can-use-english]] — 人人都能用英语

@@ -35,7 +35,7 @@ LLM Inference Engine for Metal, CUDA and Vulkan.
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[ghostty-org-ghostty]] [[lightpanda-io-browser]] [[hkuds-cli-anything]] [[obra-superpowers]]
+[[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[ghostty-org-ghostty]] [[lightpanda-io-browser]]
 
 **所属领域**: [[ai-agent]]
 

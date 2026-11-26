@@ -38,7 +38,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[mattpocock-skills]] [[cathrynlavery-diagram-design]] [[mjmirza-app-store-compliance]] [[zhouxiaoka-autoclip]]
+[[mattpocock-skills]] [[sveltejs-svelte]] [[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

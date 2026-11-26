@@ -36,7 +36,7 @@ Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## 相关项目
 
-[[toeverything-affine]] [[mjmirza-app-store-compliance]] [[block-buzz]] [[vercel-labs-agent-browser]] [[affaan-m-ecc]]
+[[toeverything-affine]] [[block-buzz]] [[martin-olivier-airgorah]] [[vercel-labs-agent-browser]] [[affaan-m-ecc]]
 
 **所属领域**: [[security]]
 

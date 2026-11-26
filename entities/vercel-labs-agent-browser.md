@@ -38,7 +38,7 @@ Browser automation CLI for AI agents
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[cathrynlavery-diagram-design]] [[block-buzz]] [[google-labs-code-stitch-skills]] [[sveltejs-svelte]]
+[[sveltejs-svelte]] [[zhouxiaoka-autoclip]] [[block-buzz]] [[martin-olivier-airgorah]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[web]] [[cli]]
 

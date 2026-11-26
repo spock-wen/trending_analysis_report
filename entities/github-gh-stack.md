@@ -34,5 +34,5 @@ GitHub Stacked PRs
 
 ## 相关项目
 
-[[juliusbrussee-caveman]] [[getarcaneapp-arcane]] [[alibaba-open-code-review]] [[tencent-loopforge]]
+[[getarcaneapp-arcane]] [[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[tencent-loopforge]]
 

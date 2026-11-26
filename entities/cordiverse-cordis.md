@@ -36,5 +36,5 @@ Meta-Framework of Spatiotemporal Composability
 
 ## 相关项目
 
-[[cursor-plugins]] [[google-labs-code-stitch-skills]] [[toeverything-affine]] [[firecrawl-firecrawl]]
+[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[firecrawl-firecrawl]] [[toeverything-affine]]
 

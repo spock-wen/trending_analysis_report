@@ -36,7 +36,7 @@ Graphics Creation Tools
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[nginx-nginx]] [[lz4-lz4]] [[mpv-player-mpv]] [[hkuds-cli-anything]]
+[[lz4-lz4]] [[nginx-nginx]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[openssl-openssl]]
 
 **所属领域**: [[ai-agent]]
 

@@ -35,5 +35,5 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## 相关项目
 
-[[cursor-plugins]] [[google-labs-code-stitch-skills]] [[toeverything-affine]] [[firecrawl-firecrawl]]
+[[google-labs-code-stitch-skills]] [[cursor-plugins]] [[firecrawl-firecrawl]] [[toeverything-affine]]
 

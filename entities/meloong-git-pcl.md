@@ -34,7 +34,7 @@ Minecraft 启动器 Plain Craft Launcher（PCL）。
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[obra-superpowers]]
+[[mvanhorn-last30days-skill]] [[obra-superpowers]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]]
 

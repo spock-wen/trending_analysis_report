@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[mvanhorn-last30days-skill]] [[toeverything-affine]] [[google-research-paper-orchestra]] [[mjmirza-app-store-compliance]]
+[[toeverything-affine]] [[zhouxiaoka-autoclip]] [[thu-maic-openmaic]] [[martin-olivier-airgorah]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

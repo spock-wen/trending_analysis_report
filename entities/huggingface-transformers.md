@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[patchy631-ai-engineering-hub]] [[mvanhorn-last30days-skill]] [[alishahryar1-free-claude-code]] [[microsoft-vibevoice]] [[anomalyco-hex]]
+[[zhouxiaoka-autoclip]] [[thu-maic-openmaic]] [[anomalyco-hex]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

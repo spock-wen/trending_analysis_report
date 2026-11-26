@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[nginx-nginx]] [[lz4-lz4]] [[mpv-player-mpv]] [[google-labs-code-stitch-skills]]
+[[lz4-lz4]] [[zhouxiaoka-autoclip]] [[nginx-nginx]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

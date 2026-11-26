@@ -34,7 +34,7 @@ PowerShell for every system!
 
 ## 相关项目
 
-[[sonarr-sonarr]] [[ntdevlabs-tiny11builder]] [[google-labs-code-stitch-skills]] [[hkuds-cli-anything]] [[k1tbyte-wand-enhancer]]
+[[ntdevlabs-tiny11builder]] [[zhouxiaoka-autoclip]] [[hkuds-cli-anything]] [[jiafeimiao-k-cat-discimagestudio]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[cli]]
 

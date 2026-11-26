@@ -36,7 +36,7 @@ A coding agent for open models like Kimi K3
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[block-buzz]] [[vercel-labs-agent-browser]] [[astral-sh-uv]] [[hkuds-cli-anything]]
+[[agricidaniel-claude-seo]] [[block-buzz]] [[martin-olivier-airgorah]] [[vercel-labs-agent-browser]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]] [[erp]]
 

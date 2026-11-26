@@ -36,7 +36,7 @@ Rust-based platform for the Web
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[cathrynlavery-diagram-design]] [[block-buzz]] [[vercel-labs-agent-browser]] [[sveltejs-svelte]]
+[[sveltejs-svelte]] [[block-buzz]] [[martin-olivier-airgorah]] [[vercel-labs-agent-browser]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]]
 

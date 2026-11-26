@@ -35,7 +35,7 @@ A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[mjmirza-app-store-compliance]] [[plausible-analytics]] [[hkuds-cli-anything]] [[agentjido-jido]]
+[[plausible-analytics]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[nvidia-skillevaluator]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

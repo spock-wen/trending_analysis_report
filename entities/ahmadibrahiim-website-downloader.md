@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[conardli-garden-skills]] [[averygan-reclip]] [[nvidia-auto-ontology]] [[alchaincyf-huashu-design]]
+[[sveltejs-svelte]] [[nvidia-auto-ontology]] [[mvanhorn-last30days-skill]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]]
 
 **所属领域**: [[web]] [[image-gen]]
 

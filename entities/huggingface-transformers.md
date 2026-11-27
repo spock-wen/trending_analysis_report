@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[thu-maic-openmaic]] [[anomalyco-hex]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[hkuds-cli-anything]] [[jingyaogong-minimind]] [[obra-superpowers]] [[microsoft-vibevoice]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[education]] [[audio]]
 

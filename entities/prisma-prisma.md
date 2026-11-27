@@ -36,7 +36,7 @@ Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S
 
 ## 相关项目
 
-[[toeverything-affine]] [[nvidia-auto-ontology]] [[firecrawl-firecrawl]] [[nvidia-skillevaluator]] [[appwrite-appwrite]]
+[[conardli-garden-skills]] [[toeverything-affine]] [[nvidia-auto-ontology]] [[appwrite-appwrite]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[data]] [[image-gen]]
 

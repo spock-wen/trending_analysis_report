@@ -35,7 +35,7 @@ Network stack research tool. TCP tunnel with pluggable transports.
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[mvanhorn-last30days-skill]] [[tencent-loopforge]] [[affaan-m-ecc]]
+[[getarcaneapp-arcane]] [[paperclipai-paperclip]] [[tencent-loopforge]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[science]]
 

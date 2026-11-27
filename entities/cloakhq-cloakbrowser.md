@@ -38,7 +38,7 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 
 ## 相关项目
 
-[[sveltejs-svelte]] [[toeverything-affine]] [[zhouxiaoka-autoclip]] [[agricidaniel-claude-seo]] [[martin-olivier-airgorah]]
+[[martin-olivier-airgorah]] [[hkuds-cli-anything]] [[jingyaogong-minimind]] [[obra-superpowers]] [[toeverything-affine]]
 
 **所属领域**: [[web]] [[security]] [[erp]]
 

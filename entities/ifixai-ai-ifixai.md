@@ -34,7 +34,7 @@ Independent Auditing of AI Agents. Run by human or the agent itself, to answer t
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[jingyaogong-minimind]]
+[[hkuds-cli-anything]] [[jingyaogong-minimind]] [[obra-superpowers]] [[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

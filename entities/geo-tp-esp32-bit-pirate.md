@@ -34,7 +34,7 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 ## 相关项目
 
-[[sveltejs-svelte]] [[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[cathrynlavery-diagram-design]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[openvinotoolkit-openvino]] [[ggml-org-ggml]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[web]] [[cli]]
 

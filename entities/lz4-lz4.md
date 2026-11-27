@@ -34,5 +34,5 @@ Extremely Fast Compression algorithm
 
 ## 相关项目
 
-[[openssl-openssl]] [[mpv-player-mpv]] [[nginx-nginx]]
+[[openssl-openssl]] [[nginx-nginx]] [[mpv-player-mpv]]
 

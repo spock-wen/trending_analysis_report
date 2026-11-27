@@ -36,7 +36,7 @@ Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex an
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]]
+[[getarcaneapp-arcane]] [[hkuds-cli-anything]] [[obra-superpowers]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

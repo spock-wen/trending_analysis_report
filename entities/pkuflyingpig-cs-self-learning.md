@@ -34,7 +34,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[sveltejs-svelte]] [[thu-maic-openmaic]] [[mvanhorn-last30days-skill]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]]
+[[sveltejs-svelte]] [[hkuds-cli-anything]] [[thu-maic-openmaic]] [[alchaincyf-huashu-design]] [[ggml-org-ggml]]
 
 **所属领域**: [[web]] [[education]]
 

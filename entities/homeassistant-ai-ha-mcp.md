@@ -36,7 +36,7 @@ Configure and automate Home Assistant with Claude, ChatGPT, and other AI assista
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[jingyaogong-minimind]]
+[[hkuds-cli-anything]] [[jingyaogong-minimind]] [[obra-superpowers]] [[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

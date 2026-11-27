@@ -38,7 +38,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ## 相关项目
 
-[[toeverything-affine]] [[zhouxiaoka-autoclip]] [[martin-olivier-airgorah]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[martin-olivier-airgorah]] [[hkuds-cli-anything]] [[paperclipai-paperclip]] [[obra-superpowers]] [[toeverything-affine]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[security]] [[science]]
 

@@ -35,7 +35,7 @@ language: "Rust"
 
 ## 相关项目
 
-[[sveltejs-svelte]] [[zhouxiaoka-autoclip]] [[block-buzz]] [[martin-olivier-airgorah]] [[vercel-labs-agent-browser]]
+[[martin-olivier-airgorah]] [[hkuds-cli-anything]] [[obra-superpowers]] [[cathrynlavery-diagram-design]] [[block-buzz]]
 
 **所属领域**: [[web]] [[cli]]
 

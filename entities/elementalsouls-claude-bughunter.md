@@ -1,20 +1,20 @@
 ---
 title: "elementalsouls/Claude-BugHunter"
 created: 2026-11-16
-updated: 2026-11-27
-last_active: 2026-11-27
+updated: 2026-11-28
+last_active: 2026-11-28
 type: tool
 tags: [python, ai-agent, cli, devops, erp, rising]
-sources: [raw/trending/2026-11-27.json]
+sources: [raw/trending/2026-11-28.json]
 confidence: high
-trending_count_daily: 12
+trending_count_daily: 13
 trending_count_weekly: 0
 trending_count_monthly: 0
-consecutive_days: 12
+consecutive_days: 13
 first_trending: 2026-11-16
-last_trending: 2026-11-27
+last_trending: 2026-11-28
 peak_rank: 1
-total_stars: 24482
+total_stars: 26012
 language: "Python"
 ---
 
@@ -23,22 +23,22 @@ language: "Python"
 A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
 
 - 语言: Python
-- 上榜次数: 12 次
-- 连续上榜: 12 天
+- 上榜次数: 13 次
+- 连续上榜: 13 天
 - 最高排名: #1
 - 链接: [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
 
 ## 上榜历史
 
+  - 2026-11-28: #1, +1615⭐
   - 2026-11-27: #1, +1600⭐
   - 2026-11-26: #1, +1644⭐
   - 2026-11-25: #1, +1833⭐
   - 2026-11-24: #1, +2037⭐
-  - 2026-11-23: #1, +1721⭐
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]]
+[[hkuds-cli-anything]] [[jingyaogong-minimind]] [[obra-superpowers]] [[agricidaniel-claude-seo]] [[openvinotoolkit-openvino]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[devops]] [[erp]]
 

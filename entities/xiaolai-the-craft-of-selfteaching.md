@@ -34,7 +34,7 @@ One has no future if one couldn't teach themself.
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]] [[hkuds-cli-anything]] [[mvanhorn-last30days-skill]] [[firecrawl-firecrawl]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[thu-maic-openmaic]] [[lyogavin-airllm]] [[ggml-org-ggml]]
 
 **所属领域**: [[ai-agent]] [[education]]
 

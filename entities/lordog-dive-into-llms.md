@@ -38,7 +38,7 @@ language: "Jupyter Notebook"
 
 ## 相关项目
 
-[[xiaolai-the-craft-of-selfteaching]] [[patchy631-ai-engineering-hub]] [[hkuds-cli-anything]] [[mvanhorn-last30days-skill]] [[firecrawl-firecrawl]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[lyogavin-airllm]] [[xiaolai-the-craft-of-selfteaching]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

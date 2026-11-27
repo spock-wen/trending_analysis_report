@@ -36,7 +36,7 @@ Download videos from almost any website. Lightweight, self-hosted media download
 
 ## 相关项目
 
-[[sveltejs-svelte]] [[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]]
+[[sveltejs-svelte]] [[hkuds-cli-anything]] [[obra-superpowers]] [[alchaincyf-huashu-design]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[web]] [[cli]]
 

@@ -37,7 +37,7 @@ A framework for building agentic apps
 
 ## 相关项目
 
-[[toeverything-affine]] [[mvanhorn-last30days-skill]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[google-labs-code-stitch-skills]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[toeverything-affine]] [[cursor-plugins]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

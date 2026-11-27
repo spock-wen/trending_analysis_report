@@ -38,7 +38,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ## 相关项目
 
-[[sveltejs-svelte]] [[toeverything-affine]] [[martin-olivier-airgorah]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[martin-olivier-airgorah]] [[hkuds-cli-anything]] [[obra-superpowers]] [[toeverything-affine]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

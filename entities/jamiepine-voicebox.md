@@ -38,7 +38,7 @@ The open-source AI voice studio. Clone, dictate, create.
 
 ## 相关项目
 
-[[toeverything-affine]] [[anomalyco-hex]] [[mvanhorn-last30days-skill]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[toeverything-affine]] [[microsoft-vibevoice]] [[cursor-plugins]]
 
 **所属领域**: [[ai-agent]] [[audio]]
 

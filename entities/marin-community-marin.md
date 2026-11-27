@@ -37,7 +37,7 @@ Open-source framework for the research and development of foundation models.
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[affaan-m-ecc]] [[paperclipai-paperclip]]
+[[hkuds-cli-anything]] [[jingyaogong-minimind]] [[paperclipai-paperclip]] [[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[science]]
 

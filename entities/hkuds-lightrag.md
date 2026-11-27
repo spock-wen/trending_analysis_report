@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[nvidia-auto-ontology]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[nvidia-skillevaluator]]
+[[conardli-garden-skills]] [[hkuds-cli-anything]] [[jingyaogong-minimind]] [[nvidia-auto-ontology]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[image-gen]]
 

@@ -38,7 +38,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 
 ## 相关项目
 
-[[block-buzz]] [[martin-olivier-airgorah]] [[vercel-labs-agent-browser]] [[nvidia-auto-ontology]] [[mvanhorn-last30days-skill]]
+[[martin-olivier-airgorah]] [[hkuds-cli-anything]] [[conardli-garden-skills]] [[obra-superpowers]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[data]] [[image-gen]]
 

@@ -38,7 +38,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[obra-superpowers]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[xtool-org-xtool]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[vorssaint-vorssaint-utils]] [[abue-ammar-tinycast]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

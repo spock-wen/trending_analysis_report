@@ -38,7 +38,7 @@ language: "Python"
 
 ## 相关项目
 
-[[sveltejs-svelte]] [[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]]
+[[hkuds-cli-anything]] [[jingyaogong-minimind]] [[obra-superpowers]] [[openvinotoolkit-openvino]] [[appwrite-appwrite]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]] [[devops]]
 

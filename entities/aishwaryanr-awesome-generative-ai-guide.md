@@ -34,7 +34,7 @@ A one stop repository for generative AI research updates, interview resources, n
 
 ## 相关项目
 
-[[sveltejs-svelte]] [[mvanhorn-last30days-skill]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]]
+[[sveltejs-svelte]] [[hkuds-cli-anything]] [[paperclipai-paperclip]] [[obra-superpowers]] [[alchaincyf-huashu-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

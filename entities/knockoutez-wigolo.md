@@ -37,7 +37,7 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 ## 相关项目
 
-[[sveltejs-svelte]] [[toeverything-affine]] [[mvanhorn-last30days-skill]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]]
+[[hkuds-cli-anything]] [[paperclipai-paperclip]] [[obra-superpowers]] [[toeverything-affine]] [[cursor-plugins]]
 
 **所属领域**: [[ai-agent]] [[web]] [[science]]
 

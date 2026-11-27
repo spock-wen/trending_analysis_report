@@ -34,7 +34,7 @@ PowerShell for every system!
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[zhouxiaoka-autoclip]] [[hkuds-cli-anything]] [[jiafeimiao-k-cat-discimagestudio]] [[google-labs-code-stitch-skills]]
+[[jiafeimiao-k-cat-discimagestudio]] [[hkuds-cli-anything]] [[obra-superpowers]] [[zhouxiaoka-autoclip]] [[ntdevlabs-tiny11builder]]
 
 **所属领域**: [[cli]]
 

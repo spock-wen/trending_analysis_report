@@ -34,7 +34,7 @@ language: "Python"
 
 ## 相关项目
 
-[[toeverything-affine]] [[zhouxiaoka-autoclip]] [[thu-maic-openmaic]] [[martin-olivier-airgorah]] [[mvanhorn-last30days-skill]]
+[[martin-olivier-airgorah]] [[hkuds-cli-anything]] [[jingyaogong-minimind]] [[obra-superpowers]] [[toeverything-affine]]
 
 **所属领域**: [[ai-agent]] [[security]] [[education]] [[science]]
 

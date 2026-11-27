@@ -35,7 +35,7 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
 ## 相关项目
 
-[[lz4-lz4]] [[zhouxiaoka-autoclip]] [[nginx-nginx]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[nginx-nginx]] [[mpv-player-mpv]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

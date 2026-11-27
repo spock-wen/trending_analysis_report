@@ -34,7 +34,7 @@ language: "TypeScript"
 
 ## 相关项目
 
-[[toeverything-affine]] [[mvanhorn-last30days-skill]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[nvidia-skillevaluator]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[toeverything-affine]] [[openvinotoolkit-openvino]] [[appwrite-appwrite]]
 
 **所属领域**: [[ai-agent]] [[data]] [[devops]]
 

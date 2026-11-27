@@ -35,7 +35,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[sveltejs-svelte]] [[nvidia-auto-ontology]] [[anomalyco-hex]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[conardli-garden-skills]] [[hkuds-cli-anything]] [[obra-superpowers]] [[microsoft-vibevoice]] [[nvidia-auto-ontology]]
 
 **所属领域**: [[ai-agent]] [[image-gen]] [[audio]]
 

@@ -37,7 +37,7 @@ language: "Python"
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]]
+[[hkuds-cli-anything]] [[jingyaogong-minimind]] [[obra-superpowers]] [[agricidaniel-claude-seo]] [[paperclipai-paperclip]]
 
 **所属领域**: [[ai-agent]] [[cli]] [[erp]] [[science]]
 

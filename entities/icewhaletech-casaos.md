@@ -36,5 +36,5 @@ CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
 ## 相关项目
 
-[[getarcaneapp-arcane]] [[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[tencent-loopforge]]
+[[alibaba-open-code-review]] [[getarcaneapp-arcane]] [[juliusbrussee-caveman]] [[tencent-loopforge]]
 

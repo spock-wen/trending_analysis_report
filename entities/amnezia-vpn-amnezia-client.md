@@ -34,7 +34,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 ## 相关项目
 
-[[toeverything-affine]] [[zhouxiaoka-autoclip]] [[martin-olivier-airgorah]] [[hkuds-cli-anything]] [[likely7-veyra-nrvideo]]
+[[martin-olivier-airgorah]] [[hkuds-cli-anything]] [[obra-superpowers]] [[toeverything-affine]] [[openvinotoolkit-openvino]]
 
 **所属领域**: [[cli]] [[security]]
 

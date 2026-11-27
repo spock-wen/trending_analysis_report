@@ -34,7 +34,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[hkuds-cli-anything]] [[likely7-veyra-nrvideo]] [[ggml-org-ggml]] [[ggml-org-llama.cpp]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[openvinotoolkit-openvino]] [[ggml-org-ggml]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[cli]]
 

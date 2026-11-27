@@ -35,7 +35,7 @@ Code for Machine Learning for Algorithmic Trading, 2nd edition.
 
 ## 相关项目
 
-[[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[patchy631-ai-engineering-hub]] [[ggml-org-ggml]] [[higgsfield-ai-higgsfield]]
+[[thu-maic-openmaic]] [[lyogavin-airllm]] [[xiaolai-the-craft-of-selfteaching]] [[ggml-org-ggml]] [[michaelcade-90daysofdevops]]
 
 **所属领域**: [[education]]
 

@@ -34,5 +34,5 @@ Portable Tool for an Ideal Windows Setup
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[k1tbyte-wand-enhancer]] [[sonarr-sonarr]] [[jiafeimiao-k-cat-discimagestudio]]
+[[jiafeimiao-k-cat-discimagestudio]] [[k1tbyte-wand-enhancer]] [[sonarr-sonarr]] [[ntdevlabs-tiny11builder]]
 

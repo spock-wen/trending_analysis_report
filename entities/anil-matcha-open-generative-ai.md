@@ -37,7 +37,7 @@ Unrestricted Open-source alternative to AI video platforms — Free AI image & v
 
 ## 相关项目
 
-[[sveltejs-svelte]] [[nvidia-auto-ontology]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]]
+[[conardli-garden-skills]] [[hkuds-cli-anything]] [[obra-superpowers]] [[nvidia-auto-ontology]] [[jquery-jquery]]
 
 **所属领域**: [[ai-agent]] [[image-gen]]
 

@@ -36,7 +36,7 @@ A collection of projects designed to help developers quickly get started with bu
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[elementalsouls-claude-bughunter]]
+[[hkuds-cli-anything]] [[jingyaogong-minimind]] [[obra-superpowers]] [[openvinotoolkit-openvino]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

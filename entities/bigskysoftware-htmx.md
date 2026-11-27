@@ -34,7 +34,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[sveltejs-svelte]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[cathrynlavery-diagram-design]] [[affaan-m-ecc]]
+[[hkuds-cli-anything]] [[jquery-jquery]] [[mvanhorn-last30days-skill]] [[affaan-m-ecc]] [[sveltejs-svelte]]
 
 **所属领域**: [[web]]
 

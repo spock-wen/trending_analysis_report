@@ -34,7 +34,7 @@ Miles is an enterprise-facing reinforcement learning framework for LLM and VLM p
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[zhouxiaoka-autoclip]] [[thu-maic-openmaic]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[hkuds-cli-anything]] [[jingyaogong-minimind]] [[obra-superpowers]] [[agricidaniel-claude-seo]] [[thu-maic-openmaic]]
 
 **所属领域**: [[ai-agent]] [[education]] [[erp]]
 

@@ -34,5 +34,5 @@ Free and Open Source Machine Translation API. Self-hosted, offline capable and e
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[jingyaogong-minimind]]
+[[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[jingyaogong-minimind]] [[zhouxiaoka-autoclip]]
 

@@ -36,7 +36,7 @@ No description
 
 ## 相关项目
 
-[[mahlernim-google-timeline-visualizer]] [[hkuds-cli-anything]] [[mvanhorn-last30days-skill]] [[firecrawl-firecrawl]] [[bannedbook-fanqiang]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[bannedbook-fanqiang]] [[mahlernim-google-timeline-visualizer]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

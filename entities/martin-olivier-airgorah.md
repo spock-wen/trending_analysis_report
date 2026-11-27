@@ -34,7 +34,7 @@ A WiFi security auditing software
 
 ## 相关项目
 
-[[toeverything-affine]] [[block-buzz]] [[vercel-labs-agent-browser]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[toeverything-affine]] [[block-buzz]] [[astral-sh-uv]]
 
 **所属领域**: [[ai-agent]] [[security]]
 

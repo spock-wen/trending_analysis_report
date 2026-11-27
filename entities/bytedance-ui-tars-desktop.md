@@ -37,7 +37,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 
 ## 相关项目
 
-[[toeverything-affine]] [[mvanhorn-last30days-skill]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[google-labs-code-stitch-skills]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[toeverything-affine]] [[openvinotoolkit-openvino]] [[cursor-plugins]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

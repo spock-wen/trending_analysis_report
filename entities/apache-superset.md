@@ -35,7 +35,7 @@ Apache Superset is a Data Visualization and Data Exploration Platform
 
 ## 相关项目
 
-[[toeverything-affine]] [[firecrawl-firecrawl]] [[nvidia-skillevaluator]] [[appwrite-appwrite]] [[google-labs-code-stitch-skills]]
+[[toeverything-affine]] [[appwrite-appwrite]] [[mjmirza-app-store-compliance]] [[cursor-plugins]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[data]]
 

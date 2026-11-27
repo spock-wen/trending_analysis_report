@@ -34,5 +34,5 @@ C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 
 ## 相关项目
 
-[[likely7-veyra-nrvideo]] [[openvinotoolkit-openvino]] [[ggml-org-ggml]] [[ggml-org-llama.cpp]]
+[[ggml-org-llama.cpp]] [[ggml-org-ggml]] [[openvinotoolkit-openvino]] [[likely7-veyra-nrvideo]]
 

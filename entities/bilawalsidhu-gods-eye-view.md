@@ -38,7 +38,7 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 
 ## 相关项目
 
-[[sveltejs-svelte]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[cathrynlavery-diagram-design]] [[firecrawl-firecrawl]]
+[[hkuds-cli-anything]] [[appwrite-appwrite]] [[mjmirza-app-store-compliance]] [[jquery-jquery]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]] [[data]]
 

@@ -34,7 +34,7 @@ Enterprise Architecture Governance & Vendor Procurement Toolkit
 
 ## 相关项目
 
-[[sveltejs-svelte]] [[agricidaniel-claude-seo]] [[mvanhorn-last30days-skill]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]]
+[[sveltejs-svelte]] [[hkuds-cli-anything]] [[obra-superpowers]] [[agricidaniel-claude-seo]] [[php-php-src]]
 
 **所属领域**: [[web]] [[erp]]
 

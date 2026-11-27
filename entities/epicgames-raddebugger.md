@@ -35,5 +35,5 @@ A native, user-mode, multi-process, graphical debugger.
 
 ## 相关项目
 
-[[lz4-lz4]] [[openssl-openssl]] [[mpv-player-mpv]] [[nginx-nginx]]
+[[openssl-openssl]] [[nginx-nginx]] [[lz4-lz4]] [[mpv-player-mpv]]
 

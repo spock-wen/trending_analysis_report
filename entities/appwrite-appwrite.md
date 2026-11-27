@@ -34,7 +34,7 @@ The open-source cloud for agents & devs. Including Auth, Databases, Storage, Fun
 
 ## 相关项目
 
-[[toeverything-affine]] [[mvanhorn-last30days-skill]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[nvidia-skillevaluator]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[toeverything-affine]] [[cursor-plugins]] [[mjmirza-app-store-compliance]]
 
 **所属领域**: [[ai-agent]] [[data]]
 

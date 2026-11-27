@@ -34,7 +34,7 @@ Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or C
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[likely7-veyra-nrvideo]] [[ggml-org-ggml]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[openvinotoolkit-openvino]] [[ggml-org-ggml]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[ai-agent]]
 

@@ -34,7 +34,7 @@ End-to-end, code-first tutorials for building production-grade GenAI agents. Fro
 
 ## 相关项目
 
-[[agricidaniel-claude-seo]] [[thu-maic-openmaic]] [[xiaolai-the-craft-of-selfteaching]] [[patchy631-ai-engineering-hub]] [[hkuds-cli-anything]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[agricidaniel-claude-seo]] [[thu-maic-openmaic]] [[openvinotoolkit-openvino]]
 
 **所属领域**: [[ai-agent]] [[devops]] [[education]] [[erp]]
 

@@ -35,5 +35,5 @@ Node.js JavaScript runtime ✨🐢🚀✨
 
 ## 相关项目
 
-[[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[jquery-jquery]] [[affaan-m-ecc]]
+[[deanchensj-jiangshan-map]] [[affaan-m-ecc]] [[jquery-jquery]] [[sveltejs-svelte]]
 

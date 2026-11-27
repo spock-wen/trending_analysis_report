@@ -34,7 +34,7 @@ Langflow is a powerful tool for building and deploying AI-powered agents and wor
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[elementalsouls-claude-bughunter]]
+[[hkuds-cli-anything]] [[jingyaogong-minimind]] [[obra-superpowers]] [[openvinotoolkit-openvino]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[ai-agent]] [[devops]]
 

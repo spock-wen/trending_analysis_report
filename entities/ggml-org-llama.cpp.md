@@ -35,7 +35,7 @@ LLM inference in C/C++
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[likely7-veyra-nrvideo]] [[ggml-org-ggml]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[openvinotoolkit-openvino]] [[ggml-org-ggml]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[ai-agent]]
 

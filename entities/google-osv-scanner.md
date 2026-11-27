@@ -34,7 +34,7 @@ Vulnerability scanner written in Go which uses the data provided by https://osv.
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[sveltejs-svelte]] [[juliusbrussee-caveman]] [[tencent-loopforge]] [[hkuds-cli-anything]]
+[[getarcaneapp-arcane]] [[hkuds-cli-anything]] [[appwrite-appwrite]] [[mjmirza-app-store-compliance]] [[tencent-loopforge]]
 
 **所属领域**: [[web]] [[data]]
 

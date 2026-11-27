@@ -38,7 +38,7 @@ language: "HTML"
 
 ## 相关项目
 
-[[sveltejs-svelte]] [[mvanhorn-last30days-skill]] [[cathrynlavery-diagram-design]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]]
+[[sveltejs-svelte]] [[hkuds-cli-anything]] [[obra-superpowers]] [[appwrite-appwrite]] [[alchaincyf-huashu-design]]
 
 **所属领域**: [[ai-agent]] [[web]] [[data]]
 

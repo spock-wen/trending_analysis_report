@@ -34,5 +34,5 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[jingyaogong-minimind]]
+[[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[jingyaogong-minimind]] [[zhouxiaoka-autoclip]]
 

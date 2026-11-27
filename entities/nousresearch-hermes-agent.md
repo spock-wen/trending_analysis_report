@@ -38,7 +38,7 @@ The agent that grows with you
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]] [[affaan-m-ecc]]
+[[hkuds-cli-anything]] [[jingyaogong-minimind]] [[obra-superpowers]] [[paperclipai-paperclip]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

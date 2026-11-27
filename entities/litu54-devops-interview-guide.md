@@ -34,7 +34,7 @@ DevOps Interview Guide
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[tracer-cloud-opensre]] [[openvinotoolkit-openvino]] [[elementalsouls-claude-bughunter]]
+[[firecrawl-firecrawl]] [[elementalsouls-claude-bughunter]] [[tracer-cloud-opensre]] [[openvinotoolkit-openvino]]
 
 **所属领域**: [[devops]]
 

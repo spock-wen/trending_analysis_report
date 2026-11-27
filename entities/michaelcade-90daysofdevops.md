@@ -34,7 +34,7 @@ This repository started out as a learning in public project for myself and has n
 
 ## 相关项目
 
-[[mattpocock-skills]] [[zhouxiaoka-autoclip]] [[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]] [[hkuds-cli-anything]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[mattpocock-skills]] [[thu-maic-openmaic]] [[openvinotoolkit-openvino]]
 
 **所属领域**: [[cli]] [[devops]] [[education]]
 

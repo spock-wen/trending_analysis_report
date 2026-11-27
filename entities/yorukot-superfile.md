@@ -36,7 +36,7 @@ Pretty fancy and modern terminal file manager
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[juliusbrussee-caveman]] [[zhouxiaoka-autoclip]] [[tencent-loopforge]] [[hkuds-cli-anything]]
+[[getarcaneapp-arcane]] [[hkuds-cli-anything]] [[obra-superpowers]] [[tencent-loopforge]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[cli]]
 

@@ -38,7 +38,7 @@ The design vocabulary for your coding agent. Steer with polish and bolder, revie
 
 ## 相关项目
 
-[[block-buzz]] [[martin-olivier-airgorah]] [[vercel-labs-agent-browser]] [[mvanhorn-last30days-skill]] [[hkuds-cli-anything]]
+[[martin-olivier-airgorah]] [[hkuds-cli-anything]] [[obra-superpowers]] [[block-buzz]] [[astral-sh-uv]]
 
 **所属领域**: [[ai-agent]]
 

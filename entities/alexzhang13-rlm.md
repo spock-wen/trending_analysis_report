@@ -34,5 +34,5 @@ General plug-and-play inference library for Recursive Language Models (RLMs), su
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[zhouxiaoka-autoclip]] [[jingyaogong-minimind]]
+[[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[jingyaogong-minimind]] [[zhouxiaoka-autoclip]]
 

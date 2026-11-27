@@ -34,5 +34,5 @@ Free and Open Source, Distributed, RESTful Search Engine
 
 ## 相关项目
 
-[[floci-io-floci]] [[thealgorithms-java]] [[nationalsecurityagency-ghidra]] [[yuliskov-smarttube]]
+[[nationalsecurityagency-ghidra]] [[yuliskov-smarttube]] [[thealgorithms-java]] [[floci-io-floci]]
 

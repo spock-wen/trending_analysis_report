@@ -36,5 +36,5 @@ Curated list of the best free apps for PC and mobile
 
 ## 相关项目
 
-[[deanchensj-jiangshan-map]] [[sveltejs-svelte]] [[jquery-jquery]] [[affaan-m-ecc]]
+[[deanchensj-jiangshan-map]] [[affaan-m-ecc]] [[jquery-jquery]] [[sveltejs-svelte]]
 

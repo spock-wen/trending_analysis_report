@@ -35,7 +35,7 @@ No description
 
 ## 相关项目
 
-[[manaflow-ai-cmux]] [[zhouxiaoka-autoclip]] [[obra-superpowers]] [[hkuds-cli-anything]] [[xtool-org-xtool]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[vorssaint-vorssaint-utils]] [[abue-ammar-tinycast]] [[zhouxiaoka-autoclip]]
 
 **所属领域**: [[cli]]
 

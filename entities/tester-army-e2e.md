@@ -37,7 +37,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ## 相关项目
 
-[[sveltejs-svelte]] [[toeverything-affine]] [[nvidia-auto-ontology]] [[mvanhorn-last30days-skill]] [[firecrawl-firecrawl]]
+[[conardli-garden-skills]] [[hkuds-cli-anything]] [[toeverything-affine]] [[nvidia-auto-ontology]] [[cursor-plugins]]
 
 **所属领域**: [[web]] [[image-gen]]
 

@@ -36,7 +36,7 @@ Become a cracked AI/ML Research Engineer
 
 ## 相关项目
 
-[[toeverything-affine]] [[mvanhorn-last30days-skill]] [[firecrawl-firecrawl]] [[hkuds-cli-anything]] [[affaan-m-ecc]]
+[[hkuds-cli-anything]] [[paperclipai-paperclip]] [[obra-superpowers]] [[toeverything-affine]] [[cursor-plugins]]
 
 **所属领域**: [[ai-agent]] [[science]]
 

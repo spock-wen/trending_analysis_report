@@ -34,7 +34,7 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 
 ## 相关项目
 
-[[ntdevlabs-tiny11builder]] [[toeverything-affine]] [[martin-olivier-airgorah]] [[jiafeimiao-k-cat-discimagestudio]] [[affaan-m-ecc]]
+[[jiafeimiao-k-cat-discimagestudio]] [[martin-olivier-airgorah]] [[toeverything-affine]] [[mjmirza-app-store-compliance]] [[ntdevlabs-tiny11builder]]
 
 **所属领域**: [[security]]
 

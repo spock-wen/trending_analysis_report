@@ -36,5 +36,5 @@ A Tiny biped duck robot 🦆
 
 ## 相关项目
 
-[[astral-sh-uv]] [[block-buzz]] [[martin-olivier-airgorah]] [[vercel-labs-agent-browser]]
+[[martin-olivier-airgorah]] [[vercel-labs-agent-browser]] [[astral-sh-uv]] [[block-buzz]]
 

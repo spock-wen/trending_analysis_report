@@ -34,7 +34,7 @@ language: "Zig"
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[ashhart-tensorfold]] [[hkuds-cli-anything]] [[google-labs-code-stitch-skills]] [[lightpanda-io-browser]]
+[[hkuds-cli-anything]] [[obra-superpowers]] [[ashhart-tensorfold]] [[zhouxiaoka-autoclip]] [[google-labs-code-stitch-skills]]
 
 **所属领域**: [[cli]]
 

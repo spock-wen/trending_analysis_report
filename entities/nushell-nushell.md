@@ -34,7 +34,7 @@ A new type of shell
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[block-buzz]] [[martin-olivier-airgorah]] [[vercel-labs-agent-browser]] [[hkuds-cli-anything]]
+[[martin-olivier-airgorah]] [[hkuds-cli-anything]] [[obra-superpowers]] [[block-buzz]] [[astral-sh-uv]]
 
 **所属领域**: [[cli]]
 

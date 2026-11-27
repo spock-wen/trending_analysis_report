@@ -35,7 +35,7 @@ Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt
 
 ## 相关项目
 
-[[sveltejs-svelte]] [[toeverything-affine]] [[martin-olivier-airgorah]] [[teslamate-org-teslamate]] [[mvanhorn-last30days-skill]]
+[[martin-olivier-airgorah]] [[hkuds-cli-anything]] [[toeverything-affine]] [[appwrite-appwrite]] [[teslamate-org-teslamate]]
 
 **所属领域**: [[web]] [[data]] [[security]]
 

@@ -37,7 +37,7 @@ A lightweight, lightning-fast, in-process vector database
 
 ## 相关项目
 
-[[firecrawl-firecrawl]] [[nvidia-skillevaluator]] [[likely7-veyra-nrvideo]] [[ggml-org-ggml]] [[appwrite-appwrite]]
+[[openvinotoolkit-openvino]] [[appwrite-appwrite]] [[mjmirza-app-store-compliance]] [[ggml-org-ggml]] [[ggml-org-llama.cpp]]
 
 **所属领域**: [[data]]
 

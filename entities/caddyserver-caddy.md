@@ -35,7 +35,7 @@ Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## 相关项目
 
-[[alibaba-open-code-review]] [[sveltejs-svelte]] [[juliusbrussee-caveman]] [[tencent-loopforge]] [[hkuds-cli-anything]]
+[[getarcaneapp-arcane]] [[hkuds-cli-anything]] [[tencent-loopforge]] [[alibaba-open-code-review]] [[mvanhorn-last30days-skill]]
 
 **所属领域**: [[web]]
 

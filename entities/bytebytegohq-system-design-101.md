@@ -35,7 +35,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 ## 相关项目
 
-[[mvanhorn-last30days-skill]] [[obra-superpowers]] [[hkuds-cli-anything]] [[firecrawl-firecrawl]]
+[[mvanhorn-last30days-skill]] [[hkuds-cli-anything]] [[obra-superpowers]] [[firecrawl-firecrawl]]
 
 **所属领域**: [[ai-agent]]
 

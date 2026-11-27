@@ -37,7 +37,7 @@ Computer use CLI for AI agents
 
 ## 相关项目
 
-[[zhouxiaoka-autoclip]] [[block-buzz]] [[martin-olivier-airgorah]] [[vercel-labs-agent-browser]] [[mvanhorn-last30days-skill]]
+[[martin-olivier-airgorah]] [[hkuds-cli-anything]] [[obra-superpowers]] [[block-buzz]] [[astral-sh-uv]]
 
 **所属领域**: [[ai-agent]] [[cli]]
 

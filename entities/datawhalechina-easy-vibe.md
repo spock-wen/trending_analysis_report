@@ -36,7 +36,7 @@ language: "JavaScript"
 
 ## 相关项目
 
-[[sveltejs-svelte]] [[thu-maic-openmaic]] [[patchy631-ai-engineering-hub]] [[firecrawl-firecrawl]] [[nvidia-skillevaluator]]
+[[thu-maic-openmaic]] [[appwrite-appwrite]] [[mjmirza-app-store-compliance]] [[jquery-jquery]] [[ggml-org-ggml]]
 
 **所属领域**: [[data]] [[education]]
 
